@@ -1,0 +1,125 @@
+T1	ENFERMEDAD 4047 4068	PCR extrahospitalaria
+T2	ENFERMEDAD 70 93	alergias medicamentosas
+T3	ENFERMEDAD 131 139	fumadora
+T4	ENFERMEDAD 253 283	varices en miembros inferiores
+T5	ENFERMEDAD 836 862	parada cardiorrespiratoria
+T6	ENFERMEDAD 1235 1258	bloqueo de rama derecha
+T7	ENFERMEDAD 2955 2979	tromboembolismo pulmonar
+T8	ENFERMEDAD 2984 3009	trombosis venosa profunda
+T9	ENFERMEDAD 3053 3081	patología intracraneal aguda
+T10	ENFERMEDAD 3287 3293	trombo
+T11	ENFERMEDAD 3295 3320	Insuficiencia mitral leve
+T12	ENFERMEDAD 3723 3742	disección coronaria
+T13	ENFERMEDAD 4715 4737	disfunción ventricular
+T14	ENFERMEDAD 4962 5000	disección espirodiea de la DA proximal
+T15	ENFERMEDAD 5472 5492	hipotensión arterial
+T16	ENFERMEDAD 5495 5514	taquicardia sinusal
+T17	ENFERMEDAD 5808 5821	trombo apical
+T18	ENFERMEDAD 6214 6220	trombo
+T19	ENFERMEDAD 6235 6261	Parada cardiorrespiratoria
+T20	ENFERMEDAD 6315 6336	Cardiopatía isquémica
+T21	ENFERMEDAD 6338 6392	síndrome coronario agudo con elevación del segmento ST
+T22	ENFERMEDAD 6394 6401	SCACEST
+T23	ENFERMEDAD 6404 6475	infarto con onda Q secundario a disección espiroidea de DA con oclusión
+T24	ENFERMEDAD 6644 6670	trombo mural en ápex de VI
+T25	ENFERMEDAD 141 149	Bebedora
+T26	ENFERMEDAD 864 867	PCR
+T27	ENFERMEDAD 3422 3480	Arteria descendente anterior (DA) con disección espiroidea
+T28	ENFERMEDAD 4253 4256	PCR
+T29	ENFERMEDAD 5005 5036	oclusión a nivel de la DA media
+T30	ENFERMEDAD 5929 5948	necrosis miocárdica
+T31	ENFERMEDAD 3926 3983	trombo mural de 13 x 8 mm en ápex de ventrículo izquierdo
+T32	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T33	PROCEDIMIENTO 582 599	antiinflamatorios
+T34	PROCEDIMIENTO 888 940	maniobras de reanimación cardiopulmonar (RCP) básica
+T35	PROCEDIMIENTO 929 932	RCP
+T36	PROCEDIMIENTO 1105 1117	RCP avanzada
+T37	PROCEDIMIENTO 1123 1145	intubación orotraqueal
+T38	PROCEDIMIENTO 1148 1177	ventilación mecánica invasiva
+T39	PROCEDIMIENTO 1185 1203	electrocardiograma
+T40	PROCEDIMIENTO 1205 1208	ECG
+T41	PROCEDIMIENTO 1419 1437	Exploración física
+T42	PROCEDIMIENTO 1633 1662	ventilación mecánica invasiva
+T43	PROCEDIMIENTO 1719 1740	Auscultación cardiaca
+T44	PROCEDIMIENTO 1796 1817	Auscultación pulmonar
+T45	PROCEDIMIENTO 1973 1982	Hemograma
+T46	PROCEDIMIENTO 2218 2233	Perfil lipídico
+T47	PROCEDIMIENTO 2536 2547	Coagulación
+T48	PROCEDIMIENTO 2693 2712	Gasometría arterial
+T49	PROCEDIMIENTO 2776 2779	ECG
+T50	PROCEDIMIENTO 2905 2936	Angio-TC de arterias pulmonares
+T51	PROCEDIMIENTO 3011 3037	TC de cráneo sin contraste
+T52	PROCEDIMIENTO 3083 3097	Ecocardiograma
+T53	PROCEDIMIENTO 3322 3337	Coronariografía
+T54	PROCEDIMIENTO 3583 3676	Intervencionismo coronario percutáneo a DA: se implanta balón de contrapulsación intraaórtico
+T55	PROCEDIMIENTO 3702 3706	IVUS
+T56	PROCEDIMIENTO 3773 3850	se realiza implante de tres stents farmacoactivos desde DA distal a DA ostial
+T57	PROCEDIMIENTO 3896 3924	Ecocardiograma con contraste
+T58	PROCEDIMIENTO 4139 4142	ECG
+T59	PROCEDIMIENTO 4258 4275	angio-TC pulmonar
+T60	PROCEDIMIENTO 4278 4288	TC craneal
+T61	PROCEDIMIENTO 4306 4321	ecocardioscopia
+T62	PROCEDIMIENTO 4434 4440	sedada
+T63	PROCEDIMIENTO 4670 4684	ecocardiograma
+T64	PROCEDIMIENTO 4840 4843	ECG
+T65	PROCEDIMIENTO 4917 4942	coronariografía emergente
+T66	PROCEDIMIENTO 5060 5180	implantándose tres stents farmacoactivos con buen resultado angiográfico, así como balón de contrapulsación intraaórtico
+T67	PROCEDIMIENTO 5246 5289	retirada del soporte con aminas y del BCIAo
+T68	PROCEDIMIENTO 5584 5609	tratamiento neurohormonal
+T69	PROCEDIMIENTO 5670 5674	IECA
+T70	PROCEDIMIENTO 5678 5693	betabloqueantes
+T71	PROCEDIMIENTO 5718 5732	ecocardiograma
+T72	PROCEDIMIENTO 5860 5888	ecocardiograma con contraste
+T73	PROCEDIMIENTO 6004 6033	triple terapia antitrombótica
+T74	PROCEDIMIENTO 6038 6058	doble antiagregación
+T75	PROCEDIMIENTO 6522 6598	implante de tres stents solapados farmacoactivos desde DA distal a DA ostial
+T76	PROCEDIMIENTO 1604 1619	Sedoanalgesiada
+T77	PROCEDIMIENTO 2080 2090	Bioquímica
+T78	PROCEDIMIENTO 5614 5668	inhibidores de la enzima conversora de la angiotensina
+T79	PROCEDIMIENTO 1962 1971	Analítica
+T80	PROCEDIMIENTO 288 311	intervención quirúrgica
+T81	PROCEDIMIENTO 4446 4472	perfusión de noradrenalina
+T82	PROCEDIMIENTO 1319 1346	se activa el Código Infarto
+T83	PROCEDIMIENTO 4110 4134	se activa Código Infarto
+T84	SINTOMA 485 511	dolor precordial en reposo
+T85	SINTOMA 664 680	dolor precordial
+T86	SINTOMA 1002 1021	ritmo desfibrilable
+T87	SINTOMA 1033 1046	ritmo sinusal
+T88	SINTOMA 1664 1686	Buena perfusión distal
+T89	SINTOMA 1688 1717	Presión venosa yugular normal
+T90	SINTOMA 1742 1767	ruidos cardiacos rítmicos
+T91	SINTOMA 1769 1782	taquicárdicos
+T92	SINTOMA 1788 1794	soplos
+T93	SINTOMA 1819 1848	murmullo vesicular conservado
+T94	SINTOMA 1850 1884	Extremidades inferiores sin edemas
+T95	SINTOMA 1886 1935	Pulsos carotídeos, radiales y femorales presentes
+T96	SINTOMA 2792 2805	ritmo sinusal
+T97	SINTOMA 2807 2831	onda T negativa en V3-V5
+T98	SINTOMA 2852 2865	ritmo sinusal
+T99	SINTOMA 2867 2903	elevación del segmento ST de V2 a V4
+T100	SINTOMA 4163 4188	elevación del segmento ST
+T101	SINTOMA 4491 4504	ritmo sinusal
+T102	SINTOMA 4511 4534	compromiso respiratorio
+T103	SINTOMA 4536 4565	reactiva a estímulos verbales
+T104	SINTOMA 4578 4633	movimientos coordinados con las extremidades superiores
+T105	SINTOMA 4640 4657	pupilas reactivas
+T106	SINTOMA 4740 4817	alteraciones segmentarias de la contractilidad en territorio de la arteria DA
+T107	SINTOMA 4870 4904	elevación del segmento ST anterior
+T108	SINTOMA 5360 5390	amnesia de episodios recientes
+T109	SINTOMA 5472 5492	hipotensión arterial
+T110	SINTOMA 5745 5770	disfunción moderada de VI
+T111	SINTOMA 3142 3213	acinesia septoapical y de ápex, hipocinesia septal media y lateroapical
+T112	SINTOMA 4258 4297	angio-TC pulmonar y TC craneal normales
+T113	SINTOMA 4353 4399	alteraciones segmentarias de la contractilidad
+T114	SINTOMA 6600 6625	FEVI moderadamente afecta
+T115	SINTOMA 3380 3420	Tronco coronario izquierdo sin estenosis
+T116	SINTOMA 719 748	afectación del estado general
+T117	SINTOMA 3339 3378	arteria coronaria derecha sin estenosis
+T118	SINTOMA 3548 3581	Arteria circunfleja sin estenosis
+T119	FARMACO 362 376	levonorgestrel
+T120	FARMACO 384 399	etinilestradiol
+T121	FARMACO 4459 4472	noradrenalina
+T122	FARMACO 6063 6085	ácido acetilsalicílico
+T123	FARMACO 6087 6098	clopidogrel
+T124	FARMACO 6101 6113	acenocumarol
+T125	FARMACO 5271 5277	aminas

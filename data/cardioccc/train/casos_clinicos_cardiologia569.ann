@@ -1,0 +1,132 @@
+T1	DISEASE 3007 3099	ventrículo izquierdo de dimensiones conservadas, con paredes gravemente aumentadas de grosor
+T2	DISEASE 5862 5920	hipertrofia simétrica concéntrica del ventrículo izquierdo
+T3	DISEASE 113 136	alergias medicamentosas
+T4	DISEASE 238 272	neumonía adquirida en la comunidad
+T5	DISEASE 284 306	insuficiencia cardiaca
+T6	DISEASE 359 377	síndrome depresivo
+T7	DISEASE 379 399	síndrome vertiginoso
+T8	DISEASE 579 588	diabético
+T9	DISEASE 594 597	ERC
+T10	DISEASE 628 639	cardiopatía
+T11	DISEASE 667 688	fibrilación auricular
+T12	DISEASE 703 759	infarto agudo de miocardio sin elevación del segmento ST
+T13	DISEASE 761 768	IAMSEST
+T14	DISEASE 2090 2105	derrame pleural
+T15	DISEASE 2220 2251	trastornos de la repolarización
+T16	DISEASE 3187 3208	Disfunción diastólica
+T17	DISEASE 3262 3289	Insuficiencia mitral severa
+T18	DISEASE 3770 3789	derrame pericárdico
+T19	DISEASE 3834 3896	Ventrículo izquierdo no dilatado, con hipertrofia septal grave
+T20	DISEASE 4338 4363	insuficiencia tricuspídea
+T21	DISEASE 4365 4367	IT
+T22	DISEASE 4370 4390	insuficiencia mitral
+T23	DISEASE 4609 4618	exostosis
+T24	DISEASE 5077 5111	neumonía adquirida en la comunidad
+T25	DISEASE 5124 5139	derrame pleural
+T26	DISEASE 5431 5446	derrame pleural
+T27	DISEASE 5900 5953	ventrículo izquierdo asociado a disfunción diastólica
+T28	DISEASE 6087 6107	amiloidosis cardiaca
+T29	DISEASE 6158 6181	amiloidosis cardiaca AL
+T30	DISEASE 6184 6188	ATTR
+T31	DISEASE 6449 6460	amiloidosis
+T32	DISEASE 6574 6590	mieloma múltiple
+T33	DISEASE 6664 6675	amiloidosis
+T34	DISEASE 6816 6844	Insuficiencia cardiaca aguda
+T35	DISEASE 6866 6889	Amiloidosis cardiaca AL
+T36	DISEASE 6891 6917	Mieloma múltiple IgA kappa
+T37	DISEASE 6919 6950	Neumonía adquirida en comunidad
+T38	DISEASE 2160 2201	bloqueo incompleto de rama derecha del HH
+T39	DISEASE 3291 3318	aurícula izquierda dilatada
+T40	DISEASE 4293 4334	Ventrículo derecho levemente hipertrófico
+T41	DISEASE 4392 4394	IM
+T42	DISEASE 4437 4440	SAM
+T43	DISEASE 4487 4592	sobrecrecimiento óseo de base ancha que afecta la pared posterior del conducto auditivo interno izquierdo
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 439 453	rehabilitación
+T46	PROCEDURE 613 625	hemodiálisis
+T47	PROCEDURE 1030 1048	Exploración física
+T48	PROCEDURE 1225 1246	Auscultación cardiaca
+T49	PROCEDURE 1318 1339	Auscultación pulmonar
+T50	PROCEDURE 1480 1489	hemograma
+T51	PROCEDURE 1770 1790	Marcadores cardiacos
+T52	PROCEDURE 1846 1857	Antigenuria
+T53	PROCEDURE 1948 1962	PCR SARS-CoV-2
+T54	PROCEDURE 1974 1994	Radiografía de tórax
+T55	PROCEDURE 2107 2110	ECG
+T56	PROCEDURE 2293 2315	proteinograma en suero
+T57	PROCEDURE 2762 2785	Perfil de autoinmunidad
+T58	PROCEDURE 2797 2813	Estudio en orina
+T59	PROCEDURE 2962 2990	Ecocardiograma transtorácico
+T60	PROCEDURE 3520 3549	Resonancia magnética cardiaca
+T61	PROCEDURE 3551 3554	RMC
+T62	PROCEDURE 4442 4485	Resonancia magnética nuclear (RMN) cerebral
+T63	PROCEDURE 4620 4657	Gammagrafía cardiaca con pirofosfatos
+T64	PROCEDURE 4690 4736	Biopsia de tejido celular subcutáneo abdominal
+T65	PROCEDURE 4784 4806	Biopsia de medula ósea
+T66	PROCEDURE 5164 5175	antibiótico
+T67	PROCEDURE 5365 5385	radiografía de tórax
+T68	PROCEDURE 5578 5592	ecocardiograma
+T69	PROCEDURE 5813 5834	tratamiento diurético
+T70	PROCEDURE 5839 5853	ecocardiograma
+T71	PROCEDURE 6051 6054	RMC
+T72	PROCEDURE 6200 6228	gammagrafía con pirofosfatos
+T73	PROCEDURE 6279 6292	proteinograma
+T74	PROCEDURE 6295 6327	inmunofijación en sangre y orina
+T75	PROCEDURE 6381 6430	biopsia de grasa abdominal con tinción rojo Congo
+T76	PROCEDURE 6482 6504	biopsia de médula ósea
+T77	PROCEDURE 6614 6641	biopsia de glándula salival
+T78	PROCEDURE 1594 1604	Bioquímica
+T79	PROCEDURE 4472 4475	RMN
+T80	PROCEDURE 1461 1470	Analítica
+T81	PROCEDURE 2253 2262	Analítica
+T82	PROCEDURE 1049 1067	Constantes vitales
+T83	PROCEDURE 5462 5471	analítica
+T84	PROCEDURE 3992 4005	contraste i.v
+T85	PROCEDURE 2699 2715	Inmunoglobulinas
+T86	SYMPTOM 412 421	dorsalgia
+T87	SYMPTOM 844 898	disnea que progresa hasta hacerse de mínimos esfuerzos
+T88	SYMPTOM 903 911	ortopnea
+T89	SYMPTOM 913 940	disnea paroxística nocturna
+T90	SYMPTOM 942 945	DPN
+T91	SYMPTOM 948 979	tos con expectoración purulenta
+T92	SYMPTOM 981 1004	disminución de diuresis
+T93	SYMPTOM 1007 1027	sensación distérmica
+T94	SYMPTOM 1177 1196	Buen estado general
+T95	SYMPTOM 1202 1223	ingurgitación yugular
+T96	SYMPTOM 1248 1263	ruidos rítmicos
+T97	SYMPTOM 1268 1316	soplo sistólico intensidad II/VI en foco aórtico
+T98	SYMPTOM 1318 1367	Auscultación pulmonar: ruidos disminuidos en base
+T99	SYMPTOM 1386 1409	crepitantes bilaterales
+T100	SYMPTOM 1411 1434	Extremidades sin edemas
+T101	SYMPTOM 1859 1889	antígeno de neumococo positivo
+T102	SYMPTOM 1948 1972	PCR SARS-CoV-2: negativa
+T103	SYMPTOM 2007 2030	silueta cardiaca normal
+T104	SYMPTOM 2040 2071	infiltrado intersticial en base
+T105	SYMPTOM 2112 2125	ritmo sinusal
+T106	SYMPTOM 2136 2145	PR normal
+T107	SYMPTOM 3328 3393	Ventrículo derecho de dimensiones y función sistólica conservadas
+T108	SYMPTOM 5257 5260	tos
+T109	SYMPTOM 5291 5297	disnea
+T110	SYMPTOM 5299 5307	ortopnea
+T111	SYMPTOM 5324 5352	edema en miembros inferiores
+T112	SYMPTOM 5487 5509	elevación de NT-proBNP
+T113	SYMPTOM 5752 5758	mareos
+T114	SYMPTOM 5773 5801	edema en miembros inferiores
+T115	SYMPTOM 1891 1946	antígeno de Legionella pneumophila serogrupo 1 negativo
+T116	SYMPTOM 3834 3866	Ventrículo izquierdo no dilatado
+T117	SYMPTOM 6412 6460	tinción rojo Congo fue negativa para amiloidosis
+T118	SYMPTOM 3144 3185	defectos de la contractilidad segmentaria
+T119	SYMPTOM 4763 4782	rojo Congo negativo
+T120	SYMPTOM 3007 3054	ventrículo izquierdo de dimensiones conservadas
+T121	SYMPTOM 4398 4425	jet de aceleración del TSVI
+T122	SYMPTOM 4808 4827	rojo Congo negativo
+T123	SYMPTOM 6279 6376	proteinograma e inmunofijación en sangre y orina que detectó componente monoclonal tipo IgA kappa
+T124	SYMPTOM 6849 6864	FEVI conservada
+T125	MEDICATION 478 489	betahistina
+T126	MEDICATION 504 514	bromazepam
+T127	MEDICATION 517 536	paracetamol/codeína
+T128	MEDICATION 5180 5191	ceftriaxona
+T129	MEDICATION 5196 5210	claritromicina
+T130	MEDICATION 6763 6773	bortezomib
+T131	MEDICATION 6774 6788	ciclofosfamida
+T132	MEDICATION 6789 6801	dexametasona

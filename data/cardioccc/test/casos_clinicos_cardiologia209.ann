@@ -1,0 +1,118 @@
+T1	ENFERMEDAD 1810 1824	organomegalias
+T2	ENFERMEDAD 108 143	reacciones alérgicas a medicamentos
+T3	ENFERMEDAD 206 224	consumo de tóxicos
+T4	ENFERMEDAD 261 273	cardiopatías
+T5	ENFERMEDAD 365 383	cáncer colorrectal
+T6	ENFERMEDAD 911 940	consumo de fármacos o tóxicos
+T7	ENFERMEDAD 1355 1378	fibrilación ventricular
+T8	ENFERMEDAD 1937 1962	trombosis venosa profunda
+T9	ENFERMEDAD 2553 2576	fibrilación ventricular
+T10	ENFERMEDAD 2713 2758	bloqueos en la conducción auriculoventricular
+T11	ENFERMEDAD 2853 2876	bloqueo de rama derecha
+T12	ENFERMEDAD 3342 3354	valvulopatía
+T13	ENFERMEDAD 3420 3433	valvulopatías
+T14	ENFERMEDAD 3460 3479	derrame pericárdico
+T15	ENFERMEDAD 4399 4418	derrame pericárdico
+T16	ENFERMEDAD 4725 4751	miocardiopatía estructural
+T17	ENFERMEDAD 4976 4987	cardiopatía
+T18	ENFERMEDAD 5216 5227	cardiopatía
+T19	ENFERMEDAD 5389 5408	síndrome de Brugada
+T20	ENFERMEDAD 5742 5769	extrasístoles ventriculares
+T21	ENFERMEDAD 6405 6428	fibrilación ventricular
+T22	ENFERMEDAD 6430 6432	FV
+T23	ENFERMEDAD 6489 6571	extrasístole ventricular con morfología del tracto de salida el ventrículo derecho
+T24	ENFERMEDAD 6958 6981	fibrilación ventricular
+T25	ENFERMEDAD 7342 7390	Síndrome de Brugada con patrón tipo I espontáneo
+T26	ENFERMEDAD 7393 7412	mutación patológica
+T27	ENFERMEDAD 7414 7448	Fibrilación ventricular recurrente
+T28	ENFERMEDAD 7537 7560	cardiopatía estructural
+T29	ENFERMEDAD 6331 6348	episodio sincopal
+T30	PROCEDIMIENTO 1310 1330	electrocardiográfico
+T31	PROCEDIMIENTO 1454 1472	Exploración física
+T32	PROCEDIMIENTO 1619 1642	Exploración neurológica
+T33	PROCEDIMIENTO 1674 1695	auscultación cardiaca
+T34	PROCEDIMIENTO 1722 1743	auscultación pulmonar
+T35	PROCEDIMIENTO 1773 1794	exploración abdominal
+T36	PROCEDIMIENTO 2469 2487	Electrocardiograma
+T37	PROCEDIMIENTO 2489 2492	ECG
+T38	PROCEDIMIENTO 2600 2632	monitorización extrahospitalaria
+T39	PROCEDIMIENTO 2634 2637	ECG
+T40	PROCEDIMIENTO 3138 3166	Ecocardiograma transtorácico
+T41	PROCEDIMIENTO 3617 3660	Resonancia magnética nuclear (RMN) cardiaca
+T42	PROCEDIMIENTO 3673 3742	RM con secuencias anatómicas en el plano axial potenciadas en T1 y T2
+T43	PROCEDIMIENTO 3898 3918	Valoración anatómica
+T44	PROCEDIMIENTO 4360 4387	administración de gadolinio
+T45	PROCEDIMIENTO 4763 4779	Estudio genético
+T46	PROCEDIMIENTO 5039 5053	desfibrilación
+T47	PROCEDIMIENTO 5090 5119	ecocardiografía transtorácica
+T48	PROCEDIMIENTO 5122 5157	cardiorresonancia magnética nuclear
+T49	PROCEDIMIENTO 5248 5251	ECG
+T50	PROCEDIMIENTO 5424 5475	implante de un desfibrilador automático implantable
+T51	PROCEDIMIENTO 5823 5849	tratamiento betabloqueante
+T52	PROCEDIMIENTO 5893 5909	estudio genético
+T53	PROCEDIMIENTO 6087 6090	ECG
+T54	PROCEDIMIENTO 6238 6254	estudio genético
+T55	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 2155 2166	coagulación
+T57	PROCEDIMIENTO 5001 5025	monitorización intensiva
+T58	PROCEDIMIENTO 3647 3650	RMN
+T59	PROCEDIMIENTO 4781 4799	panel canalopatías
+T60	PROCEDIMIENTO 5159 5162	CRM
+T61	PROCEDIMIENTO 5477 5480	DAI
+T62	PROCEDIMIENTO 2034 2051	Estudio analítico
+T63	PROCEDIMIENTO 6590 6609	estudio morfológico
+T64	PROCEDIMIENTO 7564 7585	estudios morfológicos
+T65	PROCEDIMIENTO 6115 6134	test de provocación
+T66	PROCEDIMIENTO 1404 1421	descargas a 100 J
+T67	PROCEDIMIENTO 1798 1809	se palparon
+T68	PROCEDIMIENTO 6213 6232	test de provocación
+T69	PROCEDIMIENTO 6933 6942	descargas
+T70	PROCEDIMIENTO 7208 7217	descargas
+T71	PROCEDIMIENTO 7462 7498	desfibrilador automático implantable
+T72	SINTOMA 558 597	pérdida súbita del nivel de consciencia
+T73	SINTOMA 662 676	dolor torácico
+T74	SINTOMA 743 774	palpitaciones a alta frecuencia
+T75	SINTOMA 826 842	malestar general
+T76	SINTOMA 863 879	sensación febril
+T77	SINTOMA 882 902	síntomas infecciosos
+T78	SINTOMA 1240 1262	pérdida de consciencia
+T79	SINTOMA 1438 1451	ritmo sinusal
+T80	SINTOMA 1619 1659	Exploración neurológica sin alteraciones
+T81	SINTOMA 1674 1703	auscultación cardiaca rítmica
+T82	SINTOMA 1709 1715	soplos
+T83	SINTOMA 1722 1766	auscultación pulmonar sin ruidos patológicos
+T84	SINTOMA 1829 1863	reflujo hepatoyugular fue negativo
+T85	SINTOMA 1869 1910	miembros inferiores no presentaban edemas
+T86	SINTOMA 1968 2007	pulsos se palpaban fuertes y simétricos
+T87	SINTOMA 2520 2542	pérdida de consciencia
+T88	SINTOMA 2678 2709	ritmo sinusal sin preexcitación
+T89	SINTOMA 3009 3041	intervalo QT corregido es normal
+T90	SINTOMA 3176 3204	función sistólica conservada
+T91	SINTOMA 3210 3255	alteraciones de la contractilidad segmentaria
+T92	SINTOMA 4292 4297	edema
+T93	SINTOMA 5954 5986	mutación missense en el gen SCN5
+T94	SINTOMA 3366 3397	Válvula mitral normofuncionante
+T95	SINTOMA 1598 1617	taquipnea en reposo
+T96	SINTOMA 2132 2166	Sin alteraciones de la coagulación
+T97	SINTOMA 2918 2932	ST descendente
+T98	SINTOMA 2994 3004	T negativa
+T99	SINTOMA 4801 4832	Mutación missense en el geSnCN5
+T100	SINTOMA 3481 3511	Vena cava inferior no dilatada
+T101	SINTOMA 1022 1043	focalidad neurológica
+T102	SINTOMA 2425 2467	tóxicos/drogas de abuso en orina: negativo
+T103	SINTOMA 6115 6143	test de provocación negativo
+T104	SINTOMA 973 982	sacudidas
+T105	SINTOMA 2765 2822	QRS con morfología de patrón de Brugada tipo Ic–oved type
+T106	SINTOMA 3257 3296	Cavidades no dilatadas ni hipertróficas
+T107	SINTOMA 3920 3959	cavidades no hipertróficas ni dilatadas
+T108	SINTOMA 4229 4262	alteraciones de la contractilidad
+T109	SINTOMA 4338 4387	realce tardío tras la administración de gadolinio
+T110	SINTOMA 5301 5358	patrón de Brugada espontáneo tipo 1 (en aleta de tiburón)
+T111	SINTOMA 6087 6112	ECG de superficie anodino
+T112	SINTOMA 6213 6271	test de provocación y el estudio genético fueron negativos
+T113	FARMACO 5854 5864	carvedilol
+T114	FARMACO 6760 6769	quinidina
+T115	FARMACO 6817 6827	carvedilol
+T116	FARMACO 7075 7084	quinidina
+T117	FARMACO 7162 7171	quinidina
+#1	AnnotatorNotes T60	Cardiorresonancia magnética nuclear

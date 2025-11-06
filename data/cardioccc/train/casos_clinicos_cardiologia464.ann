@@ -1,0 +1,96 @@
+T1	DISEASE 80 101	hipertensión arterial
+T2	DISEASE 103 119	diabetes tipo II
+T3	DISEASE 153 163	dislipemia
+T4	DISEASE 195 228	miocardiopatía dilatada isquémica
+T5	DISEASE 292 332	enfermedad coronaria de tronco y 3 vasos
+T6	DISEASE 517 549	fibrilación auricular permanente
+T7	DISEASE 599 625	estenosis aórtica moderada
+T8	DISEASE 777 838	hipertiroidismo por tiroiditis tipo 2 inducida por amiodarona
+T9	DISEASE 891 929	complicaciones trombóticas o embólicas
+T10	DISEASE 1053 1065	hipertensión
+T11	DISEASE 1154 1170	enfermedad renal
+T12	DISEASE 2415 2473	fibrilación auricular con respuesta ventricular controlada
+T13	DISEASE 2598 2613	derrame pleural
+T14	DISEASE 3631 3654	trombo intraventricular
+T15	DISEASE 3769 3800	trombos en TSVI ni raíz aórtica
+T16	DISEASE 4469 4488	derrame pericárdico
+T17	DISEASE 5968 5991	trombos intracavitarios
+T18	DISEASE 6127 6141	lesión tumoral
+T19	DISEASE 6144 6168	consolidación infecciosa
+T20	DISEASE 6174 6213	atelectasia pasiva del pulmón izquierdo
+T21	DISEASE 6259 6268	trombosis
+T22	DISEASE 6354 6390	insuficiencia cardiaca de alto gasto
+T23	DISEASE 7070 7107	Insuficiencia cardiaca por alto gasto
+T24	DISEASE 7109 7135	Derrame pleural secundario
+T25	DISEASE 7224 7253	Disfunción ventricular severa
+T26	DISEASE 7311 7344	Miocardiopatía dilatada isquémica
+T27	DISEASE 7346 7377	Enfermedad coronaria de 3 vasos
+T28	DISEASE 3889 3923	Válvula aórtica esclerocalcificada
+T29	DISEASE 3830 3837	trombos
+T30	DISEASE 1953 1966	hepatomegalia
+T31	DISEASE 483 495	flúter común
+T32	DISEASE 2530 2533	BRD
+T33	DISEASE 233 266	disfunción ventricular muy severa
+T34	DISEASE 6197 6228	pulmón izquierdo por el derrame
+T35	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDURE 443 478	ablación del istmo cavo-tricuspídeo
+T37	PROCEDURE 1437 1455	exploración física
+T38	PROCEDURE 1527 1552	Doppler vascular portátil
+T39	PROCEDURE 1739 1760	auscultación cardiaca
+T40	PROCEDURE 1875 1896	auscultación pulmonar
+T41	PROCEDURE 2410 2413	ECG
+T42	PROCEDURE 2576 2596	Radiografía de tórax
+T43	PROCEDURE 3042 3070	Ecocardiograma transtorácico
+T44	PROCEDURE 3360 3389	Ecocardiograma transesofágico
+T45	PROCEDURE 4490 4519	Ecocardiograma transesofágico
+T46	PROCEDURE 4803 4806	ETE
+T47	PROCEDURE 4943 4963	Estudio hemodinámico
+T48	PROCEDURE 5072 5092	Estudio hemodinámico
+T49	PROCEDURE 5291 5311	estudio hemodinámico
+T50	PROCEDURE 5484 5494	diuréticos
+T51	PROCEDURE 5554 5583	ecocardiograma transesofágico
+T52	PROCEDURE 6041 6067	estudio de líquido pleural
+T53	PROCEDURE 6095 6106	TC de tórax
+T54	PROCEDURE 6767 6786	cateterismo derecho
+T55	PROCEDURE 6789 6792	ETE
+T56	PROCEDURE 6994 7009	vasodilatadores
+T57	PROCEDURE 7027 7036	diurético
+T58	PROCEDURE 7346 7404	Enfermedad coronaria de 3 vasos revascularizada con stents
+T59	PROCEDURE 5528 5541	función renal
+T60	PROCEDURE 292 368	enfermedad coronaria de tronco y 3 vasos revascularizada de forma percutánea
+T61	PROCEDURE 2790 2799	Analítica
+T62	PROCEDURE 2968 2977	Analítica
+T63	PROCEDURE 1134 1146	hipotensores
+T64	PROCEDURE 740 743	DAI
+T65	PROCEDURE 2733 2765	Asistencia ventricular izquierda
+T66	PROCEDURE 2768 2771	DAI
+T67	PROCEDURE 7149 7205	dispositivo de asistencia circulatoria tipo HeartMate II
+T68	SYMPTOM 1071 1100	deterioro de la función renal
+T69	SYMPTOM 1269 1312	disnea hasta hacerse de moderados esfuerzos
+T70	SYMPTOM 1351 1365	dolor torácico
+T71	SYMPTOM 1382 1420	movimientos inspiratorios en hemitórax
+T72	SYMPTOM 1662 1690	ingurgitación venosa yugular
+T73	SYMPTOM 1772 1824	ruido de flujo continuo de la asistencia ventricular
+T74	SYMPTOM 1834 1849	soplo sistólico
+T75	SYMPTOM 1901 1929	hipoventilación en hemitórax
+T76	SYMPTOM 1976 2018	edemas bimaleolares en miembros inferiores
+T77	SYMPTOM 2097 2107	supuración
+T78	SYMPTOM 2111 2118	eritema
+T79	SYMPTOM 2536 2551	onda T negativa
+T80	SYMPTOM 3187 3234	Función global impresiona severamente deprimida
+T81	SYMPTOM 3284 3314	Ventrículo derecho no dilatado
+T82	SYMPTOM 4003 4085	Ventrículo izquierdo no dilatado, función sistólica global moderadamente deprimida
+T83	SYMPTOM 4180 4250	Ventrículo derecho no dilatado con función global ligeramente reducida
+T84	SYMPTOM 5372 5391	gasto cardiaco alto
+T85	SYMPTOM 6679 6685	disnea
+T86	SYMPTOM 6688 6702	dolor torácico
+T87	SYMPTOM 1702 1732	reflujo hepatoyugular positivo
+T88	SYMPTOM 2494 2505	QS inferior
+T89	SYMPTOM 2507 2516	QRS ancho
+T90	SYMPTOM 3127 3185	Ventrículo izquierdo con movimiento disquinético del septo
+T91	SYMPTOM 4395 4423	Septo interauricular integro
+T92	SYMPTOM 2654 2673	patrón intersticial
+T93	SYMPTOM 3802 3837	Orejuela izquierda libre de trombos
+T94	SYMPTOM 5325 5367	aumento de presiones derechas e izquierdas
+T95	SYMPTOM 6052 6092	líquido pleural compatible con trasudado
+T96	MEDICATION 828 838	amiodarona

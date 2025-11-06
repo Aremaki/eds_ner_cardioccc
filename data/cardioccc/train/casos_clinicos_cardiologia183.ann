@@ -1,0 +1,195 @@
+T1	DISEASE 1072 1099	disnea paroxística nocturna
+T2	DISEASE 6722 6776	VD no dilatado ni hipertrófico con disfunción moderada
+T3	DISEASE 91 109	síndrome depresivo
+T4	DISEASE 172 179	migraña
+T5	DISEASE 181 185	asma
+T6	DISEASE 829 833	asma
+T7	DISEASE 1672 1685	hepatomegalia
+T8	DISEASE 4373 4437	Insuficiencia tricúspide algo excéntrica, de grado leve-moderado
+T9	DISEASE 4821 4857	Insuficiencia mitral (IM) excéntrica
+T10	DISEASE 5374 5431	Insuficiencia tricuspídea (IT) que impresiona de moderada
+T11	DISEASE 5657 5675	Leve hepatomegalia
+T12	DISEASE 5720 5746	Imagen quística en la mama
+T13	DISEASE 6854 6880	miocardiopatía restrictiva
+T14	DISEASE 6914 6937	fibrosis endomiocárdica
+T15	DISEASE 7028 7051	fibrosis endomiocárdica
+T16	DISEASE 7069 7119	fibrosis extensa y engrosamiento grave endocárdico
+T17	DISEASE 7524 7550	congestión venosa hepática
+T18	DISEASE 8129 8151	insuficiencia cardiaca
+T19	DISEASE 8253 8279	miocardiopatía restrictiva
+T20	DISEASE 8402 8424	insuficiencia cardiaca
+T21	DISEASE 8929 8965	bacteriemia por Enterobacter cloacae
+T22	DISEASE 9197 9220	fibrosis endomiocárdica
+T23	DISEASE 9242 9264	trombo laminar en ápex
+T24	DISEASE 9286 9309	fibrosis endomiocárdica
+T25	DISEASE 9445 9466	hipertensión pulmonar
+T26	DISEASE 9578 9596	shock cardiogénico
+T27	DISEASE 9703 9725	insuficiencia cardiaca
+T28	DISEASE 9754 9777	fibrosis endomiocárdica
+T29	DISEASE 9779 9819	Insuficiencia mitral (IM) moderada-grave
+T30	DISEASE 9821 9860	Insuficiencia tricuspídea (IT) moderada
+T31	DISEASE 9862 9897	Hipertensión pulmonar grave grupo 2
+T32	DISEASE 9899 9919	Trombo en ápex de VI
+T33	DISEASE 9921 9939	Shock cardiogénico
+T34	DISEASE 9942 10014	shock séptico asociado secundario a bacteriemia por Enterobacter cloacae
+T35	DISEASE 10016 10072	Síndrome adaptativo con sintomatologia ansioso-depresiva
+T36	DISEASE 1913 1919	BIRDHH
+T37	DISEASE 5508 5530	Dilatación biauricular
+T38	DISEASE 6778 6800	Dilatación biauricular
+T39	DISEASE 6802 6829	IM e IT, al menos moderadas
+T40	DISEASE 8326 8343	IM moderada-grave
+T41	DISEASE 5401 5403	IT
+T42	DISEASE 9848 9850	IT
+T43	DISEASE 9726 9752	Miocardiopatía restrictiva
+T44	DISEASE 7708 7715	Sífilis
+T45	DISEASE 3810 3849	Ventrículo derecho ligeramente dilatado
+T46	DISEASE 36 44	alergias
+T47	DISEASE 5616 5655	derrame pleural bilateral y pericárdico
+T48	DISEASE 8498 8509	hipotensión
+T49	DISEASE 8032 8043	parotiditis
+T50	DISEASE 7755 7762	rubéola
+T51	DISEASE 8008 8017	sarampión
+T52	DISEASE 4974 5022	trombo laminar a lo largo de todo el ápex del VI
+T53	DISEASE 6695 6720	trombo laminar en el ápex
+T54	DISEASE 7155 7161	trombo
+T55	DISEASE 7809 7817	varicela
+T56	DISEASE 3309 3352	ventrículo izquierdo moderadamente dilatado
+T57	DISEASE 3389 3409	disfunción sistólica
+T58	DISEASE 4000 4075	Dilatación moderada-grave de la AI y ligera-moderada de la aurícula derecha
+T59	DISEASE 4843 4845	IM
+T60	DISEASE 5677 5712	Dilatación de la vena cava inferior
+T61	DISEASE 3035 3111	crecimiento fundamentalmente de aurícula izquierda (AI) y ventrículo derecho
+T62	DISEASE 4082 4215	Válvula mitral con velos no claramente engrosados ni calcificados, de apertura conservada y con insuficiencia de grado moderado-grave
+T63	DISEASE 8348 8375	hipertensión pulmonar grave
+T64	PROCEDURE 890 917	tratamiento broncodilatador
+T65	PROCEDURE 1348 1369	Auscultación cardiaca
+T66	PROCEDURE 1471 1492	Auscultación pulmonar
+T67	PROCEDURE 1712 1730	Electrocardiograma
+T68	PROCEDURE 1732 1735	ECG
+T69	PROCEDURE 1862 1865	ECG
+T70	PROCEDURE 2937 2957	Radiografía de tórax
+T71	PROCEDURE 3279 3307	Ecocardiograma transtorácica
+T72	PROCEDURE 4607 4636	Resonancia magnética cardiaca
+T73	PROCEDURE 4638 4641	RMC
+T74	PROCEDURE 4647 4666	Estudio morfológico
+T75	PROCEDURE 4932 4959	administración de contraste
+T76	PROCEDURE 5441 5468	administración de contraste
+T77	PROCEDURE 5759 5789	Estudio de función ventricular
+T78	PROCEDURE 6939 6961	Biopsia endomiocárdica
+T79	PROCEDURE 7163 7182	Cateterismo derecho
+T80	PROCEDURE 7491 7510	Ecografía abdominal
+T81	PROCEDURE 7567 7579	hemocultivos
+T82	PROCEDURE 7599 7609	Urocultivo
+T83	PROCEDURE 7636 7648	Hemocultivos
+T84	PROCEDURE 7668 7678	Urocultivo
+T85	PROCEDURE 8226 8240	ecocardiograma
+T86	PROCEDURE 8858 8876	soporte inotrópico
+T87	PROCEDURE 9155 9158	RMC
+T88	PROCEDURE 9325 9347	biopsia endomiocárdica
+T89	PROCEDURE 9404 9423	cateterismo derecho
+T90	PROCEDURE 9637 9667	estudio pretrasplante cardiaco
+T91	PROCEDURE 1245 1263	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 7552 7565	Microbiología
+T93	PROCEDURE 7696 7706	Serologías
+T94	PROCEDURE 8646 8657	coagulación
+T95	PROCEDURE 9128 9138	diuréticos
+T96	PROCEDURE 8612 8629	enzimas hepáticas
+T97	PROCEDURE 8583 8596	función renal
+T98	PROCEDURE 8163 8185	tratamiento deplectivo
+T99	PROCEDURE 6212 6236	Cuantificación de flujos
+T100	PROCEDURE 1958 1967	Analítica
+T101	PROCEDURE 2546 2555	Analítica
+T102	SYMPTOM 500 506	disnea
+T103	SYMPTOM 651 680	disnea de esfuerzo progresiva
+T104	SYMPTOM 926 955	edemas en miembros inferiores
+T105	SYMPTOM 958 989	aumento del perímetro abdominal
+T106	SYMPTOM 994 1015	sensación de plenitud
+T107	SYMPTOM 1017 1024	náuseas
+T108	SYMPTOM 1027 1034	vómitos
+T109	SYMPTOM 1062 1070	ortopnea
+T110	SYMPTOM 1102 1110	oliguria
+T111	SYMPTOM 1137 1180	dolor torácico de características anginosas
+T112	SYMPTOM 1182 1225	Palpitaciones ocasionales con los esfuerzos
+T113	SYMPTOM 1339 1346	Afebril
+T114	SYMPTOM 1348 1378	Auscultación cardiaca: rítmica
+T115	SYMPTOM 1380 1392	taquicárdica
+T116	SYMPTOM 1394 1469	soplo sistólico rudo en el borde paraesternal izquierdo (BEI) y foco mitral
+T117	SYMPTOM 1494 1523	murmullo vesicular conservado
+T118	SYMPTOM 1533 1552	crepitantes en base
+T119	SYMPTOM 1562 1596	Edemas con fóvea en ambos maleolos
+T120	SYMPTOM 1598 1617	Abdomen: distendido
+T121	SYMPTOM 1633 1654	irritación peritoneal
+T122	SYMPTOM 1780 1789	PR normal
+T123	SYMPTOM 1791 1803	QRS estrecho
+T124	SYMPTOM 1820 1860	alteraciones agudas de la repolarización
+T125	SYMPTOM 1875 1877	RS
+T126	SYMPTOM 1888 1897	PR normal
+T127	SYMPTOM 1899 1911	QRS estrecho
+T128	SYMPTOM 1921 1956	T negativas en II, III, aVF, V4- V6
+T129	SYMPTOM 2970 3030	alteración de la morfología de la silueta cardiomediastínica
+T130	SYMPTOM 3227 3277	Parénquima pulmonar con alteraciones inespecíficas
+T131	SYMPTOM 3723 3792	Patrón diastólico pseudonormal con tiempo de desaceleración recortado
+T132	SYMPTOM 7524 7550	congestión venosa hepática
+T133	SYMPTOM 7567 7597	hemocultivos (2/1): E. cloacae
+T134	SYMPTOM 7599 7634	Urocultivo (4/1): orina contaminada
+T135	SYMPTOM 7668 7694	Urocultivo (19/1) negativo
+T136	SYMPTOM 8008 8030	sarampión IgG positivo
+T137	SYMPTOM 8498 8509	hipotensión
+T138	SYMPTOM 8570 8596	deterioro de función renal
+T139	SYMPTOM 8599 8629	elevación de enzimas hepáticas
+T140	SYMPTOM 8632 8657	alteración de coagulación
+T141	SYMPTOM 8725 8736	pico febril
+T142	SYMPTOM 8766 8774	tiritona
+T143	SYMPTOM 8777 8803	empeoramiento hemodinámico
+T144	SYMPTOM 5179 5241	ventrículo derecho es de tamaño normal con disfunción moderada
+T145	SYMPTOM 9529 9548	bajo gasto cardiaco
+T146	SYMPTOM 1749 1768	taquicardia sinusal
+T147	SYMPTOM 5258 5277	hipoquinesia global
+T148	SYMPTOM 3118 3173	Redistribución vascular en campos pulmonares superiores
+T149	SYMPTOM 4320 4371	Válvula aórtica morfológica y funcionalmente normal
+T150	SYMPTOM 1120 1129	bendopnea
+T151	SYMPTOM 1805 1815	eje normal
+T152	SYMPTOM 4510 4529	líquido pericárdico
+T153	SYMPTOM 5066 5108	defecto de perfusión subendocárdico difuso
+T154	SYMPTOM 5113 5174	realce tardío subendocárdico (< 25 %) en toda la pared del VI
+T155	SYMPTOM 5288 5330	rectificación del tabique interventricular
+T156	SYMPTOM 8535 8555	signos de bajo gasto
+T157	SYMPTOM 5344 5372	sobrecarga de presión del VD
+T158	SYMPTOM 3643 3672	hipertrofia ligera excéntrica
+T159	SYMPTOM 3868 3929	parámetros de función sistólica en el límite de la normalidad
+T160	SYMPTOM 4082 4171	Válvula mitral con velos no claramente engrosados ni calcificados, de apertura conservada
+T161	SYMPTOM 4671 4720	VI es de tamaño normal con gasto cardiaco elevado
+T162	SYMPTOM 5567 5594	Septo inteauricular integro
+T163	SYMPTOM 6542 6644	VI no dilatado ni hipertrófico con función en el límite bajo de la normalidad y elevado gasto cardiaco
+T164	SYMPTOM 6646 6690	Realce subendocárdico en todos los segmentos
+T165	SYMPTOM 7636 7666	Hemocultivos (18/1): estériles
+T166	SYMPTOM 7708 7728	Sífilis IgG negativo
+T167	SYMPTOM 7730 7753	toxoplasma IgG negativo
+T168	SYMPTOM 7755 7775	rubéola IgG positivo
+T169	SYMPTOM 7777 7807	VHS IgG negativo, IgM negativo
+T170	SYMPTOM 7809 7828	varicela IgG dudoso
+T171	SYMPTOM 7830 7872	citomegalovirus IgG positivo, IgM negativo
+T172	SYMPTOM 7874 7904	VHA IgM negativo, IgG positivo
+T173	SYMPTOM 7906 7921	HBs Ag negativo
+T174	SYMPTOM 7923 7944	anti-HB core negativo
+T175	SYMPTOM 7946 7970	anti-HBs positivo límite
+T176	SYMPTOM 7972 7988	VHA IgG positivo
+T177	SYMPTOM 7990 8006	VIH 1/2 negativo
+T178	SYMPTOM 8032 8056	parotiditis IgG positivo
+T179	SYMPTOM 8284 8323	disfunción ventricular izquierda ligera
+T180	MEDICATION 247 257	formoterol
+T181	MEDICATION 259 269	budesonida
+T182	MEDICATION 271 292	bromuro de ipratropio
+T183	MEDICATION 294 304	paroxetina
+T184	MEDICATION 306 317	rizatriptan
+T185	MEDICATION 8472 8481	enalapril
+T186	MEDICATION 8682 8694	levosimendán
+T187	MEDICATION 8881 8894	noradrenalina
+T188	MEDICATION 8993 9002	meropenem
+T189	MEDICATION 9093 9106	noradrenalina
+#1	AnnotatorNotes T36	 BIRDHH Bloqueo incompleto rama derecha Haz de Hiz
+#2	AnnotatorNotes T39	 IM: insuficiencia mitral; IT : insuficiencia tricuspide
+#3	AnnotatorNotes T40	insuficiencia mitral
+#4	AnnotatorNotes T41	 IT insuficiencia tricuspídea
+#5	AnnotatorNotes T42	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T59	 insuficiencia mitral

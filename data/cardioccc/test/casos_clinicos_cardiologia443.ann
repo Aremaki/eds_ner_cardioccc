@@ -1,0 +1,103 @@
+T1	ENFERMEDAD 2714 2752	ventrículo derecho gravemente dilatado
+T2	ENFERMEDAD 74 96	alergia medicamentosas
+T3	ENFERMEDAD 176 222	cardiopatía congénita tipo anomalía de Ebstein
+T4	ENFERMEDAD 260 263	WPW
+T5	ENFERMEDAD 443 502	taquicardia paroxística supraventricular (TPSV) ortodrómica
+T6	ENFERMEDAD 485 489	TPSV
+T7	ENFERMEDAD 798 835	infección de vías respiratorias altas
+T8	ENFERMEDAD 1048 1081	insuficiencia cardiaca congestiva
+T9	ENFERMEDAD 1806 1831	trombosis venosa profunda
+T10	ENFERMEDAD 1978 2015	Bloqueo de rama derecha de haz de His
+T11	ENFERMEDAD 2017 2022	BRDHH
+T12	ENFERMEDAD 2852 2888	Dilatación grave de aurícula derecha
+T13	ENFERMEDAD 3565 3592	comunicación interauricular
+T14	ENFERMEDAD 3642 3663	enfermedad de Ebstein
+T15	ENFERMEDAD 3665 3690	insuficiencia tricuspídea
+T16	ENFERMEDAD 3701 3723	disfunción ventricular
+T17	ENFERMEDAD 3725 3756	cortocircuito derecha-izquierda
+T18	ENFERMEDAD 3770 3773	FOP
+T19	ENFERMEDAD 3855 3889	cortocircuito de derecha izquierda
+T20	ENFERMEDAD 4650 4696	cortocircuito derecha-izquierda interauricular
+T21	ENFERMEDAD 4710 4713	FOP
+T22	ENFERMEDAD 4736 4757	platipnea-ortodesoxia
+T23	ENFERMEDAD 5301 5334	Síndrome de platipnea-ortodesoxia
+T24	ENFERMEDAD 5336 5339	FOP
+T25	ENFERMEDAD 5355 5397	cortocircuito espontáneo derecha-izquierda
+T26	ENFERMEDAD 5399 5445	Cardiopatía congénita tipo anomalía de Ebstein
+T27	ENFERMEDAD 5447 5513	Insuficiencia respiratoria global secundaria a shunt intracardiaco
+T28	ENFERMEDAD 5605 5637	Insuficiencia tricuspídea masiva
+T29	ENFERMEDAD 5652 5673	hipertensión pulmonar
+T30	ENFERMEDAD 5692 5717	Síndrome WPW intermitente
+T31	ENFERMEDAD 5732 5748	TPSV ortodrómica
+T32	ENFERMEDAD 3594 3597	CIA
+T33	ENFERMEDAD 3625 3628	FOP
+T34	ENFERMEDAD 1101 1112	hipotensión
+T35	ENFERMEDAD 3073 3117	Válvula tricúspide con morfología de Ebstein
+T36	PROCEDIMIENTO 3909 3948	oclusión temporal del defecto con balón
+T37	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T38	PROCEDIMIENTO 504 518	Estudio Holter
+T39	PROCEDIMIENTO 1490 1511	Auscultación cardiaca
+T40	PROCEDIMIENTO 1580 1601	Auscultación pulmonar
+T41	PROCEDIMIENTO 1704 1713	palpación
+T42	PROCEDIMIENTO 1907 1925	ELECTROCARDIOGRAMA
+T43	PROCEDIMIENTO 1927 1930	ECG
+T44	PROCEDIMIENTO 2076 2096	RADIOGRAFÍA DE TÓRAX
+T45	PROCEDIMIENTO 2210 2219	hemograma
+T46	PROCEDIMIENTO 2351 2362	Coagulación
+T47	PROCEDIMIENTO 2631 2650	Gasometría arterial
+T48	PROCEDIMIENTO 2698 2712	ECOCARDIOGRAMA
+T49	PROCEDIMIENTO 3237 3254	Doppler espectral
+T50	PROCEDIMIENTO 3334 3360	inyección de suero agitado
+T51	PROCEDIMIENTO 3826 3842	ventriculografía
+T52	PROCEDIMIENTO 4265 4293	ecocardiograma intracardiaco
+T53	PROCEDIMIENTO 4296 4326	ecocardiografía transesofágica
+T54	PROCEDIMIENTO 4328 4331	ETE
+T55	PROCEDIMIENTO 4248 4359	Bajo control con ecocardiograma intracardiaco y ecocardiografía transesofágica (ETE), se realiza test con balón
+T56	PROCEDIMIENTO 4601 4625	estudio ecocardiográfico
+T57	PROCEDIMIENTO 4800 4828	técnica percutánea sobre FOP
+T58	PROCEDIMIENTO 4968 5022	implante de dispositivo de cierre Amplatzer cribiforme
+T59	PROCEDIMIENTO 5525 5597	Implante de dispositivo percutáneo de cierre de FOP Amplatzer cribiforme
+T60	PROCEDIMIENTO 2399 2409	Bioquímica
+T61	PROCEDIMIENTO 3775 3821	ESTUDIO HEMODINÁMICO (arteria femoral derecha)
+T62	PROCEDIMIENTO 1022 1043	tratamiento depletivo
+T63	PROCEDIMIENTO 2199 2208	ANALÍTICA
+T64	PROCEDIMIENTO 4026 4112	uso de dispositivo Amplatzer FOP Tribiforme MF de 35 mm, se consigue ocluir el defecto
+T65	PROCEDIMIENTO 4859 4924	se valora respuesta hemodinámica con cierre transitorio con balón
+T66	SINTOMA 535 571	ritmo sinusal sin eventos arrítmicos
+T67	SINTOMA 726 778	disnea progresiva hasta hacerse de mínimos esfuerzos
+T68	SINTOMA 901 907	disnea
+T69	SINTOMA 934 942	ortopnea
+T70	SINTOMA 1101 1112	hipotensión
+T71	SINTOMA 1258 1265	astenia
+T72	SINTOMA 1292 1298	disnea
+T73	SINTOMA 1358 1366	Cianosis
+T74	SINTOMA 1368 1379	Acropaquias
+T75	SINTOMA 1459 1488	Presión venosa yugular normal
+T76	SINTOMA 1490 1520	Auscultación cardiaca: rítmica
+T77	SINTOMA 1522 1556	soplo sistólico en foco tricúspide
+T78	SINTOMA 1603 1632	murmullo vesicular conservado
+T79	SINTOMA 1637 1657	ruidos sobreañadidos
+T80	SINTOMA 1659 1713	Abdomen blando, depresible, no doloroso a la palpación
+T81	SINTOMA 1727 1740	hepatomegalia
+T82	SINTOMA 1757 1790	Extremidades inferiores sin edema
+T83	SINTOMA 1851 1880	pulsos periféricos simétricos
+T84	SINTOMA 1933 1946	ritmo sinusal
+T85	SINTOMA 2098 2111	cardiomegalia
+T86	SINTOMA 2127 2150	redistribución vascular
+T87	SINTOMA 2790 2850	Ventrículo izquierdo de tamaño normal con función conservada
+T88	SINTOMA 2954 3005	Válvula pulmonar de velos finos con apertura normal
+T89	SINTOMA 3290 3324	Válvulas mitral y aórtica normales
+T90	SINTOMA 3533 3540	cefalea
+T91	SINTOMA 5675 5690	FEVI conservada
+T92	SINTOMA 3484 3491	síncope
+T93	SINTOMA 1750 1755	masas
+T94	SINTOMA 2152 2178	Senos costofrénicos libres
+T95	SINTOMA 2714 2788	ventrículo derecho gravemente dilatado, con depresión de la contractilidad
+T96	SINTOMA 5163 5175	asintomática
+T97	SINTOMA 4396 4417	cambios hemodinámicos
+T98	SINTOMA 2183 2197	condensaciones
+T99	SINTOMA 5153 5160	estable
+T100	SINTOMA 3334 3420	inyección de suero agitado, presenta abundante paso de burbujas a cavidades izquierdas
+T101	SINTOMA 4148 4170	cortocircuito residual
+#1	AnnotatorNotes T4	 Síndrome Wolff-Parkinson-White
+#2	AnnotatorNotes T6	 Taquicardia paroxística supraventricular

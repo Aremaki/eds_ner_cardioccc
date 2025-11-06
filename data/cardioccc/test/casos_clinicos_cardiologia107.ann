@@ -1,0 +1,47 @@
+T1	ENFERMEDAD 917 952	ventrículo derecho muy hipertrófico
+T2	ENFERMEDAD 1395 1431	engrosamiento de la válvula pulmonar
+T3	ENFERMEDAD 440 450	escoliosis
+T4	ENFERMEDAD 737 791	fibrilación auricular con respuesta ventricular rápida
+T5	ENFERMEDAD 804 835	hipertrofia ventricular derecha
+T6	ENFERMEDAD 1054 1087	dilatación de la arteria pulmonar
+T7	ENFERMEDAD 1171 1192	hipertensión pulmonar
+T8	ENFERMEDAD 1276 1333	dilatación aneurismática de la arteria pulmonar principal
+T9	ENFERMEDAD 1473 1498	estenosis pulmonar severa
+T10	ENFERMEDAD 1586 1633	estenosis valvular pulmonar y otra infundibular
+T11	ENFERMEDAD 2094 2125	insuficiencia pulmonar moderada
+T12	ENFERMEDAD 2349 2367	Síndrome de Noonan
+T13	ENFERMEDAD 1808 1810	IT
+T14	ENFERMEDAD 411 437	pectus carinatum/excavatum
+T15	ENFERMEDAD 958 996	engrosamiento de la válvula tricúspide
+T16	PROCEDIMIENTO 265 283	exploración física
+T17	PROCEDIMIENTO 290 308	exploración física
+T18	PROCEDIMIENTO 588 609	auscultación pulmonar
+T19	PROCEDIMIENTO 708 726	Electrocardiograma
+T20	PROCEDIMIENTO 839 853	Ecocardiograma
+T21	PROCEDIMIENTO 1000 1029	Ecocardiograma transesofágico
+T22	PROCEDIMIENTO 1115 1143	ecocardiograma transtorácico
+T23	PROCEDIMIENTO 1147 1149	TC
+T24	PROCEDIMIENTO 1201 1203	TC
+T25	PROCEDIMIENTO 1367 1378	RM cardiaca
+T26	PROCEDIMIENTO 1502 1513	Cateterismo
+T27	PROCEDIMIENTO 1526 1545	cateterismo derecho
+T28	PROCEDIMIENTO 1554 1570	ventriculografía
+T29	PROCEDIMIENTO 1726 1743	doppler espectral
+T30	PROCEDIMIENTO 1986 2030	dilatación percutánea de la válvula pulmonar
+T31	PROCEDIMIENTO 1746 1749	DTI
+T32	SINTOMA 137 165	disnea de pequeños esfuerzos
+T33	SINTOMA 198 212	dolor torácico
+T34	SINTOMA 215 228	palpitaciones
+T35	SINTOMA 317 348	implantación baja de las orejas
+T36	SINTOMA 350 378	puente nasal y cuello anchos
+T37	SINTOMA 380 409	implantación baja del cabello
+T38	SINTOMA 455 476	ingurgitación yugular
+T39	SINTOMA 478 498	Soplo sistólico rudo
+T40	SINTOMA 588 620	auscultación pulmonar era normal
+T41	SINTOMA 626 659	pulsos periféricos son simétricos
+T42	SINTOMA 673 679	edemas
+T43	SINTOMA 1415 1458	válvula pulmonar, con aceleración del flujo
+T44	SINTOMA 1920 1945	FE globalmente conservada
+T45	SINTOMA 1865 1917	VI de 45 mm con muy discreta hipoquinesiainferobasal
+T46	FARMACO 2210 2220	metoprolol
+#1	AnnotatorNotes T31	 Proyección de imagen del tensor de la difusión

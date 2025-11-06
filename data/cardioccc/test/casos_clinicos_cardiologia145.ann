@@ -1,0 +1,86 @@
+T1	ENFERMEDAD 271 280	Exfumador
+T2	ENFERMEDAD 293 296	HTA
+T3	ENFERMEDAD 384 404	trombosis del bypass
+T4	ENFERMEDAD 470 479	trombosis
+T5	ENFERMEDAD 481 499	Anemia ferropénica
+T6	ENFERMEDAD 524 541	pólipos colónicos
+T7	ENFERMEDAD 1087 1118	lesiones cutáneas exantemáticas
+T8	ENFERMEDAD 1120 1140	hipotensión arterial
+T9	ENFERMEDAD 1303 1315	BAV completo
+T10	ENFERMEDAD 2416 2435	derrame pericárdico
+T11	ENFERMEDAD 2658 2698	vasoespasmo de arteria coronaria derecha
+T12	ENFERMEDAD 2786 2801	angina alérgica
+T13	ENFERMEDAD 2804 2822	síndrome de Kounis
+T14	ENFERMEDAD 2896 2959	alergia a: penicilina G, penicilina V, ampicilina y amoxicilina
+T15	ENFERMEDAD 3040 3055	Angina alérgica
+T16	ENFERMEDAD 3056 3065	Sd Kounis
+T17	ENFERMEDAD 3068 3113	Vasoespasmo coronario secundario a anafilaxia
+T18	ENFERMEDAD 3114 3189	• Reacción anafiláctica secundaria a la infusión de amoxicilina-clavulánico
+T19	ENFERMEDAD 695 701	BCRDHH
+T20	ENFERMEDAD 2229 2253	VM esclerosa con IM leve
+T21	ENFERMEDAD 2346 2353	IT leve
+T22	ENFERMEDAD 236 259	alergias medicamentosas
+T23	ENFERMEDAD 1829 1844	daño miocárdico
+T24	ENFERMEDAD 1176 1183	síncope
+T25	ENFERMEDAD 1502 1517	cuadro alérgico
+T26	ENFERMEDAD 1938 1962	ectasia de CD y DA media
+T27	ENFERMEDAD 2063 2086	VI ligeramente dilatado
+T28	ENFERMEDAD 2289 2312	AI ligeramente dilatada
+T29	ENFERMEDAD 2476 2493	reacción alérgica
+T30	ENFERMEDAD 689 693	HBAI
+T31	ENFERMEDAD 2011 2013	EV
+T32	ENFERMEDAD 2710 2750	anafilaxia por la infusión de augmentine
+T33	PROCEDIMIENTO 184 202	exploración física
+T34	PROCEDIMIENTO 350 379	bypass femoropopliteo derecho
+T35	PROCEDIMIENTO 502 541	extirpación de varios pólipos colónicos
+T36	PROCEDIMIENTO 636 639	ECG
+T37	PROCEDIMIENTO 734 742	Rx tórax
+T38	PROCEDIMIENTO 815 827	hemocultivos
+T39	PROCEDIMIENTO 1272 1275	ECG
+T40	PROCEDIMIENTO 1460 1472	sueroterapia
+T41	PROCEDIMIENTO 1558 1561	ECG
+T42	PROCEDIMIENTO 1636 1639	ECG
+T43	PROCEDIMIENTO 1691 1694	ECG
+T44	PROCEDIMIENTO 1858 1878	Cateterismo cardiaco
+T45	PROCEDIMIENTO 1966 1976	Holter ECG
+T46	PROCEDIMIENTO 2043 2061	Ecocardiografía TT
+T47	PROCEDIMIENTO 1815 1844	marcadores de daño miocárdico
+T48	PROCEDIMIENTO 1411 1438	tratamiento con corticoides
+T49	SINTOMA 107 122	síndrome febril
+T50	SINTOMA 424 439	síndrome febril
+T51	SINTOMA 652 665	ritmo sinusal
+T52	SINTOMA 703 732	odas T negativas en III y aVF
+T53	SINTOMA 1023 1069	prurito intenso en toda la superficie corporal
+T54	SINTOMA 1142 1161	opresión precordial
+T55	SINTOMA 1320 1360	elevación del ST de 4mm en cara inferior
+T56	SINTOMA 1363 1399	descenso especular en I, aVL y V1-V4
+T57	SINTOMA 1710 1724	dolor torácico
+T58	SINTOMA 1806 1854	Curva de marcadores de daño miocárdico: negativa
+T59	SINTOMA 1978 1988	RS estable
+T60	SINTOMA 1993 2006	FC media baja
+T61	SINTOMA 2187 2227	Patrón diastólico de relajación alargada
+T62	SINTOMA 2512 2524	asintomático
+T63	SINTOMA 2562 2576	dolor torácico
+T64	SINTOMA 2255 2287	Válvula aórtica sin alteraciones
+T65	SINTOMA 1888 1935	arterias coronarias sin lesiones significativas
+T66	SINTOMA 2135 2185	función sistólica global y segmentaria conservadas
+T67	SINTOMA 2018 2039	pausas significativas
+T68	SINTOMA 734 771	Rx tórax al ingreso: sin alteraciones
+T69	SINTOMA 184 231	exploración física sin hallazgos significativos
+T70	SINTOMA 2091 2132	espesores parietales levemente aumentados
+T71	SINTOMA 2314 2328	VD no dilatado
+T72	FARMACO 573 583	amlodipino
+T73	FARMACO 602 613	clopidogrel
+T74	FARMACO 615 625	ranitidina
+T75	FARMACO 854 864	augmentine
+T76	FARMACO 976 986	augmentine
+T77	FARMACO 1444 1454	polaramine
+T78	FARMACO 2935 2945	ampicilina
+T79	FARMACO 2948 2959	amoxicilina
+T80	FARMACO 3166 3189	amoxicilina-clavulánico
+T81	FARMACO 585 600	lisinopril/HCTZ
+T82	FARMACO 2740 2750	augmentine
+T83	FARMACO 2907 2919	penicilina G
+T84	FARMACO 2921 2933	penicilina V
+T85	FARMACO 627 634	hemovas
+#1	AnnotatorNotes T83	 78507004 | producto que contiene bencilpenicilina (producto medicinal) |

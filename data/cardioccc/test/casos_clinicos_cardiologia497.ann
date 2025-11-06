@@ -1,0 +1,141 @@
+T1	ENFERMEDAD 86 109	alergias farmacológicas
+T2	ENFERMEDAD 201 212	cardiopatía
+T3	ENFERMEDAD 285 300	hábitos tóxicos
+T4	ENFERMEDAD 1189 1222	taquicardia ventricular sostenida
+T5	ENFERMEDAD 1744 1769	trombosis venosa profunda
+T6	ENFERMEDAD 2980 2999	derrame pericárdico
+T7	ENFERMEDAD 3243 3251	fibrosis
+T8	ENFERMEDAD 3418 3461	lesiones en arterias coronarias epicárdicas
+T9	ENFERMEDAD 3494 3530	taquicardia ventricular autolimitado
+T10	ENFERMEDAD 3637 3680	isquemia miocárdica en la cara anteroseptal
+T11	ENFERMEDAD 3923 3947	síndrome coronario agudo
+T12	ENFERMEDAD 4155 4164	arritmias
+T13	ENFERMEDAD 4257 4277	arritmia ventricular
+T14	ENFERMEDAD 4300 4322	evento coronario agudo
+T15	ENFERMEDAD 4413 4427	miocardiopatía
+T16	ENFERMEDAD 4482 4511	enfermedad arterial coronaria
+T17	ENFERMEDAD 4543 4566	cardiopatía estructural
+T18	ENFERMEDAD 4691 4714	arritmias ventriculares
+T19	ENFERMEDAD 4779 4802	cardiopatía estructural
+T20	ENFERMEDAD 4818 4827	arritmias
+T21	ENFERMEDAD 4881 4904	taquicardia ventricular
+T22	ENFERMEDAD 4945 4971	evento isquémico coronario
+T23	ENFERMEDAD 5236 5259	taquicardia ventricular
+T24	ENFERMEDAD 5322 5345	taquicardia ventricular
+T25	ENFERMEDAD 5377 5396	isquemia miocárdica
+T26	ENFERMEDAD 5497 5505	isquemia
+T27	ENFERMEDAD 5572 5593	vasoespasmo coronario
+T28	ENFERMEDAD 5809 5815	angina
+T29	ENFERMEDAD 5878 5899	vasoespasmo coronario
+T30	ENFERMEDAD 6131 6152	vasoespasmo coronario
+T31	ENFERMEDAD 6271 6294	taquicardia ventricular
+T32	ENFERMEDAD 6319 6383	vasoespasmo coronario secundario a la administración de atropina
+T33	ENFERMEDAD 6528 6589	Taquicardia ventricular secundaria a vasoespasmo por atropina
+T34	ENFERMEDAD 3315 3317	IM
+T35	ENFERMEDAD 3253 3275	Leve dilatación del VD
+T36	ENFERMEDAD 3326 3333	IT leve
+T37	ENFERMEDAD 4148 4153	ángor
+T38	ENFERMEDAD 2888 2890	IT
+T39	ENFERMEDAD 228 241	muerte súbita
+T40	ENFERMEDAD 2356 2443	VI de dimensión y grosor parietal normales, con hipertrofia de ambos músculos papilares
+T41	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDIMIENTO 371 412	extracción dentaria mediante intervención
+T43	PROCEDIMIENTO 516 525	anestesia
+T44	PROCEDIMIENTO 550 568	exploración física
+T45	PROCEDIMIENTO 577 596	analítica de sangre
+T46	PROCEDIMIENTO 648 666	electrocardiograma
+T47	PROCEDIMIENTO 668 671	ECG
+T48	PROCEDIMIENTO 896 916	inducción anestésica
+T49	PROCEDIMIENTO 1390 1408	Exploración física
+T50	PROCEDIMIENTO 1579 1600	Auscultación cardiaca
+T51	PROCEDIMIENTO 1640 1661	Auscultación pulmonar
+T52	PROCEDIMIENTO 1796 1799	ECG
+T53	PROCEDIMIENTO 1957 1960	ECG
+T54	PROCEDIMIENTO 2091 2110	Analítica de sangre
+T55	PROCEDIMIENTO 2195 2204	Hemograma
+T56	PROCEDIMIENTO 2254 2259	iones
+T57	PROCEDIMIENTO 2270 2285	Perfil hepático
+T58	PROCEDIMIENTO 2326 2354	Ecocardiograma transtorácico
+T59	PROCEDIMIENTO 3051 3080	Resonancia magnética cardiaca
+T60	PROCEDIMIENTO 3335 3352	AngioTC coronario
+T61	PROCEDIMIENTO 3542 3564	ECG de 12 derivaciones
+T62	PROCEDIMIENTO 3888 3891	ECG
+T63	PROCEDIMIENTO 3961 3981	seriación enzimática
+T64	PROCEDIMIENTO 4029 4044	betabloqueantes
+T65	PROCEDIMIENTO 4193 4211	electrocardiograma
+T66	PROCEDIMIENTO 4367 4382	ecocardiografía
+T67	PROCEDIMIENTO 4385 4397	RMN cardiaca
+T68	PROCEDIMIENTO 4449 4466	angioTC coronario
+T69	PROCEDIMIENTO 4627 4653	estudio electrofisiológico
+T70	PROCEDIMIENTO 4834 4860	estudio electrofisiológico
+T71	PROCEDIMIENTO 5071 5074	ECG
+T72	PROCEDIMIENTO 5157 5160	ECG
+T73	PROCEDIMIENTO 5427 5434	angioTC
+T74	PROCEDIMIENTO 5851 5899	estudios de provocación de vasoespasmo coronario
+T75	PROCEDIMIENTO 6034 6049	betabloqueantes
+T76	PROCEDIMIENTO 2238 2251	Función renal
+T77	PROCEDIMIENTO 5937 5955	calcioantagonistas
+T78	PROCEDIMIENTO 5092 5121	marcadores de daño miocárdico
+T79	PROCEDIMIENTO 5179 5208	marcadores de daño miocárdico
+T80	PROCEDIMIENTO 753 765	intervención
+T81	PROCEDIMIENTO 941 968	atropina en bolo endovenosa
+T82	PROCEDIMIENTO 1303 1331	bolo de 200 mg de amiodarona
+T83	SINTOMA 874 885	bradicardia
+T84	SINTOMA 1018 1037	opresión precordial
+T85	SINTOMA 1039 1052	palpitaciones
+T86	SINTOMA 1055 1073	diaforesis profusa
+T87	SINTOMA 1111 1143	taquicardia rítmica de QRS ancho
+T88	SINTOMA 1500 1510	Consciente
+T89	SINTOMA 1512 1521	orientado
+T90	SINTOMA 1523 1537	normocoloreado
+T91	SINTOMA 1539 1553	normohidratado
+T92	SINTOMA 1555 1577	buena perfusión distal
+T93	SINTOMA 1602 1627	ruidos cardiacos rítmicos
+T94	SINTOMA 1632 1638	soplos
+T95	SINTOMA 1663 1688	murmullo vesicular normal
+T96	SINTOMA 1690 1705	Abdomen anodino
+T97	SINTOMA 1707 1730	Extremidades sin edemas
+T98	SINTOMA 1852 1864	QRS estrecho
+T99	SINTOMA 1866 1905	Descenso del ST de V3-V5 y en III y avF
+T100	SINTOMA 1885 1927	V3-V5 y en III y avF con ondas T negativas
+T101	SINTOMA 1974 1987	ritmo sinusal
+T102	SINTOMA 2043 2064	onda P retroconducida
+T103	SINTOMA 2195 2221	Hemograma sin alteraciones
+T104	SINTOMA 2238 2268	Función renal e iones normales
+T105	SINTOMA 2270 2302	Perfil hepático sin alteraciones
+T106	SINTOMA 2356 2398	VI de dimensión y grosor parietal normales
+T107	SINTOMA 2445 2479	Función sistólica VI global normal
+T108	SINTOMA 2531 2556	Patrón diastólico: normal
+T109	SINTOMA 2558 2600	Aurícula izquierda de dimensiones normales
+T110	SINTOMA 2602 2644	Cavidades derechas de dimensiones normales
+T111	SINTOMA 2946 2966	PAPs estimada normal
+T112	SINTOMA 3005 3026	masas intracavitarias
+T113	SINTOMA 3082 3137	ventrículo izquierdo en el límite alto de la normalidad
+T114	SINTOMA 3156 3180	función sistólica normal
+T115	SINTOMA 3280 3289	FE normal
+T116	SINTOMA 3291 3313	Aurículas no dilatadas
+T117	SINTOMA 3589 3622	alteraciones en la repolarización
+T118	SINTOMA 3750 3763	ritmo sinusal
+T119	SINTOMA 3769 3780	ritmo nodal
+T120	SINTOMA 3831 3850	opresión precordial
+T121	SINTOMA 4111 4123	asintomático
+T122	SINTOMA 4994 5011	opresión torácica
+T123	SINTOMA 5016 5033	cuadro vegetativo
+T124	SINTOMA 5044 5074	alteraciones francas en el ECG
+T125	SINTOMA 5077 5121	aumento de los marcadores de daño miocárdico
+T126	SINTOMA 5166 5208	elevación de marcadores de daño miocárdico
+T127	SINTOMA 1271 1284	ritmo sinusal
+T128	SINTOMA 1813 1826	ritmo sinusal
+T129	SINTOMA 2899 2914	VCI no dilatada
+T130	SINTOMA 3363 3401	coronarias con origen anatómico normal
+T131	SINTOMA 550 575	exploración física normal
+T132	SINTOMA 2755 2770	VM: velos finos
+T133	SINTOMA 577 613	analítica de sangre sin alteraciones
+T134	SINTOMA 2074 2089	latidos nodales
+T135	SINTOMA 4627 4669	estudio electrofisiológico que es negativo
+T136	FARMACO 941 949	atropina
+T137	FARMACO 1321 1331	amiodarona
+T138	FARMACO 4046 4056	bisoprolol
+T139	FARMACO 5702 5710	atropina
+T140	FARMACO 6375 6383	atropina
+T141	FARMACO 6581 6589	atropina

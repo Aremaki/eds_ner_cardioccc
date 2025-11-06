@@ -1,0 +1,79 @@
+T1	ENFERMEDAD 112 124	dextrocardia
+T2	ENFERMEDAD 190 197	fumador
+T3	ENFERMEDAD 199 215	bebedor moderado
+T4	ENFERMEDAD 1607 1634	Extrasístoles ventriculares
+T5	ENFERMEDAD 1837 1924	Ventrículo izquierdo (VI) de diámetro normal con hipertrofia septal asimétrica moderada
+T6	ENFERMEDAD 2044 2075	Disfunción sistólica de VI leve
+T7	ENFERMEDAD 2068 2109	VI leve (FE 55 %) y disfunción diastólica
+T8	ENFERMEDAD 2591 2593	MS
+T9	ENFERMEDAD 2732 2759	miocardiopatía hipertrófica
+T10	ENFERMEDAD 2795 2797	MS
+T11	ENFERMEDAD 3132 3159	miocardiopatía hipertrófica
+T12	ENFERMEDAD 3407 3452	VI con hipertrofia septal asimétrica moderada
+T13	ENFERMEDAD 3601 3667	Miocardiopatía hipertrófica (MCH) septal asimétrica no obstructiva
+T14	ENFERMEDAD 3696 3698	MS
+T15	ENFERMEDAD 3711 3733	Síncopes de repetición
+T16	ENFERMEDAD 3747 3783	taquicardia ventricular no sostenida
+T17	ENFERMEDAD 3785 3789	TVNS
+T18	ENFERMEDAD 170 185	Hábitos tóxicos
+T19	ENFERMEDAD 1682 1718	taquicardia ventricular no sostenida
+T20	ENFERMEDAD 2952 2954	MS
+T21	ENFERMEDAD 3110 3112	MS
+T22	ENFERMEDAD 1791 1835	aurícula izquierda (AI) ligeramente dilatada
+T23	ENFERMEDAD 3630 3633	MCH
+T24	ENFERMEDAD 1169 1181	dextrocardia
+T25	PROCEDIMIENTO 681 699	EXPLORACIÓN FÍSICA
+T26	PROCEDIMIENTO 818 839	Auscultación cardiaca
+T27	PROCEDIMIENTO 861 882	Auscultación pulmonar
+T28	PROCEDIMIENTO 968 991	Exploración neurológica
+T29	PROCEDIMIENTO 1147 1167	RADIOGRAFÍA DE TÓRAX
+T30	PROCEDIMIENTO 1273 1291	ELECTROCARDIOGRAMA
+T31	PROCEDIMIENTO 1293 1296	ECG
+T32	PROCEDIMIENTO 1518 1528	HOLTER ECG
+T33	PROCEDIMIENTO 1775 1789	ECOCARDIOGRAMA
+T34	PROCEDIMIENTO 2122 2165	RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA
+T35	PROCEDIMIENTO 2366 2396	CONTROL DE CARDIODESFIBRILADOR
+T36	PROCEDIMIENTO 2871 2919	implante de desfibrilador automático implantable
+T37	PROCEDIMIENTO 3307 3325	electrocardiograma
+T38	PROCEDIMIENTO 3368 3382	ecocardiograma
+T39	PROCEDIMIENTO 3825 3837	RMN cardiaca
+T40	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T41	PROCEDIMIENTO 2152 2155	RMN
+T42	PROCEDIMIENTO 1450 1459	ANALÍTICA
+T43	PROCEDIMIENTO 2921 2924	DAI
+T44	PROCEDIMIENTO 3008 3043	descargas apropiadas del DAI a 80 J
+T45	PROCEDIMIENTO 3296 3299	DAI
+T46	PROCEDIMIENTO 3851 3854	DAI
+T47	SINTOMA 379 392	palpitaciones
+T48	SINTOMA 394 399	mareo
+T49	SINTOMA 479 495	dolor precordial
+T50	SINTOMA 498 511	palpitaciones
+T51	SINTOMA 522 572	pérdida del tono postural y el nivel de conciencia
+T52	SINTOMA 795 816	ingurgitación yugular
+T53	SINTOMA 818 848	Auscultación cardiaca: rítmico
+T54	SINTOMA 853 859	soplos
+T55	SINTOMA 884 900	normoventilación
+T56	SINTOMA 906 917	crepitantes
+T57	SINTOMA 919 934	Abdomen anodino
+T58	SINTOMA 936 966	Miembros inferiores sin edemas
+T59	SINTOMA 993 1027	pupilas isocóricas normorreactivas
+T60	SINTOMA 1029 1053	Pares craneales normales
+T61	SINTOMA 1055 1070	Lenguaje normal
+T62	SINTOMA 1072 1105	Fuerza y sensibilidad conservadas
+T63	SINTOMA 1107 1120	Marcha normal
+T64	SINTOMA 1314 1355	Conducción auriculoventricular conservada
+T65	SINTOMA 1382 1403	Onda Q inicial en aVL
+T66	SINTOMA 1405 1448	Onda T negativa en DIII-aVF, DI-aVL y V5-V6
+T67	SINTOMA 1530 1543	ritmo sinusal
+T68	SINTOMA 402 409	síncope
+T69	SINTOMA 1299 1312	ritmo sinusal
+T70	SINTOMA 3342 3355	ritmo sinusal
+T71	SINTOMA 1837 1881	Ventrículo izquierdo (VI) de diámetro normal
+T72	SINTOMA 1222 1270	leve redistribución vascular a campos superiores
+T73	SINTOMA 2167 2225	realce tardío con gadolinio distribuido de forma irregular
+#1	AnnotatorNotes T8	  Muerte súbita
+#2	AnnotatorNotes T10	  Muerte súbita
+#3	AnnotatorNotes T14	  Muerte súbita
+#4	AnnotatorNotes T20	  Muerte súbita
+#5	AnnotatorNotes T21	  Muerte súbita
+#6	AnnotatorNotes T23	miocardiopatía hipertrófica

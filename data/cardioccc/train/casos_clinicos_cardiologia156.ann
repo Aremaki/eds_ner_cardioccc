@@ -1,0 +1,71 @@
+T1	DISEASE 74 77	HTA
+T2	DISEASE 82 84	DM
+T3	DISEASE 88 100	hiperlipemia
+T4	DISEASE 979 992	cardiomegalia
+T5	DISEASE 1124 1127	TEP
+T6	DISEASE 1129 1154	Derrame pleural bilateral
+T7	DISEASE 1196 1222	adenopatías paratraqueales
+T8	DISEASE 1735 1749	Hipertrofia VI
+T9	DISEASE 1791 1836	Válvula mitral engrosada con IM leve-moderada
+T10	DISEASE 1938 1961	adenopatía paratraqueal
+T11	DISEASE 2534 2562	Enfermedad de Chagas crónica
+T12	DISEASE 2565 2601	Disfunción sistólica de grado severo
+T13	DISEASE 111 119	Fumadora
+T14	DISEASE 1838 1845	IT leve
+T15	DISEASE 393 416	alergias medicamentosas
+T16	DISEASE 146 154	bebedora
+T17	DISEASE 256 261	BRIHH
+T18	DISEASE 957 962	BRIHH
+T19	DISEASE 1769 1780	AI dilatada
+T20	DISEASE 2248 2269	diagnóstico de Chagas
+T21	DISEASE 205 215	broncópata
+T22	DISEASE 191 201	cardiópata
+T23	PROCEDURE 229 232	ECG
+T24	PROCEDURE 350 357	cesárea
+T25	PROCEDURE 359 374	Colecistectomía
+T26	PROCEDURE 450 472	anticonceptivos orales
+T27	PROCEDURE 640 658	Exploración física
+T28	PROCEDURE 948 951	ECG
+T29	PROCEDURE 966 977	RX de tórax
+T30	PROCEDURE 1076 1085	Angio-TAC
+T31	PROCEDURE 1654 1668	Ecocardiograma
+T32	PROCEDURE 1982 1989	mantoux
+T33	PROCEDURE 2024 2027	TAC
+T34	PROCEDURE 2176 2195	serología de Chagas
+T35	PROCEDURE 769 771	AC
+T36	PROCEDURE 2263 2294	Chagas mediante IFI y con ELISA
+T37	PROCEDURE 801 803	AR
+T38	PROCEDURE 1256 1265	Analítica
+T39	PROCEDURE 346 348	IQ
+T40	SYMPTOM 547 554	astenia
+T41	SYMPTOM 557 586	disnea progresiva de esfuerzo
+T42	SYMPTOM 588 601	Epigastralgia
+T43	SYMPTOM 660 670	consciente
+T44	SYMPTOM 673 682	orientada
+T45	SYMPTOM 684 711	bien hidratada y perfundida
+T46	SYMPTOM 713 737	buena coloración de piel
+T47	SYMPTOM 742 744	IY
+T48	SYMPTOM 749 755	fiebre
+T49	SYMPTOM 773 788	ruidos rítmicos
+T50	SYMPTOM 793 799	soplos
+T51	SYMPTOM 805 835	hipoventilación en ambas bases
+T52	SYMPTOM 856 871	Abdomen: blando
+T53	SYMPTOM 873 905	dolor a la presión en epigastrio
+T54	SYMPTOM 907 923	EE.II: No edemas
+T55	SYMPTOM 925 944	Pedios poco amplios
+T56	SYMPTOM 953 955	RS
+T57	SYMPTOM 1314 1350	Leucocitos 11.003 con fórmula normal
+T58	SYMPTOM 1708 1733	Función diastólica normal
+T59	SYMPTOM 2176 2231	serología de Chagas (Trypanosoma cruzi) que es positiva
+T60	SYMPTOM 1982 2000	mantoux (negativo)
+T61	SYMPTOM 1035 1064	Pinzamiento seno costofrénico
+T62	SYMPTOM 494 506	asintomática
+T63	SYMPTOM 1674 1693	hipoquinesia global
+T64	SYMPTOM 263 292	Alteración analítica hepática
+T65	SYMPTOM 994 1014	Patrón instersticial
+T66	SYMPTOM 1286 1312	S.roja, y plaquetas normal
+T67	SYMPTOM 2263 2329	Chagas mediante IFI y con ELISA resultado ambas técnicas positivas
+T68	MEDICATION 2351 2362	candesartan
+T69	MEDICATION 2364 2374	bisoprolol
+T70	MEDICATION 2377 2388	benznidazol
+#1	AnnotatorNotes T14	 IT insuficiencia tricuspídea

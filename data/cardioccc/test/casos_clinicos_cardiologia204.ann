@@ -1,0 +1,188 @@
+T1	ENFERMEDAD 95 120	intolerancia a penicilina
+T2	ENFERMEDAD 122 160	síncope en la juventud tras penicilina
+T3	ENFERMEDAD 166 193	toxicodermia con ondasetrón
+T4	ENFERMEDAD 233 245	hipertensión
+T5	ENFERMEDAD 247 257	Dislipemia
+T6	ENFERMEDAD 262 279	diabetes mellitus
+T7	ENFERMEDAD 287 294	fumador
+T8	ENFERMEDAD 299 310	alcoholismo
+T9	ENFERMEDAD 312 321	Sobrepeso
+T10	ENFERMEDAD 384 405	Poliposis nasosinusal
+T11	ENFERMEDAD 421 425	asma
+T12	ENFERMEDAD 427 442	poliposis nasal
+T13	ENFERMEDAD 445 482	intolerancia a ácido acetilsalicílico
+T14	ENFERMEDAD 485 492	Rinitis
+T15	ENFERMEDAD 530 554	hipereosinofilia crónica
+T16	ENFERMEDAD 556 581	Adenocarcinoma prostático
+T17	ENFERMEDAD 681 705	adenopatías paraaórticas
+T18	ENFERMEDAD 731 746	recaída tumoral
+T19	ENFERMEDAD 1133 1151	cuadro presincopal
+T20	ENFERMEDAD 1418 1433	daño miocárdico
+T21	ENFERMEDAD 1481 1509	derrame pericárdico moderado
+T22	ENFERMEDAD 1577 1588	miocarditis
+T23	ENFERMEDAD 2103 2111	flebitis
+T24	ENFERMEDAD 5541 5581	Prolapso ligero de valva anterior mitral
+T25	ENFERMEDAD 5634 5662	Derrame pericárdico moderado
+T26	ENFERMEDAD 6012 6025	valvulopatías
+T27	ENFERMEDAD 6248 6283	Derrame pericárdico ligero-moderado
+T28	ENFERMEDAD 6951 6986	Derrame pericárdico ligero-moderado
+T29	ENFERMEDAD 7170 7196	trombos intraventriculares
+T30	ENFERMEDAD 7300 7351	hipereosinofilia secundaria a poliposis nasosinusal
+T31	ENFERMEDAD 7353 7375	síndrome de triada ASA
+T32	ENFERMEDAD 7626 7668	endomiocarditis eosinófila (o de Loeffler)
+T33	ENFERMEDAD 7857 7876	derrame pericárdico
+T34	ENFERMEDAD 8344 8363	derrame pericárdico
+T35	ENFERMEDAD 8508 8567	síndrome hipereosinófilo idiopático con afectación cardiaca
+T36	ENFERMEDAD 8569 8595	endomiocarditis eosinófila
+T37	ENFERMEDAD 9645 9682	Endocarditis eosinófila o de Loeffler
+T38	ENFERMEDAD 9684 9707	Trombo intraventricular
+T39	ENFERMEDAD 9709 9733	Síndrome hipereosinófilo
+T40	ENFERMEDAD 9747 9775	Toxicodermia por enoxaparina
+T41	ENFERMEDAD 9786 9811	Adenocarcinoma prostático
+T42	ENFERMEDAD 78 86	Alergias
+T43	ENFERMEDAD 6117 6148	Regurgitación tricúspide ligera
+T44	ENFERMEDAD 4027 4042	daño miocárdico
+T45	ENFERMEDAD 8942 8960	eventos arrítmicos
+T46	ENFERMEDAD 409 483	triada ASA (asma, poliposis nasal e intolerancia a ácido acetilsalicílico)
+T47	ENFERMEDAD 8140 8146	SDRIFE
+T48	ENFERMEDAD 8148 8208	symmetric drug-related intertriginous and flexural exanthema
+T49	ENFERMEDAD 9735 9745	Triada ASA
+T50	ENFERMEDAD 9777 9783	SDRIFE
+T51	ENFERMEDAD 6856 6869	edema en ápex
+T52	ENFERMEDAD 497 525	ototubaritis derecha crónica
+T53	ENFERMEDAD 7518 7565	alteración de genes de fusión (tirosina-cinasa)
+T54	ENFERMEDAD 7673 7696	trombo intraventricular
+T55	ENFERMEDAD 8010 8096	exantema eritematoso con aclaramiento central que compromete ambas flexuras inguinales
+T56	ENFERMEDAD 8977 8996	cuadro pseudogripal
+T57	PROCEDIMIENTO 606 618	radioterapia
+T58	PROCEDIMIENTO 657 663	PET-TC
+T59	PROCEDIMIENTO 1442 1466	estudio ecocardioscópico
+T60	PROCEDIMIENTO 1591 1609	Exploración física
+T61	PROCEDIMIENTO 1737 1758	Auscultación cardiaca
+T62	PROCEDIMIENTO 1803 1824	Auscultación pulmonar
+T63	PROCEDIMIENTO 1929 1947	palpación profunda
+T64	PROCEDIMIENTO 2138 2141	ECG
+T65	PROCEDIMIENTO 2382 2402	Radiografía de tórax
+T66	PROCEDIMIENTO 2560 2569	Hemograma
+T67	PROCEDIMIENTO 3031 3041	Hemostasia
+T68	PROCEDIMIENTO 3834 3849	Perfil lipídico
+T69	PROCEDIMIENTO 4282 4305	ANA inmunofluorescencia
+T70	PROCEDIMIENTO 4364 4386	test de Coombs directo
+T71	PROCEDIMIENTO 4481 4502	Proteinograma (suero)
+T72	PROCEDIMIENTO 4795 4815	Marcadores tumorales
+T73	PROCEDIMIENTO 4878 4891	Microbiología
+T74	PROCEDIMIENTO 4946 4958	hemocultivos
+T75	PROCEDIMIENTO 4970 4983	coprocultivos
+T76	PROCEDIMIENTO 4995 5006	antigenuria
+T77	PROCEDIMIENTO 5041 5045	IGRA
+T78	PROCEDIMIENTO 5353 5367	Ecocardiograma
+T79	PROCEDIMIENTO 6878 6901	secuencias de perfusión
+T80	PROCEDIMIENTO 7578 7587	cardio-RM
+T81	PROCEDIMIENTO 7916 7930	anticoagulante
+T82	PROCEDIMIENTO 8223 8234	corticoides
+T83	PROCEDIMIENTO 8290 8306	ecocardiografías
+T84	PROCEDIMIENTO 8430 8437	drenaje
+T85	PROCEDIMIENTO 4010 4042	Biomarcadores de daño miocárdico
+T86	PROCEDIMIENTO 3176 3186	Bioquímica
+T87	PROCEDIMIENTO 6507 6516	Cardio-RM
+T88	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T89	PROCEDIMIENTO 4323 4326	IFI
+T90	PROCEDIMIENTO 4094 4105	Inmunología
+T91	PROCEDIMIENTO 3654 3676	Metabolismo del hierro
+T92	PROCEDIMIENTO 1401 1433	biomarcadores de daño miocárdico
+T93	PROCEDIMIENTO 8494 8503	cardio-RM
+T94	PROCEDIMIENTO 784 797	agonista GnRH
+T95	PROCEDIMIENTO 2905 2928	Morfología leucocitaria
+T96	PROCEDIMIENTO 4397 4411	Complementemia
+T97	PROCEDIMIENTO 4673 4693	Vitaminas y hormonas
+T98	PROCEDIMIENTO 2549 2558	Analítica
+T99	PROCEDIMIENTO 7414 7434	controles analíticos
+T100	PROCEDIMIENTO 556 593	Adenocarcinoma prostático intervenido
+T101	PROCEDIMIENTO 6816 6844	secuencias potenciadas en T2
+T102	PROCEDIMIENTO 7085 7122	Realce tardío de gadolinio transmural
+T103	SINTOMA 877 911	dolor centrotorácico tipo pinchazo
+T104	SINTOMA 1025 1044	sudoración nocturna
+T105	SINTOMA 1046 1059	artromialgias
+T106	SINTOMA 1061 1068	astenia
+T107	SINTOMA 1071 1091	sensación distérmica
+T108	SINTOMA 1096 1105	febrícula
+T109	SINTOMA 1223 1255	alteración del hábito intestinal
+T110	SINTOMA 1388 1433	elevación de biomarcadores de daño miocárdico
+T111	SINTOMA 1706 1735	Presión venosa yugular normal
+T112	SINTOMA 1760 1767	rítmico
+T113	SINTOMA 1773 1779	soplos
+T114	SINTOMA 1783 1801	ruidos patológicos
+T115	SINTOMA 1826 1855	murmullo vesicular conservado
+T116	SINTOMA 1860 1880	ruidos sobreañadidos
+T117	SINTOMA 1882 1947	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T118	SINTOMA 1952 1957	masas
+T119	SINTOMA 1961 1969	megalias
+T120	SINTOMA 2154 2167	ritmo sinusal
+T121	SINTOMA 2221 2250	descenso del punto J en V3-V6
+T122	SINTOMA 2252 2271	onda T plana en aVF
+T123	SINTOMA 2282 2295	ritmo sinusal
+T124	SINTOMA 2346 2379	alteraciones de la repolarización
+T125	SINTOMA 2414 2439	ICT ligeramente aumentado
+T126	SINTOMA 2444 2475	infiltrados ni masas pulmonares
+T127	SINTOMA 2480 2514	pinzamiento de senos costofrénicos
+T128	SINTOMA 2529 2546	congestión venosa
+T129	SINTOMA 4364 4395	test de Coombs directo negativo
+T130	SINTOMA 4656 4671	pico monoclonal
+T131	SINTOMA 4897 4939	antiStrongyloides stercolaris IgG negativo
+T132	SINTOMA 4946 4968	hemocultivos negativos
+T133	SINTOMA 4970 4993	coprocultivos negativos
+T134	SINTOMA 4995 5039	antigenuria legionella y neumococo negativos
+T135	SINTOMA 5041 5054	IGRA negativo
+T136	SINTOMA 5761 5784	compromiso hemodinámico
+T137	SINTOMA 5795 5875	ventrículo izquierdo de diámetros, volúmenes y función sistólica global normales
+T138	SINTOMA 6042 6115	Ventrículo derecho de diámetros normales con función sistólica conservada
+T139	SINTOMA 6616 6644	función sistólica conservada
+T140	SINTOMA 6793 6811	Aurículas normales
+T141	SINTOMA 8911 8936	hemodinámicamente estable
+T142	SINTOMA 8998 9011	artromialgias
+T143	SINTOMA 9013 9022	febrícula
+T144	SINTOMA 9124 9136	asintomático
+T145	SINTOMA 1971 1998	Blumberg y Murphy negativos
+T146	SINTOMA 2000 2024	Extremidades: sin edemas
+T147	SINTOMA 5889 5934	alteraciones de la contractilidad segmentaria
+T148	SINTOMA 5520 5539	AI y aorta normales
+T149	SINTOMA 6734 6757	buena función sistólica
+T150	SINTOMA 5946 5972	Aurículas de tamaño normal
+T151	SINTOMA 5463 5487	Patrón diastólico normal
+T152	SINTOMA 5974 5998	Patrón diastólico normal
+T153	SINTOMA 5489 5518	Presiones de llenado normales
+T154	SINTOMA 6221 6246	Vena cava inferior normal
+T155	SINTOMA 6680 6710	Ventrículo derecho no dilatado
+T156	SINTOMA 6518 6550	ventrículo izquierdo no dilatado
+T157	SINTOMA 1286 1301	sangre en heces
+T158	SINTOMA 2045 2088	pulsos periféricos conservados y simétricos
+T159	SINTOMA 2951 3029	eosinófilos con alteración en la distribución citoplasmática de la granulación
+T160	SINTOMA 4282 4314	ANA inmunofluorescencia negativo
+T161	SINTOMA 4316 4335	patrón IFI negativo
+T162	SINTOMA 5381 5437	ambos ventrículos de diámetros y contractilidad normales
+T163	SINTOMA 5560 5600	valva anterior mitral, sin regurgitación
+T164	SINTOMA 5614 5632	aumento de la PAPs
+T165	SINTOMA 5736 5746	VCI normal
+T166	SINTOMA 6918 6949	retraso de la perfusión en ápex
+T167	SINTOMA 7085 7130	Realce tardío de gadolinio transmural en ápex
+T168	SINTOMA 9075 9112	adecuada tolerancia a la deambulación
+T169	FARMACO 183 193	ondasetrón
+T170	FARMACO 460 482	ácido acetilsalicílico
+T171	FARMACO 770 782	triptorelina
+T172	FARMACO 7735 7751	metilprenisolona
+T173	FARMACO 7779 7789	prednisona
+T174	FARMACO 7896 7907	enoxaparina
+T175	FARMACO 7965 7976	enoxaparina
+T176	FARMACO 8259 8270	enoxaparina
+T177	FARMACO 8275 8285	bemiparina
+T178	FARMACO 9262 9272	Bemiparina
+T179	FARMACO 9317 9329	acenocumarol
+T180	FARMACO 9331 9343	Acenocumarol
+T181	FARMACO 9357 9367	Prednisona
+T182	FARMACO 9556 9565	Omeprazol
+T183	FARMACO 9607 9613	calcio
+T184	FARMACO 9764 9775	enoxaparina
+T185	FARMACO 110 120	penicilina
+T186	FARMACO 150 160	penicilina
+#1	AnnotatorNotes T47	 symmetric drug-related intertriginous and flexural exanthema
+#2	AnnotatorNotes T89	 inmunofluorescencia indirecta

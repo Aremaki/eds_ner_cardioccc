@@ -1,0 +1,136 @@
+T1	DISEASE 90 105	dislipemia leve
+T2	DISEASE 192 207	hábitos tóxicos
+T3	DISEASE 777 786	asistolia
+T4	DISEASE 1133 1137	TVNS
+T5	DISEASE 1191 1203	BAV completo
+T6	DISEASE 1466 1497	enfermedad coronaria de 3 vasos
+T7	DISEASE 2071 2097	parada cardiorrespiratoria
+T8	DISEASE 2126 2135	asistolia
+T9	DISEASE 2586 2611	trombosis venosa profunda
+T10	DISEASE 2794 2825	enfermedad coronaria de 3 vasos
+T11	DISEASE 2839 2851	DA (oclusión
+T12	DISEASE 4294 4312	shock cardiogénico
+T13	DISEASE 4527 4553	disfunción renal oligúrica
+T14	DISEASE 4569 4583	edema pulmonar
+T15	DISEASE 5241 5272	disfunción ventricular moderada
+T16	DISEASE 5983 6002	hipercolesterolemia
+T17	DISEASE 6737 6772	Infarto agudo de miocardio anterior
+T18	DISEASE 6785 6816	Enfermedad coronaria de 3 vasos
+T19	DISEASE 6854 6896	Disfunción sistólica de VI moderada-severa
+T20	DISEASE 6928 6947	Hipercolesterolemia
+T21	DISEASE 6699 6735	Parada cardiorrespiratoria reanimada
+T22	DISEASE 659 661	TV
+T23	DISEASE 4315 4334	bajo gasto cardiaco
+T24	DISEASE 2863 2883	CX (OM con estenosis
+T25	DISEASE 2896 2908	CD (oclusión
+T26	DISEASE 4469 4493	hipoperfusión periférica
+T27	DISEASE 5342 5354	tetraparesia
+T28	DISEASE 6590 6595	ángor
+T29	DISEASE 6952 6976	intolerancia a estatinas
+T30	DISEASE 4588 4612	fallo respiratorio grave
+T31	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T32	PROCEDURE 127 148	tratamiento dietético
+T33	PROCEDURE 699 710	RCP básicas
+T34	PROCEDURE 741 752	CVE a 200 J
+T35	PROCEDURE 821 833	RCP avanzada
+T36	PROCEDURE 1067 1078	cateterismo
+T37	PROCEDURE 1225 1237	RCP avanzada
+T38	PROCEDURE 1257 1279	intubación orotraqueal
+T39	PROCEDURE 1356 1398	marcapasos transitorio vía femoral derecha
+T40	PROCEDURE 1412 1451	cateterismo cardiaco por acceso femoral
+T41	PROCEDURE 1513 1539	revascularización completa
+T42	PROCEDURE 1541 1598	Se coloca además un balón de contrapulsación intraaórtica
+T43	PROCEDURE 1630 1641	cateterismo
+T44	PROCEDURE 1643 1674	se introduce sonda nasogástrica
+T45	PROCEDURE 1783 1804	perfusión intravenosa
+T46	PROCEDURE 1938 1949	cateterismo
+T47	PROCEDURE 2005 2023	drogas vasoactivas
+T48	PROCEDURE 2037 2057	ventilación mecánica
+T49	PROCEDURE 2137 2147	Se reanima
+T50	PROCEDURE 2297 2320	Exploración neurológica
+T51	PROCEDURE 2392 2413	Auscultación pulmonar
+T52	PROCEDURE 2441 2462	Auscultación cardiaca
+T53	PROCEDURE 2638 2641	ECG
+T54	PROCEDURE 2764 2784	Cateterismo cardiaco
+T55	PROCEDURE 2991 3011	Radiografía de tórax
+T56	PROCEDURE 3099 3113	Ecocardiograma
+T57	PROCEDURE 4386 4406	fármacos vasoactivos
+T58	PROCEDURE 4630 4650	ventilación mecánica
+T59	PROCEDURE 4735 4752	ECMO venoarterial
+T60	PROCEDURE 4785 4801	Cirugía Cardiaca
+T61	PROCEDURE 4844 4862	colocación de ECMO
+T62	PROCEDURE 4900 4923	retirada de vasoactivos
+T63	PROCEDURE 5214 5229	ecocardiografía
+T64	PROCEDURE 6181 6201	inhibidores de PCSK9
+T65	PROCEDURE 6263 6286	rehabilitación cardiaca
+T66	PROCEDURE 6439 6462	rehabilitación cardiaca
+T67	PROCEDURE 6785 6835	Enfermedad coronaria de 3 vasos, revascularización
+T68	PROCEDURE 6922 6926	ECMO
+T69	PROCEDURE 4136 4152	Función tiroidea
+T70	PROCEDURE 2925 2989	Revascularización completa con 2 stents en DA, 1 en OM y 1 en CD
+T71	PROCEDURE 6967 6976	estatinas
+T72	PROCEDURE 5647 5662	betabloqueantes
+T73	PROCEDURE 7002 7013	anti- PCSK9
+T74	PROCEDURE 3556 3565	Analítica
+T75	PROCEDURE 3808 3817	Analítica
+T76	PROCEDURE 2220 2231	exploración
+T77	PROCEDURE 990 1013	perfusión de amiodarona
+T78	PROCEDURE 1292 1315	perfusión de adrenalina
+T79	PROCEDURE 1744 1761	bolo de abciximab
+T80	PROCEDURE 1964 1987	perfusión de adrenalina
+T81	PROCEDURE 5664 5668	IECA
+T82	SYMPTOM 284 304	dolor centrotorácico
+T83	SYMPTOM 423 443	dolor centrotorácico
+T84	SYMPTOM 465 483	cortejo vegetativo
+T85	SYMPTOM 899 912	ritmo sinusal
+T86	SYMPTOM 926 978	ascenso importante del ST en derivaciones anteriores
+T87	SYMPTOM 1159 1172	ritmo sinusal
+T88	SYMPTOM 1839 1891	sangrado en cavidad bucal y por el tubo endotraqueal
+T89	SYMPTOM 2189 2212	salida en ritmo sinusal
+T90	SYMPTOM 2322 2341	midriasis bilateral
+T91	SYMPTOM 2418 2439	crepitantes bibasales
+T92	SYMPTOM 2441 2470	Auscultación cardiaca rítmica
+T93	SYMPTOM 2476 2482	soplos
+T94	SYMPTOM 2484 2507	ruidos de contrapulsado
+T95	SYMPTOM 2509 2545	Extremidades con frialdad periférica
+T96	SYMPTOM 2547 2570	pulsos distales débiles
+T97	SYMPTOM 2655 2657	RS
+T98	SYMPTOM 2691 2762	elevación importante del segmento ST en derivaciones anteriores V1 a V4
+T99	SYMPTOM 3122 3171	ventrículo izquierdo no dilatado, no hipertrófico
+T100	SYMPTOM 3177 3218	función sistólica moderadamente deprimida
+T101	SYMPTOM 3368 3428	Ventrículo derecho no dilatado, con función sistólica normal
+T102	SYMPTOM 3440 3470	Aurícula izquierda no dilatada
+T103	SYMPTOM 3472 3491	Raíz aórtica normal
+T104	SYMPTOM 5105 5129	estabilidad hemodinámica
+T105	SYMPTOM 5332 5339	delirio
+T106	SYMPTOM 5428 5449	focalidad neurológica
+T107	SYMPTOM 5755 5799	elevación significativa de las transaminasas
+T108	SYMPTOM 5801 5809	mialgias
+T109	SYMPTOM 5812 5828	malestar general
+T110	SYMPTOM 6515 6521	disnea
+T111	SYMPTOM 3237 3287	aquinesia septal, anterior y en segmentos apicales
+T112	SYMPTOM 3493 3523	Vena cava inferior no dilatada
+T113	SYMPTOM 559 574	cuadro sincopal
+T114	SYMPTOM 3061 3097	Patrón alveolointersticial bilateral
+T115	MEDICATION 5886 5895	estatinas
+T116	MEDICATION 811 819	atropina
+T117	MEDICATION 1003 1013	amiodarona
+T118	MEDICATION 1305 1315	adrenalina
+T119	MEDICATION 1702 1705	AAS
+T120	MEDICATION 1718 1728	ticagrelor
+T121	MEDICATION 1752 1761	abciximab
+T122	MEDICATION 1911 1920	abciximab
+T123	MEDICATION 1977 1987	adrenalina
+T124	MEDICATION 2172 2182	adrenalina
+T125	MEDICATION 4429 4439	dobutamina
+T126	MEDICATION 4442 4455	noradrenalina
+T127	MEDICATION 5183 5195	levosimendán
+T128	MEDICATION 5198 5208	dobutamina
+T129	MEDICATION 5671 5681	amiodarona
+T130	MEDICATION 5909 5922	atorvastatina
+T131	MEDICATION 5933 5945	simvastatina
+T132	MEDICATION 5953 5966	rosuvastatina
+T133	MEDICATION 6119 6128	ezetimiba
+T134	MEDICATION 6203 6213	evolocumab
+#1	AnnotatorNotes T4	 tquicardia ventricular no sostenida
+#2	AnnotatorNotes T22	 taquicardia ventricular

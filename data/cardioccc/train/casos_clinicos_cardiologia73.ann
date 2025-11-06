@@ -1,0 +1,139 @@
+T1	DISEASE 1817 1871	ventrículo izquierdo de dimensiones internas reducidas
+T2	DISEASE 151 167	diabética tipo 2
+T3	DISEASE 254 265	cardiopatía
+T4	DISEASE 268 278	neumopatía
+T5	DISEASE 1662 1675	cardiomegalia
+T6	DISEASE 2069 2096	miocardiopatía infiltrativa
+T7	DISEASE 2294 2319	Insuficiencia mitral leve
+T8	DISEASE 2321 2351	insuficiencia tricuspídea leve
+T9	DISEASE 2546 2572	Derrame pericárdico global
+T10	DISEASE 2697 2732	Colapso parcial de aurícula derecha
+T11	DISEASE 2767 2794	miocardiopatía infiltrativa
+T12	DISEASE 2817 2843	Derrame pericárdico severo
+T13	DISEASE 2845 2882	Hipertensión pulmonar moderada-severa
+T14	DISEASE 3038 3075	hipertrofia concéntrica biventricular
+T15	DISEASE 3209 3228	Derrame pericárdico
+T16	DISEASE 3615 3642	miocardiopatía infiltrativa
+T17	DISEASE 3659 3679	cardiopatía amiloide
+T18	DISEASE 4528 4569	mieloma secretor de cadenas ligeras Kappa
+T19	DISEASE 5129 5155	lesiones líticas en cráneo
+T20	DISEASE 5936 5947	amiloidosis
+T21	DISEASE 6238 6274	insuficiencia cardiaca descompensada
+T22	DISEASE 6505 6532	miocardiopatía infiltrativa
+T23	DISEASE 6624 6646	insuficiencia cardiaca
+T24	DISEASE 6668 6695	miocardiopatía infiltrativa
+T25	DISEASE 6735 6759	síndrome coronario agudo
+T26	DISEASE 7408 7434	parada cardiorrespiratoria
+T27	DISEASE 7453 7476	taquicardia ventricular
+T28	DISEASE 7493 7516	fibrilación ventricular
+T29	DISEASE 7649 7651	FV
+T30	DISEASE 7758 7811	mieloma múltiple de cadenas ligeras Kappa BJ K+ ISS:1
+T31	DISEASE 7851 7853	AL
+T32	DISEASE 8028 8050	insuficiencia cardiaca
+T33	DISEASE 7621 7623	TV
+T34	DISEASE 118 148	reacciones adversas a fármacos
+T35	DISEASE 2147 2193	Ventrículo derecho no dilatado con hipertrofia
+T36	DISEASE 2230 2257	Aurícula izquierda dilatada
+T37	DISEASE 3184 3207	Dilatación severa de IA
+T38	DISEASE 7136 7145	arrítmica
+T39	DISEASE 7829 7878	amiloidosis primaria (AL) con afectación cardiaca
+T40	DISEASE 2396 2433	Válvula aórtica ligeramente engrosada
+T41	DISEASE 2796 2799	HVI
+T42	DISEASE 1873 1896	Hipertrofia concéntrica
+T43	DISEASE 2907 2928	ritmo de escape nodal
+T44	PROCEDURE 690 708	Exploración física
+T45	PROCEDURE 745 766	Auscultación cardiaca
+T46	PROCEDURE 820 841	Auscultación pulmonar
+T47	PROCEDURE 1097 1100	ECG
+T48	PROCEDURE 1247 1250	ECG
+T49	PROCEDURE 1640 1660	Radiografía de tórax
+T50	PROCEDURE 1800 1815	Ecocardiografía
+T51	PROCEDURE 2884 2887	ECG
+T52	PROCEDURE 3024 3036	RMN cardiaca
+T53	PROCEDURE 3312 3339	administración de gadolinio
+T54	PROCEDURE 3681 3720	Coronariografía: acceso femoral derecho
+T55	PROCEDURE 3883 3903	Aspirado médula ósea
+T56	PROCEDURE 4171 4190	Citometría de flujo
+T57	PROCEDURE 4804 4816	IEF en orina
+T58	PROCEDURE 5241 5257	Biopsia cardiaca
+T59	PROCEDURE 5369 5391	biopsia endomiocárdica
+T60	PROCEDURE 6409 6412	ECG
+T61	PROCEDURE 6865 6880	betabloqueantes
+T62	PROCEDURE 7172 7175	ECG
+T63	PROCEDURE 7230 7245	betabloqueantes
+T64	PROCEDURE 7367 7389	implante de marcapasos
+T65	PROCEDURE 7536 7550	desfibrilación
+T66	PROCEDURE 7674 7689	implante de DAI
+T67	PROCEDURE 7132 7134	AC
+T68	PROCEDURE 5157 5166	Serología
+T69	PROCEDURE 7302 7347	implante de marcapasos definitivo en modo DDD
+T70	PROCEDURE 1508 1534	enzimas cardiacas seriadas
+T71	PROCEDURE 3767 3780	Coomb directo
+T72	PROCEDURE 3827 3845	Hormonas tiroideas
+T73	PROCEDURE 4571 4605	Cuantificación de inmunoglobulinas
+T74	PROCEDURE 5106 5127	Serie ósea oncológica
+T75	PROCEDURE 5989 6005	técnica de Perls
+T76	PROCEDURE 6832 6837	IECAs
+T77	PROCEDURE 1261 1270	Analítica
+T78	PROCEDURE 4192 4195	CMF
+T79	PROCEDURE 983 987	MMII
+T80	PROCEDURE 6029 6032	Pas
+T81	SYMPTOM 77 83	disnea
+T82	SYMPTOM 444 473	disnea de moderados esfuerzos
+T83	SYMPTOM 592 599	náuseas
+T84	SYMPTOM 601 611	sudoración
+T85	SYMPTOM 614 620	mareos
+T86	SYMPTOM 652 658	disnea
+T87	SYMPTOM 736 743	afebril
+T88	SYMPTOM 768 782	tonos rítmicos
+T89	SYMPTOM 784 811	Soplo II/VI en foco aórtico
+T90	SYMPTOM 843 892	crepitantes teleinspiratorios en bases pulmonares
+T91	SYMPTOM 894 949	Abdomen: blando y depresible no doloroso a la palpación
+T92	SYMPTOM 954 959	masas
+T93	SYMPTOM 963 971	megalias
+T94	SYMPTOM 997 1026	edemas en miembros inferiores
+T95	SYMPTOM 1102 1104	RS
+T96	SYMPTOM 1124 1136	QRS estrecho
+T97	SYMPTOM 1159 1174	Onda T negativa
+T98	SYMPTOM 1677 1695	Hilios congestivos
+T99	SYMPTOM 1705 1747	infiltrados alveolares en bases pulmonares
+T100	SYMPTOM 2098 2145	Leve hipocinesia ínfero-posterior y septo basal
+T101	SYMPTOM 2259 2292	Aurícula derecha de tamaño normal
+T102	SYMPTOM 2455 2478	Válvula pulmonar normal
+T103	SYMPTOM 2889 2902	pausa sinusal
+T104	SYMPTOM 2942 2954	QRS estrecho
+T105	SYMPTOM 3140 3182	Función sistólica biventricular conservada
+T106	SYMPTOM 3762 3790	Test Coomb directo: negativo
+T107	SYMPTOM 3792 3825	Anticuerpos irregulares negativos
+T108	SYMPTOM 4804 4838	IEF en orina: Bence-Jones positivo
+T109	SYMPTOM 5020 5062	Anticuerpos antifactor intrínseco negativo
+T110	SYMPTOM 5064 5088	ATPasa gástrica positivo
+T111	SYMPTOM 5090 5104	ANCAS negativo
+T112	SYMPTOM 5157 5186	Serología virus: VHB negativo
+T113	SYMPTOM 5188 5200	VHC negativo
+T114	SYMPTOM 5221 5233	IgM positivo
+T115	SYMPTOM 6302 6334	elevación de enzimas miocárdicas
+T116	SYMPTOM 6385 6406	elevación de Pro- BNP
+T117	SYMPTOM 6425 6471	bajos voltajes en derivaciones de los miembros
+T118	SYMPTOM 7027 7033	mareos
+T119	SYMPTOM 7036 7052	malestar general
+T120	SYMPTOM 7081 7091	Sudoración
+T121	SYMPTOM 7093 7112	palidez mucocutánea
+T122	SYMPTOM 7115 7130	frialdad distal
+T123	SYMPTOM 7147 7159	bradicárdica
+T124	SYMPTOM 5202 5219	CMV: IgG positivo
+T125	SYMPTOM 3722 3745	Coronarias sin lesiones
+T126	SYMPTOM 4966 5012	anticuerpos anticélulas parietales G: positivo
+T127	MEDICATION 187 197	metformina
+T128	MEDICATION 207 221	insulina lenta
+T129	MEDICATION 6786 6789	AAS
+T130	MEDICATION 6806 6817	clopidogrel
+T131	MEDICATION 6839 6847	ramipril
+T132	MEDICATION 6882 6892	bisoprolol
+T133	MEDICATION 7988 8000	dexametasona
+T134	MEDICATION 7980 7987	velcade
+#1	AnnotatorNotes T29	 FV fibrilación ventricular
+#2	AnnotatorNotes T31	 AL Amiloidosis primaria
+#3	AnnotatorNotes T33	 TV taquicardia ventricular
+#4	AnnotatorNotes T37	 IAo insuficiencia aórtica
+#5	AnnotatorNotes T95	ritmo sinusal

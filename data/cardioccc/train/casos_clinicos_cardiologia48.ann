@@ -1,0 +1,128 @@
+T1	DISEASE 1913 1923	ferropenia
+T2	DISEASE 164 181	diabetes mellitus
+T3	DISEASE 255 267	cardiopatías
+T4	DISEASE 281 303	insuficiencia cardiaca
+T5	DISEASE 308 321	muerte súbita
+T6	DISEASE 710 728	angina a esfuerzos
+T7	DISEASE 1257 1262	BRDHH
+T8	DISEASE 1321 1365	crecimiento y sobrecarga ventricular derecha
+T9	DISEASE 1594 1599	BRDHH
+T10	DISEASE 2519 2528	infección
+T11	DISEASE 2729 2758	fibrosis endomiocárdica de VI
+T12	DISEASE 3046 3074	Hipertensión pulmonar severa
+T13	DISEASE 3083 3117	derrame pericárdico retroauricular
+T14	DISEASE 3313 3324	TEP crónico
+T15	DISEASE 3354 3364	IC derecha
+T16	DISEASE 3366 3409	Ateromatosis en cayado aórtico y coronarias
+T17	DISEASE 3531 3570	enfermedad arterial coronaria de 1 vaso
+T18	DISEASE 3843 3865	insuficiencia cardiaca
+T19	DISEASE 3947 3973	miocardiopatía restrictiva
+T20	DISEASE 3989 4019	fibrosis endomiocárdica del VI
+T21	DISEASE 4156 4177	hipertensión pulmonar
+T22	DISEASE 4430 4441	TEP crónico
+T23	DISEASE 4494 4517	fibrosis endomiocárdica
+T24	DISEASE 4535 4563	calcificación endomiocárdica
+T25	DISEASE 4579 4601	ateromatosis coronaria
+T26	DISEASE 4634 4724	enfermedad arterial coronaria de la arteria descendente anterior con lesión crítica ostial
+T27	DISEASE 4858 4881	fibrosis endomiocárdica
+T28	DISEASE 4943 4993	disfunción VI secundaria a fibrosis endomiocárdica
+T29	DISEASE 5444 5466	Insuficiencia cardiaca
+T30	DISEASE 5490 5551	miocardiopatía restrictiva por fibrosis endomiocárdica del VI
+T31	DISEASE 5553 5581	Hipertensión pulmonar severa
+T32	DISEASE 5583 5615	Tromboembolismo pulmonar crónico
+T33	DISEASE 5617 5659	Insuficiencia tricuspídea severa funcional
+T34	DISEASE 5661 5682	Cardiopatía isquémica
+T35	DISEASE 5684 5723	Enfermedad arterial coronaria de 1 vaso
+T36	DISEASE 5747 5771	Diabetes mellitus tipo 2
+T37	DISEASE 1067 1080	hepatomegalia
+T38	DISEASE 1265 1271	HBAIHH
+T39	DISEASE 1602 1608	HBAIHH
+T40	DISEASE 2209 2255	cardiomegalia a expensas de cavidades derechas
+T41	DISEASE 2862 2873	VD dilatado
+T42	DISEASE 2955 3002	dilatación auricular izquierda y moderada de AD
+T43	DISEASE 3004 3016	IM funcional
+T44	DISEASE 3025 3044	IT funcional severa
+T45	DISEASE 3572 3618	Descendente anterior con lesión crítica ostial
+T46	DISEASE 4102 4130	VD dilatado y disfuncionante
+T47	DISEASE 4135 4144	IT severa
+T48	DISEASE 4813 4824	infecciones
+T49	DISEASE 4935 4941	angina
+T50	DISEASE 5740 5745	angor
+T51	DISEASE 1206 1225	taquicardia sinusal
+T52	DISEASE 2841 2860	Bajo gasto cardiaco
+T53	DISEASE 2760 2793	Disfunción sistólica de VI severa
+T54	DISEASE 4025 4055	disfunción sistólica VI severa
+T55	PROCEDURE 735 753	exploración física
+T56	PROCEDURE 821 842	Auscultación cardiaca
+T57	PROCEDURE 990 1011	Auscultación pulmonar
+T58	PROCEDURE 1186 1204	Electrocardiograma
+T59	PROCEDURE 1519 1537	Electrocardiograma
+T60	PROCEDURE 2187 2207	Radiografía de tórax
+T61	PROCEDURE 2699 2727	Ecocardiograma transtorácico
+T62	PROCEDURE 3127 3155	Angio-TC arterias pulmonares
+T63	PROCEDURE 3158 3169	TC cardiaco
+T64	PROCEDURE 3514 3529	Coronariografía
+T65	PROCEDURE 3931 3946	ecocardiografía
+T66	PROCEDURE 4259 4284	tratamiento neurohormonal
+T67	PROCEDURE 4378 4410	angio- TC de arterias pulmonares
+T68	PROCEDURE 4444 4455	TC torácico
+T69	PROCEDURE 4606 4621	coronariografía
+T70	PROCEDURE 5105 5129	resección endomiocárdica
+T71	PROCEDURE 5188 5211	revascularización de DA
+T72	PROCEDURE 5253 5273	anticoagulación oral
+T73	PROCEDURE 2089 2100	Coagulación
+T74	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 2318 2328	Serologías
+T76	PROCEDURE 4189 4211	tratamiento deplectivo
+T77	PROCEDURE 5133 5137	CABG
+T78	PROCEDURE 1724 1733	Analítica
+T79	PROCEDURE 5156 5185	cirugía de resección de masas
+T80	SYMPTOM 367 432	disnea de esfuerzo progresiva, hasta hacerse de mínimos esfuerzos
+T81	SYMPTOM 570 583	palpitaciones
+T82	SYMPTOM 585 621	edematización de miembros inferiores
+T83	SYMPTOM 624 654	aumento de perímetro abdominal
+T84	SYMPTOM 664 672	ortopnea
+T85	SYMPTOM 675 702	disnea paroxística nocturna
+T86	SYMPTOM 755 773	eupneico en reposo
+T87	SYMPTOM 804 819	bien perfundido
+T88	SYMPTOM 844 868	tonos cardiacos rítmicos
+T89	SYMPTOM 870 882	taquicárdico
+T90	SYMPTOM 893 908	soplo sistólico
+T91	SYMPTOM 967 988	Ingurgitación yugular
+T92	SYMPTOM 1013 1042	crepitantes ligeros bibasales
+T93	SYMPTOM 1044 1062	Abdomen distendido
+T94	SYMPTOM 1096 1159	Edemas en miembros inferiores hasta muslos y en pared abdominal
+T95	SYMPTOM 1399 1416	ondas T negativas
+T96	SYMPTOM 1558 1571	ritmo sinusal
+T97	SYMPTOM 1610 1637	qR en precordiales derechas
+T98	SYMPTOM 2439 2480	Parasitemia en sangre periférica negativa
+T99	SYMPTOM 2581 2593	VIH negativo
+T100	SYMPTOM 2595 2633	VHA IgM negativo con Ac total positivo
+T101	SYMPTOM 2635 2654	VHB: HBcAc positivo
+T102	SYMPTOM 2810 2839	patrón diastólico restrictivo
+T103	SYMPTOM 2862 2873	VD dilatado
+T104	SYMPTOM 2955 2985	dilatación auricular izquierda
+T105	SYMPTOM 3326 3339	Cardiomegalia
+T106	SYMPTOM 3411 3459	Aumento de densidad de grasa en mediastino medio
+T107	SYMPTOM 4058 4090	patrón restrictivo de llenado VI
+T108	SYMPTOM 1371 1396	infradesnivelación del ST
+T109	SYMPTOM 1642 1667	infradesnivelación del ST
+T110	SYMPTOM 1670 1687	ondas T negativas
+T111	SYMPTOM 2318 2437	Serologías: Toxoplasma, Echinococcus, Trypanosoma, Treponema pallidum, Strongyloides stercoralis, Schistosoma negativos
+T112	SYMPTOM 2257 2290	Signos de redistribución vascular
+T113	SYMPTOM 2293 2316	líquido en cisura menor
+T114	SYMPTOM 1273 1307	Patrón qR en precordiales derechas
+T115	SYMPTOM 1946 1977	transferrina y ferritina normal
+T116	SYMPTOM 2482 2506	Plasmodium IgM negativos
+T117	SYMPTOM 2540 2579	Trichinella, Fasciola, Taenia negativos
+T118	SYMPTOM 2680 2696	AntiHBs positivo
+T119	SYMPTOM 2656 2677	antiHBe indeterminado
+T120	MEDICATION 4286 4296	bisoprolol
+T121	MEDICATION 4314 4322	ramipril
+T122	MEDICATION 4338 4348	eplerenona
+T123	MEDICATION 5038 5041	AAS
+T124	MEDICATION 5044 5053	estatinas
+#1	AnnotatorNotes T9	 BRDHH Bloqueo de rama derecha del Haz de His
+#2	AnnotatorNotes T39	 HBAIHH Hemibloqueo anterior izquierdo (del Haz de His)
+#3	AnnotatorNotes T43	 IM insuficiencia mitral
+#4	AnnotatorNotes T44	 IT insuficiencia tricuspídea

@@ -1,0 +1,53 @@
+T1	ENFERMEDAD 44 65	cardiopatía isquémica
+T2	ENFERMEDAD 797 820	endocarditis infecciosa
+T3	ENFERMEDAD 2712 2746	endocarditis de evolución subaguda
+T4	ENFERMEDAD 3608 3620	endocarditis
+T5	ENFERMEDAD 3732 3785	infección se identificó como A. actinomycetemcomitans
+T6	ENFERMEDAD 4070 4111	endocarditis por A. actinomycetemcomitans
+T7	ENFERMEDAD 4320 4332	endocarditis
+T8	ENFERMEDAD 4364 4384	patologías cardiacas
+T9	ENFERMEDAD 4429 4450	infección orofaríngea
+T10	ENFERMEDAD 4866 4878	endocarditis
+T11	ENFERMEDAD 5341 5374	endocarditis sobre válvula nativa
+T12	ENFERMEDAD 677 747	verrugas en la valva anteroseptal mitral con insuficiencia mitral leve
+T13	ENFERMEDAD 260 272	boca séptica
+T14	ENFERMEDAD 4611 4658	boca séptica con piezas dentarias en mal estado
+T15	PROCEDIMIENTO 279 300	auscultación cardiaca
+T16	PROCEDIMIENTO 497 517	radiografía de tórax
+T17	PROCEDIMIENTO 619 648	ecocardiograma transesofágico
+T18	PROCEDIMIENTO 982 994	hemocultivos
+T19	PROCEDIMIENTO 1271 1290	pruebas bioquímicas
+T20	PROCEDIMIENTO 1751 1784	pruebas serológicas para Brucella
+T21	PROCEDIMIENTO 1914 1937	tratamiento antibiótico
+T22	PROCEDIMIENTO 2086 2120	microscopia óptica de bajo aumento
+T23	PROCEDIMIENTO 2178 2238	estudio de sensibilidad se realizó por el método disco-placa
+T24	PROCEDIMIENTO 2599 2622	tratamiento antibiótico
+T25	PROCEDIMIENTO 2777 2788	hemocultivo
+T26	PROCEDIMIENTO 759 791	tratamiento antibiótico empírico
+T27	PROCEDIMIENTO 1002 1025	tinción de Gram directa
+T28	PROCEDIMIENTO 1082 1140	subcultivo realizado en agar chocolate en atmósfera de CO2
+T29	PROCEDIMIENTO 1201 1216	tinción de Gram
+T30	PROCEDIMIENTO 1557 1592	subcultivo en caldo de tioglicolato
+T31	PROCEDIMIENTO 530 565	Se extrajeron hemocultivos seriados
+T32	PROCEDIMIENTO 366 375	analítica
+T33	PROCEDIMIENTO 214 225	exploración
+T34	SINTOMA 93 99	fiebre
+T35	SINTOMA 164 175	escalofríos
+T36	SINTOMA 177 187	sudoración
+T37	SINTOMA 189 196	astenia
+T38	SINTOMA 199 207	anorexia
+T39	SINTOMA 279 308	auscultación cardiaca rítmica
+T40	SINTOMA 497 528	radiografía de tórax fue normal
+T41	SINTOMA 929 994	crecimiento bacteriano en 3 de las 4 botellas de los hemocultivos
+T42	SINTOMA 1751 1801	pruebas serológicas para Brucella fueron negativas
+T43	SINTOMA 1873 1891	episodios febriles
+T44	SINTOMA 325 351	soplo multifocal sistólico
+T45	SINTOMA 1002 1058	tinción de Gram directa no se observaron microorganismos
+T46	SINTOMA 2752 2816	crecimiento tardío en el hemocultivo decocobacilos gramnegativos
+T47	SINTOMA 439 475	series blanca y plaquetaria normales
+T48	SINTOMA 1201 1265	tinción de Gram se correspondieron con cocobacilos gramnegativos
+T49	SINTOMA 2086 2129	microscopia óptica de bajo aumento colonias
+T50	FARMACO 825 848	amoxicilina-clavulánico
+T51	FARMACO 864 875	gentamicina
+T52	FARMACO 1942 1953	ceftriaxona
+T53	FARMACO 2677 2688	ceftriaxona

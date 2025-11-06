@@ -1,0 +1,114 @@
+T1	DISEASE 184 196	hipertensión
+T2	DISEASE 265 281	diabética tipo 2
+T3	DISEASE 438 448	dislipemia
+T4	DISEASE 517 580	adenocarcinoma colorrectal estadio IV con metástasis pulmonares
+T5	DISEASE 901 907	angina
+T6	DISEASE 909 916	síncope
+T7	DISEASE 2636 2657	hipertensión pulmonar
+T8	DISEASE 2709 2728	derrame pericárdico
+T9	DISEASE 3669 3703	miopatía inflamatoria necrotizante
+T10	DISEASE 4717 4732	daño miocárdico
+T11	DISEASE 4950 4963	valvulopatías
+T12	DISEASE 5105 5116	miocarditis
+T13	DISEASE 5275 5283	miositis
+T14	DISEASE 5656 5697	miocarditis por inmunoterapia (nivolumab)
+T15	DISEASE 5912 5948	Miocarditis y miositis por nivolumab
+T16	DISEASE 5950 5988	Adenocarcinoma colorrectal metastásico
+T17	DISEASE 5990 6020	Hipertensión arterial esencial
+T18	DISEASE 6022 6046	Diabetes mellitus tipo 2
+T19	DISEASE 2527 2572	Válvula aórtica trivalva, con leve esclerosis
+T20	DISEASE 316 355	complicaciones micro ni macrovasculares
+T21	DISEASE 1546 1549	BRD
+T22	DISEASE 1546 1597	BRD y alteraciones secundarias de la repolarización
+T23	PROCEDURE 770 783	inmunoterapia
+T24	PROCEDURE 1030 1048	EXPLORACIÓN FÍSICA
+T25	PROCEDURE 1228 1249	Auscultación cardiaca
+T26	PROCEDURE 1270 1291	Auscultación pulmonar
+T27	PROCEDURE 1422 1440	Electrocardiograma
+T28	PROCEDURE 1442 1445	ECG
+T29	PROCEDURE 1610 1643	Radiografía de tórax PA y lateral
+T30	PROCEDURE 2227 2255	Ecocardiograma transtorácico
+T31	PROCEDURE 2783 2826	Resonancia magnética cardiaca con contraste
+T32	PROCEDURE 3255 3281	Biopsia de músculo tríceps
+T33	PROCEDURE 3383 3396	técnica de HE
+T34	PROCEDURE 3490 3516	estudio inmunohistoquímico
+T35	PROCEDURE 3705 3708	ECG
+T36	PROCEDURE 4302 4356	Anticuerpos antimúsculo estriado (inmunofluorescencia)
+T37	PROCEDURE 4486 4497	corticoides
+T38	PROCEDURE 4531 4545	diurético oral
+T39	PROCEDURE 4563 4592	monitorización con telemetría
+T40	PROCEDURE 4792 4834	pauta descendente posterior de corticoides
+T41	PROCEDURE 4850 4878	ecocardiograma transtorácico
+T42	PROCEDURE 4881 4901	resonancia magnética
+T43	PROCEDURE 5213 5240	biopsia de tríceps braquial
+T44	PROCEDURE 5339 5354	coronariografía
+T45	PROCEDURE 5358 5380	biopsia endomiocárdica
+T46	PROCEDURE 5445 5448	ECG
+T47	PROCEDURE 5479 5496	antiinflamatorios
+T48	PROCEDURE 5528 5544	biopsia muscular
+T49	PROCEDURE 5672 5685	inmunoterapia
+T50	PROCEDURE 5810 5813	ECG
+T51	PROCEDURE 5816 5826	troponinas
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 4703 4732	marcadores de daño miocárdico
+T54	PROCEDURE 5040 5060	ecuencias de T2-STIR
+T55	PROCEDURE 5564 5582	secuencias T2-STIR
+T56	PROCEDURE 1793 1802	Analítica
+T57	PROCEDURE 3877 3886	Analítica
+T58	PROCEDURE 5432 5442	analíticas
+T59	PROCEDURE 5510 5523	autoinmunidad
+T60	SYMPTOM 141 160	deterioro cognitivo
+T61	SYMPTOM 812 830	disnea de esfuerzo
+T62	SYMPTOM 833 841	ortopnea
+T63	SYMPTOM 869 877	anorexia
+T64	SYMPTOM 879 886	astenia
+T65	SYMPTOM 889 894	mareo
+T66	SYMPTOM 950 956	fiebre
+T67	SYMPTOM 974 987	palpitaciones
+T68	SYMPTOM 1163 1183	eupneica en decúbito
+T69	SYMPTOM 1228 1257	Auscultación cardiaca rítmica
+T70	SYMPTOM 1262 1268	soplos
+T71	SYMPTOM 1325 1353	crepitantes húmedos en bases
+T72	SYMPTOM 1355 1395	Edemas con fóvea pretibiales bilaterales
+T73	SYMPTOM 1473 1486	ritmo sinusal
+T74	SYMPTOM 1497 1506	PR normal
+T75	SYMPTOM 1656 1690	índice cardiotorácico no aumentado
+T76	SYMPTOM 1692 1726	engrosamiento perihiliar bilateral
+T77	SYMPTOM 1731 1754	redistribución vascular
+T78	SYMPTOM 2257 2323	ventrículo izquierdo no dilatado ni hipertrófico, normofuncionante
+T79	SYMPTOM 2443 2473	Aurícula izquierda no dilatada
+T80	SYMPTOM 2475 2502	Cavidades derechas normales
+T81	SYMPTOM 2504 2525	Válvula mitral normal
+T82	SYMPTOM 2730 2755	Cava inferior no dilatada
+T83	SYMPTOM 2828 2914	ventrículo izquierdo de tamaño normal, con espesores parietales ligeramente aumentados
+T84	SYMPTOM 3756 3765	PR normal
+T85	SYMPTOM 3768 3797	QRS estrecho normoposicionado
+T86	SYMPTOM 4662 4696	alteraciones electrocardiográficas
+T87	SYMPTOM 4912 4944	función biventricular preservada
+T88	SYMPTOM 5810 5835	ECG y troponinas normales
+T89	SYMPTOM 1116 1137	Ingurgitación yugular
+T90	SYMPTOM 4993 5005	edema difuso
+T91	SYMPTOM 3729 3742	ritmo sinusal
+T92	SYMPTOM 2328 2382	hipocinesia de segmentos inferolaterales basal y medio
+T93	SYMPTOM 1296 1323	buena ventilación bilateral
+T94	SYMPTOM 1875 1889	fórmula normal
+T95	SYMPTOM 3955 3969	fórmula normal
+T96	SYMPTOM 5152 5210	resultado positivo de los anticuerpos antimúsculo estriado
+T97	SYMPTOM 927 947	focalidad infecciosa
+T98	SYMPTOM 1759 1791	ocupación de senos costofrénicos
+T99	SYMPTOM 2384 2441	Patrón de llenado mitral tipo alteración de la relajación
+T100	SYMPTOM 2527 2606	Válvula aórtica trivalva, con leve esclerosis y gradientes ligeramente elevados
+T101	SYMPTOM 3191 3209	inflamación difusa
+T102	SYMPTOM 2928 2970	alteraciones de la contracción segmentaria
+T103	SYMPTOM 3842 3875	alteraciones de la repolarización
+T104	SYMPTOM 4302 4367	Anticuerpos antimúsculo estriado (inmunofluorescencia): positivos
+T105	MEDICATION 216 244	lisinopril/hidroclorotiazida
+T106	MEDICATION 377 387	metformina
+T107	MEDICATION 397 409	sitagliptina
+T108	MEDICATION 468 480	simvastatina
+T109	MEDICATION 645 656	binimetanib
+T110	MEDICATION 659 668	nivolumab
+T111	MEDICATION 4499 4516	metilprednisolona
+T112	MEDICATION 5687 5696	nivolumab
+T113	MEDICATION 5860 5869	nivolumab
+T114	MEDICATION 5939 5948	nivolumab

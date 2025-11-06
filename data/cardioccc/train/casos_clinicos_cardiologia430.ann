@@ -1,0 +1,78 @@
+T1	DISEASE 80 87	fumador
+T2	DISEASE 606 622	parálisis facial
+T3	DISEASE 1023 1053	patología estructural cardiaca
+T4	DISEASE 1153 1184	accidente isquémico transitorio
+T5	DISEASE 1186 1189	AIT
+T6	DISEASE 1324 1351	pseudoaneurisma ventricular
+T7	DISEASE 1366 1372	trombo
+T8	DISEASE 1469 1548	lesión grave del tronco coronario izquierdo (TCI) medio-distal y de los 3 vasos
+T9	DISEASE 1787 1823	aneurisma inferobasal e inferoseptal
+T10	DISEASE 1946 1952	trombo
+T11	DISEASE 2005 2018	cardiomegalia
+T12	DISEASE 2516 2543	pseudoaneurisma ventricular
+T13	DISEASE 2559 2565	trombo
+T14	DISEASE 2672 2701	disfunción sistólica moderada
+T15	DISEASE 2720 2787	tronco coronario izquierdo: con lesión grave en tercio medio distal
+T16	DISEASE 2847 2888	Descendente anterior: con estenosis grave
+T17	DISEASE 2927 2970	Circunfleja: estenosis significativa ostial
+T18	DISEASE 3508 3637	déficit motor en territorio de arteria cerebral media (ACM) izquierda y arteria cerebral anterior derecha de causa cardioembólica
+T19	DISEASE 3760 3790	estenosis significativa en ACM
+T20	DISEASE 4006 4029	trombo intraventricular
+T21	DISEASE 4558 4588	shock cardiogénico refractario
+T22	DISEASE 4603 4618	Infarto silente
+T23	DISEASE 4634 4670	pseudoaneurisma ventricular inferior
+T24	DISEASE 4676 4688	trombo mural
+T25	DISEASE 4706 4755	Enfermedad arterial coronaria de TCI y tres vasos
+T26	DISEASE 4757 4798	Disfunción ventricular izquierda moderada
+T27	DISEASE 3358 3376	eventos arrítmicos
+T28	DISEASE 1606 1696	ventrículo izquierdo (VI) moderadamente dilatado, con disfunción sistólica global moderada
+T29	DISEASE 3127 3171	Coronaria derecha: dominante, ocluida ostial
+T30	DISEASE 2752 2845	lesión grave en tercio medio distal afectando el ostium de descendente anterior y circunfleja
+T31	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T32	PROCEDURE 209 212	ECG
+T33	PROCEDURE 304 313	anamnesis
+T34	PROCEDURE 768 786	exploración física
+T35	PROCEDURE 841 855	ecocardiograma
+T36	PROCEDURE 965 994	resonancia magnética cardiaca
+T37	PROCEDURE 996 999	RMC
+T38	PROCEDURE 1214 1226	TAC cerebral
+T39	PROCEDURE 1289 1292	RMC
+T40	PROCEDURE 1432 1453	angiografía coronaria
+T41	PROCEDURE 1575 1604	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T42	PROCEDURE 1954 1974	RADIOGRAFÍA DE TÓRAX
+T43	PROCEDURE 2020 2023	ECG
+T44	PROCEDURE 2109 2118	Hemograma
+T45	PROCEDURE 2264 2279	Perfil lipídico
+T46	PROCEDURE 2361 2376	Perfil hepático
+T47	PROCEDURE 2502 2514	RMN cardiaca
+T48	PROCEDURE 2703 2718	CORONARIOGRAFÍA
+T49	PROCEDURE 3383 3393	telemetría
+T50	PROCEDURE 3472 3487	anticoagulación
+T51	PROCEDURE 3696 3698	TC
+T52	PROCEDURE 3732 3752	Doppler transcraneal
+T53	PROCEDURE 3884 3902	esternotomía media
+T54	PROCEDURE 3918 3943	circulación extracorpórea
+T55	PROCEDURE 3956 3990	resección de la zona aneurismática
+T56	PROCEDURE 4113 4161	bypass aortocoronario secuencial AMI-DA y AMI-OM
+T57	PROCEDURE 4185 4248	protección miocárdica con cardioplegia anterógrada y retrógrada
+T58	PROCEDURE 4269 4309	retirada de la circulación extracorpórea
+T59	PROCEDURE 4337 4384	aminas vasoactivas (dobutamina + noradrenalina)
+T60	PROCEDURE 4800 4842	Cirugía de resección de zona aneurismática
+T61	PROCEDURE 4845 4867	bypass AMI-DA y AMI-OM
+T62	PROCEDURE 2185 2195	Bioquímica
+T63	PROCEDURE 3992 4085	se extrajo el trombo intraventricular y se reconstruyó la pared inferior con parche de Dacrón
+T64	PROCEDURE 2089 2098	ANALÍTICA
+T65	PROCEDURE 1402 1409	cirugía
+T66	PROCEDURE 3850 3873	intervención quirúrgica
+T67	SYMPTOM 366 380	dolor torácico
+T68	SYMPTOM 407 436	disnea de moderados esfuerzos
+T69	SYMPTOM 558 595	pérdida de fuerza en miembro superior
+T70	SYMPTOM 2033 2087	ondas Q y ondas T negativas en derivaciones inferiores
+T71	SYMPTOM 3317 3329	asintomático
+T72	SYMPTOM 4499 4512	fallecimiento
+T73	SYMPTOM 4897 4910	fallecimiento
+T74	SYMPTOM 1214 1246	TAC cerebral, que resultó normal
+T75	SYMPTOM 1083 1102	clínica neurológica
+T76	SYMPTOM 1878 1882	masa
+T77	MEDICATION 4357 4367	dobutamina
+T78	MEDICATION 4370 4383	noradrenalina

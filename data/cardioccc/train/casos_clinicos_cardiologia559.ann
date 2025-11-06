@@ -1,0 +1,68 @@
+T1	DISEASE 4015 4025	Ferropenia
+T2	DISEASE 109 126	diabetes mellitus
+T3	DISEASE 128 137	exfumador
+T4	DISEASE 139 149	dislipemia
+T5	DISEASE 151 186	Linfoma difuso de células grandes B
+T6	DISEASE 250 280	Insuficiencia cardiaca crónica
+T7	DISEASE 282 324	miocardiopatía dilatada (MCD) no isquémica
+T8	DISEASE 307 310	MCD
+T9	DISEASE 477 498	miocardiopatía dilata
+T10	DISEASE 671 681	ferropenia
+T11	DISEASE 886 896	ferropenia
+T12	DISEASE 914 916	IC
+T13	DISEASE 1539 1558	disfunción valvular
+T14	DISEASE 1616 1644	Insuficiencia mitral trivial
+T15	DISEASE 1894 1919	Insuficiencia tricuspídea
+T16	DISEASE 1921 1923	IT
+T17	DISEASE 1938 1957	derrame pericárdico
+T18	DISEASE 2560 2585	Derrame pleural bilateral
+T19	DISEASE 2719 2742	Extrasistolia auricular
+T20	DISEASE 3923 3945	insuficiencia cardiaca
+T21	DISEASE 3960 4013	Miocardiopatía dilatada con FEVI gravemente deprimida
+T22	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T23	PROCEDURE 200 213	quimioterapia
+T24	PROCEDURE 1235 1249	Ecocardiograma
+T25	PROCEDURE 2003 2038	Resonancia magnética cardiaca basal
+T26	PROCEDURE 2040 2043	RMC
+T27	PROCEDURE 2632 2650	Electrocardiograma
+T28	PROCEDURE 2652 2655	ECG
+T29	PROCEDURE 2988 2991	RMC
+T30	PROCEDURE 3634 3637	RMC
+T31	PROCEDURE 2931 2945	perfil férrico
+T32	PROCEDURE 2903 2912	analítica
+T33	SYMPTOM 336 360	hipocinesia generalizada
+T34	SYMPTOM 577 598	congestión periférica
+T35	SYMPTOM 1257 1299	ventrículo izquierdo de diámetros normales
+T36	SYMPTOM 1352 1399	severa depresión de la función global sistólica
+T37	SYMPTOM 1775 1801	Aurículas de tamaño normal
+T38	SYMPTOM 2046 2145	ventrículo izquierdo con grosor de sus paredes conservado, volumen diastólico ligeramente aumentado
+T39	SYMPTOM 2428 2474	Aurícula izquierda de tamaño en el limite alto
+T40	SYMPTOM 2658 2671	ritmo sinusal
+T41	SYMPTOM 2693 2705	QRS estrecho
+T42	SYMPTOM 3150 3198	Función sistólica global moderadamente deprimida
+T43	SYMPTOM 3224 3249	hipoquinesia generalizada
+T44	SYMPTOM 919 932	FEVI reducida
+T45	SYMPTOM 1422 1446	hipocinesia generalizada
+T46	SYMPTOM 1448 1479	Raíz aórtica de diámetro normal
+T47	SYMPTOM 1803 1877	Ventrículo derecho no dilatado con función sistólica ligeramente deprimida
+T48	SYMPTOM 2183 2229	función sistólica global severamente deprimida
+T49	SYMPTOM 2255 2280	hipoquinesia generalizada
+T50	SYMPTOM 2282 2338	Ventrículo derecho de morfología y volúmenes conservados
+T51	SYMPTOM 2502 2558	Aorta y grandes vasos de diámetros y morfología normales
+T52	SYMPTOM 3035 3113	ventrículo izquierdo con grosor de sus paredes y volumen diastólico conservado
+T53	SYMPTOM 3251 3307	Ventrículo derecho de morfología y volúmenes conservados
+T54	SYMPTOM 3445 3501	Aorta y grandes vasos de diámetros y morfología normales
+T55	SYMPTOM 3382 3417	Aurícula izquierda de tamaño normal
+T56	SYMPTOM 1560 1614	Válvula mitral con valvas de grosor y movilidad normal
+T57	SYMPTOM 2707 2717	eje normal
+T58	MEDICATION 956 964	insulina
+T59	MEDICATION 984 1009	metformina/empagliflozina
+T60	MEDICATION 1029 1050	sacubitrilo/valsartán
+T61	MEDICATION 1066 1076	bisoprolol
+T62	MEDICATION 1087 1097	furosemida
+T63	MEDICATION 1110 1120	eplerenona
+T64	MEDICATION 2807 2828	hierro carboximaltosa
+T65	MEDICATION 4088 4109	hierro carboximaltosa
+T66	MEDICATION 2850 2861	Ferinject ®
+T67	MEDICATION 3027 3033	hierro
+T68	MEDICATION 4111 4120	Ferinject

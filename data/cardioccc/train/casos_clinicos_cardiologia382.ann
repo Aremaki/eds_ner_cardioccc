@@ -1,0 +1,111 @@
+T1	DISEASE 71 79	alergias
+T2	DISEASE 132 141	exfumador
+T3	DISEASE 162 183	Hipertensión arterial
+T4	DISEASE 185 188	HTA
+T5	DISEASE 207 217	Dislipemia
+T6	DISEASE 242 255	Hiperuricemia
+T7	DISEASE 257 305	Síndrome de apnea-hipopnea obstructiva del sueño
+T8	DISEASE 307 312	SAHOS
+T9	DISEASE 406 418	poliglobulia
+T10	DISEASE 484 529	linfoma linfocítico con delección del gen p53
+T11	DISEASE 531 564	Artropatía degenerativa de hombro
+T12	DISEASE 567 597	osteofitosis acromioclavicular
+T13	DISEASE 671 686	hernia inguinal
+T14	DISEASE 1375 1395	leucemia linfocítica
+T15	DISEASE 1716 1739	flutter auricular común
+T16	DISEASE 1801 1823	insuficiencia cardiaca
+T17	DISEASE 2151 2183	bloqueo completo de rama derecha
+T18	DISEASE 2185 2190	BRDHH
+T19	DISEASE 2845 2870	insuficiencia tricuspídea
+T20	DISEASE 2872 2874	IT
+T21	DISEASE 2921 2942	hipertensión pulmonar
+T22	DISEASE 2978 2997	derrame pericárdico
+T23	DISEASE 3014 3037	flutter auricular común
+T24	DISEASE 3191 3213	insuficiencia cardiaca
+T25	DISEASE 3261 3278	flutter auricular
+T26	DISEASE 3381 3384	HTA
+T27	DISEASE 3699 3758	fibrilación auricular (FA) con respuesta ventricular rápida
+T28	DISEASE 3722 3724	FA
+T29	DISEASE 4558 4578	flutter auricular IC
+T30	DISEASE 5101 5130	flutter auricular paroxístico
+T31	DISEASE 5169 5189	flutter auricular IC
+T32	DISEASE 5249 5268	Linfoma linfocítico
+T33	DISEASE 5096 5098	FA
+T34	DISEASE 2616 2650	Válvula aórtica esclerocalcificada
+T35	DISEASE 2681 2728	Válvula mitral esclerosa con regurgitación leve
+T36	DISEASE 2730 2774	Aurícula izquierda (AI) ligeramente dilatada
+T37	PROCEDURE 317 374	tratamiento con presión positiva continua en la vía aérea
+T38	PROCEDURE 376 380	CPAP
+T39	PROCEDURE 423 431	sangrías
+T40	PROCEDURE 627 641	rehabilitación
+T41	PROCEDURE 1229 1247	electrocardiograma
+T42	PROCEDURE 1249 1252	ECG
+T43	PROCEDURE 1280 1294	ecocardiograma
+T44	PROCEDURE 1698 1701	ECG
+T45	PROCEDURE 1830 1848	exploración física
+T46	PROCEDURE 1858 1878	radiografía de tórax
+T47	PROCEDURE 1894 1925	tratamiento con betabloqueantes
+T48	PROCEDURE 2131 2134	ECG
+T49	PROCEDURE 2489 2503	ECOCARDIOGRAMA
+T50	PROCEDURE 2999 3002	ECG
+T51	PROCEDURE 3075 3095	Radiografía de tórax
+T52	PROCEDURE 3322 3348	tratamiento anticoagulante
+T53	PROCEDURE 3474 3505	tratamiento con betabloqueantes
+T54	PROCEDURE 3678 3681	ECG
+T55	PROCEDURE 4120 4123	ECG
+T56	PROCEDURE 4253 4279	tratamiento betabloqueante
+T57	PROCEDURE 4540 4543	ECG
+T58	PROCEDURE 4788 4803	betabloqueantes
+T59	PROCEDURE 4925 4946	tratamiento diurético
+T60	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 643 686	Intervenciones quirúrgicas: hernia inguinal
+T62	PROCEDURE 3870 3884	betabloqueante
+T63	PROCEDURE 2288 2297	ANALÍTICA
+T64	SYMPTOM 790 822	Funciones superiores conservadas
+T65	SYMPTOM 997 1004	cansado
+T66	SYMPTOM 1016 1023	astenia
+T67	SYMPTOM 1059 1065	disnea
+T68	SYMPTOM 1101 1109	ortopnea
+T69	SYMPTOM 1111 1119	oliguria
+T70	SYMPTOM 1122 1155	edemas en extremidades inferiores
+T71	SYMPTOM 1182 1196	dolor torácico
+T72	SYMPTOM 1203 1216	palpitaciones
+T73	SYMPTOM 1617 1630	palpitaciones
+T74	SYMPTOM 1633 1669	sensación de opresión centrotorácica
+T75	SYMPTOM 1960 1973	ritmo sinusal
+T76	SYMPTOM 2136 2149	ritmo sinusal
+T77	SYMPTOM 2246 2286	alteraciones agudas de la repolarización
+T78	SYMPTOM 2505 2542	ventrículo izquierdo (VI) no dilatado
+T79	SYMPTOM 3097 3133	silueta cardiaca aumentada de tamaño
+T80	SYMPTOM 3609 3622	palpitaciones
+T81	SYMPTOM 4139 4152	ritmo sinusal
+T82	SYMPTOM 4427 4440	palpitaciones
+T83	SYMPTOM 4469 4496	disnea a medianos esfuerzos
+T84	SYMPTOM 4499 4532	edemas en extremidades inferiores
+T85	SYMPTOM 5215 5247	Función biventricular conservada
+T86	SYMPTOM 3633 3651	disnea de esfuerzo
+T87	SYMPTOM 4890 4903	ritmo sinusal
+T88	SYMPTOM 2196 2241	alteraciones secundarias de la repolarización
+T89	SYMPTOM 2776 2811	Ventrículo derecho (VD) no dilatado
+T90	SYMPTOM 2958 2973	VCI no dilatada
+T91	SYMPTOM 3964 3981	datos congestivos
+T92	SYMPTOM 3138 3172	pinzamiento de senos costofrénicos
+T93	SYMPTOM 4998 5016	signos congestivos
+T94	MEDICATION 710 724	enalapril/HCTZ
+T95	MEDICATION 742 752	alopurinol
+T96	MEDICATION 767 776	omeprazol
+T97	MEDICATION 1457 1466	ibrutinib
+T98	MEDICATION 3423 3434	rivaroxabán
+T99	MEDICATION 3521 3531	bisoprolol
+T100	MEDICATION 3844 3852	digoxina
+T101	MEDICATION 3886 3896	bisoprolol
+T102	MEDICATION 4176 4186	flecainida
+T103	MEDICATION 4301 4311	bisoprolol
+T104	MEDICATION 4713 4723	flecainida
+T105	MEDICATION 4819 4829	bisoprolol
+T106	MEDICATION 4846 4854	digoxina
+T107	MEDICATION 5146 5155	ibrutinib
+T108	MEDICATION 5203 5213	flecainida
+T109	MEDICATION 5288 5297	ibrutinib
+T110	MEDICATION 1468 1508	inhibidor de la tirosin-kinasa de Bruton
+#1	AnnotatorNotes T8	  Síndrome de apnea-hipopnea obstructiva del sueño

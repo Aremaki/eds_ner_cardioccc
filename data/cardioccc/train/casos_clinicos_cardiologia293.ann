@@ -1,0 +1,152 @@
+T1	DISEASE 1083 1109	disfunción sistólica grave
+T2	DISEASE 6675 6701	disfunción sistólica grave
+T3	DISEASE 106 129	alergias medicamentosas
+T4	DISEASE 143 158	hábitos tóxicos
+T5	DISEASE 206 220	Hipotiroidismo
+T6	DISEASE 379 414	sarcoidosis con afectación pulmonar
+T7	DISEASE 1444 1481	infección de herida quirúrgica de DAI
+T8	DISEASE 1638 1662	endocarditis tricuspídea
+T9	DISEASE 1679 1700	embolismos pulmonares
+T10	DISEASE 1755 1789	insuficiencia cardiaca refractaria
+T11	DISEASE 1822 1877	taquicardia ventricular (TV) no sostenidos y sostenidos
+T12	DISEASE 1847 1849	TV
+T13	DISEASE 1943 2003	parada cardiorrespiratoria (PCR) por fibrilación ventricular
+T14	DISEASE 2005 2007	FV
+T15	DISEASE 2210 2245	necrosis avascular de ambas caderas
+T16	DISEASE 2444 2470	complicaciones infecciosas
+T17	DISEASE 2472 2488	absceso pulmonar
+T18	DISEASE 2498 2520	herpes zoster torácico
+T19	DISEASE 2530 2547	ITU de repetición
+T20	DISEASE 2549 2564	gastroenteritis
+T21	DISEASE 2682 2724	bloqueo auriculoventricular (BAV) completo
+T22	DISEASE 2711 2714	BAV
+T23	DISEASE 2830 2833	BAV
+T24	DISEASE 2966 2983	flutter auricular
+T25	DISEASE 4123 4135	BAV completo
+T26	DISEASE 4733 4767	enfermedad coronaria de tres vasos
+T27	DISEASE 4820 4877	oclusión trombótica de la coronaria derecha (CD) proximal
+T28	DISEASE 5124 5141	miocarditis aguda
+T29	DISEASE 5151 5188	síndrome coronario agudo tipo IAMSEST
+T30	DISEASE 5604 5616	BAV completo
+T31	DISEASE 5701 5735	enfermedad coronaria de tres vasos
+T32	DISEASE 5788 5825	oclusión trombótica de la CD proximal
+T33	DISEASE 6006 6018	BAV completo
+T34	DISEASE 6023 6051	deterioro hemodinámico grave
+T35	DISEASE 6079 6102	fibrilación ventricular
+T36	DISEASE 6272 6345	Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior
+T37	DISEASE 6357 6393	BAV completo por isquemia miocárdica
+T38	DISEASE 6407 6472	Enfermedad vascular del injerto en paciente trasplantado cardiaco
+T39	DISEASE 6474 6508	Oclusión trombótica de CD proximal
+T40	DISEASE 6528 6574	Sarcoidosis con afectación pulmonar y cardiaca
+T41	DISEASE 6609 6669	Miocardiopatía infiltrativa en fase dilatada por sarcoidosis
+T42	DISEASE 6703 6706	ICC
+T43	DISEASE 6742 6768	complicaciones infecciosas
+T44	DISEASE 6820 6861	Endocarditis infecciosa aguda tricuspídea
+T45	DISEASE 6395 6405	PCR por FV
+T46	DISEASE 4630 4645	daño miocárdico
+T47	DISEASE 868 902	dilatación de ventrículo izquierdo
+T48	DISEASE 560 603	taquicardia ventricular monomorfa sostenida
+T49	DISEASE 670 730	ventrículo izquierdo dilatado con disfunción sistólica grave
+T50	DISEASE 1971 1974	PCR
+T51	DISEASE 2605 2618	rechazo agudo
+T52	DISEASE 429 455	hiperreactividad bronquial
+T53	DISEASE 2879 2900	rechazo agudo celular
+T54	DISEASE 3094 3101	rechazo
+T55	DISEASE 4151 4170	isquemia miocárdica
+T56	DISEASE 6884 6897	Rechazo agudo
+T57	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T58	PROCEDURE 476 502	tratamiento inmunosupresor
+T59	PROCEDURE 507 524	corticoesteroides
+T60	PROCEDURE 735 755	estudio hemodinámico
+T61	PROCEDURE 816 845	resonancia magnética cardiaca
+T62	PROCEDURE 1327 1375	implante de desfibrilador automático implantable
+T63	PROCEDURE 2112 2131	trasplante cardiaco
+T64	PROCEDURE 2275 2298	tratamiento corticoideo
+T65	PROCEDURE 2350 2378	prótesis de cadera bilateral
+T66	PROCEDURE 2752 2772	bolos de corticoides
+T67	PROCEDURE 2856 2863	biopsia
+T68	PROCEDURE 3037 3044	biopsia
+T69	PROCEDURE 3512 3530	exploración física
+T70	PROCEDURE 3643 3664	auscultación cardiaca
+T71	PROCEDURE 3855 3873	Electrocardiograma
+T72	PROCEDURE 3875 3878	ECG
+T73	PROCEDURE 3998 4001	ECG
+T74	PROCEDURE 4108 4111	ECG
+T75	PROCEDURE 4183 4192	hemograma
+T76	PROCEDURE 4310 4321	Coagulación
+T77	PROCEDURE 4716 4731	Coronariografía
+T78	PROCEDURE 4890 4923	intervención coronaria percutánea
+T79	PROCEDURE 4925 4928	ICP
+T80	PROCEDURE 4941 5005	recanalizar con múltiples dilataciones con balón de angioplastia
+T81	PROCEDURE 5258 5261	ECG
+T82	PROCEDURE 5509 5512	ECG
+T83	PROCEDURE 5640 5660	estudio hemodinámico
+T84	PROCEDURE 5678 5689	cateterismo
+T85	PROCEDURE 5838 5841	ICP
+T86	PROCEDURE 5853 5917	recanalizar con múltiples dilataciones con balón de angioplastia
+T87	PROCEDURE 6156 6168	RCP avanzada
+T88	PROCEDURE 6579 6607	tratamiento corticoesteroide
+T89	PROCEDURE 6792 6818	tratamiento inmunosupresor
+T90	PROCEDURE 4387 4397	Bioquímica
+T91	PROCEDURE 206 247	Hipotiroidismo en tratamiento sustitutivo
+T92	PROCEDURE 4603 4645	Seriación de marcadores de daño miocárdico
+T93	PROCEDURE 6863 6882	Trasplante cardiaco
+T94	PROCEDURE 1517 1534	ciclo antibiótico
+T95	PROCEDURE 2997 3024	sobreestimulación auricular
+T96	PROCEDURE 3739 3748	palpación
+T97	PROCEDURE 4172 4181	Analítica
+T98	PROCEDURE 1377 1380	DAI
+T99	PROCEDURE 1478 1496	DAI, explantándose
+T100	PROCEDURE 6130 6144	choques a 200J
+T101	SYMPTOM 164 197	factores de riesgo cardiovascular
+T102	SYMPTOM 279 282	tos
+T103	SYMPTOM 285 291	disnea
+T104	SYMPTOM 608 634	inestabilidad hemodinámica
+T105	SYMPTOM 1034 1045	hipocinesia
+T106	SYMPTOM 1583 1598	síndrome febril
+T107	SYMPTOM 2645 2650	mareo
+T108	SYMPTOM 2652 2679	disnea de mínimos esfuerzos
+T109	SYMPTOM 3139 3192	dolor epigástrico irradiado a la espalda autolimitado
+T110	SYMPTOM 3205 3223	sensación disneica
+T111	SYMPTOM 3360 3367	astenia
+T112	SYMPTOM 3378 3407	sintomatología cardiovascular
+T113	SYMPTOM 3424 3442	clínica infecciosa
+T114	SYMPTOM 3445 3451	fiebre
+T115	SYMPTOM 3474 3480	vómito
+T116	SYMPTOM 3550 3570	buen aspecto general
+T117	SYMPTOM 3572 3597	hemodinámicamente estable
+T118	SYMPTOM 3603 3620	datos congestivos
+T119	SYMPTOM 3622 3636	eupneico basal
+T120	SYMPTOM 3671 3683	taquicárdico
+T121	SYMPTOM 3700 3706	soplos
+T122	SYMPTOM 3710 3715	roces
+T123	SYMPTOM 3717 3791	Abdomen doloroso a la palpación en hipocondrio derecho, blando, depresible
+T124	SYMPTOM 3807 3828	irritación peritoneal
+T125	SYMPTOM 3912 3921	PR normal
+T126	SYMPTOM 3923 3935	QRS estrecho
+T127	SYMPTOM 4034 4055	elevación ST inferior
+T128	SYMPTOM 4057 4081	descenso del ST de V1-V3
+T129	SYMPTOM 4083 4106	onda Q inferioposterior
+T130	SYMPTOM 5463 5469	disnea
+T131	SYMPTOM 5471 5480	taquipnea
+T132	SYMPTOM 5484 5501	cuadro vegetativo
+T133	SYMPTOM 5549 5574	elevación del ST inferior
+T134	SYMPTOM 6250 6257	fallece
+T135	SYMPTOM 4216 4243	fórmula leucocitaria normal
+T136	SYMPTOM 3881 3900	taquicardia sinusal
+T137	SYMPTOM 4003 4022	taquicardia sinusal
+T138	SYMPTOM 5282 5301	taquicardia sinusal
+T139	SYMPTOM 5525 5544	taquicardia sinusal
+T140	SYMPTOM 6301 6326	elevación del segmento ST
+T141	SYMPTOM 6510 6516	Muerte
+T142	SYMPTOM 1122 1150	Realce tardío subendocárdico
+T143	SYMPTOM 770 803	arterias coronarias sin estenosis
+T144	SYMPTOM 947 961	adelgazamiento
+T145	SYMPTOM 973 981	acinesia
+T146	SYMPTOM 3937 3966	rectificación del ST de V1-V4
+T147	SYMPTOM 3969 3996	ST convexo en cara inferior
+T148	SYMPTOM 5375 5402	ST convexo en cara inferior
+T149	SYMPTOM 5315 5372	cambios en la repolarización de rectificación ST en V1-V4
+#1	AnnotatorNotes T14	 fibrilación ventricular
+#2	AnnotatorNotes T45	 PCR: Parada cardiorrespiratoria, FV fibrilación ventricular
+#3	AnnotatorNotes T50	 parada cardiorespiratoria

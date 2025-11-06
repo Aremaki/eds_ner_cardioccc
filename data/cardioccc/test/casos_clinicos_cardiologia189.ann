@@ -1,0 +1,90 @@
+T1	ENFERMEDAD 58 82	enfermedad con coronaria
+T2	ENFERMEDAD 104 123	hipercolesterolemia
+T3	ENFERMEDAD 140 161	hipertensión arterial
+T4	ENFERMEDAD 163 166	HTA
+T5	ENFERMEDAD 171 188	diabetes mellitus
+T6	ENFERMEDAD 190 192	DM
+T7	ENFERMEDAD 272 300	hipercolesterolemia familiar
+T8	ENFERMEDAD 2193 2206	valvulopatías
+T9	ENFERMEDAD 2226 2245	derrame pericárdico
+T10	ENFERMEDAD 3321 3341	enfermedad coronaria
+T11	ENFERMEDAD 3363 3391	hipercolesterolemia familiar
+T12	ENFERMEDAD 3492 3510	angina de esfuerzo
+T13	ENFERMEDAD 3695 3708	daño hepático
+T14	ENFERMEDAD 4136 4156	enfermedad coronaria
+T15	ENFERMEDAD 4196 4215	hipercolesterolemia
+T16	ENFERMEDAD 4709 4737	hipercolesterolemia familiar
+T17	ENFERMEDAD 4851 4871	enfermedad coronaria
+T18	ENFERMEDAD 4964 4992	hipercolesterolemia familiar
+T19	ENFERMEDAD 5025 5043	Angina de esfuerzo
+T20	ENFERMEDAD 5045 5074	Enfermedad arterial coronaria
+T21	ENFERMEDAD 195 202	Bebedor
+T22	ENFERMEDAD 1416 1465	bloqueo incompleto de rama derecha del haz de His
+T23	ENFERMEDAD 128 135	fumador
+T24	ENFERMEDAD 690 702	Hígado graso
+T25	ENFERMEDAD 4994 4996	HF
+T26	ENFERMEDAD 1320 1332	arco corneal
+T27	ENFERMEDAD 1334 1342	xantomas
+T28	ENFERMEDAD 1346 1357	xantelasmas
+T29	ENFERMEDAD 4999 5024	Intolerancia a estatinas.
+T30	ENFERMEDAD 499 527	Intolerancia a atorvastatina
+T31	ENFERMEDAD 2837 2876	estenosis moderada (50-75%) concéntrica
+T32	ENFERMEDAD 4308 4357	estenosis no significativas en el árbol coronario
+T33	ENFERMEDAD 2937 2968	Arteria circunfleja hipoplásica
+T34	ENFERMEDAD 2937 3017	Arteria circunfleja hipoplásica, con una lesión leve no calcificada en su origen
+T35	ENFERMEDAD 5056 5088	arterial coronaria con estenosis
+T36	PROCEDIMIENTO 653 671	Ecografía hepática
+T37	PROCEDIMIENTO 730 739	ecografía
+T38	PROCEDIMIENTO 1234 1261	Auscultación cardiopulmonar
+T39	PROCEDIMIENTO 1385 1388	ECG
+T40	PROCEDIMIENTO 2048 2062	ECOCARDIOGRAMA
+T41	PROCEDIMIENTO 2247 2257	ERGOMETRÍA
+T42	PROCEDIMIENTO 2413 2416	ECG
+T43	PROCEDIMIENTO 2474 2492	ANGIO-TC CORONARIO
+T44	PROCEDIMIENTO 4068 4078	ergometría
+T45	PROCEDIMIENTO 4259 4277	angio-TC coronario
+T46	PROCEDIMIENTO 4401 4426	tratamiento antiagregante
+T47	PROCEDIMIENTO 4527 4553	tratamiento hipolipemiante
+T48	PROCEDIMIENTO 4924 4940	estudio genético
+T49	PROCEDIMIENTO 4810 4818	estatina
+T50	PROCEDIMIENTO 1070 1088	EXPLORACIÓN FÍSICA
+T51	PROCEDIMIENTO 5014 5023	estatinas
+T52	PROCEDIMIENTO 1676 1689	transaminasas
+T53	PROCEDIMIENTO 3847 3873	tratamiento hipolipemiante
+T54	PROCEDIMIENTO 4574 4638	inhibidor de la proproteína convertasa subtilisina/kexina tipo 9
+T55	PROCEDIMIENTO 3554 3563	estatinas
+T56	PROCEDIMIENTO 1506 1515	ANALÍTICA
+T57	PROCEDIMIENTO 1774 1783	ANALÍTICA
+T58	SINTOMA 535 566	alteración de pruebas hepáticas
+T59	SINTOMA 653 688	Ecografía hepática sin alteraciones
+T60	SINTOMA 811 858	dolor torácico difuso el día anterior, opresivo
+T61	SINTOMA 1090 1109	Buen estado general
+T62	SINTOMA 1234 1268	Auscultación cardiopulmonar normal
+T63	SINTOMA 1270 1301	Abdomen y extremidades normales
+T64	SINTOMA 1390 1403	ritmo sinusal
+T65	SINTOMA 1676 1710	transaminasas (GOT y GPT) normales
+T66	SINTOMA 1751 1771	troponina I negativa
+T67	SINTOMA 2109 2188	Función sistólica global y segmentaria de ventrículo izquierdo sin alteraciones
+T68	SINTOMA 2413 2426	ECG negativos
+T69	SINTOMA 2533 2546	ritmo sinusal
+T70	SINTOMA 3967 3981	dolor torácico
+T71	SINTOMA 1471 1504	alteraciones de la repolarización
+T72	SINTOMA 1200 1232	cabeza y cuello sin alteraciones
+T73	SINTOMA 711 727	elevación de GGT
+T74	SINTOMA 2064 2107	cavidades cardiacas de dimensiones normales
+T75	SINTOMA 2628 2679	Origen y trayecto de las arterias coronarias normal
+T76	SINTOMA 2681 2748	Tronco coronario izquierdo (15 mm) sin estenosis ni calcificaciones
+T77	SINTOMA 3066 3149	Arteria coronaria derecha dominante, sin estenosis significativa ni calcificaciones
+T78	FARMACO 514 527	atorvastatina
+T79	FARMACO 643 651	estatina
+T80	FARMACO 2520 2528	atenolol
+T81	FARMACO 3578 3590	simvastatina
+T82	FARMACO 3649 3662	atorvastatina
+T83	FARMACO 4428 4450	ácido acetilsalicílico
+T84	FARMACO 4460 4474	betabloqueante
+T85	FARMACO 4476 4486	bisoprolol
+T86	FARMACO 4498 4506	ramipril
+T87	FARMACO 4649 4659	evolocumab
+T88	FARMACO 4774 4787	atorvastatina
+T89	FARMACO 4640 4646	iPCSK9
+#1	AnnotatorNotes T25	 hipercolesterolemia familiar

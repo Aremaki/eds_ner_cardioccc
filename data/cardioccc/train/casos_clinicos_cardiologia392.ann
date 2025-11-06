@@ -1,0 +1,104 @@
+T1	DISEASE 185 192	Fumador
+T2	DISEASE 2773 2809	dilatación y disfunción severa de VI
+T3	DISEASE 3279 3298	congestión pulmonar
+T4	DISEASE 3252 3265	cardiomegalia
+T5	DISEASE 2449 2452	ICC
+T6	DISEASE 2597 2608	IM moderada
+T7	DISEASE 2861 2863	IM
+T8	DISEASE 3573 3586	IM e IT leves
+T9	DISEASE 2610 2619	IT severa
+T10	DISEASE 5313 5346	Insuficiencia cardiaca congestiva
+T11	DISEASE 5348 5371	Miocardiopatía dilatada
+T12	DISEASE 1662 1665	TVP
+T13	DISEASE 1218 1229	adenopatías
+T14	DISEASE 165 173	alergias
+T15	DISEASE 216 223	bebedor
+T16	DISEASE 2365 2378	cardiomegalia
+T17	DISEASE 2624 2643	derrame pericárdico
+T18	DISEASE 2569 2595	disfunción sistólica de VD
+T19	DISEASE 4362 4382	enfermedad coronaria
+T20	DISEASE 4124 4151	extrasístoles ventriculares
+T21	DISEASE 3615 3634	fibrosis miocárdica
+T22	DISEASE 4710 4729	fibrosis miocárdica
+T23	DISEASE 769 800	infección de vías respiratorias
+T24	DISEASE 3505 3571	miocardiopatía dilatada con disfunción severa de VI y ligera de VD
+T25	DISEASE 4227 4250	miocardiopatía dilatada
+T26	DISEASE 1733 1752	taquicardia sinusal
+T27	DISEASE 4451 4470	taquicardia sinusal
+T28	DISEASE 1635 1660	trombosis venosa profunda
+T29	DISEASE 4284 4297	valvulopatías
+T30	DISEASE 255 301	exconsumidor esporádico de cocaína y marihuana
+T31	DISEASE 2487 2498	VI dilatado
+T32	DISEASE 2872 2901	Dilatación y disfunción de VD
+T33	DISEASE 5384 5404	Disfunción VI severa
+T34	DISEASE 5406 5426	Disfunción VD ligera
+T35	DISEASE 4255 4278	disfunción de VI severa
+T36	DISEASE 2487 2537	VI dilatado con disfunción sistólica global severa
+T37	PROCEDURE 811 834	tratamiento antibiótico
+T38	PROCEDURE 837 847	corticoide
+T39	PROCEDURE 1279 1300	Auscultación cardiaca
+T40	PROCEDURE 1326 1347	Auscultación pulmonar
+T41	PROCEDURE 1469 1502	palpación profunda ni superficial
+T42	PROCEDURE 1728 1731	ECG
+T43	PROCEDURE 1873 1882	Hemograma
+T44	PROCEDURE 1939 1949	Hemostasia
+T45	PROCEDURE 2270 2289	Gasometría arterial
+T46	PROCEDURE 2343 2363	Radiografía de tórax
+T47	PROCEDURE 2454 2485	Ecocardiograma portátil (Vscan)
+T48	PROCEDURE 2768 2771	ECG
+T49	PROCEDURE 3056 3066	Serologías
+T50	PROCEDURE 3158 3169	Cateterismo
+T51	PROCEDURE 3220 3240	Radiografía de tórax
+T52	PROCEDURE 3300 3317	Test de la marcha
+T53	PROCEDURE 3457 3486	Resonancia magnética cardiaca
+T54	PROCEDURE 3702 3717	betabloqueantes
+T55	PROCEDURE 3890 3925	soporte inotrópico con levosimendán
+T56	PROCEDURE 3928 3976	tratamiento depletivo intravenoso con diuréticos
+T57	PROCEDURE 4173 4187	ecocardiograma
+T58	PROCEDURE 4394 4409	coronariografía
+T59	PROCEDURE 4535 4550	betabloqueantes
+T60	PROCEDURE 4742 4744	RM
+T61	PROCEDURE 4849 4873	estudio ecocardiográfico
+T62	PROCEDURE 4940 4957	test de la marcha
+T63	PROCEDURE 1984 1994	Bioquímica
+T64	PROCEDURE 2931 2941	Bioquímica
+T65	PROCEDURE 103 121	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 4054 4081	monitorizado con telemetría
+T67	PROCEDURE 3347 3368	test de los 6 minutos
+T68	PROCEDURE 5247 5250	DAI
+T69	PROCEDURE 1197 1217	Cuello: no se palpan
+T70	PROCEDURE 3719 3737	antialdosterónicos
+T71	PROCEDURE 3740 3744	IECA
+T72	SYMPTOM 60 66	disnea
+T73	SYMPTOM 505 558	disnea de moderados esfuerzos hasta hacerse de reposo
+T74	SYMPTOM 629 655	tos de predominio nocturno
+T75	SYMPTOM 657 712	leve dolor en la región anterior de tórax tipo pinchazo
+T76	SYMPTOM 890 917	disnea paroxística nocturna
+T77	SYMPTOM 919 927	ortopnea
+T78	SYMPTOM 962 1001	edemas hasta 2/3 en miembros inferiores
+T79	SYMPTOM 1004 1019	aumento de peso
+T80	SYMPTOM 1122 1141	Buen estado general
+T81	SYMPTOM 1143 1179	bien hidratado, nutrido y perfundido
+T82	SYMPTOM 1181 1195	normocoloreado
+T83	SYMPTOM 1256 1277	ingurgitación yugular
+T84	SYMPTOM 1302 1317	ritmo de galope
+T85	SYMPTOM 1349 1416	crepitantes bibasales en tercio inferior de ambos campos pulmonares
+T86	SYMPTOM 1418 1463	Abdomen: RHA +, blando depresible no doloroso
+T87	SYMPTOM 1504 1553	Miembros inferiores: edemas hasta tercio inferior
+T88	SYMPTOM 1598 1620	pulsos periféricos (+)
+T89	SYMPTOM 1764 1776	QRS estrecho
+T90	SYMPTOM 1781 1828	alteraciones inespecíficas de la repolarización
+T91	SYMPTOM 1830 1870	ondas T negativas en I, aVL y de V4 a V6
+T92	SYMPTOM 2383 2410	infiltrados parenquimatosos
+T93	SYMPTOM 2542 2566	hipocinesia generalizada
+T94	SYMPTOM 3798 3818	hipotensión arterial
+T95	SYMPTOM 5428 5475	Arterias coronarias sin lesiones significativas
+T96	SYMPTOM 3171 3218	arterias coronarias sin lesiones significativas
+T97	SYMPTOM 1591 1596	fóvea
+T98	MEDICATION 3913 3925	levosimendán
+T99	MEDICATION 4570 4580	ivabradina
+#1	AnnotatorNotes T6	IM insuficiencia mitral
+#2	AnnotatorNotes T7	IM insuficiencia mitral
+#3	AnnotatorNotes T8	IM insuficiencia mitral
+#4	AnnotatorNotes T9	IT: insuficiencia tricuspidea
+#5	AnnotatorNotes T12	TVP trombosis venosa profunda

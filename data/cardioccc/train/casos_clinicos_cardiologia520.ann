@@ -1,0 +1,116 @@
+T1	DISEASE 1471 1482	hipotensión
+T2	DISEASE 81 89	alergias
+T3	DISEASE 160 170	hipertensa
+T4	DISEASE 172 177	obesa
+T5	DISEASE 179 205	Estenosis del canal lumbar
+T6	DISEASE 249 261	hipernefroma
+T7	DISEASE 275 294	hernia discal L5-S1
+T8	DISEASE 327 359	Fibrilación auricular permanente
+T9	DISEASE 384 424	Doble lesión mitral con estenosis severa
+T10	DISEASE 426 442	IT y HTP severas
+T11	DISEASE 809 831	claudicación neurógena
+T12	DISEASE 1208 1228	hipotensión arterial
+T13	DISEASE 1288 1329	descompensación de insuficiencia cardiaca
+T14	DISEASE 1622 1625	TEP
+T15	DISEASE 1641 1681	infartos renales izquierdos y esplénicos
+T16	DISEASE 2376 2397	edema agudo de pulmón
+T17	DISEASE 2604 2607	TEP
+T18	DISEASE 2618 2640	insuficiencia cardiaca
+T19	DISEASE 2643 2672	infartos renales y esplénicos
+T20	DISEASE 2679 2681	FA
+T21	DISEASE 3271 3352	ventrículo izquierdo no dilatado, ni hipertrófico, con disfunción global moderada
+T22	DISEASE 3741 3760	derrame pericárdico
+T23	DISEASE 4068 4074	trombo
+T24	DISEASE 4223 4229	trombo
+T25	DISEASE 4528 4549	fibrilación auricular
+T26	DISEASE 4619 4644	disfunción moderada de VI
+T27	DISEASE 4650 4699	trombo obstructivo sobre prótesis metálica mitral
+T28	DISEASE 5099 5105	trombo
+T29	DISEASE 5123 5144	embolismos sistémicos
+T30	DISEASE 5163 5181	trombo en orejuela
+T31	DISEASE 5463 5498	shock séptico secundario a neumonía
+T32	DISEASE 5784 5796	hipernefroma
+T33	DISEASE 5798 5838	Trombosis sobre prótesis mitral mecánica
+T34	DISEASE 5902 5931	Shock cardiogénico secundario
+T35	DISEASE 5985 6017	Shock séptico por neumonía basal
+T36	DISEASE 360 382	Valvulopatía reumática
+T37	DISEASE 792 804	lumbociática
+T38	DISEASE 3664 3703	Aurícula izquierda severamente dilatada
+T39	DISEASE 4115 4154	Aurícula izquierda severamente dilatada
+T40	DISEASE 116 133	Tabaquismo activo
+T41	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDURE 473 522	sustitución valvular mitral por prótesis mecánica
+T43	PROCEDURE 548 572	anuloplastia tricuspídea
+T44	PROCEDURE 890 917	nefrectomía radical derecha
+T45	PROCEDURE 1341 1350	diurético
+T46	PROCEDURE 1364 1379	anticoagulación
+T47	PROCEDURE 1465 1468	IOT
+T48	PROCEDURE 1521 1539	perfusión continua
+T49	PROCEDURE 1596 1604	angio-TC
+T50	PROCEDURE 1788 1806	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 2047 2068	Auscultación cardiaca
+T52	PROCEDURE 2107 2128	Auscultación pulmonar
+T53	PROCEDURE 2286 2306	Radiografía de tórax
+T54	PROCEDURE 2585 2593	Angio-TC
+T55	PROCEDURE 2674 2677	ECG
+T56	PROCEDURE 3241 3269	Ecocardiograma transtorácico
+T57	PROCEDURE 3762 3791	Ecocardiograma transesofágico
+T58	PROCEDURE 4043 4046	ETT
+T59	PROCEDURE 4329 4335	sedada
+T60	PROCEDURE 4338 4346	intubada
+T61	PROCEDURE 4365 4375	respirador
+T62	PROCEDURE 4572 4595	ecoscopia transtorácica
+T63	PROCEDURE 4799 4847	implantar balón de contrapulsación intra-aórtico
+T64	PROCEDURE 4888 4958	se monitorizan las presiones derechas mediante un catéter de Swan-Ganz
+T65	PROCEDURE 5199 5211	fibrinolisis
+T66	PROCEDURE 5330 5380	sustitución valvular por prótesis mitral biológica
+T67	PROCEDURE 5534 5542	cultivos
+T68	PROCEDURE 5557 5575	antibioticoterapia
+T69	PROCEDURE 5721 5737	cirugía cardiaca
+T70	PROCEDURE 5752 5779	Nefrectomía radical derecha
+T71	PROCEDURE 5933 5983	Sustitución valvular mitral por prótesis biológica
+T72	PROCEDURE 2768 2777	Analítica
+T73	PROCEDURE 955 984	Anticoagulada con enoxaparina
+T74	PROCEDURE 1859 1864	BCIAo
+T75	PROCEDURE 2232 2236	EEII
+T76	PROCEDURE 271 273	IQ
+T77	PROCEDURE 1967 1973	Sedada
+T78	PROCEDURE 4440 4475	noradrenalina en perfusión continua
+T79	SYMPTOM 754 765	vida activa
+T80	SYMPTOM 1180 1185	mareo
+T81	SYMPTOM 1187 1205	disnea de esfuerzo
+T82	SYMPTOM 1208 1228	hipotensión arterial
+T83	SYMPTOM 2004 2025	Livideces periféricas
+T84	SYMPTOM 2031 2045	frialdad acral
+T85	SYMPTOM 2070 2087	corazón arrítmico
+T86	SYMPTOM 2099 2105	galope
+T87	SYMPTOM 2130 2146	roncus dispersos
+T88	SYMPTOM 2149 2172	crepitantes universales
+T89	SYMPTOM 2174 2202	Abdomen: blando y depresible
+T90	SYMPTOM 2232 2247	EEII: livideces
+T91	SYMPTOM 2252 2258	edemas
+T92	SYMPTOM 2308 2321	cardiomegalia
+T93	SYMPTOM 2323 2358	infiltrados alveolares perihiliares
+T94	SYMPTOM 2733 2766	alteraciones de la repolarización
+T95	SYMPTOM 3271 3320	ventrículo izquierdo no dilatado, ni hipertrófico
+T96	SYMPTOM 4377 4404	Hemodinámicamente inestable
+T97	SYMPTOM 4988 4994	anuria
+T98	SYMPTOM 3401 3455	Válvula aórtica trivalva, sin alteraciones funcionales
+T99	SYMPTOM 767 787	limitación funcional
+T100	SYMPTOM 5500 5542	sin aislarse germen alguno en los cultivos
+T101	MEDICATION 597 606	omeprazol
+T102	MEDICATION 614 629	espironolactona
+T103	MEDICATION 637 647	verapamilo
+T104	MEDICATION 660 672	acenocumarol
+T105	MEDICATION 674 683	oxicodona
+T106	MEDICATION 684 692	naloxona
+T107	MEDICATION 694 704	duloxetina
+T108	MEDICATION 711 722	gabapentina
+T109	MEDICATION 735 744	naproxeno
+T110	MEDICATION 973 984	enoxaparina
+T111	MEDICATION 1061 1072	enoxaparina
+T112	MEDICATION 1382 1393	enoxaparina
+T113	MEDICATION 1504 1517	noradrenalina
+T114	MEDICATION 4440 4453	noradrenalina
+T115	MEDICATION 5889 5900	enoxaparina
+T116	MEDICATION 1867 1880	noradrenalina

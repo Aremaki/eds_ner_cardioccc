@@ -1,0 +1,61 @@
+T1	DISEASE 70 81	dislipémico
+T2	DISEASE 84 93	exfumador
+T3	DISEASE 341 352	cardiopatía
+T4	DISEASE 425 448	miocardiopatía dilatada
+T5	DISEASE 601 624	miocardiopatía dilatada
+T6	DISEASE 810 833	miocardiopatía dilatada
+T7	DISEASE 849 876	comunicación interauricular
+T8	DISEASE 1124 1167	Trastorno de la conducción intraventricular
+T9	DISEASE 1641 1669	miocardiopatía no compactada
+T10	DISEASE 1960 1979	derrame pericárdico
+T11	DISEASE 1981 2063	Válvula aórtica levemente engrosada con movilidad conservada, mínima insuficiencia
+T12	DISEASE 2065 2090	Insuficiencia mitral leve
+T13	DISEASE 2095 2120	insuficiencia tricuspídea
+T14	DISEASE 2178 2197	derrame pericárdico
+T15	DISEASE 2535 2562	Extrasístoles ventriculares
+T16	DISEASE 3526 3567	descompensación de insuficiencia cardiaca
+T17	DISEASE 3931 3954	miocardiopatía dilatada
+T18	DISEASE 4055 4100	Miocardiopatía dilatada familiar no isquémica
+T19	DISEASE 2339 2367	miocardiopatía no compactada
+T20	DISEASE 1843 1870	Dilatación leve biauricular
+T21	DISEASE 3313 3360	función sistólica moderada-gravemente deprimida
+T22	DISEASE 2671 2679	bloqueos
+T23	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDURE 217 235	electrocardiograma
+T25	PROCEDURE 678 685	DAI-TRC
+T26	PROCEDURE 995 1013	exploración física
+T27	PROCEDURE 1074 1092	ELECTROCARDIOGRAMA
+T28	PROCEDURE 1094 1097	ECG
+T29	PROCEDURE 1343 1371	ECOCARDIOGRAMA TRANSTORÁCICO
+T30	PROCEDURE 2199 2211	RMN cardiaca
+T31	PROCEDURE 2466 2472	HOLTER
+T32	PROCEDURE 2681 2696	CORONARIOGRAFÍA
+T33	PROCEDURE 3689 3703	ecocardiograma
+T34	PROCEDURE 3790 3806	estudio genético
+T35	PROCEDURE 2767 2859	ESTUDIO GENÉTICO: se envía la muestra para realización de estudio de NGS (panel de 81 genes)
+T36	PROCEDURE 1258 1267	ANALÍTICA
+T37	PROCEDURE 391 412	trasplantado cardiaco
+T38	PROCEDURE 640 723	desfibrilador automático implantable (DAI-TRC) terapia de resincronización cardiaca
+T39	SYMPTOM 1100 1113	ritmo sinusal
+T40	SYMPTOM 1187 1256	Alteraciones de la repolarización consistente enT negativa de V3 a V6
+T41	SYMPTOM 1390 1439	ventrículo izquierdo no dilatado ni hipertrofiado
+T42	SYMPTOM 1581 1622	aumento de trabeculación a nivel del ápex
+T43	SYMPTOM 1701 1731	Ventrículo derecho no dilatado
+T44	SYMPTOM 1981 2041	Válvula aórtica levemente engrosada con movilidad conservada
+T45	SYMPTOM 2220 2250	VI no dilatado ni hipertrófico
+T46	SYMPTOM 2252 2294	Contractilidad global y segmentaria normal
+T47	SYMPTOM 2474 2495	ritmo sinusal estable
+T48	SYMPTOM 3495 3507	asintomático
+T49	SYMPTOM 4102 4164	Portador de mutación p.Arg5902* en heterocigosis en el gen TTN
+T50	SYMPTOM 1441 1523	Fracción de eyección del ventrículo izquierdo (FEVI) moderada-gravemente deprimida
+T51	SYMPTOM 1925 1955	Vena cava inferior no dilatada
+T52	SYMPTOM 2296 2321	Hipertrabeculación apical
+T53	SYMPTOM 2698 2745	arterias coronarias sin lesiones significativas
+T54	SYMPTOM 2747 2765	Dominancia derecha
+T55	SYMPTOM 95 146	asintomático desde el punto de vista cardiovascular
+T56	SYMPTOM 478 487	fallecido
+T57	SYMPTOM 506 523	problema cardiaco
+T58	SYMPTOM 2927 3055	mutación p.Arg5902* en heterocigosis en el gen TTN: NP_003310.4: p.Arg5902*, M_003319.4: c.17704C>T, NC_000002.11g.179487411G>A)
+T59	SYMPTOM 3835 3859	mutaciones en el gen TTN
+T60	MEDICATION 3388 3398	bisoprolol
+T61	MEDICATION 3401 3409	ramipril

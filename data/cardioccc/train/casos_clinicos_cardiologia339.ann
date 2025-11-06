@@ -1,0 +1,128 @@
+T1	DISEASE 127 161	reacciones adversas medicamentosas
+T2	DISEASE 208 215	fumador
+T3	DISEASE 280 309	cardiopatía isquémica crónica
+T4	DISEASE 317 320	SCA
+T5	DISEASE 409 414	angor
+T6	DISEASE 456 478	insuficiencia cardiaca
+T7	DISEASE 896 944	dilatación de raíz aórtica y auricular izquierda
+T8	DISEASE 1035 1062	patología valvular orgánica
+T9	DISEASE 1138 1157	derrame pericárdico
+T10	DISEASE 1188 1231	Tronco coronario con lesiones angiográficas
+T11	DISEASE 1251 1299	Arteria descendente anterior con estenosis grave
+T12	DISEASE 2718 2725	síncope
+T13	DISEASE 2893 2919	parada cardiorrespiratoria
+T14	DISEASE 3252 3275	fibrilación ventricular
+T15	DISEASE 3734 3775	disfunción grave del ventrículo izquierdo
+T16	DISEASE 4392 4432	disfunción grave de ventrículo izquierdo
+T17	DISEASE 6092 6135	trastornos de la contractilidad segmentaria
+T18	DISEASE 6428 6441	valvulopatías
+T19	DISEASE 6471 6490	derrame pericárdico
+T20	DISEASE 7542 7585	daño cerebral difuso en grado leve-moderado
+T21	DISEASE 7715 7734	neumonía aspirativa
+T22	DISEASE 7736 7761	insuficiencia renal aguda
+T23	DISEASE 7763 7802	disfagia orofaríngea neurógena moderada
+T24	DISEASE 8145 8201	Infarto agudo de miocardio con elevación del segmento ST
+T25	DISEASE 8219 8249	Enfermedad coronaria multivaso
+T26	DISEASE 8317 8358	Encefalopatía anóxico-isquémica posparada
+T27	DISEASE 8203 8210	IAMCEST
+T28	DISEASE 8057 8112	Parada cardiorrespiratoria extrahospitalaria recuperada
+T29	DISEASE 2962 2989	disociación electromecánica
+T30	DISEASE 1466 1517	Arteria circunfleja (Cx) con lesiones angiográficas
+T31	DISEASE 1537 1605	Arteria coronaria derecha dominante, difusamente enferma, con lesión
+T32	DISEASE 3380 3401	taquicardia irregular
+T33	DISEASE 4105 4126	taquicardia irregular
+T34	DISEASE 4635 4678	ADA enferma de forma difusa con placa grave
+T35	DISEASE 4734 4755	Cx con placa proximal
+T36	DISEASE 4800 4838	Arteria coronaria derecha con lesiones
+T37	DISEASE 6380 6415	Signos mitro-aórticos degenerativos
+T38	DISEASE 4563 4619	tronco principal izquierdo enfermo con afectación ostial
+T39	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDURE 487 505	electrocardiograma
+T41	PROCEDURE 507 510	ECG
+T42	PROCEDURE 609 638	Ecocardiografía transtorácica
+T43	PROCEDURE 1159 1186	Coronariografía diagnóstica
+T44	PROCEDURE 1728 1745	revascularización
+T45	PROCEDURE 1770 1795	ecocardiografía de estrés
+T46	PROCEDURE 1808 1837	test de estrés con dobutamina
+T47	PROCEDURE 2237 2265	revascularización quirúrgica
+T48	PROCEDURE 3061 3064	RCP
+T49	PROCEDURE 3146 3168	intubación orotraqueal
+T50	PROCEDURE 3363 3366	ECG
+T51	PROCEDURE 3696 3710	ecocardiograma
+T52	PROCEDURE 3995 4007	angioplastia
+T53	PROCEDURE 4050 4053	ECG
+T54	PROCEDURE 4271 4300	Ecocardiografía transtorácica
+T55	PROCEDURE 4515 4552	Intervencionismo coronario percutáneo
+T56	PROCEDURE 4866 4883	revascularización
+T57	PROCEDURE 4885 4977	Intervencionismo coronario percutáneo (ICP) sobre tronco coronario izquierdo (TCI), CX y ADA
+T58	PROCEDURE 5054 5140	implante de un stent farmacoactivo (Resolute Onyx 3,5 x 8 mm) ostial y un stent en "V"
+T59	PROCEDURE 5291 5317	ADA y se implantó un stent
+T60	PROCEDURE 5933 5962	Ecocardiografía transtorácica
+T61	PROCEDURE 6756 6778	hipotermia terapéutica
+T62	PROCEDURE 6938 6961	analgesia con fentanilo
+T63	PROCEDURE 7174 7226	retirada de medicación de sedoanalgesia y relajación
+T64	PROCEDURE 7303 7333	estudio electroencefalográfico
+T65	PROCEDURE 7506 7509	EEG
+T66	PROCEDURE 8251 8291	ICP con implante de DES en TCI, ADA y Cx
+T67	PROCEDURE 8293 8315	Hipotermia terapéutica
+T68	PROCEDURE 6888 6907	sedado con propofol
+T69	PROCEDURE 4924 4927	ICP
+T70	PROCEDURE 5247 5294	angioplastia con balón (2,25 y 2,5 mm) a la ADA
+T71	PROCEDURE 5408 5417	Analítica
+T72	PROCEDURE 3299 3338	desfibrilado con un choque a 360 Julios
+T73	PROCEDURE 3020 3074	maniobras de reanimación cardiopulmonar (RCP) avanzada
+T74	PROCEDURE 3928 3967	perfusión de noradrenalina y dobutamina
+T75	PROCEDURE 7109 7124	recalentamiento
+T76	PROCEDURE 6909 6931	relajado con rocuronio
+T77	SYMPTOM 640 672	ventrículo izquierdo no dilatado
+T78	SYMPTOM 845 891	función sistólica de VI globalmente conservada
+T79	SYMPTOM 980 1030	función sistólica de ventrículo derecho conservada
+T80	SYMPTOM 2136 2151	FEVI conservada
+T81	SYMPTOM 2672 2688	malestar general
+T82	SYMPTOM 2925 2936	bradicardia
+T83	SYMPTOM 3433 3479	descenso de ST en derivaciones inferiores y V1
+T84	SYMPTOM 3481 3501	Patrón QS en V2 y V3
+T85	SYMPTOM 3506 3544	ascenso de ST de 2-3 mm en V2-V4 y aVR
+T86	SYMPTOM 3785 3854	hipocinesia grave en el territorio de la arteria descendente anterior
+T87	SYMPTOM 3887 3914	hemodinámicamente inestable
+T88	SYMPTOM 4158 4204	descenso de ST en derivaciones inferiores y V1
+T89	SYMPTOM 4206 4226	Patrón QS en V2 y V3
+T90	SYMPTOM 4231 4269	ascenso de ST de 2-3 mm en V2-V4 y aVR
+T91	SYMPTOM 4438 4513	hipocinesia grave a nivel del territorio de la arteria descendente anterior
+T92	SYMPTOM 5972 6004	ventrículo izquierdo no dilatado
+T93	SYMPTOM 6219 6249	Aurícula Izquierda no dilatada
+T94	SYMPTOM 7353 7391	Trazado electroencefalográfico anormal
+T95	SYMPTOM 7496 7525	respuesta EEG a los estímulos
+T96	SYMPTOM 7602 7625	actividad epileptiforme
+T97	SYMPTOM 8114 8143	actividad eléctrica sin pulso
+T98	SYMPTOM 8176 8201	elevación del segmento ST
+T99	SYMPTOM 8360 8422	Función sistólica del ventrículo izquierdo levemente deprimida
+T100	SYMPTOM 2084 2096	Asintomático
+T101	SYMPTOM 721 781	Ligera hipocinesia a nivel septal en segmentos basal y medio
+T102	SYMPTOM 1078 1133	Vena cava no dilatada con colapso respiratorio adecuado
+T103	SYMPTOM 2153 2169	miocardio viable
+T104	SYMPTOM 6025 6080	hipocinesia de segmentos antero-septales medio y apical
+T105	SYMPTOM 6318 6378	fracción de eyección de ventrículo derecho (FEVD) conservada
+T106	SYMPTOM 6492 6556	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T107	SYMPTOM 5522 5534	linfocitosis
+T108	SYMPTOM 946 975	Cámaras derechas no dilatadas
+T109	SYMPTOM 1400 1464	Recanalización de ramos septales por circulación heterocoronaria
+T110	SYMPTOM 6251 6313	Cavidades derechas de tamaño y función dentro de la normalidad
+T111	SYMPTOM 7432 7484	enlentecimiento generalizado de la actividad de base
+T112	MEDICATION 2288 2296	ramipril
+T113	MEDICATION 2332 2346	nitroglicerina
+T114	MEDICATION 2383 2392	omeprazol
+T115	MEDICATION 2429 2441	fluvastatina
+T116	MEDICATION 2478 2500	ácido acetilsalicílico
+T117	MEDICATION 2502 2505	AAS
+T118	MEDICATION 2545 2555	bisoprolol
+T119	MEDICATION 3117 3127	adrenalina
+T120	MEDICATION 3941 3954	noradrenalina
+T121	MEDICATION 3957 3967	dobutamina
+T122	MEDICATION 6899 6907	propofol
+T123	MEDICATION 6922 6931	rocuronio
+T124	MEDICATION 6952 6961	fentanilo
+T125	MEDICATION 7073 7079	aminas
+T126	MEDICATION 1827 1837	dobutamina
+#1	AnnotatorNotes T4	  síndrome coronario agudo
+#2	AnnotatorNotes T69	  intervención coronaria percutánea

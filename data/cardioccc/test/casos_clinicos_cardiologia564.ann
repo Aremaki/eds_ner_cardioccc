@@ -1,0 +1,212 @@
+T1	ENFERMEDAD 160 181	cardiopatía isquémica
+T2	ENFERMEDAD 263 271	COVID-19
+T3	ENFERMEDAD 278 301	alergias medicamentosas
+T4	ENFERMEDAD 338 357	bronquitis asmática
+T5	ENFERMEDAD 359 374	talasemia menor
+T6	ENFERMEDAD 411 433	infección por COVID-19
+T7	ENFERMEDAD 435 444	Infección
+T8	ENFERMEDAD 469 484	Hábitos tóxicos
+T9	ENFERMEDAD 486 509	hábito tabáquico activo
+T10	ENFERMEDAD 529 555	consumo diario de cannabis
+T11	ENFERMEDAD 1868 1876	ansiedad
+T12	ENFERMEDAD 1905 1911	angina
+T13	ENFERMEDAD 2822 2847	trombosis venosa profunda
+T14	ENFERMEDAD 4477 4505	Trombo intracavitario apical
+T15	ENFERMEDAD 4676 4700	Insuficiencia tricúspide
+T16	ENFERMEDAD 4718 4731	valvulopatías
+T17	ENFERMEDAD 5662 5685	trombo en ápex cardiaco
+T18	ENFERMEDAD 5694 5713	derrame pericárdico
+T19	ENFERMEDAD 5806 5842	DA: normodesarrollada, con estenosis
+T20	ENFERMEDAD 5925 5940	trombo parietal
+T21	ENFERMEDAD 6039 6061	embolización de trombo
+T22	ENFERMEDAD 6176 6197	trombo intracoronario
+T23	ENFERMEDAD 6374 6440	Descendente anterior de buen calibre y desarrollo con ateromatosis
+T24	ENFERMEDAD 6888 6894	trombo
+T25	ENFERMEDAD 7210 7294	infarto apical secundario a lesión trombótica en DA media con embolización de trombo
+T26	ENFERMEDAD 7288 7309	trombo al vaso distal
+T27	ENFERMEDAD 7341 7390	embolia coronaria desde trombo en ápex de VI a CD
+T28	ENFERMEDAD 7798 7829	Insuficiencia tricúspide mínima
+T29	ENFERMEDAD 7840 7853	valvulopatías
+T30	ENFERMEDAD 7879 7900	hipertensión pulmonar
+T31	ENFERMEDAD 8163 8185	miopericarditis vírica
+T32	ENFERMEDAD 8272 8293	trombo intracavitario
+T33	ENFERMEDAD 8573 8611	lesión al menos moderada en arteria DA
+T34	ENFERMEDAD 8652 8676	trombosis intracoronaria
+T35	ENFERMEDAD 8806 8826	estado protrombótico
+T36	ENFERMEDAD 8848 8856	fumadora
+T37	ENFERMEDAD 8902 8932	infección activa por SARS-CoV2
+T38	ENFERMEDAD 9437 9456	derrame pericárdico
+T39	ENFERMEDAD 9470 9495	sobreinfección bacteriana
+T40	ENFERMEDAD 10115 10136	lesión de la DA media
+T41	ENFERMEDAD 10209 10223	trombo en ápex
+T42	ENFERMEDAD 10543 10554	trombofilia
+T43	ENFERMEDAD 10631 10647	hábito tabáquico
+T44	ENFERMEDAD 10741 10764	infección por SARS-CoV2
+T45	ENFERMEDAD 10837 10870	Pericarditis aguda por SARS-CoV-2
+T46	ENFERMEDAD 10872 10918	Síndrome coronario agudo tipo IAMCEST anterior
+T47	ENFERMEDAD 10920 10959	trombosis en descendente anterior media
+T48	ENFERMEDAD 11026 11080	Infarto embólico en arteria coronaria derecha proximal
+T49	ENFERMEDAD 11114 11136	estenosis ateromatosas
+T50	ENFERMEDAD 11192 11205	trombo apical
+T51	ENFERMEDAD 11281 11292	trombofilia
+T52	ENFERMEDAD 7071 7077	trombo
+T53	ENFERMEDAD 7619 7640	trombo intracavitario
+T54	ENFERMEDAD 9818 9844	trombos previos en DA y CD
+T55	ENFERMEDAD 9872 9946	placa lipídica en DA media, con fibroateroma de capa fina y rotura intimal
+T56	ENFERMEDAD 4752 4771	líquido pericárdico
+T57	ENFERMEDAD 7921 7940	líquido pericárdico
+T58	ENFERMEDAD 130 143	muerte súbita
+T59	ENFERMEDAD 8681 8753	lesiones ateroescleróticas subyacentes a nivel de DA media y distal y CD
+T60	ENFERMEDAD 5123 5174	lesión de unos 5 mm de longitud que estenosa la luz
+T61	ENFERMEDAD 5205 5217	placa blanda
+T62	ENFERMEDAD 6693 6770	placa lipídica en la DA media, con fibroateroma de capa fina y rotura intimal
+T63	ENFERMEDAD 7160 7196	CD por espasmo ostial con el catéter
+T64	ENFERMEDAD 10984 11017	placa de ateroma con embolización
+T65	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDIMIENTO 219 227	autopsia
+T67	PROCEDIMIENTO 459 467	vacunada
+T68	PROCEDIMIENTO 1012 1030	electrocardiograma
+T69	PROCEDIMIENTO 2063 2081	electrocardiograma
+T70	PROCEDIMIENTO 2390 2408	Exploración física
+T71	PROCEDIMIENTO 2632 2653	Auscultación cardiaca
+T72	PROCEDIMIENTO 2676 2697	Auscultación pulmonar
+T73	PROCEDIMIENTO 3432 3441	hemograma
+T74	PROCEDIMIENTO 3450 3463	función renal
+T75	PROCEDIMIENTO 3466 3471	iones
+T76	PROCEDIMIENTO 3530 3548	Electrocardiograma
+T77	PROCEDIMIENTO 3700 3718	Electrocardiograma
+T78	PROCEDIMIENTO 3907 3927	Radiografía de tórax
+T79	PROCEDIMIENTO 4100 4114	PCR SARS-CoV-2
+T80	PROCEDIMIENTO 4156 4176	Serología SARS-CoV-2
+T81	PROCEDIMIENTO 4206 4234	Ecocardiograma transtorácico
+T82	PROCEDIMIENTO 4773 4798	TC de arterias coronarias
+T83	PROCEDIMIENTO 5632 5649	Tórax visualizado
+T84	PROCEDIMIENTO 5715 5782	Cateterismo 2o día de ingreso: (vídeos 3 y 4) acceso radial derecho
+T85	PROCEDIMIENTO 6217 6228	Cateterismo
+T86	PROCEDIMIENTO 6260 6281	revisión angiográfica
+T87	PROCEDIMIENTO 6288 6319	tomografía de coherencia óptica
+T88	PROCEDIMIENTO 6321 6324	OCT
+T89	PROCEDIMIENTO 6620 6623	OCT
+T90	PROCEDIMIENTO 7153 7162	OCT en CD
+T91	PROCEDIMIENTO 7326 7329	OCT
+T92	PROCEDIMIENTO 7406 7432	tratamiento antitrombótico
+T93	PROCEDIMIENTO 7434 7462	Ecocardiograma transtorácico
+T94	PROCEDIMIENTO 7685 7699	ecocardiograma
+T95	PROCEDIMIENTO 8235 8249	ecocardiograma
+T96	PROCEDIMIENTO 8355 8381	tratamiento anticoagulante
+T97	PROCEDIMIENTO 8438 8452	ecocardiograma
+T98	PROCEDIMIENTO 8531 8556	TC de arterias coronarias
+T99	PROCEDIMIENTO 8624 8639	coronariografía
+T100	PROCEDIMIENTO 8877 8899	anticonceptivos orales
+T101	PROCEDIMIENTO 9171 9186	anticoagulación
+T102	PROCEDIMIENTO 9731 9746	coronariografía
+T103	PROCEDIMIENTO 9855 9858	OCT
+T104	PROCEDIMIENTO 9976 9988	angiográfica
+T105	PROCEDIMIENTO 10141 10155	ecocardiograma
+T106	PROCEDIMIENTO 10532 10554	estudio de trombofilia
+T107	PROCEDIMIENTO 10662 10685	anticoncepción hormonal
+T108	PROCEDIMIENTO 2166 2181	ecocardioscopia
+T109	PROCEDIMIENTO 8105 8122	PCR de Sars-Cov-2
+T110	PROCEDIMIENTO 2918 2927	Analítica
+T111	PROCEDIMIENTO 3403 3412	Analítica
+T112	PROCEDIMIENTO 8031 8069	aislamiento respiratorio y de contacto
+T113	PROCEDIMIENTO 1971 1980	analítica
+T114	PROCEDIMIENTO 9189 9209	doble antiagregación
+T115	PROCEDIMIENTO 10042 10075	técnicas de imagen intracoronaria
+T116	PROCEDIMIENTO 612 631	anticonceptivo oral
+T117	SINTOMA 116 125	fallecido
+T118	SINTOMA 743 757	dolor torácico
+T119	SINTOMA 792 821	dolor centrotorácico opresivo
+T120	SINTOMA 920 938	cortejo vegetativo
+T121	SINTOMA 1086 1093	vómitos
+T122	SINTOMA 1096 1119	deposiciones diarreicas
+T123	SINTOMA 1147 1152	dolor
+T124	SINTOMA 1294 1329	dolor de mayor intensidad, punzante
+T125	SINTOMA 1426 1444	cortejo vegetativo
+T126	SINTOMA 1450 1459	febrícula
+T127	SINTOMA 1658 1663	dolor
+T128	SINTOMA 1768 1790	molestias precordiales
+T129	SINTOMA 1868 1876	ansiedad
+T130	SINTOMA 1992 2028	elevación de troponina ultrasensible
+T131	SINTOMA 2095 2155	elevación difusa del segmento ST en cara inferior y anterior
+T132	SINTOMA 2221 2298	ventrículo izquierdo no dilatado ni hipertrófico, con aquinesia septal apical
+T133	SINTOMA 2526 2550	Aceptable estado general
+T134	SINTOMA 2552 2566	normohidratada
+T135	SINTOMA 2568 2583	normoperfundida
+T136	SINTOMA 2585 2603	eupneica en reposo
+T137	SINTOMA 2609 2630	ingurgitación yugular
+T138	SINTOMA 2632 2662	Auscultación cardiaca: rítmica
+T139	SINTOMA 2668 2674	soplos
+T140	SINTOMA 2699 2748	murmullo vesicular conservado en todos los campos
+T141	SINTOMA 2754 2774	ruidos sobreañadidos
+T142	SINTOMA 2776 2806	Miembros inferiores: sin edema
+T143	SINTOMA 2849 2871	buena perfusión distal
+T144	SINTOMA 2873 2890	pulsos simétricos
+T145	SINTOMA 3432 3448	hemograma normal
+T146	SINTOMA 3450 3480	función renal e iones normales
+T147	SINTOMA 3507 3528	Procalcitonina normal
+T148	SINTOMA 3561 3574	ritmo sinusal
+T149	SINTOMA 3598 3610	QRS estrecho
+T150	SINTOMA 3624 3648	Onda R amputada en V4-V5
+T151	SINTOMA 3650 3698	Elevación difusa del ST en V2-V5 y cara inferior
+T152	SINTOMA 3734 3747	ritmo sinusal
+T153	SINTOMA 3771 3783	QRS estrecho
+T154	SINTOMA 3785 3795	eje normal
+T155	SINTOMA 3797 3846	elevación del segmento ST en V2-5 y cara inferior
+T156	SINTOMA 4043 4066	redistribución vascular
+T157	SINTOMA 4072 4098	opacidades parenquimatosas
+T158	SINTOMA 4156 4204	Serología SARS-CoV-2: IgG negativo; IgM positivo
+T159	SINTOMA 4254 4344	ventrículo izquierdo no dilatado, no hipertrófico, con función sistólica global conservada
+T160	SINTOMA 4525 4570	Ventrículo derecho de tamaño y función normal
+T161	SINTOMA 4648 4674	Aurículas de tamaño normal
+T162	SINTOMA 7472 7562	ventrículo izquierdo no dilatado, no hipertrófico, con función sistólica global conservada
+T163	SINTOMA 7723 7768	Ventrículo derecho de tamaño y función normal
+T164	SINTOMA 7770 7796	Aurículas de tamaño normal
+T165	SINTOMA 8971 8983	asintomática
+T166	SINTOMA 9001 9026	hemodinámicamente estable
+T167	SINTOMA 9316 9358	molestias torácicas de perfil inflamatorio
+T168	SINTOMA 11207 11267	Función sistólica global del ventrículo izquierdo conservada
+T169	SINTOMA 3851 3878	negativización de la onda T
+T170	SINTOMA 4346 4475	Aquinesia del ápex y de los segmentos apicales de septo inferior y cara inferior, y del segmento apical y medio de septo anterior
+T171	SINTOMA 4572 4646	Aquinesia del segmento más apical de la pared libre del ventrículo derecho
+T172	SINTOMA 4857 4895	Coronarias con origen anatómico normal
+T173	SINTOMA 7564 7605	Acinesia de los segmentos apicales y ápex
+T174	SINTOMA 8080 8122	resultado positivo de la PCR de Sars-Cov-2
+T175	SINTOMA 11171 11187	Aquinesia apical
+T176	SINTOMA 4897 4915	Dominancia derecha
+T177	SINTOMA 9364 9399	aumento de reactantes de fase aguda
+T178	SINTOMA 3153 3174	iones en rango normal
+T179	SINTOMA 6063 6079	CX: sin lesiones
+T180	SINTOMA 6327 6372	Tronco coronario izquierdo (TCI) sin lesiones
+T181	SINTOMA 4002 4028	senos costofrénicos libres
+T182	SINTOMA 5784 5804	Tronco: sin lesiones
+T183	SINTOMA 1012 1058	electrocardiograma que no muestra alteraciones
+T184	SINTOMA 3612 3622	eje normal
+T185	SINTOMA 3940 4000	índice cardiotorácico dentro de los límites de la normalidad
+T186	SINTOMA 4100 4154	PCR SARS-CoV-2 al ingreso y a los 8 días: indetectable
+T187	SINTOMA 4917 4988	Tronco de la coronaria izquierda: vaso de buen desarrollo, sin lesiones
+T188	SINTOMA 5244 5294	Diagonales: 2 de moderado desarrollo, sin lesiones
+T189	SINTOMA 5328 5383	Circunfleja (CX): vaso de buen desarrollo, sin lesiones
+T190	SINTOMA 5494 5565	Coronaria derecha (CD): vaso dominante de buen desarrollo, sin lesiones
+T191	SINTOMA 5567 5630	Descendente posterior (IVP): de escaso desarrollo, sin lesiones
+T192	SINTOMA 6096 6109	CD: dominante
+T193	SINTOMA 6896 6964	Circunfleja de buen calibre y desarrollo sin lesiones significativas
+T194	SINTOMA 6966 7050	Coronaria derecha dominante de buen calibre y desarrollo sin lesiones significativas
+T195	FARMACO 576 606	levonorgestrel/etinilestradiol
+T196	FARMACO 633 654	formoterol/budesonida
+T197	FARMACO 675 687	ácido fólico
+T198	FARMACO 1195 1205	ibuprofeno
+T199	FARMACO 1599 1621	ácido acetilsalicílico
+T200	FARMACO 8386 8409	heparina no fraccionada
+T201	FARMACO 9214 9236	ácido acetilsalicílico
+T202	FARMACO 9239 9250	clopidogrel
+T203	FARMACO 9524 9534	colchicina
+T204	FARMACO 10329 10341	acenocumarol
+T205	FARMACO 10344 10355	clopidogrel
+T206	FARMACO 10416 10427	clopidogrel
+T207	FARMACO 10429 10441	acenocumarol
+T208	FARMACO 10443 10454	pantoprazol
+T209	FARMACO 10456 10466	bisoprolol
+T210	FARMACO 10468 10481	atorvastatina
+T211	FARMACO 10484 10494	colchicina
+T212	FARMACO 9086 9124	inhibidor de la glicoproteína IIb/IIIa

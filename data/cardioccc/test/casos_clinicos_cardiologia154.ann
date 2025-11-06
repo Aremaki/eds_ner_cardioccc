@@ -1,0 +1,78 @@
+T1	ENFERMEDAD 55 62	fumador
+T2	ENFERMEDAD 207 237	malnutrición calórico-proteica
+T3	ENFERMEDAD 702 718	mixoma auricular
+T4	ENFERMEDAD 725 811	válvula mitral de aspecto mixomatoso con prolapso del velo posterior con insuficiencia
+T5	ENFERMEDAD 849 865	mixoma auricular
+T6	ENFERMEDAD 1476 1495	taquicardia sinusal
+T7	ENFERMEDAD 1855 1871	mixoma auricular
+T8	ENFERMEDAD 1975 2002	insuficiencia mitral severa
+T9	ENFERMEDAD 2079 2085	mixoma
+T10	ENFERMEDAD 2252 2299	ictus lacunar frontal derecho (centro semioval)
+T11	ENFERMEDAD 2449 2499	ictus lacunar frontal derecho (en centro semioval)
+T12	ENFERMEDAD 2527 2586	lesiones corticales isquémicas agudas hemisféricas derechas
+T13	ENFERMEDAD 2614 2635	embolismos sistémicos
+T14	ENFERMEDAD 2883 2911	infartos renales bilaterales
+T15	ENFERMEDAD 3587 3620	insuficiencia cardiaca congestiva
+T16	ENFERMEDAD 4247 4263	mixoma auricular
+T17	ENFERMEDAD 4269 4340	afectación infecciosa de la válvula mitral por Streptococcus agalactiae
+T18	ENFERMEDAD 4366 4398	infección sobre dicha tumoración
+T19	ENFERMEDAD 4456 4476	hemorragia digestiva
+T20	ENFERMEDAD 4508 4524	Mixoma auricular
+T21	ENFERMEDAD 4527 4560	endocarditis sobre válvula mitral
+T22	ENFERMEDAD 4565 4588	síndrome constitucional
+T23	ENFERMEDAD 4591 4612	embolismos sistémicos
+T24	ENFERMEDAD 1323 1345	hematuria microscópica
+T25	ENFERMEDAD 1894 1950	válvula mitral con prolapso del segmento P3 y vegetación
+T26	ENFERMEDAD 3079 3109	malnutrición calórico-proteica
+T27	PROCEDIMIENTO 178 196	exploración física
+T28	PROCEDIMIENTO 295 322	auscultación cardiopulmonar
+T29	PROCEDIMIENTO 486 514	ecocardiograma transtorácico
+T30	PROCEDIMIENTO 1382 1394	hemocultivos
+T31	PROCEDIMIENTO 1450 1468	electrocardiograma
+T32	PROCEDIMIENTO 1601 1631	ecocardiografía transesofágica
+T33	PROCEDIMIENTO 2192 2229	tomografía computarizada (TC) craneal
+T34	PROCEDIMIENTO 2390 2424	resonancia magnética (RM) cerebral
+T35	PROCEDIMIENTO 2640 2658	TC toracoabdominal
+T36	PROCEDIMIENTO 2916 2927	cateterismo
+T37	PROCEDIMIENTO 3016 3039	tratamiento antibiótico
+T38	PROCEDIMIENTO 3257 3285	ecocardiograma transtorácico
+T39	PROCEDIMIENTO 3633 3655	tratamiento deplectivo
+T40	PROCEDIMIENTO 3658 3690	ventilación mecánica no invasiva
+T41	PROCEDIMIENTO 3797 3894	resección de la masa auricular mediante resección de la fosa oval a través de la aurícula derecha
+T42	PROCEDIMIENTO 3897 3981	extirpación del tumor y de su base de implantación a través de la aurícula izquierda
+T43	PROCEDIMIENTO 3983 4032	Se resecó por completo el aparato valvular mitral
+T44	PROCEDIMIENTO 4035 4085	se implantó una prótesis biológica porcina St Jude
+T45	PROCEDIMIENTO 1109 1119	bioquímica
+T46	PROCEDIMIENTO 1057 1068	coagulación
+T47	PROCEDIMIENTO 1297 1315	sedimento de orina
+T48	PROCEDIMIENTO 1368 1394	Se extrajeron hemocultivos
+T49	PROCEDIMIENTO 4166 4201	Reacción en Cadena de la Polimerasa
+T50	PROCEDIMIENTO 4203 4233	PCR universal del gen 16S rARN
+T51	PROCEDIMIENTO 934 943	analítica
+T52	PROCEDIMIENTO 4114 4156	diagnóstico anatomopatológico e infeccioso
+T53	PROCEDIMIENTO 3757 3779	tratamiento quirúrgico
+T54	SINTOMA 126 141	dolor abdominal
+T55	SINTOMA 143 149	fiebre
+T56	SINTOMA 152 170	mal estado general
+T57	SINTOMA 271 277	fiebre
+T58	SINTOMA 323 364	murmullo vesicular globalmente disminuido
+T59	SINTOMA 367 392	ruidos cardiacos rítmicos
+T60	SINTOMA 397 445	soplo sistólico IV/VI en punta irradiado a axila
+T61	SINTOMA 601 659	masa móvil de 2,5x1 cm localizada en la aurícula izquierda
+T62	SINTOMA 1382 1445	hemocultivos que fueron positivos para Streptococcus agalactiae
+T63	SINTOMA 1647 1707	masa móvil y pedunculada localizada en la aurícula izquierda
+T64	SINTOMA 2123 2163	paresia transitoria del miembro superior
+T65	SINTOMA 2938 2960	árbol coronario normal
+T66	SINTOMA 3349 3366	masa en fosa oval
+T67	SINTOMA 3544 3558	picos febriles
+T68	SINTOMA 3560 3575	dolor abdominal
+T69	SINTOMA 3813 3827	masa auricular
+T70	SINTOMA 4485 4491	éxitus
+T71	SINTOMA 3700 3707	estable
+T72	SINTOMA 526 581	cavidades cardiacas de tamaño y contractilidad normales
+T73	SINTOMA 1057 1104	coagulación con valores dentro de la normalidad
+T74	SINTOMA 1525 1563	repolarización dentro de la normalidad
+T75	SINTOMA 2005 2067	chorro excéntrico que se dirigía hacia el septo interauricular
+T76	SINTOMA 2691 2752	área extensa hipodensa cortical en el polo superior del riñón
+T77	FARMACO 3044 3054	ampicilina
+T78	FARMACO 3057 3068	gentamicina

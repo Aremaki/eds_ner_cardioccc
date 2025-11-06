@@ -1,0 +1,103 @@
+T1	ENFERMEDAD 70 93	alergias medicamentosas
+T2	ENFERMEDAD 105 114	Exfumador
+T3	ENFERMEDAD 170 191	hipertensión arterial
+T4	ENFERMEDAD 193 196	HTA
+T5	ENFERMEDAD 199 209	dislipemia
+T6	ENFERMEDAD 212 215	DM2
+T7	ENFERMEDAD 217 230	Hiperuricemia
+T8	ENFERMEDAD 232 291	Estenosis significativa de arteria carótida interna derecha
+T9	ENFERMEDAD 1116 1132	Obesidad central
+T10	ENFERMEDAD 2304 2329	insuficiencia tricuspídea
+T11	ENFERMEDAD 2331 2333	IT
+T12	ENFERMEDAD 2390 2409	derrame pericárdico
+T13	ENFERMEDAD 2433 2498	estenosis grave de 65% de tronco coronario izquierdo (TCI) distal
+T14	ENFERMEDAD 2500 2551	estenosis 70% de descendente anterior (DA) proximal
+T15	ENFERMEDAD 2553 2599	estenosis 90% en segmento medio de circunfleja
+T16	ENFERMEDAD 3054 3085	enfermedad significativa de TCI
+T17	ENFERMEDAD 3088 3112	enfermedad de tres vasos
+T18	ENFERMEDAD 3205 3208	DM2
+T19	ENFERMEDAD 5632 5661	Cardiopatía isquémica crónica
+T20	ENFERMEDAD 5693 5723	enfermedad coronaria multivaso
+T21	ENFERMEDAD 5796 5825	Dislipemia familiar combinada
+T22	ENFERMEDAD 5842 5866	Diabetes mellitus tipo 2
+T23	ENFERMEDAD 774 790	ángor progresivo
+T24	ENFERMEDAD 1815 1872	Ventrículo izquierdo no dilatado con hipertrofia moderada
+T25	ENFERMEDAD 2069 2082	valvulopatías
+T26	ENFERMEDAD 5663 5679	Ángor progresivo
+T27	ENFERMEDAD 5449 5454	fumar
+T28	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDIMIENTO 259 334	arteria carótida interna derecha con revascularización percutánea con stent
+T30	PROCEDIMIENTO 846 874	ecocardiograma transtorácico
+T31	PROCEDIMIENTO 921 936	coronariografía
+T32	PROCEDIMIENTO 950 968	Exploración física
+T33	PROCEDIMIENTO 1198 1230	Auscultación cardiorrespiratoria
+T34	PROCEDIMIENTO 1408 1426	Electrocardiograma
+T35	PROCEDIMIENTO 1628 1643	Perfil lipídico
+T36	PROCEDIMIENTO 1753 1781	Ecocardiograma transtorácico
+T37	PROCEDIMIENTO 2411 2431	Cateterismo cardiaco
+T38	PROCEDIMIENTO 2665 2674	hemograma
+T39	PROCEDIMIENTO 2763 2778	Perfil lipídico
+T40	PROCEDIMIENTO 3008 3023	coronariografía
+T41	PROCEDIMIENTO 3271 3287	cirugía cardiaca
+T42	PROCEDIMIENTO 3335 3352	revascularización
+T43	PROCEDIMIENTO 3395 3571	revascularización miocárdica con cuádruple bypass aortocoronario (arteria mamaria interna-DA proximal, safena- descendente posterior, safena-obtusa marginal, safena-1odiagonal)
+T44	PROCEDIMIENTO 3803 3818	perfil lipídico
+T45	PROCEDIMIENTO 4115 4145	tratamiento antidiabético oral
+T46	PROCEDIMIENTO 4929 4944	perfil hepático
+T47	PROCEDIMIENTO 5725 5794	Revascularización quirúrgica mediante cuádruple bypass aortocoronario
+T48	PROCEDIMIENTO 2732 2737	iones
+T49	PROCEDIMIENTO 2683 2696	Función renal
+T50	PROCEDIMIENTO 5326 5350	deshabituación tabáquica
+T51	PROCEDIMIENTO 1544 1553	Analítica
+T52	PROCEDIMIENTO 2643 2652	Analítica
+T53	PROCEDIMIENTO 4805 4814	analítica
+T54	PROCEDIMIENTO 4149 4155	arGLP1
+T55	PROCEDIMIENTO 5518 5535	control analítico
+T56	PROCEDIMIENTO 4032 4058	estatinas de alta potencia
+T57	PROCEDIMIENTO 3681 3693	intervención
+T58	PROCEDIMIENTO 4711 4723	intervención
+T59	PROCEDIMIENTO 3223 3245	tratamiento quirúrgico
+T60	SINTOMA 969 988	Buen estado general
+T61	SINTOMA 990 1017	bien hidratado y perfundido
+T62	SINTOMA 1019 1037	Eupneico en reposo
+T63	SINTOMA 1235 1249	tonos rítmicos
+T64	SINTOMA 1255 1261	soplos
+T65	SINTOMA 1263 1292	Murmullo vesicular conservado
+T66	SINTOMA 1297 1317	ruidos sobreañadidos
+T67	SINTOMA 1331 1360	edemas en miembros inferiores
+T68	SINTOMA 1341 1381	miembros inferiores con pulsos presentes
+T69	SINTOMA 1428 1441	ritmo sinusal
+T70	SINTOMA 1464 1473	PR normal
+T71	SINTOMA 1886 1910	Hipoquinesia inferobasal
+T72	SINTOMA 1924 1961	contractilidad segmentaria conservada
+T73	SINTOMA 2145 2177	Válvula mitral de aspecto normal
+T74	SINTOMA 2214 2245	Cavidades derechas no dilatadas
+T75	SINTOMA 2247 2287	función de ventrículo derecho conservada
+T76	SINTOMA 2665 2681	hemograma normal
+T77	SINTOMA 2732 2746	iones normales
+T78	SINTOMA 4638 4652	dolor torácico
+T79	SINTOMA 5232 5253	sensación de saciedad
+T80	SINTOMA 5278 5293	pérdida de peso
+T81	SINTOMA 5422 5434	asintomático
+T82	SINTOMA 1039 1054	tolera decúbito
+T83	SINTOMA 1517 1542	onda Q en DII, DIII y avF
+T84	SINTOMA 1783 1813	aurícula izquierda no dilatada
+T85	SINTOMA 1815 1847	Ventrículo izquierdo no dilatado
+T86	SINTOMA 2099 2143	Raíz aórtica y aorta ascendente no dilatadas
+T87	SINTOMA 1973 2038	Flujo de llenado mitral con patrón de alteración de la relajación
+T88	SINTOMA 1452 1462	eje normal
+T89	FARMACO 366 388	ácido acetilsalicílico
+T90	FARMACO 390 393	AAS
+T91	FARMACO 413 423	bisoprolol
+T92	FARMACO 442 455	atorvastatina
+T93	FARMACO 473 481	ramipril
+T94	FARMACO 498 507	omeprazol
+T95	FARMACO 525 549	metformina+empaglifozina
+T96	FARMACO 575 587	lormetazepam
+T97	FARMACO 4060 4073	rosuvastatina
+T98	FARMACO 4161 4172	semaglutida
+T99	FARMACO 4298 4309	semaglutida
+T100	FARMACO 5047 5058	semaglutida
+T101	FARMACO 5498 5505	Champix
+T102	FARMACO 4085 4094	ezetimiba
+T103	FARMACO 5485 5496	vareniclina

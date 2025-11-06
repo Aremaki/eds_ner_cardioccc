@@ -1,0 +1,87 @@
+T1	ENFERMEDAD 118 139	hipertensión arterial
+T2	ENFERMEDAD 152 176	diabetes mellitus tipo 2
+T3	ENFERMEDAD 219 250	Linfoma anaplásico de células T
+T4	ENFERMEDAD 375 473	Síndrome mielodisplásico tipo citopenia refractaria con displasia multilineal y cariotipo complejo
+T5	ENFERMEDAD 539 570	Púrpura trombopénica idiopática
+T6	ENFERMEDAD 1588 1606	anemia macrocítica
+T7	ENFERMEDAD 1728 1753	Insuficiencia renal aguda
+T8	ENFERMEDAD 1981 2000	derrame pericárdico
+T9	ENFERMEDAD 2066 2089	patología aórtica aguda
+T10	ENFERMEDAD 2091 2115	tromboembolismo pulmonar
+T11	ENFERMEDAD 2116 2136	o proceso infeccioso
+T12	ENFERMEDAD 2889 2901	endocarditis
+T13	ENFERMEDAD 3422 3441	derrame pericárdico
+T14	ENFERMEDAD 3706 3727	miopericarditis aguda
+T15	ENFERMEDAD 3775 3794	isquemia miocárdica
+T16	ENFERMEDAD 3888 3901	Shock séptico
+T17	ENFERMEDAD 3924 3945	Miopericarditis aguda
+T18	ENFERMEDAD 3948 3999	Síndrome mielodisplásico tipo citopenia refractaria
+T19	ENFERMEDAD 576 584	alergias
+T20	ENFERMEDAD 1672 1687	daño miocárdico
+T21	ENFERMEDAD 2453 2468	daño miocárdico
+T22	ENFERMEDAD 98 116	tabaquismo antiguo
+T23	ENFERMEDAD 3355 3384	ventrículo izquierdo dilatado
+T24	ENFERMEDAD 3518 3529	trombopenia
+T25	ENFERMEDAD 3532 3542	leucopenia
+T26	ENFERMEDAD 2716 2731	foco infeccioso
+T27	PROCEDIMIENTO 196 217	antidiabéticos orales
+T28	PROCEDIMIENTO 271 284	quimioterapia
+T29	PROCEDIMIENTO 286 298	radioterapia
+T30	PROCEDIMIENTO 301 339	autotransplante acondicionado con BEAM
+T31	PROCEDIMIENTO 512 537	trasplante de médula ósea
+T32	PROCEDIMIENTO 629 632	ECG
+T33	PROCEDIMIENTO 634 648	ecocardiograma
+T34	PROCEDIMIENTO 651 669	prueba de esfuerzo
+T35	PROCEDIMIENTO 1191 1209	exploración física
+T36	PROCEDIMIENTO 1298 1301	ECG
+T37	PROCEDIMIENTO 1879 1901	Ecocardiograma-Doppler
+T38	PROCEDIMIENTO 2022 2033	TC de tórax
+T39	PROCEDIMIENTO 2313 2325	hemocultivos
+T40	PROCEDIMIENTO 2327 2338	urocultivos
+T41	PROCEDIMIENTO 2341 2359	cultivos de esputo
+T42	PROCEDIMIENTO 2746 2775	ecocardiograma transesofágico
+T43	PROCEDIMIENTO 2947 2974	tratamiento con corticoides
+T44	PROCEDIMIENTO 2976 2991	betabloqueantes
+T45	PROCEDIMIENTO 3000 3010	diuréticos
+T46	PROCEDIMIENTO 3094 3108	ecocardiograma
+T47	PROCEDIMIENTO 3234 3252	electrocardiograma
+T48	PROCEDIMIENTO 3318 3332	ecocardiograma
+T49	PROCEDIMIENTO 3630 3668	RM de corazón con estrés con adenosina
+T50	PROCEDIMIENTO 2993 2997	IECA
+T51	PROCEDIMIENTO 2191 2239	se administraron antibióticos de amplio espectro
+T52	PROCEDIMIENTO 1658 1687	marcadores de daño miocárdico
+T53	PROCEDIMIENTO 2439 2468	marcadores de daño miocárdico
+T54	PROCEDIMIENTO 2365 2383	serologías víricas
+T55	PROCEDIMIENTO 2242 2273	antifúngicos de manera empírica
+T56	PROCEDIMIENTO 1494 1503	Analítica
+T57	SINTOMA 634 678	ecocardiograma y prueba de esfuerzo normales
+T58	SINTOMA 820 826	fiebre
+T59	SINTOMA 845 852	astenia
+T60	SINTOMA 854 870	malestar general
+T61	SINTOMA 873 894	dolores generalizados
+T62	SINTOMA 948 1043	dolor retroesternal opresivo, de intensidad creciente, irradiado a espalda, hombros y mandíbula
+T63	SINTOMA 1127 1135	malestar
+T64	SINTOMA 1138 1144	disnea
+T65	SINTOMA 1191 1220	exploración física era normal
+T66	SINTOMA 1228 1269	hipoventilación en ambas bases pulmonares
+T67	SINTOMA 1443 1490	alteraciones inespecíficas de la repolarización
+T68	SINTOMA 1512 1558	aumento de parámetros infeccioso-inflamatorios
+T69	SINTOMA 1608 1621	plaquetopenia
+T70	SINTOMA 1624 1634	leucopenia
+T71	SINTOMA 1767 1786	diuresis conservada
+T72	SINTOMA 1925 1958	alteraciones de la contractilidad
+T73	SINTOMA 2365 2408	serologías víricas también fueron negativas
+T74	SINTOMA 714 741	asintomático cardiovascular
+T75	SINTOMA 3188 3215	asintomático cardiovascular
+T76	SINTOMA 1321 1340	taquicardia sinusal
+T77	SINTOMA 1354 1374	supradesnivel del ST
+T78	SINTOMA 1811 1875	equilibrio ácido base y el resto de la analítica fueron normales
+T79	SINTOMA 1643 1687	aumento de los marcadores de daño miocárdico
+T80	SINTOMA 2275 2359	sin aislamiento microbiológico en los hemocultivos, urocultivos y cultivos de esputo
+T81	SINTOMA 2803 2842	función ventricular izquierda limítrofe
+T82	SINTOMA 3060 3087	función sistólica limítrofe
+T83	SINTOMA 3389 3416	función sistólica limítrofe
+T84	SINTOMA 3445 3478	alteraciones de la contractilidad
+T85	SINTOMA 3548 3592	parámetros infeccioso-inflamatorios normales
+T86	SINTOMA 3730 3757	función sistólica limítrofe
+T87	FARMACO 486 497	azacitidina

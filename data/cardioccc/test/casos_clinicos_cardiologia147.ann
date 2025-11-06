@@ -1,0 +1,54 @@
+T1	ENFERMEDAD 1627 1646	bradicardia sinusal
+T2	ENFERMEDAD 1932 1945	valvulopatías
+T3	ENFERMEDAD 1950 1969	derrame pericárdico
+T4	ENFERMEDAD 2402 2478	Saculaciones aneurismáticas acinéticas en pared libre del ventrículo derecho
+T5	ENFERMEDAD 2791 2800	arritmias
+T6	ENFERMEDAD 2935 2986	Miocardiopatía arritmogénica del ventrículo derecho
+T7	ENFERMEDAD 1514 1539	Extrasistolia ventricular
+T8	ENFERMEDAD 1686 1713	Extrasístoles ventriculares
+T9	ENFERMEDAD 414 421	Fumador
+T10	ENFERMEDAD 1606 1610	TVNS
+T11	ENFERMEDAD 2278 2305	Ventrículo derecho dilatado
+T12	ENFERMEDAD 1257 1303	extrasistolia ventricular con morfología BRIHH
+T13	ENFERMEDAD 2702 2727	extrasistolia ventricular
+T14	ENFERMEDAD 1138 1158	episodios sincopales
+T15	ENFERMEDAD 1443 1473	Extrasistolia supraventricular
+T16	ENFERMEDAD 2169 2201	dilatación de aurícula izquierda
+T17	ENFERMEDAD 2340 2393	moderada-severa depresión de función sistólica del VD
+T18	ENFERMEDAD 506 519	muerte súbita
+T19	ENFERMEDAD 1528 1591	ventricular frecuente con varios dobletes, fases de bigeminismo
+T20	PROCEDIMIENTO 1210 1219	hemograma
+T21	PROCEDIMIENTO 1243 1246	ECG
+T22	PROCEDIMIENTO 1973 2021	Resonancia cardiaca: se realiza examen funcional
+T23	PROCEDIMIENTO 2115 2142	administración de contraste
+T24	PROCEDIMIENTO 2599 2609	ergometría
+T25	PROCEDIMIENTO 1189 1208	Analítica de sangre
+T26	PROCEDIMIENTO 1407 1426	Holter ECG/24 horas
+T27	PROCEDIMIENTO 1222 1232	bioquímica
+T28	PROCEDIMIENTO 1731 1748	Ecocardiograma TT
+T29	PROCEDIMIENTO 2031 2094	secuencias CINE de gradiente ECO T2 con sincronización cardiaca
+T30	PROCEDIMIENTO 618 637	cirugía de garganta
+T31	PROCEDIMIENTO 2144 2167	Examen de realce tardío
+T32	SINTOMA 126 153	palpitaciones autolimitadas
+T33	SINTOMA 325 334	cansancio
+T34	SINTOMA 337 350	palpitaciones
+T35	SINTOMA 569 576	fallece
+T36	SINTOMA 830 857	palpitaciones autolimitadas
+T37	SINTOMA 1084 1113	disnea de moderados esfuerzos
+T38	SINTOMA 1121 1135	dolor torácico
+T39	SINTOMA 1210 1239	hemograma y bioquímica Normal
+T40	SINTOMA 1348 1364	QRS negativo aVL
+T41	SINTOMA 1367 1403	Onda de despolarización tardía en V1
+T42	SINTOMA 1428 1441	ritmo sinusal
+T43	SINTOMA 1887 1927	función sistólica ligeramente disminuida
+T44	SINTOMA 2662 2674	asintomático
+T45	SINTOMA 2872 2884	asintomático
+T46	SINTOMA 1320 1345	QRS positivo DII, III aVF
+T47	SINTOMA 2257 2272	FEVI conservada
+T48	SINTOMA 2203 2252	Ventrículo izquierdo no dilatado ni hipertrofiado
+T49	SINTOMA 1660 1681	pausas significativas
+T50	SINTOMA 1306 1318	eje inferior
+T51	SINTOMA 1514 1569	Extrasistolia ventricular frecuente con varios dobletes
+T52	SINTOMA 1796 1837	ventrículo derecho en modo M en eje largo
+T53	SINTOMA 1846 1882	Imágenes saculares sobre pared libre
+T54	FARMACO 2525 2532	sotalol

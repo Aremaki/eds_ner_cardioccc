@@ -1,0 +1,98 @@
+T1	DISEASE 3399 3437	VD no dilatado con disfunción moderada
+T2	DISEASE 168 182	Alérgico a AAS
+T3	DISEASE 210 220	angioedema
+T4	DISEASE 297 315	Miocarditis vírica
+T5	DISEASE 1269 1293	hepato ni esplenomegalia
+T6	DISEASE 1340 1343	TVP
+T7	DISEASE 1524 1540	AI aneurismática
+T8	DISEASE 2070 2097	Disfunción sistólica severa
+T9	DISEASE 2427 2460	VD con disfunción moderada-severa
+T10	DISEASE 2650 2669	derrame pericárdico
+T11	DISEASE 3323 3343	Insuficiencia mitral
+T12	DISEASE 3378 3397	derrame pericárdico
+T13	DISEASE 3572 3600	miocardiopatía no compactada
+T14	DISEASE 4174 4201	Insuficiencia mitral severa
+T15	DISEASE 4204 4258	Fibrilación auricular con respuesta ventricular rápida
+T16	DISEASE 1103 1112	Arrítmica
+T17	DISEASE 1502 1515	Cardiomegalia
+T18	DISEASE 223 230	Fumador
+T19	DISEASE 2519 2526	IT leve
+T20	DISEASE 4087 4171	Miocardiopatía no compactada con disfunción sistólica severa de ventrículo izquierdo
+T21	DISEASE 280 295	hábitos tóxicos
+T22	DISEASE 3041 3069	miocardiopatía no compactada
+T23	DISEASE 198 207	urticaria
+T24	DISEASE 437 448	ACFA rápida
+T25	DISEASE 451 453	IC
+T26	DISEASE 1740 1804	VI severamente dilatado, con aumento de los espesores parietales
+T27	DISEASE 2146 2162	AI aneurismática
+T28	DISEASE 2695 2718	VI severamente dilatado
+T29	DISEASE 3282 3321	Severa dilatación de aurícula izquierda
+T30	DISEASE 3122 3129	trombos
+T31	DISEASE 260 269	marihuana
+T32	DISEASE 1415 1434	ACFA de onda gruesa
+T33	DISEASE 2211 2220	IM severa
+T34	DISEASE 2385 2425	Cavidades derechas ligeramente dilatadas
+T35	DISEASE 2309 2340	pseudoprolapso de velo anterior
+T36	DISEASE 2723 2750	disfunción sistólica global
+T37	DISEASE 3605 3628	disfunción severa de VI
+T38	PROCEDURE 124 142	exploración física
+T39	PROCEDURE 901 920	Exploración general
+T40	PROCEDURE 1410 1413	ECG
+T41	PROCEDURE 1489 1500	Rx de tórax
+T42	PROCEDURE 1618 1630	hematimetría
+T43	PROCEDURE 1723 1738	Ecocardiografía
+T44	PROCEDURE 2023 2067	administración de contraste ecocardiográfico
+T45	PROCEDURE 2673 2693	Resonancia magnética
+T46	PROCEDURE 3663 3673	diuréticos
+T47	PROCEDURE 3699 3728	inhibidores de la aldosterona
+T48	PROCEDURE 3731 3753	anticoagulantes orales
+T49	PROCEDURE 4014 4070	estudio estructural, mediante ecocardiografía y genético
+T50	PROCEDURE 1099 1101	AC
+T51	PROCEDURE 1164 1166	AP
+T52	PROCEDURE 1605 1615	Bioquímica
+T53	PROCEDURE 3675 3680	IECAs
+T54	PROCEDURE 1651 1670	Serología de Chagas
+T55	PROCEDURE 1682 1698	Tóxicos en orina
+T56	PROCEDURE 3682 3697	betabloqueantes
+T57	PROCEDURE 1085 1091	C y C:
+T58	SYMPTOM 80 86	disnea
+T59	SYMPTOM 405 411	disnea
+T60	SYMPTOM 647 653	disnea
+T61	SYMPTOM 761 769	ortopnea
+T62	SYMPTOM 771 774	tos
+T63	SYMPTOM 777 797	sensación distérmica
+T64	SYMPTOM 821 835	dolor torácico
+T65	SYMPTOM 837 850	palpitaciones
+T66	SYMPTOM 997 1007	consciente
+T67	SYMPTOM 1009 1018	orientado
+T68	SYMPTOM 1020 1047	bien hidratado y perfundido
+T69	SYMPTOM 1049 1062	normocloreado
+T70	SYMPTOM 1065 1083	eupneico en reposo
+T71	SYMPTOM 1095 1097	IY
+T72	SYMPTOM 1114 1147	soplo pansistólico en foco mitral
+T73	SYMPTOM 1168 1189	Crepitantes bibasales
+T74	SYMPTOM 1191 1264	Abdomen: Blando, depresible, no doloroso a la palpación, ruidos presentes
+T75	SYMPTOM 1298 1309	peritonismo
+T76	SYMPTOM 1320 1326	edemas
+T77	SYMPTOM 1345 1381	Pulsos pedios presentes y simétricos
+T78	SYMPTOM 1651 1680	Serología de Chagas: Negativa
+T79	SYMPTOM 2479 2506	onda S de anillo tricuspide
+T80	SYMPTOM 2172 2206	Válvula mitral fibrosa y engrosada
+T81	SYMPTOM 1153 1162	3er ruido
+T82	SYMPTOM 1605 1639	Bioquímica y hematimetría normales
+T83	SYMPTOM 1693 1719	orina: Positivo a Cannabis
+T84	SYMPTOM 2342 2383	Válvula aórtica trivalva normofuncionante
+T85	SYMPTOM 3131 3159	Adelgazamiento del miocardio
+T86	SYMPTOM 1594 1603	Analítica
+T87	SYMPTOM 1571 1590	Patrón intersticial
+T88	SYMPTOM 1808 1835	aumento de la trabeculación
+T89	SYMPTOM 1545 1559	condensaciones
+T90	SYMPTOM 2791 2809	hipocinesia difusa
+T91	SYMPTOM 1957 1986	trabeculación en todo el ápex
+T92	SYMPTOM 2277 2294	dilatación anular
+T93	SYMPTOM 3087 3103	afectación de VD
+T94	MEDICATION 179 182	AAS
+T95	MEDICATION 532 540	Digoxina
+T96	MEDICATION 550 556	Acovil
+T97	MEDICATION 568 575	Seguril
+#1	AnnotatorNotes T25	 insuficiencia cardiaca

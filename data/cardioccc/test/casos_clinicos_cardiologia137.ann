@@ -1,0 +1,58 @@
+T1	ENFERMEDAD 263 266	HTA
+T2	ENFERMEDAD 373 386	anemia severa
+T3	ENFERMEDAD 481 501	hemorroides internas
+T4	ENFERMEDAD 582 599	proceso neumónico
+T5	ENFERMEDAD 1180 1188	isquemia
+T6	ENFERMEDAD 1244 1268	trastornos de conducción
+T7	ENFERMEDAD 1344 1366	insuficiencia cardiaca
+T8	ENFERMEDAD 1450 1478	Insuficiencia aórtica ligera
+T9	ENFERMEDAD 1676 1703	insuficiencia mitral ligera
+T10	ENFERMEDAD 1715 1742	obstrucción mitral moderada
+T11	ENFERMEDAD 2369 2375	mixoma
+T12	ENFERMEDAD 2544 2587	mixoma en septo-techo de aurícula izquierda
+T13	ENFERMEDAD 2721 2762	flutter auricular con conducción variable
+T14	ENFERMEDAD 2888 2905	flutter auricular
+T15	ENFERMEDAD 3000 3021	Hipertensión arterial
+T16	ENFERMEDAD 3024 3032	Obesidad
+T17	ENFERMEDAD 3071 3077	mixoma
+T18	ENFERMEDAD 1744 1753	IT ligera
+T19	ENFERMEDAD 1303 1316	cardiomegalia
+T20	ENFERMEDAD 254 261	síncope
+T21	ENFERMEDAD 2623 2629	mixoma
+T22	ENFERMEDAD 1223 1240	crecimiento de AI
+T23	PROCEDIMIENTO 141 155	ecocardiograma
+T24	PROCEDIMIENTO 190 204	ecocardiograma
+T25	PROCEDIMIENTO 285 300	legrado uterino
+T26	PROCEDIMIENTO 436 448	colonoscopia
+T27	PROCEDIMIENTO 1068 1086	Electrocardiograma
+T28	PROCEDIMIENTO 1272 1292	Radiografía de tórax
+T29	PROCEDIMIENTO 1371 1385	Ecocardiograma
+T30	PROCEDIMIENTO 1590 1597	Doppler
+T31	PROCEDIMIENTO 1823 1837	ecocardiograma
+T32	PROCEDIMIENTO 1916 1931	coronariografía
+T33	PROCEDIMIENTO 2033 2070	resonancia nuclear magnética cardiaca
+T34	PROCEDIMIENTO 2601 2629	resección completa de mixoma
+T35	PROCEDIMIENTO 2631 2684	cerrándose el septo con parche de pericardio autólogo
+T36	PROCEDIMIENTO 2323 2353	estudio dinámico con gadolinio
+T37	PROCEDIMIENTO 2459 2518	intervención quirúrgica electiva mediante acceso transeptal
+T38	PROCEDIMIENTO 743 752	Analítica
+T39	PROCEDIMIENTO 226 231	dieta
+T40	SINTOMA 73 91	disnea de esfuerzo
+T41	SINTOMA 236 250	dolor torácico
+T42	SINTOMA 268 280	Metrorragias
+T43	SINTOMA 453 464	rectorragia
+T44	SINTOMA 1088 1101	ritmo sinusal
+T45	SINTOMA 1420 1448	Función sistólica conservada
+T46	SINTOMA 2083 2112	masa en la aurícula izquierda
+T47	SINTOMA 3035 3061	Masa en aurícula izquierda
+T48	SINTOMA 503 529	Portadora crónica de HBsAg
+T49	SINTOMA 1944 1986	arterias coronarias con dominancia derecha
+T50	SINTOMA 1190 1214	crecimiento de cavidades
+T51	SINTOMA 1387 1418	VI no dilatado, ni hipertrófico
+T52	SINTOMA 1506 1558	Masa de gran tamaño (58x42 mm) en aurícula izquierda
+T53	FARMACO 620 630	ibuprofeno
+T54	FARMACO 639 675	espironolactona 25/hidroclorotiazida
+T55	FARMACO 683 693	metoprolol
+T56	FARMACO 701 709	ramipril
+T57	FARMACO 2832 2842	amiodarona
+T58	FARMACO 2944 2954	amiodarona

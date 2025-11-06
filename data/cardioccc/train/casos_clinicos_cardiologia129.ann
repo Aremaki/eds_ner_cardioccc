@@ -1,0 +1,120 @@
+T1	DISEASE 279 302	Tuberculosis ganglionar
+T2	DISEASE 337 398	linfadenitis granulomatosa necrotizante de perfil tuberculoso
+T3	DISEASE 400 407	Sífilis
+T4	DISEASE 409 441	Trombosis venosa profunda de EID
+T5	DISEASE 444 470	trombosis portomesentérica
+T6	DISEASE 750 762	IAM anterior
+T7	DISEASE 1055 1058	IAM
+T8	DISEASE 1489 1502	Hepatomegalia
+T9	DISEASE 1532 1535	TVP
+T10	DISEASE 1889 1905	aneurisma apical
+T11	DISEASE 2136 2159	trombo adherido al ápex
+T12	DISEASE 2500 2519	derrame pericárdico
+T13	DISEASE 2536 2549	Cardiomegalia
+T14	DISEASE 2662 2665	IAM
+T15	DISEASE 2740 2756	aneurisma apical
+T16	DISEASE 2762 2783	trombo intracavitario
+T17	DISEASE 3362 3379	Ateromatosis leve
+T18	DISEASE 3411 3473	Enfermedad coronaria severa monovaso por oclusión distal de DA
+T19	DISEASE 3489 3532	VI dilatado con disfunción sistólica severa
+T20	DISEASE 4140 4162	insuficiencia cardiaca
+T21	DISEASE 4304 4374	IAM anterior evolucionado con aneurisma apical y trombo en su interior
+T22	DISEASE 4429 4448	derrame pericárdico
+T23	DISEASE 4588 4619	aneurisma ventricular izquierdo
+T24	DISEASE 4707 4734	rotura de pared libre de VI
+T25	DISEASE 5061 5135	Infarto anterior evolucionado Killip II/IV con disfunción sistólica severa
+T26	DISEASE 5139 5186	Aneurisma apical con trombosis intraventricular
+T27	DISEASE 5232 5247	aneurisma de VI
+T28	DISEASE 5264 5287	trombo intraventricular
+T29	DISEASE 249 256	Fumador
+T30	DISEASE 2428 2461	Regurgitación tricúspide moderada
+T31	DISEASE 259 266	bebedor
+T32	DISEASE 224 247	Exconsumidor de cocaína
+T33	DISEASE 472 484	IAM anterior
+T34	DISEASE 1759 1782	VI ligeramente dilatado
+T35	DISEASE 2198 2259	Válvula mitral con regurgitación central de carácter moderado
+T36	DISEASE 2354 2383	Ligera dilatación biauricular
+T37	DISEASE 4393 4417	rotura de la pared de VI
+T38	DISEASE 3545 3579	Dilatación sacular a nivel de ápex
+T39	DISEASE 4183 4205	embolización sistémica
+T40	DISEASE 2705 2713	necrosis
+T41	PROCEDURE 174 192	exploración física
+T42	PROCEDURE 805 816	cateterismo
+T43	PROCEDURE 1564 1567	ECG
+T44	PROCEDURE 1743 1757	Ecocardiograma
+T45	PROCEDURE 2523 2534	Rx de tórax
+T46	PROCEDURE 2720 2723	ECG
+T47	PROCEDURE 2790 2804	ecocardiograma
+T48	PROCEDURE 2820 2831	cateterismo
+T49	PROCEDURE 2874 2888	antiagregación
+T50	PROCEDURE 2890 2905	anticoagulación
+T51	PROCEDURE 2939 2955	beta-bloqueantes
+T52	PROCEDURE 2980 3008	tratamiento tuberculostático
+T53	PROCEDURE 3035 3046	Cateterismo
+T54	PROCEDURE 3048 3073	Coronariografía izquierda
+T55	PROCEDURE 3295 3318	Coronariografía derecha
+T56	PROCEDURE 3475 3487	RMN cardiaca
+T57	PROCEDURE 4217 4232	anticoagulación
+T58	PROCEDURE 4575 4619	resección de aneurisma ventricular izquierdo
+T59	PROCEDURE 4622 4642	extracción de trombo
+T60	PROCEDURE 4658 4689	cierre con parche de pericardio
+T61	PROCEDURE 4873 4881	extubado
+T62	PROCEDURE 5218 5247	resección del aneurisma de VI
+T63	PROCEDURE 5250 5287	extracción de trombo intraventricular
+T64	PROCEDURE 1315 1317	AC
+T65	PROCEDURE 1370 1372	AP
+T66	PROCEDURE 4776 4794	drogas vasoactivas
+T67	PROCEDURE 2922 2937	hipolipemiantes
+T68	PROCEDURE 2958 2963	IECAs
+T69	PROCEDURE 1291 1306	Cabeza y cuello
+T70	PROCEDURE 1118 1129	Exploración
+T71	PROCEDURE 5190 5213	Intervención quirúrgica
+T72	PROCEDURE 4503 4526	intervención quirúrgica
+T73	PROCEDURE 3918 3945	secuencias de realce tardío
+T74	SYMPTOM 59 103	dolor torácico de características isquémicas
+T75	SYMPTOM 625 657	Funciones superiores conservadas
+T76	SYMPTOM 877 906	dolores torácicos recurrentes
+T77	SYMPTOM 982 987	dolor
+T78	SYMPTOM 1172 1182	Consciente
+T79	SYMPTOM 1185 1194	orientado
+T80	SYMPTOM 1196 1207	colaborador
+T81	SYMPTOM 1209 1235	Buena perfusión periférica
+T82	SYMPTOM 1271 1289	Eupneico en reposo
+T83	SYMPTOM 1311 1313	IY
+T84	SYMPTOM 1315 1326	AC: rítmica
+T85	SYMPTOM 1338 1368	soplo sistólico en foco mitral
+T86	SYMPTOM 1374 1377	MVC
+T87	SYMPTOM 1379 1434	Abdomen: Blando, depresible, no doloroso a la palpación
+T88	SYMPTOM 1448 1469	irritación peritoneal
+T89	SYMPTOM 1471 1487	Ruidos presentes
+T90	SYMPTOM 1504 1519	EEII: No edemas
+T91	SYMPTOM 1569 1582	Ritmo sinusal
+T92	SYMPTOM 1608 1632	ondas Q en cara inferior
+T93	SYMPTOM 1634 1680	elevación del segmento ST en cara anteroseptal
+T94	SYMPTOM 1683 1739	ondas T negativas en todas las derivaciones precordiales
+T95	SYMPTOM 1832 1873	Función sistólica moderadamente deprimida
+T96	SYMPTOM 2161 2196	Patrón diastólico pseudonormalizado
+T97	SYMPTOM 2566 2589	condensación pulmonares
+T98	SYMPTOM 2591 2617	senos costofrénicos libres
+T99	SYMPTOM 4799 4825	inestabilidad hemodinámica
+T100	SYMPTOM 3584 3619	aquinesia de los segmentos apicales
+T101	SYMPTOM 2296 2340	Válvula aórtica sin alteraciones funcionales
+T102	SYMPTOM 1907 1982	acinesia de los segmentos medioapicales del septo, cara inferior y anterior
+T103	SYMPTOM 1801 1830	espesores parietales normales
+T104	SYMPTOM 1984 2013	hipocinesia de cara posterior
+T105	SYMPTOM 2385 2399	VD no dilatado
+T106	SYMPTOM 1237 1269	Adecuada coloración muco-cutánea
+T107	SYMPTOM 2043 2096	contractilidad de la cara lateral y segmentos basales
+T108	SYMPTOM 2261 2286	Raíz de aorta no dilatada
+T109	SYMPTOM 3078 3110	tronco común no muestra lesiones
+T110	SYMPTOM 3115 3186	arteria descendente anterior se encuentra ocluida en su segmento distal
+T111	SYMPTOM 3236 3293	arteria circunfleja es de mediano desarrollo sin lesiones
+T112	MEDICATION 517 524	Sintrom
+T113	MEDICATION 526 534	pantecta
+T114	MEDICATION 536 558	rifampicina/isoniacida
+T115	MEDICATION 560 569	etambutol
+T116	MEDICATION 571 574	AAS
+T117	MEDICATION 576 589	atorvastatina
+T118	MEDICATION 591 599	coropres
+T119	MEDICATION 601 607	acovil
+T120	MEDICATION 609 618	omeprazol

@@ -1,0 +1,135 @@
+T1	DISEASE 68 87	Hipercolesterolemia
+T2	DISEASE 89 118	Diabetes mellitus (DM) tipo 2
+T3	DISEASE 108 110	DM
+T4	DISEASE 227 235	Obesidad
+T5	DISEASE 245 254	Exfumador
+T6	DISEASE 295 316	hipertensión arterial
+T7	DISEASE 330 349	Síndrome de Leriche
+T8	DISEASE 389 391	IC
+T9	DISEASE 434 464	hipertensión arterial pulmonar
+T10	DISEASE 522 559	Fibrilación auricular (FA) permanente
+T11	DISEASE 589 592	BRI
+T12	DISEASE 681 705	Enfermedad renal crónica
+T13	DISEASE 720 777	Trombofilia con mutación del gen de la protrombina 20210A
+T14	DISEASE 779 818	Enfermedad pulmonar obstructiva crónica
+T15	DISEASE 820 824	EPOC
+T16	DISEASE 913 955	Adenocarcinoma pulmonar de lóbulo superior
+T17	DISEASE 1056 1106	Poliartritis seropositiva con afectación de carpos
+T18	DISEASE 1114 1166	Hipertiroidismo subclínico con tiroides multinodular
+T19	DISEASE 1168 1176	Alergias
+T20	DISEASE 1814 1816	IC
+T21	DISEASE 2449 2474	trombosis venosa profunda
+T22	DISEASE 2476 2479	TVP
+T23	DISEASE 3301 3322	fibrilación auricular
+T24	DISEASE 3365 3368	BRI
+T25	DISEASE 3420 3444	extrasístole ventricular
+T26	DISEASE 3479 3524	disfunción sistólica global VI moderada-grave
+T27	DISEASE 3761 3781	Insuficiencia mitral
+T28	DISEASE 3829 3870	Hipertensión arterial pulmonar (HTP) leve
+T29	DISEASE 4285 4298	FA permanente
+T30	DISEASE 5084 5103	Hipercolesterolemia
+T31	DISEASE 5105 5115	DM tipo II
+T32	DISEASE 5181 5200	insulinodependiente
+T33	DISEASE 5202 5210	Obesidad
+T34	DISEASE 5220 5229	Exfumador
+T35	DISEASE 5261 5282	hipertensión arterial
+T36	DISEASE 5296 5315	Síndrome de Leriche
+T37	DISEASE 5355 5357	IC
+T38	DISEASE 5400 5421	hipertensión pulmonar
+T39	DISEASE 5454 5457	BRI
+T40	DISEASE 5506 5509	ERC
+T41	DISEASE 5524 5581	Trombofilia con mutación del gen de la protrombina 20210A
+T42	DISEASE 5583 5587	EPOC
+T43	DISEASE 5624 5654	Adenocarcinoma pulmonar de LSD
+T44	DISEASE 5741 5791	Poliartritis seropositiva con afectación de carpos
+T45	DISEASE 5799 5851	Hipertiroidismo subclínico con tiroides multinodular
+T46	DISEASE 5449 5451	FA
+T47	DISEASE 3861 3864	HTP
+T48	DISEASE 3994 3996	IC
+T49	DISEASE 4934 4936	IC
+T50	DISEASE 3103 3116	cardiomegalia
+T51	DISEASE 562 587	bloqueo de rama izquierda
+T52	DISEASE 3783 3785	IM
+T53	DISEASE 3789 3814	insuficiencia tricuspídea
+T54	DISEASE 3816 3818	IT
+T55	DISEASE 5793 5797	Gota
+T56	DISEASE 1108 1112	Gota
+T57	PROCEDURE 188 208	antidiabético orales
+T58	PROCEDURE 366 387	bypass aortobifemoral
+T59	PROCEDURE 477 504	resonancia magnétic nuclear
+T60	PROCEDURE 506 509	RMN
+T61	PROCEDURE 1001 1013	radioterapia
+T62	PROCEDURE 1213 1240	oxigenoterapia domiciliaria
+T63	PROCEDURE 2131 2149	EXPLORACIÓN FÍSICA
+T64	PROCEDURE 2295 2316	Auscultación cardiaca
+T65	PROCEDURE 2818 2827	Hemograma
+T66	PROCEDURE 2933 2944	Coagulación
+T67	PROCEDURE 3081 3101	RADIOGRAFÍA DE TÓRAX
+T68	PROCEDURE 3281 3299	ELECTROCARDIOGRAMA
+T69	PROCEDURE 3454 3468	ECOCARDIOGRAMA
+T70	PROCEDURE 3958 3985	tratamientos farmacológicos
+T71	PROCEDURE 4093 4150	implantación de estimulador de barorreceptores carotídeos
+T72	PROCEDURE 4206 4242	terapia de resincronización cardiaca
+T73	PROCEDURE 4244 4247	TRC
+T74	PROCEDURE 4347 4380	anticoagulantes de acción directa
+T75	PROCEDURE 4461 4502	implantación del dispositivo Barostim neo
+T76	PROCEDURE 4523 4534	radiografía
+T77	PROCEDURE 5025 5082	tratamiento con estimulador de barorreceptores carotídeos
+T78	PROCEDURE 5332 5353	bypass aortobifemoral
+T79	PROCEDURE 5434 5437	RMN
+T80	PROCEDURE 5686 5698	radioterapia
+T81	PROCEDURE 210 213	ADO
+T82	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T83	PROCEDURE 595 631	Desfibrilador automático implantable
+T84	PROCEDURE 2507 2516	ANALÍTICA
+T85	PROCEDURE 2518 2528	bioquímica
+T86	PROCEDURE 991 998	cirugía
+T87	PROCEDURE 5676 5683	cirugía
+T88	PROCEDURE 633 636	DAI
+T89	PROCEDURE 5459 5462	DAI
+T90	SYMPTOM 1973 1986	palpitaciones
+T91	SYMPTOM 1988 2002	dolor torácico
+T92	SYMPTOM 2017 2020	tos
+T93	SYMPTOM 2025 2038	expectoración
+T94	SYMPTOM 2057 2078	purulencia del esputo
+T95	SYMPTOM 2083 2103	sensación distérmica
+T96	SYMPTOM 2107 2128	semiología infecciosa
+T97	SYMPTOM 2286 2293	Afebril
+T98	SYMPTOM 2318 2327	arrítmico
+T99	SYMPTOM 2333 2339	soplos
+T100	SYMPTOM 2350 2389	Abdomen blando, depresible, no doloroso
+T101	SYMPTOM 2391 2433	Extremidades con discretos edema con fóvea
+T102	SYMPTOM 3144 3178	aumento de la trama broncovascular
+T103	SYMPTOM 4941 4954	FEVI reducida
+T104	SYMPTOM 2005 2012	síncope
+T105	SYMPTOM 3899 3916	disnea progresiva
+T106	SYMPTOM 418 431	FEVI reducida
+T107	SYMPTOM 970 977	T1bN0M0
+T108	SYMPTOM 5384 5397	FEVI reducida
+T109	SYMPTOM 5655 5662	T1bN0M0
+T110	SYMPTOM 3081 3142	RADIOGRAFÍA DE TÓRAX: cardiomegalia, signos de redistribución
+T111	MEDICATION 217 225	insulina
+T112	MEDICATION 1250 1262	acenocumarol
+T113	MEDICATION 1282 1297	insulina lantus
+T114	MEDICATION 1305 1323	insulina glulisina
+T115	MEDICATION 1333 1343	metformina
+T116	MEDICATION 1360 1373	empaglifozina
+T117	MEDICATION 1389 1417	ezetimiba 10 mg/simvastatina
+T118	MEDICATION 1433 1443	furosemida
+T119	MEDICATION 1502 1512	carvedilol
+T120	MEDICATION 1532 1542	eplerenona
+T121	MEDICATION 1560 1581	sacubitrilo-valsartán
+T122	MEDICATION 1601 1612	lansoprazol
+T123	MEDICATION 1628 1638	alopurinol
+T124	MEDICATION 1655 1667	escitalopram
+T125	MEDICATION 1675 1711	indacaterol/bromuro de glicopirronio
+T126	MEDICATION 1870 1882	levosimendán
+T127	MEDICATION 4270 4280	ivabradina
+T128	MEDICATION 4710 4720	furosemida
+T129	MEDICATION 4790 4802	levosimendán
+#1	AnnotatorNotes T47	  Hipertensión arterial pulmonar
+#2	AnnotatorNotes T48	  insuficiencia cardíaca
+#3	AnnotatorNotes T49	IC: insuficiencia cardíaca
+#4	AnnotatorNotes T52	  insuficiencia mitral
+#5	AnnotatorNotes T54	  insuficiencia tricuspide
+#6	AnnotatorNotes T81	  antidiabético oral

@@ -1,0 +1,240 @@
+T1	ENFERMEDAD 5875 5940	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica
+T2	ENFERMEDAD 6283 6358	Válvula aórtica tricomisural fibrosada no estenótica con leve regurgitación
+T3	ENFERMEDAD 74 97	alergias medicamentosas
+T4	ENFERMEDAD 109 135	Intolerancia al amlodipino
+T5	ENFERMEDAD 154 169	hábitos tóxicos
+T6	ENFERMEDAD 206 227	hipertensión arterial
+T7	ENFERMEDAD 229 232	HTA
+T8	ENFERMEDAD 235 245	Dislipemia
+T9	ENFERMEDAD 250 258	diabetes
+T10	ENFERMEDAD 274 294	Insuficiencia mitral
+T11	ENFERMEDAD 334 356	insuficiencia cardiaca
+T12	ENFERMEDAD 443 476	Fibrilación auricular paroxística
+T13	ENFERMEDAD 478 515	Hipertensión pulmonar ligera-moderada
+T14	ENFERMEDAD 517 582	Estenosis ligera-moderada de coronaria descendente anterior media
+T15	ENFERMEDAD 584 632	Enfermedad pulmonar obstructiva crónica moderada
+T16	ENFERMEDAD 646 661	bronquiectasias
+T17	ENFERMEDAD 679 695	Síndrome ansioso
+T18	ENFERMEDAD 879 898	deterioro cognitivo
+T19	ENFERMEDAD 982 1001	esclerosis múltiple
+T20	ENFERMEDAD 1060 1074	retraso mental
+T21	ENFERMEDAD 1802 1847	crisis comiciales parciales en brazo y pierna
+T22	ENFERMEDAD 2094 2114	ictus cardioembólico
+T23	ENFERMEDAD 2363 2400	trombo adheridas a la prótesis mitral
+T24	ENFERMEDAD 2416 2428	endocarditis
+T25	ENFERMEDAD 2502 2519	cuadro infeccioso
+T26	ENFERMEDAD 2542 2554	endocarditis
+T27	ENFERMEDAD 3044 3057	hepatomegalia
+T28	ENFERMEDAD 3497 3543	Bloqueo auriculoventricular (BAV) primer grado
+T29	ENFERMEDAD 3526 3529	BAV
+T30	ENFERMEDAD 4115 4147	afectación pulmonar por COVID 19
+T31	ENFERMEDAD 4216 4249	granulomas hepáticos calcificados
+T32	ENFERMEDAD 4285 4318	tendinitis calcificante en hombro
+T33	ENFERMEDAD 4374 4382	COVID 19
+T34	ENFERMEDAD 4421 4449	patología aguda intracraneal
+T35	ENFERMEDAD 4904 4939	lesiones isquémicas aguda/subagudas
+T36	ENFERMEDAD 4969 4980	cardiopatía
+T37	ENFERMEDAD 5014 5024	hemorragia
+T38	ENFERMEDAD 5541 5612	lesiones isquémicas múltiples supra e infratentoriales, aguda/subagudas
+T39	ENFERMEDAD 6499 6518	derrame pericárdico
+T40	ENFERMEDAD 6560 6593	hipertrofia ventricular izquierda
+T41	ENFERMEDAD 6629 6657	insuficiencia aórtica ligera
+T42	ENFERMEDAD 6858 6865	trombos
+T43	ENFERMEDAD 7149 7155	trombo
+T44	ENFERMEDAD 7683 7689	trombo
+T45	ENFERMEDAD 8253 8309	leak periprotésico a nivel anterior de la sutura aórtica
+T46	ENFERMEDAD 8888 8956	insuficiencia mitral (IM) moderada excéntrica por leak periprotésico
+T47	ENFERMEDAD 8980 9005	trombo en prótesis mitral
+T48	ENFERMEDAD 11070 11099	Insuficiencia tricúspide leve
+T49	ENFERMEDAD 11135 11159	Derrame pericárdico leve
+T50	ENFERMEDAD 11282 11294	endocarditis
+T51	ENFERMEDAD 11322 11344	insuficiencia cardiaca
+T52	ENFERMEDAD 11433 11447	crisis focales
+T53	ENFERMEDAD 11573 11627	lesiones isquémicas múltiples supra e infratentoriales
+T54	ENFERMEDAD 11691 11703	endocarditis
+T55	ENFERMEDAD 12235 12244	infección
+T56	ENFERMEDAD 12422 12434	endocarditis
+T57	ENFERMEDAD 12448 12466	trombosis valvular
+T58	ENFERMEDAD 12686 12696	FA con RVR
+T59	ENFERMEDAD 12974 12994	Ictus cardioembólico
+T60	ENFERMEDAD 12999 13053	lesiones isquémicas múltiples supra e infratentoriales
+T61	ENFERMEDAD 13055 13077	Crisis focales motoras
+T62	ENFERMEDAD 13145 13173	Trombosis valvular protésica
+T63	ENFERMEDAD 3130 3146	nódulos de Osler
+T64	ENFERMEDAD 3107 3126	lesiones de Janeway
+T65	ENFERMEDAD 3741 3771	Ateromas calcificados en aorta
+T66	ENFERMEDAD 4250 4282	Cambios degenerativos en columna
+T67	ENFERMEDAD 6032 6062	Dilatación auricular izquierda
+T68	ENFERMEDAD 7466 7524	placa de ateroma calcificada en aorta torácica descendente
+T69	ENFERMEDAD 8910 8912	IM
+T70	ENFERMEDAD 13175 13220	Leak periprotésico con insuficiencia moderada
+T71	ENFERMEDAD 12094 12120	leak perivalvular moderado
+T72	ENFERMEDAD 4452 4518	Resonancia magnética (RMN) cerebral: se visualizan varias lesiones
+T73	ENFERMEDAD 10026 10069	se daña pulmón derecho durante la disección
+T74	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T75	PROCEDIMIENTO 395 441	colocación de prótesis mecánica St. Jude No 25
+T76	PROCEDIMIENTO 725 742	apendicectomizada
+T77	PROCEDIMIENTO 759 766	cesárea
+T78	PROCEDIMIENTO 2125 2139	ecocardiograma
+T79	PROCEDIMIENTO 2274 2303	ecocardiograma transesofágico
+T80	PROCEDIMIENTO 2305 2308	ETE
+T81	PROCEDIMIENTO 2749 2767	Exploración física
+T82	PROCEDIMIENTO 2902 2923	Auscultación cardiaca
+T83	PROCEDIMIENTO 2962 2983	Auscultación pulmonar
+T84	PROCEDIMIENTO 3458 3461	ECG
+T85	PROCEDIMIENTO 3618 3655	Radiografía postero-anterior de tórax
+T86	PROCEDIMIENTO 3689 3701	esternotomía
+T87	PROCEDIMIENTO 4095 4098	PCR
+T88	PROCEDIMIENTO 4328 4382	Serología y PCR de aspirado nasofaríngeo para COVID 19
+T89	PROCEDIMIENTO 4394 4405	TAC craneal
+T90	PROCEDIMIENTO 4452 4487	Resonancia magnética (RMN) cerebral
+T91	PROCEDIMIENTO 5747 5771	reactantes de fase aguda
+T92	PROCEDIMIENTO 5773 5806	Perfil renal, hepático y lipídico
+T93	PROCEDIMIENTO 5833 5861	Ecocardiograma transtorácico
+T94	PROCEDIMIENTO 5863 5866	ETT
+T95	PROCEDIMIENTO 6660 6689	Ecocardiograma transesofágico
+T96	PROCEDIMIENTO 6691 6694	ETE
+T97	PROCEDIMIENTO 6793 6796	ETE
+T98	PROCEDIMIENTO 7808 7820	Hemocultivos
+T99	PROCEDIMIENTO 8060 8063	ETE
+T100	PROCEDIMIENTO 9034 9046	Hemocultivos
+T101	PROCEDIMIENTO 9135 9147	antibiograma
+T102	PROCEDIMIENTO 9410 9413	CEC
+T103	PROCEDIMIENTO 9434 9454	Atriotomía izquierda
+T104	PROCEDIMIENTO 9456 9486	Administración de cardioplejia
+T105	PROCEDIMIENTO 9488 9519	Se explanta la prótesis mitral,
+T106	PROCEDIMIENTO 9520 9551	implantación de prótesis mitral
+T107	PROCEDIMIENTO 9584 9594	atriotomía
+T108	PROCEDIMIENTO 9759 9782	se desconecta de la CEC
+T109	PROCEDIMIENTO 9906 9909	ETE
+T110	PROCEDIMIENTO 10060 10069	disección
+T111	PROCEDIMIENTO 10129 10239	anestésico: inducción con etomidato, rocuronio, fentanilo y mantenimiento con sevoflurano propofol y rocuronio
+T112	PROCEDIMIENTO 10283 10305	Profilaxis antibiótica
+T113	PROCEDIMIENTO 10338 10387	soporte vasoactivo con noradrenalina y dobutamina
+T114	PROCEDIMIENTO 10570 10587	tromboelastograma
+T115	PROCEDIMIENTO 10590 10636	trasfusión total de 4 concentrados de hematíes
+T116	PROCEDIMIENTO 10640 10657	pool de plaquetas
+T117	PROCEDIMIENTO 10759 10767	extubada
+T118	PROCEDIMIENTO 10861 10889	Microbiología de la prótesis
+T119	PROCEDIMIENTO 10921 10924	ETT
+T120	PROCEDIMIENTO 11547 11559	RMN cerebral
+T121	PROCEDIMIENTO 11710 11736	extracción de hemocultivos
+T122	PROCEDIMIENTO 11750 11782	tratamiento antibiótico empírico
+T123	PROCEDIMIENTO 11818 11853	anticoagulación con heparina sódica
+T124	PROCEDIMIENTO 11858 11882	control ecocardiográfico
+T125	PROCEDIMIENTO 12281 12293	hemocultivos
+T126	PROCEDIMIENTO 12479 12502	reintervención cardiaca
+T127	PROCEDIMIENTO 12515 12569	recambio valvular mitral por bioprótesis Epic de 25 mm
+T128	PROCEDIMIENTO 12620 12628	extubada
+T129	PROCEDIMIENTO 768 795	Sustitución valvular mitral
+T130	PROCEDIMIENTO 3404 3416	Urinanálisis
+T131	PROCEDIMIENTO 4474 4477	RMN
+T132	PROCEDIMIENTO 9211 9231	reesternotomía media
+T133	PROCEDIMIENTO 9233 9276	Disección de adherencias pleuropericárdicas
+T134	PROCEDIMIENTO 9297 9362	Canulación aorta ascendente, cavoatrial única y de seno coronario
+T135	PROCEDIMIENTO 9364 9408	Establecimiento de circulación extracorpórea
+T136	PROCEDIMIENTO 9416 9432	Clampaje aórtico
+T137	PROCEDIMIENTO 9596 9656	Administración de cardioplejia hemática caliente enriquecida
+T138	PROCEDIMIENTO 9659 9677	desclapaje aórtico
+T139	PROCEDIMIENTO 9727 9756	Se calienta hasta normotermia
+T140	PROCEDIMIENTO 9784 9815	Retirada de cánulas, hemostasia
+T141	PROCEDIMIENTO 13241 13305	Recambio valvular protésico por prótesis biológica Epic de 25 mm
+T142	PROCEDIMIENTO 3173 3182	Analítica
+T143	PROCEDIMIENTO 5654 5663	Analítica
+T144	PROCEDIMIENTO 697 723	Intervenciones quirúrgicas
+T145	PROCEDIMIENTO 10773 10797	perfusión de clevidipino
+T146	PROCEDIMIENTO 10462 10492	perfusión continua de insulina
+T147	PROCEDIMIENTO 2868 2874	Cuello
+T148	PROCEDIMIENTO 3032 3039	Abdomen
+T149	PROCEDIMIENTO 9937 9985	Drenajes: mediastino anterior y saco pericárdico
+T150	PROCEDIMIENTO 10034 10101	pulmón derecho durante la disección, se repara la fuga con tachosil
+T151	PROCEDIMIENTO 10265 10281	maniobra de Burp
+T152	PROCEDIMIENTO 10410 10413	CEC
+T153	PROCEDIMIENTO 10668 10676	octaplex
+T154	SINTOMA 140 146	edemas
+T155	SINTOMA 1079 1087	ortopnea
+T156	SINTOMA 1092 1098	edemas
+T157	SINTOMA 1776 1782	afasia
+T158	SINTOMA 1881 1887	afasia
+T159	SINTOMA 1986 1995	dismetría
+T160	SINTOMA 1998 2024	pérdida de fuerza en brazo
+T161	SINTOMA 2483 2489	fiebre
+T162	SINTOMA 2492 2500	tiritona
+T163	SINTOMA 2768 2775	Afebril
+T164	SINTOMA 2879 2900	ingurgitación yugular
+T165	SINTOMA 2902 2932	Auscultación cardiaca: rítmica
+T166	SINTOMA 2934 2960	Ruidos protésicos normales
+T167	SINTOMA 2985 3014	murmullo vesicular conservado
+T168	SINTOMA 3019 3030	crepitantes
+T169	SINTOMA 3059 3089	Miembros inferiores: no edemas
+T170	SINTOMA 3388 3402	fórmula normal
+T171	SINTOMA 3473 3486	ritmo sinusal
+T172	SINTOMA 3578 3595	T aplanada en III
+T173	SINTOMA 4328 4392	Serología y PCR de aspirado nasofaríngeo para COVID 19 negativas
+T174	SINTOMA 4790 4795	edema
+T175	SINTOMA 5773 5830	Perfil renal, hepático y lipídico dentro de la normalidad
+T176	SINTOMA 5949 5977	movimiento anómalo del septo
+T177	SINTOMA 7052 7056	masa
+T178	SINTOMA 7160 7166	fiebre
+T179	SINTOMA 10943 11001	ventrículo izquierdo de características y función normales
+T180	SINTOMA 11242 11248	fiebre
+T181	SINTOMA 11642 11650	sangrado
+T182	SINTOMA 12168 12179	inflamación
+T183	SINTOMA 12184 12196	leucocitosis
+T184	SINTOMA 13082 13117	alteración del nivel de consciencia
+T185	SINTOMA 13307 13339	Función biventricular conservada
+T186	SINTOMA 6123 6195	Presión sistólica de la arteria pulmonar (PSAP) en rango alto normalidad
+T187	SINTOMA 6217 6247	Vena cava inferior no dilatada
+T188	SINTOMA 6520 6544	Raíz aortica no dilatada
+T189	SINTOMA 7831 7894	se aísla solo en uno de ellos Staphylococcus coagulasa negativo
+T190	SINTOMA 9034 9120	Hemocultivos x3 27/01: se aísla solo en uno de ellos Staphylococcus coagulasa negativo
+T191	SINTOMA 11014 11068	Prótesis biológica en posición mitral normofuncionante
+T192	SINTOMA 6867 6895	Septo interauricular íntegro
+T193	SINTOMA 11522 11534	asintomática
+T194	SINTOMA 6071 6102	cavidades derechas no dilatadas
+T195	SINTOMA 12198 12219	procalcitonina normal
+T196	SINTOMA 12701 12725	repercusión hemodinámica
+T197	SINTOMA 1905 1942	movimientos en pierna primero y brazo
+T198	SINTOMA 2168 2211	aumento de gradiente medio protésico mitral
+T199	SINTOMA 3404 3441	Urinanálisis urgencias: sin hallazgos
+T200	SINTOMA 4149 4199	Imágenes de densidad calcio en hipocondrio derecho
+T201	SINTOMA 5352 5401	polígono de Willis se visualiza de calibre normal
+T202	SINTOMA 5098 5263	depósito de hemosiderina cortical occipital medial derecho, en la zona superior del hemisferio cerebeloso izquierdo y zona inferior del hemisferio cerebeloso derecho
+T203	SINTOMA 10861 10919	Microbiología de la prótesis: sin crecimiento de patógenos
+T204	SINTOMA 12255 12333	crecimiento en uno de los hemocultivos de un Staphylococcus coagulasa negativo
+T205	SINTOMA 12849 12892	crecimiento biológico en material protésico
+T206	FARMACO 10093 10101	tachosil
+T207	FARMACO 125 135	amlodipino
+T208	FARMACO 1124 1136	simvastatina
+T209	FARMACO 1167 1176	enalapril
+T210	FARMACO 1210 1220	bisoprolol
+T211	FARMACO 1254 1264	amiodarona
+T212	FARMACO 1294 1301	sintrom
+T213	FARMACO 1361 1370	omeprazol
+T214	FARMACO 1405 1429	ferrimanitol ovoalbúmina
+T215	FARMACO 1462 1472	furosemida
+T216	FARMACO 1507 1522	espironolactona
+T217	FARMACO 1557 1567	alprazolam
+T218	FARMACO 1604 1625	budesonida/formoterol
+T219	FARMACO 1674 1694	bromuro de tiotropio
+T220	FARMACO 9839 9847	heparina
+T221	FARMACO 10155 10164	etomidato
+T222	FARMACO 10166 10175	rocuronio
+T223	FARMACO 10177 10186	fentanilo
+T224	FARMACO 10207 10227	sevoflurano propofol
+T225	FARMACO 10230 10239	rocuronio
+T226	FARMACO 10310 10323	levofloxacino
+T227	FARMACO 10361 10374	noradrenalina
+T228	FARMACO 10377 10387	dobutamina
+T229	FARMACO 10443 10453	Furosemida
+T230	FARMACO 10484 10492	insulina
+T231	FARMACO 10786 10797	clevidipino
+T232	FARMACO 11494 11505	lamotrigina
+T233	FARMACO 11787 11798	vancomicina
+T234	FARMACO 11838 11853	heparina sódica
+T235	FARMACO 12764 12774	amiodarona
+T236	FARMACO 12804 12811	sintrom
+T237	FARMACO 12816 12824	apixabán
+T238	FARMACO 12930 12941	vancomicina
+T239	FARMACO 10494 10511	Ácido tranexámico
+T240	FARMACO 10687 10698	fibrinógeno

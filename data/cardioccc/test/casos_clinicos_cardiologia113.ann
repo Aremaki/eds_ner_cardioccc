@@ -1,0 +1,109 @@
+T1	ENFERMEDAD 143 151	varicela
+T2	ENFERMEDAD 3244 3263	derrame pericárdico
+T3	ENFERMEDAD 3977 4001	Miopericarditis subaguda
+T4	ENFERMEDAD 4503 4526	arritmias ventriculares
+T5	ENFERMEDAD 4602 4617	miopericarditis
+T6	ENFERMEDAD 4727 4758	arritmias supra o ventriculares
+T7	ENFERMEDAD 4858 4880	insuficiencia cardiaca
+T8	ENFERMEDAD 5712 5733	Miopericarditis aguda
+T9	ENFERMEDAD 157 165	alergias
+T10	ENFERMEDAD 2334 2349	daño miocárdico
+T11	ENFERMEDAD 261 276	hábitos tóxicos
+T12	ENFERMEDAD 656 663	síncope
+T13	ENFERMEDAD 3372 3414	bloqueos de la conducción intraventricular
+T14	ENFERMEDAD 4696 4723	trastornos de la conducción
+T15	PROCEDIMIENTO 314 332	exploración física
+T16	PROCEDIMIENTO 786 795	anamnesis
+T17	PROCEDIMIENTO 1026 1044	Exploración Física
+T18	PROCEDIMIENTO 1467 1470	ECG
+T19	PROCEDIMIENTO 1676 1687	Rx de tórax
+T20	PROCEDIMIENTO 1869 1878	Hemograma
+T21	PROCEDIMIENTO 1962 1971	Hemograma
+T22	PROCEDIMIENTO 2564 2592	Ecocardiograma transtorácico
+T23	PROCEDIMIENTO 3320 3323	ECG
+T24	PROCEDIMIENTO 3509 3538	Resonancia magnética cardiaca
+T25	PROCEDIMIENTO 4146 4164	Prueba de esfuerzo
+T26	PROCEDIMIENTO 4636 4680	monitorización electrocardiográfica continua
+T27	PROCEDIMIENTO 4894 4918	ecocardiogramas seriados
+T28	PROCEDIMIENTO 5228 5257	resonancia magnética cardiaca
+T29	PROCEDIMIENTO 5343 5353	holter ECG
+T30	PROCEDIMIENTO 5402 5412	ergometría
+T31	PROCEDIMIENTO 1221 1223	AC
+T32	PROCEDIMIENTO 1281 1283	AP
+T33	PROCEDIMIENTO 2063 2073	Bioquímica
+T34	PROCEDIMIENTO 4004 4022	Estudio holter ECG
+T35	PROCEDIMIENTO 1852 1857	Iones
+T36	PROCEDIMIENTO 2320 2349	Marcadores de daño miocárdico
+T37	PROCEDIMIENTO 2475 2485	Serologías
+T38	PROCEDIMIENTO 1776 1785	Analítica
+T39	PROCEDIMIENTO 1926 1935	Analítica
+T40	PROCEDIMIENTO 1132 1147	Cabeza y cuello
+T41	PROCEDIMIENTO 3780 3803	Secuencias T2 spin-echo
+T42	PROCEDIMIENTO 3831 3878	Gadolinio con secuencias inversión-recuperación
+T43	SINTOMA 205 225	Buen estado de salud
+T44	SINTOMA 366 407	dolor centrotorácico de carácter opresivo
+T45	SINTOMA 549 554	dolor
+T46	SINTOMA 612 630	cortejo vegetativo
+T47	SINTOMA 632 638	disnea
+T48	SINTOMA 640 653	palpitaciones
+T49	SINTOMA 757 769	asintomático
+T50	SINTOMA 856 878	dolor abdominal difuso
+T51	SINTOMA 881 901	vómitos alimenticios
+T52	SINTOMA 948 971	deposiciones diarréicas
+T53	SINTOMA 1016 1023	afebril
+T54	SINTOMA 1080 1086	Alerta
+T55	SINTOMA 1088 1098	consciente
+T56	SINTOMA 1100 1109	orientado
+T57	SINTOMA 1111 1120	hidratado
+T58	SINTOMA 1123 1130	afebril
+T59	SINTOMA 1192 1213	ingurgitación yugular
+T60	SINTOMA 1225 1250	Ruidos cardiacos rítmicos
+T61	SINTOMA 1263 1279	roce pericárdico
+T62	SINTOMA 1285 1314	Ruidos respiratorios normales
+T63	SINTOMA 1316 1344	Abdomen: Blando, no doloroso
+T64	SINTOMA 1350 1355	masas
+T65	SINTOMA 1359 1374	visceromegalias
+T66	SINTOMA 1381 1403	peristaltismo presente
+T67	SINTOMA 1405 1420	EEII: No edemas
+T68	SINTOMA 1423 1438	pulsos normales
+T69	SINTOMA 1486 1499	Ritmo sinusal
+T70	SINTOMA 1526 1551	supradesnivelación del ST
+T71	SINTOMA 1663 1672	QT normal
+T72	SINTOMA 1689 1712	Silueta cardiaca normal
+T73	SINTOMA 2704 2748	flujo diastólico de características normales
+T74	SINTOMA 3177 3228	Válvula pulmonar fina con apertura y flujo normales
+T75	SINTOMA 3333 3346	Ritmo sinusal
+T76	SINTOMA 3357 3366	PR normal
+T77	SINTOMA 3416 3448	Ligera supradesnivelación del ST
+T78	SINTOMA 3496 3505	QT normal
+T79	SINTOMA 3633 3664	Función global de VI conservada
+T80	SINTOMA 3713 3745	Volúmenes y función de VD normal
+T81	SINTOMA 3808 3813	edema
+T82	SINTOMA 4050 4063	Ritmo sinusal
+T83	SINTOMA 4105 4142	alteraciones del ritmo significativas
+T84	SINTOMA 4420 4460	alteraciones agudas de la repolarización
+T85	SINTOMA 4791 4803	asintomático
+T86	SINTOMA 4953 4986	deterioro de la función sistólica
+T87	SINTOMA 5192 5204	asintomático
+T88	SINTOMA 5642 5654	asintomático
+T89	SINTOMA 4192 4204	Asintomático
+T90	SINTOMA 1852 1867	Iones: Normales
+T91	SINTOMA 4462 4481	Taquicardia sinusal
+T92	SINTOMA 1624 1638	descenso de PR
+T93	SINTOMA 3697 3711	Masa VI normal
+T94	SINTOMA 2604 2634	Aurícula izquierda no dilatada
+T95	SINTOMA 3015 3046	Cavidades derechas no dilatadas
+T96	SINTOMA 2475 2560	Serologías: Negativas para VHB, VHC, VEB, CMV, VHS, VVZ, enterovirus y parvovirus B19
+T97	SINTOMA 2750 2799	Ventrículo izquierdo no dilatado ni hipertrofiado
+T98	SINTOMA 2916 2987	Válvula aórtica trivalva, fina con apertura, movilidad y flujo normales
+T99	SINTOMA 2636 2702	Válvula mitral de velos finos con movilidad y apertura conservadas
+T100	SINTOMA 1718 1752	alteraciones pleuroparenquimatosas
+T101	SINTOMA 2804 2832	función sistólica conservada
+T102	SINTOMA 1149 1187	Orofaríngeo: Sin hallazgos patológicos
+T103	SINTOMA 1997 2036	leucocitos 9,2 mil/mm3 (fórmula normal)
+T104	SINTOMA 2864 2914	falsos tendones y músculos papilares muy evidentes
+T105	SINTOMA 2989 3013	Raíz aórtica no dilatada
+T106	SINTOMA 3048 3093	contractilidad ventricular derecha conservada
+T107	SINTOMA 3095 3175	Válvula tricúspide correctamente implantada, fina con buena movilidad y apertura
+T108	SINTOMA 3540 3593	Diámetro y volúmenes de VI dentro de límites normales
+T109	SINTOMA 3880 3959	Realce tardío subepicárdico lineal a nivel desepto anterior basal e inferobasal

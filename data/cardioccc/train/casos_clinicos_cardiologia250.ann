@@ -1,0 +1,134 @@
+T1	DISEASE 98 109	cardiopatía
+T2	DISEASE 195 203	obesidad
+T3	DISEASE 216 219	HTA
+T4	DISEASE 224 234	dislipemia
+T5	DISEASE 239 256	diabetes mellitus
+T6	DISEASE 337 365	amiloidosis cardiaca tipo AL
+T7	DISEASE 639 659	amiloidosis cardiaca
+T8	DISEASE 756 781	Insuficiencia mitral leve
+T9	DISEASE 792 805	valvulopatías
+T10	DISEASE 826 845	derrame pericárdico
+T11	DISEASE 868 887	Hepatitis C crónica
+T12	DISEASE 1117 1131	Amiloidosis AL
+T13	DISEASE 1391 1405	amiloidosis AL
+T14	DISEASE 1443 1467	hematoma retroperitoneal
+T15	DISEASE 1700 1707	mieloma
+T16	DISEASE 1941 1957	mieloma múltiple
+T17	DISEASE 2771 2796	trombosis venosa profunda
+T18	DISEASE 2798 2801	TVP
+T19	DISEASE 3964 4022	ventrículo izquierdo de tamaño normal con hipertrofia leve
+T20	DISEASE 4197 4241	insuficiencia mitral moderada baja funcional
+T21	DISEASE 4244 4278	insuficiencia tricuspídea moderada
+T22	DISEASE 4561 4581	amiloidosis cardiaca
+T23	DISEASE 4752 4801	mieloma múltiple con afectación de varios órganos
+T24	DISEASE 4829 4850	fibrilación auricular
+T25	DISEASE 5002 5037	FA con respuesta ventricular rápida
+T26	DISEASE 5674 5703	insuficiencia mitral moderada
+T27	DISEASE 5827 5860	insuficiencia cardiaca congestiva
+T28	DISEASE 6159 6182	amiloidosis cardiaca AL
+T29	DISEASE 6373 6396	Amiloidosis cardiaca AL
+T30	DISEASE 6398 6431	Fibrilación auricular paroxística
+T31	DISEASE 6511 6545	Insuficiencia mitral moderada baja
+T32	DISEASE 6547 6595	Mieloma múltiple con afectación cardiaca y renal
+T33	DISEASE 6651 6667	bicitopenia leve
+T34	DISEASE 6669 6728	Enfermedad renal crónica secundaria a gammapatía monoclonal
+T35	DISEASE 3635 3637	FA
+T36	DISEASE 691 734	ventrículo izquierdo levemente hipertrófico
+T37	DISEASE 2424 2451	ruidos cardiacos arrítmicos
+T38	DISEASE 4114 4156	Ventrículo derecho (VD) levemente dilatado
+T39	DISEASE 5535 5578	ventrículo izquierdo levemente hipertrófico
+T40	DISEASE 5944 5947	ICC
+T41	DISEASE 5612 5643	crecimiento auricular izquierdo
+T42	DISEASE 1098 1107	infección
+T43	DISEASE 113 126	muerte súbita
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 439 488	Gammagrafía cardiaca con pirofosfatos (Tc99m-DPD)
+T46	PROCEDURE 661 689	Ecocardiograma transtorácico
+T47	PROCEDURE 1356 1369	biopsia renal
+T48	PROCEDURE 1412 1425	biopsia renal
+T49	PROCEDURE 1480 1492	embolectomía
+T50	PROCEDURE 1669 1707	Tratamiento quimioterápico del mieloma
+T51	PROCEDURE 2119 2137	electrocardiograma
+T52	PROCEDURE 2139 2142	ECG
+T53	PROCEDURE 2205 2208	ECG
+T54	PROCEDURE 2288 2306	Exploración física
+T55	PROCEDURE 2401 2422	Auscultación cardiaca
+T56	PROCEDURE 2518 2539	Auscultación pulmonar
+T57	PROCEDURE 2866 2875	Hemograma
+T58	PROCEDURE 3286 3324	Marcadores de daño miocárdico seriados
+T59	PROCEDURE 3429 3440	Coagulación
+T60	PROCEDURE 3630 3633	ECG
+T61	PROCEDURE 3812 3832	Radiografía de tórax
+T62	PROCEDURE 3934 3962	Ecocardiograma transtorácico
+T63	PROCEDURE 4359 4399	gammagrafía con pirofosfatos (Tc99m-DPD)
+T64	PROCEDURE 4977 4980	ECG
+T65	PROCEDURE 5443 5458	betabloqueantes
+T66	PROCEDURE 5471 5485	ecocardiograma
+T67	PROCEDURE 5878 5893	anticoagulación
+T68	PROCEDURE 6265 6291	tratamiento anticoagulante
+T69	PROCEDURE 6433 6460	cardioversión farmacológica
+T70	PROCEDURE 3051 3061	Bioquímica
+T71	PROCEDURE 2014 2042	tomar las constantes vitales
+T72	PROCEDURE 2644 2677	palpación superficial ni profunda
+T73	PROCEDURE 5307 5337	amiodarona en bolo y perfusión
+T74	PROCEDURE 1136 1160	confirmación histológica
+T75	SYMPTOM 739 754	FEVI conservada
+T76	SYMPTOM 1897 1912	síndrome febril
+T77	SYMPTOM 1996 2009	palpitaciones
+T78	SYMPTOM 2058 2091	curva de pulso arrítmica y rápida
+T79	SYMPTOM 2255 2269	dolor torácico
+T80	SYMPTOM 2307 2317	Consciente
+T81	SYMPTOM 2320 2356	orientado en persona, tiempo y lugar
+T82	SYMPTOM 2371 2389	eupneico en reposo
+T83	SYMPTOM 2392 2399	afebril
+T84	SYMPTOM 2453 2465	taquicárdico
+T85	SYMPTOM 2467 2503	soplo sistólico II/VI en foco mitral
+T86	SYMPTOM 2541 2570	murmullo vesicular conservado
+T87	SYMPTOM 2575 2595	ruidos sobreañadidos
+T88	SYMPTOM 2597 2625	Abdomen: blando y depresible
+T89	SYMPTOM 2630 2677	doloroso a la palpación superficial ni profunda
+T90	SYMPTOM 2683 2698	visceromegalias
+T91	SYMPTOM 2700 2730	Ruidos hidroaéreos conservados
+T92	SYMPTOM 2804 2827	Pulsos pedios palpables
+T93	SYMPTOM 2833 2839	edemas
+T94	SYMPTOM 3651 3663	QRS estrecho
+T95	SYMPTOM 3665 3711	bajos voltajes en derivaciones de los miembros
+T96	SYMPTOM 3771 3789	ondas T invertidas
+T97	SYMPTOM 3834 3862	índice cardiotorácico normal
+T98	SYMPTOM 3867 3903	pinzamiento de ángulos costofrénicos
+T99	SYMPTOM 3907 3932	aumento de trama vascular
+T100	SYMPTOM 4061 4084	hipocinesia global leve
+T101	SYMPTOM 4675 4690	síndrome febril
+T102	SYMPTOM 5363 5376	ritmo sinusal
+T103	SYMPTOM 5507 5509	RS
+T104	SYMPTOM 5535 5606	ventrículo izquierdo levemente hipertrófico con tamaño y función normal
+T105	SYMPTOM 5645 5672	cavidades derechas normales
+T106	SYMPTOM 5715 5739	PSAP mínimamente elevada
+T107	SYMPTOM 6619 6634	Síndrome febril
+T108	SYMPTOM 6484 6509	FEVI moderadamente afecta
+T109	SYMPTOM 2358 2369	Colaborador
+T110	SYMPTOM 3759 3769	eje normal
+T111	SYMPTOM 501 568	depósito patológico de radiotrazador, de distribución biventricular
+T112	SYMPTOM 1199 1226	afectación cardiaca y renal
+T113	SYMPTOM 3713 3757	progresión anómala de onda R en precordiales
+T114	SYMPTOM 4114 4177	Ventrículo derecho (VD) levemente dilatado con hipocinesia leve
+T115	SYMPTOM 4423 4490	depósito patológico de radiotrazador, de distribución biventricular
+T116	MEDICATION 934 967	paritaprevir/ritonavir/ombitasvir
+T117	MEDICATION 1007 1016	dasabuvir
+T118	MEDICATION 1254 1264	bortezomib
+T119	MEDICATION 1266 1280	ciclofosfamida
+T120	MEDICATION 1283 1295	dexametasona
+T121	MEDICATION 1516 1525	Omeprazol
+T122	MEDICATION 1539 1548	aciclovir
+T123	MEDICATION 1560 1570	hidroferol
+T124	MEDICATION 1582 1592	alopurinol
+T125	MEDICATION 1604 1625	formoterol/budesonida
+T126	MEDICATION 1645 1655	furosemida
+T127	MEDICATION 1713 1721	CyBorDex
+T128	MEDICATION 1723 1737	ciclofosfamida
+T129	MEDICATION 1740 1750	bortezomib
+T130	MEDICATION 1753 1765	dexametasona
+T131	MEDICATION 5307 5317	amiodarona
+T132	MEDICATION 5425 5435	amiodarona
+T133	MEDICATION 6296 6307	rivaroxabán
+#1	AnnotatorNotes T35	 Fibrilación Auricular

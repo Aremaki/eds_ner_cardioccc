@@ -1,0 +1,150 @@
+T1	DISEASE 3840 3862	Regurgitación moderada
+T2	DISEASE 540 562	adenocarcinoma de mama
+T3	DISEASE 1954 1962	flebitis
+T4	DISEASE 2037 2105	calcificación de la válvula aórtica con apertura gravemente limitada
+T5	DISEASE 2116 2175	calcificación del aparato valvular mitral con regurgitación
+T6	DISEASE 2660 2693	hipertrofia ventricular izquierda
+T7	DISEASE 2710 2762	trastorno de la conducción intraventricular tipo BRI
+T8	DISEASE 3732 3806	Doble lesión aórtica sobre válvula gravemente calcificada: estenosis grave
+T9	DISEASE 3877 3952	Regurgitación mitral moderada (II-III/VI) sobre válvula esclerodegenerativa
+T10	DISEASE 4040 4074	Regurgitación tricuspídea moderada
+T11	DISEASE 4167 4200	calcificación de aorta ascendente
+T12	DISEASE 4557 4599	ateromatosis calcificada en aorta torácica
+T13	DISEASE 4649 4729	Calcificación de válvula aórtica, válvula tricúspide y arteria coronaria derecha
+T14	DISEASE 4825 4844	lesiones de DA y CD
+T15	DISEASE 5111 5129	oclusión coronaria
+T16	DISEASE 5172 5186	rotura aórtica
+T17	DISEASE 5538 5556	shock cardiogénico
+T18	DISEASE 5994 6022	disfunción ventricular grave
+T19	DISEASE 6028 6051	estenosis aórtica grave
+T20	DISEASE 6055 6085	regurgitación aórtica moderada
+T21	DISEASE 6134 6173	enfermedad coronaria grave de dos vasos
+T22	DISEASE 6195 6228	calcificación de aorta ascendente
+T23	DISEASE 6571 6592	calcificación aórtica
+T24	DISEASE 6731 6770	regurgitación aórtica al menos moderada
+T25	DISEASE 7003 7022	lesiones coronarias
+T26	DISEASE 7530 7577	parada cardiaca por disociación electromecánica
+T27	DISEASE 7646 7664	oclusión coronaria
+T28	DISEASE 7705 7719	rotura aórtica
+T29	DISEASE 7915 7997	Doble lesión aórtica esclerodegenerativa: estenosis grave y regurgitación moderada
+T30	DISEASE 7999 8062	Regurgitación mitral moderada sobre válvula esclerodegenerativa
+T31	DISEASE 8064 8092	Disfunción ventricular grave
+T32	DISEASE 8105 8126	Cardiopatía isquémica
+T33	DISEASE 8267 8285	Shock cardiogénico
+T34	DISEASE 3703 3730	Aurícula izquierda dilatada
+T35	DISEASE 5065 5092	disociación electromecánica
+T36	DISEASE 5480 5491	hipotensión
+T37	DISEASE 240 251	dislipémica
+T38	DISEASE 4340 4371	Descendente anterior con lesión
+T39	DISEASE 4454 4490	Arteria coronaria derecha con lesión
+T40	DISEASE 7367 7386	lesiones en DA y CD
+T41	DISEASE 7666 7703	extravasación de contraste pericardio
+T42	DISEASE 7723 7745	embolización protésica
+T43	DISEASE 5191 5213	embolización protésica
+T44	DISEASE 8128 8165	enfermedad de dos vasos: CDp 90%, DAm
+T45	DISEASE 8247 8265	Aorta en porcelana
+T46	DISEASE 4202 4277	sigmoideas intensamente calcificadas con apertura reducida, estenosis grave
+T47	PROCEDURE 620 639	mastectomía radical
+T48	PROCEDURE 641 656	linfadenectomia
+T49	PROCEDURE 659 677	quimioradioterapia
+T50	PROCEDURE 1280 1307	interrogatorio por aparatos
+T51	PROCEDURE 1310 1328	Exploración física
+T52	PROCEDURE 1465 1486	Auscultación cardiaca
+T53	PROCEDURE 1652 1673	Auscultación pulmonar
+T54	PROCEDURE 1748 1766	palpación profunda
+T55	PROCEDURE 1975 1998	ecoscopia a pie de cama
+T56	PROCEDURE 2562 2580	Electrocardiograma
+T57	PROCEDURE 2819 2828	Hemograma
+T58	PROCEDURE 3187 3196	Hemograma
+T59	PROCEDURE 3521 3535	Ecocardiograma
+T60	PROCEDURE 4148 4163	Coronariografía
+T61	PROCEDURE 4521 4547	TAC torácico sin contraste
+T62	PROCEDURE 4731 4746	Coronariografía
+T63	PROCEDURE 4761 4844	angioplastia coronaria transluminal percutánea (ACTP) sobre las lesiones de DA y CD
+T64	PROCEDURE 4809 4813	ACTP
+T65	PROCEDURE 4849 4914	implante de sendosstents farmacoactivos liberadores de everolimus
+T66	PROCEDURE 4949 4965	Implante de TAVI
+T67	PROCEDURE 4972 4996	valvuloplastia con balón
+T68	PROCEDURE 5009 5042	implante de prótesis SAPIEN ULTRA
+T69	PROCEDURE 5731 5748	terapia diurética
+T70	PROCEDURE 5902 5928	terapia de ultrafiltración
+T71	PROCEDURE 5936 5960	estudio ecocardiográfico
+T72	PROCEDURE 6095 6110	coronariografía
+T73	PROCEDURE 6249 6275	TAC torácico sin contraste
+T74	PROCEDURE 6365 6393	recambio valvular quirúrgico
+T75	PROCEDURE 6648 6700	canulación para entrada en circulación extracorpórea
+T76	PROCEDURE 6803 6835	valvuloplastia aórtica con balón
+T77	PROCEDURE 6850 6854	TAVI
+T78	PROCEDURE 6967 7022	revascularización percutánea de las lesiones coronarias
+T79	PROCEDURE 7035 7071	recambio valvular aórtico percutáneo
+T80	PROCEDURE 7331 7386	revascularización percutánea de las lesiones en DA y CD
+T81	PROCEDURE 7411 7466	recambio valvular percutáneo por vía femoral de derecha
+T82	PROCEDURE 7501 7528	expansión de la bioprótesis
+T83	PROCEDURE 8171 8245	ICP con implante de sendos stents farmacoactivos liberadores de everolimus
+T84	PROCEDURE 8287 8332	Implante de percutáneo de bioprótesis aórtica
+T85	PROCEDURE 7200 7218	soporte inotrópico
+T86	PROCEDURE 7255 7273	soporte vasopresor
+T87	PROCEDURE 2953 2963	Bioquímica
+T88	PROCEDURE 3319 3329	Bioquímica
+T89	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T90	PROCEDURE 2919 2929	Hemostasia
+T91	PROCEDURE 3287 3297	Hemostasia
+T92	PROCEDURE 2347 2376	Radiografía de tórax portátil
+T93	PROCEDURE 7771 7819	maniobras de reanimación cardiopulmonar avanzada
+T94	PROCEDURE 274 303	hipolipemiante en monoterapia
+T95	PROCEDURE 2797 2806	Analítica
+T96	PROCEDURE 3153 3162	Analítica
+T97	PROCEDURE 4935 4947	angiográfico
+T98	PROCEDURE 5763 5789	perfusión iv de furosemida
+T99	PROCEDURE 5627 5704	soporte vasoactivo con noradrenalina a 12 mcg/min e inotrópico con dobutamina
+T100	SYMPTOM 123 129	disnea
+T101	SYMPTOM 422 436	soplo cardiaco
+T102	SYMPTOM 982 998	disnea en reposo
+T103	SYMPTOM 1019 1027	ortopnea
+T104	SYMPTOM 1084 1129	disminución subjetiva del volumen de diuresis
+T105	SYMPTOM 1181 1204	dolor torácico anginoso
+T106	SYMPTOM 1423 1455	Presión venosa yugular aumentada
+T107	SYMPTOM 1465 1495	Auscultación cardiaca: rítmica
+T108	SYMPTOM 1501 1554	soplo sistólico en foco aórtico irradiado a carótidas
+T109	SYMPTOM 1566 1593	abolición del segundo ruido
+T110	SYMPTOM 1595 1643	Soplo sistólico en foco mitral irradiado a axila
+T111	SYMPTOM 1675 1699	crepitantes mediobasales
+T112	SYMPTOM 1701 1766	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T113	SYMPTOM 1771 1776	masas
+T114	SYMPTOM 1780 1788	megalias
+T115	SYMPTOM 1819 1849	Reflujo hepatoyugular positivo
+T116	SYMPTOM 1896 1939	pulsos periféricos conservados y simétricos
+T117	SYMPTOM 2476 2525	Hilios pulmonares prominentes de aspecto vascular
+T118	SYMPTOM 2527 2560	Signos de redistribución vascular
+T119	SYMPTOM 2613 2622	PR normal
+T120	SYMPTOM 2857 2869	leucocitosis
+T121	SYMPTOM 2873 2893	desviación izquierda
+T122	SYMPTOM 3225 3237	leucocitosis
+T123	SYMPTOM 3241 3261	desviación izquierda
+T124	SYMPTOM 3537 3602	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica
+T125	SYMPTOM 5395 5401	disnea
+T126	SYMPTOM 5413 5455	disminución franca del volumen de diuresis
+T127	SYMPTOM 5480 5491	hipotensión
+T128	SYMPTOM 7832 7838	exitus
+T129	SYMPTOM 1790 1817	Blumberg y Murphy negativos
+T130	SYMPTOM 2582 2601	taquicardia sinusal
+T131	SYMPTOM 2432 2474	Pinzamiento de seno costofrénico izquierdo
+T132	SYMPTOM 3611 3629	Hipocinesia global
+T133	SYMPTOM 4304 4338	Arterias coronarias: tronco normal
+T134	SYMPTOM 2624 2634	Eje normal
+T135	SYMPTOM 1851 1894	Extremidades: sin edemas en partes declives
+T136	SYMPTOM 1135 1165	edematización asociada de MMII
+T137	SYMPTOM 8345 8351	muerte
+T138	SYMPTOM 2774 2794	sobrecarga sistólica
+T139	SYMPTOM 3978 4007	VD de diámetros no aumentados
+T140	SYMPTOM 4399 4452	Arteria circunfleja con irregularidades sin estenosis
+T141	SYMPTOM 4112 4146	Vena cava inferior (VCI) pletórica
+T142	SYMPTOM 5131 5170	extravasación de contraste a pericardio
+T143	MEDICATION 754 766	simvastatina
+T144	MEDICATION 4904 4914	everolimus
+T145	MEDICATION 5650 5663	noradrenalina
+T146	MEDICATION 5694 5704	dobutamina
+T147	MEDICATION 5779 5789	furosemida
+T148	MEDICATION 7162 7175	levosinmendán
+T149	MEDICATION 7316 7318	NA
+T150	MEDICATION 8235 8245	everolimus

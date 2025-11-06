@@ -1,0 +1,128 @@
+T1	ENFERMEDAD 100 115	linfoma Hodgkin
+T2	ENFERMEDAD 349 366	adenoma folicular
+T3	ENFERMEDAD 1324 1336	sepsis grave
+T4	ENFERMEDAD 1790 1823	insuficiencia tricúspide moderada
+T5	ENFERMEDAD 1825 1850	insuficiencia mitral leve
+T6	ENFERMEDAD 2061 2084	endocarditis infecciosa
+T7	ENFERMEDAD 2367 2379	pericarditis
+T8	ENFERMEDAD 2433 2452	derrame pericárdico
+T9	ENFERMEDAD 2479 2590	endocarditis con vegetaciones sobre el velo anterior mitral, velo septal de la tricúspide y unión mitro-aórtica
+T10	ENFERMEDAD 2691 2814	aneurisma de probable origen micótico en la cara anterior de la aorta ascendente así como aorta torácica y arteria pulmonar
+T11	ENFERMEDAD 3163 3259	cara anterior de la aorta y de la grasa epicárdica del ventrículo derecho se apreció un hematoma
+T12	ENFERMEDAD 3409 3427	aneurisma micótico
+T13	ENFERMEDAD 3592 3610	aneurisma micótico
+T14	ENFERMEDAD 4043 4061	aneurisma micótico
+T15	ENFERMEDAD 5412 5425	shock séptico
+T16	ENFERMEDAD 5428 5449	fracaso multiorgánico
+T17	ENFERMEDAD 5528 5567	candidiasis invasiva en hígado y pulmón
+T18	ENFERMEDAD 1664 1687	bloqueo AV de 2.o grado
+T19	ENFERMEDAD 1702 1721	bloqueo AV completo
+T20	ENFERMEDAD 1508 1522	edema pulmonar
+T21	ENFERMEDAD 3315 3323	hematoma
+T22	ENFERMEDAD 940 951	hipotensión
+T23	ENFERMEDAD 5268 5279	hipotensión
+T24	ENFERMEDAD 3520 3579	aorta ascendente, observándose abundantes placas de ateroma
+T25	ENFERMEDAD 3744 3785	válvula aórtica se observó una vegetación
+T26	ENFERMEDAD 4196 4256	vegetación en la comisura entre el velo anterior y el septal
+T27	ENFERMEDAD 4507 4547	vegetación sobre el velo anterior mitral
+T28	ENFERMEDAD 1927 1967	vegetación sobre el velo anterior mitral
+T29	ENFERMEDAD 2595 2620	insuficiencias valvulares
+T30	ENFERMEDAD 4285 4337	vegetación resecada en la cara ventricular izquierda
+T31	PROCEDIMIENTO 149 162	esplenectomía
+T32	PROCEDIMIENTO 164 211	biopsia hepática y de los ganglios mesentéricos
+T33	PROCEDIMIENTO 257 284	radioterapia sobre el tórax
+T34	PROCEDIMIENTO 327 344	hemitiroidectomía
+T35	PROCEDIMIENTO 628 647	ecografía abdominal
+T36	PROCEDIMIENTO 653 688	radiología simple torácica y lumbar
+T37	PROCEDIMIENTO 722 740	electrocardiograma
+T38	PROCEDIMIENTO 959 978	analítica de sangre
+T39	PROCEDIMIENTO 1278 1290	hemocultivos
+T40	PROCEDIMIENTO 1293 1303	urocultivo
+T41	PROCEDIMIENTO 1362 1386	fluidoterapia de rescate
+T42	PROCEDIMIENTO 1399 1422	tratamiento antibiótico
+T43	PROCEDIMIENTO 1593 1603	intubación
+T44	PROCEDIMIENTO 1606 1626	ventilación mecánica
+T45	PROCEDIMIENTO 1634 1652	electrocardiograma
+T46	PROCEDIMIENTO 1749 1778	ecocardiograma transesofágico
+T47	PROCEDIMIENTO 2100 2123	tratamiento antibiótico
+T48	PROCEDIMIENTO 2229 2239	extubación
+T49	PROCEDIMIENTO 2407 2421	ecocardiograma
+T50	PROCEDIMIENTO 2647 2676	angiotomografía computarizada
+T51	PROCEDIMIENTO 3302 3323	desbridar el hematoma
+T52	PROCEDIMIENTO 3505 3536	apertura de la aorta ascendente
+T53	PROCEDIMIENTO 3986 4027	Se resecó la porción de la pared de aorta
+T54	PROCEDIMIENTO 4079 4135	cierre directo de la aorta respetando la válvula aórtica
+T55	PROCEDIMIENTO 4152 4173	auriculotomía derecha
+T56	PROCEDIMIENTO 4595 4670	se implantó un marcapasos epicárdico definitivo sobre el ventrículo derecho
+T57	PROCEDIMIENTO 4677 4689	hemocultivos
+T58	PROCEDIMIENTO 4692 4703	urocultivos
+T59	PROCEDIMIENTO 4729 4760	cultivo del líquido pericárdico
+T60	PROCEDIMIENTO 5065 5081	l ecocardiograma
+T61	PROCEDIMIENTO 5288 5300	hemocultivos
+T62	PROCEDIMIENTO 5362 5385	tratamiento antifúngico
+T63	PROCEDIMIENTO 5498 5516	estudio necrópsico
+T64	PROCEDIMIENTO 3443 3468	circulación extracorpórea
+T65	PROCEDIMIENTO 2989 2996	cultivo
+T66	PROCEDIMIENTO 4808 4835	cultivo de las vegetaciones
+T67	PROCEDIMIENTO 4878 4913	reacción en cadena de la polimerasa
+T68	PROCEDIMIENTO 1175 1193	sedimento urinario
+T69	PROCEDIMIENTO 3261 3270	Se canuló
+T70	PROCEDIMIENTO 3471 3487	pinzada la aorta
+T71	PROCEDIMIENTO 3775 3830	vegetación anclada al septo membranoso que fue resecada
+T72	PROCEDIMIENTO 3843 3927	pincelar el septo con povidona iodada se dio un punto de sutura reforzado con Teflon
+T73	PROCEDIMIENTO 4285 4337	vegetación resecada en la cara ventricular izquierda
+T74	PROCEDIMIENTO 4339 4362	Se resecó la vegetación
+T75	PROCEDIMIENTO 4364 4387	se pinceló con Betadine
+T76	PROCEDIMIENTO 4390 4435	se reforzó la comisura con un punto de sutura
+T77	PROCEDIMIENTO 4452 4484	se abrió el septo interauricular
+T78	PROCEDIMIENTO 4507 4564	vegetación sobre el velo anterior mitral que fue resecada
+T79	PROCEDIMIENTO 4915 4918	PCR
+T80	PROCEDIMIENTO 1551 1581	aporte de líquidos endovenosos
+T81	PROCEDIMIENTO 2896 2919	apertura del pericardio
+T82	PROCEDIMIENTO 2864 2871	cirugía
+T83	PROCEDIMIENTO 4582 4594	intervención
+T84	PROCEDIMIENTO 5183 5195	intervención
+T85	PROCEDIMIENTO 5478 5490	intervención
+T86	PROCEDIMIENTO 1979 2000	perfusión de dopamina
+T87	PROCEDIMIENTO 3324 3346	drenando abundante pus
+T88	SINTOMA 395 407	asintomático
+T89	SINTOMA 493 509	malestar general
+T90	SINTOMA 511 519	mialgias
+T91	SINTOMA 521 531	artralgias
+T92	SINTOMA 533 545	dolor lumbar
+T93	SINTOMA 547 554	vómitos
+T94	SINTOMA 556 563	diarrea
+T95	SINTOMA 566 575	febrícula
+T96	SINTOMA 611 623	leucocitosis
+T97	SINTOMA 752 772	ritmo sinusal normal
+T98	SINTOMA 807 816	lumbalgia
+T99	SINTOMA 912 920	tiritona
+T100	SINTOMA 922 928	fiebre
+T101	SINTOMA 940 951	hipotensión
+T102	SINTOMA 1489 1505	disnea de reposo
+T103	SINTOMA 2335 2354	dolor retroesternal
+T104	SINTOMA 4677 4724	hemocultivos y urocultivos resultaron negativos
+T105	SINTOMA 4729 4796	cultivo del líquido pericárdico resultó positivo para S. pneumoniae
+T106	SINTOMA 5215 5254	deterioro progresivo del estado general
+T107	SINTOMA 5259 5265	fiebre
+T108	SINTOMA 5268 5279	hipotensión
+T109	SINTOMA 5288 5348	hemocultivos resultaron positivos para Candida orthopsilosis
+T110	SINTOMA 5399 5407	falleció
+T111	SINTOMA 3625 3636	inflamación
+T112	SINTOMA 3361 3378	sangrado arterial
+T113	SINTOMA 1853 1885	válvula aórtica normofuncionante
+T114	SINTOMA 4808 4848	cultivo de las vegetaciones fue negativo
+T115	SINTOMA 4878 4955	reacción en cadena de la polimerasa (PCR) resultó positivo para S. pneumoniae
+T116	SINTOMA 1205 1216	bacteriuria
+T117	SINTOMA 5082 5108	válvulas normofuncionantes
+T118	SINTOMA 628 714	ecografía abdominal y la radiología simple torácica y lumbar no revelaron alteraciones
+T119	SINTOMA 2924 2972	líquido pericárdico era de aspecto sanguinolento
+T120	SINTOMA 3643 3685	válvula aórtica pequeña, fina y competente
+T121	FARMACO 1427 1436	meropenem
+T122	FARMACO 1439 1448	linezolid
+T123	FARMACO 1992 2000	dopamina
+T124	FARMACO 2135 2146	cloxacilina
+T125	FARMACO 2148 2159	daptomicina
+T126	FARMACO 2162 2173	gentamicina
+#1	AnnotatorNotes T18	 bloqueo AV:  bloqueo auriculoventricular
+#2	AnnotatorNotes T19	 bloqueo AV: bloqueo auriculoventricular

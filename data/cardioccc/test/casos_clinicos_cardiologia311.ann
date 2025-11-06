@@ -1,0 +1,89 @@
+T1	ENFERMEDAD 131 157	calcificaciones coronarias
+T2	ENFERMEDAD 214 230	cáncer de pulmón
+T3	ENFERMEDAD 266 287	hipertensión arterial
+T4	ENFERMEDAD 289 292	HTA
+T5	ENFERMEDAD 354 365	prediabetes
+T6	ENFERMEDAD 368 376	obesidad
+T7	ENFERMEDAD 421 437	hábito tabáquico
+T8	ENFERMEDAD 496 566	enfermedad pulmonar obstructiva crónica (EPOC) tipo bronquitis crónica
+T9	ENFERMEDAD 537 541	EPOC
+T10	ENFERMEDAD 569 600	hipertrofia benigna de próstata
+T11	ENFERMEDAD 602 605	HBP
+T12	ENFERMEDAD 828 850	insuficiencia cardiaca
+T13	ENFERMEDAD 1458 1485	isquemia miocárdica silente
+T14	ENFERMEDAD 1550 1567	enfisema pulmonar
+T15	ENFERMEDAD 1663 1697	adenopatías en región mediastínica
+T16	ENFERMEDAD 1699 1741	Calcificación grave de arterias coronarias
+T17	ENFERMEDAD 1770 1791	calcificación aórtica
+T18	ENFERMEDAD 1917 1932	derrame pleural
+T19	ENFERMEDAD 1944 1990	calcificaciones en arterias coronarias y aorta
+T20	ENFERMEDAD 2366 2406	Extrasistolia supraventricular ocasional
+T21	ENFERMEDAD 2940 2948	isquemia
+T22	ENFERMEDAD 3095 3137	calcificación grave de arterias coronarias
+T23	ENFERMEDAD 3198 3206	isquemia
+T24	ENFERMEDAD 3832 3867	Aterosclerosis coronaria subclínica
+T25	ENFERMEDAD 3869 3898	Calcificación coronaria grave
+T26	ENFERMEDAD 3960 3970	Dislipemia
+T27	ENFERMEDAD 3994 4015	Hipertensión arterial
+T28	ENFERMEDAD 4063 4071	Obesidad
+T29	ENFERMEDAD 2866 2875	arritmias
+T30	ENFERMEDAD 3946 3958	extabaquismo
+T31	ENFERMEDAD 4034 4061	Glucemia alterada en ayunas
+T32	PROCEDIMIENTO 188 199	TC torácico
+T33	PROCEDIMIENTO 1133 1154	auscultación cardiaca
+T34	PROCEDIMIENTO 1193 1214	auscultación pulmonar
+T35	PROCEDIMIENTO 1406 1433	ergometría en tapiz rodante
+T36	PROCEDIMIENTO 1513 1538	TC torácico sin contraste
+T37	PROCEDIMIENTO 1793 1828	Radiografía de tórax (PA y lateral)
+T38	PROCEDIMIENTO 1992 2011	Analítica sanguínea
+T39	PROCEDIMIENTO 2186 2195	hemograma
+T40	PROCEDIMIENTO 2198 2209	coagulación
+T41	PROCEDIMIENTO 2228 2231	ECG
+T42	PROCEDIMIENTO 2408 2435	Ergometría en tapiz rodante
+T43	PROCEDIMIENTO 2507 2530	Test de esfuerzo máximo
+T44	PROCEDIMIENTO 3213 3223	ergometría
+T45	PROCEDIMIENTO 3558 3586	medidas higiénico-dietéticas
+T46	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDIMIENTO 3588 3598	toma de PA
+T48	PROCEDIMIENTO 3738 3747	analítica
+T49	SINTOMA 760 804	dolor torácico en reposo o con los esfuerzos
+T50	SINTOMA 879 891	asintomático
+T51	SINTOMA 926 945	buen estado general
+T52	SINTOMA 947 961	normocoloreado
+T53	SINTOMA 964 978	normohidratado
+T54	SINTOMA 980 998	Eupneico en reposo
+T55	SINTOMA 1099 1128	Presión venosa yugular normal
+T56	SINTOMA 1133 1165	auscultación cardiaca es rítmica
+T57	SINTOMA 1170 1176	soplos
+T58	SINTOMA 1224 1253	murmullo vesicular conservado
+T59	SINTOMA 1258 1278	ruidos sobreañadidos
+T60	SINTOMA 1284 1345	pulsos radiales y pedios con palpables, rítmicos y simétricos
+T61	SINTOMA 1359 1365	edemas
+T62	SINTOMA 1609 1614	masas
+T63	SINTOMA 1894 1907	consolidación
+T64	SINTOMA 1909 1914	masas
+T65	SINTOMA 2239 2252	ritmo sinusal
+T66	SINTOMA 2263 2272	PR normal
+T67	SINTOMA 2305 2317	QRS estrecho
+T68	SINTOMA 2319 2336	onda q en I y aVL
+T69	SINTOMA 2338 2364	Inversión de onda T en aVL
+T70	SINTOMA 2583 2596	Bien tolerado
+T71	SINTOMA 2692 2727	Capacidad funcional aeróbica normal
+T72	SINTOMA 3024 3036	asintomático
+T73	SINTOMA 3633 3648	pérdida de peso
+T74	SINTOMA 3900 3912	asintomático
+T75	SINTOMA 1617 1635	nódulos pulmonares
+T76	SINTOMA 2186 2226	hemograma y coagulación sin alteraciones
+T77	SINTOMA 3165 3181	clínica anginosa
+T78	SINTOMA 325 352	glucemia alterada en ayunas
+T79	SINTOMA 1834 1879	alteraciones en la silueta cardiomediastínica
+T80	SINTOMA 2283 2296	Eje izquierdo
+T81	SINTOMA 3790 3817	glucemia alterada en ayunas
+T82	FARMACO 644 656	simvastatina
+T83	FARMACO 668 678	terazosina
+T84	FARMACO 689 716	valsartán/hidroclorotiazida
+T85	FARMACO 733 742	omeprazol
+T86	FARMACO 3384 3396	simvastatina
+T87	FARMACO 3411 3424	rosuvastatina
+T88	FARMACO 3503 3525	ácido acetilsalicílico
+T89	FARMACO 3527 3530	AAS

@@ -1,0 +1,54 @@
+T1	ENFERMEDAD 1083 1110	mala tolerancia a estatinas
+T2	ENFERMEDAD 68 98	Hipertensión arterial esencial
+T3	ENFERMEDAD 100 108	Obesidad
+T4	ENFERMEDAD 141 186	Síndrome coronario agudo sin elevación del ST
+T5	ENFERMEDAD 188 195	SCASEST
+T6	ENFERMEDAD 304 389	Hipercolesterolemia familiar heterocigota con mutación patogénica del receptor de LDL
+T7	ENFERMEDAD 424 479	Ateromatosis de grandes vasos, con afectación carotídea
+T8	ENFERMEDAD 507 537	Trastorno restrictivo pulmonar
+T9	ENFERMEDAD 554 590	síndrome de hipoventilación obesidad
+T10	ENFERMEDAD 634 642	alergias
+T11	ENFERMEDAD 654 678	Intolerancia a estatinas
+T12	ENFERMEDAD 1053 1060	SCASEST
+T13	ENFERMEDAD 3641 3700	Hipercolesterolemia familiar heterocigota con daño vascular
+T14	PROCEDIMIENTO 605 629	estudio polisomnográfico
+T15	PROCEDIMIENTO 996 1022	tratamiento hipolipemiante
+T16	PROCEDIMIENTO 1480 1512	inhibidores de la proteína PCSK9
+T17	PROCEDIMIENTO 1598 1616	EXPLORACIÓN FÍSICA
+T18	PROCEDIMIENTO 1736 1757	Auscultación cardiaca
+T19	PROCEDIMIENTO 1779 1800	Auscultación pulmonar
+T20	PROCEDIMIENTO 2509 2512	ECG
+T21	PROCEDIMIENTO 3767 3815	tratamiento con inhibidores de la proteína PCSK9
+T22	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T23	PROCEDIMIENTO 237 302	stent convencional en el segundo episodio en la coronaria derecha
+T24	PROCEDIMIENTO 494 505	eco-Doppler
+T25	PROCEDIMIENTO 3537 3546	analítica
+T26	SINTOMA 695 703	mialgias
+T27	SINTOMA 706 743	elevación de enzimas de daño muscular
+T28	SINTOMA 1116 1134	dolores musculares
+T29	SINTOMA 1137 1152	elevación de CK
+T30	SINTOMA 1736 1766	Auscultación cardiaca: rítmico
+T31	SINTOMA 1771 1777	soplos
+T32	SINTOMA 1802 1826	hipoventilación en bases
+T33	SINTOMA 1828 1856	Pulsos periféricos presentes
+T34	SINTOMA 1868 1907	edemas con fóvea en miembros inferiores
+T35	SINTOMA 2514 2527	ritmo sinusal
+T36	SINTOMA 2553 2565	QRS estrecho
+T37	SINTOMA 2582 2622	alteraciones agudas de la repolarización
+T38	SINTOMA 3042 3073	niveles tan bajos de colesterol
+T39	SINTOMA 3229 3267	subida de las cifras de colesterol LDL
+T40	SINTOMA 3391 3431	descenso de las cifras de colesterol LDL
+T41	FARMACO 669 678	estatinas
+T42	FARMACO 770 792	ácido acetilsalicílico
+T43	FARMACO 794 797	AAS
+T44	FARMACO 807 815	atenolol
+T45	FARMACO 823 836	atorvastatina
+T46	FARMACO 844 853	ezetimibe
+T47	FARMACO 1196 1209	atorvastatina
+T48	FARMACO 1249 1262	atorvastatina
+T49	FARMACO 1276 1285	ezetimibe
+T50	FARMACO 1526 1536	evolocumab
+T51	FARMACO 2683 2693	evolocumab
+T52	FARMACO 2929 2939	evolocumab
+T53	FARMACO 3479 3488	ezetimibe
+T54	FARMACO 1101 1110	estatinas

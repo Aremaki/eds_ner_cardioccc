@@ -1,0 +1,132 @@
+T1	ENFERMEDAD 131 143	hipertensión
+T2	ENFERMEDAD 145 155	Dislipemia
+T3	ENFERMEDAD 180 213	fibrilación auricular paroxística
+T4	ENFERMEDAD 316 339	neumopatía intersticial
+T5	ENFERMEDAD 369 397	fibrilación auricular rápida
+T6	ENFERMEDAD 420 441	edema agudo de pulmón
+T7	ENFERMEDAD 527 566	insuficiencia mitral moderada reumática
+T8	ENFERMEDAD 582 621	dilatación severa de aurícula izquierda
+T9	ENFERMEDAD 655 658	TVP
+T10	ENFERMEDAD 661 664	TEP
+T11	ENFERMEDAD 719 740	fibrilación auricular
+T12	ENFERMEDAD 743 760	Carcinoma de mama
+T13	ENFERMEDAD 807 830	Neumopatía intersticial
+T14	ENFERMEDAD 1090 1111	fibrilación auricular
+T15	ENFERMEDAD 1255 1283	trombo en orejuela izquierda
+T16	ENFERMEDAD 1526 1548	flúter auricular común
+T17	ENFERMEDAD 1579 1600	trombo de la orejuela
+T18	ENFERMEDAD 1925 1998	hematoma de pared abdominal con sangrado activo de la arteria epigástrica
+T19	ENFERMEDAD 2241 2291	hematoma en pared a nivel del hemiabdomen inferior
+T20	ENFERMEDAD 2346 2374	insuficiencia venosa crónica
+T21	ENFERMEDAD 2469 2497	fibrilación auricular rápida
+T22	ENFERMEDAD 2657 2678	fibrilación auricular
+T23	ENFERMEDAD 2787 2821	trombo móvil en orejuela izquierda
+T24	ENFERMEDAD 2839 2896	Válvula mitral sin estenosis y con insuficiencia moderada
+T25	ENFERMEDAD 2898 2944	Dilatación aneurismática de aurícula izquierda
+T26	ENFERMEDAD 3152 3168	flúter auricular
+T27	ENFERMEDAD 3211 3239	trombo en orejuela izquierda
+T28	ENFERMEDAD 3268 3341	Lesión orgánica mitral degenerativa que genera una insuficiencia moderada
+T29	ENFERMEDAD 3343 3376	Insuficiencia tricúspide moderada
+T30	ENFERMEDAD 3521 3551	hematoma de la pared abdominal
+T31	ENFERMEDAD 3571 3592	fibrilación auricular
+T32	ENFERMEDAD 3875 3952	hematoma de pared abdominal anterior, localizado en el músculo recto anterior
+T33	ENFERMEDAD 4127 4198	sangrado activo arterial dependiente de la arteria epigástrica inferior
+T34	ENFERMEDAD 4536 4557	fibrilación auricular
+T35	ENFERMEDAD 5199 5220	trombo en la orejuela
+T36	ENFERMEDAD 5248 5259	fibrilación
+T37	ENFERMEDAD 5262 5278	flúter auricular
+T38	ENFERMEDAD 5678 5705	insuficiencia mitral severa
+T39	ENFERMEDAD 5939 5972	Fibrilación auricular paroxística
+T40	ENFERMEDAD 5974 5996	Flúter auricular común
+T41	ENFERMEDAD 6038 6064	Flúter auricular izquierdo
+T42	ENFERMEDAD 6066 6101	Síndrome de bradicardia-taquicardia
+T43	ENFERMEDAD 6138 6177	Insuficiencia mitral moderada reumática
+T44	ENFERMEDAD 6231 6259	Trombo en orejuela izquierda
+T45	ENFERMEDAD 6317 6396	Hematoma espontáneo de los rectos por sangrado de arteria epigástrica izquierda
+T46	ENFERMEDAD 6450 6461	anemización
+T47	ENFERMEDAD 3378 3410	Dilatación de aurícula izquierda
+T48	ENFERMEDAD 2946 3005	Válvula aórtica esclerocalcificada y con insuficiencia leve
+T49	ENFERMEDAD 1705 1721	flúter izquierdo
+T50	ENFERMEDAD 3609 3625	flúter izquierdo
+T51	ENFERMEDAD 3007 3014	IT leve
+T52	ENFERMEDAD 4562 4576	flúter atípico
+T53	PROCEDIMIENTO 444 467	cardioversión eléctrica
+T54	PROCEDIMIENTO 483 497	ecocardiograma
+T55	PROCEDIMIENTO 784 796	radioterapia
+T56	PROCEDIMIENTO 1135 1150	betabloqueantes
+T57	PROCEDIMIENTO 1204 1233	ecocardiograma transesofágico
+T58	PROCEDIMIENTO 1630 1665	ablación del istmo cavo tricuspídeo
+T59	PROCEDIMIENTO 1920 1923	TAC
+T60	PROCEDIMIENTO 2001 2019	Exploración física
+T61	PROCEDIMIENTO 2148 2175	Auscultación cardiopulmonar
+T62	PROCEDIMIENTO 2652 2655	ECG
+T63	PROCEDIMIENTO 2756 2785	Ecocardiograma transesofágico
+T64	PROCEDIMIENTO 3170 3199	Ecocardiograma transesofágico
+T65	PROCEDIMIENTO 3553 3556	ECG
+T66	PROCEDIMIENTO 3861 3873	TC abdominal
+T67	PROCEDIMIENTO 4249 4319	Se revirtió la anticoagulación con vitamina K y complejo protrombínico
+T68	PROCEDIMIENTO 4297 4319	complejo protrombínico
+T69	PROCEDIMIENTO 4420 4464	se transfundieron 2 concentrados de hematíes
+T70	PROCEDIMIENTO 4838 4853	anticoagulación
+T71	PROCEDIMIENTO 5120 5149	ecocardiograma transesofágico
+T72	PROCEDIMIENTO 5344 5364	ablación del nodo AV
+T73	PROCEDIMIENTO 5367 5398	implantación de marcapasos DDDR
+T74	PROCEDIMIENTO 5784 5839	sustitución valvular mitral por bioprótesis Epic Mitral
+T75	PROCEDIMIENTO 5863 5907	ligadura quirúrgica de la orejuela izquierda
+T76	PROCEDIMIENTO 6001 6036	ablación del istmo cavo tricuspídeo
+T77	PROCEDIMIENTO 6179 6229	Sustitución valvular con prótesis mitral biológica
+T78	PROCEDIMIENTO 6271 6315	Ligadura quirúrgica de la orejuela izquierda
+T79	PROCEDIMIENTO 6412 6444	anticoagulación con acenocumarol
+T80	PROCEDIMIENTO 6474 6519	Embolización de arteria epigástrica izquierda
+T81	PROCEDIMIENTO 6521 6541	Ablación del nodo AV
+T82	PROCEDIMIENTO 6543 6570	Implante de marcapasos DDDR
+T83	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T84	PROCEDIMIENTO 2206 2215	palpación
+T85	PROCEDIMIENTO 4332 4362	se embolizó el punto sangrante
+T86	PROCEDIMIENTO 2499 2508	Analítica
+T87	PROCEDIMIENTO 3695 3704	Analítica
+T88	PROCEDIMIENTO 774 781	cirugía
+T89	PROCEDIMIENTO 4943 4980	perfusión continua de heparina sódica
+T90	SINTOMA 568 579	FEVI normal
+T91	SINTOMA 1855 1870	dolor abdominal
+T92	SINTOMA 2020 2042	Regular estado general
+T93	SINTOMA 2044 2059	palidez cutánea
+T94	SINTOMA 2061 2069	sudorosa
+T95	SINTOMA 2071 2082	taquipneica
+T96	SINTOMA 2113 2120	Afebril
+T97	SINTOMA 2125 2146	ingurgitación yugular
+T98	SINTOMA 2148 2182	Auscultación cardiopulmonar normal
+T99	SINTOMA 2184 2235	Abdomen doloroso a la palpación en flanco izquierdo
+T100	SINTOMA 2296 2317	irritación peritoneal
+T101	SINTOMA 2384 2401	edemas maleolares
+T102	SINTOMA 2403 2420	pulsos simétricos
+T103	SINTOMA 2587 2599	PCR negativa
+T104	SINTOMA 2690 2702	QRS estrecho
+T105	SINTOMA 3056 3098	Función sistólica biventricular conservada
+T106	SINTOMA 4895 4903	sangrado
+T107	SINTOMA 4781 4792	bradicardia
+T108	SINTOMA 2704 2714	eje normal
+T109	SINTOMA 2744 2754	sobrecarga
+T110	FARMACO 245 252	sintrom
+T111	FARMACO 277 287	amiodarona
+T112	FARMACO 854 864	amiodarona
+T113	FARMACO 930 939	enalapril
+T114	FARMACO 950 960	torasemida
+T115	FARMACO 969 981	acenocumarol
+T116	FARMACO 1012 1025	atorvastatina
+T117	FARMACO 1448 1456	atenolol
+T118	FARMACO 1459 1470	enoxaparina
+T119	FARMACO 1750 1758	atenolol
+T120	FARMACO 1760 1768	digoxina
+T121	FARMACO 1808 1820	acenocumarol
+T122	FARMACO 4284 4294	vitamina K
+T123	FARMACO 4692 4700	atenolol
+T124	FARMACO 4703 4711	digoxina
+T125	FARMACO 4965 4980	heparina sódica
+T126	FARMACO 5012 5020	apixabán
+T127	FARMACO 5517 5525	apixabán
+T128	FARMACO 5536 5544	atenolol
+T129	FARMACO 5580 5593	atorvastatina
+T130	FARMACO 5605 5616	pantoprazol
+T131	FARMACO 5629 5639	furosemida
+T132	FARMACO 6432 6444	acenocumarol

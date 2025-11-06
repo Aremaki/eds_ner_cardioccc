@@ -1,0 +1,75 @@
+T1	ENFERMEDAD 70 80	hipertensa
+T2	ENFERMEDAD 82 98	diabética tipo 2
+T3	ENFERMEDAD 100 111	dislipémica
+T4	ENFERMEDAD 113 123	exfumadora
+T5	ENFERMEDAD 127 139	hipotiroidea
+T6	ENFERMEDAD 161 173	rectorragias
+T7	ENFERMEDAD 179 262	accidente cerebrovascular transitorio en el territorio de la arteria cerebral media
+T8	ENFERMEDAD 1225 1265	trastorno de conducción por rama derecha
+T9	ENFERMEDAD 1280 1294	isquemia aguda
+T10	ENFERMEDAD 1525 1537	coagulopatía
+T11	ENFERMEDAD 1575 1650	ventrículo izquierdo (VI) no dilatado con hipertrofia grave del septo basal
+T12	ENFERMEDAD 1828 1850	Estenosis aórtica leve
+T13	ENFERMEDAD 1861 1874	valvulopatías
+T14	ENFERMEDAD 1879 1898	derrame pericárdico
+T15	ENFERMEDAD 1917 1966	lesión grave en el ostium de la coronaria derecha
+T16	ENFERMEDAD 2052 2090	Lesión moderada en la primera diagonal
+T17	ENFERMEDAD 2420 2455	FA con respuesta ventricular rápida
+T18	ENFERMEDAD 2945 3001	Infarto agudo de miocardio sin elevación del segmento ST
+T19	ENFERMEDAD 1150 1152	FA
+T20	ENFERMEDAD 3066 3068	FA
+T21	ENFERMEDAD 3003 3010	IAMSEST
+T22	ENFERMEDAD 1193 1223	hemibloqueo anterior izquierdo
+T23	ENFERMEDAD 2881 2916	eventos trombóticos ni hemorrágicos
+T24	ENFERMEDAD 3013 3040	Lesión crítica en CD ostial
+T25	ENFERMEDAD 2600 2610	hemorragia
+T26	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T27	PROCEDIMIENTO 892 919	auscultación cardiopulmonar
+T28	PROCEDIMIENTO 993 1014	auscultación pulmonar
+T29	PROCEDIMIENTO 1124 1142	ELECTROCARDIOGRAMA
+T30	PROCEDIMIENTO 1144 1147	ECG
+T31	PROCEDIMIENTO 1356 1371	perfil hepático
+T32	PROCEDIMIENTO 1539 1567	ECOCARDIOGRAMA TRANSTORÁCICO
+T33	PROCEDIMIENTO 1569 1572	ETT
+T34	PROCEDIMIENTO 1900 1915	CORONARIOGRAFÍA
+T35	PROCEDIMIENTO 2265 2285	doble antiagregación
+T36	PROCEDIMIENTO 2463 2495	cardiovertida farmacológicamente
+T37	PROCEDIMIENTO 1296 1305	ANALÍTICA
+T38	PROCEDIMIENTO 3031 3064	CD ostial revascularizada con DES
+T39	PROCEDIMIENTO 1949 2037	coronaria derecha (CD) que se revasculariza con un stent farmacoactivo (DES) de biolimus
+T40	PROCEDIMIENTO 2710 2720	Redual-PCI
+T41	SINTOMA 303 317	dolor torácico
+T42	SINTOMA 320 326	disnea
+T43	SINTOMA 411 440	dolor centrotorácico opresivo
+T44	SINTOMA 505 511	disnea
+T45	SINTOMA 527 545	cortejo vegetativo
+T46	SINTOMA 599 624	hemodinámicamente estable
+T47	SINTOMA 695 710	bien perfundida
+T48	SINTOMA 741 749	eupneica
+T49	SINTOMA 755 774	buen estado general
+T50	SINTOMA 776 786	consciente
+T51	SINTOMA 789 798	orientada
+T52	SINTOMA 804 848	pulsos carotídeos eran rítmicos y simétricos
+T53	SINTOMA 864 885	ingurgitación yugular
+T54	SINTOMA 933 956	soplo sistólico aórtico
+T55	SINTOMA 993 1021	auscultación pulmonar normal
+T56	SINTOMA 1037 1097	edemas en miembros inferiores estando los pulsos conservados
+T57	SINTOMA 1164 1176	QRS estrecho
+T58	SINTOMA 1334 1354	alteraciones iónicas
+T59	SINTOMA 1356 1395	perfil hepático dentro de la normalidad
+T60	SINTOMA 1492 1504	leucocitosis
+T61	SINTOMA 1508 1519	neutrofilia
+T62	SINTOMA 1660 1720	Fracción eyección del ventrículo izquierdo (FEVI) conservada
+T63	SINTOMA 1731 1764	contractilidad segmentaria normal
+T64	SINTOMA 2976 3001	elevación del segmento ST
+T65	SINTOMA 1796 1826	Ventrículo derecho (VD) normal
+T66	SINTOMA 1178 1191	eje izquierdo
+T67	FARMACO 2290 2312	ácido acetilsalicílico
+T68	FARMACO 2314 2317	AAS
+T69	FARMACO 2340 2350	ticagrelor
+T70	FARMACO 2500 2510	amiodarona
+T71	FARMACO 2750 2760	ticagrelor
+T72	FARMACO 2798 2808	dabigatrán
+#1	AnnotatorNotes T19	  fibrilación auricular
+#2	AnnotatorNotes T20	  fibrilación auricular
+#3	AnnotatorNotes T24	CD: coronaria derecha

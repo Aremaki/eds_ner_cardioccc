@@ -1,0 +1,138 @@
+T1	DISEASE 122 145	alergias medicamentosas
+T2	DISEASE 195 206	cardiopatía
+T3	DISEASE 209 222	muerte súbita
+T4	DISEASE 229 244	hábitos tóxicos
+T5	DISEASE 254 281	consumo moderado de alcohol
+T6	DISEASE 309 316	fumador
+T7	DISEASE 366 387	hipertensión arterial
+T8	DISEASE 390 400	dislipemia
+T9	DISEASE 484 500	obesidad mórbida
+T10	DISEASE 548 581	síndrome de apnea del sueño grave
+T11	DISEASE 600 614	hipotiroidismo
+T12	DISEASE 1624 1645	fibrilación auricular
+T13	DISEASE 1647 1649	FA
+T14	DISEASE 2899 2963	Válvula tricúspide con buena apertura y movilidad; insuficiencia
+T15	DISEASE 3099 3118	derrame pericárdico
+T16	DISEASE 3674 3695	fibrilación auricular
+T17	DISEASE 3880 3913	insuficiencia cardiaca congestiva
+T18	DISEASE 3919 3973	fibrilación auricular con respuesta ventricular rápida
+T19	DISEASE 4012 4042	disfunción sistólica izquierda
+T20	DISEASE 4530 4551	hipertensión pulmonar
+T21	DISEASE 4681 4730	etiología isquémica de la miocardiopatía dilatada
+T22	DISEASE 4865 4887	insuficiencia cardiaca
+T23	DISEASE 4940 4976	miocardiopatía dilatada no isquémica
+T24	DISEASE 5056 5075	taquimiocardiopatía
+T25	DISEASE 5169 5223	insuficiencia cardiaca con función sistólica deprimida
+T26	DISEASE 5666 5677	prediabetes
+T27	DISEASE 5680 5696	obesidad mórbida
+T28	DISEASE 5895 5910	apnea del sueño
+T29	DISEASE 5948 5969	fibrilación auricular
+T30	DISEASE 7004 7026	insuficiencia cardiaca
+T31	DISEASE 7368 7390	Insuficiencia cardiaca
+T32	DISEASE 7451 7487	Miocardiopatía dilatada no isquémica
+T33	DISEASE 7497 7521	daño tóxico por enolismo
+T34	DISEASE 7524 7542	taquimiocardipatía
+T35	DISEASE 7554 7575	Fibrilación auricular
+T36	DISEASE 7680 7717	Síndrome de apnea del sueño muy grave
+T37	DISEASE 7719 7735	Obesidad mórbida
+T38	DISEASE 7737 7758	Hipertensión arterial
+T39	DISEASE 7785 7796	Prediabetes
+T40	DISEASE 2724 2761	Aurícula derecha ligeramente dilatada
+T41	DISEASE 7577 7579	FA
+T42	DISEASE 2777 2804	Ventrículo derecho dilatado
+T43	DISEASE 2460 2503	Ventrículo izquierdo moderadamente dilatado
+T44	DISEASE 2274 2312	aurícula izquierda gravemente dilatada
+T45	DISEASE 1742 1755	cardiomegalia
+T46	DISEASE 3236 3256	regurgitación mitral
+T47	DISEASE 918 926	síncopes
+T48	DISEASE 3170 3230	ventrículo izquierdo dilatado con disfunción sistólica grave
+T49	DISEASE 2689 2722	Raíz aórtica ligeramente dilatada
+T50	DISEASE 2977 3004	Vena cava inferior dilatada
+T51	DISEASE 4745 4825	lesiones angiográficamente significativas en las arterias coronarias epicárdicas
+T52	DISEASE 3312 3392	lesiones angiográficamente significativas en las arterias coronarias epicárdicas
+T53	PROCEDURE 975 993	EXPLORACIÓN FÍSICA
+T54	PROCEDURE 1255 1276	Auscultación cardiaca
+T55	PROCEDURE 1328 1349	Auscultación pulmonar
+T56	PROCEDURE 1435 1468	palpación profunda ni superficial
+T57	PROCEDURE 1608 1611	ECG
+T58	PROCEDURE 1720 1740	Radiografía de tórax
+T59	PROCEDURE 1789 1808	Analítica sanguínea
+T60	PROCEDURE 2118 2127	Hemograma
+T61	PROCEDURE 2217 2263	Ecocardiograma transtorácico (con ecocontraste
+T62	PROCEDURE 3120 3150	Cateterismo cardiaco izquierdo
+T63	PROCEDURE 3152 3168	ventriculografía
+T64	PROCEDURE 3258 3273	Coronariografía
+T65	PROCEDURE 3394 3425	Pruebas de función respiratoria
+T66	PROCEDURE 3427 3439	espirometría
+T67	PROCEDURE 3564 3587	Prueba broncodilatadora
+T68	PROCEDURE 3646 3664	Electrocardiograma
+T69	PROCEDURE 4219 4267	tratamiento deplectivo con diurético intravenoso
+T70	PROCEDURE 4354 4393	ecocardiograma reglado con ecocontraste
+T71	PROCEDURE 4647 4662	coronariografía
+T72	PROCEDURE 5319 5334	betabloqueantes
+T73	PROCEDURE 5378 5393	betabloqueantes
+T74	PROCEDURE 5729 5738	estatinas
+T75	PROCEDURE 5866 5886	tratamiento con CPAP
+T76	PROCEDURE 6041 6054	anticoagulado
+T77	PROCEDURE 6194 6209	anticoagulación
+T78	PROCEDURE 6220 6243	cardioversión eléctrica
+T79	PROCEDURE 6324 6350	tratamiento anticoagulante
+T80	PROCEDURE 7118 7141	cardioversión eléctrica
+T81	PROCEDURE 7237 7252	ecocardiografía
+T82	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T83	PROCEDURE 7044 7048	IECA
+T84	PROCEDURE 1810 1820	bioquímica
+T85	PROCEDURE 7171 7201	control de frecuencia cardiaca
+T86	PROCEDURE 3992 4007	ecocardioscopia
+T87	PROCEDURE 4462 4477	ecocardioscopia
+T88	PROCEDURE 4620 4638	estudio etiológico
+T89	PROCEDURE 6519 6530	hematología
+T90	PROCEDURE 5396 5414	antialdosterónicos
+T91	PROCEDURE 6393 6396	AVK
+T92	PROCEDURE 1511 1534	Extremidades inferiores
+T93	PROCEDURE 1374 1381	Abdomen
+T94	SYMPTOM 254 281	consumo moderado de alcohol
+T95	SYMPTOM 720 785	disnea progresiva de 15 días de evolución hasta hacerse de reposo
+T96	SYMPTOM 797 805	ortopnea
+T97	SYMPTOM 807 838	aumento del perímetro abdominal
+T98	SYMPTOM 841 863	edemas en extremidades
+T99	SYMPTOM 876 890	dolor torácico
+T100	SYMPTOM 892 905	palpitaciones
+T101	SYMPTOM 910 915	mareo
+T102	SYMPTOM 1061 1068	Afebril
+T103	SYMPTOM 1156 1166	Consciente
+T104	SYMPTOM 1169 1178	orientado
+T105	SYMPTOM 1180 1194	normohidratado
+T106	SYMPTOM 1196 1214	eupneico en reposo
+T107	SYMPTOM 1216 1237	ingurgitación yugular
+T108	SYMPTOM 1278 1305	ruidos cardiacos arrítmicos
+T109	SYMPTOM 1320 1326	soplos
+T110	SYMPTOM 1351 1372	crepitantes bibasales
+T111	SYMPTOM 1374 1468	Abdomen: blando, depresible, muy globuloso, no doloroso a la palpación profunda ni superficial
+T112	SYMPTOM 1470 1492	peristaltismo presente
+T113	SYMPTOM 1498 1509	peritonismo
+T114	SYMPTOM 1536 1581	edemas bilaterales con fóvea hasta la rodilla
+T115	SYMPTOM 1769 1787	Edema intersticial
+T116	SYMPTOM 2079 2116	Pruebas de función hepaticas normales
+T117	SYMPTOM 2544 2582	función sistólica gravemente deprimida
+T118	SYMPTOM 6440 6452	elevado peso
+T119	SYMPTOM 3564 3597	Prueba broncodilatadora: positiva
+T120	SYMPTOM 2328 2394	Válvula mitral de velos finos con movilidad y apertura conservadas
+T121	SYMPTOM 2617 2668	Válvula aórtica fina con buena apertura y movilidad
+T122	SYMPTOM 3441 3508	moderada disminución de la función ventilatoria de tipo obstructivo
+T123	SYMPTOM 4568 4586	disfunción derecha
+T124	SYMPTOM 4892 4921	fracción de eyección reducida
+T125	SYMPTOM 7631 7678	Arterias coronarias sin lesiones significativas
+T126	SYMPTOM 2429 2458	Presiones de llenado elevadas
+T127	SYMPTOM 1688 1702	Onda Q en DIII
+T128	SYMPTOM 1704 1718	Voltajes bajos
+T129	SYMPTOM 3275 3295	dominancia izquierda
+T130	SYMPTOM 3732 3745	Onda Q en III
+T131	SYMPTOM 3747 3761	Voltajes bajos
+T132	SYMPTOM 4496 4525	elevadas presiones de llenado
+T133	SYMPTOM 7395 7449	fracción de eyección de ventrículo izquierdo deprimida
+T134	MEDICATION 6070 6074	HBPM
+T135	MEDICATION 6553 6564	rivaroxabán
+T136	MEDICATION 5372 5376	IECA
+T137	MEDICATION 7053 7074	sacubitrilo-valsartán
+#1	AnnotatorNotes T13	  Fibrilación auricular

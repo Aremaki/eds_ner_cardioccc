@@ -1,0 +1,149 @@
+T1	DISEASE 98 124	infarto agudo de miocardio
+T2	DISEASE 126 129	IAM
+T3	DISEASE 146 153	Fumador
+T4	DISEASE 218 239	hipertensión arterial
+T5	DISEASE 241 258	diabetes mellitus
+T6	DISEASE 263 273	dislipemia
+T7	DISEASE 293 308	trauma torácico
+T8	DISEASE 339 351	cardiopatías
+T9	DISEASE 2253 2270	Aneurisma aórtico
+T10	DISEASE 2375 2491	Válvula aórtica trivalva con insuficiencia aórtica funcional grave por pérdida de morfología de la unión sinotubular
+T11	DISEASE 2710 2739	aneurisma de aorta ascendente
+T12	DISEASE 2861 2870	aneurisma
+T13	DISEASE 2993 3043	flap intimal en margen anterior de la raíz aortica
+T14	DISEASE 3705 3728	miocardiopatía dilatada
+T15	DISEASE 4150 4159	trombosis
+T16	DISEASE 4336 4353	trombosis parcial
+T17	DISEASE 4708 4733	derrame pleural bilateral
+T18	DISEASE 4787 4796	hemotórax
+T19	DISEASE 4874 4899	Derrame pleural bilateral
+T20	DISEASE 5313 5357	Insuficiencia mitral funcional leve-moderada
+T21	DISEASE 6012 6035	Miocardiopatía dilatada
+T22	DISEASE 6066 6096	derrame pleural ni pericárdico
+T23	DISEASE 6697 6718	disfunción diastólica
+T24	DISEASE 7307 7331	insuficiencia tricúspide
+T25	DISEASE 7354 7375	hipertensión pulmonar
+T26	DISEASE 7530 7539	aneurisma
+T27	DISEASE 7874 7888	rotura aórtica
+T28	DISEASE 8554 8608	parálisis recurrencial izquierda con afonía secundaria
+T29	DISEASE 8844 8869	derrame pleural bilateral
+T30	DISEASE 9779 9804	disección de aorta tipo B
+T31	DISEASE 9952 9969	patología aórtica
+T32	DISEASE 9973 9988	conectivopatías
+T33	DISEASE 10407 10465	Aneurisma disecante de aorta de 11 cm con disección tipo A
+T34	DISEASE 10564 10616	Dilatación y disfunción del VI graves posoperatorias
+T35	DISEASE 181 199	Consumo de alcohol
+T36	DISEASE 5824 5835	DAo crónica
+T37	DISEASE 6213 6216	DAo
+T38	DISEASE 7548 7551	DAo
+T39	DISEASE 5279 5289	bajo gasto
+T40	DISEASE 8100 8130	dilatación de aorta ascendente
+T41	DISEASE 3061 3085	disección aortica tipo A
+T42	DISEASE 4468 4502	disección en troncos supraaórticos
+T43	DISEASE 9073 9127	VI dilatado y globuloso con disfunción sistólica grave
+T44	DISEASE 7179 7215	insuficiencia periprotésico muy leve
+T45	DISEASE 1137 1148	presíncopes
+T46	DISEASE 1125 1133	síncopes
+T47	DISEASE 2066 2107	VI globuloso, hipertrabeculado y dilatado
+T48	DISEASE 4971 5016	VI muy globuloso, hipertrabeculado y dilatado
+T49	DISEASE 2742 2752	DAo tipo A
+T50	DISEASE 8161 8171	DAo tipo A
+T51	DISEASE 2125 2147	leve hipertrofia de VI
+T52	DISEASE 3948 3966	fuga periprotésica
+T53	DISEASE 5550 5570	fugas periprotésicas
+T54	PROCEDURE 481 501	radiografía de tórax
+T55	PROCEDURE 503 521	electrocardiograma
+T56	PROCEDURE 524 554	seriación de enzimas cardiacas
+T57	PROCEDURE 1065 1097	antiinflamatorios no esteroideos
+T58	PROCEDURE 1215 1227	auscultación
+T59	PROCEDURE 1286 1304	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 1653 1673	Radiografía de tórax
+T61	PROCEDURE 1755 1775	Radiografía de tórax
+T62	PROCEDURE 1867 1885	Electrocardiograma
+T63	PROCEDURE 1887 1890	ECG
+T64	PROCEDURE 2024 2052	Ecocardiograma transtorácico
+T65	PROCEDURE 3474 3503	estudio de la aorta abdominal
+T66	PROCEDURE 3673 3687	Angio-TC tórax
+T67	PROCEDURE 4912 4926	Ecocardiograma
+T68	PROCEDURE 5411 5445	Angio-TAC de aorta toracoabdominal
+T69	PROCEDURE 6323 6337	Ecocardiograma
+T70	PROCEDURE 7377 7390	Test genético
+T71	PROCEDURE 7790 7806	cirugía cardiaca
+T72	PROCEDURE 7938 7958	radiografía de tórax
+T73	PROCEDURE 8022 8033	radiografía
+T74	PROCEDURE 8075 8084	Angio-TAC
+T75	PROCEDURE 8284 8306	cirugía cardiovascular
+T76	PROCEDURE 8358 8437	sustitución de raíz aórtica con tubo valvulado mediante técnica de Bono-Bentall
+T77	PROCEDURE 8442 8515	reimplantación de arterias coronarias y endoprótesis en aorta descendente
+T78	PROCEDURE 8730 8756	angio-TAC toraco-abdominal
+T79	PROCEDURE 8994 9005	TAC craneal
+T80	PROCEDURE 9032 9046	ecocardiograma
+T81	PROCEDURE 9292 9341	implantar un desfibrilador automático implantable
+T82	PROCEDURE 9885 9901	estudio genético
+T83	PROCEDURE 10020 10042	cirugía cardiovascular
+T84	PROCEDURE 10079 10124	aorta torácica descendente mediante angio-TAC
+T85	PROCEDURE 10522 10562	sustitución aórtica y reemplazo valvular
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 7713 7722	angio-TAC
+T88	PROCEDURE 2544 2553	Analítica
+T89	PROCEDURE 2657 2682	Angio-TC toraco-abdominal
+T90	PROCEDURE 9343 9346	DAI
+T91	PROCEDURE 10676 10679	DAI
+T92	PROCEDURE 10479 10502	Intervención quirúrgica
+T93	PROCEDURE 4956 4968	intervención
+T94	PROCEDURE 5063 5075	intervención
+T95	PROCEDURE 6368 6380	intervención
+T96	PROCEDURE 8911 8923	intervención
+T97	PROCEDURE 8312 8335	intervención quirúrgica
+T98	PROCEDURE 9840 9863	intervención quirúrgica
+T99	SYMPTOM 423 466	dolor torácico súbito irradiado a mandíbula
+T100	SYMPTOM 524 578	seriación de enzimas cardiacas que resultaron normales
+T101	SYMPTOM 720 797	dolor centrotorácico irradiado a miembro superior izquierdo y región cervical
+T102	SYMPTOM 974 979	dolor
+T103	SYMPTOM 1105 1111	disnea
+T104	SYMPTOM 1195 1227	soplo panfocal a la auscultación
+T105	SYMPTOM 1420 1446	Leve ingurgitación yugular
+T106	SYMPTOM 1448 1472	Tonos cardiacos saltones
+T107	SYMPTOM 1474 1524	soplo aórtico sistólico III/VI y diastólico III/IV
+T108	SYMPTOM 1526 1559	Buen murmullo vesicular bilateral
+T109	SYMPTOM 1561 1604	Pulsos periféricos conservados y simétricos
+T110	SYMPTOM 1688 1716	índice cardiotorácico normal
+T111	SYMPTOM 1838 1865	ensanchamiento mediastínico
+T112	SYMPTOM 1905 1918	ritmo sinusal
+T113	SYMPTOM 1942 1969	signos de crecimiento de VI
+T114	SYMPTOM 1974 2005	ondas T picudas en precordiales
+T115	SYMPTOM 2161 2200	función sistólica ligeramente deprimida
+T116	SYMPTOM 2224 2251	Cavidades derechas normales
+T117	SYMPTOM 2588 2619	Troponina T hs seriada negativa
+T118	SYMPTOM 6505 6520	FEVI conservada
+T119	SYMPTOM 6820 6876	Función sistólica del ventrículo derecho (VD) conservada
+T120	SYMPTOM 7256 7302	Mitral de aspecto estructural y función normal
+T121	SYMPTOM 7602 7616	dolor torácico
+T122	SYMPTOM 7976 8003	ensanchamiento mediastínico
+T123	SYMPTOM 8654 8677	dolor torácico mecánico
+T124	SYMPTOM 8680 8714	pérdida de conciencia autolimitada
+T125	SYMPTOM 8994 9024	TAC craneal que resultó normal
+T126	SYMPTOM 9187 9203	disfunción grave
+T127	SYMPTOM 9468 9501	reducción de los volúmenes del VI
+T128	SYMPTOM 9635 9655	molestias de espalda
+T129	SYMPTOM 580 590	Lumbalgias
+T130	SYMPTOM 1721 1753	anomalías en la silueta cardíaca
+T131	SYMPTOM 5077 5102	FEVI gravemente deprimida
+T132	SYMPTOM 6939 7003	Prótesis aórtica mecánica en posición aórtica con aspecto normal
+T133	SYMPTOM 6576 6621	alteraciones en la contractilidad segmentaria
+T134	SYMPTOM 1609 1626	datos congestivos
+T135	SYMPTOM 84 93	fallecido
+T136	SYMPTOM 5124 5142	hipocontractilidad
+T137	SYMPTOM 7392 7435	no se han encontrado mutaciones patogénicas
+T138	SYMPTOM 2521 2542	Pericardio sin derame
+T139	SYMPTOM 5387 5409	Pericardio sin derrame
+T140	MEDICATION 1047 1058	paracetamol
+T141	MEDICATION 10225 10234	aldocumar
+T142	MEDICATION 10236 10245	omeprazol
+T143	MEDICATION 10262 10270	ramipril
+T144	MEDICATION 10309 10319	bisoprolol
+T145	MEDICATION 10337 10352	espironolactona
+T146	MEDICATION 10369 10378	lorazepam
+#1	AnnotatorNotes T37	  Disección aórtica
+#2	AnnotatorNotes T38	  Disección aórtica
+#3	AnnotatorNotes T49	  DAo: disección aórtica

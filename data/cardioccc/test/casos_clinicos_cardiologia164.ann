@@ -1,0 +1,146 @@
+T1	ENFERMEDAD 439 449	tabaquismo
+T2	ENFERMEDAD 467 492	diabetes mellitus tipo II
+T3	ENFERMEDAD 525 538	hiperuricemia
+T4	ENFERMEDAD 2382 2407	trombosis venosa profunda
+T5	ENFERMEDAD 2941 2973	Ateromatosis aórtica calcificada
+T6	ENFERMEDAD 3257 3276	derrame pericárdico
+T7	ENFERMEDAD 3867 3888	hipertensión pulmonar
+T8	ENFERMEDAD 3893 3912	derrame pericárdico
+T9	ENFERMEDAD 3972 4125	Cardiopatía isquémica con estenosis grave de obtusa marginal ostioproximal de gran calibre (arteria responsable infarto) por placa gravemente calcificada
+T10	ENFERMEDAD 4128 4167	estenosis grave de descendente anterior
+T11	ENFERMEDAD 4228 4252	estenosis grave de CX-MO
+T12	ENFERMEDAD 6328 6377	estenosis grave en un ramo marginal ostioproximal
+T13	ENFERMEDAD 6420 6438	lesión grave en DA
+T14	ENFERMEDAD 6851 6877	síndrome de Kounis tipo II
+T15	ENFERMEDAD 7243 7261	lesión grave de DA
+T16	ENFERMEDAD 7867 7931	Infarto alérgico no Q Killip I en contexto de shock anafiláctico
+T17	ENFERMEDAD 7913 7931	shock anafiláctico
+T18	ENFERMEDAD 7933 7959	síndrome de Kounis tipo II
+T19	ENFERMEDAD 8108 8126	Shock anafiláctico
+T20	ENFERMEDAD 8203 8228	Diabetes mellitus tipo II
+T21	ENFERMEDAD 5343 5351	alergias
+T22	ENFERMEDAD 339 362	alergias medicamentosas
+T23	ENFERMEDAD 5866 5885	necrosis miocárdica
+T24	ENFERMEDAD 7061 7080	necrosis miocárdica
+T25	ENFERMEDAD 959 1025	exantema pruriginoso de inicio en brazos, rápidamente generalizado
+T26	ENFERMEDAD 1966 1984	exantema en tronco
+T27	ENFERMEDAD 3334 3380	Válvula mitral fina, leve calcificación anular
+T28	ENFERMEDAD 4594 4641	placa calcificada larga en descendente anterior
+T29	ENFERMEDAD 6262 6284	reacción anafilactoide
+T30	ENFERMEDAD 6472 6487	lesión de Cx-MO
+T31	ENFERMEDAD 8167 8201	Sensibilización a veneno de avispa
+T32	ENFERMEDAD 7961 8050	Enfermedad coronaria de 2 vasos principales (descendente anterios [DA], circunfleja [Cx])
+T33	ENFERMEDAD 818 840	picadura de un insecto
+T34	ENFERMEDAD 5518 5521	IAM
+T35	ENFERMEDAD 1374 1394	clínica anafiláctica
+T36	PROCEDIMIENTO 1403 1422	electrocardiogramas
+T37	PROCEDIMIENTO 1424 1427	ECG
+T38	PROCEDIMIENTO 1670 1685	coronariografía
+T39	PROCEDIMIENTO 1721 1736	ecocardioscopia
+T40	PROCEDIMIENTO 1901 1919	exploración física
+T41	PROCEDIMIENTO 2176 2197	Auscultación cardiaca
+T42	PROCEDIMIENTO 2241 2262	Auscultación pulmonar
+T43	PROCEDIMIENTO 2434 2437	ECG
+T44	PROCEDIMIENTO 2635 2638	ECG
+T45	PROCEDIMIENTO 2873 2893	Radiografía de tórax
+T46	PROCEDIMIENTO 3278 3292	Ecocardiograma
+T47	PROCEDIMIENTO 3914 3929	Coronariografía
+T48	PROCEDIMIENTO 4262 4309	ACTP con balones convencionales, balón de corte
+T49	PROCEDIMIENTO 4439 4454	Coronariografía
+T50	PROCEDIMIENTO 4666 4712	angioplastia coronaria transluminal percutánea
+T51	PROCEDIMIENTO 4714 4718	ACTP
+T52	PROCEDIMIENTO 4722 4778	implante de stent farmacoactivo liberador de zotarolimus
+T53	PROCEDIMIENTO 4822 4831	hemograma
+T54	PROCEDIMIENTO 6066 6069	ECG
+T55	PROCEDIMIENTO 6292 6307	coronariografía
+T56	PROCEDIMIENTO 6540 6565	ACTP con balones de corte
+T57	PROCEDIMIENTO 6576 6598	aterectomía rotacional
+T58	PROCEDIMIENTO 6624 6656	implantar un stent farmacoactivo
+T59	PROCEDIMIENTO 7203 7218	coronariografía
+T60	PROCEDIMIENTO 7259 7301	DA, implantándose otro stent farmacoactivo
+T61	PROCEDIMIENTO 7317 7331	ecocardiograma
+T62	PROCEDIMIENTO 7619 7631	test cutáneo
+T63	PROCEDIMIENTO 7770 7810	inmunoterapia frente al veneno de avispa
+T64	PROCEDIMIENTO 8055 8072	revascularización
+T65	PROCEDIMIENTO 4780 4799	Analítica sanguínea
+T66	PROCEDIMIENTO 4906 4916	Bioquímica
+T67	PROCEDIMIENTO 1828 1846	EXPLORACIÓN FÍSICA
+T68	PROCEDIMIENTO 3073 3088	Ecocardioscopia
+T69	PROCEDIMIENTO 4184 4252	Intervencionismo coronario percutáneo sobre estenosis grave de CX-MO
+T70	PROCEDIMIENTO 4550 4656	Intervencionismo coronario percutáneo sobre placa calcificada larga en descendente anterior proximal-media
+T71	PROCEDIMIENTO 5852 5885	Marcadores de necrosis miocárdica
+T72	PROCEDIMIENTO 6217 6232	ecocardioscopia
+T73	PROCEDIMIENTO 7047 7080	marcadores de necrosis miocárdica
+T74	PROCEDIMIENTO 5810 5820	Prick test
+T75	PROCEDIMIENTO 4312 4334	aterectomia rotacional
+T76	PROCEDIMIENTO 4336 4405	Implante posterior de un stent farmacoactivo liberador de zotarolimus
+T77	PROCEDIMIENTO 4506 4548	stent farmacoactivo implantado sobre CX-MO
+T78	PROCEDIMIENTO 5335 5351	estudio alergias
+T79	PROCEDIMIENTO 7494 7511	estudio analítico
+T80	PROCEDIMIENTO 5353 5394	pruebas cutáneas a trofoalergenos comunes
+T81	PROCEDIMIENTO 6891 6936	determinación analítica de Triptasa en sangre
+T82	SINTOMA 679 688	lumbalgia
+T83	SINTOMA 1028 1046	sensación disneica
+T84	SINTOMA 1070 1099	dolor centrotorácico opresivo
+T85	SINTOMA 1103 1126	pérdida de conocimiento
+T86	SINTOMA 1750 1825	hipocinesia de segmentos anterolaterales e inferolaterales basales y medios
+T87	SINTOMA 2099 2106	Afebril
+T88	SINTOMA 2108 2141	Orofaringe ligeramente hiperémica
+T89	SINTOMA 2146 2174	ingurgitación venosa yugular
+T90	SINTOMA 2199 2214	ruidos rítmicos
+T91	SINTOMA 2219 2225	soplos
+T92	SINTOMA 2229 2239	extratonos
+T93	SINTOMA 2264 2293	mínimas sibilancias dispersas
+T94	SINTOMA 2298 2313	hipoventilación
+T95	SINTOMA 2315 2331	Abdomen: anodino
+T96	SINTOMA 2447 2460	ritmo sinusal
+T97	SINTOMA 2471 2480	PR normal
+T98	SINTOMA 2482 2494	QRS estrecho
+T99	SINTOMA 2712 2721	PR normal
+T100	SINTOMA 2723 2735	QRS estrecho
+T101	SINTOMA 2745 2784	onda Q en derivaciones de cara inferior
+T102	SINTOMA 2843 2871	onda T negativa en III y aVF
+T103	SINTOMA 2906 2939	silueta cardiomediastínica normal
+T104	SINTOMA 3050 3071	condensación pulmonar
+T105	SINTOMA 3475 3504	Presiones de llenado normales
+T106	SINTOMA 6110 6124	dolor torácico
+T107	SINTOMA 6918 6957	Triptasa en sangre que resultó positiva
+T108	SINTOMA 7176 7190	dolor torácico
+T109	SINTOMA 7377 7429	alteraciones en la contractilidad segmentaria del VI
+T110	SINTOMA 7555 7616	valores elevados de IgE específica frente al veneno de avispa
+T111	SINTOMA 2989 3023	descompensación hemodinámica aguda
+T112	SINTOMA 2688 2701	ritmo sinusal
+T113	SINTOMA 1453 1515	supradesnivelación transitoria de ST inferoposterior y lateral
+T114	SINTOMA 2511 2550	Supradesnivelación de hasta 4 mm del ST
+T115	SINTOMA 3155 3207	hipocinesia de segmentos anterolaterales y laterales
+T116	SINTOMA 3737 3794	Cavidades derechas no dilatadas con contractilidad normal
+T117	SINTOMA 2333 2368	Extremidades inferiores: sin edemas
+T118	SINTOMA 3506 3538	Ventrículo izquierdo no dilatado
+T119	SINTOMA 3671 3709	Válvula aórtica trivalva, flujo normal
+T120	SINTOMA 3807 3842	Válvula tricúspide con flujo normal
+T121	SINTOMA 3302 3332	aurícula izquierda no dilatada
+T122	SINTOMA 3914 3970	Coronariografía urgente (29/06/2018): dominancia derecha
+T123	SINTOMA 2800 2841	ST isoeléctrico en todas las derivaciones
+T124	SINTOMA 3090 3153	fracción de eyección del ventrículo izquierdo (FEVI) preservada
+T125	SINTOMA 3711 3735	Raíz aórtica no dilatada
+T126	SINTOMA 5245 5286	Factores C3 y C4 del complemento normales
+T127	SINTOMA 5288 5324	Inmunocomplejos circulantes normales
+T128	SINTOMA 5396 5449	Negativas a (profilina y LTP), soja, látex y anisakis
+T129	SINTOMA 5810 5850	Prick test frente a diclofenaco positivo
+T130	SINTOMA 6163 6193	anomalías en la contractilidad
+T131	SINTOMA 7020 7080	elevación significativa de marcadores de necrosis miocárdica
+T132	SINTOMA 7619 7666	test cutáneo que resultó positivo a diclofenaco
+T133	SINTOMA 8083 8098	FEVI preservada
+T134	FARMACO 512 522	metformina
+T135	FARMACO 558 568	alopurinol
+T136	FARMACO 763 774	diclofenaco
+T137	FARMACO 1318 1335	metilprednisolona
+T138	FARMACO 1338 1355	dexclorfeniramina
+T139	FARMACO 1563 1585	ácido acetilsalicílico
+T140	FARMACO 1587 1590	AAS
+T141	FARMACO 1594 1604	ticagrelor
+T142	FARMACO 4394 4405	zotarolimus
+T143	FARMACO 4767 4778	zotarolimus
+T144	FARMACO 5830 5841	diclofenaco
+T145	FARMACO 7655 7666	diclofenaco
+T146	FARMACO 8154 8165	diclofenaco

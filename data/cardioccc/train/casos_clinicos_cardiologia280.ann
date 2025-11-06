@@ -1,0 +1,213 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 141 149	fumadora
+T3	DISEASE 285 306	hipertensión arterial
+T4	DISEASE 308 318	dislipemia
+T5	DISEASE 320 345	diabetes mellitus tipo II
+T6	DISEASE 419 440	retinopatía diabética
+T7	DISEASE 442 458	Obesidad mórbida
+T8	DISEASE 533 559	Síndrome coronario crónico
+T9	DISEASE 586 603	angor de esfuerzo
+T10	DISEASE 763 831	estenosis significativa en arteria descendente anterior media-distal
+T11	DISEASE 895 912	ateromatosis leve
+T12	DISEASE 971 1003	estenosis aórtica moderada-grave
+T13	DISEASE 1300 1335	Insuficiencia aórtica leve-moderada
+T14	DISEASE 1543 1575	Insuficiencia tricuspídea ligera
+T15	DISEASE 1656 1675	derrame pericárdico
+T16	DISEASE 1733 1778	Infecciones del tracto urinario de repetición
+T17	DISEASE 1780 1799	Esteatosis hepática
+T18	DISEASE 1829 1845	hernia umbilical
+T19	DISEASE 2352 2378	síndrome coronario crónico
+T20	DISEASE 2468 2500	estenosis aórtica moderada-grave
+T21	DISEASE 2680 2688	síncopes
+T22	DISEASE 2948 2962	Obesidad grave
+T23	DISEASE 3140 3148	obesidad
+T24	DISEASE 3259 3321	Trastornos tróficos cutáneos crónicos en extremidad inferiores
+T25	DISEASE 3467 3500	Hipertrofia ventricular izquierda
+T26	DISEASE 4205 4240	Insuficiencia aórtica leve-moderada
+T27	DISEASE 4417 4442	insuficiencia tricuspídea
+T28	DISEASE 4525 4546	hipertensión pulmonar
+T29	DISEASE 4613 4632	derrame pericárdico
+T30	DISEASE 5961 6021	Placas calcificadas en aorta abdominal infrarrenal e iliacas
+T31	DISEASE 6702 6742	ateromatosis calcificada difusa moderada
+T32	DISEASE 6794 6835	ateromatosis coronaria calcificada difusa
+T33	DISEASE 7244 7265	insuficiencia aórtica
+T34	DISEASE 7481 7505	insuficiencia tricúspide
+T35	DISEASE 7629 7648	derrame pericárdico
+T36	DISEASE 7764 7790	síndrome coronario crónico
+T37	DISEASE 7804 7878	doble lesión aórtica con estenosis predominante de carácter moderado-grave
+T38	DISEASE 8157 8222	doble lesión aórtica con estenosis predominante de carácter grave
+T39	DISEASE 8284 8322	valvulopatía aórtica de carácter grave
+T40	DISEASE 8622 8635	obesa mórbida
+T41	DISEASE 8730 8738	obesidad
+T42	DISEASE 9055 9063	diabetes
+T43	DISEASE 9337 9345	diabetes
+T44	DISEASE 9528 9563	infecciones urinarias de repetición
+T45	DISEASE 10267 10301	bloqueo completo de rama izquierda
+T46	DISEASE 10306 10333	bloqueo auriculoventricular
+T47	DISEASE 10345 10366	insuficiencia aórtica
+T48	DISEASE 10827 10848	hipertensión arterial
+T49	DISEASE 11107 11132	bloqueo de rama izquierda
+T50	DISEASE 11163 11190	bloqueo auriculoventricular
+T51	DISEASE 11286 11334	trastorno restrictivo extrapulmonar por obesidad
+T52	DISEASE 11354 11373	congestión pulmonar
+T53	DISEASE 11547 11556	infección
+T54	DISEASE 12288 12301	valvulopatías
+T55	DISEASE 12346 12351	angor
+T56	DISEASE 12668 12691	estenosis aórtica grave
+T57	DISEASE 12705 12731	Síndrome coronario crónico
+T58	DISEASE 12836 12857	hipertensión arterial
+T59	DISEASE 12859 12884	diabetes mellitus tipo II
+T60	DISEASE 12886 12896	dislipemia
+T61	DISEASE 12898 12906	obesidad
+T62	DISEASE 1453 1494	Aurícula izquierda dilatada moderadamente
+T63	DISEASE 4242 4279	Aurícula izquierda dilatada levemente
+T64	DISEASE 7383 7420	Aurícula izquierda dilatada levemente
+T65	DISEASE 124 139	Hábitos tóxicos
+T66	DISEASE 1173 1236	Válvula aórtica esclerocalcificada con estenosis moderada-grave
+T67	DISEASE 4028 4078	Válvula aórtica trivalva, esclerocalcificada grave
+T68	DISEASE 11751 11760	hematomas
+T69	DISEASE 1337 1379	Válvula mitral esclerosa con insuficiencia
+T70	DISEASE 7038 7092	hipertrofia concéntrica moderada ventricular izquierda
+T71	DISEASE 2630 2635	ángor
+T72	DISEASE 1612 1651	Aurícula derecha dilatada moderadamente
+T73	DISEASE 3959 3997	Válvula mitral esclerocalcificada leve
+T74	DISEASE 7267 7300	Válvula mitral esclerocalcificada
+T75	DISEASE 210 232	consumidora de alcohol
+T76	DISEASE 1067 1122	ventrículo izquierdo no dilatado, hipertrófico moderado
+T77	DISEASE 1680 1707	dilatación de raíz de aorta
+T78	DISEASE 3740 3823	Ventrículo izquierdo no dilatado (DVItd 44mm), con hipertrofia concéntrica moderada
+T79	DISEASE 6430 6500	arteria descendente anterior presenta una densa calcificación parietal
+T80	DISEASE 1580 1610	hipertensión pulmonar moderada
+T81	DISEASE 5317 5393	Aorta torácica de calibre y morfología normal con leves cambios ateromatosos
+T82	DISEASE 5395 5483	Aorta abdominal e iliaca de calibre y morfología normal con escasos cambios ateromatosos
+T83	PROCEDURE 608 632	ecocardiograma de estrés
+T84	PROCEDURE 660 713	terapia antiisquémica, antiagregante e hipolipemiante
+T85	PROCEDURE 715 730	Coronariografía
+T86	PROCEDURE 790 874	arteria descendente anterior media-distal con implantación de un stent farmacoactivo
+T87	PROCEDURE 1025 1040	ecocardiogramas
+T88	PROCEDURE 2383 2452	implantación de unstent farmacoactivo en arteria descendente anterior
+T89	PROCEDURE 2744 2762	Exploración física
+T90	PROCEDURE 2964 2985	Auscultación pulmonar
+T91	PROCEDURE 3025 3046	Auscultación cardiaca
+T92	PROCEDURE 3187 3196	palpación
+T93	PROCEDURE 3370 3388	Electrocardiograma
+T94	PROCEDURE 3687 3715	Ecocardiograma transtorácico
+T95	PROCEDURE 4634 4653	Analítica sanguínea
+T96	PROCEDURE 4957 4966	Hemograma
+T97	PROCEDURE 5146 5150	TAVI
+T98	PROCEDURE 6331 6346	Coronariografía
+T99	PROCEDURE 6874 6903	Ecocardiograma transesofágico
+T100	PROCEDURE 6975 6989	Ecocardiograma
+T101	PROCEDURE 7922 7946	tratamiento antianginoso
+T102	PROCEDURE 7949 7986	implantación de unstent farmacoactivo
+T103	PROCEDURE 8126 8140	ecocardiograma
+T104	PROCEDURE 8821 8860	cirugía de sustitución valvular aórtica
+T105	PROCEDURE 8875 8879	TAVI
+T106	PROCEDURE 8892 8895	TAC
+T107	PROCEDURE 9101 9118	recambio valvular
+T108	PROCEDURE 9770 9805	intervención bajo anestesia general
+T109	PROCEDURE 9810 9832	intubación orotraqueal
+T110	PROCEDURE 9847 9877	ecocardiografía transesofágica
+T111	PROCEDURE 9903 9935	se canalizó vena yugular derecha
+T112	PROCEDURE 9940 9989	implantación de marcapasos endovenoso transitorio
+T113	PROCEDURE 9994 10062	punción de arteria femoral izquierda se realizó mediante eco-Doppler
+T114	PROCEDURE 10067 10197	arteria femoral derecha se realizó guiada con angiografía contralateral, a través de la cual se avanzó una prótesis Edwards SAPIEN
+T115	PROCEDURE 10220 10243	implante de la prótesis
+T116	PROCEDURE 10378 10381	ETE
+T117	PROCEDURE 10393 10404	aortografía
+T118	PROCEDURE 10406 10452	Se cerró el acceso femoral derecho con Prostar
+T119	PROCEDURE 10505 10516	angiografía
+T120	PROCEDURE 10577 10585	extubada
+T121	PROCEDURE 10982 11015	tratamiento antihipertensivo oral
+T122	PROCEDURE 11074 11084	telemetría
+T123	PROCEDURE 11622 11644	profilaxis antibiótica
+T124	PROCEDURE 12402 12432	tratamiento antidiabético oral
+T125	PROCEDURE 12620 12663	Implantación de TAVI Edwards SAPIEN 3 no 26
+T126	PROCEDURE 12736 12774	implantación de un stent farmacoactivo
+T127	PROCEDURE 4655 4665	Bioquímica
+T128	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T129	PROCEDURE 11475 11488	Función renal
+T130	PROCEDURE 6351 6355	TAVI
+T131	PROCEDURE 6995 6999	TAVI
+T132	PROCEDURE 7146 7150	TAVI
+T133	PROCEDURE 11662 11666	TAVI
+T134	PROCEDURE 11874 11949	tratamiento con doble antiagregación (ácido acetilsalicílico y clopidogrel)
+T135	PROCEDURE 5138 5247	TAC pre-TAVI: se realiza estudio desde vértices pulmonares hasta sínfisis del pubis con contraste intravenoso
+T136	PROCEDURE 8900 8904	TAVI
+T137	PROCEDURE 1801 1827	Intervenciones quirúrgicas
+T138	PROCEDURE 5046 5051	Orina
+T139	PROCEDURE 11841 11851	analíticas
+T140	PROCEDURE 12362 12367	dieta
+T141	PROCEDURE 11564 11581	Se aisló en orina
+T142	SYMPTOM 1067 1099	ventrículo izquierdo no dilatado
+T143	SYMPTOM 1496 1541	Ventrículo derecho normal en tamaño y función
+T144	SYMPTOM 1712 1722	broncópata
+T145	SYMPTOM 2572 2590	disnea de esfuerzo
+T146	SYMPTOM 2690 2703	palpitaciones
+T147	SYMPTOM 2875 2885	Consciente
+T148	SYMPTOM 2888 2897	orientada
+T149	SYMPTOM 2899 2926	Bien perfundida e hidratada
+T150	SYMPTOM 2928 2946	Eupneica en reposo
+T151	SYMPTOM 2987 3023	murmullo vesicular disminuido global
+T152	SYMPTOM 3048 3103	soplo aórtico rudo, sistólico irradiado hacia carótidas
+T153	SYMPTOM 3105 3196	Abdomen difícilmente valorable por obesidad, blando, depresible, no doloroso a la palpación
+T154	SYMPTOM 3201 3216	visceromegalias
+T155	SYMPTOM 3220 3225	masas
+T156	SYMPTOM 3227 3257	Ruidos hidroáereos conservados
+T157	SYMPTOM 3300 3333	extremidad inferiores, sin edemas
+T158	SYMPTOM 3390 3403	ritmo sinusal
+T159	SYMPTOM 3429 3438	PR normal
+T160	SYMPTOM 3440 3452	QRS estrecho
+T161	SYMPTOM 3569 3614	ondas T negativas asimétricas en cara lateral
+T162	SYMPTOM 3675 3685	QTc normal
+T163	SYMPTOM 3740 3772	Ventrículo izquierdo no dilatado
+T164	SYMPTOM 3849 3884	Función sistólica global conservada
+T165	SYMPTOM 4548 4576	Aurícula derecha no dilatada
+T166	SYMPTOM 5317 5362	Aorta torácica de calibre y morfología normal
+T167	SYMPTOM 5395 5450	Aorta abdominal e iliaca de calibre y morfología normal
+T168	SYMPTOM 6357 6408	tronco común muestra leve pérdida de calibre distal
+T169	SYMPTOM 7001 7033	ventrículo izquierdo no dilatado
+T170	SYMPTOM 7094 7144	Función sistólica global y segmentaria conservadas
+T171	SYMPTOM 7267 7329	Válvula mitral esclerocalcificada sin alteraciones funcionales
+T172	SYMPTOM 10786 10811	hemodinámicamente estable
+T173	SYMPTOM 11029 11042	ritmo sinusal
+T174	SYMPTOM 11207 11232	Respiratoriamente estable
+T175	SYMPTOM 11475 11495	Función renal normal
+T176	SYMPTOM 11500 11519	diuresis conservada
+T177	SYMPTOM 11521 11528	Afebril
+T178	SYMPTOM 11764 11770	soplos
+T179	SYMPTOM 11776 11811	pulsos pedios bilaterales presentes
+T180	SYMPTOM 11814 11833	hemoglobina estable
+T181	SYMPTOM 12334 12340	disnea
+T182	SYMPTOM 12528 12543	pérdida de peso
+T183	SYMPTOM 12784 12799	FEVI conservada
+T184	SYMPTOM 8080 8098	disnea de esfuerzo
+T185	SYMPTOM 1127 1171	buena función sistólica global y segmentaria
+T186	SYMPTOM 3629 3673	sobrecarga sistólica de ventrículo izquierdo
+T187	SYMPTOM 4578 4608	Raíz de aorta de tamaño normal
+T188	SYMPTOM 5891 5941	Aorta torácica y aorta abdominal de calibre normal
+T189	SYMPTOM 7422 7475	Ventrículo derecho normal respecto a tamaño y función
+T190	SYMPTOM 7561 7591	Vena cava inferior no dilatada
+T191	SYMPTOM 7650 7680	Raíz de aorta de tamaño normal
+T192	SYMPTOM 5053 5064	albuminuria
+T193	SYMPTOM 608 647	ecocardiograma de estrés no concluyente
+T194	SYMPTOM 6080 6133	Ilíacas externas y femorales sin cambios ateromatosos
+T195	SYMPTOM 6640 6667	Coronaria derecha dominante
+T196	SYMPTOM 6794 6872	ateromatosis coronaria calcificada difusa sin estenosis focales significativas
+T197	SYMPTOM 11564 11588	Se aisló en orinaE. coli
+T198	MEDICATION 1870 1892	ácido acetilsalicílico
+T199	MEDICATION 1926 1947	olmesartán/amlodipino
+T200	MEDICATION 1982 1992	bisoprolol
+T201	MEDICATION 2024 2034	metformina
+T202	MEDICATION 2072 2085	atorvastatina
+T203	MEDICATION 2116 2127	esomeprazol
+T204	MEDICATION 2165 2179	nitroglicerina
+T205	MEDICATION 9231 9241	metformina
+T206	MEDICATION 10864 10878	nitroglicerina
+T207	MEDICATION 11422 11432	furosemida
+T208	MEDICATION 11668 11676	curoxima
+T209	MEDICATION 11912 11934	ácido acetilsalicílico
+T210	MEDICATION 11937 11948	clopidogrel
+T211	MEDICATION 12462 12472	metformina
+T212	MEDICATION 9300 9311	semaglutida
+T213	MEDICATION 12448 12459	semaglutida

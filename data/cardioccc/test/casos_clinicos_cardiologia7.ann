@@ -1,0 +1,114 @@
+T1	ENFERMEDAD 90 113	alergias medicamentosas
+T2	ENFERMEDAD 173 197	diabetes mellitus tipo 2
+T3	ENFERMEDAD 561 584	emergencia hipertensiva
+T4	ENFERMEDAD 2622 2681	Ventrículo izquierdo (VI) con hipertrofia concéntrica grave
+T5	ENFERMEDAD 3320 3339	derrame pericárdico
+T6	ENFERMEDAD 3777 3802	Insuficiencia mitral leve
+T7	ENFERMEDAD 3804 3843	Insuficiencia tricuspidea leve-moderada
+T8	ENFERMEDAD 4593 4601	fibrosis
+T9	ENFERMEDAD 4613 4640	miocardiopatía infiltrativa
+T10	ENFERMEDAD 5500 5519	derrame pericárdico
+T11	ENFERMEDAD 5657 5684	miocardiopatía infiltrativa
+T12	ENFERMEDAD 5919 5958	infarto agudo de miocardio (IAM) tipo 2
+T13	ENFERMEDAD 5947 5950	IAM
+T14	ENFERMEDAD 5977 6000	emergencia hipertensiva
+T15	ENFERMEDAD 6851 6878	miocardiopatía hipertrófica
+T16	ENFERMEDAD 6893 6917	cardiopatía hipertensiva
+T17	ENFERMEDAD 6922 6964	hipertrofia grave del ventrículo izquierdo
+T18	ENFERMEDAD 8017 8040	cardiopatía estructural
+T19	ENFERMEDAD 8085 8096	miocarditis
+T20	ENFERMEDAD 8120 8137	Miocarditis aguda
+T21	ENFERMEDAD 8153 8177	Diabetes mellitus tipo 2
+T22	ENFERMEDAD 8179 8214	Dislipemia tipo hipercolesterolemia
+T23	ENFERMEDAD 8216 8237	Hipertensión arterial
+T24	ENFERMEDAD 8239 8242	HTA
+T25	ENFERMEDAD 252 260	fumadora
+T26	ENFERMEDAD 2578 2620	Aurícula izquierda (AI) levemente dilatada
+T27	ENFERMEDAD 4501 4517	edema miocárdico
+T28	PROCEDIMIENTO 225 246	tratamiento dietético
+T29	PROCEDIMIENTO 387 404	paratiroidectomía
+T30	PROCEDIMIENTO 714 732	exploración física
+T31	PROCEDIMIENTO 859 882	Exploración neurológica
+T32	PROCEDIMIENTO 1053 1109	Auscultación pulmonar, abdomen y extremidades inferiores
+T33	PROCEDIMIENTO 1164 1182	ELECTROCARDIOGRAMA
+T34	PROCEDIMIENTO 1184 1187	ECG
+T35	PROCEDIMIENTO 1676 1685	HEMOGRAMA
+T36	PROCEDIMIENTO 2540 2554	ECOCARDIOGRAMA
+T37	PROCEDIMIENTO 3427 3442	CORONARIOGRAFÍA
+T38	PROCEDIMIENTO 3527 3541	ECOCARDIOGRAMA
+T39	PROCEDIMIENTO 3993 3996	RMN
+T40	PROCEDIMIENTO 4040 4055	ecocardiografía
+T41	PROCEDIMIENTO 5736 5754	electrocardiograma
+T42	PROCEDIMIENTO 6084 6098	ecocardiograma
+T43	PROCEDIMIENTO 6379 6394	coronariografía
+T44	PROCEDIMIENTO 6565 6593	tratamiento antihipertensivo
+T45	PROCEDIMIENTO 7034 7046	RMN cardiaca
+T46	PROCEDIMIENTO 7559 7577	exploración física
+T47	PROCEDIMIENTO 7693 7697	MAPA
+T48	PROCEDIMIENTO 7748 7762	ecocardiograma
+T49	PROCEDIMIENTO 7869 7881	RMN cardiaca
+T50	PROCEDIMIENTO 6676 6690	betabloquenate
+T51	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDIMIENTO 2032 2041	SEROLOGÍA
+T53	PROCEDIMIENTO 2330 2341	COAGULACIÓN
+T54	PROCEDIMIENTO 4472 4486	secuencia STIR
+T55	PROCEDIMIENTO 4069 4177	Se obtienen imágenes de VI y VD en secuencias cine, Stir y realce tardío tras la administración de gadolinio
+T56	PROCEDIMIENTO 5771 5800	marcadores de daño miocárdico
+T57	PROCEDIMIENTO 6424 6453	marcadores de daño miocárdico
+T58	PROCEDIMIENTO 7348 7375	medicación antihipertensiva
+T59	PROCEDIMIENTO 3963 4006	RESONANCIA MAGNÉTICA NUCLEAR (RMN) cardiaca
+T60	PROCEDIMIENTO 6217 6235	estudio serológico
+T61	PROCEDIMIENTO 3891 3900	ANALÍTICA
+T62	PROCEDIMIENTO 1312 1322	BIOQUÍMICA
+T63	PROCEDIMIENTO 5757 5766	analítica
+T64	SINTOMA 503 544	cefalea, pulsátil de localización frontal
+T65	SINTOMA 595 624	disnea de moderados esfuerzos
+T66	SINTOMA 655 669	dolor torácico
+T67	SINTOMA 671 677	mareos
+T68	SINTOMA 685 707	clínica cardiovascular
+T69	SINTOMA 822 832	Consciente
+T70	SINTOMA 834 843	orientada
+T71	SINTOMA 845 857	colaboradora
+T72	SINTOMA 859 921	Exploración neurológica dentro de los límites de la normalidad
+T73	SINTOMA 923 950	Pulso venoso yugular normal
+T74	SINTOMA 952 977	Ruidos cardiacos rítmicos
+T75	SINTOMA 982 997	soplo sistólico
+T76	SINTOMA 1190 1203	ritmo sinusal
+T77	SINTOMA 2032 2078	SEROLOGÍA: Mycoplasma pneumoniae IgM: negativo
+T78	SINTOMA 2080 2116	Legionella pneumophila IgM: negativo
+T79	SINTOMA 2118 2154	Legionella pneumophila IgG: negativo
+T80	SINTOMA 2769 2797	función sistólica conservada
+T81	SINTOMA 2799 2841	Patrón diastólico de relajación prolongada
+T82	SINTOMA 3744 3775	VD de tamaño y función normales
+T83	SINTOMA 4341 4374	Contractilidad segmentaria normal
+T84	SINTOMA 4376 4398	Masa miocárdica normal
+T85	SINTOMA 4855 4876	Contractilidad normal
+T86	SINTOMA 4878 4932	Aurícula izquierda (AI): área de 19 cm2, tamaño normal
+T87	SINTOMA 4934 4986	Aurícula derecha (AD): área de 19 cm2, tamaño normal
+T88	SINTOMA 5549 5580	VI de tamaño y función normales
+T89	SINTOMA 6115 6144	hipertrofia concéntrica grave
+T90	SINTOMA 7619 7634	soplo sistólico
+T91	SINTOMA 2156 2181	Influenza B IgM: negativo
+T92	SINTOMA 2183 2208	Influenza A IgM: negativo
+T93	SINTOMA 2210 2227	CMV IgM: negativo
+T94	SINTOMA 2229 2246	CMV IgG: positivo
+T95	SINTOMA 2248 2287	Borrelia burgdorferi IgM-Lyme: negativo
+T96	SINTOMA 2289 2328	Borrelia burgdorferi IgG-Lyme: negativo
+T97	SINTOMA 7897 7925	VI de tamaño y grosor normal
+T98	SINTOMA 3464 3510	Arterias coronarias sin lesiones angiográficas
+T99	SINTOMA 3444 3462	dominancia derecha
+T100	SINTOMA 5771 5858	marcadores de daño miocárdico (creatincinasa y troponina T ultrasensible) con elevación
+T101	SINTOMA 1066 1126	pulmonar, abdomen y extremidades inferiores sin alteraciones
+T102	SINTOMA 3187 3233	Ventrículo derecho (VD) con función conservada
+T103	SINTOMA 3409 3425	Vena cava normal
+T104	SINTOMA 3593 3621	VI de tamaño y grosor normal
+T105	SINTOMA 4179 4196	VI: tamaño normal
+T106	FARMACO 6617 6627	olmesartán
+T107	FARMACO 6629 6639	amlodipino
+T108	FARMACO 6642 6659	hidroclorotiazida
+T109	FARMACO 6692 6702	bisoprolol
+T110	FARMACO 7106 7116	metformina
+T111	FARMACO 7135 7148	rosuvastatina
+T112	FARMACO 7433 7443	amlodipino
+T113	FARMACO 7451 7461	bisoprolol
+#1	AnnotatorNotes T13	 Infarto Agudo de Miocardio

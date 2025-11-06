@@ -1,0 +1,139 @@
+T1	ENFERMEDAD 99 120	hipertensión arterial
+T2	ENFERMEDAD 122 132	dislipemia
+T3	ENFERMEDAD 134 142	obesidad
+T4	ENFERMEDAD 145 154	exfumador
+T5	ENFERMEDAD 650 676	parada cardiorrespiratoria
+T6	ENFERMEDAD 839 865	insuficiencia respiratoria
+T7	ENFERMEDAD 2884 2897	valvulopatías
+T8	ENFERMEDAD 4217 4230	hiperglucemia
+T9	ENFERMEDAD 4232 4251	insuficiencia renal
+T10	ENFERMEDAD 4253 4264	hipocalemia
+T11	ENFERMEDAD 4266 4281	hiperfosforemia
+T12	ENFERMEDAD 4283 4297	hipomagnesemia
+T13	ENFERMEDAD 4299 4318	acidosis metabólica
+T14	ENFERMEDAD 4334 4367	intoxicación por organofosforados
+T15	ENFERMEDAD 4421 4447	parada cardiorrespiratoria
+T16	ENFERMEDAD 4651 4670	acidosis metabólica
+T17	ENFERMEDAD 4720 4739	insuficiencia renal
+T18	ENFERMEDAD 4791 4806	hepatotoxicidad
+T19	ENFERMEDAD 4809 4853	síndrome de respuesta inflamatorio sistémico
+T20	ENFERMEDAD 5381 5413	síndrome de distrés respiratorio
+T21	ENFERMEDAD 5416 5444	shock séptico por Pseudomona
+T22	ENFERMEDAD 5626 5665	Intoxicación grave por organofosforados
+T23	ENFERMEDAD 5667 5712	Síndrome coronario agudo con elevación del ST
+T24	ENFERMEDAD 5807 5832	Insuficiencia renal aguda
+T25	ENFERMEDAD 5874 5889	Hepatitis aguda
+T26	ENFERMEDAD 5933 5976	Síndrome de distrés respiratorio del adulto
+T27	ENFERMEDAD 5978 6017	Shock séptico por Pseudomona aeruginosa
+T28	ENFERMEDAD 1008 1027	bloqueo AV completo
+T29	ENFERMEDAD 3879 3897	bloqueo AV grado I
+T30	ENFERMEDAD 4155 4165	bloqueo AV
+T31	ENFERMEDAD 5048 5066	bloqueo AV grado I
+T32	ENFERMEDAD 5511 5537	Parada cardiorrespiratoria
+T33	ENFERMEDAD 3242 3276	ADA con irregularidades parietales
+T34	ENFERMEDAD 3307 3326	Cx hipodesarrollada
+T35	ENFERMEDAD 3343 3375	CD con placa complicada y trombo
+T36	ENFERMEDAD 3934 3956	cuadro coronario agudo
+T37	ENFERMEDAD 689 691	FV
+T38	ENFERMEDAD 5553 5576	fibrilación ventricular
+T39	PROCEDIMIENTO 34 52	exploración física
+T40	PROCEDIMIENTO 704 728	maniobras de reanimación
+T41	PROCEDIMIENTO 899 917	soporte vasoactivo
+T42	PROCEDIMIENTO 920 942	intubación orotraqueal
+T43	PROCEDIMIENTO 963 987	maniobras de reanimación
+T44	PROCEDIMIENTO 1004 1007	ECG
+T45	PROCEDIMIENTO 1160 1172	fibrinólisis
+T46	PROCEDIMIENTO 1369 1384	ACTP de rescate
+T47	PROCEDIMIENTO 1387 1400	Examen físico
+T48	PROCEDIMIENTO 1430 1450	ventilación mecánica
+T49	PROCEDIMIENTO 1481 1499	drogas vasoactivas
+T50	PROCEDIMIENTO 1599 1620	Auscultación cardiaca
+T51	PROCEDIMIENTO 2477 2495	Electrocardiograma
+T52	PROCEDIMIENTO 2582 2594	fibrinólisis
+T53	PROCEDIMIENTO 2596 2616	Radiografía de tórax
+T54	PROCEDIMIENTO 2728 2756	Ecocardiograma transtorácico
+T55	PROCEDIMIENTO 2758 2776	soporte vasoactivo
+T56	PROCEDIMIENTO 2779 2799	ventilación mecánica
+T57	PROCEDIMIENTO 3031 3046	coronariografía
+T58	PROCEDIMIENTO 3047 3116	se implanta marcapaso endovenoso transitorio por vena femoral derecha
+T59	PROCEDIMIENTO 3178 3193	coronariografía
+T60	PROCEDIMIENTO 3480 3504	angioplastia a CD distal
+T61	PROCEDIMIENTO 3507 3574	se implanta stent directo recubierto en CD proximal hasta el ostium
+T62	PROCEDIMIENTO 3636 3667	vasodilatadores intracoronarios
+T63	PROCEDIMIENTO 3672 3675	ECG
+T64	PROCEDIMIENTO 3681 3685	ACTP
+T65	PROCEDIMIENTO 4516 4551	soporte hemodinámico y ventilatorio
+T66	PROCEDIMIENTO 4585 4620	soporte hemodinámico y ventilatorio
+T67	PROCEDIMIENTO 4753 4779	hemodiafiltración continua
+T68	PROCEDIMIENTO 4880 4883	ECG
+T69	PROCEDIMIENTO 5834 5872	Hemodiafiltración veno-venosa continua
+T70	PROCEDIMIENTO 5775 5805	ACTP de rescate en CD proximal
+T71	PROCEDIMIENTO 5731 5743	Fibrinólisis
+T72	PROCEDIMIENTO 2412 2422	Gasometría
+T73	PROCEDIMIENTO 2188 2193	Iones
+T74	PROCEDIMIENTO 2245 2276	Marcadores de lesión miocárdica
+T75	PROCEDIMIENTO 4387 4397	hipotermia
+T76	PROCEDIMIENTO 4449 4463	atropinización
+T77	PROCEDIMIENTO 5578 5613	Reanimación cardiopulmonar avanzada
+T78	PROCEDIMIENTO 1937 1946	Analítica
+T79	PROCEDIMIENTO 1552 1567	Cabeza y cuello
+T80	PROCEDIMIENTO 1548 1550	VM
+T81	PROCEDIMIENTO 3119 3173	balón de contrapulsación por arteria femoral izquierda
+T82	SINTOMA 282 288	disnea
+T83	SINTOMA 302 377	dolor centrotorácico opresivo intenso irradiado a ambos miembros superiores
+T84	SINTOMA 447 485	fasciculaciones en miembros superiores
+T85	SINTOMA 487 509	temblor en ambas manos
+T86	SINTOMA 512 562	imposibilidad para hablar por abundante salivación
+T87	SINTOMA 565 575	broncorrea
+T88	SINTOMA 807 834	hemodinámicamente inestable
+T89	SINTOMA 1059 1111	elevación del ST en II-III-aVF, de V3 a V6 y V3R-V4R
+T90	SINTOMA 1115 1148	descenso especular en I-aVL-V1-V2
+T91	SINTOMA 1324 1340	elevación del ST
+T92	SINTOMA 1411 1424	sedo relajado
+T93	SINTOMA 1529 1536	afebril
+T94	SINTOMA 1569 1575	miosis
+T95	SINTOMA 1588 1597	sialorrea
+T96	SINTOMA 1599 1653	Auscultación cardiaca: bradicárdica, rítmica y regular
+T97	SINTOMA 1677 1717	sibilancias inspiratorias y espiratorias
+T98	SINTOMA 1719 1756	estertores crepitantes en ambas bases
+T99	SINTOMA 1798 1835	Abdomen globuloso, blando, depresible
+T100	SINTOMA 1851 1910	Extremidades con fasciculaciones y mioclonías generalizadas
+T101	SINTOMA 3799 3818	alteraciones del ST
+T102	SINTOMA 3820 3876	elevación del ST en II-III-aVF y descenso en I-aVL-V1-V2
+T103	SINTOMA 4010 4016	disnea
+T104	SINTOMA 4028 4038	salivación
+T105	SINTOMA 4040 4050	broncorrea
+T106	SINTOMA 4052 4067	fasciculaciones
+T107	SINTOMA 4069 4085	temblor en manos
+T108	SINTOMA 4088 4094	signos
+T109	SINTOMA 4096 4102	miosis
+T110	SINTOMA 4104 4113	sialorrea
+T111	SINTOMA 4115 4128	broncoespasmo
+T112	SINTOMA 4130 4140	broncorrea
+T113	SINTOMA 4142 4153	bradicardia
+T114	SINTOMA 4167 4177	mioclonías
+T115	SINTOMA 4203 4215	leucocitosis
+T116	SINTOMA 4914 4927	ritmo sinusal
+T117	SINTOMA 4938 4954	QS en II-III-aVF
+T118	SINTOMA 4956 4973	R alta en V2 y V3
+T119	SINTOMA 4982 5012	elevación del ST en II-III-aVF
+T120	SINTOMA 5022 5045	descenso en I-aVLV1- V2
+T121	SINTOMA 5181 5220	hiperreactividad de reflejos tendinosos
+T122	SINTOMA 5232 5244	disautonomía
+T123	SINTOMA 5247 5271	frialdad de extremidades
+T124	SINTOMA 5458 5465	fallece
+T125	SINTOMA 6019 6025	Exitus
+T126	SINTOMA 3697 3710	ritmo sinusal
+T127	SINTOMA 289 299	diaforesis
+T128	SINTOMA 2676 2726	Infiltrado intersticial en ambos campos inferiores
+T129	SINTOMA 5133 5154	deterioro neurológico
+T130	SINTOMA 3204 3222	dominancia derecha
+T131	SINTOMA 3224 3240	TCI sin lesiones
+T132	SINTOMA 2618 2674	índice cardiotorácico en el límite alto de la normalidad
+T133	SINTOMA 5166 5175	espástico
+T134	SINTOMA 1785 1796	secreciones
+T135	SINTOMA 2802 2816	VI no dilatado
+T136	FARMACO 4465 4483	bicarbonato sódico
+T137	FARMACO 4485 4504	sulfato de magnesio
+T138	FARMACO 1298 1301	TNK
+#1	AnnotatorNotes T28	AV: auriculo-ventricular

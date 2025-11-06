@@ -1,0 +1,114 @@
+T1	ENFERMEDAD 32 53	Hipertensión arterial
+T2	ENFERMEDAD 55 76	Cardiopatía reumática
+T3	ENFERMEDAD 213 234	fibrilación auricular
+T4	ENFERMEDAD 920 947	neumonía en lóbulo superior
+T5	ENFERMEDAD 1679 1704	trombosis venosa profunda
+T6	ENFERMEDAD 2361 2404	endocarditis sobre válvula protésica mitral
+T7	ENFERMEDAD 2723 2730	absceso
+T8	ENFERMEDAD 2938 2977	Tricúspide normal, insuficiencia ligera
+T9	ENFERMEDAD 3044 3071	hipertensión pulmonar grave
+T10	ENFERMEDAD 3098 3113	Derrame pleural
+T11	ENFERMEDAD 3329 3347	proceso infeccioso
+T12	ENFERMEDAD 3505 3514	infección
+T13	ENFERMEDAD 3742 3757	pseudoaneurisma
+T14	ENFERMEDAD 4086 4122	endocarditis sobre válvula protésica
+T15	ENFERMEDAD 4259 4274	pseudoaneurisma
+T16	ENFERMEDAD 4382 4422	absceso abierto hacia aurícula izquierda
+T17	ENFERMEDAD 4641 4648	absceso
+T18	ENFERMEDAD 5227 5322	Endocarditis infecciosa por Streptococcus gordinii multisensible sobre prótesis mitral mecánica
+T19	ENFERMEDAD 5338 5363	absceso perianular mitral
+T20	ENFERMEDAD 5510 5542	infección de bolsa de marcapasos
+T21	ENFERMEDAD 332 349	hematoma de bolsa
+T22	ENFERMEDAD 3123 3157	Cava inferior ligeramente dilatada
+T23	ENFERMEDAD 4045 4052	absceso
+T24	ENFERMEDAD 4554 4579	anillo mitral calcificado
+T25	ENFERMEDAD 4568 4617	calcificado, así como parte de la pared auricular
+T26	ENFERMEDAD 95 115	insuficiencia mitral
+T27	ENFERMEDAD 2869 2902	aurículas con dilatación moderada
+T28	PROCEDIMIENTO 117 176	Recambio valvular mitral por prótesis mecánica Bjork no. 31
+T29	PROCEDIMIENTO 186 208	Implante de marcapasos
+T30	PROCEDIMIENTO 377 389	hemocultivos
+T31	PROCEDIMIENTO 402 405	ETT
+T32	PROCEDIMIENTO 978 1010	tratamiento antibiótico empírico
+T33	PROCEDIMIENTO 1148 1160	hemocultivos
+T34	PROCEDIMIENTO 1479 1500	Auscultación cardiaca
+T35	PROCEDIMIENTO 1560 1581	Auscultación pulmonar
+T36	PROCEDIMIENTO 1731 1734	ECG
+T37	PROCEDIMIENTO 1790 1810	RADIOGRAFÍA DE TÓRAX
+T38	PROCEDIMIENTO 1875 1884	Hemograma
+T39	PROCEDIMIENTO 2285 2314	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T40	PROCEDIMIENTO 2316 2319	ETT
+T41	PROCEDIMIENTO 2323 2353	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T42	PROCEDIMIENTO 2355 2358	ETE
+T43	PROCEDIMIENTO 3269 3281	PET-TC TÓRAX
+T44	PROCEDIMIENTO 3566 3615	válvula mitral con recambio por prótesis mecánica
+T45	PROCEDIMIENTO 3938 3941	ETT
+T46	PROCEDIMIENTO 4161 4167	PET/TC
+T47	PROCEDIMIENTO 4666 4731	se implanta una prótesis biológica mitral Perimount Edwards no 27
+T48	PROCEDIMIENTO 4804 4810	PET-TC
+T49	PROCEDIMIENTO 4895 4918	tratamiento antibiótico
+T50	PROCEDIMIENTO 4951 4963	hemocultivos
+T51	PROCEDIMIENTO 5154 5177	tratamiento antibiótico
+T52	PROCEDIMIENTO 5365 5456	Reemplazo de prótesis mitral mecánica por prótesis biológica mitral Perimount Edwards No 27
+T53	PROCEDIMIENTO 5458 5493	Recambio de generador de marcapasos
+T54	PROCEDIMIENTO 272 293	recambio de generador
+T55	PROCEDIMIENTO 1189 1207	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 2172 2183	Coagulación
+T57	PROCEDIMIENTO 2226 2236	Gasometría
+T58	PROCEDIMIENTO 4630 4663	cierra del absceso con dos puntos
+T59	PROCEDIMIENTO 4742 4763	recambio de generador
+T60	PROCEDIMIENTO 3822 3830	cultivos
+T61	PROCEDIMIENTO 1977 1987	Bioquímica
+T62	PROCEDIMIENTO 1864 1873	ANALÍTICA
+T63	PROCEDIMIENTO 1316 1329	gafas nasales
+T64	PROCEDIMIENTO 4319 4342	intervención quirúrgica
+T65	SINTOMA 377 399	hemocultivos negativos
+T66	SINTOMA 787 803	malestar general
+T67	SINTOMA 805 812	cefalea
+T68	SINTOMA 814 826	artomialgias
+T69	SINTOMA 828 836	anorexia
+T70	SINTOMA 838 844	fiebre
+T71	SINTOMA 847 862	pérdida de peso
+T72	SINTOMA 1076 1091	síndrome febril
+T73	SINTOMA 1094 1111	deterioro general
+T74	SINTOMA 1133 1186	crecimiento en hemocultivos de Streptococcus gordinii
+T75	SINTOMA 1352 1362	Consciente
+T76	SINTOMA 1364 1373	orientado
+T77	SINTOMA 1376 1387	colaborador
+T78	SINTOMA 1389 1408	Buen estado general
+T79	SINTOMA 1410 1428	Eupneica en reposo
+T80	SINTOMA 1430 1452	Buena perfusión distal
+T81	SINTOMA 1502 1527	Ruidos cardiacos rítmicos
+T82	SINTOMA 1532 1547	click protésico
+T83	SINTOMA 1552 1558	soplos
+T84	SINTOMA 1583 1589	roncus
+T85	SINTOMA 1599 1618	crepitantes en base
+T86	SINTOMA 1630 1664	Extremidades inferiores: no edemas
+T87	SINTOMA 1736 1779	ritmo ventricular estimulado por marcapasos
+T88	SINTOMA 1812 1852	condensación a nivel del lóbulo superior
+T89	SINTOMA 2833 2861	contractilidad global normal
+T90	SINTOMA 2938 2955	Tricúspide normal
+T91	SINTOMA 3804 3819	síndrome febril
+T92	SINTOMA 3822 3869	cultivos positivos para Estreptococcus gordinii
+T93	SINTOMA 4195 4245	colección en la porción anterior del anillo mitral
+T94	SINTOMA 402 412	ETT normal
+T95	SINTOMA 2904 2936	Válvula aórtica normofuncionante
+T96	SINTOMA 3617 3626	Colección
+T97	SINTOMA 2796 2831	Ventrículo derecho (VD) no dilatado
+T98	SINTOMA 5016 5028	asintomática
+T99	SINTOMA 3074 3096	Pericardio sin derrame
+T100	SINTOMA 1454 1477	estado hídrico adecuado
+T101	SINTOMA 2732 2785	Ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T102	SINTOMA 4543 4549	pannus
+T103	SINTOMA 4951 5008	hemocultivos de control y de material protésico negativos
+T104	FARMACO 446 456	ampicilina
+T105	FARMACO 459 470	gentamicina
+T106	FARMACO 535 547	acenocumarol
+T107	FARMACO 563 591	olmesartán/hidroclorotiazida
+T108	FARMACO 645 653	zolpidem
+T109	FARMACO 672 693	formoterol/budesodina
+T110	FARMACO 1015 1028	levofloxacino
+T111	FARMACO 1041 1049	imipenem
+T112	FARMACO 4930 4946	bencilpenicilina
+T113	FARMACO 5182 5193	amoxicilina
+T114	FARMACO 615 625	verapamilo

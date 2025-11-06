@@ -1,0 +1,151 @@
+T1	ENFERMEDAD 5338 5378	Aurícula izquierda ligeramente dilatadal
+T2	ENFERMEDAD 5409 5468	Válvula aórtica trivalva, con engrosamiento y calcificación
+T3	ENFERMEDAD 5579 5678	Válvula mitral de velos ligeramente engrosados, con apertura conservada, insuficiencia central leve
+T4	ENFERMEDAD 129 152	alergias medicamentosas
+T5	ENFERMEDAD 170 185	hábitos tóxicos
+T6	ENFERMEDAD 229 250	hipertensión arterial
+T7	ENFERMEDAD 253 263	dislipemia
+T8	ENFERMEDAD 331 345	Hipotiroidismo
+T9	ENFERMEDAD 383 466	Ictus isquémico (2015) en territorio de ACM izquierda, de etiología aterotrombótica
+T10	ENFERMEDAD 548 570	tumor benigno cerebral
+T11	ENFERMEDAD 580 590	meningioma
+T12	ENFERMEDAD 593 628	Atrofia del nervio óptico izquierdo
+T13	ENFERMEDAD 698 727	cardiopatía isquémica crónica
+T14	ENFERMEDAD 742 787	angor en 2003, con enfermedad de TC y 3 vasos
+T15	ENFERMEDAD 999 1005	angina
+T16	ENFERMEDAD 1236 1252	angina inestable
+T17	ENFERMEDAD 1417 1450	lesión severa en TC distal y DAp,
+T18	ENFERMEDAD 1451 1485	suboclusión crónica en CF proximal
+T19	ENFERMEDAD 1487 1527	oclusión completa crónica en CD proximal
+T20	ENFERMEDAD 2422 2428	angina
+T21	ENFERMEDAD 2451 2471	enfermedad coronaria
+T22	ENFERMEDAD 2797 2799	FA
+T23	ENFERMEDAD 3954 3975	fibrilación auricular
+T24	ENFERMEDAD 4043 4068	extrasístoles auriculares
+T25	ENFERMEDAD 4247 4291	lesión severa a nivel de tronco común distal
+T26	ENFERMEDAD 4537 4557	CX con lesión severa
+T27	ENFERMEDAD 4669 4702	CD dominante con oclusión crónica
+T28	ENFERMEDAD 5004 5031	hipertrofia septal moderada
+T29	ENFERMEDAD 5860 5879	derrame pericárdico
+T30	ENFERMEDAD 6231 6250	derrame pericárdico
+T31	ENFERMEDAD 6404 6411	SCASEST
+T32	ENFERMEDAD 6418 6432	FA paroxística
+T33	ENFERMEDAD 6598 6628	extrasistolia supraventricular
+T34	ENFERMEDAD 6770 6801	lesión/oclusión de bypass de VS
+T35	ENFERMEDAD 7066 7106	Hematoma en relación a la punción radial
+T36	ENFERMEDAD 7233 7240	infarto
+T37	ENFERMEDAD 7282 7315	fibrilación auricular paroxística
+T38	ENFERMEDAD 7842 7852	meningioma
+T39	ENFERMEDAD 7858 7876	hematoma del brazo
+T40	ENFERMEDAD 8206 8212	angina
+T41	ENFERMEDAD 8340 8373	Fibrilación auricular paroxística
+T42	ENFERMEDAD 8425 8454	Cardiopatía isquémica crónica
+T43	ENFERMEDAD 8456 8493	Enfermedad coronaria de TCI y 3 vasos
+T44	ENFERMEDAD 8559 8580	Cardiopatía isquémica
+T45	ENFERMEDAD 8633 8648	ictus isquémico
+T46	ENFERMEDAD 8650 8671	Hipertensión arterial
+T47	ENFERMEDAD 8673 8683	Dislipemia
+T48	ENFERMEDAD 8685 8709	Diabetes mellitus tipo 2
+T49	ENFERMEDAD 264 288	Diabetes mellitus tipo 2
+T50	ENFERMEDAD 1529 1551	injerto AMI-DA ocluido
+T51	ENFERMEDAD 2848 2853	BRIHH
+T52	ENFERMEDAD 4107 4112	BRIHH
+T53	ENFERMEDAD 4036 4041	BRIHH
+T54	ENFERMEDAD 6270 6272	FA
+T55	ENFERMEDAD 6590 6595	BRIHH
+T56	ENFERMEDAD 8374 8415	Infarto de miocardio sin elevación del ST
+T57	ENFERMEDAD 8710 8724	Hipotiroidismo
+T58	ENFERMEDAD 5705 5746	Válvula tricúspide con insuficiencia leve
+T59	ENFERMEDAD 6199 6212	valvulopatías
+T60	ENFERMEDAD 3995 4000	BRIHH
+T61	ENFERMEDAD 4345 4375	DA con lesiones significativas
+T62	ENFERMEDAD 4433 4503	Lesión significativa a nivel de tercio medio- distal de ramo bisectriz
+T63	ENFERMEDAD 4586 4635	Lesión crítica a nivel de la bifurcación CX-1a OM
+T64	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDIMIENTO 308 329	antidiabéticos orales
+T66	PROCEDIMIENTO 331 381	Hipotiroidismo en tratamiento hormonal sustitutivo
+T67	PROCEDIMIENTO 817 942	doble bypass coronario de arteria mamaria interna (AMI) a descendente anterior (DA) y de vena safena (VS) a coronaria derecha
+T68	PROCEDIMIENTO 1011 1026	coronariografía
+T69	PROCEDIMIENTO 1202 1205	ICP
+T70	PROCEDIMIENTO 1320 1335	ecocardiografía
+T71	PROCEDIMIENTO 1393 1408	coronariografía
+T72	PROCEDIMIENTO 1614 1642	revascularización percutánea
+T73	PROCEDIMIENTO 1841 1856	nitratos orales
+T74	PROCEDIMIENTO 2776 2779	ECG
+T75	PROCEDIMIENTO 3519 3538	Perfil cardiológico
+T76	PROCEDIMIENTO 3938 3941	ECG
+T77	PROCEDIMIENTO 4002 4005	ECG
+T78	PROCEDIMIENTO 4081 4084	ECG
+T79	PROCEDIMIENTO 4114 4134	Radiografía de tórax
+T80	PROCEDIMIENTO 4230 4245	Coronariografía
+T81	PROCEDIMIENTO 4757 4798	injerto de safena a descendente posterior
+T82	PROCEDIMIENTO 4877 4909	canaliza injerto de mamaria a DA
+T83	PROCEDIMIENTO 4954 4968	Ecocardiograma
+T84	PROCEDIMIENTO 5979 5989	ecoescopia
+T85	PROCEDIMIENTO 6252 6255	ECG
+T86	PROCEDIMIENTO 6360 6380	doble antiagregación
+T87	PROCEDIMIENTO 6383 6398	anticoagulación
+T88	PROCEDIMIENTO 6517 6532	betabloqueantes
+T89	PROCEDIMIENTO 6573 6576	ECG
+T90	PROCEDIMIENTO 6700 6715	coronariografía
+T91	PROCEDIMIENTO 6836 6851	coronariografia
+T92	PROCEDIMIENTO 6856 6894	prueba previa de detección de isquemia
+T93	PROCEDIMIENTO 7003 7031	cirugía de revascularización
+T94	PROCEDIMIENTO 7092 7106	punción radial
+T95	PROCEDIMIENTO 7138 7156	vendaje compresivo
+T96	PROCEDIMIENTO 7361 7375	betabloqueante
+T97	PROCEDIMIENTO 7563 7572	estatinas
+T98	PROCEDIMIENTO 7906 7921	anticoagulación
+T99	PROCEDIMIENTO 8310 8325	perfil hepático
+T100	PROCEDIMIENTO 8508 8545	doble bypass AMI-DA (ocluido) y VS-DP
+T101	PROCEDIMIENTO 3180 3189	Analítica
+T102	PROCEDIMIENTO 3842 3851	Analítica
+T103	PROCEDIMIENTO 4800 4841	Injerto de safena a descendente posterior
+T104	PROCEDIMIENTO 7427 7436	analítica
+T105	PROCEDIMIENTO 7498 7508	analíticas
+T106	PROCEDIMIENTO 7690 7707	enzimas hepáticas
+T107	SINTOMA 496 527	desviación de la comisura bucal
+T108	SINTOMA 633 662	disminución de agudeza visual
+T109	SINTOMA 1340 1355	FEVI conservada
+T110	SINTOMA 2033 2046	palpitaciones
+T111	SINTOMA 2068 2145	dolor centrotorácico opresivo con irradiación a ambas extremidades superiores
+T112	SINTOMA 2151 2162	vegetatismo
+T113	SINTOMA 2224 2238	dolor torácico
+T114	SINTOMA 2566 2571	dolor
+T115	SINTOMA 2724 2736	asintomática
+T116	SINTOMA 2738 2763	estable hemodinámicamente
+T117	SINTOMA 4015 4028	ritmo sinusal
+T118	SINTOMA 4094 4096	RS
+T119	SINTOMA 4114 4175	Radiografía de tórax: silueta en límite alto de la normalidad
+T120	SINTOMA 4202 4228	Campos pulmonares normales
+T121	SINTOMA 4970 5002	ventrículo izquierdo no dilatado
+T122	SINTOMA 5033 5061	función sistólica conservada
+T123	SINTOMA 5281 5336	Ventrículo derecho de tamaño normal, función conservada
+T124	SINTOMA 5380 5407	Diámetros aórticos normales
+T125	SINTOMA 5898 5918	masas intracardiacas
+T126	SINTOMA 5954 5966	asintomática
+T127	SINTOMA 5994 6009	FEVI conservada
+T128	SINTOMA 6011 6019	Acinesia
+T129	SINTOMA 6153 6193	VD de morfología y contractilidad normal
+T130	SINTOMA 6481 6492	bradicardia
+T131	SINTOMA 7455 7481	elevación de transaminasas
+T132	SINTOMA 8003 8017	dolor torácico
+T133	SINTOMA 8585 8615	función ventricular conservada
+T134	SINTOMA 1358 1380	aquinesia infero-basal
+T135	SINTOMA 1554 1569	VS-DP permeable
+T136	SINTOMA 5793 5823	Vena cava inferior no dilatada
+T137	SINTOMA 6080 6091	hipocinesia
+T138	SINTOMA 5087 5095	acinesia
+T139	FARMACO 1804 1807	AAS
+T140	FARMACO 1822 1830	atenolol
+T141	FARMACO 1872 1882	metformina
+T142	FARMACO 1897 1909	levotiroxina
+T143	FARMACO 1924 1937	atorvastatina
+T144	FARMACO 1951 1960	enalapril
+T145	FARMACO 3044 3047	AAS
+T146	FARMACO 3060 3071	clopidogrel
+T147	FARMACO 3073 3084	enoxaparina
+T148	FARMACO 7337 7347	amiodarona
+T149	FARMACO 7597 7610	atorvastatina
+T150	FARMACO 7615 7628	pitavastatina
+T151	FARMACO 7650 7663	pitavastatina

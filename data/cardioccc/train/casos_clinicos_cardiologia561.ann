@@ -1,0 +1,96 @@
+T1	DISEASE 2834 2853	congestión pulmonar
+T2	DISEASE 2946 2991	ventrículo izquierdo (VI) gravemente dilatado
+T3	DISEASE 155 176	hipertensión arterial
+T4	DISEASE 178 202	diabetes mellitus tipo 2
+T5	DISEASE 204 223	hipercolesterolemia
+T6	DISEASE 225 234	exfumador
+T7	DISEASE 237 269	fibrilación auricular permanente
+T8	DISEASE 384 412	trombo en orejuela izquierda
+T9	DISEASE 452 474	valvulopatía reumática
+T10	DISEASE 698 721	hiperpotasemia moderada
+T11	DISEASE 1744 1769	trombosis venosa profunda
+T12	DISEASE 2035 2076	descompensación de insuficiencia cardiaca
+T13	DISEASE 2601 2648	fibrilación auricular con respuesta ventricular
+T14	DISEASE 2687 2710	bloqueo de rama derecha
+T15	DISEASE 2712 2715	BRD
+T16	DISEASE 2880 2905	derrame pleural bilateral
+T17	DISEASE 3346 3373	insuficiencia periprotésica
+T18	DISEASE 4824 4838	hiperpotasemia
+T19	DISEASE 6209 6288	Insuficiencia cardiaca crónica con FEVI gravemente deprimida de origen valvular
+T20	DISEASE 6436 6458	insuficiencia cardiaca
+T21	DISEASE 6350 6386	Hiperpotasemia moderada asintomática
+T22	DISEASE 3036 3059	hipertrofia concéntrica
+T23	PROCEDURE 3687 3707	quelante del potasio
+T24	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDURE 270 283	anticoagulada
+T26	PROCEDURE 344 358	anticoagulante
+T27	PROCEDURE 479 559	sustitución valvular en 2004 por prótesis mecánicas en posición mitral y aórtica
+T28	PROCEDURE 592 607	coronariografía
+T29	PROCEDURE 1097 1115	Exploración física
+T30	PROCEDURE 1419 1440	Auscultación cardiaca
+T31	PROCEDURE 1523 1544	Auscultación pulmonar
+T32	PROCEDURE 2139 2161	tratamiento deplectivo
+T33	PROCEDURE 2562 2580	Electrocardiograma
+T34	PROCEDURE 2582 2585	ECG
+T35	PROCEDURE 2718 2738	Radiografía de tórax
+T36	PROCEDURE 2908 2936	Ecocardiograma transtorácico
+T37	PROCEDURE 3404 3437	tratamiento diurético intravenoso
+T38	PROCEDURE 4086 4092	ARA-II
+T39	PROCEDURE 4680 4726	antagonista del receptor de mineralcorticoides
+T40	PROCEDURE 5707 5735	ecocardiograma transtorácico
+T41	PROCEDURE 803 827	medicación neurohormonal
+T42	PROCEDURE 2766 2784	esternotomía media
+T43	PROCEDURE 3854 3879	tratamiento neurohormonal
+T44	PROCEDURE 6402 6427	tratamiento neurohormonal
+T45	PROCEDURE 2198 2207	Analítica
+T46	PROCEDURE 3986 3995	analítica
+T47	PROCEDURE 4802 4811	analítica
+T48	PROCEDURE 3579 3598	analíticas seriadas
+T49	PROCEDURE 1502 1514	se auscultan
+T50	SYMPTOM 943 993	disnea habitual hasta hacerse de mínimos esfuerzos
+T51	SYMPTOM 995 1003	ortopnea
+T52	SYMPTOM 1005 1014	bendopnea
+T53	SYMPTOM 1016 1049	disminución del ritmo de diuresis
+T54	SYMPTOM 1065 1094	edemas en miembros inferiores
+T55	SYMPTOM 1238 1262	Aceptable estado general
+T56	SYMPTOM 1264 1274	Consciente
+T57	SYMPTOM 1276 1285	orientado
+T58	SYMPTOM 1301 1315	Normocoloreado
+T59	SYMPTOM 1317 1331	normohidratado
+T60	SYMPTOM 1334 1349	normoperfundido
+T61	SYMPTOM 1365 1386	taquipneico en reposo
+T62	SYMPTOM 1392 1416	intolerancia al decúbito
+T63	SYMPTOM 1442 1469	ruidos cardiacos arrítmicos
+T64	SYMPTOM 1515 1521	soplos
+T65	SYMPTOM 1546 1589	crepitantes bilaterales hasta campos medios
+T66	SYMPTOM 1623 1684	Extremidades inferiores: pulsos pedios presentes y simétricos
+T67	SYMPTOM 1686 1729	Edemas con fóvea bilaterales hasta rodillas
+T68	SYMPTOM 2659 2668	QRS ancho
+T69	SYMPTOM 3068 3087	Hipoquinesia global
+T70	SYMPTOM 5904 5951	normalización de la función ventricular derecha
+T71	SYMPTOM 3115 3212	Ventrículo derecho de tamaño límite (Dd 40 mm), con función sistólica global gravemente deprimida
+T72	SYMPTOM 3214 3276	Prótesis mecánicas en posición mitral y aórtica bien asentadas
+T73	SYMPTOM 5971 5997	prótesis normofuncionantes
+T74	SYMPTOM 1288 1299	colaborador
+T75	SYMPTOM 2855 2878	redistribución vascular
+T76	SYMPTOM 1601 1621	ruidos sobreañadidos
+T77	SYMPTOM 3494 3514	síntomas congestivos
+T78	SYMPTOM 5772 5790	aumento de la FEVI
+T79	MEDICATION 288 297	warfarina
+T80	MEDICATION 315 327	acenocumarol
+T81	MEDICATION 1791 1802	candesartán
+T82	MEDICATION 1817 1827	furosemida
+T83	MEDICATION 1843 1855	simvastatina
+T84	MEDICATION 1871 1881	bisoprolol
+T85	MEDICATION 1898 1907	warfarina
+T86	MEDICATION 1926 1936	metformina
+T87	MEDICATION 1957 1968	pantoprazol
+T88	MEDICATION 4094 4105	candesartán
+T89	MEDICATION 4332 4353	sacubitrilo/valsartán
+T90	MEDICATION 4728 4743	espironolactona
+T91	MEDICATION 5075 5096	sacubitrilo/valsartán
+T92	MEDICATION 5122 5137	espironolactona
+T93	MEDICATION 5498 5513	espironolactona
+T94	MEDICATION 4902 4911	patiromer
+T95	MEDICATION 3709 3718	patiromer
+T96	MEDICATION 5422 5431	patiromer

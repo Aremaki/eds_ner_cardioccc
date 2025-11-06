@@ -1,0 +1,150 @@
+T1	DISEASE 125 146	Retinopatía diabética
+T2	DISEASE 159 162	HTA
+T3	DISEASE 219 223	EPOC
+T4	DISEASE 510 525	angina esfuerzo
+T5	DISEASE 1145 1176	HVI concéntrica moderada-severa
+T6	DISEASE 1274 1386	Válvula aórtica bicúspide severamente calcificada y muy desestructurada con restricción importante a la apertura
+T7	DISEASE 1757 1767	EAo severa
+T8	DISEASE 1820 1886	dilatación aneurismática difusa de raíz aórtica y aorta ascendente
+T9	DISEASE 2734 2770	insuficiencia cardiaca descompensada
+T10	DISEASE 2787 2808	edema agudo de pulmón
+T11	DISEASE 2966 2976	FA con RVR
+T12	DISEASE 3107 3117	EAo severa
+T13	DISEASE 3528 3580	lesión severa bifurcada de ADA media y ramo diagonal
+T14	DISEASE 4361 4427	derrame pericárdico moderado asociado a inestabilidad hemodinámica
+T15	DISEASE 4683 4698	Derrame pleural
+T16	DISEASE 4738 4740	FA
+T17	DISEASE 5239 5268	derrame pericárdico posterior
+T18	DISEASE 5277 5300	derrame pleural bibasal
+T19	DISEASE 5669 5715	Estenosis aórtica severa con válvula bicúspide
+T20	DISEASE 5718 5763	Dilatación de raíz aórtica y aorta ascendente
+T21	DISEASE 5777 5832	Lesión severa bifurcada de arteria descendente anterior
+T22	DISEASE 164 167	DLP
+T23	DISEASE 169 176	Fumador
+T24	DISEASE 5176 5179	HTP
+T25	DISEASE 3045 3060	daño miocárdico
+T26	DISEASE 3613 3666	válvula aórtica calcificada con apertura muy reducida
+T27	DISEASE 100 104	DMID
+T28	DISEASE 528 530	IC
+T29	DISEASE 1460 1485	Aorta ascendente dilatada
+T30	DISEASE 1685 1708	ACD con lesión moderada
+T31	DISEASE 3837 3855	VI con hipertrofia
+T32	DISEASE 4829 4841	HVI moderada
+T33	DISEASE 363 381	cuadro confusional
+T34	DISEASE 1545 1566	ADA con lesión severa
+T35	DISEASE 4486 4507	coágulos pegados a VI
+T36	DISEASE 5181 5193	VCI dilatada
+T37	DISEASE 4104 4118	Aorta elongada
+T38	PROCEDURE 265 278	arteriografía
+T39	PROCEDURE 281 330	embolización de ambas arterias maxilares internas
+T40	PROCEDURE 415 418	TAC
+T41	PROCEDURE 420 423	RMN
+T42	PROCEDURE 426 429	EEG
+T43	PROCEDURE 866 875	Hemograma
+T44	PROCEDURE 886 889	ECG
+T45	PROCEDURE 1001 1021	Radiografía de tórax
+T46	PROCEDURE 1109 1124	Ecocardiografía
+T47	PROCEDURE 1510 1525	Coronariografía
+T48	PROCEDURE 1803 1818	Angio-TAC aorta
+T49	PROCEDURE 2134 2155	tratamiento diurético
+T50	PROCEDURE 2467 2514	reparación de aorta ascendente (tubo valvulado)
+T51	PROCEDURE 2517 2549	cirugía de bypass aortocoronario
+T52	PROCEDURE 2818 2822	VMNI
+T53	PROCEDURE 3017 3020	ECG
+T54	PROCEDURE 3090 3105	ecocardiografía
+T55	PROCEDURE 3582 3597	Ecocardiografía
+T56	PROCEDURE 4038 4066	resección de válvula aórtica
+T57	PROCEDURE 4231 4254	bypass de mamaria a ADA
+T58	PROCEDURE 4522 4541	limpieza de cavidad
+T59	PROCEDURE 4798 4813	Ecocardiografía
+T60	PROCEDURE 5609 5624	insulinoterapia
+T61	PROCEDURE 96 98	AP
+T62	PROCEDURE 4288 4313	Drenaje pleural izquierdo
+T63	PROCEDURE 829 844	Perfil hepático
+T64	PROCEDURE 5870 5935	Sustitución valvular aórtica por prótesis biológica Mitflow no 25
+T65	PROCEDURE 4437 4443	aminas
+T66	PROCEDURE 2636 2652	cirugía cardiaca
+T67	PROCEDURE 2426 2465	cirugía de sustitución valvular aórtica
+T68	PROCEDURE 766 779	función renal
+T69	PROCEDURE 782 787	iones
+T70	PROCEDURE 3034 3069	Enzimas de daño miocárdico seriadas
+T71	PROCEDURE 4320 4342	drenajes mediastínicos
+T72	PROCEDURE 5330 5368	dieta cardiosaludable exenta de grasas
+T73	PROCEDURE 5937 5951	Bypass AMI-ADA
+T74	PROCEDURE 746 755	Analítica
+T75	PROCEDURE 584 586	EF
+T76	PROCEDURE 3905 3921	prueba de imagen
+T77	PROCEDURE 125 156	Retinopatía diabética (fotocoag
+T78	PROCEDURE 2999 3015	PC de amiodarona
+T79	PROCEDURE 3511 3515	PPCC
+T80	PROCEDURE 3523 3526	CNG
+T81	PROCEDURE 3994 4006	Intervención
+T82	PROCEDURE 4272 4278	anoxia
+T83	PROCEDURE 4281 4286	bomba
+T84	PROCEDURE 4051 4102	válvula aórtica: prótesis biológica Mitroflow no 25
+T85	PROCEDURE 4446 4473	Reintervención exploratoria
+T86	PROCEDURE 4756 4772	PC de amiodarona
+T87	SYMPTOM 71 77	disnea
+T88	SYMPTOM 80 94	dolor torácico
+T89	SYMPTOM 588 619	soplo sistólico en foco aórtico
+T90	SYMPTOM 624 661	reducción de componente aórtico de 2R
+T91	SYMPTOM 706 717	crepitantes
+T92	SYMPTOM 757 796	glucosa, función renal e iones normales
+T93	SYMPTOM 798 827	CK y TnT US seriadas normales
+T94	SYMPTOM 829 851	Perfil hepático normal
+T95	SYMPTOM 866 882	Hemograma normal
+T96	SYMPTOM 891 904	ritmo Sinusal
+T97	SYMPTOM 929 941	QRS estrecho
+T98	SYMPTOM 943 982	escaso crecimiento de R en precordiales
+T99	SYMPTOM 1023 1056	silueta cardiaca de tamaño normal
+T100	SYMPTOM 1225 1240	FEVI preservada
+T101	SYMPTOM 1242 1252	VD: normal
+T102	SYMPTOM 2697 2731	dolor torácico de perfil isquémico
+T103	SYMPTOM 2991 2993	RS
+T104	SYMPTOM 3017 3032	ECG sin cambios
+T105	SYMPTOM 4401 4427	inestabilidad hemodinámica
+T106	SYMPTOM 4859 4894	alteraciones septales posquirúrgica
+T107	SYMPTOM 4917 4937	engrosamiento septal
+T108	SYMPTOM 4953 4964	hipocinesia
+T109	SYMPTOM 4967 5003	pérdida de engrosamiento inferobasal
+T110	SYMPTOM 5121 5142	válvula mitral normal
+T111	SYMPTOM 5144 5171	patrón diastólico invertido
+T112	SYMPTOM 4630 4642	leucocitosis
+T113	SYMPTOM 4546 4570	punto de sangrado activo
+T114	SYMPTOM 4584 4627	secreciones purulentas por tubo orotraqueal
+T115	SYMPTOM 226 235	Epixtasis
+T116	SYMPTOM 4940 4951	hipocinesia
+T117	SYMPTOM 1182 1223	defectos de la contractilidad segmentaria
+T118	SYMPTOM 1652 1668	ACX sin lesiones
+T119	SYMPTOM 5106 5119	regurgitación
+T120	SYMPTOM 1527 1543	TCI sin lesiones
+T121	SYMPTOM 690 701	4R presente
+T122	SYMPTOM 915 927	PR constante
+T123	SYMPTOM 984 997	Eje izquierdo
+T124	SYMPTOM 1058 1094	Parénquimas pulmonares sin hallazgos
+T125	SYMPTOM 1126 1143	AI: tamaño normal
+T126	SYMPTOM 1254 1272	VM y VTr: normales
+T127	SYMPTOM 3034 3078	Enzimas de daño miocárdico seriadas normales
+T128	SYMPTOM 4199 4218	DA de buena calidad
+T129	SYMPTOM 4683 4722	Derrame pleural izquierdo (serohemático
+T130	MEDICATION 2199 2202	AAS
+T131	MEDICATION 2219 2229	bisoprolol
+T132	MEDICATION 2244 2256	simvastatina
+T133	MEDICATION 2279 2287	ramipril
+T134	MEDICATION 2311 2320	omeprazol
+T135	MEDICATION 2351 2354	NTG
+T136	MEDICATION 2368 2384	insulina Humalog
+T137	MEDICATION 3005 3015	amiodarona
+T138	MEDICATION 4762 4772	amiodarona
+T139	MEDICATION 5370 5379	omeprazol
+T140	MEDICATION 5395 5398	AAS
+T141	MEDICATION 5415 5425	bisoprolol
+T142	MEDICATION 5442 5454	simvastatina
+T143	MEDICATION 5474 5484	furosemida
+T144	MEDICATION 5508 5516	ramipril
+T145	MEDICATION 5531 5541	amiodarona
+T146	MEDICATION 5558 5569	deflazacort
+T147	MEDICATION 4657 4681	piperacilina/ tazobactam
+#1	AnnotatorNotes T27	 diabetes mellitus insulinodependiente
+#2	AnnotatorNotes T28	 insuficiencia cardíaca
+#3	AnnotatorNotes T73	 AMI (arteria mamaria izquierda), ADA (arteria descendente anterior)

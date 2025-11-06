@@ -1,0 +1,130 @@
+T1	DISEASE 181 204	miocardiopatía dilatada
+T2	DISEASE 281 304	miocardiopatía dilatada
+T3	DISEASE 384 420	dislipemia tipo hipertrigliceridemia
+T4	DISEASE 548 616	miocardiopatía dilatada con disfunción sistólica grave biventricular
+T5	DISEASE 737 759	insuficiencia cardiaca
+T6	DISEASE 2195 2203	obesidad
+T7	DISEASE 2690 2726	síndrome de apnea-hipopnea del sueño
+T8	DISEASE 3985 3993	obesidad
+T9	DISEASE 4593 4606	cardiomegalia
+T10	DISEASE 7075 7098	hipotensión sintomática
+T11	DISEASE 7136 7146	ferropenia
+T12	DISEASE 7687 7710	miocardiopatía dilatada
+T13	DISEASE 761 763	IC
+T14	DISEASE 5613 5615	IC
+T15	DISEASE 7668 7670	IC
+T16	DISEASE 436 452	bebedor moderado
+T17	DISEASE 341 348	fumador
+T18	DISEASE 4173 4186	hepatomegalia
+T19	DISEASE 6505 6516	hipotensión
+T20	DISEASE 649 677	miocardiopatía no compactada
+T21	DISEASE 7784 7812	miocardiopatía no compactada
+T22	DISEASE 796 830	ventrículo izquierdo (VI) dilatado
+T23	DISEASE 1198 1230	Ventrículo derecho (VD) dilatado
+T24	DISEASE 1354 1422	Aurícula izquierda (AI) y aurícula derecha (AD) gravemente dilatadas
+T25	DISEASE 1424 1491	Dilatación de arteria pulmonar, vena cava inferior y suprahepáticas
+T26	DISEASE 458 476	consumo de alcohol
+T27	DISEASE 5338 5379	descompensación tras el diagnóstico de IC
+T28	DISEASE 223 236	muerte súbita
+T29	DISEASE 377 382	obeso
+T30	DISEASE 2169 2203	trastorno restrictivo por obesidad
+T31	DISEASE 7728 7768	disfunción sistólica biventricular grave
+T32	PROCEDURE 681 701	resonancia magnética
+T33	PROCEDURE 1558 1573	coronariografía
+T34	PROCEDURE 1993 2009	ergoespirometría
+T35	PROCEDURE 2419 2467	implante de desfibrilador automático implantable
+T36	PROCEDURE 2790 2794	CPAP
+T37	PROCEDURE 3763 3772	anamnesis
+T38	PROCEDURE 3998 4019	auscultación cardiaca
+T39	PROCEDURE 4074 4095	auscultación pulmonar
+T40	PROCEDURE 4358 4376	ELECTROCARDIOGRAMA
+T41	PROCEDURE 4378 4381	ECG
+T42	PROCEDURE 4571 4591	RADIOGRAFÍA DE TÓRAX
+T43	PROCEDURE 5391 5423	tratamiento diurético endovenoso
+T44	PROCEDURE 5700 5725	tratamiento neurohormonal
+T45	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T46	PROCEDURE 3788 3806	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 1859 1873	betabloqueante
+T48	PROCEDURE 1752 1780	medidas higiénico-dietéticas
+T49	PROCEDURE 3667 3695	medidas higiénico-dietéticas
+T50	PROCEDURE 5556 5584	medidas higiénico-dietéticas
+T51	PROCEDURE 1875 1877	BB
+T52	PROCEDURE 2747 2788	presión positiva continua en la vía aérea
+T53	PROCEDURE 4697 4706	ANALÍTICA
+T54	PROCEDURE 2469 2472	DAI
+T55	PROCEDURE 7871 7874	DAI
+T56	PROCEDURE 2517 2535	estudios de imagen
+T57	PROCEDURE 3813 3824	exploración
+T58	SYMPTOM 84 90	disnea
+T59	SYMPTOM 1493 1510	Pericardio normal
+T60	SYMPTOM 3220 3261	disnea hasta hacerse de mínimos esfuerzos
+T61	SYMPTOM 3267 3275	ortopnea
+T62	SYMPTOM 3278 3305	disnea paroxística nocturna
+T63	SYMPTOM 3531 3558	disnea de mínimos esfuerzos
+T64	SYMPTOM 3838 3848	consciente
+T65	SYMPTOM 3851 3860	orientado
+T66	SYMPTOM 3862 3877	bien perfundido
+T67	SYMPTOM 3998 4030	auscultación cardiaca es rítmica
+T68	SYMPTOM 4060 4066	soplos
+T69	SYMPTOM 4144 4161	abdomen es blando
+T70	SYMPTOM 4397 4410	ritmo sinusal
+T71	SYMPTOM 4422 4453	Intervalo PR de duración normal
+T72	SYMPTOM 4520 4569	ondas T negativas asimétricas en DI, aVL, V5 y V6
+T73	SYMPTOM 5124 5134	TSH normal
+T74	SYMPTOM 5453 5463	congestión
+T75	SYMPTOM 5500 5519	pierde 4 kg de peso
+T76	SYMPTOM 6478 6491	mareo intenso
+T77	SYMPTOM 6505 6516	hipotensión
+T78	SYMPTOM 7136 7146	ferropenia
+T79	SYMPTOM 978 1002	hipocinesia grave difusa
+T80	SYMPTOM 1714 1721	Estable
+T81	SYMPTOM 1606 1653	arterias coronarias sin lesiones significativas
+T82	SYMPTOM 4665 4695	condensaciones parenquimatosas
+T83	SYMPTOM 1558 1603	coronariografía que mostró dominancia derecha
+T84	SYMPTOM 5874 5883	euvolemia
+T85	SYMPTOM 7310 7319	euvolemia
+T86	SYMPTOM 7848 7857	euvolemia
+T87	SYMPTOM 6287 6297	euvolémico
+T88	SYMPTOM 4235 4294	extremidades inferiores están edematosas hasta media pierna
+T89	SYMPTOM 1327 1352	hipocontractilidad global
+T90	SYMPTOM 1124 1196	realce tardío intramiocárdico en la inserción basal de ambos ventrículos
+T91	SYMPTOM 4616 4659	redistribución vascular a campos superiores
+T92	SYMPTOM 6822 6842	signos de congestión
+T93	SYMPTOM 6718 6736	signos congestivos
+T94	SYMPTOM 1004 1053	Hipertrabeculación de predominio lateral y apical
+T95	SYMPTOM 1091 1106	no compactación
+T96	SYMPTOM 4087 4139	pulmonar la ventilación es buena en todos los campos
+T97	SYMPTOM 4173 4207	hepatomegalia ligeramente dolorosa
+T98	SYMPTOM 4299 4330	relleno capilar distal es bueno
+T99	SYMPTOM 4471 4517	Escasa progresión de la onda R en precordiales
+T100	MEDICATION 1881 1907	inhibidores de aldosterona
+T101	MEDICATION 1949 1959	ivabradina
+T102	MEDICATION 2820 2829	enalapril
+T103	MEDICATION 2864 2874	carvedilol
+T104	MEDICATION 2934 2949	espironolactona
+T105	MEDICATION 2983 2993	ivabradina
+T106	MEDICATION 3052 3062	furosemida
+T107	MEDICATION 3389 3399	furosemida
+T108	MEDICATION 5756 5766	furosemida
+T109	MEDICATION 5925 5935	furosemida
+T110	MEDICATION 6080 6089	enalapril
+T111	MEDICATION 6133 6154	sacubitrilo/valsartán
+T112	MEDICATION 6364 6385	sacubitrilo/valsartán
+T113	MEDICATION 6599 6620	sacubitrilo/valsartán
+T114	MEDICATION 6677 6687	furosemida
+T115	MEDICATION 6883 6904	sacubitrilo/valsartán
+T116	MEDICATION 6949 6959	furosemida
+T117	MEDICATION 7039 7060	sacubitrilo/valsartán
+T118	MEDICATION 7172 7193	hierro-carboximaltosa
+T119	MEDICATION 7363 7384	sacubitrilo/valsartán
+T120	MEDICATION 7425 7435	carvedilol
+T121	MEDICATION 7472 7482	ivabradina
+T122	MEDICATION 7518 7528	furosemida
+T123	MEDICATION 7564 7579	espironolactona
+T124	MEDICATION 7611 7620	omeprazol
+T125	MEDICATION 1852 1856	IECA
+T126	MEDICATION 1795 1850	inhibidor de la enzima de conversión de la angiotensina
+#1	AnnotatorNotes T13	 insuficiencia cardiaca
+#2	AnnotatorNotes T14	 insuficiencia cardiaca
+#3	AnnotatorNotes T15	 insuficiencia cardiaca
+#4	AnnotatorNotes T51	 betabloqueante

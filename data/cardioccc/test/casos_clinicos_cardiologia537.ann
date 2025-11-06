@@ -1,0 +1,132 @@
+T1	ENFERMEDAD 2138 2157	congestión pulmonar
+T2	ENFERMEDAD 198 217	hipercolesteronemia
+T3	ENFERMEDAD 222 239	diabetes mellitus
+T4	ENFERMEDAD 243 264	hipertensión arterial
+T5	ENFERMEDAD 275 283	Fumadora
+T6	ENFERMEDAD 354 375	Enfermedad de Perthes
+T7	ENFERMEDAD 419 438	Fractura de tobillo
+T8	ENFERMEDAD 1413 1416	TVP
+T9	ENFERMEDAD 1652 1667	oftalmoparesias
+T10	ENFERMEDAD 1906 1940	bloqueo incompleto de rama derecha
+T11	ENFERMEDAD 2970 3007	Insuficiencia mitral moderada por SAM
+T12	ENFERMEDAD 3046 3065	derrame pericárdico
+T13	ENFERMEDAD 3143 3154	hemorragias
+T14	ENFERMEDAD 3374 3473	lesión isquémica cortical extensa del lóbulo temporal izquierdo y se extiende hacia lóbulo parietal
+T15	ENFERMEDAD 3796 3839	Obstrucción proximal de la rama parietal M2
+T16	ENFERMEDAD 3919 4001	ectasia aneurismática en la región más distal de la arteria cerebral media derecha
+T17	ENFERMEDAD 4052 4158	lesión isquémica cortical extensa que afecta lóbulo temporal izquierdo y se extiende hacia lóbulo parietal
+T18	ENFERMEDAD 4726 4750	Leve derrame pericárdico
+T19	ENFERMEDAD 4752 4805	Calcificación de un disco intervertebral dorsal medio
+T20	ENFERMEDAD 4935 4945	tabaquismo
+T21	ENFERMEDAD 4948 4958	dislipemia
+T22	ENFERMEDAD 5123 5156	oclusión en M2 parietal izquierda
+T23	ENFERMEDAD 5239 5328	isquemia subaguda del territorio infartado, así como transformación hemorrágica petequial
+T24	ENFERMEDAD 5577 5598	cardiopatía de estrés
+T25	ENFERMEDAD 5861 5890	oclusión evanescente del vaso
+T26	ENFERMEDAD 5987 6023	infección activa a nivel del tobillo
+T27	ENFERMEDAD 6110 6121	trombofilia
+T28	ENFERMEDAD 6225 6239	disfasia mixta
+T29	ENFERMEDAD 6280 6342	Ictus isquémico en territorio arteria cerebral media izquierda
+T30	ENFERMEDAD 6349 6373	Miocardiopatía de estrés
+T31	ENFERMEDAD 6390 6415	proceso neurológico agudo
+T32	ENFERMEDAD 78 161	Alergias al metamizol y tonopan (dihidroergotamina mesilato/cafeína/ propifenazona)
+T33	ENFERMEDAD 1890 1903	preexcitación
+T34	ENFERMEDAD 2586 2604	eventos arrítmicos
+T35	ENFERMEDAD 4414 4463	anomalías en el origen de las arterias coronarias
+T36	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDIMIENTO 377 416	artroplastia con copa de cadera derecha
+T38	PROCEDIMIENTO 431 473	tobillo izquierdo con implante de prótesis
+T39	PROCEDIMIENTO 475 489	Amigdalectomía
+T40	PROCEDIMIENTO 830 833	ECG
+T41	PROCEDIMIENTO 999 1017	Exploración física
+T42	PROCEDIMIENTO 1208 1229	Auscultación cardiaca
+T43	PROCEDIMIENTO 1275 1296	Auscultación pulmonar
+T44	PROCEDIMIENTO 1467 1490	Exploración neurológica
+T45	PROCEDIMIENTO 1628 1647	Hemianopsia derecha
+T46	PROCEDIMIENTO 1809 1827	Electrocardiograma
+T47	PROCEDIMIENTO 2076 2096	Radiografía de tórax
+T48	PROCEDIMIENTO 2172 2181	hemograma
+T49	PROCEDIMIENTO 2363 2374	Coagulación
+T50	PROCEDIMIENTO 2557 2580	Monitorización cardiaca
+T51	PROCEDIMIENTO 2651 2679	Ecocardiograma transtorácico
+T52	PROCEDIMIENTO 2682 2685	ETT
+T53	PROCEDIMIENTO 3090 3114	TAC de cráneo multimodal
+T54	PROCEDIMIENTO 3628 3636	Angio-TC
+T55	PROCEDIMIENTO 4029 4050	Angio-TC de perfusión
+T56	PROCEDIMIENTO 4371 4397	TAC de arterias coronarias
+T57	PROCEDIMIENTO 4853 4867	Ecocardiograma
+T58	PROCEDIMIENTO 5059 5082	fibrinolisis endovenosa
+T59	PROCEDIMIENTO 5205 5216	neuroimagen
+T60	PROCEDIMIENTO 5406 5409	ECG
+T61	PROCEDIMIENTO 5415 5418	ETT
+T62	PROCEDIMIENTO 5621 5653	Angio-TAC de arterias coronarias
+T63	PROCEDIMIENTO 5701 5704	ETT
+T64	PROCEDIMIENTO 6099 6121	estudio de trombofilia
+T65	PROCEDIMIENTO 6159 6184	tratamiento antiagregante
+T66	PROCEDIMIENTO 6187 6196	estatinas
+T67	PROCEDIMIENTO 2255 2265	Bioquímica
+T68	PROCEDIMIENTO 2396 2409	Biomarcadores
+T69	PROCEDIMIENTO 5011 5023	Código Ictus
+T70	PROCEDIMIENTO 5898 5915	estudio analítico
+T71	SINTOMA 633 661	desviación de comisura bucal
+T72	SINTOMA 683 706	alteración del lenguaje
+T73	SINTOMA 862 908	inversión de onda T sobre todo en cara lateral
+T74	SINTOMA 928 942	dolor torácico
+T75	SINTOMA 944 950	disnea
+T76	SINTOMA 952 963	parestesias
+T77	SINTOMA 966 996	sintomatología neurovegetativa
+T78	SINTOMA 1077 1104	Bien hidratada y perfundida
+T79	SINTOMA 1145 1163	Eupneica en reposo
+T80	SINTOMA 1186 1206	Carótidas sin soplos
+T81	SINTOMA 1231 1256	ruidos cardiacos rítmicos
+T82	SINTOMA 1261 1273	soplo mitral
+T83	SINTOMA 1298 1327	murmullo vesicular conservado
+T84	SINTOMA 1344 1381	Abdomen blando depresible no doloroso
+T85	SINTOMA 1386 1400	edemas en MMII
+T86	SINTOMA 1418 1454	zona dolorosa, enrojecida en tobillo
+T87	SINTOMA 1492 1513	afasia expresiva leve
+T88	SINTOMA 1515 1556	dificultades para nominar algunos objetos
+T89	SINTOMA 1561 1571	parafasias
+T90	SINTOMA 1617 1626	disartria
+T91	SINTOMA 1669 1704	Paresia facial central derecha leve
+T92	SINTOMA 1709 1749	déficits motores evidentes ni sensitivos
+T93	SINTOMA 1840 1859	taquicardia sinusal
+T94	SINTOMA 2020 2063	ondas T negativas de V3-V6 y DII,DIII y aVF
+T95	SINTOMA 2363 2381	Coagulación normal
+T96	SINTOMA 2620 2633	ritmo sinusal
+T97	SINTOMA 2700 2748	ventrículo izquierdo no hipertrófico ni dilatado
+T98	SINTOMA 2784 2824	acinesia de todos los segmentos apicales
+T99	SINTOMA 2921 2968	Cavidades derechas de tamaño y función normales
+T100	SINTOMA 3653 3714	alteraciones en la salida caudal de los troncos supraaórticos
+T101	SINTOMA 4465 4475	TCI normal
+T102	SINTOMA 4656 4678	CD normal sin lesiones
+T103	SINTOMA 4819 4851	arterias coronarias sin lesiones
+T104	SINTOMA 5461 5501	acinesia de todos los segmentos apicales
+T105	SINTOMA 5504 5551	hipercontractilidad compensadora de los basales
+T106	SINTOMA 848 859	bigeminismo
+T107	SINTOMA 1751 1766	Cerebelo normal
+T108	SINTOMA 1942 1975	Alteraciones en la repolarización
+T109	SINTOMA 1994 2014	infradesnivel del ST
+T110	SINTOMA 2827 2874	hipercontractilidad compensadora de los basales
+T111	SINTOMA 3009 3041	Válvula aórtica normofuncionante
+T112	SINTOMA 3067 3088	Vena cava no dilatada
+T113	SINTOMA 4489 4498	DA normal
+T114	SINTOMA 4853 4898	Ecocardiograma en consulta, tras alta: normal
+T115	SINTOMA 5331 5336	edema
+T116	SINTOMA 4680 4698	Dominancia derecha
+T117	SINTOMA 4700 4724	Válvula aórtica trivalva
+T118	SINTOMA 1051 1075	aceptable estado general
+T119	SINTOMA 317 352	problemas articulares en ambos MMII
+T120	SINTOMA 1589 1611	comprensión conservada
+T121	SINTOMA 3163 3201	pérdida de surco hemisférico izquierda
+T122	SINTOMA 3716 3738	Vertebrales permeables
+T123	SINTOMA 3743 3779	ritorios carotídeos sin alteraciones
+T124	SINTOMA 4625 4654	OM desarrollada, sin lesiones
+T125	SINTOMA 4576 4623	Cx de escaso calibre y desarrollo, sin lesiones
+T126	SINTOMA 5621 5693	Angio-TAC de arterias coronarias que no demostró lesiones significativas
+T127	SINTOMA 5916 5948	se detecta anticoagulante lúpico
+T128	FARMACO 90 99	metamizol
+T129	FARMACO 102 109	tonopan
+T130	FARMACO 138 145	cafeína
+T131	FARMACO 111 137	dihidroergotamina mesilato
+T132	FARMACO 147 160	propifenazona

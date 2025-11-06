@@ -1,0 +1,115 @@
+T1	ENFERMEDAD 71 106	reacciones alérgicas medicamentosas
+T2	ENFERMEDAD 118 141	Hábito tabáquico activo
+T3	ENFERMEDAD 143 159	Obesidad mórbida
+T4	ENFERMEDAD 198 219	Hipertensión arterial
+T5	ENFERMEDAD 221 238	Diabetes mellitus
+T6	ENFERMEDAD 274 284	Dislipemia
+T7	ENFERMEDAD 286 310	Enfermedad renal crónica
+T8	ENFERMEDAD 323 352	Cardiopatía isquémica crónica
+T9	ENFERMEDAD 354 374	lesión de tres vasos
+T10	ENFERMEDAD 589 617	Oclusión total crónica de DA
+T11	ENFERMEDAD 650 704	síndrome coronario agudo sin elevación del segmento ST
+T12	ENFERMEDAD 706 713	SCASEST
+T13	ENFERMEDAD 1328 1357	cardiopatía isquémica crónica
+T14	ENFERMEDAD 4146 4184	Hipertrofia ventricular izquierda leve
+T15	ENFERMEDAD 4239 4252	valvulopatías
+T16	ENFERMEDAD 5001 5006	obeso
+T17	ENFERMEDAD 5360 5376	hábito tabáquico
+T18	ENFERMEDAD 5447 5476	SCASEST tipo angina inestable
+T19	ENFERMEDAD 5636 5696	Oclusión total crónica de arteria descendente anterior media
+T20	ENFERMEDAD 5698 5736	Cardiopatía isquémica crónica compleja
+T21	ENFERMEDAD 5793 5817	Diabetes mellitus tipo 2
+T22	ENFERMEDAD 3199 3255	TCI con una placa leve calcificada en el segmento distal
+T23	ENFERMEDAD 3264 3322	DA calcificada con una oclusión total en el segmento medio
+T24	ENFERMEDAD 5478 5522	Lesión significativa de 70% en la primera OM
+T25	ENFERMEDAD 4497 4534	lesión significativa en la primera OM
+T26	ENFERMEDAD 508 566	bypass de safena a descendente anterior (DA), con oclusión
+T27	ENFERMEDAD 3555 3592	ramo marginal obtuso tiene una lesión
+T28	ENFERMEDAD 3956 3979	suboclusión del ramo PL
+T29	ENFERMEDAD 3710 3798	CD dominante de buen calibre y desarrollo con una placa moderada en el segmento proximal
+T30	PROCEDIMIENTO 251 272	antidiabéticos orales
+T31	PROCEDIMIENTO 425 440	endarterectomía
+T32	PROCEDIMIENTO 443 505	resección de membrana endotelial de ostium coronario izquierdo
+T33	PROCEDIMIENTO 508 553	bypass de safena a descendente anterior (DA),
+T34	PROCEDIMIENTO 741 894	revascularizaciones percutáneas: tronco coronario izquierdo (TCI), primera rama marginal (OM), bifurcación circunfleja (Cx)-primera OM, coronaria derecha
+T35	PROCEDIMIENTO 1999 2017	Exploración física
+T36	PROCEDIMIENTO 2222 2243	Auscultación cardiaca
+T37	PROCEDIMIENTO 2266 2287	Auscultación pulmonar
+T38	PROCEDIMIENTO 2897 2915	Electrocardiograma
+T39	PROCEDIMIENTO 2917 2920	ECG
+T40	PROCEDIMIENTO 3078 3081	ECG
+T41	PROCEDIMIENTO 3182 3197	Coronariografía
+T42	PROCEDIMIENTO 4000 4014	Ecocardiograma
+T43	PROCEDIMIENTO 4458 4473	coronariografía
+T44	PROCEDIMIENTO 4524 4611	primera OM (valorada por guía de presión), que se revasculariza con stent farmacoactivo
+T45	PROCEDIMIENTO 5272 5295	rehabilitación cardiaca
+T46	PROCEDIMIENTO 5520 5634	OM valorada por guía de presión (FFR 0,77) revascularizada percutáneamente mediante implante destent farmacoactivo
+T47	PROCEDIMIENTO 5698 5768	Cardiopatía isquémica crónica compleja, revascularizada de forma mixta
+T48	PROCEDIMIENTO 2018 2036	Constantes vitales
+T49	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T50	PROCEDIMIENTO 354 406	lesión de tres vasos revascularizada quirúrgicamente
+T51	PROCEDIMIENTO 5029 5045	agonista de GLP1
+T52	PROCEDIMIENTO 2425 2434	palpación
+T53	PROCEDIMIENTO 2522 2531	Analítica
+T54	PROCEDIMIENTO 2798 2807	Analítica
+T55	PROCEDIMIENTO 4414 4437	medicación antianginosa
+T56	PROCEDIMIENTO 1328 1401	cardiopatía isquémica crónica compleja, con múltiples revascularizaciones
+T57	PROCEDIMIENTO 3374 3439	Cx de buen calibre y desarrollo con un stent en el segmento medio
+T58	PROCEDIMIENTO 3475 3507	stent en el primer ramo marginal
+T59	PROCEDIMIENTO 3628 3643	guía de presión
+T60	PROCEDIMIENTO 3646 3670	adenosina intracoronaria
+T61	PROCEDIMIENTO 3615 3670	evaluada con guía de presión y adenosina intracoronaria
+T62	PROCEDIMIENTO 3806 3861	evaluada con guía de presión y adenosina intracoronaria
+T63	PROCEDIMIENTO 3819 3834	guía de presión
+T64	PROCEDIMIENTO 3837 3861	adenosina intracoronaria
+T65	PROCEDIMIENTO 4536 4564	valorada por guía de presión
+T66	PROCEDIMIENTO 5536 5551	guía de presión
+T67	SINTOMA 679 704	elevación del segmento ST
+T68	SINTOMA 1461 1500	dolor centrotorácico opresivo en reposo
+T69	SINTOMA 1705 1743	dolor torácico con moderados esfuerzos
+T70	SINTOMA 1917 1923	disnea
+T71	SINTOMA 1925 1953	edema de miembros inferiores
+T72	SINTOMA 1955 1968	palpitaciones
+T73	SINTOMA 1971 1996	sintomatología infecciosa
+T74	SINTOMA 2130 2149	Buen estado general
+T75	SINTOMA 2151 2161	Consciente
+T76	SINTOMA 2164 2173	orientado
+T77	SINTOMA 2188 2202	normohidratado
+T78	SINTOMA 2205 2220	normoperfundido
+T79	SINTOMA 2222 2252	Auscultación cardiaca: rítmica
+T80	SINTOMA 2258 2264	soplos
+T81	SINTOMA 2289 2318	murmullo vesicular conservado
+T82	SINTOMA 2324 2344	ruidos sobreañadidos
+T83	SINTOMA 2346 2406	Abdomen: ruidos hidroaéreos conservados, blando y depresible
+T84	SINTOMA 2468 2495	pulsos distales conservados
+T85	SINTOMA 2926 2940	dolor torácico
+T86	SINTOMA 2942 2955	ritmo sinusal
+T87	SINTOMA 4016 4084	ventrículo izquierdo no dilatado con fracción de eyección conservada
+T88	SINTOMA 4186 4233	Ventrículo derecho de tamaño y función normales
+T89	SINTOMA 4676 4690	dolor torácico
+T90	SINTOMA 5326 5345	perder 8 kg de peso
+T91	SINTOMA 3104 3117	ritmo sinusal
+T92	SINTOMA 2966 2990	Infradesnivelación de ST
+T93	SINTOMA 2436 2466	Miembros inferiores: sin edema
+T94	SINTOMA 2175 2186	colaborador
+T95	SINTOMA 2355 2385	ruidos hidroaéreos conservados
+T96	SINTOMA 3374 3405	Cx de buen calibre y desarrollo
+T97	SINTOMA 3710 3751	CD dominante de buen calibre y desarrollo
+T98	SINTOMA 4090 4144	alteraciones groseras de la contractilidad segmentaria
+T99	FARMACO 923 945	ácido acetilsalicílico
+T100	FARMACO 947 950	AAS
+T101	FARMACO 967 978	clopidogrel
+T102	FARMACO 993 1002	enalapril
+T103	FARMACO 1023 1033	metoprolol
+T104	FARMACO 1056 1066	amlodipino
+T105	FARMACO 1087 1112	mononitrato de isosorbida
+T106	FARMACO 1127 1137	ranolazina
+T107	FARMACO 1160 1170	furosemida
+T108	FARMACO 1185 1198	atorvastatina
+T109	FARMACO 1213 1238	empagliflozina/metformina
+T110	FARMACO 1264 1273	omeprazol
+T111	FARMACO 1571 1585	nitroglicerina
+T112	FARMACO 1798 1812	nitroflicerina
+T113	FARMACO 1851 1861	ranolazina
+T114	FARMACO 5047 5058	semaglutide
+T115	FARMACO 5145 5154	ezetimiba

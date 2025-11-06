@@ -1,0 +1,228 @@
+T1	DISEASE 96 120	alérgica a propifenazona
+T2	DISEASE 142 163	hipertensión arterial
+T3	DISEASE 197 207	dislipemia
+T4	DISEASE 344 377	fibrilación auricular persistente
+T5	DISEASE 403 432	cardiopatía hipertensiva leve
+T6	DISEASE 1014 1035	recurrencia arrítmica
+T7	DISEASE 1048 1069	fibrilación auricular
+T8	DISEASE 1072 1089	flutter izquierdo
+T9	DISEASE 1224 1243	Recidiva de flutter
+T10	DISEASE 1763 1784	recurrencia arrítmica
+T11	DISEASE 1797 1818	fibrilación auricular
+T12	DISEASE 1903 1934	accidente isquémico transitorio
+T13	DISEASE 2007 2043	lesiones isquémicas agudas/subagudas
+T14	DISEASE 2505 2516	anemización
+T15	DISEASE 4155 4180	trombosis venosa profunda
+T16	DISEASE 4816 4847	ateromatosis del cayado aórtico
+T17	DISEASE 5040 5070	derrame pleural bilateral leve
+T18	DISEASE 5434 5470	Dilatación auricular izquierda grave
+T19	DISEASE 5472 5502	Insuficiencia mitral y aórtica
+T20	DISEASE 5511 5535	Insuficiencia tricúspide
+T21	DISEASE 5649 5670	patología pericárdica
+T22	DISEASE 6109 6137	bronquiectasias por tracción
+T23	DISEASE 6186 6220	neumonía organizada criptogenética
+T24	DISEASE 6236 6251	derrame pleural
+T25	DISEASE 6381 6458	Bocio multinodular a expensas del lóbulo izquierdo, parcialmente endotorácico
+T26	DISEASE 7531 7603	Bocio nodular de predominio izquierdo con cierto componente endotorácico
+T27	DISEASE 7701 7730	derrame pleural o pericárdico
+T28	DISEASE 7874 7899	derrame pleural bilateral
+T29	DISEASE 8317 8339	insuficiencia cardiaca
+T30	DISEASE 8369 8396	patología primaria pulmonar
+T31	DISEASE 8520 8538	toxicidad pulmonar
+T32	DISEASE 8572 8591	afectación pulmonar
+T33	DISEASE 8770 8804	neumonía organizada criptogenética
+T34	DISEASE 8932 8964	enfermedad pulmonar intersticial
+T35	DISEASE 9482 9516	neumonía organizada criptogenética
+T36	DISEASE 10904 10927	Neumonitis intersticial
+T37	DISEASE 10995 11019	Cardiopatía hipertensiva
+T38	DISEASE 11066 11088	insuficiencia cardiaca
+T39	DISEASE 11090 11121	Hipertensión arterial sistémica
+T40	DISEASE 11154 11187	Fibrilación auricular persistente
+T41	DISEASE 11230 11251	Recurrencia arrítmica
+T42	DISEASE 11492 11518	Nódulos tiroideos benignos
+T43	DISEASE 7653 7685	Dilatación de aurícula izquierda
+T44	DISEASE 4849 4867	Elongación aórtica
+T45	DISEASE 4736 4766	Hemibloqueo anterior izquierdo
+T46	DISEASE 434 500	ventrículo izquierdo [VI] de tamaño normal, levemente hipertrófico
+T47	DISEASE 566 612	aurícula izquierda [AI] moderadamente dilatada
+T48	DISEASE 5137 5198	ventrículo izquierdo ligeramente dilatado, ligera hipertrofia
+T49	DISEASE 10955 10993	toxicidad farmacológica por amiodarona
+T50	PROCEDURE 616 645	ecocardiografía transtorácica
+T51	PROCEDURE 647 650	ETT
+T52	PROCEDURE 670 697	cardioversión farmacológica
+T53	PROCEDURE 718 746	ablación de venas pulmonares
+T54	PROCEDURE 814 839	tratamiento antiarrítmico
+T55	PROCEDURE 935 950	anticoagulación
+T56	PROCEDURE 1300 1323	cardioversión eléctrica
+T57	PROCEDURE 1369 1394	tratamiento antiarrítmico
+T58	PROCEDURE 1955 1983	resonancia magnética craneal
+T59	PROCEDURE 2604 2638	cauterización con nitrato de plata
+T60	PROCEDURE 2641 2687	colocación de lámina de espogostán y bactrobán
+T61	PROCEDURE 2720 2759	cierre percutáneo de orejuela izquierda
+T62	PROCEDURE 2967 2987	doble antiagregación
+T63	PROCEDURE 3002 3016	antiagregación
+T64	PROCEDURE 3481 3499	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 3780 3801	Auscultación cardiaca
+T66	PROCEDURE 3844 3865	Auscultación pulmonar
+T67	PROCEDURE 4033 4051	palpación profunda
+T68	PROCEDURE 4677 4695	Electrocardiograma
+T69	PROCEDURE 4768 4814	Radiografía de tórax posteroanterior y lateral
+T70	PROCEDURE 5126 5129	ETT
+T71	PROCEDURE 5767 5802	Tomografía computerizada (TC) tórax
+T72	PROCEDURE 6622 6634	Broncoscopia
+T73	PROCEDURE 6644 6665	Lavado broncoalveolar
+T74	PROCEDURE 6742 6761	anatomía patológica
+T75	PROCEDURE 6943 6974	Pruebas de función respiratoria
+T76	PROCEDURE 7009 7040	pruebas de función respiratoria
+T77	PROCEDURE 7245 7253	TC tórax
+T78	PROCEDURE 8710 8721	TC torácico
+T79	PROCEDURE 8970 9001	pruebas de función respiratoria
+T80	PROCEDURE 9249 9261	broncoscopia
+T81	PROCEDURE 9309 9330	lavado broncoalveolar
+T82	PROCEDURE 9417 9436	anatomía patológica
+T83	PROCEDURE 9591 9614	tratamiento corticoideo
+T84	PROCEDURE 9712 9730	ecografía tiroidea
+T85	PROCEDURE 9900 9922	tratamiento esteroideo
+T86	PROCEDURE 10317 10348	pruebas de función respiratoria
+T87	PROCEDURE 10596 10607	TC de tórax
+T88	PROCEDURE 10809 10811	TC
+T89	PROCEDURE 11366 11386	anticoagulación oral
+T90	PROCEDURE 11401 11447	dispositivo Amulet 28 mm de cierre de orejuela
+T91	PROCEDURE 11469 11490	antiagregación simple
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 6785 6816	Pruebas de función respiratoria
+T94	PROCEDURE 2357 2370	función renal
+T95	PROCEDURE 9783 9799	función tiroidea
+T96	PROCEDURE 10509 10537	test de los 6 minutos marcha
+T97	PROCEDURE 1138 1222	reablación del sustrato auricular izquierdo, línea de techo auricular e istmo mitral
+T98	PROCEDURE 6911 6935	Test de 6 minutos marcha
+T99	PROCEDURE 7186 7210	Test de 6 minutos marcha
+T100	PROCEDURE 9118 9148	test de 6 minutos de la marcha
+T101	PROCEDURE 4905 4959	dispositivo percutáneo de cierre de orejuela izquierda
+T102	PROCEDURE 5747 5765	cierre de orejuela
+T103	PROCEDURE 6268 6296	cierre de orejuela izquierda
+T104	PROCEDURE 4207 4216	Analítica
+T105	PROCEDURE 6711 6739	aislamientos microbiológicos
+T106	PROCEDURE 9386 9414	aislamientos microbiológicos
+T107	PROCEDURE 2920 2935	antiacoagulante
+T108	PROCEDURE 5793 5795	TC
+T109	PROCEDURE 6978 7001	tratamiento corticoideo
+T110	PROCEDURE 7214 7237	tratamiento corticoideo
+T111	PROCEDURE 7605 7651	Dispositivo de cierre de la aurícula izquierda
+T112	PROCEDURE 11154 11213	Fibrilación auricular persistente tratada mediante ablación
+T113	SYMPTOM 434 476	ventrículo izquierdo [VI] de tamaño normal
+T114	SYMPTOM 1443 1458	flushing facial
+T115	SYMPTOM 1461 1469	malestar
+T116	SYMPTOM 1706 1723	torpeza en pierna
+T117	SYMPTOM 2197 2210	ritmo sinusal
+T118	SYMPTOM 2459 2468	epistaxis
+T119	SYMPTOM 3280 3286	disnea
+T120	SYMPTOM 3288 3301	palpitaciones
+T121	SYMPTOM 3304 3318	dolor torácico
+T122	SYMPTOM 3389 3418	disnea de esfuerzo progresiva
+T123	SYMPTOM 3421 3429	tos seca
+T124	SYMPTOM 3601 3625	Aceptable estado general
+T125	SYMPTOM 3627 3637	Consciente
+T126	SYMPTOM 3640 3669	orientada en las tres esferas
+T127	SYMPTOM 3671 3685	Normocoloreada
+T128	SYMPTOM 3687 3701	normohidratada
+T129	SYMPTOM 3704 3719	normoperfundida
+T130	SYMPTOM 3721 3752	Carótidas rítmicas y simétricas
+T131	SYMPTOM 3757 3778	ingurgitación yugular
+T132	SYMPTOM 3803 3817	tonos rítmicos
+T133	SYMPTOM 3822 3828	soplos
+T134	SYMPTOM 3832 3842	extratonos
+T135	SYMPTOM 3867 3913	murmullo vesicular abolido en bases pulmonares
+T136	SYMPTOM 3918 3955	crepitantes secos hasta campos medios
+T137	SYMPTOM 4057 4062	masas
+T138	SYMPTOM 4066 4074	megalias
+T139	SYMPTOM 4076 4109	Extremidades inferiores: No edema
+T140	SYMPTOM 4111 4139	Pulsos periféricos presentes
+T141	SYMPTOM 4697 4710	ritmo sinusal
+T142	SYMPTOM 5201 5225	función sistólica normal
+T143	SYMPTOM 5372 5432	Ventrículo derecho con morfología y función sistólica normal
+T144	SYMPTOM 5672 5699	Vena cava de calibre normal
+T145	SYMPTOM 5970 6008	focos parcheados de vidrio deslustrado
+T146	SYMPTOM 6059 6106	patrón intersticial reticular grueso periférico
+T147	SYMPTOM 6622 6642	Broncoscopia: normal
+T148	SYMPTOM 6824 6865	anormalidad ventilatoria restrictiva leve
+T149	SYMPTOM 7009 7049	pruebas de función respiratoria normales
+T150	SYMPTOM 7354 7390	engrosamiento de septos interlobares
+T151	SYMPTOM 7803 7839	alteraciones radiológicas pulmonares
+T152	SYMPTOM 7841 7871	áreas de consolidación bibasal
+T153	SYMPTOM 8234 8254	congestión sistémica
+T154	SYMPTOM 8264 8289	pro-BNP levemente elevado
+T155	SYMPTOM 8739 8754	patrón pulmonar
+T156	SYMPTOM 9019 9060	anormalidad ventilatoria restrictiva leve
+T157	SYMPTOM 10650 10723	patrón intersticial periférico de predominio basal, en vidrio deslustrado
+T158	SYMPTOM 11293 11306	ritmo sinusal
+T159	SYMPTOM 3957 4051	Abdomen: ruidos hidroaéreos presentes, blando y depresible no doloroso a la palpación profunda
+T160	SYMPTOM 795 808	ritmo sinusal
+T161	SYMPTOM 502 561	fracción de eyección del ventrículo izquierdo [FEVI] normal
+T162	SYMPTOM 4869 4900	Índice cardiotoracico limítrofe
+T163	SYMPTOM 9722 9759	tiroidea que mostró múltiples nódulos
+T164	SYMPTOM 11523 11558	alteraciones de la función tiroidea
+T165	SYMPTOM 3262 3318	Asintomática para disnea, palpitaciones y dolor torácico
+T166	SYMPTOM 5298 5328	Patrón de llenado pseudonormal
+T167	SYMPTOM 5257 5287	anomalías de la contractilidad
+T168	SYMPTOM 7988 8027	aumento de los parámetros inflamatorios
+T169	SYMPTOM 8809 8845	cambios fibróticos de perfil crónico
+T170	SYMPTOM 9153 9165	desaturación
+T171	SYMPTOM 7759 7796	elevación de parámetros inflamatorios
+T172	SYMPTOM 9783 9806	función tiroidea normal
+T173	SYMPTOM 11024 11050	función ventricular normal
+T174	SYMPTOM 6020 6040	opacidades nodulares
+T175	SYMPTOM 5330 5359	presiones de llenado elevadas
+T176	SYMPTOM 6707 6739	sin aislamientos microbiológicos
+T177	SYMPTOM 7051 7103	Descenso moderado aislado de la cpacidad de difusión
+T178	SYMPTOM 9382 9414	sin aislamientos microbiológicos
+T179	SYMPTOM 4721 4734	Eje izquierdo
+T180	SYMPTOM 4970 4993	consolidación bibasales
+T181	SYMPTOM 4998 5037	patrón intersticial hasta campos medios
+T182	SYMPTOM 5567 5633	presión arterial pulmonar sistólica (PAPs) dentro de la normalidad
+T183	SYMPTOM 5857 5879	consolidación pulmonar
+T184	SYMPTOM 5884 5899	patrón alveolar
+T185	SYMPTOM 5902 5919	broncograma aéreo
+T186	SYMPTOM 6298 6379	Tronco principal de arteria pulmonar de 29 mm, en el límite alto de la normalidad
+T187	SYMPTOM 6470 6533	nódulo de mayor tamaño de 20 mm en el lóbulo tiroideo izquierdo
+T188	SYMPTOM 6535 6596	Aumento de atenuación del parénquima hepático de forma difusa
+T189	SYMPTOM 6644 6705	Lavado broncoalveolar con fenotipo de predominio neutrofílico
+T190	SYMPTOM 6742 6783	anatomía patológica con macrófagos grasos
+T191	SYMPTOM 6867 6909	Descenso grave de la capacidad de difusión
+T192	SYMPTOM 7507 7529	zonas de consolidación
+T193	SYMPTOM 7270 7347	patrón periférico de predominio en bases, intersticial, en vidrio deslustrado
+T194	SYMPTOM 9067 9109	descenso grave de la capacidad de difusión
+T195	SYMPTOM 9249 9300	broncoscopia que no evidenció hallazgos patológicos
+T196	SYMPTOM 9309 9380	lavado broncoalveolar que mostró un fenotipo de predominio neutrofílico
+T197	SYMPTOM 9417 9458	anatomía patológica con macrófagos grasos
+T198	SYMPTOM 10729 10765	engrosamiento de septos interlobares
+T199	SYMPTOM 10867 10889	zonas de consolidación
+T200	SYMPTOM 11256 11266	baja carga
+T201	SYMPTOM 11324 11344	epistaxis recurrente
+T202	MEDICATION 844 854	flecainida
+T203	MEDICATION 955 965	dabigatrán
+T204	MEDICATION 1417 1427	amiodarona
+T205	MEDICATION 1539 1549	flecainida
+T206	MEDICATION 1598 1606	atenolol
+T207	MEDICATION 2070 2080	amiodarona
+T208	MEDICATION 2262 2272	dabigatran
+T209	MEDICATION 2298 2309	rivaroxabán
+T210	MEDICATION 2842 2864	ácido acetilsalicílico
+T211	MEDICATION 2874 2885	clopidogrel
+T212	MEDICATION 3028 3050	ácido acetilsalicílico
+T213	MEDICATION 3096 3106	Amiodarona
+T214	MEDICATION 3142 3164	ácido acetilsalicílico
+T215	MEDICATION 3199 3208	valsartán
+T216	MEDICATION 8051 8080	amoxicilina/ácido clavulánico
+T217	MEDICATION 8116 8128	azitromicina
+T218	MEDICATION 8411 8421	furosemida
+T219	MEDICATION 8493 8503	amiodarona
+T220	MEDICATION 9545 9555	amiodarona
+T221	MEDICATION 9619 9636	metilprednisolona
+T222	MEDICATION 9936 9953	metilprednisolona
+T223	MEDICATION 10050 10061	pantoprazol
+T224	MEDICATION 10084 10106	ácido acetilsalicílico
+T225	MEDICATION 10125 10134	valsartán
+T226	MEDICATION 10151 10157	calcio
+T227	MEDICATION 10160 10171	vitamina D3
+T228	MEDICATION 10983 10993	amiodarona

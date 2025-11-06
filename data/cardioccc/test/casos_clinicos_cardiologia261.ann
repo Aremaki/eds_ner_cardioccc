@@ -1,0 +1,122 @@
+T1	ENFERMEDAD 246 255	exfumador
+T2	ENFERMEDAD 296 317	hipertensión arterial
+T3	ENFERMEDAD 319 322	HTA
+T4	ENFERMEDAD 328 345	diabetes mellitus
+T5	ENFERMEDAD 347 349	DM
+T6	ENFERMEDAD 355 366	dislipemias
+T7	ENFERMEDAD 432 443	cardiopatía
+T8	ENFERMEDAD 465 473	glaucoma
+T9	ENFERMEDAD 475 488	ulcus péptico
+T10	ENFERMEDAD 1059 1081	insuficiencia cardiaca
+T11	ENFERMEDAD 2462 2475	valvulopatías
+T12	ENFERMEDAD 2572 2591	derrame pericárdico
+T13	ENFERMEDAD 3059 3068	arritmias
+T14	ENFERMEDAD 3256 3331	Arteria coronaria derecha con origen anómalo desde seno coronario izquierdo
+T15	ENFERMEDAD 3960 4034	divertículo en la pared inferoposterior izquierda de la aurícula izquierda
+T16	ENFERMEDAD 4051 4075	trombos intraauriculares
+T17	ENFERMEDAD 4103 4118	hernia de hiato
+T18	ENFERMEDAD 4595 4603	fibrosis
+T19	ENFERMEDAD 4606 4625	necrosis miocárdica
+T20	ENFERMEDAD 4651 4659	isquemia
+T21	ENFERMEDAD 4741 4764	cardiopatía estructural
+T22	ENFERMEDAD 5016 5024	isquemia
+T23	ENFERMEDAD 5067 5093	angina de esfuerzo estable
+T24	ENFERMEDAD 5828 5873	origen anómalo en el seno coronario izquierdo
+T25	ENFERMEDAD 6488 6496	isquemia
+T26	ENFERMEDAD 6775 6794	bradicardia sinusal
+T27	ENFERMEDAD 6886 6905	necrosis miocárdica
+T28	ENFERMEDAD 6926 6934	isquemia
+T29	ENFERMEDAD 7102 7110	isquemia
+T30	ENFERMEDAD 7709 7715	angina
+T31	ENFERMEDAD 7874 7958	Anomalía coronaria: arteria coronaria derecha con origen en seno coronario izquierdo
+T32	ENFERMEDAD 7990 8004	Angina estable
+T33	ENFERMEDAD 4458 4466	isquemia
+T34	ENFERMEDAD 5148 5156	isquemia
+T35	ENFERMEDAD 3608 3674	Salida anómala de coronaria derecha desde seno coronario izquierdo
+T36	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDIMIENTO 1146 1164	Exploración física
+T38	PROCEDIMIENTO 1404 1425	auscultación cardiaca
+T39	PROCEDIMIENTO 1431 1452	auscultación pulmonar
+T40	PROCEDIMIENTO 1662 1680	Electrocardiograma
+T41	PROCEDIMIENTO 1682 1685	ECG
+T42	PROCEDIMIENTO 2039 2068	Ecocardiografía transtorácica
+T43	PROCEDIMIENTO 2593 2620	Ergometría en tapiz rodante
+T44	PROCEDIMIENTO 2622 2677	ergometría máxima con protocolo de Bruce en cinta móvil
+T45	PROCEDIMIENTO 2902 2905	ECG
+T46	PROCEDIMIENTO 3085 3100	Coronariografía
+T47	PROCEDIMIENTO 3433 3503	TC de coronarias con sincronización cardiaca y adquisición prospectiva
+T48	PROCEDIMIENTO 4120 4175	Resonancia magnética cardiaca de estrés con dipiridamol
+T49	PROCEDIMIENTO 4698 4725	valoración ecocardiográfica
+T50	PROCEDIMIENTO 4959 4986	ergometría en tapiz rodante
+T51	PROCEDIMIENTO 5363 5378	coronariografía
+T52	PROCEDIMIENTO 5403 5446	canalización del tronco coronario izquierdo
+T53	PROCEDIMIENTO 6081 6093	TC coronario
+T54	PROCEDIMIENTO 6135 6150	coronariografía
+T55	PROCEDIMIENTO 6294 6340	reimplantación de la arteria coronaria derecha
+T56	PROCEDIMIENTO 6342 6360	resección parietal
+T57	PROCEDIMIENTO 6363 6372	unroofing
+T58	PROCEDIMIENTO 6375 6403	bypass con ligadura proximal
+T59	PROCEDIMIENTO 6740 6755	betabloqueantes
+T60	PROCEDIMIENTO 6811 6856	RMC de estrés con vasodilatador (dipiridamol)
+T61	PROCEDIMIENTO 7765 7789	tratamiento antianginoso
+T62	PROCEDIMIENTO 4443 4487	Provocación de isquemia con dipiridamol i.v.
+T63	PROCEDIMIENTO 5574 5644	canalizar la arteria coronaria derecha desde el seno coronario derecho
+T64	PROCEDIMIENTO 1805 1814	Analítica
+T65	PROCEDIMIENTO 7317 7336	inducción de estrés
+T66	PROCEDIMIENTO 7540 7552	intervención
+T67	PROCEDIMIENTO 7392 7415	intervención quirúrgica
+T68	PROCEDIMIENTO 6430 6446	prueba de imagen
+T69	PROCEDIMIENTO 5749 5818	inyecciones subselectivas se observó que la arteria coronaria derecha
+T70	PROCEDIMIENTO 6561 6585	tratamiento antianginoso
+T71	PROCEDIMIENTO 6960 7031	mecanismo de inducción de estrés mediante esta técnica (vasodilatación)
+T72	SINTOMA 174 188	dolor torácico
+T73	SINTOMA 625 691	dolor torácico en hemitórax izquierdo de características opresivas
+T74	SINTOMA 737 752	sudoración fría
+T75	SINTOMA 870 875	dolor
+T76	SINTOMA 1083 1096	palpitaciones
+T77	SINTOMA 1112 1143	pérdida del nivel de conciencia
+T78	SINTOMA 1165 1184	Buen estado general
+T79	SINTOMA 1186 1200	normocoloreado
+T80	SINTOMA 1203 1217	normohidratado
+T81	SINTOMA 1219 1237	eupneico en reposo
+T82	SINTOMA 1240 1250	consciente
+T83	SINTOMA 1252 1261	orientado
+T84	SINTOMA 1391 1397	soplos
+T85	SINTOMA 1466 1495	murmullo vesicular conservado
+T86	SINTOMA 1533 1558	sibilante teleespiratorio
+T87	SINTOMA 1572 1634	pulsos radiales y pedios eran palpables, rítmicos y simétricos
+T88	SINTOMA 1694 1707	ritmo sinusal
+T89	SINTOMA 1752 1764	QRS estrecho
+T90	SINTOMA 1770 1803	alteraciones en la repolarización
+T91	SINTOMA 2070 2154	ventrículo izquierdo de diámetros y grosores parietales normales con FEVI conservada
+T92	SINTOMA 2225 2261	Patrón de llenado transmitral normal
+T93	SINTOMA 2430 2456	Aurículas de tamaño normal
+T94	SINTOMA 2704 2729	dolor precordial opresivo
+T95	SINTOMA 4399 4441	Aurículas y grandes vasos de tamaño normal
+T96	SINTOMA 8006 8017	FEVI normal
+T97	SINTOMA 2326 2356	Ventrículo derecho no dilatado
+T98	SINTOMA 2488 2524	Vena cava inferior (VCI) no dilatada
+T99	SINTOMA 4312 4385	Ventrículo derecho de volumen y función sistólica dentro de la normalidad
+T100	SINTOMA 4177 4299	ventrículo izquierdo con grosor de sus paredes, volúmenes y función sistólica segmentaria y global dentro de la normalidad
+T101	SINTOMA 3134 3225	Tronco coronario izquierdo, arteria descendente anterior y arteria circunfleja sin lesiones
+T102	SINTOMA 1264 1275	colaborador
+T103	SINTOMA 3705 3752	Tronco coronario izquierdo: largo, sin lesiones
+T104	SINTOMA 3754 3788	Descendente anterior: sin lesiones
+T105	SINTOMA 3790 3815	Circunfleja: sin lesiones
+T106	SINTOMA 5459 5515	arterias descendente anterior y circunfleja sin lesiones
+T107	SINTOMA 2282 2323	PTDVI globalmente estimadas como normales
+T108	SINTOMA 2177 2223	alteraciones segmentarias en la contractilidad
+T109	SINTOMA 2783 2866	descenso horizontal del ST máximo de 2 mm en 5 derivaciones (II, III, aVF, V4 y V5)
+T110	SINTOMA 2991 3017	Capacidad funcional normal
+T111	SINTOMA 3085 3132	Coronariografía (vídeo 2): dominancia izquierda
+T112	SINTOMA 3505 3545	anatomía coronaria: dominancia izquierda
+T113	SINTOMA 3547 3606	Ramo intermediario como variante anatómica de la normalidad
+T114	FARMACO 503 512	omeprazol
+T115	FARMACO 562 573	latanoprost
+T116	FARMACO 575 586	dorzolamida
+T117	FARMACO 589 596	timolol
+T118	FARMACO 5257 5279	ácido acetilsalicílico
+T119	FARMACO 5309 5322	atorvastatina
+T120	FARMACO 6620 6628	nitratos
+T121	FARMACO 6642 6655	lercanidipino
+T122	FARMACO 6684 6694	ranolazina

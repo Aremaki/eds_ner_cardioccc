@@ -1,0 +1,161 @@
+T1	DISEASE 3123 3155	AI de tamaño levemente aumentado
+T2	DISEASE 74 97	alergias medicamentosas
+T3	DISEASE 201 204	HTA
+T4	DISEASE 207 216	DM tipo 2
+T5	DISEASE 403 421	cólicos nefríticos
+T6	DISEASE 500 520	hipoacusia bilateral
+T7	DISEASE 554 575	trauma sonoro crónico
+T8	DISEASE 966 977	parotiditis
+T9	DISEASE 2942 2953	adenopatías
+T10	DISEASE 3492 3513	insuficiencia aórtica
+T11	DISEASE 3702 3723	insuficiencia aórtica
+T12	DISEASE 3810 3846	prolapso de velo coronariano derecho
+T13	DISEASE 3866 3933	insuficiencia excéntrica hacia velo anterior mitral de grado severo
+T14	DISEASE 6765 6798	patología inflamatoria/infecciosa
+T15	DISEASE 6825 6880	Adenopatías submaxilares y laterocervicales bilaterales
+T16	DISEASE 7836 7850	Esplenomegalia
+T17	DISEASE 8118 8143	adenopatías mediastínicas
+T18	DISEASE 8460 8475	derrame pleural
+T19	DISEASE 8477 8497	Hepatoesplenomegalia
+T20	DISEASE 8521 8532	hepatopatía
+T21	DISEASE 8534 8545	sarcoidosis
+T22	DISEASE 8938 8981	Nódulo coloide con cambios de tipo quístico
+T23	DISEASE 8991 9016	adenopatías mediastínicas
+T24	DISEASE 9078 9089	sarcoidosis
+T25	DISEASE 9718 9737	fibrosis miocárdica
+T26	DISEASE 9764 9775	sarcoidosis
+T27	DISEASE 10042 10067	insuficiencia tricuspídea
+T28	DISEASE 10299 10332	Derrame pericárdico leve-moderado
+T29	DISEASE 10386 10426	Adenopatías mediastínicas paratraqueales
+T30	DISEASE 10610 10621	sarcoidosis
+T31	DISEASE 10828 10921	válvula aórtica trivalva con una insuficiencia severa a expensas del velo coronariano derecho
+T32	DISEASE 11123 11136	hipercalcemia
+T33	DISEASE 11347 11358	adenopatías
+T34	DISEASE 11406 11453	sarcoidosis con afectación parotídea y cardiaca
+T35	DISEASE 11490 11540	adenopatías mediastínicas, hiliares y subcarinales
+T36	DISEASE 11731 11742	adenopatías
+T37	DISEASE 11818 11829	sarcoidosis
+T38	DISEASE 12264 12275	sarcoidosis
+T39	DISEASE 12577 12598	Sarcoidosis sístémica
+T40	DISEASE 12926 12971	Sarcoidosis sistémica con afectación cardiaca
+T41	DISEASE 12973 13035	Insuficiencia aórtica severa por afectación valvular sarcoidea
+T42	DISEASE 3725 3771	Aórtica: trivalva, velos con mínima esclerosis
+T43	DISEASE 8593 8619	Nódulos coloides quísticos
+T44	DISEASE 9265 9287	VI: levemente dilatado
+T45	DISEASE 10735 10771	VI levemente dilatado e hipertrófico
+T46	DISEASE 12368 12404	VI levemente dilatado e hipertrófico
+T47	DISEASE 4147 4149	IT
+T48	DISEASE 7937 7967	dilatación de la vía excretora
+T49	DISEASE 10104 10142	AD: área de 24 cm2, levemente dilatada
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 1062 1080	exploración física
+T52	PROCEDURE 1328 1330	AC
+T53	PROCEDURE 1397 1399	AP
+T54	PROCEDURE 2125 2134	Hemograma
+T55	PROCEDURE 2431 2442	Coagulación
+T56	PROCEDURE 2630 2633	EKG
+T57	PROCEDURE 2754 2774	Radiografía de tórax
+T58	PROCEDURE 3094 3105	TC de tórax
+T59	PROCEDURE 3107 3121	Ecocardiograma
+T60	PROCEDURE 4217 4237	Cateterismo cardiaco
+T61	PROCEDURE 5836 5845	Hemograma
+T62	PROCEDURE 6157 6168	Coagulación
+T63	PROCEDURE 6356 6375	Ecografía de cuello
+T64	PROCEDURE 7663 7667	PAAF
+T65	PROCEDURE 7669 7688	Ecografía abdominal
+T66	PROCEDURE 8016 8039	TAC: se realiza sin CIV
+T67	PROCEDURE 8571 8575	PAAF
+T68	PROCEDURE 8620 8636	PAAF de parótida
+T69	PROCEDURE 8755 8768	PAAF tiroidea
+T70	PROCEDURE 8983 9016	PAAF de adenopatías mediastínicas
+T71	PROCEDURE 9021 9033	broncoscopia
+T72	PROCEDURE 9091 9103	RMN cardiaca
+T73	PROCEDURE 9179 9206	administración de gadolinio
+T74	PROCEDURE 9209 9263	cuantificación de flujo en válvulas pulmonar y aórtica
+T75	PROCEDURE 10635 10653	esternotomía media
+T76	PROCEDURE 10672 10700	ecocardiograma transtorácico
+T77	PROCEDURE 11028 11048	estudios serológicos
+T78	PROCEDURE 11255 11275	radiografía de tórax
+T79	PROCEDURE 11458 11470	TAC torácico
+T80	PROCEDURE 11659 11673	PAAF parotídea
+T81	PROCEDURE 11687 11716	fibrobroncoscopia con biopsia
+T82	PROCEDURE 11862 11887	recambio valvular aórtico
+T83	PROCEDURE 12098 12129	implantar una prótesis mecánica
+T84	PROCEDURE 12165 12189	examen anatomopatológico
+T85	PROCEDURE 12341 12353	RMN cardiaca
+T86	PROCEDURE 12800 12827	tratamiento con corticoides
+T87	PROCEDURE 13037 13084	Recambio valvular aórtico por prótesis mecánica
+T88	PROCEDURE 1534 1544	bioquímica
+T89	PROCEDURE 4299 4309	bioquímica
+T90	PROCEDURE 1512 1521	Analítica
+T91	PROCEDURE 4279 4288	Analítica
+T92	PROCEDURE 12301 12308	cirugía
+T93	PROCEDURE 1449 1453	EEII
+T94	PROCEDURE 1311 1314	CyC
+T95	SYMPTOM 602 608	disnea
+T96	SYMPTOM 688 696	ortopnea
+T97	SYMPTOM 699 726	disnea paroxística nocturna
+T98	SYMPTOM 774 811	disminución progresiva de la diuresis
+T99	SYMPTOM 837 865	edema en miembros inferiores
+T100	SYMPTOM 873 887	dolor torácico
+T101	SYMPTOM 900 915	síndrome febril
+T102	SYMPTOM 1106 1116	consciente
+T103	SYMPTOM 1118 1127	orientado
+T104	SYMPTOM 1146 1165	buen estado general
+T105	SYMPTOM 1167 1193	buena perfusión periférica
+T106	SYMPTOM 1204 1252	tumefacción a nivel de ambas glándulas parótidas
+T107	SYMPTOM 1316 1326	PVY normal
+T108	SYMPTOM 1332 1357	Ruidos cardiacos rítmicos
+T109	SYMPTOM 1359 1395	soplo holodiastólico en foco aórtico
+T110	SYMPTOM 1401 1430	murmullo vesicular conservado
+T111	SYMPTOM 1432 1447	Abdomen anodino
+T112	SYMPTOM 1455 1485	edema con fóvea hasta rodillas
+T113	SYMPTOM 2635 2648	ritmo sinusal
+T114	SYMPTOM 2776 2821	índice cardiotorácico dentro de la normalidad
+T115	SYMPTOM 2955 2990	Senos cardio y costofrénicos libres
+T116	SYMPTOM 3397 3417	FE global preservada
+T117	SYMPTOM 3526 3535	VD normal
+T118	SYMPTOM 4198 4215	Pericardio normal
+T119	SYMPTOM 6388 6435	aumento de tamaño de ambas glándulas parotídeas
+T120	SYMPTOM 6928 6967	Glándulas submaxilares de tamaño normal
+T121	SYMPTOM 7002 7027	Tiroides de tamaño normal
+T122	SYMPTOM 8047 8065	mala función renal
+T123	SYMPTOM 8292 8319	Engrosamiento peribronquial
+T124	SYMPTOM 9436 9469	Contractilidad segmentaria normal
+T125	SYMPTOM 9471 9493	Masa miocárdica normal
+T126	SYMPTOM 9562 9590	Leve hipertrofia concéntrica
+T127	SYMPTOM 10012 10033	Contractilidad normal
+T128	SYMPTOM 10272 10297	engrosamiento pericárdico
+T129	SYMPTOM 10776 10804	función sistólica conservada
+T130	SYMPTOM 11139 11169	elevación de las cifras de ECA
+T131	SYMPTOM 11293 11331	prominencia de ambos hilios pulmonares
+T132	SYMPTOM 4124 4141	Tricúspide normal
+T133	SYMPTOM 993 1024	tumefacción parotídea bilateral
+T134	SYMPTOM 3173 3187	VI no dilatado
+T135	SYMPTOM 3515 3524	AD normal
+T136	SYMPTOM 7781 7812	Vesícula, y vía biliar normales
+T137	SYMPTOM 9813 9830	VD: tamaño normal
+T138	SYMPTOM 8334 8353	Patrón intersticial
+T139	SYMPTOM 2823 2861	Prominencia de ambos hilios pulmonares
+T140	SYMPTOM 3001 3050	afectación intersticial reticulonodular bilateral
+T141	SYMPTOM 12646 12697	asintomático desde el punto de vista cardiovascular
+T142	SYMPTOM 1130 1141	colaborador
+T143	SYMPTOM 4239 4262	coronarias sin lesiones
+T144	SYMPTOM 8396 8441	engrosamiento de los septos interlobulillares
+T145	SYMPTOM 7814 7834	Vena porta permeable
+T146	SYMPTOM 10195 10229	Arteria pulmonar de calibre normal
+T147	SYMPTOM 7991 8014	Aorta de calibre normal
+T148	SYMPTOM 1233 1287	glándulas parótidas, la derecha de consistencia pétrea
+T149	SYMPTOM 2672 2699	signos de crecimiento de VI
+T150	SYMPTOM 2704 2752	alteraciones significativas de la repolarización
+T151	SYMPTOM 4048 4077	Aorta: raíz de calibre normal
+T152	SYMPTOM 4093 4122	Cayado y descendente normales
+T153	SYMPTOM 4169 4184	Pulmonar normal
+T154	SYMPTOM 4186 4196	VCI normal
+T155	SYMPTOM 7124 7163	lóbulo derecho se identifica una lesión
+T156	SYMPTOM 8554 8569	Vesícula normal
+T157	SYMPTOM 10144 10178	Aorta ascendente de calibre normal
+T158	SYMPTOM 10069 10102	AI: Área de 20 cm2, tamaño normal
+T159	SYMPTOM 11554 11574	patrón intersiticial
+T160	MEDICATION 271 281	metformina
+T161	MEDICATION 294 323	irbersartán/hidroclorotiazida

@@ -1,0 +1,136 @@
+T1	DISEASE 159 180	hipertensión arterial
+T2	DISEASE 237 254	embolia de pulmón
+T3	DISEASE 718 748	hipertensión pulmonar moderada
+T4	DISEASE 765 801	insuficiencia tricuspídea (IT) grave
+T5	DISEASE 1378 1400	insuficiencia cardiaca
+T6	DISEASE 2022 2027	bocio
+T7	DISEASE 2104 2123	exoftalmos bilatera
+T8	DISEASE 2679 2687	mixedema
+T9	DISEASE 2919 2934	derrame pleural
+T10	DISEASE 3087 3140	dilatación y disfunción graves del ventrículo derecho
+T11	DISEASE 3143 3151	HP grave
+T12	DISEASE 3190 3221	insuficiencia tricuspídea grave
+T13	DISEASE 3306 3331	embolia de pulmón crónica
+T14	DISEASE 3548 3554	anemia
+T15	DISEASE 3615 3625	colestasis
+T16	DISEASE 3788 3805	hígado de estasis
+T17	DISEASE 3873 3885	hiponatremia
+T18	DISEASE 3897 3911	hiperpotasemia
+T19	DISEASE 4391 4416	trombosis venosa profunda
+T20	DISEASE 4432 4439	ascitis
+T21	DISEASE 4442 4459	hígado de estasis
+T22	DISEASE 4702 4727	embolia de pulmón crónica
+T23	DISEASE 5235 5270	hipertiroidismo primario autoinmune
+T24	DISEASE 5272 5300	enfermedad de Graves-Basedow
+T25	DISEASE 5306 5324	hipoaldosteronismo
+T26	DISEASE 5669 5725	bacteriemia por Staphylococcus aureus meticilín sensible
+T27	DISEASE 6167 6184	embolia de pulmón
+T28	DISEASE 6200 6242	dilatación de cavidades cardiacas derechas
+T29	DISEASE 6272 6287	derrame pleural
+T30	DISEASE 6608 6633	insuficiencia tricuspídea
+T31	DISEASE 6800 6818	trastorno tiroideo
+T32	DISEASE 6968 6990	Insuficiencia cardiaca
+T33	DISEASE 7014 7053	Disfunción grave del ventrículo derecho
+T34	DISEASE 7056 7087	insuficiencia tricuspídea grave
+T35	DISEASE 7103 7124	hipertensión pulmonar
+T36	DISEASE 7126 7153	Hipertensión pulmonar grave
+T37	DISEASE 7204 7232	enfermedad de Graves-Basedow
+T38	DISEASE 7235 7270	Hipertiroidismo primario autoinmune
+T39	DISEASE 7272 7300	enfermedad de Graves-Basedow
+T40	DISEASE 7303 7328	Insuficiencia renal aguda
+T41	DISEASE 792 794	IT
+T42	DISEASE 4252 4259	Sífilis
+T43	DISEASE 6023 6040	cuadro infeccioso
+T44	DISEASE 2407 2420	hepatomegalia
+T45	DISEASE 807 834	ventrículo derecho dilatado
+T46	DISEASE 7167 7202	hipertiroidismo primario autoinmune
+T47	DISEASE 7126 7202	Hipertensión pulmonar grave secundaria a hipertiroidismo primario autoinmune
+T48	PROCEDURE 200 210	diuréticos
+T49	PROCEDURE 281 307	tratamiento anticoagulante
+T50	PROCEDURE 666 694	ecocardiograma transtorácico
+T51	PROCEDURE 1021 1056	determinación de hormonas tiroideas
+T52	PROCEDURE 1790 1808	exploración física
+T53	PROCEDURE 2132 2158	exploración cardiopulmonar
+T54	PROCEDURE 2293 2314	auscultación pulmonar
+T55	PROCEDURE 2720 2738	electrocardiograma
+T56	PROCEDURE 2740 2743	ECG
+T57	PROCEDURE 2889 2909	radiografía de tórax
+T58	PROCEDURE 3024 3061	ecocardiograma transtorácico portátil
+T59	PROCEDURE 3369 3395	tratamiento anticoagulante
+T60	PROCEDURE 3398 3431	tratamiento diurético intravenoso
+T61	PROCEDURE 4305 4358	ecografías de miembros inferiores (MMII) y de abdomen
+T62	PROCEDURE 4569 4605	gammagrafía de ventilación/perfusión
+T63	PROCEDURE 4619 4651	angio-TAC de arterias pulmonares
+T64	PROCEDURE 4841 4867	tratamiento anticoagulante
+T65	PROCEDURE 4883 4907	tomografía computarizada
+T66	PROCEDURE 4988 5022	terapia anticoagulante y diurética
+T67	PROCEDURE 5399 5484	tratamiento con antitiroideos (tiamazol), betabloqueantes (propranolol) y corticoides
+T68	PROCEDURE 5766 5780	antibioterapia
+T69	PROCEDURE 6109 6120	TC de tórax
+T70	PROCEDURE 6331 6355	tratamiento antitiroideo
+T71	PROCEDURE 6370 6398	ecocardiograma transtorácico
+T72	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T73	PROCEDURE 6083 6096	función renal
+T74	PROCEDURE 5055 5073	hormonas tiroideas
+T75	PROCEDURE 6935 6953	hormonas tiroideas
+T76	PROCEDURE 4225 4235	serologías
+T77	PROCEDURE 2545 2566	tratamiento diurético
+T78	PROCEDURE 4054 4105	Se extrajeron además determinaciones de anticuerpos
+T79	PROCEDURE 5523 5548	anticuerpos antitiroideos
+T80	PROCEDURE 2172 2204	palpación del ventrículo derecho
+T81	SYMPTOM 495 536	disnea progresiva hasta hacerse de reposo
+T82	SYMPTOM 538 567	edemas en miembros inferiores
+T83	SYMPTOM 570 594	pérdida de 10 kg de peso
+T84	SYMPTOM 807 853	ventrículo derecho dilatado con función normal
+T85	SYMPTOM 1217 1224	diarrea
+T86	SYMPTOM 1250 1277	dolor abdominal tipo cólico
+T87	SYMPTOM 1427 1444	edemas en piernas
+T88	SYMPTOM 1446 1467	ingurgitación yugular
+T89	SYMPTOM 1470 1486	disnea en reposo
+T90	SYMPTOM 1491 1513	respiración paradójica
+T91	SYMPTOM 1516 1538	tiraje supraclavicular
+T92	SYMPTOM 1857 1878	ingurgitación yugular
+T93	SYMPTOM 1883 1903	pulso venoso yugular
+T94	SYMPTOM 1952 1970	signo de Kussmaull
+T95	SYMPTOM 2050 2073	soplo continuo tiroideo
+T96	SYMPTOM 2252 2286	soplo de regurgitación tricuspídeo
+T97	SYMPTOM 2318 2377	murmullo vesicular estaba abolido en ambas bases pulmonares
+T98	SYMPTOM 2461 2518	edemas con fóvea hasta la raíz de los miembros inferiores
+T99	SYMPTOM 2581 2601	signos de congestión
+T100	SYMPTOM 2628 2663	edema pretibial bilateral sin fóvea
+T101	SYMPTOM 2756 2767	ritmo nodal
+T102	SYMPTOM 2782 2828	bajos voltajes en las derivaciones de miembros
+T103	SYMPTOM 2948 2966	hilios desflecados
+T104	SYMPTOM 2969 2995	silueta cardiaca aumentada
+T105	SYMPTOM 3233 3254	congestión periférica
+T106	SYMPTOM 3827 3856	deterioro de la función renal
+T107	SYMPTOM 3926 3968	valores de NT-proBNP marcadamente elevados
+T108	SYMPTOM 4522 4551	deterioro de la función renal
+T109	SYMPTOM 4937 4966	deterioro de la función renal
+T110	SYMPTOM 5636 5642	fiebre
+T111	SYMPTOM 5842 5848	fiebre
+T112	SYMPTOM 5851 5884	infiltrado pulmonar retrocardiaco
+T113	SYMPTOM 5889 5929	esputo positivo para Rothia mucilaginosa
+T114	SYMPTOM 3630 3648	citólisis hepática
+T115	SYMPTOM 383 395	asintomática
+T116	SYMPTOM 2831 2884	T aplanadas de forma difusa en todas las derivaciones
+T117	SYMPTOM 4225 4289	serologías (VIH, VHC, VHB, Sífilis) siendo todas ellas negativas
+T118	SYMPTOM 5327 5349	citopenias secundarios
+T119	SYMPTOM 2172 2238	palpación del ventrículo derecho en la región paraesternal derecha
+T120	SYMPTOM 3570 3581	trombopenia
+T121	SYMPTOM 2022 2047	bocio con thrill palpable
+T122	SYMPTOM 3989 4040	niveles de D-dímero también se encontraban elevados
+T123	SYMPTOM 5523 5565	anticuerpos antitiroideos fueron positivos
+T124	SYMPTOM 6704 6773	alteraciones a nivel ventricular derecho y en la circulación pulmonar
+T125	SYMPTOM 6874 6895	cuadro cardiopulmonar
+T126	MEDICATION 914 929	espironolactona
+T127	MEDICATION 937 947	furosemida
+T128	MEDICATION 956 966	carvedilol
+T129	MEDICATION 5430 5438	tiamazol
+T130	MEDICATION 5458 5469	propranolol
+T131	MEDICATION 5486 5498	dexametasona
+T132	MEDICATION 5785 5796	cloxacilina
+T133	MEDICATION 5944 5957	levofloxacino
+T134	MEDICATION 5959 5970	ceftriaxona
+T135	MEDICATION 5973 5985	azitromicina
+#1	AnnotatorNotes T41	 IT insuficiencia tricuspídea

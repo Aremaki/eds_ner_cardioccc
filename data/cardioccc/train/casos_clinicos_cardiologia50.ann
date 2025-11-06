@@ -1,0 +1,86 @@
+T1	DISEASE 413 461	endocarditis infecciosa sobre válvula tricúspide
+T2	DISEASE 718 748	insuficiencia cardiaca crónica
+T3	DISEASE 809 861	dilatación y disfunción severa de ventrículo derecho
+T4	DISEASE 1120 1142	insuficiencia cardiaca
+T5	DISEASE 1363 1384	fibrilación auricular
+T6	DISEASE 1536 1558	insuficiencia cardiaca
+T7	DISEASE 1804 1824	hipotensión arterial
+T8	DISEASE 2776 2823	fibrilación auricular con respuesta ventricular
+T9	DISEASE 3734 3794	Válvula pulmonar con dilatación del anillo con insuficiencia
+T10	DISEASE 4127 4146	derrame pericárdico
+T11	DISEASE 5201 5231	Insuficiencia cardiaca derecha
+T12	DISEASE 5329 5352	endocarditis infecciosa
+T13	DISEASE 5354 5406	Dilatación severa y disfunción de ventrículo derecho
+T14	DISEASE 5460 5492	Fibrilación auricular permanente
+T15	DISEASE 5494 5511	Infección por VHC
+T16	DISEASE 157 180	alergias medicamentosas
+T17	DISEASE 192 202	Exfumadora
+T18	DISEASE 205 244	ex-usuaria de drogas por vía parenteral
+T19	DISEASE 2031 2039	síncopes
+T20	DISEASE 2611 2624	hepatomegalia
+T21	DISEASE 2429 2438	arrítmica
+T22	DISEASE 2980 3000	cardiomegalia global
+T23	DISEASE 3527 3566	Aurícula izquierda ligeramente dilatada
+T24	DISEASE 3568 3620	Aurícula y ventrículo derechos severamente dilatados
+T25	DISEASE 3622 3675	VD disfuncionante, con ausencia de válvula tricúspide
+T26	DISEASE 3893 3920	Válvula aórtica esclerosada
+T27	DISEASE 4015 4054	Vena cava inferior severamente dilatada
+T28	DISEASE 4080 4122	Venas suprahepáticas severamente dilatadas
+T29	DISEASE 4831 4842	hepatitis C
+T30	DISEASE 5408 5440	Disfunción ventricular izquierda
+T31	DISEASE 1888 1907	bajo gasto cardiaco
+T32	DISEASE 2860 2863	BRD
+T33	DISEASE 2159 2200	descompensación de insuficiencia cardiaca
+T34	PROCEDURE 509 532	explante valvular total
+T35	PROCEDURE 757 772	ecocardiogramas
+T36	PROCEDURE 1292 1325	tratamiento diurético intravenoso
+T37	PROCEDURE 2281 2299	exploración física
+T38	PROCEDURE 2402 2423	auscultación cardiaca
+T39	PROCEDURE 2545 2566	Auscultación pulmonar
+T40	PROCEDURE 2771 2774	ECG
+T41	PROCEDURE 2923 2943	Radiografía de tórax
+T42	PROCEDURE 2945 2967	sutura de esternotomía
+T43	PROCEDURE 3169 3183	Ecocardiograma
+T44	PROCEDURE 4236 4273	tratamiento con diurético intravenoso
+T45	PROCEDURE 4338 4356	soporte inotrópico
+T46	PROCEDURE 4712 4733	estudio pretrasplante
+T47	PROCEDURE 5061 5087	estudio digestivo completo
+T48	PROCEDURE 5158 5186	trasplante cardiaco electivo
+T49	PROCEDURE 5551 5570	trasplante cardiaco
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 4496 4529	tratamiento deplectivo a vía oral
+T52	PROCEDURE 5286 5308	valvectomía tricúspide
+T53	PROCEDURE 2656 2665	palpación
+T54	PROCEDURE 1514 1558	terapias avanzadas de insuficiencia cardiaca
+T55	SYMPTOM 658 697	deterioro progresivo de clase funcional
+T56	SYMPTOM 871 955	desplazamiento del septo interventricular hacia cavidades izquierdas de forma severa
+T57	SYMPTOM 1226 1254	disnea de pequeños esfuerzos
+T58	SYMPTOM 1758 1783	estable hemodinámicamente
+T59	SYMPTOM 1851 1876	congestión derecha franca
+T60	SYMPTOM 1932 1960	dolor abdominal postprandial
+T61	SYMPTOM 1963 1970	astenia
+T62	SYMPTOM 2074 2079	mareo
+T63	SYMPTOM 2084 2125	sudoración, en relación con los esfuerzos
+T64	SYMPTOM 2301 2317	cianosis central
+T65	SYMPTOM 2319 2376	Ingurgitación yugular visible hasta el lóbulo de la oreja
+T66	SYMPTOM 2444 2474	galope por tercer tono derecho
+T67	SYMPTOM 2485 2510	soplo pansistólico III/VI
+T68	SYMPTOM 2545 2597	Auscultación pulmonar sin hallazgos de significación
+T69	SYMPTOM 2715 2744	edemas en miembros inferiores
+T70	SYMPTOM 2866 2881	onda T negativa
+T71	SYMPTOM 3254 3355	Abombamiento sistólico y diastólico muy marcado del septo interventricular hacia ventrículo izquierdo
+T72	SYMPTOM 3383 3429	Función sistólica global ligeramente deprimida
+T73	SYMPTOM 3431 3467	Patrón de llenado transmitral normal
+T74	SYMPTOM 3622 3639	VD disfuncionante
+T75	SYMPTOM 3831 3869	Válvula mitral morfológicamente normal
+T76	SYMPTOM 3469 3525	Septo interauricular desplazado hacia aurícula izquierda
+T77	SYMPTOM 3123 3152	alteraciones pleuropulmonares
+T78	SYMPTOM 3185 3252	ventrículo izquierdo no dilatado, con espesores parietales normales
+T79	SYMPTOM 3078 3117	Lóbulo y cisura accesorios de la ácigos
+T80	MEDICATION 1579 1589	furosemida
+T81	MEDICATION 1657 1669	acenocumarol
+T82	MEDICATION 1688 1696	digoxina
+T83	MEDICATION 4361 4371	dobutamina
+T84	MEDICATION 4396 4408	levosimendán
+T85	MEDICATION 4910 4933	simeprevir y sofosbuvir
+T86	MEDICATION 1632 1641	aldactone

@@ -1,0 +1,87 @@
+T1	ENFERMEDAD 104 151	infarto agudo de miocardio sin elevación del ST
+T2	ENFERMEDAD 180 217	diabetes mellitus insulinodependiente
+T3	ENFERMEDAD 307 330	alergias medicamentosas
+T4	ENFERMEDAD 394 401	Fumador
+T5	ENFERMEDAD 530 593	Diabetes mellitus tipo 2 desde hace 22 años insulinodependiente
+T6	ENFERMEDAD 595 605	dislipemia
+T7	ENFERMEDAD 607 617	hipertenso
+T8	ENFERMEDAD 619 643	Enfermedad renal crónica
+T9	ENFERMEDAD 714 737	melanoma maligno lumbar
+T10	ENFERMEDAD 774 805	Hipertrofia benigna de próstata
+T11	ENFERMEDAD 1081 1107	infarto agudo de miocardio
+T12	ENFERMEDAD 1184 1206	insuficiencia cardiaca
+T13	ENFERMEDAD 2197 2218	cardiopatía isquémica
+T14	ENFERMEDAD 2322 2330	obesidad
+T15	ENFERMEDAD 2946 3048	DA de buen calibre y extensión con lesión crítica en tercio proximal-medio y placa larga con estenosis
+T16	ENFERMEDAD 3385 3433	hipertrofia ventricular izquierda (HVI) moderada
+T17	ENFERMEDAD 3420 3423	HVI
+T18	ENFERMEDAD 3735 3760	insuficiencia tricuspídea
+T19	ENFERMEDAD 3762 3764	IT
+T20	ENFERMEDAD 3817 3836	derrame pericárdico
+T21	ENFERMEDAD 4846 4893	Infarto agudo de miocardio sin elevación del ST
+T22	ENFERMEDAD 4922 4977	Enfermedad coronaria significativa de un vaso principal
+T23	ENFERMEDAD 4979 5024	Diabetes mellitus tipo II insulinodependiente
+T24	ENFERMEDAD 5053 5070	Obesidad grado I.
+T25	ENFERMEDAD 5071 5081	Tabaquismo
+T26	ENFERMEDAD 5083 5093	Dislipemia
+T27	ENFERMEDAD 5095 5119	Enfermedad renal crónica
+T28	ENFERMEDAD 1604 1708	(DA) de buen calibre y extensión con lesión crítica en tercio proximal-medio y placa larga con estenosis
+T29	ENFERMEDAD 486 491	fumar
+T30	ENFERMEDAD 440 447	infarto
+T31	ENFERMEDAD 1783 1829	circunfleja (Cx) no dominante con mínima placa
+T32	ENFERMEDAD 1951 2008	arteria coronaria derecha (CD) dominante con mínima placa
+T33	ENFERMEDAD 3115 3147	Cx no dominante con mínima placa
+T34	ENFERMEDAD 3269 3298	CD dominante con mínima placa
+T35	PROCEDIMIENTO 270 288	EXPLORACIÓN FÍSICA
+T36	PROCEDIMIENTO 807 821	prostatectomía
+T37	PROCEDIMIENTO 1214 1232	electrocardiograma
+T38	PROCEDIMIENTO 1234 1237	ECG
+T39	PROCEDIMIENTO 1540 1561	cateterismo coronario
+T40	PROCEDIMIENTO 2059 2153	Angioplastia primaria con implante de dos stents farmacoactivos en DA proximomedial y DA media
+T41	PROCEDIMIENTO 2166 2181	ecocardiografía
+T42	PROCEDIMIENTO 2877 2898	Cateterismo coronario
+T43	PROCEDIMIENTO 2911 2932	cateterismo coronario
+T44	PROCEDIMIENTO 3349 3377	Ecocardiograma transtorácico
+T45	PROCEDIMIENTO 3379 3382	ETT
+T46	PROCEDIMIENTO 4802 4820	estudio del hierro
+T47	PROCEDIMIENTO 2693 2702	Analítica
+T48	PROCEDIMIENTO 3898 3907	Analítica
+T49	PROCEDIMIENTO 1368 1377	analítica
+T50	PROCEDIMIENTO 4790 4799	analítica
+T51	PROCEDIMIENTO 4348 4368	analítica de control
+T52	PROCEDIMIENTO 2261 2272	exploración
+T53	SINTOMA 1138 1152	dolor torácico
+T54	SINTOMA 1164 1170	disnea
+T55	SINTOMA 1243 1256	ritmo sinusal
+T56	SINTOMA 1281 1301	T negativas en V3-V4
+T57	SINTOMA 2282 2319	soplo sistólico II/VI en foco aórtico
+T58	SINTOMA 3493 3537	hipocinesia de segmento medio septalanterior
+T59	SINTOMA 3539 3557	FEVI global normal
+T60	SINTOMA 3876 3896	masas intracardiacas
+T61	SINTOMA 4138 4154	dolores torácico
+T62	SINTOMA 4215 4253	leve disnea en los esfuerzos moderados
+T63	SINTOMA 4904 4919	FEVI conservada
+T64	SINTOMA 3559 3611	Válvula aórtica (VAo) y válvula mitral (VM) normales
+T65	SINTOMA 2221 2232	FEVI normal
+T66	SINTOMA 3450 3465	acinesia apical
+T67	SINTOMA 3613 3634	Disfunción diastólica
+T68	SINTOMA 3644 3674	Aurícula izquierda (AI) normal
+T69	SINTOMA 3676 3729	Ventrículo derecho (VD) de dimensión y función normal
+T70	SINTOMA 3777 3811	presión venosa central (PVC) norma
+T71	SINTOMA 3838 3870	Raíz aórtica de dimensión normal
+T72	FARMACO 870 892	ácido acetilsalicílico
+T73	FARMACO 894 897	AAS
+T74	FARMACO 912 922	bisoprolol
+T75	FARMACO 934 951	insulina glargina
+T76	FARMACO 964 987	metformina+sitagliptina
+T77	FARMACO 1008 1020	gembifrozilo
+T78	FARMACO 1034 1043	omeprazol
+T79	FARMACO 2471 2480	omeprazol
+T80	FARMACO 2492 2495	AAS
+T81	FARMACO 2532 2542	bisoprolol
+T82	FARMACO 2556 2579	rosuvastatina-ezetimiba
+T83	FARMACO 2595 2612	insulina glargina
+T84	FARMACO 2626 2649	metformina-sitagliptina
+T85	FARMACO 4506 4517	dulaglutida
+T86	FARMACO 4732 4742	insulínica
+T87	FARMACO 2509 2519	ticagrelor

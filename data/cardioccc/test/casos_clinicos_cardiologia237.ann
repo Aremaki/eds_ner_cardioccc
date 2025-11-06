@@ -1,0 +1,143 @@
+T1	ENFERMEDAD 70 93	alergias medicamentosas
+T2	ENFERMEDAD 140 150	tabaquismo
+T3	ENFERMEDAD 153 171	consumo de alcohol
+T4	ENFERMEDAD 211 229	consumo de tóxicos
+T5	ENFERMEDAD 234 255	hipertensión arterial
+T6	ENFERMEDAD 257 260	HTA
+T7	ENFERMEDAD 266 276	dislipemia
+T8	ENFERMEDAD 281 298	diabetes mellitus
+T9	ENFERMEDAD 383 403	cardiopatía familiar
+T10	ENFERMEDAD 635 642	síncope
+T11	ENFERMEDAD 1312 1319	síncope
+T12	ENFERMEDAD 1413 1431	consumo de tóxicos
+T13	ENFERMEDAD 1584 1591	síncope
+T14	ENFERMEDAD 2209 2234	trombosis venosa profunda
+T15	ENFERMEDAD 2236 2239	TVP
+T16	ENFERMEDAD 2815 2830	derrame pleural
+T17	ENFERMEDAD 2845 2855	neumotórax
+T18	ENFERMEDAD 3445 3473	Insuficiencia mitral trivial
+T19	ENFERMEDAD 3499 3512	valvulopatías
+T20	ENFERMEDAD 3566 3591	Insuficiencia tricuspídea
+T21	ENFERMEDAD 4131 4197	taquicardia ortodrómica por otra vía accesoria posterior izquierda
+T22	ENFERMEDAD 5238 5280	fibrilación auricular preexcitada sincopal
+T23	ENFERMEDAD 6193 6240	Fibrilación auricular (FA) preexcitada sincopal
+T24	ENFERMEDAD 6373 6393	insuficiencia mitral
+T25	ENFERMEDAD 5467 5485	eventos arrítmicos
+T26	ENFERMEDAD 6216 6218	FA
+T27	ENFERMEDAD 6395 6397	IM
+T28	ENFERMEDAD 407 420	muerte súbita
+T29	ENFERMEDAD 5803 5860	vías accesorias (lateral izquierda y posterior izquierda)
+T30	PROCEDIMIENTO 464 478	amigdalectomía
+T31	PROCEDIMIENTO 661 679	electrocardiograma
+T32	PROCEDIMIENTO 681 684	ECG
+T33	PROCEDIMIENTO 1594 1612	Exploración física
+T34	PROCEDIMIENTO 1807 1830	Exploración neurológica
+T35	PROCEDIMIENTO 1904 1936	Auscultación cardiaca y pulmonar
+T36	PROCEDIMIENTO 2115 2124	palpación
+T37	PROCEDIMIENTO 2269 2272	ECG
+T38	PROCEDIMIENTO 2274 2277	ECG
+T39	PROCEDIMIENTO 2456 2459	ECG
+T40	PROCEDIMIENTO 2465 2468	CVE
+T41	PROCEDIMIENTO 2619 2622	ECG
+T42	PROCEDIMIENTO 2719 2739	Radiografía de tórax
+T43	PROCEDIMIENTO 2869 2878	Hemograma
+T44	PROCEDIMIENTO 3287 3301	Ecocardiograma
+T45	PROCEDIMIENTO 3674 3700	Estudio electrofisiológico
+T46	PROCEDIMIENTO 3702 3705	EEF
+T47	PROCEDIMIENTO 3726 3729	ECG
+T48	PROCEDIMIENTO 4572 4575	ECG
+T49	PROCEDIMIENTO 4652 4655	ECG
+T50	PROCEDIMIENTO 4798 4825	cardioversión farmacológica
+T51	PROCEDIMIENTO 4990 5013	cardioversión eléctrica
+T52	PROCEDIMIENTO 5015 5018	CVE
+T53	PROCEDIMIENTO 5084 5087	ECG
+T54	PROCEDIMIENTO 5209 5212	ECG
+T55	PROCEDIMIENTO 5329 5352	monitorización continua
+T56	PROCEDIMIENTO 5523 5544	estudios morfológicos
+T57	PROCEDIMIENTO 5549 5577	ecocardiograma transtorácico
+T58	PROCEDIMIENTO 5579 5582	ETT
+T59	PROCEDIMIENTO 5683 5711	ablación de la vía accesoria
+T60	PROCEDIMIENTO 5784 5787	EEF
+T61	PROCEDIMIENTO 6010 6013	ECG
+T62	PROCEDIMIENTO 6164 6167	ECG
+T63	PROCEDIMIENTO 6242 6307	Ablación de vía accesoria lateral izquierda y posterior izquierda
+T64	PROCEDIMIENTO 4920 4928	sedación
+T65	PROCEDIMIENTO 3029 3039	Bioquímica
+T66	PROCEDIMIENTO 5093 5096	CVE
+T67	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T68	PROCEDIMIENTO 3199 3209	Hemostasia
+T69	PROCEDIMIENTO 5492 5506	monitorización
+T70	PROCEDIMIENTO 4121 4197	se induce taquicardia ortodrómica por otra vía accesoria posterior izquierda
+T71	PROCEDIMIENTO 2858 2867	Analítica
+T72	PROCEDIMIENTO 436 462	Intervenciones quirúrgicas
+T73	PROCEDIMIENTO 3774 3810	se accede por vía aórtica retrógrada
+T74	PROCEDIMIENTO 4211 4219	ablación
+T75	PROCEDIMIENTO 3813 3869	se localiza catéter de ablación en anillo mitral lateral
+T76	PROCEDIMIENTO 5803 5882	vías accesorias (lateral izquierda y posterior izquierda) y se realiza ablación
+T77	SINTOMA 619 632	palpitaciones
+T78	SINTOMA 686 720	taquicardia irregular de QRS ancho
+T79	SINTOMA 793 806	palpitaciones
+T80	SINTOMA 829 834	mareo
+T81	SINTOMA 962 967	mareo
+T82	SINTOMA 1071 1093	pérdida de consciencia
+T83	SINTOMA 1178 1191	palpitaciones
+T84	SINTOMA 1201 1215	dolor torácico
+T85	SINTOMA 1217 1223	disnea
+T86	SINTOMA 1275 1288	palpitaciones
+T87	SINTOMA 1639 1658	buen estado general
+T88	SINTOMA 1660 1674	normocoloreado
+T89	SINTOMA 1677 1691	normohidratado
+T90	SINTOMA 1693 1711	eupneico en reposo
+T91	SINTOMA 1832 1842	consciente
+T92	SINTOMA 1845 1854	orientado
+T93	SINTOMA 1976 1982	soplos
+T94	SINTOMA 1984 2013	Murmullo vesicular conservado
+T95	SINTOMA 2015 2018	MVC
+T96	SINTOMA 2047 2073	Abdomen blando, depresible
+T97	SINTOMA 2079 2084	masas
+T98	SINTOMA 2088 2096	megalias
+T99	SINTOMA 2101 2124	doloroso a la palpación
+T100	SINTOMA 2139 2160	irritación peritoneal
+T101	SINTOMA 2430 2454	latidos con QRS estrecho
+T102	SINTOMA 2470 2483	ritmo sinusal
+T103	SINTOMA 2529 2548	onda delta positiva
+T104	SINTOMA 2584 2617	alteraciones de la repolarización
+T105	SINTOMA 2632 2645	ritmo sinusal
+T106	SINTOMA 2666 2678	QRS estrecho
+T107	SINTOMA 2741 2792	índice cardiotorácico (ICT) dentro de la normalidad
+T108	SINTOMA 3303 3374	ventrículo izquierdo de diámetros y función global sistólica conservada
+T109	SINTOMA 3514 3564	Ventrículo derecho de tamaño y función conservados
+T110	SINTOMA 4318 4350	conducción retrógrada excéntrica
+T111	SINTOMA 4377 4388	taquicardia
+T112	SINTOMA 4676 4710	taquicardia irregular de QRS ancho
+T113	SINTOMA 4718 4742	estabilidad hemodinámica
+T114	SINTOMA 4775 4786	taquicardia
+T115	SINTOMA 4870 4881	taquicardia
+T116	SINTOMA 5057 5070	ritmo sinusal
+T117	SINTOMA 5109 5122	ritmo sinusal
+T118	SINTOMA 5140 5191	onda delta + en derivaciones inferiores y laterales
+T119	SINTOMA 5448 5460	asintomático
+T120	SINTOMA 6113 6125	asintomático
+T121	SINTOMA 3388 3433	alteraciones de la contractilidad segmentaria
+T122	SINTOMA 1467 1480	palpitaciones
+T123	SINTOMA 2312 2346	taquicardia irregular de QRS ancho
+T124	SINTOMA 4228 4239	taquicardia
+T125	SINTOMA 1938 1970	ruidos irregulares taquicárdicos
+T126	SINTOMA 3647 3672	Vena cava inferior normal
+T127	SINTOMA 6309 6368	Fracción de eyección del ventrículo izquierdo (FEVI) normal
+T128	SINTOMA 2162 2193	Miembros inferiores: sin edemas
+T129	SINTOMA 1856 1862	alerta
+T130	SINTOMA 1864 1875	colaborador
+T131	SINTOMA 2797 2811	condensaciones
+T132	SINTOMA 6028 6041	preexcitación
+T133	SINTOMA 6143 6156	preexcitación
+T134	SINTOMA 2025 2045	ruidos sobreañadidos
+T135	SINTOMA 2683 2716	alteraciones de la repolarización
+T136	SINTOMA 5127 5135	PR corto
+T137	FARMACO 4830 4842	procainamida
+T138	FARMACO 4941 4950	midazolam
+T139	FARMACO 4961 4970	etomidato
+#1	AnnotatorNotes T26	 Fibrilación auricular
+#2	AnnotatorNotes T27	 insuficiencia mitral
+#3	AnnotatorNotes T40	 cardioversión eléctrica
+#4	AnnotatorNotes T46	 estudio electtrofisiológico

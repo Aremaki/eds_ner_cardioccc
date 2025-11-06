@@ -1,0 +1,128 @@
+T1	ENFERMEDAD 3683 3752	Ventrículo izquierdo (VI) de tamaño normal y ligeramente hipertrófico
+T2	ENFERMEDAD 232 253	Hipertensión arterial
+T3	ENFERMEDAD 291 301	Dislipemia
+T4	ENFERMEDAD 578 607	insuficiencia mitral moderada
+T5	ENFERMEDAD 716 749	Síndrome de apnea del sueño grave
+T6	ENFERMEDAD 778 795	Gastritis crónica
+T7	ENFERMEDAD 798 813	hernia de hiato
+T8	ENFERMEDAD 815 833	Síndrome depresivo
+T9	ENFERMEDAD 852 875	Trastornos somatomorfos
+T10	ENFERMEDAD 887 950	Parálisis de cuerda vocal izquierda tras intubación orotraqueal
+T11	ENFERMEDAD 966 981	neumonía vírica
+T12	ENFERMEDAD 1015 1073	neoplasia de próstata localizada sin extensión a distancia
+T13	ENFERMEDAD 1377 1403	parada cardiorrespiratoria
+T14	ENFERMEDAD 3537 3565	patología intracraneal aguda
+T15	ENFERMEDAD 3921 3974	Insuficiencia mitral al menos moderada muy excéntrica
+T16	ENFERMEDAD 4049 4068	derrame pericárdico
+T17	ENFERMEDAD 4281 4372	Insuficiencia mitral al menos moderada (probablemente grave) con prolapso de velo posterior
+T18	ENFERMEDAD 4428 4485	insuficiencia mitral grave por prolapso de velo posterior
+T19	ENFERMEDAD 4613 4659	prolapso mitral con insuficiencia mitral grave
+T20	ENFERMEDAD 5142 5168	parada cardiorrespiratoria
+T21	ENFERMEDAD 5264 5287	prolapso mitral maligno
+T22	ENFERMEDAD 5364 5410	taquicardia ventricular monomorfa no sostenida
+T23	ENFERMEDAD 5480 5527	insuficiencia mitral grave con dilatación de VI
+T24	ENFERMEDAD 6181 6213	Prolapso valvular mitral maligno
+T25	ENFERMEDAD 6277 6332	Insuficiencia mitral grave secundaria a prolapso mitral
+T26	ENFERMEDAD 3376 3406	Hemibloqueo anterior izquierdo
+T27	ENFERMEDAD 6215 6251	Parada cardiorrespiratoria reanimada
+T28	ENFERMEDAD 6371 6422	Taquicardias ventriculares monoformas no sostenidas
+T29	ENFERMEDAD 137 160	alergias medicamentosas
+T30	ENFERMEDAD 5445 5468	bloqueo de rama derecha
+T31	ENFERMEDAD 3176 3189	cardiomegalia
+T32	ENFERMEDAD 3279 3298	congestión pulmonar
+T33	ENFERMEDAD 207 216	exfumador
+T34	ENFERMEDAD 6334 6369	Dilatación del ventrículo izquierdo
+T35	ENFERMEDAD 4670 4681	VI dilatado
+T36	PROCEDIMIENTO 454 482	ecocardiograma transtorácico
+T37	PROCEDIMIENTO 761 765	CPAP
+T38	PROCEDIMIENTO 928 950	intubación orotraqueal
+T39	PROCEDIMIENTO 1114 1134	resección prostática
+T40	PROCEDIMIENTO 1471 1517	maniobras de reanimación cardiaca (RCP) básica
+T41	PROCEDIMIENTO 1506 1509	RCP
+T42	PROCEDIMIENTO 1524 1572	descarga de desfibrilador externo semiautomático
+T43	PROCEDIMIENTO 1758 1766	intubado
+T44	PROCEDIMIENTO 1781 1801	ventilación mecánica
+T45	PROCEDIMIENTO 2178 2200	intubación orotraqueal
+T46	PROCEDIMIENTO 2214 2234	ventilación mecánica
+T47	PROCEDIMIENTO 2249 2271	Auscultación carotidea
+T48	PROCEDIMIENTO 2315 2336	Auscultación cardiaca
+T49	PROCEDIMIENTO 2487 2508	Auscultación pulmonar
+T50	PROCEDIMIENTO 2544 2565	Exploración abdominal
+T51	PROCEDIMIENTO 2882 2891	Hemograma
+T52	PROCEDIMIENTO 3063 3082	Gasometría arterial
+T53	PROCEDIMIENTO 3145 3174	Radiografía de tórax portátil
+T54	PROCEDIMIENTO 3300 3318	Electrocardiograma
+T55	PROCEDIMIENTO 3320 3323	ECG
+T56	PROCEDIMIENTO 3497 3509	TC de cráneo
+T57	PROCEDIMIENTO 4070 4085	Coronariografía
+T58	PROCEDIMIENTO 4178 4206	Ecocardiograma transtorácico
+T59	PROCEDIMIENTO 4388 4417	Ecocardiograma transesofágico
+T60	PROCEDIMIENTO 4577 4611	Resonancia magnética (RM) cardiaca
+T61	PROCEDIMIENTO 5543 5545	RM
+T62	PROCEDIMIENTO 5601 5627	reparación valvular mitral
+T63	PROCEDIMIENTO 5664 5745	implante de dos neocuerdas Goretex 4/0 a P2 y AM (Physio 30 mm) más anillo mitral
+T64	PROCEDIMIENTO 5802 5838	implante de desfibrilador automático
+T65	PROCEDIMIENTO 2940 2951	Coagulación
+T66	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T67	PROCEDIMIENTO 2036 2054	EXPLORACIÓN FÍSICA
+T68	PROCEDIMIENTO 3622 3637	Ecocardioscopia
+T69	PROCEDIMIENTO 2775 2780	Iones
+T70	PROCEDIMIENTO 2706 2716	bioquímica
+T71	PROCEDIMIENTO 305 326	tratamiento dietético
+T72	PROCEDIMIENTO 3035 3051	tóxicos en orina
+T73	PROCEDIMIENTO 3567 3611	Mapa de perfusión y de troncos supraaórticos
+T74	PROCEDIMIENTO 4972 4981	extubarse
+T75	SINTOMA 397 427	soplo sistólico en foco mitral
+T76	SINTOMA 1681 1694	ritmo sinusal
+T77	SINTOMA 1709 1733	nivel de conciencia bajo
+T78	SINTOMA 2081 2088	afebril
+T79	SINTOMA 2276 2282	soplos
+T80	SINTOMA 2284 2313	Presión venosa yugular normal
+T81	SINTOMA 2315 2344	Auscultación cardiaca rítmica
+T82	SINTOMA 2359 2423	soplo holosistólico piante en foco mitral que se irradia a axila
+T83	SINTOMA 2487 2542	Auscultación pulmonar con murmullo vesicular conservado
+T84	SINTOMA 2544 2591	Exploración abdominal sin hallazgos patológicos
+T85	SINTOMA 2593 2615	Buena perfusión distal
+T86	SINTOMA 2621 2627	edemas
+T87	SINTOMA 2629 2666	Pulsos centrales y distales presentes
+T88	SINTOMA 3326 3339	ritmo sinusal
+T89	SINTOMA 3350 3359	PR normal
+T90	SINTOMA 3408 3420	QRS estrecho
+T91	SINTOMA 3422 3470	Descenso del ST de aproximadamente 1 mm en V4-V6
+T92	SINTOMA 3473 3495	onda T aplanada en aVL
+T93	SINTOMA 4006 4044	Válvulas aórtica y tricúspide normales
+T94	SINTOMA 4216 4231	FEVI preservada
+T95	SINTOMA 4270 4279	VD normal
+T96	SINTOMA 4699 4779	Adelgazamiento e hipocontractilidad de los segmentos basal y medio inferolateral
+T97	SINTOMA 4848 4879	VD de tamaño y función normales
+T98	SINTOMA 5045 5057	asintomático
+T99	SINTOMA 2775 2789	Iones normales
+T100	SINTOMA 2001 2013	asintomático
+T101	SINTOMA 1961 1976	amnesia lacunar
+T102	SINTOMA 3035 3061	tóxicos en orina negativos
+T103	SINTOMA 3567 3620	Mapa de perfusión y de troncos supraaórticos normales
+T104	SINTOMA 3784 3802	hipocinesia global
+T105	SINTOMA 3815 3887	adelgazamiento e hipocontractilidad en el segmento basal inferoposterior
+T106	SINTOMA 4233 4268	Acinesia posterobasal e inferobasal
+T107	SINTOMA 3889 3919	Ventrículo derecho (VD) normal
+T108	SINTOMA 5035 5042	estable
+T109	SINTOMA 2907 2938	leucocitos y plaquetas normales
+T110	SINTOMA 4785 4846	realce tardío intramiocárdico en segmento basal inferolateral
+T111	SINTOMA 512 575	fracción de eyección del ventrículo izquierdo (FEVI) preservada
+T112	SINTOMA 2962 2993	TTPa y D-Dímero en rango normal
+T113	SINTOMA 3004 3024	etanol no detectable
+T114	SINTOMA 3361 3374	Eje izquierdo
+T115	SINTOMA 3754 3779	FEVI moderadamente afecta
+T116	SINTOMA 4087 4146	arterias coronarias epicárdicas con mínimas irregularidades
+T117	SINTOMA 4511 4528	chorro excéntrico
+T118	FARMACO 1155 1167	Escitalopram
+T119	FARMACO 1202 1215	aliskiren/HTZ
+T120	FARMACO 5958 5968	torasemida
+T121	FARMACO 5976 5984	ramipril
+T122	FARMACO 5993 6003	bisoprolol
+T123	FARMACO 6010 6023	atorvastatina
+T124	FARMACO 6031 6040	omeprazol
+T125	FARMACO 6048 6072	ferrimanitol ovoalbúmina
+T126	FARMACO 6080 6089	metamizol
+T127	FARMACO 6099 6107	tramadol
+#1	AnnotatorNotes T119	 HTZ = 91667005 | producto que contiene hidroclorotiazida (producto medicinal) |

@@ -1,0 +1,207 @@
+T1	DISEASE 3012 3015	DPN
+T2	DISEASE 307 318	cardiopatía
+T3	DISEASE 487 490	MCD
+T4	DISEASE 544 555	cardiopatía
+T5	DISEASE 617 628	cardiopatía
+T6	DISEASE 656 679	alergias medicamentosas
+T7	DISEASE 711 719	fumadora
+T8	DISEASE 723 731	bebedora
+T9	DISEASE 771 783	Fibromialgia
+T10	DISEASE 785 836	Insuficiencia venosa crónica en miembros inferiores
+T11	DISEASE 861 884	Miocardiopatía dilatada
+T12	DISEASE 994 1004	DSVI grave
+T13	DISEASE 1084 1102	IM grave funcional
+T14	DISEASE 1104 1150	insuficiencia tricuspídea (IT) grave funcional
+T15	DISEASE 1162 1206	Hipertensión pulmonar (HP) al menos moderada
+T16	DISEASE 1185 1187	HP
+T17	DISEASE 1208 1239	Insuficiencia cardiaca avanzada
+T18	DISEASE 1449 1470	Síndrome cardiorrenal
+T19	DISEASE 1675 1700	Bloqueo de rama izquierda
+T20	DISEASE 1702 1708	BCRIHH
+T21	DISEASE 1809 1832	arritmias ventriculares
+T22	DISEASE 1849 1872	taquicardia ventricular
+T23	DISEASE 1874 1876	TV
+T24	DISEASE 1900 1914	FA paroxística
+T25	DISEASE 2334 2336	IC
+T26	DISEASE 3840 3865	trombosis venosa profunda
+T27	DISEASE 3867 3870	TVP
+T28	DISEASE 5504 5542	extrasístoles ventriculares monomorfas
+T29	DISEASE 5648 5674	disfunción sistólica grave
+T30	DISEASE 5831 5872	Insuficiencia mitral (IM) grave funcional
+T31	DISEASE 5874 5913	Insuficiencia tricuspídea (IT) moderada
+T32	DISEASE 6163 6204	hipertensión pulmonar moderada poscapilar
+T33	DISEASE 6485 6501	IC descompensada
+T34	DISEASE 6981 7022	hipertensión pulmonar moderada poscapilar
+T35	DISEASE 8062 8093	insuficiencia cardiaca avanzada
+T36	DISEASE 8153 8156	IRC
+T37	DISEASE 8209 8230	síndrome cardiorrenal
+T38	DISEASE 8426 8441	cuadro catarral
+T39	DISEASE 9055 9063	IM grave
+T40	DISEASE 9947 10049	Insuficiencia cardiaca crónica avanzada CF III NYHA - INTERMACS 6 por miocardiopatía dilatada familiar
+T41	DISEASE 10211 10247	Insuficiencia mitral grave funcional
+T42	DISEASE 10250 10293	insuficiencia tricúspide moderada funcional
+T43	DISEASE 10319 10360	Hipertensión pulmonar moderada poscapilar
+T44	DISEASE 10431 10464	Fibrilación auricular paroxística
+T45	DISEASE 10466 10526	Insuficiencia renal crónica (G3A2) por síndrome cardiorrenal
+T46	DISEASE 691 706	Hábitos tóxicos
+T47	DISEASE 7072 7074	IC
+T48	DISEASE 9171 9188	IM leve- moderada
+T49	DISEASE 5596 5630	ventrículo izquierdo (VI) dilatado
+T50	DISEASE 5753 5822	Ventrículo derecho (VD) ligeramente dilatado con disfunción sistólica
+T51	DISEASE 5853 5855	IM
+T52	DISEASE 5901 5903	IT
+T53	DISEASE 10105 10115	DSVI grave
+T54	DISEASE 10414 10419	TVMNS
+T55	DISEASE 6024 6052	Insuficiencia aórtica ligera
+T56	DISEASE 8405 8420	descompensación
+T57	DISEASE 111 166	fallecido a los 78 años de forma súbita con cardiopatía
+T58	DISEASE 427 466	fallecido a los 38 años de forma súbita
+T59	DISEASE 1537 1576	intolerancia a fármacos neurohormonales
+T60	PROCEDURE 958 986	ecocardiograma transtorácico
+T61	PROCEDURE 988 991	ETT
+T62	PROCEDURE 1437 1447	diuréticos
+T63	PROCEDURE 1552 1576	fármacos neurohormonales
+T64	PROCEDURE 1714 1752	implante de DAI-resincronizador Boston
+T65	PROCEDURE 2408 2429	tratamiento diurético
+T66	PROCEDURE 2690 2711	estudio pretrasplante
+T67	PROCEDURE 3205 3223	Exploración física
+T68	PROCEDURE 3508 3529	Auscultación cardiaca
+T69	PROCEDURE 3600 3621	Auscultación pulmonar
+T70	PROCEDURE 3737 3746	palpación
+T71	PROCEDURE 3947 3956	Hemograma
+T72	PROCEDURE 4362 4373	Coagulación
+T73	PROCEDURE 4841 4855	Perfil férrico
+T74	PROCEDURE 4968 4984	Perfil glucémico
+T75	PROCEDURE 5044 5059	Perfil lipídico
+T76	PROCEDURE 5212 5232	Radiografía de tórax
+T77	PROCEDURE 5415 5433	Electrocardiograma
+T78	PROCEDURE 5435 5438	ECG
+T79	PROCEDURE 5570 5584	Ecocardiograma
+T80	PROCEDURE 6054 6075	Cateterismo izquierdo
+T81	PROCEDURE 6142 6161	Cateterismo derecho
+T82	PROCEDURE 6631 6652	tratamiento diurético
+T83	PROCEDURE 7570 7584	panel genético
+T84	PROCEDURE 7598 7636	estudio genético mediante panel de NGS
+T85	PROCEDURE 8002 8023	estudio pretrasplante
+T86	PROCEDURE 8343 8362	trasplante cardiaco
+T87	PROCEDURE 8443 8460	cultivo de esputo
+T88	PROCEDURE 8721 8739	ecografía pulmonar
+T89	PROCEDURE 8810 8831	tratamiento diurético
+T90	PROCEDURE 9080 9101	implante de MitraClip
+T91	PROCEDURE 9214 9245	retirar diuréticos intravenosos
+T92	PROCEDURE 10169 10188	trasplante cardiaco
+T93	PROCEDURE 10423 10429	Holter
+T94	PROCEDURE 4507 4517	Bioquímica
+T95	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T96	PROCEDURE 1290 1306	Ergoespirometría
+T97	PROCEDURE 6538 6551	Función renal
+T98	PROCEDURE 6889 6917	cateterismo cardiaco derecho
+T99	PROCEDURE 6680 6694	perfil férrico
+T100	PROCEDURE 3936 3945	Analítica
+T101	PROCEDURE 5298 5347	Generador de DAI-TRC en región pectoral izquierda
+T102	PROCEDURE 10375 10382	DAI-TRC
+T103	PROCEDURE 9415 9424	analítica
+T104	PROCEDURE 2380 2405	perfusión de levosimendán
+T105	SYMPTOM 339 393	portador de Val26Ala en mutación del gen de la emerina
+T106	SYMPTOM 427 436	fallecido
+T107	SYMPTOM 1017 1082	ventrículo derecho (VD) con función sistólica levemente deprimida
+T108	SYMPTOM 1506 1532	deterioro de función renal
+T109	SYMPTOM 1578 1617	Biomarcadores persistentemente elevados
+T110	SYMPTOM 2540 2580	deterioro progresivo de la función renal
+T111	SYMPTOM 2835 2860	hemodinámicamente estable
+T112	SYMPTOM 2980 2986	disnea
+T113	SYMPTOM 2991 2999	ortopnea
+T114	SYMPTOM 3001 3010	bendopnea
+T115	SYMPTOM 3020 3049	edemas en miembros inferiores
+T116	SYMPTOM 3054 3085	aumento del perímetro abdominal
+T117	SYMPTOM 3090 3107	ganancia ponderal
+T118	SYMPTOM 3124 3157	disminución del ritmo de diuresis
+T119	SYMPTOM 3425 3435	Consciente
+T120	SYMPTOM 3437 3443	alerta
+T121	SYMPTOM 3446 3455	orientada
+T122	SYMPTOM 3457 3476	Buen estado general
+T123	SYMPTOM 3478 3493	Bien perfundida
+T124	SYMPTOM 3495 3506	PVC: Normal
+T125	SYMPTOM 3508 3538	Auscultación cardiaca: rítmica
+T126	SYMPTOM 3540 3594	soplo sistólico II-III/VI en foco tricúspideo y mitral
+T127	SYMPTOM 3623 3652	murmullo vesicular conservado
+T128	SYMPTOM 3654 3657	MVC
+T129	SYMPTOM 3663 3683	ruidos sobreañadidos
+T130	SYMPTOM 3685 3718	Abdomen: RHA+, blando, depresible
+T131	SYMPTOM 3723 3746	doloroso a la palpación
+T132	SYMPTOM 3751 3756	masas
+T133	SYMPTOM 3760 3768	megalias
+T134	SYMPTOM 3782 3793	peritonismo
+T135	SYMPTOM 3795 3826	Miembros inferiores: sin edemas
+T136	SYMPTOM 3873 3909	Pulsos pedios presentes y simétricos
+T137	SYMPTOM 5234 5271	índice cardiotorácico (ICT) aumentado
+T138	SYMPTOM 5273 5296	redistribución vascular
+T139	SYMPTOM 5731 5751	Vol. latido reducido
+T140	SYMPTOM 5979 6022	Presiones pulmonares moderadamente elevadas
+T141	SYMPTOM 6222 6255	Presión en AD ligeramente elevada
+T142	SYMPTOM 6266 6277	PCP elevada
+T143	SYMPTOM 6289 6314	Gasto cardiaco disminuido
+T144	SYMPTOM 6436 6460	estabilidad hemodinámica
+T145	SYMPTOM 6538 6559	Función renal estable
+T146	SYMPTOM 8169 8185	leve proteinuria
+T147	SYMPTOM 8443 8482	cultivo de esputo y rinovirus negativos
+T148	SYMPTOM 8499 8505	disnea
+T149	SYMPTOM 8563 8571	ortopnea
+T150	SYMPTOM 8576 8597	congestión periférica
+T151	SYMPTOM 8751 8773	bajo gasto pospandrial
+T152	SYMPTOM 9284 9292	ortopnea
+T153	SYMPTOM 5441 5454	ritmo sinusal
+T154	SYMPTOM 7264 7322	mutación Val26Ala en el gen de la emerina en heterocigosis
+T155	SYMPTOM 9268 9278	euvolémica
+T156	SYMPTOM 10051 10082	mutación Val26Ala en el gen EMD
+T157	SYMPTOM 9324 9346	descenso del NT-proBNP
+T158	SYMPTOM 2348 2367	bajo gasto cardiaco
+T159	SYMPTOM 2874 2893	bajo gasto cardiaco
+T160	SYMPTOM 6077 6095	dominancia derecha
+T161	SYMPTOM 5696 5729	elevación de presiones de llenado
+T162	SYMPTOM 214 263	fallecidos aproximadamente en el periodo neonatal
+T163	SYMPTOM 6097 6125	Árbol coronario sin lesiones
+T164	SYMPTOM 111 120	fallecido
+T165	SYMPTOM 908 949	Mutación Val26Ala en EMD en heterocigosis
+T166	SYMPTOM 1269 1288	llenado restrictivo
+T167	SYMPTOM 1382 1392	Congestión
+T168	SYMPTOM 3596 3598	3R
+T169	SYMPTOM 6316 6337	RVP en el límite alto
+T170	SYMPTOM 6935 6976	presiones de llenado ligeramente elevadas
+T171	SYMPTOM 7027 7040	GC disminuido
+T172	SYMPTOM 7129 7150	RVP en el límite alto
+T173	SYMPTOM 7511 7542	hallazgo de tan solo un emerina
+T174	SYMPTOM 7598 7661	estudio genético mediante panel de NGS solo reporta la mutación
+T175	SYMPTOM 8675 8689	líneas B finas
+T176	MEDICATION 1928 1938	bisoprolol
+T177	MEDICATION 1976 1986	furosemida
+T178	MEDICATION 2022 2032	torasemida
+T179	MEDICATION 2067 2080	levosulpirida
+T180	MEDICATION 2101 2113	lormetazepam
+T181	MEDICATION 2131 2140	omeprazol
+T182	MEDICATION 2163 2170	sintrom
+T183	MEDICATION 2393 2405	levosimendán
+T184	MEDICATION 2514 2535	sacubitrilo/valsartán
+T185	MEDICATION 6824 6848	carboximaltosa de hierro
+T186	MEDICATION 8851 8861	dobutamina
+T187	MEDICATION 8990 9002	levosimendán
+T188	MEDICATION 9363 9369	ARA-II
+T189	MEDICATION 9482 9493	candesartán
+T190	MEDICATION 9530 9541	hidralazina
+T191	MEDICATION 9562 9572	furosemida
+T192	MEDICATION 9650 9665	espironolactona
+T193	MEDICATION 9701 9714	levosulpirida
+T194	MEDICATION 9735 9747	lormetazepam
+T195	MEDICATION 9779 9788	omeprazol
+T196	MEDICATION 9877 9884	sintrom
+#1	AnnotatorNotes T3	 cardiopatia dilatada idiopática
+#2	AnnotatorNotes T12	 disfunción ventricular izquierda
+#3	AnnotatorNotes T16	 hipertensión pulmonar
+#4	AnnotatorNotes T23	 taquicardia ventricular
+#5	AnnotatorNotes T25	 insuficiencia cardiaca
+#6	AnnotatorNotes T36	 insuficiencia renal crónica
+#7	AnnotatorNotes T47	 insuficiencia cardiaca
+#8	AnnotatorNotes T48	 insuficiencia mitral
+#9	AnnotatorNotes T51	 IM: insuficiencia mitral
+#10	AnnotatorNotes T52	 IT: insuficiencia tricuspidea
+#11	AnnotatorNotes T53	 disfunción ventricular izquierda

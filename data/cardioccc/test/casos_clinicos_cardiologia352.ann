@@ -1,0 +1,99 @@
+T1	ENFERMEDAD 856 867	cardiopatía
+T2	ENFERMEDAD 2353 2424	Insuficiencia mitral (IM) moderada-grave con prolapso del velo anterior
+T3	ENFERMEDAD 2544 2565	insuficiencia aórtica
+T4	ENFERMEDAD 2567 2570	IAo
+T5	ENFERMEDAD 3054 3079	insuficiencia tricuspídea
+T6	ENFERMEDAD 3637 3662	atresia congénita del TCI
+T7	ENFERMEDAD 3953 3973	regurgitación mitral
+T8	ENFERMEDAD 4025 4057	fibrosis del aparato subvalvular
+T9	ENFERMEDAD 4863 4904	disfunción aguda del ventrículo izquierdo
+T10	ENFERMEDAD 5418 5462	Atresia congénita del tronco común izquierdo
+T11	ENFERMEDAD 5464 5500	Regurgitación mitral grave isquémica
+T12	ENFERMEDAD 3081 3083	IT
+T13	ENFERMEDAD 1330 1343	hepatomegalia
+T14	ENFERMEDAD 4745 4765	hipotensión arterial
+T15	ENFERMEDAD 2204 2236	Aurícula izquierda (AI) dilatada
+T16	ENFERMEDAD 2238 2272	Ventrículo izquierdo (VI) dilatado
+T17	ENFERMEDAD 2611 2664	dilatación del ostium de la arteria coronaria derecha
+T18	ENFERMEDAD 4062 4096	ventrículo izquierdo está dilatado
+T19	ENFERMEDAD 4251 4263	ACD dilatada
+T20	ENFERMEDAD 2195 2202	derrame
+T21	ENFERMEDAD 2731 2757	ostium de TCI está ausente
+T22	ENFERMEDAD 2763 2865	arteria descendente anterior (ADA) y arteria circunfleja (ACx) proximales de fino calibre/hipoplásicos
+T23	ENFERMEDAD 3583 3608	TCI, el cual está ausente
+T24	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDIMIENTO 215 228	parto vaginal
+T26	PROCEDIMIENTO 1105 1119	oxigenoterapia
+T27	PROCEDIMIENTO 1126 1138	auscultación
+T28	PROCEDIMIENTO 1274 1295	auscultación pulmonar
+T29	PROCEDIMIENTO 1578 1593	Perfil hepático
+T30	PROCEDIMIENTO 1642 1651	Hemograma
+T31	PROCEDIMIENTO 1706 1717	Coagulación
+T32	PROCEDIMIENTO 1733 1753	Radiografía de tórax
+T33	PROCEDIMIENTO 1853 1871	Electrocardiograma
+T34	PROCEDIMIENTO 1873 1876	ECG
+T35	PROCEDIMIENTO 2000 2029	Ecocardiografía transtorácica
+T36	PROCEDIMIENTO 2031 2034	ETT
+T37	PROCEDIMIENTO 3153 3173	Estudio angiográfico
+T38	PROCEDIMIENTO 3204 3221	anestesia general
+T39	PROCEDIMIENTO 3258 3280	inyección de contraste
+T40	PROCEDIMIENTO 3295 3321	relleno anterógrado de ACD
+T41	PROCEDIMIENTO 3719 3728	anamnesis
+T42	PROCEDIMIENTO 3810 3813	ECG
+T43	PROCEDIMIENTO 3877 3906	ecocardiografía transtorácica
+T44	PROCEDIMIENTO 4380 4391	aortografía
+T45	PROCEDIMIENTO 4455 4472	anestesia general
+T46	PROCEDIMIENTO 4477 4498	inyectar el contraste
+T47	PROCEDIMIENTO 4793 4822	soporte vasoactivo/inotrópico
+T48	PROCEDIMIENTO 4827 4842	ecocardiografía
+T49	PROCEDIMIENTO 4932 4961	soporte mecánico circulatorio
+T50	PROCEDIMIENTO 5280 5308	cirugía de revascularización
+T51	PROCEDIMIENTO 5334 5347	TAC coronario
+T52	PROCEDIMIENTO 2908 2921	Doppler color
+T53	PROCEDIMIENTO 3989 4002	Doppler color
+T54	PROCEDIMIENTO 1510 1523	función renal
+T55	PROCEDIMIENTO 1562 1567	iones
+T56	PROCEDIMIENTO 1499 1508	Analítica
+T57	SINTOMA 150 165	soplo sistólico
+T58	SINTOMA 515 522	cansada
+T59	SINTOMA 596 599	tos
+T60	SINTOMA 605 615	sudoración
+T61	SINTOMA 620 629	taquipnea
+T62	SINTOMA 753 759	mareos
+T63	SINTOMA 762 786	pérdidas de conocimiento
+T64	SINTOMA 808 822	dolor torácico
+T65	SINTOMA 937 961	aceptable estado general
+T66	SINTOMA 963 997	Buena coloración de piel y mucosas
+T67	SINTOMA 1139 1221	soplo sistólico piante III/VI de predominio en foco mitral con irradiación a axila
+T68	SINTOMA 1227 1238	crepitantes
+T69	SINTOMA 1297 1324	Abdomen blando y depresible
+T70	SINTOMA 1347 1357	hepatalgia
+T71	SINTOMA 1359 1439	Miembros inferiores con buena perfusión distal y pulsos conservados y simétricos
+T72	SINTOMA 1510 1534	función renal conservada
+T73	SINTOMA 1578 1610	Perfil hepático sin alteraciones
+T74	SINTOMA 1612 1621	NT-proBNP
+T75	SINTOMA 1642 1704	Hemograma anodino, con serie blanca, roja y plaquetas en rango
+T76	SINTOMA 1755 1786	índice cardiotorácico aumentado
+T77	SINTOMA 1879 1892	ritmo sinusal
+T78	SINTOMA 1916 1925	PR normal
+T79	SINTOMA 1927 1964	QRS estrecho con onda Q anterolateral
+T80	SINTOMA 1966 1998	Elevación del ST en precordiales
+T81	SINTOMA 2091 2112	Drenaje venoso normal
+T82	SINTOMA 2977 3045	Ventrículo derecho (VD) no dilatado con función sistólica conservada
+T83	SINTOMA 4062 4138	ventrículo izquierdo está dilatado pero la función sistólica está conservada
+T84	SINTOMA 4768 4779	bradicardia
+T85	SINTOMA 1562 1576	iones en rango
+T86	SINTOMA 1788 1798	SCF libres
+T87	SINTOMA 2114 2150	Vena cava inferior (VCI) no dilatada
+T88	SINTOMA 2277 2316	función sistólica en límites inferiores
+T89	SINTOMA 1248 1268	ruidos sobreañadidos
+T90	SINTOMA 2052 2084	Concordancia auriculoventricular
+T91	SINTOMA 1904 1914	Eje normal
+T92	SINTOMA 2494 2518	Válvula aórtica trivalva
+T93	SINTOMA 1804 1818	condensaciones
+T94	SINTOMA 1831 1841	congestión
+T95	SINTOMA 215 235	parto vaginal normal
+T96	SINTOMA 2037 2050	situs solitus
+T97	SINTOMA 1706 1731	Coagulación sin hallazgos
+T98	SINTOMA 3318 3339	ACD, que es dominante
+T99	SINTOMA 3502 3586	ACx y ADA confluyen proximalmente en un fondo de saco ciego, sin conexión con el TCI

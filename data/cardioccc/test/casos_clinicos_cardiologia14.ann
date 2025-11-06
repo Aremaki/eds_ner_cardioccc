@@ -1,0 +1,106 @@
+T1	ENFERMEDAD 222 241	infecciones de piel
+T2	ENFERMEDAD 262 315	impétigo secundarias a picaduras de insecto y rascado
+T3	ENFERMEDAD 323 334	infecciones
+T4	ENFERMEDAD 526 574	Convulsión parcial con generalización secundaria
+T5	ENFERMEDAD 623 661	infección del sistema nervioso central
+T6	ENFERMEDAD 1015 1062	lesiones impetiginizadas en miembros inferiores
+T7	ENFERMEDAD 2032 2052	taquicardia dereposo
+T8	ENFERMEDAD 2068 2096	lesiones en palmas y plantas
+T9	ENFERMEDAD 2253 2308	lesión indurada pustulosa en cara anterior de hemitórax
+T10	ENFERMEDAD 3123 3174	endocarditis infecciosa con embolización encefálica
+T11	ENFERMEDAD 3344 3380	Insuficiencia mitral leve a moderada
+T12	ENFERMEDAD 3491 3508	embolias sépticas
+T13	ENFERMEDAD 3950 3970	insuficiencia mitral
+T14	ENFERMEDAD 4100 4136	infarto isquémico en zona de putamen
+T15	ENFERMEDAD 1135 1145	cicatrices
+T16	ENFERMEDAD 1699 1717	meningoencefalitis
+T17	ENFERMEDAD 2354 2373	Taquicardia sinusal
+T18	ENFERMEDAD 4015 4063	embolización encefálica con hemiplejia izquierda
+T19	ENFERMEDAD 4343 4370	Bloqueo auriculoventricular
+T20	ENFERMEDAD 4503 4514	hemiparesia
+T21	ENFERMEDAD 2846 2860	Lesión de piel
+T22	ENFERMEDAD 3229 3273	válvula mitral engrosamiento de ambas valvas
+T23	ENFERMEDAD 3332 3342	vegetación
+T24	ENFERMEDAD 3993 4005	vegetaciones
+T25	PROCEDIMIENTO 351 375	antibioticoterapiatópica
+T26	PROCEDIMIENTO 1619 1648	estudio bacteriológico de LCR
+T27	PROCEDIMIENTO 1772 1792	electroencefalograma
+T28	PROCEDIMIENTO 1794 1797	EEG
+T29	PROCEDIMIENTO 2863 2875	hemocultivos
+T30	PROCEDIMIENTO 3186 3212	ecocardiograma con Doppler
+T31	PROCEDIMIENTO 3408 3447	Resonancia nuclear magnética encefálica
+T32	PROCEDIMIENTO 3449 3452	RNM
+T33	PROCEDIMIENTO 3842 3856	ecocardiograma
+T34	PROCEDIMIENTO 3906 3921	ecocardiogramas
+T35	PROCEDIMIENTO 4083 4086	RNM
+T36	PROCEDIMIENTO 4205 4244	cirugía cardíaca para limpieza valvular
+T37	PROCEDIMIENTO 4258 4283	reparación con pericardio
+T38	PROCEDIMIENTO 4384 4395	corticoides
+T39	PROCEDIMIENTO 4519 4531	fisioterapia
+T40	PROCEDIMIENTO 1167 1184	Psiconeuromucular
+T41	PROCEDIMIENTO 1663 1754	investigación de agentes virales de meningoencefalitis por reacción en cadena de polimerasa
+T42	PROCEDIMIENTO 1756 1759	PCR
+T43	PROCEDIMIENTO 2947 2962	cultivo del LCR
+T44	PROCEDIMIENTO 4398 4415	marcapaso externo
+T45	PROCEDIMIENTO 4328 4341	hipocoagulado
+T46	PROCEDIMIENTO 4296 4325	quedando con válvula mecánica
+T47	PROCEDIMIENTO 124 143	Recibió las vacunas
+T48	PROCEDIMIENTO 741 769	medida con oxímetro de pulso
+T49	PROCEDIMIENTO 781 803	máscara de flujo libre
+T50	PROCEDIMIENTO 2968 2989	PCR para Herpes virus
+T51	PROCEDIMIENTO 823 845	funcional respiratorio
+T52	PROCEDIMIENTO 1325 1334	Analítica
+T53	PROCEDIMIENTO 2631 2640	analítica
+T54	SINTOMA 45 60	Bien alimentado
+T55	SINTOMA 62 78	Buen crecimiento
+T56	SINTOMA 80 108	Buen desarrollo neurosíquico
+T57	SINTOMA 438 444	fiebre
+T58	SINTOMA 462 490	rechazo parcial del alimento
+T59	SINTOMA 492 503	decaimiento
+T60	SINTOMA 506 524	tendencia al sueño
+T61	SINTOMA 680 688	soporoso
+T62	SINTOMA 690 696	febril
+T63	SINTOMA 809 817	polipnea
+T64	SINTOMA 847 878	Buena entrada de aire bilateral
+T65	SINTOMA 884 894	estertores
+T66	SINTOMA 924 945	ruidos bien golpeados
+T67	SINTOMA 950 956	soplos
+T68	SINTOMA 958 974	Pulsos presentes
+T69	SINTOMA 976 986	Normotenso
+T70	SINTOMA 988 1003	Bien perfundido
+T71	SINTOMA 1185 1203	nosignos meníngeos
+T72	SINTOMA 1236 1251	déficit motores
+T73	SINTOMA 1253 1323	Reflejos osteotendinosos presentes y simétricos en los cuatro miembros
+T74	SINTOMA 1372 1384	leucocitosis
+T75	SINTOMA 1567 1606	proteinorraquia y glucorraquia normales
+T76	SINTOMA 2001 2019	tendencia al sueño
+T77	SINTOMA 2021 2030	irritable
+T78	SINTOMA 2213 2222	irritable
+T79	SINTOMA 2242 2251	Apirético
+T80	SINTOMA 2389 2395	soplos
+T81	SINTOMA 2397 2407	normotenso
+T82	SINTOMA 2409 2422	pulsos llenos
+T83	SINTOMA 2472 2493	Buena entrada de aire
+T84	SINTOMA 2499 2509	estertores
+T85	SINTOMA 2514 2539	rigidez de nuca ni tronco
+T86	SINTOMA 2544 2557	déficit motor
+T87	SINTOMA 2680 2692	leucocitosis
+T88	SINTOMA 2714 2727	plaquetopenia
+T89	SINTOMA 2813 2844	Función renal glomerular normal
+T90	SINTOMA 2947 2999	cultivo del LCR y la PCR para Herpes virus negativas
+T91	SINTOMA 3044 3081	soplo sistólico intenso en mesocardio
+T92	SINTOMA 3382 3405	Buena función sistólica
+T93	SINTOMA 3867 3875	apirexia
+T94	SINTOMA 2846 2919	Lesión de piel y hemocultivos desarrollan Staphylococcus aureusmeticilino
+T95	SINTOMA 3513 3540	moderado edema perilesional
+T96	SINTOMA 39 43	sano
+T97	SINTOMA 1205 1231	tono y fuerzas conservadas
+T98	SINTOMA 2106 2128	compromiso neurológico
+T99	SINTOMA 2754 2787	movilización de enzimas hepáticas
+T100	SINTOMA 3562 3579	focos embolígenos
+T101	SINTOMA 4458 4470	rimo sinusal
+T102	FARMACO 1944 1955	ceftriaxona
+T103	FARMACO 1958 1967	aciclovir
+T104	FARMACO 2607 2618	vancomicina
+T105	FARMACO 3609 3620	vancomicina
+T106	FARMACO 3623 3634	gentamicina

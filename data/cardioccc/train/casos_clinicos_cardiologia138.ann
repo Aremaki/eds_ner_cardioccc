@@ -1,0 +1,110 @@
+T1	DISEASE 85 97	fibromialgia
+T2	DISEASE 250 280	infección de herida quirúrgica
+T3	DISEASE 1331 1350	taquicardia sinusal
+T4	DISEASE 1598 1611	cardiomegalia
+T5	DISEASE 1613 1628	derrame pleural
+T6	DISEASE 1950 1970	Insuficiencia mitral
+T7	DISEASE 1979 2019	Derrame pericárdico (DP) moderado-severo
+T8	DISEASE 2548 2554	anemia
+T9	DISEASE 3134 3149	derrame pleural
+T10	DISEASE 3385 3419	VI con disfunción sistólica severa
+T11	DISEASE 3728 3745	lesiones cutáneas
+T12	DISEASE 3848 3879	anemia normocítica normocrómica
+T13	DISEASE 3881 3891	linfopenia
+T14	DISEASE 3911 3938	serositis pleuropericárdica
+T15	DISEASE 3999 4058	lupus eritematoso sistémico (LES) con afectación miocárdica
+T16	DISEASE 4028 4031	LES
+T17	DISEASE 4318 4335	anemia hemolítica
+T18	DISEASE 4392 4433	brote lúpico con expresión de pancarditis
+T19	DISEASE 4422 4433	pancarditis
+T20	DISEASE 4436 4477	disfunción sistólica severa biventricular
+T21	DISEASE 4492 4533	Brote lúpico con expresión de pancarditis
+T22	DISEASE 4535 4556	taponamiento cardiaco
+T23	DISEASE 4559 4600	disfunción sistólica severa biventricular
+T24	DISEASE 1477 1509	anemia normocítica, normocrómica
+T25	DISEASE 3008 3027	congestión pulmonar
+T26	DISEASE 3445 3478	disfunción sistólica severa de VD
+T27	DISEASE 99 109	exfumadora
+T28	DISEASE 418 461	cuadro catarral de vías respiratorias altas
+T29	DISEASE 2000 2002	DP
+T30	DISEASE 3480 3504	regurgitación tricúspide
+T31	DISEASE 3506 3508	RT
+T32	DISEASE 1762 1785	hipertrofia concéntrica
+T33	PROCEDURE 135 151	cesárea electiva
+T34	PROCEDURE 624 642	Exploración física
+T35	PROCEDURE 913 945	Auscultación cardiorrespiratoria
+T36	PROCEDURE 1305 1323	Electrocardiograma
+T37	PROCEDURE 1325 1328	ECG
+T38	PROCEDURE 1463 1472	Hemograma
+T39	PROCEDURE 1576 1596	Radiografía de tórax
+T40	PROCEDURE 1649 1678	Ecocardiografía transtorácica
+T41	PROCEDURE 2444 2474	administración de sueroterapia
+T42	PROCEDURE 2476 2517	transfusión de 2 concentrados de hematíes
+T43	PROCEDURE 2559 2566	cesárea
+T44	PROCEDURE 2579 2637	antiinflamatorios no esteroideos (AINES) pautados vía oral
+T45	PROCEDURE 2613 2618	AINES
+T46	PROCEDURE 2650 2708	pericardiocentesis electiva por vía paraesternal izquierda
+T47	PROCEDURE 3050 3073	diuréticos intravenosos
+T48	PROCEDURE 3087 3098	Rx de tórax
+T49	PROCEDURE 3174 3212	toracocentesis diagnóstico-terapéutica
+T50	PROCEDURE 3333 3362	ecocardiografía transtorácica
+T51	PROCEDURE 1554 1565	Coagulación
+T52	PROCEDURE 4112 4137	anticuerpos antinucleares
+T53	PROCEDURE 2826 2840	betabloqueante
+T54	PROCEDURE 3299 3320	estudio pretrasplante
+T55	PROCEDURE 1439 1452	función renal
+T56	PROCEDURE 1431 1436	iones
+T57	PROCEDURE 4284 4298	test de Coombs
+T58	PROCEDURE 2857 2903	inhibidor del enzima conversor de angiotensina
+T59	PROCEDURE 4155 4163	anti-DNA
+T60	PROCEDURE 4195 4223	anticuerpos anticardiolipina
+T61	PROCEDURE 1416 1426	bioquímica
+T62	PROCEDURE 1405 1414	Analítica
+T63	PROCEDURE 307 346	microbiológico del exudado de la herida
+T64	PROCEDURE 4072 4098	determinaciones analíticas
+T65	SYMPTOM 213 228	síndrome febril
+T66	SYMPTOM 397 406	febrícula
+T67	SYMPTOM 488 541	disnea de esfuerzo progresiva hasta hacerse de reposo
+T68	SYMPTOM 543 588	dolor torácico de características pleuríticas
+T69	SYMPTOM 591 620	edemas en miembros inferiores
+T70	SYMPTOM 659 681	regular estado general
+T71	SYMPTOM 683 704	taquipneica en reposo
+T72	SYMPTOM 718 739	ingurgitación yugular
+T73	SYMPTOM 790 879	descenso anormal de la presión sistólica y de la amplitud de pulso durante la inspiración
+T74	SYMPTOM 881 897	pulso paradójico
+T75	SYMPTOM 902 909	Afebril
+T76	SYMPTOM 913 953	Auscultación cardiorrespiratoria rítmica
+T77	SYMPTOM 959 965	soplos
+T78	SYMPTOM 967 979	taquicárdica
+T79	SYMPTOM 1012 1045	buen murmullo vesicular bilateral
+T80	SYMPTOM 1058 1079	crepitantes bibasales
+T81	SYMPTOM 1082 1099	hipofonesis basal
+T82	SYMPTOM 1113 1168	Abdomen blando y depresible, no doloroso a la palpación
+T83	SYMPTOM 1175 1190	visceromegalias
+T84	SYMPTOM 1194 1244	Miembros inferiores con ligeros edemas pretibiales
+T85	SYMPTOM 1377 1401	escasa onda R de V1 a V3
+T86	SYMPTOM 1416 1461	bioquímica con iones y función renal normales
+T87	SYMPTOM 1542 1552	linfopenia
+T88	SYMPTOM 1554 1572	Coagulación normal
+T89	SYMPTOM 1805 1830	Hipoquinesia generalizada
+T90	SYMPTOM 3893 3908	síndrome febril
+T91	SYMPTOM 4112 4153	anticuerpos antinucleares (ANA) positivos
+T92	SYMPTOM 4175 4193	hipocomplementemia
+T93	SYMPTOM 4270 4281	LDH elevada
+T94	SYMPTOM 4284 4307	test de Coombs positivo
+T95	SYMPTOM 1835 1884	fracción de eyección (FEVI) severamente deprimida
+T96	SYMPTOM 4155 4173	anti-DNA positivos
+T97	SYMPTOM 4246 4268	hipergammagrobulinemia
+T98	SYMPTOM 2963 2995	aumento del trabajo respiratorio
+T99	SYMPTOM 285 346	se obtuvo aislamiento microbiológico del exudado de la herida
+T100	SYMPTOM 1362 1374	bajo voltaje
+T101	SYMPTOM 1680 1717	ventrículo izquierdo (VI) no dilatado
+T102	SYMPTOM 2113 2196	pared libre de ventrículo derecho (VD) y aurícula derecha (AD), con colapso parcial
+T103	SYMPTOM 2268 2318	variaciones respiratorias de los flujos valvulares
+T104	SYMPTOM 2320 2386	Vena cava inferior con diámetro de 20 mm, sin colapso inspiratorio
+T105	SYMPTOM 2731 2788	líquido seroso con características bioquímicas de exudado
+T106	SYMPTOM 3174 3241	toracocentesis diagnóstico-terapéutica, obteniéndose líquido seroso
+T107	SYMPTOM 3585 3594	DP mínimo
+T108	SYMPTOM 4195 4244	anticuerpos anticardiolipina en niveles moderados
+#1	AnnotatorNotes T29	 derrame pericárdico
+#2	AnnotatorNotes T31	 regurgitación tricúspide

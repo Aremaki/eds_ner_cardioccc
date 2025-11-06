@@ -1,0 +1,84 @@
+T1	DISEASE 181 200	bradicardia sinusal
+T2	DISEASE 346 372	enfermedades cardiológicas
+T3	DISEASE 379 392	muerte súbita
+T4	DISEASE 1012 1023	bradicardia
+T5	DISEASE 1527 1530	TVP
+T6	DISEASE 2112 2121	arritmias
+T7	DISEASE 2620 2639	isquemia miocárdica
+T8	DISEASE 3149 3165	BAV suprahisiano
+T9	DISEASE 3344 3347	BAV
+T10	DISEASE 3409 3432	cardiopatía estructural
+T11	DISEASE 3666 3682	BAV suprahisiano
+T12	DISEASE 3811 3852	Bloqueo aurículo-ventriuclar suprahisiano
+T13	DISEASE 606 623	episodio sincopal
+T14	DISEASE 857 888	episodio sincopal o presincopal
+T15	DISEASE 731 742	traumatismo
+T16	DISEASE 1078 1097	bloqueo AV completo
+T17	DISEASE 1956 1961	ángor
+T18	DISEASE 2044 2077	alteraciones en la repolarización
+T19	DISEASE 2982 3016	origen suprahisiano del bloqueo AV
+T20	DISEASE 3244 3280	episodios sincopales o presincopales
+T21	DISEASE 2323 2327	BAVc
+T22	DISEASE 1102 1117	ritmo de escape
+T23	DISEASE 2156 2160	BAVc
+T24	DISEASE 2796 2822	BAV 2o grado tipo Mobitz I
+T25	PROCEDURE 225 239	ecocardiograma
+T26	PROCEDURE 1052 1055	ECG
+T27	PROCEDURE 1211 1229	Exploración física
+T28	PROCEDURE 1597 1617	Radiografía de tórax
+T29	PROCEDURE 1719 1733	Ecocardiograma
+T30	PROCEDURE 1813 1837	Ecocardiograma de estrés
+T31	PROCEDURE 1870 1880	ergometría
+T32	PROCEDURE 2006 2009	ECG
+T33	PROCEDURE 2454 2480	Ecocardiograma posesfuerzo
+T34	PROCEDURE 2729 2755	Estudio electrofisiológico
+T35	PROCEDURE 2760 2763	ECG
+T36	PROCEDURE 2841 2891	punción de vena femoral derecha (introductores 5F)
+T37	PROCEDURE 3107 3133	estudio electrofisiológico
+T38	PROCEDURE 3436 3464	ecocardiograma transtorácico
+T39	PROCEDURE 3525 3535	ergometría
+T40	PROCEDURE 3623 3649	estudio electrofisiológico
+T41	PROCEDURE 1294 1296	AC
+T42	PROCEDURE 1357 1359	AP
+T43	PROCEDURE 1649 1662	Autoinmunidad
+T44	PROCEDURE 3282 3306	Se mantiene monitorizado
+T45	PROCEDURE 1557 1566	Analítica
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 1674 1707	Serología de Borrelia Burgdorferi
+T48	SYMPTOM 464 482	sensación de mareo
+T49	SYMPTOM 495 508	inestabilidad
+T50	SYMPTOM 549 572	pérdida de conocimiento
+T51	SYMPTOM 651 657	fiebre
+T52	SYMPTOM 772 785	palpitaciones
+T53	SYMPTOM 1128 1140	QRS estrecho
+T54	SYMPTOM 1277 1285	Eupneico
+T55	SYMPTOM 1290 1292	IY
+T56	SYMPTOM 1298 1322	tonos cardiacos rítmicos
+T57	SYMPTOM 1328 1355	soplos patológicos audibles
+T58	SYMPTOM 1389 1444	Abdomen: blando, depresible, no doloroso a la palpación
+T59	SYMPTOM 1460 1481	irritación peritoneal
+T60	SYMPTOM 1487 1495	megalias
+T61	SYMPTOM 1497 1513	EEII: sin edemas
+T62	SYMPTOM 1597 1647	Radiografía de tórax: compatible con la normalidad
+T63	SYMPTOM 1674 1717	Serología de Borrelia Burgdorferi: negativa
+T64	SYMPTOM 1719 1763	Ecocardiograma: compatible con la normalidad
+T65	SYMPTOM 1800 1811	FEVI normal
+T66	SYMPTOM 1946 1952	disnea
+T67	SYMPTOM 1963 1993	Capacidad funcional conservada
+T68	SYMPTOM 2016 2029	ritmo sinusal
+T69	SYMPTOM 2486 2531	alteraciones de la contractilidad segmentaria
+T70	SYMPTOM 2641 2666	Buena capacidad funcional
+T71	SYMPTOM 2778 2791	ritmo sinusal
+T72	SYMPTOM 3217 3222	mareo
+T73	SYMPTOM 3383 3395	asintomático
+T74	SYMPTOM 144 152	PR largo
+T75	SYMPTOM 225 246	ecocardiograma normal
+T76	SYMPTOM 1361 1387	normoventilación bilateral
+T77	SYMPTOM 1649 1672	Autoinmunidad: negativa
+T78	SYMPTOM 2176 2184	PR largo
+T79	SYMPTOM 3178 3190	Asintomático
+T80	SYMPTOM 920 937	procesos febriles
+T81	SYMPTOM 1765 1797	ventrículo izquierdo no dilatado
+T82	SYMPTOM 704 725	perdía la consciencia
+T83	SYMPTOM 1557 1584	Analítica: sin alteraciones
+T84	SYMPTOM 3525 3554	ergometría que resulta normal

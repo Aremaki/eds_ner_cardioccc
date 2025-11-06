@@ -1,0 +1,91 @@
+T1	DISEASE 83 136	síndrome nefrótico por hialinosis focal y segmentaria
+T2	DISEASE 283 305	recidiva de hialinosis
+T3	DISEASE 434 489	Derrame pericárdico severo en 2008 de etiología urémica
+T4	DISEASE 526 601	carcinoma papilar de patrón folicular, con focos en ambos lóbulos tiroideos
+T5	DISEASE 1622 1641	taquicardia sinusal
+T6	DISEASE 1863 1882	derrame pericárdico
+T7	DISEASE 2177 2196	derrame pericárdico
+T8	DISEASE 3008 3019	atelectasia
+T9	DISEASE 3021 3035	edema alveolar
+T10	DISEASE 3203 3245	derrame pericárdico circunferencial severo
+T11	DISEASE 3591 3613	insuficiencia cardiaca
+T12	DISEASE 4005 4031	Derrame pericárdico severo
+T13	DISEASE 4086 4110	enfermedad renal crónica
+T14	DISEASE 4136 4150	Edema alveolar
+T15	DISEASE 4153 4168	derrame pleural
+T16	DISEASE 4212 4271	Atelectasia lóbulo superior izquierdo secundaria a sedación
+T17	DISEASE 3038 3072	derrame pleural bilateral moderado
+T18	DISEASE 604 643	micrometástasis en un ganglio linfático
+T19	DISEASE 265 280	rechazo crónico
+T20	DISEASE 3177 3201	parénquima atelectasiado
+T21	PROCEDURE 192 211	diálisis peritoneal
+T22	PROCEDURE 338 368	embolización del injerto renal
+T23	PROCEDURE 391 410	diálisis peritoneal
+T24	PROCEDURE 502 521	tiroidectomía total
+T25	PROCEDURE 696 727	tratamiento con iodo radiactivo
+T26	PROCEDURE 842 855	examen físico
+T27	PROCEDURE 1053 1074	Auscultación cardiaca
+T28	PROCEDURE 1617 1620	ECG
+T29	PROCEDURE 1680 1691	Rx de tórax
+T30	PROCEDURE 1843 1861	Ecocardiografía TT
+T31	PROCEDURE 2060 2143	pericardiocentesis evacuadora tras sedación superficial con propofol guiada por eco
+T32	PROCEDURE 2095 2115	sedación superficial
+T33	PROCEDURE 2381 2451	prueba ecocardiográfica con suero agitado a través de aguja de catéter
+T34	PROCEDURE 2705 2716	Rx de tórax
+T35	PROCEDURE 2859 2870	radiografía
+T36	PROCEDURE 2891 2903	TAC de tórax
+T37	PROCEDURE 3407 3439	ventilación mecánica no invasiva
+T38	PROCEDURE 3704 3723	drenaje pericárdico
+T39	PROCEDURE 4114 4133	diálisis peritoneal
+T40	PROCEDURE 4263 4271	sedación
+T41	PROCEDURE 1561 1566	Iones
+T42	PROCEDURE 3875 3910	cultivos para aerobios y anaerobios
+T43	PROCEDURE 2549 2556	drenaje
+T44	PROCEDURE 1569 1586	enzimas cardiacas
+T45	PROCEDURE 3958 3988	estudio de anatomía patológica
+T46	PROCEDURE 2255 2262	punción
+T47	PROCEDURE 2673 2700	aporte de O2 con reservorio
+T48	PROCEDURE 2722 2729	punción
+T49	PROCEDURE 3442 3452	diuréticos
+T50	PROCEDURE 4191 4209	pericardiocentesis
+T51	PROCEDURE 1340 1349	Analítica
+T52	PROCEDURE 1007 1022	Cabeza y cuello
+T53	PROCEDURE 992 1005	gafas nasales
+T54	PROCEDURE 3686 3699	gafas nasales
+T55	PROCEDURE 3869 3873	gram
+T56	PROCEDURE 234 246	trasplantado
+T57	SYMPTOM 784 801	disnea progresiva
+T58	SYMPTOM 804 811	astenia
+T59	SYMPTOM 866 872	alerta
+T60	SYMPTOM 874 884	consciente
+T61	SYMPTOM 886 895	orientado
+T62	SYMPTOM 897 908	taquipneico
+T63	SYMPTOM 915 939	intolerancia al decúbito
+T64	SYMPTOM 970 977	Afebril
+T65	SYMPTOM 1024 1045	ingurgitación yugular
+T66	SYMPTOM 1053 1092	Auscultación cardiaca rítmica y regular
+T67	SYMPTOM 1098 1116	ruidos disminuidos
+T68	SYMPTOM 1132 1165	Campos pulmonares bien ventilados
+T69	SYMPTOM 1171 1192	ruidos sobreagregados
+T70	SYMPTOM 1194 1233	Abdomen blando, depresible, no doloroso
+T71	SYMPTOM 1235 1281	Extremidades con pulsos presentes y simétricos
+T72	SYMPTOM 1283 1300	edemas maleolares
+T73	SYMPTOM 1693 1740	aumento significativo del índice cardiotorácico
+T74	SYMPTOM 1742 1775	Seno costofrénico derecho pinzado
+T75	SYMPTOM 2623 2635	taquicárdico
+T76	SYMPTOM 2647 2659	desaturación
+T77	SYMPTOM 2741 2773	velamiento completo de hemitórax
+T78	SYMPTOM 2795 2836	patrón intersticial evidente en hemitórax
+T79	SYMPTOM 3629 3653	estabilidad respiratoria
+T80	SYMPTOM 3875 3920	cultivos para aerobios y anaerobios negativos
+T81	SYMPTOM 1561 1613	Iones y enzimas cardiacas dentro de límites normales
+T82	SYMPTOM 3924 3988	negativo para células malignas en estudio de anatomía patológica
+T83	SYMPTOM 1947 1970	compromiso hemodinámico
+T84	SYMPTOM 4046 4069	compromiso hemodinámico
+T85	SYMPTOM 1653 1676	disminución de voltajes
+T86	SYMPTOM 1887 1920	diámetros máximos en telediástole
+T87	SYMPTOM 2285 2348	líquido de drenaje presentara un importante componente hemático
+T88	SYMPTOM 2511 2542	burbujas en espacio pericárdico
+T89	SYMPTOM 2929 2994	opacificación del lóbulo superior izquierdo con broncograma aéreo
+T90	SYMPTOM 3853 3873	bacterias en el gram
+T91	MEDICATION 2120 2128	propofol

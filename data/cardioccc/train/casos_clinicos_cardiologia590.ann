@@ -1,0 +1,154 @@
+T1	DISEASE 4058 4109	disección espiroidea del tronco coronario izquierdo
+T2	DISEASE 142 176	reacciones adversas medicamentosas
+T3	DISEASE 184 202	consumo de tóxicos
+T4	DISEASE 252 266	Asma bronquial
+T5	DISEASE 2714 2763	Disfunción moderada-grave de ventrículo izquierdo
+T6	DISEASE 2877 2913	Insuficiencia mitral ligera-moderada
+T7	DISEASE 2936 2955	derrame pericárdico
+T8	DISEASE 3079 3132	estenosis significativa de tronco coronario izquierdo
+T9	DISEASE 3406 3428	síndrome aórtico agudo
+T10	DISEASE 3430 3472	Lesiones alveolares pulmonares bilaterales
+T11	DISEASE 3668 3704	estenosis de la vena renal izquierda
+T12	DISEASE 3735 3764	Quistes anexiales bilaterales
+T13	DISEASE 4324 4343	taquicardia sinusal
+T14	DISEASE 4757 4784	Disfunción sistólica ligera
+T15	DISEASE 4956 4983	patología valvular orgánica
+T16	DISEASE 4988 5007	derrame pericárdico
+T17	DISEASE 5215 5236	hipertensión pulmonar
+T18	DISEASE 5282 5322	Insuficiencia mitral ligera degenerativa
+T19	DISEASE 6072 6131	disfunción sistólica moderada-grave de ventrículo izquierdo
+T20	DISEASE 6278 6331	estenosis significativa de tronco coronario izquierdo
+T21	DISEASE 6524 6546	síndrome aórtico agudo
+T22	DISEASE 6861 6880	taquicardia sinusal
+T23	DISEASE 7516 7566	disfunción sistólica grave de ventrículo izquierdo
+T24	DISEASE 7604 7626	insuficiencia cardiaca
+T25	DISEASE 7661 7683	disfunción ventricular
+T26	DISEASE 8373 8450	Síndrome coronario agudo con elevación del segmento ST (SCACEST) anteroseptal
+T27	DISEASE 8429 8436	SCACEST
+T28	DISEASE 8452 8512	Disección coronaria espontánea de tronco coronario izquierdo
+T29	DISEASE 8597 8636	Infarto agudo de miocardio septo-apical
+T30	DISEASE 8638 8686	Disfunción sistólica ventricular izquierda grave
+T31	DISEASE 3615 3663	dilatación varicosa de la vena gonadal izquierda
+T32	DISEASE 1713 1717	RIVA
+T33	DISEASE 6345 6353	hematoma
+T34	DISEASE 3146 3165	hematoma intramural
+T35	DISEASE 1680 1711	ritmo idioventricular acelerado
+T36	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDURE 347 364	parto vía vaginal
+T38	PROCEDURE 628 646	electrocardiograma
+T39	PROCEDURE 648 651	ECG
+T40	PROCEDURE 962 980	Exploración física
+T41	PROCEDURE 1174 1195	Auscultación cardiaca
+T42	PROCEDURE 1258 1279	Auscultación pulmonar
+T43	PROCEDURE 1621 1624	ECG
+T44	PROCEDURE 1917 1926	Hemograma
+T45	PROCEDURE 2039 2050	Coagulación
+T46	PROCEDURE 2280 2295	Perfil lipídico
+T47	PROCEDURE 2424 2439	Ecocardioscopia
+T48	PROCEDURE 2918 2931	Doppler color
+T49	PROCEDURE 3020 3035	Coronariografía
+T50	PROCEDURE 3286 3295	Angio-TAC
+T51	PROCEDURE 3853 3929	Coronariografía de revascularización: se sonda el tronco coronario izquierdo
+T52	PROCEDURE 4023 4045	inyección de contraste
+T53	PROCEDURE 4304 4307	ECG
+T54	PROCEDURE 4525 4554	Ecocardiografía transtorácica
+T55	PROCEDURE 5324 5327	ECG
+T56	PROCEDURE 5478 5497	Analítica de sangre
+T57	PROCEDURE 5507 5516	Hemograma
+T58	PROCEDURE 5609 5620	Coagulación
+T59	PROCEDURE 5954 5967	gafas nasales
+T60	PROCEDURE 6036 6051	ecocardiografía
+T61	PROCEDURE 6220 6235	coronariografía
+T62	PROCEDURE 6251 6266	coronariografía
+T63	PROCEDURE 6494 6511	revascularización
+T64	PROCEDURE 6556 6574	angio-TAC de aorta
+T65	PROCEDURE 6606 6634	revascularización percutánea
+T66	PROCEDURE 6657 6672	coronariografía
+T67	PROCEDURE 6699 6773	se implanta stent en tronco coronario izquierdo hacia descendente anterior
+T68	PROCEDURE 6793 6805	angiográfico
+T69	PROCEDURE 7114 7131	revascularización
+T70	PROCEDURE 7228 7284	doble terapia antiagregante con AAS 100 mg y clopidogrel
+T71	PROCEDURE 7442 7453	cateterismo
+T72	PROCEDURE 7461 7485	control ecocardiográfico
+T73	PROCEDURE 7769 7792	rehabilitación cardiaca
+T74	PROCEDURE 7992 8007	ecocardiografía
+T75	PROCEDURE 8525 8595	stent farmacoactivo en tronco coronario izquierdo-descendente anterior
+T76	PROCEDURE 2072 2082	Bioquímica
+T77	PROCEDURE 4139 4240	se implanta stent farmacoactivo Onyx Resolute 4 x 26 mm a 16 atm en tronco hacia descendente anterior
+T78	PROCEDURE 5636 5646	Bioquímica
+T79	PROCEDURE 6894 6929	perfusión continua de noradrenalina
+T80	PROCEDURE 7015 7041	perfusión de noradrenalina
+T81	PROCEDURE 1895 1904	Analítica
+T82	PROCEDURE 7343 7381	stent en el tronco coronario izquierdo
+T83	SYMPTOM 500 542	dolor centrotorácico opresivo no irradiado
+T84	SYMPTOM 547 565	cortejo vegetativo
+T85	SYMPTOM 981 1005	Aceptable estado general
+T86	SYMPTOM 1007 1017	Consciente
+T87	SYMPTOM 1019 1028	orientada
+T88	SYMPTOM 1045 1063	Eupneica en reposo
+T89	SYMPTOM 1143 1172	Presión venosa yugular normal
+T90	SYMPTOM 1174 1230	Auscultación cardiaca: tonos rítmicos a buena frecuencia
+T91	SYMPTOM 1236 1242	soplos
+T92	SYMPTOM 1281 1310	murmullo vesicular conservado
+T93	SYMPTOM 1349 1404	Abdomen blando y depresible, no doloroso a la palpación
+T94	SYMPTOM 1419 1424	masas
+T95	SYMPTOM 1428 1436	megalias
+T96	SYMPTOM 1438 1466	Ruidos hidroaéreos presentes
+T97	SYMPTOM 1483 1512	edemas en miembros inferiores
+T98	SYMPTOM 1532 1579	Pulsos radiales, femorales y pedios conservados
+T99	SYMPTOM 1634 1653	taquicardia sinusal
+T100	SYMPTOM 1746 1755	PR normal
+T101	SYMPTOM 1757 1769	QRS estrecho
+T102	SYMPTOM 1771 1832	elevación del segmento ST de 2 mm en V1 y aVR, y 1 mm en V2-3
+T103	SYMPTOM 1838 1893	descenso del ST de 1-2 mm en cara inferior y de V4 a V6
+T104	SYMPTOM 1993 2004	neutrofilia
+T105	SYMPTOM 2466 2528	ventrículo izquierdo no dilatado con espesor normal de paredes
+T106	SYMPTOM 2853 2875	Aurículas no dilatadas
+T107	SYMPTOM 4345 4354	PR normal
+T108	SYMPTOM 4356 4368	QRS estrecho
+T109	SYMPTOM 4417 4455	supradesnivelación del ST en aVL, V1-3
+T110	SYMPTOM 4457 4503	descenso ST de 1 mm en derivaciones inferiores
+T111	SYMPTOM 4579 4652	ventrículo izquierdo de dimensiones normales con grosor de paredes normal
+T112	SYMPTOM 4806 4848	Aurícula izquierda de dimensiones normales
+T113	SYMPTOM 5252 5280	Flujos anterógrados normales
+T114	SYMPTOM 5337 5350	ritmo sinusal
+T115	SYMPTOM 5361 5370	PR normal
+T116	SYMPTOM 5372 5400	QRS estrecho con QS en V1-V3
+T117	SYMPTOM 5402 5445	Supradesnivelación milimétrica del ST en V3
+T118	SYMPTOM 5447 5476	T negativa en DI, aVL y V1-V5
+T119	SYMPTOM 5609 5627	Coagulación normal
+T120	SYMPTOM 5864 5873	hipotensa
+T121	SYMPTOM 6009 6023	dolor torácico
+T122	SYMPTOM 6847 6858	hipotensión
+T123	SYMPTOM 7910 7961	asintomática desde el punto de vista cardiovascular
+T124	SYMPTOM 628 681	electrocardiograma (ECG) con alteraciones patológicas
+T125	SYMPTOM 1065 1074	Normopeso
+T126	SYMPTOM 2530 2567	hipoquinesia grave de casquete apical
+T127	SYMPTOM 3305 3344	aorta toracoabdominal de calibre normal
+T128	SYMPTOM 4397 4406	QR en aVL
+T129	SYMPTOM 4384 4395	QS de V1-V3
+T130	SYMPTOM 4654 4680	Hipoquinesia ligera global
+T131	SYMPTOM 4850 4874	Raíz aórtica no dilatada
+T132	SYMPTOM 4907 4951	Ventrículo derecho con contractilidad normal
+T133	SYMPTOM 5009 5045	Vena cava inferior de calibre normal
+T134	SYMPTOM 1031 1043	colaboradora
+T135	SYMPTOM 1246 1256	extratonos
+T136	SYMPTOM 2791 2851	Cámaras derechas de tamaño conservado con función conservada
+T137	SYMPTOM 3786 3820	líquido libre en receso de Douglas
+T138	SYMPTOM 4506 4523	T negativa en aVL
+T139	SYMPTOM 4876 4905	Cámaras derechas no dilatadas
+T140	MEDICATION 744 766	ácido acetilsalicílico
+T141	MEDICATION 768 771	AAS
+T142	MEDICATION 785 796	clopidogrel
+T143	MEDICATION 798 812	nitroglicerina
+T144	MEDICATION 6916 6929	noradrenalina
+T145	MEDICATION 7028 7041	noradrenalina
+T146	MEDICATION 7260 7263	AAS
+T147	MEDICATION 7273 7284	clopidogrel
+T148	MEDICATION 8147 8150	AAS
+T149	MEDICATION 8224 8234	bisoprolol
+T150	MEDICATION 8260 8270	ivabradina
+T151	MEDICATION 8293 8301	ramipril
+T152	MEDICATION 8327 8336	omeprazol
+T153	MEDICATION 7412 7422	ticagrelor
+T154	MEDICATION 8175 8185	ticagrelor

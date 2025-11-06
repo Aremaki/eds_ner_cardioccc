@@ -1,0 +1,90 @@
+T1	DISEASE 100 123	alergias medicamentosas
+T2	DISEASE 147 155	migrañas
+T3	DISEASE 333 348	hábitos tóxicos
+T4	DISEASE 1192 1217	derrame pleural bilateral
+T5	DISEASE 1483 1546	válvula mitral con dilatación del anillo mitral e insuficiencia
+T6	DISEASE 1602 1627	derrame pleural bilateral
+T7	DISEASE 1697 1719	insuficiencia cardiaca
+T8	DISEASE 3100 3132	Dilatación de aurícula izquierda
+T9	DISEASE 3199 3219	Insuficiencia mitral
+T10	DISEASE 3397 3450	Estenosis no significativa en primera obtusa marginal
+T11	DISEASE 3895 3908	trombo apical
+T12	DISEASE 4939 4978	Insuficiencia cardiaca aguda congestiva
+T13	DISEASE 5016 5117	Miocardiopatía dilatada con disfunción sistólica moderada secundaria a consumo crónico de anfetaminas
+T14	DISEASE 5184 5204	Abuso de anfetaminas
+T15	DISEASE 287 304	Tabaquismo activo
+T16	DISEASE 2794 2807	cardiomegalia
+T17	DISEASE 4773 4791	consumo de tóxicos
+T18	DISEASE 1837 1857	disfunción sistólica
+T19	DISEASE 4231 4253	insuficiencia cardiaca
+T20	DISEASE 4561 4581	disfunción sistólica
+T21	DISEASE 1387 1441	ventrículo izquierdo dilatado con disfunción sistólica
+T22	DISEASE 2118 2153	consumidora habitual de anfetaminas
+T23	DISEASE 2884 2977	ventrículo izquierdo (VI) dilatado e hipertraberculado a nivel apical con disfunción moderada
+T24	DISEASE 3325 3337	VCI dilatada
+T25	DISEASE 3537 3559	VI gravemente dilatado
+T26	DISEASE 157 174	Menopausia precoz
+T27	DISEASE 223 229	Aborto
+T28	DISEASE 1874 1889	descompensación
+T29	DISEASE 4909 4924	descompensación
+T30	DISEASE 4999 5014	descompensación
+T31	DISEASE 3114 3187	aurícula izquierda (volumen 94 ml) con aneurisma del septo interauricular
+T32	DISEASE 4258 4278	disfunción sistólica
+T33	PROCEDURE 906 924	EXPLORACIÓN FÍSICA
+T34	PROCEDURE 1081 1102	Auscultación cardiaca
+T35	PROCEDURE 1155 1176	Auscultación pulmonar
+T36	PROCEDURE 1350 1365	ecocardioscopia
+T37	PROCEDURE 2180 2198	Electrocardiograma
+T38	PROCEDURE 2200 2203	ECG
+T39	PROCEDURE 2268 2287	Analítica sanguínea
+T40	PROCEDURE 2442 2461	Gasometría arterial
+T41	PROCEDURE 2527 2536	Hemograma
+T42	PROCEDURE 2634 2645	Coagulación
+T43	PROCEDURE 2688 2704	Tóxicos en orina
+T44	PROCEDURE 2733 2753	Radiografía de tórax
+T45	PROCEDURE 2854 2882	Ecocardiograma transtorácico
+T46	PROCEDURE 3358 3373	Coronariografía
+T47	PROCEDURE 3506 3535	Resonancia magnética cardiaca
+T48	PROCEDURE 4357 4371	ecocardiograma
+T49	PROCEDURE 4382 4397	coronariografía
+T50	PROCEDURE 4421 4430	diurético
+T51	PROCEDURE 4586 4615	resonancia magnética cardiaca
+T52	PROCEDURE 4705 4719	ecocardiograma
+T53	PROCEDURE 2289 2299	Bioquímica
+T54	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 4288 4302	betabloqueante
+T56	PROCEDURE 4142 4163	tratamiento depletivo
+T57	PROCEDURE 4311 4328	antialdosterónico
+T58	SYMPTOM 513 588	disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos
+T59	SYMPTOM 606 609	tos
+T60	SYMPTOM 612 620	ortopnea
+T61	SYMPTOM 661 664	Tos
+T62	SYMPTOM 836 903	molestias centrotorácicas con el esfuerzo y la inspiración profunda
+T63	SYMPTOM 960 970	Consciente
+T64	SYMPTOM 973 982	orientada
+T65	SYMPTOM 998 1019	taquipneica en reposo
+T66	SYMPTOM 1051 1079	Pulso venoso yugular elevado
+T67	SYMPTOM 1081 1118	Auscultación cardiaca: tonos rítmicos
+T68	SYMPTOM 1245 1267	edemas en extremidades
+T69	SYMPTOM 2206 2219	ritmo sinusal
+T70	SYMPTOM 2224 2266	ondas T negativas en V2-V6 y cara inferior
+T71	SYMPTOM 2699 2731	orina: positivo para anfetaminas
+T72	SYMPTOM 2765 2783	edema intersticial
+T73	SYMPTOM 2809 2842	pinzamiento del seno costofrénico
+T74	SYMPTOM 3014 3039	hipocontractilidad global
+T75	SYMPTOM 3041 3075	Presiones de llenado incrementadas
+T76	SYMPTOM 3339 3356	Pericardio normal
+T77	SYMPTOM 3787 3809	VD de dimensión normal
+T78	SYMPTOM 4183 4201	signos congestivos
+T79	SYMPTOM 3238 3323	Ventrículo derecho (VD) igualmente hipertrabeculado de tamaño y contractilidad normal
+T80	SYMPTOM 1133 1153	tercer ruido audible
+T81	SYMPTOM 3694 3713	hipoquinesia global
+T82	SYMPTOM 3716 3724	acinesia
+T83	SYMPTOM 746 767	semiología infecciosa
+T84	SYMPTOM 1456 1481	hipocontractilidad global
+T85	SYMPTOM 2634 2663	Coagulación: sin alteraciones
+T86	SYMPTOM 3462 3490	árbol coronario sin lesiones
+T87	SYMPTOM 669 730	expectoración productiva, en una ocasión con hebras hemáticas
+T88	SYMPTOM 3358 3395	Coronariografía: dominancia izquierda
+T89	MEDICATION 4304 4308	IECA
+#1	AnnotatorNotes T24	  VCI: Vena cava inferior

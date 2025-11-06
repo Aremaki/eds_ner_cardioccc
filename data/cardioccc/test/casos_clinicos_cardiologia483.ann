@@ -1,0 +1,60 @@
+T1	ENFERMEDAD 80 88	fumadora
+T2	ENFERMEDAD 106 109	HTA
+T3	ENFERMEDAD 111 128	diabetes mellitus
+T4	ENFERMEDAD 131 141	dislipemia
+T5	ENFERMEDAD 210 238	traumatismo craneoencefálico
+T6	ENFERMEDAD 330 395	hemorragia subaracnoidea en lóbulo parietal y temporal izquierdos
+T7	ENFERMEDAD 464 502	fractura de huesos propios de la nariz
+T8	ENFERMEDAD 1856 1888	Extrasístoles supraventriculares
+T9	ENFERMEDAD 2331 2356	síncope vasovagal maligno
+T10	ENFERMEDAD 2523 2548	Síncope vasovagal maligno
+T11	ENFERMEDAD 2252 2272	episodios arrítmicos
+T12	ENFERMEDAD 1087 1106	mordedura de lengua
+T13	PROCEDIMIENTO 252 255	ECG
+T14	PROCEDIMIENTO 281 291	TC craneal
+T15	PROCEDIMIENTO 529 543	ecocardiograma
+T16	PROCEDIMIENTO 562 579	test ortostatismo
+T17	PROCEDIMIENTO 582 598	masaje carotideo
+T18	PROCEDIMIENTO 610 629	test de basculación
+T19	PROCEDIMIENTO 753 786	implantación de Holter subcutáneo
+T20	PROCEDIMIENTO 1114 1138	monitorización de Reveal
+T21	PROCEDIMIENTO 1273 1291	exploración física
+T22	PROCEDIMIENTO 1364 1366	AC
+T23	PROCEDIMIENTO 1405 1407	AR
+T24	PROCEDIMIENTO 1609 1620	coagulación
+T25	PROCEDIMIENTO 1646 1664	Electrocardiograma
+T26	PROCEDIMIENTO 1733 1751	Holter de 24 horas
+T27	PROCEDIMIENTO 1967 1995	Ecocardiograma transtorácico
+T28	PROCEDIMIENTO 2022 2040	Electrocardiograma
+T29	PROCEDIMIENTO 2171 2194	monitorización continua
+T30	PROCEDIMIENTO 2209 2227	Holter de 24 horas
+T31	PROCEDIMIENTO 2275 2289	ecocardiograma
+T32	PROCEDIMIENTO 2369 2395	implante de marcapasos DDD
+T33	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDIMIENTO 1482 1491	Analítica
+T35	PROCEDIMIENTO 2044 2070	implantación de marcapasos
+T36	SINTOMA 563 607	est ortostatismo y masaje carotideo negativo
+T37	SINTOMA 667 672	mareo
+T38	SINTOMA 675 686	hipotensión
+T39	SINTOMA 711 732	pérdida de conciencia
+T40	SINTOMA 871 894	pérdida de conocimiento
+T41	SINTOMA 1059 1083	liberación de esfínteres
+T42	SINTOMA 1304 1323	buen estado general
+T43	SINTOMA 1368 1392	tonos cardiacos rítmicos
+T44	SINTOMA 1397 1403	soplos
+T45	SINTOMA 1409 1412	MVC
+T46	SINTOMA 1666 1668	RS
+T47	SINTOMA 1687 1699	QRS estrecho
+T48	SINTOMA 1701 1718	Elevación punto J
+T49	SINTOMA 1753 1766	ritmo sinusal
+T50	SINTOMA 1967 2020	Ecocardiograma transtorácico: dentro de la normalidad
+T51	SINTOMA 433 440	síncope
+T52	SINTOMA 174 191	episodio sincopal
+T53	SINTOMA 1195 1204	QRS ancho
+T54	SINTOMA 1439 1455	EEII: sin edemas
+T55	SINTOMA 1609 1644	coagulación dentro de la normalidad
+T56	SINTOMA 529 560	ecocardiograma sin alteraciones
+T57	SINTOMA 252 278	ECG basal sin alteraciones
+T58	SINTOMA 1211 1227	taquicardización
+T59	SINTOMA 2275 2313	ecocardiograma dentro de la normalidad
+T60	FARMACO 655 658	NTG

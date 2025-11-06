@@ -1,0 +1,42 @@
+T1	ENFERMEDAD 373 393	hipotensión arterial
+T2	ENFERMEDAD 669 682	taquiarritmia
+T3	ENFERMEDAD 706 729	taquicardia ventricular
+T4	ENFERMEDAD 2079 2162	anomalía de Ebstein con velo lateral de la válvula tricúspide con implantación baja
+T5	ENFERMEDAD 2292 2333	insuficiencia tricuspídea moderada-severa
+T6	ENFERMEDAD 2466 2494	taquicardia supraventricular
+T7	ENFERMEDAD 2505 2538	fibrilación auricular preexcitada
+T8	ENFERMEDAD 2794 2818	derrame pericárdico leve
+T9	ENFERMEDAD 2952 2985	Síndrome de Wolff Parkinson White
+T10	ENFERMEDAD 2989 3008	Anomalía de Ebstein
+T11	ENFERMEDAD 3012 3044	Insuficiencia tricuspídea severa
+T12	ENFERMEDAD 2210 2289	Ventrículo derecho levemente dilatado con función sistólica levemente deprimida
+T13	ENFERMEDAD 2627 2716	3 vías accesorias: posteroseptal derecha, posteroseptal izquierda e inferolateral derecha
+T14	PROCEDIMIENTO 34 52	exploración física
+T15	PROCEDIMIENTO 406 424	electrocardiograma
+T16	PROCEDIMIENTO 782 805	cardioversión eléctrica
+T17	PROCEDIMIENTO 814 822	sedación
+T18	PROCEDIMIENTO 836 849	cardioversión
+T19	PROCEDIMIENTO 1003 1012	hemograma
+T20	PROCEDIMIENTO 1299 1316	Gasometría venosa
+T21	PROCEDIMIENTO 1357 1360	ECG
+T22	PROCEDIMIENTO 1579 1597	electrocardiograma
+T23	PROCEDIMIENTO 1982 2000	electrocardiograma
+T24	PROCEDIMIENTO 2046 2060	ecocardiograma
+T25	PROCEDIMIENTO 2559 2585	estudio electrofisiológico
+T26	PROCEDIMIENTO 1097 1108	Coagulación
+T27	PROCEDIMIENTO 2588 2596	ablación
+T28	PROCEDIMIENTO 2646 2742	posteroseptal derecha, posteroseptal izquierda e inferolateral derecha, procediéndose a ablación
+T29	SINTOMA 176 219	dolor torácico opresivo irradiado a espalda
+T30	SINTOMA 232 245	palpitaciones
+T31	SINTOMA 248 254	disnea
+T32	SINTOMA 309 327	mal estado general
+T33	SINTOMA 1546 1559	ritmo sinusal
+T34	SINTOMA 1601 1638	descenso generalizado del segmento ST
+T35	SINTOMA 1803 1815	asintomática
+T36	SINTOMA 1818 1843	hemodinámicamente estable
+T37	SINTOMA 1899 1913	dolor torácico
+T38	SINTOMA 1916 1929	palpitaciones
+T39	SINTOMA 2363 2374	taquicardia
+T40	SINTOMA 1097 1115	Coagulación normal
+T41	FARMACO 521 531	amiodarona
+T42	FARMACO 1456 1465	lidocaína

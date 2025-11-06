@@ -1,0 +1,99 @@
+T1	DISEASE 915 928	AC: arrítmica
+T2	DISEASE 1579 1604	VI con severa hipertrofia
+T3	DISEASE 1723 1764	Dilatación moderada de AI y leve de la AD
+T4	DISEASE 2189 2234	VI de tamaño normal, ligeramente hipertrófico
+T5	DISEASE 2508 2553	VI de tamaño normal (38 mm) con engrosamiento
+T6	DISEASE 3950 3998	hipertrofia concéntrica con tamaño normal del VI
+T7	DISEASE 4056 4079	dilatación severa de AI
+T8	DISEASE 4612 4667	ventrículo izquierdo de tamaño normal con engrosamiento
+T9	DISEASE 188 209	hipertensión arterial
+T10	DISEASE 245 255	dislipemia
+T11	DISEASE 259 283	enfermedad renal crónica
+T12	DISEASE 321 344	alergias medicamentosas
+T13	DISEASE 1138 1140	FA
+T14	DISEASE 1774 1794	amiliodosis cardiaca
+T15	DISEASE 1797 1817	Insuficiencia mitral
+T16	DISEASE 1826 1844	Esclerosis aórtica
+T17	DISEASE 1897 1926	Insuficiencia tricúspide leve
+T18	DISEASE 1931 1968	hipertensión pulmonar moderada-severa
+T19	DISEASE 1970 2003	Derrame pericárdico leve-moderado
+T20	DISEASE 2301 2326	Insuficiencia mitral leve
+T21	DISEASE 2350 2391	calcificación de velos de válvula aórtica
+T22	DISEASE 2904 2930	Derrame pericárdico severo
+T23	DISEASE 2940 2970	derrames pleurales bilaterales
+T24	DISEASE 3005 3016	amiloidosis
+T25	DISEASE 3379 3409	amiloidosis cardiaca tipo ATTR
+T26	DISEASE 3532 3562	síncope de perfil cardiogénico
+T27	DISEASE 3576 3598	insuficiencia cardiaca
+T28	DISEASE 3616 3639	cardiopatía estructural
+T29	DISEASE 3689 3691	FA
+T30	DISEASE 4082 4112	insuficiencia mitral y aórtica
+T31	DISEASE 4350 4353	ICC
+T32	DISEASE 4395 4412	FA con RVM rápida
+T33	DISEASE 4415 4436	disfunción diastólica
+T34	DISEASE 4575 4589	miocardiopatía
+T35	DISEASE 4867 4878	amiloidosis
+T36	DISEASE 5009 5039	amiloidosis cardiaca tipo ATTR
+T37	DISEASE 5116 5138	insuficiencia cardiaca
+T38	DISEASE 5322 5342	hipotensión arterial
+T39	DISEASE 5344 5366	Insuficiencia cardiaca
+T40	DISEASE 5386 5411	Amiloidosis cardiaca ATTR
+T41	DISEASE 2064 2101	arterias coronarias con tortuosidades
+T42	DISEASE 3749 3767	eventos arrítmicos
+T43	DISEASE 1837 1888	aórtica sin gradiente significativo e insuficiencia
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 380 417	tratamiento habitual antihipertensivo
+T46	PROCEDURE 845 863	exploración física
+T47	PROCEDURE 915 917	AC
+T48	PROCEDURE 1003 1005	AP
+T49	PROCEDURE 1133 1136	ECG
+T50	PROCEDURE 1453 1473	Radiografía de tórax
+T51	PROCEDURE 1549 1577	Ecocardiograma transtorácico
+T52	PROCEDURE 2042 2062	Estudio hemodinámico
+T53	PROCEDURE 2472 2500	Resonancia magnética nuclear
+T54	PROCEDURE 2502 2505	RMN
+T55	PROCEDURE 3019 3111	Gammagrafía miocárdica con 99mTc-HDMP: estudio del tórax (fase tardia, planar y tomográfico)
+T56	PROCEDURE 3502 3512	telemetría
+T57	PROCEDURE 3647 3676	monitorización con telemetría
+T58	PROCEDURE 3800 3829	ecocardiografía transtorácica
+T59	PROCEDURE 3847 3867	estudio hemodinámico
+T60	PROCEDURE 3916 3940	estudio ecocardiográfico
+T61	PROCEDURE 4128 4139	cateterismo
+T62	PROCEDURE 4456 4477	tratamiento diurético
+T63	PROCEDURE 4492 4526	resonancia magnética con gadolinio
+T64	PROCEDURE 4916 4952	ammagrafía miocárdica con 99mTc-HDMP
+T65	PROCEDURE 1212 1221	Analítica
+T66	SYMPTOM 500 517	episodio sincopal
+T67	SYMPTOM 568 595	sensación de visión borrosa
+T68	SYMPTOM 681 686	mareo
+T69	SYMPTOM 720 734	dolor torácico
+T70	SYMPTOM 790 820	disnea con moderados esfuerzos
+T71	SYMPTOM 940 971	soplo sistólico en foco aórtico
+T72	SYMPTOM 1007 1028	crepitantes bibasales
+T73	SYMPTOM 1030 1063	Extremidades inferiores sin edema
+T74	SYMPTOM 1065 1106	pulsos periféricos positivos y simétricos
+T75	SYMPTOM 1152 1164	QRS estrecho
+T76	SYMPTOM 1169 1210	onda T negativa de V4 a V6, II, III y aVF
+T77	SYMPTOM 1475 1488	cardiomegalia
+T78	SYMPTOM 1490 1519	patrón intersticial bilateral
+T79	SYMPTOM 1642 1677	función sistólica global conservada
+T80	SYMPTOM 2240 2255	FEVI conservada
+T81	SYMPTOM 2711 2716	edema
+T82	SYMPTOM 4004 4050	alteraciones segmentarias de la contractilidad
+T83	SYMPTOM 4358 4389	fracción de eyección preservada
+T84	SYMPTOM 5322 5342	hipotensión arterial
+T85	SYMPTOM 5371 5384	FE conservada
+T86	SYMPTOM 141 148	síncope
+T87	SYMPTOM 5290 5297	Síncope
+T88	SYMPTOM 982 1001	2o ruido conservado
+T89	SYMPTOM 1521 1547	senos costofrénicos libres
+T90	SYMPTOM 1622 1637	acinesia apical
+T91	SYMPTOM 2268 2299	aquinesia muy localizada apical
+T92	SYMPTOM 2169 2187	Dominancia derecha
+T93	SYMPTOM 2017 2040	compromiso hemodinámico
+T94	SYMPTOM 1688 1721	elevación de presiones de llenado
+T95	SYMPTOM 2064 2134	arterias coronarias con tortuosidades e irregularidades, sin estenosis
+T96	SYMPTOM 2508 2527	VI de tamaño normal
+T97	SYMPTOM 4154 4187	arterias coronarias sin estenosis
+T98	SYMPTOM 5413 5446	Arterias coronarias sin estenosis
+T99	MEDICATION 422 432	torasemida

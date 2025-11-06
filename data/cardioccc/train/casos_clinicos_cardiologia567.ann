@@ -1,0 +1,122 @@
+T1	DISEASE 2697 2766	ventrículo izquierdo dilatado (DTDVI 60 mm), con moderada hipertrofia
+T2	DISEASE 3019 3055	Grave dilatación auricular izquierda
+T3	DISEASE 3103 3174	Válvula mitral con valvas esclerosas de apertura normal y regurgitación
+T4	DISEASE 3378 3397	congestión pulmonar
+T5	DISEASE 3524 3590	ventrículo izquierdo dilatado con patrón de hipertrofia excéntrica
+T6	DISEASE 92 100	alergias
+T7	DISEASE 112 121	Exfumador
+T8	DISEASE 210 231	hipertensión arterial
+T9	DISEASE 233 277	diabetes mellitus tipo 2 insulinodependiente
+T10	DISEASE 297 307	dislipemia
+T11	DISEASE 353 385	fibrilación auricular permanente
+T12	DISEASE 443 463	insuficiencia mitral
+T13	DISEASE 596 618	insuficiencia cardiaca
+T14	DISEASE 661 688	insuficiencia renal crónica
+T15	DISEASE 831 854	vasculopatía periférica
+T16	DISEASE 859 884	claudicación intermitente
+T17	DISEASE 891 912	anemia multifactorial
+T18	DISEASE 2110 2163	fibrilación auricular con respuesta ventricular media
+T19	DISEASE 2468 2481	cardiomegalia
+T20	DISEASE 2503 2528	Derrame pleural bilateral
+T21	DISEASE 3074 3101	Esclerosis valvular aórtica
+T22	DISEASE 3191 3216	Insuficiencia tricuspídea
+T23	DISEASE 3268 3287	derrame pericárdico
+T24	DISEASE 3749 3757	isquemia
+T25	DISEASE 3796 3815	necrosis miocárdica
+T26	DISEASE 3817 3841	Fibrosis intramiocárdica
+T27	DISEASE 3989 4025	insuficiencia cardiaca descompensada
+T28	DISEASE 4041 4063	infección respiratoria
+T29	DISEASE 4066 4094	fibrilación auricular rápida
+T30	DISEASE 4151 4170	hiperpotasemia leve
+T31	DISEASE 4207 4253	miocardiopatía dilatada de origen no isquémico
+T32	DISEASE 4620 4642	insuficiencia cardiaca
+T33	DISEASE 4791 4832	descompensación de insuficiencia cardiaca
+T34	DISEASE 4835 4855	hiperpotasemia grave
+T35	DISEASE 5035 5049	hiperpotasemia
+T36	DISEASE 5160 5182	insuficiencia cardiaca
+T37	DISEASE 5710 5732	insuficiencia cardiaca
+T38	DISEASE 5745 5770	derrame pleural bilateral
+T39	DISEASE 6275 6316	descompensación de insuficiencia cardiaca
+T40	DISEASE 6557 6597	Insuficiencia cardiaca con FEVI reducida
+T41	DISEASE 6599 6635	Miocardiopatía dilatada no isquémica
+T42	DISEASE 6637 6661	Enfermedad renal crónica
+T43	DISEASE 6663 6684	Síndrome cardiorrenal
+T44	DISEASE 2483 2501	Elongación aórtica
+T45	DISEASE 3218 3220	IT
+T46	DISEASE 3705 3732	Aurícula izquierda dilatada
+T47	DISEASE 4317 4330	valvulopatías
+T48	DISEASE 3289 3327	Vena cava dilatada (24 mm) con plétora
+T49	DISEASE 6686 6700	Hiperpotasemia
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 397 412	ecocardiografía
+T52	PROCEDURE 917 936	estudio endoscópico
+T53	PROCEDURE 1723 1741	Exploración física
+T54	PROCEDURE 1864 1885	Auscultación cardiaca
+T55	PROCEDURE 1925 1946	Auscultación pulmonar
+T56	PROCEDURE 2105 2108	ECG
+T57	PROCEDURE 2443 2466	Radiografía de tórax AP
+T58	PROCEDURE 2608 2637	Ecocardiografía transtorácica
+T59	PROCEDURE 3470 3499	Resonancia magnética cardiaca
+T60	PROCEDURE 3501 3504	RMC
+T61	PROCEDURE 3734 3773	Provocación de isquemia con regadenoson
+T62	PROCEDURE 4361 4394	tratamiento diurético intravenoso
+T63	PROCEDURE 4660 4681	diurético intravenoso
+T64	PROCEDURE 4730 4744	diurético oral
+T65	PROCEDURE 4994 5015	tratamiento depletivo
+T66	PROCEDURE 5828 5854	toracocentesis evacuadores
+T67	PROCEDURE 5871 5911	colocación de drenaje pleural permanente
+T68	PROCEDURE 6334 6349	drenaje pleural
+T69	PROCEDURE 2236 2245	Analítica
+T70	PROCEDURE 1742 1760	Constantes vitales
+T71	PROCEDURE 4860 4869	analítica
+T72	PROCEDURE 5306 5315	analítica
+T73	PROCEDURE 6068 6077	analítica
+T74	PROCEDURE 4176 4193	pruebas de imagen
+T75	SYMPTOM 1265 1277	disnea basal
+T76	SYMPTOM 1352 1360	ortopnea
+T77	SYMPTOM 1363 1399	edematización de miembros inferiores
+T78	SYMPTOM 1410 1446	disminución subjetiva de la diuresis
+T79	SYMPTOM 1455 1468	palpitaciones
+T80	SYMPTOM 1532 1535	tos
+T81	SYMPTOM 1547 1572	expectoración blanquecina
+T82	SYMPTOM 1577 1583	fiebre
+T83	SYMPTOM 1864 1908	Auscultación cardiaca con ruidos irregulares
+T84	SYMPTOM 1910 1923	taquicárdicos
+T85	SYMPTOM 1951 1975	hipoventilación en bases
+T86	SYMPTOM 1978 2009	crepitantes hasta campos medios
+T87	SYMPTOM 2021 2027	roncus
+T88	SYMPTOM 2038 2070	Edemas tibiomaleolares con fóvea
+T89	SYMPTOM 2187 2234	Descenso del segmento ST de 1 mm V4-V6, I y aVL
+T90	SYMPTOM 2552 2585	Signos de redistribución vascular
+T91	SYMPTOM 2588 2606	edema intersticial
+T92	SYMPTOM 2773 2822	moderada depresión de la función sistólica global
+T93	SYMPTOM 2873 2902	Presiones de llenado elevadas
+T94	SYMPTOM 3413 3440	Flujo venoso renal pulsátil
+T95	SYMPTOM 3442 3467	congestión renal moderada
+T96	SYMPTOM 4119 4148	deterioro de la función renal
+T97	SYMPTOM 5293 5301	ortopnea
+T98	SYMPTOM 6018 6026	ortopnea
+T99	SYMPTOM 2847 2871	hipocinesia generalizada
+T100	SYMPTOM 2914 2973	Ventrículo derecho no dilatado con función sistólica límite
+T101	SYMPTOM 3593 3634	función sistólica moderadamente deprimida
+T102	SYMPTOM 3647 3703	Ventrículo derecho de volumen y función sistólica normal
+T103	SYMPTOM 3734 3782	Provocación de isquemia con regadenoson negativa
+T104	SYMPTOM 4258 4286	FEVI moderadamente deprimida
+T105	SYMPTOM 6042 6060	signos congestivos
+T106	MEDICATION 983 995	acenocumarol
+T107	MEDICATION 997 1007	manidipino
+T108	MEDICATION 1019 1029	doxazosina
+T109	MEDICATION 1040 1050	furosemida
+T110	MEDICATION 1062 1075	atorvastatina
+T111	MEDICATION 1087 1108	insulina glargina 18U
+T112	MEDICATION 1110 1130	ferroglicina sulfato
+T113	MEDICATION 1141 1158	darbepoetina alfa
+T114	MEDICATION 1667 1690	amoxicilina/clavulánico
+T115	MEDICATION 4475 4485	bisoprolol
+T116	MEDICATION 4498 4507	valsartán
+T117	MEDICATION 4531 4541	furosemida
+T118	MEDICATION 5084 5096	clortalidona
+T119	MEDICATION 5121 5132	resincalcio
+T120	MEDICATION 5408 5417	patiromer
+T121	MEDICATION 5449 5459	furosemida
+T122	MEDICATION 5612 5633	sacubitrilo/valsartán

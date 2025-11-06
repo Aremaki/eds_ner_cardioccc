@@ -1,0 +1,201 @@
+T1	ENFERMEDAD 101 122	hipertensión arterial
+T2	ENFERMEDAD 124 127	HTA
+T3	ENFERMEDAD 186 219	síndrome de Wolff-Parkinson-White
+T4	ENFERMEDAD 221 224	WPW
+T5	ENFERMEDAD 1529 1568	oclusión de arteria vertebral izquierda
+T6	ENFERMEDAD 1613 1625	trombo agudo
+T7	ENFERMEDAD 1636 1728	lesiones isquémicas crónicas en ganglios basales, tálamo izquierdo y hemisferios cerebelosos
+T8	ENFERMEDAD 1769 1788	déficit neurológico
+T9	ENFERMEDAD 1815 1821	trombo
+T10	ENFERMEDAD 2079 2084	Ictus
+T11	ENFERMEDAD 2532 2535	WPW
+T12	ENFERMEDAD 3082 3106	lesión isquémica crónica
+T13	ENFERMEDAD 3283 3310	infartos lacunares crónicos
+T14	ENFERMEDAD 3651 3663	trombo agudo
+T15	ENFERMEDAD 3767 3819	Quistes de retención en senos maxilares y esfenoidal
+T16	ENFERMEDAD 3955 4058	placa de ateroma calcificada plana no obstructiva en el origen de la arteria carótida interna izquierda
+T17	ENFERMEDAD 4278 4290	trombo agudo
+T18	ENFERMEDAD 4482 4492	aneurismas
+T19	ENFERMEDAD 4532 4589	trombo agudo en V3 y V4 de la arteria vertebral izquierda
+T20	ENFERMEDAD 4591 4694	Lesiones isquémicas crónicas en ganglios basales y tálamo izquierdos y en hemisferio cerebeloso derecho
+T21	ENFERMEDAD 5532 5535	TEP
+T22	ENFERMEDAD 5799 5843	tomboembolismo pulmonar (TEP) agudo bilatera
+T23	ENFERMEDAD 5824 5827	TEP
+T24	ENFERMEDAD 5980 5983	HTP
+T25	ENFERMEDAD 6078 6097	derrame pericárdico
+T26	ENFERMEDAD 6116 6182	adenopatías supraclaviculares, axilares, mediastínicas ni hiliares
+T27	ENFERMEDAD 6280 6312	Atelectasias laminares bibasales
+T28	ENFERMEDAD 6322 6350	granuloma calcificado en LSD
+T29	ENFERMEDAD 6423 6438	derrame pleural
+T30	ENFERMEDAD 6440 6469	Leve espondiloartrosis dorsal
+T31	ENFERMEDAD 6471 6484	Hernia hiatal
+T32	ENFERMEDAD 6535 6554	TEP agudo bilateral
+T33	ENFERMEDAD 6557 6560	HTP
+T34	ENFERMEDAD 6593 6688	lesión isquémica en evolución en el hemisferio cerebeloso izquierdo en el territorio de la PICA
+T35	ENFERMEDAD 6813 6816	TVP
+T36	ENFERMEDAD 6873 6878	ictus
+T37	ENFERMEDAD 6914 6932	hipertrofia septal
+T38	ENFERMEDAD 7272 7305	Valvulopatía aórtica degenerativa
+T39	ENFERMEDAD 7422 7453	Insuficiencia tricúspide ligera
+T40	ENFERMEDAD 7500 7519	derrame pericárdico
+T41	ENFERMEDAD 7607 7641	Aneurisma del septo interauricular
+T42	ENFERMEDAD 7778 7818	shunt de cavidades derechas a izquierdas
+T43	ENFERMEDAD 8061 8066	ictus
+T44	ENFERMEDAD 8068 8071	TEP
+T45	ENFERMEDAD 8129 8151	FOP de tipo tunelizado
+T46	ENFERMEDAD 8439 8477	foramen oval permeable tipo tunelizado
+T47	ENFERMEDAD 10093 10098	ictus
+T48	ENFERMEDAD 10537 10561	tromboembolismo pulmonar
+T49	ENFERMEDAD 10563 10566	TEP
+T50	ENFERMEDAD 10655 10674	TEP bilateral agudo
+T51	ENFERMEDAD 10985 11010	trombosis venosa profunda
+T52	ENFERMEDAD 11059 11091	disfunción de ventrículo derecho
+T53	ENFERMEDAD 11136 11170	aneurisma del septo interauricular
+T54	ENFERMEDAD 11292 11295	FOP
+T55	ENFERMEDAD 11375 11380	ictus
+T56	ENFERMEDAD 11383 11386	TEP
+T57	ENFERMEDAD 11393 11421	embolismo paradójico por FOP
+T58	ENFERMEDAD 11439 11442	WPW
+T59	ENFERMEDAD 11453 11461	arritmia
+T60	ENFERMEDAD 11499 11520	fibrilación auricular
+T61	ENFERMEDAD 11532 11535	WPW
+T62	ENFERMEDAD 11675 11684	arritmias
+T63	ENFERMEDAD 11717 11729	síndrome WPW
+T64	ENFERMEDAD 12335 12346	prediabetes
+T65	ENFERMEDAD 12362 12374	endocarditis
+T66	ENFERMEDAD 12768 12786	trombótico del TEP
+T67	ENFERMEDAD 12877 12898	fibrilación auricular
+T68	ENFERMEDAD 12938 12989	Ictus isquémico agudo en territorio vertebrobasilar
+T69	ENFERMEDAD 12991 13125	oclusión aguda segmento V3-4 de arteria vertebral izquierda con compromiso de arteria cerebelosa posterior inferior (PICA) ipsilateral
+T70	ENFERMEDAD 13128 13168	tromboembolismo pulmonar agudo bilateral
+T71	ENFERMEDAD 13195 13236	Foramen oval permeable de tipo tunelizado
+T72	ENFERMEDAD 5274 5285	trombofilia
+T73	ENFERMEDAD 8397 8404	trombos
+T74	ENFERMEDAD 799 827	nistagmo horizonto-rotatorio
+T75	ENFERMEDAD 12012 12034	FOP de tipo tunelizado
+T76	ENFERMEDAD 13291 13294	WPW
+T77	ENFERMEDAD 7323 7351	insuficiencia aórtica ligera
+T78	ENFERMEDAD 9094 9107	preexcitación
+T79	ENFERMEDAD 11736 11744	recidiva
+T80	ENFERMEDAD 8658 8671	Preexcitación
+T81	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T82	PROCEDIMIENTO 690 713	exploración neurológica
+T83	PROCEDIMIENTO 1013 1031	exploración física
+T84	PROCEDIMIENTO 1046 1067	auscultación cardiaca
+T85	PROCEDIMIENTO 1099 1124	auscultación respiratoria
+T86	PROCEDIMIENTO 1197 1215	electrocardiograma
+T87	PROCEDIMIENTO 1234 1253	analítica sanguínea
+T88	PROCEDIMIENTO 1291 1309	electrocardiograma
+T89	PROCEDIMIENTO 1328 1347	analítica sanguínea
+T90	PROCEDIMIENTO 1447 1487	tomografía computarizada (TC) multimodal
+T91	PROCEDIMIENTO 1473 1475	TC
+T92	PROCEDIMIENTO 2204 2222	Electrocardiograma
+T93	PROCEDIMIENTO 2224 2227	ECG
+T94	PROCEDIMIENTO 2962 2987	TC craneal y de perfusión
+T95	PROCEDIMIENTO 3831 3868	Angio-TC de TSA y arterias cerebrales
+T96	PROCEDIMIENTO 5263 5285	Estudio de trombofilia
+T97	PROCEDIMIENTO 5501 5517	TC tórax con CIV
+T98	PROCEDIMIENTO 6562 6564	TC
+T99	PROCEDIMIENTO 6752 6790	Eco Doppler de extremidades inferiores
+T100	PROCEDIMIENTO 6818 6846	Ecocardiograma transtorácico
+T101	PROCEDIMIENTO 7736 7762	ecocardiograma de burbujas
+T102	PROCEDIMIENTO 7820 7892	Ecocardiograma transtorácico con burbujas: test de burbujas muy positivo
+T103	PROCEDIMIENTO 7967 7996	Ecocardiograma transesofágico
+T104	PROCEDIMIENTO 8074 8090	test de burbujas
+T105	PROCEDIMIENTO 8479 8505	Estudio electrofisiológico
+T106	PROCEDIMIENTO 9048 9069	aplicación de RF 35 W
+T107	PROCEDIMIENTO 9328 9364	estimulación auricular y ventricular
+T108	PROCEDIMIENTO 9662 9726	Se implanta Holter subcutáneo en posición paraesternal izquierda
+T109	PROCEDIMIENTO 9729 9732	ECG
+T110	PROCEDIMIENTO 9871 9895	Cierre percutáneo de FOP
+T111	PROCEDIMIENTO 9991 10002	angiografía
+T112	PROCEDIMIENTO 10112 10132	soporte hemodinámico
+T113	PROCEDIMIENTO 10134 10168	monitorización cardiorrespiratoria
+T114	PROCEDIMIENTO 10276 10298	estudio de coagulación
+T115	PROCEDIMIENTO 10595 10626	angio-TC de arterias pulmonares
+T116	PROCEDIMIENTO 10692 10702	TC craneal
+T117	PROCEDIMIENTO 10919 10953	eco Doppler de miembros inferiores
+T118	PROCEDIMIENTO 11017 11045	ecocardiograma transtorácico
+T119	PROCEDIMIENTO 11198 11225	ecocardiograma con burbujas
+T120	PROCEDIMIENTO 11231 11260	ecocardiograma transesofágico
+T121	PROCEDIMIENTO 11567 11595	ablación de la vía accesoria
+T122	PROCEDIMIENTO 11629 11646	Holter subcutáneo
+T123	PROCEDIMIENTO 11990 12034	cierre percutáneo del FOP de tipo tunelizado
+T124	PROCEDIMIENTO 12348 12374	Profilaxis de endocarditis
+T125	PROCEDIMIENTO 12416 12449	procedimientos dentales invasivos
+T126	PROCEDIMIENTO 12668 12683	anticoagulación
+T127	PROCEDIMIENTO 12726 12735	angio-TAC
+T128	PROCEDIMIENTO 12906 12923	Holter subcutáneo
+T129	PROCEDIMIENTO 13195 13260	Foramen oval permeable de tipo tunelizado cerrado percutáneamente
+T130	PROCEDIMIENTO 13262 13294	Ablación de vía accesoria de WPW
+T131	PROCEDIMIENTO 10835 10870	anticoagulación con heparina sódica
+T132	PROCEDIMIENTO 1373 1384	coagulación
+T133	PROCEDIMIENTO 10760 10772	fibrinólisis
+T134	PROCEDIMIENTO 12140 12168	medidas higiénico-dietéticas
+T135	PROCEDIMIENTO 9892 9933	FOP: se implanta un dispositivo de cierre
+T136	PROCEDIMIENTO 2537 2546	Analítica
+T137	PROCEDIMIENTO 4696 4705	Analítica
+T138	PROCEDIMIENTO 3668 3688	estudio de perfusión
+T139	PROCEDIMIENTO 12099 12111	intervención
+T140	PROCEDIMIENTO 2155 2177	tratamiento quirúrgico
+T141	SINTOMA 388 425	sensación de mareo tipo inestabilidad
+T142	SINTOMA 537 561	estabilidad hemodinámica
+T143	SINTOMA 634 648	estado afebril
+T144	SINTOMA 734 753	lenguaje disártrico
+T145	SINTOMA 755 777	paresia facial central
+T146	SINTOMA 865 900	claudicación de miembros inferiores
+T147	SINTOMA 903 956	leve hipoestesia de predominio algésico en hemicuerpo
+T148	SINTOMA 1072 1078	soplos
+T149	SINTOMA 1082 1092	extratonos
+T150	SINTOMA 1129 1158	murmullo vesicular conservado
+T151	SINTOMA 1163 1183	ruidos sobreañadidos
+T152	SINTOMA 1328 1391	analítica sanguínea que presenta plaquetas y coagulación normal
+T153	SINTOMA 1418 1434	dímero D elevado
+T154	SINTOMA 2236 2249	ritmo sinusal
+T155	SINTOMA 2273 2301	empastamiento inicial de QRS
+T156	SINTOMA 2317 2327	onda delta
+T157	SINTOMA 2329 2360	alteración de la repolarización
+T158	SINTOMA 2487 2502	onda T negativa
+T159	SINTOMA 3312 3359	Cuarto ventrículo de tamaño y morfología normal
+T160	SINTOMA 3504 3531	sangrado intra o extraaxial
+T161	SINTOMA 3535 3560	desviación de línea media
+T162	SINTOMA 5263 5306	Estudio de trombofilia: resultados normales
+T163	SINTOMA 6880 6912	ventrículo izquierdo no dilatado
+T164	SINTOMA 6944 6972	función sistólica conservada
+T165	SINTOMA 8082 8099	burbujas positivo
+T166	SINTOMA 8374 8423	Orejuela izquierda sin trombos y con flujo normal
+T167	SINTOMA 9537 9548	taquicardia
+T168	SINTOMA 9746 9759	ritmo sinusal
+T169	SINTOMA 9801 9832	alteración en la repolarización
+T170	SINTOMA 10510 10516	disnea
+T171	SINTOMA 6988 7033	alteraciones de la contractilidad segmentaria
+T172	SINTOMA 1219 1232	ritmo sinusal
+T173	SINTOMA 1313 1326	ritmo sinusal
+T174	SINTOMA 2260 2268	PR corto
+T175	SINTOMA 2376 2410	infradesnivelación del segmento ST
+T176	SINTOMA 6020 6062	sobrecarga de cavidades cardiacas derechas
+T177	SINTOMA 7035 7083	Ventrículo derecho no dilatado, normofuncionante
+T178	SINTOMA 7521 7560	VCI en límite superior de la normalidad
+T179	SINTOMA 5846 5898	Aumento de calibre del tronco de la arteria pulmonar
+T180	SINTOMA 3386 3423	Cisternas basales libres y simétricas
+T181	SINTOMA 4457 4478	defectos de repleción
+T182	SINTOMA 6362 6395	parénquima pulmonar sin hallazgos
+T183	SINTOMA 6724 6750	transformación hemorrágica
+T184	SINTOMA 10728 10754	transformación hemorrágica
+T185	FARMACO 10902 10906	HBPM
+T186	FARMACO 299 307	atenolol
+T187	FARMACO 1997 2002	r-TPA
+T188	FARMACO 10855 10870	heparina sódica
+T189	FARMACO 12481 12492	rivaroxabán
+T190	FARMACO 12509 12520	clopidogrel
+T191	FARMACO 12553 12583	candersartán/hidroclorotiazida
+T192	FARMACO 12605 12618	atorvastatina
+#1	AnnotatorNotes T4	 síndrome de Wolff-Parkinson-White
+#2	AnnotatorNotes T11	 síndrome de Wolff-Parkinson-White
+#3	AnnotatorNotes T23	 tromboembolismo pulmonar
+#4	AnnotatorNotes T54	 FORAMEN OVAL PERMEABLE
+#5	AnnotatorNotes T58	 síndrome de Wolff-Parkinson-White
+#6	AnnotatorNotes T61	 síndrome de Wolff-Parkinson-White
+#7	AnnotatorNotes T63	 Wolff-Parkinson-White
+#8	AnnotatorNotes T75	 FOP: foramen oval permeable
+#9	AnnotatorNotes T76	 síndrome de Wolff-Parkinson-White

@@ -1,0 +1,235 @@
+T1	ENFERMEDAD 88 111	alergias medicamentosas
+T2	ENFERMEDAD 126 141	hábitos tóxicos
+T3	ENFERMEDAD 178 199	hipertensión arterial
+T4	ENFERMEDAD 202 212	dislipemia
+T5	ENFERMEDAD 214 251	Fibrilación auricular (FA) permanente
+T6	ENFERMEDAD 237 239	FA
+T7	ENFERMEDAD 1444 1517	Miembros inferiores: trastornos tróficos por insuficiencia venosa crónica
+T8	ENFERMEDAD 1655 1657	FA
+T9	ENFERMEDAD 2561 2606	hipertrofia a nivel de septo interventricular
+T10	ENFERMEDAD 2911 3004	Válvula mitral esclerocalcificada con restricción del velo posterior e insuficiencia moderada
+T11	ENFERMEDAD 3103 3132	Insuficiencia tricúspide leve
+T12	ENFERMEDAD 3231 3252	hipertensión pulmonar
+T13	ENFERMEDAD 3257 3276	derrame pericárdico
+T14	ENFERMEDAD 3354 3356	FA
+T15	ENFERMEDAD 4238 4253	pseudoaneurisma
+T16	ENFERMEDAD 4333 4367	Insuficiencia mitral leve-moderada
+T17	ENFERMEDAD 4369 4407	Insuficiencia tricúspide leve-moderada
+T18	ENFERMEDAD 4534 4555	Insuficiencia aórtica
+T19	ENFERMEDAD 4598 4617	derrame pericárdico
+T20	ENFERMEDAD 4776 4810	Aneurisma y pseudoaneurisma apical
+T21	ENFERMEDAD 4877 4896	derrame pericárdico
+T22	ENFERMEDAD 4906 4921	derrame pleural
+T23	ENFERMEDAD 4934 4979	atelectasia subsegmentaria en lóbulo inferior
+T24	ENFERMEDAD 5004 5006	FA
+T25	ENFERMEDAD 5307 5329	síndrome de tako-tsubo
+T26	ENFERMEDAD 5339 5355	SCASEST anterior
+T27	ENFERMEDAD 6929 6954	derrame pericárdico grave
+T28	ENFERMEDAD 7053 7103	taponamiento cardiaco secundario a rotura cardiaca
+T29	ENFERMEDAD 8794 8811	hipotensión grave
+T30	ENFERMEDAD 8957 8999	taponamiento cardiaco secundario a derrame
+T31	ENFERMEDAD 9418 9438	hipotensión arterial
+T32	ENFERMEDAD 10070 10085	pseudoaneurisma
+T33	ENFERMEDAD 10272 10281	aneurisma
+T34	ENFERMEDAD 10284 10324	pseudoaneurisma apical y apical inferior
+T35	ENFERMEDAD 11123 11185	Disección espontánea de DA distal con oclusión distal del vaso
+T36	ENFERMEDAD 11293 11365	taponamiento cardiaco por rotura de pared libre del ventrículo izquierdo
+T37	ENFERMEDAD 11412 11428	Pseudonaneurisma
+T38	ENFERMEDAD 11431 11465	aneurisma apical y apical inferior
+T39	ENFERMEDAD 11508 11539	Insuficiencia renal aguda grave
+T40	ENFERMEDAD 11574 11606	Fibrilación auricular permanente
+T41	ENFERMEDAD 11622 11643	Hipertensión arterial
+T42	ENFERMEDAD 11645 11655	Dislipemia
+T43	ENFERMEDAD 3006 3047	Aurícula izquierda moderadamente dilatada
+T44	ENFERMEDAD 414 419	angor
+T45	ENFERMEDAD 5169 5184	angor de reposo
+T46	ENFERMEDAD 5774 5792	eventos arrítmicos
+T47	ENFERMEDAD 6798 6809	hipotensión
+T48	ENFERMEDAD 2819 2909	Válvula aórtica trivalva, esclerocalcificada, con apertura conservada e insuficiencia leve
+T49	ENFERMEDAD 3605 3690	Disección de la arteria descendente anterior distal (DA) hasta la punta, con oclusión
+T50	ENFERMEDAD 6250 6308	disección espontanea a nivel de la DA distal, con oclusión
+T51	ENFERMEDAD 7692 7704	PCR por AESP
+T52	ENFERMEDAD 11233 11270	PCR por actividad eléctrica sin pulso
+T53	ENFERMEDAD 11096 11112	IAMCEST anterior
+T54	ENFERMEDAD 4002 4044	Septo anterior basal con hipertrofia grave
+T55	ENFERMEDAD 7611 7634	región apical infartada
+T56	ENFERMEDAD 9015 9048	coágulos sobre cavidades derechas
+T57	ENFERMEDAD 9210 9267	saco pericárdico, visualizando nuevamente desgarro apical
+T58	PROCEDIMIENTO 295 338	Intervenciones quirúrgicas: rodilla derecha
+T59	PROCEDIMIENTO 1109 1127	Exploración física
+T60	PROCEDIMIENTO 1328 1349	Auscultación cardiaca
+T61	PROCEDIMIENTO 1372 1393	Auscultación pulmonar
+T62	PROCEDIMIENTO 1604 1622	Electrocardiograma
+T63	PROCEDIMIENTO 1624 1627	ECG
+T64	PROCEDIMIENTO 2301 2321	Radiografía de tórax
+T65	PROCEDIMIENTO 2461 2475	Ecocardiograma
+T66	PROCEDIMIENTO 3278 3281	ECG
+T67	PROCEDIMIENTO 3504 3507	ECG
+T68	PROCEDIMIENTO 3517 3568	Cateterismo cardiaco urgente: acceso radial derecho
+T69	PROCEDIMIENTO 3797 3834	intervencionismo coronario percutáneo
+T70	PROCEDIMIENTO 3836 3839	ICP
+T71	PROCEDIMIENTO 3842 3906	Se implanta balón de contrapulsación vía arteria femoral derecha
+T72	PROCEDIMIENTO 3908 3922	Ecocardiograma
+T73	PROCEDIMIENTO 4619 4716	Angio-TAC de arterias coronarias: estudio helicoidal sincronizado sin y con contraste intravenoso
+T74	PROCEDIMIENTO 4718 4736	Esternotomía media
+T75	PROCEDIMIENTO 4991 4994	ECG
+T76	PROCEDIMIENTO 5186 5189	ECG
+T77	PROCEDIMIENTO 5488 5512	coronariografía invasiva
+T78	PROCEDIMIENTO 5799 5809	telemetría
+T79	PROCEDIMIENTO 5926 5936	telemetría
+T80	PROCEDIMIENTO 5966 5977	cateterismo
+T81	PROCEDIMIENTO 6196 6217	cateterismo emergente
+T82	PROCEDIMIENTO 6225 6236	cateterismo
+T83	PROCEDIMIENTO 6390 6440	implantar un balón de contrapulsación intraaórtico
+T84	PROCEDIMIENTO 6592 6632	doble antiagregación (clopidogrel + AAS)
+T85	PROCEDIMIENTO 6635 6666	anticoagulación con enoxaparina
+T86	PROCEDIMIENTO 6724 6735	cateterismo
+T87	PROCEDIMIENTO 6901 6916	ecocardioscopia
+T88	PROCEDIMIENTO 7118 7140	intubación orotraqueal
+T89	PROCEDIMIENTO 7142 7160	pericardiocentesis
+T90	PROCEDIMIENTO 7238 7254	cirugía cardiaca
+T91	PROCEDIMIENTO 7352 7364	sueroterapia
+T92	PROCEDIMIENTO 7377 7422	se trasfunden varios concentrados de hematíes
+T93	PROCEDIMIENTO 7478 7490	esternotomía
+T94	PROCEDIMIENTO 7722 7745	masaje cardiaco directo
+T95	PROCEDIMIENTO 7909 7925	cirugía cardiaca
+T96	PROCEDIMIENTO 7939 7997	reparación del defecto apical con sutura directa y BioGlue
+T97	PROCEDIMIENTO 8520 8528	intubada
+T98	PROCEDIMIENTO 8541 8571	drogas inotropas y vasoactivas
+T99	PROCEDIMIENTO 8706 8720	hemofiltración
+T100	PROCEDIMIENTO 8899 8916	drenaje torácicos
+T101	PROCEDIMIENTO 8929 8944	ecocardioscopia
+T102	PROCEDIMIENTO 9100 9116	cirugía cardiaca
+T103	PROCEDIMIENTO 9129 9156	apertura de la esternotomía
+T104	PROCEDIMIENTO 9339 9365	sutura con apoyo de teflón
+T105	PROCEDIMIENTO 9561 9601	esternotomía abierta con bolsa de Bogotá
+T106	PROCEDIMIENTO 9664 9679	cierre esternal
+T107	PROCEDIMIENTO 9868 9882	ecocardiograma
+T108	PROCEDIMIENTO 10222 10253	angio-TC de arterias coronarias
+T109	PROCEDIMIENTO 10365 10381	cirugía cardiaca
+T110	PROCEDIMIENTO 10570 10582	hemodiálisis
+T111	PROCEDIMIENTO 10747 10761	ecocardiograma
+T112	PROCEDIMIENTO 10923 10931	diálisis
+T113	PROCEDIMIENTO 11543 11555	hemodiálisis
+T114	PROCEDIMIENTO 11557 11572	Politransfusión
+T115	PROCEDIMIENTO 11607 11620	anticoagulada
+T116	PROCEDIMIENTO 252 282	anticoagulada con acenucumarol
+T117	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T118	PROCEDIMIENTO 11205 11231	intervencionismo coronario
+T119	PROCEDIMIENTO 5418 5432	monitorización
+T120	PROCEDIMIENTO 5553 5573	doble antiagregación
+T121	PROCEDIMIENTO 7748 7790	taponamiento digital del punto de sangrado
+T122	PROCEDIMIENTO 8066 8080	reesternotomía
+T123	PROCEDIMIENTO 8511 8517	sedada
+T124	PROCEDIMIENTO 9175 9226	extrayendo abundantes coágulos del saco pericárdico
+T125	PROCEDIMIENTO 7536 7569	extracción de abundantes coágulos
+T126	PROCEDIMIENTO 9468 9509	catecolaminas (noradrenalina y adrenalina
+T127	PROCEDIMIENTO 1770 1779	Analítica
+T128	PROCEDIMIENTO 1291 1306	Cabeza y cuello
+T129	PROCEDIMIENTO 7260 7283	intervención quirúrgica
+T130	PROCEDIMIENTO 8322 8382	perfusión continua de dobutamina, noradrenalina y adrenalina
+T131	PROCEDIMIENTO 7305 7331	perfusión de noradrenalina
+T132	PROCEDIMIENTO 10409 10434	reintervención quirúrgica
+T133	PROCEDIMIENTO 4738 4774	Parche posquirúrgico a nivel de ápex
+T134	PROCEDIMIENTO 5576 5607	anticoagulación con enoxaparina
+T135	PROCEDIMIENTO 8205 8211	sedada
+T136	PROCEDIMIENTO 8230 8292	respirador en modalidad "Volumen Control Regulado por Presión"
+T137	PROCEDIMIENTO 8434 8458	balón de contrapulsación
+T138	PROCEDIMIENTO 9520 9550	bolos repetidos de fenilefrina
+T139	SINTOMA 423 429	disnea
+T140	SINTOMA 854 917	dolor torácico opresivo, irradiado a miembro superior izquierdo
+T141	SINTOMA 923 941	cortejo vegetativo
+T142	SINTOMA 1039 1075	leve molestia en hemitórax izquierdo
+T143	SINTOMA 1225 1232	afebril
+T144	SINTOMA 1234 1244	Consciente
+T145	SINTOMA 1246 1255	orientada
+T146	SINTOMA 1257 1271	normocoloreada
+T147	SINTOMA 1274 1289	bien perfundida
+T148	SINTOMA 1311 1326	plétora yugular
+T149	SINTOMA 1328 1358	Auscultación cardiaca: rítmica
+T150	SINTOMA 1364 1370	soplos
+T151	SINTOMA 1395 1424	murmullo vesicular conservado
+T152	SINTOMA 1426 1442	Abdomen: anodino
+T153	SINTOMA 1519 1566	Pulso pedio derecho presente, izquierdo ausente
+T154	SINTOMA 1571 1577	edemas
+T155	SINTOMA 1694 1706	QRS estrecho
+T156	SINTOMA 1723 1756	alteraciones de la repolarización
+T157	SINTOMA 1758 1768	QTc normal
+T158	SINTOMA 2267 2299	Quilomicrones en suero negativos
+T159	SINTOMA 2334 2362	índice cardiotorácico normal
+T160	SINTOMA 2391 2431	condensaciones en el parénquima pulmonar
+T161	SINTOMA 2518 2555	ventrículo izquierdo (VI) no dilatado
+T162	SINTOMA 2608 2656	Función sistólica global moderadamente deprimida
+T163	SINTOMA 3337 3342	dolor
+T164	SINTOMA 3413 3438	elevación del ST en V3-V5
+T165	SINTOMA 3462 3486	onda T negativa en V2-V6
+T166	SINTOMA 3963 4000	ventrículo izquierdo de tamaño normal
+T167	SINTOMA 4564 4593	Raíz aórtica de tamaño normal
+T168	SINTOMA 5043 5083	Ondas T negativas y profundas de V2 a V6
+T169	SINTOMA 5085 5102	ondas T negativas
+T170	SINTOMA 5194 5227	alteraciones de la repolarización
+T171	SINTOMA 5229 5267	elevación de troponina T ultrasensible
+T172	SINTOMA 5721 5726	dolor
+T173	SINTOMA 6059 6073	dolor torácico
+T174	SINTOMA 6136 6172	elevación del segmento ST de V3 a V5
+T175	SINTOMA 6766 6774	malestar
+T176	SINTOMA 6798 6809	hipotensión
+T177	SINTOMA 6855 6888	deterioro del nivel de conciencia
+T178	SINTOMA 7667 7675	sangrado
+T179	SINTOMA 8092 8100	sangrado
+T180	SINTOMA 8614 8620	Anuria
+T181	SINTOMA 8794 8811	hipotensión grave
+T182	SINTOMA 11480 11506	FEVI ligeramente deprimida
+T183	SINTOMA 9418 9438	hipotensión arterial
+T184	SINTOMA 7589 7634	sangrado activo en la región apical infartada
+T185	SINTOMA 7782 7790	sangrado
+T186	SINTOMA 9272 9280	sangrado
+T187	SINTOMA 6776 6795	taquicardia sinusal
+T188	SINTOMA 2433 2459	Senos costofrénicos libres
+T189	SINTOMA 2672 2680	acinesia
+T190	SINTOMA 2792 2817	Raíz de aorta no dilatada
+T191	SINTOMA 3049 3101	Ventrículo derecho (VD) no dilatado, normocontráctil
+T192	SINTOMA 3570 3603	Tronco coronario izquierdo normal
+T193	SINTOMA 4153 4188	Aquinesia de los segmentos apicales
+T194	SINTOMA 5270 5285	acinesia apical
+T195	SINTOMA 5728 5768	hemodinámica y respiratoriamente estable
+T196	SINTOMA 5829 5848	estabilidad clínica
+T197	SINTOMA 3720 3764	Circunfleja y coronaria derecha sin lesiones
+T198	SINTOMA 2368 2386	signos congestivos
+T199	SINTOMA 4437 4467	vena cava inferior no dilatada
+T200	SINTOMA 3393 3408	Onda Q en V3-V4
+T201	SINTOMA 6999 7031	compromiso de cavidades derechas
+T202	SINTOMA 7142 7213	pericardiocentesis de urgencia con salida escasa de líquido hemorrágico
+T203	SINTOMA 8860 8916	débito hemático rápido en los tubos de drenaje torácicos
+T204	SINTOMA 11272 11276	AESP
+T205	FARMACO 270 282	acenucumarol
+T206	FARMACO 461 469	digoxina
+T207	FARMACO 488 497	lorazepam
+T208	FARMACO 517 529	acenocumarol
+T209	FARMACO 548 570	amlodipino/telmisartán
+T210	FARMACO 590 600	verapamilo
+T211	FARMACO 621 634	atorvastatina
+T212	FARMACO 652 660	tramadol
+T213	FARMACO 680 691	paracetamol
+T214	FARMACO 708 720	calcipotriol
+T215	FARMACO 5596 5607	enoxaparina
+T216	FARMACO 6614 6625	clopidogrel
+T217	FARMACO 6628 6631	AAS
+T218	FARMACO 6655 6666	enoxaparina
+T219	FARMACO 7318 7331	noradrenalina
+T220	FARMACO 8344 8354	dobutamina
+T221	FARMACO 8356 8369	noradrenalina
+T222	FARMACO 8372 8382	adrenalina
+T223	FARMACO 9483 9496	noradrenalina
+T224	FARMACO 9499 9509	adrenalina
+T225	FARMACO 9539 9550	fenilefrina
+T226	FARMACO 10806 10815	omeprazol
+T227	FARMACO 10838 10860	ácido acetilsalicílico
+T228	FARMACO 10862 10865	AAS
+T229	FARMACO 10888 10899	enoxaparina
+T230	FARMACO 10992 11002	carvedilol
+T231	FARMACO 11028 11041	atorvastatina
+#1	AnnotatorNotes T8	 Fibrilación auricular
+#2	AnnotatorNotes T14	 Fibrilación auricular
+#3	AnnotatorNotes T51	 PCR: parada cardiorespiratoria, AESP: actividad eléctrica sin pulso
+#4	AnnotatorNotes T52	 PCR: parada cardiorespiratoria

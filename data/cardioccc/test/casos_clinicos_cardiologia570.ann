@@ -1,0 +1,133 @@
+T1	ENFERMEDAD 259 307	lumbalgia por sobrecarga facetaría L4-L5 y L5-S1
+T2	ENFERMEDAD 102 123	hipertensión arterial
+T3	ENFERMEDAD 151 159	obesidad
+T4	ENFERMEDAD 310 335	degeneración discal L4-L5
+T5	ENFERMEDAD 353 426	espondilosis cervical con leve protrusión posterior C3-C4, C5- C6 y C6-C7
+T6	ENFERMEDAD 451 467	Síndrome ansioso
+T7	ENFERMEDAD 469 482	claustrofobia
+T8	ENFERMEDAD 517 543	síndrome de túnel carpiano
+T9	ENFERMEDAD 650 676	infarto agudo de miocardio
+T10	ENFERMEDAD 678 681	IAM
+T11	ENFERMEDAD 2006 2025	derrame pericárdico
+T12	ENFERMEDAD 2140 2157	miocarditis aguda
+T13	ENFERMEDAD 2167 2191	síndrome coronario agudo
+T14	ENFERMEDAD 2594 2602	obesidad
+T15	ENFERMEDAD 2820 2836	trombosis venosa
+T16	ENFERMEDAD 4709 4730	hipertensión pulmonar
+T17	ENFERMEDAD 5273 5297	miocarditis con fibrosis
+T18	ENFERMEDAD 5481 5522	enfermedad arterial coronaria obstructiva
+T19	ENFERMEDAD 5694 5713	derrame pericárdico
+T20	ENFERMEDAD 5899 5906	TP-NOCA
+T21	ENFERMEDAD 5939 5960	hipertensión arterial
+T22	ENFERMEDAD 5962 5965	HTA
+T23	ENFERMEDAD 6119 6141	insuficiencia cardiaca
+T24	ENFERMEDAD 6183 6206	arritmias ventriculares
+T25	ENFERMEDAD 6377 6424	fibrosis subepicárdica anterolateral e inferior
+T26	ENFERMEDAD 6463 6474	miocarditis
+T27	ENFERMEDAD 6665 6688	arritmias ventriculares
+T28	ENFERMEDAD 6755 6772	Miocarditis aguda
+T29	ENFERMEDAD 574 580	aborto
+T30	ENFERMEDAD 1971 1984	valvulopatías
+T31	ENFERMEDAD 4474 4518	Aurícula izquierda (AI) ligeramente dilatada
+T32	ENFERMEDAD 4732 4734	HP
+T33	ENFERMEDAD 4524 4561	alteraciones valvulares estructurales
+T34	ENFERMEDAD 2535 2541	Cuello
+T35	ENFERMEDAD 6156 6176	recurrencia anginosa
+T36	PROCEDIMIENTO 6528 6536	estatina
+T37	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T38	PROCEDIMIENTO 553 560	cesárea
+T39	PROCEDIMIENTO 562 569	legrado
+T40	PROCEDIMIENTO 1404 1422	electrocardiograma
+T41	PROCEDIMIENTO 1424 1427	ECG
+T42	PROCEDIMIENTO 1543 1571	tratamiento antiinflamatorio
+T43	PROCEDIMIENTO 1813 1834	electrocardiográficos
+T44	PROCEDIMIENTO 1837 1851	ecocardiograma
+T45	PROCEDIMIENTO 2198 2236	monitorización cardiovascular continua
+T46	PROCEDIMIENTO 2282 2302	cateterismo cardiaco
+T47	PROCEDIMIENTO 2304 2322	Exploración física
+T48	PROCEDIMIENTO 2604 2625	Auscultación cardiaca
+T49	PROCEDIMIENTO 2689 2710	Auscultación pulmonar
+T50	PROCEDIMIENTO 2941 2944	ECG
+T51	PROCEDIMIENTO 3187 3190	ECG
+T52	PROCEDIMIENTO 3381 3384	ECG
+T53	PROCEDIMIENTO 3536 3554	Análisis de sangre
+T54	PROCEDIMIENTO 3687 3700	Gases venosos
+T55	PROCEDIMIENTO 3832 3848	Tóxicos en orina
+T56	PROCEDIMIENTO 3973 3988	perfil hepático
+T57	PROCEDIMIENTO 4202 4222	Radiografía de tórax
+T58	PROCEDIMIENTO 4341 4364	Ecocardiograma portátil
+T59	PROCEDIMIENTO 4751 4765	Ecocardiograma
+T60	PROCEDIMIENTO 4841 4872	Coronariografía: radial derecha
+T61	PROCEDIMIENTO 4957 4960	RMC
+T62	PROCEDIMIENTO 5019 5046	administración de contraste
+T63	PROCEDIMIENTO 5416 5431	coronariografía
+T64	PROCEDIMIENTO 5538 5566	ecocardiograma transtorácico
+T65	PROCEDIMIENTO 5568 5571	ETT
+T66	PROCEDIMIENTO 5828 5854	antiagregación plaquetaria
+T67	PROCEDIMIENTO 5918 5922	IECA
+T68	PROCEDIMIENTO 6213 6245	monitorización cardíaca continua
+T69	PROCEDIMIENTO 6307 6310	RMC
+T70	PROCEDIMIENTO 6366 6369	RMC
+T71	PROCEDIMIENTO 6497 6522	tratamiento antiagregante
+T72	PROCEDIMIENTO 6692 6698	Holter
+T73	PROCEDIMIENTO 4052 4085	marcadores de necrosis miocárdica
+T74	PROCEDIMIENTO 2920 2939	Electrocardiogramas
+T75	PROCEDIMIENTO 5719 5750	marcadores de lesión miocárdica
+T76	PROCEDIMIENTO 5998 6023	estatina de alta potencia
+T77	SINTOMA 337 348	cervicalgia
+T78	SINTOMA 484 502	Vértigo periférico
+T79	SINTOMA 638 646	falleció
+T80	SINTOMA 939 1000	dolor torácico opresivo, retroesternal de moderada intensidad
+T81	SINTOMA 1095 1113	cortejo vegetativo
+T82	SINTOMA 1697 1709	asintomática
+T83	SINTOMA 1745 1756	pico febril
+T84	SINTOMA 1856 1913	función sistólica de ventrículo izquierdo (VI) conservada
+T85	SINTOMA 2482 2512	Condiciones generales estables
+T86	SINTOMA 2514 2523	hidratada
+T87	SINTOMA 2525 2533	eupneica
+T88	SINTOMA 2543 2564	ingurgitación yugular
+T89	SINTOMA 2627 2652	ruidos cardíacos rítmicos
+T90	SINTOMA 2673 2679	soplos
+T91	SINTOMA 2682 2687	roces
+T92	SINTOMA 2712 2738	murmullo vesicular audible
+T93	SINTOMA 2772 2806	Extremidades inferiores: no edemas
+T94	SINTOMA 2850 2855	vigil
+T95	SINTOMA 2857 2867	consciente
+T96	SINTOMA 2869 2878	orientada
+T97	SINTOMA 2880 2893	sin focalidad
+T98	SINTOMA 2958 2972	dolor torácico
+T99	SINTOMA 3207 3221	dolor torácico
+T100	SINTOMA 3227 3236	febrícula
+T101	SINTOMA 3280 3314	elevación del ST de 1mm en DI, aVL
+T102	SINTOMA 3316 3347	DII con T negativa en III y aVF
+T103	SINTOMA 3420 3432	QRS estrecho
+T104	SINTOMA 3434 3454	eje eléctrico normal
+T105	SINTOMA 3456 3519	Elevación del ST de 0,5 mm en I, aVL con rectificación inferior
+T106	SINTOMA 3521 3534	Onda Q en aVL
+T107	SINTOMA 3832 3876	Tóxicos en orina: positivo a benzodiazepinas
+T108	SINTOMA 3973 3995	perfil hepático normal
+T109	SINTOMA 4224 4252	índice cardiotorácico normal
+T110	SINTOMA 4296 4339	senos costofrénicos y cardiofrénicos libres
+T111	SINTOMA 4374 4472	VI no dilatado ni hipertrofiado con contractilidad global conservada y alteración de la relajación
+T112	SINTOMA 5235 5259	Función sistólica normal
+T113	SINTOMA 5602 5630	función biventricular normal
+T114	SINTOMA 5636 5677	defectos de la contractilidad segmentaria
+T115	SINTOMA 6079 6104	hemodinámicamente estable
+T116	SINTOMA 6143 6150	afebril
+T117	SINTOMA 6587 6607	molestia epigástrica
+T118	SINTOMA 6633 6646	palpitaciones
+T119	SINTOMA 6705 6740	función ventricular residual normal
+T120	SINTOMA 6774 6854	Función sistólica ventricular izquierda conservada sin alteraciones segmentarias
+T121	SINTOMA 1484 1527	infradesnivel del segmento ST en DIII y AVF
+T122	SINTOMA 1429 1469	supradesnivel inframilimétrico en DI-AVL
+T123	SINTOMA 3024 3055	supradesnivel < 0,5 mm en DI-AV
+T124	SINTOMA 3071 3114	infradesnivel del segmento ST en DIII y AVF
+T125	SINTOMA 4258 4294	alteraciones del parénquima pulmonar
+T126	SINTOMA 4894 4926	Arterias coronarias sin lesiones
+T127	SINTOMA 4590 4621	Cavidades derechas no dilatadas
+T128	SINTOMA 4874 4892	Dominancia derecha
+T129	SINTOMA 2654 2668	tonos apagados
+T130	SINTOMA 431 449	compromiso medular
+T131	FARMACO 719 727	diazepam
+T132	FARMACO 756 770	dexketoprofeno
+T133	FARMACO 5859 5881	ácido acetilsalicílico

@@ -1,0 +1,145 @@
+T1	DISEASE 78 108	Reacción alérgica a sulfamidas
+T2	DISEASE 116 131	hábitos tóxicos
+T3	DISEASE 175 196	hipertensión arterial
+T4	DISEASE 198 201	HTA
+T5	DISEASE 204 230	Carcinosarcoma endometrial
+T6	DISEASE 457 492	Adenocarcinoma de colon infiltrante
+T7	DISEASE 499 514	adenoma tubular
+T8	DISEASE 566 592	Anemia normocítica crónica
+T9	DISEASE 673 688	pólipo colónico
+T10	DISEASE 698 723	hernia inguinal bilateral
+T11	DISEASE 2035 2059	Extrasístole ventricular
+T12	DISEASE 3050 3105	Insuficiencia aórtica ligera sobre válvula degenerativa
+T13	DISEASE 3232 3257	insuficiencia tricuspídea
+T14	DISEASE 3259 3261	IT
+T15	DISEASE 3356 3375	derrame pericárdico
+T16	DISEASE 4118 4137	necrosis miocárdica
+T17	DISEASE 4291 4310	derrame pericárdico
+T18	DISEASE 4334 4351	miocarditis aguda
+T19	DISEASE 4378 4405	edema miocárdico multifocal
+T20	DISEASE 4639 4657	anemia normocítica
+T21	DISEASE 5288 5303	aplasia medular
+T22	DISEASE 5705 5759	síndrome coronario agudo sin elevación del segmento ST
+T23	DISEASE 5761 5768	SCASEST
+T24	DISEASE 5853 5867	coronariopatía
+T25	DISEASE 5979 5985	MINOCA
+T26	DISEASE 5987 6066	infarto agudo de miocardio sin enfermedad coronaria aterosclerótica obstructiva
+T27	DISEASE 6477 6499	taqui o bradiarritmias
+T28	DISEASE 6596 6618	insuficiencia cardiaca
+T29	DISEASE 6719 6743	miocarditis eosinofílica
+T30	DISEASE 7633 7655	insuficiencia cardiaca
+T31	DISEASE 7660 7685	complicaciones arrítmicas
+T32	DISEASE 8013 8043	Miocarditis aguda eosinofílica
+T33	DISEASE 8082 8103	Hipertensión arterial
+T34	DISEASE 8105 8119	Anemia crónica
+T35	DISEASE 8121 8143	Carcinosarcoma uterino
+T36	DISEASE 8165 8188	Adenocarcinoma de colon
+T37	DISEASE 8045 8061	Hipereosinofília
+T38	DISEASE 6654 6670	hipereosinofília
+T39	DISEASE 7250 7266	hipereosinofília
+T40	DISEASE 2285 2314	lesiones ocupantes de espacio
+T41	DISEASE 3428 3464	ventrículo izquierdo con hipertrofia
+T42	DISEASE 2818 2892	ventrículo izquierdo de tamaño normal con hipertrofia concéntrica moderada
+T43	DISEASE 3685 3723	Edema subendocárdico e intramiocárdico
+T44	DISEASE 331 365	Recidiva a nivel de cúpula vaginal
+T45	PROCEDURE 272 295	quimioterapia adyuvante
+T46	PROCEDURE 394 406	radioterapia
+T47	PROCEDURE 409 422	braquiterapia
+T48	PROCEDURE 620 653	histerectomía y doble anexectomía
+T49	PROCEDURE 663 688	resección pólipo colónico
+T50	PROCEDURE 725 743	septoplastia nasal
+T51	PROCEDURE 1199 1217	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 1532 1553	Auscultación cardiaca
+T53	PROCEDURE 1608 1629	Auscultación pulmonar
+T54	PROCEDURE 1858 1876	Electrocardiograma
+T55	PROCEDURE 1878 1881	ECG
+T56	PROCEDURE 2069 2089	Radiografía de tórax
+T57	PROCEDURE 2617 2632	Coronariografía
+T58	PROCEDURE 2667 2683	Ventriculografía
+T59	PROCEDURE 2787 2816	Ecocardiografía transtorácica
+T60	PROCEDURE 3391 3420	Resonancia magnética cardiaca
+T61	PROCEDURE 3422 3425	RMC
+T62	PROCEDURE 4498 4525	Frotis de sangre periférica
+T63	PROCEDURE 4946 4967	Estudios de parásitos
+T64	PROCEDURE 4979 4988	Serología
+T65	PROCEDURE 5041 5064	Aspirado de médula ósea
+T66	PROCEDURE 5264 5286	Biopsia de médula ósea
+T67	PROCEDURE 5379 5382	ECG
+T68	PROCEDURE 5540 5592	determinación en sangre de troponina T ultrasensible
+T69	PROCEDURE 5824 5839	coronariografía
+T70	PROCEDURE 5870 5886	ventriculografía
+T71	PROCEDURE 6347 6378	tratamiento con betabloqueantes
+T72	PROCEDURE 6645 6648	RMC
+T73	PROCEDURE 6987 7001	betabloqueante
+T74	PROCEDURE 7187 7209	biopsia de médula ósea
+T75	PROCEDURE 7351 7364	biopsia de MO
+T76	PROCEDURE 7749 7769	electrocardiográfica
+T77	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T78	PROCEDURE 7327 7340	autoinmunidad
+T79	PROCEDURE 7121 7132	hematología
+T80	PROCEDURE 7691 7720	marcadores de daño miocárdico
+T81	PROCEDURE 4829 4850	Proteínas específicas
+T82	PROCEDURE 2316 2325	Analítica
+T83	PROCEDURE 4733 4760	Fórmula leucocitaria manual
+T84	PROCEDURE 262 269	cirugía
+T85	SYMPTOM 952 1027	disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos
+T86	SYMPTOM 1066 1073	astenia
+T87	SYMPTOM 1076 1087	decaimiento
+T88	SYMPTOM 1120 1134	dolor torácico
+T89	SYMPTOM 1139 1142	tos
+T90	SYMPTOM 1147 1160	expectoración
+T91	SYMPTOM 1165 1171	fiebre
+T92	SYMPTOM 1176 1196	sensación distérmica
+T93	SYMPTOM 1218 1240	Regular estado general
+T94	SYMPTOM 1242 1256	normohidratada
+T95	SYMPTOM 1258 1272	normocoloreada
+T96	SYMPTOM 1274 1292	Eupneica en reposo
+T97	SYMPTOM 1327 1337	Consciente
+T98	SYMPTOM 1339 1348	orientada
+T99	SYMPTOM 1532 1571	Auscultación cardiaca: ruidos regulares
+T100	SYMPTOM 1573 1585	taquicárdica
+T101	SYMPTOM 1591 1597	soplos
+T102	SYMPTOM 1631 1659	hipoventilación generalizada
+T103	SYMPTOM 1665 1675	estertores
+T104	SYMPTOM 1681 1717	edematización en miembros inferiores
+T105	SYMPTOM 1895 1908	ritmo sinusal
+T106	SYMPTOM 1919 1928	PR normal
+T107	SYMPTOM 1930 1942	QRS estrecho
+T108	SYMPTOM 1957 1977	infradesnivel del ST
+T109	SYMPTOM 2196 2228	condensación de espacio alveolar
+T110	SYMPTOM 2230 2279	Silueta mediastínica e hilios pulmonares normales
+T111	SYMPTOM 2667 2690	Ventriculografía normal
+T112	SYMPTOM 2818 2855	ventrículo izquierdo de tamaño normal
+T113	SYMPTOM 2959 2987	función sistólica conservada
+T114	SYMPTOM 3147 3177	Ventrículo derecho no dilatado
+T115	SYMPTOM 3610 3672	función sistólica segmentaria y global dentro de la normalidad
+T116	SYMPTOM 3879 3908	función sistólica conservados
+T117	SYMPTOM 4407 4435	función sistólica conservada
+T118	SYMPTOM 4946 4977	Estudios de parásitos: negativo
+T119	SYMPTOM 5001 5039	positiva para IgG de Toxoplasma gondii
+T120	SYMPTOM 5409 5437	alteraciones del segmento ST
+T121	SYMPTOM 5734 5759	elevación del segmento ST
+T122	SYMPTOM 6170 6178	asténica
+T123	SYMPTOM 6233 6244	eosinofilia
+T124	SYMPTOM 6866 6888	eosinofilia periférica
+T125	SYMPTOM 6899 6939	descenso de la troponina T ultrasensible
+T126	SYMPTOM 7351 7373	biopsia de MO negativa
+T127	SYMPTOM 2907 2952	alteraciones de la contractilidad segmentaria
+T128	SYMPTOM 7327 7349	autoinmunidad negativa
+T129	SYMPTOM 3182 3223	función sistólica dentro de la normalidad
+T130	SYMPTOM 3921 3973	Aurículas y grandes vasos de dimensiones conservadas
+T131	SYMPTOM 4536 4570	anisopoiquilocitosis eritrocitaria
+T132	SYMPTOM 7375 7394	parásitos negativos
+T133	SYMPTOM 1351 1363	colaboradora
+T134	SYMPTOM 2156 2180	condensaciones nodulares
+T135	SYMPTOM 2634 2665	coronarias epicárdicas normales
+T136	SYMPTOM 7528 7535	estable
+T137	SYMPTOM 1369 1390	focalidad neurológica
+T138	SYMPTOM 2091 2115	pulmones hiperventilados
+T139	SYMPTOM 5210 5262	médula ósea con abundante grumo vacío de celularidad
+T140	MEDICATION 297 307	cisplatino
+T141	MEDICATION 310 320	ifosfamida
+T142	MEDICATION 767 794	enalapril/hidroclorotiazida
+T143	MEDICATION 811 820	lorazepam
+T144	MEDICATION 6772 6782	prednisona
+T145	MEDICATION 7863 7873	prednisona

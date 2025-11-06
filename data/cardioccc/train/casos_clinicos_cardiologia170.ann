@@ -1,0 +1,139 @@
+T1	DISEASE 24 76	Alergia a las sulfamidas y al ácido acetilsalicílico
+T2	DISEASE 113 123	dislipemia
+T3	DISEASE 156 173	diabetes mellitus
+T4	DISEASE 178 199	hipertensión arterial
+T5	DISEASE 201 204	HTA
+T6	DISEASE 250 273	estenosis aórtica grave
+T7	DISEASE 519 533	Asma bronquial
+T8	DISEASE 575 592	Trombosis macular
+T9	DISEASE 595 627	desprendimiento de vítreo en ojo
+T10	DISEASE 664 720	Rotura de pelvis en agosto 2017 (isquion derecha y coxis
+T11	DISEASE 855 882	fractura de cuello de fémur
+T12	DISEASE 2225 2250	trombosis venosa profunda
+T13	DISEASE 2252 2255	TVP
+T14	DISEASE 2751 2764	cardiomegalia
+T15	DISEASE 2766 2791	Derrame pleural bilateral
+T16	DISEASE 3214 3310	Válvula mitral fibrocalcificada sobre todo a nivel posterior con regurgitación al menos moderada
+T17	DISEASE 3469 3488	derrame pericárdico
+T18	DISEASE 3708 3723	Estenosis grave
+T19	DISEASE 3783 3812	Insuficiencia mitral moderada
+T20	DISEASE 4034 4055	edema agudo de pulmón
+T21	DISEASE 4173 4275	estenosis e insuficiencia aórtica graves secundaria a disfunción de prótesis valvular aórtica mecánica
+T22	DISEASE 4413 4447	trombosis protésica aguda-subaguda
+T23	DISEASE 4762 4780	shock cardiogénico
+T24	DISEASE 5429 5452	fibrilación ventricular
+T25	DISEASE 5900 5918	shock cardiogénico
+T26	DISEASE 5994 6015	fracaso multiorgánico
+T27	DISEASE 6054 6076	Insuficiencia cardiaca
+T28	DISEASE 6093 6111	edema agudo pulmón
+T29	DISEASE 6113 6193	Trombosis aguda de prótesis aórtica mecánica con estenosis e insuficiencia grave
+T30	DISEASE 6330 6360	Shock cardiogénico refractario
+T31	DISEASE 6380 6401	Fracaso multiorgánico
+T32	DISEASE 2629 2669	Bloqueo de rama izquierda del haz de His
+T33	DISEASE 3414 3425	IT moderada
+T34	DISEASE 5666 5706	disfunción de ventrículo izquierdo grave
+T35	DISEASE 210 225	hábitos tóxicos
+T36	DISEASE 733 755	Fracturaacuñamiento L1
+T37	DISEASE 2671 2676	BRIHH
+T38	DISEASE 2830 2842	edema pulmón
+T39	DISEASE 2881 2917	ventrículo izquierdo con hipertrofia
+T40	DISEASE 3762 3781	insuficiencia grave
+T41	DISEASE 3814 3869	Ventrículo izquierdo (VI) no dilatado, hipertrofia leve
+T42	DISEASE 4896 4978	prótesis aórtica St Jude no 19 bloqueada por la presencia de dos pequeños coágulos
+T43	PROCEDURE 298 323	recambio valvular aórtico
+T44	PROCEDURE 405 420	ecocardiografía
+T45	PROCEDURE 595 654	desprendimiento de vítreo en ojo derecho, tratado con láser
+T46	PROCEDURE 793 837	recambio de prótesis total de cadera derecha
+T47	PROCEDURE 1064 1084	cirugía de la cadera
+T48	PROCEDURE 1089 1140	terapia puente con heparinas de bajo peso molecular
+T49	PROCEDURE 1481 1511	recambio de prótesis de cadera
+T50	PROCEDURE 1635 1670	oxigenoterapia por VentiMask al 35%
+T51	PROCEDURE 1829 1850	Auscultación cardiaca
+T52	PROCEDURE 1976 1997	Auscultación pulmonar
+T53	PROCEDURE 2579 2597	Electrocardiograma
+T54	PROCEDURE 2599 2602	ECG
+T55	PROCEDURE 2693 2696	ECG
+T56	PROCEDURE 2729 2749	Radiografía de tórax
+T57	PROCEDURE 2844 2873	Ecocardiografía transtorácico
+T58	PROCEDURE 2875 2878	ETT
+T59	PROCEDURE 3535 3564	Ecocardiograma transesofágico
+T60	PROCEDURE 4068 4071	ETT
+T61	PROCEDURE 4362 4377	anticoagulación
+T62	PROCEDURE 4507 4510	ETE
+T63	PROCEDURE 4579 4602	diuréticos intravenosos
+T64	PROCEDURE 4710 4728	soporte vasoactivo
+T65	PROCEDURE 5062 5151	ampliación del anillo con parche de pericardio en velo no coronariano hacia anillo mitral
+T66	PROCEDURE 5163 5208	implantar prótesis biológica Magna Ease no 19
+T67	PROCEDURE 5392 5406	marcapasos VVI
+T68	PROCEDURE 5475 5489	desfibrilación
+T69	PROCEDURE 5531 5612	implante de balón de contrapulsación intraaórtico (BCIAo) por vía femoral derecha
+T70	PROCEDURE 5731 5825	implante de oxigenador extracorpóreo de membrana (ECMO) venoarterial periférica femoro-femoral
+T71	PROCEDURE 6228 6243	anticoagulación
+T72	PROCEDURE 6249 6266	cirugía de cadera
+T73	PROCEDURE 6362 6378	Implante de ECMO
+T74	PROCEDURE 5512 5528	reentrada en CEC
+T75	PROCEDURE 2532 2543	Coagulación
+T76	PROCEDURE 1514 1532	EXPLORACIÓN FÍSICA
+T77	PROCEDURE 2425 2434	Hemograma
+T78	PROCEDURE 2294 2304	bioquímica
+T79	PROCEDURE 5224 5264	retirada de la circulación extracorpórea
+T80	PROCEDURE 38 48	sulfamidas
+T81	PROCEDURE 5016 5039	Se explanta la prótesis
+T82	PROCEDURE 6268 6328	Recambio valvular aórtico con implante de prótesis biológica
+T83	PROCEDURE 2283 2292	Analítica
+T84	PROCEDURE 765 791	Intervenciones quirúrgicas
+T85	PROCEDURE 4791 4827	cirugía de recambio valvular aórtico
+T86	PROCEDURE 344 397	implante de prótesis aórtica mecánica St. Jude No 19.
+T87	PROCEDURE 3058 3095	Prótesis valvular en posición aórtica
+T88	PROCEDURE 4850 4857	cirugía
+T89	PROCEDURE 5314 5389	aporte vasoactivo a dosis elevadas (noradrenalina, dobutamina y adrenalina)
+T90	SYMPTOM 1276 1282	disnea
+T91	SYMPTOM 1340 1373	cuadro respiratorio de vías altas
+T92	SYMPTOM 1379 1382	tos
+T93	SYMPTOM 1399 1412	expectoración
+T94	SYMPTOM 1720 1730	Consciente
+T95	SYMPTOM 1732 1741	orientada
+T96	SYMPTOM 1744 1756	colaboradora
+T97	SYMPTOM 1758 1785	Bien hidratada y perfundida
+T98	SYMPTOM 1787 1807	Taquipneica al habla
+T99	SYMPTOM 1852 1877	ritmos cardiacos rítmicos
+T100	SYMPTOM 1879 1903	click metálico protésico
+T101	SYMPTOM 1908 1923	soplo sistólico
+T102	SYMPTOM 1934 1964	soplo sistólico en foco mitral
+T103	SYMPTOM 1999 2018	crepitantes gruesos
+T104	SYMPTOM 2040 2083	Abdomen: blando, no doloroso a la palpación
+T105	SYMPTOM 2094 2099	masas
+T106	SYMPTOM 2103 2110	megalia
+T107	SYMPTOM 2112 2134	peristalsis conservada
+T108	SYMPTOM 2136 2152	Percusión normal
+T109	SYMPTOM 2179 2210	edemas con fóvea hasta rodillas
+T110	SYMPTOM 2605 2618	ritmo sinusal
+T111	SYMPTOM 2945 2972	movimiento de septo anómalo
+T112	SYMPTOM 3871 3909	función sistólica moderadamente afecta
+T113	SYMPTOM 4664 4691	hemodinámicamente inestable
+T114	SYMPTOM 6017 6028	falleciendo
+T115	SYMPTOM 471 486	FEVI conservada
+T116	SYMPTOM 2977 2992	acinesia septal
+T117	SYMPTOM 2995 3040	función sistólica global moderadamente afecta
+T118	SYMPTOM 4095 4168	fracción de eyección del ventrículo izquierdo (FEVI) moderadamente afecta
+T119	SYMPTOM 6403 6409	Muerte
+T120	SYMPTOM 3357 3392	Cavidades derechas de tamaño normal
+T121	SYMPTOM 3911 3965	Ventrículo derecho (VD) no dilatado con función normal
+T122	SYMPTOM 1812 1827	tolera decúbito
+T123	SYMPTOM 3088 3141	aórtica que se visualiza mal, con regurgitación grave
+T124	SYMPTOM 3566 3640	prótesis metálica en posición aórtica con movilidad de discos muy reducida
+T125	SYMPTOM 3653 3706	material de baja densidad ecogénica a nivel de discos
+T126	SYMPTOM 3814 3851	Ventrículo izquierdo (VI) no dilatado
+T127	MEDICATION 54 76	ácido acetilsalicílico
+T128	MEDICATION 911 920	omeprazol
+T129	MEDICATION 936 945	enalapril
+T130	MEDICATION 989 1002	atorvastatina
+T131	MEDICATION 1018 1030	acenocumarol
+T132	MEDICATION 1108 1140	heparinas de bajo peso molecular
+T133	MEDICATION 1149 1160	enoxaparina
+T134	MEDICATION 1434 1446	azitromicina
+T135	MEDICATION 5350 5363	noradrenalina
+T136	MEDICATION 5365 5375	dobutamina
+T137	MEDICATION 5378 5388	adrenalina
+T138	MEDICATION 961 968	ecomcor
+#1	AnnotatorNotes T33	 IT insuficiencia tricuspídea

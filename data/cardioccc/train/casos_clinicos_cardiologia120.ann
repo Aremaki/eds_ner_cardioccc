@@ -1,0 +1,84 @@
+T1	DISEASE 281 302	Hipertensión arterial
+T2	DISEASE 304 328	diabetes mellitus tipo 2
+T3	DISEASE 453 479	hiperreactividad bronquial
+T4	DISEASE 1892 1921	Fibrilación auricular con RVR
+T5	DISEASE 2300 2357	Válvula Mitral reumática engrosada con anillo calcificado
+T6	DISEASE 2552 2601	Aneurisma de la fosa oval con CIA ostium secundum
+T7	DISEASE 3139 3170	aterosclerosis coronaria difusa
+T8	DISEASE 3175 3194	lesiones coronarias
+T9	DISEASE 3211 3267	Válvula mitral calcificada con estenosis moderada-severa
+T10	DISEASE 3461 3500	HTP moderada mixta pasiva hiperdinámica
+T11	DISEASE 3731 3753	estenosis mitral grave
+T12	DISEASE 3858 3892	Estenosis aórtica severa reumática
+T13	DISEASE 3946 3969	Síndrome de Lutembacher
+T14	DISEASE 3361 3376	CIA restrictiva
+T15	DISEASE 3838 3841	CIA
+T16	DISEASE 2655 2686	Llenado mitral estenótico en FA
+T17	DISEASE 2718 2725	IT leve
+T18	DISEASE 336 351	hábitos tóxicos
+T19	DISEASE 3895 3943	Comunicación interauricular tipo ostium secundum
+T20	DISEASE 2036 2074	dilatación de AD y arterias pulmonares
+T21	DISEASE 3434 3451	cortocircuito I-D
+T22	DISEASE 2260 2288	Cavidades derechas dilatadas
+T23	PROCEDURE 155 173	exploración física
+T24	PROCEDURE 628 655	broncodilatadores inhalados
+T25	PROCEDURE 1685 1694	Hemograma
+T26	PROCEDURE 1872 1890	Electrocardiograma
+T27	PROCEDURE 1986 1997	Rx de tórax
+T28	PROCEDURE 2200 2228	Ecocardiograma transtorácico
+T29	PROCEDURE 2646 2653	Doppler
+T30	PROCEDURE 3104 3124	cateterismo cardiaco
+T31	PROCEDURE 3532 3544	Test oclusor
+T32	PROCEDURE 3801 3825	recambio valvular mitral
+T33	PROCEDURE 3828 3841	cierre de CIA
+T34	PROCEDURE 2954 2971	manejo deplectivo
+T35	PROCEDURE 2229 2258	ecocardiograma transesofágico
+T36	PROCEDURE 1765 1775	Bioquímica
+T37	PROCEDURE 1189 1200	Exploración
+T38	SYMPTOM 56 87	palpitación precordial continua
+T39	SYMPTOM 102 118	disnea en reposo
+T40	SYMPTOM 195 201	disnea
+T41	SYMPTOM 516 524	Ortopnea
+T42	SYMPTOM 774 794	palpitación torácica
+T43	SYMPTOM 796 823	disnea de mínimos esfuerzos
+T44	SYMPTOM 845 853	ortopnea
+T45	SYMPTOM 897 933	edematización de miembros inferiores
+T46	SYMPTOM 935 942	astenia
+T47	SYMPTOM 945 953	adinamia
+T48	SYMPTOM 961 981	síntomas infecciosos
+T49	SYMPTOM 1016 1030	dolor torácico
+T50	SYMPTOM 1076 1107	palpitación precordial continua
+T51	SYMPTOM 1122 1138	disnea en reposo
+T52	SYMPTOM 1213 1223	Consciente
+T53	SYMPTOM 1225 1234	orientada
+T54	SYMPTOM 1335 1356	Ingurgitación yugular
+T55	SYMPTOM 1370 1412	Tonos cardiacos taquicárdicos y arrítmicos
+T56	SYMPTOM 1414 1449	desdoblamiento fijo de segundo tono
+T57	SYMPTOM 1451 1472	Chasquido de apertura
+T58	SYMPTOM 1474 1516	Murmullo vescicular difusamente disminuido
+T59	SYMPTOM 1521 1544	sibilantes espiratorios
+T60	SYMPTOM 1547 1589	estertores crepitantes hasta campos medios
+T61	SYMPTOM 1591 1656	Edemas de miembros inferiores hasta tercio medio de ambas piernas
+T62	SYMPTOM 1949 1982	alteraciones de la repolarización
+T63	SYMPTOM 1999 2031	Índice cardio-torácico aumentado
+T64	SYMPTOM 2076 2097	botón aórtico pequeño
+T65	SYMPTOM 2099 2134	Aumento de presión capilar pulmonar
+T66	SYMPTOM 2612 2642	Cavas y suprahepática normales
+T67	SYMPTOM 3000 3013	ritmo sinusal
+T68	SYMPTOM 3085 3091	disnea
+T69	SYMPTOM 3515 3530	FEVI conservada
+T70	SYMPTOM 1236 1244	reactiva
+T71	SYMPTOM 3502 3513	IC reducido
+T72	SYMPTOM 2136 2169	Parénquima pulmonar sin hallazgos
+T73	SYMPTOM 1933 1943	eje normal
+T74	SYMPTOM 1246 1256	perceptiva
+T75	SYMPTOM 2300 2377	Válvula Mitral reumática engrosada con anillo calcificado y apertura reducida
+T76	SYMPTOM 2407 2442	Válvula aórtica con apertura normal
+T77	SYMPTOM 2444 2520	Ventrículo izquierdo de geometría y volumen normal con contracción homogénea
+T78	SYMPTOM 3560 3613	incremento significativo en la presión media de la AI
+T79	SYMPTOM 3618 3657	aumento de los gradientes transmitrales
+T80	SYMPTOM 3660 3701	incremento de la presión de enclavamiento
+T81	MEDICATION 586 596	Metformina
+T82	MEDICATION 598 607	enalapril
+T83	MEDICATION 609 626	hidroclorotiazida
+#1	AnnotatorNotes T14	 CIA: comunicación interauricular

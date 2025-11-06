@@ -1,0 +1,102 @@
+T1	ENFERMEDAD 2578 2629	Válvula aórtica trivalva con ligera fibroesclerosis
+T2	ENFERMEDAD 81 104	alergias medicamentosas
+T3	ENFERMEDAD 116 125	Exfumador
+T4	ENFERMEDAD 192 213	hipertensión arterial
+T5	ENFERMEDAD 215 225	dislipemia
+T6	ENFERMEDAD 230 247	diabetes mellitus
+T7	ENFERMEDAD 959 987	traumatismo craneoencefálico
+T8	ENFERMEDAD 2869 2894	Insuficiencia tricuspídea
+T9	ENFERMEDAD 2946 2965	derrame pericárdico
+T10	ENFERMEDAD 3616 3642	anomalía coronaria maligna
+T11	ENFERMEDAD 3847 3903	estenosis no significativa de carótida interna izquierda
+T12	ENFERMEDAD 3905 3959	Estenosis no significativa de carótida externa derecha
+T13	ENFERMEDAD 4094 4115	cardiopatía isquémica
+T14	ENFERMEDAD 5249 5275	anomalía coronaria maligna
+T15	ENFERMEDAD 6033 6059	anomalía coronaria maligna
+T16	ENFERMEDAD 146 155	Exbebedor
+T17	ENFERMEDAD 3324 3377	anomalía en la salida de la arteria coronaria derecha
+T18	ENFERMEDAD 4920 4970	nacimiento anómalo de la arteria coronaria derecha
+T19	ENFERMEDAD 6064 6130	nacimiento de arteria coronaria derecha del tronco común izquierdo
+T20	ENFERMEDAD 4756 4798	anomalía del nacimiento de dicha coronaria
+T21	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T22	PROCEDIMIENTO 342 371	test de detección de isquemia
+T23	PROCEDIMIENTO 1521 1539	Exploración física
+T24	PROCEDIMIENTO 1722 1734	auscultación
+T25	PROCEDIMIENTO 1886 1904	Electrocardiograma
+T26	PROCEDIMIENTO 2086 2091	iones
+T27	PROCEDIMIENTO 2102 2111	Hemograma
+T28	PROCEDIMIENTO 2207 2227	Radiografía de tórax
+T29	PROCEDIMIENTO 2331 2360	Ecocardiografía transtorácica
+T30	PROCEDIMIENTO 2967 2987	Cateterismo cardiaco
+T31	PROCEDIMIENTO 3223 3234	aortografía
+T32	PROCEDIMIENTO 3303 3322	Angio-TAC coronario
+T33	PROCEDIMIENTO 3803 3845	Ecografía Doppler de troncos supraaórticos
+T34	PROCEDIMIENTO 4158 4198	test de detección de isquemia intermedia
+T35	PROCEDIMIENTO 4256 4274	prueba de esfuerzo
+T36	PROCEDIMIENTO 4428 4431	ECG
+T37	PROCEDIMIENTO 4514 4537	coronariografía directa
+T38	PROCEDIMIENTO 4555 4565	ergometría
+T39	PROCEDIMIENTO 4581 4592	cateterismo
+T40	PROCEDIMIENTO 4838 4857	angio-TAC coronario
+T41	PROCEDIMIENTO 5495 5578	disección y reanostomosis de la arteria coronaria derecha al seno coronario derecho
+T42	PROCEDIMIENTO 6160 6227	reanastomosis de arteria coronaria derecha a seno coronario aórtico
+T43	PROCEDIMIENTO 2045 2055	bioquímica
+T44	PROCEDIMIENTO 2034 2043	Analítica
+T45	PROCEDIMIENTO 383 409	Intervenciones quirúrgicas
+T46	PROCEDIMIENTO 6132 6155	Intervención quirúrgica
+T47	PROCEDIMIENTO 5443 5455	intervención
+T48	PROCEDIMIENTO 419 435	apendicetomizado
+T49	PROCEDIMIENTO 2149 2181	Seriación de fermentos cardiacos
+T50	SINTOMA 308 325	dolores torácicos
+T51	SINTOMA 660 738	dolor centrotorácico opresivo, irradiado a hombro y miembro superior izquierdo
+T52	SINTOMA 744 762	cortejo vegetativo
+T53	SINTOMA 826 831	dolor
+T54	SINTOMA 898 921	pérdida de conocimiento
+T55	SINTOMA 943 952	pródromos
+T56	SINTOMA 1215 1235	dolor centrotorácico
+T57	SINTOMA 1348 1356	ortopnea
+T58	SINTOMA 1373 1400	disnea paroxística nocturna
+T59	SINTOMA 1418 1438	episodios sincopales
+T60	SINTOMA 1461 1475	dolor torácico
+T61	SINTOMA 1562 1581	buen estado general
+T62	SINTOMA 1583 1610	Bien hidratado y perfundido
+T63	SINTOMA 1612 1630	Eupneico en reposo
+T64	SINTOMA 1633 1651	tolerando decúbito
+T65	SINTOMA 1653 1660	Afebril
+T66	SINTOMA 1663 1688	estable hemodinámicamente
+T67	SINTOMA 1722 1750	auscultación, tonos rítmicos
+T68	SINTOMA 1756 1762	soplos
+T69	SINTOMA 1764 1793	Murmullo vesicular conservado
+T70	SINTOMA 1805 1825	ruidos sobreañadidos
+T71	SINTOMA 1906 1919	ritmo sinusal
+T72	SINTOMA 1955 1967	QRS estrecho
+T73	SINTOMA 1969 1998	segmento ST rectificado en V6
+T74	SINTOMA 2060 2100	función renal, glucemia e iones en rango
+T75	SINTOMA 2102 2147	Hemograma con valores dentro de la normalidad
+T76	SINTOMA 2149 2205	Seriación de fermentos cardiacos dentro de la normalidad
+T77	SINTOMA 2229 2257	índice cardiotorácico normal
+T78	SINTOMA 2274 2301	condensación parenquimatosa
+T79	SINTOMA 2362 2404	aurícula izquierda de dimensiones normales
+T80	SINTOMA 2703 2733	Válvula mitral con velos finos
+T81	SINTOMA 2989 3028	tronco coronario izquierdo sin lesiones
+T82	SINTOMA 3085 3117	Arteria circunfleja sin lesiones
+T83	SINTOMA 4034 4048	dolor torácico
+T84	SINTOMA 4318 4332	dolor torácico
+T85	SINTOMA 4350 4385	cifras elevadas de tensión arterial
+T86	SINTOMA 4476 4481	dolor
+T87	SINTOMA 4598 4630	coronaria izquierda sin lesiones
+T88	SINTOMA 5775 5789	dolor torácico
+T89	SINTOMA 5941 5953	asintomático
+T90	SINTOMA 5995 6009	Dolor torácico
+T91	SINTOMA 342 381	test de detección de isquemia negativos
+T92	SINTOMA 2303 2329	senos costofrénicos libres
+T93	SINTOMA 2406 2438	Ventrículo izquierdo no dilatado
+T94	SINTOMA 2440 2464	grosor miocárdico normal
+T95	SINTOMA 2483 2529	alteraciones segmentarias de la contractilidad
+T96	SINTOMA 2677 2701	Raíz aórtica no dilatada
+T97	SINTOMA 3030 3062	Arteria descendente sin lesiones
+T98	SINTOMA 2792 2853	Cavidades derechas no dilatadas, función sistólica conservada
+T99	SINTOMA 878 893	desvanecimiento
+T100	SINTOMA 1930 1940	eje normal
+T101	FARMACO 459 471	simvastatina
+T102	FARMACO 490 499	enalapril

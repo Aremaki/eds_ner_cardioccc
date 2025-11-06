@@ -1,0 +1,123 @@
+T1	ENFERMEDAD 145 155	dislipemia
+T2	ENFERMEDAD 157 180	esofagitis eosinofílica
+T3	ENFERMEDAD 226 274	quiste de Tarlov con compresión de raíces sacras
+T4	ENFERMEDAD 314 335	cardiopatía isquémica
+T5	ENFERMEDAD 506 526	enfermedad coronaria
+T6	ENFERMEDAD 587 638	enfermedad grave de circunfleja y coronaria derecha
+T7	ENFERMEDAD 802 812	bronquitis
+T8	ENFERMEDAD 1212 1266	síndrome coronario agudo con elevación del segmento ST
+T9	ENFERMEDAD 1268 1275	SCACEST
+T10	ENFERMEDAD 1615 1632	disección aórtica
+T11	ENFERMEDAD 1953 1969	erupción cutánea
+T12	ENFERMEDAD 2181 2199	shock anafiláctico
+T13	ENFERMEDAD 2238 2256	síndrome de Kounis
+T14	ENFERMEDAD 2258 2260	SK
+T15	ENFERMEDAD 2263 2280	espasmo coronario
+T16	ENFERMEDAD 2299 2316	reacción alérgica
+T17	ENFERMEDAD 2774 2799	trombosis venosa profunda
+T18	ENFERMEDAD 3804 3829	Insuficiencia tricuspídea
+T19	ENFERMEDAD 3983 4002	derrame pericárdico
+T20	ENFERMEDAD 4202 4219	disección aórtica
+T21	ENFERMEDAD 4596 4622	infarto agudo de miocardio
+T22	ENFERMEDAD 4624 4627	IAM
+T23	ENFERMEDAD 4821 4839	Shock anafiláctico
+T24	ENFERMEDAD 4868 4886	Síndrome de Kounis
+T25	ENFERMEDAD 4888 4917	Cardiopatía isquémica crónica
+T26	ENFERMEDAD 3831 3833	IT
+T27	ENFERMEDAD 433 441	isquemia
+T28	ENFERMEDAD 109 126	tabaquismo activo
+T29	ENFERMEDAD 4533 4549	hiperreactividad
+T30	PROCEDIMIENTO 185 222	tratamiento con corticoides inhalados
+T31	PROCEDIMIENTO 425 441	test de isquemia
+T32	PROCEDIMIENTO 481 494	TAC coronario
+T33	PROCEDIMIENTO 553 568	coronariografía
+T34	PROCEDIMIENTO 653 718	intervención coronaria percutánea (ICP) con stents farmacoactivos
+T35	PROCEDIMIENTO 1080 1098	electrocardiograma
+T36	PROCEDIMIENTO 1100 1103	ECG
+T37	PROCEDIMIENTO 1179 1192	fluidoterapia
+T38	PROCEDIMIENTO 1438 1491	tratamiento con expansores del plasma y con inotropos
+T39	PROCEDIMIENTO 1496 1511	coronariografía
+T40	PROCEDIMIENTO 1634 1650	Ventriculografía
+T41	PROCEDIMIENTO 1761 1764	ECG
+T42	PROCEDIMIENTO 2034 2052	soporte inotrópico
+T43	PROCEDIMIENTO 2320 2338	EXPLORACIÓN FÍSICA
+T44	PROCEDIMIENTO 2455 2476	Auscultación cardiaca
+T45	PROCEDIMIENTO 2543 2564	Auscultación pulmonar
+T46	PROCEDIMIENTO 2630 2639	palpación
+T47	PROCEDIMIENTO 3006 3026	RADIOGRAFÍA DE TÓRAX
+T48	PROCEDIMIENTO 3054 3057	ECG
+T49	PROCEDIMIENTO 3158 3161	ECG
+T50	PROCEDIMIENTO 3254 3268	ECOCARDIOGRAMA
+T51	PROCEDIMIENTO 4054 4069	CORONARIOGRAFÍA
+T52	PROCEDIMIENTO 4414 4428	ecocardiograma
+T53	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T54	PROCEDIMIENTO 688 691	ICP
+T55	PROCEDIMIENTO 1308 1311	ICP
+T56	PROCEDIMIENTO 2826 2835	ANALÍTICA
+T57	PROCEDIMIENTO 4649 4663	betabloqueante
+T58	PROCEDIMIENTO 2108 2134	seriación de biomarcadores
+T59	SINTOMA 378 392	dolor torácico
+T60	SINTOMA 425 462	test de isquemia que resultó negativo
+T61	SINTOMA 826 839	disnea brusca
+T62	SINTOMA 844 864	prurito generalizado
+T63	SINTOMA 867 915	opresión torácica irradiada a ambas extremidades
+T64	SINTOMA 989 1007	mal estado general
+T65	SINTOMA 1105 1120	ondas T picudas
+T66	SINTOMA 1125 1146	elevación del punto J
+T67	SINTOMA 1241 1266	elevación del segmento ST
+T68	SINTOMA 1413 1424	somnolienta
+T69	SINTOMA 1726 1741	eritema cutáneo
+T70	SINTOMA 1840 1889	aplanamiento de las ondas T en cara anterolateral
+T71	SINTOMA 2061 2085	elevación de troponina I
+T72	SINTOMA 2395 2405	Consciente
+T73	SINTOMA 2408 2417	orientada
+T74	SINTOMA 2419 2437	congestión cutánea
+T75	SINTOMA 2439 2453	normohidratada
+T76	SINTOMA 2478 2503	ruidos cardiacos rítmicos
+T77	SINTOMA 2509 2515	soplos
+T78	SINTOMA 2520 2541	ingurgitación yugular
+T79	SINTOMA 2616 2639	doloroso a la palpación
+T80	SINTOMA 2644 2649	masas
+T81	SINTOMA 2653 2661	megalias
+T82	SINTOMA 2676 2697	irritación peritoneal
+T83	SINTOMA 2699 2723	Peristaltismo conservado
+T84	SINTOMA 2725 2760	Extremidades inferiores: sin edemas
+T85	SINTOMA 3065 3078	ritmo sinusal
+T86	SINTOMA 3089 3108	ondas T hiperagudas
+T87	SINTOMA 3113 3134	elevación del punto J
+T88	SINTOMA 3171 3184	ritmo sinusal
+T89	SINTOMA 3230 3252	ST rectilíneo en V5-V6
+T90	SINTOMA 3270 3337	ventrículo izquierdo (VI) de dimensiones y grosor parietal normales
+T91	SINTOMA 3339 3370	Función sistólica global normal
+T92	SINTOMA 3422 3446	Patrón diastólico normal
+T93	SINTOMA 3448 3490	Aurícula izquierda de dimensiones normales
+T94	SINTOMA 3492 3519	Cavidades derechas normales
+T95	SINTOMA 4008 4029	masas intracavitarias
+T96	SINTOMA 4221 4256	Buena función ventricular izquierda
+T97	SINTOMA 4414 4476	ecocardiograma de control que muestra función sistólica normal
+T98	SINTOMA 4566 4590	función sistólica normal
+T99	SINTOMA 936 953	episodio sincopal
+T100	SINTOMA 2584 2639	Abdomen: blando, depresible, no doloroso a la palpación
+T101	SINTOMA 3376 3420	asimetrías segmentarias de la contractilidad
+T102	SINTOMA 2543 2582	Auscultación pulmonar: normoventilación
+T103	SINTOMA 3211 3228	T negativa en III
+T104	SINTOMA 3521 3560	ventrículo derecho (VD) normocontráctil
+T105	SINTOMA 3843 3879	Vena cava inferior (VCI) no dilatada
+T106	SINTOMA 3911 3969	Presión arterial pulmonar sistólica (PAPs) estimada normal
+T107	SINTOMA 4750 4762	Asintomática
+T108	SINTOMA 3006 3041	RADIOGRAFÍA DE TÓRAX: sin hallazgos
+T109	SINTOMA 4919 4980	arterias coronarias sin lesiones angiográficas significativas
+T110	SINTOMA 4373 4385	asintomática
+T111	SINTOMA 4364 4371	estable
+T112	SINTOMA 4765 4772	estable
+T113	SINTOMA 4071 4110	árbol coronario sin lesiones de interés
+T114	SINTOMA 1634 1680	Ventriculografía sin alteraciones segmentarias
+T115	SINTOMA 1687 1704	mitral competente
+T116	SINTOMA 4294 4311	mitral competente
+T117	FARMACO 774 787	moxifloxacino
+T118	FARMACO 1175 1177	O2
+T119	FARMACO 2213 2226	moxifloxacino
+T120	FARMACO 4853 4866	moxifloxacino
+#1	AnnotatorNotes T14	  Síndrome de Kounis
+#2	AnnotatorNotes T26	  Insuficiencia tricuspídea
+#3	AnnotatorNotes T55	  intervención coronaria percutánea

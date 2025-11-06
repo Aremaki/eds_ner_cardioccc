@@ -1,0 +1,65 @@
+T1	DISEASE 1926 1969	taquicardia con doble vía nodal anterógrada
+T2	DISEASE 1139 1180	disfunción ventricular izquierda moderada
+T3	DISEASE 1273 1305	Insuficencia mitral y tricúspide
+T4	DISEASE 1364 1383	taquimiocardiopatía
+T5	DISEASE 1837 1884	bloqueo completo de rama derecha del haz de His
+T6	DISEASE 2110 2132	insuficiencia cardiaca
+T7	DISEASE 2363 2385	insuficiencia cardiaca
+T8	DISEASE 2741 2777	taquicardia intranodal no reentrante
+T9	DISEASE 2971 3014	Taquicardia por doble vía nodal anterógrada
+T10	DISEASE 3025 3044	taquimiocardiopatía
+T11	DISEASE 1886 1892	BCRDHH
+T12	DISEASE 654 663	arrítmica
+T13	DISEASE 2260 2286	disfunción sistólica grave
+T14	DISEASE 1193 1232	disfunción ligera de ventrículo derecho
+T15	DISEASE 1234 1271	Dilatación leve de aurícula izquierda
+T16	DISEASE 1465 1492	taquicardia de QRS estrecho
+T17	DISEASE 2653 2703	lesiones significativas en las arterias coronarias
+T18	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T19	PROCEDURE 425 443	Exploración física
+T20	PROCEDURE 625 652	Auscultación cardiopulmonar
+T21	PROCEDURE 810 813	ECG
+T22	PROCEDURE 815 835	RADIOGRAFÍA DE TÓRAX
+T23	PROCEDURE 969 978	hemograma
+T24	PROCEDURE 1547 1564	maniobras vagales
+T25	PROCEDURE 1648 1651	ECG
+T26	PROCEDURE 1681 1684	ECG
+T27	PROCEDURE 1793 1796	ECG
+T28	PROCEDURE 1994 2020	estudio electrofisiológico
+T29	PROCEDURE 2144 2166	tratamiento deplectivo
+T30	PROCEDURE 2194 2208	ecocardiograma
+T31	PROCEDURE 2599 2639	tomografía computarizada (TAC) coronaria
+T32	PROCEDURE 2729 2777	ablación de taquicardia intranodal no reentrante
+T33	PROCEDURE 2853 2867	ecocardiograma
+T34	PROCEDURE 987 997	Bioquímica
+T35	PROCEDURE 782 808	ESTUDIO ELECTROFISIOLÓGICO
+T36	PROCEDURE 1015 1020	iones
+T37	PROCEDURE 1109 1136	E C O C A R D I O G R A M A
+T38	PROCEDURE 2625 2628	TAC
+T39	PROCEDURE 958 967	ANALÍTICA
+T40	SYMPTOM 225 242	disnea progresiva
+T41	SYMPTOM 310 323	palpitaciones
+T42	SYMPTOM 549 559	Consciente
+T43	SYMPTOM 561 570	orientada
+T44	SYMPTOM 572 590	eupneica en reposo
+T45	SYMPTOM 595 623	ingurgitación venosa yugular
+T46	SYMPTOM 665 677	taquicárdica
+T47	SYMPTOM 683 689	soplos
+T48	SYMPTOM 691 712	Crepitantes bibasales
+T49	SYMPTOM 726 755	edemas en miembros inferiores
+T50	SYMPTOM 930 956	senos costofrénicos libres
+T51	SYMPTOM 969 985	hemograma normal
+T52	SYMPTOM 987 1029	Bioquímica con creatinina e iones normales
+T53	SYMPTOM 1315 1347	Presión arterial pulmonar normal
+T54	SYMPTOM 1591 1602	taquicardia
+T55	SYMPTOM 2223 2255	ventrículo izquierdo no dilatado
+T56	SYMPTOM 1406 1419	ritmo sinusal
+T57	SYMPTOM 837 893	índice cardiotorácico en el límite alto de la normalidad
+T58	SYMPTOM 2291 2310	hipoquinesia global
+T59	SYMPTOM 2944 2956	asintomática
+T60	SYMPTOM 2390 2419	fracción de eyección reducida
+T61	SYMPTOM 895 928	signos de redistribución vascular
+T62	SYMPTOM 1717 1767	onda p por cada dos QRS con un intervalo constante
+T63	MEDICATION 2436 2445	enalapril
+T64	MEDICATION 2471 2481	bisoprolol
+T65	MEDICATION 2521 2531	eplerenona

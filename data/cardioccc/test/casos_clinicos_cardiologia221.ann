@@ -1,0 +1,128 @@
+T1	ENFERMEDAD 252 300	diabetes mellitus tipo 2, no insulinodependiente
+T2	ENFERMEDAD 377 398	hipertensión arterial
+T3	ENFERMEDAD 563 640	vasculopatía periférica, con estenosis en arteria femoral superficial derecha
+T4	ENFERMEDAD 1269 1287	angina de esfuerzo
+T5	ENFERMEDAD 1834 1842	flebitis
+T6	ENFERMEDAD 1944 1981	lesión subepicárdica en cara inferior
+T7	ENFERMEDAD 2353 2368	derrame pleural
+T8	ENFERMEDAD 3055 3098	hipertrofia ligera del ventrículo izquierdo
+T9	ENFERMEDAD 3251 3264	valvulopatías
+T10	ENFERMEDAD 3426 3451	insuficiencia tricuspídea
+T11	ENFERMEDAD 3453 3455	IT
+T12	ENFERMEDAD 3571 3590	derrame pericárdico
+T13	ENFERMEDAD 4808 4815	infarto
+T14	ENFERMEDAD 4869 4982	enfermedad de tres vasos, con dos lesiones graves (en DAm y CDm) y una lesión moderada en circunfleja (Cx) distal
+T15	ENFERMEDAD 5065 5072	infarto
+T16	ENFERMEDAD 5888 5933	lesión grave de la descendente anterior media
+T17	ENFERMEDAD 6105 6186	Infarto agudo de miocardio con elevación del segmento ST de localización inferior
+T18	ENFERMEDAD 6198 6277	Enfermedad coronaria de tres vasos: CD media (ARI) 90%, DA media 90%, Cx distal
+T19	ENFERMEDAD 6391 6415	lesión grave en DA media
+T20	ENFERMEDAD 6417 6456	Disfunción ventricular izquierda ligera
+T21	ENFERMEDAD 6469 6499	Enfermedad arterial periférica
+T22	ENFERMEDAD 6501 6525	Diabetes mellitus tipo 2
+T23	ENFERMEDAD 6614 6635	Hipertensión arterial
+T24	ENFERMEDAD 4066 4081	daño miocárdico
+T25	ENFERMEDAD 5312 5330	eventos arrítmicos
+T26	ENFERMEDAD 2521 2563	Descendente anterior (DA) con lesión grave
+T27	ENFERMEDAD 2591 2613	Circunfleja con lesión
+T28	ENFERMEDAD 2642 2675	Coronaria derecha (CD) con lesión
+T29	ENFERMEDAD 2836 2848	lesión de CD
+T30	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDIMIENTO 694 730	angioplastia con balón farmacoactivo
+T32	PROCEDIMIENTO 1323 1341	Exploración física
+T33	PROCEDIMIENTO 1468 1489	Auscultación cardiaca
+T34	PROCEDIMIENTO 1534 1555	Auscultación pulmonar
+T35	PROCEDIMIENTO 1660 1678	palpación profunda
+T36	PROCEDIMIENTO 1854 1872	electrocardiograma
+T37	PROCEDIMIENTO 1874 1877	ECG
+T38	PROCEDIMIENTO 2053 2056	ECG
+T39	PROCEDIMIENTO 2427 2442	Coronariografía
+T40	PROCEDIMIENTO 2786 2848	intervencionismo coronario percutáneo (ICP) sobre lesión de CD
+T41	PROCEDIMIENTO 3016 3030	Ecocardiograma
+T42	PROCEDIMIENTO 3614 3623	Hemograma
+T43	PROCEDIMIENTO 4188 4191	ECG
+T44	PROCEDIMIENTO 4308 4323	Coronariografía
+T45	PROCEDIMIENTO 4362 4384	stent implantado en CD
+T46	PROCEDIMIENTO 4386 4398	ICP sobre DA
+T47	PROCEDIMIENTO 4830 4845	coronariografía
+T48	PROCEDIMIENTO 4995 5039	ICP constent farmacoactivo sobre la CD media
+T49	PROCEDIMIENTO 5120 5132	angioplastia
+T50	PROCEDIMIENTO 5194 5208	betabloqueante
+T51	PROCEDIMIENTO 5857 5927	angioplastia electiva sobre la lesión grave de la descendente anterior
+T52	PROCEDIMIENTO 6043 6072	rehabilitación cardiovascular
+T53	PROCEDIMIENTO 6342 6415	ICP electiva ambulatoria en segundo tiempo sobre lesión grave en DA media
+T54	PROCEDIMIENTO 3749 3759	Bioquímica
+T55	PROCEDIMIENTO 3714 3724	Hemostasia
+T56	PROCEDIMIENTO 6283 6340	ICP primaria con stentliberador de fármaco sobre CD media
+T57	PROCEDIMIENTO 2239 2268	Radiografía de tórax portátil
+T58	PROCEDIMIENTO 4049 4081	biomarcadores de daño miocárdico
+T59	PROCEDIMIENTO 2825 2828	ICP
+T60	PROCEDIMIENTO 2906 2960	se implanta stent farmacoactivo liberador de sirolimus
+T61	PROCEDIMIENTO 4461 4516	implantandostent farmacoactivo liberador de zotarolimus
+T62	PROCEDIMIENTO 4396 4429	DA: se predilata lesión con balon
+T63	PROCEDIMIENTO 3593 3602	Analítica
+T64	PROCEDIMIENTO 2855 2890	predilatar con balón semicompliante
+T65	PROCEDIMIENTO 4791 4815	se activó código infarto
+T66	PROCEDIMIENTO 5211 5225	hipolipemiante
+T67	SINTOMA 127 141	dolor torácico
+T68	SINTOMA 1069 1132	dolor centrotorácico opresivo irradiado a cuello y ambos brazos
+T69	SINTOMA 1195 1210	sudoración fría
+T70	SINTOMA 1437 1466	Presión venosa yugular normal
+T71	SINTOMA 1468 1498	Auscultación cardiaca: rítmica
+T72	SINTOMA 1504 1510	soplos
+T73	SINTOMA 1514 1532	ruidos patológicos
+T74	SINTOMA 1557 1586	murmullo vesicular conservado
+T75	SINTOMA 1591 1611	ruidos sobreañadidos
+T76	SINTOMA 1683 1688	masas
+T77	SINTOMA 1692 1700	megalias
+T78	SINTOMA 1749 1774	edemas en partes declives
+T79	SINTOMA 1776 1819	pulsos periféricos conservados y simétricos
+T80	SINTOMA 2083 2096	ritmo sinusal
+T81	SINTOMA 2108 2117	PR normal
+T82	SINTOMA 2140 2202	Supradesnivel del segmento ST de hasta 3 mm en DII, DIII y aVF
+T83	SINTOMA 2207 2237	descenso especular en DI y aVL
+T84	SINTOMA 2270 2313	índice cardiotorácico ligeramente aumentado
+T85	SINTOMA 2383 2406	redistribución vascular
+T86	SINTOMA 2411 2425	condensaciones
+T87	SINTOMA 2757 2774	Buen lecho distal
+T88	SINTOMA 3281 3307	Llenado transmitral normal
+T89	SINTOMA 3319 3354	presión telediastólica de VI normal
+T90	SINTOMA 3367 3412	VD de diámetros normales y función conservada
+T91	SINTOMA 3652 3664	leucocitosis
+T92	SINTOMA 4236 4245	PR normal
+T93	SINTOMA 4272 4306	Onda T negativa en DII, DIII y aVF
+T94	SINTOMA 4604 4646	elevación del segmento ST en cara inferior
+T95	SINTOMA 4663 4686	dolor torácico anginoso
+T96	SINTOMA 5241 5253	asintomático
+T97	SINTOMA 5256 5281	hemodinámicamente estable
+T98	SINTOMA 6136 6186	elevación del segmento ST de localización inferior
+T99	SINTOMA 1702 1729	Blumberg y Murphy negativos
+T100	SINTOMA 1613 1678	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T101	SINTOMA 643 674	ausencia de pulso pedio derecho
+T102	SINTOMA 3668 3688	desviación izquierda
+T103	SINTOMA 3190 3237	hipocinesia inferolateral e inferior mediobasal
+T104	SINTOMA 2474 2519	Tronco coronario izquierdo (TCI) sin lesiones
+T105	SINTOMA 2427 2472	Coronariografía emergente: dominancia derecha
+T106	SINTOMA 3133 3159	FEVI ligeramente deprimida
+T107	SINTOMA 3526 3557	Vena cava inferior (VCI) normal
+T108	FARMACO 774 786	Sitagliptina
+T109	FARMACO 789 799	metformina
+T110	FARMACO 841 863	Valsartán + amlodipino
+T111	FARMACO 895 904	Omeprazol
+T112	FARMACO 930 952	Ácido acetilsalicílico
+T113	FARMACO 954 957	AAS
+T114	FARMACO 4719 4728	prasugrel
+T115	FARMACO 4777 4780	AAS
+T116	FARMACO 5456 5478	Ácido acetilsalicílico
+T117	FARMACO 5508 5517	Prasugrel
+T118	FARMACO 5546 5559	Rosuvastatina
+T119	FARMACO 5594 5608	Dapagliflozina
+T120	FARMACO 5611 5621	metformina
+T121	FARMACO 5661 5670	Nebivolol
+T122	FARMACO 5700 5709	Omeprazol
+T123	FARMACO 5735 5757	Valsartán + amlodipino
+T124	FARMACO 4505 4516	zotarolimus
+T125	FARMACO 2951 2960	sirolimus
+#1	AnnotatorNotes T29	 CD: coronaria derecha
+#2	AnnotatorNotes T56	intervención coronaria percutánea
+#3	AnnotatorNotes T59	 Intervencionismo coronario percutáneo

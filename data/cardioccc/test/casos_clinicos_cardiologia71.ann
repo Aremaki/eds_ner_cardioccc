@@ -1,0 +1,70 @@
+T1	ENFERMEDAD 322 325	HTA
+T2	ENFERMEDAD 327 329	DM
+T3	ENFERMEDAD 485 492	síncope
+T4	ENFERMEDAD 1359 1381	insuficiencia cardiaca
+T5	ENFERMEDAD 1520 1545	VI con hipertrofia severa
+T6	ENFERMEDAD 1635 1655	Obstrucción del TSVI
+T7	ENFERMEDAD 2023 2056	hipertrofia ventricular izquierda
+T8	ENFERMEDAD 2127 2166	miocardiopatía hipertrófica obstructiva
+T9	ENFERMEDAD 2238 2258	dilatación auricular
+T10	ENFERMEDAD 2261 2317	obstrucción al tracto de salida del ventrículo izquierdo
+T11	ENFERMEDAD 2437 2464	miocardiopatía hipertrófica
+T12	ENFERMEDAD 2795 2834	miocardiopatía hipertrófica obstructiva
+T13	ENFERMEDAD 2836 2843	Síncope
+T14	ENFERMEDAD 276 283	Fumador
+T15	ENFERMEDAD 74 97	alergias medicamentosas
+T16	ENFERMEDAD 501 508	síncope
+T17	ENFERMEDAD 311 318	bebedor
+T18	ENFERMEDAD 333 335	DL
+T19	ENFERMEDAD 377 395	depresión reactiva
+T20	ENFERMEDAD 1475 1500	AI moderadamente dilatada
+T21	ENFERMEDAD 1623 1633	SAM mitral
+T22	ENFERMEDAD 1694 1703	IM severa
+T23	ENFERMEDAD 1831 1839	síncopes
+T24	ENFERMEDAD 2382 2400	eventos arrítmicos
+T25	ENFERMEDAD 2490 2503	muerte súbita
+T26	ENFERMEDAD 1406 1420	crecimiento VI
+T27	PROCEDIMIENTO 219 239	inducción anestésica
+T28	PROCEDIMIENTO 737 755	Exploración física
+T29	PROCEDIMIENTO 844 865	Auscultación cardiaca
+T30	PROCEDIMIENTO 1019 1040	Auscultación pulmonar
+T31	PROCEDIMIENTO 1221 1230	Hemograma
+T32	PROCEDIMIENTO 1276 1296	Radiografía de tórax
+T33	PROCEDIMIENTO 1383 1386	ECG
+T34	PROCEDIMIENTO 1445 1473	Ecocardiograma transtorácico
+T35	PROCEDIMIENTO 1857 1869	auscultación
+T36	PROCEDIMIENTO 2002 2005	ECG
+T37	PROCEDIMIENTO 2204 2218	ecocardiograma
+T38	PROCEDIMIENTO 2319 2347	Se monitoriza con telemetría
+T39	PROCEDIMIENTO 2570 2602	implantación de un desfibrilador
+T40	PROCEDIMIENTO 2648 2667	implantación de DAI
+T41	PROCEDIMIENTO 2678 2720	extracción de sangre para estudio genético
+T42	PROCEDIMIENTO 1245 1256	coagulación
+T43	PROCEDIMIENTO 1716 1726	Telemetría
+T44	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDIMIENTO 1232 1242	bioquímica
+T46	SINTOMA 192 199	fallece
+T47	SINTOMA 761 768	Afebril
+T48	SINTOMA 793 796	BEG
+T49	SINTOMA 878 893	soplo sistólico
+T50	SINTOMA 1042 1071	murmullo vesicular conservado
+T51	SINTOMA 1073 1099	Abdomen blando no doloroso
+T52	SINTOMA 1113 1121	megalias
+T53	SINTOMA 1123 1194	Pulsos arteriales radiales y pedios positivos, bilaterales y simétricos
+T54	SINTOMA 1388 1401	ritmo sinusal
+T55	SINTOMA 1593 1621	función sistólica conservada
+T56	SINTOMA 1885 1890	soplo
+T57	SINTOMA 140 147	fallece
+T58	SINTOMA 1104 1109	masas
+T59	SINTOMA 1298 1325	índice cardiotorácico nomal
+T60	SINTOMA 2062 2087	pulso arterial bisferiens
+T61	SINTOMA 817 842	Pulso arterial bisferiens
+T62	SINTOMA 867 873	RsCsRs
+T63	SINTOMA 1221 1274	Hemograma, bioquímica y coagulación: sin alteraciones
+T64	SINTOMA 1331 1345	condensaciones
+T65	SINTOMA 669 688	pérdida consciencia
+T66	SINTOMA 798 802	NHNC
+T67	FARMACO 410 419	omeprazol
+T68	FARMACO 422 428	deprax
+#1	AnnotatorNotes T18	 DL dislipemia
+#2	AnnotatorNotes T22	 IM insuficiencia mitral

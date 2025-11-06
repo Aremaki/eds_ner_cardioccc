@@ -1,0 +1,98 @@
+T1	DISEASE 149 171	insuficiencia cardiaca
+T2	DISEASE 192 215	miocardiopatía dilatada
+T3	DISEASE 258 395	consumo abusivo de varios tóxicos (GHB [ácido gamma-hidroxibutírico], mefedrona y metaanfetaminas de forma habitual; cocaína puntualmente
+T4	DISEASE 397 404	fumador
+T5	DISEASE 573 580	sífilis
+T6	DISEASE 1633 1640	trombos
+T7	DISEASE 1642 1701	Ventrículo derecho dilatado, con disfunción sistólica grave
+T8	DISEASE 1748 1777	Insuficiencia mitral moderada
+T9	DISEASE 1779 1809	Hipertensión pulmonar moderada
+T10	DISEASE 2030 2046	evento isquémico
+T11	DISEASE 2114 2133	lesiones corticales
+T12	DISEASE 2206 2296	infartos en fase subaguda, el mayor occipital basal derecho con transformación hemorrágica
+T13	DISEASE 2318 2337	lesiones corticales
+T14	DISEASE 2587 2621	Insuficiencia mitral leve-moderada
+T15	DISEASE 2623 2661	Dilatación grave de aurícula izquierda
+T16	DISEASE 2678 2701	trombos intracavitarios
+T17	DISEASE 3030 3052	insuficiencia cardiaca
+T18	DISEASE 3378 3411	fibrilación auricular paroxística
+T19	DISEASE 3435 3481	taquicardia ventricular monomorfa no sostenida
+T20	DISEASE 3689 3711	disfunción ventricular
+T21	DISEASE 3846 3890	miocardiopatía por tóxicos o asociada al VIH
+T22	DISEASE 4037 4060	trombos intracavitarios
+T23	DISEASE 4066 4099	fibrilación auricular paroxística
+T24	DISEASE 4171 4218	transformación hemorrágica del infarto cerebral
+T25	DISEASE 4427 4449	insuficiencia cardiaca
+T26	DISEASE 4451 4481	Disfunción biventricular grave
+T27	DISEASE 4532 4578	Taquicardia ventricular monomorfa no sostenida
+T28	DISEASE 4580 4613	Fibrilación auricular paroxística
+T29	DISEASE 4615 4659	Trombo intracavitario (ventrículo izquierdo)
+T30	DISEASE 4727 4783	Ictus isquémico subagudo en territorio de la ACP derecha
+T31	DISEASE 4864 4881	Infección por VIH
+T32	DISEASE 1402 1421	congestión pulmonar
+T33	DISEASE 1464 1529	ventrículo izquierdo muy dilatado, con disfunción sistólica grave
+T34	DISEASE 4915 4933	Consumo de tóxicos
+T35	DISEASE 2452 2460	infartos
+T36	PROCEDURE 942 960	exploración física
+T37	PROCEDURE 1090 1111	auscultación pulmonar
+T38	PROCEDURE 1138 1156	Electrocardiograma
+T39	PROCEDURE 1158 1161	ECG
+T40	PROCEDURE 1337 1357	Radiografía de tórax
+T41	PROCEDURE 1423 1451	Ecocardiograma transtorácico
+T42	PROCEDURE 1882 1926	Tomografía axial computarizada (TAC) craneal
+T43	PROCEDURE 2070 2112	Resonancia magnética nuclear (RMN) craneal
+T44	PROCEDURE 2496 2508	RMN cardiaca
+T45	PROCEDURE 2875 2902	Coronariografía diagnóstica
+T46	PROCEDURE 2953 2969	Estudio genético
+T47	PROCEDURE 3096 3117	tratamiento diurético
+T48	PROCEDURE 3574 3577	RMN
+T49	PROCEDURE 3757 3772	coronariografía
+T50	PROCEDURE 3796 3812	estudio genético
+T51	PROCEDURE 3904 3930	tratamiento antitrombótico
+T52	PROCEDURE 3942 3968	tratamiento anticoagulante
+T53	PROCEDURE 3984 4016	heparinas de bajo peso molecular
+T54	PROCEDURE 4154 4166	RMN cerebral
+T55	PROCEDURE 4318 4345	tratamiento antirretroviral
+T56	PROCEDURE 4357 4377	anticoagulación oral
+T57	PROCEDURE 4682 4694	RMN cardiaca
+T58	PROCEDURE 4710 4725	anticoagulación
+T59	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 3590 3639	implantar un desfibrilador automático implantable
+T61	PROCEDURE 3353 3367	monitorización
+T62	PROCEDURE 1914 1917	TAC
+T63	PROCEDURE 2100 2104	RMN)
+T64	PROCEDURE 1811 1820	Analítica
+T65	PROCEDURE 3641 3644	DAI
+T66	SYMPTOM 469 481	VIH positivo
+T67	SYMPTOM 674 715	disnea progresiva hasta hacerse de reposo
+T68	SYMPTOM 727 735	ortopnea
+T69	SYMPTOM 751 778	disnea paroxística nocturna
+T70	SYMPTOM 839 858	cefalea retroocular
+T71	SYMPTOM 875 889	dolor torácico
+T72	SYMPTOM 891 904	palpitaciones
+T73	SYMPTOM 985 1013	ingurgitación venosa yugular
+T74	SYMPTOM 1019 1050	ritmo de galope por tercer tono
+T75	SYMPTOM 1053 1084	crepitantes hasta campos medios
+T76	SYMPTOM 1210 1222	QRS estrecho
+T77	SYMPTOM 1253 1291	Pobre crecimiento de R en precordiales
+T78	SYMPTOM 1293 1310	Ondas T aplanadas
+T79	SYMPTOM 1359 1390	índice cardiotorácico aumentado
+T80	SYMPTOM 1703 1746	Signos de elevación de presiones de llenado
+T81	SYMPTOM 2510 2562	función sistólica biventricular gravemente deprimida
+T82	SYMPTOM 2953 2979	Estudio genético: negativo
+T83	SYMPTOM 1164 1183	taquicardia sinusal
+T84	SYMPTOM 822 836	discromatopsia
+T85	SYMPTOM 1315 1335	intervalo QTc normal
+T86	SYMPTOM 4483 4530	Arterias coronarias sin lesiones significativas
+T87	SYMPTOM 2904 2951	arterias coronarias sin lesiones significativas
+T88	SYMPTOM 3153 3171	clínica congestiva
+T89	SYMPTOM 1224 1251	eje desviado a la izquierda
+T90	SYMPTOM 1941 2003	hipodensidad cortico- subcortical en territorio de ACP derecha
+T91	SYMPTOM 2703 2794	Realce tardío patológico en la región de inserción de la pared libre del ventrículo derecho
+T92	SYMPTOM 4251 4260	sangrados
+T93	MEDICATION 537 561	dolutegravir/rilpivirina
+T94	MEDICATION 3228 3250	sacubritrilo/valsartán
+T95	MEDICATION 3252 3262	bisoprolol
+T96	MEDICATION 3303 3318	espironolactona
+T97	MEDICATION 3321 3331	ivabradina
+T98	MEDICATION 4382 4393	rivaroxabán

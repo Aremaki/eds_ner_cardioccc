@@ -1,0 +1,97 @@
+T1	ENFERMEDAD 122 142	Enfermedad de Behçet
+T2	ENFERMEDAD 144 178	aneurismas pulmonares en el pulmón
+T3	ENFERMEDAD 222 241	Hepatitis B crónica
+T4	ENFERMEDAD 988 1013	trombosis venosa profunda
+T5	ENFERMEDAD 1152 1155	HAI
+T6	ENFERMEDAD 1122 1194	Bloqueo bifascicular (BRDHH + HAI) con arritmia sinusal ventriculofásica
+T7	ENFERMEDAD 1231 1261	patología pleuropulmonar aguda
+T8	ENFERMEDAD 1858 1918	Válvula aórtica trivalva, con buena apertura e insuficiencia
+T9	ENFERMEDAD 2002 2033	insuficiencia mitral diastólica
+T10	ENFERMEDAD 2138 2163	Insuficiencia tricuspídea
+T11	ENFERMEDAD 2175 2194	derrame pericárdico
+T12	ENFERMEDAD 2254 2321	Descendente anterior: presenta dilatación aneurismática calcificada
+T13	ENFERMEDAD 2628 2652	dilatación aneurismática
+T14	ENFERMEDAD 2668 2740	aneurismas coronarios saculares en circunfleja (parcialmente trombosados
+T15	ENFERMEDAD 3010 3028	angina de esfuerzo
+T16	ENFERMEDAD 3233 3333	circunfleja proximal con dilatación aneurismática de gran tamaño, calcificada, con trombosis parcial
+T17	ENFERMEDAD 3972 3995	bloqueo AV infrahisiano
+T18	ENFERMEDAD 4662 4695	aneurisma en descendente anterior
+T19	ENFERMEDAD 4789 4809	Enfermedad de Behçet
+T20	ENFERMEDAD 4903 4950	Cardiopatía isquémica por aneurismas coronarios
+T21	ENFERMEDAD 5062 5095	aneurisma de descendente anterior
+T22	ENFERMEDAD 45 68	alergias medicamentosas
+T23	ENFERMEDAD 935 949	organomegalias
+T24	ENFERMEDAD 1045 1069	bloqueo AV de alto grado
+T25	ENFERMEDAD 1144 1149	BRDHH
+T26	ENFERMEDAD 2388 2502	Circunfleja: presenta a nivel proximal dilatación aneurismática de gran tamaño, calcificada, con trombosis parcial
+T27	ENFERMEDAD 2838 2856	arteria displásica
+T28	ENFERMEDAD 2954 2982	bloqueo AV 2:1 con QRS ancho
+T29	ENFERMEDAD 3097 3166	arteria descendente anterior con dilatación aneurismática calcificada
+T30	ENFERMEDAD 4236 4238	IC
+T31	ENFERMEDAD 4811 4856	Bloqueo aurículo-ventricular 2:1 infrahisiano
+T32	ENFERMEDAD 531 538	síncope
+T33	ENFERMEDAD 527 538	pre/síncope
+T34	ENFERMEDAD 1461 1528	Calcificaciones anulares que se proyectan sobre la silueta cardiaca
+T35	ENFERMEDAD 1161 1194	arritmia sinusal ventriculofásica
+T36	PROCEDIMIENTO 595 613	Exploración física
+T37	PROCEDIMIENTO 766 787	Auscultación cardiaca
+T38	PROCEDIMIENTO 810 831	Auscultación pulmonar
+T39	PROCEDIMIENTO 1040 1043	ECG
+T40	PROCEDIMIENTO 1196 1216	Radiografía de tórax
+T41	PROCEDIMIENTO 1771 1785	Ecocardiograma
+T42	PROCEDIMIENTO 2196 2211	Coronariografía
+T43	PROCEDIMIENTO 2603 2614	Aortografía
+T44	PROCEDIMIENTO 2654 2666	TC coronario
+T45	PROCEDIMIENTO 3067 3082	coronariografía
+T46	PROCEDIMIENTO 3934 3937	EEF
+T47	PROCEDIMIENTO 4013 4059	se implanta un marcapasos definitivo bicameral
+T48	PROCEDIMIENTO 4084 4119	controles posimplante de marcapasos
+T49	PROCEDIMIENTO 4411 4491	cirugía de revascularización coronaria con doble arteria mamaria en "Y" bajo CEC
+T50	PROCEDIMIENTO 4505 4610	bypass de arteria mamaria izquierda a descendente anterior y de arteria mamaria derecha a obtusa marginal
+T51	PROCEDIMIENTO 4621 4695	se realiza ligadura distal y proximal de aneurisma en descendente anterior
+T52	PROCEDIMIENTO 4858 4901	Implante de marcapasos definitivo bicameral
+T53	PROCEDIMIENTO 4952 5048	Revascularización coronaria con doble arteria mamaria a descendente anterior y a obtusa marginal
+T54	PROCEDIMIENTO 5050 5095	Ligadura de aneurisma de descendente anterior
+T55	PROCEDIMIENTO 4488 4491	CEC
+T56	PROCEDIMIENTO 3485 3518	implante de marcapasos definitivo
+T57	PROCEDIMIENTO 4314 4346	intervención quirúrgica cardiaca
+T58	PROCEDIMIENTO 1562 1571	Analítica
+T59	PROCEDIMIENTO 4697 4709	Intervención
+T60	PROCEDIMIENTO 736 750	Cabeza y cuelo
+T61	PROCEDIMIENTO 951 963	Extremidades
+T62	PROCEDIMIENTO 3460 3477	cirugía coronaria
+T63	SINTOMA 344 364	astenia generalizada
+T64	SINTOMA 394 438	dolor torácico en relación con los esfuerzos
+T65	SINTOMA 482 490	ortopnea
+T66	SINTOMA 495 522	disnea paroxística nocturna
+T67	SINTOMA 543 549	fiebre
+T68	SINTOMA 552 572	sensación distérmica
+T69	SINTOMA 652 662	Consciente
+T70	SINTOMA 664 673	orientado
+T71	SINTOMA 675 686	colaborador
+T72	SINTOMA 688 707	Buen estado general
+T73	SINTOMA 709 734	Eupneico al aire ambiente
+T74	SINTOMA 766 796	Auscultación cardiaca: rítmica
+T75	SINTOMA 802 808	soplos
+T76	SINTOMA 833 862	murmullo vesicular conservado
+T77	SINTOMA 868 888	ruidos sobreañadidos
+T78	SINTOMA 890 930	Abdomen: blando, depresible, no doloroso
+T79	SINTOMA 1417 1459	Silueta cardiopericárdica de tamaño normal
+T80	SINTOMA 1825 1856	fracción de eyección preservada
+T81	SINTOMA 4209 4221	asintomático
+T82	SINTOMA 1263 1290	Pérdida de volumen pulmonar
+T83	SINTOMA 1935 1965	Aurícula izquierda no dilatada
+T84	SINTOMA 2061 2092	Cavidades derechas no dilatadas
+T85	SINTOMA 951 974	Extremidades: no edemas
+T86	SINTOMA 755 758	IVY
+T87	SINTOMA 4184 4206	estable cardiovascular
+T88	SINTOMA 2570 2601	Coronaria derecha: sin lesiones
+T89	SINTOMA 2213 2252	tronco coronario izquierdo sin lesiones
+T90	SINTOMA 1787 1819	ventrículo izquierdo no dilatado
+T91	SINTOMA 2035 2059	Raíz aórtica no dilatada
+T92	FARMACO 269 272	AAS
+T93	FARMACO 281 302	peginterferón alfa 2a
+T94	FARMACO 304 313	entecavir
+T95	FARMACO 3603 3621	peginterferón alfa
+T96	FARMACO 3807 3820	peginterferón
+#1	AnnotatorNotes T30	 IC insuficiencia cardíaca

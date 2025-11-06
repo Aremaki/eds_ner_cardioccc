@@ -1,0 +1,134 @@
+T1	DISEASE 3710 3745	Válvula mitral con velos engrosados
+T2	DISEASE 110 133	alergias medicamentosas
+T3	DISEASE 145 155	exfumadora
+T4	DISEASE 201 244	obstrucción de la vena central de la retina
+T5	DISEASE 268 285	hemorragia vítrea
+T6	DISEASE 349 373	síndrome antifosfolípido
+T7	DISEASE 641 696	insuficiencia aórtica (IAo) moderada con estenosis leve
+T8	DISEASE 824 845	hipertensión pulmonar
+T9	DISEASE 1040 1067	descompensaciones cardiacas
+T10	DISEASE 1338 1380	insuficiencia mitral (IM) y aórtica graves
+T11	DISEASE 1395 1416	hipertensión pulmonar
+T12	DISEASE 1532 1553	hipertensión arterial
+T13	DISEASE 1555 1558	HTA
+T14	DISEASE 1596 1609	plaquetopenia
+T15	DISEASE 1707 1710	HTA
+T16	DISEASE 1795 1808	plaquetopenia
+T17	DISEASE 1903 1915	preeclampsia
+T18	DISEASE 1951 1975	síndrome antifosfolípido
+T19	DISEASE 3130 3154	insuficiencia renal leve
+T20	DISEASE 3678 3687	IAo grave
+T21	DISEASE 3694 3708	estenosis leve
+T22	DISEASE 4050 4075	insuficiencia tricuspídea
+T23	DISEASE 4090 4111	hipertensión pulmonar
+T24	DISEASE 4117 4136	derrame pericárdico
+T25	DISEASE 4448 4466	neumonía bilateral
+T26	DISEASE 4468 4498	Leve derrame pleural bilateral
+T27	DISEASE 4624 4648	tromboembolismo pulmonar
+T28	DISEASE 4969 4987	neumonía bilateral
+T29	DISEASE 5352 5385	insuficiencia cardiaca (IC) aguda
+T30	DISEASE 5376 5378	IC
+T31	DISEASE 5797 5819	insuficiencia cardiaca
+T32	DISEASE 6039 6066	insuficiencia aórtica grave
+T33	DISEASE 6071 6106	insuficiencia mitral moderada-grave
+T34	DISEASE 6413 6425	Preeclampsia
+T35	DISEASE 6427 6451	hipertensión gestacional
+T36	DISEASE 6491 6512	Edema agudo de pulmón
+T37	DISEASE 6529 6566	insuficiencia mitral y aórtica graves
+T38	DISEASE 6589 6613	Síndrome antifosfolípido
+T39	DISEASE 6674 6695	episodios trombóticos
+T40	DISEASE 664 667	IAo
+T41	DISEASE 847 849	HP
+T42	DISEASE 1360 1362	IM
+T43	DISEASE 3864 3881	IM moderada-grave
+T44	DISEASE 6477 6488	trombopenia
+T45	DISEASE 3527 3573	Válvula aórtica trivalva, con velos engrosados
+T46	DISEASE 6146 6195	descompensación que presentó durante el puerperio
+T47	DISEASE 4654 4696	sobrecarga de cavidades cardiacas derechas
+T48	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDURE 310 321	vitrectomía
+T50	PROCEDURE 603 617	ecocardiograma
+T51	PROCEDURE 619 622	ETT
+T52	PROCEDURE 1252 1261	NT-proBNP
+T53	PROCEDURE 1280 1283	ETT
+T54	PROCEDURE 2002 2015	parto vaginal
+T55	PROCEDURE 2191 2198	cesárea
+T56	PROCEDURE 2315 2322	cesárea
+T57	PROCEDURE 2552 2570	Exploración física
+T58	PROCEDURE 2734 2766	oxigenoterapia con gafas nasales
+T59	PROCEDURE 2824 2845	Auscultación cardiaca
+T60	PROCEDURE 2889 2910	Auscultación pulmonar
+T61	PROCEDURE 3256 3274	Electrocardiograma
+T62	PROCEDURE 3276 3279	ECG
+T63	PROCEDURE 3380 3395	Ecocardioscopia
+T64	PROCEDURE 4278 4302	tomografía computarizada
+T65	PROCEDURE 4304 4306	TC
+T66	PROCEDURE 4727 4729	TC
+T67	PROCEDURE 4831 4845	oxigenoterapia
+T68	PROCEDURE 4919 4930	reanimación
+T69	PROCEDURE 4998 5019	tratamiento diurético
+T70	PROCEDURE 5205 5265	desescalando de oxigenoterapia con gafas de alto flujo (GAF)
+T71	PROCEDURE 5942 5951	diurético
+T72	PROCEDURE 6005 6019	ecocardiograma
+T73	PROCEDURE 6373 6389	ecocardiográfico
+T74	PROCEDURE 5268 5270	GN
+T75	PROCEDURE 3052 3061	Analítica
+T76	PROCEDURE 1220 1239	analíticas seriadas
+T77	PROCEDURE 1844 1863	maduración pulmonar
+T78	SYMPTOM 698 719	válvula mitral normal
+T79	SYMPTOM 721 758	ventrículo izquierdo (VI) no dilatado
+T80	SYMPTOM 1177 1206	disnea de moderados esfuerzos
+T81	SYMPTOM 1252 1276	NT-proBNP, que es normal
+T82	SYMPTOM 1447 1490	proteinuria desde el inicio de la gestación
+T83	SYMPTOM 1596 1609	plaquetopenia
+T84	SYMPTOM 1612 1618	edemas
+T85	SYMPTOM 1781 1792	proteinuria
+T86	SYMPTOM 1795 1808	plaquetopenia
+T87	SYMPTOM 2453 2471	sensación de calor
+T88	SYMPTOM 2474 2479	mareo
+T89	SYMPTOM 2485 2508	pérdida de conocimiento
+T90	SYMPTOM 2516 2522	disnea
+T91	SYMPTOM 2524 2532	ortopnea
+T92	SYMPTOM 2536 2550	dolor torácico
+T93	SYMPTOM 2585 2595	consciente
+T94	SYMPTOM 2598 2607	orientada
+T95	SYMPTOM 2609 2624	bien perfundida
+T96	SYMPTOM 2783 2801	eupneica en reposo
+T97	SYMPTOM 2804 2822	tolerando decúbito
+T98	SYMPTOM 2824 2854	Auscultación cardiaca: rítmica
+T99	SYMPTOM 2859 2887	soplo diastólico y sistólico
+T100	SYMPTOM 2930 2959	murmullo vesicular conservado
+T101	SYMPTOM 2961 2995	Leves edemas con fóvea pretibiales
+T102	SYMPTOM 3073 3082	hipoxemia
+T103	SYMPTOM 3087 3097	hipocapnia
+T104	SYMPTOM 3108 3128	ácido láctico normal
+T105	SYMPTOM 3159 3173	iones en rango
+T106	SYMPTOM 3202 3237	leucocitos con desviación izquierda
+T107	SYMPTOM 3282 3295	ritmo sinusal
+T108	SYMPTOM 3313 3322	PR normal
+T109	SYMPTOM 3328 3340	QRS estrecho
+T110	SYMPTOM 3345 3378	alteraciones en la repolarización
+T111	SYMPTOM 3397 3447	VI no dilatado ni hipertrófico con FEVI conservada
+T112	SYMPTOM 3961 4006	Ventrículo derecho normal en tamaño y función
+T113	SYMPTOM 4008 4044	Válvula tricúspide de aspecto normal
+T114	SYMPTOM 4752 4758	disnea
+T115	SYMPTOM 5162 5168	disnea
+T116	SYMPTOM 5736 5779	tensiones arteriales prácticamente normales
+T117	SYMPTOM 5867 5873	disnea
+T118	SYMPTOM 5875 5883	ortopnea
+T119	SYMPTOM 5887 5893	edemas
+T120	SYMPTOM 6109 6141	función biventricular conservada
+T121	SYMPTOM 6572 6587	FEVI conservada
+T122	SYMPTOM 561 566	soplo
+T123	SYMPTOM 763 807	fracción de eyección de VI (FEVI) conservada
+T124	SYMPTOM 1306 1336	VI no dilatado con FEVI normal
+T125	SYMPTOM 4341 4379	consolidaciones alveolares bilaterales
+T126	SYMPTOM 4771 4783	desaturación
+T127	SYMPTOM 5121 5143	diuresis muy abundante
+T128	SYMPTOM 4382 4432	engrosamientos septales afectando a ambos pulmones
+T129	SYMPTOM 5533 5554	semiología congestiva
+T130	SYMPTOM 1126 1144	signos congestivos
+T131	SYMPTOM 4533 4597	defecto de repleción en una rama segmentaria del lóbulo inferior
+T132	SYMPTOM 6232 6285	cambios hemodinámicos que suceden durante el embarazo
+T133	MEDICATION 410 427	hidroxicloroquina
+T134	MEDICATION 442 464	ácido acetilsalicílico

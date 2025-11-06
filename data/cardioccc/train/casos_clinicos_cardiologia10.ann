@@ -1,0 +1,106 @@
+T1	DISEASE 2948 2974	Engrosamiento mitroaórtico
+T2	DISEASE 95 124	Hipertensión arterial crónica
+T3	DISEASE 217 238	cardiopatía isquémica
+T4	DISEASE 240 260	arteriopatía de MMII
+T5	DISEASE 324 345	retinopatía diabética
+T6	DISEASE 407 431	estenosis aórtica severa
+T7	DISEASE 536 568	Infección de segundo dedo de pie
+T8	DISEASE 1669 1719	bloqueo aurículo-ventricular (BAV) de primer grado
+T9	DISEASE 1699 1702	BAV
+T10	DISEASE 2049 2092	Válvula mitral con calcificación del anillo
+T11	DISEASE 2095 2124	insuficiencia mitral moderada
+T12	DISEASE 2195 2214	Infartos esplénicos
+T13	DISEASE 2220 2240	BAV de segundo grado
+T14	DISEASE 2255 2274	insuficiencia renal
+T15	DISEASE 2469 2491	insuficiencia cardíaca
+T16	DISEASE 2493 2509	absceso valvular
+T17	DISEASE 2511 2530	infartos esplénicos
+T18	DISEASE 2533 2546	injuria renal
+T19	DISEASE 2962 2997	mitroaórtico compatible con absceso
+T20	DISEASE 2999 3036	Válvula mitral con anillo calcificado
+T21	DISEASE 3120 3170	EI a SAMS aórtica protésica tardía y mitral nativa
+T22	DISEASE 3407 3429	insuficiencia cardíaca
+T23	DISEASE 142 215	Diabetes  mellitus  tipo  2  con  repercusiones  macro  y microvasculares
+T24	DISEASE 296 322	enfermedad  renal  crónica
+T25	DISEASE 1330 1370	segundo dedo de pie derecho con necrosis
+T26	DISEASE 2318 2384	Endocarditis  infecciosa  (EI)  sobre  válvula  aórtica  protésica
+T27	DISEASE 2345 2347	EI
+T28	DISEASE 2819 2831	BAV completo
+T29	DISEASE 126 139	Ex-tabaquista
+T30	DISEASE 802 822	síndrome confusional
+T31	DISEASE 997 1022	nódulos de Osler en manos
+T32	DISEASE 2754 2768	edema pulmonar
+T33	DISEASE 3443 3463	síndrome confusional
+T34	PROCEDURE 468 507	cirugía de revascularización miocárdica
+T35	PROCEDURE 648 671	antibioticoterapia oral
+T36	PROCEDURE 719 730	antibiótico
+T37	PROCEDURE 1062 1064	CV
+T38	PROCEDURE 1302 1328	amputación de ambos hallux
+T39	PROCEDURE 1664 1667	ECG
+T40	PROCEDURE 1722 1734	Hemocultivos
+T41	PROCEDURE 1802 1831	Ecocardiograma transesofágico
+T42	PROCEDURE 2158 2168	TC abdomen
+T43	PROCEDURE 2215 2218	ECG
+T44	PROCEDURE 2772 2802	Amputación de segundo dedo pie
+T45	PROCEDURE 3262 3287	Recambio valvular aórtico
+T46	PROCEDURE 3290 3318	vegectomía de válvula mitral
+T47	PROCEDURE 3321 3358	Cultivo de material protésico aórtico
+T48	PROCEDURE 3465 3485	Se retiró marcapasos
+T49	PROCEDURE 3639 3662	tratamiento antibiótico
+T50	PROCEDURE 265 293	amputación  de  ambos hallux
+T51	PROCEDURE 1415 1419	RxTx
+T52	PROCEDURE 1611 1621	Gasometría
+T53	PROCEDURE 1644 1653	ionograma
+T54	PROCEDURE 2832 2863	requiere marcapasos transitorio
+T55	PROCEDURE 2879 2882	ETE
+T56	PROCEDURE 3212 3255	Profilaxis preQ: amikacina 1g y vancomicina
+T57	PROCEDURE 3185 3201	Cirugía cardíaca
+T58	PROCEDURE 349 392	Cirugía  de  sustitución  valvular  aórtica
+T59	PROCEDURE 395 399	SVAo
+T60	PROCEDURE 0 9	Anamnesis
+T61	PROCEDURE 1832 1835	ETE
+T62	PROCEDURE 1192 1195	PNM
+T63	PROCEDURE 2279 2302	Requerimiento dialítico
+T64	PROCEDURE 2655 2677	tratamiento quirúrgico
+T65	PROCEDURE 1024 1026	PP
+T66	PROCEDURE 3675 3682	cirugía
+T67	SYMPTOM 565 593	pie derecho (signos fluxivos
+T68	SYMPTOM 596 602	fiebre
+T69	SYMPTOM 824 843	fiebre 40o C axilar
+T70	SYMPTOM 846 852	disnea
+T71	SYMPTOM 956 970	Normocoloreado
+T72	SYMPTOM 1028 1060	estertores crepitantes bibasales
+T73	SYMPTOM 1078 1123	Soplo holosistólicoeyectivo 2/6 en mesocardio
+T74	SYMPTOM 1125 1127	IY
+T75	SYMPTOM 1130 1133	RHY
+T76	SYMPTOM 1144 1170	Abdomen: blando e indoloro
+T77	SYMPTOM 1175 1190	visceromegalias
+T78	SYMPTOM 1217 1239	sector meníngeo normal
+T79	SYMPTOM 1245 1276	alteraciones de pares craneanos
+T80	SYMPTOM 1462 1480	Hilios congestivos
+T81	SYMPTOM 1623 1642	acidosis metabólica
+T82	SYMPTOM 1644 1660	ionograma normal
+T83	SYMPTOM 2739 2745	febril
+T84	SYMPTOM 3380 3388	apirexia
+T85	SYMPTOM 3568 3589	Creatininemia estable
+T86	SYMPTOM 972 994	Hemorragias en astilla
+T87	SYMPTOM 1722 1792	Hemocultivos  (2): desarrollan Staphylococcusaureusmeticilino-sensible
+T88	SYMPTOM 1846 1890	prótesis  biológica aórtica normofuncionante
+T89	SYMPTOM 1892 1931	área valvular aórtica 1,7 cm2 sin fugas
+T90	SYMPTOM 1933 2036	Masa redondeada de 7x7 mm que se adhiere al borde libre de valva izquierda y se proyecta hacia la aorta
+T91	SYMPTOM 2883 2946	masa muy móvil de 7x7 mm adherida a valva en posición izquierda
+T92	SYMPTOM 3007 3092	mitral con anillo calcificado, pequeñas masas sobre valva anterior del lado auricular
+T93	SYMPTOM 3321 3374	Cultivo de material protésico aórtico: sin desarrollo
+T94	SYMPTOM 1415 1460	RxTx Redistribución de flujo a ambos vértices
+T95	SYMPTOM 3500 3514	bradiarritmias
+T96	MEDICATION 2562 2573	Cefazolina2
+T97	MEDICATION 2587 2598	gentamicina
+T98	MEDICATION 2614 2625	rifampicina
+T99	MEDICATION 3229 3238	amikacina
+T100	MEDICATION 3244 3255	vancomicina
+T101	MEDICATION 3688 3698	cefazolina
+T102	MEDICATION 3702 3713	rifampicina
+T103	MEDICATION 3753 3764	gentamicina
+#1	AnnotatorNotes T9	bloqueo aurículo-ventricular
+#2	AnnotatorNotes T59	sustitución valvular aórtica
+#3	AnnotatorNotes T61	Ecocardiograma transesofágico

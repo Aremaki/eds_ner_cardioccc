@@ -1,0 +1,189 @@
+T1	ENFERMEDAD 121 144	alergias medicamentosas
+T2	ENFERMEDAD 173 182	exfumador
+T3	ENFERMEDAD 268 304	Exadicto a drogas por vía parenteral
+T4	ENFERMEDAD 398 444	Infección por virus de hepatitis C genotipo 1a
+T5	ENFERMEDAD 520 548	Cirrosis hepática secundaria
+T6	ENFERMEDAD 584 615	neumonía adquirida en comunidad
+T7	ENFERMEDAD 638 664	insuficiencia respiratoria
+T8	ENFERMEDAD 1972 1997	trombosis venosa profunda
+T9	ENFERMEDAD 2109 2143	bloqueo incompleto de rama derecha
+T10	ENFERMEDAD 2244 2263	bradicardia sinusal
+T11	ENFERMEDAD 3028 3132	espasmo grave de tronco coronario izquierdo (TCI), arteria coronaria derecha (ACD) y arteria circunfleja
+T12	ENFERMEDAD 3718 3737	derrame pericárdico
+T13	ENFERMEDAD 3802 3828	parada cardiorrespiratoria
+T14	ENFERMEDAD 4028 4054	lesión ocupante de espacio
+T15	ENFERMEDAD 4056 4066	hemorragia
+T16	ENFERMEDAD 4175 4253	Adenopatías de aspecto inespecífico en saco menor, mesenterio y retroperitoneo
+T17	ENFERMEDAD 4255 4280	Derrame pleural bilateral
+T18	ENFERMEDAD 4721 4813	espasmo grave de tronco coronario izquierdo, arteria coronaria derecha y arteria circunfleja
+T19	ENFERMEDAD 5467 5530	parada cardiorrespiratoria (PCR) en disociación electromecánica
+T20	ENFERMEDAD 5727 5762	taquicardia ventricular polimórfica
+T21	ENFERMEDAD 5856 5891	taquicardia ventricular polimórfica
+T22	ENFERMEDAD 6081 6107	infarto agudo de miocardio
+T23	ENFERMEDAD 6156 6179	isquemia subendocárdica
+T24	ENFERMEDAD 7223 7278	insuficiencia suprarrenal parcial de origen hipofisario
+T25	ENFERMEDAD 8540 8571	Angina vasoespástica recurrente
+T26	ENFERMEDAD 8662 8722	infarto agudo de miocardio secundario a angina vasoespástica
+T27	ENFERMEDAD 8808 8863	Insuficiencia suprarrenal parcial de origen hipofisario
+T28	ENFERMEDAD 219 226	Bebedor
+T29	ENFERMEDAD 156 171	Hábitos tóxicos
+T30	ENFERMEDAD 8601 8627	Parada cardiorrespiratoria
+T31	ENFERMEDAD 6765 6776	hipotensión
+T32	ENFERMEDAD 1101 1109	síncopes
+T33	ENFERMEDAD 5664 5683	taquicardia sinusal
+T34	ENFERMEDAD 3583 3609	Disfunción diastólica leve
+T35	ENFERMEDAD 5495 5498	PCR
+T36	ENFERMEDAD 5980 5983	PCR
+T37	ENFERMEDAD 6320 6323	PCR
+T38	ENFERMEDAD 6909 6926	vasoespasmo grave
+T39	ENFERMEDAD 7072 7093	vasoespamo recurrente
+T40	ENFERMEDAD 7924 7927	PCR
+T41	ENFERMEDAD 7988 7991	PCR
+T42	ENFERMEDAD 4069 4093	infarto agudo o subagudo
+T43	ENFERMEDAD 6816 6849	crisis recurrentes de vasoespasmo
+T44	ENFERMEDAD 7293 7326	hiponatremia moderada hipoosmolar
+T45	ENFERMEDAD 7533 7566	crisis recurrentes de vasoespasmo
+T46	ENFERMEDAD 8202 8223	crisis de vasoespasmo
+T47	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDIMIENTO 496 509	Serología VIH
+T49	PROCEDIMIENTO 1335 1353	electrocardiograma
+T50	PROCEDIMIENTO 1355 1358	ECG
+T51	PROCEDIMIENTO 1375 1404	marcadores de daño miocárdico
+T52	PROCEDIMIENTO 1488 1506	Exploración física
+T53	PROCEDIMIENTO 1571 1585	oxigenoterapia
+T54	PROCEDIMIENTO 1727 1748	Auscultación cardiaca
+T55	PROCEDIMIENTO 1800 1821	Auscultación pulmonar
+T56	PROCEDIMIENTO 1892 1913	Exploración abdominal
+T57	PROCEDIMIENTO 2024 2027	ECG
+T58	PROCEDIMIENTO 2459 2468	hemograma
+T59	PROCEDIMIENTO 2471 2493	estudio de coagulación
+T60	PROCEDIMIENTO 2530 2535	iones
+T61	PROCEDIMIENTO 2546 2565	Perfil hepatobiliar
+T62	PROCEDIMIENTO 2617 2632	Test de tóxicos
+T63	PROCEDIMIENTO 2708 2721	proteinograma
+T64	PROCEDIMIENTO 2866 2886	Radiografía de tórax
+T65	PROCEDIMIENTO 2996 3016	Cateterismo cardiaca
+T66	PROCEDIMIENTO 3236 3264	Ecocardiograma transtorácico
+T67	PROCEDIMIENTO 3739 3742	ECG
+T68	PROCEDIMIENTO 3966 4009	Resonancia magnética nuclear (RMN) cerebral
+T69	PROCEDIMIENTO 4104 4139	TC de tórax y abdomen con contraste
+T70	PROCEDIMIENTO 4620 4623	ECG
+T71	PROCEDIMIENTO 4682 4697	coronariografía
+T72	PROCEDIMIENTO 5105 5147	seriación de marcadores de daño miocárdico
+T73	PROCEDIMIENTO 5280 5319	tratamiento con antagonistas del calcio
+T74	PROCEDIMIENTO 5328 5336	nitratos
+T75	PROCEDIMIENTO 5537 5585	maniobras de reanimación cardiopulmonar avanzada
+T76	PROCEDIMIENTO 5622 5644	intubación orotraqueal
+T77	PROCEDIMIENTO 5775 5798	cardioversión eléctrica
+T78	PROCEDIMIENTO 5918 5941	cardioversión eléctrica
+T79	PROCEDIMIENTO 5995 6037	seriación de marcadores de daño miocárdico
+T80	PROCEDIMIENTO 6198 6212	ecocardiograma
+T81	PROCEDIMIENTO 6348 6353	iones
+T82	PROCEDIMIENTO 6507 6541	tratamiento con aminas vasoactivas
+T83	PROCEDIMIENTO 6868 6888	electrocardiográfica
+T84	PROCEDIMIENTO 7428 7441	proteinograma
+T85	PROCEDIMIENTO 8076 8125	implantar un desfibrilador automático implantable
+T86	PROCEDIMIENTO 8724 8772	Implante de desfibrilador automático implantable
+T87	PROCEDIMIENTO 2593 2606	Autoinmunidad
+T88	PROCEDIMIENTO 2502 2512	Bioquímica
+T89	PROCEDIMIENTO 6701 6724	antagonistas del calcio
+T90	PROCEDIMIENTO 2514 2527	función renal
+T91	PROCEDIMIENTO 6328 6341	función renal
+T92	PROCEDIMIENTO 7681 7684	ACA
+T93	PROCEDIMIENTO 8398 8417	tratamiento con ACA
+T94	PROCEDIMIENTO 6727 6735	nitratos
+T95	PROCEDIMIENTO 7623 7631	nitratos
+T96	PROCEDIMIENTO 3996 3999	RMN
+T97	PROCEDIMIENTO 2448 2457	Analítica
+T98	PROCEDIMIENTO 8127 8130	DAI
+T99	PROCEDIMIENTO 8180 8183	DAI
+T100	PROCEDIMIENTO 8774 8777	DAI
+T101	PROCEDIMIENTO 6259 6268	analítica
+T102	PROCEDIMIENTO 421 486	hepatitis C genotipo 1a, curada con triple terapia con boceprevir
+T103	PROCEDIMIENTO 2814 2823	Synacthen
+T104	PROCEDIMIENTO 3205 3234	nitroglicerina intracoronaria
+T105	PROCEDIMIENTO 4880 4909	nitroglicerina intracoronaria
+T106	PROCEDIMIENTO 5321 5324	ACA
+T107	PROCEDIMIENTO 7716 7749	inhibidor de la fosfodiesterasa 3
+T108	SINTOMA 87 101	dolor torácico
+T109	SINTOMA 496 518	Serología VIH negativa
+T110	SINTOMA 876 905	dolor centrotorácico opresivo
+T111	SINTOMA 1051 1057	disnea
+T112	SINTOMA 1060 1070	diaforesis
+T113	SINTOMA 1224 1238	dolor torácico
+T114	SINTOMA 1362 1426	seriación de marcadores de daño miocárdico que resultan normales
+T115	SINTOMA 1587 1597	Consciente
+T116	SINTOMA 1600 1609	orientado
+T117	SINTOMA 1611 1635	Aceptable estado general
+T118	SINTOMA 1637 1647	caquéctico
+T119	SINTOMA 1668 1682	normocoloreado
+T120	SINTOMA 1684 1702	Eupneico en reposo
+T121	SINTOMA 1727 1757	Auscultación cardiaca: rítmica
+T122	SINTOMA 1778 1784	soplos
+T123	SINTOMA 1788 1798	extratonos
+T124	SINTOMA 1823 1853	murmullo vesicular conservados
+T125	SINTOMA 1892 1921	Exploración abdominal anodina
+T126	SINTOMA 1923 1957	Extremidades inferiores sin edemas
+T127	SINTOMA 2042 2055	ritmo sinusal
+T128	SINTOMA 2081 2093	QRS estrecho
+T129	SINTOMA 2202 2212	QTc normal
+T130	SINTOMA 2297 2347	Elevación del segmento ST de 2 mm en cara inferior
+T131	SINTOMA 2349 2384	Descenso del ST de V1-V4, aVR y aVL
+T132	SINTOMA 2410 2446	ondas T negativas profundas en V1-V3
+T133	SINTOMA 2514 2544	función renal e iones normales
+T134	SINTOMA 2546 2591	Perfil hepatobiliar sin hallazgos patológicos
+T135	SINTOMA 2617 2663	Test de tóxicos: positivo para benzodiacepinas
+T136	SINTOMA 2888 2916	índice cardiotorácico normal
+T137	SINTOMA 2949 2964	consolidaciones
+T138	SINTOMA 2967 2994	infiltrados parenquimatosos
+T139	SINTOMA 3266 3317	cavidades cardiacas de tamaño y morfología normales
+T140	SINTOMA 3319 3366	Válvula mitral con velo anterior muy redundante
+T141	SINTOMA 3656 3693	Función del ventrículo derecho normal
+T142	SINTOMA 3695 3712	Pericardio normal
+T143	SINTOMA 3830 3843	ritmo sinusal
+T144	SINTOMA 3854 3866	QRS estrecho
+T145	SINTOMA 3868 3901	Ondas T negativas profundas V2-V6
+T146	SINTOMA 3903 3964	Ondas T negativas de menor magnitud en cara inferior, I y aVL
+T147	SINTOMA 4141 4173	engrosamiento de papila duodenal
+T148	SINTOMA 4597 4611	dolor torácico
+T149	SINTOMA 4636 4669	elevación del ST en cara inferior
+T150	SINTOMA 5439 5455	dolor precordial
+T151	SINTOMA 6463 6489	inestabilidad hemodinámica
+T152	SINTOMA 6765 6776	hipotensión
+T153	SINTOMA 7352 7363	somnolencia
+T154	SINTOMA 7811 7823	asintomático
+T155	SINTOMA 7849 7863	dolor torácico
+T156	SINTOMA 8334 8346	asintomático
+T157	SINTOMA 8349 8374	hemodinámicamente estable
+T158	SINTOMA 4337 4380	Micronódulo inespecífico en lóbulo inferior
+T159	SINTOMA 2593 2615	Autoinmunidad negativa
+T160	SINTOMA 2148 2200	alteraciones de la conducción o de la repolarización
+T161	SINTOMA 2918 2944	Senos costofrénicos libres
+T162	SINTOMA 3144 3183	calibre fino de todo el árbol coronario
+T163	SINTOMA 3490 3548	Contractilidad segmentaria del ventrículo izquierdo normal
+T164	SINTOMA 4819 4858	calibre fino de todo el árbol coronario
+T165	SINTOMA 5105 5167	seriación de marcadores de daño miocárdico que fueron normales
+T166	SINTOMA 6838 6849	vasoespasmo
+T167	SINTOMA 7555 7566	vasoespasmo
+T168	SINTOMA 7866 7877	vasoespasmo
+T169	SINTOMA 8026 8037	vasoespasmo
+T170	SINTOMA 8202 8223	crisis de vasoespasmo
+T171	SINTOMA 2459 2500	hemograma y estudio de coagulación normal
+T172	SINTOMA 1708 1725	datos congestivos
+T173	SINTOMA 2708 2752	proteinograma con banda monoclonal IgM/Kappa
+T174	SINTOMA 6328 6404	función renal y los iones, incluidos el potasio y el magnesio, eran normales
+T175	SINTOMA 7428 7468	proteinograma banda monoclonal IgM Kappa
+T176	FARMACO 476 486	boceprevir
+T177	FARMACO 3205 3219	nitroglicerina
+T178	FARMACO 4880 4894	nitroglicerina
+T179	FARMACO 4937 4951	nitroglicerina
+T180	FARMACO 6660 6672	fluvastatina
+T181	FARMACO 7385 7399	hidrocortisona
+T182	FARMACO 7704 7714	cilostazol
+T183	FARMACO 8254 8264	cilostazol
+T184	FARMACO 8420 8432	fluvastatina
+#1	AnnotatorNotes T36	parada cardiorespiratoria
+#2	AnnotatorNotes T37	parada cardiorespiratoria
+#3	AnnotatorNotes T40	parada cardiorespiratoria
+#4	AnnotatorNotes T41	parada cardiorespiratoria
+#5	AnnotatorNotes T92	 antagonistas del calcio

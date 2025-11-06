@@ -1,0 +1,192 @@
+T1	ENFERMEDAD 87 110	alergias medicamentosas
+T2	ENFERMEDAD 115 136	hipertensión arterial
+T3	ENFERMEDAD 141 158	diabetes mellitus
+T4	ENFERMEDAD 179 190	cardiopatía
+T5	ENFERMEDAD 194 205	broncopatía
+T6	ENFERMEDAD 217 250	Enfermedad renal crónica avanzada
+T7	ENFERMEDAD 297 337	poliquistosis renal autosómica dominante
+T8	ENFERMEDAD 432 562	Trombosis venosa profunda proximal a nivel de femoral superficial, vena poplítea y ramas profundas y gemelares de miembro inferior
+T9	ENFERMEDAD 634 665	Pielonefritis del injerto renal
+T10	ENFERMEDAD 1570 1594	derrame pericárdico leve
+T11	ENFERMEDAD 1938 1950	tuberculosis
+T12	ENFERMEDAD 2724 2737	Hepatomegalia
+T13	ENFERMEDAD 2740 2754	esplenomegalia
+T14	ENFERMEDAD 2815 2881	miembro inferior izquierdo con signos de trombosis venosa profunda
+T15	ENFERMEDAD 3986 4016	Derrame pleural bilateral leve
+T16	ENFERMEDAD 4018 4043	Derrame pericárdico grave
+T17	ENFERMEDAD 4465 4478	valvulopatías
+T18	ENFERMEDAD 4830 4855	Derrame pericárdico grave
+T19	ENFERMEDAD 5020 5045	derrame pericárdico grave
+T20	ENFERMEDAD 5187 5206	derrame pericárdico
+T21	ENFERMEDAD 7306 7347	derrame pericárdico grave circunferencial
+T22	ENFERMEDAD 7534 7546	tuberculosis
+T23	ENFERMEDAD 7801 7818	quistes hepáticos
+T24	ENFERMEDAD 7834 7853	poliquistosis renal
+T25	ENFERMEDAD 8473 8485	tuberculosis
+T26	ENFERMEDAD 8785 8797	tuberculosis
+T27	ENFERMEDAD 9168 9187	derrame pericárdico
+T28	ENFERMEDAD 9203 9227	constricción pericárdica
+T29	ENFERMEDAD 9291 9303	tuberculosis
+T30	ENFERMEDAD 9380 9430	Derrame pericárdico por Mycobacterium tuberculosis
+T31	ENFERMEDAD 9443 9479	inmunodeprimido por trasplante renal
+T32	ENFERMEDAD 9503 9527	constricción pericárdica
+T33	ENFERMEDAD 163 174	dislipemias
+T34	ENFERMEDAD 339 389	Trasplante renal en mayo de 2018 con rechazo agudo
+T35	ENFERMEDAD 4622 4624	IT
+T36	ENFERMEDAD 4225 4289	Ventrículo izquierdo de tamaño normal, leve hipertrofia parietal
+T37	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T38	PROCEDIMIENTO 266 278	hemodiálisis
+T39	PROCEDIMIENTO 705 728	tratamiento antibiótico
+T40	PROCEDIMIENTO 1331 1345	antibioterapia
+T41	PROCEDIMIENTO 1525 1537	TAC de tórax
+T42	PROCEDIMIENTO 1741 1753	hemocultivos
+T43	PROCEDIMIENTO 1755 1766	urocultivos
+T44	PROCEDIMIENTO 1769 1779	serologías
+T45	PROCEDIMIENTO 1804 1913	detección por PCR de citomegalovirus, Pneumocystis jirovecii (en lavado broncoalveolar) y virus respiratorios
+T46	PROCEDIMIENTO 1915 1927	Baciloscopia
+T47	PROCEDIMIENTO 1929 1975	PCR para tuberculosis en lavado broncoalveolar
+T48	PROCEDIMIENTO 1978 1992	broncoaspirado
+T49	PROCEDIMIENTO 1995 2019	cultivo de micobacterias
+T50	PROCEDIMIENTO 2065 2086	lavado broncoalveolar
+T51	PROCEDIMIENTO 2097 2129	PCR de Leishmania en médula ósea
+T52	PROCEDIMIENTO 2224 2247	tratamiento antibiótico
+T53	PROCEDIMIENTO 2322 2340	Exploración física
+T54	PROCEDIMIENTO 2539 2575	Auscultación cardiaca y respiratoria
+T55	PROCEDIMIENTO 3055 3064	Hemograma
+T56	PROCEDIMIENTO 3562 3582	Sistemática de orina
+T57	PROCEDIMIENTO 3673 3682	Sedimento
+T58	PROCEDIMIENTO 3756 3774	Electrocardiograma
+T59	PROCEDIMIENTO 3926 3935	TAC tórax
+T60	PROCEDIMIENTO 4045 4057	Hemocultivos
+T61	PROCEDIMIENTO 4059 4069	urocultivo
+T62	PROCEDIMIENTO 4072 4089	cultivo de esputo
+T63	PROCEDIMIENTO 4102 4109	Mantoux
+T64	PROCEDIMIENTO 4121 4135	Ecocardiograma
+T65	PROCEDIMIENTO 5080 5095	ecocardiografía
+T66	PROCEDIMIENTO 5097 5117	Radiografía de tórax
+T67	PROCEDIMIENTO 5300 5331	Análisis de líquido pericárdico
+T68	PROCEDIMIENTO 5524 5566	Anatomía patológica de líquido pericárdico
+T69	PROCEDIMIENTO 5568 5600	citología de líquido pericárdico
+T70	PROCEDIMIENTO 5849 5862	Microbiología
+T71	PROCEDIMIENTO 5864 5895	Cultivo y antibiograma de esput
+T72	PROCEDIMIENTO 5908 5939	Cultivo y antibiograma de orina
+T73	PROCEDIMIENTO 5951 5986	Baciloscopia en liquido pericárdico
+T74	PROCEDIMIENTO 5998 6005	Cultivo
+T75	PROCEDIMIENTO 6008 6043	antibiograma en liquido pericárdico
+T76	PROCEDIMIENTO 6055 6111	PCR de tuberculosis extrapulmonar en líquido pericárdico
+T77	PROCEDIMIENTO 6296 6343	Cultivo de micobacterias en liquido pericárdico
+T78	PROCEDIMIENTO 6452 6461	Hemograma
+T79	PROCEDIMIENTO 7089 7110	tratamiento diurético
+T80	PROCEDIMIENTO 7113 7124	antibiótico
+T81	PROCEDIMIENTO 7130 7142	hemocultivos
+T82	PROCEDIMIENTO 7144 7154	urocultivo
+T83	PROCEDIMIENTO 7156 7183	cultivo de esputo y Mantoux
+T84	PROCEDIMIENTO 7208 7236	ecocardiograma transtorácico
+T85	PROCEDIMIENTO 7418 7444	tratamiento inmunosupresor
+T86	PROCEDIMIENTO 7508 7520	TAC de tórax
+T87	PROCEDIMIENTO 7558 7565	Mantoux
+T88	PROCEDIMIENTO 7698 7728	pericardiocentesis diagnóstica
+T89	PROCEDIMIENTO 7967 8003	análisis bioquímico y microbiológico
+T90	PROCEDIMIENTO 8008 8051	análisis bioquímico del líquido pericárdico
+T91	PROCEDIMIENTO 8086 8095	citología
+T92	PROCEDIMIENTO 8224 8247	análisis microbiológico
+T93	PROCEDIMIENTO 8252 8259	cultivo
+T94	PROCEDIMIENTO 8704 8730	tratamiento inmunosupresor
+T95	PROCEDIMIENTO 9009 9039	cultivo de líquido pericárdico
+T96	PROCEDIMIENTO 9117 9145	ecocardiograma transtorácico
+T97	PROCEDIMIENTO 9463 9479	trasplante renal
+T98	PROCEDIMIENTO 339 355	Trasplante renal
+T99	PROCEDIMIENTO 3196 3206	Bioquímica
+T100	PROCEDIMIENTO 6596 6606	Bioquímica
+T101	PROCEDIMIENTO 3033 3042	Analítica
+T102	PROCEDIMIENTO 6418 6435	Control analítico
+T103	PROCEDIMIENTO 2794 2813	Miembros inferiores
+T104	PROCEDIMIENTO 5121 5139	pericardiocentesis
+T105	PROCEDIMIENTO 6152 6216	Mutaciones del Mycobacterium tuberculosis en liquido pericárdico
+T106	SINTOMA 959 965	fiebre
+T107	SINTOMA 1041 1059	disnea de esfuerzo
+T108	SINTOMA 1070 1078	ortopnea
+T109	SINTOMA 1080 1116	edematización de miembros inferiores
+T110	SINTOMA 1119 1122	tos
+T111	SINTOMA 1127 1152	expectoración blanquecina
+T112	SINTOMA 1350 1374	sintomatología miccional
+T113	SINTOMA 1379 1413	alteraciones del hábito intestinal
+T114	SINTOMA 1489 1517	fiebre de origen desconocido
+T115	SINTOMA 1600 1686	patrón intersticial micronodular con nódulos bien definidos, de distribución bilateral
+T116	SINTOMA 1741 1789	hemocultivos, urocultivos y serologías negativas
+T117	SINTOMA 1915 2029	Baciloscopia, PCR para tuberculosis en lavado broncoalveolar y broncoaspirado y cultivo de micobacterias negativas
+T118	SINTOMA 2031 2095	Galactomanano para aspergillus en lavado broncoalveolar negativo
+T119	SINTOMA 2097 2138	PCR de Leishmania en médula ósea negativo
+T120	SINTOMA 2341 2360	Buen estado general
+T121	SINTOMA 2362 2380	Eupneico en reposo
+T122	SINTOMA 2516 2537	ingurgitación yugular
+T123	SINTOMA 2577 2591	tonos rítmicos
+T124	SINTOMA 2596 2602	soplos
+T125	SINTOMA 2613 2656	Murmullo vesicular sin ruidos sobreañadidos
+T126	SINTOMA 2658 2722	Abdomen: Blando, depresible, no doloroso a la palpación profunda
+T127	SINTOMA 2765 2792	Murphy y Blumberg negativos
+T128	SINTOMA 2945 3006	Miembro inferior derecho con edema en tercio distal con fóvea
+T129	SINTOMA 3673 3689	Sedimento normal
+T130	SINTOMA 3776 3789	ritmo sinusal
+T131	SINTOMA 3801 3810	PR normal
+T132	SINTOMA 3812 3824	QRS estrecho
+T133	SINTOMA 3891 3924	alteraciones de la repolarización
+T134	SINTOMA 4045 4100	Hemocultivos, urocultivo y cultivo de esputo: negativos
+T135	SINTOMA 4102 4119	Mantoux: negativo
+T136	SINTOMA 4291 4326	función sistólica global conservada
+T137	SINTOMA 5141 5169	índice cardiotorácico normal
+T138	SINTOMA 5568 5625	citología de líquido pericárdico negativa para malignidad
+T139	SINTOMA 5864 5906	Cultivo y antibiograma de esputo: negativo
+T140	SINTOMA 5908 5949	Cultivo y antibiograma de orina: negativo
+T141	SINTOMA 5998 6053	Cultivo y antibiograma en liquido pericárdico: negativo
+T142	SINTOMA 6221 6256	se detectan mutaciones en gen RPO-B
+T143	SINTOMA 6296 6382	Cultivo de micobacterias en liquido pericárdico: positivo a Mycobacterium tuberculosis
+T144	SINTOMA 7043 7057	picos febriles
+T145	SINTOMA 7074 7080	disnea
+T146	SINTOMA 7130 7200	hemocultivos, urocultivo, cultivo de esputo y Mantoux fueron negativos
+T147	SINTOMA 7266 7298	función biventricular conservada
+T148	SINTOMA 7362 7385	compromiso hemodinámico
+T149	SINTOMA 7446 7484	fiebre de origen de origen desconocido
+T150	SINTOMA 8224 8293	análisis microbiológico, el cultivo de los primeros días fue negativo
+T151	SINTOMA 8594 8601	afebril
+T152	SINTOMA 9009 9068	cultivo de líquido pericárdico fue positivo a micobacterium
+T153	SINTOMA 9338 9345	afebril
+T154	SINTOMA 4148 4183	Aurícula izquierda de tamaño normal
+T155	SINTOMA 4480 4499	Raíz aórtica normal
+T156	SINTOMA 4658 4681	Aurícula derecha normal
+T157	SINTOMA 4729 4759	Vena cava inferior no dilatada
+T158	SINTOMA 4795 4828	Venas suprahepáticas no dilatadas
+T159	SINTOMA 5951 5996	Baciloscopia en liquido pericárdico: negativo
+T160	SINTOMA 6113 6150	PCR del complejo tuberculoso positivo
+T161	SINTOMA 8304 8342	PCR positiva para complejo tuberculoso
+T162	SINTOMA 8347 8386	presencia de mutaciones en el gen RPO-B
+T163	SINTOMA 3864 3885	alternancia eléctrica
+T164	SINTOMA 5208 5244	Aumento de trama vascular perihiliar
+T165	SINTOMA 4501 4528	Cavidades derechas normales
+T166	SINTOMA 5250 5262	condensación
+T167	SINTOMA 3829 3839	eje normal
+T168	SINTOMA 3937 3984	patrón pulmonar micronodular bilateral y difuso
+T169	SINTOMA 5266 5298	ocupación de senos costofrénicos
+T170	SINTOMA 1792 1913	ausencia de detección por PCR de citomegalovirus, Pneumocystis jirovecii (en lavado broncoalveolar) y virus respiratorios
+T171	SINTOMA 3577 3671	orina: glucosa, proteínas, bilirrubina hemoglobina, esterasa leucocitaria y nitritos negativos
+T172	SINTOMA 4225 4262	Ventrículo izquierdo de tamaño normal
+T173	SINTOMA 8032 8078	líquido pericárdico fue compatible con exudado
+T174	FARMACO 620 632	acenocumarol
+T175	FARMACO 750 760	prednisona
+T176	FARMACO 777 787	tacrolimus
+T177	FARMACO 803 812	omeprazol
+T178	FARMACO 829 840	enoxaparina
+T179	FARMACO 858 868	furosemida
+T180	FARMACO 2278 2292	ciprofloxacino
+T181	FARMACO 3702 3712	tacrolimus
+T182	FARMACO 8414 8425	rifampicina
+T183	FARMACO 8732 8742	tacrolimus
+T184	FARMACO 8745 8755	prednisona
+T185	FARMACO 8802 8812	isoniacida
+T186	FARMACO 8815 8825	piridoxina
+T187	FARMACO 8827 8837	rifabutina
+T188	FARMACO 8839 8848	etambutol
+T189	FARMACO 8851 8863	pirazinamida
+T190	FARMACO 8903 8913	isoniacida
+T191	FARMACO 8916 8926	piridoxina
+T192	FARMACO 8929 8939	rifabutina

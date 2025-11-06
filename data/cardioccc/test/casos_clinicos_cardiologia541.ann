@@ -1,0 +1,108 @@
+T1	ENFERMEDAD 4722 4740	eventos arrítmicos
+T2	ENFERMEDAD 75 98	alergias medicamentosas
+T3	ENFERMEDAD 110 113	HTA
+T4	ENFERMEDAD 135 160	hipotiroidismo subclínico
+T5	ENFERMEDAD 162 170	artritis
+T6	ENFERMEDAD 172 184	osteoporosis
+T7	ENFERMEDAD 202 210	glaucoma
+T8	ENFERMEDAD 1634 1637	TVP
+T9	ENFERMEDAD 2591 2636	hipertrofia ventricular izquierda concéntrica
+T10	ENFERMEDAD 2773 2778	PTDVI
+T11	ENFERMEDAD 3070 3089	derrame pericárdico
+T12	ENFERMEDAD 3883 3902	necrosis miocárdica
+T13	ENFERMEDAD 4080 4096	angina inestable
+T14	ENFERMEDAD 4155 4163	isquemia
+T15	ENFERMEDAD 186 199	hipermetropía
+T16	ENFERMEDAD 2933 2935	IM
+T17	ENFERMEDAD 3035 3042	IT leve
+T18	ENFERMEDAD 4444 4477	arterias coronarias muy tortuosas
+T19	ENFERMEDAD 3573 3606	arterias coronarias muy tortuosas
+T20	ENFERMEDAD 5149 5208	Trayecto intramiocárdico de la arteria descendente anterior
+T21	ENFERMEDAD 4522 4589	DA medio-distal con puente intramiocárdico que condicionaba milking
+T22	ENFERMEDAD 3651 3693	DA medio-distal con puente intramiocárdico
+T23	ENFERMEDAD 3208 3252	Descendente anterior: puente intramiocárdico
+T24	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDIMIENTO 667 670	ECG
+T26	PROCEDIMIENTO 896 899	ECG
+T27	PROCEDIMIENTO 1058 1061	ECG
+T28	PROCEDIMIENTO 1118 1121	ECG
+T29	PROCEDIMIENTO 1310 1328	exploración física
+T30	PROCEDIMIENTO 1478 1480	AC
+T31	PROCEDIMIENTO 1545 1547	AP
+T32	PROCEDIMIENTO 1664 1667	ECG
+T33	PROCEDIMIENTO 1755 1758	ECG
+T34	PROCEDIMIENTO 1850 1853	ECG
+T35	PROCEDIMIENTO 1941 1960	Analítica sanguínea
+T36	PROCEDIMIENTO 2425 2445	Radiografía de tórax
+T37	PROCEDIMIENTO 2541 2569	Ecocardiograma transtorácico
+T38	PROCEDIMIENTO 3139 3154	Coronariografía
+T39	PROCEDIMIENTO 3748 3766	exploración física
+T40	PROCEDIMIENTO 3915 3935	radiografía de tórax
+T41	PROCEDIMIENTO 4009 4023	ecocardiograma
+T42	PROCEDIMIENTO 4415 4430	coronariografía
+T43	PROCEDIMIENTO 4752 4766	monitorización
+T44	PROCEDIMIENTO 4804 4830	tratamiento betabloqueante
+T45	PROCEDIMIENTO 3807 3816	analítica
+T46	SINTOMA 298 387	opresión centrotorácica irradiada a extremidad superior izquierda (ESI) con los esfuerzos
+T47	SINTOMA 518 568	dolor precordial opresivo irradiado a hombro y ESI
+T48	SINTOMA 675 680	dolor
+T49	SINTOMA 695 708	ritmo sinusal
+T50	SINTOMA 713 745	onda T negativa en V4-6, I y AVL
+T51	SINTOMA 908 922	dolor torácico
+T52	SINTOMA 1003 1008	dolor
+T53	SINTOMA 1183 1206	alteraciones eléctricas
+T54	SINTOMA 1212 1244	onda T negativa de V2-6, I y AVL
+T55	SINTOMA 1276 1288	asintomática
+T56	SINTOMA 1330 1340	consciente
+T57	SINTOMA 1343 1352	orientada
+T58	SINTOMA 1354 1368	normohidratada
+T59	SINTOMA 1371 1386	bien perfundida
+T60	SINTOMA 1388 1406	Eupneica en reposo
+T61	SINTOMA 1421 1441	trabajo respiratorio
+T62	SINTOMA 1446 1448	IY
+T63	SINTOMA 1458 1476	signos congestivos
+T64	SINTOMA 1478 1489	AC: rítmica
+T65	SINTOMA 1514 1520	soplos
+T66	SINTOMA 1524 1543	extratonos audibles
+T67	SINTOMA 1587 1602	Abdomen anodino
+T68	SINTOMA 1604 1620	EEII: sin edemas
+T69	SINTOMA 1624 1637	signos de TVP
+T70	SINTOMA 1671 1684	ritmo sinusal
+T71	SINTOMA 1696 1705	PR normal
+T72	SINTOMA 1707 1719	QRS estrecho
+T73	SINTOMA 1721 1753	onda T negativa en V4-6, I y AVL
+T74	SINTOMA 1762 1775	ritmo sinusal
+T75	SINTOMA 1786 1795	PR normal
+T76	SINTOMA 1797 1809	QRS estrecho
+T77	SINTOMA 1815 1848	alteraciones de la repolarización
+T78	SINTOMA 1857 1870	ritmo sinusal
+T79	SINTOMA 1881 1890	PR normal
+T80	SINTOMA 1892 1904	QRS estrecho
+T81	SINTOMA 1906 1939	onda T negativa en V4-V6, I y AVL
+T82	SINTOMA 2447 2480	silueta cardiomediastínica normal
+T83	SINTOMA 2571 2585	VI no dilatado
+T84	SINTOMA 2645 2680	Función sistólica global conservada
+T85	SINTOMA 3044 3064	PAPs estimada normal
+T86	SINTOMA 3093 3114	masas intracavitarias
+T87	SINTOMA 4238 4262	estabilidad hemodinámica
+T88	SINTOMA 4628 4640	asintomática
+T89	SINTOMA 5070 5084	Dolor torácico
+T90	SINTOMA 5257 5285	Función sistólica conservada
+T91	SINTOMA 1549 1585	normoventilación en todos los campos
+T92	SINTOMA 2836 2854	VD normocontráctil
+T93	SINTOMA 2889 2903	VM velos finos
+T94	SINTOMA 4482 4505	enfermedad angiográfica
+T95	SINTOMA 5086 5118	Arterias coronarias sin lesiones
+T96	SINTOMA 2792 2834	Cavidades derechas de dimensiones normales
+T97	SINTOMA 2734 2758	Patrón diastólico normal
+T98	SINTOMA 2486 2520	alteraciones pleuroparenquimatosas
+T99	SINTOMA 3156 3193	tronco común izquierdo sin enfermedad
+T100	SINTOMA 3374 3420	Circunfleja: vaso muy bucleado, sin enfermedad
+T101	SINTOMA 3435 3463	Coronaria derecha: dominante
+T102	SINTOMA 3293 3300	milking
+T103	SINTOMA 3711 3718	milking
+T104	SINTOMA 3748 3793	exploración física fue en todo momento normal
+T105	SINTOMA 4009 4048	ecocardiograma sin hallazgos de interés
+T106	SINTOMA 3915 3971	radiografía de tórax donde no se apreciaban alteraciones
+T107	SINTOMA 5234 5241	milking
+T108	FARMACO 4846 4854	emconcor

@@ -1,0 +1,116 @@
+T1	DISEASE 167 170	HTA
+T2	DISEASE 172 174	DM
+T3	DISEASE 1141 1163	insuficiencia cardiaca
+T4	DISEASE 1170 1191	fibrilación auricular
+T5	DISEASE 1600 1619	derrame pericárdico
+T6	DISEASE 1621 1654	Disfunción biventricular moderada
+T7	DISEASE 1834 1903	insuficiencia cardiaca descompensada por fibrilación auricular rápida
+T8	DISEASE 1933 1979	dilatación y disfunción biventricular moderada
+T9	DISEASE 2082 2101	taquicardiomiopatía
+T10	DISEASE 2104 2130	miocardiopatía por alcohol
+T11	DISEASE 2230 2244	apnea de sueño
+T12	DISEASE 2362 2398	síndrome de apnea-hipopnea del sueño
+T13	DISEASE 2473 2477	EPOC
+T14	DISEASE 2488 2498	SAOS grave
+T15	DISEASE 3327 3349	disfunción ventricular
+T16	DISEASE 3458 3462	SAOS
+T17	DISEASE 3503 3525	insuficiencia cardiaca
+T18	DISEASE 3527 3548	Fibrilación auricular
+T19	DISEASE 3616 3635	Taquicardiomiopatía
+T20	DISEASE 3637 3673	Síndrome de apnea-hipopnea del sueño
+T21	DISEASE 3675 3679	SAOS
+T22	DISEASE 3688 3692	EPOC
+T23	DISEASE 3707 3717	Tabaquismo
+T24	DISEASE 3719 3727	Obesidad
+T25	DISEASE 176 178	DL
+T26	DISEASE 1193 1195	FA
+T27	DISEASE 2995 2997	FA
+T28	DISEASE 3104 3106	FA
+T29	DISEASE 3419 3428	FA rápida
+T30	DISEASE 1459 1466	IT leve
+T31	DISEASE 146 162	bebedor moderado
+T32	DISEASE 971 986	daño miocárdico
+T33	DISEASE 103 110	fumador
+T34	DISEASE 1745 1764	lesiones coronarias
+T35	DISEASE 485 492	síncope
+T36	DISEASE 1245 1270	AI dilatada moderadamente
+T37	DISEASE 1272 1293	AD dilatada levemente
+T38	DISEASE 1295 1331	VI levemente dilatado e hipertrófico
+T39	DISEASE 1498 1534	VM con buena apertura y reflujo leve
+T40	DISEASE 1557 1575	Vena cava dilatada
+T41	DISEASE 2400 2404	SAOS
+T42	DISEASE 3582 3614	isfunción biventricular moderada
+T43	DISEASE 138 143	obeso
+T44	DISEASE 1659 1695	vi levemente dilatado e hipertrófico
+T45	DISEASE 3199 3217	consumo de alcohol
+T46	PROCEDURE 538 556	Exploración física
+T47	PROCEDURE 910 919	Hemograma
+T48	PROCEDURE 1021 1031	Gasometría
+T49	PROCEDURE 1104 1124	Radiografía de tórax
+T50	PROCEDURE 1165 1168	ECG
+T51	PROCEDURE 1229 1243	Ecocardiograma
+T52	PROCEDURE 1713 1728	Coronariografía
+T53	PROCEDURE 2022 2037	coronariografía
+T54	PROCEDURE 2158 2168	telemetría
+T55	PROCEDURE 2503 2518	polisomnografía
+T56	PROCEDURE 2764 2768	CPAP
+T57	PROCEDURE 2934 2949	anticoagulación
+T58	PROCEDURE 2965 2988	cardioversión eléctrica
+T59	PROCEDURE 3041 3064	cardioversión eléctrica
+T60	PROCEDURE 3137 3151	ecocardiograma
+T61	PROCEDURE 3234 3254	tratamiento con CPAP
+T62	PROCEDURE 631 633	AC
+T63	PROCEDURE 674 676	AP
+T64	PROCEDURE 957 986	Marcadores de daño miocárdico
+T65	PROCEDURE 934 945	coagulación
+T66	PROCEDURE 921 931	bioquímica
+T67	PROCEDURE 3550 3573	Cardioversión eléctrica
+T68	SYMPTOM 353 400	disnea progresiva, llegando a mínimos esfuerzos
+T69	SYMPTOM 406 414	ortopnea
+T70	SYMPTOM 417 444	disnea paroxística nocturna
+T71	SYMPTOM 452 468	dolor precordial
+T72	SYMPTOM 470 483	palpitaciones
+T73	SYMPTOM 494 500	fiebre
+T74	SYMPTOM 590 597	Afebril
+T75	SYMPTOM 666 672	soplos
+T76	SYMPTOM 678 699	crepitantes bibasales
+T77	SYMPTOM 701 718	Abdomen globuloso
+T78	SYMPTOM 724 737	líquido libre
+T79	SYMPTOM 741 749	megalias
+T80	SYMPTOM 751 789	EEII: edemas con fóvea en 1⁄2 inferior
+T81	SYMPTOM 791 832	Pulsos periféricos presentes y simétricos
+T82	SYMPTOM 837 883	soplos a nivel carotídeo, abdominal ni femoral
+T83	SYMPTOM 910 955	Hemograma, bioquímica y coagulación: normales
+T84	SYMPTOM 1044 1053	hipoxemia
+T85	SYMPTOM 1056 1067	hipercapnia
+T86	SYMPTOM 1295 1316	VI levemente dilatado
+T87	SYMPTOM 1365 1413	función sistólica global moderadamente deprimida
+T88	SYMPTOM 2272 2284	QRS estrecho
+T89	SYMPTOM 2554 2572	desaturación grave
+T90	SYMPTOM 3180 3193	ritmo sinusal
+T91	SYMPTOM 3085 3098	ritmo sinusal
+T92	SYMPTOM 635 650	RsCs arrítmicos
+T93	SYMPTOM 988 1019	HbA1c, TSH, colesterol normales
+T94	SYMPTOM 1536 1555	AO normofuncionante
+T95	SYMPTOM 610 618	leve RHY
+T96	SYMPTOM 3257 3279	ventrículo no dilatado
+T97	SYMPTOM 503 521	clínica infecciosa
+T98	SYMPTOM 1426 1457	VD con función afecta por TAPSE
+#1	AnnotatorNotes T1	 HTA: hipertensión arterial
+#2	AnnotatorNotes T2	 DM: diabetes mellitus
+#3	AnnotatorNotes T13	 EPOC: enfermedad pulmonar obstructiva crónica
+#4	AnnotatorNotes T14	 SAOS: síndrome de apnea-hipopnea del sueño
+#5	AnnotatorNotes T16	 SAOS: síndrome de apnea-hipopnea del sueño
+#6	AnnotatorNotes T21	 SAOS: síndrome de apnea-hipopnea del sueño
+#7	AnnotatorNotes T22	 EPOC: enfermedad pulmonar obstructiva crónica
+#8	AnnotatorNotes T25	 DL: dislipemia
+#9	AnnotatorNotes T26	 FA: Fibrilación Auricular
+#10	AnnotatorNotes T27	 FA: Fibrilación Auricular
+#11	AnnotatorNotes T28	 FA: Fibrilación Auricular
+#12	AnnotatorNotes T29	 FA: Fibrilación Auricular
+#13	AnnotatorNotes T30	 IT: insuficiencia tricuspídea
+#14	AnnotatorNotes T36	 AI: aurícula izquierda
+#15	AnnotatorNotes T37	 AD: aurícula derecha
+#16	AnnotatorNotes T38	 VI: ventrículo izquierdo
+#17	AnnotatorNotes T39	 VM: válvula mitral
+#18	AnnotatorNotes T41	 SAOS: síndrome de apnea-hipopnea del sueño

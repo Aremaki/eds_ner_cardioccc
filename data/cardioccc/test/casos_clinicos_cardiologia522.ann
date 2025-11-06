@@ -1,0 +1,69 @@
+T1	ENFERMEDAD 3176 3206	tumoración en aurícula derecha
+T2	ENFERMEDAD 3956 3966	tumoración
+T3	ENFERMEDAD 103 121	angiomas hepáticos
+T4	ENFERMEDAD 1019 1047	Derrame pericárdico moderado
+T5	ENFERMEDAD 2832 2868	hemangioma cavernoso intramiocárdico
+T6	ENFERMEDAD 2967 3011	Adenopatías inguinales linfadenitis reactiva
+T7	ENFERMEDAD 3312 3318	mixoma
+T8	ENFERMEDAD 3328 3335	sarcoma
+T9	ENFERMEDAD 3741 3768	comunicación interauricular
+T10	ENFERMEDAD 4065 4105	Tumor vascular de bajo potencial maligno
+T11	ENFERMEDAD 4278 4311	fibrilación auricular paroxística
+T12	ENFERMEDAD 4438 4474	Hemangioma cavernoso intramiocárdico
+T13	ENFERMEDAD 1052 1079	vena cava inferior dilatada
+T14	ENFERMEDAD 3587 3607	tumoración auricular
+T15	ENFERMEDAD 2703 2715	angiomatosis
+T16	ENFERMEDAD 3405 3435	tumoración de aurícula derecha
+T17	ENFERMEDAD 3794 3841	Infiltración únicamente de septo interauricular
+T18	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T19	PROCEDIMIENTO 338 356	exploración física
+T20	PROCEDIMIENTO 472 493	Auscultación cardiaca
+T21	PROCEDIMIENTO 580 589	hemograma
+T22	PROCEDIMIENTO 592 602	bioquímica
+T23	PROCEDIMIENTO 611 629	Hormonas tiroideas
+T24	PROCEDIMIENTO 640 658	Electrocardiograma
+T25	PROCEDIMIENTO 721 741	Radiografía de tórax
+T26	PROCEDIMIENTO 806 834	Ecocardiograma transtorácico
+T27	PROCEDIMIENTO 1186 1215	Ecocardiograma transesofágico
+T28	PROCEDIMIENTO 1811 1840	Resonancia magnética cardiaca
+T29	PROCEDIMIENTO 1842 1845	RMC
+T30	PROCEDIMIENTO 2089 2116	administración de gadolinio
+T31	PROCEDIMIENTO 2227 2272	Tomografía computarizada cráneo-tórax-abdomen
+T32	PROCEDIMIENTO 2726 2773	Tomografía computarizada de arterias coronarias
+T33	PROCEDIMIENTO 2801 2830	Anatomía patológica del tumor
+T34	PROCEDIMIENTO 3096 3124	ecocardiograma transtorácico
+T35	PROCEDIMIENTO 3392 3435	resección de tumoración de aurícula derecha
+T36	PROCEDIMIENTO 3440 3463	biopsia intraoperatoria
+T37	PROCEDIMIENTO 3465 3562	Se reconstruye la aurícula derecha y el septo interauricular con dos parches de pericardio bovino
+T38	PROCEDIMIENTO 3919 3942	biopsia intraoperatoria
+T39	PROCEDIMIENTO 569 578	Analítica
+T40	PROCEDIMIENTO 4396 4411	ecocardiogramas
+T41	PROCEDIMIENTO 3229 3246	pruebas de imagen
+T42	PROCEDIMIENTO 1089 1147	administración de ecopotenciador con hexafloruro de azufre
+T43	SINTOMA 244 257	palpitaciones
+T44	SINTOMA 367 397	presión venosa yugular elevada
+T45	SINTOMA 437 470	edemas en extremidades inferiores
+T46	SINTOMA 472 502	Auscultación cardiaca: rítmica
+T47	SINTOMA 508 514	soplos
+T48	SINTOMA 580 609	hemograma y bioquímica normal
+T49	SINTOMA 611 638	Hormonas tiroideas normales
+T50	SINTOMA 660 673	ritmo sinusal
+T51	SINTOMA 684 696	QRS estrecho
+T52	SINTOMA 698 719	repolarización normal
+T53	SINTOMA 743 776	aumento del índice cardiotorácico
+T54	SINTOMA 778 804	Campos pulmonares normales
+T55	SINTOMA 836 883	ventrículo izquierdo de tamaño y función normal
+T56	SINTOMA 885 910	Aurícula izquierda normal
+T57	SINTOMA 967 1001	Válvulas morfológicamente normales
+T58	SINTOMA 1222 1272	masa intracavitaria a nivel de la aurícula derecha
+T59	SINTOMA 1684 1688	masa
+T60	SINTOMA 2646 2659	hepatomegalia
+T61	SINTOMA 2775 2798	coronarias sin lesiones
+T62	SINTOMA 4162 4187	estable hemodinámicamente
+T63	SINTOMA 912 965	Aurícula derecha ocupada por gran masa intracavitaria
+T64	SINTOMA 1853 1857	masa
+T65	SINTOMA 4190 4217	asintomática cardiovascular
+T66	SINTOMA 1180 1184	masa
+T67	SINTOMA 3859 3882	infiltración epicárdica
+T68	FARMACO 1126 1147	hexafloruro de azufre
+T69	FARMACO 4340 4350	flecainida

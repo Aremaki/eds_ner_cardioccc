@@ -1,0 +1,108 @@
+T1	DISEASE 498 521	VI severamente dilatado
+T2	DISEASE 2426 2449	VI severamente dilatado
+T3	DISEASE 100 121	IAM anterior y apical
+T4	DISEASE 2996 3004	IC aguda
+T5	DISEASE 2676 2678	IM
+T6	DISEASE 2805 2807	IT
+T7	DISEASE 360 374	TV polimórfica
+T8	DISEASE 3159 3187	TV de origen apical anterior
+T9	DISEASE 4018 4020	TV
+T10	DISEASE 309 313	TVNS
+T11	DISEASE 4883 4928	Taquicardia ventricular monomórfica sostenida
+T12	DISEASE 2967 2980	cardiomegalia
+T13	DISEASE 3889 3897	cicatriz
+T14	DISEASE 4505 4513	cicatriz
+T15	DISEASE 2924 2943	derrame pericárdico
+T16	DISEASE 4742 4760	eventos arrítmicos
+T17	DISEASE 5009 5042	miocardiopatía dilatada isquémica
+T18	DISEASE 1310 1355	taquicardia ventricular monomórfica sostenida
+T19	DISEASE 2626 2671	Leve calcificación de anillo posterior mitral
+T20	DISEASE 2687 2734	VAo: trivalva con leve esclerosis de sigmoideas
+T21	DISEASE 4607 4649	proarritmia tras resincronización cardiaca
+T22	DISEASE 5137 5149	TV isquémica
+T23	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDURE 134 162	revascularización quirúrgica
+T25	PROCEDURE 167 189	bypass VSF-DA y VSF-CD
+T26	PROCEDURE 291 308	Holter de control
+T27	PROCEDURE 339 342	EEF
+T28	PROCEDURE 376 411	Se implanta en 2003 DAI monocameral
+T29	PROCEDURE 471 485	ecocardiograma
+T30	PROCEDURE 733 777	DAI con terapia de resincronización cardiaca
+T31	PROCEDURE 779 786	DAI-TRC
+T32	PROCEDURE 927 985	implante de electrodo tetrapolar en vena lateral izquierda
+T33	PROCEDURE 1502 1528	betabloqueante intravenoso
+T34	PROCEDURE 1654 1657	ATP
+T35	PROCEDURE 1719 1737	CV interna con DAI
+T36	PROCEDURE 1831 1864	inducción anestésica con propofol
+T37	PROCEDURE 1911 1929	Exploración física
+T38	PROCEDURE 2070 2091	Auscultación cardiaca
+T39	PROCEDURE 2131 2152	Auscultación pulmonar
+T40	PROCEDURE 2217 2226	palpación
+T41	PROCEDURE 2396 2424	Ecocardiograma transtorácico
+T42	PROCEDURE 2945 2965	Radiografía de tórax
+T43	PROCEDURE 3049 3052	ECG
+T44	PROCEDURE 3189 3208	Analítica sanguínea
+T45	PROCEDURE 3210 3230	marcadores cardiacos
+T46	PROCEDURE 3439 3448	Hemograma
+T47	PROCEDURE 3530 3541	Coagulación
+T48	PROCEDURE 3756 3770	ablación de TV
+T49	PROCEDURE 3772 3870	Mediante sistema de navegación CARTO 3 se realiza reconstrucción anatómica y mapa de voltaje de VI
+T50	PROCEDURE 4249 4307	Se abolieron los LP mediante aplicación de radiofrecuencia
+T51	PROCEDURE 4344 4383	maniobras de estimulación desde VD y VI
+T52	PROCEDURE 4426 4479	se reprograma estimulación VI en bipolar desde anillo
+T53	PROCEDURE 4624 4649	resincronización cardiaca
+T54	PROCEDURE 4956 4992	terapia de resincronización cardiaca
+T55	PROCEDURE 5088 5149	Ablación mediante radiofrecuencia de sustrato de TV isquémica
+T56	PROCEDURE 1667 1701	sedación con midazolam y etomidato
+T57	PROCEDURE 3271 3281	Bioquímica
+T58	PROCEDURE 3392 3408	Función tiroidea
+T59	PROCEDURE 3648 3662	monitorización
+T60	PROCEDURE 876 888	intervención
+T61	PROCEDURE 3985 3996	pacemapping
+T62	SYMPTOM 527 566	función sistólica severamente deprimida
+T63	SYMPTOM 1895 1908	ritmo sinusal
+T64	SYMPTOM 1997 2007	consciente
+T65	SYMPTOM 2010 2019	orientado
+T66	SYMPTOM 2021 2035	normohidratado
+T67	SYMPTOM 2038 2052	normocoloreado
+T68	SYMPTOM 2054 2068	Taquipnea leve
+T69	SYMPTOM 2093 2118	ruidos cardiacos rítmicos
+T70	SYMPTOM 2123 2129	soplos
+T71	SYMPTOM 2172 2226	Abdomen blando, depresible, no doloroso a la palpación
+T72	SYMPTOM 2241 2246	masas
+T73	SYMPTOM 2250 2258	megalias
+T74	SYMPTOM 2260 2284	Peristaltismo conservado
+T75	SYMPTOM 2286 2308	Ingurgitación yugular-
+T76	SYMPTOM 2338 2352	edemas en EEII
+T77	SYMPTOM 2356 2369	signos de TVP
+T78	SYMPTOM 2465 2491	FEVI severamente deprimida
+T79	SYMPTOM 2594 2620	Aurículas de tamaño normal
+T80	SYMPTOM 2774 2803	VD de tamaño y función normal
+T81	SYMPTOM 3392 3415	Función tiroidea normal
+T82	SYMPTOM 4718 4730	asintomático
+T83	SYMPTOM 3577 3590	ritmo sinusal
+T84	SYMPTOM 3054 3065	taquicardia
+T85	SYMPTOM 4402 4413	taquicardia
+T86	SYMPTOM 5047 5086	función sistólica severamente deprimida
+T87	SYMPTOM 2310 2331	reflujo hepatoyugular
+T88	SYMPTOM 576 607	aquinesia anteroseptal y apical
+T89	SYMPTOM 1385 1427	morfología QS en derivaciones precordiales
+T90	SYMPTOM 2131 2170	Auscultación pulmonar: normoventilación
+T91	SYMPTOM 2847 2862	VCI no dilatada
+T92	SYMPTOM 3530 3549	Coagulación: normal
+T93	SYMPTOM 4708 4715	estable
+T94	SYMPTOM 3450 3460	leucocitos
+T95	SYMPTOM 4266 4268	LP
+T96	MEDICATION 1489 1499	amioradona
+T97	MEDICATION 1680 1689	midazolam
+T98	MEDICATION 1692 1701	etomidato
+T99	MEDICATION 1856 1864	propofol
+#1	AnnotatorNotes T3	Infarto Agudo de Miocardio
+#2	AnnotatorNotes T4	insuficiencia cardíaca
+#3	AnnotatorNotes T5	IM insuficiencia mitral
+#4	AnnotatorNotes T6	IT: insuficiencia tricuspidea
+#5	AnnotatorNotes T7	TV taquicardia ventricular
+#6	AnnotatorNotes T8	TV taquicardia ventricular
+#7	AnnotatorNotes T9	TV taquicardia ventricular
+#8	AnnotatorNotes T10	tquicardia ventricular no sostenida
+#9	AnnotatorNotes T34	  Estimulación antitaquicardia ventricular

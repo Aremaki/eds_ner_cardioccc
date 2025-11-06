@@ -1,0 +1,155 @@
+T1	DISEASE 7967 8024	Función sistólica ventricular izquierda gravemente afecta
+T2	DISEASE 122 145	alergias medicamentosas
+T3	DISEASE 192 201	exfumador
+T4	DISEASE 246 267	Hipertensión arterial
+T5	DISEASE 269 272	HTA
+T6	DISEASE 320 349	Diabetes mellitus (DM) tipo 2
+T7	DISEASE 339 341	DM
+T8	DISEASE 402 412	Dislipemia
+T9	DISEASE 445 459	hábito enólico
+T10	DISEASE 567 684	cardiopatía valvular aórtica degenerativa con doble lesión (estenosis aórtica grave e insuficiencia aórtica moderada)
+T11	DISEASE 627 650	estenosis aórtica grave
+T12	DISEASE 653 683	insuficiencia aórtica moderada
+T13	DISEASE 686 715	aneurisma de aorta ascendente
+T14	DISEASE 726 756	enfermedad coronaria de 1 vaso
+T15	DISEASE 982 996	Ulcus duodenal
+T16	DISEASE 1041 1079	Neoplasia de recto inferior y pulmonar
+T17	DISEASE 1186 1279	Isquemia crónica de miembros inferiores (MMII) grado II por obstrucción femoropoplitea en MID
+T18	DISEASE 1282 1317	estenosis distal a poplítea en MMII
+T19	DISEASE 1319 1351	Neurinoma del acústico izquierdo
+T20	DISEASE 1364 1382	hipoacusia en oído
+T21	DISEASE 2052 2089	bloqueo de rama derecha de has de His
+T22	DISEASE 2091 2096	BRDHH
+T23	DISEASE 2282 2318	bloqueo auriculoventricular completo
+T24	DISEASE 2333 2353	asistolia prolongada
+T25	DISEASE 2694 2747	estenosis del 100% de la arteria descendente anterior
+T26	DISEASE 3087 3103	ptosis palpebral
+T27	DISEASE 3114 3122	diplopia
+T28	DISEASE 4316 4341	trombosis venosa profunda
+T29	DISEASE 4510 4565	Lesiones hipodensas en sustancia blanca periventricular
+T30	DISEASE 4960 4965	BRDHH
+T31	DISEASE 5269 5303	Coronaria derecha: estenosis grave
+T32	DISEASE 6013 6040	Insuficiencia valvular leve
+T33	DISEASE 6136 6164	Absceso perivalvular aórtico
+T34	DISEASE 6204 6281	Insuficiencia mitral moderada-grave por desestructuración del anillo valvular
+T35	DISEASE 6298 6327	absceso en unión mitroaórtica
+T36	DISEASE 6483 6502	derrame pericárdico
+T37	DISEASE 6657 6662	shock
+T38	DISEASE 6684 6707	endocarditis infecciosa
+T39	DISEASE 6793 6834	lesión de la arteria descendente anterior
+T40	DISEASE 6995 7035	endocarditis infecciosa protésica tardía
+T41	DISEASE 7231 7249	shock cardiogénico
+T42	DISEASE 7444 7469	Insuficiencia renal aguda
+T43	DISEASE 7533 7552	fallo multiorgánico
+T44	DISEASE 7599 7670	endocarditis infecciosa protésica tardía por Staphylococcus epidermidis
+T45	DISEASE 7688 7704	SCACEST anterior
+T46	DISEASE 7770 7801	Enfermedad coronaria de 2 vasos
+T47	DISEASE 7803 7846	Oclusión crónica de coronaria derecha media
+T48	DISEASE 7848 7906	Oclusión embólica de arteria descendente anterior proximal
+T49	DISEASE 8026 8071	Shock de origen mixto, cardiogénico y séptico
+T50	DISEASE 5164 5195	Descendente anterior: estenosis
+T51	DISEASE 7437 7442	shock
+T52	DISEASE 7750 7767	hock cardiogénico
+T53	DISEASE 5851 5901	Prótesis biológica en posición aórtica con verruga
+T54	DISEASE 758 780	CD difusamente enferma
+T55	DISEASE 2719 2781	arteria descendente anterior como vaso responsable del infarto
+T56	PROCEDURE 834 953	recambio valvular, colocándose una prótesis aórtica biológica Magna Ease del número 21 y tubo supracoronario Hemashield
+T57	PROCEDURE 1010 1039	gastrectomía tipo Billroth II
+T58	PROCEDURE 1108 1129	radio y quimioterapia
+T59	PROCEDURE 1146 1165	lobectomía pulmonar
+T60	PROCEDURE 1168 1184	resección rectal
+T61	PROCEDURE 2224 2250	tratamiento antitrombótico
+T62	PROCEDURE 2408 2430	intubación orotraqueal
+T63	PROCEDURE 2444 2464	ventilación mecánica
+T64	PROCEDURE 2578 2639	colocación de marcapasos transitorio vía vena femoral derecha
+T65	PROCEDURE 2653 2668	coronariografía
+T66	PROCEDURE 2796 2808	angioplastia
+T67	PROCEDURE 2820 2850	implante destent farmacoactivo
+T68	PROCEDURE 2955 2973	Exploración física
+T69	PROCEDURE 3000 3023	Exploración neurológica
+T70	PROCEDURE 3255 3276	Auscultación pulmonar
+T71	PROCEDURE 3335 3356	Auscultación cardiaca
+T72	PROCEDURE 3807 3820	sedoanalgesia
+T73	PROCEDURE 3908 3929	Auscultación pulmonar
+T74	PROCEDURE 3988 4009	Auscultación cardiaca
+T75	PROCEDURE 4369 4393	TC craneal sin contraste
+T76	PROCEDURE 4718 4727	Hemograma
+T77	PROCEDURE 4834 4845	Coagulación
+T78	PROCEDURE 4891 4909	Electrocardiograma
+T79	PROCEDURE 4911 4914	ECG
+T80	PROCEDURE 5007 5022	Coronariografía
+T81	PROCEDURE 5045 5119	implante de marcapasos transitorio de balón por vía venosa femoral derecha
+T82	PROCEDURE 5432 5534	Angioplastia primaria: por vía arterial femoral derecha, con JL4 guía se avanza guíafloppy a DA distal
+T83	PROCEDURE 5589 5640	implante directo destent farmacoativo Resolute Onyx
+T84	PROCEDURE 5756 5786	Ecocardiografía transesofágica
+T85	PROCEDURE 5829 5849	ventilación mecánica
+T86	PROCEDURE 6504 6516	Hemocultivos
+T87	PROCEDURE 6887 6916	ecocardiografía transtorácica
+T88	PROCEDURE 6933 6963	ecocardiografía transesofágica
+T89	PROCEDURE 7074 7086	hemocultivos
+T90	PROCEDURE 7293 7316	tratamiento antibiótico
+T91	PROCEDURE 7318 7327	inotropos
+T92	PROCEDURE 7349 7397	implante de balón de contrapulsación intraórtico
+T93	PROCEDURE 7493 7507	hemofiltración
+T94	PROCEDURE 7908 7965	angioplastia primaria con implante de stent farmacoactivo
+T95	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T96	PROCEDURE 4608 4628	bioquímica de sangre
+T97	PROCEDURE 4109 4118	palpación
+T98	PROCEDURE 4597 4606	Analítica
+T99	PROCEDURE 3635 3661	perfusión de noradrenalina
+T100	PROCEDURE 4187 4196	se palpan
+T101	PROCEDURE 2175 2189	código infarto
+T102	SYMPTOM 540 563	dolor torácico opresivo
+T103	SYMPTOM 1686 1694	diplopia
+T104	SYMPTOM 1697 1725	inestabilidad para la marcha
+T105	SYMPTOM 1779 1794	pérdida de peso
+T106	SYMPTOM 1797 1804	astenia
+T107	SYMPTOM 1820 1829	febrícula
+T108	SYMPTOM 1987 2016	dolor centrotorácico opresivo
+T109	SYMPTOM 2126 2163	elevación de ST en cara anterolateral
+T110	SYMPTOM 2356 2382	inestabilidad hemodinámica
+T111	SYMPTOM 3034 3050	marcha inestable
+T112	SYMPTOM 3055 3085	lateropulsión hacia la derecha
+T113	SYMPTOM 3278 3307	murmullo vesicular conservado
+T114	SYMPTOM 3335 3365	Auscultación cardiaca: rítmico
+T115	SYMPTOM 3370 3407	soplo sistólico II/VI en foco aórtico
+T116	SYMPTOM 3409 3449	Abdomen blando, depresible y no doloroso
+T117	SYMPTOM 3454 3483	edemas en miembros inferiores
+T118	SYMPTOM 3822 3846	pupilas medias reactivas
+T119	SYMPTOM 3848 3906	Flexión de miembros superiores (MMSS) al estímulo algésico
+T120	SYMPTOM 3931 3960	murmullo vesicular conservado
+T121	SYMPTOM 4011 4018	rítmico
+T122	SYMPTOM 4023 4060	soplo sistólico II/VI en foco aórtico
+T123	SYMPTOM 4062 4090	Abdomen blando, y depresible
+T124	SYMPTOM 4123 4145	peristalsis conservada
+T125	SYMPTOM 4161 4182	irritación peritoneal
+T126	SYMPTOM 4197 4202	masas
+T127	SYMPTOM 4206 4214	megalias
+T128	SYMPTOM 4216 4256	Extremidades inferiores bien perfundidas
+T129	SYMPTOM 4262 4300	pulsos pedios conservados y simétricos
+T130	SYMPTOM 4420 4428	sangrado
+T131	SYMPTOM 4920 4934	dolor torácico
+T132	SYMPTOM 4936 4949	ritmo sinusal
+T133	SYMPTOM 4967 5005	Elevación del ST en cara anterolateral
+T134	SYMPTOM 6715 6724	febrícula
+T135	SYMPTOM 7474 7480	anuria
+T136	SYMPTOM 7566 7573	fallece
+T137	SYMPTOM 6329 6355	Disfunción sistólica grave
+T138	SYMPTOM 6360 6368	acinesia
+T139	SYMPTOM 7074 7152	hemocultivos extraídos a su ingreso, positivos para Staphylococcus epidermidis
+T140	SYMPTOM 7588 7594	Muerte
+T141	SYMPTOM 5121 5162	Tronco coronario izquierdo: sin estenosis
+T142	SYMPTOM 3313 3333	ruidos sobreañadidos
+T143	SYMPTOM 3966 3986	ruidos sobreañadidos
+T144	SYMPTOM 1758 1774	síndrome general
+T145	SYMPTOM 4447 4495	desplazamientos en las estructuras endocraneales
+T146	SYMPTOM 5241 5267	Circunfleja: sin estenosis
+T147	SYMPTOM 6540 6566	Staphylococcus epidermidis
+T148	MEDICATION 1459 1472	rosuvastatina
+T149	MEDICATION 1488 1499	clopidogrel
+T150	MEDICATION 1515 1524	omeprazol
+T151	MEDICATION 1540 1549	oxicodona
+T152	MEDICATION 1569 1580	paracetamol
+T153	MEDICATION 2477 2490	noradrenalina
+T154	MEDICATION 3648 3661	noradrenalina
+T155	MEDICATION 1586 1595	lactulosa

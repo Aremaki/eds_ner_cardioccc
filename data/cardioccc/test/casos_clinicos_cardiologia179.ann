@@ -1,0 +1,133 @@
+T1	ENFERMEDAD 103 113	hipertensa
+T2	ENFERMEDAD 115 124	diabética
+T3	ENFERMEDAD 179 208	carcinoma infiltrante de mama
+T4	ENFERMEDAD 336 347	Hepatitis B
+T5	ENFERMEDAD 356 375	Bocio intratorácico
+T6	ENFERMEDAD 510 533	estenosis aórtica grave
+T7	ENFERMEDAD 1064 1082	infección de orina
+T8	ENFERMEDAD 1537 1555	infección urinaria
+T9	ENFERMEDAD 2181 2197	trombosis venosa
+T10	ENFERMEDAD 2281 2293	endocarditis
+T11	ENFERMEDAD 2340 2361	fibrilación auricular
+T12	ENFERMEDAD 2489 2502	cardiomegalia
+T13	ENFERMEDAD 2590 2612	insuficiencia cardiaca
+T14	ENFERMEDAD 2667 2685	bocio endotorácico
+T15	ENFERMEDAD 4010 4064	Insuficiencia mitral e insuficiencia tricuspídea leves
+T16	ENFERMEDAD 4070 4091	hipertensión pulmonar
+T17	ENFERMEDAD 4148 4160	endocarditis
+T18	ENFERMEDAD 4449 4461	endocarditis
+T19	ENFERMEDAD 4586 4599	pielonefritis
+T20	ENFERMEDAD 4680 4692	endocarditis
+T21	ENFERMEDAD 4889 4912	endocarditis sobre TAVI
+T22	ENFERMEDAD 5259 5272	shock séptico
+T23	ENFERMEDAD 5323 5335	coagulopatía
+T24	ENFERMEDAD 5573 5623	shock séptico secundario a endocarditis sobre TAVI
+T25	ENFERMEDAD 5638 5718	Endocarditis tardía sobre bioprótesis aórtica por TAVI por Staphylococcus aureus
+T26	ENFERMEDAD 5768 5805	Shock séptico con fallo multiorgánico
+T27	ENFERMEDAD 5720 5766	Fracaso renal agudo en contexto de gentamicina
+T28	ENFERMEDAD 1840 1849	arrítmica
+T29	ENFERMEDAD 420 452	fibrilación auricular permanente
+T30	ENFERMEDAD 1427 1434	síncope
+T31	ENFERMEDAD 3863 3884	Disfunción diastólica
+T32	ENFERMEDAD 3886 3925	Dilatación ligera de aurícula izquierda
+T33	ENFERMEDAD 147 161	hiperuricémica
+T34	ENFERMEDAD 3927 3988	Prótesis biológica aórtica normofuncionante con insuficiencia
+T35	PROCEDIMIENTO 233 252	mastectomía radical
+T36	PROCEDIMIENTO 254 267	quimioterapia
+T37	PROCEDIMIENTO 270 282	radioterapia
+T38	PROCEDIMIENTO 567 585	radiación torácica
+T39	PROCEDIMIENTO 599 675	sustitución percutánea con implante de TAVI transfemoral Corevalve Evolut 26
+T40	PROCEDIMIENTO 1133 1156	tratamiento antibiótico
+T41	PROCEDIMIENTO 1822 1834	auscultación
+T42	PROCEDIMIENTO 2320 2338	Electrocardiograma
+T43	PROCEDIMIENTO 2467 2487	Radiografía de tórax
+T44	PROCEDIMIENTO 3166 3175	Hemograma
+T45	PROCEDIMIENTO 3284 3296	Hemocultivos
+T46	PROCEDIMIENTO 3636 3657	Estudio autoinmunidad
+T47	PROCEDIMIENTO 3728 3756	Ecocardiograma transtorácico
+T48	PROCEDIMIENTO 4162 4191	Ecocardiograma transesofágico
+T49	PROCEDIMIENTO 4507 4545	forma empírica tratamiento antibiótico
+T50	PROCEDIMIENTO 4731 4759	ecocardiograma transtorácico
+T51	PROCEDIMIENTO 4817 4846	ecocardiograma transesofágico
+T52	PROCEDIMIENTO 4953 4965	hemocultivos
+T53	PROCEDIMIENTO 5497 5514	recambio valvular
+T54	PROCEDIMIENTO 2707 2717	Bioquímica
+T55	PROCEDIMIENTO 3253 3264	Coagulación
+T56	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T57	PROCEDIMIENTO 2828 2846	Hormonas tiroideas
+T58	PROCEDIMIENTO 3002 3016	Perfil férrico
+T59	PROCEDIMIENTO 2857 2884	Pruebas de función hepática
+T60	PROCEDIMIENTO 3573 3583	Serologías
+T61	PROCEDIMIENTO 453 479	tratada con anticoagulante
+T62	PROCEDIMIENTO 3113 3135	Marcadores infecciosos
+T63	PROCEDIMIENTO 3411 3416	Orina
+T64	PROCEDIMIENTO 1600 1611	exploración
+T65	PROCEDIMIENTO 1735 1748	gafas nasales
+T66	PROCEDIMIENTO 2504 2508	TAVI
+T67	SINTOMA 905 918	cuadro febril
+T68	SINTOMA 951 957	fiebre
+T69	SINTOMA 1170 1185	diarrea líquida
+T70	SINTOMA 1214 1241	dolor periumbilical intenso
+T71	SINTOMA 1286 1303	edemas en piernas
+T72	SINTOMA 1306 1335	sensación disneica progresiva
+T73	SINTOMA 1373 1376	tos
+T74	SINTOMA 1379 1392	expectoración
+T75	SINTOMA 1403 1417	dolor torácico
+T76	SINTOMA 1419 1424	mareo
+T77	SINTOMA 1453 1474	focalidad neurológica
+T78	SINTOMA 1693 1702	febrícula
+T79	SINTOMA 1722 1730	eupneica
+T80	SINTOMA 1864 1891	soplo en foco aórtico II/VI
+T81	SINTOMA 1932 1956	hipoventilación en bases
+T82	SINTOMA 1959 1987	crepitantes en campos medios
+T83	SINTOMA 1992 2052	abdomen es blando, depresible y doloroso a nivel epigástrico
+T84	SINTOMA 2067 2088	irritación peritoneal
+T85	SINTOMA 2092 2107	visceromegalias
+T86	SINTOMA 2109 2166	Extremidades inferiores con edema con fóvea hasta rodilla
+T87	SINTOMA 2199 2240	Pulsos periféricos presentes y simétricos
+T88	SINTOMA 2372 2384	QRS estrecho
+T89	SINTOMA 2614 2651	Ensanchamiento de mediastino superior
+T90	SINTOMA 2828 2855	Hormonas tiroideas normales
+T91	SINTOMA 3440 3452	leucocituria
+T92	SINTOMA 3573 3604	Serologías: VIH y VHC negativos
+T93	SINTOMA 4731 4776	ecocardiograma transtorácico inicial negativo
+T94	SINTOMA 4953 4990	hemocultivos positivos para S. aureus
+T95	SINTOMA 5132 5161	deterioro de la función renal
+T96	SINTOMA 5277 5283	anuria
+T97	SINTOMA 5285 5320	disminución del nivel de conciencia
+T98	SINTOMA 5543 5554	falleciendo
+T99	SINTOMA 3927 3970	Prótesis biológica aórtica normofuncionante
+T100	SINTOMA 3456 3467	bacteriuria
+T101	SINTOMA 3606 3634	Anti HBs y Anti HBc positivo
+T102	SINTOMA 3659 3726	ANA, ANCA, Anti DNA nativo, ENAS, CH 50 y C4 normales y/o negativos
+T103	SINTOMA 5807 5813	Muerte
+T104	SINTOMA 1783 1815	Presión venosa yugular aumentada
+T105	SINTOMA 2530 2553	Redistribución vascular
+T106	SINTOMA 2386 2396	eje normal
+T107	SINTOMA 3816 3861	función sistólica global y segmentaria normal
+T108	SINTOMA 2556 2574	líquido en cisuras
+T109	SINTOMA 3469 3487	nitritos negativos
+T110	SINTOMA 1894 1914	segundo ruido normal
+T111	SINTOMA 2398 2428	Anomalías de la repolarización
+T112	SINTOMA 2448 2465	cubeta digitálica
+T113	SINTOMA 2504 2528	TAVI en posición aórtica
+T114	SINTOMA 3284 3345	Hemocultivos: dos series positivas para Staphylococcus aureus
+T115	SINTOMA 3411 3435	Orina: aislados hematíes
+T116	SINTOMA 3488 3571	Heces: flora habitual, sin parásitos y con toxina de Clostridium difficile negativa
+T117	SINTOMA 3758 3811	ventrículo izquierdo de diámetros y grosores normales
+T118	SINTOMA 4244 4260	imágenes móviles
+T119	SINTOMA 5167 5196	caída del filtrado glomerular
+T120	FARMACO 734 742	digoxina
+T121	FARMACO 759 769	dabigatrán
+T122	FARMACO 786 806	valsartán/amlodipino
+T123	FARMACO 825 835	furosemida
+T124	FARMACO 848 858	alopurinol
+T125	FARMACO 873 883	metformina
+T126	FARMACO 1001 1012	fosfomicina
+T127	FARMACO 4550 4561	ceftriaxona
+T128	FARMACO 4630 4641	cloxacilina
+T129	FARMACO 4643 4654	rifampicina
+T130	FARMACO 4657 4668	gentamicina
+T131	FARMACO 5023 5034	gentamicina
+T132	FARMACO 5086 5097	cloxacilina
+T133	FARMACO 5755 5766	gentamicina

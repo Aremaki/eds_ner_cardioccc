@@ -1,0 +1,143 @@
+T1	DISEASE 4075 4126	engrosamiento miocárdico en el ventrículo izquierdo
+T2	DISEASE 75 98	alergias medicamentosas
+T3	DISEASE 110 120	hipertensa
+T4	DISEASE 2591 2667	lesiones isquémicas que afectan a ambos hemisferios cerebrales y cerebelosos
+T5	DISEASE 2707 2737	sangrados intraparenquimatosos
+T6	DISEASE 3651 3703	afectación encefálica difusa de grado moderado-grave
+T7	DISEASE 3743 3767	tromboembolismo pulmonar
+T8	DISEASE 3822 3866	Bronquiectasias de segmento anterior del LSI
+T9	DISEASE 4209 4219	Adenopatía
+T10	DISEASE 4264 4289	adenopatías mediastínicas
+T11	DISEASE 4309 4338	adenopatías retroperitoneales
+T12	DISEASE 4379 4417	Quistes renales bilaterales corticales
+T13	DISEASE 4419 4443	Diverticulosis digmoidea
+T14	DISEASE 4812 4839	miocardiopatía eosinofílica
+T15	DISEASE 4887 4915	ACV con hemiplejia izquierda
+T16	DISEASE 4988 5042	infartos en ambos hemisferios cerebrales y cerebelosos
+T17	DISEASE 5111 5137	síndrome hipereosinofílico
+T18	DISEASE 5255 5276	leucemia eosinofílica
+T19	DISEASE 5475 5534	hipereosinofilia con repercusión sistémica (cardiaca y SNC)
+T20	DISEASE 5895 5958	infección polimicrobiana de úlcera de decúbito, aislándose SAMS
+T21	DISEASE 6374 6454	Síndrome hiperesosinofílico primario con afectación cardiaca y neurológica grave
+T22	DISEASE 6455 6482	Miocardiopatía eosinofílica
+T23	DISEASE 6483 6513	Infartos isquémicos cerebrales
+T24	DISEASE 6524 6543	Insuficiencia renal
+T25	DISEASE 6544 6559	Trombocitopenia
+T26	DISEASE 6560 6584	Infección polimicrobiana
+T27	DISEASE 6585 6610	Hemorragia digestiva baja
+T28	DISEASE 6611 6614	HTA
+T29	DISEASE 4043 4063	Cardiomegalia global
+T30	DISEASE 1936 1938	IT
+T31	DISEASE 2557 2559	IT
+T32	DISEASE 4702 4704	IT
+T33	DISEASE 4174 4207	derrame pleural bilateral laminar
+T34	DISEASE 5995 6006	rectorragia
+T35	DISEASE 6180 6191	rectorragia
+T36	DISEASE 1083 1090	IAMSEST
+T37	DISEASE 1931 1933	IM
+T38	DISEASE 1889 1900	AI dilatada
+T39	DISEASE 2539 2550	AI dilatada
+T40	DISEASE 2552 2554	IM
+T41	DISEASE 4655 4666	AI dilatada
+T42	DISEASE 4697 4699	IM
+T43	DISEASE 2530 2537	trombos
+T44	PROCEDURE 555 590	exploración neurológica y abdominal
+T45	PROCEDURE 606 609	ECG
+T46	PROCEDURE 882 918	tratamiento con doble antiagregación
+T47	PROCEDURE 1619 1639	Radiografía de tórax
+T48	PROCEDURE 1709 1724	Ecocardiografía
+T49	PROCEDURE 1948 1963	Coronariografía
+T50	PROCEDURE 2568 2579	RM cerebral
+T51	PROCEDURE 3122 3145	Aspirado de médula ósea
+T52	PROCEDURE 3147 3166	citometría de flujo
+T53	PROCEDURE 3497 3517	Electroencefalograma
+T54	PROCEDURE 3705 3724	TAC toracoabdominal
+T55	PROCEDURE 4492 4507	coronariografía
+T56	PROCEDURE 4557 4586	ecocardiografía transtorácica
+T57	PROCEDURE 4778 4789	RM cardiaca
+T58	PROCEDURE 4958 4969	RM cerebral
+T59	PROCEDURE 5044 5079	Eco-doppler de troncos supraórticos
+T60	PROCEDURE 5219 5242	aspirado de médula ósea
+T61	PROCEDURE 5297 5324	coprocultivo parasitológico
+T62	PROCEDURE 5393 5407	corticoterapia
+T63	PROCEDURE 6028 6069	se transfunden 2 concentrados de hematíes
+T64	PROCEDURE 6124 6136	colonoscopia
+T65	PROCEDURE 6291 6317	perfusión de sedoanalgesia
+T66	PROCEDURE 2034 2045	Rm cardiaca
+T67	PROCEDURE 2790 2808	Parásitos en heces
+T68	PROCEDURE 2934 2954	Marcadores tumorales
+T69	PROCEDURE 3264 3301	estudio de secuenciación del TCR Beta
+T70	PROCEDURE 3339 3351	Citogenética
+T71	PROCEDURE 3401 3423	Serología de helmintos
+T72	PROCEDURE 5100 5137	estudio de síndrome hipereosinofílico
+T73	PROCEDURE 2820 2840	Determinación de IgE
+T74	PROCEDURE 1117 1126	Analítica
+T75	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T76	PROCEDURE 2323 2362	administración de gadolinio intravenoso
+T77	PROCEDURE 5561 5587	bolus de metilprednisolona
+T78	PROCEDURE 3039 3054	IF plasma/orina
+T79	PROCEDURE 5159 5162	IFI
+T80	SYMPTOM 219 242	dolor torácico opresivo
+T81	SYMPTOM 281 299	cortejo vegetativo
+T82	SYMPTOM 355 405	disnea habitual hasta hacerse de mínimos esfuerzos
+T83	SYMPTOM 429 439	normotensa
+T84	SYMPTOM 442 449	afebril
+T85	SYMPTOM 454 483	murmullo vesicular conservado
+T86	SYMPTOM 490 517	ruidos patológicos, rítmica
+T87	SYMPTOM 524 530	soplos
+T88	SYMPTOM 544 550	edemas
+T89	SYMPTOM 555 601	exploración neurológica y abdominal es anodina
+T90	SYMPTOM 626 639	ritmo sinusal
+T91	SYMPTOM 655 689	descenso del ST de V2-V6, DI y aVL
+T92	SYMPTOM 1746 1785	función sistólica ligeramente deprimida
+T93	SYMPTOM 1902 1929	Alteración de la relajación
+T94	SYMPTOM 2790 2818	Parásitos en heces: negativo
+T95	SYMPTOM 2907 2932	P-ANCA y c-ANCA negativos
+T96	SYMPTOM 3093 3120	Antifosfolipidos: negativos
+T97	SYMPTOM 3527 3592	desestructuración y lentificación global de la actividad cerebral
+T98	SYMPTOM 3877 3917	engrosamiento del intersticio subpleural
+T99	SYMPTOM 4364 4377	Hígado normal
+T100	SYMPTOM 4602 4647	VI no dilatado con FEVI ligeramente deprimida
+T101	SYMPTOM 4918 4953	disminución del nivel de conciencia
+T102	SYMPTOM 5297 5340	coprocultivo parasitológico que es negativo
+T103	SYMPTOM 5995 6006	rectorragia
+T104	SYMPTOM 6319 6330	falleciendo
+T105	SYMPTOM 2837 2905	IgE: negativa: ECA: 40; ANA negativo Hep-2: 1/320; ANCA IFI positivo
+T106	SYMPTOM 2079 2105	FEVI ligeramente deprimida
+T107	SYMPTOM 5167 5214	se detectan paraproteínas en sangre ni en orina
+T108	SYMPTOM 1985 2017	Arterias coronarias sin lesiones
+T109	SYMPTOM 1827 1858	Cavidades derechas no dilatadas
+T110	SYMPTOM 1680 1706	Senos costofrénicos libres
+T111	SYMPTOM 2739 2788	Sistema ventricular simétrico y de calibre normal
+T112	SYMPTOM 4520 4552	arterias coronarias sin lesiones
+T113	SYMPTOM 1965 1983	dominancia derecha
+T114	SYMPTOM 1667 1678	infiltrados
+T115	SYMPTOM 3936 3976	nódulos apicales derechos perilinfáticos
+T116	SYMPTOM 3401 3495	Serología de helmintos: Strongyloides, Toxocara, Trichinella, Echinococcus, Fasciola negativas
+T117	SYMPTOM 4725 4736	eosinofilia
+T118	SYMPTOM 5044 5088	Eco-doppler de troncos supraórticos normales
+T119	SYMPTOM 5150 5158	ANCA (+)
+T120	SYMPTOM 5343 5381	IgE en valores dentro de la normalidad
+T121	SYMPTOM 5832 5854	aumento de eosinófilos
+T122	MEDICATION 140 150	olmesartan
+T123	MEDICATION 159 169	amlodipino
+T124	MEDICATION 920 923	AAS
+T125	MEDICATION 926 937	clopidogrel
+T126	MEDICATION 940 971	heparina de bajo peso molecular
+T127	MEDICATION 973 986	atorvastatina
+T128	MEDICATION 988 999	candesartán
+T129	MEDICATION 1002 1012	bisoprolol
+T130	MEDICATION 5412 5422	prednisona
+T131	MEDICATION 5570 5587	metilprednisolona
+T132	MEDICATION 5661 5669	imatinib
+T133	MEDICATION 5812 5820	imatinib
+T134	MEDICATION 5865 5876	hidroxiurea
+#1	AnnotatorNotes T30	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T31	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T32	 IT insuficiencia tricuspídea
+#4	AnnotatorNotes T36	 IAMSEST Infarto agudo de miocardio sin elevación del segmento ST
+#5	AnnotatorNotes T37	 IM insuficiencia mitral
+#6	AnnotatorNotes T38	 AI aurícula izquierda
+#7	AnnotatorNotes T39	 AI aurícula izquierda
+#8	AnnotatorNotes T40	 IM insuficiencia mitral
+#9	AnnotatorNotes T41	 AI aurícula izquierda

@@ -1,0 +1,74 @@
+T1	DISEASE 126 142	Fiebre reumática
+T2	DISEASE 271 274	IAM
+T3	DISEASE 473 482	sinusitis
+T4	DISEASE 888 891	TVP
+T5	DISEASE 1113 1132	lesiones coronarias
+T6	DISEASE 1195 1222	Disfunción sistólica severa
+T7	DISEASE 1507 1520	valvulopatías
+T8	DISEASE 1848 1872	Leve derrame pericárdico
+T9	DISEASE 1900 1917	miocarditis aguda
+T10	DISEASE 2084 2110	taquicardias ventriculares
+T11	DISEASE 3145 3162	miocarditis aguda
+T12	DISEASE 3327 3362	Taquicardia ventricular monomórfica
+T13	DISEASE 3431 3448	miocarditis aguda
+T14	DISEASE 1022 1075	bloqueo de rama derecha del haz de His y eje superior
+T15	PROCEDURE 82 100	exploración física
+T16	PROCEDURE 495 506	antibiótico
+T17	PROCEDURE 584 587	ECG
+T18	PROCEDURE 590 608	Exploración física
+T19	PROCEDURE 706 727	Auscultación cardiaca
+T20	PROCEDURE 750 771	Auscultación pulmonar
+T21	PROCEDURE 960 963	ECG
+T22	PROCEDURE 1079 1090	Cateterismo
+T23	PROCEDURE 1092 1107	Coronariografía
+T24	PROCEDURE 1167 1193	Ventriculografía izquierda
+T25	PROCEDURE 1285 1299	Ecocardiograma
+T26	PROCEDURE 1539 1551	RMN cardiaca
+T27	PROCEDURE 1921 1947	Estudio electrofisiológico
+T28	PROCEDURE 1972 2004	reconstrucción anatómica digital
+T29	PROCEDURE 2312 2385	aplicaciones de radiofrecuencia alrededor de las escaras en ritmo sinusal
+T30	PROCEDURE 2427 2430	ECG
+T31	PROCEDURE 2505 2513	sedación
+T32	PROCEDURE 2700 2715	coronariografía
+T33	PROCEDURE 2910 2915	IECAs
+T34	PROCEDURE 2975 2989	ecocardiograma
+T35	PROCEDURE 3060 3076	ventriculografía
+T36	PROCEDURE 3101 3113	RMN cardiaca
+T37	PROCEDURE 3184 3210	estudio electrofisiológico
+T38	PROCEDURE 2525 2548	CVE sincronizada a 100J
+T39	PROCEDURE 3403 3406	CVE
+T40	PROCEDURE 3291 3295	IECA
+T41	PROCEDURE 3298 3312	betabloqueante
+T42	PROCEDURE 3212 3227	se implanta DAI
+T43	PROCEDURE 163 183	Osteosíntesis en EID
+T44	PROCEDURE 1226 1235	Analítica
+T45	PROCEDURE 159 161	IQ
+T46	PROCEDURE 2718 2737	analíticas seriadas
+T47	PROCEDURE 2254 2271	sobreestimulación
+T48	PROCEDURE 2918 2933	betabloqueantes
+T49	SYMPTOM 31 45	dolor torácico
+T50	SYMPTOM 335 374	dolor epigástrico y precordial opresivo
+T51	SYMPTOM 386 404	cortejo vegetativo
+T52	SYMPTOM 619 629	consciente
+T53	SYMPTOM 632 641	orientado
+T54	SYMPTOM 643 651	Eupneico
+T55	SYMPTOM 683 704	ingurgitación yugular
+T56	SYMPTOM 706 736	Auscultación cardiaca: rítmico
+T57	SYMPTOM 742 748	soplos
+T58	SYMPTOM 773 802	murmullo vesicular conservado
+T59	SYMPTOM 804 838	Abdomen: Sin hallazgos patológicos
+T60	SYMPTOM 868 874	edemas
+T61	SYMPTOM 893 931	Pulsos distales presentes y simétricos
+T62	SYMPTOM 965 997	taquicardia regular de QRS ancho
+T63	SYMPTOM 1325 1357	Ventrículo izquierdo no dilatado
+T64	SYMPTOM 1362 1408	función sistólica global ligeramente deprimida
+T65	SYMPTOM 1553 1607	Hipocinesia de segmentos medioapicales de cara lateral
+T66	SYMPTOM 1610 1653	acinesia del segmento basal de cara lateral
+T67	SYMPTOM 2564 2577	ritmo sinusal
+T68	SYMPTOM 3385 3398	ritmo sinusal
+T69	SYMPTOM 840 874	Extremidades inferiores: no edemas
+T70	SYMPTOM 2804 2823	estabilidad clínica
+T71	SYMPTOM 243 252	fallecido
+T72	SYMPTOM 1411 1501	hipocinesia severa de los segmentos basales y medios de cara lateral, inferior y posterior
+T73	SYMPTOM 1672 1775	realce miocárdico tardío, se demuestra una captación de base subepicárdica que respeta el subendocardio
+T74	SYMPTOM 2024 2051	zonas de escara submitrales

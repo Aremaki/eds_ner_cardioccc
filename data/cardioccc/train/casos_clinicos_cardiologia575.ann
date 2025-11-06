@@ -1,0 +1,107 @@
+T1	DISEASE 3472 3527	edema en segmentos medios, apicales y segmento del ápex
+T2	DISEASE 1388 1407	bradicardia sinusal
+T3	DISEASE 1545 1564	bradicardia sinusal
+T4	DISEASE 1787 1802	derrame pleural
+T5	DISEASE 2468 2540	Descendente anterior (DA) con estenosis angiográficamente ligeramoderada
+T6	DISEASE 2999 3023	disfunción microvascular
+T7	DISEASE 3324 3345	síndrome de takotsubo
+T8	DISEASE 3731 3747	trombos apicales
+T9	DISEASE 4089 4152	Válvula mitral normal en estructura y función con insuficiencia
+T10	DISEASE 4192 4216	insuficencia tricuspídea
+T11	DISEASE 4382 4401	derrame pericárdico
+T12	DISEASE 4729 4787	estenosis angiográficamente ligera-moderada en DA proximal
+T13	DISEASE 4805 4823	estenosis de la DA
+T14	DISEASE 5069 5093	disfunción microvascular
+T15	DISEASE 5358 5380	síndrome de tako-tsubo
+T16	DISEASE 5576 5598	insuficiencia cardiaca
+T17	DISEASE 5930 5952	síndrome de tako-tsubo
+T18	DISEASE 6250 6272	Síndrome de tako-tsubo
+T19	DISEASE 6274 6298	Disfunción microvascular
+T20	DISEASE 6381 6451	Lesión aterosclerótica ligera-moderada en arteria descendente anterior
+T21	DISEASE 3598 3615	discinesia apical
+T22	DISEASE 5605 5623	eventos arrítmicos
+T23	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDURE 769 787	Exploración física
+T25	PROCEDURE 884 898	pulsioximetría
+T26	PROCEDURE 1042 1063	Auscultación cardiaca
+T27	PROCEDURE 1138 1159	Auscultación pulmonar
+T28	PROCEDURE 1357 1375	Electrocardiograma
+T29	PROCEDURE 1517 1535	Electrocardiograma
+T30	PROCEDURE 1688 1708	Radiografía de tórax
+T31	PROCEDURE 2251 2260	Hemograma
+T32	PROCEDURE 2357 2377	Cateterismo cardiaco
+T33	PROCEDURE 2379 2394	Coronariografía
+T34	PROCEDURE 2678 2720	tomografía de coherencia óptica (OCT) a DA
+T35	PROCEDURE 2711 2714	OCT
+T36	PROCEDURE 2935 2965	estudio de la microcirculación
+T37	PROCEDURE 3031 3047	ventriculografía
+T38	PROCEDURE 3267 3296	Resonancia magnética cardiaca
+T39	PROCEDURE 3804 3818	Ecocardiograma
+T40	PROCEDURE 4512 4530	electrocardiograma
+T41	PROCEDURE 4620 4635	coronariografía
+T42	PROCEDURE 4653 4673	cateterismo cardiaco
+T43	PROCEDURE 4858 4889	tomografía de coherencia óptica
+T44	PROCEDURE 4891 4894	OCT
+T45	PROCEDURE 4900 4903	OCT
+T46	PROCEDURE 4988 5008	estudio hemodinámico
+T47	PROCEDURE 5034 5050	microcirculación
+T48	PROCEDURE 5212 5228	ventriculografía
+T49	PROCEDURE 5773 5802	resonancia magnética cardiaca
+T50	PROCEDURE 5980 5994	ecocardiograma
+T51	PROCEDURE 1828 1838	bioquímica
+T52	PROCEDURE 3361 3428	secuencias potenciadas en T2-TSE-FAT SAT en eje corto y dos cámaras
+T53	SYMPTOM 530 579	dolor epigástrico irradiado a hemitórax izquierdo
+T54	SYMPTOM 584 602	cortejo vegetativo
+T55	SYMPTOM 637 650	palpitaciones
+T56	SYMPTOM 655 661	disnea
+T57	SYMPTOM 925 932	Afebril
+T58	SYMPTOM 934 953	Buen estado general
+T59	SYMPTOM 955 965	Consciente
+T60	SYMPTOM 968 977	orientada
+T61	SYMPTOM 979 997	Eupneica en reposo
+T62	SYMPTOM 1019 1040	ingurgitación yugular
+T63	SYMPTOM 1065 1091	ruidos cardiacos regulares
+T64	SYMPTOM 1093 1101	rítmicos
+T65	SYMPTOM 1107 1113	soplos
+T66	SYMPTOM 1118 1136	ruidos patológicos
+T67	SYMPTOM 1161 1208	normoventilación en todos los campos pulmonares
+T68	SYMPTOM 1256 1264	megalias
+T69	SYMPTOM 1266 1301	Extremidades inferiores: sin edemas
+T70	SYMPTOM 1303 1328	pulsos distales presentes
+T71	SYMPTOM 1418 1427	PR normal
+T72	SYMPTOM 1429 1441	QRS estrecho
+T73	SYMPTOM 1462 1503	Elevación del segmento ST de 1mm en V5-V6
+T74	SYMPTOM 1575 1584	PR normal
+T75	SYMPTOM 1586 1598	QRS estrecho
+T76	SYMPTOM 1610 1643	Onda T negativa en V4-V6, I y aVL
+T77	SYMPTOM 1649 1674	onda T plana en III y aVF
+T78	SYMPTOM 1710 1738	índice cardiotorácico normal
+T79	SYMPTOM 1756 1782	consolidaciones alveolares
+T80	SYMPTOM 1840 1863	Función tiroidea normal
+T81	SYMPTOM 3062 3196	ventrículo izquierdo (VI) de tamaño normal con acinesia de todos los segmentos apicales e hipercontractilidad de los segmentos basales
+T82	SYMPTOM 3109 3196	acinesia de todos los segmentos apicales e hipercontractilidad de los segmentos basales
+T83	SYMPTOM 3759 3801	Ventrículo derecho (VD) con función normal
+T84	SYMPTOM 3828 3876	ventrículo izquierdo de tamaño y grosor normales
+T85	SYMPTOM 3878 3930	Fracción de eyección del ventrículo izquierdo normal
+T86	SYMPTOM 4089 4134	Válvula mitral normal en estructura y función
+T87	SYMPTOM 4545 4570	elevación del segmento ST
+T88	SYMPTOM 5246 5329	acinesia de los segmentos apicales con hipercontractilidad de los segmentos basales
+T89	SYMPTOM 5402 5427	hemodinámicamente estable
+T90	SYMPTOM 5434 5439	dolor
+T91	SYMPTOM 5547 5561	dolor torácico
+T92	SYMPTOM 5820 5856	edema en segmentos medios y apicales
+T93	SYMPTOM 402 419	episodio sincopal
+T94	SYMPTOM 673 680	síncope
+T95	SYMPTOM 999 1014	tolera decúbito
+T96	SYMPTOM 4030 4055	Ventrículo derecho normal
+T97	SYMPTOM 4334 4366	raíz aórtica es de tamaño normal
+T98	SYMPTOM 1210 1250	Abdomen: blando, depresible, no doloroso
+T99	SYMPTOM 4305 4329	Válvula aórtica trivalva
+T100	SYMPTOM 2396 2414	dominancia derecha
+T101	SYMPTOM 1443 1453	eje normal
+T102	SYMPTOM 2416 2452	Tronco común izquierdo sin estenosis
+T103	SYMPTOM 5098 5141	valor bajo de la reserva de flujo coronario
+T104	SYMPTOM 5150 5193	alto el índice de resistencia microvascular
+T105	MEDICATION 6136 6146	bisoprolol
+T106	MEDICATION 6169 6178	enalapril
+T107	MEDICATION 6202 6215	atorvastatina

@@ -1,0 +1,185 @@
+T1	DISEASE 257 280	alergias medicamentosas
+T2	DISEASE 295 297	DM
+T3	DISEASE 302 305	HTA
+T4	DISEASE 310 320	dislipemia
+T5	DISEASE 465 488	Estenosis mitral severa
+T6	DISEASE 867 934	Fibrilación auricular permanente secundaria a su patología valvular
+T7	DISEASE 1815 1838	hipotensión refractaria
+T8	DISEASE 2220 2239	trombosis protésica
+T9	DISEASE 3321 3332	adenopatías
+T10	DISEASE 3677 3702	trombosis venosa profunda
+T11	DISEASE 3991 3994	TVP
+T12	DISEASE 5068 5094	AI con imágenes de trombos
+T13	DISEASE 5506 5552	trombo móvil en desembocadura de cava inferior
+T14	DISEASE 5703 5729	Trombosis protésica mitral
+T15	DISEASE 5773 5796	Múltiples trombos en AI
+T16	DISEASE 5798 5818	Disfunción VI severa
+T17	DISEASE 5821 5838	embolia coronaria
+T18	DISEASE 6398 6411	trombos en AI
+T19	DISEASE 7452 7463	anemización
+T20	DISEASE 7771 7797	Trombosis protésica mitral
+T21	DISEASE 7920 7978	Disfunción VI severa con alteraciones de la contractilidad
+T22	DISEASE 8059 8076	embolia coronaria
+T23	DISEASE 4496 4502	BIRDHH
+T24	DISEASE 1592 1595	EAP
+T25	DISEASE 1704 1714	FA con RVR
+T26	DISEASE 2971 2973	FA
+T27	DISEASE 4448 4450	FA
+T28	DISEASE 5297 5299	FA
+T29	DISEASE 322 340	Fumador esporádico
+T30	DISEASE 774 802	Regurgitación aórtica ligera
+T31	DISEASE 379 395	bebedor habitual
+T32	DISEASE 1569 1590	edema agudo de pulmón
+T33	DISEASE 6197 6216	lesiones coronarias
+T34	DISEASE 804 831	Dilatación ligera auricular
+T35	DISEASE 3733 3749	tonos arrítmicos
+T36	DISEASE 4181 4221	suelta trombótica a cavidades izquierdas
+T37	DISEASE 7199 7227	alteración de la coagulación
+T38	DISEASE 7876 7916	suelta trombótica a cavidades izquierdas
+T39	DISEASE 8080 8146	Deterioro de la función renal secundario a situación de bajo gasto
+T40	DISEASE 6877 6896	bradicardia sinusal
+T41	DISEASE 5434 5440	trombo
+T42	DISEASE 6414 6463	trombos que ocasionaban oclusión del citado disco
+T43	PROCEDURE 221 239	exploración física
+T44	PROCEDURE 555 690	sustitución valvular mitral en abril de 2011 por prótesis metálica no 27 Carbomedics mediante técnica mínimamente invasiva (Heart Port)
+T45	PROCEDURE 695 724	ecocardiografía transtorácica
+T46	PROCEDURE 726 729	ETT
+T47	PROCEDURE 1609 1641	ventilación mecánica no invasiva
+T48	PROCEDURE 1643 1647	VMNI
+T49	PROCEDURE 1805 1809	VMNI
+T50	PROCEDURE 1879 1901	intubación orotraqueal
+T51	PROCEDURE 1903 1906	IOT
+T52	PROCEDURE 1920 1940	ventilación mecánica
+T53	PROCEDURE 1942 1944	VM
+T54	PROCEDURE 2070 2073	ETT
+T55	PROCEDURE 2330 2342	fibrinólisis
+T56	PROCEDURE 2448 2509	anticoagulación con bolo de 4.000 UI de heparina sódica y p.c
+T57	PROCEDURE 2766 2769	IOT
+T58	PROCEDURE 2772 2786	conectado a VM
+T59	PROCEDURE 3197 3215	exploración física
+T60	PROCEDURE 3344 3365	Auscultación cardiaca
+T61	PROCEDURE 3485 3506	Auscultación pulmonar
+T62	PROCEDURE 3709 3721	auscultación
+T63	PROCEDURE 4072 4075	ETT
+T64	PROCEDURE 4087 4117	ecocardiografía transesofágica
+T65	PROCEDURE 4119 4122	ETE
+T66	PROCEDURE 4359 4370	cateterismo
+T67	PROCEDURE 4443 4446	ECG
+T68	PROCEDURE 4577 4587	Gasometría
+T69	PROCEDURE 4926 4929	ETE
+T70	PROCEDURE 5886 5889	ETE
+T71	PROCEDURE 5965 5980	coronariografía
+T72	PROCEDURE 6038 6041	ECG
+T73	PROCEDURE 6173 6184	cateterismo
+T74	PROCEDURE 6570 6593	retirada de la prótesis
+T75	PROCEDURE 6838 6872	Se conectó a marcapasos epicárdico
+T76	PROCEDURE 6988 7004	apoyo inotrópico
+T77	PROCEDURE 7249 7276	trasfusión de hemoderivados
+T78	PROCEDURE 7489 7517	transfusión de hemoderivados
+T79	PROCEDURE 7662 7670	extubado
+T80	PROCEDURE 7989 7992	ECG
+T81	PROCEDURE 6643 6646	CEC
+T82	PROCEDURE 6907 6910	CEC
+T83	PROCEDURE 7829 7841	Fibrinólisis
+T84	PROCEDURE 4645 4650	iones
+T85	PROCEDURE 4751 4756	iones
+T86	PROCEDURE 3133 3146	Anticoagulado
+T87	PROCEDURE 4677 4686	Analítica
+T88	PROCEDURE 936 983	Intervenciones quirúrgicas previas: ‘Cervicales
+T89	PROCEDURE 2918 2924	aminas
+T90	PROCEDURE 2271 2280	analítica
+T91	PROCEDURE 7814 7827	anticoagulado
+T92	PROCEDURE 7339 7363	concentrados de hematíes
+T93	PROCEDURE 6060 6083	intervención quirúrgica
+T94	PROCEDURE 6341 6364	intervención quirúrgica
+T95	PROCEDURE 7285 7291	plasma
+T96	PROCEDURE 7296 7313	pool de plaquetas
+T97	PROCEDURE 2692 2707	sedoanalgesiado
+T98	PROCEDURE 6585 6604	prótesis e implante
+T99	SYMPTOM 117 134	disnea progresiva
+T100	SYMPTOM 136 143	astenia
+T101	SYMPTOM 145 153	ortopnea
+T102	SYMPTOM 156 159	tos
+T103	SYMPTOM 1217 1231	dolor torácico
+T104	SYMPTOM 1441 1481	disnea creciente hasta hacerse de reposo
+T105	SYMPTOM 1483 1503	expectoración rosada
+T106	SYMPTOM 1505 1512	palidez
+T107	SYMPTOM 1515 1525	diaforesis
+T108	SYMPTOM 1662 1688	inestabilidad hemodinámica
+T109	SYMPTOM 1764 1790	mala mecánica respiratoria
+T110	SYMPTOM 1841 1852	oligoanuria
+T111	SYMPTOM 3004 3023	Diuresis conservada
+T112	SYMPTOM 3273 3283	Consciente
+T113	SYMPTOM 3285 3294	orientada
+T114	SYMPTOM 3367 3391	Tonos cardiacos rítmicos
+T115	SYMPTOM 3402 3483	soplo pansistólico de intensidad III/VI a nivel de foco mitral, irradiado a axila
+T116	SYMPTOM 3508 3537	Murmullo vesicular conservado
+T117	SYMPTOM 3539 3594	Abdomen: Blando, depresible, no doloroso a la palpación
+T118	SYMPTOM 3609 3614	masas
+T119	SYMPTOM 3618 3626	megalias
+T120	SYMPTOM 3628 3663	Extremidades inferiores: Sin edemas
+T121	SYMPTOM 3770 3776	soplos
+T122	SYMPTOM 3780 3790	extratonos
+T123	SYMPTOM 3796 3833	clic protésico audible en foco mitral
+T124	SYMPTOM 3835 3879	Murmullo vesicular conservado bilateralmente
+T125	SYMPTOM 3885 3922	crepitantes en ambas bases pulmonares
+T126	SYMPTOM 3924 3945	Abdomen sin hallazgos
+T127	SYMPTOM 4474 4494	Eje eléctrico normal
+T128	SYMPTOM 4958 4982	FE severamente deprimida
+T129	SYMPTOM 6703 6736	hipocontractilidad marcada del VI
+T130	SYMPTOM 7416 7449	sangrado a través de los drenajes
+T131	SYMPTOM 7702 7723	déficits neurológicos
+T132	SYMPTOM 740 772	Prótesis mitral normofuncionante
+T133	SYMPTOM 4645 4659	iones normales
+T134	SYMPTOM 4751 4765	iones normales
+T135	SYMPTOM 833 865	Fracción de eyección (FE) normal
+T136	SYMPTOM 2170 2203	no apertura de la prótesis mitral
+T137	SYMPTOM 4245 4271	FEVI severamente deprimida
+T138	SYMPTOM 4504 4519	Descenso del ST
+T139	SYMPTOM 5008 5049	Válvula aórtica trivalva normofuncionante
+T140	SYMPTOM 3947 3977	Miembros inferiores sin edemas
+T141	SYMPTOM 1396 1435	deterioro progresivo del estado general
+T142	SYMPTOM 4987 5006	hipoquinesia global
+T143	SYMPTOM 5178 5254	Prótesis mitral con disco anterior fijo y posterior con movilidad conservada
+T144	SYMPTOM 3296 3304	reactiva
+T145	SYMPTOM 3306 3316	perceptiva
+T146	SYMPTOM 4906 4922	TPTA: No coagula
+T147	SYMPTOM 4939 4953	VI no dilatado
+T148	SYMPTOM 5612 5687	VD no dilatado con función sistólica en el límite inferior de la normalidad
+T149	SYMPTOM 5990 6023	alteraciones de la contractilidad
+T150	SYMPTOM 6030 6041	cambios ECG
+T151	SYMPTOM 6280 6328	no movilidad de uno de los discos de la prótesis
+T152	SYMPTOM 6480 6512	restos del velo posterior mitral
+T153	SYMPTOM 7602 7625	buena función protésica
+T154	SYMPTOM 7981 7992	cambios ECG
+T155	MEDICATION 1023 1030	Sintrom
+T156	MEDICATION 1037 1050	pitavastatina
+T157	MEDICATION 1057 1067	bisoprolol
+T158	MEDICATION 1090 1098	digoxina
+T159	MEDICATION 1135 1146	lansoprazol
+T160	MEDICATION 1154 1163	lorazepam
+T161	MEDICATION 1958 1971	noradrenalina
+T162	MEDICATION 1974 1984	furosemida
+T163	MEDICATION 2356 2360	rTPA
+T164	MEDICATION 2395 2399	rTPA
+T165	MEDICATION 2488 2503	heparina sódica
+T166	MEDICATION 2709 2718	midazolam
+T167	MEDICATION 2734 2749	cloruro mórfico
+T168	MEDICATION 2926 2939	noradrenalina
+T169	MEDICATION 3037 3047	furosemida
+T170	MEDICATION 3151 3166	heparina sódica
+T171	MEDICATION 7006 7016	dobutamina
+T172	MEDICATION 7034 7047	noradrenalina
+T173	MEDICATION 7066 7076	adrenalina
+T174	MEDICATION 7095 7107	levosimendán
+T175	MEDICATION 7580 7595	heparina sódica
+T176	MEDICATION 7323 7334	fibrinógeno
+#1	AnnotatorNotes T2	 DM: diabetes mellitus
+#2	AnnotatorNotes T3	 HTA: hipertensión arterial
+#3	AnnotatorNotes T11	 TVP: trombosis venosa profunda
+#4	AnnotatorNotes T23	 BIRDHH: Bloqueo incompleto rama derecha Haz de Hiz
+#5	AnnotatorNotes T24	 EAP: edema agudo de pulmón
+#6	AnnotatorNotes T25	 FA: fibrilación auricular|RVR: respuesta ventricular rápida
+#7	AnnotatorNotes T26	FA: fibrilación auricular
+#8	AnnotatorNotes T27	 FA: fibrilación auricular
+#9	AnnotatorNotes T28	 FA: fibrilación auricular

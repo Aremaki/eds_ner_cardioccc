@@ -1,0 +1,53 @@
+T1	ENFERMEDAD 196 212	parálisis facial
+T2	ENFERMEDAD 246 266	síndrome de Steinert
+T3	ENFERMEDAD 1048 1054	anemia
+T4	ENFERMEDAD 1608 1633	Insuficiencia tricuspídea
+T5	ENFERMEDAD 1773 1795	Insuficiencia pulmonar
+T6	ENFERMEDAD 1846 1865	derrame pericárdico
+T7	ENFERMEDAD 1981 1996	derrame pleural
+T8	ENFERMEDAD 2201 2224	cardiopatía estructural
+T9	ENFERMEDAD 2239 2295	Enfermedad de Steinert con alteraciones de la conducción
+T10	ENFERMEDAD 675 682	síncope
+T11	ENFERMEDAD 177 191	lengua plicata
+T12	ENFERMEDAD 451 485	bloqueo completo de rama izquierda
+T13	ENFERMEDAD 487 491	BCRI
+T14	ENFERMEDAD 684 694	presíncope
+T15	ENFERMEDAD 834 838	BCRI
+T16	ENFERMEDAD 945 991	alteraciones de la conducción intraventricular
+T17	ENFERMEDAD 1224 1307	Válvula mitral de velos finos no engrosados con jet de insuficiencia ligera central
+T18	ENFERMEDAD 532 561	alteraciones de la conducción
+T19	ENFERMEDAD 2112 2141	alteraciones de la conducción
+T20	PROCEDIMIENTO 122 140	exploración física
+T21	PROCEDIMIENTO 350 368	electrocardiograma
+T22	PROCEDIMIENTO 370 373	ECG
+T23	PROCEDIMIENTO 494 512	Electrocardiograma
+T24	PROCEDIMIENTO 633 655	implante de marcapasos
+T25	PROCEDIMIENTO 760 763	ECG
+T26	PROCEDIMIENTO 842 845	ECG
+T27	PROCEDIMIENTO 1111 1140	Ecocardiografía transtorácica
+T28	PROCEDIMIENTO 1869 1880	Rx de tórax
+T29	PROCEDIMIENTO 2062 2084	implante de marcapasos
+T30	PROCEDIMIENTO 2105 2108	ECG
+T31	PROCEDIMIENTO 1015 1020	iones
+T32	PROCEDIMIENTO 1023 1036	función renal
+T33	PROCEDIMIENTO 995 1004	Analítica
+T34	SINTOMA 696 709	palpitaciones
+T35	SINTOMA 778 791	Ritmo sinusal
+T36	SINTOMA 887 900	Ritmo sinusal
+T37	SINTOMA 1006 1043	Glucosa, iones y función renal normal
+T38	SINTOMA 1058 1068	leucopenia
+T39	SINTOMA 1070 1083	Plaquetopenia
+T40	SINTOMA 1405 1453	Raíz aórtica y aorta ascendente de tamaño normal
+T41	SINTOMA 1224 1253	Válvula mitral de velos finos
+T42	SINTOMA 1455 1510	Fracción de eyección de ventrículo izquierdo conservada
+T43	SINTOMA 1479 1557	ventrículo izquierdo conservada sin defectos segmentarios de la contractilidad
+T44	SINTOMA 331 368	alteraciones en el electrocardiograma
+T45	SINTOMA 1142 1190	Ventrículo izquierdo no dilatado ni hipertrófico
+T46	SINTOMA 1192 1222	Aurícula izquierda no dilatada
+T47	SINTOMA 1348 1403	Válvula aórtica trivalva con adecuada apertura y cierre
+T48	SINTOMA 1559 1606	Cavidades derechas normales en tamaño y función
+T49	SINTOMA 1805 1826	Vena cava no dilatada
+T50	SINTOMA 1882 1928	Silueta cardiaca en el límite de la normalidad
+T51	SINTOMA 1933 1976	alteraciones a nivel de parénquima pulmonar
+#1	AnnotatorNotes T13	 BCRI: Bloqueo completo rama izq
+#2	AnnotatorNotes T15	 BCRI: Bloqueo completo rama izq

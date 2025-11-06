@@ -1,0 +1,111 @@
+T1	DISEASE 194 218	Tromboembolismo pulmonar
+T2	DISEASE 261 290	neuropatía isquémica anterior
+T3	DISEASE 292 330	Conectivopatía indiferenciada con ANA+
+T4	DISEASE 361 391	Hiperparatiroidismo secundario
+T5	DISEASE 393 407	Litiasis renal
+T6	DISEASE 417 435	Síndrome depresivo
+T7	DISEASE 1585 1588	TVP
+T8	DISEASE 2514 2517	TEP
+T9	DISEASE 2686 2711	Derrame pleural bilateral
+T10	DISEASE 2762 2792	insuficiencia cardiaca derecha
+T11	DISEASE 3139 3214	Prolapso de velo posterior de válvula mitral por rotura de cuerda tendinosa
+T12	DISEASE 3379 3398	derrame pericárdico
+T13	DISEASE 3463 3547	arteria descendente anterior muestra irregularidades difusas con una lesión moderada
+T14	DISEASE 3700 3746	ramas obtusas marginales con ateromatosis leve
+T15	DISEASE 4142 4199	insuficiencia mitral severa por prolapso posterior mitral
+T16	DISEASE 4210 4238	rotura de cuerdas tendinosas
+T17	DISEASE 4973 5034	aurícula izquierda, observando rotura de una cuerda tendinosa
+T18	DISEASE 5597 5633	bloqueo auriculoventricular completo
+T19	DISEASE 5670 5691	fibrilación auricular
+T20	DISEASE 5822 5836	cuadro séptico
+T21	DISEASE 6219 6284	Insuficiencia mitral severa por rotura parcial de músculo papilar
+T22	DISEASE 6285 6348	Cardiopatía isquémica con enfermedad severa de 1 vaso: CD media
+T23	DISEASE 6197 6218	Edema agudo de pulmón
+T24	DISEASE 107 115	alergias
+T25	DISEASE 4016 4037	edema agudo de pulmón
+T26	DISEASE 138 153	hábitos tóxicos
+T27	DISEASE 3336 3374	VD no dilatado con disfunción moderada
+T28	DISEASE 5110 5154	válvula mitral moderadamente desestructurada
+T29	DISEASE 5384 5405	fallo de bomba severo
+T30	DISEASE 6046 6070	pérdida de masa muscular
+T31	PROCEDURE 441 455	apendicectomía
+T32	PROCEDURE 457 472	colecistectomía
+T33	PROCEDURE 1027 1045	Exploración física
+T34	PROCEDURE 1653 1656	ECG
+T35	PROCEDURE 1747 1767	Radiografía de tórax
+T36	PROCEDURE 1919 1938	Gasometría arterial
+T37	PROCEDURE 2384 2416	Angio-TAC de arterias pulmonares
+T38	PROCEDURE 2898 2926	Ecocardiograma transtorácico
+T39	PROCEDURE 3400 3415	Coronariografía
+T40	PROCEDURE 4453 4468	coronariografía
+T41	PROCEDURE 4567 4607	oxigenoterapia con reservorio de oxígeno
+T42	PROCEDURE 4855 4914	pontaje aortocoronario con safena a coronaria derecha media
+T43	PROCEDURE 5177 5249	sustitución valvular mitral, implantando una prótesis biológica del no27
+T44	PROCEDURE 5429 5447	soporte inotrópico
+T45	PROCEDURE 5449 5500	colocación de balón de contrapulsación intraaórtico
+T46	PROCEDURE 6000 6021	rehabilitación física
+T47	PROCEDURE 1291 1293	AC
+T48	PROCEDURE 1364 1366	AP
+T49	PROCEDURE 2284 2295	Coagulación
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 1984 1994	Bioquímica
+T52	PROCEDURE 2170 2182	Hematimetría
+T53	PROCEDURE 4617 4638	diurético intravenoso
+T54	PROCEDURE 4641 4646	IECAs
+T55	PROCEDURE 4817 4842	circulación extracorpórea
+T56	PROCEDURE 1908 1917	Analítica
+T57	PROCEDURE 1243 1258	Cabeza y cuello
+T58	PROCEDURE 437 439	IQ
+T59	PROCEDURE 4087 4102	ecocardioscopia
+T60	PROCEDURE 4366 4389	intervención quirúrgica
+T61	SYMPTOM 673 705	Funciones superiores conservadas
+T62	SYMPTOM 783 824	disnea progresiva hasta hacerse de reposo
+T63	SYMPTOM 836 849	palpitaciones
+T64	SYMPTOM 879 904	dolor precordial opresivo
+T65	SYMPTOM 924 942	cortejo vegetativo
+T66	SYMPTOM 987 995	oliguria
+T67	SYMPTOM 998 1004	edemas
+T68	SYMPTOM 1098 1105	Afebril
+T69	SYMPTOM 1107 1117	Consciente
+T70	SYMPTOM 1120 1129	orientada
+T71	SYMPTOM 1155 1163	Postrada
+T72	SYMPTOM 1166 1174	sudorosa
+T73	SYMPTOM 1185 1211	buena perfusión periférica
+T74	SYMPTOM 1213 1222	Taquipnea
+T75	SYMPTOM 1274 1289	plétora yugular
+T76	SYMPTOM 1295 1314	taquicardia rítmica
+T77	SYMPTOM 1316 1331	soplo sistólico
+T78	SYMPTOM 1445 1488	Abdomen: blando, no doloroso a la palpación
+T79	SYMPTOM 1504 1515	peritonismo
+T80	SYMPTOM 1517 1546	Ruidos intestinales presentes
+T81	SYMPTOM 1548 1571	Extremidades: no edemas
+T82	SYMPTOM 1590 1625	Pulsos femorales y pedios presentes
+T83	SYMPTOM 1769 1803	infiltrados alveolares bilaterales
+T84	SYMPTOM 1866 1906	Pinzamiento de ambos senos costofrénicos
+T85	SYMPTOM 1658 1677	taquicardia sinusal
+T86	SYMPTOM 228 245	Hemianopsia de OI
+T87	SYMPTOM 3095 3137	Válvula aórtica trivalva, normofuncionante
+T88	SYMPTOM 326 329	ANA
+T89	SYMPTOM 3304 3334	Aurícula izquierda no dilatada
+T90	SYMPTOM 1131 1153	Impresiona de gravedad
+T91	SYMPTOM 1368 1411	crepitantes hasta campos medios bilaterales
+T92	SYMPTOM 2435 2479	defectos de repleción en arterias pulmonares
+T93	SYMPTOM 4042 4066	estabilidad hemodinámica
+T94	SYMPTOM 2519 2555	Aorta de calibre y morfología normal
+T95	SYMPTOM 2601 2684	infiltrados de características alveolares en lóbulo superior derecho y lóbulo medio
+T96	SYMPTOM 2928 2958	VI no dilatado ni hipertrófico
+T97	SYMPTOM 3234 3246	flail mitral
+T98	SYMPTOM 3420 3458	tronco común muestra ateromatosis leve
+T99	SYMPTOM 3780 3818	coronaria derecha es el vaso dominante
+T100	MEDICATION 497 506	omeprazol
+T101	MEDICATION 508 511	AAS
+T102	MEDICATION 513 524	leflunomida
+T103	MEDICATION 526 543	hidroxicloroquina
+T104	MEDICATION 545 554	denosumab
+T105	MEDICATION 556 566	duloxetina
+T106	MEDICATION 4600 4607	oxígeno
+T107	MEDICATION 5739 5749	amiodarona
+T108	MEDICATION 5909 5918	meropenem
+T109	MEDICATION 5921 5932	vancomicina
+#1	AnnotatorNotes T7	 TVP: trombosis venosa profunda
+#2	AnnotatorNotes T8	 TEP: tromboembolia pulmonar

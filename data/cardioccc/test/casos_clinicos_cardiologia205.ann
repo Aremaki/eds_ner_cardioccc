@@ -1,0 +1,114 @@
+T1	ENFERMEDAD 160 184	tromboembolismo pulmonar
+T2	ENFERMEDAD 211 220	trombosis
+T3	ENFERMEDAD 245 268	alergias medicamentosas
+T4	ENFERMEDAD 280 313	Síndrome antifosfolípido primario
+T5	ENFERMEDAD 346 371	trombosis venosa profunda
+T6	ENFERMEDAD 373 376	TVP
+T7	ENFERMEDAD 1448 1451	TVP
+T8	ENFERMEDAD 1496 1515	Bradicardia sinusal
+T9	ENFERMEDAD 2317 2398	Coronaria derecha (CD): dominante, oclusión completa trombótica en segmento medio
+T10	ENFERMEDAD 2589 2660	lesión larga con estenosis ligera y restos de trombo en CD medio-distal
+T11	ENFERMEDAD 2884 2898	aterosclerosis
+T12	ENFERMEDAD 2977 2983	trombo
+T13	ENFERMEDAD 3358 3383	Insuficiencia mitral leve
+T14	ENFERMEDAD 3385 3415	Insuficiencia tricuspídea leve
+T15	ENFERMEDAD 3502 3521	derrame pericárdico
+T16	ENFERMEDAD 3867 3918	oclusión trombótica en la arteria coronaria derecha
+T17	ENFERMEDAD 4145 4159	aterosclerosis
+T18	ENFERMEDAD 4573 4590	evento trombótico
+T19	ENFERMEDAD 4973 5034	Infarto agudo de miocardio inferolateral de origen trombótico
+T20	ENFERMEDAD 5120 5153	Síndrome antifosfolípido primario
+T21	ENFERMEDAD 490 497	Fumador
+T22	ENFERMEDAD 2509 2515	trombo
+T23	ENFERMEDAD 2538 2544	trombo
+T24	ENFERMEDAD 2781 2787	trombo
+T25	ENFERMEDAD 4071 4077	trombo
+T26	ENFERMEDAD 232 239	abortos
+T27	PROCEDIMIENTO 387 404	Perfil serológico
+T28	PROCEDIMIENTO 1060 1078	Exploración física
+T29	PROCEDIMIENTO 1276 1297	Auscultación cardiaca
+T30	PROCEDIMIENTO 1319 1340	Auscultación pulmonar
+T31	PROCEDIMIENTO 1478 1481	ECG
+T32	PROCEDIMIENTO 2083 2137	Cateterismo coronario emergente: acceso radial derecho
+T33	PROCEDIMIENTO 2400 2437	Intervencionismo coronario percutáneo
+T34	PROCEDIMIENTO 2721 2752	tomografía de coherencia óptica
+T35	PROCEDIMIENTO 2754 2757	OCT
+T36	PROCEDIMIENTO 3036 3064	Ecocardiograma transtorácico
+T37	PROCEDIMIENTO 3523 3526	ECG
+T38	PROCEDIMIENTO 3711 3729	electrocardiograma
+T39	PROCEDIMIENTO 3823 3844	cateterismo coronario
+T40	PROCEDIMIENTO 3931 3947	tromboaspiración
+T41	PROCEDIMIENTO 3950 3972	angioplastia con balón
+T42	PROCEDIMIENTO 4010 4049	prueba de imagen intracoronaria con OCT
+T43	PROCEDIMIENTO 4223 4251	ecocardiograma transtorácico
+T44	PROCEDIMIENTO 4337 4357	doble antiagregación
+T45	PROCEDIMIENTO 4360 4375	anticoagulación
+T46	PROCEDIMIENTO 4400 4412	monitorizado
+T47	PROCEDIMIENTO 4458 4478	anticoagulación oral
+T48	PROCEDIMIENTO 4529 4543	punción radial
+T49	PROCEDIMIENTO 4618 4633	anticoagulación
+T50	PROCEDIMIENTO 4685 4700	anticoagulación
+T51	PROCEDIMIENTO 4703 4712	estatinas
+T52	PROCEDIMIENTO 4731 4745	antiagregación
+T53	PROCEDIMIENTO 4834 4857	rehabilitación cardiaca
+T54	PROCEDIMIENTO 4862 4874	TC coronario
+T55	PROCEDIMIENTO 5036 5082	Revascularización urgente de coronaria derecha
+T56	PROCEDIMIENTO 5194 5225	tratamiento anticoagulante oral
+T57	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T58	PROCEDIMIENTO 2439 2442	ICP
+T59	PROCEDIMIENTO 2060 2074	perfil férrico
+T60	PROCEDIMIENTO 2462 2515	CD distal y se realizan varias aspiraciones de trombo
+T61	PROCEDIMIENTO 3019 3034	implantar stent
+T62	PROCEDIMIENTO 4195 4210	implantar stent
+T63	PROCEDIMIENTO 1675 1684	Analítica
+T64	SINTOMA 657 686	dolor centrotorácico opresivo
+T65	SINTOMA 691 709	cortejo vegetativo
+T66	SINTOMA 870 883	palpitaciones
+T67	SINTOMA 888 894	disnea
+T68	SINTOMA 899 917	clínica infecciosa
+T69	SINTOMA 1212 1231	Buen estado general
+T70	SINTOMA 1233 1243	Consciente
+T71	SINTOMA 1246 1255	orientado
+T72	SINTOMA 1257 1264	Afebril
+T73	SINTOMA 1266 1274	Sudoroso
+T74	SINTOMA 1299 1306	rítmico
+T75	SINTOMA 1311 1317	soplos
+T76	SINTOMA 1342 1371	murmullo vesicular conservado
+T77	SINTOMA 1377 1397	ruidos sobreañadidos
+T78	SINTOMA 1399 1433	Extremidades inferiores sin edemas
+T79	SINTOMA 1526 1535	PR normal
+T80	SINTOMA 1537 1549	QRS estrecho
+T81	SINTOMA 1566 1634	Elevación del ST de 3-4 mm en DII, DIII y aVF y de 1-1,5 mm en V5-V6
+T82	SINTOMA 1636 1673	descenso del ST especular en DI y aVL
+T83	SINTOMA 2060 2081	perfil férrico normal
+T84	SINTOMA 3121 3152	función sistólica global normal
+T85	SINTOMA 3281 3328	Ventrículo derecho de tamaño y función normales
+T86	SINTOMA 3457 3497	Raíz aórtica y aorta ascendente normales
+T87	SINTOMA 3536 3549	ritmo sinusal
+T88	SINTOMA 3560 3569	PR normal
+T89	SINTOMA 3571 3594	QRS estrecho con onda Q
+T90	SINTOMA 3597 3665	ondas T negativas en cara inferior (DII, DIII, aVF) y lateral (V4-V6
+T91	SINTOMA 3748 3764	elevación del ST
+T92	SINTOMA 4280 4325	alteración segmentaria en el territorio de CD
+T93	SINTOMA 5084 5118	Función sistólica de VI conservada
+T94	SINTOMA 421 488	triple positividad de anticuerpos (AL + aCL + Antiβ2-GPI positivos)
+T95	SINTOMA 3188 3224	Aquinesia de segmentos medio y basal
+T96	SINTOMA 3330 3356	Aurículas de tamaño normal
+T97	SINTOMA 4914 4958	arterias coronarias epicárdicas sin lesiones
+T98	SINTOMA 4640 4663	coronarias sin lesiones
+T99	SINTOMA 1554 1564	eje normal
+T100	SINTOMA 4433 4440	estable
+T101	SINTOMA 130 139	fallecido
+T102	SINTOMA 3066 3115	ventrículo izquierdo no dilatado, ni hipertrófico
+T103	SINTOMA 2139 2159	Tronco: sin lesiones
+T104	SINTOMA 2161 2237	arteria coronaria descendente anterior (DA): normodesarrollada, sin lesiones
+T105	SINTOMA 2253 2301	Arteria coronaria circunfleja (Cx): sin lesiones
+T106	SINTOMA 2842 2857	rotura de placa
+T107	SINTOMA 4126 4141	rotura de placa
+T108	SINTOMA 4223 4277	ecocardiograma transtorácico con función global normal
+T109	SINTOMA 4484 4518	complicaciones de la función renal
+T110	FARMACO 581 593	acenocumarol
+T111	FARMACO 956 968	acenocumarol
+T112	FARMACO 4750 4772	ácido acetilsalicílico
+#1	AnnotatorNotes T35	 tomografía de coherencia óptica
+#2	AnnotatorNotes T58	 intervención coronaria percutánea

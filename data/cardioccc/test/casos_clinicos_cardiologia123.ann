@@ -1,0 +1,153 @@
+T1	ENFERMEDAD 21 47	infarto agudo de miocardio
+T2	ENFERMEDAD 72 91	derrame pericárdico
+T3	ENFERMEDAD 252 262	Dislipemia
+T4	ENFERMEDAD 292 305	HTA sistémica
+T5	ENFERMEDAD 310 312	DM
+T6	ENFERMEDAD 314 347	Síndrome antifosfolípido primario
+T7	ENFERMEDAD 387 411	tromboembolismo pulmonar
+T8	ENFERMEDAD 413 503	Insuficiencia venosa crónica con úlceras vasculares-venosas recurrente en miembro inferior
+T9	ENFERMEDAD 1338 1388	lesión culpable de la arteria descendente anterior
+T10	ENFERMEDAD 1620 1642	insuficiencia cardiaca
+T11	ENFERMEDAD 2400 2468	paroxismos de fibrilación auricular con respuesta ventricular rápida
+T12	ENFERMEDAD 2822 2857	derrame pericárdico circunferencial
+T13	ENFERMEDAD 3183 3186	HAI
+T14	ENFERMEDAD 3934 3969	Derrame pericárdico circunferencial
+T15	ENFERMEDAD 4692 4714	Obstrucción trombótica
+T16	ENFERMEDAD 5585 5605	síndrome de Dressler
+T17	ENFERMEDAD 6424 6443	derrame pericárdico
+T18	ENFERMEDAD 7253 7347	Enfermedad arterial coronaria en segmento medio de ACx y segmento distal de marginal principal
+T19	ENFERMEDAD 7370 7390	Pericarditis post-IM
+T20	ENFERMEDAD 7393 7428	derrame pericárdico circunferencial
+T21	ENFERMEDAD 7468 7501	Fibrilación auricular paroxística
+T22	ENFERMEDAD 3832 3845	Cardiomegalia
+T23	ENFERMEDAD 7086 7118	IAMCEST de localización anterior
+T24	ENFERMEDAD 150 173	alergias a medicamentos
+T25	ENFERMEDAD 3617 3632	daño miocárdico
+T26	ENFERMEDAD 1584 1602	eventos arrítmicos
+T27	ENFERMEDAD 185 195	Ex fumador
+T28	ENFERMEDAD 4259 4281	Cava inferior dilatada
+T29	ENFERMEDAD 4772 4820	ACx no dominante: Vaso ateromatoso y calcificado
+T30	ENFERMEDAD 4669 4690	ADA: Vaso ateromatoso
+T31	ENFERMEDAD 5261 5294	lesión culpable de la DA proximal
+T32	ENFERMEDAD 6909 6928	líquido pericárdico
+T33	ENFERMEDAD 4822 4899	Enfermedad significativa a nivel del segmento distal de la principal marginal
+T34	ENFERMEDAD 4970 5005	Oclusión crónica del segmento medio
+T35	ENFERMEDAD 7444 7464	síndrome de Dressler
+T36	PROCEDIMIENTO 128 146	exploración física
+T37	PROCEDIMIENTO 541 556	Colecistectomía
+T38	PROCEDIMIENTO 974 992	electrocardiograma
+T39	PROCEDIMIENTO 1318 1322	ACTP
+T40	PROCEDIMIENTO 1699 1717	exploración física
+T41	PROCEDIMIENTO 1899 1926	auscultación cardiopulmonar
+T42	PROCEDIMIENTO 2328 2331	ECG
+T43	PROCEDIMIENTO 2620 2632	hemocultivos
+T44	PROCEDIMIENTO 2644 2654	urocultivo
+T45	PROCEDIMIENTO 2699 2728	ecocardiografía transtorácica
+T46	PROCEDIMIENTO 3154 3157	ECG
+T47	PROCEDIMIENTO 3348 3357	Hemograma
+T48	PROCEDIMIENTO 3711 3723	Hemocultivos
+T49	PROCEDIMIENTO 3764 3774	Urocultivo
+T50	PROCEDIMIENTO 3810 3821	Rx de tórax
+T51	PROCEDIMIENTO 3895 3924	Ecocardiografía transtorácica
+T52	PROCEDIMIENTO 4600 4620	Cateterismo cardiaco
+T53	PROCEDIMIENTO 5314 5339	implante directo de stent
+T54	PROCEDIMIENTO 5813 5841	terapia antibiótica empírica
+T55	PROCEDIMIENTO 5919 5931	hemocultivos
+T56	PROCEDIMIENTO 6149 6161	hemocultivos
+T57	PROCEDIMIENTO 6178 6197	terapia antibiótica
+T58	PROCEDIMIENTO 6346 6361	ecocardiografía
+T59	PROCEDIMIENTO 6569 6589	corticoides vía oral
+T60	PROCEDIMIENTO 6819 6834	ecocardiografía
+T61	PROCEDIMIENTO 7140 7143	ICP
+T62	PROCEDIMIENTO 7155 7221	implante de stents convencionales (x2) en segmento proximal de ADA
+T63	PROCEDIMIENTO 5238 5242	ACTP
+T64	PROCEDIMIENTO 3483 3493	Bioquímica
+T65	PROCEDIMIENTO 3603 3632	Marcadores de daño miocárdico
+T66	PROCEDIMIENTO 6790 6814	marcadores inflamatorios
+T67	PROCEDIMIENTO 2595 2654	Se extraen muestras para hemocultivos seriados y urocultivo
+T68	PROCEDIMIENTO 3337 3346	Analítica
+T69	PROCEDIMIENTO 513 539	Intervenciones quirúrgicas
+T70	PROCEDIMIENTO 3052 3061	analítico
+T71	PROCEDIMIENTO 2994 3001	doppler
+T72	PROCEDIMIENTO 7037 7069	pauta descendente de corticoides
+T73	PROCEDIMIENTO 5295 5311	tromboaspiración
+T74	PROCEDIMIENTO 252 287	Dislipemia en tratamiento con dieta
+T75	PROCEDIMIENTO 559 589	hernioplastia inguinal derecha
+T76	SINTOMA 63 69	fiebre
+T77	SINTOMA 780 895	dolor torácico retroesternal de fuerte intensidad, características opresivas irradiado a miembro superior izquierdo
+T78	SINTOMA 918 936	cortejo vegetativo
+T79	SINTOMA 1011 1024	ritmo sinusal
+T80	SINTOMA 1079 1112	descenso de ST en DII, DIII y AVF
+T81	SINTOMA 1544 1569	hemodinámicamente estable
+T82	SINTOMA 1754 1766	asintomático
+T83	SINTOMA 1771 1800	adecuado nivel de consciencia
+T84	SINTOMA 1802 1811	orientado
+T85	SINTOMA 1854 1861	Afebril
+T86	SINTOMA 1863 1871	eupneico
+T87	SINTOMA 1927 1952	ruidos cardiacos rítmicos
+T88	SINTOMA 1957 1963	soplos
+T89	SINTOMA 1967 1983	roce pericárdico
+T90	SINTOMA 1985 2022	murmullo vesicular presente bilateral
+T91	SINTOMA 2035 2066	crepitantes en bases pulmonares
+T92	SINTOMA 2068 2097	abdomen blando, no distendido
+T93	SINTOMA 2099 2127	ruidos hidroaéreos presentes
+T94	SINTOMA 2132 2150	edemas periféricos
+T95	SINTOMA 2155 2174	déficit neurológico
+T96	SINTOMA 2223 2298	dolor torácico que aumenta con la inspiración profunda y cambios de postura
+T97	SINTOMA 2348 2361	palpitaciones
+T98	SINTOMA 2494 2508	picos febriles
+T99	SINTOMA 2620 2686	hemocultivos seriados y urocultivo que son repetidamente negativos
+T100	SINTOMA 3079 3091	leucocitosis
+T101	SINTOMA 3093 3104	neutrofilia
+T102	SINTOMA 3106 3123	VSG y PCR elevada
+T103	SINTOMA 3159 3172	Ritmo sinusal
+T104	SINTOMA 3263 3276	onda T picuda
+T105	SINTOMA 3869 3891	condensación neumónica
+T106	SINTOMA 4342 4363	Válvula mitral normal
+T107	SINTOMA 4365 4387	Válvula aórtica normal
+T108	SINTOMA 5540 5546	fiebre
+T109	SINTOMA 5998 6004	fiebre
+T110	SINTOMA 6331 6337	fiebre
+T111	SINTOMA 6718 6724	fiebre
+T112	SINTOMA 6987 6999	asintomático
+T113	SINTOMA 7223 7249	FEVI severamente deprimida
+T114	SINTOMA 4109 4161	colapso parcial del VD en telediástole en espiración
+T115	SINTOMA 2910 2947	colapso parcial de VD en telediástole
+T116	SINTOMA 1029 1076	supradesnivel del segmento ST en DI, AVL, V2-V3
+T117	SINTOMA 2761 2809	aquinesia en segmentos anteroseptales y apicales
+T118	SINTOMA 3199 3219	Supradesnivel del ST
+T119	SINTOMA 4533 4558	Ventrículo derecho normal
+T120	SINTOMA 5113 5193	ACD dominante: vaso de buen calibre y desarrollo, con irregularidades parietales
+T121	SINTOMA 4560 4596	Válvula tricúspide sin insuficiencia
+T122	SINTOMA 3734 3760	aislamiento microbiológico
+T123	SINTOMA 3780 3806	aislamiento microbiológico
+T124	SINTOMA 6103 6161	ausencia de aislamiento microbiológico en los hemocultivos
+T125	SINTOMA 4473 4498	aquinesia apical y septal
+T126	SINTOMA 2532 2593	clínica infecciosa a nivel respiratorio, urinario y abdominal
+T127	SINTOMA 1814 1825	colaborador
+T128	SINTOMA 4501 4513	hipoquinesia
+T129	SINTOMA 4622 4652	TCI sin lesiones angiográficas
+T130	SINTOMA 5199 5236	lesiones angiográficas significativas
+T131	SINTOMA 3847 3864	patrón congestivo
+T132	SINTOMA 2742 2756	VI no dilatado
+T133	SINTOMA 2952 3026	variaciones respiratorias de la velocidad doppler tricúspide y transmitral
+T134	SINTOMA 4326 4340	AI no dilatada
+T135	SINTOMA 4168 4257	reducción >25% de la onda E mitral en inspiración y >50% de la E tricúspide en espiración
+T136	SINTOMA 4389 4403	VI no dilatado
+T137	SINTOMA 4435 4471	Normoquinesia de pared inferolateral
+T138	SINTOMA 4901 4955	Lesión bifurcada con lechos distales de escaso calibre
+T139	SINTOMA 5007 5111	Lechos distales de buen calibre y desarrollo, no enfermos, visualizados a través de la coronaria derecha
+T140	SINTOMA 5415 5431	Buen vaso distal
+T141	FARMACO 613 625	Acenocumarol
+T142	FARMACO 627 640	Pentoxifilina
+T143	FARMACO 643 649	Escina
+T144	FARMACO 1136 1139	AAS
+T145	FARMACO 1152 1164	clopidrogrel
+T146	FARMACO 1169 1183	nitroglicerina
+T147	FARMACO 1186 1201	cloruro mórfico
+T148	FARMACO 1277 1292	heparina sódica
+T149	FARMACO 5685 5688	AAS
+T150	FARMACO 5713 5723	colchicina
+T151	FARMACO 5856 5868	teicoplanina
+T152	FARMACO 6610 6620	prednisona
+#1	AnnotatorNotes T61	 intervención coronaria percutánea

@@ -1,0 +1,107 @@
+T1	DISEASE 135 158	alergias medicamentosas
+T2	DISEASE 173 188	hábitos tóxicos
+T3	DISEASE 190 211	Hipertensión arterial
+T4	DISEASE 213 216	HTA
+T5	DISEASE 219 229	Dislipemia
+T6	DISEASE 231 239	Obesidad
+T7	DISEASE 268 287	Esteatosis hepática
+T8	DISEASE 289 320	Hiperplasia benigna de próstata
+T9	DISEASE 382 452	ictus isquémico agudo en territorio de arterial cerebral media derecha
+T10	DISEASE 627 652	hernia inguinal bilateral
+T11	DISEASE 673 682	hidrocele
+T12	DISEASE 712 738	estenosis aórtica moderada
+T13	DISEASE 767 780	valvulopatías
+T14	DISEASE 1838 1849	peritonitis
+T15	DISEASE 2802 2841	infarto de miocardio posterobasal en VI
+T16	DISEASE 2843 2866	Derrame pleural laminar
+T17	DISEASE 2927 2974	Lesiones corticales hipodensas en ambos riñones
+T18	DISEASE 3015 3031	infartos renales
+T19	DISEASE 3033 3095	Espondilosis dorsolumbar con estenosis del canal L3-L4 y L4-L5
+T20	DISEASE 3224 3265	estenosis grave en arteria ilíaca derecha
+T21	DISEASE 3268 3310	estenosis leve en arteria ilíaca izquierda
+T22	DISEASE 3312 3350	Ateromatosis fémoro-poplítea bilateral
+T23	DISEASE 3369 3429	hipertrofia ventricular izquierda (HVI) concéntrica moderada
+T24	DISEASE 3404 3407	HVI
+T25	DISEASE 3511 3538	Calcificación aórtica grave
+T26	DISEASE 3625 3646	insuficiencia aórtica
+T27	DISEASE 3655 3684	Calcificación valvular mitral
+T28	DISEASE 3802 3837	insuficiencia tricuspídea (IT) leve
+T29	DISEASE 3889 3918	enfermedad arterial coronaria
+T30	DISEASE 3963 4008	trombo en primera obtusa marginal (OM) distal
+T31	DISEASE 4269 4320	Trastorno segmentario de la contractilidad inferior
+T32	DISEASE 4322 4354	Valvulopatía aórtica calcificada
+T33	DISEASE 4356 4373	estenosis aórtica
+T34	DISEASE 4536 4562	infarto agudo de miocardio
+T35	DISEASE 4564 4567	IAM
+T36	DISEASE 4600 4635	isquemia aguda del miembro inferior
+T37	DISEASE 4863 4893	trombo distal en la primera OM
+T38	DISEASE 5000 5029	isquemia del miembro inferior
+T39	DISEASE 5132 5151	isquemia miocárdica
+T40	DISEASE 5244 5317	Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior
+T41	DISEASE 5300 5307	SCACEST
+T42	DISEASE 5328 5395	Enfermedad arterial periférica: isquemia aguda del miembro inferior
+T43	DISEASE 5407 5430	Infarto renal bilateral
+T44	DISEASE 2364 2366	FA
+T45	DISEASE 4678 4680	FA
+T46	DISEASE 5432 5434	FA
+T47	DISEASE 3829 3831	IT
+T48	DISEASE 1566 1593	ruidos cardiacos arrítmicos
+T49	DISEASE 3689 3709	insuficiencia mitral
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 492 513	Trombectomía mecánica
+T52	PROCEDURE 1439 1457	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 1537 1564	Auscultación cardiopulmonar
+T54	PROCEDURE 2325 2343	ELECTROCARDIOGRAMA
+T55	PROCEDURE 2345 2348	ECG
+T56	PROCEDURE 2519 2522	ECG
+T57	PROCEDURE 2617 2640	RADIOGRAFÍA DE TÓRAX PA
+T58	PROCEDURE 2762 2765	TAC
+T59	PROCEDURE 3126 3160	ECOGRAFÍA DOPPLER arterial de MMII
+T60	PROCEDURE 3352 3367	ECOCARDIOGRAFÍA
+T61	PROCEDURE 3867 3887	CATETERISMO CARDIACO
+T62	PROCEDURE 4743 4757	antiagregación
+T63	PROCEDURE 4760 4775	anticoagulación
+T64	PROCEDURE 4788 4808	estudio angiográfico
+T65	PROCEDURE 5213 5229	cirugía vascular
+T66	PROCEDURE 599 652	Intervenciones quirúrgicas: hernia inguinal bilateral
+T67	PROCEDURE 654 671	apendicectomizado
+T68	PROCEDURE 2736 2780	TOMOGRAFÍA COMPUTARIZADA (TAC) tórax-abdomen
+T69	SYMPTOM 101 115	dolor torácico
+T70	SYMPTOM 241 266	Claudicación intermitente
+T71	SYMPTOM 1154 1179	dolor en miembro inferior
+T72	SYMPTOM 1276 1305	dolor centrotorácico opresivo
+T73	SYMPTOM 1326 1344	cortejo vegetativo
+T74	SYMPTOM 1358 1373	dolor abdominal
+T75	SYMPTOM 1459 1467	Sudoroso
+T76	SYMPTOM 1598 1638	soplo sistólico eyectivo en foco aórtico
+T77	SYMPTOM 1661 1672	soplo suave
+T78	SYMPTOM 1695 1724	Murmullo vesicular conservado
+T79	SYMPTOM 1726 1729	MVC
+T80	SYMPTOM 1735 1755	ruidos sobreañadidos
+T81	SYMPTOM 1757 1787	Abdomen: globuloso, depresible
+T82	SYMPTOM 1792 1797	masas
+T83	SYMPTOM 1799 1807	doloroso
+T84	SYMPTOM 1851 1891	Miembro inferior izquierdo frío y pálido
+T85	SYMPTOM 1897 1920	ausencia de pulso pedio
+T86	SYMPTOM 2406 2484	elevación del ST menor de 1 mm en derivaciones de cara inferior y cara lateral
+T87	SYMPTOM 2541 2554	ritmo sinusal
+T88	SYMPTOM 2556 2574	ondas Q inferiores
+T89	SYMPTOM 2579 2596	ondas T negativas
+T90	SYMPTOM 2642 2673	índice cardiotorácico aumentado
+T91	SYMPTOM 2675 2734	Congestión bilateral con redistribución vascular a vértices
+T92	SYMPTOM 3718 3786	ventrículo derecho (VD) no dilatado con contractilidad global normal
+T93	SYMPTOM 2494 2517	R altas en precordiales
+T94	SYMPTOM 3431 3449	aquinesia inferior
+T95	SYMPTOM 3452 3472	hipoquinesia lateral
+T96	SYMPTOM 3477 3509	contractilidad global preservada
+T97	SYMPTOM 4164 4242	Ventrículo izquierdo (VI) de tamaño normal con contractilidad global deprimida
+T98	SYMPTOM 5013 5104	miembro inferior izquierdo (moviliza dedos con buena perfusión y presencia de pulso distal)
+T99	MEDICATION 918 927	omeprazol
+T100	MEDICATION 943 953	furosemida
+T101	MEDICATION 969 979	bisoprolol
+T102	MEDICATION 996 1009	rosuvastatina
+T103	MEDICATION 1025 1036	tamsulosina
+T104	MEDICATION 1053 1064	finasteride
+T105	MEDICATION 1079 1088	lorazepam
+#1	AnnotatorNotes T24	  hipertrofia ventricular izquierda
+#2	AnnotatorNotes T47	  insuficiencia tricuspide

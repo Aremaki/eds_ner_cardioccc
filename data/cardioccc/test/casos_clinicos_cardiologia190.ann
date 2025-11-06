@@ -1,0 +1,64 @@
+T1	ENFERMEDAD 663 674	ritmo nodal
+T2	ENFERMEDAD 97 120	esquizofrenia paranoide
+T3	ENFERMEDAD 625 646	infarto inferolateral
+T4	ENFERMEDAD 931 950	neumonía multilobar
+T5	ENFERMEDAD 1077 1108	proceso infeccioso respiratorio
+T6	ENFERMEDAD 1983 2002	neumonía multilobar
+T7	ENFERMEDAD 2143 2163	valvulopatía aórtica
+T8	ENFERMEDAD 2172 2192	insuficiencia mitral
+T9	ENFERMEDAD 2249 2256	derrame
+T10	ENFERMEDAD 2769 2777	acidosis
+T11	ENFERMEDAD 2814 2834	fracaso respiratorio
+T12	ENFERMEDAD 2849 2894	Neumonía multilobar adquirida en la comunidad
+T13	ENFERMEDAD 2896 2928	Insuficiencia respiratoria aguda
+T14	ENFERMEDAD 2943 2951	acidosis
+T15	ENFERMEDAD 3044 3067	cardiopatía estructural
+T16	ENFERMEDAD 75 83	alergias
+T17	ENFERMEDAD 85 94	exfumador
+T18	PROCEDIMIENTO 417 439	intubación orotraqueal
+T19	PROCEDIMIENTO 452 478	perfusión de catecolaminas
+T20	PROCEDIMIENTO 587 605	electrocardiograma
+T21	PROCEDIMIENTO 607 610	ECG
+T22	PROCEDIMIENTO 651 654	ECG
+T23	PROCEDIMIENTO 892 912	radiografía de tórax
+T24	PROCEDIMIENTO 1137 1140	ECG
+T25	PROCEDIMIENTO 1246 1249	ECG
+T26	PROCEDIMIENTO 1376 1385	hemograma
+T27	PROCEDIMIENTO 1844 1863	Gasometría arterial
+T28	PROCEDIMIENTO 1943 1963	RADIOGRAFÍA DE TÓRAX
+T29	PROCEDIMIENTO 2438 2457	electrocardiogramas
+T30	PROCEDIMIENTO 2979 2997	electrocardiograma
+T31	PROCEDIMIENTO 1572 1582	BIOQUÍMICA
+T32	PROCEDIMIENTO 1500 1511	Coagulación
+T33	PROCEDIMIENTO 2015 2030	ECOCARDIOSCOPIA
+T34	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDIMIENTO 756 771	Ecocardioscopia
+T36	PROCEDIMIENTO 344 356	auscultación
+T37	PROCEDIMIENTO 146 149	TEC
+T38	PROCEDIMIENTO 162 176	antipsicóticos
+T39	PROCEDIMIENTO 1365 1374	ANALÍTICA
+T40	PROCEDIMIENTO 858 867	Analítica
+T41	PROCEDIMIENTO 2598 2609	suero tibio
+T42	PROCEDIMIENTO 2580 2595	mantas térmicas
+T43	SINTOMA 207 219	inconsciente
+T44	SINTOMA 357 404	crepitantes y roncus en ambos campos pulmonares
+T45	SINTOMA 776 824	función del ventrículo izquierdo (VI) conservada
+T46	SINTOMA 1153 1164	ritmo nodal
+T47	SINTOMA 1343 1363	ritmo sinusal normal
+T48	SINTOMA 2032 2087	ventrículo izquierdo no dilatado con función conservada
+T49	SINTOMA 2260 2280	masas intracardiacas
+T50	SINTOMA 2802 2809	fallece
+T51	SINTOMA 2930 2940	Hipotermia
+T52	SINTOMA 2999 3039	Función ventricular izquierda conservada
+T53	SINTOMA 2092 2138	alteraciones segmentarias de la contractilidad
+T54	SINTOMA 3069 3075	Muerte
+T55	SINTOMA 2756 2766	hipotermia
+T56	SINTOMA 2957 2972	ondas de Osborn
+T57	SINTOMA 2736 2751	ondas de Osborn
+T58	SINTOMA 1311 1326	ondas de Osborn
+T59	SINTOMA 695 754	morfología de rSR de V2-V6 con última R empastada con el ST
+T60	SINTOMA 1185 1244	morfología de rSR de V2-V6 con última R empastada con el ST
+T61	SINTOMA 2194 2244	Cavidades derechas con morfología y función normal
+T62	FARMACO 480 493	noradrenalina
+T63	FARMACO 496 506	adrenalina
+#1	AnnotatorNotes T37	 terapia electroconvulsiva

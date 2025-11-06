@@ -1,0 +1,68 @@
+T1	DISEASE 695 722	insuficiencia aórtica grave
+T2	DISEASE 918 941	endocarditis infecciosa
+T3	DISEASE 1802 1825	endocarditis infecciosa
+T4	DISEASE 1893 1916	endocarditis infecciosa
+T5	DISEASE 2990 3013	endocarditis infecciosa
+T6	DISEASE 3255 3319	endocarditis está causada por C. burnetii, Bartonella y Brucella
+T7	DISEASE 4226 4238	endocarditis
+T8	DISEASE 4601 4624	endocarditis infecciosa
+T9	DISEASE 456 469	hepatomegalia
+T10	DISEASE 731 812	vegetación de gran tamaño en la válvula aórtica y otra menor en la válvula mitral
+T11	DISEASE 817 873	ventrículo izquierdo ligeramente dilatado e hipertrófico
+T12	DISEASE 173 188	hábitos tóxicos
+T13	PROCEDURE 260 278	exploración física
+T14	PROCEDURE 340 352	auscultación
+T15	PROCEDURE 631 645	ecocardiograma
+T16	PROCEDURE 1038 1064	tratamiento con diuréticos
+T17	PROCEDURE 1108 1120	hemocultivos
+T18	PROCEDURE 1213 1236	tratamiento antibiótico
+T19	PROCEDURE 1296 1324	cirugía de recambio valvular
+T20	PROCEDURE 1326 1383	se sustituye la válvula aórtica por una prótesis mecánica
+T21	PROCEDURE 1418 1439	cultivo de la válvula
+T22	PROCEDURE 1724 1736	hemocultivos
+T23	PROCEDURE 1830 1842	hemocultivos
+T24	PROCEDURE 1928 1940	hemocultivos
+T25	PROCEDURE 2025 2048	tratamiento antibiótico
+T26	PROCEDURE 2078 2090	hemocultivos
+T27	PROCEDURE 2480 2492	antibióticos
+T28	PROCEDURE 3030 3041	hemocultivo
+T29	PROCEDURE 3080 3112	hemocultivo, aerobio y anaerobio
+T30	PROCEDURE 3136 3159	tratamiento antibiótico
+T31	PROCEDURE 3172 3184	hemocultivos
+T32	PROCEDURE 4243 4255	hemocultivos
+T33	PROCEDURE 3683 3768	PCR universal 16S rARN realizada con el ADN extraído del tejido de la válvula aórtica
+T34	PROCEDURE 4043 4091	PCR específica de la región hsp65 de T. whipplei
+T35	PROCEDURE 3203 3212	serología
+T36	PROCEDURE 4306 4340	serología para los microorganismos
+T37	PROCEDURE 2593 2603	serologías
+T38	PROCEDURE 2810 2842	tratamiento antibiótico empírico
+T39	PROCEDURE 967 1023	se extrae una muestra de suero para estudios serológicos
+T40	PROCEDURE 1386 1413	se repara la válvula mitral
+T41	PROCEDURE 1627 1667	estudio anatomo-patológico de la válvula
+T42	PROCEDURE 3799 3811	se secuenció
+T43	PROCEDURE 4275 4291	obtener un suero
+T44	PROCEDURE 4636 4708	tinciones especiales: Gram, Wartin-Starry (Bartonella), PAS (T.whipplei)
+T45	PROCEDURE 942 965	se toman 3 hemocultivos
+T46	PROCEDURE 545 554	analítica
+T47	SYMPTOM 72 99	disnea de grandes esfuerzos
+T48	SYMPTOM 102 131	edemas en miembros inferiores
+T49	SYMPTOM 287 293	fiebre
+T50	SYMPTOM 367 413	soplo diastólico-sistólico 3/6 en foco aórtico
+T51	SYMPTOM 416 445	crepitantes en base izquierda
+T52	SYMPTOM 498 537	edemas en miembros inferiores con fóvea
+T53	SYMPTOM 578 615	leucocitosis con desviación izquierda
+T54	SYMPTOM 1108 1143	hemocultivos se mantienen negativos
+T55	SYMPTOM 1830 1852	hemocultivos negativos
+T56	SYMPTOM 1928 1965	hemocultivos convencionales negativos
+T57	SYMPTOM 2593 2716	serologías realizadas para Coxiella burnetii, Brucella, Bartonella, Chlamydia, Mycoplasma y L. pneumophila fueron negativas
+T58	SYMPTOM 3172 3198	hemocultivos son negativos
+T59	SYMPTOM 4243 4265	hemocultivos negativos
+T60	SYMPTOM 882 893	FEVI normal
+T61	SYMPTOM 1418 1451	cultivo de la válvula es negativo
+T62	SYMPTOM 1724 1765	hemocultivos continuaron siendo negativos
+T63	SYMPTOM 4043 4126	PCR específica de la región hsp65 de T. whipplei que también dio resultado positivo
+T64	SYMPTOM 3655 3686	resultado positivo para una PCR
+T65	MEDICATION 1066 1075	captopril
+T66	MEDICATION 1077 1088	vancomicina
+T67	MEDICATION 1091 1102	gentamicina
+T68	MEDICATION 1198 1209	ceftriaxona

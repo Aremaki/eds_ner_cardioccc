@@ -1,0 +1,61 @@
+T1	ENFERMEDAD 70 80	hipertenso
+T2	ENFERMEDAD 82 98	diabético tipo 2
+T3	ENFERMEDAD 100 111	dislipémico
+T4	ENFERMEDAD 114 123	exfumador
+T5	ENFERMEDAD 859 896	Insuficiencia respiratoria hipoxémica
+T6	ENFERMEDAD 1151 1165	isquemia aguda
+T7	ENFERMEDAD 1348 1371	infección por SARS-CoV2
+T8	ENFERMEDAD 1853 1933	neumonía bilateral por SARS-CoV2 con insuficiencia respiratoria aguda hipoxémica
+T9	ENFERMEDAD 2357 2368	miocarditis
+T10	ENFERMEDAD 2693 2706	valvulopatías
+T11	ENFERMEDAD 2724 2743	derrame pericárdico
+T12	ENFERMEDAD 2882 2897	infección aguda
+T13	ENFERMEDAD 2907 2918	cardiopatía
+T14	ENFERMEDAD 3076 3108	Neumonía bilateral por SARS-CoV2
+T15	ENFERMEDAD 2871 2880	hipoxemia
+T16	ENFERMEDAD 2483 2539	ventrículo izquierdo no dilatado, levemente hipertrófico
+T17	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T18	PROCEDIMIENTO 659 680	auscultación pulmonar
+T19	PROCEDIMIENTO 731 752	auscultación cardíaca
+T20	PROCEDIMIENTO 839 858	Gasometría arterial
+T21	PROCEDIMIENTO 964 982	Electrocardiograma
+T22	PROCEDIMIENTO 984 987	ECG
+T23	PROCEDIMIENTO 1167 1187	Radiografía de tórax
+T24	PROCEDIMIENTO 1487 1502	perfil hepático
+T25	PROCEDIMIENTO 1736 1767	PCR nasofaríngea para SARS-CoV2
+T26	PROCEDIMIENTO 1994 2008	oxigenoterapia
+T27	PROCEDIMIENTO 2430 2458	ecocardiograma transtorácico
+T28	PROCEDIMIENTO 2311 2340	marcadores de daño miocárdico
+T29	PROCEDIMIENTO 2785 2814	marcadores de daño miocárdico
+T30	PROCEDIMIENTO 3126 3155	marcadores de daño miocárdico
+T31	PROCEDIMIENTO 1427 1436	Analítica
+T32	SINTOMA 200 206	disnea
+T33	SINTOMA 248 254	fiebre
+T34	SINTOMA 462 487	hemodinámicamente estable
+T35	SINTOMA 501 523	regular estado general
+T36	SINTOMA 682 721	crepitantes bilaterales en ambos campos
+T37	SINTOMA 731 776	auscultación cardíaca dentro de la normalidad
+T38	SINTOMA 783 812	edemas en miembros inferiores
+T39	SINTOMA 990 1003	ritmo sinusal
+T40	SINTOMA 1014 1023	PR normal
+T41	SINTOMA 1025 1037	QRS estrecho
+T42	SINTOMA 1051 1092	alteraciones difusas de la repolarización
+T43	SINTOMA 1094 1132	T aplanadas en cara inferior y lateral
+T44	SINTOMA 1189 1210	infiltrado periférico
+T45	SINTOMA 1465 1485	alteraciones iónicas
+T46	SINTOMA 1507 1537	leve elevación de trasaminasas
+T47	SINTOMA 1736 1777	PCR nasofaríngea para SARS-CoV2: positiva
+T48	SINTOMA 2298 2340	elevación de marcadores de daño miocárdico
+T49	SINTOMA 2483 2557	ventrículo izquierdo no dilatado, levemente hipertrófico, con hipoquinesia
+T50	SINTOMA 2628 2677	ventrículo derecho no dilatado y normofuncionante
+T51	SINTOMA 2772 2814	elevación de marcadores de daño miocárdico
+T52	SINTOMA 3113 3155	elevación de marcadores de daño miocárdico
+T53	SINTOMA 2612 2623	FEVI normal
+T54	SINTOMA 1039 1049	eje normal
+T55	FARMACO 327 336	enalapril
+T56	FARMACO 352 365	atorvastatina
+T57	FARMACO 383 393	metformina
+T58	FARMACO 2080 2097	hidroxicloroquina
+T59	FARMACO 2177 2196	liponavir-ritonavir
+T60	FARMACO 2224 2236	azitromicina
+T61	FARMACO 2260 2271	ceftriaxona

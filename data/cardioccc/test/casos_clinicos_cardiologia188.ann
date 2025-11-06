@@ -1,0 +1,106 @@
+T1	ENFERMEDAD 204 225	cardiopatía isquémica
+T2	ENFERMEDAD 279 294	hábitos tóxicos
+T3	ENFERMEDAD 300 321	hipertensión arterial
+T4	ENFERMEDAD 323 326	HTA
+T5	ENFERMEDAD 331 348	diabetes mellitus
+T6	ENFERMEDAD 350 352	DM
+T7	ENFERMEDAD 355 363	Obesidad
+T8	ENFERMEDAD 456 475	Hipercolesterolemia
+T9	ENFERMEDAD 809 890	infarto agudo de miocardio con elevacion del ST (IAMCEST) de localización lateral
+T10	ENFERMEDAD 923 999	enfermedad coronaria de un vaso, con oclusión trombótica de primera diagonal
+T11	ENFERMEDAD 1091 1143	estenosis intermedia en arteria descendente anterior
+T12	ENFERMEDAD 1600 1626	infarto agudo de miocardio
+T13	ENFERMEDAD 1628 1631	IAM
+T14	ENFERMEDAD 3205 3244	oclusión trombótica de primera diagonal
+T15	ENFERMEDAD 3354 3403	Lesión intermedia en arteria descendente anterior
+T16	ENFERMEDAD 4164 4170	angina
+T17	ENFERMEDAD 4488 4508	enfermedad coronaria
+T18	ENFERMEDAD 4569 4588	hipercolesterolemia
+T19	ENFERMEDAD 4634 4637	IAM
+T20	ENFERMEDAD 6209 6238	Cardiopatía isquémica crónica
+T21	ENFERMEDAD 6240 6243	IAM
+T22	ENFERMEDAD 6253 6284	enfermedad coronaria de un vaso
+T23	ENFERMEDAD 6336 6366	Estenosis moderada en DA media
+T24	ENFERMEDAD 6441 6460	Hipercolesterolemia
+T25	ENFERMEDAD 858 865	IAMCEST
+T26	ENFERMEDAD 255 263	alergias
+T27	ENFERMEDAD 2877 2889	arco corneal
+T28	ENFERMEDAD 2894 2913	xantomas tendinosos
+T29	ENFERMEDAD 3076 3090	visceromeglias
+T30	ENFERMEDAD 170 177	infarto
+T31	PROCEDIMIENTO 895 915	cateterismo cardiaco
+T32	PROCEDIMIENTO 1025 1088	intervención coronaria percutánea (ICP) con stent farmacoactivo
+T33	PROCEDIMIENTO 1187 1201	ecocardiograma
+T34	PROCEDIMIENTO 1377 1400	rehabilitación cardiaca
+T35	PROCEDIMIENTO 2272 2290	electrocardiograma
+T36	PROCEDIMIENTO 2292 2295	ECG
+T37	PROCEDIMIENTO 2396 2451	tomografía por emisión monofotónica (SPECT) de esfuerzo
+T38	PROCEDIMIENTO 2433 2438	SPECT
+T39	PROCEDIMIENTO 2931 2958	Auscultación cardiopulmonar
+T40	PROCEDIMIENTO 3161 3181	CATETERISMO CARDIACO
+T41	PROCEDIMIENTO 3265 3311	Angioplastia coronaria transluminal percutánea
+T42	PROCEDIMIENTO 3313 3317	ACTP
+T43	PROCEDIMIENTO 3321 3352	implante de stent farmacoactivo
+T44	PROCEDIMIENTO 3563 3572	hemograma
+T45	PROCEDIMIENTO 3770 3773	ECG
+T46	PROCEDIMIENTO 3930 3947	SPECT DE ESFUERZO
+T47	PROCEDIMIENTO 3978 3988	ergometría
+T48	PROCEDIMIENTO 4220 4223	ECG
+T49	PROCEDIMIENTO 4401 4412	gated-SPECT
+T50	PROCEDIMIENTO 4736 4759	rehabilitación cardiaca
+T51	PROCEDIMIENTO 5738 5764	tratamiento hipolipemiante
+T52	PROCEDIMIENTO 5880 5897	pruebas hepáticas
+T53	PROCEDIMIENTO 5914 5919	SPECT
+T54	PROCEDIMIENTO 6308 6325	revascularización
+T55	PROCEDIMIENTO 4999 5062	inhibidores de proproteína convertasa subtilisina/kexina tipo 9
+T56	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T57	PROCEDIMIENTO 2746 2764	EXPLORACIÓN FÍSICA
+T58	PROCEDIMIENTO 2357 2381	ecocardiograma de estrés
+T59	PROCEDIMIENTO 3532 3541	ANALÍTICA
+T60	PROCEDIMIENTO 1757 1766	analítica
+T61	PROCEDIMIENTO 4232 4269	imágenes tomográficas del posesfuerzo
+T62	SINTOMA 1215 1285	acinesia en segmentos medio y apical de septo anterior y cara anterior
+T63	SINTOMA 1686 1689	tos
+T64	SINTOMA 2048 2070	molestia retroesternal
+T65	SINTOMA 2090 2095	ardor
+T66	SINTOMA 2565 2584	molestia tipo ardor
+T67	SINTOMA 2766 2785	Buen estado general
+T68	SINTOMA 3013 3019	soplos
+T69	SINTOMA 3023 3033	extratonos
+T70	SINTOMA 3035 3061	Abdomen blando, depresible
+T71	SINTOMA 3067 3072	masas
+T72	SINTOMA 3092 3120	Pulsos periféricos presentes
+T73	SINTOMA 3126 3132	edemas
+T74	SINTOMA 3658 3684	Pruebas hepáticas normales
+T75	SINTOMA 3828 3879	pobre progresión de onda R en precordiales derechas
+T76	SINTOMA 3884 3895	ST aplanado
+T77	SINTOMA 4172 4178	Disnea
+T78	SINTOMA 5880 5906	pruebas hepáticas normales
+T79	SINTOMA 5955 5974	molestias torácicas
+T80	SINTOMA 6368 6413	Función sistólica de ventrículo VI conservada
+T81	SINTOMA 3804 3817	ritmo sinusal
+T82	SINTOMA 2511 2560	asintomática desde el punto de vista cardiológico
+T83	SINTOMA 3563 3589	hemograma sin alteraciones
+T84	SINTOMA 4418 4438	hipocinesia anterior
+T85	SINTOMA 2960 2982	ventilación conservada
+T86	SINTOMA 3483 3529	Coronaria derecha sin estenosis significativas
+T87	SINTOMA 4284 4323	defecto grave de perfusión anteroapical
+T88	FARMACO 1526 1548	ácido acetilsalicílico
+T89	FARMACO 1550 1553	AAS
+T90	FARMACO 1578 1588	ticagrelor
+T91	FARMACO 1635 1645	bisoprolol
+T92	FARMACO 1657 1665	losartán
+T93	FARMACO 1694 1702	ramipril
+T94	FARMACO 1705 1714	omeprazol
+T95	FARMACO 1726 1739	atorvastatina
+T96	FARMACO 1876 1885	ezetimibe
+T97	FARMACO 2646 2655	omeprazol
+T98	FARMACO 2660 2671	esomeprazol
+T99	FARMACO 4687 4695	estatina
+T100	FARMACO 4899 4908	ezetimibe
+T101	FARMACO 4914 4927	atorvastatina
+T102	FARMACO 5232 5242	evolocumab
+T103	FARMACO 5476 5485	ezetimibe
+T104	FARMACO 5064 5070	iPCSK9
+#1	AnnotatorNotes T42	 angioplastia coronaria transluminal percutánea
+#2	AnnotatorNotes T104	proproteína convertasa subtilisina/kexina tipo 9

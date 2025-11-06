@@ -1,0 +1,113 @@
+T1	DISEASE 3033 3076	ventrículo izquierdo moderadamente dilatado
+T2	DISEASE 3211 3256	Función sistólica global gravemente deprimida
+T3	DISEASE 4627 4668	congestión de predominio a nivel pulmonar
+T4	DISEASE 5651 5674	glucemia basal alterada
+T5	DISEASE 99 133	reacciones adversas medicamentosas
+T6	DISEASE 180 189	exfumador
+T7	DISEASE 216 224	enolismo
+T8	DISEASE 236 244	obesidad
+T9	DISEASE 309 320	cardiopatía
+T10	DISEASE 2858 2880	insuficiencia cardiaca
+T11	DISEASE 3541 3570	insuficiencia ligera-moderada
+T12	DISEASE 3677 3697	Insuficiencia ligera
+T13	DISEASE 3763 3782	derrame pericárdico
+T14	DISEASE 3958 4038	Descendente anterior de buen desarrollo y calibre con ateromatosis ligera difusa
+T15	DISEASE 4155 4226	Circunfleja de buen desarrollo y calibre con ateromatosis ligera difusa
+T16	DISEASE 4580 4621	descompensación de insuficiencia cardiaca
+T17	DISEASE 4739 4761	insuficiencia cardiaca
+T18	DISEASE 4841 4867	insuficiencia respiratoria
+T19	DISEASE 5433 5455	ateromatosis coronaria
+T20	DISEASE 5621 5645	diabetes mellitus tipo 2
+T21	DISEASE 5847 5884	enfermedad cardiovascular establecida
+T22	DISEASE 5886 5894	obesidad
+T23	DISEASE 6315 6337	insuficiencia cardiaca
+T24	DISEASE 6652 6704	descompensación de insuficiencia cardiaca congestiva
+T25	DISEASE 6706 6729	Miocardiopatía dilatada
+T26	DISEASE 6825 6849	Diabetes mellitus tipo 2
+T27	DISEASE 6872 6880	Obesidad
+T28	DISEASE 735 753	consumo de tóxicos
+T29	DISEASE 764 771	alcohol
+T30	DISEASE 3328 3367	Aurícula izquierda ligeramente dilatada
+T31	DISEASE 4397 4485	Coronaria derecha dominante, de buen desarrollo y calibre con ateromatosis ligera difusa
+T32	DISEASE 323 336	muerte súbita
+T33	DISEASE 4259 4305	primera obtusa marginal con una placa moderada
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 834 852	Exploración física
+T36	PROCEDURE 1179 1200	Auscultación cardiaca
+T37	PROCEDURE 1235 1256	Auscultación pulmonar
+T38	PROCEDURE 1494 1512	Electrocardiograma
+T39	PROCEDURE 1716 1735	Analítica de sangre
+T40	PROCEDURE 1881 1891	hemostasia
+T41	PROCEDURE 1915 1932	gasometría venosa
+T42	PROCEDURE 2203 2223	Marcadores cardiacos
+T43	PROCEDURE 2288 2307	Analítica de sangre
+T44	PROCEDURE 2498 2512	perfil férrico
+T45	PROCEDURE 2586 2599	Microbiología
+T46	PROCEDURE 2601 2618	PCR de SARS-CoV-2
+T47	PROCEDURE 2629 2649	Radiografía de tórax
+T48	PROCEDURE 2982 3010	Ecocardiograma transtorácico
+T49	PROCEDURE 3835 3850	Coronariografía
+T50	PROCEDURE 4891 4943	oxigenoterapia mediante cánulas nasales a bajo flujo
+T51	PROCEDURE 4959 5007	tratamiento diurético con furosemida intravenosa
+T52	PROCEDURE 5224 5242	antialdosterónicos
+T53	PROCEDURE 5758 5772	insulinización
+T54	PROCEDURE 5783 5804	antidiabéticos orales
+T55	PROCEDURE 5924 5949	tratamiento diabetológico
+T56	PROCEDURE 5217 5221	ARNI
+T57	PROCEDURE 5550 5569	estudios analíticos
+T58	PROCEDURE 5204 5215	betabloqueo
+T59	SYMPTOM 495 547	disnea progresiva hasta hacerse de mínimos esfuerzos
+T60	SYMPTOM 564 572	ortopnea
+T61	SYMPTOM 575 583	tos seca
+T62	SYMPTOM 596 620	edematización periférica
+T63	SYMPTOM 625 632	síncope
+T64	SYMPTOM 634 648	dolor torácico
+T65	SYMPTOM 652 665	palpitaciones
+T66	SYMPTOM 796 803	Afebril
+T67	SYMPTOM 1073 1087	Leve taquipnea
+T68	SYMPTOM 1092 1116	intolerancia al decúbito
+T69	SYMPTOM 1118 1148	Presión venosa yugular elevada
+T70	SYMPTOM 1179 1208	Auscultación cardiaca rítmica
+T71	SYMPTOM 1213 1219	soplos
+T72	SYMPTOM 1223 1233	extratonos
+T73	SYMPTOM 1261 1298	hipofonesis en ambas bases pulmonares
+T74	SYMPTOM 1303 1363	crepitantes superiores hasta tercio medio de forma bilateral
+T75	SYMPTOM 1365 1407	Miembros inferiores con edemas pretibiales
+T76	SYMPTOM 1409 1450	Pulsos periféricos presentes y simétricos
+T77	SYMPTOM 1452 1467	Bien perfundido
+T78	SYMPTOM 1514 1527	ritmo sinusal
+T79	SYMPTOM 1577 1589	QRS estrecho
+T80	SYMPTOM 1616 1677	adecuada transición de la onda R en derivaciones precordiales
+T81	SYMPTOM 1679 1714	ondas T negativas en I, aVL, V5, V6
+T82	SYMPTOM 2601 2627	PCR de SARS-CoV-2 negativa
+T83	SYMPTOM 2693 2724	Índice cardiotorácico aumentado
+T84	SYMPTOM 2882 2930	Aumento de la densidad en ambas bases pulmonares
+T85	SYMPTOM 2965 2980	hipoventilación
+T86	SYMPTOM 3082 3111	espesores parietales normales
+T87	SYMPTOM 3181 3199	Hipoquinesia grave
+T88	SYMPTOM 4698 4723	hemodinámicamente estable
+T89	SYMPTOM 5143 5152	euvolemia
+T90	SYMPTOM 2777 2817	pinzamiento de ambos senos costofrénicos
+T91	SYMPTOM 2726 2775	Aumento de la trama vascular perihiliar bilateral
+T92	SYMPTOM 3113 3179	Aquinesia de cara inferior, septo inferior y cara lateral inferior
+T93	SYMPTOM 3369 3397	Aurícula derecha no dilatada
+T94	SYMPTOM 3399 3466	Ventrículo derecho no dilatado, con función sistólica global normal
+T95	SYMPTOM 3580 3631	Válvula aórtica morfológica y funcionalmente normal
+T96	SYMPTOM 3633 3675	Válvula tricúspide morfológicamente normal
+T97	SYMPTOM 3784 3808	Raíz aórtica no dilatada
+T98	SYMPTOM 3917 3956	Tronco coronario izquierdo sin lesiones
+T99	SYMPTOM 1831 1845	fórmula normal
+T100	SYMPTOM 810 831	semiología infecciosa
+T101	SYMPTOM 5677 5702	niveles elevados de HbA1c
+T102	SYMPTOM 4080 4138	Ramo diagonal precoz de moderado calibre pero sin lesiones
+T103	SYMPTOM 4397 4424	Coronaria derecha dominante
+T104	SYMPTOM 6760 6823	función sistólica del ventrículo izquierdo gravemente deprimida
+T105	MEDICATION 4985 4995	furosemida
+T106	MEDICATION 5324 5334	bisoprolol
+T107	MEDICATION 5345 5366	sacubitrilo/valsartán
+T108	MEDICATION 5475 5497	ácido acetilsalicílico
+T109	MEDICATION 5512 5525	atorvastatina
+T110	MEDICATION 5996 6021	metformina/dapagliflozina
+T111	MEDICATION 6097 6108	semaglutida
+T112	MEDICATION 5382 5392	eplerenona
+T113	MEDICATION 5968 5983	insulina toujeo

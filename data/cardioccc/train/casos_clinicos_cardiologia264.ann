@@ -1,0 +1,123 @@
+T1	DISEASE 63 89	valvulopatía mitro-aórtica
+T2	DISEASE 320 343	alergias medicamentosas
+T3	DISEASE 397 418	hipertensión arterial
+T4	DISEASE 420 423	HTA
+T5	DISEASE 534 551	diabetes mellitus
+T6	DISEASE 553 555	DM
+T7	DISEASE 581 601	valvulopatía aórtica
+T8	DISEASE 953 996	insuficiencia mitral de origen degenerativo
+T9	DISEASE 998 1019	Fibrilación auricular
+T10	DISEASE 1021 1023	FA
+T11	DISEASE 1103 1130	Hipertensión pulmonar grave
+T12	DISEASE 1209 1248	enfermedad pulmonar obstructiva crónica
+T13	DISEASE 2621 2684	insuficiencia venosa crónica con trastornos tróficos en la piel
+T14	DISEASE 2733 2748	derrame pleural
+T15	DISEASE 2833 2852	atelectasia laminar
+T16	DISEASE 2864 2894	atelectasia laminar redondeada
+T17	DISEASE 2944 2947	HVI
+T18	DISEASE 3338 3371	Hipertensión pulmonar (HTP) grave
+T19	DISEASE 3392 3501	Insuficiencia tricuspídea funcional por dilatación del anillo y estiramiento de las cuerdas tendinosas, grave
+T20	DISEASE 3709 3739	retención hídrica en hemitórax
+T21	DISEASE 3749 3766	tumor evanescente
+T22	DISEASE 3773 3791	disección de aorta
+T23	DISEASE 4341 4390	derrame pleural leve derecho y moderado izquierdo
+T24	DISEASE 4436 4476	derrame loculado en fisura mayor derecha
+T25	DISEASE 4695 4737	insuficiencia cardiaca derecha e izquierda
+T26	DISEASE 5065 5111	hemitórax derecho que mostró retención hídrica
+T27	DISEASE 5173 5191	disección de aorta
+T28	DISEASE 6237 6247	HTP severa
+T29	DISEASE 6264 6267	HTA
+T30	DISEASE 504 506	DL
+T31	DISEASE 6269 6272	DLP
+T32	DISEASE 6065 6120	Disección aórtica tipo A de Stanford de perfil subagudo
+T33	DISEASE 2922 2924	FA
+T34	DISEASE 6249 6262	FA permanente
+T35	DISEASE 3294 3336	Ventrículo derecho dilatado de forma grave
+T36	DISEASE 103 135	insuficiencia cardiaca izquierda
+T37	DISEASE 4478 4495	tumor evanescente
+T38	DISEASE 3256 3292	aurícula derecha gravemente dilatada
+T39	DISEASE 3361 3364	HTP
+T40	DISEASE 3503 3542	Aurícula izquierda ligeramente dilatada
+T41	DISEASE 5127 5144	tumor evanescente
+T42	DISEASE 3977 4059	disección hasta la arteria iliaca externa derecha llegando a femoral común derecha
+T43	DISEASE 5951 5960	disección
+T44	PROCEDURE 664 680	cirugía valvular
+T45	PROCEDURE 685 723	implante de prótesis biológica aórtica
+T46	PROCEDURE 753 813	recambio a prótesis mecánica aórtica BJORK (monodisco no 21)
+T47	PROCEDURE 851 867	cirugía cardiaca
+T48	PROCEDURE 873 926	implante de prótesis mitral mecánica Omnicarbon no 27
+T49	PROCEDURE 1055 1068	cardioversión
+T50	PROCEDURE 1140 1162	cirugía válvula mitral
+T51	PROCEDURE 2136 2154	Exploración física
+T52	PROCEDURE 2253 2274	Auscultación cardiaca
+T53	PROCEDURE 2366 2387	Auscultación pulmonar
+T54	PROCEDURE 2554 2572	palpación profunda
+T55	PROCEDURE 2711 2731	Radiografía de tórax
+T56	PROCEDURE 2896 2914	Electrocardiograma
+T57	PROCEDURE 2916 2919	ECG
+T58	PROCEDURE 3240 3254	Ecocardiograma
+T59	PROCEDURE 3695 3707	TAC de tórax
+T60	PROCEDURE 3925 3946	TAC de abdomen-pelvis
+T61	PROCEDURE 4791 4817	tratamiento con diuréticos
+T62	PROCEDURE 4914 4925	radiografía
+T63	PROCEDURE 5023 5035	TAC de tórax
+T64	PROCEDURE 5729 5745	cirugía cardiaca
+T65	PROCEDURE 5840 5856	cirugía de aorta
+T66	PROCEDURE 5851 5930	aorta, implantando una prótesis vascular FlowWeave Bioseal 32 mm supracoronaria
+T67	PROCEDURE 6019 6050	anuloplastia tricúspide de Vega
+T68	PROCEDURE 6133 6149	cirugía cardiaca
+T69	PROCEDURE 283 301	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 3043 3052	Analítica
+T71	PROCEDURE 1250 1276	Intervenciones quirúrgicas
+T72	PROCEDURE 5800 5812	intervención
+T73	PROCEDURE 3029 3041	digitalizado
+T74	SYMPTOM 1164 1179	FEVI conservada
+T75	SYMPTOM 1672 1701	Disnea de moderados esfuerzos
+T76	SYMPTOM 1731 1750	deterioro cognitivo
+T77	SYMPTOM 1806 1854	disnea habitual de moderados a mínimos esfuerzos
+T78	SYMPTOM 1886 1900	dolor torácico
+T79	SYMPTOM 1902 1910	Ortopnea
+T80	SYMPTOM 1961 1973	tos nocturna
+T81	SYMPTOM 1993 2000	Afebril
+T82	SYMPTOM 2276 2285	arrítmico
+T83	SYMPTOM 2287 2354	clic metálico en foco aórtico soplo sistólico en borde paraesternal
+T84	SYMPTOM 2389 2412	crepitantes bilaterales
+T85	SYMPTOM 2417 2462	abolición del murmullo vesicular en hemitórax
+T86	SYMPTOM 2474 2572	Abdomen: RHA+, globuloso, timpanizado, escasamente depresible, no doloroso a la palpación profunda
+T87	SYMPTOM 2574 2619	MMII: edemas maleolares con fóvea bilaterales
+T88	SYMPTOM 2961 3016	Alteraciones de la repolarización en V5, V6, I, aVL, II
+T89	SYMPTOM 3583 3607	FEVI levemente deprimida
+T90	SYMPTOM 5583 5597	dolor torácico
+T91	SYMPTOM 1703 1711	Ortopnea
+T92	SYMPTOM 2111 2133	mialgias generalizadas
+T93	SYMPTOM 1927 1948	Reducción de diuresis
+T94	SYMPTOM 3544 3581	Movimiento anómalo septal, paradójico
+T95	SYMPTOM 6151 6193	Prótesis mitral y aórtica normofuncionante
+T96	SYMPTOM 2771 2810	aumento de densidad en lóbulo posterior
+T97	SYMPTOM 2002 2046	Aumento del perímetro de miembros inferiores
+T98	SYMPTOM 3373 3390	FEVD en el límite
+T99	SYMPTOM 3613 3693	Prótesis mitral y aórtica metálicas de aspecto monodisco y movilidad conservadas
+T100	SYMPTOM 3886 3923	afectación de las arterias coronarias
+T101	SYMPTOM 5286 5323	afectación de las arterias coronarias
+T102	SYMPTOM 6195 6216	FEVI levemente afecta
+T103	SYMPTOM 6221 6235	FEVD limítrofe
+T104	MEDICATION 475 485	irbesartán
+T105	MEDICATION 1347 1357	bromazepam
+T106	MEDICATION 1375 1384	omeprazol
+T107	MEDICATION 1401 1411	irbesartán
+T108	MEDICATION 1429 1439	bisoprolol
+T109	MEDICATION 1455 1465	furosemida
+T110	MEDICATION 1482 1490	digoxina
+T111	MEDICATION 1509 1519	tadalafilo
+T112	MEDICATION 1536 1547	paracetamol
+T113	MEDICATION 2067 2079	azitromicina
+T114	MEDICATION 2082 2088	Flutox
+T115	MEDICATION 5650 5657	sintrom
+T116	MEDICATION 5670 5685	heparina sódica
+T117	MEDICATION 1572 1579	sintrom
+#1	AnnotatorNotes T17	 hipertrofia ventriculo izquierdo
+#2	AnnotatorNotes T30	 DL dislipemia
+#3	AnnotatorNotes T31	 DLP dislipemia
+#4	AnnotatorNotes T33	 Fibrilación Auricular
+#5	AnnotatorNotes T34	 Fibrilación Auricular
+#6	AnnotatorNotes T39	 hipertensión pulmonar

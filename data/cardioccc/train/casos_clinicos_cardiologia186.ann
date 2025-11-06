@@ -1,0 +1,105 @@
+T1	DISEASE 2416 2450	ventrículo izquierdo (VI) dilatado
+T2	DISEASE 1728 1749	edema agudo de pulmón
+T3	DISEASE 2024 2044	insuficiencia mitral
+T4	DISEASE 2259 2278	coartación de aorta
+T5	DISEASE 2327 2368	Derrame pleural en ambas bases pulmonares
+T6	DISEASE 2766 2785	derrame pericárdico
+T7	DISEASE 2848 2877	Disfunción sistólica VI grave
+T8	DISEASE 2919 2943	miocardiopatía periparto
+T9	DISEASE 3193 3225	Disfunción sistólica de VI grave
+T10	DISEASE 3340 3360	Insuficiencia mitral
+T11	DISEASE 3604 3628	tromboembolismo pulmonar
+T12	DISEASE 3630 3633	TEP
+T13	DISEASE 3906 3927	edema agudo de pulmón
+T14	DISEASE 3956 3980	miocardiopatía periparto
+T15	DISEASE 4841 4864	arritmias ventriculares
+T16	DISEASE 5101 5125	miocardiopatía periparto
+T17	DISEASE 5341 5362	Edema agudo de pulmón
+T18	DISEASE 5364 5434	Miocardiopatía periparto con disfunción grave del ventrículo izquierdo
+T19	DISEASE 5491 5514	arritmias ventriculares
+T20	DISEASE 2046 2048	IM
+T21	DISEASE 3725 3736	hipotensión
+T22	DISEASE 1798 1888	ventrículo izquierdo ligeramente dilatado (DTDVI 57 mm) con disfunción sistólica muy grave
+T23	DISEASE 3052 3058	zoster
+T24	DISEASE 3150 3191	ventrículo izquierdo ligeramente dilatado
+T25	DISEASE 3804 3840	disfunción sistólica de VI muy grave
+T26	PROCEDURE 185 207	parto vaginal eutócico
+T27	PROCEDURE 334 339	parto
+T28	PROCEDURE 677 695	exploración física
+T29	PROCEDURE 788 809	Auscultación cardiaca
+T30	PROCEDURE 856 877	Auscultación pulmonar
+T31	PROCEDURE 1031 1049	Electrocardiograma
+T32	PROCEDURE 1051 1054	ECG
+T33	PROCEDURE 1660 1680	Radiografía de tórax
+T34	PROCEDURE 1751 1779	Ecocardiograma transtorácico
+T35	PROCEDURE 1781 1784	ETT
+T36	PROCEDURE 2370 2414	Resonancia magnética nuclear (RMN ) cardiaca
+T37	PROCEDURE 2695 2717	inyección de contraste
+T38	PROCEDURE 3112 3140	Ecocardiograma transtorácico
+T39	PROCEDURE 3749 3791	ecocardiograma transtorácico a pie de cama
+T40	PROCEDURE 4099 4121	tratamiento inotrópico
+T41	PROCEDURE 4147 4157	diuréticos
+T42	PROCEDURE 4444 4467	perfusión de dobutamina
+T43	PROCEDURE 4480 4505	tratamiento neurohormonal
+T44	PROCEDURE 4659 4688	resonancia magnética cardiaca
+T45	PROCEDURE 4903 4958	implantación de un desfibrilador automático implantable
+T46	PROCEDURE 5205 5221	estudio genético
+T47	PROCEDURE 5436 5462	Implante de DAI subcutáneo
+T48	PROCEDURE 5516 5532	Estudio genético
+T49	PROCEDURE 1157 1176	Analítica de sangre
+T50	PROCEDURE 1276 1286	Bioquímica
+T51	PROCEDURE 1607 1618	Coagulación
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 1178 1197	Gasometría arterial
+T54	PROCEDURE 1512 1524	Hematimetría
+T55	PROCEDURE 3015 3024	Serología
+T56	PROCEDURE 4391 4421	soporte inotrópico y diurético
+T57	PROCEDURE 2961 3003	PCR adenovirus, enterovirus y herpes virus
+T58	PROCEDURE 4960 4963	DAI
+T59	SYMPTOM 401 424	expectoración sonrosada
+T60	SYMPTOM 427 433	disnea
+T61	SYMPTOM 703 709	pálida
+T62	SYMPTOM 712 720	sudorosa
+T63	SYMPTOM 726 741	frialdad distal
+T64	SYMPTOM 759 780	ingurgitación yugular
+T65	SYMPTOM 788 817	Auscultación cardiaca rítmica
+T66	SYMPTOM 822 854	ritmo de galope por tercer ruido
+T67	SYMPTOM 882 903	crepitantes bibasales
+T68	SYMPTOM 905 923	Abdomen distendido
+T69	SYMPTOM 925 971	Extremidades superiores e inferiores sin edema
+T70	SYMPTOM 977 1002	pulsos distales palpables
+T71	SYMPTOM 1095 1104	PR normal
+T72	SYMPTOM 1106 1118	QRS estrecho
+T73	SYMPTOM 1682 1712	patrón intersticial perihiliar
+T74	SYMPTOM 1904 1949	Ventrículo derecho de tamaño y función normal
+T75	SYMPTOM 1998 2019	Válvula mitral normal
+T76	SYMPTOM 2125 2150	Válvula tricúspide normal
+T77	SYMPTOM 2583 2602	Hipoquinesia difusa
+T78	SYMPTOM 2961 3013	PCR adenovirus, enterovirus y herpes virus: negativa
+T79	SYMPTOM 3193 3225	Disfunción sistólica de VI grave
+T80	SYMPTOM 3237 3265	Movimiento septal paradójico
+T81	SYMPTOM 3307 3338	función sistólica VD conservada
+T82	SYMPTOM 3381 3413	Patrón Doppler diastólico normal
+T83	SYMPTOM 3415 3455	Patrón Doppler tisular diastólico normal
+T84	SYMPTOM 3457 3495	Presión arterial pulmonar (PAP) normal
+T85	SYMPTOM 3664 3682	mal estado general
+T86	SYMPTOM 3684 3693	taquipnea
+T87	SYMPTOM 3695 3707	desaturación
+T88	SYMPTOM 3725 3736	hipotensión
+T89	SYMPTOM 3856 3872	VD hiperdinámico
+T90	SYMPTOM 1070 1089	taquicardia sinusal
+T91	SYMPTOM 1124 1155	trastornos de la repolarización
+T92	SYMPTOM 1951 1996	Válvula aórtica tricúspide y normofuncionante
+T93	SYMPTOM 3015 3110	Serología de Toxoplasma, CMV, herpes zoster, Epstein-Barr, VHS 1 y 2, VIH y hepatitis: negativo
+T94	SYMPTOM 5547 5589	variante patogénica en el gen de la titina
+T95	SYMPTOM 2078 2123	aumento de las presiones de llenado izquierdo
+T96	SYMPTOM 2193 2229	Vena cava inferior (VCI) no dilatada
+T97	SYMPTOM 2656 2689	realces intramiocárdicos anómalos
+T98	SYMPTOM 3267 3302	Ventrículo derecho (VD) no dilatado
+T99	SYMPTOM 3511 3532	Vena cava no dilatada
+T100	SYMPTOM 5238 5271	variante frameshift en el gen TTN
+T101	MEDICATION 4126 4136	dobutamina
+T102	MEDICATION 4457 4467	dobutamina
+T103	MEDICATION 4510 4520	bisoprolol
+T104	MEDICATION 4523 4532	enalapril
+#1	AnnotatorNotes T20	 insuficiencia mitral

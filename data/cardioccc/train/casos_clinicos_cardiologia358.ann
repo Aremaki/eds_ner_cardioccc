@@ -1,0 +1,162 @@
+T1	DISEASE 81 104	alergias medicamentosas
+T2	DISEASE 249 260	cardiopatía
+T3	DISEASE 320 334	metabolopatías
+T4	DISEASE 454 484	Consumo esporádico de cannabis
+T5	DISEASE 561 626	Displasia arritmogénica biventricular con mutación en el gen LMNA
+T6	DISEASE 694 727	insuficiencia cardiaca congestiva
+T7	DISEASE 729 732	ICC
+T8	DISEASE 829 859	disfunción biventricular grave
+T9	DISEASE 954 1021	miocardiopatía arritmogénica por mutación en el exón 3 del gen LMNA
+T10	DISEASE 1123 1145	descompensación de ICC
+T11	DISEASE 1199 1230	insuficiencia cardiaca avanzada
+T12	DISEASE 1470 1515	taquicardia ventricular monomórfica sostenida
+T13	DISEASE 1517 1521	TVMS
+T14	DISEASE 1568 1594	Trombo en orejuela derecha
+T15	DISEASE 2191 2222	Insuficiencia tricuspídea grave
+T16	DISEASE 2400 2413	valvulopatías
+T17	DISEASE 2484 2503	derrame pericárdico
+T18	DISEASE 2510 2575	miocardiopatía dilatada con disfunción grave de ambos ventrículos
+T19	DISEASE 2609 2633	Dilatación aneurismática
+T20	DISEASE 2773 2818	Trombos en la orejuela de la aurícula derecha
+T21	DISEASE 3334 3354	déficit de FV y FVII
+T22	DISEASE 3380 3401	déficit de vitamina K
+T23	DISEASE 3843 3865	infección respiratoria
+T24	DISEASE 4179 4212	taquicardia ventricular sostenida
+T25	DISEASE 4316 4320	TVMS
+T26	DISEASE 4323 4346	fibrilación ventricular
+T27	DISEASE 4776 4794	shock cardiogénico
+T28	DISEASE 6557 6600	taquicardia ventricular monomorfa sostenida
+T29	DISEASE 6619 6680	bloqueo de rama izquierda, eje inferior y transición en V3-V4
+T30	DISEASE 6760 6798	Bloqueo de rama derecha del haz de His
+T31	DISEASE 7207 7237	shock cardiogénico refractario
+T32	DISEASE 7243 7261	tormenta arrítmica
+T33	DISEASE 7413 7417	TVMS
+T34	DISEASE 7420 7422	FV
+T35	DISEASE 7822 7827	shock
+T36	DISEASE 7906 7925	acidosis metabólica
+T37	DISEASE 7975 8030	disfunción multiorgánica con fracaso renal oligoanúrico
+T38	DISEASE 8033 8055	insuficiencia hepática
+T39	DISEASE 8067 8080	hipoglucemias
+T40	DISEASE 8083 8095	coagulopatía
+T41	DISEASE 8433 8450	shock refractario
+T42	DISEASE 8452 8471	fallo multiorgánico
+T43	DISEASE 8730 8783	miocardiopatía arritmogénica con mutación en gen LMNA
+T44	DISEASE 8786 8816	disfunción biventricular grave
+T45	DISEASE 8818 8880	Shock cardiogénico refractario secundario a tormenta arrítmica
+T46	DISEASE 8882 8914	Encefalopatía difusa postanóxica
+T47	DISEASE 8916 8937	Fracaso multiorgánico
+T48	DISEASE 346 361	Hábitos tóxicos
+T49	DISEASE 8695 8713	Tormenta arrítmica
+T50	DISEASE 4502 4529	disociación electromecánica
+T51	DISEASE 363 377	fumador activo
+T52	DISEASE 492 510	ingesta de alcohol
+T53	DISEASE 1798 1844	ventrículo izquierdo (VI) ligeramente dilatado
+T54	DISEASE 2037 2103	Ventrículo derecho (VD) dilatado, con función gravemente deprimida
+T55	DISEASE 2415 2448	Vena cava inferior (VCI) dilatada
+T56	DISEASE 2578 2607	dilatación de ambas aurículas
+T57	DISEASE 267 280	muerte súbita
+T58	DISEASE 2889 2938	anomalías en el origen de las arterias coronarias
+T59	PROCEDURE 753 781	ecocardiograma transtorácico
+T60	PROCEDURE 783 786	ETT
+T61	PROCEDURE 793 822	resonancia magnética cardiaca
+T62	PROCEDURE 824 827	RMC
+T63	PROCEDURE 925 941	estudio genético
+T64	PROCEDURE 1611 1614	RMC
+T65	PROCEDURE 1672 1724	anticoagulación con heparinas de bajo peso molecular
+T66	PROCEDURE 1726 1730	HBPM
+T67	PROCEDURE 1793 1796	ETT
+T68	PROCEDURE 2820 2872	Tomografía computarizada (TC) de arterias coronarias
+T69	PROCEDURE 3051 3067	Estudio genético
+T70	PROCEDURE 3403 3426	Medicación domiciliaria
+T71	PROCEDURE 4648 4670	intubación orotraqueal
+T72	PROCEDURE 4683 4712	ventilación mecánica invasiva
+T73	PROCEDURE 4830 4848	drogas vasoactivas
+T74	PROCEDURE 4851 4869	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 4946 4968	Intubación orotraqueal
+T76	PROCEDURE 5125 5146	Auscultación cardiaca
+T77	PROCEDURE 5178 5199	Auscultación pulmonar
+T78	PROCEDURE 5474 5483	Hemograma
+T79	PROCEDURE 6191 6202	Coagulación
+T80	PROCEDURE 6394 6413	Gasometría arterial
+T81	PROCEDURE 6520 6538	Electrocardiograma
+T82	PROCEDURE 6540 6543	ECG
+T83	PROCEDURE 6682 6685	ECG
+T84	PROCEDURE 6894 6964	Radiografía de tórax: portátil, proyección proyección antero-posterior
+T85	PROCEDURE 7317 7335	drogas vasoactivas
+T86	PROCEDURE 8154 8190	oxigenador extracorpóreo de membrana
+T87	PROCEDURE 8192 8196	ECMO
+T88	PROCEDURE 8291 8310	trasplante cardiaco
+T89	PROCEDURE 7481 7494	sedoanalgesia
+T90	PROCEDURE 5987 5997	Bioquímica
+T91	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 4970 4985	Sedoanalgesiado
+T93	PROCEDURE 3318 3329	hematología
+T94	PROCEDURE 4542 4590	maniobras de reanimación cardiopulmonar avanzada
+T95	PROCEDURE 2846 2848	TC
+T96	PROCEDURE 8223 8233	trasplante
+T97	PROCEDURE 5463 5472	Analítica
+T98	PROCEDURE 2505 2508	CRM
+T99	PROCEDURE 8212 8220	ablación
+T100	PROCEDURE 7760 7794	procainamida en perfusión continua
+T101	PROCEDURE 5278 5287	se palpan
+T102	SYMPTOM 1798 1878	ventrículo izquierdo (VI) ligeramente dilatado con espesores parietales normales
+T103	SYMPTOM 1880 1905	Hipoquinesia severa de VI
+T104	SYMPTOM 1947 1972	FEVI gravemente deprimida
+T105	SYMPTOM 2000 2035	Flujo de llenado transmitral normal
+T106	SYMPTOM 3802 3817	síndrome febril
+T107	SYMPTOM 3936 3959	pérdida de conocimiento
+T108	SYMPTOM 3964 3989	pérdida del tono postural
+T109	SYMPTOM 4072 4102	pulso y respiración espontánea
+T110	SYMPTOM 4112 4137	bajo nivel de consciencia
+T111	SYMPTOM 4463 4497	perdida del pulso en ritmo sinusal
+T112	SYMPTOM 4937 4944	Afebril
+T113	SYMPTOM 4987 5001	Mal perfundido
+T114	SYMPTOM 5007 5030	livideces generalizadas
+T115	SYMPTOM 5032 5058	Pulsos periféricos débiles
+T116	SYMPTOM 5064 5091	relleno capilar enlentecido
+T117	SYMPTOM 5093 5123	Presión venosa yugular elevada
+T118	SYMPTOM 5148 5155	rítmico
+T119	SYMPTOM 5161 5167	soplos
+T120	SYMPTOM 5201 5244	crepitantes hasta campos medios bilaterales
+T121	SYMPTOM 5246 5273	Abdomen: blando, depresible
+T122	SYMPTOM 5288 5293	masas
+T123	SYMPTOM 5297 5305	megalias
+T124	SYMPTOM 5307 5335	Ruidos hidroaéreos presentes
+T125	SYMPTOM 5337 5408	Extremidades inferiores: edemas con fóvea en ambas regiones pretibiales
+T126	SYMPTOM 5410 5436	Pulsos pedios no palpables
+T127	SYMPTOM 6715 6728	ritmo sinusal
+T128	SYMPTOM 6739 6758	Intervalo PR normal
+T129	SYMPTOM 6971 7002	Índice cardiotorácico aumentado
+T130	SYMPTOM 7267 7293	inestabilidad hemodinámica
+T131	SYMPTOM 7360 7383	inestabilidad eléctrica
+T132	SYMPTOM 7587 7630	pupilas midriáticas, isocóricas arreactivas
+T133	SYMPTOM 7632 7662	Ausencia de reflejos de tronco
+T134	SYMPTOM 7886 7903	hiperlactacidemia
+T135	SYMPTOM 8612 8642	deterioro hemodinámico marcado
+T136	SYMPTOM 8645 8652	fallece
+T137	SYMPTOM 8763 8783	mutación en gen LMNA
+T138	SYMPTOM 7859 7881	Mala perfusión general
+T139	SYMPTOM 4280 4293	ritmo sinusal
+T140	SYMPTOM 4396 4409	ritmo sinusal
+T141	SYMPTOM 2105 2142	Septo ligeramente desplazado hacia VI
+T142	SYMPTOM 2636 2672	acinesia del tracto de salida del VD
+T143	SYMPTOM 3001 3049	Aorta ascendente y raíz aórtica de tamaño normal
+T144	SYMPTOM 7039 7071	DAI monocameral normoposicionado
+T145	SYMPTOM 7076 7111	obliteración de senos costofrénicos
+T146	SYMPTOM 8939 8945	Muerte
+T147	SYMPTOM 603 626	mutación en el gen LMNA
+T148	SYMPTOM 2981 2999	Dominancia derecha
+T149	SYMPTOM 7004 7037	Redistribución vascular bilateral
+T150	SYMPTOM 2157 2189	sobrecarga de cavidades derechas
+T151	SYMPTOM 987 1021	mutación en el exón 3 del gen LMNA
+T152	SYMPTOM 2919 2950	arterias coronarias ni lesiones
+T153	SYMPTOM 7712 7735	ritmo de marcapasos VVI
+T154	MEDICATION 3428 3438	bisoprolol
+T155	MEDICATION 3479 3488	enalapril
+T156	MEDICATION 3524 3534	eplerenona
+T157	MEDICATION 3569 3579	furosemida
+T158	MEDICATION 3614 3625	enoxaparina
+T159	MEDICATION 4636 4646	adrenalina
+T160	MEDICATION 7466 7478	procainamida
+T161	MEDICATION 7499 7507	propofol
+T162	MEDICATION 7760 7772	procainamida

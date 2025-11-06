@@ -1,0 +1,93 @@
+T1	ENFERMEDAD 131 157	parada cardio-respiratoria
+T2	ENFERMEDAD 476 499	fibrilación ventricular
+T3	ENFERMEDAD 758 773	parada cardiaca
+T4	ENFERMEDAD 887 907	Bronquitis sibilante
+T5	ENFERMEDAD 1172 1190	patología cardiaca
+T6	ENFERMEDAD 1979 1998	derrame pericárdico
+T7	ENFERMEDAD 2270 2337	Origen anómalo de coronaria izquierda de arteria pulmonar principal
+T8	ENFERMEDAD 2412 2483	Arteria coronaria derecha dilatada con origen en seno coronario derecho
+T9	ENFERMEDAD 3525 3546	episodios convulsivos
+T10	ENFERMEDAD 4002 4059	origen anómalo de coronaria izquierda en arteria pulmonar
+T11	ENFERMEDAD 4354 4418	Parada cardio-respiratoria por fibrilación ventricular reanimada
+T12	ENFERMEDAD 4422 4440	Síndrome de ALCAPA
+T13	ENFERMEDAD 4606 4661	Neumonía nosocomial lid asociada a ventilación mecánica
+T14	ENFERMEDAD 3183 3192	arritmias
+T15	ENFERMEDAD 985 993	alergias
+T16	ENFERMEDAD 1831 1865	dilatación de ventrículo izquierdo
+T17	ENFERMEDAD 2000 2026	Coronaria derecha dilatada
+T18	ENFERMEDAD 2187 2235	origen anómalo de la arteria coronaria izquierda
+T19	ENFERMEDAD 4442 4499	origen anómalo de coronaria izquierda en arteria pulmonar
+T20	PROCEDIMIENTO 34 52	exploración física
+T21	PROCEDIMIENTO 277 288	antitérmico
+T22	PROCEDIMIENTO 523 537	desfibrilación
+T23	PROCEDIMIENTO 540 566	reanimación cardiopulmonar
+T24	PROCEDIMIENTO 708 716	intubado
+T25	PROCEDIMIENTO 873 878	parto
+T26	PROCEDIMIENTO 1206 1224	exploración física
+T27	PROCEDIMIENTO 1339 1359	ventilación mecánica
+T28	PROCEDIMIENTO 1546 1549	ECG
+T29	PROCEDIMIENTO 1752 1767	Ecocardiografía
+T30	PROCEDIMIENTO 2239 2268	Angio TAC arterias coronarias
+T31	PROCEDIMIENTO 2608 2628	ventilación mecánica
+T32	PROCEDIMIENTO 2643 2655	sueroterapia
+T33	PROCEDIMIENTO 2688 2708	ventilación mecánica
+T34	PROCEDIMIENTO 3257 3301	perfusión continua de sedoanalgesia profunda
+T35	PROCEDIMIENTO 3352 3374	hipotermia terapéutica
+T36	PROCEDIMIENTO 3453 3476	monitorización continua
+T37	PROCEDIMIENTO 3481 3484	EEG
+T38	PROCEDIMIENTO 3645 3681	Retirada progresiva de sedoanalgesia
+T39	PROCEDIMIENTO 3949 3963	ecocardiograma
+T40	PROCEDIMIENTO 3975 3988	TAC coronario
+T41	PROCEDIMIENTO 4164 4184	cateterismo cardiaco
+T42	PROCEDIMIENTO 4217 4230	TAC coronario
+T43	PROCEDIMIENTO 4249 4303	reimplantación de arteria coronaria izquierda en aorta
+T44	PROCEDIMIENTO 4548 4602	Reimplantación de arteria coronaria izquierda en aorta
+T45	PROCEDIMIENTO 4641 4661	ventilación mecánica
+T46	PROCEDIMIENTO 1403 1406	ACP
+T47	PROCEDIMIENTO 3904 3917	Función renal
+T48	PROCEDIMIENTO 3593 3608	Recalentamiento
+T49	PROCEDIMIENTO 2630 2640	hipotermia
+T50	PROCEDIMIENTO 3082 3092	hipotermia
+T51	PROCEDIMIENTO 2581 2595	monitorización
+T52	PROCEDIMIENTO 447 461	se conecta DAI
+T53	PROCEDIMIENTO 718 724	sedado
+T54	PROCEDIMIENTO 1319 1325	Sedado
+T55	PROCEDIMIENTO 2912 2941	retirada lenta de FiO2 y PEEP
+T56	PROCEDIMIENTO 2982 3012	perfusión continua de dopamina
+T57	PROCEDIMIENTO 3553 3571	oximetría cerebral
+T58	SINTOMA 219 229	odinofagia
+T59	SINTOMA 234 240	fiebre
+T60	SINTOMA 315 335	ruidos respiratorios
+T61	SINTOMA 350 371	pérdida de conciencia
+T62	SINTOMA 1361 1376	Palidez cutánea
+T63	SINTOMA 1381 1387	edemas
+T64	SINTOMA 1392 1401	petequias
+T65	SINTOMA 1408 1439	Buena entrada de aire bilateral
+T66	SINTOMA 1441 1465	Tonos cardiacos rítmicos
+T67	SINTOMA 1467 1495	Abdomen: Blando y depresible
+T68	SINTOMA 1500 1505	masas
+T69	SINTOMA 1509 1517	megalias
+T70	SINTOMA 1584 1606	descenso marcado de ST
+T71	SINTOMA 3059 3070	bradicardia
+T72	SINTOMA 3904 3924	Función renal normal
+T73	SINTOMA 1946 1974	Aorta y A. pulmonar normales
+T74	SINTOMA 4504 4544	Función ventricular izquierda conservada
+T75	SINTOMA 1804 1822	SIA y SIV íntegros
+T76	SINTOMA 1918 1944	Válvulas normofuncionantes
+T77	SINTOMA 1882 1905	buena función sistólica
+T78	SINTOMA 2855 2877	condensación neumónica
+T79	SINTOMA 2342 2410	pase de contraste desde la coronaria izquierda a la arteria pulmonar
+T80	SINTOMA 3809 3826	diuresis adecuada
+T81	SINTOMA 1063 1068	soplo
+T82	SINTOMA 1551 1581	Crecimiento de cavidades izdas
+T83	SINTOMA 1784 1802	concordancia AV-VA
+T84	SINTOMA 2036 2089	No se observa coronaria izquierda en su origen normal
+T85	SINTOMA 2091 2142	Flujo a arteria pulmonar fundamentalmente sistólico
+T86	SINTOMA 2488 2538	circulación colateral hacia la coronaria izquierda
+T87	SINTOMA 3097 3116	alargamiento de QTc
+T88	SINTOMA 3553 3591	oximetría cerebral estable y simétrica
+T89	SINTOMA 3699 3730	movilidad espontánea coordinada
+T90	FARMACO 3004 3012	dopamina
+T91	FARMACO 3306 3315	midazolam
+T92	FARMACO 3318 3327	fentanilo
+T93	FARMACO 3868 3878	furosemida

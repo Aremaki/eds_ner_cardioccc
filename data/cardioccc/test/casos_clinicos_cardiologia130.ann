@@ -1,0 +1,146 @@
+T1	ENFERMEDAD 298 301	HTA
+T2	ENFERMEDAD 381 407	Síndrome ansioso-depresivo
+T3	ENFERMEDAD 409 430	Episodios de ansiedad
+T4	ENFERMEDAD 821 836	parada cardiaca
+T5	ENFERMEDAD 1068 1079	cardiopatía
+T6	ENFERMEDAD 1673 1696	fibrilación ventricular
+T7	ENFERMEDAD 1793 1814	fibrilación auricular
+T8	ENFERMEDAD 2818 2831	valvulopatías
+T9	ENFERMEDAD 2884 2908	Insuficiencia tricúspide
+T10	ENFERMEDAD 3134 3208	lesiones ocupantes de espacio en parénquima cerebeloso ni troncoencefálico
+T11	ENFERMEDAD 4179 4193	isquemia aguda
+T12	ENFERMEDAD 4304 4323	lesiones cerebrales
+T13	ENFERMEDAD 4344 4359	parada cardiaca
+T14	ENFERMEDAD 4651 4670	Torsades de pointes
+T15	ENFERMEDAD 4689 4712	fibrilación ventricular
+T16	ENFERMEDAD 4800 4820	arritmia ventricular
+T17	ENFERMEDAD 4854 4901	lesión subepicárdica infero-posterior y lateral
+T18	ENFERMEDAD 5285 5299	miocardiopatía
+T19	ENFERMEDAD 5358 5377	isquemia miocárdica
+T20	ENFERMEDAD 5380 5403	arritmias ventriculares
+T21	ENFERMEDAD 5447 5466	lesiones coronarias
+T22	ENFERMEDAD 5549 5574	hemorragia digestiva alta
+T23	ENFERMEDAD 5718 5741	arritmias ventriculares
+T24	ENFERMEDAD 6084 6099	parada cardiaca
+T25	ENFERMEDAD 6439 6462	arritmias ventriculares
+T26	ENFERMEDAD 6520 6541	Vasoespasmo coronario
+T27	ENFERMEDAD 6544 6567	Fibrilación ventricular
+T28	ENFERMEDAD 6570 6595	parada cardiaca reanimada
+T29	ENFERMEDAD 339 354	Dislipemia leve
+T30	ENFERMEDAD 240 248	Fumadora
+T31	ENFERMEDAD 220 228	alergias
+T32	ENFERMEDAD 954 961	síncope
+T33	ENFERMEDAD 6409 6416	síncope
+T34	ENFERMEDAD 6130 6149	episodios arrítmico
+T35	ENFERMEDAD 273 280	alcohol
+T36	ENFERMEDAD 3109 3130	colecciones hemáticas
+T37	ENFERMEDAD 290 296	drogas
+T38	ENFERMEDAD 5143 5152	estenosis
+T39	ENFERMEDAD 5576 5583	melenas
+T40	PROCEDIMIENTO 172 190	exploración física
+T41	PROCEDIMIENTO 1501 1548	maniobras de reanimación cardiopulmonar básicas
+T42	PROCEDIMIENTO 1880 1889	Se intubó
+T43	PROCEDIMIENTO 2058 2076	Exploración física
+T44	PROCEDIMIENTO 2129 2150	Auscultación Cardiaca
+T45	PROCEDIMIENTO 2182 2203	Auscultación pulmonar
+T46	PROCEDIMIENTO 2205 2213	intubada
+T47	PROCEDIMIENTO 2408 2411	ECG
+T48	PROCEDIMIENTO 2604 2618	Ecocardiograma
+T49	PROCEDIMIENTO 3008 3019	Rx de tórax
+T50	PROCEDIMIENTO 3081 3092	TAC craneal
+T51	PROCEDIMIENTO 3623 3638	benzodiacepinas
+T52	PROCEDIMIENTO 3673 3684	TAC craneal
+T53	PROCEDIMIENTO 3714 3743	ventilación mecánica invasiva
+T54	PROCEDIMIENTO 3746 3785	se colocó vía central subclavia derecha
+T55	PROCEDIMIENTO 3941 3954	sedoanalgesia
+T56	PROCEDIMIENTO 4027 4042	ecocardiografía
+T57	PROCEDIMIENTO 4148 4151	ECG
+T58	PROCEDIMIENTO 4284 4294	TC craneal
+T59	PROCEDIMIENTO 4423 4446	perfusión de amiodarona
+T60	PROCEDIMIENTO 4543 4546	ECG
+T61	PROCEDIMIENTO 4737 4759	perfusión de lidocaína
+T62	PROCEDIMIENTO 4784 4787	ECG
+T63	PROCEDIMIENTO 4996 5011	coronariografía
+T64	PROCEDIMIENTO 5250 5271	estudio con cardio RM
+T65	PROCEDIMIENTO 5477 5491	antiagregación
+T66	PROCEDIMIENTO 5706 5709	ECG
+T67	PROCEDIMIENTO 5824 5832	extubada
+T68	PROCEDIMIENTO 6175 6200	tratamiento vasodilatador
+T69	PROCEDIMIENTO 6233 6258	implante de DAI bicameral
+T70	PROCEDIMIENTO 3311 3321	Bioquímica
+T71	PROCEDIMIENTO 3468 3477	Hemograma
+T72	PROCEDIMIENTO 3570 3580	Hemostasia
+T73	PROCEDIMIENTO 3591 3607	Tóxicos en orina
+T74	PROCEDIMIENTO 3987 3997	hipotermia
+T75	PROCEDIMIENTO 5678 5692	monitorización
+T76	PROCEDIMIENTO 358 379	tratamiento dietético
+T77	PROCEDIMIENTO 1631 1641	monitorizó
+T78	PROCEDIMIENTO 1898 1913	sedo-relajación
+T79	PROCEDIMIENTO 3889 3917	sedorrelajación administrada
+T80	PROCEDIMIENTO 3300 3309	Analítica
+T81	PROCEDIMIENTO 4364 4373	analítica
+T82	PROCEDIMIENTO 5417 5435	calcioantagonistas
+T83	PROCEDIMIENTO 1345 1359	palparon pulso
+T84	PROCEDIMIENTO 2275 2284	se palpan
+T85	SINTOMA 77 82	mareo
+T86	SINTOMA 85 101	malestar general
+T87	SINTOMA 114 135	pérdida de conciencia
+T88	SINTOMA 466 483	dolores torácicos
+T89	SINTOMA 485 498	palpitaciones
+T90	SINTOMA 500 510	sudoración
+T91	SINTOMA 513 520	palidez
+T92	SINTOMA 896 916	dolor centrotorácico
+T93	SINTOMA 933 949	cortejo vegativo
+T94	SINTOMA 965 978	palpitaciones
+T95	SINTOMA 1241 1246	mareo
+T96	SINTOMA 1249 1265	malestar general
+T97	SINTOMA 1278 1299	pérdida de conciencia
+T98	SINTOMA 1847 1859	QRS estrecho
+T99	SINTOMA 2165 2171	soplos
+T100	SINTOMA 2175 2180	roces
+T101	SINTOMA 2220 2240	ruidos sobreañadidos
+T102	SINTOMA 2242 2270	Abdomen: blando y depresible
+T103	SINTOMA 2285 2290	masas
+T104	SINTOMA 2294 2302	megalias
+T105	SINTOMA 2304 2334	Miembros inferiores: No edemas
+T106	SINTOMA 2336 2379	Pulsos periféricos conservados y simétricos
+T107	SINTOMA 2413 2426	Ritmo sinusal
+T108	SINTOMA 2450 2519	alteraciones en la conducción aurículoventricular ni intraventricular
+T109	SINTOMA 2566 2599	alteraciones de la repolarización
+T110	SINTOMA 2848 2882	VD de tamaño y función conservados
+T111	SINTOMA 2971 3004	aumento de presión venosa central
+T112	SINTOMA 3021 3048	Patrón intersticial bibasal
+T113	SINTOMA 3050 3069	Engrosamiento hilio
+T114	SINTOMA 3823 3842	pupilas midriáticas
+T115	SINTOMA 4226 4245	alargamiento del QT
+T116	SINTOMA 4384 4411	alteraciones electrolíticas
+T117	SINTOMA 4548 4567	alargamiento del QT
+T118	SINTOMA 4903 4955	elevación del segmento ST >4mm II, III, aVF, V5 y V6
+T119	SINTOMA 5766 5791	hemodinámicamente estable
+T120	SINTOMA 5915 5924	orientada
+T121	SINTOMA 5938 5956	focalidad residual
+T122	SINTOMA 5998 6017	amnesia anterógrada
+T123	SINTOMA 6023 6078	dificultad para retener los acontecimientos posteriores
+T124	SINTOMA 6391 6405	dolor torácico
+T125	SINTOMA 2129 2159	Auscultación Cardiaca: Rítmica
+T126	SINTOMA 4056 4102	alteraciones segmentarias de la contractilidad
+T127	SINTOMA 4608 4627	QT corregido normal
+T128	SINTOMA 3257 3296	Estructuras de la línea media centradas
+T129	SINTOMA 4208 4221	preexcitación
+T130	SINTOMA 5321 5342	vasoespasmo mantenido
+T131	SINTOMA 4115 4140	ventrículo derecho normal
+T132	SINTOMA 3210 3255	Sistema ventricular y surcos sin alteraciones
+T133	SINTOMA 1372 1400	frecuencia cardiaca muy alta
+T134	SINTOMA 1422 1442	dejar de notar pulso
+T135	FARMACO 681 691	paroxetina
+T136	FARMACO 1103 1113	paroxetina
+T137	FARMACO 1927 1936	midazolam
+T138	FARMACO 1948 1958	norcuronio
+T139	FARMACO 3959 3967	propofol
+T140	FARMACO 3970 3983	remifentanilo
+T141	FARMACO 4436 4446	amiodarona
+T142	FARMACO 4750 4759	lidocaína
+T143	FARMACO 5112 5126	nitroglicerina
+T144	FARMACO 5506 5517	clopidogrel
+T145	FARMACO 5520 5525	adiro
+T146	FARMACO 5625 5636	clopidogrel

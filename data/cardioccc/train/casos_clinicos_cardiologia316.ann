@@ -1,0 +1,141 @@
+T1	DISEASE 189 216	miocardiopatía hipertrófica
+T2	DISEASE 219 252	síndrome de Wolff-Parkinson-White
+T3	DISEASE 302 309	síncope
+T4	DISEASE 489 525	hipertrofia del ventrículo izquierdo
+T5	DISEASE 637 678	hipertrofia concéntrica ventricular grave
+T6	DISEASE 847 885	fibrilación auricular (FA) preexcitada
+T7	DISEASE 870 872	FA
+T8	DISEASE 1335 1372	trombosis aguda en la arteria femoral
+T9	DISEASE 1397 1406	embolismo
+T10	DISEASE 1582 1613	hipertrofia biventricular grave
+T11	DISEASE 1825 1851	taquicardias ventriculares
+T12	DISEASE 1855 1880	extrasistolia ventricular
+T13	DISEASE 1913 1915	FA
+T14	DISEASE 2073 2088	miocardiopatías
+T15	DISEASE 2097 2120	cardiopatías familiares
+T16	DISEASE 2409 2434	trombosis venosa profunda
+T17	DISEASE 2482 2528	síndromes cardio-cutáneos como Fabry o Leopard
+T18	DISEASE 2560 2579	bradicardia sinusal
+T19	DISEASE 3063 3090	obliteración mediocavitaria
+T20	DISEASE 3165 3207	Disfunción moderada del ventrículo derecho
+T21	DISEASE 3254 3285	hipertrofia grave biventricular
+T22	DISEASE 3519 3544	Extrasistolia ventricular
+T23	DISEASE 3563 3586	Extrasistolia auricular
+T24	DISEASE 3610 3633	arritmias ventriculares
+T25	DISEASE 3636 3638	FA
+T26	DISEASE 4148 4157	arritmias
+T27	DISEASE 4403 4444	Insuficiencia mitral (IM) ligera-moderada
+T28	DISEASE 4522 4561	insuficiencia tricuspídea (IT) moderada
+T29	DISEASE 4549 4551	IT
+T30	DISEASE 4826 4848	dilatación biauricular
+T31	DISEASE 5231 5274	hipertrofia biventricular concéntrica grave
+T32	DISEASE 5346 5348	FA
+T33	DISEASE 5438 5517	miocardiopatía hipertrófica por variantes patogénicas en los genes sarcoméricos
+T34	DISEASE 5704 5730	bradicardia sinusal severa
+T35	DISEASE 5837 5868	hipertrofia grave biventricular
+T36	DISEASE 5870 5890	disfunción sistólica
+T37	DISEASE 6003 6017	FA preexcitada
+T38	DISEASE 6020 6040	síncope cardiogénico
+T39	DISEASE 6462 6493	Hipertrofia biventricular grave
+T40	DISEASE 6526 6560	Fibrosis miocárdica extensa en RMC
+T41	DISEASE 6562 6637	Síndrome de Wolff-Parkinson-White por vía accesoria izquierda posteromedial
+T42	DISEASE 6651 6665	FA preexcitada
+T43	DISEASE 6667 6687	Síncope cardiogénico
+T44	DISEASE 6713 6727	FA preexcitada
+T45	DISEASE 6731 6733	TV
+T46	DISEASE 6807 6843	Embolismo en arteria femoral derecha
+T47	DISEASE 2851 2866	FA preexcitada:
+T48	DISEASE 4446 4468	dilatación biauricular
+T49	DISEASE 2450 2467	lesiones cutáneas
+T50	DISEASE 4223 4282	ventrículo izquierdo (VI) dilatado, hipertrofia concéntrica
+T51	DISEASE 4470 4492	VD gravemente dilatado
+T52	DISEASE 5892 5903	AI dilatada
+T53	DISEASE 6883 6885	FA
+T54	DISEASE 3121 3153	Aurícula izquierda (AI) dilatada
+T55	DISEASE 3028 3051	hipertrofia concéntrica
+T56	DISEASE 4795 4812	hipertrofia grave
+T57	DISEASE 5382 5395	preexcitación
+T58	DISEASE 370 383	muerte súbita
+T59	DISEASE 5822 5835	muerte súbita
+T60	DISEASE 970 1009	vía accesoria posteroseptal/medioseptal
+T61	DISEASE 1423 1438	paroxismo de FA
+T62	DISEASE 2643 2666	vía accesoria izquierda
+T63	DISEASE 4470 4520	VD gravemente dilatado con pobre función sistólica
+T64	DISEASE 5735 5759	BAV completo paroxístico
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 429 447	electrocardiograma
+T67	PROCEDURE 449 452	ECG
+T68	PROCEDURE 685 699	ecocardiograma
+T69	PROCEDURE 922 948	estudio electrofisiológico
+T70	PROCEDURE 1067 1098	ablacionada por radiofrecuencia
+T71	PROCEDURE 1535 1564	resonancia magnética cardiaca
+T72	PROCEDURE 1566 1569	RMC
+T73	PROCEDURE 1763 1781	Holter de 24 horas
+T74	PROCEDURE 2232 2244	auscultación
+T75	PROCEDURE 2555 2558	ECG
+T76	PROCEDURE 2844 2847	ECG
+T77	PROCEDURE 2992 3020	ecocardiograma transtorácico
+T78	PROCEDURE 3022 3025	ETT
+T79	PROCEDURE 3214 3217	RMC
+T80	PROCEDURE 3445 3463	Holter de 24 horas
+T81	PROCEDURE 3684 3710	estudio electrofisiológico
+T82	PROCEDURE 3712 3715	EEF
+T83	PROCEDURE 3791 3819	ablación por radiofrecuencia
+T84	PROCEDURE 3967 3977	Ergometría
+T85	PROCEDURE 4218 4221	ETT
+T86	PROCEDURE 4698 4701	ECG
+T87	PROCEDURE 4760 4774	ecocardiograma
+T88	PROCEDURE 4981 4991	ergometría
+T89	PROCEDURE 5560 5576	estudio genético
+T90	PROCEDURE 6056 6107	implante de un desfibrilador automático implantable
+T91	PROCEDURE 6340 6355	betabloqueantes
+T92	PROCEDURE 6557 6560	RMC
+T93	PROCEDURE 1319 1327	angio-TC
+T94	PROCEDURE 6319 6337	antialdosterónicos
+T95	PROCEDURE 6109 6112	DAI
+T96	SYMPTOM 535 601	ondas T negativas en las derivaciones precordiales y preexcitación
+T97	SYMPTOM 765 806	disfunción sistólica ligera biventricular
+T98	SYMPTOM 1253 1284	dolor agudo en miembro inferior
+T99	SYMPTOM 1659 1685	FEVI ligeramente deprimida
+T100	SYMPTOM 1954 1967	palpitaciones
+T101	SYMPTOM 2180 2182	RS
+T102	SYMPTOM 2197 2225	ingurgitación venosa yugular
+T103	SYMPTOM 2250 2279	tonos cardiacos eran rítmicos
+T104	SYMPTOM 2284 2290	soplos
+T105	SYMPTOM 2296 2325	murmullo vesicular conservado
+T106	SYMPTOM 2354 2395	miembros inferiores no presentaban edemas
+T107	SYMPTOM 2604 2629	onda delta positiva en V1
+T108	SYMPTOM 2695 2725	Voltajes elevados de la onda R
+T109	SYMPTOM 2769 2842	T negativas profundas de V1 a V6, en I y aVL y aplanadas en cara inferior
+T110	SYMPTOM 3092 3119	Disfunción diastólica grave
+T111	SYMPTOM 3465 3478	ritmo sinusal
+T112	SYMPTOM 3563 3596	Extrasistolia auricular frecuente
+T113	SYMPTOM 4159 4192	alteraciones de la repolarización
+T114	SYMPTOM 4195 4209	dolor torácico
+T115	SYMPTOM 4350 4376	disfunción sistólica grave
+T116	SYMPTOM 4850 4890	disfunción sistólica biventricular grave
+T117	SYMPTOM 5089 5115	respuesta tensional normal
+T118	SYMPTOM 5121 5135	dolor torácico
+T119	SYMPTOM 5139 5172	alteraciones de la repolarización
+T120	SYMPTOM 5663 5670	astenia
+T121	SYMPTOM 5673 5689	malestar general
+T122	SYMPTOM 741 762	disfunción diastólica
+T123	SYMPTOM 4893 4914	disfunción diastólica
+T124	SYMPTOM 6139 6172	disfunción diastólica y sistólica
+T125	SYMPTOM 6735 6769	Disfunción sistólica biventricular
+T126	SYMPTOM 6772 6793	disfunción diastólica
+T127	SYMPTOM 5298 5331	disfunción sistólica y diastólica
+T128	SYMPTOM 4929 4964	aumento de las presiones de llenado
+T129	SYMPTOM 6495 6524	Variante patogénica en PRKAG2
+T130	SYMPTOM 3496 3517	pausas significativas
+T131	SYMPTOM 5603 5632	variante patogénica en PRKAG2
+T132	SYMPTOM 2680 2693	Eje izquierdo
+T133	SYMPTOM 2882 2891	QRS ancho
+T134	SYMPTOM 2867 2878	taquicardia
+T135	SYMPTOM 3338 3408	realce tardío con gadolinio que muestran la captación extensa y difusa
+T136	SYMPTOM 4303 4348	septo con hipertrabeculación apical y lateral
+T137	MEDICATION 1477 1486	warfarina
+T138	MEDICATION 6312 6316	IECA
+T139	MEDICATION 6255 6310	inhibidor de la enzima de conversión de la angiotensina
+#1	AnnotatorNotes T7	  Fibrilación auricular
+#2	AnnotatorNotes T45	  trombosis venosa

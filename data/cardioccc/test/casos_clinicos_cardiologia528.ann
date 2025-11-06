@@ -1,0 +1,102 @@
+T1	ENFERMEDAD 2851 2900	defecto del septo interventricular a nivel apical
+T2	ENFERMEDAD 98 108	hipertensa
+T3	ENFERMEDAD 111 120	diabética
+T4	ENFERMEDAD 391 409	angor de esfuerzos
+T5	ENFERMEDAD 784 815	estenosis del 95 % en ADA media
+T6	ENFERMEDAD 2916 2919	CIV
+T7	ENFERMEDAD 3337 3356	derrame pericárdico
+T8	ENFERMEDAD 3502 3505	CIV
+T9	ENFERMEDAD 3548 3551	CIV
+T10	ENFERMEDAD 4185 4209	síndrome coronario agudo
+T11	ENFERMEDAD 4427 4430	IAM
+T12	ENFERMEDAD 4615 4636	hipertensión pulmonar
+T13	ENFERMEDAD 4661 4690	comunicación interventricular
+T14	ENFERMEDAD 4692 4695	CIV
+T15	ENFERMEDAD 5333 5348	CIV septoapical
+T16	ENFERMEDAD 5499 5520	hipertensión pulmonar
+T17	ENFERMEDAD 5583 5586	CIV
+T18	ENFERMEDAD 6076 6079	IAM
+T19	ENFERMEDAD 6094 6110	IAMCEST anterior
+T20	ENFERMEDAD 6234 6249	CIV septoapical
+T21	ENFERMEDAD 6289 6292	IAM
+T22	ENFERMEDAD 2349 2388	aurícula izquierda ligeramente dilatada
+T23	ENFERMEDAD 2401 2454	Válvula mitral con calcificación del anillo posterior
+T24	ENFERMEDAD 2495 2515	Regurgitación mitral
+T25	ENFERMEDAD 2532 2555	VI ligeramente dilatado
+T26	ENFERMEDAD 3072 3142	Válvula aórtica fibrocalcificada con adecuada apertura e insuficiencia
+T27	ENFERMEDAD 3808 3811	CIV
+T28	ENFERMEDAD 5807 5810	CIV
+T29	ENFERMEDAD 3229 3231	IT
+T30	ENFERMEDAD 1872 1951	arteria descendente anterior normodesarrollada de buen calibre, presenta lesión
+T31	ENFERMEDAD 4444 4503	solución de continuidad en el septo interventricular apical
+T32	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T33	PROCEDIMIENTO 519 528	anamnesis
+T34	PROCEDIMIENTO 550 568	electrocardiograma
+T35	PROCEDIMIENTO 731 743	angioplastia
+T36	PROCEDIMIENTO 760 771	cateterismo
+T37	PROCEDIMIENTO 821 836	coronariografía
+T38	PROCEDIMIENTO 806 924	ADA media (ver coronariografía) que se revasculariza mediante tromboaspiración e implante de dos stents farmacoactivos
+T39	PROCEDIMIENTO 1274 1277	ECG
+T40	PROCEDIMIENTO 1724 1735	Coagulación
+T41	PROCEDIMIENTO 1744 1780	Perfil hepático, lipídico y tiroideo
+T42	PROCEDIMIENTO 1855 1870	Coronariografía
+T43	PROCEDIMIENTO 2085 2111	ICP urgente sobre DA media
+T44	PROCEDIMIENTO 2103 2240	DA media: tromboaspiración con catéter, implantándose stent liberador de zotarolimus (2,25 x 18 mm) y otro stent liberador no consecutivo
+T45	PROCEDIMIENTO 2288 2316	nitroprusiato intracoronario
+T46	PROCEDIMIENTO 2318 2347	Ecocardiografía transtorácica
+T47	PROCEDIMIENTO 3357 3387	Ecocardiografía transesofágica
+T48	PROCEDIMIENTO 4024 4053	ecocardiografía a pie de cama
+T49	PROCEDIMIENTO 4129 4143	monitorización
+T50	PROCEDIMIENTO 4349 4377	ecocardiograma transtorácico
+T51	PROCEDIMIENTO 4562 4577	ecocardiografía
+T52	PROCEDIMIENTO 4820 4840	doble antiagregación
+T53	PROCEDIMIENTO 5284 5313	ecocardiografía transtorácica
+T54	PROCEDIMIENTO 5674 5704	ecocardiografía transesofágica
+T55	PROCEDIMIENTO 5719 5763	reconstrucción por ETE 3D del defecto septal
+T56	PROCEDIMIENTO 6122 6232	angioplastia primaria con revascularización de lesión culpable en ADA media mediante dos stents farmacoactivos
+T57	PROCEDIMIENTO 1087 1090	ACP
+T58	PROCEDIMIENTO 1494 1503	Analítica
+T59	PROCEDIMIENTO 6029 6052	intervención quirúrgica
+T60	PROCEDIMIENTO 5166 5198	perfusión continua de furosemida
+T61	PROCEDIMIENTO 5209 5234	perfusión de levosimendán
+T62	PROCEDIMIENTO 4904 4911	cirugía
+T63	PROCEDIMIENTO 6006 6013	cirugía
+T64	PROCEDIMIENTO 5971 5988	cierre percutáneo
+T65	SINTOMA 263 277	dolor torácico
+T66	SINTOMA 340 358	cortejo vegetativo
+T67	SINTOMA 470 475	dolor
+T68	SINTOMA 588 621	elevación del ST en cara anterior
+T69	SINTOMA 1019 1043	estabilidad hemodinámica
+T70	SINTOMA 1046 1065	buen estado general
+T71	SINTOMA 1092 1106	tonos rítmicos
+T72	SINTOMA 1111 1117	soplos
+T73	SINTOMA 1119 1148	Murmullo vesicular conservado
+T74	SINTOMA 1173 1203	Miembros inferiores sin edemas
+T75	SINTOMA 1209 1230	semiología congestiva
+T76	SINTOMA 1237 1247	bajo gasto
+T77	SINTOMA 1305 1318	ritmo sinusal
+T78	SINTOMA 1329 1339	Eje normal
+T79	SINTOMA 1341 1350	PR normal
+T80	SINTOMA 1352 1364	QRS estrecho
+T81	SINTOMA 1384 1430	elevación significativa del ST en precordiales
+T82	SINTOMA 1600 1612	Leucocitosis
+T83	SINTOMA 1724 1742	Coagulación normal
+T84	SINTOMA 1744 1797	Perfil hepático, lipídico y tiroideo sin alteraciones
+T85	SINTOMA 3159 3206	VD no dilatado con función sistólica conservada
+T86	SINTOMA 4239 4254	soplo sistólico
+T87	SINTOMA 6356 6371	FEVI conservada
+T88	SINTOMA 1872 1918	arteria descendente anterior normodesarrollada
+T89	SINTOMA 2686 2727	Aquinesia de todos los segmentos apicales
+T90	SINTOMA 3283 3332	VCI no dilatada con adecuado colapso inspiratorio
+T91	SINTOMA 4066 4096	aquinesia en territorio apical
+T92	SINTOMA 4099 4114	FEVI conservada
+T93	SINTOMA 6320 6350	Aquinesia en territorio apical
+T94	SINTOMA 2065 2083	Dominancia derecha
+T95	SINTOMA 4947 4954	estable
+T96	SINTOMA 485 512	sintomatología cardiológica
+T97	SINTOMA 1365 1379	QS desde V1-V4
+T98	SINTOMA 5120 5141	semiología congestiva
+T99	SINTOMA 5353 5381	shunt de izquierda a derecha
+T100	FARMACO 5188 5198	furosemida
+T101	FARMACO 5222 5234	levosimendán
+T102	FARMACO 2288 2301	nitroprusiato

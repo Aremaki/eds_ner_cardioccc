@@ -1,0 +1,152 @@
+T1	ENFERMEDAD 5357 5395	regurgitación excéntrica periprotésica
+T2	ENFERMEDAD 5556 5588	engrosamiento perianular aórtico
+T3	ENFERMEDAD 133 136	HTA
+T4	ENFERMEDAD 169 179	Dislipemia
+T5	ENFERMEDAD 181 218	Estenosis aórtica severa degenerativa
+T6	ENFERMEDAD 279 296	litiasis ureteral
+T7	ENFERMEDAD 308 320	Poliartrosis
+T8	ENFERMEDAD 449 471	insuficiencia cardiaca
+T9	ENFERMEDAD 512 522	EAo severa
+T10	ENFERMEDAD 713 760	FA paroxística con respuesta ventricular rápida
+T11	ENFERMEDAD 938 944	BCRIHH
+T12	ENFERMEDAD 1110 1128	faringoamigdalitis
+T13	ENFERMEDAD 1471 1502	accidente isquémico transitorio
+T14	ENFERMEDAD 1796 1818	infección respiratoria
+T15	ENFERMEDAD 2227 2242	síndrome febril
+T16	ENFERMEDAD 2359 2365	BCRIHH
+T17	ENFERMEDAD 2419 2451	severa microangiopatía isquémica
+T18	ENFERMEDAD 2453 2524	Secuela de infarto isquémico crónico del territorio de la ACP izquierda
+T19	ENFERMEDAD 2526 2570	Infarto lacunar crónico lenticular izquierdo
+T20	ENFERMEDAD 2945 2951	BCRIHH
+T21	ENFERMEDAD 3377 3387	HAP severa
+T22	ENFERMEDAD 4202 4231	BAV completo con FC de escape
+T23	ENFERMEDAD 4373 4396	endocarditis infecciosa
+T24	ENFERMEDAD 4899 4922	endocarditis infecciosa
+T25	ENFERMEDAD 5243 5289	Calcificación extensa severa del anillo mitral
+T26	ENFERMEDAD 5679 5744	absceso-pseudoaneurisma perianular, con microperforación hacia AD
+T27	ENFERMEDAD 6105 6117	BAV completo
+T28	ENFERMEDAD 6129 6148	BAV de primer grado
+T29	ENFERMEDAD 6548 6582	infección local del MP transitorio
+T30	ENFERMEDAD 6630 6649	neumonía nosocomial
+T31	ENFERMEDAD 6652 6663	bicitopenia
+T32	ENFERMEDAD 7001 7107	ictus isquémico embólico (embolia séptica como primera posibilidad) de la arteria cerebral media izquierda
+T33	ENFERMEDAD 7027 7042	embolia séptica
+T34	ENFERMEDAD 7321 7354	Endocarditis infecciosa protésica
+T35	ENFERMEDAD 7483 7564	Absceso/pseudoaneurisma perianular con microperforación hacia la aurícula derecha
+T36	ENFERMEDAD 7580 7616	bloqueo auriculoventricular completo
+T37	ENFERMEDAD 7714 7785	ictus isquémico embólico (embolia séptica) de la arteria cerebral media
+T38	ENFERMEDAD 7740 7755	embolia séptica
+T39	ENFERMEDAD 7884 7903	neumonía nosocomial
+T40	ENFERMEDAD 7930 7972	Infección local del marcapasos transitorio
+T41	ENFERMEDAD 8023 8072	endocarditis asociada sobre electrodo ventricular
+T42	ENFERMEDAD 138 142	DM-2
+T43	ENFERMEDAD 2572 2607	Moderada atrofia corticosubcortical
+T44	ENFERMEDAD 3364 3375	IT moderada
+T45	ENFERMEDAD 3560 3595	FA con respuesta ventricular rápida
+T46	ENFERMEDAD 5168 5186	Hipertrofia septal
+T47	ENFERMEDAD 5746 5748	IT
+T48	ENFERMEDAD 5924 5970	vegetación filiforme en velo coronario derecho
+T49	ENFERMEDAD 5972 5999	Regurgitación periprotésica
+T50	ENFERMEDAD 5457 5467	vegetación
+T51	PROCEDIMIENTO 7141 7175	limitación de esfuerzo terapéutico
+T52	PROCEDIMIENTO 533 631	sustitución valvular aórtica mediante implante de prótesis percutánea (TAVI), por vía transfemoral
+T53	PROCEDIMIENTO 1340 1365	TAC craneal sin contraste
+T54	PROCEDIMIENTO 1711 1731	radiografía de tórax
+T55	PROCEDIMIENTO 2041 2061	radiografía de tórax
+T56	PROCEDIMIENTO 2101 2112	hemocultivo
+T57	PROCEDIMIENTO 2269 2272	ECG
+T58	PROCEDIMIENTO 2289 2293	TAVI
+T59	PROCEDIMIENTO 2381 2391	TAC cráneo
+T60	PROCEDIMIENTO 2609 2638	Radiografía de tórax portátil
+T61	PROCEDIMIENTO 2742 2753	Hemocultivo
+T62	PROCEDIMIENTO 2853 2865	auscultación
+T63	PROCEDIMIENTO 2924 2927	ECG
+T64	PROCEDIMIENTO 3018 3042	cultivo y Gram de esputo
+T65	PROCEDIMIENTO 3045 3048	ETT
+T66	PROCEDIMIENTO 3079 3095	implante de TAVI
+T67	PROCEDIMIENTO 3230 3233	ETT
+T68	PROCEDIMIENTO 3529 3532	ECG
+T69	PROCEDIMIENTO 3823 3844	hemocultivos seriados
+T70	PROCEDIMIENTO 3861 3884	tratamiento antibiótico
+T71	PROCEDIMIENTO 4059 4081	oxigenoterapia con VMK
+T72	PROCEDIMIENTO 4157 4160	ECG
+T73	PROCEDIMIENTO 4419 4453	implante de marcapasos transitorio
+T74	PROCEDIMIENTO 4509 4550	implante por vía venosa subclavia derecha
+T75	PROCEDIMIENTO 4697 4720	tratamiento antibiótico
+T76	PROCEDIMIENTO 4860 4863	ETT
+T77	PROCEDIMIENTO 4866 4869	ETE
+T78	PROCEDIMIENTO 4967 4988	hemocultivos seriados
+T79	PROCEDIMIENTO 5107 5110	ETT
+T80	PROCEDIMIENTO 5113 5116	ETE
+T81	PROCEDIMIENTO 5801 5804	ETE
+T82	PROCEDIMIENTO 6178 6201	tratamiento antibiótico
+T83	PROCEDIMIENTO 6392 6404	hemocultivos
+T84	PROCEDIMIENTO 6415 6440	implante de MP definitivo
+T85	PROCEDIMIENTO 6826 6851	implante de MP definitivo
+T86	PROCEDIMIENTO 6964 6974	TAC cráneo
+T87	PROCEDIMIENTO 7380 7436	prótesis aórtica biológica implantada por vía percutánea
+T88	PROCEDIMIENTO 7642 7689	estimulación urgente con marcapasos transitorio
+T89	PROCEDIMIENTO 147 166	tratamiento con ADO
+T90	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T91	PROCEDIMIENTO 814 841	Retirada del MP transitorio
+T92	PROCEDIMIENTO 1666 1693	se le extrae un hemocultivo
+T93	PROCEDIMIENTO 7177 7204	retirada del MP transitorio
+T94	PROCEDIMIENTO 5348 5352	TAVI
+T95	PROCEDIMIENTO 5806 5810	TAVI
+T96	PROCEDIMIENTO 7438 7442	TAVI
+T97	PROCEDIMIENTO 3653 3662	analítica
+T98	PROCEDIMIENTO 3762 3781	analíticas seriadas
+T99	PROCEDIMIENTO 6283 6304	intervención valvular
+T100	SINTOMA 1025 1042	dolor de garganta
+T101	SINTOMA 1045 1051	fiebre
+T102	SINTOMA 1262 1268	fiebre
+T103	SINTOMA 1279 1310	desviación de la comisura bucal
+T104	SINTOMA 1313 1322	disartria
+T105	SINTOMA 1579 1585	fiebre
+T106	SINTOMA 1648 1654	fiebre
+T107	SINTOMA 2007 2013	fiebre
+T108	SINTOMA 2929 2942	ritmo sinusal
+T109	SINTOMA 3347 3362	FEVI conservada
+T110	SINTOMA 3476 3484	tiritona
+T111	SINTOMA 3488 3502	fiebre elevada
+T112	SINTOMA 3690 3737	leucocitosis de 21.270 con desviación izquierda
+T113	SINTOMA 4021 4033	desaturación
+T114	SINTOMA 4083 4094	Sibilancias
+T115	SINTOMA 5203 5212	FE normal
+T116	SINTOMA 5879 5903	Anillo protésico pequeño
+T117	SINTOMA 6526 6532	fiebre
+T118	SINTOMA 6584 6627	signos inflamatorios en zona de venopunción
+T119	SINTOMA 6891 6912	desconexión del medio
+T120	SINTOMA 6915 6948	deterioro del nivel de conciencia
+T121	SINTOMA 7271 7277	fiebre
+T122	SINTOMA 7284 7290	exitus
+T123	SINTOMA 7787 7831	deterioro progresivo del nivel de conciencia
+T124	SINTOMA 7834 7840	exitus
+T125	SINTOMA 904 917	ritmo sinusal
+T126	SINTOMA 2324 2337	ritmo sinusal
+T127	SINTOMA 920 929	PR normal
+T128	SINTOMA 3112 3121	analítica
+T129	SINTOMA 2718 2740	condensación neumónica
+T130	SINTOMA 1711 1745	radiografía de tórax sin hallazgos
+T131	SINTOMA 4233 4242	QRS ancho
+T132	SINTOMA 4967 5049	hemocultivos seriados de la planta de Medicina Interna: Staphylococcus epidermidis
+T133	FARMACO 345 359	enalapril/HCTZ
+T134	FARMACO 361 374	vildagliptina
+T135	FARMACO 376 379	AAS
+T136	FARMACO 381 387	hierro
+T137	FARMACO 394 405	pantoprazol
+T138	FARMACO 407 418	tamsulosina
+T139	FARMACO 1154 1164	augmentine
+T140	FARMACO 1849 1862	levofloxacino
+T141	FARMACO 1920 1930	augmentine
+T142	FARMACO 2990 3003	levofloxacino
+T143	FARMACO 3637 3645	digoxina
+T144	FARMACO 3914 3937	piperacilina-tazobactam
+T145	FARMACO 4721 4732	daptomicina
+T146	FARMACO 4765 4773	digoxina
+T147	FARMACO 6206 6217	daptomicina
+T148	FARMACO 6777 6788	daptomicina
+T149	FARMACO 2977 2987	augmentine
+#1	AnnotatorNotes T20	 BCRIHH Bloqueo completo rama izq Haz de Hiz
+#2	AnnotatorNotes T21	 HAP Hipertensión arterial pulmonar
+#3	AnnotatorNotes T47	 IT insuficiencia tricuspídea

@@ -1,0 +1,91 @@
+T1	ENFERMEDAD 1010 1028	esclerosis aórtica
+T2	ENFERMEDAD 1166 1187	Fibrilación auricular
+T3	ENFERMEDAD 1487 1521	hemiparesia de miembros izquierdos
+T4	ENFERMEDAD 1717 1738	fibrilación auricular
+T5	ENFERMEDAD 1877 1898	sangrado intracraneal
+T6	ENFERMEDAD 1918 1947	encefalopatía de pequeño vaso
+T7	ENFERMEDAD 1975 1993	infartos lacunares
+T8	ENFERMEDAD 2011 2042	infarto isquémico extenso agudo
+T9	ENFERMEDAD 2219 2238	derrame pericárdico
+T10	ENFERMEDAD 2665 2681	SCACEST inferior
+T11	ENFERMEDAD 2704 2706	FA
+T12	ENFERMEDAD 2761 2816	hemiparesia izquierda 3/5, afectación del nervio facial
+T13	ENFERMEDAD 2892 2924	ACV isquémico de origen embólico
+T14	ENFERMEDAD 3127 3157	naturaleza isquémica del ictus
+T15	ENFERMEDAD 3171 3194	hemorragia intracraneal
+T16	ENFERMEDAD 3206 3261	anomalías de los troncos supraaórticos (tipo disección)
+T17	ENFERMEDAD 4091 4110	embolismo coronario
+T18	ENFERMEDAD 4205 4228	estenosis angiográficas
+T19	ENFERMEDAD 4243 4269	enfermedad aterosclerótica
+T20	ENFERMEDAD 4346 4357	FA embólica
+T21	ENFERMEDAD 4471 4490	embolismo coronario
+T22	ENFERMEDAD 4506 4532	infarto agudo de miocardio
+T23	ENFERMEDAD 4743 4764	ictus isquémico agudo
+T24	ENFERMEDAD 4807 4833	transformación hemorrágica
+T25	ENFERMEDAD 4848 4869	Fibrilación auricular
+T26	ENFERMEDAD 4888 4974	ACV isquémico de origen embólico, dependiente de la arteria cerebral posterior derecha
+T27	ENFERMEDAD 4976 4983	IAMCEST
+T28	ENFERMEDAD 1949 1972	envejecimiento cerebral
+T29	ENFERMEDAD 2244 2270	dilatación de raíz aórtica
+T30	ENFERMEDAD 4985 5036	Embolismo coronario en territorio de la circunfleja
+T31	ENFERMEDAD 2068 2113	ventrículo izquierdo no dilatado. Hipertrofia
+T32	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T33	PROCEDIMIENTO 929 956	Auscultación cardiopulmonar
+T34	PROCEDIMIENTO 1154 1157	ECG
+T35	PROCEDIMIENTO 1445 1463	exploración física
+T36	PROCEDIMIENTO 1640 1652	TAC cerebral
+T37	PROCEDIMIENTO 1830 1842	TAC cerebral
+T38	PROCEDIMIENTO 2044 2058	Ecocardiograma
+T39	PROCEDIMIENTO 2352 2361	hemograma
+T40	PROCEDIMIENTO 2363 2368	iones
+T41	PROCEDIMIENTO 2370 2383	función renal
+T42	PROCEDIMIENTO 2631 2652	electrocardiográficos
+T43	PROCEDIMIENTO 2710 2723	anticoagulada
+T44	PROCEDIMIENTO 2728 2751	exploración neurológica
+T45	PROCEDIMIENTO 2951 2965	antiagregantes
+T46	PROCEDIMIENTO 3073 3095	TAC craneal y torácico
+T47	PROCEDIMIENTO 3267 3290	trombolisis intravenosa
+T48	PROCEDIMIENTO 3518 3539	trombectomía mecánica
+T49	PROCEDIMIENTO 3599 3619	reperfusión cerebral
+T50	PROCEDIMIENTO 3650 3664	ecocardiograma
+T51	PROCEDIMIENTO 3786 3821	coronariografía urgente vía femoral
+T52	PROCEDIMIENTO 4123 4139	tromboaspiración
+T53	PROCEDIMIENTO 4302 4326	implante de ningún stent
+T54	PROCEDIMIENTO 4361 4374	anticoagulada
+T55	PROCEDIMIENTO 4379 4400	angiografía coronaria
+T56	PROCEDIMIENTO 4596 4608	TAC cerebral
+T57	PROCEDIMIENTO 4873 4886	anticoagulada
+T58	PROCEDIMIENTO 2341 2350	Analítica
+T59	PROCEDIMIENTO 3302 3314	Código Ictus
+T60	PROCEDIMIENTO 2526 2565	perfusión de nitroglicerina intravenosa
+T61	PROCEDIMIENTO 2988 3004	prueba de imagen
+T62	SINTOMA 280 292	asintomático
+T63	SINTOMA 376 411	dolor torácico de carácter opresivo
+T64	SINTOMA 563 596	dificultad en el habla y al andar
+T65	SINTOMA 884 891	Afebril
+T66	SINTOMA 929 967	Auscultación cardiopulmonar: arrítmica
+T67	SINTOMA 972 996	soplo sistólico eyectivo
+T68	SINTOMA 1030 1059	Murmullo vesicular conservado
+T69	SINTOMA 1097 1116	molestias torácicas
+T70	SINTOMA 1398 1439	dificultad para expresar ciertas palabras
+T71	SINTOMA 1749 1759	Eje normal
+T72	SINTOMA 2068 2100	ventrículo izquierdo no dilatado
+T73	SINTOMA 2133 2165	Contractilidad global conservada
+T74	SINTOMA 2352 2392	hemograma, iones, función renal en rango
+T75	SINTOMA 2394 2427	Elevación de marcadores cardiacos
+T76	SINTOMA 2601 2615	dolor torácico
+T77	SINTOMA 2834 2863	Babinski positivo ipsilateral
+T78	SINTOMA 1267 1277	sin onda Q
+T79	SINTOMA 1818 1828	sin onda Q
+T80	SINTOMA 2187 2213	Hipoquinesia inferolateral
+T81	SINTOMA 3695 3729	hipoquinesia en cara inferolateral
+T82	SINTOMA 3880 3988	tronco coronario izquierdo, descendente anterior, circunfleja y coronaria derecha angiográficamente normales
+T83	SINTOMA 4379 4407	angiografía coronaria normal
+T84	SINTOMA 1071 1082	crepitantes
+T85	SINTOMA 1198 1208	Eje normal
+T86	SINTOMA 1279 1321	Buen crecimiento de onda R en precordiales
+T87	SINTOMA 1210 1265	Elevación poco marcada del segmento ST en II, III y avF
+T88	SINTOMA 1761 1816	Elevación poco marcada del segmento ST en II, III y avF
+T89	SINTOMA 4006 4050	stop a nivel de la arteria circunfleja media
+T90	SINTOMA 4640 4723	hipodensidad cortico-subcortical en la vertiente medial del lóbulo temporal derecho
+T91	FARMACO 2539 2553	nitroglicerina

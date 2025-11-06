@@ -1,0 +1,115 @@
+T1	DISEASE 234 255	hipertensión arterial
+T2	DISEASE 257 274	diabetes mellitus
+T3	DISEASE 317 327	dislipemia
+T4	DISEASE 329 361	fibrilación auricular permanente
+T5	DISEASE 449 468	estenosis reumática
+T6	DISEASE 1166 1195	flebitis sobre vía periférica
+T7	DISEASE 1514 1537	endocarditis infecciosa
+T8	DISEASE 2044 2068	disfunción multiorgánica
+T9	DISEASE 2095 2116	taponamiento cardiaco
+T10	DISEASE 2177 2195	fallo hemodinámico
+T11	DISEASE 2210 2216	sepsis
+T12	DISEASE 3026 3051	hemorragia digestiva alta
+T13	DISEASE 3729 3757	vasculitis leucocitoclastica
+T14	DISEASE 3857 3868	anemización
+T15	DISEASE 4109 4131	hematuria macroscópica
+T16	DISEASE 4262 4281	hemorragia pulmonar
+T17	DISEASE 4455 4474	hemorragia alveolar
+T18	DISEASE 4699 4741	síndrome nefrítico con hemorragia pulmonar
+T19	DISEASE 5932 5984	glomerulonefritis aguda relacionada con la infección
+T20	DISEASE 6330 6396	glomerulonefritis  IgA  dominante  relacionada  con  la  infección
+T21	DISEASE 6483 6510	púrpura de Schönlein-Henoch
+T22	DISEASE 6675 6706	glomerulonefritis IgA dominante
+T23	DISEASE 6727 6759	endocarditis infecciosa por SAMS
+T24	DISEASE 6783 6812	púrpura de Schönlein – Henoch
+T25	DISEASE 566 590	patología nefrourológica
+T26	DISEASE 813 857	descompensación  de  insuficiencia  cardiaca
+T27	DISEASE 987 1019	calcificación  valvular  aórtica
+T28	DISEASE 1024 1066	disfunción  severa  del ventrículo derecho
+T29	DISEASE 1721 1812	endocarditis infecciosa  por  S. aureus meticilin sensible (SAMS) sobre  válvula  protésica
+T30	DISEASE 2268 2313	deterioro agudo de función renal oligoanúrico
+T31	DISEASE 3202 3311	petequias  sobreelevadas  no pruriginosas  en  tronco,  extremidades,  zonas  de  pliegue  y  zonas  declives
+T32	DISEASE 3110 3129	erosiones gástricas
+T33	DISEASE 5163 5184	síndrome renopulmonar
+T34	DISEASE 6939 6959	hemorragia  alveolar
+T35	DISEASE 473 501	hipertensión pulmonar severa
+T36	PROCEDURE 294 315	antidiabéticos orales
+T37	PROCEDURE 395 432	sustitución valvular mitral protésica
+T38	PROCEDURE 900 928	ecocardiograma transtorácico
+T39	PROCEDURE 1208 1231	se extraen hemocultivos
+T40	PROCEDURE 1372 1390	cultivos de sangre
+T41	PROCEDURE 1465 1494	ecocardiograma transesofágico
+T42	PROCEDURE 2231 2252	cobertura antibiótica
+T43	PROCEDURE 2809 2823	hemofiltración
+T44	PROCEDURE 3074 3093	estudio endoscópico
+T45	PROCEDURE 3502 3543	anticuerpos anticitoplasma de neutrófilos
+T46	PROCEDURE 3691 3706	biopsia cutánea
+T47	PROCEDURE 3912 3932	radiografía de tórax
+T48	PROCEDURE 4330 4347	fibrobroncoscopia
+T49	PROCEDURE 4757 4777	estudio inmunológico
+T50	PROCEDURE 5118 5133	anticoagulación
+T51	PROCEDURE 5195 5224	tratamiento con plasmaféresis
+T52	PROCEDURE 5338 5359	pauta inmunosupresora
+T53	PROCEDURE 5394 5406	hemocultivos
+T54	PROCEDURE 5515 5529	antibioterapia
+T55	PROCEDURE 5899 5912	biopsia renal
+T56	PROCEDURE 5989 6002	biopsia renal
+T57	PROCEDURE 6134 6174	técnicas de inmunofluoresecencia directa
+T58	PROCEDURE 6540 6581	inmunofluorescencia de la biopsia cutánea
+T59	PROCEDURE 1262 1285	antibioterapia empírica
+T60	PROCEDURE 2400 2435	hemofiltración  venovenosa contínua
+T61	PROCEDURE 2465 2484	estudios  de  orina
+T62	PROCEDURE 1941 1976	reemplazo quirúrgico de la prótesis
+T63	PROCEDURE 2365 2388	depuración  extrarrenal
+T64	PROCEDURE 3554 3596	anticuerpos anti membrana basal glomerular
+T65	PROCEDURE 5739 5809	depuración  extrarrenal  mediante  hemofiltración  venovenosa contínua
+T66	PROCEDURE 362 392	anticoagulada con acenocumarol
+T67	PROCEDURE 4299 4312	anticoagulada
+T68	PROCEDURE 3349 3367	sedimento urinario
+T69	PROCEDURE 1233 1249	se cambia la vía
+T70	PROCEDURE 4217 4236	sedimento  urinario
+T71	SYMPTOM 142 148	disnea
+T72	SYMPTOM 150 158	ortopnea
+T73	SYMPTOM 161 190	edemas en miembros inferiores
+T74	SYMPTOM 671 691	función renal normal
+T75	SYMPTOM 697 708	proteinuria
+T76	SYMPTOM 1138 1149	pico febril
+T77	SYMPTOM 2332 2345	hipoperfusión
+T78	SYMPTOM 2530 2559	disminuida excreción de sodio
+T79	SYMPTOM 2576 2587	proteinuria
+T80	SYMPTOM 3381 3392	proteinuria
+T81	SYMPTOM 3423 3443	función renal normal
+T82	SYMPTOM 3895 3903	sangrado
+T83	SYMPTOM 4027 4053	deterioro de función renal
+T84	SYMPTOM 4072 4080	oliguria
+T85	SYMPTOM 4082 4093	proteinuria
+T86	SYMPTOM 4479 4510	función renal va deteriorándose
+T87	SYMPTOM 4574 4585	oligoanuria
+T88	SYMPTOM 4643 4652	hematuria
+T89	SYMPTOM 4655 4666	proteinuria
+T90	SYMPTOM 4897 4923	factor reumatoide positivo
+T91	SYMPTOM 5678 5715	deterioro progresivo de función renal
+T92	SYMPTOM 7044 7050	éxitus
+T93	SYMPTOM 952 984	prótesis mitral normofuncionante
+T94	SYMPTOM 4381 4439	restos  hemáticos  frescos  en  ambos  árboles bronquiales
+T95	SYMPTOM 1345 1390	crecimiento de SAMS en los cultivos de sangre
+T96	SYMPTOM 3502 3629	anticuerpos anticitoplasma de neutrófilos (ANCAs) y anticuerpos anti membrana basal glomerular (antiMBG) que resultan negativos
+T97	SYMPTOM 4150 4236	hematíes dismórficos y cilindros hemáticos y leucocitarios en  el  sedimento  urinario
+T98	SYMPTOM 4590 4613	sobrecarga  hidrosalina
+T99	SYMPTOM 5394 5448	hemocultivos que resultaron persistentemente negativos
+T100	SYMPTOM 3946 3984	infiltrados intersticiales bilaterales
+T101	SYMPTOM 712 738	alteraciones del sedimento
+T102	SYMPTOM 1557 1607	imagen vegetante anclada a nivel del anillo mitral
+T103	SYMPTOM 2591 2617	alteraciones del sedimento
+T104	SYMPTOM 4792 4821	descenso en los niveles de C3
+T105	SYMPTOM 4867 4894	inmunocomplejos circulantes
+T106	SYMPTOM 4943 4988	ANAs,  antiDNA,  ANCAs  y  antiMBG  negativos
+T107	SYMPTOM 4979 5020	negativos,  así  como  las crioglobulinas
+T108	MEDICATION 380 392	acenocumarol
+T109	MEDICATION 1290 1301	Ceftriaxona
+T110	MEDICATION 1410 1421	Ceftriaxona
+T111	MEDICATION 1426 1437	Cloxacilina
+T112	MEDICATION 1828 1839	Rifampicina
+T113	MEDICATION 3787 3797	Prednisona
+T114	MEDICATION 5226 5240	ciclofosfamida
+T115	MEDICATION 5289 5299	prednisona

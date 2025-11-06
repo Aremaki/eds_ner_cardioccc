@@ -1,0 +1,124 @@
+T1	ENFERMEDAD 110 131	cardiopatía isquémica
+T2	ENFERMEDAD 162 188	infarto agudo de miocardio
+T3	ENFERMEDAD 214 243	cardiopatía isquémica crónica
+T4	ENFERMEDAD 301 322	Hipertensión arterial
+T5	ENFERMEDAD 350 379	Diabetes mellitus (DM) tipo 2
+T6	ENFERMEDAD 369 371	DM
+T7	ENFERMEDAD 472 500	hipercolesterolemia familiar
+T8	ENFERMEDAD 521 575	Cardiopatía isquémica crónica con enfermedad multivaso
+T9	ENFERMEDAD 679 733	síndrome coronario agudo sin elevación del segmento ST
+T10	ENFERMEDAD 749 786	infarto agudo de miocardio (IAM) no Q
+T11	ENFERMEDAD 777 780	IAM
+T12	ENFERMEDAD 839 859	enfermedad multivaso
+T13	ENFERMEDAD 865 950	lesión grave en tronco distal que afecta al origen de la arteria descendente anterior
+T14	ENFERMEDAD 959 1016	lesión grave en tercio medio de arteria coronaria derecha
+T15	ENFERMEDAD 1270 1289	hipercolesterolemia
+T16	ENFERMEDAD 1540 1555	daño miocárdico
+T17	ENFERMEDAD 1645 1671	derrame pericárdico ligero
+T18	ENFERMEDAD 1840 1860	síndrome de Dressler
+T19	ENFERMEDAD 2085 2103	angina de esfuerzo
+T20	ENFERMEDAD 2228 2247	hipercolesterolemia
+T21	ENFERMEDAD 2313 2325	meniscopatía
+T22	ENFERMEDAD 2446 2449	IAM
+T23	ENFERMEDAD 3244 3269	trombosis venosa profunda
+T24	ENFERMEDAD 3271 3274	TVP
+T25	ENFERMEDAD 3532 3546	isquemia aguda
+T26	ENFERMEDAD 3742 3755	valvulopatías
+T27	ENFERMEDAD 3873 3917	trastornos segmentarios de la contractilidad
+T28	ENFERMEDAD 4087 4106	derrame pericárdico
+T29	ENFERMEDAD 5248 5267	hipercolesterolemia
+T30	ENFERMEDAD 5859 5913	Cardiopatía isquémica crónica con enfermedad multivaso
+T31	ENFERMEDAD 6026 6054	hipercolesterolemia familiar
+T32	ENFERMEDAD 6079 6100	Hipertensión arterial
+T33	ENFERMEDAD 6103 6127	diabetes mellitus tipo 2
+T34	ENFERMEDAD 735 742	SCASEST
+T35	ENFERMEDAD 266 289	alergias medicamentosas
+T36	ENFERMEDAD 2556 2562	angina
+T37	ENFERMEDAD 3658 3697	Aurícula izquierda ligeramente dilatada
+T38	PROCEDIMIENTO 399 420	antidiabéticos orales
+T39	PROCEDIMIENTO 807 822	coronariografía
+T40	PROCEDIMIENTO 1035 1133	triple bypass coronario (mamaria interna izquierda a ADA, safena a obtusa marginal y safena a ACD)
+T41	PROCEDIMIENTO 1143 1158	ecocardiografía
+T42	PROCEDIMIENTO 1582 1597	ecocardiografía
+T43	PROCEDIMIENTO 2461 2489	revascularización quirúrgica
+T44	PROCEDIMIENTO 2698 2721	rehabilitación cardiaca
+T45	PROCEDIMIENTO 2944 2958	oxigenoterapia
+T46	PROCEDIMIENTO 3045 3066	Auscultación cardiaca
+T47	PROCEDIMIENTO 3344 3347	ECG
+T48	PROCEDIMIENTO 3560 3575	Ecocardiografía
+T49	PROCEDIMIENTO 4135 4144	Hemograma
+T50	PROCEDIMIENTO 4456 4465	Hemograma
+T51	PROCEDIMIENTO 4224 4234	Bioquímica
+T52	PROCEDIMIENTO 4545 4555	Bioquímica
+T53	PROCEDIMIENTO 2818 2836	EXPLORACIÓN FÍSICA
+T54	PROCEDIMIENTO 4306 4321	Perfil lipídico
+T55	PROCEDIMIENTO 4628 4643	Perfil lipídico
+T56	PROCEDIMIENTO 4876 4915	tratamiento con estatinas a altas dosis
+T57	PROCEDIMIENTO 4251 4256	iones
+T58	PROCEDIMIENTO 4572 4577	iones
+T59	PROCEDIMIENTO 1526 1555	marcadores de daño miocárdico
+T60	PROCEDIMIENTO 5154 5182	medidas higiénico-dietéticas
+T61	PROCEDIMIENTO 4108 4117	Analítica
+T62	PROCEDIMIENTO 4405 4414	Analítica
+T63	PROCEDIMIENTO 1256 1265	analítica
+T64	PROCEDIMIENTO 1890 1899	analítica
+T65	PROCEDIMIENTO 5203 5212	analítica
+T66	PROCEDIMIENTO 5749 5758	analítica
+T67	PROCEDIMIENTO 2208 2218	analíticas
+T68	PROCEDIMIENTO 5587 5604	control analítico
+T69	PROCEDIMIENTO 2285 2311	intervenciones quirúrgicas
+T70	PROCEDIMIENTO 555 605	enfermedad multivaso completamente revascularizada
+T71	PROCEDIMIENTO 5893 5959	enfermedad multivaso completamente revascularizada quirúrgicamente
+T72	PROCEDIMIENTO 4588 4607	perfil hepatobiliar
+T73	SINTOMA 1461 1506	dolor torácico de características pleuríticas
+T74	SINTOMA 1513 1555	elevación de marcadores de daño miocárdico
+T75	SINTOMA 2252 2277	elevación marcada de cLDL
+T76	SINTOMA 2605 2613	ortopnea
+T77	SINTOMA 2629 2656	disnea paroxística nocturna
+T78	SINTOMA 2837 2856	Buen estado general
+T79	SINTOMA 2858 2868	Consciente
+T80	SINTOMA 2870 2879	orientado
+T81	SINTOMA 2910 2928	Eupneico en reposo
+T82	SINTOMA 3022 3043	ingurgitación yugular
+T83	SINTOMA 3068 3075	rítmico
+T84	SINTOMA 3100 3106	soplos
+T85	SINTOMA 3110 3129	extratonos audibles
+T86	SINTOMA 3131 3160	Murmullo vesicular conservado
+T87	SINTOMA 3166 3198	ruidos patológicos sobreañadidos
+T88	SINTOMA 3277 3317	Pulsos distales conservados y simétricos
+T89	SINTOMA 3389 3399	eje normal
+T90	SINTOMA 3401 3410	PR normal
+T91	SINTOMA 3412 3424	QRS estrecho
+T92	SINTOMA 3426 3445	onda Q en III y aVF
+T93	SINTOMA 3483 3516	alteraciones en la repolarización
+T94	SINTOMA 3772 3825	Función sistólica del ventrículo izquierdo preservada
+T95	SINTOMA 4267 4293	perfil hepatobiliar normal
+T96	SINTOMA 4588 4614	perfil hepatobiliar normal
+T97	SINTOMA 4860 4868	mialgias
+T98	SINTOMA 4251 4265	iones normales
+T99	SINTOMA 4572 4586	iones normales
+T100	SINTOMA 3365 3378	ritmo sinusal
+T101	SINTOMA 2881 2908	Bien hidratado y perfundido
+T102	SINTOMA 3200 3230	Miembros inferiores: no edemas
+T103	SINTOMA 4017 4081	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T104	SINTOMA 1207 1253	alteraciones segmentarias de la contractilidad
+T105	SINTOMA 1685 1708	compromiso hemodinámico
+T106	SINTOMA 2566 2584	disnea de esfuerzo
+T107	SINTOMA 148 157	fallecido
+T108	SINTOMA 608 650	función sistólica biventricular preservada
+T109	SINTOMA 1163 1191	función sistólica preservada
+T110	SINTOMA 3548 3558	QTc normal
+T111	SINTOMA 3593 3641	ventrículo izquierdo no dilatado sin hipertrofia
+T112	SINTOMA 3450 3471	T negativa en I y aVL
+T113	SINTOMA 3699 3737	Aorta torácica dentro de la normalidad
+T114	SINTOMA 5410 5485	cifras de colesterol se encuentran en rango muy lejano a las cifras óptimas
+T115	SINTOMA 5962 6015	función sistólica del ventrículo izquierdo preservada
+T116	FARMACO 1376 1389	atorvastatina
+T117	FARMACO 1736 1758	ácido acetilsalicílico
+T118	FARMACO 1760 1763	AAS
+T119	FARMACO 1947 1960	atorvastatina
+T120	FARMACO 1967 1976	ezetimiba
+T121	FARMACO 4443 4453	alirocumab
+T122	FARMACO 5360 5373	atorvastatina
+T123	FARMACO 5380 5389	ezetimiba
+T124	FARMACO 5521 5531	alirocumab

@@ -1,0 +1,147 @@
+T1	DISEASE 1652 1697	ventrículo izquierdo (VI) gravemente dilatado
+T2	DISEASE 2596 2636	ventrículo izquierdo gravemente dilatado
+T3	DISEASE 5533 5578	ventrículo izquierdo está gravemente dilatado
+T4	DISEASE 6304 6344	Válvula mitral con cambios degenerativos
+T5	DISEASE 89 124	reacciones alérgicas a medicamentos
+T6	DISEASE 171 192	hipertensión arterial
+T7	DISEASE 194 202	Obesidad
+T8	DISEASE 253 270	diabetes mellitus
+T9	DISEASE 274 284	dislipemia
+T10	DISEASE 292 307	hábitos tóxicos
+T11	DISEASE 351 371	fractura trimaleolar
+T12	DISEASE 565 611	Enfermedad obstructiva crónica (EPOC) moderada
+T13	DISEASE 597 601	EPOC
+T14	DISEASE 695 733	Síndrome de apneas-hipopneas del sueño
+T15	DISEASE 735 739	SAHS
+T16	DISEASE 833 859	Adenocarcinoma de próstata
+T17	DISEASE 1367 1403	miocardiopatía dilatada no isquémica
+T18	DISEASE 1431 1472	disfunción grave del ventrículo izquierdo
+T19	DISEASE 2046 2059	muerte súbita
+T20	DISEASE 2100 2146	taquicardia ventricular monomorfa no sostenida
+T21	DISEASE 2148 2153	TVMNS
+T22	DISEASE 2234 2277	taquicardia ventricular monomorfa sostenida
+T23	DISEASE 2386 2409	taquicardia ventricular
+T24	DISEASE 2411 2413	TV
+T25	DISEASE 2806 2827	Disfunción diastólica
+T26	DISEASE 3033 3054	insuficiencia aórtica
+T27	DISEASE 3056 3080	Insuficiencia tricúspide
+T28	DISEASE 3281 3300	derrame pericárdico
+T29	DISEASE 3904 3935	insuficiencia cardiaca avanzada
+T30	DISEASE 4037 4106	miocardiopatía dilatada con disfunción grave del ventrículo izquierdo
+T31	DISEASE 4768 4776	obesidad
+T32	DISEASE 5070 5095	trombosis venosa profunda
+T33	DISEASE 5097 5100	TVP
+T34	DISEASE 5178 5197	bradicardia sinusal
+T35	DISEASE 5520 5528	obesidad
+T36	DISEASE 6202 6237	Dilatación auricular izquierda leve
+T37	DISEASE 6361 6397	insuficiencia mitral leve a moderada
+T38	DISEASE 6704 6728	insuficiencia tricúspide
+T39	DISEASE 6766 6787	hipertensión pulmonar
+T40	DISEASE 6789 6792	HTP
+T41	DISEASE 7046 7065	derrame pericárdico
+T42	DISEASE 8368 8388	neoplasia prostática
+T43	DISEASE 8535 8552	diabetes mellitus
+T44	DISEASE 8889 8911	insuficiencia cardiaca
+T45	DISEASE 9820 9829	sobrepeso
+T46	DISEASE 10357 10365	obesidad
+T47	DISEASE 10486 10495	sobrepeso
+T48	DISEASE 10695 10706	cardiopatía
+T49	DISEASE 10924 10955	insuficiencia cardiaca avanzada
+T50	DISEASE 11085 11107	Insuficiencia cardiaca
+T51	DISEASE 11179 11215	Miocardiopatía dilatada no isquémica
+T52	DISEASE 11238 11246	Obesidad
+T53	DISEASE 11256 11280	Diabetes mellitus tipo 2
+T54	DISEASE 2279 2283	TVMS
+T55	DISEASE 2768 2795	Aurícula izquierda dilatada
+T56	DISEASE 2897 2962	Válvula mitral con regurgitación ligera por dilatación del anillo
+T57	DISEASE 3189 3216	Ventrículo derecho dilatado
+T58	DISEASE 1227 1256	infiltración grasa perirrenal
+T59	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 386 461	osteosíntesis de maléolo peroneo con placa de tercio de tubo de 6 orificios
+T61	PROCEDURE 803 807	CPAP
+T62	PROCEDURE 811 831	oxígeno domiciliario
+T63	PROCEDURE 895 907	radioterapia
+T64	PROCEDURE 910 926	bloqueo hormonal
+T65	PROCEDURE 1076 1095	TC abdomino-pélvica
+T66	PROCEDURE 1611 1625	Ecocardiograma
+T67	PROCEDURE 1762 1777	coronariografía
+T68	PROCEDURE 1903 1992	implante de desfibrilador automático implantable con terapia de resincronización cardiaca
+T69	PROCEDURE 1994 2001	DAI-TRC
+T70	PROCEDURE 2518 2546	ecocardiograma transtorácico
+T71	PROCEDURE 3938 3957	trasplante cardiaco
+T72	PROCEDURE 4516 4534	Exploración física
+T73	PROCEDURE 4786 4807	Auscultación cardiaca
+T74	PROCEDURE 4866 4887	Auscultación pulmonar
+T75	PROCEDURE 5128 5146	Electrocardiograma
+T76	PROCEDURE 5268 5302	Radiografía de tórax al ingreso PA
+T77	PROCEDURE 5418 5431	PCR SARS-CoV2
+T78	PROCEDURE 5447 5489	Ecocardiograma transtorácico a pie de cama
+T79	PROCEDURE 7067 7086	Analítica sanguínea
+T80	PROCEDURE 7409 7424	Perfil lipídico
+T81	PROCEDURE 7550 7564	Perfil férrico
+T82	PROCEDURE 7711 7720	Hemograma
+T83	PROCEDURE 8000 8018	Hormonas tiroideas
+T84	PROCEDURE 10053 10078	tratamiento antidiabético
+T85	PROCEDURE 10958 10977	trasplante cardiaco
+T86	PROCEDURE 744 801	tratamiento con presión positiva continua en la vía aérea
+T87	PROCEDURE 2180 2198	revisiones del DAI
+T88	PROCEDURE 8309 8343	intervención quirúrgica bariátrica
+T89	PROCEDURE 7088 7098	Bioquímica
+T90	PROCEDURE 9434 9451	control analítico
+T91	PROCEDURE 464 516	osteosíntesis de maléolo tibial mediante un tornillo
+T92	PROCEDURE 2279 2315	TVMS) tratadas con sobreestimulación
+T93	PROCEDURE 2419 2445	descarga apropiada del DAI
+T94	PROCEDURE 4463 4480	descargas del DAI
+T95	SYMPTOM 2964 3015	Flujo aórtico con gradientes ligeramente aumentados
+T96	SYMPTOM 4294 4302	ortopnea
+T97	SYMPTOM 4414 4427	palpitaciones
+T98	SYMPTOM 4440 4451	presíncopes
+T99	SYMPTOM 4535 4545	Consciente
+T100	SYMPTOM 4548 4557	orientado
+T101	SYMPTOM 4559 4577	eupneico en reposo
+T102	SYMPTOM 4809 4834	tonos cardiacos regulares
+T103	SYMPTOM 4840 4846	soplos
+T104	SYMPTOM 4850 4864	roces audibles
+T105	SYMPTOM 4889 4918	murmullo vesicular conservado
+T106	SYMPTOM 4970 4998	hipoventilación generalizada
+T107	SYMPTOM 5014 5054	ligeros edemas tibiomaleolares con fóvea
+T108	SYMPTOM 5322 5333	infiltrados
+T109	SYMPTOM 5337 5342	masas
+T110	SYMPTOM 5348 5381	pinzamiento del seno costofrénico
+T111	SYMPTOM 5418 5445	PCR SARS-CoV2: no detectado
+T112	SYMPTOM 5680 5744	función sistólica ventricular izquierda está gravemente reducida
+T113	SYMPTOM 6649 6698	Válvula tricúspide normal en estructura y función
+T114	SYMPTOM 9160 9175	pérdida de peso
+T115	SYMPTOM 9855 9880	cansancio con el esfuerzo
+T116	SYMPTOM 9893 9899	disnea
+T117	SYMPTOM 10771 10783	asintomático
+T118	SYMPTOM 4429 4437	síncopes
+T119	SYMPTOM 928 944	Tumoración renal
+T120	SYMPTOM 1134 1169	nódulo mixto de 20 x 18 mm en riñón
+T121	SYMPTOM 1723 1742	hipoquinesia global
+T122	SYMPTOM 1790 1837	irregularidades en la arteria coronaria derecha
+T123	SYMPTOM 2741 2766	hipoquinesia global grave
+T124	SYMPTOM 3236 3262	FEVD en el límite inferior
+T125	SYMPTOM 5383 5416	DAI-TRC correctamente posicionado
+T126	SYMPTOM 5857 5899	Ventrículo derecho de dimensiones normales
+T127	SYMPTOM 6031 6106	función sistólica del ventrículo derecho está leve a moderadamente reducida
+T128	SYMPTOM 6263 6302	tamaño de la aurícula derecha es normal
+T129	SYMPTOM 6809 6851	Válvula aórtica trivalva de aspecto normal
+T130	SYMPTOM 6898 6930	raíz aórtica es de tamaño normal
+T131	SYMPTOM 11112 11177	fracción de eyección del ventrículo izquierdo gravemente reducida
+T132	MEDICATION 2338 2348	amiodarona
+T133	MEDICATION 3324 3337	atorvastatina
+T134	MEDICATION 3367 3377	amiodarona
+T135	MEDICATION 3415 3425	furosemida
+T136	MEDICATION 3456 3466	carvedilol
+T137	MEDICATION 3505 3526	sacubitrilo/valsartán
+T138	MEDICATION 3614 3650	indacaterol/bromuro de glicopirronio
+T139	MEDICATION 3691 3702	tamsulosina
+T140	MEDICATION 8601 8612	semaglutida
+T141	MEDICATION 8785 8799	dapagliflozina
+T142	MEDICATION 8828 8838	eplerenona
+T143	MEDICATION 9985 9995	furosemida
+T144	MEDICATION 10080 10091	semaglutida
+T145	MEDICATION 10107 10121	dapagliflozina
+T146	MEDICATION 3566 3577	esomeprazol
+T147	MEDICATION 9039 9051	levosimendán

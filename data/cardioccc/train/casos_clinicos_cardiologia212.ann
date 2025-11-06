@@ -1,0 +1,112 @@
+T1	DISEASE 85 104	Alergia a metimazol
+T2	DISEASE 175 186	cardiopatía
+T3	DISEASE 197 254	Hipertiroidismo primario por enfermedad de Graves-Basedow
+T4	DISEASE 313 327	hipotiroidismo
+T5	DISEASE 412 472	carcinoma de patrón sólido con diferenciación neuroendocrina
+T6	DISEASE 742 760	síndrome diarreico
+T7	DISEASE 793 848	síndrome carcinoide por enfermedad metastásica hepática
+T8	DISEASE 1484 1504	episodios diarreicos
+T9	DISEASE 2110 2117	ascitis
+T10	DISEASE 2820 2832	hiponatremia
+T11	DISEASE 4516 4541	regurgitación tricuspídea
+T12	DISEASE 4557 4588	insuficiencia tricuspídea grave
+T13	DISEASE 4899 4918	Derrame pericárdico
+T14	DISEASE 5085 5115	lesiones hepáticas bilobulares
+T15	DISEASE 5658 5704	afectación cardiaca por el síndrome carcinoide
+T16	DISEASE 5812 5843	insuficiencia tricuspídea grave
+T17	DISEASE 5877 5899	cardiopatía carcinoide
+T18	DISEASE 6624 6656	Neoplasia neuroendocrina mamaria
+T19	DISEASE 6669 6712	Síndrome carcinoide con afectación cardiaca
+T20	DISEASE 6714 6745	insuficiencia tricuspídea grave
+T21	DISEASE 6748 6770	Insuficiencia cardiaca
+T22	DISEASE 4007 4046	Ventrículo derecho ligeramente dilatado
+T23	DISEASE 4367 4415	Válvula tricúspide con fibrosis a nivel de velos
+T24	DISEASE 2081 2094	hepatomegalia
+T25	DISEASE 3502 3541	Aurícula izquierda ligeramente dilatada
+T26	DISEASE 4314 4351	Aurícula derecha ligeramente dilatada
+T27	DISEASE 2763 2787	leve hiperbilirrubinemia
+T28	DISEASE 4758 4776	shuntintracardiaco
+T29	DISEASE 3815 3843	insuficiencia aórtica ligera
+T30	DISEASE 3748 3769	regurgitación aórtica
+T31	DISEASE 5123 5160	lesión de mayor tamaño (segmento VII)
+T32	PROCEDURE 313 356	hipotiroidismo bajo tratamiento sustitutivo
+T33	PROCEDURE 387 397	histología
+T34	PROCEDURE 586 614	biopsia de ganglio centinela
+T35	PROCEDURE 975 1016	tratamiento con análogos de somatostatina
+T36	PROCEDURE 1588 1606	Exploración física
+T37	PROCEDURE 1748 1762	pulsioximetría
+T38	PROCEDURE 1780 1801	Auscultación pulmonar
+T39	PROCEDURE 1835 1856	Auscultación cardiaca
+T40	PROCEDURE 2017 2038	Exploración abdominal
+T41	PROCEDURE 2119 2146	Exploración de extremidades
+T42	PROCEDURE 2311 2329	Electrocardiograma
+T43	PROCEDURE 2562 2582	Radiografía torácica
+T44	PROCEDURE 2851 2860	Hemograma
+T45	PROCEDURE 2862 2873	coagulación
+T46	PROCEDURE 2875 2902	parámetros de función renal
+T47	PROCEDURE 2914 2923	ionograma
+T48	PROCEDURE 2990 3014	perfil hormonal tiroideo
+T49	PROCEDURE 3023 3037	Perfil férrico
+T50	PROCEDURE 3239 3267	Ecocardiograma transtorácico
+T51	PROCEDURE 4929 4997	Estudio gammagráfico de cuerpo entero de receptores de somatostatina
+T52	PROCEDURE 5391 5411	estudio gammagráfico
+T53	PROCEDURE 5546 5597	estudio gammagráfico de receptores de somatostatina
+T54	PROCEDURE 5754 5792	estudio ecocardiográfico transtorácico
+T55	PROCEDURE 5916 5953	tratamiento deplectivo con diuréticos
+T56	PROCEDURE 5976 6017	tratamiento con análogos de somatostatina
+T57	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T58	PROCEDURE 2059 2060	l
+T59	PROCEDURE 6392 6420	análogos de la somatostatina
+T60	PROCEDURE 2737 2746	Analítica
+T61	PROCEDURE 2949 2958	Analítica
+T62	PROCEDURE 1036 1049	biomarcadores
+T63	PROCEDURE 555 562	cirugía
+T64	PROCEDURE 936 954	estudios de imagen
+T65	SYMPTOM 358 372	Nódulo mamario
+T66	SYMPTOM 1298 1334	edematización de miembros inferiores
+T67	SYMPTOM 1337 1352	aumento de peso
+T68	SYMPTOM 1395 1401	disnea
+T69	SYMPTOM 1607 1617	Consciente
+T70	SYMPTOM 1620 1658	orientada en tiempo, espacio y persona
+T71	SYMPTOM 1660 1677	Rubicundez facial
+T72	SYMPTOM 1709 1727	Eupneica en reposo
+T73	SYMPTOM 1803 1833	murmullo vesicular fisiológico
+T74	SYMPTOM 1858 1872	tonos rítmicos
+T75	SYMPTOM 1887 1905	soplo pansistólico
+T76	SYMPTOM 2029 2066	abdominal: no doloroso a la palpación
+T77	SYMPTOM 2148 2206	edemas con fóvea hasta tercio medio de miembros inferiores
+T78	SYMPTOM 2212 2252	pulsos distales conservados y simétricos
+T79	SYMPTOM 2331 2344	ritmo sinusal
+T80	SYMPTOM 2391 2425	QRS de voltaje y amplitud normales
+T81	SYMPTOM 2584 2629	índice cardiotorácico discretamente aumentado
+T82	SYMPTOM 2730 2735	masas
+T83	SYMPTOM 3269 3322	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T84	SYMPTOM 3328 3363	función sistólica global conservada
+T85	SYMPTOM 3554 3592	Válvula mitral morfológicamente normal
+T86	SYMPTOM 4682 4743	Válvula pulmonar adecuadamente visualizada, de aspecto normal
+T87	SYMPTOM 5716 5721	soplo
+T88	SYMPTOM 6101 6130	edemas en miembros inferiores
+T89	SYMPTOM 6186 6192	sofoco
+T90	SYMPTOM 6596 6609	fallecimiento
+T91	SYMPTOM 6794 6800	Exitus
+T92	SYMPTOM 3741 3769	jet de regurgitación aórtica
+T93	SYMPTOM 586 636	biopsia de ganglio centinela, que resultó negativa
+T94	SYMPTOM 853 918	captación gammagráfica positiva para análogos de la somatostatina
+T95	SYMPTOM 2634 2668	pinzamiento de senos costofrénicos
+T96	SYMPTOM 2990 3021	perfil hormonal tiroideo normal
+T97	SYMPTOM 3023 3044	Perfil férrico normal
+T98	SYMPTOM 3380 3425	alteraciones en la contractilidad segmentaria
+T99	SYMPTOM 3845 3881	Raíz aórtica de dimensiones normales
+T100	SYMPTOM 3891 3972	Aorta ascendente proximal y cayado aórtico de dimensiones dentro de la normalidad
+T101	SYMPTOM 4778 4846	Vena cava inferior de dimensiones en rango superior de la normalidad
+T102	SYMPTOM 3427 3489	Patrón de llenado transmitral tipo alteración de la relajación
+T103	SYMPTOM 2688 2702	condensaciones
+T104	SYMPTOM 2673 2684	infiltrados
+T105	SYMPTOM 3673 3724	Válvula aórtica tricúspide, sin afectación orgánica
+T106	SYMPTOM 4509 4541	jet de regurgitación tricuspídea
+T107	SYMPTOM 5391 5454	estudio gammagráfico compatible con progresión de la enfermedad
+T108	SYMPTOM 5601 5628	progresión de la enfermedad
+T109	MEDICATION 268 283	yodo radiactivo
+T110	MEDICATION 95 104	metimazol
+T111	MEDICATION 1134 1153	levotiroxina sódica
+T112	MEDICATION 1185 1195	lanreótido

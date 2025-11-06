@@ -1,0 +1,87 @@
+T1	DISEASE 68 140	endocarditis infecciosa sobre válvula nativa por Lactobacillus rhamnosus
+T2	DISEASE 285 293	alergias
+T3	DISEASE 376 386	neumotórax
+T4	DISEASE 502 515	EPOC moderado
+T5	DISEASE 518 540	infección respiratoria
+T6	DISEASE 1768 1787	taquicardia sinusal
+T7	DISEASE 2436 2463	vegetaciones endocardíticas
+T8	DISEASE 2468 2552	valva posterior presenta una importante perforación que condiciona una regurgitación
+T9	DISEASE 2917 2936	derrame pericárdico
+T10	DISEASE 3194 3216	insuficiencia cardiaca
+T11	DISEASE 3514 3559	verrugas en valva posterior de válvula mitral
+T12	DISEASE 3561 3610	verrugas en valva no coronaria de válvula aórtica
+T13	DISEASE 3769 3806	infección por Lactobacillus rhamnosus
+T14	DISEASE 4025 4056	disfunción biventricular severa
+T15	DISEASE 4083 4102	derrame pericárdico
+T16	DISEASE 4792 4839	shock cardiogénico con hipoperfusión periférica
+T17	DISEASE 5480 5571	Endocarditis infecciosa sobre válvulas nativas mitral y aórtica por Lactobacillus rhamnosus
+T18	DISEASE 5588 5610	insuficiencia cardiaca
+T19	DISEASE 5659 5688	Shock cardiogénico poscirugía
+T20	DISEASE 320 345	Hábitos tóxicos: fumadora
+T21	DISEASE 5164 5188	hipoperfusión periférica
+T22	DISEASE 2639 2693	velo no coronariano (13 x 6 mm), este parece perforado
+T23	PROCEDURE 603 615	Hemocultivos
+T24	PROCEDURE 1154 1172	Exploración física
+T25	PROCEDURE 1363 1384	auscultación cardiaca
+T26	PROCEDURE 1448 1469	auscultación pulmonar
+T27	PROCEDURE 1600 1609	palpación
+T28	PROCEDURE 1763 1766	ECG
+T29	PROCEDURE 1799 1819	Radiografía de tórax
+T30	PROCEDURE 2937 2952	Coronariografía
+T31	PROCEDURE 3092 3095	ETE
+T32	PROCEDURE 3355 3371	cirugía cardiaca
+T33	PROCEDURE 3685 3704	anatomía patológica
+T34	PROCEDURE 3978 3993	ecocardioscopia
+T35	PROCEDURE 4184 4187	ETE
+T36	PROCEDURE 4216 4228	sueroterapia
+T37	PROCEDURE 4633 4686	implantación de balón de contrapulsación intraaórtico
+T38	PROCEDURE 4958 5030	implantación de ECMO veno-arterial con acceso periférico, guiada por ETE
+T39	PROCEDURE 5287 5333	se retira el BCIAo y 24 horas después, la ECMO
+T40	PROCEDURE 5612 5657	Cirugía de recambio valvular mitral y aórtico
+T41	PROCEDURE 5711 5770	asistencia con balón de contrapulsación intraaórtico y ECMO
+T42	PROCEDURE 238 256	EXPLORACIÓN FÍSICA
+T43	PROCEDURE 2187 2232	Ecocardiograma transtorácico y transesofágico
+T44	PROCEDURE 3709 3735	microbiología para cultivo
+T45	PROCEDURE 3259 3350	sustitución valvular, aórtica (Carbomedics Top Hat no 21) y mitral (Bicarbon Fitline no 27)
+T46	PROCEDURE 5027 5030	ETE
+T47	PROCEDURE 5237 5258	drogas inovasoactivas
+T48	PROCEDURE 1878 1887	Analítica
+T49	PROCEDURE 3446 3449	CEC
+T50	SYMPTOM 31 37	disnea
+T51	SYMPTOM 40 46	fiebre
+T52	SYMPTOM 843 875	funciones superiores conservadas
+T53	SYMPTOM 972 978	Disnea
+T54	SYMPTOM 1018 1034	disnea de reposo
+T55	SYMPTOM 1057 1068	pico febril
+T56	SYMPTOM 1087 1102	dolor en cadera
+T57	SYMPTOM 1237 1246	Taquipnea
+T58	SYMPTOM 1300 1314	normocoloreada
+T59	SYMPTOM 1320 1355	buena hidratación de piel y mucosas
+T60	SYMPTOM 1389 1407	corazón es rítmico
+T61	SYMPTOM 1413 1440	soplo sistólico foco mitral
+T62	SYMPTOM 1483 1524	crepitantes en campos medios e inferiores
+T63	SYMPTOM 1527 1548	sibilancias dispersas
+T64	SYMPTOM 1553 1630	abdomen es blando y depresible, sin dolor a la palpación con ruidos presentes
+T65	SYMPTOM 1636 1679	extremidades inferiores no presentan edemas
+T66	SYMPTOM 1686 1736	pulsos pedios se encuentran presentes y simétricos
+T67	SYMPTOM 2237 2299	ventrículo izquierdo no se encuentra dilatado, ni hipertrófico
+T68	SYMPTOM 2305 2335	buena función sistólica global
+T69	SYMPTOM 2833 2871	ventrículo derecho no se está dilatado
+T70	SYMPTOM 3854 3881	hemodinámicamente inestable
+T71	SYMPTOM 4511 4519	oliguria
+T72	SYMPTOM 603 677	Hemocultivos durante dicho ingreso, positivos para Lactobacillus rhamnosus
+T73	SYMPTOM 3920 3939	taquicardia sinusal
+T74	SYMPTOM 2954 2980	red coronaria sin lesiones
+T75	SYMPTOM 4526 4598	livideces crecientes en pabellones auriculares y extremidades inferiores
+T76	SYMPTOM 1821 1876	silueta cardiaca en el límite superior de la normalidad
+T77	SYMPTOM 2576 2622	válvula aórtica presenta una imagen en el TSVI
+T78	MEDICATION 553 566	levofloxacino
+T79	MEDICATION 760 770	citalopram
+T80	MEDICATION 778 791	glicopirronio
+T81	MEDICATION 803 814	paracetamol
+T82	MEDICATION 3135 3145	ampicilina
+T83	MEDICATION 3148 3159	gentamicina
+T84	MEDICATION 3886 3899	noradrenalina
+T85	MEDICATION 4295 4307	noradrenalia
+T86	MEDICATION 4329 4337	dopamina
+T87	MEDICATION 4361 4371	adrenalina

@@ -1,0 +1,138 @@
+T1	ENFERMEDAD 91 101	Hipertenso
+T2	ENFERMEDAD 104 111	fumador
+T3	ENFERMEDAD 577 597	episodios sincopales
+T4	ENFERMEDAD 703 734	traumatismo en mandíbula y boca
+T5	ENFERMEDAD 1114 1136	insuficiencia cardiaca
+T6	ENFERMEDAD 1710 1726	Pectus excavatum
+T7	ENFERMEDAD 2001 2004	TEP
+T8	ENFERMEDAD 2096 2133	adenopatías mediastínicas ni hiliares
+T9	ENFERMEDAD 2211 2226	derrame pleural
+T10	ENFERMEDAD 2445 2475	dilatación ventricular derecha
+T11	ENFERMEDAD 2961 2995	Aneurisma del septo interauricular
+T12	ENFERMEDAD 2997 3000	SIA
+T13	ENFERMEDAD 3045 3064	derrame pericárdico
+T14	ENFERMEDAD 3093 3113	Insuficiencia mitral
+T15	ENFERMEDAD 3128 3153	Insuficiencia tricuspídea
+T16	ENFERMEDAD 4398 4409	canalopatía
+T17	ENFERMEDAD 5104 5107	TEP
+T18	ENFERMEDAD 5147 5178	displasia de ventrículo derecho
+T19	ENFERMEDAD 5594 5639	extrasistolia ventricular ni supraventricular
+T20	ENFERMEDAD 5643 5652	arritmias
+T21	ENFERMEDAD 5698 5705	síncope
+T22	ENFERMEDAD 5806 5829	taquicardia ventricular
+T23	ENFERMEDAD 5962 5982	anomalías coronarias
+T24	ENFERMEDAD 5997 6049	agenesia prácticamente total de pericardio izquierda
+T25	ENFERMEDAD 6163 6185	Síncopes de repetición
+T26	ENFERMEDAD 6320 6340	anomalías coronarias
+T27	ENFERMEDAD 6342 6384	Agenesia prácticamente total de pericardio
+T28	ENFERMEDAD 3155 3157	IT
+T29	ENFERMEDAD 125 133	síncopes
+T30	ENFERMEDAD 5529 5537	síncopes
+T31	ENFERMEDAD 2556 2588	Ventrículo derecho (VD) dilatado
+T32	ENFERMEDAD 3115 3117	IM
+T33	ENFERMEDAD 201 204	ICC
+T34	ENFERMEDAD 4884 4921	ausencia prácticamente del pericardio
+T35	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDIMIENTO 383 402	estudio neurológico
+T37	PROCEDIMIENTO 407 451	tomografía axial computarizada (TAC) craneal
+T38	PROCEDIMIENTO 1139 1157	Exploración física
+T39	PROCEDIMIENTO 1270 1297	Auscultación cardiopulmonar
+T40	PROCEDIMIENTO 1394 1412	Electrocardiograma
+T41	PROCEDIMIENTO 1414 1417	ECG
+T42	PROCEDIMIENTO 1575 1595	Radiografía de tórax
+T43	PROCEDIMIENTO 1987 1990	TAC
+T44	PROCEDIMIENTO 2228 2242	Ecocardiograma
+T45	PROCEDIMIENTO 3167 3192	ECG promediado de señales
+T46	PROCEDIMIENTO 3296 3328	Estudio de promediado de señales
+T47	PROCEDIMIENTO 3339 3382	Resonancia magnética nuclear (RMN) cardiaca
+T48	PROCEDIMIENTO 4340 4366	Estudio electrofisiológico
+T49	PROCEDIMIENTO 4461 4490	se implanta Holter subcutáneo
+T50	PROCEDIMIENTO 4524 4537	TAC coronario
+T51	PROCEDIMIENTO 5180 5183	ECG
+T52	PROCEDIMIENTO 5206 5220	ecocardiograma
+T53	PROCEDIMIENTO 5311 5314	RMN
+T54	PROCEDIMIENTO 5348 5362	ecocardiograma
+T55	PROCEDIMIENTO 5544 5554	telemetría
+T56	PROCEDIMIENTO 5710 5713	ECG
+T57	PROCEDIMIENTO 5737 5755	test de flecainida
+T58	PROCEDIMIENTO 5758 5784	estudio electrofisiológico
+T59	PROCEDIMIENTO 5880 5909	Se implanta Holter subcutáneo
+T60	PROCEDIMIENTO 5935 5948	TAC coronario
+T61	PROCEDIMIENTO 6051 6071	radiografía de tórax
+T62	PROCEDIMIENTO 6233 6259	Estudio electrofisiológico
+T63	PROCEDIMIENTO 6270 6288	Holter implantable
+T64	PROCEDIMIENTO 6290 6303	TAC coronario
+T65	PROCEDIMIENTO 5111 5120	angio-TAC
+T66	PROCEDIMIENTO 3369 3372	RMN
+T67	PROCEDIMIENTO 1728 1737	Analítica
+T68	PROCEDIMIENTO 3918 3941	secuencias de perfusión
+T69	PROCEDIMIENTO 3989 4013	secuencias de viabilidad
+T70	SINTOMA 407 470	tomografía axial computarizada (TAC) craneal que resulta normal
+T71	SINTOMA 867 872	mareo
+T72	SINTOMA 878 899	pérdida de conciencia
+T73	SINTOMA 958 984	movimientos tonicoclónicos
+T74	SINTOMA 988 1012	relajación de esfínteres
+T75	SINTOMA 1029 1041	asintomático
+T76	SINTOMA 1057 1071	dolor torácico
+T77	SINTOMA 1075 1088	palpitaciones
+T78	SINTOMA 1093 1099	disnea
+T79	SINTOMA 1236 1246	Consciente
+T80	SINTOMA 1249 1258	orientado
+T81	SINTOMA 1260 1268	Eupneico
+T82	SINTOMA 1270 1304	Auscultación cardiopulmonar normal
+T83	SINTOMA 1338 1367	Pulsos palpables y simétricos
+T84	SINTOMA 1420 1433	ritmo sinusal
+T85	SINTOMA 1453 1465	QRS estrecho
+T86	SINTOMA 1467 1488	T negativa asimétrica
+T87	SINTOMA 2200 2207	nódulos
+T88	SINTOMA 2244 2297	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T89	SINTOMA 2717 2743	hipocinesia de pared libre
+T90	SINTOMA 2781 2825	Raíz aórtica y aorta ascendente no dilatadas
+T91	SINTOMA 2827 2879	Válvula aórtica tricomisural con apertura conservada
+T92	SINTOMA 3066 3091	Función diastólica normal
+T93	SINTOMA 3296 3337	Estudio de promediado de señales negativo
+T94	SINTOMA 3542 3556	VD no dilatado
+T95	SINTOMA 3766 3815	desplazamiento cardiaco hacia hemitórax izquierdo
+T96	SINTOMA 3832 3865	horizontalización de eje cardiaco
+T97	SINTOMA 3904 3909	edema
+T98	SINTOMA 4094 4128	pulmones de vascularización normal
+T99	SINTOMA 4238 4247	VI normal
+T100	SINTOMA 4249 4263	VD no dilatado
+T101	SINTOMA 4340 4384	Estudio electrofisiológico: estudio negativo
+T102	SINTOMA 4599 4621	Aurículas no dilatadas
+T103	SINTOMA 4677 4716	Válvula mitral: morfológicamente normal
+T104	SINTOMA 5188 5198	T negativa
+T105	SINTOMA 5367 5405	ventrículo derecho es de tamaño normal
+T106	SINTOMA 5491 5503	asintomático
+T107	SINTOMA 5519 5525	mareos
+T108	SINTOMA 6233 6268	Estudio electrofisiológico negativo
+T109	SINTOMA 3593 3634	tracto de salida de VD zona hipoquinética
+T110	SINTOMA 1597 1635	desplazamiento cardiaco a la izquierda
+T111	SINTOMA 2302 2317	FEVI conservada
+T112	SINTOMA 2746 2779	aquinesia- disquinesia en el ápex
+T113	SINTOMA 2881 2921	Mitral y tricúspide de morfología normal
+T114	SINTOMA 2923 2959	Vena cava inferior (VCI) no dilatada
+T115	SINTOMA 3440 3454	VI no dilatado
+T116	SINTOMA 3484 3513	FE global y regional normales
+T117	SINTOMA 3515 3524	AI normal
+T118	SINTOMA 3526 3540	AD no dilatada
+T119	SINTOMA 4269 4278	FE límite
+T120	SINTOMA 4550 4597	cavidades cardiacas de características normales
+T121	SINTOMA 4623 4675	Válvula aórtica: tricúspide, morfológicamente normal
+T122	SINTOMA 1637 1674	Borramiento de borde cardiaco derecho
+T123	SINTOMA 4747 4766	Dominancia: derecha
+T124	SINTOMA 1306 1336	Miembros inferiores: no edemas
+T125	SINTOMA 5506 5513	estable
+T126	SINTOMA 2187 2198	infiltrados
+T127	SINTOMA 851 856	calor
+T128	SINTOMA 2009 2091	defectos de replección en arterias pulmonares principales, lobares ni segmentarias
+T129	SINTOMA 2477 2512	Aurícula izquierda (AI) no dilatada
+T130	SINTOMA 3989 4034	secuencias de viabilidad no se observa realce
+T131	SINTOMA 3918 3980	secuencias de perfusión no se observan defectos de primer paso
+T132	SINTOMA 4768 4793	Anatomía coronaria normal
+T133	SINTOMA 4823 4869	Rotación de la silueta cardiaca a la izquierda
+T134	SINTOMA 5232 5274	imagen aneurismática en ventrículo derecho
+#1	AnnotatorNotes T7	 tromboembolismo pulmonar
+#2	AnnotatorNotes T12	 aneurisma del septo interauricular
+#3	AnnotatorNotes T28	 IT insuficiencia tricuspídea
+#4	AnnotatorNotes T32	 insuficiencia mitral

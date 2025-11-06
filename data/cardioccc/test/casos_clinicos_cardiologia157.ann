@@ -1,0 +1,77 @@
+T1	ENFERMEDAD 70 124	síndrome coronario agudo sin elevación del segmento ST
+T2	ENFERMEDAD 164 188	Alergia a polen y ácaros
+T3	ENFERMEDAD 191 207	Rinitis alérgica
+T4	ENFERMEDAD 209 234	Asma bronquial estrínseca
+T5	ENFERMEDAD 281 284	HTA
+T6	ENFERMEDAD 286 296	dislipemia
+T7	ENFERMEDAD 300 302	DM
+T8	ENFERMEDAD 339 360	fractura cubito-radio
+T9	ENFERMEDAD 1727 1746	derrame pericárdico
+T10	ENFERMEDAD 2014 2021	SCASEST
+T11	ENFERMEDAD 2157 2161	asma
+T12	ENFERMEDAD 2276 2298	insuficiencia cardiaca
+T13	ENFERMEDAD 2780 2791	miocarditis
+T14	ENFERMEDAD 2808 2825	Miocarditis aguda
+T15	ENFERMEDAD 268 275	Fumador
+T16	ENFERMEDAD 126 133	SCASEST
+T17	PROCEDIMIENTO 655 658	ECG
+T18	PROCEDIMIENTO 722 740	Exploración física
+T19	PROCEDIMIENTO 916 919	ECG
+T20	PROCEDIMIENTO 1229 1238	Hemograma
+T21	PROCEDIMIENTO 1263 1278	Coronariografía
+T22	PROCEDIMIENTO 1375 1389	Ecocardiograma
+T23	PROCEDIMIENTO 1750 1762	RMN cardiaca
+T24	PROCEDIMIENTO 2034 2070	tratamiento con doble antiagregación
+T25	PROCEDIMIENTO 2108 2134	tratamiento betabloqueante
+T26	PROCEDIMIENTO 2322 2342	electrocardiográfica
+T27	PROCEDIMIENTO 2470 2490	cateterismo cardiaco
+T28	PROCEDIMIENTO 2666 2682	ventriculografía
+T29	PROCEDIMIENTO 2689 2703	ecocardiograma
+T30	PROCEDIMIENTO 2716 2728	RMN cardiaca
+T31	PROCEDIMIENTO 2089 2093	IECA
+T32	PROCEDIMIENTO 703 720	enzimas cardíacas
+T33	PROCEDIMIENTO 2078 2086	nitratos
+T34	PROCEDIMIENTO 997 1006	Analítica
+T35	PROCEDIMIENTO 315 317	IQ
+T36	PROCEDIMIENTO 319 336	apendicectomizado
+T37	PROCEDIMIENTO 2742 2769	realce tardío con gadolinio
+T38	PROCEDIMIENTO 794 797	A.C
+T39	PROCEDIMIENTO 829 832	A.P
+T40	SINTOMA 521 572	dolor torácico opresivo irradiado a brazo izquierdo
+T41	SINTOMA 659 687	infradesnivel de segmento ST
+T42	SINTOMA 690 720	elevación de enzimas cardíacas
+T43	SINTOMA 742 761	buen estado general
+T44	SINTOMA 790 792	IY
+T45	SINTOMA 794 807	A.C.: rítmica
+T46	SINTOMA 813 819	soplos
+T47	SINTOMA 823 827	roce
+T48	SINTOMA 921 934	ritmo sinusal
+T49	SINTOMA 939 980	ligero infradesnivel de ST en II, V3 a V5
+T50	SINTOMA 1319 1332	FE conservada
+T51	SINTOMA 1548 1592	Válvulas anatómica y funcionalmente normales
+T52	SINTOMA 1925 1953	Función sistólica conservada
+T53	SINTOMA 2248 2262	dolor torácico
+T54	SINTOMA 2579 2614	función sistólica global conservada
+T55	SINTOMA 2877 2927	Función sistólica ventricular izquierda conservada
+T56	SINTOMA 1477 1522	alteraciones en la contractilidad segmentaria
+T57	SINTOMA 2619 2662	alteraciones segmentarias de contractilidad
+T58	SINTOMA 2828 2874	Arterias coronarias angiográficamente normales
+T59	SINTOMA 1594 1624	Aurícula izquierda no dilatada
+T60	SINTOMA 1626 1657	Cavidades derechas no dilatadas
+T61	SINTOMA 843 887	Abdomen y EEII: sin hallazgos significativos
+T62	SINTOMA 1673 1722	Raíz aórtica y aorta ascendente de calibre normal
+T63	SINTOMA 2530 2576	arterias coronarias angiográficamente normales
+T64	SINTOMA 1391 1439	ventrículo izquierdo no dilatado ni hipertrófico
+T65	SINTOMA 776 785	Eurpneico
+T66	SINTOMA 829 841	A.P.: normal
+T67	SINTOMA 982 993	sin ondas Q
+T68	SINTOMA 1280 1317	coronarias angiográficamente normales
+T69	SINTOMA 1445 1454	FE normal
+T70	SINTOMA 1774 1837	áreas de afectación parcheada subepicárdicas e intramiocárdicas
+T71	SINTOMA 2400 2437	TnT ultrasensible continuó elevándose
+T72	SINTOMA 2355 2382	aparición de nuevas ondas Q
+T73	FARMACO 430 439	Omeprazol
+T74	FARMACO 442 447	almax
+T75	FARMACO 2072 2076	HBPM
+T76	FARMACO 393 401	seretide
+T77	FARMACO 410 418	Ventolin

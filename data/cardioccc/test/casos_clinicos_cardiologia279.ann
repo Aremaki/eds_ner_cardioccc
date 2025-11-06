@@ -1,0 +1,72 @@
+T1	ENFERMEDAD 312 327	Neoplasia renal
+T2	ENFERMEDAD 339 398	carcinoma de células claras con diferenciación sarcomatoide
+T3	ENFERMEDAD 449 479	reintervención por eventración
+T4	ENFERMEDAD 500 535	Bocio multinodular normofuncionante
+T5	ENFERMEDAD 906 921	neoplasia renal
+T6	ENFERMEDAD 2040 2062	insuficiencia cardiaca
+T7	ENFERMEDAD 3196 3233	infiltración miocárdica y pericárdica
+T8	ENFERMEDAD 4059 4132	fragmentos endomiocárdicos con metástasis de carcinoma de células renales
+T9	ENFERMEDAD 4587 4629	metástasis de carcinoma de células renales
+T10	ENFERMEDAD 4818 4837	derrame pericárdico
+T11	ENFERMEDAD 4986 5007	masa tumoral cardiaca
+T12	ENFERMEDAD 5090 5127	infiltración pericárdica e intramural
+T13	ENFERMEDAD 5144 5173	metástasis de carcinoma renal
+T14	ENFERMEDAD 3648 3653	tumor
+T15	ENFERMEDAD 3890 3895	tumor
+T16	ENFERMEDAD 2282 2302	Regurgitación mitral
+T17	ENFERMEDAD 4503 4523	implante metastásico
+T18	ENFERMEDAD 2251 2272	Disfunción diastólica
+T19	ENFERMEDAD 5090 5173	infiltración pericárdica e intramural, compatible con metástasis de carcinoma renal
+T20	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T21	PROCEDIMIENTO 147 177	tomografía axial computarizada
+T22	PROCEDIMIENTO 179 182	TAC
+T23	PROCEDIMIENTO 417 438	nefrectomía izquierda
+T24	PROCEDIMIENTO 888 891	TAC
+T25	PROCEDIMIENTO 1053 1071	Exploración física
+T26	PROCEDIMIENTO 1181 1202	Auscultación cardiaca
+T27	PROCEDIMIENTO 1293 1314	auscultación pulmonar
+T28	PROCEDIMIENTO 1388 1409	Exploración abdominal
+T29	PROCEDIMIENTO 1551 1569	Electrocardiograma
+T30	PROCEDIMIENTO 1944 1964	Radiografía de tórax
+T31	PROCEDIMIENTO 2064 2078	Ecocardiograma
+T32	PROCEDIMIENTO 2461 2495	TAC tóraco-abdominal con contraste
+T33	PROCEDIMIENTO 2919 2948	Resonancia magnética cardiaca
+T34	PROCEDIMIENTO 3421 3460	administración de gadolinio intravenoso
+T35	PROCEDIMIENTO 3557 3576	Anatomía patológica
+T36	PROCEDIMIENTO 3943 3969	estudio inmunohistoquímico
+T37	PROCEDIMIENTO 4197 4204	biopsia
+T38	PROCEDIMIENTO 4278 4298	resonancia magnética
+T39	PROCEDIMIENTO 4300 4302	RM
+T40	PROCEDIMIENTO 4425 4427	RM
+T41	PROCEDIMIENTO 4538 4560	biopsia endomiocárdica
+T42	PROCEDIMIENTO 4896 4909	inmunoterapia
+T43	SINTOMA 130 143	masa cardiaca
+T44	SINTOMA 717 735	dolor en hemitórax
+T45	SINTOMA 946 986	masa dependiente de ventrículo izquierdo
+T46	SINTOMA 1130 1148	Eupneica en reposo
+T47	SINTOMA 1150 1179	Presión venosa yugular normal
+T48	SINTOMA 1181 1210	Auscultación cardiaca rítmica
+T49	SINTOMA 1216 1262	soplo protomesosistólico II/VI en foco aórtico
+T50	SINTOMA 1267 1291	secundo ruido conservado
+T51	SINTOMA 1319 1348	murmullo vesicular conservado
+T52	SINTOMA 1388 1438	Exploración abdominal sin hallazgos significativos
+T53	SINTOMA 1443 1475	edema en extremidades inferiores
+T54	SINTOMA 1481 1524	pulsos periféricos conservados y simétricos
+T55	SINTOMA 1571 1584	ritmo sinusal
+T56	SINTOMA 1644 1671	onda Q septal no patológica
+T57	SINTOMA 1673 1697	T negativa aislada en V1
+T58	SINTOMA 1966 1994	índice cardiotorácico normal
+T59	SINTOMA 1999 2026	ensanchamiento mediastínico
+T60	SINTOMA 2080 2153	ventrículo izquierdo de tamaño normal con fracción de eyección conservada
+T61	SINTOMA 2204 2249	Ventrículo derecho de tamaño y función normal
+T62	SINTOMA 2497 2508	masa sólida
+T63	SINTOMA 2803 2864	engrosamiento asimétrico de la pared del ventrículo izquierdo
+T64	SINTOMA 2955 3027	masa en zona lateral de ventrículo izquierdo y surco auriculoventricular
+T65	SINTOMA 4331 4344	masa cardiaca
+T66	SINTOMA 4790 4803	masa cardiaca
+T67	SINTOMA 679 706	asintomática cardiovascular
+T68	SINTOMA 2159 2202	anomalías segmentarias de la contractilidad
+T69	SINTOMA 2316 2417	masa de ecogenicidad irregular, paracardiaca, en la zona posterior y lateral del ventrículo izquierdo
+T70	SINTOMA 5068 5085	Masa paracardiaca
+T71	FARMACO 4719 4728	sunitinib
+T72	FARMACO 4914 4923	nivolumab

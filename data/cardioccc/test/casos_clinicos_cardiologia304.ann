@@ -1,0 +1,108 @@
+T1	ENFERMEDAD 82 105	alergias medicamentosas
+T2	ENFERMEDAD 121 136	hábitos tóxicos
+T3	ENFERMEDAD 138 168	Hipertensión arterial esencial
+T4	ENFERMEDAD 202 212	Dislipemia
+T5	ENFERMEDAD 410 415	ictus
+T6	ENFERMEDAD 1024 1049	trombosis venosa profunda
+T7	ENFERMEDAD 1913 1928	derrame pleural
+T8	ENFERMEDAD 2026 2040	isquemia aguda
+T9	ENFERMEDAD 2069 2096	hemorragia intra/extraaxial
+T10	ENFERMEDAD 2462 2598	lesiones isquémicas córticosubcorticales temporoccipitales derechas en fase subaguda en territorio de arteria cerebral posterior derecha
+T11	ENFERMEDAD 2877 2890	valvulopatías
+T12	ENFERMEDAD 2909 2928	derrame pericárdico
+T13	ENFERMEDAD 3062 3084	foramen oval permeable
+T14	ENFERMEDAD 3086 3089	FOP
+T15	ENFERMEDAD 3123 3157	septo interauricular aneurismático
+T16	ENFERMEDAD 3361 3374	valvulopatías
+T17	ENFERMEDAD 3393 3412	derrame pericárdico
+T18	ENFERMEDAD 3414 3449	Orejuela auricular libre de trombos
+T19	ENFERMEDAD 3455 3475	ateromatosis aórtica
+T20	ENFERMEDAD 4423 4477	Ictus isquémico temporo-occipital derecho criptogénico
+T21	ENFERMEDAD 3159 3162	FOP
+T22	ENFERMEDAD 3731 3734	FOP
+T23	ENFERMEDAD 4022 4025	FOP
+T24	ENFERMEDAD 4479 4482	FOP
+T25	ENFERMEDAD 4495 4498	FOP
+T26	ENFERMEDAD 1691 1698	Sífilis
+T27	ENFERMEDAD 469 534	pérdida de visión transitoria en mitad izquierda del campo visual
+T28	PROCEDIMIENTO 563 581	EXPLORACIÓN FÍSICA
+T29	PROCEDIMIENTO 823 844	Auscultación cardiaca
+T30	PROCEDIMIENTO 867 888	Auscultación pulmonar
+T31	PROCEDIMIENTO 1051 1074	Exploración neurológica
+T32	PROCEDIMIENTO 1282 1301	Analítica sanguínea
+T33	PROCEDIMIENTO 1719 1737	Electrocardiograma
+T34	PROCEDIMIENTO 1809 1829	Radiografía de tórax
+T35	PROCEDIMIENTO 1930 1970	Tomografía computarizada (TC) multimodal
+T36	PROCEDIMIENTO 1956 1958	TC
+T37	PROCEDIMIENTO 1972 1990	TC craneal sin CIV
+T38	PROCEDIMIENTO 2422 2451	Resonancia magnética cerebral
+T39	PROCEDIMIENTO 2721 2749	Ecocardiograma transtorácico
+T40	PROCEDIMIENTO 3092 3121	Ecocardiograma transesofágico
+T41	PROCEDIMIENTO 3709 3734	cierre percutáneo del FOP
+T42	PROCEDIMIENTO 3817 3846	cierre percutáneo del defecto
+T43	PROCEDIMIENTO 3852 3869	anestesia general
+T44	PROCEDIMIENTO 3872 3934	bajo control ecocardiográfico, se procede a cierre del foramen
+T45	PROCEDIMIENTO 3936 3978	Se accede a través de vena femoral derecha
+T46	PROCEDIMIENTO 4341 4371	ecocardiografía transesofágica
+T47	PROCEDIMIENTO 4484 4527	Cierre del FOP con dispositivo Figulla Flex
+T48	PROCEDIMIENTO 1567 1592	Anticuerpos antinucleares
+T49	PROCEDIMIENTO 582 600	Constantes vitales
+T50	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDIMIENTO 2115 2127	TC-perfusión
+T52	PROCEDIMIENTO 2192 2214	Angio-TC: extracraneal
+T53	PROCEDIMIENTO 1594 1597	ANA
+T54	PROCEDIMIENTO 3980 4040	Se pasa a aurícula izquierda a través del FOP con catéter MP
+T55	PROCEDIMIENTO 4043 4101	se pasa guía de soporte a vena pulmonar superior izquierda
+T56	PROCEDIMIENTO 760 775	Cabeza y cuello
+T57	PROCEDIMIENTO 2958 2992	Se administra suero salino agitado
+T58	SINTOMA 459 466	cefalea
+T59	SINTOMA 696 706	consciente
+T60	SINTOMA 708 717	orientado
+T61	SINTOMA 719 725	alerta
+T62	SINTOMA 727 742	Normoperfundido
+T63	SINTOMA 744 758	normohidratado
+T64	SINTOMA 781 802	ingurgitación yugular
+T65	SINTOMA 808 821	rigidez nucal
+T66	SINTOMA 823 853	Auscultación cardiaca: rítmica
+T67	SINTOMA 859 865	soplos
+T68	SINTOMA 890 919	murmullo vesicular conservado
+T69	SINTOMA 925 945	ruidos sobreañadidos
+T70	SINTOMA 947 1000	Extremidades inferiores: pulsos presentes, simétricos
+T71	SINTOMA 1005 1010	edema
+T72	SINTOMA 1117 1148	alteraciones en pares craneales
+T73	SINTOMA 1150 1183	Fuerza y sensibilidad conservadas
+T74	SINTOMA 1188 1198	dismetrías
+T75	SINTOMA 1202 1220	disdiadococinesias
+T76	SINTOMA 1239 1255	signos meníngeos
+T77	SINTOMA 1668 1689	VIH (Elisa): negativo
+T78	SINTOMA 1739 1741	RS
+T79	SINTOMA 1764 1776	QRS estrecho
+T80	SINTOMA 1778 1807	rectificación ST cara lateral
+T81	SINTOMA 1831 1876	índice cardiotorácico dentro de la normalidad
+T82	SINTOMA 2751 2816	ventrículo izquierdo no dilatado con función sistólica conservada
+T83	SINTOMA 2818 2843	Cámaras derechas normales
+T84	SINTOMA 2845 2871	Aurículas de tamaño normal
+T85	SINTOMA 3245 3300	Ventrículo izquierdo no dilatado con función conservada
+T86	SINTOMA 3302 3327	Cámaras derechas normales
+T87	SINTOMA 3329 3355	Aurículas de tamaño normal
+T88	SINTOMA 1600 1666	Beta-2 glicoproteína (IgM, IgG) cardiolipina (IgM, IgG): negativos
+T89	SINTOMA 1691 1717	Sífilis IgG, IgM: negativo
+T90	SINTOMA 2930 2956	Septo auricular hipermóvil
+T91	SINTOMA 1896 1908	condensación
+T92	SINTOMA 1882 1892	infiltrado
+T93	SINTOMA 1076 1111	nominación y repetición conservadas
+T94	SINTOMA 2115 2190	TC-perfusión (imagen 4): aumento de los tiempos en región occipital derecha
+T95	SINTOMA 2216 2247	troncos supraórticos permeables
+T96	SINTOMA 2292 2349	Intracraneal: circulación anterior y posterior permeables
+T97	SINTOMA 2972 3023	suero salino agitado, observándose paso de burbujas
+T98	FARMACO 236 246	amlodipino
+T99	FARMACO 275 283	ramipril
+T100	FARMACO 312 325	atorvastatina
+T101	FARMACO 2972 2984	suero salino
+#1	AnnotatorNotes T14	  foramen oval permeable
+#2	AnnotatorNotes T21	  foramen oval permeable
+#3	AnnotatorNotes T22	  foramen oval permeable
+#4	AnnotatorNotes T23	  foramen oval permeable
+#5	AnnotatorNotes T24	  foramen oval permeable
+#6	AnnotatorNotes T25	  foramen oval permeable
+#7	AnnotatorNotes T53	  anticuerpos antinucleares

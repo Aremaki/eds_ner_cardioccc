@@ -1,0 +1,108 @@
+T1	DISEASE 2971 3025	movimientos tónico-clónicos de las cuatro extremidades
+T2	DISEASE 87 98	dislipémico
+T3	DISEASE 104 127	miocardiopatía dilatada
+T4	DISEASE 145 174	disfunción ventricular severa
+T5	DISEASE 383 406	miocardiopatía dilatada
+T6	DISEASE 431 457	trastorno de la conducción
+T7	DISEASE 460 483	arritmias ventriculares
+T8	DISEASE 668 718	válvula aórtica bicúspide con insuficiencia severa
+T9	DISEASE 776 798	insuficiencia cardiaca
+T10	DISEASE 847 880	disfunción sistólica severa de VI
+T11	DISEASE 1688 1707	déficit neurológico
+T12	DISEASE 2617 2630	valvulopatías
+T13	DISEASE 2634 2653	derrame pericárdico
+T14	DISEASE 4458 4583	lesiones hipodensas temporales posteriores y parieto-occipitales, así como frontal derecha y en ambos hemisferios cerebelosos
+T15	DISEASE 5224 5270	síndrome de encefalopatía posterior reversible
+T16	DISEASE 5272 5276	PRES
+T17	DISEASE 5995 6012	crisis comiciales
+T18	DISEASE 6289 6335	Síndrome de encefalopatía posterior reversible
+T19	DISEASE 6398 6434	Crisis tónico-clónicas generalizadas
+T20	DISEASE 6526 6549	miocardiopatía dilatada
+T21	DISEASE 6616 6627	laminopatía
+T22	DISEASE 1147 1203	descompensaciones cada vez más frecuentes por bajo gasto
+T23	DISEASE 4654 4828	edema vasogénico que afecta de manera simétrica a la sustancia blanca subcortical de la práctica totalidad de ambos lóbulos occipitales y regiones occipito-parieto-temporales
+T24	DISEASE 6337 6341	pres
+T25	DISEASE 933 957	descompensaciones graves
+T26	DISEASE 3199 3218	crisis generalizada
+T27	DISEASE 5079 5085	crisis
+T28	DISEASE 5511 5529	episodios críticos
+T29	DISEASE 6567 6606	disfunción ventricular izquierda severa
+T30	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDURE 226 242	estudio genético
+T32	PROCEDURE 884 898	ecocardiograma
+T33	PROCEDURE 1002 1021	trasplante cardiaco
+T34	PROCEDURE 1309 1345	implante de balón de contrapulsación
+T35	PROCEDURE 1380 1399	trasplante cardiaco
+T36	PROCEDURE 1436 1474	trasplante cardiaco por técnica bicava
+T37	PROCEDURE 1598 1618	soporte hemodinámico
+T38	PROCEDURE 1645 1655	extubación
+T39	PROCEDURE 2024 2039	Inmunosupresión
+T40	PROCEDURE 2138 2152	Corticoterapia
+T41	PROCEDURE 2475 2483	biopsias
+T42	PROCEDURE 2490 2505	ecocardiogramas
+T43	PROCEDURE 2750 2772	biopsia endomiocárdica
+T44	PROCEDURE 3249 3264	benzodiacepinas
+T45	PROCEDURE 3962 3981	Analítica sanguínea
+T46	PROCEDURE 3983 3992	hemograma
+T47	PROCEDURE 4083 4094	Coagulación
+T48	PROCEDURE 4342 4359	Gasometría Venosa
+T49	PROCEDURE 4435 4446	TAC craneal
+T50	PROCEDURE 4623 4652	Resonancia magnética cerebral
+T51	PROCEDURE 5287 5290	TAC
+T52	PROCEDURE 5299 5301	RM
+T53	PROCEDURE 5947 5969	biopsia endomiocárdica
+T54	PROCEDURE 6189 6209	resonancia magnética
+T55	PROCEDURE 1265 1283	soporte inotrópico
+T56	PROCEDURE 5776 5790	corticoterapia
+T57	PROCEDURE 4133 4143	Bioquímica
+T58	PROCEDURE 4199 4212	Función renal
+T59	PROCEDURE 4272 4277	Iones
+T60	PROCEDURE 6462 6492	Trasplante cardiaco ortotópico
+T61	PROCEDURE 3275 3350	diazepam), así como levetiracetam 1.000 mg en perfusión, ambos intravenosos
+T62	PROCEDURE 534 542	ablación
+T63	PROCEDURE 5840 5858	anticalcineurínico
+T64	SYMPTOM 2831 2847	revulsión ocular
+T65	SYMPTOM 3119 3140	alteraciones visuales
+T66	SYMPTOM 3143 3151	nistagmo
+T67	SYMPTOM 3394 3404	consciente
+T68	SYMPTOM 3406 3415	orientado
+T69	SYMPTOM 3425 3444	lenguaje conservado
+T70	SYMPTOM 3449 3497	reflejo de amenaza estaba bilateralmente ausente
+T71	SYMPTOM 3573 3612	pupilas eran isocóricas, normoreactivas
+T72	SYMPTOM 3625 3633	nistagmo
+T73	SYMPTOM 3911 3935	cefalea holocraneal leve
+T74	SYMPTOM 4199 4223	Función renal conservada
+T75	SYMPTOM 4272 4293	Iones en rango normal
+T76	SYMPTOM 5096 5103	cefalea
+T77	SYMPTOM 5113 5134	alteraciones visuales
+T78	SYMPTOM 6091 6112	alteraciones visuales
+T79	SYMPTOM 6153 6182	neurológicamente asintomático
+T80	SYMPTOM 2519 2543	injerto normofuncionante
+T81	SYMPTOM 2545 2611	fracción de eyección de ventrículo izquierdo y derecho preservadas
+T82	SYMPTOM 1206 1216	congestión
+T83	SYMPTOM 264 277	variante LMNA
+T84	SYMPTOM 1865 1884	toxoplasma negativo
+T85	SYMPTOM 1974 1998	citomegalovirus positivo
+T86	SYMPTOM 2891 2919	capaz de responder a órdenes
+T87	SYMPTOM 3550 3567	visión de sombras
+T88	SYMPTOM 3702 3764	capaz de movilizar de manera simétrica las cuatro extremidades
+T89	SYMPTOM 4867 4938	focos milimétricos de hipointensidad y distribución córtico-subcortical
+T90	MEDICATION 1129 1141	levosimendán
+T91	MEDICATION 1813 1825	norfloxacino
+T92	MEDICATION 1827 1836	nistatina
+T93	MEDICATION 1838 1850	cotrimoxazol
+T94	MEDICATION 1910 1924	valganciclovir
+T95	MEDICATION 2096 2107	basiliximab
+T96	MEDICATION 2167 2184	metilprednisolona
+T97	MEDICATION 2228 2238	prednisona
+T98	MEDICATION 2274 2284	Tacrolimus
+T99	MEDICATION 2385 2416	Micofenolato de mofetilo sódico
+T100	MEDICATION 3275 3283	diazepam
+T101	MEDICATION 3295 3308	levetiracetam
+T102	MEDICATION 5169 5179	tacrolimus
+T103	MEDICATION 5594 5604	tacrolimus
+T104	MEDICATION 5629 5641	ciclosporina
+T105	MEDICATION 5733 5745	micofenolato
+T106	MEDICATION 6386 6396	tacrolimus
+#1	AnnotatorNotes T16	 síndrome de encefalopatía posterior reversible
+#2	AnnotatorNotes T24	 síndrome de encefalopatía posterior reversible

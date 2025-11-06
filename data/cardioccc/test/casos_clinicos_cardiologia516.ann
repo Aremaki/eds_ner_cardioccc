@@ -1,0 +1,79 @@
+T1	ENFERMEDAD 2013 2066	Sigmoideas aórticas trivalvas, engrosadas, reumáticas
+T2	ENFERMEDAD 97 120	alergias medicamentosas
+T3	ENFERMEDAD 180 195	hábitos tóxicos
+T4	ENFERMEDAD 535 543	sincopes
+T5	ENFERMEDAD 2313 2336	estenosis mitral severa
+T6	ENFERMEDAD 2413 2441	Insuficiencia mitral trivial
+T7	ENFERMEDAD 2443 2460	Estenosis aórtica
+T8	ENFERMEDAD 2494 2515	Insuficiencia aórtica
+T9	ENFERMEDAD 2648 2672	Insuficiencia tricúspide
+T10	ENFERMEDAD 2761 2783	valvulopatía reumática
+T11	ENFERMEDAD 2916 2918	EM
+T12	ENFERMEDAD 2950 2962	valvulopatía
+T13	ENFERMEDAD 4202 4222	insuficiencia mitral
+T14	ENFERMEDAD 4422 4448	Polivalvulopatía reumática
+T15	ENFERMEDAD 4450 4473	estenosis mitral severa
+T16	ENFERMEDAD 4475 4495	doble lesión aórtica
+T17	ENFERMEDAD 4562 4583	Hipertensión pulmonar
+T18	ENFERMEDAD 1775 1814	aurícula izquierda severamente dilatada
+T19	ENFERMEDAD 1900 1952	Válvula mitral reumática con morfología de estenosis
+T20	ENFERMEDAD 2103 2144	Ventrículo izquierdo ligeramente dilatado
+T21	ENFERMEDAD 2800 2823	estenosis Mitral Severa
+T22	ENFERMEDAD 2701 2703	HP
+T23	ENFERMEDAD 2829 2831	HP
+T24	ENFERMEDAD 1630 1661	crecimiento auricular izquierdo
+T25	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T26	PROCEDIMIENTO 550 568	exploración física
+T27	PROCEDIMIENTO 688 709	Auscultación cardiaca
+T28	PROCEDIMIENTO 835 856	Auscultación pulmonar
+T29	PROCEDIMIENTO 1084 1087	ECG
+T30	PROCEDIMIENTO 1555 1575	Radiografía de tórax
+T31	PROCEDIMIENTO 1758 1773	Ecocardiografía
+T32	PROCEDIMIENTO 2304 2311	Doppler
+T33	PROCEDIMIENTO 2983 3014	comisurotomía mitral percutánea
+T34	PROCEDIMIENTO 3260 3291	cirugía de sustitución valvular
+T35	PROCEDIMIENTO 3313 3322	ecografía
+T36	PROCEDIMIENTO 3642 3673	comisurotomía mitral percutánea
+T37	PROCEDIMIENTO 3689 3727	comisurotomía empleando balón de Inoue
+T38	PROCEDIMIENTO 3733 3751	punción transeptal
+T39	PROCEDIMIENTO 4086 4101	ecocardiografía
+T40	PROCEDIMIENTO 3236 3239	CMP
+T41	PROCEDIMIENTO 1240 1249	Analítica
+T42	PROCEDIMIENTO 990 1009	Miembros inferiores
+T43	PROCEDIMIENTO 3016 3019	CMP
+T44	SINTOMA 465 483	disnea de esfuerzo
+T45	SINTOMA 517 531	dolor torácico
+T46	SINTOMA 606 625	buen estado general
+T47	SINTOMA 627 634	afebril
+T48	SINTOMA 636 654	eupneico en reposo
+T49	SINTOMA 714 739	ruidos cardiacos rítmicos
+T50	SINTOMA 741 766	refuerzo del primer ruido
+T51	SINTOMA 768 796	chasquido de apertura mitral
+T52	SINTOMA 858 887	murmullo vesicular conservado
+T53	SINTOMA 892 902	estertores
+T54	SINTOMA 904 932	Abdomen: blando y depresible
+T55	SINTOMA 974 988	organomegalias
+T56	SINTOMA 1011 1045	pulsos pedios presentes simétricos
+T57	SINTOMA 1051 1057	edemas
+T58	SINTOMA 1089 1102	ritmo sinusal
+T59	SINTOMA 1126 1185	onda P mellada en II,III y aVF y en precordiales izquierdas
+T60	SINTOMA 1187 1214	onda q no patológica en aVL
+T61	SINTOMA 1577 1620	índice cardiotorácico ligeramente aumentado
+T62	SINTOMA 1825 1848	Aurícula derecha normal
+T63	SINTOMA 2180 2216	FSVI global y segmentaria conservada
+T64	SINTOMA 4504 4557	Función sistólica del ventrículo izquierdo conservada
+T65	SINTOMA 1216 1238	ventriculograma normal
+T66	SINTOMA 1695 1721	Senos costofrénicos libres
+T67	SINTOMA 1850 1898	Raíz aórtica, aorta ascendente y cayado normales
+T68	SINTOMA 2228 2253	Ventrículo derecho normal
+T69	SINTOMA 2268 2302	Pericardio y sistema cava normales
+T70	SINTOMA 1742 1756	condensaciones
+T71	SINTOMA 1727 1738	infiltrados
+T72	SINTOMA 1670 1693	redistribución vascular
+T73	SINTOMA 399 434	sensación de "ruidos en el corazón"
+T74	SINTOMA 799 833	retumbo diastólico audible en ápex
+T75	SINTOMA 2255 2266	SIA íntegro
+#1	AnnotatorNotes T11	estenosis mitral
+#2	AnnotatorNotes T22	hipertensión pulmonar
+#3	AnnotatorNotes T23	hipertensión pulmonar
+#4	AnnotatorNotes T40	comisurotomía mitral percutánea

@@ -1,0 +1,78 @@
+T1	ENFERMEDAD 85 88	HTA
+T2	ENFERMEDAD 89 164	Insuficiencia renal crónica estadio III secundaria a reflujo vesicoureteral
+T3	ENFERMEDAD 601 607	BCRIHH
+T4	ENFERMEDAD 1314 1365	verruga endocárdica de 15x10 mm anclada al septo IV
+T5	ENFERMEDAD 1750 1779	focos infecciosos en pulmones
+T6	ENFERMEDAD 1938 1963	bloqueo de rama izquierda
+T7	ENFERMEDAD 2054 2073	verruga endocárdica
+T8	ENFERMEDAD 2158 2199	comunicación interventricular restrictiva
+T9	ENFERMEDAD 3131 3169	Endocarditis tricuspídea por S. aureus
+T10	ENFERMEDAD 3032 3035	CIV
+T11	ENFERMEDAD 1367 1408	Comunicación interventricular restrictiva
+T12	ENFERMEDAD 2551 2558	verruga
+T13	ENFERMEDAD 2812 2822	vegetación
+T14	ENFERMEDAD 2987 2997	vegetación
+T15	PROCEDIMIENTO 343 361	Exploración física
+T16	PROCEDIMIENTO 438 459	Auscultación cardiaca
+T17	PROCEDIMIENTO 496 517	Auscultación pulmonar
+T18	PROCEDIMIENTO 592 595	ECG
+T19	PROCEDIMIENTO 609 629	Radiografía de tórax
+T20	PROCEDIMIENTO 808 817	Hemograma
+T21	PROCEDIMIENTO 954 983	TC abdominal con cortes tórax
+T22	PROCEDIMIENTO 1218 1230	Hemocultivos
+T23	PROCEDIMIENTO 1262 1290	Ecocardiograma transtorácico
+T24	PROCEDIMIENTO 1424 1453	ecocardiograma transesofágico
+T25	PROCEDIMIENTO 1455 1484	Ecocardiograma transesofágico
+T26	PROCEDIMIENTO 1612 1624	hemocultivos
+T27	PROCEDIMIENTO 1689 1701	TC abdominal
+T28	PROCEDIMIENTO 1804 1816	hemocultivos
+T29	PROCEDIMIENTO 2009 2037	ecocardiograma transtorácico
+T30	PROCEDIMIENTO 2229 2243	antibioterapia
+T31	PROCEDIMIENTO 2380 2392	hemocultivos
+T32	PROCEDIMIENTO 2435 2463	ecocardiograma transtorácico
+T33	PROCEDIMIENTO 2504 2518	antibioterapia
+T34	PROCEDIMIENTO 2649 2672	tratamiento antibiótico
+T35	PROCEDIMIENTO 2693 2717	control ecocardiográfico
+T36	PROCEDIMIENTO 2757 2771	ecocardiograma
+T37	PROCEDIMIENTO 3104 3116	hemodiálisis
+T38	PROCEDIMIENTO 902 913	Coagulación
+T39	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDIMIENTO 2353 2377	reactantes de fase aguda
+T41	PROCEDIMIENTO 650 660	bioquímica
+T42	PROCEDIMIENTO 730 735	Gases
+T43	PROCEDIMIENTO 2971 2997	resección de la vegetación
+T44	PROCEDIMIENTO 3000 3036	cierre con sutura directa de la CIV.
+T45	PROCEDIMIENTO 639 648	Analítica
+T46	PROCEDIMIENTO 2884 2907	intervención quirúrgica
+T47	SINTOMA 203 209	fiebre
+T48	SINTOMA 212 219	vómitos
+T49	SINTOMA 244 260	malestar general
+T50	SINTOMA 262 283	dolores generalizados
+T51	SINTOMA 285 305	sensación distérmica
+T52	SINTOMA 307 318	escalofríos
+T53	SINTOMA 320 330	sudoración
+T54	SINTOMA 333 340	vómitos
+T55	SINTOMA 385 399	Normocoloreado
+T56	SINTOMA 401 410	hidratado
+T57	SINTOMA 413 423	perfundido
+T58	SINTOMA 424 432	Eupneico
+T59	SINTOMA 438 468	Auscultación cardiaca: rítmica
+T60	SINTOMA 473 488	soplo sistólico
+T61	SINTOMA 519 522	MVC
+T62	SINTOMA 545 566	irritación peritoneal
+T63	SINTOMA 597 599	RS
+T64	SINTOMA 609 637	Radiografía de tórax: normal
+T65	SINTOMA 1062 1075	nódulo en LID
+T66	SINTOMA 1218 1260	Hemocultivos: S. aureus meticilin sensible
+T67	SINTOMA 1544 1559	síndrome febril
+T68	SINTOMA 1804 1866	hemocultivos que resultan positivos para Staphylococcus aureus
+T69	SINTOMA 1966 1971	soplo
+T70	SINTOMA 2310 2317	afebril
+T71	SINTOMA 2319 2331	asintomático
+T72	SINTOMA 985 999	abdomen normal
+T73	SINTOMA 1881 1905	aislamiento de S. aureus
+T74	SINTOMA 2380 2422	hemocultivos de control seriados estériles
+T75	FARMACO 2248 2259	cloxacilina
+#1	AnnotatorNotes T3	 BCRIHH Bloqueo completo rama izq Haz de Hiz
+#2	AnnotatorNotes T10	 CIV comunicación interventricular
+#3	AnnotatorNotes T63	ritmo sinusal

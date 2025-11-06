@@ -1,0 +1,122 @@
+T1	DISEASE 207 217	exfumadora
+T2	DISEASE 295 324	pericarditis aguda idiopática
+T3	DISEASE 374 402	insuficiencia venosa crónica
+T4	DISEASE 404 415	rizartrosis
+T5	DISEASE 458 489	enfermedad de Dupuytren en mano
+T6	DISEASE 668 697	pericarditis aguda idiopática
+T7	DISEASE 1258 1278	episodios sincopales
+T8	DISEASE 2196 2228	calcificación del cayado aórtico
+T9	DISEASE 2294 2319	calcificación pericárdica
+T10	DISEASE 3199 3212	valvulopatías
+T11	DISEASE 3503 3522	derrame pericárdico
+T12	DISEASE 3548 3569	hipertensión pulmonar
+T13	DISEASE 4079 4098	derrame pericárdico
+T14	DISEASE 4640 4660	regurgitación mitral
+T15	DISEASE 4950 4975	pericarditis constrictiva
+T16	DISEASE 5791 5862	adherencias pericárdicas graves con un engrosamiento pericárdico severo
+T17	DISEASE 5958 5983	calcificación pericárdica
+T18	DISEASE 6319 6350	Pericarditis constrictiva focal
+T19	DISEASE 3156 3181	Regurgitación tricuspídea
+T20	DISEASE 6202 6225	episodios presincopales
+T21	DISEASE 1710 1723	hepatomegalia
+T22	DISEASE 700 724	derrame pericárdico leve
+T23	DISEASE 1091 1102	presíncopes
+T24	DISEASE 2321 2335	Cifosis dorsal
+T25	DISEASE 3279 3306	Vena cava inferior dilatada
+T26	DISEASE 3350 3380	venas suprahepáticas dilatadas
+T27	DISEASE 3965 3999	dilatación de venas suprahepáticas
+T28	DISEASE 5288 5299	presíncopes
+T29	DISEASE 6070 6106	engrosamiento fibroso del pericardio
+T30	DISEASE 5110 5159	engrosamiento focal del pericardio a nivel del VD
+T31	DISEASE 3795 3826	Engrosamiento focal pericárdico
+T32	DISEASE 3042 3065	anclamiento pericárdico
+T33	PROCEDURE 68 86	exploración física
+T34	PROCEDURE 762 790	tratamiento antiinflamatorio
+T35	PROCEDURE 1281 1299	Exploración física
+T36	PROCEDURE 1511 1532	Auscultación cardiaca
+T37	PROCEDURE 1596 1617	Auscultación pulmonar
+T38	PROCEDURE 1816 1834	Electrocardiograma
+T39	PROCEDURE 1836 1839	ECG
+T40	PROCEDURE 2032 2052	Radiografía de tórax
+T41	PROCEDURE 2337 2356	Analítica sanguínea
+T42	PROCEDURE 2358 2367	Hemograma
+T43	PROCEDURE 2483 2494	Coagulación
+T44	PROCEDURE 2678 2693	perfil tiroideo
+T45	PROCEDURE 2750 2778	Ecocardiograma transtorácico
+T46	PROCEDURE 3574 3598	estudio ecocardiográfico
+T47	PROCEDURE 3600 3629	Resonancia Magnética cardiaca
+T48	PROCEDURE 4100 4130	Cateterismo cardiaco izquierdo
+T49	PROCEDURE 4200 4228	Cateterismo cardiaco derecho
+T50	PROCEDURE 4549 4565	Ventriculografía
+T51	PROCEDURE 4736 4755	analítica sanguínea
+T52	PROCEDURE 4891 4905	ecocardiograma
+T53	PROCEDURE 5058 5087	resonancia magnética cardiaca
+T54	PROCEDURE 5432 5462	estudio hemodinámico izquierdo
+T55	PROCEDURE 5528 5556	cateterismo cardiaco derecho
+T56	PROCEDURE 5666 5682	cirugía cardiaca
+T57	PROCEDURE 5998 6027	pericardiectomía interfrénica
+T58	PROCEDURE 6047 6066	anatomía patológica
+T59	PROCEDURE 6415 6444	Pericardiectomía interfrénica
+T60	PROCEDURE 2536 2546	Bioquímica
+T61	PROCEDURE 132 150	EXPLORACIÓN FÍSICA
+T62	PROCEDURE 2630 2635	iones
+T63	PROCEDURE 5729 5741	intervención
+T64	PROCEDURE 6148 6160	intervención
+T65	PROCEDURE 443 499	intervenida de enfermedad de Dupuytren en mano izquierda
+T66	SYMPTOM 51 58	astenia
+T67	SYMPTOM 984 990	disnea
+T68	SYMPTOM 993 1023	astenia de moderados esfuerzos
+T69	SYMPTOM 1082 1088	mareos
+T70	SYMPTOM 1173 1181	ortopnea
+T71	SYMPTOM 1186 1213	disnea paroxística nocturna
+T72	SYMPTOM 1215 1218	DPN
+T73	SYMPTOM 1224 1232	oliguria
+T74	SYMPTOM 1240 1254	dolor torácico
+T75	SYMPTOM 1314 1328	Normohidratada
+T76	SYMPTOM 1331 1345	normocoloreada
+T77	SYMPTOM 1347 1354	Afebril
+T78	SYMPTOM 1356 1364	Eupneica
+T79	SYMPTOM 1418 1478	Presión venosa yugular (PVY) elevada hasta ángulo mandibular
+T80	SYMPTOM 1483 1509	signo de Kussmaul presente
+T81	SYMPTOM 1534 1559	ruidos cardiacos rítmicos
+T82	SYMPTOM 1619 1648	murmullo vesicular conservado
+T83	SYMPTOM 1674 1701	Abdomen: blando, depresible
+T84	SYMPTOM 1737 1759	MMII: pulsos presentes
+T85	SYMPTOM 1842 1855	ritmo sinusal
+T86	SYMPTOM 1876 1888	QRS estrecho
+T87	SYMPTOM 1898 1951	Onda T negativa asimétrica en cara inferior y lateral
+T88	SYMPTOM 2164 2187	redistribución vascular
+T89	SYMPTOM 2780 2817	ventrículo izquierdo de tamaño normal
+T90	SYMPTOM 2839 2867	función sistólica conservada
+T91	SYMPTOM 2943 2968	Función diastólica normal
+T92	SYMPTOM 2970 3005	Ventrículo derecho de tamaño normal
+T93	SYMPTOM 3455 3486	Pericardio aparentemente normal
+T94	SYMPTOM 3631 3673	ventrículo izquierdo (VI) de tamaño normal
+T95	SYMPTOM 3701 3755	Ventrículo derecho (VD) de tamaño y funciones normales
+T96	SYMPTOM 3757 3793	Cámaras auriculares de tamaño normal
+T97	SYMPTOM 3795 3826	Engrosamiento focal pericárdico
+T98	SYMPTOM 5007 5014	astenia
+T99	SYMPTOM 6187 6194	astenia
+T100	SYMPTOM 6381 6413	Función biventricular conservada
+T101	SYMPTOM 1785 1790	edema
+T102	SYMPTOM 2390 2417	fórmula leucocitaria normal
+T103	SYMPTOM 6119 6130	inflamación
+T104	SYMPTOM 2630 2644	iones normales
+T105	SYMPTOM 1564 1585	knock protodiastólico
+T106	SYMPTOM 1966 1998	sobrecarga ventricular izquierda
+T107	SYMPTOM 2000 2030	QTc dentro de límites normales
+T108	SYMPTOM 2054 2110	índice cardiotorácico en el límite alto de la normalidad
+T109	SYMPTOM 2230 2288	Pinzamiento de ambos senos costodiafragmáticos posteriores
+T110	SYMPTOM 2678 2748	perfil tiroideo y niveles de colesterol dentro de los límites normales
+T111	SYMPTOM 2898 2941	anomalías segmentarias de la contractilidad
+T112	SYMPTOM 4567 4586	VI de tamaño normal
+T113	SYMPTOM 1703 1735	ligera hepatomegalia no dolorosa
+T114	SYMPTOM 2112 2150	Cono de la arteria pulmonar prominente
+T115	SYMPTOM 3678 3693	FEVI conservada
+T116	SYMPTOM 3925 3960	Vena cava inferior (VCI) prominente
+T117	SYMPTOM 4132 4165	arterias coronarias sin estenosis
+T118	SYMPTOM 4736 4794	analítica sanguínea con parámetros dentro de la normalidad
+T119	SYMPTOM 5302 5312	bajo gasto
+T120	SYMPTOM 5474 5507	arterias coronarias sin estenosis
+T121	MEDICATION 566 584	condroitin sulfato
+T122	MEDICATION 586 597	paracetamol

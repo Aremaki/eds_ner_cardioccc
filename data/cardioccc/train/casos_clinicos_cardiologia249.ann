@@ -1,0 +1,179 @@
+T1	DISEASE 187 208	hipertensión arterial
+T2	DISEASE 213 230	diabetes mellitus
+T3	DISEASE 235 245	dislipemia
+T4	DISEASE 319 327	Obesidad
+T5	DISEASE 419 491	Enfermedad pulmonar obstructiva crónica tipo bronquitis crónica moderada
+T6	DISEASE 585 608	Adenocarcinoma de colon
+T7	DISEASE 855 886	Hipertrofia benigna de próstata
+T8	DISEASE 1149 1160	broncopatía
+T9	DISEASE 1895 1903	flebitis
+T10	DISEASE 1989 2027	dilatación y disfunción biventricular,
+T11	DISEASE 2037 2057	regurgitación mitral
+T12	DISEASE 3312 3341	Regurgitación mitral moderada
+T13	DISEASE 3497 3526	disfunción ventricular ligera
+T14	DISEASE 3542 3574	Insuficiencia tricuspídea ligera
+T15	DISEASE 3774 3828	DA con enfermedad grave proximal y media con estenosis
+T16	DISEASE 4363 4379	edema miocárdico
+T17	DISEASE 5045 5076	fibrosis lineal intramiocárdica
+T18	DISEASE 5610 5643	lesión en primera obtusa marginal
+T19	DISEASE 6339 6377	disfunción ventricular izquierda grave
+T20	DISEASE 6562 6584	disfunción ventricular
+T21	DISEASE 6634 6655	enfermedad de 3 vasos
+T22	DISEASE 6844 6905	enfermedad pulmonar obstructiva crónica [EPOC] moderada-grave
+T23	DISEASE 6885 6889	EPOC
+T24	DISEASE 6907 6915	obesidad
+T25	DISEASE 6917 6945	disfunción ventricular grave
+T26	DISEASE 7767 7783	hábito tabáquico
+T27	DISEASE 7924 7957	fibrilación auricular paroxística
+T28	DISEASE 8848 8870	insuficiencia cardiaca
+T29	DISEASE 9051 9117	Insuficiencia cardiaca aguda por miocardiopatía dilatada isquémica
+T30	DISEASE 9122 9160	disfunción ventricular izquierda grave
+T31	DISEASE 9190 9224	Enfermedad coronaria de tres vasos
+T32	DISEASE 9256 9289	Fibrilación auricular paroxística
+T33	DISEASE 9487 9528	EPOC moderada fenotipo bronquitis crónica
+T34	DISEASE 9530 9540	Tabaquismo
+T35	DISEASE 9553 9561	Obesidad
+T36	DISEASE 3272 3310	Aurícula izquierda gravemente dilatada
+T37	DISEASE 247 254	Fumador
+T38	DISEASE 3381 3408	Válvula aórtica esclerosada
+T39	DISEASE 2944 2959	daño miocárdico
+T40	DISEASE 3030 3073	ventrículo izquierdo moderadamente dilatado
+T41	DISEASE 3693 3746	tronco coronario izquierdo calcificado, con estenosis
+T42	DISEASE 3846 3912	Lesión en límite de la significación en arteria circunfleja ostial
+T43	DISEASE 3967 4003	Arteria coronaria derecha con lesión
+T44	DISEASE 4713 4750	Aurícula izquierda levemente dilatada
+T45	DISEASE 9021 9036	descompensación
+T46	DISEASE 5357 5378	lesiones graves de DA
+T47	DISEASE 3921 3965	lesión significativa en primer ramo marginal
+T48	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDURE 668 700	colectomía derecha laparoscopica
+T50	PROCEDURE 703 726	quimioterapia adyuvante
+T51	PROCEDURE 807 820	colonoscopias
+T52	PROCEDURE 1345 1363	Exploración física
+T53	PROCEDURE 1497 1518	Auscultación cardiaca
+T54	PROCEDURE 1598 1619	Auscultación pulmonar
+T55	PROCEDURE 1718 1736	palpación profunda
+T56	PROCEDURE 1908 1947	ecocardioscopia realizada a pie de cama
+T57	PROCEDURE 2159 2177	Electrocardiograma
+T58	PROCEDURE 2371 2432	Radiografía de tórax a su ingreso: proyección posteroanterior
+T59	PROCEDURE 2605 2614	Hemograma
+T60	PROCEDURE 3014 3028	Ecocardiograma
+T61	PROCEDURE 3674 3689	Coronariografía
+T62	PROCEDURE 4067 4110	Resonancia magnética nuclear (RMN) cardiaca
+T63	PROCEDURE 4333 4348	secuencias STIR
+T64	PROCEDURE 4944 4989	Estudio de detección de necrosis y viabilidad
+T65	PROCEDURE 5198 5213	Coronariografía
+T66	PROCEDURE 5302 5341	angiografía por acceso radial izquierdo
+T67	PROCEDURE 5515 5527	IVUS aostium
+T68	PROCEDURE 5750 5794	predilatación de lesión en segmento proximal
+T69	PROCEDURE 5797 5856	implantación de stent farmacoactivo liberador de everolimus
+T70	PROCEDURE 5944 6011	Hemostasia femoral con dispositivo de sutura intravascular Proglide
+T71	PROCEDURE 6078 6100	tratamiento deplectivo
+T72	PROCEDURE 6288 6302	ecocardiograma
+T73	PROCEDURE 6596 6611	coronariografía
+T74	PROCEDURE 6693 6705	RMN cardiaca
+T75	PROCEDURE 7023 7051	revascularización quirúrgica
+T76	PROCEDURE 7064 7125	revascularización percutánea asistida con dispositivo Impella
+T77	PROCEDURE 7905 7923	electrocardiograma
+T78	PROCEDURE 8033 8060	cardioversión farmacológica
+T79	PROCEDURE 8274 8353	revascularización percutánea con asistencia mecánica con dispositivo Impella CP
+T80	PROCEDURE 8726 8743	revascularización
+T81	PROCEDURE 8937 8951	ecocardiograma
+T82	PROCEDURE 9171 9183	RMN cardiaca
+T83	PROCEDURE 9322 9373	ICP de alto riesgo asistido con dispositivo Impella
+T84	PROCEDURE 9381 9447	revascularización completa (DA proximal, DA media, CD distal y 1OM
+T85	PROCEDURE 2766 2776	Bioquímica
+T86	PROCEDURE 2712 2722	Hemostasia
+T87	PROCEDURE 2927 2959	biomarcadores de daño miocárdico
+T88	PROCEDURE 6537 6584	estudio etiológico de la disfunción ventricular
+T89	PROCEDURE 4097 4100	RMN
+T90	PROCEDURE 5381 5441	se implantan stents farmacoactivos liberadores de everolimus
+T91	PROCEDURE 5620 5690	primera obtusa marginal constent farmacoactivo liberador de everolimus
+T92	PROCEDURE 5897 5926	se retira dispositivo Impella
+T93	PROCEDURE 2581 2590	Analítica
+T94	PROCEDURE 5004 5031	realce tardío con gadolinio
+T95	PROCEDURE 5343 5378	Se predilatan lesiones graves de DA
+T96	PROCEDURE 5230 5289	se posiciona dispositivo Impella por acceso femoral derecho
+T97	PROCEDURE 5467 5501	Se cruza guía a circunfleja distal
+T98	PROCEDURE 5723 5748	Se cruza guía a CD distal
+T99	PROCEDURE 8066 8106	bolo intravenoso de 300 mg de amiodarona
+T100	SYMPTOM 127 133	disnea
+T101	SYMPTOM 1073 1079	disnea
+T102	SYMPTOM 1178 1194	disnea en reposo
+T103	SYMPTOM 1207 1215	ortopnea
+T104	SYMPTOM 1257 1293	edematización de miembros inferiores
+T105	SYMPTOM 1296 1341	disminución subjetiva del volumen de diuresis
+T106	SYMPTOM 1497 1527	Auscultación cardiaca: rítmico
+T107	SYMPTOM 1533 1596	soplo sistólico piante en foco mitral III/VI, irradiado a axila
+T108	SYMPTOM 1621 1669	crepitantes bilaterales en campos medios y bases
+T109	SYMPTOM 1671 1736	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T110	SYMPTOM 1741 1746	masas
+T111	SYMPTOM 1750 1758	megalias
+T112	SYMPTOM 1805 1826	edemas hasta rodillas
+T113	SYMPTOM 1837 1880	pulsos periféricos conservados y simétricos
+T114	SYMPTOM 2179 2192	ritmo sinusal
+T115	SYMPTOM 2203 2215	QRS estrecho
+T116	SYMPTOM 2228 2252	Descenso del segmento ST
+T117	SYMPTOM 2293 2335	Onda T negativa asimétrica en cara lateral
+T118	SYMPTOM 2434 2465	Índice cardiotorácico aumentado
+T119	SYMPTOM 2495 2524	Hilios pulmonares prominentes
+T120	SYMPTOM 3030 3097	ventrículo izquierdo moderadamente dilatado, con espesores normales
+T121	SYMPTOM 3099 3117	Hipocinesia global
+T122	SYMPTOM 3190 3259	presiones telediastólicas del ventrículo izquierdo estimadas normales
+T123	SYMPTOM 3454 3494	Ventrículo derecho de diámetros normales
+T124	SYMPTOM 4112 4156	ventrículo izquierdo de volúmenes aumentados
+T125	SYMPTOM 4189 4216	hipertrofia excéntrica leve
+T126	SYMPTOM 4233 4264	hipocinesia global generalizada
+T127	SYMPTOM 4267 4313	depresión grave de la función global sistólica
+T128	SYMPTOM 4445 4491	función global sistólica ligeramente deprimida
+T129	SYMPTOM 6207 6223	disnea en reposo
+T130	SYMPTOM 7712 7727	pérdida de peso
+T131	SYMPTOM 7850 7863	palpitaciones
+T132	SYMPTOM 8821 8827	disnea
+T133	SYMPTOM 8803 8815	asintomático
+T134	SYMPTOM 623 631	p3T3N1M0
+T135	SYMPTOM 1760 1790	Reflujo hepatoyugular positivo
+T136	SYMPTOM 2276 2291	onda T negativa
+T137	SYMPTOM 2467 2493	Senos costofrénicos libres
+T138	SYMPTOM 3428 3452	Raíz aórtica no dilatada
+T139	SYMPTOM 4381 4411	Ventrículo derecho no dilatado
+T140	SYMPTOM 4496 4520	hipocinesia generalizada
+T141	SYMPTOM 4533 4593	Raíz aórtica de diámetros en el límite alto de la normalidad
+T142	SYMPTOM 2526 2579	Signos de redistribución vascular a campos superiores
+T143	SYMPTOM 3133 3185	Llenado transmitral tipo alteración de la relajación
+T144	SYMPTOM 4911 4932	defectos de perfusión
+T145	SYMPTOM 2349 2369	sobrecarga sistólica
+T146	SYMPTOM 3381 3426	Válvula aórtica esclerosada, normofuncionante
+T147	SYMPTOM 4622 4663	dilatación moderada de la porción tubular
+T148	SYMPTOM 4792 4837	Resistencias vasculares pulmonares aumentadas
+T149	MEDICATION 731 745	5-fluoruracilo
+T150	MEDICATION 748 760	oxaliplatino
+T151	MEDICATION 910 921	tamsulosina
+T152	MEDICATION 924 936	solifenacina
+T153	MEDICATION 5431 5441	everolimus
+T154	MEDICATION 5680 5690	everolimus
+T155	MEDICATION 5846 5856	everolimus
+T156	MEDICATION 6125 6135	furosemida
+T157	MEDICATION 6416 6425	enalapril
+T158	MEDICATION 6442 6452	bisoprolol
+T159	MEDICATION 6470 6485	espironolactona
+T160	MEDICATION 7277 7299	ácido acetilsalicílico
+T161	MEDICATION 7315 7324	enalapril
+T162	MEDICATION 7340 7350	bisoprolol
+T163	MEDICATION 7366 7381	espironolactona
+T164	MEDICATION 7396 7406	furosemida
+T165	MEDICATION 7502 7513	tamsulosina
+T166	MEDICATION 7516 7528	solifenacina
+T167	MEDICATION 7622 7635	atorvastatina
+T168	MEDICATION 7650 7661	pantoprazol
+T169	MEDICATION 8096 8106	amiodarona
+T170	MEDICATION 8143 8151	apixabán
+T171	MEDICATION 8203 8213	amiodarona
+T172	MEDICATION 8403 8414	clopidogrel
+T173	MEDICATION 8544 8555	clopidogrel
+T174	MEDICATION 8600 8603	AAS
+T175	MEDICATION 8606 8617	clopidogrel
+T176	MEDICATION 8620 8628	apixabán
+T177	MEDICATION 8663 8685	acido acetilsalicílico
+T178	MEDICATION 968 992	Salmeterol + fluticasona
+T179	MEDICATION 7559 7583	salmeterol + fluticasona

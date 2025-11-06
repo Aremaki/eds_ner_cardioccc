@@ -1,0 +1,108 @@
+T1	ENFERMEDAD 506 517	cardiopatía
+T2	ENFERMEDAD 799 850	síncopes de repetición en relación con el ejercicio
+T3	ENFERMEDAD 1417 1425	síncopes
+T4	ENFERMEDAD 2249 2272	displasia arritmogénica
+T5	ENFERMEDAD 2765 2795	malformación de Chiari tipo I.
+T6	ENFERMEDAD 4158 4177	síndrome de Brugada
+T7	ENFERMEDAD 4754 4766	hidrocefalia
+T8	ENFERMEDAD 4770 4794	lesiones intracerebrales
+T9	ENFERMEDAD 4823 4836	Arnold-Chiari
+T10	ENFERMEDAD 5089 5111	Síncopes de repetición
+T11	ENFERMEDAD 5128 5158	malformación de Chiari tipo I.
+T12	ENFERMEDAD 369 392	alergias medicamentosas
+T13	ENFERMEDAD 3214 3248	bloqueo incompleto de rama derecha
+T14	ENFERMEDAD 4296 4311	pseudoaneurisma
+T15	ENFERMEDAD 963 991	síncope de perfil vaso-vagal
+T16	ENFERMEDAD 993 1000	síncope
+T17	ENFERMEDAD 1870 1904	síncope con hipotensión muy severa
+T18	ENFERMEDAD 445 460	hábitos tóxitos
+T19	ENFERMEDAD 4332 4362	infiltración grasa de la pared
+T20	ENFERMEDAD 2315 2340	patrón de Brugada tipo II
+T21	PROCEDIMIENTO 275 293	exploración física
+T22	PROCEDIMIENTO 1290 1293	ECG
+T23	PROCEDIMIENTO 1295 1315	radiografía de tórax
+T24	PROCEDIMIENTO 1317 1331	ecocardiograma
+T25	PROCEDIMIENTO 1348 1351	ECG
+T26	PROCEDIMIENTO 1354 1364	ergometría
+T27	PROCEDIMIENTO 1676 1686	ergometría
+T28	PROCEDIMIENTO 1856 1859	ECG
+T29	PROCEDIMIENTO 1924 1959	monitorización electrocardiográfica
+T30	PROCEDIMIENTO 2213 2225	RNM cardiaca
+T31	PROCEDIMIENTO 2274 2292	test de flecainida
+T32	PROCEDIMIENTO 2308 2311	ECG
+T33	PROCEDIMIENTO 2345 2368	test de mesa basculante
+T34	PROCEDIMIENTO 2374 2393	estudio neurológico
+T35	PROCEDIMIENTO 2437 2449	RNM cardiaca
+T36	PROCEDIMIENTO 2488 2506	test de flecainida
+T37	PROCEDIMIENTO 2512 2532	electroencefalograma
+T38	PROCEDIMIENTO 2583 2594	RNM craneal
+T39	PROCEDIMIENTO 2797 2815	Exploración física
+T40	PROCEDIMIENTO 3184 3187	ECG
+T41	PROCEDIMIENTO 3326 3337	Rx de tórax
+T42	PROCEDIMIENTO 3418 3432	Ecocardiograma
+T43	PROCEDIMIENTO 3830 3840	Ergometría
+T44	PROCEDIMIENTO 3984 4002	Test de flecainida
+T45	PROCEDIMIENTO 4182 4193	RM cardiaca
+T46	PROCEDIMIENTO 4465 4485	Electroencefalograma
+T47	PROCEDIMIENTO 4623 4634	RM cerebral
+T48	PROCEDIMIENTO 4908 4933	craniectomía suboccipital
+T49	PROCEDIMIENTO 4936 4954	laminectomía de C1
+T50	PROCEDIMIENTO 2915 2918	ACR
+T51	PROCEDIMIENTO 1333 1347	monitorización
+T52	SINTOMA 158 179	pérdida de conciencia
+T53	SINTOMA 696 717	pérdida de conciencia
+T54	SINTOMA 955 960	mareo
+T55	SINTOMA 1014 1032	malestar abdominal
+T56	SINTOMA 1034 1041	náuseas
+T57	SINTOMA 1044 1049	mareo
+T58	SINTOMA 1107 1114	cefalea
+T59	SINTOMA 1144 1147	tos
+T60	SINTOMA 1174 1180	disnea
+T61	SINTOMA 1182 1196	dolor torácico
+T62	SINTOMA 1200 1213	palpitaciones
+T63	SINTOMA 1602 1622	episodios sincopales
+T64	SINTOMA 2041 2059	malestar abdominal
+T65	SINTOMA 2837 2847	Consciente
+T66	SINTOMA 2850 2859	orientado
+T67	SINTOMA 2861 2875	Normohidratado
+T68	SINTOMA 2878 2893	normoperfundido
+T69	SINTOMA 2895 2913	Eupneico en reposo
+T70	SINTOMA 2920 2934	tonos rítmicos
+T71	SINTOMA 2939 2945	soplos
+T72	SINTOMA 2956 2959	MVC
+T73	SINTOMA 2964 2984	ruidos sobreañadidos
+T74	SINTOMA 2986 3013	Abdomen: Blando, depresible
+T75	SINTOMA 3019 3024	masas
+T76	SINTOMA 3028 3036	megalias
+T77	SINTOMA 3041 3064	doloroso a la palpación
+T78	SINTOMA 3066 3125	Extremidades inferiores con pulsos conservados y simétricos
+T79	SINTOMA 3189 3202	Ritmo sinusal
+T80	SINTOMA 3253 3299	elevación del punto J en precordiales derechas
+T81	SINTOMA 3339 3391	Índice cardiotorácico dentro de los límites normales
+T82	SINTOMA 3396 3414	signos congestivos
+T83	SINTOMA 3613 3660	Llenado ventricular izquierdo con patrón normal
+T84	SINTOMA 3703 3741	Raíz aórtica y aorta ascendente normal
+T85	SINTOMA 4092 4097	mareo
+T86	SINTOMA 4112 4143	alteración electrocardiográfica
+T87	SINTOMA 4487 4555	Actividad bioeléctrica cerebral de base, de características normales
+T88	SINTOMA 4647 4680	descenso de amígdalas cerebelosas
+T89	SINTOMA 4685 4726	rectificación del suelo del IV ventrículo
+T90	SINTOMA 5054 5074	episodios sincopales
+T91	SINTOMA 3857 3876	contractura gemelar
+T92	SINTOMA 2630 2667	descenso de las amígdalas cerebelosas
+T93	SINTOMA 3488 3550	función sistólica global y segmentaria dentro de la normalidad
+T94	SINTOMA 3552 3582	Aurícula izquierda no dilatada
+T95	SINTOMA 3584 3611	Cavidades derechas normales
+T96	SINTOMA 4195 4225	Ventrículo derecho no dilatado
+T97	SINTOMA 3434 3482	Ventrículo izquierdo no dilatado ni hipertrófico
+T98	SINTOMA 127 142	desvanecimiento
+T99	SINTOMA 665 680	desvanecimiento
+T100	SINTOMA 4378 4395	disfunción del VD
+T101	SINTOMA 4393 4460	VD, con volúmenes y FE que se encuentran dentro de límites normales
+T102	SINTOMA 2437 2532	RNM cardiaca es informada como normal, así como el test de flecainida y el electroencefalograma
+T103	SINTOMA 2672 2713	rectificación del suelo del IV ventrículo
+T104	SINTOMA 3302 3322	intervalo QTc normal
+T105	SINTOMA 3665 3701	anomalías valvulares ni pericárdicas
+T106	SINTOMA 3743 3791	Septo interauricular e interventricular íntegros
+T107	SINTOMA 3796 3826	gradiente en aorta descendente
+T108	SINTOMA 4572 4619	anomalías paroxísticas focales ni generalizadas

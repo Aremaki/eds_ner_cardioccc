@@ -1,0 +1,147 @@
+T1	ENFERMEDAD 103 126	alergias medicamentosas
+T2	ENFERMEDAD 268 277	exfumador
+T3	ENFERMEDAD 290 301	dislipémico
+T4	ENFERMEDAD 334 343	sobrepeso
+T5	ENFERMEDAD 345 374	Cardiopatía isquémica crónica
+T6	ENFERMEDAD 376 419	infarto agudo de miocardio (IAM) q inferior
+T7	ENFERMEDAD 482 510	Pericarditis epistenocárdica
+T8	ENFERMEDAD 553 584	enfermedad coronaria de 2 vasos
+T9	ENFERMEDAD 636 639	IAM
+T10	ENFERMEDAD 707 755	Descendente anterior (DA) con estenosis moderada
+T11	ENFERMEDAD 978 986	isquemia
+T12	ENFERMEDAD 1340 1348	isquemia
+T13	ENFERMEDAD 2758 2783	trombosis venosa profunda
+T14	ENFERMEDAD 2836 2839	IAM
+T15	ENFERMEDAD 3294 3323	CD: estenosis grave por placa
+T16	ENFERMEDAD 3398 3401	IAM
+T17	ENFERMEDAD 3587 3609	DA: estenosis moderada
+T18	ENFERMEDAD 3937 3974	Leves insuficiencias mitral y aórtica
+T19	ENFERMEDAD 3983 4028	derrame pericárdico de 3 mm en saco posterior
+T20	ENFERMEDAD 4656 4664	isquemia
+T21	ENFERMEDAD 5183 5211	hipercolesterolemia familiar
+T22	ENFERMEDAD 5340 5368	hipercolesterolemia familiar
+T23	ENFERMEDAD 5717 5722	obeso
+T24	ENFERMEDAD 5725 5736	dislipémico
+T25	ENFERMEDAD 5803 5815	IAM inferior
+T26	ENFERMEDAD 6109 6165	isquemia inducible en territorio de descendente anterior
+T27	ENFERMEDAD 6958 6986	hipercolesterolemia familiar
+T28	ENFERMEDAD 7251 7280	Cardiopatía isquémica crónica
+T29	ENFERMEDAD 7282 7296	IAM Q inferior
+T30	ENFERMEDAD 7314 7369	Enfermedad coronaria de 2 vasos (CD [responsable] y DA)
+T31	ENFERMEDAD 7470 7505	isquemia inducible en territorio DA
+T32	ENFERMEDAD 7524 7569	Hipercolesterolemia familiar en heterocigosis
+T33	ENFERMEDAD 7571 7599	Intolerancia a atorvastatina
+T34	ENFERMEDAD 4053 4056	IAM
+T35	ENFERMEDAD 3261 3292	enfermedad coronaria de 2 vasos
+T36	ENFERMEDAD 5696 5703	fumador
+T37	ENFERMEDAD 1545 1556	hipotensión
+T38	ENFERMEDAD 6389 6417	intolerancia a atorvastatina
+T39	PROCEDIMIENTO 531 546	Coronariografía
+T40	PROCEDIMIENTO 770 784	Ecocardiograma
+T41	PROCEDIMIENTO 860 891	Prueba de esfuerzo con isótopos
+T42	PROCEDIMIENTO 1362 1393	prueba de esfuerzo con isótopos
+T43	PROCEDIMIENTO 2366 2381	hipolipemiantes
+T44	PROCEDIMIENTO 2441 2459	EXPLORACIÓN FÍSICA
+T45	PROCEDIMIENTO 2595 2616	Auscultación cardiaca
+T46	PROCEDIMIENTO 2660 2681	Auscultación pulmonar
+T47	PROCEDIMIENTO 2810 2828	Electrocardiograma
+T48	PROCEDIMIENTO 2830 2833	ECG
+T49	PROCEDIMIENTO 3008 3011	ECG
+T50	PROCEDIMIENTO 3195 3198	ECG
+T51	PROCEDIMIENTO 3239 3254	Coronariografía
+T52	PROCEDIMIENTO 3453 3499	angioplastia coronaria transluminal percutánea
+T53	PROCEDIMIENTO 3501 3505	ACTP
+T54	PROCEDIMIENTO 3509 3546	implante de dos stents farmacoactivos
+T55	PROCEDIMIENTO 3671 3700	ecocardiografía intravascular
+T56	PROCEDIMIENTO 3702 3706	IVUS
+T57	PROCEDIMIENTO 3709 3723	Ecocardiograma
+T58	PROCEDIMIENTO 4030 4049	Analítica sanguínea
+T59	PROCEDIMIENTO 4063 4072	hemograma
+T60	PROCEDIMIENTO 4531 4562	Prueba de esfuerzo con isótopos
+T61	PROCEDIMIENTO 4700 4719	Analítica sanguínea
+T62	PROCEDIMIENTO 4744 4753	hemograma
+T63	PROCEDIMIENTO 4989 5008	Analítica sanguínea
+T64	PROCEDIMIENTO 5163 5211	Estudio genético de hipercolesterolemia familiar
+T65	PROCEDIMIENTO 5505 5524	Analítica sanguínea
+T66	PROCEDIMIENTO 6064 6087	ergometría con isótopos
+T67	PROCEDIMIENTO 6192 6225	intervención coronaria percutánea
+T68	PROCEDIMIENTO 6227 6230	ICP
+T69	PROCEDIMIENTO 6257 6266	anamnesis
+T70	PROCEDIMIENTO 6798 6813	hipolipemiantes
+T71	PROCEDIMIENTO 6938 6986	estudio genético de hipercolesterolemia familiar
+T72	PROCEDIMIENTO 7405 7456	ICP con implante de dos stents farmacoactivos en CD
+T73	PROCEDIMIENTO 1720 1728	estatina
+T74	PROCEDIMIENTO 4148 4158	Bioquímica
+T75	PROCEDIMIENTO 4763 4773	Bioquímica
+T76	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T77	PROCEDIMIENTO 4418 4451	Marcadores de necrosis miocárdica
+T78	PROCEDIMIENTO 322 331	estatinas
+T79	PROCEDIMIENTO 7371 7383	fibrinolisis
+T80	PROCEDIMIENTO 376 451	infarto agudo de miocardio (IAM) q inferior en marzo de 2014, fibrinolizado
+T81	PROCEDIMIENTO 586 705	Coronaria derecha (CD) grave (arteria responsable IAM): implante de dos stents farmacoactivos a nivel proximal y distal
+T82	SINTOMA 794 809	FEVI preservada
+T83	SINTOMA 815 858	hipocinesia septo inferior e inferior basal
+T84	SINTOMA 1263 1275	asintomático
+T85	SINTOMA 1308 1322	dolor torácico
+T86	SINTOMA 1545 1556	hipotensión
+T87	SINTOMA 1778 1833	niveles elevados de lipoproteína A, apoB y homocistenia
+T88	SINTOMA 1852 1860	mialgias
+T89	SINTOMA 1898 1920	elevación de CPK y AST
+T90	SINTOMA 2152 2202	alteraciones analíticas en el metabolismo lipídico
+T91	SINTOMA 2224 2275	asintomático desde el punto de vista cardiovascular
+T92	SINTOMA 2299 2315	mialgias ligeras
+T93	SINTOMA 2565 2593	ingurgitación venosa yugular
+T94	SINTOMA 2618 2633	ruidos rítmicos
+T95	SINTOMA 2638 2644	soplos
+T96	SINTOMA 2648 2658	extratonos
+T97	SINTOMA 2660 2689	Auscultación pulmonar: normal
+T98	SINTOMA 2691 2707	Abdomen: anodino
+T99	SINTOMA 2709 2744	Extremidades inferiores: sin edemas
+T100	SINTOMA 2871 2880	PR normal
+T101	SINTOMA 2882 2894	QRS estrecho
+T102	SINTOMA 3030 3043	ritmo sinusal
+T103	SINTOMA 3054 3063	PR normal
+T104	SINTOMA 3065 3077	QRS estrecho
+T105	SINTOMA 3079 3090	qR inferior
+T106	SINTOMA 3227 3237	QTc normal
+T107	SINTOMA 3746 3795	ventrículo izquierdo no dilatado ni hipertrofiado
+T108	SINTOMA 3835 3863	función sistólica preservada
+T109	SINTOMA 4744 4761	hemograma: normal
+T110	SINTOMA 5163 5221	Estudio genético de hipercolesterolemia familiar: positivo
+T111	SINTOMA 6045 6059	dolor torácico
+T112	SINTOMA 6275 6284	debilidad
+T113	SINTOMA 6287 6311	mialgias en extremidades
+T114	SINTOMA 6336 6358	elevación de AST y CPK
+T115	SINTOMA 6624 6674	alteraciones analíticas en el metabolismo lipídico
+T116	SINTOMA 6696 6747	asintomático desde el punto de vista cardiovascular
+T117	SINTOMA 7507 7522	FEVI preservada
+T118	SINTOMA 2847 2860	ritmo sinusal
+T119	SINTOMA 3877 3935	hipocinesia de septo inferior y de segmento inferior basal
+T120	SINTOMA 5705 5715	sedentario
+T121	SINTOMA 2896 2906	eje normal
+T122	SINTOMA 860 929	Prueba de esfuerzo con isótopos al mes del alta con necrosis inferior
+T123	SINTOMA 4531 4608	Prueba de esfuerzo con isótopos (un mes posterior al alta): necrosis inferior
+T124	SINTOMA 5223 5296	Heterocigosis de la variante c.2478del, p.(Val827Serfs*102), del gen LDLR
+T125	SINTOMA 5370 5452	Heterocigosis: polimorfismo rs4149056 en el gen SLCO1B1 y rs17244841 del gen HMGCR
+T126	SINTOMA 5454 5503	Homocigosis: polimorfismo rs2032582 del gen ABCB1
+T127	SINTOMA 6938 7007	estudio genético de hipercolesterolemia familiar que resulta positivo
+T128	FARMACO 1049 1071	ácido acetilsalicílico
+T129	FARMACO 1089 1100	clopidogrel
+T130	FARMACO 1117 1127	bisoprolol
+T131	FARMACO 1144 1157	atorvastatina
+T132	FARMACO 1576 1587	clopidogrel
+T133	FARMACO 1761 1774	atorvastatina
+T134	FARMACO 1981 1994	atorvastatina
+T135	FARMACO 1999 2012	rosuvastatina
+T136	FARMACO 2035 2044	ezetimiba
+T137	FARMACO 5756 5768	simvastatina
+T138	FARMACO 5896 5904	estatina
+T139	FARMACO 6404 6417	atorvastatina
+T140	FARMACO 6447 6460	rosuvastatina
+T141	FARMACO 6483 6492	ezetimiba
+T142	FARMACO 7082 7092	evolocumab
+T143	FARMACO 7586 7599	atorvastatina
+T144	FARMACO 1479 1483	IECA
+T145	FARMACO 5549 5555	iPCSK9
+T146	FARMACO 1422 1477	inhibidor de la enzima de conversión de la angiotensina
+T147	FARMACO 7059 7080	inhibidor de la PCSK9

@@ -1,0 +1,96 @@
+T1	DISEASE 2345 2421	Ventrículo izquierdo (VI) de tamaño normal, con hipertrofia leve concéntrica
+T2	DISEASE 42 75	alérgica a penicilina y metamizol
+T3	DISEASE 184 205	hipertensión arterial
+T4	DISEASE 207 236	fibrilación auricular crónica
+T5	DISEASE 333 374	estenosis valvular mitral reumática grave
+T6	DISEASE 815 821	anemia
+T7	DISEASE 873 892	patología digestiva
+T8	DISEASE 948 954	anemia
+T9	DISEASE 1186 1215	disfunción valvular protésica
+T10	DISEASE 1641 1669	insuficiencia venosa crónica
+T11	DISEASE 2639 2673	endocarditis sobre prótesis mitral
+T12	DISEASE 2770 2793	anemia hemolítica grave
+T13	DISEASE 2946 3005	fuga perivalvular de novo con insuficiencia mitral moderada
+T14	DISEASE 3050 3067	leak paravalvular
+T15	DISEASE 3163 3186	endocarditis infecciosa
+T16	DISEASE 3702 3719	anemia hemolítica
+T17	DISEASE 3794 3800	anemia
+T18	DISEASE 3819 3838	disfunción valvular
+T19	DISEASE 4237 4311	Endocarditis infecciosa tardía sobre prótesis mitral por Coxiella burnetii
+T20	DISEASE 4313 4355	Anemia hemolítica por disfunción protésica
+T21	DISEASE 4378 4396	fuga periprotésica
+T22	DISEASE 3750 3767	cuadro infeccioso
+T23	DISEASE 2158 2222	prótesis mitral normofuncionante con leak periprotésico moderado
+T24	DISEASE 2463 2518	Dilatación y discreta disfunción del ventrículo derecho
+T25	DISEASE 4105 4121	eak paravalvular
+T26	PROCEDURE 1374 1395	Auscultación cardiaca
+T27	PROCEDURE 1476 1497	Auscultación pulmonar
+T28	PROCEDURE 2055 2064	Hemograma
+T29	PROCEDURE 2126 2156	Ecocardiografía transesofágica
+T30	PROCEDURE 2525 2532	PET-TAC
+T31	PROCEDURE 2675 2682	PET-TAC
+T32	PROCEDURE 2899 2928	ecocardiograma transesofágico
+T33	PROCEDURE 3082 3089	PET-TAC
+T34	PROCEDURE 3251 3263	hemocultivos
+T35	PROCEDURE 3304 3327	tratamiento antibiótico
+T36	PROCEDURE 3399 3422	tratamiento antibiótico
+T37	PROCEDURE 3558 3565	PET-TAC
+T38	PROCEDURE 4004 4042	trasfusiones de sangre y hemoderivados
+T39	PROCEDURE 4082 4121	cierre percutáneo del leak paravalvular
+T40	PROCEDURE 4138 4168	ecocardiografía transesofágica
+T41	PROCEDURE 4170 4173	ETE
+T42	PROCEDURE 4357 4396	Cierre percutáneo de fuga periprotésica
+T43	PROCEDURE 1696 1706	Bioquímica
+T44	PROCEDURE 1219 1237	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 1944 1978	Test de Coombs directo e indirecto
+T46	PROCEDURE 1731 1736	iones
+T47	PROCEDURE 3520 3537	pauta antibiótica
+T48	PROCEDURE 1739 1752	transaminasas
+T49	PROCEDURE 131 154	trasfusiones sanguíneas
+T50	PROCEDURE 804 821	estudio de anemia
+T51	PROCEDURE 3934 3949	cirugía abierta
+T52	PROCEDURE 252 314	prótesis valvular metálica mitral Omnicarbon no 29 (implantada
+T53	PROCEDURE 3862 3892	intervenir sobre dicha válvula
+T54	SYMPTOM 686 693	astenia
+T55	SYMPTOM 696 725	disnea de moderados esfuerzos
+T56	SYMPTOM 731 761	ictericia de la piel y mucosas
+T57	SYMPTOM 1238 1248	Consciente
+T58	SYMPTOM 1250 1259	orientada
+T59	SYMPTOM 1262 1276	bien hidratada
+T60	SYMPTOM 1278 1302	Ictericia cutáneo-mucosa
+T61	SYMPTOM 1312 1345	aumento de presión venosa yugular
+T62	SYMPTOM 1397 1424	ruidos cardiacos arrítmicos
+T63	SYMPTOM 1438 1474	soplo sistólico II/VI en foco mitral
+T64	SYMPTOM 1499 1528	murmullo vesicular conservado
+T65	SYMPTOM 1530 1555	Abdomen: sin alteraciones
+T66	SYMPTOM 1557 1619	Edemas con fóvea hasta tercio medio de extremidades inferiores
+T67	SYMPTOM 1831 1851	haptoglobina ausente
+T68	SYMPTOM 1853 1877	reticulocitos aumentados
+T69	SYMPTOM 1944 1988	Test de Coombs directo e indirecto negativos
+T70	SYMPTOM 1990 2026	Vitamina B12 y ácido fólico normales
+T71	SYMPTOM 2028 2043	Leve ferropenia
+T72	SYMPTOM 2329 2343	Orejuela libre
+T73	SYMPTOM 2424 2452	función sistólica conservada
+T74	SYMPTOM 3207 3214	afebril
+T75	SYMPTOM 3781 3788	astenia
+T76	SYMPTOM 3251 3284	hemocultivos resultaron negativos
+T77	SYMPTOM 1731 1761	iones y transaminasas normales
+T78	SYMPTOM 835 865	afectación biliar, pancreática
+T79	SYMPTOM 956 1016	elevación de bilirrubina a expensas de la fracción indirecta
+T80	SYMPTOM 1018 1044	elevación de reticulocitos
+T81	SYMPTOM 1046 1071	haptoglobina indetectable
+T82	SYMPTOM 2539 2625	incremento de fijación del radiotrazador periprotésico (en forma de anillo incompleto)
+T83	SYMPTOM 3127 3149	captación perivalvular
+T84	SYMPTOM 3347 3376	títulos altos de Coxiella IgG
+T85	SYMPTOM 3586 3610	captación a nivel mitral
+T86	MEDICATION 66 75	metamizol
+T87	MEDICATION 460 472	acenocumarol
+T88	MEDICATION 474 484	furosemida
+T89	MEDICATION 501 509	losartán
+T90	MEDICATION 526 535	omeprazol
+T91	MEDICATION 552 560	digoxina
+T92	MEDICATION 3427 3438	ceftriaxona
+T93	MEDICATION 3459 3470	doxiciclina
+T94	MEDICATION 3649 3663	eritropoyetina
+T95	MEDICATION 3666 3678	ácido fólico
+T96	MEDICATION 53 63	penicilina

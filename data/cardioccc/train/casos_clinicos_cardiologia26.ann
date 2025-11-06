@@ -1,0 +1,38 @@
+T1	DISEASE 102 130	enfermedad valvular cardíaca
+T2	DISEASE 971 991	hepatoesplenomegalia
+T3	DISEASE 1282 1284	EI
+T4	DISEASE 1186 1208	vegetación endocárdica
+T5	PROCEDURE 823 837	ecocardiograma
+T6	PROCEDURE 843 856	examen físico
+T7	PROCEDURE 1073 1101	ecocardiograma transtorácico
+T8	PROCEDURE 1529 1541	hemocultivos
+T9	PROCEDURE 1862 1950	sustitución valvular mitral sin complicaciones, se utilizó una prótesis mecánica bidisco
+T10	PROCEDURE 1955 1980	examen anátomo-patológico
+T11	PROCEDURE 2121 2131	diuréticos
+T12	PROCEDURE 2134 2149	anticoagulantes
+T13	PROCEDURE 1286 1320	tomamos muestras para hemocultivos
+T14	PROCEDURE 1553 1612	Tomamos muestras para utilizar medios de cultivo especiales
+T15	PROCEDURE 380 400	medidas antitérmicas
+T16	SYMPTOM 190 196	fiebre
+T17	SYMPTOM 199 208	debilidad
+T18	SYMPTOM 240 258	disnea de esfuerzo
+T19	SYMPTOM 263 269	fiebre
+T20	SYMPTOM 538 544	fiebre
+T21	SYMPTOM 589 601	leucocitosis
+T22	SYMPTOM 872 937	soplo sitólico III/VI en la punta que se irradiaba hacia la axila
+T23	SYMPTOM 945 961	soplo diastólico
+T24	SYMPTOM 1007 1055	estertores crepitantes en ambas bases pulmonares
+T25	SYMPTOM 1134 1170	masa sobre la valva posterior mitral
+T26	SYMPTOM 1456 1462	fiebre
+T27	SYMPTOM 1529 1551	hemocultivos negativos
+T28	SYMPTOM 1746 1752	fiebre
+T29	SYMPTOM 604 633	eritrosedimentación acelerada
+T30	SYMPTOM 1594 1663	cultivo especiales y constatamos la presencia de una Cándida albicans
+T31	MEDICATION 687 697	penicilina
+T32	MEDICATION 724 733	amikacina
+T33	MEDICATION 1349 1360	vancomicina
+T34	MEDICATION 1363 1374	gentamicina
+T35	MEDICATION 1701 1714	anfotericin B
+T36	MEDICATION 2084 2095	ketoconazol
+T37	MEDICATION 2051 2064	anfotericin B
+T38	MEDICATION 2112 2119	digital

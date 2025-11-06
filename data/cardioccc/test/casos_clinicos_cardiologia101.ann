@@ -1,0 +1,173 @@
+T1	ENFERMEDAD 964 990	parálisis facial izquierda
+T2	ENFERMEDAD 539 557	anemia normocítica
+T3	ENFERMEDAD 584 605	hematuria persistente
+T4	ENFERMEDAD 1370 1381	adenopatías
+T5	ENFERMEDAD 1726 1751	trombosis venosa profunda
+T6	ENFERMEDAD 1825 1859	parálisis facial izquierda central
+T7	ENFERMEDAD 2682 2723	lesiones isquémicas o hemorrágicas agudas
+T8	ENFERMEDAD 2863 2876	mioma uterino
+T9	ENFERMEDAD 3337 3352	hepatitis B y C
+T10	ENFERMEDAD 3852 3899	Válvula mitral: Prolapso del festón P1 del velo
+T11	ENFERMEDAD 4070 4097	Insuficiencia mitral severa
+T12	ENFERMEDAD 4385 4404	derrame pericárdico
+T13	ENFERMEDAD 4465 4498	endocarditis sobre válvula mitral
+T14	ENFERMEDAD 4484 4544	válvula mitral (con prolapso del festón P1 de velo posterior
+T15	ENFERMEDAD 4604 4631	insuficiencia mitral severa
+T16	ENFERMEDAD 4709 4744	regurgitación valvular severa aguda
+T17	ENFERMEDAD 4817 4854	embolismo periférico a nivel cerebral
+T18	ENFERMEDAD 5295 5317	insuficiencia cardiaca
+T19	ENFERMEDAD 5726 5738	endocarditis
+T20	ENFERMEDAD 6697 6724	insuficiencia mitral severa
+T21	ENFERMEDAD 6711 6748	mitral severa, prolapso del festón P1
+T22	ENFERMEDAD 6771 6802	endocarditis sobre el festón A1
+T23	ENFERMEDAD 7133 7142	arritmias
+T24	ENFERMEDAD 7713 7725	endocarditis
+T25	ENFERMEDAD 7863 7914	Endocarditis infecciosa sobre válvula mitral nativa
+T26	ENFERMEDAD 7893 7970	válvula mitral nativa (con prolapso valvular del festón p1 del velo posterior
+T27	ENFERMEDAD 8034 8061	insuficiencia mitral severa
+T28	ENFERMEDAD 8094 8120	Accidente cerebro vascular
+T29	ENFERMEDAD 2841 2861	Hepatoesplenomegalia
+T30	ENFERMEDAD 4354 4356	IT
+T31	ENFERMEDAD 3114 3118	Lúes
+T32	ENFERMEDAD 427 450	alergias medicamentosas
+T33	ENFERMEDAD 378 393	hábitos tóxicos
+T34	ENFERMEDAD 3331 3335	lúes
+T35	ENFERMEDAD 2599 2628	lesiones ocupantes de espacio
+T36	ENFERMEDAD 3243 3251	varicela
+T37	ENFERMEDAD 3376 3384	varicela
+T38	ENFERMEDAD 3227 3233	herpes
+T39	ENFERMEDAD 4044 4068	vegetación endocardítica
+T40	ENFERMEDAD 4547 4598	vegetación en cúspide de festón A1 de velo anterior
+T41	ENFERMEDAD 4758 4792	dilatación de cavidades izquierdas
+T42	ENFERMEDAD 6310 6332	reacción urticariforme
+T43	ENFERMEDAD 7973 8028	vegetación endocardítica en festón a1 del velo anterior
+T44	ENFERMEDAD 5384 5416	paresia facial izquierda central
+T45	PROCEDIMIENTO 280 298	exploración física
+T46	PROCEDIMIENTO 469 487	análisis de sangre
+T47	PROCEDIMIENTO 1246 1264	exploración física
+T48	PROCEDIMIENTO 1393 1414	Auscultación cardiaca
+T49	PROCEDIMIENTO 1534 1555	Auscultación pulmonar
+T50	PROCEDIMIENTO 1753 1776	Exploración neurológica
+T51	PROCEDIMIENTO 1943 1962	Analítica de sangre
+T52	PROCEDIMIENTO 2220 2229	hemograma
+T53	PROCEDIMIENTO 2352 2355	ECG
+T54	PROCEDIMIENTO 2454 2465	Rx de tórax
+T55	PROCEDIMIENTO 2570 2582	TAC cerebral
+T56	PROCEDIMIENTO 2820 2839	TAC toracoabdominal
+T57	PROCEDIMIENTO 2934 2954	Doppler transcraneal
+T58	PROCEDIMIENTO 2957 2993	eco-doppler de troncos supraaórticos
+T59	PROCEDIMIENTO 3020 3034	Punción lumbar
+T60	PROCEDIMIENTO 3151 3168	Microbiología LCR
+T61	PROCEDIMIENTO 3279 3304	Serología de suero/plasma
+T62	PROCEDIMIENTO 3446 3458	Hemocultivos
+T63	PROCEDIMIENTO 3666 3678	antibióticos
+T64	PROCEDIMIENTO 3689 3699	Urocultivo
+T65	PROCEDIMIENTO 3713 3759	Ecocardiografía transtorácica y transesofágica
+T66	PROCEDIMIENTO 4860 4906	pruebas complementarias de estudio neurológico
+T67	PROCEDIMIENTO 5785 5797	hemocultivos
+T68	PROCEDIMIENTO 6117 6129	hemocultivos
+T69	PROCEDIMIENTO 6385 6397	antibióticos
+T70	PROCEDIMIENTO 6476 6488	hemocultivos
+T71	PROCEDIMIENTO 6533 6547	antibioterapia
+T72	PROCEDIMIENTO 6569 6592	tratamiento antibiótico
+T73	PROCEDIMIENTO 6610 6639	ecocardiograma transesofágico
+T74	PROCEDIMIENTO 6837 6851	antibioterapia
+T75	PROCEDIMIENTO 6885 6948	sustitución valvular mitral por prótesis mecánica St Jude no 29
+T76	PROCEDIMIENTO 7318 7341	tratamiento antibiótico
+T77	PROCEDIMIENTO 7463 7475	hemocultivos
+T78	PROCEDIMIENTO 7605 7633	ecocardiograma transtorácico
+T79	PROCEDIMIENTO 3214 3266	DNA de virus herpes simple y varicela zoster por PCR
+T80	PROCEDIMIENTO 3099 3112	Serología LCR
+T81	PROCEDIMIENTO 5878 5901	antibioterapia empírica
+T82	PROCEDIMIENTO 2022 2027	iones
+T83	PROCEDIMIENTO 2126 2142	Función hepática
+T84	PROCEDIMIENTO 5098 5116	drogas vasoactivas
+T85	PROCEDIMIENTO 6218 6233	antiobioterapia
+T86	PROCEDIMIENTO 7148 7199	retirada precoz de inotropos y ventilación mecánica
+T87	PROCEDIMIENTO 3036 3073	Bioquímica de líquido cefalorraquídeo
+T88	PROCEDIMIENTO 3170 3181	Gram de LCR
+T89	PROCEDIMIENTO 3431 3444	Microbiología
+T90	PROCEDIMIENTO 5222 5231	diurético
+T91	PROCEDIMIENTO 563 568	orina
+T92	PROCEDIMIENTO 195 243	manipulación dental (implantes osteo-integrados)
+T93	SINTOMA 84 98	picos febriles
+T94	SINTOMA 103 111	tiritona
+T95	SINTOMA 113 128	astenia intensa
+T96	SINTOMA 130 139	hiporexia
+T97	SINTOMA 142 165	pérdida de 7 kg de peso
+T98	SINTOMA 828 834	fiebre
+T99	SINTOMA 949 962	afasia motora
+T100	SINTOMA 993 1030	pérdida de fuerza de miembro superior
+T101	SINTOMA 1108 1146	debilidad residual en miembro superior
+T102	SINTOMA 1322 1332	Consciente
+T103	SINTOMA 1334 1343	orientada
+T104	SINTOMA 1416 1440	tonos cardiacos rítmicos
+T105	SINTOMA 1451 1532	soplo pansistólico de intensidad III/VI a nivel de foco mitral, irradiado a axila
+T106	SINTOMA 1557 1586	murmullo vesicular conservado
+T107	SINTOMA 1588 1643	Abdomen: blando, depresible, no doloroso a la palpación
+T108	SINTOMA 1658 1663	masas
+T109	SINTOMA 1667 1675	megalias
+T110	SINTOMA 1801 1823	Afasia motora muy leve
+T111	SINTOMA 1862 1889	paresia de miembro superior
+T112	SINTOMA 1964 1984	Función renal normal
+T113	SINTOMA 2126 2149	Función hepática normal
+T114	SINTOMA 2357 2370	Ritmo sinusal
+T115	SINTOMA 2381 2390	PR normal
+T116	SINTOMA 2392 2402	QRS normal
+T117	SINTOMA 2417 2450	alteraciones de la repolarización
+T118	SINTOMA 2934 3001	Doppler transcraneal y eco-doppler de troncos supraaórticos: Normal
+T119	SINTOMA 3020 3097	Punción lumbar: Bioquímica de líquido cefalorraquídeo (LCR): Sin alteraciones
+T120	SINTOMA 3099 3149	Serología LCR: Lúes, Borrelia y Brucella negativos
+T121	SINTOMA 3214 3275	DNA de virus herpes simple y varicela zoster por PCR negativo
+T122	SINTOMA 3689 3709	Urocultivo: Negativo
+T123	SINTOMA 4213 4243	presión telediastólica elevada
+T124	SINTOMA 4245 4275	Válvula y flujo aórtico normal
+T125	SINTOMA 4277 4309	Raíz aórtica de dimensión normal
+T126	SINTOMA 5058 5083	hemodinámicamente estable
+T127	SINTOMA 5132 5142	normotensa
+T128	SINTOMA 5148 5161	ritmo sinusal
+T129	SINTOMA 5176 5200	Función renal conservada
+T130	SINTOMA 6071 6077	fiebre
+T131	SINTOMA 6460 6466	fiebre
+T132	SINTOMA 7201 7221	función renal normal
+T133	SINTOMA 7236 7242	fiebre
+T134	SINTOMA 2022 2036	iones normales
+T135	SINTOMA 569 581	leucocituria
+T136	SINTOMA 7646 7675	normofunción protésica mitral
+T137	SINTOMA 7727 7739	Asintomática
+T138	SINTOMA 3820 3850	Aurícula izquierda no dilatada
+T139	SINTOMA 4311 4338	Cavidades derechas normales
+T140	SINTOMA 1677 1712	Extremidades inferiores: sin edemas
+T141	SINTOMA 2467 2510	Silueta cardiomediastínica sin alteraciones
+T142	SINTOMA 3761 3808	Ventrículo izquierdo no dilatado, hiperdinámico
+T143	SINTOMA 1045 1064	clínica neurológica
+T144	SINTOMA 2632 2665	desplazamientos de la línea media
+T145	SINTOMA 7389 7442	microbiología negativa en muestra de válvula cardiaca
+T146	SINTOMA 4645 4669	repercusión hemodinámica
+T147	SINTOMA 8066 8090	repercusión hemodinámica
+T148	SINTOMA 1345 1353	reactiva
+T149	SINTOMA 1355 1365	perceptiva
+T150	SINTOMA 2516 2547	hallazgos pleuroparenquimatosos
+T151	SINTOMA 2725 2773	Sistema cisternal y ventricular sin alteraciones
+T152	SINTOMA 3170 3212	Gram de LCR no se observan microorganismos
+T153	SINTOMA 3446 3496	Hemocultivos: Cocobacilos grampositivos en cadenas
+T154	SINTOMA 3544 3591	aislamiento finalmente de Abiotrophia defectiva
+T155	SINTOMA 3911 3969	Imagen de 8x6 mm en cúspide de festón A1 del velo anterior
+T156	SINTOMA 4131 4168	invierte el flujo en venas pulmonares
+T157	SINTOMA 4170 4199	Patrón de llenado restrictivo
+T158	SINTOMA 4887 4913	estudio neurológico normal
+T159	SINTOMA 5772 5838	hallazgos en hemocultivos de cocobacilos gram positivos en cadenas
+T160	SINTOMA 6087 6156	identificado el germen en los hemocultivos como abiotrophia defectiva
+T161	SINTOMA 7463 7527	hemocultivos de control tras 48 horas (que resultaron negativos)
+T162	SINTOMA 7742 7749	estable
+T163	FARMACO 644 658	sales ferrosas
+T164	FARMACO 702 716	ciprofloxacino
+T165	FARMACO 5906 5917	ceftriaxona
+T166	FARMACO 5947 5958	gentamicina
+T167	FARMACO 5987 5998	vancomicina
+T168	FARMACO 6236 6246	ampicilina
+T169	FARMACO 6257 6268	ceftriaxona
+T170	FARMACO 6411 6422	vancomicina
+T171	FARMACO 6425 6436	gentamicina
+T172	FARMACO 3622 3632	penicilina
+#1	AnnotatorNotes T30	 IT insuficiencia tricuspídea

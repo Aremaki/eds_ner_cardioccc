@@ -1,0 +1,112 @@
+T1	DISEASE 56 67	cardiopatía
+T2	DISEASE 243 246	HTA
+T3	DISEASE 248 258	Dislipemia
+T4	DISEASE 260 285	Diabetes Mellitus tipo II
+T5	DISEASE 287 303	Obesidad mórbida
+T6	DISEASE 305 309	EPOC
+T7	DISEASE 311 315	SAHS
+T8	DISEASE 341 372	Hiperplasia benigna de próstata
+T9	DISEASE 386 434	trombosis venosa profunda en extremidad inferior
+T10	DISEASE 893 908	cuadro catarral
+T11	DISEASE 1752 1780	insuficiencia venosa crónica
+T12	DISEASE 1812 1836	flúter auricular atípico
+T13	DISEASE 1884 1889	BRDHH
+T14	DISEASE 2244 2269	Derrame pleural bilateral
+T15	DISEASE 2670 2689	IAo moderada-severa
+T16	DISEASE 2926 2945	derrame pericárdico
+T17	DISEASE 3522 3544	insuficiencia cardiaca
+T18	DISEASE 3657 3669	endocarditis
+T19	DISEASE 3905 3917	endocarditis
+T20	DISEASE 4867 4892	endocarditis por fiebre Q
+T21	DISEASE 5377 5399	insuficiencia cardiaca
+T22	DISEASE 5559 5613	Endocarditis por fiebre Q sobre válvula aórtica nativa
+T23	DISEASE 5615 5683	Insuficiencia aórtica por perforación de velo aórtico no coronariano
+T24	DISEASE 5685 5729	Insuficiencia cardiaca congestiva secundaria
+T25	DISEASE 2489 2514	Válvula aórtica engrosada
+T26	DISEASE 5128 5199	descompensación de insuficiencia cardiaca con derrame pleural bilateral
+T27	DISEASE 2301 2329	VI no dilatado, hipertrófico
+T28	DISEASE 2381 2460	Válvula mitral con ligera calcificación en anillo y regurgitación leve-moderada
+T29	DISEASE 2752 2777	AI moderadamente dilatada
+T30	DISEASE 2834 2864	Regurgitación tricuspídea leve
+T31	DISEASE 2978 3078	válvula aórtica engrosada con puntos de calcificación, presenta una regurgitación de carácter severo
+T32	DISEASE 3253 3299	Válvula mitral con regurgitación leve-moderada
+T33	DISEASE 4389 4439	extremidades inferiores con aparición de flictenas
+T34	DISEASE 2229 2242	cardiomegalia
+T35	DISEASE 3113 3156	perforación a nivel del velo no coronariano
+T36	PROCEDURE 319 339	tratamiento con CPAP
+T37	PROCEDURE 1034 1055	tratamiento diurético
+T38	PROCEDURE 1256 1274	Exploración física
+T39	PROCEDURE 1537 1539	AC
+T40	PROCEDURE 1597 1599	AP
+T41	PROCEDURE 1807 1810	ECG
+T42	PROCEDURE 2204 2224	Radiografía de tórax
+T43	PROCEDURE 2271 2299	Ecocardiograma transtorácico
+T44	PROCEDURE 2705 2708	ETE
+T45	PROCEDURE 2947 2976	Ecocardiograma transesofágico
+T46	PROCEDURE 3808 3825	PCR panbacteriana
+T47	PROCEDURE 3836 3847	hemocultivo
+T48	PROCEDURE 3850 3860	urocultivo
+T49	PROCEDURE 4004 4033	ecocardiograma transesofágico
+T50	PROCEDURE 4175 4183	cultivos
+T51	PROCEDURE 4195 4207	hemocultivos
+T52	PROCEDURE 4210 4220	urocultivo
+T53	PROCEDURE 4268 4301	tratamiento diurético intravenoso
+T54	PROCEDURE 4556 4607	sustitución valvular aórtica con prótesis biológica
+T55	PROCEDURE 4620 4643	tratamiento antibiótico
+T56	PROCEDURE 4775 4784	serología
+T57	PROCEDURE 4929 4952	tratamiento antibiótico
+T58	PROCEDURE 5261 5295	tratamiento deplectivo intravenoso
+T59	PROCEDURE 5731 5790	Cirugía de recambio valvular aórtico por prótesis biológica
+T60	PROCEDURE 199 217	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 3557 3611	ecocardiograma transtorácico seguido de transesofágico
+T62	PROCEDURE 3970 3983	función renal
+T63	PROCEDURE 5355 5399	telemonitorización de insuficiencia cardiaca
+T64	PROCEDURE 5297 5311	toracocentésis
+T65	PROCEDURE 1072 1104	tratamiento antibiótico empírico
+T66	PROCEDURE 3399 3433	tratamiento deplectivo intravenoso
+T67	PROCEDURE 1941 1950	Analítica
+T68	PROCEDURE 4731 4741	analíticas
+T69	SYMPTOM 120 126	disnea
+T70	SYMPTOM 129 162	edemas en extremidades inferiores
+T71	SYMPTOM 709 715	disnea
+T72	SYMPTOM 819 827	oliguria
+T73	SYMPTOM 830 863	edemas en extremidades inferiores
+T74	SYMPTOM 924 940	congestión nasal
+T75	SYMPTOM 942 945	tos
+T76	SYMPTOM 948 973	expectoración blanquecina
+T77	SYMPTOM 1343 1353	Consciente
+T78	SYMPTOM 1356 1383	orientado en tiempo y lugar
+T79	SYMPTOM 1392 1406	Bien hidratado
+T80	SYMPTOM 1408 1434	buena perfusión periférica
+T81	SYMPTOM 1468 1498	signos de trabajo respiratorio
+T82	SYMPTOM 1500 1535	Presión venosa yugular no valorable
+T83	SYMPTOM 1541 1565	tonos cardiacos apagados
+T84	SYMPTOM 1589 1595	soplos
+T85	SYMPTOM 1601 1627	crepitantes en ambas bases
+T86	SYMPTOM 1629 1684	Abdomen globuloso, depresible, sin dolor a la palpación
+T87	SYMPTOM 1686 1740	Extremidades con edemas con fóvea hasta raíz de muslos
+T88	SYMPTOM 2038 2061	función hepática normal
+T89	SYMPTOM 2301 2315	VI no dilatado
+T90	SYMPTOM 2335 2379	buena función sistólica global y segmentaria
+T91	SYMPTOM 2779 2810	Cavidades derechas no dilatadas
+T92	SYMPTOM 3475 3493	signos congestivos
+T93	SYMPTOM 4194 4242	(hemocultivos y urocultivo) resultaron negativos
+T94	SYMPTOM 4342 4359	ganancia ponderal
+T95	SYMPTOM 4379 4412	edemas en extremidades inferiores
+T96	SYMPTOM 4763 4826	positiva la serología para Coxiella burnetti, con títulos altos
+T97	SYMPTOM 1385 1390	Obeso
+T98	SYMPTOM 1443 1462	taquipnea en reposo
+T99	SYMPTOM 1894 1939	alteraciones secundarias de la repolarización
+T100	SYMPTOM 2462 2487	Raíz de aorta no dilatada
+T101	SYMPTOM 5437 5456	estabilidad clínica
+T102	MEDICATION 466 476	torasemida
+T103	MEDICATION 492 519	valsartán/hidroclorotiazida
+T104	MEDICATION 541 553	simvastatina
+T105	MEDICATION 569 579	metformina
+T106	MEDICATION 596 602	doxium
+T107	MEDICATION 1109 1132	amoxicilina-clavulánico
+T108	MEDICATION 3919 3929	ampicilina
+T109	MEDICATION 3932 3943	cloxacilina
+T110	MEDICATION 3946 3957	gentamicina
+T111	MEDICATION 4984 4995	doxiclicina
+T112	MEDICATION 4998 5015	hidroxicloroquina

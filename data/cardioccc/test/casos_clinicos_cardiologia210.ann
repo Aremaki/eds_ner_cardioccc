@@ -1,0 +1,109 @@
+T1	ENFERMEDAD 78 109	Distrofia miotónica de Steinert
+T2	ENFERMEDAD 189 200	CIA tipo OS
+T3	ENFERMEDAD 1781 1796	derrame pleural
+T4	ENFERMEDAD 1923 1950	comunicación interauricular
+T5	ENFERMEDAD 2256 2269	valvulopatías
+T6	ENFERMEDAD 2435 2459	Insuficiencia tricúspide
+T7	ENFERMEDAD 2816 2840	tromboembolismo pulmonar
+T8	ENFERMEDAD 2842 2845	TEP
+T9	ENFERMEDAD 2861 2882	hipertensión pulmonar
+T10	ENFERMEDAD 2886 2905	infartos pulmonares
+T11	ENFERMEDAD 2975 3004	derrame pleural o pericárdico
+T12	ENFERMEDAD 3021 3035	lesiones óseas
+T13	ENFERMEDAD 4195 4212	necrosis/fibrosis
+T14	ENFERMEDAD 4441 4478	shunt residual de derecha a izquierda
+T15	ENFERMEDAD 4693 4714	hipertensión pulmonar
+T16	ENFERMEDAD 5357 5384	comunicación interauricular
+T17	ENFERMEDAD 5783 5842	Drenaje anómalo de vena cava inferior en aurícula izquierda
+T18	ENFERMEDAD 5873 5900	comunicación interauricular
+T19	ENFERMEDAD 5386 5389	CIA
+T20	ENFERMEDAD 3982 4063	drenaje sistémico anormal con drenaje de vena cava inferior en aurícula izquierda
+T21	ENFERMEDAD 4226 4289	drenaje sistémico anómalo con vena cava inferior drenando en AI
+T22	ENFERMEDAD 5151 5225	drenaje anómalo de la vena cava inferior (VCI) hacia la aurícula izquierda
+T23	ENFERMEDAD 5293 5315	drenaje anómalo de VCI
+T24	ENFERMEDAD 5536 5578	drenaje de la VCI en la aurícula izquierda
+T25	ENFERMEDAD 930 941	acropaquias
+T26	ENFERMEDAD 1905 1914	hipoxemia
+T27	ENFERMEDAD 3818 3841	shunt derecha izquierda
+T28	ENFERMEDAD 4323 4346	shunt derecha izquierda
+T29	ENFERMEDAD 2023 2069	cortocircuito a nivel del parche de pericardio
+T30	PROCEDIMIENTO 235 285	minitoracotomía derecha tipo Heart Port modificado
+T31	PROCEDIMIENTO 582 600	Exploración física
+T32	PROCEDIMIENTO 943 964	Auscultación cardiaca
+T33	PROCEDIMIENTO 987 1008	Auscultación pulmonar
+T34	PROCEDIMIENTO 1152 1170	Electrocardiograma
+T35	PROCEDIMIENTO 1172 1175	ECG
+T36	PROCEDIMIENTO 1549 1568	Gasometría arterial
+T37	PROCEDIMIENTO 1647 1667	Radiografía de tórax
+T38	PROCEDIMIENTO 1860 1886	exploración transesofágica
+T39	PROCEDIMIENTO 1892 1900	sedación
+T40	PROCEDIMIENTO 2676 2685	Angio-TAC
+T41	PROCEDIMIENTO 3129 3162	Gammagrafía ventilación/perfusión
+T42	PROCEDIMIENTO 3164 3184	estudio gammagráfico
+T43	PROCEDIMIENTO 3224 3236	Espirometría
+T44	PROCEDIMIENTO 3290 3319	Resonancia magnética cardiaca
+T45	PROCEDIMIENTO 3843 3911	Se administra ácido gadotérico (0,15 mM/kg) para estudio vascular 3D
+T46	PROCEDIMIENTO 4108 4153	Estudio de detección de necrosis y viabilidad
+T47	PROCEDIMIENTO 4509 4538	ecocardiografía transtorácica
+T48	PROCEDIMIENTO 4540 4543	ETT
+T49	PROCEDIMIENTO 4551 4581	ecocardiografía transesofágica
+T50	PROCEDIMIENTO 4583 4586	ETE
+T51	PROCEDIMIENTO 4725 4786	Se administró contraste a través de ambos miembros superiores
+T52	PROCEDIMIENTO 4899 4918	tomografía pulmonar
+T53	PROCEDIMIENTO 4925 4961	gammagrafía de ventilación/perfusión
+T54	PROCEDIMIENTO 5090 5119	resonancia magnética cardiaca
+T55	PROCEDIMIENTO 5121 5124	RMC
+T56	PROCEDIMIENTO 5268 5315	corrección anatómica del drenaje anómalo de VCI
+T57	PROCEDIMIENTO 5708 5730	gasometrías arteriales
+T58	PROCEDIMIENTO 5733 5748	ecocardiografía
+T59	PROCEDIMIENTO 5848 5900	reparación quirúrgica de comunicación interauricular
+T60	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T61	PROCEDIMIENTO 1813 1858	Ecocardiograma transtorácico y transesofágico
+T62	PROCEDIMIENTO 1274 1283	Analítica
+T63	PROCEDIMIENTO 205 212	cirugía
+T64	PROCEDIMIENTO 5328 5340	intervención
+T65	PROCEDIMIENTO 2553 2577	inyección de gelafundina
+T66	SINTOMA 404 422	disnea de esfuerzo
+T67	SINTOMA 553 561	cianosis
+T68	SINTOMA 785 803	Eupneica en reposo
+T69	SINTOMA 809 817	ortopnea
+T70	SINTOMA 821 830	platipnea
+T71	SINTOMA 832 853	Cianosis generalizada
+T72	SINTOMA 855 884	Presión venosa yugular normal
+T73	SINTOMA 886 916	Reflejo hepatoyugular negativo
+T74	SINTOMA 943 973	Auscultación cardiaca: regular
+T75	SINTOMA 979 985	soplos
+T76	SINTOMA 1010 1039	murmullo vesicular conservado
+T77	SINTOMA 1056 1080	Extremidades: Sin edemas
+T78	SINTOMA 1082 1125	Pulsos periféricos conservados y simétricos
+T79	SINTOMA 1178 1191	ritmo sinusal
+T80	SINTOMA 1239 1272	alteraciones de la repolarización
+T81	SINTOMA 1669 1704	silueta cardiomediastínica centrada
+T82	SINTOMA 2106 2189	Ventrículo izquierdo con diámetros, volúmenes y función global sistólica conservada
+T83	SINTOMA 2286 2351	Patrón diastólico de ventrículo izquierdo dentro de la normalidad
+T84	SINTOMA 2353 2433	Ventrículo derecho de diámetros normales con función global sistólica conservada
+T85	SINTOMA 2535 2548	Ritmo sinusal
+T86	SINTOMA 2924 2961	nódulos ni consolidaciones pulmonares
+T87	SINTOMA 3247 3267	restricción pulmonar
+T88	SINTOMA 4070 4106	Drenaje de venas pulmonares normales
+T89	SINTOMA 4660 4688	función biventricular normal
+T90	SINTOMA 2206 2251	alteraciones de la contractilidad segmentaria
+T91	SINTOMA 5468 5499	válvula de Eustaquio prominente
+T92	SINTOMA 5689 5701	asintomática
+T93	SINTOMA 5708 5768	gasometrías arteriales y ecocardiografía de control normales
+T94	SINTOMA 3746 3779	Aurículas de dimensiones normales
+T95	SINTOMA 1747 1776	Campos pulmonares traslúcidos
+T96	SINTOMA 2508 2533	Vena cava inferior normal
+T97	SINTOMA 1799 1811	condensación
+T98	SINTOMA 2704 2748	defectos de repleción en arterias pulmonares
+T99	SINTOMA 2553 2628	inyección de gelafundina no muestra paso de burbujas a cavidades izquierdas
+T100	SINTOMA 3688 3744	Aorta y grandes vasos de diámetros y morfología normales
+T101	SINTOMA 3573 3608	Ventrículo derecho (VD) no dilatado
+T102	SINTOMA 3913 3969	aorta y tronco pulmonar de diámetros y morfología normal
+T103	SINTOMA 4739 4840	contraste a través de ambos miembros superiores sin objetivar paso de burbujas a cavidades izquierdas
+T104	SINTOMA 4899 5006	tomografía pulmonar y una gammagrafía de ventilación/perfusión ambas con resultados dentro de la normalidad
+T105	SINTOMA 5506 5520	sutura errónea
+#1	AnnotatorNotes T19	 CIA comunicación interauricular
+#2	AnnotatorNotes T21	AI: auricula izquierda
+#3	AnnotatorNotes T23	 VCI: vena cava inferior
+#4	AnnotatorNotes T24	 VIC: vena cava inferior

@@ -1,0 +1,150 @@
+T1	DISEASE 3209 3245	Válvula mitral ligeramente engrosada
+T2	DISEASE 137 151	asma bronquial
+T3	DISEASE 211 239	trombosis venosa superficial
+T4	DISEASE 890 903	valvulopatías
+T5	DISEASE 923 942	derrame pericárdico
+T6	DISEASE 961 982	cardiopatía isquémica
+T7	DISEASE 1203 1245	hipertrofia ventricular izquierda moderada
+T8	DISEASE 2760 2775	angor inestable
+T9	DISEASE 2905 2947	hipertrofia ventricular izquierda moderada
+T10	DISEASE 3275 3305	insuficiencia mitral (IM) leve
+T11	DISEASE 5644 5674	Insuficiencia tricuspídea leve
+T12	DISEASE 5708 5727	derrame pericardico
+T13	DISEASE 5802 5880	VI pequeño con hipertrofia parietal concéntrica leve y moderada a nivel septal
+T14	DISEASE 6229 6282	calcificación del anillo posterior mitral con IM leve
+T15	DISEASE 6284 6319	Insuficiencia tricuspídea (IT) leve
+T16	DISEASE 6375 6401	Hipertensión pulmonar leve
+T17	DISEASE 6517 6536	derrame pericárdico
+T18	DISEASE 6631 6646	angor inestable
+T19	DISEASE 7218 7231	tirotoxicosis
+T20	DISEASE 7484 7504	cuadro hipertiroideo
+T21	DISEASE 7592 7620	enfermedad de Graves-Basedow
+T22	DISEASE 7997 8019	síndrome de tako-tsubo
+T23	DISEASE 8044 8068	hipertiroidismo primario
+T24	DISEASE 8201 8218	angor de esfuerzo
+T25	DISEASE 8339 8361	Síndrome de tako-tsubo
+T26	DISEASE 8413 8441	enfermedad de Graves-Basedow
+T27	DISEASE 3158 3195	Aurícula izquierda dilatada levemente
+T28	DISEASE 6171 6208	Aurícula izquierda dilatada levemente
+T29	DISEASE 5556 5593	Aurícula izquierda levemente dilatada
+T30	DISEASE 6311 6313	IT
+T31	DISEASE 3387 3425	Regurgitación tricúspide leve-moderada
+T32	DISEASE 3256 3259	SAM
+T33	DISEASE 5513 5539	SAM que condiciona IM leve
+T34	DISEASE 6403 6428	Válvula aortica esclerosa
+T35	DISEASE 5089 5102	cardiomegalia
+T36	DISEASE 4811 4826	daño miocárdico
+T37	DISEASE 6727 6747	hipotensión arterial
+T38	DISEASE 745 783	ventrículo izquierdo (VI) hipertrófico
+T39	DISEASE 5209 5260	VI no dilatado con hipertrofia concéntrica moderada
+T40	DISEASE 3299 3300	)
+T41	DISEASE 7526 7542	linfomonocitosis
+T42	DISEASE 8375 8399	hipertiroidismo primario
+T43	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T44	PROCEDURE 156 183	tratamiento broncodilatador
+T45	PROCEDURE 501 519	EXPLORACIÓN FÍSICA
+T46	PROCEDURE 595 613	electrocardiograma
+T47	PROCEDURE 717 732	ecocardioscopia
+T48	PROCEDURE 1039 1054	betabloqueantes
+T49	PROCEDURE 1057 1066	estatinas
+T50	PROCEDURE 1105 1132	ecocardiograma de ejercicio
+T51	PROCEDURE 1151 1178	ecocardiograma de ejercicio
+T52	PROCEDURE 1529 1540	cateterismo
+T53	PROCEDURE 1745 1763	exploración física
+T54	PROCEDURE 1833 1851	electrocardiograma
+T55	PROCEDURE 1853 1856	ECG
+T56	PROCEDURE 2442 2460	exploración física
+T57	PROCEDURE 2735 2738	ECG
+T58	PROCEDURE 2843 2867	ECOCARDIOGRAMA DE ESTRÉS
+T59	PROCEDURE 2883 2897	Ecocardiograma
+T60	PROCEDURE 3730 3754	Ecocardiograma de estrés
+T61	PROCEDURE 4063 4066	ECG
+T62	PROCEDURE 4894 4903	Hemograma
+T63	PROCEDURE 5063 5083	RADIOGRAFÍA DE TÓRAX
+T64	PROCEDURE 5182 5196	ECOCARDIOGRAMA
+T65	PROCEDURE 5729 5748	CATETERISO CARDIACO
+T66	PROCEDURE 5778 5800	ECOCARDIOGRAMA AL ALTA
+T67	PROCEDURE 6755 6769	ecocardiograma
+T68	PROCEDURE 6921 6935	ecocardiograma
+T69	PROCEDURE 7251 7277	tratamiento betabloqueante
+T70	PROCEDURE 7373 7406	tratamiento diurético intravenoso
+T71	PROCEDURE 7684 7699	coronariografía
+T72	PROCEDURE 7828 7843	ecocardiografía
+T73	PROCEDURE 4209 4219	bioquímica
+T74	PROCEDURE 4788 4826	Curva de marcadores de daño miocárdico
+T75	PROCEDURE 4198 4207	ANALÍTICA
+T76	PROCEDURE 1563 1572	analítica
+T77	PROCEDURE 1988 1997	analítica
+T78	SYMPTOM 319 358	opresión centrotorácica con el esfuerzo
+T79	SYMPTOM 378 383	mareo
+T80	SYMPTOM 385 395	sudoración
+T81	SYMPTOM 398 421	temblor de extremidades
+T82	SYMPTOM 531 562	soplo sistólico en foco aórtico
+T83	SYMPTOM 1696 1702	disnea
+T84	SYMPTOM 1705 1738	dolor torácico de leves esfuerzos
+T85	SYMPTOM 1773 1792	crepitantes en base
+T86	SYMPTOM 1803 1825	edemas en los tobillos
+T87	SYMPTOM 1870 1883	ritmo sinusal
+T88	SYMPTOM 1888 1935	ondas T negativas, simétricas y profundas V3-V6
+T89	SYMPTOM 1938 1972	ondas T negativas en cara inferior
+T90	SYMPTOM 2235 2260	hemodinámicamente estable
+T91	SYMPTOM 2333 2340	Afebril
+T92	SYMPTOM 2377 2392	Bien perfundida
+T93	SYMPTOM 2395 2416	levemente taquipneica
+T94	SYMPTOM 2469 2508	ingurgitación yugular en base de cuello
+T95	SYMPTOM 2510 2541	soplo sistólico en foco aórtico
+T96	SYMPTOM 2543 2574	crepitantes en bases pulmonares
+T97	SYMPTOM 2587 2620	edemas en extremidades inferiores
+T98	SYMPTOM 2679 2705	dolor precordial en reposo
+T99	SYMPTOM 3084 3112	Función sistólica conservada
+T100	SYMPTOM 3310 3343	ventrículo derecho (VD) es normal
+T101	SYMPTOM 3808 3814	disnea
+T102	SYMPTOM 4079 4092	ritmo sinusal
+T103	SYMPTOM 4103 4112	PR normal
+T104	SYMPTOM 4114 4126	QRS estrecho
+T105	SYMPTOM 4142 4184	ondas T negativas en V3-V6 y cara inferior
+T106	SYMPTOM 5154 5180	senos costofrénicos libres
+T107	SYMPTOM 5209 5223	VI no dilatado
+T108	SYMPTOM 5262 5297	Función sistólica global conservada
+T109	SYMPTOM 5595 5609	VD no dilatado
+T110	SYMPTOM 5614 5642	función sistólica conservada
+T111	SYMPTOM 5802 5812	VI pequeño
+T112	SYMPTOM 5882 5917	Función sistólica global conservada
+T113	SYMPTOM 5988 6023	alteraciones de la motilidad apical
+T114	SYMPTOM 6083 6123	Patrón diastólico de relajación alargada
+T115	SYMPTOM 6680 6705	hemodinámicamente estable
+T116	SYMPTOM 7032 7055	opresión centrotorácica
+T117	SYMPTOM 7071 7089	intensa sudoración
+T118	SYMPTOM 7091 7098	náuseas
+T119	SYMPTOM 7101 7124	temblor de extremidades
+T120	SYMPTOM 7509 7520	eosinofilia
+T121	SYMPTOM 8191 8197	disnea
+T122	SYMPTOM 8224 8237	palpitaciones
+T123	SYMPTOM 8246 8275	sintomatología cardiovascular
+T124	SYMPTOM 664 704	alteraciones agudas de la repolarización
+T125	SYMPTOM 6798 6843	alteraciones de la contractilidad segmentaria
+T126	SYMPTOM 630 649	taquicardia sinusal
+T127	SYMPTOM 1326 1366	acinesia de todos los segmentos apicales
+T128	SYMPTOM 2949 2957	Acinesia
+T129	SYMPTOM 3527 3569	Valvula aórtica trivalva, normofuncionante
+T130	SYMPTOM 3696 3728	raíz aórtica es de tamaño normal
+T131	SYMPTOM 3937 3945	acinesia
+T132	SYMPTOM 5313 5355	anomalías de la contractilidad segmentaria
+T133	SYMPTOM 6128 6140	VD es normal
+T134	SYMPTOM 8173 8185	asintomática
+T135	SYMPTOM 8160 8170	eutiroidea
+T136	SYMPTOM 802 840	fracción de eyección [FEVI] conservada
+T137	SYMPTOM 5750 5776	red coronaria sin lesiones
+T138	SYMPTOM 7718 7753	red arterial coronaria sin lesiones
+T139	SYMPTOM 5104 5152	leve redistribución vascular a campos superiores
+T140	SYMPTOM 7334 7354	síntomas congestivos
+T141	SYMPTOM 745 796	ventrículo izquierdo (VI) hipertrófico, no dilatado
+T142	SYMPTOM 846 886	alteraciones de la motilidad segmentaria
+T143	MEDICATION 1009 1031	ácido acetilsalicílico
+T144	MEDICATION 1033 1036	AAS
+T145	MEDICATION 7282 7290	atenolol
+T146	MEDICATION 7647 7656	metimazol
+#1	AnnotatorNotes T30	  insuficiencia tricuspide
+#2	AnnotatorNotes T32	SAM: movimiento anterior sistólico
+#3	AnnotatorNotes T33	  SAM: movimiento anterior sistólico, IM: insuficiencia mitral
+#4	AnnotatorNotes T40	insuficiencia mitral

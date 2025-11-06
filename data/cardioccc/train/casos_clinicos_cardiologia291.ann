@@ -1,0 +1,211 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 166 187	hipertensión arterial
+T3	DISEASE 189 199	Dislipemia
+T4	DISEASE 201 210	Exfumador
+T5	DISEASE 242 271	Cardiopatía isquémica crónica
+T6	DISEASE 289 322	enfermedad coronaria de dos vasos
+T7	DISEASE 366 382	Angina inestable
+T8	DISEASE 466 493	Esclerosis valvular aórtica
+T9	DISEASE 699 720	fibrilación auricular
+T10	DISEASE 588 606	linfoma de Hodgkin
+T11	DISEASE 834 840	angina
+T12	DISEASE 842 882	Aneurisma de aorta abdominal infrarrenal
+T13	DISEASE 919 938	fracaso renal agudo
+T14	DISEASE 1029 1053	Enfermedad renal crónica
+T15	DISEASE 1100 1128	anulación funcional de riñón
+T16	DISEASE 1139 1169	Hiperparatiroidismo secundario
+T17	DISEASE 1171 1203	Cólicos nefríticos de repetición
+T18	DISEASE 3242 3263	fibrilación auricular
+T19	DISEASE 1463 1499	neutropenia febril de foco abdominal
+T20	DISEASE 2936 2957	taquicardia arrítmica
+T21	DISEASE 4330 4335	gripe
+T22	DISEASE 4603 4625	insuficiencia cardiaca
+T23	DISEASE 5424 5443	Derrame pericárdico
+T24	DISEASE 6050 6101	Coronaria derecha (CD): dominante, oclusión crónica
+T25	DISEASE 6902 6918	angina en reposo
+T26	DISEASE 6950 6986	insuficiencia cardiaca descompensada
+T27	DISEASE 6989 7017	fibrilación auricular rápida
+T28	DISEASE 7071 7104	recaída de patología hematológica
+T29	DISEASE 7126 7148	infección respiratoria
+T30	DISEASE 7151 7162	anemización
+T31	DISEASE 7227 7244	enfermedad de TCI
+T32	DISEASE 7516 7538	infección respiratoria
+T33	DISEASE 7902 7924	oclusión crónica de CD
+T34	DISEASE 8143 8161	linfoma de Hodgkin
+T35	DISEASE 8460 8514	anemia crónica multifactorial normocítica-normocrómica
+T36	DISEASE 8516 8539	enfermedad hematológica
+T37	DISEASE 8562 8586	enfermedad renal crónica
+T38	DISEASE 8933 8960	angina de mínimos esfuerzos
+T39	DISEASE 9297 9303	angina
+T40	DISEASE 9578 9584	angina
+T41	DISEASE 9645 9686	progresión pulmonar de linfoma de Hodgkin
+T42	DISEASE 9731 9778	Infarto agudo de miocardio sin elevación del ST
+T43	DISEASE 9877 9906	Cardiopatía isquémica crónica
+T44	DISEASE 9928 9957	Enfermedad arterial coronaria
+T45	DISEASE 10008 10045	oclusión crónica de coronaria derecha
+T46	DISEASE 10047 10080	Fibrilación auricular persistente
+T47	DISEASE 10150 10172	Infección respiratoria
+T48	DISEASE 10202 10243	Anemia crónica multifactorial reagudizada
+T49	DISEASE 10245 10298	Linfoma de Hodgkin estadio IV por afectación pulmonar
+T50	DISEASE 10300 10334	Enfermedad renal crónica estadio 3
+T51	DISEASE 10082 10134	Descompensación de insuficiencia cardiaca secundaria
+T52	DISEASE 5083 5122	Válvula aórtica ligeramente esclerosada
+T53	DISEASE 8702 8713	anemización
+T54	DISEASE 5227 5287	Válvula tricúspide morfológicamente normal con insuficiencia
+T55	DISEASE 1228 1315	Linfoma de Hodgkin tipo esclerosis nodular, probable estadio IV por afectación pulmonar
+T56	DISEASE 4928 4967	Aurícula izquierda ligeramente dilatada
+T57	DISEASE 5610 5665	Tronco coronario izquierdo (TCI) ateromatoso con lesión
+T58	DISEASE 7810 7841	enfermedad significativa de TCI
+T59	DISEASE 5723 5810	Descendente anterior (DA): de buen desarrollo y calibre, con ateromatosis ligera difusa
+T60	DISEASE 5993 6019	ateromatosis ligera difusa
+T61	DISEASE 5974 5982	lesiones
+T62	DISEASE 6176 6184	lesiones
+T63	DISEASE 1502 1520	sobrecarga hídrica
+T64	DISEASE 513 534	fibrilación auricular
+T65	DISEASE 952 966	isquemia renal
+T66	DISEASE 1078 1098	nefropatía isquémica
+T67	DISEASE 6025 6033	lesiones
+T68	DISEASE 5815 5823	lesiones
+T69	DISEASE 8231 8250	afectación pulmonar
+T70	PROCEDURE 327 355	revascularización percutánea
+T71	PROCEDURE 392 464	implante de dos stents farmacoactivos en coronaria derecha y circunfleja
+T72	PROCEDURE 622 634	anticoagular
+T73	PROCEDURE 993 1007	hemofiltración
+T74	PROCEDURE 1656 1665	biopsiado
+T75	PROCEDURE 1692 1730	tomografía computarizada (TC) de tórax
+T76	PROCEDURE 2644 2662	Exploración física
+T77	PROCEDURE 2783 2796	gafas nasales
+T78	PROCEDURE 2913 2934	Auscultación cardiaca
+T79	PROCEDURE 3027 3048	Auscultación pulmonar
+T80	PROCEDURE 3206 3224	Electrocardiograma
+T81	PROCEDURE 3226 3229	ECG
+T82	PROCEDURE 3478 3481	ECG
+T83	PROCEDURE 3493 3512	Analítica de sangre
+T84	PROCEDURE 3995 4010	Perfil lipídico
+T85	PROCEDURE 4091 4105	Perfil férrico
+T86	PROCEDURE 4228 4241	Microbiología
+T87	PROCEDURE 4243 4255	Hemocultivos
+T88	PROCEDURE 4343 4353	Urocultivo
+T89	PROCEDURE 4424 4444	Radiografía de tórax
+T90	PROCEDURE 4677 4705	Ecocardiograma transtorácico
+T91	PROCEDURE 5528 5590	Coronariografía diagnóstica: acceso por arteria radial derecha
+T92	PROCEDURE 6227 6311	Coronariografía terapéutica: acceso por arteria femoral derecha guiado por ecografía
+T93	PROCEDURE 6331 6436	Intervencionsimo sobre tronco coronario izquierdo: se cruza guía hacia circunfleja y descendente anterior
+T94	PROCEDURE 6530 6577	se implante segundo stentfamacoactivo en TCI-DA
+T95	PROCEDURE 6644 6648	IVUS
+T96	PROCEDURE 6650 6702	Cierre vascular con dispositivo de cierre percutáneo
+T97	PROCEDURE 6753 6765	fluoroscopia
+T98	PROCEDURE 7210 7213	ECG
+T99	PROCEDURE 7406 7448	trasfusión de dos concentrados de hematíes
+T100	PROCEDURE 7580 7631	tratamiento antibiótico empírico de amplio espectro
+T101	PROCEDURE 7679 7699	doble antiagregación
+T102	PROCEDURE 7759 7774	anticoagulación
+T103	PROCEDURE 7782 7797	coronariografía
+T104	PROCEDURE 8254 8256	TC
+T105	PROCEDURE 8741 8751	trasfusión
+T106	PROCEDURE 9035 9070	revascularización percutánea de TCI
+T107	PROCEDURE 9124 9163	coronariografía por vía femoral derecha
+T108	PROCEDURE 9168 9245	implante de dos stents farmacoactivos en TCI-DA y TCI-Cx con técnicaDK-crusch
+T109	PROCEDURE 9347 9373	tratamiento antitrombótico
+T110	PROCEDURE 9378 9399	antiagregación simple
+T111	PROCEDURE 9939 10006	arterial coronaria parcialmente revascularizada de forma percutánea
+T112	PROCEDURE 9433 9448	anticoagulación
+T113	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 9791 9875	Revascularización de tronco coronario izquierdo distal con dos stents farmacoactivos
+T115	PROCEDURE 7260 7289	marcadores de daño miocárdico
+T116	PROCEDURE 7460 7493	tratamiento depletivo intravenoso
+T117	PROCEDURE 1718 1720	TC
+T118	PROCEDURE 4294 4314	Exudado nasofaríngeo
+T119	PROCEDURE 4365 4411	Antígenos de Legionella y Pneumococco en orina
+T120	PROCEDURE 6456 6496	Se implantastent farmacoactivo en TCI-Cx
+T121	PROCEDURE 6438 6454	Técnica DK-Crush
+T122	PROCEDURE 6513 6528	kissing-balloon
+T123	PROCEDURE 6593 6608	kissing balloon
+T124	PROCEDURE 6794 6805	eco-Doppler
+T125	PROCEDURE 8875 8906	tratamiento médico antianginoso
+T126	PROCEDURE 1542 1608	ciclos de ABVD (adriamicina, bleomicina, vinblastina, dacarbacina)
+T127	PROCEDURE 1772 1796	confirmación histológica
+T128	PROCEDURE 5919 5952	ramo marginal principal con stent
+T129	PROCEDURE 6718 6748	punción correcta femoral común
+T130	SYMPTOM 2213 2262	dolor centrotorácico opresivo de inicio en reposo
+T131	SYMPTOM 2278 2294	malestar general
+T132	SYMPTOM 2297 2307	sudoración
+T133	SYMPTOM 2503 2517	dolor torácico
+T134	SYMPTOM 2535 2546	pico febril
+T135	SYMPTOM 2601 2641	tos con expectoración escasa amarillenta
+T136	SYMPTOM 2811 2829	Eupneico en reposo
+T137	SYMPTOM 2959 2997	soplos sistólico II/IV en foco aórtico
+T138	SYMPTOM 3050 3099	crepitantes en tercio inferior de ambos hemitórax
+T139	SYMPTOM 3102 3125	sibilancias diseminadas
+T140	SYMPTOM 3127 3179	Edemas con fóvea en tercio inferior de ambas piernas
+T141	SYMPTOM 3235 3240	dolor
+T142	SYMPTOM 3301 3313	QRS estrecho
+T143	SYMPTOM 3350 3378	elevación del ST en V1 y aVR
+T144	SYMPTOM 3437 3465	alteraciones del segmento ST
+T145	SYMPTOM 3486 3491	dolor
+T146	SYMPTOM 4294 4341	Exudado nasofaríngeo: negativo para gripe y VRS
+T147	SYMPTOM 4343 4363	Urocultivo: negativo
+T148	SYMPTOM 4365 4422	Antígenos de Legionella y Pneumococco en orina: negativos
+T149	SYMPTOM 4504 4549	Engrosamiento perihiliar y peribroncovascular
+T150	SYMPTOM 4627 4650	Pulmón izquierdo blanco
+T151	SYMPTOM 4707 4739	ventrículo izquierdo no dilatado
+T152	SYMPTOM 4745 4775	hipertrofia ligera concéntrica
+T153	SYMPTOM 4777 4790	hiperdinámico
+T154	SYMPTOM 4796 4827	función sistólica global normal
+T155	SYMPTOM 4836 4880	aquinesia basal inferior y de septo inferior
+T156	SYMPTOM 4969 4997	Aurícula derecha no dilatada
+T157	SYMPTOM 4999 5044	Ventrículo derecho no dilatado, hiperdinámico
+T158	SYMPTOM 5050 5081	función sistólica global normal
+T159	SYMPTOM 5189 5225	Válvula mitral funcionalmente normal
+T160	SYMPTOM 7247 7289	elevación de marcadores de daño miocárdico
+T161	SYMPTOM 7312 7347	Asintomático ya para dolor torácico
+T162	SYMPTOM 9689 9696	fallece
+T163	SYMPTOM 9762 9778	elevación del ST
+T164	SYMPTOM 2485 2497	asintomático
+T165	SYMPTOM 9560 9584	asintomático para angina
+T166	SYMPTOM 276 287	FEVI normal
+T167	SYMPTOM 4243 4266	Hemocultivos: estériles
+T168	SYMPTOM 4446 4502	índice cardiotorácico en el límite alto de la normalidad
+T169	SYMPTOM 4552 4586	pinzamiento de senos costofrénicos
+T170	SYMPTOM 5355 5385	Vena cava inferior no dilatada
+T171	SYMPTOM 9911 9926	FEVI conservada
+T172	SYMPTOM 5481 5504	compromiso hemodinámico
+T173	SYMPTOM 1634 1649	nódulo pulmonar
+T174	SYMPTOM 1634 1681	nódulo pulmonar DS 4, biopsiado y sin hallazgos
+T175	SYMPTOM 3002 3025	segundo tono preservado
+T176	SYMPTOM 3315 3348	transición brusca de onda R en V4
+T177	SYMPTOM 3381 3403	descenso difuso del ST
+T178	SYMPTOM 4882 4926	Patrón de llenado transmitral con onda única
+T179	SYMPTOM 5510 5526	grasa epicárdica
+T180	SYMPTOM 5840 5886	Circunfleja (Cx): de buen desarrollo y calibre
+T181	SYMPTOM 5947 5969	stent previo permeable
+T182	MEDICATION 1379 1393	ciclofosfamida
+T183	MEDICATION 1395 1407	procarbacina
+T184	MEDICATION 1409 1419	prednisona
+T185	MEDICATION 1422 1434	mitoxantrona
+T186	MEDICATION 1558 1569	adriamicina
+T187	MEDICATION 1571 1581	bleomicina
+T188	MEDICATION 1583 1594	vinblastina
+T189	MEDICATION 1596 1607	dacarbacina
+T190	MEDICATION 1836 1849	atorvastatina
+T191	MEDICATION 1866 1875	ezetimiba
+T192	MEDICATION 1892 1903	clopidogrel
+T193	MEDICATION 1930 1944	nitroglicerina
+T194	MEDICATION 1951 1959	atenolol
+T195	MEDICATION 1976 1986	furosemida
+T196	MEDICATION 2003 2013	alopurinol
+T197	MEDICATION 2031 2040	omeprazol
+T198	MEDICATION 2057 2068	trimetoprim
+T199	MEDICATION 2069 2081	cotrimoxazol
+T200	MEDICATION 2103 2115	ácido fólico
+T201	MEDICATION 2131 2141	hidroferol
+T202	MEDICATION 7636 7659	piperacilina-tazobactam
+T203	MEDICATION 7704 7726	ácido acetilsalicílico
+T204	MEDICATION 7729 7740	clopidogrel
+T205	MEDICATION 8612 8623	trimetoprim
+T206	MEDICATION 8624 8636	cotrimoxazol
+T207	MEDICATION 9404 9415	clopidogrel
+T208	MEDICATION 9453 9464	rivaroxabán
+T209	MEDICATION 1363 1374	brentuximab
+T210	MEDICATION 572 583	brentuximab
+#1	AnnotatorNotes T58	TCI: tronco coronario izquierdo

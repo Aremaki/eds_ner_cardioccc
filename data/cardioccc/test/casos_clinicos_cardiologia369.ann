@@ -1,0 +1,84 @@
+T1	ENFERMEDAD 129 162	Alergia al ácido acetilsalicílico
+T2	ENFERMEDAD 170 227	Cardiopatía isquémica coronaria con enfermedad de un vaso
+T3	ENFERMEDAD 380 401	Hipertensión arterial
+T4	ENFERMEDAD 403 406	HTA
+T5	ENFERMEDAD 450 475	Trombosis venosa profunda
+T6	ENFERMEDAD 549 591	bloqueo auriculoventricular (BAV) completo
+T7	ENFERMEDAD 600 633	Fibrilación auricular paroxística
+T8	ENFERMEDAD 854 885	enfermedad coronaria de un vaso
+T9	ENFERMEDAD 888 921	fibrilación auricular paroxística
+T10	ENFERMEDAD 1014 1020	angina
+T11	ENFERMEDAD 2552 2560	isquemia
+T12	ENFERMEDAD 2622 2630	isquemia
+T13	ENFERMEDAD 3755 3795	Enfermedad arterial coronaria de un vaso
+T14	ENFERMEDAD 3797 3830	Fibrilación auricular paroxística
+T15	ENFERMEDAD 3832 3856	Intolerancia a estatinas
+T16	ENFERMEDAD 1842 1886	trastornos segmentarios de la contractilidad
+T17	ENFERMEDAD 578 581	BAV
+T18	ENFERMEDAD 409 436	Insuficiencia renal crónica
+T19	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T20	PROCEDIMIENTO 229 275	angioplastia coronaria transluminal percutánea
+T21	PROCEDIMIENTO 277 281	ACTP
+T22	PROCEDIMIENTO 285 359	implante de stent farmacoactivo en arteria descendente anterior (DA) media
+T23	PROCEDIMIENTO 1072 1090	EXPLORACIÓN FÍSICA
+T24	PROCEDIMIENTO 1252 1273	Auscultación pulmonar
+T25	PROCEDIMIENTO 1592 1607	Perfil lipídico
+T26	PROCEDIMIENTO 1677 1695	ELECTROCARDIOGRAMA
+T27	PROCEDIMIENTO 1697 1700	ECG
+T28	PROCEDIMIENTO 1747 1762	ECOCARDIOGRAFÍA
+T29	PROCEDIMIENTO 2122 2148	ecocardiograma de esfuerzo
+T30	PROCEDIMIENTO 2214 2229	perfil lipídico
+T31	PROCEDIMIENTO 2352 2378	tratamiento hipolipemiante
+T32	PROCEDIMIENTO 2498 2524	ecocardiograma de esfuerzo
+T33	PROCEDIMIENTO 2634 2649	ecocardiografía
+T34	PROCEDIMIENTO 2819 2834	perfil lipídico
+T35	PROCEDIMIENTO 3611 3631	anticoagulación oral
+T36	PROCEDIMIENTO 2920 2934	betabloqueante
+T37	PROCEDIMIENTO 1435 1444	ANALÍTICA
+T38	PROCEDIMIENTO 1888 1897	ANALÍTICA
+T39	PROCEDIMIENTO 525 544	Marcapaso bicameral
+T40	PROCEDIMIENTO 3164 3173	analítica
+T41	PROCEDIMIENTO 3448 3465	control analítico
+T42	SINTOMA 361 378	Función VI normal
+T43	SINTOMA 1031 1038	astenia
+T44	SINTOMA 1041 1069	disnea a moderados esfuerzos
+T45	SINTOMA 1214 1239	Ruidos cardiacos rítmicos
+T46	SINTOMA 1244 1250	soplos
+T47	SINTOMA 1278 1307	murmullo vesicular conservado
+T48	SINTOMA 1309 1336	Abdomen sin masas palpables
+T49	SINTOMA 1341 1370	edemas en miembros inferiores
+T50	SINTOMA 1372 1408	Pulsos pedios presentes y simétricos
+T51	SINTOMA 1764 1836	ventrículo izquierdo no dilatado con función sistólica global conservada
+T52	SINTOMA 2242 2317	cifras elevadas de colesterol unido a lipoproteínas de baja densidad (cLDL)
+T53	SINTOMA 2682 2702	molestias musculares
+T54	SINTOMA 2972 2979	astenia
+T55	SINTOMA 3866 3892	alto riesgo cardiovascular
+T56	SINTOMA 2161 2179	disnea de esfuerzo
+T57	SINTOMA 1703 1716	ritmo sinusal
+T58	SINTOMA 480 511	mutación del factor V de Leiden
+T59	SINTOMA 3164 3224	analítica no se detectan alteración hepática o daño muscular
+T60	FARMACO 3307 3316	estatinas
+T61	FARMACO 3847 3856	estatinas
+T62	FARMACO 140 162	ácido acetilsalicílico
+T63	FARMACO 164 167	AAS
+T64	FARMACO 661 672	clopidogrel
+T65	FARMACO 677 688	esomeprazol
+T66	FARMACO 696 706	bisoprolol
+T67	FARMACO 719 727	losartán
+T68	FARMACO 741 753	acenocumarol
+T69	FARMACO 755 767	simvastatina
+T70	FARMACO 781 792	tamsulosina
+T71	FARMACO 2393 2405	simvastatina
+T72	FARMACO 2413 2426	rosuvastatina
+T73	FARMACO 2766 2779	rosuvastatina
+T74	FARMACO 2846 2859	pitavastatina
+T75	FARMACO 2867 2876	ezetimiba
+T76	FARMACO 3016 3026	bisoprolol
+T77	FARMACO 3148 3156	estatina
+T78	FARMACO 3369 3379	evolocumab
+T79	FARMACO 3391 3401	evolocumab
+T80	FARMACO 3657 3668	clopidogrel
+T81	FARMACO 3683 3695	acenocumarol
+T82	FARMACO 1921 1987	inhibidores de la proproteína convertasa subtilisina/kexina tipo 9
+T83	FARMACO 1989 1994	PCSK9
+#1	AnnotatorNotes T83	  inhibidores de la propoteína convertasa subtilisina/kexina tipo 9

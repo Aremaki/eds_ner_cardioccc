@@ -1,0 +1,144 @@
+T1	ENFERMEDAD 176 197	hipertensión arterial
+T2	ENFERMEDAD 199 202	HTA
+T3	ENFERMEDAD 263 292	Diabetes mellitus (DM) tipo 2
+T4	ENFERMEDAD 385 395	Dislipemia
+T5	ENFERMEDAD 443 452	Exfumador
+T6	ENFERMEDAD 520 541	Cardiopatía isquémica
+T7	ENFERMEDAD 569 621	síndrome coronario agudo (SCA) tipo angina inestable
+T8	ENFERMEDAD 595 598	SCA
+T9	ENFERMEDAD 626 697	enfermedad de un vaso: descendente anterior (DA) proximal con estenosis
+T10	ENFERMEDAD 836 842	angina
+T11	ENFERMEDAD 844 866	Estenosis aórtica leve
+T12	ENFERMEDAD 1180 1232	Valvulopatía aórtica degenerativa con estenosis leve
+T13	ENFERMEDAD 1367 1392	Insuficiencia tricuspídea
+T14	ENFERMEDAD 1550 1583	Fibrilación auricular paroxística
+T15	ENFERMEDAD 2901 2921	dermopatía diabética
+T16	ENFERMEDAD 4098 4132	bloqueo completo de rama izquierda
+T17	ENFERMEDAD 4161 4165	BCRI
+T18	ENFERMEDAD 4791 4816	Insuficiencia mitral leve
+T19	ENFERMEDAD 4924 4954	Insuficiencia tricuspídea leve
+T20	ENFERMEDAD 5569 5606	reestenosis intrastent en DA proximal
+T21	ENFERMEDAD 5862 5887	estenosis de la DA distal
+T22	ENFERMEDAD 5962 6016	síndrome coronario agudo sin elevación del segmento ST
+T23	ENFERMEDAD 6032 6069	infarto agudo de miocardio (IAM) no Q
+T24	ENFERMEDAD 6060 6063	IAM
+T25	ENFERMEDAD 6171 6196	valvulopatía aortica leve
+T26	ENFERMEDAD 6340 6370	estenosis aórtica levemoderada
+T27	ENFERMEDAD 6400 6403	SCA
+T28	ENFERMEDAD 6484 6527	reestenosis intrastent grave en DA proximal
+T29	ENFERMEDAD 6530 6566	lesiones graves en DA media y distal
+T30	ENFERMEDAD 6953 6962	DM tipo 2
+T31	ENFERMEDAD 7114 7135	Cardiopatía isquémica
+T32	ENFERMEDAD 7137 7158	SCASEST tipo IAM no Q
+T33	ENFERMEDAD 7165 7290	Enfermedad coronaria de 2 vasos: DA proximal severa con reestenosis intrastent y DA media y distal graves; Cx distal moderada
+T34	ENFERMEDAD 7379 7412	Valvulopatía aórtica degenerativa
+T35	ENFERMEDAD 7414 7445	estenosis aórtica leve-moderada
+T36	ENFERMEDAD 7447 7480	Fibrilación auricular paroxística
+T37	ENFERMEDAD 7514 7523	DM tipo 2
+T38	ENFERMEDAD 4818 4880	Válvula aórtica calcificada, móvil, con estenosis aórtica leve
+T39	ENFERMEDAD 90 98	alergias
+T40	ENFERMEDAD 5036 5061	DA proximal con estenosis
+T41	ENFERMEDAD 5157 5179	DA media con estenosis
+T42	ENFERMEDAD 5234 5257	DA distal con estenosis
+T43	ENFERMEDAD 5298 5349	arteria circunfleja (Cx) distal tiene una estenosis
+T44	ENFERMEDAD 4450 4468	eventos arrítmicos
+T45	ENFERMEDAD 282 284	DM
+T46	ENFERMEDAD 948 990	Aurícula izquierda (AI) levemente dilatada
+T47	ENFERMEDAD 1009 1057	Ventrículo izquierdo (VI) levemente hipertrófico
+T48	ENFERMEDAD 4507 4553	aurícula izquierda (AI) moderadamente dilatada
+T49	ENFERMEDAD 4555 4618	Ventrículo izquierdo (VI) no dilatado, con hipertrofia moderada
+T50	ENFERMEDAD 4750 4774	Válvula mitral fibrosada
+T51	ENFERMEDAD 6018 6025	SCASEST
+T52	ENFERMEDAD 6571 6592	lesión moderada en Cx
+T53	ENFERMEDAD 5088 5110	reestenosis intrastent
+T54	PROCEDIMIENTO 398 423	tratamiento con estatinas
+T55	PROCEDIMIENTO 649 745	descendente anterior (DA) proximal con estenosis del 80%, revascularizada con stent convencional
+T56	PROCEDIMIENTO 878 902	estudio ecocardiográfico
+T57	PROCEDIMIENTO 2415 2433	EXPLORACIÓN FÍSICA
+T58	PROCEDIMIENTO 2642 2663	Auscultación cardiaca
+T59	PROCEDIMIENTO 2733 2754	Auscultación pulmonar
+T60	PROCEDIMIENTO 2998 3009	coagulación
+T61	PROCEDIMIENTO 3180 3189	Hemograma
+T62	PROCEDIMIENTO 4048 4066	ELECTROCARDIOGRAMA
+T63	PROCEDIMIENTO 4068 4071	ECG
+T64	PROCEDIMIENTO 4191 4194	ECG
+T65	PROCEDIMIENTO 4217 4262	RADIOGRAFÍA DE TÓRAX: portátil, proyección AP
+T66	PROCEDIMIENTO 4401 4411	TELEMETRÍA
+T67	PROCEDIMIENTO 4470 4499	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T68	PROCEDIMIENTO 4501 4504	ETT
+T69	PROCEDIMIENTO 4976 4991	CORONARIOGRAFÍA
+T70	PROCEDIMIENTO 5445 5496	INTERENCIONISMO CORONARIO PERCUTÁNEO (ICP) sobre DA
+T71	PROCEDIMIENTO 5509 5605	angioplastia coronaria transluminal percutánea (ACTP) sobre reestenosis intrastent en DA proxima
+T72	PROCEDIMIENTO 6209 6224	ecocardiografía
+T73	PROCEDIMIENTO 6317 6320	ETT
+T74	PROCEDIMIENTO 6431 6446	coronariografía
+T75	PROCEDIMIENTO 6638 6693	ICP sobre DA con implante de tres stents farmacoactivos
+T76	PROCEDIMIENTO 7292 7335	ICP sobre DA con tres stents farmacoactivos
+T77	PROCEDIMIENTO 5694 5740	Se solapa distalmente otro stent de everolimus
+T78	PROCEDIMIENTO 357 360	ADO
+T79	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T80	PROCEDIMIENTO 3867 3884	Enzimas cardiacas
+T81	PROCEDIMIENTO 5595 5679	DA proximal, con predilatación y posterior implante de stent liberador de everolimus
+T82	PROCEDIMIENTO 318 355	tratamiento con un antidiabético oral
+T83	PROCEDIMIENTO 3387 3397	Bioquímica
+T84	PROCEDIMIENTO 5483 5486	ICP
+T85	PROCEDIMIENTO 5557 5561	ACTP
+T86	PROCEDIMIENTO 5801 5837	implantando otro stent de everolimus
+T87	PROCEDIMIENTO 2987 2996	ANALÍTICA
+T88	PROCEDIMIENTO 1714 1740	intervenciones quirúrgicas
+T89	SINTOMA 1142 1178	Patrón diastólico de mala relajación
+T90	SINTOMA 1508 1548	Vena cava inferior y pericardio normales
+T91	SINTOMA 2042 2071	dolor centrotorácico opresivo
+T92	SINTOMA 2087 2093	disnea
+T93	SINTOMA 2096 2114	cortejo vegetativo
+T94	SINTOMA 2544 2551	Afebril
+T95	SINTOMA 2558 2561	BEG
+T96	SINTOMA 2611 2640	Presión venosa yugular normal
+T97	SINTOMA 2642 2672	Auscultación cardiaca: rítmico
+T98	SINTOMA 2674 2697	soplo sistólico aórtico
+T99	SINTOMA 2756 2785	murmullo vesicular conservado
+T100	SINTOMA 2787 2826	Abdomen blando, depresible, no doloroso
+T101	SINTOMA 2832 2837	masas
+T102	SINTOMA 2842 2850	megalias
+T103	SINTOMA 2852 2886	Extremidades inferiores sin edemas
+T104	SINTOMA 2924 2945	pulsos pedios débiles
+T105	SINTOMA 4074 4087	ritmo sinusal
+T106	SINTOMA 4264 4292	Índice cardiotorácico normal
+T107	SINTOMA 4345 4368	redistribución vascular
+T108	SINTOMA 4432 4445	ritmo sinusal
+T109	SINTOMA 4555 4592	Ventrículo izquierdo (VI) no dilatado
+T110	SINTOMA 4621 4636	FEVI conservada
+T111	SINTOMA 4698 4748	Ventrículo derecho (VD) de tamaño y función normal
+T112	SINTOMA 5991 6016	elevación del segmento ST
+T113	SINTOMA 6137 6150	soplo aórtico
+T114	SINTOMA 7347 7362	FEVI conservada
+T115	SINTOMA 747 806	Fracción de eyección del ventrículo izquierdo (FEVI) normal
+T116	SINTOMA 1076 1122	alteraciones de la contractilidad segmentarias
+T117	SINTOMA 1125 1140	FEVI conservada
+T118	SINTOMA 1283 1336	Válvula mitral con buena apertura y sin insuficiencia
+T119	SINTOMA 4298 4332	pinzamiento de senos costofrénicos
+T120	SINTOMA 6073 6103	situación hemodinámica estable
+T121	SINTOMA 1338 1365	Cavidades derechas normales
+T122	SINTOMA 923 946	aorta ascendente normal
+T123	SINTOMA 4374 4399	condensaciones neumónicas
+T124	SINTOMA 3348 3362	fórmula normal
+T125	SINTOMA 4993 5034	tronco coronario izquierdo: sin estenosis
+T126	SINTOMA 6830 6867	colesterol LDL esta fuera de objetivo
+T127	SINTOMA 7555 7587	Colesterol LDL fuera de objetivo
+T128	FARMACO 1621 1632	rivaroxabán
+T129	FARMACO 1767 1789	ácido acetilsalicílico
+T130	FARMACO 1791 1794	AAS
+T131	FARMACO 1812 1821	diltiazem
+T132	FARMACO 1837 1849	simvastatina
+T133	FARMACO 1865 1874	enalapril
+T134	FARMACO 1890 1900	metformina
+T135	FARMACO 1917 1926	omeprazol
+T136	FARMACO 1942 1953	rivaroxabán
+T137	FARMACO 5827 5837	everolimus
+T138	FARMACO 6895 6903	estatina
+T139	FARMACO 6989 6999	metformina
+T140	FARMACO 5669 5679	everolimus
+T141	FARMACO 5730 5740	everolimus
+#1	AnnotatorNotes T8	  síndrome coronario agudo
+#2	AnnotatorNotes T27	  síndrome coronario agudo
+#3	AnnotatorNotes T78	  antidiabético oral

@@ -1,0 +1,105 @@
+T1	DISEASE 52 62	hipertenso
+T2	DISEASE 178 199	cardiopatía isquémica
+T3	DISEASE 280 290	Hipertenso
+T4	DISEASE 380 389	Exfumador
+T5	DISEASE 391 411	Hipertrigliceridemia
+T6	DISEASE 413 437	Diabetes mellitus tipo 2
+T7	DISEASE 460 471	cardiopatía
+T8	DISEASE 566 569	IAM
+T9	DISEASE 591 601	hipertensa
+T10	DISEASE 634 663	diabetes mellitus (DM) tipo 2
+T11	DISEASE 653 655	DM
+T12	DISEASE 666 677	hipertensas
+T13	DISEASE 1257 1285	taquicardia supraventricular
+T14	DISEASE 1303 1324	hipertensión arterial
+T15	DISEASE 1477 1499	insuficiencia cardiaca
+T16	DISEASE 2166 2169	HVI
+T17	DISEASE 3684 3703	derrame pericárdico
+T18	DISEASE 3834 3863	hipertensión venosa sistémica
+T19	DISEASE 3996 4020	insuficiencia tricúspide
+T20	DISEASE 5123 5145	insuficiencia cardiaca
+T21	DISEASE 5613 5669	Infarto agudo de miocardio sin elevación del segmento ST
+T22	DISEASE 5690 5722	Oclusión de Circunfleja proximal
+T23	DISEASE 5780 5871	Lesión severa focal en posterolateral de coronaria derecha y lesión moderada en 1a diagonal
+T24	DISEASE 5975 5999	Diabetes mellitus tipo 2
+T25	DISEASE 6026 6045	hipercolesterolemia
+T26	DISEASE 5671 5678	IAMSEST
+T27	DISEASE 3374 3404	dilatación auricular izquierda
+T28	DISEASE 5934 5954	disfunción sistólica
+T29	DISEASE 4395 4414	Circunfleja ocluida
+T30	DISEASE 4516 4589	Coronaria derecha con irregularidades en todo su trayecto, placa moderada
+T31	DISEASE 5148 5166	eventos arrítmicos
+T32	DISEASE 1620 1631	xantelasmas
+T33	DISEASE 1597 1616	xantomas tendinosos
+T34	DISEASE 4319 4374	lesión moderada en el tercio proximal de la 1a diagonal
+T35	PROCEDURE 1378 1395	antihipertensivos
+T36	PROCEDURE 1398 1413	benzodiacepinas
+T37	PROCEDURE 1439 1457	Exploración física
+T38	PROCEDURE 1633 1651	Exploración ocular
+T39	PROCEDURE 1681 1702	Auscultación cardiaca
+T40	PROCEDURE 1764 1785	Auscultación pulmonar
+T41	PROCEDURE 1905 1908	ECG
+T42	PROCEDURE 2090 2093	ECG
+T43	PROCEDURE 2171 2191	Radiografía de tórax
+T44	PROCEDURE 3104 3119	Ecocardiografía
+T45	PROCEDURE 3891 3898	Doppler
+T46	PROCEDURE 3900 3914	Doppler mitral
+T47	PROCEDURE 4191 4206	Coronariografia
+T48	PROCEDURE 4776 4810	apertura de la arteria con balones
+T49	PROCEDURE 5370 5393	rehabilitación cardiaca
+T50	PROCEDURE 5741 5745	ACTP
+T51	PROCEDURE 5748 5778	implante de stents recubiertos
+T52	PROCEDURE 236 254	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 2366 2375	Analítica
+T54	PROCEDURE 2681 2690	Analítica
+T55	PROCEDURE 4886 4934	se cubre con dos stents solapados farmacoactivos
+T56	PROCEDURE 4721 4764	pasar la oclusión con apoyo de microcatéter
+T57	PROCEDURE 5245 5261	hipoglucemiantes
+T58	SYMPTOM 68 161	niveles plasmáticos anormalmente altos de colesterol LDL, triglicéridos y hemoglobina glicada
+T59	SYMPTOM 869 919	dolor centrotorácico que lo describe como opresivo
+T60	SYMPTOM 940 958	cortejo vegetativo
+T61	SYMPTOM 1052 1057	dolor
+T62	SYMPTOM 1081 1094	palpitaciones
+T63	SYMPTOM 1132 1163	dolor aparece con los esfuerzos
+T64	SYMPTOM 1633 1658	Exploración ocular normal
+T65	SYMPTOM 1664 1679	arcos corneales
+T66	SYMPTOM 1704 1728	ruidos cardiaco rítmicos
+T67	SYMPTOM 1733 1739	soplos
+T68	SYMPTOM 1746 1762	roce pericárdico
+T69	SYMPTOM 1787 1790	MVC
+T70	SYMPTOM 1829 1844	MMII sin edemas
+T71	SYMPTOM 1849 1878	pulsos periféricos simétricos
+T72	SYMPTOM 1962 1971	PR normal
+T73	SYMPTOM 1973 1993	Eje eléctrico normal
+T74	SYMPTOM 1995 2007	QRS estrecho
+T75	SYMPTOM 2012 2031	onda R > S en V2-V3
+T76	SYMPTOM 2034 2049	descenso del ST
+T77	SYMPTOM 2193 2227	índice cardiotorácico no aumentado
+T78	SYMPTOM 2229 2264	senos costo y cardiofrénicos libres
+T79	SYMPTOM 2270 2288	hilios congestivos
+T80	SYMPTOM 2292 2315	redistribución vascular
+T81	SYMPTOM 2333 2338	masas
+T82	SYMPTOM 2341 2364	nódulos parenquimatosos
+T83	SYMPTOM 3121 3153	ventrículo izquierdo no dilatado
+T84	SYMPTOM 3465 3538	Válvulas mitral, tricúspide y pulmonar de morfología y movilidad normales
+T85	SYMPTOM 3540 3570	Ventrículo derecho no dilatado
+T86	SYMPTOM 3643 3678	función sistólica global preservada
+T87	SYMPTOM 3719 3766	Vena cava inferior y suprahepática no dilatadas
+T88	SYMPTOM 3930 3982	alteración de la relajación del ventrículo izquierdo
+T89	SYMPTOM 5094 5108	dolor torácico
+T90	SYMPTOM 4104 4169	Alteraciones de la contractilidad segmentaria en territorio de Cx
+T91	SYMPTOM 1933 1952	taquicardia sinusal
+T92	SYMPTOM 3173 3263	Hipocinesia (sin pared adelgazada) de segmentos basales-medios de cara lateral y posterior
+T93	SYMPTOM 3314 3347	FEVI residual levemente deprimida
+T94	SYMPTOM 3406 3425	AD de tamaño normal
+T95	SYMPTOM 3427 3463	Válvula aórtica tricomisural, normal
+T96	SYMPTOM 5644 5669	elevación del segmento ST
+T97	SYMPTOM 5884 5929	Hipocinesia posterior y lateral basal y media
+T98	SYMPTOM 4208 4243	tronco común izquierdo sin lesiones
+T99	SYMPTOM 2385 2410	suero ictérico y lipémico
+T100	SYMPTOM 4481 4514	sistema de obtusa de buen calibre
+T101	MEDICATION 335 344	enalapril
+T102	MEDICATION 700 709	omeprazol
+T103	MEDICATION 724 733	enalapril
+T104	MEDICATION 5266 5276	metformina
+T105	MEDICATION 5279 5293	empagliflozina

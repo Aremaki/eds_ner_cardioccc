@@ -1,0 +1,72 @@
+T1	ENFERMEDAD 330 355	faringitis estreptocócica
+T2	ENFERMEDAD 358 408	trastorno por déficit de atención e hiperactividad
+T3	ENFERMEDAD 615 629	HTA secundaria
+T4	ENFERMEDAD 798 808	hipertenso
+T5	ENFERMEDAD 2542 2639	Válvula aórtica (VAo) bicúspide tipo I con fusión de velo coronario derecho y coronario izquierdo
+T6	ENFERMEDAD 2797 2816	Coartación de aorta
+T7	ENFERMEDAD 3220 3239	derrame pericárdico
+T8	ENFERMEDAD 3260 3278	coartación aórtica
+T9	ENFERMEDAD 3670 3715	coartación de aorta e hipertensión secundaria
+T10	ENFERMEDAD 3872 3895	cardiopatías congénitas
+T11	ENFERMEDAD 4112 4131	Coartación de aorta
+T12	ENFERMEDAD 4133 4165	Hipertensión arterial secundaria
+T13	ENFERMEDAD 2519 2526	IT leve
+T14	ENFERMEDAD 3485 3510	Válvula aórtica bicúspide
+T15	ENFERMEDAD 4167 4192	Válvula aórtica bicúspide
+T16	ENFERMEDAD 2159 2197	hipertrofia de VI concéntrica moderada
+T17	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T18	PROCEDIMIENTO 674 701	analítica de sangre y orina
+T19	PROCEDIMIENTO 718 737	ecografía abdominal
+T20	PROCEDIMIENTO 838 868	mediciones de tensión arterial
+T21	PROCEDIMIENTO 1294 1312	exploración física
+T22	PROCEDIMIENTO 1413 1430	antihipertensivos
+T23	PROCEDIMIENTO 1518 1539	auscultación pulmonar
+T24	PROCEDIMIENTO 1835 1838	ECG
+T25	PROCEDIMIENTO 2018 2038	Radiografía de tórax
+T26	PROCEDIMIENTO 2104 2118	Ecocardiograma
+T27	PROCEDIMIENTO 2983 3018	Doppler en aorta abdominal continuo
+T28	PROCEDIMIENTO 3241 3258	Angio-TC de tórax
+T29	PROCEDIMIENTO 3557 3566	anamnesis
+T30	PROCEDIMIENTO 3585 3603	exploración física
+T31	PROCEDIMIENTO 3615 3629	ecocardiograma
+T32	PROCEDIMIENTO 3805 3830	angio-TC torácico de cara
+T33	PROCEDIMIENTO 3981 4008	intervencionismo percutáneo
+T34	SINTOMA 558 570	asintomático
+T35	SINTOMA 718 744	ecografía abdominal normal
+T36	SINTOMA 1211 1223	Asintomático
+T37	SINTOMA 1228 1249	síntomas neurológicos
+T38	SINTOMA 1322 1341	buen estado general
+T39	SINTOMA 1378 1393	Rasgos normales
+T40	SINTOMA 1496 1502	soplos
+T41	SINTOMA 1566 1596	soplo sistólico interescapular
+T42	SINTOMA 1598 1636	Pulsos radiales presentes y simétricos
+T43	SINTOMA 1638 1675	Pulsos femorales y pedios disminuidos
+T44	SINTOMA 1840 1853	ritmo sinusal
+T45	SINTOMA 1864 1873	PR normal
+T46	SINTOMA 1875 1887	QRS estrecho
+T47	SINTOMA 2077 2102	ausencia de botón aórtico
+T48	SINTOMA 2120 2157	ventrículo izquierdo (VI) no dilatado
+T49	SINTOMA 2207 2235	Función sistólica conservada
+T50	SINTOMA 2250 2304	alteraciones de la contractilidad parietal segmentaria
+T51	SINTOMA 2306 2330	Patrón diastólico normal
+T52	SINTOMA 2332 2367	Ventrículo derecho de tamaño normal
+T53	SINTOMA 2369 2387	función conservada
+T54	SINTOMA 2403 2429	Aurículas de tamaño normal
+T55	SINTOMA 2431 2491	Válvula mitral: velos finos, cinética de apertura conservada
+T56	SINTOMA 3147 3177	Vena cava inferior no dilatada
+T57	SINTOMA 230 235	soplo
+T58	SINTOMA 1518 1556	auscultación pulmonar normoventilación
+T59	SINTOMA 479 506	cifras tensionales elevadas
+T60	SINTOMA 1889 1899	eje normal
+T61	SINTOMA 674 715	analítica de sangre y orina sin hallazgos
+T62	SINTOMA 1343 1376	desarrollo y crecimiento correcto
+T63	SINTOMA 1677 1713	Toma de TA en ambos brazos y piernas
+T64	SINTOMA 1972 2016	alteraciones relevantes de la repolarización
+T65	SINTOMA 2040 2058	muescas de Roesler
+T66	SINTOMA 2061 2072	signo del 3
+T67	SINTOMA 2711 2787	Raíz aórtica, aorta ascendente visualizada y cayado aórtico de tamaño normal
+T68	SINTOMA 3283 3317	compromiso grave de la luz aórtica
+T69	SINTOMA 3372 3483	abundante circulación colateral a través de arterias mamarias internas, intercostales y escapulares posteriores
+T70	FARMACO 4031 4052	olmesartán-amlodipino
+T71	FARMACO 4062 4072	bisoprolol
+T72	FARMACO 4081 4091	eplerenona

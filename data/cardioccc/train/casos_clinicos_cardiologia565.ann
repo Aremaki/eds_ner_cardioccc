@@ -1,0 +1,161 @@
+T1	DISEASE 194 215	hipertensión arterial
+T2	DISEASE 217 227	Dislipemia
+T3	DISEASE 405 414	depresión
+T4	DISEASE 461 489	Traumatismo craneoencefálico
+T5	DISEASE 491 494	TCE
+T6	DISEASE 855 870	ánimo depresivo
+T7	DISEASE 931 970	traumatismo craneoencefálico secundario
+T8	DISEASE 2296 2299	TCE
+T9	DISEASE 3230 3252	insuficiencia cardiaca
+T10	DISEASE 3284 3312	patologia intracraneal aguda
+T11	DISEASE 3368 3403	hematoma epicraneal frontal derecho
+T12	DISEASE 3408 3423	fracturas óseas
+T13	DISEASE 3810 3843	Aneurisma del septo inteauricular
+T14	DISEASE 4921 4946	Derrame pleural bilateral
+T15	DISEASE 4999 5021	insuficiencia cardiaca
+T16	DISEASE 5060 5085	miocardiopatia por estrés
+T17	DISEASE 5087 5109	síndrome de tako-tsubo
+T18	DISEASE 5134 5150	edema miocárdico
+T19	DISEASE 5488 5518	hiponatremia grave hipoosmolar
+T20	DISEASE 5765 5779	hipomagnesemia
+T21	DISEASE 5782 5793	hipocalemia
+T22	DISEASE 6051 6072	síndrome de takotsubo
+T23	DISEASE 6396 6428	enfermedad coronaria obstructiva
+T24	DISEASE 6453 6464	cardiopatia
+T25	DISEASE 6495 6519	miocardiopatia de estrés
+T26	DISEASE 6630 6658	trastorno hidroelectrolitico
+T27	DISEASE 6710 6732	SIADH secundario a TCE
+T28	DISEASE 6806 6829	siń drome de tako-tsubo
+T29	DISEASE 6857 6875	hiponatremia grave
+T30	DISEASE 6908 6937	traumatismo creaneoencefálico
+T31	DISEASE 7143 7167	Miocardiopatia de estrés
+T32	DISEASE 7289 7330	Hiponatremia grave hipoosmolar euvolémica
+T33	DISEASE 7365 7370	SIADH
+T34	DISEASE 7373 7376	TCE
+T35	DISEASE 7378 7406	Traumatismo craneoencefálico
+T36	DISEASE 7408 7429	Hipertensión arterial
+T37	DISEASE 7431 7441	Dislipemia
+T38	DISEASE 7443 7461	Sindrome depresivo
+T39	DISEASE 3739 3778	Auricula izquierda ligeramente dilatada
+T40	DISEASE 6074 6098	miocardiopatia de estrés
+T41	DISEASE 3358 3367	Contusión
+T42	DISEASE 7181 7199	hiponatremia grave
+T43	PROCEDURE 6691 6699	tiazidas
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 352 370	electrocardiograma
+T46	PROCEDURE 372 375	ECG
+T47	PROCEDURE 1008 1011	TAC
+T48	PROCEDURE 1332 1350	electrocardiograma
+T49	PROCEDURE 1353 1371	Exploración física
+T50	PROCEDURE 1552 1573	Auscultación cardiaca
+T51	PROCEDURE 1634 1655	Auscultación pulmonar
+T52	PROCEDURE 1746 1769	Exploración neurológica
+T53	PROCEDURE 1803 1806	ECG
+T54	PROCEDURE 1996 1999	ECG
+T55	PROCEDURE 2128 2131	ECG
+T56	PROCEDURE 2360 2379	Analitica de sangre
+T57	PROCEDURE 2783 2803	Marcadores cardiacos
+T58	PROCEDURE 2899 2917	Analitica de orina
+T59	PROCEDURE 3017 3027	Bioquimica
+T60	PROCEDURE 3134 3148	PCR SARS-CoV-2
+T61	PROCEDURE 3160 3180	Radiografía de tórax
+T62	PROCEDURE 3254 3264	TC craneal
+T63	PROCEDURE 3426 3440	Ecocardiograma
+T64	PROCEDURE 4025 4054	Resonancia magnética cardiaca
+T65	PROCEDURE 4056 4059	RMC
+T66	PROCEDURE 4356 4363	T2-STIR
+T67	PROCEDURE 4654 4661	T2-STIR
+T68	PROCEDURE 5376 5391	Coronariografía
+T69	PROCEDURE 5714 5725	TAC craneal
+T70	PROCEDURE 5888 5891	ECG
+T71	PROCEDURE 5938 5952	ecocardiograma
+T72	PROCEDURE 6121 6132	cardiologia
+T73	PROCEDURE 6221 6233	sueroterapia
+T74	PROCEDURE 6368 6383	coronariografía
+T75	PROCEDURE 6702 6706	ISRS
+T76	PROCEDURE 447 458	Faquectomia
+T77	PROCEDURE 217 252	Dislipemia en tratamiento con dieta
+T78	PROCEDURE 2919 2928	Sedimento
+T79	PROCEDURE 1014 1023	analítica
+T80	SYMPTOM 110 136	inestabilidad de la marcha
+T81	SYMPTOM 532 539	sincope
+T82	SYMPTOM 736 762	inestabilidad de la marcha
+T83	SYMPTOM 1059 1073	dolor torácico
+T84	SYMPTOM 1094 1100	disnea
+T85	SYMPTOM 1102 1110	ortopnea
+T86	SYMPTOM 1114 1141	disnea paroxística nocturna
+T87	SYMPTOM 1191 1197	fiebre
+T88	SYMPTOM 1271 1313	elevación de marcadores de daño miocárdico
+T89	SYMPTOM 1316 1350	alteraciones en electrocardiograma
+T90	SYMPTOM 1459 1469	Consciente
+T91	SYMPTOM 1472 1481	orientada
+T92	SYMPTOM 1483 1502	buen estado general
+T93	SYMPTOM 1504 1524	Eupneica en decúbito
+T94	SYMPTOM 1530 1550	trabajo respiratorio
+T95	SYMPTOM 1575 1582	ritmica
+T96	SYMPTOM 1584 1617	soplo sistólico en borde esternal
+T97	SYMPTOM 1657 1686	murmullo vesicular conservado
+T98	SYMPTOM 1713 1744	Miembros inferiores: sin edemas
+T99	SYMPTOM 1746 1776	Exploración neurológica normal
+T100	SYMPTOM 1819 1832	ritmo sinusal
+T101	SYMPTOM 1843 1852	PR normal
+T102	SYMPTOM 1854 1881	QRS estrecho con eje normal
+T103	SYMPTOM 1896 1972	elevación del ST de 1-2 mm en precordiales y submilimétrica en cara inferior
+T104	SYMPTOM 2016 2061	elevación del ST de V2-V6 de hasta 3 mm en V3
+T105	SYMPTOM 2141 2154	ritmo sinusal
+T106	SYMPTOM 2165 2174	PR normal
+T107	SYMPTOM 2176 2188	QRS estrecho
+T108	SYMPTOM 2190 2263	onda T negativa profunda y simétrica en cara inferior, I y aVL y de V2-V6
+T109	SYMPTOM 3134 3158	PCR SARS-CoV-2: negativa
+T110	SYMPTOM 3587 3625	Hiperquinesia de los segmentos basales
+T111	SYMPTOM 3627 3675	Función sistólica global moderadamente deprimida
+T112	SYMPTOM 4062 4118	ventriculo izquierdo: a) tamaño y función: tamaño normal
+T113	SYMPTOM 4823 4870	Válvula mitral con velos finos, apertura normal
+T114	SYMPTOM 5563 5590	osmolaridad en orina normal
+T115	SYMPTOM 5765 5779	hipomagnesemia
+T116	SYMPTOM 5835 5867	elevación de troponina en meseta
+T117	SYMPTOM 5896 5907	QS anterior
+T118	SYMPTOM 5910 5935	elevación residual del ST
+T119	SYMPTOM 5992 6034	alteraciones de la contracción segmentaria
+T120	SYMPTOM 6948 6960	asintomática
+T121	SYMPTOM 6962 6969	afebril
+T122	SYMPTOM 6971 6996	hemodinámicamente estable
+T123	SYMPTOM 7235 7275	Función ventricular gravemente deprimida
+T124	SYMPTOM 5548 5558	euvolémica
+T125	SYMPTOM 889 896	sincope
+T126	SYMPTOM 352 383	electrocardiograma (ECG) normal
+T127	SYMPTOM 878 888	presincope
+T128	SYMPTOM 1883 1894	QS anterior
+T129	SYMPTOM 1974 1994	T negativas en I-aVL
+T130	SYMPTOM 2066 2107	onda T negativa en todas las precordiales
+T131	SYMPTOM 3519 3585	Aquinesia de segmentos medios y distales de todas las caras y ápex
+T132	SYMPTOM 3780 3808	Auricula derecha no dilatada
+T133	SYMPTOM 3942 4009	Ventriculo derecho no dilatado, con función sistólica global normal
+T134	SYMPTOM 4144 4208	Hipoquinesia de los segmentos distales de todas las caras y ápex
+T135	SYMPTOM 4561 4649	Ventriculo derecho: a) Tamaño y función: tamaño normal, no hipertrófico, normocontráctil
+T136	SYMPTOM 4756 4786	Auricula izquierda no dilatada
+T137	SYMPTOM 4788 4821	Auricula derecha de tamaño normal
+T138	SYMPTOM 4872 4919	Válvula aórtica trivalva, funcionalmente normal
+T139	SYMPTOM 5299 5363	Función sistólica global en el lim ite inferior de la normalidad
+T140	SYMPTOM 7201 7233	Arterias coronarias sin lesiones
+T141	SYMPTOM 4948 4971	Opacidades perihiliares
+T142	SYMPTOM 1201 1253	clinica infecciosa, respiratoria ni gastrointestinal
+T143	SYMPTOM 6327 6348	focalidad neurológica
+T144	SYMPTOM 1008 1051	TAC y analítica que refiere fueron normales
+T145	SYMPTOM 3426 3517	Ecocardiograma reglado: ventriculo izquierdo no dilatado, con espesores parietales normales
+T146	SYMPTOM 5393 5418	arterias coronarias lisas
+T147	SYMPTOM 5714 5739	TAC craneal sin hallazgos
+T148	MEDICATION 435 445	sertralina
+T149	MEDICATION 561 583	ácido acetilsalicílico
+T150	MEDICATION 600 610	hidroferol
+T151	MEDICATION 638 665	hidroclorotiazida/amilorida
+T152	MEDICATION 683 693	sertralina
+T153	MEDICATION 840 850	sertralina
+T154	MEDICATION 5634 5644	sertralina
+T155	MEDICATION 5685 5712	hidroclorotiazida/amilorida
+T156	MEDICATION 6162 6172	sertralina
+T157	MEDICATION 6199 6204	sodio
+T158	MEDICATION 6265 6272	potasio
+T159	MEDICATION 6275 6283	magnesio
+T160	MEDICATION 7481 7491	sertralina
+#1	AnnotatorNotes T27	TCE: traumatismo craneoencefálico

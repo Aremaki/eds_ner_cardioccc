@@ -1,0 +1,119 @@
+T1	DISEASE 159 180	hipertensión arterial
+T2	DISEASE 182 185	HTA
+T3	DISEASE 188 212	diabetes mellitus tipo 2
+T4	DISEASE 214 217	DM2
+T5	DISEASE 220 230	dislipemia
+T6	DISEASE 260 282	insuficiencia cardiaca
+T7	DISEASE 304 328	Cardiopatía hipertensiva
+T8	DISEASE 428 467	cólico biliar secundario a colelitiasis
+T9	DISEASE 2290 2305	Derrame pleural
+T10	DISEASE 2706 2721	daño miocárdico
+T11	DISEASE 2803 2825	insuficiencia cardiaca
+T12	DISEASE 3289 3320	Insuficiencia tricúspide ligera
+T13	DISEASE 3394 3424	hipertensión pulmonar moderada
+T14	DISEASE 3503 3581	estenosis leve-moderada en DA próximomedial y segmento proximal de 1a diagonal
+T15	DISEASE 3981 4036	vasoespasmo difuso de todo el árbol coronario izquierdo
+T16	DISEASE 4170 4239	estenosis moderadas funcionalmente no significativas en DA y diagonal
+T17	DISEASE 5012 5034	insuficiencia cardiaca
+T18	DISEASE 5095 5127	vasoespasmo coronario epicárdico
+T19	DISEASE 4961 4995	Edema agudo de pulmón hipertensivo
+T20	DISEASE 3769 3771	IC
+T21	DISEASE 2901 2957	entrículo izquierdo con hipertrofia concéntrica moderada
+T22	DISEASE 5129 5150	Disfunción diastólica
+T23	DISEASE 5069 5090	Disfunción endotelial
+T24	PROCEDURE 1430 1448	Exploración física
+T25	PROCEDURE 1648 1658	diuréticos
+T26	PROCEDURE 1702 1719	broncodilatadores
+T27	PROCEDURE 1809 1830	Auscultación cardiaca
+T28	PROCEDURE 1881 1902	Auscultación pulmonar
+T29	PROCEDURE 2062 2080	Electrocardiograma
+T30	PROCEDURE 2082 2085	ECG
+T31	PROCEDURE 2198 2218	Radiografía de tórax
+T32	PROCEDURE 2358 2367	Hemograma
+T33	PROCEDURE 2485 2496	Coagulación
+T34	PROCEDURE 2875 2890	Ecocardiografía
+T35	PROCEDURE 3457 3501	Coronariografía vía arteria radial izquierda
+T36	PROCEDURE 3602 3660	valoración funcional de ambas lesiones con guía de presión
+T37	PROCEDURE 3804 3824	test de acetilcolina
+T38	PROCEDURE 4241 4261	Test de acetilcolina
+T39	PROCEDURE 4362 4384	tratamiento deplectivo
+T40	PROCEDURE 4414 4429	coronariografía
+T41	PROCEDURE 4446 4472	tratamiento betabloqueante
+T42	PROCEDURE 2516 2526	Bioquímica
+T43	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T44	PROCEDURE 2585 2590	Iones
+T45	PROCEDURE 2601 2617	función hepática
+T46	PROCEDURE 1398 1427	marcadores de daño miocárdico
+T47	PROCEDURE 1630 1646	O2 suplementario
+T48	PROCEDURE 2689 2721	Biomarcadores de daño miocárdico
+T49	PROCEDURE 2789 2825	Marcadores de insuficiencia cardiaca
+T50	PROCEDURE 4500 4538	calcioantagonista no dihidropiridínico
+T51	PROCEDURE 2347 2356	Analítica
+T52	PROCEDURE 2434 2454	fórmula leucocitaria
+T53	PROCEDURE 1660 1699	nitroglicerina en perfusión intravenosa
+T54	PROCEDURE 3723 3745	regadenosón i.v. (FFR)
+T55	PROCEDURE 4126 4155	nitroglicerina intracoronaria
+T56	SYMPTOM 960 1012	disnea progresiva hasta hacerse de mínimos esfuerzos
+T57	SYMPTOM 1063 1099	edematización de miembros inferiores
+T58	SYMPTOM 1112 1120	ortopnea
+T59	SYMPTOM 1122 1149	disnea paroxística nocturna
+T60	SYMPTOM 1153 1161	oliguria
+T61	SYMPTOM 1192 1206	dolor torácico
+T62	SYMPTOM 1495 1517	regular estado general
+T63	SYMPTOM 1519 1528	taquipnea
+T64	SYMPTOM 1832 1858	ruidos cardiacos regulares
+T65	SYMPTOM 1864 1870	soplos
+T66	SYMPTOM 1904 1940	crepitantes bilaterales mediobasales
+T67	SYMPTOM 1943 1962	hipofonesis en base
+T68	SYMPTOM 1972 2002	Edemas tibiomaleolares en MMII
+T69	SYMPTOM 2088 2101	ritmo sinusal
+T70	SYMPTOM 2131 2143	QRS estrecho
+T71	SYMPTOM 2145 2196	subrectificación del segmento ST en V4-V6, II y aVF
+T72	SYMPTOM 2220 2251	índice cardiotorácico aumentado
+T73	SYMPTOM 2585 2599	Iones en rango
+T74	SYMPTOM 3027 3062	función global sistólica conservada
+T75	SYMPTOM 3097 3134	Llenado transmitral tipo pseudonormal
+T76	SYMPTOM 3160 3196	aumento de presiones telediastólicas
+T77	SYMPTOM 3442 3455	ritmo sinusal
+T78	SYMPTOM 3752 3766	dolor torácico
+T79	SYMPTOM 3906 3930	elevación de segmento ST
+T80	SYMPTOM 3933 3979	negativización leve de ondas T en V1-V3 y III)
+T81	SYMPTOM 4049 4072	opresión centrotorácica
+T82	SYMPTOM 4627 4645	edemas periféricos
+T83	SYMPTOM 4651 4657	disnea
+T84	SYMPTOM 4709 4723	dolor torácico
+T85	SYMPTOM 4877 4889	asintomático
+T86	SYMPTOM 4894 4900	disnea
+T87	SYMPTOM 4904 4918	dolor torácico
+T88	SYMPTOM 5039 5067	función sistólica conservada
+T89	SYMPTOM 287 302	FEVI conservada
+T90	SYMPTOM 2601 2634	función hepática sin alteraciones
+T91	SYMPTOM 3064 3095	Raíz y válvula aórtica normales
+T92	SYMPTOM 3231 3256	Ventrículo derecho normal
+T93	SYMPTOM 3776 3791	FEVI conservada
+T94	SYMPTOM 2485 2514	Coagulación: sin alteraciones
+T95	SYMPTOM 2253 2288	Infiltrados algodonosos bilaterales
+T96	SYMPTOM 3875 3904	cambios electrocardiográficos
+T97	SYMPTOM 2330 2344	condensaciones
+T98	SYMPTOM 3198 3219	disfunción diastólica
+T99	SYMPTOM 2422 2483	Leucocitos, fórmula leucocitaria y plaquetas sin alteraciones
+T100	SYMPTOM 3258 3287	Plétora de vena cava inferior
+T101	SYMPTOM 4241 4281	Test de acetilcolina positivo epicárdico
+T102	MEDICATION 491 500	nebivolol
+T103	MEDICATION 518 528	eplerenona
+T104	MEDICATION 545 555	furosemida
+T105	MEDICATION 572 586	dapagliflozina
+T106	MEDICATION 587 597	metformina
+T107	MEDICATION 623 634	fenofibrato
+T108	MEDICATION 652 664	simvastatina
+T109	MEDICATION 681 719	amlodipino/valsartán/hidroclorotiazida
+T110	MEDICATION 745 767	ácido acetilsalicílico
+T111	MEDICATION 785 794	omeprazol
+T112	MEDICATION 811 822	gabapentina
+T113	MEDICATION 844 855	clorazepato
+T114	MEDICATION 1630 1632	O2
+T115	MEDICATION 1660 1674	nitroglicerina
+T116	MEDICATION 4126 4140	nitroglicerina
+T117	MEDICATION 4474 4483	nebivolol
+T118	MEDICATION 4540 4549	diltiazem
+#1	AnnotatorNotes T20	 insuficiencia cardíaca

@@ -1,0 +1,125 @@
+T1	DISEASE 164 171	Fumador
+T2	DISEASE 278 285	infarto
+T3	DISEASE 324 352	hipercolesterolemia familiar
+T4	DISEASE 455 476	hipertensión arterial
+T5	DISEASE 478 481	HTA
+T6	DISEASE 484 501	diabetes mellitus
+T7	DISEASE 503 505	DM
+T8	DISEASE 509 519	dislipemia
+T9	DISEASE 521 523	DL
+T10	DISEASE 616 623	Migraña
+T11	DISEASE 1719 1722	TVP
+T12	DISEASE 2802 2836	Arteria DA con oclusión trombótica
+T13	DISEASE 4054 4082	hipercolesterolemia familiar
+T14	DISEASE 4378 4402	síndrome antifosfolípido
+T15	DISEASE 4834 4849	feocromocitomoa
+T16	DISEASE 4852 4866	parnaganglioma
+T17	DISEASE 4977 5058	síndrome coronario agudo con elevación del segmento ST (SCACEST) en cara anterior
+T18	DISEASE 5033 5040	SCACEST
+T19	DISEASE 5167 5256	enfermedad coronaria de un vaso, con oclusión trombótica de la arteria coronaria DA media
+T20	DISEASE 5538 5562	síndrome coronario agudo
+T21	DISEASE 5651 5658	fumador
+T22	DISEASE 5717 5731	metabolopatías
+T23	DISEASE 5779 5800	cardiopatía isquémica
+T24	DISEASE 5834 5862	hipercolesterolemia familiar
+T25	DISEASE 6109 6122	coagulopatías
+T26	DISEASE 6287 6301	feocromocitoma
+T27	DISEASE 6561 6583	insuficiencia cardiaca
+T28	DISEASE 6752 6768	SCACEST anterior
+T29	DISEASE 6806 6843	Enfermedad coronaria de un vaso (DAp)
+T30	DISEASE 6913 6939	Disfunción moderada del VI
+T31	DISEASE 6952 6975	Hiperlipoproteinemia A.
+T32	DISEASE 3324 3353	trombo flotando intraarterial
+T33	DISEASE 3438 3444	trombo
+T34	DISEASE 215 237	Consumidor de cannabis
+T35	DISEASE 599 614	Colon irritable
+T36	DISEASE 6608 6634	disfunción moderada del VI
+T37	DISEASE 3000 3020	contenido trombótico
+T38	PROCEDURE 357 373	estudio genético
+T39	PROCEDURE 1141 1159	Exploración física
+T40	PROCEDURE 1439 1461	auscultación carotídea
+T41	PROCEDURE 1463 1484	Auscultación cardiaca
+T42	PROCEDURE 1538 1559	Auscultación pulmonar
+T43	PROCEDURE 1640 1661	Exploración abdominal
+T44	PROCEDURE 1760 1769	Hemograma
+T45	PROCEDURE 2365 2376	Coagulación
+T46	PROCEDURE 2410 2426	Tóxicos en orina
+T47	PROCEDURE 2506 2524	Electrocardiograma
+T48	PROCEDURE 2707 2722	Coronariografía
+T49	PROCEDURE 2915 2966	Angioplastia: con XB 3.5 se avanza Sion a DA distal
+T50	PROCEDURE 3081 3128	implante directo de stent farmacoactivo Synergy
+T51	PROCEDURE 3231 3257	posdilatación con balón NC
+T52	PROCEDURE 3385 3423	romboaspiración con dispositivo Pronto
+T53	PROCEDURE 3495 3507	angiográfico
+T54	PROCEDURE 3513 3529	tromboaspiración
+T55	PROCEDURE 3552 3566	Ecocardiograma
+T56	PROCEDURE 4032 4048	Estudio genético
+T57	PROCEDURE 4142 4155	Cromatografía
+T58	PROCEDURE 4158 4172	electroforesis
+T59	PROCEDURE 4219 4232	cromatografía
+T60	PROCEDURE 5120 5135	coronariografía
+T61	PROCEDURE 5283 5334	angioplastia con implante de un stent farmacoactivo
+T62	PROCEDURE 5361 5409	aspiración de los restos del material trombótico
+T63	PROCEDURE 5875 5904	analítica con perfil lipídico
+T64	PROCEDURE 6045 6061	tóxicos en orina
+T65	PROCEDURE 6098 6122	estudio de coagulopatías
+T66	PROCEDURE 6336 6382	perfil lipídico con una lipoproteína A (Lp(a))
+T67	PROCEDURE 6845 6911	Revascularización total percutánea mediante un stent farmacoactivo
+T68	PROCEDURE 1925 1935	Bioquímica
+T69	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 3809 3847	Marcadores de daño miocárdico seriados
+T71	PROCEDURE 4368 4377	Serología
+T72	PROCEDURE 4320 4331	Toxicología
+T73	PROCEDURE 3788 3797	Analítica
+T74	PROCEDURE 5336 5358	perfusión de tirofibán
+T75	PROCEDURE 6168 6197	metanefrinas en suero y orina
+T76	PROCEDURE 3035 3068	tirofibán i.v. (bolo + perfusión)
+T77	PROCEDURE 3214 3219	stent
+T78	PROCEDURE 5089 5103	código corazón
+T79	SYMPTOM 727 825	dolor torácico opresivo de gran intensidad, que inició en reposo, que se irradia a brazo izquierdo
+T80	SYMPTOM 970 975	dolor
+T81	SYMPTOM 1026 1062	opresión precordial con el ejercicio
+T82	SYMPTOM 1199 1206	afebril
+T83	SYMPTOM 1208 1223	normoperfundido
+T84	SYMPTOM 1246 1260	dolor torácico
+T85	SYMPTOM 1352 1369	Cuello: simétrico
+T86	SYMPTOM 1374 1395	ingurgitación yugular
+T87	SYMPTOM 1426 1432	soplos
+T88	SYMPTOM 1486 1512	ruidos cardiacos regulares
+T89	SYMPTOM 1517 1523	soplos
+T90	SYMPTOM 1526 1536	extratonos
+T91	SYMPTOM 1561 1588	murmullo vesicular presente
+T92	SYMPTOM 1618 1638	ruidos sobreañadidos
+T93	SYMPTOM 1640 1670	Exploración abdominal: anodina
+T94	SYMPTOM 1672 1703	Miembros inferiores: simétricas
+T95	SYMPTOM 1726 1732	edemas
+T96	SYMPTOM 2526 2539	ritmo sinusal
+T97	SYMPTOM 2552 2571	intervalo PR normal
+T98	SYMPTOM 2573 2585	QRS estrecho
+T99	SYMPTOM 2606 2667	elevación del segmento ST de hasta 3 mm en cara anterolateral
+T100	SYMPTOM 3568 3605	ventrículo izquierdo (VI) no dilatado
+T101	SYMPTOM 4611 4671	niveles de metanefrinas y metanefrinas en orina son normales
+T102	SYMPTOM 4717 4747	elevación de la normetanefrina
+T103	SYMPTOM 5006 5031	elevación del segmento ST
+T104	SYMPTOM 5484 5496	asintomático
+T105	SYMPTOM 6045 6079	tóxicos en orina que son negativos
+T106	SYMPTOM 324 382	hipercolesterolemia familiar con estudio genético positivo
+T107	SYMPTOM 1399 1419	reflujo hepatoyugula
+T108	SYMPTOM 3610 3659	acinesia extensa anterior, anteroseptal y lateral
+T109	SYMPTOM 4032 4092	Estudio genético para hipercolesterolemia familiar: negativo
+T110	SYMPTOM 6650 6699	acinesia extensa anterior, anteroseptal y lateral
+T111	SYMPTOM 2365 2384	Coagulación: normal
+T112	SYMPTOM 2587 2597	eje normal
+T113	SYMPTOM 2763 2786	Arteria Cx sin lesiones
+T114	SYMPTOM 2724 2747	arteria CD sin lesiones
+T115	SYMPTOM 2421 2504	orina: benzodiacepinas, opiáceos, cocaína, cannabinoides y metanfetaminas negativas
+T116	SYMPTOM 155 162	Delgado
+T117	SYMPTOM 876 894	clínica vegetativa
+T118	SYMPTOM 1590 1612	campos bien ventilados
+T119	SYMPTOM 4404 4440	anticardiolipina IgG e IgM negativos
+T120	SYMPTOM 4491 4534	antibeta2 glicoproteína IgM e IgG negativas
+T121	SYMPTOM 5930 5972	valores de colesterol total o LDL elevados
+T122	SYMPTOM 6098 6153	estudio de coagulopatías que resultan también negativos
+T123	SYMPTOM 6360 6403	lipoproteína A (Lp(a)), que resulta elevada
+T124	MEDICATION 3035 3044	tirofibán
+T125	MEDICATION 5349 5358	tirofibán

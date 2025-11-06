@@ -1,0 +1,267 @@
+T1	DISEASE 146 168	Alérgico a penicilinas
+T2	DISEASE 223 232	exfumador
+T3	DISEASE 297 318	hipertensión arterial
+T4	DISEASE 320 323	HTA
+T5	DISEASE 326 377	Enfermedad pulmonar obstructiva crónica (EPOC) leve
+T6	DISEASE 367 371	EPOC
+T7	DISEASE 508 526	Bocio multinodular
+T8	DISEASE 552 593	Fibrilación/flutter auricular paroxístico
+T9	DISEASE 646 659	shock séptico
+T10	DISEASE 830 842	úlcera sacra
+T11	DISEASE 886 901	angor inestable
+T12	DISEASE 1044 1052	isquemia
+T13	DISEASE 1113 1167	síndrome coronario agudo sin elevación del segmento ST
+T14	DISEASE 1169 1176	SCASEST
+T15	DISEASE 1225 1257	lesión de tronco común izquierdo
+T16	DISEASE 1528 1556	dilatación leve raíz aórtica
+T17	DISEASE 1558 1592	insuficiencia mitral leve-moderada
+T18	DISEASE 1671 1708	Enfermedad de reflujo gastroesofágico
+T19	DISEASE 1710 1714	ERGE
+T20	DISEASE 1720 1730	esofagitis
+T21	DISEASE 1757 1765	Acalasia
+T22	DISEASE 1861 1901	infección respiratoria por P. aeruginosa
+T23	DISEASE 1903 1940	infección de escara sacra por E. coli
+T24	DISEASE 1962 1985	colecistitis alitiásica
+T25	DISEASE 1987 2025	Diverticulosis de colon con hemorragia
+T26	DISEASE 2059 2079	anemias ferropénicas
+T27	DISEASE 2089 2106	gastritis crónica
+T28	DISEASE 2138 2178	Pólipo pediculado a 30 cm de margen anal
+T29	DISEASE 2230 2242	divertículos
+T30	DISEASE 2285 2327	Angiodisplasia de intestino con hemorragia
+T31	DISEASE 2937 2944	melenas
+T32	DISEASE 3227 3259	lesión en tronco común izquierdo
+T33	DISEASE 3323 3366	disfunción moderada de ventrículo izquierdo
+T34	DISEASE 4193 4232	trombosis venosa en miembros inferiores
+T35	DISEASE 4463 4484	fibrilación auricular
+T36	DISEASE 4606 4623	flutter auricular
+T37	DISEASE 4786 4801	derrame pleural
+T38	DISEASE 5679 5691	úlcera sacra
+T39	DISEASE 5824 5827	HVI
+T40	DISEASE 6511 6554	Insuficiencia tricúspide (IT) leve-moderada
+T41	DISEASE 6694 6713	derrame pericárdico
+T42	DISEASE 6769 6782	valvulopatías
+T43	DISEASE 6822 6843	hipertensión pulmonar
+T44	DISEASE 6897 6923	tronco común con estenosis
+T45	DISEASE 7256 7323	Coronaria derecha dominante anatómicamente, difusamente ateromatosa
+T46	DISEASE 7850 7876	Angiodisplasia en estómago
+T47	DISEASE 7907 7934	Pólipo milimétrico en ciego
+T48	DISEASE 8973 9003	fibrilación flyutter auricular
+T49	DISEASE 9269 9282	valvulopatías
+T50	DISEASE 9289 9310	hipertensión pulmonar
+T51	DISEASE 9958 9966	COVID-19
+T52	DISEASE 10087 10119	úlcera por presión en zona sacra
+T53	DISEASE 10491 10502	anemización
+T54	DISEASE 10702 10709	melenas
+T55	DISEASE 11107 11109	FA
+T56	DISEASE 11413 11451	Angiodisplasias en estómago y en ciego
+T57	DISEASE 12306 12313	SCASEST
+T58	DISEASE 12325 12407	Enfermedad arterial coronaria grave de tronco coronario izquierdo (TCI) con lesión
+T59	DISEASE 12457 12489	Disfunción sistólica grave de VI
+T60	DISEASE 12521 12533	Anemia aguda
+T61	DISEASE 12607 12642	Angiodisplasias en estómago y ciego
+T62	DISEASE 12644 12686	Fibrilación/flutter auricular paroxísticos
+T63	DISEASE 12688 12713	Insuficiencia renal aguda
+T64	DISEASE 206 221	Hábitos tóxicos
+T65	DISEASE 6095 6180	Válvula aórtica esclerocalcificada, trivalva, con buena apertura e insuficiencia leve
+T66	DISEASE 4714 4727	cardiomegalia
+T67	DISEASE 8218 8229	hipotensión
+T68	DISEASE 3062 3082	hipotensión arterial
+T69	DISEASE 5776 5840	VI dilatado (DTD 70 mm), con hipertrofia de VI (HVI) septal leve
+T70	DISEASE 6182 6207	AI moderadamente dilatada
+T71	DISEASE 6209 6297	Válvula mitral esclerocalcificada, de velos engrosados, con regurgitación moderada-grave
+T72	DISEASE 6403 6445	Ventrículo derecho (VD) levemente dilatado
+T73	DISEASE 6581 6624	Vena cava inferior (VCI) levemente dilatada
+T74	DISEASE 8253 8274	mala perfusión distal
+T75	DISEASE 1745 1755	duodenitis
+T76	DISEASE 11645 11670	lesiones angiodisplásicas
+T77	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T78	PROCEDURE 381 408	tratamiento broncodilatador
+T79	PROCEDURE 716 734	cirugía de rodilla
+T80	PROCEDURE 903 931	Ecocardiograma transtorácico
+T81	PROCEDURE 933 936	ETT
+T82	PROCEDURE 1018 1028	ergometría
+T83	PROCEDURE 1182 1209	imagen electrocardiográfica
+T84	PROCEDURE 1344 1433	triple terapia antitrombótica (ácido acetilsalicílico [AAS] + clopidogrel + acenocumarol)
+T85	PROCEDURE 1442 1445	ETT
+T86	PROCEDURE 1775 1802	Diverticulectomía esofágica
+T87	PROCEDURE 1942 1957	Colecistectomía
+T88	PROCEDURE 2027 2039	Gastroscopia
+T89	PROCEDURE 2042 2054	colonoscopia
+T90	PROCEDURE 3122 3140	electrocardiograma
+T91	PROCEDURE 3142 3145	ECG
+T92	PROCEDURE 3272 3287	ecocardioscopia
+T93	PROCEDURE 3416 3431	coronariografía
+T94	PROCEDURE 3663 3681	Exploración física
+T95	PROCEDURE 3780 3793	gafas nasales
+T96	PROCEDURE 3910 3931	Auscultación cardiaca
+T97	PROCEDURE 3962 3983	Auscultación pulmonar
+T98	PROCEDURE 4259 4262	ECG
+T99	PROCEDURE 4441 4444	ECG
+T100	PROCEDURE 4450 4461	cateterismo
+T101	PROCEDURE 4570 4573	ECG
+T102	PROCEDURE 4692 4712	Radiografía de tórax
+T103	PROCEDURE 5140 5151	Coagulación
+T104	PROCEDURE 5403 5422	Serología SARS-CoV2
+T105	PROCEDURE 5434 5447	PCR SARS-CoV2
+T106	PROCEDURE 5668 5691	cultivo de úlcera sacra
+T107	PROCEDURE 5749 5763	Ecocardiograma
+T108	PROCEDURE 6715 6729	Ecocardiograma
+T109	PROCEDURE 6859 6874	Coronariografía
+T110	PROCEDURE 7044 7077	cateterización selectiva del vaso
+T111	PROCEDURE 7379 7437	intervencionismo coronario percutáneo (ICP) a tronco común
+T112	PROCEDURE 7425 7475	tronco común, con implantación de un stent Synergy
+T113	PROCEDURE 7599 7654	sobreexpandir la porción proximal delstent con balón NC
+T114	PROCEDURE 7708 7735	Estudio cápsula endoscópica
+T115	PROCEDURE 8033 8045	gastroscopia
+T116	PROCEDURE 8048 8060	colonoscopia
+T117	PROCEDURE 8161 8178	revascularización
+T118	PROCEDURE 8351 8382	oxigenoterapia con FiO2 del 50%
+T119	PROCEDURE 9093 9108	ecocardioscopia
+T120	PROCEDURE 9172 9175	ETT
+T121	PROCEDURE 9459 9472	gafas nasales
+T122	PROCEDURE 9537 9555	exploración física
+T123	PROCEDURE 9908 9931	tratamiento antibiótico
+T124	PROCEDURE 9937 9966	PCR y serología para COVID-19
+T125	PROCEDURE 10344 10361	cultivo de esputo
+T126	PROCEDURE 10372 10391	antibioterapia oral
+T127	PROCEDURE 10430 10442	antibiograma
+T128	PROCEDURE 10988 11002	dieta absoluta
+T129	PROCEDURE 11087 11102	anticoagulación
+T130	PROCEDURE 11171 11213	doble antiagregación con AAS y clopidogrel
+T131	PROCEDURE 11287 11318	estudio con cápsula endoscópica
+T132	PROCEDURE 11588 11600	gastroscopia
+T133	PROCEDURE 11601 11613	colonoscopia
+T134	PROCEDURE 11619 11670	electrocoagulación de las lesiones angiodisplásicas
+T135	PROCEDURE 12068 12113	anticoagulantes antagonistas de la vitamina K
+T136	PROCEDURE 12116 12136	doble antiagregación
+T137	PROCEDURE 12274 12291	estudio digestivo
+T138	PROCEDURE 12417 12455	Implante de stent farmacoactivo en TCI
+T139	PROCEDURE 12551 12574	transfusión de hematíes
+T140	PROCEDURE 754 797	tratamiento anticoagulante con acenocumarol
+T141	PROCEDURE 8917 8935	soporte vasoactivo
+T142	PROCEDURE 5388 5401	Microbiología
+T143	PROCEDURE 10792 10833	se transfunden 2 concentrados de hematíes
+T144	PROCEDURE 1807 1837	miocardiomiotomia antirreflujo
+T145	PROCEDURE 5270 5281	lipidograma
+T146	PROCEDURE 7418 7421	ICP
+T147	PROCEDURE 9055 9088	control de frecuencia ventricular
+T148	PROCEDURE 9582 9613	diuresis forzadas con diurético
+T149	PROCEDURE 10064 10119	Se recogen muestras de úlcera por presión en zona sacra
+T150	PROCEDURE 4812 4821	Analítica
+T151	PROCEDURE 10461 10470	analítica
+T152	PROCEDURE 813 842	intervención por úlcera sacra
+T153	PROCEDURE 8490 8516	perfusión de noradrenalina
+T154	PROCEDURE 4145 4168	se palpan pulsos pedios
+T155	PROCEDURE 8444 8464	bolos de fenilefrina
+T156	PROCEDURE 9684 9703	bolos de furosemida
+T157	PROCEDURE 10146 10184	SARM, que es tratado con curas locales
+T158	SYMPTOM 116 130	dolor torácico
+T159	SYMPTOM 418 443	Nódulo pulmonar solitario
+T160	SYMPTOM 856 870	dolor torácico
+T161	SYMPTOM 903 954	Ecocardiograma transtorácico (ETT) sin alteraciones
+T162	SYMPTOM 956 971	FEVI conservada
+T163	SYMPTOM 1142 1167	elevación del segmento ST
+T164	SYMPTOM 2453 2485	Funciones superiores conservadas
+T165	SYMPTOM 2737 2769	molestia centrotorácica opresiva
+T166	SYMPTOM 2872 2924	dolor de inicio súbito, irradiado a espalda y cuello
+T167	SYMPTOM 2937 2944	melenas
+T168	SYMPTOM 2946 2953	vómitos
+T169	SYMPTOM 2964 2985	sangrado macroscópico
+T170	SYMPTOM 3037 3042	dolor
+T171	SYMPTOM 3062 3082	hipotensión arterial
+T172	SYMPTOM 3084 3093	taquipnea
+T173	SYMPTOM 3096 3117	mala perfusión distal
+T174	SYMPTOM 3159 3190	descenso difuso del segmento ST
+T175	SYMPTOM 3196 3212	elevación en aVR
+T176	SYMPTOM 3803 3810	afebril
+T177	SYMPTOM 3812 3822	Consciente
+T178	SYMPTOM 3825 3834	orientado
+T179	SYMPTOM 3836 3855	Palidez mucocutánea
+T180	SYMPTOM 3857 3878	mala perfusión distal
+T181	SYMPTOM 3880 3891	taquipneico
+T182	SYMPTOM 3910 3939	Auscultación cardiaca rítmica
+T183	SYMPTOM 3945 3960	soplos audibles
+T184	SYMPTOM 3988 4022	crepitantes pulmonares bilaterales
+T185	SYMPTOM 4044 4084	Abdomen: blando, depresible, no doloroso
+T186	SYMPTOM 4096 4140	livideces en extremidades inferiores y manos
+T187	SYMPTOM 4155 4168	pulsos pedios
+T188	SYMPTOM 4162 4180	pedios, sin edemas
+T189	SYMPTOM 4288 4301	ritmo sinusal
+T190	SYMPTOM 4312 4321	PR normal
+T191	SYMPTOM 4342 4364	descenso del ST difuso
+T192	SYMPTOM 4395 4439	elevación del ST de 1 mm en V1 y 2 mm en aVR
+T193	SYMPTOM 4666 4690	ondas Q en cara inferior
+T194	SYMPTOM 4729 4759	aumento de densidad perihiliar
+T195	SYMPTOM 5126 5137	neutrofilia
+T196	SYMPTOM 5140 5167	Coagulación en rango normal
+T197	SYMPTOM 5403 5432	Serología SARS-CoV2: negativa
+T198	SYMPTOM 5565 5663	esputo se aíslan colonias de cocobacilos gram negativos, con crecimiento de Haemophilus influenzae
+T199	SYMPTOM 5668 5747	cultivo de úlcera sacra se aíslan cocos gram positivos, con crecimiento de SARM
+T200	SYMPTOM 5866 5919	Función sistólica de VI moderada-gravemente deprimida
+T201	SYMPTOM 8218 8229	hipotensión
+T202	SYMPTOM 8945 8958	ritmo sinusal
+T203	SYMPTOM 9346 9364	signos congestivos
+T204	SYMPTOM 9513 9531	signos congestivos
+T205	SYMPTOM 9882 9889	afebril
+T206	SYMPTOM 9943 9975	serología para COVID-19 negativa
+T207	SYMPTOM 10026 10062	procalcitonina y leucocitos normales
+T208	SYMPTOM 10254 10263	febrícula
+T209	SYMPTOM 10289 10292	tos
+T210	SYMPTOM 10295 10308	expectoración
+T211	SYMPTOM 3599 3607	sangrado
+T212	SYMPTOM 7890 7898	sangrado
+T213	SYMPTOM 10910 10939	sangrado macroscópico y heces
+T214	SYMPTOM 11456 11464	sangrado
+T215	SYMPTOM 12025 12033	sangrado
+T216	SYMPTOM 1463 1478	FEVI conservada
+T217	SYMPTOM 5497 5560	se aísla S. aureus meticilin-resistente (SARM) en muestra nasal
+T218	SYMPTOM 5935 6013	acinesia de ápex, medio-apical de septo anterior, cara lateral y cara anterior
+T219	SYMPTOM 6060 6085	Raíz de aorta no dilatada
+T220	SYMPTOM 10087 10150	úlcera por presión en zona sacra (ya conocida), aislándose SARM
+T221	SYMPTOM 3893 3908	Plétora yugular
+T222	SYMPTOM 1483 1526	anomalías segmentarias de la contractilidad
+T223	SYMPTOM 10934 10970	heces sin aparentes restos hemáticos
+T224	SYMPTOM 11361 11377	restos hemáticos
+T225	SYMPTOM 10718 10741	sangrados macroscópicos
+T226	SYMPTOM 5434 5462	PCR SARS-CoV2: no detectable
+T227	SYMPTOM 6465 6495	Función sistólica de VD límite
+T228	SYMPTOM 6746 6757	FEVI normal
+T229	SYMPTOM 7082 7162	arteria descendente anterior tan solo presenta irregularidades no significativas
+T230	SYMPTOM 7167 7243	arteria circunfleja es un vaso de notable desarrollo que no muestra lesiones
+T231	SYMPTOM 7786 7814	ausencia de restos hemáticos
+T232	SYMPTOM 9836 9868	alteraciones de los electrolitos
+T233	SYMPTOM 10327 10361	H. Influenzae en cultivo de esputo
+T234	SYMPTOM 10593 10657	Hb al ingreso de 6,5 g/dl, normocítica, hipocrómica con ADE alto
+T235	SYMPTOM 11685 11748	tiempo en rango terapéutico (TRT) con sintrom, en el rango bajo
+T236	MEDICATION 785 797	acenocumarol
+T237	MEDICATION 1375 1397	ácido acetilsalicílico
+T238	MEDICATION 1399 1402	AAS
+T239	MEDICATION 1406 1417	clopidogrel
+T240	MEDICATION 1420 1432	acenocumarol
+T241	MEDICATION 2509 2518	omeprazol
+T242	MEDICATION 2526 2538	acenocumarol
+T243	MEDICATION 2557 2568	clopidogrel
+T244	MEDICATION 2576 2579	AAS
+T245	MEDICATION 2588 2598	bisoprolol
+T246	MEDICATION 2614 2622	losartán
+T247	MEDICATION 2637 2650	atorvastatina
+T248	MEDICATION 2658 2667	lorazepam
+T249	MEDICATION 2674 2685	mirtazapina
+T250	MEDICATION 8334 8344	furosemida
+T251	MEDICATION 8453 8464	fenilefrina
+T252	MEDICATION 8503 8516	noradrenalina
+T253	MEDICATION 8814 8827	noradrenalina
+T254	MEDICATION 9041 9049	digoxina
+T255	MEDICATION 9693 9703	furosemida
+T256	MEDICATION 10766 10777	pantoprazol
+T257	MEDICATION 11196 11199	AAS
+T258	MEDICATION 11202 11213	clopidogrel
+T259	MEDICATION 11723 11730	sintrom
+T260	MEDICATION 11859 11870	clopidogrel
+T261	MEDICATION 11879 11890	rivaroxabán
+T262	MEDICATION 12103 12113	vitamina K
+T263	MEDICATION 190 204	cefalosporinas
+T264	MEDICATION 10396 10410	cefalosporinas
+T265	MEDICATION 157 168	penicilinas
+T266	MEDICATION 11507 11513	hierro
+#1	AnnotatorNotes T39	 hipertrofia ventriculo izquierdo

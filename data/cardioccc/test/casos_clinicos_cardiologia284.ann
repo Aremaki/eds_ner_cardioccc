@@ -1,0 +1,135 @@
+T1	ENFERMEDAD 3882 3887	edema
+T2	ENFERMEDAD 79 90	miocarditis
+T3	ENFERMEDAD 223 235	cardiopatías
+T4	ENFERMEDAD 281 304	alergias medicamentosas
+T5	ENFERMEDAD 322 337	hábitos tóxicos
+T6	ENFERMEDAD 1029 1048	lesiones coronarias
+T7	ENFERMEDAD 1337 1359	insuficiencia cardiaca
+T8	ENFERMEDAD 1668 1693	trombosis venosa profunda
+T9	ENFERMEDAD 2561 2592	infección pasada por adenovirus
+T10	ENFERMEDAD 4318 4356	miocarditis aguda con fibrosis extensa
+T11	ENFERMEDAD 4637 4658	miopericarditis aguda
+T12	ENFERMEDAD 4714 4729	gastroenteritis
+T13	ENFERMEDAD 5217 5264	fibrosis denovo a nivel del septo basal y medio
+T14	ENFERMEDAD 5369 5412	trastornos en la contractilidad segmentaria
+T15	ENFERMEDAD 5702 5741	extrasístoles ventriculares monotópicas
+T16	ENFERMEDAD 5769 5792	bloqueo de rama derecha
+T17	ENFERMEDAD 6193 6204	miocarditis
+T18	ENFERMEDAD 6321 6332	miocarditis
+T19	ENFERMEDAD 6626 6664	Miocarditis aguda con fibrosis extensa
+T20	ENFERMEDAD 6709 6756	displasia arritmogénica de ventrículo izquierdo
+T21	ENFERMEDAD 6392 6444	miocarditis aguda de repetición con fibrosis extensa
+T22	ENFERMEDAD 6027 6038	miocarditis
+T23	ENFERMEDAD 6243 6251	fibrosis
+T24	ENFERMEDAD 6111 6176	fibrosis subepicárdica en la pared libre del ventrículo izquierdo
+T25	ENFERMEDAD 6454 6506	miocardiopatía arritmogénica de ventrículo izquierdo
+T26	ENFERMEDAD 6559 6574	miocardiopatías
+T27	ENFERMEDAD 4132 4196	fibrosis extensa de distribución subepicárdica e intramiocárdica
+T28	ENFERMEDAD 2371 2436	Salida anómala de la arteria coronaria derecha del seno izquierdo
+T29	ENFERMEDAD 5594 5617	edema a nivel del septo
+T30	ENFERMEDAD 5521 5554	depósitos grasos intramiocárdicos
+T31	ENFERMEDAD 2515 2522	sífilis
+T32	ENFERMEDAD 948 955	infarto
+T33	ENFERMEDAD 197 210	muerte súbita
+T34	ENFERMEDAD 920 935	daño miocárdico
+T35	ENFERMEDAD 2297 2304	derrame
+T36	ENFERMEDAD 5148 5156	fibrosis
+T37	PROCEDIMIENTO 983 998	coronariografía
+T38	PROCEDIMIENTO 1051 1069	Exploración física
+T39	PROCEDIMIENTO 1361 1393	Auscultación cardiorrespiratoria
+T40	PROCEDIMIENTO 1565 1574	palpación
+T41	PROCEDIMIENTO 1721 1724	ECG
+T42	PROCEDIMIENTO 1892 1901	Hemograma
+T43	PROCEDIMIENTO 2187 2207	Radiografía de tórax
+T44	PROCEDIMIENTO 2306 2321	Coronariografía
+T45	PROCEDIMIENTO 2485 2494	Serología
+T46	PROCEDIMIENTO 2740 2759	perfil hepatobiliar
+T47	PROCEDIMIENTO 2858 2873	Perfil lipídico
+T48	PROCEDIMIENTO 2954 2972	Hormonas tiroideas
+T49	PROCEDIMIENTO 2991 3000	Hemograma
+T50	PROCEDIMIENTO 3024 3059	Resonancia magnética (RMN) cardiaca
+T51	PROCEDIMIENTO 3834 3838	STIR
+T52	PROCEDIMIENTO 3998 4035	secuencia de perfusión de primer paso
+T53	PROCEDIMIENTO 4804 4832	ecocardiograma transtorácico
+T54	PROCEDIMIENTO 5032 5044	RMN cardiaca
+T55	PROCEDIMIENTO 5643 5646	RMN
+T56	PROCEDIMIENTO 5660 5678	Holter de 24 horas
+T57	PROCEDIMIENTO 5904 5930	tratamiento betabloqueante
+T58	PROCEDIMIENTO 6068 6080	RMN cardiaca
+T59	PROCEDIMIENTO 6258 6261	RMN
+T60	PROCEDIMIENTO 6529 6545	estudio genético
+T61	PROCEDIMIENTO 1971 1981	Bioquímica
+T62	PROCEDIMIENTO 2662 2672	Bioquímica
+T63	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T64	PROCEDIMIENTO 2062 2082	Seriación enzimática
+T65	PROCEDIMIENTO 2014 2027	función renal
+T66	PROCEDIMIENTO 2692 2705	función renal
+T67	PROCEDIMIENTO 2030 2035	iones
+T68	PROCEDIMIENTO 2708 2713	iones
+T69	PROCEDIMIENTO 906 935	marcadores de daño miocárdico
+T70	PROCEDIMIENTO 3046 3049	RMN
+T71	PROCEDIMIENTO 4085 4122	secuencia de realce tardío/viabilidad
+T72	PROCEDIMIENTO 5476 5506	secuencias STIR y sangre negra
+T73	PROCEDIMIENTO 6550 6574	panel de miocardiopatías
+T74	PROCEDIMIENTO 1868 1877	Analítica
+T75	PROCEDIMIENTO 2643 2652	Analítica
+T76	SINTOMA 491 533	dolor centrotorácico, de carácter opresivo
+T77	SINTOMA 601 606	dolor
+T78	SINTOMA 624 631	náuseas
+T79	SINTOMA 633 643	sudoración
+T80	SINTOMA 659 665	disnea
+T81	SINTOMA 757 763	fiebre
+T82	SINTOMA 766 780	dolor faríngeo
+T83	SINTOMA 856 890	alteraciones electrocardiográficas
+T84	SINTOMA 1070 1089	Buen estado general
+T85	SINTOMA 1091 1101	consciente
+T86	SINTOMA 1104 1130	orientado en las 3 esferas
+T87	SINTOMA 1132 1157	Estable hemodinámicamente
+T88	SINTOMA 1159 1177	Eupneico en reposo
+T89	SINTOMA 1179 1193	Normocoloreado
+T90	SINTOMA 1195 1222	bien hidratado y perfundido
+T91	SINTOMA 1224 1231	Afebril
+T92	SINTOMA 1361 1402	Auscultación cardiorrespiratoria: rítmico
+T93	SINTOMA 1427 1433	soplos
+T94	SINTOMA 1437 1447	extratonos
+T95	SINTOMA 1449 1478	Murmullo vesicular conservado
+T96	SINTOMA 1518 1574	Abdomen: blando y depresible, no doloroso a la palpación
+T97	SINTOMA 1580 1597	signos de defensa
+T98	SINTOMA 1601 1622	irritación peritoneal
+T99	SINTOMA 1747 1760	ritmo sinusal
+T100	SINTOMA 1771 1780	PR normal
+T101	SINTOMA 1796 1838	Elevación del punto J de < 1 mm de V4 a V6
+T102	SINTOMA 1840 1866	Onda T negativa de V4 a V6
+T103	SINTOMA 2014 2044	función renal e iones normales
+T104	SINTOMA 2187 2215	Radiografía de tórax: normal
+T105	SINTOMA 2217 2245	Índice cardiotorácico normal
+T106	SINTOMA 2485 2513	Serología: negativo para VIH
+T107	SINTOMA 2692 2722	función renal e iones normales
+T108	SINTOMA 2740 2776	perfil hepatobiliar sin alteraciones
+T109	SINTOMA 2954 2989	Hormonas tiroideas y HbA1c normales
+T110	SINTOMA 2991 3022	Hemograma: tres series normales
+T111	SINTOMA 3061 3109	ventrículo izquierdo no dilatado ni hipertrófico
+T112	SINTOMA 4359 4391	función biventricular conservada
+T113	SINTOMA 4578 4590	asintomático
+T114	SINTOMA 4862 4881	hipoquinesia global
+T115	SINTOMA 5418 5467	función sistólica biventricular estaba conservada
+T116	SINTOMA 6667 6699	función biventricular conservada
+T117	SINTOMA 893 935	elevación de marcadores de daño miocárdico
+T118	SINTOMA 2260 2279	congestión pulmonar
+T119	SINTOMA 2485 2545	Serología: negativo para VIH, sífilis yMycoplasma pneumoniae
+T120	SINTOMA 2547 2641	Positivo para infección pasada por adenovirus, CMV, Echovirus, VEB, parvovirus B19 y Coxsackie
+T121	SINTOMA 3672 3704	Ambas aurículas de tamaño normal
+T122	SINTOMA 3346 3361	Masa miocárdica
+T123	SINTOMA 1624 1654	Miembros inferiores sin edemas
+T124	SINTOMA 2323 2369	arterias coronarias angiográficamente normales
+T125	SINTOMA 3115 3156	movilidad global y segmentaria conservada
+T126	SINTOMA 3464 3505	movilidad global y segmentaria conservada
+T127	SINTOMA 3412 3458	Ventrículo derecho no dilatado ni hipertrófico
+T128	SINTOMA 2271 2293	pulmonar, condensación
+T129	SINTOMA 4048 4077	defectos basales de perfusión
+T130	SINTOMA 5283 5353	Ambos ventrículos presentaban una morfología y unos volúmenes normales
+T131	FARMACO 4518 4527	enalapril
+T132	FARMACO 4955 4965	colchicina
+T133	FARMACO 5869 5878	enalapril
+T134	FARMACO 5932 5942	bisoprolol
+T135	FARMACO 5863 5867	IECA

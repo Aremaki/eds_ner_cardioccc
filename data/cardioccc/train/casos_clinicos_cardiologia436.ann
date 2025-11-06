@@ -1,0 +1,114 @@
+T1	DISEASE 71 94	alergias medicamentosas
+T2	DISEASE 148 169	Hipertensión arterial
+T3	DISEASE 171 174	HTA
+T4	DISEASE 193 200	fumador
+T5	DISEASE 820 842	insuficiencia cardiaca
+T6	DISEASE 1029 1050	taponamiento cardiaco
+T7	DISEASE 1537 1575	estenosis crítica de coronaria derecha
+T8	DISEASE 2374 2405	disfunción biventricular severa
+T9	DISEASE 2495 2535	Insuficiencia mitral (IM) leve isquémica
+T10	DISEASE 2537 2561	Leve derrame pericárdico
+T11	DISEASE 2598 2631	CD proximal, con imagen de trombo
+T12	DISEASE 2580 2600	estenosis crítica CD
+T13	DISEASE 2889 2911	Disfunción grave de VI
+T14	DISEASE 2982 3033	aneurisma posterobasal de gran tamaño con trombosis
+T15	DISEASE 3166 3202	VI dilatado con gran pseudoaneurisma
+T16	DISEASE 3289 3304	pseudoaneurisma
+T17	DISEASE 3398 3404	trombo
+T18	DISEASE 3986 4001	Derrame pleural
+T19	DISEASE 4028 4055	VI con gran pseudoaneurisma
+T20	DISEASE 4261 4276	Derrame pleural
+T21	DISEASE 4288 4303	Pseudoaneurisma
+T22	DISEASE 4625 4652	pseudoaneurisma ventricular
+T23	DISEASE 5011 5026	pseudoaneurisma
+T24	DISEASE 5122 5128	trombo
+T25	DISEASE 5144 5163	derrame pericárdico
+T26	DISEASE 5210 5237	pseudoaneurisma ventricular
+T27	DISEASE 5326 5332	trombo
+T28	DISEASE 5361 5380	derrame pericárdico
+T29	DISEASE 5496 5550	disfunción ventricular grave con pseudoaneurisma en VI
+T30	DISEASE 5937 5952	pseudoaneurisma
+T31	DISEASE 6012 6027	pseudoaneurisma
+T32	DISEASE 6265 6311	Infarto agudo de miocardio (IAM) inferolateral
+T33	DISEASE 6327 6342	rotura cardiaca
+T34	DISEASE 6386 6401	pseudoaneurisma
+T35	DISEASE 6456 6484	rotura de pared libre del VI
+T36	DISEASE 6511 6526	pseudoaneurisma
+T37	DISEASE 6528 6556	Disfunción ventricular grave
+T38	DISEASE 2517 2519	IM
+T39	DISEASE 2842 2887	ventrículo izquierdo (VI) gravemente dilatado
+T40	DISEASE 4444 4450	Trombo
+T41	DISEASE 6293 6296	IAM
+T42	DISEASE 466 479	muerte súbita
+T43	DISEASE 1064 1079	rotura cardiaca
+T44	DISEASE 1558 1611	coronaria derecha (CD) proximal, con imagen de trombo
+T45	DISEASE 4670 4722	rotura contenida por parche quirúrgico de pericardio
+T46	PROCEDURE 281 295	apendicectomía
+T47	PROCEDURE 930 948	electrocardiograma
+T48	PROCEDURE 950 953	ECG
+T49	PROCEDURE 996 999	ETT
+T50	PROCEDURE 1092 1114	intubación orotraqueal
+T51	PROCEDURE 1116 1137	se coloca vía central
+T52	PROCEDURE 1149 1167	soporte inotrópico
+T53	PROCEDURE 1181 1199	pericardiocentesis
+T54	PROCEDURE 1251 1293	cirugía urgente con evacuación del derrame
+T55	PROCEDURE 1296 1326	implante de parche pericárdico
+T56	PROCEDURE 1459 1474	coronariografía
+T57	PROCEDURE 1809 1817	extubado
+T58	PROCEDURE 1887 1905	EXPLORACIÓN FÍSICA
+T59	PROCEDURE 1907 1910	IOT
+T60	PROCEDURE 1945 1966	Auscultación cardiaca
+T61	PROCEDURE 2030 2051	Auscultación pulmonar
+T62	PROCEDURE 2340 2343	ETT
+T63	PROCEDURE 2563 2578	CORONARIOGRAFÍA
+T64	PROCEDURE 2808 2811	ETT
+T65	PROCEDURE 3140 3143	RMN
+T66	PROCEDURE 3232 3284	reparación quirúrgica de rotura de pared libre de VI
+T67	PROCEDURE 3691 3728	Estudio de realce tardío de gadolinio
+T68	PROCEDURE 4467 4470	TAC
+T69	PROCEDURE 5856 5904	implante de desfibrilador automático implantable
+T70	PROCEDURE 5912 5952	resección quirúrgica del pseudoaneurisma
+T71	PROCEDURE 5955 5974	trasplante cardiaco
+T72	PROCEDURE 5998 6027	resección del pseudoaneurisma
+T73	PROCEDURE 6151 6154	ETT
+T74	PROCEDURE 6431 6484	reparación quirúrgica de rotura de pared libre del VI
+T75	PROCEDURE 6486 6526	Resección quirúrgica del pseudoaneurisma
+T76	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T77	PROCEDURE 2136 2145	ANALÍTICA
+T78	PROCEDURE 5906 5909	DAI
+T79	PROCEDURE 1336 1343	cirugía
+T80	PROCEDURE 1993 2005	se auscultan
+T81	PROCEDURE 263 271	Cirugías
+T82	PROCEDURE 6344 6379	Reparación con parche de pericardio
+T83	SYMPTOM 671 685	dolor torácico
+T84	SYMPTOM 778 796	cortejo vegetativo
+T85	SYMPTOM 846 859	palpitaciones
+T86	SYMPTOM 956 983	Inestable hemodinámicamente
+T87	SYMPTOM 1912 1930	regular perfundido
+T88	SYMPTOM 1932 1943	taquipneico
+T89	SYMPTOM 1945 1975	Auscultación cardiaca: rítmico
+T90	SYMPTOM 1977 1989	taquicárdico
+T91	SYMPTOM 2006 2012	soplos
+T92	SYMPTOM 2014 2028	tonos apagados
+T93	SYMPTOM 2053 2076	crepitantes bilaterales
+T94	SYMPTOM 2078 2109	Miembros inferiores: sin edemas
+T95	SYMPTOM 3057 3138	Función sistólica del ventrículo derecho (VD) en límite inferior de la normalidad
+T96	SYMPTOM 3639 3685	Función sistólica global severamente deprimida
+T97	SYMPTOM 3921 3978	Función sistólica global límite inferior de la normalidad
+T98	SYMPTOM 4122 4168	Función sistólica global severamente deprimida
+T99	SYMPTOM 605 612	síncope
+T100	SYMPTOM 1819 1854	estable clínica y hemodinámicamente
+T101	SYMPTOM 2420 2454	aquinesia inferior e inferolateral
+T102	SYMPTOM 2457 2493	disquinesia de los segmentos basales
+T103	SYMPTOM 2909 2928	VI con hipoquinesia
+T104	SYMPTOM 3832 3919	VD con tamaño, espesor y contractilidad global y segmentaria dentro de límites normales
+T105	SYMPTOM 1487 1519	coronaria izquierda sin lesiones
+T106	SYMPTOM 2753 2791	Árbol coronario izquierdo sin lesiones
+T107	MEDICATION 330 339	enalapril
+T108	MEDICATION 5606 5615	enalapril
+T109	MEDICATION 5634 5644	metoprolol
+T110	MEDICATION 5663 5672	aldactone
+T111	MEDICATION 5692 5702	ivabradina
+#1	AnnotatorNotes T38	 insuficiencia mitral
+#2	AnnotatorNotes T41	 Infarto agudo de miocardio
+#3	AnnotatorNotes T59	 intubación orotrqueal

@@ -1,0 +1,127 @@
+T1	ENFERMEDAD 147 170	alergias medicamentosas
+T2	ENFERMEDAD 175 190	hábitos tóxicos
+T3	ENFERMEDAD 265 281	Migraña con aura
+T4	ENFERMEDAD 934 957	fibrilación ventricular
+T5	ENFERMEDAD 2486 2501	derrame pleural
+T6	ENFERMEDAD 2748 2761	valvulopatías
+T7	ENFERMEDAD 2844 2869	insuficiencia tricuspídea
+T8	ENFERMEDAD 2871 2873	IT
+T9	ENFERMEDAD 2968 2989	hipertensión pulmonar
+T10	ENFERMEDAD 2991 2994	HTP
+T11	ENFERMEDAD 3113 3125	ateromatosis
+T12	ENFERMEDAD 3127 3204	Origen anómalo de trono coronario izquierdo (TCI) en seno de Valsalva derecho
+T13	ENFERMEDAD 3366 3396	trayecto interarterial del TCI
+T14	ENFERMEDAD 3717 3783	Origen de la arteria coronaria derecha en seno de Valsalva derecho
+T15	ENFERMEDAD 3812 3880	origen de la arteria coronaria izquierda en seno de Valsalva derecho
+T16	ENFERMEDAD 4166 4175	arritmias
+T17	ENFERMEDAD 4711 4748	parada cardiorrespiratoria recuperada
+T18	ENFERMEDAD 4752 4775	fibrilación ventricular
+T19	ENFERMEDAD 5049 5073	tromboembolismo pulmonar
+T20	ENFERMEDAD 5075 5078	TEP
+T21	ENFERMEDAD 5091 5103	flap aórtico
+T22	ENFERMEDAD 5110 5129	derrame pericárdico
+T23	ENFERMEDAD 5174 5184	neumotórax
+T24	ENFERMEDAD 5348 5385	evento hemorrágico ni isquémico agudo
+T25	ENFERMEDAD 5561 5635	origen anómalo de tronco común izquierdo (TCI) en seno de Valsalva derecho
+T26	ENFERMEDAD 5969 6018	origen anómalo de TCI en seno de Valsalva derecho
+T27	ENFERMEDAD 6577 6585	isquemia
+T28	ENFERMEDAD 6655 6678	fibrilación ventricular
+T29	ENFERMEDAD 6680 6760	Origen anómalo del tronco de la coronaria izquierda del seno de Valsalva derecho
+T30	ENFERMEDAD 6600 6626	Parada cardiorrespiratoria
+T31	ENFERMEDAD 4046 4051	angor
+T32	ENFERMEDAD 5776 5794	eventos arrítmicos
+T33	ENFERMEDAD 3502 3544	TCI con origen en seno de Valsalva derecho
+T34	PROCEDIMIENTO 304 333	resonancia magnética cerebral
+T35	PROCEDIMIENTO 839 842	RCP
+T36	PROCEDIMIENTO 1110 1132	intubación orotraqueal
+T37	PROCEDIMIENTO 1136 1156	ventilación mecánica
+T38	PROCEDIMIENTO 1198 1216	EXPLORACIÓN FÍSICA
+T39	PROCEDIMIENTO 1521 1542	Auscultación cardiaca
+T40	PROCEDIMIENTO 1565 1586	Auscultación pulmonar
+T41	PROCEDIMIENTO 1941 1959	Electrocardiograma
+T42	PROCEDIMIENTO 1961 1964	ECG
+T43	PROCEDIMIENTO 2371 2391	Radiografía de tórax
+T44	PROCEDIMIENTO 2503 2531	Ecocardiograma transtorácico
+T45	PROCEDIMIENTO 3030 3041	Exploración
+T46	PROCEDIMIENTO 3060 3075	Coronariografía
+T47	PROCEDIMIENTO 3304 3331	administración de contraste
+T48	PROCEDIMIENTO 3338 3356	canulación del TCI
+T49	PROCEDIMIENTO 3398 3421	Angio-TAC de coronarias
+T50	PROCEDIMIENTO 3909 3919	Ergometría
+T51	PROCEDIMIENTO 4137 4155	electrocardiograma
+T52	PROCEDIMIENTO 4247 4285	Ecocardiograma de estrés posquirúrgico
+T53	PROCEDIMIENTO 4287 4323	prueba de esfuerzo en cicloergómetro
+T54	PROCEDIMIENTO 4834 4852	electrocardiograma
+T55	PROCEDIMIENTO 4954 4968	ecocardiograma
+T56	PROCEDIMIENTO 5134 5151	radiografía tórax
+T57	PROCEDIMIENTO 5189 5208	gasometría arterial
+T58	PROCEDIMIENTO 5295 5333	Tomografía computarizada (TC) cerebral
+T59	PROCEDIMIENTO 5464 5479	coronariografía
+T60	PROCEDIMIENTO 5825 5832	weaning
+T61	PROCEDIMIENTO 5837 5847	extubación
+T62	PROCEDIMIENTO 5939 5955	TC de coronarias
+T63	PROCEDIMIENTO 6230 6348	implante de doble bypass: arteria mamaria derecha a obtusa marginal y arteria mamaria izquierda a descendente anterior
+T64	PROCEDIMIENTO 6489 6499	ergometría
+T65	PROCEDIMIENTO 6502 6526	ecocardiograma de estrés
+T66	PROCEDIMIENTO 6789 6834	Revascularización quirúrgica con doble bypass
+T67	PROCEDIMIENTO 1308 1326	Constantes vitales
+T68	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T69	PROCEDIMIENTO 2313 2342	Marcadores de daño miocárdico
+T70	PROCEDIMIENTO 1189 1195	aminas
+T71	PROCEDIMIENTO 5747 5753	aminas
+T72	PROCEDIMIENTO 798 850	maniobras de reanimación cardiopulmonar (RCP) básica
+T73	PROCEDIMIENTO 1089 1104	sedoanalgesiado
+T74	PROCEDIMIENTO 959 988	Se administra un único choque
+T75	PROCEDIMIENTO 5321 5323	TC
+T76	PROCEDIMIENTO 2063 2072	Analítica
+T77	PROCEDIMIENTO 394 420	intervenciones quirúrgicas
+T78	SINTOMA 304 359	resonancia magnética cerebral sin hallazgos patológicos
+T79	SINTOMA 499 528	pérdida brusca de consciencia
+T80	SINTOMA 724 758	ausencia de respiración espontánea
+T81	SINTOMA 1159 1184	estable hemodinámicamente
+T82	SINTOMA 1458 1487	presión venosa yugular normal
+T83	SINTOMA 1489 1519	Reflejo hepatoyugular negativo
+T84	SINTOMA 1521 1551	Auscultación cardiaca: regular
+T85	SINTOMA 1557 1563	soplos
+T86	SINTOMA 1588 1617	murmullo vesicular conservado
+T87	SINTOMA 1634 1648	Abdomen: plano
+T88	SINTOMA 1650 1678	Ruidos hidroaéreos presentes
+T89	SINTOMA 1704 1719	visceromegalias
+T90	SINTOMA 1734 1752	pupilas isocóricas
+T91	SINTOMA 1754 1784	Reflejos pupilares conservados
+T92	SINTOMA 1786 1835	Reflejos motores en extremidades sin alteraciones
+T93	SINTOMA 1871 1914	Pulsos periféricos conservados y simétricos
+T94	SINTOMA 1967 1980	ritmo sinusal
+T95	SINTOMA 2028 2061	alteraciones de la repolarización
+T96	SINTOMA 2393 2428	silueta cardiomediastinica centrada
+T97	SINTOMA 2533 2616	ventrículo izquierdo de diámetros, volúmenes y función global sistólica conservados
+T98	SINTOMA 2698 2734	Patrón de llenado transmitral normal
+T99	SINTOMA 2778 2803	Aurícula izquierda normal
+T100	SINTOMA 3045 3058	ritmo sinusal
+T101	SINTOMA 4055 4083	alteraciones del segmento ST
+T102	SINTOMA 4220 4245	Buena capacidad funcional
+T103	SINTOMA 4660 4674	dolor torácico
+T104	SINTOMA 4884 4914	alteraciones de repolarización
+T105	SINTOMA 4921 4941	intervalo QTc normal
+T106	SINTOMA 5011 5022	FEVI normal
+T107	SINTOMA 5704 5729	estable hemodinámicamente
+T108	SINTOMA 5758 5771	ritmo sinusal
+T109	SINTOMA 5892 5911	déficit neurológico
+T110	SINTOMA 6101 6113	asintomático
+T111	SINTOMA 6116 6141	estable hemodinámicamente
+T112	SINTOMA 6463 6475	asintomático
+T113	SINTOMA 1845 1869	Extremidades: sin edemas
+T114	SINTOMA 2641 2686	alteraciones de la contractilidad segmentaria
+T115	SINTOMA 1011 1024	ritmo sinusal
+T116	SINTOMA 4865 4878	ritmo sinusal
+T117	SINTOMA 759 777	sin pulso palpable
+T118	SINTOMA 2805 2830	Ventrículo derecho normal
+T119	SINTOMA 3683 3715	Arteria circunfleja sin lesiones
+T120	SINTOMA 5509 5542	arterias epicárdicas sin lesiones
+T121	SINTOMA 2447 2481	Campos pulmonares sin condensación
+T122	SINTOMA 3077 3125	arterias coronarias epicárdicas sin ateromatosis
+T123	SINTOMA 2997 3028	Vena cava inferior (VCI) normal
+T124	SINTOMA 5221 5236	hiperlactidemia
+T125	SINTOMA 5263 5293	cifras de hemoglobina normales
+T126	SINTOMA 6489 6585	ergometría y ecocardiograma de estrés resultando ambas pruebas máximas y negativas para isquemia
+#1	AnnotatorNotes T48	  TCI: tronco común izquierda

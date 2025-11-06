@@ -1,0 +1,99 @@
+T1	DISEASE 173 182	Exfumador
+T2	DISEASE 203 213	hipertenso
+T3	DISEASE 253 278	bloqueo de rama izquierda
+T4	DISEASE 355 379	cardiopatía hipertensiva
+T5	DISEASE 384 410	hipertrofia de VI moderada
+T6	DISEASE 413 440	disfunción sistólica ligera
+T7	DISEASE 508 533	extrasistolia ventricular
+T8	DISEASE 1333 1358	trombosis venosa profunda
+T9	DISEASE 1425 1450	bloqueo de rama izquierda
+T10	DISEASE 1525 1560	extrasistolia ventricular monomorfa
+T11	DISEASE 1610 1640	Extrasistolia supraventricular
+T12	DISEASE 1677 1705	taquicardia supraventricular
+T13	DISEASE 2166 2187	Insuficiencia aórtica
+T14	DISEASE 2206 2219	valvulopatías
+T15	DISEASE 2507 2536	disfunción sistólica moderada
+T16	DISEASE 2750 2779	derrame pericárdico y pleural
+T17	DISEASE 3541 3561	amiloidosis cardiaca
+T18	DISEASE 3872 3896	cardiopatía hipertensiva
+T19	DISEASE 3971 4000	hipertrofia importante del VI
+T20	DISEASE 4116 4143	miocardiopatía infiltrativa
+T21	DISEASE 4227 4247	amiloidosis cardiaca
+T22	DISEASE 4408 4424	mieloma múltiple
+T23	DISEASE 4542 4595	amiloidosis senil y/o hereditaria por depósito de TTR
+T24	DISEASE 5074 5125	Amiloidosis cardiaca por depósito de transtirretina
+T25	DISEASE 5190 5212	Insuficiencia cardiaca
+T26	DISEASE 5273 5296	Arritmias ventriculares
+T27	DISEASE 5312 5366	extrasistolia ventricular intensidad ligera a moderada
+T28	DISEASE 2031 2052	Disfunción diastólica
+T29	DISEASE 1990 2010	Disfunción sistólica
+T30	DISEASE 4951 4971	disfunción sistólica
+T31	DISEASE 1077 1090	extrasistolia
+T32	DISEASE 1750 1818	ventrículo izquierdo no dilatado, con moderada hipertrofia del septo
+T33	DISEASE 2115 2144	Aurículas levemente dilatadas
+T34	DISEASE 2252 2291	ventrículo izquierdo levemente dilatado
+T35	DISEASE 2630 2714	Aurícula izquierda moderadamente dilatada con engrosamiento del septo interauricular
+T36	DISEASE 4002 4023	disfunción diastólica
+T37	DISEASE 5139 5188	Disfunción sistólica y diastólica de vi moderadas
+T38	DISEASE 3378 3396	sobrecarga férrica
+T39	DISEASE 3431 3451	depósito de amiloide
+T40	DISEASE 3638 3688	ventrículo derecho) depósito de sustancia amiloide
+T41	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDURE 310 328	electrocardiograma
+T43	PROCEDURE 447 461	ecocardiograma
+T44	PROCEDURE 490 496	Holter
+T45	PROCEDURE 904 922	exploración física
+T46	PROCEDURE 1033 1054	Auscultación cardiaca
+T47	PROCEDURE 1114 1135	auscultación pulmonar
+T48	PROCEDURE 1385 1388	ECG
+T49	PROCEDURE 1468 1474	Holter
+T50	PROCEDURE 1719 1733	Ecocardiograma
+T51	PROCEDURE 2221 2250	Resonancia magnética cardiaca
+T52	PROCEDURE 3291 3305	secuencia STIR
+T53	PROCEDURE 3332 3344	secuencia T2
+T54	PROCEDURE 3398 3425	Biopsia de glándula salivar
+T55	PROCEDURE 3453 3478	Gammagrafía con 99mTc-DDP
+T56	PROCEDURE 3563 3657	Biopsia endomiocárdica: (extracción de muestras de 2 puntos diferentes del ventrículo derecho)
+T57	PROCEDURE 3720 3736	Estudio genético
+T58	PROCEDURE 3940 3954	ecocardiograma
+T59	PROCEDURE 4157 4186	resonancia magnética cardiaca
+T60	PROCEDURE 4284 4318	cuantificación de inmunoglobulinas
+T61	PROCEDURE 4320 4334	electroforesis
+T62	PROCEDURE 4337 4364	inmunofijación de proteínas
+T63	PROCEDURE 4367 4395	estudio de orina de 24 horas
+T64	PROCEDURE 4456 4483	gammagrafía ósea 99 mTc-DDP
+T65	PROCEDURE 4645 4667	biopsia endomiocárdica
+T66	PROCEDURE 4732 4745	test genético
+T67	PROCEDURE 4973 4983	diuréticos
+T68	PROCEDURE 4986 5003	antihipertensivos
+T69	PROCEDURE 957 972	Cabeza y cuello
+T70	SYMPTOM 130 136	disnea
+T71	SYMPTOM 778 784	disnea
+T72	SYMPTOM 853 860	síncope
+T73	SYMPTOM 862 875	palpitaciones
+T74	SYMPTOM 1014 1031	soplos carotídeos
+T75	SYMPTOM 1033 1062	Auscultación cardiaca rítmica
+T76	SYMPTOM 1101 1107	soplos
+T77	SYMPTOM 1145 1192	disminución del murmullo vesicular generalizado
+T78	SYMPTOM 1226 1262	Abdomen globuloso sin detectar masas
+T79	SYMPTOM 1265 1273	megalias
+T80	SYMPTOM 1276 1306	miembros inferiores sin edemas
+T81	SYMPTOM 1390 1403	ritmo sinusal
+T82	SYMPTOM 1414 1423	PR normal
+T83	SYMPTOM 1476 1489	ritmo sinusal
+T84	SYMPTOM 1750 1782	ventrículo izquierdo no dilatado
+T85	SYMPTOM 1830 1875	alteraciones de la contractilidad segmentaria
+T86	SYMPTOM 2486 2504	hipocinesia global
+T87	SYMPTOM 2550 2616	Ventrículo derecho no dilatado ni hipertrofiado con función normal
+T88	SYMPTOM 3322 3327	edema
+T89	SYMPTOM 3740 3799	secuenciación NGS Panel 17 genes, incluyendo TTR): negativo
+T90	SYMPTOM 1877 1957	hipoquinesia basal de las caras inferior, anterior, anteroseptal y anterolateral
+T91	SYMPTOM 1963 1988	movimiento anómalo septal
+T92	SYMPTOM 3658 3718	depósito de sustancia amiloide transtirretina (TTR) positiva
+T93	SYMPTOM 2088 2113	Ventrículo derecho normal
+T94	SYMPTOM 4059 4095	aumento de presiones telediastólicas
+T95	SYMPTOM 977 1010	aumento de presión venosa yugular
+T96	SYMPTOM 2432 2472	aumento significativo de masa miocárdica
+T97	MEDICATION 580 589	nevibolol
+T98	MEDICATION 596 606	torasemida
+T99	MEDICATION 614 634	amlodipino/valsartán

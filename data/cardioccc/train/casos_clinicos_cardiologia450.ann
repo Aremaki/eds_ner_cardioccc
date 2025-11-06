@@ -1,0 +1,121 @@
+T1	DISEASE 94 103	exfumador
+T2	DISEASE 148 151	HTA
+T3	DISEASE 153 164	dislipémico
+T4	DISEASE 167 176	diabético
+T5	DISEASE 613 641	reestenosis severa de stents
+T6	DISEASE 2156 2160	EPOC
+T7	DISEASE 2241 2244	HVI
+T8	DISEASE 2539 2583	oclusión trombótica del stent en DA proximal
+T9	DISEASE 2611 2652	estenosis severa en borde distal de stent
+T10	DISEASE 2709 2731	Estenosis severa de Cx
+T11	DISEASE 2797 2847	Oclusión trombótica del stent de CD media y distal
+T12	DISEASE 2893 2917	trombosis de stent en CD
+T13	DISEASE 2942 2966	trombosis de stent en DA
+T14	DISEASE 3401 3470	oclusión trombótica de stent en DA proximal y también de stents en CD
+T15	DISEASE 3706 3748	reestenosis de borde distal de stent de DA
+T16	DISEASE 4051 4067	angina inestable
+T17	DISEASE 4114 4162	reestenosis severa en del borde proximal del DES
+T18	DISEASE 4466 4488	infección respiratoria
+T19	DISEASE 4515 4540	shock séptico refractario
+T20	DISEASE 4554 4589	IAMCEST anterior extenso + inferior
+T21	DISEASE 4627 4678	trombosis tardía de stents a nivel de CD media y DA
+T22	DISEASE 4847 4888	Enfermedad severa de CX distal y bisetriz
+T23	DISEASE 4908 4951	Reestenosis severa del DES implantado en DA
+T24	DISEASE 5050 5053	HTA
+T25	DISEASE 5055 5084	Diabetes mellitus (DM) tipo 2
+T26	DISEASE 5074 5076	DM
+T27	DISEASE 5091 5100	Exfumador
+T28	DISEASE 5086 5089	DLP
+T29	DISEASE 226 233	IAMSEST
+T30	DISEASE 2470 2472	IM
+T31	DISEASE 2040 2059	necrosis miocárdica
+T32	DISEASE 2466 2468	DP
+T33	DISEASE 2654 2689	Enfermedad severa de ramo bisectriz
+T34	DISEASE 3299 3338	función sistólica severamente deprimida
+T35	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDURE 270 360	implante de tres stents liberadores de paclitaxel en coronaria derecha (CD) media y distal
+T37	PROCEDURE 713 856	implante de tres stents liberadores de everolimus (XIENCE PRIME®) uno sobre DA proximal (3x18 mm) y otros dos solapados sobre CD media y distal
+T38	PROCEDURE 958 1003	doble antiagregación con aspirina y prasugrel
+T39	PROCEDURE 1091 1109	exploración física
+T40	PROCEDURE 1279 1300	Auscultación cardiaca
+T41	PROCEDURE 1332 1353	Auscultación pulmonar
+T42	PROCEDURE 1587 1590	ECG
+T43	PROCEDURE 1882 1893	Coagulación
+T44	PROCEDURE 1903 1912	Hemograma
+T45	PROCEDURE 2109 2129	Radiografía de tórax
+T46	PROCEDURE 2201 2215	Ecocardiograma
+T47	PROCEDURE 2480 2516	Cateterismo urgente (radial derecha)
+T48	PROCEDURE 2849 2869	ICP con trombectomía
+T49	PROCEDURE 2872 2983	ACTP con balón sobre trombosis de stent en CD media y distal, y sobre trombosis de stent en DA proximal y media
+T50	PROCEDURE 2985 3047	ICP con implante de stent recubierto directo tipo XIENCE PRIME
+T51	PROCEDURE 3168 3171	ECG
+T52	PROCEDURE 3218 3232	ecocardiograma
+T53	PROCEDURE 3363 3378	coronariografía
+T54	PROCEDURE 3513 3573	angioplastia con balón sobre DA proximal y CD media y distal
+T55	PROCEDURE 3766 3781	implante de DES
+T56	PROCEDURE 3861 3891	estudio de hipercoagulabilidad
+T57	PROCEDURE 4086 4101	coronariografía
+T58	PROCEDURE 4288 4316	revascularización quirúrgica
+T59	PROCEDURE 4340 4398	derivación coronaria de arteria mamaria interna (AMI) a DA
+T60	PROCEDURE 4597 4608	Cateterismo
+T61	PROCEDURE 4689 4701	Trombectomía
+T62	PROCEDURE 4703 4741	ACTP a CD media y distal y DA proximal
+T63	PROCEDURE 4743 4845	Implante de stent recubierto de everolimus a nivel de reestenosis de borde distal de stent de DA media
+T64	PROCEDURE 4962 5003	Revascularización quirúrgica con AMI a DA
+T65	PROCEDURE 1778 1788	bioquímica
+T66	PROCEDURE 679 708	resvascularización percutánea
+T67	PROCEDURE 270 360	implante de tres stents liberadores de paclitaxel en coronaria derecha (CD) media y distal
+T68	PROCEDURE 436 526	dos stents (Luc-Chopin®: 3x12 mm y 2,5x12 mm) a descendente anterior proximal (DA) y media
+T69	PROCEDURE 1767 1776	Analítica
+T70	PROCEDURE 3424 3510	stent en DA proximal y también de stents en CD media y distal, se realizó trombectomía
+T71	PROCEDURE 3575 3613	se administró abciximab intracoronario
+T72	SYMPTOM 551 567	clínica anginosa
+T73	SYMPTOM 898 910	asintomático
+T74	SYMPTOM 1037 1051	dolor torácico
+T75	SYMPTOM 1126 1145	Palidez mucocutánea
+T76	SYMPTOM 1147 1162	Normoperfundido
+T77	SYMPTOM 1165 1179	normohidratado
+T78	SYMPTOM 1241 1248	Afebril
+T79	SYMPTOM 1250 1271	Ingurgitación yugular
+T80	SYMPTOM 1279 1309	Auscultación cardiaca: rítmica
+T81	SYMPTOM 1315 1321	soplos
+T82	SYMPTOM 1325 1330	roces
+T83	SYMPTOM 1355 1384	murmullo vesicular disminuido
+T84	SYMPTOM 1390 1421	crepitantes hasta campos medios
+T85	SYMPTOM 1423 1446	sibilantes espiratorios
+T86	SYMPTOM 1449 1455	roncus
+T87	SYMPTOM 1457 1473	Abdomen: anodino
+T88	SYMPTOM 1475 1509	Extremidades inferiores: no edemas
+T89	SYMPTOM 1511 1560	Pulsos positivos y simétricos a todos los niveles
+T90	SYMPTOM 1603 1616	ritmo sinusal
+T91	SYMPTOM 1618 1627	PR normal
+T92	SYMPTOM 1644 1697	ST ascendido 4 mm V3-V4, 1-2 mm inferior y 1 mm en V5
+T93	SYMPTOM 1699 1724	ST infradesnivelado en V6
+T94	SYMPTOM 2109 2144	Radiografía de tórax: ICT aumentado
+T95	SYMPTOM 2162 2199	Hilios prominentes con redistribución
+T96	SYMPTOM 2225 2239	VI no dilatado
+T97	SYMPTOM 2253 2279	FEVI severamente deprimida
+T98	SYMPTOM 2347 2400	Hipoquinesia de segmentos basales y medios anteriores
+T99	SYMPTOM 2402 2415	CCDD normales
+T100	SYMPTOM 2447 2461	Raíz Ao normal
+T101	SYMPTOM 3179 3213	ascenso del ST anterior e inferior
+T102	SYMPTOM 3240 3294	aquinesia de segmentos inferiores, apicales y septales
+T103	SYMPTOM 4491 4499	falleció
+T104	SYMPTOM 5028 5034	Éxitus
+T105	SYMPTOM 1735 1749	T picuda V3-V4
+T106	SYMPTOM 2291 2345	Aquinesia de segmentos inferiores, apicales y septales
+T107	SYMPTOM 1882 1901	Coagulación: normal
+T108	SYMPTOM 1121 1124	REG
+T109	SYMPTOM 2767 2795	Coronaria derecha: dominante
+T110	SYMPTOM 3861 3908	estudio de hipercoagulabilidad que fue negativo
+T111	MEDICATION 196 204	insulina
+T112	MEDICATION 309 319	paclitaxel
+T113	MEDICATION 752 762	everolimus
+T114	MEDICATION 983 991	aspirina
+T115	MEDICATION 994 1003	prasugrel
+T116	MEDICATION 3589 3598	abciximab
+T117	MEDICATION 3969 3977	aspirina
+T118	MEDICATION 3996 4005	prasugrel
+T119	MEDICATION 4775 4785	everolimus
+#1	AnnotatorNotes T7	 Hipertrofia ventricular izquierda
+#2	AnnotatorNotes T30	 insuficiencia mitral

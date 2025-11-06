@@ -1,0 +1,108 @@
+T1	ENFERMEDAD 111 126	fumadora activa
+T2	ENFERMEDAD 131 160	cardiopatía isquémica crónica
+T3	ENFERMEDAD 252 299	infarto agudo de miocardio sin elevación del ST
+T4	ENFERMEDAD 395 441	hematoma en la rama interventricular posterior
+T5	ENFERMEDAD 616 641	enfermedad cardiovascular
+T6	ENFERMEDAD 873 880	síncope
+T7	ENFERMEDAD 1384 1419	taquicardia ventricular polimórfica
+T8	ENFERMEDAD 1448 1471	fibrilación ventricular
+T9	ENFERMEDAD 1624 1647	fibrilación ventricular
+T10	ENFERMEDAD 1649 1651	FV
+T11	ENFERMEDAD 1818 1840	insuficiencia cardiaca
+T12	ENFERMEDAD 2274 2299	trombosis venosa profunda
+T13	ENFERMEDAD 3406 3419	valvulopatías
+T14	ENFERMEDAD 4551 4567	escara isquémica
+T15	ENFERMEDAD 5824 5845	daño miocárdico agudo
+T16	ENFERMEDAD 5861 5884	arritmias ventriculares
+T17	ENFERMEDAD 6022 6045	fibrilación ventricular
+T18	ENFERMEDAD 6130 6151	cardiopatía isquémica
+T19	ENFERMEDAD 6189 6213	muerte súbita recuperada
+T20	ENFERMEDAD 6316 6339	fibrilación ventricular
+T21	ENFERMEDAD 6341 6370	Cardiopatía isquémica crónica
+T22	ENFERMEDAD 6372 6388	infarto inferior
+T23	ENFERMEDAD 6390 6427	Disección coronaria espontánea de IVP
+T24	ENFERMEDAD 6268 6312	Parada cardiaca intrahospitalaria recuperada
+T25	ENFERMEDAD 350 380	disección coronaria espontánea
+T26	ENFERMEDAD 1796 1814	eventos arrítmicos
+T27	ENFERMEDAD 5578 5596	eventos arrítmicos
+T28	ENFERMEDAD 5783 5798	hematoma en IVP
+T29	ENFERMEDAD 5347 5393	hematoma en la rama interventricular posterior
+T30	ENFERMEDAD 1129 1140	infecciones
+T31	ENFERMEDAD 593 606	muerte súbita
+T32	ENFERMEDAD 1031 1053	recurrencias anginosas
+T33	PROCEDIMIENTO 164 179	revascularizada
+T34	PROCEDIMIENTO 331 346	coronariografía
+T35	PROCEDIMIENTO 1519 1542	cardioversión eléctrica
+T36	PROCEDIMIENTO 1544 1547	CVE
+T37	PROCEDIMIENTO 1671 1674	CVE
+T38	PROCEDIMIENTO 1901 1919	EXPLORACIÓN FÍSICA
+T39	PROCEDIMIENTO 2102 2123	Auscultación cardiaca
+T40	PROCEDIMIENTO 2144 2165	Auscultación pulmonar
+T41	PROCEDIMIENTO 2326 2344	Electrocardiograma
+T42	PROCEDIMIENTO 2346 2349	ECG
+T43	PROCEDIMIENTO 2544 2547	ECG
+T44	PROCEDIMIENTO 2581 2600	Analítica de sangre
+T45	PROCEDIMIENTO 3156 3175	Analítica de sangre
+T46	PROCEDIMIENTO 3339 3367	Ecocardiograma transtorácico
+T47	PROCEDIMIENTO 3580 3623	Resonancia magnética cardiaca con contraste
+T48	PROCEDIMIENTO 5083 5098	Coronariografía
+T49	PROCEDIMIENTO 5656 5671	betabloqueantes
+T50	PROCEDIMIENTO 5719 5736	antihipertensivos
+T51	PROCEDIMIENTO 5741 5756	coronariografía
+T52	PROCEDIMIENTO 5887 5898	reanimación
+T53	PROCEDIMIENTO 6070 6084	DAI subcutáneo
+T54	PROCEDIMIENTO 6471 6497	Implante de DAI subcutáneo
+T55	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 3030 3075	marcadores de daño miocárdico en la seriación
+T57	PROCEDIMIENTO 1769 1783	monitorización
+T58	PROCEDIMIENTO 1229 1258	monitorización con telemetría
+T59	PROCEDIMIENTO 3946 3964	secuencias T2-STIR
+T60	PROCEDIMIENTO 1557 1582	embolada de amiodarona iv
+T61	SINTOMA 182 212	función ventricular preservada
+T62	SINTOMA 978 991	palpitaciones
+T63	SINTOMA 993 998	mareo
+T64	SINTOMA 1000 1010	sudoración
+T65	SINTOMA 1012 1019	nauseas
+T66	SINTOMA 1988 2008	Buen aspecto general
+T67	SINTOMA 2043 2051	sudorosa
+T68	SINTOMA 2053 2073	Eupneica en decúbito
+T69	SINTOMA 2079 2100	ingurgitación yugular
+T70	SINTOMA 2102 2131	Auscultación cardiaca rítmica
+T71	SINTOMA 2136 2142	soplos
+T72	SINTOMA 2170 2199	murmullo vesicular conservado
+T73	SINTOMA 2205 2225	ruidos sobreañadidos
+T74	SINTOMA 2231 2260	edemas en miembros inferiores
+T75	SINTOMA 2363 2376	ritmo sinusal
+T76	SINTOMA 2390 2419	QRS estrecho normoposicionado
+T77	SINTOMA 2509 2542	alteraciones de la repolarización
+T78	SINTOMA 3369 3401	función biventricular preservada
+T79	SINTOMA 3625 3681	ventrículo izquierdo no dilatado, con espesores normales
+T80	SINTOMA 3853 3893	contracción segmentaria sin alteraciones
+T81	SINTOMA 3895 3926	Función sistólica global normal
+T82	SINTOMA 4750 4796	Ventrículo derecho no dilatado ni hipertrófico
+T83	SINTOMA 4857 4881	Función sistólica normal
+T84	SINTOMA 4911 4956	Aurícula izquierda y derecha de tamaño normal
+T85	SINTOMA 4958 5005	Válvula mitral con velos finos, apertura normal
+T86	SINTOMA 6156 6186	función ventricular preservada
+T87	SINTOMA 6429 6469	Función ventricular sistólica preservada
+T88	SINTOMA 283 299	elevación del ST
+T89	SINTOMA 1682 1694	asintomática
+T90	SINTOMA 3448 3506	Aquinesia de los segmentos medio y distal de cara inferior
+T91	SINTOMA 3509 3578	hipoquinesia de los segmentos medio y distal de la cara inferolateral
+T92	SINTOMA 3683 3742	Disquinesia focal del segmento mediodistal de cara inferior
+T93	SINTOMA 3744 3798	Aquinesia del segmento distal inferior e inferolateral
+T94	SINTOMA 4813 4855	alteraciones de la contracción segmentaria
+T95	SINTOMA 5007 5053	Válvula aórtica trivalva, funcionalmente norma
+T96	SINTOMA 5056 5081	Aorta sinusal no dilatada
+T97	SINTOMA 2422 2457	adecuada progresión en precordiales
+T98	SINTOMA 5100 5146	tronco coronario izquierdo corto, sin lesiones
+T99	SINTOMA 5148 5211	Descendente anterior de buen desarrollo y calibre, sin lesiones
+T100	SINTOMA 5213 5267	Circunfleja de buen desarrollo y calibre, sin lesiones
+T101	FARMACO 677 699	ácido acetilsalicílico
+T102	FARMACO 721 731	bisoprolol
+T103	FARMACO 755 768	atorvastatina
+T104	FARMACO 788 797	omeprazol
+T105	FARMACO 1569 1579	amiodarona
+#1	AnnotatorNotes T23	  IVP: intraventricular posterior
+#2	AnnotatorNotes T28	  IVP: intraventricular posterior
+#3	AnnotatorNotes T37	  cardioversión eléctrica

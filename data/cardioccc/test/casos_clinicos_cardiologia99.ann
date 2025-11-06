@@ -1,0 +1,94 @@
+T1	ENFERMEDAD 704 737	oclusión aguda de arteria humeral
+T2	ENFERMEDAD 1181 1203	insuficiencia cardiaca
+T3	ENFERMEDAD 1700 1724	trastornos de conducción
+T4	ENFERMEDAD 1868 1883	derrame pleural
+T5	ENFERMEDAD 2613 2632	derrame pericárdico
+T6	ENFERMEDAD 3315 3322	mixomas
+T7	ENFERMEDAD 3707 3723	mixoma auricular
+T8	ENFERMEDAD 3873 3890	neoplasia maligna
+T9	ENFERMEDAD 4452 4486	Sarcoma Pleomórfico Indiferenciado
+T10	ENFERMEDAD 4567 4588	lesiones metastásicas
+T11	ENFERMEDAD 4770 4900	Ictus de perfil embólico secundario a oclusión en tándem de arteria carótida interna izquierda y arteria cerebral media izquierda.
+T12	ENFERMEDAD 5409 5476	metástasis cerebrales, pulmonares, hepáticas, suprarrenales y óseas
+T13	ENFERMEDAD 5684 5727	Sarcoma cardiaco pleomórfico indiferenciado
+T14	ENFERMEDAD 5784 5806	Enfermedad metastásica
+T15	ENFERMEDAD 70 93	alergias medicamentosas
+T16	ENFERMEDAD 155 162	bebedor
+T17	ENFERMEDAD 105 114	exfumador
+T18	ENFERMEDAD 1205 1234	Herida de embolectomía en MSI
+T19	ENFERMEDAD 176 203	consumidor de otros tóxicos
+T20	ENFERMEDAD 3752 3758	trombo
+T21	ENFERMEDAD 1751 1775	crecimiento de cavidades
+T22	ENFERMEDAD 5269 5313	recurrencia de la masa en aurícula izquierda
+T23	PROCEDIMIENTO 298 316	exploración física
+T24	PROCEDIMIENTO 760 772	embolectomía
+T25	PROCEDIMIENTO 807 857	material embólico a estudio de anatomía patológica
+T26	PROCEDIMIENTO 898 913	ecocardiografía
+T27	PROCEDIMIENTO 920 938	exploración física
+T28	PROCEDIMIENTO 1130 1157	auscultación cardiopulmonar
+T29	PROCEDIMIENTO 1215 1234	embolectomía en MSI
+T30	PROCEDIMIENTO 1271 1289	exploración física
+T31	PROCEDIMIENTO 1323 1351	ecocardiografía trastorácica
+T32	PROCEDIMIENTO 1353 1356	ETT
+T33	PROCEDIMIENTO 1536 1545	Hemograma
+T34	PROCEDIMIENTO 1604 1622	Electrocardiograma
+T35	PROCEDIMIENTO 1779 1790	Rx de tórax
+T36	PROCEDIMIENTO 1944 1965	Ecocardiografía TT/TE
+T37	PROCEDIMIENTO 1968 1974	ECO 3D
+T38	PROCEDIMIENTO 2636 2671	Resonancia magnética (RMN) cardiaca
+T39	PROCEDIMIENTO 3950 4001	resección de la masa bajo circulación extracorpórea
+T40	PROCEDIMIENTO 4139 4167	se reseca orejuela izquierda
+T41	PROCEDIMIENTO 4524 4543	TAC toracoabdominal
+T42	PROCEDIMIENTO 4938 4959	trombectomía mecánica
+T43	PROCEDIMIENTO 5173 5176	ETT
+T44	PROCEDIMIENTO 5201 5212	RMN craneal
+T45	PROCEDIMIENTO 5214 5233	TAC toracoabdominal
+T46	PROCEDIMIENTO 5236 5252	gammagrafía ósea
+T47	PROCEDIMIENTO 5488 5501	quimioterapia
+T48	PROCEDIMIENTO 5530 5556	tratamiento quimioterápico
+T49	PROCEDIMIENTO 1547 1558	coagulación
+T50	PROCEDIMIENTO 3637 3654	pruebas de imagen
+T51	PROCEDIMIENTO 3766 3817	estudio de anatomía patológica de material embólico
+T52	PROCEDIMIENTO 4058 4088	estudio de anatomía patológica
+T53	PROCEDIMIENTO 4374 4435	estudio definitivo de anatomía patológica de la masa resecada
+T54	PROCEDIMIENTO 5017 5068	estudio de anatomía patológica de material embólico
+T55	PROCEDIMIENTO 2658 2661	RMN
+T56	PROCEDIMIENTO 1525 1534	Analítica
+T57	PROCEDIMIENTO 4610 4623	anticoagulado
+T58	PROCEDIMIENTO 4499 4519	estudio de extensión
+T59	PROCEDIMIENTO 5179 5199	estudio de extensión
+T60	PROCEDIMIENTO 4697 4720	intervención quirúrgica
+T61	PROCEDIMIENTO 5759 5779	resección quirúrgica
+T62	SINTOMA 343 355	asintomático
+T63	SINTOMA 365 378	dolor intenso
+T64	SINTOMA 380 388	frialdad
+T65	SINTOMA 391 429	palidez generalizada en mano izquierda
+T66	SINTOMA 967 986	buen estado general
+T67	SINTOMA 988 998	consciente
+T68	SINTOMA 1000 1009	orientado
+T69	SINTOMA 1012 1023	colaborador
+T70	SINTOMA 1054 1072	eupneico en reposo
+T71	SINTOMA 1098 1105	Afebril
+T72	SINTOMA 1130 1164	auscultación cardiopulmonar normal
+T73	SINTOMA 1395 1438	masa en pared lateral de aurícula izquierda
+T74	SINTOMA 1633 1646	ritmo sinusal
+T75	SINTOMA 1665 1698	alteraciones de la repolarización
+T76	SINTOMA 1846 1863	patrón congestivo
+T77	SINTOMA 1888 1940	imágenes ocupantes de espacio en parénquima pulmonar
+T78	SINTOMA 1976 2029	Masa de 40x27 mm que ocupa toda la orejuela izquierda
+T79	SINTOMA 2581 2608	Cavidades derechas normales
+T80	SINTOMA 2673 2748	Formación tisular en aurícula izquierda que ocupa completamente la orejuela
+T81	SINTOMA 3460 3500	alteraciones anatómicas cardiovasculares
+T82	SINTOMA 3592 3604	asintomático
+T83	SINTOMA 5603 5610	fallece
+T84	SINTOMA 5287 5313	masa en aurícula izquierda
+T85	SINTOMA 1025 1052	Bien hidratado y perfundido
+T86	SINTOMA 4984 5003	déficit neurológico
+T87	SINTOMA 2439 2499	Válvula mitral, válvula aórtica y válvulas derechas normales
+T88	SINTOMA 558 594	no encontrar pulso radial ni cubital
+T89	SINTOMA 1536 1600	Hemograma, coagulación y perfiles completos sin datos de mención
+T90	SINTOMA 1792 1832	Silueta cardiaca dentro de la normalidad
+T91	SINTOMA 2501 2579	Ventrículo izquierdo de dimensiones, grosor de pared y contractilidad normales
+T92	SINTOMA 2797 2811	masa vegetante
+T93	SINTOMA 5017 5098	estudio de anatomía patológica de material embólico confirma la etiología tumoral
+T94	FARMACO 5506 5517	adriamicina

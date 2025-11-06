@@ -1,0 +1,105 @@
+T1	ENFERMEDAD 91 103	hipertensión
+T2	ENFERMEDAD 167 177	dislipemia
+T3	ENFERMEDAD 223 233	exfumadora
+T4	ENFERMEDAD 270 297	lupus eritematoso sistémico
+T5	ENFERMEDAD 299 302	LES
+T6	ENFERMEDAD 445 473	Nefropatía lúpica clase IIIB
+T7	ENFERMEDAD 502 519	glomerulonefritis
+T8	ENFERMEDAD 1690 1732	oclusión de 2o porción de arteria poplítea
+T9	ENFERMEDAD 2151 2174	trombo intraventricular
+T10	ENFERMEDAD 2486 2499	valvulopatías
+T11	ENFERMEDAD 2505 2524	derrame pericárdico
+T12	ENFERMEDAD 2911 2977	disección trombosada del segmento medio de la descendente anterior
+T13	ENFERMEDAD 3034 3067	Trombo intraventricular izquierdo
+T14	ENFERMEDAD 3106 3184	Enfermedad de un vaso con lesión larga en tercio medio de descendente anterior
+T15	ENFERMEDAD 3309 3391	isquemia subaguda de miembro inferior derecho secundaria a trombosis infrapoplítea
+T16	ENFERMEDAD 3421 3445	síndrome antifosfolípido
+T17	ENFERMEDAD 3724 3740	infarto anterior
+T18	ENFERMEDAD 3742 3772	trombo intraventricular apical
+T19	ENFERMEDAD 3909 3948	endocarditis de Libman-Sacks embolígena
+T20	ENFERMEDAD 4067 4108	disección coronaria espontánea trombosada
+T21	ENFERMEDAD 4174 4235	lesiones isquémicas lacunares en ambos hemisferios cerebrales
+T22	ENFERMEDAD 4241 4318	aneurisma situado en la bifurcación de la carótida interna del lado izquierdo
+T23	ENFERMEDAD 4368 4371	LES
+T24	ENFERMEDAD 4500 4509	trombosis
+T25	ENFERMEDAD 4725 4733	isquemia
+T26	ENFERMEDAD 4754 4782	endocarditis de Libman-Sacks
+T27	ENFERMEDAD 4840 4867	lupus eritematoso sistémico
+T28	ENFERMEDAD 4869 4908	Endocarditis de Libman-Sacks embolígena
+T29	ENFERMEDAD 4910 4938	Trombo ventricular izquierdo
+T30	ENFERMEDAD 4940 4991	Isquemia subaguda infrapoplítea de miembro inferior
+T31	ENFERMEDAD 5001 5055	Disección coronaria espontánea de descendente anterior
+T32	ENFERMEDAD 5057 5086	Infarto de miocardio anterior
+T33	ENFERMEDAD 4024 4045	lesión larga en la DA
+T34	ENFERMEDAD 1477 1494	lesiones tróficas
+T35	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDIMIENTO 479 486	biopsia
+T37	PROCEDIMIENTO 1119 1140	Auscultación cardiaca
+T38	PROCEDIMIENTO 1176 1197	Auscultación pulmonar
+T39	PROCEDIMIENTO 1521 1524	ECG
+T40	PROCEDIMIENTO 1652 1688	Eco-Doppler miembro inferior derecho
+T41	PROCEDIMIENTO 1773 1801	Ecocardiograma transtorácico
+T42	PROCEDIMIENTO 2526 2555	Ecocardiograma transesofágico
+T43	PROCEDIMIENTO 2897 2909	TC coronario
+T44	PROCEDIMIENTO 3069 3084	Coronariografía
+T45	PROCEDIMIENTO 3480 3495	anticoagulación
+T46	PROCEDIMIENTO 3498 3513	prostaglandinas
+T47	PROCEDIMIENTO 3564 3567	ECG
+T48	PROCEDIMIENTO 3629 3657	ecocardiograma transtorácico
+T49	PROCEDIMIENTO 3825 3854	ecocardiograma transesofágico
+T50	PROCEDIMIENTO 3859 3871	hemocultivos
+T51	PROCEDIMIENTO 3971 3983	TC coronario
+T52	PROCEDIMIENTO 3990 4005	coronariografía
+T53	PROCEDIMIENTO 4141 4153	RMN cerebral
+T54	PROCEDIMIENTO 4514 4529	anticoagulación
+T55	PROCEDIMIENTO 4594 4608	betabloqueante
+T56	PROCEDIMIENTO 1040 1051	exploración
+T57	PROCEDIMIENTO 4376 4403	pulsos de metilprednisolona
+T58	SINTOMA 817 828	parestesias
+T59	SINTOMA 830 835	dolor
+T60	SINTOMA 838 856	frialdad en el pie
+T61	SINTOMA 903 928	claudicación de la marcha
+T62	SINTOMA 966 971	mareo
+T63	SINTOMA 974 984	sudoración
+T64	SINTOMA 995 1009	dolor torácico
+T65	SINTOMA 1061 1080	buen estado general
+T66	SINTOMA 1082 1090	Eupneica
+T67	SINTOMA 1119 1148	Auscultación cardiaca rítmica
+T68	SINTOMA 1154 1160	soplos
+T69	SINTOMA 1164 1174	extratonos
+T70	SINTOMA 1202 1231	murmullo vesicular conservado
+T71	SINTOMA 1307 1322	pulsos distales
+T72	SINTOMA 1324 1350	Palidez y frialdad del pie
+T73	SINTOMA 1427 1463	Movilidad y sensibilidad conservadas
+T74	SINTOMA 1526 1539	ritmo sinusal
+T75	SINTOMA 1550 1559	PR normal
+T76	SINTOMA 1561 1573	QRS estrecho
+T77	SINTOMA 1607 1650	onda T negativa en V1-V2, aplanada en V3-V6
+T78	SINTOMA 1803 1835	ventrículo izquierdo no dilatado
+T79	SINTOMA 2012 2027	FEVI conservada
+T80	SINTOMA 2407 2474	Ventrículo derecho no dilatado, con función sistólica global normal
+T81	SINTOMA 2557 2587	válvula mitral con velos finos
+T82	SINTOMA 3859 3881	hemocultivos negativos
+T83	SINTOMA 4664 4699	VI con función sistólica preservada
+T84	SINTOMA 4806 4810	masa
+T85	SINTOMA 541 579	Anticuerpos antifosfolípidos positivos
+T86	SINTOMA 1872 1890	Disquinesia apical
+T87	SINTOMA 1893 1926	aquinesia de los tercios distales
+T88	SINTOMA 2077 2100	ápex por una masa sésil
+T89	SINTOMA 2176 2199	Válvula mitral con masa
+T90	SINTOMA 5104 5141	función ventricular global conservada
+T91	SINTOMA 3776 3820	masa redondeada adherida a la válvula mitral
+T92	SINTOMA 4531 4543	Asintomática
+T93	SINTOMA 3674 3707	alteraciones de la contractilidad
+T94	SINTOMA 3086 3104	dominancia derecha
+T95	SINTOMA 1575 1585	eje normal
+T96	SINTOMA 1347 1395	pie derecho, relleno venocapilar muy enlentecido
+T97	SINTOMA 1587 1602	Onda Q en V1-V5
+T98	FARMACO 123 150	enalapril/ hidroclorotizida
+T99	FARMACO 197 210	atorvastatina
+T100	FARMACO 408 418	prednisona
+T101	FARMACO 4386 4403	metilprednisolona
+T102	FARMACO 4405 4414	rituximab
+T103	FARMACO 4416 4440	micofenolato de mofetilo
+T104	FARMACO 4443 4471	sulfato de hidroxicloroquina
+#1	AnnotatorNotes T23	 Lupus eritematoso sistémico

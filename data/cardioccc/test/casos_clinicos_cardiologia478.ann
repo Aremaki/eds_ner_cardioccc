@@ -1,0 +1,75 @@
+T1	ENFERMEDAD 99 122	alergias medicamentosas
+T2	ENFERMEDAD 137 152	hábitos tóxicos
+T3	ENFERMEDAD 239 295	insuficiencia mitral ligera secundaria a prolapso mitral
+T4	ENFERMEDAD 442 471	rotura prematura de membranas
+T5	ENFERMEDAD 690 705	cuadro catarral
+T6	ENFERMEDAD 1322 1347	trombosis venosa profunda
+T7	ENFERMEDAD 1890 1920	patología pleuropulmonar aguda
+T8	ENFERMEDAD 2100 2150	nsuficiencia mitral por prolapso de velo posterior
+T9	ENFERMEDAD 2277 2302	Insuficiencia tricuspídea
+T10	ENFERMEDAD 2307 2326	derrame pericárdico
+T11	ENFERMEDAD 2756 2822	síndrome coronario agudo con elevación transitoria del segmento ST
+T12	ENFERMEDAD 3136 3176	insuficiencia mitral por prolapso mitral
+T13	ENFERMEDAD 3311 3330	lesiones coronarias
+T14	ENFERMEDAD 3574 3640	Síndrome coronario agudo con elevación transitoria del segmento ST
+T15	ENFERMEDAD 3652 3700	Vasoespasmo coronario secundario a bromocriptina
+T16	ENFERMEDAD 3466 3491	complicaciones arrítmicas
+T17	PROCEDIMIENTO 400 418	anestesia epidural
+T18	PROCEDIMIENTO 797 815	Exploración Física
+T19	PROCEDIMIENTO 1063 1084	Auscultación cardiaca
+T20	PROCEDIMIENTO 1148 1169	Auscultación pulmonar
+T21	PROCEDIMIENTO 1277 1286	palpación
+T22	PROCEDIMIENTO 1374 1377	ECG
+T23	PROCEDIMIENTO 1490 1493	ECG
+T24	PROCEDIMIENTO 1551 1570	Analítica de sangre
+T25	PROCEDIMIENTO 1687 1698	Coagulación
+T26	PROCEDIMIENTO 1707 1736	Marcadores de daño miocárdico
+T27	PROCEDIMIENTO 1855 1875	Radiografía de tórax
+T28	PROCEDIMIENTO 1976 1979	ETT
+T29	PROCEDIMIENTO 2398 2413	Coronariografía
+T30	PROCEDIMIENTO 2854 2857	ECG
+T31	PROCEDIMIENTO 2907 2910	ECG
+T32	PROCEDIMIENTO 3007 3035	ecocardiograma transtorácico
+T33	PROCEDIMIENTO 3207 3222	coronariografía
+T34	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDIMIENTO 366 395	Parto instrumentado (ventosa)
+T36	PROCEDIMIENTO 1003 1018	Cabeza y cuello
+T37	PROCEDIMIENTO 960 981	oxígeno suplementario
+T38	SINTOMA 314 356	función sistólica biventricular preservada
+T39	SINTOMA 612 641	dolor centrotorácico opresivo
+T40	SINTOMA 708 717	diarreico
+T41	SINTOMA 862 872	Consciente
+T42	SINTOMA 874 883	orientada
+T43	SINTOMA 885 907	buena perfusión distal
+T44	SINTOMA 909 928	Buen estado general
+T45	SINTOMA 930 938	Eupneica
+T46	SINTOMA 1023 1026	IVY
+T47	SINTOMA 1063 1093	Auscultación cardiaca: rítmica
+T48	SINTOMA 1099 1118	soplo mesosistólico
+T49	SINTOMA 1171 1200	murmullo vesicular conservado
+T50	SINTOMA 1288 1311	Extremidades: no edemas
+T51	SINTOMA 1379 1392	ritmo sinusal
+T52	SINTOMA 1418 1454	Elevación del ST en DII, DIII y avF.
+T53	SINTOMA 1455 1488	Descenso especular en V2-v3 y aVL
+T54	SINTOMA 1687 1705	Coagulación normal
+T55	SINTOMA 1981 2030	ventrículo izquierdo no dilatado, no hipertrófico
+T56	SINTOMA 2073 2097	Patrón diastólico normal
+T57	SINTOMA 2245 2272	Cavidades derechas normales
+T58	SINTOMA 2785 2822	elevación transitoria del segmento ST
+T59	SINTOMA 3059 3130	función sistólica ventricular izquierda global y segmentaria preservada
+T60	SINTOMA 3421 3446	estable hemodinámicamente
+T61	SINTOMA 3603 3640	elevación transitoria del segmento ST
+T62	SINTOMA 3702 3752	Función sistólica ventricular izquierda preservada
+T63	SINTOMA 1231 1286	Abdomen: blando, depresible, no doloroso a la palpación
+T64	SINTOMA 1922 1974	Silueta cardiopericárdica en límite de la normalidad
+T65	SINTOMA 2035 2071	FEVI global y segmentaria preservada
+T66	SINTOMA 2601 2619	Dominancia derecha
+T67	SINTOMA 3508 3559	asintomática desde el punto de vista cardiovascular
+T68	SINTOMA 2415 2458	árbol coronario izquierdo: TCI sin lesiones
+T69	SINTOMA 2159 2229	Válvula aórtica trivalva, sin gradiente transvalvular ni insuficiencia
+T70	SINTOMA 2493 2526	Descendente anterior sin lesiones
+T71	SINTOMA 2543 2567	Circunfleja sin lesiones
+T72	SINTOMA 2621 2651	Coronaria derecha sin lesiones
+T73	FARMACO 756 769	bromocriptina
+T74	FARMACO 2981 2994	bromocriptina
+T75	FARMACO 3687 3700	bromocriptina

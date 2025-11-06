@@ -1,0 +1,107 @@
+T1	DISEASE 242 282	bloqueo aurículo-ventricular de 2o grado
+T2	DISEASE 714 725	cardiopatía
+T3	DISEASE 790 826	miocardiopatía dilatada no isquémica
+T4	DISEASE 844 873	disfunción sistólica moderada
+T5	DISEASE 955 1000	taquicardia ventricular monomorfica sostenida
+T6	DISEASE 1002 1006	TVMS
+T7	DISEASE 1219 1234	BAV de 2o grado
+T8	DISEASE 3121 3140	hipertensión venosa
+T9	DISEASE 3564 3649	fibrosis lineal mesoseptal basal con extensión a segmento medio (zona del haz de His)
+T10	DISEASE 3733 3743	neumotórax
+T11	DISEASE 4223 4250	extrasístoles ventriculares
+T12	DISEASE 4699 4707	isquemia
+T13	DISEASE 4801 4815	miocardiopatía
+T14	DISEASE 5080 5092	BAV completo
+T15	DISEASE 5401 5433	miocardiopatía dilatada familiar
+T16	DISEASE 5445 5493	trastornos de la conducción aurículo-ventricular
+T17	DISEASE 6084 6098	episodios TVNS
+T18	DISEASE 6444 6485	bloqueo aurículo- ventricular de 2o grado
+T19	DISEASE 6654 6665	cardiopatía
+T20	DISEASE 7211 7243	Miocardiopatía dilatada familiar
+T21	DISEASE 7248 7277	trastorno de la conducción AV
+T22	DISEASE 7291 7302	laminopatía
+T23	DISEASE 7308 7342	Disfunción sistólica ligera del VI
+T24	DISEASE 7359 7363	TVNS
+T25	DISEASE 1911 1917	BCRDHH
+T26	DISEASE 7114 7151	Bloqueo aurículo-ventricular completo
+T27	DISEASE 1550 1581	Auscultación cardiaca arrítmica
+T28	DISEASE 1802 1839	bloqueo aurículo-ventricular completo
+T29	DISEASE 2586 2606	disfunción sistólica
+T30	DISEASE 3510 3558	dilatación y disfunción sistólica ligeras del VI
+T31	DISEASE 2350 2373	VI ligeramente dilatado
+T32	DISEASE 2430 2451	Dilatación leve de AI
+T33	DISEASE 2967 2974	IT leve
+T34	DISEASE 3178 3223	VI de grosores normales, ligeramente dilatado
+T35	DISEASE 451 493	bebe ocasionalmente algo de vino o cerveza
+T36	DISEASE 1876 1891	EV monomórficos
+T37	DISEASE 4946 4953	bloqueo
+T38	DISEASE 6855 6893	enfermedades del sistema de conducción
+T39	PROCEDURE 166 169	ECG
+T40	PROCEDURE 923 951	ablación por radiofrecuencia
+T41	PROCEDURE 1132 1135	ECG
+T42	PROCEDURE 1315 1318	ECG
+T43	PROCEDURE 1474 1492	Exploración física
+T44	PROCEDURE 1550 1571	Auscultación cardiaca
+T45	PROCEDURE 1610 1631	Auscultación pulmonar
+T46	PROCEDURE 1765 1768	ECG
+T47	PROCEDURE 2230 2239	Hemograma
+T48	PROCEDURE 2334 2348	Ecocardiograma
+T49	PROCEDURE 3166 3176	Cardio RMN
+T50	PROCEDURE 3651 3671	Radiografía de tórax
+T51	PROCEDURE 3866 3892	Ecocardiograma de esfuerzo
+T52	PROCEDURE 4817 4820	ECG
+T53	PROCEDURE 5018 5045	monitorización ECG continua
+T54	PROCEDURE 5166 5209	implante de marcapasos definitivo bicameral
+T55	PROCEDURE 5238 5250	RMN cardiaca
+T56	PROCEDURE 5569 5585	estudio genético
+T57	PROCEDURE 5777 5800	implante del marcapasos
+T58	PROCEDURE 5894 5920	ecocardiograma de esfuerzo
+T59	PROCEDURE 6305 6327	implante de marcapasos
+T60	PROCEDURE 6545 6581	implantando un marcapasos definitivo
+T61	PROCEDURE 6735 6758	implante del marcapasos
+T62	PROCEDURE 6790 6893	análisis genético, en el que se evaluaron 34 genes implicados en enfermedades del sistema de conducción
+T63	PROCEDURE 7047 7075	implante de un desfibrilador
+T64	PROCEDURE 7425 7450	Implante de desfibrilador
+T65	PROCEDURE 320 338	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 1964 1973	Analítica
+T67	SYMPTOM 149 169	alteración en el ECG
+T68	SYMPTOM 1411 1416	mareo
+T69	SYMPTOM 1421 1428	astenia
+T70	SYMPTOM 1529 1548	Buen estado general
+T71	SYMPTOM 1586 1596	extratonos
+T72	SYMPTOM 1602 1608	soplos
+T73	SYMPTOM 1636 1671	conservación del murmullo vesicular
+T74	SYMPTOM 1673 1704	Abdomen y extremidades normales
+T75	SYMPTOM 1770 1783	ritmo sinusal
+T76	SYMPTOM 1842 1857	ritmo de escape
+T77	SYMPTOM 2478 2524	contracción a nivel del septo interventricular
+T78	SYMPTOM 2530 2553	leve hipocinesia global
+T79	SYMPTOM 2650 2723	Válvulas mitral, tricúspide y pulmonar de morfología y movilidad normales
+T80	SYMPTOM 2787 2825	aumento de presiones de llenado del VI
+T81	SYMPTOM 2827 2857	Ventrículo derecho no dilatado
+T82	SYMPTOM 2930 2965	función sistólica global preservada
+T83	SYMPTOM 3005 3053	Vena cava inferior y suprahepáticas no dilatadas
+T84	SYMPTOM 3178 3201	VI de grosores normales
+T85	SYMPTOM 3258 3297	fracción de eyección levemente reducida
+T86	SYMPTOM 3309 3342	contractilidad segmentaria normal
+T87	SYMPTOM 3687 3715	índice cardiotorácico normal
+T88	SYMPTOM 4439 4465	Respuesta tensional normal
+T89	SYMPTOM 4928 4940	asintomático
+T90	SYMPTOM 5104 5128	adecuado ritmo de escape
+T91	SYMPTOM 5142 5154	asintomático
+T92	SYMPTOM 6232 6240	falleció
+T93	SYMPTOM 1433 1440	síncope
+T94	SYMPTOM 189 224	conducción arrítmica de las ondas P
+T95	SYMPTOM 1170 1205	conducción arrítmica de las ondas P
+T96	SYMPTOM 2616 2648	Válvula aórtica trivalva, normal
+T97	SYMPTOM 4521 4539	hipocinesia global
+T98	SYMPTOM 7166 7209	Portador de marcapasos definitivo bicameral
+T99	SYMPTOM 2881 2914	alteraciones de la contractilidad
+T100	SYMPTOM 1683 1738	extremidades normales, sin edemas y con pulsos normales
+T101	SYMPTOM 1920 1932	eje inferior
+T102	SYMPTOM 3344 3406	VD de dimensiones y contractilidad global y segmentaria normal
+T103	SYMPTOM 4467 4501	Contractilidad levemente deprimida
+T104	SYMPTOM 4638 4707	prueba resulta clínica y ecocardiográficamente negativa para isquemia
+T105	SYMPTOM 6937 6975	heterozigosis del truncamiento Glu444*
+#1	AnnotatorNotes T6	 taquicardia ventricular monoforma sostenida
+#2	AnnotatorNotes T17	 TVNS: taquicardias ventriculares no sostenidas

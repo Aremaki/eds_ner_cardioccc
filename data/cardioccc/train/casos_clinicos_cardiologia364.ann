@@ -1,0 +1,93 @@
+T1	DISEASE 2890 2924	disfunción sistólica moderadamente
+T2	DISEASE 4339 4373	disfunción sistólica moderadamente
+T3	DISEASE 233 256	alergias medicamentosas
+T4	DISEASE 316 324	obesidad
+T5	DISEASE 327 351	diabetes mellitus tipo 2
+T6	DISEASE 416 437	cardiopatía isquémica
+T7	DISEASE 449 477	muerte súbita cardiovascular
+T8	DISEASE 1573 1615	bloqueo auriculoventricular (BAV) completo
+T9	DISEASE 1602 1605	BAV
+T10	DISEASE 1658 1697	bloqueo de rama izquierda de has de His
+T11	DISEASE 1699 1704	BRIHH
+T12	DISEASE 1747 1752	BRIHH
+T13	DISEASE 2843 2884	síndrome de discinesia apical transitoria
+T14	DISEASE 3095 3153	estenosis moderada en tercio medio de descendente anterior
+T15	DISEASE 3210 3237	cámara ventricular dilatada
+T16	DISEASE 3331 3353	síndrome de tako-tsubo
+T17	DISEASE 3967 3989	síndrome de tako-tsubo
+T18	DISEASE 4292 4333	síndrome de discinesia apical transitoria
+T19	DISEASE 4597 4655	estenosis moderada en tercio medio de descendente anterior
+T20	DISEASE 4712 4739	cámara ventricular dilatada
+T21	DISEASE 4833 4855	síndrome de tako-tsubo
+T22	DISEASE 4961 4990	discinesia apical transitoria
+T23	DISEASE 5097 5109	BAV completo
+T24	DISEASE 5209 5250	Síndrome de discinesia apical transitoria
+T25	DISEASE 5270 5282	BAV completo
+T26	DISEASE 5346 5407	Enfermedad coronaria de 1 vaso: estenosis significativa de D1
+T27	DISEASE 1819 1838	congestión pulmonar
+T28	DISEASE 2199 2214	daño miocárdico
+T29	DISEASE 2727 2780	Válvula mitral con velos esclerosados e insuficiencia
+T30	DISEASE 2968 3045	enfermedad coronaria de 1 vaso por una estenosis grave de pequeña 1a diagonal
+T31	DISEASE 4470 4547	enfermedad coronaria de 1 vaso por una estenosis grave de pequeña 1a diagonal
+T32	DISEASE 5287 5315	ritmo de escape de QRS ancho
+T33	DISEASE 1620 1639	escape de QRS ancho
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 1068 1086	exploración física
+T36	PROCEDURE 1283 1304	auscultación cardiaca
+T37	PROCEDURE 1557 1560	ECG
+T38	PROCEDURE 1754 1774	Radiografía de tórax
+T39	PROCEDURE 1893 1902	hemograma
+T40	PROCEDURE 1970 1981	Coagulación
+T41	PROCEDURE 2275 2303	Ecocardiograma transtorácico
+T42	PROCEDURE 2305 2308	ETT
+T43	PROCEDURE 2936 2956	Estudio hemodinámico
+T44	PROCEDURE 3167 3183	ventriculografía
+T45	PROCEDURE 3355 3398	Resonancia magnética nuclear (RMN) cardiaca
+T46	PROCEDURE 4051 4069	electrocardiograma
+T47	PROCEDURE 4221 4235	ecocardiograma
+T48	PROCEDURE 4417 4437	estudio hemodinámico
+T49	PROCEDURE 4669 4685	ventriculografía
+T50	PROCEDURE 4914 4926	RMN cardiaca
+T51	PROCEDURE 5156 5194	implante de marcapasos definitivo DDDR
+T52	PROCEDURE 5317 5344	Implante de marcapasos DDDR
+T53	PROCEDURE 1999 2009	Bioquímica
+T54	PROCEDURE 2185 2214	Marcadores de daño miocárdico
+T55	PROCEDURE 3385 3388	RMN
+T56	PROCEDURE 1871 1880	Analítica
+T57	SYMPTOM 184 213	dolor centrotorácico opresivo
+T58	SYMPTOM 621 700	dolor centrotorácico opresivo, irradiado a espalda y miembro superior izquierdo
+T59	SYMPTOM 881 901	dolor centrotorácico
+T60	SYMPTOM 1017 1035	cortejo vegetativo
+T61	SYMPTOM 1046 1051	mareo
+T62	SYMPTOM 1054 1060	disnea
+T63	SYMPTOM 1126 1145	buen estado general
+T64	SYMPTOM 1147 1165	eupneica en reposo
+T65	SYMPTOM 1186 1201	bien perfundida
+T66	SYMPTOM 1283 1315	auscultación cardiaca es rítmica
+T67	SYMPTOM 1321 1327	soplos
+T68	SYMPTOM 1363 1392	presión venosa yugular normal
+T69	SYMPTOM 1394 1423	murmullo vesicular conservado
+T70	SYMPTOM 1428 1448	ruidos sobreañadidos
+T71	SYMPTOM 1450 1483	extremidades inferiores sin edema
+T72	SYMPTOM 1492 1510	pulsos conservados
+T73	SYMPTOM 1776 1804	índice cardiotorácico normal
+T74	SYMPTOM 2649 2694	Ventrículo derecho de tamaño y función normal
+T75	SYMPTOM 3400 3437	ventrículo izquierdo de tamaño normal
+T76	SYMPTOM 3526 3572	Hipocinesia de la pared inferior basal y medio
+T77	SYMPTOM 3574 3589	Edema del septo
+T78	SYMPTOM 3695 3708	hipoperfusión
+T79	SYMPTOM 3884 3910	Aurículas de tamaño normal
+T80	SYMPTOM 2443 2458	Acinesia septal
+T81	SYMPTOM 2324 2407	ventrículo izquierdo no hipertrófico y de tamaño en el límite alto de la normalidad
+T82	SYMPTOM 2590 2638	función sistólica global moderadamente deprimida
+T83	SYMPTOM 3243 3273	acinesia de segmentos apicales
+T84	SYMPTOM 3276 3316	hipercontractilidad de segmentos basales
+T85	SYMPTOM 3788 3823	Ventrículo derecho de tamaño normal
+T86	SYMPTOM 4745 4775	acinesia de segmentos apicales
+T87	SYMPTOM 4778 4818	hipercontractilidad de segmentos basales
+T88	SYMPTOM 5306 5315	QRS ancho
+T89	SYMPTOM 4032 4069	alteraciones en el electrocardiograma
+T90	SYMPTOM 491 542	asintomática desde el punto de vista cardiovascular
+T91	SYMPTOM 2555 2587	hipercontractilidad de las bases
+T92	MEDICATION 371 381	metformina
+T93	MEDICATION 957 965	nitratos

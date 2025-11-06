@@ -1,0 +1,86 @@
+T1	DISEASE 101 124	alergias medicamentosas
+T2	DISEASE 138 153	hábitos tóxicos
+T3	DISEASE 159 176	diabetes mellitus
+T4	DISEASE 191 201	hipertenso
+T5	DISEASE 204 215	dislipémico
+T6	DISEASE 253 274	cardiopatía isquémica
+T7	DISEASE 542 563	fibrilación auricular
+T8	DISEASE 644 663	bradicardia sinusal
+T9	DISEASE 868 889	fibrilación auricular
+T10	DISEASE 1424 1501	estenosis de la arteria descendente anterior proximal (DAp) 80 %, circunfleja
+T11	DISEASE 1940 1964	descompensación cardiaca
+T12	DISEASE 2340 2354	hipotiroidismo
+T13	DISEASE 2727 2744	dislipemia severa
+T14	DISEASE 4155 4166	cardiopatía
+T15	DISEASE 4494 4522	aneurisma de aorta abdominal
+T16	DISEASE 4667 4688	cardiopatía isquémica
+T17	DISEASE 4690 4710	vasculopatía aórtica
+T18	DISEASE 4713 4723	dislipemia
+T19	DISEASE 5045 5100	Cardiopatía isquémica crónica con enfermedad de 3 vasos
+T20	DISEASE 5188 5220	Disfunción ventricular izquierda
+T21	DISEASE 5260 5285	Aneurisma aorta abdominal
+T22	DISEASE 5324 5346	Insuficiencia cardiaca
+T23	DISEASE 5476 5493	Dislipemia severa
+T24	DISEASE 5495 5519	Intolerancia a estatinas
+T25	DISEASE 5378 5396	Disfunción sinusal
+T26	DISEASE 1996 2009	leve isquemia
+T27	DISEASE 5401 5415	FA paroxística
+T28	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 376 382	Holter
+T30	PROCEDURE 437 448	cronotropos
+T31	PROCEDURE 479 490	artroscopia
+T32	PROCEDURE 686 710	estudio ecocardiográfico
+T33	PROCEDURE 751 801	se implanta por vía subclavia marcapasos bicameral
+T34	PROCEDURE 814 846	anticoagulación con acenocumarol
+T35	PROCEDURE 925 948	cardioversión eléctrica
+T36	PROCEDURE 1031 1046	anticoagulación
+T37	PROCEDURE 1211 1225	ecocardiograma
+T38	PROCEDURE 1283 1305	tratamiento deplectivo
+T39	PROCEDURE 1366 1381	coronariografía
+T40	PROCEDURE 1389 1410	angiografía coronaria
+T41	PROCEDURE 1644 1672	revascularización quirúrgica
+T42	PROCEDURE 1733 1869	triple pontaje coronario a DA media con arteria mamaria interna (AMI) y secuencia con vena safena (VSF) a 1a OM y ramas posterolaterales
+T43	PROCEDURE 1977 1982	SPECT
+T44	PROCEDURE 2047 2062	coronariografía
+T45	PROCEDURE 2122 2135	Se revisó MCP
+T46	PROCEDURE 2912 2931	Analítica sanguínea
+T47	PROCEDURE 3263 3282	Analítica sanguínea
+T48	PROCEDURE 3702 3721	Analítica sanguínea
+T49	PROCEDURE 4281 4295	ecocardiograma
+T50	PROCEDURE 4392 4406	ecocardiograma
+T51	PROCEDURE 4466 4479	TAC abdominal
+T52	PROCEDURE 4564 4590	colocación de endoprótesis
+T53	PROCEDURE 4771 4780	estatinas
+T54	PROCEDURE 5117 5186	triple bypass aorto-coronario con AMI a DA y SFN secuencia a MO1 y DP
+T55	PROCEDURE 5299 5322	reparación endovascular
+T56	PROCEDURE 3694 3700	IPCSK9
+T57	PROCEDURE 4828 4834	IPCSK9
+T58	PROCEDURE 5510 5519	estatinas
+T59	PROCEDURE 2705 2720	hipolipemiantes
+T60	PROCEDURE 2755 2777	tratamiento con IPCSK9
+T61	PROCEDURE 2430 2439	estatinas
+T62	PROCEDURE 2625 2634	estatinas
+T63	PROCEDURE 1346 1363	estudio analítico
+T64	PROCEDURE 1677 1689	intervención
+T65	SYMPTOM 1120 1126	disnea
+T66	SYMPTOM 1129 1146	opresión torácica
+T67	SYMPTOM 1238 1271	VI con FE moderadamente deprimida
+T68	SYMPTOM 1931 1937	disnea
+T69	SYMPTOM 2232 2244	asintomático
+T70	SYMPTOM 2397 2415	dolores musculares
+T71	SYMPTOM 2591 2599	mialgias
+T72	SYMPTOM 4210 4224	dolor torácico
+T73	SYMPTOM 4423 4432	lumbalgia
+T74	SYMPTOM 398 409	bradicardia
+T75	SYMPTOM 5246 5257	FEVI normal
+T76	SYMPTOM 5417 5453	Portador de MCP DDD normofuncionante
+T77	MEDICATION 5537 5543	IPCSK9
+T78	MEDICATION 834 846	acenocumarol
+T79	MEDICATION 969 979	amiodarona
+T80	MEDICATION 994 1004	bisoprolol
+T81	MEDICATION 1307 1317	furosemida
+T82	MEDICATION 1320 1330	eplerenona
+T83	MEDICATION 2294 2304	amiodarona
+T84	MEDICATION 2324 2335	dronedarona
+T85	MEDICATION 2441 2453	simvastatina
+T86	MEDICATION 2462 2475	atorvastatina

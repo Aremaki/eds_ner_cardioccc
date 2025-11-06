@@ -1,0 +1,123 @@
+T1	DISEASE 120 141	hipertensión arterial
+T2	DISEASE 164 174	Exfumadora
+T3	DISEASE 204 213	Sobrepeso
+T4	DISEASE 413 437	estenosis aórtica severa
+T5	DISEASE 985 1016	Trastorno de ansiedad-depresión
+T6	DISEASE 1176 1194	infartos lacunares
+T7	DISEASE 1197 1212	microembolismos
+T8	DISEASE 1214 1228	Asma bronquial
+T9	DISEASE 1230 1239	Psoriasis
+T10	DISEASE 1335 1351	obesidad mórbida
+T11	DISEASE 3156 3160	TEPA
+T12	DISEASE 3550 3579	Insuficiencia mitral moderada
+T13	DISEASE 3581 3614	Insuficiencia tricúspide moderada
+T14	DISEASE 3654 3673	derrame pericárdico
+T15	DISEASE 3798 3848	trombo en cara ventricular del disco más posterior
+T16	DISEASE 3924 3952	estenosis aórtica muy severa
+T17	DISEASE 3955 3983	insuficiencia aórtica severa
+T18	DISEASE 4002 4021	trombosis protésica
+T19	DISEASE 4330 4354	tromboembolismo pulmonar
+T20	DISEASE 4543 4570	doble lesión aórtica severa
+T21	DISEASE 4620 4645	trombosis protésica aguda
+T22	DISEASE 4831 4853	trombo en ambos discos
+T23	DISEASE 5207 5266	bloqueo de los discos protésicos por la presencia de trombo
+T24	DISEASE 5730 5772	Trombosis protésica mecánica aórtica aguda
+T25	DISEASE 5774 5792	Shock cardiogénico
+T26	DISEASE 323 348	Válvula aórtica bicúspide
+T27	DISEASE 251 281	Consumidora habitual de etanol
+T28	DISEASE 1986 2003	consumo de etanol
+T29	DISEASE 3390 3427	Aurícula izquierda levemente dilatada
+T30	DISEASE 3429 3478	Prótesis aórtica mecánica con doble lesión severa
+T31	DISEASE 4391 4409	sobrecarga hídrica
+T32	DISEASE 3218 3271	ventrículo izquierdo no dilatado con hipertrofia leve
+T33	PROCEDURE 447 503	recambio valvular aórtico (prótesis St Jude Regent No19)
+T34	PROCEDURE 506 533	injerto de aorta ascendente
+T35	PROCEDURE 692 706	ecocardiograma
+T36	PROCEDURE 1132 1166	resonancia magnética (RMN) craneal
+T37	PROCEDURE 1270 1296	Bypass gástrico (Y de Roux
+T38	PROCEDURE 1300 1314	eventroplastia
+T39	PROCEDURE 1361 1376	Colecistectomía
+T40	PROCEDURE 1379 1392	histerectomía
+T41	PROCEDURE 2083 2098	anticoagulación
+T42	PROCEDURE 2131 2149	Exploración física
+T43	PROCEDURE 2305 2326	Auscultación cardiaca
+T44	PROCEDURE 2427 2448	Auscultación pulmonar
+T45	PROCEDURE 2584 2593	Hemograma
+T46	PROCEDURE 2776 2787	Coagulación
+T47	PROCEDURE 2799 2818	Gasometría arterial
+T48	PROCEDURE 2872 2890	Electrocardiograma
+T49	PROCEDURE 2892 2895	ECG
+T50	PROCEDURE 2975 2995	Radiografía de tórax
+T51	PROCEDURE 3039 3057	esternotomía media
+T52	PROCEDURE 3106 3137	Angio-TC de arterias pulmonares
+T53	PROCEDURE 3188 3216	Ecocardiograma transtorácico
+T54	PROCEDURE 3675 3687	Fluoroscopia
+T55	PROCEDURE 3745 3774	Ecocardiograma transesofágico
+T56	PROCEDURE 4190 4210	radiografía de tórax
+T57	PROCEDURE 4276 4307	angio-TC de arterias pulmonares
+T58	PROCEDURE 4470 4498	ecocardiograma transtorácico
+T59	PROCEDURE 4657 4669	fluoroscopia
+T60	PROCEDURE 4755 4784	ecocardiograma transesofágico
+T61	PROCEDURE 5031 5052	tratamiento diurético
+T62	PROCEDURE 5309 5346	se implanta una prótesis mecánica ATS
+T63	PROCEDURE 5383 5421	implantación de una prótesis biológica
+T64	PROCEDURE 5561 5575	ecocardiograma
+T65	PROCEDURE 5814 5855	Implante de prótesis mecánica aórtica ATS
+T66	PROCEDURE 2668 2678	Bioquímica
+T67	PROCEDURE 2150 2168	Constantes vitales
+T68	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T69	PROCEDURE 1154 1157	RMN
+T70	PROCEDURE 5124 5152	sustitución valvular aórtica
+T71	PROCEDURE 2573 2582	Analítica
+T72	PROCEDURE 1242 1268	Intervenciones quirúrgicas
+T73	SYMPTOM 655 668	palpitaciones
+T74	SYMPTOM 1837 1843	disnea
+T75	SYMPTOM 1887 1892	mareo
+T76	SYMPTOM 1894 1910	malestar general
+T77	SYMPTOM 1913 1926	palpitaciones
+T78	SYMPTOM 2244 2266	Regular estado general
+T79	SYMPTOM 2268 2276	sudorosa
+T80	SYMPTOM 2283 2303	trabajo respiratorio
+T81	SYMPTOM 2328 2353	ruidos cardiacos rítmicos
+T82	SYMPTOM 2355 2393	soplo sistólico piante en foco aórtico
+T83	SYMPTOM 2450 2461	crepitantes
+T84	SYMPTOM 2464 2480	roncus dispersos
+T85	SYMPTOM 2482 2503	Ingurgitación yugular
+T86	SYMPTOM 2517 2546	edemas en miembros inferiores
+T87	SYMPTOM 2997 3025	índice cardiotorácico normal
+T88	SYMPTOM 3166 3186	signos de congestión
+T89	SYMPTOM 3218 3250	ventrículo izquierdo no dilatado
+T90	SYMPTOM 3274 3308	función sistólica levemente afecta
+T91	SYMPTOM 3310 3339	Presiones de llenado elevadas
+T92	SYMPTOM 3341 3388	Ventrículo derecho de tamaño y función normales
+T93	SYMPTOM 4091 4097	disnea
+T94	SYMPTOM 4109 4129	trabajo respiratorio
+T95	SYMPTOM 4980 4989	hipotensa
+T96	SYMPTOM 4992 5004	taquicárdica
+T97	SYMPTOM 5862 5877	FEVI conservada
+T98	SYMPTOM 738 801	fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T99	SYMPTOM 2898 2917	taquicardia sinusal
+T100	SYMPTOM 2410 2425	click protésico
+T101	SYMPTOM 5600 5634	prótesis mecánica normofuncionante
+T102	SYMPTOM 382 387	soplo
+T103	SYMPTOM 808 874	prótesis normofuncionante aunque con gradientes levemente elevados
+T104	SYMPTOM 3438 3503	aórtica mecánica con doble lesión severa, gradientes muy elevados
+T105	SYMPTOM 3689 3743	ausencia de movimiento de uno de los discos protésicos
+T106	SYMPTOM 3856 3904	imagen en la cara aórtica del disco más anterior
+T107	SYMPTOM 4173 4210	normalidad de la radiografía de tórax
+T108	SYMPTOM 4951 4978	mala situación hemodinámica
+T109	SYMPTOM 4556 4598	aórtica severa con gradientes muy elevados
+T110	MEDICATION 1428 1440	Acenocumarol
+T111	MEDICATION 1454 1464	amiodarona
+T112	MEDICATION 1478 1487	enalapril
+T113	MEDICATION 1500 1509	diltiazem
+T114	MEDICATION 1521 1531	furosemida
+T115	MEDICATION 1544 1555	almotriptan
+T116	MEDICATION 1570 1582	escitalopram
+T117	MEDICATION 1595 1604	ketazolam
+T118	MEDICATION 1617 1626	omeprazol
+T119	MEDICATION 1639 1660	formoterol/budesonida
+T120	MEDICATION 1672 1684	ácido fólico
+T121	MEDICATION 1691 1700	lorazepam
+T122	MEDICATION 1712 1722	salbutamol
+#1	AnnotatorNotes T69	 Resonancia magnética nuclear

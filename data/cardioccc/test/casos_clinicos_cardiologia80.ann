@@ -1,0 +1,148 @@
+T1	ENFERMEDAD 81 104	alergias medicamentosas
+T2	ENFERMEDAD 119 121	DM
+T3	ENFERMEDAD 132 135	HTA
+T4	ENFERMEDAD 154 171	Gastritis crónica
+T5	ENFERMEDAD 336 339	IAM
+T6	ENFERMEDAD 370 390	enfermedad de Chagas
+T7	ENFERMEDAD 1088 1100	BAV 1o grado
+T8	ENFERMEDAD 1267 1275	ansiedad
+T9	ENFERMEDAD 1898 1920	insuficiencia cardiaca
+T10	ENFERMEDAD 2033 2060	insuficiencia mitral ligera
+T11	ENFERMEDAD 2263 2350	taquicardia ventricular de origen ventricular basal y superior del ventrículo izquierdo
+T12	ENFERMEDAD 2863 2941	taquicardia ventricular de origen anterolateral basal del ventrículo izquierdo
+T13	ENFERMEDAD 3514 3529	derrame pleural
+T14	ENFERMEDAD 3548 3628	ventrículo izquierdo no dilatado con hipertrofia moderada- severa a nivel septal
+T15	ENFERMEDAD 3947 3967	insuficiencia mitral
+T16	ENFERMEDAD 4032 4058	insuficiencia aórtica leve
+T17	ENFERMEDAD 4060 4089	Insuficiencia tricúspide leve
+T18	ENFERMEDAD 4110 4129	derrame pericárdico
+T19	ENFERMEDAD 4212 4305	aneurisma en región de segmentos inferior-septal basal, inferior basal e ínfero-lateral basal
+T20	ENFERMEDAD 4693 4739	aneurisma posterobasal de ventrículo izquierdo
+T21	ENFERMEDAD 5074 5101	extrasístoles ventriculares
+T22	ENFERMEDAD 6037 6060	cardiopatía estructural
+T23	ENFERMEDAD 6084 6106	aneurisma posterobasal
+T24	ENFERMEDAD 6117 6133	aneurisma apical
+T25	ENFERMEDAD 6212 6232	enfermedad de Chagas
+T26	ENFERMEDAD 6554 6578	reflujo gastro-esofágico
+T27	ENFERMEDAD 7024 7044	enfermedad de Chagas
+T28	ENFERMEDAD 7363 7402	miocardiopatía por enfermedad de Chagas
+T29	ENFERMEDAD 3002 3014	BAV 1o grado
+T30	ENFERMEDAD 137 145	Fumadora
+T31	ENFERMEDAD 6830 6832	TV
+T32	ENFERMEDAD 7284 7327	Taquicardia ventricular monomorfa sostenida
+T33	ENFERMEDAD 6430 6450	enfermedad de Chagas
+T34	ENFERMEDAD 927 959	taquicardia regular de QRS ancho
+T35	ENFERMEDAD 125 128	DLP
+T36	ENFERMEDAD 2215 2247	taquicardia regular de QRS ancho
+T37	ENFERMEDAD 2357 2361	TVMS
+T38	ENFERMEDAD 2646 2678	taquicardia regular de QRS ancho
+T39	ENFERMEDAD 2706 2738	bloqueo completo de rama derecha
+T40	ENFERMEDAD 4370 4412	disfunción ligera del ventrículo izquierdo
+T41	ENFERMEDAD 5660 5664	TVMS
+T42	ENFERMEDAD 5781 5805	taquicardia de QRS ancho
+T43	ENFERMEDAD 6765 6769	TVMS
+T44	ENFERMEDAD 2405 2418	muerte súbita
+T45	ENFERMEDAD 4865 4890	preexcitación ventricular
+T46	ENFERMEDAD 260 285	fallecida de forma súbita
+T47	ENFERMEDAD 310 319	fallecida
+T48	ENFERMEDAD 4894 4909	doble vía nodal
+T49	ENFERMEDAD 4719 4766	ventrículo izquierdo y pequeño aneurisma apical
+T50	PROCEDIMIENTO 890 908	electrocardiograma
+T51	PROCEDIMIENTO 1321 1348	Auscultación cardiopulmonar
+T52	PROCEDIMIENTO 1851 1869	electrocardiograma
+T53	PROCEDIMIENTO 1957 1971	ecocardiograma
+T54	PROCEDIMIENTO 2133 2201	estudio electrofisiológico en el que tras perfusión de isoproterenol
+T55	PROCEDIMIENTO 2532 2540	ablación
+T56	PROCEDIMIENTO 2553 2584	tratamiento con betabloqueantes
+T57	PROCEDIMIENTO 2611 2614	ECG
+T58	PROCEDIMIENTO 2943 2946	ECG
+T59	PROCEDIMIENTO 3452 3472	Radiografía de tórax
+T60	PROCEDIMIENTO 3531 3546	Ecocardiografía
+T61	PROCEDIMIENTO 4327 4356	Resonancia magnética cardiaca
+T62	PROCEDIMIENTO 4588 4615	Coronariografía: vía radial
+T63	PROCEDIMIENTO 4660 4676	ventriculografía
+T64	PROCEDIMIENTO 4785 4811	Estudio electrofisiológico
+T65	PROCEDIMIENTO 5460 5472	Hemocultivos
+T66	PROCEDIMIENTO 5475 5486	urocultivos
+T67	PROCEDIMIENTO 5649 5664	estudio de TVMS
+T68	PROCEDIMIENTO 5950 5962	RNM cardiaca
+T69	PROCEDIMIENTO 5975 5990	coronariografía
+T70	PROCEDIMIENTO 6067 6082	ecocardiografía
+T71	PROCEDIMIENTO 6257 6289	serología para Trypanosoma cruzi
+T72	PROCEDIMIENTO 6616 6648	tránsito esófago-gastro-duodenal
+T73	PROCEDIMIENTO 6703 6729	estudio electrofisiológico
+T74	PROCEDIMIENTO 6753 6769	ablación de TVMS
+T75	PROCEDIMIENTO 6891 6962	aplicaciones de radiofrecuencia en zona anterolateral del anillo mitral
+T76	PROCEDIMIENTO 7057 7098	implante de desfibrilador autoimplantable
+T77	PROCEDIMIENTO 3432 3443	Coagulación
+T78	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDIMIENTO 6477 6480	PCR
+T80	PROCEDIMIENTO 5499 5508	Serología
+T81	PROCEDIMIENTO 5535 5544	Serología
+T82	PROCEDIMIENTO 1654 1668	monitorización
+T83	PROCEDIMIENTO 6465 6474	serología
+T84	PROCEDIMIENTO 7404 7431	Implante de DAI monocameral
+T85	PROCEDIMIENTO 3114 3123	Analítica
+T86	PROCEDIMIENTO 173 199	Intervenciones quirúrgicas
+T87	PROCEDIMIENTO 1172 1183	exploración
+T88	PROCEDIMIENTO 201 227	prótesis mamaria bilateral
+T89	PROCEDIMIENTO 5005 5031	perfusión de isoproterenol
+T90	PROCEDIMIENTO 6844 6875	dosis elevadas de isoproterenol
+T91	SINTOMA 528 577	dolor centrotorácico opresivo irradiado hacia MSI
+T92	SINTOMA 692 710	sensación de mareo
+T93	SINTOMA 782 809	palpitaciones autolimitadas
+T94	SINTOMA 1034 1047	ritmo sinusal
+T95	SINTOMA 1195 1213	mal estado general
+T96	SINTOMA 1218 1227	taquipnea
+T97	SINTOMA 1230 1242	taquicardica
+T98	SINTOMA 1372 1383	taquicardia
+T99	SINTOMA 1389 1418	edemas en miembros inferiores
+T100	SINTOMA 1501 1512	taquicardia
+T101	SINTOMA 1560 1581	aumento ligero de TnI
+T102	SINTOMA 1734 1746	asintomática
+T103	SINTOMA 1749 1774	hemodinámicamente estable
+T104	SINTOMA 1810 1821	taquicardia
+T105	SINTOMA 2816 2847	disociación auriculoventricular
+T106	SINTOMA 3034 3046	QRS estrecho
+T107	SINTOMA 3048 3059	descenso ST
+T108	SINTOMA 3432 3450	Coagulación normal
+T109	SINTOMA 3474 3484	ICT normal
+T110	SINTOMA 3489 3500	infiltrados
+T111	SINTOMA 3633 3655	FEVI global conservada
+T112	SINTOMA 3824 3874	Ventrículo derecho no dilatado con FEVD conservada
+T113	SINTOMA 3914 3935	Válvula mitral normal
+T114	SINTOMA 4537 4586	Ventrículo derecho de morfología y función normal
+T115	SINTOMA 4785 4860	Estudio electrofisiológico: los intervalos de conducción basal son normales
+T116	SINTOMA 5107 5118	taquicardia
+T117	SINTOMA 5368 5379	taquicardia
+T118	SINTOMA 5460 5497	Hemocultivos y urocultivos: negativos
+T119	SINTOMA 5499 5533	Serología: VHB, VHC y VIH negativa
+T120	SINTOMA 5535 5577	Serología Anti-Trypanosoma cruzi: positivo
+T121	SINTOMA 5697 5710	palpitaciones
+T122	SINTOMA 5723 5739	malestar general
+T123	SINTOMA 5742 5747	mareo
+T124	SINTOMA 6257 6312	serología para Trypanosoma cruzi con resultado positivo
+T125	SINTOMA 6581 6603	molestias epigástricas
+T126	SINTOMA 6616 6669	tránsito esófago-gastro-duodenal que resulta negativo
+T127	SINTOMA 2967 2980	ritmo sinusal
+T128	SINTOMA 5863 5876	ritmo sinusal
+T129	SINTOMA 1106 1117	descenso ST
+T130	SINTOMA 4094 4105	PSAP normal
+T131	SINTOMA 3800 3822	Aurículas no dilatadas
+T132	SINTOMA 4617 4652	Coronarias epicárdicas sin lesiones
+T133	SINTOMA 3977 4001	Válvula aórtica trivalva
+T134	SINTOMA 3017 3027	eje normal
+T135	SINTOMA 4986 4998	taquicardias
+T136	SINTOMA 260 269	fallecida
+T137	SINTOMA 1601 1611	CPK normal
+T138	SINTOMA 3876 3912	Raíz aórtica de dimensiones normales
+T139	SINTOMA 7000 7044	resultado positivo para enfermedad de Chagas
+T140	FARMACO 413 424	pantoprazol
+T141	FARMACO 1003 1013	flecainida
+T142	FARMACO 6526 6537	Benznidazol
+#1	AnnotatorNotes T7	 BAV bloqueo aurículo-ventricular
+#2	AnnotatorNotes T31	 TV taquicardia ventricular
+#3	AnnotatorNotes T35	 DLP dislipemia
+#4	AnnotatorNotes T37	 TVMS Taquicardia ventricular monomórfica sostenida
+#5	AnnotatorNotes T41	 TVMS Taquicardia ventricular monomórfica sostenida
+#6	AnnotatorNotes T43	 TVMS Taquicardia ventricular monomórfica sostenida

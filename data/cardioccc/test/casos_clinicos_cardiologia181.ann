@@ -1,0 +1,143 @@
+T1	ENFERMEDAD 77 102	reacciones medicamentosas
+T2	ENFERMEDAD 177 188	cardiopatía
+T3	ENFERMEDAD 216 225	Exfumador
+T4	ENFERMEDAD 298 319	hipertensión arterial
+T5	ENFERMEDAD 321 324	HTA
+T6	ENFERMEDAD 330 354	diabetes mellitus tipo 2
+T7	ENFERMEDAD 356 359	DM2
+T8	ENFERMEDAD 365 375	dislipemia
+T9	ENFERMEDAD 377 389	Tuberculosis
+T10	ENFERMEDAD 406 437	Hiperplasia benigna de próstata
+T11	ENFERMEDAD 3128 3143	derrame pleural
+T12	ENFERMEDAD 3579 3582	HTP
+T13	ENFERMEDAD 4366 4374	fibrosis
+T14	ENFERMEDAD 4377 4396	necrosis miocárdica
+T15	ENFERMEDAD 5097 5106	arritmias
+T16	ENFERMEDAD 5415 5424	asistolia
+T17	ENFERMEDAD 5438 5471	taquicardia ventricular polimorfa
+T18	ENFERMEDAD 5490 5514	extrasístole ventricular
+T19	ENFERMEDAD 5982 6004	síncopes de repetición
+T20	ENFERMEDAD 6606 6613	síncope
+T21	ENFERMEDAD 6929 6952	fibrilación ventricular
+T22	ENFERMEDAD 7377 7403	taquicardias ventriculares
+T23	ENFERMEDAD 7515 7528	muerte súbita
+T24	ENFERMEDAD 7618 7637	síndrome de Brugada
+T25	ENFERMEDAD 7640 7681	taquicardia ventricular catecolaminérgica
+T26	ENFERMEDAD 7752 7774	síncopes de repetición
+T27	ENFERMEDAD 7796 7831	taquicardia ventricular polimórfica
+T28	ENFERMEDAD 7834 7857	fibrilación ventricular
+T29	ENFERMEDAD 8197 8216	síndrome de Brugada
+T30	ENFERMEDAD 8222 8246	muerte súbita recuperada
+T31	ENFERMEDAD 8364 8387	fibrilación ventricular
+T32	ENFERMEDAD 8401 8420	síndrome de Brugada
+T33	ENFERMEDAD 2913 2919	BCRDHH
+T34	ENFERMEDAD 8309 8331	Síncopes cardiogénicos
+T35	ENFERMEDAD 6965 7017	asistolia desencadenada por extrasístole ventricular
+T36	ENFERMEDAD 2865 2911	bloqueo completo de rama derecha de has de His
+T37	ENFERMEDAD 6418 6450	bloqueo completo de rama derecha
+T38	ENFERMEDAD 7090 7107	episodio sincopal
+T39	ENFERMEDAD 6280 6298	eventos arrítmicos
+T40	ENFERMEDAD 3587 3662	cerebral: leve atrofia corticosubcortical con aumento de tamaño ventricular
+T41	ENFERMEDAD 265 283	Consumo de alcohol
+T42	ENFERMEDAD 5191 5199	bloqueos
+T43	ENFERMEDAD 7361 7374	muerte súbita
+T44	ENFERMEDAD 8113 8126	muerte súbita
+T45	PROCEDIMIENTO 1002 1025	Exploración neurológica
+T46	PROCEDIMIENTO 1318 1339	Auscultación cardiaca
+T47	PROCEDIMIENTO 1393 1414	Auscultación pulmonar
+T48	PROCEDIMIENTO 2789 2792	ECG
+T49	PROCEDIMIENTO 3017 3037	Radiografía de tórax
+T50	PROCEDIMIENTO 3145 3174	Ecocardiografía transtorácica
+T51	PROCEDIMIENTO 3584 3595	TC cerebral
+T52	PROCEDIMIENTO 3678 3698	resonancia magnética
+T53	PROCEDIMIENTO 3700 3702	RM
+T54	PROCEDIMIENTO 3810 3839	Resonancia magnética cardiaca
+T55	PROCEDIMIENTO 3841 3844	RMC
+T56	PROCEDIMIENTO 4398 4439	Estudio morfológico (sin y con contraste)
+T57	PROCEDIMIENTO 4477 4634	Estudio electrofisiológico: con anestesia local y bajo control fluoroscópico se introducen por vía venosa femoral derecha tres electrocatéteres cuadripolares
+T58	PROCEDIMIENTO 4509 4524	anestesia local
+T59	PROCEDIMIENTO 5030 5051	test de extraestímulo
+T60	PROCEDIMIENTO 5126 5177	masaje del seno carotídeo (MSC) derecho e izquierdo
+T61	PROCEDIMIENTO 5383 5401	Holter implantable
+T62	PROCEDIMIENTO 5546 5561	Coronariografía
+T63	PROCEDIMIENTO 5617 5635	Test de flecainida
+T64	PROCEDIMIENTO 6087 6106	estudio estiológico
+T65	PROCEDIMIENTO 6154 6183	ecocardiografía transtorácica
+T66	PROCEDIMIENTO 6186 6189	RMC
+T67	PROCEDIMIENTO 6305 6328	monitorización continua
+T68	PROCEDIMIENTO 6341 6351	TC craneal
+T69	PROCEDIMIENTO 6507 6533	estudio electrofisiológico
+T70	PROCEDIMIENTO 6536 6561	masaje del seno carotídeo
+T71	PROCEDIMIENTO 6684 6764	implante de Holter subcutáneo (Reveal®) para monitorización continua ambulatoria
+T72	PROCEDIMIENTO 6797 6811	monitorización
+T73	PROCEDIMIENTO 6860 6891	interrogar el Holter subcutáneo
+T74	PROCEDIMIENTO 7185 7188	ECG
+T75	PROCEDIMIENTO 7206 7224	test de flecainida
+T76	PROCEDIMIENTO 7417 7432	coronariografía
+T77	PROCEDIMIENTO 7485 7556	test genético para estudio de muerte súbita sin cardiopatía estructural
+T78	PROCEDIMIENTO 7869 7917	implante de desfibrilador automático implantable
+T79	PROCEDIMIENTO 871 889	EXPLORACIÓN FÍSICA
+T80	PROCEDIMIENTO 6484 6502	estudio etiológico
+T81	PROCEDIMIENTO 1372 1384	se auscultan
+T82	PROCEDIMIENTO 4969 5051	estimulación auricular programadas (frecuencias crecientes y test de extraestímulo
+T83	PROCEDIMIENTO 5830 5861	Test genéticos de muerte súbita
+T84	PROCEDIMIENTO 6122 6149	estudios de imagen cardiaca
+T85	PROCEDIMIENTO 8422 8437	Implante de DAI
+T86	PROCEDIMIENTO 1620 1629	Analítica
+T87	PROCEDIMIENTO 2200 2209	Analítica
+T88	PROCEDIMIENTO 5281 5306	perfusión de procainamida
+T89	PROCEDIMIENTO 4292 4308	ácido gadotérico
+T90	SINTOMA 601 623	pérdida de consciencia
+T91	SINTOMA 1027 1037	consciente
+T92	SINTOMA 1040 1049	orientado
+T93	SINTOMA 1051 1070	lenguaje conservado
+T94	SINTOMA 1072 1106	Pupilas isocóricas normorreactivas
+T95	SINTOMA 1108 1142	Motilidad ocular extrínseca normal
+T96	SINTOMA 1187 1220	Fuerza y sensibilidad conservadas
+T97	SINTOMA 1222 1241	Coordinación normal
+T98	SINTOMA 1243 1259	Romberg negativo
+T99	SINTOMA 1265 1290	alteraciones en la marcha
+T100	SINTOMA 1295 1316	ingurgitación yugular
+T101	SINTOMA 1341 1367	ruidos cardiacos regulares
+T102	SINTOMA 1385 1391	soplos
+T103	SINTOMA 1416 1445	murmullo vesicular conservado
+T104	SINTOMA 1456 1465	sibilante
+T105	SINTOMA 1507 1529	Peristalsis conservada
+T106	SINTOMA 1534 1562	edema en miembros inferiores
+T107	SINTOMA 1564 1593	Pulsos presentes y simétricos
+T108	SINTOMA 2794 2807	ritmo sinusal
+T109	SINTOMA 2818 2827	PR normal
+T110	SINTOMA 2924 2995	V1 con empastamiento de fuerzas finales del QRS y elevación del punto J
+T111	SINTOMA 3384 3433	Válvula mitral de velos finos con apertura normal
+T112	SINTOMA 3454 3502	Válvula aórtica tricomisural con apertura normal
+T113	SINTOMA 3778 3783	edema
+T114	SINTOMA 6993 7047	extrasístole ventricular con acoplamiento sobre onda T
+T115	SINTOMA 7229 7259	aumento del punto J en V1 y V2
+T116	SINTOMA 3286 3338	Patrón de flujo transmitral de relajación prolongada
+T117	SINTOMA 4094 4121	función sistólica conservad
+T118	SINTOMA 1475 1505	Abdomen: sin masas ni megalias
+T119	SINTOMA 3340 3382	Aurícula izquierda de dimensiones normales
+T120	SINTOMA 4202 4254	Aurículas y grandes vasos de dimensiones conservadas
+T121	SINTOMA 3523 3565	Cavidades derechas de dimensiones normales
+T122	SINTOMA 3713 3733	Línea media centrada
+T123	SINTOMA 3111 3124	consolidación
+T124	SINTOMA 4163 4200	contractilidad segmentaria conservada
+T125	SINTOMA 3952 4014	función sistólica segmentaria y global dentro de la normalidad
+T126	SINTOMA 5578 5615	lesiones angiográficas significativas
+T127	SINTOMA 3750 3774	signos de sangrado agudo
+T128	SINTOMA 3039 3085	silueta cardiaca y mediastino de tamaño normal
+T129	SINTOMA 3176 3253	ventrículo izquierdo de diámetros y grosor normal con adecuada contractilidad
+T130	SINTOMA 3785 3808	Calota sin alteraciones
+T131	SINTOMA 4398 4475	Estudio morfológico (sin y con contraste) y funcional dentro de la normalidad
+T132	SINTOMA 5229 5271	caída significativa de la presión arterial
+T133	SINTOMA 5338 5381	alargamiento significativo del intervalo HV
+T134	SINTOMA 5754 5785	patrón típico tipo 1 de Brugada
+T135	SINTOMA 5694 5729	aumento en la elevación del punto J
+T136	SINTOMA 5490 5544	extrasístole ventricular con acoplamiento sobre onda T
+T137	SINTOMA 6341 6393	TC craneal que no mostró alteraciones significativas
+T138	SINTOMA 7272 7296	patrón típico de Brugada
+T139	SINTOMA 7417 7471	coronariografía que no muestra lesiones significativas
+T140	FARMACO 494 505	tamsulosina
+T141	FARMACO 5294 5306	procainamida
+T142	FARMACO 5669 5679	flecainida
+#1	AnnotatorNotes T33	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

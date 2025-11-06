@@ -1,0 +1,211 @@
+T1	ENFERMEDAD 88 111	alergias medicamentosas
+T2	ENFERMEDAD 311 332	cardiopatía isquémica
+T3	ENFERMEDAD 344 351	fumador
+T4	ENFERMEDAD 397 418	hipertensión arterial
+T5	ENFERMEDAD 420 423	HTA
+T6	ENFERMEDAD 503 514	cardiopatía
+T7	ENFERMEDAD 584 605	trastorno de ansiedad
+T8	ENFERMEDAD 1416 1437	fibrilación auricular
+T9	ENFERMEDAD 1900 1926	parada cardiorrespiratoria
+T10	ENFERMEDAD 2508 2551	trombosis venosa en extremidades inferiores
+T11	ENFERMEDAD 2624 2658	parada por fibrilación ventricular
+T12	ENFERMEDAD 3613 3626	valvulopatías
+T13	ENFERMEDAD 3680 3699	derrame pericárdico
+T14	ENFERMEDAD 4396 4437	Válvula tricúspide con insuficiencia leve
+T15	ENFERMEDAD 4575 4594	derrame pericárdico
+T16	ENFERMEDAD 4779 4816	Hipertrofia concéntrica leve-moderada
+T17	ENFERMEDAD 5027 5051	cardiopatía hipertensiva
+T18	ENFERMEDAD 5141 5161	síndrome de QT largo
+T19	ENFERMEDAD 5389 5442	taquicardia ventricular polimórfica catecolaminérgica
+T20	ENFERMEDAD 5473 5492	síndrome de Brugada
+T21	ENFERMEDAD 5797 5832	extrasistolia ventricular monomorfa
+T22	ENFERMEDAD 5851 5874	bloqueo de rama derecha
+T23	ENFERMEDAD 6573 6585	canalopatías
+T24	ENFERMEDAD 6588 6609	vasoespasmo coronario
+T25	ENFERMEDAD 6981 6996	parada cardiaca
+T26	ENFERMEDAD 7172 7196	tromboembolismo pulmonar
+T27	ENFERMEDAD 7198 7201	TEP
+T28	ENFERMEDAD 7206 7227	taponamiento cardiaco
+T29	ENFERMEDAD 7281 7295	miocardiopatía
+T30	ENFERMEDAD 7436 7466	síndromes de QT largo, Brugada
+T31	ENFERMEDAD 7470 7523	taquicardia ventricular polimórfica catecolaminérgica
+T32	ENFERMEDAD 7617 7638	Vasoespasmo coronario
+T33	ENFERMEDAD 7820 7848	cardiopatía isquémica precoz
+T34	ENFERMEDAD 7869 7901	fibrilación auricular permanente
+T35	ENFERMEDAD 7918 7951	fibrilación auricular paroxística
+T36	ENFERMEDAD 8048 8060	cardiopatías
+T37	ENFERMEDAD 8172 8206	fibrilación ventricular idiopática
+T38	ENFERMEDAD 8450 8484	Fibrilación ventricular idiopática
+T39	ENFERMEDAD 8529 8552	cardiopatía estructural
+T40	ENFERMEDAD 8622 8633	canalopatía
+T41	ENFERMEDAD 7001 7009	Isquemia
+T42	ENFERMEDAD 254 259	angor
+T43	ENFERMEDAD 3291 3306	daño miocárdico
+T44	ENFERMEDAD 5350 5368	eventos arrítmicos
+T45	ENFERMEDAD 6381 6399	eventos arrítmicos
+T46	ENFERMEDAD 6800 6818	eventos arrítmicos
+T47	ENFERMEDAD 1256 1259	PCR
+T48	ENFERMEDAD 1439 1441	FA
+T49	ENFERMEDAD 1680 1683	PCR
+T50	ENFERMEDAD 5876 5881	BRDHH
+T51	ENFERMEDAD 7384 7396	Canalopatías
+T52	ENFERMEDAD 8392 8413	PCR extrahospitalaria
+T53	ENFERMEDAD 8636 8647	vasoespasmo
+T54	ENFERMEDAD 5626 5656	conducción auriculoventricular
+T55	ENFERMEDAD 4337 4394	Válvula mitral de aspecto normal con mínima insuficiencia
+T56	ENFERMEDAD 2696 2717	fibrilación auricular
+T57	ENFERMEDAD 291 304	muerte súbita
+T58	ENFERMEDAD 7803 7816	muerte súbita
+T59	ENFERMEDAD 1084 1087	PCR
+T60	ENFERMEDAD 3086 3089	PCR
+T61	ENFERMEDAD 6017 6023	parada
+T62	ENFERMEDAD 7568 7577	QTc corto
+T63	PROCEDIMIENTO 1062 1065	RCP
+T64	PROCEDIMIENTO 1371 1389	electrocardiograma
+T65	PROCEDIMIENTO 1391 1394	ECG
+T66	PROCEDIMIENTO 1597 1619	intubación orotraqueal
+T67	PROCEDIMIENTO 1621 1624	IOT
+T68	PROCEDIMIENTO 1817 1832	coronariografía
+T69	PROCEDIMIENTO 1872 1882	hipotermia
+T70	PROCEDIMIENTO 1974 1992	Exploración física
+T71	PROCEDIMIENTO 2231 2239	Intubado
+T72	PROCEDIMIENTO 2355 2376	Auscultación cardiaca
+T73	PROCEDIMIENTO 2397 2418	Auscultación pulmonar
+T74	PROCEDIMIENTO 2660 2663	ECG
+T75	PROCEDIMIENTO 2826 2829	ECG
+T76	PROCEDIMIENTO 3155 3170	perfil lipídico
+T77	PROCEDIMIENTO 3243 3252	Hemograma
+T78	PROCEDIMIENTO 3255 3266	coagulación
+T79	PROCEDIMIENTO 3431 3458	Estudio de tóxicos en orina
+T80	PROCEDIMIENTO 3470 3485	Ecocardioscopia
+T81	PROCEDIMIENTO 3747 3762	Coronariografía
+T82	PROCEDIMIENTO 3808 3819	TC cerebral
+T83	PROCEDIMIENTO 3879 3907	Ecocardiograma transtorácico
+T84	PROCEDIMIENTO 4597 4631	Resonancia magnética (RM) cardiaca
+T85	PROCEDIMIENTO 5163 5166	ECG
+T86	PROCEDIMIENTO 5314 5332	prueba de esfuerzo
+T87	PROCEDIMIENTO 5494 5497	ECG
+T88	PROCEDIMIENTO 5569 5587	test de flecainida
+T89	PROCEDIMIENTO 5736 5769	test farmacológico con flecainida
+T90	PROCEDIMIENTO 5997 6000	ECG
+T91	PROCEDIMIENTO 6051 6089	test de ecocardiografía con ergobasina
+T92	PROCEDIMIENTO 6211 6226	coronariografía
+T93	PROCEDIMIENTO 6228 6256	TC cerebral-toraco-abdominal
+T94	PROCEDIMIENTO 6259 6262	ETT
+T95	PROCEDIMIENTO 6406 6416	telemetría
+T96	PROCEDIMIENTO 6545 6609	pruebas de provocación para canalopatías o vasoespasmo coronario
+T97	PROCEDIMIENTO 6767 6794	monitorizado con telemetría
+T98	PROCEDIMIENTO 6851 6854	ECG
+T99	PROCEDIMIENTO 7035 7050	coronariografía
+T100	PROCEDIMIENTO 7063 7092	resonancia magnética cardiaca
+T101	PROCEDIMIENTO 7255 7258	TAC
+T102	PROCEDIMIENTO 7307 7335	ecocardiograma transtorácico
+T103	PROCEDIMIENTO 7350 7379	resonancia magnética cardiaca
+T104	PROCEDIMIENTO 7384 7420	Canalopatías: pruebas de provocación
+T105	PROCEDIMIENTO 7528 7531	ECG
+T106	PROCEDIMIENTO 7640 7678	test de ecocardiografía con ergobasina
+T107	PROCEDIMIENTO 8092 8095	ECG
+T108	PROCEDIMIENTO 8098 8126	ecocardiograma transtorácico
+T109	PROCEDIMIENTO 8208 8274	Se coloca un desfibrilador automático implantable (DAI) subcutáneo
+T110	PROCEDIMIENTO 8360 8377	electrofisiología
+T111	PROCEDIMIENTO 8583 8647	Test farmacológicos para desenmascarar canalopatía y vasoespasmo
+T112	PROCEDIMIENTO 2173 2193	tratamiento sedativo
+T113	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDIMIENTO 2114 2117	IOT
+T115	PROCEDIMIENTO 3277 3306	Marcadores de daño miocárdico
+T116	PROCEDIMIENTO 3822 3847	angio-TC toraco-abdominal
+T117	PROCEDIMIENTO 3176 3189	función renal
+T118	PROCEDIMIENTO 3192 3197	iones
+T119	PROCEDIMIENTO 5210 5228	prueba de esfuerzo
+T120	PROCEDIMIENTO 4619 4621	RM
+T121	PROCEDIMIENTO 6518 6542	imagen cardiaca avanzada
+T122	PROCEDIMIENTO 7231 7240	ecoscopia
+T123	PROCEDIMIENTO 3060 3069	Analítica
+T124	PROCEDIMIENTO 2198 2229	perfusión continua de midazolam
+T125	PROCEDIMIENTO 1159 1182	descargas mediante DESA
+T126	PROCEDIMIENTO 1320 1328	descarga
+T127	PROCEDIMIENTO 2258 2268	ventilador
+T128	PROCEDIMIENTO 2685 2693	descarga
+T129	PROCEDIMIENTO 4933 4960	secuencias de realce tardío
+T130	PROCEDIMIENTO 8392 8424	PCR extrahospitalaria resucitada
+T131	SINTOMA 194 226	funciones superiores conservadas
+T132	SINTOMA 244 250	disnea
+T133	SINTOMA 872 894	pérdida de consciencia
+T134	SINTOMA 1483 1518	elevación del ST en I, aVL y V3- V6
+T135	SINTOMA 1712 1742	elevación del ST anterolateral
+T136	SINTOMA 2125 2132	afebril
+T137	SINTOMA 2283 2297	normocoloreado
+T138	SINTOMA 2300 2315	bien perfundido
+T139	SINTOMA 2338 2353	plétora yugular
+T140	SINTOMA 2355 2384	Auscultación cardiaca rítmica
+T141	SINTOMA 2389 2395	soplos
+T142	SINTOMA 2397 2425	Auscultación pulmonar normal
+T143	SINTOMA 2427 2454	buena ventilación bilateral
+T144	SINTOMA 2456 2483	Abdomen blando y depresible
+T145	SINTOMA 2489 2495	edemas
+T146	SINTOMA 2756 2771	elevación de ST
+T147	SINTOMA 2865 2878	ritmo sinusal
+T148	SINTOMA 2901 2910	PR normal
+T149	SINTOMA 2912 2924	QRS estrecho
+T150	SINTOMA 2926 2935	QT normal
+T151	SINTOMA 2982 3022	alteraciones agudas de la repolarización
+T152	SINTOMA 3027 3058	patrón de repolarización precoz
+T153	SINTOMA 3243 3275	Hemograma y coagulación normales
+T154	SINTOMA 3431 3468	Estudio de tóxicos en orina: negativo
+T155	SINTOMA 3509 3608	VI no dilatado ni hipertrófico con función sistólica global y segmentaria conservada, hiperdinámico
+T156	SINTOMA 3989 4017	función sistólica conservada
+T157	SINTOMA 4080 4120	Patrón diastólico de relajación alargada
+T158	SINTOMA 4130 4155	Aurícula Izquierda normal
+T159	SINTOMA 4685 4766	ventrículo Izquierdo (VI) no dilatado con función global y segmentaria conservada
+T160	SINTOMA 5188 5198	QTc normal
+T161	SINTOMA 5569 5596	test de flecainida negativo
+T162	SINTOMA 5598 5624	ritmo basal sinusal normal
+T163	SINTOMA 5664 5676	QRS normales
+T164	SINTOMA 5978 5993	elevación de ST
+T165	SINTOMA 6680 6729	asintomático desde el punto de vista cardiológico
+T166	SINTOMA 7581 7612	patrón de repolarización precoz
+T167	SINTOMA 7640 7687	test de ecocardiografía con ergobasina negativo
+T168	SINTOMA 7695 7726	alteraciones tóxico-metabólicas
+T169	SINTOMA 792 804	asintomático
+T170	SINTOMA 4033 4078	alteraciones en la contractilidad segmentaria
+T171	SINTOMA 4835 4914	Ventrículo Derecho (VD) no dilatado con función global y segmentaria conservada
+T172	SINTOMA 6211 6279	coronariografía, TC cerebral-toraco-abdominal y ETT sin alteraciones
+T173	SINTOMA 6868 6878	QTc normal
+T174	SINTOMA 7384 7430	Canalopatías: pruebas de provocación negativas
+T175	SINTOMA 8583 8657	Test farmacológicos para desenmascarar canalopatía y vasoespasmo negativos
+T176	SINTOMA 4439 4469	Vena cava inferior no dilatada
+T177	SINTOMA 4223 4301	Válvula Aórtica trivalva con apertura conservada, sin alteraciones funcionales
+T178	SINTOMA 3774 3806	arterias coronarias sin lesiones
+T179	SINTOMA 2528 2573	extremidades inferiores, con pulsos palpables
+T180	SINTOMA 6051 6099	test de ecocardiografía con ergobasina: negativo
+T181	SINTOMA 2937 2977	Correcta progresión de R en precordiales
+T182	SINTOMA 3091 3144	Parámetros bioquímicos dentro del rango de normalidad
+T183	SINTOMA 3134 3197	normalidad, incluido perfil lipídico, con función renal e iones
+T184	SINTOMA 3643 3675	VD no dilatado con buena función
+T185	SINTOMA 3808 3877	TC cerebral y angio-TC toraco-abdominal: sin hallazgos significativos
+T186	SINTOMA 3931 3984	ventrículo Izquierdo (VI) no dilatado ni hipertrófico
+T187	SINTOMA 4166 4221	Ventrículo Derecho (VD) no dilatado y con buena función
+T188	SINTOMA 4303 4327	Raíz aórtica no dilatada
+T189	SINTOMA 4947 4999	realce tardío no se aprecian captaciones patológicas
+T190	SINTOMA 5057 5084	buena función biventricular
+T191	SINTOMA 5509 5540	negativo para el patrón Brugada
+T192	SINTOMA 5885 5897	eje superior
+T193	SINTOMA 7011 7031	red coronaria normal
+T194	SINTOMA 7109 7139	realces isquémicos patológicos
+T195	SINTOMA 8486 8524	Red coronaria angiográficamente normal
+T196	SINTOMA 8554 8581	Buena función biventricular
+T197	FARMACO 459 481	telmisartán/amlodipino
+T198	FARMACO 655 666	ziprasidona
+T199	FARMACO 682 691	lorazepam
+T200	FARMACO 708 719	mirtazapina
+T201	FARMACO 736 748	vortioxetina
+T202	FARMACO 2220 2229	midazolam
+T203	FARMACO 5759 5769	flecainida
+T204	FARMACO 1143 1154	adrenalinas
+#1	AnnotatorNotes T47	paro cardiorespiratorio
+#2	AnnotatorNotes T48	 fibrilación auricular
+#3	AnnotatorNotes T52	paro cardiorespiratorio
+#4	AnnotatorNotes T63	 Reanimación cardiopulmonar
+#5	AnnotatorNotes T67	 Intubación orotraqueal
+#6	AnnotatorNotes T114	 Intubación orotraqueal
+#7	AnnotatorNotes T120	 Resonancia magnética

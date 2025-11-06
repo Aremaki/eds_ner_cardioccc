@@ -1,0 +1,105 @@
+T1	DISEASE 2679 2725	ventrículo izquierdo no dilatado, hipertrófico
+T2	DISEASE 89 112	alergias medicamentosas
+T3	DISEASE 117 132	hábitos tóxicos
+T4	DISEASE 134 155	Hipertensión arterial
+T5	DISEASE 177 194	diabetes mellitus
+T6	DISEASE 197 207	dislipemia
+T7	DISEASE 209 227	Neoplasia de riñón
+T8	DISEASE 263 290	Insuficiencia renal crónica
+T9	DISEASE 352 370	Anemia ferropénica
+T10	DISEASE 388 411	neuralgia del trigémino
+T11	DISEASE 413 425	Osteoporosis
+T12	DISEASE 470 522	adenoma tubular con displasia de bajo grado en colón
+T13	DISEASE 524 540	Síndrome ansioso
+T14	DISEASE 634 646	hipernefroma
+T15	DISEASE 691 724	fibrilación auricular paroxística
+T16	DISEASE 817 831	fractura fémur
+T17	DISEASE 2084 2087	TVP
+T18	DISEASE 2402 2415	cardiomegalia
+T19	DISEASE 3049 3090	Válvula tricúspide con insuficiencia leve
+T20	DISEASE 3172 3191	derrame pericárdico
+T21	DISEASE 4013 4067	síndrome de tako-tsubo con afectación medioventricular
+T22	DISEASE 4390 4415	miocardiopatía por estrés
+T23	DISEASE 4475 4514	síndrome de tako-tsubo medioventricular
+T24	DISEASE 4688 4742	Síndrome de tako-tsubo con afectación medioventricular
+T25	DISEASE 444 459	colon irritable
+T26	DISEASE 3020 3047	Aurícula izquierda dilatada
+T27	DISEASE 3628 3639	VI dilatado
+T28	DISEASE 3824 3835	AI dilatada
+T29	DISEASE 4131 4192	VI hipertrófico con función sistólica moderadamente deprimida
+T30	DISEASE 4320 4339	lesiones coronarias
+T31	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T32	PROCEDURE 242 253	nefrectomía
+T33	PROCEDURE 611 632	Nefrectomía izquierda
+T34	PROCEDURE 863 877	Ecocardiograma
+T35	PROCEDURE 1402 1405	ECG
+T36	PROCEDURE 1661 1664	ECG
+T37	PROCEDURE 1777 1797	doble antiagregación
+T38	PROCEDURE 1823 1841	Exploración física
+T39	PROCEDURE 1929 1950	Auscultación cardiaca
+T40	PROCEDURE 2001 2022	Auscultación pulmonar
+T41	PROCEDURE 2380 2400	Radiografía de tórax
+T42	PROCEDURE 2456 2459	ECG
+T43	PROCEDURE 2569 2584	Coronariografía
+T44	PROCEDURE 2649 2677	Ecocardiograma transtorácico
+T45	PROCEDURE 3510 3519	Hemograma
+T46	PROCEDURE 3614 3626	RMN cardiaca
+T47	PROCEDURE 4104 4118	ecocardiograma
+T48	PROCEDURE 4291 4306	coronariografía
+T49	PROCEDURE 4429 4441	RMN cardiaca
+T50	PROCEDURE 4585 4613	ecocardiograma transtorácico
+T51	PROCEDURE 557 595	IQ: prótesis total de cadera izquierda
+T52	PROCEDURE 1519 1527	nitratos
+T53	PROCEDURE 2152 2161	Analítica
+T54	PROCEDURE 3232 3241	Analítica
+T55	SYMPTOM 863 894	Ecocardiograma sin alteraciones
+T56	SYMPTOM 1212 1284	opresión centrotorácica irradiada a ambos brazos y región interescapular
+T57	SYMPTOM 1322 1340	sudoración profusa
+T58	SYMPTOM 1342 1349	náuseas
+T59	SYMPTOM 1352 1359	palidez
+T60	SYMPTOM 1418 1420	RS
+T61	SYMPTOM 1449 1461	QRS estrecho
+T62	SYMPTOM 1473 1502	rectificación del ST en V3-V4
+T63	SYMPTOM 1576 1581	dolor
+T64	SYMPTOM 1623 1628	dolor
+T65	SYMPTOM 1693 1722	rectificación del ST en V3-V4
+T66	SYMPTOM 1747 1765	troponina positiva
+T67	SYMPTOM 1855 1874	buen estado general
+T68	SYMPTOM 1876 1886	consciente
+T69	SYMPTOM 1889 1898	orientada
+T70	SYMPTOM 1900 1918	eupneica en reposo
+T71	SYMPTOM 1920 1927	afebril
+T72	SYMPTOM 1952 1966	tonos rítmicos
+T73	SYMPTOM 1971 1994	soplo sistólico aórtico
+T74	SYMPTOM 2024 2027	MVC
+T75	SYMPTOM 2055 2070	EEII: no edemas
+T76	SYMPTOM 2089 2125	Pulsos pedios presentes y simétricos
+T77	SYMPTOM 2266 2278	leucocitosis
+T78	SYMPTOM 2431 2454	redistribución vascular
+T79	SYMPTOM 2469 2471	RS
+T80	SYMPTOM 2480 2498	onda QR en I y aVL
+T81	SYMPTOM 2500 2512	QRS estrecho
+T82	SYMPTOM 2514 2566	onda T negativa simétricas de V2 a V6, DI, DII y aVL
+T83	SYMPTOM 2727 2768	función sistólica moderadamente deprimida
+T84	SYMPTOM 2963 3018	Ventrículo derecho de tamaño normal, función conservada
+T85	SYMPTOM 3210 3230	masas intracardiacas
+T86	SYMPTOM 3628 3651	VI dilatado, discinesia
+T87	SYMPTOM 3837 3842	Edema
+T88	SYMPTOM 4197 4205	acinesia
+T89	SYMPTOM 3137 3167	Vena cava inferior no dilatada
+T90	SYMPTOM 2586 2632	arterias coronarias sin lesiones angiográficas
+T91	SYMPTOM 2787 2795	acinesia
+T92	SYMPTOM 3946 3984	anomalías en la captación de gadolinio
+T93	MEDICATION 919 931	acenocumarol
+T94	MEDICATION 934 944	flecainida
+T95	MEDICATION 968 978	amlodipino
+T96	MEDICATION 987 997	flecainida
+T97	MEDICATION 1007 1019	acenocumarol
+T98	MEDICATION 1033 1042	valsartán
+T99	MEDICATION 1053 1068	sulfato ferroso
+T100	MEDICATION 1078 1087	lorazepam
+T101	MEDICATION 1098 1104	calcio
+T102	MEDICATION 1123 1143	tramadol/paracetamol
+T103	MEDICATION 1544 1559	cloruro mórfico
+T104	MEDICATION 1106 1110	vitD
+T105	MEDICATION 748 766	pill in the pocket

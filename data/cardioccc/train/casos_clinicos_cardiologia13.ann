@@ -1,0 +1,65 @@
+T1	DISEASE 1519 1539	hepatoesplenomegalia
+T2	DISEASE 1568 1587	congestión pulmonar
+T3	DISEASE 220 236	síndrome de Down
+T4	DISEASE 238 258	retraso mental grave
+T5	DISEASE 261 288	insuficiencia renal crónica
+T6	DISEASE 290 313	atrofia renal izquierda
+T7	DISEASE 705 727	adenopatías cervicales
+T8	DISEASE 970 995	sepsis de origen pulmonar
+T9	DISEASE 1142 1173	anemia normocítica normocrómica
+T10	DISEASE 1206 1221	trombocitopenia
+T11	DISEASE 1237 1252	hipoalbuminemia
+T12	DISEASE 1262 1284	hematuria microscópica
+T13	DISEASE 1300 1311	fallo renal
+T14	DISEASE 1364 1381	glomerulonefritis
+T15	DISEASE 1476 1494	infección pulmonar
+T16	DISEASE 1501 1516	linfadenopatías
+T17	DISEASE 1682 1755	prolapso de valva anterior de la válvula mitral, con insuficiencia severa
+T18	DISEASE 2318 2341	endocarditis infecciosa
+T19	DISEASE 2475 2492	glomerulonefritis
+T20	DISEASE 2619 2646	insuficiencia mitral severa
+T21	DISEASE 2672 2686	fallo cardiaco
+T22	DISEASE 2962 2982	retardo mental grave
+T23	DISEASE 886 902	lesiones en piel
+T24	DISEASE 1814 1836	vegetación endocárdica
+T25	DISEASE 2386 2396	vegetación
+T26	DISEASE 2706 2716	vegetación
+T27	PROCEDURE 520 533	examen físico
+T28	PROCEDURE 1079 1091	hemocultivos
+T29	PROCEDURE 1394 1414	radiografía de tórax
+T30	PROCEDURE 1436 1455	tomografía de tórax
+T31	PROCEDURE 1636 1666	ecocardiografía transesofágica
+T32	PROCEDURE 1843 1855	hemocultivos
+T33	PROCEDURE 2403 2418	ecocardiografía
+T34	PROCEDURE 2495 2507	hemocultivos
+T35	PROCEDURE 2879 2908	implante de válvula biológica
+T36	PROCEDURE 3064 3092	controles de anticoagulación
+T37	PROCEDURE 3108 3120	hemocultivos
+T38	PROCEDURE 3164 3182	antibioticoterapia
+T39	PROCEDURE 3225 3248	tratamiento antibiótico
+T40	PROCEDURE 2007 2073	identificación fenotípica de especie en equipo automatizado VITEK2
+T41	PROCEDURE 2759 2814	cirugía para cambio valvular mitral (válvula biológica)
+T42	SYMPTOM 329 348	fiebre intermitente
+T43	SYMPTOM 374 389	pérdida de peso
+T44	SYMPTOM 392 411	diaforesis nocturna
+T45	SYMPTOM 443 451	disneico
+T46	SYMPTOM 682 700	distensión yugular
+T47	SYMPTOM 729 778	Soplo cardiaco sistólico grado 2/4 en foco mitral
+T48	SYMPTOM 790 824	crépitos en ambas bases pulmonares
+T49	SYMPTOM 826 850	Abdomen sin alteraciones
+T50	SYMPTOM 852 880	Edema en miembros inferiores
+T51	SYMPTOM 1286 1297	proteinuria
+T52	SYMPTOM 2467 2473	fiebre
+T53	SYMPTOM 2495 2517	hemocultivos positivos
+T54	SYMPTOM 652 676	Dentadura en buen estado
+T55	SYMPTOM 1843 1897	hemocultivos tomados al ingreso reportaron crecimiento
+T56	SYMPTOM 3183 3213	sin crecimiento microbiológico
+T57	MEDICATION 1023 1046	piperacilina tazobactam
+T58	MEDICATION 2151 2163	clindamicina
+T59	MEDICATION 2165 2177	eritromicina
+T60	MEDICATION 2179 2188	linezolid
+T61	MEDICATION 2190 2200	cefotaxima
+T62	MEDICATION 2203 2214	vancomicina
+T63	MEDICATION 3253 3273	ampicilina sulbactam
+T64	MEDICATION 3432 3443	gentamicina
+T65	MEDICATION 2139 2149	penicilina

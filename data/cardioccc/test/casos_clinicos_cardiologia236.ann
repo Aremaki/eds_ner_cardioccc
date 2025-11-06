@@ -1,0 +1,112 @@
+T1	ENFERMEDAD 71 106	reacciones alérgicas medicamentosas
+T2	ENFERMEDAD 118 134	Hábito tabáquico
+T3	ENFERMEDAD 167 183	Obesidad mórbida
+T4	ENFERMEDAD 185 206	Hipertensión arterial
+T5	ENFERMEDAD 208 245	Diabetes mellitus insulinodependiente
+T6	ENFERMEDAD 247 257	Dislipemia
+T7	ENFERMEDAD 259 272	Hiperuricemia
+T8	ENFERMEDAD 274 288	Hipotiroidismo
+T9	ENFERMEDAD 290 314	Enfermedad renal crónica
+T10	ENFERMEDAD 368 391	Arteriopatía periférica
+T11	ENFERMEDAD 442 463	Cardiopatía isquémica
+T12	ENFERMEDAD 477 493	angina inestable
+T13	ENFERMEDAD 530 632	lesión grave de tres vasos (descendente anterior [DA], coronaria derecha [CD], primera obtusa marginal
+T14	ENFERMEDAD 1344 1350	angina
+T15	ENFERMEDAD 2709 2730	fibrilación auricular
+T16	ENFERMEDAD 3223 3268	CD poco desarrollada con una oclusión crónica
+T17	ENFERMEDAD 3413 3483	estenosis significativa en el origen de la arteria subclavia izquierda
+T18	ENFERMEDAD 3560 3621	estenosis crıt́ica de la arteria subclavia izquierda proximal
+T19	ENFERMEDAD 3945 3983	Hipertrofia ventricular izquierda leve
+T20	ENFERMEDAD 4125 4179	estenosis significativa de arteria subclavia izquierda
+T21	ENFERMEDAD 4884 4900	hábito tabáquico
+T22	ENFERMEDAD 5584 5641	Angina inestable por síndrome de robo subclavio-coronario
+T23	ENFERMEDAD 5659 5699	enfermedad coronaria grave de tres vasos
+T24	ENFERMEDAD 5847 5880	Fibrilación auricular paroxística
+T25	ENFERMEDAD 5899 5918	Fracaso renal agudo
+T26	ENFERMEDAD 5934 5979	enfermedad renal crónica, de origen prerrenal
+T27	ENFERMEDAD 4034 4056	Dilatación biauricular
+T28	ENFERMEDAD 3082 3129	Circunfleja (Cx) dominante crónicamente ocluida
+T29	ENFERMEDAD 4061 4074	valvulopatıás
+T30	ENFERMEDAD 5982 6017	nefrotoxicidad por contraste yodado
+T31	PROCEDIMIENTO 506 517	cateterismo
+T32	PROCEDIMIENTO 640 738	Se revasculariza quirúrgicamente únicamente la DA con injerto de arteria mamaria interna izquierda
+T33	PROCEDIMIENTO 1678 1696	Exploración física
+T34	PROCEDIMIENTO 1950 1971	Auscultación cardiaca
+T35	PROCEDIMIENTO 2065 2086	Auscultación pulmonar
+T36	PROCEDIMIENTO 2224 2233	palpación
+T37	PROCEDIMIENTO 2339 2348	hemograma
+T38	PROCEDIMIENTO 2410 2420	Hemostasia
+T39	PROCEDIMIENTO 2664 2682	Electrocardiograma
+T40	PROCEDIMIENTO 2684 2687	ECG
+T41	PROCEDIMIENTO 2842 2845	ECG
+T42	PROCEDIMIENTO 2930 2945	Coronariografía
+T43	PROCEDIMIENTO 3550 3558	Angio-TC
+T44	PROCEDIMIENTO 3770 3784	Ecocardiograma
+T45	PROCEDIMIENTO 4266 4274	angio-TC
+T46	PROCEDIMIENTO 4406 4434	revascularización percutánea
+T47	PROCEDIMIENTO 4440 4452	angioplastia
+T48	PROCEDIMIENTO 4455 4494	implante destent en subclavia izquierda
+T49	PROCEDIMIENTO 4605 4632	administración de contraste
+T50	PROCEDIMIENTO 4683 4695	sueroterapia
+T51	PROCEDIMIENTO 5240 5254	antitrombótico
+T52	PROCEDIMIENTO 5702 5801	revascularización quirúrgica parcial con puente de mamaria interna izquierda a descendente anterior
+T53	PROCEDIMIENTO 1697 1715	Constantes vitales
+T54	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDIMIENTO 2317 2326	Analítica
+T56	PROCEDIMIENTO 4213 4253	bypass de mamaria a descendente anterior
+T57	PROCEDIMIENTO 5408 5420	intervención
+T58	PROCEDIMIENTO 2998 3033	puente de mamaria a DA media-distal
+T59	PROCEDIMIENTO 3353 3375	Puente de mamaria a DA
+T60	SINTOMA 1200 1220	dolor centrotorácico
+T61	SINTOMA 1461 1500	cambios electrocardiográficos dinámicos
+T62	SINTOMA 1592 1604	asintomática
+T63	SINTOMA 1857 1876	Buen estado general
+T64	SINTOMA 1878 1888	Consciente
+T65	SINTOMA 1891 1900	orientada
+T66	SINTOMA 1902 1914	colaboradora
+T67	SINTOMA 1916 1930	normohidratada
+T68	SINTOMA 1933 1948	normoperfundida
+T69	SINTOMA 1984 1999	soplo sistólico
+T70	SINTOMA 2088 2117	murmullo vesicular conservado
+T71	SINTOMA 2145 2233	Abdomen: ruidos hidroaéreos conservados, blando y depresible, no doloroso a la palpación
+T72	SINTOMA 2267 2290	pulsos distales débiles
+T73	SINTOMA 2396 2408	leucocitosis
+T74	SINTOMA 2410 2427	Hemostasia normal
+T75	SINTOMA 2693 2707	dolor torácico
+T76	SINTOMA 2741 2753	QRS estrecho
+T77	SINTOMA 2857 2870	ritmo sinusal
+T78	SINTOMA 3786 3854	ventrículo izquierdo no dilatado con fracción de eyección conservada
+T79	SINTOMA 3856 3901	Alteraciones de la contractilidad segmentaria
+T80	SINTOMA 3985 4032	Ventrículo derecho de tamaño y función normales
+T81	SINTOMA 4556 4585	deterioro de la función renal
+T82	SINTOMA 4925 4940	pérdida de peso
+T83	SINTOMA 5099 5114	pérdida de peso
+T84	SINTOMA 5487 5501	dolor torácico
+T85	SINTOMA 5811 5845	Función sistólica de VI conservada
+T86	SINTOMA 2041 2063	segundo ruido presente
+T87	SINTOMA 5449 5461	asintomática
+T88	SINTOMA 2235 2265	Miembros inferiores: sin edema
+T89	SINTOMA 2895 2928	alteraciones de la repolarización
+T90	SINTOMA 2339 2365	hemograma sin alteraciones
+T91	SINTOMA 2123 2143	ruidos sobreañadidos
+T92	SINTOMA 2947 2985	lesión del 90% en segmento medio de DA
+T93	SINTOMA 3353 3385	Puente de mamaria a DA permeable
+T94	FARMACO 762 784	ácido acetilsalicílico
+T95	FARMACO 786 789	AAS
+T96	FARMACO 806 815	enalapril
+T97	FARMACO 830 838	atenolol
+T98	FARMACO 855 865	furosemida
+T99	FARMACO 894 904	metformina
+T100	FARMACO 927 935	insulina
+T101	FARMACO 1025 1037	simvastatina
+T102	FARMACO 1052 1062	alopurinol
+T103	FARMACO 1078 1085	eutirox
+T104	FARMACO 1101 1110	omeprazol
+T105	FARMACO 1533 1547	nitroglicerina
+T106	FARMACO 5038 5049	liraglutida
+T107	FARMACO 5130 5142	simvastatina
+T108	FARMACO 5153 5166	atorvastatina
+T109	FARMACO 5291 5302	rivaroxabán
+T110	FARMACO 5318 5329	clopidogrel
+T111	FARMACO 5360 5363	AAS
+#1	AnnotatorNotes T16	 CD: coronaria derecha

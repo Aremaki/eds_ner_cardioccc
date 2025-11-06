@@ -1,0 +1,106 @@
+T1	ENFERMEDAD 87 97	exfumadora
+T2	ENFERMEDAD 130 175	diabetes mellitus tipo 1 autoinmune tipo LADA
+T3	ENFERMEDAD 177 188	dislipémica
+T4	ENFERMEDAD 210 233	ataxia espinocerebelosa
+T5	ENFERMEDAD 378 388	hipertensa
+T6	ENFERMEDAD 724 744	broncoespasmo severo
+T7	ENFERMEDAD 1958 1977	derrame pericárdico
+T8	ENFERMEDAD 2332 2345	valvulopatías
+T9	ENFERMEDAD 2411 2430	derrame pericárdico
+T10	ENFERMEDAD 2630 2643	valvulopatías
+T11	ENFERMEDAD 2660 2684	Derrame pericárdico leve
+T12	ENFERMEDAD 2880 2917	insuficiencia respiratoria progresiva
+T13	ENFERMEDAD 2920 2939	crisis hipertensiva
+T14	ENFERMEDAD 3656 3659	IAM
+T15	ENFERMEDAD 3777 3780	IAM
+T16	ENFERMEDAD 3922 3941	lesiones coronarias
+T17	ENFERMEDAD 4047 4066	necrosis miocárdica
+T18	ENFERMEDAD 4071 4090	lesiones coronarias
+T19	ENFERMEDAD 4359 4379	infarto de miocardio
+T20	ENFERMEDAD 4402 4449	infección respiratoria con broncoespasmo severo
+T21	ENFERMEDAD 4554 4576	Infección respiratoria
+T22	ENFERMEDAD 4603 4630	Infarto de miocardio tipo 2
+T23	ENFERMEDAD 4644 4663	lesiones coronarias
+T24	ENFERMEDAD 2127 2129	IT
+T25	ENFERMEDAD 3440 3467	VI ligeramente hipertrófico
+T26	ENFERMEDAD 3542 3549	IAMSEST
+T27	ENFERMEDAD 3680 3699	crisis hipertensiva
+T28	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDIMIENTO 586 589	ECG
+T30	PROCEDIMIENTO 653 671	exploración física
+T31	PROCEDIMIENTO 685 710	auscultación respiratoria
+T32	PROCEDIMIENTO 846 849	ECG
+T33	PROCEDIMIENTO 962 965	ECG
+T34	PROCEDIMIENTO 1072 1075	GSA
+T35	PROCEDIMIENTO 1234 1253	Analítica de sangre
+T36	PROCEDIMIENTO 1394 1413	Analítica de sangre
+T37	PROCEDIMIENTO 1533 1548	Perfil tiroideo
+T38	PROCEDIMIENTO 1577 1597	Radiografía de tórax
+T39	PROCEDIMIENTO 1651 1680	Ecocardiografía transtorácica
+T40	PROCEDIMIENTO 2432 2461	Resonancia magnética cardiaca
+T41	PROCEDIMIENTO 2755 2766	Cateterismo
+T42	PROCEDIMIENTO 2987 3019	ventilación mecánica no invasiva
+T43	PROCEDIMIENTO 3021 3044	tratamiento antibiótico
+T44	PROCEDIMIENTO 3046 3063	broncodilatadores
+T45	PROCEDIMIENTO 3066 3089	corticoides endovenosos
+T46	PROCEDIMIENTO 3164 3192	retirar soporte ventilatorio
+T47	PROCEDIMIENTO 3259 3279	soporte ventilatorio
+T48	PROCEDIMIENTO 3312 3315	ECG
+T49	PROCEDIMIENTO 3413 3427	ecocardiograma
+T50	PROCEDIMIENTO 3572 3592	doble antiagregación
+T51	PROCEDIMIENTO 3595 3610	anticoagulación
+T52	PROCEDIMIENTO 3815 3829	ecocardiograma
+T53	PROCEDIMIENTO 3880 3895	coronariografía
+T54	PROCEDIMIENTO 3964 3978	ecocardiograma
+T55	PROCEDIMIENTO 4104 4133	resonancia magnética cardiaca
+T56	PROCEDIMIENTO 4284 4312	retirar doble antiagregación
+T57	PROCEDIMIENTO 2953 2985	tratamiento diurético endovenoso
+T58	PROCEDIMIENTO 550 559	Ventimask
+T59	SINTOMA 275 292	tos no productiva
+T60	SINTOMA 295 315	sensación distérmica
+T61	SINTOMA 351 376	hemodinámicamente estable
+T62	SINTOMA 505 511	tiraje
+T63	SINTOMA 566 574	flapping
+T64	SINTOMA 577 584	afebril
+T65	SINTOMA 594 607	ritmo sinusal
+T66	SINTOMA 780 786	soplos
+T67	SINTOMA 864 877	ritmo sinusal
+T68	SINTOMA 927 960	alteraciones de la repolarización
+T69	SINTOMA 974 987	ritmo sinusal
+T70	SINTOMA 1009 1021	QRS estrecho
+T71	SINTOMA 1034 1070	ondas T negativas simétricas difusas
+T72	SINTOMA 1533 1555	Perfil tiroideo normal
+T73	SINTOMA 1606 1626	engrosamiento hiliar
+T74	SINTOMA 1756 1794	contractilidad simétrica hiperdinámica
+T75	SINTOMA 1796 1807	FEVI normal
+T76	SINTOMA 1833 1865	VD de dimensión y función normal
+T77	SINTOMA 1979 2011	Raíz aórtica de dimensión normal
+T78	SINTOMA 2062 2080	VM con velos finos
+T79	SINTOMA 2259 2291	VD de dimensión y función normal
+T80	SINTOMA 2386 2406	Signos de PVC normal
+T81	SINTOMA 2463 2529	VI de dimensión normal, paredes normales, contractilidad simétrica
+T82	SINTOMA 2531 2542	FEVI normal
+T83	SINTOMA 2568 2600	VD de dimensión y función normal
+T84	SINTOMA 2702 2707	edema
+T85	SINTOMA 3320 3342	T negativas simétricas
+T86	SINTOMA 3983 4013	función ventricular conservada
+T87	SINTOMA 3702 3715	broncoespasmo
+T88	SINTOMA 409 428	taquicardia sinusal
+T89	SINTOMA 440 451	taquipnéica
+T90	SINTOMA 612 645	alteraciones de la repolarización
+T91	SINTOMA 1809 1831	AI de dimensión normal
+T92	SINTOMA 1867 1889	AD de dimensión normal
+T93	SINTOMA 1891 1911	VCI de tamaño normal
+T94	SINTOMA 2214 2246	VI de dimensión y función normal
+T95	SINTOMA 2248 2257	AI normal
+T96	SINTOMA 2293 2315	AD de dimensión normal
+T97	SINTOMA 2544 2566	AI de dimensión normal
+T98	SINTOMA 2602 2624	AD de dimensión normal
+T99	SINTOMA 3355 3367	QTc alargado
+T100	SINTOMA 3472 3485	FE conservada
+T101	SINTOMA 4581 4601	broncoespasmo severo
+T102	SINTOMA 2788 2834	Arterias coronarias sin lesiones angiográficas
+T103	SINTOMA 2768 2786	dominancia derecha
+T104	SINTOMA 767 775	rítmicos
+T105	SINTOMA 899 911	QRS estrecho
+#1	AnnotatorNotes T24	 Insuficiencia tricuspídea

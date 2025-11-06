@@ -1,0 +1,66 @@
+T1	ENFERMEDAD 115 139	estenosis aórtica severa
+T2	ENFERMEDAD 291 312	hipertensión arterial
+T3	ENFERMEDAD 315 325	dislipemia
+T4	ENFERMEDAD 915 937	insuficiencia cardiaca
+T5	ENFERMEDAD 983 1016	estigmas cutáneos de endocarditis
+T6	ENFERMEDAD 1955 1975	disfunción protésica
+T7	ENFERMEDAD 2003 2015	endocarditis
+T8	ENFERMEDAD 2050 2073	endocarditis infecciosa
+T9	ENFERMEDAD 2366 2378	endocarditis
+T10	ENFERMEDAD 2483 2535	endocarditis con importante afectación periprótesica
+T11	ENFERMEDAD 2550 2576	pseudoaneurisma perianular
+T12	ENFERMEDAD 2644 2669	dehiscencia periprotésica
+T13	ENFERMEDAD 2809 2832	fístula aorto-auricular
+T14	ENFERMEDAD 3048 3142	Endocarditis infecciosa precoz sobre prótesis biológica aórtica por Staphylococcus epidermidis
+T15	ENFERMEDAD 3144 3205	Pseudoaneurisma periprotésico, fistulizado a cámaras derechas
+T16	ENFERMEDAD 1857 1884	regurgitación periprotésica
+T17	ENFERMEDAD 1338 1373	crecimiento de cavidades izquierdas
+T18	ENFERMEDAD 1353 1398	cavidades izquierdas con patrón de sobrecarga
+T19	ENFERMEDAD 2581 2617	fistulización hacia aurícula derecha
+T20	ENFERMEDAD 2619 2631	vegetaciones
+T21	PROCEDIMIENTO 156 194	implante de prótesis aórtica biológica
+T22	PROCEDIMIENTO 650 668	exploración física
+T23	PROCEDIMIENTO 780 807	auscultación cardiopulmonar
+T24	PROCEDIMIENTO 1275 1293	electrocardiograma
+T25	PROCEDIMIENTO 1411 1449	se extrajeron 4 tandas de hemocultivos
+T26	PROCEDIMIENTO 1543 1557	antibioterapia
+T27	PROCEDIMIENTO 1713 1742	ecocardiografía transtorácica
+T28	PROCEDIMIENTO 1744 1747	ETT
+T29	PROCEDIMIENTO 1892 1922	ecocardiografía transesofágica
+T30	PROCEDIMIENTO 1924 1927	ETE
+T31	PROCEDIMIENTO 2108 2171	tomografía de emisión de positrones con 18F-fluorodesoxiglucosa
+T32	PROCEDIMIENTO 2173 2187	18F-FDG-PET/TC
+T33	PROCEDIMIENTO 2410 2413	ETE
+T34	PROCEDIMIENTO 2702 2721	terapia antibiótica
+T35	PROCEDIMIENTO 2726 2738	hemocultivos
+T36	PROCEDIMIENTO 2761 2792	cirugía de sustitución valvular
+T37	PROCEDIMIENTO 2795 2855	reparación de fístula aorto-auricular con parche pericárdico
+T38	PROCEDIMIENTO 2860 2915	análisis microbiológico del tejido quirúrgico extirpado
+T39	PROCEDIMIENTO 3207 3243	Tratamiento antibiótico y quirúrgico
+T40	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T41	PROCEDIMIENTO 1177 1201	reactantes de fase aguda
+T42	PROCEDIMIENTO 2982 2994	tinción Gram
+T43	PROCEDIMIENTO 1437 1449	hemocultivos
+T44	PROCEDIMIENTO 1049 1058	analítica
+T45	PROCEDIMIENTO 471 483	intervención
+T46	SINTOMA 229 244	síndrome febril
+T47	SINTOMA 550 556	fiebre
+T48	SINTOMA 567 574	astenia
+T49	SINTOMA 576 584	anorexia
+T50	SINTOMA 587 615	deterioro del estado general
+T51	SINTOMA 683 708	estable hemodinámicamente
+T52	SINTOMA 817 832	ruidos rítmicos
+T53	SINTOMA 853 868	soplo sistólico
+T54	SINTOMA 1085 1114	recuento leucocitario elevado
+T55	SINTOMA 1164 1201	elevación de reactantes de fase aguda
+T56	SINTOMA 1437 1518	hemocultivos seriados, aislándose en todos los frascos Staphylococcus epidermidis
+T57	SINTOMA 2204 2258	aumento de captación de FDG a nivel de la raíz aórtica
+T58	SINTOMA 2726 2748	hemocultivos negativos
+T59	SINTOMA 1306 1325	taquicardia sinusal
+T60	SINTOMA 3006 3033	cultivo finalmente negativo
+T61	SINTOMA 834 847	taquicárdicos
+T62	FARMACO 362 371	enalapril
+T63	FARMACO 409 421	simvastatina
+T64	FARMACO 1562 1573	vancomicina
+T65	FARMACO 1575 1586	gentamicina
+T66	FARMACO 1589 1600	rifampicina

@@ -1,0 +1,137 @@
+T1	ENFERMEDAD 134 137	HTA
+T2	ENFERMEDAD 214 227	Hiperuricemia
+T3	ENFERMEDAD 229 257	EPOC tipo bronquitis crónica
+T4	ENFERMEDAD 326 347	hipertensión pulmonar
+T5	ENFERMEDAD 509 533	taquicardia QRS estrecho
+T6	ENFERMEDAD 725 745	hipotensión arterial
+T7	ENFERMEDAD 947 993	dilatación biventricular con disfunción severa
+T8	ENFERMEDAD 1023 1052	insuficiencia mitral moderada
+T9	ENFERMEDAD 1086 1127	insuficiencia tricuspídea moderada-severa
+T10	ENFERMEDAD 1189 1207	shock cardiogénico
+T11	ENFERMEDAD 1249 1273	tromboembolismo pulmonar
+T12	ENFERMEDAD 1313 1331	shock cardiogénico
+T13	ENFERMEDAD 1645 1684	insuficiencia mitral moderada funcional
+T14	ENFERMEDAD 1687 1740	doble lesión aórtica con insuficiencia aórtica severa
+T15	ENFERMEDAD 1802 1830	insuficiencia aórtica severa
+T16	ENFERMEDAD 1854 1890	prolapso de velo coronariano derecho
+T17	ENFERMEDAD 1971 2022	perforación de la base del velo coronariano derecho
+T18	ENFERMEDAD 2441 2495	fibrilación auricular con respuesta ventricular rápida
+T19	ENFERMEDAD 2767 2770	TEP
+T20	ENFERMEDAD 2792 2828	adenopatías mediastínicas o axilares
+T21	ENFERMEDAD 3108 3130	insuficiencia cardiaca
+T22	ENFERMEDAD 3306 3325	hepatopatía crónica
+T23	ENFERMEDAD 3351 3354	TEP
+T24	ENFERMEDAD 3932 3973	endocarditis a nivel de la válvula mitral
+T25	ENFERMEDAD 3975 4074	Válvula aórtica tricúspide, fibroesclerosada, con engrosamiento severo del velo coronariano derecho
+T26	ENFERMEDAD 4207 4230	verruga de endocarditis
+T27	ENFERMEDAD 4243 4279	prolapso de velo coronariano derecho
+T28	ENFERMEDAD 4459 4496	prolapso del velo coronariano derecho
+T29	ENFERMEDAD 4758 4779	valvulopatía pulmonar
+T30	ENFERMEDAD 4823 4842	derrame pericárdico
+T31	ENFERMEDAD 4903 4913	IAo severa
+T32	ENFERMEDAD 5099 5135	prolapso de velo coronariano derecho
+T33	ENFERMEDAD 5221 5272	perforación de la base del velo coronariano derecho
+T34	ENFERMEDAD 5475 5511	endocarditis sobre la válvula mitral
+T35	ENFERMEDAD 5610 5644	endocarditis sobre válvula aórtica
+T36	ENFERMEDAD 5958 6004	afectación endocardítica por Coxiella burnetii
+T37	ENFERMEDAD 6065 6082	flutter auricular
+T38	ENFERMEDAD 6136 6165	disfunción ventricular severa
+T39	ENFERMEDAD 6400 6418	Shock cardiogénico
+T40	ENFERMEDAD 6538 6586	Endocarditis mitro-aórtica por Coxiella burnetii
+T41	ENFERMEDAD 3811 3813	IM
+T42	ENFERMEDAD 5285 5287	IM
+T43	ENFERMEDAD 5668 5670	IM
+T44	ENFERMEDAD 4634 4641	IT leve
+T45	ENFERMEDAD 6191 6195	TVNS
+T46	ENFERMEDAD 99 122	alergias medicamentosas
+T47	ENFERMEDAD 294 323	doble lesión aórtica moderada
+T48	ENFERMEDAD 1054 1083	doble lesión aórtica moderada
+T49	ENFERMEDAD 170 177	fumador
+T50	ENFERMEDAD 156 167	dislipémico
+T51	ENFERMEDAD 203 212	Exbebedor
+T52	ENFERMEDAD 3584 3595	AI dilatada
+T53	ENFERMEDAD 3678 3689	AD dilatada
+T54	ENFERMEDAD 4296 4299	IAo
+T55	ENFERMEDAD 4685 4697	VCI dilatada
+T56	ENFERMEDAD 5646 5656	IAO severa
+T57	ENFERMEDAD 5658 5666	EAo leve
+T58	ENFERMEDAD 3227 3268	hipertrofia del lóbulo hepático izquierdo
+T59	ENFERMEDAD 3376 3460	ventrículo izquierdo moderada-severamente dilatado, con hipertrofia concéntrica leve
+T60	ENFERMEDAD 6437 6456	taquimiocardiopatía
+T61	ENFERMEDAD 6461 6489	fibrilación auricular rápida
+T62	PROCEDIMIENTO 34 52	exploración física
+T63	PROCEDIMIENTO 803 826	reanimación volumétrica
+T64	PROCEDIMIENTO 864 891	perfusión de nor-adrenalina
+T65	PROCEDIMIENTO 904 932	ecocardiograma transtorácico
+T66	PROCEDIMIENTO 1221 1233	TAC torácico
+T67	PROCEDIMIENTO 1551 1579	ecocardiograma transtorácico
+T68	PROCEDIMIENTO 1767 1770	ETE
+T69	PROCEDIMIENTO 2025 2043	Exploración física
+T70	PROCEDIMIENTO 2411 2423	Hemocultivos
+T71	PROCEDIMIENTO 2436 2439	ECG
+T72	PROCEDIMIENTO 2512 2588	TAC torácico: se realiza estudio con administración de contraste intravenoso
+T73	PROCEDIMIENTO 3357 3374	Ecocardiograma TT
+T74	PROCEDIMIENTO 4844 4873	Ecocardiograma transesofágico
+T75	PROCEDIMIENTO 5572 5575	ETT
+T76	PROCEDIMIENTO 5834 5884	implantación de prótesis metálica mitral y aórtica
+T77	PROCEDIMIENTO 5886 5937	Se extirparon las válvulas mitral y aórtica nativas
+T78	PROCEDIMIENTO 6199 6205	Holter
+T79	PROCEDIMIENTO 6252 6267	ablación de ICT
+T80	PROCEDIMIENTO 6665 6690	Implantación de DAI + TRC
+T81	PROCEDIMIENTO 828 851	se canaliza vía femoral
+T82	PROCEDIMIENTO 2126 2129	ACR
+T83	PROCEDIMIENTO 6104 6107	CVE
+T84	PROCEDIMIENTO 6270 6300	se implantó marcapasos TRC+DAI
+T85	PROCEDIMIENTO 6588 6638	Implatación de prótesis mitral y aórtica metálicas
+T86	PROCEDIMIENTO 6640 6663	Ablación exitosa de ICT
+T87	PROCEDIMIENTO 2313 2322	Analítica
+T88	SINTOMA 430 436	disnea
+T89	SINTOMA 626 639	ritmo sinusal
+T90	SINTOMA 697 719	deterioro hemodinámico
+T91	SINTOMA 747 761	mala perfusión
+T92	SINTOMA 763 781	sudoración profusa
+T93	SINTOMA 2045 2063	mal estado general
+T94	SINTOMA 2065 2081	Frialdad cutánea
+T95	SINTOMA 2083 2101	Sudoración profusa
+T96	SINTOMA 2103 2124	Ingurgitación yugular
+T97	SINTOMA 2131 2147	tonos arrítmicos
+T98	SINTOMA 2159 2181	Soplo sisto-diastólico
+T99	SINTOMA 2220 2223	MVC
+T100	SINTOMA 2228 2286	crepitantes hasta campos medios en ambos campos pulmonares
+T101	SINTOMA 2411 2434	Hemocultivos: negativos
+T102	SINTOMA 4781 4801	Ao ascendente normal
+T103	SINTOMA 3189 3215	líquido libre perihepático
+T104	SINTOMA 2963 2981	imágenes nodulares
+T105	SINTOMA 2716 2753	defectos de repleción intravasculares
+T106	SINTOMA 2894 2957	Parénquima pulmonar dentro de la normalidad de manera bilateral
+T107	SINTOMA 2984 3030	alteraciones de la arquitectura parenquimatosa
+T108	SINTOMA 2858 2892	anomalías reseñables en mediastino
+T109	SINTOMA 3046 3089	reflujo de contraste a venas suprahepáticas
+T110	SINTOMA 3463 3521	función sistólica global en límites bajos de la normalidad
+T111	SINTOMA 3606 3676	VD no dilatado ni hipertrófico con función sistólica global conservada
+T112	SINTOMA 3691 3775	Válvula mitral con velos no engrosados, sin alteraciones morfológicas significativas
+T113	SINTOMA 4050 4107	velo coronariano derecho, que presenta una imagen nodular
+T114	SINTOMA 5513 5538	Orejuela libre de trombos
+T115	FARMACO 604 614	amiodarona
+T116	FARMACO 877 891	nor-adrenalina
+T117	FARMACO 1364 1374	dobutamina
+T118	FARMACO 1376 1389	noradrenalina
+T119	FARMACO 1392 1404	levosimendan
+T120	FARMACO 6527 6536	verapamil
+T121	FARMACO 591 601	verapamilo
+#1	AnnotatorNotes T1	 HTA: hipertensión arterial
+#2	AnnotatorNotes T3	 EPOC: enfermedad pulmonar obstructiva crónica
+#3	AnnotatorNotes T19	 TEP: tromboembolia pulmonar
+#4	AnnotatorNotes T23	 TEP: tromboembolia pulmonar
+#5	AnnotatorNotes T31	 IAo: insuficiencia aórtica
+#6	AnnotatorNotes T41	 IM: insuficiencia mitral
+#7	AnnotatorNotes T42	 IM: insuficiencia mitral
+#8	AnnotatorNotes T43	 IM: insuficiencia mitral
+#9	AnnotatorNotes T44	 IT: insuficiencia tricuspídea
+#10	AnnotatorNotes T45	 TVNS: Taquicardia ventricular no sostenida
+#11	AnnotatorNotes T52	 AI: aurícula izquierda
+#12	AnnotatorNotes T53	 AD: aurícula derecha
+#13	AnnotatorNotes T54	 IAo: insuficiencia aórtica
+#14	AnnotatorNotes T55	 VCI: vena cava inferior
+#15	AnnotatorNotes T56	 IAo: insuficiencia aórtica
+#16	AnnotatorNotes T57	 EAo: estenosis aórtica

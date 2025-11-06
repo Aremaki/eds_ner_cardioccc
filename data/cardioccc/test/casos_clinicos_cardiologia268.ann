@@ -1,0 +1,159 @@
+T1	ENFERMEDAD 86 112	parada cardiorrespiratoria
+T2	ENFERMEDAD 157 179	Alérgico a rifampicina
+T3	ENFERMEDAD 181 202	Hipertensión arterial
+T4	ENFERMEDAD 235 250	hábitos tóxicos
+T5	ENFERMEDAD 323 334	cardiopatía
+T6	ENFERMEDAD 955 978	fibrilación ventricular
+T7	ENFERMEDAD 1303 1329	parada cardiorrespiratoria
+T8	ENFERMEDAD 1342 1365	taquicardia ventricular
+T9	ENFERMEDAD 1810 1836	parada cardiorrespiratoria
+T10	ENFERMEDAD 1852 1875	hemorragia intracraneal
+T11	ENFERMEDAD 1877 1901	tromboembolismo pulmonar
+T12	ENFERMEDAD 1904 1926	síndrome aórtico agudo
+T13	ENFERMEDAD 2673 2696	fibrilación ventricular
+T14	ENFERMEDAD 2770 2810	trastorno de conducción intraventricular
+T15	ENFERMEDAD 4160 4177	disección aórtica
+T16	ENFERMEDAD 4242 4266	tromboembolismo pulmonar
+T17	ENFERMEDAD 4346 4376	derrame pericárdico ni pleural
+T18	ENFERMEDAD 4378 4395	Adenopatía hiliar
+T19	ENFERMEDAD 4429 4497	Adenopatías calcificadas prevasculares lateroaórticas e interlobares
+T20	ENFERMEDAD 4869 4880	atelectasia
+T21	ENFERMEDAD 4955 4971	broncoaspiración
+T22	ENFERMEDAD 4973 5037	Calcificación subpleural lineal en subsegmento posterior del LSI
+T23	ENFERMEDAD 5512 5540	insuficiencia mitral trivial
+T24	ENFERMEDAD 5925 5968	taquicardia ventricular monomorfa sostenida
+T25	ENFERMEDAD 5985 6008	fibrilación ventricular
+T26	ENFERMEDAD 6624 6644	insuficiencia mitral
+T27	ENFERMEDAD 6652 6677	insuficiencia tricuspídea
+T28	ENFERMEDAD 6679 6681	IT
+T29	ENFERMEDAD 6844 6870	parada cardiorrespiratoria
+T30	ENFERMEDAD 6970 6994	síndrome coronario agudo
+T31	ENFERMEDAD 7616 7649	taquicardia ventricular sostenida
+T32	ENFERMEDAD 7666 7689	fibrilación ventricular
+T33	ENFERMEDAD 7818 7829	vasoespasmo
+T34	ENFERMEDAD 8140 8149	infección
+T35	ENFERMEDAD 8617 8640	cardiopatía estructural
+T36	ENFERMEDAD 8937 9032	Síndrome coronario agudo con elevación no persistente del segmento ST por vasoespasmo coronario
+T37	ENFERMEDAD 9088 9140	Infección respiratoria secundaria a broncoaspiración
+T38	ENFERMEDAD 8819 8902	Parada cardiorrespiratoria extrahospitalaria recuperada por fibrilación ventricular
+T39	ENFERMEDAD 581 598	episodio sincopal
+T40	ENFERMEDAD 6646 6648	IM
+T41	ENFERMEDAD 342 355	muerte súbita
+T42	ENFERMEDAD 3851 3884	arterias coronarias sin estenosis
+T43	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T44	PROCEDIMIENTO 692 738	maniobras de reanimación cardiopulmonar básica
+T45	PROCEDIMIENTO 812 834	intubación orotraqueal
+T46	PROCEDIMIENTO 1000 1014	desfibrilación
+T47	PROCEDIMIENTO 1426 1449	cardioversión eléctrica
+T48	PROCEDIMIENTO 1498 1518	estudio hemodinámico
+T49	PROCEDIMIENTO 1658 1669	cateterismo
+T50	PROCEDIMIENTO 1690 1715	TAC craneal sin contraste
+T51	PROCEDIMIENTO 1718 1744	TAC de tórax con contraste
+T52	PROCEDIMIENTO 1929 1947	Exploración física
+T53	PROCEDIMIENTO 2076 2144	Intubado y conectado a ventilación mecánica, SatO2 100% con FiO2 80%
+T54	PROCEDIMIENTO 2292 2314	intubación orotraqueal
+T55	PROCEDIMIENTO 2703 2726	cardioversión eléctrica
+T56	PROCEDIMIENTO 2901 2919	Electrocardiograma
+T57	PROCEDIMIENTO 2921 2924	ECG
+T58	PROCEDIMIENTO 3088 3105	Gasometría venosa
+T59	PROCEDIMIENTO 3606 3615	Hemograma
+T60	PROCEDIMIENTO 3731 3742	Coagulación
+T61	PROCEDIMIENTO 3819 3839	Estudio hemodinámico
+T62	PROCEDIMIENTO 3919 3935	Ventriculografía
+T63	PROCEDIMIENTO 4016 4027	Aortografía
+T64	PROCEDIMIENTO 4179 4205	TAC de tórax con contraste
+T65	PROCEDIMIENTO 5181 5197	maniobras de RCP
+T66	PROCEDIMIENTO 5207 5233	TAC cerebral sin contraste
+T67	PROCEDIMIENTO 5278 5292	Ecocardiograma
+T68	PROCEDIMIENTO 5571 5591	Radiografía de tórax
+T69	PROCEDIMIENTO 5694 5738	Monitorización electrocardiográfica continua
+T70	PROCEDIMIENTO 6119 6122	RMN
+T71	PROCEDIMIENTO 6277 6323	Estudio de perfusión miocárdica de primer paso
+T72	PROCEDIMIENTO 7007 7022	coronariografía
+T73	PROCEDIMIENTO 7068 7078	TC craneal
+T74	PROCEDIMIENTO 7233 7268	inducción de hipotermia terapéutica
+T75	PROCEDIMIENTO 7281 7296	ecocardioscopia
+T76	PROCEDIMIENTO 7547 7591	monitorización electrocardiográfica continua
+T77	PROCEDIMIENTO 7854 7873	gasometría arterial
+T78	PROCEDIMIENTO 7980 8002	terapia con hipotermia
+T79	PROCEDIMIENTO 8212 8226	antibioterapia
+T80	PROCEDIMIENTO 8396 8404	extubado
+T81	PROCEDIMIENTO 8536 8565	resonancia magnética cardiaca
+T82	PROCEDIMIENTO 8667 8733	implante de desfibrilador automático implantable (DAI) monocameral
+T83	PROCEDIMIENTO 9034 9061	Implante de DAI monocameral
+T84	PROCEDIMIENTO 3260 3270	Bioquímica
+T85	PROCEDIMIENTO 853 901	maniobras de reanimación cardiopulmonar avanzada
+T86	PROCEDIMIENTO 7081 7098	angio-TC torácico
+T87	PROCEDIMIENTO 7842 7851	analítica
+T88	PROCEDIMIENTO 928 941	registro DESA
+T89	PROCEDIMIENTO 2231 2314	midazolam y cisatracurio utilizados en la inducción previa a intubación orotraqueal
+T90	PROCEDIMIENTO 2623 2664	Registro del desfibrilador semiautomático
+T91	SINTOMA 503 515	asintomático
+T92	SINTOMA 661 678	ausencia de pulso
+T93	SINTOMA 1152 1165	ritmo sinusal
+T94	SINTOMA 1170 1231	elevación del segmento ST en las derivaciones V1-V5, DI y aVL
+T95	SINTOMA 2067 2074	Afebril
+T96	SINTOMA 2150 2171	ingurgitación yugular
+T97	SINTOMA 2173 2203	Reflujo hepatoyugular negativo
+T98	SINTOMA 2316 2341	Ruidos cardiacos rítmicos
+T99	SINTOMA 2346 2352	soplos
+T100	SINTOMA 2354 2397	Roncus dispersos en ambos campos pulmonares
+T101	SINTOMA 2399 2426	Abdomen blando y depresible
+T102	SINTOMA 2443 2477	Extremidades inferiores sin edemas
+T103	SINTOMA 2483 2554	pulsos femorales, poplíteos, tibiales y pedios presentes bilateralmente
+T104	SINTOMA 2569 2596	Pulsos radiales conservados
+T105	SINTOMA 2728 2741	ritmo sinusal
+T106	SINTOMA 2812 2858	elevación del segmento ST de V1 a V5, DI y aVL
+T107	SINTOMA 2961 2974	ritmo sinusal
+T108	SINTOMA 2985 2997	QRS estrecho
+T109	SINTOMA 3018 3037	alteraciones del ST
+T110	SINTOMA 3039 3086	onda T aplanada en derivaciones de los miembros
+T111	SINTOMA 3937 3976	ventrículo izquierdo con función normal
+T112	SINTOMA 5114 5164	dilatación de cámara gástrica con nivel hidroaéreo
+T113	SINTOMA 5294 5348	ventrículo izquierdo de dimensiones y geometría normal
+T114	SINTOMA 5354 5385	fracción de eyección preservada
+T115	SINTOMA 5398 5440	Ventrículo derecho de dimensiones normales
+T116	SINTOMA 5446 5470	función sistólica normal
+T117	SINTOMA 5603 5631	índice cardiotorácico normal
+T118	SINTOMA 5765 5778	ritmo sinusal
+T119	SINTOMA 5840 5865	elevación del segmento ST
+T120	SINTOMA 6435 6475	Función ventricular izquierda conservada
+T121	SINTOMA 7320 7375	ventrículo izquierdo con función ventricular conservada
+T122	SINTOMA 7476 7506	ascenso súbito del segmento ST
+T123	SINTOMA 8112 8123	pico febril
+T124	SINTOMA 8536 8601	resonancia magnética cardiaca que resultó dentro de la normalidad
+T125	SINTOMA 8792 8804	asintomático
+T126	SINTOMA 8904 8935	Corazón estructuralmente normal
+T127	SINTOMA 8966 9006	elevación no persistente del segmento ST
+T128	SINTOMA 4104 4132	Aorta ascendente no dilatada
+T129	SINTOMA 4268 4330	Tronco de arteria pulmonar y aorta torácica de tamaño normales
+T130	SINTOMA 5207 5276	TAC cerebral sin contraste (ingreso): sin alteraciones significativas
+T131	SINTOMA 5073 5104	Secreciones en tráquea proximal
+T132	SINTOMA 5472 5506	Válvulas morfológicamente normales
+T133	SINTOMA 5783 5816	alteraciones de la repolarización
+T134	SINTOMA 6921 6955	alteraciones electrocardiográficas
+T135	SINTOMA 7907 7939	alteraciones hidroelectrolíticas
+T136	SINTOMA 4825 4859	consolidados con broncograma aéreo
+T137	SINTOMA 7694 7717	compromiso hemodinámico
+T138	SINTOMA 7043 7066	coronarias sin lesiones
+T139	SINTOMA 3002 3012	eje normal
+T140	SINTOMA 8782 8789	estable
+T141	SINTOMA 4921 4932	secreciones
+T142	SINTOMA 1554 1599	arterias coronarias epicárdicas sin estenosis
+T143	SINTOMA 4029 4061	aorta trivalva sin insuficiencia
+T144	SINTOMA 5633 5692	parénquima pulmonar y trama broncovascular sin alteraciones
+T145	SINTOMA 6034 6067	alteraciones de la repolarización
+T146	SINTOMA 6160 6229	alteraciones globales ni segmentarias en la contractilidad miocárdica
+T147	SINTOMA 6288 6330	perfusión miocárdica de primer paso normal
+T148	FARMACO 168 179	rifampicina
+T149	FARMACO 413 439	losartán/hidroclorotiazida
+T150	FARMACO 1037 1047	adrenalina
+T151	FARMACO 1057 1065	atropina
+T152	FARMACO 1078 1088	amiodarona
+T153	FARMACO 2231 2240	midazolam
+T154	FARMACO 2243 2255	cisatracurio
+T155	FARMACO 6091 6105	nitroglicerina
+T156	FARMACO 7765 7779	nitroglicerina
+T157	FARMACO 8231 8239	imipenem
+T158	FARMACO 8264 8273	linezolid
+#1	AnnotatorNotes T40	 insuficiencia mitral

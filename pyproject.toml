@@ -1,0 +1,57 @@
+[project]
+name = "eds_ner_cardioccc"
+version = "0.1.0"
+description = "Repository code used to train Named Entity Recognition (NER) model on the CardioCCC dataset — A collection of cardiology clinical case reports in spanish. The model implementation is based on EDS-NLP, a library developed by the data science team of the Greater Paris University Hospitals (AP‑HP)."
+authors = [
+    { name="Adam Remaki", email="ad.remaki@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">3.7.1,<4.0"
+
+dependencies = [
+    "edsnlp[ml]>=0.16.0",
+    "sentencepiece>=0.1.96",
+    "pandas>=1.1.0,<2.0.0; python_version < '3.8'",
+    "pandas>=1.4.0,<2.0.0; python_version >= '3.8'",
+    "accelerate>=0.21.0; python_version >= '3.8'"
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff==0.6.7",
+    "pre-commit>=2.18.1",
+    "rich-logger>=0.3.0"
+]
+
+[tool.edsnlp]
+# Suggestion: choose a name that mixes both the architecture (eds-medic) and the
+# dataset on which the model was trained (aphp)
+# This field will be read by script/package.py
+model_name = "eds-ner-cardioccc"
+
+[tool.ruff]
+# Enable pycodestyle (`E`) and Pyflakes (`F`) codes by default.
+select = [
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # Pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+]
+ignore = [
+    "E501",  # line too long, handled by black
+    "B008",  # do not perform function calls in argument defaults
+    "C901",  # too complex
+]
+
+# Same as Black.
+line-length = 88
+
+[tool.ruff.isort]
+known-first-party = ["eds_ner_cardioccc"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

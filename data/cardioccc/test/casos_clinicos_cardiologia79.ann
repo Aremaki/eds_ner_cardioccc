@@ -1,0 +1,94 @@
+T1	ENFERMEDAD 115 136	hipertensión arterial
+T2	ENFERMEDAD 138 155	obesidad moderada
+T3	ENFERMEDAD 157 190	fibrilación auricular paroxística
+T4	ENFERMEDAD 219 223	gota
+T5	ENFERMEDAD 1653 1677	síndrome coronario agudo
+T6	ENFERMEDAD 1702 1715	cardiomegalia
+T7	ENFERMEDAD 2012 2036	cardiopatía hipertensiva
+T8	ENFERMEDAD 2087 2106	necrosis miocárdica
+T9	ENFERMEDAD 2205 2224	hematoma intramural
+T10	ENFERMEDAD 2248 2336	hematoma intramural que afecta a arco aórtico y se extiende a aorta torácica descendente
+T11	ENFERMEDAD 2396 2413	úlcera penetrante
+T12	ENFERMEDAD 2457 2484	dilataciones aneurismáticas
+T13	ENFERMEDAD 3266 3296	dilatación de aorta ascendente
+T14	ENFERMEDAD 3398 3420	síndrome aórtico agudo
+T15	ENFERMEDAD 3426 3447	cardiopatía isquémica
+T16	ENFERMEDAD 3472 3491	hematoma intramural
+T17	ENFERMEDAD 4282 4324	trombosis de falsa luz en aorta ascendente
+T18	ENFERMEDAD 5459 5496	hematoma intramural en aorta torácica
+T19	ENFERMEDAD 75 83	alergias
+T20	ENFERMEDAD 1195 1218	emergencia hipertensiva
+T21	ENFERMEDAD 5277 5300	emergencia hipertensiva
+T22	ENFERMEDAD 3666 3674	hematoma
+T23	ENFERMEDAD 539 546	síncope
+T24	ENFERMEDAD 1547 1566	necrosis miocárdica
+T25	ENFERMEDAD 1789 1858	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T26	ENFERMEDAD 1923 1953	Dilatación de aorta ascendente
+T27	ENFERMEDAD 4198 4271	disección tipo A con extensión desde aorta ascendente hasta ambas ilíacas
+T28	ENFERMEDAD 1717 1735	Elongación aórtica
+T29	ENFERMEDAD 5412 5420	isquemia
+T30	ENFERMEDAD 2427 2436	disección
+T31	PROCEDIMIENTO 909 936	auscultación cardiopulmonar
+T32	PROCEDIMIENTO 958 976	exploración física
+T33	PROCEDIMIENTO 1245 1248	ECG
+T34	PROCEDIMIENTO 1428 1431	ECG
+T35	PROCEDIMIENTO 1489 1498	hemograma
+T36	PROCEDIMIENTO 1680 1700	Radiografía de tórax
+T37	PROCEDIMIENTO 1759 1787	Ecocardiograma transtorácico
+T38	PROCEDIMIENTO 1955 2010	Resonancia magnética cardiaca de estrés con dipiridamol
+T39	PROCEDIMIENTO 2226 2235	Angio-TAC
+T40	PROCEDIMIENTO 3100 3124	fármacos betabloqueantes
+T41	PROCEDIMIENTO 3176 3204	ecocardiograma transtorácico
+T42	PROCEDIMIENTO 3314 3360	resonancia magnética de estrés con dipiridamol
+T43	PROCEDIMIENTO 3530 3539	angio-TAC
+T44	PROCEDIMIENTO 4164 4173	angio-TAC
+T45	PROCEDIMIENTO 4698 4751	sustitución de aorta ascendente por injerto de Dacrón
+T46	PROCEDIMIENTO 4859 4879	fármacos vasoactivos
+T47	PROCEDIMIENTO 4882 4896	hemofiltración
+T48	PROCEDIMIENTO 4980 4988	extubado
+T49	PROCEDIMIENTO 5216 5230	rehabilitación
+T50	PROCEDIMIENTO 5369 5388	resonancia cardiaca
+T51	PROCEDIMIENTO 5553 5562	angio-TAC
+T52	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDIMIENTO 3144 3148	IECA
+T54	PROCEDIMIENTO 1513 1524	coagulación
+T55	PROCEDIMIENTO 3500 3517	pruebas de imagen
+T56	PROCEDIMIENTO 3678 3695	pruebas de imagen
+T57	PROCEDIMIENTO 743 761	toma de constantes
+T58	PROCEDIMIENTO 1500 1510	bioquímica
+T59	PROCEDIMIENTO 1533 1568	Marcadores de necrosis miocárdica l
+T60	PROCEDIMIENTO 3126 3141	nitratos orales
+T61	PROCEDIMIENTO 1465 1474	Analítica
+T62	PROCEDIMIENTO 4500 4515	acto quirúrgico
+T63	PROCEDIMIENTO 191 216	anticoagulada con sintrom
+T64	PROCEDIMIENTO 4456 4479	intervención quirúrgica
+T65	PROCEDIMIENTO 623 659	perfusión de solinitrina intravenosa
+T66	SINTOMA 315 356	dolor centrotorácico de carácter opresivo
+T67	SINTOMA 449 467	cortejo vegetativo
+T68	SINTOMA 516 522	disnea
+T69	SINTOMA 524 537	palpitaciones
+T70	SINTOMA 557 571	dolor torácico
+T71	SINTOMA 716 735	buen estado general
+T72	SINTOMA 1044 1068	dolor torácico en reposo
+T73	SINTOMA 1071 1093	elevación de troponina
+T74	SINTOMA 1261 1274	ritmo sinusal
+T75	SINTOMA 1285 1297	QRS estrecho
+T76	SINTOMA 1319 1333	ascenso del ST
+T77	SINTOMA 1356 1373	T negativa en aVL
+T78	SINTOMA 1458 1463	dolor
+T79	SINTOMA 1489 1531	hemograma, bioquímica y coagulación normal
+T80	SINTOMA 1737 1757	Engrosamiento hiliar
+T81	SINTOMA 1875 1921	alteraciones de la contractilidad segmentarias
+T82	SINTOMA 2125 2156	engrosamiento de aorta torácica
+T83	SINTOMA 2963 2983	clínicamente estable
+T84	SINTOMA 2986 2998	asintomático
+T85	SINTOMA 3024 3038	dolor torácico
+T86	SINTOMA 3986 4025	dolor brusco e intenso en región lumbar
+T87	SINTOMA 4040 4071	parestesias en miembro inferior
+T88	SINTOMA 4120 4151	pulsos femorales bilateralmente
+T89	SINTOMA 5327 5347	clínicamente estable
+T90	SINTOMA 1533 1587	Marcadores de necrosis miocárdica ligeramente elevados
+T91	SINTOMA 2041 2052	FEVI normal
+T92	SINTOMA 909 1006	auscultación cardiopulmonar así como el resto de exploración física están dentro de la normalidad
+T93	FARMACO 636 647	solinitrina
+T94	FARMACO 209 216	sintrom

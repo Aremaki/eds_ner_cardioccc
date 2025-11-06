@@ -1,0 +1,138 @@
+T1	DISEASE 4463 4514	deterioro de función renal con componente prerrenal
+T2	DISEASE 102 123	hipertensión arterial
+T3	DISEASE 125 149	diabetes mellitus tipo 2
+T4	DISEASE 151 160	exfumador
+T5	DISEASE 162 195	Fibrilación auricular paroxística
+T6	DISEASE 248 287	Enfermedad pulmonar obstructiva crónica
+T7	DISEASE 289 293	EPOC
+T8	DISEASE 296 301	Ictus
+T9	DISEASE 332 403	Enfermedad renal crónica estadio 3a (secundaria a nefropatía diabética)
+T10	DISEASE 405 453	Trombosis venosa profunda en miembros inferiores
+T11	DISEASE 767 781	angina estable
+T12	DISEASE 1074 1081	síncope
+T13	DISEASE 1275 1283	cicatriz
+T14	DISEASE 1720 1745	trombosis venosa profunda
+T15	DISEASE 1747 1750	TVP
+T16	DISEASE 1885 1921	bloqueo rama izquierda de haz de His
+T17	DISEASE 1923 1928	BRIHH
+T18	DISEASE 2659 2667	cicatriz
+T19	DISEASE 2723 2753	enfermedad coronaria multivaso
+T20	DISEASE 2755 2803	Oclusión crónica de coronaria derecha (CD) media
+T21	DISEASE 2805 2867	Ateromatosis grave de descendente anterior (DA) proximal-media
+T22	DISEASE 2959 3040	Ateromatosis grave de arteria circunfleja (Cx) proximal - primera obtusa marginal
+T23	DISEASE 3094 3118	Trombosis aguda delstent
+T24	DISEASE 3173 3206	trombosis proximal delstent de Cx
+T25	DISEASE 3410 3464	Insuficiencia mitral isquémica de grado moderado-grave
+T26	DISEASE 3512 3518	angina
+T27	DISEASE 3521 3543	disfunción ventricular
+T28	DISEASE 3875 3902	lesión grave en DA proximal
+T29	DISEASE 3938 3960	oclusión crónica de CD
+T30	DISEASE 4107 4110	IAM
+T31	DISEASE 4256 4284	insuficiencia cardiaca aguda
+T32	DISEASE 4289 4310	edema agudo de pulmón
+T33	DISEASE 4533 4543	nefropatía
+T34	DISEASE 4605 4648	taquicardia ventricular monomorfa sostenida
+T35	DISEASE 4650 4654	TVMS
+T36	DISEASE 4697 4733	taquicardia ventricular no sostenida
+T37	DISEASE 4735 4739	TVNS
+T38	DISEASE 4845 4869	trombosis de stent de Cx
+T39	DISEASE 5117 5126	arritmias
+T40	DISEASE 5524 5545	Cardiopatía isquémica
+T41	DISEASE 5547 5564	angor de esfuerzo
+T42	DISEASE 5627 5660	Fibrilación auricular paroxística
+T43	DISEASE 5693 5730	Enfermedad coronaria de de tres vasos
+T44	DISEASE 5773 5776	IAM
+T45	DISEASE 5868 5872	TVMS
+T46	DISEASE 5894 5927	trombosis subaguda de stent de Cx
+T47	DISEASE 5929 5961	Disfunción sistólica de VI grave
+T48	DISEASE 5963 6000	Insuficiencia renal crónica agudizada
+T49	DISEASE 5836 5857	Edema agudo de pulmón
+T50	DISEASE 3904 3935	lesión moderada-grave en Cx-OM1
+T51	DISEASE 4133 4168	trombosis hiperaguda de stent de Cx
+T52	DISEASE 4315 4335	hipotensión arterial
+T53	DISEASE 5590 5625	disfunción sistólica de VI moderada
+T54	DISEASE 5799 5834	trombosis hiperaguda de stent en Cx
+T55	PROCEDURE 1093 1121	ecocardiograma transtorácico
+T56	PROCEDURE 1334 1345	cateterismo
+T57	PROCEDURE 1348 1366	Exploración física
+T58	PROCEDURE 1553 1574	Auscultación cardiaca
+T59	PROCEDURE 1597 1618	Auscultación pulmonar
+T60	PROCEDURE 1809 1827	Electrocardiograma
+T61	PROCEDURE 1829 1832	ECG
+T62	PROCEDURE 2402 2422	Radiografía de tórax
+T63	PROCEDURE 2491 2505	Ecocardiograma
+T64	PROCEDURE 2704 2719	Coronariografía
+T65	PROCEDURE 2869 2902	intervención coronaria percutánea
+T66	PROCEDURE 2904 2907	ICP
+T67	PROCEDURE 2911 2947	implante de dosstents farmacoactivos
+T68	PROCEDURE 3017 3092	primera obtusa marginal (OM1) tratada con implante de unstent farmacoactivo
+T69	PROCEDURE 3154 3169	Coronariografía
+T70	PROCEDURE 3204 3254	Cx con nuevo implante de dos stents farmacoactivos
+T71	PROCEDURE 3256 3270	Ecocardiograma
+T72	PROCEDURE 3801 3839	revascularización coronaria percutánea
+T73	PROCEDURE 3847 3862	coronariografía
+T74	PROCEDURE 4068 4096	revascularización de DA y Cx
+T75	PROCEDURE 4349 4387	oxigenoterapia con gafas de alto flujo
+T76	PROCEDURE 4804 4819	coronariografía
+T77	PROCEDURE 4945 4966	terapia antiagregante
+T78	PROCEDURE 5197 5226	triple terapia antitrombótica
+T79	PROCEDURE 5662 5682	Cateterismo cardiaco
+T80	PROCEDURE 5732 5771	Revascularización percutánea de DA y Cx
+T81	PROCEDURE 3485 3496	Cateterismo
+T82	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T83	PROCEDURE 5146 5159	función renal
+T84	PROCEDURE 4476 4489	función renal
+T85	PROCEDURE 1979 1988	Analítica
+T86	PROCEDURE 4389 4428	perfusión de furosemida y noradrenalina
+T87	PROCEDURE 4845 4891	trombosis de stent de Cx, que se revasculariza
+T88	PROCEDURE 4910 4932	perfusión de cangrelor
+T89	SYMPTOM 861 927	dolor precordial opresivo, irradiado a mandíbula y brazo izquierdo
+T90	SYMPTOM 1050 1056	disnea
+T91	SYMPTOM 1058 1071	palpitaciones
+T92	SYMPTOM 1480 1499	Buen estado general
+T93	SYMPTOM 1501 1511	Consciente
+T94	SYMPTOM 1514 1523	orientado
+T95	SYMPTOM 1525 1533	eupneico
+T96	SYMPTOM 1535 1550	bien perfundido
+T97	SYMPTOM 1553 1583	Auscultación cardiaca: rítmica
+T98	SYMPTOM 1589 1595	soplos
+T99	SYMPTOM 1620 1649	murmullo vesicular conservado
+T100	SYMPTOM 1654 1674	ruidos sobreañadidos
+T101	SYMPTOM 1753 1782	pulsos presentes y simétricos
+T102	SYMPTOM 1841 1854	ritmo sinusal
+T103	SYMPTOM 2424 2451	ICT dentro de la normalidad
+T104	SYMPTOM 2453 2489	parénquima pulmonar sin alteraciones
+T105	SYMPTOM 4745 4771	descenso del ST en V3 a V6
+T106	SYMPTOM 1189 1220	aquinesia de segmentos inferior
+T107	SYMPTOM 1932 1977	alteraciones secundarias de la repolarización
+T108	SYMPTOM 2573 2604	aquinesia de segmentos inferior
+T109	SYMPTOM 3335 3373	aquinesia extensa inferoposterolateral
+T110	SYMPTOM 3379 3408	hipoquinesia de cara anterior
+T111	SYMPTOM 1676 1706	Miembros inferiores: no edemas
+T112	SYMPTOM 2669 2702	Hipocinesia de cara inferolateral
+T113	MEDICATION 234 246	acenocumarol
+T114	MEDICATION 492 509	insulina glargina
+T115	MEDICATION 527 540	atorvastatina
+T116	MEDICATION 548 560	acenocumarol
+T117	MEDICATION 579 599	bromuro de tiotropio
+T118	MEDICATION 627 637	metformina
+T119	MEDICATION 659 669	ranolazina
+T120	MEDICATION 3614 3626	acenocumarol
+T121	MEDICATION 3693 3715	ácido acetilsalicílico
+T122	MEDICATION 3740 3758	inhibidor de P2Y12
+T123	MEDICATION 4043 4054	clopidogrel
+T124	MEDICATION 4197 4206	cangrelor
+T125	MEDICATION 4402 4412	furosemida
+T126	MEDICATION 4415 4428	noradrenalina
+T127	MEDICATION 4923 4932	cangrelor
+T128	MEDICATION 4970 4981	clopidogrel
+T129	MEDICATION 4984 4994	ticagrelor
+T130	MEDICATION 5231 5242	rivaroxabán
+T131	MEDICATION 5257 5262	adiro
+T132	MEDICATION 5279 5289	ticagrelor
+T133	MEDICATION 5362 5371	rivaroxán
+T134	MEDICATION 5380 5390	ticagrelor
+T135	MEDICATION 5439 5450	rivaroxabán
+T136	MEDICATION 614 625	alogliptina
+#1	AnnotatorNotes T35	 taquicardia ventricular monoforma sostenida
+#2	AnnotatorNotes T66	 Intervención coronaria percutánea

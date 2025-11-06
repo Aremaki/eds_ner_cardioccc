@@ -1,0 +1,218 @@
+T1	DISEASE 9005 9028	exantema maculopapuloso
+T2	DISEASE 77 118	bloqueo auriculoventricular (AV) completo
+T3	DISEASE 152 174	insuficiencia cardiaca
+T4	DISEASE 177 200	síndrome constitucional
+T5	DISEASE 305 326	hipertensión arterial
+T6	DISEASE 328 331	HTA
+T7	DISEASE 334 344	dislipemia
+T8	DISEASE 347 371	diabetes mellitus tipo 2
+T9	DISEASE 373 376	DM2
+T10	DISEASE 423 438	hábitos tóxicos
+T11	DISEASE 510 522	BAV completo
+T12	DISEASE 637 665	disfunción ventricular grave
+T13	DISEASE 758 767	arritmias
+T14	DISEASE 869 908	Síndrome de apnea obstructiva del sueño
+T15	DISEASE 910 914	SAOS
+T16	DISEASE 986 992	Anemia
+T17	DISEASE 2918 2943	bloqueo de rama izquierda
+T18	DISEASE 2992 3017	Extrasistolia ventricular
+T19	DISEASE 3169 3184	derrame pleural
+T20	DISEASE 4679 4726	adenopatías axilares, mediastínicas ni hiliares
+T21	DISEASE 4810 4825	derrame pleural
+T22	DISEASE 4922 4941	hepatopatía crónica
+T23	DISEASE 5003 5038	Quistes simples renales bilaterales
+T24	DISEASE 5040 5057	Litiasis en riñón
+T25	DISEASE 5132 5185	Esplenomegalia de 16,6 cm con varios focos de infarto
+T26	DISEASE 5205 5250	adenopatías retroperitoneales ni mesentéricas
+T27	DISEASE 5285 5308	Diverticulosis de sigma
+T28	DISEASE 5387 5443	ventrículo izquierdo con hipertrofia excéntrica moderada
+T29	DISEASE 5726 5768	endocarditis sobre válvula nativa pulmonar
+T30	DISEASE 6132 6169	vegetación sobre velo anterior mitral
+T31	DISEASE 6180 6295	Insuficiencia mitral moderada (ORE por PISA 0,3 cm2) por ligera eversión del velo, con rotura de cuerdas tendinosas
+T32	DISEASE 6792 6850	descendente anterior: estenosis grave en segmento proximal
+T33	DISEASE 7150 7172	insuficiencia cardiaca
+T34	DISEASE 7182 7205	síndrome constitucional
+T35	DISEASE 7262 7271	neoplasia
+T36	DISEASE 7330 7351	enfermedad neoplásica
+T37	DISEASE 7377 7391	esplenomegalia
+T38	DISEASE 7405 7422	infarto esplénico
+T39	DISEASE 7496 7518	disfunción ventricular
+T40	DISEASE 7628 7657	insuficiencia mitral moderada
+T41	DISEASE 7708 7720	endocarditis
+T42	DISEASE 8172 8191	embolismos sépticos
+T43	DISEASE 8370 8391	edema agudo de pulmón
+T44	DISEASE 8499 8510	anemización
+T45	DISEASE 9487 9540	lesión grave en arteria descendente anterior proximal
+T46	DISEASE 10926 10979	Endocarditis sobre válvulas nativas pulmonar y mitral
+T47	DISEASE 10985 11077	insuficiencia mitral moderada con eversión de velo anterior por rotura de cuerdas tendinosas
+T48	DISEASE 11079 11101	Insuficiencia cardiaca
+T49	DISEASE 11197 11254	Infartos esplénicos secundarios a endocarditis infecciosa
+T50	DISEASE 11256 11271	Agranulocitosis
+T51	DISEASE 11274 11285	trombopenia
+T52	DISEASE 11320 11346	Toxicodermia por meropenem
+T53	DISEASE 6501 6523	Dilatación biauricular
+T54	DISEASE 6679 6691	HTP moderada
+T55	DISEASE 6621 6623	IT
+T56	DISEASE 5674 5700	dilatación de raíz aórtica
+T57	DISEASE 5745 5785	válvula nativa pulmonar: gran vegetación
+T58	DISEASE 6084 6117	endocarditis sobre válvula mitral
+T59	DISEASE 5693 5724	aórtica sin disfunción valvular
+T60	DISEASE 6010 6059	alteraciones patológicas sobre válvula tricúspide
+T61	PROCEDURE 397 418	antidiabéticos orales
+T62	PROCEDURE 970 974	CPAP
+T63	PROCEDURE 1058 1070	Gastroscopia
+T64	PROCEDURE 1073 1085	colonoscopia
+T65	PROCEDURE 1110 1137	TAC toraco-abdomino-pélvico
+T66	PROCEDURE 1140 1160	manometría esofágica
+T67	PROCEDURE 1978 1988	diuréticos
+T68	PROCEDURE 2052 2067	ecocardiografía
+T69	PROCEDURE 2070 2088	Exploración física
+T70	PROCEDURE 2183 2203	O2 por gafas nasales
+T71	PROCEDURE 2350 2371	Auscultación cardiaca
+T72	PROCEDURE 2467 2488	Auscultación pulmonar
+T73	PROCEDURE 2770 2788	Electrocardiograma
+T74	PROCEDURE 2790 2793	ECG
+T75	PROCEDURE 2834 2888	conducción ventricular mediada por electroestimulación
+T76	PROCEDURE 3019 3039	Radiografía de tórax
+T77	PROCEDURE 3271 3280	Hemograma
+T78	PROCEDURE 3751 3762	Coagulación
+T79	PROCEDURE 3898 3919	Hemocultivos seriados
+T80	PROCEDURE 4014 4046	Serologías bacterianas y virales
+T81	PROCEDURE 4230 4253	Aspirado de médula ósea
+T82	PROCEDURE 4333 4357	Cultivos microbiológicos
+T83	PROCEDURE 4360 4380	estudio de parásitos
+T84	PROCEDURE 4392 4466	Cultivos de material valvular resecado y de cable de marcapasos explantado
+T85	PROCEDURE 4480 4521	TAC toraco-abdomino-pélvico con contraste
+T86	PROCEDURE 5311 5341	Ecocardiografía transesofágica
+T87	PROCEDURE 5343 5346	ETE
+T88	PROCEDURE 5350 5379	ecocardiografía transtorácica
+T89	PROCEDURE 5381 5384	ETT
+T90	PROCEDURE 6731 6746	Coronariografía
+T91	PROCEDURE 7094 7116	tratamiento deplectivo
+T92	PROCEDURE 7219 7246	TAC toraco-abdomino-pélvico
+T93	PROCEDURE 7457 7460	ETT
+T94	PROCEDURE 7733 7763	ecocardiografía transesofágica
+T95	PROCEDURE 8137 8154	angio-TC de tórax
+T96	PROCEDURE 8892 8915	aspirado de médula ósea
+T97	PROCEDURE 9419 9434	coronariografía
+T98	PROCEDURE 9567 9595	revascularización quirúrgica
+T99	PROCEDURE 9607 9619	hemocultivos
+T100	PROCEDURE 9710 9720	serologías
+T101	PROCEDURE 9731 9752	test de autoinmunidad
+T102	PROCEDURE 9863 9890	pruebas de medicina nuclear
+T103	PROCEDURE 10071 10094	intervención quirúrgica
+T104	PROCEDURE 10183 10228	extracción de cable y generador de marcapasos
+T105	PROCEDURE 10231 10306	implante de cables epicárdicos a nivel de AD, VD y VI para resincronización
+T106	PROCEDURE 10312 10379	colocación de nuevo generador en región abdominal subcostal derecha
+T107	PROCEDURE 10393 10408	bypass sobre DA
+T108	PROCEDURE 10520 10572	intervencionismo coronario percutáneo (ICP) sobre DA
+T109	PROCEDURE 10709 10729	reanimación cardiaca
+T110	PROCEDURE 4059 4072	Autoinmunidad
+T111	PROCEDURE 3483 3493	Bioquímica
+T112	PROCEDURE 237 255	EXPLORACIÓN FÍSICA
+T113	PROCEDURE 524 545	Recambio de generador
+T114	PROCEDURE 7852 7875	antibioterapia empírica
+T115	PROCEDURE 8776 8787	hematología
+T116	PROCEDURE 10609 10681	microbiología los restos valvulares así como el extremo distal del cable
+T117	PROCEDURE 787 818	upgrade a marcapasos tricameral
+T118	PROCEDURE 4155 4178	Marcadores de hemólisis
+T119	PROCEDURE 8799 8868	tratamiento con factores estimulantes de las colonias de granulocitos
+T120	PROCEDURE 928 984	presión positiva continua de vías aéreas (CPAP) nocturna
+T121	PROCEDURE 10559 10562	ICP
+T122	PROCEDURE 820 823	TRC
+T123	PROCEDURE 8462 8472	analíticas
+T124	PROCEDURE 8750 8757	cirugía
+T125	PROCEDURE 7804 7830	se extrajeron hemocultivos
+T126	PROCEDURE 8554 8581	requerimiento transfusional
+T127	PROCEDURE 10099 10163	sustitución con prótesis biológica de válvulas mitral y pulmonar
+T128	SYMPTOM 468 494	portador de marcapasos VDD
+T129	SYMPTOM 995 1003	disfagia
+T130	SYMPTOM 1058 1095	Gastroscopia y colonoscopia negativas
+T131	SYMPTOM 1540 1546	disnea
+T132	SYMPTOM 1703 1730	disnea de mínimos esfuerzos
+T133	SYMPTOM 1732 1774	disminución subjetiva de nivel de diuresis
+T134	SYMPTOM 1777 1785	nicturia
+T135	SYMPTOM 1791 1799	ortopnea
+T136	SYMPTOM 1801 1804	DPN
+T137	SYMPTOM 1806 1812	edemas
+T138	SYMPTOM 1854 1861	astenia
+T139	SYMPTOM 1863 1896	sensación distérmica intermitente
+T140	SYMPTOM 1899 1915	pérdida ponderal
+T141	SYMPTOM 2216 2223	Afebril
+T142	SYMPTOM 2225 2244	Buen estado general
+T143	SYMPTOM 2246 2256	Consciente
+T144	SYMPTOM 2259 2268	orientado
+T145	SYMPTOM 2270 2285	Palidez cutánea
+T146	SYMPTOM 2287 2305	Eupneico en reposo
+T147	SYMPTOM 2327 2348	ingurgitación yugular
+T148	SYMPTOM 2373 2399	ruidos cardiacos regulares
+T149	SYMPTOM 2401 2465	soplo sistólico III/VI en borde esternal izquierdo y foco mitral
+T150	SYMPTOM 2490 2511	crepitantes bibasales
+T151	SYMPTOM 2522 2573	campos pulmonares con murmullo vesicular conservado
+T152	SYMPTOM 2575 2602	Abdomen blando y depresible
+T153	SYMPTOM 2608 2613	masas
+T154	SYMPTOM 2617 2625	megalias
+T155	SYMPTOM 2640 2661	irritación peritoneal
+T156	SYMPTOM 2663 2685	peristalsis conservada
+T157	SYMPTOM 2687 2743	Miembros inferiores con discretos edemas tibiomaleolares
+T158	SYMPTOM 2807 2820	ritmo sinusal
+T159	SYMPTOM 3052 3101	índice cardiotorácico (ICT) ligeramente aumentado
+T160	SYMPTOM 3139 3165	consolidaciones alveolares
+T161	SYMPTOM 4014 4057	Serologías bacterianas y virales: negativas
+T162	SYMPTOM 4333 4390	Cultivos microbiológicos y estudio de parásitos negativos
+T163	SYMPTOM 5255 5283	líquido libre intraabdominal
+T164	SYMPTOM 5519 5565	depresión grave de la función global sistólica
+T165	SYMPTOM 6525 6605	Ventrículo derecho de diámetros normales con función global sistólica conservada
+T166	SYMPTOM 7595 7625	masa móvil en válvula pulmonar
+T167	SYMPTOM 8043 8069	disnea a mínimos esfuerzos
+T168	SYMPTOM 8085 8098	disnea súbita
+T169	SYMPTOM 8107 8114	afebril
+T170	SYMPTOM 8929 8940	neutropenia
+T171	SYMPTOM 9607 9694	hemocultivos en medios habituales y especiales para hongos y bacterias fueron negativos
+T172	SYMPTOM 4085 4153	ANA, ANCA, factor reumatoide, anticuerpos antifosfolípido: negativos
+T173	SYMPTOM 4184 4228	LDH, haptoglobina y reticulocitos: negativos
+T174	SYMPTOM 4392 4477	Cultivos de material valvular resecado y de cable de marcapasos explantado: negativos
+T175	SYMPTOM 4762 4805	hipoventilación en ambos lóbulos inferiores
+T176	SYMPTOM 4943 5001	Páncreas y glándulas suprarrenales dentro de la normalidad
+T177	SYMPTOM 8625 8657	neutropenia y trombopenia graves
+T178	SYMPTOM 11106 11136	fracción de eyección deprimida
+T179	SYMPTOM 2945 2978	alteraciones de la repolarización
+T180	SYMPTOM 1833 1843	congestión
+T181	SYMPTOM 4638 4659	defectos de repleción
+T182	SYMPTOM 6298 6312	jet excéntrico
+T183	SYMPTOM 2307 2322	tolera decúbito
+T184	SYMPTOM 5988 6000	vegetaciones
+T185	SYMPTOM 678 725	asincronía por estimulación ventricular por MCP
+T186	SYMPTOM 2890 2899	QRS ancho
+T187	SYMPTOM 3103 3121	hilios prominentes
+T188	SYMPTOM 4242 4282	médula ósea: no se observan alteraciones
+T189	SYMPTOM 4299 4331	Correcto cociente mieloeritroide
+T190	SYMPTOM 4536 4621	arterias pulmonares principales y lobares presentan una morfología y calibre normales
+T191	SYMPTOM 6383 6410	alteración de la relajación
+T192	SYMPTOM 6440 6489	aumento significativo de las presiones de llenado
+T193	SYMPTOM 6694 6723	Plétora de vena cava inferior
+T194	SYMPTOM 6731 6778	Coronariografía: Descripción del tronco: normal
+T195	SYMPTOM 6937 6956	circunfleja: normal
+T196	SYMPTOM 6970 6998	coronaria derecha: dominante
+T197	SYMPTOM 6903 6922	sistema de doble DA
+T198	SYMPTOM 9710 9786	serologías e incluso test de autoinmunidad, resultando todos ellos negativos
+T199	SYMPTOM 11149 11195	asincronía por electroestimulación ventricular
+T200	MEDICATION 1182 1195	atorvastatina
+T201	MEDICATION 1221 1234	vildagliptina
+T202	MEDICATION 1235 1245	metformina
+T203	MEDICATION 1271 1280	omeprazol
+T204	MEDICATION 1310 1318	ramipril
+T205	MEDICATION 1368 1378	bisoprolol
+T206	MEDICATION 1404 1414	eplerenona
+T207	MEDICATION 1441 1451	furosemida
+T208	MEDICATION 7880 7891	vancomicina
+T209	MEDICATION 7934 7945	gentamicina
+T210	MEDICATION 8966 8975	meropenem
+T211	MEDICATION 9263 9274	vancomicina
+T212	MEDICATION 9279 9290	daptomicina
+T213	MEDICATION 11337 11346	meropenem
+T214	MEDICATION 9351 9356	G-CSF
+#1	AnnotatorNotes T54	HTP hipertensión pulmonar
+#2	AnnotatorNotes T55	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T121	 ICP: intervencionismo coronario percutáneo
+#4	AnnotatorNotes T214	 G-CSF: factores estimulantes de las colonias de granulitos

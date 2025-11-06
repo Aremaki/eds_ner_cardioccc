@@ -1,0 +1,95 @@
+T1	DISEASE 127 150	alergias medicamentosas
+T2	DISEASE 200 221	hipertensión arterial
+T3	DISEASE 223 226	HTA
+T4	DISEASE 232 249	diabetes mellitus
+T5	DISEASE 251 253	DM
+T6	DISEASE 259 269	dislipemia
+T7	DISEASE 271 274	DLP
+T8	DISEASE 277 287	Exfumadora
+T9	DISEASE 422 435	hallux valgus
+T10	DISEASE 2039 2054	Derrame pleural
+T11	DISEASE 2146 2167	fibrilación auricular
+T12	DISEASE 2169 2171	FA
+T13	DISEASE 2187 2225	bloqueo de rama derecha del haz de His
+T14	DISEASE 2236 2266	hemibloqueo anterior izquierdo
+T15	DISEASE 2227 2232	BRDHH
+T16	DISEASE 2268 2272	HBAI
+T17	DISEASE 2320 2322	IC
+T18	DISEASE 2339 2397	FA de reciente diagnóstico con frecuencia ventricular alta
+T19	DISEASE 2681 2720	ventrículo izquierdo levemente dilatado
+T20	DISEASE 2819 2857	Aurícula izquierda gravemente dilatada
+T21	DISEASE 3238 3263	Insuficiencia tricuspídea
+T22	DISEASE 3398 3445	Válvula mitral con engrosamiento de ambos velos
+T23	DISEASE 3521 3547	Insuficiencia mitral grave
+T24	DISEASE 3733 3752	derrame pericárdico
+T25	DISEASE 4004 4009	tumor
+T26	DISEASE 4676 4691	mixoma cardiaco
+T27	DISEASE 4726 4741	Mixoma cardiaco
+T28	DISEASE 4762 4764	IC
+T29	DISEASE 4766 4825	FA de reciente diagnóstico con respuesta ventricular rápida
+T30	DISEASE 4840 4861	Hipertensión arterial
+T31	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T32	PROCEDURE 1135 1153	EXPLORACIÓN FÍSICA
+T33	PROCEDURE 1296 1317	Auscultación cardiaca
+T34	PROCEDURE 1360 1381	Auscultación pulmonar
+T35	PROCEDURE 1429 1450	auscultación pulmonar
+T36	PROCEDURE 1677 1688	Coagulación
+T37	PROCEDURE 1832 1847	Perfil hepático
+T38	PROCEDURE 1965 1985	RADIOGRAFÍA DE TÓRAX
+T39	PROCEDURE 2120 2138	Electrocardiograma
+T40	PROCEDURE 2140 2143	ECG
+T41	PROCEDURE 2409 2430	tratamiento diurético
+T42	PROCEDURE 2432 2447	anticoagulación
+T43	PROCEDURE 2450 2476	tratamiento betabloqueante
+T44	PROCEDURE 2621 2649	ecocardiograma transtorácico
+T45	PROCEDURE 2651 2679	ECOCARDIOGRAMA TRANSTORÁCICO
+T46	PROCEDURE 3868 3883	coronariografía
+T47	PROCEDURE 3968 3984	cirugía cardiaca
+T48	PROCEDURE 4155 4174	reparación valvular
+T49	PROCEDURE 4176 4227	implantándose prótesis mecánica tipo St. Jude no 29
+T50	PROCEDURE 1725 1735	Bioquímica
+T51	PROCEDURE 1891 1911	MARCADORES CARDIACOS
+T52	PROCEDURE 407 435	Intervenida de hallux valgus
+T53	PROCEDURE 1554 1563	ANALÍTICA
+T54	PROCEDURE 4645 4674	Diagnóstico anatomopatológico
+T55	PROCEDURE 3832 3855	intervención quirúrgica
+T56	PROCEDURE 1459 1482	Extremidades inferiores
+T57	SYMPTOM 100 106	disnea
+T58	SYMPTOM 541 547	disnea
+T59	SYMPTOM 583 596	palpitaciones
+T60	SYMPTOM 655 684	disnea de moderados esfuerzos
+T61	SYMPTOM 713 721	ortopnea
+T62	SYMPTOM 738 765	disnea paroxística nocturna
+T63	SYMPTOM 813 837	edemas en ambos tobillos
+T64	SYMPTOM 900 913	palpitaciones
+T65	SYMPTOM 921 927	fiebre
+T66	SYMPTOM 930 948	clínica infecciosa
+T67	SYMPTOM 991 1003	asintomática
+T68	SYMPTOM 1013 1033	buen estado de salud
+T69	SYMPTOM 1093 1098	soplo
+T70	SYMPTOM 1257 1264	Afebril
+T71	SYMPTOM 1266 1294	Ingurgitación venosa yugular
+T72	SYMPTOM 1296 1328	Auscultación cardiaca: arrítmica
+T73	SYMPTOM 1330 1352	soplo sistólico mitral
+T74	SYMPTOM 1391 1410	crepitantes en base
+T75	SYMPTOM 1429 1457	auscultación pulmonar normal
+T76	SYMPTOM 1484 1513	edemas con fóvea bimaleolares
+T77	SYMPTOM 1913 1937	troponina T y CPK normal
+T78	SYMPTOM 1943 1963	cambios en seriación
+T79	SYMPTOM 1987 2037	índice cardiotorácico en límite alto de normalidad
+T80	SYMPTOM 2681 2766	ventrículo izquierdo levemente dilatado (85 ml/cm2) con espesores parietales normales
+T81	SYMPTOM 2768 2817	Función sistólica global y segmentaria conservada
+T82	SYMPTOM 3495 3519	masa auricular izquierda
+T83	SYMPTOM 3568 3603	Vena cava inferior de tamaño normal
+T84	SYMPTOM 1832 1854	Perfil hepático normal
+T85	SYMPTOM 2067 2098	pinzamiento de senocostofrénico
+T86	SYMPTOM 2100 2118	Líquido en cisuras
+T87	SYMPTOM 3347 3396	Válvula aórtica anatómica y funcionalmente normal
+T88	SYMPTOM 3642 3719	Raíz aórtica, aorta ascendente y aorta abdominal infrarrenal de tamaño normal
+T89	SYMPTOM 4706 4724	Masa intracardiaca
+T90	SYMPTOM 3158 3193	Cavidades derechas de tamaño normal
+T91	SYMPTOM 3917 3949	arterias coronarias sin lesiones
+T92	SYMPTOM 3896 3914	dominancia derecha
+T93	SYMPTOM 1638 1652	fórmula normal
+T94	SYMPTOM 2872 2876	Masa
+#1	AnnotatorNotes T16	  hemibloqueo anterior izquierdo

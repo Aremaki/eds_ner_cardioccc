@@ -1,0 +1,121 @@
+T1	DISEASE 3168 3181	cardiomegalia
+T2	DISEASE 70 99	alergias conocidas a fármacos
+T3	DISEASE 143 153	dislipemia
+T4	DISEASE 155 180	diabetes meillitus tipo 2
+T5	DISEASE 182 203	hipertensión arterial
+T6	DISEASE 205 228	Miocardiopatía dilatada
+T7	DISEASE 514 543	movimento septoapical anómalo
+T8	DISEASE 597 626	Insuficiencia mitral moderada
+T9	DISEASE 628 649	Insuficiencia aórtica
+T10	DISEASE 745 778	Insuficiencia tricúspide moderada
+T11	DISEASE 839 877	Fibrilación auricular (FA) paroxística
+T12	DISEASE 862 864	FA
+T13	DISEASE 899 950	enfermedad pulmonar obstructiva crónica (EPOC) leve
+T14	DISEASE 940 944	EPOC
+T15	DISEASE 952 977	Hipotiroidismo subclínico
+T16	DISEASE 1501 1537	insuficiencia cardiaca descompensada
+T17	DISEASE 2370 2386	ascitis moderada
+T18	DISEASE 2714 2739	trombosis venosa profunda
+T19	DISEASE 2741 2744	TVP
+T20	DISEASE 2810 2829	bradicardia sinusal
+T21	DISEASE 2896 2939	trastorno de la conducción intraventricular
+T22	DISEASE 3050 3097	bloqueo completo de rama derecha del haz de His
+T23	DISEASE 3208 3233	derrame pleural bilateral
+T24	DISEASE 4438 4466	disfunción ventricular grave
+T25	DISEASE 4551 4580	Insuficiencia mitral moderada
+T26	DISEASE 4666 4687	Insuficiencia aórtica
+T27	DISEASE 4775 4831	Insuficiencia tricúspide moderada, dilatación del anillo
+T28	DISEASE 5048 5078	Insuficiencia mitral y aórtica
+T29	DISEASE 5301 5326	Insuficiencia tricuspídea
+T30	DISEASE 5495 5531	insuficiencia cardiaca descompensada
+T31	DISEASE 5697 5725	disfunción ventricular grave
+T32	DISEASE 5771 5815	insuficiencia mitral y tricuspídea moderadas
+T33	DISEASE 6241 6305	Miocardiopatía dilatada no isquémica, con disfunción grave de VI
+T34	DISEASE 6307 6377	Asincronía interventricular por trastorno de la conducción tipo no-BRI
+T35	DISEASE 4696 4722	VD de diámetros aumentados
+T36	DISEASE 5188 5229	Aurícula izquierda moderadamente dilatada
+T37	DISEASE 5737 5764	asincronía interventricular
+T38	DISEASE 827 829	HP
+T39	DISEASE 4334 4360	VI de diámetros aumentados
+T40	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T41	PROCEDURE 247 262	coronariografía
+T42	PROCEDURE 358 382	control ecocardiográfico
+T43	PROCEDURE 1007 1021	apendicectomía
+T44	PROCEDURE 1024 1038	amigdalectomía
+T45	PROCEDURE 2083 2101	Exploración física
+T46	PROCEDURE 2457 2478	Auscultación cardiaca
+T47	PROCEDURE 2532 2553	Auscultación pulmonar
+T48	PROCEDURE 2772 2790	Electrocardiograma
+T49	PROCEDURE 2792 2795	ECG
+T50	PROCEDURE 3099 3119	Radiografía de tórax
+T51	PROCEDURE 3256 3265	Hemograma
+T52	PROCEDURE 3637 3648	Coagulación
+T53	PROCEDURE 4285 4298	PCR SARS-CoV2
+T54	PROCEDURE 4309 4323	Ecocardiograma
+T55	PROCEDURE 5545 5566	tratamiento diurético
+T56	PROCEDURE 5659 5673	ecocardiograma
+T57	PROCEDURE 6081 6095	ecocardiograma
+T58	PROCEDURE 6379 6398	Implante de DAI-TRC
+T59	PROCEDURE 3780 3790	Bioquímica
+T60	PROCEDURE 3235 3244	Analítica
+T61	PROCEDURE 979 1005	Intervenciones quirúrgicas
+T62	PROCEDURE 2612 2631	Miembros inferiores
+T63	PROCEDURE 5901 5924	implante de dispositivo
+T64	SYMPTOM 384 446	ventrículo izquierdo (VI) con volúmenes ligeramente aumentados
+T65	SYMPTOM 449 498	moderada depresión de la función global sistólica
+T66	SYMPTOM 550 595	acinesia de todos los segmentos medioapicales
+T67	SYMPTOM 658 743	Ventrículo derecho (VD) de diámetros aumentados y función global sistólica conservada
+T68	SYMPTOM 1646 1687	disnea progresiva hasta hacerse de reposo
+T69	SYMPTOM 1703 1711	ortopnea
+T70	SYMPTOM 1729 1756	disnea paroxística nocturna
+T71	SYMPTOM 1804 1840	edematización de miembros inferiores
+T72	SYMPTOM 1843 1874	aumento del perímetro abdominal
+T73	SYMPTOM 1879 1893	dolor torácico
+T74	SYMPTOM 1910 1923	palpitaciones
+T75	SYMPTOM 1928 1934	fiebre
+T76	SYMPTOM 2227 2246	Buen estado general
+T77	SYMPTOM 2248 2258	Consciente
+T78	SYMPTOM 2261 2270	orientado
+T79	SYMPTOM 2272 2286	Normohidratado
+T80	SYMPTOM 2289 2303	normocoloreado
+T81	SYMPTOM 2305 2323	Eupneico en reposo
+T82	SYMPTOM 2325 2365	Abdomen: distendido, mate a la percusión
+T83	SYMPTOM 2388 2433	dolor a la palpación en hipocondrio izquierdo
+T84	SYMPTOM 2438 2443	masas
+T85	SYMPTOM 2447 2455	megalias
+T86	SYMPTOM 2480 2507	ruidos cardiacos arrítmicos
+T87	SYMPTOM 2524 2530	soplos
+T88	SYMPTOM 2555 2584	murmullo vesicular conservado
+T89	SYMPTOM 2589 2610	crepitantes bibasales
+T90	SYMPTOM 2633 2655	edemas tibiomaleolares
+T91	SYMPTOM 2666 2698	presión venosa yugular aumentada
+T92	SYMPTOM 3015 3024	QRS ancho
+T93	SYMPTOM 3131 3166	silueta cardiomediastínica centrada
+T94	SYMPTOM 3183 3206	redistribución vascular
+T95	SYMPTOM 4285 4307	PCR SARS-CoV2 negativa
+T96	SYMPTOM 4340 4396	diámetros aumentados con movimiento septo-apical anómalo
+T97	SYMPTOM 4399 4417	hipocinesia global
+T98	SYMPTOM 4530 4549	apertura conservada
+T99	SYMPTOM 4696 4773	VD de diámetros aumentados y función global sistólica moderadamente deprimida
+T100	SYMPTOM 5144 5186	aumento de presiones telediastólicas de VI
+T101	SYMPTOM 5231 5299	VD de diámetros aumentados y función sistólica ligeramente deprimida
+T102	SYMPTOM 5013 5040	depresión ligera de la FEVI
+T103	SYMPTOM 2840 2851	PR alargado
+T104	SYMPTOM 2860 2869	QRS ancho
+T105	SYMPTOM 4479 4509	Raíz aórtica de diámetro norma
+T106	SYMPTOM 4958 5008	VI de diámetros y volúmenes ligeramente aumentados
+T107	SYMPTOM 5364 5400	Vena cava inferior (VCI) no dilatada
+T108	SYMPTOM 1761 1794	disminución del ritmo de diuresis
+T109	SYMPTOM 1938 1959	semiología infecciosa
+T110	MEDICATION 1053 1060	eutirox
+T111	MEDICATION 1078 1091	atorvastatina
+T112	MEDICATION 1108 1119	pantoprazol
+T113	MEDICATION 1136 1146	salbutamol
+T114	MEDICATION 1158 1166	zolpidem
+T115	MEDICATION 1183 1192	nebivolol
+T116	MEDICATION 1210 1218	apixaban
+T117	MEDICATION 1281 1288	seguril
+T118	MEDICATION 1305 1319	dapagliflozina
+T119	MEDICATION 1336 1357	sacubitrilo/valsartán
+T120	MEDICATION 5623 5633	furosemida
+T121	MEDICATION 1254 1264	eplerenona

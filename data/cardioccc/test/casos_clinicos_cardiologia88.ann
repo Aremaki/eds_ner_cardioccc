@@ -1,0 +1,166 @@
+T1	ENFERMEDAD 77 100	alergias medicamentosas
+T2	ENFERMEDAD 151 172	hipertensión arterial
+T3	ENFERMEDAD 174 177	HTA
+T4	ENFERMEDAD 180 190	dislipemia
+T5	ENFERMEDAD 192 195	DLP
+T6	ENFERMEDAD 198 234	síndrome de apnea-hipopnea del sueño
+T7	ENFERMEDAD 236 240	SAHS
+T8	ENFERMEDAD 268 291	enfermedad diverticular
+T9	ENFERMEDAD 346 373	hallux valgus de ambos pies
+T10	ENFERMEDAD 388 401	pólipo rectal
+T11	ENFERMEDAD 818 840	insuficiencia cardiaca
+T12	ENFERMEDAD 1627 1640	cardiomegalia
+T13	ENFERMEDAD 1658 1677	derrame pericárdico
+T14	ENFERMEDAD 2024 2031	quistes
+T15	ENFERMEDAD 2337 2374	Insuficiencia aórtica ligera-moderada
+T16	ENFERMEDAD 2447 2462	Derrame pleural
+T17	ENFERMEDAD 2501 2520	derrame pericárdico
+T18	ENFERMEDAD 2749 2766	neoplasia maligna
+T19	ENFERMEDAD 2787 2810	sarcomatoso pericárdico
+T20	ENFERMEDAD 2855 2866	mesotelioma
+T21	ENFERMEDAD 2868 2875	linfoma
+T22	ENFERMEDAD 2877 2887	metástasis
+T23	ENFERMEDAD 3008 3055	Calcificaciones ganglionares traqueobronquiales
+T24	ENFERMEDAD 3144 3155	adenopatías
+T25	ENFERMEDAD 3189 3214	Derrame pleural bilateral
+T26	ENFERMEDAD 3268 3306	atelectasia pasiva del lóbulo inferior
+T27	ENFERMEDAD 3417 3435	Leve hepatomegalia
+T28	ENFERMEDAD 3482 3492	metástasis
+T29	ENFERMEDAD 3629 3703	neoplasia maligna de origen pericárdico con importante derrame pericárdico
+T30	ENFERMEDAD 3705 3730	Derrame pleural bilateral
+T31	ENFERMEDAD 3772 3797	atelectasia pasiva de LII
+T32	ENFERMEDAD 4456 4462	timoma
+T33	ENFERMEDAD 4609 4635	tumor primario pericárdico
+T34	ENFERMEDAD 4993 5010	timomas ectópicos
+T35	ENFERMEDAD 5092 5120	linfoma linfoblástico tipo T
+T36	ENFERMEDAD 5206 5212	timoma
+T37	ENFERMEDAD 5254 5273	derrame pericárdico
+T38	ENFERMEDAD 5613 5632	derrame pericárdico
+T39	ENFERMEDAD 6025 6064	neoplasia maligna de origen pericárdico
+T40	ENFERMEDAD 6150 6235	neoplasia maligna en pericardio anterior que se extendía a mediastino antero-superior
+T41	ENFERMEDAD 6470 6496	insuficiencia respiratoria
+T42	ENFERMEDAD 6517 6532	derrame pleural
+T43	ENFERMEDAD 6628 6634	timoma
+T44	ENFERMEDAD 6807 6833	tumor primario pericárdico
+T45	ENFERMEDAD 6999 7016	timomas ectópicos
+T46	ENFERMEDAD 7052 7080	linfoma linfoblástico tipo T
+T47	ENFERMEDAD 7100 7106	timoma
+T48	ENFERMEDAD 7166 7182	miastenia gravis
+T49	ENFERMEDAD 7768 7810	Timoma invasivo con afectación pericárdica
+T50	ENFERMEDAD 7825 7851	derrame pericárdico severo
+T51	ENFERMEDAD 2387 2389	IT
+T52	ENFERMEDAD 6102 6127	derrame pleural bilateral
+T53	ENFERMEDAD 7290 7295	tumor
+T54	ENFERMEDAD 327 344	neuroma de Morton
+T55	ENFERMEDAD 4930 4936	timoma
+T56	ENFERMEDAD 2261 2288	vena cava inferior dilatada
+T57	ENFERMEDAD 7420 7476	masa tumoral con infiltración de lóbulo superior derecho
+T58	ENFERMEDAD 2044 2052	necrosis
+T59	ENFERMEDAD 2891 2920	Aumento de tamaño de tiroides
+T60	ENFERMEDAD 3359 3376	Lesiones fibrosas
+T61	ENFERMEDAD 6080 6099	derrame pericárdico
+T62	ENFERMEDAD 6396 6434	masa cardiaca que infiltraba el pulmón
+T63	PROCEDIMIENTO 34 52	exploración física
+T64	PROCEDIMIENTO 245 265	tratamiento con CPAP
+T65	PROCEDIMIENTO 376 401	exéresis de pólipo rectal
+T66	PROCEDIMIENTO 991 1009	Exploración física
+T67	PROCEDIMIENTO 1161 1182	Auscultación cardiaca
+T68	PROCEDIMIENTO 1225 1246	Auscultación pulmonar
+T69	PROCEDIMIENTO 1354 1357	ECG
+T70	PROCEDIMIENTO 1534 1543	Hemograma
+T71	PROCEDIMIENTO 1605 1625	Radiografía de tórax
+T72	PROCEDIMIENTO 1642 1656	Ecocardiograma
+T73	PROCEDIMIENTO 2469 2488	TAC toracoabdominal
+T74	PROCEDIMIENTO 3799 3830	Análisis de líquido pericárdico
+T75	PROCEDIMIENTO 3897 3916	Análisis citológico
+T76	PROCEDIMIENTO 4083 4106	Análisis microbiológico
+T77	PROCEDIMIENTO 4224 4278	baciloscopia tras descontaminación (tinción: auramina)
+T78	PROCEDIMIENTO 4384 4391	Biopsia
+T79	PROCEDIMIENTO 4557 4560	TAC
+T80	PROCEDIMIENTO 5342 5391	pericardiocentesis evacuadora por vía subxifoidea
+T81	PROCEDIMIENTO 5675 5699	estudio de autoinmunidad
+T82	PROCEDIMIENTO 5725 5744	TAC toracoabdominal
+T83	PROCEDIMIENTO 5746 5766	radiografía de tórax
+T84	PROCEDIMIENTO 5769 5783	ecocardiograma
+T85	PROCEDIMIENTO 5881 5896	test de Mantoux
+T86	PROCEDIMIENTO 5902 5914	baciloscopia
+T87	PROCEDIMIENTO 5941 5965	estudio de autoinmunidad
+T88	PROCEDIMIENTO 5981 6000	TAC toracoabdominal
+T89	PROCEDIMIENTO 6322 6358	mediastinoscopia con toma de biopsia
+T90	PROCEDIMIENTO 6556 6581	toracocentesis evacuadora
+T91	PROCEDIMIENTO 6609 6616	biopsia
+T92	PROCEDIMIENTO 6766 6769	TAC
+T93	PROCEDIMIENTO 6776 6792	cirugía torácica
+T94	PROCEDIMIENTO 7274 7295	extirpación del tumor
+T95	PROCEDIMIENTO 7310 7359	esternotomía media y acceso a mediastino anterior
+T96	PROCEDIMIENTO 7721 7730	analgesia
+T97	PROCEDIMIENTO 1408 1427	Analítica sanguínea
+T98	PROCEDIMIENTO 4298 4338	PCR a Mycobacterium tuberculosis complex
+T99	PROCEDIMIENTO 5645 5673	analítica sanguínea completa
+T100	PROCEDIMIENTO 1518 1523	iones
+T101	PROCEDIMIENTO 6747 6764	pruebas de imagen
+T102	PROCEDIMIENTO 311 373	intervención de neuroma de Morton, hallux valgus de ambos pies
+T103	PROCEDIMIENTO 1429 1446	enzimas cardiacas
+T104	PROCEDIMIENTO 1457 1473	función tiroidea
+T105	PROCEDIMIENTO 3832 3851	análisis bioquímico
+T106	PROCEDIMIENTO 4148 4204	baciloscopia de muestra directa (tinción: Ziehl-Nielsen)
+T107	PROCEDIMIENTO 4349 4372	cultivo de micobacteria
+T108	PROCEDIMIENTO 5701 5708	Mantoux
+T109	PROCEDIMIENTO 5710 5723	baciloscopias
+T110	PROCEDIMIENTO 5821 5837	función tiroidea
+T111	PROCEDIMIENTO 7155 7182	estudio de miastenia gravis
+T112	PROCEDIMIENTO 5447 5457	bioquímica
+T113	PROCEDIMIENTO 5459 5472	microbiología
+T114	PROCEDIMIENTO 5475 5494	anatomía patológica
+T115	PROCEDIMIENTO 7520 7529	disección
+T116	PROCEDIMIENTO 930 939	diurético
+T117	PROCEDIMIENTO 1273 1296	Extremidades inferiores
+T118	SINTOMA 526 555	disnea de moderados esfuerzos
+T119	SINTOMA 581 589	ortopnea
+T120	SINTOMA 591 620	dolor en región esternal baja
+T121	SINTOMA 639 657	cortejo vegetativo
+T122	SINTOMA 693 716	edemas crónicos en EEII
+T123	SINTOMA 1097 1128	Ingurgitación yugular bilateral
+T124	SINTOMA 1161 1191	Auscultación cardiaca: rítmica
+T125	SINTOMA 1248 1271	hipoventilación bibasal
+T126	SINTOMA 1298 1327	edemas maleolares bilaterales
+T127	SINTOMA 1359 1372	ritmo sinusal
+T128	SINTOMA 1386 1406	voltajes disminuidos
+T129	SINTOMA 1429 1455	enzimas cardiacas normales
+T130	SINTOMA 1457 1480	función tiroidea normal
+T131	SINTOMA 2326 2335	VI normal
+T132	SINTOMA 2376 2385	VD normal
+T133	SINTOMA 2603 2641	masa dependiente de hojas pericárdicas
+T134	SINTOMA 3333 3346	masa pulmonar
+T135	SINTOMA 4108 4146	cultivo aerobios y anaerobios negativo
+T136	SINTOMA 4298 4347	PCR a Mycobacterium tuberculosis complex negativo
+T137	SINTOMA 4349 4382	cultivo de micobacterias negativo
+T138	SINTOMA 4509 4536	masa en mediastino anterior
+T139	SINTOMA 5941 5976	estudio de autoinmunidad fue normal
+T140	SINTOMA 7745 7753	falleció
+T141	SINTOMA 1518 1532	iones normales
+T142	SINTOMA 6962 6974	masas tímica
+T143	SINTOMA 1130 1151	Reflujo hepatoyugular
+T144	SINTOMA 2196 2206	colapso AD
+T145	SINTOMA 3494 3526	Riñones y suprarrenales normales
+T146	SINTOMA 4640 4668	abombamiento del mediastino,
+T147	SINTOMA 4731 4784	marcadores mesoteliales (calretinina y WT1) negativos
+T148	SINTOMA 4957 4968	masa tímica
+T149	SINTOMA 6396 6409	masa cardiaca
+T150	SINTOMA 1153 1156	RHY
+T151	SINTOMA 2171 2194	compromiso hemodinámico
+T152	SINTOMA 5278 5301	compromiso hemodinámico
+T153	SINTOMA 1571 1603	series roja y plaquetas normales
+T154	SINTOMA 1989 1993	masa
+T155	SINTOMA 3528 3603	Bazo, páncreas, vesícula biliar y vías biliares sin alteraciones reseñables
+T156	SINTOMA 4190 4222	Ziehl-Nielsen) sin observar BAAR
+T157	SINTOMA 4269 4296	auramina) sin observar BAAR
+T158	SINTOMA 5342 5426	pericardiocentesis evacuadora por vía subxifoidea con salida de líquido serohemático
+T159	SINTOMA 5889 5935	Mantoux y la baciloscopia resultaron negativas
+T160	FARMACO 426 435	enalapril
+T161	FARMACO 437 445	estatina
+T162	FARMACO 448 457	omeprazol
+#1	AnnotatorNotes T3	 HTA: hipertensión arterial
+#2	AnnotatorNotes T5	 DLP: dislipemia
+#3	AnnotatorNotes T7	 SAHS: síndrome de apnea-hipopnea del sueño
+#4	AnnotatorNotes T51	 IT: insuficiencia tricuspídea

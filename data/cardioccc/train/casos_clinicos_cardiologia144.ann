@@ -1,0 +1,114 @@
+T1	DISEASE 169 190	hipertensión arterial
+T2	DISEASE 241 251	dislipemia
+T3	DISEASE 253 264	amigdalitis
+T4	DISEASE 294 319	hipoacusia bilateral leve
+T5	DISEASE 347 369	herpes zoster torácico
+T6	DISEASE 398 425	insuficiencia renal crónica
+T7	DISEASE 538 559	edema agudo de pulmón
+T8	DISEASE 575 594	insuficiencia renal
+T9	DISEASE 802 854	ventrículo izquierdo (VI) con hipertrofia excéntrica
+T10	DISEASE 1118 1142	dilatación biventricular
+T11	DISEASE 1145 1183	disfunción severa de ambos ventrículos
+T12	DISEASE 1289 1339	extremidad superior derecha, fístula arteriovenosa
+T13	DISEASE 1542 1564	insuficiencia cardiaca
+T14	DISEASE 1998 2004	anemia
+T15	DISEASE 2199 2219	cardiomegalia severa
+T16	DISEASE 2317 2325	varicela
+T17	DISEASE 2690 2724	Insuficiencia mitral (IM) moderada
+T18	DISEASE 2726 2762	Insuficiencia tricúspide (IT) severa
+T19	DISEASE 2896 2922	Derrame pericárdico severo
+T20	DISEASE 3408 3415	ascitis
+T21	DISEASE 3418 3435	hígado de estasis
+T22	DISEASE 3463 3485	insuficiencia cardiaca
+T23	DISEASE 3983 3994	hipovolemia
+T24	DISEASE 4547 4560	cardiomegalia
+T25	DISEASE 5592 5611	derrame pericárdico
+T26	DISEASE 5628 5649	Síndrome cardiorrenal
+T27	DISEASE 5698 5720	disfunción ventricular
+T28	DISEASE 1720 1733	Hepatomegalia
+T29	DISEASE 5547 5549	IM
+T30	DISEASE 4716 4718	IT
+T31	DISEASE 5551 5553	IT
+T32	DISEASE 4268 4281	cardiomegalia
+T33	DISEASE 2247 2272	derrame pleural bilateral
+T34	DISEASE 3368 3406	derrame pleural bilateral, pericárdico
+T35	DISEASE 3999 4010	hipotensión
+T36	DISEASE 1845 1869	hipoperfusión periférica
+T37	DISEASE 2304 2315	hepatitis A
+T38	DISEASE 2334 2347	herpes simple
+T39	DISEASE 2427 2450	VI severamente dilatado
+T40	DISEASE 2613 2659	Ventrículo derecho (VD) moderadamente dilatado
+T41	DISEASE 2752 2754	IT
+T42	DISEASE 2712 2714	IM
+T43	DISEASE 2764 2815	Venas suprahepáticas y vena cava inferior dilatadas
+T44	DISEASE 3068 3091	VI severamente dilatado
+T45	DISEASE 3756 3792	dilatación y disfunción severa de VD
+T46	DISEASE 4148 4165	episodio catarral
+T47	DISEASE 5032 5064	hipertrofia concéntrica moderada
+T48	DISEASE 5081 5101	VD ligera dilatación
+T49	PROCEDURE 278 292	antibioterapia
+T50	PROCEDURE 665 677	hemodiálisis
+T51	PROCEDURE 719 747	ecocardiograma transtorácico
+T52	PROCEDURE 941 953	hemodiálisis
+T53	PROCEDURE 1009 1041	trasplante renal de donante vivo
+T54	PROCEDURE 1046 1060	ecocardiograma
+T55	PROCEDURE 2056 2059	ECG
+T56	PROCEDURE 2178 2197	Radiología de tórax
+T57	PROCEDURE 2383 2411	Ecocardiograma transtorácico
+T58	PROCEDURE 2413 2416	ETT
+T59	PROCEDURE 2964 2979	Coronariografía
+T60	PROCEDURE 3050 3066	Ventriculografía
+T61	PROCEDURE 3141 3160	Cateterismo derecho
+T62	PROCEDURE 3347 3366	TAC toracoabdominal
+T63	PROCEDURE 3569 3581	hemodiálisis
+T64	PROCEDURE 3881 3904	trasplante cardiorrenal
+T65	PROCEDURE 4061 4073	hemodiálisis
+T66	PROCEDURE 4218 4238	radiografía de tórax
+T67	PROCEDURE 4308 4311	ETT
+T68	PROCEDURE 4473 4483	trasplante
+T69	PROCEDURE 4620 4623	ETT
+T70	PROCEDURE 4828 4844	trasplante renal
+T71	PROCEDURE 4971 4974	ETT
+T72	PROCEDURE 5395 5398	ETT
+T73	PROCEDURE 5675 5691	trasplante renal
+T74	PROCEDURE 2276 2285	Serología
+T75	PROCEDURE 1609 1621	auscultación
+T76	PROCEDURE 4920 4938	drogas inotrópicas
+T77	PROCEDURE 1898 1907	Analítica
+T78	SYMPTOM 857 899	función sistólica biventricular conservada
+T79	SYMPTOM 1199 1222	intensa palidez cutánea
+T80	SYMPTOM 1224 1251	subictericia cutáneo mucosa
+T81	SYMPTOM 1253 1260	Afebril
+T82	SYMPTOM 1432 1459	disnea paroxística nocturna
+T83	SYMPTOM 1461 1476	tos en decúbito
+T84	SYMPTOM 1479 1487	ortopnea
+T85	SYMPTOM 1622 1657	tonos rítmicos a 90 lpm, con galope
+T86	SYMPTOM 1660 1690	soplo sistólico en foco mitral
+T87	SYMPTOM 1692 1718	Normoventilación bilateral
+T88	SYMPTOM 1720 1782	Hepatomegalia de 1-2 traveses de dedo, dolorosa a la palpación
+T89	SYMPTOM 1784 1811	Edemas maleolares con fóvea
+T90	SYMPTOM 1816 1833	soplos carotídeos
+T91	SYMPTOM 2073 2086	ritmo sinusal
+T92	SYMPTOM 2091 2124	crecimiento ventricular izquierdo
+T93	SYMPTOM 2127 2174	alteraciones inespecíficas de la repolarización
+T94	SYMPTOM 2276 2379	Serología: positiva a virus hepatitis A, varicela-zoster, herpes simple, citomegalovirus y Ebstein-Barr
+T95	SYMPTOM 2484 2509	hipocontractilidad global
+T96	SYMPTOM 4170 4185	síndrome febril
+T97	SYMPTOM 4680 4698	hipocinesia global
+T98	SYMPTOM 2221 2244	Redistribución vascular
+T99	SYMPTOM 2937 2960	compromiso hemodinámico
+T100	SYMPTOM 761 800	cavidades cardiacas de dimensión normal
+T101	SYMPTOM 2595 2611	precarga elevada
+T102	SYMPTOM 2633 2688	VD) moderadamente dilatado y francamente hipocontráctil
+T103	SYMPTOM 2981 3002	árbol coronario libre
+T104	SYMPTOM 4953 4966	fracaso de VI
+T105	SYMPTOM 5081 5119	VD ligera dilatación y normocontráctil
+T106	SYMPTOM 5420 5451	VI no dilatado ni hipertrofiado
+T107	SYMPTOM 5456 5507	excelente función sistólica (FEVI 71%) y diastólica
+T108	SYMPTOM 5509 5541	VD normal en dimensión y función
+T109	MEDICATION 229 239	amlodipino
+#1	AnnotatorNotes T29	 insuficiencia mitral
+#2	AnnotatorNotes T30	 insuficiencia tricuspide
+#3	AnnotatorNotes T31	 insuficiencia tricuspide
+#4	AnnotatorNotes T41	 insuficiencia tricuspide
+#5	AnnotatorNotes T42	 insuficiencia mitral

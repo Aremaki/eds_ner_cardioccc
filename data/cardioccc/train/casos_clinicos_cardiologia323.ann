@@ -1,0 +1,103 @@
+T1	DISEASE 106 132	Síndrome ansioso-depresivo
+T2	DISEASE 605 623	clínica infecciosa
+T3	DISEASE 1638 1653	derrame pleural
+T4	DISEASE 2033 2078	oclusión trombótica de la arteria circunfleja
+T5	DISEASE 2149 2166	lesión trombótica
+T6	DISEASE 2327 2348	trombo intracoronario
+T7	DISEASE 2917 2948	disfunción ventricular moderada
+T8	DISEASE 3014 3027	valvulopatías
+T9	DISEASE 3044 3069	Insuficiencia tricuspídea
+T10	DISEASE 3558 3580	insuficiencia cardiaca
+T11	DISEASE 3621 3644	arritmias ventriculares
+T12	DISEASE 4087 4115	Disfunción ventricular grave
+T13	DISEASE 4499 4524	Derrame pericárdico grave
+T14	DISEASE 5154 5234	Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) inferolateral
+T15	DISEASE 5245 5329	Enfermedad grave de un vaso: arteria circunfleja con aneurisma y oclusión trombótica
+T16	DISEASE 5358 5386	Disfunción ventricular grave
+T17	DISEASE 5388 5416	Pericarditis epistenocárdica
+T18	DISEASE 5418 5469	Derrame pericárdico grave con taponamiento cardiaco
+T19	DISEASE 24 39	Hábitos tóxicos
+T20	DISEASE 5212 5219	IAMCEST
+T21	DISEASE 41 48	fumador
+T22	DISEASE 2423 2429	trombo
+T23	DISEASE 2059 2135	arteria circunfleja (ACx), inmediatamente distal a un segmento aneurismático
+T24	DISEASE 2594 2619	alto contenido trombótico
+T25	DISEASE 3155 3195	Leve despegamiento de hojas pericárdicas
+T26	DISEASE 4205 4270	Ventrículo derecho (VD) de tamaño normal con disfunción sistólica
+T27	PROCEDURE 722 740	electrocardiograma
+T28	PROCEDURE 1123 1141	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 1249 1270	Auscultación cardiaca
+T30	PROCEDURE 1293 1314	Auscultación pulmonar
+T31	PROCEDURE 1444 1462	Electrocardiograma
+T32	PROCEDURE 1464 1467	ECG
+T33	PROCEDURE 1581 1601	Radiografía de tórax
+T34	PROCEDURE 2016 2031	Coronariografía
+T35	PROCEDURE 2137 2195	Se cruzó la lesión trombótica con una guía de angioplastia
+T36	PROCEDURE 2384 2400	tromboaspiración
+T37	PROCEDURE 2543 2559	tromboaspiración
+T38	PROCEDURE 2562 2584	angioplastia con balón
+T39	PROCEDURE 2661 2681	doble antiagregación
+T40	PROCEDURE 2720 2735	anticoagulación
+T41	PROCEDURE 2774 2788	Ecocardiograma
+T42	PROCEDURE 2794 2805	cateterismo
+T43	PROCEDURE 3266 3269	ECG
+T44	PROCEDURE 3588 3602	monitorización
+T45	PROCEDURE 3878 3892	ecocardiograma
+T46	PROCEDURE 4960 4974	ecocardiograma
+T47	PROCEDURE 4987 5005	pericardiocentesis
+T48	PROCEDURE 5331 5347	Tromboaspiración
+T49	PROCEDURE 5471 5500	Pericardiocentesis evacuadora
+T50	PROCEDURE 3799 3823	reactantes de fase aguda
+T51	PROCEDURE 4839 4862	Se administra contraste
+T52	PROCEDURE 1690 1699	Analítica
+T53	PROCEDURE 3830 3839	analítica
+T54	PROCEDURE 2631 2655	abciximab intracoronario
+T55	SYMPTOM 226 328	dolor torácico de 8 horas de evolución, opresivo, irradiado a miembro superior izquierdo y a mandíbula
+T56	SYMPTOM 340 345	dolor
+T57	SYMPTOM 530 544	dolor torácico
+T58	SYMPTOM 753 766	ritmo sinusal
+T59	SYMPTOM 780 832	elevación del segmento ST en derivaciones inferiores
+T60	SYMPTOM 997 1005	sudoroso
+T61	SYMPTOM 1011 1033	regular estado general
+T62	SYMPTOM 1052 1066	dolor torácico
+T63	SYMPTOM 1076 1110	alteraciones electrocardiográficas
+T64	SYMPTOM 1225 1247	Regular estado general
+T65	SYMPTOM 1249 1279	Auscultación cardiaca: rítmico
+T66	SYMPTOM 1285 1291	soplos
+T67	SYMPTOM 1316 1345	murmullo vesicular conservado
+T68	SYMPTOM 1350 1370	ruidos sobreañadidos
+T69	SYMPTOM 1470 1483	ritmo sinusal
+T70	SYMPTOM 1506 1518	QRS estrecho
+T71	SYMPTOM 1520 1530	Eje normal
+T72	SYMPTOM 1532 1579	Elevación del segmento ST II, III, aVF, V5 y V6
+T73	SYMPTOM 1603 1633	ICT en límite de la normalidad
+T74	SYMPTOM 2807 2896	ventrículo izquierdo de tamaño normal con aquinesia inferior e hipoquinesia inferolateral
+T75	SYMPTOM 2961 2972	FEVD normal
+T76	SYMPTOM 2974 3000	Aurículas de tamaño normal
+T77	SYMPTOM 3197 3227	Cava inferior de tamaño normal
+T78	SYMPTOM 3279 3292	ritmo sinusal
+T79	SYMPTOM 3303 3312	PR normal
+T80	SYMPTOM 3531 3545	dolor torácico
+T81	SYMPTOM 3678 3692	dolor torácico
+T82	SYMPTOM 3786 3823	elevación de reactantes de fase aguda
+T83	SYMPTOM 4205 4245	Ventrículo derecho (VD) de tamaño normal
+T84	SYMPTOM 4279 4305	Aurículas de tamaño normal
+T85	SYMPTOM 4352 4394	Válvula mitral de aspecto y función normal
+T86	SYMPTOM 5185 5210	elevación del segmento ST
+T87	SYMPTOM 3314 3336	Onda Q en II,III y AVF
+T88	SYMPTOM 3361 3420	infradesnivelación del ST en dichas derivaciones y en V5-V6
+T89	SYMPTOM 4128 4156	Aquinesia lateral e inferior
+T90	SYMPTOM 4159 4176	hipocinesia grave
+T91	SYMPTOM 4311 4350	aurícula derecha con colapso diastólico
+T92	SYMPTOM 4396 4433	Válvula aórtica anatómicamente normal
+T93	SYMPTOM 1658 1675	datos congestivos
+T94	SYMPTOM 2477 2509	rama marginal permaneció ocluida
+T95	SYMPTOM 4635 4689	Vena cava inferior (VCI) en el límite de la dilatación
+T96	SYMPTOM 4814 4837	compromiso hemodinámico
+T97	SYMPTOM 4987 5052	pericardiocentesis con extraccXSión de abundante líquido hemático
+T98	MEDICATION 156 166	fluoxetina
+T99	MEDICATION 859 881	ácido acetilsalicílico
+T100	MEDICATION 883 886	AAS
+T101	MEDICATION 900 910	ticagrelor
+T102	MEDICATION 2631 2640	abciximab
+T103	MEDICATION 2740 2751	enoxaparina

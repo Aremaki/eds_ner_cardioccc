@@ -1,0 +1,79 @@
+T1	DISEASE 100 123	alergias medicamentosas
+T2	DISEASE 163 181	consumo de tóxicos
+T3	DISEASE 202 223	cardiopatía isquémica
+T4	DISEASE 411 429	cuadro presincopal
+T5	DISEASE 848 916	oclusión crónica de ambas arterias radiales y ambas arterias ilíacas
+T6	DISEASE 1329 1361	disfunción ventricular izquierda
+T7	DISEASE 1564 1585	oclusiones vasculares
+T8	DISEASE 1744 1806	estenosis grave a nivel próximo-medial de descendente anterior
+T9	DISEASE 1933 1965	oclusiones de troncos arteriales
+T10	DISEASE 1982 2009	vasculitis de grandes vasos
+T11	DISEASE 2024 2046	enfermedad de Takayasu
+T12	DISEASE 3142 3175	aneurisma anterior y septal medio
+T13	DISEASE 3278 3303	Leve insuficiencia mitral
+T14	DISEASE 3348 3391	estenosis de tronco braquiocefálico derecho
+T15	DISEASE 3403 3444	Estenosis de la arteria subclavia derecha
+T16	DISEASE 3604 3665	Ateromatosis en cayado aórtico y arteria torácica descendente
+T17	DISEASE 3667 3734	Obstrucción completa de luz vascular en aorta abdominal infrarrenal
+T18	DISEASE 3846 3885	estenosis grave en descendente anterior
+T19	DISEASE 4279 4322	Infarto agudo de miocardio (IAM) Q anterior
+T20	DISEASE 4324 4346	Enfermedad de Takayasu
+T21	DISEASE 2774 2789	DAÑO MIOCÁRDICO
+T22	DISEASE 4176 4196	disfunción sistólica
+T23	DISEASE 3943 3955	ateromatosis
+T24	DISEASE 3503 3552	tronco común izquierdo que se encuentra obstruido
+T25	PROCEDURE 442 460	electrocardiograma
+T26	PROCEDURE 462 465	ECG
+T27	PROCEDURE 656 676	doble antiagregación
+T28	PROCEDURE 733 748	coronariografía
+T29	PROCEDURE 970 997	intervencionismo percutáneo
+T30	PROCEDURE 1030 1042	fibrinólisis
+T31	PROCEDURE 1146 1158	fibrinolisis
+T32	PROCEDURE 1233 1272	monitorización no invasiva y periférica
+T33	PROCEDURE 1299 1313	ecocardiograma
+T34	PROCEDURE 1527 1535	angio-TC
+T35	PROCEDURE 1619 1703	radiología intervencionista acceso vascular a nivel de tronco braquicefálico derecho
+T36	PROCEDURE 1716 1731	coronariografía
+T37	PROCEDURE 1786 1848	descendente anterior, donde se implanta un stent farmacoactivo
+T38	PROCEDURE 2152 2170	EXPLORACIÓN FISICA
+T39	PROCEDURE 2297 2318	Auscultación cardiaca
+T40	PROCEDURE 2748 2758	serologías
+T41	PROCEDURE 2860 2863	ECG
+T42	PROCEDURE 2970 2973	ECG
+T43	PROCEDURE 3057 3071	ECOCARDIOGRAMA
+T44	PROCEDURE 3305 3346	ANGIO-TC de aorta y troncos supraaórticos
+T45	PROCEDURE 3829 3844	CORONARIOGRAFÍA
+T46	PROCEDURE 2535 2559	ESTUDIO DE AUTOINMUNIDAD
+T47	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 2760 2789	MARCADORES DE DAÑO MIOCÁRDICO
+T49	PROCEDURE 678 705	se activa el código infarto
+T50	PROCEDURE 807 846	canalizar un acceso arterial periférico
+T51	SYMPTOM 347 366	dolor retroesternal
+T52	SYMPTOM 378 398	vómitos alimenticios
+T53	SYMPTOM 2297 2327	Auscultación cardiaca: rítmica
+T54	SYMPTOM 2332 2368	soplo sistólico II/VI en foco mitral
+T55	SYMPTOM 2390 2424	soplo a nivel de arteria subclavia
+T56	SYMPTOM 2434 2468	Extremidades inferiores: no edemas
+T57	SYMPTOM 2483 2508	pulsos pedios ni tibiales
+T58	SYMPTOM 2876 2878	RS
+T59	SYMPTOM 2885 2935	Supradesnivelación del ST 6-7 mm en V2-V6, I y aVL
+T60	SYMPTOM 2937 2969	Descenso del ST en cara inferior
+T61	SYMPTOM 2970 2985	ECG al alta: RS
+T62	SYMPTOM 2996 3020	Onda Q en V1-V3, I y aVL
+T63	SYMPTOM 3022 3055	Onda T negativa en V2-V6, I y aVL
+T64	SYMPTOM 488 539	supradesnivelación del segmento ST en cara anterior
+T65	SYMPTOM 1377 1417	acinesia de todos los segmentos apicales
+T66	SYMPTOM 1420 1502	hipocinesia grave de segmentos anterior basal y medio y anteroseptal basal y medio
+T67	SYMPTOM 2604 2701	ANAs, ENAs, antiDNA, factor reumatoide, anticardiolipina, anticoagulante lúpico, ANCAs: negativos
+T68	SYMPTOM 3081 3126	moderada depresión de la fracción de eyección
+T69	SYMPTOM 4176 4220	disfunción sistólica moderadamente deprimida
+T70	SYMPTOM 4019 4063	Coronaria derecha y circunfleja sin lesiones
+T71	SYMPTOM 234 247	muerte súbita
+T72	SYMPTOM 1196 1228	cifras bajas de tensión arterial
+T73	SYMPTOM 2722 2758	negativas las principales serologías
+T74	MEDICATION 577 599	ácido acetilsalicílico
+T75	MEDICATION 601 604	AAS
+T76	MEDICATION 615 625	ticagrelor
+T77	MEDICATION 2086 2101	metilprednisona
+T78	MEDICATION 2119 2133	ciclofosfamida
+T79	MEDICATION 1047 1059	tenecteplasa

@@ -1,0 +1,110 @@
+T1	ENFERMEDAD 83 90	síncope
+T2	ENFERMEDAD 95 122	bloqueo auriculoventricular
+T3	ENFERMEDAD 124 127	BAV
+T4	ENFERMEDAD 243 266	alergias medicamentosas
+T5	ENFERMEDAD 309 321	cardiopatías
+T6	ENFERMEDAD 351 366	hábitos tóxicos
+T7	ENFERMEDAD 447 484	Citopatía mitocondrial fenotipo MELAS
+T8	ENFERMEDAD 528 556	sordera neurosensorial grave
+T9	ENFERMEDAD 589 597	miopatía
+T10	ENFERMEDAD 655 677	crisis comicial tónica
+T11	ENFERMEDAD 724 736	Hiponatremia
+T12	ENFERMEDAD 748 771	Bloqueo de rama derecha
+T13	ENFERMEDAD 1075 1092	hipoacusia severa
+T14	ENFERMEDAD 1401 1404	BAV
+T15	ENFERMEDAD 1445 1470	bloqueo de rama izquierda
+T16	ENFERMEDAD 2254 2257	BAV
+T17	ENFERMEDAD 2755 2777	insuficiencia cardiaca
+T18	ENFERMEDAD 2781 2796	derrame pleural
+T19	ENFERMEDAD 3479 3492	valvulopatías
+T20	ENFERMEDAD 3509 3530	Hipertensión pulmonar
+T21	ENFERMEDAD 3633 3650	síndrome de MELAS
+T22	ENFERMEDAD 3667 3670	BAV
+T23	ENFERMEDAD 3827 3861	vía accesoria fasciculoventricular
+T24	ENFERMEDAD 3945 3973	hipertrofia ventricular leve
+T25	ENFERMEDAD 4179 4202	enfermedad mitocondrial
+T26	ENFERMEDAD 4488 4501	bradiarritmia
+T27	ENFERMEDAD 4814 4882	preexcitación ventricular por una vía accesoria fasciculoventricular
+T28	ENFERMEDAD 4947 4950	BAV
+T29	ENFERMEDAD 4953 4970	Síndrome de MELAS
+T30	ENFERMEDAD 5012 5027	lactic acidosis
+T31	ENFERMEDAD 4732 4742	Bloqueo AV
+T32	ENFERMEDAD 774 804	hemibloqueo anterior izquierdo
+T33	ENFERMEDAD 3357 3416	ventrículo izquierdo no dilatado, ligeramente hipertrofiado
+T34	ENFERMEDAD 4972 4994	mitochondrial myopathy
+T35	ENFERMEDAD 4996 5010	encephalopathy
+T36	ENFERMEDAD 5033 5039	stroke
+T37	ENFERMEDAD 325 338	muerte súbita
+T38	ENFERMEDAD 3765 3788	trastorno de conducción
+T39	ENFERMEDAD 2558 2571	preexcitación
+T40	ENFERMEDAD 3726 3739	preexcitación
+T41	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDIMIENTO 699 702	TAC
+T43	PROCEDIMIENTO 834 849	colecistectomía
+T44	PROCEDIMIENTO 859 873	apendicectomía
+T45	PROCEDIMIENTO 1029 1038	Anamnesis
+T46	PROCEDIMIENTO 1544 1547	ECG
+T47	PROCEDIMIENTO 1719 1737	Exploración física
+T48	PROCEDIMIENTO 2177 2180	ECG
+T49	PROCEDIMIENTO 2428 2431	ECG
+T50	PROCEDIMIENTO 2592 2628	Radiografía de tórax posteroanterior
+T51	PROCEDIMIENTO 2798 2817	Analítica sanguínea
+T52	PROCEDIMIENTO 2978 2987	Hemograma
+T53	PROCEDIMIENTO 3103 3120	Gasometría venosa
+T54	PROCEDIMIENTO 3211 3230	Analítica sanguínea
+T55	PROCEDIMIENTO 3327 3355	Ecocardiograma transtorácico
+T56	PROCEDIMIENTO 3922 3936	ecocardiograma
+T57	PROCEDIMIENTO 4536 4568	implante de marcapasos bicameral
+T58	PROCEDIMIENTO 4309 4342	implante de marcapasos definitivo
+T59	PROCEDIMIENTO 4283 4297	monitorización
+T60	PROCEDIMIENTO 2108 2117	palpación
+T61	PROCEDIMIENTO 806 832	Intervenciones quirúrgicas
+T62	SINTOMA 1066 1072	afasia
+T63	SINTOMA 1159 1166	palidez
+T64	SINTOMA 1171 1181	sudoración
+T65	SINTOMA 1184 1191	náuseas
+T66	SINTOMA 1226 1231	mareo
+T67	SINTOMA 1254 1286	pérdida del nivel de consciencia
+T68	SINTOMA 1551 1564	ritmo sinusal
+T69	SINTOMA 1591 1605	dolor torácico
+T70	SINTOMA 1607 1620	palpitaciones
+T71	SINTOMA 1622 1628	disnea
+T72	SINTOMA 1833 1843	Consciente
+T73	SINTOMA 1846 1855	orientada
+T74	SINTOMA 1884 1898	Tonos rítmicos
+T75	SINTOMA 1904 1910	soplos
+T76	SINTOMA 1914 1919	roces
+T77	SINTOMA 1921 1938	Pulsos simétricos
+T78	SINTOMA 1943 1964	ingurgitación yugular
+T79	SINTOMA 1969 1975	edemas
+T80	SINTOMA 1977 2008	Buena entrada de aire bilateral
+T81	SINTOMA 2014 2034	ruidos sobreañadidos
+T82	SINTOMA 2036 2050	Abdomen blando
+T83	SINTOMA 2059 2089	distensión a nivel epigástrico
+T84	SINTOMA 2094 2117	doloroso a la palpación
+T85	SINTOMA 2119 2143	Peristaltismo conservado
+T86	SINTOMA 2462 2475	ritmo sinusal
+T87	SINTOMA 3443 3473	función sistodiastólica normal
+T88	SINTOMA 3978 4002	PSAP ligeramente elevada
+T89	SINTOMA 4089 4097	acidosis
+T90	SINTOMA 4128 4155	lactato ligeramente elevado
+T91	SINTOMA 4429 4442	ritmo sinusal
+T92	SINTOMA 3566 3591	Ventrículo derecho normal
+T93	SINTOMA 407 416	Normopeso
+T94	SINTOMA 1525 1537	asintomática
+T95	SINTOMA 4396 4408	asintomática
+T96	SINTOMA 2700 2740	condensaciones en el parénquima pulmonar
+T97	SINTOMA 1861 1882	focalidad neurológica
+T98	SINTOMA 2368 2426	onda delta negativa en V1, positiva en V3-V6, II, III, aVF
+T99	SINTOMA 2671 2694	silueta cardiaca normal
+T100	SINTOMA 699 722	TAC sin nuevas lesiones
+T101	SINTOMA 3357 3389	ventrículo izquierdo no dilatado
+T102	SINTOMA 3688 3696	sincopal
+T103	SINTOMA 4204 4237	lactatos previos siempre elevados
+T104	SINTOMA 4760 4768	sincopal
+T105	FARMACO 618 627	valproato
+T106	FARMACO 630 642	fenobarbital
+T107	FARMACO 911 920	valproato
+T108	FARMACO 935 947	fenobarbital
+T109	FARMACO 961 971	ubiquinona
+T110	FARMACO 986 995	lorazepam

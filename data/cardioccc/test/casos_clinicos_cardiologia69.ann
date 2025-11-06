@@ -1,0 +1,140 @@
+T1	ENFERMEDAD 103 129	parada cardiorrespiratoria
+T2	ENFERMEDAD 191 215	diabetes mellitus tipo 2
+T3	ENFERMEDAD 217 238	hipertensión arterial
+T4	ENFERMEDAD 240 250	dislipemia
+T5	ENFERMEDAD 290 294	gota
+T6	ENFERMEDAD 469 490	cardiopatía isquémica
+T7	ENFERMEDAD 699 725	parada cardiorrespiratoria
+T8	ENFERMEDAD 1549 1595	oclusión de la arteria circunfleja (CX) ostial
+T9	ENFERMEDAD 1693 1762	estenosis severa en el segmento medio de la arteria coronaria derecha
+T10	ENFERMEDAD 3912 3942	atelectasia en lóbulo superior
+T11	ENFERMEDAD 4097 4128	atelectasia del lóbulo superior
+T12	ENFERMEDAD 4217 4265	disfunción ventricular izquierda moderada-severa
+T13	ENFERMEDAD 4424 4449	insuficiencia mitral leve
+T14	ENFERMEDAD 4454 4473	derrame pericárdico
+T15	ENFERMEDAD 4686 4711	Insuficiencia mitral leve
+T16	ENFERMEDAD 5653 5683	atelectasia en lóbulo superior
+T17	ENFERMEDAD 6527 6548	fibrilación auricular
+T18	ENFERMEDAD 7809 7838	Neumonía por broncoaspiración
+T19	ENFERMEDAD 7528 7582	Parada cardiorrespiratoria por fibrilación ventricular
+T20	ENFERMEDAD 7595 7611	SCACEST inferior
+T21	ENFERMEDAD 6739 6755	broncoaspiración
+T22	ENFERMEDAD 252 259	fumador
+T23	ENFERMEDAD 5024 5122	Arteria CD: vaso dominante severamente calcificado, de adecuado tamaño y desarrollo, con estenosis
+T24	ENFERMEDAD 6627 6647	episodios arrítmicos
+T25	ENFERMEDAD 7713 7783	Oclusión total de arteria circunfleja ostial con circulación colateral
+T26	ENFERMEDAD 1763 1787	(CD) con imagen de placa
+T27	ENFERMEDAD 4847 4909	Arteria CX: vaso de adecuado tamaño y desarrollo, con oclusión
+T28	PROCEDIMIENTO 358 390	hernioplastia inguinal bilateral
+T29	PROCEDIMIENTO 751 790	maniobras de reanimación cardiopulmonar
+T30	PROCEDIMIENTO 792 795	RCP
+T31	PROCEDIMIENTO 911 923	RCP avanzada
+T32	PROCEDIMIENTO 926 948	intubación orotraqueal
+T33	PROCEDIMIENTO 950 953	IOT
+T34	PROCEDIMIENTO 1109 1127	electrocardiograma
+T35	PROCEDIMIENTO 1129 1132	ECG
+T36	PROCEDIMIENTO 1219 1222	ECG
+T37	PROCEDIMIENTO 1305 1333	ecocardiograma transtorácico
+T38	PROCEDIMIENTO 1335 1338	ETT
+T39	PROCEDIMIENTO 1484 1506	hipotermia terapéutica
+T40	PROCEDIMIENTO 1519 1534	coronariografía
+T41	PROCEDIMIENTO 1852 1855	ETT
+T42	PROCEDIMIENTO 1898 1983	arteria CD, por lo que se realiza angioplastia e implantación de 2 stents recubiertos
+T43	PROCEDIMIENTO 2299 2317	Exploración física
+T44	PROCEDIMIENTO 2449 2470	Auscultación pulmonar
+T45	PROCEDIMIENTO 2524 2545	Auscultación cardiaca
+T46	PROCEDIMIENTO 2854 2857	ECG
+T47	PROCEDIMIENTO 2864 2878	desfibrilación
+T48	PROCEDIMIENTO 3036 3039	ECG
+T49	PROCEDIMIENTO 3809 3821	Hemocultivos
+T50	PROCEDIMIENTO 3823 3833	urocultivo
+T51	PROCEDIMIENTO 3836 3866	cultivo del aspirado bronquial
+T52	PROCEDIMIENTO 3879 3899	Radiografía de tórax
+T53	PROCEDIMIENTO 3953 3973	Radiografía de tórax
+T54	PROCEDIMIENTO 4139 4153	Ecocardiograma
+T55	PROCEDIMIENTO 4188 4214	inducción de la hipotermia
+T56	PROCEDIMIENTO 4476 4490	Ecocardiograma
+T57	PROCEDIMIENTO 4519 4526	extubar
+T58	PROCEDIMIENTO 4713 4728	Coronariografía
+T59	PROCEDIMIENTO 5227 5348	angioplastia con balón e implante de 2 stents farmacoactivos solapados en los segmentos medio y proximal de la arteria CD
+T60	PROCEDIMIENTO 5446 5493	se inserta catéter venoso femoral de hipotermia
+T61	PROCEDIMIENTO 5805 5835	aspirado del tubo endotraqueal
+T62	PROCEDIMIENTO 5882 5904	hipotermia terapéutica
+T63	PROCEDIMIENTO 6103 6113	extubación
+T64	PROCEDIMIENTO 6503 6513	telemetría
+T65	PROCEDIMIENTO 6767 6770	IOT
+T66	PROCEDIMIENTO 6870 6900	cobertura antibiótica empírica
+T67	PROCEDIMIENTO 7142 7156	antibioterapia
+T68	PROCEDIMIENTO 7622 7711	Angioplastia e implante de stents farmacoactivos en la coronaria derecha proximal y media
+T69	PROCEDIMIENTO 6934 6942	cultivos
+T70	PROCEDIMIENTO 1008 1048	aplicando dos descargas a máxima energía
+T71	PROCEDIMIENTO 2232 2296	proceso de enfriamiento mediante suero salino fisiológico a 4 oC
+T72	PROCEDIMIENTO 3633 3666	Marcadores de necrosis miocárdica
+T73	PROCEDIMIENTO 5838 5865	movilizaciones del paciente
+T74	PROCEDIMIENTO 6038 6047	extubarlo
+T75	PROCEDIMIENTO 6796 6856	se extrajeron cultivos de sangre, orina y aspirado bronquial
+T76	PROCEDIMIENTO 6082 6097	recalentamiento
+T77	PROCEDIMIENTO 6993 7008	recalentamiento
+T78	PROCEDIMIENTO 7785 7807	Hipotermia terapéutica
+T79	PROCEDIMIENTO 5483 5493	hipotermia
+T80	PROCEDIMIENTO 2201 2216	sedoanalgesiado
+T81	PROCEDIMIENTO 2191 2199	intubado
+T82	PROCEDIMIENTO 2401 2416	Cabeza y cuello
+T83	PROCEDIMIENTO 5607 5618	radiografía
+T84	PROCEDIMIENTO 5767 5778	radiografía
+T85	PROCEDIMIENTO 2219 2227	relajado
+T86	PROCEDIMIENTO 3134 3142	Análisis
+T87	PROCEDIMIENTO 5939 5954	recalentamiento
+T88	PROCEDIMIENTO 6557 6614	cardiovirtió a ritmo sinusal tras el inicio de amiodarona
+T89	SINTOMA 1075 1088	ritmo sinusal
+T90	SINTOMA 1134 1174	ascenso del segmento ST en cara inferior
+T91	SINTOMA 1246 1292	normalización del segmento ST en cara inferior
+T92	SINTOMA 2418 2447	presión venosa yugular normal
+T93	SINTOMA 2472 2514	murmullo vesicular disminuido en hemitórax
+T94	SINTOMA 2551 2557	soplos
+T95	SINTOMA 2561 2571	extratonos
+T96	SINTOMA 2624 2629	masas
+T97	SINTOMA 2633 2647	organomegalias
+T98	SINTOMA 2649 2716	Extremidades: pulsos de amplitud ligeramente disminuida, simétricos
+T99	SINTOMA 2722 2750	edema en miembros inferiores
+T100	SINTOMA 2752 2773	llenado capilar lento
+T101	SINTOMA 2788 2816	pupilas simétricas reactivas
+T102	SINTOMA 2896 2908	QRS estrecho
+T103	SINTOMA 2910 2933	ascenso del segmento ST
+T104	SINTOMA 3389 3440	fosfatasa alcalina 76U/L, amilasa y lipasa normales
+T105	SINTOMA 3809 3877	Hemocultivos, urocultivo y cultivo del aspirado bronquial: negativos
+T106	SINTOMA 4002 4032	infiltrado alveolointersticial
+T107	SINTOMA 4349 4408	Ventrículo derecho con función sistólica levemente reducida
+T108	SINTOMA 4506 4516	hipotermia
+T109	SINTOMA 4540 4601	función sistólica del ventrículo izquierdo levemente reducida
+T110	SINTOMA 6231 6240	orientado
+T111	SINTOMA 6246 6290	capacidad para comprender y obedecer órdenes
+T112	SINTOMA 6366 6380	disartria leve
+T113	SINTOMA 7021 7027	fiebre
+T114	SINTOMA 7067 7115	secreciones purulentas en el tubo de ventilación
+T115	SINTOMA 7228 7242	picos febriles
+T116	SINTOMA 2573 2618	Abdomen: ruidos hidroaéreos presentes. Blando
+T117	SINTOMA 2881 2894	ritmo sinusal
+T118	SINTOMA 6572 6585	ritmo sinusal
+T119	SINTOMA 4738 4779	tronco coronario izquierdo: sin estenosis
+T120	SINTOMA 1361 1389	acinesia de la cara inferior
+T121	SINTOMA 2582 2610	ruidos hidroaéreos presentes
+T122	SINTOMA 4781 4845	Arteria DA: vaso de adecuado calibre y desarrollo, sin estenosis
+T123	SINTOMA 6172 6215	movilización adecuada de las 4 extremidades
+T124	SINTOMA 6303 6318	déficit frontal
+T125	SINTOMA 6934 6973	cultivos, no obstante, fueron negativos
+T126	FARMACO 315 325	colchicina
+T127	FARMACO 328 338	alopurinol
+T128	FARMACO 522 530	losartán
+T129	FARMACO 538 548	metformina
+T130	FARMACO 6604 6614	amiodarona
+T131	FARMACO 6905 6928	amoxicilina-clavulánico
+T132	FARMACO 7170 7179	meropenem
+T133	FARMACO 7182 7194	metronidazol
+T134	FARMACO 7292 7297	adiro
+T135	FARMACO 7306 7315	prasugrel
+T136	FARMACO 7323 7334	pantoprazol
+T137	FARMACO 7342 7355	atorvastatina
+T138	FARMACO 7363 7372	enalapril
+T139	FARMACO 7381 7391	metoprolol
+#1	AnnotatorNotes T20	 SCACEST Síndrome coronario agudo con elevación del ST

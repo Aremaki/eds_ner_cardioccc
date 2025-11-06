@@ -1,0 +1,125 @@
+T1	ENFERMEDAD 2403 2460	lesión subepicárdica de hasta 2-3 mm inferoposterolateral
+T2	ENFERMEDAD 78 102	Alergia a ácaros y polen
+T3	ENFERMEDAD 107 130	alergias medicamentosas
+T4	ENFERMEDAD 159 166	fumador
+T5	ENFERMEDAD 188 207	Hábito enólico leve
+T6	ENFERMEDAD 247 250	HTA
+T7	ENFERMEDAD 255 265	dislipemia
+T8	ENFERMEDAD 270 287	diabetes mellitus
+T9	ENFERMEDAD 292 303	cardiopatía
+T10	ENFERMEDAD 314 328	Asma bronquial
+T11	ENFERMEDAD 732 758	infarto agudo de miocardio
+T12	ENFERMEDAD 760 763	IAM
+T13	ENFERMEDAD 1964 1975	adenopatías
+T14	ENFERMEDAD 2268 2271	TVP
+T15	ENFERMEDAD 4018 4063	insuficiencia mínima de la válvula tricúspide
+T16	ENFERMEDAD 4192 4221	alérgico a ácaros y gramíneas
+T17	ENFERMEDAD 4221 4230	, fumador
+T18	ENFERMEDAD 4230 4240	, asmático
+T19	ENFERMEDAD 4446 4470	SCACEST infero-posterior
+T20	ENFERMEDAD 4485 4506	reacción anafiláctica
+T21	ENFERMEDAD 4511 4531	broncoespasmo severo
+T22	ENFERMEDAD 4534 4545	hipotensión
+T23	ENFERMEDAD 4942 4960	Síndrome de Kounis
+T24	ENFERMEDAD 5184 5202	síndrome de Kounis
+T25	ENFERMEDAD 5883 5901	Síndrome de Kounis
+T26	ENFERMEDAD 5903 5932	angina vasoespástica alérgica
+T27	ENFERMEDAD 5935 5956	Reacción anafiláctica
+T28	ENFERMEDAD 5961 5981	broncoespasmo severo
+T29	ENFERMEDAD 5984 5995	hipotensión
+T30	ENFERMEDAD 5997 6021	Alergia a ácaros y polen
+T31	ENFERMEDAD 1233 1274	lesión subepicárdica inferoposterolateral
+T32	ENFERMEDAD 4756 4776	lesión subepicárdica
+T33	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDIMIENTO 348 359	inhaladores
+T35	PROCEDIMIENTO 443 460	broncodilatadores
+T36	PROCEDIMIENTO 490 544	Intervenciones quirúrgicas: menisco de rodilla derecha
+T37	PROCEDIMIENTO 1217 1220	ECG
+T38	PROCEDIMIENTO 1657 1668	cateterismo
+T39	PROCEDIMIENTO 1821 1824	ECG
+T40	PROCEDIMIENTO 1827 1845	Exploración física
+T41	PROCEDIMIENTO 1987 2008	Auscultación cardiaca
+T42	PROCEDIMIENTO 2044 2065	Auscultación pulmonar
+T43	PROCEDIMIENTO 2189 2209	Puño-percusión renal
+T44	PROCEDIMIENTO 2334 2337	ECG
+T45	PROCEDIMIENTO 2462 2482	Radiografía de tórax
+T46	PROCEDIMIENTO 3004 3015	complemento
+T47	PROCEDIMIENTO 3139 3150	Cateterismo
+T48	PROCEDIMIENTO 3345 3348	ECG
+T49	PROCEDIMIENTO 3442 3470	Ecocardiograma transtorácico
+T50	PROCEDIMIENTO 4125 4139	ecocardiograma
+T51	PROCEDIMIENTO 4316 4385	administración de corticoides intravenosos y adrenalina intramuscular
+T52	PROCEDIMIENTO 4849 4864	coronariografía
+T53	PROCEDIMIENTO 5371 5374	ETT
+T54	PROCEDIMIENTO 5510 5524	corticoterapia
+T55	PROCEDIMIENTO 5548 5564	antihistamínicos
+T56	PROCEDIMIENTO 5656 5668	RMN cardiaca
+T57	PROCEDIMIENTO 5204 5221	Pruebas alérgicas
+T58	PROCEDIMIENTO 2596 2605	Analítica
+T59	PROCEDIMIENTO 1918 1933	Cabeza y cuello
+T60	SINTOMA 904 921	opresión torácica
+T61	SINTOMA 924 953	disnea de instauración brusca
+T62	SINTOMA 979 1000	estridor inspiratorio
+T63	SINTOMA 1163 1201	opresión precordial irradiada a cuello
+T64	SINTOMA 1486 1491	dolor
+T65	SINTOMA 1523 1528	dolor
+T66	SINTOMA 1546 1580	supradesnivelación del segmento ST
+T67	SINTOMA 1764 1769	dolor
+T68	SINTOMA 1771 1796	hemodinámicamente estable
+T69	SINTOMA 1879 1906	Bien perfundido e hidratado
+T70	SINTOMA 1908 1916	Eupneico
+T71	SINTOMA 1938 1959	ingurgitación yugular
+T72	SINTOMA 1987 2017	Auscultación cardiaca: rítmico
+T73	SINTOMA 2022 2028	soplos
+T74	SINTOMA 2032 2042	extratonos
+T75	SINTOMA 2067 2094	leve hipoventilación global
+T76	SINTOMA 2097 2130	sibilantes espiratorios dispersos
+T77	SINTOMA 2132 2159	Abdomen: blando, depresible
+T78	SINTOMA 2189 2218	Puño-percusión renal negativa
+T79	SINTOMA 2220 2254	Extremidades inferiores: no edemas
+T80	SINTOMA 2273 2307	pulsos pedios palpables simétricos
+T81	SINTOMA 2359 2364	dolor
+T82	SINTOMA 2367 2380	ritmo sinusal
+T83	SINTOMA 2484 2594	silueta cardiomediastínica, senos costofrénicos, campos pulmonares y esqueleto óseo estudiado sin alteraciones
+T84	SINTOMA 3358 3371	ritmo sinusal
+T85	SINTOMA 3407 3440	alteraciones de la repolarización
+T86	SINTOMA 3480 3517	ventrículo izquierdo de tamaño normal
+T87	SINTOMA 3582 3631	función sistólica ventricular izquierda es normal
+T88	SINTOMA 3646 3706	movimiento de las paredes del ventrículo izquierdo es normal
+T89	SINTOMA 3711 3768	ventrículo derecho es normal respecto al tamaño y función
+T90	SINTOMA 3863 3911	válvula mitral es normal en estructura y función
+T91	SINTOMA 3968 4005	Válvula tricúspide con aspecto normal
+T92	SINTOMA 4065 4111	Válvula aórtica normal en estructura y función
+T93	SINTOMA 4125 4146	ecocardiograma normal
+T94	SINTOMA 4716 4736	clínica respiratoria
+T95	SINTOMA 5016 5063	triptasas alteradas e inmunoglobulinas elevadas
+T96	SINTOMA 5066 5077	eosinofilia
+T97	SINTOMA 5628 5642	dolor torácico
+T98	SINTOMA 5984 5995	hipotensión
+T99	SINTOMA 3004 3022	complemento normal
+T100	SINTOMA 3522 3577	pared del ventrículo izquierdo muestra un grosor normal
+T101	SINTOMA 3773 3814	tamaño de la aurícula izquierda es normal
+T102	SINTOMA 3819 3858	tamaño de la aurícula derecha es normal
+T103	SINTOMA 5204 5270	Pruebas alérgicas positivas a factores ambientales, ácaros y polen
+T104	SINTOMA 1692 1715	coronarias sin lesiones
+T105	SINTOMA 1128 1147	cuadro respiratorio
+T106	SINTOMA 2391 2401	eje normal
+T107	SINTOMA 5391 5402	hipocinesia
+T108	SINTOMA 4849 4885	coronariografía urgente sin lesiones
+T109	SINTOMA 3139 3173	Cateterismo: tronco: sin estenosis
+T110	SINTOMA 3190 3225	Descendente anterior: sin estenosis
+T111	SINTOMA 3242 3268	Circunfleja: sin estenosis
+T112	SINTOMA 3285 3313	Coronaria derecha: dominante
+T113	FARMACO 463 473	adrenalina
+T114	FARMACO 599 610	terbutalina
+T115	FARMACO 641 663	Furoato de fluticasona
+T116	FARMACO 1025 1042	metilprednisolona
+T117	FARMACO 1078 1088	adrenalina
+T118	FARMACO 1288 1302	nitroglicerina
+T119	FARMACO 4361 4371	adrenalina
+T120	FARMACO 4645 4662	metilprednisolona
+T121	FARMACO 4677 4687	adrenalina
+T122	FARMACO 4788 4802	nitroglicerina
+T123	FARMACO 5474 5496	ácido acetilsalicílico
+T124	FARMACO 5498 5508	amlodipino
+T125	FARMACO 664 674	vilanterol

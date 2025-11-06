@@ -1,0 +1,113 @@
+T1	DISEASE 58 81	alergias medicamentosas
+T2	DISEASE 119 135	diabético tipo 2
+T3	DISEASE 286 337	insuficiencia aórtica severa de etiología reumática
+T4	DISEASE 369 396	mediastinitis posquirúrgica
+T5	DISEASE 399 459	endocarditis tricuspídea por S. aureus sensible a penicilina
+T6	DISEASE 756 792	Insuficiencia aórtica intraprotésica
+T7	DISEASE 801 828	Insuficiencia mitral ligera
+T8	DISEASE 1250 1272	insuficiencia cardiaca
+T9	DISEASE 1777 1796	BAV de primer grado
+T10	DISEASE 2522 2547	insuficiencia tricuspídea
+T11	DISEASE 4089 4110	adherencias cardiacas
+T12	DISEASE 4234 4287	abscesos perivalvulares, uno en la unión mitroaórtica
+T13	DISEASE 4337 4399	absceso a nivel del seno no coronariano con fistulización a AD
+T14	DISEASE 5399 5420	Insuficiencia aórtica
+T15	DISEASE 5483 5552	Endocarditis subaguda sobre válvula protésica por Enterococo faecalis
+T16	DISEASE 5578 5618	abscesos de pared con fistulización a ad
+T17	DISEASE 5673 5681	abscesos
+T18	DISEASE 5817 5820	HTA
+T19	DISEASE 5826 5835	DM tipo 2
+T20	DISEASE 5822 5824	DL
+T21	DISEASE 3234 3261	Ventrículo derecho dilatado
+T22	DISEASE 4516 4524	abscesos
+T23	DISEASE 5066 5074	abscesos
+T24	DISEASE 93 103	Hipertenso
+T25	DISEASE 105 116	dislipémico
+T26	DISEASE 1913 1936	VI ligeramente dilatado
+T27	DISEASE 1979 2002	hipertrofia ventricular
+T28	DISEASE 2121 2144	AI ligeramente dilatada
+T29	DISEASE 2253 2295	Raíz Aórtica ligera-moderadamente dilatada
+T30	DISEASE 2492 2517	CCDD ligeramente dilatada
+T31	DISEASE 2698 2763	saculaciones pseudoaneurismáticas que protruyen a ambas aurículas
+T32	DISEASE 2802 2858	shunt del seno coronario izquierdo a la aurícula derecha
+T33	DISEASE 2876 2898	shunt entre aorta y VD
+T34	DISEASE 5291 5316	AI moderadamente dilatada
+T35	DISEASE 4292 4307	fístula a la AI
+T36	PROCEDURE 139 176	tratamiento con antidiabéticos orales
+T37	PROCEDURE 194 273	recambio valvular aórtico con implante de prótesis mecánica Sant Jude número 27
+T38	PROCEDURE 507 532	desbridamiento quirúrgico
+T39	PROCEDURE 658 672	ecocardiograma
+T40	PROCEDURE 1339 1348	hemograma
+T41	PROCEDURE 1625 1637	Hemocultivos
+T42	PROCEDURE 1726 1736	Urocultivo
+T43	PROCEDURE 1750 1753	ECG
+T44	PROCEDURE 1883 1911	Ecocardiograma transtorácico
+T45	PROCEDURE 2569 2598	Ecocardiograma transesofágico
+T46	PROCEDURE 2902 2922	Radiografía de tórax
+T47	PROCEDURE 2964 2990	TAC torácico con contraste
+T48	PROCEDURE 3789 3801	antibiograma
+T49	PROCEDURE 3814 3835	cirugía extracorpórea
+T50	PROCEDURE 3862 3897	cardioplejia sanguínea intermitente
+T51	PROCEDURE 3944 3988	canulación de ambas cavas y aorta ascendente
+T52	PROCEDURE 4075 4110	liberación de adherencias cardiacas
+T53	PROCEDURE 4123 4152	clamplaje de aorta ascendente
+T54	PROCEDURE 4158 4186	apertura de aorta ascendente
+T55	PROCEDURE 4412 4440	explante de prótesis aórtica
+T56	PROCEDURE 4443 4496	drenaje de cavidades izquierdas a través de fosa oval
+T57	PROCEDURE 4669 4691	lavado de raíz aórtica
+T58	PROCEDURE 4693 4819	Se cierra la aortomía y atriotomía con doble sutura y la perforación a AD desde lado derecho con puntos apoyados en pericardio
+T59	PROCEDURE 4997 5026	ecocardiograma transesofágico
+T60	PROCEDURE 5620 5660	Sustitución de prótesis aórtica mecánica
+T61	PROCEDURE 1318 1337	Analítica de sangre
+T62	PROCEDURE 1464 1474	Bioquímica
+T63	PROCEDURE 1602 1613	Coagulación
+T64	PROCEDURE 3693 3735	tratamiento antibiótico de amplio espectro
+T65	PROCEDURE 3840 3859	hipotermia profunda
+T66	PROCEDURE 4052 4072	reesternotomía media
+T67	PROCEDURE 4001 4038	se canulan arterias y venas femorales
+T68	PROCEDURE 4189 4207	atriotomía derecha
+T69	PROCEDURE 4499 4556	se cierran ambos abscesos con parche de pericardio bovino
+T70	PROCEDURE 4587 4646	se implanta una prótesis aórtica Sant Jude Regent número 25
+T71	PROCEDURE 5663 5681	cierre de abscesos
+T72	PROCEDURE 5724 5773	marcapasos bicameral en modo de estimulación vvir
+T73	PROCEDURE 4846 4868	controles hemostáticos
+T74	SYMPTOM 698 719	Contractilidad normal
+T75	SYMPTOM 870 876	edemas
+T76	SYMPTOM 881 895	ortopnea basal
+T77	SYMPTOM 1000 1006	disnea
+T78	SYMPTOM 1104 1134	dolor centrotorácico opresivos
+T79	SYMPTOM 1602 1621	Coagulación: normal
+T80	SYMPTOM 1625 1687	Hemocultivos: tres muestras positivas para Enterococo faecalis
+T81	SYMPTOM 1726 1746	Urocultivo: negativo
+T82	SYMPTOM 1755 1757	RS
+T83	SYMPTOM 2034 2062	movimiento paradójico septal
+T84	SYMPTOM 2935 2960	ICT ligeramente aumentado
+T85	SYMPTOM 3148 3181	Contractilidad segmentaria normal
+T86	SYMPTOM 3183 3198	FEVI conservada
+T87	SYMPTOM 3656 3681	estable hemodinámicamente
+T88	SYMPTOM 2074 2119	alteraciones de la contractilidad segmentaria
+T89	SYMPTOM 721 754	Prótesis aórtica normofuncionante
+T90	SYMPTOM 5221 5247	FEVI ligeramente deprimida
+T91	SYMPTOM 5273 5289	Aquinesia septal
+T92	SYMPTOM 3263 3285	Aurículas no dilatadas
+T93	SYMPTOM 5683 5710	Disfunción sistólica ligera
+T94	SYMPTOM 3507 3545	Válvula mitral morfológicamente normal
+T95	SYMPTOM 3026 3073	cavidades cardiacas de características normales
+T96	SYMPTOM 685 696	FEVI normal
+T97	SYMPTOM 1826 1865	Mala progresión de la R en precordiales
+T98	SYMPTOM 2154 2203	Prótesis metálica aórtica con gradientes normales
+T99	SYMPTOM 2318 2362	dos yet a nivel de aorta torácica ascendente
+T100	SYMPTOM 3287 3352	Prótesis aórtica con imágenes pseudoaneurismáticas perivalvulares
+T101	SYMPTOM 5318 5397	Prótesis bidisco con movimiento normal, con gradientes en rango de normofunción
+T102	SYMPTOM 5413 5468	aórtica con dos chorros de grado ligero intraprotésicos
+T103	MEDICATION 480 490	penicilina
+T104	MEDICATION 493 504	rifampicina
+T105	MEDICATION 939 951	pravastatina
+T106	MEDICATION 954 963	glicazida
+T107	MEDICATION 1700 1710	ampicilina
+T108	MEDICATION 1713 1724	gentamicina
+T109	MEDICATION 3759 3769	ampicilina
+T110	MEDICATION 3772 3783	gentamicina
+T111	MEDICATION 449 459	penicilina
+T112	MEDICATION 919 926	sintrom
+T113	MEDICATION 928 934	acovil

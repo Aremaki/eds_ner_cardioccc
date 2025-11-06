@@ -1,0 +1,78 @@
+T1	DISEASE 2859 2951	ventrículo izquierdo severamente dilatado con función sistólica global severamente deprimida
+T2	DISEASE 704 710	Angina
+T3	DISEASE 4337 4366	Cardiopatía isquémica crónica
+T4	DISEASE 234 243	Exfumador
+T5	DISEASE 499 532	Fibrilación auricular paroxística
+T6	DISEASE 271 288	Gastritis crónica
+T7	DISEASE 3127 3129	IT
+T8	DISEASE 335 340	Ictus
+T9	DISEASE 1680 1702	Insuficiencia Cardiaca
+T10	DISEASE 3098 3118	Insuficiencia mitral
+T11	DISEASE 4438 4481	Trastorno de la conducción intraventricular
+T12	DISEASE 2577 2584	ascitis
+T13	DISEASE 1857 1867	bajo gasto
+T14	DISEASE 552 581	cardiopatía isquémica crónica
+T15	DISEASE 3238 3257	derrame pericárdico
+T16	DISEASE 1454 1495	descompensación de insuficiencia cardiaca
+T17	DISEASE 4151 4197	descompensación leve de insuficiencia cardiaca
+T18	DISEASE 208 232	diabetes mellitus tipo 2
+T19	DISEASE 4371 4425	dilatación y disfunción severa de ventrículo izquierdo
+T20	DISEASE 196 206	dislipemia
+T21	DISEASE 2549 2562	hepatomegalia
+T22	DISEASE 4214 4250	infección respiratoria de vías altas
+T23	DISEASE 4060 4082	insuficiencia cardiaca
+T24	DISEASE 4617 4639	insuficiencia cardiaca
+T25	DISEASE 2783 2826	trastorno de la conducción intraventricular
+T26	DISEASE 174 194	hipertesión arterial
+T27	DISEASE 409 443	Oclusión fémoro-poplítea bilateral
+T28	DISEASE 1144 1173	oclusión crónica de ADA y ACx
+T29	DISEASE 587 603	Infarto anterior
+T30	DISEASE 838 902	enfermedad severa de A. circunfleja (ACx) y A. coronaria derecha
+T31	DISEASE 797 835	reestenosis del stent previo de la ADA
+T32	PROCEDURE 620 685	implantándose un stent convencional en la A. descendente anterior
+T33	PROCEDURE 921 990	bypass de vena safena de ACD y de arteria mamaria interna (AMI) a ADA
+T34	PROCEDURE 1127 1142	coronariografía
+T35	PROCEDURE 1175 1209	bypass de AMI a ADA y safena a ACD
+T36	PROCEDURE 1222 1265	Se implanta desfibrilador (DAI) monocameral
+T37	PROCEDURE 2175 2193	Exploración física
+T38	PROCEDURE 2409 2430	Auscultación cardiaca
+T39	PROCEDURE 2453 2474	Auscultación pulmonar
+T40	PROCEDURE 2726 2744	Electrocardiograma
+T41	PROCEDURE 2843 2857	Ecocardiograma
+T42	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDURE 3683 3696	función renal
+T44	PROCEDURE 3259 3268	Analítica
+T45	PROCEDURE 460 467	cirugía
+T46	PROCEDURE 290 325	Erradicación de Helicobacter pylori
+T47	SYMPTOM 369 394	Claudicación intermitente
+T48	SYMPTOM 1728 1736	ortopnea
+T49	SYMPTOM 2275 2294	Buen estado general
+T50	SYMPTOM 2296 2316	Eupneico en decúbito
+T51	SYMPTOM 2328 2356	ingurgitación venosa yugular
+T52	SYMPTOM 2358 2380	Buena perfusión distal
+T53	SYMPTOM 2409 2439	Auscultación cardiaca: rítmico
+T54	SYMPTOM 2445 2451	soplos
+T55	SYMPTOM 2476 2505	murmullo vesicular conservado
+T56	SYMPTOM 2511 2526	ruidos añadidos
+T57	SYMPTOM 2604 2635	Miembros inferiores: sin edemas
+T58	SYMPTOM 2655 2699	Pulsos pedios muy débiles de forma bilateral
+T59	SYMPTOM 2746 2759	ritmo sinusal
+T60	SYMPTOM 2980 3006	Llenado mitral restrictivo
+T61	SYMPTOM 3683 3732	función renal y cifras de potasio en rango normal
+T62	SYMPTOM 3008 3082	Ventrículo derecho no dilatado con función en límite bajo de la normalidad
+T63	SYMPTOM 1869 1881	Peso estable
+T64	MEDICATION 1960 1967	sintrom
+T65	MEDICATION 1969 1979	bisoprolol
+T66	MEDICATION 1995 2004	enalapril
+T67	MEDICATION 2021 2031	eplerenona
+T68	MEDICATION 2048 2058	furosemida
+T69	MEDICATION 2075 2088	atorvastatina
+T70	MEDICATION 2105 2111	hierro
+T71	MEDICATION 2118 2128	metformina
+T72	MEDICATION 2146 2157	pantoprazol
+T73	MEDICATION 3436 3445	enalapril
+T74	MEDICATION 3461 3482	sacubitrilo/valsartán
+T75	MEDICATION 3555 3564	enalapril
+T76	MEDICATION 4556 4577	sacubitrilo/valsartán
+T77	MEDICATION 1567 1579	levosimendam
+#1	AnnotatorNotes T7	IT: insuficiencia tricuspidea

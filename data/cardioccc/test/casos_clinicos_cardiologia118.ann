@@ -1,0 +1,102 @@
+T1	ENFERMEDAD 44 56	hipertensión
+T2	ENFERMEDAD 59 69	dislipemia
+T3	ENFERMEDAD 378 390	hipertensión
+T4	ENFERMEDAD 393 403	dislipemia
+T5	ENFERMEDAD 1172 1200	hemiparesia derecha braquial
+T6	ENFERMEDAD 1422 1471	ictus isquémico en territorio de la ACM izquierda
+T7	ENFERMEDAD 1666 1683	isquemia cerebral
+T8	ENFERMEDAD 1833 1898	lesión isquémica aguda en territorio de la arteria cerebral media
+T9	ENFERMEDAD 2239 2252	cardiomegalia
+T10	ENFERMEDAD 2286 2301	derrame pleural
+T11	ENFERMEDAD 2552 2606	endocarditis como foco etiológico del infarto cerebral
+T12	ENFERMEDAD 2959 2981	vegetación endocárdica
+T13	ENFERMEDAD 3061 3091	hipertensión pulmonar moderada
+T14	ENFERMEDAD 3094 3126	insuficiencia tricuspídea ligera
+T15	ENFERMEDAD 3358 3377	absceso periaórtico
+T16	ENFERMEDAD 3778 3781	HTA
+T17	ENFERMEDAD 3783 3785	DM
+T18	ENFERMEDAD 3857 3879	trastorno del lenguaje
+T19	ENFERMEDAD 3882 3950	hemiparesia derecha en relación a ACV isquémico en territorio de CMI
+T20	ENFERMEDAD 4065 4077	endocarditis
+T21	ENFERMEDAD 4144 4188	vegetación endocárdica sobre válvula aórtica
+T22	ENFERMEDAD 4510 4523	cuadro gripal
+T23	ENFERMEDAD 4592 4632	vegetación y absceso periaórtico abierto
+T24	ENFERMEDAD 5021 5043	insuficiencia cardiaca
+T25	ENFERMEDAD 5047 5056	arritmias
+T26	ENFERMEDAD 5137 5190	endocarditis protésica tardía por Staphylococcus epid
+T27	ENFERMEDAD 5207 5222	ictus isquémico
+T28	ENFERMEDAD 5225 5244	absceso periaórtico
+T29	ENFERMEDAD 187 206	hemiparesia derecha
+T30	ENFERMEDAD 615 634	hemiparesia derecha
+T31	ENFERMEDAD 2640 2675	dilatación de la aurícula izquierda
+T32	ENFERMEDAD 3020 3026	trombo
+T33	ENFERMEDAD 701 707	gripal
+T34	ENFERMEDAD 2771 2802	prótesis aórtica disfuncionante
+T35	ENFERMEDAD 3300 3347	vegetación de unos 20 mm en el tracto de salida
+T36	PROCEDIMIENTO 288 306	exploración física
+T37	PROCEDIMIENTO 759 777	Exploración física
+T38	PROCEDIMIENTO 965 983	exploración física
+T39	PROCEDIMIENTO 1268 1295	auscultación cardiopulmonar
+T40	PROCEDIMIENTO 1746 1757	TAC craneal
+T41	PROCEDIMIENTO 1963 1966	ECG
+T42	PROCEDIMIENTO 2052 2061	hemograma
+T43	PROCEDIMIENTO 2200 2220	radiografía de tórax
+T44	PROCEDIMIENTO 2327 2339	hemocultivos
+T45	PROCEDIMIENTO 2465 2487	recambio de marcapasos
+T46	PROCEDIMIENTO 2498 2527	ecocardiografía transtorácica
+T47	PROCEDIMIENTO 2614 2628	ecocardiograma
+T48	PROCEDIMIENTO 3242 3271	ecocardiograma transesofágico
+T49	PROCEDIMIENTO 3590 3602	hemocultivos
+T50	PROCEDIMIENTO 4090 4118	ecocardiograma transtorácico
+T51	PROCEDIMIENTO 4202 4225	tratamiento antibiótico
+T52	PROCEDIMIENTO 4275 4301	extracción de hemocultivos
+T53	PROCEDIMIENTO 4352 4374	recambio de marcapasos
+T54	PROCEDIMIENTO 4549 4578	ecocardiograma transesofágico
+T55	PROCEDIMIENTO 2064 2075	coagulación
+T56	PROCEDIMIENTO 1578 1596	estudio etiológico
+T57	PROCEDIMIENTO 2026 2035	analítica
+T58	PROCEDIMIENTO 2395 2405	analíticos
+T59	PROCEDIMIENTO 1506 1518	código ictus
+T60	PROCEDIMIENTO 3176 3192	ecocardiográfico
+T61	SINTOMA 208 216	disfasia
+T62	SINTOMA 218 232	desorientación
+T63	SINTOMA 234 241	cefalea
+T64	SINTOMA 244 251	vómitos
+T65	SINTOMA 636 644	disfasia
+T66	SINTOMA 646 660	desorientación
+T67	SINTOMA 662 669	cefalea
+T68	SINTOMA 672 679	vómitos
+T69	SINTOMA 712 718	fiebre
+T70	SINTOMA 829 854	hemodinámicamente estable
+T71	SINTOMA 1009 1014	vigil
+T72	SINTOMA 1017 1023	alerta
+T73	SINTOMA 1028 1042	oftalmoparesia
+T74	SINTOMA 1046 1069	alteración campimétrica
+T75	SINTOMA 1092 1107	disfasia global
+T76	SINTOMA 1118 1150	desviación de la comisura labial
+T77	SINTOMA 1221 1253	reflejo cutáneo plantar extensor
+T78	SINTOMA 1297 1327	ruidos periprotésicos aórticos
+T79	SINTOMA 1354 1397	roncus dispersos en ambos campos pulmonares
+T80	SINTOMA 2438 2453	síndrome febril
+T81	SINTOMA 2680 2695	FEV1 conservada
+T82	SINTOMA 4012 4024	leucocitosis
+T83	SINTOMA 4027 4038	PCR elevada
+T84	SINTOMA 4421 4437	malestar general
+T85	SINTOMA 4439 4457	sudoración profusa
+T86	SINTOMA 4462 4476	picos febriles
+T87	SINTOMA 4983 4998	disfasia global
+T88	SINTOMA 462 493	marcapasos VDD normofuncionante
+T89	SINTOMA 4886 4922	déficit motor derecho braquio-crural
+T90	SINTOMA 1332 1343	soplo mitra
+T91	SINTOMA 2736 2757	válvula mitral normal
+T92	SINTOMA 3616 3662	crecimiento de cocos Gram positivos en racimos
+T93	SINTOMA 4957 4980	hemianopsia por amenaza
+T94	SINTOMA 2270 2282	condensación
+T95	SINTOMA 1988 2011	ritmo de marcapasos VDD
+T96	SINTOMA 1775 1818	hipodensidad en ganglios basales izquierdos
+T97	SINTOMA 2700 2733	alteraciones en la contractilidad
+T98	SINTOMA 2807 2826	gradientes elevados
+T99	SINTOMA 3472 3534	válvula mitral y la función ventricular izquierda son normales
+T100	FARMACO 4230 4241	vancomicina
+T101	FARMACO 4243 4255	gentamincina
+T102	FARMACO 4258 4269	rifampicina

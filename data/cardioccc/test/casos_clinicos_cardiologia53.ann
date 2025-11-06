@@ -1,0 +1,86 @@
+T1	ENFERMEDAD 156 186	carcinoma escamoso de amígdala
+T2	ENFERMEDAD 788 834	infarto agudo de miocardio (IAM) inferolateral
+T3	ENFERMEDAD 816 819	IAM
+T4	ENFERMEDAD 1242 1262	hipotensión arterial
+T5	ENFERMEDAD 1548 1579	anemia normocítica normocrómica
+T6	ENFERMEDAD 1595 1612	fallo renal agudo
+T7	ENFERMEDAD 1820 1846	derrame pericárdico severo
+T8	ENFERMEDAD 2401 2417	broncoaspiración
+T9	ENFERMEDAD 2426 2441	derrame pleural
+T10	ENFERMEDAD 2506 2541	Abscesos hepáticos múltiples en LHI
+T11	ENFERMEDAD 2659 2704	adenopatías mesentéricas ni retroperitoneales
+T12	ENFERMEDAD 2744 2763	neoplasia amigdalar
+T13	ENFERMEDAD 2873 2916	neoplasia con origen en la amígdala lingual
+T14	ENFERMEDAD 3523 3541	abscesos hepáticos
+T15	ENFERMEDAD 3797 3810	shock séptico
+T16	ENFERMEDAD 4110 4136	derrame pericárdico severo
+T17	ENFERMEDAD 4287 4309	Pericarditis purulenta
+T18	ENFERMEDAD 4325 4349	taponamiento pericárdico
+T19	ENFERMEDAD 4351 4402	Shock séptico polimicrobiano con abscesos hepáticos
+T20	ENFERMEDAD 4404 4425	Carcinoma de amígdala
+T21	ENFERMEDAD 28 37	exfumador
+T22	ENFERMEDAD 112 136	consumo pasado de tabaco
+T23	ENFERMEDAD 930 939	hipotenso
+T24	ENFERMEDAD 2451 2466	Neumopericardio
+T25	ENFERMEDAD 2543 2607	LOE en LHI en relación con absceso versus enfermedad metastásica
+T26	ENFERMEDAD 2776 2802	conglomerados adenopáticos
+T27	ENFERMEDAD 3481 3500	colección purulenta
+T28	PROCEDIMIENTO 268 280	radioterapia
+T29	PROCEDIMIENTO 585 603	electrocardiograma
+T30	PROCEDIMIENTO 605 608	ECG
+T31	PROCEDIMIENTO 857 878	angioplastia primaria
+T32	PROCEDIMIENTO 1151 1154	ECG
+T33	PROCEDIMIENTO 1161 1179	exploración física
+T34	PROCEDIMIENTO 1700 1715	Ecocardiografía
+T35	PROCEDIMIENTO 2103 2106	ECG
+T36	PROCEDIMIENTO 2275 2287	hemocultivos
+T37	PROCEDIMIENTO 2317 2343	TAC de tórax con contraste
+T38	PROCEDIMIENTO 2706 2719	TAC de cuello
+T39	PROCEDIMIENTO 3113 3143	pericardiocentesis terapéutica
+T40	PROCEDIMIENTO 3425 3447	TAC de tórax y abdomen
+T41	PROCEDIMIENTO 3729 3736	drenaje
+T42	PROCEDIMIENTO 3857 3892	tratamiento antibiótico intravenoso
+T43	PROCEDIMIENTO 3929 3941	antibiograma
+T44	PROCEDIMIENTO 4044 4067	tratamiento antibiótico
+T45	PROCEDIMIENTO 4160 4208	pericardiocentesis urgente y ventana pericárdica
+T46	PROCEDIMIENTO 4260 4272	toracoscopia
+T47	PROCEDIMIENTO 1053 1064	cateterismo
+T48	PROCEDIMIENTO 4002 4030	drenaje completo del líquido
+T49	PROCEDIMIENTO 2245 2272	Cultivo líquido pericárdico
+T50	PROCEDIMIENTO 3767 3792	soporte catecolaminérgico
+T51	PROCEDIMIENTO 3566 3573	cultivo
+T52	PROCEDIMIENTO 1508 1517	Analítica
+T53	SINTOMA 282 331	Asintomático desde el punto de vista cardiológico
+T54	SINTOMA 390 451	dolor centrotorácico, opresivo e irradiado a espalda y cuello
+T55	SINTOMA 498 504	fiebre
+T56	SINTOMA 630 675	ascenso del ST inferior y lateral alto y bajo
+T57	SINTOMA 930 939	hipotenso
+T58	SINTOMA 1189 1207	mal estado general
+T59	SINTOMA 1217 1226	taquipnea
+T60	SINTOMA 1242 1262	hipotensión arterial
+T61	SINTOMA 1308 1329	ingurgitación yugular
+T62	SINTOMA 1342 1380	ruidos cardiacos están muy disminuidos
+T63	SINTOMA 1385 1391	soplos
+T64	SINTOMA 1413 1481	bultoma en el cuello eritematoso, caliente y doloroso a la palpación
+T65	SINTOMA 1531 1543	leucocitosis
+T66	SINTOMA 1737 1806	función del ventrículo izquierdo global y segmentaria está conservada
+T67	SINTOMA 2108 2121	ritmo sinusal
+T68	SINTOMA 2133 2142	PR normal
+T69	SINTOMA 2144 2164	eje eléctrico normal
+T70	SINTOMA 2166 2178	QRS estrecho
+T71	SINTOMA 2183 2218	ascenso del ST cóncavo generalizado
+T72	SINTOMA 2345 2381	consolidaciones pulmonares bibasales
+T73	SINTOMA 2246 2315	ultivo líquido pericárdico y hemocultivos: Streptococcus constellatum
+T74	SINTOMA 3279 3353	líquido de urgencias se filia como purulento y se aísla un S. constellatum
+T75	SINTOMA 507 525	clínica infecciosa
+T76	SINTOMA 1954 1977	compromiso hemodinámico
+T77	SINTOMA 200 208	T4bN2bM0
+T78	SINTOMA 1395 1399	roce
+T79	SINTOMA 3222 3260	líquido maloliente y aspecto purulento
+T80	SINTOMA 3338 3388	S. constellatum, que también fue aislado en sangre
+T81	SINTOMA 3566 3599	cultivo crecieron microorganismos
+T82	SINTOMA 4426 4433	T4N2bM0
+T83	FARMACO 256 265	cetuximab
+T84	FARMACO 968 976	dopamina
+T85	FARMACO 1292 1305	catecolaminas
+#1	AnnotatorNotes T25	LHI lóbulo hepático izquierdo

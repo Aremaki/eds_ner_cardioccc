@@ -1,0 +1,134 @@
+T1	ENFERMEDAD 1376 1420	tumoración laterocervical derecha voluminosa
+T2	ENFERMEDAD 2494 2525	HVI ligera-moderada concéntrica
+T3	ENFERMEDAD 2544 2575	Aurículas ligeramente dilatadas
+T4	ENFERMEDAD 3713 3733	Cardiomegalia global
+T5	ENFERMEDAD 152 175	alergias medicamentosas
+T6	ENFERMEDAD 218 221	HTA
+T7	ENFERMEDAD 223 233	dislipemia
+T8	ENFERMEDAD 235 259	diabetes mellitus tipo 2
+T9	ENFERMEDAD 262 294	fibrilación auricular permanente
+T10	ENFERMEDAD 731 742	traumatismo
+T11	ENFERMEDAD 1360 1363	TVP
+T12	ENFERMEDAD 1730 1783	fibrilación auricular con respuesta ventricular media
+T13	ENFERMEDAD 1811 1814	HVI
+T14	ENFERMEDAD 1952 1971	broncopatía crónica
+T15	ENFERMEDAD 1976 2001	hiperinsuflación pulmonar
+T16	ENFERMEDAD 2577 2622	Leve calcificación de anillo posterior mitral
+T17	ENFERMEDAD 2759 2778	derrame pericárdico
+T18	ENFERMEDAD 2832 2853	fibrilación auricular
+T19	ENFERMEDAD 2986 3012	adenopatía supraclavicular
+T20	ENFERMEDAD 3526 3558	adenopatías axilares bilaterales
+T21	ENFERMEDAD 3735 3757	Ateromatosis coronaria
+T22	ENFERMEDAD 3808 3832	bronconeumopatía crónica
+T23	ENFERMEDAD 3927 4013	adenopatías retroperitoneales ni mesentéricas, ni en las cadenas ilíacas ni inguinales
+T24	ENFERMEDAD 4053 4086	conglomerado adenopático cervical
+T25	ENFERMEDAD 4088 4136	linfoma-B de alto grado, difuso de célula grande
+T26	ENFERMEDAD 4631 4638	LNHBDCG
+T27	ENFERMEDAD 5094 5115	fibrilación auricular
+T28	ENFERMEDAD 5922 6021	síncope neurocardiogénico periférico secundario a compresión carotídea por voluminosa masa cervical
+T29	ENFERMEDAD 6355 6357	FA
+T30	ENFERMEDAD 6565 6598	conglomerado adenopático cervical
+T31	ENFERMEDAD 6618 6665	Linfoma B de alto grado difuso de célula grande
+T32	ENFERMEDAD 6877 6887	cardiópata
+T33	ENFERMEDAD 7256 7371	Síncope reflejo vasovagal cardioinhibitorio secundario a compresión del seno carotídeo por voluminosa masa cervical
+T34	ENFERMEDAD 7373 7459	Linfoma no Hodgkin de célula grande B, estadio II-B, triple-Hit (BCL-2, BCL-6 y C-MYC)
+T35	ENFERMEDAD 2627 2636	IM ligera
+T36	ENFERMEDAD 2638 2687	VAo: parece trivalva con esclerosis de sigmoideas
+T37	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T38	PROCEDIMIENTO 891 909	Exploración física
+T39	PROCEDIMIENTO 1049 1070	Auscultación cardiaca
+T40	PROCEDIMIENTO 1110 1131	Auscultación pulmonar
+T41	PROCEDIMIENTO 1544 1559	Exploración ORL
+T42	PROCEDIMIENTO 1725 1728	ECG
+T43	PROCEDIMIENTO 1853 1873	Radiografía de tórax
+T44	PROCEDIMIENTO 2062 2081	Analítica sanguínea
+T45	PROCEDIMIENTO 2083 2103	marcadores cardiacos
+T46	PROCEDIMIENTO 2286 2295	Hemograma
+T47	PROCEDIMIENTO 2389 2400	Coagulación
+T48	PROCEDIMIENTO 2445 2473	Ecocardiograma transtorácico
+T49	PROCEDIMIENTO 2951 2984	TC cuello-toraco-abdomino-pélvico
+T50	PROCEDIMIENTO 4015 4086	Anatomía patológica de la biopsia del conglomerado adenopático cervical
+T51	PROCEDIMIENTO 4320 4338	Inmunohistoquímica
+T52	PROCEDIMIENTO 4587 4603	Aspirado medular
+T53	PROCEDIMIENTO 4640 4659	Citometría de flujo
+T54	PROCEDIMIENTO 5175 5220	masaje controlado de seno carotídeo izquierdo
+T55	PROCEDIMIENTO 5403 5429	tratamiento betabloqueante
+T56	PROCEDIMIENTO 5497 5500	ECG
+T57	PROCEDIMIENTO 5527 5552	PAAF guiada por ecografía
+T58	PROCEDIMIENTO 5648 5662	monitorización
+T59	PROCEDIMIENTO 5785 5793	ECO-PAAF
+T60	PROCEDIMIENTO 6081 6108	implante de marcapasos VVIR
+T61	PROCEDIMIENTO 6493 6495	TC
+T62	PROCEDIMIENTO 6497 6504	biopsia
+T63	PROCEDIMIENTO 6507 6532	estudio anatomopatológico
+T64	PROCEDIMIENTO 6746 6772	tratamiento quimioterápico
+T65	PROCEDIMIENTO 7004 7015	corticoides
+T66	PROCEDIMIENTO 7018 7032	citorreducción
+T67	PROCEDIMIENTO 2165 2175	Bioquímica
+T68	PROCEDIMIENTO 2780 2794	Monitorización
+T69	PROCEDIMIENTO 4526 4530	FISH
+T70	PROCEDIMIENTO 6801 6807	R-CHOP
+T71	SINTOMA 496 519	episodios presincopales
+T72	SINTOMA 685 699	dolor torácico
+T73	SINTOMA 703 716	palpitaciones
+T74	SINTOMA 721 727	disnea
+T75	SINTOMA 976 986	consciente
+T76	SINTOMA 989 998	orientado
+T77	SINTOMA 1000 1014	normohidratado
+T78	SINTOMA 1017 1031	normocoloreado
+T79	SINTOMA 1033 1047	Taquipnea leve
+T80	SINTOMA 1072 1097	ruidos cardiacos rítmicos
+T81	SINTOMA 1102 1108	soplos
+T82	SINTOMA 1151 1205	Abdomen blando, depresible, no doloroso a la palpación
+T83	SINTOMA 1220 1225	masas
+T84	SINTOMA 1229 1237	megalias
+T85	SINTOMA 1239 1263	Peristaltismo conservado
+T86	SINTOMA 1265 1295	Ingurgitación yugular negativa
+T87	SINTOMA 1297 1327	Reflujo hepatoyugular negativo
+T88	SINTOMA 1332 1346	edemas en EEII
+T89	SINTOMA 1564 1593	alteraciones faringolaríngeas
+T90	SINTOMA 1644 1678	edema en mucosas faringe-laríngeas
+T91	SINTOMA 1680 1698	vía área permeable
+T92	SINTOMA 1818 1851	alteraciones en la repolarización
+T93	SINTOMA 1875 1898	silueta cardiaca normal
+T94	SINTOMA 1900 1920	engrosamiento hiliar
+T95	SINTOMA 2007 2041	alteraciones pleuroparenquimatosas
+T96	SINTOMA 2475 2489	VI no dilatado
+T97	SINTOMA 2527 2542	FEVI conservada
+T98	SINTOMA 4861 4874	masa cervical
+T99	SINTOMA 4949 4970	disfagia para sólidos
+T100	SINTOMA 4975 4990	pérdida de peso
+T101	SINTOMA 5582 5595	masa cervical
+T102	SINTOMA 5688 5724	episodios sincopales y presincopales
+T103	SINTOMA 5737 5748	bradicardia
+T104	SINTOMA 5857 5868	bradicardia
+T105	SINTOMA 6964 6970	disnea
+T106	SINTOMA 6973 6981	disfagia
+T107	SINTOMA 7127 7147	episodios sincopales
+T108	SINTOMA 7358 7371	masa cervical
+T109	SINTOMA 522 532	sincopales
+T110	SINTOMA 5033 5053	episodios sincopales
+T111	SINTOMA 771 789	asimetría cervical
+T112	SINTOMA 1133 1149	normoventilación
+T113	SINTOMA 3759 3793	Moderada hiperinsuflación pulmonar
+T114	SINTOMA 2727 2754	Cavidades derechas normales
+T115	SINTOMA 7157 7176	estabilidad clínica
+T116	SINTOMA 1595 1615	buen espacio glótico
+T117	SINTOMA 1617 1639	Buena movilidad cordal
+T118	SINTOMA 3566 3619	ganglios de menor tamaño en el mediastino prevascular
+T119	SINTOMA 3841 3871	afectación del espacio pleural
+T120	SINTOMA 5259 5294	respuesta positiva cardioinhibidora
+T121	SINTOMA 6336 6350	betabloqueante
+T122	SINTOMA 6424 6437	masa cervical
+T123	SINTOMA 7076 7089	masa cervical
+T124	FARMACO 328 336	ramipril
+T125	FARMACO 349 359	bisoprolol
+T126	FARMACO 373 383	metformina
+T127	FARMACO 397 408	fenofibrato
+T128	FARMACO 423 430	Sintrom
+T129	FARMACO 6809 6818	rituximab
+T130	FARMACO 6820 6834	ciclofosfamida
+T131	FARMACO 6836 6859	doxorrubicina liposomal
+T132	FARMACO 6889 6900	vincristina
+T133	FARMACO 6903 6913	prednisona
+T134	FARMACO 7037 7051	ciclofosfamida

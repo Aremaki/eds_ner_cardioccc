@@ -1,0 +1,90 @@
+T1	ENFERMEDAD 159 194	accidente cerebrovascular isquémico
+T2	ENFERMEDAD 293 333	aneurisma de aorta abdominal infrarrenal
+T3	ENFERMEDAD 336 364	carcinoma escamoso de pulmón
+T4	ENFERMEDAD 1880 1916	Atelectasia residual de lóbulo medio
+T5	ENFERMEDAD 2029 2053	tromboembolismo pulmonar
+T6	ENFERMEDAD 2958 2980	tromboembolia pulmonar
+T7	ENFERMEDAD 2982 2985	TEP
+T8	ENFERMEDAD 3049 3067	patología pulmonar
+T9	ENFERMEDAD 3144 3163	shunt intracardiaco
+T10	ENFERMEDAD 3393 3453	aneurisma de septo interauricular con foramen oval permeable
+T11	ENFERMEDAD 3853 3909	Síndrome platipnea-ortodeoxia por foramen oval permeable
+T12	ENFERMEDAD 3705 3708	FOP
+T13	ENFERMEDAD 3764 3767	FOP
+T14	ENFERMEDAD 3550 3559	hipoxemia
+T15	ENFERMEDAD 1919 1945	elevación de hemidiafragma
+T16	ENFERMEDAD 2524 2547	shunt derecha-izquierda
+T17	ENFERMEDAD 3455 3458	FOP
+T18	ENFERMEDAD 3462 3485	shunt derecha izquierda
+T19	ENFERMEDAD 3964 3986	foramen oval permeable
+T20	ENFERMEDAD 2580 2614	septo interauricular aneurismático
+T21	ENFERMEDAD 1731 1758	elevación de hemidiafragama
+T22	ENFERMEDAD 3234 3239	shunt
+T23	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDIMIENTO 381 408	lobectomía superior derecha
+T25	PROCEDIMIENTO 787 805	exploración física
+T26	PROCEDIMIENTO 919 940	Auscultación cardiaca
+T27	PROCEDIMIENTO 976 997	Auscultación pulmonar
+T28	PROCEDIMIENTO 1395 1406	Coagulación
+T29	PROCEDIMIENTO 1415 1434	GASOMETRÍA ARTERIAL
+T30	PROCEDIMIENTO 1538 1556	ELECTROCARDIOGRAMA
+T31	PROCEDIMIENTO 1558 1561	ECG
+T32	PROCEDIMIENTO 1709 1729	RADIOGRAFÍA DE TÓRAX
+T33	PROCEDIMIENTO 1793 1804	TC TORÁCICO
+T34	PROCEDIMIENTO 1868 1878	lobectomía
+T35	PROCEDIMIENTO 2055 2083	ECOCARDIOGRAMA TRANSTORÁCICO
+T36	PROCEDIMIENTO 2377 2418	test de burbujas con suero salino agitado
+T37	PROCEDIMIENTO 2549 2578	ECOCARDIOGRAMA TRANSESOFÁGICO
+T38	PROCEDIMIENTO 2824 2856	oxigenoterapia con gafas nasales
+T39	PROCEDIMIENTO 2931 2942	TC torácico
+T40	PROCEDIMIENTO 3017 3027	lobectomía
+T41	PROCEDIMIENTO 3106 3120	ecocardiograma
+T42	PROCEDIMIENTO 3267 3308	test de burbujas con suero salino agitado
+T43	PROCEDIMIENTO 3334 3363	ecocardiograma transesofágico
+T44	PROCEDIMIENTO 3629 3643	oxigenoterapia
+T45	PROCEDIMIENTO 3675 3743	cierre percutáneo urgente del FOP bajo control con eco intracardiaco
+T46	PROCEDIMIENTO 3753 3767	cierre del FOP
+T47	PROCEDIMIENTO 3915 3933	lobectomía derecha
+T48	PROCEDIMIENTO 3935 3986	Cierre percutáneo urgente de foramen oval permeable
+T49	PROCEDIMIENTO 228 264	eco-Doppler de troncos supraaórticos
+T50	PROCEDIMIENTO 1136 1145	ANALÍTICA
+T51	PROCEDIMIENTO 2701 2726	suero fisiológico agitado
+T52	SINTOMA 108 121	disnea brusca
+T53	SINTOMA 600 606	disnea
+T54	SINTOMA 696 704	ortopnea
+T55	SINTOMA 708 735	disnea paroxística nocturna
+T56	SINTOMA 741 744	tos
+T57	SINTOMA 749 762	expectoración
+T58	SINTOMA 766 780	dolor torácico
+T59	SINTOMA 814 837	desaturación de oxígeno
+T60	SINTOMA 888 917	Presión venosa yugular normal
+T61	SINTOMA 919 948	Auscultación cardiaca rítmica
+T62	SINTOMA 954 960	soplos
+T63	SINTOMA 964 974	extratonos
+T64	SINTOMA 1002 1030	hipofonesis en base pulmonar
+T65	SINTOMA 1052 1063	crepitantes
+T66	SINTOMA 1067 1073	roncus
+T67	SINTOMA 1087 1109	edemas en extremidades
+T68	SINTOMA 1564 1577	ritmo sinusal
+T69	SINTOMA 1674 1707	alteraciones de la repolarización
+T70	SINTOMA 1768 1791	Silueta cardiaca normal
+T71	SINTOMA 1806 1843	pérdida de volumen en lóbulo superior
+T72	SINTOMA 2085 2149	ventrículo izquierdo de dimensiones y función sistólica normales
+T73	SINTOMA 2155 2201	alteraciones segmentarias de la contractilidad
+T74	SINTOMA 2267 2306	Válvulas mitral y aórtica sin anomalías
+T75	SINTOMA 2341 2364	Presión pulmonar normal
+T76	SINTOMA 3832 3838	disnea
+T77	SINTOMA 2308 2339	Septo interauricular hipermóvil
+T78	SINTOMA 2203 2265	Cavidades derechas normales con función ventricular conservada
+T79	SINTOMA 1395 1413	Coagulación normal
+T80	SINTOMA 1970 2014	defectos de repleción en arterias pulmonares
+T81	SINTOMA 228 278	eco-Doppler de troncos supraaórticos sin hallazgos
+T82	SINTOMA 2423 2481	paso masivo de burbujas de cavidades derechas a izquierdas
+T83	SINTOMA 2673 2767	paso masivo de burbujas con suero fisiológico agitado desde la aurícula derecha a la izquierda
+T84	FARMACO 464 486	ácido acetilsalicílico
+T85	FARMACO 505 515	salmeterol
+T86	FARMACO 516 541	propionato de fluticasona
+T87	FARMACO 2701 2718	suero fisiológico
+T88	FARMACO 2398 2410	suero salino
+T89	FARMACO 3288 3300	suero salino
+#1	AnnotatorNotes T17	  FORAMEN OVAL PERMEABLE

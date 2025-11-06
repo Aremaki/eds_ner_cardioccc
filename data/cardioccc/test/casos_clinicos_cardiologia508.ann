@@ -1,0 +1,92 @@
+T1	ENFERMEDAD 88 103	hábitos tóxicos
+T2	ENFERMEDAD 124 127	HTA
+T3	ENFERMEDAD 130 140	dislipemia
+T4	ENFERMEDAD 145 162	diabetes mellitus
+T5	ENFERMEDAD 164 191	Fractura de 5o metacarpiano
+T6	ENFERMEDAD 193 220	Síndrome depresivo reactivo
+T7	ENFERMEDAD 251 258	SCASEST
+T8	ENFERMEDAD 329 350	fibrilación auricular
+T9	ENFERMEDAD 1503 1506	TVP
+T10	ENFERMEDAD 1552 1576	taquicardia de QRS ancho
+T11	ENFERMEDAD 1611 1614	BRD
+T12	ENFERMEDAD 3085 3104	derrame pericárdico
+T13	ENFERMEDAD 3190 3222	miocarditis aguda (VI) con edema
+T14	ENFERMEDAD 3810 3833	arritmias ventriculares
+T15	ENFERMEDAD 3920 3929	arritmias
+T16	ENFERMEDAD 3977 3993	edema miocárdico
+T17	ENFERMEDAD 4020 4037	miocarditis aguda
+T18	ENFERMEDAD 4527 4560	Taquicardia ventricular sostenida
+T19	ENFERMEDAD 4576 4593	miocarditis aguda
+T20	ENFERMEDAD 2887 2910	AI ligeramente dilatada
+T21	ENFERMEDAD 3051 3053	IT
+T22	ENFERMEDAD 3508 3551	Ventrículo izquierdo moderadamente dilatado
+T23	ENFERMEDAD 3650 3657	IA leve
+T24	ENFERMEDAD 263 282	lesiones coronarias
+T25	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T26	PROCEDIMIENTO 289 304	coronariografía
+T27	PROCEDIMIENTO 901 924	cardioversión eléctrica
+T28	PROCEDIMIENTO 1015 1033	Exploración física
+T29	PROCEDIMIENTO 1233 1254	Auscultación pulmonar
+T30	PROCEDIMIENTO 1300 1321	Auscultación cardiaca
+T31	PROCEDIMIENTO 1533 1536	ECG
+T32	PROCEDIMIENTO 1736 1739	ECG
+T33	PROCEDIMIENTO 1826 1846	Radiografía de tórax
+T34	PROCEDIMIENTO 1891 1911	Radiografía de tórax
+T35	PROCEDIMIENTO 2372 2388	Función tiroidea
+T36	PROCEDIMIENTO 2422 2431	Hemograma
+T37	PROCEDIMIENTO 2568 2582	Ecocardiograma
+T38	PROCEDIMIENTO 3153 3182	Resonancia magnética cardiaca
+T39	PROCEDIMIENTO 3184 3187	RMC
+T40	PROCEDIMIENTO 3659 3685	Estudio electrofisiológico
+T41	PROCEDIMIENTO 3942 3945	RMC
+T42	PROCEDIMIENTO 4096 4120	implantar DAI subcutáneo
+T43	PROCEDIMIENTO 4122 4166	Se implanta DAI subcutáneo modelo EMBLEM MRI
+T44	PROCEDIMIENTO 4374 4408	tratamiento betabloqueante y ARAII
+T45	PROCEDIMIENTO 2309 2329	Marcadores cardiacos
+T46	PROCEDIMIENTO 2028 2037	Analítica
+T47	PROCEDIMIENTO 2039 2049	Bioquímica
+T48	SINTOMA 376 404	Función sistólica conservada
+T49	SINTOMA 636 659	dolor torácico opresivo
+T50	SINTOMA 662 675	palpitaciones
+T51	SINTOMA 821 853	taquicardia de QRS ancho rítmica
+T52	SINTOMA 935 948	ritmo sinusal
+T53	SINTOMA 1141 1151	Consciente
+T54	SINTOMA 1153 1162	orientado
+T55	SINTOMA 1164 1178	normocoloreado
+T56	SINTOMA 1181 1195	normohidratado
+T57	SINTOMA 1197 1205	Eupneico
+T58	SINTOMA 1210 1231	ingurgitación yugular
+T59	SINTOMA 1256 1272	normoventilación
+T60	SINTOMA 1278 1298	ruidos sobreañadidos
+T61	SINTOMA 1323 1337	tonos rítmicos
+T62	SINTOMA 1339 1352	taquicárdicos
+T63	SINTOMA 1354 1409	Abdomen blando y depresible, no doloroso a la palpación
+T64	SINTOMA 1425 1446	irritación peritoneal
+T65	SINTOMA 1448 1472	Peristaltismo conservado
+T66	SINTOMA 1749 1762	ritmo sinusal
+T67	SINTOMA 1773 1785	QRS estrecho
+T68	SINTOMA 1791 1824	alteraciones de la repolarización
+T69	SINTOMA 1826 1866	Radiografía de tórax: silueta conservada
+T70	SINTOMA 1871 1889	signos congestivos
+T71	SINTOMA 2702 2737	Función sistólica global conservada
+T72	SINTOMA 3107 3128	masas intracavitarias
+T73	SINTOMA 3570 3594	función sistólica normal
+T74	SINTOMA 3607 3624	Función VD normal
+T75	SINTOMA 3626 3648	Aurículas no dilatadas
+T76	SINTOMA 3659 3715	Estudio electrofisiológico: sin hallazgos significativos
+T77	SINTOMA 4266 4285	Tolera deambulación
+T78	SINTOMA 4432 4444	asintomático
+T79	SINTOMA 2999 3024	VM y VAo sin alteraciones
+T80	SINTOMA 2965 2997	Raíz aórtica de dimensión normal
+T81	SINTOMA 2936 2963	Cavidades derechas normales
+T82	SINTOMA 1474 1489	EEII: no edemas
+T83	SINTOMA 372 374	RS
+T84	SINTOMA 2584 2631	VI de dimensión en límite alto de la normalidad
+T85	SINTOMA 2865 2885	elevación de la TDVI
+T86	FARMACO 439 452	atorvastatina
+T87	FARMACO 460 469	lorazepam
+T88	FARMACO 476 486	bisoprolol
+T89	FARMACO 495 506	pantoprazol
+T90	FARMACO 514 519	adiro
+T91	FARMACO 528 535	orfidal
+T92	FARMACO 542 554	escitalopram

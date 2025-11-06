@@ -1,0 +1,56 @@
+T1	ENFERMEDAD 104 111	síncope
+T2	ENFERMEDAD 197 233	shock séptico de origen respiratorio
+T3	ENFERMEDAD 306 349	abscesos a nivel pulmonar, renal y hepático
+T4	ENFERMEDAD 363 423	trombo en la vena cava inferior y en la unión cavo-auricular
+T5	ENFERMEDAD 905 911	mixoma
+T6	ENFERMEDAD 1018 1026	abscesos
+T7	ENFERMEDAD 1029 1048	lesiones pulmonares
+T8	ENFERMEDAD 1926 1934	abscesos
+T9	ENFERMEDAD 1937 1956	lesiones pulmonares
+T10	ENFERMEDAD 2438 2457	lesiones pulmonares
+T11	ENFERMEDAD 2496 2504	abscesos
+T12	ENFERMEDAD 926 932	trombo
+T13	ENFERMEDAD 1150 1156	trombo
+T14	ENFERMEDAD 238 267	neumonía bilateral necrosante
+T15	ENFERMEDAD 913 923	vegetación
+T16	ENFERMEDAD 1131 1141	vegetación
+T17	PROCEDIMIENTO 436 450	ecocardiograma
+T18	PROCEDIMIENTO 567 579	hemocultivos
+T19	PROCEDIMIENTO 588 606	aspirado bronquial
+T20	PROCEDIMIENTO 642 654	hemocultivos
+T21	PROCEDIMIENTO 958 969	antibiótico
+T22	PROCEDIMIENTO 972 986	anticoagulante
+T23	PROCEDIMIENTO 1054 1069	ecocardiografía
+T24	PROCEDIMIENTO 1182 1242	resección quirúrgica completa bajo circulación extracorpórea
+T25	PROCEDIMIENTO 1318 1332	drenaje venoso
+T26	PROCEDIMIENTO 1348 1388	canulación percutánea de la vena femoral
+T27	PROCEDIMIENTO 1443 1475	canulación de vena cava superior
+T28	PROCEDIMIENTO 1492 1523	atriotomía longitudinal derecha
+T29	PROCEDIMIENTO 1529 1583	liberación temporal del torniquete de la cava inferior
+T30	PROCEDIMIENTO 1592 1641	resección de la base de implantación del pedículo
+T31	PROCEDIMIENTO 1961 1983	estudio microbiológico
+T32	PROCEDIMIENTO 2002 2025	estudio histopatológico
+T33	PROCEDIMIENTO 2110 2136	tratamiento anticoagulante
+T34	PROCEDIMIENTO 2163 2189	antibioterapia intravenosa
+T35	PROCEDIMIENTO 2248 2262	rehabilitación
+T36	PROCEDIMIENTO 2334 2348	ecocardiograma
+T37	PROCEDIMIENTO 837 845	cultivos
+T38	PROCEDIMIENTO 276 293	pruebas de imagen
+T39	PROCEDIMIENTO 2411 2428	pruebas de imagen
+T40	PROCEDIMIENTO 1877 1886	resección
+T41	PROCEDIMIENTO 1896 1903	cirugía
+T42	PROCEDIMIENTO 1266 1278	intervención
+T43	PROCEDIMIENTO 768 779	se aislaron
+T44	PROCEDIMIENTO 1646 1659	masa resecada
+T45	SINTOMA 122 138	malestar general
+T46	SINTOMA 141 150	distermia
+T47	SINTOMA 469 473	masa
+T48	SINTOMA 642 724	hemocultivos posteriores se aisló un Staphylococcus epidermidis coagulasa negativo
+T49	SINTOMA 1094 1098	masa
+T50	SINTOMA 2032 2036	masa
+T51	SINTOMA 2384 2404	masas intracardiacas
+T52	SINTOMA 588 637	aspirado bronquial se aisló Klebsiella pneumoniae
+T53	SINTOMA 815 845	estériles el resto de cultivos
+T54	SINTOMA 765 802	no se aislaron nuevos microorganismos
+T55	SINTOMA 1646 1722	masa resecada presentaba un pedículo de inserción en la válvula de Eustaquio
+T56	SINTOMA 1961 1995	estudio microbiológico fue estéril

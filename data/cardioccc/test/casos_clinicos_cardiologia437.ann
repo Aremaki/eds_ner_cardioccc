@@ -1,0 +1,124 @@
+T1	ENFERMEDAD 104 125	cardiopatía isquémica
+T2	ENFERMEDAD 172 198	infarto agudo de miocardio
+T3	ENFERMEDAD 200 203	IAM
+T4	ENFERMEDAD 233 254	cardiopatía isquémica
+T5	ENFERMEDAD 299 302	IAM
+T6	ENFERMEDAD 316 337	cardiopatía isquémica
+T7	ENFERMEDAD 382 405	alergias medicamentosas
+T8	ENFERMEDAD 419 434	hábitos tóxicos
+T9	ENFERMEDAD 491 503	hipertensión
+T10	ENFERMEDAD 505 508	HTA
+T11	ENFERMEDAD 514 531	diabetes mellitus
+T12	ENFERMEDAD 533 535	DM
+T13	ENFERMEDAD 547 634	Hipercolesterolemia familiar heterocigota con estudio genético positivo (mutación M334)
+T14	ENFERMEDAD 728 767	cardiopatía isquémica crónica multivaso
+T15	ENFERMEDAD 800 844	IAM inferoposterior con enfermedad multivaso
+T16	ENFERMEDAD 1098 1113	angor inestable
+T17	ENFERMEDAD 1206 1229	Oclusión crónica de ACD
+T18	ENFERMEDAD 1343 1372	isquemia en territorio de ACD
+T19	ENFERMEDAD 1502 1532	Oclusión del 100% de ACD media
+T20	ENFERMEDAD 1668 1695	Ictus hemisférico izquierdo
+T21	ENFERMEDAD 1718 1730	Fibromialgia
+T22	ENFERMEDAD 1747 1760	hernia lumbar
+T23	ENFERMEDAD 2140 2181	hipercolesterolemia familiar heterocigota
+T24	ENFERMEDAD 2238 2277	cardiopatía isquémica crónica multivaso
+T25	ENFERMEDAD 2632 2647	angor inestable
+T26	ENFERMEDAD 2666 2686	enfermedad coronaria
+T27	ENFERMEDAD 4122 4146	insuficiencia tricúspide
+T28	ENFERMEDAD 4148 4150	IT
+T29	ENFERMEDAD 6358 6371	valvulopatías
+T30	ENFERMEDAD 7256 7261	angor
+T31	ENFERMEDAD 7276 7363	Hipercolesterolemia familiar heterocigota con estudio genético positivo (mutación M334)
+T32	ENFERMEDAD 7419 7458	Cardiopatía isquémica crónica multivaso
+T33	ENFERMEDAD 4182 4224	arteria carótida interna derecha con placa
+T34	ENFERMEDAD 4306 4350	Arteria carótida interna izquierda con placa
+T35	ENFERMEDAD 931 983	arteria coronaria derecha (ACD) ocluida crónicamente
+T36	ENFERMEDAD 4442 4495	A. vertebra izquierda dominante y derecha hipoplásica
+T37	ENFERMEDAD 4904 4932	irregularidades ateromatosas
+T38	PROCEDIMIENTO 593 609	estudio genético
+T39	PROCEDIMIENTO 1124 1139	coronariografía
+T40	PROCEDIMIENTO 1297 1322	ecocardiografía de estrés
+T41	PROCEDIMIENTO 1380 1495	cateterismo sin reestenosis de los stents implantados en la arteria descendente anterior (DA) y arteria circunfleja
+T42	PROCEDIMIENTO 1555 1601	angioplastia coronaria transluminal percutánea
+T43	PROCEDIMIENTO 1603 1607	ACTP
+T44	PROCEDIMIENTO 1615 1636	stents farmacoactivos
+T45	PROCEDIMIENTO 2850 2910	LDL aféresis que se inicia tras practicar fístula A-V en MSI
+T46	PROCEDIMIENTO 2942 2960	EXPLORACIÓN FÍSICA
+T47	PROCEDIMIENTO 3177 3209	Auscultación cardiorrespiratoria
+T48	PROCEDIMIENTO 3417 3435	ELECTROCARDIOGRAMA
+T49	PROCEDIMIENTO 3437 3440	ECG
+T50	PROCEDIMIENTO 3767 3782	ECOCARDIOGRAFÍA
+T51	PROCEDIMIENTO 4153 4180	ECOGRAFÍA DOPPLER CAROTÍDEO
+T52	PROCEDIMIENTO 4497 4527	ECOGRAFÍA DOPPLER ILEO-FEMORAL
+T53	PROCEDIMIENTO 4538 4649	Doppler color el sistema arterial iliaco, femoral común/superficial y poplíteo de ambas extremidades inferiores
+T54	PROCEDIMIENTO 5576 5588	LDL aféresis
+T55	PROCEDIMIENTO 5795 5803	aféresis
+T56	PROCEDIMIENTO 5929 5937	aféresis
+T57	PROCEDIMIENTO 6234 6249	ecocardiografía
+T58	PROCEDIMIENTO 6585 6597	LDL aféresis
+T59	PROCEDIMIENTO 6901 6909	aféresis
+T60	PROCEDIMIENTO 7199 7208	estatinas
+T61	PROCEDIMIENTO 7322 7338	estudio genético
+T62	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDIMIENTO 3533 3548	PERFIL LIPÍDICO
+T64	PROCEDIMIENTO 4987 5002	PERFIL LIPÍDICO
+T65	PROCEDIMIENTO 5213 5228	PERFIL LIPÍDICO
+T66	PROCEDIMIENTO 5409 5424	PERFIL LIPÍDICO
+T67	PROCEDIMIENTO 2528 2543	hipolipemiantes
+T68	PROCEDIMIENTO 875 929	ADA y marginal con implante de 4 stents farmacoactivos
+T69	PROCEDIMIENTO 824 860	enfermedad multivaso revascularizada
+T70	PROCEDIMIENTO 7419 7481	Cardiopatía isquémica crónica multivaso precoz revascularizada
+T71	PROCEDIMIENTO 2238 2300	cardiopatía isquémica crónica multivaso precoz revascularizada
+T72	SINTOMA 1297 1338	ecocardiografía de estrés siendo positiva
+T73	SINTOMA 2060 2074	dolor torácico
+T74	SINTOMA 2962 2981	Buen estado general
+T75	SINTOMA 3012 3030	Eupneico en reposo
+T76	SINTOMA 3049 3056	Afebril
+T77	SINTOMA 3059 3084	estable hemodinámicamente
+T78	SINTOMA 3154 3175	Arco corneal positivo
+T79	SINTOMA 3177 3228	Auscultación cardiorrespiratoria con tonos rítmicos
+T80	SINTOMA 3234 3240	soplos
+T81	SINTOMA 3242 3271	Murmullo vesicular conservado
+T82	SINTOMA 3276 3296	ruidos sobreañadidos
+T83	SINTOMA 3310 3339	edemas en miembros inferiores
+T84	SINTOMA 3344 3360	pulsos presentes
+T85	SINTOMA 3362 3390	Soplos femorales bilaterales
+T86	SINTOMA 3443 3456	ritmo sinusal
+T87	SINTOMA 3492 3504	QRS estrecho
+T88	SINTOMA 3509 3531	bajos voltajes en DIII
+T89	SINTOMA 3784 3814	aurícula izquierda no dilatada
+T90	SINTOMA 4054 4081	Cavidades derechas normales
+T91	SINTOMA 4090 4105	FEVI conservada
+T92	SINTOMA 5648 5655	astenia
+T93	SINTOMA 6078 6093	aumento de peso
+T94	SINTOMA 6262 6290	función sistólica conservada
+T95	SINTOMA 593 634	estudio genético positivo (mutación M334)
+T96	SINTOMA 1151 1204	pérdida luminal de los stents previamente implantados
+T97	SINTOMA 3032 3047	tolera decúbito
+T98	SINTOMA 3944 3964	FE global conservada
+T99	SINTOMA 4021 4052	Raíz y válvula aórtica normales
+T100	SINTOMA 3966 4019	Válvula mitral con valvas finas y apertura conservada
+T101	SINTOMA 6292 6338	alteraciones segmentarias de la contractilidad
+T102	SINTOMA 7322 7363	estudio genético positivo (mutación M334)
+T103	SINTOMA 2983 3010	bien hidratado y perfundido
+T104	SINTOMA 6166 6175	cansancio
+T105	SINTOMA 6096 6109	edematización
+T106	SINTOMA 3467 3477	eje normal
+T107	SINTOMA 271 280	fallecido
+T108	SINTOMA 4442 4473	A. vertebra izquierda dominante
+T109	FARMACO 1784 1806	ácido acetilsalicílico
+T110	FARMACO 1808 1811	AAS
+T111	FARMACO 1832 1842	bisoprolol
+T112	FARMACO 1862 1873	telmisartan
+T113	FARMACO 1892 1903	pantoprazol
+T114	FARMACO 1922 1925	NTG
+T115	FARMACO 1953 1962	ezetimibe
+T116	FARMACO 1981 1994	rosuvastatina
+T117	FARMACO 2013 2023	duloxetina
+T118	FARMACO 6711 6724	rosuvastatina
+T119	FARMACO 6727 6736	ezetimibe
+T120	FARMACO 2042 2045	CFN
+T121	FARMACO 6687 6696	nti-PCSK9
+T122	FARMACO 6512 6522	anti-PCKS9
+T123	FARMACO 7407 7417	anti-PCSK9
+#1	AnnotatorNotes T120	 cafinitrina

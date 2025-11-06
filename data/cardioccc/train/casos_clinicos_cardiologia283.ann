@@ -1,0 +1,132 @@
+T1	DISEASE 86 120	accidentes isquémicos transitorios
+T2	DISEASE 415 438	alergias medicamentosas
+T3	DISEASE 457 465	fumadora
+T4	DISEASE 1856 1878	insuficiencia cardiaca
+T5	DISEASE 2769 2789	Insuficiencia mitral
+T6	DISEASE 2800 2826	Trombo móvil en ápex de VI
+T7	DISEASE 2887 2904	calcifi coronaria
+T8	DISEASE 2906 2936	Enfermedad coronaria de 1 vaso
+T9	DISEASE 3188 3243	disección espiroidea y hematoma de descendente anterior
+T10	DISEASE 4117 4130	Trombo apical
+T11	DISEASE 4424 4443	lesiones isquémicas
+T12	DISEASE 4521 4581	lesiones isquémica en territorio de la circulación posterior
+T13	DISEASE 4896 4947	Disfunción sistólica izquierda ventricular moderada
+T14	DISEASE 5284 5293	aneurisma
+T15	DISEASE 5449 5488	ictus embólicos hemisféricos izquierdos
+T16	DISEASE 5568 5597	infarto de miocardio anterior
+T17	DISEASE 5639 5658	trombo apical móvil
+T18	DISEASE 6375 6414	Ictus embólicos hemisféricos izquierdos
+T19	DISEASE 6416 6464	Trombo apical en VI como fuente de cardioembolia
+T20	DISEASE 6466 6487	Cardiopatía isquémica
+T21	DISEASE 6489 6564	Oclusión de arteria coronaria descendente anterior por disección espiroidea
+T22	DISEASE 6566 6595	Infarto de miocardio anterior
+T23	DISEASE 6609 6636	Aneurisma apical con trombo
+T24	DISEASE 6638 6660	Insuficiencia cardiaca
+T25	DISEASE 2492 2505	Herpes simple
+T26	DISEASE 440 455	Hábitos tóxicos
+T27	DISEASE 2526 2530	Lues
+T28	DISEASE 5201 5214	trombo apical
+T29	DISEASE 5365 5371	trombo
+T30	DISEASE 719 752	parestesias en hemicuerpo derecho
+T31	DISEASE 819 848	paresia en hemicuerpo derecho
+T32	DISEASE 2568 2614	ventrículo izquierdo (VI) ligeramente dilatado
+T33	DISEASE 2995 3023	Descendente anterior ocluida
+T34	DISEASE 4238 4282	Aurícula izquierda (AI) ligeramente dilatada
+T35	DISEASE 4728 4739	VI dilatado
+T36	DISEASE 5014 5030	Dilatación de AI
+T37	DISEASE 5039 5127	Regurgitación mitral protomesosistólica localizada entre A2-P2, de grado ligero-moderado
+T38	DISEASE 5664 5694	disección coronaria espontánea
+T39	PROCEDURE 1085 1103	electrocardiograma
+T40	PROCEDURE 1105 1108	ECG
+T41	PROCEDURE 1112 1140	ecocardiograma transtorácico
+T42	PROCEDURE 1202 1220	Exploración física
+T43	PROCEDURE 1399 1420	Auscultación cardiaca
+T44	PROCEDURE 1452 1473	Auscultación pulmonar
+T45	PROCEDURE 1610 1628	Electrocardiograma
+T46	PROCEDURE 1791 1811	Radiografía de tórax
+T47	PROCEDURE 1891 1900	Hemograma
+T48	PROCEDURE 1987 1998	Coagulación
+T49	PROCEDURE 2454 2467	Proteinograma
+T50	PROCEDURE 2476 2485	Serología
+T51	PROCEDURE 2552 2566	Ecocardiograma
+T52	PROCEDURE 2841 2861	Estudio hemodinámico
+T53	PROCEDURE 3389 3406	Angiografía renal
+T54	PROCEDURE 3551 3594	Resonancia magnética nuclear (RMN) cardiaca
+T55	PROCEDURE 4284 4295	TAC craneal
+T56	PROCEDURE 4633 4669	Eco Doppler de troncos supraaórticos
+T57	PROCEDURE 4689 4703	Ecocardiograma
+T58	PROCEDURE 5768 5780	RMN cardiaca
+T59	PROCEDURE 6164 6178	ecocardiograma
+T60	PROCEDURE 6283 6331	implante de desfibrilador automático implantable
+T61	PROCEDURE 6333 6336	DAI
+T62	PROCEDURE 6764 6779	Implante de DAI
+T63	PROCEDURE 2018 2028	Bioquímica
+T64	PROCEDURE 378 396	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 3581 3584	RMN
+T66	PROCEDURE 1880 1889	Analítica
+T67	SYMPTOM 133 147	dolor torácico
+T68	SYMPTOM 149 155	disnea
+T69	SYMPTOM 266 288	alteraciones cardiacas
+T70	SYMPTOM 704 716	hipoestesias
+T71	SYMPTOM 1001 1015	dolor torácico
+T72	SYMPTOM 1017 1023	disnea
+T73	SYMPTOM 1221 1240	Buen estado general
+T74	SYMPTOM 1242 1269	bien hidratada y perfundida
+T75	SYMPTOM 1339 1346	Afebril
+T76	SYMPTOM 1348 1366	Eupneica en reposo
+T77	SYMPTOM 1368 1397	Presión venosa yugular normal
+T78	SYMPTOM 1399 1429	Auscultación cardiaca: rítmica
+T79	SYMPTOM 1444 1450	soplos
+T80	SYMPTOM 1475 1504	murmullo vesicular conservado
+T81	SYMPTOM 1506 1530	Abdomen sin alteraciones
+T82	SYMPTOM 1532 1563	Miembros inferiores: sin edemas
+T83	SYMPTOM 1565 1583	pulsos conservados
+T84	SYMPTOM 1630 1643	ritmo sinusal
+T85	SYMPTOM 1666 1678	QRS estrecho
+T86	SYMPTOM 1813 1841	índice cardiotorácico normal
+T87	SYMPTOM 2273 2309	Ácido fólico y vitamina B12 normales
+T88	SYMPTOM 2358 2376	Tiroideas normales
+T89	SYMPTOM 2390 2431	Factor Leiden y factor II 20.210 negativo
+T90	SYMPTOM 2433 2452	Homocisteína normal
+T91	SYMPTOM 2454 2474	Proteinograma normal
+T92	SYMPTOM 4583 4609	Sistema ventricular normal
+T93	SYMPTOM 4633 4687	Eco Doppler de troncos supraaórticos: sin alteraciones
+T94	SYMPTOM 4960 5012	VD de tamaño normal con función sistólica conservada
+T95	SYMPTOM 5172 5189	Pericardio normal
+T96	SYMPTOM 6665 6694	fracción de eyección reducida
+T97	SYMPTOM 2311 2333	Autoimunidad: negativa
+T98	SYMPTOM 2335 2353	Complemento normal
+T99	SYMPTOM 2476 2550	Serología: VIH, Herpes simple, VEB, CMV, Brucela, Lues y Borrelia negativa
+T100	SYMPTOM 2619 2645	depresión grave de la FEVI
+T101	SYMPTOM 2660 2696	acinesia y remodelado extenso apical
+T102	SYMPTOM 2698 2767	acinesia anterior extensa, inferior medio-apical y septo medio-apical
+T103	SYMPTOM 3596 3628	VI de tamaño normal con acinesia
+T104	SYMPTOM 3706 3770	Hipocinesia severa de septo medio, lateral medio, inferior medio
+T105	SYMPTOM 4166 4206	Ventrículo derecho (VD) de tamaño normal
+T106	SYMPTOM 4208 4236	Aurícula derecha (AD) normal
+T107	SYMPTOM 4728 4752	VI dilatado con acinesia
+T108	SYMPTOM 5610 5636	depresión grave de la FEVI
+T109	SYMPTOM 2938 2978	Tronco coronario izquierdo sin estenosis
+T110	SYMPTOM 1949 1963	fórmula normal
+T111	SYMPTOM 1680 1705	Onda Q en V1-V4, DI y aVL
+T112	SYMPTOM 1710 1789	onda T isodifásica en V2-V4, plana en V5-V6, DI y aVL y derivaciones inferiores
+T113	SYMPTOM 2201 2226	Inmonoglubulinas normales
+T114	SYMPTOM 2863 2881	dominancia derecha
+T115	SYMPTOM 3261 3308	Circunfleja y coronaria derecha de buen calibre
+T116	SYMPTOM 3517 3549	Doble sistema arterial izquierdo
+T117	SYMPTOM 3408 3467	arteria renal derecha rectilínea con pequeñas deformaciones
+T118	SYMPTOM 3929 3965	Realce tardío muy extenso transmural
+T119	SYMPTOM 3782 3795	Hipoperfusión
+T120	SYMPTOM 4297 4395	hipodensidad corticosubcortical en convexidad parietal izquierda y en núcleos de la base izquierdo
+T121	SYMPTOM 4452 4503	hiperdensidad a nivel del top de la arteria basilar
+T122	SYMPTOM 4611 4631	Línea media centrada
+T123	SYMPTOM 4867 4894	imagen aneurismática apical
+T124	SYMPTOM 5855 5878	cifras bajas de TA y FC
+T125	MEDICATION 5911 5933	Ácido acetilsalicílico
+T126	MEDICATION 5935 5938	AAS
+T127	MEDICATION 5955 5967	acenocumarol
+T128	MEDICATION 5990 5999	omeprazol
+T129	MEDICATION 6014 6035	sacubitrilo/valsartán
+T130	MEDICATION 6060 6070	carvedilol
+T131	MEDICATION 6095 6110	espironolactona
+T132	MEDICATION 6125 6138	atorvastatina

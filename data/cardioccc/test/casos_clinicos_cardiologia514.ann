@@ -1,0 +1,53 @@
+T1	ENFERMEDAD 71 81	hipertenso
+T2	ENFERMEDAD 215 239	síndrome coronario agudo
+T3	ENFERMEDAD 986 1036	cavidad ventricular un flap procedente de la aorta
+T4	ENFERMEDAD 1042 1072	insuficiencia aórtica moderada
+T5	ENFERMEDAD 1184 1203	derrame pericárdico
+T6	ENFERMEDAD 1548 1577	Aneurisma de aorta ascendente
+T7	ENFERMEDAD 2566 2605	afectación coronaria y valvular aórtica
+T8	ENFERMEDAD 2294 2308	edema pulmonar
+T9	ENFERMEDAD 2463 2472	asistolia
+T10	ENFERMEDAD 2496 2525	Aneurisma de aorta ascendente
+T11	ENFERMEDAD 2527 2549	Síndrome aórtico agudo
+T12	ENFERMEDAD 2619 2637	shock cardiogénico
+T13	ENFERMEDAD 1319 1427	calcificaciones en la luz de la aorta abdominal craneal a los vasos renales y ambas arterias ilíacas comunes
+T14	ENFERMEDAD 1445 1462	placas de ateroma
+T15	ENFERMEDAD 1255 1308	formación cálcica lineal en la luz del cayado aórtico
+T16	ENFERMEDAD 1725 1743	derrames pleurales
+T17	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T18	PROCEDIMIENTO 589 610	auscultación cardiaca
+T19	PROCEDIMIENTO 667 688	auscultación pulmonar
+T20	PROCEDIMIENTO 784 787	ECG
+T21	PROCEDIMIENTO 890 918	Ecocardiograma transtorácico
+T22	PROCEDIMIENTO 1205 1214	Angio-TAC
+T23	PROCEDIMIENTO 1801 1815	ecocardiograma
+T24	PROCEDIMIENTO 1828 1847	angio-TAC emergente
+T25	PROCEDIMIENTO 2036 2039	IOT
+T26	PROCEDIMIENTO 2106 2115	angio-TAC
+T27	PROCEDIMIENTO 2412 2445	maniobras de reanimación avanzada
+T28	PROCEDIMIENTO 1891 1903	intervención
+T29	PROCEDIMIENTO 1915 1941	perfusión de noradrenalina
+T30	SINTOMA 361 383	dolor torácico intenso
+T31	SINTOMA 386 404	sensación nauseosa
+T32	SINTOMA 487 497	obnubilado
+T33	SINTOMA 499 526	hemodinámicamente inestable
+T34	SINTOMA 539 553	mal perfundido
+T35	SINTOMA 560 582	intenso dolor torácico
+T36	SINTOMA 627 633	soplos
+T37	SINTOMA 739 757	pulsos periféricos
+T38	SINTOMA 789 802	ritmo sinusal
+T39	SINTOMA 807 858	descenso de ST de 5 mm V2-V6, I, aVL, II, III y aVF
+T40	SINTOMA 863 888	ascenso de ST en V1 y aVR
+T41	SINTOMA 1591 1650	parénquimas pulmonares presentan engrosamiento intersticial
+T42	SINTOMA 1759 1764	edema
+T43	SINTOMA 2011 2023	desaturación
+T44	SINTOMA 2381 2392	bradicardia
+T45	SINTOMA 2475 2481	éxitus
+T46	SINTOMA 2640 2646	éxitus
+T47	SINTOMA 2057 2068	bradicardia
+T48	SINTOMA 920 970	VI sin aparentes alteraciones de la contractilidad
+T49	SINTOMA 1652 1675	infiltrados bilaterales
+T50	SINTOMA 704 724	ruidos sobreañadidos
+T51	SINTOMA 640 660	tonos están apagados
+T52	SINTOMA 1136 1167	cavidades derechas son normales
+T53	FARMACO 1928 1941	noradrenalina

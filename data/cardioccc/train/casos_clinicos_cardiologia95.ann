@@ -1,0 +1,49 @@
+T1	DISEASE 118 141	cardiopatía estructural
+T2	DISEASE 239 260	taquicardia auricular
+T3	DISEASE 291 312	hipertensión arterial
+T4	DISEASE 315 325	dislipemia
+T5	DISEASE 537 558	taquicardia auricular
+T6	DISEASE 651 676	enfermedad pleuropulmonar
+T7	DISEASE 1302 1323	taquicardia auricular
+T8	DISEASE 2051 2078	BRDHH de etiología mecánica
+T9	DISEASE 2194 2266	Taquicardia auricular con origen en la región del seno aórtico posterior
+T10	DISEASE 450 473	alteraciones valvulares
+T11	DISEASE 1070 1091	Taquicardia auricular
+T12	DISEASE 1560 1582	Foramen oval permeable
+T13	PROCEDURE 34 52	exploración física
+T14	PROCEDURE 189 215	estudio electrofisiológico
+T15	PROCEDURE 330 348	exploración física
+T16	PROCEDURE 364 378	ecocardiograma
+T17	PROCEDURE 496 510	estudio Holter
+T18	PROCEDURE 614 634	radiografía de tórax
+T19	PROCEDURE 758 783	tratamiento antiarrítmico
+T20	PROCEDURE 817 841	tratamiento cardiológico
+T21	PROCEDURE 949 967	Electrocardiograma
+T22	PROCEDURE 1187 1248	estudio electrofisiológico en AD, VD y His, en seno coronario
+T23	PROCEDURE 1259 1278	catéter de ablación
+T24	PROCEDURE 1488 1515	mapa electroanatómico de AD
+T25	PROCEDURE 227 260	ablación de taquicardia auricular
+T26	PROCEDURE 1125 1181	Mediante abordaje femoral se introducen electrocatéteres
+T27	PROCEDURE 2268 2341	Ablación por radiofrecuencia de la taquicardia por vía retrógrada aórtica
+T28	PROCEDURE 576 585	analítica
+T29	PROCEDURE 1402 1433	administración de isoproterenol
+T30	PROCEDURE 1782 1805	Se aplica energía de RF
+T31	SYMPTOM 89 102	palpitaciones
+T32	SYMPTOM 391 443	ventrículo izquierdo no dilatado con FSVI conservada
+T33	SYMPTOM 975 988	ritmo sinusal
+T34	SYMPTOM 1829 1840	taquicardia
+T35	SYMPTOM 2024 2037	ritmo sinusal
+T36	SYMPTOM 1023 1068	Sobrecarga sistólica del ventrículo izquierdo
+T37	SYMPTOM 330 359	exploración física era normal
+T38	SYMPTOM 576 605	analítica habitual era normal
+T39	SYMPTOM 680 739	alteraciones significativas de la silueta cardiopericárdica
+T40	SYMPTOM 1526 1558	precocidad en región perihisiana
+T41	SYMPTOM 1638 1674	precocidad en seno aórtico posterior
+T42	MEDICATION 788 796	atenolol
+T43	MEDICATION 855 872	hidroclorotiazida
+T44	MEDICATION 874 884	amlodipino
+T45	MEDICATION 886 896	furosemida
+T46	MEDICATION 898 911	pitavastatina
+T47	MEDICATION 913 922	ezetimibe
+T48	MEDICATION 843 853	eprosartán
+#1	AnnotatorNotes T8	 BRDHH: Bloqueo de rama derecha del Haz de His

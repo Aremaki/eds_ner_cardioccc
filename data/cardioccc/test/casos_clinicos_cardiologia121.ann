@@ -1,0 +1,64 @@
+T1	ENFERMEDAD 293 313	Alergia a penicilina
+T2	ENFERMEDAD 334 357	intoxicación por drogas
+T3	ENFERMEDAD 720 748	consumo de tóxicos y cocaína
+T4	ENFERMEDAD 961 983	insuficiencia cardiaca
+T5	ENFERMEDAD 1388 1418	patología pleuropulmonar aguda
+T6	ENFERMEDAD 1794 1827	IAM con elevación del segmento ST
+T7	ENFERMEDAD 2391 2419	taquicardia supraventricular
+T8	ENFERMEDAD 2422 2445	taquicardia ventricular
+T9	ENFERMEDAD 2589 2598	asistolia
+T10	ENFERMEDAD 2697 2706	asistolia
+T11	ENFERMEDAD 2759 2775	ruptura cardiaca
+T12	ENFERMEDAD 2858 2937	Infarto agudo de miocardio con elevación del segmento ST por consumo de cocaína
+T13	ENFERMEDAD 1239 1254	daño miocárdico
+T14	ENFERMEDAD 857 882	mala perfusión periférica
+T15	ENFERMEDAD 1752 1767	estado preshocK
+T16	PROCEDIMIENTO 233 251	exploración física
+T17	PROCEDIMIENTO 750 768	Exploración física
+T18	PROCEDIMIENTO 890 911	auscultación cardiaca
+T19	PROCEDIMIENTO 1023 1032	Hemograma
+T20	PROCEDIMIENTO 1371 1382	Rx de tórax
+T21	PROCEDIMIENTO 1422 1440	Electrocardiograma
+T22	PROCEDIMIENTO 1534 1552	Electrocardiograma
+T23	PROCEDIMIENTO 1941 1962	angioplastia primaria
+T24	PROCEDIMIENTO 1982 1993	trombolisis
+T25	PROCEDIMIENTO 2194 2207	ACTP primaria
+T26	PROCEDIMIENTO 2533 2558	maniobras de RCP avanzada
+T27	PROCEDIMIENTO 2617 2642	maniobras de RCP avanzada
+T28	PROCEDIMIENTO 2719 2733	ecocardiograma
+T29	PROCEDIMIENTO 2797 2809	RCP avanzada
+T30	PROCEDIMIENTO 1266 1277	Coagulación
+T31	PROCEDIMIENTO 1299 1315	Tóxicos en orina
+T32	PROCEDIMIENTO 1225 1254	Marcadores de daño miocárdico
+T33	PROCEDIMIENTO 1123 1133	Bioquímica
+T34	PROCEDIMIENTO 1012 1021	Analítica
+T35	SINTOMA 95 102	vómitos
+T36	SINTOMA 105 114	agitación
+T37	SINTOMA 130 154	dolor en parrilla costal
+T38	SINTOMA 169 172	tos
+T39	SINTOMA 514 521	vómitos
+T40	SINTOMA 524 533	agitación
+T41	SINTOMA 549 573	dolor en parrilla costal
+T42	SINTOMA 588 591	tos
+T43	SINTOMA 795 805	Consciente
+T44	SINTOMA 807 814	agitado
+T45	SINTOMA 816 824	ansiedad
+T46	SINTOMA 826 833	palidez
+T47	SINTOMA 835 845	sudoración
+T48	SINTOMA 928 934	soplos
+T49	SINTOMA 1450 1463	Ritmo sinusal
+T50	SINTOMA 1556 1569	Ritmo sinusal
+T51	SINTOMA 1699 1713	dolor torácico
+T52	SINTOMA 1802 1827	elevación del segmento ST
+T53	SINTOMA 2835 2841	exitus
+T54	SINTOMA 2889 2914	elevación del segmento ST
+T55	SINTOMA 2941 2947	Exitus
+T56	SINTOMA 1725 1750	mala perfusión periférica
+T57	SINTOMA 2283 2304	hipoperfusión capilar
+T58	SINTOMA 1472 1501	Supradesnivel del segmento ST
+T59	SINTOMA 1578 1597	Supradesnivel de ST
+T60	SINTOMA 2483 2512	actividad eléctrica sin pulso
+T61	SINTOMA 2514 2518	AESP
+T62	SINTOMA 1299 1367	Tóxicos en orina: Cocaína, benzodiacepinas y productos cannabinoides
+T63	FARMACO 2009 2017	metalyse
+#1	AnnotatorNotes T61	actividad eléctrica sin pulso

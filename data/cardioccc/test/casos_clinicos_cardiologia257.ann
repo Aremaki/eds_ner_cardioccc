@@ -1,0 +1,127 @@
+T1	ENFERMEDAD 49 97	bloqueo completo de rama izquierda de has de His
+T2	ENFERMEDAD 99 105	BCRIHH
+T3	ENFERMEDAD 257 277	síndrome de QT largo
+T4	ENFERMEDAD 279 283	SQTL
+T5	ENFERMEDAD 491 502	cardiopatía
+T6	ENFERMEDAD 506 519	muerte súbita
+T7	ENFERMEDAD 608 631	alergias medicamentosas
+T8	ENFERMEDAD 642 650	Fumadora
+T9	ENFERMEDAD 693 701	bebedora
+T10	ENFERMEDAD 703 724	Hipertensión arterial
+T11	ENFERMEDAD 785 802	diabetes mellitus
+T12	ENFERMEDAD 806 816	dislipemia
+T13	ENFERMEDAD 840 867	meningitis aguda bacteriana
+T14	ENFERMEDAD 1128 1134	BCRIHH
+T15	ENFERMEDAD 1489 1500	adenopatías
+T16	ENFERMEDAD 1837 1862	trombosis venosa profunda
+T17	ENFERMEDAD 1864 1867	TVP
+T18	ENFERMEDAD 1952 1971	bradicardia sinusal
+T19	ENFERMEDAD 2042 2048	BCRIHH
+T20	ENFERMEDAD 2436 2485	Válvula aórtica trivalva con signos degenerativos
+T21	ENFERMEDAD 2622 2647	insuficiencia tricuspidea
+T22	ENFERMEDAD 2882 2888	BCRIHH
+T23	ENFERMEDAD 3109 3128	derrame pericárdico
+T24	ENFERMEDAD 3198 3217	isquemia miocárdica
+T25	ENFERMEDAD 3265 3271	BCRIHH
+T26	ENFERMEDAD 3440 3463	arritmias ventriculares
+T27	ENFERMEDAD 3705 3732	extrasístoles ventriculares
+T28	ENFERMEDAD 4191 4197	BCRIHH
+T29	ENFERMEDAD 4432 4452	episodios sincopales
+T30	ENFERMEDAD 4709 4743	insuficiencia aórtica degenerativa
+T31	ENFERMEDAD 4882 4890	isquemia
+T32	ENFERMEDAD 4947 4967	síndrome de QT largo
+T33	ENFERMEDAD 5252 5279	extrasístoles ventriculares
+T34	ENFERMEDAD 5482 5502	Síndrome de QT largo
+T35	ENFERMEDAD 5504 5508	SQTL
+T36	ENFERMEDAD 5762 5766	SQTL
+T37	ENFERMEDAD 5949 5969	Síndrome de QT largo
+T38	ENFERMEDAD 5991 6017	Insuficiencia aortica leve
+T39	ENFERMEDAD 6045 6094	Bloqueo completo de rama izquierda del haz de His
+T40	ENFERMEDAD 5380 5398	eventos arrítmicos
+T41	ENFERMEDAD 556 564	sincopes
+T42	ENFERMEDAD 1269 1277	síncopes
+T43	ENFERMEDAD 4614 4661	entrículo izquierdo con hipertrofia concéntrica
+T44	ENFERMEDAD 2166 2228	ventrículo izquierdo no dilatado (DTDVI 42mm), con hipertrofia
+T45	ENFERMEDAD 5197 5237	QTc basal y en máximo ejercicio alargado
+T46	PROCEDIMIENTO 143 161	electrocardiograma
+T47	PROCEDIMIENTO 163 166	ECG
+T48	PROCEDIMIENTO 925 939	apendicectomía
+T49	PROCEDIMIENTO 941 973	Hernioplastia inguinal izquierda
+T50	PROCEDIMIENTO 1111 1114	ECG
+T51	PROCEDIMIENTO 1280 1298	Exploración física
+T52	PROCEDIMIENTO 1534 1566	Auscultación cardiaca y pulmonar
+T53	PROCEDIMIENTO 1733 1742	palpación
+T54	PROCEDIMIENTO 1935 1938	ECG
+T55	PROCEDIMIENTO 2123 2137	Ecocardiograma
+T56	PROCEDIMIENTO 3130 3182	Tomografía por emisión monofotónica (SPECT) cardiaco
+T57	PROCEDIMIENTO 3167 3172	SPECT
+T58	PROCEDIMIENTO 3219 3234	Holter 24 horas
+T59	PROCEDIMIENTO 3465 3475	Ergometría
+T60	PROCEDIMIENTO 3895 3926	Test de bidepestación de Viskin
+T61	PROCEDIMIENTO 4031 4068	Test genético (panel de canalopatías)
+T62	PROCEDIMIENTO 4174 4177	ECG
+T63	PROCEDIMIENTO 4205 4208	ECG
+T64	PROCEDIMIENTO 4582 4596	ecocardiograma
+T65	PROCEDIMIENTO 4836 4852	SPECT miocárdico
+T66	PROCEDIMIENTO 4983 5016	prueba de bipedestación de Viskin
+T67	PROCEDIMIENTO 5182 5192	ergometría
+T68	PROCEDIMIENTO 5348 5366	Holter de 24 horas
+T69	PROCEDIMIENTO 5535 5566	tratamiento con betabloqueantes
+T70	PROCEDIMIENTO 5615 5631	estudio genético
+T71	PROCEDIMIENTO 5799 5815	estudio genético
+T72	PROCEDIMIENTO 414 432	EXPLORACIÓN FÍSICA
+T73	PROCEDIMIENTO 897 923	Intervenciones quirúrgicas
+T74	PROCEDIMIENTO 1462 1468	Cuello
+T75	SINTOMA 1200 1218	disnea de esfuerzo
+T76	SINTOMA 1237 1251	dolor torácico
+T77	SINTOMA 1253 1266	palpitaciones
+T78	SINTOMA 1299 1318	Buen estado general
+T79	SINTOMA 1349 1367	Eupneica en reposo
+T80	SINTOMA 1482 1484	IY
+T81	SINTOMA 1512 1532	Carótidas sin soplos
+T82	SINTOMA 1534 1575	Auscultación cardiaca y pulmonar: rítmica
+T83	SINTOMA 1600 1606	soplos
+T84	SINTOMA 1631 1660	Murmullo vesicular conservado
+T85	SINTOMA 1686 1714	Abdomen: blando y depresible
+T86	SINTOMA 1719 1742	doloroso a la palpación
+T87	SINTOMA 1758 1769	peritonismo
+T88	SINTOMA 1774 1779	masas
+T89	SINTOMA 1783 1791	megalias
+T90	SINTOMA 1870 1908	Pulsos distales presentes y simétricos
+T91	SINTOMA 2005 2014	QRS ancho
+T92	SINTOMA 2166 2198	ventrículo izquierdo no dilatado
+T93	SINTOMA 2285 2315	Aurícula izquierda no dilatada
+T94	SINTOMA 2317 2359	Ventrículo derecho de dimensiones normales
+T95	SINTOMA 2361 2384	aurícula derecha normal
+T96	SINTOMA 2572 2606	Mitral de aspecto y función normal
+T97	SINTOMA 2670 2705	Función sistólica del VI preservada
+T98	SINTOMA 2994 3029	Función sistólica del VD preservada
+T99	SINTOMA 3247 3260	ritmo sinusal
+T100	SINTOMA 3330 3351	pausas significativas
+T101	SINTOMA 3415 3436	alternancia de onda T
+T102	SINTOMA 4031 4078	Test genético (panel de canalopatías): negativo
+T103	SINTOMA 4273 4318	alteraciones secundarias de la repolarización
+T104	SINTOMA 4457 4470	palpitaciones
+T105	SINTOMA 4613 4702	ventrículo izquierdo con hipertrofia concéntrica ligera de sus paredes con función normal
+T106	SINTOMA 5402 5427	alternancia de la onda T.
+T107	SINTOMA 6019 6043	Función sistólica normal
+T108	SINTOMA 4475 4489	dolor torácico
+T109	SINTOMA 109 136	QT corregido (QTc) alargado
+T110	SINTOMA 2053 2098	alteraciones secundarias de la repolarización
+T111	SINTOMA 2754 2800	alteraciones segmentarias de la contractilidad
+T112	SINTOMA 2835 2874	asincronía del tabique interventricular
+T113	SINTOMA 3038 3068	Vena cava inferior no dilatada
+T114	SINTOMA 5032 5062	alargamiento del intervalo QTc
+T115	SINTOMA 1320 1347	Bien hidratada y perfundida
+T116	SINTOMA 1793 1823	Miembros inferiores: no edemas
+T117	SINTOMA 2924 2951	alteración de la relajación
+T118	SINTOMA 2957 2992	aumento de las presiones de llenado
+T119	SINTOMA 1982 1992	eje normal
+T120	SINTOMA 5799 5824	estudio genético negativo
+T121	SINTOMA 2444 2532	aórtica trivalva con signos degenerativos ligeros y jet de insuficiencia de grado ligero
+T122	SINTOMA 3853 3870	signos isquémicos
+T123	SINTOMA 5615 5654	estudio genético, pero resulta negativo
+T124	SINTOMA 5971 5988	genética negativa
+T125	FARMACO 997 1005	Ramipril
+T126	FARMACO 5568 5578	bisoprolol
+#1	AnnotatorNotes T35	 Síndrome de QT largo

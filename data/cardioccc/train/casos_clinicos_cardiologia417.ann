@@ -1,0 +1,132 @@
+T1	DISEASE 107 128	fibrilación auricular
+T2	DISEASE 130 132	FA
+T3	DISEASE 147 168	trombo intracavitario
+T4	DISEASE 291 314	alergias medicamentosas
+T5	DISEASE 368 389	Hipertensión arterial
+T6	DISEASE 392 402	dislipemia
+T7	DISEASE 407 415	diabetes
+T8	DISEASE 443 494	cardiopatía hipertensiva con datos de isquemia leve
+T9	DISEASE 656 670	FA paroxística
+T10	DISEASE 755 797	Enfermedad cerebrovascular de pequeño vaso
+T11	DISEASE 852 865	Hernia hiatal
+T12	DISEASE 867 887	Síndrome hemorroidal
+T13	DISEASE 1763 1807	hematoma intraparenquimatoso frontal derecho
+T14	DISEASE 2166 2185	angiopatía amiloide
+T15	DISEASE 2526 2528	FA
+T16	DISEASE 3107 3110	TVP
+T17	DISEASE 3254 3303	bloqueo completo de rama izquierda del haz de His
+T18	DISEASE 3305 3311	BCRIHH
+T19	DISEASE 3948 3968	insuficiencia mitral
+T20	DISEASE 4121 4146	Insuficiencia tricuspídea
+T21	DISEASE 4347 4366	derrame pericárdico
+T22	DISEASE 4418 4462	hematoma intraparenquimatoso frontal derecho
+T23	DISEASE 4526 4558	hemorragia lobar frontal derecha
+T24	DISEASE 4561 4589	vasculopatía de pequeño vaso
+T25	DISEASE 4617 4636	angiopatía amiloide
+T26	DISEASE 5241 5287	trombo en el interior de la orejuela izquierda
+T27	DISEASE 5504 5532	trombo en orejuela izquierda
+T28	DISEASE 5753 5759	trombo
+T29	DISEASE 6002 6008	trombo
+T30	DISEASE 6613 6627	miocardiopatía
+T31	DISEASE 6653 6681	disfunción ventricular grave
+T32	DISEASE 6964 6977	FA permanente
+T33	DISEASE 7022 7041	Angiopatía amiloide
+T34	DISEASE 7066 7108	hematoma intraparenquimatoso lobar derecho
+T35	DISEASE 7110 7148	Trombo en orejuela auricular izquierda
+T36	DISEASE 3212 3214	FA
+T37	DISEASE 3970 3972	IM
+T38	DISEASE 4148 4150	IT
+T39	DISEASE 6895 6951	Miocardiopatía dilatada con disfunción ventricular grave
+T40	DISEASE 3495 3508	cardiomegalia
+T41	DISEASE 3555 3574	congestión pulmonar
+T42	DISEASE 601 620	lesiones coronarias
+T43	DISEASE 6581 6588	trombos
+T44	DISEASE 3670 3704	Ventrículo izquierdo (VI) dilatado
+T45	DISEASE 5012 5023	VI dilatado
+T46	DISEASE 4951 4970	material trombótico
+T47	PROCEDURE 202 228	tratamiento anticoagulante
+T48	PROCEDURE 639 654	coronariografía
+T49	PROCEDURE 728 753	anticoagulada con sintrom
+T50	PROCEDURE 925 939	apendicectomía
+T51	PROCEDURE 1606 1631	despistaje microbiológico
+T52	PROCEDURE 1734 1744	TC craneal
+T53	PROCEDURE 1893 1911	drenaje quirúrgico
+T54	PROCEDURE 1935 1986	anticoagulación con heparina de bajo peso molecular
+T55	PROCEDURE 2109 2145	resonancia magnética (RM) del cráneo
+T56	PROCEDURE 2387 2415	cierre de orejuela izquierda
+T57	PROCEDURE 2628 2646	EXPLORACIÓN FÍSICA
+T58	PROCEDURE 2943 2955	auscultación
+T59	PROCEDURE 3186 3204	ELECTROCARDIOGRAMA
+T60	PROCEDURE 3206 3209	ECG
+T61	PROCEDURE 3473 3493	RADIOGRAFÍA DE TÓRAX
+T62	PROCEDURE 3576 3605	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T63	PROCEDURE 4368 4379	UROCULTIVOS
+T64	PROCEDURE 4382 4394	HEMOCULTIVOS
+T65	PROCEDURE 4407 4416	TC cráneo
+T66	PROCEDURE 4515 4524	RM cráneo
+T67	PROCEDURE 4647 4661	ANGIO-TC tórax
+T68	PROCEDURE 5121 5151	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T69	PROCEDURE 5364 5381	angio-TC de tórax
+T70	PROCEDURE 5384 5414	ecocardiografía transesofágica
+T71	PROCEDURE 5438 5456	cierre de orejuela
+T72	PROCEDURE 5664 5694	anticoagulación con dabigatrán
+T73	PROCEDURE 5762 5786	control ecocardiográfico
+T74	PROCEDURE 5946 5970	control ecocardiográfico
+T75	PROCEDURE 6054 6115	cierre de orejuela izquierda con dispositivo Amplatzer Amulet
+T76	PROCEDURE 6212 6242	anticoagulación con dabigatrán
+T77	PROCEDURE 6461 6488	controles ecocardiográficos
+T78	PROCEDURE 6693 6741	implante de desfibrilador automático implantable
+T79	PROCEDURE 6743 6746	DAI
+T80	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 2131 2133	RM
+T82	PROCEDURE 3367 3390	biomarcadores cardiacos
+T83	PROCEDURE 3336 3345	ANALÍTICA
+T84	PROCEDURE 889 915	Intervenciones quirúrgicas
+T85	PROCEDURE 3148 3159	exploración
+T86	PROCEDURE 2555 2573	monoantiagregación
+T87	PROCEDURE 6375 6421	monoantiagregación de forma indefinida con AAS
+T88	SYMPTOM 555 583	elevación transitoria del ST
+T89	SYMPTOM 1348 1376	disnea a moderados esfuerzos
+T90	SYMPTOM 1403 1416	palpitaciones
+T91	SYMPTOM 1419 1446	disnea paroxística nocturna
+T92	SYMPTOM 1524 1530	fiebre
+T93	SYMPTOM 1606 1652	despistaje microbiológico que resulta negativo
+T94	SYMPTOM 1677 1710	deterioro del nivel de conciencia
+T95	SYMPTOM 2648 2667	Buen estado general
+T96	SYMPTOM 2669 2679	Consciente
+T97	SYMPTOM 2681 2690	orientada
+T98	SYMPTOM 2707 2714	Afebril
+T99	SYMPTOM 2727 2752	Estable hemodinámicamente
+T100	SYMPTOM 2836 2865	Eupneica en reposo y al habla
+T101	SYMPTOM 2889 2910	ingurgitación yugular
+T102	SYMPTOM 2914 2936	reflujo hepato-yugular
+T103	SYMPTOM 2957 2983	tonos cardiacos arrítmicos
+T104	SYMPTOM 2988 2994	soplos
+T105	SYMPTOM 3005 3034	Murmullo vesicular conservado
+T106	SYMPTOM 3039 3060	crepitantes bibasales
+T107	SYMPTOM 3062 3092	Miembros inferiores sin edemas
+T108	SYMPTOM 4001 4050	Válvula aórtica con apertura y función conservada
+T109	SYMPTOM 4368 4405	UROCULTIVOS y HEMOCULTIVOS: negativos
+T110	SYMPTOM 3226 3235	QRS ancho
+T111	SYMPTOM 3742 3815	Fracción de eyección del ventrículo izquierdo (FEVI) gravemente deprimida
+T112	SYMPTOM 3900 3936	Válvula mitral con cierre en tenting
+T113	SYMPTOM 4052 4087	Ventrículo derecho (VD) no dilatado
+T114	SYMPTOM 4274 4342	Vena cava inferior (VCI) no dilatada con colapso inspiratorio normal
+T115	SYMPTOM 2693 2705	colaboradora
+T116	SYMPTOM 3843 3862	hipoquinesia global
+T117	MEDICATION 746 753	sintrom
+T118	MEDICATION 963 970	sintrom
+T119	MEDICATION 1034 1043	diltiazem
+T120	MEDICATION 1066 1076	carvedilol
+T121	MEDICATION 1098 1108	Torasemida
+T122	MEDICATION 1128 1141	atorvastatina
+T123	MEDICATION 1163 1172	Omeprazol
+T124	MEDICATION 1194 1203	Lorazepam
+T125	MEDICATION 1955 1986	heparina de bajo peso molecular
+T126	MEDICATION 2575 2597	ácido acetilsalicílico
+T127	MEDICATION 2599 2602	AAS
+T128	MEDICATION 5684 5694	dabigatrán
+T129	MEDICATION 5839 5849	dabigatrán
+T130	MEDICATION 6232 6242	dabigatrán
+T131	MEDICATION 6418 6421	AAS
+T132	MEDICATION 2034 2041	sintrom

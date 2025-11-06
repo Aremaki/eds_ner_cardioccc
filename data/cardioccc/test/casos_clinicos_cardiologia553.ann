@@ -1,0 +1,149 @@
+T1	ENFERMEDAD 9004 9077	Vasoespasmo coronario en el territorio de la arteria descendente anterior
+T2	ENFERMEDAD 94 115	cardiopatía isquémica
+T3	ENFERMEDAD 206 229	alergias medicamentosas
+T4	ENFERMEDAD 279 300	hipertensión arterial
+T5	ENFERMEDAD 305 313	diabetes
+T6	ENFERMEDAD 318 328	dislipemia
+T7	ENFERMEDAD 330 338	Obesidad
+T8	ENFERMEDAD 378 393	hábitos tóxicos
+T9	ENFERMEDAD 1501 1511	síndrome X
+T10	ENFERMEDAD 2927 2976	isquemia miocárdica inducible en la cara anterior
+T11	ENFERMEDAD 3150 3158	isquemia
+T12	ENFERMEDAD 3960 3979	derrame pericárdico
+T13	ENFERMEDAD 4234 4258	disfunción microvascular
+T14	ENFERMEDAD 5255 5268	valvulopatías
+T15	ENFERMEDAD 5288 5307	derrame pericárdico
+T16	ENFERMEDAD 5552 5565	valvulopatías
+T17	ENFERMEDAD 5592 5613	hipertensión pulmonar
+T18	ENFERMEDAD 5615 5618	HTP
+T19	ENFERMEDAD 5657 5676	derrame pericárdico
+T20	ENFERMEDAD 5955 6042	isquemia miocárdica inducida en territorio de la arteria coronaria descendente anterior
+T21	ENFERMEDAD 6253 6277	disfunción microvascular
+T22	ENFERMEDAD 6396 6426	disfunción microvascular grave
+T23	ENFERMEDAD 6669 6699	disfunción microvascular grave
+T24	ENFERMEDAD 6702 6781	espasmo coronario en el territorio de la arteria coronaria descendente anterior
+T25	ENFERMEDAD 7135 7148	valvulopatías
+T26	ENFERMEDAD 7606 7636	disfunción microvascular grave
+T27	ENFERMEDAD 8105 8135	disfunción microvascular grave
+T28	ENFERMEDAD 8138 8159	vasoespasmo coronario
+T29	ENFERMEDAD 8817 8868	Angina con isquemia documentada en territorio de DA
+T30	ENFERMEDAD 8922 8927	INOCA
+T31	ENFERMEDAD 8930 8960	Disfunción microvascular grave
+T32	ENFERMEDAD 445 462	ángor de esfuerzo
+T33	ENFERMEDAD 918 935	ángor de esfuerzo
+T34	ENFERMEDAD 3927 3940	valvulopatías
+T35	ENFERMEDAD 4205 4226	vasoespasmo coronario
+T36	ENFERMEDAD 6649 6654	ángor
+T37	ENFERMEDAD 8042 8047	ángor
+T38	ENFERMEDAD 6587 6635	alteraciones isquémicas en el electrocardiograma
+T39	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDIMIENTO 487 527	tratamiento antianginoso y antiisquémico
+T41	PROCEDIMIENTO 541 555	ecocardiograma
+T42	PROCEDIMIENTO 689 710	cateterismo coronario
+T43	PROCEDIMIENTO 776 800	tratamiento cardiológico
+T44	PROCEDIMIENTO 813 825	ansiolíticos
+T45	PROCEDIMIENTO 828 839	analgésicos
+T46	PROCEDIMIENTO 1010 1035	tratamiento antidepresivo
+T47	PROCEDIMIENTO 1050 1061	analgésicos
+T48	PROCEDIMIENTO 1099 1120	cateterismo coronario
+T49	PROCEDIMIENTO 1584 1598	antiagregantes
+T50	PROCEDIMIENTO 1603 1612	estatinas
+T51	PROCEDIMIENTO 1628 1657	SPECT de perfusión miocárdica
+T52	PROCEDIMIENTO 1668 1696	ecocardiograma transtorácico
+T53	PROCEDIMIENTO 2492 2508	coronariografías
+T54	PROCEDIMIENTO 2885 2914	SPECT de perfusión miocárdica
+T55	PROCEDIMIENTO 2982 3001	electrocardiogramas
+T56	PROCEDIMIENTO 3189 3209	seriación enzimática
+T57	PROCEDIMIENTO 3248 3268	Radiografía de tórax
+T58	PROCEDIMIENTO 3454 3472	Exploración física
+T59	PROCEDIMIENTO 3788 3806	exploración física
+T60	PROCEDIMIENTO 3835 3850	ecocardioscopia
+T61	PROCEDIMIENTO 4134 4155	cateterismo coronario
+T62	PROCEDIMIENTO 4849 4867	Electrocardiograma
+T63	PROCEDIMIENTO 4869 4872	ECG
+T64	PROCEDIMIENTO 5013 5033	Radiografía de tórax
+T65	PROCEDIMIENTO 5177 5192	Ecocardioscopia
+T66	PROCEDIMIENTO 5309 5337	Ecocardiograma transtorácico
+T67	PROCEDIMIENTO 5678 5707	SPECT de perfusión miocárdica
+T68	PROCEDIMIENTO 5749 5752	ECG
+T69	PROCEDIMIENTO 6049 6101	Cateterismo coronario con estudio funcional invasivo
+T70	PROCEDIMIENTO 6242 6326	estudio de disfunción microvascular mediante termodilución con bolos de suero salino
+T71	PROCEDIMIENTO 6428 6469	Test de vasorreactividad con acetilcolina
+T72	PROCEDIMIENTO 6617 6635	electrocardiograma
+T73	PROCEDIMIENTO 6864 6904	tratamiento antiisquémico y antianginoso
+T74	PROCEDIMIENTO 6923 6951	ecocardiograma transtorácico
+T75	PROCEDIMIENTO 6963 7015	cateterismo coronario con estudio funcional invasivo
+T76	PROCEDIMIENTO 7020 7044	estudio ecocardiográfico
+T77	PROCEDIMIENTO 7166 7187	cateterismo coronario
+T78	PROCEDIMIENTO 7323 7349	estudio funcional completo
+T79	PROCEDIMIENTO 7386 7425	termodilución con bolos de suero salino
+T80	PROCEDIMIENTO 7428 7462	perfusión de adenosina intravenosa
+T81	PROCEDIMIENTO 7526 7552	reserva de flujo coronario
+T82	PROCEDIMIENTO 7740 7774	test de vasorreactividad coronaria
+T83	PROCEDIMIENTO 8025 8028	ECG
+T84	PROCEDIMIENTO 8195 8218	tratamiento ansiolítico
+T85	PROCEDIMIENTO 8221 8234	antidepresivo
+T86	PROCEDIMIENTO 8675 8713	medicación antidepresiva y ansiolítica
+T87	PROCEDIMIENTO 8976 9002	estudio funcional invasivo
+T88	PROCEDIMIENTO 9095 9115	test de acetilcolina
+T89	PROCEDIMIENTO 4320 4329	Analítica
+T90	PROCEDIMIENTO 5761 5787	administración regadenoson
+T91	SINTOMA 560 588	función sistólica conservada
+T92	SINTOMA 1383 1415	dolor torácico con los esfuerzos
+T93	SINTOMA 1848 1862	dolor torácico
+T94	SINTOMA 1891 1910	labilidad emocional
+T95	SINTOMA 2210 2239	dolor centrotorácico opresivo
+T96	SINTOMA 2256 2279	cortejo neurovegetativo
+T97	SINTOMA 2376 2396	afectación emocional
+T98	SINTOMA 2445 2459	dolor torácico
+T99	SINTOMA 3083 3088	dolor
+T100	SINTOMA 3248 3282	Radiografía de tórax sin hallazgos
+T101	SINTOMA 3517 3542	hemodinámicamente estable
+T102	SINTOMA 3695 3704	Orientada
+T103	SINTOMA 3737 3756	labilidad emocional
+T104	SINTOMA 3759 3783	facilidad para el llanto
+T105	SINTOMA 4279 4293	dolor torácico
+T106	SINTOMA 4875 4888	ritmo sinusal
+T107	SINTOMA 4926 4936	eje normal
+T108	SINTOMA 4938 4950	QRS estrecho
+T109	SINTOMA 4971 5011	alteraciones agudas de la repolarización
+T110	SINTOMA 5035 5080	índice cardiotorácico dentro de la normalidad
+T111	SINTOMA 5122 5145	redistribución vascular
+T112	SINTOMA 5150 5155	masas
+T113	SINTOMA 5194 5222	función sistólica conservada
+T114	SINTOMA 5339 5424	ventrículo izquierdo (VI) de tamaño, grosor y función sistólica y diastólica normales
+T115	SINTOMA 5426 5478	Ventrículo derecho (VD) de tamaño y función normales
+T116	SINTOMA 5714 5733	opresión precordial
+T117	SINTOMA 5738 5752	alteración ECG
+T118	SINTOMA 7056 7105	función sistólica global y segmentaria conservada
+T119	SINTOMA 7111 7131	disfunción sistólica
+T120	SINTOMA 8408 8427	labilidad emocional
+T121	SINTOMA 8467 8481	dolor torácico
+T122	SINTOMA 8588 8600	asintomática
+T123	SINTOMA 9117 9166	Función sistólica global y segmentaria conservada
+T124	SINTOMA 3189 3246	seriación enzimática, que resulta dentro de la normalidad
+T125	SINTOMA 3863 3891	función sistólica conservada
+T126	SINTOMA 5082 5108	Senos costofrénicos libres
+T127	SINTOMA 5480 5546	Aurícula izquierda (AI) y aurícula derecha (AD) de tamaño normales
+T128	SINTOMA 5621 5651	Raíz de aorta de tamaño normal
+T129	SINTOMA 6428 6527	Test de vasorreactividad con acetilcolina positivo en territorio de la arteria descendente anterior
+T130	SINTOMA 6156 6174	Dominancia derecha
+T131	SINTOMA 8873 8920	arterias coronarias sin lesiones significativas
+T132	SINTOMA 3707 3719	colaboradora
+T133	SINTOMA 5159 5174	consolidaciones
+T134	SINTOMA 6103 6154	árbol coronario de normal distribución y desarrollo
+T135	SINTOMA 689 735	cateterismo coronario con ausencia de lesiones
+T136	SINTOMA 1143 1192	ausencia de lesiones angiográficas significativas
+T137	SINTOMA 6188 6229	lesiones angiográficamente significativas
+T138	FARMACO 1535 1545	ranolazina
+T139	FARMACO 1945 1955	ranolazina
+T140	FARMACO 1974 1984	sertralina
+T141	FARMACO 2004 2013	lorazepam
+T142	FARMACO 2060 2071	paracetamol
+T143	FARMACO 2079 2087	tramadol
+T144	FARMACO 2109 2119	ibuprofeno
+T145	FARMACO 8247 8269	ácido acetilsalicílico
+T146	FARMACO 8271 8284	atorvastatina
+T147	FARMACO 8286 8296	amlodipino
+T148	FARMACO 8320 8334	nitroglicerina
+T149	FARMACO 9103 9115	acetilcolina

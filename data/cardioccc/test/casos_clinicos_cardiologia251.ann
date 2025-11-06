@@ -1,0 +1,123 @@
+T1	ENFERMEDAD 71 81	hipertenso
+T2	ENFERMEDAD 84 104	hipercolesterolémico
+T3	ENFERMEDAD 1237 1275	acidosis metabólica hiperlactacidémica
+T4	ENFERMEDAD 1758 1781	endocarditis infecciosa
+T5	ENFERMEDAD 1783 1785	EI
+T6	ENFERMEDAD 1874 1893	hemiparesia derecha
+T7	ENFERMEDAD 2019 2126	hemorragia cerebral intraparenquimatosa de 2 x 2 cm de calibre, a nivel del córtex prerirolándico izquierdo
+T8	ENFERMEDAD 2366 2389	endocarditis infecciosa
+T9	ENFERMEDAD 2457 2477	aneurismas micóticos
+T10	ENFERMEDAD 2561 2573	endocarditis
+T11	ENFERMEDAD 2947 2966	absceso periaórtico
+T12	ENFERMEDAD 3096 3213	endocarditis infecciosa (1 criterio mayor y 3 menores) por S. aureus sobre válvula aórtica protésica y tubo valvulado
+T13	ENFERMEDAD 3324 3342	vegetación aórtica
+T14	ENFERMEDAD 3563 3584	sangrado intracraneal
+T15	ENFERMEDAD 3923 3943	hipotensión arterial
+T16	ENFERMEDAD 3949 3966	episodio sincopal
+T17	ENFERMEDAD 4025 4042	anemización aguda
+T18	ENFERMEDAD 4235 4248	hemoperitoneo
+T19	ENFERMEDAD 4260 4278	hematoma esplénico
+T20	ENFERMEDAD 4368 4381	abdomen agudo
+T21	ENFERMEDAD 4457 4470	hemoperitoneo
+T22	ENFERMEDAD 4476 4498	rotura esplénica aguda
+T23	ENFERMEDAD 4655 4671	rotura esplénica
+T24	ENFERMEDAD 4825 4836	rectorragia
+T25	ENFERMEDAD 4852 4863	anemización
+T26	ENFERMEDAD 5013 5034	gastropatía de estrés
+T27	ENFERMEDAD 5425 5448	endocarditis infecciosa
+T28	ENFERMEDAD 5694 5720	hipotensión arterial grave
+T29	ENFERMEDAD 5813 5834	taponamiento cardiaco
+T30	ENFERMEDAD 6067 6141	hematoma pericárdico de 6 x 7 x 9 cm, comprometiendo a la aurícula derecha
+T31	ENFERMEDAD 6404 6441	endocarditis infecciosa por S. aureus
+T32	ENFERMEDAD 6522 6576	Endocarditis infecciosa protésica tardía por S. aureus
+T33	ENFERMEDAD 6661 6729	Hemorragia cerebral intraparenquimatosa secundaria a embolia séptica
+T34	ENFERMEDAD 6731 6770	Abdomen agudo debido a rotura esplénica
+T35	ENFERMEDAD 6775 6790	embolia séptica
+T36	ENFERMEDAD 6792 6859	Hemorragia digestiva alta secundaria a úlceras duodenales de estrés
+T37	ENFERMEDAD 6884 6919	Taponamiento cardiaco posquirúrgico
+T38	ENFERMEDAD 828 848	hipotensión arterial
+T39	ENFERMEDAD 935 960	mala perfusión periférica
+T40	ENFERMEDAD 5049 5067	úlceras duodenales
+T41	ENFERMEDAD 4694 4709	embolia séptica
+T42	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDIMIENTO 126 144	cirugía de Bentall
+T44	PROCEDIMIENTO 149 210	implante de una prótesis mecánica aórtica y un tubo valvulado
+T45	PROCEDIMIENTO 221 248	revascularización coronaria
+T46	PROCEDIMIENTO 291 365	bypass de arteria mamaria interna izquierda a arteria descendente anterior
+T47	PROCEDIMIENTO 1023 1044	Auscultación cardiaca
+T48	PROCEDIMIENTO 1074 1095	Auscultación pulmonar
+T49	PROCEDIMIENTO 1389 1414	extrayéndose hemocultivos
+T50	PROCEDIMIENTO 1479 1499	expansión de volumen
+T51	PROCEDIMIENTO 1595 1613	drogas vasoactivas
+T52	PROCEDIMIENTO 1691 1720	ecocardiograma transesofágico
+T53	PROCEDIMIENTO 1913 1937	tomografía computarizada
+T54	PROCEDIMIENTO 1944 1972	resonancia magnética craneal
+T55	PROCEDIMIENTO 2148 2174	tratamiento anticoagulante
+T56	PROCEDIMIENTO 2276 2288	hemocultivos
+T57	PROCEDIMIENTO 2407 2427	angiografía cerebral
+T58	PROCEDIMIENTO 2504 2533	ecocardiograma transesofágico
+T59	PROCEDIMIENTO 2591 2689	tomografía por emisión de positrones/tomografía computarizada (PET/TC) con 18F-Fluorodesoxiglucosa
+T60	PROCEDIMIENTO 2654 2660	PET/TC
+T61	PROCEDIMIENTO 2803 2824	reconstrucción con TC
+T62	PROCEDIMIENTO 3254 3283	ecocardiograma transesofágico
+T63	PROCEDIMIENTO 3986 4003	gasometría venosa
+T64	PROCEDIMIENTO 4078 4103	cristaloides intravenosos
+T65	PROCEDIMIENTO 4136 4155	ecografía abdominal
+T66	PROCEDIMIENTO 4399 4416	cirugía abdominal
+T67	PROCEDIMIENTO 4532 4545	esplenectomía
+T68	PROCEDIMIENTO 4588 4614	análisis anatomopatológico
+T69	PROCEDIMIENTO 4911 4942	transfusión de hemoconcentrados
+T70	PROCEDIMIENTO 4973 4991	manejo endoscópico
+T71	PROCEDIMIENTO 5087 5108	implante de hemoclips
+T72	PROCEDIMIENTO 5262 5283	duodenectomía parcial
+T73	PROCEDIMIENTO 5405 5421	cirugía cardiaca
+T74	PROCEDIMIENTO 5450 5546	reemplazándose el material infectado por una nueva prótesis mecánica aórtica y un tubo valvulado
+T75	PROCEDIMIENTO 5753 5781	ecocardiograma transtorácico
+T76	PROCEDIMIENTO 5854 5870	pericardiectomía
+T77	PROCEDIMIENTO 5971 5985	ecocardiograma
+T78	PROCEDIMIENTO 6257 6271	antibioterapia
+T79	PROCEDIMIENTO 6578 6643	Recambio valvular aórtico y de tubo valvulado en aorta ascendente
+T80	PROCEDIMIENTO 6861 6882	Duodenectomía parcial
+T81	PROCEDIMIENTO 1501 1524	antibioterapia empírica
+T82	PROCEDIMIENTO 4106 4130	concentrados de hematíes
+T83	PROCEDIMIENTO 3841 3864	intervención quirúrgica
+T84	PROCEDIMIENTO 5594 5622	material protésico extirpado
+T85	PROCEDIMIENTO 6163 6173	evacuación
+T86	SINTOMA 642 648	fiebre
+T87	SINTOMA 650 658	tiritona
+T88	SINTOMA 661 668	astenia
+T89	SINTOMA 796 802	fiebre
+T90	SINTOMA 828 848	hipotensión arterial
+T91	SINTOMA 965 989	frialdad de partes acras
+T92	SINTOMA 991 1021	Presión venosa yugular elevada
+T93	SINTOMA 1023 1053	Auscultación cardiaca: rítmico
+T94	SINTOMA 1055 1072	ruidos protésicos
+T95	SINTOMA 1097 1123	crepitantes en ambas bases
+T96	SINTOMA 1125 1159	Extremidades inferiores sin edemas
+T97	SINTOMA 1370 1381	neutrofilia
+T98	SINTOMA 2276 2334	hemocultivos tomados, positivos para Staphylococcus aureus
+T99	SINTOMA 3653 3660	afebril
+T100	SINTOMA 3727 3748	déficits neurológicos
+T101	SINTOMA 3899 3921	dolor abdominal súbito
+T102	SINTOMA 3923 3943	hipotensión arterial
+T103	SINTOMA 4191 4219	líquido libre intraabdominal
+T104	SINTOMA 4563 4571	sangrado
+T105	SINTOMA 4825 4836	rectorragia
+T106	SINTOMA 4866 4892	inestabilidad hemodinámica
+T107	SINTOMA 5135 5143	sangrado
+T108	SINTOMA 5563 5612	crecimiento de S. aureus en el material protésico
+T109	SINTOMA 5686 5691	mareo
+T110	SINTOMA 5694 5720	hipotensión arterial grave
+T111	SINTOMA 5723 5734	taquicardia
+T112	SINTOMA 6456 6507	asintomático desde el punto de vista cardiovascular
+T113	SINTOMA 875 894	taquicardia sinusal
+T114	SINTOMA 2983 3044	captación anómala de 18F-FDG en localizaciones extracardiacas
+T115	SINTOMA 2835 2860	engrosamiento periaórtico
+T116	FARMACO 501 513	acenocumarol
+T117	FARMACO 515 528	atorvastatina
+T118	FARMACO 540 549	enalapril
+T119	FARMACO 562 572	bisoprolol
+T120	FARMACO 1529 1540	cloxacilina
+T121	FARMACO 1542 1552	ampicilina
+T122	FARMACO 1555 1566	gentamicina
+#1	AnnotatorNotes T5	 endocarditis infecciosa

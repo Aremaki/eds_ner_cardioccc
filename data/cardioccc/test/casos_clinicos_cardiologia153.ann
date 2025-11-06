@@ -1,0 +1,91 @@
+T1	ENFERMEDAD 1717 1749	acidosis respiratoria compensada
+T2	ENFERMEDAD 74 95	hipertensión arterial
+T3	ENFERMEDAD 98 108	dislipemia
+T4	ENFERMEDAD 287 320	parálisis facial inferior derecha
+T5	ENFERMEDAD 578 613	hemorragia frontoparietal izquierda
+T6	ENFERMEDAD 1148 1180	síndrome de platipnea-ortodeoxia
+T7	ENFERMEDAD 1240 1307	válvula tricúspide con desplazamiento atrial e insuficiencia severa
+T8	ENFERMEDAD 1323 1344	enfermedad de Ebstein
+T9	ENFERMEDAD 1368 1468	comunicación interauricular tipo ostium secundum (CIA-OS) en septo posterior con shunt bidireccional
+T10	ENFERMEDAD 1494 1505	cardiopatía
+T11	ENFERMEDAD 1621 1646	sangrado cerebral extenso
+T12	ENFERMEDAD 1899 1932	hematoma frontoparietal izquierdo
+T13	ENFERMEDAD 1943 1967	hemorragia subaracnoidea
+T14	ENFERMEDAD 2485 2500	Derrame pleural
+T15	ENFERMEDAD 2530 2589	TEP derecho con infarto pulmonar extenso en lóbulo inferior
+T16	ENFERMEDAD 3301 3339	tromboembolismo pulmonar (TEP) derecho
+T17	ENFERMEDAD 3327 3330	TEP
+T18	ENFERMEDAD 3456 3473	sangrado cerebral
+T19	ENFERMEDAD 3496 3499	TEP
+T20	ENFERMEDAD 3662 3682	sangrados cerebrales
+T21	ENFERMEDAD 3816 3823	embolia
+T22	ENFERMEDAD 3834 3837	ACV
+T23	ENFERMEDAD 3840 3843	TEP
+T24	ENFERMEDAD 4023 4084	Ictus frontoparietal izquierdo con transformación hemorrágica
+T25	ENFERMEDAD 4087 4105	TEP cardioembólico
+T26	ENFERMEDAD 4108 4127	Anomalía de Ebstein
+T27	ENFERMEDAD 2278 2379	Comunicación interauricular (CIA) ostium secundum en septo posterior de 15 mm con shunt bidireccional
+T28	ENFERMEDAD 3751 3757	CIA-OS
+T29	ENFERMEDAD 3912 3915	CIA
+T30	ENFERMEDAD 4130 4173	CIA ostium secundum con shunt bidireccional
+T31	ENFERMEDAD 3737 3746	IT severa
+T32	ENFERMEDAD 2437 2483	cardiomegalia a expensas de cavidades derechas
+T33	ENFERMEDAD 1418 1424	CIA-OS
+T34	ENFERMEDAD 1814 1837	bloqueo de rama derecha
+T35	ENFERMEDAD 2090 2127	severa dilatación de aurícula derecha
+T36	ENFERMEDAD 2307 2310	CIA
+T37	ENFERMEDAD 3692 3716	complicaciones embólicas
+T38	ENFERMEDAD 626 650	hemorragia subaracnoidea
+T39	ENFERMEDAD 3227 3245	patología pulmonar
+T40	ENFERMEDAD 3332 3360	derecho con infarto pulmonar
+T41	PROCEDIMIENTO 358 370	TAC cerebral
+T42	PROCEDIMIENTO 372 374	TC
+T43	PROCEDIMIENTO 397 436	tratamiento fibrinolítico con alteplasa
+T44	PROCEDIMIENTO 554 565	TC cerebral
+T45	PROCEDIMIENTO 667 685	exploración física
+T46	PROCEDIMIENTO 795 816	auscultación cardiaca
+T47	PROCEDIMIENTO 950 971	auscultación pulmonar
+T48	PROCEDIMIENTO 979 1002	exploración neurológica
+T49	PROCEDIMIENTO 1193 1221	ecocardiograma transtorácico
+T50	PROCEDIMIENTO 1539 1553	ecocardiograma
+T51	PROCEDIMIENTO 1590 1610	anticoagulación oral
+T52	PROCEDIMIENTO 1696 1715	Gasometría arterial
+T53	PROCEDIMIENTO 1770 1788	Electrocardiograma
+T54	PROCEDIMIENTO 1841 1852	TC cerebral
+T55	PROCEDIMIENTO 1870 1897	TC cerebral posfibrinolisis
+T56	PROCEDIMIENTO 1980 2009	Ecocardiograma transesofágico
+T57	PROCEDIMIENTO 2418 2435	Radiografía tórax
+T58	PROCEDIMIENTO 2512 2528	AngioTC torácico
+T59	PROCEDIMIENTO 2593 2627	Eco-Doppler de miembros inferiores
+T60	PROCEDIMIENTO 2940 2954	oxigenoterapia
+T61	PROCEDIMIENTO 3271 3288	angio-TC torácico
+T62	PROCEDIMIENTO 3856 3899	cirugía de reparación de válvula tricúspide
+T63	PROCEDIMIENTO 3902 3915	cierre de CIA
+T64	SINTOMA 261 284	alteración del lenguaje
+T65	SINTOMA 743 767	hipoperfusión periférica
+T66	SINTOMA 772 787	cianosis labial
+T67	SINTOMA 817 831	tonos rítmicos
+T68	SINTOMA 836 860	soplo sistólico eyectivo
+T69	SINTOMA 889 933	Hipoventilación en tercio inferior hemitórax
+T70	SINTOMA 1011 1030	afasia de expresión
+T71	SINTOMA 1033 1055	paresia facial central
+T72	SINTOMA 1096 1111	cianosis labial
+T73	SINTOMA 1116 1145	saturaciones de oxígeno bajas
+T74	SINTOMA 1675 1692	Analítica: normal
+T75	SINTOMA 1790 1803	ritmo sinusal
+T76	SINTOMA 1841 1868	TC cerebral inicial: normal
+T77	SINTOMA 2011 2056	tricúspide con desplazamiento del velo septal
+T78	SINTOMA 2134 2182	contractilidad de ventrículo derecho (VD) normal
+T79	SINTOMA 2593 2635	Eco-Doppler de miembros inferiores: normal
+T80	SINTOMA 2976 3028	disnea progresiva hasta hacerse de mínimos esfuerzos
+T81	SINTOMA 3034 3062	limitación a la deambulación
+T82	SINTOMA 2800 2836	episodios de desaturación de oxígeno
+T83	SINTOMA 3120 3161	cifras tan bajas de saturación de oxígeno
+T84	FARMACO 427 436	alteplasa
+T85	FARMACO 3526 3538	acenocumarol
+#1	AnnotatorNotes T17	 tromboembolismo pulmonar
+#2	AnnotatorNotes T28	 comunicación interauricular tipo ostium secundum
+#3	AnnotatorNotes T31	 IT: insuficiencia tricuspide
+#4	AnnotatorNotes T33	 comunicación interauricular tipo ostium secundum
+#5	AnnotatorNotes T36	 comunicación interventrícular
+#6	AnnotatorNotes T63	 CIA = comunicación interauricular

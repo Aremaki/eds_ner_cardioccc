@@ -1,0 +1,44 @@
+T1	ENFERMEDAD 37 80	Alérgico a amoxicilina-clavulánico y ácaros
+T2	ENFERMEDAD 82 103	Urticaria colinérgica
+T3	ENFERMEDAD 1232 1251	derrame pericárdico
+T4	ENFERMEDAD 1296 1313	cuadro infeccioso
+T5	ENFERMEDAD 1379 1394	miopericarditis
+T6	ENFERMEDAD 1662 1683	Miopericarditis aguda
+T7	ENFERMEDAD 1432 1450	eventos arrítmicos
+T8	PROCEDIMIENTO 432 450	Exploración física
+T9	PROCEDIMIENTO 809 829	Radiografía de tórax
+T10	PROCEDIMIENTO 841 859	Electrocardiograma
+T11	PROCEDIMIENTO 964 967	ECG
+T12	PROCEDIMIENTO 1007 1021	Ecocardiograma
+T13	PROCEDIMIENTO 1537 1565	tratamiento antiinflamatorio
+T14	PROCEDIMIENTO 1570 1584	ecocardiograma
+T15	PROCEDIMIENTO 700 711	coagulación
+T16	PROCEDIMIENTO 537 540	Acp
+T17	PROCEDIMIENTO 604 613	Analítica
+T18	SINTOMA 200 216	malestar general
+T19	SINTOMA 218 227	febrícula
+T20	SINTOMA 230 237	diarrea
+T21	SINTOMA 239 263	Hormigueo en zonas acras
+T22	SINTOMA 265 288	Dolor torácico opresivo
+T23	SINTOMA 348 366	cortejo vegetativo
+T24	SINTOMA 537 549	Acp: rítmica
+T25	SINTOMA 555 561	soplos
+T26	SINTOMA 566 570	roce
+T27	SINTOMA 572 575	MVC
+T28	SINTOMA 809 837	Radiografía de tórax: normal
+T29	SINTOMA 861 874	ritmo sinusal
+T30	SINTOMA 875 949	elevación cóncava del ST en derivaciones de cara inf y lat (V4-V6, I y aVL
+T31	SINTOMA 987 1003	elevación del ST
+T32	SINTOMA 1064 1075	FEVI normal
+T33	SINTOMA 1092 1149	alteraciones de la contractilidad segmentaria válvulas AV
+T34	SINTOMA 1469 1481	Asintomático
+T35	SINTOMA 485 492	Estable
+T36	SINTOMA 700 718	coagulación normal
+T37	SINTOMA 1500 1507	estable
+T38	SINTOMA 494 535	buena oxigenación y mecánica ventilatoria
+T39	SINTOMA 1034 1062	cavidades cardiacas normales
+T40	SINTOMA 1138 1179	válvulas AV y sigmoideas sin alteraciones
+T41	SINTOMA 1200 1227	Raíz aórtica y VCI normales
+T42	SINTOMA 1686 1714	Función sistólica conservada
+T43	FARMACO 48 71	amoxicilina-clavulánico
+#1	AnnotatorNotes T16	 auscultación cardiopulmonar

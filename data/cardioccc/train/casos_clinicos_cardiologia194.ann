@@ -1,0 +1,130 @@
+T1	DISEASE 39 64	hemorragia digestiva alta
+T2	DISEASE 82 101	espondiloartropatía
+T3	DISEASE 345 370	quiste aracnoideo derecho
+T4	DISEASE 582 645	doble lesión aórtica: estenosis moderada e insuficiencia severa
+T5	DISEASE 705 707	EI
+T6	DISEASE 823 847	adherencias pericárdicas
+T7	DISEASE 1483 1569	infarto establecido subagudo en el territorio de la arteria cerebral posterior derecha
+T8	DISEASE 2189 2247	complicaciones en la cicatrización de la herida quirúrgica
+T9	DISEASE 2877 2907	dilatación sacular de la aorta
+T10	DISEASE 2929 2977	endocarditis protésica precoz con seudoaneurisma
+T11	DISEASE 3351 3365	seudoaneurisma
+T12	DISEASE 4677 4713	seudoaneurisma periprotésico extenso
+T13	DISEASE 5033 5054	insuficiencia aórtica
+T14	DISEASE 5760 5774	seudoaneurisma
+T15	DISEASE 6027 6048	enfermedad de Whipple
+T16	DISEASE 6441 6443	EI
+T17	DISEASE 4751 4780	Ventrículo izquierdo dilatado
+T18	DISEASE 5255 5332	Ventrículo izquierdo dilatado con una depresión moderada-severa de la función
+T19	DISEASE 2591 2598	absceso
+T20	DISEASE 2302 2339	bloqueo aurículo-ventricular completo
+T21	DISEASE 2613 2634	regurgitación aórtica
+T22	DISEASE 4627 4659	regurgitación aórtica muy severa
+T23	DISEASE 1305 1326	taponamiento cardiaco
+T24	DISEASE 3541 3562	taponamiento cardiaco
+T25	DISEASE 66 79	betatalasemia
+T26	DISEASE 4951 4965	seudoaneurisma
+T27	DISEASE 3022 3068	dehiscencia en la zona del seno no coronariano
+T28	DISEASE 2772 2798	dehiscencia de la prótesis
+T29	DISEASE 3117 3153	cavidad seudoaneurismática subanular
+T30	DISEASE 3886 3930	alteraciones en la cicatrización e inmunidad
+T31	PROCEDURE 290 329	tomografía computarizada (TAC) cerebral
+T32	PROCEDURE 413 425	auscultación
+T33	PROCEDURE 438 467	ecocardiografía transtorácica
+T34	PROCEDURE 469 472	ETT
+T35	PROCEDURE 746 791	implante de prótesis aórtica mecánica bidisco
+T36	PROCEDURE 1409 1421	fondo de ojo
+T37	PROCEDURE 1431 1443	TAC cerebral
+T38	PROCEDURE 1635 1659	cultivos microbiológicos
+T39	PROCEDURE 1851 1874	tratamiento antibiótico
+T40	PROCEDURE 1930 1942	hemocultivos
+T41	PROCEDURE 2103 2106	ETT
+T42	PROCEDURE 2390 2393	ETT
+T43	PROCEDURE 2396 2426	ecocardiografía transesofágica
+T44	PROCEDURE 2428 2431	ETE
+T45	PROCEDURE 2758 2770	TAC torácica
+T46	PROCEDURE 3160 3183	explante de la prótesis
+T47	PROCEDURE 3338 3390	Se reparó el seudoaneurisma con parche de pericardio
+T48	PROCEDURE 3942 3966	cultivos microbiológicos
+T49	PROCEDURE 3986 4015	detección de ácidos nucleicos
+T50	PROCEDURE 4188 4204	biopsia duodenal
+T51	PROCEDURE 4418 4421	ETT
+T52	PROCEDURE 4619 4622	ETT
+T53	PROCEDURE 4879 4935	implante de homoinjerto aórtico en posición subcoronaria
+T54	PROCEDURE 4940 4965	cierre del seudoaneurisma
+T55	PROCEDURE 5003 5006	ETE
+T56	PROCEDURE 5066 5069	ETT
+T57	PROCEDURE 5554 5557	ETE
+T58	PROCEDURE 5791 5803	TAC torácica
+T59	PROCEDURE 6280 6283	ETT
+T60	PROCEDURE 6296 6299	TAC
+T61	PROCEDURE 6656 6679	tratamiento antibiótico
+T62	PROCEDURE 1947 1966	anatomía patológica
+T63	PROCEDURE 1719 1742	antibioterapia empírica
+T64	PROCEDURE 3667 3690	antibioterapia empírica
+T65	PROCEDURE 5418 5441	antibioterapia empírica
+T66	PROCEDURE 4386 4413	marcadores de autoinmunidad
+T67	PROCEDURE 6720 6727	cultivo
+T68	PROCEDURE 5540 5548	cultivos
+T69	PROCEDURE 4362 4372	hemostasia
+T70	PROCEDURE 2355 2388	implante de marcapasos definitivo
+T71	PROCEDURE 5808 5868	reacción en cadena de la polimerasa de la muestra quirúrgica
+T72	PROCEDURE 6964 6999	reacción en cadena de la polimerasa
+T73	PROCEDURE 3971 3980	serología
+T74	PROCEDURE 6800 6809	serología
+T75	PROCEDURE 316 319	TAC
+T76	PROCEDURE 3286 3314	transección aórtica completa
+T77	PROCEDURE 3465 3514	implantándose una nueva prótesis mecánica bidisco
+T78	PROCEDURE 4257 4273	biopsia gástrica
+T79	PROCEDURE 3590 3602	intervención
+T80	PROCEDURE 3851 3863	intervención
+T81	PROCEDURE 4529 4541	intervención
+T82	PROCEDURE 5578 5590	intervención
+T83	PROCEDURE 5884 5896	intervención
+T84	PROCEDURE 4142 4160	muestra quirúrgica
+T85	PROCEDURE 4165 4171	saliva
+T86	PROCEDURE 4177 4182	heces
+T87	SYMPTOM 401 406	soplo
+T88	SYMPTOM 663 675	leucocitosis
+T89	SYMPTOM 680 691	neutrofilia
+T90	SYMPTOM 1635 1676	cultivos microbiológicos fueron negativos
+T91	SYMPTOM 2437 2499	masa oscilante en el tracto de salida del ventrículo izquierdo
+T92	SYMPTOM 3942 4048	cultivos microbiológicos, la serología y la detección de ácidos nucleicos solicitados resultaron negativos
+T93	SYMPTOM 4566 4572	disnea
+T94	SYMPTOM 4599 4617	clínica congestiva
+T95	SYMPTOM 5255 5284	Ventrículo izquierdo dilatado
+T96	SYMPTOM 6202 6214	asintomático
+T97	SYMPTOM 6220 6226	disnea
+T98	SYMPTOM 6234 6268	sintomatología cardiorrespiratoria
+T99	SYMPTOM 3074 3110	disrupción del anillo aórtico nativo
+T100	SYMPTOM 4238 4273	citomegalovirus en biopsia gástrica
+T101	SYMPTOM 210 264	cuadrantanopsia homónima izquierda inferior congruente
+T102	SYMPTOM 490 528	masa sobre el velo coronariano derecho
+T103	SYMPTOM 859 946	válvula aórtica era trivalva, displásica, con engrosamiento severo del velo coronariano
+T104	SYMPTOM 1159 1195	velo no coronariano estaba engrosado
+T105	SYMPTOM 4102 4217	Tropheryma whipplei (T. whipplei) en la muestra quirúrgica, la saliva, las heces y la biopsia duodenal fue negativa
+T106	SYMPTOM 5941 5960	estabilidad clínica
+T107	SYMPTOM 5622 5656	jet excéntrico en sentido anterior
+T108	SYMPTOM 1042 1091	velo coronariano izquierdo presentaba un implante
+T109	SYMPTOM 1369 1403	cuadrantanopsia inferior izquierda
+T110	SYMPTOM 1409 1428	fondo de ojo normal
+T111	SYMPTOM 1448 1478	hipodensidad occipital derecha
+T112	SYMPTOM 1575 1586	efecto masa
+T113	SYMPTOM 1590 1616	transformación hemorrágica
+T114	SYMPTOM 2103 2134	ETT de control sin alteraciones
+T115	SYMPTOM 4290 4331	tiempo de agregación plaquetaria alargado
+T116	SYMPTOM 4450 4498	gradientes de la prótesis moderadamente elevados
+T117	SYMPTOM 4791 4833	función sistólica aparentemente conservada
+T118	SYMPTOM 5683 5744	raíz aórtica se observaba una cavidad con expansión sistólica
+T119	SYMPTOM 5850 5930	muestra quirúrgica de esta última intervención resultó positiva para T. whipplei
+T120	MEDICATION 122 134	certolizumab
+T121	MEDICATION 1747 1758	vancomicina
+T122	MEDICATION 1761 1772	gentamicina
+T123	MEDICATION 1808 1819	ceftriaxona
+T124	MEDICATION 3695 3706	daptomicina
+T125	MEDICATION 3709 3720	cloxacilina
+T126	MEDICATION 3822 3834	certolizumab
+T127	MEDICATION 6053 6064	doxiciclina
+T128	MEDICATION 6067 6084	hidroxicloroquina
+#1	AnnotatorNotes T5	 endocarditis infecciosa
+#2	AnnotatorNotes T16	 endocarditis infecciosa

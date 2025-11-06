@@ -1,0 +1,46 @@
+T1	DISEASE 64 90	adenocarcinoma de próstata
+T2	DISEASE 286 301	ITU recurrentes
+T3	DISEASE 344 367	estenosis vesicouretral
+T4	DISEASE 402 435	fibrilación auricular paroxística
+T5	DISEASE 440 495	insuficiencia aórtica severa debido a válvula bicúspide
+T6	DISEASE 713 727	esplenomegalia
+T7	DISEASE 902 919	infarto esplénico
+T8	DISEASE 1764 1816	válvula protésica con imagen de absceso perivalvular
+T9	DISEASE 2103 2109	sepsis
+T10	DISEASE 2112 2132	edema agudo depulmón
+T11	DISEASE 2166 2204	insuficiencia ventricular irreversible
+T12	DISEASE 2239 2274	ruptura del anillo valvular aórtico
+T13	PROCEDURE 2028 2052	marcadores inflamatorios
+T14	PROCEDURE 45 59	prostatectomía
+T15	PROCEDURE 269 280	cistoscopia
+T16	PROCEDURE 522 553	colocación de prótesis valvular
+T17	PROCEDURE 686 704	exploración física
+T18	PROCEDURE 875 888	TAC abdominal
+T19	PROCEDURE 1074 1136	estudio microbiológico de la orina en el medio de cultivo CLED
+T20	PROCEDURE 1238 1260	cultivo en agar sangre
+T21	PROCEDURE 1407 1440	espectrometría de masas MALDI-TOF
+T22	PROCEDURE 1470 1482	hemocultivos
+T23	PROCEDURE 1552 1564	antibiograma
+T24	PROCEDURE 1720 1750	ecocardiografía transesofágica
+T25	PROCEDURE 1972 1984	hemocultivos
+T26	PROCEDURE 318 367	dilatación quirúrgica por estenosis vesicouretral
+T27	PROCEDURE 935 945	bioquímica
+T28	PROCEDURE 1164 1191	tinción de Gram de la orina
+T29	PROCEDURE 2061 2079	función miocárdica
+T30	PROCEDURE 736 745	analítica
+T31	PROCEDURE 580 587	cirugía
+T32	SYMPTOM 619 629	artralgias
+T33	SYMPTOM 631 637	fiebre
+T34	SYMPTOM 640 659	goteo postmiccional
+T35	SYMPTOM 836 842	piuria
+T36	SYMPTOM 2217 2225	falleció
+T37	SYMPTOM 824 867	bacterias y piuria en el sedimento urinario
+T38	SYMPTOM 1164 1222	tinción de Gram de la orina identificó cocos grampositivos
+T39	SYMPTOM 1103 1158	orina en el medio de cultivo CLED no mostró crecimiento
+T40	SYMPTOM 1238 1320	cultivo en agar sangre observándose crecimiento de colonias de cocos grampositivos
+T41	SYMPTOM 1368 1440	Aerococcus urinae, se realizó mediante espectrometría de masas MALDI-TOF
+T42	SYMPTOM 1470 1507	hemocultivos también hubo crecimiento
+T43	MEDICATION 1851 1862	cloxacilina
+T44	MEDICATION 1865 1876	gentamicina
+T45	MEDICATION 1923 1934	daptomicina
+T46	MEDICATION 1910 1921	ceftriaxona

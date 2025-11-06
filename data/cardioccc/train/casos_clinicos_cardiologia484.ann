@@ -1,0 +1,81 @@
+T1	DISEASE 38 66	Miocardiopatías Hereditarias
+T2	DISEASE 240 281	bloqueo aurículo-ventricular BAV completo
+T3	DISEASE 291 314	miocardiopatía dilatada
+T4	DISEASE 319 340	hipertensión arterial
+T5	DISEASE 342 359	diabetes mellitus
+T6	DISEASE 363 374	dislipemias
+T7	DISEASE 542 563	fibrilación auricular
+T8	DISEASE 565 567	FA
+T9	DISEASE 571 583	BAV completo
+T10	DISEASE 670 683	TVS monomorfa
+T11	DISEASE 686 693	síncope
+T12	DISEASE 752 764	BAV completo
+T13	DISEASE 840 852	BAV completo
+T14	DISEASE 924 971	Dilatación leve-moderada de ventrículo izquiero
+T15	DISEASE 1299 1311	BAV completo
+T16	DISEASE 1533 1557	BAV completo paroxístico
+T17	DISEASE 1754 1766	BAV completo
+T18	DISEASE 1816 1818	TV
+T19	DISEASE 2071 2083	BAV completo
+T20	DISEASE 2508 2529	Fibrilación auricular
+T21	DISEASE 2550 2587	bloqueo aurículo-ventricular completo
+T22	DISEASE 2589 2651	Miocardiopatía (MCP) dilatada familiar con vi levente dilatado
+T23	DISEASE 2605 2608	MCP
+T24	DISEASE 2656 2690	disfunción sistólica leve-moderada
+T25	DISEASE 2786 2798	BAV completo
+T26	DISEASE 2801 2824	miocardiopatía dilatada
+T27	DISEASE 1704 1706	FA
+T28	DISEASE 2021 2023	FA
+T29	DISEASE 1664 1690	IM funcional leve-moderada
+T30	DISEASE 626 629	MCD
+T31	DISEASE 1590 1611	dilatación leve de VI
+T32	DISEASE 1075 1088	muerte súbita
+T33	DISEASE 2771 2784	muerte súbita
+T34	DISEASE 218 231	muerte súbita
+T35	PROCEDURE 72 88	estudio genético
+T36	PROCEDURE 457 480	medicación domiciliaria
+T37	PROCEDURE 588 610	implante de marcapasos
+T38	PROCEDURE 646 661	coronariografía
+T39	PROCEDURE 698 713	implante de DAI
+T40	PROCEDURE 767 789	implante de marcapasos
+T41	PROCEDURE 805 808	ETT
+T42	PROCEDURE 855 877	implante de marcapasos
+T43	PROCEDURE 893 896	ETT
+T44	PROCEDURE 1292 1295	ECG
+T45	PROCEDURE 1332 1350	Exploración física
+T46	PROCEDURE 1399 1401	AC
+T47	PROCEDURE 1444 1446	AP
+T48	PROCEDURE 1512 1515	ECG
+T49	PROCEDURE 1559 1588	Ecocardiografía transtorácica
+T50	PROCEDURE 1692 1702	Telemetría
+T51	PROCEDURE 1820 1829	Hemograma
+T52	PROCEDURE 1832 1843	coagulación
+T53	PROCEDURE 1901 1917	Estudio genético
+T54	PROCEDURE 1998 2008	telemetría
+T55	PROCEDURE 2407 2426	implante de DAI-TRC
+T56	PROCEDURE 1855 1865	Bioquímica
+T57	PROCEDURE 147 165	EXPLORACIÓN FÍSICA
+T58	PROCEDURE 1152 1188	screening de mutación en LMNA p332fs
+T59	SYMPTOM 805 815	ETT normal
+T60	SYMPTOM 1204 1211	Astenia
+T61	SYMPTOM 1351 1358	Afebril
+T62	SYMPTOM 1414 1429	soplo sistólico
+T63	SYMPTOM 1448 1451	MVC
+T64	SYMPTOM 1453 1468	Abdomen anodino
+T65	SYMPTOM 1470 1485	EEII sin edemas
+T66	SYMPTOM 1613 1650	Función sistólica levemente deprimida
+T67	SYMPTOM 1771 1799	escape nodal de QRS estrecho
+T68	SYMPTOM 1820 1853	Hemograma y coagulación: normales
+T69	SYMPTOM 1867 1876	CK normal
+T70	SYMPTOM 2088 2116	escape nodal de QRS estrecho
+T71	SYMPTOM 2704 2741	Portadora de mutación en LMNA p 332fs
+T72	SYMPTOM 1003 1023	mutación LMNA p332fs
+T73	SYMPTOM 1190 1202	Asintomática
+T74	SYMPTOM 1919 1955	portadora de la mutación LMNA p332fs
+T75	SYMPTOM 1403 1409	RsCsRs
+T76	SYMPTOM 646 668	coronariografía normal
+#1	AnnotatorNotes T18	 taquicardia ventricular
+#2	AnnotatorNotes T23	 mocardiopatia
+#3	AnnotatorNotes T27	 fibrilación auricular
+#4	AnnotatorNotes T28	 fibrilación auricular
+#5	AnnotatorNotes T30	 miocardiopatía dilatada

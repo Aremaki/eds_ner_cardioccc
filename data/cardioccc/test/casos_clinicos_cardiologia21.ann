@@ -1,0 +1,57 @@
+T1	ENFERMEDAD 1487 1497	leucopenia
+T2	ENFERMEDAD 256 258	EI
+T3	ENFERMEDAD 662 673	alcoholismo
+T4	ENFERMEDAD 713 732	artritis reumatoide
+T5	ENFERMEDAD 1023 1057	vegetaciones en la válvula aórtica
+T6	ENFERMEDAD 1161 1182	hepato-esplenomegalia
+T7	ENFERMEDAD 1372 1403	anemia normocítica normocrómica
+T8	ENFERMEDAD 2132 2159	vegetaciones intracardiacas
+T9	ENFERMEDAD 2590 2609	artritis reumatoide
+T10	ENFERMEDAD 4649 4669	EI por H. capsulatum
+T11	ENFERMEDAD 4841 4850	infección
+T12	ENFERMEDAD 417 454	vegetaciones sobre la válvula aórtica
+T13	ENFERMEDAD 551 553	EI
+T14	ENFERMEDAD 700 710	embriaguez
+T15	ENFERMEDAD 2079 2081	EI
+T16	ENFERMEDAD 1438 1453	trombocitopenia
+T17	ENFERMEDAD 2328 2340	vegetaciones
+T18	PROCEDIMIENTO 471 486	ecocardiografía
+T19	PROCEDIMIENTO 925 979	ecocardiografía transtorácica (ECOTT) y transesofágica
+T20	PROCEDIMIENTO 956 961	ECOTT
+T21	PROCEDIMIENTO 1121 1132	gammagrafía
+T22	PROCEDIMIENTO 1227 1245	biometría hemática
+T23	PROCEDIMIENTO 1247 1264	química sanguínea
+T24	PROCEDIMIENTO 1321 1333	hemocultivos
+T25	PROCEDIMIENTO 1835 1847	hemocultivos
+T26	PROCEDIMIENTO 1965 1977	hemocultivos
+T27	PROCEDIMIENTO 2756 2812	hemocultivo manual por el método de lisis-centrifugación
+T28	PROCEDIMIENTO 3136 3170	examen microscópico del subcultivo
+T29	PROCEDIMIENTO 4179 4229	hemocultivo con la técnica de lisis-centrifugación
+T30	PROCEDIMIENTO 4277 4356	estudio histopatológico de las vegetaciones, con las tinciones de PAS y Grocott
+T31	PROCEDIMIENTO 3499 3502	PCR
+T32	PROCEDIMIENTO 3629 3632	PCR
+T33	PROCEDIMIENTO 1266 1288	tiempos de coagulación
+T34	PROCEDIMIENTO 981 986	ECOTE
+T35	PROCEDIMIENTO 1103 1118	centelleografía
+T36	PROCEDIMIENTO 2261 2266	ECOTT
+T37	PROCEDIMIENTO 2453 2463	vegectomía
+T38	PROCEDIMIENTO 3350 3366	ADN fue extraído
+T39	PROCEDIMIENTO 1307 1318	inmunología
+T40	PROCEDIMIENTO 3309 3345	procedimientos de biología molecular
+T41	PROCEDIMIENTO 2466 2501	implante valvular aórtico biológico
+T42	SINTOMA 281 287	fiebre
+T43	SINTOMA 357 367	diaforesis
+T44	SINTOMA 370 381	escalofríos
+T45	SINTOMA 1676 1732	IgG anti-toxoplasma e IgG anti-citomegalovirus positivos
+T46	SINTOMA 1965 2036	hemocultivos procesados por el método automatizado resultaron negativos
+T47	SINTOMA 4156 4190	desarrollo fúngico del hemocultivo
+T48	FARMACO 768 778	cloroquina
+T49	FARMACO 796 806	prednisona
+T50	FARMACO 825 837	ciclosporina
+T51	FARMACO 2200 2211	ceftriaxona
+T52	FARMACO 2213 2224	vancomicina
+T53	FARMACO 2227 2236	amikacina
+T54	FARMACO 2619 2642	ácido acetil salicílico
+T55	FARMACO 2645 2655	metoprolol
+T56	FARMACO 4707 4718	itraconazol
+#1	AnnotatorNotes T2	 Endocarditis Infecciosa

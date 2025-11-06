@@ -1,0 +1,103 @@
+T1	ENFERMEDAD 89 112	alergias medicamentosas
+T2	ENFERMEDAD 124 131	Fumador
+T3	ENFERMEDAD 229 278	adenocarcinoma gástrico con afectación ganglionar
+T4	ENFERMEDAD 1284 1305	reacción hipertensiva
+T5	ENFERMEDAD 2055 2137	disección a nivel de aorta ascendente, cayado aórtico y aorta descendente torácica
+T6	ENFERMEDAD 2277 2299	insuficiencia cardiaca
+T7	ENFERMEDAD 4091 4104	valvulopatías
+T8	ENFERMEDAD 4162 4181	derrame pericárdico
+T9	ENFERMEDAD 5031 5068	Infarto agudo de miocardio (IAM) no Q
+T10	ENFERMEDAD 5059 5062	IAM
+T11	ENFERMEDAD 4964 5029	Vasoespasmo coronario secundario a tratamiento con 5-fluoruracilo
+T12	ENFERMEDAD 3705 3734	Arterias coronarias ectásicas
+T13	ENFERMEDAD 1947 1976	arterias coronarias ectásicas
+T14	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T15	PROCEDIMIENTO 283 319	tratamiento adyuvante quimioterápico
+T16	PROCEDIMIENTO 998 1016	electrocardiograma
+T17	PROCEDIMIENTO 1018 1021	ECG
+T18	PROCEDIMIENTO 1901 1904	ECG
+T19	PROCEDIMIENTO 1917 1976	coronariografía emergente con arterias coronarias ectásicas
+T20	PROCEDIMIENTO 2024 2035	aortografía
+T21	PROCEDIMIENTO 2140 2158	Exploración física
+T22	PROCEDIMIENTO 2301 2322	Auscultación cardiaca
+T23	PROCEDIMIENTO 2395 2420	Auscultación respiratoria
+T24	PROCEDIMIENTO 2556 2559	ECG
+T25	PROCEDIMIENTO 2698 2701	ECG
+T26	PROCEDIMIENTO 2864 2896	Radiografía de tórax portátil AP
+T27	PROCEDIMIENTO 3023 3042	Analítica sanguínea
+T28	PROCEDIMIENTO 3376 3390	PCR SARS-CoV-2
+T29	PROCEDIMIENTO 3449 3466	Perfil metabólico
+T30	PROCEDIMIENTO 3640 3649	Hemograma
+T31	PROCEDIMIENTO 3668 3683	Coronariografía
+T32	PROCEDIMIENTO 3855 3883	Ecocardiograma transtorácico
+T33	PROCEDIMIENTO 4267 4288	nitratos intravenosos
+T34	PROCEDIMIENTO 4684 4705	gastrectomía subtotal
+T35	PROCEDIMIENTO 380 392	esquema FLOT
+T36	PROCEDIMIENTO 3272 3291	Enzimas miocárdicas
+T37	PROCEDIMIENTO 3562 3578	Función hepática
+T38	PROCEDIMIENTO 3402 3420	Analítica completa
+T39	PROCEDIMIENTO 3011 3021	Analíticas
+T40	PROCEDIMIENTO 3779 3790	Aortografía
+T41	PROCEDIMIENTO 2535 2554	Electrocardiogramas
+T42	PROCEDIMIENTO 1747 1775	perfusión de 5-fluorouracilo
+T43	PROCEDIMIENTO 654 709	quimioterapia con 5-fluorouracilo en perfusión continua
+T44	PROCEDIMIENTO 1696 1716	activando código IAM
+T45	SINTOMA 785 840	dolor torácico opresivo, irradiado a ambas extremidades
+T46	SINTOMA 854 872	cortejo vegetativo
+T47	SINTOMA 959 971	asintomático
+T48	SINTOMA 1027 1042	ST isoeléctrico
+T49	SINTOMA 1054 1079	hemodinámicamente estable
+T50	SINTOMA 1151 1192	dolor centrotorácico típicamente anginoso
+T51	SINTOMA 1220 1272	elevación del ST de hasta 4 mm en cara inferolateral
+T52	SINTOMA 1515 1521	disnea
+T53	SINTOMA 1619 1666	dolor con elevación del ST en II-III-aVF, V1-V4
+T54	SINTOMA 1853 1865	asintomático
+T55	SINTOMA 2185 2204	Buen estado general
+T56	SINTOMA 2206 2220	normohidratado
+T57	SINTOMA 2222 2237	normoperfundido
+T58	SINTOMA 2239 2249	Consciente
+T59	SINTOMA 2252 2261	orientado
+T60	SINTOMA 2324 2338	tonos rítmicos
+T61	SINTOMA 2344 2350	soplos
+T62	SINTOMA 2352 2393	Pulsos periféricos presentes y simétricos
+T63	SINTOMA 2422 2451	murmullo vesicular conservado
+T64	SINTOMA 2453 2507	Abdomen: exploración normal, sin hallazgos patológicos
+T65	SINTOMA 2564 2569	dolor
+T66	SINTOMA 2571 2584	ritmo sinusal
+T67	SINTOMA 2595 2604	PR normal
+T68	SINTOMA 2606 2622	QRS estrecho eje
+T69	SINTOMA 2631 2676	elevación del ST II, III, aVF, V3, V4, V5, V6
+T70	SINTOMA 2723 2736	ritmo sinusal
+T71	SINTOMA 2829 2862	alteraciones en la repolarización
+T72	SINTOMA 2939 2976	condensaciones en parénquima pulmonar
+T73	SINTOMA 2990 3009	congestión pulmonar
+T74	SINTOMA 3376 3400	PCR SARS-CoV-2: negativo
+T75	SINTOMA 3640 3666	Hemograma sin alteraciones
+T76	SINTOMA 3885 3968	ventrículo izquierdo (VI) no dilatado ni hipertrofiado con función sistólica normal
+T77	SINTOMA 4059 4077	Aurículas normales
+T78	SINTOMA 4374 4399	hemodinámicamente estable
+T79	SINTOMA 4009 4058	Ventrículo derecho no dilatado y normocontráctil.
+T80	SINTOMA 5080 5114	Función sistólica de VI conservada
+T81	SINTOMA 4136 4157	Normopresión pulmonar
+T82	SINTOMA 3685 3703	dominancia derecha
+T83	FARMACO 324 333	docetaxel
+T84	FARMACO 335 347	oxaliplatino
+T85	FARMACO 349 360	leucovorina
+T86	FARMACO 365 378	fluorouracilo
+T87	FARMACO 482 491	metamizol
+T88	FARMACO 504 518	metoclopramida
+T89	FARMACO 530 541	paracetamol
+T90	FARMACO 551 559	tramadol
+T91	FARMACO 571 583	dexametasona
+T92	FARMACO 595 604	omeprazol
+T93	FARMACO 672 687	5-fluorouracilo
+T94	FARMACO 1370 1384	nitroglicerina
+T95	FARMACO 1760 1775	5-fluorouracilo
+T96	FARMACO 1788 1802	nitroglicerina
+T97	FARMACO 4660 4664	5-FU
+T98	FARMACO 4737 4747	irinotecan
+T99	FARMACO 4824 4846	ácido acetilsalicílico
+T100	FARMACO 4861 4871	nifedipino
+T101	FARMACO 4885 4910	mononitrato de isosorbida
+T102	FARMACO 4925 4937	fluvastatina
+T103	FARMACO 5015 5029	5-fluoruracilo

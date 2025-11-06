@@ -1,0 +1,73 @@
+T1	ENFERMEDAD 193 196	SMF
+T2	ENFERMEDAD 210 227	hábito marfanoide
+T3	ENFERMEDAD 230 244	ectopia lentis
+T4	ENFERMEDAD 253 271	dilatación aórtica
+T5	ENFERMEDAD 332 335	SMF
+T6	ENFERMEDAD 412 426	ectopia lentis
+T7	ENFERMEDAD 430 448	dilatación aórtica
+T8	ENFERMEDAD 751 791	Deformidad torácica por pectus carinatum
+T9	ENFERMEDAD 986 1006	insuficiencia venosa
+T10	ENFERMEDAD 1010 1035	trombosis venosa profunda
+T11	ENFERMEDAD 1114 1124	Escoliosis
+T12	ENFERMEDAD 1126 1152	Subluxación del cristalino
+T13	ENFERMEDAD 1475 1488	valvulopatías
+T14	ENFERMEDAD 1973 2003	Extrasistolia supraventricular
+T15	ENFERMEDAD 2064 2072	isquemia
+T16	ENFERMEDAD 2104 2113	arritmias
+T17	ENFERMEDAD 2146 2155	arritmias
+T18	ENFERMEDAD 2315 2344	síndromes aórticos-vasculares
+T19	ENFERMEDAD 2741 2757	pectus carinatum
+T20	ENFERMEDAD 2760 2770	escoliosis
+T21	ENFERMEDAD 2774 2800	subluxación del cristalino
+T22	ENFERMEDAD 2826 2844	dilatación aórtica
+T23	ENFERMEDAD 2888 2891	SMF
+T24	ENFERMEDAD 3044 3047	SMF
+T25	ENFERMEDAD 3180 3206	subluxación del cristalino
+T26	ENFERMEDAD 3145 3148	SMF
+T27	ENFERMEDAD 1745 1768	miocardio no compactado
+T28	PROCEDIMIENTO 554 572	EXPLORACIÓN FÍSICA
+T29	PROCEDIMIENTO 793 820	Auscultación cardiopulmonar
+T30	PROCEDIMIENTO 1179 1197	ELECTROCARDIOGRAMA
+T31	PROCEDIMIENTO 1199 1202	ECG
+T32	PROCEDIMIENTO 1283 1297	ECOCARDIOGRAMA
+T33	PROCEDIMIENTO 1558 1601	RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA
+T34	PROCEDIMIENTO 1704 1718	ecocardiograma
+T35	PROCEDIMIENTO 2130 2140	HOLTER-ECG
+T36	PROCEDIMIENTO 2942 2959	análisis genético
+T37	PROCEDIMIENTO 2172 2238	ESTUDIO GENÉTICO: se estudia por el método de secuenciación masiva
+T38	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T39	PROCEDIMIENTO 1801 1819	PRUEBA DE ESFUERZO
+T40	PROCEDIMIENTO 1588 1591	RMN
+T41	PROCEDIMIENTO 461 480	despistaje familiar
+T42	SINTOMA 583 593	normotenso
+T43	SINTOMA 596 603	afebril
+T44	SINTOMA 605 620	bien perfundido
+T45	SINTOMA 622 640	eupnéico en reposo
+T46	SINTOMA 647 681	buena coloración de piel y mucosas
+T47	SINTOMA 683 722	Pulsos carotídeos rítmicos y simétricos
+T48	SINTOMA 728 749	ingurgitación yugular
+T49	SINTOMA 793 839	Auscultación cardiopulmonar con tonos rítmicos
+T50	SINTOMA 846 852	soplos
+T51	SINTOMA 858 887	murmullo vesicular conservado
+T52	SINTOMA 889 948	Pulsos pedios y tibiales posteriores presentes y simétricos
+T53	SINTOMA 953 970	edemas maleolares
+T54	SINTOMA 1037 1077	Signo de la muñeca y el pulgar positivos
+T55	SINTOMA 1218 1230	QRS estrecho
+T56	SINTOMA 1232 1242	Eje normal
+T57	SINTOMA 1248 1281	alteraciones en la repolarización
+T58	SINTOMA 1299 1331	ventrículo izquierdo no dilatado
+T59	SINTOMA 1647 1674	aumento de la trabeculación
+T60	SINTOMA 2364 2404	mutación en heterocigosis en el gen FBN1
+T61	SINTOMA 369 386	hábito marfanoide
+T62	SINTOMA 2647 2664	hábito marfanoide
+T63	SINTOMA 1079 1112	Ratio brazo/estatura incrementado
+T64	SINTOMA 1391 1432	hipertrabeculación inferolateral y apical
+T65	SINTOMA 1490 1507	Aorta no dilatada
+T66	SINTOMA 3255 3293	mutación en heterocigosis del gen FBN1
+T67	SINTOMA 1434 1461	Cavidades derechas normales
+T68	SINTOMA 1770 1799	Aorta dentro de la normalidad
+T69	SINTOMA 2501 2553	mutación en heterocigosis en el gen FBN1 (p.Arg2Cys)
+T70	SINTOMA 2979 3013	mutación patogénica en el gen FBN1
+T71	SINTOMA 3212 3249	afectación del sistema cardiovascular
+#1	AnnotatorNotes T1	  Síndrome de Marfan
+#2	AnnotatorNotes T26	  Síndrome de Marfan

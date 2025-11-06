@@ -1,0 +1,95 @@
+T1	ENFERMEDAD 156 177	cardiopatía isquémica
+T2	ENFERMEDAD 215 238	alergias medicamentosas
+T3	ENFERMEDAD 285 294	exfumador
+T4	ENFERMEDAD 332 400	Dislipemia tipo hipercolesterolemia familiar monogénica heterocigota
+T5	ENFERMEDAD 403 423	hipertrigliceridemia
+T6	ENFERMEDAD 425 438	Hiperuricemia
+T7	ENFERMEDAD 444 465	hipertensión arterial
+T8	ENFERMEDAD 469 486	diabetes mellitus
+T9	ENFERMEDAD 508 547	meningioma en el ángulo pontocerebeloso
+T10	ENFERMEDAD 629 650	Cardiopatía isquémica
+T11	ENFERMEDAD 681 698	angor de esfuerzo
+T12	ENFERMEDAD 888 1024	enfermedad coronaria de dos vasos: estenosis del 99% en descendente anterior (DA) proximal y media y suboclusión de la coronaria derecha
+T13	ENFERMEDAD 1203 1252	Cardiopatía valvular tipo estenosis aórtica grave
+T14	ENFERMEDAD 1371 1377	angina
+T15	ENFERMEDAD 1412 1470	coronarias gravemente calcificadas, con estenosis moderada
+T16	ENFERMEDAD 1639 1668	Estenosis del 90% en DA media
+T17	ENFERMEDAD 2691 2712	cardiopatía isquémica
+T18	ENFERMEDAD 3899 3920	cardiopatía isquémica
+T19	ENFERMEDAD 3953 3981	hipercolesterolemia familiar
+T20	ENFERMEDAD 4333 4370	Cardiopatía isquémica en fase crónica
+T21	ENFERMEDAD 4380 4413	enfermedad coronaria de dos vasos
+T22	ENFERMEDAD 4477 4497	Cardiopatía valvular
+T23	ENFERMEDAD 4499 4522	estenosis aórtica grave
+T24	ENFERMEDAD 4698 4724	HF monogénica heterocigota
+T25	ENFERMEDAD 3983 3985	HF
+T26	ENFERMEDAD 1691 1733	Oclusión de aspecto crónico de CD proximal
+T27	ENFERMEDAD 3042 3061	xantomas tendinosos
+T28	ENFERMEDAD 923 964	estenosis del 99% en descendente anterior
+T29	ENFERMEDAD 989 1024	suboclusión de la coronaria derecha
+T30	ENFERMEDAD 2630 2642	Arco corneal
+T31	PROCEDIMIENTO 583 603	resonancia magnética
+T32	PROCEDIMIENTO 714 730	test de isquemia
+T33	PROCEDIMIENTO 837 857	cateterismo cardiaco
+T34	PROCEDIMIENTO 1063 1147	revascularización percutánea con dos stents farmacoactivos en DA proximal y DA media
+T35	PROCEDIMIENTO 1379 1410	Cateterismo cardiaco precirugía
+T36	PROCEDIMIENTO 1548 1571	ecografía intravascular
+T37	PROCEDIMIENTO 1573 1577	IVUS
+T38	PROCEDIMIENTO 1871 1887	Cirugía cardiaca
+T39	PROCEDIMIENTO 1919 1969	sustitución valvular aórtica por prótesis mecánica
+T40	PROCEDIMIENTO 1987 2027	bypass de arteria mamaria izquierda a DA
+T41	PROCEDIMIENTO 2500 2518	EXPLORACIÓN FÍSICA
+T42	PROCEDIMIENTO 2757 2778	Auscultación cardiaca
+T43	PROCEDIMIENTO 2817 2838	Auscultación pulmonar
+T44	PROCEDIMIENTO 3104 3122	ELECTROCARDIOGRAMA
+T45	PROCEDIMIENTO 3124 3127	ECG
+T46	PROCEDIMIENTO 3506 3534	tratamientos hipolipemiantes
+T47	PROCEDIMIENTO 4163 4189	tratamiento hipolipemiante
+T48	PROCEDIMIENTO 4408 4475	vasos revascularizada parcialmente de forma percutánea y quirúrgica
+T49	PROCEDIMIENTO 4578 4645	sustitución valvular aórtica por prótesis mecánica normofuncionante
+T50	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDIMIENTO 3412 3425	Transaminasas
+T52	PROCEDIMIENTO 3271 3284	función renal
+T53	PROCEDIMIENTO 3230 3239	ANALÍTICA
+T54	SINTOMA 714 751	test de isquemia que resulta positivo
+T55	SINTOMA 1149 1201	Fracción de eyección del ventrículo izquierdo normal
+T56	SINTOMA 1328 1340	asintomático
+T57	SINTOMA 2249 2300	asintomático desde el punto de vista cardiovascular
+T58	SINTOMA 2726 2755	Presión venosa yugular normal
+T59	SINTOMA 2757 2787	Auscultación cardiaca: rítmica
+T60	SINTOMA 2789 2815	ruidos protésicos normales
+T61	SINTOMA 2840 2869	murmullo vesicular conservado
+T62	SINTOMA 2871 2910	Abdomen blando, depresible, no doloroso
+T63	SINTOMA 2925 2930	masas
+T64	SINTOMA 2935 2943	megalias
+T65	SINTOMA 2945 2978	Extremidades inferiores sin edema
+T66	SINTOMA 2984 3025	pulsos periféricos presentes y simétricos
+T67	SINTOMA 3130 3143	ritmo sinusal
+T68	SINTOMA 3154 3164	Eje normal
+T69	SINTOMA 3166 3175	PR normal
+T70	SINTOMA 3177 3189	QRS estrecho
+T71	SINTOMA 3195 3228	alteraciones de la repolarización
+T72	SINTOMA 3271 3291	función renal normal
+T73	SINTOMA 3412 3434	Transaminasas normales
+T74	SINTOMA 3436 3445	CK normal
+T75	SINTOMA 3447 3457	TSH normal
+T76	SINTOMA 3868 3894	alto riesgo cardiovascular
+T77	SINTOMA 4647 4696	Función sistólica del ventrículo izquierdo normal
+T78	SINTOMA 1270 1288	disnea de esfuerzo
+T79	SINTOMA 4726 4739	cLDL en rango
+T80	SINTOMA 1584 1619	stents de DA media están permeables
+T81	FARMACO 2085 2094	warfarina
+T82	FARMACO 2096 2105	omeprazol
+T83	FARMACO 2122 2132	bisoprolol
+T84	FARMACO 2150 2160	alopurinol
+T85	FARMACO 2178 2191	rosuvastatina
+T86	FARMACO 2208 2217	ezetimiba
+T87	FARMACO 3601 3613	simvastatina
+T88	FARMACO 3648 3661	atorvastatina
+T89	FARMACO 3670 3679	ezetimibe
+T90	FARMACO 3715 3728	rosuvastatina
+T91	FARMACO 3737 3746	ezetimibe
+T92	FARMACO 3780 3793	rosuvastatina
+T93	FARMACO 3802 3811	ezetimibe
+T94	FARMACO 4225 4238	rosuvastatina
+T95	FARMACO 4247 4256	ezetimiba

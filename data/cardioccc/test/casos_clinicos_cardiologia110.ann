@@ -1,0 +1,89 @@
+T1	ENFERMEDAD 362 387	sintomatología infecciosa
+T2	ENFERMEDAD 767 791	tromboembolismo pulmonar
+T3	ENFERMEDAD 844 865	déficit de proteína C
+T4	ENFERMEDAD 868 892	síndrome antifosfolípido
+T5	ENFERMEDAD 920 945	trombosis venosa profunda
+T6	ENFERMEDAD 1862 1892	patología pleuropulmonar aguda
+T7	ENFERMEDAD 2282 2295	valvulopatías
+T8	ENFERMEDAD 2324 2354	hipertensión arterial pulmonar
+T9	ENFERMEDAD 2359 2378	derrame pericárdico
+T10	ENFERMEDAD 2483 2528	Estenosis del 70% de DAm a expensas de trombo
+T11	ENFERMEDAD 3883 3904	cardiopatía isquémica
+T12	ENFERMEDAD 4428 4449	Cardiopatía isquémica
+T13	ENFERMEDAD 4451 4466	Iamest anterior
+T14	ENFERMEDAD 4477 4504	Trombosis de segmento medio
+T15	ENFERMEDAD 568 575	Fumador
+T16	ENFERMEDAD 533 556	alergias medicamentosas
+T17	ENFERMEDAD 602 617	hábitos tóxicos
+T18	ENFERMEDAD 1757 1776	necrosis miocárdica
+T19	ENFERMEDAD 961 1008	trombofilia positivo para déficit de proteína C
+T20	ENFERMEDAD 3722 3743	déficit de proteína C
+T21	ENFERMEDAD 4534 4555	déficit de proteína C
+T22	ENFERMEDAD 4090 4103	preexcitación
+T23	ENFERMEDAD 2588 2594	trombo
+T24	ENFERMEDAD 4590 4611	Wolff-Parkinson-White
+T25	PROCEDIMIENTO 312 330	exploración física
+T26	PROCEDIMIENTO 1011 1029	Exploración física
+T27	PROCEDIMIENTO 1300 1321	Auscultación cardiaca
+T28	PROCEDIMIENTO 1394 1415	Auscultación pulmonar
+T29	PROCEDIMIENTO 1833 1844	Rx de tórax
+T30	PROCEDIMIENTO 1896 1914	Electrocardiograma
+T31	PROCEDIMIENTO 1931 1949	Electrocardiograma
+T32	PROCEDIMIENTO 1961 1975	Ecocardiograma
+T33	PROCEDIMIENTO 2464 2479	Coronariografía
+T34	PROCEDIMIENTO 2553 2557	IVUS
+T35	PROCEDIMIENTO 2614 2653	tromboaspiración con dispositivo Hunter
+T36	PROCEDIMIENTO 2732 2754	Estudio de coagulación
+T37	PROCEDIMIENTO 3422 3425	ECG
+T38	PROCEDIMIENTO 3449 3463	ecocardiograma
+T39	PROCEDIMIENTO 3476 3491	coronariografía
+T40	PROCEDIMIENTO 3669 3691	estudio de coagulación
+T41	PROCEDIMIENTO 3776 3796	anticoagulación oral
+T42	PROCEDIMIENTO 4110 4128	electrocardiograma
+T43	PROCEDIMIENTO 4180 4190	ergometría
+T44	PROCEDIMIENTO 1644 1655	Coagulación
+T45	PROCEDIMIENTO 336 354	anamnesis dirigida
+T46	PROCEDIMIENTO 950 972	estudio de trombofilia
+T47	PROCEDIMIENTO 1743 1776	marcadores de necrosis miocárdica
+T48	PROCEDIMIENTO 1349 1361	se auscultan
+T49	PROCEDIMIENTO 808 826	cirugía ortopédica
+T50	PROCEDIMIENTO 2095 2121	técnica de Simpson biplano
+T51	PROCEDIMIENTO 1542 1551	Analítica
+T52	PROCEDIMIENTO 1206 1221	Cabeza y cuello
+T53	SINTOMA 21 35	dolor torácico
+T54	SINTOMA 93 110	dolor epigástrico
+T55	SINTOMA 208 215	vómitos
+T56	SINTOMA 217 227	sudoración
+T57	SINTOMA 230 243	palpitaciones
+T58	SINTOMA 516 528	asintomático
+T59	SINTOMA 1099 1110	Conscicente
+T60	SINTOMA 1112 1121	orientado
+T61	SINTOMA 1124 1135	colaborador
+T62	SINTOMA 1137 1151	Normohidratado
+T63	SINTOMA 1153 1167	normocoloreado
+T64	SINTOMA 1187 1204	Rubicundez facial
+T65	SINTOMA 1226 1254	ingurgitación venosa yugular
+T66	SINTOMA 1256 1287	Carótidas rítmicas y simétricas
+T67	SINTOMA 1292 1298	soplos
+T68	SINTOMA 1332 1344	taquicárdica
+T69	SINTOMA 1362 1368	soplos
+T70	SINTOMA 1372 1392	ruidos sobreañadidos
+T71	SINTOMA 1417 1446	Murmullo vesicular conservado
+T72	SINTOMA 1448 1502	Extremidades inferiores: Pulsos presentes y simétricos
+T73	SINTOMA 1508 1513	edema
+T74	SINTOMA 1644 1662	Coagulación normal
+T75	SINTOMA 3346 3360	dolor torácico
+T76	SINTOMA 3634 3646	asintomático
+T77	SINTOMA 4002 4014	asintomático
+T78	SINTOMA 4308 4320	asintomático
+T79	SINTOMA 3328 3340	Asintomático
+T80	SINTOMA 1300 1330	Auscultación cardiaca: Rítmica
+T81	SINTOMA 1170 1185	normoperfundido
+T82	SINTOMA 2162 2186	hipocinesia generalizada
+T83	SINTOMA 2903 2934	Anticoagulante lúpico: Negativo
+T84	SINTOMA 2035 2090	Fracción de eyección de ventrículo izquierdo conservada
+T85	SINTOMA 1990 2034	Ventrículo izquierdo de dimensiones normales
+T86	SINTOMA 2234 2277	depresión ligera de la fracción de eyección
+T87	SINTOMA 3649 3656	estable
+T88	SINTOMA 2677 2728	arteria con flujo TIMI III y sin estenosis residual
+T89	FARMACO 3801 3813	acenocumarol

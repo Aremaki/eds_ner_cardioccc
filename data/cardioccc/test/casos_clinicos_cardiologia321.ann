@@ -1,0 +1,104 @@
+T1	ENFERMEDAD 2040 2055	consolidaciones
+T2	ENFERMEDAD 81 104	alergias medicamentosas
+T3	ENFERMEDAD 172 187	hábitos tóxicos
+T4	ENFERMEDAD 189 207	Síndrome depresivo
+T5	ENFERMEDAD 246 265	síncope situacional
+T6	ENFERMEDAD 311 328	miocarditis aguda
+T7	ENFERMEDAD 1742 1761	bradicardia sinusal
+T8	ENFERMEDAD 2025 2035	neumotórax
+T9	ENFERMEDAD 3403 3436	Insuficiencia tricuspídea trivial
+T10	ENFERMEDAD 3452 3474	Insuficiencia pulmonar
+T11	ENFERMEDAD 3591 3610	derrame pericárdico
+T12	ENFERMEDAD 5688 5703	miopericarditis
+T13	ENFERMEDAD 5907 5922	miopericarditis
+T14	ENFERMEDAD 6302 6310	isquemia
+T15	ENFERMEDAD 6349 6369	enfermedad coronaria
+T16	ENFERMEDAD 6849 6869	isquemia transitoria
+T17	ENFERMEDAD 7525 7586	Infarto de miocardio con coronarias sin lesiones obstructivas
+T18	ENFERMEDAD 1991 2010	congestión pulmonar
+T19	ENFERMEDAD 6711 6724	síncope vagal
+T20	ENFERMEDAD 5587 5595	isquemia
+T21	ENFERMEDAD 7588 7594	MINOCA
+T22	ENFERMEDAD 2816 2829	insuficiencia
+T23	ENFERMEDAD 3261 3274	insuficiencia
+T24	ENFERMEDAD 5158 5180	puente intramiocárdico
+T25	ENFERMEDAD 6139 6190	fermentos cardiacos, con ascenso y caída muy rápida
+T26	ENFERMEDAD 6445 6513	trayecto intramiocárdico de longitud significativa en la rama de OM1
+T27	ENFERMEDAD 6781 6805	trayecto intramiocárdico
+T28	ENFERMEDAD 7609 7674	trayecto intramiocárdico importante de la arteria obtusa marginal
+T29	PROCEDIMIENTO 1288 1306	EXPLORACIÓN FÍSICA
+T30	PROCEDIMIENTO 1521 1553	Auscultación cardiorrespiratoria
+T31	PROCEDIMIENTO 1705 1723	Electrocardiograma
+T32	PROCEDIMIENTO 1725 1728	ECG
+T33	PROCEDIMIENTO 1885 1905	Radiografía de tórax
+T34	PROCEDIMIENTO 2265 2276	Coagulación
+T35	PROCEDIMIENTO 2356 2371	Perfil lipídico
+T36	PROCEDIMIENTO 2467 2491	Estudio de autoinmunidad
+T37	PROCEDIMIENTO 2651 2680	Ecocardiografía transtorácica
+T38	PROCEDIMIENTO 3612 3632	Angio-TAC coronarias
+T39	PROCEDIMIENTO 3697 3788	Coronariografía a partir de los cortes axiales, reconstrucciones multiplanares, curvas y 3D
+T40	PROCEDIMIENTO 6268 6310	prueba intermedia de detección de isquemia
+T41	PROCEDIMIENTO 6382 6401	angio-TAC coronario
+T42	PROCEDIMIENTO 6936 6965	resonancia magnética cardiaca
+T43	PROCEDIMIENTO 6967 6970	RMC
+T44	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDIMIENTO 2502 2524	Metabolismo del hierro
+T46	PROCEDIMIENTO 2161 2166	iones
+T47	PROCEDIMIENTO 5506 5526	seriación enzimática
+T48	PROCEDIMIENTO 2057 2066	Analítica
+T49	SINTOMA 268 282	dolor torácico
+T50	SINTOMA 544 567	pérdida de conocimiento
+T51	SINTOMA 630 636	mareos
+T52	SINTOMA 639 653	dolor torácico
+T53	SINTOMA 741 791	dolor torácico como opresivo, irradiado a garganta
+T54	SINTOMA 798 816	cortejo vegetativo
+T55	SINTOMA 864 877	palpitaciones
+T56	SINTOMA 882 900	sensación disneica
+T57	SINTOMA 1328 1347	buen estado general
+T58	SINTOMA 1349 1367	Eupneico en reposo
+T59	SINTOMA 1389 1396	Afebril
+T60	SINTOMA 1399 1424	estable hemodinámicamente
+T61	SINTOMA 1521 1572	Auscultación cardiorrespiratoria con tonos rítmicos
+T62	SINTOMA 1578 1584	soplos
+T63	SINTOMA 1586 1615	Murmullo vesicular conservado
+T64	SINTOMA 1648 1678	Miembros inferiores sin edemas
+T65	SINTOMA 1772 1782	eje normal
+T66	SINTOMA 1784 1793	PR normal
+T67	SINTOMA 1795 1807	QRS estrecho
+T68	SINTOMA 1827 1876	elevación ST < 1 mm en colgadura en cara inferior
+T69	SINTOMA 1907 1949	ICT en el límite superior de la normalidad
+T70	SINTOMA 2151 2182	glucosa e iones en rango normal
+T71	SINTOMA 2184 2195	Neutrofilia
+T72	SINTOMA 2209 2221	leucocitosis
+T73	SINTOMA 2265 2293	Coagulación sin alteraciones
+T74	SINTOMA 2467 2500	Estudio de autoinmunidad negativo
+T75	SINTOMA 2682 2724	aurícula izquierda de dimensiones normales
+T76	SINTOMA 2755 2776	Válvula mitral normal
+T77	SINTOMA 2831 2888	Ventrículo izquierdo con volúmenes ligeramente aumentados
+T78	SINTOMA 3086 3117	Patrón de llenado mitral normal
+T79	SINTOMA 3483 3508	Vena cava inferior normal
+T80	SINTOMA 5822 5836	dolor torácico
+T81	SINTOMA 6741 6752	hipotensión
+T82	SINTOMA 7498 7510	asintomático
+T83	SINTOMA 1626 1646	ruidos sobreañadidos
+T84	SINTOMA 1951 1977	Senos costofrénicos libres
+T85	SINTOMA 3014 3038	Grosor miocárdico normal
+T86	SINTOMA 2966 3012	alteraciones segmentarias de la contractilidad
+T87	SINTOMA 3196 3255	Válvula aórtica trivalva, con velos anatómicamente normales
+T88	SINTOMA 3301 3360	Ventrículo derecho de dimensiones y contractilidad normales
+T89	SINTOMA 1244 1269	sintomatología infecciosa
+T90	SINTOMA 524 539	desvanecimiento
+T91	SINTOMA 4961 4979	dominancia derecha
+T92	SINTOMA 1498 1519	semiología congestiva
+T93	SINTOMA 1369 1387	tolerando decúbito
+T94	SINTOMA 3985 4001	ADA sin lesiones
+T95	SINTOMA 4173 4193	ACx sin alteraciones
+T96	SINTOMA 7043 7083	realce leve de predominio subendocárdico
+T97	FARMACO 352 362	fluoxetina
+T98	FARMACO 7237 7259	ácido acetilsalicílico
+T99	FARMACO 7261 7264	AAS
+T100	FARMACO 7289 7299	amlodipino
+#1	AnnotatorNotes T21	  infarto e miocardio sin lesiones coronarias obstructivas
+#2	AnnotatorNotes T26	myocardial bridging
+#3	AnnotatorNotes T27	myocardial bridging
+#4	AnnotatorNotes T28	myocardial bridging

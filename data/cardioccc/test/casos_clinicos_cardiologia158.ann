@@ -1,0 +1,98 @@
+T1	ENFERMEDAD 170 191	Infección por VIH C-3
+T2	ENFERMEDAD 320 341	Candidiasis esofágica
+T3	ENFERMEDAD 343 367	Enfermedad de Castlemann
+T4	ENFERMEDAD 451 468	Sarcoma de Kaposi
+T5	ENFERMEDAD 537 585	Neumonía bacteriémica por Acinetobacter baumanii
+T6	ENFERMEDAD 609 636	Hepatopatía crónica por VHC
+T7	ENFERMEDAD 668 717	Consumo esporádico de cocaína inhalada y cannabis
+T8	ENFERMEDAD 2032 2058	lesiones tróficas cutáneas
+T9	ENFERMEDAD 2318 2331	cardiomegalia
+T10	ENFERMEDAD 2509 2522	valvulopatías
+T11	ENFERMEDAD 2539 2551	endocarditis
+T12	ENFERMEDAD 2553 2579	Derrame pericárdico severo
+T13	ENFERMEDAD 2688 2714	derrame pericárdico severo
+T14	ENFERMEDAD 3204 3223	derrame pericárdico
+T15	ENFERMEDAD 3609 3629	hipotensión arterial
+T16	ENFERMEDAD 3664 3690	derrame pericárdico severo
+T17	ENFERMEDAD 3888 3922	Pericarditis purulenta neumocócica
+T18	ENFERMEDAD 3938 3959	taponamiento cardiaco
+T19	ENFERMEDAD 161 168	Fumador
+T20	ENFERMEDAD 127 150	alergias medicamentosas
+T21	ENFERMEDAD 1981 1994	hepatomegalia
+T22	ENFERMEDAD 152 159	Ex-ADVP
+T23	ENFERMEDAD 722 754	uso de drogas por vía parenteral
+T24	ENFERMEDAD 905 962	consumo de tóxicos (cocaína intravenosa y heroína fumada)
+T25	ENFERMEDAD 2620 2632	taponamiento
+T26	ENFERMEDAD 2729 2741	taponamiento
+T27	PROCEDIMIENTO 211 241	triple terapia antirretroviral
+T28	PROCEDIMIENTO 287 290	TAR
+T29	PROCEDIMIENTO 403 429	tratamiento quimioterápico
+T30	PROCEDIMIENTO 509 535	tratamiento quimioterápico
+T31	PROCEDIMIENTO 1654 1672	Exploración física
+T32	PROCEDIMIENTO 1872 1893	Auscultación cardíaca
+T33	PROCEDIMIENTO 2062 2065	ECG
+T34	PROCEDIMIENTO 2305 2316	Rx de tórax
+T35	PROCEDIMIENTO 2374 2388	Ecocardiograma
+T36	PROCEDIMIENTO 2660 2674	ecocardiograma
+T37	PROCEDIMIENTO 2764 2816	pericardiocentesis evacuadora por acceso subxifoideo
+T38	PROCEDIMIENTO 2988 3000	hemocultivos
+T39	PROCEDIMIENTO 3071 3094	tratamiento antibiótico
+T40	PROCEDIMIENTO 3139 3153	ecocardiograma
+T41	PROCEDIMIENTO 3637 3651	ecocardiograma
+T42	PROCEDIMIENTO 3723 3752	pericardiocentesis evacuadora
+T43	PROCEDIMIENTO 3814 3836	drenaje con aspiración
+T44	PROCEDIMIENTO 3973 3991	pericardiocentesis
+T45	PROCEDIMIENTO 2932 2939	cultivo
+T46	PROCEDIMIENTO 2867 2891	tinción gram del líquido
+T47	SINTOMA 98 104	disnea
+T48	SINTOMA 107 122	síndrome febril
+T49	SINTOMA 1139 1160	tos con expectoración
+T50	SINTOMA 1228 1242	dolor torácico
+T51	SINTOMA 1266 1269	tos
+T52	SINTOMA 1336 1412	Disnea progresiva, inicialmente de grandes esfuerzos hasta hacerse de reposo
+T53	SINTOMA 1443 1451	ortopnea
+T54	SINTOMA 1467 1494	disnea paroxística nocturna
+T55	SINTOMA 1496 1516	Sensación distérmica
+T56	SINTOMA 1521 1527	fiebre
+T57	SINTOMA 1717 1724	afebril
+T58	SINTOMA 1726 1736	Consciente
+T59	SINTOMA 1739 1748	orientado
+T60	SINTOMA 1750 1760	Caquéctico
+T61	SINTOMA 1766 1792	buena perfusión periférica
+T62	SINTOMA 1849 1870	Ingurgitación yugular
+T63	SINTOMA 1872 1901	Auscultación cardíaca rítmica
+T64	SINTOMA 1908 1914	soplos
+T65	SINTOMA 1916 1945	Murmullo vesicular conservado
+T66	SINTOMA 1947 1974	Abdomen blando y depresible
+T67	SINTOMA 1996 2029	edemas en extremidades inferiores
+T68	SINTOMA 2109 2121	QRS estrecho
+T69	SINTOMA 2163 2192	Analítica: urea y Cr normales
+T70	SINTOMA 2333 2362	condensación en base pulmonar
+T71	SINTOMA 2390 2399	VI normal
+T72	SINTOMA 2404 2453	función sistólica global y segmentaria conservada
+T73	SINTOMA 2455 2469	VD no dilatado
+T74	SINTOMA 2476 2504	función sistólica conservada
+T75	SINTOMA 2988 3017	hemocultivos fueron negativos
+T76	SINTOMA 3023 3059	antígeno neumococo positivo en orina
+T77	SINTOMA 3562 3574	taquicárdico
+T78	SINTOMA 2067 2086	taquicardia sinusal
+T79	SINTOMA 3577 3588	taquipnéico
+T80	SINTOMA 1794 1815	Taquipnéico en reposo
+T81	SINTOMA 2126 2159	alteraciones de la repolarización
+T82	SINTOMA 3299 3322	compromiso hemodinámico
+T83	SINTOMA 3396 3415	estabilidad clínica
+T84	SINTOMA 806 819	fallecimiento
+T85	SINTOMA 1147 1216	expectoración inicialmente mucopurulenta y posteriormente herrumbrosa
+T86	SINTOMA 1817 1847	Múltiples zonas de venopunción
+T87	SINTOMA 2837 2854	líquido purulento
+T88	SINTOMA 2884 2925	líquido objetivan cocos gram + en cadenas
+T89	SINTOMA 2932 2982	cultivo fue positivo para Streptococcus pneumoniae
+T90	SINTOMA 3256 3284	líquido en el saco posterior
+T91	SINTOMA 3328 3347	colapsos cavitarios
+T92	SINTOMA 3351 3377	variaciones respirofásicas
+T93	SINTOMA 3723 3791	pericardiocentesis evacuadora, aspirando 250 ml de líquido purulento
+T94	FARMACO 977 985	metadona
+T95	FARMACO 998 1005	atripla
+T96	FARMACO 3099 3110	ceftriaxona
+T97	FARMACO 3113 3126	levofloxacino
+#1	AnnotatorNotes T28	 tratamiento antirretroviral

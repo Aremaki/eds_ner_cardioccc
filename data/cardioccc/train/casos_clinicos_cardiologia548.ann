@@ -1,0 +1,135 @@
+T1	DISEASE 759 805	ventrículo izquierdo (VI) ligeramente dilatado
+T2	DISEASE 3434 3466	Dilatación ventricular izquierda
+T3	DISEASE 3694 3728	ventrículo izquierdo (VI) dilatado
+T4	DISEASE 102 111	exfumador
+T5	DISEASE 132 153	hipertensión arterial
+T6	DISEASE 156 166	dislipemia
+T7	DISEASE 223 254	Hiperplasia benigna de próstata
+T8	DISEASE 279 313	Cardiopatía isquémica tipo IAMCEST
+T9	DISEASE 340 371	enfermedad coronaria de 2 vasos
+T10	DISEASE 662 692	Cardiopatía valvular congénita
+T11	DISEASE 694 719	válvula aórtica bicúspide
+T12	DISEASE 807 846	Disfunción ventricular izquierda ligera
+T13	DISEASE 925 951	Estenosis aórtica moderada
+T14	DISEASE 954 975	insuficiencia aórtica
+T15	DISEASE 1027 1056	Aneurisma de aorta ascendente
+T16	DISEASE 1136 1139	BRI
+T17	DISEASE 1609 1629	hipotensión arterial
+T18	DISEASE 1661 1720	bloqueo auriculoventricular (BAV) de segundo grado Mobitz I
+T19	DISEASE 1690 1693	BAV
+T20	DISEASE 1867 1889	síndrome aórtico agudo
+T21	DISEASE 2197 2219	síndrome aórtico agudo
+T22	DISEASE 2239 2259	hipoperfusión distal
+T23	DISEASE 2282 2302	hipotensión arterial
+T24	DISEASE 2626 2633	ascitis
+T25	DISEASE 2921 2946	isquemia miocárdica aguda
+T26	DISEASE 2949 2987	trastorno de la conducción AV avanzado
+T27	DISEASE 3144 3163	hematoma intramural
+T28	DISEASE 3174 3209	lesiones parietales aórticas agudas
+T29	DISEASE 3551 3591	edema intersticial cardiogénico pulmonar
+T30	DISEASE 3594 3624	leve derrame pleural bilateral
+T31	DISEASE 3630 3649	derrame pericárdico
+T32	DISEASE 4215 4278	Oclusión trombótica aguda en descendente anterior (DA) proximal
+T33	DISEASE 4537 4591	síndrome coronario agudo con elevación del segmento ST
+T34	DISEASE 4809 4835	parada cardiorrespiratoria
+T35	DISEASE 4839 4862	fibrilación ventricular
+T36	DISEASE 5307 5355	oclusión embólica de DA proximal y rama diagonal
+T37	DISEASE 6092 6108	angina inestable
+T38	DISEASE 6333 6354	Cardiopatía isquémica
+T39	DISEASE 6356 6391	Infarto agudo de miocardio anterior
+T40	DISEASE 6404 6459	Oclusión aguda embólica de arteria descendente anterior
+T41	DISEASE 6513 6545	Fibrilación ventricular primaria
+T42	DISEASE 6547 6594	Bloqueo auriculoventriculaar completo isquémico
+T43	DISEASE 6596 6614	Shock cardiogénico
+T44	DISEASE 6624 6644	Cardiopatía valvular
+T45	DISEASE 6646 6699	valvulopatía aórtica bicúspide con estenosis moderada
+T46	DISEASE 6702 6731	diltación de aorta ascendente
+T47	DISEASE 3008 3036	aorta bicúspide, calcificada
+T48	DISEASE 3038 3081	Dilatación fusiforme de la aorta ascendente
+T49	DISEASE 3374 3432	oclusión no aterogénica de la arteria descendente anterior
+T50	DISEASE 2849 2854	BRIHH
+T51	DISEASE 3130 3142	flap aórtico
+T52	DISEASE 3471 3503	adelgazamiento miocárdico difuso
+T53	PROCEDURE 6260 6295	limitación del esfuerzo terapéutico
+T54	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 538 558	cateterismo cardiaco
+T56	PROCEDURE 721 749	Ecocardiograma transtorácico
+T57	PROCEDURE 1090 1108	Electrocardiograma
+T58	PROCEDURE 1110 1113	ECG
+T59	PROCEDURE 1753 1783	tratamiento analgésico potente
+T60	PROCEDURE 1903 1911	angio-TC
+T61	PROCEDURE 1986 2004	Exploración física
+T62	PROCEDURE 2175 2183	angio-TC
+T63	PROCEDURE 2448 2469	Auscultación cardiaca
+T64	PROCEDURE 2543 2564	Auscultación pulmonar
+T65	PROCEDURE 2814 2817	ECG
+T66	PROCEDURE 2828 2831	ECG
+T67	PROCEDURE 2989 3006	Angio-TC torácico
+T68	PROCEDURE 3651 3679	Ecocardiograma transtorácico
+T69	PROCEDURE 3998 4007	Hemograma
+T70	PROCEDURE 4082 4102	Cateterismo cardiaco
+T71	PROCEDURE 4308 4324	tromboaspiración
+T72	PROCEDURE 4327 4349	angioplastia con balón
+T73	PROCEDURE 4638 4668	se canaliza vía venosa central
+T74	PROCEDURE 4677 4707	infusión de drogas vasoactivas
+T75	PROCEDURE 4959 4981	desfibrilación a 200 J
+T76	PROCEDURE 4994 5016	intubación orotraqueal
+T77	PROCEDURE 5128 5187	se implanta marcapasos transitorio vía vena femoral derecha
+T78	PROCEDURE 5489 5506	revascularización
+T79	PROCEDURE 5579 5593	ecocardiograma
+T80	PROCEDURE 5919 5928	se extuba
+T81	PROCEDURE 5984 6013	cánulas nasales de bajo flujo
+T82	PROCEDURE 6016 6031	balance hídrico
+T83	PROCEDURE 376 442	intervencionismo coronario percutáneo primario sobre rama diagonal
+T84	PROCEDURE 5290 5355	Se revasculariza oclusión embólica de DA proximal y rama diagonal
+T85	PROCEDURE 3865 3874	Analítica
+T86	PROCEDURE 4886 4934	maniobras de reanimación cardiopulmonar avanzada
+T87	PROCEDURE 5202 5250	perfusión continua de noradrenalina y dobutamina
+T88	PROCEDURE 4112 4208	marcapasos transitorio por vía vena femoral derecha, posicionado en ápex de ventrículo izquierdo
+T89	PROCEDURE 4611 4635	se activa código infarto
+T90	PROCEDURE 5035 5058	marcapasos transcutáneo
+T91	PROCEDURE 5061 5074	sedorrelajado
+T92	SYMPTOM 582 596	dolor torácico
+T93	SYMPTOM 860 923	alteración de la contractilidad en territorio inferior y apical
+T94	SYMPTOM 1115 1131	basal en sinusal
+T95	SYMPTOM 1389 1403	dolor torácico
+T96	SYMPTOM 1503 1532	dolor centrotorácico opresivo
+T97	SYMPTOM 1538 1556	cortejo vegetativo
+T98	SYMPTOM 1609 1629	hipotensión arterial
+T99	SYMPTOM 1832 1837	dolor
+T100	SYMPTOM 2043 2063	dolor centrotorácico
+T101	SYMPTOM 2282 2302	hipotensión arterial
+T102	SYMPTOM 2423 2444	ingurgitación yugular
+T103	SYMPTOM 2448 2478	Auscultación cardiaca: rítmico
+T104	SYMPTOM 2480 2504	soplo sistólico panfocal
+T105	SYMPTOM 2543 2578	Auscultación pulmonar: normofonesis
+T106	SYMPTOM 2600 2681	Abdomen sin semiología de ascitis, blando, depresible, no doloroso a la palpación
+T107	SYMPTOM 2696 2701	masas
+T108	SYMPTOM 2704 2719	visceromegalias
+T109	SYMPTOM 2721 2750	Miembros inferiores sin edema
+T110	SYMPTOM 2766 2787	mala perfusión distal
+T111	SYMPTOM 2871 2904	alteraciones de la repolarización
+T112	SYMPTOM 3730 3780	Función ventricular izquierda gravemente deprimida
+T113	SYMPTOM 3808 3863	acinesia anteroseptal, anterior y de segmentos apicales
+T114	SYMPTOM 5606 5646	función ventricular gravemente deprimida
+T115	SYMPTOM 5685 5763	aquinesia anteroseptal, anterior medioapical y de todos los segmentos apicales
+T116	SYMPTOM 5806 5840	VD de dimensión y función normales
+T117	SYMPTOM 6144 6166	deterioro hemodinámico
+T118	SYMPTOM 6311 6318	fallece
+T119	SYMPTOM 6461 6511	Función ventricular izquierda gravemente deprimida
+T120	SYMPTOM 2509 2532	fenómeno de Gallavardin
+T121	SYMPTOM 5765 5791	movimiento septal asíncron
+T122	SYMPTOM 6616 6622	Éxitus
+T123	SYMPTOM 602 646	arterias coronarias epicárdicas sin lesiones
+T124	MEDICATION 1171 1193	ácido acetilsalicílico
+T125	MEDICATION 1195 1208	atorvastatina
+T126	MEDICATION 1210 1218	ramipril
+T127	MEDICATION 1220 1230	bisoprolol
+T128	MEDICATION 1232 1247	espironolactona
+T129	MEDICATION 1249 1260	tamsulosina
+T130	MEDICATION 4751 4761	dobutamina
+T131	MEDICATION 4764 4777	noradrenalina
+T132	MEDICATION 5224 5237	noradrenalina
+T133	MEDICATION 5240 5250	dobutamina
+T134	MEDICATION 5903 5916	noradrenalina
+T135	MEDICATION 1263 1274	dutasteride

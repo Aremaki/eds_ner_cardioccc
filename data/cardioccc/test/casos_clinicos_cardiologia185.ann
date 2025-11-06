@@ -1,0 +1,99 @@
+T1	ENFERMEDAD 130 145	daño miocárdico
+T2	ENFERMEDAD 1320 1331	adenopatías
+T3	ENFERMEDAD 1680 1699	bradicardia sinusal
+T4	ENFERMEDAD 2845 2864	derrame pericárdico
+T5	ENFERMEDAD 3079 3090	miocarditis
+T6	ENFERMEDAD 3662 3673	miocarditis
+T7	ENFERMEDAD 3736 3758	insuficiencia cardiaca
+T8	ENFERMEDAD 4233 4243	embolismos
+T9	ENFERMEDAD 4290 4362	miocarditis eosinofílica secundaria a infección parasitaria por Toxocara
+T10	ENFERMEDAD 4596 4648	Miocarditis eosinofílica en contexto de toxocariasis
+T11	ENFERMEDAD 277 300	alergias medicamentosas
+T12	ENFERMEDAD 4540 4555	daño miocárdico
+T13	ENFERMEDAD 355 370	hábitos tóxicos
+T14	ENFERMEDAD 2213 2243	lesiones pleuroparenquimatosas
+T15	ENFERMEDAD 3707 3732	complicaciones arrítmicas
+T16	PROCEDIMIENTO 457 470	esplenectomía
+T17	PROCEDIMIENTO 1333 1354	Auscultación cardiaca
+T18	PROCEDIMIENTO 1385 1406	Auscultación pulmonar
+T19	PROCEDIMIENTO 1660 1678	Electrocardiograma
+T20	PROCEDIMIENTO 2156 2176	Radiografía de tórax
+T21	PROCEDIMIENTO 2252 2280	Ecocardiograma transtorácico
+T22	PROCEDIMIENTO 2866 2875	Cardio-RM
+T23	PROCEDIMIENTO 3124 3150	TAC de arterias coronarias
+T24	PROCEDIMIENTO 3472 3491	prueba cardiológica
+T25	PROCEDIMIENTO 3530 3558	ecocardiograma transtorácico
+T26	PROCEDIMIENTO 3599 3628	resonancia magnética cardiaca
+T27	PROCEDIMIENTO 3630 3633	RMC
+T28	PROCEDIMIENTO 4102 4122	serología infecciosa
+T29	PROCEDIMIENTO 4194 4217	TAC arterias coronarias
+T30	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDIMIENTO 1037 1055	EXPLORACIÓN FÍSICA
+T32	PROCEDIMIENTO 4079 4092	autoinmunidad
+T33	PROCEDIMIENTO 116 145	marcadores de daño miocárdico
+T34	PROCEDIMIENTO 4526 4555	marcadores de daño miocárdico
+T35	PROCEDIMIENTO 3411 3425	monitorización
+T36	PROCEDIMIENTO 1825 1834	Analítica
+T37	PROCEDIMIENTO 429 455	Intervenciones quirúrgicas
+T38	PROCEDIMIENTO 3853 3862	analítica
+T39	PROCEDIMIENTO 3957 3967	analíticas
+T40	PROCEDIMIENTO 1310 1319	se palpan
+T41	PROCEDIMIENTO 1506 1515	se palpan
+T42	SINTOMA 86 100	dolor torácico
+T43	SINTOMA 103 145	elevación de marcadores de daño miocárdico
+T44	SINTOMA 554 605	asintomático desde el punto de vista cardiovascular
+T45	SINTOMA 661 719	dolor centrotorácico opresivo irradiado a ambas mandíbulas
+T46	SINTOMA 791 809	cortejo vegetativo
+T47	SINTOMA 877 897	mareos inespecíficos
+T48	SINTOMA 900 920	sensación distérmica
+T49	SINTOMA 936 942	fiebre
+T50	SINTOMA 960 973	palpitaciones
+T51	SINTOMA 975 981	disnea
+T52	SINTOMA 985 1001	clínica sincopal
+T53	SINTOMA 1056 1063	Afebril
+T54	SINTOMA 1169 1179	Consciente
+T55	SINTOMA 1181 1190	orientado
+T56	SINTOMA 1193 1204	colaborador
+T57	SINTOMA 1206 1233	Bien hidratado y perfundido
+T58	SINTOMA 1235 1254	Buen estado general
+T59	SINTOMA 1256 1274	Eupneico en reposo
+T60	SINTOMA 1276 1305	Presión venosa yugular normal
+T61	SINTOMA 1333 1363	Auscultación cardiaca: rítmica
+T62	SINTOMA 1368 1374	soplos
+T63	SINTOMA 1378 1383	roces
+T64	SINTOMA 1408 1440	ruidos respiratorios preservados
+T65	SINTOMA 1460 1501	Abdomen: blando, depresible y no doloroso
+T66	SINTOMA 1516 1521	masas
+T67	SINTOMA 1525 1533	megalias
+T68	SINTOMA 1535 1557	Peristaltismo presente
+T69	SINTOMA 1559 1593	Extremidades inferiores: sin edema
+T70	SINTOMA 1595 1633	Pulsos distales presentes y simétricos
+T71	SINTOMA 1710 1719	PR normal
+T72	SINTOMA 1721 1733	QRS estrecho
+T73	SINTOMA 1785 1823	ascenso del ST 0,5 mm en cara inferior
+T74	SINTOMA 2178 2207	índice cardio-torácico normal
+T75	SINTOMA 2385 2409	Función sistólica normal
+T76	SINTOMA 2524 2592	Ventrículo derecho de tamaño normal con función sistólica conservada
+T77	SINTOMA 2696 2758	Válvula tricúspide de aspecto normal, con insuficiencia mínima
+T78	SINTOMA 2877 2920	ventrículos de tamaño y función conservadas
+T79	SINTOMA 2934 2945	hipocinesia
+T80	SINTOMA 2947 2952	edema
+T81	SINTOMA 3530 3577	ecocardiograma transtorácico que resulta normal
+T82	SINTOMA 3890 3902	leucocitosis
+T83	SINTOMA 3929 3940	eosinofilia
+T84	SINTOMA 4491 4503	asintomático
+T85	SINTOMA 4558 4569	eosinofilia
+T86	SINTOMA 2338 2383	alteraciones de la contractilidad segmentaria
+T87	SINTOMA 2760 2793	Válvula pulmonar normofuncionante
+T88	SINTOMA 4135 4165	positiva para IgM Toxocara spp
+T89	SINTOMA 4509 4555	normalización de marcadores de daño miocárdico
+T90	SINTOMA 2638 2662	Válvula aórtica trivalva
+T91	SINTOMA 2594 2636	Válvula mitral de aspecto y función normal
+T92	SINTOMA 1009 1027	clínica infecciosa
+T93	SINTOMA 2955 2984	realce tardío intramiocárdico
+T94	SINTOMA 2282 2314	ventrículo izquierdo no dilatado
+T95	SINTOMA 1735 1782	Onda Q en el límite de significación patológica
+T96	SINTOMA 2795 2824	Raíz aórtica de tamaño normal
+T97	SINTOMA 3206 3287	Arterias coronarias sin variantes anatómicas, observando permeabilidad conservada
+T98	FARMACO 4390 4400	albendazol
+#1	AnnotatorNotes T27	 resonancia magnética cardíaca

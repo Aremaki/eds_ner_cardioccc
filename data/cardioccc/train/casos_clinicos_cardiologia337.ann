@@ -1,0 +1,158 @@
+T1	DISEASE 2123 2137	microhematuria
+T2	DISEASE 99 107	alergias
+T3	DISEASE 161 182	hipertensión arterial
+T4	DISEASE 184 187	HTA
+T5	DISEASE 190 199	sobrepeso
+T6	DISEASE 201 210	exfumador
+T7	DISEASE 212 250	Síndrome de apneas-hipopneas del sueño
+T8	DISEASE 252 256	SAHS
+T9	DISEASE 344 363	espasmos esofágicos
+T10	DISEASE 447 470	cardiopatía estructural
+T11	DISEASE 472 536	Glomerulonefritis en la infancia etiquetada de posestreptocócica
+T12	DISEASE 538 550	Colelitiasis
+T13	DISEASE 594 603	cataratas
+T14	DISEASE 605 630	desprendimiento de retina
+T15	DISEASE 632 639	varices
+T16	DISEASE 657 668	hemorroides
+T17	DISEASE 921 942	fibrilación auricular
+T18	DISEASE 1082 1104	insuficiencia cardiaca
+T19	DISEASE 1327 1338	adenopatías
+T20	DISEASE 1352 1369	lesiones cutáneas
+T21	DISEASE 1629 1661	lesiones ulcerosas en vías altas
+T22	DISEASE 2163 2183	cardiomegalia global
+T23	DISEASE 2337 2372	fibrilación auricular con RV rápida
+T24	DISEASE 2383 2417	bloqueo completo de rama izquierda
+T25	DISEASE 2552 2585	Hipertrofia ventricular izquierda
+T26	DISEASE 2587 2590	HVI
+T27	DISEASE 2776 2862	Válvula aórtica (VAo) trivalva con esclerosis de cúspides de los velos y calcificación
+T28	DISEASE 3100 3135	Derrame pericárdico ligero-moderado
+T29	DISEASE 3369 3459	derrame parcialmente organizado sobre cara lateral del VD y el ápex del ventrículo derecho
+T30	DISEASE 3585 3605	adenopatías axilares
+T31	DISEASE 3783 3817	Atelectasias laminares bilaterales
+T32	DISEASE 3828 3843	derrame pleural
+T33	DISEASE 3858 3869	atelectasia
+T34	DISEASE 4087 4106	Derrame pericárdico
+T35	DISEASE 4323 4335	Colelitiasis
+T36	DISEASE 4549 4587	Quistes corticales simples bilaterales
+T37	DISEASE 4717 4743	ectasia de vías excretoras
+T38	DISEASE 4863 4887	Diverticulosis sigmoidea
+T39	DISEASE 4934 4962	adenopatías intraabdominales
+T40	DISEASE 5028 5047	degenerativos óseos
+T41	DISEASE 5091 5167	polineuropatía (PNP) sensitivo-motora en miembros inferiores, de grado grave
+T42	DISEASE 5387 5406	adenopatía cervical
+T43	DISEASE 5467 5494	lesiones eritematopapulosas
+T44	DISEASE 5848 5855	rinitis
+T45	DISEASE 5974 5987	valvulopatías
+T46	DISEASE 6004 6019	derrame pleural
+T47	DISEASE 6029 6057	derrame pericárdico moderado
+T48	DISEASE 6327 6358	vasculitis con afectación renal
+T49	DISEASE 6513 6537	enfermedades autoinmunes
+T50	DISEASE 6617 6660	polineuropatía grave de miembros inferiores
+T51	DISEASE 6685 6711	vasculitis C-ANCA positivo
+T52	DISEASE 6854 6873	derrame pericárdico
+T53	DISEASE 6991 7012	fibrilación auricular
+T54	DISEASE 7178 7198	patología autoinmune
+T55	DISEASE 7789 7815	Vasculitis C-ANCA positiva
+T56	DISEASE 7817 7866	Derrame pleuropericárdico de etiología autoinmune
+T57	DISEASE 7868 7889	Fibrilación auricular
+T58	DISEASE 2419 2425	BIRDHH
+T59	DISEASE 847 867	episodios sincopales
+T60	DISEASE 5686 5695	hematuria
+T61	DISEASE 2475 2506	aurículas ligeramente dilatadas
+T62	DISEASE 2508 2550	Ventrículo izquierdo (VI) de tamaño normal
+T63	DISEASE 3607 3739	Ganglios mediastínicos subcentimétricos paratraqueales derechos, prevasculares bilaterales y subcarínicos, así como broncopulmonares
+T64	DISEASE 3975 3980	bulla
+T65	DISEASE 5107 5110	PNP
+T66	PROCEDURE 277 318	presión positiva continua en la vía aérea
+T67	PROCEDURE 320 324	CPAP
+T68	PROCEDURE 368 378	manometría
+T69	PROCEDURE 641 655	amigdalectomía
+T70	PROCEDURE 1142 1160	EXPLORACIÓN FÍSICA
+T71	PROCEDURE 1410 1431	Auscultación cardiaca
+T72	PROCEDURE 1470 1491	Auscultación pulmonar
+T73	PROCEDURE 1688 1707	Analítica sanguínea
+T74	PROCEDURE 1875 1891	Función tiroidea
+T75	PROCEDURE 1924 1933	Hemograma
+T76	PROCEDURE 2074 2092	Analítica de orina
+T77	PROCEDURE 2141 2161	Radiografía de tórax
+T78	PROCEDURE 2321 2324	ECG
+T79	PROCEDURE 2445 2473	Ecocardiograma transtorácico
+T80	PROCEDURE 3550 3568	TC toracoabdominal
+T81	PROCEDURE 5326 5344	dieta hipocalórica
+T82	PROCEDURE 5514 5536	corticoides vía tópica
+T83	PROCEDURE 5898 5922	corticoides intranasales
+T84	PROCEDURE 5935 5949	ecocardiograma
+T85	PROCEDURE 6164 6188	reactantes de fase aguda
+T86	PROCEDURE 6191 6215	estudio de autoinmunidad
+T87	PROCEDURE 6439 6452	biopsia renal
+T88	PROCEDURE 6564 6581	electroneurograma
+T89	PROCEDURE 6765 6792	tratamiento con corticoides
+T90	PROCEDURE 7128 7143	anticoagulación
+T91	PROCEDURE 7261 7274	cardioversión
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 7061 7075	betabloqueante
+T94	PROCEDURE 1709 1719	bioquímica
+T95	PROCEDURE 5723 5736	función renal
+T96	PROCEDURE 5049 5066	Electroneurograma
+T97	PROCEDURE 566 592	Intervenciones quirúrgicas
+T98	PROCEDURE 5761 5778	analítica general
+T99	SYMPTOM 428 442	dolor torácico
+T100	SYMPTOM 711 717	disnea
+T101	SYMPTOM 719 726	astenia
+T102	SYMPTOM 728 736	anorexia
+T103	SYMPTOM 739 754	pérdida de peso
+T104	SYMPTOM 791 799	ortopnea
+T105	SYMPTOM 803 839	edematización de miembros inferiores
+T106	SYMPTOM 871 884	palpitaciones
+T107	SYMPTOM 1042 1064	elevación del NTproBNP
+T108	SYMPTOM 1371 1381	Consciente
+T109	SYMPTOM 1383 1392	orientado
+T110	SYMPTOM 1394 1408	normocoloreado
+T111	SYMPTOM 1433 1442	arrítmico
+T112	SYMPTOM 1447 1453	soplos
+T113	SYMPTOM 1511 1538	Abdomen blando, no doloroso
+T114	SYMPTOM 1544 1549	masas
+T115	SYMPTOM 1554 1562	megalias
+T116	SYMPTOM 1564 1587	persistalsis conservada
+T117	SYMPTOM 1589 1624	Extremidades inferiores: sin edemas
+T118	SYMPTOM 2022 2050	Anti DNA y antiENA negativos
+T119	SYMPTOM 2600 2632	Contractilidad global conservada
+T120	SYMPTOM 2999 3033	Cava y suprahepáticas no dilatadas
+T121	SYMPTOM 4401 4441	Leve engrosamiento suprarrenal bilateral
+T122	SYMPTOM 4990 5019	líquido libre intraperitoneal
+T123	SYMPTOM 5225 5232	astenia
+T124	SYMPTOM 5234 5242	anorexia
+T125	SYMPTOM 5245 5260	pérdida de peso
+T126	SYMPTOM 5576 5617	artralgias migratorias (en codos y hombro
+T127	SYMPTOM 5628 5660	febrícula persistente vespertina
+T128	SYMPTOM 5686 5695	hematuria
+T129	SYMPTOM 5698 5709	proteinuria
+T130	SYMPTOM 5723 5743	función renal normal
+T131	SYMPTOM 5858 5867	epistaxis
+T132	SYMPTOM 6094 6123	afectación del estado general
+T133	SYMPTOM 6259 6300	autoanticuerpos P-ANCA y C-ANCA positivos
+T134	SYMPTOM 2185 2210	Hiperinsuflación pulmonar
+T135	SYMPTOM 2212 2264	Pinzamiento residual del seno costofrénico izquierdo
+T136	SYMPTOM 2281 2319	infiltrados parenquimatosos pulmonares
+T137	SYMPTOM 2943 2997	Válvula mitral (VM) de aspecto y funcionamiento normal
+T138	SYMPTOM 4185 4234	Hígado homogéneo, de tamaño y morfología normales
+T139	SYMPTOM 4337 4365	Vía biliar de calibre normal
+T140	SYMPTOM 4367 4399	Páncreas y bazo sin alteraciones
+T141	SYMPTOM 4467 4506	Riñones de tamaño y morfología normales
+T142	SYMPTOM 1493 1509	normoventilación
+T143	SYMPTOM 7334 7369	Estable clínica y hemodinámicamente
+T144	SYMPTOM 2429 2443	bajos voltajes
+T145	SYMPTOM 2094 2110	microalbuminuria
+T146	SYMPTOM 6221 6256	elevación significativa de PCR, VSG
+T147	SYMPTOM 3088 3098	PPs normal
+T148	SYMPTOM 4011 4046	burbuja a nivel del líquido pleural
+T149	MEDICATION 5446 5456	ibuprofeno
+T150	MEDICATION 7434 7445	metotrexato
+T151	MEDICATION 7477 7489	ácido fólico
+T152	MEDICATION 7538 7549	metotrexato
+T153	MEDICATION 7552 7562	prednisona
+T154	MEDICATION 7598 7608	bisoprolol
+T155	MEDICATION 7648 7656	apixabán
+T156	MEDICATION 7684 7696	simvastatina
+T157	MEDICATION 7714 7723	omeprazol
+T158	MEDICATION 7744 7754	furosemida

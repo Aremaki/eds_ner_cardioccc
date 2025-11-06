@@ -1,0 +1,150 @@
+T1	ENFERMEDAD 135 156	hipertensión arterial
+T2	ENFERMEDAD 246 265	hipertensión portal
+T3	ENFERMEDAD 267 300	Hemorragia por varices esofágicas
+T4	ENFERMEDAD 503 527	Trombosis portal crónica
+T5	ENFERMEDAD 575 597	encefalopatía hepática
+T6	ENFERMEDAD 639 652	estreñimiento
+T7	ENFERMEDAD 654 666	Osteoporosis
+T8	ENFERMEDAD 701 724	alergias medicamentosas
+T9	ENFERMEDAD 1333 1353	síncopes de esfuerzo
+T10	ENFERMEDAD 1976 1983	ascitis
+T11	ENFERMEDAD 2030 2055	trombosis venosa profunda
+T12	ENFERMEDAD 2057 2060	TVP
+T13	ENFERMEDAD 2093 2112	bradicardia sinusal
+T14	ENFERMEDAD 2173 2211	bloqueo de rama derecha del haz de His
+T15	ENFERMEDAD 3351 3366	derrame pleural
+T16	ENFERMEDAD 3995 4065	Válvula aórtica esclerosada sin signos de estenosis, con insuficiencia
+T17	ENFERMEDAD 4369 4390	hipertensión pulmonar
+T18	ENFERMEDAD 4478 4497	derrame pericárdico
+T19	ENFERMEDAD 4778 4802	tromboembolismo pulmonar
+T20	ENFERMEDAD 4837 4861	tromboembolismo pulmonar
+T21	ENFERMEDAD 5111 5146	Calcificaciones del árbol coronario
+T22	ENFERMEDAD 5227 5248	adenopatía subcarinal
+T23	ENFERMEDAD 5325 5357	hipertensión pulmonar precapilar
+T24	ENFERMEDAD 5469 5493	tromboembolismo pulmonar
+T25	ENFERMEDAD 5624 5657	enfermedad tromboembólica crónica
+T26	ENFERMEDAD 5746 5765	hepatopatía crónica
+T27	ENFERMEDAD 5767 5819	Hiperplasia adenomatosa de ambas glándulas adrenales
+T28	ENFERMEDAD 6315 6336	hipertensión pulmonar
+T29	ENFERMEDAD 6414 6435	hipertensión pulmonar
+T30	ENFERMEDAD 6437 6489	dilatación y disfunción graves de ventrículo derecho
+T31	ENFERMEDAD 6533 6554	hipertensión pulmonar
+T32	ENFERMEDAD 6770 6802	hipertensión pulmonar precapilar
+T33	ENFERMEDAD 6887 6909	síndrome portopulmonar
+T34	ENFERMEDAD 6967 6988	hipertensión pulmonar
+T35	ENFERMEDAD 7263 7285	disfunción grave de VD
+T36	ENFERMEDAD 7433 7454	hipertensión pulmonar
+T37	ENFERMEDAD 7497 7518	hipertensión pulmonar
+T38	ENFERMEDAD 7651 7677	Hipertensión portopulmonar
+T39	ENFERMEDAD 7723 7747	Cirrosis biliar primaria
+T40	ENFERMEDAD 7749 7797	Trombosis portal crónica con hipertensión portal
+T41	ENFERMEDAD 7818 7843	hemorragia digestiva alta
+T42	ENFERMEDAD 7849 7867	varices esofágicas
+T43	ENFERMEDAD 7907 7929	encefalopatía hepática
+T44	ENFERMEDAD 7931 7952	Hipertensión arterial
+T45	ENFERMEDAD 7954 7966	Osteoporosis
+T46	ENFERMEDAD 3759 3796	Aurícula derecha ligeramente dilatada
+T47	ENFERMEDAD 2213 2219	BCRDHH
+T48	ENFERMEDAD 4139 4215	Válvula tricúspide morfológicamente normal, con insuficiencia moderada-grave
+T49	ENFERMEDAD 3290 3303	cardiomegalia
+T50	ENFERMEDAD 2749 2764	conectivopatías
+T51	ENFERMEDAD 1913 1926	hepatomegalia
+T52	ENFERMEDAD 192 216	Cirrosis biliar primaria
+T53	ENFERMEDAD 3812 3878	Ventrículo derecho gravemente dilatado, hipertrófico y trabeculado
+T54	ENFERMEDAD 3931 3969	Válvula mitral con calcio en el anillo
+T55	ENFERMEDAD 434 441	varices
+T56	PROCEDIMIENTO 343 363	ligadura endoscópica
+T57	PROCEDIMIENTO 397 409	gastroscopia
+T58	PROCEDIMIENTO 540 555	anticoagulación
+T59	PROCEDIMIENTO 1467 1485	EXPLORACIÓN FÍSICA
+T60	PROCEDIMIENTO 1692 1713	Auscultación cardiaca
+T61	PROCEDIMIENTO 1824 1845	Auscultación pulmonar
+T62	PROCEDIMIENTO 2088 2091	ECG
+T63	PROCEDIMIENTO 2333 2352	Analítica sanguínea
+T64	PROCEDIMIENTO 2776 2786	Serologías
+T65	PROCEDIMIENTO 2931 2944	Proteinograma
+T66	PROCEDIMIENTO 3250 3270	Radiografía de tórax
+T67	PROCEDIMIENTO 3385 3413	Ecocardiograma transtorácico
+T68	PROCEDIMIENTO 4499 4514	Gammagrafía V/Q
+T69	PROCEDIMIENTO 4593 4613	estudio de perfusión
+T70	PROCEDIMIENTO 4704 4726	estudio de ventilación
+T71	PROCEDIMIENTO 4863 4894	Pruebas de función respiratoria
+T72	PROCEDIMIENTO 4998 5045	TC de arterias pulmonares y parénquima pulmonar
+T73	PROCEDIMIENTO 5886 5905	Cateterismo derecho
+T74	PROCEDIMIENTO 6188 6207	Gasometría arterial
+T75	PROCEDIMIENTO 6360 6388	ecocardiograma transtorácico
+T76	PROCEDIMIENTO 6579 6610	pruebas de función respiratoria
+T77	PROCEDIMIENTO 6612 6648	gammagrafía de ventilación/perfusión
+T78	PROCEDIMIENTO 6736 6755	cateterismo derecho
+T79	PROCEDIMIENTO 7558 7574	ergoespirometría
+T80	PROCEDIMIENTO 2651 2664	Autoinmunidad
+T81	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T82	PROCEDIMIENTO 445 459	betabloqueante
+T83	PROCEDIMIENTO 6502 6554	estudio etiológico completo de hipertensión pulmonar
+T84	PROCEDIMIENTO 372 380	ligadura
+T85	PROCEDIMIENTO 7577 7582	6 MWT
+T86	PROCEDIMIENTO 6559 6577	analítica completa
+T87	SINTOMA 1033 1074	disnea progresiva hasta mínimos esfuerzos
+T88	SINTOMA 1096 1144	deterioro progresivo de la capacidad de esfuerzo
+T89	SINTOMA 1245 1253	ortopnea
+T90	SINTOMA 1269 1296	disnea paroxística nocturna
+T91	SINTOMA 1301 1311	hemoptisis
+T92	SINTOMA 1313 1330	opresión torácica
+T93	SINTOMA 1385 1396	sibilancias
+T94	SINTOMA 1401 1426	sintomatología infecciosa
+T95	SINTOMA 1456 1464	sangrado
+T96	SINTOMA 1544 1569	Hemodinámicamente estable
+T97	SINTOMA 1572 1590	eupneica en reposo
+T98	SINTOMA 1615 1636	Ingurgitación yugular
+T99	SINTOMA 1660 1690	reflujo hepatoyugular positivo
+T100	SINTOMA 1692 1722	Auscultación cardiaca: rítmica
+T101	SINTOMA 1724 1743	soplo holosistólico
+T102	SINTOMA 1802 1822	tercer ruido audible
+T103	SINTOMA 1847 1876	murmullo vesicular conservado
+T104	SINTOMA 1985 2016	Miembros inferiores: sin edemas
+T105	SINTOMA 2123 2132	PR normal
+T106	SINTOMA 2272 2287	onda T negativa
+T107	SINTOMA 2776 2811	Serologías VIH, VHC y VHB negativas
+T108	SINTOMA 3305 3337	prominencia de hilios pulmonares
+T109	SINTOMA 3415 3447	ventrículo izquierdo no dilatado
+T110	SINTOMA 3516 3547	Función sistólica global normal
+T111	SINTOMA 3727 3757	Aurícula izquierda no dilatada
+T112	SINTOMA 4139 4181	Válvula tricúspide morfológicamente normal
+T113	SINTOMA 5067 5109	líquido en recesos pericárdicos superiores
+T114	SINTOMA 7295 7320	hemodinámicamente estable
+T115	SINTOMA 2232 2265	sobrecarga del ventrículo derecho
+T116	SINTOMA 2725 2774	Anticuerpos asociados a conectivopatías negativos
+T117	SINTOMA 3484 3514	Marcado aplanamiento del septo
+T118	SINTOMA 3621 3663	alteraciones de la contracción segmentaria
+T119	SINTOMA 3884 3929	función sistólica global gravemente deprimida
+T120	SINTOMA 4074 4098	Raíz aórtica no dilatada
+T121	SINTOMA 4100 4137	Aorta ascendente proximal no dilatada
+T122	SINTOMA 4406 4436	Vena cava inferior no dilatada
+T123	SINTOMA 4321 4355	Notch sistólico del flujo pulmonar
+T124	SINTOMA 3665 3725	Patrón de llenado transmitral de alteración de la relajación
+T125	SINTOMA 5373 5417	defectos de repleción en arterias pulmonares
+T126	SINTOMA 3372 3383	infiltrados
+T127	SINTOMA 1592 1613	tolerando el decúbito
+T128	SINTOMA 1785 1799	refuerzo de S2
+T129	SINTOMA 2134 2143	QRS ancho
+T130	SINTOMA 2666 2680	ANCA negativos
+T131	SINTOMA 2682 2723	Ac. Anti-DNA nativo 2,30 UI/mL (negativo)
+T132	SINTOMA 2813 2844	CMV: IgG positivo, IgM negativo
+T133	SINTOMA 3931 3993	Válvula mitral con calcio en el anillo y funcionalmente normal
+T134	SINTOMA 5259 5310	Aumento de calibre de arterias pulmonares centrales
+T135	SINTOMA 5517 5581	leve asimetría en la vascularización de ambos lóbulos superiores
+T136	SINTOMA 7343 7361	congestión derecha
+T137	FARMACO 474 485	propranolol
+T138	FARMACO 755 764	metamizol
+T139	FARMACO 776 793	ácido alendrónico
+T140	FARMACO 809 827	resincolestiramina
+T141	FARMACO 836 847	hidroxicina
+T142	FARMACO 859 870	propranolol
+T143	FARMACO 882 892	hidroferol
+T144	FARMACO 923 932	lactulosa
+T145	FARMACO 942 952	rifaximina
+T146	FARMACO 7042 7050	bosentán
+T147	FARMACO 7053 7063	tadalafilo
+T148	FARMACO 7182 7193	propranolol
+T149	FARMACO 7393 7403	furosemida
+#1	AnnotatorNotes T85	 NWT: minute walk test

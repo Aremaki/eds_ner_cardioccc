@@ -1,0 +1,118 @@
+T1	DISEASE 94 97	HTA
+T2	DISEASE 99 109	dislipemia
+T3	DISEASE 111 115	EPOC
+T4	DISEASE 117 158	ictus isquémico temporoparietal izquierdo
+T5	DISEASE 185 225	cardiopatía dilatada de origen isquémico
+T6	DISEASE 250 267	IAM inferolateral
+T7	DISEASE 493 513	insuficiencia mitral
+T8	DISEASE 532 545	valvulopatías
+T9	DISEASE 1517 1534	proceso neumónico
+T10	DISEASE 1623 1645	infección respiratoria
+T11	DISEASE 1648 1689	descompensación de insuficiencia cardiaca
+T12	DISEASE 1706 1752	cardiopatía isquémica crónica en fase dilatada
+T13	DISEASE 1953 1970	proceso neumónico
+T14	DISEASE 2081 2143	Insuficiencia mitral severa con restricción del velo posterior
+T15	DISEASE 2183 2258	Severa dilatación de ventrículo izquierdo ligera-moderadamente hipertrófico
+T16	DISEASE 2484 2509	Insuficiencia tricuspídea
+T17	DISEASE 2555 2574	derrame pericárdico
+T18	DISEASE 2607 2689	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior
+T19	DISEASE 2692 2731	prolapso de velo anterior a nivel de A2
+T20	DISEASE 3020 3046	coronaria derecha: ocluida
+T21	DISEASE 3460 3482	insuficiencia cardiaca
+T22	DISEASE 3496 3514	shock cardiogénico
+T23	DISEASE 3635 3743	insuficiencia mitral severa, con restricción del velo posterior y posible prolapso también del velo anterior
+T24	DISEASE 3787 3807	insuficiencia mitral
+T25	DISEASE 3862 3972	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T26	DISEASE 3947 3986	prolapso de velo anterior a nivel de A2
+T27	DISEASE 4108 4145	oclusión crónica de coronaria derecha
+T28	DISEASE 4232 4262	shock cardiogénico refractario
+T29	DISEASE 5282 5304	insuficiencia cardiaca
+T30	DISEASE 5597 5624	descompensaciones cardiacas
+T31	DISEASE 5639 5698	Neumonía derecha del lóbulo medio adquirida en la comunidad
+T32	DISEASE 5700 5751	Insuficiencia cardiaca con disfunción biventricular
+T33	DISEASE 5753 5771	Shock cardiogénico
+T34	DISEASE 5773 5883	Insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T35	DISEASE 5931 5977	Cardiopatía isquémica crónica en fase dilatada
+T36	DISEASE 5025 5027	IM
+T37	DISEASE 2352 2393	Moderada dilatación de aurícula izquierda
+T38	DISEASE 2956 2984	circunfleja: muy calcificada
+T39	DISEASE 2858 2913	descendente anterior: largo desarrollo, muy calcificada
+T40	DISEASE 4001 4018	rotura de cuerdas
+T41	DISEASE 2746 2763	rotura de cuerdas
+T42	DISEASE 4059 4103	lesiones moderadas de la coronaria izquierda
+T43	DISEASE 2002 2019	ritmo ventricular
+T44	DISEASE 2818 2832	Tronco: lesión
+T45	DISEASE 5426 5489	válvula mitral con dispositivos bien posicionados con fuga leve
+T46	DISEASE 5895 5929	A2 con imagen de rotura de cuerdas
+T47	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 287 301	ecocardiograma
+T49	PROCEDURE 573 588	implante de DAI
+T50	PROCEDURE 858 876	exploración física
+T51	PROCEDURE 1070 1107	Gasometría arterial con Fi02 del 24 %
+T52	PROCEDURE 1205 1229	reactantes de fase aguda
+T53	PROCEDURE 1370 1379	ionograma
+T54	PROCEDURE 1390 1410	Radiografía de tórax
+T55	PROCEDURE 1536 1539	ECG
+T56	PROCEDURE 1764 1785	tratamiento diurético
+T57	PROCEDURE 1788 1802	antibioterapia
+T58	PROCEDURE 1829 1849	Radiografía de tórax
+T59	PROCEDURE 1972 1975	ECG
+T60	PROCEDURE 2040 2054	Ecocardiograma
+T61	PROCEDURE 2576 2605	Ecocardiograma transesofágico
+T62	PROCEDURE 2765 2780	Coronariografía
+T63	PROCEDURE 3088 3102	Ecocardiograma
+T64	PROCEDURE 3121 3196	implante de dos MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral
+T65	PROCEDURE 3268 3280	Fluoroscopia
+T66	PROCEDURE 3282 3305	implante de 2 MitraClip
+T67	PROCEDURE 3528 3560	ventilación mecánica no invasiva
+T68	PROCEDURE 3594 3622	ecocardiograma transtorácico
+T69	PROCEDURE 3819 3848	ecocardiograma transesofágico
+T70	PROCEDURE 4031 4046	coronariografía
+T71	PROCEDURE 4297 4319	intubación orotraqueal
+T72	PROCEDURE 4321 4350	ventilación mecánica invasiva
+T73	PROCEDURE 4353 4397	implante de balón de contrapulsación aórtico
+T74	PROCEDURE 4523 4544	implante de MitraClip
+T75	PROCEDURE 4594 4627	soporte inotrópico con dobutamina
+T76	PROCEDURE 4629 4661	balón de contrapulsación aórtico
+T77	PROCEDURE 4663 4685	intubación orotraqueal
+T78	PROCEDURE 4688 4708	ventilación mecánica
+T79	PROCEDURE 4747 4776	ecocardiograma transesofágico
+T80	PROCEDURE 4779 4786	escopia
+T81	PROCEDURE 5146 5216	retirarse balón de contrapulsación, soporte ionotrópico y ventilatorio
+T82	PROCEDURE 5306 5320	Ecocardiograma
+T83	PROCEDURE 5367 5440	, implante de MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral
+T84	PROCEDURE 3563 3581	soporte inotrópico
+T85	PROCEDURE 616 619	TRC
+T86	PROCEDURE 1602 1605	TRC
+T87	PROCEDURE 2035 2038	TRC
+T88	PROCEDURE 1292 1305	función renal
+T89	PROCEDURE 1171 1180	Analítica
+T90	PROCEDURE 843 846	VMK
+T91	SYMPTOM 705 711	disnea
+T92	SYMPTOM 755 758	tos
+T93	SYMPTOM 761 767	fiebre
+T94	SYMPTOM 802 808	febril
+T95	SYMPTOM 897 903	roncus
+T96	SYMPTOM 906 917	sibilancias
+T97	SYMPTOM 956 977	crepitantes bibasales
+T98	SYMPTOM 979 994	soplo sistólico
+T99	SYMPTOM 1025 1044	edemas bimaleolares
+T100	SYMPTOM 1047 1068	ingurgitación yugular
+T101	SYMPTOM 1192 1229	elevación de reactantes de fase aguda
+T102	SYMPTOM 1543 1556	ritmo sinusal
+T103	SYMPTOM 1861 1884	redistribución vascular
+T104	SYMPTOM 1977 1990	ritmo sinusal
+T105	SYMPTOM 2395 2438	Ventrículo derecho con motilidad conservada
+T106	SYMPTOM 5238 5263	estable hemodinámicamente
+T107	SYMPTOM 1458 1494	imagen consolidativa en lóbulo medio
+T108	SYMPTOM 426 450	acinesia inferoposterior
+T109	SYMPTOM 1292 1326	función renal ligeramente alterada
+T110	SYMPTOM 1370 1388	ionograma correcto
+T111	SYMPTOM 2303 2336	acinesia inferolateral e inferior
+T112	SYMPTOM 2782 2800	dominancia derecha
+T113	SYMPTOM 1249 1261	leucocitosis
+T114	SYMPTOM 1274 1285	neutrofilia
+T115	SYMPTOM 1415 1448	signos de redistribución vascular
+T116	SYMPTOM 1894 1930	imagen consolidativa en lóbulo medio
+T117	MEDICATION 4617 4627	dobutamina
+#1	AnnotatorNotes T36	 insuficiencia mitral

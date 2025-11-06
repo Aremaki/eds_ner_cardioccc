@@ -1,0 +1,116 @@
+T1	DISEASE 108 146	aneurisma de aorta torácica ascendente
+T2	DISEASE 149 215	insuficiencia aórtica grave secundaria a válvula aórtica bicúspide
+T3	DISEASE 315 335	infarto anteroseptal
+T4	DISEASE 413 439	disfunción sistólica grave
+T5	DISEASE 959 981	insuficiencia cardiaca
+T6	DISEASE 1484 1493	infección
+T7	DISEASE 1673 1748	Bloqueo de rama izquierda con alteraciones secundarias en la repolarización
+T8	DISEASE 1890 1934	Insuficiencia mitral (IM) funcional moderada
+T9	DISEASE 2036 2061	insuficiencia tricuspídea
+T10	DISEASE 2063 2065	IT
+T11	DISEASE 2170 2190	insuficiencia mitral
+T12	DISEASE 2192 2236	insuficiencia mitral (IM) funcional moderada
+T13	DISEASE 2590 2636	lesión cutánea en región mediastínica anterior
+T14	DISEASE 2945 2959	lesión cutánea
+T15	DISEASE 3001 3016	pseudoaneurisma
+T16	DISEASE 3606 3633	ruptura del pseudoaneurisma
+T17	DISEASE 3678 3693	pseudoaneurisma
+T18	DISEASE 4308 4326	IM funcional grave
+T19	DISEASE 4346 4375	Dehiscencia del anillo mitral
+T20	DISEASE 4731 4751	insuficiencia mitral
+T21	DISEASE 4807 4852	neumonía bilateral por coronavirus SARS-CoV-2
+T22	DISEASE 4894 4926	síndrome de distrés respiratorio
+T23	DISEASE 5180 5205	Válvula aórtica bicúspide
+T24	DISEASE 5207 5236	Aneurisma de aorta ascendente
+T25	DISEASE 5317 5337	Infarto de miocardio
+T26	DISEASE 5371 5393	Insuficiencia cardiaca
+T27	DISEASE 5425 5466	Pseudoaneurisma de tubo aórtico valvulado
+T28	DISEASE 5468 5504	Insuficiencia mitral funcional grave
+T29	DISEASE 5580 5648	Dehiscencia de anillo de valvuloplastia mitral con IM residual grave
+T30	DISEASE 5650 5689	Neumonía bilateral grave por SARS-CoV-2
+T31	DISEASE 3196 3198	IM
+T32	DISEASE 4038 4040	IM
+T33	DISEASE 4258 4260	IM
+T34	DISEASE 1766 1800	ventrículo izquierdo (VI) dilatado
+T35	DISEASE 4079 4090	VI dilatado
+T36	DISEASE 3283 3291	lesiones
+T37	DISEASE 1912 1914	IM
+T38	DISEASE 2214 2216	IM
+T39	DISEASE 2707 2740	defecto óseo en manubrio esternal
+T40	DISEASE 2855 2898	disecciones crónicas en la aorta ascendente
+T41	PROCEDURE 257 286	implante de prótesis mecánica
+T42	PROCEDURE 362 387	circulación extracorpórea
+T43	PROCEDURE 1117 1135	Exploración física
+T44	PROCEDURE 1136 1157	Auscultación cardiaca
+T45	PROCEDURE 1234 1255	Auscultación pulmonar
+T46	PROCEDURE 1569 1581	auscultación
+T47	PROCEDURE 1632 1650	Electrocardiograma
+T48	PROCEDURE 1652 1655	ECG
+T49	PROCEDURE 1750 1764	Ecocardiograma
+T50	PROCEDURE 2118 2147	Ecocardiograma transesofágico
+T51	PROCEDURE 2344 2367	implante de clip mitral
+T52	PROCEDURE 2443 2461	exploración física
+T53	PROCEDURE 2506 2517	TC de aorta
+T54	PROCEDURE 2575 2577	TC
+T55	PROCEDURE 3075 3096	cirugía de reparación
+T56	PROCEDURE 3134 3162	ecocardiograma transeofágico
+T57	PROCEDURE 3219 3253	cateterismo de arterias coronarias
+T58	PROCEDURE 3315 3326	aortografía
+T59	PROCEDURE 3444 3460	cirugía cardiaca
+T60	PROCEDURE 3499 3531	valvuloplastia mitral con anillo
+T61	PROCEDURE 3544 3576	cirugía con parada en hipotermia
+T62	PROCEDURE 3649 3661	esternotomía
+T63	PROCEDURE 3722 3772	anastomosis del tubo valvulado con la raíz aórtica
+T64	PROCEDURE 3799 3840	se sustituye por tubo valvulado biológico
+T65	PROCEDURE 3861 3884	anuloplastia con anillo
+T66	PROCEDURE 3937 3951	ecocardiograma
+T67	PROCEDURE 4014 4033	anuloplastia mitral
+T68	PROCEDURE 4207 4237	ecocardiografía transesofágica
+T69	PROCEDURE 4284 4303	anuloplastia mitral
+T70	PROCEDURE 4990 5019	ventilación mecánica invasiva
+T71	PROCEDURE 5095 5103	extubado
+T72	PROCEDURE 5250 5273	Cirugía de Bentall-Bono
+T73	PROCEDURE 5278 5315	implante de prótesis aórtica mecánica
+T74	PROCEDURE 5540 5578	implante de prótesis aórtica biológica
+T75	PROCEDURE 5605 5626	valvuloplastia mitral
+T76	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T77	PROCEDURE 5512 5535	cirugía de Bentall-Bono
+T78	PROCEDURE 2882 2910	aorta ascendente intervenida
+T79	PROCEDURE 228 246	cirugía de Bentall
+T80	SYMPTOM 533 545	asintomático
+T81	SYMPTOM 788 817	disnea de moderados esfuerzos
+T82	SYMPTOM 854 868	dolor torácico
+T83	SYMPTOM 883 912	edemas en miembros inferiores
+T84	SYMPTOM 1012 1051	bultoma en tercio superior del esternón
+T85	SYMPTOM 1057 1073	apertura cutánea
+T86	SYMPTOM 1079 1085	fiebre
+T87	SYMPTOM 1089 1103	enrojecimiento
+T88	SYMPTOM 1136 1166	Auscultación cardiaca: rítmico
+T89	SYMPTOM 1168 1194	ruidos protésicos aórticos
+T90	SYMPTOM 1196 1232	Soplo sistólico II/VI en foco mitral
+T91	SYMPTOM 1257 1286	murmullo vesicular conservado
+T92	SYMPTOM 1292 1303	crepitantes
+T93	SYMPTOM 1421 1435	enrojecimiento
+T94	SYMPTOM 1439 1461	aumento de temperatura
+T95	SYMPTOM 1597 1605	doloroso
+T96	SYMPTOM 1805 1830	FEVI gravemente deprimida
+T97	SYMPTOM 1978 2030	Ventrículo derecho (VD) de tamaño y función normales
+T98	SYMPTOM 4662 4674	asintomático
+T99	SYMPTOM 1658 1671	ritmo sinusal
+T100	SYMPTOM 1305 1355	Bultoma a nivel de tercio superior de esternotomía
+T101	SYMPTOM 1832 1888	Acinesia extensa de cara anterior, anteroseptal y septal
+T102	SYMPTOM 2477 2484	bultoma
+T103	SYMPTOM 4095 4120	FEVI gravemente deprimida
+T104	SYMPTOM 4129 4178	acinesia de caras anterior, anteroseptal y septal
+T105	SYMPTOM 5398 5423	FEVI gravemente deprimida
+T106	SYMPTOM 1936 1976	Prótesis aórtica sin datos de disfunción
+T107	SYMPTOM 3972 4012	prótesis aórtica sin datos de disfunción
+T108	SYMPTOM 4504 4569	Prótesis aórtica biológica y tubo aórtico sin datos de disfunción
+T109	MEDICATION 575 585	lisinopril
+T110	MEDICATION 601 613	acenocumarol
+T111	MEDICATION 615 628	atorvastatina
+T112	MEDICATION 645 655	bisoprolol
+T113	MEDICATION 673 688	espironolactona
+#1	AnnotatorNotes T31	 insuficiencia mitral
+#2	AnnotatorNotes T32	 insuficiencia mitral
+#3	AnnotatorNotes T33	 insuficiencia mitral

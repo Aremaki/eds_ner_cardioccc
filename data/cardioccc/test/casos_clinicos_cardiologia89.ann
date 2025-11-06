@@ -1,0 +1,50 @@
+T1	ENFERMEDAD 258 303	extrasistolia ventricular aislada monomórfica
+T2	ENFERMEDAD 830 833	BAV
+T3	ENFERMEDAD 978 1001	trastorno de conducción
+T4	ENFERMEDAD 1003 1026	miocardiopatía dilatada
+T5	ENFERMEDAD 1086 1089	BAV
+T6	ENFERMEDAD 1223 1226	BAV
+T7	ENFERMEDAD 1388 1403	apnea del sueño
+T8	ENFERMEDAD 1605 1628	cardiopatía estructural
+T9	ENFERMEDAD 1689 1692	BAV
+T10	ENFERMEDAD 801 828	bloqueo auriculoventricular
+T11	ENFERMEDAD 591 616	extrasistolia ventricular
+T12	ENFERMEDAD 305 307	EV
+T13	ENFERMEDAD 1231 1250	bradicardia sinusal
+T14	ENFERMEDAD 793 795	EV
+T15	ENFERMEDAD 1273 1275	EV
+T16	ENFERMEDAD 541 549	isquemia
+T17	ENFERMEDAD 1029 1042	muerte súbita
+T18	PROCEDIMIENTO 34 52	exploración física
+T19	PROCEDIMIENTO 312 315	ECG
+T20	PROCEDIMIENTO 364 382	exploración física
+T21	PROCEDIMIENTO 422 436	ecocardiograma
+T22	PROCEDIMIENTO 441 461	radiografía de tórax
+T23	PROCEDIMIENTO 556 566	ergometría
+T24	PROCEDIMIENTO 759 765	Holter
+T25	PROCEDIMIENTO 1074 1080	Holter
+T26	PROCEDIMIENTO 1161 1175	monitorización
+T27	PROCEDIMIENTO 1347 1373	estudio electrofisiológico
+T28	PROCEDIMIENTO 1413 1428	polisomnografía
+T29	PROCEDIMIENTO 1529 1538	analgesia
+T30	PROCEDIMIENTO 1961 1971	Holter ECG
+T31	PROCEDIMIENTO 1833 1870	implante de un marcapasos monocameral
+T32	PROCEDIMIENTO 467 476	analítica
+T33	SINTOMA 364 392	exploración física es normal
+T34	SINTOMA 930 942	asintomático
+T35	SINTOMA 1553 1561	falleció
+T36	SINTOMA 1918 1930	asintomático
+T37	SINTOMA 1705 1721	hipertonía vagal
+T38	SINTOMA 422 501	ecocardiograma, la radiografía de tórax y la analítica no muestran alteraciones
+T39	SINTOMA 1190 1206	pausas nocturnas
+T40	SINTOMA 1311 1337	conducción basal es normal
+T41	SINTOMA 1986 2002	pausas nocturnas
+T42	FARMACO 719 729	bisoprolol
+T43	FARMACO 1115 1125	bisoprolol
+#1	AnnotatorNotes T2	 BAV: bloqueo aurículo-ventricular
+#2	AnnotatorNotes T5	 BAV: bloqueo aurículo-ventricular
+#3	AnnotatorNotes T6	 BAV: bloqueo aurículo-ventricular
+#4	AnnotatorNotes T9	 BAV: bloqueo aurículo-ventricular
+#5	AnnotatorNotes T12	 EV: extrasistolia/extrasístole ventricular
+#6	AnnotatorNotes T14	extrasistole ventricular
+#7	AnnotatorNotes T15	extrasistole ventricular

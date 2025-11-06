@@ -1,0 +1,146 @@
+T1	ENFERMEDAD 135 150	hábitos tóxicos
+T2	ENFERMEDAD 307 334	adenocarcinoma endocervical
+T3	ENFERMEDAD 688 723	lesión subendocárdica inferolateral
+T4	ENFERMEDAD 835 889	infarto agudo de miocárdico (IAM) sin elevación del ST
+T5	ENFERMEDAD 864 867	IAM
+T6	ENFERMEDAD 1845 1880	lesión subendocárdica inferolateral
+T7	ENFERMEDAD 1885 1907	isquemia subepicárdica
+T8	ENFERMEDAD 2459 2488	disección hematoma espontáneo
+T9	ENFERMEDAD 2828 2860	disección coronaria con hematoma
+T10	ENFERMEDAD 3615 3637	isquemia subepicárdica
+T11	ENFERMEDAD 3685 3706	lesión subendocardica
+T12	ENFERMEDAD 3728 3750	isquemia subepicárdica
+T13	ENFERMEDAD 3794 3839	TCI de escaso calibre por hematoma intramural
+T14	ENFERMEDAD 3945 3972	ADA con hematoma intramural
+T15	ENFERMEDAD 4117 4143	Cx con hematoma intramural
+T16	ENFERMEDAD 4340 4379	ACD dominante, tipo hematoma intramural
+T17	ENFERMEDAD 4804 4829	TCI se objetiva trombosis
+T18	ENFERMEDAD 4903 4953	DA luz filiforme del tercio proximal por trombosis
+T19	ENFERMEDAD 4971 4983	Cx trombosis
+T20	ENFERMEDAD 5243 5252	trombosis
+T21	ENFERMEDAD 5834 5883	hematoma mural que se extendía desde TCI hacia Cx
+T22	ENFERMEDAD 6156 6191	lesiones vasculares extracoronarias
+T23	ENFERMEDAD 6310 6336	síndrome antifosfolipídico
+T24	ENFERMEDAD 6713 6733	lesión subepicárdica
+T25	ENFERMEDAD 6846 6885	arteria circunfleja hematoma intramural
+T26	ENFERMEDAD 7214 7233	hematoma intramural
+T27	ENFERMEDAD 7248 7311	flap intimal desde tercio medio de arteria descendente anterior
+T28	ENFERMEDAD 7314 7374	trombosis de falsa luz a nivel descendente anterior proximal
+T29	ENFERMEDAD 7538 7597	Disección coronaria espontánea en árbol coronario izquierdo
+T30	ENFERMEDAD 7602 7621	hematoma intramural
+T31	ENFERMEDAD 7624 7680	Infarto agudo de miocardio con elevación del ST anterior
+T32	ENFERMEDAD 7682 7756	Disección coronaria espontánea con oclusión de descendente anterior distal
+T33	ENFERMEDAD 7913 7969	infarto agudo de miocardio con elevación del ST lateral.
+T34	ENFERMEDAD 182 189	abortos
+T35	ENFERMEDAD 2177 2197	Lesión subepicárdica
+T36	ENFERMEDAD 3128 3155	disección espiroidea de ADA
+T37	ENFERMEDAD 3569 3589	Lesión subepicárdica
+T38	ENFERMEDAD 4281 4320	Cx propia con disminución de su calibre
+T39	ENFERMEDAD 5649 5669	lesión subepicárdica
+T40	ENFERMEDAD 5793 5823	disección coronaria espontánea
+T41	ENFERMEDAD 5909 5925	ADA con oclusión
+T42	ENFERMEDAD 6801 6816	disección a TCI
+T43	ENFERMEDAD 8117 8153	anomalías arteriales extracoronarias
+T44	ENFERMEDAD 5598 5603	ángor
+T45	ENFERMEDAD 2305 2391	Arteria descendente anterior (ADA) con afectación del lumen de forma difusa y oclusión
+T46	ENFERMEDAD 5825 5828	DCE
+T47	ENFERMEDAD 6041 6061	disección espiroidea
+T48	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDIMIENTO 237 242	parto
+T50	PROCEDIMIENTO 269 302	Histerectomía y doble anexectomía
+T51	PROCEDIMIENTO 659 677	electrocardiograma
+T52	PROCEDIMIENTO 679 682	ECG
+T53	PROCEDIMIENTO 893 911	Exploración física
+T54	PROCEDIMIENTO 1041 1073	Auscultación cardiorrespiratoria
+T55	PROCEDIMIENTO 1214 1223	Hemograma
+T56	PROCEDIMIENTO 1324 1335	Coagulación
+T57	PROCEDIMIENTO 1644 1696	Detección de ARN de SARS-CoV-2 (exudado nasofaríngeo
+T58	PROCEDIMIENTO 1709 1712	ECG
+T59	PROCEDIMIENTO 1909 1929	Radiografía de tórax
+T60	PROCEDIMIENTO 2070 2073	ECG
+T61	PROCEDIMIENTO 2237 2248	cateterismo
+T62	PROCEDIMIENTO 2671 2693	Angioplastia sobre ADA
+T63	PROCEDIMIENTO 2768 2791	ecografía intravascular
+T64	PROCEDIMIENTO 3289 3330	Angio-TC de troncos supraaórticos y aorta
+T65	PROCEDIMIENTO 3471 3474	ECG
+T66	PROCEDIMIENTO 3769 3780	cateterismo
+T67	PROCEDIMIENTO 4060 4063	ICP
+T68	PROCEDIMIENTO 4111 4115	IVUS
+T69	PROCEDIMIENTO 4425 4451	ICP con balón simple en OM
+T70	PROCEDIMIENTO 4716 4734	Angio-TC coronario
+T71	PROCEDIMIENTO 4755 4773	Angio-TC coronario
+T72	PROCEDIMIENTO 5055 5073	Angio-TC coronario
+T73	PROCEDIMIENTO 5645 5648	ECG
+T74	PROCEDIMIENTO 5722 5737	coronariografía
+T75	PROCEDIMIENTO 5987 5999	angioplastia
+T76	PROCEDIMIENTO 6102 6142	angio-TC de troncos supraórticos y aorta
+T77	PROCEDIMIENTO 6201 6216	ecocardiografía
+T78	PROCEDIMIENTO 6391 6411	doble antiagregación
+T79	PROCEDIMIENTO 6414 6429	anticoagulación
+T80	PROCEDIMIENTO 6709 6712	ECG
+T81	PROCEDIMIENTO 6837 6841	IVUS
+T82	PROCEDIMIENTO 6966 7012	angioplastia con balón simple y balón de corte
+T83	PROCEDIMIENTO 7072 7091	angio-TAC coronario
+T84	PROCEDIMIENTO 7396 7416	doble antiagregación
+T85	PROCEDIMIENTO 7486 7495	estatinas
+T86	PROCEDIMIENTO 7497 7512	betabloqueantes
+T87	PROCEDIMIENTO 7515 7523	nitratos
+T88	PROCEDIMIENTO 7796 7850	angioplastia con balón a baja presión y guía coronaria
+T89	PROCEDIMIENTO 7970 8044	Angioplastia primaria con balón en bifurcación obtusa marginal-circunfleja
+T90	PROCEDIMIENTO 8104 8112	Angio-TC
+T91	PROCEDIMIENTO 210 231	reproducción asistida
+T92	PROCEDIMIENTO 1364 1374	Bioquímica
+T93	PROCEDIMIENTO 2793 2797	IVUS
+T94	PROCEDIMIENTO 3066 3070	IVUS
+T95	PROCEDIMIENTO 3860 3864	IVUS
+T96	PROCEDIMIENTO 4595 4613	balón simple en Cx
+T97	PROCEDIMIENTO 5777 5781	IVUS
+T98	PROCEDIMIENTO 6004 6021	implante de stent
+T99	PROCEDIMIENTO 6767 6782	Coronariografía
+T100	PROCEDIMIENTO 7855 7872	implante de stent
+T101	PROCEDIMIENTO 1203 1212	Analítica
+T102	PROCEDIMIENTO 6521 6551	estudio de hipercoagulabilidad
+T103	PROCEDIMIENTO 726 768	seriación de marcadores de daño miocárdico
+T104	PROCEDIMIENTO 6743 6765	activándose código IAM
+T105	SINTOMA 524 541	opresión torácica
+T106	SINTOMA 619 637	cortejo vegetativo
+T107	SINTOMA 926 951	hemodinámicamente estable
+T108	SINTOMA 1018 1039	ingurgitación yugular
+T109	SINTOMA 1041 1080	Auscultación cardiorrespiratoria normal
+T110	SINTOMA 1086 1092	soplos
+T111	SINTOMA 1094 1124	Miembros inferiores sin edemas
+T112	SINTOMA 1126 1176	Pulsos radiales y femorales presentes y simétricos
+T113	SINTOMA 1657 1707	ARN de SARS-CoV-2 (exudado nasofaríngeo): negativo
+T114	SINTOMA 1751 1772	PR normal y constante
+T115	SINTOMA 1774 1786	QRS estrecho
+T116	SINTOMA 1944 1972	índice cardiotorácico normal
+T117	SINTOMA 1974 2000	senos costofrénicos libres
+T118	SINTOMA 2005 2032	infiltrados parenquimatosos
+T119	SINTOMA 2140 2161	PR normal y constante
+T120	SINTOMA 2163 2175	QRS estrecho
+T121	SINTOMA 3207 3221	dolor torácico
+T122	SINTOMA 3500 3513	ritmo sinusal
+T123	SINTOMA 3522 3531	PR normal
+T124	SINTOMA 3545 3557	QRS estrecho
+T125	SINTOMA 5497 5523	Ramas DP y PL sin lesiones
+T126	SINTOMA 5618 5636	cortejo vegetativo
+T127	SINTOMA 6241 6272	fracción de eyección conservada
+T128	SINTOMA 6626 6681	dolor torácico opresivo irradiado a miembros superiores
+T129	SINTOMA 6686 6704	cortejo vegetativo
+T130	SINTOMA 8057 8102	Fracción de eyección biventricular conservada
+T131	SINTOMA 739 795	marcadores de daño miocárdico que se encuentran elevados
+T132	SINTOMA 2262 2303	tronco común izquierdo (TCI) sin lesiones
+T133	SINTOMA 3224 3239	ST isoeléctrico
+T134	SINTOMA 3289 3363	Angio-TC de troncos supraaórticos y aorta: estudio dentro de la normalidad
+T135	SINTOMA 3368 3469	aorta ascendente, cayado aórtico y aorta descendente y sus ramas viscerales no muestran anormalidades
+T136	SINTOMA 2116 2129	ritmo sinusal
+T137	SINTOMA 1727 1740	ritmo sinusal
+T138	SINTOMA 8155 8166	Prediabetes
+T139	SINTOMA 1788 1798	eje normal
+T140	SINTOMA 1308 1322	fórmula normal
+T141	SINTOMA 2593 2648	Arteria coronaria derecha (ACD) dominante, sin lesiones
+T142	SINTOMA 2490 2536	Arteria circunfleja (Cx) con afectación difusa
+T143	SINTOMA 2305 2380	Arteria descendente anterior (ADA) con afectación del lumen de forma difusa
+T144	SINTOMA 5440 5470	ACD: sin evidencia de lesiones
+T145	FARMACO 6448 6470	ácido acetilsalicílico
+T146	FARMACO 6473 6504	heparina de bajo peso molecular

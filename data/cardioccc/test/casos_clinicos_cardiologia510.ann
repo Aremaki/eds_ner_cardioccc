@@ -1,0 +1,94 @@
+T1	ENFERMEDAD 3317 3369	VI de tamaño normal con hipertrofia concéntrica leve
+T2	ENFERMEDAD 90 109	deterioro cognitivo
+T3	ENFERMEDAD 146 154	fumadora
+T4	ENFERMEDAD 156 159	HTA
+T5	ENFERMEDAD 162 181	hipercolesterolemia
+T6	ENFERMEDAD 1597 1751	lesión hipodensa frontoopercular izquierda que también afecta a la región anterior de la corteza insular, con pérdida de diferenciación corticosubcortical
+T7	ENFERMEDAD 1767 1792	lesión isquémica subaguda
+T8	ENFERMEDAD 1912 1945	hemorragias intra ni extraaxiales
+T9	ENFERMEDAD 1955 1974	lesiones isquémicas
+T10	ENFERMEDAD 2153 2167	lesiones óseas
+T11	ENFERMEDAD 2180 2267	lesión isquémica de perfil subagudo en territorio superficial anterior de ACM izquierda
+T12	ENFERMEDAD 2328 2353	microhemorragia petequial
+T13	ENFERMEDAD 2448 2513	lesión de perfil isquémico o subaguda frontal e insular izquierda
+T14	ENFERMEDAD 2832 2854	Lesión quística pineal
+T15	ENFERMEDAD 3088 3113	microhemorragia petequial
+T16	ENFERMEDAD 3167 3237	lesión de perfil isquémico subagudo del territorio de la ACM izquierda
+T17	ENFERMEDAD 3705 3739	insuficiencia mitral leve-moderada
+T18	ENFERMEDAD 3755 3761	mixoma
+T19	ENFERMEDAD 3797 3829	Válvula mitral con insuficiencia
+T20	ENFERMEDAD 3897 3916	derrame pericárdico
+T21	ENFERMEDAD 3983 4002	déficit neurológico
+T22	ENFERMEDAD 4058 4145	lesión isquémica de perfil subagudo en territorio superficial anterior de ACM izquierda
+T23	ENFERMEDAD 4271 4290	déficit neurológico
+T24	ENFERMEDAD 4345 4370	microhemorragia petequial
+T25	ENFERMEDAD 4421 4491	lesión de perfil isquémico subagudo del territorio de la ACM izquierda
+T26	ENFERMEDAD 4724 4758	insuficiencia mitral leve-moderada
+T27	ENFERMEDAD 4955 5008	ictus reciente con pequeña transformación hemorrágica
+T28	ENFERMEDAD 5073 5078	tumor
+T29	ENFERMEDAD 5084 5108	embolismos de repetición
+T30	ENFERMEDAD 5461 5467	mixoma
+T31	ENFERMEDAD 5483 5516	Ictus isquémico frontal izquierdo
+T32	ENFERMEDAD 5604 5630	Mixoma auricular izquierdo
+T33	ENFERMEDAD 3444 3481	Aurícula izquierda levemente dilatada
+T34	ENFERMEDAD 5518 5602	Microhemorragia petequial confluente en el interior de la lesión de perfil isquémico
+T35	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDIMIENTO 688 706	exploración física
+T37	PROCEDIMIENTO 905 916	Campimetría
+T38	PROCEDIMIENTO 1111 1113	AP
+T39	PROCEDIMIENTO 1119 1121	AC
+T40	PROCEDIMIENTO 1356 1367	Coagulación
+T41	PROCEDIMIENTO 1412 1421	Hemograma
+T42	PROCEDIMIENTO 1493 1496	ECG
+T43	PROCEDIMIENTO 1561 1586	TAC craneal sin contraste
+T44	PROCEDIMIENTO 2269 2280	TAC craneal
+T45	PROCEDIMIENTO 3248 3276	Ecocardiograma transtorácico
+T46	PROCEDIMIENTO 4021 4031	TC craneal
+T47	PROCEDIMIENTO 4320 4322	TC
+T48	PROCEDIMIENTO 4508 4522	ecocardiograma
+T49	PROCEDIMIENTO 5212 5241	exéresis de la masa auricular
+T50	PROCEDIMIENTO 5397 5416	anatomía patológica
+T51	PROCEDIMIENTO 1236 1246	bioquímica
+T52	PROCEDIMIENTO 5246 5310	resección de fosa oval y reconstrucción con parche de pericardio
+T53	PROCEDIMIENTO 1214 1223	Analítica
+T54	PROCEDIMIENTO 5170 5177	cirugía
+T55	PROCEDIMIENTO 1067 1070	CYC
+T56	SINTOMA 383 404	malestar generalizado
+T57	SINTOMA 415 445	movimientos anormales faciales
+T58	SINTOMA 448 469	discurso entrecortado
+T59	SINTOMA 474 512	dificultad para elaborar frases largas
+T60	SINTOMA 716 740	buen nivel de conciencia
+T61	SINTOMA 742 771	orientada en las tres esferas
+T62	SINTOMA 776 792	signos meníngeos
+T63	SINTOMA 794 814	Lenguaje poco fluido
+T64	SINTOMA 879 903	Pares craneales normales
+T65	SINTOMA 905 923	Campimetría normal
+T66	SINTOMA 976 1030	Vías largas motoras, sensitivas y cerebelosas normales
+T67	SINTOMA 1032 1065	Reflejos cutáneo-plantar ambiguos
+T68	SINTOMA 1084 1110	pulsos carotideos normales
+T69	SINTOMA 1115 1118	MVC
+T70	SINTOMA 1131 1145	Abdomen normal
+T71	SINTOMA 1147 1187	Extremidades: Pulsos normales, no edemas
+T72	SINTOMA 1498 1511	ritmo sinusal
+T73	SINTOMA 1526 1559	alteraciones de la repolarización
+T74	SINTOMA 3371 3386	FEVI conservada
+T75	SINTOMA 3411 3442	VD de tamaño y función normales
+T76	SINTOMA 3861 3875	masa auricular
+T77	SINTOMA 4548 4574	masa en aurícula izquierda
+T78	SINTOMA 1072 1083	PVY normal,
+T79	SINTOMA 1119 1129	AC: normal
+T80	SINTOMA 1976 2017	Morfología de surcos y ventrículos normal
+T81	SINTOMA 2047 2067	Línea media centrada
+T82	SINTOMA 3317 3336	VI de tamaño normal
+T83	SINTOMA 3483 3509	Masa en aurícula izquierda
+T84	SINTOMA 3763 3795	Válvula aórtica normofuncionante
+T85	SINTOMA 3877 3892	VCI no dilatada
+T86	SINTOMA 819 843	dificultades nominativas
+T87	SINTOMA 1444 1458	formula normal
+T88	SINTOMA 340 353	fallecimiento
+T89	SINTOMA 845 877	Comprende y repite correctamente
+T90	SINTOMA 925 940	Facial centrado
+T91	SINTOMA 2069 2126	Estructuras de la fosa craneal posterior sin alteraciones
+T92	SINTOMA 3388 3409	Relajación prolongada
+T93	SINTOMA 5227 5241	masa auricular
+#1	AnnotatorNotes T69	murmullo vesicular conservado

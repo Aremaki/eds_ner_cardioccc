@@ -1,0 +1,159 @@
+T1	DISEASE 192 237	enfermedad de crohn con fístula enterovesical
+T2	DISEASE 261 304	cuadro infeccioso grave de origen abdominal
+T3	DISEASE 335 393	shock séptico secundario a perforación de megacolon tóxico
+T4	DISEASE 398 420	peritonitis fecaloidea
+T5	DISEASE 1521 1540	taquicardia sinusal
+T6	DISEASE 1902 1940	disfunción ventricular izquierda grave
+T7	DISEASE 2364 2379	derrame pleural
+T8	DISEASE 3316 3341	insuficiencia tricuspídea
+T9	DISEASE 3343 3345	IT
+T10	DISEASE 3451 3470	derrame pericárdico
+T11	DISEASE 3927 3940	valvulopatías
+T12	DISEASE 3960 3979	derrame pericárdico
+T13	DISEASE 4003 4037	disfunción contráctil grave del VI
+T14	DISEASE 4321 4360	Lesión de 14 mm en segmento VI hepático
+T15	DISEASE 4362 4372	hemangioma
+T16	DISEASE 4467 4490	cicatriz de laparotomía
+T17	DISEASE 4867 4901	enfermedad inflamatoria intestinal
+T18	DISEASE 4903 4906	EII
+T19	DISEASE 5006 5045	disfunción ventricular izquierda severa
+T20	DISEASE 5200 5220	disfunción sistólica
+T21	DISEASE 5625 5654	Disfunción ventricular severa
+T22	DISEASE 5697 5719	peritonitis fecaloidea
+T23	DISEASE 5731 5755	Miocardiopatía carencial
+T24	DISEASE 5781 5800	déficit nutricional
+T25	DISEASE 5802 5821	enfermedad de Crohn
+T26	DISEASE 6285 6360	déficit vitamínico (vitamina D-tiamina) y de oligoelementos (seleniohierro)
+T27	DISEASE 7962 7977	brotes de Crohn
+T28	DISEASE 8185 8207	Insuficiencia cardiaca
+T29	DISEASE 8224 8274	disfunción ventricular izquierda grave transitoria
+T30	DISEASE 8383 8402	patología digestiva
+T31	DISEASE 8404 8423	enfermedad de Crohn
+T32	DISEASE 8096 8098	IC
+T33	DISEASE 5912 5932	disfunción sistólica
+T34	DISEASE 4384 4398	esplenomegalia
+T35	DISEASE 4414 4447	Colecciones en la pared abdominal
+T36	DISEASE 8343 8365	déficits nutricionales
+T37	DISEASE 1363 1406	lesión de tejidos blandos en fosa izquierda
+T38	DISEASE 4303 4311	derrames
+T39	DISEASE 5670 5695	sepsis por gram negativos
+T40	DISEASE 8290 8315	sepsis por Gram negativos
+T41	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDURE 468 487	colectomía subtotal
+T43	PROCEDURE 490 500	ileostomía
+T44	PROCEDURE 673 703	antiinflamatorio no esteroideo
+T45	PROCEDURE 705 710	AINES
+T46	PROCEDURE 1140 1153	Traqueostomía
+T47	PROCEDURE 1252 1279	Auscultación cardiopulmonar
+T48	PROCEDURE 1322 1332	ileostomía
+T49	PROCEDURE 1471 1489	electrocardiograma
+T50	PROCEDURE 1588 1608	radiografía de tórax
+T51	PROCEDURE 1860 1875	ecocardiografía
+T52	PROCEDURE 2141 2152	coagulación
+T53	PROCEDURE 2203 2223	RADIOGRAFÍA DE TÓRAX
+T54	PROCEDURE 2381 2399	ELECTROCARDIOGRAMA
+T55	PROCEDURE 2401 2404	ECG
+T56	PROCEDURE 2515 2544	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T57	PROCEDURE 2546 2549	ETT
+T58	PROCEDURE 3372 3379	Doppler
+T59	PROCEDURE 3472 3487	CORONARIOGRAFÍA
+T60	PROCEDURE 3537 3566	RESONANCIA MAGNÉTICA CARDIACA
+T61	PROCEDURE 3568 3571	RMC
+T62	PROCEDURE 4258 4272	TAC de abdomen
+T63	PROCEDURE 4479 4490	laparotomía
+T64	PROCEDURE 4739 4766	Ileostomía en vacío derecho
+T65	PROCEDURE 4982 4985	ETT
+T66	PROCEDURE 5230 5245	coronariografía
+T67	PROCEDURE 5284 5287	RMC
+T68	PROCEDURE 6008 6025	ferroterapia oral
+T69	PROCEDURE 6053 6070	diuréticos de asa
+T70	PROCEDURE 6524 6547	complejo polivitamínico
+T71	PROCEDURE 6549 6572	suplementos poliméricos
+T72	PROCEDURE 6748 6751	TAC
+T73	PROCEDURE 7086 7099	traqueostomía
+T74	PROCEDURE 7114 7126	decanulación
+T75	PROCEDURE 7450 7469	complejo vitamínico
+T76	PROCEDURE 7871 7874	ETT
+T77	PROCEDURE 8009 8022	traqueostomía
+T78	PROCEDURE 8110 8120	trasplante
+T79	PROCEDURE 920 938	anamnesis dirigida
+T80	PROCEDURE 2058 2071	función renal
+T81	PROCEDURE 6443 6457	perfil férrico
+T82	PROCEDURE 6852 6868	antibibioterapia
+T83	PROCEDURE 2047 2056	ANALÍTICA
+T84	PROCEDURE 3879 3883	STIR
+T85	PROCEDURE 1624 1633	analítica
+T86	PROCEDURE 945 956	exploración
+T87	PROCEDURE 4113 4124	exploración
+T88	PROCEDURE 435 458	intervención quirúrgica
+T89	PROCEDURE 6924 6940	prueba de imagen
+T90	PROCEDURE 4228 4255	realce tardío con gadolinio
+T91	SYMPTOM 586 600	dolor torácico
+T92	SYMPTOM 728 745	disnea progresiva
+T93	SYMPTOM 978 1002	aceptable estado general
+T94	SYMPTOM 1009 1027	eupneico en reposo
+T95	SYMPTOM 1081 1093	Taquicárdico
+T96	SYMPTOM 1105 1112	Afebril
+T97	SYMPTOM 1117 1138	ingurgitación yugular
+T98	SYMPTOM 1252 1287	Auscultación cardiopulmonar anodina
+T99	SYMPTOM 1289 1316	Abdomen blando y depresible
+T100	SYMPTOM 1392 1434	fosa izquierda con secreción mucopurulenta
+T101	SYMPTOM 1436 1466	Miembros inferiores sin edemas
+T102	SYMPTOM 1545 1584	aplanamiento generalizado de la onda T.
+T103	SYMPTOM 1673 1708	elevación de la proteína C reactiva
+T104	SYMPTOM 1719 1731	leucocitosis
+T105	SYMPTOM 1733 1750	Dímero D negativo
+T106	SYMPTOM 2058 2082	función renal conservada
+T107	SYMPTOM 2087 2099	leucocitosis
+T108	SYMPTOM 2103 2114	neutrofilia
+T109	SYMPTOM 2163 2180	Dímero D negativo
+T110	SYMPTOM 2225 2253	índice cardiotorácico normal
+T111	SYMPTOM 2438 2447	PR normal
+T112	SYMPTOM 2449 2461	QRS estrecho
+T113	SYMPTOM 2463 2513	Aplanamiento generalizado de la onda T. QTc normal
+T114	SYMPTOM 2988 3019	Hipocontractilidad generalizada
+T115	SYMPTOM 3231 3307	Ventrículo derecho (VD) de dimensiones normales con función sistólica normal
+T116	SYMPTOM 3666 3691	FEVI gravemente deprimida
+T117	SYMPTOM 7232 7246	dolor torácico
+T118	SYMPTOM 7817 7829	asintomático
+T119	SYMPTOM 7852 7866	dolor torácico
+T120	SYMPTOM 1956 1975	hipoquinesia global
+T121	SYMPTOM 2407 2426	taquicardia sinusal
+T122	SYMPTOM 1030 1045	tolera decúbito
+T123	SYMPTOM 2129 2161	Plaquetas y coagulación en rango
+T124	SYMPTOM 2552 2594	aurícula izquierda de dimensiones normales
+T125	SYMPTOM 2691 2740	Ventrículo izquierdo (VI) de dimensiones normales
+T126	SYMPTOM 3574 3598	hipocinesia generalizada
+T127	SYMPTOM 5085 5110	hipocontractilidad global
+T128	SYMPTOM 2915 2939	Grosor miocárdico normal
+T129	SYMPTOM 2255 2281	Senos costofrénicos libres
+T130	SYMPTOM 3489 3535	arterias coronarias sin lesiones angiográficas
+T131	SYMPTOM 2348 2360	condensación
+T132	SYMPTOM 4834 4853	engrosamiento mural
+T133	SYMPTOM 2290 2331	aumento de la trama intersticial en bases
+T134	SYMPTOM 3763 3824	fracción de eyección del ventrículo derecho (FEVD) conservada
+T135	SYMPTOM 3734 3760	VD de dimensiones normales
+T136	SYMPTOM 1588 1619	radiografía de tórax es anodina
+T137	SYMPTOM 2610 2640	Válvula mitral con velos finos
+T138	SYMPTOM 3089 3120	Válvula aórtica con velos finos
+T139	SYMPTOM 6140 6172	cifras bajas de tensión arterial
+T140	MEDICATION 5934 5944	carvedilol
+T141	MEDICATION 5962 5970	ramipril
+T142	MEDICATION 6120 6135	espironolactona
+T143	MEDICATION 6724 6735	azatioprina
+T144	MEDICATION 6870 6882	metronidazol
+T145	MEDICATION 7315 7324	omeprazol
+T146	MEDICATION 7340 7350	carvedilol
+T147	MEDICATION 7368 7376	ramipril
+T148	MEDICATION 7395 7407	metronidazol
+T149	MEDICATION 7493 7504	cinitaprida
+T150	MEDICATION 7526 7533	tiamina
+T151	MEDICATION 7572 7576	VitD
+T152	MEDICATION 7626 7636	citalopram
+T153	MEDICATION 7666 7675	lorazepam
+T154	MEDICATION 6250 6254	IECA
+T155	MEDICATION 7429 7435	hierro
+T156	MEDICATION 6193 6248	inhibidor de la enzima de conversión de la angiotensina
+T157	MEDICATION 6512 6519	tiamina
+T158	MEDICATION 7567 7569	Ca
+#1	AnnotatorNotes T18	  Enfermedad Inflamatoria Intestinal

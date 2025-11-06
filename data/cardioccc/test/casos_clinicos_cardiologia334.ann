@@ -1,0 +1,146 @@
+T1	ENFERMEDAD 84 99	hábitos tóxicos
+T2	ENFERMEDAD 170 188	esclerosis aórtica
+T3	ENFERMEDAD 190 214	cardiopatía hipertensiva
+T4	ENFERMEDAD 216 256	taquicardia supraventricular paroxística
+T5	ENFERMEDAD 270 284	litiasis renal
+T6	ENFERMEDAD 1702 1722	insuficiencia venosa
+T7	ENFERMEDAD 1726 1751	trombosis venosa profunda
+T8	ENFERMEDAD 3421 3442	insuficiencia aórtica
+T9	ENFERMEDAD 3444 3447	IAo
+T10	ENFERMEDAD 3711 3732	hipertensión pulmonar
+T11	ENFERMEDAD 3734 3737	HTP
+T12	ENFERMEDAD 4332 4378	oclusión trombótica de la descendente anterior
+T13	ENFERMEDAD 5651 5654	HTP
+T14	ENFERMEDAD 6656 6682	infarto agudo de miocardio
+T15	ENFERMEDAD 6684 6687	IAM
+T16	ENFERMEDAD 7063 7136	Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) apical
+T17	ENFERMEDAD 7147 7214	Oclusión trombótica de arteria descendente anterior (DA) muy distal
+T18	ENFERMEDAD 7121 7128	IAMCEST
+T19	ENFERMEDAD 5954 5987	angor de reposo/ligeros esfuerzos
+T20	ENFERMEDAD 5899 5910	hipotensión
+T21	ENFERMEDAD 5481 5559	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T22	ENFERMEDAD 4639 4645	trombo
+T23	ENFERMEDAD 3498 3576	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T24	ENFERMEDAD 5428 5431	IAO
+T25	ENFERMEDAD 2609 2681	Descendente anterior de buen calibre, con oclusión trombótica muy distal
+T26	ENFERMEDAD 3263 3333	Válvula aórtica de morfología trivalva, con restricción de su apertura
+T27	ENFERMEDAD 3346 3364	estenosis moderada
+T28	ENFERMEDAD 5270 5340	Válvula aórtica de morfología trivalva, con restricción de su apertura
+T29	ENFERMEDAD 5353 5371	estenosis moderada
+T30	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDIMIENTO 429 438	palpación
+T32	PROCEDIMIENTO 818 828	endodoncia
+T33	PROCEDIMIENTO 1216 1243	auscultación cardiopulmonar
+T34	PROCEDIMIENTO 1345 1366	exploración abdominal
+T35	PROCEDIMIENTO 1806 1825	Analítica sanguínea
+T36	PROCEDIMIENTO 2077 2090	función renal
+T37	PROCEDIMIENTO 2099 2104	iones
+T38	PROCEDIMIENTO 2116 2127	coagulación
+T39	PROCEDIMIENTO 2136 2183	Radiografía anteroposterior de tórax (portátil)
+T40	PROCEDIMIENTO 2343 2361	Electrocardiograma
+T41	PROCEDIMIENTO 2506 2517	Cateterismo
+T42	PROCEDIMIENTO 2823 2851	Ecocardiograma transtorácico
+T43	PROCEDIMIENTO 3869 3893	Cardio-RMN con gadolinio
+T44	PROCEDIMIENTO 4298 4309	cateterismo
+T45	PROCEDIMIENTO 4475 4490	ventriculorafía
+T46	PROCEDIMIENTO 4560 4576	tromboaspiración
+T47	PROCEDIMIENTO 4580 4602	angioplastia coronaria
+T48	PROCEDIMIENTO 4684 4699	anticoagulación
+T49	PROCEDIMIENTO 4813 4841	ecocardiograma transtorácico
+T50	PROCEDIMIENTO 6302 6318	anestésico local
+T51	PROCEDIMIENTO 6406 6447	cardiorresonancia magnética con gadolinio
+T52	PROCEDIMIENTO 6796 6816	doble antiagregación
+T53	PROCEDIMIENTO 6818 6833	betabloqueantes
+T54	PROCEDIMIENTO 6900 6909	estatinas
+T55	PROCEDIMIENTO 7033 7048	ecocardiografía
+T56	PROCEDIMIENTO 1944 1954	bioquímica
+T57	PROCEDIMIENTO 4765 4808	seriación enzimática y electrocardiográfica
+T58	PROCEDIMIENTO 1421 1454	palpación superficial ni profunda
+T59	PROCEDIMIENTO 4182 4213	tratamiento médico antianginoso
+T60	PROCEDIMIENTO 6758 6794	recomendaciones higiénico-dietéticas
+T61	PROCEDIMIENTO 4149 4169	doble antiagregación
+T62	PROCEDIMIENTO 4661 4681	doble antiagregación
+T63	SINTOMA 325 354	dolor centrotorácico opresivo
+T64	SINTOMA 383 401	cortejo vegetativo
+T65	SINTOMA 512 520	ortopnea
+T66	SINTOMA 522 549	disnea paroxística nocturna
+T67	SINTOMA 551 564	palpitaciones
+T68	SINTOMA 566 591	disnea de reposo/esfuerzo
+T69	SINTOMA 593 610	edemas maleolares
+T70	SINTOMA 896 906	normotensa
+T71	SINTOMA 999 1006	Afebril
+T72	SINTOMA 1008 1018	Consciente
+T73	SINTOMA 1021 1030	orientada
+T74	SINTOMA 1032 1051	buen estado general
+T75	SINTOMA 1053 1071	eupneica en reposo
+T76	SINTOMA 1073 1087	normohidratada
+T77	SINTOMA 1089 1103	normocoloreada
+T78	SINTOMA 1106 1121	normoperfundida
+T79	SINTOMA 1127 1173	pulsos carotídeos latían rítmicos y simétricos
+T80	SINTOMA 1190 1211	ingurgitación yugular
+T81	SINTOMA 1216 1255	auscultación cardiopulmonar era rítmica
+T82	SINTOMA 1262 1268	soplos
+T83	SINTOMA 1274 1340	estertores subcrepitantes de campos pulmonares medios e inferiores
+T84	SINTOMA 1377 1454	abdomen blando y depresible, sin dolor a la palpación superficial ni profunda
+T85	SINTOMA 1473 1478	masas
+T86	SINTOMA 1482 1490	megalias
+T87	SINTOMA 1492 1515	timpanismo generalizado
+T88	SINTOMA 1520 1531	peritonismo
+T89	SINTOMA 1534 1562	ruidos hidroaéreos positivos
+T90	SINTOMA 1605 1622	edemas maleolares
+T91	SINTOMA 1624 1683	pulsos pedios y tibiales posteriores presentes y simétricos
+T92	SINTOMA 1767 1779	rash cutáneo
+T93	SINTOMA 2077 2097	función renal normal
+T94	SINTOMA 2099 2113	iones normales
+T95	SINTOMA 2116 2134	coagulación normal
+T96	SINTOMA 2185 2217	índice cardiotorácico conservado
+T97	SINTOMA 2363 2376	ritmo sinusal
+T98	SINTOMA 2400 2412	QRS estrecho
+T99	SINTOMA 2853 2902	ventrículo izquierdo no dilatado ni hipertrofiado
+T100	SINTOMA 2908 2923	acinesia apical
+T101	SINTOMA 2925 3004	patrón diastólico de alteración de la relajación y función sistólica conservada
+T102	SINTOMA 3037 3082	Aurícula derecha e izquierda de tamaño normal
+T103	SINTOMA 3084 3161	Ventrículo derecho no dilatado ni hipertrofiado, con función sistólica normal
+T104	SINTOMA 3178 3213	Válvula mitral de morfología normal
+T105	SINTOMA 3498 3540	Válvula tricúspide morfológicamente normal
+T106	SINTOMA 4498 4544	hipoquinesia anterior-apical e inferior-apical
+T107	SINTOMA 4854 4903	ventrículo izquierdo no dilatado ni hipertrofiado
+T108	SINTOMA 4909 4929	acinesia septoapical
+T109	SINTOMA 4931 4979	patrón diastólico de alteración de la relajación
+T110	SINTOMA 5043 5088	Aurícula derecha e izquierda de tamaño normal
+T111	SINTOMA 5090 5137	Ventrículo derecho no dilatado ni hipertrofiado
+T112	SINTOMA 5143 5167	función sistólica normal
+T113	SINTOMA 5185 5220	Válvula mitral de morfología normal
+T114	SINTOMA 5481 5523	Válvula tricúspide morfológicamente normal
+T115	SINTOMA 5899 5910	hipotensión
+T116	SINTOMA 5913 5920	afebril
+T117	SINTOMA 5989 6002	palpitaciones
+T118	SINTOMA 6006 6012	disnea
+T119	SINTOMA 6983 7028	alteraciones de la contractilidad segmentaria
+T120	SINTOMA 7273 7288	FEVI conservada
+T121	SINTOMA 613 635	recorte de la diuresis
+T122	SINTOMA 2433 2490	supradesnivelación del segmento ST en II, III, AVF, V3-V6
+T123	SINTOMA 3741 3783	Pericardio de grosor y refringencia normal
+T124	SINTOMA 3800 3830	vena cava inferior no dilatada
+T125	SINTOMA 3895 3924	aquinesia anteroseptal apical
+T126	SINTOMA 5657 5699	Pericardio de grosor y refringencia normal
+T127	SINTOMA 6464 6493	aquinesia anteroseptal apical
+T128	SINTOMA 7094 7119	elevación del segmento ST
+T129	SINTOMA 7256 7271	Acinesia apical
+T130	SINTOMA 6963 6975	asintomática
+T131	SINTOMA 2247 2291	aumento de la trama broncovascular bilateral
+T132	SINTOMA 5830 5855	cardiológicamente estable
+T133	SINTOMA 2519 2537	dominancia derecha
+T134	SINTOMA 6022 6056	estabilidad clínica y hemodinámica
+T135	SINTOMA 2294 2332	infiltrados intersticiales bilaterales
+T136	SINTOMA 2219 2242	redistribución vascular
+T137	SINTOMA 2539 2607	Arteria coronaria derecha de buen calibre y desarrollo, sin lesiones
+T138	SINTOMA 2756 2821	Circunfleja de calibre intermedio y buen desarrollo, sin lesiones
+T139	SINTOMA 4982 5010	función sistólica conservada
+T140	SINTOMA 5716 5746	vena cava inferior no dilatada
+T141	FARMACO 6333 6342	lidocaína
+T142	FARMACO 6356 6366	epinefrina
+T143	FARMACO 6892 6896	IECA
+T144	FARMACO 6835 6890	inhibidor de la enzima de conversión de la angiotensina
+#1	AnnotatorNotes T9	  insuficiencia aortica
+#2	AnnotatorNotes T24	  insuficiencia aortica

@@ -1,0 +1,87 @@
+T1	DISEASE 22 72	infección por virus de la inmunodeficiencia humana
+T2	DISEASE 279 301	toxoplasmosis cerebral
+T3	DISEASE 403 429	Crisis comicial secundaria
+T4	DISEASE 445 454	Exfumador
+T5	DISEASE 525 542	infección por VIH
+T6	DISEASE 825 847	infección respiratoria
+T7	DISEASE 1010 1023	broncoespasmo
+T8	DISEASE 1281 1293	hipertensión
+T9	DISEASE 1424 1444	cardiomegalia severa
+T10	DISEASE 1447 1471	edema alveolar bilateral
+T11	DISEASE 1487 1508	edema agudo de pulmón
+T12	DISEASE 1696 1743	insuficiencia mitral severa de origen funcional
+T13	DISEASE 2227 2246	taquicardia sinusal
+T14	DISEASE 2584 2633	Insuficiencia mitral severa de carácter funcional
+T15	DISEASE 2815 2840	insuficiencia tricuspídea
+T16	DISEASE 3005 3067	Descendente anterior (DA) con segmento con ateromatosis severa
+T17	DISEASE 3159 3185	Lesión crítica en DA media
+T18	DISEASE 3380 3425	Coronaria derecha dominante, con ateromatosis
+T19	DISEASE 3918 3940	insuficiencia cardiaca
+T20	DISEASE 3963 3986	miocardiopatía dilatada
+T21	DISEASE 4110 4187	enfermedad coronaria difusa de tres vasos, con lesiones severas sobre DA y CX
+T22	DISEASE 4372 4405	Miocardiopatía dilatada isquémica
+T23	DISEASE 4422 4447	infección crónica por VIH
+T24	DISEASE 198 243	Infección por virus de la hepatitis C 1b RNA+
+T25	DISEASE 2026 2041	daño miocárdico
+T26	DISEASE 4036 4051	daño miocárdico
+T27	DISEASE 2283 2316	hipertrofia ventricular izquierda
+T28	DISEASE 1559 1588	ventrículo izquierdo dilatado
+T29	DISEASE 2409 2450	Ventrículo izquierdo severamente dilatado
+T30	DISEASE 2635 2676	Aurícula izquierda moderadamente dilatada
+T31	DISEASE 3266 3332	Circunfleja de mediano calibre y buen desarrollo con lesión severa
+T32	DISEASE 435 443	recidiva
+T33	DISEASE 1593 1631	disfunción sistólica global muy severa
+T34	DISEASE 3048 3157	ateromatosis severa que abarca el ostium de la misma, la DA proximal-media y el ostium de la primera diagonal
+T35	PROCEDURE 114 141	tratamiento antirretroviral
+T36	PROCEDURE 178 196	exploración física
+T37	PROCEDURE 1242 1269	oxigenoterapia a alto flujo
+T38	PROCEDURE 1315 1327	auscultación
+T39	PROCEDURE 1385 1405	radiografía de tórax
+T40	PROCEDURE 1521 1535	ecocardiograma
+T41	PROCEDURE 1776 1809	tratamiento diurético intravenoso
+T42	PROCEDURE 1826 1858	ventilación mecánica no invasiva
+T43	PROCEDURE 2145 2157	hemocultivos
+T44	PROCEDURE 2196 2199	ECG
+T45	PROCEDURE 2393 2407	Ecocardiograma
+T46	PROCEDURE 3724 3756	ventilación mecánica no invasiva
+T47	PROCEDURE 3775 3785	diuréticos
+T48	PROCEDURE 4086 4101	coronariografía
+T49	PROCEDURE 4214 4226	angioplastia
+T50	PROCEDURE 4229 4262	implante de stents farmacoactivos
+T51	PROCEDURE 2927 2939	Coronografía
+T52	PROCEDURE 3573 3588	Perfil lipídico
+T53	PROCEDURE 667 708	antirretrovirales análogos de nucleósidos
+T54	PROCEDURE 2012 2041	marcadores de daño miocárdico
+T55	PROCEDURE 4022 4051	marcadores de daño miocárdico
+T56	PROCEDURE 3952 3986	estudio de miocardiopatía dilatada
+T57	PROCEDURE 1970 1989	analíticas seriadas
+T58	PROCEDURE 1086 1138	nebulizaciones de salbutamol y bromuro de ipratropio
+T59	PROCEDURE 379 401	controles radiológicos
+T60	PROCEDURE 586 612	inhibidores de la proteasa
+T61	PROCEDURE 3788 3803	vasodilatadores
+T62	SYMPTOM 875 881	disnea
+T63	SYMPTOM 939 959	trabajo respiratorio
+T64	SYMPTOM 961 993	desaturación arterial de oxígeno
+T65	SYMPTOM 1193 1225	desaturación arterial progresiva
+T66	SYMPTOM 1337 1380	crepitantes bilaterales hasta campos medios
+T67	SYMPTOM 1999 2041	elevación de marcadores de daño miocárdico
+T68	SYMPTOM 2107 2121	picos febriles
+T69	SYMPTOM 2145 2167	hemocultivos negativos
+T70	SYMPTOM 2318 2339	Q anterior e inferior
+T71	SYMPTOM 2456 2494	función sistólica severamente reducida
+T72	SYMPTOM 2742 2801	Cava inferior no dilatada con colapso inspiratorio presente
+T73	SYMPTOM 4009 4051	elevación de marcadores de daño miocárdico
+T74	SYMPTOM 2551 2569	hipocinesia severa
+T75	SYMPTOM 1661 1679	hipocinesia severa
+T76	SYMPTOM 2678 2713	Ventrículo derecho de tamaño límite
+T77	SYMPTOM 248 268	hipertransaminasemia
+T78	SYMPTOM 2258 2271	Eje izquierdo
+T79	SYMPTOM 2345 2389	supradesnivelación de 1 mm del ST de V1 a V4
+T80	SYMPTOM 2881 2923	Mínimo despegamiento de hojas pericárdicas
+T81	SYMPTOM 2941 2992	Tronco común izquierdo de buen calibre sin lesiones
+T82	MEDICATION 614 636	atazanavir + ritonavir
+T83	MEDICATION 710 735	emtricitabina + tenofovir
+T84	MEDICATION 1061 1075	hidrocortisona
+T85	MEDICATION 1104 1114	salbutamol
+T86	MEDICATION 1117 1138	bromuro de ipratropio
+#1	AnnotatorNotes T17	 DA: descendente anterior

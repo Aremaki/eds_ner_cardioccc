@@ -1,0 +1,52 @@
+T1	DISEASE 90 111	hipertensión arterial
+T2	DISEASE 113 123	dislipemia
+T3	DISEASE 125 140	ictus isquémico
+T4	DISEASE 142 171	cardiopatía isquémica crónica
+T5	DISEASE 217 241	estenosis aórtica severa
+T6	DISEASE 295 346	bloqueo aurículo-ventricular avanzado posquirúrgico
+T7	DISEASE 1040 1068	vegetaciones a nivel aórtico
+T8	DISEASE 1195 1221	absceso del anillo aórtico
+T9	DISEASE 1306 1342	pseudoaneurismas a nivel subvalvular
+T10	DISEASE 1571 1580	infección
+T11	DISEASE 1595 1610	absceso aórtico
+T12	DISEASE 2224 2316	Endocarditis infecciosa tardía sobre prótesis aórtica biológica, por Streptococcus anginosus
+T13	DISEASE 2333 2361	absceso perivalvular aórtico
+T14	DISEASE 2430 2458	bloqueo aurículo-ventricular
+T15	DISEASE 2487 2512	infección del dispositivo
+T16	DISEASE 174 212	portador de prótesis biológica aórtica
+T17	PROCEDURE 264 290	implante de marcapasos DDD
+T18	PROCEDURE 540 558	Exploración física
+T19	PROCEDURE 675 696	Auscultación cardiaca
+T20	PROCEDURE 718 739	Auscultación pulmonar
+T21	PROCEDURE 918 930	Hemocultivos
+T22	PROCEDURE 983 1028	Ecocardiograma transtorácico y transesofágico
+T23	PROCEDURE 1239 1251	TAC cardiaco
+T24	PROCEDURE 1344 1359	18F-FDG PET/TAC
+T25	PROCEDURE 1643 1672	cirugía de reemplazo valvular
+T26	PROCEDURE 1712 1719	PET/TAC
+T27	PROCEDURE 1908 1929	extraer el marcapasos
+T28	PROCEDURE 1981 2004	tratamiento antibiótico
+T29	PROCEDURE 2051 2067	ecocardiografías
+T30	PROCEDURE 2363 2391	Cirugía de recambio valvular
+T31	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T32	PROCEDURE 481 490	anamnesis
+T33	PROCEDURE 2405 2425	marcapasos bicameral
+T34	SYMPTOM 360 366	fiebre
+T35	SYMPTOM 390 396	disnea
+T36	SYMPTOM 436 444	ortopnea
+T37	SYMPTOM 447 474	disnea paroxística nocturna
+T38	SYMPTOM 628 638	Consciente
+T39	SYMPTOM 641 650	orientado
+T40	SYMPTOM 652 673	Ingurgitación yugular
+T41	SYMPTOM 675 705	Auscultación cardiaca: rítmica
+T42	SYMPTOM 710 716	soplos
+T43	SYMPTOM 741 762	crepitantes bibasales
+T44	SYMPTOM 764 819	Abdomen: blando, depresible, no doloroso a la palpación
+T45	SYMPTOM 825 840	visceromegalias
+T46	SYMPTOM 842 888	Miembros inferiores: edema con fóvea pretibial
+T47	SYMPTOM 918 981	Hemocultivos: 4 muestras positivas para Streptococcus anginosus
+T48	SYMPTOM 2193 2199	fiebre
+T49	SYMPTOM 2203 2209	disnea
+T50	SYMPTOM 497 515	clínica infecciosa
+T51	SYMPTOM 1361 1426	depósito patológico de actividad alrededor de la prótesis aórtica
+T52	MEDICATION 2009 2020	ceftriaxona

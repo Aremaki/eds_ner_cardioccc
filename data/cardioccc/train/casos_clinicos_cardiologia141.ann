@@ -1,0 +1,81 @@
+T1	DISEASE 2106 2135	ventrículo izquierdo dilatado
+T2	DISEASE 90 100	dislipemia
+T3	DISEASE 118 128	tabaquismo
+T4	DISEASE 161 169	obesidad
+T5	DISEASE 191 196	ictus
+T6	DISEASE 212 225	Ulcus péptico
+T7	DISEASE 1507 1541	Aneurismas inferior basal y apical
+T8	DISEASE 1587 1626	Insuficiencia mitral isquémica moderada
+T9	DISEASE 1962 2012	enfermedad coronaria obstructiva severa de 3 vasos
+T10	DISEASE 2825 2888	accidente isquémico transitorio en territorio carotídeo derecho
+T11	DISEASE 2960 2998	infarto evolucionado inferior y apical
+T12	DISEASE 3000 3029	disfunción ventricular severa
+T13	DISEASE 3035 3058	trombo intraventricular
+T14	DISEASE 3060 3098	enfermedad de tres vasos multisegmento
+T15	DISEASE 3302 3319	diabetes mellitus
+T16	DISEASE 3531 3553	insuficiencia cardiaca
+T17	DISEASE 3601 3622	Cardiopatía isquémica
+T18	DISEASE 3624 3662	infarto evolucionado inferior y apical
+T19	DISEASE 3665 3729	Enfermedad coronaria arteriosclerótica obstructiva de tres vasos
+T20	DISEASE 3744 3795	Disfunción sistólica de ventrículo izquierdo severa
+T21	DISEASE 3798 3828	Trombo intraventricular apical
+T22	DISEASE 3831 3880	Accidente isquémico transitorio por cardioembolia
+T23	DISEASE 3980 3988	Obesidad
+T24	DISEASE 3954 3964	Dislipemia
+T25	DISEASE 1248 1289	ventrículo izquierdo severamente dilatado
+T26	DISEASE 1543 1573	Trombo intraventricular apical
+T27	DISEASE 3967 3977	Tabaquismo
+T28	DISEASE 2277 2290	Trombo apical
+T29	PROCEDURE 659 677	Exploración física
+T30	PROCEDURE 966 984	Electrocardiograma
+T31	PROCEDURE 986 989	ECG
+T32	PROCEDURE 1218 1246	Ecocardiograma transtorácico
+T33	PROCEDURE 1814 1823	Hemograma
+T34	PROCEDURE 1922 1942	Cateterismo cardiaco
+T35	PROCEDURE 1944 1959	coronariografía
+T36	PROCEDURE 2075 2104	Resonancia magnética cardiaca
+T37	PROCEDURE 2294 2314	Cateterismo cardiaco
+T38	PROCEDURE 2316 2349	intervención coronaria percutánea
+T39	PROCEDURE 2352 2364	angioplastia
+T40	PROCEDURE 2367 2450	implantación de 3 stents farmacoactivos sobre descendente anterior proximal y media
+T41	PROCEDURE 2454 2466	angioplastia
+T42	PROCEDURE 2469 2531	implantación de 1 stent farmacoactivo sobre 1a obtusa marginal
+T43	PROCEDURE 2583 2595	angioplastia
+T44	PROCEDURE 2598 2695	implantación de 1 stent farmacoactivo sobre coronaria derecha distal e interventricular posterior
+T45	PROCEDURE 2700 2738	stent farmacoactivo a nivel de la cruz
+T46	PROCEDURE 3342 3370	revascularización percutánea
+T47	PROCEDURE 3390 3442	revascularización completa con stents farmacoactivos
+T48	PROCEDURE 3883 3951	Revascularización percutánea completa mediante stents farmacoactivos
+T49	PROCEDURE 766 768	AC
+T50	PROCEDURE 816 818	AP
+T51	PROCEDURE 1825 1836	coagulación
+T52	PROCEDURE 1838 1851	función renal
+T53	PROCEDURE 1853 1858	iones
+T54	PROCEDURE 1877 1891	perfil férrico
+T55	PROCEDURE 1860 1875	perfil hepático
+T56	PROCEDURE 1894 1909	perfil tiroideo
+T57	PROCEDURE 1630 1639	Analítica
+T58	SYMPTOM 276 317	pérdida de fuerza en hemicuerpo izquierdo
+T59	SYMPTOM 365 393	desviación de comisura bucal
+T60	SYMPTOM 416 437	pérdida de conciencia
+T61	SYMPTOM 485 522	dolor centrotorácico opresivo intenso
+T62	SYMPTOM 604 633	Disnea de moderados esfuerzos
+T63	SYMPTOM 766 777	AC: rítmica
+T64	SYMPTOM 786 814	soplo protosistólico en ápex
+T65	SYMPTOM 820 849	murmullo vesicular conservado
+T66	SYMPTOM 851 905	Extremidades: pulsos periféricos presentes, simétricos
+T67	SYMPTOM 992 1005	ritmo sinusal
+T68	SYMPTOM 1039 1062	Onda Q en II, III y aVF
+T69	SYMPTOM 1064 1104	Elevación del ST 0.5 mm en III, aVF y V3
+T70	SYMPTOM 1106 1147	Descenso del ST 0,5 mm en I, aVL, V5 a V6
+T71	SYMPTOM 1313 1352	función sistólica severamente deprimida
+T72	SYMPTOM 1474 1505	Llenado transmitral restrictivo
+T73	SYMPTOM 1860 1918	perfil hepático, perfil férrico y perfil tiroideo normales
+T74	SYMPTOM 2106 2180	ventrículo izquierdo dilatado, con función sistólica severamente deprimida
+T75	SYMPTOM 2903 2917	dolor torácico
+T76	SYMPTOM 1394 1439	alteraciones de la contractilidad segmentaria
+T77	SYMPTOM 1152 1214	onda T negativa en V2, isodifásica en V3 y aplanada de V4 a V6
+T78	SYMPTOM 3563 3584	focalidad neurológica
+T79	SYMPTOM 177 186	fallecida
+T80	SYMPTOM 2182 2247	Segmentos apicales de cara anterior, inferior y septal no viables
+T81	SYMPTOM 3133 3218	viabilidad en territorio de descendente anterior proximal y media, y en cara inferior

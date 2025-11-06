@@ -1,0 +1,111 @@
+T1	DISEASE 126 160	reacciones adversas medicamentosas
+T2	DISEASE 178 186	fumadora
+T3	DISEASE 191 209	consumo de alcohol
+T4	DISEASE 282 293	cardiopatía
+T5	DISEASE 309 330	Hipertensión arterial
+T6	DISEASE 429 439	Dislipemia
+T7	DISEASE 902 923	hipertensión arterial
+T8	DISEASE 1929 1944	derrame pleural
+T9	DISEASE 2448 2461	valvulopatías
+T10	DISEASE 2490 2509	derrame pericárdico
+T11	DISEASE 2736 2766	disección coronaria espontánea
+T12	DISEASE 3999 4033	oclusión en segmento distal-apical
+T13	DISEASE 4143 4158	daño miocárdico
+T14	DISEASE 4408 4429	edema agudo de pulmón
+T15	DISEASE 4725 4783	disección a nivel proximal, con oclusión completa del vaso
+T16	DISEASE 4897 4902	shock
+T17	DISEASE 5814 5819	shock
+T18	DISEASE 5985 6020	dilatación del ventrículo izquierdo
+T19	DISEASE 6351 6373	insuficiencia cardiaca
+T20	DISEASE 6536 6586	Disección coronaria espontánea asociada a embarazo
+T21	DISEASE 6588 6642	Síndrome coronario agudo sin elevación del segmento ST
+T22	DISEASE 6644 6651	SCASEST
+T23	DISEASE 6654 6708	Síndrome coronario agudo con elevación del segmento ST
+T24	DISEASE 6710 6717	SCACEST
+T25	DISEASE 5091 5130	disección en tronco coronario izquierdo
+T26	DISEASE 6179 6237	necrosis transmural de 4 segmentos del territorio de la DA
+T27	DISEASE 2541 2560	restos placentarios
+T28	DISEASE 3686 3738	disección, con empeoramiento de la luz de la arteria
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 494 501	cesárea
+T31	PROCEDURE 1164 1182	exploración física
+T32	PROCEDURE 1263 1284	Auscultación cardiaca
+T33	PROCEDURE 1317 1338	Auscultación pulmonar
+T34	PROCEDURE 1492 1510	Electrocardiograma
+T35	PROCEDURE 1514 1517	ECG
+T36	PROCEDURE 1677 1680	ECG
+T37	PROCEDURE 1839 1859	Radiografía de tórax
+T38	PROCEDURE 1966 1995	marcadores de daño miocárdico
+T39	PROCEDURE 2212 2221	hemograma
+T40	PROCEDURE 2224 2235	coagulación
+T41	PROCEDURE 2246 2275	Ecocardioscopia a pie de cama
+T42	PROCEDURE 2511 2530	Ecografía abdominal
+T43	PROCEDURE 2562 2577	Coronariografía
+T44	PROCEDURE 3013 3028	coronariografía
+T45	PROCEDURE 3481 3499	electrocardiograma
+T46	PROCEDURE 3501 3504	ECG
+T47	PROCEDURE 3605 3620	coronariografía
+T48	PROCEDURE 3631 3646	Coronariografía
+T49	PROCEDURE 3927 3947	electrocardiográfica
+T50	PROCEDURE 4323 4341	drogas vasoactivas
+T51	PROCEDURE 4431 4451	Radiografía de tórax
+T52	PROCEDURE 4528 4531	ECG
+T53	PROCEDURE 4533 4536	ECG
+T54	PROCEDURE 4650 4665	coronariografía
+T55	PROCEDURE 4667 4682	Coronariografía
+T56	PROCEDURE 4928 4979	intervencionismo guiado por ecografía intravascular
+T57	PROCEDURE 5007 5079	colocación de catéter de angioplastia y pase de la guía a ADA y diagonal
+T58	PROCEDURE 5865 5880	ecocardiografía
+T59	PROCEDURE 5932 5961	resonancia magnética cardiaca
+T60	PROCEDURE 2200 2210	bioquímica
+T61	PROCEDURE 4981 4985	IVUS
+T62	PROCEDURE 5252 5341	Se implanta stent farmacoactivo de 3,5 x 28 mm en tronco coronario a descendente anterior
+T63	PROCEDURE 6480 6498	se ha colocado DAI
+T64	PROCEDURE 1946 1955	Analítica
+T65	PROCEDURE 2920 2947	perfusión de nitroglicerina
+T66	SYMPTOM 721 746	dolor precordial opresivo
+T67	SYMPTOM 768 786	cortejo vegetativo
+T68	SYMPTOM 1193 1203	consciente
+T69	SYMPTOM 1205 1214	orientada
+T70	SYMPTOM 1216 1234	eupneica en reposo
+T71	SYMPTOM 1240 1261	ingurgitación yugular
+T72	SYMPTOM 1263 1304	Auscultación cardiaca con tonos regulares
+T73	SYMPTOM 1309 1315	soplos
+T74	SYMPTOM 1343 1372	murmullo vesicular conservado
+T75	SYMPTOM 1388 1435	Pulsos radiales y pedios presentes y simétricos
+T76	SYMPTOM 1449 1465	edema periférico
+T77	SYMPTOM 1537 1542	dolor
+T78	SYMPTOM 1544 1557	ritmo sinusal
+T79	SYMPTOM 1579 1591	QRS estrecho
+T80	SYMPTOM 1608 1656	infradesnivel del segmento ST < 0,5mm en V4 a V6
+T81	SYMPTOM 1658 1675	T aplanada en III
+T82	SYMPTOM 1687 1692	dolor
+T83	SYMPTOM 1694 1707	ritmo sinusal
+T84	SYMPTOM 1729 1741	QRS estrecho
+T85	SYMPTOM 1795 1837	T bifásica de V2 a V5, negativa en I y aVL
+T86	SYMPTOM 1861 1894	silueta cardiomediastínica normal
+T87	SYMPTOM 2200 2244	bioquímica, hemograma y coagulación anodinas
+T88	SYMPTOM 2277 2309	ventrículo izquierdo no dilatado
+T89	SYMPTOM 2314 2329	FEVI conservada
+T90	SYMPTOM 2376 2434	Ventrículo derecho no dilatado con buena función sistólica
+T91	SYMPTOM 2910 2915	dolor
+T92	SYMPTOM 3296 3312	dolor precordial
+T93	SYMPTOM 3340 3380	aumento de marcadores de daño miocárdico
+T94	SYMPTOM 3437 3442	dolor
+T95	SYMPTOM 3863 3887	estabilidad hemodinámica
+T96	SYMPTOM 3909 3914	dolor
+T97	SYMPTOM 4218 4242	dolor precordial intenso
+T98	SYMPTOM 4257 4279	deterioro hemodinámico
+T99	SYMPTOM 4284 4295	hipotensión
+T100	SYMPTOM 4343 4365	deterioro respiratorio
+T101	SYMPTOM 4461 4503	elevación de marcadores de daño miocárdico
+T102	SYMPTOM 6025 6064	depresión grave de su función sistólica
+T103	SYMPTOM 2332 2374	hipoquinesia anterior a nivel medio-apical
+T104	SYMPTOM 3508 3537	supradesnivel del segmento ST
+T105	SYMPTOM 4548 4577	supradesnivel del segmento ST
+T106	SYMPTOM 6089 6134	alteraciones de la contractilidad segmentaria
+T107	SYMPTOM 1912 1925	consolidación
+T108	SYMPTOM 2581 2646	disminución brusca del calibre de la arteria descendente anterior
+T109	SYMPTOM 3085 3101	clínica anginosa
+T110	MEDICATION 397 406	labetalol
+T111	MEDICATION 2933 2947	nitroglicerina

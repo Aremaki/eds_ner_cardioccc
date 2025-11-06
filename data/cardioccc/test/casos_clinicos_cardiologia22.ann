@@ -1,0 +1,46 @@
+T1	ENFERMEDAD 105 118	CIV congénita
+T2	ENFERMEDAD 564 588	hemorragias subungueales
+T3	ENFERMEDAD 590 604	esplenomegalia
+T4	ENFERMEDAD 1167 1177	meningitis
+T5	ENFERMEDAD 1383 1410	meningitis bacteriana/viral
+T6	ENFERMEDAD 1984 2036	endocarditis de la válvula tricúspide con vegetación
+T7	ENFERMEDAD 2411 2477	vegetación en la válvula tricúspide causaba insuficiencia valvular
+T8	ENFERMEDAD 2778 2808	insuficiencia tricuspídea leve
+T9	ENFERMEDAD 2058 2118	CIV (diámetro de 3 mm) con derivación de izquierda a derecha
+T10	PROCEDIMIENTO 222 235	examen físico
+T11	PROCEDIMIENTO 1047 1067	resonancia magnética
+T12	PROCEDIMIENTO 1187 1201	punción lumbar
+T13	PROCEDIMIENTO 1340 1363	tinción de Gram del LCR
+T14	PROCEDIMIENTO 1415 1426	hemocultivo
+T15	PROCEDIMIENTO 1432 1442	urocultivo
+T16	PROCEDIMIENTO 1810 1823	examen físico
+T17	PROCEDIMIENTO 1891 1905	examen del LCR
+T18	PROCEDIMIENTO 1921 1935	ecocardiograma
+T19	PROCEDIMIENTO 2123 2154	tomografía computada del cráneo
+T20	PROCEDIMIENTO 2254 2266	hemocultivos
+T21	PROCEDIMIENTO 2513 2559	cirugía cardíaca con circulación extracorpórea
+T22	PROCEDIMIENTO 2574 2600	valvuloplastía tricuspídea
+T23	PROCEDIMIENTO 2647 2659	antibióticos
+T24	PROCEDIMIENTO 2695 2707	hemocultivos
+T25	PROCEDIMIENTO 1368 1410	panel PCR para meningitis bacteriana/viral
+T26	PROCEDIMIENTO 894 930	recuento del líquido cefalorraquídeo
+T27	PROCEDIMIENTO 172 214	procedimientos odontológicos o quirúrgicos
+T28	PROCEDIMIENTO 1596 1619	análisis de laboratorio
+T29	SINTOMA 40 46	fiebre
+T30	SINTOMA 49 56	cefalea
+T31	SINTOMA 378 449	soplo holosistólico intenso en el borde inferior izquierdo del esternón
+T32	SINTOMA 452 499	signos de rigidez de nuca y de Kernig positivos
+T33	SINTOMA 1556 1562	fiebre
+T34	SINTOMA 1575 1590	rigidez de nuca
+T35	SINTOMA 1859 1865	fiebre
+T36	SINTOMA 1966 1972	fiebre
+T37	SINTOMA 2192 2207	rigidez de nuca
+T38	SINTOMA 2254 2323	hemocultivos consecutivos fueron positivos para Staphylococcus aureus
+T39	SINTOMA 608 637	deficiencia neurológica focal
+T40	SINTOMA 1047 1098	resonancia magnética no presentaba particularidades
+T41	SINTOMA 2123 2165	tomografía computada del cráneo fue normal
+T42	SINTOMA 2695 2724	hemocultivos fueron negativos
+T43	FARMACO 1131 1142	ceftriaxona
+T44	FARMACO 1462 1473	ceftriaxona
+T45	FARMACO 2380 2392	teicoplanina
+T46	FARMACO 2395 2406	gentamicina

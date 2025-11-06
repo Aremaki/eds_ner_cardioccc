@@ -1,0 +1,75 @@
+T1	ENFERMEDAD 71 80	exfumador
+T2	ENFERMEDAD 569 591	insuficiencia cardiaca
+T3	ENFERMEDAD 593 595	IC
+T4	ENFERMEDAD 1375 1427	Válvula mitral de velos finos con insuficiencia leve
+T5	ENFERMEDAD 1585 1606	hipertensión pulmonar
+T6	ENFERMEDAD 1752 1771	derrame pericárdico
+T7	ENFERMEDAD 2221 2247	infarto agudo de miocardio
+T8	ENFERMEDAD 2249 2252	IAM
+T9	ENFERMEDAD 2303 2314	FV primaria
+T10	ENFERMEDAD 2385 2406	infarto en fase aguda
+T11	ENFERMEDAD 2478 2499	secuelas neurológicas
+T12	ENFERMEDAD 2782 2794	IAM inferior
+T13	ENFERMEDAD 278 280	FV
+T14	ENFERMEDAD 2761 2763	FV
+T15	ENFERMEDAD 129 132	PCR
+T16	ENFERMEDAD 361 364	PCR
+T17	ENFERMEDAD 2271 2274	PCR
+T18	ENFERMEDAD 2754 2757	PCR
+T19	ENFERMEDAD 1608 1653	Vena cava inferior (VCI) ligeramente dilatada
+T20	ENFERMEDAD 1830 1851	VI levemente dilatado
+T21	ENFERMEDAD 735 752	necrosis inferior
+T22	ENFERMEDAD 2154 2175	infarto en fase aguda
+T23	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDIMIENTO 221 262	reanimación cardiopulmonar (RCP) avanzada
+T25	PROCEDIMIENTO 249 252	RCP
+T26	PROCEDIMIENTO 462 480	exploración física
+T27	PROCEDIMIENTO 675 693	ELECTROCARDIOGRAMA
+T28	PROCEDIMIENTO 695 698	ECG
+T29	PROCEDIMIENTO 823 843	RADIOGRAFÍA DE TÓRAX
+T30	PROCEDIMIENTO 863 874	TAC CRANEAL
+T31	PROCEDIMIENTO 909 924	CORONARIOGRAFÍA
+T32	PROCEDIMIENTO 976 1004	ECOCARDIOGRAMA TRANSTORÁCICO
+T33	PROCEDIMIENTO 2327 2338	RM cardiaca
+T34	PROCEDIMIENTO 2455 2465	extubación
+T35	PROCEDIMIENTO 2579 2599	doble antiagregación
+T36	PROCEDIMIENTO 2601 2615	betabloqueante
+T37	PROCEDIMIENTO 2645 2680	inhibidores de la bomba de protones
+T38	PROCEDIMIENTO 2682 2685	IBP
+T39	PROCEDIMIENTO 2617 2642	estatina de alta potencia
+T40	PROCEDIMIENTO 1773 1806	RESONANCIA MAGNÉTICA RM9 CARDIACA
+T41	PROCEDIMIENTO 278 308	FV, precisando cinco descargas
+T42	SINTOMA 517 554	mantiéndose hemodinámicamente estable
+T43	SINTOMA 600 615	soplos audibles
+T44	SINTOMA 701 714	ritmo sinusal
+T45	SINTOMA 798 821	repolarización aplanada
+T46	SINTOMA 863 907	TAC CRANEAL: sin alteraciones significativas
+T47	SINTOMA 1006 1059	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T48	SINTOMA 1175 1226	Ventrículo derecho (VD) no dilatado ni hipertrófico
+T49	SINTOMA 1228 1256	función sistólica conservada
+T50	SINTOMA 1291 1317	Aurículas de tamaño normal
+T51	SINTOMA 1830 1884	VI levemente dilatado con función sistólica conservada
+T52	SINTOMA 1886 1947	Adelgazamiento e hipocontractilidad en segmentos inferoseptal
+T53	SINTOMA 2000 2005	edema
+T54	SINTOMA 2007 2020	hipoperfusión
+T55	SINTOMA 2023 2051	realce tardío subendocárdico
+T56	SINTOMA 2085 2116	VD de tamaño y función normales
+T57	SINTOMA 2517 2541	estabilidad hemodinámica
+T58	SINTOMA 2836 2871	Función sistólica del VI conservada
+T59	SINTOMA 327 340	ritmo sinusal
+T60	SINTOMA 823 861	RADIOGRAFÍA DE TÓRAX: sin alteraciones
+T61	SINTOMA 1061 1075	FEVI limítrofe
+T62	SINTOMA 1086 1134	acinesia de cara inferior y septo inferior basal
+T63	SINTOMA 1136 1160	Patrón diastólico normal
+T64	SINTOMA 1319 1373	Válvula aórtica trivalva, velos finos normofuncionante
+T65	SINTOMA 1437 1497	Válvula tricúspide estructuralmente normal sin insuficiencia
+T66	SINTOMA 1694 1718	Raíz aórtica no dilatada
+T67	SINTOMA 2796 2819	Coronarias sin lesiones
+T68	SINTOMA 926 959	arterias coronarias sin estenosis
+#1	AnnotatorNotes T3	  insuficiencia cardíaca
+#2	AnnotatorNotes T13	  fib
+#3	AnnotatorNotes T14	  fibrilación auricular
+#4	AnnotatorNotes T15	  Parada cardiorespiratoria
+#5	AnnotatorNotes T16	  Parada cardiorespiratoria
+#6	AnnotatorNotes T17	  Parada cardiorespiratoria
+#7	AnnotatorNotes T18	  Parada cardiorespiratoria

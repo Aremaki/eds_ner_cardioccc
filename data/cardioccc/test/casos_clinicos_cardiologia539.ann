@@ -1,0 +1,139 @@
+T1	ENFERMEDAD 2122 2138	dilatación de VI
+T2	ENFERMEDAD 2345 2378	VD dilatado con disfunción ligera
+T3	ENFERMEDAD 2878 2911	VD dilatado con función deprimida
+T4	ENFERMEDAD 2926 2948	IM subjetivamente leve
+T5	ENFERMEDAD 85 106	Alérgico a penicilina
+T6	ENFERMEDAD 108 117	Exfumador
+T7	ENFERMEDAD 141 156	consumo enólico
+T8	ENFERMEDAD 158 179	Hipertensión arterial
+T9	ENFERMEDAD 187 195	diabetes
+T10	ENFERMEDAD 198 208	dislipemia
+T11	ENFERMEDAD 254 265	cardiopatía
+T12	ENFERMEDAD 382 397	cuadro catarral
+T13	ENFERMEDAD 520 536	bronquitis aguda
+T14	ENFERMEDAD 1036 1058	insuficiencia cardiaca
+T15	ENFERMEDAD 1518 1521	TVP
+T16	ENFERMEDAD 1980 1993	cardiomegalia
+T17	ENFERMEDAD 2054 2069	derrame pleural
+T18	ENFERMEDAD 2072 2095	consolidación neumónica
+T19	ENFERMEDAD 2282 2303	Disfunción diastólica
+T20	ENFERMEDAD 2492 2511	derrame pericárdico
+T21	ENFERMEDAD 2543 2565	lesiones angiográficas
+T22	ENFERMEDAD 2957 2976	derrame pericárdico
+T23	ENFERMEDAD 3092 3115	miocardiopatía dilatada
+T24	ENFERMEDAD 3120 3149	disfunción ventricular severa
+T25	ENFERMEDAD 3244 3287	lesiones cerebrales isquémicas establecidas
+T26	ENFERMEDAD 3292 3310	hemorragias agudas
+T27	ENFERMEDAD 3425 3541	lesiones isquémicas establecidas a nivel del temporo-occipital derecho, tálamo ipsilateral y cerebelosas bilaterales
+T28	ENFERMEDAD 3559 3616	transformación hemorrágica en la lesión temporo-occipital
+T29	ENFERMEDAD 3819 3833	miocardiopatía
+T30	ENFERMEDAD 3838 3869	disfunción biventricular severa
+T31	ENFERMEDAD 4111 4130	lesiones coronarias
+T32	ENFERMEDAD 4226 4249	miocardiopatía dilatada
+T33	ENFERMEDAD 4254 4283	disfunción ventricular severa
+T34	ENFERMEDAD 4747 4784	accidente vascular cerebral isquémico
+T35	ENFERMEDAD 5154 5176	insuficiencia cardiaca
+T36	ENFERMEDAD 5216 5238	Insuficiencia cardiaca
+T37	ENFERMEDAD 5249 5277	Miocardiopatía no compactada
+T38	ENFERMEDAD 5282 5306	disfunción biventricular
+T39	ENFERMEDAD 791 807	BRIHH incompleto
+T40	ENFERMEDAD 1915 1931	BRIHH incompleto
+T41	ENFERMEDAD 2380 2387	IT leve
+T42	ENFERMEDAD 2607 2618	VI dilatado
+T43	ENFERMEDAD 2865 2876	AI dilatada
+T44	ENFERMEDAD 2913 2924	AD dilatada
+T45	ENFERMEDAD 3312 3401	Oclusión del segmento posterior comunicante (P2) de la arteria cerebral posterior derecha
+T46	ENFERMEDAD 3872 3914	hipertrabeculación de ventrículo izquierdo
+T47	ENFERMEDAD 5308 5345	Accidente vascular cerebral isquémico
+T48	ENFERMEDAD 1868 1885	crecimiento de AI
+T49	ENFERMEDAD 2435 2451	disfunción de VD
+T50	ENFERMEDAD 815 841	cuadro febril o infeccioso
+T51	ENFERMEDAD 2263 2280	IM funcional leve
+T52	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDIMIENTO 546 563	broncodilatadores
+T54	PROCEDIMIENTO 627 647	radiografía de tórax
+T55	PROCEDIMIENTO 724 745	tratamiento diurético
+T56	PROCEDIMIENTO 747 750	ECG
+T57	PROCEDIMIENTO 1061 1079	Exploración física
+T58	PROCEDIMIENTO 1175 1184	Ventimask
+T59	PROCEDIMIENTO 1241 1262	Auscultación cardiaca
+T60	PROCEDIMIENTO 1310 1331	Auscultación pulmonar
+T61	PROCEDIMIENTO 1694 1703	Hemograma
+T62	PROCEDIMIENTO 1722 1741	Gasometría arterial
+T63	PROCEDIMIENTO 1829 1832	ECG
+T64	PROCEDIMIENTO 1958 1978	Radiografía de tórax
+T65	PROCEDIMIENTO 2097 2111	Ecocardiograma
+T66	PROCEDIMIENTO 2513 2528	Coronariografía
+T67	PROCEDIMIENTO 2567 2596	Resonancia magnética cardiaca
+T68	PROCEDIMIENTO 3218 3229	TAC craneal
+T69	PROCEDIMIENTO 3403 3414	TAC craneal
+T70	PROCEDIMIENTO 3669 3691	tratamiento deplectivo
+T71	PROCEDIMIENTO 3703 3717	betabloqueante
+T72	PROCEDIMIENTO 3792 3806	ecocardiograma
+T73	PROCEDIMIENTO 3992 4007	perfil tiroideo
+T74	PROCEDIMIENTO 4009 4022	autoinmunidad
+T75	PROCEDIMIENTO 4025 4038	proteinograma
+T76	PROCEDIMIENTO 4082 4097	coronariografía
+T77	PROCEDIMIENTO 4183 4195	RMN cardiaca
+T78	PROCEDIMIENTO 4383 4398	anticoagulantes
+T79	PROCEDIMIENTO 4652 4667	betabloqueantes
+T80	PROCEDIMIENTO 4799 4814	anticoagulación
+T81	PROCEDIMIENTO 4840 4852	fibrinolisis
+T82	PROCEDIMIENTO 4875 4888	anticoagulado
+T83	PROCEDIMIENTO 4891 4903	trombectomía
+T84	PROCEDIMIENTO 4994 5007	anticoagulado
+T85	PROCEDIMIENTO 1578 1587	Analítica
+T86	PROCEDIMIENTO 3978 3987	Analítica
+T87	PROCEDIMIENTO 1456 1460	EEII
+T88	PROCEDIMIENTO 3741 3745	IECA
+T89	PROCEDIMIENTO 4495 4538	perfusión de dobutamina a dosis inotrópicas
+T90	PROCEDIMIENTO 3719 3724	ARAII
+T91	SINTOMA 402 410	tos seca
+T92	SINTOMA 425 452	disnea a moderados esfuerzo
+T93	SINTOMA 679 702	redistribución vascular
+T94	SINTOMA 773 786	ritmo sinusal
+T95	SINTOMA 815 828	cuadro febril
+T96	SINTOMA 919 925	disnea
+T97	SINTOMA 927 935	ortopnea
+T98	SINTOMA 938 944	edemas
+T99	SINTOMA 1080 1090	Consciente
+T100	SINTOMA 1093 1102	orientado
+T101	SINTOMA 1104 1115	Taquipneico
+T102	SINTOMA 1118 1130	taquicárdico
+T103	SINTOMA 1194 1215	Ingurgitación yugular
+T104	SINTOMA 1218 1239	reflujo hepatoyugular
+T105	SINTOMA 1264 1276	taquicárdico
+T106	SINTOMA 1281 1296	ritmo de galope
+T107	SINTOMA 1302 1308	soplos
+T108	SINTOMA 1333 1354	crepitantes bibasales
+T109	SINTOMA 1356 1380	ABD: Blando y depresible
+T110	SINTOMA 1385 1390	masas
+T111	SINTOMA 1394 1402	megalias
+T112	SINTOMA 1432 1454	peristaltismo presente
+T113	SINTOMA 1462 1502	edemas pretibiales en ambas extremidades
+T114	SINTOMA 1523 1551	Pulsos periféricos presentes
+T115	SINTOMA 1694 1720	Hemograma sin alteraciones
+T116	SINTOMA 1834 1847	ritmo sinusal
+T117	SINTOMA 1898 1910	QRS estrecho
+T118	SINTOMA 1933 1956	onda T negativa lateral
+T119	SINTOMA 2389 2400	PAPs normal
+T120	SINTOMA 3750 3753	tos
+T121	SINTOMA 3992 4047	perfil tiroideo, autoinmunidad y proteinograma normales
+T122	SINTOMA 4049 4069	Función renal normal
+T123	SINTOMA 2143 2172	función severamente deprimida
+T124	SINTOMA 1887 1896	PR normal
+T125	SINTOMA 2005 2048	redistribución vascular a campos superiores
+T126	SINTOMA 412 422	sibilantes
+T127	SINTOMA 2330 2343	PTDVI elevada
+T128	SINTOMA 2464 2487	PVC mínimamente elevada
+T129	FARMACO 289 316	amilorida/hidroclorotiazida
+T130	FARMACO 582 595	levofloxacino
+T131	FARMACO 4363 4374	enoxaparina
+T132	FARMACO 4508 4518	dobutamina
+T133	FARMACO 4625 4635	dobutamina
+T134	FARMACO 5012 5022	dabigatrán
+T135	FARMACO 96 106	penicilina
+T136	FARMACO 3756 3766	eplerenona
+T137	FARMACO 3769 3779	ivabradina
+T138	FARMACO 4669 4674	ARAII
+T139	FARMACO 4677 4687	eplerenona

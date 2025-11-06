@@ -1,0 +1,50 @@
+T1	ENFERMEDAD 307 321	Diverticulitis
+T2	ENFERMEDAD 380 388	síncopes
+T3	ENFERMEDAD 1863 1872	asistolia
+T4	ENFERMEDAD 2144 2153	asistolia
+T5	ENFERMEDAD 1887 1894	síncope
+T6	ENFERMEDAD 777 786	asistolia
+T7	ENFERMEDAD 1874 1884	presíncope
+T8	ENFERMEDAD 1771 1780	Asistolia
+T9	PROCEDIMIENTO 233 251	exploración física
+T10	PROCEDIMIENTO 599 611	registro ECG
+T11	PROCEDIMIENTO 969 1001	implantar marcapasos provisional
+T12	PROCEDIMIENTO 1040 1058	Exploración física
+T13	PROCEDIMIENTO 1212 1233	Auscultación cardiaca
+T14	PROCEDIMIENTO 1255 1276	Auscultación pulmonar
+T15	PROCEDIMIENTO 1583 1594	Rx de tórax
+T16	PROCEDIMIENTO 1661 1664	ECG
+T17	PROCEDIMIENTO 1755 1758	ECG
+T18	PROCEDIMIENTO 2455 2475	radiografía de tórax
+T19	PROCEDIMIENTO 2678 2681	ECG
+T20	PROCEDIMIENTO 1511 1522	coagulación
+T21	PROCEDIMIENTO 534 560	se canaliza una vía venosa
+T22	PROCEDIMIENTO 2331 2364	implantarle marcapasos definitivo
+T23	PROCEDIMIENTO 1402 1411	Analítica
+T24	PROCEDIMIENTO 1169 1184	Cabeza y cuello
+T25	SINTOMA 67 80	epigastralgia
+T26	SINTOMA 82 97	sudoración fría
+T27	SINTOMA 100 105	mareo
+T28	SINTOMA 110 133	pérdida de conocimiento
+T29	SINTOMA 589 594	mareo
+T30	SINTOMA 710 715	mareo
+T31	SINTOMA 1091 1101	Consciente
+T32	SINTOMA 1103 1112	orientada
+T33	SINTOMA 1114 1123	hidratada
+T34	SINTOMA 1125 1132	nutrida
+T35	SINTOMA 1134 1148	normocoloreada
+T36	SINTOMA 1150 1158	eupneica
+T37	SINTOMA 1160 1167	afebril
+T38	SINTOMA 1189 1210	ingurgitación yugular
+T39	SINTOMA 1225 1242	cardiaca: Rítmico
+T40	SINTOMA 1247 1253	soplos
+T41	SINTOMA 1278 1303	Buena ventilación general
+T42	SINTOMA 1305 1345	Abdomen: Blando, depresible, no doloroso
+T43	SINTOMA 1347 1373	Blumberg y Murphy negativo
+T44	SINTOMA 1511 1546	coagulación dentro de la normalidad
+T45	SINTOMA 1599 1629	aumento de la silueta cardiaca
+T46	SINTOMA 1631 1657	campos pulmonares normales
+T47	SINTOMA 2092 2115	pérdida de conocimiento
+T48	SINTOMA 2544 2549	mareo
+T49	SINTOMA 1672 1674	RS
+T50	SINTOMA 1698 1751	alteraciones de la conducción ni de la repolarización

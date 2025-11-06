@@ -1,0 +1,214 @@
+T1	DISEASE 134 143	infección
+T2	DISEASE 224 247	alergias medicamentosas
+T3	DISEASE 330 359	enfermedad valvular reumática
+T4	DISEASE 402 439	Fibrilación auricular (FA) permanente
+T5	DISEASE 484 486	FA
+T6	DISEASE 613 666	lesión mitral reumática moderada-grave, con estenosis
+T7	DISEASE 751 781	hipertensión pulmonar moderada
+T8	DISEASE 783 819	insuficiencia tricuspídea (IT) grave
+T9	DISEASE 822 889	dilatación del ventrículo derecho (VD) con disfunción leve-moderada
+T10	DISEASE 1486 1539	accidente isquémico transitorio (AIT) vertebrobasilar
+T11	DISEASE 1572 1587	Útero miomatoso
+T12	DISEASE 2946 2980	infección de la zona del generador
+T13	DISEASE 3470 3495	trombosis venosa profunda
+T14	DISEASE 3497 3500	TVP
+T15	DISEASE 4082 4102	insuficiencia mitral
+T16	DISEASE 4310 4350	Estenosis aórtica valvular leve-moderada
+T17	DISEASE 4352 4386	Insuficiencia aórtica levemoderada
+T18	DISEASE 4422 4441	derrame pericárdico
+T19	DISEASE 4622 4634	endocarditis
+T20	DISEASE 4801 4813	endocarditis
+T21	DISEASE 5413 5433	patología infecciosa
+T22	DISEASE 5742 5751	infección
+T23	DISEASE 5984 5993	infección
+T24	DISEASE 6014 6060	axila izquierda se observan varias adenopatías
+T25	DISEASE 6180 6191	adenopatías
+T26	DISEASE 6255 6265	adenopatía
+T27	DISEASE 6398 6421	adenopatía inflamatoria
+T28	DISEASE 7362 7543	patología infecciosa alrededor del generador del marcapasos, así como en el trayecto proximal subcutáneo del cable de marcapasos y en su entrada a la altura de la vena cava superior
+T29	DISEASE 8251 8264	Cardiomegalia
+T30	DISEASE 8675 8683	flebitis
+T31	DISEASE 10138 10241	bacteriemia por S. aureus meticilin-sensible, secundaria a flebitis por infección de una vía periférica
+T32	DISEASE 11202 11223	edema agudo de pulmón
+T33	DISEASE 12055 12098	descompensaciones de insuficiencia cardiaca
+T34	DISEASE 12487 12546	Infección local de dispositivo de resincronización cardiaca
+T35	DISEASE 12774 12862	Flebitis en extremidad superior derecha con bacteriemia por S. aureus meticilin-sensible
+T36	DISEASE 12864 12927	Miocardiopatía dilatada con disfunción sistólica moderada de VI
+T37	DISEASE 12929 12951	Valvulopatía reumática
+T38	DISEASE 13023 13057	Doble lesión aórtica leve-moderada
+T39	DISEASE 425 427	FA
+T40	DISEASE 3533 3535	FA
+T41	DISEASE 4104 4106	IM
+T42	DISEASE 10896 10937	descompensación de insuficiencia cardiaca
+T43	DISEASE 1963 1994	herida quirúrgica, con hematoma
+T44	DISEASE 4255 4308	válvula aórtica es trivalva, con afectación reumática
+T45	DISEASE 810 812	IT
+T46	DISEASE 1137 1175	VI levemente dilatado y disfuncionante
+T47	DISEASE 3789 3833	ventrículo izquierdo (V) gravemente dilatado
+T48	DISEASE 3953 3991	Aurícula izquierda dilatada gravemente
+T49	DISEASE 4004 4043	Aurícula derecha moderadamente dilatada
+T50	DISEASE 5994 6006	endocarditis
+T51	DISEASE 13059 13072	FA permanente
+T52	DISEASE 1519 1522	AIT
+T53	DISEASE 4176 4178	IT
+T54	DISEASE 10569 10619	ritmo ventricular propio de escape de QRS estrecho
+T55	DISEASE 2416 2433	herida quirúrgica
+T56	DISEASE 7135 7183	cabeza humeral derecha por patología insercional
+T57	PROCEDURE 511 532	recambio de generador
+T58	PROCEDURE 572 586	ecocardiograma
+T59	PROCEDURE 944 980	sustitución valvular mitral mecánica
+T60	PROCEDURE 983 1006	anuloplastia tricúspide
+T61	PROCEDURE 1034 1048	ecocardiograma
+T62	PROCEDURE 1422 1458	terapia de resincronización cardiaca
+T63	PROCEDURE 1549 1563	Doppler de TSA
+T64	PROCEDURE 1589 1628	Histerectomía total + doble anexectomía
+T65	PROCEDURE 1870 1906	terapia de resincronización cardiaca
+T66	PROCEDURE 1908 1911	TRC
+T67	PROCEDURE 2094 2108	desbridamiento
+T68	PROCEDURE 2111 2133	aproximación de bordes
+T69	PROCEDURE 2239 2273	implante subpectoral del generador
+T70	PROCEDURE 2310 2335	desbridamiento quirúrgico
+T71	PROCEDURE 2871 2894	tratamiento antibiótico
+T72	PROCEDURE 2897 2941	retirada del dispositivo de resincronización
+T73	PROCEDURE 2983 3001	EXPLORACIÓN FÍSICA
+T74	PROCEDURE 3241 3262	Auscultación cardiaca
+T75	PROCEDURE 3290 3311	Auscultación pulmonar
+T76	PROCEDURE 3528 3531	ECG
+T77	PROCEDURE 3725 3736	Coagulación
+T78	PROCEDURE 3752 3781	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T79	PROCEDURE 4443 4473	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T80	PROCEDURE 4475 4478	ETE
+T81	PROCEDURE 4879 4886	PET/TAC
+T82	PROCEDURE 6965 6983	esternotomía media
+T83	PROCEDURE 7660 7688	ANGIO-TC arterias coronarias
+T84	PROCEDURE 8202 8220	Esternotomía media
+T85	PROCEDURE 8225 8249	triple recambio valvular
+T86	PROCEDURE 8554 8566	Hemocultivos
+T87	PROCEDURE 8592 8619	PCR pan bacteriana 16S rRNA
+T88	PROCEDURE 8644 8656	Hemocultivos
+T89	PROCEDURE 8767 8775	cultivos
+T90	PROCEDURE 8792 8806	antibioterapia
+T91	PROCEDURE 8817 8843	Cultivos material vascular
+T92	PROCEDURE 9041 9053	Hemocultivos
+T93	PROCEDURE 9110 9163	extracción de un dispositivo de estimulación cardiaca
+T94	PROCEDURE 9356 9383	terapia de resincronización
+T95	PROCEDURE 9700 9761	reimplantar un nuevo dispositivo de resincronización cardiaca
+T96	PROCEDURE 9808 9861	explante del dispositivo de resincronización cardiaca
+T97	PROCEDURE 9915 9938	tratamiento antibiótico
+T98	PROCEDURE 10055 10079	reactantes de fase aguda
+T99	PROCEDURE 10273 10287	antibioterapia
+T100	PROCEDURE 10397 10416	terapia antibiótica
+T101	PROCEDURE 10638 10678	retirada del sistema de resincronización
+T102	PROCEDURE 10747 10783	reimplante del marcapasos definitivo
+T103	PROCEDURE 10999 11045	recambio del cable de estimulación transitoria
+T104	PROCEDURE 11051 11108	colocación de un electrodo provisional de fijación activa
+T105	PROCEDURE 11256 11277	tratamiento diurético
+T106	PROCEDURE 11419 11455	reimplante del marcapasos definitivo
+T107	PROCEDURE 11541 11564	tratamiento antibiótico
+T108	PROCEDURE 11592 11604	hemocultivos
+T109	PROCEDURE 11621 11663	implante de marcapasos de resincronización
+T110	PROCEDURE 11756 11840	se colocó únicamente un electrodo de VD conectado a un generador de resincronización
+T111	PROCEDURE 11963 11989	antibioterapia intravenosa
+T112	PROCEDURE 12107 12121	ecocardiograma
+T113	PROCEDURE 12446 12461	anticoagulación
+T114	PROCEDURE 12521 12546	resincronización cardiaca
+T115	PROCEDURE 12612 12666	Implantación de marcapasos transitorio yugular derecho
+T116	PROCEDURE 12668 12752	Implantación en un segundo tiempo de generador de resincronización y electrodo de VD
+T117	PROCEDURE 8530 8552	ESTUDIO MICROBIOLÓGICO
+T118	PROCEDURE 186 204	EXPLORACIÓN FÍSICA
+T119	PROCEDURE 4841 4877	TOMOGRAFÍA POR EMISIÓN DE POSITRONES
+T120	PROCEDURE 10311 10337	extracción de hemocultivos
+T121	PROCEDURE 3632 3637	iones
+T122	PROCEDURE 11392 11409	pauta antibiótica
+T123	PROCEDURE 2795 2812	pruebas de imagen
+T124	PROCEDURE 10679 10732	se implantó un marcapasos transitorio yugular derecho
+T125	PROCEDURE 2049 2056	drenaje
+T126	PROCEDURE 2070 2081	dehiscencia
+T127	PROCEDURE 3783 3786	ETT
+T128	PROCEDURE 364 392	comisurotomía mitral abierta
+T129	PROCEDURE 12548 12610	Retirada del sistema completo (generador y electrodos VD y VI)
+T130	PROCEDURE 3579 3588	ANALÍTICA
+T131	PROCEDURE 3087 3102	Cabeza y cuello
+T132	PROCEDURE 11692 11719	canalizar el seno coronario
+T133	PROCEDURE 10115 10127	intervención
+T134	PROCEDURE 901 924	intervención quirúrgica
+T135	PROCEDURE 10951 10986	isoproterenol en perfusión continua
+T136	PROCEDURE 9205 9237	reimplante del mismo dispositivo
+T137	PROCEDURE 9461 9499	marcapasos de estimulación monocameral
+T138	PROCEDURE 12346 12392	estimulación ventricular izquierda endocárdica
+T139	SYMPTOM 1214 1239	movimiento septal anómalo
+T140	SYMPTOM 1549 1570	Doppler de TSA normal
+T141	SYMPTOM 1789 1821	funciones superiores conservadas
+T142	SYMPTOM 2493 2523	dolor en la zona del generador
+T143	SYMPTOM 2505 2531	zona del generador y edema
+T144	SYMPTOM 2564 2570	fiebre
+T145	SYMPTOM 2574 2609	elevación de marcadores infecciosos
+T146	SYMPTOM 3003 3028	Hemodinámicamente estable
+T147	SYMPTOM 3030 3045	bien perfundida
+T148	SYMPTOM 3047 3055	Eupneica
+T149	SYMPTOM 3057 3064	Afebril
+T150	SYMPTOM 3066 3085	Buen estado general
+T151	SYMPTOM 3107 3109	IY
+T152	SYMPTOM 3111 3128	Tórax: induración
+T153	SYMPTOM 3131 3171	dolor a la palpación en zona infraaxilar
+T154	SYMPTOM 3187 3205	retracción de piel
+T155	SYMPTOM 3264 3273	arrítmica
+T156	SYMPTOM 3313 3344	murmullo ventricular conservado
+T157	SYMPTOM 3346 3374	Abdomen: blando y depresible
+T158	SYMPTOM 3380 3385	dolor
+T159	SYMPTOM 3399 3420	irritación peritoneal
+T160	SYMPTOM 3590 3610	función renal normal
+T161	SYMPTOM 3658 3677	Leucocitos normales
+T162	SYMPTOM 3682 3709	fórmula leucocitaria normal
+T163	SYMPTOM 4388 4417	Raíz aórtica de tamaño normal
+T164	SYMPTOM 7782 7824	Seno coronario permeable de calibre normal
+T165	SYMPTOM 8266 8299	Parénquima pulmonar sin hallazgos
+T166	SYMPTOM 8554 8590	Hemocultivos (al ingreso): negativos
+T167	SYMPTOM 9041 9074	Hemocultivos de control negativos
+T168	SYMPTOM 9991 9998	afebril
+T169	SYMPTOM 10000 10035	clínica y hemodinámicamente estable
+T170	SYMPTOM 10042 10079	elevación de reactantes de fase aguda
+T171	SYMPTOM 10464 10471	afebril
+T172	SYMPTOM 10474 10499	hemodinámicamente estable
+T173	SYMPTOM 12818 12862	bacteriemia por S. aureus meticilin-sensible
+T174	SYMPTOM 8879 8940	Staphylococcus hominis (electrodo de VD y torunda subcutánea)
+T175	SYMPTOM 8644 8722	Hemocultivos (tras episodio de flebitis): positivos para Staphylococcus aureus
+T176	SYMPTOM 3275 3288	clic valvular
+T177	SYMPTOM 685 748	fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T178	SYMPTOM 3632 3646	iones normales
+T179	SYMPTOM 1079 1114	prótesis mitral es normofuncionante
+T180	SYMPTOM 2768 2778	supuración
+T181	SYMPTOM 3229 3239	supuración
+T182	SYMPTOM 441 468	Portadora de marcapasos VVI
+T183	SYMPTOM 1193 1211	hipocinesia difusa
+T184	SYMPTOM 2710 2751	zona del pectoral, con retracción cutánea
+T185	SYMPTOM 3892 3951	Ventrículo derecho (VD) normal respecto al tamaño y función
+T186	SYMPTOM 4135 4170	Anillo tricuspídeo normofuncionante
+T187	SYMPTOM 3422 3456	Extremidades inferiores: no edemas
+T188	SYMPTOM 12016 12036	clínicamente estable
+T189	SYMPTOM 11485 11504	estabilidad clínica
+T190	SYMPTOM 2684 2727	decúbito incipiente en la zona del pectoral
+T191	SYMPTOM 3208 3224	cambios tróficos
+T192	SYMPTOM 3725 3750	Coagulación sin hallazgos
+T193	SYMPTOM 6855 6904	Leve aumento de actividad a lo largo del esternón
+T194	SYMPTOM 7101 7157	Refuerzo de captación adyacente a cabeza humeral derecha
+T195	SYMPTOM 7564 7607	Captaciones ganglionares en axila izquierda
+T196	SYMPTOM 8592 8642	PCR pan bacteriana 16S rRNA 31/1/18: no se detecta
+T197	SYMPTOM 8943 9039	Staphylococcus epidermidis (cable de VI, cable de VD, torunda subcutánea y cápsula de generador)
+T198	MEDICATION 1660 1667	sintrom
+T199	MEDICATION 1669 1679	furosemida
+T200	MEDICATION 1698 1708	carvedilol
+T201	MEDICATION 1729 1744	espironolactona
+T202	MEDICATION 1763 1772	omeprazol
+T203	MEDICATION 1774 1782	zolpidem
+T204	MEDICATION 10292 10303	vancomicina
+T205	MEDICATION 10951 10964	isoproterenol
+#1	AnnotatorNotes T5	 fibrilación auricular
+#2	AnnotatorNotes T39	 fibrilación auricular
+#3	AnnotatorNotes T40	 fibrilación auricular
+#4	AnnotatorNotes T41	 insuficiencia mitral
+#5	AnnotatorNotes T45	 insuficiencia tricuspide
+#6	AnnotatorNotes T51	 fibrilación auricular
+#7	AnnotatorNotes T52	accidente isquémico transitorio
+#8	AnnotatorNotes T53	Insuficiencia tricuspídea
+#9	AnnotatorNotes T66	 Terapia de resincronización cardíaca

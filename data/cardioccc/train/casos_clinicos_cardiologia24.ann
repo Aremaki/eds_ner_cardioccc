@@ -1,0 +1,50 @@
+T1	DISEASE 40 55	diabetes tipo 2
+T2	DISEASE 58 66	obesidad
+T3	DISEASE 1086 1147	válvula mitral desestructurada y con prolapso de ambas valvas
+T4	DISEASE 1735 1756	edema agudo de pulmón
+T5	DISEASE 1870 1919	vegetaciones en ambas valvas de la válvula mitral
+T6	DISEASE 1922 1949	insuficiencia mitral severa
+T7	DISEASE 2118 2161	bloqueo aurículoventricular de tercer grado
+T8	DISEASE 887 907	hemibloqueo anterior
+T9	DISEASE 1817 1855	desestructuración de la válvula mitral
+T10	PROCEDURE 434 452	análisis de sangre
+T11	PROCEDURE 688 697	hemograma
+T12	PROCEDURE 854 872	electrocardiograma
+T13	PROCEDURE 935 982	radiografías de tórax y de la columna vertebral
+T14	PROCEDURE 989 1040	ecografía y la tomografía computarizada abdominales
+T15	PROCEDURE 1058 1073	ecocardiografía
+T16	PROCEDURE 1156 1168	hemocultivos
+T17	PROCEDURE 1667 1688	radiografías de tórax
+T18	PROCEDURE 1761 1776	ecocardiografía
+T19	PROCEDURE 1959 1995	tratamiento intensivo con diuréticos
+T20	PROCEDURE 1997 2012	vasodilatadores
+T21	PROCEDURE 2179 2216	implantación de un marcapaso temporal
+T22	PROCEDURE 712 723	coagulación
+T23	PROCEDURE 699 709	bioquímica
+T24	PROCEDURE 1594 1606	se auscultan
+T25	PROCEDURE 2014 2032	agentesinotrópicos
+T26	PROCEDURE 223 234	exploración
+T27	PROCEDURE 404 415	exploración
+T28	PROCEDURE 837 846	sedimento
+T29	SYMPTOM 121 127	fiebre
+T30	SYMPTOM 129 140	escalofríos
+T31	SYMPTOM 142 158	malestar general
+T32	SYMPTOM 160 167	vómitos
+T33	SYMPTOM 170 216	dolores difusos en el tórax y la región lumbar
+T34	SYMPTOM 244 268	aceptable estado general
+T35	SYMPTOM 290 343	soplo sistólico de intensidad II/VI en el foco mitral
+T36	SYMPTOM 1156 1199	hemocultivos crece Streptococcus agalactiae
+T37	SYMPTOM 1386 1392	fiebre
+T38	SYMPTOM 1471 1484	palpitaciones
+T39	SYMPTOM 1486 1492	disnea
+T40	SYMPTOM 1495 1503	ortopnea
+T41	SYMPTOM 1520 1526	fiebre
+T42	SYMPTOM 1546 1561	soplo sistólico
+T43	SYMPTOM 1618 1654	crepitantes en ambas bases del tórax
+T44	SYMPTOM 2220 2227	fallece
+T45	SYMPTOM 2276 2282	disnea
+T46	SYMPTOM 688 736	hemograma, bioquímica y coagulación son normales
+T47	SYMPTOM 935 1053	radiografías de tórax y de la columna vertebral, y la ecografía y la tomografía computarizada abdominales son normales
+T48	MEDICATION 1240 1250	cefotaxima
+T49	MEDICATION 2034 2044	penicilina
+T50	MEDICATION 2061 2072	gentamicina

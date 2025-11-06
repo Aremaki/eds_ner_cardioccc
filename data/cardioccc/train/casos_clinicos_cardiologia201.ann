@@ -1,0 +1,170 @@
+T1	DISEASE 21 44	alergias medicamentosas
+T2	DISEASE 46 56	hipertenso
+T3	DISEASE 173 191	cólicos nefríticos
+T4	DISEASE 193 208	litiasis biliar
+T5	DISEASE 215 226	prostatitis
+T6	DISEASE 1034 1047	abdomen agudo
+T7	DISEASE 1086 1105	fracaso renal agudo
+T8	DISEASE 1515 1536	edema agudo de pulmón
+T9	DISEASE 1899 1940	disfunción ventricular izquierda moderada
+T10	DISEASE 2002 2021	derrame pericárdico
+T11	DISEASE 2043 2065	IAMEST inferoposterior
+T12	DISEASE 2175 2248	enfermedad de 2 vasos con oclusión de la coronaria derecha a nivel distal
+T13	DISEASE 3375 3394	taquicardia sinusal
+T14	DISEASE 3762 3781	derrame pericárdico
+T15	DISEASE 3811 3851	enfermedad arterial coronaria de 2 vasos
+T16	DISEASE 3853 3941	Descendente anterior: con ateromatosis difusa, zona ectásica a nivel medio con estenosis
+T17	DISEASE 4218 4270	obstrucción intestinal alta en hipocondrio izquierdo
+T18	DISEASE 4405 4449	íleo intestinal obstructivo de origen biliar
+T19	DISEASE 5007 5025	shock distributivo
+T20	DISEASE 5549 5575	cuadro oclusivo intestinal
+T21	DISEASE 5943 5987	íleo intestinal obstructivo de origen biliar
+T22	DISEASE 6393 6419	sepsis de origen abdominal
+T23	DISEASE 6835 6846	íleo biliar
+T24	DISEASE 6867 6905	perforación puntiforme de yeyuno-íleon
+T25	DISEASE 7501 7543	Shock séptico con disfunción multiorgánica
+T26	DISEASE 7558 7596	peritonitis por perforación intestinal
+T27	DISEASE 7624 7660	Bacteriemia por Bacteroides vulgatus
+T28	DISEASE 7662 7705	Infarto agudo de miocardio infero-posterior
+T29	DISEASE 1148 1167	acidosis metabólica
+T30	DISEASE 2493 2504	hipotensión
+T31	DISEASE 1609 1645	lesión subepicárdica inferoposterior
+T32	DISEASE 3087 3106	necrosis miocárdica
+T33	DISEASE 3980 4043	Coronaria derecha: vaso ectásico con oclusión en segmento medio
+T34	DISEASE 3954 3970	DA distal lesión
+T35	DISEASE 6706 6776	vaso ectásico que presentaba abundante cantidad de material trombótico
+T36	DISEASE 7611 7622	íleo biliar
+T37	PROCEDURE 779 800	Auscultación pulmonar
+T38	PROCEDURE 1208 1232	reactantes de fase aguda
+T39	PROCEDURE 1478 1499	auscultación pulmonar
+T40	PROCEDURE 1539 1557	electrocardiograma
+T41	PROCEDURE 1673 1687	oxigenoterapia
+T42	PROCEDURE 1767 1799	ventilación mecánica no invasiva
+T43	PROCEDURE 1856 1884	ecocardiograma a pie de cama
+T44	PROCEDURE 2091 2123	doble antiagregación plaquetaria
+T45	PROCEDURE 2137 2152	coronariografía
+T46	PROCEDURE 2274 2313	ICP con implante de stent farmacoactivo
+T47	PROCEDURE 2564 2616	implante de un balón de contrapulsación intraaórtico
+T48	PROCEDURE 2718 2737	Analítica sanguínea
+T49	PROCEDURE 2929 2938	Hemograma
+T50	PROCEDURE 3073 3106	Marcadores de necrosis miocárdica
+T51	PROCEDURE 3171 3181	Gasometría
+T52	PROCEDURE 3239 3259	Radiografía de tórax
+T53	PROCEDURE 3370 3373	ECG
+T54	PROCEDURE 3614 3629	Ecocardioscopia
+T55	PROCEDURE 3784 3799	Coronariografía
+T56	PROCEDURE 4056 4131	intervencionismo coronario percutáneo con implante de 1 stent farmacoactivo
+T57	PROCEDURE 4173 4194	Radiografía abdominal
+T58	PROCEDURE 4272 4292	Radiografía de tórax
+T59	PROCEDURE 4364 4377	TC de abdomen
+T60	PROCEDURE 4452 4465	Microbiología
+T61	PROCEDURE 4467 4485	Sedimento urinario
+T62	PROCEDURE 4534 4546	Hemocultivos
+T63	PROCEDURE 4570 4580	Urocultivo
+T64	PROCEDURE 4592 4609	Aspirado traqueal
+T65	PROCEDURE 4870 4892	intubación orotraqueal
+T66	PROCEDURE 4895 4915	ventilación mecánica
+T67	PROCEDURE 4917 4949	Se implanta catéter de Swan-Ganz
+T68	PROCEDURE 5310 5323	fluidoterapia
+T69	PROCEDURE 5402 5467	Se disminuye el soporte del balón de contrapulsación intraaórtico
+T70	PROCEDURE 5577 5605	se coloca sonda nasogástrica
+T71	PROCEDURE 5778 5798	catéter de Swan-Ganz
+T72	PROCEDURE 5816 5831	ecocardiografía
+T73	PROCEDURE 5886 5904	TC toracoabdominal
+T74	PROCEDURE 6219 6242	Se extraen hemocultivos
+T75	PROCEDURE 6310 6332	rastreo microbiológico
+T76	PROCEDURE 6364 6376	hemocultivos
+T77	PROCEDURE 6462 6494	laparotomía supra-infraumbilical
+T78	PROCEDURE 6534 6566	doble antiagregación plaquetaria
+T79	PROCEDURE 6673 6719	implante reciente de stent en un vaso ectásico
+T80	PROCEDURE 6893 6942	yeyuno-íleon realizándose resección y anastomosis
+T81	PROCEDURE 7123 7137	ecocardiograma
+T82	PROCEDURE 7256 7276	doble antiagregación
+T83	PROCEDURE 7342 7367	tratamiento neurohormonal
+T84	PROCEDURE 7729 7803	Revascularización percutánea urgente sobre arteria coronaria derecha media
+T85	PROCEDURE 5725 5747	tratamiento vasoactivo
+T86	PROCEDURE 6254 6277	antibioterapia empírica
+T87	PROCEDURE 921 930	palpación
+T88	PROCEDURE 1064 1073	analítica
+T89	PROCEDURE 6784 6791	cirugía
+T90	PROCEDURE 6952 6959	cirugía
+T91	PROCEDURE 6619 6631	intervención
+T92	PROCEDURE 2405 2439	perfusión endovenosa de dobutamina
+T93	PROCEDURE 4774 4811	balón de contrapulsación intraaórtico
+T94	PROCEDURE 4732 4771	perfusión con noradrenalina, dobutamina
+T95	PROCEDURE 5430 5485	balón de contrapulsación intraaórtico a 1:2 y se retira
+T96	SYMPTOM 254 266	asintomático
+T97	SYMPTOM 316 326	diaforesis
+T98	SYMPTOM 329 349	sensación distérmica
+T99	SYMPTOM 384 404	vómitos alimenticios
+T100	SYMPTOM 410 416	fiebre
+T101	SYMPTOM 434 449	dolor abdominal
+T102	SYMPTOM 451 502	Asintomático desde el punto de vista cardiovascular
+T103	SYMPTOM 648 659	somnolencia
+T104	SYMPTOM 661 676	Palidez cutánea
+T105	SYMPTOM 681 690	livideces
+T106	SYMPTOM 732 756	Tonos cardiacos rítmicos
+T107	SYMPTOM 762 768	soplos
+T108	SYMPTOM 805 834	murmullo vesicular conservado
+T109	SYMPTOM 840 850	estertores
+T110	SYMPTOM 855 930	abdomen en ese momento es depresible, con dolor generalizado a la palpación
+T111	SYMPTOM 953 974	irritación peritoneal
+T112	SYMPTOM 980 1012	edema en extremidades inferiores
+T113	SYMPTOM 1197 1232	aumento de reactantes de fase aguda
+T114	SYMPTOM 1278 1290	leucocitosis
+T115	SYMPTOM 1370 1383	disnea brusca
+T116	SYMPTOM 1422 1462	leve disminución del nivel de conciencia
+T117	SYMPTOM 1464 1475	somnolencia
+T118	SYMPTOM 1828 1842	mala perfusión
+T119	SYMPTOM 2514 2525	taquicardia
+T120	SYMPTOM 3314 3340	senos costofrénicos libres
+T121	SYMPTOM 3342 3368	Parénquima pulmonar normal
+T122	SYMPTOM 3406 3415	PR normal
+T123	SYMPTOM 3417 3429	QRS estrecho
+T124	SYMPTOM 3431 3459	Patrón qR en DII, DIII y aVF
+T125	SYMPTOM 3464 3489	elevación del segmento ST
+T126	SYMPTOM 3501 3516	Descenso del ST
+T127	SYMPTOM 4570 4590	Urocultivo: negativo
+T128	SYMPTOM 4592 4619	Aspirado traqueal: negativo
+T129	SYMPTOM 4700 4726	inestabilidad hemodinámica
+T130	SYMPTOM 6208 6217	febrícula
+T131	SYMPTOM 7805 7834	Disfunción sistólica moderada
+T132	SYMPTOM 705 730	mala perfusión periférica
+T133	SYMPTOM 3631 3687	función sistólica de VI al menos moderadamente deprimida
+T134	SYMPTOM 1561 1580	taquicardia sinusal
+T135	SYMPTOM 1975 1997	hipoquinesia inferior,
+T136	SYMPTOM 3568 3589	Descenso del ST plano
+T137	SYMPTOM 3720 3748	hipoquinesia severa inferior
+T138	SYMPTOM 4294 4324	aumento de densidad perihiliar
+T139	SYMPTOM 2349 2371	deterioro hemodinámico
+T140	SYMPTOM 5843 5873	función ventricular preservada
+T141	SYMPTOM 1388 1419	importante trabajo respiratorio
+T142	SYMPTOM 6805 6832	líquido libre seropurulento
+T143	SYMPTOM 4329 4362	redistribución vascular bilateral
+T144	SYMPTOM 3279 3312	silueta cardiaca de tamaño normal
+T145	SYMPTOM 1945 1970	hipocontractilidad global
+T146	SYMPTOM 3261 3277	paucisintomático
+T147	SYMPTOM 3692 3717	hipocontractilidad global
+T148	SYMPTOM 4534 4568	Hemocultivos: Bacteroides vulgatus
+T149	SYMPTOM 5587 5651	sonda nasogástrica con débito de 1 litro de contenido fecaloideo
+T150	SYMPTOM 6340 6376	Bacteroides vulgatus en hemocultivos
+T151	SYMPTOM 7154 7185	disfunción sistólica leve de VI
+T152	SYMPTOM 7183 7210	VI por hipocinesia inferior
+T153	MEDICATION 120 130	lisinopril
+T154	MEDICATION 1753 1764	bicarbonato
+T155	MEDICATION 2429 2439	dobutamina
+T156	MEDICATION 2545 2558	noradrenalina
+T157	MEDICATION 4746 4759	noradrenalina
+T158	MEDICATION 4761 4771	dobutamina
+T159	MEDICATION 5358 5371	noradrenalina
+T160	MEDICATION 5390 5400	dobutamina
+T161	MEDICATION 5517 5527	dobutamina
+T162	MEDICATION 6282 6305	piperacilina-tazobactam
+T163	MEDICATION 6571 6593	ácido acetilsalicílico
+T164	MEDICATION 6596 6607	clopidogrel
+T165	MEDICATION 7281 7303	ácido acetilsalicílico
+T166	MEDICATION 7318 7329	clopidogrel
+T167	MEDICATION 7372 7382	bisoprolol
+T168	MEDICATION 7397 7405	ramipril
+T169	MEDICATION 7436 7444	estatina
+T170	MEDICATION 7462 7475	atorvastatina

@@ -1,0 +1,106 @@
+T1	DISEASE 311 334	alergias medicamentosas
+T2	DISEASE 366 385	diabetes mellitus 2
+T3	DISEASE 387 408	hipertensión arterial
+T4	DISEASE 410 420	dislipemia
+T5	DISEASE 422 431	Exfumador
+T6	DISEASE 492 496	EPOC
+T7	DISEASE 498 537	ACV isquémico de arteria cerebral media
+T8	DISEASE 594 612	hernia epigástrica
+T9	DISEASE 637 650	Tumor vesical
+T10	DISEASE 683 694	Cardiopatía
+T11	DISEASE 703 726	miocardiopatía dilatada
+T12	DISEASE 1066 1120	fibrilación auricular con respuesta ventricular rápida
+T13	DISEASE 1257 1278	fibrilación auricular
+T14	DISEASE 1460 1481	fibrilación auricular
+T15	DISEASE 2081 2103	infección respiratoria
+T16	DISEASE 2170 2191	fibrilación auricular
+T17	DISEASE 2760 2785	trombosis venosa profunda
+T18	DISEASE 2862 2916	fibrilación auricular con respuesta ventricular rápida
+T19	DISEASE 3136 3158	insuficiencia cardiaca
+T20	DISEASE 3797 3840	Válvula mitral engrosada, con insuficiencia
+T21	DISEASE 3849 3876	Válvula aórtica esclerosada
+T22	DISEASE 4065 4084	derrame pericárdico
+T23	DISEASE 4151 4172	fibrilación auricular
+T24	DISEASE 5335 5357	insuficiencia cardiaca
+T25	DISEASE 5372 5426	Fibrilación auricular con respuesta ventricular rápida
+T26	DISEASE 5540 5593	Taquimiocardiopatía con disfunción ventricular severa
+T27	DISEASE 581 592	hemorroides
+T28	DISEASE 3613 3654	Ventrículo izquierdo ligeramente dilatado
+T29	DISEASE 3754 3795	Aurícula izquierda moderadamente dilatada
+T30	DISEASE 3927 3971	derechas con aurícula moderadamente dilatada
+T31	DISEASE 2944 2990	alteraciones de la conducción intraventricular
+T32	DISEASE 3613 3717	Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con contracción global severamente deprimida
+T33	DISEASE 4873 4901	disección del seno coronario
+T34	PROCEDURE 275 293	exploración física
+T35	PROCEDURE 614 635	polipectomía colónica
+T36	PROCEDURE 663 666	RTU
+T37	PROCEDURE 839 859	cateterismo cardiaco
+T38	PROCEDURE 996 1010	ecocardiograma
+T39	PROCEDURE 1133 1156	cardioversión eléctrica
+T40	PROCEDURE 1306 1329	cardioversión eléctrica
+T41	PROCEDURE 2378 2391	cardioversión
+T42	PROCEDURE 2394 2412	Exploración física
+T43	PROCEDURE 2537 2558	Auscultación cardiaca
+T44	PROCEDURE 2617 2638	Auscultación pulmonar
+T45	PROCEDURE 2857 2860	ECG
+T46	PROCEDURE 3055 3075	Radiografía de tórax
+T47	PROCEDURE 3566 3580	Ecocardiograma
+T48	PROCEDURE 4618 4655	ablación del nodo auriculoventricular
+T49	PROCEDURE 4658 4682	colocación de marcapasos
+T50	PROCEDURE 4701 4736	colocación de marcapasos definitivo
+T51	PROCEDURE 4795 4831	terapia de resincronización cardiaca
+T52	PROCEDURE 4833 4836	TRC
+T53	PROCEDURE 4903 4938	Se colocó finalmente marcapasos DDD
+T54	PROCEDURE 4972 5009	ablación del nodo auriculoventricular
+T55	PROCEDURE 5116 5142	tratamiento anticoagulante
+T56	PROCEDURE 5492 5512	ablación del nodo AV
+T57	PROCEDURE 5515 5537	implante de marcapasos
+T58	PROCEDURE 3336 3347	Coagulación
+T59	PROCEDURE 2274 2288	betabloqueante
+T60	PROCEDURE 4758 4789	colocar electrodo también en VI
+T61	PROCEDURE 3224 3233	Analítica
+T62	PROCEDURE 553 579	Intervenciones quirúrgicas
+T63	SYMPTOM 156 183	disnea de mínimos esfuerzos
+T64	SYMPTOM 185 193	ortopnea
+T65	SYMPTOM 195 222	disnea paroxística nocturna
+T66	SYMPTOM 225 238	palpitaciones
+T67	SYMPTOM 753 792	función sistólica severamente deprimida
+T68	SYMPTOM 1341 1354	ritmo sinusal
+T69	SYMPTOM 1954 1981	disnea de mínimos esfuerzos
+T70	SYMPTOM 1983 1991	ortopnea
+T71	SYMPTOM 1993 2020	disnea paroxística nocturna
+T72	SYMPTOM 2024 2037	palpitaciones
+T73	SYMPTOM 2492 2502	consciente
+T74	SYMPTOM 2504 2518	normocoloreado
+T75	SYMPTOM 2521 2535	normohidratado
+T76	SYMPTOM 2560 2586	tonos cardiacos arrítmicos
+T77	SYMPTOM 2609 2615	soplos
+T78	SYMPTOM 2640 2683	disminución generalizada murmullo vesicular
+T79	SYMPTOM 2689 2710	crepitantes bibasales
+T80	SYMPTOM 2787 2802	Abdomen: blando
+T81	SYMPTOM 2918 2930	QRS estrecho
+T82	SYMPTOM 3002 3033	sobrecarga ventrículo izquierdo
+T83	SYMPTOM 3077 3121	infiltrados alveolo-intersticiales bibasales
+T84	SYMPTOM 807 835	arterias coronarias normales
+T85	SYMPTOM 2715 2745	Miembros inferiores: no edemas
+T86	SYMPTOM 3160 3186	Senos costofrénicos libres
+T87	SYMPTOM 3990 4020	Vena cava inferior no dilatada
+T88	SYMPTOM 3613 3671	Ventrículo izquierdo ligeramente dilatado, no hipertrófico
+T89	MEDICATION 1506 1516	dabigatran
+T90	MEDICATION 1529 1539	bisoprolol
+T91	MEDICATION 1551 1559	ramipril
+T92	MEDICATION 1572 1585	rosuvastatina
+T93	MEDICATION 1597 1606	omeprazol
+T94	MEDICATION 1618 1628	furosemida
+T95	MEDICATION 1665 1682	bromuro tiotropio
+T96	MEDICATION 1693 1704	repaglinida
+T97	MEDICATION 1713 1723	fluoxetina
+T98	MEDICATION 1731 1741	alprazolam
+T99	MEDICATION 4262 4272	bisoprolol
+T100	MEDICATION 4307 4315	digoxina
+T101	MEDICATION 4318 4328	amiodarona
+T102	MEDICATION 5175 5183	digoxina
+T103	MEDICATION 5185 5195	amiodarona
+T104	MEDICATION 5221 5231	bisoprolol
+#1	AnnotatorNotes T6	 EPOC: enfermedad pulmonar obstructiva crónica
+#2	AnnotatorNotes T7	 AVC: accidente cardio-vascular

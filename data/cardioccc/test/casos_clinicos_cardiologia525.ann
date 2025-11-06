@@ -1,0 +1,78 @@
+T1	ENFERMEDAD 2286 2318	dilatación ni hipertrofia del VI
+T2	ENFERMEDAD 70 78	fumadora
+T3	ENFERMEDAD 131 140	sobrepeso
+T4	ENFERMEDAD 142 152	dislipemia
+T5	ENFERMEDAD 195 209	hipotiroidismo
+T6	ENFERMEDAD 240 274	trastorno de ansiedad generalizada
+T7	ENFERMEDAD 484 513	angina de esfuerzos moderados
+T8	ENFERMEDAD 1476 1517	disfunción ventricular izquierda moderada
+T9	ENFERMEDAD 2625 2666	disfunción ventricular izquierda moderada
+T10	ENFERMEDAD 1020 1033	valvulopatías
+T11	ENFERMEDAD 2324 2337	valvulopatías
+T12	ENFERMEDAD 3551 3569	Tako-tsubo inverso
+T13	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T14	PROCEDIMIENTO 172 181	estatinas
+T15	PROCEDIMIENTO 357 397	ecocardiografía de estrés con dobutamina
+T16	PROCEDIMIENTO 518 528	ergometría
+T17	PROCEDIMIENTO 582 600	exploración física
+T18	PROCEDIMIENTO 742 758	prueba de estrés
+T19	PROCEDIMIENTO 763 781	electrocardiograma
+T20	PROCEDIMIENTO 881 909	ecocardiograma transtorácico
+T21	PROCEDIMIENTO 1100 1156	ecocardiografía de estrés con dosis máxima de dobutamina
+T22	PROCEDIMIENTO 1770 1785	coronariografía
+T23	PROCEDIMIENTO 1902 1923	vasoespasmo coronario
+T24	PROCEDIMIENTO 1931 1947	ventriculografía
+T25	PROCEDIMIENTO 2050 2068	Electrocardiograma
+T26	PROCEDIMIENTO 2179 2207	Ecocardiograma transtorácico
+T27	PROCEDIMIENTO 2393 2457	Ecocardiografía de estrés: Se alcanza dosis máxima de dobutamina
+T28	PROCEDIMIENTO 2745 2756	Cateterismo
+T29	PROCEDIMIENTO 2826 2842	Ventriculografía
+T30	PROCEDIMIENTO 2925 2945	cateterismo cardiaco
+T31	PROCEDIMIENTO 2949 2967	electrocardiograma
+T32	PROCEDIMIENTO 3270 3285	betabloqueantes
+T33	PROCEDIMIENTO 3581 3620	ecocardiograma de estrés con dobutamina
+T34	PROCEDIMIENTO 195 237	hipotiroidismo con tratamiento sustitutivo
+T35	SINTOMA 543 575	debilidad en miembros inferiores
+T36	SINTOMA 661 685	tonos cardiacos rítmicos
+T37	SINTOMA 690 696	soplos
+T38	SINTOMA 797 810	ritmo sinusal
+T39	SINTOMA 825 837	QRS estrecho
+T40	SINTOMA 843 876	alteraciones de la repolarización
+T41	SINTOMA 1055 1087	presión arterial pulmonar normal
+T42	SINTOMA 1250 1261	bradicardia
+T43	SINTOMA 1336 1350	dolor torácico
+T44	SINTOMA 1356 1415	descenso del ST en las derivaciones inferiores y de V3 a V6
+T45	SINTOMA 1431 1471	ascenso del ST en AVR y V1- V2 , I y aVL
+T46	SINTOMA 1522 1558	hipocinesia de los segmentos basales
+T47	SINTOMA 1561 1594	hipercontractilidad apical del VI
+T48	SINTOMA 1684 1698	dolor torácico
+T49	SINTOMA 1708 1742	alteraciones electrocardiográficas
+T50	SINTOMA 2076 2089	ritmo sinusal
+T51	SINTOMA 2091 2100	pr normal
+T52	SINTOMA 2102 2124	eje inferior izquierdo
+T53	SINTOMA 2126 2138	QRS estrecho
+T54	SINTOMA 2144 2177	alteraciones de la repolarización
+T55	SINTOMA 2215 2230	FEVI preservada
+T56	SINTOMA 2235 2280	alteraciones de la contractilidad segmentaria
+T57	SINTOMA 2359 2391	presión arterial pulmonar normal
+T58	SINTOMA 2564 2578	dolor torácico
+T59	SINTOMA 2584 2613	cambios electrocardiográficos
+T60	SINTOMA 2636 2707	ventricular izquierda moderada con hipocinesia de los segmentos basales
+T61	SINTOMA 2710 2743	hipercontractilidad apical del VI
+T62	SINTOMA 3031 3043	asintomática
+T63	SINTOMA 1808 1839	coronarias epicárdicas normales
+T64	SINTOMA 1960 1986	hipercontractilidad apical
+T65	SINTOMA 1991 2023	hipocinesia de segmentos basales
+T66	SINTOMA 2844 2870	hipercontractilidad apical
+T67	SINTOMA 2872 2904	hipocinesia de segmentos basales
+T68	SINTOMA 3490 3536	alteraciones segmentarias de la contractilidad
+T69	SINTOMA 2758 2790	arterias coronarias sin lesiones
+T70	SINTOMA 627 646	buen estado general
+T71	SINTOMA 930 1014	buena función ventricular izquierda global y segmentaria, con grosor parietal normal
+T72	SINTOMA 2462 2509	respuesta cronotrópica paradójicamente negativa
+T73	SINTOMA 1186 1233	respuesta cronotrópica paradójicamente negativa
+T74	FARMACO 1306 1314	atropina
+T75	FARMACO 1613 1624	solinitrina
+T76	FARMACO 1627 1637	metoprolol
+T77	FARMACO 2534 2542	atropina
+T78	FARMACO 184 193	ezetimiba

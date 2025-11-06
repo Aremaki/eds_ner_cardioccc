@@ -1,0 +1,131 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 130 148	consumo de tóxicos
+T3	DISEASE 179 191	cólico renal
+T4	DISEASE 222 251	ectasia a nivel pielocalicial
+T5	DISEASE 341 362	hipertensión arterial
+T6	DISEASE 364 367	HTA
+T7	DISEASE 371 381	dislipemia
+T8	DISEASE 412 421	Exfumador
+T9	DISEASE 469 486	diabetes mellitus
+T10	DISEASE 488 527	Bloqueo de rama izquierda de haz de His
+T11	DISEASE 529 534	BRIHH
+T12	DISEASE 546 572	Síndrome coronario crónico
+T13	DISEASE 596 599	IAM
+T14	DISEASE 756 772	angina inestable
+T15	DISEASE 1104 1125	estenosis grave en TC
+T16	DISEASE 1228 1284	miocardiopatía dilatada con disfunción ventricular grave
+T17	DISEASE 1300 1347	insuficiencia mitral moderada-grave por tenting
+T18	DISEASE 1350 1376	hipertensión pulmonar leve
+T19	DISEASE 1431 1497	ventrículo izquierdo (VI) gravemente dilatado con disfunción grave
+T20	DISEASE 1875 1895	insuficiencia mitral
+T21	DISEASE 2106 2128	insuficiencia cardiaca
+T22	DISEASE 2227 2232	angor
+T23	DISEASE 2704 2709	angor
+T24	DISEASE 2849 2860	infecciones
+T25	DISEASE 3298 3334	insuficiencia cardiaca descompensada
+T26	DISEASE 4125 4185	miocardiopatía dilatada isquémica con VI gravemente dilatado
+T27	DISEASE 4187 4195	HVI leve
+T28	DISEASE 4249 4292	Insuficiencia mitral (IM) grave por tenting
+T29	DISEASE 4338 4343	BRIHH
+T30	DISEASE 4345 4384	Insuficiencia tricuspídea (IT) moderada
+T31	DISEASE 4410 4445	hipertensión pulmonar (HP) moderada
+T32	DISEASE 4433 4435	HP
+T33	DISEASE 5509 5519	ferropenia
+T34	DISEASE 5525 5536	anemización
+T35	DISEASE 5578 5600	insuficiencia cardiaca
+T36	DISEASE 6051 6073	insuficiencia cardiaca
+T37	DISEASE 6194 6215	descompensación de IC
+T38	DISEASE 6302 6336	insuficiencia mitral leve-moderada
+T39	DISEASE 6454 6472	anemia microcítica
+T40	DISEASE 6618 6640	insuficiencia cardiaca
+T41	DISEASE 6669 6680	anemización
+T42	DISEASE 7096 7140	Insuficiencia cardiaca crónica descompensada
+T43	DISEASE 7172 7205	Miocardiopatía dilatada isquémica
+T44	DISEASE 7207 7275	Síndrome coronario crónico con enfermedad arterial coronaria trivaso
+T45	DISEASE 7337 7377	Anemia microcítica de perfil ferropénico
+T46	DISEASE 4372 4374	IT
+T47	DISEASE 5438 5465	asincronía interventricular
+T48	DISEASE 3533 3538	BRIHH
+T49	PROCEDURE 605 719	revascularización quirúrgica con doble puente aortocoronario (safena-obtusa marginal y safenadescendente anterior)
+T50	PROCEDURE 793 821	revascularización percutánea
+T51	PROCEDURE 871 1017	implantación de un stent farmacoactivo en DA distal al injerto de safena, dos stents en primera rama diagonal proximal-media, un stent en CD media
+T52	PROCEDURE 1044 1059	coronariografía
+T53	PROCEDURE 1123 1165	TC distal del 70%, con colocación de stent
+T54	PROCEDURE 1194 1208	ecocardiograma
+T55	PROCEDURE 1378 1412	Resonancia magnética (RM) cardiaca
+T56	PROCEDURE 2252 2275	rehabilitación cardiaca
+T57	PROCEDURE 2888 2906	Exploración física
+T58	PROCEDURE 3058 3079	Auscultación cardiaca
+T59	PROCEDURE 3489 3492	ECG
+T60	PROCEDURE 3593 3613	Radiografía de tórax
+T61	PROCEDURE 3779 3795	batería hepática
+T62	PROCEDURE 3882 3893	Coagulación
+T63	PROCEDURE 4085 4113	Ecocardiograma transtorácico
+T64	PROCEDURE 4599 4632	tratamiento diurético intravenoso
+T65	PROCEDURE 4747 4768	tratamiento diurético
+T66	PROCEDURE 4917 4942	tratamiento neurohormonal
+T67	PROCEDURE 5789 5813	ferroterapia intravenosa
+T68	PROCEDURE 6228 6242	ecocardiograma
+T69	PROCEDURE 6738 6753	ferroterapia IV
+T70	PROCEDURE 6907 6937	test de sangre oculta en heces
+T71	PROCEDURE 7290 7335	revascularizaciones quirúrgicas y percutáneas
+T72	PROCEDURE 7391 7408	estudio digestivo
+T73	PROCEDURE 7437 7478	primoimplante de desfibrilador automático
+T74	PROCEDURE 7494 7540	terapia de resincronización cardiaca (DAI-TRC)
+T75	PROCEDURE 7532 7539	DAI-TRC
+T76	PROCEDURE 7566 7590	ferroterapia intravenosa
+T77	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T78	PROCEDURE 253 266	Función renal
+T79	PROCEDURE 2764 2792	medidas higiénico-dietéticas
+T80	PROCEDURE 4000 4014	perfil férrico
+T81	PROCEDURE 823 860	intervencionismo coronario percutáneo
+T82	PROCEDURE 862 865	ICP
+T83	PROCEDURE 3731 3740	Analítica
+T84	PROCEDURE 6344 6353	analítica
+T85	PROCEDURE 5290 5316	implantación de un DAI-TRC
+T86	SYMPTOM 253 273	Función renal normal
+T87	SYMPTOM 1737 1762	Movimiento septal anómalo
+T88	SYMPTOM 2178 2190	asintomático
+T89	SYMPTOM 2562 2568	disnea
+T90	SYMPTOM 2653 2661	ortopnea
+T91	SYMPTOM 2664 2672	oliguria
+T92	SYMPTOM 2726 2739	palpitaciones
+T93	SYMPTOM 3025 3032	Afebril
+T94	SYMPTOM 3058 3088	Auscultación cardiaca: rítmica
+T95	SYMPTOM 3093 3130	soplo sistólico en foco mitral III/IV
+T96	SYMPTOM 3139 3180	crepitantes bibasales hasta campos medios
+T97	SYMPTOM 3182 3197	Abdomen anodino
+T98	SYMPTOM 3199 3257	Edemas bilaterales con fóvea en EEII hasta nivel pretibial
+T99	SYMPTOM 3494 3507	ritmo sinusal
+T100	SYMPTOM 3882 3900	Coagulación normal
+T101	SYMPTOM 4061 4071	TSH normal
+T102	SYMPTOM 4229 4247	hipocinesia global
+T103	SYMPTOM 5163 5169	disnea
+T104	SYMPTOM 5509 5519	ferropenia
+T105	SYMPTOM 5605 5634	fracción de eyección reducida
+T106	SYMPTOM 6113 6133	clínicamente estable
+T107	SYMPTOM 6135 6147	asintomático
+T108	SYMPTOM 6597 6609	asintomático
+T109	SYMPTOM 6915 6959	sangre oculta en heces, que resultó positiva
+T110	SYMPTOM 7146 7170	FEVI gravemente reducida
+T111	SYMPTOM 1526 1556	disquinesia del ápex verdadero
+T112	SYMPTOM 1558 1567	aquinesia
+T113	SYMPTOM 1764 1843	Ventrículo derecho (VD) no dilatado con función global y segmentaria conservada
+T114	SYMPTOM 3649 3689	pinzamiento de ambos senos costofrénicos
+T115	SYMPTOM 3615 3643	índice cardiotorácico límite
+T116	SYMPTOM 4294 4323	Movimiento septal asincrónico
+T117	SYMPTOM 4386 4405	VD normofuncionante
+T118	SYMPTOM 4197 4213	Disfunción grave
+T119	SYMPTOM 3695 3729	infiltrados en parénquima pulmonar
+T120	SYMPTOM 3041 3056	plétora yugular
+T121	SYMPTOM 3760 3804	urea, creatinina y batería hepática normales
+T122	MEDICATION 2299 2308	omeprazol
+T123	MEDICATION 2316 2338	ácido acetilsalicílico
+T124	MEDICATION 2351 2361	bisoprolol
+T125	MEDICATION 2377 2387	furosemida
+T126	MEDICATION 2399 2420	sacubitrilo/valsartán
+T127	MEDICATION 2436 2449	rosuvastatina
+T128	MEDICATION 5039 5049	ivabradina
+T129	MEDICATION 5865 5886	hierro carboximaltosa
+T130	MEDICATION 6766 6788	carboximaltosa férrica
+#1	AnnotatorNotes T13	 Infarto agudo de miocardio

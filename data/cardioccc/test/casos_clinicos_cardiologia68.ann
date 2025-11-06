@@ -1,0 +1,66 @@
+T1	ENFERMEDAD 2195 2248	Defecto amplio del septo de entrada y ostium secundum
+T2	ENFERMEDAD 3441 3479	defecto amplio de septo interauricular
+T3	ENFERMEDAD 25 77	cardiopatía congénita: comunicación interventricular
+T4	ENFERMEDAD 154 177	alergias medicamentosas
+T5	ENFERMEDAD 1422 1437	derrame pleural
+T6	ENFERMEDAD 1916 1919	HAI
+T7	ENFERMEDAD 2116 2183	Comunicación interventricular cerrada espontáneamente con aneurisma
+T8	ENFERMEDAD 3186 3216	Insuficiencia central moderada
+T9	ENFERMEDAD 3325 3344	derrame pericárdico
+T10	ENFERMEDAD 435 442	síncope
+T11	ENFERMEDAD 1908 1914	BCRDHH
+T12	ENFERMEDAD 2050 2086	Defecto de septo auriculoventricular
+T13	ENFERMEDAD 2336 2351	cor triatriatum
+T14	ENFERMEDAD 2586 2627	Ventrículo derecho moderadamente dilatado
+T15	ENFERMEDAD 3131 3184	Válvula AV derecha con defecto de coaptación de velos
+T16	ENFERMEDAD 4045 4060	Cor triatriatum
+T17	ENFERMEDAD 4061 4118	Defecto parcial atrioventricular (tipo CIA ostium primum)
+T18	ENFERMEDAD 2250 2281	Cortocircuito izquierda derecha
+T19	ENFERMEDAD 1922 1945	crecimiento biauricular
+T20	ENFERMEDAD 3537 3598	Membrana que tabica la porción superior de aurícula izquierda
+T21	PROCEDIMIENTO 845 863	Exploración física
+T22	PROCEDIMIENTO 978 1010	Auscultación cardiorrespiratoria
+T23	PROCEDIMIENTO 1314 1334	Radiografía de tórax
+T24	PROCEDIMIENTO 1856 1859	ECG
+T25	PROCEDIMIENTO 1948 1977	Ecocardiografía transtorácica
+T26	PROCEDIMIENTO 3409 3439	Ecocardiografía transesofágica
+T27	PROCEDIMIENTO 1793 1813	Marcadores cardiacos
+T28	PROCEDIMIENTO 4008 4030	cirugía cardiovascular
+T29	PROCEDIMIENTO 1529 1538	Analítica
+T30	SINTOMA 250 268	sensación de mareo
+T31	SINTOMA 283 316	parestesias en el brazo izquierdo
+T32	SINTOMA 335 358	pérdida de conocimiento
+T33	SINTOMA 387 401	dolor torácico
+T34	SINTOMA 406 412	disnea
+T35	SINTOMA 417 430	palpitaciones
+T36	SINTOMA 638 643	mareo
+T37	SINTOMA 676 690	dolor torácico
+T38	SINTOMA 761 777	malestar general
+T39	SINTOMA 780 785	mareo
+T40	SINTOMA 864 893	Presión venosa yugular normal
+T41	SINTOMA 895 932	Pulsos carotídeos llenos y simétricos
+T42	SINTOMA 938 945	frémito
+T43	SINTOMA 949 976	latido impulsivo precordial
+T44	SINTOMA 1012 1041	murmullo vesicular conservado
+T45	SINTOMA 1081 1105	Tonos cardiacos rítmicos
+T46	SINTOMA 1110 1129	soplo holosistólico
+T47	SINTOMA 1170 1210	Abdomen: blando, depresible, no doloroso
+T48	SINTOMA 1216 1224	megalias
+T49	SINTOMA 1226 1257	Miembros inferiores: sin edemas
+T50	SINTOMA 1260 1287	pulsos distales conservados
+T51	SINTOMA 1336 1364	índice cardiotorácico normal
+T52	SINTOMA 1366 1417	senos cardiofrénicos y costodiafragmáticos normales
+T53	SINTOMA 1488 1527	alteraciones en partes óseas ni blandas
+T54	SINTOMA 1861 1874	ritmo sinusal
+T55	SINTOMA 2992 3022	Aurícula izquierda no dilatada
+T56	SINTOMA 3346 3374	Cayado aórtico sin anomalías
+T57	SINTOMA 3980 3992	asintomático
+T58	SINTOMA 3246 3276	Vena cava inferior no dilatada
+T59	SINTOMA 1457 1471	condensaciones
+T60	SINTOMA 1442 1453	infiltrados
+T61	SINTOMA 1979 1992	situs solitus
+T62	SINTOMA 2088 2114	válvulas AV al mismo nivel
+T63	SINTOMA 2756 2828	Ventrículo izquierdo de diámetros, paredes y fracción de eyección normal
+T64	FARMACO 834 842	diazepam
+#1	AnnotatorNotes T6	 HAI Hemibloqueo anterior izquierdo
+#2	AnnotatorNotes T11	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

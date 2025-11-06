@@ -1,0 +1,188 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 141 149	fumadora
+T3	DISEASE 245 266	hipertensión arterial
+T4	DISEASE 268 271	HTA
+T5	DISEASE 277 294	diabetes mellitus
+T6	DISEASE 296 298	DM
+T7	DISEASE 301 337	Dislipemia tipo hipertrigliceridemia
+T8	DISEASE 415 436	Hemangiomas hepáticos
+T9	DISEASE 489 515	Colangitis biliar primaria
+T10	DISEASE 554 588	Trastorno de ansiedad generalizada
+T11	DISEASE 1143 1160	episodio catarral
+T12	DISEASE 2320 2345	trombosis venosa profunda
+T13	DISEASE 2347 2350	TVP
+T14	DISEASE 3497 3512	derrame pleural
+T15	DISEASE 3978 4012	insuficiencia mitral moderadagrave
+T16	DISEASE 4242 4281	Insuficiencia tricuspídea leve-moderada
+T17	DISEASE 4314 4333	derrame pericárdico
+T18	DISEASE 4536 4549	trombo apical
+T19	DISEASE 4928 4957	Insuficiencia mitral moderada
+T20	DISEASE 5128 5149	trombo intracavitario
+T21	DISEASE 5717 5750	Insuficiencia mitral leve central
+T22	DISEASE 5918 5956	Insuficiencia tricuspídea levemoderada
+T23	DISEASE 6135 6154	derrame pericárdico
+T24	DISEASE 6222 6238	edema miocárdico
+T25	DISEASE 6283 6294	miocarditis
+T26	DISEASE 6297 6318	cardiopatía isquémica
+T27	DISEASE 6683 6713	cuadro infeccioso respiratorio
+T28	DISEASE 6797 6814	angor de esfuerzo
+T29	DISEASE 7396 7478	disfunción sistólica ventricular izquierda moderada-grave por acinesia medioapical
+T30	DISEASE 7510 7552	insuficiencia mitral significativa por SAM
+T31	DISEASE 7693 7771	síndrome coronario agudo con elevación del segmento ST (SCACEST) inferolateral
+T32	DISEASE 7773 7785	pericarditis
+T33	DISEASE 7787 7802	miopericarditis
+T34	DISEASE 7804 7826	síndrome de tako-tsubo
+T35	DISEASE 7957 7976	lesiones coronarias
+T36	DISEASE 8068 8090	síndrome de tako-tsubo
+T37	DISEASE 8142 8157	daño miocárdico
+T38	DISEASE 8222 8234	pericarditis
+T39	DISEASE 8356 8376	hipotensión arterial
+T40	DISEASE 9137 9149	pericarditis
+T41	DISEASE 9305 9325	hipotensión arterial
+T42	DISEASE 9600 9622	síndrome de tako-tsubo
+T43	DISEASE 9653 9684	daño miocárdico por miocarditis
+T44	DISEASE 9687 9708	cardiopatía isquémica
+T45	DISEASE 9723 9745	Síndrome de tako-tsubo
+T46	DISEASE 9747 9765	Pericarditis aguda
+T47	DISEASE 9784 9795	miocarditis
+T48	DISEASE 9853 9895	insuficiencia mitral moderadagrave por SAM
+T49	DISEASE 9914 9936	síndrome de tako-tsubo
+T50	DISEASE 10058 10080	síndrome de tako-tsubo
+T51	DISEASE 10210 10225	fumadora activa
+T52	DISEASE 10227 10237	dislipemia
+T53	DISEASE 124 139	Hábitos tóxicos
+T54	DISEASE 5194 5209	daño miocárdico
+T55	DISEASE 7000 7015	daño miocárdico
+T56	DISEASE 1591 1599	síncopes
+T57	DISEASE 4335 4362	Vena cava inferior dilatada
+T58	DISEASE 7749 7756	SCACEST
+T59	DISEASE 8636 8654	eventos arrítmicos
+T60	DISEASE 3740 3775	Disfunción sistólica moderada-grave
+T61	DISEASE 4691 4749	Coronaria derecha dominante sin lesiones (espasmo mecánico
+T62	PROCEDURE 453 472	ecografía abdominal
+T63	PROCEDURE 1631 1653	anamnesis por aparatos
+T64	PROCEDURE 1656 1674	Exploración física
+T65	PROCEDURE 1907 1928	Auscultación cardiaca
+T66	PROCEDURE 2011 2032	Auscultación pulmonar
+T67	PROCEDURE 2110 2119	palpación
+T68	PROCEDURE 2378 2396	Electrocardiograma
+T69	PROCEDURE 2398 2401	ECG
+T70	PROCEDURE 3088 3097	Hemograma
+T71	PROCEDURE 3197 3207	Hemostasia
+T72	PROCEDURE 3282 3301	Gasometría arterial
+T73	PROCEDURE 3394 3414	Radiografía de tórax
+T74	PROCEDURE 3567 3581	Ecocardiograma
+T75	PROCEDURE 4460 4497	Se inyecta contraste ecocardiográfico
+T76	PROCEDURE 4568 4583	Coronariografía
+T77	PROCEDURE 4838 4864	Ventriculografía izquierda
+T78	PROCEDURE 5154 5169	ecocardiografía
+T79	PROCEDURE 5237 5251	Ecocardiograma
+T80	PROCEDURE 6167 6187	Resonancia magnética
+T81	PROCEDURE 6538 6547	anamnesis
+T82	PROCEDURE 7105 7108	ECG
+T83	PROCEDURE 7281 7304	ecoscopia a pie de cama
+T84	PROCEDURE 7357 7372	ecocardiografía
+T85	PROCEDURE 7914 7929	coronariografía
+T86	PROCEDURE 8399 8423	medicación neurohormonal
+T87	PROCEDURE 8433 8443	ecoscopias
+T88	PROCEDURE 8580 8583	ECG
+T89	PROCEDURE 8661 8671	telemetría
+T90	PROCEDURE 8943 8991	tratamiento con antiinflamatorios no esteroideos
+T91	PROCEDURE 8993 8997	AINE
+T92	PROCEDURE 9072 9094	anamnesis por aparatos
+T93	PROCEDURE 9154 9171	antiinflamatorios
+T94	PROCEDURE 9249 9274	tratamiento neurohormonal
+T95	PROCEDURE 9353 9387	resonancia magnética (RM) cardiaca
+T96	PROCEDURE 9281 9287	ARA-II
+T97	PROCEDURE 2796 2806	Bioquímica
+T98	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T99	PROCEDURE 9276 9280	IECA
+T100	PROCEDURE 5180 5209	marcadores de daño miocárdico
+T101	PROCEDURE 6986 7015	marcadores de daño miocárdico
+T102	PROCEDURE 2750 2759	Analítica
+T103	PROCEDURE 1864 1879	Cabeza y cuello
+T104	PROCEDURE 6941 6950	analítica
+T105	PROCEDURE 4757 4796	canulación del catéter a nivel proximal
+T106	PROCEDURE 4817 4835	NTG intracoronaria
+T107	PROCEDURE 9375 9377	RM
+T108	SYMPTOM 967 1025	opresión centrotorácica irradiada hacia escápula izquierda
+T109	SYMPTOM 1372 1439	opresión centrotorácica no irradiada que acontece con los esfuerzos
+T110	SYMPTOM 1565 1570	dolor
+T111	SYMPTOM 1583 1589	disnea
+T112	SYMPTOM 1791 1801	Consciente
+T113	SYMPTOM 1804 1813	orientada
+T114	SYMPTOM 1815 1842	Bien perfundida e hidratada
+T115	SYMPTOM 1844 1862	Eupneica en reposo
+T116	SYMPTOM 1884 1905	ingurgitación yugular
+T117	SYMPTOM 1907 1937	Auscultación cardiaca: rítmica
+T118	SYMPTOM 1943 1967	soplo sistólico panfocal
+T119	SYMPTOM 2003 2008	roces
+T120	SYMPTOM 2034 2063	murmullo vesicular conservado
+T121	SYMPTOM 2065 2119	Abdomen blando, depresible, no doloroso a la palpación
+T122	SYMPTOM 2134 2139	masas
+T123	SYMPTOM 2143 2151	megalias
+T124	SYMPTOM 2166 2187	irritación peritoneal
+T125	SYMPTOM 2189 2219	Ruidos hidroaéreos conservados
+T126	SYMPTOM 2221 2271	Pulsos femorales y radiales presentes y simétricos
+T127	SYMPTOM 2442 2455	ritmo sinusal
+T128	SYMPTOM 2542 2556	ascenso en aVR
+T129	SYMPTOM 2558 2570	QRS estrecho
+T130	SYMPTOM 2700 2734	Ondas T negativas simétricas V3-V6
+T131	SYMPTOM 3454 3491	silueta cardiomediastínica conservada
+T132	SYMPTOM 3624 3656	ventrículo izquierdo no dilatado
+T133	SYMPTOM 3777 3797	Acinesia medioapical
+T134	SYMPTOM 5289 5321	ventrículo izquierdo no dilatado
+T135	SYMPTOM 5431 5477	Función sistólica leve-moderadamente deprimida
+T136	SYMPTOM 5503 5522	Acinesia mediapical
+T137	SYMPTOM 5659 5697	Válvula mitral estructuralmente normal
+T138	SYMPTOM 6327 6359	Función biventricular conservada
+T139	SYMPTOM 6572 6577	dolor
+T140	SYMPTOM 6678 6681	tos
+T141	SYMPTOM 6741 6759	dolor era opresivo
+T142	SYMPTOM 6928 6933	dolor
+T143	SYMPTOM 6973 7015	elevación de marcadores de daño miocárdico
+T144	SYMPTOM 7056 7072	elevación de PCR
+T145	SYMPTOM 7126 7173	elevación del segmento ST en cara inferolateral
+T146	SYMPTOM 7196 7213	ondas T negativas
+T147	SYMPTOM 8111 8157	elevación de los marcadores de daño miocárdico
+T148	SYMPTOM 8311 8336	hemodinámicamente estable
+T149	SYMPTOM 8356 8376	hipotensión arterial
+T150	SYMPTOM 8726 8781	ondas T negativas simétricas en precordiales anteriores
+T151	SYMPTOM 8866 8914	dolor torácico de características pericardíticas
+T152	SYMPTOM 9305 9325	hipotensión arterial
+T153	SYMPTOM 9541 9546	edema
+T154	SYMPTOM 7568 7623	aliasing en el tracto de salida de ventrículo izquierdo
+T155	SYMPTOM 8170 8215	alteraciones de la contractilidad segmentaria
+T156	SYMPTOM 3146 3173	fórmula leucocitaria normal
+T157	SYMPTOM 4201 4240	Válvula tricúspide normal en estructura
+T158	SYMPTOM 5877 5916	Válvula tricúspide normal en estructura
+T159	SYMPTOM 2273 2307	Extremidades inferiores sin edemas
+T160	SYMPTOM 2481 2502	PR de duración normal
+T161	SYMPTOM 2507 2539	descenso del PR en cara inferior
+T162	SYMPTOM 2598 2612	Ascenso del ST
+T163	SYMPTOM 4150 4175	Ventrículo derecho normal
+T164	SYMPTOM 4076 4148	Válvula aórtica trivalva con apertura conservada y funcionalmente normal
+T165	SYMPTOM 4428 4458	Raíz de aorta de tamaño normal
+T166	SYMPTOM 4881 4907	aquinesia medioventricular
+T167	SYMPTOM 5752 5824	Válvula aórtica trivalva con apertura conservada y funcionalmente normal
+T168	SYMPTOM 5993 6023	Vena cava inferior no dilatada
+T169	SYMPTOM 6089 6119	Raíz de aorta de tamaño normal
+T170	SYMPTOM 6364 6406	alteraciones de contractilidad segmentaria
+T171	SYMPTOM 7178 7193	descenso del PR
+T172	SYMPTOM 9480 9522	alteraciones de contractilidad segmentaria
+T173	SYMPTOM 9957 10028	Función sistólica de ventrículo izquierdo moderada-gravemente deprimida
+T174	SYMPTOM 10133 10180	Arterias coronarias sin lesiones significativas
+T175	SYMPTOM 3516 3565	condensaciones groseras en el parénquima pulmonar
+T176	SYMPTOM 4053 4074	relajación prolongada
+T177	SYMPTOM 4634 4689	Tronco, descendente anterior y circunfleja sin lesiones
+T178	SYMPTOM 4691 4731	Coronaria derecha dominante sin lesiones
+T179	SYMPTOM 5060 5114	defecto de repleción de contraste a nivel inferoapical
+T180	SYMPTOM 4838 4876	Ventriculografía izquierda no dilatada
+T181	SYMPTOM 5703 5706	SAM
+T182	SYMPTOM 5826 5851	Ventrículo derecho normal
+T183	SYMPTOM 8514 8517	SAM
+T184	MEDICATION 643 665	ácido ursodesoxicólico
+T185	MEDICATION 702 713	bezafibrato
+T186	MEDICATION 749 759	quetiapina
+T187	MEDICATION 797 806	lorazepam
+T188	MEDICATION 4817 4820	NTG

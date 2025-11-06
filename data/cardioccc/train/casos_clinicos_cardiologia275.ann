@@ -1,0 +1,117 @@
+T1	DISEASE 104 119	asma extrínseca
+T2	DISEASE 1204 1236	bloqueo completo de rama derecha
+T3	DISEASE 1382 1397	derrame pleural
+T4	DISEASE 2042 2075	Insuficiencia mitral levemoderada
+T5	DISEASE 2077 2101	Insuficiencia tricúspide
+T6	DISEASE 2122 2141	derrame pericárdico
+T7	DISEASE 2500 2511	miocarditis
+T8	DISEASE 2587 2633	bloqueo completo de rama derecha de has de His
+T9	DISEASE 2746 2775	disfunción sistólica moderada
+T10	DISEASE 2899 2919	Insuficiencia mitral
+T11	DISEASE 2931 2956	insuficiencia tricuspídea
+T12	DISEASE 2961 2980	derrame pericárdico
+T13	DISEASE 3034 3045	miocarditis
+T14	DISEASE 3268 3287	Derrame pericárdico
+T15	DISEASE 3728 3746	shock cardiogénico
+T16	DISEASE 3909 3932	miocarditis linfocítica
+T17	DISEASE 4081 4104	taquicardia ventricular
+T18	DISEASE 4574 4593	fracaso renal agudo
+T19	DISEASE 4840 4862	insuficiencia cardiaca
+T20	DISEASE 5062 5073	miocarditis
+T21	DISEASE 5155 5173	shock cardiogénico
+T22	DISEASE 5602 5632	Shock cardiogénico refractario
+T23	DISEASE 5718 5752	Miocarditis linfocítica fulminante
+T24	DISEASE 5754 5776	Insuficiencia cardiaca
+T25	DISEASE 5886 5911	Insuficiencia renal aguda
+T26	DISEASE 5913 5934	síndrome Cardiorrenal
+T27	DISEASE 2635 2641	BCRDHH
+T28	DISEASE 3339 3354	daño miocárdico
+T29	DISEASE 1855 1902	ventrículo izquierdo moderadamente hipertrófico
+T30	DISEASE 4958 5001	función ventricular con disfunción moderada
+T31	DISEASE 5567 5587	disfunción sistólica
+T32	DISEASE 5187 5251	miocarditis linfocítica (diagnóstico histopatológico) fulminante
+T33	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDURE 650 660	vacunación
+T35	PROCEDURE 1150 1168	Electrocardiograma
+T36	PROCEDURE 1293 1322	Radiografía de tórax portátil
+T37	PROCEDURE 1817 1845	Ecocardiograma transtorácico
+T38	PROCEDURE 2201 2211	Serologías
+T39	PROCEDURE 2239 2251	Hemocultivos
+T40	PROCEDURE 2264 2275	Urocultivos
+T41	PROCEDURE 2288 2322	Frotis faríngeo y exudado traqueal
+T42	PROCEDURE 2350 2372	Biopsia endomiocárdica
+T43	PROCEDURE 2374 2396	biopsia endomiocárdica
+T44	PROCEDURE 2513 2516	ECG
+T45	PROCEDURE 2671 2686	Ecocardiografía
+T46	PROCEDURE 2994 3006	RMN cardiaca
+T47	PROCEDURE 3858 3880	biopsia endomiocárdica
+T48	PROCEDURE 3958 3982	corticoides intravenosos
+T49	PROCEDURE 4181 4224	tratamiento con antiarrítmicos intravenosos
+T50	PROCEDURE 4246 4269	cardioversión eléctrica
+T51	PROCEDURE 4321 4371	implantar un balón de contrapulsación intraaórtico
+T52	PROCEDURE 4395 4413	canulación de ECMO
+T53	PROCEDURE 4415 4479	oxigenación por membrana extracorpórea) veno-arterial periférico
+T54	PROCEDURE 4509 4537	terapia de sustitución renal
+T55	PROCEDURE 4611 4640	soporte mecánico circulatorio
+T56	PROCEDURE 4670 4708	se retira escalonadamente ECMO y BCIAo
+T57	PROCEDURE 4810 4834	medicación neurohormonal
+T58	PROCEDURE 4901 4916	ecocardiografía
+T59	PROCEDURE 5007 5027	resonancia magnética
+T60	PROCEDURE 5273 5283	serologías
+T61	PROCEDURE 5536 5561	tratamiento neurohormonal
+T62	PROCEDURE 5672 5716	soporte mecánico circulatorio (ECMO + BCIAo)
+T63	PROCEDURE 5848 5873	tratamiento neurohormonal
+T64	PROCEDURE 3799 3845	tratamiento de soporte inotrópico y vasoactivo
+T65	PROCEDURE 3296 3319	Función renal, hepática
+T66	PROCEDURE 5295 5303	cultivos
+T67	PROCEDURE 3648 3662	monitorización
+T68	PROCEDURE 3322 3354	biomarcadores de daño miocárdico
+T69	PROCEDURE 1413 1422	Analítica
+T70	PROCEDURE 4373 4378	BCIAo
+T71	PROCEDURE 5703 5707	ECMO
+T72	PROCEDURE 5710 5715	BCIAo
+T73	SYMPTOM 163 178	síndrome febril
+T74	SYMPTOM 224 240	malestar general
+T75	SYMPTOM 242 269	artromialgias generalizadas
+T76	SYMPTOM 271 278	cefalea
+T77	SYMPTOM 281 294	epigastralgia
+T78	SYMPTOM 428 435	diarrea
+T79	SYMPTOM 512 583	dolor torácico de tipo continuo y de características pleuropericárdicas
+T80	SYMPTOM 758 767	febrícula
+T81	SYMPTOM 799 814	palidez cutánea
+T82	SYMPTOM 817 839	regular estado general
+T83	SYMPTOM 849 868	taquicardia rítmica
+T84	SYMPTOM 969 985	soplos cardiacos
+T85	SYMPTOM 987 1009	crepitantes pulmonares
+T86	SYMPTOM 1012 1041	edemas en miembros inferiores
+T87	SYMPTOM 1253 1291	elevación del ST en cara antero-septal
+T88	SYMPTOM 1324 1334	ICT normal
+T89	SYMPTOM 1345 1368	redistribución vascular
+T90	SYMPTOM 1928 1969	función sistólica moderadamente deprimida
+T91	SYMPTOM 1995 2040	Ventrículo derecho normal en tamaño y función
+T92	SYMPTOM 2239 2262	Hemocultivos: negativos
+T93	SYMPTOM 2264 2286	Urocultivos: negativos
+T94	SYMPTOM 2288 2332	Frotis faríngeo y exudado traqueal: negativo
+T95	SYMPTOM 2334 2348	ASLO: negativo
+T96	SYMPTOM 2526 2539	ritmo sinsual
+T97	SYMPTOM 2696 2740	ventrículo izquierdo de dimensiones normales
+T98	SYMPTOM 2778 2797	hipoquinesia global
+T99	SYMPTOM 3047 3087	Contractilidad global levemente reducida
+T100	SYMPTOM 3131 3166	aumento de señal en secuencias STIR
+T101	SYMPTOM 4115 4141	inestabilidad hemodinámica
+T102	SYMPTOM 1170 1189	taquicardia sinusal
+T103	SYMPTOM 2143 2168	vena cava inferior normal
+T104	SYMPTOM 2550 2559	QRS ancho
+T105	SYMPTOM 2872 2897	Ventrículo derecho normal
+T106	SYMPTOM 2982 2992	VCI normal
+T107	SYMPTOM 3116 3128	hipoquinesia
+T108	SYMPTOM 5781 5811	fracción de eyección deprimida
+T109	SYMPTOM 3100 3114	Adelgazamiento
+T110	SYMPTOM 4867 4896	fracción de eyección reducida
+T111	SYMPTOM 1400 1411	infiltrados
+T112	SYMPTOM 938 957	Adecuada saturación
+T113	SYMPTOM 1855 1923	ventrículo izquierdo moderadamente hipertrófico de aspecto edematoso
+T114	SYMPTOM 3169 3211	realce medioventricular anteroseptal basal
+T115	MEDICATION 3998 4015	metilprednisolona
+#1	AnnotatorNotes T27	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#2	AnnotatorNotes T52	 ECMO: oxigenación por membrana extracorpórea

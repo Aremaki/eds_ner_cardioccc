@@ -1,0 +1,125 @@
+T1	DISEASE 71 82	dislipémica
+T2	DISEASE 84 94	hipertensa
+T3	DISEASE 96 101	obesa
+T4	DISEASE 126 162	bloqueo auriculoventricular completo
+T5	DISEASE 164 167	BAV
+T6	DISEASE 170 198	insuficiencia venosa crónica
+T7	DISEASE 200 214	hipotiroidismo
+T8	DISEASE 217 234	espondiloartrosis
+T9	DISEASE 1646 1666	insuficiencia venosa
+T10	DISEASE 1670 1695	trombosis venosa profunda
+T11	DISEASE 2262 2300	bloqueo de rama derecha del haz de His
+T12	DISEASE 3352 3372	insuficiencia mitral
+T13	DISEASE 3499 3520	insuficiencia aórtica
+T14	DISEASE 3522 3525	IAo
+T15	DISEASE 3999 4011	hipertensión
+T16	DISEASE 4609 4621	hipertensión
+T17	DISEASE 5158 5208	Infarto de miocardio sin elevación del segmento ST
+T18	DISEASE 5278 5302	Miocardiopatía de estrés
+T19	DISEASE 5304 5326	síndrome de tako-tsubo
+T20	DISEASE 2302 2308	BCRDHH
+T21	DISEASE 5253 5276	Emergencia hipertensiva
+T22	DISEASE 5210 5217	IAMSEST
+T23	DISEASE 3374 3376	IM
+T24	DISEASE 4184 4224	angor de reposo ni de ligeros esfuerzos,
+T25	DISEASE 3180 3282	válvula mitral presentaba engrosamiento discreto de los velos valvulares, con calcificación del anillo
+T26	DISEASE 3576 3654	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T27	DISEASE 3795 3802	derrame
+T28	DISEASE 2312 2318	HMAIHH
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 349 358	palpación
+T31	PROCEDURE 1193 1220	auscultación cardiopulmonar
+T32	PROCEDURE 1285 1306	exploración abdominal
+T33	PROCEDURE 1725 1744	analítica de sangre
+T34	PROCEDURE 1931 1936	iones
+T35	PROCEDURE 1948 1959	coagulación
+T36	PROCEDURE 1971 2016	radiografía anteroposterior de tórax portátil
+T37	PROCEDURE 2190 2208	electrocardiograma
+T38	PROCEDURE 2210 2213	ECG
+T39	PROCEDURE 2437 2440	ECG
+T40	PROCEDURE 2578 2581	ECG
+T41	PROCEDURE 2597 2621	tratamiento antianginoso
+T42	PROCEDURE 2626 2654	ecocardiograma transtorácico
+T43	PROCEDURE 4039 4054	betabloqueantes
+T44	PROCEDURE 4253 4264	cateterismo
+T45	PROCEDURE 4638 4669	tratamiento con betabloqueantes
+T46	PROCEDURE 4886 4906	doble antiagregación
+T47	PROCEDURE 4908 4923	betabloqueantes
+T48	PROCEDURE 4934 4943	estatinas
+T49	PROCEDURE 5021 5036	ecocardiografía
+T50	PROCEDURE 1852 1862	bioquímica
+T51	PROCEDURE 1909 1922	función renal
+T52	PROCEDURE 2555 2575	seriación enzimática
+T53	PROCEDURE 1361 1394	palpación superficial ni profunda
+T54	PROCEDURE 4925 4931	ARA-II
+T55	PROCEDURE 107 121	marcapasos DDD
+T56	PROCEDURE 4123 4150	perfusión de nitroglicerina
+T57	PROCEDURE 4848 4884	recomendaciones higiénico-dietéticas
+T58	SYMPTOM 290 319	dolor centrotorácico opresivo
+T59	SYMPTOM 435 453	cortejo vegetativo
+T60	SYMPTOM 549 557	ortopnea
+T61	SYMPTOM 559 586	disnea paroxística nocturna
+T62	SYMPTOM 588 601	palpitaciones
+T63	SYMPTOM 603 630	disnea de reposo o esfuerzo
+T64	SYMPTOM 632 649	edemas maleolares
+T65	SYMPTOM 653 684	reducción del ritmo de diuresis
+T66	SYMPTOM 942 949	afebril
+T67	SYMPTOM 985 995	Consciente
+T68	SYMPTOM 998 1007	orientada
+T69	SYMPTOM 1009 1028	buen estado general
+T70	SYMPTOM 1030 1048	eupnéica en reposo
+T71	SYMPTOM 1050 1064	normohidratada
+T72	SYMPTOM 1066 1080	normocoloreada
+T73	SYMPTOM 1083 1098	normoperfundida
+T74	SYMPTOM 1104 1150	pulsos carotídeos latían rítmicos y simétricos
+T75	SYMPTOM 1167 1188	ingurgitación yugular
+T76	SYMPTOM 1193 1232	auscultación cardiopulmonar era rítmica
+T77	SYMPTOM 1239 1245	soplos
+T78	SYMPTOM 1251 1280	murmullo vesicular conservado
+T79	SYMPTOM 1317 1370	abdomen blando y depresible, sin dolor a la palpación
+T80	SYMPTOM 1413 1418	masas
+T81	SYMPTOM 1422 1430	megalias
+T82	SYMPTOM 1432 1455	timpanismo generalizado
+T83	SYMPTOM 1460 1471	peritonismo
+T84	SYMPTOM 1474 1502	ruidos hidroaéreos positivos
+T85	SYMPTOM 1545 1562	edemas maleolares
+T86	SYMPTOM 1568 1627	pulsos pedios y tibiales posteriores presentes y simétricos
+T87	SYMPTOM 1811 1830	leucocitos normales
+T88	SYMPTOM 1832 1850	plaquetas normales
+T89	SYMPTOM 1852 1869	bioquímica normal
+T90	SYMPTOM 1909 1929	función renal normal
+T91	SYMPTOM 1931 1945	iones normales
+T92	SYMPTOM 1948 1966	coagulación normal
+T93	SYMPTOM 2027 2058	índice cardiotorácico aumentado
+T94	SYMPTOM 2064 2103	alteraciones de la trama broncovascular
+T95	SYMPTOM 2105 2145	infiltrados alveolares ni intersticiales
+T96	SYMPTOM 2225 2238	ritmo sinusal
+T97	SYMPTOM 2340 2401	ondas T isodifásicas de V3-V4 y negativas simétricas de V5-V6
+T98	SYMPTOM 2667 2722	ventrículo izquierdo en el límite alto de la normalidad
+T99	SYMPTOM 2863 2911	patrón diastólico de alteración de la relajación
+T100	SYMPTOM 2914 2955	función sistólica moderadamente deprimida
+T101	SYMPTOM 3058 3082	función sistólica normal
+T102	SYMPTOM 3576 3618	Válvula tricúspide morfológicamente normal
+T103	SYMPTOM 4225 4238	palpitaciones
+T104	SYMPTOM 4242 4248	disnea
+T105	SYMPTOM 4340 4381	función sistólica moderadamente deprimida
+T106	SYMPTOM 5183 5208	elevación del segmento ST
+T107	SYMPTOM 1871 1881	CPK normal
+T108	SYMPTOM 2746 2791	aquinesia anteroapical, inferoapical y apical
+T109	SYMPTOM 3117 3175	aurículas derecha e izquierda presentaban un tamaño normal
+T110	SYMPTOM 3739 3789	pericardio presentaba grosor y refringencia normal
+T111	SYMPTOM 3809 3853	vena cava inferior no se encontraba dilatada
+T112	SYMPTOM 3953 3978	cardiológicamente estable
+T113	SYMPTOM 5001 5013	asintomática
+T114	SYMPTOM 5223 5251	arterias coronarias normales
+T115	SYMPTOM 4394 4426	arterias coronarias sin lesiones
+T116	SYMPTOM 4469 4503	estabilidad clínica y hemodinámica
+T117	SYMPTOM 2991 3052	ventrículo derecho no se encontraba dilatado ni hipertrofiado
+T118	SYMPTOM 4288 4334	disquinesia anteroapical y del casquete apical
+T119	SYMPTOM 4576 4588	asintomática
+T120	MEDICATION 4056 4113	inhibidores de la enzima de conversión de la angiotensina
+T121	MEDICATION 4672 4718	antagonista del receptor de la angiotensina II
+T122	MEDICATION 4136 4150	nitroglicerina
+T123	MEDICATION 4115 4119	IECA
+T124	MEDICATION 4720 4725	ARAII
+#1	AnnotatorNotes T23	  insuficiencia mitral

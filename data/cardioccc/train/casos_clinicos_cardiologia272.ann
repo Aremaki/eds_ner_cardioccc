@@ -1,0 +1,194 @@
+T1	DISEASE 120 129	exfumador
+T2	DISEASE 131 152	hipertensión arterial
+T3	DISEASE 154 157	HTA
+T4	DISEASE 160 179	hipercolesterolemia
+T5	DISEASE 181 205	diabetes mellitus tipo 2
+T6	DISEASE 220 253	Síndrome de apnea-hipopnea sgrave
+T7	DISEASE 323 346	Arteriopatía periférica
+T8	DISEASE 394 417	estenosis aórtica grave
+T9	DISEASE 1235 1293	hipertrofia de ventrículo izquierdo (HVI) concéntrica leve
+T10	DISEASE 1272 1275	HVI
+T11	DISEASE 1385 1427	insuficiencia mitral leve-moderada central
+T12	DISEASE 1495 1514	derrame pericárdico
+T13	DISEASE 1552 1576	enfermedades infecciosas
+T14	DISEASE 2231 2258	bloqueo auriculoventricular
+T15	DISEASE 2852 2854	IC
+T16	DISEASE 2889 2916	bloqueo auriculoventricular
+T17	DISEASE 3094 3102	HVI leve
+T18	DISEASE 3619 3640	regurgitación aórtica
+T19	DISEASE 3769 3805	Insuficiencia tricuspídea (IT) grave
+T20	DISEASE 3838 3857	derrame pericárdico
+T21	DISEASE 3897 3917	endocarditis aórtica
+T22	DISEASE 4024 4206	Enfermedad arterial coronaria grave de dos vasos: oclusión de descendente anterior (DA) medio-distal, lesión suboclusiva en circunfleja (Cx) distal, oclusión de descendente posterior
+T23	DISEASE 4504 4511	absceso
+T24	DISEASE 4575 4594	absceso mitraórtico
+T25	DISEASE 4643 4651	IT grave
+T26	DISEASE 4697 4720	verrugas endocardíticas
+T27	DISEASE 4748 4783	insuficiencia mitral moderada-grave
+T28	DISEASE 5803 5806	BAV
+T29	DISEASE 6066 6101	endocarditis sobre prótesis aórtica
+T30	DISEASE 6904 6959	endocarditis infecciosa sobre válvula aórtica protésica
+T31	DISEASE 7029 7032	BAV
+T32	DISEASE 7034 7064	embolismos coronarios sépticos
+T33	DISEASE 7067 7093	shock cardiogénico/séptico
+T34	DISEASE 7363 7382	fracaso renal agudo
+T35	DISEASE 7434 7466	insuficiencia respiratoria aguda
+T36	DISEASE 7468 7533	neumonía asociada a ventilación mecánica por bacilo gram negativo
+T37	DISEASE 7535 7575	traqueobronquitis aguda por A. fumigatus
+T38	DISEASE 7577 7601	BAV completo persistente
+T39	DISEASE 7603 7669	bacteriemia por C. parapsilopsis asociada a catéter venoso central
+T40	DISEASE 7671 7690	hepatitis isquémica
+T41	DISEASE 7692 7707	íleo paralítico
+T42	DISEASE 7709 7737	encefalopatía multifactorial
+T43	DISEASE 7767 7774	hipoxia
+T44	DISEASE 7777 7836	daño tronco-diencefálico significativo con coma persistente
+T45	DISEASE 7871 7962	Endocarditis precoz sobre válvula aórtica protésica mecánica por Staphylococcus epidermidis
+T46	DISEASE 7964 8028	Absceso de unión mitroaórtica con extensión a válvula tricúspide
+T47	DISEASE 8030 8070	Insuficiencia mitral y tricúspide graves
+T48	DISEASE 8072 8099	Bloqueo auriculoventricular
+T49	DISEASE 8105 8161	Infarto agudo de miocardio con elevación del ST inferior
+T50	DISEASE 8163 8241	Embolismos coronarios sépticos en circunfleja dominante y descendente anterior
+T51	DISEASE 8300 8332	Shock mixto cardiogénico/séptico
+T52	DISEASE 3686 3767	Ventrículo derecho ligeramente dilatado, hipocinético, con disfunción global leve
+T53	DISEASE 5448 5459	hipotensión
+T54	DISEASE 6372 6383	hipotensión
+T55	DISEASE 1441 1452	AI dilatada
+T56	DISEASE 3289 3368	Válvula mitral engrosada y esclerosa con regurgitación mitral de carácter grave
+T57	DISEASE 3796 3798	IT
+T58	DISEASE 3947 3987	Regurgitación mitral y tricúspide graves
+T59	DISEASE 6975 7027	absceso mitroaórtico, extensión a válvula tricúspide
+T60	DISEASE 5774 5819	bloqueo auriculoventricular (BAV) de 2o grado
+T61	DISEASE 2290 2307	hipertrofia de VI
+T62	DISEASE 3582 3605	injertos endocardíticos
+T63	DISEASE 4385 4460	injerto endocardítico hipermóvil que protruye a TSVI sobre prótesis aórtica
+T64	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 257 314	tratamiento con presión positiva continua en la vía aérea
+T66	PROCEDURE 316 320	CPAP
+T67	PROCEDURE 348 389	Implantación de prótesis aórtica mecánica
+T68	PROCEDURE 432 446	Ecocardiograma
+T69	PROCEDURE 491 524	prótesis aórtica normofuncionante
+T70	PROCEDURE 1087 1116	cirugía sobre válvula aórtica
+T71	PROCEDURE 1203 1218	ecocardioscopia
+T72	PROCEDURE 1619 1637	Exploración física
+T73	PROCEDURE 1765 1777	sueroterapia
+T74	PROCEDURE 1953 1974	Auscultación cardiaca
+T75	PROCEDURE 2035 2056	Auscultación pulmonar
+T76	PROCEDURE 2168 2186	Electrocardiograma
+T77	PROCEDURE 2188 2191	ECG
+T78	PROCEDURE 2804 2824	Radiografía de tórax
+T79	PROCEDURE 2856 2859	ECG
+T80	PROCEDURE 3019 3047	Ecocardiograma transtorácico
+T81	PROCEDURE 3989 4000	Cateterismo
+T82	PROCEDURE 4219 4229	aspiración
+T83	PROCEDURE 4232 4272	angioplastia con balón en DA y Cx distal
+T84	PROCEDURE 4343 4372	Ecocardiograma transesofágico
+T85	PROCEDURE 4653 4681	Se explora la válvula mitral
+T86	PROCEDURE 5086 5098	hemocultivos
+T87	PROCEDURE 5173 5185	hemocultivos
+T88	PROCEDURE 5187 5189	HC
+T89	PROCEDURE 5213 5227	antibioterapia
+T90	PROCEDURE 5481 5494	fluidoterapia
+T91	PROCEDURE 5703 5717	ecocardiograma
+T92	PROCEDURE 5751 5754	ECG
+T93	PROCEDURE 6029 6057	ecocardiograma transtorácico
+T94	PROCEDURE 6233 6244	cateterismo
+T95	PROCEDURE 6264 6281	revascularización
+T96	PROCEDURE 6463 6492	ecocardiograma transesofágico
+T97	PROCEDURE 6494 6497	ETE
+T98	PROCEDURE 6573 6576	ETE
+T99	PROCEDURE 6590 6612	intubación orotraqueal
+T100	PROCEDURE 6615 6655	conexión a ventilación mecánica invasiva
+T101	PROCEDURE 6811 6858	se implanta marcapasos transyugular transitorio
+T102	PROCEDURE 7104 7120	cirugía cardiaca
+T103	PROCEDURE 7148 7196	recambio valvular aórtico por prótesis biológica
+T104	PROCEDURE 7198 7249	recambio valvular tricúspide por prótesis biológica
+T105	PROCEDURE 7252 7279	colocación de anillo mitral
+T106	PROCEDURE 7395 7432	hemodiafiltración venovenosa continua
+T107	PROCEDURE 7488 7508	ventilación mecánica
+T108	PROCEDURE 8243 8259	Tromboaspiración
+T109	PROCEDURE 8262 8298	angioplastia con balón sobre DA y Cx
+T110	PROCEDURE 8334 8408	Cirugía emergente de recambio valvular aórtico, tricúspide y anillo mitral
+T111	PROCEDURE 1580 1600	tratamiento empírico
+T112	PROCEDURE 5262 5292	tratamiento empírico de fiebre
+T113	PROCEDURE 5155 5185	se extraen nuevos hemocultivos
+T114	PROCEDURE 2309 2318	Analítica
+T115	PROCEDURE 6676 6715	perfusión de noradrenalina y dobutamina
+T116	PROCEDURE 206 218	insulinizado
+T117	SYMPTOM 456 488	función biventricular conservada
+T118	SYMPTOM 865 881	malestar general
+T119	SYMPTOM 883 889	fiebre
+T120	SYMPTOM 894 902	tiritona
+T121	SYMPTOM 905 932	disnea de mínimos esfuerzos
+T122	SYMPTOM 959 962	Tos
+T123	SYMPTOM 967 980	expectoración
+T124	SYMPTOM 1045 1059	dolor torácico
+T125	SYMPTOM 1298 1348	función sistólica global y segmentaria conservadas
+T126	SYMPTOM 1888 1896	Sudoroso
+T127	SYMPTOM 1898 1913	bien perfundido
+T128	SYMPTOM 1915 1923	eupneico
+T129	SYMPTOM 1925 1951	Leve ingurgitación yugular
+T130	SYMPTOM 1976 1983	rítmico
+T131	SYMPTOM 1985 2008	soplo sistólico aórtico
+T132	SYMPTOM 2016 2033	ruidos protésicos
+T133	SYMPTOM 2066 2086	crepitantes en bases
+T134	SYMPTOM 2088 2102	Abdomen normal
+T135	SYMPTOM 2108 2141	edemas en extremidades inferiores
+T136	SYMPTOM 2207 2220	ritmo sinusal
+T137	SYMPTOM 2871 2884	ritmo sinusal
+T138	SYMPTOM 2941 2990	Elevación del ST en cara inferior (II,III, y aVF)
+T139	SYMPTOM 2993 3017	descenso del ST en I-aVL
+T140	SYMPTOM 3057 3089	ventrículo izquierdo no dilatado
+T141	SYMPTOM 3427 3453	rigidez del velo posterior
+T142	SYMPTOM 5020 5026	fiebre
+T143	SYMPTOM 5043 5051	tiritona
+T144	SYMPTOM 5286 5292	fiebre
+T145	SYMPTOM 5329 5335	fiebre
+T146	SYMPTOM 5358 5390	empeoramiento del estado general
+T147	SYMPTOM 5448 5459	hipotensión
+T148	SYMPTOM 5496 5507	bradicardia
+T149	SYMPTOM 5524 5530	disnea
+T150	SYMPTOM 5558 5587	crecimiento de S. epidermidis
+T151	SYMPTOM 5834 5877	elevación del ST en derivaciones inferiores
+T152	SYMPTOM 5957 5976	molestia precordial
+T153	SYMPTOM 6001 6007	disnea
+T154	SYMPTOM 6318 6324	disnea
+T155	SYMPTOM 6344 6370	inestabilidad hemodinámica
+T156	SYMPTOM 6372 6383	hipotensión
+T157	SYMPTOM 6522 6528	disnea
+T158	SYMPTOM 6759 6772	inestabilidad
+T159	SYMPTOM 6788 6799	bradicardia
+T160	SYMPTOM 7849 7856	fallece
+T161	SYMPTOM 8136 8161	elevación del ST inferior
+T162	SYMPTOM 6104 6149	alteraciones de la contractilidad segmentaria
+T163	SYMPTOM 1350 1383	prótesis aórtica normofuncionante
+T164	SYMPTOM 1454 1481	cavidades derechas normales
+T165	SYMPTOM 3140 3151	Hipocinesia
+T166	SYMPTOM 3686 3739	Ventrículo derecho ligeramente dilatado, hipocinético
+T167	SYMPTOM 3919 3945	Acinesia inferior y apical
+T168	SYMPTOM 4465 4490	engrosamiento periaórtico
+T169	SYMPTOM 4844 4895	FEVI global está en el límite bajo de la normalidad
+T170	SYMPTOM 4900 4959	hipociesia de la cara inferior, posterior y septo posterior
+T171	SYMPTOM 5882 5913	descenso del ST en cara lateral
+T172	SYMPTOM 8410 8416	Muerte
+T173	SYMPTOM 3415 3422	tenting
+T174	SYMPTOM 3455 3505	Prótesis mecánica aórtica con imágenes excrecentes
+T175	SYMPTOM 4002 4022	dominancia izquierda
+T176	SYMPTOM 4800 4807	tenting
+T177	SYMPTOM 4520 4552	imagen móvil en aurícula derecha
+T178	MEDICATION 539 549	ivabradina
+T179	MEDICATION 566 576	furosemida
+T180	MEDICATION 593 603	bisoprolol
+T181	MEDICATION 621 634	atorvastatina
+T182	MEDICATION 651 661	metformina
+T183	MEDICATION 679 685	Lantus
+T184	MEDICATION 703 712	novorapid
+T185	MEDICATION 734 756	ácido acetilsalicílico
+T186	MEDICATION 774 786	acenocumarol
+T187	MEDICATION 1605 1616	ceftriaxona
+T188	MEDICATION 1786 1803	suero fisiológico
+T189	MEDICATION 5243 5256	levofloxacino
+T190	MEDICATION 6689 6702	noradrenalina
+T191	MEDICATION 6705 6715	dobutamina
+T192	MEDICATION 5230 5241	vancomicina
+#1	AnnotatorNotes T10	  hipertrofia ventriculo izquierdo
+#2	AnnotatorNotes T57	  insuficiencia tricuspide

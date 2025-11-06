@@ -1,0 +1,113 @@
+T1	ENFERMEDAD 112 136	hipotiroidismo yatrógeno
+T2	ENFERMEDAD 160 178	cáncer de tiroides
+T3	ENFERMEDAD 1092 1110	trombosis profunda
+T4	ENFERMEDAD 1198 1209	anemia leve
+T5	ENFERMEDAD 1930 1945	derrame pleural
+T6	ENFERMEDAD 2425 2445	dilatación auricular
+T7	ENFERMEDAD 2626 2651	insuficiencia tricuspídea
+T8	ENFERMEDAD 2713 2732	derrame pericárdico
+T9	ENFERMEDAD 3295 3332	extrasistolia ventricular polimórfica
+T10	ENFERMEDAD 3335 3394	taquicardias ventriculares polimórficas (TVP) no sostenidas
+T11	ENFERMEDAD 3376 3379	TVP
+T12	ENFERMEDAD 3627 3685	taquicardia ventricular sostenida tipo torsades de pointes
+T13	ENFERMEDAD 3803 3820	TVP no sostenidas
+T14	ENFERMEDAD 3921 3942	hipertensión arterial
+T15	ENFERMEDAD 4189 4208	bradicardia sinusal
+T16	ENFERMEDAD 4441 4471	síndrome de QT largo congénito
+T17	ENFERMEDAD 4893 4964	síndrome de QT largo tipo 1 con patrón de herencia autosómico dominante
+T18	ENFERMEDAD 5025 5052	Síndrome de QT Largo tipo 1
+T19	ENFERMEDAD 5161 5184	cardiopatía estructural
+T20	ENFERMEDAD 5113 5147	Parada cardiaca reanimada por TVPS
+T21	ENFERMEDAD 5091 5099	Síncopes
+T22	ENFERMEDAD 4088 4097	arrítmica
+T23	ENFERMEDAD 4474 4528	parada cardiorrespiratoria reanimada por TVP sostenida
+T24	ENFERMEDAD 995 1004	ascitisis
+T25	ENFERMEDAD 2886 2905	torsades de pointes
+T26	ENFERMEDAD 2787 2823	tripletes ventriculares polimórficos
+T27	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T28	PROCEDIMIENTO 142 155	tiroidectomía
+T29	PROCEDIMIENTO 640 658	exploración física
+T30	PROCEDIMIENTO 850 877	auscultación cardiopulmonar
+T31	PROCEDIMIENTO 1115 1138	exploración neurológica
+T32	PROCEDIMIENTO 1239 1268	radiografía de tórax portátil
+T33	PROCEDIMIENTO 1271 1289	electrocardiograma
+T34	PROCEDIMIENTO 1352 1379	ecocardiograma trastorácico
+T35	PROCEDIMIENTO 1804 1820	Tóxicos en orina
+T36	PROCEDIMIENTO 1833 1848	perfil tiroideo
+T37	PROCEDIMIENTO 1857 1886	Radiografía de tórax portátil
+T38	PROCEDIMIENTO 1962 1965	ECG
+T39	PROCEDIMIENTO 2094 2122	Ecocardiograma transtorácico
+T40	PROCEDIMIENTO 2734 2737	ECG
+T41	PROCEDIMIENTO 2871 2881	telemetría
+T42	PROCEDIMIENTO 2908 2934	cardioversión a 100 julios
+T43	PROCEDIMIENTO 2936 2956	Radiografía de tórax
+T44	PROCEDIMIENTO 2962 3040	desfibrilador automático implantable bicameral con normoposición de electrodos
+T45	PROCEDIMIENTO 3042 3045	ECG
+T46	PROCEDIMIENTO 3160 3163	ECG
+T47	PROCEDIMIENTO 3728 3741	cardioversión
+T48	PROCEDIMIENTO 3853 3861	sedación
+T49	PROCEDIMIENTO 3968 3990	sedoanalgesia profunda
+T50	PROCEDIMIENTO 3993 4015	intubación orotraqueal
+T51	PROCEDIMIENTO 4030 4045	betabloqueantes
+T52	PROCEDIMIENTO 4244 4273	detección de tóxicos en orina
+T53	PROCEDIMIENTO 4293 4308	perfil tiroideo
+T54	PROCEDIMIENTO 4540 4597	implantar desfibrilador automático endovascular bicameral
+T55	PROCEDIMIENTO 5200 5218	Implante de DAI DR
+T56	PROCEDIMIENTO 3187 3217	tratamiento con betabloqueante
+T57	PROCEDIMIENTO 4712 4726	betabloqueante
+T58	PROCEDIMIENTO 1634 1645	coagulación
+T59	PROCEDIMIENTO 1483 1497	monitorización
+T60	PROCEDIMIENTO 4764 4806	se extrajo analítica para estudio genético
+T61	PROCEDIMIENTO 1524 1533	Analítica
+T62	SINTOMA 339 362	pérdida de conocimiento
+T63	SINTOMA 500 518	cortejo vegetativo
+T64	SINTOMA 592 598	disnea
+T65	SINTOMA 602 615	palpitaciones
+T66	SINTOMA 619 633	dolor torácico
+T67	SINTOMA 678 688	consciente
+T68	SINTOMA 690 699	orientada
+T69	SINTOMA 701 715	normocoloreada
+T70	SINTOMA 717 725	eupneica
+T71	SINTOMA 731 752	ingurgitación yugular
+T72	SINTOMA 836 843	afebril
+T73	SINTOMA 889 918	murmullo vesicular conservado
+T74	SINTOMA 923 937	tonos rítmicos
+T75	SINTOMA 942 948	soplos
+T76	SINTOMA 973 981	megalias
+T77	SINTOMA 1050 1077	pulsos distales conservados
+T78	SINTOMA 1115 1149	exploración neurológica fue normal
+T79	SINTOMA 1634 1652	coagulación normal
+T80	SINTOMA 1804 1830	Tóxicos en orina negativos
+T81	SINTOMA 1833 1855	perfil tiroideo normal
+T82	SINTOMA 1967 1980	ritmo sinusal
+T83	SINTOMA 2029 2037	complejo
+T84	SINTOMA 2038 2050	QRS normales
+T85	SINTOMA 2132 2164	ventrículo izquierdo no dilatado
+T86	SINTOMA 2214 2229	FEVI conservada
+T87	SINTOMA 2283 2308	función diastólica normal
+T88	SINTOMA 2313 2337	patrón diastólico normal
+T89	SINTOMA 2362 2411	Válvula mitral de estructura y función conservada
+T90	SINTOMA 2549 2596	función sistólica del ventrículo derecho normal
+T91	SINTOMA 2739 2752	ritmo sinusal
+T92	SINTOMA 2757 2784	intervalo QT muy prolongado
+T93	SINTOMA 3117 3143	reducción del intervalo QT
+T94	SINTOMA 3691 3714	pérdida de conocimiento
+T95	SINTOMA 3896 3919	dificultad respiratoria
+T96	SINTOMA 4825 4866	mutación en el gen KCNQ1 en heterocigosis
+T97	SINTOMA 3446 3459	ritmo sinusal
+T98	SINTOMA 2234 2280	alteraciones segmentarias de la contractilidad
+T99	SINTOMA 2447 2471	Raíz aórtica no dilatada
+T100	SINTOMA 2473 2514	válvula aórtica trivalva normofuncionante
+T101	SINTOMA 2653 2683	vena cava inferior no dilatada
+T102	SINTOMA 5054 5089	Mutación patogénica en el gen KCNQ1
+T103	SINTOMA 2516 2547	Cavidades derechas no dilatadas
+T104	SINTOMA 2002 2012	eje normal
+T105	SINTOMA 1949 1960	infiltrados
+T106	SINTOMA 1010 1045	miembros inferiores no había edemas
+T107	SINTOMA 2838 2858	fenómeno "R sobre T"
+T108	FARMACO 207 219	levotiroxina
+T109	FARMACO 3485 3493	magnesio
+T110	FARMACO 4733 4743	bisoprolol
+#1	AnnotatorNotes T11	 taquicardia ventricular poliforma
+#2	AnnotatorNotes T13	 taquicardia ventricular poliforma
+#3	AnnotatorNotes T20	 TVPS: taquicardia ventricular polifórfica sostenida

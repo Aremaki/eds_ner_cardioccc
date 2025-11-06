@@ -1,0 +1,156 @@
+T1	DISEASE 70 93	alergias medicamentosas
+T2	DISEASE 147 166	diabetes mellitus 2
+T3	DISEASE 168 171	DM2
+T4	DISEASE 177 198	hipertensión arterial
+T5	DISEASE 202 212	dislipemia
+T6	DISEASE 241 251	exfumadora
+T7	DISEASE 265 273	fumadora
+T8	DISEASE 326 334	bebedora
+T9	DISEASE 593 603	exfumadora
+T10	DISEASE 1275 1324	bloqueo completo de rama izquierda del haz de His
+T11	DISEASE 1326 1332	BCRIHH
+T12	DISEASE 1607 1614	síncope
+T13	DISEASE 2157 2182	trombosis venosa profunda
+T14	DISEASE 2345 2351	BCRIHH
+T15	DISEASE 4283 4302	derrame pericárdico
+T16	DISEASE 4321 4368	miocardiopatía dilatada con disfunción moderada
+T17	DISEASE 4481 4501	Insuficiencia mitral
+T18	DISEASE 5431 5449	bloqueo de rama HH
+T19	DISEASE 5544 5572	insuficiencia mitral central
+T20	DISEASE 6030 6076	miocardiopatía dilatada izquierda no isquémica
+T21	DISEASE 6248 6270	secuela de miocarditis
+T22	DISEASE 6272 6292	Insuficiencia mitral
+T23	DISEASE 6418 6475	miocardiopatía dilatada con las alteraciones segmentarias
+T24	DISEASE 6591 6611	enfermedad coronaria
+T25	DISEASE 6707 6729	disfunción ventricular
+T26	DISEASE 6843 6854	miocarditis
+T27	DISEASE 7782 7804	insuficiencia cardiaca
+T28	DISEASE 8261 8319	Miocardiopatía dilatada idiopática con disfunción moderada
+T29	DISEASE 8361 8380	miocarditis antigua
+T30	DISEASE 8449 8452	DM2
+T31	DISEASE 224 239	Hábitos tóxicos
+T32	DISEASE 4101 4103	IT
+T33	DISEASE 3312 3341	Ventrículo izquierdo dilatado
+T34	DISEASE 5165 5194	Ventrículo izquierdo dilatado
+T35	DISEASE 2871 2886	daño miocárdico
+T36	DISEASE 355 363	bebedora
+T37	DISEASE 1615 1625	presíncope
+T38	DISEASE 3047 3093	aurícula izquierda (AI) moderadamente dilatada
+T39	DISEASE 3129 3209	Válvula mitral de morfología normal, con fibrocalcificación del anillo posterior
+T40	DISEASE 4446 4457	AI dilatada
+T41	DISEASE 4815 4846	defectos septales interatriales
+T42	DISEASE 4423 4444	Disfunción diastólica
+T43	DISEASE 4503 4505	IM
+T44	DISEASE 4850 4895	alteraciones anatómicas en válvulas cardiacas
+T45	DISEASE 6089 6118	disfunción sistólica moderada
+T46	DISEASE 4375 4408	alteraciones de la contractilidad
+T47	DISEASE 3267 3288	insuficiencia central
+T48	PROCEDURE 475 485	conización
+T49	PROCEDURE 1247 1265	electrocardiograma
+T50	PROCEDURE 1365 1375	ergometría
+T51	PROCEDURE 1628 1646	Exploración física
+T52	PROCEDURE 1854 1875	Auscultación cardiaca
+T53	PROCEDURE 1936 1961	Auscultación Respiratoria
+T54	PROCEDURE 2239 2257	Electrocardiograma
+T55	PROCEDURE 2259 2262	ECG
+T56	PROCEDURE 2400 2420	Radiografía de tórax
+T57	PROCEDURE 2639 2654	Perfil lipídico
+T58	PROCEDURE 2758 2773	Perfil hepático
+T59	PROCEDURE 2782 2800	Hormonas tiroideas
+T60	PROCEDURE 2924 2933	Hemograma
+T61	PROCEDURE 3010 3021	Coagulación
+T62	PROCEDURE 3030 3045	Ecocardiografía
+T63	PROCEDURE 4675 4718	Resonancia magnética nuclear (RMN) cardiaca
+T64	PROCEDURE 5481 5484	ECG
+T65	PROCEDURE 6373 6388	ecocardiografía
+T66	PROCEDURE 6541 6556	coronariografía
+T67	PROCEDURE 6654 6673	resonancia cardiaca
+T68	PROCEDURE 6951 6982	tratamiento con betabloqueantes
+T69	PROCEDURE 6984 7037	inhibidores de la enzima convertidora de angiotensina
+T70	PROCEDURE 7047 7100	antagonistas de los receptores de mineralocorticoides
+T71	PROCEDURE 7354 7379	tratamiento antidiabético
+T72	PROCEDURE 7886 7911	fármacos hipoglucemiantes
+T73	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T74	PROCEDURE 6682 6729	estudio etiológico de la disfunción ventricular
+T75	PROCEDURE 2857 2886	marcadores de daño miocárdico
+T76	PROCEDURE 1915 1927	se auscultan
+T77	PROCEDURE 4705 4708	RMN
+T78	PROCEDURE 7039 7043	IECA
+T79	PROCEDURE 7102 7105	ARM
+T80	PROCEDURE 2535 2544	Analítica
+T81	PROCEDURE 4567 4605	Coronariografía: acceso radial derecho
+T82	PROCEDURE 447 473	Intervenciones quirúrgicas
+T83	PROCEDURE 8143 8160	control analítico
+T84	PROCEDURE 2193 2204	exploración
+T85	PROCEDURE 6892 6914	tratamiento deplectivo
+T86	PROCEDURE 5725 5754	secuencias de miocardio negro
+T87	SYMPTOM 705 728	opresión centrotorácica
+T88	SYMPTOM 756 762	disnea
+T89	SYMPTOM 768 786	cortejo vegetativo
+T90	SYMPTOM 1432 1440	ortopnea
+T91	SYMPTOM 1456 1483	disnea paroxística nocturna
+T92	SYMPTOM 1514 1532	edemas periféricos
+T93	SYMPTOM 1565 1581	ganancia de peso
+T94	SYMPTOM 1647 1666	Buen estado general
+T95	SYMPTOM 1697 1707	consciente
+T96	SYMPTOM 1815 1822	Afebril
+T97	SYMPTOM 1877 1910	tonos rítmicos a buena frecuencia
+T98	SYMPTOM 1928 1934	soplos
+T99	SYMPTOM 1963 1986	buen murmullo vesicular
+T100	SYMPTOM 1991 2023	ruidos patológicos sobreañadidos
+T101	SYMPTOM 2025 2052	Abdomen: blando, depresible
+T102	SYMPTOM 2058 2073	visceromegalias
+T103	SYMPTOM 2265 2278	ritmo sinusal
+T104	SYMPTOM 2300 2310	Eje normal
+T105	SYMPTOM 2422 2466	índice cardiotorácico no aumentado de tamaño
+T106	SYMPTOM 2484 2505	condensación pulmonar
+T107	SYMPTOM 2758 2780	Perfil hepático normal
+T108	SYMPTOM 2782 2809	Hormonas tiroideas normales
+T109	SYMPTOM 3010 3028	Coagulación normal
+T110	SYMPTOM 3129 3164	Válvula mitral de morfología normal
+T111	SYMPTOM 4044 4072	función sistólica conservada
+T112	SYMPTOM 4530 4565	VD con función sistólica conservada
+T113	SYMPTOM 4897 4946	Drenajes venosos sistémicos y pulmonares normales
+T114	SYMPTOM 5025 5055	Ventrículo derecho no dilatado
+T115	SYMPTOM 5077 5119	alteraciones en contractilidad segmentaria
+T116	SYMPTOM 5125 5153	función sistólica conservada
+T117	SYMPTOM 5486 5527	Función sistólica moderadamente deprimida
+T118	SYMPTOM 6166 6202	Patrón de realce tardío no coronario
+T119	SYMPTOM 1485 1488	DPN
+T120	SYMPTOM 1536 1555	recorte de diuresis
+T121	SYMPTOM 2312 2321	QRS ancho
+T122	SYMPTOM 2353 2398	Alteraciones secundarias de la repolarización
+T123	SYMPTOM 2507 2533	Senos costofrénicos libres
+T124	SYMPTOM 3977 4024	Ventrículo derecho (VD) de dimensiones normales
+T125	SYMPTOM 4207 4243	Vena cava inferior (VCI) no dilatada
+T126	SYMPTOM 4607 4653	Arterias coronarias angiográficamente normales
+T127	SYMPTOM 5349 5416	Movimiento disincrónico del septo respecto a pared no septal del VI
+T128	SYMPTOM 6131 6164	Movimiento disincrónico del septo
+T129	SYMPTOM 8382 8414	Arterias coronarias sin lesiones
+T130	SYMPTOM 1740 1775	Clínica y hemodinámicamente estable
+T131	SYMPTOM 2105 2144	Miembros inferiores: ausencia de edemas
+T132	SYMPTOM 3858 3917	Válvula aórtica trivalva, con apertura y cierre conservados
+T133	SYMPTOM 3507 3569	aquinesia de segmentos basal y medio del septo y cara inferior
+T134	SYMPTOM 8025 8037	asintomática
+T135	SYMPTOM 1668 1695	bien hidratada y perfundida
+T136	SYMPTOM 1710 1722	colaboradora
+T137	SYMPTOM 2944 2971	leucocitos (fórmula normal)
+T138	SYMPTOM 3410 3434	grosor miocárdico normal
+T139	SYMPTOM 3580 3609	hipoquinesia de cara anterior
+T140	SYMPTOM 2841 2886	movilización de marcadores de daño miocárdico
+T141	SYMPTOM 3215 3261	restricción de la movilidad del velo posterior
+T142	SYMPTOM 5537 5572	Jet de insuficiencia mitral central
+T143	SYMPTOM 5770 5828	sutil realce lineal intramiocárdico en septo basal y medio
+T144	MEDICATION 528 538	metformina
+T145	MEDICATION 7255 7264	enalapril
+T146	MEDICATION 7280 7295	espironolactona
+T147	MEDICATION 7313 7323	bisoprolol
+T148	MEDICATION 7428 7438	metformina
+T149	MEDICATION 7646 7660	dapagliflozina
+T150	MEDICATION 7938 7948	metformina
+T151	MEDICATION 7956 7970	dapagliflozina
+#1	AnnotatorNotes T32	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T40	 AI: auricula izquierda
+#3	AnnotatorNotes T43	insuficiencia mitral
+#4	AnnotatorNotes T79	antagonistas e los receptores de mineralocorticoides
+#5	AnnotatorNotes T119	Disnea paroxística nocturna

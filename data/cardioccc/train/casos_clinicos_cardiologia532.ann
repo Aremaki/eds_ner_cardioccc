@@ -1,0 +1,101 @@
+T1	DISEASE 1423 1452	ventrículo izquierdo dilatado
+T2	DISEASE 1674 1697	VD ligeramente dilatado
+T3	DISEASE 1876 1905	ventrículo izquierdo dilatado
+T4	DISEASE 1718 1720	IT
+T5	DISEASE 1766 1784	Derrame pericardio
+T6	DISEASE 2447 2466	fibrosis miocárdica
+T7	DISEASE 2762 2778	edema miocárdico
+T8	DISEASE 2790 2798	fibrosis
+T9	DISEASE 2902 2913	miocarditis
+T10	DISEASE 3195 3217	insuficiencia cardiaca
+T11	DISEASE 3268 3292	hipoperfusión periférica
+T12	DISEASE 3955 3968	valvulopatías
+T13	DISEASE 3978 3997	derrame pericárdico
+T14	DISEASE 4389 4405	MCD no isquémica
+T15	DISEASE 4461 4479	Shock cardiogénico
+T16	DISEASE 1575 1586	IM moderada
+T17	DISEASE 2377 2380	MCD
+T18	DISEASE 3385 3389	TVMS
+T19	DISEASE 2023 2078	Ventrículo derecho con volúmenes ligeramente aumentados
+T20	DISEASE 4367 4374	rechazo
+T21	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T22	PROCEDURE 343 352	anamnesis
+T23	PROCEDURE 580 598	Exploración física
+T24	PROCEDURE 1220 1237	Gasometría venosa
+T25	PROCEDURE 1297 1300	ECG
+T26	PROCEDURE 1407 1421	Ecocardiograma
+T27	PROCEDURE 1839 1868	Resonancia magnética cardiaca
+T28	PROCEDURE 1870 1873	RMC
+T29	PROCEDURE 2531 2560	ecocardiografía a pie de cama
+T30	PROCEDURE 2688 2691	RMC
+T31	PROCEDURE 2725 2740	ecocardiografía
+T32	PROCEDURE 2972 2976	IECA
+T33	PROCEDURE 2978 2993	betabloqueantes
+T34	PROCEDURE 2995 3012	diuréticos de asa
+T35	PROCEDURE 3087 3106	trasplante cardiaco
+T36	PROCEDURE 3316 3334	drogas vasoactivas
+T37	PROCEDURE 3511 3614	implante de dispositivo de asistencia ventricular tipo Levitronix Centrimag por vía subclavia izquierda
+T38	PROCEDURE 3630 3649	trasplante cardiaco
+T39	PROCEDURE 3673 3713	trasplante ortotópico con técnica bicava
+T40	PROCEDURE 3781 3789	Extubado
+T41	PROCEDURE 3836 3864	Ecocardiograma postrasplante
+T42	PROCEDURE 4094 4120	tratamiento inmunosupresor
+T43	PROCEDURE 4125 4136	corticoides
+T44	PROCEDURE 4260 4284	coronariografías con OCT
+T45	PROCEDURE 4326 4350	biopsias endomiocárdicas
+T46	PROCEDURE 4481 4500	Trasplante cardiaco
+T47	PROCEDURE 3015 3033	antialdosterónicos
+T48	PROCEDURE 1084 1093	Analítica
+T49	PROCEDURE 3432 3457	perfusión de levosimendán
+T50	PROCEDURE 2172 2187	secuencias STIR
+T51	PROCEDURE 745 764	Cardiorrespiratorio
+T52	PROCEDURE 885 892	Abdomen
+T53	PROCEDURE 973 985	Extremidades
+T54	PROCEDURE 704 715	Neurológico
+T55	SYMPTOM 156 169	epigastralgia
+T56	SYMPTOM 171 179	anorexia
+T57	SYMPTOM 181 196	pérdida de peso
+T58	SYMPTOM 199 206	astenia
+T59	SYMPTOM 242 278	edematización de miembros inferiores
+T60	SYMPTOM 283 289	fiebre
+T61	SYMPTOM 322 336	dolor torácico
+T62	SYMPTOM 444 450	fatiga
+T63	SYMPTOM 500 507	náuseas
+T64	SYMPTOM 512 527	dolor abdominal
+T65	SYMPTOM 647 669	Regular estado general
+T66	SYMPTOM 671 682	taquipnéico
+T67	SYMPTOM 684 691	afebril
+T68	SYMPTOM 693 702	hidratado
+T69	SYMPTOM 704 742	Neurológico: sin hallazgos patológicos
+T70	SYMPTOM 766 790	tonos cardiacos rítmicos
+T71	SYMPTOM 792 828	soplo sistólico II/VI en foco mitral
+T72	SYMPTOM 830 851	Crepitantes bibasales
+T73	SYMPTOM 853 883	Reflujo hepatoyugular positivo
+T74	SYMPTOM 894 907	hepatomegalia
+T75	SYMPTOM 940 971	Dolor a palpación en epigastrio
+T76	SYMPTOM 987 1028	pulsos periféricos presentes y simétricos
+T77	SYMPTOM 1038 1057	edemas bimaleolares
+T78	SYMPTOM 1315 1334	taquicardia sinusal
+T79	SYMPTOM 1346 1355	PR normal
+T80	SYMPTOM 1373 1405	onda T invertida en cara lateral
+T81	SYMPTOM 1490 1529	Función sistólica severamente deprimida
+T82	SYMPTOM 2098 2138	función sistólica severamente disminuida
+T83	SYMPTOM 2385 2433	depresión muy severa de la función biventricular
+T84	SYMPTOM 3145 3167	deterioro hemodinámico
+T85	SYMPTOM 3231 3249	aumento de lactato
+T86	SYMPTOM 3872 3891	buena función de VI
+T87	SYMPTOM 3905 3933	TAPSE ligeramente disminuido
+T88	SYMPTOM 4062 4074	asintomático
+T89	SYMPTOM 1964 2010	depresión muy severa de la función ventricular
+T90	SYMPTOM 4411 4459	depresión muy severa de la función biventricular
+T91	SYMPTOM 1544 1562	hipocinesia global
+T92	SYMPTOM 1608 1632	Válvula aórtica trivalva
+T93	SYMPTOM 2163 2168	edema
+T94	SYMPTOM 1356 1368	QRS estrecho
+T95	SYMPTOM 1876 1960	ventrículo izquierdo dilatado (VTDVI 139 ml/m2) con grosor de sus paredes disminuido
+T96	MEDICATION 3445 3457	levosimendán
+T97	MEDICATION 4138 4161	micofenolato de mofetil
+T98	MEDICATION 4163 4173	tacrolimus
+T99	MEDICATION 4175 4188	atorvastatina
+T100	MEDICATION 4191 4205	valganciclovir
+#1	AnnotatorNotes T17	miocardiopatia dilatada

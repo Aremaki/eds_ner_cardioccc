@@ -1,0 +1,41 @@
+T1	ENFERMEDAD 140 183	bloqueo aurículo-ventricular (BAV) completo
+T2	ENFERMEDAD 170 173	BAV
+T3	ENFERMEDAD 391 489	trombosis completa de tronco venoso braquiocefálico con extensión a vena axilar y yugular derechas
+T4	ENFERMEDAD 552 644	trombosis de vena cava superior y ambos ejes venosos braquiocefálicos hasta venas subclavias
+T5	ENFERMEDAD 734 779	SVCS en relación con electrodos de marcapasos
+T6	ENFERMEDAD 3243 3293	Síndrome de vena cava superior tras implante de MP
+T7	ENFERMEDAD 647 702	drenaje colateral por venas intercostales a vena ácigos
+T8	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T9	PROCEDIMIENTO 354 378	ecografía Doppler venosa
+T10	PROCEDIMIENTO 806 822	cirugía vascular
+T11	PROCEDIMIENTO 882 920	implante de stent en territorio venoso
+T12	PROCEDIMIENTO 954 975	tratamiento diurético
+T13	PROCEDIMIENTO 978 993	anticoagulación
+T14	PROCEDIMIENTO 1280 1312	implante de electrodo epicárdico
+T15	PROCEDIMIENTO 1314 1350	extracción de los cables endovenosos
+T16	PROCEDIMIENTO 1510 1563	angioplastia con balón y posterior implante de stents
+T17	PROCEDIMIENTO 1612 1629	anestesia general
+T18	PROCEDIMIENTO 1634 1657	monitorización invasiva
+T19	PROCEDIMIENTO 1659 1683	control ecocardiográfico
+T20	PROCEDIMIENTO 1760 1796	canalización de vena femoral derecha
+T21	PROCEDIMIENTO 2077 2121	disección cuidadosa, se extrajo el generador
+T22	PROCEDIMIENTO 2304 2324	retirada de la vaina
+T23	PROCEDIMIENTO 2423 2534	acceso femoral se realizó angioplastia con balón e implante de dos stents autoexpandibles en vena cava superior
+T24	PROCEDIMIENTO 2673 2695	implante de los stents
+T25	PROCEDIMIENTO 3001 3027	tratamiento anticoagulante
+T26	PROCEDIMIENTO 3033 3036	TAC
+T27	PROCEDIMIENTO 3279 3293	implante de MP
+T28	PROCEDIMIENTO 3313 3337	extracción de electrodos
+T29	PROCEDIMIENTO 3368 3400	Implante de electrodo epicárdico
+T30	PROCEDIMIENTO 1825 1888	implante de electrodo epicárdico mediante toracotomía izquierda
+T31	PROCEDIMIENTO 2133 2240	mediante vainas de radiofrecuencia de Cook y vainas mecánicas de Spectranetic, se extrajeron los electrodos
+T32	PROCEDIMIENTO 2697 2753	se conectó un generador SSI en la neobolsa suprapectoral
+T33	PROCEDIMIENTO 521 531	venografía
+T34	PROCEDIMIENTO 3340 3366	implante de stents venosos
+T35	SINTOMA 228 265	edema facial y de miembros superiores
+T36	SINTOMA 270 293	intoleancia al decúbito
+T37	SINTOMA 1044 1059	cefalea intensa
+T38	SINTOMA 1062 1086	intolerancia al decúbito
+T39	SINTOMA 2836 2854	edema en esclavina
+T40	SINTOMA 97 124	portador de marcapasos DDDR
+T41	SINTOMA 1128 1142	ideas suicidas

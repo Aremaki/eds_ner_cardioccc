@@ -1,0 +1,116 @@
+T1	DISEASE 2887 2933	ventrículo izquierdo (VI) ligeramente dilatado
+T2	DISEASE 122 145	alergias medicamentosas
+T3	DISEASE 160 175	hábitos tóxicos
+T4	DISEASE 224 242	Anemia ferropénica
+T5	DISEASE 288 315	Síndrome ansioso- depresivo
+T6	DISEASE 386 397	cardiopatía
+T7	DISEASE 400 432	enfermedad cardiovascular precoz
+T8	DISEASE 870 878	isquemia
+T9	DISEASE 909 924	daño miocárdico
+T10	DISEASE 1801 1872	trastornos de la conducción auriculoventricular (AV) o intraventricular
+T11	DISEASE 1878 1909	trastornos de la repolarización
+T12	DISEASE 2099 2129	anemia microcítica hipocrómica
+T13	DISEASE 3166 3179	valvulopatías
+T14	DISEASE 3208 3229	hipertensión pulmonar
+T15	DISEASE 3523 3542	derrame pericárdico
+T16	DISEASE 3674 3739	fístula desde aorta torácica descendente hasta aurícula izquierda
+T17	DISEASE 4048 4068	fístula aorto-atrial
+T18	DISEASE 4289 4310	cardiopatía isquémica
+T19	DISEASE 4368 4389	cardiopatía congénita
+T20	DISEASE 4544 4573	enfermedad arterioesclerótica
+T21	DISEASE 4599 4693	trayecto fistuloso de morfología sacular entre aorta torácica descendente y aurícula izquierda
+T22	DISEASE 4769 4781	traumatismos
+T23	DISEASE 4812 4824	endocarditis
+T24	DISEASE 4941 4959	crisis de ansiedad
+T25	DISEASE 5594 5612	crisis de ansiedad
+T26	DISEASE 952 957	ángor
+T27	DISEASE 2996 3023	Aurícula izquierda dilatada
+T28	DISEASE 5243 5275	cavidades izquierdas (dilatación
+T29	DISEASE 5703 5733	Fístula aorto-atrial izquierda
+T30	DISEASE 5758 5819	remodelado de cavidades izquierdas (dilatación e hiperaflujo)
+T31	DISEASE 3721 3763	aurícula izquierda, con dilatación sacular
+T32	DISEASE 4988 5006	trayecto fistuloso
+T33	DISEASE 5044 5070	fenómeno de robo coronario
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 320 343	tratamiento ansiolítico
+T36	PROCEDURE 1193 1211	Exploración física
+T37	PROCEDURE 1420 1432	auscultación
+T38	PROCEDURE 1746 1764	Electrocardiograma
+T39	PROCEDURE 1766 1769	ECG
+T40	PROCEDURE 1912 1932	Radiografía de tórax
+T41	PROCEDURE 2058 2077	Analítica sanguínea
+T42	PROCEDURE 2265 2270	iones
+T43	PROCEDURE 2377 2386	Hemograma
+T44	PROCEDURE 2624 2654	marcadores de función hepática
+T45	PROCEDURE 2665 2682	Perfil metabólico
+T46	PROCEDURE 2716 2731	Perfil lipídico
+T47	PROCEDURE 2775 2802	Marcadores de autoinmunidad
+T48	PROCEDURE 2857 2885	Ecocardiograma transtorácico
+T49	PROCEDURE 3563 3617	Angio-TAC con contraste de arterias coronarias y aorta
+T50	PROCEDURE 3792 3821	Resonancia magnética cardiaca
+T51	PROCEDURE 3823 3826	RMC
+T52	PROCEDURE 4410 4434	estudio ecocardiográfico
+T53	PROCEDURE 4496 4528	angio-TAC de arterias coronarias
+T54	PROCEDURE 5121 5124	RMC
+T55	PROCEDURE 5174 5188	ecocardiograma
+T56	PROCEDURE 5191 5203	TC coronario
+T57	PROCEDURE 5354 5441	reparación endovascular, mediante implante percutáneo de endoprótesis en aorta torácica
+T58	PROCEDURE 5517 5528	angiografía
+T59	PROCEDURE 5692 5701	angio-TAC
+T60	PROCEDURE 2228 2242	Función renal,
+T61	PROCEDURE 2243 2262	perfil hepatobiliar
+T62	PROCEDURE 2590 2600	Bioquímica
+T63	PROCEDURE 2602 2615	función renal
+T64	PROCEDURE 2616 2621	iones
+T65	PROCEDURE 2740 2764	Reactantes de fase aguda
+T66	PROCEDURE 2046 2056	Analíticas
+T67	PROCEDURE 2327 2346	Estudios analíticos
+T68	PROCEDURE 2452 2468	Perfil carencial
+T69	PROCEDURE 5492 5510	sellado de la fuga
+T70	SYMPTOM 551 580	dolor centrotorácico opresivo
+T71	SYMPTOM 586 603	cuadro vegetativo
+T72	SYMPTOM 726 745	sensación de estrés
+T73	SYMPTOM 821 855	alteraciones electrocardiográficas
+T74	SYMPTOM 959 972	palpitaciones
+T75	SYMPTOM 985 996	presíncopes
+T76	SYMPTOM 1006 1046	disnea progresiva de esfuerzos moderados
+T77	SYMPTOM 1081 1089	ortopnea
+T78	SYMPTOM 1091 1097	edemas
+T79	SYMPTOM 1212 1224	Asintomática
+T80	SYMPTOM 1226 1240	normocoloreada
+T81	SYMPTOM 1242 1257	bien perfundida
+T82	SYMPTOM 1263 1284	ingurgitación yugular
+T83	SYMPTOM 1288 1310	reflujo hepato-yugular
+T84	SYMPTOM 1381 1389	Eupneica
+T85	SYMPTOM 1434 1458	tonos cardiacos rítmicos
+T86	SYMPTOM 1464 1479	soplo sistólico
+T87	SYMPTOM 1592 1619	Abdomen: exploración normal
+T88	SYMPTOM 1648 1699	Pulsos radiales y pedios conservados simétricamente
+T89	SYMPTOM 1713 1719	edemas
+T90	SYMPTOM 1772 1774	RS
+T91	SYMPTOM 1785 1795	eje normal
+T92	SYMPTOM 1934 2000	índice cardiotorácico (ICT) en el límite superior de la normalidad
+T93	SYMPTOM 2006 2043	aumento de la trama vascular pulmonar
+T94	SYMPTOM 2228 2279	Función renal, perfil hepatobiliar e iones normales
+T95	SYMPTOM 2281 2308	Creatina-fosfocinasa normal
+T96	SYMPTOM 2602 2663	función renal iones y marcadores de función hepática normales
+T97	SYMPTOM 2692 2702	TSH normal
+T98	SYMPTOM 3067 3094	Cavidades derechas normales
+T99	SYMPTOM 3398 3442	Función sistólica y diastólica del VI normal
+T100	SYMPTOM 3619 3647	arterias coronarias normales
+T101	SYMPTOM 3829 3863	VI de diámetro y morfología normal
+T102	SYMPTOM 3937 3952	FEVI conservada
+T103	SYMPTOM 4872 4884	asintomática
+T104	SYMPTOM 4920 4934	dolor torácico
+T105	SYMPTOM 5554 5568	Dolor torácico
+T106	SYMPTOM 974 982	síncopes
+T107	SYMPTOM 2716 2738	Perfil lipídico normal
+T108	SYMPTOM 2740 2773	Reactantes de fase aguda normales
+T109	SYMPTOM 2775 2812	Marcadores de autoinmunidad negativos
+T110	SYMPTOM 3096 3127	Aorta de calibre y flujo normal
+T111	SYMPTOM 3483 3518	Ventrículo derecho normofuncionante
+T112	SYMPTOM 5636 5682	Arterias coronarias angiográficamente normales
+T113	SYMPTOM 1101 1120	recorte de diuresis
+T114	MEDICATION 275 281	hierro
+T115	MEDICATION 455 467	ácido fólico
+T116	MEDICATION 479 488	lorazepam

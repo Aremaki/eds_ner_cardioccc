@@ -1,0 +1,175 @@
+T1	ENFERMEDAD 70 93	alergias medicamentosas
+T2	ENFERMEDAD 99 114	hábitos tóxicos
+T3	ENFERMEDAD 151 172	Hipertensión arterial
+T4	ENFERMEDAD 174 184	Dislipemia
+T5	ENFERMEDAD 243 272	Cardiopatía isquémica crónica
+T6	ENFERMEDAD 293 311	angina de esfuerzo
+T7	ENFERMEDAD 444 460	angina inestable
+T8	ENFERMEDAD 635 652	Espondiloartrosis
+T9	ENFERMEDAD 654 673	Síndrome prostático
+T10	ENFERMEDAD 675 695	Hipoacusia bilateral
+T11	ENFERMEDAD 725 758	Fractura pertrocantérea de cadera
+T12	ENFERMEDAD 1512 1538	lesiones isquémicas agudas
+T13	ENFERMEDAD 1555 1576	oclusión de gran vaso
+T14	ENFERMEDAD 2300 2317	lesiones cutáneas
+T15	ENFERMEDAD 3121 3146	trombosis venosa profunda
+T16	ENFERMEDAD 3193 3212	bradicardia sinusal
+T17	ENFERMEDAD 4529 4551	Insuficiencia pulmonar
+T18	ENFERMEDAD 4634 4653	derrame pericárdico
+T19	ENFERMEDAD 5139 5157	obstrucción mitral
+T20	ENFERMEDAD 6792 6802	tabaquismo
+T21	ENFERMEDAD 7122 7164	cicatrices corticales post-pielonefríticas
+T22	ENFERMEDAD 7167 7200	quistes parapiélicos y corticales
+T23	ENFERMEDAD 7322 7353	Hipertrofia prostática moderada
+T24	ENFERMEDAD 7459 7492	Moderada ateromatosis aortoilíaca
+T25	ENFERMEDAD 7509 7533	adenomegalias inguinales
+T26	ENFERMEDAD 7554 7566	Osteoporosis
+T27	ENFERMEDAD 7662 7679	Fractura de fémur
+T28	ENFERMEDAD 7900 7924	diseminación metastásica
+T29	ENFERMEDAD 8330 8336	mixoma
+T30	ENFERMEDAD 8456 8481	origen embólico del ictus
+T31	ENFERMEDAD 8932 8938	mixoma
+T32	ENFERMEDAD 9216 9223	sarcoma
+T33	ENFERMEDAD 9334 9358	diseminación metastásica
+T34	ENFERMEDAD 9510 9530	enfermedad coronaria
+T35	ENFERMEDAD 10302 10308	mixoma
+T36	ENFERMEDAD 10438 10469	hemiparesia de miembro inferior
+T37	ENFERMEDAD 10579 10641	Ictus isquémico en arteria coroidea derecha de origen embólico
+T38	ENFERMEDAD 10643 10717	Mixoma auricular pediculado de implantación en techo de aurícula izquierda
+T39	ENFERMEDAD 10742 10768	mixoma auricular izquierdo
+T40	ENFERMEDAD 10827 10898	Síndrome coronario crónico estable con enfermedad de dos vasos (Cx y DA
+T41	ENFERMEDAD 11011 11026	ictus isquémico
+T42	ENFERMEDAD 5388 5395	trombos
+T43	ENFERMEDAD 9759 9815	aurícula izquierda con la base de implantación del tumor
+T44	ENFERMEDAD 10260 10265	tumor
+T45	ENFERMEDAD 210 213	FAP
+T46	ENFERMEDAD 5440 5494	Aorta torácica descendente con alguna placa de ateroma
+T47	ENFERMEDAD 6691 6704	adenomegalias
+T48	ENFERMEDAD 6374 6442	calcio coronario en el recorrido proximal de las arterias coronarias
+T49	ENFERMEDAD 6956 6960	LOEs
+T50	ENFERMEDAD 3839 3852	infarto focal
+T51	ENFERMEDAD 4825 4844	líquido pericárdico
+T52	ENFERMEDAD 1852 1955	infarto establecido con nueva aparición de área focal hipodensa en lenticular y corona radiada derechas
+T53	ENFERMEDAD 6505 6586	ateromatosis de predominio cálcico en el cayado y origen de troncos supraaórticos
+T54	PROCEDIMIENTO 210 233	FAP sometida a ablación
+T55	PROCEDIMIENTO 326 420	revascularización percutánea mediante implante de un stent convencional en arteria circunfleja
+T56	PROCEDIMIENTO 465 493	revascularización percutánea
+T57	PROCEDIMIENTO 496 579	implante de un stent liberador en segmento proximal de arteria descendente anterior
+T58	PROCEDIMIENTO 1469 1488	TC simple de cráneo
+T59	PROCEDIMIENTO 1809 1821	TC de cráneo
+T60	PROCEDIMIENTO 2007 2030	anticoagulación por FAP
+T61	PROCEDIMIENTO 2078 2096	Exploración física
+T62	PROCEDIMIENTO 2319 2342	Exploración neurológica
+T63	PROCEDIMIENTO 2857 2884	Auscultación cardiopulmonar
+T64	PROCEDIMIENTO 3173 3191	Electrocardiograma
+T65	PROCEDIMIENTO 3575 3595	Radiografía de tórax
+T66	PROCEDIMIENTO 3737 3749	TC de cráneo
+T67	PROCEDIMIENTO 5648 5666	TC toracoabdominal
+T68	PROCEDIMIENTO 7933 7971	Coronariografía: acceso radial derecho
+T69	PROCEDIMIENTO 7997 8081	stents previamente implantados en arteria descendente anterior y arteria circunfleja
+T70	PROCEDIMIENTO 8155 8174	Anatomía patológica
+T71	PROCEDIMIENTO 8495 8510	ecocardiografía
+T72	PROCEDIMIENTO 8588 8609	estudio transtorácico
+T73	PROCEDIMIENTO 8850 8880	ecocardiografía transesofágica
+T74	PROCEDIMIENTO 9252 9273	TC de tórax y abdomen
+T75	PROCEDIMIENTO 9475 9490	coronariografía
+T76	PROCEDIMIENTO 9728 9815	resección en cuña del suelo de aurícula izquierda con la base de implantación del tumor
+T77	PROCEDIMIENTO 10120 10148	anticoagulación con edoxabán
+T78	PROCEDIMIENTO 10178 10203	estudio anatomopatológico
+T79	PROCEDIMIENTO 10336 10351	ecocardiografía
+T80	PROCEDIMIENTO 10401 10422	rehabilitación motora
+T81	PROCEDIMIENTO 10719 10768	Exéresis quirúrgica de mixoma auricular izquierdo
+T82	PROCEDIMIENTO 10904 10941	revascularización completa percutánea
+T83	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T84	PROCEDIMIENTO 3897 3943	Ecocardiografía transtorácica y transesofágica
+T85	PROCEDIMIENTO 1542 1550	angio-TC
+T86	PROCEDIMIENTO 7662 7718	Fractura de fémur izquierda tratada con clavo y tornillo
+T87	PROCEDIMIENTO 3336 3345	Analítica
+T88	PROCEDIMIENTO 697 723	Intervenciones quirúrgicas
+T89	PROCEDIMIENTO 10065 10077	intervención
+T90	PROCEDIMIENTO 9682 9705	intervención quirúrgica
+T91	SINTOMA 581 612	Fracción de eyección conservada
+T92	SINTOMA 853 885	Funciones superiores conservadas
+T93	SINTOMA 1263 1295	debilidad fluctuante de miembros
+T94	SINTOMA 1358 1369	nerviosismo
+T95	SINTOMA 1428 1447	déficit neurológico
+T96	SINTOMA 2097 2116	Buen estado general
+T97	SINTOMA 2118 2143	Estable hemodinámicamente
+T98	SINTOMA 2204 2211	Afebril
+T99	SINTOMA 2213 2242	Eupneico en reposo y al habla
+T100	SINTOMA 2248 2277	tolerancia total del decúbito
+T101	SINTOMA 2279 2293	Normocoloreado
+T102	SINTOMA 2344 2369	buen nivel de consciencia
+T103	SINTOMA 2402 2427	alteraciones del lenguaje
+T104	SINTOMA 2432 2456	desviación oculocefálica
+T105	SINTOMA 2460 2480	déficit campimétrico
+T106	SINTOMA 2482 2538	Pupilas isocóricas y normorreactivas a luz y acomodación
+T107	SINTOMA 2540 2577	Motores oculares externos conservados
+T108	SINTOMA 2579 2606	Asimetría gestual izquierda
+T109	SINTOMA 2726 2761	Hipoalgesia en hemicuerpo izquierdo
+T110	SINTOMA 2766 2775	dismetría
+T111	SINTOMA 2780 2789	disartria
+T112	SINTOMA 2857 2893	Auscultación cardiopulmonar: rítmico
+T113	SINTOMA 2899 2905	soplos
+T114	SINTOMA 2912 2941	murmullo vesicular conservado
+T115	SINTOMA 2980 3007	Abdomen: blando, depresible
+T116	SINTOMA 3022 3027	masas
+T117	SINTOMA 3031 3039	megalias
+T118	SINTOMA 3042 3065	indoloro a la palpación
+T119	SINTOMA 3067 3108	Miembros inferiores: sin edemas ni fóveas
+T120	SINTOMA 3238 3248	Eje normal
+T121	SINTOMA 3291 3334	Elevación del punto J en cara inferolateral
+T122	SINTOMA 3597 3625	índice cardiotorácico normal
+T123	SINTOMA 3627 3651	Botón aórtico prominente
+T124	SINTOMA 3653 3670	Hilios engrosados
+T125	SINTOMA 4001 4039	válvula mitral presenta velos normales
+T126	SINTOMA 4063 4115	ventrículo izquierdo (VI) es de dimensiones normales
+T127	SINTOMA 4484 4509	Válvula tricúspide normal
+T128	SINTOMA 4660 4676	masa móvil en AI
+T129	SINTOMA 5311 5344	Válvula mitral con velos normales
+T130	SINTOMA 5365 5395	Orejuela izquierda sin trombos
+T131	SINTOMA 5648 5694	TC toracoabdominal: AI de dimensiones normales
+T132	SINTOMA 6311 6358	VI y cavidades derechas de dimensiones normales
+T133	SINTOMA 6880 6898	nódulos pulmonares
+T134	SINTOMA 7568 7593	Acuñamiento central de L2
+T135	SINTOMA 8633 8690	corazón de características normales, encontrando una masa
+T136	SINTOMA 10525 10537	asintomático
+T137	SINTOMA 10789 10825	Función ventricular izquierda normal
+T138	SINTOMA 10943 10983	Hemiparesia residual de miembro inferior
+T139	SINTOMA 3948 3988	aurícula izquierda (AI) no está dilatada
+T140	SINTOMA 4604 4629	Vena cava inferior normal
+T141	SINTOMA 5397 5438	Válvula aórtica y aorta proximal normales
+T142	SINTOMA 6444 6476	Aorta torácica de calibre normal
+T143	SINTOMA 9854 9864	tumoración
+T144	SINTOMA 8135 8153	Dominancia derecha
+T145	SINTOMA 6804 6841	Tractos fibrocicatriciales biapicales
+T146	SINTOMA 4423 4482	Ventrículo derecho de dimensiones y contractilidad normales
+T147	SINTOMA 4198 4242	alteraciones regionales de la contractilidad
+T148	SINTOMA 3676 3707	aumento de trama broncovascular
+T149	SINTOMA 6861 6876	consolidaciones
+T150	SINTOMA 2371 2377	nomina
+T151	SINTOMA 2379 2388	comprende
+T152	SINTOMA 2391 2397	repite
+T153	SINTOMA 3272 3289	R amputada en aVL
+T154	SINTOMA 3762 3822	área focal hipodensa en lenticular y corona radiada derechas
+T155	SINTOMA 4310 4362	Válvula aórtica trivalva con buena apertura y cierre
+T156	SINTOMA 4859 4863	masa
+T157	SINTOMA 5181 5185	masa
+T158	SINTOMA 5529 5574	masa (6,1 x 2 cm) móvil en aurícula izquierda
+T159	SINTOMA 5696 5700	Masa
+T160	SINTOMA 6588 6647	Tronco pulmonar de dimensiones normales, así como las ramas
+T161	SINTOMA 6962 7065	Sin hallazgos significativos en la vesícula, vía biliar, eje esplenoportal, bazo, adrenales ni páncreas
+T162	SINTOMA 7067 7110	Riñones de tamaño y diferenciación normales
+T163	SINTOMA 6900 6925	Hígado de adecuado tamaño
+T164	SINTOMA 7744 7748	masa
+T165	SINTOMA 8966 8970	masa
+T166	FARMACO 913 923	carvedilol
+T167	FARMACO 963 972	Omeprazol
+T168	FARMACO 1008 1016	Ramipril
+T169	FARMACO 1051 1060	Ezetimiba
+T170	FARMACO 1067 1080	atorvastatina
+T171	FARMACO 1116 1124	Edoxabán
+T172	FARMACO 1160 1171	Alendrónico
+T173	FARMACO 1993 2001	edoxabán
+T174	FARMACO 10140 10148	edoxabán
+#1	AnnotatorNotes T45	  fibrilación auricular paroxistica

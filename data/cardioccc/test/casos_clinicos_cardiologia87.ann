@@ -1,0 +1,121 @@
+T1	ENFERMEDAD 506 526	pérdida visual total
+T2	ENFERMEDAD 2084 2146	válvula aórtica muy desestructurada y con severo engrosamiento
+T3	ENFERMEDAD 87 96	amaurosis
+T4	ENFERMEDAD 138 158	alergia a penicilina
+T5	ENFERMEDAD 160 181	hipertensión arterial
+T6	ENFERMEDAD 183 193	dislipemia
+T7	ENFERMEDAD 195 203	obesidad
+T8	ENFERMEDAD 206 216	tabaquismo
+T9	ENFERMEDAD 300 347	accidente cerebrovascular hemisférico izquierdo
+T10	ENFERMEDAD 409 421	valvulopatía
+T11	ENFERMEDAD 1154 1167	cardiomegalia
+T12	ENFERMEDAD 1173 1188	derrame pleural
+T13	ENFERMEDAD 2149 2191	calcificación con estenosis aórtica severa
+T14	ENFERMEDAD 2219 2240	insuficiencia aórtica
+T15	ENFERMEDAD 2441 2466	insuficiencia mitral leve
+T16	ENFERMEDAD 2479 2512	perforación de la valva posterior
+T17	ENFERMEDAD 2514 2554	Hipertrofia ventricular izquierda severa
+T18	ENFERMEDAD 2690 2715	ateroesclerosis carotídea
+T19	ENFERMEDAD 2742 2779	estenosis de carótida interna derecha
+T20	ENFERMEDAD 2954 3002	oclusión de arteria central de la retina derecha
+T21	ENFERMEDAD 3128 3153	ateroesclerosis carotídea
+T22	ENFERMEDAD 3180 3217	estenosis de carótida interna derecha
+T23	ENFERMEDAD 3394 3418	estenosis aórtica severa
+T24	ENFERMEDAD 3427 3458	degenerativos en válvula mitral
+T25	ENFERMEDAD 3468 3520	insuficiencia mitral (IM) leve y calcio en su anillo
+T26	ENFERMEDAD 3642 3666	estenosis aórtica severa
+T27	ENFERMEDAD 3765 3800	VM y perforación del velo posterior
+T28	ENFERMEDAD 3935 3979	endocarditis infecciosa (EI) subaguda mitral
+T29	ENFERMEDAD 4338 4361	endocarditis infecciosa
+T30	ENFERMEDAD 4498 4510	valvulopatía
+T31	ENFERMEDAD 4821 4869	Oclusión de arteria central de la retina derecha
+T32	ENFERMEDAD 4871 4947	Endocarditis subaguda sobre válvula nativa mitral por Streptococcus viridans
+T33	ENFERMEDAD 4949 4973	Estenosis aórtica severa
+T34	ENFERMEDAD 5008 5035	Estenosis carotídea derecha
+T35	ENFERMEDAD 1395 1425	Hemibloqueo anterior izquierdo
+T36	ENFERMEDAD 3490 3492	IM
+T37	ENFERMEDAD 4290 4306	IM leve-moderada
+T38	ENFERMEDAD 1863 1867	Lúes
+T39	ENFERMEDAD 1348 1381	hipertrofia ventricular izquierda
+T40	ENFERMEDAD 3004 3008	OACR
+T41	ENFERMEDAD 3746 3767	vegetaciones sobre VM
+T42	ENFERMEDAD 3960 3962	EI
+T43	ENFERMEDAD 2586 2608	foramen oval permeable
+T44	ENFERMEDAD 2375 2387	vegetaciones
+T45	ENFERMEDAD 2297 2305	verrugas
+T46	ENFERMEDAD 1300 1333	Crecimiento de aurícula izquierda
+T47	ENFERMEDAD 4274 4286	vegetaciones
+T48	PROCEDIMIENTO 34 52	exploración física
+T49	PROCEDIMIENTO 653 671	Exploración física
+T50	PROCEDIMIENTO 767 794	Auscultación cardiopulmonar
+T51	PROCEDIMIENTO 857 878	auscultación cardiaca
+T52	PROCEDIMIENTO 1117 1140	Radiografía PA de tórax
+T53	PROCEDIMIENTO 1224 1243	Electrocardiografía
+T54	PROCEDIMIENTO 1760 1790	Estudio de hipercoagulabilidad
+T55	PROCEDIMIENTO 1896 1916	Fondo de ojo derecho
+T56	PROCEDIMIENTO 2053 2082	Ecocardiograma transesofágico
+T57	PROCEDIMIENTO 2646 2679	Angio TAC de troncos supraórticos
+T58	PROCEDIMIENTO 2724 2740	angio-TAC de TSA
+T59	PROCEDIMIENTO 2792 2804	Hemocultivos
+T60	PROCEDIMIENTO 3077 3109	dúplex de troncos supra-aórticos
+T61	PROCEDIMIENTO 3162 3178	angio-TAC de TSA
+T62	PROCEDIMIENTO 3312 3340	ecocardiograma tras-torácico
+T63	PROCEDIMIENTO 3342 3345	ETT
+T64	PROCEDIMIENTO 3575 3604	ecocardiograma transesofágico
+T65	PROCEDIMIENTO 3606 3609	ETE
+T66	PROCEDIMIENTO 3844 3856	hemocultivos
+T67	PROCEDIMIENTO 4184 4196	hemocultivos
+T68	PROCEDIMIENTO 4233 4236	ETT
+T69	PROCEDIMIENTO 4239 4242	ETE
+T70	PROCEDIMIENTO 4433 4458	endarterectomía carotídea
+T71	PROCEDIMIENTO 4557 4574	cirugía carotídea
+T72	PROCEDIMIENTO 4632 4679	recambio valvular aórtico con prótesis metálica
+T73	PROCEDIMIENTO 1635 1646	Coagulación
+T74	PROCEDIMIENTO 1818 1828	Serologías
+T75	PROCEDIMIENTO 1686 1696	Bioquímica
+T76	PROCEDIMIENTO 1699 1715	función tiroidea
+T77	PROCEDIMIENTO 1572 1581	Analítica
+T78	PROCEDIMIENTO 2618 2644	inyección de suero agitado
+T79	SINTOMA 585 591	disnea
+T80	SINTOMA 595 609	dolor torácico
+T81	SINTOMA 613 619	fiebre
+T82	SINTOMA 706 716	consciente
+T83	SINTOMA 718 727	orientado
+T84	SINTOMA 729 737	eupneico
+T85	SINTOMA 739 748	hidratado
+T86	SINTOMA 751 765	normocoloreado
+T87	SINTOMA 796 825	murmullo vesicular conservado
+T88	SINTOMA 1046 1090	Abdomen y miembros sin hallazgos destacables
+T89	SINTOMA 1245 1258	ritmo sinusal
+T90	SINTOMA 1635 1653	Coagulación normal
+T91	SINTOMA 1686 1722	Bioquímica y función tiroidea normal
+T92	SINTOMA 1760 1816	Estudio de hipercoagulabilidad sin hallazgos patológicos
+T93	SINTOMA 1896 1956	Fondo de ojo derecho: se aprecia mácula de color rojo-cereza
+T94	SINTOMA 2030 2051	exudados blanquecinos
+T95	SINTOMA 2792 2861	Hemocultivos independientes x3: positivos para Streptococcus viridans
+T96	SINTOMA 3816 3823	afebril
+T97	SINTOMA 3844 3911	hemocultivos creciendo en todas las muestras Streptococcus viridans
+T98	SINTOMA 4147 4154	afebril
+T99	SINTOMA 4184 4206	hemocultivos negativos
+T100	SINTOMA 1958 1988	edema blanquecino por isquemia
+T101	SINTOMA 1477 1492	onda T negativa
+T102	SINTOMA 1728 1758	ANA, anti-DNA y ANCA negativos
+T103	SINTOMA 1818 1894	Serologías (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella y VHB) negativas
+T104	SINTOMA 1990 2027	estrechamiento de arterias retinianas
+T105	SINTOMA 1207 1222	consolidaciones
+T106	SINTOMA 1192 1203	infiltrados
+T107	SINTOMA 895 927	soplo sistólico eyectivo aórtico
+T108	SINTOMA 966 981	soplo sistólico
+T109	SINTOMA 3671 3724	fracción de eyección ventricular izquierda conservada
+T110	FARMACO 448 457	enalapril
+T111	FARMACO 459 471	simvastatina
+T112	FARMACO 474 485	clopidogrel
+T113	FARMACO 4072 4083	vancomicina
+T114	FARMACO 4086 4097	gentamicina
+T115	FARMACO 148 158	penicilina
+#1	AnnotatorNotes T27	 VM: válvula mitral
+#2	AnnotatorNotes T36	 IM: insuficiencia mitral
+#3	AnnotatorNotes T37	 IM insuficiencia mitral
+#4	AnnotatorNotes T40	 OACR: oclusión arteria central retina
+#5	AnnotatorNotes T41	 VM: válvula mitral
+#6	AnnotatorNotes T42	 EI: endocarditis infecciosa

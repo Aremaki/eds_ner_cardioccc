@@ -1,0 +1,146 @@
+T1	DISEASE 87 96	exfumador
+T2	DISEASE 98 109	dislipémico
+T3	DISEASE 132 161	cardiopatía isquémica crónica
+T4	DISEASE 197 213	angina inestable
+T5	DISEASE 280 335	enfermedad coronaria de la arteria descendente anterior
+T6	DISEASE 458 481	reflujo gastroesofágico
+T7	DISEASE 514 529	hernia inguinal
+T8	DISEASE 1438 1472	fenómeno de Raynaud en ambas manos
+T9	DISEASE 1751 1774	bloqueo de rama derecha
+T10	DISEASE 1776 1779	BRD
+T11	DISEASE 1795 1827	sobrecarga de ventrículo derecho
+T12	DISEASE 1929 1955	adenopatías paratraqueales
+T13	DISEASE 2672 2693	hipertensión pulmonar
+T14	DISEASE 2705 2730	Insuficiencia mitral leve
+T15	DISEASE 2741 2754	valvulopatías
+T16	DISEASE 2766 2798	Derrame pericárdico levemoderado
+T17	DISEASE 2925 2963	atelectasia pasiva del lóbulo inferior
+T18	DISEASE 2975 2994	Derrame pericárdico
+T19	DISEASE 3262 3286	tromboembolismo pulmonar
+T20	DISEASE 3303 3327	moderado derrame pleural
+T21	DISEASE 3348 3363	derrame pleural
+T22	DISEASE 3442 3457	bronquiectasias
+T23	DISEASE 3487 3503	quistes en panal
+T24	DISEASE 3505 3537	Adenopatías hiliares bilaterales
+T25	DISEASE 3555 3574	derrame pericárdico
+T26	DISEASE 3614 3644	fibrosis pulmonar intersticial
+T27	DISEASE 3698 3723	enfermedades del colágeno
+T28	DISEASE 3725 3745	esclerosis sistémica
+T29	DISEASE 3833 3855	insuficiencia cardiaca
+T30	DISEASE 4032 4053	taponamiento cardiaco
+T31	DISEASE 4075 4099	tromboembolismo pulmonar
+T32	DISEASE 4251 4285	enfermedad inflamatoria intestinal
+T33	DISEASE 4462 4489	patología tumoral digestiva
+T34	DISEASE 4676 4712	bloqueo auriculoventricular completo
+T35	DISEASE 5234 5299	miocardiopatía infiltrativa secundaria a una enfermedad sistémica
+T36	DISEASE 5518 5548	fibrosis pulmonar intersticial
+T37	DISEASE 5714 5722	miopatía
+T38	DISEASE 5815 5828	esclerodermia
+T39	DISEASE 5976 6036	esclerosis sistémica difusa con afectación cutánea, cardiaca
+T40	DISEASE 6038 6065	bloqueo auriculoventricular
+T41	DISEASE 6067 6086	derrame pericárdico
+T42	DISEASE 6099 6129	fibrosis pulmonar intersticial
+T43	DISEASE 6185 6250	ciclofosfamida, con mala tolerancia por toxicidad renal y medular
+T44	DISEASE 6382 6404	insuficiencia cardiaca
+T45	DISEASE 6432 6454	congestión refractaria
+T46	DISEASE 6542 6624	Esclerosis sistémica difusa con afectación cutánea, pulmonar, cardiaca y digestiva
+T47	DISEASE 6626 6659	Insuficiencia cardiaca congestiva
+T48	DISEASE 6679 6719	Derrame pleuro-pericárdico leve-moderado
+T49	DISEASE 6721 6757	Bloqueo auriculoventricular completo
+T50	DISEASE 6809 6820	Trombopenia
+T51	DISEASE 3539 3552	Cardiomegalia
+T52	DISEASE 2513 2534	Disfunción diastólica
+T53	DISEASE 2886 2920	derrame pleural bilateral moderado
+T54	DISEASE 6144 6156	malabsorción
+T55	DISEASE 2396 2470	ventrículo izquierdo de tamaño normal y función conservada con hipertrofia
+T56	DISEASE 3860 3879	derrame pericárdico
+T57	DISEASE 4717 4736	escape de QRS ancho
+T58	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T59	PROCEDURE 218 228	ergometría
+T60	PROCEDURE 250 265	coronariografía
+T61	PROCEDURE 307 410	arteria descendente anterior siendo esta revascularizada mediante el implante de un stent farmacoactivo
+T62	PROCEDURE 1318 1336	exploración física
+T63	PROCEDURE 1479 1506	auscultación cardiopulmonar
+T64	PROCEDURE 1701 1719	Electrocardiograma
+T65	PROCEDURE 1834 1854	Radiografía de tórax
+T66	PROCEDURE 2173 2197	estudio de autoinmunidad
+T67	PROCEDURE 2226 2246	marcadores tumorales
+T68	PROCEDURE 2258 2267	Serología
+T69	PROCEDURE 2278 2287	Hemograma
+T70	PROCEDURE 2350 2361	Coagulación
+T71	PROCEDURE 2380 2394	Ecocardiograma
+T72	PROCEDURE 2855 2884	Resonancia magnética cardiaca
+T73	PROCEDURE 3092 3112	Estudio de perfusión
+T74	PROCEDURE 3216 3247	Angio-TC de arterias pulmonares
+T75	PROCEDURE 3288 3293	TACAR
+T76	PROCEDURE 3902 3923	tratamiento diurético
+T77	PROCEDURE 4112 4143	angio-TC de arterias pulmonares
+T78	PROCEDURE 4420 4432	colonoscopia
+T79	PROCEDURE 4638 4656	electrocardiograma
+T80	PROCEDURE 4878 4932	implante de electrodo temporal por vía yugular derecha
+T81	PROCEDURE 4959 4992	lavado de medicación cronotrópica
+T82	PROCEDURE 5088 5136	implante de marcapasos definitivo bicameral DDDR
+T83	PROCEDURE 5460 5465	TACAR
+T84	PROCEDURE 5554 5566	espirometría
+T85	PROCEDURE 5648 5663	electromiograma
+T86	PROCEDURE 5746 5761	biopsia cutánea
+T87	PROCEDURE 6458 6479	tratamiento diurético
+T88	PROCEDURE 6759 6807	Implante de marcapasos definitivo bicameral DDDR
+T89	PROCEDURE 2000 2010	Bioquímica
+T90	PROCEDURE 2206 2217	complemento
+T91	PROCEDURE 495 529	intervenido de una hernia inguinal
+T92	PROCEDURE 1989 1998	Analítica
+T93	SYMPTOM 666 683	disnea progresiva
+T94	SYMPTOM 719 734	astenia intensa
+T95	SYMPTOM 736 758	debilidad generalizada
+T96	SYMPTOM 760 784	pérdida de 25 kg de peso
+T97	SYMPTOM 826 833	diarrea
+T98	SYMPTOM 886 892	disnea
+T99	SYMPTOM 982 1011	edemas en miembros inferiores
+T100	SYMPTOM 1033 1054	dolor centro torácico
+T101	SYMPTOM 1056 1064	ortopnea
+T102	SYMPTOM 1067 1094	disnea paroxística nocturna
+T103	SYMPTOM 1112 1115	tos
+T104	SYMPTOM 1117 1130	expectoración
+T105	SYMPTOM 1132 1138	fiebre
+T106	SYMPTOM 1141 1160	sudoración nocturna
+T107	SYMPTOM 1163 1172	sangrados
+T108	SYMPTOM 1367 1399	presión venosa yugular aumentada
+T109	SYMPTOM 1404 1419	tórax en coraza
+T110	SYMPTOM 1533 1558	ruidos cardiacos rítmicos
+T111	SYMPTOM 1563 1593	soplo sistólico en foco mitral
+T112	SYMPTOM 1596 1615	crepitantes en base
+T113	SYMPTOM 1645 1674	edema con fóvea hasta rodilla
+T114	SYMPTOM 1727 1729	RS
+T115	SYMPTOM 2206 2224	complemento normal
+T116	SYMPTOM 2226 2256	marcadores tumorales negativos
+T117	SYMPTOM 2258 2276	Serología negativa
+T118	SYMPTOM 2396 2454	ventrículo izquierdo de tamaño normal y función conservada
+T119	SYMPTOM 2539 2585	patrón de llenado mitral del tipo pseudonormal
+T120	SYMPTOM 2613 2658	Ventrículo derecho de tamaño y función normal
+T121	SYMPTOM 3062 3090	Grosor miocárdico conservado
+T122	SYMPTOM 3092 3129	Estudio de perfusión sin alteraciones
+T123	SYMPTOM 3182 3214	Función biventricular conservada
+T124	SYMPTOM 4606 4611	mareo
+T125	SYMPTOM 5885 5893	diarreas
+T126	SYMPTOM 6481 6492	falleciendo
+T127	SYMPTOM 6664 6677	FE conservada
+T128	SYMPTOM 6809 6820	Trombopenia
+T129	SYMPTOM 4212 4229	proceso diarreico
+T130	SYMPTOM 2103 2124	Interferón B negativo
+T131	SYMPTOM 2830 2853	compromiso hemodinámico
+T132	SYMPTOM 2315 2329	fórmula normal
+T133	SYMPTOM 3378 3437	ambas bases pulmonares se identifica un patrón en empedrado
+T134	SYMPTOM 1964 1987	redistribución vascular
+T135	SYMPTOM 4323 4339	síndrome general
+T136	SYMPTOM 4507 4523	síndrome general
+T137	SYMPTOM 218 237	ergometría positiva
+T138	SYMPTOM 1856 1918	índice cardiotorácico (ICT) en el límite alto de la normalidad
+T139	SYMPTOM 5033 5072	adecuada conducción auriculoventricular
+T140	SYMPTOM 5554 5611	espirometría que presentaba datos de restricción moderada
+T141	SYMPTOM 5614 5642	descenso de la difusión leve
+T142	MEDICATION 576 584	aspirina
+T143	MEDICATION 586 596	torasemida
+T144	MEDICATION 599 610	pantoprazol
+T145	MEDICATION 4788 4796	atenolol
+T146	MEDICATION 6185 6199	ciclofosfamida

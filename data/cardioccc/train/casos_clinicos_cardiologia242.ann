@@ -1,0 +1,88 @@
+T1	DISEASE 136 148	hipertensión
+T2	DISEASE 150 160	tabaquismo
+T3	DISEASE 163 173	dislipemia
+T4	DISEASE 191 213	angina crónica estable
+T5	DISEASE 964 983	taquicardia sinusal
+T6	DISEASE 1714 1752	pseudoaneurisma en cara lateral del VI
+T7	DISEASE 1758 1771	valvulopatías
+T8	DISEASE 1895 1922	pseudoaneurisma ventricular
+T9	DISEASE 1924 1949	derrame pleural bilateral
+T10	DISEASE 2028 2055	pseudoaneurisma ventricular
+T11	DISEASE 2631 2699	pseudoaneurisma ventricular en cara lateral del ventrículo izquierdo
+T12	DISEASE 2899 2914	pseudoaneurisma
+T13	DISEASE 3213 3238	derrame pleural bilateral
+T14	DISEASE 3468 3486	shock hipovolémico
+T15	DISEASE 3499 3526	fallo de ventrículo derecho
+T16	DISEASE 3694 3718	leve derrame pericárdico
+T17	DISEASE 3733 3787	Síndrome coronario agudo con elevación del segmento ST
+T18	DISEASE 3844 3869	oclusión trombótica aguda
+T19	DISEASE 3871 3898	Pseudoaneurisma ventricular
+T20	DISEASE 3330 3339	aneurisma
+T21	DISEASE 1296 1311	daño miocárdico
+T22	DISEASE 2139 2159	lesión subepicárdica
+T23	DISEASE 3127 3134	trombos
+T24	DISEASE 1644 1675	disfunción sistólica de VI leve
+T25	DISEASE 3789 3796	SCACEST
+T26	DISEASE 3195 3210	hemo pericardio
+T27	DISEASE 1472 1539	Arteria descendente anterior y circunfleja permeables, con lesiones
+T28	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 409 422	examen físico
+T30	PROCEDURE 938 956	Electrocardiograma
+T31	PROCEDURE 958 961	ECG
+T32	PROCEDURE 1230 1241	Coagulación
+T33	PROCEDURE 1266 1271	iones
+T34	PROCEDURE 1282 1311	Marcadores de daño miocárdico
+T35	PROCEDURE 1390 1410	Cateterismo cardiaco
+T36	PROCEDURE 1575 1603	Ecocardiograma transtorácico
+T37	PROCEDURE 1788 1808	Radiografía de tórax
+T38	PROCEDURE 1951 1970	Tomografía de tórax
+T39	PROCEDURE 2087 2090	ECG
+T40	PROCEDURE 2227 2242	coronariografía
+T41	PROCEDURE 2395 2407	angioplastia
+T42	PROCEDURE 2522 2525	ECG
+T43	PROCEDURE 2599 2613	ecocardiograma
+T44	PROCEDURE 2765 2787	cirugía cardiovascular
+T45	PROCEDURE 2800 2820	radiografía de tórax
+T46	PROCEDURE 2917 2936	tomografía de tórax
+T47	PROCEDURE 3308 3339	cierre del cuello del aneurisma
+T48	PROCEDURE 3341 3371	colocación de parche de Dacron
+T49	PROCEDURE 3634 3648	ecocardiograma
+T50	PROCEDURE 3978 3999	reparación quirúrgica
+T51	PROCEDURE 1250 1263	función renal
+T52	PROCEDURE 3374 3416	refuerzo con Prolene en borde de la rotura
+T53	PROCEDURE 3585 3596	inotrópicos
+T54	PROCEDURE 1136 1145	Analítica
+T55	PROCEDURE 2563 2576	biomarcadores
+T56	PROCEDURE 3562 3582	expansión de volumen
+T57	SYMPTOM 326 352	dolor precordial en reposo
+T58	SYMPTOM 595 620	Ruidos cardiacos rítmicos
+T59	SYMPTOM 626 632	soplos
+T60	SYMPTOM 634 663	Regular mecánica ventilatoria
+T61	SYMPTOM 678 687	taquipnea
+T62	SYMPTOM 726 754	hipoventilación generalizada
+T63	SYMPTOM 757 790	regular entrada de aire bilateral
+T64	SYMPTOM 796 820	intolerancia al decúbito
+T65	SYMPTOM 822 848	Buena perfusión periférica
+T66	SYMPTOM 853 880	pulsos simétricos positivos
+T67	SYMPTOM 882 911	Edemas maleolares bilaterales
+T68	SYMPTOM 1017 1077	Descenso del ST menor de 1 mm en DII, DIII, aVF y de V3 a V6
+T69	SYMPTOM 1110 1126	elevación del ST
+T70	SYMPTOM 1250 1280	función renal e iones normales
+T71	SYMPTOM 1605 1642	ventrículo izquierdo (VI) no dilatado
+T72	SYMPTOM 2471 2487	dolor precordial
+T73	SYMPTOM 3762 3787	elevación del segmento ST
+T74	SYMPTOM 543 564	Ingurgitación yugular
+T75	SYMPTOM 2105 2124	taquicardia sinusal
+T76	SYMPTOM 1972 2012	imagen sacular en la cara lateral del VI
+T77	SYMPTOM 2186 2204	troponina positiva
+T78	SYMPTOM 1432 1470	Arteria coronaria derecha sin lesiones
+T79	SYMPTOM 2563 2586	biomarcadores negativos
+T80	SYMPTOM 690 724	utilización de músculos accesorios
+T81	SYMPTOM 1079 1105	Onda Q inicial en DI y aVL
+T82	SYMPTOM 1402 1430	cardiaco: dominancia derecha
+T83	SYMPTOM 1810 1845	radiopacidad paracardiaca izquierda
+T84	SYMPTOM 2227 2291	coronariografía de urgencia donde se observa arterias permeables
+T85	SYMPTOM 2296 2368	lesiones no significativas en arteria descendente anterior y circunfleja
+T86	SYMPTOM 2838 2874	radiopacidad para cardiaca izquierda
+T87	SYMPTOM 2951 3037	voluminosa formación sacular de 59 x 68 x 75 mm dependiente de la pared lateral del VI
+T88	SYMPTOM 3663 3688	buena función ventricular

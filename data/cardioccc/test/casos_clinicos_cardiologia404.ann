@@ -1,0 +1,128 @@
+T1	ENFERMEDAD 121 144	alergias medicamentosas
+T2	ENFERMEDAD 198 207	exfumador
+T3	ENFERMEDAD 271 285	metabolopatías
+T4	ENFERMEDAD 307 331	síndrome antifosfolípico
+T5	ENFERMEDAD 333 336	SAF
+T6	ENFERMEDAD 356 383	lupus eritematoso sistémico
+T7	ENFERMEDAD 385 388	LES
+T8	ENFERMEDAD 391 431	Tromboembolia pulmonar (TEP) segmentaria
+T9	ENFERMEDAD 415 418	TEP
+T10	ENFERMEDAD 536 592	infarto agudo de miocardio sin elevación del segmento ST
+T11	ENFERMEDAD 607 649	enfermedad coronaria de 2 vasos (DAm y DP)
+T12	ENFERMEDAD 757 801	hipertrofia ventricular izquierda (HVI) leve
+T13	ENFERMEDAD 792 795	HVI
+T14	ENFERMEDAD 806 819	valvulopatías
+T15	ENFERMEDAD 956 969	muerte súbita
+T16	ENFERMEDAD 1644 1687	taquicardia ventricular monoforma sostenida
+T17	ENFERMEDAD 1689 1693	TVMS
+T18	ENFERMEDAD 3432 3440	HVI leve
+T19	ENFERMEDAD 3506 3508	TV
+T20	ENFERMEDAD 3613 3630	escara miocárdica
+T21	ENFERMEDAD 3862 3864	TV
+T22	ENFERMEDAD 4217 4219	TV
+T23	ENFERMEDAD 4312 4341	displasia arritmogénica de VD
+T24	ENFERMEDAD 4384 4427	displasia arritmogénica ventricular derecha
+T25	ENFERMEDAD 4429 4433	DAVD
+T26	ENFERMEDAD 4449 4481	TVMS de cara anterolateral de VD
+T27	ENFERMEDAD 4557 4588	Enfermedad coronaria de 2 vasos
+T28	ENFERMEDAD 4651 4680	displasia arritmogénica de VD
+T29	ENFERMEDAD 594 601	IAMSEST
+T30	ENFERMEDAD 1413 1420	IAMSEST
+T31	ENFERMEDAD 2742 2803	TV con morfología de bloqueo de rama izquierda del haz de His
+T32	ENFERMEDAD 4123 4141	eventos arrítmicos
+T33	ENFERMEDAD 2805 2810	BRIHH
+T34	ENFERMEDAD 250 259	Exbebedor
+T35	ENFERMEDAD 1480 1499	episodios anginosos
+T36	ENFERMEDAD 3236 3287	VI de tamaño normal con hipertrofia del septo basal
+T37	ENFERMEDAD 3883 3888	BRIHH
+T38	PROCEDIMIENTO 654 679	revascularización parcial
+T39	PROCEDIMIENTO 709 738	ecocardiografıa transtorácica
+T40	PROCEDIMIENTO 740 743	ETT
+T41	PROCEDIMIENTO 1509 1526	revascularización
+T42	PROCEDIMIENTO 1593 1611	electrocardiograma
+T43	PROCEDIMIENTO 1613 1616	ECG
+T44	PROCEDIMIENTO 1757 1801	cardioversión farmacológica con procainamida
+T45	PROCEDIMIENTO 1918 1936	EXPLORACIÓN FÍSICA
+T46	PROCEDIMIENTO 2017 2031	oxigenoterapia
+T47	PROCEDIMIENTO 2083 2104	Auscultación cardiaca
+T48	PROCEDIMIENTO 2159 2180	Auscultación pulmonar
+T49	PROCEDIMIENTO 2280 2289	palpación
+T50	PROCEDIMIENTO 2456 2461	iones
+T51	PROCEDIMIENTO 2553 2562	HEMOGRAMA
+T52	PROCEDIMIENTO 2643 2663	RADIOGRAFÍA DE TÓRAX
+T53	PROCEDIMIENTO 2724 2727	ECG
+T54	PROCEDIMIENTO 2846 2849	ECG
+T55	PROCEDIMIENTO 2928 2931	ECG
+T56	PROCEDIMIENTO 2995 3024	Resonancia magnética cardiaca
+T57	PROCEDIMIENTO 3026 3029	RMC
+T58	PROCEDIMIENTO 3427 3430	ETT
+T59	PROCEDIMIENTO 3594 3597	RMC
+T60	PROCEDIMIENTO 3807 3833	estudio electrofisiológico
+T61	PROCEDIMIENTO 3835 3838	EEF
+T62	PROCEDIMIENTO 4014 4064	se finaliza la taquicardia realizando una ablación
+T63	PROCEDIMIENTO 4244 4247	RMC
+T64	PROCEDIMIENTO 4274 4277	ECG
+T65	PROCEDIMIENTO 4534 4545	ablacionada
+T66	PROCEDIMIENTO 4593 4618	revascularización parcial
+T67	PROCEDIMIENTO 458 473	anticoagulación
+T68	PROCEDIMIENTO 2428 2438	BIOQUÍMICA
+T69	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDIMIENTO 2440 2453	función renal
+T71	PROCEDIMIENTO 4449 4531	TVMS de cara anterolateral de VD cardiovertida farmacológicamente con procainamida
+T72	PROCEDIMIENTO 2390 2401	exploración
+T73	SINTOMA 567 592	elevación del segmento ST
+T74	SINTOMA 1214 1228	dolor torácico
+T75	SINTOMA 1323 1392	opresión centrotorácica con irradiación al miembro superior izquierdo
+T76	SINTOMA 2037 2044	Afebril
+T77	SINTOMA 2046 2056	Consciente
+T78	SINTOMA 2058 2067	orientado
+T79	SINTOMA 2070 2081	colaborador
+T80	SINTOMA 2106 2131	ruidos cardiacos rítmicos
+T81	SINTOMA 2133 2145	taquicárdico
+T82	SINTOMA 2151 2157	soplos
+T83	SINTOMA 2182 2211	murmullo vesicular conservado
+T84	SINTOMA 2217 2232	ruidos añadidos
+T85	SINTOMA 2234 2289	Abdomen: blando, depresible, no doloroso a la palpación
+T86	SINTOMA 2291 2327	Miembros inferiores bien perfundidos
+T87	SINTOMA 2329 2358	pulsos positivos y simétricos
+T88	SINTOMA 2363 2384	focalidad neurológica
+T89	SINTOMA 2440 2470	función renal e iones normales
+T90	SINTOMA 2665 2693	índice cardiotorácico normal
+T91	SINTOMA 2868 2881	ritmo sinusal
+T92	SINTOMA 2892 2926	T negativa en I y aVL y de V4 a V6
+T93	SINTOMA 2959 2993	T negativa en I y aVL y de V4 a V6
+T94	SINTOMA 3236 3255	VI de tamaño normal
+T95	SINTOMA 3298 3322	FEVI levemente deprimida
+T96	SINTOMA 3445 3460	FEVI conservada
+T97	SINTOMA 4029 4040	taquicardia
+T98	SINTOMA 4097 4109	asintomático
+T99	SINTOMA 821 884	Fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T100	SINTOMA 1857 1870	ritmo sinusal
+T101	SINTOMA 889 929	ventrículo derecho (VD) normofuncionante
+T102	SINTOMA 3032 3066	VD de tamaño normal con discinesia
+T103	SINTOMA 4620 4641	FEVI levemente afecta
+T104	SINTOMA 2946 2948	RS
+T105	SINTOMA 2608 2622	fórmula normal
+T106	SINTOMA 2813 2825	eje inferior
+T107	SINTOMA 2828 2844	transición V3-V4
+T108	SINTOMA 3340 3411	realce tardío intramiocárdico en la unión inferior de ambos ventrículos
+T109	SINTOMA 3890 3902	eje inferior
+T110	SINTOMA 3905 3926	transición en V3 y V4
+T111	FARMACO 478 490	acenocumarol
+T112	FARMACO 991 1013	ácido acetilsalicílico
+T113	FARMACO 1015 1018	AAS
+T114	FARMACO 1028 1039	clopidogrel
+T115	FARMACO 1047 1059	acenocumarol
+T116	FARMACO 1061 1074	atorvastatina
+T117	FARMACO 1082 1092	bisoprolol
+T118	FARMACO 1101 1118	hidroxicloroquina
+T119	FARMACO 1120 1131	hidroxicina
+T120	FARMACO 1134 1144	ranitidina
+T121	FARMACO 1789 1801	procainamida
+T122	FARMACO 4519 4531	procainamida
+#1	AnnotatorNotes T5	  Síndrome antifosfolípico
+#2	AnnotatorNotes T7	  Lupus eritematoso sistémico
+#3	AnnotatorNotes T9	  Trmboembolia pulmonar
+#4	AnnotatorNotes T13	  hipertrofia ventricular izquierda
+#5	AnnotatorNotes T25	  Displasia arritmogénica ventricular derecha
+#6	AnnotatorNotes T31	  taquicardia ventricular

@@ -1,0 +1,139 @@
+T1	DISEASE 92 115	alergias farmacológicas
+T2	DISEASE 160 181	hipertensión arterial
+T3	DISEASE 183 186	HTA
+T4	DISEASE 208 237	diabetes mellitus (DM) tipo 2
+T5	DISEASE 227 229	DM
+T6	DISEASE 266 287	retinopatía diabética
+T7	DISEASE 331 394	enfermedad renal crónica estadio 4 de origen arterioesclerótico
+T8	DISEASE 399 402	HTA
+T9	DISEASE 405 407	DM
+T10	DISEASE 497 528	hiperplasia benigna de próstata
+T11	DISEASE 636 643	síncope
+T12	DISEASE 887 915	convulsiones tónico-clónicas
+T13	DISEASE 992 1004	hipoglucemia
+T14	DISEASE 1104 1177	traumatismo craneoencefálico con herida inciso-contusa en cuero cabelludo
+T15	DISEASE 2109 2134	trombosis venosa profunda
+T16	DISEASE 2217 2266	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T17	DISEASE 2387 2436	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T18	DISEASE 2866 2892	Atrofia corticosubcortical
+T19	DISEASE 2913 2957	Calcificación de epífisis y plexos coroideos
+T20	DISEASE 3359 3394	Circunfleja (CX): enfermedad severa
+T21	DISEASE 3614 3646	Lesión oclusiva trombótica aguda
+T22	DISEASE 4310 4354	bloqueo aurículo-ventricular de primer grado
+T23	DISEASE 4652 4689	hipertensión pulmonar ligera-moderada
+T24	DISEASE 4694 4713	derrame pericardico
+T25	DISEASE 4752 4775	Bloqueo AV primer grado
+T26	DISEASE 4822 4829	síncope
+T27	DISEASE 4919 4970	bloqueo aurículo-ventricular (BAV) grado 2 Mobitz I
+T28	DISEASE 4949 4952	BAV
+T29	DISEASE 5131 5155	SCACEST de cara inferior
+T30	DISEASE 5202 5244	hemorragia postraumatismo craneoencefálico
+T31	DISEASE 5526 5554	bloqueo aurículo-ventricular
+T32	DISEASE 5579 5614	BAV de segundo grado tipo Mobitz II
+T33	DISEASE 5649 5669	BAV grado 2 Mobitz I
+T34	DISEASE 5720 5776	lesión oclusiva trombótica aguda en la coronaria derecha
+T35	DISEASE 6228 6272	bloqueo aurículo-ventricular de primer grado
+T36	DISEASE 6326 6355	bloqueo aurículo- ventricular
+T37	DISEASE 6651 6657	anemia
+T38	DISEASE 6659 6683	enfermedad renal crónica
+T39	DISEASE 6883 6954	Síndrome coronario agudo con elevación del ST (SCACEST) inferoposterior
+T40	DISEASE 6930 6937	SCACEST
+T41	DISEASE 6965 7019	Coronaria derecha con lesión oclusiva trombótica aguda
+T42	DISEASE 7134 7179	Bloqueo aurículo-ventricular grado 2 Mobitz i
+T43	DISEASE 7193 7303	bloqueo aurículo- ventricular de alto grado de origen isquémico por compromiso de la arteria coronaria derecha
+T44	DISEASE 7329 7373	bloqueo aurículo-ventricular de primer grado
+T45	DISEASE 7410 7438	traumatismo craneoencefálico
+T46	DISEASE 7444 7483	lesiones hemorrágicas agudas cerebrales
+T47	DISEASE 7485 7525	Herida inciso-contusa en cuero cabelludo
+T48	DISEASE 7527 7579	Cardiopatía isquémica severa multivaso multisegmento
+T49	DISEASE 3127 3171	Descendente anterior (DA): lesión muy severa
+T50	DISEASE 4603 4605	IM
+T51	DISEASE 4638 4640	IT
+T52	DISEASE 6840 6845	ángor
+T53	DISEASE 6521 6575	lesiones severas de descendente anterior y circunfleja
+T54	DISEASE 6686 6716	afectación difusa distal de DA
+T55	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDURE 308 329	antidiabéticos orales
+T57	PROCEDURE 546 577	herniorrafia inguinal izquierda
+T58	PROCEDURE 1450 1459	anamnesis
+T59	PROCEDURE 1671 1689	Exploración física
+T60	PROCEDURE 1870 1891	Auscultación cardiaca
+T61	PROCEDURE 1931 1952	Auscultación pulmonar
+T62	PROCEDURE 2161 2164	ECG
+T63	PROCEDURE 2331 2334	ECG
+T64	PROCEDURE 2526 2529	ECG
+T65	PROCEDURE 2832 2842	TC craneal
+T66	PROCEDURE 3043 3058	Coronariografía
+T67	PROCEDURE 3815 3852	Intervencionismo coronario percutáneo
+T68	PROCEDURE 3854 3960	predilatación con balón a baja presión con buen resultado, implante de dos stents farmacoactivos en tándem
+T69	PROCEDURE 4007 4054	bolos repetidos de nitroprusiato intracoronario
+T70	PROCEDURE 4057 4106	dilatación con balón a baja presión multisegmento
+T71	PROCEDURE 4356 4384	Ecocardiograma transtorácico
+T72	PROCEDURE 4715 4718	ECG
+T73	PROCEDURE 4847 4856	anamnesis
+T74	PROCEDURE 4901 4904	ECG
+T75	PROCEDURE 5059 5080	monitor-desfibrilador
+T76	PROCEDURE 5168 5178	TC craneal
+T77	PROCEDURE 5287 5346	doble antiagregación plaquetaria con aspirina y clopidogrel
+T78	PROCEDURE 5360 5375	coronariografía
+T79	PROCEDURE 5682 5697	coronariografía
+T80	PROCEDURE 5817 5922	intervencionismo coronario percutáneo con implante de 3 stents farmacoactivos previa dilatacion con balón
+T81	PROCEDURE 6030 6058	ecocardiograma transtorácico
+T82	PROCEDURE 6165 6168	ECG
+T83	PROCEDURE 6364 6385	reperfusión coronaria
+T84	PROCEDURE 6403 6425	implante de marcapasos
+T85	PROCEDURE 6496 6575	revascularización de las lesiones severas de descendente anterior y circunfleja
+T86	PROCEDURE 7046 7132	Intervencionismo coronario percutáneo con implante de 3 stent farmacoactivos en tándem
+T87	PROCEDURE 7310 7327	revascularización
+T88	PROCEDURE 4176 4221	se trata con otro stent con fármaco en tándem
+T89	PROCEDURE 2538 2547	Analítica
+T90	PROCEDURE 5083 5107	se activa código infarto
+T91	SYMPTOM 684 700	malestar general
+T92	SYMPTOM 703 710	náuseas
+T93	SYMPTOM 715 722	vómitos
+T94	SYMPTOM 736 767	pérdida del nivel de conciencia
+T95	SYMPTOM 858 882	relajación de esfínteres
+T96	SYMPTOM 919 938	mordedura de lengua
+T97	SYMPTOM 1296 1313	dolor epigástrico
+T98	SYMPTOM 1430 1437	náuseas
+T99	SYMPTOM 1524 1531	náuseas
+T100	SYMPTOM 1534 1552	cortejo vegetativo
+T101	SYMPTOM 1779 1789	Consciente
+T102	SYMPTOM 1802 1816	Normocoloreado
+T103	SYMPTOM 1818 1832	Normohidratado
+T104	SYMPTOM 1834 1842	Eupneico
+T105	SYMPTOM 1847 1868	ingurgitación yugular
+T106	SYMPTOM 1893 1918	ruidos cardiacos rítmicos
+T107	SYMPTOM 1923 1929	soplos
+T108	SYMPTOM 1954 1979	murmullo vesicular normal
+T109	SYMPTOM 1981 2036	Abdomen: blando, depresible, no doloroso a la palpación
+T110	SYMPTOM 2038 2058	peristaltismo normal
+T111	SYMPTOM 2060 2095	Extremidades inferiores: sin edemas
+T112	SYMPTOM 2193 2206	ritmo sinusal
+T113	SYMPTOM 2268 2329	Supradesnivelación ST en II, III, aVF con descenso en I y aVL
+T114	SYMPTOM 2363 2376	ritmo sinusal
+T115	SYMPTOM 2438 2493	Supradesnivelación ST en II, III, aVF con descenso en I
+T116	SYMPTOM 2983 2991	sangrado
+T117	SYMPTOM 4386 4423	ventrículo izquierdo de tamaño normal
+T118	SYMPTOM 4428 4450	FEVI global conservada
+T119	SYMPTOM 4551 4579	Disfunción diastólica ligera
+T120	SYMPTOM 4728 4741	ritmo sinusal
+T121	SYMPTOM 4975 5013	supradesnivelación ST en cara inferior
+T122	SYMPTOM 6085 6122	ventrículo izquierdo de tamaño normal
+T123	SYMPTOM 6189 6202	ritmo sinusal
+T124	SYMPTOM 1502 1509	síncope
+T125	SYMPTOM 5444 5451	síncope
+T126	SYMPTOM 7375 7405	Síncope de origen cardiogénico
+T127	SYMPTOM 1791 1800	Orientado
+T128	SYMPTOM 4614 4636	Válvula aórtica normal
+T129	SYMPTOM 6275 6299	ondas Q en cara inferior
+T130	SYMPTOM 6633 6649	clínica anginosa
+T131	SYMPTOM 1640 1658	estado confusional
+T132	SYMPTOM 3068 3112	tronco común izquierdo (TCI): sin enfermedad
+T133	SYMPTOM 4585 4601	aumento de PTDVI
+T134	SYMPTOM 831 849	estado postcrítico
+T135	SYMPTOM 2832 2864	TC craneal: línea media centrada
+T136	SYMPTOM 3534 3567	Coronaria derecha (CD): dominante
+T137	SYMPTOM 4777 4801	Ondas Q en cara inferior
+T138	MEDICATION 5324 5332	aspirina
+T139	MEDICATION 5335 5346	clopidogrel

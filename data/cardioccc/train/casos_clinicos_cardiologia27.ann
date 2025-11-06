@@ -1,0 +1,73 @@
+T1	DISEASE 74 84	hipertensa
+T2	DISEASE 248 256	artritis
+T3	DISEASE 2212 2244	Insuficiencia Cardíaca Izquierda
+T4	DISEASE 2246 2272	Insuficiencia Mitroaórtica
+T5	DISEASE 2274 2287	Colagenopatía
+T6	DISEASE 2301 2317	Síndrome Anémico
+T7	DISEASE 2319 2340	Hipertensión arterial
+T8	DISEASE 2727 2767	derrame pleural bilateral en ambas bases
+T9	DISEASE 2796 2809	colagenopatía
+T10	DISEASE 3252 3301	pseudoaneurisma de una valva aórtica y una mitral
+T11	DISEASE 3313 3345	perforación de una valva aórtica
+T12	DISEASE 3373 3385	endocarditis
+T13	DISEASE 4010 4033	patología reumatológica
+T14	DISEASE 4211 4240	endocarditis aguda bacteriana
+T15	DISEASE 4295 4324	Endocarditis Aguda Bacteriana
+T16	DISEASE 4444 4476	Endocarditis Subaguda Bacteriana
+T17	DISEASE 4515 4528	colagenopatía
+T18	DISEASE 3207 3246	vegetación en válvulas aórtica y mitral
+T19	DISEASE 3814 3867	Válvulas cardíacas con marcados cambios degenerativos
+T20	DISEASE 3775 3787	vegetaciones
+T21	DISEASE 4150 4162	vegetaciones
+T22	PROCEDURE 873 884	analgésicos
+T23	PROCEDURE 1466 1479	examen físico
+T24	PROCEDURE 1668 1680	auscultación
+T25	PROCEDURE 2434 2446	policultivos
+T26	PROCEDURE 2634 2680	Tomografía Axial Computarizada simple de tórax
+T27	PROCEDURE 3159 3187	ecocardiograma transtorácico
+T28	PROCEDURE 3411 3438	antibióticoterapia empírica
+T29	PROCEDURE 3534 3546	hemocultivos
+T30	PROCEDURE 3655 3698	reemplazo bivalvular con válvulas mecánicas
+T31	PROCEDURE 2448 2506	Se le transfunde un volumen de glóbulos rojos concentrados
+T32	PROCEDURE 2581 2603	test de Coombs directo
+T33	PROCEDURE 2911 2934	perfiles reumatológicos
+T34	PROCEDURE 3748 3787	anatomía patológica de las vegetaciones
+T35	PROCEDURE 4247 4276	diagnóstico anatomopatológico
+T36	PROCEDURE 188 194	partos
+T37	PROCEDURE 3463 3486	análisis laboratoriales
+T38	SYMPTOM 303 364	dolor terebrante localizado en articulaciones interfalángicas
+T39	SYMPTOM 446 489	impotencia funcional de predominio matutino
+T40	SYMPTOM 566 582	sensación febril
+T41	SYMPTOM 610 628	sudoración profusa
+T42	SYMPTOM 646 709	disnea progresiva primero a esfuerzos moderados y luego a leves
+T43	SYMPTOM 745 804	dolor de las mismas características citadas migra a tobillo
+T44	SYMPTOM 1179 1189	artralgias
+T45	SYMPTOM 1191 1207	sensación febril
+T46	SYMPTOM 1210 1216	disnea
+T47	SYMPTOM 1504 1520	fascies disneica
+T48	SYMPTOM 1522 1547	palidez de piel y mucosas
+T49	SYMPTOM 1577 1603	mala mecánica respiratoria
+T50	SYMPTOM 1605 1614	taquipnea
+T51	SYMPTOM 1616 1622	disnea
+T52	SYMPTOM 1629 1661	percusión matidez en ambas bases
+T53	SYMPTOM 1681 1718	subcrepitantes en ambos campos medios
+T54	SYMPTOM 1774 1808	ruidos cardiacos con ritmo regular
+T55	SYMPTOM 1810 1821	taquicardia
+T56	SYMPTOM 1823 1844	R1 y R2 hipofonéticos
+T57	SYMPTOM 1849 1856	galopes
+T58	SYMPTOM 1858 1921	soplo diastólico en foco aórtico y holosistólico en foco mitral
+T59	SYMPTOM 1947 1986	abdomen blando, depresible, no doloroso
+T60	SYMPTOM 1989 2008	leve esplenomegalia
+T61	SYMPTOM 2022 2035	hepatomegalia
+T62	SYMPTOM 2067 2106	signos inflamatorios a nivel de rodilla
+T63	SYMPTOM 2120 2164	signos inflamatorios en otras articulaciones
+T64	SYMPTOM 2397 2411	picos febriles
+T65	SYMPTOM 2542 2548	disnea
+T66	SYMPTOM 2581 2612	test de Coombs directo negativo
+T67	SYMPTOM 2696 2722	patrón difuso intersticial
+T68	SYMPTOM 3534 3591	hemocultivos positivos para Streptococcus alfa hemolítico
+T69	SYMPTOM 422 443	signos de inflamación
+T70	SYMPTOM 1035 1068	descenso brusco de la hemoglobina
+T71	SYMPTOM 1668 1742	auscultación subcrepitantes en ambos campos medios, abolido en ambas bases
+T72	MEDICATION 114 122	Losartán
+T73	MEDICATION 2830 2847	metilprednisolona

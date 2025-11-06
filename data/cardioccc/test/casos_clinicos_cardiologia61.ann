@@ -1,0 +1,72 @@
+T1	ENFERMEDAD 1472 1505	fibrilación auricular paroxístico
+T2	ENFERMEDAD 2601 2653	enfermedad de 1 vaso: circunfleja-2a obtusa marginal
+T3	ENFERMEDAD 3434 3444	DM tipo II
+T4	ENFERMEDAD 4228 4237	arritmias
+T5	ENFERMEDAD 4261 4269	IAM no q
+T6	ENFERMEDAD 4289 4317	Miocardiopatía no compactada
+T7	ENFERMEDAD 4411 4478	Enfermedad arterial coronaria de 1 vaso: 2a arteria obtusa marginal
+T8	ENFERMEDAD 4573 4589	Dislipemia mixta
+T9	ENFERMEDAD 4591 4621	Diabetes mellitus (DM) tipo II
+T10	ENFERMEDAD 4610 4612	DM
+T11	ENFERMEDAD 4623 4631	Obesidad
+T12	ENFERMEDAD 211 221	Dislipemia
+T13	ENFERMEDAD 4252 4259	SCASEST
+T14	ENFERMEDAD 203 210	fumador
+T15	ENFERMEDAD 2364 2385	miocardio no compacto
+T16	ENFERMEDAD 1840 1874	ventrículo izquierdo no compactado
+T17	ENFERMEDAD 1231 1239	isquemia
+T18	ENFERMEDAD 1242 1250	necrosis
+T19	ENFERMEDAD 125 139	Estrés laboral
+T20	ENFERMEDAD 1255 1267	hipertrofias
+T21	ENFERMEDAD 1898 1958	trabéculas, que sobresalen de la pared ventricular izquierda
+T22	PROCEDIMIENTO 605 623	electrocardiograma
+T23	PROCEDIMIENTO 625 628	ECG
+T24	PROCEDIMIENTO 801 815	pulsioximetría
+T25	PROCEDIMIENTO 878 898	ventilación pulmonar
+T26	PROCEDIMIENTO 1092 1095	ECG
+T27	PROCEDIMIENTO 1616 1638	Ecocardiograma-doppler
+T28	PROCEDIMIENTO 2543 2570	Coronariografia diagnóstica
+T29	PROCEDIMIENTO 2573 2599	intervencionismo coronario
+T30	PROCEDIMIENTO 2666 2679	PCI con balón
+T31	PROCEDIMIENTO 2682 2720	implantación de 2 stent farmacoactivos
+T32	PROCEDIMIENTO 2733 2758	exploración neuromuscular
+T33	PROCEDIMIENTO 3867 3877	ergometría
+T34	PROCEDIMIENTO 4480 4526	Angioplastia coronaria transluminal percutánea
+T35	PROCEDIMIENTO 4529 4570	implantación de dos stents farmacoactivos
+T36	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDIMIENTO 2068 2081	doppler color
+T38	PROCEDIMIENTO 1322 1351	marcadores de daño miocárdico
+T39	PROCEDIMIENTO 225 246	tratamiento dietético
+T40	PROCEDIMIENTO 3109 3119	Bioquímica
+T41	PROCEDIMIENTO 3098 3107	analítica
+T42	PROCEDIMIENTO 973 985	se auscultan
+T43	PROCEDIMIENTO 2199 2215	Cardioresonancia
+T44	PROCEDIMIENTO 3314 3378	determinaciones de glucemia basal en ayunas concordantes y HbA1C
+T45	SINTOMA 376 381	mareo
+T46	SINTOMA 394 437	dolor torácico de características opresivas
+T47	SINTOMA 577 600	ascenso del segmento ST
+T48	SINTOMA 843 851	Eupneico
+T49	SINTOMA 856 873	soplos carotídeos
+T50	SINTOMA 878 908	ventilación pulmonar es normal
+T51	SINTOMA 914 943	ruidos cardiacos son rítmicos
+T52	SINTOMA 953 968	4o ruido apical
+T53	SINTOMA 986 992	soplos
+T54	SINTOMA 1059 1065	edemas
+T55	SINTOMA 1118 1134	dolor precordial
+T56	SINTOMA 1269 1307	alteraciones del segmento ST u onda T.
+T57	SINTOMA 1749 1784	función sistólica global conservada
+T58	SINTOMA 1793 1817	hipocinesia lateroapical
+T59	SINTOMA 2733 2772	exploración neuromuscular que es normal
+T60	SINTOMA 2776 2819	elevación de la enzima creatinfosfo quinasa
+T61	SINTOMA 4024 4044	agotamiento muscular
+T62	SINTOMA 4204 4223	Recuperación normal
+T63	SINTOMA 1640 1711	ventrículo izquierdo no dilatado, con abundantes trabéculas y sinusoide
+T64	SINTOMA 998 1054	pulsos son permeables y simétricos en las 4 extremidades
+T65	SINTOMA 1188 1195	sinusal
+T66	SINTOMA 1136 1174	no muestra alteraciones significativas
+T67	SINTOMA 4322 4409	función sistólica de ventrículo izquierdo (FEVI) en el límite inferior de la normalidad
+T68	FARMACO 2942 2964	ácido acetilsalicílico
+T69	FARMACO 2978 2989	clopidrogel
+T70	FARMACO 3002 3015	rosuvastatina
+T71	FARMACO 3025 3035	bisoprolol
+#1	AnnotatorNotes T5	 IAM: INFARTO AGUDO MIOCARDIO

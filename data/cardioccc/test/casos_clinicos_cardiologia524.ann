@@ -1,0 +1,74 @@
+T1	ENFERMEDAD 635 655	Hemiplejia izquierda
+T2	ENFERMEDAD 2283 2291	HVI leve
+T3	ENFERMEDAD 114 134	hemiplejía izquierda
+T4	ENFERMEDAD 161 201	Alergia a adolonta, metamizol y tramadol
+T5	ENFERMEDAD 203 211	Fumadora
+T6	ENFERMEDAD 278 309	estenosis mitral reumática leve
+T7	ENFERMEDAD 320 334	FA paroxística
+T8	ENFERMEDAD 336 354	Síndrome depresivo
+T9	ENFERMEDAD 406 424	aneurisma de aorta
+T10	ENFERMEDAD 858 898	ictus de características tromboembólicas
+T11	ENFERMEDAD 1308 1314	trombo
+T12	ENFERMEDAD 1364 1373	estenosis
+T13	ENFERMEDAD 1428 1473	cayado aórtico se observa hematoma intramural
+T14	ENFERMEDAD 1527 1544	úlcera penetrante
+T15	ENFERMEDAD 1901 2043	hematoma intramural que afecta a la aorta ascendente, cayado aórtico y aorta descendente y se extiende hasta el origen de las arterias renales
+T16	ENFERMEDAD 2063 2096	úlcera aórtica a nivel del cayado
+T17	ENFERMEDAD 2140 2148	hematoma
+T18	ENFERMEDAD 2178 2203	derrame pleural bilateral
+T19	ENFERMEDAD 2613 2621	hematoma
+T20	ENFERMEDAD 2777 2802	ictus hemisférico derecho
+T21	ENFERMEDAD 2822 2836	hematoma mural
+T22	ENFERMEDAD 3176 3196	hemiplejia izquierda
+T23	ENFERMEDAD 3448 3462	edema pulmonar
+T24	ENFERMEDAD 3907 3934	hematoma intramural aórtico
+T25	ENFERMEDAD 4194 4229	ACV del hemisferio cerebral derecho
+T26	ENFERMEDAD 4230 4257	Hematoma intramural aórtico
+T27	ENFERMEDAD 816 836	hemiplejía izquierda
+T28	ENFERMEDAD 2257 2281	crecimiento severo de AI
+T29	ENFERMEDAD 2351 2370	V. mitral reumática
+T30	ENFERMEDAD 2405 2435	Dilatación de aorta ascendente
+T31	ENFERMEDAD 2707 2714	IT leve
+T32	ENFERMEDAD 1146 1162	infarto subagudo
+T33	ENFERMEDAD 1848 1864	infarto subagudo
+T34	ENFERMEDAD 1063 1131	lesión hipodensa que afecta al territorio insular y frontal derechos
+T35	ENFERMEDAD 4023 4091	defecto miointimal adyacente al origen de los troncos supra-aórticos
+T36	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDIMIENTO 241 273	Valvuloplastia mitral percutánea
+T38	PROCEDIMIENTO 427 445	Exploración física
+T39	PROCEDIMIENTO 455 461	sedada
+T40	PROCEDIMIENTO 464 496	conectada a ventilación mecánica
+T41	PROCEDIMIENTO 513 534	Auscultación cardiaca
+T42	PROCEDIMIENTO 556 577	Auscultación pulmonar
+T43	PROCEDIMIENTO 1026 1061	TC cráneo sin contraste intravenoso
+T44	PROCEDIMIENTO 1164 1218	Angio-TC de troncos supraaórticos y polígono de Willis
+T45	PROCEDIMIENTO 1607 1641	angio-TC de aorta toraco-abdominal
+T46	PROCEDIMIENTO 1643 1655	TC perfusión
+T47	PROCEDIMIENTO 1866 1899	Angio-TC de aorta toracoabdominal
+T48	PROCEDIMIENTO 2241 2255	Ecocardiograma
+T49	PROCEDIMIENTO 3006 3061	tratamiento endovenoso con antihipertensivos y sedación
+T50	PROCEDIMIENTO 3129 3137	sedación
+T51	PROCEDIMIENTO 3204 3218	ecocardiograma
+T52	PROCEDIMIENTO 3467 3477	diuréticos
+T53	PROCEDIMIENTO 3508 3518	extubación
+T54	PROCEDIMIENTO 3766 3788	beta y alfabloqueantes
+T55	PROCEDIMIENTO 3829 3863	angio-TC de aorta toraco-abdominal
+T56	PROCEDIMIENTO 899 921	se activa Código Ictus
+T57	SINTOMA 78 111	deterioro del nivel de conciencia
+T58	SINTOMA 513 542	Auscultación cardiaca rítmica
+T59	SINTOMA 548 554	soplos
+T60	SINTOMA 582 611	murmullo vesicular conservado
+T61	SINTOMA 618 633	ruidos añadidos
+T62	SINTOMA 657 695	Pulsos distales positivos y simétricos
+T63	SINTOMA 770 800	pérdida súbita de conocimiento
+T64	SINTOMA 1220 1292	defecto de repleción en la rama M2 del tronco anterior de la ACM derecha
+T65	SINTOMA 2308 2321	FE conservada
+T66	SINTOMA 3160 3170	consciente
+T67	SINTOMA 3283 3315	válvula aórtica normofuncionante
+T68	SINTOMA 2323 2349	Mala relajación diastólica
+T69	SINTOMA 3150 3159	despierta
+T70	SINTOMA 393 402	fallecida
+T71	FARMACO 171 179	adolonta
+T72	FARMACO 181 190	metamizol
+T73	FARMACO 193 201	tramadol
+T74	FARMACO 378 385	sintrom

@@ -1,0 +1,70 @@
+T1	DISEASE 55 64	exfumador
+T2	DISEASE 110 120	hipertenso
+T3	DISEASE 193 204	cardiopatía
+T4	DISEASE 306 318	poliesplenia
+T5	DISEASE 415 438	miocardiopatía dilatada
+T6	DISEASE 562 585	miocardiopatía dilatada
+T7	DISEASE 676 698	estenosis aórtica leve
+T8	DISEASE 942 951	IM severa
+T9	DISEASE 1263 1292	disfunción ventricular severa
+T10	DISEASE 1996 2014	IM moderada-severa
+T11	DISEASE 2021 2045	estenosis aórtica severa
+T12	DISEASE 2577 2589	poliesplenia
+T13	DISEASE 3158 3188	Insuficiencia cardiaca crónica
+T14	DISEASE 3265 3288	Miocardiopatía dilatada
+T15	DISEASE 3375 3384	IM severa
+T16	DISEASE 3387 3411	estenosis aórtica severa
+T17	DISEASE 3431 3470	Disfunción ventricular sistólica severa
+T18	DISEASE 1317 1319	FA
+T19	DISEASE 1547 1549	FA
+T20	DISEASE 701 731	IM moderada por prolapso de P2
+T21	DISEASE 1066 1088	insuficiencia cardiaca
+T22	DISEASE 123 134	dislipémico
+T23	DISEASE 1964 1975	VI dilatado
+T24	DISEASE 2591 2621	inversión hepática y esplénica
+T25	DISEASE 2624 2654	anomalías en el drenaje venoso
+T26	DISEASE 3643 3671	anomalías del drenaje venoso
+T27	DISEASE 232 243	único riñón
+T28	DISEASE 3562 3574	Poliesplenia
+T29	DISEASE 1097 1108	IM moderada
+T30	DISEASE 2359 2366	paradas
+T31	DISEASE 3576 3594	inversión hepática
+T32	DISEASE 3612 3640	Vena cava superior izquierda
+T33	PROCEDURE 900 914	ecocardiograma
+T34	PROCEDURE 1004 1037	anuloplastia mitral de Carpentier
+T35	PROCEDURE 1135 1161	ecocardiograma de esfuerzo
+T36	PROCEDURE 1402 1413	anticoaguló
+T37	PROCEDURE 1476 1495	trasplante cardiaco
+T38	PROCEDURE 1524 1527	ECG
+T39	PROCEDURE 1610 1618	Rx tórax
+T40	PROCEDURE 1932 1946	Ecocardiograma
+T41	PROCEDURE 2167 2198	Ergometría con consumo de gases
+T42	PROCEDURE 2386 2405	Cateterismo derecho
+T43	PROCEDURE 2489 2521	Screening con TC toracoabdominal
+T44	PROCEDURE 2545 2564	trasplante cardiaco
+T45	PROCEDURE 3104 3123	trasplante cardiaco
+T46	PROCEDURE 3319 3345	Anuloplastia de Carpentier
+T47	PROCEDURE 3533 3552	trasplante cardiaco
+T48	PROCEDURE 1765 1774	serología
+T49	PROCEDURE 2314 2335	test de los 6 minutos
+T50	PROCEDURE 1341 1383	cardiovertir de forma química ni eléctrica
+T51	PROCEDURE 1430 1451	control de frecuencia
+T52	PROCEDURE 1871 1909	panel de anticuerpos antilinfocitarios
+T53	PROCEDURE 3020 3056	cirugía de prótesis aórtica y mitral
+T54	PROCEDURE 1674 1683	analítica
+T55	PROCEDURE 1191 1203	reintervenir
+T56	SYMPTOM 506 518	asintomático
+T57	SYMPTOM 740 752	asintomático
+T58	SYMPTOM 859 888	disnea de moderados esfuerzos
+T59	SYMPTOM 1594 1606	QRS estrecho
+T60	SYMPTOM 1620 1633	ICT aumentado
+T61	SYMPTOM 1647 1666	congestión pulmonar
+T62	SYMPTOM 1820 1855	negativo para virus hepatitis y VIH
+T63	SYMPTOM 1765 1817	serología era positivo para Toxoplasma IgG y CMV IgG
+T64	SYMPTOM 1871 1918	panel de anticuerpos antilinfocitarios positivo
+T65	SYMPTOM 637 656	coronarias normales
+T66	SYMPTOM 590 631	disfunción ventricular izquierda moderada
+T67	SYMPTOM 2370 2382	desaturación
+T68	SYMPTOM 2656 2712	vena cava superior izquierda que drena al seno coronario
+T69	SYMPTOM 2714 2767	ausencia de vena cava por encima de las venas renales
+T70	SYMPTOM 2769 2880	drenando todo el sistema veno infrahepático directamente a la cava superior derecha a través del sistema ácigos

@@ -1,0 +1,137 @@
+T1	ENFERMEDAD 127 139	dislipidemia
+T2	ENFERMEDAD 141 162	hipertensión arterial
+T3	ENFERMEDAD 164 173	sobrepeso
+T4	ENFERMEDAD 183 207	diabetes mellitus tipo 2
+T5	ENFERMEDAD 474 487	histiocitosis
+T6	ENFERMEDAD 756 775	EPOC fenotipo mixto
+T7	ENFERMEDAD 1548 1557	serositis
+T8	ENFERMEDAD 2468 2493	trombosis venosa profunda
+T9	ENFERMEDAD 2495 2498	TVP
+T10	ENFERMEDAD 2777 2792	derrame pleural
+T11	ENFERMEDAD 2795 2817	condensación neumónica
+T12	ENFERMEDAD 3035 3050	derrame pleural
+T13	ENFERMEDAD 3053 3075	condensación neumónica
+T14	ENFERMEDAD 3103 3124	fibrilación auricular
+T15	ENFERMEDAD 3237 3262	Extrasistolia ventricular
+T16	ENFERMEDAD 5000 5013	valvulopatías
+T17	ENFERMEDAD 5080 5105	Insuficiencia tricuspídea
+T18	ENFERMEDAD 5200 5225	Derrame pericárdico grave
+T19	ENFERMEDAD 5939 5996	shock obstructivo en el contexto de taponamiento cardiaco
+T20	ENFERMEDAD 6821 6840	derrame pericárdico
+T21	ENFERMEDAD 7049 7106	Shock obstructivo en el contexto de taponamiento cardiaco
+T22	ENFERMEDAD 7108 7133	Derrame pericárdico grave
+T23	ENFERMEDAD 7149 7170	taponamiento cardiaco
+T24	ENFERMEDAD 7387 7400	Poliserositis
+T25	ENFERMEDAD 7413 7436	Síndrome constitucional
+T26	ENFERMEDAD 7458 7485	síndrome de Erdheim-Chester
+T27	ENFERMEDAD 7487 7526	histiocitosis esclerosante poliostótica
+T28	ENFERMEDAD 7324 7356	Fibrilación auricular permanente
+T29	ENFERMEDAD 3159 3204	Hemibloqueo anterior izquierdo del haz de His
+T30	ENFERMEDAD 237 269	fibrilación auricular permanente
+T31	ENFERMEDAD 5107 5109	IT
+T32	ENFERMEDAD 5137 5164	Vena cava inferior dilatada
+T33	ENFERMEDAD 5414 5469	shock obstructivo secundario a un taponamiento cardiaco
+T34	ENFERMEDAD 6505 6524	líquido pericárdico
+T35	PROCEDIMIENTO 270 298	anticoagulada con dabigatrán
+T36	PROCEDIMIENTO 490 509	Gastro/colonoscopia
+T37	PROCEDIMIENTO 522 525	PET
+T38	PROCEDIMIENTO 605 632	Biopsia de grasa perirrenal
+T39	PROCEDIMIENTO 1881 1899	Exploración física
+T40	PROCEDIMIENTO 2558 2581	Radiografía de tórax AP
+T41	PROCEDIMIENTO 2819 2842	Radiografía de tórax AP
+T42	PROCEDIMIENTO 3077 3095	Electrocardiograma
+T43	PROCEDIMIENTO 3097 3100	ECG
+T44	PROCEDIMIENTO 3288 3307	Analítica sanguínea
+T45	PROCEDIMIENTO 3309 3318	Hemograma
+T46	PROCEDIMIENTO 3753 3763	Hemostasia
+T47	PROCEDIMIENTO 4304 4318	Perfil férrico
+T48	PROCEDIMIENTO 4474 4498	Marcadores de congestión
+T49	PROCEDIMIENTO 4562 4577	Perfil lipídico
+T50	PROCEDIMIENTO 4750 4779	Ecocardiografía transtorácica
+T51	PROCEDIMIENTO 4781 4784	ETT
+T52	PROCEDIMIENTO 5485 5514	ecocardiografía transtorácica
+T53	PROCEDIMIENTO 5655 5674	cuidados coronarios
+T54	PROCEDIMIENTO 5728 5737	hemograma
+T55	PROCEDIMIENTO 5740 5750	hemostasia
+T56	PROCEDIMIENTO 5778 5796	pericardiocentesis
+T57	PROCEDIMIENTO 6124 6139	anticoagulación
+T58	PROCEDIMIENTO 6333 6402	pericardiocentesis diagnóstica/terapéutica guiada por ecocardiografía
+T59	PROCEDIMIENTO 6647 6676	soporte vasoactivo/inotrópico
+T60	PROCEDIMIENTO 6779 6793	ecocardiograma
+T61	PROCEDIMIENTO 6899 6916	se retira drenaje
+T62	PROCEDIMIENTO 7238 7256	pericardiocentesis
+T63	PROCEDIMIENTO 7172 7200	Reversión de anticoagulación
+T64	PROCEDIMIENTO 7357 7370	anticoagulada
+T65	PROCEDIMIENTO 3942 3952	Bioquímica
+T66	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T67	PROCEDIMIENTO 3597 3607	Hemostasia
+T68	PROCEDIMIENTO 7268 7286	Pericardiocentesis
+T69	PROCEDIMIENTO 5526 5559	administrar volumen intravascular
+T70	PROCEDIMIENTO 6181 6217	parámetros hemostáticos en analítica
+T71	PROCEDIMIENTO 2166 2180	Cardiopulmonar
+T72	SINTOMA 372 387	pérdida de peso
+T73	SINTOMA 417 436	sudoración nocturna
+T74	SINTOMA 490 520	Gastro/colonoscopia: negativos
+T75	SINTOMA 777 807	Claudicación intermitente MMII
+T76	SINTOMA 1397 1424	disnea de mínimos esfuerzos
+T77	SINTOMA 1448 1456	ortopnea
+T78	SINTOMA 1458 1476	disnea paroxística
+T79	SINTOMA 1479 1494	astenia intensa
+T80	SINTOMA 1499 1513	dolor torácico
+T81	SINTOMA 1518 1531	palpitaciones
+T82	SINTOMA 1579 1586	astenia
+T83	SINTOMA 1900 1911	Taquipneico
+T84	SINTOMA 1916 1943	mala tolerancia al decúbito
+T85	SINTOMA 1945 1964	palidez mucocutánea
+T86	SINTOMA 2111 2132	Ingurgitación yugular
+T87	SINTOMA 2134 2164	Reflejo hepatoyugular positivo
+T88	SINTOMA 2182 2226	ruidos cardiacos irregulares e hipofonéticos
+T89	SINTOMA 2231 2237	soplos
+T90	SINTOMA 2239 2269	Ruidos respiratorios presentes
+T91	SINTOMA 2274 2302	hipoventilación generalizada
+T92	SINTOMA 2304 2368	Abdomen: globuloso, blando y depresible, doloroso a la palpación
+T93	SINTOMA 2403 2409	Murphy
+T94	SINTOMA 2411 2434	Extremidades: no edemas
+T95	SINTOMA 2511 2531	hipoperfusión distal
+T96	SINTOMA 2617 2671	silueta cardiomediastínica centrada sin ensanchamiento
+T97	SINTOMA 2730 2759	Campos pulmonares traslucidos
+T98	SINTOMA 2851 2897	silueta cardiomediastínica aumentada de tamaño
+T99	SINTOMA 2957 2997	redistribución del flujo vascular apical
+T100	SINTOMA 3206 3235	Ondas T negativas en DI y aVL
+T101	SINTOMA 4797 4842	ventrículo izquierdo de diámetros conservados
+T102	SINTOMA 4891 4917	Aurículas de tamaño normal
+T103	SINTOMA 5030 5078	Ventrículo derecho con contractilidad conservada
+T104	SINTOMA 6618 6642	estabilidad hemodinámica
+T105	SINTOMA 338 361	síndrome constitucional
+T106	SINTOMA 1590 1613	síndrome constitucional
+T107	SINTOMA 4931 4976	alteraciones de la contractilidad segmentaria
+T108	SINTOMA 6863 6886	compromiso hemodinámico
+T109	SINTOMA 527 558	depósitos perirrenales de grasa
+T110	SINTOMA 2389 2398	Bloomberg
+T111	SINTOMA 2919 2952	Infiltrado intersticial bilateral
+T112	SINTOMA 2999 3008	Cisuritis
+T113	SINTOMA 7268 7322	Pericardiocentesis con drenaje de 560 cc serohemáticos
+T114	SINTOMA 563 603	afectación de huesos de cadera y columna
+T115	SINTOMA 1966 1969	MEG
+T116	SINTOMA 4843 4878	función global sistólica conservada
+T117	SINTOMA 6333 6446	pericardiocentesis diagnóstica/terapéutica guiada por ecocardiografía extrayéndose 650 cc de líquido serohemático
+T118	FARMACO 288 298	dabigatrán
+T119	FARMACO 831 845	empagliflozina
+T120	FARMACO 873 883	metformina
+T121	FARMACO 919 929	dabigatrán
+T122	FARMACO 1003 1016	atorvastatina
+T123	FARMACO 1044 1053	diltiazem
+T124	FARMACO 1125 1131	hierro
+T125	FARMACO 1138 1147	lorazepam
+T126	FARMACO 1174 1183	omeprazol
+T127	FARMACO 1211 1220	valsartán
+T128	FARMACO 3795 3807	idarucizumab
+T129	FARMACO 5605 5618	norepinefrina
+T130	FARMACO 6089 6101	idarucizumab
+T131	FARMACO 7000 7010	dabigatrán
+T132	FARMACO 7205 7215	dabigatrán
+T133	FARMACO 7220 7232	idarucizumab
+T134	FARMACO 7375 7385	dabigatrán
+T135	FARMACO 976 1000	salmeterol + fluticasona
+T136	FARMACO 1069 1092	dutasterida/tamsulosina
+#1	AnnotatorNotes T31	 insuficiencia tricuspide

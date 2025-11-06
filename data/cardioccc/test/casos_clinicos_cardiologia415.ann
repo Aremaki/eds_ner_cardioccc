@@ -1,0 +1,113 @@
+T1	ENFERMEDAD 658 693	taquicardia rítmica de QRS estrecho
+T2	ENFERMEDAD 101 109	alergias
+T3	ENFERMEDAD 195 221	infarto agudo de miocardio
+T4	ENFERMEDAD 223 226	IAM
+T5	ENFERMEDAD 386 407	crisis tónico-clónica
+T6	ENFERMEDAD 512 535	fibrilación ventricular
+T7	ENFERMEDAD 537 539	FV
+T8	ENFERMEDAD 813 820	infarto
+T9	ENFERMEDAD 859 881	DA mostrando estenosis
+T10	ENFERMEDAD 2485 2505	insuficiencia mitral
+T11	ENFERMEDAD 2913 2945	hiperplasia de músculos pailares
+T12	ENFERMEDAD 2984 3009	insuficiencia tricuspídea
+T13	ENFERMEDAD 3011 3013	IT
+T14	ENFERMEDAD 3356 3390	Leve hipertensión arterial pulmona
+T15	ENFERMEDAD 3393 3396	HAP
+T16	ENFERMEDAD 3472 3510	Leve dilatación del ventrículo derecho
+T17	ENFERMEDAD 4297 4316	síndrome de Brugada
+T18	ENFERMEDAD 4434 4453	síndrome de Brugada
+T19	ENFERMEDAD 4568 4587	Síndrome de Brugada
+T20	ENFERMEDAD 2256 2287	Descendente anterior: estenosis
+T21	ENFERMEDAD 4152 4155	HAP
+T22	ENFERMEDAD 2507 2509	IM
+T23	ENFERMEDAD 4407 4410	PCR
+T24	ENFERMEDAD 4510 4520	PCR por FV
+T25	ENFERMEDAD 2884 2897	Dilatación VD
+T26	ENFERMEDAD 3994 4010	Dilatación de VD
+T27	ENFERMEDAD 4379 4429	parada cardiorrespiratoria (PCR) por FV recuperada
+T28	ENFERMEDAD 965 984	lesiones coronarias
+T29	ENFERMEDAD 4028 4078	hiperplasia de músculos papilares y pared anterior
+T30	ENFERMEDAD 1306 1309	BRD
+T31	ENFERMEDAD 2539 2541	EV
+T32	ENFERMEDAD 4105 4150	leve aumento del diámetro de arteria pulmonar
+T33	PROCEDIMIENTO 479 497	electrocardiograma
+T34	PROCEDIMIENTO 499 502	ECG
+T35	PROCEDIMIENTO 557 573	desfibrilaciones
+T36	PROCEDIMIENTO 633 636	ECG
+T37	PROCEDIMIENTO 834 861	cateterismo cardiaco con DA
+T38	PROCEDIMIENTO 1063 1081	EXPLORACIÓN FÍSICA
+T39	PROCEDIMIENTO 1156 1177	Auscultación cardiaca
+T40	PROCEDIMIENTO 1200 1221	Auscultación pulmonar
+T41	PROCEDIMIENTO 1286 1289	ECG
+T42	PROCEDIMIENTO 1710 1723	proteinograma
+T43	PROCEDIMIENTO 1732 1752	Marcadores cardiacos
+T44	PROCEDIMIENTO 1822 1838	Función tiroidea
+T45	PROCEDIMIENTO 1871 1880	Hemograma
+T46	PROCEDIMIENTO 2025 2036	Coagulación
+T47	PROCEDIMIENTO 2078 2093	CORONARIOGRAFÍA
+T48	PROCEDIMIENTO 2390 2406	Ventriculografía
+T49	PROCEDIMIENTO 2553 2575	inyección de contraste
+T50	PROCEDIMIENTO 2618 2633	ecocardiografía
+T51	PROCEDIMIENTO 2635 2649	ECOCARDIOGRAMA
+T52	PROCEDIMIENTO 3676 3696	RADIOGRAFÍA DE TÓRAX
+T53	PROCEDIMIENTO 3698 3766	posimplante de desfibrilador automático implantable [DAI] subcutáneo
+T54	PROCEDIMIENTO 3915 3930	betabloqueantes
+T55	PROCEDIMIENTO 3943 3957	ecocardiograma
+T56	PROCEDIMIENTO 4175 4201	implante de DAI subcutáneo
+T57	PROCEDIMIENTO 4262 4280	test de flecainida
+T58	PROCEDIMIENTO 4482 4495	test genético
+T59	PROCEDIMIENTO 4602 4618	estudio genético
+T60	PROCEDIMIENTO 4621 4647	Implante de DAI subcutáneo
+T61	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T62	PROCEDIMIENTO 3399 3419	RESONANCIA MAGNÉTICA
+T63	PROCEDIMIENTO 1390 1400	bioquímica
+T64	PROCEDIMIENTO 1379 1388	ANALÍTICA
+T65	PROCEDIMIENTO 793 820	Se activa el código infarto
+T66	SINTOMA 285 297	asintomático
+T67	SINTOMA 317 330	palpitaciones
+T68	SINTOMA 336 354	sensación de mareo
+T69	SINTOMA 356 380	relajación de esfínteres
+T70	SINTOMA 386 407	crisis tónico-clónica
+T71	SINTOMA 409 428	mordedura de lengua
+T72	SINTOMA 431 452	pérdida de conciencia
+T73	SINTOMA 708 750	elevación de ST de V1 a V4 en cara lateral
+T74	SINTOMA 1112 1122	consciente
+T75	SINTOMA 1125 1134	orientado
+T76	SINTOMA 1136 1154	Eupneico en reposo
+T77	SINTOMA 1179 1186	rítmico
+T78	SINTOMA 1192 1198	soplos
+T79	SINTOMA 1241 1259	signos congestivos
+T80	SINTOMA 1291 1304	ritmo sinusal
+T81	SINTOMA 1312 1350	elevación de punto J y ST anteroseptal
+T82	SINTOMA 2204 2226	Flujo coronario normal
+T83	SINTOMA 2408 2441	correcta función sistólica global
+T84	SINTOMA 2662 2715	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T85	SINTOMA 2717 2752	Función sistólica global conservada
+T86	SINTOMA 2814 2882	tamaño en límite superior de la normalidad, así como la raíz aórtica
+T87	SINTOMA 3047 3072	Cava inferior no dilatada
+T88	SINTOMA 3125 3138	Mitral normal
+T89	SINTOMA 3158 3182	Patrón diastólico normal
+T90	SINTOMA 3421 3440	VI de tamaño normal
+T91	SINTOMA 3446 3470	función sistólica normal
+T92	SINTOMA 3492 3539	ventrículo derecho (VD), con función conservada
+T93	SINTOMA 3626 3650	realce tardio miocárdico
+T94	SINTOMA 3652 3674	Aurículas no dilatadas
+T95	SINTOMA 3877 3889	asintomático
+T96	SINTOMA 3943 3992	ecocardiograma, que muestra función del VI normal
+T97	SINTOMA 1223 1235	normoventila
+T98	SINTOMA 2792 2856	Aurícula izquierda de tamaño en límite superior de la normalidad
+T99	SINTOMA 4522 4551	Coronarias libres de lesiones
+T100	SINTOMA 2134 2152	dominancia derecha
+T101	SINTOMA 1710 1730	proteinograma normal
+T102	SINTOMA 2154 2202	Arterias coronarias sin estenosis significativas
+T103	SINTOMA 2228 2254	Tronco común: Sin lesiones
+T104	SINTOMA 2338 2364	Circunfleja: sin estenosis
+T105	SINTOMA 2366 2388	Derecha: sin estenosis
+T106	SINTOMA 3184 3233	Arteria pulmonar con muy leve aumento de diámetro
+T107	SINTOMA 3541 3592	Músculo accesorio papilar en el seno del ventrículo
+#1	AnnotatorNotes T15	  Hipertensión arterial pulmonar
+#2	AnnotatorNotes T21	  Hipertensión arterial pulmonar
+#3	AnnotatorNotes T22	  insuficiencia mitral
+#4	AnnotatorNotes T23	  Parada cardiorespiratoria
+#5	AnnotatorNotes T24	  PCR: parada cardiorespiratoria, FV fibrilación ventricular
+#6	AnnotatorNotes T25	  VD: ventrículo derecho

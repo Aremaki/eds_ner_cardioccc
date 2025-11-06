@@ -1,0 +1,115 @@
+T1	ENFERMEDAD 128 136	obesidad
+T2	ENFERMEDAD 148 175	insuficiencia aórtica grave
+T3	ENFERMEDAD 605 619	hipotiroidismo
+T4	ENFERMEDAD 1769 1794	trombosis venosa profunda
+T5	ENFERMEDAD 2464 2473	trombosis
+T6	ENFERMEDAD 2569 2623	síndrome coronario agudo sin elevación del segmento ST
+T7	ENFERMEDAD 2625 2632	SCASEST
+T8	ENFERMEDAD 4064 4083	valvulopatía mitral
+T9	ENFERMEDAD 4254 4263	estenosis
+T10	ENFERMEDAD 4335 4360	insuficiencia tricuspídea
+T11	ENFERMEDAD 4362 4364	IT
+T12	ENFERMEDAD 4426 4445	derrame pericárdico
+T13	ENFERMEDAD 4514 4552	trombosis de prótesis mecánica aórtica
+T14	ENFERMEDAD 4577 4583	trombo
+T15	ENFERMEDAD 6158 6201	embolismo en coronaria descendente anterior
+T16	ENFERMEDAD 6364 6422	disección aórtica y/o de tronco braquiocefálico y carótida
+T17	ENFERMEDAD 6925 6932	SCASEST
+T18	ENFERMEDAD 6936 6955	embolismo coronario
+T19	ENFERMEDAD 7701 7748	Infarto agudo de miocardio sin elevación del ST
+T20	ENFERMEDAD 7781 7835	embolismo a nivel de la coronaria descendente anterior
+T21	ENFERMEDAD 7856 7887	accidente isquémico transitorio
+T22	ENFERMEDAD 4619 4625	trombo
+T23	ENFERMEDAD 5495 5541	disección a lo largo de la aorta ni de sus TSA
+T24	ENFERMEDAD 5079 5104	lesiones ateroscleróticas
+T25	ENFERMEDAD 7027 7083	liberar un pequeño émbolo hasta la circulación coronaria
+T26	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T27	PROCEDIMIENTO 252 305	reemplazo de aorta ascendente con reparación valvular
+T28	PROCEDIMIENTO 346 383	implante de prótesis aórtica metálica
+T29	PROCEDIMIENTO 1373 1396	exploración neurológica
+T30	PROCEDIMIENTO 1513 1534	auscultación cardiaca
+T31	PROCEDIMIENTO 1580 1605	auscultación respiratoria
+T32	PROCEDIMIENTO 1820 1838	electrocardiograma
+T33	PROCEDIMIENTO 1840 1843	ECG
+T34	PROCEDIMIENTO 2171 2174	ECG
+T35	PROCEDIMIENTO 2248 2276	ecocardiograma transtorácico
+T36	PROCEDIMIENTO 2374 2403	ecocardiograma transesofágico
+T37	PROCEDIMIENTO 2522 2525	eco
+T38	PROCEDIMIENTO 2528 2549	electrocardiográficos
+T39	PROCEDIMIENTO 2663 2678	coronariografía
+T40	PROCEDIMIENTO 2747 2770	monitorización continua
+T41	PROCEDIMIENTO 2797 2800	ECG
+T42	PROCEDIMIENTO 2910 2913	ECG
+T43	PROCEDIMIENTO 3096 3105	hemograma
+T44	PROCEDIMIENTO 3302 3313	Coagulación
+T45	PROCEDIMIENTO 3657 3686	marcadores de daño miocárdico
+T46	PROCEDIMIENTO 3801 3829	Ecocardiograma transtorácico
+T47	PROCEDIMIENTO 4447 4476	Ecocardiograma transesofágico
+T48	PROCEDIMIENTO 4478 4481	ETE
+T49	PROCEDIMIENTO 4642 4657	Coronariografía
+T50	PROCEDIMIENTO 5121 5129	TC aorta
+T51	PROCEDIMIENTO 5679 5693	monitorización
+T52	PROCEDIMIENTO 5727 5742	coronariografía
+T53	PROCEDIMIENTO 6087 6098	cateterismo
+T54	PROCEDIMIENTO 6240 6260	ecografía obstétrica
+T55	PROCEDIMIENTO 6328 6344	angio-TC aórtico
+T56	PROCEDIMIENTO 6562 6577	anticoagulación
+T57	PROCEDIMIENTO 6670 6696	tratamiento anticoagulante
+T58	PROCEDIMIENTO 7421 7425	HBPM
+T59	PROCEDIMIENTO 7498 7540	reintroducir antagonistas de la vitamina K
+T60	PROCEDIMIENTO 7568 7573	parto
+T61	PROCEDIMIENTO 3442 3452	Bioquímica
+T62	PROCEDIMIENTO 7542 7545	AVK
+T63	PROCEDIMIENTO 3085 3094	Analítica
+T64	PROCEDIMIENTO 385 398	Anticoagulada
+T65	PROCEDIMIENTO 2030 2039	analítica
+T66	PROCEDIMIENTO 148 250	insuficiencia aórtica grave intervenida quirúrgicamente a los 24 años mediante técnica de Tyrone-David
+T67	PROCEDIMIENTO 5989 6020	interrupción legal del embarazo
+T68	SINTOMA 712 736	dolor en región cervical
+T69	SINTOMA 760 801	sensación de acorchamiento en la hemicara
+T70	SINTOMA 825 884	dolor precordial de intensidad moderada irradiado al hombro
+T71	SINTOMA 905 912	vómitos
+T72	SINTOMA 931 947	malestar general
+T73	SINTOMA 1083 1100	parestesia facial
+T74	SINTOMA 1137 1162	molestias centrotorácicas
+T75	SINTOMA 1229 1253	estabilidad hemodinámica
+T76	SINTOMA 1324 1331	afebril
+T77	SINTOMA 1432 1459	Pares craneales conservados
+T78	SINTOMA 1462 1498	pupilas isocóricas y normorreactivas
+T79	SINTOMA 1513 1542	auscultación cardiaca rítmica
+T80	SINTOMA 1567 1573	soplos
+T81	SINTOMA 1610 1639	murmullo vesicular conservada
+T82	SINTOMA 1669 1709	abdomen es blando, depresible e indoloro
+T83	SINTOMA 1716 1755	miembros inferiores no presentan edemas
+T84	SINTOMA 1863 1909	rectificación del segmento ST en cara inferior
+T85	SINTOMA 2053 2095	elevación de marcadores de daño miocárdico
+T86	SINTOMA 2179 2235	ondas T negativas en derivación V5-V6 y en II, III y aVF
+T87	SINTOMA 2810 2823	ritmo sinusal
+T88	SINTOMA 2834 2844	eje normal
+T89	SINTOMA 2846 2861	ST isoeléctrico
+T90	SINTOMA 2863 2893	ondas T aplanadas en III y aVF
+T91	SINTOMA 2935 2948	ritmo sinusal
+T92	SINTOMA 2959 2969	eje normal
+T93	SINTOMA 2985 3031	ondas T negativas en II, III, aVF y de V3 a V6
+T94	SINTOMA 3033 3060	Elevación de ST 1 mm en III
+T95	SINTOMA 3063 3083	rectificación en aVF
+T96	SINTOMA 3831 3893	ventrículo izquierdo no dilatado sin hipertrofia significativa
+T97	SINTOMA 3895 3972	fracción de eyección de ventrículo izquierdo (FEVI) subjetivamente conservada
+T98	SINTOMA 3977 4029	disquinesia en ápex, inferior distal y septal distal
+T99	SINTOMA 7165 7185	parestesias faciales
+T100	SINTOMA 7188 7202	dolor cervical
+T101	SINTOMA 72 82	primigesta
+T102	SINTOMA 2289 2352	defectos de la contractilidad segmentaria inferoapical y apical
+T103	SINTOMA 4035 4059	patrón diastólico normal
+T104	SINTOMA 4085 4115	Aurícula izquierda no dilatada
+T105	SINTOMA 4266 4330	Ventrículo derecho (VD) no dilatado con función sistólica normal
+T106	SINTOMA 4600 4614	VI no dilatado
+T107	SINTOMA 4692 4732	Tronco coronario izquierdo sin estenosis
+T108	SINTOMA 1373 1415	exploración neurológica descarta focalidad
+T109	SINTOMA 4670 4690	dominancia izquierda
+T110	SINTOMA 4902 4937	Arteria circunfleja de buen calibre
+T111	FARMACO 417 429	acenocumarol
+T112	FARMACO 479 510	heparina de bajo peso molecular
+T113	FARMACO 512 516	HBPM
+T114	FARMACO 535 546	enoxaparina
+T115	FARMACO 639 651	levotiroxina

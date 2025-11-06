@@ -1,0 +1,101 @@
+T1	DISEASE 131 143	hipertensión
+T2	DISEASE 145 155	dislipemia
+T3	DISEASE 157 167	tabaquismo
+T4	DISEASE 169 184	diabetes tipo 2
+T5	DISEASE 375 387	colelitiasis
+T6	DISEASE 596 655	síndrome coronario agudo con elevación del ST anterolateral
+T7	DISEASE 727 786	lesión subtotal trombótica aguda de la descendente anterior
+T8	DISEASE 869 900	lesiones moderadas en OM1 y OM2
+T9	DISEASE 964 995	disfunción ventricular moderada
+T10	DISEASE 2362 2384	insuficiencia cardiaca
+T11	DISEASE 2605 2636	disfunción ventricular moderada
+T12	DISEASE 2733 2746	valvulopatías
+T13	DISEASE 2766 2785	derrame pericárdico
+T14	DISEASE 2836 2909	ADA: normodesarrollada de regular calibre, con lesión subtotal trombótica
+T15	DISEASE 3078 3123	ACD: dominante, afectación ateromatosa difusa
+T16	DISEASE 3207 3222	lesión de la DA
+T17	DISEASE 3645 3661	hábito tabáquico
+T18	DISEASE 3870 3911	disfunción ventricular moderada isquémica
+T19	DISEASE 4401 4457	Infarto agudo de miocardio con elevación del ST anterior
+T20	DISEASE 4468 4500	Enfermedad severa de da proximal
+T21	DISEASE 4548 4589	Disfunción ventricular izquierda moderada
+T22	DISEASE 4591 4612	Hipertensión arterial
+T23	DISEASE 4614 4638	Diabetes mellitus tipo 2
+T24	DISEASE 4656 4666	Dislipemia
+T25	DISEASE 903 929	enfermedad difusa de la CD
+T26	DISEASE 2402 2465	ventrículo izquierdo de tamaño normal, ligeramente hipertrófico
+T27	DISEASE 3031 3076	1 y 2 OM presenta lesiones moderadas ostiales
+T28	DISEASE 4344 4349	fumar
+T29	PROCEDURE 681 696	coronariografía
+T30	PROCEDURE 766 849	descendente anterior proximal que se trató con el implante de 1 stent farmacoactivo
+T31	PROCEDURE 937 951	ecocardiograma
+T32	PROCEDURE 1372 1397	tratamiento antidiabético
+T33	PROCEDURE 1434 1457	rehabilitación cardiaca
+T34	PROCEDURE 1460 1478	Exploración física
+T35	PROCEDURE 1612 1633	Auscultación cardiaca
+T36	PROCEDURE 1676 1678	AP
+T37	PROCEDURE 1820 1846	Exploración antropométrica
+T38	PROCEDURE 2022 2033	Coagulación
+T39	PROCEDURE 2090 2109	Perfil lipoproteico
+T40	PROCEDURE 2208 2226	Electrocardiograma
+T41	PROCEDURE 2281 2301	Radiografía de tórax
+T42	PROCEDURE 2386 2400	Ecocardiograma
+T43	PROCEDURE 2787 2798	Cateterismo
+T44	PROCEDURE 3152 3222	ICP Con catéter guía XB 3,5 6F se pasa guía BMW por la lesión de la DA
+T45	PROCEDURE 3452 3475	rehabilitación cardiaca
+T46	PROCEDURE 3541 3561	entrenamiento físico
+T47	PROCEDURE 3992 4013	antidiabéticos orales
+T48	PROCEDURE 4197 4212	insulinoterapia
+T49	PROCEDURE 4489 4546	da proximal tratada con implante de 1 stent farmacoactivo
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 3280 3321	se implanta un stent farmacoactivo Promus
+T52	PROCEDURE 3793 3814	tratamiento diabético
+T53	PROCEDURE 1949 1958	Analítica
+T54	PROCEDURE 1552 1567	Cabeza y cuello
+T55	PROCEDURE 3224 3248	Se predilatada con balón
+T56	SYMPTOM 1502 1521	Buen estado general
+T57	SYMPTOM 1523 1541	eupneica en reposo
+T58	SYMPTOM 1543 1550	afebril
+T59	SYMPTOM 1582 1610	ingurgitación venosa yugular
+T60	SYMPTOM 1635 1649	tonos rítmicos
+T61	SYMPTOM 1654 1660	soplos
+T62	SYMPTOM 1664 1674	extratonos
+T63	SYMPTOM 1680 1709	murmullo vesicular conservado
+T64	SYMPTOM 1736 1769	Extremidades inferiores: no edema
+T65	SYMPTOM 1771 1818	Pulsos radiales y pedios presentes y simétricos
+T66	SYMPTOM 2022 2040	Coagulación normal
+T67	SYMPTOM 2228 2241	ritmo sinusal
+T68	SYMPTOM 2303 2346	índice cardiotorácico ligeramente aumentado
+T69	SYMPTOM 2402 2439	ventrículo izquierdo de tamaño normal
+T70	SYMPTOM 2681 2728	Ventrículo derecho de tamaño y función normales
+T71	SYMPTOM 3670 3685	pérdida de peso
+T72	SYMPTOM 625 641	elevación del ST
+T73	SYMPTOM 1011 1058	aquinesia anterior, apical y del septo anterior
+T74	SYMPTOM 2467 2476	Aquinesia
+T75	SYMPTOM 2800 2834	TCI: de buen calibre, sin lesiones
+T76	SYMPTOM 2547 2559	hipoquinesia
+T77	SYMPTOM 2966 3013	ACX: de buen calibre y desarrollo, sin lesiones
+T78	MEDICATION 256 266	metformina
+T79	MEDICATION 268 280	vidagliptina
+T80	MEDICATION 282 293	glimepirida
+T81	MEDICATION 296 308	pioglitazona
+T82	MEDICATION 411 416	adiro
+T83	MEDICATION 425 438	rosuvastatina
+T84	MEDICATION 446 473	enalapril/hidroclorotiazida
+T85	MEDICATION 486 510	metformina/vildagliptina
+T86	MEDICATION 520 532	pioglitazona
+T87	MEDICATION 534 545	glimepirida
+T88	MEDICATION 1168 1173	adiro
+T89	MEDICATION 1189 1198	prasugrel
+T90	MEDICATION 1213 1224	pantoprazol
+T91	MEDICATION 1239 1249	carvedilol
+T92	MEDICATION 1264 1273	enalapril
+T93	MEDICATION 1287 1300	atorvastatina
+T94	MEDICATION 1315 1325	eplerenona
+T95	MEDICATION 1340 1350	ivabradina
+T96	MEDICATION 4092 4104	pioglitazona
+T97	MEDICATION 4106 4117	glimepirida
+T98	MEDICATION 4120 4132	vidagliptina
+T99	MEDICATION 4147 4157	metformina
+T100	MEDICATION 4171 4184	empaglifozina
+T101	MEDICATION 4220 4246	insulina lenta como rápida

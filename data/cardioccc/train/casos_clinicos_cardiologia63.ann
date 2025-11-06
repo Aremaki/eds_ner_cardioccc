@@ -1,0 +1,207 @@
+T1	DISEASE 61 84	alergias medicamentosas
+T2	DISEASE 86 110	Diabetes mellitus tipo 2
+T3	DISEASE 246 264	Síndrome depresivo
+T4	DISEASE 461 475	esplenomegalia
+T5	DISEASE 594 614	Esclerosis sistémica
+T6	DISEASE 1431 1497	bloqueo auriculoventricular (BAV) completo con escape de QRS ancho
+T7	DISEASE 1460 1463	BAV
+T8	DISEASE 1649 1671	insuficiencia cardiaca
+T9	DISEASE 1763 1799	BAV completo con escape de QRS ancho
+T10	DISEASE 1909 1969	taquicardia ventricular polimórfica tipo torsades de pointes
+T11	DISEASE 2358 2368	calcinosis
+T12	DISEASE 2814 2839	trombosis venosa profunda
+T13	DISEASE 4686 4746	bloqueo auriculoventricular completo con escape de QRS ancho
+T14	DISEASE 4774 4810	BAV completo con escape de QRS ancho
+T15	DISEASE 4929 4989	taquicardia ventricular polimórfica tipo torsades de pointes
+T16	DISEASE 5526 5529	EAP
+T17	DISEASE 6156 6218	Válvula Mitral de velos engrosados, con insuficiencia moderada
+T18	DISEASE 6220 6261	Válvula tricúspide con insuficiencia leve
+T19	DISEASE 6324 6343	derrame pericárdico
+T20	DISEASE 6468 6481	Cardiomegalia
+T21	DISEASE 6540 6561	hipertensión pulmonar
+T22	DISEASE 6686 6700	edema pulmonar
+T23	DISEASE 6707 6724	fibrosis pulmonar
+T24	DISEASE 6737 6798	Adenopatías calcificadas mediastínicas e hiliares bilaterales
+T25	DISEASE 7892 7964	nefropatía tubulointersticial con afectación severa y cambios vasculares
+T26	DISEASE 8631 8651	insuficiencia mitral
+T27	DISEASE 8954 8974	hipertensión crónica
+T28	DISEASE 9208 9241	insuficiencia respiratoria global
+T29	DISEASE 9461 9477	disfunción renal
+T30	DISEASE 10000 10026	anemia con reticulocitosis
+T31	DISEASE 10070 10073	EAP
+T32	DISEASE 10117 10136	crisis hipertensiva
+T33	DISEASE 10755 10806	nefropatía tubulointersticial y afectación vascular
+T34	DISEASE 10841 10857	enfermedad renal
+T35	DISEASE 11270 11297	Esclerosis sistémica difusa
+T36	DISEASE 11331 11407	Fibrosis pulmonar 2o a afectación pulmonar de la esclerosis sistémica difusa
+T37	DISEASE 11447 11466	fibrosis miocárdica
+T38	DISEASE 11469 11555	disfunción ventricular leve 2o a afectación cardiaca de la esclerosis sistémica difusa
+T39	DISEASE 11409 11445	Bloqueo auriculoventricular completo
+T40	DISEASE 9155 9180	derrame pleural bilateral
+T41	DISEASE 2692 2706	esplenomegalia
+T42	DISEASE 6361 6375	esplenomegalia
+T43	DISEASE 4588 4618	hemibloqueo anterior izquierdo
+T44	DISEASE 2259 2270	microstomía
+T45	DISEASE 2334 2341	úlceras
+T46	DISEASE 2272 2309	piel esclerodérmica en tronco y manos
+T47	DISEASE 4621 4655	bloqueo incompleto de rama derecha
+T48	DISEASE 6997 7025	renal: fibrosis intersticial
+T49	DISEASE 9135 9138	EAP
+T50	DISEASE 2314 2329	telangiectasias
+T51	DISEASE 9182 9203	acidosis respiratoria
+T52	DISEASE 11302 11329	crisis renal esclerodérmica
+T53	PROCEDURE 627 700	tratamiento inmunosupresor, hemorreológicos y con antagonistas del calcio
+T54	PROCEDURE 1383 1401	electrocardiograma
+T55	PROCEDURE 1403 1406	ECG
+T56	PROCEDURE 1519 1539	sedación superficial
+T57	PROCEDURE 1541 1576	implante de marcapasos transcutáneo
+T58	PROCEDURE 1758 1761	ECG
+T59	PROCEDURE 1888 1898	telemetría
+T60	PROCEDURE 2053 2071	Exploración física
+T61	PROCEDURE 2392 2415	Exploración neurológica
+T62	PROCEDURE 2459 2481	Auscultación carotídea
+T63	PROCEDURE 2554 2575	Auscultación pulmonar
+T64	PROCEDURE 3319 3346	pruebas de función hepática
+T65	PROCEDURE 3467 3486	Gasometría arterial
+T66	PROCEDURE 3656 3665	Hemograma
+T67	PROCEDURE 3807 3829	Estudio de coagulación
+T68	PROCEDURE 4306 4326	Electroforesis orina
+T69	PROCEDURE 4426 4446	Inmunofijación orina
+T70	PROCEDURE 4485 4488	ECG
+T71	PROCEDURE 4657 4660	ECG
+T72	PROCEDURE 4757 4760	ECG
+T73	PROCEDURE 5005 5008	ECG
+T74	PROCEDURE 5130 5150	Radiografía de tórax
+T75	PROCEDURE 5333 5353	Radiografía de tórax
+T76	PROCEDURE 5615 5635	Radiografía de tórax
+T77	PROCEDURE 5905 5933	Ecocardiograma transtorácico
+T78	PROCEDURE 5935 5938	ETT
+T79	PROCEDURE 6346 6359	Eco abdominal
+T80	PROCEDURE 6432 6443	TC de tórax
+T81	PROCEDURE 6833 6848	Coronariografía
+T82	PROCEDURE 6989 7002	Biopsia renal
+T83	PROCEDURE 8049 8103	implante de marcapasos provisional vía yugular derecha
+T84	PROCEDURE 8202 8212	telemetría
+T85	PROCEDURE 8244 8254	gasometría
+T86	PROCEDURE 8373 8402	Ecocardiografía transtorácica
+T87	PROCEDURE 8404 8407	ETT
+T88	PROCEDURE 9268 9301	ventilación no invasiva con BIPAP
+T89	PROCEDURE 9303 9324	tratamiento diurético
+T90	PROCEDURE 9336 9357	nitratos intravenosos
+T91	PROCEDURE 9376 9393	antihipertensivos
+T92	PROCEDURE 9496 9499	ETT
+T93	PROCEDURE 9645 9678	se retira ventilación no invasiva
+T94	PROCEDURE 9691 9712	tratamiento diurético
+T95	PROCEDURE 10645 10686	catéter femoral derecho para hemodiálisis
+T96	PROCEDURE 10714 10727	biopsia renal
+T97	PROCEDURE 10912 10956	Se colocó catéter tunelizado yugular derecho
+T98	PROCEDURE 11037 11049	hemodiálisis
+T99	PROCEDURE 11153 11165	hemodiálisis
+T100	PROCEDURE 3951 3964	Autoinmunidad
+T101	PROCEDURE 4151 4161	Serologías
+T102	PROCEDURE 4895 4905	Telemetría
+T103	PROCEDURE 8817 8831	monitorización
+T104	PROCEDURE 136 173	tratamiento con antidiabéticos orales
+T105	PROCEDURE 2494 2514	uscultación cardiaca
+T106	PROCEDURE 2920 2930	Bioquímica
+T107	PROCEDURE 3438 3456	Hormonas tiroideas
+T108	PROCEDURE 3876 3892	Inmunoglobulinas
+T109	PROCEDURE 4201 4219	sedimento de orina
+T110	PROCEDURE 7661 7679	Inmunoflorescencia
+T111	PROCEDURE 8701 8732	se implanta MCP definitivo DDDR
+T112	PROCEDURE 10885 10910	terapia renal sustitutiva
+T113	PROCEDURE 2207 2223	gafas de oxígeno
+T114	SYMPTOM 422 429	astenia
+T115	SYMPTOM 431 439	anorexia
+T116	SYMPTOM 442 456	adelgazamiento
+T117	SYMPTOM 487 537	ANAs positivos 1/640 con patón homogéneo nucleolar
+T118	SYMPTOM 540 558	aniScl 70 positivo
+T119	SYMPTOM 1071 1078	astenia
+T120	SYMPTOM 1081 1108	disnea de mínimos esfuerzos
+T121	SYMPTOM 1260 1266	disnea
+T122	SYMPTOM 1676 1682	fiebre
+T123	SYMPTOM 1790 1799	QRS ancho
+T124	SYMPTOM 2373 2390	frotes tendinosos
+T125	SYMPTOM 2392 2431	Exploración neurológica completa normal
+T126	SYMPTOM 2436 2457	ingurgitación yugular
+T127	SYMPTOM 2487 2493	soplos
+T128	SYMPTOM 2516 2541	ruidos cardiacos rítmicos
+T129	SYMPTOM 2546 2552	soplos
+T130	SYMPTOM 2577 2606	crepitantes secos bilaterales
+T131	SYMPTOM 2646 2686	Abdomen: blando, depresible, no doloroso
+T132	SYMPTOM 2717 2767	Miembros superiores: pulsos periféricos simétricos
+T133	SYMPTOM 2769 2799	Miembros inferiores: Sin edema
+T134	SYMPTOM 2845 2869	pulsos pedios simétricos
+T135	SYMPTOM 3319 3355	pruebas de función hepática normales
+T136	SYMPTOM 3438 3465	Hormonas tiroideas normales
+T137	SYMPTOM 4051 4066	ENAS: positivos
+T138	SYMPTOM 4162 4185	VHB, VHC, VIH: negativo
+T139	SYMPTOM 4545 4558	ritmo sinusal
+T140	SYMPTOM 4791 4810	escape de QRS ancho
+T141	SYMPTOM 5201 5224	redistribución vascular
+T142	SYMPTOM 6013 6055	Patrón diastólico de relajación prolongada
+T143	SYMPTOM 6113 6154	VD de tamaño y función sistólica normales
+T144	SYMPTOM 6483 6524	Aumento de calibre de la arteria pulmonar
+T145	SYMPTOM 8214 8239	Hemodinámicamente estable
+T146	SYMPTOM 8244 8267	gasometría basal normal
+T147	SYMPTOM 9080 9093	disnea súbita
+T148	SYMPTOM 9856 9896	deterioro de las cifras de función renal
+T149	SYMPTOM 9901 9912	proteinuria
+T150	SYMPTOM 9915 9924	hematuria
+T151	SYMPTOM 9984 9997	plaquetopenia
+T152	SYMPTOM 10096 10102	disnea
+T153	SYMPTOM 10196 10204	oliguria
+T154	SYMPTOM 10571 10600	deterioro de la función renal
+T155	SYMPTOM 11229 11235	exitus
+T156	SYMPTOM 4354 4371	proteinuria mixta
+T157	SYMPTOM 5031 5050	taquicardia sinusal
+T158	SYMPTOM 478 485	Raynaud
+T159	SYMPTOM 1488 1497	QRS ancho
+T160	SYMPTOM 4068 4090	Positivos: anti-Scl-70
+T161	SYMPTOM 4092 4148	Negativos: anti- SSA/Ro60, SSA/Ro52, SSB, RNP, Sm y Jo-1
+T162	SYMPTOM 4737 4746	QRS ancho
+T163	SYMPTOM 6057 6111	Hipoquinesia severa de segmentos medio y apical septal
+T164	SYMPTOM 4462 4483	componente monoclonal
+T165	SYMPTOM 8488 8515	función sistólica levemente
+T166	SYMPTOM 8432 8486	hipoquinesia severa de segmentos medio y apical septal
+T167	SYMPTOM 5773 5820	patrón intersticial con redistribución vascular
+T168	SYMPTOM 5165 5196	índice cardiotorácico aumentado
+T169	SYMPTOM 5385 5416	índice cardiotorácico aumentado
+T170	SYMPTOM 5682 5713	índice cardiotorácico aumentado
+T171	SYMPTOM 6563 6603	Aumento densidad en "vidrio deslustrado"
+T172	SYMPTOM 6850 6895	arterias coronarias epicárdicas sin estenosis
+T173	SYMPTOM 6926 6946	Dominancia izquierda
+T174	SYMPTOM 6951 6974	CD de escaso desarrollo
+T175	SYMPTOM 2247 2257	Tez morena
+T176	SYMPTOM 3966 4013	ANA: positivo 1/640, patrón homogéneo nucleolar
+T177	SYMPTOM 4015 4049	Anti MPO, Anti MBG, ANCA: negativo
+T178	SYMPTOM 5227 5277	patrón de predominio intersticial difuso bilateral
+T179	SYMPTOM 5421 5453	patrón alveolar difuso bilateral
+T180	SYMPTOM 5735 5757	patrón alveolar difuso
+T181	SYMPTOM 5941 6011	VI de tamaño y grosor normales, con función sistólica levemente afecta
+T182	SYMPTOM 6289 6319	Raíz de Aorta de tamaño normal
+T183	SYMPTOM 8413 8427	VI no dilatado
+T184	SYMPTOM 8584 8629	cavidades derechas de tamaño y función normal
+T185	SYMPTOM 9736 9774	cifras de TA persistentemente elevadas
+T186	MEDICATION 745 756	metotrexato
+T187	MEDICATION 778 791	pentoxifilina
+T188	MEDICATION 814 823	diltiazem
+T189	MEDICATION 844 860	folinato cálcico
+T190	MEDICATION 882 891	omeprazol
+T191	MEDICATION 913 924	glimepirida
+T192	MEDICATION 946 960	desvenlafaxina
+T193	MEDICATION 1130 1139	diltiazem
+T194	MEDICATION 8299 8309	amlodipino
+T195	MEDICATION 8350 8359	diltiazem
+T196	MEDICATION 8895 8905	amlodipino
+T197	MEDICATION 8918 8928	doxazosina
+T198	MEDICATION 9410 9420	amlodipino
+T199	MEDICATION 9422 9432	doxazosina
+T200	MEDICATION 9786 9789	NTG
+T201	MEDICATION 9826 9836	amlodipino
+T202	MEDICATION 9839 9849	doxazosina
+T203	MEDICATION 2216 2223	oxígeno
+T204	MEDICATION 9451 9456	IECAs
+#1	AnnotatorNotes T16	 EAP edema agudo de pulmón
+#2	AnnotatorNotes T31	 EAP edema agudo de pulmón
+#3	AnnotatorNotes T49	 EAP edema agudo de pulmón

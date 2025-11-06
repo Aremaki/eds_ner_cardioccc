@@ -1,0 +1,201 @@
+T1	DISEASE 5858 5869	VI dilatado
+T2	DISEASE 197 212	hábitos tóxicos
+T3	DISEASE 838 863	accidente cerebrovascular
+T4	DISEASE 865 868	ACV
+T5	DISEASE 1019 1053	cuadro catarral leve de vías altas
+T6	DISEASE 1352 1376	descompensación cardiaca
+T7	DISEASE 2094 2113	taquicardia sinusal
+T8	DISEASE 2363 2370	ascitis
+T9	DISEASE 2551 2556	gripe
+T10	DISEASE 2799 2802	HVI
+T11	DISEASE 2977 3002	derrame pleural bilateral
+T12	DISEASE 3670 3675	gripe
+T13	DISEASE 3991 4012	lesiones hemorrágicas
+T14	DISEASE 4132 4160	disfunción ventricular grave
+T15	DISEASE 4343 4369	insuficiencia mitral grave
+T16	DISEASE 4635 4674	hipertensión pulmonar de grado moderado
+T17	DISEASE 4693 4712	derrame pericárdico
+T18	DISEASE 5133 5178	infarto lacunar por arteria lenticuloestriada
+T19	DISEASE 5245 5261	infarto subagudo
+T20	DISEASE 5551 5573	infarto cortical agudo
+T21	DISEASE 5604 5665	infarto lacunar en fase subaguda en región talámica izquierda
+T22	DISEASE 5668 5738	microinfartos corticales agudos en corteza frontal posterior izquierda
+T23	DISEASE 6236 6255	Derrame pericárdico
+T24	DISEASE 6401 6433	Disfunción sistólica VI moderada
+T25	DISEASE 7934 7953	derrame pericárdico
+T26	DISEASE 8213 8248	infarto talámico anterior izquierdo
+T27	DISEASE 8795 8816	trastornos cognitivos
+T28	DISEASE 8848 8874	demencia vascular talámica
+T29	DISEASE 8924 8966	insuficiencia cardiaca franca con ortopnea
+T30	DISEASE 8968 8993	derrame pleural bilateral
+T31	DISEASE 9162 9164	IC
+T32	DISEASE 9206 9242	infección respiratoria de vías altas
+T33	DISEASE 9356 9372	edema miocárdico
+T34	DISEASE 10226 10249	Miocardiopatía dilatada
+T35	DISEASE 10307 10324	miocarditis aguda
+T36	DISEASE 10339 10372	Insuficiencia cardiaca congestiva
+T37	DISEASE 10393 10440	ACV talámico izquierdo de origen cardioembólico
+T38	DISEASE 6671 6673	IM
+T39	DISEASE 7877 7879	IM
+T40	DISEASE 4508 4516	IP grave
+T41	DISEASE 4518 4520	IT
+T42	DISEASE 7065 7067	IT
+T43	DISEASE 152 169	Tabaquismo activo
+T44	DISEASE 2862 2875	cardiomegalia
+T45	DISEASE 2372 2385	hepatomegalia
+T46	DISEASE 8995 9008	hepatomegalia
+T47	DISEASE 689 718	infarto subtalámico izquierdo
+T48	DISEASE 4055 4089	ventrículo izquierdo (VI) dilatado
+T49	DISEASE 4573 4600	Vena cava inferior dilatada
+T50	DISEASE 6301 6344	ventrículo izquierdo moderadamente dilatado
+T51	DISEASE 6524 6548	A.I ligeramente dilatada
+T52	DISEASE 6550 6570	VM: velos engrosados
+T53	DISEASE 7636 7668	VI indexado ligeramente dilatado
+T54	DISEASE 10254 10282	disfunción ventricular grave
+T55	PROCEDURE 617 661	tomografía axial computarizada (TAC) craneal
+T56	PROCEDURE 730 744	punción lumbar
+T57	PROCEDURE 806 818	PCR de virus
+T58	PROCEDURE 974 983	anamnesis
+T59	PROCEDURE 1459 1477	Exploración física
+T60	PROCEDURE 1507 1529	valoración neurológica
+T61	PROCEDURE 1945 1968	exploración neurológica
+T62	PROCEDURE 2129 2154	oxígeno con gafas nasales
+T63	PROCEDURE 2168 2189	Auscultación cardiaca
+T64	PROCEDURE 2255 2276	Auscultación pulmonar
+T65	PROCEDURE 2501 2517	tóxicos en orina
+T66	PROCEDURE 2519 2556	serología de enterovirus, VRS y gripe
+T67	PROCEDURE 2691 2709	Electrocardiograma
+T68	PROCEDURE 2840 2860	Radiografía de tórax
+T69	PROCEDURE 3004 3023	Analítica de sangre
+T70	PROCEDURE 3430 3446	Tóxicos en orina
+T71	PROCEDURE 3458 3472	Punción lumbar
+T72	PROCEDURE 3559 3563	Gram
+T73	PROCEDURE 3599 3619	Cultivo de bacterias
+T74	PROCEDURE 3630 3643	Microbiología
+T75	PROCEDURE 3645 3664	frotis nasofaríngeo
+T76	PROCEDURE 3730 3743	Frotis rectal
+T77	PROCEDURE 3766 3778	TAC cerebral
+T78	PROCEDURE 4014 4042	Ecocardiograma a pie de cama
+T79	PROCEDURE 4713 4747	Resonancia magnética (RM) cerebral
+T80	PROCEDURE 5740 5751	RM cardiaca
+T81	PROCEDURE 6277 6291	Ecocardiograma
+T82	PROCEDURE 7151 7182	Cateterismo izquierdo y derecho
+T83	PROCEDURE 7282 7304	Biopsia endomiocárdica
+T84	PROCEDURE 7306 7309	BEM
+T85	PROCEDURE 7556 7565	PCR viral
+T86	PROCEDURE 7576 7590	Ecocardiograma
+T87	PROCEDURE 8161 8163	RM
+T88	PROCEDURE 8251 8254	EEG
+T89	PROCEDURE 8372 8388	prueba cognitiva
+T90	PROCEDURE 8691 8717	estudios neuropsicológicos
+T91	PROCEDURE 9254 9273	resonancia cardiaca
+T92	PROCEDURE 9507 9522	coronariografía
+T93	PROCEDURE 9538 9557	cateterismo derecho
+T94	PROCEDURE 9608 9636	biopsia endomiocárdica de VD
+T95	PROCEDURE 9641 9648	biopsia
+T96	PROCEDURE 9803 9817	Ecocardiograma
+T97	PROCEDURE 9917 9942	tratamiento neurohormonal
+T98	PROCEDURE 10019 10034	ecocardiografía
+T99	PROCEDURE 10188 10191	ECG
+T100	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T101	PROCEDURE 750 760	bioquímica
+T102	PROCEDURE 3474 3484	bioquímica
+T103	PROCEDURE 649 652	TAC
+T104	PROCEDURE 4735 4737	RM
+T105	PROCEDURE 9407 9434	administración de gadolinio
+T106	SYMPTOM 365 388	alteración del lenguaje
+T107	SYMPTOM 394 418	dificultades nominativas
+T108	SYMPTOM 428 438	parafasias
+T109	SYMPTOM 441 475	discurso fragmentado e incoherente
+T110	SYMPTOM 501 512	somnolencia
+T111	SYMPTOM 1127 1156	tos persistente no productiva
+T112	SYMPTOM 1256 1280	intolerancia al decúbito
+T113	SYMPTOM 1291 1325	leve edematización de extremidades
+T114	SYMPTOM 1558 1578	Lenguaje hipofluente
+T115	SYMPTOM 1584 1604	trastorno nominativo
+T116	SYMPTOM 1647 1701	repetición y ejecución de órdenes complejas conservada
+T117	SYMPTOM 1703 1722	Labilidad emocional
+T118	SYMPTOM 1727 1746	tendencia al llanto
+T119	SYMPTOM 1809 1843	alteración de la memoria operativa
+T120	SYMPTOM 2168 2198	Auscultación cardiaca: rítmica
+T121	SYMPTOM 2223 2253	soplo sistólico en foco mitral
+T122	SYMPTOM 2278 2307	crepitantes hasta campo medio
+T123	SYMPTOM 2424 2445	Ingurgitación yugular
+T124	SYMPTOM 2449 2486	Leves edemas bimaleolares en decúbito
+T125	SYMPTOM 2711 2724	ritmo sinusal
+T126	SYMPTOM 2735 2744	PR normal
+T127	SYMPTOM 2804 2838	Onda T negativa en III, AVF, V5-V6
+T128	SYMPTOM 3430 3456	Tóxicos en orina negativos
+T129	SYMPTOM 3599 3628	Cultivo de bacterias negativo
+T130	SYMPTOM 3645 3728	frotis nasofaríngeo para gripe, enterovirus y virus respiratorio sincitial negativo
+T131	SYMPTOM 3730 3764	Frotis rectal enterovirus negativo
+T132	SYMPTOM 3831 3890	Sistema ventricular simétrico de tamaño y morfología normal
+T133	SYMPTOM 4191 4216	Hipocontractilidad global
+T134	SYMPTOM 4605 4633	colapso inspiratorio abolido
+T135	SYMPTOM 4749 4792	unión craneo-vertebral de morfología normal
+T136	SYMPTOM 4878 4927	Sistema ventricular de tamaño y morfología normal
+T137	SYMPTOM 5488 5538	brillo en difusión en la corteza frontal izquierda
+T138	SYMPTOM 5946 5971	Espesor miocárdico normal
+T139	SYMPTOM 6208 6234	Aurículas de tamaño normal
+T140	SYMPTOM 6301 6362	ventrículo izquierdo moderadamente dilatado con grosor normal
+T141	SYMPTOM 6476 6501	Hipocontractilidad global
+T142	SYMPTOM 6591 6606	Anillo dilatado
+T143	SYMPTOM 7129 7149	PAPs estimada normal
+T144	SYMPTOM 7251 7280	Presiones pulmonares normales
+T145	SYMPTOM 7556 7574	PCR viral negativa
+T146	SYMPTOM 7694 7729	Función sistólica global conservada
+T147	SYMPTOM 7818 7850	VD de dimensión y función normal
+T148	SYMPTOM 7888 7920	Presión pulmonar estimada normal
+T149	SYMPTOM 8291 8297	alerta
+T150	SYMPTOM 8300 8312	colaboradora
+T151	SYMPTOM 8314 8326	bradipsiquia
+T152	SYMPTOM 8563 8591	cierto pensamiento abstracto
+T153	SYMPTOM 8958 8966	ortopnea
+T154	SYMPTOM 9011 9017	edemas
+T155	SYMPTOM 9099 9117	signos congestivos
+T156	SYMPTOM 9289 9330	función ventricular severamente deprimida
+T157	SYMPTOM 9570 9605	presiones pulmonares y RVP normales
+T158	SYMPTOM 4264 4325	Válvula mitral (VM): velos engrosados, tenting de ambos velos
+T159	SYMPTOM 6015 6058	edema/inflamación en el espesor mirocárdico
+T160	SYMPTOM 7014 7039	Válvula tricúspide normal
+T161	SYMPTOM 750 767	bioquímica normal
+T162	SYMPTOM 1853 1925	tendencia a pronación sin claudicación de la extremidad superior derecha
+T163	SYMPTOM 2209 2221	tercer ruido
+T164	SYMPTOM 2519 2576	serología de enterovirus, VRS y gripe, todo ello negativo
+T165	SYMPTOM 2912 2952	Pinzamiento de ambos senos costofrénicos
+T166	SYMPTOM 3892 3974	Surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones
+T167	SYMPTOM 4422 4464	Ventrículo derecho (VD) de dimensión norma
+T168	SYMPTOM 5874 5899	FEVI gravemente deprimida
+T169	SYMPTOM 6138 6199	Ventrículo derecho de dimensión normal con hipocontractilidad
+T170	SYMPTOM 6948 6962	VAo competente
+T171	SYMPTOM 6964 7012	Ventrículo derecho de dimensión y función normal
+T172	SYMPTOM 7076 7091	VCI no dilatada
+T173	SYMPTOM 7781 7816	Ambas aurículas de dimensión normal
+T174	SYMPTOM 4929 4956	Cisternas de la base libres
+T175	SYMPTOM 7184 7216	arterias coronarias sin lesiones
+T176	SYMPTOM 9507 9536	coronariografía, sin lesiones
+T177	SYMPTOM 2877 2910	signos de redistribución vascular
+T178	SYMPTOM 1612 1641	parafasias fonéticas aisladas
+T179	SYMPTOM 3559 3597	Gram: no se encuentran microorganismos
+T180	SYMPTOM 3770 3829	cerebral al ingreso: estructuras de la línea media centrada
+T181	SYMPTOM 4394 4420	Válvula aórtica competente
+T182	SYMPTOM 4809 4836	anomalías de la línea media
+T183	SYMPTOM 4838 4876	Fosa posterior de configuración normal
+T184	SYMPTOM 5008 5040	senos venosos durales permeables
+T185	SYMPTOM 5042 5099	Alteración de la señal T2 en la región talámica izquierda
+T186	SYMPTOM 5289 5461	hiperseñal T2 subcortical en la ínsula derecha, en la corteza frontal posterior, de predominio en hemisferio izquierdo y en sustancia blanca yuxtacortical occipital derecha
+T187	SYMPTOM 5974 5999	hipocontractilidad global
+T188	SYMPTOM 8251 8279	EEG sin hallazgos de interés
+T189	SYMPTOM 8509 8552	Lee, pero no logra una comprensión completa
+T190	SYMPTOM 10472 10492	afectación cognitiva
+T191	MEDICATION 9047 9059	levosimendán
+T192	MEDICATION 9062 9072	furosemida
+T193	MEDICATION 9947 9968	sacubitrilo/valsartán
+T194	MEDICATION 9970 9980	carvedilol
+T195	MEDICATION 9983 9998	espironolactona
+#1	AnnotatorNotes T38	 insuficiencia mitral
+#2	AnnotatorNotes T39	 insuficiencia mitral
+#3	AnnotatorNotes T40	 IP insuficiencia pulmonar
+#4	AnnotatorNotes T41	 IT insuficiencia tricuspídea
+#5	AnnotatorNotes T42	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T84	 Biopsia endomiocárdica

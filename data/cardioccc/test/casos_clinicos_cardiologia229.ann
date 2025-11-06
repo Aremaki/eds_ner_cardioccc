@@ -1,0 +1,145 @@
+T1	ENFERMEDAD 103 126	alergias medicamentosas
+T2	ENFERMEDAD 140 155	hábitos tóxicos
+T3	ENFERMEDAD 207 244	broncoespasmo en relación con alergia
+T4	ENFERMEDAD 745 792	bloqueo completo de rama derecha del haz de His
+T5	ENFERMEDAD 816 849	hipertrofia de ventrículo derecho
+T6	ENFERMEDAD 1191 1218	hipertensión pulmonar grave
+T7	ENFERMEDAD 1303 1331	ductus arterioso persistente
+T8	ENFERMEDAD 1441 1474	hipertensión pulmonar (HTP) grave
+T9	ENFERMEDAD 1464 1467	HTP
+T10	ENFERMEDAD 1778 1809	parálisis del nervio recurrente
+T11	ENFERMEDAD 1834 1844	neumotórax
+T12	ENFERMEDAD 1904 1928	mediastinitis fibrosante
+T13	ENFERMEDAD 2101 2143	hipertensión arterial pulmonar (HAP) grave
+T14	ENFERMEDAD 2133 2136	HAP
+T15	ENFERMEDAD 2748 2769	hipertensión pulmonar
+T16	ENFERMEDAD 2810 2813	HTP
+T17	ENFERMEDAD 2903 2938	insuficiencia cardiaca (IC) derecha
+T18	ENFERMEDAD 2927 2929	IC
+T19	ENFERMEDAD 3365 3368	HAP
+T20	ENFERMEDAD 3406 3415	HAP grave
+T21	ENFERMEDAD 3543 3546	HAP
+T22	ENFERMEDAD 4600 4603	HAP
+T23	ENFERMEDAD 6687 6708	insuficiencia aórtica
+T24	ENFERMEDAD 7541 7544	HTP
+T25	ENFERMEDAD 7607 7610	HAP
+T26	ENFERMEDAD 7877 7885	flebitis
+T27	ENFERMEDAD 8433 8490	Hipertensión arterial pulmonar severa residual poscirugía
+T28	ENFERMEDAD 8601 8625	Mediastinitis fibrosante
+T29	ENFERMEDAD 794 800	BCRDHH
+T30	ENFERMEDAD 5439 5445	BCRDHH
+T31	ENFERMEDAD 2402 2405	HTP
+T32	ENFERMEDAD 5327 5337	IC derecha
+T33	ENFERMEDAD 6587 6612	válvula aórtica bicúspide
+T34	ENFERMEDAD 851 854	HVD
+T35	ENFERMEDAD 1333 1336	DAP
+T36	ENFERMEDAD 3036 3075	VD hipertrófico con disfunción moderada
+T37	ENFERMEDAD 4289 4305	disfunción de VD
+T38	ENFERMEDAD 6713 6777	VD se encuentra moderadamente dilatado y gravemente hipertrófico
+T39	ENFERMEDAD 6824 6857	válvula tricúspide está engrosada
+T40	ENFERMEDAD 7127 7165	Tronco de la arteria pulmonar dilatado
+T41	ENFERMEDAD 8492 8520	Ductus arterioso persistente
+T42	ENFERMEDAD 931 943	poliglobulia
+T43	ENFERMEDAD 5463 5466	HVD
+T44	ENFERMEDAD 7188 7194	ductus
+T45	ENFERMEDAD 2290 2293	DAP
+T46	ENFERMEDAD 2996 3030	DAP con un flujo derecha-izquierda
+T47	ENFERMEDAD 237 261	alergia a ácaros y polen
+T48	ENFERMEDAD 1224 1284	hipertrofia moderada y dilatación leve de ventrículo derecho
+T49	ENFERMEDAD 2275 2293	reapertura del DAP
+T50	ENFERMEDAD 2550 2562	poliglobulia
+T51	ENFERMEDAD 2952 2964	poliglobulia
+T52	ENFERMEDAD 8433 8470	Hipertensión arterial pulmonar severa
+T53	PROCEDIMIENTO 624 642	electrocardiograma
+T54	PROCEDIMIENTO 644 647	ECG
+T55	PROCEDIMIENTO 973 993	radiografía de tórax
+T56	PROCEDIMIENTO 1113 1141	ecocardiograma transtorácico
+T57	PROCEDIMIENTO 1143 1146	ETT
+T58	PROCEDIMIENTO 1390 1409	cateterismo derecho
+T59	PROCEDIMIENTO 1634 1704	sección y cierre de ambos muñones del ductus por toracotomía izquierda
+T60	PROCEDIMIENTO 1958 1980	corticoides sistémicos
+T61	PROCEDIMIENTO 2018 2059	cateterismo derecho de control poscirugía
+T62	PROCEDIMIENTO 2441 2472	pruebas de función respiratoria
+T63	PROCEDIMIENTO 2617 2631	pulsioximetría
+T64	PROCEDIMIENTO 2983 2986	ETT
+T65	PROCEDIMIENTO 3080 3096	ergoespirometría
+T66	PROCEDIMIENTO 3428 3439	cateterismo
+T67	PROCEDIMIENTO 3931 3934	ETT
+T68	PROCEDIMIENTO 4169 4172	ETT
+T69	PROCEDIMIENTO 4230 4254	resonancia (RM) cardiaca
+T70	PROCEDIMIENTO 4469 4488	cateterismo derecho
+T71	PROCEDIMIENTO 5034 5052	Exploración física
+T72	PROCEDIMIENTO 5364 5367	ECG
+T73	PROCEDIMIENTO 6244 6264	Radiografía de tórax
+T74	PROCEDIMIENTO 6337 6340	ETT
+T75	PROCEDIMIENTO 7651 7670	cateterismo derecho
+T76	PROCEDIMIENTO 8034 8069	implantación de la bomba subcutánea
+T77	PROCEDIMIENTO 8276 8290	ecocardiograma
+T78	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDIMIENTO 279 307	inhaladores beta-2 miméticos
+T80	PROCEDIMIENTO 4822 4836	monitorización
+T81	PROCEDIMIENTO 2640 2657	test de la marcha
+T82	PROCEDIMIENTO 4242 4244	RM
+T83	PROCEDIMIENTO 5532 5541	Analítica
+T84	PROCEDIMIENTO 909 918	analítica
+T85	PROCEDIMIENTO 2489 2498	analítica
+T86	PROCEDIMIENTO 7691 7718	prostaciclinas intravenosas
+T87	PROCEDIMIENTO 7851 7885	cambios de vía venosa por flebitis
+T88	PROCEDIMIENTO 8492 8532	Ductus arterioso persistente intervenido
+T89	SINTOMA 508 523	dolor abdominal
+T90	SINTOMA 664 677	ritmo sinusal
+T91	SINTOMA 2441 2481	pruebas de función respiratoria normales
+T92	SINTOMA 2881 2889	cianosis
+T93	SINTOMA 3185 3229	comportamiento normal de la tensión arterial
+T94	SINTOMA 4708 4742	sensación de gorgoteo en hemitórax
+T95	SINTOMA 4893 4903	hemoptisis
+T96	SINTOMA 5115 5140	hemodinámicamente estable
+T97	SINTOMA 5369 5382	ritmo sinusal
+T98	SINTOMA 5393 5402	PR normal
+T99	SINTOMA 6342 6395	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T100	SINTOMA 6400 6425	función global conservada
+T101	SINTOMA 7207 7240	flujo sistólico derecha-izquierda
+T102	SINTOMA 7403 7428	hemodinámicamente estable
+T103	SINTOMA 7481 7491	hemoptisis
+T104	SINTOMA 8250 8260	hemoptisis
+T105	SINTOMA 3889 3895	disnea
+T106	SINTOMA 695 728	eje del QRS derivado a la derecha
+T107	SINTOMA 859 901	alteraciones de la repolarización de V1-V4
+T108	SINTOMA 1476 1522	presión arterial pulmonar media (PAPm) elevada
+T109	SINTOMA 1525 1562	presión capilar pulmonar (PCP) normal
+T110	SINTOMA 4680 4690	hemoptisis
+T111	SINTOMA 5469 5530	alteraciones secundarias de la repolarización en precordiales
+T112	SINTOMA 6547 6581	válvula mitral es normofuncionante
+T113	SINTOMA 8534 8599	Función del ventrículo derecho en el límite bajo de la normalidad
+T114	SINTOMA 6427 6446	aplanamiento septal
+T115	SINTOMA 6963 6993	vena cava inferior no dilatada
+T116	SINTOMA 1008 1072	prominencia de las arterias pulmonares y del cayado de la ácigos
+T117	SINTOMA 2275 2312	reapertura del DAP con flujo residual
+T118	SINTOMA 2586 2610	desaturaciones nocturnas
+T119	SINTOMA 3080 3178	ergoespirometría presenta una clase funcional I con una capacidad funcional moderadamente reducida
+T120	SINTOMA 5404 5415	eje derecho
+T121	SINTOMA 6297 6335	prominencia de las arterias pulmonares
+T122	SINTOMA 6463 6495	sobrecarga de presiones derechas
+T123	FARMACO 3565 3575	sitaxentán
+T124	FARMACO 3640 3651	ambrisentán
+T125	FARMACO 3687 3697	tadalafilo
+T126	FARMACO 3986 3997	ambrisentan
+T127	FARMACO 4015 4025	tadalafilo
+T128	FARMACO 4043 4052	symbicort
+T129	FARMACO 7331 7338	codeína
+T130	FARMACO 7346 7361	cloruro mórfico
+T131	FARMACO 7816 7828	epoprostenol
+T132	FARMACO 7934 7946	treprostinil
+T133	FARMACO 8074 8086	treprostinil
+#1	AnnotatorNotes T9	 hipertensión pulmonar
+#2	AnnotatorNotes T14	 Hipertensión arterial pulmonar
+#3	AnnotatorNotes T24	 HTP hipertensión pulmonar
+#4	AnnotatorNotes T29	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#5	AnnotatorNotes T30	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#6	AnnotatorNotes T31	 HTP hipertensión pulmonar
+#7	AnnotatorNotes T32	 insuficiencia cardiaca
+#8	AnnotatorNotes T34	 hipertrofia ventriculo derecho
+#9	AnnotatorNotes T35	 ductus arterioso persistente
+#10	AnnotatorNotes T43	 HVD: hipertrofia ventrículo derecho
+#11	AnnotatorNotes T45	ductus arterioso persistente
+#12	AnnotatorNotes T46	ductus arterioso persistente

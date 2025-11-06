@@ -1,0 +1,102 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 164 179	hábitos tóxicos
+T3	DISEASE 211 232	cardiopatía isquémica
+T4	DISEASE 297 305	Vitiligo
+T5	DISEASE 1268 1307	trombosis venosa en miembros inferiores
+T6	DISEASE 1635 1657	insuficiencia cardíaca
+T7	DISEASE 1720 1741	edema agudo de pulmón
+T8	DISEASE 2535 2603	Ventrículo derecho de tamaño normal con disfunción ventricular grave
+T9	DISEASE 2655 2668	valvulopatías
+T10	DISEASE 2685 2704	Derrame pericárdico
+T11	DISEASE 2980 3008	patología inflamatoria aguda
+T12	DISEASE 3080 3099	derrame pericárdico
+T13	DISEASE 3176 3196	hipotensión arterial
+T14	DISEASE 3249 3266	miocarditis aguda
+T15	DISEASE 3283 3301	shock cardiogénico
+T16	DISEASE 3651 3670	fallo multiorgánico
+T17	DISEASE 4014 4035	edema agudo de pulmón
+T18	DISEASE 4058 4075	bradicardia grave
+T19	DISEASE 4078 4087	asistolia
+T20	DISEASE 4203 4214	Miocarditis
+T21	DISEASE 4227 4261	Disfunción biventricular muy grave
+T22	DISEASE 4278 4296	Shock cardiogénico
+T23	DISEASE 3109 3139	derrames pleurales bilaterales
+T24	DISEASE 920 940	hipotensión arterial
+T25	DISEASE 2251 2284	ventrículo izquierdo hipertrófico
+T26	DISEASE 3199 3224	mala perfusión periférica
+T27	DISEASE 999 1024	mala perfusión periférica
+T28	DISEASE 2348 2371	enfermedad infiltrativa
+T29	DISEASE 243 256	muerte súbita
+T30	PROCEDURE 888 906	EXPLORACIÓN FÍSICA
+T31	PROCEDURE 1062 1089	Auscultación cardiopulmonar
+T32	PROCEDURE 1334 1352	ELECTROCARDIOGRAMA
+T33	PROCEDURE 1354 1357	ECG
+T34	PROCEDURE 1560 1580	RADIOGRAFÍA DE TÓRAX
+T35	PROCEDURE 1686 1706	RADIOGRAFÍA DE TÓRAX
+T36	PROCEDURE 1754 1763	Hemograma
+T37	PROCEDURE 1840 1851	Coagulación
+T38	PROCEDURE 2221 2249	ECOCARDIOGRAMA TRANSTORÁCICO
+T39	PROCEDURE 2748 2791	RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA
+T40	PROCEDURE 3346 3366	soporte hemodinámico
+T41	PROCEDURE 3439 3451	RMN cardiaca
+T42	PROCEDURE 3555 3589	tratamiento con aminas vasoactivas
+T43	PROCEDURE 3767 3813	colocación de balón aórtico de contrapulsación
+T44	PROCEDURE 3816 3860	soporte circulatorio tipo ECMO veno-arterial
+T45	PROCEDURE 4301 4344	soporte circulatorio con ECMO veno-arterial
+T46	PROCEDURE 1869 1879	Bioquímica
+T47	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 4102 4150	maniobras de reanimación cardiopulmonar avanzada
+T49	PROCEDURE 2778 2781	RMN
+T50	PROCEDURE 1743 1752	ANALÍTICA
+T51	PROCEDURE 357 383	intervenciones quirúrgicas
+T52	SYMPTOM 127 160	factores de riesgo cardiovascular
+T53	SYMPTOM 545 553	mialgias
+T54	SYMPTOM 555 562	astenia
+T55	SYMPTOM 568 588	sensación distérmica
+T56	SYMPTOM 593 602	febrícula
+T57	SYMPTOM 649 654	mareo
+T58	SYMPTOM 659 677	cortejo vegetativo
+T59	SYMPTOM 757 771	dolor torácico
+T60	SYMPTOM 775 788	palpitaciones
+T61	SYMPTOM 806 826	episodios sincopales
+T62	SYMPTOM 850 856	disnea
+T63	SYMPTOM 858 866	ortopnea
+T64	SYMPTOM 868 876	oliguria
+T65	SYMPTOM 879 885	edemas
+T66	SYMPTOM 957 968	taquicardia
+T67	SYMPTOM 1030 1038	frialdad
+T68	SYMPTOM 1041 1051	sudoración
+T69	SYMPTOM 1053 1060	Afebril
+T70	SYMPTOM 1094 1119	ruidos cardiacos rítmicos
+T71	SYMPTOM 1125 1131	soplos
+T72	SYMPTOM 1134 1163	murmullo vesicular conservado
+T73	SYMPTOM 1188 1244	Pulsos presentes y simétricos en las cuatro extremidades
+T74	SYMPTOM 1250 1307	edema ni datos de trombosis venosa en miembros inferiores
+T75	SYMPTOM 1360 1373	ritmo sinusal
+T76	SYMPTOM 1395 1407	QRS estrecho
+T77	SYMPTOM 1422 1439	elevación punto J
+T78	SYMPTOM 1524 1558	voltajes disminuidos generalizados
+T79	SYMPTOM 2535 2570	Ventrículo derecho de tamaño normal
+T80	SYMPTOM 2615 2650	Aurícula izquierda de tamaño normal
+T81	SYMPTOM 2713 2746	Aorta ascendente de tamaño normal
+T82	SYMPTOM 2867 2896	ventrículos son tamaño normal
+T83	SYMPTOM 2901 2925	hipocinesia global grave
+T84	SYMPTOM 2939 2944	edema
+T85	SYMPTOM 2947 2956	hiperemia
+T86	SYMPTOM 3176 3196	hipotensión arterial
+T87	SYMPTOM 3676 3687	oligoanuria
+T88	SYMPTOM 3720 3755	aumento de enzimas de daño hepático
+T89	SYMPTOM 3903 3924	mala perfusión distal
+T90	SYMPTOM 3927 3943	mala ventilación
+T91	SYMPTOM 3948 3969	expectoración rosácea
+T92	SYMPTOM 4152 4163	falleciendo
+T93	SYMPTOM 689 696	síncope
+T94	SYMPTOM 1592 1620	índice cardiotorácico normal
+T95	SYMPTOM 2438 2485	depresión muy severa de la fracción de eyección
+T96	SYMPTOM 2515 2533	hipocinesia global
+T97	SYMPTOM 4346 4352	Muerte
+T98	SYMPTOM 1661 1675	condensaciones
+T99	SYMPTOM 522 541	cuadro pseudogripal
+T100	SYMPTOM 1484 1521	lenta progresión de R en precordiales
+T101	MEDICATION 3371 3381	dobutamina
+T102	MEDICATION 3384 3397	noradrenalina

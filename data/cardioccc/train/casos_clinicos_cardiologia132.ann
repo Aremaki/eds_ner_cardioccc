@@ -1,0 +1,78 @@
+T1	DISEASE 87 122	lesiones secundarias al traumatismo
+T2	DISEASE 213 235	alérgica a penicilinas
+T3	DISEASE 268 276	obesidad
+T4	DISEASE 278 299	hipertensión arterial
+T5	DISEASE 302 312	dislipemia
+T6	DISEASE 590 625	lesiones secundarias al traumatismo
+T7	DISEASE 982 1004	crisis tónico clónicas
+T8	DISEASE 2479 2499	Insuficiencia mitral
+T9	DISEASE 2511 2537	Insuficiencia aórtica leve
+T10	DISEASE 2540 2570	hipertensión pulmonar moderada
+T11	DISEASE 2575 2641	obstrucción dinámica del tracto de salida del ventrículo izquierdo
+T12	DISEASE 2646 2665	derrame pericárdico
+T13	DISEASE 2770 2788	shock cardiogénico
+T14	DISEASE 3076 3105	disfunción ventricular severa
+T15	DISEASE 3129 3139	Tako-tsubo
+T16	DISEASE 3329 3366	insuficiencia respiratoria hipoxémica
+T17	DISEASE 3915 3937	Síndrome de Tako-tsubo
+T18	DISEASE 3953 3971	shock cardiogénico
+T19	DISEASE 2667 2694	Vena cava inferior dilatada
+T20	DISEASE 3381 3402	edema agudo de pulmón
+T21	PROCEDURE 159 177	exploración física
+T22	PROCEDURE 1162 1180	Exploración física
+T23	PROCEDURE 1905 1924	Gasometría arterial
+T24	PROCEDURE 2022 2033	Rx de tórax
+T25	PROCEDURE 2167 2170	ECG
+T26	PROCEDURE 2257 2260	ETT
+T27	PROCEDURE 2839 2904	soporte vasoactivo con noradrenalina (0,6 μg/kg/min) y dobutamina
+T28	PROCEDURE 2935 2950	coronariografía
+T29	PROCEDURE 3046 3062	ventriculografía
+T30	PROCEDURE 3166 3238	se implanta por vía femoral derecha balón de contrapulsación intraórtico
+T31	PROCEDURE 3292 3324	ventilación mecánica no invasiva
+T32	PROCEDURE 3461 3479	retirada del BCIAo
+T33	PROCEDURE 3511 3531	soporte ventilatorio
+T34	PROCEDURE 3678 3681	ETT
+T35	PROCEDURE 1582 1591	Analítica
+T36	PROCEDURE 416 432	Apendicetomizada
+T37	SYMPTOM 16 21	mareo
+T38	SYMPTOM 57 80	pérdida de conocimiento
+T39	SYMPTOM 519 524	mareo
+T40	SYMPTOM 560 583	pérdida de conocimiento
+T41	SYMPTOM 912 921	taquipnea
+T42	SYMPTOM 1052 1115	dolor centrotorácico, opresivo, irradiado a zona interescapular
+T43	SYMPTOM 1129 1147	cortejo vegetativo
+T44	SYMPTOM 1182 1192	Consciente
+T45	SYMPTOM 1195 1204	orientada
+T46	SYMPTOM 1206 1224	Mal estado general
+T47	SYMPTOM 1226 1241	Palidez cutánea
+T48	SYMPTOM 1243 1259	Cianosis central
+T49	SYMPTOM 1261 1292	Carótidas simétricas y rítmicas
+T50	SYMPTOM 1294 1315	Ingurgitación yugular
+T51	SYMPTOM 1317 1320	MVC
+T52	SYMPTOM 1325 1368	crepitantes bilaterales hasta campos medios
+T53	SYMPTOM 1370 1394	Tonos cardiacos rítmicos
+T54	SYMPTOM 1396 1452	soplo sistólico III/IV en foco mitral, irradiado a axila
+T55	SYMPTOM 1454 1490	Abdomen sin alteraciones patológicas
+T56	SYMPTOM 1492 1528	Pulsos pedios palpables y simétricos
+T57	SYMPTOM 1530 1547	Edemas maleolares
+T58	SYMPTOM 2093 2112	engrosamiento hilar
+T59	SYMPTOM 2114 2132	líquido en cisuras
+T60	SYMPTOM 2172 2174	RS
+T61	SYMPTOM 2188 2225	descenso generalizado del segmento ST
+T62	SYMPTOM 2228 2253	ascenso ST de 1 mm en aVR
+T63	SYMPTOM 2340 2379	función sistólica severamente deprimida
+T64	SYMPTOM 2135 2163	senos costofrénicos pinzados
+T65	SYMPTOM 2387 2413	Hipocinesia medio – apical
+T66	SYMPTOM 696 703	ansiosa
+T67	SYMPTOM 2419 2477	contractilidad conservada a nivel de los segmentos basales
+T68	SYMPTOM 3790 3825	hipocinesia de las porciones medias
+T69	SYMPTOM 2035 2091	Índice cardiotorácico en el límite alto de la normalidad
+T70	SYMPTOM 2270 2334	Ventrículo izquierdo sin hipertrofia ni dilatación significativa
+T71	SYMPTOM 2964 2991	irregulariedades parietales
+T72	SYMPTOM 2997 3038	lesiones angiográficamente significativas
+T73	MEDICATION 333 350	hidroclorotiazida
+T74	MEDICATION 359 369	olmersatan
+T75	MEDICATION 377 390	atorvastatina
+T76	MEDICATION 399 408	omeprazol
+T77	MEDICATION 2862 2875	noradrenalina
+T78	MEDICATION 2894 2904	dobutamina

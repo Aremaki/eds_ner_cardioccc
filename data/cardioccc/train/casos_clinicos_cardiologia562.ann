@@ -1,0 +1,155 @@
+T1	DISEASE 5068 5098	dilatación auricular izquierda
+T2	DISEASE 135 163	cardiopatía isquémica precoz
+T3	DISEASE 202 207	ictus
+T4	DISEASE 268 291	alergias medicamentosas
+T5	DISEASE 499 509	exfumadora
+T6	DISEASE 559 568	sobrepeso
+T7	DISEASE 666 699	fibrilación auricular paroxística
+T8	DISEASE 811 834	cardiopatía estructural
+T9	DISEASE 1684 1698	psoriasis leve
+T10	DISEASE 1736 1740	asma
+T11	DISEASE 2037 2058	fibrilación auricular
+T12	DISEASE 2060 2062	FA
+T13	DISEASE 2476 2497	fibrilación auricular
+T14	DISEASE 3155 3180	trombosis venosa profunda
+T15	DISEASE 3545 3599	fibrilación auricular con respuesta ventricular rápida
+T16	DISEASE 3725 3780	fibrilación auricular con frecuencia ventricular rápida
+T17	DISEASE 4013 4026	insuficiencia
+T18	DISEASE 4773 4794	hipertensión pulmonar
+T19	DISEASE 4810 4829	derrame pericárdico
+T20	DISEASE 5739 5758	derrame pericárdico
+T21	DISEASE 7336 7357	fibrilación auricular
+T22	DISEASE 7643 7664	fibrilación auricular
+T23	DISEASE 8950 8967	parálisis frénica
+T24	DISEASE 9116 9129	extrasístoles
+T25	DISEASE 9798 9852	fibrilación auricular con respuesta ventricular rápida
+T26	DISEASE 10256 10278	insuficiencia cardiaca
+T27	DISEASE 10435 10467	disfunción ventricular izquierda
+T28	DISEASE 10584 10605	fibrilación auricular
+T29	DISEASE 10711 10721	exfumadora
+T30	DISEASE 10731 10740	sobrepeso
+T31	DISEASE 11182 11203	fibrilación auricular
+T32	DISEASE 12367 12381	FA paroxística
+T33	DISEASE 12440 12460	enfermedad coronaria
+T34	DISEASE 4132 4173	Ventrículo izquierdo ligeramente dilatado
+T35	DISEASE 5502 5546	trombos intracavitarios y orejuela izquierda
+T36	DISEASE 5636 5658	foramen oval permeable
+T37	DISEASE 7787 7789	FA
+T38	DISEASE 9895 9924	disfunción sistólica moderada
+T39	DISEASE 10099 10140	actividad extrasistólica supraventricular
+T40	DISEASE 10493 10512	taquimiocardiopatía
+T41	DISEASE 10995 11041	lesiones significativas en arterias coronarias
+T42	DISEASE 12407 12426	taquimiocardiopatía
+T43	DISEASE 167 180	muerte súbita
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 838 852	ecocardiograma
+T46	PROCEDURE 921 974	ablación mediante radiofrecuencia de venas pulmonares
+T47	PROCEDURE 1328 1365	autodeterminaciones de ritmo cardiaco
+T48	PROCEDURE 1438 1452	Holter de 24 h
+T49	PROCEDURE 1549 1564	anticoagulación
+T50	PROCEDURE 1758 1775	broncodilatadores
+T51	PROCEDURE 2535 2553	electrocardiograma
+T52	PROCEDURE 2555 2558	ECG
+T53	PROCEDURE 2657 2660	ECG
+T54	PROCEDURE 2730 2744	ecocardiograma
+T55	PROCEDURE 2755 2773	Exploración física
+T56	PROCEDURE 2967 2988	Auscultación cardiaca
+T57	PROCEDURE 3027 3048	Auscultación pulmonar
+T58	PROCEDURE 3207 3210	ECG
+T59	PROCEDURE 3352 3355	ECG
+T60	PROCEDURE 3782 3796	Ecocardiograma
+T61	PROCEDURE 4831 4852	TC coronarias y de AI
+T62	PROCEDURE 4879 4893	ablación de FA
+T63	PROCEDURE 4925 4952	Coronariografía no invasiva
+T64	PROCEDURE 5033 5059	Estudio aurícula izquierda
+T65	PROCEDURE 5429 5458	Ecocardiograma transesofágico
+T66	PROCEDURE 5467 5475	ablación
+T67	PROCEDURE 5573 5580	Doppler
+T68	PROCEDURE 6060 6078	punción transeptal
+T69	PROCEDURE 6115 6141	Estudio electrofisiológico
+T70	PROCEDURE 6144 6152	ablación
+T71	PROCEDURE 6155 6199	Evaluación diagnóstica cartográfica de la AI
+T72	PROCEDURE 6208 6231	cardioversión eléctrica
+T73	PROCEDURE 6254 6300	cartografía detallada de la aurícula izquierda
+T74	PROCEDURE 6349 6367	punción transeptal
+T75	PROCEDURE 7219 7253	mapa de voltaje de ambas aurículas
+T76	PROCEDURE 7832 7857	Procedimiento de ablación
+T77	PROCEDURE 8023 8064	radiofrecuencia en región posterosuperior
+T78	PROCEDURE 9072 9080	ablación
+T79	PROCEDURE 9511 9535	Se retiran los catéteres
+T80	PROCEDURE 9755 9758	ECG
+T81	PROCEDURE 9857 9871	ecocardiograma
+T82	PROCEDURE 10152 10178	tratamiento anticoagulante
+T83	PROCEDURE 10623 10648	procedimiento de ablación
+T84	PROCEDURE 10829 10872	TC de aurícula izquierda y venas pulmonares
+T85	PROCEDURE 10885 10893	ablación
+T86	PROCEDURE 10941 10968	coronariografía no invasiva
+T87	PROCEDURE 11069 11084	anticoagulación
+T88	PROCEDURE 11108 11132	medicación antiarrítmica
+T89	PROCEDURE 11810 11835	medicación anticoagulante
+T90	PROCEDURE 11841 11866	tratamiento antiarrítmico
+T91	PROCEDURE 11881 11889	ablación
+T92	PROCEDURE 12087 12090	ECG
+T93	PROCEDURE 12143 12158	ecocardioscopia
+T94	PROCEDURE 12327 12352	procedimiento de ablación
+T95	PROCEDURE 12464 12466	TC
+T96	PROCEDURE 12476 12484	ablación
+T97	PROCEDURE 12684 12753	Ablación con radiofrecuencia de reconexión y de focos extrapulmonares
+T98	PROCEDURE 1631 1644	antiarrítmico
+T99	PROCEDURE 7102 7126	maniobra de pace and map
+T100	PROCEDURE 12487 12533	Reconexión de vena pulmonar superior izquierda
+T101	PROCEDURE 2917 2932	Cabeza y cuello
+T102	PROCEDURE 11153 11203	procedimiento de ablación de fibrilación auricular
+T103	PROCEDURE 7403 7428	infusión de isoproterenol
+T104	PROCEDURE 11388 11413	infusión de isoproterenol
+T105	PROCEDURE 12592 12617	infusión de isoproterenol
+T106	PROCEDURE 1127 1200	ligamento de Marshall, ablacionado con éxito en región de carina anterior
+T107	SYMPTOM 854 889	aurícula izquierda de tamaño límite
+T108	SYMPTOM 1525 1534	arrítmica
+T109	SYMPTOM 1884 1897	palpitaciones
+T110	SYMPTOM 2245 2253	ortopnea
+T111	SYMPTOM 2255 2282	disnea paroxística nocturna
+T112	SYMPTOM 2284 2287	DPN
+T113	SYMPTOM 2293 2333	edematización de extremidades inferiores
+T114	SYMPTOM 2338 2352	dolor torácico
+T115	SYMPTOM 2409 2425	clínica sincopal
+T116	SYMPTOM 2563 2576	ritmo sinusal
+T117	SYMPTOM 2786 2805	Buen estado general
+T118	SYMPTOM 2908 2915	Afebril
+T119	SYMPTOM 2937 2965	ingurgitación venosa yugular
+T120	SYMPTOM 2967 3005	Auscultación cardiaca: ruidos rítmicos
+T121	SYMPTOM 3019 3025	soplos
+T122	SYMPTOM 3088 3104	Abdomen: anodino
+T123	SYMPTOM 3106 3141	Extremidades inferiores: sin edemas
+T124	SYMPTOM 3229 3242	ritmo sinusal
+T125	SYMPTOM 3263 3275	QRS estrecho
+T126	SYMPTOM 3296 3329	alteraciones en la repolarización
+T127	SYMPTOM 3331 3341	QTc normal
+T128	SYMPTOM 3940 4006	Válvula mitral de velos finos con movilidad y apertura conservadas
+T129	SYMPTOM 4235 4276	función sistólica moderadamente deprimida
+T130	SYMPTOM 4510 4567	Ventrículo derecho no dilatado; contractilidad conservada
+T131	SYMPTOM 4584 4633	Válvula tricúspide con buena apertura y movilidad
+T132	SYMPTOM 5660 5734	Ventrículo izquierdo con ligeramoderada depresión de la función contráctil
+T133	SYMPTOM 9957 10003	alteraciones segmentarias de la contractilidad
+T134	SYMPTOM 10065 10078	ritmo sinusal
+T135	SYMPTOM 12056 12068	taquicardias
+T136	SYMPTOM 12121 12134	ritmo sinusal
+T137	SYMPTOM 2429 2440	presincopal
+T138	SYMPTOM 892 907	FEVI conservada
+T139	SYMPTOM 3681 3700	ausencia de ondas P
+T140	SYMPTOM 4454 4508	Anillo valvular y raíz aórtica de dimensiones normales
+T141	SYMPTOM 4723 4759	Vena cava inferior (VCI) no dilatada
+T142	SYMPTOM 4028 4076	Patrón diastólico de alteración de la relajación
+T143	SYMPTOM 5603 5631	Septo interauricular íntegro
+T144	SYMPTOM 4954 4998	arterias coronarias epicárdicas sin lesiones
+T145	SYMPTOM 3280 3290	eje normal
+T146	SYMPTOM 3050 3086	normoventilación en todos los campos
+T147	MEDICATION 1256 1266	flecainida
+T148	MEDICATION 1281 1291	dabigatrán
+T149	MEDICATION 9400 9409	adenosina
+T150	MEDICATION 10183 10193	dabigatrán
+T151	MEDICATION 10324 10334	amiodarona
+T152	MEDICATION 10348 10356	ramipril
+T153	MEDICATION 10371 10381	bisoprolol
+T154	MEDICATION 7415 7428	isoproterenol
+#1	AnnotatorNotes T112	Disnea paroxística nocturna

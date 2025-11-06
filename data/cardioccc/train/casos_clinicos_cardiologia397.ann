@@ -1,0 +1,112 @@
+T1	DISEASE 2163 2236	dilatación ligera de ventrículo izquierdo y severa del ventrículo derecho
+T2	DISEASE 2412 2444	disociación aurículo-ventricular
+T3	DISEASE 3485 3524	Aurícula izquierda ligeramente dilatada
+T4	DISEASE 3526 3566	Cavidades derechas severamente dilatadas
+T5	DISEASE 3688 3720	VD y función sistólica deprimida
+T6	DISEASE 2365 2397	taquicardia regular de QRS ancho
+T7	DISEASE 2583 2602	BAV de primer grado
+T8	DISEASE 6233 6252	BAV de primer grado
+T9	DISEASE 6163 6231	Disfunción sistólica ventricular derecha severa e izquierda moderada
+T10	DISEASE 6049 6082	Taquicardia ventricular sostenida
+T11	DISEASE 3226 3267	Ventrículo izquierdo ligeramente dilatado
+T12	DISEASE 2036 2042	anemia
+T13	DISEASE 179 201	arteria cerebral media
+T14	DISEASE 910 935	bloqueo de rama izquierda
+T15	DISEASE 2470 2495	bloqueo de rama izquierda
+T16	DISEASE 2542 2561	bradicardia sinusal
+T17	DISEASE 3842 3861	derrame pericárdico
+T18	DISEASE 2861 2876	derrame pleural
+T19	DISEASE 4678 4702	dilatación aneurismática
+T20	DISEASE 4401 4434	dilatación del ventrículo derecho
+T21	DISEASE 2267 2316	disfunción sistólica severa de ventrículo derecho
+T22	DISEASE 70 79	exfumador
+T23	DISEASE 6254 6275	hipertensión arterial
+T24	DISEASE 128 143	ictus isquémico
+T25	DISEASE 3779 3804	insuficiencia tricuspídea
+T26	DISEASE 5337 5399	miocardiopatía arritmogénica de ventrículo derecho e izquierdo
+T27	DISEASE 6099 6161	miocardiopatía arritmogénica de ventrículo derecho e izquierdo
+T28	DISEASE 97 106	sobrepeso
+T29	DISEASE 5063 5086	taquicardia ventricular
+T30	DISEASE 81 90	exbebedor
+T31	DISEASE 301 363	dilatación ligera de ventrículo derecho con hipertrabeculación
+T32	DISEASE 2816 2829	cardiomegelia
+T33	DISEASE 838 870	taquicardia regular de QRS ancho
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 247 261	ecocardiograma
+T36	PROCEDURE 519 546	cardiorresonancia magnética
+T37	PROCEDURE 808 826	electrocardiograma
+T38	PROCEDURE 1105 1128	cardioversión eléctrica
+T39	PROCEDURE 1474 1497	cardioversión eléctrica
+T40	PROCEDURE 1565 1574	anamnesis
+T41	PROCEDURE 1581 1599	exploración física
+T42	PROCEDURE 1773 1800	auscultación cardiopulmonar
+T43	PROCEDURE 1971 1991	radiografía de tórax
+T44	PROCEDURE 1993 2012	analítica de sangre
+T45	PROCEDURE 2123 2151	ecocardiograma transtorácico
+T46	PROCEDURE 2343 2361	Electrocardiograma
+T47	PROCEDURE 2520 2538	Electrocardiograma
+T48	PROCEDURE 2785 2814	Radiografía de tórax portátil
+T49	PROCEDURE 3155 3183	Ecocardiograma transtorácico
+T50	PROCEDURE 3932 3947	Coronariografía
+T51	PROCEDURE 3997 4007	Cardio RMN
+T52	PROCEDURE 4121 4161	Estudio de función ventricular izquierda
+T53	PROCEDURE 4258 4296	Estudio de función ventricular derecha
+T54	PROCEDURE 4807 4819	contraste iv
+T55	PROCEDURE 5131 5154	cardioversión eléctrica
+T56	PROCEDURE 5262 5283	electrocardiográficos
+T57	PROCEDURE 5416 5438	DAI bicameral bibovina
+T58	PROCEDURE 5999 6012	test genético
+T59	PROCEDURE 2987 2998	coagulación
+T60	PROCEDURE 2044 2057	función renal
+T61	PROCEDURE 2060 2065	iones
+T62	PROCEDURE 2095 2118	biomarcadores cardiacos
+T63	PROCEDURE 5289 5304	imagen cardiaca
+T64	PROCEDURE 5656 5702	inhibidor de enzima conversora de angiotensina
+T65	PROCEDURE 2878 2887	Analítica
+T66	PROCEDURE 1308 1331	perfusión de amiodarona
+T67	SYMPTOM 206 219	afasia motora
+T68	SYMPTOM 705 718	disnea brusca
+T69	SYMPTOM 721 737	malestar general
+T70	SYMPTOM 1193 1217	estabilidad hemodinámica
+T71	SYMPTOM 1429 1440	taquicardia
+T72	SYMPTOM 1510 1524	dolor torácico
+T73	SYMPTOM 1721 1728	afebril
+T74	SYMPTOM 1745 1766	ingurgitación yugular
+T75	SYMPTOM 1810 1826	soplos cardiacos
+T76	SYMPTOM 1840 1869	murmullo vesicular conservado
+T77	SYMPTOM 1896 1925	Abdomen sin masas ni megalias
+T78	SYMPTOM 1928 1958	miembros inferiores sin edemas
+T79	SYMPTOM 2044 2074	función renal e iones normales
+T80	SYMPTOM 2077 2118	leve elevación de biomarcadores cardiacos
+T81	SYMPTOM 2238 2264	FEVI severamente deprimida
+T82	SYMPTOM 2605 2639	onda r de pequeño voltaje hasta V6
+T83	SYMPTOM 2642 2677	deflexión positiva al final del QRS
+T84	SYMPTOM 2713 2783	ondas T negativas de V1 a V5 y aplanada en V6 y derivaciones frontales
+T85	SYMPTOM 2832 2855	redistribución vascular
+T86	SYMPTOM 2987 3005	coagulación normal
+T87	SYMPTOM 3282 3308	FEVI severamente deprimida
+T88	SYMPTOM 3367 3409	Patrón diastólico de relajación prolongada
+T89	SYMPTOM 4521 4577	ventrículo izquierdo destaca una cara lateral adelgazada
+T90	SYMPTOM 1166 1179	ritmo sinusal
+T91	SYMPTOM 1528 1535	síncope
+T92	SYMPTOM 376 452	fracción de eyección de ventrículo izquierdo en límite bajo de la normalidad
+T93	SYMPTOM 3433 3483	Válvula mitral y válvula aórtica normofuncionantes
+T94	SYMPTOM 3651 3690	Hipertrabeculación de pared libre de VD
+T95	SYMPTOM 4713 4741	Acinesia inferolateral media
+T96	SYMPTOM 4744 4767	discinesia apicolateral
+T97	SYMPTOM 3949 3995	arterias coronarias angiográficamente normales
+T98	SYMPTOM 938 958	eje superior derecho
+T99	SYMPTOM 2498 2518	eje superior derecho
+T100	SYMPTOM 4416 4459	ventrículo derecho con áreas de hipocinesia
+T101	SYMPTOM 4852 4897	pared lateral subepicárdica del VI adelgazado
+T102	MEDICATION 604 607	AAS
+T103	MEDICATION 616 629	atorvastatina
+T104	MEDICATION 638 648	ranitidina
+T105	MEDICATION 1031 1041	amiodarona
+T106	MEDICATION 1321 1331	amiodarona
+T107	MEDICATION 1350 1360	bisoprolol
+T108	MEDICATION 5108 5118	amiodarona
+T109	MEDICATION 5184 5191	sotalol
+T110	MEDICATION 5713 5723	bisoprolol
+T111	MEDICATION 5740 5747	sotalol
+T112	MEDICATION 5863 5871	apixabán

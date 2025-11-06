@@ -1,0 +1,109 @@
+T1	ENFERMEDAD 90 113	alergias medicamentosas
+T2	ENFERMEDAD 167 174	fumador
+T3	ENFERMEDAD 198 208	hipertenso
+T4	ENFERMEDAD 211 222	dislipémico
+T5	ENFERMEDAD 260 286	síndrome ansioso-depresivo
+T6	ENFERMEDAD 292 310	bronquitis crónica
+T7	ENFERMEDAD 389 440	fractura de cadera derecha hace 5 años y de tobillo
+T8	ENFERMEDAD 515 526	cardiopatía
+T9	ENFERMEDAD 866 881	cuadro catarral
+T10	ENFERMEDAD 2328 2353	trombosis venosa profunda
+T11	ENFERMEDAD 3791 3804	valvulopatías
+T12	ENFERMEDAD 3875 3894	derrame pericárdico
+T13	ENFERMEDAD 4045 4050	angor
+T14	ENFERMEDAD 4407 4432	insuficiencia renal aguda
+T15	ENFERMEDAD 4438 4457	acidosis metabólica
+T16	ENFERMEDAD 4607 4636	angina vasoespástica alérgica
+T17	ENFERMEDAD 4639 4641	SK
+T18	ENFERMEDAD 4882 4911	Angina vasoespástica alérgica
+T19	ENFERMEDAD 4913 4915	SK
+T20	ENFERMEDAD 4918 4938	Alergia a quinolonas
+T21	ENFERMEDAD 3746 3785	Aurícula izquierda ligeramente dilatada
+T22	ENFERMEDAD 3535 3584	ventrículo izquierdo no dilatado, con hipertrofia
+T23	ENFERMEDAD 1166 1178	rash cutáneo
+T24	ENFERMEDAD 530 543	muerte súbita
+T25	PROCEDIMIENTO 358 448	Intervenido quirúrgicamente de fractura de cadera derecha hace 5 años y de tobillo derecho
+T26	PROCEDIMIENTO 1010 1033	tratamiento antibiótico
+T27	PROCEDIMIENTO 1455 1485	administración de sueroterapia
+T28	PROCEDIMIENTO 1488 1505	broncodilatadores
+T29	PROCEDIMIENTO 1874 1892	EXPLORACIÓN FÍSICA
+T30	PROCEDIMIENTO 2137 2158	Auscultación cardiaca
+T31	PROCEDIMIENTO 2190 2211	Auscultación pulmonar
+T32	PROCEDIMIENTO 2283 2292	palpación
+T33	PROCEDIMIENTO 2380 2398	ELECTROCARDIOGRAMA
+T34	PROCEDIMIENTO 2400 2403	ECG
+T35	PROCEDIMIENTO 2506 2509	ECG
+T36	PROCEDIMIENTO 2606 2626	RADIOGRAFÍA DE TÓRAX
+T37	PROCEDIMIENTO 2731 2740	Hemograma
+T38	PROCEDIMIENTO 3241 3259	Hormonas tiroideas
+T39	PROCEDIMIENTO 3292 3303	Coagulación
+T40	PROCEDIMIENTO 3340 3359	Gasometría arterial
+T41	PROCEDIMIENTO 3430 3450	CATETERISMO CARDIACO
+T42	PROCEDIMIENTO 3519 3533	ECOCARDIOGRAMA
+T43	PROCEDIMIENTO 4191 4211	estudio hemodinámico
+T44	PROCEDIMIENTO 4271 4285	ecocardiograma
+T45	PROCEDIMIENTO 4560 4576	pruebas cutáneas
+T46	PROCEDIMIENTO 315 342	tratamiento broncodilatador
+T47	PROCEDIMIENTO 2851 2861	Bioquímica
+T48	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDIMIENTO 1762 1791	marcadores de daño miocárdico
+T50	PROCEDIMIENTO 2695 2704	ANALÍTICA
+T51	PROCEDIMIENTO 2086 2101	Cabeza y cuello
+T52	SINTOMA 887 903	malestar general
+T53	SINTOMA 910 916	fiebre
+T54	SINTOMA 1107 1141	prurito intenso en cuero cabelludo
+T55	SINTOMA 1154 1164	sudoración
+T56	SINTOMA 1180 1222	dolor centrotorácico opresivo no irradiado
+T57	SINTOMA 1225 1231	disnea
+T58	SINTOMA 1315 1323	disneico
+T59	SINTOMA 1340 1360	trabajo respiratorio
+T60	SINTOMA 1362 1371	hipotenso
+T61	SINTOMA 1642 1667	hemodinámicamente estable
+T62	SINTOMA 1674 1694	trabajo respiratorio
+T63	SINTOMA 1749 1791	elevación de marcadores de daño miocárdico
+T64	SINTOMA 1966 1976	Consciente
+T65	SINTOMA 1978 1987	orientado
+T66	SINTOMA 1989 2011	buena perfusión distal
+T67	SINTOMA 2137 2167	Auscultación cardiaca: rítmica
+T68	SINTOMA 2173 2179	soplos
+T69	SINTOMA 2213 2235	Hipoventilación global
+T70	SINTOMA 2294 2317	Extremidades: no edemas
+T71	SINTOMA 2412 2425	ritmo sinusal
+T72	SINTOMA 2447 2459	QRS estrecho
+T73	SINTOMA 2554 2566	QRS estrecho
+T74	SINTOMA 2628 2656	índice cardiotorácico normal
+T75	SINTOMA 3241 3290	Hormonas tiroideas dentro del rango de normalidad
+T76	SINTOMA 3535 3567	ventrículo izquierdo no dilatado
+T77	SINTOMA 3597 3622	función global conservada
+T78	SINTOMA 3697 3744	Ventrículo derecho de tamaño y función normales
+T79	SINTOMA 3896 3915	Arco aórtico normal
+T80	SINTOMA 3997 4009	asintomático
+T81	SINTOMA 4054 4079	hemodinámicamente estable
+T82	SINTOMA 4106 4139	alteraciones de la repolarización
+T83	SINTOMA 4233 4265	arterias coronarias sin lesiones
+T84	SINTOMA 4301 4342	ventrículo de tamaño y función conservada
+T85	SINTOMA 4751 4763	asintomático
+T86	SINTOMA 2237 2292	Abdomen: blando, depresible, no doloroso a la palpación
+T87	SINTOMA 2013 2038	Eupneico al aire ambiente
+T88	SINTOMA 2066 2084	Tórax enfisematoso
+T89	SINTOMA 2114 2135	reflujo hepatoyugular
+T90	SINTOMA 2470 2504	Supradesnivelación del ST inferior
+T91	SINTOMA 3627 3670	anomalías segmentarias de la contractilidad
+T92	SINTOMA 3806 3870	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T93	SINTOMA 4347 4377	anomalías de la contractilidad
+T94	SINTOMA 2106 2109	IVY
+T95	SINTOMA 2670 2693	redistribución vascular
+T96	SINTOMA 3452 3517	arterias coronarias sin lesiones angiográficamente significativas
+T97	FARMACO 576 586	fluoxetina
+T98	FARMACO 603 612	omeprazol
+T99	FARMACO 629 639	bromazepam
+T100	FARMACO 657 666	valsartán
+T101	FARMACO 684 696	pravastatina
+T102	FARMACO 713 723	formoterol
+T103	FARMACO 728 741	beclometasona
+T104	FARMACO 773 783	salbutamol
+T105	FARMACO 1038 1051	moxifloxacino
+T106	FARMACO 4666 4679	moxifloxacino
+T107	FARMACO 2043 2050	oxígeno
+#1	AnnotatorNotes T17	 Sindrome de Kounis
+#2	AnnotatorNotes T19	 Síndrome de Kounis

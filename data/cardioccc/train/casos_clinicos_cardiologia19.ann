@@ -1,0 +1,81 @@
+T1	DISEASE 2726 2754	pérdida de visión unilateral
+T2	DISEASE 54 100	endocarditis sobre válvula protésica biológica
+T3	DISEASE 139 190	absceso sobre la válvula con dehiscencia del anillo
+T4	DISEASE 574 582	glaucoma
+T5	DISEASE 584 597	hiperuricemia
+T6	DISEASE 599 604	DM II
+T7	DISEASE 607 626	hipercolesterolemia
+T8	DISEASE 714 764	infarto de miocardio silente en cara inferolateral
+T9	DISEASE 811 840	insuficiencia mitral moderada
+T10	DISEASE 1103 1168	EPOC tipo enfisema con bullas pulmonares bilaterales subpleurales
+T11	DISEASE 1303 1330	insuficiencia mitral severa
+T12	DISEASE 1537 1582	enfermedad coronaria significativa de 2 vasos
+T13	DISEASE 1584 1620	estenosis severa en DA y CD proximal
+T14	DISEASE 1951 1975	síndrome postcardiotomía
+T15	DISEASE 2182 2265	trombo de 19 x 11 mm en la cara auricular del velo septal, de la prótesis biológica
+T16	DISEASE 2815 2836	trombo intraprotésico
+T17	DISEASE 3121 3198	verruga endocárdica sésil y móvil sobre el velo anterior de la válvula mitral
+T18	DISEASE 3290 3332	pseudoaneurisma del anillo valvular mitral
+T19	DISEASE 3364 3383	proceso endocárdico
+T20	DISEASE 3406 3429	endocarditis infecciosa
+T21	DISEASE 3629 3683	endocarditis infecciosa sobre válvula protésica mitral
+T22	DISEASE 3753 3791	perforación del anillo valvular mitral
+T23	DISEASE 3812 3846	insuficiencia periprotésica severa
+T24	DISEASE 3927 3939	endocarditis
+T25	DISEASE 4329 4358	endocarditis protésica precoz
+T26	DISEASE 4640 4711	abceso perivalvular mitral con "desinserción" parcial del anillo mitral
+T27	DISEASE 213 221	alergias
+T28	DISEASE 237 246	exfumador
+T29	DISEASE 842 923	ventrículo izquierdo (VI) dilatado (volumen telediastólico 155 ml) e hipertrófico
+T30	DISEASE 1197 1253	infarto establecido de cronología incierta inferolateral
+T31	DISEASE 288 317	consumidor de 2 copas de vino
+T32	DISEASE 2630 2636	trombo
+T33	DISEASE 3253 3259	trombo
+T34	PROCEDURE 634 663	ecocardiografía transtorácica
+T35	PROCEDURE 665 668	ETT
+T36	PROCEDURE 1262 1265	ETT
+T37	PROCEDURE 1492 1507	coronariografía
+T38	PROCEDURE 1657 1732	derivación aortocoronaria: mamaria interna izquierda a descendente anterior
+T39	PROCEDURE 1736 1809	sustitución de la válvula mitral por una prótesis biológica Labcor N.o 31
+T40	PROCEDURE 1998 2039	tratamiento deplectivo y antiinflamatorio
+T41	PROCEDURE 2113 2128	ecocardiografía
+T42	PROCEDURE 2282 2308	tratamiento anticoagulante
+T43	PROCEDURE 2410 2427	cultivos seriados
+T44	PROCEDURE 2457 2489	tratamiento antibiótico empírico
+T45	PROCEDURE 2544 2570	tratamiento anticoagulante
+T46	PROCEDURE 2585 2609	control ecocardiográfico
+T47	PROCEDURE 2864 2890	tratamiento anticoagulante
+T48	PROCEDURE 3057 3074	cultivos seriados
+T49	PROCEDURE 3091 3094	ETE
+T50	PROCEDURE 3436 3439	ETE
+T51	PROCEDURE 3451 3483	tratamiento antibiótico empírico
+T52	PROCEDURE 3575 3581	PET-TC
+T53	PROCEDURE 3699 3702	ETE
+T54	PROCEDURE 3944 3956	hemocultivos
+T55	PROCEDURE 4245 4268	tratamiento antibiótico
+T56	PROCEDURE 4534 4563	ecocardiografía transtorácica
+T57	PROCEDURE 1468 1484	cirugía cardíaca
+T58	PROCEDURE 2892 2917	parámetros de inflamación
+T59	PROCEDURE 2920 2937	cultivos seriados
+T60	PROCEDURE 3489 3497	cultivos
+T61	PROCEDURE 3529 3539	serologías
+T62	PROCEDURE 3879 3901	tratamiento deplectivo
+T63	PROCEDURE 4024 4034	serologías
+T64	PROCEDURE 4000 4008	cultivos
+T65	PROCEDURE 4121 4130	serología
+T66	SYMPTOM 459 511	disnea progresiva hasta hacerse de mínimos esfuerzos
+T67	SYMPTOM 1401 1407	disnea
+T68	SYMPTOM 2093 2105	asintomático
+T69	SYMPTOM 2348 2359	pico febril
+T70	SYMPTOM 2715 2724	debilidad
+T71	SYMPTOM 2757 2764	náuseas
+T72	SYMPTOM 2988 2997	febrícula
+T73	SYMPTOM 3944 3966	hemocultivos negativos
+T74	SYMPTOM 2410 2445	cultivos seriados (todos negativos)
+T75	SYMPTOM 2892 2947	parámetros de inflamación y cultivos seriados negativos
+T76	SYMPTOM 3489 3548	cultivos fueron negativos, así como las serologías y la PCR
+T77	SYMPTOM 4121 4168	serología para Bartonella henselae fue positiva
+T78	SYMPTOM 746 793	cara inferolateral (acinesia con adelgazamiento
+T79	SYMPTOM 1346 1378	caída de la fracción de eyección
+T80	MEDICATION 2041 2051	colchicina
+T81	MEDICATION 4476 4487	doxiciclina

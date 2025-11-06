@@ -1,0 +1,120 @@
+T1	ENFERMEDAD 74 95	cardiopatía isquémica
+T2	ENFERMEDAD 163 186	alergias medicamentosas
+T3	ENFERMEDAD 218 242	Diabetes mellitus tipo 2
+T4	ENFERMEDAD 272 307	Dislipemia tipo hipercolesterolemia
+T5	ENFERMEDAD 423 456	neumonía por Pneumocystis carinii
+T6	ENFERMEDAD 1433 1487	síndrome coronario agudo con elevación del segmento ST
+T7	ENFERMEDAD 2251 2270	bradicardia sinusal
+T8	ENFERMEDAD 2954 2985	enfermedad coronaria de un vaso
+T9	ENFERMEDAD 2987 3044	Oclusión trombótica en arteria coronaria derecha proximal
+T10	ENFERMEDAD 3046 3141	Lesiones moderadas en descendente anterior proximal, descendente anterior media y rama marginal
+T11	ENFERMEDAD 3639 3708	Válvula mitral normal en estructura y función, con insuficiencia leve
+T12	ENFERMEDAD 3816 3835	derrame pericárdico
+T13	ENFERMEDAD 4014 4023	arritmias
+T14	ENFERMEDAD 4027 4049	insuficiencia cardiaca
+T15	ENFERMEDAD 4198 4219	hipertensión arterial
+T16	ENFERMEDAD 4315 4334	bradicardia sinusal
+T17	ENFERMEDAD 5116 5137	Cardiopatía isquémica
+T18	ENFERMEDAD 5157 5187	Enfemedad coronaria de un vaso
+T19	ENFERMEDAD 5278 5294	infarto inferior
+T20	ENFERMEDAD 5372 5393	Hipertensión arterial
+T21	ENFERMEDAD 5395 5433	Hipertrofia del VI moderada secundaria
+T22	ENFERMEDAD 5435 5445	Dislipemia
+T23	ENFERMEDAD 5447 5464	Diabetes mellitus
+T24	ENFERMEDAD 5494 5511	Infección por VIH
+T25	ENFERMEDAD 1489 1496	SCACEST
+T26	ENFERMEDAD 5139 5155	SCACEST inferior
+T27	ENFERMEDAD 201 216	hábitos tóxicos
+T28	ENFERMEDAD 2884 2921	lesiones pleuroparenquimatosas agudas
+T29	ENFERMEDAD 3357 3426	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T30	ENFERMEDAD 4061 4082	tensión arterial alta
+T31	ENFERMEDAD 3221 3227	trombo
+T32	PROCEDIMIENTO 337 365	medidas higiénico-dietéticas
+T33	PROCEDIMIENTO 519 560	terapia antirretroviral de gran actividad
+T34	PROCEDIMIENTO 562 567	TARGA
+T35	PROCEDIMIENTO 791 820	herniorrafia inguinal derecha
+T36	PROCEDIMIENTO 1244 1254	analgésico
+T37	PROCEDIMIENTO 1548 1568	cateterismo cardiaco
+T38	PROCEDIMIENTO 1906 1927	Auscultación cardiaca
+T39	PROCEDIMIENTO 1950 1971	Auscultación pulmonar
+T40	PROCEDIMIENTO 2206 2224	ELECTROCARDIOGRAMA
+T41	PROCEDIMIENTO 2226 2229	ECG
+T42	PROCEDIMIENTO 2827 2847	RADIOGRAFÍA DE TÓRAX
+T43	PROCEDIMIENTO 2924 2944	CATETERISMO CARDIACO
+T44	PROCEDIMIENTO 3154 3227	intervención coronaria percutánea (ICP) primaria con aspiración de trombo
+T45	PROCEDIMIENTO 3230 3305	implante de stent liberador de zotarolimus sobre coronaria derecha proximal
+T46	PROCEDIMIENTO 3326 3340	ECOCARDIOGRAMA
+T47	PROCEDIMIENTO 3879 3900	angioplastia primaria
+T48	PROCEDIMIENTO 4300 4303	ECG
+T49	PROCEDIMIENTO 4887 4914	pruebas de función hepática
+T50	PROCEDIMIENTO 5189 5243	Angioplastia primaria sobre coronaria derecha proximal
+T51	PROCEDIMIENTO 4102 4157	inhibidor de la enzima de conversión de la angiotensina
+T52	PROCEDIMIENTO 4167 4181	betabloqueante
+T53	PROCEDIMIENTO 4159 4163	IECA
+T54	PROCEDIMIENTO 4628 4645	antirretrovialres
+T55	PROCEDIMIENTO 1571 1589	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 3189 3192	ICP
+T57	PROCEDIMIENTO 2389 2398	ANALÍTICA
+T58	PROCEDIMIENTO 4824 4833	Analítica
+T59	PROCEDIMIENTO 763 789	Intervenciones quirúrgicas
+T60	PROCEDIMIENTO 5023 5032	analítica
+T61	PROCEDIMIENTO 74 111	cardiopatía isquémica revascularizada
+T62	SINTOMA 21 35	dolor torácico
+T63	SINTOMA 367 379	VIH positivo
+T64	SINTOMA 616 632	RNA-VIH negativo
+T65	SINTOMA 1041 1130	dolor centrotorácico de características opresivas, irradiado a miembro superior izquierdo
+T66	SINTOMA 1146 1164	sensación nauseosa
+T67	SINTOMA 1167 1185	sudoración profusa
+T68	SINTOMA 1206 1211	dolor
+T69	SINTOMA 1294 1299	dolor
+T70	SINTOMA 1382 1416	alteraciones electrocardiográficas
+T71	SINTOMA 1462 1487	elevación del segmento ST
+T72	SINTOMA 1591 1598	Afebril
+T73	SINTOMA 1742 1752	Consciente
+T74	SINTOMA 1754 1763	orientado
+T75	SINTOMA 1766 1777	colaborador
+T76	SINTOMA 1779 1806	Bien hidratado y perfundido
+T77	SINTOMA 1808 1830	Regular estado general
+T78	SINTOMA 1848 1853	dolor
+T79	SINTOMA 1855 1873	Eupneico en reposo
+T80	SINTOMA 1875 1904	Presión venosa yugular normal
+T81	SINTOMA 1929 1936	rítmico
+T82	SINTOMA 1942 1948	soplos
+T83	SINTOMA 1973 2023	ruidos respiratorios preservados sin sobreañadidos
+T84	SINTOMA 2025 2066	Abdomen: blando, depresible y no doloroso
+T85	SINTOMA 2068 2090	Peristaltismo presente
+T86	SINTOMA 2092 2127	Extremidades inferiores: sin edemas
+T87	SINTOMA 2129 2179	Pulsos radiales y femorales presentes y simétricos
+T88	SINTOMA 2281 2290	PR normal
+T89	SINTOMA 2292 2304	QRS estrecho
+T90	SINTOMA 2306 2350	Elevación del segmento ST en DII, DIII y aVF
+T91	SINTOMA 2355 2386	descenso del ST en aVL, V1 y V2
+T92	SINTOMA 2849 2878	índice cardio-torácico normal
+T93	SINTOMA 3357 3389	ventrículo izquierdo no dilatado
+T94	SINTOMA 3428 3483	Hipocinesia de segmentos basal y medio de cara inferior
+T95	SINTOMA 3485 3544	Función sistólica global de ventrículo izquierdo conservada
+T96	SINTOMA 3710 3732	Válvula aórtica normal
+T97	SINTOMA 3766 3791	Válvula tricúspide normal
+T98	SINTOMA 3948 3953	dolor
+T99	SINTOMA 3956 3981	hemodinámicamente estable
+T100	SINTOMA 4349 4400	onda Q y onda T negativa en derivaciones inferiores
+T101	SINTOMA 4748 4760	asintomático
+T102	SINTOMA 5296 5360	Función sistólica del vetrículo izquierdo (VI) global conservada
+T103	SINTOMA 3612 3637	Ventrículo derecho normal
+T104	SINTOMA 4887 4923	pruebas de función hepática normales
+T105	SINTOMA 5531 5551	carga viral negativa
+T106	SINTOMA 3555 3610	Relajación prolongada en el patrón de flujo transmitral
+T107	FARMACO 841 860	abacavir/lamivudina
+T108	FARMACO 881 891	atazanavir
+T109	FARMACO 908 917	ritonavir
+T110	FARMACO 934 944	metformina
+T111	FARMACO 3261 3272	zotarolimus
+T112	FARMACO 4445 4456	clopidogrel
+T113	FARMACO 4472 4482	ranitidina
+T114	FARMACO 4499 4509	bisoprolol
+T115	FARMACO 4526 4534	ramipril
+T116	FARMACO 4551 4565	nitroglicerina
+T117	FARMACO 4586 4599	rosuvastatina
+T118	FARMACO 4651 4661	metformina
+T119	FARMACO 4948 4961	rosuvastatina
+T120	FARMACO 4423 4428	adiro

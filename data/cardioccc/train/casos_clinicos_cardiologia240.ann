@@ -1,0 +1,150 @@
+T1	DISEASE 114 121	fumador
+T2	DISEASE 187 202	hábitos tóxicos
+T3	DISEASE 236 269	fibrilación auricular paroxística
+T4	DISEASE 781 831	adenopatías hiliares homolaterales y mediastínicas
+T5	DISEASE 851 866	derrame pleural
+T6	DISEASE 920 962	atelectasia segmentaria en el lóbulo medio
+T7	DISEASE 1218 1245	neoplasia primaria pulmonar
+T8	DISEASE 1278 1289	adenopatías
+T9	DISEASE 1344 1369	adenopatía supraclavicuar
+T10	DISEASE 1382 1397	derrame pleural
+T11	DISEASE 1499 1529	adenocarcinoma (ADC) de pulmón
+T12	DISEASE 1660 1667	tumores
+T13	DISEASE 1714 1738	adenocarcinoma de pulmón
+T14	DISEASE 2046 2072	adenopatías paratraqueales
+T15	DISEASE 2092 2107	derrame pleural
+T16	DISEASE 2959 2966	síncope
+T17	DISEASE 3103 3123	derrame pleural leve
+T18	DISEASE 3128 3155	derrame pericárdico laminar
+T19	DISEASE 3380 3413	insuficiencia cardiaca congestiva
+T20	DISEASE 3918 3961	bloqueo auriculoventricular de primer grado
+T21	DISEASE 4604 4637	hipertrofia septal leve- moderada
+T22	DISEASE 4806 4852	regurgitación leve de válvula aórtica y mitral
+T23	DISEASE 4973 5003	insuficiencia tricuspidea leve
+T24	DISEASE 5008 5029	hipertensión pulmonar
+T25	DISEASE 5050 5074	derrame pericárdico leve
+T26	DISEASE 5177 5228	insuficiencia cardiaca secundaria a una bradicardia
+T27	DISEASE 5333 5355	insuficiencia cardiaca
+T28	DISEASE 5396 5418	insuficiencia cardiaca
+T29	DISEASE 5564 5596	hipertrofia septal leve-moderada
+T30	DISEASE 5622 5646	derrame pericárdico leve
+T31	DISEASE 5830 5848	síndrome nefrótico
+T32	DISEASE 5873 5889	cáncer de pulmón
+T33	DISEASE 5896 5921	síndromes paraneoplásicos
+T34	DISEASE 5966 5984	síndrome nefrótico
+T35	DISEASE 6161 6175	fallo hepático
+T36	DISEASE 6252 6260	etilismo
+T37	DISEASE 6504 6547	adenopatías abdomino-pélvicas ni inguinales
+T38	DISEASE 7174 7186	hipertensión
+T39	DISEASE 7258 7305	bradicardia sintomática secundaria a crizotinib
+T40	DISEASE 7308 7341	insuficiencia cardiaca congestiva
+T41	DISEASE 7584 7596	hipertensión
+T42	DISEASE 7778 7795	cardiopatía grave
+T43	DISEASE 8085 8107	Insuficiencia cardiaca
+T44	DISEASE 8141 8160	bradicardia sinusal
+T45	DISEASE 8162 8205	Bradicardia sinusal secundaria a crizotinib
+T46	DISEASE 8207 8231	Adenocarcinoma de pulmón
+T47	DISEASE 6414 6419	tumor
+T48	DISEASE 4734 4773	raíz de aorta estaba levemente dilatada
+T49	DISEASE 4857 4901	aurícula izquierda estaba levemente dilatada
+T50	DISEASE 1515 1518	ADC
+T51	DISEASE 5233 5301	bradicardia es un efecto adverso cardiovascular común del crizotinib
+T52	PROCEDURE 307 321	ecocardiograma
+T53	PROCEDURE 331 341	ergometría
+T54	PROCEDURE 654 684	tomografía axial computarizada
+T55	PROCEDURE 686 688	TC
+T56	PROCEDURE 1050 1077	broncoscopia con aspiración
+T57	PROCEDURE 1084 1120	tomografía por emisión de positrones
+T58	PROCEDURE 1122 1125	PET
+T59	PROCEDURE 1462 1488	estudio anatomo-patológico
+T60	PROCEDURE 1536 1553	análisis genético
+T61	PROCEDURE 1798 1819	tratamiento paliativo
+T62	PROCEDURE 1914 1927	quimioterapia
+T63	PROCEDURE 1932 1934	TC
+T64	PROCEDURE 2420 2422	TC
+T65	PROCEDURE 3005 3007	TC
+T66	PROCEDURE 3270 3306	tratamiento con un diurético del asa
+T67	PROCEDURE 3416 3434	Exploración física
+T68	PROCEDURE 3587 3605	exploración física
+T69	PROCEDURE 3724 3745	auscultación cardiaca
+T70	PROCEDURE 3842 3860	electrocardiograma
+T71	PROCEDURE 4044 4063	analítica de sangre
+T72	PROCEDURE 4413 4434	tratamiento diurético
+T73	PROCEDURE 4571 4585	ecocardiograma
+T74	PROCEDURE 5544 5558	ecocardiograma
+T75	PROCEDURE 6554 6556	TC
+T76	PROCEDURE 6718 6729	corticoides
+T77	PROCEDURE 6731 6742	analgésicos
+T78	PROCEDURE 7519 7545	Holter de tensión arterial
+T79	PROCEDURE 7637 7653	diurético de asa
+T80	PROCEDURE 378 389	anticoaguló
+T81	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T82	PROCEDURE 6979 6996	diurético del asa
+T83	PROCEDURE 6294 6311	enzimas hepáticas
+T84	PROCEDURE 6036 6049	función renal
+T85	PROCEDURE 2363 2375	monitorizado
+T86	PROCEDURE 2504 2526	tratamiento oncológico
+T87	PROCEDURE 1856 1887	inhibidor de la tirosina kinasa
+T88	PROCEDURE 6644 6668	tratamientos oncológicos
+T89	SYMPTOM 625 646	disfonía intermitente
+T90	SYMPTOM 706 735	masa pulmonar en el hemitórax
+T91	SYMPTOM 1148 1190	masa hipermetabólica en el lóbulo superior
+T92	SYMPTOM 1995 2008	masa pulmonar
+T93	SYMPTOM 2732 2765	edemas en extremidades inferiores
+T94	SYMPTOM 2768 2783	aumento de peso
+T95	SYMPTOM 2950 2955	mareo
+T96	SYMPTOM 2970 2981	disnea leve
+T97	SYMPTOM 2992 3000	ortopnea
+T98	SYMPTOM 3033 3046	masa pulmonar
+T99	SYMPTOM 3622 3637	plétora yugular
+T100	SYMPTOM 3646 3667	reflejo hepatoyugular
+T101	SYMPTOM 3670 3719	edemas con fóvea en ambas extremidades inferiores
+T102	SYMPTOM 3724 3757	auscultación cardiaca era rítmica
+T103	SYMPTOM 3806 3812	soplos
+T104	SYMPTOM 3871 3884	ritmo sinusal
+T105	SYMPTOM 4906 4955	ventrículo derecho era normal en tamaño y función
+T106	SYMPTOM 5233 5244	bradicardia
+T107	SYMPTOM 5797 5817	alteraciones renales
+T108	SYMPTOM 6036 6073	función renal del paciente era normal
+T109	SYMPTOM 6203 6208	edema
+T110	SYMPTOM 6434 6471	edemas en las extremidades inferiores
+T111	SYMPTOM 1408 1457	lesiones hipermetabólicas en el sexto arco costal
+T112	SYMPTOM 3201 3206	edema
+T113	SYMPTOM 4642 4705	fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T114	SYMPTOM 1751 1758	T2aN2M1
+T115	SYMPTOM 3517 3527	hipertenso
+T116	SYMPTOM 3967 3976	QT normal
+T117	SYMPTOM 5601 5616	FEVI conservada
+T118	SYMPTOM 6273 6325	bilirrubina como las enzimas hepáticas eran normales
+T119	SYMPTOM 6369 6386	compresión venosa
+T120	SYMPTOM 7346 7361	FEVI conservada
+T121	SYMPTOM 8112 8127	FEVI conservada
+T122	SYMPTOM 5721 5741	congestión sistémica
+T123	SYMPTOM 5746 5766	congestión sistémica
+T124	SYMPTOM 6683 6703	congestión sistémica
+T125	SYMPTOM 7440 7458	signos congestivos
+T126	SYMPTOM 7743 7761	signos congestivos
+T127	SYMPTOM 288 321	alteraciones en el ecocardiograma
+T128	SYMPTOM 889 913	imágenes pseudonodulares
+T129	SYMPTOM 1568 1588	translocación de ALK
+T130	SYMPTOM 1764 1784	translocación de ALK
+T131	SYMPTOM 2828 2879	refirió notar una frecuencia cardiaca aun más lenta
+T132	SYMPTOM 3162 3185	hipodensidad periportal
+T133	SYMPTOM 3547 3579	saturación de oxígeno era normal
+T134	SYMPTOM 4010 4063	alteraciones significativas en la analítica de sangre
+T135	SYMPTOM 6079 6156	albúmina y el colesterol se encontraban dentro de los rangos de la normalidad
+T136	SYMPTOM 7468 7511	refirió notar una mayor frecuencia cardiaca
+T137	SYMPTOM 8247 8266	traslocación de ALK
+T138	MEDICATION 528 537	lorazepam
+T139	MEDICATION 1841 1851	crizotinib
+T140	MEDICATION 2182 2192	crizotinib
+T141	MEDICATION 3229 3239	crizotinib
+T142	MEDICATION 5291 5301	crizotinib
+T143	MEDICATION 6751 6762	ibruprofeno
+T144	MEDICATION 6764 6773	naproxeno
+T145	MEDICATION 7129 7138	enalapril
+T146	MEDICATION 7295 7305	crizotinib
+T147	MEDICATION 8028 8038	crizotinib
+T148	MEDICATION 8195 8205	crizotinib
+T149	MEDICATION 6940 6950	crizonitib
+#1	AnnotatorNotes T50	adenocarcinoma

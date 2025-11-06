@@ -1,0 +1,57 @@
+T1	ENFERMEDAD 405 418	cardiomegalia
+T2	ENFERMEDAD 421 448	alteración del arco aórtico
+T3	ENFERMEDAD 1412 1425	Cardiomegalia
+T4	ENFERMEDAD 1491 1536	alteración en la disposición del arco aórtico
+T5	ENFERMEDAD 71 94	alergias medicamentosas
+T6	ENFERMEDAD 318 336	traumatismo costal
+T7	ENFERMEDAD 339 367	fractura de varias costillas
+T8	ENFERMEDAD 1056 1067	acropaquias
+T9	ENFERMEDAD 1262 1295	fractura de octavo arco posterior
+T10	ENFERMEDAD 1347 1354	derrame
+T11	ENFERMEDAD 1372 1381	hemotórax
+T12	ENFERMEDAD 1392 1410	fracturas costales
+T13	ENFERMEDAD 1596 1615	derrame pericárdico
+T14	ENFERMEDAD 1644 1665	cardiopatía congénita
+T15	ENFERMEDAD 1802 1835	Bloqueo completo por rama derecha
+T16	ENFERMEDAD 1847 1880	hipertrofia de ventrículo derecho
+T17	ENFERMEDAD 2191 2237	comunicación interauricular tipo ostium primum
+T18	ENFERMEDAD 2305 2334	insuficiencia mitral moderada
+T19	ENFERMEDAD 2382 2422	insuficiencia tricuspídea moderada grave
+T20	ENFERMEDAD 2501 2528	Insuficiencia pulmonar leve
+T21	ENFERMEDAD 2654 2678	Derrame pericárdico leve
+T22	ENFERMEDAD 3100 3136	Canal auriculoventricular incompleto
+T23	ENFERMEDAD 3171 3201	hipertensión arterial pulmonar
+T24	ENFERMEDAD 3213 3234	cardiopatía congénita
+T25	ENFERMEDAD 1882 1923	Hemibloqueo anterior de la rama izquierda
+T26	ENFERMEDAD 2021 2099	Ventrículo derecho gravemente dilatado (64 mm de diámetro basal), hipertrófico
+T27	ENFERMEDAD 2125 2147	Dilatación biauricular
+T28	ENFERMEDAD 2348 2377	Válvula tricúspide displásica
+T29	ENFERMEDAD 2278 2302	Válvula mitral con cleft
+T30	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDIMIENTO 375 395	radiografía de tórax
+T32	PROCEDIMIENTO 706 735	parto natural por vía vaginal
+T33	PROCEDIMIENTO 757 775	Exploración física
+T34	PROCEDIMIENTO 865 886	Auscultación cardiaca
+T35	PROCEDIMIENTO 933 954	Auscultación pulmonar
+T36	PROCEDIMIENTO 1095 1113	Análisis de sangre
+T37	PROCEDIMIENTO 1240 1260	Radiografía de tórax
+T38	PROCEDIMIENTO 1716 1734	Electrocardiograma
+T39	PROCEDIMIENTO 1736 1739	ECG
+T40	PROCEDIMIENTO 1925 1962	Ecocardiograma transtorácico portátil
+T41	PROCEDIMIENTO 2782 2810	cateterismo cardiaco derecho
+T42	PROCEDIMIENTO 2813 2847	prueba de ejercicio cardiopulmonar
+T43	PROCEDIMIENTO 2867 2901	tratamiento vasodilatador pulmonar
+T44	SINTOMA 566 571	mareo
+T45	SINTOMA 594 616	pérdidas de conciencia
+T46	SINTOMA 624 630	disnea
+T47	SINTOMA 632 646	dolor torácico
+T48	SINTOMA 648 658	hemoptisis
+T49	SINTOMA 888 921	soplo sistólico en borde esternal
+T50	SINTOMA 956 985	murmullo vesicular conservado
+T51	SINTOMA 1012 1046	Extremidades inferiores: no edemas
+T52	SINTOMA 1427 1478	alteración en la morfología del mediastino superior
+T53	SINTOMA 1742 1755	ritmo sinusal
+T54	SINTOMA 1766 1775	PR normal
+T55	SINTOMA 1777 1786	QRS ancho
+T56	SINTOMA 1964 2019	ventrículo izquierdo de tamaño, grosor y función normal
+T57	SINTOMA 2597 2621	Válvula aórtica trivalva

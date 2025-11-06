@@ -1,0 +1,166 @@
+T1	DISEASE 254 277	alergias medicamentosas
+T2	DISEASE 321 351	hipertensión arterial esencial
+T3	DISEASE 356 373	diabetes mellitus
+T4	DISEASE 375 377	DM
+T5	DISEASE 383 393	dislipemia
+T6	DISEASE 412 421	exfumador
+T7	DISEASE 532 564	fibrilación auricular permanente
+T8	DISEASE 664 734	Insuficiencia cardiaca congestiva etiquetada de etiología hipertensiva
+T9	DISEASE 793 817	enfermedad renal crónica
+T10	DISEASE 913 937	Síndrome rígidoacinético
+T11	DISEASE 961 1011	Anemia ferropénica crónica por pérdidas digestivas
+T12	DISEASE 1013 1044	Hiperplasia benigna de próstata
+T13	DISEASE 1047 1095	glaucoma crónico de ángulo abierto en ambos ojos
+T14	DISEASE 1508 1530	insuficiencia cardiaca
+T15	DISEASE 2665 2686	fibrilación auricular
+T16	DISEASE 2688 2690	FA
+T17	DISEASE 2719 2765	bloqueo completo de rama derecha de has de His
+T18	DISEASE 2859 2884	derrame pleural bilateral
+T19	DISEASE 2944 2965	Calcificación aórtica
+T20	DISEASE 2967 2984	Espondiloartrosis
+T21	DISEASE 5281 5283	IC
+T22	DISEASE 5491 5512	fibrilación auricular
+T23	DISEASE 5627 5652	derrame pleural bilateral
+T24	DISEASE 5715 5736	calcificación aórtica
+T25	DISEASE 5739 5756	espondiloartrosis
+T26	DISEASE 6022 6035	valvulopatías
+T27	DISEASE 6617 6708	fibrilación auricular con bloqueo auriculoventricular (BAV) completo con escape ventricular
+T28	DISEASE 7677 7720	trastorno de conducción auriculoventricular
+T29	DISEASE 8114 8181	BAV completo por sobredosificación accidental de carbidopa/levodopa
+T30	DISEASE 8262 8294	Fibrilación auricular permanente
+T31	DISEASE 8327 8351	enfermedad renal crónica
+T32	DISEASE 8364 8389	Síndrome rígido-acinético
+T33	DISEASE 2767 2773	BCRDHH
+T34	DISEASE 5540 5546	BCRDHH
+T35	DISEASE 8183 8224	Descompensación de insuficiencia cardiaca
+T36	DISEASE 5180 5182	FA
+T37	DISEASE 7810 7812	FA
+T38	DISEASE 8029 8031	FA
+T39	DISEASE 395 410	Hábitos tóxicos
+T40	DISEASE 208 249	descompensación de insuficiencia cardiaca
+T41	DISEASE 453 460	fumador
+T42	DISEASE 1829 1854	sintomatología infecciosa
+T43	DISEASE 5882 5951	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T44	DISEASE 841 861	nefroangioesclerosis
+T45	DISEASE 5200 5206	BRCDHH
+T46	DISEASE 6074 6107	vena cava inferior (VCI) dilatada
+T47	DISEASE 6672 6675	BAV
+T48	DISEASE 4265 4296	fibrilación auricular bloqueada
+T49	PROCEDURE 1902 1920	Exploración física
+T50	PROCEDURE 2227 2248	Auscultación cardiaca
+T51	PROCEDURE 2282 2303	Auscultación pulmonar
+T52	PROCEDURE 2628 2646	Electrocardiograma
+T53	PROCEDURE 2648 2651	ECG
+T54	PROCEDURE 2826 2846	Radiografía de tórax
+T55	PROCEDURE 2986 3005	Analítica de sangre
+T56	PROCEDURE 3018 3027	Hemograma
+T57	PROCEDURE 3357 3379	Estudio de coagulación
+T58	PROCEDURE 4219 4222	ECG
+T59	PROCEDURE 4428 4437	Hemograma
+T60	PROCEDURE 4734 4745	Coagulación
+T61	PROCEDURE 4943 4960	gasometría venosa
+T62	PROCEDURE 5156 5159	ECG
+T63	PROCEDURE 5218 5221	ECG
+T64	PROCEDURE 5454 5457	ECG
+T65	PROCEDURE 5606 5626	radiografía de tórax
+T66	PROCEDURE 5843 5871	ecocardiograma transtorácico
+T67	PROCEDURE 6455 6473	exploración física
+T68	PROCEDURE 6573 6575	AC
+T69	PROCEDURE 6612 6615	ECG
+T70	PROCEDURE 7603 7643	implante de dispositivos de estimulación
+T71	PROCEDURE 623 649	tratamiento anticoagulante
+T72	PROCEDURE 3485 3495	Bioquímica
+T73	PROCEDURE 4821 4831	Bioquímica
+T74	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 5096 5121	Iones en muestra de gases
+T76	PROCEDURE 7221 7235	betabloqueante
+T77	PROCEDURE 8071 8085	betabloqueante
+T78	PROCEDURE 6842 6847	iones
+T79	PROCEDURE 7100 7114	monitorización
+T80	PROCEDURE 5370 5398	diurético de asa intravenoso
+T81	PROCEDURE 5298 5326	diurético oral e intravenoso
+T82	PROCEDURE 2528 2551	Extremidades inferiores
+T83	PROCEDURE 6782 6791	analítica
+T84	PROCEDURE 1666 1680	diurético oral
+T85	PROCEDURE 1683 1724	bolos semanales de furosemida intravenosa
+T86	SYMPTOM 740 771	fracción de eyección conservada
+T87	SYMPTOM 1418 1447	edemas en miembros inferiores
+T88	SYMPTOM 1450 1479	disnea de moderados esfuerzos
+T89	SYMPTOM 1584 1592	ortopnea
+T90	SYMPTOM 1751 1778	disnea paroxística nocturna
+T91	SYMPTOM 1780 1794	dolor torácico
+T92	SYMPTOM 1797 1810	palpitaciones
+T93	SYMPTOM 1943 1962	buen estado general
+T94	SYMPTOM 1964 1974	consciente
+T95	SYMPTOM 1977 1986	orientado
+T96	SYMPTOM 1988 2002	normohidratado
+T97	SYMPTOM 2004 2019	normoperfundido
+T98	SYMPTOM 2022 2036	normocoloreado
+T99	SYMPTOM 2173 2225	Ingurgitación venosa yugular hasta ángulo mandibular
+T100	SYMPTOM 2250 2259	arrítmico
+T101	SYMPTOM 2265 2271	soplos
+T102	SYMPTOM 2275 2280	roces
+T103	SYMPTOM 2305 2324	crepitantes gruesos
+T104	SYMPTOM 2327 2358	hipofonesis hasta campos medios
+T105	SYMPTOM 2360 2417	Abdomen: ruidos hidroaéreos normales, blando y depresible
+T106	SYMPTOM 2423 2428	masas
+T107	SYMPTOM 2432 2447	visceromegalias
+T108	SYMPTOM 2453 2473	dolor a la palpación
+T109	SYMPTOM 2484 2505	irritación peritoneal
+T110	SYMPTOM 2553 2601	edemas con fóvea hasta la mitad de ambas piernas
+T111	SYMPTOM 5953 5984	fracción de eyección conservada
+T112	SYMPTOM 6232 6237	mareo
+T113	SYMPTOM 6239 6250	bradicardia
+T114	SYMPTOM 6363 6373	consciente
+T115	SYMPTOM 6382 6392	obnubilado
+T116	SYMPTOM 6399 6417	tendencia al sueño
+T117	SYMPTOM 6419 6448	reactivo a estímulos verbales
+T118	SYMPTOM 6483 6496	frialdad acra
+T119	SYMPTOM 6498 6510	bradicárdico
+T120	SYMPTOM 6512 6519	rítmico
+T121	SYMPTOM 6525 6531	soplos
+T122	SYMPTOM 6577 6589	bradicárdico
+T123	SYMPTOM 6604 6610	soplos
+T124	SYMPTOM 4298 4325	ritmo de escape ventricular
+T125	SYMPTOM 6052 6072	PSAP estimada normal
+T126	SYMPTOM 6573 6598	AC: bradicárdico, rítmico
+T127	SYMPTOM 8229 8260	fracción de eyección conservada
+T128	SYMPTOM 2779 2824	alteraciones secundarias de la repolarización
+T129	SYMPTOM 5551 5596	alteraciones secundarias de la repolarización
+T130	SYMPTOM 5989 6016	alteración de la relajación
+T131	SYMPTOM 6815 6832	alteración iónica
+T132	SYMPTOM 5764 5773	analítica
+T133	SYMPTOM 2707 2717	eje normal
+T134	SYMPTOM 5528 5538	eje normal
+T135	SYMPTOM 6868 6897	deterioro de la función renal
+T136	SYMPTOM 6538 6556	signos congestivos
+T137	SYMPTOM 169 189	sintomas congestivos
+T138	SYMPTOM 2919 2942	redistribución vascular
+T139	SYMPTOM 5690 5713	redistribución vascular
+T140	SYMPTOM 6842 6862	iones están en rango
+T141	SYMPTOM 7854 7865	FC elevadas
+T142	MEDICATION 654 662	apixabán
+T143	MEDICATION 1119 1129	furosemida
+T144	MEDICATION 1143 1151	apixabán
+T145	MEDICATION 1166 1175	nebivolol
+T146	MEDICATION 1190 1205	espironolactona
+T147	MEDICATION 1219 1230	dutasterida
+T148	MEDICATION 1245 1263	carbidopa/levodopa
+T149	MEDICATION 1281 1291	alopurinol
+T150	MEDICATION 1306 1317	pantoprazol
+T151	MEDICATION 1330 1349	brimonidina+timolol
+T152	MEDICATION 1702 1712	furosemida
+T153	MEDICATION 5434 5441	tiazida
+T154	MEDICATION 7023 7047	suero salino fisiológico
+T155	MEDICATION 7237 7246	nebivolol
+T156	MEDICATION 7275 7294	brimonidina/timolol
+T157	MEDICATION 7424 7442	carbidopa/levodopa
+T158	MEDICATION 7522 7540	carbidopa/levodopa
+T159	MEDICATION 7892 7901	nebivolol
+T160	MEDICATION 8163 8181	carbidopa/levodopa
+T161	MEDICATION 8408 8426	carbidopa/levodopa
+#1	AnnotatorNotes T33	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#2	AnnotatorNotes T34	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#3	AnnotatorNotes T36	 Fibrilación Auricular
+#4	AnnotatorNotes T37	 Fibrilación Auricular
+#5	AnnotatorNotes T38	 Fibrilación Auricular

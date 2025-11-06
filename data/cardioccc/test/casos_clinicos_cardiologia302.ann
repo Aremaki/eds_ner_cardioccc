@@ -1,0 +1,150 @@
+T1	ENFERMEDAD 2770 2781	ritmo nodal
+T2	ENFERMEDAD 5295 5306	ritmo nodal
+T3	ENFERMEDAD 82 113	reacción adversa de medicamento
+T4	ENFERMEDAD 159 169	tabaquismo
+T5	ENFERMEDAD 185 195	dislipemia
+T6	ENFERMEDAD 197 221	Incidentaloma suprarenal
+T7	ENFERMEDAD 355 377	síndrome de tako-tsubo
+T8	ENFERMEDAD 835 857	síndrome de tako-tsubo
+T9	ENFERMEDAD 1235 1291	infarto agudo de miocardio sin elevación del segmento ST
+T10	ENFERMEDAD 1474 1536	fístulas del árbol coronario izquierdo al ventrículo izquierdo
+T11	ENFERMEDAD 1619 1633	isquemia aguda
+T12	ENFERMEDAD 1635 1646	miocarditis
+T13	ENFERMEDAD 3973 3992	disfunción valvular
+T14	ENFERMEDAD 4095 4120	insuficiencia tricuspídea
+T15	ENFERMEDAD 4122 4124	IT
+T16	ENFERMEDAD 4142 4163	hipertensión pulmonar
+T17	ENFERMEDAD 4177 4196	derrame pericárdico
+T18	ENFERMEDAD 4607 4613	angina
+T19	ENFERMEDAD 4704 4713	arritmias
+T20	ENFERMEDAD 4920 4944	Fístulas coronarias a VI
+T21	ENFERMEDAD 5223 5234	vasoespasmo
+T22	ENFERMEDAD 5319 5373	bloqueo auriculoventricular (BAV) completo transitorio
+T23	ENFERMEDAD 5897 5918	vasoespasmo coronario
+T24	ENFERMEDAD 5966 5987	vasoespasmo coronario
+T25	ENFERMEDAD 6661 6677	hábito tabáquico
+T26	ENFERMEDAD 6886 6927	Síndrome coronario agudo (SCA) recurrente
+T27	ENFERMEDAD 6954 6974	Angina vasoespástica
+T28	ENFERMEDAD 1293 1300	IAMSEST
+T29	ENFERMEDAD 6912 6915	SCA
+T30	ENFERMEDAD 1651 1670	necrosis transmural
+T31	PROCEDIMIENTO 390 408	electrocardiograma
+T32	PROCEDIMIENTO 410 413	ECG
+T33	PROCEDIMIENTO 571 587	ventriculografía
+T34	PROCEDIMIENTO 601 615	ecocardiograma
+T35	PROCEDIMIENTO 924 939	betabloqueantes
+T36	PROCEDIMIENTO 1086 1100	ecocardiograma
+T37	PROCEDIMIENTO 1306 1309	ECG
+T38	PROCEDIMIENTO 1423 1434	Cateterismo
+T39	PROCEDIMIENTO 1558 1587	resonancia magnética cardiaca
+T40	PROCEDIMIENTO 1589 1592	RMC
+T41	PROCEDIMIENTO 2314 2332	EXPLORACIÓN FÍSICA
+T42	PROCEDIMIENTO 2500 2521	Auscultación cardiaca
+T43	PROCEDIMIENTO 2556 2577	Auscultación pulmonar
+T44	PROCEDIMIENTO 2741 2744	ECG
+T45	PROCEDIMIENTO 3267 3276	Hemograma
+T46	PROCEDIMIENTO 3425 3454	Marcadores de daño miocárdico
+T47	PROCEDIMIENTO 3521 3536	Ecocardiografía
+T48	PROCEDIMIENTO 4198 4208	Ergometría
+T49	PROCEDIMIENTO 4213 4237	test de hiperventilación
+T50	PROCEDIMIENTO 4250 4274	test de hiperventilación
+T51	PROCEDIMIENTO 4772 4793	Cateterismo coronario
+T52	PROCEDIMIENTO 5058 5094	Test de vasoespasmo con acetilcolina
+T53	PROCEDIMIENTO 5107 5177	test de acetilcolina con dosis crecientes en arbol coronario izquierdo
+T54	PROCEDIMIENTO 5215 5218	ECG
+T55	PROCEDIMIENTO 5239 5242	ACD
+T56	PROCEDIMIENTO 5466 5469	ECG
+T57	PROCEDIMIENTO 5772 5775	ECG
+T58	PROCEDIMIENTO 5789 5805	coronariografías
+T59	PROCEDIMIENTO 5856 5880	test de hiperventilación
+T60	PROCEDIMIENTO 5958 6004	test de vasoespasmo coronario con acetilcolina
+T61	PROCEDIMIENTO 6144 6177	inyección en la coronaria derecha
+T62	PROCEDIMIENTO 6270 6288	electrocardiograma
+T63	PROCEDIMIENTO 3013 3023	Bioquímica
+T64	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDIMIENTO 3374 3384	Hemostasia
+T66	PROCEDIMIENTO 1019 1023	IECA
+T67	PROCEDIMIENTO 1701 1715	betabloqueante
+T68	PROCEDIMIENTO 4579 4593	betabloqueante
+T69	PROCEDIMIENTO 6332 6346	betabloqueante
+T70	PROCEDIMIENTO 962 1017	inhibidor de la enzima de conversión de la angiotensina
+T71	PROCEDIMIENTO 3002 3011	Analítica
+T72	PROCEDIMIENTO 490 530	se activó inicialmente el código infarto
+T73	PROCEDIMIENTO 5496 5531	nitroglicerina (NTG) intracoronaria
+T74	SINTOMA 252 299	catecolaminas y metanefrinas en orina negativas
+T75	SINTOMA 445 478	elevación del ST en cara inferior
+T76	SINTOMA 629 669	acinesia de todos los segmentos apicales
+T77	SINTOMA 1335 1376	ondas T prominentes en cara inferolateral
+T78	SINTOMA 1919 1942	opresión centrotorácica
+T79	SINTOMA 2015 2033	cortejo vegetativo
+T80	SINTOMA 2046 2064	sudoración profusa
+T81	SINTOMA 2067 2074	náuseas
+T82	SINTOMA 2130 2152	molestias en hemitórax
+T83	SINTOMA 2423 2445	Regular estado general
+T84	SINTOMA 2447 2457	consciente
+T85	SINTOMA 2460 2469	orientada
+T86	SINTOMA 2500 2530	Auscultación cardiaca: rítmica
+T87	SINTOMA 2548 2554	soplos
+T88	SINTOMA 2579 2608	murmullo vesicular conservado
+T89	SINTOMA 2610 2613	MVC
+T90	SINTOMA 2635 2684	Miembros inferiores (MMII): simétricos sin edemas
+T91	SINTOMA 2686 2714	pulsos periféricos palpables
+T92	SINTOMA 2763 2768	dolor
+T93	SINTOMA 2812 2826	onda P sinusal
+T94	SINTOMA 2858 2870	QRS estrecho
+T95	SINTOMA 2872 2887	descenso del ST
+T96	SINTOMA 3538 3666	ventrículo izquierdo (VI) de diámetros normales (DTDVI 46 mm), sin hipertrofia de sus paredes y con función sistólica conservada
+T97	SINTOMA 3693 3738	alteraciones de la contractilidad segmentaria
+T98	SINTOMA 3750 3813	Ventrículo derecho no dilatado con función sistólica conservada
+T99	SINTOMA 3815 3845	Patrón diastólico de VI normal
+T100	SINTOMA 3847 3873	Aurículas de tamaño normal
+T101	SINTOMA 4306 4361	cambios significativos en la repolarización ventricular
+T102	SINTOMA 4617 4643	desniveles del segmento ST
+T103	SINTOMA 5395 5451	alteraciones electrocardiográficas en cara inferolateral
+T104	SINTOMA 6495 6502	cefalea
+T105	SINTOMA 6505 6514	debilidad
+T106	SINTOMA 6857 6871	dolor torácico
+T107	SINTOMA 1266 1291	elevación del segmento ST
+T108	SINTOMA 3875 3906	Raíz aórtica de diámetro normal
+T109	SINTOMA 3994 4048	Válvula mitral con valvas de grosor y movilidad normal
+T110	SINTOMA 6736 6748	asintomática
+T111	SINTOMA 6933 6952	coronarias normales
+T112	SINTOMA 1439 1458	coronarias normales
+T113	SINTOMA 5750 5775	cambios isquémicos en ECG
+T114	SINTOMA 6248 6288	cambios isquémicos en electrocardiograma
+T115	SINTOMA 2471 2483	colaboradora
+T116	SINTOMA 5629 5636	estable
+T117	SINTOMA 4843 4918	Arteria descendente anterior (ADA): buen calibre y desarrollo, sin lesiones
+T118	SINTOMA 4946 4998	Arteria circunfleja (ACX): no dominante sin lesiones
+T119	SINTOMA 5000 5056	Arteria coronaria derecha (ACD): dominante, sin lesiones
+T120	SINTOMA 302 317	cortisol normal
+T121	SINTOMA 547 566	coronarias normales
+T122	SINTOMA 674 713	contractilidad conservada a nivel basal
+T123	SINTOMA 800 819	balonización apical
+T124	SINTOMA 1378 1405	Elevación de troponina T Us
+T125	SINTOMA 4715 4740	Buena capacidad funcional
+T126	SINTOMA 4795 4841	tronco coronario izquierdo (TCI): sin lesiones
+T127	SINTOMA 5239 5275	ACD se observa espasmo significativo
+T128	SINTOMA 5152 5201	arbol coronario izquierdo, sin observarse cambios
+T129	SINTOMA 5789 5842	coronariografías relativamente recientes sin lesiones
+T130	SINTOMA 6160 6207	coronaria derecha que desencadena espasmo mayor
+T131	FARMACO 941 951	bisoprolol
+T132	FARMACO 1026 1035	enalapril
+T133	FARMACO 1717 1727	bisoprolol
+T134	FARMACO 1750 1758	aspirina
+T135	FARMACO 1772 1785	atorvastatina
+T136	FARMACO 2195 2205	bisoprolol
+T137	FARMACO 2212 2225	atorvastatina
+T138	FARMACO 2237 2259	ácido acetilsalicílico
+T139	FARMACO 2261 2264	AAS
+T140	FARMACO 2278 2288	hidroferol
+T141	FARMACO 5496 5510	nitroglicerina
+T142	FARMACO 5512 5515	NTG
+T143	FARMACO 6349 6352	AAS
+T144	FARMACO 6450 6453	NTG
+T145	FARMACO 6525 6534	diltiazem
+T146	FARMACO 2978 2989	cafinitrina
+#1	AnnotatorNotes T28	 IAMSEST Infarto agudo de miocardio sin elevación del segmento ST
+#2	AnnotatorNotes T29	 Síndrome coronario agudo
+#3	AnnotatorNotes T142	 nitroglicerina
+#4	AnnotatorNotes T144	 nitroglicerina

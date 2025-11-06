@@ -1,0 +1,93 @@
+T1	DISEASE 163 189	parada cardiorrespiratoria
+T2	DISEASE 234 255	Hipertensión arterial
+T3	DISEASE 292 316	Diabetes mellitus tipo 2
+T4	DISEASE 348 361	Hiperuricemia
+T5	DISEASE 385 400	artritis gotosa
+T6	DISEASE 2510 2523	valvulopatías
+T7	DISEASE 2802 2823	sangrado intracraneal
+T8	DISEASE 2891 2932	disfunción ventricular izquierda moderada
+T9	DISEASE 3052 3069	miocarditis aguda
+T10	DISEASE 3303 3323	hipotensión arterial
+T11	DISEASE 3725 3742	status convulsivo
+T12	DISEASE 4123 4148	extrasistolia ventricular
+T13	DISEASE 4153 4162	arritmias
+T14	DISEASE 4467 4478	miocarditis
+T15	DISEASE 4667 4724	muerte súbita secundaria a miocardiopatía por miocarditis
+T16	DISEASE 4778 4797	Neumonía aspirativa
+T17	DISEASE 4799 4838	Miocardiopatía secundaria a miocarditis
+T18	DISEASE 4739 4776	Parada cardiorrespiratoria recuperada
+T19	DISEASE 2280 2325	ventrículo izquierdo ligeramente hipertrófico
+T20	DISEASE 3899 3926	aspiración en la intubación
+T21	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T22	PROCEDURE 742 788	maniobras de reanimación cardiopulmonar básica
+T23	PROCEDURE 1117 1132	sedoanalgesiado
+T24	PROCEDURE 1134 1142	intubado
+T25	PROCEDURE 1157 1177	ventilación mecánica
+T26	PROCEDURE 1180 1198	Exploración física
+T27	PROCEDURE 1963 1979	Tóxicos en orina
+T28	PROCEDURE 2022 2042	Radiografía de tórax
+T29	PROCEDURE 2249 2278	Ecocardiografía transtorácica
+T30	PROCEDURE 2591 2600	TC cráneo
+T31	PROCEDURE 2825 2852	Cardiorresonancia magnética
+T32	PROCEDURE 3115 3188	se canaliza acceso venoso femoral para realización de hipotermia inducida
+T33	PROCEDURE 3422 3432	hipotermia
+T34	PROCEDURE 3473 3498	retirada de la relajación
+T35	PROCEDURE 3687 3690	EEG
+T36	PROCEDURE 3762 3781	terapia antibiótica
+T37	PROCEDURE 3916 3926	intubación
+T38	PROCEDURE 3956 3963	weaning
+T39	PROCEDURE 3973 3983	extubación
+T40	PROCEDURE 3998 4007	TC cráneo
+T41	PROCEDURE 4016 4026	extubación
+T42	PROCEDURE 4178 4208	estudio angiográfico coronario
+T43	PROCEDURE 4349 4363	rehabilitación
+T44	PROCEDURE 4381 4408	cardiorresonancia magnética
+T45	PROCEDURE 4589 4618	se le implanta DAI unicameral
+T46	PROCEDURE 4070 4084	monitorización
+T47	PROCEDURE 3227 3254	Se mantiene sedoanalgesiado
+T48	PROCEDURE 3501 3534	suspensión gradual de la sedación
+T49	PROCEDURE 1622 1631	Analítica
+T50	PROCEDURE 854 878	se detecta mediante DESA
+T51	PROCEDURE 900 928	Se aplican hasta 4 descargas
+T52	PROCEDURE 981 1000	bolos de adrenalina
+T53	PROCEDURE 1040 1048	descarga
+T54	SYMPTOM 573 604	pérdida del nivel de conciencia
+T55	SYMPTOM 687 710	ausencia de respiración
+T56	SYMPTOM 1070 1083	ritmo sinusal
+T57	SYMPTOM 1199 1214	Sedoanalgesiado
+T58	SYMPTOM 1225 1265	Pupilas isocóricas, mióticas y reactivas
+T59	SYMPTOM 1343 1368	Ruidos cardiacos rítmicos
+T60	SYMPTOM 1370 1383	taquicárdicos
+T61	SYMPTOM 1388 1394	soplos
+T62	SYMPTOM 1396 1440	Murmullo vesicular conservado bilateralmente
+T63	SYMPTOM 1442 1484	Abdomen ligeramente distendido y timpánico
+T64	SYMPTOM 1486 1515	Ruidos intestinales presentes
+T65	SYMPTOM 1517 1547	Miembros inferiores sin edemas
+T66	SYMPTOM 1554 1595	pulsos bilaterales presentes y simétricos
+T67	SYMPTOM 2051 2084	aumento del índice cardiotorácico
+T68	SYMPTOM 2378 2440	Función sistólica ventricular izquierda moderadamente reducida
+T69	SYMPTOM 2525 2589	Ventrículo derecho de tamaño normal con función sistólica normal
+T70	SYMPTOM 2674 2723	Sistema ventricular de tamaño y morfología normal
+T71	SYMPTOM 2854 2886	ventrículo izquierdo no dilatado
+T72	SYMPTOM 3286 3297	bradicardia
+T73	SYMPTOM 3303 3323	hipotensión arterial
+T74	SYMPTOM 3567 3588	movimientos anormales
+T75	SYMPTOM 3595 3604	tiritonas
+T76	SYMPTOM 3623 3648	aumento de la temperatura
+T77	SYMPTOM 4364 4376	asintomático
+T78	SYMPTOM 4484 4551	función ventricular izquierda se encontraba moderadamente deprimida
+T79	SYMPTOM 2280 2376	ventrículo izquierdo ligeramente hipertrófico con alteraciones segmentarias de la contractilidad
+T80	SYMPTOM 1974 2020	orina: cocaína, anfetaminas, cannabis negativo
+T81	SYMPTOM 2442 2488	Relajación prolongada del ventrículo izquierdo
+T82	SYMPTOM 4416 4451	captación parcheada intramiocárdica
+T83	SYMPTOM 4221 4259	arterias coronarias libres de lesiones
+T84	SYMPTOM 3826 3842	infiltrado basal
+T85	SYMPTOM 2102 2113	infiltrados
+T86	SYMPTOM 2934 2966	Realce intramiocárdico parcheado
+T87	MEDICATION 275 284	enalapril
+T88	MEDICATION 336 346	metformina
+T89	MEDICATION 421 431	alopurinol
+T90	MEDICATION 990 1000	adrenalina
+T91	MEDICATION 1013 1023	amiodarona
+T92	MEDICATION 3783 3794	ceftriaxona
+T93	MEDICATION 3797 3809	clindamicina

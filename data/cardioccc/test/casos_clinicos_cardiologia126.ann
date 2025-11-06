@@ -1,0 +1,95 @@
+T1	ENFERMEDAD 127 150	infiltración miocárdico
+T2	ENFERMEDAD 291 314	alergias medicamentosas
+T3	ENFERMEDAD 357 369	TBC pulmonar
+T4	ENFERMEDAD 379 414	hipoacusia neurosensorial bilateral
+T5	ENFERMEDAD 470 493	hipomagnesemia familiar
+T6	ENFERMEDAD 529 556	insuficiencia renal crónica
+T7	ENFERMEDAD 627 649	necrosis tubular aguda
+T8	ENFERMEDAD 651 671	trombosis venosa ojo
+T9	ENFERMEDAD 683 714	hipertensión arterial sistémica
+T10	ENFERMEDAD 716 749	diabetes mellitus post-trasplante
+T11	ENFERMEDAD 751 774	gastroparesia diabética
+T12	ENFERMEDAD 1130 1153	infiltración miocárdico
+T13	ENFERMEDAD 1280 1302	insuficiencia cardiaca
+T14	ENFERMEDAD 1651 1661	Sd Allport
+T15	ENFERMEDAD 1683 1685	DM
+T16	ENFERMEDAD 1719 1762	miocardiopatía restrictiva por infiltración
+T17	ENFERMEDAD 2101 2118	hipoacusia severa
+T18	ENFERMEDAD 2638 2657	derrame pericárdico
+T19	ENFERMEDAD 2929 2948	enfermedad de Fabry
+T20	ENFERMEDAD 3053 3062	diabético
+T21	ENFERMEDAD 3076 3103	Miocardiopatía infiltrativa
+T22	ENFERMEDAD 3116 3135	enfermedad de Fabry
+T23	ENFERMEDAD 3137 3159	Gastroparesia gástrica
+T24	ENFERMEDAD 4461 4483	insuficiencia cardiaca
+T25	ENFERMEDAD 4537 4576	Miocardiopatía restrictiva infiltrativa
+T26	ENFERMEDAD 4593 4640	hipertrofia concéntrica simétrica de ventrículo
+T27	ENFERMEDAD 4698 4716	déficit enzimático
+T28	ENFERMEDAD 4740 4768	enfermedad de Fabry-Anderson
+T29	ENFERMEDAD 1410 1423	hepatomegalia
+T30	ENFERMEDAD 90 112	HVI concéntrica severa
+T31	ENFERMEDAD 1093 1115	HVI concéntrica severa
+T32	ENFERMEDAD 1687 1689	IC
+T33	ENFERMEDAD 2949 2975	Severa dilatación gástrica
+T34	ENFERMEDAD 3027 3040	gastroparesia
+T35	ENFERMEDAD 2236 2259	Hipertrofia concéntrica
+T36	PROCEDIMIENTO 75 89	ecocardiograma
+T37	PROCEDIMIENTO 225 243	exploración física
+T38	PROCEDIMIENTO 739 749	trasplante
+T39	PROCEDIMIENTO 819 834	colecistectomía
+T40	PROCEDIMIENTO 1078 1092	ecocardiograma
+T41	PROCEDIMIENTO 1192 1210	Exploración física
+T42	PROCEDIMIENTO 1501 1533	RM sin contraste I.V. de Corazón
+T43	PROCEDIMIENTO 1767 1782	ecocardiografía
+T44	PROCEDIMIENTO 4215 4232	Análisis genético
+T45	PROCEDIMIENTO 4110 4140	Análisis bioquímico y genético
+T46	PROCEDIMIENTO 836 852	Trasplante renal
+T47	PROCEDIMIENTO 2691 2718	administración de gadolinio
+T48	PROCEDIMIENTO 1797 1847	secuencias de eco de gradiente en planos 4 cámaras
+T49	PROCEDIMIENTO 776 802	Intervenciones quirúrgicas
+T50	PROCEDIMIENTO 1663 1681	Trasplantado renal
+T51	PROCEDIMIENTO 1944 1971	realce tardío con gadolinio
+T52	PROCEDIMIENTO 460 468	audífono
+T53	PROCEDIMIENTO 1860 1899	secuencias de spin eco potenciada en T2
+T54	PROCEDIMIENTO 1902 1924	triple IR en eje corto
+T55	PROCEDIMIENTO 4142 4186	Actividad enzimática de alfa-galactosidasa A
+T56	SINTOMA 1212 1231	Buen estado general
+T57	SINTOMA 1233 1247	Normohidratado
+T58	SINTOMA 1250 1264	normoperfundio
+T59	SINTOMA 1304 1339	Presiones venosa y central normales
+T60	SINTOMA 1341 1358	Palpación anodina
+T61	SINTOMA 1360 1374	Tonos rítmicos
+T62	SINTOMA 1379 1385	soplos
+T63	SINTOMA 1387 1405	Ventilación normal
+T64	SINTOMA 1427 1433	edemas
+T65	SINTOMA 2595 2624	Regurgitación tricúspide leve
+T66	SINTOMA 4431 4445	dolor torácico
+T67	SINTOMA 4652 4695	mutación del gen de la alfa-galacotsidasa A
+T68	SINTOMA 1434 1464	Pulsos periféricos conservados
+T69	SINTOMA 4234 4333	Mutación en el gen de la alfa-gal-A, en el exon 5, c680a-- -t, cambio de aminoácido, genotipo R227Q
+T70	SINTOMA 4086 4100	Masa TD del VI
+T71	SINTOMA 4379 4386	estable
+T72	SINTOMA 2207 2222	masa miocárdica
+T73	SINTOMA 152 187	FE en límites bajo de la normalidad
+T74	SINTOMA 495 505	talla baja
+T75	SINTOMA 507 526	talla baja familiar
+T76	SINTOMA 1155 1190	FE en límites bajo de la normalidad
+T77	SINTOMA 2120 2181	Ventrículo izquierdo de volúmenes en límites de la normalidad
+T78	SINTOMA 2308 2364	Fracción de eyección en límite inferior de la normalidad
+T79	SINTOMA 2526 2593	Válvulas aórtica, mitral y pulmonar sin alteraciones significativas
+T80	SINTOMA 2478 2524	Aurículas de volúmenes dentro de la normalidad
+T81	SINTOMA 2432 2476	Fracción de eyección dentro de la normalidad
+T82	SINTOMA 2366 2430	Ventrículo derecho de volúmenes normales, hipertrofia de paredes
+T83	SINTOMA 2659 2684	Grosor pericárdico normal
+T84	SINTOMA 2720 2834	realce tardío difuso, a nivel subepicárdico inferior basal, subepicárdico en tercio medio inferior e inferolateral
+T85	SINTOMA 4488 4522	sintomatología disneica o sincopal
+T86	FARMACO 896 906	prednisona
+T87	FARMACO 908 916	advagraf
+T88	FARMACO 918 930	micofenolato
+T89	FARMACO 932 940	losartán
+T90	FARMACO 958 966	insulina
+T91	FARMACO 968 976	magnesio
+T92	FARMACO 978 983	acfol
+T93	FARMACO 985 997	eritromicina
+T94	FARMACO 1000 1010	ranitidina
+#1	AnnotatorNotes T32	 insuficiencia cardíaca

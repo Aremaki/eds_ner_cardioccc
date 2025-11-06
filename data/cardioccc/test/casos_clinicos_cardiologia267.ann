@@ -1,0 +1,113 @@
+T1	ENFERMEDAD 47 68	cardiopatía isquémica
+T2	ENFERMEDAD 71 92	fibrilación auricular
+T3	ENFERMEDAD 200 223	alergias medicamentosas
+T4	ENFERMEDAD 270 291	hipertensión arterial
+T5	ENFERMEDAD 293 303	dislipemia
+T6	ENFERMEDAD 305 314	exfumador
+T7	ENFERMEDAD 461 490	Cardiopatía isquémica crónica
+T8	ENFERMEDAD 503 529	infarto agudo de miocardio
+T9	ENFERMEDAD 539 576	Enfermedad coronaria difusa multivaso
+T10	ENFERMEDAD 801 858	Arteria coronaria derecha ateromatosa con irregularidades
+T11	ENFERMEDAD 945 989	Enfermedad pulmonar obstructiva crónica leve
+T12	ENFERMEDAD 1346 1363	angor de esfuerzo
+T13	ENFERMEDAD 1861 1883	insuficiencia cardiaca
+T14	ENFERMEDAD 2067 2092	trombosis venosa profunda
+T15	ENFERMEDAD 2139 2160	fibrilación auricular
+T16	ENFERMEDAD 2819 2838	derrame pericárdico
+T17	ENFERMEDAD 3511 3532	fibrilación auricular
+T18	ENFERMEDAD 3868 3923	ADA muy calcificada, de escaso calibre con ateromatosis
+T19	ENFERMEDAD 4377 4436	Arteria coronaria derecha hipodesarrollada con ateromatosis
+T20	ENFERMEDAD 5214 5235	fibrilación auricular
+T21	ENFERMEDAD 5396 5402	angina
+T22	ENFERMEDAD 5444 5452	isquemia
+T23	ENFERMEDAD 5708 5729	fibrilación auricular
+T24	ENFERMEDAD 6307 6371	Cardiopatía isquémica crónica con enfermedad coronaria multivaso
+T25	ENFERMEDAD 6374 6391	angor de esfuerzo
+T26	ENFERMEDAD 6524 6545	Fibrilación auricular
+T27	ENFERMEDAD 372 379	Bebedor
+T28	ENFERMEDAD 1914 1931	corazón arrítmico
+T29	ENFERMEDAD 5489 5497	isquemia
+T30	ENFERMEDAD 5334 5353	lesiones coronarias
+T31	ENFERMEDAD 603 657	arteria descendente anterior ateromatosa y calcificada
+T32	ENFERMEDAD 716 757	Arteria circunfleja con enfermedad difusa
+T33	ENFERMEDAD 4065 4154	Arteria circunfleja dominante, de gran calibre y recorrido. Presenta estenosis excéntrica
+T34	PROCEDIMIENTO 111 126	anticoagulación
+T35	PROCEDIMIENTO 578 589	Cateterismo
+T36	PROCEDIMIENTO 1683 1701	Exploración física
+T37	PROCEDIMIENTO 1885 1912	Auscultación cardiopulmonar
+T38	PROCEDIMIENTO 2119 2137	Electrocardiograma
+T39	PROCEDIMIENTO 2236 2256	Radiografía de tórax
+T40	PROCEDIMIENTO 2465 2479	Ecocardiograma
+T41	PROCEDIMIENTO 2872 2964	Ergometría pronóstica, en cinta sin fin, protocolo de Bruce, bajo tratamiento betabloqueante
+T42	PROCEDIMIENTO 3398 3413	betabloqueantes
+T43	PROCEDIMIENTO 3626 3690	Coronariografía diagnóstica y terapéutica: acceso radial derecho
+T44	PROCEDIMIENTO 4445 4513	Intervencionismo coronario percutáneo: sobre ramo marginal de la ACx
+T45	PROCEDIMIENTO 4510 4565	ACx mediante angioplastia simple con balón convencional
+T46	PROCEDIMIENTO 4580 4658	ACx mediante implante de dos stents farmacoactivos previa dilatación con balón
+T47	PROCEDIMIENTO 4979 4989	ergometría
+T48	PROCEDIMIENTO 5049 5076	ecocardiografía posesfuerzo
+T49	PROCEDIMIENTO 5152 5167	coronariografía
+T50	PROCEDIMIENTO 5191 5209	electrocardiograma
+T51	PROCEDIMIENTO 5318 5333	coronariografía
+T52	PROCEDIMIENTO 5466 5509	prueba de detección de isquemia no invasiva
+T53	PROCEDIMIENTO 5522 5603	intervencionismo percutáneo sobre el ramo marginal y sobre la arteria circunfleja
+T54	PROCEDIMIENTO 5691 5706	anticoagulación
+T55	PROCEDIMIENTO 5759 5773	antiagregación
+T56	PROCEDIMIENTO 5775 5802	revascularización coronaria
+T57	PROCEDIMIENTO 6455 6522	Revascularización percutánea de arteria circunfleja y ramo marginal
+T58	PROCEDIMIENTO 163 181	EXPLORACIÓN FÍSICA
+T59	PROCEDIMIENTO 3534 3560	Ecocardiograma posesfuerzo
+T60	PROCEDIMIENTO 2355 2364	Analítica
+T61	PROCEDIMIENTO 5410 5434	tratamiento antianginoso
+T62	PROCEDIMIENTO 994 1020	intervenciones quirúrgicas
+T63	SINTOMA 860 915	Fracción de eyección de ventrículo izquierdo conservada
+T64	SINTOMA 1428 1476	molestia opresiva a nivel de hemitórax izquierdo
+T65	SINTOMA 1608 1622	dolor torácico
+T66	SINTOMA 1702 1721	Buen estado general
+T67	SINTOMA 1723 1733	Consciente
+T68	SINTOMA 1735 1744	orientado
+T69	SINTOMA 1747 1758	colaborador
+T70	SINTOMA 1760 1774	Normocoloreado
+T71	SINTOMA 1937 1943	soplos
+T72	SINTOMA 1945 1974	Murmullo vesicular conservado
+T73	SINTOMA 1979 2011	ruidos patológicos sobreañadidos
+T74	SINTOMA 2013 2043	Miembros inferiores: no edemas
+T75	SINTOMA 2171 2183	QRS estrecho
+T76	SINTOMA 2201 2234	alteraciones de la repolarización
+T77	SINTOMA 2258 2286	índice cardiotorácico normal
+T78	SINTOMA 2332 2353	condensación pulmonar
+T79	SINTOMA 2481 2500	raíz aórtica normal
+T80	SINTOMA 2562 2592	Aurícula izquierda no dilatada
+T81	SINTOMA 2594 2615	Válvula mitral normal
+T82	SINTOMA 2617 2684	Ventrículo izquierdo de tamaño normal, con grosor miocárdico normal
+T83	SINTOMA 2686 2733	Función sistólica global y segmentaria normales
+T84	SINTOMA 2778 2805	Cavidades derechas normales
+T85	SINTOMA 4940 4954	dolor torácico
+T86	SINTOMA 6419 6453	Función sistólica de VI conservada
+T87	SINTOMA 2288 2314	Senos costofrénicos libres
+T88	SINTOMA 2840 2870	Vena cava inferior no dilatada
+T89	SINTOMA 2502 2560	válvula aórtica trivalva con apertura y cierre conservados
+T90	SINTOMA 3608 3624	aquinesia apical
+T91	SINTOMA 3714 3762	Tronco común izquierdo prácticamente inexistente
+T92	SINTOMA 3284 3308	cansancio en las piernas
+T93	SINTOMA 2185 2195	eje normal
+T94	SINTOMA 2735 2776	Llenado ventricular con patrón monofásico
+T95	SINTOMA 3572 3603	hipercontractilidad fisiológica
+T96	SINTOMA 3626 3712	Coronariografía diagnóstica y terapéutica: acceso radial derecho. Dominancia izquierda
+T97	SINTOMA 3778 3860	2 ostium independientes de arteria descendente anterior (ADA) y arteria circunfeja
+T98	SINTOMA 4979 5015	ergometría con positividad eléctrica
+T99	SINTOMA 5020 5076	alteraciones segmentarias en ecocardiografía posesfuerzo
+T100	FARMACO 1042 1064	ácido acetilsalicílico
+T101	FARMACO 1082 1096	nitroglicerina
+T102	FARMACO 1123 1133	carvedilol
+T103	FARMACO 1150 1160	ivabradina
+T104	FARMACO 1176 1187	candesartán
+T105	FARMACO 1203 1216	rosuvastatina
+T106	FARMACO 1233 1242	ezetimiba
+T107	FARMACO 1259 1268	tiotropio
+T108	FARMACO 1271 1281	budesonida
+T109	FARMACO 5971 5982	clopidogrel
+T110	FARMACO 6000 6011	rivaroxabán
+T111	FARMACO 6057 6079	ácido acetilsalicílico
+T112	FARMACO 6101 6112	clopidogrel
+T113	FARMACO 6189 6200	rivaroxabán

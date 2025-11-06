@@ -1,0 +1,70 @@
+T1	ENFERMEDAD 86 96	exfumadora
+T2	ENFERMEDAD 283 300	adenoma folicular
+T3	ENFERMEDAD 329 360	mastopatía fibroquística difusa
+T4	ENFERMEDAD 478 508	neoplasia primaria suprarrenal
+T5	ENFERMEDAD 741 758	carcinoma adrenal
+T6	ENFERMEDAD 794 807	mioma uterino
+T7	ENFERMEDAD 849 866	neoplasia de mama
+T8	ENFERMEDAD 883 902	neoplasia de pulmón
+T9	ENFERMEDAD 919 927	leucemia
+T10	ENFERMEDAD 1150 1179	recidiva de carcinoma adrenal
+T11	ENFERMEDAD 1527 1544	léntigos cutáneos
+T12	ENFERMEDAD 1731 1760	recidiva de carcinoma adrenal
+T13	ENFERMEDAD 1762 1804	Lesión quística de 35 mm en región anexial
+T14	ENFERMEDAD 1814 1848	Hiperplasia nodular focal hepática
+T15	ENFERMEDAD 1850 1890	Lesión pseudonodular yuxtacisural en LSI
+T16	ENFERMEDAD 2215 2221	mixoma
+T17	ENFERMEDAD 2256 2262	lipoma
+T18	ENFERMEDAD 2363 2376	valvulopatías
+T19	ENFERMEDAD 2802 2808	mixoma
+T20	ENFERMEDAD 3213 3219	mixoma
+T21	ENFERMEDAD 3277 3283	mixoma
+T22	ENFERMEDAD 3298 3313	Mixoma cardiaco
+T23	ENFERMEDAD 3315 3345	Síndrome de neoplasia múltiple
+T24	ENFERMEDAD 3347 3365	síndrome de Carney
+T25	ENFERMEDAD 233 248	nódulo tiroideo
+T26	PROCEDIMIENTO 203 228	hemitiroidectomía derecha
+T27	PROCEDIMIENTO 512 515	TAC
+T28	PROCEDIMIENTO 565 602	adrenalectomía suprarrenal unilateral
+T29	PROCEDIMIENTO 604 625	nefrectomía izquierda
+T30	PROCEDIMIENTO 627 640	esplenectomía
+T31	PROCEDIMIENTO 643 683	linfadenectomía de ganglios paraaórticos
+T32	PROCEDIMIENTO 688 713	estudio anatomopatológico
+T33	PROCEDIMIENTO 951 973	anticonceptivos orales
+T34	PROCEDIMIENTO 1091 1094	TAC
+T35	PROCEDIMIENTO 1473 1491	EXPLORACIÓN FÍSICA
+T36	PROCEDIMIENTO 1566 1593	Auscultación cardiopulmonar
+T37	PROCEDIMIENTO 1659 1686	TAC toraco-abdomino-pélvico
+T38	PROCEDIMIENTO 1965 1983	ELECTROCARDIOGRAMA
+T39	PROCEDIMIENTO 1985 1988	ECG
+T40	PROCEDIMIENTO 2054 2082	ECOCARDIOGRAMA TRANSTORÁCICO
+T41	PROCEDIMIENTO 2463 2474	RM CARDIACA
+T42	PROCEDIMIENTO 2908 2928	resección de la masa
+T43	PROCEDIMIENTO 2960 3003	cierre del defecto con parche de pericardio
+T44	PROCEDIMIENTO 3071 3099	ecocardiograma transtorácico
+T45	PROCEDIMIENTO 3224 3249	estudio anatomopatológico
+T46	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDIMIENTO 250 279	Diagnóstico anatomopatológico
+T48	PROCEDIMIENTO 3055 3062	cirugía
+T49	SINTOMA 394 414	distensión abdominal
+T50	SINTOMA 434 454	masa retroperitoneal
+T51	SINTOMA 1210 1236	masa en aurícula izquierda
+T52	SINTOMA 1366 1378	astenia leve
+T53	SINTOMA 1381 1398	ganancia ponderal
+T54	SINTOMA 1566 1600	Auscultación cardiopulmonar normal
+T55	SINTOMA 1892 1918	Masa en aurícula izquierda
+T56	SINTOMA 1991 2004	ritmo sinusal
+T57	SINTOMA 2019 2052	alteraciones de la repolarización
+T58	SINTOMA 2101 2127	masa en aurícula izquierda
+T59	SINTOMA 2265 2324	Ventrículo izquierdo (VI) de tamaño normal, no hipertrófico
+T60	SINTOMA 2329 2357	función sistólica conservada
+T61	SINTOMA 2393 2428	Ventrículo derecho (VD) no dilatado
+T62	SINTOMA 2433 2461	función sistólica conservada
+T63	SINTOMA 2810 2836	Cavidades de tamaño normal
+T64	SINTOMA 2839 2871	función biventricular conservada
+T65	SINTOMA 3120 3152	función biventricular conservada
+T66	SINTOMA 1305 1356	asintomática desde el punto de vista cardiovascular
+T67	SINTOMA 2476 2542	masa ovalada, bien delimitada que depende del septo interauricular
+T68	SINTOMA 3155 3197	septo interauricular sin flujo a su través
+T69	FARMACO 975 987	levotiroxina
+T70	FARMACO 989 1003	hidrocortisona

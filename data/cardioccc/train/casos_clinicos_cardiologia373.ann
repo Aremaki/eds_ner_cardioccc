@@ -1,0 +1,97 @@
+T1	DISEASE 94 117	Alergia a la penicilina
+T2	DISEASE 161 182	hipertensión arterial
+T3	DISEASE 184 187	HTA
+T4	DISEASE 190 219	diabetes mellitus (DM) tipo 2
+T5	DISEASE 209 211	DM
+T6	DISEASE 221 231	Dislipemia
+T7	DISEASE 233 241	Obesidad
+T8	DISEASE 243 260	Neoplasia de mama
+T9	DISEASE 841 869	angor de esfuerzo progresivo
+T10	DISEASE 1168 1191	isquemia inducible leve
+T11	DISEASE 1668 1716	bloqueo auriculoventocular (BAV) de primer grado
+T12	DISEASE 1718 1769	bloqueo incompleto de rama izquierda del haz de His
+T13	DISEASE 2303 2339	ateromatosis calcificada de la aorta
+T14	DISEASE 2341 2354	Cardiomegalia
+T15	DISEASE 2468 2487	Espondilosis dorsal
+T16	DISEASE 2567 2615	Hipertrofia ventricular izquierda (HVI) moderada
+T17	DISEASE 2602 2605	HVI
+T18	DISEASE 3267 3323	Vávula aórtica (VAo): trivalva, leve esclerosis de velos
+T19	DISEASE 3439 3464	Insuficiencia tricuspídea
+T20	DISEASE 3664 3683	derrame pericárdico
+T21	DISEASE 4231 4240	arritmias
+T22	DISEASE 4452 4475	isquemia inducible leve
+T23	DISEASE 4638 4713	fístulas coronarias a VI desde todos los territorios coronarios principales
+T24	DISEASE 5175 5207	fístulas conorario-ventriculares
+T25	DISEASE 5135 5152	Angor de esfuerzo
+T26	DISEASE 3023 3062	Aurícula izquierda ligeramente dilatada
+T27	DISEASE 2907 2928	Disfunción diastólica
+T28	DISEASE 3466 3468	IT
+T29	DISEASE 1696 1699	BAV
+T30	DISEASE 1771 1777	BIRIHH
+T31	DISEASE 3159 3212	Válvula mitral (VM): calcio en anillo posterio medial
+T32	PROCEDURE 307 319	radioterapia
+T33	PROCEDURE 321 334	quimioterapia
+T34	PROCEDURE 337 351	hormonoterapia
+T35	PROCEDURE 478 502	ecocardiograma de estrés
+T36	PROCEDURE 644 664	cateterismo cardiaco
+T37	PROCEDURE 1048 1073	ecocardiografía de estrés
+T38	PROCEDURE 1116 1145	SPECT de reposo y de esfuerzo
+T39	PROCEDURE 1236 1256	cateterismo cardiaco
+T40	PROCEDURE 1293 1311	EXPLORACIÓN FÍSICA
+T41	PROCEDURE 1434 1455	Auscultación cardiaca
+T42	PROCEDURE 1496 1517	Auscultación pulmorar
+T43	PROCEDURE 1639 1642	ECG
+T44	PROCEDURE 1795 1798	ECG
+T45	PROCEDURE 2281 2301	RADIOGRAFÍA DE TÓRAX
+T46	PROCEDURE 2489 2518	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T47	PROCEDURE 2884 2905	maniobras de Valsalva
+T48	PROCEDURE 3735 3776	SPECT de perfusión miocárdica de esfuerzo
+T49	PROCEDURE 3779 3865	SPECT sincronizado de perfusión miocárdica de reposo: radiofármaco: 99mTc-tetrofosmina
+T50	PROCEDURE 3924 3934	Ergometría
+T51	PROCEDURE 4259 4281	SPECT/TC de baja dosis
+T52	PROCEDURE 4477 4527	CORONARIOGRAFÍA: punción de arteria radial derecha
+T53	PROCEDURE 4756 4776	cateterismo cardiaco
+T54	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 2118 2134	Función tiroidea
+T56	PROCEDURE 243 305	Neoplasia de mama derecha en 2004, con intervención quirúrgica
+T57	PROCEDURE 1809 1818	ANALÍTICA
+T58	SYMPTOM 402 457	dolor torácico de esfuerzo de características anginosas
+T59	SYMPTOM 954 967	palpitaciones
+T60	SYMPTOM 972 1001	edematización de extremidades
+T61	SYMPTOM 1313 1331	Eupneica en reposo
+T62	SYMPTOM 1457 1483	ruidos cardiacos rítimicos
+T63	SYMPTOM 1488 1494	soplos
+T64	SYMPTOM 1537 1572	Extremidades inferiores: sin edemas
+T65	SYMPTOM 1574 1612	pulsos distales presentes y simétricos
+T66	SYMPTOM 1644 1657	ritmo sinusal
+T67	SYMPTOM 2356 2396	Engrosamiento hiliar de aspecto vascular
+T68	SYMPTOM 2520 2565	ventrículo izquierdo (VI) de dimensión normal
+T69	SYMPTOM 2638 2669	Función sistólica global normal
+T70	SYMPTOM 3064 3091	Cavidades derechas normales
+T71	SYMPTOM 3365 3437	Raíz aórtica y porción visualizada de aorta ascendente proximal normales
+T72	SYMPTOM 3630 3650	PAPS estimada normal
+T73	SYMPTOM 3689 3710	masas intracavitarias
+T74	SYMPTOM 4140 4154	dolor torácico
+T75	SYMPTOM 4156 4186	Capacidad funcional disminuida
+T76	SYMPTOM 4317 4376	hipoperfusión de intensidad leve en segmento inferior basal
+T77	SYMPTOM 943 950	síncope
+T78	SYMPTOM 2675 2719	asimetrías segmentarias de la contractilidad
+T79	SYMPTOM 1519 1535	normoventilación
+T80	SYMPTOM 2958 3021	presión telediastólica del ventrículo izquierdo (PTDVI) elevada
+T81	SYMPTOM 3511 3560	presión arterial pulmonar sistólica (PAPS) normal
+T82	SYMPTOM 3562 3598	Vena cava inferior (VCI) no dilatada
+T83	SYMPTOM 2721 2786	Aceleración de flujo en tracto de salida del ventrículo izquierdo
+T84	SYMPTOM 4532 4550	Dominancia derecha
+T85	SYMPTOM 2413 2447	alteraciones pleuroparenquimatosas
+T86	SYMPTOM 5047 5063	clínica anginosa
+T87	SYMPTOM 3093 3132	ventrículo derecho (VD) normocontráctil
+T88	SYMPTOM 4552 4597	Arterias coronarias epicárdicas sin estenosis
+T89	MEDICATION 692 714	ácido acetilsalicílico
+T90	MEDICATION 716 719	AAS
+T91	MEDICATION 723 737	nitroglicerina
+T92	MEDICATION 4803 4813	bisoprolol
+T93	MEDICATION 4852 4866	nitroglicerina
+T94	MEDICATION 4869 4891	ácido acetilsalicílico
+T95	MEDICATION 4893 4896	AAS
+T96	MEDICATION 107 117	penicilina
+#1	AnnotatorNotes T17	  hipertrofia ventriculo izquierdo

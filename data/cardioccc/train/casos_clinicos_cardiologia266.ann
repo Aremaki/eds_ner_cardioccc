@@ -1,0 +1,134 @@
+T1	DISEASE 375 416	reacciones alérgicas conocidas a fármacos
+T2	DISEASE 548 567	hipercolesterolemia
+T3	DISEASE 600 621	cardiopatía isquémica
+T4	DISEASE 1410 1501	necrosis crónica de 4 segmentos del territorio perteneciente a la arteria coronaria derecha
+T5	DISEASE 1826 1848	insuficiencia cardiaca
+T6	DISEASE 1865 1886	embolismos sistémicos
+T7	DISEASE 2972 3015	pseudoaneurisma contenido por el pericardio
+T8	DISEASE 3071 3088	trombosis parcial
+T9	DISEASE 3130 3146	edema miocárdico
+T10	DISEASE 3479 3610	necrosis transmural en segmento medio de cara inferior y subendocárdica en segmentos basales inferoseptal, inferior e inferolateral
+T11	DISEASE 3624 3665	necrosis crónica de 4 segmentos de la ACD
+T12	DISEASE 3968 3983	derrame pleural
+T13	DISEASE 5176 5195	derrame pericárdico
+T14	DISEASE 5602 5678	Arteria coronaria derecha (ACD) dominante, con oclusión total crónica ostial
+T15	DISEASE 5912 5945	enfermedad coronaria de dos vasos
+T16	DISEASE 6417 6436	derrame pericárdico
+T17	DISEASE 6713 6746	enfermedad coronaria de dos vasos
+T18	DISEASE 6919 6973	pseudoaneurisma ventricular izquierdo en cara inferior
+T19	DISEASE 7283 7298	pseudoaneurisma
+T20	DISEASE 8246 8274	Infarto de miocardio silente
+T21	DISEASE 8290 8336	pseudoaneurisma ventricular izquierdo inferior
+T22	DISEASE 8338 8414	Enfermedad arterial coronaria de 2 vasos (ADA proximal y media y ACD ostial)
+T23	DISEASE 8416 8457	Disfunción ventricular izquierda moderada
+T24	DISEASE 8484 8493	aneurisma
+T25	DISEASE 8531 8550	Hipercolesterolemia
+T26	DISEASE 8552 8562	Tabaquismo
+T27	DISEASE 4914 4952	Aurícula izquierda gravemente dilatada
+T28	DISEASE 418 433	Hábitos tóxicos
+T29	DISEASE 7988 8018	complicaciones postquirúrgicas
+T30	DISEASE 435 442	fumador
+T31	DISEASE 3667 3714	pseudoaneurisma en cara inferior segmento medio
+T32	DISEASE 3942 3964	consolidación alveolar
+T33	DISEASE 5295 5370	Arteria descendente anterior (ADA) larga, de buen calibre, con lesión grave
+T34	DISEASE 1507 1542	pseudoaneurisma en la cara inferior
+T35	DISEASE 4954 5010	Válvula mitral con buena apertura y mínima regurgitación
+T36	DISEASE 6766 6794	lesión grave en ADA proximal
+T37	DISEASE 6832 6865	oclusión crónica ostial de la ACD
+T38	DISEASE 2912 2959	segmento medio inferior, con rotura de la pared
+T39	DISEASE 4682 4705	pseudoaneurisma sacular
+T40	DISEASE 5950 5969	lesión grave en ADA
+T41	DISEASE 6003 6039	oclusión total crónica de ACD ostial
+T42	DISEASE 6237 6264	cavidad pseudoaneurismática
+T43	DISEASE 7053 7073	contenido trombótico
+T44	DISEASE 7945 7972	cavidad pseudoaneurismática
+T45	PROCEDURE 166 195	resonancia magnética cardiaca
+T46	PROCEDURE 197 200	RMC
+T47	PROCEDURE 267 285	electrocardiograma
+T48	PROCEDURE 287 290	ECG
+T49	PROCEDURE 656 694	funduplicatura de Nissen laparoscópica
+T50	PROCEDURE 991 1006	examen de salud
+T51	PROCEDURE 1058 1061	ECG
+T52	PROCEDURE 1105 1129	estudio ecocardiográfico
+T53	PROCEDURE 1365 1385	resonancia magnética
+T54	PROCEDURE 1387 1390	RMC
+T55	PROCEDURE 1688 1697	anamnesis
+T56	PROCEDURE 1913 1931	Exploración física
+T57	PROCEDURE 2242 2263	Auscultación cardiaca
+T58	PROCEDURE 2304 2325	Auscultación pulmonar
+T59	PROCEDURE 2559 2562	ECG
+T60	PROCEDURE 2676 2679	RMC
+T61	PROCEDURE 3857 3877	Radiografía de tórax
+T62	PROCEDURE 4367 4396	Ecocardiografía transtorácica
+T63	PROCEDURE 5198 5219	Cateterismo coronario
+T64	PROCEDURE 5467 5495	revascularización percutánea
+T65	PROCEDURE 5868 5896	revascularización percutánea
+T66	PROCEDURE 6041 6070	Ecocardiografía transtorácica
+T67	PROCEDURE 6576 6605	ecocardiografía transtorácica
+T68	PROCEDURE 6651 6654	RMC
+T69	PROCEDURE 6675 6696	cateterismo coronario
+T70	PROCEDURE 7406 7440	resección de la zona aneurismática
+T71	PROCEDURE 7443 7512	reconstrucción de la pared inferior con parche de pericardio autólogo
+T72	PROCEDURE 7544 7680	doble derivación aortocoronaria a ADA media con arteria mamaria izquierda y a primera diagonal con safena, ambas de tipo término-lateral
+T73	PROCEDURE 7769 7779	extubación
+T74	PROCEDURE 7873 7902	ecocardiografía transtorácica
+T75	PROCEDURE 8215 8231	cirugía cardiaca
+T76	PROCEDURE 8470 8493	resección del aneurisma
+T77	PROCEDURE 8496 8529	revascularización coronaria de DA
+T78	PROCEDURE 339 357	EXPLORACIÓN FÍSICA
+T79	PROCEDURE 3364 3398	Se administra gadolinio endovenoso
+T80	PROCEDURE 3985 3994	Analítica
+T81	PROCEDURE 7844 7856	intervención
+T82	PROCEDURE 6878 6901	intervención quirúrgica
+T83	PROCEDURE 7348 7373	derivación aortocoronaria
+T84	SYMPTOM 1075 1099	ondas Q en cara inferior
+T85	SYMPTOM 1177 1247	alteraciones de la contractilidad en cara inferior a nivel medio-basal
+T86	SYMPTOM 1762 1776	dolor torácico
+T87	SYMPTOM 1932 1951	Buen estado general
+T88	SYMPTOM 1953 1967	normohidratado
+T89	SYMPTOM 1969 1983	normocoloreado
+T90	SYMPTOM 1985 2003	Eupneico en reposo
+T91	SYMPTOM 2038 2048	Consciente
+T92	SYMPTOM 2050 2059	orientado
+T93	SYMPTOM 2079 2100	focalidad neurológica
+T94	SYMPTOM 2242 2281	Auscultación cardiaca: ruidos regulares
+T95	SYMPTOM 2287 2293	soplos
+T96	SYMPTOM 2327 2356	murmullo vesicular conservado
+T97	SYMPTOM 2362 2372	estertores
+T98	SYMPTOM 2378 2414	edematización en miembros inferiores
+T99	SYMPTOM 2416 2453	Pulsos radiales y femorales presentes
+T100	SYMPTOM 2564 2577	ritmo sinusal
+T101	SYMPTOM 2599 2611	QRS estrecho
+T102	SYMPTOM 2628 2651	onda Q en II, III y aVF
+T103	SYMPTOM 2653 2674	onda T aplanada V4-V6
+T104	SYMPTOM 2681 2723	volúmenes de ventrículo izquierdo normales
+T105	SYMPTOM 2728 2769	función sistólica moderadamente deprimida
+T106	SYMPTOM 2782 2853	Hipocinesia de segmentos basales inferoseptal, inferior e inferolateral
+T107	SYMPTOM 2855 2865	Discinesia
+T108	SYMPTOM 3148 3188	Volúmenes de ventrículo derecho normales
+T109	SYMPTOM 3194 3218	función sistólica normal
+T110	SYMPTOM 3231 3257	Aurículas de tamaño normal
+T111	SYMPTOM 3879 3916	silueta mediastínica de tamaño normal
+T112	SYMPTOM 5106 5136	Ventrículo derecho no dilatado
+T113	SYMPTOM 6283 6354	Función sistólica global de ventrículo izquierdo moderadamente reducida
+T114	SYMPTOM 267 302	electrocardiograma (ECG) patológico
+T115	SYMPTOM 1256 1325	fracción de eyección del ventrículo izquierdo moderadamente deprimida
+T116	SYMPTOM 3717 3780	función sistólica ventricular izquierda moderadamente deprimida
+T117	SYMPTOM 4398 4461	ventrículo izquierdo no dilatado, con ligera hipertrofia septal
+T118	SYMPTOM 4827 4881	Función sistólica global de VI moderadamente deprimida
+T119	SYMPTOM 6096 6129	ventrículo izquierdo con acinesia
+T120	SYMPTOM 2008 2036	uso de musculatura accesoria
+T121	SYMPTOM 3291 3362	Hipoperfusión de primer paso en reposo en los segmentos disfuncionantes
+T122	SYMPTOM 2868 2935	adelgazamiento grave (< 2 mm) localizado en segmento medio inferior
+T123	SYMPTOM 2062 2073	colaborador
+T124	SYMPTOM 8078 8112	estabilidad clínica y hemodinámica
+T125	SYMPTOM 945 984	trazado electrocardiográfico patológico
+T126	SYMPTOM 3259 3289	Grandes vasos de tamaño normal
+T127	SYMPTOM 4608 4651	defecto en la pared inferior segmento medio
+T128	SYMPTOM 4464 4519	acinesia de pared inferior e inferoseptal basal y medio
+T129	SYMPTOM 4476 4537	pared inferior e inferoseptal basal y medio (pared adelgazada
+T130	SYMPTOM 5021 5076	Válvula aórtica con gradientes transvalvulares normales
+T131	SYMPTOM 5248 5293	tronco coronario izquierdo (TCI) sin lesiones
+T132	SYMPTOM 5507 5600	Arteria circunfleja (ACx) no dominante, presenta irregularidades parietales no significativas
+T133	MEDICATION 726 735	omeprazol
+T134	MEDICATION 747 760	atorvastatina

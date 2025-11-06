@@ -1,0 +1,55 @@
+T1	ENFERMEDAD 82 103	hipertensión arterial
+T2	ENFERMEDAD 105 129	diabetes mellitus tipo 2
+T3	ENFERMEDAD 172 184	dislipidemia
+T4	ENFERMEDAD 187 195	obesidad
+T5	ENFERMEDAD 198 202	EPOC
+T6	ENFERMEDAD 204 228	enfermedad renal crónica
+T7	ENFERMEDAD 264 296	fibrilación auricular permanente
+T8	ENFERMEDAD 347 365	shock cardiogénico
+T9	ENFERMEDAD 465 488	miocardiopatía dilatada
+T10	ENFERMEDAD 788 812	estenosis aórtica severa
+T11	ENFERMEDAD 815 878	doble lesión mitral con insuficiencia moderada y estenosis leve
+T12	ENFERMEDAD 1413 1433	insuficiencia mitral
+T13	ENFERMEDAD 1763 1796	taquicardia ventricular polimorfa
+T14	ENFERMEDAD 2286 2309	endocarditis infecciosa
+T15	ENFERMEDAD 2743 2920	válvula mitral presentaba alteraciones degenerativas extensas, con calcificación severa de los velos y del aparato subvalvular, y un jet de insuficiencia central de grado severo
+T16	ENFERMEDAD 3156 3216	vegetaciones en la cara ventricular y aórtica de la prótesis
+T17	ENFERMEDAD 923 949	calcificación de los velos
+T18	ENFERMEDAD 521 573	disfunción sistólica severa del ventrículo izquierdo
+T19	ENFERMEDAD 2388 2398	vegetación
+T20	PROCEDIMIENTO 149 170	antidiabéticos orales
+T21	PROCEDIMIENTO 383 401	soporte vasoactivo
+T22	PROCEDIMIENTO 404 436	ventilación mecánica no invasiva
+T23	PROCEDIMIENTO 749 763	ecocardiograma
+T24	PROCEDIMIENTO 1049 1132	implante de una prótesis aórtica transcatéter Edwards SapienTM por vía transfemoral
+T25	PROCEDIMIENTO 1207 1250	tratamiento percutáneo en la válvula mitral
+T26	PROCEDIMIENTO 1285 1299	ecocardiograma
+T27	PROCEDIMIENTO 1462 1476	ecocardiograma
+T28	PROCEDIMIENTO 2254 2270	implante de TAVI
+T29	PROCEDIMIENTO 2326 2355	ecocardiograma transesofágico
+T30	PROCEDIMIENTO 2360 2374	ecocardiograma
+T31	PROCEDIMIENTO 2933 2956	tratamiento antibiótico
+T32	PROCEDIMIENTO 3218 3237	Se explantó la TAVI
+T33	PROCEDIMIENTO 3257 3328	recambio valvular aórtico por una prótesis aórtica biológica Magna Ease
+T34	PROCEDIMIENTO 3362 3423	sustitución valvular mitral por prótesis biológica Magna Ease
+T35	PROCEDIMIENTO 3570 3603	cultivos realizados a la prótesis
+T36	PROCEDIMIENTO 3815 3838	tratamiento antibiótico
+T37	PROCEDIMIENTO 650 710	implante de desfibrilador automático implantable monocameral
+T38	PROCEDIMIENTO 2209 2233	reactantes de fase aguda
+T39	PROCEDIMIENTO 2056 2082	se extrajeron hemocultivos
+T40	PROCEDIMIENTO 1973 2014	Se aumentó la estimulación del marcapasos
+T41	PROCEDIMIENTO 3438 3509	prótesis explantada se analizó a nivel microscópico con tinción de Gram
+T42	PROCEDIMIENTO 3126 3133	cirugía
+T43	PROCEDIMIENTO 3095 3118	intervención quirúrgica
+T44	PROCEDIMIENTO 2594 2610	stent de la TAVI
+T45	SINTOMA 1661 1667	fiebre
+T46	SINTOMA 1670 1681	escalofríos
+T47	SINTOMA 1907 1918	bradicardia
+T48	SINTOMA 2070 2139	hemocultivos que resultaron positivos para Staphylococcus epidermidis
+T49	SINTOMA 2183 2189	fiebre
+T50	SINTOMA 2192 2233	elevación de los reactantes de fase aguda
+T51	SINTOMA 3570 3652	cultivos realizados a la prótesis fueron positivos para Staphylococcus epidermidis
+T52	SINTOMA 1327 1360	prótesis aórtica normofuncionante
+T53	SINTOMA 3494 3562	tinción de Gram, donde se observaron cocos gram positivos en racimos
+T54	FARMACO 2961 2972	daptomicina
+T55	FARMACO 2975 2986	fosfocimina

@@ -1,0 +1,143 @@
+# Some variables are grouped here for conviency but we could also
+# put their values directly in the config in place of their reference
+vars:
+  train: './data/cardioccc/train'
+  dev: './data/cardioccc/test'
+  base_model: './models/bsc-bio-ehr-es'
+
+# 🤖 PIPELINE DEFINITION
+nlp:
+  '@core': pipeline  
+  lang: eds  # Word-level tokenization: use the "eds" tokenizer
+
+  # Our pipeline will contain a single NER pipe
+  # The NER pipe will be a CRF model
+  components:
+    normalizer:
+      '@factory': eds.normalizer
+    sentencizer:
+      '@factory': eds.sentencizer
+    ner:
+      '@factory': eds.ner_crf
+      mode: 'joint'
+      target_span_getter: 'gold_spans'
+      # Set spans as both to ents and in separate `ent.label` groups
+      span_setter: [ "ents", "*" ]
+      infer_span_setter: true
+
+      # The CRF model will use a CNN to re-contextualize embeddings
+      embedding:
+        '@factory': eds.text_cnn
+        kernel_sizes: [ 3 ]
+
+        # The base embeddings will be computed by a transformer
+        embedding:
+          '@factory': eds.transformer
+          model: ${ vars.base_model }
+          window: 128
+          stride: 96
+
+# 📈 SCORERS
+scorer:
+  ner:
+    '@metrics': eds.ner_exact
+    span_getter: ${ nlp.components.ner.target_span_getter }
+
+# 🎛️ OPTIMIZER
+optimizer:
+  "@core": optimizer !draft  
+  optim: adamw
+  groups:
+    # Assign parameters starting with transformer (ie the parameters of the transformer component)
+    # to a first group
+    - selector: "ner[.]embedding[.]embedding"
+      lr:
+        '@schedules': linear
+        "warmup_rate": 0.1
+        "start_value": 0
+        "max_value": 5e-5
+    # And every other parameters to the second group
+    - selector: ".*"
+      lr:
+        '@schedules': linear
+        "warmup_rate": 0.1
+        "start_value": 3e-4
+        "max_value": 3e-4
+  total_steps: ${ train.max_steps }
+
+# 📚 DATA
+train_data:
+  - data:
+      # In what kind of files (ie. their extensions) is our
+      # training data stored
+      '@readers': standoff
+      path: ${ vars.train }
+      converter:
+        # What schema is used in the data files
+        - '@factory': eds.standoff_dict2doc
+          span_setter: 'gold_spans'
+        # How to preprocess each doc for training
+        - '@factory': eds.split
+          nlp: null
+          max_length: 2000
+          regex: '\n\n+'
+    shuffle: dataset
+    batch_size: 4096 tokens  # 32 * 128 tokens
+    pipe_names: [ "ner" ]
+
+val_data:
+  '@readers': standoff
+  path: ${ vars.dev }
+  # What schema is used in the data files
+  converter:
+    - '@factory': eds.standoff_dict2doc
+      span_setter: 'gold_spans'
+
+loggers:
+    - '@loggers': csv !draft
+    - '@loggers': rich
+      fields:
+          step: {}
+          (.*)loss:
+              goal: lower_is_better
+              format: "{:.2e}"
+              goal_wait: 2
+          lr:
+              format: "{:.2e}"
+          speed/(.*):
+              format: "{:.2f}"
+              name: \1
+          "(.*?)/micro/(f|r|p)$":
+              goal: higher_is_better
+              format: "{:.2%}"
+              goal_wait: 1
+              name: \1_\2
+          grad_norm/__all__:
+              format: "{:.2e}"
+              name: grad_norm
+    # - wandb  # enable if you can and want to track with wandb
+
+# 🚀 TRAIN SCRIPT OPTIONS
+# -> python -m edsnlp.train --config configs/config.yml
+train:
+  nlp: ${ nlp }
+  seed: 42
+  output_dir: './models/ner_cardioccc_run1'
+  train_data: ${ train_data }
+  val_data: ${ val_data }
+  max_steps: 2000
+  validation_interval: ${ train.max_steps//10 }
+  grad_max_norm: 1.0
+  scorer: ${ scorer }
+  optimizer: ${ optimizer }
+  logger: ${ loggers }
+  # Do preprocessing in parallel on 1 worker
+  num_workers: 1
+  # Enable on Mac OS X or if you don't want to use available GPUs
+  # cpu: true
+
+# 📦 PACKAGE SCRIPT OPTIONS
+# -> python -m edsnlp.package --config configs/config.yml
+package:
+  pipeline: ${ train.output_dir }
+  name: 'my_ner_model'

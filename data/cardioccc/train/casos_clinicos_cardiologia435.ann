@@ -1,0 +1,180 @@
+T1	DISEASE 90 113	alergias medicamentosas
+T2	DISEASE 150 162	extabaquismo
+T3	DISEASE 164 188	diabetes mellitus tipo 2
+T4	DISEASE 190 200	dislipemia
+T5	DISEASE 202 239	síndrome mielodisplásico subtipo CRDM
+T6	DISEASE 241 290	citopenias refractarias con displasia multilineal
+T7	DISEASE 324 345	Cardiopatía isquémica
+T8	DISEASE 375 457	infarto agudo de miocardio con elevación del segmento ST (IAMCEST) posteroinferior
+T9	DISEASE 459 477	Reinfarto inferior
+T10	DISEASE 528 567	accidente cerebrovascular (ACV) lacunar
+T11	DISEASE 606 636	enfermedad coronaria multivaso
+T12	DISEASE 715 738	estenosis aórtica grave
+T13	DISEASE 1717 1753	insuficiencia periprotésica moderada
+T14	DISEASE 1755 1780	Insuficiencia tricuspídea
+T15	DISEASE 1862 1881	derrame pericárdico
+T16	DISEASE 2666 2684	proceso infeccioso
+T17	DISEASE 3941 3956	derrame pleural
+T18	DISEASE 3958 4027	Espondilosis dorsal con calcificación de ligamento vertebral anterior
+T19	DISEASE 4603 4623	insuficiencia mitral
+T20	DISEASE 5407 5440	Hipertensión pulmonar (HTP) grave
+T21	DISEASE 5556 5575	derrame pericárdico
+T22	DISEASE 5641 5701	hipertrofia ventricular izquierda (HVI) concéntrica moderada
+T23	DISEASE 5676 5679	HVI
+T24	DISEASE 5787 5813	Leak periprotésico aórtico
+T25	DISEASE 5831 5840	HTP grave
+T26	DISEASE 6396 6422	leak periprotésico aórtico
+T27	DISEASE 6841 6849	abscesos
+T28	DISEASE 6961 6986	eak periprotésico aórtico
+T29	DISEASE 7004 7016	HVI moderada
+T30	DISEASE 7091 7100	HTP grave
+T31	DISEASE 7251 7271	fugas periprotésicas
+T32	DISEASE 7660 7679	derrame pericárdico
+T33	DISEASE 7744 7767	HVI excéntrica moderada
+T34	DISEASE 7821 7833	HTP moderada
+T35	DISEASE 8234 8253	hepatopatía crónica
+T36	DISEASE 8256 8270	esplenomegalia
+T37	DISEASE 8303 8330	insuficiencia aórtica grave
+T38	DISEASE 8422 8448	leak periprotésico aórtico
+T39	DISEASE 8664 8682	fuga periprotésica
+T40	DISEASE 8724 8749	leak paravalvular aórtico
+T41	DISEASE 9111 9132	regurgitación aórtica
+T42	DISEASE 9151 9169	fuga periprotésica
+T43	DISEASE 9336 9358	insuficiencia cardiaca
+T44	DISEASE 9427 9463	insuficiencia cardiaca descompensada
+T45	DISEASE 9479 9501	infección respiratoria
+T46	DISEASE 9516 9549	Insuficiencia cardiaca congestiva
+T47	DISEASE 9573 9617	Leak periprotésico aórtico con insuficiencia
+T48	DISEASE 9699 9728	Cardiopatía isquémica crónica
+T49	DISEASE 9730 9753	Síndrome mielodispásico
+T50	DISEASE 9755 9761	anemia
+T51	DISEASE 9764 9775	trombopenia
+T52	DISEASE 3439 3444	BRIHH
+T53	DISEASE 1401 1419	Hipertrofia septal
+T54	DISEASE 433 440	IAMCEST
+T55	DISEASE 5776 5778	IM
+T56	DISEASE 5442 5444	IP
+T57	DISEASE 7585 7587	IP
+T58	DISEASE 1782 1784	IT
+T59	DISEASE 5324 5326	IT
+T60	DISEASE 7488 7490	IT
+T61	DISEASE 3763 3783	cardiomegalia global
+T62	DISEASE 4382 4404	dilatación biauricular
+T63	DISEASE 3282 3295	hepatomegalia
+T64	DISEASE 8207 8220	hepatomegalia
+T65	DISEASE 3264 3279	oleada ascítica
+T66	DISEASE 5896 5903	trombos
+T67	DISEASE 5943 5950	trombos
+T68	DISEASE 555 558	ACV
+T69	DISEASE 4070 4127	VI de dimensión normal e hipertrofia concéntrica moderada
+T70	DISEASE 4625 4627	IM
+T71	DISEASE 5335 5368	Vena cava inferior (VCI) dilatada
+T72	DISEASE 7809 7812	IAo
+T73	DISEASE 5430 5433	HTP
+T74	DISEASE 8468 8495	hipertensión pulmonar grave
+T75	PROCEDURE 753 791	revascularización coronaria quirúrgica
+T76	PROCEDURE 794 819	recambio valvular aórtico
+T77	PROCEDURE 857 907	sustitución valvular aórtica por prótesis mecánica
+T78	PROCEDURE 910 1030	triple bypass aortocoronario con revascularización de DA con AMI y de DP y 1a marginal con dos fragmentos de vena safena
+T79	PROCEDURE 1320 1334	ecocardiograma
+T80	PROCEDURE 2710 2728	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 2983 3004	Auscultación cardiaca
+T82	PROCEDURE 3096 3117	Auscultación pulmonar
+T83	PROCEDURE 3399 3402	ECG
+T84	PROCEDURE 3741 3761	RADIOGRAFÍA DE TÓRAX
+T85	PROCEDURE 3823 3841	esternotomía media
+T86	PROCEDURE 4029 4057	ECOCARDIOGRAMA TRANSTORÁCICO
+T87	PROCEDURE 5842 5871	ECOCARDIOGRAMA TRANSESOFÁGICO
+T88	PROCEDURE 7102 7116	ECOCARDIOGRAMA
+T89	PROCEDURE 7981 8033	perfusión endovenosa de diurético de asa e inotropos
+T90	PROCEDURE 8165 8184	ecografía abdominal
+T91	PROCEDURE 8275 8289	ecocardiograma
+T92	PROCEDURE 8356 8359	ETE
+T93	PROCEDURE 8379 8401	tratamiento deplectivo
+T94	PROCEDURE 8640 8682	cierre percutáneo de la fuga periprotésica
+T95	PROCEDURE 8714 8749	cierre de leak paravalvular aórtico
+T96	PROCEDURE 8852 8915	cierre parcial de fuga mediante dispositivo de cierre de ductus
+T97	PROCEDURE 9058 9086	ecocardiograma transtorácico
+T98	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T99	PROCEDURE 311 322	hematología
+T100	PROCEDURE 3508 3517	ANALÍTICA
+T101	PROCEDURE 6923 6944	estudio transtorácico
+T102	SYMPTOM 1225 1244	disnea de esfuerzos
+T103	SYMPTOM 1264 1304	edematización de extremidades inferiores
+T104	SYMPTOM 1357 1399	ventrículo izquierdo (VI) de tamaño normal
+T105	SYMPTOM 1428 1456	función sistólica conservada
+T106	SYMPTOM 2362 2389	disnea de mínimos esfuerzos
+T107	SYMPTOM 2391 2400	bendopnea
+T108	SYMPTOM 2402 2432	aumento de perímetro abdominal
+T109	SYMPTOM 2435 2456	edematización de EEII
+T110	SYMPTOM 2467 2475	ortopnea
+T111	SYMPTOM 2479 2482	DPN
+T112	SYMPTOM 2514 2539	dolor precordial opresivo
+T113	SYMPTOM 2602 2620	cortejo vegetativo
+T114	SYMPTOM 2835 2842	Afebril
+T115	SYMPTOM 2844 2858	Normohidratado
+T116	SYMPTOM 2863 2899	tinte ictérico de piel y conjuntivas
+T117	SYMPTOM 2901 2922	Disnea conversacional
+T118	SYMPTOM 2928 2958	trabajo respiratorio en reposo
+T119	SYMPTOM 2960 2981	Ingurgitación yugular
+T120	SYMPTOM 2983 3013	Auscultación cardiaca: rítmica
+T121	SYMPTOM 3015 3032	ruidos protésicos
+T122	SYMPTOM 3037 3084	soplo diastólico en foco aórtico y paraesternal
+T123	SYMPTOM 3128 3147	hipofonesis bibasal
+T124	SYMPTOM 3153 3164	crepitantes
+T125	SYMPTOM 3208 3252	Abdomen globuloso, con circulación colateral
+T126	SYMPTOM 3311 3372	EEII con edemas con fóvea hasta tercio medio de ambas piernas
+T127	SYMPTOM 3404 3417	ritmo sinusal
+T128	SYMPTOM 4070 4092	VI de dimensión normal
+T129	SYMPTOM 4129 4163	Función sistólica VI global normal
+T130	SYMPTOM 5581 5602	masas intracavitarias
+T131	SYMPTOM 5703 5714	FEVI normal
+T132	SYMPTOM 5745 5774	Patrón diastólico restrictivo
+T133	SYMPTOM 5873 5903	aurícula izquierda sin trombos
+T134	SYMPTOM 5920 5950	Orejuela izquierda sin trombos
+T135	SYMPTOM 7018 7029	FEVI normal
+T136	SYMPTOM 7060 7089	Patrón diastólico restrictivo
+T137	SYMPTOM 7769 7784	FEVI conservada
+T138	SYMPTOM 7890 7914	pérdida de 13 kg de peso
+T139	SYMPTOM 7916 7950	disminución de perímetro abdominal
+T140	SYMPTOM 7969 7975	edemas
+T141	SYMPTOM 8056 8065	ictericia
+T142	SYMPTOM 8975 9000	hemodinámicamente estable
+T143	SYMPTOM 9186 9217	disminución de presión pulmonar
+T144	SYMPTOM 518 525	síncope
+T145	SYMPTOM 4300 4329	Patrón diastólico restrictivo
+T146	SYMPTOM 641 712	función sistólica de ventrículo izquierdo ligeramoderadamente deprimida
+T147	SYMPTOM 1531 1558	aquinesia de pared inferior
+T148	SYMPTOM 1618 1654	Válvula mitral (VM) normofuncionante
+T149	SYMPTOM 4406 4470	Ventrículo derecho (VD) de dimensión y contractilidad conservada
+T150	SYMPTOM 7786 7807	Aquinesia inferobasal
+T151	SYMPTOM 5952 5980	Septo interauricular íntegro
+T152	SYMPTOM 3461 3506	alteraciones secundarias de la repolarización
+T153	SYMPTOM 3917 3937	focos consolidativos
+T154	SYMPTOM 4232 4250	sobrecarga derecha
+T155	SYMPTOM 4355 4373	elevación de PTDVI
+T156	SYMPTOM 8127 8153	elevación de GGT, FA y LDH
+T157	SYMPTOM 3843 3872	Aumento de trama intersticial
+T158	SYMPTOM 5522 5542	Líquido perihepático
+T159	SYMPTOM 8076 8117	cifras elevadas mantenidas de bilirrubina
+T160	MEDICATION 1916 1928	acenocumarol
+T161	MEDICATION 1942 1955	atorvastatina
+T162	MEDICATION 1977 1986	omeprazol
+T163	MEDICATION 2008 2019	glimepirida
+T164	MEDICATION 2040 2064	metformina/vildagliptina
+T165	MEDICATION 2090 2099	ezetimibe
+T166	MEDICATION 2121 2136	sulfato ferroso
+T167	MEDICATION 2158 2168	ivabradina
+T168	MEDICATION 2189 2199	furosemida
+T169	MEDICATION 2221 2236	espironolactona
+#1	AnnotatorNotes T23	 Hipertrofia ventricular izquierda
+#2	AnnotatorNotes T29	 HVI: hipertrofia ventricular izquierda
+#3	AnnotatorNotes T55	 insuficiencia mitral
+#4	AnnotatorNotes T56	 insuficiencia pulmonar
+#5	AnnotatorNotes T57	 insuficiencia pulmonar
+#6	AnnotatorNotes T58	 Insuficiencia tricuspídea
+#7	AnnotatorNotes T59	 Insuficiencia tricuspídea
+#8	AnnotatorNotes T60	 Insuficiencia tricuspídea
+#9	AnnotatorNotes T68	 Accidente cerebrovascular
+#10	AnnotatorNotes T70	 insuficiencia mitral
+#11	AnnotatorNotes T72	 Insuficiencia aortica

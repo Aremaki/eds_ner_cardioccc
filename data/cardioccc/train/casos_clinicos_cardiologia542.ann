@@ -1,0 +1,95 @@
+T1	DISEASE 1087 1114	ruidos cardiacos arrítmicos
+T2	DISEASE 1910 1963	VD levemente dilatado con disfunción ventricular leve
+T3	DISEASE 2235 2258	VI severamente dilatado
+T4	DISEASE 89 98	exfumador
+T5	DISEASE 156 159	HTA
+T6	DISEASE 161 171	dislipemia
+T7	DISEASE 174 187	hiperuricemia
+T8	DISEASE 189 212	ACV de origen isquémico
+T9	DISEASE 322 362	estenosis crítica de la arteria carótida
+T10	DISEASE 396 398	FA
+T11	DISEASE 561 602	hemorragia digestiva tanto alta como baja
+T12	DISEASE 1505 1525	cardiomegalia global
+T13	DISEASE 1582 1597	derrame pleural
+T14	DISEASE 1614 1616	FA
+T15	DISEASE 1687 1690	HVI
+T16	DISEASE 1727 1785	VI dilatado (Dtd 58 mm) con hipertrofia concéntrica ligera
+T17	DISEASE 1788 1829	disfunción ventricular izquierda moderada
+T18	DISEASE 1987 2010	IM moderada bicomisural
+T19	DISEASE 2132 2142	HTP severa
+T20	DISEASE 2154 2173	Derrame pericárdico
+T21	DISEASE 2292 2319	disfunción sistólica severa
+T22	DISEASE 2366 2375	IM severa
+T23	DISEASE 2377 2387	HTP ligera
+T24	DISEASE 2598 2634	insuficiencia cardiaca descompensada
+T25	DISEASE 2896 2919	cardiopatía estructural
+T26	DISEASE 3532 3552	insuficiencia mitral
+T27	DISEASE 4480 4503	cardiopatía estructural
+T28	DISEASE 4653 4694	hemorragia digestiva tanto alta como baja
+T29	DISEASE 4709 4732	Miocardiopatía dilatada
+T30	DISEASE 4737 4761	disfunción biventricular
+T31	DISEASE 4789 4825	Insuficiencia Cardiaca descompensada
+T32	DISEASE 4885 4914	nsuficiencia Mitral funcional
+T33	DISEASE 4922 4932	HTP severa
+T34	DISEASE 1965 1976	AI dilatada
+T35	DISEASE 2112 2123	IT moderada
+T36	DISEASE 2432 2471	Arterias coronarias con calcificaciones
+T37	DISEASE 3764 3766	FA
+T38	DISEASE 4006 4022	IM residual leve
+T39	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDURE 383 389	bypass
+T41	PROCEDURE 486 506	anticoagulación oral
+T42	PROCEDURE 1045 1072	auscultación cardiopulmonar
+T43	PROCEDURE 1390 1412	perfil renal, hepático
+T44	PROCEDURE 1415 1420	iones
+T45	PROCEDURE 1483 1503	Radiografía de tórax
+T46	PROCEDURE 1609 1612	ECG
+T47	PROCEDURE 1722 1725	ETT
+T48	PROCEDURE 2213 2233	Estudio hemodinámico
+T49	PROCEDURE 2558 2568	diuréticos
+T50	PROCEDURE 2761 2801	cateterismo cardiaco izquierdo y derecho
+T51	PROCEDURE 2982 3015	implante de dispositivo MitraClip
+T52	PROCEDURE 3023 3064	cierre concomitante de orejuela izquierda
+T53	PROCEDURE 3409 3446	implantación de dispositivo MitraClip
+T54	PROCEDURE 3611 3677	se implanta dispositivo Watchman para cierre de orejuela izquierda
+T55	PROCEDURE 3810 3833	cardioversión eléctrica
+T56	PROCEDURE 3920 3923	ETE
+T57	PROCEDURE 4339 4359	anticoagulación oral
+T58	PROCEDURE 4969 5008	Cierre percutáneo de orejuela izquierda
+T59	PROCEDURE 4934 4968	Implante de dispositivo MitraClip.
+T60	PROCEDURE 1286 1295	Analítica
+T61	PROCEDURE 3163 3175	intervención
+T62	PROCEDURE 4284 4296	intervención
+T63	PROCEDURE 2068 2110	dilatación del anillo tipo I de Carpentier
+T64	SYMPTOM 753 756	tos
+T65	SYMPTOM 758 783	expectoración blanquecina
+T66	SYMPTOM 786 792	disnea
+T67	SYMPTOM 893 922	edemas en miembros inferiores
+T68	SYMPTOM 1009 1017	Eupneico
+T69	SYMPTOM 1119 1125	soplos
+T70	SYMPTOM 1137 1169	hipoventilación en base pulmonar
+T71	SYMPTOM 1200 1239	edemas con fóvea en miembros inferiores
+T72	SYMPTOM 1537 1560	redistribución vascular
+T73	SYMPTOM 1627 1639	QRS estrecho
+T74	SYMPTOM 1703 1720	sobrecarga del VI
+T75	SYMPTOM 1844 1868	hipocinesia generalizada
+T76	SYMPTOM 1870 1908	Elevación de las presiones de lllenado
+T77	SYMPTOM 2680 2705	hemodinámicamente estable
+T78	SYMPTOM 3321 3346	ortopnea de dos almohadas
+T79	SYMPTOM 3362 3389	disnea paroxística nocturna
+T80	SYMPTOM 3846 3859	ritmo sinusal
+T81	SYMPTOM 1390 1429	perfil renal, hepático e iones normales
+T82	SYMPTOM 2346 2357	hipocinesia
+T83	SYMPTOM 1334 1348	fórmula normal
+T84	SYMPTOM 1562 1580	líquido en cisuras
+T85	SYMPTOM 2188 2211	compromiso hemodinámico
+T86	SYMPTOM 3771 3790	cifras de TAS bajas
+T87	MEDICATION 651 661	furosemida
+T88	MEDICATION 663 673	bisoprolol
+T89	MEDICATION 675 683	ramipril
+T90	MEDICATION 685 696	tamsulosina
+T91	MEDICATION 698 708	alopurinol
+T92	MEDICATION 711 718	sintrom
+T93	MEDICATION 1028 1030	O2
+T94	MEDICATION 4364 4371	sintrom
+T95	MEDICATION 4400 4408	apixabán

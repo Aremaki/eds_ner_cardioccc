@@ -1,0 +1,119 @@
+T1	ENFERMEDAD 89 112	alergias medicamentosas
+T2	ENFERMEDAD 214 235	hipertensión arterial
+T3	ENFERMEDAD 423 437	angina estable
+T4	ENFERMEDAD 439 465	síndrome coronario crónico
+T5	ENFERMEDAD 565 589	enfermedad renal crónica
+T6	ENFERMEDAD 646 655	gastritis
+T7	ENFERMEDAD 657 690	infección por Helicobacter pylori
+T8	ENFERMEDAD 706 718	hernia hiata
+T9	ENFERMEDAD 742 756	diverticulosis
+T10	ENFERMEDAD 2061 2086	trombosis venosa profunda
+T11	ENFERMEDAD 2088 2091	TVP
+T12	ENFERMEDAD 3697 3749	Insuficiencia mitral que impresiona de leve-moderada
+T13	ENFERMEDAD 4697 4713	edema miocárdico
+T14	ENFERMEDAD 5409 5433	enfermedad renal crónica
+T15	ENFERMEDAD 5799 5846	infarto agudo de miocardio sin elevación del ST
+T16	ENFERMEDAD 6129 6186	infarto de miocardio sin lesiones coronarias obstructivas
+T17	ENFERMEDAD 6188 6194	MINOCA
+T18	ENFERMEDAD 6489 6506	miocarditis aguda
+T19	ENFERMEDAD 6774 6803	enfermedad arterial coronaria
+T20	ENFERMEDAD 7064 7069	COVID
+T21	ENFERMEDAD 7109 7133	Enfermedad renal crónica
+T22	ENFERMEDAD 7185 7211	Síndrome coronario crónico
+T23	ENFERMEDAD 7268 7287	Hipercolesterolemia
+T24	ENFERMEDAD 3436 3455	congestión pulmonar
+T25	ENFERMEDAD 6050 6069	lesiones coronarias
+T26	ENFERMEDAD 307 408	lesiones moderadas en segmento medio de descendente anterior y en segmento medio de coronaria derecha
+T27	ENFERMEDAD 721 739	anillo de Schatzki
+T28	ENFERMEDAD 4333 4372	Descendente anterior con placa moderada
+T29	ENFERMEDAD 4468 4509	Coronaria derecha no dominante, con placa
+T30	ENFERMEDAD 7043 7060	Miocarditis aguda
+T31	ENFERMEDAD 7216 7266	enfermedad coronaria no significativa de dos vasos
+T32	PROCEDIMIENTO 279 294	coronariografía
+T33	PROCEDIMIENTO 472 486	ecocardiograma
+T34	PROCEDIMIENTO 1556 1574	electrocardiograma
+T35	PROCEDIMIENTO 1643 1661	Exploración física
+T36	PROCEDIMIENTO 1940 1967	Auscultación cardiopulmonar
+T37	PROCEDIMIENTO 2119 2138	Analítica sanguínea
+T38	PROCEDIMIENTO 2958 2968	Hemostasia
+T39	PROCEDIMIENTO 3124 3142	Electrocardiograma
+T40	PROCEDIMIENTO 3144 3147	ECG
+T41	PROCEDIMIENTO 3365 3385	Radiografía torácica
+T42	PROCEDIMIENTO 3480 3495	Ecocardioscopia
+T43	PROCEDIMIENTO 3769 3797	Ecocardiograma transtorácico
+T44	PROCEDIMIENTO 4197 4217	Cateterismo cardiaco
+T45	PROCEDIMIENTO 4596 4615	Resonancia cardiaca
+T46	PROCEDIMIENTO 5456 5476	seriación enzimática
+T47	PROCEDIMIENTO 5613 5628	ecocardioscopia
+T48	PROCEDIMIENTO 5991 6006	coronariografía
+T49	PROCEDIMIENTO 6312 6340	ecocardiograma transtorácico
+T50	PROCEDIMIENTO 6421 6450	resonancia magnética cardiaca
+T51	PROCEDIMIENTO 6729 6739	telemetría
+T52	PROCEDIMIENTO 2140 2150	Bioquímica
+T53	PROCEDIMIENTO 3754 3767	Doppler color
+T54	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDIMIENTO 2559 2570	Hematología
+T56	PROCEDIMIENTO 5720 5749	marcadores de daño miocárdico
+T57	SINTOMA 260 274	dolor torácico
+T58	SINTOMA 1082 1165	dolor centrotorácico de intensidad 10/10, opresivo, irradiado a mandíbula y espalda
+T59	SINTOMA 1181 1188	náuseas
+T60	SINTOMA 1193 1200	vómitos
+T61	SINTOMA 1257 1262	dolor
+T62	SINTOMA 1406 1412	fiebre
+T63	SINTOMA 1850 1869	buen estado general
+T64	SINTOMA 1871 1881	consciente
+T65	SINTOMA 1884 1893	orientado
+T66	SINTOMA 1895 1913	eupneico en reposo
+T67	SINTOMA 1916 1931	bien perfundido
+T68	SINTOMA 1936 1938	IY
+T69	SINTOMA 1940 1984	Auscultación cardiopulmonar sin alteraciones
+T70	SINTOMA 1986 2014	Abdomen blando y no doloroso
+T71	SINTOMA 3150 3163	ritmo sinusal
+T72	SINTOMA 3174 3185	PR en rango
+T73	SINTOMA 3199 3211	QRS estrecho
+T74	SINTOMA 3213 3230	QTc no prolongado
+T75	SINTOMA 3236 3276	alteraciones agudas de la repolarización
+T76	SINTOMA 3282 3344	onda T aplanada en cara lateral alta y precordiales izquierdas
+T77	SINTOMA 3387 3421	índice cardiotorácico (ICT) normal
+T78	SINTOMA 3497 3529	ventrículo izquierdo no dilatado
+T79	SINTOMA 3547 3585	Función sistólica subjetiva conservada
+T80	SINTOMA 3817 3888	ventrículo izquierdo no dilatado, con aumento leve del espesor parietal
+T81	SINTOMA 4027 4055	Función sistólica conservada
+T82	SINTOMA 4088 4113	Función diastólica normal
+T83	SINTOMA 4115 4174	Ventrículo derecho no dilatado con función sistólica normal
+T84	SINTOMA 4197 4244	Cateterismo cardiaco: tronco común sin lesiones
+T85	SINTOMA 4617 4658	ventrículos no dilatados ni hipertróficos
+T86	SINTOMA 4831 4836	edema
+T87	SINTOMA 5164 5210	Exudado nasofaríngeo para SARS-CoV-2: negativo
+T88	SINTOMA 5270 5284	dolor torácico
+T89	SINTOMA 5360 5391	troponina ligeramente aumentada
+T90	SINTOMA 5707 5749	elevación de marcadores de daño miocárdico
+T91	SINTOMA 7071 7107	Función ventricular izquierda normal
+T92	SINTOMA 3650 3695	alteraciones de la contractilidad segmentaria
+T93	SINTOMA 2016 2046	Miembros inferiores sin edemas
+T94	SINTOMA 3587 3638	disquinesia del segmento medio de cara anteroseptal
+T95	SINTOMA 3890 3944	Acinesia localizada a nivel del septo interventricular
+T96	SINTOMA 5830 5846	elevación del ST
+T97	SINTOMA 3187 3197	eje normal
+T98	SINTOMA 491 543	fracción de eyección del ventrículo izquierdo normal
+T99	SINTOMA 4246 4316	Circunfleja dominante, de buen calibre y gran desarrollo, sin lesiones
+T100	SINTOMA 4845 4923	secuencias de realce tardío existen áreas parcheadas de realce intramiocárdico
+T101	SINTOMA 5651 5687	segmento disquinético a nivel septal
+T102	SINTOMA 7292 7313	LDL fuera de objetivo
+T103	FARMACO 780 792	clortalidona
+T104	FARMACO 808 816	losartán
+T105	FARMACO 833 846	pitavastatina
+T106	FARMACO 861 871	ranitidina
+T107	FARMACO 888 899	clopidogrel
+T108	FARMACO 915 940	mononitrato de isosorbida
+T109	FARMACO 1222 1233	paracetamol
+T110	FARMACO 1524 1546	ácido acetilsalicílico
+T111	FARMACO 5894 5905	clopidogrel
+T112	FARMACO 5917 5929	fondaparinux
+T113	FARMACO 5940 5962	ácido acetilsalicílico
+T114	FARMACO 5965 5978	atorvastatina
+T115	FARMACO 6553 6564	paracetamol
+T116	FARMACO 6844 6857	pitavastatina
+T117	FARMACO 6927 6940	atorvastatina
+T118	FARMACO 6860 6873	rosuvastatina
+T119	FARMACO 6874 6883	ezetimiba

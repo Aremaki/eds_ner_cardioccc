@@ -1,0 +1,90 @@
+T1	ENFERMEDAD 75 98	alergias medicamentosas
+T2	ENFERMEDAD 160 169	exfumador
+T3	ENFERMEDAD 190 200	dislipemia
+T4	ENFERMEDAD 281 292	cardiopatía
+T5	ENFERMEDAD 659 666	síncope
+T6	ENFERMEDAD 668 685	angor de esfuerzo
+T7	ENFERMEDAD 1045 1070	trombosis venosa profunda
+T8	ENFERMEDAD 2370 2389	derrame pericárdico
+T9	ENFERMEDAD 2954 3016	ateromatosis difusa con dos lesiones moderadas en tándem en CD
+T10	ENFERMEDAD 3630 3637	SCASEST
+T11	ENFERMEDAD 3867 4024	arteria circunfleja subocluida con nacimiento anómalo desde seno coronario derecho adyacente a ostium de arteria coronaria derecha, con trayecto retroaórtico
+T12	ENFERMEDAD 4240 4293	lesión significativa de arteria descendente posterior
+T13	ENFERMEDAD 4374 4396	insuficiencia cardiaca
+T14	ENFERMEDAD 4512 4581	Síndrome coronario agudo sin elevacion del ST de localización lateral
+T15	ENFERMEDAD 4595 4604	IAM no Q.
+T16	ENFERMEDAD 4615 4717	Origen anómalo de arteria coronaria circunfleja desde seno coronario derecho con trayecto retroaórtico
+T17	ENFERMEDAD 4719 4865	Enfermedad coronaria de dos vasos: circunfleja subocluida en el origen, estenosis significativa en rama descendente posterior de coronaria derecha
+T18	ENFERMEDAD 4791 4865	estenosis significativa en rama descendente posterior de coronaria derecha
+T19	ENFERMEDAD 3028 3105	arteria descendente posterior (DP) presenta lesión angiográficamente moderada
+T20	ENFERMEDAD 4401 4419	eventos arrítmicos
+T21	ENFERMEDAD 2684 2814	Circunfleja (Cx): origen anómalo de su nacimiento desde seno coronario derecho adyacente a ostium de CD, con trayecto retroaórtico
+T22	ENFERMEDAD 4754 4776	circunfleja subocluida
+T23	ENFERMEDAD 2141 2190	Válvula tricúspide con velos finos, insuficiencia
+T24	ENFERMEDAD 299 312	muerte súbita
+T25	ENFERMEDAD 2816 2834	Arteria subocluida
+T26	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T27	PROCEDIMIENTO 751 769	exploración física
+T28	PROCEDIMIENTO 882 903	Auscultación cardiaca
+T29	PROCEDIMIENTO 958 979	Auscultación pulmonar
+T30	PROCEDIMIENTO 1137 1156	Analítica sanguínea
+T31	PROCEDIMIENTO 1420 1431	Coagulación
+T32	PROCEDIMIENTO 1457 1477	Radiografía de tórax
+T33	PROCEDIMIENTO 1549 1567	Electrocardiograma
+T34	PROCEDIMIENTO 1569 1572	ECG
+T35	PROCEDIMIENTO 1669 1672	ECG
+T36	PROCEDIMIENTO 1685 1713	Ecocardiograma transtorácico
+T37	PROCEDIMIENTO 2434 2454	Cateterismo cardiaco
+T38	PROCEDIMIENTO 3167 3263	intervencionismo coronario percutáneo (ICP) sobre: Cx: catéter multipropósito y guía hidrofílica
+T39	PROCEDIMIENTO 3206 3209	ICP
+T40	PROCEDIMIENTO 3265 3301	Predilatación con balón convencional
+T41	PROCEDIMIENTO 3316 3390	Implante de dos stents farmacoactivos solapados, liberadores de everolimus
+T42	PROCEDIMIENTO 3450 3484	DP: catéter AR2 y guía hidrofílica
+T43	PROCEDIMIENTO 3486 3542	Implante de stent farmacoactivo, liberador de everolimus
+T44	PROCEDIMIENTO 3693 3758	tratamiento antiagregante con ácido acetilsalicílico y ticagrelor
+T45	PROCEDIMIENTO 3761 3793	anticoagulación con fondaparinux
+T46	PROCEDIMIENTO 3831 3851	cateterismo cardiaco
+T47	PROCEDIMIENTO 4150 4206	stents farmacoativos solapados sobre arteria circunfleja
+T48	PROCEDIMIENTO 4212 4293	stent farmacoativo sobre la lesión significativa de arteria descendente posterior
+T49	PROCEDIMIENTO 4867 4930	Revascularización percutánea completa con stents farmacoactivos
+T50	SINTOMA 435 532	dolor centrotorácico de características opresivas con irradiación a extremidad superior izquierda
+T51	SINTOMA 692 705	palpitaciones
+T52	SINTOMA 851 880	Presión venosa yugular normal
+T53	SINTOMA 905 930	ruidos cardiacos rítmicos
+T54	SINTOMA 936 942	soplos
+T55	SINTOMA 946 956	extratonos
+T56	SINTOMA 999 1030	Miembros inferiores: sin edemas
+T57	SINTOMA 1072 1110	Pulsos distales palpables y simétricos
+T58	SINTOMA 1420 1455	Coagulación básica sin alteraciones
+T59	SINTOMA 1479 1507	índice cardiotorácico normal
+T60	SINTOMA 1575 1642	ritmo sinusal con segmento ST rectificado en derivaciones laterales
+T61	SINTOMA 1648 1682	cambios dinámicos en ECG sucesivos
+T62	SINTOMA 1715 1772	ventrículo izquierdo de tamaño y función sistólica normal
+T63	SINTOMA 1888 1917	Patrón de relajación alterada
+T64	SINTOMA 1973 2003	Válvula mitral con velos finos
+T65	SINTOMA 2065 2095	Ventrículo derecho no dilatado
+T66	SINTOMA 2101 2125	función sistólica normal
+T67	SINTOMA 2141 2175	Válvula tricúspide con velos finos
+T68	SINTOMA 2297 2356	Raíz aórtica y aorta torácica ascendente visualizada normal
+T69	SINTOMA 2394 2415	masas intracavitarias
+T70	SINTOMA 2578 2611	Signo del miocardio no perfundido
+T71	SINTOMA 4932 4982	Función sistólica ventricular izquierda conservada
+T72	SINTOMA 1919 1959	Válvula aórtica trivalva con velos finos
+T73	SINTOMA 2223 2259	Vena cava inferior (VCI) no dilatada
+T74	SINTOMA 4541 4557	elevacion del ST
+T75	SINTOMA 981 997	normoventilación
+T76	SINTOMA 1864 1886	Grosor parietal normal
+T77	SINTOMA 1513 1547	alteraciones pleuroparenquimatosas
+T78	SINTOMA 1816 1862	alteraciones segmentarias de la contractilidad
+T79	SINTOMA 2456 2502	tronco coronario izquierdo (TCI): sin lesiones
+T80	SINTOMA 2504 2543	Descendente anterior (DA): sin lesiones
+T81	SINTOMA 537 555	clínica vegetativa
+T82	SINTOMA 2919 2952	Coronaria derecha (CD): dominante
+T83	FARMACO 220 233	atorvastatina
+T84	FARMACO 3380 3390	everolimus
+T85	FARMACO 3723 3745	ácido acetilsalicílico
+T86	FARMACO 3748 3758	ticagrelor
+T87	FARMACO 3781 3793	fondaparinux
+#1	AnnotatorNotes T9	 CD: coronaria derecha
+#2	AnnotatorNotes T19	 derrame pericárdico
+#3	AnnotatorNotes T42	 DP: descendente posterior

@@ -1,0 +1,135 @@
+T1	DISEASE 113 134	hipertensión arterial
+T2	DISEASE 136 139	HTA
+T3	DISEASE 142 150	fumadora
+T4	DISEASE 155 172	diabetes mellitus
+T5	DISEASE 174 176	DM
+T6	DISEASE 182 192	dislipemia
+T7	DISEASE 194 196	DL
+T8	DISEASE 229 290	parada cardiorrespiratoria (PCR) extrahospitalaria recuperada
+T9	DISEASE 317 340	fibrilación ventricular
+T10	DISEASE 626 647	vasoespasmo coronario
+T11	DISEASE 891 945	síndrome coronario agudo sin elevación del segmento ST
+T12	DISEASE 947 954	SCASEST
+T13	DISEASE 1937 1960	fibrilación ventricular
+T14	DISEASE 2754 2775	fibrilación auricular
+T15	DISEASE 3235 3250	derrame pleural
+T16	DISEASE 3780 3793	valvulopatías
+T17	DISEASE 3824 3843	derrame pericárdico
+T18	DISEASE 4525 4548	fibrilación ventricular
+T19	DISEASE 4677 4686	asistolia
+T20	DISEASE 5116 5143	extrasístoles ventriculares
+T21	DISEASE 5312 5335	fibrilación ventricular
+T22	DISEASE 5454 5460	MINOCA
+T23	DISEASE 5462 5529	infarto agudo de miocardio con coronarias sin lesiones obstructivas
+T24	DISEASE 5569 5590	vasoespasmo coronario
+T25	DISEASE 5703 5726	fibrilación ventricular
+T26	DISEASE 3023 3041	Elongación aórtica
+T27	DISEASE 257 260	PCR
+T28	DISEASE 1610 1642	PCR extrahospitalaria recuperada
+T29	DISEASE 1768 1771	PCR
+T30	DISEASE 5350 5435	Parada cardiorrespiratoria extrahospitalaria con primer ritmo fibrilación ventricular
+T31	DISEASE 5592 5618	Parada cardiorrespiratoria
+T32	DISEASE 5251 5289	extrasístole con fenómeno de R sobre T
+T33	PROCEDURE 348 366	electrocardiograma
+T34	PROCEDURE 368 371	ECG
+T35	PROCEDURE 442 453	Cateterismo
+T36	PROCEDURE 487 507	Test de acetilcolina
+T37	PROCEDURE 518 546	Ecocardiograma transtorácico
+T38	PROCEDURE 660 706	tratamiento con nitratos y calcio antagonistas
+T39	PROCEDURE 1000 1003	ECG
+T40	PROCEDURE 1082 1093	Cateterismo
+T41	PROCEDURE 1120 1148	Ecocardiograma transtorácico
+T42	PROCEDURE 1809 1819	RCP básica
+T43	PROCEDURE 1890 1900	RCP básica
+T44	PROCEDURE 2040 2061	RCP básica y avanzada
+T45	PROCEDURE 2123 2145	intubación orotraqueal
+T46	PROCEDURE 2147 2155	sedación
+T47	PROCEDURE 2186 2204	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 2205 2213	Intubada
+T49	PROCEDURE 2215 2249	sedada bajo perfusión de midazolam
+T50	PROCEDURE 2348 2351	VMI
+T51	PROCEDURE 2462 2483	Auscultación cardiaca
+T52	PROCEDURE 2506 2527	Auscultación pulmonar
+T53	PROCEDURE 2669 2672	ECG
+T54	PROCEDURE 2894 2914	Radiografía de tórax
+T55	PROCEDURE 3109 3120	radiografía
+T56	PROCEDURE 3274 3284	gasometría
+T57	PROCEDURE 3527 3555	Ecocardiograma transtorácico
+T58	PROCEDURE 3845 3856	Cateterismo
+T59	PROCEDURE 3919 3935	Ventriculografía
+T60	PROCEDURE 3938 3949	aortografía
+T61	PROCEDURE 4061 4072	cateterismo
+T62	PROCEDURE 4145 4173	ecocardiograma transtorácico
+T63	PROCEDURE 4288 4310	hipotermia terapéutica
+T64	PROCEDURE 4369 4387	sonda nasogástrica
+T65	PROCEDURE 4574 4586	RCP avanzada
+T66	PROCEDURE 4620 4636	desfibrilaciones
+T67	PROCEDURE 5003 5013	telemetría
+T68	PROCEDURE 5663 5685	hipotermia terapéutica
+T69	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 2289 2300	inotrópicos
+T71	PROCEDURE 3262 3271	Analítica
+T72	PROCEDURE 1997 2012	choque de 200 J
+T73	PROCEDURE 4763 4772	maniobras
+T74	PROCEDURE 4865 4894	bolos de 300 mg de amiodarona
+T75	SYMPTOM 395 440	elevación del ST en derivaciones precordiales
+T76	SYMPTOM 487 516	Test de acetilcolina positivo
+T77	SYMPTOM 548 559	FEVI normal
+T78	SYMPTOM 920 945	elevación del segmento ST
+T79	SYMPTOM 978 992	dolor torácico
+T80	SYMPTOM 1020 1044	descenso del ST en V1-V2
+T81	SYMPTOM 1150 1161	FEVI normal
+T82	SYMPTOM 1698 1714	malestar general
+T83	SYMPTOM 1717 1736	molestias torácicas
+T84	SYMPTOM 1975 1988	ritmo sinusal
+T85	SYMPTOM 2382 2396	Bien hidratada
+T86	SYMPTOM 2398 2405	nutrida
+T87	SYMPTOM 2408 2418	perfundida
+T88	SYMPTOM 2420 2434	Normocoloreada
+T89	SYMPTOM 2439 2460	ingurgitación yugular
+T90	SYMPTOM 2462 2492	Auscultación cardiaca: rítmica
+T91	SYMPTOM 2498 2504	soplos
+T92	SYMPTOM 2529 2558	murmullo vesicular conservado
+T93	SYMPTOM 2582 2611	edemas en miembros inferiores
+T94	SYMPTOM 2613 2642	Pulsos presentes y simétricos
+T95	SYMPTOM 2807 2819	QRS estrecho
+T96	SYMPTOM 2830 2871	alteraciones difusas de la repolarización
+T97	SYMPTOM 3122 3167	Índice cardiotorácico dentro de la normalidad
+T98	SYMPTOM 3582 3631	ventrículo izquierdo no dilatado, no hipertrófico
+T99	SYMPTOM 3637 3668	función sistólica global normal
+T100	SYMPTOM 3688 3735	Ventrículo derecho de tamaño y función normales
+T101	SYMPTOM 3737 3763	Aurículas de tamaño normal
+T102	SYMPTOM 3919 3958	Ventriculografía y aortografía normales
+T103	SYMPTOM 4186 4212	función ventricular normal
+T104	SYMPTOM 4958 4971	fallecimiento
+T105	SYMPTOM 5198 5214	elevación del ST
+T106	SYMPTOM 5639 5645	muerte
+T107	SYMPTOM 561 585	disquinesia septo apical
+T108	SYMPTOM 3670 3686	Aquinesia apical
+T109	SYMPTOM 4217 4233	aquinesia apical
+T110	SYMPTOM 5042 5057	descenso del ST
+T111	SYMPTOM 3858 3902	arterias coronarias epicárdicas sin lesiones
+T112	SYMPTOM 4095 4142	arterias coronarias sin lesiones significativas
+T113	SYMPTOM 2790 2800	eje normal
+T114	SYMPTOM 4456 4463	estable
+T115	SYMPTOM 455 485	lesión no significativa en DAm
+T116	SYMPTOM 1095 1118	coronarias sin lesiones
+T117	SYMPTOM 4687 4700	ritmo agónico
+T118	MEDICATION 826 835	diltiazem
+T119	MEDICATION 1353 1375	ácido acetilsalicílico
+T120	MEDICATION 1377 1380	AAS
+T121	MEDICATION 1392 1405	atorvastatina
+T122	MEDICATION 1415 1440	mononitrato de isosorbida
+T123	MEDICATION 1450 1466	diltiazem retard
+T124	MEDICATION 1480 1489	valsartán
+T125	MEDICATION 1503 1514	Pregabalina
+T126	MEDICATION 1516 1524	tramadol
+T127	MEDICATION 1526 1535	naproxeno
+T128	MEDICATION 4849 4859	adrenalina
+T129	MEDICATION 4884 4894	amiodarona
+T130	MEDICATION 4910 4919	lidocaína
+T131	MEDICATION 4935 4943	magnesio
+T132	MEDICATION 4346 4356	verapamilo
+T133	MEDICATION 2240 2249	midazolam
+#1	AnnotatorNotes T22	  Infarto de miocardio sin lesiones coronarias obstructivas
+#2	AnnotatorNotes T29	  parada cardiorespiratoria

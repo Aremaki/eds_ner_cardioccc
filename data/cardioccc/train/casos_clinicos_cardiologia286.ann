@@ -1,0 +1,130 @@
+T1	DISEASE 154 177	alergias medicamentosas
+T2	DISEASE 195 210	hábitos tóxicos
+T3	DISEASE 247 257	Dislipemia
+T4	DISEASE 259 274	Diabetes tipo 2
+T5	DISEASE 425 514	Cardiopatía valvular reumática con estenosis mitral grave y doble lesión aórtica moderada
+T6	DISEASE 485 514	doble lesión aórtica moderada
+T7	DISEASE 646 652	anemia
+T8	DISEASE 1397 1447	flutter auricular con respuesta ventricular rápida
+T9	DISEASE 2610 2662	flutter auricular con respuesta ventricular variable
+T10	DISEASE 3498 3542	trastornos segmentarios de la contractilidad
+T11	DISEASE 3608 3627	derrame pericárdico
+T12	DISEASE 3931 3965	trombopenia inducida por heparinas
+T13	DISEASE 4565 4574	trombosis
+T14	DISEASE 4862 4874	endocarditis
+T15	DISEASE 4886 4938	bacteriemia por el implante reciente de dos prótesis
+T16	DISEASE 5185 5202	lesiones cutáneas
+T17	DISEASE 5328 5354	toxicodermia por ertapenem
+T18	DISEASE 5497 5541	vasculitis leucocitoclástica de pequeño vaso
+T19	DISEASE 5557 5577	enfermedad del suero
+T20	DISEASE 5674 5700	toxicodermia por ertapenem
+T21	DISEASE 5774 5801	Anemia normocítica subaguda
+T22	DISEASE 5839 5889	Flutter auricular con respuesta ventricular rápida
+T23	DISEASE 5891 5924	Trombopenia inducida por heparina
+T24	DISEASE 5932 5973	Infección del tracto urinario por E. coli
+T25	DISEASE 5981 6069	Vasculitis leucocitoclástica de pequeño vaso secundaria administración de carbapenémicos
+T26	DISEASE 2918 2945	Aurícula izquierda dilatada
+T27	DISEASE 5715 5756	Descompensación de insuficiencia cardiaca
+T28	DISEASE 363 395	Fibrilación auricular permanente
+T29	DISEASE 3967 3970	TIH
+T30	DISEASE 5926 5929	TIH
+T31	DISEASE 1883 1900	corazón arrítmico
+T32	DISEASE 2851 2916	ventrículo izquierdo no dilatado con hipertrofia concéntrica leve
+T33	DISEASE 446 482	reumática con estenosis mitral grave
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 278 315	tratamiento con antidiabéticos orales
+T36	PROCEDURE 396 423	anticoagulada con warfarina
+T37	PROCEDURE 545 605	Sustitución valvular mitral y aórtica por prótesis mecánicas
+T38	PROCEDURE 666 706	transfusión de 1 concentrado de hematíes
+T39	PROCEDURE 1173 1201	cirugía de recambio valvular
+T40	PROCEDURE 1553 1571	Exploración física
+T41	PROCEDURE 1849 1881	Auscultación cardiorrespiratoria
+T42	PROCEDURE 2135 2153	palpación profunda
+T43	PROCEDURE 2273 2282	Hemograma
+T44	PROCEDURE 2372 2383	Coagulación
+T45	PROCEDURE 2423 2432	ionograma
+T46	PROCEDURE 2590 2608	Electrocardiograma
+T47	PROCEDURE 2820 2849	Ecocardiografía transtorácica
+T48	PROCEDURE 3707 3740	tratamiento diurético intravenoso
+T49	PROCEDURE 3746 3774	transfusión de hemoderivados
+T50	PROCEDURE 4284 4310	tratamiento anticoagulante
+T51	PROCEDURE 4449 4463	ecocardiograma
+T52	PROCEDURE 4702 4712	urocultivo
+T53	PROCEDURE 4905 4948	implante reciente de dos prótesis mecánicas
+T54	PROCEDURE 4969 5016	antibioterapia de amplio espectro con ertapenem
+T55	PROCEDURE 5467 5482	biopsia cutánea
+T56	PROCEDURE 2395 2405	Bioquímica
+T57	PROCEDURE 2506 2532	enzimas de daño miocárdico
+T58	PROCEDURE 2407 2420	función renal
+T59	PROCEDURE 914 925	hematología
+T60	PROCEDURE 2249 2258	Analítica
+T61	PROCEDURE 1473 1484	exploración
+T62	PROCEDURE 784 796	intervención
+T63	PROCEDURE 437 528	valvular reumática con estenosis mitral grave y doble lesión aórtica moderada, intervenidas
+T64	PROCEDURE 6037 6069	administración de carbapenémicos
+T65	SYMPTOM 96 102	disnea
+T66	SYMPTOM 105 134	edemas en miembros inferiores
+T67	SYMPTOM 1035 1087	disnea progresiva hasta hacerse de mínimos esfuerzos
+T68	SYMPTOM 1090 1119	edemas en miembros inferiores
+T69	SYMPTOM 1212 1220	ortopnea
+T70	SYMPTOM 1250 1277	disnea paroxística nocturna
+T71	SYMPTOM 1572 1597	Estado general conservado
+T72	SYMPTOM 1599 1609	Consciente
+T73	SYMPTOM 1612 1621	orientada
+T74	SYMPTOM 1623 1650	Bien hidratada y perfundida
+T75	SYMPTOM 1652 1677	Palidez de piel y mucosas
+T76	SYMPTOM 1709 1727	Eupneica en reposo
+T77	SYMPTOM 1801 1822	ingurgitación yugular
+T78	SYMPTOM 1947 1953	soplos
+T79	SYMPTOM 2003 2040	crepitantes en ambas bases pulmonares
+T80	SYMPTOM 2086 2104	Abdomen: sin masas
+T81	SYMPTOM 2108 2116	megalias
+T82	SYMPTOM 2121 2153	doloroso a la palpación profunda
+T83	SYMPTOM 2168 2189	irritación peritoneal
+T84	SYMPTOM 2191 2222	Edemas hasta rodillas con fóvea
+T85	SYMPTOM 2407 2441	función renal e ionograma normales
+T86	SYMPTOM 2688 2698	Eje normal
+T87	SYMPTOM 2700 2712	QRS estrecho
+T88	SYMPTOM 2714 2748	Buena progresión R en precordiales
+T89	SYMPTOM 2750 2773	Ondas T negativas V4-V6
+T90	SYMPTOM 2785 2818	alteraciones en la repolarización
+T91	SYMPTOM 2851 2883	ventrículo izquierdo no dilatado
+T92	SYMPTOM 2947 2974	Cavidades derechas normales
+T93	SYMPTOM 3269 3299	movilidad de discos conservada
+T94	SYMPTOM 3544 3594	Función sistólica de ventrículo derecho conservada
+T95	SYMPTOM 4621 4641	síntomas miccionales
+T96	SYMPTOM 4646 4653	disuria
+T97	SYMPTOM 4655 4666	polaquiuria
+T98	SYMPTOM 4669 4684	tenesmo vesical
+T99	SYMPTOM 5117 5145	poliartralgias generalizadas
+T100	SYMPTOM 3038 3079	prótesis mitral mecánica normoposicionada
+T101	SYMPTOM 3207 3249	Prótesis aórtica mecánica normoposicionada
+T102	SYMPTOM 3396 3448	Función sistólica de ventrículo izquierdo conservada
+T103	SYMPTOM 4496 4538	válvulas protésicas eran normofuncionantes
+T104	SYMPTOM 1917 1941	Click metálico protésico
+T105	SYMPTOM 1450 1467	datos congestivos
+T106	SYMPTOM 2304 2318	fórmula normal
+T107	SYMPTOM 1826 1847	reflujo hepatoyugular
+T108	SYMPTOM 1964 1990	Buena ventilación pulmonar
+T109	SYMPTOM 3841 3877	descenso de los niveles de plaquetas
+T110	SYMPTOM 4041 4108	anticuerpos anti-factor IV plaquetario que resultaron ser positivos
+T111	SYMPTOM 4702 4738	urocultivo realizadoEscherichia coli
+T112	MEDICATION 414 423	warfarina
+T113	MEDICATION 798 807	omeprazol
+T114	MEDICATION 822 832	carvedilol
+T115	MEDICATION 856 868	pravastatina
+T116	MEDICATION 883 892	warfarina
+T117	MEDICATION 928 938	gliclazida
+T118	MEDICATION 4011 4023	fondaparinux
+T119	MEDICATION 4136 4144	heparina
+T120	MEDICATION 4149 4161	fondaparinux
+T121	MEDICATION 4270 4279	warfarina
+T122	MEDICATION 4348 4360	fondaparinux
+T123	MEDICATION 5007 5016	ertapenem
+T124	MEDICATION 5345 5354	ertapenem
+T125	MEDICATION 5385 5396	fosfomicina
+T126	MEDICATION 5691 5700	ertapenem
+T127	MEDICATION 5916 5924	heparina
+T128	MEDICATION 6071 6080	ertapenem
+#1	AnnotatorNotes T29	 TIH trombocitopenia inducida por heparina
+#2	AnnotatorNotes T30	 TIH trombocitopenia inducida por heparina

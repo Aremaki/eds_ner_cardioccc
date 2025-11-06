@@ -1,0 +1,121 @@
+T1	DISEASE 96 105	exfumador
+T2	DISEASE 389 396	síncope
+T3	DISEASE 509 581	bloqueo auriculoventricular (BAV) completo con elevación del segmento ST
+T4	DISEASE 538 541	BAV
+T5	DISEASE 1075 1087	ateromatosis
+T6	DISEASE 1283 1302	disección coronaria
+T7	DISEASE 2904 2934	Insuficiencia tricúspide aguda
+T8	DISEASE 3008 3033	insuficiencia mitral leve
+T9	DISEASE 3047 3066	derrame pericárdico
+T10	DISEASE 3482 3524	Arteria coronaria derecha: oclusión ostial
+T11	DISEASE 3924 3965	insuficiencia cardiaca (IC) derecha aguda
+T12	DISEASE 4312 4336	oclusión total de la ACD
+T13	DISEASE 4352 4380	trombosis subaguda del stent
+T14	DISEASE 4490 4496	trombo
+T15	DISEASE 5086 5112	infarto agudo de miocardio
+T16	DISEASE 5044 5047	CIV
+T17	DISEASE 5114 5117	IAM
+T18	DISEASE 5530 5550	fracaso respiratorio
+T19	DISEASE 5851 5868	muerte encefálica
+T20	DISEASE 6150 6199	IAM evolucionado inferior y de ventrículo derecho
+T21	DISEASE 6224 6253	Oclusión trombótica de la ACD
+T22	DISEASE 6324 6343	disección coronaria
+T23	DISEASE 6392 6445	Trombosis subaguda de los stents implantados en la CD
+T24	DISEASE 6464 6472	IC aguda
+T25	DISEASE 6475 6521	shock cardiogénico secundario a fracaso del VD
+T26	DISEASE 6523 6556	Rotura del septo interventricular
+T27	DISEASE 2738 2791	disfunción sistólica muy grave del ventrículo derecho
+T28	DISEASE 5973 5996	hipoxemia preoperatoria
+T29	DISEASE 4941 4964	shunt izquierda-derecha
+T30	DISEASE 3730 3736	trombo
+T31	DISEASE 1128 1194	lesión subtotal en el tercio medio de la arteria coronaria derecha
+T32	DISEASE 2617 2639	disfunción leve del VI
+T33	DISEASE 4028 4069	dilatación y disfunción muy graves del VD
+T34	DISEASE 3948 3950	IC
+T35	DISEASE 2697 2733	dilatación de las cavidades derechas
+T36	DISEASE 3406 3427	arterias ateromatosas
+T37	DISEASE 4863 4915	solución de continuidad en el septo interventricular
+T38	DISEASE 5013 5042	comunicación interventricular
+T39	PROCEDURE 614 641	Se activa el código infarto
+T40	PROCEDURE 465 483	electrocardiograma
+T41	PROCEDURE 660 672	fibrinolisis
+T42	PROCEDURE 696 757	antiagregación con ácido acetilsalicílico (AAS) y clopidogrel
+T43	PROCEDURE 946 958	fibrinolisis
+T44	PROCEDURE 976 988	angioplastia
+T45	PROCEDURE 1337 1424	endoprótesis farmacoactivas en el origen, tercio medio y distal de la coronaria derecha
+T46	PROCEDURE 1585 1603	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 1676 1707	oxigenoterapia en gafas nasales
+T48	PROCEDURE 1809 1830	Auscultación cardiaca
+T49	PROCEDURE 2156 2178	estudio de coagulación
+T50	PROCEDURE 2421 2436	Ecocardiografía
+T51	PROCEDURE 2976 2983	Doppler
+T52	PROCEDURE 3068 3086	Electrocardiograma
+T53	PROCEDURE 3088 3091	ECG
+T54	PROCEDURE 3273 3288	Coronariografía
+T55	PROCEDURE 3346 3388	inyección intracoronaria de nitroglicerina
+T56	PROCEDURE 3982 3997	ecocardiografía
+T57	PROCEDURE 4182 4197	coronariografía
+T58	PROCEDURE 4241 4256	coronariografía
+T59	PROCEDURE 4763 4784	auscultación cardiaca
+T60	PROCEDURE 4807 4836	ecocardiografía a pie de cama
+T61	PROCEDURE 5204 5253	implante de oxigenador por membrana extracorpórea
+T62	PROCEDURE 5255 5259	ECMO
+T63	PROCEDURE 5302 5352	ECMO periférico veno-arterial (V-A) femoro-femoral
+T64	PROCEDURE 5505 5525	ventilación mecánica
+T65	PROCEDURE 5728 5747	trasplante cardiaco
+T66	PROCEDURE 5764 5793	soporte circulatorio con ECMO
+T67	PROCEDURE 5806 5868	trasplante cardiaco ortotópico de donante en muerte encefálica
+T68	PROCEDURE 5880 5905	circulación extracorpórea
+T69	PROCEDURE 5910 5943	ECMO periférico V-A femoro-axilar
+T70	PROCEDURE 6011 6015	ECMO
+T71	PROCEDURE 6043 6053	trasplante
+T72	PROCEDURE 6255 6301	Angioplastia coronaria transluminal percutánea
+T73	PROCEDURE 6303 6307	ACTP
+T74	PROCEDURE 6345 6390	Implante de tres stents farmacoactivos en ACD
+T75	PROCEDURE 6447 6451	ACTP
+T76	PROCEDURE 6558 6562	ECMO
+T77	PROCEDURE 6568 6600	asistencia circulatoria mecánica
+T78	PROCEDURE 6610 6620	trasplante
+T79	PROCEDURE 6622 6652	Trasplante cardiaco ortotópico
+T80	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 6201 6213	Fibrinolisis
+T82	PROCEDURE 2036 2045	Analítica
+T83	PROCEDURE 5391 5455	perfusión continua de dobutamina a 10 mcg/kg/min y noradrenalina
+T84	PROCEDURE 4436 4454	repermeabilización
+T85	PROCEDURE 4593 4617	infusión de levosimendán
+T86	SYMPTOM 276 299	dolor torácico opresivo
+T87	SYMPTOM 315 333	cortejo vegetativo
+T88	SYMPTOM 556 581	elevación del segmento ST
+T89	SYMPTOM 887 901	dolor torácico
+T90	SYMPTOM 907 923	elevación del ST
+T91	SYMPTOM 1604 1627	Regular aspecto general
+T92	SYMPTOM 1629 1644	Palidez cutánea
+T93	SYMPTOM 1646 1661	Disnea al habla
+T94	SYMPTOM 1719 1749	Ingurgitación yugular presente
+T95	SYMPTOM 1787 1807	Buen relleno capilar
+T96	SYMPTOM 1832 1846	tonos rítmicos
+T97	SYMPTOM 1861 1876	soplos audibles
+T98	SYMPTOM 1878 1908	Hipoventilación en ambas bases
+T99	SYMPTOM 1914 1929	ruidos añadidos
+T100	SYMPTOM 1931 1961	Miembros inferiores sin edemas
+T101	SYMPTOM 1981 2009	Pulsos periféricos presentes
+T102	SYMPTOM 2456 2493	ventrículo izquierdo (VI) no dilatado
+T103	SYMPTOM 2535 2591	hipercinesia compensadora de la pared anterior y lateral
+T104	SYMPTOM 2866 2902	aumento de la presión venosa central
+T105	SYMPTOM 3104 3117	ritmo sinusal
+T106	SYMPTOM 3183 3193	ST elevado
+T107	SYMPTOM 3241 3259	alto voltaje en V2
+T108	SYMPTOM 4722 4741	soplo holosistólico
+T109	SYMPTOM 5948 5970	labilidad hemodinámica
+T110	SYMPTOM 2498 2532	acinesia de toda la pared inferior
+T111	SYMPTOM 1020 1069	vasoconstricción generalizada del árbol izquierdo
+T112	SYMPTOM 4672 4703	caída de las cifras tensionales
+T113	MEDICATION 715 737	ácido acetilsalicílico
+T114	MEDICATION 739 742	AAS
+T115	MEDICATION 746 757	clopidogrel
+T116	MEDICATION 3374 3388	nitroglicerina
+T117	MEDICATION 4605 4617	levosimendán
+T118	MEDICATION 5413 5423	dobutamina
+T119	MEDICATION 5442 5455	noradrenalina
+#1	AnnotatorNotes T34	insuficiencia cardiaca
+#2	AnnotatorNotes T73	  angioplastia coronaria transluminal percutánea

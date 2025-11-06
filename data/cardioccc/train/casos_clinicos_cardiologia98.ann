@@ -1,0 +1,170 @@
+T1	DISEASE 8633 8667	dilatación de venas suprahepáticas
+T2	DISEASE 143 146	HTA
+T3	DISEASE 155 172	Diabetes mellitus
+T4	DISEASE 272 280	ampuloma
+T5	DISEASE 301 334	pancreatitis crónica esclerosante
+T6	DISEASE 424 484	Enfermedad de Castleman multicéntrica, variante plasmocítica
+T7	DISEASE 672 690	varices esofágicas
+T8	DISEASE 704 720	varices fúndicas
+T9	DISEASE 765 782	gastritis crónica
+T10	DISEASE 1132 1177	trombosis venosa profunda de miembro inferior
+T11	DISEASE 2396 2442	derrame pleural en mitad inferior de hemitorax
+T12	DISEASE 2645 2648	TVP
+T13	DISEASE 4028 4053	derrame pleural bilateral
+T14	DISEASE 4335 4368	fibrilación auricular paroxística
+T15	DISEASE 5119 5183	Válvula mitral con velos finos sin estenosis y con insuficiencia
+T16	DISEASE 5277 5302	insuficiencia tricuspídea
+T17	DISEASE 5426 5444	derrame pericardio
+T18	DISEASE 5446 5471	Derrame pleural bilateral
+T19	DISEASE 5571 5618	adenopatía localizada en cadena mamaria interna
+T20	DISEASE 6009 6040	adenopatía en región obturatriz
+T21	DISEASE 6289 6347	lesión descrita previamente en mesenterio, a nivel pélvico
+T22	DISEASE 6860 6925	adenopatías de metabolismo detectable supra e infradiafragmáticas
+T23	DISEASE 7126 7134	isquemia
+T24	DISEASE 8263 8286	isquemia leve- moderada
+T25	DISEASE 8354 8388	disfunción transitoria ventricular
+T26	DISEASE 8941 8949	litiasis
+T27	DISEASE 9169 9191	insuficiencia cardiaca
+T28	DISEASE 9439 9459	insuficiencia mitral
+T29	DISEASE 9537 9561	macroagiopatía coronaria
+T30	DISEASE 9579 9601	disfunción ventricular
+T31	DISEASE 9675 9697	lesiones infiltrativas
+T32	DISEASE 9723 9746	enfermedad de Castleman
+T33	DISEASE 9828 9895	insuficiencia cardiaca congestiva con disfunción sistólica moderada
+T34	DISEASE 9898 9919	disfunción diastólica
+T35	DISEASE 9958 9991	fibrilación auricular paroxística
+T36	DISEASE 10098 10135	Enfermedad de Castleman multicéntrica
+T37	DISEASE 10137 10183	Diabetes mellitus secundaria a pancreatectomía
+T38	DISEASE 4129 4155	bloqueo AV de primer grado
+T39	DISEASE 151 153	DL
+T40	DISEASE 4190 4223	Extrasistolia ventricular aislada
+T41	DISEASE 108 131	alergias a medicamentos
+T42	DISEASE 6565 6590	derrame pleural bilateral
+T43	DISEASE 4158 4188	hemibloqueo anterior izquierdo
+T44	DISEASE 1811 1830	congestión hepática
+T45	DISEASE 2561 2576	visceromegalias
+T46	DISEASE 3463 3496	hipergammaglobulinemia policlonal
+T47	DISEASE 4565 4604	ventrículo izquierdo levemente dilatado
+T48	DISEASE 4955 4994	Aurícula izquierda ligeramente dilatada
+T49	DISEASE 9308 9393	ventrículo izquierdo levemente dilatado con función sistólica moderadamente deprimida
+T50	DISEASE 4999 5052	raíz aórtica y aorta ascendente ligeramente dilatadas
+T51	DISEASE 8884 8914	dilatación de la vía excretora
+T52	DISEASE 8669 8715	Ausencia de vesícula biliar y bazo por cirugía
+T53	DISEASE 6152 6170	lesiones nodulares
+T54	DISEASE 7809 7855	incremento del tamaño del ventrículo izquierdo
+T55	PROCEDURE 34 52	exploración física
+T56	PROCEDURE 389 404	colecistectomía
+T57	PROCEDURE 407 421	apendicectomía
+T58	PROCEDURE 635 647	gastroscopia
+T59	PROCEDURE 723 749	biopsia de cuerpo gástrico
+T60	PROCEDURE 870 877	PET-TAC
+T61	PROCEDURE 1213 1224	eco doppler
+T62	PROCEDURE 2171 2189	Exploración física
+T63	PROCEDURE 3639 3658	Gasometría arterial
+T64	PROCEDURE 3881 3901	Radiografía de tórax
+T65	PROCEDURE 4091 4109	Electrocardiograma
+T66	PROCEDURE 4316 4334	electrocardiograma
+T67	PROCEDURE 4518 4533	anticoagulación
+T68	PROCEDURE 4535 4563	Ecocardiograma transtorácico
+T69	PROCEDURE 5473 5517	PET-TAC cuerpo entero fluordesoxiglucosa-F18
+T70	PROCEDURE 6527 6530	PET
+T71	PROCEDURE 6538 6540	TC
+T72	PROCEDURE 6970 6986	Ergometría-SPECT
+T73	PROCEDURE 6988 6998	ergometría
+T74	PROCEDURE 7267 7355	SPECT gated de perfusión miocárdica tras estrés ergométrico e inyección del radiofármaco
+T75	PROCEDURE 8460 8479	Ecografía abdominal
+T76	PROCEDURE 9100 9127	coronariografía diagnóstica
+T77	PROCEDURE 9209 9224	Coronariografía
+T78	PROCEDURE 9279 9295	ventriculografía
+T79	PROCEDURE 9473 9488	coronariografía
+T80	PROCEDURE 9627 9647	resonancia magnética
+T81	PROCEDURE 10168 10183	pancreatectomía
+T82	PROCEDURE 543 555	esquema CHOP
+T83	PROCEDURE 2347 2349	AC
+T84	PROCEDURE 2378 2380	AP
+T85	PROCEDURE 3243 3253	Serologías
+T86	PROCEDURE 1789 1807	anamnesis dirigida
+T87	PROCEDURE 4500 4515	betabloqueantes
+T88	PROCEDURE 3203 3219	Auto anticuerpos
+T89	PROCEDURE 3705 3722	Orina de 24 horas
+T90	PROCEDURE 3802 3828	Proteinuria de Bence Jones
+T91	PROCEDURE 8045 8058	estudio GATED
+T92	PROCEDURE 2700 2709	Analítica
+T93	PROCEDURE 2307 2322	Cabeza y cuello
+T94	PROCEDURE 186 206	pancreatoduedectomía
+T95	PROCEDURE 336 351	espenectomizado
+T96	PROCEDURE 2578 2590	Extremidades
+T97	PROCEDURE 2452 2459	Abdomen
+T98	PROCEDURE 10199 10225	dieta sin sal y sin grasas
+T99	SYMPTOM 73 79	disnea
+T100	SYMPTOM 229 255	masa en cabeza de páncreas
+T101	SYMPTOM 592 623	engrosamiento parietal gástrico
+T102	SYMPTOM 1488 1563	disnea de esfuerzo progresiva de 1 mes de evolución hasta hacerse de reposo
+T103	SYMPTOM 1585 1593	ortopnea
+T104	SYMPTOM 1596 1623	disnea paroxística nocturna
+T105	SYMPTOM 1625 1649	tos nocturna en decúbito
+T106	SYMPTOM 1652 1660	nicturia
+T107	SYMPTOM 1679 1709	aumento de perímetro abdominal
+T108	SYMPTOM 1712 1741	edemas de miembros inferiores
+T109	SYMPTOM 1743 1774	molestia en hipocondrio derecho
+T110	SYMPTOM 1836 1850	dolor torácico
+T111	SYMPTOM 1880 1893	palpitaciones
+T112	SYMPTOM 2048 2054	fiebre
+T113	SYMPTOM 2059 2072	expectoración
+T114	SYMPTOM 2077 2084	nauseas
+T115	SYMPTOM 2089 2096	vómitos
+T116	SYMPTOM 2218 2225	afebril
+T117	SYMPTOM 2253 2256	BEG
+T118	SYMPTOM 2258 2272	Normocoloreado
+T119	SYMPTOM 2274 2288	normoperfundio
+T120	SYMPTOM 2291 2305	normohidratado
+T121	SYMPTOM 2324 2345	ingurgitación yugular
+T122	SYMPTOM 2351 2365	Tonos rítmicos
+T123	SYMPTOM 2370 2376	soplos
+T124	SYMPTOM 2452 2479	Abdomen: blando, depresible
+T125	SYMPTOM 2481 2509	dolor en hipocondrio derecho
+T126	SYMPTOM 2514 2535	irritación peritoneal
+T127	SYMPTOM 2552 2557	masas
+T128	SYMPTOM 2592 2629	edemas con fóvea hasta raíz de muslos
+T129	SYMPTOM 2650 2673	pulsos pedios positivos
+T130	SYMPTOM 3243 3274	Serologías: VHB y VHC negativas
+T131	SYMPTOM 3748 3759	proteinuria
+T132	SYMPTOM 3802 3879	Proteinuria de Bence Jones (cadenas ligeras kappa y lambda en orina) negativa
+T133	SYMPTOM 3903 3959	índice cardiotorácico en el límite alto de la normalidad
+T134	SYMPTOM 3961 3995	mediastino y ambos hilios normales
+T135	SYMPTOM 3997 4026	engrosamiento de cisura mayor
+T136	SYMPTOM 4111 4124	ritmo sinusal
+T137	SYMPTOM 4287 4300	palpitaciones
+T138	SYMPTOM 4429 4442	ritmo sinusal
+T139	SYMPTOM 5054 5117	Ventrículo derecho no dilatado con función sistólica conservada
+T140	SYMPTOM 5329 5354	Cava inferior no dilatada
+T141	SYMPTOM 5388 5417	Septum interauricular íntegro
+T142	SYMPTOM 7188 7230	Capacidad funcional moderadamente reducida
+T143	SYMPTOM 8967 9001	líquido libre en cavidad abdominal
+T144	SYMPTOM 3221 3241	ANA y ANCA negativas
+T145	SYMPTOM 4909 4944	FEVI global moderadamente deprimida
+T146	SYMPTOM 8481 8504	hígado de tamaño normal
+T147	SYMPTOM 5800 5858	formaciones ganglionares en ambas cadenas iliacas externas
+T148	SYMPTOM 6676 6703	infiltrados pseudonodulares
+T149	SYMPTOM 8589 8617	Vena porta de calibre normal
+T150	SYMPTOM 8822 8878	riñones son de tamaño normal, con corticales conservadas
+T151	SYMPTOM 9226 9259	arterias coronarias sin estenosis
+T152	SYMPTOM 9473 9498	coronariografía es normal
+T153	MEDICATION 904 916	clorambucilo
+T154	MEDICATION 934 943	rituximab
+T155	MEDICATION 1307 1318	pantoprazol
+T156	MEDICATION 1363 1371	insulina
+T157	MEDICATION 1385 1396	paracetamol
+T158	MEDICATION 10461 10471	Furosemida
+T159	MEDICATION 10522 10532	Bisoprolol
+T160	MEDICATION 10568 10579	Rivaroxaban
+T161	MEDICATION 10612 10627	Espironolactona
+T162	MEDICATION 10663 10671	Ramipril
+T163	MEDICATION 10694 10705	Pantoprazol
+T164	MEDICATION 1334 1345	pancreatina
+T165	MEDICATION 10267 10278	Pancreatina
+T166	MEDICATION 10401 10408	novomix
+#1	AnnotatorNotes T2	 HTA: hipertensión arterial
+#2	AnnotatorNotes T12	 TVP: trombosis venosa profunda
+#3	AnnotatorNotes T38	 AV: auriculo-ventricular
+#4	AnnotatorNotes T39	 DL: dislipemia

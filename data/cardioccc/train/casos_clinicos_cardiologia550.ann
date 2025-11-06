@@ -1,0 +1,91 @@
+T1	DISEASE 2781 2856	ventrículo derecho (VD) gravemente dilatado con función sistólica deprimida
+T2	DISEASE 2858 2902	Ventrículo izquierdo (VI) levemente dilatado
+T3	DISEASE 3250 3312	VI dilatado e hipocontráctil con disfunción sistólica moderada
+T4	DISEASE 4289 4320	dilatación significativa del VD
+T5	DISEASE 70 93	alergias medicamentosas
+T6	DISEASE 220 231	sarcoidosis
+T7	DISEASE 280 312	muerte súbita de origen cardiaco
+T8	DISEASE 460 464	Asma
+T9	DISEASE 916 959	taquicardia ventricular monomorfa sostenida
+T10	DISEASE 2440 2473	taquicardia ventricular monomorfa
+T11	DISEASE 2492 2495	BRD
+T12	DISEASE 2719 2741	insuficiencia cardiaca
+T13	DISEASE 3029 3042	valvulopatías
+T14	DISEASE 3047 3066	derrame pericárdico
+T15	DISEASE 3768 3776	fibrosis
+T16	DISEASE 3873 3883	vasculitis
+T17	DISEASE 3998 4041	Taquicardia ventricular monomorfa sostenida
+T18	DISEASE 4265 4286	disfunción leve de VI
+T19	DISEASE 4368 4388	enfermedad coronaria
+T20	DISEASE 4418 4426	arritmia
+T21	DISEASE 4594 4622	miocardiopatía arritmogénica
+T22	DISEASE 5155 5212	Miocardiopatía arritmogénica con afectación biventricular
+T23	DISEASE 5214 5254	disfunción sistólica moderada de VI y VD
+T24	DISEASE 5268 5311	taquicardia ventricular monomorfa sostenida
+T25	DISEASE 2920 2974	disfunción sistólica leve de VI por hipocinesia global
+T26	DISEASE 3314 3360	Dilatación de VD con hipocontractilidad global
+T27	DISEASE 235 249	corazón grande
+T28	DISEASE 447 458	queratocono
+T29	DISEASE 4497 4514	dilatación del VD
+T30	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDURE 973 1004	cardioversión eléctrica a 200 J
+T32	PROCEDURE 1047 1065	Exploración física
+T33	PROCEDURE 1233 1254	Auscultación pulmonar
+T34	PROCEDURE 1312 1333	Auscultación cardiaca
+T35	PROCEDURE 1510 1519	Hemograma
+T36	PROCEDURE 2279 2290	Coagulación
+T37	PROCEDURE 2388 2406	Electrocardiograma
+T38	PROCEDURE 2408 2411	ECG
+T39	PROCEDURE 2512 2515	ECG
+T40	PROCEDURE 2640 2660	Radiografía de tórax
+T41	PROCEDURE 2743 2771	Ecocardiograma transtorácico
+T42	PROCEDURE 3068 3120	Reconstrucción 3D de angio-TC de arterias coronarias
+T43	PROCEDURE 3156 3185	Resonancia magnética cardiaca
+T44	PROCEDURE 3187 3190	RMC
+T45	PROCEDURE 3398 3411	eco gradiente
+T46	PROCEDURE 3778 3789	Inmunología
+T47	PROCEDURE 4167 4195	ecocardiograma transtorácico
+T48	PROCEDURE 4442 4467	TC de arterias coronarias
+T49	PROCEDURE 4571 4574	RMC
+T50	PROCEDURE 4713 4761	implante de desfibrilador automático implantable
+T51	PROCEDURE 5018 5031	test genético
+T52	PROCEDURE 1612 1622	Bioquímica
+T53	PROCEDURE 3791 3816	anticuerpos antinucleares
+T54	PROCEDURE 4115 4138	Cardioversión eléctrica
+T55	PROCEDURE 5325 5340	Implante de DAI
+T56	PROCEDURE 1499 1508	Analítica
+T57	SYMPTOM 649 654	mareo
+T58	SYMPTOM 657 667	sudoración
+T59	SYMPTOM 759 769	sudoración
+T60	SYMPTOM 771 787	malestar general
+T61	SYMPTOM 790 797	náuseas
+T62	SYMPTOM 807 820	palpitaciones
+T63	SYMPTOM 835 872	dolor torácico anginoso ni pleurítico
+T64	SYMPTOM 1176 1186	Consciente
+T65	SYMPTOM 1188 1197	orientado
+T66	SYMPTOM 1213 1231	eupneico en reposo
+T67	SYMPTOM 1256 1285	murmullo vesicular conservado
+T68	SYMPTOM 1290 1310	ruidos sobreañadidos
+T69	SYMPTOM 1335 1360	ruidos cardiacos rítmicos
+T70	SYMPTOM 1365 1371	soplos
+T71	SYMPTOM 1382 1436	Abdomen blando, depresible, no doloroso a la palpación
+T72	SYMPTOM 1438 1472	Extremidades inferiores sin edemas
+T73	SYMPTOM 2523 2536	ritmo sinusal
+T74	SYMPTOM 2538 2592	QRS con bajos voltajes en derivaciones de los miembros
+T75	SYMPTOM 2594 2638	onda T negativa V3-V6, I, aVL, II, III y aVF
+T76	SYMPTOM 2662 2703	índice cardiotorácico levemente aumentado
+T77	SYMPTOM 3905 3977	portador en homocigosis de la variante patogénica p.T335A en el gen DSG2
+T78	SYMPTOM 4141 4154	ritmo sinusal
+T79	SYMPTOM 5044 5133	positivo en homocigosis para la variante patogénica p.T335A en el gen de la desmogleína 2
+T80	SYMPTOM 2980 3023	anomalías segmentarias de la contractilidad
+T81	SYMPTOM 3122 3154	arterias coronarias sin lesiones
+T82	SYMPTOM 3497 3558	discinesia e hipocontractilidad en el tracto de salida del VD
+T83	SYMPTOM 3791 3826	anticuerpos antinucleares: negativo
+T84	SYMPTOM 3828 3893	Anticuerpos anticitoplasma de neutrófilos en vasculitis: negativo
+T85	SYMPTOM 5367 5440	Portador en homocigosis de variante patogénica en gen de la desmogleína 2
+T86	SYMPTOM 1200 1211	colaborador
+T87	SYMPTOM 267 276	fallecido
+T88	SYMPTOM 2498 2510	eje superior
+T89	SYMPTOM 4448 4480	arterias coronarias sin lesiones
+T90	MEDICATION 4879 4889	bisoprolol
+T91	MEDICATION 4892 4900	ramipril

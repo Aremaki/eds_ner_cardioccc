@@ -1,0 +1,115 @@
+T1	DISEASE 911 932	ritmo de escape nodal
+T2	DISEASE 75 98	alergias medicamentosas
+T3	DISEASE 110 119	Exfumador
+T4	DISEASE 178 199	hipertensión arterial
+T5	DISEASE 665 711	trastorno de la conducción auriculoventricular
+T6	DISEASE 871 898	bloqueo auriculoventricular
+T7	DISEASE 900 903	BAV
+T8	DISEASE 1073 1085	BAV completo
+T9	DISEASE 1743 1768	trombosis venosa profunda
+T10	DISEASE 1854 1866	BAV completo
+T11	DISEASE 3051 3100	Dilatación de ambas aurículas, grave de izquierda
+T12	DISEASE 3131 3144	valvulopatías
+T13	DISEASE 3776 3805	disfunción sistólica moderada
+T14	DISEASE 3927 3953	paroxismos de BAV completo
+T15	DISEASE 4258 4270	BAV completo
+T16	DISEASE 4947 4969	síndrome de tako-tsubo
+T17	DISEASE 5336 5384	Bloqueo auriculoventricular completo paroxístico
+T18	DISEASE 5426 5465	Síndrome de tako-tsubo posprocedimiento
+T19	DISEASE 5585 5620	Disfunción sistólica de VI moderada
+T20	DISEASE 4633 4653	lesión subepicárdica
+T21	DISEASE 2775 2827	VI de tamaño normal con hipertrofia concéntrica leve
+T22	DISEASE 716 756	bloqueo de segundo grado tipo Wenckebach
+T23	DISEASE 5218 5235	herida quirúrgica
+T24	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDURE 627 645	electrocardiograma
+T26	PROCEDURE 647 650	ECG
+T27	PROCEDURE 817 847	estudio con Holter de 24 horas
+T28	PROCEDURE 953 982	ecocardiografía transtorácica
+T29	PROCEDURE 1374 1395	Auscultación cardiaca
+T30	PROCEDURE 1456 1477	Auscultación pulmonar
+T31	PROCEDURE 1580 1598	palpación profunda
+T32	PROCEDURE 1795 1798	ECG
+T33	PROCEDURE 1977 1980	ECG
+T34	PROCEDURE 2046 2056	marcapasos
+T35	PROCEDURE 2153 2156	ECG
+T36	PROCEDURE 2220 2230	marcapasos
+T37	PROCEDURE 2251 2260	hemograma
+T38	PROCEDURE 2366 2377	Coagulación
+T39	PROCEDURE 2602 2622	RADIOGRAFÍA DE TÓRAX
+T40	PROCEDURE 2734 2762	ECOCARDIOGRAMA TRANSTORÁCICO
+T41	PROCEDURE 3284 3312	ECOCARDIOGRAMA TRANSTORÁCICO
+T42	PROCEDURE 3520 3548	ECOCARDIOGRAMA TRANSTORÁCICO
+T43	PROCEDURE 3657 3677	CATETERISMO CARDIACO
+T44	PROCEDURE 3846 3860	ecocardiograma
+T45	PROCEDURE 4108 4143	monitorización electrocardiográfica
+T46	PROCEDURE 4382 4425	se implanta marcapasos definitivo bicameral
+T47	PROCEDURE 4600 4603	ECG
+T48	PROCEDURE 4670 4684	ecocardiograma
+T49	PROCEDURE 4816 4831	coronariografía
+T50	PROCEDURE 4915 4931	ventriculografía
+T51	PROCEDURE 5386 5424	Implante de marcapasos definitivo DDDR
+T52	PROCEDURE 2431 2441	Bioquímica
+T53	PROCEDURE 1125 1139	monitorización
+T54	PROCEDURE 2232 2241	ANALÍTICA
+T55	SYMPTOM 349 378	disnea de moderados esfuerzos
+T56	SYMPTOM 429 434	mareo
+T57	SYMPTOM 437 451	visión borrosa
+T58	SYMPTOM 561 583	pérdida de consciencia
+T59	SYMPTOM 1262 1281	Buen estado general
+T60	SYMPTOM 1283 1293	consciente
+T61	SYMPTOM 1295 1304	orientado
+T62	SYMPTOM 1319 1327	eupneico
+T63	SYMPTOM 1330 1337	afebril
+T64	SYMPTOM 1339 1372	Presión venosa yugular no elevada
+T65	SYMPTOM 1374 1403	Auscultación cardiaca rítmica
+T66	SYMPTOM 1408 1448	soplo sistólico en foco mitral y aórtico
+T67	SYMPTOM 1456 1507	Auscultación pulmonar con murmullo vesicular normal
+T68	SYMPTOM 1513 1533	ruidos sobreañadidos
+T69	SYMPTOM 1535 1598	Abdomen blando, depresible, no doloroso a la palpación profunda
+T70	SYMPTOM 1604 1609	masas
+T71	SYMPTOM 1613 1628	visceromegalias
+T72	SYMPTOM 1630 1698	Pulsos periféricos positivos y simétricos en las cuatro extremidades
+T73	SYMPTOM 1700 1729	Miembros inferiores sin edema
+T74	SYMPTOM 1811 1828	actividad sinusal
+T75	SYMPTOM 1924 1936	QRS estrecho
+T76	SYMPTOM 1942 1975	alteraciones de la repolarización
+T77	SYMPTOM 1985 1990	dolor
+T78	SYMPTOM 1992 2005	ritmo sinusal
+T79	SYMPTOM 2058 2122	Elevación cóncava del ST de V2 a V6 y en derivaciones inferiores
+T80	SYMPTOM 2166 2179	ritmo sinusal
+T81	SYMPTOM 2190 2199	PR normal
+T82	SYMPTOM 2602 2630	RADIOGRAFÍA DE TÓRAX: normal
+T83	SYMPTOM 2775 2794	VI de tamaño normal
+T84	SYMPTOM 2862 2893	Función sistólica global normal
+T85	SYMPTOM 3008 3049	VD de tamaño y función sistólica normales
+T86	SYMPTOM 3161 3196	Vena cava inferior de tamaño normal
+T87	SYMPTOM 3265 3282	Pericardio normal
+T88	SYMPTOM 3388 3434	contractilidad preservada en segmentos basales
+T89	SYMPTOM 3458 3499	función sistólica moderadamente deprimida
+T90	SYMPTOM 3561 3585	función sistólica normal
+T91	SYMPTOM 3728 3773	Ventrículo izquierdo con acinesia medioapical
+T92	SYMPTOM 3982 3987	mareo
+T93	SYMPTOM 4518 4555	dolor centrotorácico opresivo intenso
+T94	SYMPTOM 4560 4578	cortejo vegetativo
+T95	SYMPTOM 4697 4757	alteraciones de la contractilidad en segmentos medioapicales
+T96	SYMPTOM 4762 4803	función sistólica moderadamente deprimida
+T97	SYMPTOM 4988 4993	dolor
+T98	SYMPTOM 5181 5193	asintomático
+T99	SYMPTOM 2899 2944	alteraciones de la contractilidad segmentaria
+T100	SYMPTOM 3610 3655	alteraciones de la contractilidad segmentaria
+T101	SYMPTOM 5048 5093	alteraciones de la contractilidad segmentaria
+T102	SYMPTOM 4215 4252	asintomático cardiovascular en reposo
+T103	SYMPTOM 3990 4008	disnea de esfuerzo
+T104	SYMPTOM 953 1023	ecocardiografía transtorácica que resulta compatible con la normalidad
+T105	SYMPTOM 5648 5687	acinesia de segmentos medios y apicales
+T106	SYMPTOM 5689 5736	Arterias coronarias sin lesiones significativas
+T107	SYMPTOM 5467 5485	Estrés psicológico
+T108	SYMPTOM 3679 3726	arterias coronarias sin lesiones significativas
+T109	SYMPTOM 4865 4912	arterias coronarias sin lesiones significativas
+T110	SYMPTOM 592 614	clínica cardiovascular
+T111	SYMPTOM 1306 1317	colaborador
+T112	SYMPTOM 4149 4157	nervioso
+T113	MEDICATION 231 241	olmesartán
+T114	MEDICATION 4344 4357	isoproterenol
+T115	MEDICATION 5545 5558	isoproterenol

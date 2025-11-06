@@ -1,0 +1,241 @@
+T1	DISEASE 81 116	reacciones alérgicas medicamentosas
+T2	DISEASE 121 133	hipertensión
+T3	DISEASE 137 154	diabetes mellitus
+T4	DISEASE 156 166	Dislipemia
+T5	DISEASE 168 178	Exfumadora
+T6	DISEASE 203 214	alcoholismo
+T7	DISEASE 216 224	Obesidad
+T8	DISEASE 330 364	trombosis venosa cerebral cortical
+T9	DISEASE 512 543	Hipermenorrea por mioma uterino
+T10	DISEASE 1461 1514	lesión subepicárdica en cara inferolateral y anterior
+T11	DISEASE 1708 1761	trombosis a nivel de descendente anterior (DA) ostial
+T12	DISEASE 2322 2345	fibrilación ventricular
+T13	DISEASE 2475 2499	trombosis seno cavernoso
+T14	DISEASE 2538 2541	HSA
+T15	DISEASE 2793 2821	disfunción ventricular grave
+T16	DISEASE 2844 2857	trombo apical
+T17	DISEASE 2879 2892	trombo apical
+T18	DISEASE 3172 3202	trombosis aguda de stent en DA
+T19	DISEASE 3948 3956	flebitis
+T20	DISEASE 4474 4495	Necrosis anteroseptal
+T21	DISEASE 6799 6812	trombo apical
+T22	DISEASE 6823 6862	disfunción ventricular izquierda severa
+T23	DISEASE 6887 6903	aneurisma apical
+T24	DISEASE 7015 7107	Insuficiencia mitral ligera-moderada (grado II/IV) secundaria a retracción de velo posterior
+T25	DISEASE 8153 8172	necrosis transmural
+T26	DISEASE 8279 8304	obstrucción microvascular
+T27	DISEASE 8405 8434	derrame pericárdico y pleural
+T28	DISEASE 8455 8488	cardiopatía isquémica aguda de VI
+T29	DISEASE 8703 8726	trombo intraventricular
+T30	DISEASE 8911 8941	derrame pleural ni pericárdico
+T31	DISEASE 9258 9308	dilatación de la vía biliar intra ni extrahepática
+T32	DISEASE 10161 10184	arritmias ventriculares
+T33	DISEASE 10323 10351	disfunción ventricular grave
+T34	DISEASE 10376 10397	trombo intracavitario
+T35	DISEASE 10682 10704	insuficiencia cardiaca
+T36	DISEASE 11136 11147	trombofilia
+T37	DISEASE 11350 11372	insuficiencia cardiaca
+T38	DISEASE 11979 12017	oclusión aguda trombótica de DA ostial
+T39	DISEASE 12116 12141	trombosis aguda del stent
+T40	DISEASE 12171 12209	Disfunción ventricular sistólica grave
+T41	DISEASE 12211 12227	Aneurisma apical
+T42	DISEASE 12229 12239	Dislipemia
+T43	DISEASE 11960 11967	IAMCEST
+T44	DISEASE 6713 6715	IT
+T45	DISEASE 7641 7657	edema miocárdico
+T46	DISEASE 10737 10774	episodios sincopales ni presincopales
+T47	DISEASE 10071 10082	hipotensión
+T48	DISEASE 8611 8630	necrosis transmural
+T49	DISEASE 1261 1271	presíncope
+T50	DISEASE 1816 1822	trombo
+T51	DISEASE 6992 7013	trombo a nivel apical
+T52	DISEASE 424 435	trombofilia
+T53	DISEASE 5438 5449	trombofilia
+T54	DISEASE 2512 2536	hemorragia subaracnoidea
+T55	DISEASE 10974 10997	eventos tromboembólicos
+T56	DISEASE 9034 9040	miomas
+T57	DISEASE 9572 9599	afectación ósea metastásica
+T58	DISEASE 369 402	hemorragia subaracnoidea parietal
+T59	DISEASE 3329 3364	disección de borde distal del stent
+T60	DISEASE 3393 3409	molde trombótico
+T61	PROCEDURE 413 435	Estudio de trombofilia
+T62	PROCEDURE 581 596	colecistectomía
+T63	PROCEDURE 835 850	anticoagulación
+T64	PROCEDURE 888 914	tratamiento anticoagulante
+T65	PROCEDURE 1213 1245	antiinflamatorios no esteroideos
+T66	PROCEDURE 1401 1419	electrocardiograma
+T67	PROCEDURE 1421 1424	ECG
+T68	PROCEDURE 1585 1673	cateterismo emergente por vía radial izquierda según técnica habitual con introductor 6F
+T69	PROCEDURE 1774 1790	tromboaspiración
+T70	PROCEDURE 1904 1938	se implanta un stent farmacoactivo
+T71	PROCEDURE 1941 1997	se posdilata el segmento proximal del stent con un balón
+T72	PROCEDURE 2184 2248	manipulación con guía/balón de intervención coronaria percutánea
+T73	PROCEDURE 2250 2253	ICP
+T74	PROCEDURE 2389 2412	cardioversión eléctrica
+T75	PROCEDURE 2569 2583	antiagregación
+T76	PROCEDURE 2750 2788	ecocardiografía transtorácica portátil
+T77	PROCEDURE 2926 2941	anticoagulantes
+T78	PROCEDURE 3132 3147	coronariografía
+T79	PROCEDURE 3538 3554	tromboaspiración
+T80	PROCEDURE 3630 3648	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 3731 3753	Ventimask con FiO2 50%
+T82	PROCEDURE 3983 3986	ECG
+T83	PROCEDURE 3988 3991	ECG
+T84	PROCEDURE 4172 4175	ECG
+T85	PROCEDURE 4196 4207	cateterismo
+T86	PROCEDURE 4402 4405	ECG
+T87	PROCEDURE 4419 4422	ECG
+T88	PROCEDURE 4497 4517	Radiografía de tórax
+T89	PROCEDURE 4655 4664	Hemograma
+T90	PROCEDURE 5037 5052	Perfil lipídico
+T91	PROCEDURE 5158 5184	Perfil glucémicometabólico
+T92	PROCEDURE 5254 5268	Perfil férrico
+T93	PROCEDURE 5431 5449	Perfil trombofilia
+T94	PROCEDURE 5886 5906	Marcadores tumorales
+T95	PROCEDURE 6081 6100	Perfil inmunológico
+T96	PROCEDURE 6458 6472	Ecocardiograma
+T97	PROCEDURE 7244 7273	Resonancia magnética cardiaca
+T98	PROCEDURE 7275 7278	RMC
+T99	PROCEDURE 7614 7629	secuencias STIR
+T100	PROCEDURE 7877 7940	Estudio de perfusión (vídeo 10): Se administra ácido gadotérico
+T101	PROCEDURE 8728 8741	TC Total Body
+T102	PROCEDURE 8743 8755	TAC torácico
+T103	PROCEDURE 8943 8962	TAC abdominopélvico
+T104	PROCEDURE 9310 9325	Colecistectomía
+T105	PROCEDURE 9810 9859	implante de balón de contrapulsación intraaórtico
+T106	PROCEDURE 9892 9924	destete del soporte hemodinámico
+T107	PROCEDURE 9930 9966	retirada de balón de contrapulsación
+T108	PROCEDURE 10306 10309	RMN
+T109	PROCEDURE 11116 11147	estudio completo de trombofilia
+T110	PROCEDURE 11160 11184	TC-toracoabdominopélvico
+T111	PROCEDURE 2415 2433	soporte vasoactivo
+T112	PROCEDURE 9739 9788	soporte vasoactivo con noradrenalina y dobutamina
+T113	PROCEDURE 4833 4843	Bioquímica
+T114	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T115	PROCEDURE 4898 4908	Hemostasia
+T116	PROCEDURE 6275 6278	IFI
+T117	PROCEDURE 6197 6220	ANA inmunofluorescencia
+T118	PROCEDURE 10191 10205	monitorización
+T119	PROCEDURE 1870 1902	Se predilata la lesión con balón
+T120	PROCEDURE 12019 12066	Angioplastia primaria con implante de DES en DA
+T121	PROCEDURE 4644 4653	Analítica
+T122	PROCEDURE 8065 8110	Estudio de detección de necrosis y viabilidad
+T123	PROCEDURE 545 571	Intervenciones quirúrgicas
+T124	PROCEDURE 11213 11222	analítica
+T125	PROCEDURE 2138 2173	nitroglicerina (NTG) intracoronaria
+T126	PROCEDURE 3191 3239	stent en DA realizándose predilatación con balón
+T127	SYMPTOM 413 444	Estudio de trombofilia negativo
+T128	SYMPTOM 978 1001	dolor torácico opresivo
+T129	SYMPTOM 1036 1131	epigastralgia de moderada intensidad con posterior irradiación a región centrotorácica y cuello
+T130	SYMPTOM 1143 1161	cortejo vegetativo
+T131	SYMPTOM 1250 1256	disnea
+T132	SYMPTOM 1292 1306	dolor torácico
+T133	SYMPTOM 1341 1346	dolor
+T134	SYMPTOM 2350 2376	inestabilidad hemodinámica
+T135	SYMPTOM 3008 3013	dolor
+T136	SYMPTOM 3035 3058	ascenso del segmento ST
+T137	SYMPTOM 3755 3779	Tonos cardiacos rítmicos
+T138	SYMPTOM 3805 3834	Murmullo vesicular conservado
+T139	SYMPTOM 3854 3888	Extremidades inferiores sin edemas
+T140	SYMPTOM 3890 3933	pulsos periféricos conservados y simétricos
+T141	SYMPTOM 4048 4057	PR normal
+T142	SYMPTOM 4059 4071	QRS estrecho
+T143	SYMPTOM 4073 4102	Onda Q en II, III y aVF, V3-6
+T144	SYMPTOM 4224 4229	dolor
+T145	SYMPTOM 4262 4271	PR normal
+T146	SYMPTOM 4273 4285	QRS estrecho
+T147	SYMPTOM 4287 4337	Elevación del ST en II, III y aVF así como de V4-6
+T148	SYMPTOM 4368 4400	descenso del ST en I, aVL, V1-V2
+T149	SYMPTOM 4424 4437	Ritmo sinusal
+T150	SYMPTOM 4449 4458	PR normal
+T151	SYMPTOM 4460 4472	QRS estrecho
+T152	SYMPTOM 4541 4568	ICT dentro de la normalidad
+T153	SYMPTOM 4619 4642	redistribución vascular
+T154	SYMPTOM 5639 5668	Anticardiolipina IgG negativo
+T155	SYMPTOM 5674 5703	anticardiolipina IgM negativo
+T156	SYMPTOM 5821 5845	factor V Leiden negativo
+T157	SYMPTOM 6633 6682	VD de tamaño normal con contractilidad conservada
+T158	SYMPTOM 7180 7205	Ventrículo derecho normal
+T159	SYMPTOM 7281 7305	VI de volúmenes normales
+T160	SYMPTOM 7687 7701	VD no dilatado
+T161	SYMPTOM 7735 7770	función global sistólica conservada
+T162	SYMPTOM 7842 7875	Aurículas de dimensiones normales
+T163	SYMPTOM 8493 8514	volúmenes conservados
+T164	SYMPTOM 8558 8579	alteración contráctil
+T165	SYMPTOM 8581 8586	edema
+T166	SYMPTOM 8794 8842	formaciones ganglionares de tamaño significativo
+T167	SYMPTOM 8859 8866	nódulos
+T168	SYMPTOM 8870 8895	condensaciones pulmonares
+T169	SYMPTOM 8964 9002	útero heterogéneo, aumentado de tamaño
+T170	SYMPTOM 9417 9493	formaciones ganglionares de tamaño significativo en cadenas abdominopélvicas
+T171	SYMPTOM 9495 9545	Normal calibre y distribución de asas intestinales
+T172	SYMPTOM 9693 9715	labilidad hemodinámica
+T173	SYMPTOM 10071 10082	hipotensión
+T174	SYMPTOM 10580 10594	dolor torácico
+T175	SYMPTOM 10620 10648	disnea a moderados esfuerzos
+T176	SYMPTOM 10722 10735	palpitaciones
+T177	SYMPTOM 4017 4036	taquicardia sinusal
+T178	SYMPTOM 4231 4250	taquicardia sinusal
+T179	SYMPTOM 4342 4365	onda Q en II, III y aVF
+T180	SYMPTOM 4573 4607	pinzamiento de senos costofrénicos
+T181	SYMPTOM 5705 5740	beta 2 glicoproteína-I IgG negativo
+T182	SYMPTOM 5742 5777	beta 2 glicoproteína-I IgM negativo
+T183	SYMPTOM 5847 5884	factor II (mutación G20210A) negativo
+T184	SYMPTOM 6506 6572	acinesia de todos los segmentos apicales, anterior y lateral medio
+T185	SYMPTOM 6906 6978	hipocinesia marcada de segmentos medios anteriores, laterales y septales
+T186	SYMPTOM 7538 7594	depresión grave de la función global sistólica en reposo
+T187	SYMPTOM 9184 9220	Hígado de tamaño y morfología normal
+T188	SYMPTOM 5534 5564	anticoagulante lúpico negativo
+T189	SYMPTOM 11200 11210	tumoración
+T190	SYMPTOM 6197 6229	ANA inmunofluorescencia positivo
+T191	SYMPTOM 446 458	ANA Positivo
+T192	SYMPTOM 470 488	clínica autoinmune
+T193	SYMPTOM 512 525	Hipermenorrea
+T194	SYMPTOM 1675 1693	Dominancia derecha
+T195	SYMPTOM 6289 6311	ENA screening negativo
+T196	SYMPTOM 6268 6288	patrón IFI homogéneo
+T197	SYMPTOM 7142 7178	aumento de presiones telediastólicas
+T198	SYMPTOM 7231 7242	aumento PAP
+T199	SYMPTOM 7784 7840	Aorta y grandes vasos de diámetros y morfología normales
+T200	SYMPTOM 8004 8035	defectos de perfusión en reposo
+T201	SYMPTOM 8125 8139	RTG miocárdico
+T202	SYMPTOM 8517 8542	depresión grave de la FGS
+T203	SYMPTOM 8588 8608	defecto de perfusión
+T204	SYMPTOM 4083 4121	II, III y aVF, V3-6 con ascenso del ST
+T205	SYMPTOM 4119 4170	ST en dichas derivaciones y descenso en I, aVL V1-2
+T206	MEDICATION 633 646	atorvastatina
+T207	MEDICATION 662 672	citicolina
+T208	MEDICATION 704 716	acenocumarol
+T209	MEDICATION 2138 2152	nitroglicerina
+T210	MEDICATION 2154 2157	NTG
+T211	MEDICATION 2595 2604	abciximab
+T212	MEDICATION 2631 2653	ácido acetilsalicílico
+T213	MEDICATION 2655 2658	AAS
+T214	MEDICATION 2679 2690	clopidogrel
+T215	MEDICATION 2906 2917	enoxaparina
+T216	MEDICATION 3431 3440	tirofibán
+T217	MEDICATION 9762 9775	noradrenalina
+T218	MEDICATION 9778 9788	dobutamina
+T219	MEDICATION 9969 9979	dobutamina
+T220	MEDICATION 10029 10042	noradrenalina
+T221	MEDICATION 10054 10066	levosimendán
+T222	MEDICATION 10097 10110	noradrenalina
+T223	MEDICATION 10847 10857	bisoprolol
+T224	MEDICATION 10868 10877	enalapril
+T225	MEDICATION 10890 10900	eplerenona
+T226	MEDICATION 10912 10922	ivabradina
+T227	MEDICATION 11080 11092	acenocumarol
+T228	MEDICATION 11412 11423	Enoxaparina
+T229	MEDICATION 11487 11499	acenocumarol
+T230	MEDICATION 11501 11513	acenocumarol
+T231	MEDICATION 11546 11549	AAS
+T232	MEDICATION 11584 11594	Ticagrelol
+T233	MEDICATION 11635 11648	Atorvastatina
+T234	MEDICATION 11678 11688	Bisoprolol
+T235	MEDICATION 11728 11738	Ivabradina
+T236	MEDICATION 11778 11788	Eplerenona
+T237	MEDICATION 11820 11829	Enalapril
+T238	MEDICATION 11860 11870	Furosemida
+T239	MEDICATION 11904 11913	Omeprazol
+#1	AnnotatorNotes T14	  hemorragia subaracnoidea
+#2	AnnotatorNotes T116	  inmunofluorescencia indirecta

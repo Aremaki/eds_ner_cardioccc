@@ -1,0 +1,98 @@
+T1	ENFERMEDAD 100 123	alergias medicamentosas
+T2	ENFERMEDAD 212 231	deterioro cognitivo
+T3	ENFERMEDAD 233 242	Exfumador
+T4	ENFERMEDAD 258 267	exbebedor
+T5	ENFERMEDAD 304 328	enfermedades metabólicas
+T6	ENFERMEDAD 386 407	fibrilación auricular
+T7	ENFERMEDAD 409 411	FA
+T8	ENFERMEDAD 555 577	cataratas (ambos ojos)
+T9	ENFERMEDAD 762 764	FA
+T10	ENFERMEDAD 1825 1850	trombosis venosa profunda
+T11	ENFERMEDAD 2225 2227	FA
+T12	ENFERMEDAD 2265 2314	bloqueo incompleto de rama derecha del haz de His
+T13	ENFERMEDAD 3302 3327	insuficiencia tricuspídea
+T14	ENFERMEDAD 3427 3448	hipertensión pulmonar
+T15	ENFERMEDAD 3562 3581	derrame pericárdico
+T16	ENFERMEDAD 3738 3744	mixoma
+T17	ENFERMEDAD 4096 4115	lesiones coronarias
+T18	ENFERMEDAD 4194 4200	mixoma
+T19	ENFERMEDAD 4263 4326	Mixoma asentado en vertiente auricular de la válvula tricúspide
+T20	ENFERMEDAD 4328 4342	FA paroxística
+T21	ENFERMEDAD 2316 2322	BIRDHH
+T22	ENFERMEDAD 2430 2436	BIRDHH
+T23	ENFERMEDAD 954 956	FA
+T24	ENFERMEDAD 2995 3022	Válvula aórtica esclerótica
+T25	ENFERMEDAD 1264 1272	síncopes
+T26	PROCEDIMIENTO 488 508	anticoagulación oral
+T27	PROCEDIMIENTO 1392 1410	EXPLORACIÓN FÍSICA
+T28	PROCEDIMIENTO 1582 1603	Auscultación cardiaca
+T29	PROCEDIMIENTO 1644 1665	Auscultación pulmonar
+T30	PROCEDIMIENTO 1744 1753	palpación
+T31	PROCEDIMIENTO 2029 2038	Hemograma
+T32	PROCEDIMIENTO 2122 2133	Coagulación
+T33	PROCEDIMIENTO 2186 2204	Electrocardiograma
+T34	PROCEDIMIENTO 2206 2209	ECG
+T35	PROCEDIMIENTO 2361 2364	ECG
+T36	PROCEDIMIENTO 2474 2501	Radiografía simple de tórax
+T37	PROCEDIMIENTO 2580 2608	Ecocardiograma transtorácico
+T38	PROCEDIMIENTO 2610 2613	ETT
+T39	PROCEDIMIENTO 3860 3911	intervención quirúrgica para extirpación de la masa
+T40	PROCEDIMIENTO 4065 4080	coronariografía
+T41	PROCEDIMIENTO 4207 4226	estudio histológico
+T42	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDIMIENTO 1889 1899	bioquímica
+T44	PROCEDIMIENTO 527 577	Intervenciones quirúrgicas: cataratas (ambos ojos)
+T45	PROCEDIMIENTO 1878 1887	Analítica
+T46	SINTOMA 828 833	mareo
+T47	SINTOMA 836 858	pérdida de consciencia
+T48	SINTOMA 1174 1180	disnea
+T49	SINTOMA 1182 1196	dolor torácico
+T50	SINTOMA 1213 1226	palpitaciones
+T51	SINTOMA 1254 1260	mareos
+T52	SINTOMA 1469 1488	Buen estado general
+T53	SINTOMA 1490 1500	Consciente
+T54	SINTOMA 1502 1511	orientado
+T55	SINTOMA 1514 1525	colaborador
+T56	SINTOMA 1527 1535	Eupneico
+T57	SINTOMA 1537 1545	Delgadez
+T58	SINTOMA 1548 1563	palidez cutánea
+T59	SINTOMA 1565 1580	Bien perfundido
+T60	SINTOMA 1605 1630	ruidos cardiacos rítmicos
+T61	SINTOMA 1636 1642	soplos
+T62	SINTOMA 1667 1696	murmullo vesicular conservado
+T63	SINTOMA 1698 1753	Abdomen: blando, depresible, no doloroso a la palpación
+T64	SINTOMA 1759 1764	masas
+T65	SINTOMA 1768 1776	megalias
+T66	SINTOMA 1806 1811	edema
+T67	SINTOMA 2390 2403	ritmo sinusal
+T68	SINTOMA 2405 2407	RS
+T69	SINTOMA 2419 2428	PR normal
+T70	SINTOMA 2442 2472	alteraciones de repolarización
+T71	SINTOMA 2503 2531	índice cardiotorácico normal
+T72	SINTOMA 2537 2551	condensaciones
+T73	SINTOMA 2555 2578	redistribución vascular
+T74	SINTOMA 2680 2711	función sistólica global normal
+T75	SINTOMA 2775 2805	Ventrículo derecho no dilatado
+T76	SINTOMA 2927 2960	elevación de presiones de llenado
+T77	SINTOMA 2972 2993	Válvula mitral normal
+T78	SINTOMA 3057 3083	Aurículas de tamaño normal
+T79	SINTOMA 3907 3911	masa
+T80	SINTOMA 1290 1313	síndrome constitucional
+T81	SINTOMA 2728 2773	alteraciones de la contractilidad segmentaria
+T82	SINTOMA 2823 2847	función sistólica normal
+T83	SINTOMA 988 1001	ritmo sinusal
+T84	SINTOMA 2329 2359	alteraciones de repolarización
+T85	SINTOMA 2616 2648	ventrículo izquierdo no dilatado
+T86	SINTOMA 3135 3201	Masa implantada en la vertiente auricular de la válvula tricúspide
+T87	SINTOMA 3532 3557	Vena cava inferior normal
+T88	SINTOMA 3652 3718	masa implantada en la vertiente auricular de la válvula tricúspide
+T89	SINTOMA 2860 2891	Patrón de llenado mitral normal
+T90	SINTOMA 2995 3055	Válvula aórtica esclerótica, parece trivalva, función normal
+T91	FARMACO 513 525	acenocumarol
+T92	FARMACO 599 608	omeprazol
+T93	FARMACO 620 632	acenocumarol
+T94	FARMACO 664 675	clometiazol
+T95	FARMACO 1030 1042	acenocumarol
+T96	FARMACO 1045 1055	amiodarona
+T97	FARMACO 1110 1120	amiodarona
+#1	AnnotatorNotes T23	  Fibrilación auricular

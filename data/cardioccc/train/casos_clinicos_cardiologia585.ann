@@ -1,0 +1,107 @@
+T1	DISEASE 2891 2925	ventrículo izquierdo (VI) dilatado
+T2	DISEASE 3500 3511	VI dilatado
+T3	DISEASE 4011 4036	mala perfusión periférica
+T4	DISEASE 97 120	alergias medicamentosas
+T5	DISEASE 243 271	hipercolesterolemia familiar
+T6	DISEASE 363 378	hábitos tóxicos
+T7	DISEASE 416 425	sobrepeso
+T8	DISEASE 480 501	cardiopatía isquémica
+T9	DISEASE 2101 2140	Oclusión aguda completa de tronco común
+T10	DISEASE 2435 2454	lesión grave ostial
+T11	DISEASE 2944 2970	disfunción sistólica grave
+T12	DISEASE 3073 3094	Insuficiencia aórtica
+T13	DISEASE 3109 3143	Insuficiencia mitral (IM) moderada
+T14	DISEASE 3674 3685	IM moderada
+T15	DISEASE 3986 4006	hipotensión arterial
+T16	DISEASE 4134 4160	insuficiencia respiratoria
+T17	DISEASE 5334 5365	insuficiencia cardiaca avanzada
+T18	DISEASE 6638 6694	Infarto agudo de miocardio con elevación del segmento ST
+T19	DISEASE 6696 6703	IAMCEST
+T20	DISEASE 6733 6799	Enfermedad coronaria de tronco coronario común: oclusión TC distal
+T21	DISEASE 6800 6839	Miocardiopatía dilatada (MCD) isquémica
+T22	DISEASE 6825 6839	MCD) isquémica
+T23	DISEASE 6910 6928	Anemia ferropénica
+T24	DISEASE 6930 6958	Hipercolesterolemia familiar
+T25	DISEASE 2154 2211	Arteria descendente anterior izquierda (DA): vaso ocluido
+T26	DISEASE 2456 2512	Arteria circunfleja (CX) izquierda proximal vaso ocluido
+T27	DISEASE 3096 3099	IAo
+T28	DISEASE 3131 3133	IM
+T29	DISEASE 3662 3665	IAo
+T30	DISEASE 6885 6908	Glucemia basal alterada
+T31	DISEASE 2547 2653	Arteria coronaria derecha (CD): vaso dominante, de gran calibre, ectásico y con enfermedad difusa moderada
+T32	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T33	PROCEDURE 880 898	electrocardiograma
+T34	PROCEDURE 1087 1105	Exploración física
+T35	PROCEDURE 1269 1289	oxígeno a bajo flujo
+T36	PROCEDURE 1399 1412	gafas nasales
+T37	PROCEDURE 1447 1468	auscultación cardiaca
+T38	PROCEDURE 1511 1532	auscultación pulmonar
+T39	PROCEDURE 1669 1687	Electrocardiograma
+T40	PROCEDURE 1689 1692	ECG
+T41	PROCEDURE 1809 1828	Analítica de sangre
+T42	PROCEDURE 2084 2099	Coronariografía
+T43	PROCEDURE 2666 2856	intervencionismo coronario percutáneo mediante implante de stents farmacoactivos a nivel de TC distal dirigido hacia DA y posteriormente a nivel de TC distal hacia Cx-primera marginal obtusa
+T44	PROCEDURE 2858 2872	Ecocardiograma
+T45	PROCEDURE 3187 3206	Analítica de sangre
+T46	PROCEDURE 3418 3432	Ecocardiograma
+T47	PROCEDURE 3460 3483	rehabilitación cardiaca
+T48	PROCEDURE 3695 3714	Analítica de sangre
+T49	PROCEDURE 3856 3883	intervencionismo percutáneo
+T50	PROCEDURE 4061 4108	drogas vasoactivas (dobutamina y noradrenalina)
+T51	PROCEDURE 4173 4205	ventilación mecánica no invasiva
+T52	PROCEDURE 4270 4294	balón de contrapulsación
+T53	PROCEDURE 4296 4301	BCIAo
+T54	PROCEDURE 4409 4438	destete de drogas vasoactivas
+T55	PROCEDURE 4444 4462	retirada del BCIAo
+T56	PROCEDURE 4678 4699	diurético intravenoso
+T57	PROCEDURE 4905 4919	ecocardiograma
+T58	PROCEDURE 5033 5087	tratamiento diurético oral con furosemida y eplerenona
+T59	PROCEDURE 5247 5270	rehabilitación cardiaca
+T60	PROCEDURE 6059 6110	inhibidor de neprilisina y receptor de angiotensina
+T61	PROCEDURE 6159 6193	carboximaltosa férrica intravenosa
+T62	PROCEDURE 6235 6249	perfil férrico
+T63	PROCEDURE 1970 1980	Bioquímica
+T64	PROCEDURE 5114 5128	betabloqueante
+T65	PROCEDURE 5655 5671	ergoespirometría
+T66	PROCEDURE 1291 1309	Constantes vitales
+T67	PROCEDURE 4814 4839	tratamiento neurohormonal
+T68	PROCEDURE 1060 1084	se activa código infarto
+T69	PROCEDURE 6112 6116	ARNI
+T70	SYMPTOM 546 554	falleció
+T71	SYMPTOM 715 744	dolor centrotorácico opresivo
+T72	SYMPTOM 749 767	cortejo vegetativo
+T73	SYMPTOM 841 855	dolor torácico
+T74	SYMPTOM 953 982	elevación de ST anterolateral
+T75	SYMPTOM 1208 1233	hemodinámicamente estable
+T76	SYMPTOM 1235 1250	bien perfundido
+T77	SYMPTOM 1422 1440	Eupneico en reposo
+T78	SYMPTOM 1447 1483	auscultación cardiaca tonos rítmicos
+T79	SYMPTOM 1488 1494	soplos
+T80	SYMPTOM 1542 1563	crepitantes bibasales
+T81	SYMPTOM 1568 1576	megalias
+T82	SYMPTOM 1578 1604	ingurgitación yugular leve
+T83	SYMPTOM 1609 1642	edemas en extremidades inferiores
+T84	SYMPTOM 1695 1708	ritmo sinusal
+T85	SYMPTOM 1728 1767	supradesnivelación de ST V1-V4, I y AVL
+T86	SYMPTOM 2994 3017	asimetrías contráctiles
+T87	SYMPTOM 3019 3071	Cavidades derechas de tamaño y contractilidad normal
+T88	SYMPTOM 3153 3185	Presión pulmonar estimada normal
+T89	SYMPTOM 3500 3559	VI dilatado (DTDVI 61 mm) con función ligeramente deprimida
+T90	SYMPTOM 3583 3606	asimetrías contráctiles
+T91	SYMPTOM 3986 4006	hipotensión arterial
+T92	SYMPTOM 4943 4983	función ventricular gravemente deprimida
+T93	SYMPTOM 6844 6884	función ventricular gravemente deprimida
+T94	SYMPTOM 4588 4605	datos congestivos
+T95	SYMPTOM 3608 3660	Cavidades derechas de tamaño y contractilidad normal
+T96	MEDICATION 206 229	ezetimiba/atorvastatina
+T97	MEDICATION 1018 1028	ticagrelor
+T98	MEDICATION 1040 1048	aspirina
+T99	MEDICATION 1269 1276	oxígeno
+T100	MEDICATION 4081 4091	dobutamina
+T101	MEDICATION 4094 4107	noradrenalina
+T102	MEDICATION 5064 5074	furosemida
+T103	MEDICATION 5077 5087	eplerenona
+T104	MEDICATION 5854 5864	furosemida
+T105	MEDICATION 5890 5900	eplerenona
+T106	MEDICATION 5997 6047	inhibidor del cotransportador sodio-glucosa tipo 2
+T107	MEDICATION 6049 6055	iSGLT2

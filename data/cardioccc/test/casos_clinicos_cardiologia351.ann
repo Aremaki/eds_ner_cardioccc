@@ -1,0 +1,135 @@
+T1	ENFERMEDAD 305 326	hipertensión arterial
+T2	ENFERMEDAD 328 336	diabetes
+T3	ENFERMEDAD 339 349	dislipemia
+T4	ENFERMEDAD 373 398	enfermedad cardiovascular
+T5	ENFERMEDAD 427 445	faringitis crónica
+T6	ENFERMEDAD 447 482	hernia discal a nivel C5-C6 y C7-D1
+T7	ENFERMEDAD 985 1003	pancreatitis aguda
+T8	ENFERMEDAD 1138 1155	pancreatitis leve
+T9	ENFERMEDAD 1386 1402	mixoma auricular
+T10	ENFERMEDAD 1939 1995	adenopatías palpables a nivel cervical, axilar, inguinal
+T11	ENFERMEDAD 3679 3713	bloqueo incompleto de rama derecha
+T12	ENFERMEDAD 3839 3926	aumento de cabeza y proceso uncinado pancreático con infiltración de la grasa adyacente
+T13	ENFERMEDAD 3971 3994	pancreatitis aguda leve
+T14	ENFERMEDAD 3996 4035	Esteatosis hepática, con varios quistes
+T15	ENFERMEDAD 4045 4064	Vesícula alitiásica
+T16	ENFERMEDAD 4070 4119	dilatación de vías biliares intra o extrahepática
+T17	ENFERMEDAD 5095 5118	mixoma atrial izquierdo
+T18	ENFERMEDAD 5398 5418	Insuficiencia mitral
+T19	ENFERMEDAD 5575 5597	insuficiencia valvular
+T20	ENFERMEDAD 5642 5673	lesiones en arterias coronarias
+T21	ENFERMEDAD 5988 6004	mixoma auricular
+T22	ENFERMEDAD 6039 6048	trombosis
+T23	ENFERMEDAD 6089 6105	mixoma auricular
+T24	ENFERMEDAD 6351 6369	cuadro pancreático
+T25	ENFERMEDAD 6680 6698	cuadro pancreático
+T26	ENFERMEDAD 7062 7078	mixoma auricular
+T27	ENFERMEDAD 7114 7123	trombosis
+T28	ENFERMEDAD 7251 7279	taquicardia supraventricular
+T29	ENFERMEDAD 7305 7322	flutter auricular
+T30	ENFERMEDAD 7459 7472	taquiarritmia
+T31	ENFERMEDAD 7484 7505	fibrilación auricular
+T32	ENFERMEDAD 7670 7706	bloqueo auriculoventricular completo
+T33	ENFERMEDAD 7865 7873	arritmia
+T34	ENFERMEDAD 8102 8131	flutter auricular antihorario
+T35	ENFERMEDAD 8257 8265	arritmia
+T36	ENFERMEDAD 8623 8646	Pancreatitis aguda leve
+T37	ENFERMEDAD 8659 8696	Flutter auricular Ístmico antihorario
+T38	ENFERMEDAD 8719 8740	Fibrilación auricular
+T39	ENFERMEDAD 4847 4874	Aurícula izquierda dilatada
+T40	ENFERMEDAD 8809 8827	Disfunción sinusal
+T41	ENFERMEDAD 191 206	Hábitos tóxicos
+T42	ENFERMEDAD 8595 8621	Mixoma auricular izquierdo
+T43	ENFERMEDAD 4776 4845	Válvula aórtica trivalva con afectación degenerativa de carácter leve
+T44	ENFERMEDAD 208 222	fumador activo
+T45	ENFERMEDAD 6227 6253	mixoma auricular izquierdo
+T46	PROCEDIMIENTO 1074 1101	TC de abdomen con contraste
+T47	PROCEDIMIENTO 1565 1583	EXPLORACIÓN FÍSICA
+T48	PROCEDIMIENTO 1718 1732	pulsioximetría
+T49	PROCEDIMIENTO 2053 2074	Auscultación cardiaca
+T50	PROCEDIMIENTO 2134 2155	Auscultación pulmonar
+T51	PROCEDIMIENTO 2334 2356	auscultación abdominal
+T52	PROCEDIMIENTO 2519 2528	Hemograma
+T53	PROCEDIMIENTO 2762 2773	Coagulación
+T54	PROCEDIMIENTO 2800 2820	Bioquímica sanguínea
+T55	PROCEDIMIENTO 3293 3313	Radiografía de tórax
+T56	PROCEDIMIENTO 3436 3454	Electrocardiograma
+T57	PROCEDIMIENTO 3456 3459	ECG
+T58	PROCEDIMIENTO 3794 3830	TC con contraste de abdomen y pelvis
+T59	PROCEDIMIENTO 4503 4532	Ecocardiografía transtorácica
+T60	PROCEDIMIENTO 5240 5255	Estudio Doppler
+T61	PROCEDIMIENTO 5599 5614	Coronariografía
+T62	PROCEDIMIENTO 5675 5714	Anatomía patológica de la masa resecada
+T63	PROCEDIMIENTO 6112 6114	TC
+T64	PROCEDIMIENTO 6142 6171	ecocardiografía transtorácica
+T65	PROCEDIMIENTO 6174 6189	coronariografía
+T66	PROCEDIMIENTO 6278 6300	cirugía cardiovascular
+T67	PROCEDIMIENTO 6616 6628	TC abdominal
+T68	PROCEDIMIENTO 6797 6833	apertura mediante esternotomía media
+T69	PROCEDIMIENTO 6873 6891	atriotomía derecha
+T70	PROCEDIMIENTO 6896 6927	reseca la masa atrial izquierda
+T71	PROCEDIMIENTO 6951 7010	cerrando el defecto septal residual mediante sutura directa
+T72	PROCEDIMIENTO 7015 7034	anatomía patológica
+T73	PROCEDIMIENTO 7397 7420	cardioversión eléctrica
+T74	PROCEDIMIENTO 7570 7595	tratamiento antiarrítmico
+T75	PROCEDIMIENTO 7781 7808	adición de beta bloqueantes
+T76	PROCEDIMIENTO 8051 8077	estudio electrofisiológico
+T77	PROCEDIMIENTO 8144 8186	ablación exitosa del istmo cavotricuspídeo
+T78	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDIMIENTO 8659 8709	Flutter auricular Ístmico antihorario con ablación
+T80	PROCEDIMIENTO 8413 8453	implante de marcapasos definitivo (DDDR)
+T81	PROCEDIMIENTO 8845 8883	implante de marcapasos definitivo DDDR
+T82	PROCEDIMIENTO 8340 8390	colocar un dispositivo de estimulación transitorio
+T83	PROCEDIMIENTO 2497 2506	Analítica
+T84	PROCEDIMIENTO 3128 3139	Urianálisis
+T85	SINTOMA 685 707	dolor abdominal difuso
+T86	SINTOMA 709 716	náuseas
+T87	SINTOMA 719 726	vómitos
+T88	SINTOMA 815 835	sensación distérmica
+T89	SINTOMA 884 894	diaforesis
+T90	SINTOMA 1005 1049	aumento amilasa en sangre, así como en orina
+T91	SINTOMA 1734 1758	Aceptable estado general
+T92	SINTOMA 1760 1770	Consciente
+T93	SINTOMA 1772 1781	orientado
+T94	SINTOMA 1797 1822	Estable hemodinámicamente
+T95	SINTOMA 1824 1842	Eupneico en reposo
+T96	SINTOMA 1844 1863	Piel normocoloreada
+T97	SINTOMA 1884 1914	temperatura corporal aumentada
+T98	SINTOMA 2023 2051	ingurgitación venosa yugular
+T99	SINTOMA 2079 2093	tonos rítmicos
+T100	SINTOMA 2126 2132	soplos
+T101	SINTOMA 2160 2189	murmullo vesicular conservado
+T102	SINTOMA 2191 2218	Abdomen blando y depresible
+T103	SINTOMA 2224 2279	dolor a la palpación en epigastrio y ambos hipocondrios
+T104	SINTOMA 2281 2296	Purphy negativo
+T105	SINTOMA 2298 2356	Ruidos hidroaéreos preservados a la auscultación abdominal
+T106	SINTOMA 2371 2376	masas
+T107	SINTOMA 2379 2394	visceromegalias
+T108	SINTOMA 2396 2437	Miembros inferiores sin edemas maleolares
+T109	SINTOMA 2439 2470	Pulsos conservados y simétricos
+T110	SINTOMA 3406 3434	índice cardiotorácico normal
+T111	SINTOMA 3473 3486	ritmo sinusal
+T112	SINTOMA 3608 3620	QRS estrecho
+T113	SINTOMA 4170 4199	líquido libre intra-abdominal
+T114	SINTOMA 4201 4252	Masa hipodensa en el interior de aurícula izquierda
+T115	SINTOMA 4420 4460	masa prolapsa hacia ventrículo izquierdo
+T116	SINTOMA 4534 4566	ventrículo izquierdo no dilatado
+T117	SINTOMA 4622 4657	función sistólica global preservada
+T118	SINTOMA 5240 5289	Estudio Doppler con flujos transmitrales normales
+T119	SINTOMA 8267 8292	pérdida de escape sinusal
+T120	SINTOMA 8888 8901	ritmo sinusal
+T121	SINTOMA 1353 1371	masa intracardiaca
+T122	SINTOMA 3730 3775	alteraciones patológicas de la repolarización
+T123	SINTOMA 4121 4154	Bazo sin alteraciones patológicas
+T124	SINTOMA 4702 4748	alteraciones segmentarias de la contractilidad
+T125	SINTOMA 4750 4774	Raíz aórtica no dilatada
+T126	SINTOMA 4847 4908	Aurícula izquierda dilatada (volumen 81 cm3), apreciando masa
+T127	SINTOMA 5189 5224	ventrículo derecho normofuncionante
+T128	SINTOMA 6026 6036	hemorragia
+T129	SINTOMA 3331 3365	Aumento de la trama broncovascular
+T130	SINTOMA 5152 5183	Cavidades derechas no dilatadas
+T131	SINTOMA 3370 3400	aumento de la silueta cardiaca
+T132	SINTOMA 1784 1795	colaborador
+T133	SINTOMA 3945 3956	colecciones
+T134	SINTOMA 5599 5636	Coronariografía: dominancia izquierda
+T135	FARMACO 7597 7607	amiodarona

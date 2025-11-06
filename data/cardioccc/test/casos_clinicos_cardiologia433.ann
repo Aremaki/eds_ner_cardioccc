@@ -1,0 +1,108 @@
+T1	ENFERMEDAD 188 198	Hipertenso
+T2	ENFERMEDAD 200 216	diabético tipo 2
+T3	ENFERMEDAD 218 229	dislipémico
+T4	ENFERMEDAD 231 240	exfumador
+T5	ENFERMEDAD 242 304	Enfermedad pulmonar obstructiva crónica (EPOC) grado moderado,
+T6	ENFERMEDAD 283 287	EPOC
+T7	ENFERMEDAD 305 329	enfermedad renal crónica
+T8	ENFERMEDAD 346 369	vasculopatía periférica
+T9	ENFERMEDAD 1446 1472	herida en región occipital
+T10	ENFERMEDAD 1776 1797	Traumatismo occipital
+T11	ENFERMEDAD 2666 2689	bloqueo de rama derecha
+T12	ENFERMEDAD 2717 2730	cardiomegalia
+T13	ENFERMEDAD 2805 2820	Derrame pleural
+T14	ENFERMEDAD 2857 2902	colección extraaxial frontoparietal bilateral
+T15	ENFERMEDAD 2917 2934	hematoma subdural
+T16	ENFERMEDAD 2994 3029	Lesiones isquémicas de pequeño vaso
+T17	ENFERMEDAD 3277 3290	valvulopatías
+T18	ENFERMEDAD 3323 3342	derrame pericárdico
+T19	ENFERMEDAD 3702 3717	derrame pleural
+T20	ENFERMEDAD 4216 4255	aneurisma de aorta (11,5 cm) trombosado
+T21	ENFERMEDAD 4480 4514	calcificaciones en el trombo mural
+T22	ENFERMEDAD 4701 4753	derrame pleural izquierdo con componente hemorrágico
+T23	ENFERMEDAD 4818 4843	atelectasia de la língula
+T24	ENFERMEDAD 4908 4917	aneurisma
+T25	ENFERMEDAD 4980 5006	Calcificaciones coronarias
+T26	ENFERMEDAD 5422 5444	síndrome aórtico agudo
+T27	ENFERMEDAD 6014 6037	trombosis del aneurisma
+T28	ENFERMEDAD 6497 6519	síndrome aórtico agudo
+T29	ENFERMEDAD 6917 6939	Síndrome aórtico agudo
+T30	ENFERMEDAD 6941 7014	Hematoma intramural secundario a fuga de endoprótesis de aorta ascendente
+T31	ENFERMEDAD 7016 7058	Rotura de saco aneurismático con hemotórax
+T32	ENFERMEDAD 3750 3768	saco aneurismático
+T33	ENFERMEDAD 3437 3455	saco aneurismático
+T34	PROCEDIMIENTO 569 608	oclusión de arteria subclavia izquierda
+T35	PROCEDIMIENTO 389 405	cirugía vascular
+T36	PROCEDIMIENTO 407 433	Intervenciones quirúrgicas
+T37	PROCEDIMIENTO 531 566	bypass carótido-subclavio izquierdo
+T38	PROCEDIMIENTO 610 675	Intervenido de endoprótesis abdominal infrarrenal aorto-bi-ilíaca
+T39	PROCEDIMIENTO 1012 1021	Anamnesis
+T40	PROCEDIMIENTO 1630 1648	EXPLORACIÓN FÍSICA
+T41	PROCEDIMIENTO 1799 1820	Auscultación cardiaca
+T42	PROCEDIMIENTO 1860 1881	Auscultación pulmonar
+T43	PROCEDIMIENTO 2447 2456	Hemograma
+T44	PROCEDIMIENTO 2551 2562	Coagulación
+T45	PROCEDIMIENTO 2581 2599	ELECTROCARDIOGRAMA
+T46	PROCEDIMIENTO 2601 2604	ECG
+T47	PROCEDIMIENTO 2691 2715	RADIOGRAFÍA DE TÓRAX P-A
+T48	PROCEDIMIENTO 2832 2843	TAC craneal
+T49	PROCEDIMIENTO 3031 3045	ECOCARDIOGRAMA
+T50	PROCEDIMIENTO 4091 4105	ANGIO-TC aorta
+T51	PROCEDIMIENTO 5057 5135	ARTERIOGRAFÍA torácica (día 2 del ingreso): se realiza por vía humeral derecha
+T52	PROCEDIMIENTO 5724 5752	tratamiento antihipertensivo
+T53	PROCEDIMIENTO 5754 5797	transfusión de dos concentrados de hematíes
+T54	PROCEDIMIENTO 5800 5812	sueroterapia
+T55	PROCEDIMIENTO 5921 5929	angio-TC
+T56	PROCEDIMIENTO 6184 6206	arteriografía torácica
+T57	PROCEDIMIENTO 6635 6684	tratamiento con betabloqueantes y vasodilatadores
+T58	PROCEDIMIENTO 146 164	EXPLORACIÓN FÍSICA
+T59	PROCEDIMIENTO 2281 2291	bioquímica
+T60	PROCEDIMIENTO 3343 3398	ANGIO-TC torácico (urgencias): se realiza sin contraste
+T61	PROCEDIMIENTO 2258 2267	ANALÍTICA
+T62	PROCEDIMIENTO 2141 2144	NRL
+T63	PROCEDIMIENTO 435 467	endoprótesis en aorta ascendente
+T64	SINTOMA 1062 1094	desorientado en tiempo y espacio
+T65	SINTOMA 1194 1214	dolor centrotorácico
+T66	SINTOMA 1217 1251	paraparesia de miembros inferiores
+T67	SINTOMA 1306 1335	molestias abdominales difusas
+T68	SINTOMA 1478 1510	pérdida de control de esfínteres
+T69	SINTOMA 1650 1682	Desorientado en tiempo y espacio
+T70	SINTOMA 1684 1695	Verborreico
+T71	SINTOMA 1760 1767	Afebril
+T72	SINTOMA 1772 1774	IY
+T73	SINTOMA 1822 1847	ruidos cardiacos rítmicos
+T74	SINTOMA 1852 1858	soplos
+T75	SINTOMA 1883 1911	hipoventilación generalizada
+T76	SINTOMA 1922 1938	roncus dispersos
+T77	SINTOMA 1940 1971	Miembros inferiores: sin edemas
+T78	SINTOMA 1973 2011	pulsos femorales y popliteos presentes
+T79	SINTOMA 2016 2040	pulsos distales abolidos
+T80	SINTOMA 2042 2075	Abdomen: sin dolor a la palpación
+T81	SINTOMA 2077 2105	ruidos hidroaéreos presentes
+T82	SINTOMA 2111 2139	signos irritación peritoneal
+T83	SINTOMA 2146 2174	PPCC bilaterales conservados
+T84	SINTOMA 2176 2231	Fuerza y sensibilidad conservada en los cuatro miembros
+T85	SINTOMA 2607 2620	ritmo sinusal
+T86	SINTOMA 2642 2651	QRS ancho
+T87	SINTOMA 2743 2770	ensanchamiento mediastínico
+T88	SINTOMA 3057 3149	ventrículo izquierdo de tamaño normal, con función sistólica global y segmentaria conservada
+T89	SINTOMA 3223 3272	Cavidades derechas de tamaño y función conservada
+T90	SINTOMA 4294 4304	hemorragia
+T91	SINTOMA 4854 4881	desplazamiento mediastínico
+T92	SINTOMA 6147 6171	estabilidad hemodinámica
+T93	SINTOMA 6224 6241	fuga de contraste
+T94	SINTOMA 6312 6336	estabilidad hemodinámica
+T95	SINTOMA 6342 6363	deterioro neurológico
+T96	SINTOMA 6543 6568	hemodinámicamente estable
+T97	SINTOMA 77 84	síncope
+T98	SINTOMA 5304 5311	síncope
+T99	SINTOMA 3188 3221	alteraciones de la contractilidad
+T100	SINTOMA 1576 1627	asintomático desde el punto de vista cardiovascular
+T101	SINTOMA 6571 6622	asintomático desde el punto de vista cardiovascular
+T102	SINTOMA 5517 5536	estabilidad clínica
+T103	SINTOMA 4801 4815	colapso de LII
+T104	FARMACO 699 709	metformina
+T105	FARMACO 724 746	ácido acetilsalicílico
+T106	FARMACO 748 751	AAS
+T107	FARMACO 770 797	nevibolol/hidroclorotiazida
+T108	FARMACO 816 829	atorvastatina

@@ -1,0 +1,182 @@
+T1	DISEASE 6911 6938	Aurícula izquierda dilatada
+T2	DISEASE 136 159	alergias medicamentosas
+T3	DISEASE 171 180	Exfumador
+T4	DISEASE 193 225	Hiperuricemia con crisis gotosas
+T5	DISEASE 227 230	HTA
+T6	DISEASE 232 242	Dislipemia
+T7	DISEASE 244 268	Diabetes mellitus tipo 2
+T8	DISEASE 360 384	Enfermedad renal crónica
+T9	DISEASE 433 463	colecitistitis aguda litiásica
+T10	DISEASE 554 580	Síndrome ansioso-depresivo
+T11	DISEASE 831 842	sarcoidosis
+T12	DISEASE 948 973	adenopatías mediastínicas
+T13	DISEASE 1265 1288	miocardiopatía dilatada
+T14	DISEASE 1382 1402	estenosis coronarias
+T15	DISEASE 1525 1536	cardiopatía
+T16	DISEASE 1619 1633	hábito enólico
+T17	DISEASE 1811 1860	bloqueo completo de rama izquierda del haz de His
+T18	DISEASE 1862 1868	BCRIHH
+T19	DISEASE 2244 2277	fibrilación auricular paroxística
+T20	DISEASE 2280 2296	flúter auricular
+T21	DISEASE 2649 2671	insuficiencia cardiaca
+T22	DISEASE 2893 2940	bloqueo completo de rama derecha del haz de His
+T23	DISEASE 2996 3052	trastorno inespecífico de la conducción intraventricular
+T24	DISEASE 5509 5565	trastorno inespecífico de la conducción intraventricular
+T25	DISEASE 5614 5673	Bloqueo de la subdivisión anterior izquierda del haz de His
+T26	DISEASE 5682 5712	Extrasistolia supraventricular
+T27	DISEASE 6099 6112	valvulopatías
+T28	DISEASE 6132 6151	derrame pericárdico
+T29	DISEASE 6167 6192	insuficiencia tricuspídea
+T30	DISEASE 6223 6244	hipertensión pulmonar
+T31	DISEASE 6323 6352	cortocircuitos intracardiacos
+T32	DISEASE 6399 6433	dilatación de ventrículo izquierdo
+T33	DISEASE 6622 6637	bloqueo de rama
+T34	DISEASE 7080 7102	insuficiencia cardiaca
+T35	DISEASE 7435 7457	insuficiencia cardiaca
+T36	DISEASE 7682 7707	adenopatías mediastínicas
+T37	DISEASE 7746 7766	sarcoidosis cardiaca
+T38	DISEASE 7801 7824	miocardiopatía dilatada
+T39	DISEASE 7902 7908	BCRIHH
+T40	DISEASE 7911 7967	trastorno inespecífico de la conducción intraventricular
+T41	DISEASE 8005 8042	arritmias ventriculares no sostenidas
+T42	DISEASE 8092 8162	miocardiopatía dilatada no isquémica con disfunción ventricular severa
+T43	DISEASE 8258 8283	bloqueo de rama izquierda
+T44	DISEASE 8463 8485	insuficiencia cardiaca
+T45	DISEASE 9005 9026	taquicardia auricular
+T46	DISEASE 9201 9237	insuficiencia cardiaca descompensada
+T47	DISEASE 9562 9593	Sarcoidosis cardiaca y pulmonar
+T48	DISEASE 9595 9674	Miocardiopatía dilatada con disfunción sistólica severa de ventrículo izquierdo
+T49	DISEASE 9676 9698	Insuficiencia cardiaca
+T50	DISEASE 2942 2948	BCRDHH
+T51	DISEASE 2109 2176	ventrículo izquierdo ligeramente dilatado, con disfunción sistólica
+T52	DISEASE 182 191	Exbebedor
+T53	DISEASE 2019 2065	estenosis significativas en el árbol coronario
+T54	DISEASE 5606 5612	BCRDHH
+T55	DISEASE 5675 5679	BSAI
+T56	DISEASE 5768 5809	ventrículo izquierdo severamente dilatado
+T57	DISEASE 7160 7206	edema alvéolo-intersticial en bases pulmonares
+T58	DISEASE 7859 7896	alteraciones severas de la conducción
+T59	DISEASE 7968 7974	BCRDHH
+T60	DISEASE 9028 9044	flúter auricular
+T61	DISEASE 465 483	Cólicos nefríticos
+T62	DISEASE 1442 1486	consumo de unos 40 gramos de alcohol diarios
+T63	DISEASE 1293 1320	disfunción sistólica severa
+T64	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 292 329	tratamiento con antidiabéticos orales
+T66	PROCEDURE 398 413	Colecistectomía
+T67	PROCEDURE 774 794	radiografía de tórax
+T68	PROCEDURE 874 918	tomografía axial torácica de alta resolución
+T69	PROCEDURE 920 925	TACAR
+T70	PROCEDURE 933 999	biopsia de las adenopatías mediastínicas mediante mediastinoscopia
+T71	PROCEDURE 1040 1058	corticoides orales
+T72	PROCEDURE 1352 1367	coronariografía
+T73	PROCEDURE 1782 1800	electrocardiograma
+T74	PROCEDURE 1802 1805	ECG
+T75	PROCEDURE 1988 2003	coronariografía
+T76	PROCEDURE 2078 2092	ecocardiograma
+T77	PROCEDURE 2308 2334	tratamiento anticoagulante
+T78	PROCEDURE 2423 2436	dicumarínicos
+T79	PROCEDURE 2694 2760	tratamiento con inhibidores del enzima convertidor de angiotensina
+T80	PROCEDURE 2769 2784	betabloqueantes
+T81	PROCEDURE 2787 2817	antagonistas de la aldosterona
+T82	PROCEDURE 2864 2867	ECG
+T83	PROCEDURE 4017 4035	Exploración física
+T84	PROCEDURE 4213 4270	aporte de oxígeno a 3 litros por minuto por gafas nasales
+T85	PROCEDURE 4631 4640	hemograma
+T86	PROCEDURE 4772 4783	Coagulación
+T87	PROCEDURE 4955 4982	pruebas de función hepática
+T88	PROCEDURE 5116 5134	hormonas tiroideas
+T89	PROCEDURE 5199 5219	Radiografía de tórax
+T90	PROCEDURE 5426 5444	Electrocardiograma
+T91	PROCEDURE 5724 5766	Ecocardiograma transtorácico Doppler color
+T92	PROCEDURE 6291 6298	Doppler
+T93	PROCEDURE 6354 6397	Resonancia magnética nuclear (RMN) cardiaca
+T94	PROCEDURE 6639 6659	Estudio de perfusión
+T95	PROCEDURE 6985 7005	Radiografía de tórax
+T96	PROCEDURE 7311 7360	tratamiento diurético y vasodilatador intravenoso
+T97	PROCEDURE 7532 7546	ecocardiograma
+T98	PROCEDURE 7549 7561	RMN cardiaca
+T99	PROCEDURE 7671 7707	biopsia de adenopatías mediastínicas
+T100	PROCEDURE 8054 8068	monitorización
+T101	PROCEDURE 8327 8358	implante de dispositivo DAI-TRC
+T102	PROCEDURE 8360 8396	terapia de resincronización cardiaca
+T103	PROCEDURE 8516 8543	tratamiento betabloqueantes
+T104	PROCEDURE 8552 8595	antagonistas del receptor de la Aldosterona
+T105	PROCEDURE 8935 8938	ECG
+T106	PROCEDURE 9289 9322	tratamiento diurético intravenoso
+T107	PROCEDURE 9528 9547	trasplante cardiaco
+T108	PROCEDURE 4821 4831	Bioquímica
+T109	PROCEDURE 2762 2766	IECA
+T110	PROCEDURE 8545 8549	IECA
+T111	PROCEDURE 6384 6387	RMN
+T112	PROCEDURE 4620 4629	Analítica
+T113	SYMPTOM 111 117	disnea
+T114	SYMPTOM 761 767	disnea
+T115	SYMPTOM 1932 1946	dolor torácico
+T116	SYMPTOM 3679 3685	disnea
+T117	SYMPTOM 3795 3803	ortopnea
+T118	SYMPTOM 3805 3832	disnea paroxística nocturna
+T119	SYMPTOM 3906 3942	disminución subjetiva de la diuresis
+T120	SYMPTOM 3945 3958	palpitaciones
+T121	SYMPTOM 3998 4003	mareo
+T122	SYMPTOM 4036 4051	Normoperfundido
+T123	SYMPTOM 4053 4108	Taquipneico en reposo, con uso de musculatura accesoria
+T124	SYMPTOM 4110 4145	Elevación de presión venosa yugular
+T125	SYMPTOM 4151 4181	reflujo hepatoyugular positivo
+T126	SYMPTOM 4305 4332	Ruidos cardiacos arrítmicos
+T127	SYMPTOM 4369 4375	soplos
+T128	SYMPTOM 4421 4481	Edemas perimaleolares con fóvea en ambos miembros inferiores
+T129	SYMPTOM 4483 4522	Abdomen blando, depresible, no doloroso
+T130	SYMPTOM 4542 4547	masas
+T131	SYMPTOM 4551 4559	megalias
+T132	SYMPTOM 4565 4593	ruidos hidroaéreos presentes
+T133	SYMPTOM 4955 4991	pruebas de función hepática normales
+T134	SYMPTOM 5116 5143	hormonas tiroideas normales
+T135	SYMPTOM 5232 5263	índice cardiotorácico aumentado
+T136	SYMPTOM 5265 5295	Engrosamiento hiliar bilateral
+T137	SYMPTOM 5297 5350	Edema alvéolo-intersticial en ambos campos pulmonares
+T138	SYMPTOM 5446 5459	ritmo sinusal
+T139	SYMPTOM 5882 5921	función sistólica severamente deprimida
+T140	SYMPTOM 5948 5972	hipocinesia generalizada
+T141	SYMPTOM 6037 6082	Ventrículo derecho de tamaño y función normal
+T142	SYMPTOM 6489 6529	deterioro severo de la función sistólica
+T143	SYMPTOM 6546 6564	hipocinesia global
+T144	SYMPTOM 6639 6685	Estudio de perfusión sin hallazgos patológicos
+T145	SYMPTOM 6802 6909	Ventrículo derecho de tamaño y morfología normales, sin anomalías en la contractilidad global y segmentaria
+T146	SYMPTOM 7026 7057	índice cardiotorácico aumentado
+T147	SYMPTOM 7209 7236	congestión hiliar bilateral
+T148	SYMPTOM 9703 9732	fracción de eyección reducida
+T149	SYMPTOM 4007 4014	síncope
+T150	SYMPTOM 9046 9059	ritmo sinusal
+T151	SYMPTOM 3835 3844	bendopnea
+T152	SYMPTOM 4377 4419	Crepitantes pulmonares hasta campos medios
+T153	SYMPTOM 5352 5405	Pinzamiento de senos costofrénicos de forma bilateral
+T154	SYMPTOM 5407 5424	Líquido en cisura
+T155	SYMPTOM 5992 6035	anomalías segmentarias de la contractilidad
+T156	SYMPTOM 6566 6611	Movimiento anómalo del septo interventricular
+T157	SYMPTOM 4672 4692	desviación izquierda
+T158	SYMPTOM 8672 8691	estabilidad clínica
+T159	SYMPTOM 8660 8669	euvolemia
+T160	SYMPTOM 6256 6305	Aorta ascendente de tamaño y flujo Doppler normal
+T161	MEDICATION 332 340	insulina
+T162	MEDICATION 2339 2351	acenocumarol
+T163	MEDICATION 2450 2458	apixabán
+T164	MEDICATION 3118 3133	espironolactona
+T165	MEDICATION 3150 3158	ramipril
+T166	MEDICATION 3176 3186	carvedilol
+T167	MEDICATION 3206 3216	alopurinol
+T168	MEDICATION 3234 3242	apixabán
+T169	MEDICATION 3258 3271	atorvastatina
+T170	MEDICATION 3288 3296	digoxina
+T171	MEDICATION 3315 3325	furosemida
+T172	MEDICATION 3350 3367	insulina glargina
+T173	MEDICATION 3384 3394	metformina
+T174	MEDICATION 3407 3408	g
+T175	MEDICATION 3432 3441	omeprazol
+T176	MEDICATION 3458 3468	duloxetina
+T177	MEDICATION 3485 3494	trazodona
+T178	MEDICATION 3512 3522	alprazolam
+T179	MEDICATION 4223 4230	oxígeno
+T180	MEDICATION 9361 9382	sacubitrilo-valsartán
+T181	MEDICATION 9398 9402	IECA
+#1	AnnotatorNotes T55	 bloqueo de la subdivisión anterior izquierda del haz de his

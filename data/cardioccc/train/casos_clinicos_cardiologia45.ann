@@ -1,0 +1,119 @@
+T1	DISEASE 1370 1373	TVP
+T2	DISEASE 1826 1839	valvulopatías
+T3	DISEASE 1859 1874	derrame pleural
+T4	DISEASE 2634 2637	ICC
+T5	DISEASE 3225 3236	miocarditis
+T6	DISEASE 3290 3328	Estenosis leve del 20-30 % en CX media
+T7	DISEASE 3393 3413	anomalías coronarias
+T8	DISEASE 3548 3555	SCASEST
+T9	DISEASE 3768 3771	ICC
+T10	DISEASE 3950 3969	patología coronaria
+T11	DISEASE 4337 4347	faringitis
+T12	DISEASE 4598 4620	infección respiratoria
+T13	DISEASE 4706 4717	miocarditis
+T14	DISEASE 4849 4871	insuficiencia cardiaca
+T15	DISEASE 4876 4885	arritmias
+T16	DISEASE 5187 5198	miocarditis
+T17	DISEASE 5213 5230	Miocarditis aguda
+T18	DISEASE 147 162	hábitos tóxicos
+T19	DISEASE 124 132	alergias
+T20	DISEASE 4750 4757	SCASEST
+T21	DISEASE 3403 3436	coronarias, disección o trombosis
+T22	PROCEDURE 221 235	amigdalectomia
+T23	PROCEDURE 253 276	meniscectomía izquierda
+T24	PROCEDURE 815 824	analgesia
+T25	PROCEDURE 1375 1398	Exploración neurológica
+T26	PROCEDURE 1453 1456	ECG
+T27	PROCEDURE 1617 1636	electrocardiogramas
+T28	PROCEDURE 2009 2019	Hemostasia
+T29	PROCEDURE 1876 1885	Hemograma
+T30	PROCEDURE 2586 2606	Radiografía de tórax
+T31	PROCEDURE 2849 2864	Cultivo de SARM
+T32	PROCEDURE 2876 2904	Resonancia magnética nuclear
+T33	PROCEDURE 2906 2909	RMN
+T34	PROCEDURE 3238 3253	Coronariografía
+T35	PROCEDURE 3349 3365	ventriculografía
+T36	PROCEDURE 3584 3620	tratamiento con doble antiagregación
+T37	PROCEDURE 3623 3638	anticoagulación
+T38	PROCEDURE 3652 3667	betabloqueantes
+T39	PROCEDURE 3912 3927	coronariografía
+T40	PROCEDURE 4165 4181	serología vírica
+T41	PROCEDURE 4208 4223	coronariografía
+T42	PROCEDURE 4890 4914	estudio ecocardiográfico
+T43	PROCEDURE 5036 5039	ECG
+T44	PROCEDURE 5138 5140	RM
+T45	PROCEDURE 1083 1085	AC
+T46	PROCEDURE 1121 1123	AP
+T47	PROCEDURE 1307 1326	Puñopercusión renal
+T48	PROCEDURE 1650 1673	Ecocardiograma portátil
+T49	PROCEDURE 3640 3649	estatinas
+T50	PROCEDURE 3779 3821	seriación de marcadores de daño miocárdico
+T51	PROCEDURE 5104 5124	tratamiento con IECA
+T52	PROCEDURE 2424 2444	Seriación enzimatica
+T53	PROCEDURE 2670 2679	Serología
+T54	PROCEDURE 2043 2053	Bioquímica
+T55	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDURE 4010 4019	analítica
+T57	PROCEDURE 4100 4111	exploración
+T58	PROCEDURE 1272 1305	palpación profunda ni superficial
+T59	SYMPTOM 104 118	dolor torácico
+T60	SYMPTOM 303 315	Asintomático
+T61	SYMPTOM 412 458	dolores tipo pinchazos a nivel de la mandíbula
+T62	SYMPTOM 574 592	cortejo vegetativo
+T63	SYMPTOM 865 890	hemodinámicamente estable
+T64	SYMPTOM 997 1023	orientado en las 3 esferas
+T65	SYMPTOM 1025 1043	Eupneico en reposo
+T66	SYMPTOM 1045 1059	bien hidratado
+T67	SYMPTOM 1061 1068	nutrido
+T68	SYMPTOM 1071 1081	perfundido
+T69	SYMPTOM 1087 1094	rítmico
+T70	SYMPTOM 1099 1105	soplos
+T71	SYMPTOM 1109 1119	extratonos
+T72	SYMPTOM 1125 1181	murmullo vesicular conservado en ambos campos pulmonares
+T73	SYMPTOM 1186 1206	ruidos sobreañadidos
+T74	SYMPTOM 1208 1253	Abdomen: ruidos hidroaéreos presentes, blando
+T75	SYMPTOM 1360 1373	signos de TVP
+T76	SYMPTOM 1375 1426	Exploración neurológica básica dentro la normalidad
+T77	SYMPTOM 1458 1471	ritmo sinusal
+T78	SYMPTOM 1482 1525	Pobre crecimiento de onda R en precordiales
+T79	SYMPTOM 2849 2874	Cultivo de SARM: negativo
+T80	SYMPTOM 2923 2958	VI con función sistólica conservada
+T81	SYMPTOM 3468 3482	dolor torácico
+T82	SYMPTOM 3679 3704	estable hemodinámicamente
+T83	SYMPTOM 3706 3718	asintomático
+T84	SYMPTOM 3724 3755	alteraciones del ritmo cardiaco
+T85	SYMPTOM 3877 3896	leve dolor torácico
+T86	SYMPTOM 4030 4068	aumento de transaminasas y bilirrubina
+T87	SYMPTOM 4391 4407	malestar general
+T88	SYMPTOM 4409 4417	mialgias
+T89	SYMPTOM 4420 4440	sensación distermica
+T90	SYMPTOM 4445 4454	febrícula
+T91	SYMPTOM 4568 4582	dolor torácico
+T92	SYMPTOM 4623 4665	elevación de marcadores de daño miocárdico
+T93	SYMPTOM 4819 4833	dolor torácico
+T94	SYMPTOM 4937 4952	FEVI preservada
+T95	SYMPTOM 4957 4999	alteraciones en la contractibilidad global
+T96	SYMPTOM 5261 5276	FEVI conservada
+T97	SYMPTOM 1782 1805	Raíz de la aorta normal
+T98	SYMPTOM 3330 3345	FEVI preservada
+T99	SYMPTOM 3255 3288	TCI, DA y CD dentro la normalidad
+T100	SYMPTOM 1332 1355	Extremidades: no edemas
+T101	SYMPTOM 4528 4551	coronarias sin lesiones
+T102	SYMPTOM 4319 4334	cuadro catarral
+T103	SYMPTOM 2641 2668	infiltrados parenquimatosos
+T104	SYMPTOM 1258 1305	doloroso a la palpación profunda ni superficial
+T105	SYMPTOM 1527 1559	onda Q aislada en derivación III
+T106	SYMPTOM 4073 4129	alteraciones clínicas a la exploración a nivel digestivo
+T107	SYMPTOM 1307 1330	Puñopercusión renal (-)
+T108	SYMPTOM 1696 1780	VI no dilatado, ni hipertrófico, con función sistólica global y segmentaria normales
+T109	SYMPTOM 1807 1821	VD no dilatado
+T110	SYMPTOM 2681 2698	IgM VHA: negativo
+T111	SYMPTOM 2700 2722	IgG anti HBc: negativo
+T112	SYMPTOM 2724 2742	Anti VHC: negativo
+T113	SYMPTOM 2744 2766	IgM anti CMV: negativo
+T114	SYMPTOM 2768 2794	IgM frente a VCA: negativo
+T115	SYMPTOM 2796 2814	Anti VIH: negativo
+T116	SYMPTOM 2816 2847	Toxoplasmosis IgG IgM: negativo
+T117	SYMPTOM 3488 3508	elevación enzimática
+T118	MEDICATION 4494 4505	paracetamol
+#1	AnnotatorNotes T4	 ICC insuficiencia cardíaca congestiva

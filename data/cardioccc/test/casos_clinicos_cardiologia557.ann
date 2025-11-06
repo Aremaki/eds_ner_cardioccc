@@ -1,0 +1,99 @@
+T1	ENFERMEDAD 3081 3141	ventrículo izquierdo no dilatado con hipertrofia concéntrica
+T2	ENFERMEDAD 192 226	reacciones adversas medicamentosas
+T3	ENFERMEDAD 315 325	dislipemia
+T4	ENFERMEDAD 328 352	diabetes mellitus tipo 2
+T5	ENFERMEDAD 409 424	hábitos tóxicos
+T6	ENFERMEDAD 1334 1388	síndrome coronario agudo sin elevación del segmento ST
+T7	ENFERMEDAD 1621 1666	síndrome coronario agudo sin elevación del ST
+T8	ENFERMEDAD 1749 1787	lesión en la arteria circunfleja media
+T9	ENFERMEDAD 2073 2116	trastornos de la contractilidad segmentaria
+T10	ENFERMEDAD 3176 3219	trastornos de la contractilidad segmentaria
+T11	ENFERMEDAD 3368 3387	derrame pericárdico
+T12	ENFERMEDAD 3913 3922	diabética
+T13	ENFERMEDAD 4520 4596	infecciones del tracto genitourinario, todas de origen fúngico (C. albicans)
+T14	ENFERMEDAD 4887 4914	infecciones genitourinarias
+T15	ENFERMEDAD 6071 6092	Cardiopatía isquémica
+T16	ENFERMEDAD 6094 6196	Síndrome coronario agudo sin elevación del segmento ST, con afectación monovaso de arteria circunfleja
+T17	ENFERMEDAD 6310 6331	hipertensión arterial
+T18	ENFERMEDAD 6333 6343	dislipemia
+T19	ENFERMEDAD 6346 6370	diabetes mellitus tipo 2
+T20	ENFERMEDAD 6418 6443	Intolerancia a metformina
+T21	ENFERMEDAD 6445 6480	Infecciones urinarias de repetición
+T22	ENFERMEDAD 273 294	hipertensión arterial
+T23	ENFERMEDAD 1541 1560	necrosis miocárdica
+T24	ENFERMEDAD 2953 3002	lesión significativa en arteria circunfleja media
+T25	ENFERMEDAD 3335 3348	valvulopatías
+T26	PROCEDIMIENTO 426 462	Cirugías previas: reducción de pecho
+T27	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T28	PROCEDIMIENTO 464 483	ligadura de trompas
+T29	PROCEDIMIENTO 600 610	ergometría
+T30	PROCEDIMIENTO 641 670	SPECT de perfusión miocárdica
+T31	PROCEDIMIENTO 1294 1312	electrocardiograma
+T32	PROCEDIMIENTO 1314 1317	ECG
+T33	PROCEDIMIENTO 1682 1697	coronariografía
+T34	PROCEDIMIENTO 1762 1854	arteria circunfleja media, que es revascularizada mediante implante de 1 stent farmacoactivo
+T35	PROCEDIMIENTO 2002 2017	ecocardiografía
+T36	PROCEDIMIENTO 2196 2211	perfil lipídico
+T37	PROCEDIMIENTO 2781 2784	ECG
+T38	PROCEDIMIENTO 2799 2814	Coronariografía
+T39	PROCEDIMIENTO 2977 3062	arteria circunfleja media, revascularizada mediante implante de 1 stent farmacoactivo
+T40	PROCEDIMIENTO 3064 3079	Ecocardiografía
+T41	PROCEDIMIENTO 3512 3527	Perfil lipídico
+T42	PROCEDIMIENTO 4331 4363	tratamiento hipoglucemiante oral
+T43	PROCEDIMIENTO 5169 5192	rehabilitación cardiaca
+T44	PROCEDIMIENTO 6177 6242	arteria circunfleja, revascularizada mediante implante de 1 stent
+T45	PROCEDIMIENTO 1499 1528	marcadores de daño miocárdico
+T46	PROCEDIMIENTO 4707 4730	tratamiento antifúgnico
+T47	PROCEDIMIENTO 5081 5122	tratamiento con insulinas de acción lenta
+T48	PROCEDIMIENTO 5268 5329	agonistas del receptor del péptido similar al glucagón tipo 1
+T49	PROCEDIMIENTO 5331 5337	arGLP1
+T50	PROCEDIMIENTO 3389 3398	Analítica
+T51	PROCEDIMIENTO 1396 1405	analítica
+T52	PROCEDIMIENTO 2124 2133	analítica
+T53	PROCEDIMIENTO 5836 5845	analítica
+T54	SINTOMA 543 565	dolor torácico atípico
+T55	SINTOMA 641 691	SPECT de perfusión miocárdica que resulta negativo
+T56	SINTOMA 883 897	dolor torácico
+T57	SINTOMA 951 986	dolor como centrotorácico, opresivo
+T58	SINTOMA 1033 1051	cortejo vegetativo
+T59	SINTOMA 1970 1984	dolor torácico
+T60	SINTOMA 2035 2067	función biventricular conservada
+T61	SINTOMA 2167 2191	función renal conservada
+T62	SINTOMA 2229 2269	niveles de hemoglobina glicosilada altos
+T63	SINTOMA 3253 3285	Función biventricular conservada
+T64	SINTOMA 3298 3320	Aurículas no dilatadas
+T65	SINTOMA 3408 3432	función renal conservada
+T66	SINTOMA 4214 4242	molestias gastrointestinales
+T67	SINTOMA 6244 6276	Función biventricular conservada
+T68	SINTOMA 273 294	hipertensión arterial
+T69	SINTOMA 3081 3113	ventrículo izquierdo no dilatado
+T70	SINTOMA 3221 3251	Ventrículo derecho no dilatado
+T71	SINTOMA 2836 2874	Arteria coronaria derecha sin lesiones
+T72	SINTOMA 2816 2834	dominancia derecha
+T73	SINTOMA 1483 1528	movilización de marcadores de daño miocárdico
+T74	FARMACO 715 724	enalapril
+T75	FARMACO 731 748	hidroclorotiazida
+T76	FARMACO 785 797	sitagliptina
+T77	FARMACO 2337 2359	ácido acetilsalicílico
+T78	FARMACO 2361 2364	AAS
+T79	FARMACO 2442 2469	enalapril/hidroclorotiazida
+T80	FARMACO 2507 2517	bisoprolol
+T81	FARMACO 2549 2562	atorvastatina
+T82	FARMACO 2598 2607	omeprazol
+T83	FARMACO 2649 2662	canaglifozina
+T84	FARMACO 2696 2719	sitagliptina/metformina
+T85	FARMACO 4003 4015	sitagliptina
+T86	FARMACO 4064 4087	sitagliptina/metformina
+T87	FARMACO 4108 4121	canaglifozina
+T88	FARMACO 4281 4291	metformina
+T89	FARMACO 5380 5391	semaglutida
+T90	FARMACO 5794 5802	insulina
+T91	FARMACO 6433 6443	metformina
+T92	FARMACO 4627 4679	inhibidores del cotransportador sodio-glucosa tipo 2
+T93	FARMACO 2399 2409	ticagrelor
+T94	FARMACO 4681 4687	iSGLT2
+T95	FARMACO 5051 5057	iSGLT2
+T96	FARMACO 6485 6491	iSGLT2
+#1	AnnotatorNotes T49	agonistas del receptor del péptido similar al glucagón tipo 1
+#2	AnnotatorNotes T94	inhibidores del cotransportador sodio-glucosa tipo 2
+#3	AnnotatorNotes T95	inhibidores del cotransportador sodio-glucosa tipo 2

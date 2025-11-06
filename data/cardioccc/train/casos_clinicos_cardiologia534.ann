@@ -1,0 +1,144 @@
+T1	DISEASE 1681 1694	hepatomegalia
+T2	DISEASE 2176 2189	cardiomegalia
+T3	DISEASE 5344 5378	Dilatación de venas suprahepáticas
+T4	DISEASE 5998 6027	Dilatación de ambas aurículas
+T5	DISEASE 122 142	tetralogía de Fallot
+T6	DISEASE 148 171	alergias medicamentosas
+T7	DISEASE 189 197	fumadora
+T8	DISEASE 222 243	miopericarditis aguda
+T9	DISEASE 257 279	infección respiratoria
+T10	DISEASE 298 378	derrame pericárdico residual en cara diafragmática y apical de ambos ventrículos
+T11	DISEASE 429 455	miocardiopatía restrictiva
+T12	DISEASE 561 597	insuficiencia cardiaca descompensada
+T13	DISEASE 1625 1638	extrasístoles
+T14	DISEASE 2330 2355	Calcificación pericárdica
+T15	DISEASE 2863 2898	Aneurisma del tabique interaricular
+T16	DISEASE 2900 2956	Válvula mitral engrosada mixoide con leve. insuficiencia
+T17	DISEASE 2958 2999	Válvula tricúspide con leve insuficiencia
+T18	DISEASE 3109 3128	derrame pericárdico
+T19	DISEASE 3161 3186	Calcificación pericárdica
+T20	DISEASE 3463 3485	patología constrictiva
+T21	DISEASE 4886 4926	calcificación concéntrica del pericardio
+T22	DISEASE 5601 5648	pseudoaneurisma del ápex del ventrículo derecho
+T23	DISEASE 5650 5684	Aneurisma del septo interauricular
+T24	DISEASE 6029 6063	Aneurisma del septo interauricular
+T25	DISEASE 6227 6246	derrame pericárdico
+T26	DISEASE 6387 6413	miocardiopatía restrictiva
+T27	DISEASE 6448 6470	insuficiencia cardiaca
+T28	DISEASE 6828 6856	calcificación del pericardio
+T29	DISEASE 7027 7052	pericarditis constrictiva
+T30	DISEASE 7102 7123	miopericarditis aguda
+T31	DISEASE 8113 8129	hábito tabáquico
+T32	DISEASE 8302 8323	fibrilación auricular
+T33	DISEASE 8554 8579	Pericarditis constrictiva
+T34	DISEASE 8653 8675	Insuficiencia cardiaca
+T35	DISEASE 8733 8766	Fibrilación auricular persistente
+T36	DISEASE 2760 2830	Dilatación severa de aurícula izquierda y moderada de aurícula derecha
+T37	DISEASE 2832 2861	Dilatación del seno coronario
+T38	DISEASE 4190 4215	Calcificación pericárdica
+T39	DISEASE 5280 5312	Vena cava inferior aneurismática
+T40	DISEASE 5686 5756	Dilatación severa de aurícula izquierda y moderada de aurícula derecha
+T41	DISEASE 5873 5925	Engrosamiento calcificado concéntrico del pericardio
+T42	DISEASE 7805 7834	calcificación intramiocárdica
+T43	DISEASE 7601 7623	restricción miocárdica
+T44	DISEASE 8598 8651	restricción miocárdica por infiltración del miocardio
+T45	DISEASE 6611 6633	restricción miocárdica
+T46	DISEASE 2395 2418	Crecimiento biauricular
+T47	DISEASE 6883 6913	VD con infiltración miocárdica
+T48	DISEASE 814 829	sinus pilonidal
+T49	DISEASE 2212 2266	crecimiento de aurícula izquierda y ventrículo derecho
+T50	DISEASE 2268 2300	Dilatación de vena cava inferior
+T51	DISEASE 5119 5172	calcificación por delante de la raíz de grandes vasos
+T52	DISEASE 5183 5248	calcificación es a nivel de la pared libre del ventrículo derecho
+T53	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T54	PROCEDURE 383 397	ecocardiograma
+T55	PROCEDURE 477 497	estudio hemodinámico
+T56	PROCEDURE 658 668	diuréticos
+T57	PROCEDURE 732 742	diuréticos
+T58	PROCEDURE 1158 1168	diuréticos
+T59	PROCEDURE 1533 1551	Exploración física
+T60	PROCEDURE 1597 1599	AP
+T61	PROCEDURE 1609 1611	AC
+T62	PROCEDURE 1782 1791	hemograma
+T63	PROCEDURE 2154 2174	Radiografía de tórax
+T64	PROCEDURE 2357 2360	ECG
+T65	PROCEDURE 2465 2493	Ecocardiograma transtorácico
+T66	PROCEDURE 3490 3505	Doppler tisular
+T67	PROCEDURE 3621 3641	Estudio hemodinámico
+T68	PROCEDURE 4152 4167	Coronariografía
+T69	PROCEDURE 4479 4495	Ergoespirometría
+T70	PROCEDURE 4803 4814	TC cardiaco
+T71	PROCEDURE 5811 5822	RM cardiaca
+T72	PROCEDURE 6513 6523	diuréticos
+T73	PROCEDURE 6561 6575	ecocardiograma
+T74	PROCEDURE 6789 6791	TC
+T75	PROCEDURE 6794 6805	RM cardiaca
+T76	PROCEDURE 7299 7319	estudio hemodinámico
+T77	PROCEDURE 7409 7428	cateterismo derecho
+T78	PROCEDURE 7566 7577	cateterismo
+T79	PROCEDURE 7737 7753	pericardiectomía
+T80	PROCEDURE 7886 7918	cirugía de resección pericárdica
+T81	PROCEDURE 7988 7998	diuréticos
+T82	PROCEDURE 8021 8037	pericardiectomía
+T83	PROCEDURE 8075 8094	trasplante cardiaco
+T84	PROCEDURE 8335 8350	anticoagulación
+T85	PROCEDURE 8440 8461	estudio pretrasplante
+T86	PROCEDURE 8712 8731	trasplante cardiaco
+T87	PROCEDURE 1801 1811	Bioquímica
+T88	PROCEDURE 1760 1769	Analítica
+T89	PROCEDURE 798 829	Intervención de sinus pilonidal
+T90	PROCEDURE 1672 1679	Abdomen
+T91	SYMPTOM 1068 1105	disnea de moderados a leves esfuerzos
+T92	SYMPTOM 1185 1191	disnea
+T93	SYMPTOM 1194 1214	distensión abdominal
+T94	SYMPTOM 1234 1237	DPN
+T95	SYMPTOM 1267 1296	edemas en miembros inferiores
+T96	SYMPTOM 1311 1320	cansancio
+T97	SYMPTOM 1323 1336	fatigabilidad
+T98	SYMPTOM 1338 1365	Cifras tensionales normales
+T99	SYMPTOM 1395 1416	mareo por hipotensión
+T100	SYMPTOM 1444 1457	palpitaciones
+T101	SYMPTOM 1504 1531	dolor torácico ni abdominal
+T102	SYMPTOM 1574 1595	Ingurgitación yugular
+T103	SYMPTOM 1609 1620	AC: rítmica
+T104	SYMPTOM 1643 1649	soplos
+T105	SYMPTOM 1782 1799	hemograma: normal
+T106	SYMPTOM 2302 2328	Parénquima pulmonar normal
+T107	SYMPTOM 2362 2375	ritmo sinusal
+T108	SYMPTOM 2420 2454	T negativa en V3-V6, II, III y aVF
+T109	SYMPTOM 2637 2684	Ventrículo izquierdo de tamaño y función normal
+T110	SYMPTOM 2713 2758	Ventrículo derecho de tamaño y función normal
+T111	SYMPTOM 4169 4188	coronarias normales
+T112	SYMPTOM 4384 4416	cambios respiratorios recíprocos
+T113	SYMPTOM 5758 5809	Parénquima pulmonar sin alteraciones significativas
+T114	SYMPTOM 6065 6131	Contractilidad global y segmentaria de ventrículo izquierdo normal
+T115	SYMPTOM 6184 6217	Buena función ventricular derecha
+T116	SYMPTOM 6929 6961	función biventricular conservada
+T117	SYMPTOM 1421 1429	síncopes
+T118	SYMPTOM 507 539	Arterias coronarias sin lesiones
+T119	SYMPTOM 1239 1247	Ortopnea
+T120	SYMPTOM 1597 1607	AP: normal
+T121	SYMPTOM 1653 1670	knock pericárdico
+T122	SYMPTOM 3031 3053	Válvula aórtica normal
+T123	SYMPTOM 4266 4322	presiones telediastólicas derechas e izquierdas elevadas
+T124	SYMPTOM 3762 3825	Presiones telediastólicas igualadas en lado derecho e izquierdo
+T125	SYMPTOM 4336 4379	Presión en dip-plateau en ambos ventrículos
+T126	SYMPTOM 4841 4876	Coronarias epicárdicas sin lesiones
+T127	SYMPTOM 6133 6182	Movimiento discinético del septo interventricular
+T128	SYMPTOM 7346 7390	arterias coronarias epicárdicas sin lesiones
+T129	SYMPTOM 7442 7500	presiones telediastólicas derechas e izquierdas aumentadas
+T130	SYMPTOM 1710 1733	Extremidades: No edemas
+T131	SYMPTOM 108 117	fallecida
+T132	SYMPTOM 5380 5434	Cavidades ventriculares aparentemente de tamaño normal
+T133	MEDICATION 885 892	seguril
+T134	MEDICATION 906 915	aldactone
+T135	MEDICATION 930 939	higrotona
+T136	MEDICATION 953 958	Boi-K
+T137	MEDICATION 7211 7218	seguril
+T138	MEDICATION 7226 7235	aldactone
+T139	MEDICATION 8155 8165	furosemida
+T140	MEDICATION 8194 8203	aldactone
+T141	MEDICATION 8219 8228	higrotona
+T142	MEDICATION 8244 8252	potasión
+T143	MEDICATION 8355 8367	acenocumarol
+T144	MEDICATION 8396 8406	bisoprolol

@@ -1,0 +1,155 @@
+T1	DISEASE 75 98	alergias medicamentosas
+T2	DISEASE 130 151	hipertensión arterial
+T3	DISEASE 186 196	dislipemia
+T4	DISEASE 243 254	cardiopatía
+T5	DISEASE 256 278	insuficiencia cardiaca
+T6	DISEASE 283 296	muerte súbita
+T7	DISEASE 1248 1251	IAM
+T8	DISEASE 1704 1744	enfermedad arterial coronaria de 3 vasos
+T9	DISEASE 2030 2065	oclusión proximal coronaria derecha
+T10	DISEASE 2286 2315	comunicación interventricular
+T11	DISEASE 3051 3063	BAV Mobitz I
+T12	DISEASE 4493 4514	Enfermedad de 3 vasos
+T13	DISEASE 4586 4615	comunicación interventricular
+T14	DISEASE 5044 5072	insuficiencia aórtica ligera
+T15	DISEASE 5075 5111	insuficiencia mitral moderada-severa
+T16	DISEASE 5215 5240	Insuficiencia tricuspídea
+T17	DISEASE 5346 5404	shock cardiogénico refractario a tratamiento farmacológico
+T18	DISEASE 5426 5440	CIV posinfarto
+T19	DISEASE 5658 5687	comunicación interventricular
+T20	DISEASE 6440 6493	Ventrículo derecho no dilatado, con disfunción severa
+T21	DISEASE 6495 6520	Insuficiencia tricuspídea
+T22	DISEASE 6586 6615	comunicación interventricular
+T23	DISEASE 7110 7143	fibrilación auricular paroxística
+T24	DISEASE 7264 7323	insuficiencia respiratoria secundaria a hemorragia alveolar
+T25	DISEASE 7326 7365	síndrome de distress respiratorio agudo
+T26	DISEASE 7367 7456	neumonía nosocomial en lóbulo inferior derecho (Enterobacter cloacae y Citrobacter koseri
+T27	DISEASE 7460 7513	infección del tracto urinario por Serratia marcescens
+T28	DISEASE 7989 8010	insuficiencia aórtica
+T29	DISEASE 8020 8056	insuficiencia mitral moderada-severa
+T30	DISEASE 8153 8209	Infarto agudo de miocardio con elevación del ST inferior
+T31	DISEASE 8229 8254	Oclusión trombótica de CD
+T32	DISEASE 8291 8344	Enfermedad coronaria de 3 vasos (DA media, 1a OM y CD
+T33	DISEASE 8346 8382	comunicación interventricular septal
+T34	DISEASE 8468 8527	Miocardiopatía isquémica con disfunción sistólica VI severa
+T35	DISEASE 8529 8565	Insuficiencia mitral moderada-severa
+T36	DISEASE 996 1015	bloqueo AV Mobitz I
+T37	DISEASE 4541 4544	CIV
+T38	DISEASE 4140 4175	coronaria derecha: ocluida proximal
+T39	DISEASE 4304 4310	trombo
+T40	DISEASE 1750 1807	lesiones severas (90 %) en tándem en descendente anterior
+T41	DISEASE 2317 2320	CIV
+T42	DISEASE 3994 4051	circunfleja: ocluida a nivel de la primera marginal media
+T43	DISEASE 4781 4839	ventrículo izquierdo no hipertrófico, ligeramente dilatado
+T44	DISEASE 5123 5162	Ventrículo derecho ligeramente dilatado
+T45	DISEASE 5599 5626	ventrículo derecho dilatado
+T46	DISEASE 6107 6110	CIV
+T47	DISEASE 7743 7784	ventrículo izquierdo ligeramente dilatado
+T48	DISEASE 8068 8107	Ventrículo derecho ligeramente dilatado
+T49	DISEASE 8109 8138	Disfunción ventrículo derecho
+T50	DISEASE 3544 3574	arterias coronarias: estenosis
+T51	DISEASE 1949 1974	oclusión primera marginal
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 829 842	gafas nasales
+T54	PROCEDURE 859 877	exploración física
+T55	PROCEDURE 939 957	electrocardiograma
+T56	PROCEDURE 1503 1518	coronariografía
+T57	PROCEDURE 1676 1691	coronariografía
+T58	PROCEDURE 2091 2153	ICP a CD próximo-medial con implante de stent no farmacoactivo
+T59	PROCEDURE 2208 2240	ecografía cardiaca transtorácica
+T60	PROCEDURE 2430 2479	se implanta balón de contrapulsación intraaórtico
+T61	PROCEDURE 2679 2697	exploración física
+T62	PROCEDURE 2776 2797	Auscultación cardiaca
+T63	PROCEDURE 2906 2931	Auscultación respiratoria
+T64	PROCEDURE 3042 3045	ECG
+T65	PROCEDURE 3498 3513	Coronariografía
+T66	PROCEDURE 4195 4230	canula ostium de CD con catéter AR2
+T67	PROCEDURE 4232 4282	se pasa guía a distalidad de descendente posterior
+T68	PROCEDURE 4381 4415	implante de stent no farmacoactivo
+T69	PROCEDURE 4516 4539	ICP a CD próximo-medial
+T70	PROCEDURE 4552 4584	Ecografía cardiaca transtorácica
+T71	PROCEDURE 4713 4751	Ecocardiografía cardiaca transtorácica
+T72	PROCEDURE 5453 5485	ecografía cardiaca transtorácica
+T73	PROCEDURE 5779 5867	implante de sistema ECMO (extracorporeal membrane oxygenation) veno- arterial periférica
+T74	PROCEDURE 5883 5908	cirugía correctora de CIV
+T75	PROCEDURE 6054 6058	ECMO
+T76	PROCEDURE 6097 6176	cierre de CIV del septo posterior basal y medio con parche de pericardio bovino
+T77	PROCEDURE 6179 6235	bypass de arteria mamaria interna a descendente anterior
+T78	PROCEDURE 6248 6262	ecocardiograma
+T79	PROCEDURE 6309 6325	soporte con ECMO
+T80	PROCEDURE 6637 6653	soporte con ECMO
+T81	PROCEDURE 6813 6825	retirar ECMO
+T82	PROCEDURE 6918 6946	retirada de BCIA e inotropos
+T83	PROCEDURE 6966 7002	tratamiento oral con betabloqueantes
+T84	PROCEDURE 7011 7059	antagonistas de los receptores de la aldosterona
+T85	PROCEDURE 7145 7165	weaning respiratorio
+T86	PROCEDURE 7191 7215	traqueostomía percutánea
+T87	PROCEDURE 7220 7242	intubación orotraqueal
+T88	PROCEDURE 7585 7610	tratamiento neurohormonal
+T89	PROCEDURE 7645 7655	diuréticos
+T90	PROCEDURE 7682 7691	ecografía
+T91	PROCEDURE 8391 8429	Cierre con parche de pericardio bovino
+T92	PROCEDURE 8431 8466	Bypass arteria mamaria interna a DA
+T93	PROCEDURE 6001 6019	aminas vasoactivas
+T94	PROCEDURE 7004 7008	IECA
+T95	PROCEDURE 3274 3283	Analítica
+T96	PROCEDURE 2648 2671	intervención quirúrgica
+T97	PROCEDURE 6271 6294	intervención quirúrgica
+T98	PROCEDURE 1231 1251	Se activa código IAM
+T99	PROCEDURE 5407 5411	BCIA
+T100	PROCEDURE 6767 6771	BCIA
+T101	PROCEDURE 6841 6845	BCIA
+T102	PROCEDURE 8265 8289	ICPP a CD proximal-media
+T103	SYMPTOM 330 416	dolor torácico opresivo irradiado a mandíbula, extremidad superior izquierda y espalda
+T104	SYMPTOM 631 645	dolor torácico
+T105	SYMPTOM 894 926	soplo pansistólico en mesocardio
+T106	SYMPTOM 962 967	dolor
+T107	SYMPTOM 981 994	ritmo sinusal
+T108	SYMPTOM 1031 1067	Ondas Q patológicas en cara inferior
+T109	SYMPTOM 1179 1197	Elevación ST V3-V6
+T110	SYMPTOM 1414 1425	hipotensión
+T111	SYMPTOM 2699 2709	consciente
+T112	SYMPTOM 2712 2741	orientado en las tres esferas
+T113	SYMPTOM 2753 2774	mala perfusión distal
+T114	SYMPTOM 2799 2823	tonos cardiacos rítmicos
+T115	SYMPTOM 2825 2857	soplo pansistólico en mesocardio
+T116	SYMPTOM 2879 2900	Ingurgitación yugular
+T117	SYMPTOM 2933 2963	murmullo vesicular fisiológico
+T118	SYMPTOM 3000 3015	edemas declives
+T119	SYMPTOM 3047 3049	RS
+T120	SYMPTOM 3065 3077	QRS estrecho
+T121	SYMPTOM 3079 3095	ondas Q inferior
+T122	SYMPTOM 3098 3123	elevación del ST inferior
+T123	SYMPTOM 3215 3261	elevación del ST en V3-V6 con onda T negativas
+T124	SYMPTOM 4781 4817	ventrículo izquierdo no hipertrófico
+T125	SYMPTOM 4845 4884	función sistólica severamente deprimida
+T126	SYMPTOM 5599 5654	ventrículo derecho dilatado, ligeramente hipocontráctil
+T127	SYMPTOM 6345 6382	función ventricular izquierda estable
+T128	SYMPTOM 6384 6396	hiperdinamia
+T129	SYMPTOM 6440 6470	Ventrículo derecho no dilatado
+T130	SYMPTOM 7790 7829	función sistólica severamente deprimida
+T131	SYMPTOM 1202 1229	ondas T negativa anteriores
+T132	SYMPTOM 2400 2417	VD hipocontráctil
+T133	SYMPTOM 4909 4944	aquinesia septal, e inferoposterior
+T134	SYMPTOM 7854 7889	aquinesia septal, e inferoposterior
+T135	SYMPTOM 3525 3543	dominancia derecha
+T136	SYMPTOM 4473 4491	dominancia derecha
+T137	SYMPTOM 518 529	vegetatismo
+T138	SYMPTOM 1017 1029	QRS estrecho
+T139	SYMPTOM 1070 1095	elevación del ST inferior
+T140	SYMPTOM 3607 3641	tronco: buen calibre, sin lesiones
+T141	SYMPTOM 4694 4711	VD hipocontractil
+T142	SYMPTOM 5164 5202	Dinámica ventricular derecha deprimida
+T143	SYMPTOM 5268 5279	PAPs normal
+T144	SYMPTOM 5507 5559	ventrículo izquierdo normocontráctil de forma global
+T145	MEDICATION 1305 1327	ácido acetilsalicílico
+T146	MEDICATION 1336 1347	clopidogrel
+T147	MEDICATION 1356 1367	enoxaparina
+T148	MEDICATION 1376 1385	fentanilo
+T149	MEDICATION 1563 1573	dobutamina
+T150	MEDICATION 1576 1589	noradrenalina
+T151	MEDICATION 6682 6694	levosimendán
+T152	MEDICATION 6852 6862	dobutamina
+#1	AnnotatorNotes T37	 comunicación interventricular
+#2	AnnotatorNotes T41	 comunicación interventricular
+#3	AnnotatorNotes T46	 comunicación interventricular

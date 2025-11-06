@@ -1,0 +1,96 @@
+T1	ENFERMEDAD 147 170	alergias medicamentosas
+T2	ENFERMEDAD 257 283	hipertensión arterial leve
+T3	ENFERMEDAD 2605 2618	valvulopatías
+T4	ENFERMEDAD 2901 2910	arritmias
+T5	ENFERMEDAD 2963 2971	isquemia
+T6	ENFERMEDAD 3168 3212	extrasistolia supraventricular y ventricular
+T7	ENFERMEDAD 3424 3507	placa blanda en el tercio medio de la descendente anterior que condiciona estenosis
+T8	ENFERMEDAD 3913 3934	vasoespasmo coronario
+T9	ENFERMEDAD 4467 4488	vasoespasmo coronario
+T10	ENFERMEDAD 4809 4817	isquemia
+T11	ENFERMEDAD 4890 4922	lesiones coronarias obstructivas
+T12	ENFERMEDAD 4986 5051	estenosis no significativas en descendente anterior y circunfleja
+T13	ENFERMEDAD 5325 5341	hábito tabáquico
+T14	ENFERMEDAD 5407 5427	Angina vasoespástica
+T15	ENFERMEDAD 172 184	había fumado
+T16	ENFERMEDAD 3283 3369	placas cálcicas en el tercio proximal de la arteria descendente anterior y circunfleja
+T17	PROCEDIMIENTO 1230 1248	Exploración física
+T18	PROCEDIMIENTO 1563 1584	Auscultación cardiaca
+T19	PROCEDIMIENTO 1626 1647	Auscultación pulmonar
+T20	PROCEDIMIENTO 1849 1852	ECG
+T21	PROCEDIMIENTO 1980 1989	hemograma
+T22	PROCEDIMIENTO 2076 2087	Coagulación
+T23	PROCEDIMIENTO 2326 2346	Radiografía de tórax
+T24	PROCEDIMIENTO 2370 2385	Ecocardioscopia
+T25	PROCEDIMIENTO 2705 2721	Test de esfuerzo
+T26	PROCEDIMIENTO 2974 2984	Holter ECG
+T27	PROCEDIMIENTO 3225 3251	TAC de arterias coronarias
+T28	PROCEDIMIENTO 3646 3684	marcadores de daño miocárdico seriados
+T29	PROCEDIMIENTO 3765 3780	ecocardioscopia
+T30	PROCEDIMIENTO 4232 4238	Holter
+T31	PROCEDIMIENTO 4733 4743	ergometría
+T32	PROCEDIMIENTO 4947 4973	TAC de arterias coronarias
+T33	PROCEDIMIENTO 2188 2198	Bioquímica
+T34	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDIMIENTO 4553 4561	nitratos
+T36	PROCEDIMIENTO 1956 1965	Analítica
+T37	PROCEDIMIENTO 3958 3966	nitratos
+T38	SINTOMA 371 380	dispepsia
+T39	SINTOMA 533 562	dolor centrotorácico opresivo
+T40	SINTOMA 626 631	dolor
+T41	SINTOMA 767 782	sudoración leve
+T42	SINTOMA 1391 1410	Buen estado general
+T43	SINTOMA 1412 1422	Consciente
+T44	SINTOMA 1424 1433	orientado
+T45	SINTOMA 1448 1466	Eupneico en reposo
+T46	SINTOMA 1468 1482	Normohidratado
+T47	SINTOMA 1484 1498	Normocoloreado
+T48	SINTOMA 1500 1529	Presión venosa yugular normal
+T49	SINTOMA 1531 1549	Carótidas rítmicas
+T50	SINTOMA 1555 1561	soplos
+T51	SINTOMA 1563 1592	Auscultación cardiaca rítmica
+T52	SINTOMA 1597 1603	soplos
+T53	SINTOMA 1652 1681	murmullo vesicular conservado
+T54	SINTOMA 1746 1778	Extremidades inferiores normales
+T55	SINTOMA 1780 1821	Pulsos periféricos presentes y simétricos
+T56	SINTOMA 1867 1880	ritmo sinusal
+T57	SINTOMA 1891 1900	PR normal
+T58	SINTOMA 1902 1914	QRS estrecho
+T59	SINTOMA 1920 1953	alteraciones de la repolarización
+T60	SINTOMA 2326 2367	Radiografía de tórax en Urgencias: normal
+T61	SINTOMA 2400 2464	ventrículo izquierdo de tamaño y función sistólica global normal
+T62	SINTOMA 2517 2572	Ventrículo derecho de tamaño y función sistólica normal
+T63	SINTOMA 2685 2702	Pericardio normal
+T64	SINTOMA 2842 2883	Respuesta tensional y cronotropa normales
+T65	SINTOMA 3065 3079	dolor torácico
+T66	SINTOMA 3104 3129	elevación del segmento ST
+T67	SINTOMA 3584 3596	asintomático
+T68	SINTOMA 3599 3624	estable hemodinámicamente
+T69	SINTOMA 4097 4102	dolor
+T70	SINTOMA 4181 4194	palpitaciones
+T71	SINTOMA 4196 4201	mareo
+T72	SINTOMA 4310 4347	elevación transitoria del segmento ST
+T73	SINTOMA 4386 4400	dolor torácico
+T74	SINTOMA 4566 4573	cefalea
+T75	SINTOMA 4606 4615	dispepsia
+T76	SINTOMA 4204 4211	síncope
+T77	SINTOMA 2470 2515	alteraciones de la contractilidad segmentaria
+T78	SINTOMA 1709 1733	Abdomen sin alteraciones
+T79	SINTOMA 5429 5461	Arterias coronarias sin lesiones
+T80	SINTOMA 1435 1446	colaborador
+T81	SINTOMA 2036 2050	fórmula normal
+T82	SINTOMA 1605 1610	roces
+T83	SINTOMA 2573 2591	Aurículas normales
+T84	SINTOMA 3646 3698	marcadores de daño miocárdico seriados son negativos
+T85	SINTOMA 3765 3815	ecocardioscopia donde no se objetivan alteraciones
+T86	SINTOMA 4733 4803	ergometría, que resulta concluyente, clínica y eléctricamente negativa
+T87	FARMACO 347 356	omeprazol
+T88	FARMACO 812 834	ácido acetilsalicílico
+T89	FARMACO 851 861	bisoprolol
+T90	FARMACO 878 887	omeprazol
+T91	FARMACO 904 918	nitroglicerina
+T92	FARMACO 1087 1101	nitroglicerina
+T93	FARMACO 4505 4515	bisoprolol
+T94	FARMACO 4579 4601	ácido acetilsalicílico
+T95	FARMACO 4629 4638	diltiazem
+T96	FARMACO 5064 5076	simvastatina

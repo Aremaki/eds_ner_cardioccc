@@ -1,0 +1,174 @@
+T1	DISEASE 89 97	alergias
+T2	DISEASE 151 166	hábitos tóxicos
+T3	DISEASE 168 199	Neumonía bilateral por COVID-19
+T4	DISEASE 369 383	fractura de L2
+T5	DISEASE 972 989	neumonía COVID-19
+T6	DISEASE 1122 1133	fractura L2
+T7	DISEASE 1737 1744	ascitis
+T8	DISEASE 1845 1870	trombosis venosa profunda
+T9	DISEASE 1872 1875	TVP
+T10	DISEASE 2996 3018	Bronquiectasias en LII
+T11	DISEASE 3441 3466	derrame pericárdico grave
+T12	DISEASE 3904 3919	derrame pleural
+T13	DISEASE 4281 4294	valvulopatías
+T14	DISEASE 4323 4335	endocarditis
+T15	DISEASE 4337 4365	Derrame pericárdico moderado
+T16	DISEASE 5115 5140	Derrame pleural bilateral
+T17	DISEASE 5292 5304	endocarditis
+T18	DISEASE 5306 5325	Derrame pericárdico
+T19	DISEASE 5467 5486	derrame pericárdico
+T20	DISEASE 5561 5573	pericarditis
+T21	DISEASE 5585 5615	insuficiencia cardiaca derecha
+T22	DISEASE 5620 5637	hígado congestivo
+T23	DISEASE 5640 5655	edema vesicular
+T24	DISEASE 5657 5682	Derrame pleural bilateral
+T25	DISEASE 5687 5727	atelectasia pasiva de lóbulos inferiores
+T26	DISEASE 5841 5864	espondilodiscitis L2-L3
+T27	DISEASE 5859 5890	L2-L3 o fractura por compresión
+T28	DISEASE 5938 5971	artritis séptica de ambos hombros
+T29	DISEASE 6008 6042	espondilodiscitis infecciosa L2-L3
+T30	DISEASE 6785 6807	insuficiencia cardiaca
+T31	DISEASE 7118 7143	derrame pericárdico grave
+T32	DISEASE 7303 7325	pericarditis purulenta
+T33	DISEASE 7759 7771	endocarditis
+T34	DISEASE 7800 7807	derrame
+T35	DISEASE 7880 7913	pericarditis efusivo-constrictiva
+T36	DISEASE 8078 8092	focos sépticos
+T37	DISEASE 8250 8283	artritis séptica en ambos hombros
+T38	DISEASE 8285 8311	espondilodiscitis en L2-L3
+T39	DISEASE 8324 8353	abscesos en psoas bilaterales
+T40	DISEASE 8386 8415	lesión en extremidad inferior
+T41	DISEASE 8441 8450	celulitis
+T42	DISEASE 8557 8582	abscesos en músculo psoas
+T43	DISEASE 8682 8701	derrame pericárdico
+T44	DISEASE 8837 8854	focos infecciosos
+T45	DISEASE 9305 9325	Bacteriemia por SAMS
+T46	DISEASE 9359 9381	pericarditis purulenta
+T47	DISEASE 9383 9410	abscesos múltiples en psoas
+T48	DISEASE 9412 9429	espondilodiscitis
+T49	DISEASE 9431 9440	celulitis
+T50	DISEASE 9442 9478	artritis séptica de hombro bilateral
+T51	DISEASE 9481 9514	Pericarditis efusivo-constrictiva
+T52	DISEASE 2007 2039	Cicatriz de venoclisis en muñeca
+T53	DISEASE 3047 3070	decompensación cardiaca
+T54	DISEASE 3074 3100	consolidaciones neumónicas
+T55	DISEASE 3610 3637	colapso de aurícula derecha
+T56	DISEASE 3645 3678	vena cava inferior (VCI) dilatada
+T57	DISEASE 4804 4821	dilatación de VCI
+T58	DISEASE 5217 5230	valvulopatías
+T59	DISEASE 5729 5771	Abscesos múltiples en ambos músculos psoas
+T60	DISEASE 5773 5829	Erosión del platillo superior del cuerpo vertebral de L3
+T61	DISEASE 6225 6248	Abscesos en ambos psoas
+T62	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 236 262	tratamiento con corticoide
+T64	PROCEDURE 341 365	tomografía computarizada
+T65	PROCEDURE 1162 1180	Exploración física
+T66	PROCEDURE 1418 1439	Auscultación cardiaca
+T67	PROCEDURE 1500 1521	Auscultación pulmonar
+T68	PROCEDURE 2617 2635	Electrocardiograma
+T69	PROCEDURE 2637 2640	ECG
+T70	PROCEDURE 2874 2907	Radiografía de tórax, portátil AP
+T71	PROCEDURE 3102 3122	Serología SARS-CoV-2
+T72	PROCEDURE 3158 3170	Hemocultivos
+T73	PROCEDURE 3248 3279	Análisis de líquido pericárdico
+T74	PROCEDURE 3417 3431	Ecocardiograma
+T75	PROCEDURE 4059 4073	Ecocardiograma
+T76	PROCEDURE 5142 5156	Ecocardiograma
+T77	PROCEDURE 5447 5465	TC toracoabdominal
+T78	PROCEDURE 5892 5936	Resonancia magnética nuclear (RMN) de hombro
+T79	PROCEDURE 5973 5983	RMN lumbar
+T80	PROCEDURE 7050 7073	se extraen hemocultivos
+T81	PROCEDURE 7081 7095	ecocardiograma
+T82	PROCEDURE 7227 7239	hemocultivos
+T83	PROCEDURE 7348 7387	drenaje pericárdico por vía subxifoidea
+T84	PROCEDURE 7400 7414	antibioterapia
+T85	PROCEDURE 7449 7481	cultivos del líquido pericárdico
+T86	PROCEDURE 7634 7665	drenaje del líquido pericárdico
+T87	PROCEDURE 7692 7721	ecocardiograma transesofágico
+T88	PROCEDURE 7723 7726	ETE
+T89	PROCEDURE 7817 7820	ETE
+T90	PROCEDURE 8120 8138	TC toracoabdominal
+T91	PROCEDURE 8141 8194	resonancia magnética de ambos hombros y región lumbar
+T92	PROCEDURE 8503 8517	antibioterapia
+T93	PROCEDURE 8542 8582	drenaje de los abscesos en músculo psoas
+T94	PROCEDURE 8610 8617	cultivo
+T95	PROCEDURE 8645 8659	ecocardiograma
+T96	PROCEDURE 8936 8948	hemocultivos
+T97	PROCEDURE 9021 9044	antibiótico intravenoso
+T98	PROCEDURE 5922 5925	RMN
+T99	PROCEDURE 2076 2085	Analítica
+T100	PROCEDURE 6353 6362	Analítica
+T101	PROCEDURE 6914 6923	analítica
+T102	PROCEDURE 8203 8221	estudios de imagen
+T103	SYMPTOM 305 317	dolor lumbar
+T104	SYMPTOM 598 603	dolor
+T105	SYMPTOM 693 699	disnea
+T106	SYMPTOM 741 763	presión centrotorácica
+T107	SYMPTOM 798 803	dolor
+T108	SYMPTOM 870 906	edematización de miembros inferiores
+T109	SYMPTOM 909 940	aumento del perímetro abdominal
+T110	SYMPTOM 1011 1017	fiebre
+T111	SYMPTOM 1020 1040	sensación distérmica
+T112	SYMPTOM 1051 1107	dolor de características mecánicas en región lumbar alta
+T113	SYMPTOM 1294 1316	Regular estado general
+T114	SYMPTOM 1318 1339	taquipneica en reposo
+T115	SYMPTOM 1341 1360	Palidez mucocutánea
+T116	SYMPTOM 1362 1383	Ingurgitación yugular
+T117	SYMPTOM 1386 1416	reflujo hepatoyugular positivo
+T118	SYMPTOM 1441 1466	ruidos cardiacos rítmicos
+T119	SYMPTOM 1472 1478	soplos
+T120	SYMPTOM 1482 1498	roce pericárdico
+T121	SYMPTOM 1523 1546	hipoventilación en base
+T122	SYMPTOM 1590 1663	Abdomen blando, ligeramente doloroso en mesogastrio e hipocondrio derecho
+T123	SYMPTOM 1669 1686	defensa abdominal
+T124	SYMPTOM 1693 1717	peristaltismo conservado
+T125	SYMPTOM 1760 1781	irritación peritoneal
+T126	SYMPTOM 1797 1830	edema tibial y maleolar bilateral
+T127	SYMPTOM 1878 1921	Dolor a movilización de miembros inferiores
+T128	SYMPTOM 1926 1951	signo de Lasegue positivo
+T129	SYMPTOM 1953 2005	Dolor a la palpación en apófisis espinosas de L2- L4
+T130	SYMPTOM 2505 2525	desviación izquierda
+T131	SYMPTOM 2656 2675	taquicardia sinusal
+T132	SYMPTOM 2687 2739	PR ligeramente descendido en cara inferior y lateral
+T133	SYMPTOM 2741 2753	QRS estrecho
+T134	SYMPTOM 2755 2820	Elevación cóncava inframilimétrica del ST en V3-V6, DI, DII y aVF
+T135	SYMPTOM 2963 2994	Vascularización pulmonar normal
+T136	SYMPTOM 3102 3156	Serología SARS-CoV-2 al ingreso: Ig G y Ig M positivas
+T137	SYMPTOM 3158 3219	Hemocultivos al ingreso: positivos para Staphylococcus aureus
+T138	SYMPTOM 3935 3963	Función biventricular normal
+T139	SYMPTOM 3969 4003	alteraciones valvulares de interés
+T140	SYMPTOM 5142 5211	Ecocardiograma de control: función sistólica biventricular conservada
+T141	SYMPTOM 5243 5263	PSAP estimada normal
+T142	SYMPTOM 6835 6855	dolor centrotorácico
+T143	SYMPTOM 6870 6907	elevación de reactantes de fase aguda
+T144	SYMPTOM 7021 7027	fiebre
+T145	SYMPTOM 7227 7281	hemocultivos extraídos se objetiva crecimiento de SAMS
+T146	SYMPTOM 7462 7500	líquido pericárdico resultan estériles
+T147	SYMPTOM 7982 8046	dolor en región lumbar alta, ambos hombros y extremidad inferior
+T148	SYMPTOM 8484 8490	fiebre
+T149	SYMPTOM 8723 8746	compromiso hemodinámico
+T150	SYMPTOM 8924 8930	fiebre
+T151	SYMPTOM 4091 4110	taquicardia sinusal
+T152	SYMPTOM 2832 2872	alteraciones agudas de la repolarización
+T153	SYMPTOM 4212 4247	Ventrículo derecho (VD) no dilatado
+T154	SYMPTOM 4112 4130	FEVI hiperdinámica
+T155	SYMPTOM 4132 4160	Movimiento septal paradójico
+T156	SYMPTOM 4249 4275	FEVD ligeramente deprimida
+T157	SYMPTOM 8584 8637	aislándose de nuevo en el cultivo del líquido un SAMS
+T158	SYMPTOM 2909 2961	índice cardiotorácico 0,5-0,6, ligeramente aumentado
+T159	SYMPTOM 3580 3604	repercusión hemodinámica
+T160	SYMPTOM 3805 3886	Manto de fibrina sobre cavidades derechas y tractos finos de fibrina lateral a VI
+T161	SYMPTOM 4682 4706	repercusión hemodinámica
+T162	SYMPTOM 7942 7971	síntomas cardiorrespiratorios
+T163	SYMPTOM 8936 8987	hemocultivos de control periódicos fueron negativos
+T164	MEDICATION 489 498	omeprazol
+T165	MEDICATION 520 532	dexametasona
+T166	MEDICATION 553 562	metamizol
+T167	MEDICATION 606 617	enoxaparina
+T168	MEDICATION 7419 7429	cefazolina
+T169	MEDICATION 7432 7443	daptomicina
+T170	MEDICATION 9126 9135	omeprazol
+T171	MEDICATION 9157 9171	dexketoprofeno
+T172	MEDICATION 9193 9203	colchicina
+T173	MEDICATION 9226 9237	paracetamol
+T174	MEDICATION 9257 9267	bemiparina

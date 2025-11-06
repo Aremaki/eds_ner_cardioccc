@@ -1,0 +1,149 @@
+T1	DISEASE 400 421	hipertensión arterial
+T2	DISEASE 435 452	obesidad moderada
+T3	DISEASE 1526 1539	Cardiomegalia
+T4	DISEASE 1751 1767	síndrome aórtico
+T5	DISEASE 1769 1782	Cardiomegalia
+T6	DISEASE 1792 1811	derrame pericárdico
+T7	DISEASE 2001 2061	insuficiencia aórtica moderada-severa sobre válvula trivalva
+T8	DISEASE 2195 2225	hipertrofia concéntrica severa
+T9	DISEASE 2545 2622	ventrículo izquierdo mostraba una hipertrofia excéntrica moderada, dilatación
+T10	DISEASE 2978 2999	insuficiencia aórtica
+T11	DISEASE 3118 3147	dilatación de la raíz aórtica
+T12	DISEASE 3341 3371	dilatación de aorta ascendente
+T13	DISEASE 3431 3452	insuficiencia aórtica
+T14	DISEASE 3651 3673	insuficiencia cardiaca
+T15	DISEASE 3799 3821	insuficiencia valvular
+T16	DISEASE 3876 3904	insuficiencia renal moderada
+T17	DISEASE 4254 4276	síndrome aórtico agudo
+T18	DISEASE 4533 4552	necrosis miocárdica
+T19	DISEASE 4555 4577	insuficiencia cardiaca
+T20	DISEASE 4839 4876	insuficiencia aórtica moderada-severa
+T21	DISEASE 4928 4940	endocarditis
+T22	DISEASE 5110 5122	endocarditis
+T23	DISEASE 5596 5607	miocarditis
+T24	DISEASE 5610 5629	necrosis miocárdica
+T25	DISEASE 5659 5680	insuficiencia aórtica
+T26	DISEASE 5933 5963	lesión no significativa en ACD
+T27	DISEASE 5978 6015	severidad de la insuficiencia aórtica
+T28	DISEASE 6102 6130	fibrilación auricular rápida
+T29	DISEASE 6203 6249	descompensación leve de insuficiencia cardiaca
+T30	DISEASE 6494 6515	edema agudo de pulmón
+T31	DISEASE 6760 6772	endocarditis
+T32	DISEASE 6802 6841	disección localizada de la raíz aórtica
+T33	DISEASE 7031 7093	rotura intimal circunferencial a nivel de la unión sinotubular
+T34	DISEASE 7174 7195	insuficiencia aórtica
+T35	DISEASE 7370 7392	insuficiencia cardiaca
+T36	DISEASE 7541 7562	insuficiencia aórtica
+T37	DISEASE 7621 7657	Disección localizada de raíz aórtica
+T38	DISEASE 271 279	alergias
+T39	DISEASE 4315 4338	emergencia hipertensiva
+T40	DISEASE 1878 1891	hepatomegalia
+T41	DISEASE 1300 1333	hipertrofia ventricular izquierda
+T42	DISEASE 6466 6477	hipotensión
+T43	DISEASE 1437 1456	necrosis miocárdica
+T44	DISEASE 186 193	síncope
+T45	DISEASE 677 684	síncope
+T46	DISEASE 358 368	tabaquismo
+T47	DISEASE 2109 2155	ventrículo izquierdo está ligeramente dilatado
+T48	DISEASE 7000 7016	disección tipo A
+T49	DISEASE 4670 4685	foco infeccioso
+T50	DISEASE 6306 6321	foco infeccioso
+T51	DISEASE 1896 1915	esteatosis hepática
+T52	DISEASE 2076 2104	dilatación de anillo aórtico
+T53	DISEASE 6860 6888	insuficiencia aórtica severa
+T54	DISEASE 7662 7696	insuficiencia aórtica severa aguda
+T55	PROCEDURE 230 248	exploración física
+T56	PROCEDURE 890 908	exploración física
+T57	PROCEDURE 1146 1164	exploración física
+T58	PROCEDURE 1209 1212	ECG
+T59	PROCEDURE 1513 1524	Rx de tórax
+T60	PROCEDURE 1585 1594	Angio TAC
+T61	PROCEDURE 1919 1947	Ecocardiograma transtorácico
+T62	PROCEDURE 2382 2411	Resonancia magnética cardiaca
+T63	PROCEDURE 3244 3264	Cateterismo cardiaco
+T64	PROCEDURE 3309 3320	aortografía
+T65	PROCEDURE 3546 3575	Ecocardiograma transesofágico
+T66	PROCEDURE 4140 4149	hemograma
+T67	PROCEDURE 4229 4238	angio TAC
+T68	PROCEDURE 4384 4393	angio TAC
+T69	PROCEDURE 4745 4757	hemocultivos
+T70	PROCEDURE 4803 4831	ecocardiograma transtorácico
+T71	PROCEDURE 4892 4914	estudio transesofágico
+T72	PROCEDURE 5344 5347	ECG
+T73	PROCEDURE 5439 5478	resonancia magnética cardiaca de estrés
+T74	PROCEDURE 5543 5553	resonancia
+T75	PROCEDURE 5882 5914	cateterismo cardiaco diagnóstico
+T76	PROCEDURE 6135 6174	cardioversión farmacológica y eléctrica
+T77	PROCEDURE 6344 6356	hemocultivos
+T78	PROCEDURE 6580 6602	intubación orotraqueal
+T79	PROCEDURE 6605 6625	ventilación mecánica
+T80	PROCEDURE 6636 6677	soporte inotrópico con drogas vasoactivas
+T81	PROCEDURE 6690 6719	ecocardiograma transesofácico
+T82	PROCEDURE 6736 6744	intubado
+T83	PROCEDURE 7569 7583	ecocardiograma
+T84	PROCEDURE 6945 6957	intervención
+T85	PROCEDURE 4116 4126	bioquímica
+T86	PROCEDURE 4011 4028	enzimas hepáticas
+T87	PROCEDURE 1423 1456	marcadores de necrosis miocárdica
+T88	PROCEDURE 4519 4577	marcadores de necrosis miocárdica e insuficiencia cardiaca
+T89	PROCEDURE 1365 1374	Analítica
+T90	PROCEDURE 7257 7264	cirugía
+T91	PROCEDURE 7429 7436	cirugía
+T92	PROCEDURE 2934 2961	realce tardío con gadolinio
+T93	PROCEDURE 4476 4501	estudio de dolor torácico
+T94	SYMPTOM 68 91	dolor torácico punzante
+T95	SYMPTOM 160 166	disnea
+T96	SYMPTOM 168 181	palpitaciones
+T97	SYMPTOM 560 583	dolor torácico punzante
+T98	SYMPTOM 652 658	disnea
+T99	SYMPTOM 660 673	palpitaciones
+T100	SYMPTOM 709 727	mal estado general
+T101	SYMPTOM 733 751	sudoración profusa
+T102	SYMPTOM 754 763	taquipnea
+T103	SYMPTOM 920 936	soplo diastólico
+T104	SYMPTOM 987 1015	hipoventilación generalizada
+T105	SYMPTOM 1020 1057	crepitantes en ambas bases pulmonares
+T106	SYMPTOM 1059 1088	edema tibiomaleolar con fóvea
+T107	SYMPTOM 1091 1132	pulsos periféricos presentes y simétricos
+T108	SYMPTOM 1225 1238	Ritmo sinusal
+T109	SYMPTOM 1249 1258	PR normal
+T110	SYMPTOM 1260 1272	QRS estrecho
+T111	SYMPTOM 1335 1361	T negativa en cara lateral
+T112	SYMPTOM 1561 1581	Engrosamiento hiliar
+T113	SYMPTOM 2238 2288	función sistólica global y segmentaria conservadas
+T114	SYMPTOM 2691 2753	función sistólica segmentaria y global dentro de la normalidad
+T115	SYMPTOM 2789 2853	ventrículo derecho era normal en dimensiones y función sistólica
+T116	SYMPTOM 2887 2892	edema
+T117	SYMPTOM 3391 3427	borramiento de los senos de Valsalva
+T118	SYMPTOM 4340 4354	dolor punzante
+T119	SYMPTOM 4357 4379	elevación de troponina
+T120	SYMPTOM 4487 4501	dolor torácico
+T121	SYMPTOM 4644 4655	pico febril
+T122	SYMPTOM 4745 4777	hemocultivos repetidos negativos
+T123	SYMPTOM 5241 5247	fiebre
+T124	SYMPTOM 5308 5322	dolor torácico
+T125	SYMPTOM 5368 5410	negativización de ondas T en cara anterior
+T126	SYMPTOM 5758 5791	elevación progresiva de troponina
+T127	SYMPTOM 5828 5868	profundización de onda T en cara lateral
+T128	SYMPTOM 6068 6079	pico febril
+T129	SYMPTOM 6344 6377	hemocultivos nuevamente negativos
+T130	SYMPTOM 6440 6452	desaturación
+T131	SYMPTOM 6454 6463	taquipnea
+T132	SYMPTOM 7324 7338	picos febriles
+T133	SYMPTOM 7463 7483	clínicamente estable
+T134	SYMPTOM 7486 7498	asintomático
+T135	SYMPTOM 5509 5538	necrosis o isquemia inducible
+T136	SYMPTOM 1423 1465	marcadores de necrosis miocárdica elevados
+T137	SYMPTOM 1541 1559	Elongación aórtica
+T138	SYMPTOM 4011 4057	enzimas hepáticas estaban ligeramente elevadas
+T139	SYMPTOM 4506 4577	elevación de marcadores de necrosis miocárdica e insuficiencia cardiaca
+T140	SYMPTOM 5251 5269	clínica infecciosa
+T141	SYMPTOM 2299 2366	ventrículo derecho como el resto de válvulas no presentan hallazgos
+T142	SYMPTOM 2896 2924	alteraciones en la perfusión
+T143	SYMPTOM 3714 3760	válvula aórtica trivalva con correcta apertura
+T144	SYMPTOM 1596 1683	Raíz aórtica y segmento proximal de aorta ascendente en el límite alto de la normalidad
+T145	SYMPTOM 2534 2540	apneas
+T146	SYMPTOM 3470 3542	arterias coronarias no presentaban lesiones angiográficas significativas
+T147	SYMPTOM 4384 4418	angio TAC es informado como normal
+T148	SYMPTOM 5543 5570	resonancia resulta negativa
+T149	SYMPTOM 5808 5826	cambios eléctricos

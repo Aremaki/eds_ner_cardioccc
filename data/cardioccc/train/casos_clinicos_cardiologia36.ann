@@ -1,0 +1,34 @@
+T1	DISEASE 445 492	endocarditis aórtica con una vegetación aórtica
+T2	DISEASE 513 541	insuficiencia aortica severa
+T3	DISEASE 543 570	insuficiencia mitral severa
+T4	DISEASE 573 598	falla cardiaca congestiva
+T5	DISEASE 961 1002	aneurisma en la arteria coronaria derecha
+T6	DISEASE 1179 1205	neoplasia gastrointestinal
+T7	DISEASE 1342 1415	sistema nervioso central evidencia hemorragia intraparenquimatosa derecha
+T8	DISEASE 1477 1525	aneurisma roto de arteria cerebral media derecha
+T9	DISEASE 1539 1557	aneurisma micótico
+T10	DISEASE 1571 1579	hematoma
+T11	DISEASE 87 99	toxicomanías
+T12	PROCEDURE 401 429	ecocardiograma transtorácico
+T13	PROCEDURE 613 624	hemocultivo
+T14	PROCEDURE 710 731	cobertura antibiótica
+T15	PROCEDURE 784 832	tomografía axial computarizada de columna lumbar
+T16	PROCEDURE 923 944	cateterismo coronario
+T17	PROCEDURE 1224 1247	tratamiento antibiótico
+T18	PROCEDURE 1308 1366	tomografía axial computarizada de sistema nervioso central
+T19	PROCEDURE 1559 1600	se drena el hematoma y se realiza clipaje
+T20	PROCEDURE 1159 1166	cirugía
+T21	PROCEDURE 1656 1663	cirugía
+T22	SYMPTOM 187 196	hiporexia
+T23	SYMPTOM 198 205	astenia
+T24	SYMPTOM 208 216	adinamia
+T25	SYMPTOM 221 236	pérdida de peso
+T26	SYMPTOM 284 326	fiebre cuantificada de predominio nocturno
+T27	SYMPTOM 329 356	disnea progresiva en reposo
+T28	SYMPTOM 368 384	edemas podálicos
+T29	SYMPTOM 613 665	hemocultivo positivo para Streptococcus gallolyticus
+T30	SYMPTOM 1270 1303	deterioro súbito de la conciencia
+T31	SYMPTOM 1624 1631	fallece
+T32	SYMPTOM 150 175	síntomas constitucionales
+T33	SYMPTOM 852 876	áreas hipodensas en bazo
+T34	MEDICATION 677 687	penicilina

@@ -1,0 +1,205 @@
+T1	ENFERMEDAD 134 152	síndrome de Marfan
+T2	ENFERMEDAD 413 434	hipertensión arterial
+T3	ENFERMEDAD 436 439	HTA
+T4	ENFERMEDAD 445 462	diabetes mellitus
+T5	ENFERMEDAD 464 466	DM
+T6	ENFERMEDAD 472 482	dislipemia
+T7	ENFERMEDAD 902 925	cardiopatía estructural
+T8	ENFERMEDAD 1192 1199	síncope
+T9	ENFERMEDAD 1638 1664	parada cardiorrespiratoria
+T10	ENFERMEDAD 1783 1806	fibrilación ventricular
+T11	ENFERMEDAD 2456 2478	síndrome aórtico agudo
+T12	ENFERMEDAD 2679 2703	tromboembolismo pulmonar
+T13	ENFERMEDAD 2707 2719	flap aórtico
+T14	ENFERMEDAD 2898 2907	arritmias
+T15	ENFERMEDAD 3465 3490	trombosis venosa profunda
+T16	ENFERMEDAD 3492 3495	TVP
+T17	ENFERMEDAD 5649 5670	hipertensión pulmonar
+T18	ENFERMEDAD 5686 5705	derrame pericárdico
+T19	ENFERMEDAD 6169 6191	síndrome aórtico agudo
+T20	ENFERMEDAD 6340 6360	arritmias sostenidas
+T21	ENFERMEDAD 6591 6603	canalopatías
+T22	ENFERMEDAD 6773 6792	síndrome de Brugada
+T23	ENFERMEDAD 7001 7027	parada cardiorrespiratoria
+T24	ENFERMEDAD 7041 7064	fibrilación ventricular
+T25	ENFERMEDAD 7216 7226	dislipemia
+T26	ENFERMEDAD 7611 7622	vasoespasmo
+T27	ENFERMEDAD 7988 8013	extrasistolia ventricular
+T28	ENFERMEDAD 8054 8108	lesión subepicárdica ínfero-posterolateral transitoria
+T29	ENFERMEDAD 8137 8158	vasoespasmo coronario
+T30	ENFERMEDAD 8366 8386	angina vasoespástica
+T31	ENFERMEDAD 9199 9214	ateroesclerosis
+T32	ENFERMEDAD 9497 9520	fibrilación ventricular
+T33	ENFERMEDAD 9522 9542	Angina vasoespástica
+T34	ENFERMEDAD 9655 9675	angina vasoespástica
+T35	ENFERMEDAD 9678 9688	Dislipemia
+T36	ENFERMEDAD 9443 9469	Parada cardiorrespiratoria
+T37	ENFERMEDAD 9419 9426	Síncope
+T38	ENFERMEDAD 7318 7339	TV polimórfica rápida
+T39	ENFERMEDAD 7349 7390	episodios no sostenidos de TV polimórfica
+T40	ENFERMEDAD 8404 8416	TV sostenida
+T41	ENFERMEDAD 8026 8030	TVNS
+T42	ENFERMEDAD 9346 9350	TVNS
+T43	ENFERMEDAD 9586 9639	Taquicardias ventriculares sostenidas y no sostenidas
+T44	ENFERMEDAD 46 69	alergias medicamentosas
+T45	ENFERMEDAD 8642 8651	arritmias
+T46	ENFERMEDAD 3748 3763	daño miocardico
+T47	ENFERMEDAD 686 726	episodio sincopal de perfil cardiogénico
+T48	ENFERMEDAD 9007 9024	episodio sincopal
+T49	ENFERMEDAD 371 379	fumadora
+T50	ENFERMEDAD 970 978	isquemia
+T51	ENFERMEDAD 1146 1153	síncope
+T52	ENFERMEDAD 9308 9344	taquicardia ventricular no sostenida
+T53	ENFERMEDAD 1666 1669	PCR
+T54	ENFERMEDAD 8419 8444	descarga apropiada de DAI
+T55	ENFERMEDAD 2632 2664	dilatación de cavidades derechas
+T56	ENFERMEDAD 6387 6391	TVNS
+T57	PROCEDIMIENTO 168 184	estudio genético
+T58	PROCEDIMIENTO 812 864	monitorización con electrocardiograma (ECG) continua
+T59	PROCEDIMIENTO 851 854	ECG
+T60	PROCEDIMIENTO 875 889	ecocardiograma
+T61	PROCEDIMIENTO 949 998	test de detección de isquemia mediante ergometría
+T62	PROCEDIMIENTO 1684 1724	maniobras de resucitación cardiopulmonar
+T63	PROCEDIMIENTO 1726 1729	RCP
+T64	PROCEDIMIENTO 1888 1910	intubación orotraqueal
+T65	PROCEDIMIENTO 1912 1915	IOT
+T66	PROCEDIMIENTO 1919 1959	conexión a ventilación mecánica invasiva
+T67	PROCEDIMIENTO 1961 1964	VMI
+T68	PROCEDIMIENTO 2127 2130	ECG
+T69	PROCEDIMIENTO 2227 2230	ECG
+T70	PROCEDIMIENTO 2315 2330	coronariografía
+T71	PROCEDIMIENTO 2402 2413	aortografía
+T72	PROCEDIMIENTO 2416 2432	ventriculografía
+T73	PROCEDIMIENTO 3255 3276	Auscultación cardiaca
+T74	PROCEDIMIENTO 3315 3336	Auscultación pulmonar
+T75	PROCEDIMIENTO 4188 4197	Hemograma
+T76	PROCEDIMIENTO 4315 4335	Radiografía de tórax
+T77	PROCEDIMIENTO 4413 4416	ECG
+T78	PROCEDIMIENTO 4717 4720	ECG
+T79	PROCEDIMIENTO 4893 4907	Ecocardiograma
+T80	PROCEDIMIENTO 5793 5814	Cateterismo emergente
+T81	PROCEDIMIENTO 5816 5831	coronariografía
+T82	PROCEDIMIENTO 5912 5928	Ventriculografía
+T83	PROCEDIMIENTO 6073 6084	Aortografía
+T84	PROCEDIMIENTO 6193 6209	Test de ajmalina
+T85	PROCEDIMIENTO 6534 6552	electrocardiograma
+T86	PROCEDIMIENTO 6671 6681	ergometría
+T87	PROCEDIMIENTO 6719 6735	test de ajmalina
+T88	PROCEDIMIENTO 6849 6897	implante de desfibrilador automático implantable
+T89	PROCEDIMIENTO 7651 7654	ECG
+T90	PROCEDIMIENTO 7682 7707	Holter de 12 derivaciones
+T91	PROCEDIMIENTO 9172 9187	coronariografía
+T92	PROCEDIMIENTO 3021 3039	EXPLORACIÓN FÍSICA
+T93	PROCEDIMIENTO 3734 3763	Marcadores de daño miocardico
+T94	PROCEDIMIENTO 5707 5734	Monitorización ECG continua
+T95	PROCEDIMIENTO 8244 8258	betabloqueante
+T96	PROCEDIMIENTO 3927 3937	bioquímica
+T97	PROCEDIMIENTO 2524 2539	ecocardioscopia
+T98	PROCEDIMIENTO 1224 1252	medidas higiénico-dietéticas
+T99	PROCEDIMIENTO 1765 1779	monitorización
+T100	PROCEDIMIENTO 4094 4109	perfil hepático
+T101	PROCEDIMIENTO 4268 4302	Catecolaminas en orina de 24 horas
+T102	PROCEDIMIENTO 6419 6479	determinación de catecolaminas en sangre y orina de 24 horas
+T103	PROCEDIMIENTO 9544 9559	Implante de DAI
+T104	PROCEDIMIENTO 3523 3532	Analítica
+T105	PROCEDIMIENTO 3908 3925	Analítica general
+T106	PROCEDIMIENTO 3040 3051	Exploración
+T107	PROCEDIMIENTO 7578 7589	betabloqueo
+T108	PROCEDIMIENTO 8539 8556	calcioantagonista
+T109	PROCEDIMIENTO 1824 1840	desfibrilaciones
+T110	PROCEDIMIENTO 239 268	estudiada para dicha mutación
+T111	PROCEDIMIENTO 2953 2977	cardiología monitorizada
+T112	SINTOMA 556 573	dolores torácicos
+T113	SINTOMA 764 787	alteraciones arrítmicas
+T114	SINTOMA 1096 1143	dolor torácico de características no coronarias
+T115	SINTOMA 1521 1543	pérdida de consciencia
+T116	SINTOMA 2075 2092	molestia torácica
+T117	SINTOMA 2145 2158	ritmo sinusal
+T118	SINTOMA 2207 2221	ascenso en aVR
+T119	SINTOMA 2240 2292	descenso persistente de ST en derivaciones laterales
+T120	SINTOMA 3179 3189	Consciente
+T121	SINTOMA 3203 3217	Normocoloreada
+T122	SINTOMA 3219 3233	normohidratada
+T123	SINTOMA 3235 3253	Eupneica en reposo
+T124	SINTOMA 3278 3292	tonos rítmicos
+T125	SINTOMA 3307 3313	soplos
+T126	SINTOMA 3338 3354	normoventilacion
+T127	SINTOMA 3360 3387	ruidos patológicos añadidos
+T128	SINTOMA 3389 3405	Abdomen: anodino
+T129	SINTOMA 3407 3449	Extremidades inferiores: pulsos simétricos
+T130	SINTOMA 4094 4116	perfil hepático normal
+T131	SINTOMA 4268 4313	Catecolaminas en orina de 24 horas: negativas
+T132	SINTOMA 4315 4347	Radiografía de tórax: ICT normal
+T133	SINTOMA 4459 4468	PR normal
+T134	SINTOMA 4489 4501	QRS estrecho
+T135	SINTOMA 4503 4518	descenso del ST
+T136	SINTOMA 4728 4741	ritmo sinusal
+T137	SINTOMA 4752 4779	PR normal sin preexcitación
+T138	SINTOMA 4785 4835	alteraciones de la conducción ni de repolarización
+T139	SINTOMA 4881 4891	QTc normal
+T140	SINTOMA 5740 5763	alteraciones arrítmicas
+T141	SINTOMA 5967 6002	función sistólica global preservada
+T142	SINTOMA 6193 6219	Test de ajmalina: negativo
+T143	SINTOMA 6291 6305	dolor torácico
+T144	SINTOMA 6419 6502	determinación de catecolaminas en sangre y orina de 24 horas que resultan negativas
+T145	SINTOMA 6629 6635	onda J
+T146	SINTOMA 7498 7517	molestias torácicas
+T147	SINTOMA 7766 7780	dolor torácico
+T148	SINTOMA 7794 7896	supradesnivelación transitoria del ST en cara inferior y lateral e infradesnivelación de ST en V1 a V4
+T149	SINTOMA 9043 9057	dolor torácico
+T150	SINTOMA 4428 4447	taquicardia sinusal
+T151	SINTOMA 195 215	mutación en gen FBN1
+T152	SINTOMA 2181 2202	descenso de ST difuso
+T153	SINTOMA 3192 3201	Orientada
+T154	SINTOMA 4337 4347	ICT normal
+T155	SINTOMA 4597 4642	supradesnivelación del ST de 1 mm en aVR y V1
+T156	SINTOMA 5157 5203	alteraciones segmentarias de la contractilidad
+T157	SINTOMA 5307 5361	Anillo valvular y raíz aórtica de dimensiones normales
+T158	SINTOMA 5411 5442	Cavidades derechas no dilatadas
+T159	SINTOMA 5027 5059	Ventrículo izquierdo no dilatado
+T160	SINTOMA 5230 5291	Válvula aórtica trivalva, fina con buena apertura y movilidad
+T161	SINTOMA 4941 5007	Válvula mitral de velos finos con movilidad y apertura conservadas
+T162	SINTOMA 5564 5644	Válvula pulmonar con buena apertura; curva de flujo con características normales
+T163	SINTOMA 5491 5540	Válvula tricúspide con buena apertura y movilidad
+T164	SINTOMA 6086 6130	raíz aórtica y aorta ascendente no dilatadas
+T165	SINTOMA 5833 5877	arterias coronarias epicárdicas sin lesiones
+T166	SINTOMA 2354 2400	arterias coronarias sin lesiones angiográficas
+T167	SINTOMA 8611 8623	asintomática
+T168	SINTOMA 4909 4939	aurícula izquierda no dilatada
+T169	SINTOMA 5112 5143	fracción de eyección preservada
+T170	SINTOMA 5499 5562	tricúspide con buena apertura y movilidad; mínima regurgitación
+T171	SINTOMA 146 193	Marfan en hermano con estudio genético positivo
+T172	SINTOMA 307 327	morfotipo marfanoide
+T173	SINTOMA 970 1044	isquemia mediante ergometría que resultó clínica y eléctricamente negativa
+T174	SINTOMA 2524 2607	ecocardioscopia realizada en fase aguda no se objetivan alteraciones significativas
+T175	SINTOMA 4349 4396	mediastino y campos pulmonares sin alteraciones
+T176	SINTOMA 4706 4716	QTc normal
+T177	SINTOMA 4837 4879	Lenta progresión de onda R en precordiales
+T178	SINTOMA 5444 5489	contractilidad ventricular derecha conservada
+T179	SINTOMA 5930 5961	VI no dilatado ni hipertrofiado
+T180	SINTOMA 6015 6061	alteraciones segmentarias en la contractilidad
+T181	SINTOMA 6605 6615	QTc normal
+T182	SINTOMA 6641 6669	patrón de Brugada espontáneo
+T183	SINTOMA 6763 6820	patrón de síndrome de Brugada oculto, resultando negativo
+T184	SINTOMA 9693 9724	cifras de LDL fuera de objetivo
+T185	FARMACO 6201 6209	ajmalina
+T186	FARMACO 6727 6735	ajmalina
+T187	FARMACO 7105 7127	ácido acetilsalicílico
+T188	FARMACO 7129 7132	AAS
+T189	FARMACO 7146 7153	sotalol
+T190	FARMACO 7169 7177	estatina
+T191	FARMACO 7433 7443	bisoprolol
+T192	FARMACO 8271 8281	amlodipino
+T193	FARMACO 8773 8776	AAS
+T194	FARMACO 8779 8787	estatina
+T195	FARMACO 8810 8820	amlodipino
+T196	FARMACO 8833 8847	nitroglicerina
+T197	FARMACO 9111 9114	AAS
+T198	FARMACO 8558 8568	verapamilo
+T199	FARMACO 8789 8799	verapamilo
+T200	FARMACO 8284 8306	nitritos transdérmicos
+#1	AnnotatorNotes T38	TV taquicardia ventricular
+#2	AnnotatorNotes T39	TV taquicardia ventricular
+#3	AnnotatorNotes T40	TV taquicardia ventricular
+#4	AnnotatorNotes T42	 tquicardia ventricular no sostenida
+#5	AnnotatorNotes T53	 parada cardiorespiratoria

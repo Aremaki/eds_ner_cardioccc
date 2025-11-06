@@ -1,0 +1,142 @@
+T1	ENFERMEDAD 298 300	DM
+T2	ENFERMEDAD 302 305	HTA
+T3	ENFERMEDAD 307 317	dislipemia
+T4	ENFERMEDAD 320 340	hipertrigliceridemia
+T5	ENFERMEDAD 384 398	Hipotiroidismo
+T6	ENFERMEDAD 427 445	Síndrome depresivo
+T7	ENFERMEDAD 543 554	cardiopatía
+T8	ENFERMEDAD 615 636	cardiopatía isquémica
+T9	ENFERMEDAD 675 699	patología cardiovascular
+T10	ENFERMEDAD 712 714	DM
+T11	ENFERMEDAD 776 783	síncope
+T12	ENFERMEDAD 1591 1613	insuficiencia cardiaca
+T13	ENFERMEDAD 3834 3853	derrame pericárdico
+T14	ENFERMEDAD 3925 3946	Arteria DA: Estenosis
+T15	ENFERMEDAD 4439 4499	Enfermedad de un vaso con estenosis corta de 75% en DA media
+T16	ENFERMEDAD 5106 5133	extrasístoles ventriculares
+T17	ENFERMEDAD 5190 5208	ángor hemodinámico
+T18	ENFERMEDAD 5242 5261	bradicardia sinusal
+T19	ENFERMEDAD 5281 5304	bigeminismo ventricular
+T20	ENFERMEDAD 5989 6015	taquicardias ventriculares
+T21	ENFERMEDAD 6210 6218	arritmia
+T22	ENFERMEDAD 6609 6632	cardiopatía estructural
+T23	ENFERMEDAD 6735 6790	estenosis significativa en arteria descendente anterior
+T24	ENFERMEDAD 7047 7072	extrasistolia ventricular
+T25	ENFERMEDAD 7135 7145	dislipemia
+T26	ENFERMEDAD 7248 7262	hipotiroidismo
+T27	ENFERMEDAD 7499 7515	Angina inestable
+T28	ENFERMEDAD 7557 7615	Lesión significativa en arteria descendente anterior media
+T29	ENFERMEDAD 7518 7554	Taquicardia ventricular no sostenida
+T30	ENFERMEDAD 282 290	alergias
+T31	ENFERMEDAD 5899 5917	eventos arrítmicos
+T32	ENFERMEDAD 6480 6498	eventos arrítmicos
+T33	ENFERMEDAD 5327 5363	taquicardia ventricular no sostenida
+T34	ENFERMEDAD 342 352	Exfumadora
+T35	ENFERMEDAD 1675 1695	episodios sincopales
+T36	ENFERMEDAD 3712 3752	hipertrofia de las paredes ventriculares
+T37	ENFERMEDAD 2454 2461	hernias
+T38	ENFERMEDAD 786 799	muerte súbita
+T39	PROCEDIMIENTO 219 237	exploración física
+T40	PROCEDIMIENTO 1935 1953	Exploración física
+T41	PROCEDIMIENTO 3332 3335	ECG
+T42	PROCEDIMIENTO 3532 3543	Rx de Tórax
+T43	PROCEDIMIENTO 3590 3604	Ecocardiograma
+T44	PROCEDIMIENTO 3857 3871	TAC coronarias
+T45	PROCEDIMIENTO 4422 4437	Coronariografía
+T46	PROCEDIMIENTO 4523 4558	colocación de stent de cromocobalto
+T47	PROCEDIMIENTO 5052 5075	monitorización cardiaca
+T48	PROCEDIMIENTO 5404 5407	ECG
+T49	PROCEDIMIENTO 5765 5768	ECG
+T50	PROCEDIMIENTO 5924 5938	monitorización
+T51	PROCEDIMIENTO 6082 6085	ECG
+T52	PROCEDIMIENTO 6580 6594	ecocardiograma
+T53	PROCEDIMIENTO 6706 6723	TAC de coronarias
+T54	PROCEDIMIENTO 6854 6869	coronariografía
+T55	PROCEDIMIENTO 6918 6935	implante de stent
+T56	PROCEDIMIENTO 7178 7198	doble antiagregación
+T57	PROCEDIMIENTO 7207 7262	tratamiento hormonal sustitutivo para el hipotiroidismo
+T58	PROCEDIMIENTO 7430 7436	holter
+T59	PROCEDIMIENTO 2163 2165	AC
+T60	PROCEDIMIENTO 2233 2235	AP
+T61	PROCEDIMIENTO 1955 1973	Constantes vitales
+T62	PROCEDIMIENTO 2810 2821	Hematología
+T63	PROCEDIMIENTO 3184 3194	Hemostasia
+T64	PROCEDIMIENTO 7346 7361	betabloqueantes
+T65	PROCEDIMIENTO 4827 4845	hormonas tiroideas
+T66	PROCEDIMIENTO 6019 6033	monitorización
+T67	PROCEDIMIENTO 504 511	Cesárea
+T68	PROCEDIMIENTO 4642 4651	Analítica
+T69	PROCEDIMIENTO 384 425	Hipotiroidismo en tratamiento sustitutivo
+T70	PROCEDIMIENTO 476 502	Intervenciones quirúrgicas
+T71	PROCEDIMIENTO 7103 7112	analítica
+T72	PROCEDIMIENTO 2284 2315	palpación de los arcos costales
+T73	PROCEDIMIENTO 6323 6370	agonista melatoninérgico (receptores MT1 y MT2)
+T74	PROCEDIMIENTO 6373 6426	antagonista de los receptores serotoninérgicos 5-HT2C
+T75	SINTOMA 43 182	dolor centrotorácico que describe como opresivo, con irradiación en ocasiones a garganta y en otras ocasiones a brazo izquierdo y antebrazo
+T76	SINTOMA 909 1048	dolor centrotorácico que describe como opresivo, con irradiación en ocasiones a garganta y en otras ocasiones a brazo izquierdo y antebrazo
+T77	SINTOMA 1053 1071	cortejo vegetativo
+T78	SINTOMA 1073 1079	disnea
+T79	SINTOMA 1083 1096	palpitaciones
+T80	SINTOMA 1101 1106	dolor
+T81	SINTOMA 1269 1274	dolor
+T82	SINTOMA 1515 1528	palpitaciones
+T83	SINTOMA 1540 1545	dolor
+T84	SINTOMA 1618 1631	cuadro febril
+T85	SINTOMA 1635 1653	clínica infecciosa
+T86	SINTOMA 1732 1745	palpitaciones
+T87	SINTOMA 1834 1845	nerviosismo
+T88	SINTOMA 2017 2027	Consciente
+T89	SINTOMA 2030 2068	orientada en tiempo, espacio y persona
+T90	SINTOMA 2070 2109	Pulsos carotídeos de amplitud simétrica
+T91	SINTOMA 2129 2135	soplos
+T92	SINTOMA 2140 2161	ingurgitación yugular
+T93	SINTOMA 2163 2174	AC: rítmica
+T94	SINTOMA 2176 2211	primer y segundo ruidos conservados
+T95	SINTOMA 2216 2222	soplos
+T96	SINTOMA 2226 2231	roces
+T97	SINTOMA 2237 2266	Murmullo vesicular conservado
+T98	SINTOMA 2271 2315	dolor con la palpación de los arcos costales
+T99	SINTOMA 2328 2379	Abdomen blando, depresible, doloroso a la palpación
+T100	SINTOMA 2411 2432	irritación peritoneal
+T101	SINTOMA 2447 2452	masas
+T102	SINTOMA 2465 2480	visceromegalias
+T103	SINTOMA 2482 2510	Ruidos hidroaéreos presentes
+T104	SINTOMA 2515 2543	edema de miembros inferiores
+T105	SINTOMA 2545 2583	Pulsos distales palpables y simétricos
+T106	SINTOMA 3332 3356	ECG: Bradicardia sinusal
+T107	SINTOMA 3377 3435	Conducción auriculoventricular e intraventricular normales
+T108	SINTOMA 3482 3515	alteraciones de la repolarización
+T109	SINTOMA 3517 3528	IQTc normal
+T110	SINTOMA 5018 5032	dolor torácico
+T111	SINTOMA 5959 5983	dolor torácico en reposo
+T112	SINTOMA 6082 6098	ECG basal normal
+T113	SINTOMA 7026 7040	dolor torácico
+T114	SINTOMA 5475 5501	taquicardia es monomórfica
+T115	SINTOMA 5644 5655	taquicardia
+T116	SINTOMA 5716 5728	taquicardias
+T117	SINTOMA 7470 7482	asintomática
+T118	SINTOMA 3755 3792	buena función sistólica biventricular
+T119	SINTOMA 3670 3706	cavidades cardiacas de tamaño normal
+T120	SINTOMA 600 610	fallecidos
+T121	SINTOMA 740 744	sano
+T122	SINTOMA 3794 3820	Flujos y válvulas normales
+T123	SINTOMA 3437 3477	Adecuada progresión de R en precordiales
+T124	SINTOMA 3532 3558	Rx de Tórax: Sin hallazgos
+T125	SINTOMA 3893 3923	Tronco común izquierdo: Normal
+T126	SINTOMA 3861 3891	coronarias: Dominancia derecha
+T127	SINTOMA 4079 4116	Arterias diagonales: Sin alteraciones
+T128	SINTOMA 4118 4155	Arteria circunfleja: Sin alteraciones
+T129	SINTOMA 4157 4198	Arteria obtusa marginal: Sin alteraciones
+T130	SINTOMA 4200 4246	Arteria CD: Muy desarrollada, sin alteraciones
+T131	SINTOMA 4248 4288	Arteria aguda marginal: Sin alteraciones
+T132	SINTOMA 4290 4342	Arteria interventricular posterior: Sin alteraciones
+T133	SINTOMA 4344 4418	Ramo posterolateral: Dependiente de CD, muy desarrollado, sin alteraciones
+T134	SINTOMA 6502 6531	prolongación del intervalo QT
+T135	SINTOMA 7279 7314	cifras bajas de frecuencia cardiaca
+T136	SINTOMA 7430 7453	holter sin alteraciones
+T137	FARMACO 852 863	agomelatina
+T138	FARMACO 6307 6318	agomelatina
+T139	FARMACO 7168 7176	estatina
+T140	FARMACO 7200 7204	IECA
+T141	FARMACO 822 829	Eutirox
+T142	FARMACO 842 850	thymanax

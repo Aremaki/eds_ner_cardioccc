@@ -1,0 +1,57 @@
+T1	ENFERMEDAD 312 333	hipertensión arterial
+T2	ENFERMEDAD 335 354	hipercolesterolemia
+T3	ENFERMEDAD 357 381	diabetes mellitus tipo 2
+T4	ENFERMEDAD 737 745	fumadora
+T5	ENFERMEDAD 783 804	cardiopatía isquémica
+T6	ENFERMEDAD 1096 1100	BCRI
+T7	ENFERMEDAD 1423 1445	insuficiencia cardiaca
+T8	ENFERMEDAD 3590 3612	disfunción ventricular
+T9	ENFERMEDAD 3813 3833	enfermedad coronaria
+T10	ENFERMEDAD 4025 4033	isquemia
+T11	ENFERMEDAD 4381 4399	angina de esfuerzo
+T12	ENFERMEDAD 4414 4438	Síndrome coronario agudo
+T13	ENFERMEDAD 4455 4480	bloqueo de rama izquierda
+T14	ENFERMEDAD 4482 4485	HTA
+T15	ENFERMEDAD 4487 4499	Dislipidemia
+T16	ENFERMEDAD 4501 4525	Diabetes mellitus tipo 2
+T17	ENFERMEDAD 589 608	BCRI del haz de His
+T18	ENFERMEDAD 1639 1660	lesiones ateromatosas
+T19	PROCEDIMIENTO 657 689	ecografía transtorácica cardiaca
+T20	PROCEDIMIENTO 1073 1076	ECG
+T21	PROCEDIMIENTO 1245 1257	angioplastia
+T22	PROCEDIMIENTO 1451 1469	exploración física
+T23	PROCEDIMIENTO 1502 1517	coronariografía
+T24	PROCEDIMIENTO 1538 1589	sondar en primer lugar la arteria coronaria derecha
+T25	PROCEDIMIENTO 1669 1735	catéter guía EBU3.5 se sondó posteriormente la coronaria izquierda
+T26	PROCEDIMIENTO 2255 2312	analizar el vaso con una técnica de imagen intracoronaria
+T27	PROCEDIMIENTO 2366 2397	tomografía óptica de coherencia
+T28	PROCEDIMIENTO 2399 2402	OCT
+T29	PROCEDIMIENTO 2444 2480	sondar con dos guías de angioplastia
+T30	PROCEDIMIENTO 2518 2521	OCT
+T31	PROCEDIMIENTO 2570 2613	administración de 16 cc de contraste yodado
+T32	PROCEDIMIENTO 3166 3185	analítica sanguínea
+T33	PROCEDIMIENTO 3191 3211	radiografía de tórax
+T34	PROCEDIMIENTO 3232 3255	ecografía transtorácica
+T35	PROCEDIMIENTO 3478 3496	función miocárdica
+T36	PROCEDIMIENTO 3529 3558	resonancia magnética cardiaca
+T37	PROCEDIMIENTO 3803 3806	OCT
+T38	PROCEDIMIENTO 4099 4139	doble antiagregación (AAS y clopidogrel)
+T39	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDIMIENTO 4161 4167	ARA-II
+T41	PROCEDIMIENTO 1102 1129	activaron el Código Infarto
+T42	SINTOMA 180 232	dolor torácico opresivo irradiado a miembro superior
+T43	SINTOMA 1285 1299	dolor torácico
+T44	SINTOMA 3867 3892	estable hemodinámicamente
+T45	SINTOMA 3899 3904	dolor
+T46	SINTOMA 2763 2775	asintomática
+T47	SINTOMA 3013 3052	perfil lípido razonablemente controlado
+T48	SINTOMA 3289 3335	aquinesia del territorio dependiente de la OM1
+T49	SINTOMA 83 134	asintomática desde el punto de vista cardiovascular
+T50	SINTOMA 3411 3432	hallazgos patológicos
+T51	FARMACO 423 434	telmisartan
+T52	FARMACO 447 460	atorvastatina
+T53	FARMACO 474 484	metformina
+T54	FARMACO 4065 4075	carvedilol
+T55	FARMACO 4121 4124	AAS
+T56	FARMACO 4127 4138	clopidogrel
+#1	AnnotatorNotes T28	 tomografía de coherencia óptica

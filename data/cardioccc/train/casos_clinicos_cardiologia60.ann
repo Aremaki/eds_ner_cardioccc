@@ -1,0 +1,83 @@
+T1	DISEASE 33 56	alergias medicamentosas
+T2	DISEASE 67 88	Hipertensión arterial
+T3	DISEASE 90 93	HTA
+T4	DISEASE 95 114	Hipercolesterolemia
+T5	DISEASE 132 140	neumonía
+T6	DISEASE 149 175	Gastritis crónica atrófica
+T7	DISEASE 178 225	hepatopatía crónica por virus de la hepatitis C
+T8	DISEASE 227 230	VHC
+T9	DISEASE 249 282	Tendinitis calcificante de hombro
+T10	DISEASE 304 323	Hiperparotiroidismo
+T11	DISEASE 354 389	Hipoacusia neurosensorial bilateral
+T12	DISEASE 390 410	Síndrome de ojo seco
+T13	DISEASE 871 893	insuficiencia cardiaca
+T14	DISEASE 896 913	anemia hemolítica
+T15	DISEASE 928 960	dehiscencia tardía periprotésica
+T16	DISEASE 1208 1285	enfermedad del nodo sinusal sintomático con fibrilación auricular paroxística
+T17	DISEASE 1392 1414	insuficiencia cardiaca
+T18	DISEASE 1516 1538	insuficiencia cardiaca
+T19	DISEASE 3907 3923	aneurisma apical
+T20	DISEASE 4206 4240	Insuficiencia tricuspídea moderada
+T21	DISEASE 4329 4348	derrame pericárdico
+T22	DISEASE 4659 4698	insuficiencia mitral periprotésica leve
+T23	DISEASE 4713 4757	Leaks o dehiscencias periprotésicas mitrales
+T24	DISEASE 115 129	Asma bronquial
+T25	DISEASE 232 248	Condrocalcinosis
+T26	DISEASE 291 303	Osteoporosis
+T27	DISEASE 1710 1769	leaks periprotésicos mitrales (uno septal y otro posterior)
+T28	DISEASE 2145 2166	leak mitral posterior
+T29	DISEASE 4020 4068	Prótesis aórtica mecánica con regurgitación leve
+T30	DISEASE 4100 4125	AI moderadamente dilatada
+T31	DISEASE 4127 4155	Cavidades derechas dilatadas
+T32	DISEASE 4157 4204	Ventrículo derecho (VD) con disfunción moderada
+T33	DISEASE 4369 4470	prótesis mitral con dos leaks periprotésicos, uno septal y otro posterior, ambos de carácter moderado
+T34	DISEASE 3727 3755	hematoma en zonas de punción
+T35	PROCEDURE 328 345	paratiroidectomía
+T36	PROCEDURE 462 523	sustitución valvular mitral y aórtica por prótesis biológicas
+T37	PROCEDURE 600 638	sustitución por dos prótesis mecánicas
+T38	PROCEDURE 990 1041	recambio valvular mitral por otra prótesis mecánica
+T39	PROCEDURE 1051 1156	injertos aortocoronarios (vena safena a arteria descendente anterior media y a arteria coronaria derecha)
+T40	PROCEDURE 1177 1203	implante de marcapasos DDD
+T41	PROCEDURE 1575 1603	ecocardiograma transtorácico
+T42	PROCEDURE 1605 1608	ETT
+T43	PROCEDURE 1641 1670	ecocardiograma transesofágico
+T44	PROCEDURE 1672 1675	ETE
+T45	PROCEDURE 1868 1903	cierre de leak de manera percutánea
+T46	PROCEDURE 1955 1972	anestesia general
+T47	PROCEDURE 1990 2019	ecocardiograma transesofágico
+T48	PROCEDURE 2615 2621	ETE 3D
+T49	PROCEDURE 3046 3055	Se extuba
+T50	PROCEDURE 3172 3190	Exploración física
+T51	PROCEDURE 3416 3437	Auscultación cardiaca
+T52	PROCEDURE 3460 3481	Auscultación pulmonar
+T53	PROCEDURE 3820 3823	ETT
+T54	PROCEDURE 4350 4353	ETE
+T55	PROCEDURE 4621 4624	ETT
+T56	PROCEDURE 743 849	dos injertos aortocoronarios (vena safena a la interventricular anterior y a la arteria coronaria derecha)
+T57	PROCEDURE 2048 2095	Se accede inicialmente por vena femoral derecha
+T58	PROCEDURE 2104 2122	punción transeptal
+T59	PROCEDURE 2252 2290	puncionar la arteria femoral izquierda
+T60	PROCEDURE 2540 2582	creando así un cortocircuito arteriovenoso
+T61	PROCEDURE 2976 3025	se cierra la punción de arteria femoral izquierda
+T62	PROCEDURE 643 709	prótesis aórtica quedó implantada a nivel de los ostium coronarios
+T63	PROCEDURE 3373 3388	Cabeza y cuello
+T64	SYMPTOM 3256 3263	Afebril
+T65	SYMPTOM 3265 3275	Consciente
+T66	SYMPTOM 3278 3287	orientada
+T67	SYMPTOM 3289 3323	buena coloración de piel y mucosas
+T68	SYMPTOM 3325 3351	buena perfusión periférica
+T69	SYMPTOM 3353 3371	eupneica en reposo
+T70	SYMPTOM 3393 3414	ingurgitación yugular
+T71	SYMPTOM 3416 3446	Auscultación cardiaca: rítmica
+T72	SYMPTOM 3452 3458	soplos
+T73	SYMPTOM 3483 3512	murmullo vesicular conservado
+T74	SYMPTOM 3514 3569	Abdomen: blando, depresible, no doloroso a la palpación
+T75	SYMPTOM 3585 3606	irritación peritoneal
+T76	SYMPTOM 3612 3617	masas
+T77	SYMPTOM 3621 3629	megalias
+T78	SYMPTOM 3631 3647	Ruidos presentes
+T79	SYMPTOM 3649 3684	Extremidades inferiores: sin edemas
+T80	SYMPTOM 3686 3722	Pulsos pedios presentes y simétricos
+T81	SYMPTOM 3757 3793	Sensibilidad y movilidad conservadas
+T82	SYMPTOM 3839 3905	VI no dilatado ni hipertrófico, con buena función sistólica global
+T83	SYMPTOM 3994 4018	Raíz aórtica no dilatada

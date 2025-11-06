@@ -1,0 +1,28 @@
+T1	ENFERMEDAD 961 997	fístula con asa de intestino delgado
+T2	ENFERMEDAD 1090 1128	tumor perforado con fístula intestinal
+T3	ENFERMEDAD 1443 1453	vegetación
+T4	PROCEDIMIENTO 368 381	examen físico
+T5	PROCEDIMIENTO 767 777	urocultivo
+T6	PROCEDIMIENTO 779 791	hemocultivos
+T7	PROCEDIMIENTO 807 828	tomografía de abdomen
+T8	PROCEDIMIENTO 1177 1225	tratamiento antibiótico cubriendo foco abdominal
+T9	PROCEDIMIENTO 1289 1301	hemocultivos
+T10	PROCEDIMIENTO 1346 1360	ecocardiograma
+T11	SINTOMA 109 115	fiebre
+T12	SINTOMA 130 137	astenia
+T13	SINTOMA 139 147	adinamia
+T14	SINTOMA 149 167	síntomas urinarios
+T15	SINTOMA 383 402	conjuntivas pálidas
+T16	SINTOMA 404 460	ruidos cardiacos taquicárdicos, rítmicos, normofonéticos
+T17	SINTOMA 462 495	soplo regurgitante en foco mitral
+T18	SINTOMA 521 541	distensión abdominal
+T19	SINTOMA 532 558	abdominal, ruidos de lucha
+T20	SINTOMA 560 616	masa palpable de 4x4 centímetro en fosa iliaca izquierdo
+T21	SINTOMA 1258 1264	febril
+T22	SINTOMA 1289 1333	hemocultivos positivos para Escherichia Coli
+T23	SINTOMA 304 318	alzas térmicas
+T24	SINTOMA 857 877	formación bilobulada
+T25	SINTOMA 1373 1390	imagen redondeada
+T26	FARMACO 202 216	ciprofloxacina
+T27	FARMACO 1494 1505	ceftriaxona
+T28	FARMACO 1510 1521	gentamicina

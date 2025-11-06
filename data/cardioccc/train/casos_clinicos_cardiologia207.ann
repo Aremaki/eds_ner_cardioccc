@@ -1,0 +1,177 @@
+T1	DISEASE 189 212	alergias medicamentosas
+T2	DISEASE 280 292	tuberculosis
+T3	DISEASE 414 455	tumor ovárico de características benignas
+T4	DISEASE 789 807	patología tiroidea
+T5	DISEASE 1087 1108	hipertensión pulmonar
+T6	DISEASE 1235 1265	tromboembolismo pulmonar agudo
+T7	DISEASE 1635 1646	adenopatías
+T8	DISEASE 2115 2140	trombosis venosa profunda
+T9	DISEASE 2658 2668	neumonitis
+T10	DISEASE 2671 2687	infarto pulmonar
+T11	DISEASE 2911 2932	hipertensión pulmonar
+T12	DISEASE 3071 3150	lóbulo derecho hepát correspondiente a un quiste hidatídico con vesículas hijas
+T13	DISEASE 3325 3353	hipertensión pulmonar severa
+T14	DISEASE 3527 3540	valvulopatías
+T15	DISEASE 3624 3635	hidatidosis
+T16	DISEASE 3957 3978	hipertensión pulmonar
+T17	DISEASE 4334 4345	hidatidosis
+T18	DISEASE 4495 4523	hipertensión pulmonar severa
+T19	DISEASE 4700 4713	valvulopatías
+T20	DISEASE 5141 5172	pulmonar de quistes hidatídicos
+T21	DISEASE 5287 5305	shock anafiláctico
+T22	DISEASE 5913 5952	disfunción ventricular severa izquierda
+T23	DISEASE 6000 6008	isquemia
+T24	DISEASE 6133 6157	miocardiopatía de estrés
+T25	DISEASE 6182 6202	dsehock anafiláctico
+T26	DISEASE 6462 6494	disfunción ventricular izquierda
+T27	DISEASE 6647 6664	rotura de quistes
+T28	DISEASE 7305 7344	disfunción ventricular severa izquierda
+T29	DISEASE 7870 7879	urticaria
+T30	DISEASE 7907 7917	anafilaxia
+T31	DISEASE 8233 8272	disfunción ventricular severa izquierda
+T32	DISEASE 8327 8336	urticaria
+T33	DISEASE 8572 8581	asistolia
+T34	DISEASE 8584 8614	trombosis de ambos ventrículos
+T35	DISEASE 8752 8780	Hipertensión pulmonar severa
+T36	DISEASE 8904 8930	quiste hidatídico hepático
+T37	DISEASE 8940 8970	Disfunción ventricular derecha
+T38	DISEASE 8997 9063	Shock anafiláctico en relación con hidatidosis hepática diseminada
+T39	DISEASE 9069 9093	miocardiopatía de estrés
+T40	DISEASE 9164 9221	Parada cardiorrespiratoria en disociación electromecánica
+T41	DISEASE 7729 7748	congestión pulmonar
+T42	DISEASE 6060 6075	daño miocárdico
+T43	DISEASE 8436 8463	disociación electromecánica
+T44	DISEASE 7584 7595	hipotensión
+T45	DISEASE 1625 1631	bocios
+T46	DISEASE 2797 2841	dilatación del tronco de la arteria pulmonar
+T47	DISEASE 6787 6831	alteración severa de la circulación pulmonar
+T48	DISEASE 7514 7534	sdheock anafiláctico
+T49	DISEASE 693 715	urticaria generalizada
+T50	DISEASE 7937 7968	suelta de vesículas hidatídicas
+T51	DISEASE 8146 8194	dilatación moderada-severa de ventrículo derecho
+T52	DISEASE 7205 7225	hipoperfusión distal
+T53	DISEASE 8313 8325	desaturación
+T54	DISEASE 7845 7857	desaturación
+T55	DISEASE 1043 1075	dilatación de cavidades derechas
+T56	DISEASE 1120 1152	imagen quística a nivel hepático
+T57	DISEASE 3015 3091	lesión quística de gran tamaño con pared calcificada en lóbulo derecho hepát
+T58	DISEASE 2694 2774	cavidad con masa en su interior en signo de menisco en lóbulo inferior izquierdo
+T59	DISEASE 3113 3232	quiste hidatídico con vesículas hijas, con rotura de la cápsula con extensión focal e invasión de la vena cava inferior
+T60	DISEASE 8794 8858	compromiso del árbol arterial pulmonar por vesículas hidatídicas
+T61	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T62	PROCEDURE 306 336	tratamiento quimioprofiláctico
+T63	PROCEDURE 738 754	antihistamínicos
+T64	PROCEDURE 829 855	tratamiento betabloqueante
+T65	PROCEDURE 1001 1029	ecocardiograma transtorácico
+T66	PROCEDURE 1268 1286	Exploración física
+T67	PROCEDURE 1648 1669	Auscultación cardiaca
+T68	PROCEDURE 1751 1772	Auscultación pulmonar
+T69	PROCEDURE 2934 2968	Resonancia magnética (RM) hepática
+T70	PROCEDURE 3234 3262	Ecocardiograma transtorácico
+T71	PROCEDURE 3609 3635	serología para hidatidosis
+T72	PROCEDURE 3679 3706	tratamiento antiparasitario
+T73	PROCEDURE 3855 3869	oxigenoterapia
+T74	PROCEDURE 4137 4161	reactantes de fase aguda
+T75	PROCEDURE 4312 4370	serología positiva de hidatidosis mediante prueba de ELISA
+T76	PROCEDURE 4388 4416	ecocardiograma transtorácico
+T77	PROCEDURE 5061 5081	extracción de quiste
+T78	PROCEDURE 5084 5096	hepatectomía
+T79	PROCEDURE 5125 5172	endarterectomía pulmonar de quistes hidatídicos
+T80	PROCEDURE 5373 5383	esteroides
+T81	PROCEDURE 5396 5409	fluidoterapia
+T82	PROCEDURE 5604 5627	se canaliza vía central
+T83	PROCEDURE 5704 5736	ventilación mecánica no invasiva
+T84	PROCEDURE 5872 5900	ecocardiograma transtorácico
+T85	PROCEDURE 5960 5978	electrocardiograma
+T86	PROCEDURE 6337 6367	implante de ECMO veno-arterial
+T87	PROCEDURE 7275 7289	ecocardiograma
+T88	PROCEDURE 7412 7432	soporte ventilatorio
+T89	PROCEDURE 7658 7677	gafas de alto flujo
+T90	PROCEDURE 7752 7772	radiografía de tórax
+T91	PROCEDURE 8007 8025	drogas vasoactivas
+T92	PROCEDURE 8198 8212	ecocardiograma
+T93	PROCEDURE 8388 8410	intubación orotraqueal
+T94	PROCEDURE 8524 8536	RCP avanzada
+T95	PROCEDURE 8618 8646	ecocardiograma transtorácico
+T96	PROCEDURE 8715 8723	autopsia
+T97	PROCEDURE 8064 8087	corticoterapia en bolos
+T98	PROCEDURE 2313 2321	Angio-TC
+T99	PROCEDURE 6046 6075	marcadores de daño miocárdico
+T100	PROCEDURE 2956 2958	RM
+T101	PROCEDURE 1956 1989	palpación superficial ni profunda
+T102	PROCEDURE 2167 2176	Analítica
+T103	PROCEDURE 1560 1575	Cabeza y cuello
+T104	PROCEDURE 5195 5207	intervención
+T105	PROCEDURE 6546 6569	intervención quirúrgica
+T106	PROCEDURE 5835 5853	medidas de soporte
+T107	PROCEDURE 1716 1728	se auscultan
+T108	PROCEDURE 1615 1624	se palpan
+T109	PROCEDURE 2028 2051	Extremidades inferiores
+T110	PROCEDURE 5640 5682	perfusión de adrenalina y de noradrenalina
+T111	PROCEDURE 6398 6422	implante del dispositivo
+T112	PROCEDURE 6672 6723	manipulación de vías y cánulas en territorio venoso
+T113	SYMPTOM 584 600	malestar general
+T114	SYMPTOM 602 608	disnea
+T115	SYMPTOM 611 630	dolor supraesternal
+T116	SYMPTOM 648 661	palpitaciones
+T117	SYMPTOM 1361 1383	Regular estado general
+T118	SYMPTOM 1385 1395	Consciente
+T119	SYMPTOM 1397 1423	orientada en las 3 esferas
+T120	SYMPTOM 1426 1438	colaboradora
+T121	SYMPTOM 1440 1454	Normocoloreada
+T122	SYMPTOM 1456 1470	normohidratada
+T123	SYMPTOM 1473 1488	normoperfundida
+T124	SYMPTOM 1504 1525	taquipneica en reposo
+T125	SYMPTOM 1531 1558	buena dinámica respiratoria
+T126	SYMPTOM 1589 1610	ingurgitación yugular
+T127	SYMPTOM 1671 1696	ruidos cardiacos rítmicos
+T128	SYMPTOM 1729 1735	soplos
+T129	SYMPTOM 1739 1749	extratonos
+T130	SYMPTOM 1774 1822	murmullo vesicular conservado en ambos hemitórax
+T131	SYMPTOM 1828 1848	ruidos sobreañadidos
+T132	SYMPTOM 1859 1887	ruidos hidroáereos presentes
+T133	SYMPTOM 1942 1989	doloroso a la palpación superficial ni profunda
+T134	SYMPTOM 2005 2026	irritación peritoneal
+T135	SYMPTOM 2053 2089	pulsos pedios presentes y simétricos
+T136	SYMPTOM 2095 2101	edemas
+T137	SYMPTOM 2207 2229	elevación de NT proBNP
+T138	SYMPTOM 2363 2417	masa hipodensa que ocupa la arteria pulmonar izquierda
+T139	SYMPTOM 2535 2598	masa de características similares en arteria interlobar derecha
+T140	SYMPTOM 3397 3437	masas intraluminales en arteria pulmonar
+T141	SYMPTOM 3440 3474	compresión extrínseca de vena cava
+T142	SYMPTOM 3476 3512	Función ventricular izquierda normal
+T143	SYMPTOM 3609 3656	serología para hidatidosis que resulta positiva
+T144	SYMPTOM 4037 4062	estable hemodinámicamente
+T145	SYMPTOM 4096 4118	elevación de NT-proBNP
+T146	SYMPTOM 4230 4241	neutrofilia
+T147	SYMPTOM 4565 4605	masas intraluminales en arteria pulmonar
+T148	SYMPTOM 4608 4642	compresión extrínseca de vena cava
+T149	SYMPTOM 4657 4693	función ventricular izquierda normal
+T150	SYMPTOM 5791 5813	deterioro hemodinámico
+T151	SYMPTOM 7584 7595	hipotensión
+T152	SYMPTOM 7729 7748	congestión pulmonar
+T153	SYMPTOM 7797 7819	deterioro hemodinámico
+T154	SYMPTOM 8118 8140	deterioro hemodinámico
+T155	SYMPTOM 8348 8371	pérdida de conocimiento
+T156	SYMPTOM 2853 2885	sobrecarga de ventrículo derecho
+T157	SYMPTOM 3830 3839	hipoxemia
+T158	SYMPTOM 4312 4345	serología positiva de hidatidosis
+T159	SYMPTOM 5449 5458	inestable
+T160	SYMPTOM 1698 1711	taquicárdicos
+T161	SYMPTOM 2729 2774	signo de menisco en lóbulo inferior izquierdo
+T162	SYMPTOM 3282 3319	disfunción ventricular derecha ligera
+T163	SYMPTOM 4096 4161	elevación de NT-proBNP (2612 pg/ml) y de reactantes de fase aguda
+T164	SYMPTOM 4172 4214	leucocitos en límite alto de la normalidad
+T165	SYMPTOM 4452 4489	disfunción ventricular derecha ligera
+T166	SYMPTOM 9112 9151	disfunción ventricular izquierda severa
+T167	MEDICATION 3711 3721	albendazol
+T168	MEDICATION 3736 3748	praziquantel
+T169	MEDICATION 5337 5347	adrenalina
+T170	MEDICATION 5653 5663	adrenalina
+T171	MEDICATION 5669 5682	noradrenalina
+T172	MEDICATION 6296 6306	dobutamina
+T173	MEDICATION 7107 7117	adrenalina
+T174	MEDICATION 7132 7145	noradrenalina
+T175	MEDICATION 7247 7257	dobutamina
+T176	MEDICATION 8037 8047	adrenalina
+T177	MEDICATION 6232 6245	catecolaminas

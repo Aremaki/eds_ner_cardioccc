@@ -1,0 +1,156 @@
+T1	ENFERMEDAD 6230 6269	hipertrofia concéntrica moderada del VI
+T2	ENFERMEDAD 70 93	alergias medicamentosas
+T3	ENFERMEDAD 105 114	Exfumador
+T4	ENFERMEDAD 136 144	Obesidad
+T5	ENFERMEDAD 146 167	Hipertensión arterial
+T6	ENFERMEDAD 241 265	Diabetes mellitus tipo 2
+T7	ENFERMEDAD 444 460	cáncer de pulmón
+T8	ENFERMEDAD 482 508	infarto agudo de miocardio
+T9	ENFERMEDAD 510 513	IAM
+T10	ENFERMEDAD 788 799	cardiopatía
+T11	ENFERMEDAD 1232 1245	cólico biliar
+T12	ENFERMEDAD 1525 1544	taquicardia sinusal
+T13	ENFERMEDAD 1630 1643	cardiomegalia
+T14	ENFERMEDAD 1709 1728	derrame pericárdico
+T15	ENFERMEDAD 1807 1832	derrame pericárdico grave
+T16	ENFERMEDAD 2239 2259	hipotensión arterial
+T17	ENFERMEDAD 2624 2631	derrame
+T18	ENFERMEDAD 3980 3993	cardiomegalia
+T19	ENFERMEDAD 4063 4131	ventrículo izquierdo (VI) con hipertrofia concéntrica moderada-grave
+T20	ENFERMEDAD 4156 4181	derrame pericárdico grave
+T21	ENFERMEDAD 4312 4351	hipertrofia concéntrica moderada del VI
+T22	ENFERMEDAD 4377 4416	obstrucción del tracto de salida del VI
+T23	ENFERMEDAD 4428 4456	Derrame pericárdico moderado
+T24	ENFERMEDAD 4600 4613	valvulopatías
+T25	ENFERMEDAD 5280 5305	Derrame pericárdico grave
+T26	ENFERMEDAD 5308 5328	leve derrame pleural
+T27	ENFERMEDAD 5470 5490	angiomiolipoma renal
+T28	ENFERMEDAD 5547 5566	prostatitis crónica
+T29	ENFERMEDAD 5592 5631	hipertrofia concéntrica moderada del VI
+T30	ENFERMEDAD 5643 5662	Derrame pericárdico
+T31	ENFERMEDAD 5814 5827	valvulopatías
+T32	ENFERMEDAD 6002 6021	taquicardia sinusal
+T33	ENFERMEDAD 6314 6342	derrame pericárdico moderado
+T34	ENFERMEDAD 6734 6758	patología paraneoplásica
+T35	ENFERMEDAD 7596 7615	prostatitis crónica
+T36	ENFERMEDAD 7703 7710	derrame
+T37	ENFERMEDAD 7736 7755	derrame pericárdico
+T38	ENFERMEDAD 7877 7884	derrame
+T39	ENFERMEDAD 8449 8462	cardiomegalia
+T40	ENFERMEDAD 8480 8499	derrame pericárdico
+T41	ENFERMEDAD 8627 8652	Derrame pericárdico grave
+T42	ENFERMEDAD 8670 8691	taponamiento cardiaco
+T43	ENFERMEDAD 2877 2887	Hipertenso
+T44	ENFERMEDAD 4583 4595	taponamiento
+T45	ENFERMEDAD 5254 5278	proceso neoproliferativo
+T46	ENFERMEDAD 7469 7493	proceso neoproliferativo
+T47	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDIMIENTO 307 344	tratamiento con antidiabéticos orales
+T49	PROCEDIMIENTO 1488 1506	electrocardiograma
+T50	PROCEDIMIENTO 1582 1602	radiografía de tórax
+T51	PROCEDIMIENTO 1741 1764	ecocardiocopia portátil
+T52	PROCEDIMIENTO 2012 2024	sueroterapia
+T53	PROCEDIMIENTO 2054 2096	pericardiocentesis guiada por fluoroscopia
+T54	PROCEDIMIENTO 2306 2391	pericardiocentesis emergente guiada por ecocardiografía mediante abordaje subxifoideo
+T55	PROCEDIMIENTO 2641 2648	drenaje
+T56	PROCEDIMIENTO 2727 2745	Exploración física
+T57	PROCEDIMIENTO 3068 3095	auscultación cardiopulmonar
+T58	PROCEDIMIENTO 3762 3780	Electrocardiograma
+T59	PROCEDIMIENTO 3947 3967	Radiografía de tórax
+T60	PROCEDIMIENTO 4037 4061	Ecocardioscopia portátil
+T61	PROCEDIMIENTO 4258 4286	Ecocardiograma transtorácico
+T62	PROCEDIMIENTO 4292 4310	pericardiocentesis
+T63	PROCEDIMIENTO 4755 4770	tinción de Gram
+T64	PROCEDIMIENTO 4803 4825	cultivo bacteriológico
+T65	PROCEDIMIENTO 4873 4897	estudio de micobacterias
+T66	PROCEDIMIENTO 4901 4910	citología
+T67	PROCEDIMIENTO 4912 4932	Marcadores tumorales
+T68	PROCEDIMIENTO 4949 4958	serología
+T69	PROCEDIMIENTO 5065 5138	Serología virus hepatotropos, CMV, Treponema pallidum y Coxiella burnetii
+T70	PROCEDIMIENTO 5168 5216	Tomografía computarizada de tórax-abdomen-pelvis
+T71	PROCEDIMIENTO 5568 5582	Ecocardiograma
+T72	PROCEDIMIENTO 6054 6064	telemetría
+T73	PROCEDIMIENTO 6153 6165	auscultación
+T74	PROCEDIMIENTO 6178 6206	ecocardiograma transtorácico
+T75	PROCEDIMIENTO 6462 6479	se retira drenaje
+T76	PROCEDIMIENTO 6491 6548	tratamiento empírico con antiinflamatorios no esteroideos
+T77	PROCEDIMIENTO 6550 6554	AINE
+T78	PROCEDIMIENTO 6946 6968	cultivo bacteriológico
+T79	PROCEDIMIENTO 7045 7069	estudio de micobacterias
+T80	PROCEDIMIENTO 7122 7158	marcadores tumorales y autoinmunidad
+T81	PROCEDIMIENTO 7251 7334	Serología para virus hepatotropos, VIH, CMV, Treponema pallidum y Coxiella burnetii
+T82	PROCEDIMIENTO 7420 7446	TC de tórax-abdomen-pelvis
+T83	PROCEDIMIENTO 7628 7655	controles ecocardiográficos
+T84	PROCEDIMIENTO 8693 8711	Pericardiocentesis
+T85	PROCEDIMIENTO 2670 2706	se mantiene al paciente monitorizado
+T86	PROCEDIMIENTO 4934 4947	autoinmunidad
+T87	PROCEDIMIENTO 3392 3401	Analítica
+T88	PROCEDIMIENTO 7388 7408	estudio de extensión
+T89	PROCEDIMIENTO 1986 2000	monitorización
+T90	SINTOMA 430 439	fallecido
+T91	SINTOMA 534 543	fallecido
+T92	SINTOMA 889 939	disnea progresiva que se hace de mínimos esfuerzos
+T93	SINTOMA 988 1015	disnea paroxística nocturna
+T94	SINTOMA 1026 1062	edematización de miembros inferiores
+T95	SINTOMA 1092 1105	epigastralgia
+T96	SINTOMA 1322 1329	afebril
+T97	SINTOMA 1903 1927	estabilidad hemodinámica
+T98	SINTOMA 2188 2220	deterioro clínico y hemodinámico
+T99	SINTOMA 2239 2259	hipotensión arterial
+T100	SINTOMA 2262 2271	taquipnea
+T101	SINTOMA 2431 2459	líquido pericárdico hemático
+T102	SINTOMA 2746 2765	Buen estado general
+T103	SINTOMA 2767 2777	consciente
+T104	SINTOMA 2779 2808	orientado en las tres esferas
+T105	SINTOMA 2810 2824	normocoloreado
+T106	SINTOMA 2827 2842	normoperfundido
+T107	SINTOMA 2847 2875	ingurgitación venosa yugular
+T108	SINTOMA 2915 2923	eupneico
+T109	SINTOMA 2944 2976	aumento del trabajo respiratorio
+T110	SINTOMA 3054 3061	afebril
+T111	SINTOMA 3097 3135	ruidos cardiacos rítmicos de tono bajo
+T112	SINTOMA 3141 3147	soplos
+T113	SINTOMA 3149 3178	Murmullo vesicular conservado
+T114	SINTOMA 3217 3307	Abdomen globuloso, blando y depresible, no doloroso a la palpación superficial ni profunda
+T115	SINTOMA 3309 3365	Extremidades inferiores con edema y fóvea hasta rodillas
+T116	SINTOMA 3782 3801	taquicardia sinusal
+T117	SINTOMA 3813 3822	PR normal
+T118	SINTOMA 3836 3849	QRS estrechos
+T119	SINTOMA 3891 3922	ondas T negativas generalizadas
+T120	SINTOMA 3924 3945	alternancia eléctrica
+T121	SINTOMA 3999 4035	alteraciones del parénquima pulmonar
+T122	SINTOMA 4133 4154	función VI conservada
+T123	SINTOMA 4803 4834	cultivo bacteriológico negativo
+T124	SINTOMA 4994 5016	Autoinmunidad negativa
+T125	SINTOMA 5018 5063	elevación inespecífica de complemento C3 y C4
+T126	SINTOMA 5340 5392	nódulo ligeramente heterogéneo en el lóbulo tiroideo
+T127	SINTOMA 5502 5530	próstata aumentada de tamaño
+T128	SINTOMA 5740 5781	Engrosamiento pericardio visceral en ápex
+T129	SINTOMA 6066 6078	asintomático
+T130	SINTOMA 6131 6147	roce pericárdico
+T131	SINTOMA 6271 6311	función ventricular izquierda conservada
+T132	SINTOMA 6946 6977	cultivo bacteriológico negativo
+T133	SINTOMA 7551 7579	próstata aumentada de tamaño
+T134	SINTOMA 8077 8089	asintomático
+T135	SINTOMA 8208 8222	dolor punzante
+T136	SINTOMA 8804 8844	Función ventricular izquierda conservada
+T137	SINTOMA 1424 1436	hipertensión
+T138	SINTOMA 7506 7548	nódulo en lóbulo inferior tiroideo derecho
+T139	SINTOMA 2983 3003	sin tolerar decúbito
+T140	SINTOMA 3851 3889	escasa progresión de R en precordiales
+T141	SINTOMA 1547 1568	alternancia eléctrica
+T142	SINTOMA 4211 4225	swinging heart
+T143	SINTOMA 5065 5148	Serología virus hepatotropos, CMV, Treponema pallidum y Coxiella burnetii negativos
+T144	SINTOMA 5150 5166	IgG VEB positivo
+T145	SINTOMA 7251 7344	Serología para virus hepatotropos, VIH, CMV, Treponema pallidum y Coxiella burnetii negativos
+T146	SINTOMA 7346 7367	IgG positiva para VEB
+T147	SINTOMA 3824 3834	eje normal
+T148	SINTOMA 4227 4256	Colapso de cavidades derechas
+T149	SINTOMA 4755 4801	tinción de Gram sin observarse microorganismos
+T150	SINTOMA 6784 6848	líquido pericárdico son muy inespecíficas: hemático con coágulos
+T151	SINTOMA 7180 7249	elevación inespecífica de CA 125 y fracciones C3 y C4 del complemento
+T152	FARMACO 608 618	amlodipino
+T153	FARMACO 634 655	olmesartán medoxomilo
+T154	FARMACO 671 681	metformina
+T155	FARMACO 693 707	empagliflozina
+T156	FARMACO 6558 6568	colchicina

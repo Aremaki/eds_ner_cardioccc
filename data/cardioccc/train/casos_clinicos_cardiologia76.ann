@@ -1,0 +1,60 @@
+T1	DISEASE 2377 2401	Regurgitación tricúspide
+T2	DISEASE 29 50	Hipertensión arterial
+T3	DISEASE 52 68	Glaucoma crónico
+T4	DISEASE 562 575	cardiomegalia
+T5	DISEASE 2753 2780	Insuficiencia cardiaca leve
+T6	DISEASE 2790 2809	Anomalía de Ebstein
+T7	DISEASE 2810 2842	Regurgitación tricuspídea severa
+T8	DISEASE 2845 2875	disfunción sistólica ligera VD
+T9	DISEASE 1291 1293	IT
+T10	DISEASE 74 82	alergias
+T11	DISEASE 97 112	hábitos tóxicos
+T12	DISEASE 1027 1059	bloqueo completo de rama derecha
+T13	DISEASE 1126 1165	severa dilatación de cavidades derechas
+T14	DISEASE 1818 1821	CIA
+T15	DISEASE 2272 2302	Dilatación de cámaras derechas
+T16	DISEASE 2433 2447	malformaciones
+T17	DISEASE 1062 1107	alteraciones secundarias de la repolarización
+T18	DISEASE 958 975	crecimiento de AD
+T19	DISEASE 1533 1575	cavidades izquierdas son de tamaño pequeño
+T20	DISEASE 1866 1872	shunts
+T21	PROCEDURE 518 538	radiografía de tórax
+T22	PROCEDURE 649 667	Exploración física
+T23	PROCEDURE 916 919	ECG
+T24	PROCEDURE 1109 1124	Ecocardiografía
+T25	PROCEDURE 2000 2029	resonancia magnética cardiaca
+T26	PROCEDURE 2184 2196	RMN cardiaca
+T27	PROCEDURE 2678 2693	ecocardiografía
+T28	PROCEDURE 2701 2704	RMN
+T29	PROCEDURE 2707 2738	test de esfuerzo cardiopulmonar
+T30	PROCEDURE 737 739	AC
+T31	PROCEDURE 801 803	AP
+T32	PROCEDURE 706 721	Cabeza y cuello
+T33	SYMPTOM 231 260	Disnea de moderados esfuerzos
+T34	SYMPTOM 324 343	disnea de moderados
+T35	SYMPTOM 406 435	edemas en miembros inferiores
+T36	SYMPTOM 467 481	dolor torácico
+T37	SYMPTOM 485 498	palpitaciones
+T38	SYMPTOM 734 736	IY
+T39	SYMPTOM 737 748	AC: rítmica
+T40	SYMPTOM 750 775	soplo holosistólico II/VI
+T41	SYMPTOM 780 800	desdoblamiento de R2
+T42	SYMPTOM 859 890	edemas con fóvea perimaleolares
+T43	SYMPTOM 921 934	ritmo sinusal
+T44	SYMPTOM 977 986	PR normal
+T45	SYMPTOM 988 997	QRS ancho
+T46	SYMPTOM 1874 1893	Arco aórtico normal
+T47	SYMPTOM 1902 1929	congestión venosa sistémica
+T48	SYMPTOM 2308 2359	desplazamiento apical de los velos de la tricúspide
+T49	SYMPTOM 805 835	MVC en ambos campos pulmonares
+T50	SYMPTOM 1167 1239	Desplazamiento apical del punto de inserción del velo septal tricuspídeo
+T51	SYMPTOM 836 852	Abdomen: anodino
+T52	SYMPTOM 2152 2164	asintomática
+T53	SYMPTOM 706 728	Cabeza y cuello normal
+T54	SYMPTOM 1446 1487	tronco de la pulmonar es de tamaño normal
+T55	SYMPTOM 1492 1527	válvula pulmonar no tiene anomalías
+T56	SYMPTOM 1713 1745	válvulas izquierdas son normales
+T57	MEDICATION 133 144	telmisartán
+T58	MEDICATION 1966 1976	furosemida
+#1	AnnotatorNotes T9	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T14	 CIA comunicación interauricular

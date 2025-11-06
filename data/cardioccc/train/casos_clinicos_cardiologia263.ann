@@ -1,0 +1,121 @@
+T1	DISEASE 98 133	reacciones alérgicas a medicamentos
+T2	DISEASE 145 154	Exfumador
+T3	DISEASE 175 196	Hipertensión arterial
+T4	DISEASE 202 216	hábito enólico
+T5	DISEASE 241 263	insuficiencia cardiaca
+T6	DISEASE 274 324	Disfunción sistólica de ventrículo izquierdo grave
+T7	DISEASE 433 463	Disfunción ventricular derecha
+T8	DISEASE 502 529	hipertensión pulmonar grave
+T9	DISEASE 949 962	hiperuricemia
+T10	DISEASE 1003 1022	Carcinoma urotelial
+T11	DISEASE 1076 1101	Síndrome ansiosodepresivo
+T12	DISEASE 1142 1164	muerte súbita cardiaca
+T13	DISEASE 1221 1246	enfermedad cardiovascular
+T14	DISEASE 2666 2691	trombosis venosa profunda
+T15	DISEASE 2931 2945	isquemia aguda
+T16	DISEASE 3460 3513	Infiltrado parenquimatoso en lóbulo pulmonar inferior
+T17	DISEASE 3542 3557	derrame pleural
+T18	DISEASE 4813 4835	infección por COVID-19
+T19	DISEASE 5193 5211	síndrome diarreico
+T20	DISEASE 5456 5474	patología cardiaca
+T21	DISEASE 5634 5642	COVID-19
+T22	DISEASE 5868 5887	infiltrado pulmonar
+T23	DISEASE 6219 6229	ferropenia
+T24	DISEASE 7097 7127	Insuficiencia cardiaca crónica
+T25	DISEASE 7241 7290	Neumonía inferior derecha por SARS-CoV-2/COVID-19
+T26	DISEASE 7292 7328	Enfermedad renal crónica reagudizada
+T27	DISEASE 7330 7340	Ferropenia
+T28	DISEASE 652 671	lesiones coronarias
+T29	DISEASE 964 988	Enfermedad renal crónica
+T30	DISEASE 4581 4600	infiltrado pulmonar
+T31	DISEASE 5549 5569	infiltrado neumónico
+T32	DISEASE 7184 7214	Transposición de grandes vasos
+T33	DISEASE 531 561	Transposición de grandes vasos
+T34	DISEASE 468 499	insuficiencia tricuspídea grave
+T35	PROCEDURE 385 409	estudio ecocardiográfico
+T36	PROCEDURE 611 626	coronariografía
+T37	PROCEDURE 817 836	trasplante cardiaco
+T38	PROCEDURE 1052 1074	resección transuretral
+T39	PROCEDURE 1166 1182	cirugía cardiaca
+T40	PROCEDURE 1185 1204	trasplante cardiaco
+T41	PROCEDURE 2059 2077	Exploración física
+T42	PROCEDURE 2260 2283	Exploración neurológica
+T43	PROCEDURE 2315 2336	auscultación cardiaca
+T44	PROCEDURE 2422 2443	auscultación pulmonar
+T45	PROCEDURE 2488 2509	exploración abdominal
+T46	PROCEDURE 2764 2782	Electrocardiograma
+T47	PROCEDURE 3347 3367	Radiografía de tórax
+T48	PROCEDURE 3668 3690	Estudio microbiológico
+T49	PROCEDURE 3692 3719	test rápido influenza A y B
+T50	PROCEDURE 3731 3757	antigenuria para neumococo
+T51	PROCEDURE 3769 3796	antigenuria para Legionella
+T52	PROCEDURE 3822 3852	PCR para coronavirus SARS-CoV2
+T53	PROCEDURE 4257 4280	Biomarcadores cardiacos
+T54	PROCEDURE 4380 4394	Perfil anemias
+T55	PROCEDURE 4504 4524	Radiografía de tórax
+T56	PROCEDURE 5488 5508	radiografía de tórax
+T57	PROCEDURE 5682 5693	aislamiento
+T58	PROCEDURE 5901 5922	tratamiento diurético
+T59	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 6190 6204	perfil férrico
+T61	PROCEDURE 5075 5099	reactantes de fase aguda
+T62	PROCEDURE 6040 6099	determinaciones seriadas electrocardiográficas y analíticas
+T63	PROCEDURE 2947 2964	Estudio analítico
+T64	PROCEDURE 3864 3881	Estudio analítico
+T65	PROCEDURE 718 746	desfibriladorresincronizador
+T66	PROCEDURE 839 861	asistencia ventricular
+T67	PROCEDURE 2822 2866	estimulación ventricular por resincronizador
+T68	PROCEDURE 3580 3611	dispositivo de resincronización
+T69	PROCEDURE 5720 5752	toma de muestras microbiológicas
+T70	SYMPTOM 1830 1867	edemas basales en miembros inferiores
+T71	SYMPTOM 1881 1887	disnea
+T72	SYMPTOM 2260 2300	Exploración neurológica sin alteraciones
+T73	SYMPTOM 2315 2344	auscultación cardiaca rítmica
+T74	SYMPTOM 2350 2400	soplo sistólico de baja intensidad en foco aórtico
+T75	SYMPTOM 2448 2473	crepitantes finos en base
+T76	SYMPTOM 2525 2539	organomegalias
+T77	SYMPTOM 2544 2578	reflujo hepatoyugular fue positivo
+T78	SYMPTOM 2584 2639	miembros inferiores presentaban edemas en tercio distal
+T79	SYMPTOM 2795 2808	ritmo sinusal
+T80	SYMPTOM 3435 3458	redistribución vascular
+T81	SYMPTOM 3692 3729	test rápido influenza A y B: negativo
+T82	SYMPTOM 3731 3767	antigenuria para neumococo: negativa
+T83	SYMPTOM 3769 3820	antigenuria para Legionella (serogrupo 1): negativa
+T84	SYMPTOM 3822 3862	PCR para coronavirus SARS-CoV2: positivo
+T85	SYMPTOM 4925 4933	ortopnea
+T86	SYMPTOM 5031 5041	linfopenia
+T87	SYMPTOM 5044 5059	trombocitopenia
+T88	SYMPTOM 5064 5099	aumento de reactantes de fase aguda
+T89	SYMPTOM 5384 5395	escalofríos
+T90	SYMPTOM 5416 5423	astenia
+T91	SYMPTOM 6219 6229	ferropenia
+T92	SYMPTOM 6441 6448	afebril
+T93	SYMPTOM 6520 6537	reducción de peso
+T94	SYMPTOM 7015 7021	disnea
+T95	SYMPTOM 7056 7063	astenia
+T96	SYMPTOM 5364 5380	sensación febril
+T97	SYMPTOM 2239 2258	taquipnea en reposo
+T98	SYMPTOM 3377 3410	aumento del índice cardiotorácico
+T99	SYMPTOM 5216 5254	deposiciones sin productos patológicos
+T100	SYMPTOM 7141 7182	fracción de eyección gravemente deprimida
+T101	SYMPTOM 2697 2737	pulsos eran palpables de forma simétrica
+T102	MEDICATION 1298 1308	furosemida
+T103	MEDICATION 1324 1334	bisoprolol
+T104	MEDICATION 1349 1370	sacubitrilo/valsartán
+T105	MEDICATION 1391 1401	eplerenona
+T106	MEDICATION 1417 1427	alopurinol
+T107	MEDICATION 1444 1454	sertralina
+T108	MEDICATION 1470 1479	omeprazol
+T109	MEDICATION 1609 1621	levosimendán
+T110	MEDICATION 5006 5018	levosimendán
+T111	MEDICATION 5780 5797	hidroxicloroquina
+T112	MEDICATION 5800 5819	lopinavir/ritonavir
+T113	MEDICATION 5933 5943	furosemida
+T114	MEDICATION 6149 6166	hidroxicloroquina
+T115	MEDICATION 6474 6481	oxígeno
+T116	MEDICATION 6586 6603	hidroxicloroquina
+T117	MEDICATION 6684 6696	levosimendán
+T118	MEDICATION 6850 6862	levosimendán
+T119	MEDICATION 7386 7407	hierro-carboximaltosa
+T120	MEDICATION 2193 2200	oxígeno
+T121	MEDICATION 6290 6310	hierrocarboximaltosa

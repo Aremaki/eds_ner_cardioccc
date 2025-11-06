@@ -1,0 +1,102 @@
+T1	ENFERMEDAD 126 141	fumadora activa
+T2	ENFERMEDAD 202 233	distrofia miotónica (DM) tipo I
+T3	ENFERMEDAD 223 225	DM
+T4	ENFERMEDAD 235 257	enfermedad de Steinert
+T5	ENFERMEDAD 363 372	DM tipo I
+T6	ENFERMEDAD 444 474	trastorno del espectro autista
+T7	ENFERMEDAD 512 521	DM tipo 1
+T8	ENFERMEDAD 535 554	hemorragia cerebral
+T9	ENFERMEDAD 667 676	DM tipo I
+T10	ENFERMEDAD 694 717	cardiopatías familiares
+T11	ENFERMEDAD 1122 1143	leve ptosis bilateral
+T12	ENFERMEDAD 1811 1832	hipertensión pulmonar
+T13	ENFERMEDAD 1837 1856	derrame pericárdico
+T14	ENFERMEDAD 2078 2120	trastorno de conducción por rama izquierda
+T15	ENFERMEDAD 2259 2304	arritmias ventriculares ni supraventriculares
+T16	ENFERMEDAD 2513 2540	miocardiopatía hipertrófica
+T17	ENFERMEDAD 2746 2755	DM tipo I
+T18	ENFERMEDAD 2822 2859	trastorno de conducción con QRS ancho
+T19	ENFERMEDAD 2861 2910	bloqueo auriculoventricular (BAV) de primer grado
+T20	ENFERMEDAD 2890 2893	BAV
+T21	ENFERMEDAD 2967 2990	trastorno de conducción
+T22	ENFERMEDAD 4257 4283	Distrofia miotónica tipo 1
+T23	ENFERMEDAD 4285 4307	enfermedad de Steinert
+T24	ENFERMEDAD 4322 4345	cardiopatía estructural
+T25	ENFERMEDAD 4399 4416	Síndrome QT largo
+T26	ENFERMEDAD 4442 4444	DM
+T27	ENFERMEDAD 4516 4589	Trastorno significativo de la conducción nodal y del sistema His-Purkinje
+T28	ENFERMEDAD 1572 1598	trastorno de la conducción
+T29	ENFERMEDAD 3994 4015	VI levemente dilatado
+T30	ENFERMEDAD 592 600	QT largo
+T31	ENFERMEDAD 4505 4514	arrítmica
+T32	ENFERMEDAD 2787 2800	muerte súbita
+T33	ENFERMEDAD 4477 4490	muerte súbita
+T34	PROCEDIMIENTO 999 1017	EXPLORACIÓN FÍSICA
+T35	PROCEDIMIENTO 1048 1075	Auscultación cardiopulmonar
+T36	PROCEDIMIENTO 1089 1112	exploración neurológica
+T37	PROCEDIMIENTO 1320 1337	ECOCARDIOGRAMA TT
+T38	PROCEDIMIENTO 1965 1968	ECG
+T39	PROCEDIMIENTO 2168 2174	HOLTER
+T40	PROCEDIMIENTO 2372 2381	hemograma
+T41	PROCEDIMIENTO 2384 2395	coagulación
+T42	PROCEDIMIENTO 2919 2925	Holter
+T43	PROCEDIMIENTO 3107 3128	estudio de conducción
+T44	PROCEDIMIENTO 3131 3149	test de epinefrina
+T45	PROCEDIMIENTO 3151 3169	Test de epinefrina
+T46	PROCEDIMIENTO 3372 3500	Estudio electrofisiológico: se sitúan catéteres cuadripolares diagnósticos en aurícula derecha, His y ápex de ventrículo derecho
+T47	PROCEDIMIENTO 3727 3791	implante de desfibrilador automático implantable (DAI) bicameral
+T48	PROCEDIMIENTO 3814 3848	resonancia magnética (RM) cardiaca
+T49	PROCEDIMIENTO 3884 3900	implante del DAI
+T50	PROCEDIMIENTO 3970 3981	RM cardiaca
+T51	PROCEDIMIENTO 4204 4215	panel de QT
+T52	PROCEDIMIENTO 4363 4380	ecocardiograma TT
+T53	PROCEDIMIENTO 4386 4397	RM cardiaca
+T54	PROCEDIMIENTO 4594 4619	implante de DAI bicameral
+T55	PROCEDIMIENTO 2411 2427	ESTUDIO GENÉTICO
+T56	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T57	PROCEDIMIENTO 2360 2370	bioquímica
+T58	PROCEDIMIENTO 2349 2358	ANÁLITICA
+T59	PROCEDIMIENTO 3777 3780	DAI
+T60	PROCEDIMIENTO 3836 3838	RM
+T61	SINTOMA 743 750	astenia
+T62	SINTOMA 753 768	fatiga muscular
+T63	SINTOMA 1019 1046	Constantes vitales normales
+T64	SINTOMA 1048 1082	Auscultación cardiopulmonar normal
+T65	SINTOMA 1145 1166	debilidad facial leve
+T66	SINTOMA 1202 1228	hiporreflexia generalizada
+T67	SINTOMA 1339 1410	ventrículo izquierdo (VI) no dilatado con espesores parietales normales
+T68	SINTOMA 1480 1525	alteraciones de la contractilidad segmentaria
+T69	SINTOMA 1527 1555	movimiento anómalo del septo
+T70	SINTOMA 1600 1636	patrón de llenado transmitral normal
+T71	SINTOMA 1638 1685	ventrículo derecho no dilatado normocrontráctil
+T72	SINTOMA 1687 1709	aurículas no dilatadas
+T73	SINTOMA 1970 1983	ritmo sinusal
+T74	SINTOMA 2122 2144	T invertida de V1 a V3
+T75	SINTOMA 2176 2189	ritmo sinusal
+T76	SINTOMA 2411 2451	ESTUDIO GENÉTICO: negativo para QT largo
+T77	SINTOMA 3151 3178	Test de epinefrina positivo
+T78	SINTOMA 4042 4070	función sistólica conservada
+T79	SINTOMA 4088 4117	realce tardío intramiocárdico
+T80	SINTOMA 1230 1237	paresia
+T81	SINTOMA 1244 1260	rodete miotónico
+T82	SINTOMA 1711 1796	Válvulas aórtica, mitral, tricúspide y pulmonar morfológica y funcionalmente normales
+T83	SINTOMA 1858 1888	Vena cava inferior no dilatada
+T84	SINTOMA 1918 1963	Aorta no dilatada y sin aceleración del flujo
+T85	SINTOMA 3645 3671	Ausencia de conducción V-A
+T86	SINTOMA 4204 4242	panel de QT largo que resulta negativo
+T87	SINTOMA 932 996	asintomática por lo demás desde el punto de vista cardiovascular
+T88	SINTOMA 388 397	fallecido
+T89	SINTOMA 275 281	muerte
+T90	SINTOMA 1178 1200	cierre ocular completo
+T91	SINTOMA 2360 2409	bioquímica, hemograma y coagulación sin hallazgos
+T92	SINTOMA 2453 2471	MYBPC3 p.Arg726Cys
+T93	SINTOMA 3227 3258	prolongación patológica del QTc
+T94	SINTOMA 3502 3530	Intervalos basales anormales
+T95	SINTOMA 3553 3583	Basalmente pobre conducción AV
+T96	FARMACO 3938 3948	bisoprolol
+#1	AnnotatorNotes T3	 Distrofia miotónica
+#2	AnnotatorNotes T5	 DM: distrofia miotónica
+#3	AnnotatorNotes T7	 DM: distrofia miotónica
+#4	AnnotatorNotes T9	 DM: distrofia miotónica
+#5	AnnotatorNotes T17	 DM: distrofia miotónica
+#6	AnnotatorNotes T26	 DM: distrofia miotónica

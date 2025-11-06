@@ -1,0 +1,138 @@
+T1	DISEASE 91 114	alergias medicamentosas
+T2	DISEASE 141 156	hábitos tóxicos
+T3	DISEASE 162 176	bebedor social
+T4	DISEASE 181 188	fumador
+T5	DISEASE 1293 1304	apendicitis
+T6	DISEASE 1825 1837	coagulopatía
+T7	DISEASE 2365 2383	colecistitis aguda
+T8	DISEASE 2387 2411	dilatación de vía biliar
+T9	DISEASE 2494 2502	litiasis
+T10	DISEASE 2506 2519	hidronefrosis
+T11	DISEASE 2747 2804	adenopatías de aspecto reactivo en la fosa ilíaca derecha
+T12	DISEASE 3133 3140	ileítis
+T13	DISEASE 3225 3236	apendicitis
+T14	DISEASE 4626 4637	miocarditis
+T15	DISEASE 4845 4877	disfunción sistólica VI moderada
+T16	DISEASE 5211 5248	Insuficiencia tricuspídea (IT) ligera
+T17	DISEASE 5396 5415	derrame pericárdico
+T18	DISEASE 5645 5650	COVID
+T19	DISEASE 6504 6526	insuficiencia cardiaca
+T20	DISEASE 7155 7170	hipotonía vagal
+T21	DISEASE 7210 7221	miocarditis
+T22	DISEASE 7731 7805	Miocarditis e ileocolitis aguda en el contexto de infección por SARS-CoV-2
+T23	DISEASE 7781 7805	infección por SARS-CoV-2
+T24	DISEASE 5324 5357	Vena cava inferior (VCI) dilatada
+T25	DISEASE 6304 6322	eventos arrítmicos
+T26	DISEASE 6891 6902	ritmo nodal
+T27	DISEASE 7731 7762	Miocarditis e ileocolitis aguda
+T28	DISEASE 201 225	consumo de otros tóxicos
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 1011 1043	auscultación cardiaca y pulmonar
+T31	PROCEDURE 1336 1348	TC abdominal
+T32	PROCEDURE 1351 1370	PCR para SARSCoV- 2
+T33	PROCEDURE 1713 1722	hemograma
+T34	PROCEDURE 2067 2086	PCR para SARS-CoV-2
+T35	PROCEDURE 2201 2228	TC de abdomen sin contraste
+T36	PROCEDURE 3327 3426	estudio de virus hepatotropos y VIH, anticuerpos anti-transglutaminasa y tiopurina metiltransferasa
+T37	PROCEDURE 3595 3607	coprocultivo
+T38	PROCEDURE 4042 4060	electrocardiograma
+T39	PROCEDURE 4219 4237	electrocardiograma
+T40	PROCEDURE 4408 4426	electrocardiograma
+T41	PROCEDURE 4583 4597	ecocardiograma
+T42	PROCEDURE 5420 5434	ecocardiograma
+T43	PROCEDURE 5572 5575	PCR
+T44	PROCEDURE 5633 5650	aislamiento COVID
+T45	PROCEDURE 5678 5720	serología con IgG positiva para SARS-CoV-2
+T46	PROCEDURE 6046 6070	reactantes de fase aguda
+T47	PROCEDURE 6076 6105	marcadores de daño miocárdico
+T48	PROCEDURE 6107 6125	electrocardiograma
+T49	PROCEDURE 6152 6166	ecocardiograma
+T50	PROCEDURE 6218 6233	betabloqueantes
+T51	PROCEDURE 6287 6299	monitorizado
+T52	PROCEDURE 6538 6611	tratamiento con inhibidores de la enzima de conversión de la angiotensina
+T53	PROCEDURE 6613 6617	IECA
+T54	PROCEDURE 6621 6636	betabloqueantes
+T55	PROCEDURE 6649 6663	ecocardiograma
+T56	PROCEDURE 6804 6822	electrocardiograma
+T57	PROCEDURE 7018 7033	betabloqueantes
+T58	PROCEDURE 7047 7074	monitorizado con telemetría
+T59	PROCEDURE 7361 7384	antibioterapia empírica
+T60	PROCEDURE 7588 7612	reactantes de fase aguda
+T61	PROCEDURE 1977 1988	urianálisis
+T62	PROCEDURE 7534 7553	enzimas miocárdicas
+T63	SYMPTOM 402 408	fiebre
+T64	SYMPTOM 487 517	dolor abdominal en mesogastrio
+T65	SYMPTOM 647 665	pérdida de apetito
+T66	SYMPTOM 674 681	náuseas
+T67	SYMPTOM 684 691	vómitos
+T68	SYMPTOM 693 716	alteración del tránsito
+T69	SYMPTOM 718 745	exteriorización de sangrado
+T70	SYMPTOM 748 766	síntomas urinarios
+T71	SYMPTOM 892 902	consciente
+T72	SYMPTOM 904 913	orientado
+T73	SYMPTOM 929 958	buena hidratación y perfusión
+T74	SYMPTOM 960 978	eupneico en reposo
+T75	SYMPTOM 985 1006	focalidad neurológica
+T76	SYMPTOM 1011 1074	auscultación cardiaca y pulmonar no mostró hallazgos relevantes
+T77	SYMPTOM 1079 1143	abdomen era blando, depresible, con ruidos hidroaéreos presentes
+T78	SYMPTOM 1156 1161	masas
+T79	SYMPTOM 1165 1173	megalias
+T80	SYMPTOM 1179 1230	intenso dolor a la palpación de fosa ilíaca derecha
+T81	SYMPTOM 1250 1271	irritación peritoneal
+T82	SYMPTOM 1742 1754	leucocitosis
+T83	SYMPTOM 1784 1795	neutrofilia
+T84	SYMPTOM 2067 2104	PCR para SARS-CoV-2, que fue positiva
+T85	SYMPTOM 2241 2278	hígado y bazo dentro de la normalidad
+T86	SYMPTOM 2413 2453	Páncreas sin alteraciones significativas
+T87	SYMPTOM 2538 2604	cambios inflamatorios en ciego, válvula ileocecal e íleon terminal
+T88	SYMPTOM 2609 2663	íleon terminal presentaba un engrosamiento de su pared
+T89	SYMPTOM 3595 3668	coprocultivo se observó disbacteriosis por microorganismos gram positivos
+T90	SYMPTOM 3723 3737	dolor torácico
+T91	SYMPTOM 4065 4079	dolor torácico
+T92	SYMPTOM 4093 4112	taquicardia sinusal
+T93	SYMPTOM 4155 4175	eje eléctrico normal
+T94	SYMPTOM 4181 4214	alteraciones de la repolarización
+T95	SYMPTOM 4270 4283	ritmo sinusal
+T96	SYMPTOM 4326 4346	eje eléctrico normal
+T97	SYMPTOM 4365 4400	T negativa en III y aplanada en aVF
+T98	SYMPTOM 4453 4466	ritmo sinusal
+T99	SYMPTOM 4509 4529	eje eléctrico normal
+T100	SYMPTOM 4702 4739	Ventrículo izquierdo (VI) no dilatado
+T101	SYMPTOM 4821 4840	Hipoquinesia global
+T102	SYMPTOM 5678 5720	serología con IgG positiva para SARS-CoV-2
+T103	SYMPTOM 5783 5831	dolor centrotorácico que describía como punzante
+T104	SYMPTOM 5910 5920	sudoración
+T105	SYMPTOM 5950 5957	vómitos
+T106	SYMPTOM 6033 6070	elevación de reactantes de fase aguda
+T107	SYMPTOM 6477 6489	asintomático
+T108	SYMPTOM 6849 6862	ritmo sinusal
+T109	SYMPTOM 7301 7306	dolor
+T110	SYMPTOM 7822 7883	Leve hipoquinesia en septo basal y anterolateral basal del VI
+T111	SYMPTOM 6130 6149	taquicardia sinusal
+T112	SYMPTOM 6949 6956	síncope
+T113	SYMPTOM 2312 2349	vesícula de tamaño normal, alitiásica
+T114	SYMPTOM 2455 2479	Riñones de tamaño normal
+T115	SYMPTOM 2828 2871	líquido libre en gotiera paracólica derecha
+T116	SYMPTOM 3327 3447	estudio de virus hepatotropos y VIH, anticuerpos anti-transglutaminasa y tiopurina metiltransferasa que fueron negativos
+T117	SYMPTOM 3850 3870	seriación enzimática
+T118	SYMPTOM 4531 4569	Ondas T bifásicas en cara inferolatera
+T119	SYMPTOM 4654 4689	aurícula izquierda (AI) no dilatada
+T120	SYMPTOM 4904 4935	Válvula mitral normofuncionante
+T121	SYMPTOM 4976 5017	Válvula aórtica trivalva normofuncionante
+T122	SYMPTOM 5019 5063	Raíz aórtica y aorta ascendente no dilatadas
+T123	SYMPTOM 5102 5176	función sistólica del ventrículo derecho (VD) en límite bajo de normalidad
+T124	SYMPTOM 5494 5513	hipoquinesia global
+T125	SYMPTOM 6171 6190	hipoquinesia global
+T126	SYMPTOM 6736 6799	hipoquinesia en segmentos basales de septo y cara anterolateral
+T127	SYMPTOM 6677 6711	normalización de función sistólica
+T128	SYMPTOM 7617 7657	situación clínica y hemodinámica estable
+T129	SYMPTOM 5065 5100	Cavidades derechas de tamaño normal
+T130	SYMPTOM 866 890	aceptable estado general
+T131	SYMPTOM 916 927	colaborador
+T132	SYMPTOM 3743 3787	elevación de troponina I (alta sensibilidad)
+T133	SYMPTOM 3890 3909	pico de troponina I
+T134	SYMPTOM 1924 1972	tiempo de tromboplastina parcial activada normal
+T135	SYMPTOM 2876 2939	apéndice cecal presentaba mínimo aumento de diámetro de su base
+T136	SYMPTOM 5572 5618	PCR a las 48 horas de ingreso que fue negativa
+T137	MEDICATION 7389 7400	ceftriaxona
+T138	MEDICATION 7403 7415	metronidazol

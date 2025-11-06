@@ -1,0 +1,147 @@
+T1	DISEASE 183 205	insuficiencia cardiaca
+T2	DISEASE 337 355	síndrome depresivo
+T3	DISEASE 399 428	fibrilación auricular crónica
+T4	DISEASE 515 544	enfermedades cardiovasculares
+T5	DISEASE 768 780	colelitiasis
+T6	DISEASE 797 807	colangitis
+T7	DISEASE 1022 1031	infección
+T8	DISEASE 1315 1337	insuficiencia cardiaca
+T9	DISEASE 1541 1569	insuficiencia aórtica severa
+T10	DISEASE 2300 2305	bocio
+T11	DISEASE 3151 3171	insuficiencia venosa
+T12	DISEASE 3185 3210	trombosis venosa profunda
+T13	DISEASE 3293 3314	fibrilación auricular
+T14	DISEASE 4273 4321	disfunción ventricular izquierda de grado severo
+T15	DISEASE 4500 4526	prolapso del velo anterior
+T16	DISEASE 4528 4598	Válvula mitral esclerosada, con insuficiencia holosistólica excéntrica
+T17	DISEASE 4704 4732	dilatación del anillo mitral
+T18	DISEASE 4863 4897	Insuficiencia tricuspídea moderada
+T19	DISEASE 5146 5207	Leve derrame pericárdico a nivel de techo de aurícula derecha
+T20	DISEASE 5225 5266	aneurisma en la aorta torácica ascendente
+T21	DISEASE 6098 6122	tromboembolismo pulmonar
+T22	DISEASE 6714 6725	atelectasia
+T23	DISEASE 6739 6764	Derrame pleural bilateral
+T24	DISEASE 7134 7156	fallo cardiaco derecho
+T25	DISEASE 7220 7232	colelitiasis
+T26	DISEASE 7369 7381	colelitiasis
+T27	DISEASE 7475 7550	disfunción biventricular con insuficiencia aórtica y mitral de grado severo
+T28	DISEASE 7612 7646	tromboembolismo pulmonar bilateral
+T29	DISEASE 7886 7908	insuficiencia cardiaca
+T30	DISEASE 7934 7961	patología arterial pulmonar
+T31	DISEASE 8172 8197	trombosis venosa profunda
+T32	DISEASE 8288 8312	tromboembolismo pulmonar
+T33	DISEASE 8497 8553	parada cardiaca secundaria a disociación electromecánica
+T34	DISEASE 8678 8699	taponamiento cardiaco
+T35	DISEASE 8742 8756	rotura aórtica
+T36	DISEASE 9178 9193	parada cardiaca
+T37	DISEASE 9253 9287	Tromboembolismo pulmonar bilateral
+T38	DISEASE 9290 9321	Disfunción biventricular severa
+T39	DISEASE 9324 9362	Insuficiencia aórtica y mitral severas
+T40	DISEASE 4773 4800	Aurícula izquierda dilatada
+T41	DISEASE 282 289	Fumador
+T42	DISEASE 2753 2766	Hepatomegalia
+T43	DISEASE 6766 6779	Hepatomegalia
+T44	DISEASE 4816 4843	Ventrículo derecho dilatado
+T45	DISEASE 245 268	alergias medicamentosas
+T46	DISEASE 3335 3368	hipertrofia ventricular izquierda
+T47	DISEASE 1585 1611	insuficiencia mitral grave
+T48	DISEASE 359 369	Hipertenso
+T49	DISEASE 372 383	dislipémico
+T50	DISEASE 1495 1538	disección de aorta tipo A con raíz dilatada
+T51	DISEASE 4063 4104	ventrículo izquierdo severamente dilatado
+T52	DISEASE 4340 4407	Válvula aórtica trivava, con flujo de regurgitación de grado severo
+T53	DISEASE 4941 4959	Vena cava dilatada
+T54	DISEASE 4986 5016	Aorta ascendente aneurismática
+T55	DISEASE 5805 5813	hematoma
+T56	DISEASE 5814 5820	trombo
+T57	DISEASE 7158 7187	Cálculo en la vesícula biliar
+T58	DISEASE 7426 7451	disección de aorta tipo A
+T59	DISEASE 8063 8080	disección aórtica
+T60	DISEASE 8829 8846	disección aórtica
+T61	DISEASE 9225 9250	Disección de aorta tipo A
+T62	DISEASE 5587 5612	Disección de aorta tipo A
+T63	DISEASE 2859 2872	abdomen agudo
+T64	DISEASE 6730 6737	infarto
+T65	DISEASE 1619 1648	ventrículo izquierdo dilatado
+T66	PROCEDURE 1239 1250	analgésicos
+T67	PROCEDURE 1376 1390	ecocardiograma
+T68	PROCEDURE 1449 1477	ecocardiograma transtorácico
+T69	PROCEDURE 1755 1767	TAC torácico
+T70	PROCEDURE 1975 2010	administración de antiinflamatorios
+T71	PROCEDURE 2051 2069	Exploración física
+T72	PROCEDURE 2252 2267	cánulas nasales
+T73	PROCEDURE 2382 2403	Auscultación cardiaca
+T74	PROCEDURE 2611 2632	Auscultación pulmonar
+T75	PROCEDURE 2804 2845	palpación profunda en hipocondrio derecho
+T76	PROCEDURE 3288 3291	ECG
+T77	PROCEDURE 3417 3426	hemograma
+T78	PROCEDURE 3896 3916	Radiografía de tórax
+T79	PROCEDURE 4047 4061	Ecocardiograma
+T80	PROCEDURE 5211 5223	TAC torácica
+T81	PROCEDURE 8007 8022	anticoagulación
+T82	PROCEDURE 8104 8145	eco-Doppler venoso de miembros inferiores
+T83	PROCEDURE 8345 8360	anticoagulación
+T84	PROCEDURE 8566 8614	maniobras de reanimación cardiopulmonar avanzada
+T85	PROCEDURE 8644 8658	ecocardiograma
+T86	PROCEDURE 8705 8722	angio-TAC aórtico
+T87	PROCEDURE 9033 9073	intervención de Bentall con tubo valvado
+T88	PROCEDURE 9076 9117	anuloplastia mitral con anillo Carpentier
+T89	PROCEDURE 429 441	antiagregado
+T90	PROCEDURE 3809 3820	coagulación
+T91	PROCEDURE 8224 8253	implante de un filtro de cava
+T92	PROCEDURE 3406 3415	Analítica
+T93	PROCEDURE 2280 2295	Cabeza y cuello
+T94	PROCEDURE 3547 3557	bioquímica
+T95	PROCEDURE 1778 1801	intervención quirúrgica
+T96	PROCEDURE 8979 9002	intervención quirúrgica
+T97	SYMPTOM 221 237	dolor de espalda
+T98	SYMPTOM 834 886	dolor abdominal en intensidad creciente, tipo cólico
+T99	SYMPTOM 977 986	febrícula
+T100	SYMPTOM 1206 1221	dolor abdominal
+T101	SYMPTOM 1863 1869	disnea
+T102	SYMPTOM 1944 1956	dolor dorsal
+T103	SYMPTOM 2034 2048	dolor torácico
+T104	SYMPTOM 2157 2177	Buen aspecto general
+T105	SYMPTOM 2179 2194	Normohidratrado
+T106	SYMPTOM 2196 2210	normocoloreado
+T107	SYMPTOM 2229 2237	Eupneico
+T108	SYMPTOM 2307 2325	Carótidas rítmicas
+T109	SYMPTOM 2332 2338	soplos
+T110	SYMPTOM 2344 2372	ingurgitación venosa yugular
+T111	SYMPTOM 2405 2414	arrítmica
+T112	SYMPTOM 2416 2471	Soplo diastólico decreciente espirativo en foco aórtico
+T113	SYMPTOM 2517 2583	Soplo holosistólico decreciente de intensidad IV/VI en foco mitral
+T114	SYMPTOM 2634 2663	murmullo vesicular conservado
+T115	SYMPTOM 2668 2689	crepitantes bibasales
+T116	SYMPTOM 2693 2731	Abdomen: globuloso, blando, depresible
+T117	SYMPTOM 2746 2751	masas
+T118	SYMPTOM 2790 2837	Molestia a la palpación profunda en hipocondrio
+T119	SYMPTOM 2874 2906	Ruidos peristálticos conservados
+T120	SYMPTOM 2911 2929	soplos abdominales
+T121	SYMPTOM 2947 3003	pulsos presentes y simétricos en extremidades superiores
+T122	SYMPTOM 3041 3097	edemas con fóvea hasta las región media de ambas piernas
+T123	SYMPTOM 3918 3963	agrandamiento de la silueta cardiopericárdica
+T124	SYMPTOM 3981 3999	líneas B de Kerley
+T125	SYMPTOM 4002 4035	pinzamiento del seno costofrénico
+T126	SYMPTOM 4194 4213	Hipoquinesia global
+T127	SYMPTOM 6875 6918	aumento de calibre de la vena cava inferior
+T128	SYMPTOM 6981 7033	infiltración difusa de la grasa subcutánea abdominal
+T129	SYMPTOM 7086 7120	alteración del estado hemodinámico
+T130	SYMPTOM 8469 8483	dolor torácico
+T131	SYMPTOM 9119 9130	falleciendo
+T132	SYMPTOM 1042 1101	leucocitosis -13450 leucocitos/uL- con desviación izquierda
+T133	SYMPTOM 2212 2227	normoperfundido
+T134	SYMPTOM 6508 6574	opacidades focales pulmonares periféricas en el hemitórax superior
+T135	SYMPTOM 3214 3239	Neurológico: no focalidad
+T136	SYMPTOM 6585 6655	consolidaciones en la regiones posteriores de ambos lóbulos inferiores
+T137	SYMPTOM 6030 6081	defectos de repleción en el árbol arterial pulmonar
+T138	SYMPTOM 7731 7765	estabilidad clínica y hemodinámica
+T139	SYMPTOM 6829 6846	hígado de estasis
+T140	SYMPTOM 7058 7076	líquido perirrenal
+T141	SYMPTOM 3382 3402	sobrecarga sistólica
+T142	SYMPTOM 5947 6018	troncos supraaórticos y ambas carótidas se originan de la luz verdadera
+T143	SYMPTOM 8801 8877	progresión retrograda de la disección aórtica hacia seno de Valsalva derecho
+T144	MEDICATION 585 607	ácido acetilsalicílico
+T145	MEDICATION 609 617	digoxina
+T146	MEDICATION 619 629	furosemida
+T147	MEDICATION 631 643	pravastatina

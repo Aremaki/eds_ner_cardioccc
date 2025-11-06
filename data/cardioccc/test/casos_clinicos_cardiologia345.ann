@@ -1,0 +1,181 @@
+T1	ENFERMEDAD 3247 3313	ventrículo izquierdo de diámetros normales, con ligera hipertrofia
+T2	ENFERMEDAD 81 122	reacciones alérgicas conocidas a fármacos
+T3	ENFERMEDAD 130 145	hábitos tóxicos
+T4	ENFERMEDAD 178 199	cardiopatía isquémica
+T5	ENFERMEDAD 250 271	hipertensión arterial
+T6	ENFERMEDAD 273 276	HTA
+T7	ENFERMEDAD 309 319	dislipemia
+T8	ENFERMEDAD 321 323	DL
+T9	ENFERMEDAD 374 391	diabetes mellitus
+T10	ENFERMEDAD 393 395	DM
+T11	ENFERMEDAD 398 424	Adenocarcinoma de próstata
+T12	ENFERMEDAD 606 639	adenocarcinoma acinar infiltrante
+T13	ENFERMEDAD 674 691	Gastritis crónica
+T14	ENFERMEDAD 693 719	Síndrome ansioso-depresivo
+T15	ENFERMEDAD 1203 1248	calcificación en las tres arterias coronarias
+T16	ENFERMEDAD 1310 1336	adenocarcinoma de próstata
+T17	ENFERMEDAD 3015 3030	derrame pleural
+T18	ENFERMEDAD 3125 3177	ateromatosis coronaria calcificada de los tres vasos
+T19	ENFERMEDAD 3180 3215	leve calcificación valvular aórtica
+T20	ENFERMEDAD 3516 3537	Disfunción diastólica
+T21	ENFERMEDAD 3726 3783	Válvula mitral de aspecto normal con mínima insuficiencia
+T22	ENFERMEDAD 3797 3822	insuficiencia tricuspídea
+T23	ENFERMEDAD 3861 3890	leve cardiopatía hipertensiva
+T24	ENFERMEDAD 4460 4469	arritmias
+T25	ENFERMEDAD 4622 4673	Arteria descendente anterior (ADA): estenosis grave
+T26	ENFERMEDAD 6074 6090	isquemia silente
+T27	ENFERMEDAD 6262 6287	enfermedad cardiovascular
+T28	ENFERMEDAD 6320 6343	calcificación coronaria
+T29	ENFERMEDAD 6798 6817	isquemia miocárdica
+T30	ENFERMEDAD 7129 7152	calcificación coronaria
+T31	ENFERMEDAD 7168 7176	isquemia
+T32	ENFERMEDAD 7306 7332	adenocarcinoma de próstata
+T33	ENFERMEDAD 7461 7544	estenosis graves en la ADA a niveles proximal y medio y en la primera rama diagonal
+T34	ENFERMEDAD 7908 7928	patología prostática
+T35	ENFERMEDAD 7962 7981	trombosis del stent
+T36	ENFERMEDAD 8676 8696	Enfermedad coronaria
+T37	ENFERMEDAD 8727 8743	isquemia silente
+T38	ENFERMEDAD 8745 8766	Enfermedad de un vaso
+T39	ENFERMEDAD 8768 8831	estenosis grave en ADA proximal y media y primera rama diagonal
+T40	ENFERMEDAD 8992 9002	Dislipemia
+T41	ENFERMEDAD 9004 9025	Hipertensión arterial
+T42	ENFERMEDAD 9027 9053	Adenocarcinoma de próstata
+T43	ENFERMEDAD 3584 3623	Aurícula izquierda ligeramente dilatada
+T44	ENFERMEDAD 5676 5686	colestasis
+T45	ENFERMEDAD 2781 2817	hemibloqueo superoanterior izquierdo
+T46	ENFERMEDAD 2819 2823	HSAI
+T47	ENFERMEDAD 4756 4829	Primera diagonal de buen calibre con bifurcación precoz y estenosis grave
+T48	PROCEDIMIENTO 499 521	prostatectomía radical
+T49	PROCEDIMIENTO 541 559	Biopsia prostática
+T50	PROCEDIMIENTO 747 769	hernioplastia inguinal
+T51	PROCEDIMIENTO 1255 1281	TC toraco-abdomino-pélvico
+T52	PROCEDIMIENTO 1561 1579	EXPLORACIÓN FÍSICA
+T53	PROCEDIMIENTO 1916 1937	auscultación cardiaca
+T54	PROCEDIMIENTO 1980 2001	auscultación pulmonar
+T55	PROCEDIMIENTO 2355 2373	Sedimento de orina
+T56	PROCEDIMIENTO 2376 2397	electrolitos en orina
+T57	PROCEDIMIENTO 2416 2431	Perfil lipídico
+T58	PROCEDIMIENTO 2540 2562	Marcadores prostáticos
+T59	PROCEDIMIENTO 2646 2655	Hemograma
+T60	PROCEDIMIENTO 2658 2669	coagulación
+T61	PROCEDIMIENTO 2688 2691	ECG
+T62	PROCEDIMIENTO 2864 2897	Radiografía de tórax PA + lateral
+T63	PROCEDIMIENTO 3032 3075	TC toraco-abdomino-pélvico con contraste IV
+T64	PROCEDIMIENTO 3217 3245	Ecocardografía transtorácica
+T65	PROCEDIMIENTO 3934 3973	Prueba de esfuerzo electrocardiográfica
+T66	PROCEDIMIENTO 4536 4551	Coronariografía
+T67	PROCEDIMIENTO 5047 5148	intervencionismo coronario percutáneo con angioplastia con balón farmacoactivo sobre primera diagonal
+T68	PROCEDIMIENTO 5155 5224	implante de dos stents solapados (BioFreedom) en ADA proximal y media
+T69	PROCEDIMIENTO 5252 5279	doble terapia antiagregante
+T70	PROCEDIMIENTO 5466 5484	Sedimento de orina
+T71	PROCEDIMIENTO 5487 5508	electrolitos en orina
+T72	PROCEDIMIENTO 5527 5542	Perfil lipídico
+T73	PROCEDIMIENTO 5649 5662	Transaminasas
+T74	PROCEDIMIENTO 5723 5732	Hemograma
+T75	PROCEDIMIENTO 5735 5746	coagulación
+T76	PROCEDIMIENTO 5909 5924	ecocardiografía
+T77	PROCEDIMIENTO 5986 6025	prueba de esfuerzo electrocardiográfica
+T78	PROCEDIMIENTO 6552 6567	ecocardiografía
+T79	PROCEDIMIENTO 6705 6723	prueba de esfuerzo
+T80	PROCEDIMIENTO 6759 6777	electrocardiograma
+T81	PROCEDIMIENTO 6779 6782	ECG
+T82	PROCEDIMIENTO 6922 6932	ergometría
+T83	PROCEDIMIENTO 7183 7193	ergometría
+T84	PROCEDIMIENTO 7209 7224	coronariografía
+T85	PROCEDIMIENTO 7361 7389	revascularización percutánea
+T86	PROCEDIMIENTO 7395 7415	doble antiagregación
+T87	PROCEDIMIENTO 7433 7448	coronariografía
+T88	PROCEDIMIENTO 7559 7633	implante de dos stents farmacoactivos solapados en la ADA proximal y media
+T89	PROCEDIMIENTO 7636 7691	angioplastia con balón farmacoactivo en la rama diagona
+T90	PROCEDIMIENTO 7790 7811	terapia antiagregante
+T91	PROCEDIMIENTO 8493 8542	doble terapia antiagregante con AAS + clopidogrel
+T92	PROCEDIMIENTO 8583 8612	antiagregación simple con AAS
+T93	PROCEDIMIENTO 8638 8660	prostatectomía radical
+T94	PROCEDIMIENTO 8833 8861	Revascularización percutánea
+T95	PROCEDIMIENTO 8863 8914	angioplastia con balón con fármaco en rama diagonal
+T96	PROCEDIMIENTO 8917 8954	implante de dos stents farmacoactivos
+T97	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T98	PROCEDIMIENTO 2279 2292	Función renal
+T99	PROCEDIMIENTO 5390 5403	Función renal
+T100	PROCEDIMIENTO 1297 1336	estadiaje de adenocarcinoma de próstata
+T101	PROCEDIMIENTO 5665 5686	enzimas de colestasis
+T102	PROCEDIMIENTO 2203 2212	Analítica
+T103	PROCEDIMIENTO 5349 5358	Analítica
+T104	PROCEDIMIENTO 7271 7278	cirugía
+T105	PROCEDIMIENTO 7883 7928	cirugía requerida por la patología prostática
+T106	PROCEDIMIENTO 2106 2117	exploración
+T107	PROCEDIMIENTO 474 497	intervención quirúrgica
+T108	SINTOMA 1367 1399	dolor torácico con los esfuerzos
+T109	SINTOMA 1436 1455	molestias torácicas
+T110	SINTOMA 1608 1627	buen estado general
+T111	SINTOMA 1629 1643	normocoloreado
+T112	SINTOMA 1646 1660	normohidratado
+T113	SINTOMA 1662 1680	eupneico en reposo
+T114	SINTOMA 1682 1692	consciente
+T115	SINTOMA 1694 1703	orientado
+T116	SINTOMA 1904 1911	afebril
+T117	SINTOMA 1916 1948	auscultación cardiaca es rítmica
+T118	SINTOMA 1965 1971	soplos
+T119	SINTOMA 2014 2043	murmullo vesicular conservado
+T120	SINTOMA 2124 2176	pulsos radiales son palpables, rítmicos y simétricos
+T121	SINTOMA 2279 2303	Función renal conservada
+T122	SINTOMA 2355 2414	Sedimento de orina y electrolitos en orina sin alteraciones
+T123	SINTOMA 2646 2686	Hemograma y coagulación sin alteraciones
+T124	SINTOMA 2693 2706	ritmo sinusal
+T125	SINTOMA 2717 2726	PR normal
+T126	SINTOMA 2750 2762	QRS estrecho
+T127	SINTOMA 2829 2862	alteraciones en la repolarización
+T128	SINTOMA 2899 2942	silueta cardiomediastínica sin alteraciones
+T129	SINTOMA 2944 2983	Engrosamiento hiliar de origen vascular
+T130	SINTOMA 3726 3758	Válvula mitral de aspecto normal
+T131	SINTOMA 4123 4206	descenso del ST máximo de 1,5 mm horizontal en 5 derivaciones (II, III, aVF y V5-V6
+T132	SINTOMA 4281 4295	dolor torácico
+T133	SINTOMA 5390 5414	Función renal conservada
+T134	SINTOMA 5466 5525	Sedimento de orina y electrolitos en orina sin alteraciones
+T135	SINTOMA 5697 5711	CPK no elevada
+T136	SINTOMA 5723 5763	Hemograma y coagulación sin alteraciones
+T137	SINTOMA 6580 6620	función ventricular izquierda conservada
+T138	SINTOMA 6855 6869	dolor torácico
+T139	SINTOMA 8206 8218	asintomático
+T140	SINTOMA 3395 3440	alteraciones de la contractilidad segmentaria
+T141	SINTOMA 7987 7995	sangrado
+T142	SINTOMA 433 440	T1CN0MX
+T143	SINTOMA 3247 3289	ventrículo izquierdo de diámetros normales
+T144	SINTOMA 3633 3657	Raíz aórtica no dilatada
+T145	SINTOMA 3895 3932	buena función sistólica biventricular
+T146	SINTOMA 6636 6681	alteraciones en la contractilidad segmentaria
+T147	SINTOMA 2048 2068	ruidos sobreañadidos
+T148	SINTOMA 3442 3500	Ventrículo derecho no dilatado con buena función sistólica
+T149	SINTOMA 3659 3683	Válvula aórtica trivalva
+T150	SINTOMA 3546 3573	alteración de la relajación
+T151	SINTOMA 1472 1480	ansiedad
+T152	SINTOMA 8697 8709	asintomática
+T153	SINTOMA 1706 1717	colaborador
+T154	SINTOMA 2999 3012	consolidación
+T155	SINTOMA 2332 2353	electrolitos en rango
+T156	SINTOMA 5443 5464	electrolitos en rango
+T157	SINTOMA 4960 5002	Arteria coronaria derecha (ACD): dominante
+T158	SINTOMA 2081 2099	signos congestivos
+T159	SINTOMA 1724 1755	signos de focalidad neurológica
+T160	SINTOMA 4553 4620	tronco coronario izquierdo (TCI): irregularidades no significativas
+T161	SINTOMA 4890 4943	Arteria circunfleja (ACx): No dominante, sin lesiones
+T162	SINTOMA 5649 5695	Transaminasas y enzimas de colestasis en rango
+T163	FARMACO 800 810	olmesartán
+T164	FARMACO 822 833	clorazepato
+T165	FARMACO 845 853	diazepam
+T166	FARMACO 869 881	escitalopram
+T167	FARMACO 893 904	pregabalina
+T168	FARMACO 921 938	dexclorfeniramina
+T169	FARMACO 953 963	loratadina
+T170	FARMACO 975 986	hidroxicina
+T171	FARMACO 6161 6183	ácido acetilsalicílico
+T172	FARMACO 6185 6188	AAS
+T173	FARMACO 6202 6215	atorvastatina
+T174	FARMACO 6398 6408	bisoprolol
+T175	FARMACO 6528 6537	omeprazol
+T176	FARMACO 8054 8065	clopidogrel
+T177	FARMACO 8525 8528	AAS
+T178	FARMACO 8531 8542	clopidogrel
+T179	FARMACO 8609 8612	AAS
+#1	AnnotatorNotes T8	  dislipemia
+#2	AnnotatorNotes T46	hemibloqueo superoanterior izquierdo

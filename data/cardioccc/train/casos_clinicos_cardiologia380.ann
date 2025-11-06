@@ -1,0 +1,109 @@
+T1	DISEASE 142 165	alergias medicamentosas
+T2	DISEASE 202 233	hipertensión arterial sistémica
+T3	DISEASE 235 264	diabetes mellitus (DM) tipo 2
+T4	DISEASE 254 256	DM
+T5	DISEASE 266 276	dislipemia
+T6	DISEASE 301 330	cardiopatía isquémica crónica
+T7	DISEASE 332 373	Infarto agudo de miocardio (IAM) anterior
+T8	DISEASE 360 363	IAM
+T9	DISEASE 532 568	Reinfarto en 2008 por oclusión de DA
+T10	DISEASE 835 856	fibrilación auricular
+T11	DISEASE 858 860	FA
+T12	DISEASE 910 956	Tromboembolismo pulmonar segmentario bilateral
+T13	DISEASE 1129 1131	IC
+T14	DISEASE 1227 1263	disfunción ventricular derecha grave
+T15	DISEASE 1448 1495	enfermedad renal crónica de etiología diabética
+T16	DISEASE 1541 1554	hiperuricemia
+T17	DISEASE 1556 1565	depresión
+T18	DISEASE 1568 1579	gonartrosis
+T19	DISEASE 1609 1628	deterioro cognitivo
+T20	DISEASE 2155 2182	disnea paroxística nocturna
+T21	DISEASE 3245 3247	FA
+T22	DISEASE 3309 3358	bloqueo completo de rama izquierda del haz de His
+T23	DISEASE 3645 3701	Válvula mitral con cambios degenerativos e insuficiencia
+T24	DISEASE 3764 3816	Válvula tricúspide con insuficiencia ligera-moderada
+T25	DISEASE 3935 3954	derrame pericárdico
+T26	DISEASE 4053 4074	descompensación de IC
+T27	DISEASE 4302 4312	IC crónica
+T28	DISEASE 5062 5083	Descompensación de IC
+T29	DISEASE 5225 5254	Cardiopatía isquémica crónica
+T30	DISEASE 5318 5339	hipertensión pulmonar
+T31	DISEASE 5398 5434	Disfunción ventricular derecha grave
+T32	DISEASE 5490 5539	Enfermedad renal crónica por nefropatía diabética
+T33	DISEASE 5541 5572	Hipertensión arterial sistémica
+T34	DISEASE 5574 5584	Dislipemia
+T35	DISEASE 5586 5595	DM tipo 2
+T36	DISEASE 1375 1388	FA permanente
+T37	DISEASE 5436 5461	FA permanente no valvular
+T38	DISEASE 728 730	IC
+T39	DISEASE 3710 3755	Válvula aórtica esclerosada con insuficiencia
+T40	DISEASE 2565 2574	arrítmica
+T41	DISEASE 2659 2672	hepatomegalia
+T42	DISEASE 2184 2187	DPN
+T43	DISEASE 3573 3611	Ventrículo derecho gravemente dilatado
+T44	DISEASE 3877 3904	Vena cava inferior dilatada
+T45	DISEASE 1005 1059	dilatación y disfunción moderada de ventrículo derecho
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 386 432	angioplastia coronaria transluminal percutánea
+T48	PROCEDURE 434 438	ACTP
+T49	PROCEDURE 451 492	stent convencional a descendente anterior
+T50	PROCEDURE 1291 1306	betabloqueantes
+T51	PROCEDURE 2286 2304	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 2551 2563	Auscultación
+T53	PROCEDURE 3064 3084	RADIOGRAFÍA DE TÓRAX
+T54	PROCEDURE 3219 3237	ELECTROCARDIOGRAMA
+T55	PROCEDURE 3239 3242	ECG
+T56	PROCEDURE 3407 3435	ECOCARDIOGRAMA TRANSTORÁCICO
+T57	PROCEDURE 4247 4268	diuréticos a vía oral
+T58	PROCEDURE 5256 5290	Revascularización percutánea de DA
+T59	PROCEDURE 5462 5488	anticoagulada con apixabán
+T60	PROCEDURE 1389 1402	anticoagulada
+T61	PROCEDURE 584 612	Se implanta stent recubierto
+T62	PROCEDURE 2786 2795	ANALÍTICA
+T63	PROCEDURE 2402 2404	GN
+T64	PROCEDURE 4105 4148	tratamiento depletivo intensivo intravenoso
+T65	SYMPTOM 84 90	disnea
+T66	SYMPTOM 93 122	edemas en miembros inferiores
+T67	SYMPTOM 2047 2074	disnea de mínimos esfuerzos
+T68	SYMPTOM 2094 2102	ortopnea
+T69	SYMPTOM 2204 2233	edemas en miembros inferiores
+T70	SYMPTOM 2411 2436	Hemodinámicamente estable
+T71	SYMPTOM 2439 2457	eupneica en reposo
+T72	SYMPTOM 2463 2487	intolerancia al decúbito
+T73	SYMPTOM 2489 2517	Ingurgitación venosa yugular
+T74	SYMPTOM 2579 2585	soplos
+T75	SYMPTOM 2589 2599	extratonos
+T76	SYMPTOM 2601 2616	Hipoventilación
+T77	SYMPTOM 2619 2648	crepitantes húmedos bibasales
+T78	SYMPTOM 2702 2759	edemas bilaterales con fóvea hasta dos tercios de piernas
+T79	SYMPTOM 3086 3117	índice cardiotorácico aumentado
+T80	SYMPTOM 3165 3192	Hilios aumentados de tamaño
+T81	SYMPTOM 3445 3477	ventrículo izquierdo no dilatado
+T82	SYMPTOM 3573 3643	Ventrículo derecho gravemente dilatado con función sistólica deprimida
+T83	SYMPTOM 3956 4000	Raíz aórtica y aorta ascendente no dilatadas
+T84	SYMPTOM 5371 5396	FEVI gravemente deprimida
+T85	SYMPTOM 3119 3163	Pinzamiento bilateral de senos costofrénicos
+T86	SYMPTOM 3281 3290	QRS ancho
+T87	SYMPTOM 3360 3405	alteraciones secundarias de la repolarización
+T88	SYMPTOM 3497 3571	acinesia de ápex y segmentos distales y segmento medio de la cara anterior
+T89	SYMPTOM 4317 4331	FEVI deprimida
+T90	SYMPTOM 5088 5101	FEVI reducida
+T91	SYMPTOM 3194 3217	Redistribución vascular
+T92	SYMPTOM 4916 4940	cifras tensionales bajas
+T93	MEDICATION 1365 1373	digoxina
+T94	MEDICATION 1407 1415	apixabán
+T95	MEDICATION 1707 1722	espironolactona
+T96	MEDICATION 1738 1748	furosemida
+T97	MEDICATION 1764 1776	sitagliptina
+T98	MEDICATION 1792 1802	lisinopril
+T99	MEDICATION 1818 1829	pantoprazol
+T100	MEDICATION 1845 1858	atorvastatina
+T101	MEDICATION 1874 1884	sertralina
+T102	MEDICATION 1900 1908	apixabán
+T103	MEDICATION 1923 1931	digoxina
+T104	MEDICATION 4504 4514	lisinopril
+T105	MEDICATION 4519 4540	sacubitrilo/valsartán
+T106	MEDICATION 4764 4785	sacubitrilo/valsartán
+T107	MEDICATION 5480 5488	apixabán
+#1	AnnotatorNotes T42	  Disnea paroxística nocturna
+#2	AnnotatorNotes T48	  Angioplastia coronaria transluminal percutánea

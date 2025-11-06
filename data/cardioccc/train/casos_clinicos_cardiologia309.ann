@@ -1,0 +1,120 @@
+T1	DISEASE 113 123	dislipemia
+T2	DISEASE 125 149	diabetes mellitus tipo 2
+T3	DISEASE 181 210	Cardiopatıá isquémica crónica
+T4	DISEASE 240 269	infarto de miocardio anterior
+T5	DISEASE 591 629	Disfunción ventricular izquierda grave
+T6	DISEASE 768 788	síndrome de Dressler
+T7	DISEASE 908 930	insuficiencia cardiaca
+T8	DISEASE 1231 1239	isquemia
+T9	DISEASE 1702 1724	insuficiencia cardiaca
+T10	DISEASE 1835 1840	angor
+T11	DISEASE 2227 2237	colestasis
+T12	DISEASE 2276 2298	patología hepatobiliar
+T13	DISEASE 3462 3487	trombosis venosa profunda
+T14	DISEASE 3489 3492	TVP
+T15	DISEASE 3544 3556	hiperlipemia
+T16	DISEASE 4942 4955	valvulopatías
+T17	DISEASE 5129 5148	derrame pericárdico
+T18	DISEASE 5221 5259	infarto miocardio crónico anteroseptal
+T19	DISEASE 5334 5405	territorio de arteria descendente anterior (escara isquémica transmural
+T20	DISEASE 7338 7367	Cardiopatía isquémica crónica
+T21	DISEASE 7635 7645	Dislipemia
+T22	DISEASE 7647 7666	Hipercolesterolemia
+T23	DISEASE 7699 7723	Intolerancia a estatinas
+T24	DISEASE 7813 7837	Diabetes mellitus tipo 2
+T25	DISEASE 328 361	Enfermedad coronaria de dos vasos
+T26	DISEASE 7511 7544	Enfermedad coronaria de dos vasos
+T27	DISEASE 1634 1650	evento coronario
+T28	DISEASE 5264 5295	disfunción ventricular moderada
+T29	PROCEDURE 395 569	forma percutánea mediante implante de dos stents farmacoactivos a nivel de descendente anterior media-primera diagonal (angioplastia primaria) y de interventricular posterior
+T30	PROCEDURE 633 647	ecocardiograma
+T31	PROCEDURE 1129 1139	Ergometría
+T32	PROCEDURE 1168 1191	rehabilitación cardiaca
+T33	PROCEDURE 2243 2262	ecografía abdominal
+T34	PROCEDURE 2607 2616	estatinas
+T35	PROCEDURE 2928 2954	tratamiento hipolipemiante
+T36	PROCEDURE 2957 2975	EXPLORACIÓN FÍSICA
+T37	PROCEDURE 3246 3267	Auscultación cardiaca
+T38	PROCEDURE 3322 3343	Auscultación pulmonar
+T39	PROCEDURE 3882 3897	Perfil lipídico
+T40	PROCEDURE 4097 4100	ECG
+T41	PROCEDURE 4390 4404	Ecocardiograma
+T42	PROCEDURE 5150 5179	Resonancia magnética cardiaca
+T43	PROCEDURE 5181 5184	RMC
+T44	PROCEDURE 6844 6863	perfil hepatobiliar
+T45	PROCEDURE 7183 7186	RMC
+T46	PROCEDURE 7290 7305	implante de DAI
+T47	PROCEDURE 7506 7509	RMC
+T48	PROCEDURE 7559 7592	revascularizada de forma percután
+T49	PROCEDURE 7714 7723	estatinas
+T50	PROCEDURE 3583 3592	Analítica
+T51	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 6785 6791	iPCSK9
+T53	PROCEDURE 2744 2759	perfil hepático
+T54	PROCEDURE 6004 6019	perfil lipídico
+T55	PROCEDURE 7789 7811	tratamiento con iPCSK9
+T56	PROCEDURE 6701 6783	tratamiento con inhibidores de la proproteína convertasa subtilisina/kexina tipo 9
+T57	PROCEDURE 831 842	salicilatos
+T58	PROCEDURE 7596 7633	Stents farmacoactivos en DAm-D1 e IVP
+T59	PROCEDURE 515 527	angioplastia
+T60	SYMPTOM 1770 1808	asintomático en la esfera cardiológica
+T61	SYMPTOM 2049 2056	dolores
+T62	SYMPTOM 2059 2093	calambres en pantorrillas y muslos
+T63	SYMPTOM 2132 2155	valores normales de CPK
+T64	SYMPTOM 2176 2237	elevación progresiva de transaminasas y enzimas de colestasis
+T65	SYMPTOM 2724 2759	alteración leve del perfil hepático
+T66	SYMPTOM 3176 3194	Eupneico en reposo
+T67	SYMPTOM 3223 3244	ingurgitación yugular
+T68	SYMPTOM 3269 3295	ruidos cardiacos regulares
+T69	SYMPTOM 3300 3306	soplos
+T70	SYMPTOM 3310 3320	extratonos
+T71	SYMPTOM 3345 3374	murmullo vesicular conservado
+T72	SYMPTOM 3380 3398	ruidos adventicios
+T73	SYMPTOM 3400 3416	Abdomen: anodino
+T74	SYMPTOM 3418 3448	Miembros inferiores: sin edema
+T75	SYMPTOM 3495 3526	Pulsos conservados y simétricos
+T76	SYMPTOM 4125 4138	ritmo sinusal
+T77	SYMPTOM 4170 4182	QRS estrecho
+T78	SYMPTOM 4216 4274	elevación submilimétrica residual del segmento ST en V1-V4
+T79	SYMPTOM 4280 4325	onda T negativa en I, aVL y aplanada en V5-V6
+T80	SYMPTOM 4522 4570	Función sistólica global moderadamente deprimida
+T81	SYMPTOM 4831 4853	Aurículas no dilatadas
+T82	SYMPTOM 4855 4922	Ventrículo derecho no dilatado, con función sistólica global normal
+T83	SYMPTOM 6915 6923	mialgias
+T84	SYMPTOM 7435 7463	FEVI moderadamente deprimida
+T85	SYMPTOM 3051 3064	ritmo sinusal
+T86	SYMPTOM 3196 3217	tolerando el decúbito
+T87	SYMPTOM 4612 4699	Aquinesia apical y de los segmentos medio y distal de cara anterior y de septo anterior
+T88	SYMPTOM 4701 4749	Hipoquinesia del tercio distal de septo inferior
+T89	SYMPTOM 5029 5059	Vena cava inferior no dilatada
+T90	SYMPTOM 5099 5123	Raiz aórtica no dilatada
+T91	SYMPTOM 7668 7693	Elevación de lipoproteína
+T92	SYMPTOM 4355 4388	alteraciones de la repolarización
+T93	SYMPTOM 4429 4461	ventrículo izquierdo no dilatado
+T94	SYMPTOM 2795 2850	niveles cLDL se han mantenido persistentemente elevados
+T95	SYMPTOM 4187 4207	eje normoposicionado
+T96	MEDICATION 859 869	colchicina
+T97	MEDICATION 1006 1027	sacubitrilo/valsartán
+T98	MEDICATION 1333 1342	omeprazol
+T99	MEDICATION 1354 1376	ácido acetilsalicílico
+T100	MEDICATION 1389 1398	prasugrel
+T101	MEDICATION 1410 1431	sacubitrilo/valsartán
+T102	MEDICATION 1451 1461	bisoprolol
+T103	MEDICATION 1472 1482	eplerenona
+T104	MEDICATION 1494 1518	metformina/empaglifozina
+T105	MEDICATION 1547 1560	rosuvastatina
+T106	MEDICATION 1572 1581	ezetimiba
+T107	MEDICATION 1989 2002	atorvastatina
+T108	MEDICATION 2425 2438	atorvastatina
+T109	MEDICATION 2618 2631	pitavastatina
+T110	MEDICATION 2634 2646	simvastatina
+T111	MEDICATION 2701 2714	rosuvastatina
+T112	MEDICATION 2915 2924	ezetimiba
+T113	MEDICATION 5745 5758	rosuvastatina
+T114	MEDICATION 5761 5770	ezetimiba
+T115	MEDICATION 5806 5816	evolocumab
+T116	MEDICATION 5907 5917	evolocumab
+T117	MEDICATION 6274 6287	rosuvastatina
+T118	MEDICATION 6410 6419	ezetimiba
+T119	MEDICATION 6826 6839	rosuvastatina
+T120	MEDICATION 1914 1935	sacubitrilo-valsartán

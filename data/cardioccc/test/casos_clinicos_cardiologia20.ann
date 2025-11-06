@@ -1,0 +1,37 @@
+T1	ENFERMEDAD 1155 1180	derrame pleural bilateral
+T2	ENFERMEDAD 1207 1244	insuficiencia aórtica de grado severo
+T3	ENFERMEDAD 1310 1349	endocarditis bacteriana por E. faecalis
+T4	PROCEDIMIENTO 261 279	exploración física
+T5	PROCEDIMIENTO 542 554	auscultación
+T6	PROCEDIMIENTO 778 798	estudio inmunológico
+T7	PROCEDIMIENTO 935 967	serología para virus y bacterias
+T8	PROCEDIMIENTO 983 995	hemocultivos
+T9	PROCEDIMIENTO 1048 1062	antibioterapia
+T10	PROCEDIMIENTO 1115 1135	radiografía de tórax
+T11	PROCEDIMIENTO 1186 1201	ecocardiografía
+T12	PROCEDIMIENTO 1360 1386	antibioterapia intravenosa
+T13	PROCEDIMIENTO 737 747	Hemostasia
+T14	PROCEDIMIENTO 803 820	factor reumatoide
+T15	PROCEDIMIENTO 826 851	anticuerpos antinucleares
+T16	PROCEDIMIENTO 871 887	inmunoglobulinas
+T17	PROCEDIMIENTO 893 904	complemento
+T18	PROCEDIMIENTO 857 865	anti-ADN
+T19	PROCEDIMIENTO 750 760	bioquímica
+T20	SINTOMA 121 127	fiebre
+T21	SINTOMA 171 176	dolor
+T22	SINTOMA 178 244	inflamación e impotencia funcional en la mano derecha y el tobillo
+T23	SINTOMA 291 426	dolor a la palpación y signos inflamatorios a nivel del carpo, segunda, tercera, cuarta y quinta metacarpofalángicas derechas y tobillo
+T24	SINTOMA 441 476	limitación dolorosa de la movilidad
+T25	SINTOMA 561 593	soplo diastólico en foco aórtico
+T26	SINTOMA 661 673	leucocitosis
+T27	SINTOMA 687 698	neutrofilia
+T28	SINTOMA 737 770	Hemostasia y bioquímica, normales
+T29	SINTOMA 1011 1022	pico febril
+T30	SINTOMA 1221 1286	aórtica de grado severo con engrosamiento de los velos valvulares
+T31	SINTOMA 1469 1475	fiebre
+T32	SINTOMA 1534 1546	asintomático
+T33	SINTOMA 803 921	factor reumatoide, los anticuerpos antinucleares, los anti-ADN, las inmunoglobulinas y el complemento fueron negativos
+T34	SINTOMA 1074 1110	positivos para Enterococcus faecalis
+T35	SINTOMA 912 967	negativos, así como la serología para virus y bacterias
+T36	FARMACO 1391 1401	ampicilina
+T37	FARMACO 1404 1415	gentamicina

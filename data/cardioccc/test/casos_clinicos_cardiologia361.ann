@@ -1,0 +1,117 @@
+T1	ENFERMEDAD 81 104	alergias medicamentosas
+T2	ENFERMEDAD 122 137	hábitos tóxicos
+T3	ENFERMEDAD 174 195	hipertensión arterial
+T4	ENFERMEDAD 219 229	dislipemia
+T5	ENFERMEDAD 232 240	diabetes
+T6	ENFERMEDAD 252 261	Sobrepeso
+T7	ENFERMEDAD 444 456	hipertensión
+T8	ENFERMEDAD 1774 1799	trombosis venosa profunda
+T9	ENFERMEDAD 1801 1804	TVP
+T10	ENFERMEDAD 2627 2642	daño miocárdico
+T11	ENFERMEDAD 3600 3625	insuficiencia tricuspídea
+T12	ENFERMEDAD 3713 3716	HTP
+T13	ENFERMEDAD 3769 3788	derrame pericárdico
+T14	ENFERMEDAD 3995 4037	Arteria coronaria derecha hipodesarrollada
+T15	ENFERMEDAD 4385 4393	isquemia
+T16	ENFERMEDAD 4798 4803	angor
+T17	ENFERMEDAD 5963 6019	Infarto agudo de miocardio sin elevación del segmento ST
+T18	ENFERMEDAD 6034 6097	enfermedad coronaria monovaso (lesión subtotal de ADA proximal)
+T19	ENFERMEDAD 6260 6281	Hipertensión arterial
+T20	ENFERMEDAD 6021 6028	IAMSEST
+T21	ENFERMEDAD 2886 2905	congestión pulmonar
+T22	ENFERMEDAD 4717 4732	daño miocárdico
+T23	ENFERMEDAD 3871 3910	Arteria descendente anterior con lesión
+T24	ENFERMEDAD 4910 4977	lesión subtotal a nivel proximal de la arteria descendente anterior
+T25	PROCEDIMIENTO 1182 1200	EXPLORACIÓN FÍSICA
+T26	PROCEDIMIENTO 1514 1528	oxigenoterapia
+T27	PROCEDIMIENTO 1550 1562	auscultación
+T28	PROCEDIMIENTO 1698 1719	Exploración abdominal
+T29	PROCEDIMIENTO 1881 1884	ECG
+T30	PROCEDIMIENTO 2114 2117	ECG
+T31	PROCEDIMIENTO 2123 2160	intervencionismo coronario percutáneo
+T32	PROCEDIMIENTO 2427 2442	Perfil lipídico
+T33	PROCEDIMIENTO 2548 2576	Perfiles hepático y tiroideo
+T34	PROCEDIMIENTO 2689 2698	Hemograma
+T35	PROCEDIMIENTO 2767 2789	Estudio de coagulación
+T36	PROCEDIMIENTO 2798 2818	Radiografía de tórax
+T37	PROCEDIMIENTO 2966 2995	Ecocardiografía transtorácica
+T38	PROCEDIMIENTO 3790 3828	Coronariografía: acceso radial derecho
+T39	PROCEDIMIENTO 4058 4163	arteria descendente anterior (ADA) proximal se realiza implante directo de stent liberador de zotarolimus
+T40	PROCEDIMIENTO 4862 4877	coronariografía
+T41	PROCEDIMIENTO 5037 5072	revascularizada de forma percutánea
+T42	PROCEDIMIENTO 5073 5109	implantándose un stent fármacoactivo
+T43	PROCEDIMIENTO 5211 5229	electrocardiograma
+T44	PROCEDIMIENTO 5363 5378	ecocardiografía
+T45	PROCEDIMIENTO 5586 5612	intervencionismo coronario
+T46	PROCEDIMIENTO 5776 5799	rehabilitación cardiaca
+T47	PROCEDIMIENTO 6099 6173	Intervencionismo coronario percutáneo (ICP) con stent liberador de fármaco
+T48	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDIMIENTO 2613 2642	Marcadores de daño miocárdico
+T50	PROCEDIMIENTO 1078 1092	monitorización
+T51	PROCEDIMIENTO 5338 5355	pruebas de imagen
+T52	PROCEDIMIENTO 6138 6141	ICP
+T53	PROCEDIMIENTO 2322 2331	Analítica
+T54	PROCEDIMIENTO 1843 1854	exploración
+T55	PROCEDIMIENTO 4632 4661	controles analíticos seriados
+T56	SINTOMA 584 738	dolor que describe punzante/opresivo en región interescapular que se irradia hacia región anterior del tórax y cara interna del miembro superior izquierdo
+T57	SINTOMA 868 886	sensación disneica
+T58	SINTOMA 901 914	palpitaciones
+T59	SINTOMA 918 936	cortejo vegetativo
+T60	SINTOMA 1201 1220	Buen estado general
+T61	SINTOMA 1222 1232	Consciente
+T62	SINTOMA 1235 1244	orientado
+T63	SINTOMA 1259 1286	Bien hidratado y perfundido
+T64	SINTOMA 1288 1295	Afebril
+T65	SINTOMA 1297 1322	Estable hemodinámicamente
+T66	SINTOMA 1436 1465	Eupneico en reposo y al habla
+T67	SINTOMA 1564 1588	tonos cardiacos rítmicos
+T68	SINTOMA 1593 1599	soplos
+T69	SINTOMA 1610 1639	Murmullo vesicular conservado
+T70	SINTOMA 1644 1655	crepitantes
+T71	SINTOMA 1698 1727	Exploración abdominal anodina
+T72	SINTOMA 1729 1759	Miembros inferiores sin edemas
+T73	SINTOMA 1897 1910	ritmo sinusal
+T74	SINTOMA 1921 1931	Eje normal
+T75	SINTOMA 1946 1958	QRS estrecho
+T76	SINTOMA 2020 2071	Ondas T negativas simétricas y profundas de V1 a V4
+T77	SINTOMA 2162 2175	ritmo sinusal
+T78	SINTOMA 2198 2207	PR normal
+T79	SINTOMA 2209 2221	QRS estrecho
+T80	SINTOMA 2276 2320	normalización de ondas T en serie precordial
+T81	SINTOMA 2548 2585	Perfiles hepático y tiroideo normales
+T82	SINTOMA 2703 2715	leucocitosis
+T83	SINTOMA 2767 2796	Estudio de coagulación normal
+T84	SINTOMA 2820 2848	índice cardiotorácico normal
+T85	SINTOMA 2997 3029	ventrículo izquierdo no dilatado
+T86	SINTOMA 3105 3145	función sistólica ampliamente conservada
+T87	SINTOMA 3238 3288	Aurícula izquierda en límite alto de la normalidad
+T88	SINTOMA 3343 3364	Válvula mitral normal
+T89	SINTOMA 3551 3582	Cavidades derechas no dilatadas
+T90	SINTOMA 4348 4362	dolor torácico
+T91	SINTOMA 4398 4416	cortejo vegetativo
+T92	SINTOMA 5401 5499	ventrículo de dimensiones y morfología dentro de la normalidad con fracción de eyección preservada
+T93	SINTOMA 5651 5663	asintomático
+T94	SINTOMA 5898 5910	asintomático
+T95	SINTOMA 5994 6019	elevación del segmento ST
+T96	SINTOMA 1664 1696	ruidos patológicos sobreañadidos
+T97	SINTOMA 3719 3755	Vena cava inferior (VCI) no dilatada
+T98	SINTOMA 3453 3497	Válvula aórtica trivalva con flujos normales
+T99	SINTOMA 3499 3523	Raíz aórtica no dilatada
+T100	SINTOMA 6241 6258	patrón de Wellens
+T101	SINTOMA 1246 1257	Colaborador
+T102	SINTOMA 2938 2964	Senos costofrénicos libres
+T103	SINTOMA 3830 3869	Tronco coronario izquierdo sin lesiones
+T104	SINTOMA 5530 5576	alteraciones segmentarias de la contractilidad
+T105	SINTOMA 2909 2936	condensación parenquimatosa
+T106	SINTOMA 2720 2734	fórmula normal
+T107	SINTOMA 1467 1485	tolerando decúbito
+T108	SINTOMA 5266 5297	trastornos de la repolarización
+T109	SINTOMA 4684 4732	movilización de biomarcadores de daño miocárdico
+T110	SINTOMA 2186 2196	Eje normal
+T111	SINTOMA 2850 2871	Hilios bien definidos
+T112	SINTOMA 3951 3993	Arteria circunfleja dominante sin lesiones
+T113	SINTOMA 4462 4487	supradesnivelación del ST
+T114	FARMACO 335 343	losartán
+T115	FARMACO 350 367	hidroclorotiazida
+T116	FARMACO 4152 4163	zotarolimus
+T117	FARMACO 4542 4550	nitratos

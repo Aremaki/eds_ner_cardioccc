@@ -1,0 +1,78 @@
+T1	ENFERMEDAD 85 94	exfumador
+T2	ENFERMEDAD 313 339	infarto agudo de miocardio
+T3	ENFERMEDAD 341 344	IAM
+T4	ENFERMEDAD 1259 1270	adenopatías
+T5	ENFERMEDAD 1425 1447	alcalosis respiratoria
+T6	ENFERMEDAD 1687 1701	Brugada tipo I
+T7	ENFERMEDAD 2020 2043	cardiopatía estructural
+T8	ENFERMEDAD 2237 2250	valvulopatías
+T9	ENFERMEDAD 2264 2283	derrame pericárdico
+T10	ENFERMEDAD 2365 2405	episodios sincopales de perfil vasovagal
+T11	ENFERMEDAD 2680 2704	faringoamigdalitis aguda
+T12	ENFERMEDAD 2734 2743	arritmias
+T13	ENFERMEDAD 2918 2941	arritmias ventriculares
+T14	ENFERMEDAD 3328 3342	Brugada tipo I
+T15	ENFERMEDAD 3078 3092	Brugada tipo 1
+T16	ENFERMEDAD 1134 1156	orofaringe eritematosa
+T17	ENFERMEDAD 1161 1201	placas pultáceas amigdalares bilaterales
+T18	ENFERMEDAD 2571 2584	muerte súbita
+T19	ENFERMEDAD 3030 3043	muerte súbita
+T20	PROCEDIMIENTO 384 387	ECG
+T21	PROCEDIMIENTO 889 907	EXPLORACIÓN FÍSICA
+T22	PROCEDIMIENTO 1106 1124	exploración física
+T23	PROCEDIMIENTO 1285 1312	auscultación cardiopulmonar
+T24	PROCEDIMIENTO 1406 1423	GASOMETRÍA VENOSA
+T25	PROCEDIMIENTO 1449 1452	ECG
+T26	PROCEDIMIENTO 1917 1920	ECG
+T27	PROCEDIMIENTO 1947 1967	RADIOGRAFÍA DE TÓRAX
+T28	PROCEDIMIENTO 1977 2005	ECOCARDIOGRAMA TRANSTORÁCICO
+T29	PROCEDIMIENTO 2632 2655	tratamiento antibiótico
+T30	PROCEDIMIENTO 2788 2822	test de provocación con flecainida
+T31	PROCEDIMIENTO 2859 2885	estudio electrofisiológico
+T32	PROCEDIMIENTO 3196 3245	implantar un desfibrilador automático implantable
+T33	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDIMIENTO 1390 1395	iones
+T35	PROCEDIMIENTO 1349 1358	ANALÍTICA
+T36	PROCEDIMIENTO 3247 3250	DAI
+T37	SINTOMA 409 437	ritmo sinusal con eje normal
+T38	SINTOMA 439 451	QRS estrecho
+T39	SINTOMA 618 628	odinofagia
+T40	SINTOMA 667 673	fiebre
+T41	SINTOMA 722 728	disnea
+T42	SINTOMA 730 733	tos
+T43	SINTOMA 736 759	expectoración purulenta
+T44	SINTOMA 795 849	molestias centrotorácicas de características mecánicas
+T45	SINTOMA 946 952	fiebre
+T46	SINTOMA 1007 1032	estable hemodinámicamente
+T47	SINTOMA 1214 1253	secreciones en pared faríngea posterior
+T48	SINTOMA 1285 1322	auscultación cardiopulmonar es normal
+T49	SINTOMA 1360 1388	leucocitosis con neutrofilia
+T50	SINTOMA 1483 1489	fiebre
+T51	SINTOMA 1532 1541	PR normal
+T52	SINTOMA 1605 1660	elevación descendente del segmento ST y onda T negativa
+T53	SINTOMA 1748 1761	ritmo sinusal
+T54	SINTOMA 1772 1781	PR normal
+T55	SINTOMA 1849 1886	elevación descendente del segmento ST
+T56	SINTOMA 1930 1945	onda T negativa
+T57	SINTOMA 1947 1975	RADIOGRAFÍA DE TÓRAX: normal
+T58	SINTOMA 2114 2138	función sistólica normal
+T59	SINTOMA 2140 2204	Ventrículo derecho de tamaño normal con función sistólica normal
+T60	SINTOMA 2206 2232	Aurículas de tamaño normal
+T61	SINTOMA 2509 2538	sintomatología cardiovascular
+T62	SINTOMA 2788 2843	test de provocación con flecainida que resulta positivo
+T63	SINTOMA 3362 3368	fiebre
+T64	SINTOMA 3370 3378	Síncopes
+T65	SINTOMA 3124 3132	síncopes
+T66	SINTOMA 1390 1404	iones normales
+T67	SINTOMA 964 983	taquicardia sinusal
+T68	SINTOMA 1501 1520	taquicardia sinusal
+T69	SINTOMA 456 489	alteraciones en la repolarización
+T70	SINTOMA 2956 2984	prologación del intervalo HV
+T71	SINTOMA 2045 2111	Ventrículo izquierdo no dilatado con espesores parietales normales
+T72	SINTOMA 1037 1065	adecuadas cifras tensionales
+T73	SINTOMA 642 664	dificulta la deglución
+T74	SINTOMA 1068 1101	buena saturación basal de oxígeno
+T75	SINTOMA 1568 1599	V1-V2 se objetiva imagen de RsR
+T76	SINTOMA 1808 1843	V1-V2 se objetiva una imagen de RsR
+T77	FARMACO 1728 1739	paracetamol
+T78	FARMACO 2660 2671	amoxicilina

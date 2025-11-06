@@ -1,0 +1,130 @@
+T1	DISEASE 161 169	obesidad
+T2	DISEASE 251 267	angina inestable
+T3	DISEASE 320 377	lesión crítica de tronco coronario izquierdo (TCI) ostial
+T4	DISEASE 709 722	valvulopatías
+T5	DISEASE 818 838	hepatitis autoinmune
+T6	DISEASE 1356 1375	crisis hipertensiva
+T7	DISEASE 1590 1611	edema agudo de pulmón
+T8	DISEASE 2902 2948	isquemia subepicárdica en región anterolateral
+T9	DISEASE 2987 3008	edema agudo de pulmón
+T10	DISEASE 3368 3396	insuficiencia aórtica severa
+T11	DISEASE 3727 3747	insuficiencia mitral
+T12	DISEASE 3787 3823	insuficiencia tricúspide (IT) severa
+T13	DISEASE 3930 3977	oclusión de la coronaria derecha a nivel ostial
+T14	DISEASE 4314 4401	oclusión al origen de la arteria vertebral izquierda, y de arteria mesentérica superior
+T15	DISEASE 4443 4488	hipertrofia de la arcada pancreático-duodenal
+T16	DISEASE 4575 4584	aneurisma
+T17	DISEASE 5033 5054	edema agudo de pulmón
+T18	DISEASE 5170 5182	valvulopatía
+T19	DISEASE 5658 5692	insuficiencia aórtica (IAo) severa
+T20	DISEASE 6108 6147	oclusión de la coronaria derecha ostial
+T21	DISEASE 6322 6364	lesiones coronarias de localización ostial
+T22	DISEASE 6367 6395	insuficiencia aórtica severa
+T23	DISEASE 6452 6473	afectación autoinmune
+T24	DISEASE 6543 6551	aortitis
+T25	DISEASE 6861 6869	aortitis
+T26	DISEASE 6885 6912	vasculitis de grandes vasos
+T27	DISEASE 7233 7254	edema agudo de pulmón
+T28	DISEASE 7946 8003	shock cardiogénico en relación con infarto perioperatorio
+T29	DISEASE 8172 8191	fallo multiorgánico
+T30	DISEASE 8232 8286	Vasculitis de grandes vasos tipo arteritis de Takayasu
+T31	DISEASE 2869 2899	hemibloqueo anterior izquierdo
+T32	DISEASE 3057 3113	ventrículo izquierdo ligeramente dilatado e hipertrófico
+T33	DISEASE 3749 3751	IM
+T34	DISEASE 3813 3815	IT
+T35	DISEASE 4223 4275	arteria subclavia izquierda que se encuentra ocluida
+T36	DISEASE 4547 4559	ulceraciones
+T37	DISEASE 4636 4643	Sífilis
+T38	DISEASE 4709 4768	válvula aórtica presencia de cambios degenerativos mixoides
+T39	DISEASE 4905 4929	enfermedad de TCI ostial
+T40	DISEASE 5681 5684	IAo
+T41	DISEASE 4563 4572	disección
+T42	DISEASE 5875 5906	alteraciones isquémicas del ECG
+T43	PROCEDURE 272 292	cateterismo cardiaco
+T44	PROCEDURE 392 426	se implantó un stent farmacoactivo
+T45	PROCEDURE 507 535	ecocardiograma transtorácico
+T46	PROCEDURE 537 540	ETT
+T47	PROCEDURE 869 909	tratamiento crónico con inmunosupresores
+T48	PROCEDURE 1054 1072	exploración física
+T49	PROCEDURE 1295 1311	test de esfuerzo
+T50	PROCEDURE 1316 1326	ergometría
+T51	PROCEDURE 1466 1476	ergometría
+T52	PROCEDURE 1764 1785	auscultación cardiaca
+T53	PROCEDURE 2179 2188	Hemograma
+T54	PROCEDURE 2728 2748	Estudio inmunológico
+T55	PROCEDURE 2834 2852	Electrocardiograma
+T56	PROCEDURE 2950 2970	Radiografía de tórax
+T57	PROCEDURE 3010 3055	Ecocardiograma transtorácico y transesofágico
+T58	PROCEDURE 3908 3928	Cateterismo cardiaco
+T59	PROCEDURE 4118 4144	Angio-TC de aorta torácica
+T60	PROCEDURE 4659 4681	Biopsia (válvula aorta
+T61	PROCEDURE 4930 4990	revascularizada percutáneamente mediante stent farmacoactivo
+T62	PROCEDURE 5061 5079	exploración física
+T63	PROCEDURE 5222 5236	ecocardiograma
+T64	PROCEDURE 5473 5501	ecocardiograma transtorácico
+T65	PROCEDURE 5520 5534	transesofágico
+T66	PROCEDURE 5903 5906	ECG
+T67	PROCEDURE 5974 5988	ecocardiograma
+T68	PROCEDURE 6000 6015	coronariografía
+T69	PROCEDURE 6208 6225	revascularización
+T70	PROCEDURE 6509 6526	angio-TAC aórtico
+T71	PROCEDURE 6645 6654	angio-TAC
+T72	PROCEDURE 6924 6956	tratamiento con glucocorticoides
+T73	PROCEDURE 7290 7315	glucocorticoides vía oral
+T74	PROCEDURE 7327 7387	sustitución de la válvula aórtica por prótesis metálica no21
+T75	PROCEDURE 7390 7532	revascularización coronaria mediante bypass aorto-coronario de vena safena a arteria descendente anterior media y a coronaria derecha proximal
+T76	PROCEDURE 7847 7884	balón de contrapulsación intraaórtico
+T77	PROCEDURE 2250 2261	Coagulación
+T78	PROCEDURE 4586 4606	Serología infecciosa
+T79	PROCEDURE 6597 6621	reactantes de fase aguda
+T80	PROCEDURE 6630 6640	serologías
+T81	PROCEDURE 2279 2299	Bioquímica de sangre
+T82	PROCEDURE 2445 2464	Bioquímica completa
+T83	PROCEDURE 6563 6585	estudios inmunológicos
+T84	PROCEDURE 7824 7830	aminas
+T85	PROCEDURE 8100 8118	retirada del balón
+T86	PROCEDURE 8080 8097	destete de aminas
+T87	PROCEDURE 4053 4116	stent previamente implantado a nivel del tronco común izquierdo
+T88	PROCEDURE 6623 6626	RFA
+T89	SYMPTOM 1125 1132	astenia
+T90	SYMPTOM 1135 1141	disnea
+T91	SYMPTOM 1147 1161	dolor torácico
+T92	SYMPTOM 1380 1386	disnea
+T93	SYMPTOM 1553 1559	disnea
+T94	SYMPTOM 1750 1757	afebril
+T95	SYMPTOM 1797 1821	ruidos cardiaco rítmicos
+T96	SYMPTOM 1827 1851	soplo diastólico aórtico
+T97	SYMPTOM 1861 1883	soplo sistólico mitral
+T98	SYMPTOM 1955 1984	edemas en miembros inferiores
+T99	SYMPTOM 2750 2780	autoanticuerpos ANAs positivos
+T100	SYMPTOM 2854 2867	ritmo sinusal
+T101	SYMPTOM 3119 3160	función sistólica moderadamente deprimida
+T102	SYMPTOM 4146 4240	engrosamiento de la pared arterial de las arterias carótidas comunes y de la arteria subclavia
+T103	SYMPTOM 4586 4657	Serología infecciosa: HBsAg, antiVHC, VIH Ag+Ac y Sífilis G+M negativos
+T104	SYMPTOM 5122 5154	soplos en focos aórtico y mitral
+T105	SYMPTOM 5273 5301	disminución de pulsos en MSI
+T106	SYMPTOM 5575 5593	hipocinesia global
+T107	SYMPTOM 6262 6320	asimetría en pulsos y tensión en ambos miembros superiores
+T108	SYMPTOM 6668 6814	engrosamiento de la pared arterial de ambas arterias carótidas comunes y arterias subclavia izquierda, vertebral izquierda y, mesentérica superior
+T109	SYMPTOM 7785 7811	inestabilidad hemodinámica
+T110	SYMPTOM 8123 8156	inestabilidad hemodinámica severa
+T111	SYMPTOM 8211 8217	exitus
+T112	SYMPTOM 586 702	ventrículo izquierdo de tamaño y grosor normales, con función sistólica global y contractilidad segmentaria normales
+T113	SYMPTOM 7595 7693	aorta con un llamativo engrosamiento tanto de su pared como de la pared de las arterias coronarias
+T114	SYMPTOM 1903 1950	crepitantes bilaterales hasta campos superiores
+T115	SYMPTOM 3651 3684	raíz aórtica era de tamaño normal
+T116	SYMPTOM 4500 4518	depósito de calcio
+T117	SYMPTOM 5330 5401	discordancia entre tensiones sistólicas entre ambos miembros superiores
+T118	SYMPTOM 5834 5863	raíz aórtica de tamaño normal
+T119	SYMPTOM 5924 5988	alteraciones segmentarias de la contractilidad en ecocardiograma
+T120	MEDICATION 911 922	azatioprina
+T121	MEDICATION 934 944	bisoprolol
+T122	MEDICATION 961 972	lansoprazol
+T123	MEDICATION 974 996	ácido acetilsalicílico
+T124	MEDICATION 998 1009	clopidogrel
+T125	MEDICATION 1012 1025	atorvastatina
+T126	MEDICATION 7041 7052	azatioprina
+#1	AnnotatorNotes T33	 IM insuficiencia mitral
+#2	AnnotatorNotes T34	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T39	 TCI Tronco coronario izquierdo
+#4	AnnotatorNotes T40	 IAo insuficiencia aórtica

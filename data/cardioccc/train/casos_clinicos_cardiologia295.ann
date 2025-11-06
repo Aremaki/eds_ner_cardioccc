@@ -1,0 +1,86 @@
+T1	DISEASE 82 105	alergias a medicamentos
+T2	DISEASE 117 138	Hipertensión arterial
+T3	DISEASE 295 319	Diabetes mellitus tipo 2
+T4	DISEASE 321 354	Fibrilación auricular paroxística
+T5	DISEASE 356 385	Enfermedad renal crónica leve
+T6	DISEASE 441 453	Hepatitis C.
+T7	DISEASE 487 502	hernia de hiato
+T8	DISEASE 521 536	úlcera duodenal
+T9	DISEASE 538 563	Estenosis de canal lumbar
+T10	DISEASE 913 949	insuficiencia cardiaca biventricular
+T11	DISEASE 2615 2663	Hipertrofia leve-moderada del ventrículo derecho
+T12	DISEASE 2675 2715	Insuficiencia mitral y tricuspídea leves
+T13	DISEASE 2717 2747	Hipertensión pulmonar moderada
+T14	DISEASE 2801 2833	Estenosis aórtica moderada-grave
+T15	DISEASE 3043 3068	derrame pleural bilateral
+T16	DISEASE 3071 3095	derrame pericárdico leve
+T17	DISEASE 3648 3681	fibrilación auricular paroxística
+T18	DISEASE 4021 4028	síncope
+T19	DISEASE 4033 4066	traumatismo craneoencefálico leve
+T20	DISEASE 4476 4498	insuficiencia cardiaca
+T21	DISEASE 4513 4535	Insuficiencia cardiaca
+T22	DISEASE 4570 4592	Infección respiratoria
+T23	DISEASE 4641 4694	Amiloidosis por transtiretina con afectación cardiaca
+T24	DISEASE 4696 4728	Estenosis aórtica moderada-grave
+T25	DISEASE 2528 2613	ventrículo izquierdo no dilatado de cavidad pequeña con hipertrofia concéntrica grave
+T26	PROCEDURE 275 293	medidas dietéticas
+T27	PROCEDURE 591 618	prótesis de rodilla derecha
+T28	PROCEDURE 621 657	cirugía de túnel del carpo bilateral
+T29	PROCEDURE 1457 1475	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 1556 1569	gafas nasales
+T31	PROCEDURE 1762 1783	Auscultación cardiaca
+T32	PROCEDURE 1868 1889	Auscultación pulmonar
+T33	PROCEDURE 2343 2361	Electrocardiograma
+T34	PROCEDURE 2363 2366	ECG
+T35	PROCEDURE 2500 2515	Ecocardiografía
+T36	PROCEDURE 3173 3209	análisis de deformación longitudinal
+T37	PROCEDURE 3211 3236	Gammagrafía con 99mTc-DPD
+T38	PROCEDURE 3317 3452	Resonancia magnética cardiaca: se adjuntan imágenes correspondientes a secuencias de realce tardío y un mapping de volumen extracelular
+T39	PROCEDURE 3478 3516	tratamiento intravenoso con diuréticos
+T40	PROCEDURE 3766 3783	diuréticos orales
+T41	PROCEDURE 1476 1494	Constantes vitales
+T42	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDURE 4169 4187	monitorización ECG
+T44	PROCEDURE 2155 2164	Analítica
+T45	SYMPTOM 968 974	disnea
+T46	SYMPTOM 977 985	ortopnea
+T47	SYMPTOM 991 997	edemas
+T48	SYMPTOM 1056 1059	tos
+T49	SYMPTOM 1064 1085	expectoración verdosa
+T50	SYMPTOM 1097 1103	fiebre
+T51	SYMPTOM 1269 1289	distensión abdominal
+T52	SYMPTOM 1295 1317	ardor tras las comidas
+T53	SYMPTOM 1357 1377	dolor a nivel facial
+T54	SYMPTOM 1410 1454	dolores en ambas rodillas de perfil mecánico
+T55	SYMPTOM 1698 1734	aumento de la presión venosa yugular
+T56	SYMPTOM 1762 1792	Auscultación cardiaca: rítmica
+T57	SYMPTOM 1799 1837	soplo sistólico III/VI en foco aórtico
+T58	SYMPTOM 1891 1922	crepitantes hasta campos medios
+T59	SYMPTOM 1925 1972	abolición del murmullo vesicular en ambas bases
+T60	SYMPTOM 1983 2014	aumento del perímetro abdominal
+T61	SYMPTOM 2028 2049	irritación peritoneal
+T62	SYMPTOM 2076 2128	edemas en ambos miembros inferiores hasta las ingles
+T63	SYMPTOM 2462 2498	Onda T negativa milimétrica en V5-V6
+T64	SYMPTOM 2528 2560	ventrículo izquierdo no dilatado
+T65	SYMPTOM 2969 2995	llenado mitral restrictivo
+T66	SYMPTOM 3238 3315	captación moderada del radiomarcador a nivel cardiaco, difusa y biventricular
+T67	SYMPTOM 3531 3548	reducción de peso
+T68	SYMPTOM 3600 3606	edemas
+T69	SYMPTOM 3728 3741	ritmo sinusal
+T70	SYMPTOM 4096 4114	recuerda pródromos
+T71	SYMPTOM 4135 4142	astenia
+T72	SYMPTOM 4409 4430	molestias abdominales
+T73	SYMPTOM 4540 4568	función sistólica preservada
+T74	SYMPTOM 2369 2382	ritmo sinusal
+T75	SYMPTOM 1739 1760	reflujo hepatoyugular
+T76	SYMPTOM 2414 2460	Voltajes bajos en derivaciones de los miembros
+T77	SYMPTOM 2402 2412	eje normal
+T78	SYMPTOM 3003 3034	aumento de presiones de llenado
+T79	MEDICATION 681 693	acenocumarol
+T80	MEDICATION 708 718	metformina
+T81	MEDICATION 741 752	paracetamol
+T82	MEDICATION 771 780	omeprazol
+T83	MEDICATION 796 805	lorazepam
+T84	MEDICATION 3805 3815	furosemida
+T85	MEDICATION 4237 4247	furosemida
+T86	MEDICATION 1180 1203	amoxicilina-clavulánico

@@ -1,0 +1,238 @@
+T1	DISEASE 1815 1830	edema de lengua
+T2	DISEASE 2085 2100	edema de lengua
+T3	DISEASE 155 171	anafilaxia grave
+T4	DISEASE 369 392	alergias medicamentosas
+T5	DISEASE 439 448	exfumador
+T6	DISEASE 450 471	hipertensión arterial
+T7	DISEASE 473 476	HTA
+T8	DISEASE 479 503	diabetes mellitus tipo 2
+T9	DISEASE 505 508	DM2
+T10	DISEASE 511 523	hipeuricemia
+T11	DISEASE 528 539	cardiopatía
+T12	DISEASE 543 554	broncopatía
+T13	DISEASE 566 627	Síndrome de isquemia crónica de ambas extremidades inferiores
+T14	DISEASE 911 926	catarata de ojo
+T15	DISEASE 1593 1598	angor
+T16	DISEASE 2640 2717	síndrome coronario agudo con elevación del segmento ST (SCACEST) anteroseptal
+T17	DISEASE 2696 2703	SCACEST
+T18	DISEASE 2749 2756	infarto
+T19	DISEASE 3060 3080	hipotensión arterial
+T20	DISEASE 4260 4297	bloqueo de rama derecha de has de His
+T21	DISEASE 4299 4304	BRDHH
+T22	DISEASE 5810 5854	DA, con resto del vaso con ateromatosis leve
+T23	DISEASE 5873 5927	1a y 2a diagonales presentan estenosis moderada ostial
+T24	DISEASE 5929 6001	Circunfleja (Cx): lesión moderada proximal y ateromatosis larga moderada
+T25	DISEASE 6045 6128	Ateromatosis leve proximal-media y lesión corta grave a nivel de la cruz-ostium IVP
+T26	DISEASE 6160 6185	lesión grave de DA ostial
+T27	DISEASE 6892 6921	insuficiencia mitral moderada
+T28	DISEASE 7026 7056	insuficiencia mitral (IT) leve
+T29	DISEASE 7180 7201	hipertensión pulmonar
+T30	DISEASE 7208 7227	derrame pericárdico
+T31	DISEASE 7847 7880	enfermedad coronaria grave bivaso
+T32	DISEASE 8329 8339	anafilaxia
+T33	DISEASE 8341 8356	edema de lengua
+T34	DISEASE 9529 9545	hipotensión leve
+T35	DISEASE 9798 9825	insuficiencia cardiaca leve
+T36	DISEASE 10067 10076	infección
+T37	DISEASE 10410 10419	infección
+T38	DISEASE 10983 10990	SCACEST
+T39	DISEASE 11002 11028	síndrome de Kounis tipo II
+T40	DISEASE 11031 11060	Anafilaxia grave por Anisakis
+T41	DISEASE 11105 11153	Enfermedad coronaria grave de dos vasos: DA y CD
+T42	DISEASE 11155 11211	Lesión trombótica aguda en DA ostial con estenosis grave
+T43	DISEASE 11447 11456	exfumador
+T44	DISEASE 11458 11461	HTA
+T45	DISEASE 11463 11466	DM2
+T46	DISEASE 11468 11504	Síndrome de isquemia crónica de EEII
+T47	DISEASE 7048 7050	IT
+T48	DISEASE 6743 6768	Válvula aórtica esclerosa
+T49	DISEASE 9309 9325	hipotensión leve
+T50	DISEASE 2487 2507	hipotensión arterial
+T51	DISEASE 6824 6848	Válvula mitral esclerosa
+T52	DISEASE 7642 7735	IVP, distal al stent, es difusamente ateromatosa con lesiones graves de pequeño vaso distales
+T53	DISEASE 8636 8651	edema de lengua
+T54	DISEASE 8614 8629	prurito genital
+T55	DISEASE 9480 9505	disfunción moderada de VI
+T56	DISEASE 331 350	bajo gasto cardiaco
+T57	DISEASE 5784 5812	lesión subtotal ostial en DA
+T58	DISEASE 7312 7317	BRIHH
+T59	DISEASE 7320 7325	HAIHH
+T60	DISEASE 10266 10313	herida quirúrgica reciente de amputación de EID
+T61	DISEASE 5696 5738	tronco común corto con ateromatosis distal
+T62	DISEASE 7885 7921	lesión trombótica aguda de DA ostial
+T63	PROCEDURE 638 716	Amputación transfalángica del segundo dedo de la extremidad inferior izquierda
+T64	PROCEDURE 741 801	Amputación del cuarto dedo de la extremidad inferior derecha
+T65	PROCEDURE 1548 1588	amputación infracondílea reciente de EID
+T66	PROCEDURE 2294 2312	electrocardiograma
+T67	PROCEDURE 2314 2317	ECG
+T68	PROCEDURE 2844 2881	intervencionismo coronario percutáneo
+T69	PROCEDURE 3180 3183	ECG
+T70	PROCEDURE 3661 3679	Exploración física
+T71	PROCEDURE 3886 3907	Auscultación cardiaca
+T72	PROCEDURE 3946 3967	Auscultación pulmonar
+T73	PROCEDURE 4038 4047	palpación
+T74	PROCEDURE 4083 4100	amputación de EID
+T75	PROCEDURE 4171 4174	ECG
+T76	PROCEDURE 4406 4409	ECG
+T77	PROCEDURE 4551 4571	Radiografía de tórax
+T78	PROCEDURE 4744 4763	Gasometría arterial
+T79	PROCEDURE 5043 5052	Hemograma
+T80	PROCEDURE 5140 5151	Coagulación
+T81	PROCEDURE 5431 5448	curva de triptasa
+T82	PROCEDURE 5675 5686	Cateterismo
+T83	PROCEDURE 6130 6133	ICP
+T84	PROCEDURE 6354 6358	ACTP
+T85	PROCEDURE 6400 6414	Ecocardiograma
+T86	PROCEDURE 7229 7232	ECG
+T87	PROCEDURE 7327 7338	Cateterismo
+T88	PROCEDURE 7361 7369	ICP a CD
+T89	PROCEDURE 7409 7489	se implanta un stent farmacoactivo directo RESOLUTE 2,5 x 15 mm en Cd distal-IVP
+T90	PROCEDURE 7804 7815	cateterismo
+T91	PROCEDURE 8530 8540	corticoide
+T92	PROCEDURE 8963 8992	glucocorticoides intravenosos
+T93	PROCEDURE 9565 9589	fármacos betabloqueantes
+T94	PROCEDURE 10103 10110	cultivo
+T95	PROCEDURE 10112 10127	hemo/urocultivo
+T96	PROCEDURE 10296 10313	amputación de EID
+T97	PROCEDURE 10442 10473	retirada de sutura intradérmica
+T98	PROCEDURE 10594 10605	cateterismo
+T99	PROCEDURE 10629 10641	ICP a CD-IVP
+T100	PROCEDURE 11213 11216	ICP
+T101	PROCEDURE 11280 11283	ICP
+T102	PROCEDURE 11306 11354	implantación de un stent farmacoactivo en CD-IVP
+T103	PROCEDURE 11541 11572	amputación infracondilea de EID
+T104	PROCEDURE 4830 4840	Bioquímica
+T105	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T106	PROCEDURE 2883 2886	ICP
+T107	PROCEDURE 9652 9656	IECA
+T108	PROCEDURE 7942 7956	stent en TC-DA
+T109	PROCEDURE 9593 9650	inhibidores de la enzima de conversión de la angiotensina
+T110	PROCEDURE 828 859	Amputación infracondilea de EID
+T111	PROCEDURE 5308 5319	Lipidograma
+T112	PROCEDURE 6205 6260	se implanta unstent ANGIOLITE 3,5/24 mm desde TC ostial
+T113	PROCEDURE 6144 6195	se predilata la lesión grave de DA ostial con balón
+T114	PROCEDURE 11230 11278	implantación de stent farmacoactivo en eje TC-DA
+T115	PROCEDURE 4697 4706	Analítica
+T116	PROCEDURE 3843 3858	Cabeza y cuello
+T117	PROCEDURE 875 901	Intervenciones quirúrgicas
+T118	PROCEDURE 8768 8797	analítica con IgE específicas
+T119	PROCEDURE 3244 3253	ecoscopia
+T120	PROCEDURE 2561 2615	perfusión continua de dobutamina (DBT) y noradrenalina
+T121	PROCEDURE 2973 3023	perfusión continua de NAD (a 0,8 mcg/kg/min) y DBT
+T122	PROCEDURE 2742 2756	código infarto
+T123	PROCEDURE 3511 3533	apertura de la arteria
+T124	PROCEDURE 8381 8417	determinaciones de triptasa seriadas
+T125	PROCEDURE 9022 9028	antiH1
+T126	SYMPTOM 242 256	dolor torácico
+T127	SYMPTOM 259 284	elevación del segmento ST
+T128	SYMPTOM 1479 1511	funciones cognitivas conservadas
+T129	SYMPTOM 1601 1607	disnea
+T130	SYMPTOM 1744 1764	eritema generalizado
+T131	SYMPTOM 1774 1795	prurito palmo-plantar
+T132	SYMPTOM 1797 1812	prurito genital
+T133	SYMPTOM 1842 1850	disfonía
+T134	SYMPTOM 2062 2074	leve prurito
+T135	SYMPTOM 2217 2281	dolor torácico intenso irradiado a extremidad superior izquierda
+T136	SYMPTOM 2331 2360	elevación del ST anteroseptal
+T137	SYMPTOM 2487 2507	hipotensión arterial
+T138	SYMPTOM 2509 2522	frialdad acra
+T139	SYMPTOM 2525 2537	obnubilación
+T140	SYMPTOM 2669 2694	elevación del segmento ST
+T141	SYMPTOM 2921 2931	consciente
+T142	SYMPTOM 2934 2943	orientado
+T143	SYMPTOM 2961 2966	dolor
+T144	SYMPTOM 3060 3080	hipotensión arterial
+T145	SYMPTOM 3193 3222	elevación del ST anteroseptal
+T146	SYMPTOM 3266 3291	disfunción moderada de VI
+T147	SYMPTOM 3434 3448	dolor torácico
+T148	SYMPTOM 3760 3767	afebril
+T149	SYMPTOM 3769 3780	Somnoliento
+T150	SYMPTOM 3808 3825	livideces en EEII
+T151	SYMPTOM 3828 3841	frialdad acra
+T152	SYMPTOM 3863 3884	ingurgitación yugular
+T153	SYMPTOM 3886 3916	Auscultación cardiaca: rítmica
+T154	SYMPTOM 3929 3935	soplos
+T155	SYMPTOM 3969 3990	crepitantes bibasales
+T156	SYMPTOM 4049 4075	ruidos hidroáreos normales
+T157	SYMPTOM 4105 4118	edemas en EII
+T158	SYMPTOM 4120 4144	pedio izquierdo palpable
+T159	SYMPTOM 4226 4239	ritmo sinusal
+T160	SYMPTOM 4307 4341	elevación del ST de V1-V5, I y AVL
+T161	SYMPTOM 4495 4527	elevación del ST en precordiales
+T162	SYMPTOM 4573 4612	silueta cardiaca no aumentada de tamaño
+T163	SYMPTOM 4639 4665	senos costofrénicos libres
+T164	SYMPTOM 6427 6464	ventrículo izquierdo (VI) no dilatado
+T165	SYMPTOM 6514 6562	función sistólica global moderadamente deprimida
+T166	SYMPTOM 6659 6694	Ventrículo derecho (VD) no dilatado
+T167	SYMPTOM 6696 6721	función global conservada
+T168	SYMPTOM 6985 7021	Válvula tricúspide de aspecto normal
+T169	SYMPTOM 7265 7278	ritmo sinusal
+T170	SYMPTOM 8237 8268	molestia torácica leve residual
+T171	SYMPTOM 8358 8365	prurito
+T172	SYMPTOM 8700 8712	asintomático
+T173	SYMPTOM 8814 8839	IgE elevada para Anisakis
+T174	SYMPTOM 9221 9256	Hemodinámicamente permanece estable
+T175	SYMPTOM 9827 9848	crepitantes bibasales
+T176	SYMPTOM 9854 9860	disnea
+T177	SYMPTOM 9864 9876	desaturación
+T178	SYMPTOM 9955 9966	pico febril
+T179	SYMPTOM 9991 9999	tiritona
+T180	SYMPTOM 10758 10770	asintomático
+T181	SYMPTOM 3992 4047	Abdomen: blando, depresible, no doloroso a la palpación
+T182	SYMPTOM 3782 3803	Mala perfusión distal
+T183	SYMPTOM 3118 3137	taquicardia sinusal
+T184	SYMPTOM 4445 4464	taquicardia sinusal
+T185	SYMPTOM 9359 9378	taquicardia sinusal
+T186	SYMPTOM 3296 3304	acinesia
+T187	SYMPTOM 7087 7123	Vena cava inferior (VCI) no dilatada
+T188	SYMPTOM 8842 8874	IgE negativas a merluza y almeja
+T189	SYMPTOM 9309 9325	hipotensión leve
+T190	SYMPTOM 10716 10756	hemodinámica y respiratoriamente estable
+T191	SYMPTOM 6726 6741	acinesia apical
+T192	SYMPTOM 6577 6623	acinesia de todos los segmentos medio-apicales
+T193	SYMPTOM 4671 4685	condensaciones
+T194	SYMPTOM 4614 4637	redistribución vascular
+T195	SYMPTOM 2452 2472	signos de bajo gasto
+T196	SYMPTOM 4476 4484	PR largo
+T197	SYMPTOM 6010 6043	Coronaria derecha (CD): dominante
+T198	SYMPTOM 6743 6822	Válvula aórtica esclerosa con apertura conservada, sin alteraciones funcionales
+T199	SYMPTOM 8381 8470	determinaciones de triptasa seriadas durante las primeras 24 horas que resultan positivas
+T200	MEDICATION 203 213	adrenalina
+T201	MEDICATION 958 975	insulina glargina
+T202	MEDICATION 1001 1011	metformina
+T203	MEDICATION 1048 1060	sitagliptina
+T204	MEDICATION 1096 1107	repaglinida
+T205	MEDICATION 1151 1173	ácido acetilsalicílico
+T206	MEDICATION 1209 1218	enalapril
+T207	MEDICATION 1219 1232	lercanidipino
+T208	MEDICATION 1272 1285	atorvastatina
+T209	MEDICATION 1318 1328	alopurinol
+T210	MEDICATION 1366 1376	etoricoxib
+T211	MEDICATION 1406 1415	metamizol
+T212	MEDICATION 1424 1435	paracetamol
+T213	MEDICATION 1908 1925	dexclorfeniramina
+T214	MEDICATION 2141 2151	adrenalina
+T215	MEDICATION 2421 2435	nitroglicerina
+T216	MEDICATION 2583 2593	dobutamina
+T217	MEDICATION 2602 2615	noradrenalina
+T218	MEDICATION 8055 8065	dobutamina
+T219	MEDICATION 8168 8181	noradrenalina
+T220	MEDICATION 8543 8560	dexclorfeniramina
+T221	MEDICATION 8562 8572	Polaramine
+T222	MEDICATION 9672 9687	espironolactona
+T223	MEDICATION 9908 9918	furosemida
+T224	MEDICATION 10140 10163	amoxicilina/clavulánico
+T225	MEDICATION 9010 9020	Polaramine
+T226	MEDICATION 1928 1939	Actocortina
+T227	MEDICATION 2595 2598	DBT
+T228	MEDICATION 2617 2620	NAD
+T229	MEDICATION 2995 2998	NAD
+T230	MEDICATION 3020 3023	DBT
+#1	AnnotatorNotes T47	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T52	IVP: arteria interventricular posterior
+#3	AnnotatorNotes T84	Angioplastia coronaria transluminal percutánea
+#4	AnnotatorNotes T106	 intervención coronaria percutánea
+#5	AnnotatorNotes T227	 dobutamina
+#6	AnnotatorNotes T228	 noradrenalina
+#7	AnnotatorNotes T229	noradrenalina
+#8	AnnotatorNotes T230	Dobutamina

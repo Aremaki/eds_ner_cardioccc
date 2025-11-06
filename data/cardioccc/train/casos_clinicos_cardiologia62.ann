@@ -1,0 +1,248 @@
+T1	DISEASE 24 43	Bronquitis asmática
+T2	DISEASE 45 59	Hipotiroidismo
+T3	DISEASE 61 82	Hipertensión arterial
+T4	DISEASE 84 103	Hipercolesterolemia
+T5	DISEASE 105 124	Esteatosis hepática
+T6	DISEASE 126 150	Diverticulosis sigmoidea
+T7	DISEASE 152 179	Síndrome del túnel carpiano
+T8	DISEASE 181 212	Hipertrofia benigna de próstata
+T9	DISEASE 214 229	Hernia de hiato
+T10	DISEASE 272 288	Rinitis alérgica
+T11	DISEASE 904 926	insuficiencia cardiaca
+T12	DISEASE 982 1004	infección respiratoria
+T13	DISEASE 1365 1390	trombosis venosa profunda
+T14	DISEASE 1940 1965	trombosis venosa profunda
+T15	DISEASE 4294 4309	derrame pleural
+T16	DISEASE 5273 5321	aneurisma/ pseudoaneurisma ventricular izquierdo
+T17	DISEASE 5336 5339	TEP
+T18	DISEASE 5516 5583	ventrículo izquierdo con aneurisma apical extenso y pseudoaneurisma
+T19	DISEASE 5585 5600	Rotura cardiaca
+T20	DISEASE 5761 5777	aneurisma apical
+T21	DISEASE 6251 6298	insuficiencia mitral secundaria ligera/moderada
+T22	DISEASE 7801 7820	derrame pericárdico
+T23	DISEASE 8629 8658	Disfunción ventricular severa
+T24	DISEASE 8757 8788	hipertrofia benigna de próstata
+T25	DISEASE 9239 9258	bronquitis asmática
+T26	DISEASE 9927 9949	insuficiencia cardiaca
+T27	DISEASE 10136 10144	neumonía
+T28	DISEASE 10204 10212	neumonía
+T29	DISEASE 10302 10317	pseudoaneurisma
+T30	DISEASE 10755 10776	aneurisma ventricular
+T31	DISEASE 11116 11152	insuficiencia cardiaca descompensada
+T32	DISEASE 11314 11345	hipertrofia benigna de próstata
+T33	DISEASE 11359 11373	hipotiroidismo
+T34	DISEASE 11738 11753	Rotura cardiaca
+T35	DISEASE 11765 11780	pseudoaneurisma
+T36	DISEASE 439 462	alergias medicamentosas
+T37	DISEASE 9460 9501	descompensación de insuficiencia cardiaca
+T38	DISEASE 10900 10915	pseudoaneurisma
+T39	DISEASE 635 642	IAMCEST
+T40	DISEASE 3057 3102	Arteria coronaria derecha media con estenosis
+T41	DISEASE 3112 3160	Arteria descendente anterior media con estenosis
+T42	DISEASE 5470 5497	Atelectasia laminar bibasal
+T43	DISEASE 5676 5705	ventrículo izquierdo dilatado
+T44	DISEASE 5780 5873	Neocavidad a nivel de la región apical anterolateral que comunica con el ventrículo izquierdo
+T45	DISEASE 5981 5996	pseudoaneurisma
+T46	DISEASE 6003 6019	aneurisma apical
+T47	DISEASE 7734 7787	Raíz aórtica y aorta ascendente ligeramente dilatadas
+T48	DISEASE 8323 8330	IAMCEST
+T49	DISEASE 8546 8562	IAMCEST anterior
+T50	DISEASE 10324 10340	aneurisma apical
+T51	DISEASE 11787 11803	aneurisma apical
+T52	DISEASE 6458 6529	Despegamiento pericárdico inferolateral en la zona peri-pseudoaneurisma
+T53	DISEASE 5452 5461	granuloma
+T54	DISEASE 3171 3210	Arteria circunfleja con irregularidades
+T55	DISEASE 3326 3345	material trombótico
+T56	DISEASE 5208 5242	formación sacular en ápex cardiaco
+T57	DISEASE 6930 6969	necrosis extensa anteroseptal y lateral
+T58	PROCEDURE 2062 2065	ECG
+T59	PROCEDURE 2100 2103	ICP
+T60	PROCEDURE 2310 2322	angioplastia
+T61	PROCEDURE 2377 2386	hemograma
+T62	PROCEDURE 3020 3035	Coronariografía
+T63	PROCEDURE 3226 3230	ACTP
+T64	PROCEDURE 3232 3276	DA media, realizándose implantación de stent
+T65	PROCEDURE 3347 3350	ECG
+T66	PROCEDURE 3389 3392	ICP
+T67	PROCEDURE 3509 3512	ECG
+T68	PROCEDURE 3774 3783	hemograma
+T69	PROCEDURE 4153 4173	Radiografía de tórax
+T70	PROCEDURE 4346 4361	Ecocardiografía
+T71	PROCEDURE 4567 4570	ECG
+T72	PROCEDURE 4695 4698	ECG
+T73	PROCEDURE 4709 4728	Gasometría arterial
+T74	PROCEDURE 4788 4797	hemograma
+T75	PROCEDURE 5009 5029	Radiografía de tórax
+T76	PROCEDURE 5154 5168	Cultivo esputo
+T77	PROCEDURE 5203 5206	TAC
+T78	PROCEDURE 5499 5514	Ecocardiografía
+T79	PROCEDURE 5648 5663	Ecocardiografía
+T80	PROCEDURE 6662 6671	hemograma
+T81	PROCEDURE 6899 6902	ECG
+T82	PROCEDURE 6971 6986	Ecocardiografía
+T83	PROCEDURE 8259 8262	ECG
+T84	PROCEDURE 8343 8355	ICP primaria
+T85	PROCEDURE 8575 8627	angioplastia primaria implantándose stent a DA media
+T86	PROCEDURE 9542 9545	ECG
+T87	PROCEDURE 9603 9612	analgesia
+T88	PROCEDURE 10742 10802	resección de aneurisma ventricular mediante incisión central
+T89	PROCEDURE 10817 10845	implante de parche de Dacron
+T90	PROCEDURE 1171 1174	ACR
+T91	PROCEDURE 1623 1626	ACR
+T92	PROCEDURE 2734 2745	Coagulación
+T93	PROCEDURE 4025 4036	Coagulación
+T94	PROCEDURE 6787 6798	Coagulación
+T95	PROCEDURE 3898 3907	Hemograma
+T96	PROCEDURE 656 683	revascularizar mediante ICP
+T97	PROCEDURE 3006 3018	ICP primaria
+T98	PROCEDURE 9219 9234	betabloqueantes
+T99	PROCEDURE 6883 6888	iones
+T100	PROCEDURE 3786 3796	bioquímica
+T101	PROCEDURE 3873 3889	Función hepática
+T102	PROCEDURE 3857 3862	Iones
+T103	PROCEDURE 4853 4863	Bioquímica
+T104	PROCEDURE 6867 6880	función renal
+T105	PROCEDURE 10860 10958	cubrir dicho parche con las paredes del pseudoaneurisma, que se refuerza con tres bandas de teflón
+T106	PROCEDURE 2366 2375	Analítica
+T107	PROCEDURE 3763 3772	Analítica
+T108	PROCEDURE 4777 4786	Analítica
+T109	PROCEDURE 6631 6640	Analítica
+T110	PROCEDURE 1393 1404	Exploración
+T111	PROCEDURE 4973 4993	Marcadores cardiacos
+T112	PROCEDURE 5083 5088	Orina
+T113	PROCEDURE 6653 6660	cirugía
+T114	PROCEDURE 6830 6837	cirugía
+T115	PROCEDURE 7003 7010	cirugía
+T116	PROCEDURE 10733 10740	cirugía
+T117	PROCEDURE 10705 10717	intervención
+T118	PROCEDURE 9507 9525	pruebas analíticas
+T119	PROCEDURE 3301 3345	dispositivo extractor de material trombótico
+T120	SYMPTOM 232 241	dispepsia
+T121	SYMPTOM 527 541	dolor torácico
+T122	SYMPTOM 600 614	dolor torácico
+T123	SYMPTOM 849 863	dolor torácico
+T124	SYMPTOM 938 941	tos
+T125	SYMPTOM 944 969	expectoración blanquecina
+T126	SYMPTOM 1043 1062	Buen estado general
+T127	SYMPTOM 1064 1078	normohidratado
+T128	SYMPTOM 1080 1094	normocoloreado
+T129	SYMPTOM 1096 1114	eupneico en reposo
+T130	SYMPTOM 1119 1149	signos de trabajo respiratorio
+T131	SYMPTOM 1176 1200	tonos cardiacos rítmicos
+T132	SYMPTOM 1205 1211	soplos
+T133	SYMPTOM 1213 1242	Murmullo vesicular conservado
+T134	SYMPTOM 1247 1276	crepitantes húmedos bibasales
+T135	SYMPTOM 1278 1318	Abdomen: blando, depresible, no doloroso
+T136	SYMPTOM 1335 1351	MMII: sin edemas
+T137	SYMPTOM 1431 1450	Buen estado general
+T138	SYMPTOM 1452 1466	normohidratado
+T139	SYMPTOM 1468 1482	normocoloreado
+T140	SYMPTOM 1484 1502	eupneico en reposo
+T141	SYMPTOM 1628 1652	tonos cardiacos rítmicos
+T142	SYMPTOM 1657 1663	soplos
+T143	SYMPTOM 1674 1703	Murmullo vesicular disminuido
+T144	SYMPTOM 1705 1726	crepitantes bibasales
+T145	SYMPTOM 1729 1745	roncus dispersos
+T146	SYMPTOM 1747 1787	Abdomen: blando, depresible, no doloroso
+T147	SYMPTOM 1802 1810	megalias
+T148	SYMPTOM 1816 1827	peritonismo
+T149	SYMPTOM 1829 1863	Blumberg, psoas y Murphy negativos
+T150	SYMPTOM 1865 1895	Ruidos hidroaéreos conservados
+T151	SYMPTOM 1897 1909	PPR negativo
+T152	SYMPTOM 1911 1926	MMII: no edemas
+T153	SYMPTOM 1967 2010	Pulsos periféricos conservados y simétricos
+T154	SYMPTOM 2105 2118	ritmo sinusal
+T155	SYMPTOM 2123 2146	ascenso del segmento ST
+T156	SYMPTOM 2198 2215	ondas T negativas
+T157	SYMPTOM 3394 3407	ritmo sinusal
+T158	SYMPTOM 3431 3441	Eje normal
+T159	SYMPTOM 3456 3480	elevación de segmento ST
+T160	SYMPTOM 3547 3560	ritmo sinusal
+T161	SYMPTOM 3659 3676	ondas T negativas
+T162	SYMPTOM 3857 3871	Iones normales
+T163	SYMPTOM 3873 3896	Función hepática normal
+T164	SYMPTOM 4175 4235	índice cardiotorácico en el límite superior de la normalidad
+T165	SYMPTOM 4314 4325	infiltrados
+T166	SYMPTOM 4329 4344	consolidaciones
+T167	SYMPTOM 4363 4418	ventrículo izquierdo no dilatado con disquinesia apical
+T168	SYMPTOM 4572 4585	ritmo sinusal
+T169	SYMPTOM 4640 4677	Ondas T negativas en I y aVL, V5 y V6
+T170	SYMPTOM 5040 5071	condensación en lóbulo inferior
+T171	SYMPTOM 5094 5113	Legionella negativo
+T172	SYMPTOM 5115 5152	Ag streptococcus pneumoniane negativo
+T173	SYMPTOM 5154 5201	Cultivo esputo: desarrollo de flora orofaríngea
+T174	SYMPTOM 5341 5411	Nódulo en el lóbulo superior izquierdo de unos 11 mm con calcificación
+T175	SYMPTOM 5676 5759	ventrículo izquierdo dilatado con región apical adelgazada y aquinética y expandida
+T176	SYMPTOM 6091 6116	Aurícula izquierda normal
+T177	SYMPTOM 6190 6213	Aurícula derecha normal
+T178	SYMPTOM 6787 6805	Coagulación normal
+T179	SYMPTOM 6867 6897	función renal e iones normales
+T180	SYMPTOM 6904 6917	ritmo sinusal
+T181	SYMPTOM 7418 7462	Fracción de eyección moderadamente deprimida
+T182	SYMPTOM 7591 7639	Aurícula izquierda y cavidades derechas normales
+T183	SYMPTOM 7926 7974	dolor centrotorácico opresivo irradiando a brazo
+T184	SYMPTOM 7989 7999	sudoración
+T185	SYMPTOM 8126 8131	dolor
+T186	SYMPTOM 8796 8805	dispepsia
+T187	SYMPTOM 9328 9342	dolor torácico
+T188	SYMPTOM 9590 9595	dolor
+T189	SYMPTOM 9766 9780	dolor torácico
+T190	SYMPTOM 9805 9828	dificultad respiratoria
+T191	SYMPTOM 9951 9978	disnea de mínimos esfuerzos
+T192	SYMPTOM 9980 9988	ortopnea
+T193	SYMPTOM 9991 10018	disnea paroxística nocturna
+T194	SYMPTOM 10036 10039	tos
+T195	SYMPTOM 10044 10069	expectoración blanquecina
+T196	SYMPTOM 10074 10080	fiebre
+T197	SYMPTOM 10595 10660	dolor torácico ocasional de características pleuro-pericardíticas
+T198	SYMPTOM 11347 11356	dispepsia
+T199	SYMPTOM 1507 1537	signos de trabajo respiratorio
+T200	SYMPTOM 1552 1573	No tolera el decúbito
+T201	SYMPTOM 7822 7847	Vena cava inferior normal
+T202	SYMPTOM 7056 7072	Aquinesia apical
+T203	SYMPTOM 7310 7328	Hipoquinesia basal
+T204	SYMPTOM 7280 7299	Hipoquinesia apical
+T205	SYMPTOM 6300 6332	Válvula aórtica sin alteraciones
+T206	SYMPTOM 6378 6426	Válvulas derechas sin alteraciones estructurales
+T207	SYMPTOM 4609 4638	alteraciones de la conducción
+T208	SYMPTOM 4420 4497	aquinesia de segmentos medios de cara anterior, septo anterior y cara lateral
+T209	SYMPTOM 6531 6556	Cava inferior no dilatada
+T210	SYMPTOM 3037 3055	dominancia derecha
+T211	SYMPTOM 1578 1599	focalidad neurológica
+T212	SYMPTOM 6118 6188	Ventrículo derecho de diámetros, paredes y fracción de eyección normal
+T213	SYMPTOM 1793 1798	masas
+T214	SYMPTOM 1604 1620	signos meníngeos
+T215	SYMPTOM 7012 7054	ventrículo izquierdo de diámetros normales
+T216	SYMPTOM 3580 3590	Eje normal
+T217	SYMPTOM 4237 4289	senos cardiofrénicos y costo-diafragmáticos pinzados
+T218	SYMPTOM 6021 6067	Fracción de eyección muy severamente deprimida
+T219	SYMPTOM 6922 6969	onda de necrosis extensa anteroseptal y lateral
+T220	SYMPTOM 7212 7278	engrosamiento y ecogenicidad aumentada pericárdico parietal apical
+T221	SYMPTOM 7641 7717	Válvulas izquierdas y derechas sin alteraciones estructurales ni funcionales
+T222	MEDICATION 319 331	levotiroxina
+T223	MEDICATION 343 354	tamsulosina
+T224	MEDICATION 362 373	dutasteride
+T225	MEDICATION 2273 2281	aspirina
+T226	MEDICATION 2284 2295	clopidogrel
+T227	MEDICATION 8469 8481	levotiroxina
+T228	MEDICATION 8807 8829	Ácido acetilsalicílico
+T229	MEDICATION 8865 8876	Clopidogrel
+T230	MEDICATION 8913 8922	Omeprazol
+T231	MEDICATION 8956 8968	Levotiroxina
+T232	MEDICATION 9006 9014	Ramipril
+T233	MEDICATION 9052 9062	Furosemida
+T234	MEDICATION 9103 9113	Eplerenona
+T235	MEDICATION 9147 9160	Atorvastatina
+T236	MEDICATION 9635 9646	paracetamol
+T237	MEDICATION 9648 9657	metamizol
+T238	MEDICATION 10673 10684	clopidogrel
+T239	MEDICATION 11382 11390	Aspirina
+T240	MEDICATION 11425 11436	Clopidogrel
+T241	MEDICATION 11470 11479	Omeprazol
+T242	MEDICATION 11513 11526	Atorvastatina
+T243	MEDICATION 11559 11569	Bisoprolol
+T244	MEDICATION 11604 11612	Ramipril
+T245	MEDICATION 11647 11657	Eplerenona
+T246	MEDICATION 11691 11701	Furosemida
+T247	MEDICATION 386 397	levogastrol
+T248	MEDICATION 409 420	cinitrapida

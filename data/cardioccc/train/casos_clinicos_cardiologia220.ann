@@ -1,0 +1,123 @@
+T1	DISEASE 4499 4521	dilatación biauricular
+T2	DISEASE 305 311	angina
+T3	DISEASE 316 323	síncope
+T4	DISEASE 336 347	infecciones
+T5	DISEASE 646 649	TVP
+T6	DISEASE 782 785	TVP
+T7	DISEASE 2709 2724	derrame pleural
+T8	DISEASE 2858 2876	IT moderada-severa
+T9	DISEASE 2887 2900	valvulopatías
+T10	DISEASE 2905 2912	derrame
+T11	DISEASE 3254 3301	Insuficiencia mitral al menos de grado moderado
+T12	DISEASE 3409 3477	Insuficiencia tricúspide moderada a severa por dilatación del anillo
+T13	DISEASE 3591 3610	derrame pericárdico
+T14	DISEASE 3923 3979	IC en el contexto de FA con respuesta ventricular rápida
+T15	DISEASE 4399 4401	IC
+T16	DISEASE 4403 4438	Fibrilación auricular con RV rápida
+T17	DISEASE 538 547	Arrítmica
+T18	DISEASE 694 703	Arrítmica
+T19	DISEASE 2914 2936	Dilatación biauricular
+T20	DISEASE 2785 2787	FA
+T21	DISEASE 3036 3038	FA
+T22	DISEASE 3646 3648	FA
+T23	DISEASE 3747 3749	FA
+T24	DISEASE 4136 4154	IT moderada-severa
+T25	DISEASE 4454 4474	IT moderada a severa
+T26	DISEASE 3343 3407	Ventrículo derecho ligeramente dilatado, con disfunción moderada
+T27	DISEASE 4342 4353	hipotensión
+T28	DISEASE 3303 3341	Dilatación moderada de ambas aurículas
+T29	DISEASE 4164 4184	1M al menos moderada
+T30	DISEASE 4476 4496	1M al menos moderada
+T31	DISEASE 2938 2956	Vena cava dilatada
+T32	DISEASE 4104 4123	aurículas dilatadas
+T33	DISEASE 418 433	descompensación
+T34	DISEASE 2807 2845	VI no dilatado leve-mod disfuncionante
+T35	DISEASE 3054 3106	Ventrículo izquierdo no dilatado, hipertrofia ligera
+T36	PROCEDURE 436 454	Exploración física
+T37	PROCEDURE 533 536	ACP
+T38	PROCEDURE 689 692	ACP
+T39	PROCEDURE 2633 2641	Rx torax
+T40	PROCEDURE 2990 3004	Ecocardiograma
+T41	PROCEDURE 3628 3631	ECG
+T42	PROCEDURE 3733 3736	ECG
+T43	PROCEDURE 3834 3837	PCR
+T44	PROCEDURE 4000 4025	tto diurético intravenoso
+T45	PROCEDURE 4221 4236	anticoagulación
+T46	PROCEDURE 2746 2761	Ecocardioscopia
+T47	PROCEDURE 838 847	Analítica
+T48	PROCEDURE 1394 1403	Analítica
+T49	PROCEDURE 2137 2146	Analítica
+T50	PROCEDURE 4318 4322	1ECA
+T51	SYMPTOM 113 119	disnea
+T52	SYMPTOM 200 208	ortopnea
+T53	SYMPTOM 211 239	edema en miembros inferiores
+T54	SYMPTOM 257 270	palpitaciones
+T55	SYMPTOM 529 531	IY
+T56	SYMPTOM 552 558	soplos
+T57	SYMPTOM 560 563	MVC
+T58	SYMPTOM 568 599	crepitantes hasta campos medios
+T59	SYMPTOM 601 631	MMII: edema hasta tercio medio
+T60	SYMPTOM 708 714	soplos
+T61	SYMPTOM 716 719	MVC
+T62	SYMPTOM 724 743	crepitantes en base
+T63	SYMPTOM 753 768	MMII: no edemas
+T64	SYMPTOM 2652 2665	ICT aumentado
+T65	SYMPTOM 2667 2690	redistribución vascular
+T66	SYMPTOM 2847 2856	VD normal
+T67	SYMPTOM 3054 3099	Ventrículo izquierdo no dilatado, hipertrofia
+T68	SYMPTOM 3112 3158	función sistólica global ligeramente deprimida
+T69	SYMPTOM 3176 3194	hipocinesia global
+T70	SYMPTOM 3553 3585	colapso inspiratorio fisiológico
+T71	SYMPTOM 3680 3692	QRS estrecho
+T72	SYMPTOM 3781 3793	QRS estrecho
+T73	SYMPTOM 3798 3831	alteraciones en la repolarización
+T74	SYMPTOM 3834 3862	PCR COVID 03/08/21: negativa
+T75	SYMPTOM 4342 4353	hipotensión
+T76	SYMPTOM 4523 4549	FEVI ligeramente deprimida
+T77	SYMPTOM 4855 4861	edemas
+T78	SYMPTOM 4863 4886	ganancia rápida de peso
+T79	SYMPTOM 4889 4895	disnea
+T80	SYMPTOM 5063 5076	dolor intenso
+T81	SYMPTOM 3697 3730	alteraciones de la repolarización
+T82	SYMPTOM 524 527	BEG
+T83	SYMPTOM 5990 6003	DOLOR INTENSO
+T84	SYMPTOM 3516 3546	Vena cava inferior no dilatada
+T85	SYMPTOM 2729 2744	consolidaciones
+T86	SYMPTOM 3668 3678	eje normal
+T87	SYMPTOM 3769 3779	eje normal
+T88	SYMPTOM 2807 2845	VI no dilatado leve-mod disfuncionante
+T89	SYMPTOM 3197 3252	movimiento del septo relacionado con sobrecarga derecha
+T90	MEDICATION 4054 4064	bisoprolol
+T91	MEDICATION 4067 4075	digoxina
+T92	MEDICATION 4241 4252	rivaroxaban
+T93	MEDICATION 4583 4590	Xarelto
+T94	MEDICATION 4618 4628	Bisoprolol
+T95	MEDICATION 4663 4671	Digoxina
+T96	MEDICATION 4699 4708	Jardiance
+T97	MEDICATION 4745 4755	eplerenona
+T98	MEDICATION 4785 4792	Seguril
+T99	MEDICATION 4993 5003	CITALOPRAM
+T100	MEDICATION 5017 5026	OMEPRAZOL
+T101	MEDICATION 5040 5047	NOLOTIL
+T102	MEDICATION 5078 5088	MASTICAL D
+T103	MEDICATION 5112 5123	PARACETAMOL
+T104	MEDICATION 5270 5281	PARACETAMOL
+T105	MEDICATION 5387 5397	CITALOPRAM
+T106	MEDICATION 5617 5626	OMEPRAZOL
+T107	MEDICATION 6159 6169	BISOPROLOL
+T108	MEDICATION 6616 6626	EPLERENONA
+T109	MEDICATION 6304 6312	DIGOXINA
+T110	MEDICATION 6760 6767	SEGURIL
+T111	MEDICATION 5499 5509	MASTICAL D
+T112	MEDICATION 5725 5732	NOLOTIL
+T113	MEDICATION 6005 6012	XARELTO
+T114	MEDICATION 6461 6470	JARDIANCE
+T115	MEDICATION 4737 4743	Elecor
+#1	AnnotatorNotes T20	 Fibrilación Auricular
+#2	AnnotatorNotes T21	 Fibrilación Auricular
+#3	AnnotatorNotes T22	 Fibrilación Auricular
+#4	AnnotatorNotes T23	 Fibrilación Auricular
+#5	AnnotatorNotes T24	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T25	IT insuficiencia tricuspídea
+#7	AnnotatorNotes T29	 1M, error debería poner IM = insuficiencia mitral
+#8	AnnotatorNotes T30	 1M = IM = insuficiencia mitral

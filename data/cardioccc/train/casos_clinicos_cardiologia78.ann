@@ -1,0 +1,95 @@
+T1	DISEASE 117 138	trastorno de ansiedad
+T2	DISEASE 322 330	ansiedad
+T3	DISEASE 840 866	síndrome hipereosinofílico
+T4	DISEASE 931 952	infección parasitaria
+T5	DISEASE 954 961	alergia
+T6	DISEASE 964 983	enfermedad pulmonar
+T7	DISEASE 1773 1799	fibrosis miocárdica apical
+T8	DISEASE 1801 1883	Fibrosis transmural en la pared inferolateral medioapical del ventrículo izquierdo
+T9	DISEASE 2203 2219	hipereosinofilia
+T10	DISEASE 2224 2264	miocardiopatía restrictiva biventricular
+T11	DISEASE 2820 2834	esplenomegalia
+T12	DISEASE 2894 2915	hipertensión arterial
+T13	DISEASE 4770 4779	trombosis
+T14	DISEASE 4872 4956	Neoplasia mieloproliferativa con eosinofilia asociada a reordenamiento FIP1L1- PDGFR
+T15	DISEASE 4958 5053	Miocardiopatía restrictiva con fibrosis miocárdica apical e inferolateral del VI y apical de VD
+T16	DISEASE 5065 5086	trombos en ápex de VI
+T17	DISEASE 5090 5117	síndrome hiperesosinofílico
+T18	DISEASE 5118 5148	Hipertensión arterial esencial
+T19	DISEASE 191 199	alergias
+T20	DISEASE 597 611	esplenomegalia
+T21	DISEASE 1515 1529	esplenomegalia
+T22	DISEASE 285 308	episodios presincopales
+T23	DISEASE 1747 1767	dilatación auricular
+T24	DISEASE 4598 4619	fenómenos trombóticos
+T25	DISEASE 2548 2562	trombo laminar
+T26	DISEASE 3437 3469	trombos laminares a nivel apical
+T27	DISEASE 3783 3806	trombos intracavitarios
+T28	DISEASE 2025 2032	trombos
+T29	DISEASE 3506 3513	trombos
+T30	PROCEDURE 391 400	hemograma
+T31	PROCEDURE 1234 1250	Estudio genético
+T32	PROCEDURE 1308 1322	Ecocardiograma
+T33	PROCEDURE 1367 1370	ECG
+T34	PROCEDURE 1493 1513	Ecografía de abdomen
+T35	PROCEDURE 1553 1564	TC torácico
+T36	PROCEDURE 1602 1631	Resonancia magnética cardiaca
+T37	PROCEDURE 1635 1637	RM
+T38	PROCEDURE 1885 1914	Resonancia magnética cardiaca
+T39	PROCEDURE 1918 1920	RM
+T40	PROCEDURE 2266 2295	Resonancia magnética cardiaca
+T41	PROCEDURE 2299 2301	RM
+T42	PROCEDURE 2758 2778	ecografía de abdomen
+T43	PROCEDURE 3164 3175	RM cardiaca
+T44	PROCEDURE 3253 3255	RM
+T45	PROCEDURE 3266 3285	resonancia cardiaca
+T46	PROCEDURE 3298 3300	RM
+T47	PROCEDURE 3578 3588	resonancia
+T48	PROCEDURE 3747 3762	ecocardiografía
+T49	PROCEDURE 3864 3879	anticoagulación
+T50	PROCEDURE 4354 4374	resonancia magnética
+T51	PROCEDURE 4387 4389	RM
+T52	PROCEDURE 4410 4425	anticoagulación
+T53	PROCEDURE 4486 4501	ecocardiografía
+T54	PROCEDURE 4693 4708	anticoagulación
+T55	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDURE 1015 1024	Analítica
+T57	PROCEDURE 885 894	analítica
+T58	PROCEDURE 897 917	estudio de extensión
+T59	PROCEDURE 408 419	exploración
+T60	SYMPTOM 256 283	disnea de pequeños esfuerzo
+T61	SYMPTOM 429 439	Consciente
+T62	SYMPTOM 441 450	orientado
+T63	SYMPTOM 452 458	alerta
+T64	SYMPTOM 460 475	Lenguaje normal
+T65	SYMPTOM 477 501	Pares craneales normales
+T66	SYMPTOM 503 528	Ruidos cardiacos rítmicos
+T67	SYMPTOM 533 539	soplos
+T68	SYMPTOM 541 591	Murmullo vesicular conservado sin ruidos agregados
+T69	SYMPTOM 675 704	edemas en miembros inferiores
+T70	SYMPTOM 706 733	Pulsos periféricos normales
+T71	SYMPTOM 1002 1013	eosinofilia
+T72	SYMPTOM 1372 1385	ritmo sinusal
+T73	SYMPTOM 1396 1408	QRS estrecho
+T74	SYMPTOM 1462 1479	Ondas T negativas
+T75	SYMPTOM 1578 1600	infiltrados pulmonares
+T76	SYMPTOM 1684 1712	ventrículo de pequeño tamaño
+T77	SYMPTOM 2999 3006	astenia
+T78	SYMPTOM 3340 3389	imágenes de morfología semilunar a nivel del ápex
+T79	SYMPTOM 3932 3947	astenia intensa
+T80	SYMPTOM 3950 3973	dolores osteomusculares
+T81	SYMPTOM 4905 4916	eosinofilia
+T82	SYMPTOM 1155 1177	Eosinofilia periférica
+T83	SYMPTOM 1338 1365	infiltración endomiocárdica
+T84	SYMPTOM 1252 1306	deleción 4q12 asociado a reordenamiento FIP1L1-PDFGFRA
+T85	SYMPTOM 1642 1682	patrón restrictivo en cavidades derechas
+T86	SYMPTOM 1941 1997	imágenes hipointensas de morfología semilunar en el ápex
+T87	SYMPTOM 2392 2442	áreas hipointensas en el ápex de ambos ventrículos
+T88	SYMPTOM 3193 3211	patrón restrictivo
+T89	MEDICATION 2603 2611	imatinib
+T90	MEDICATION 2943 2953	bisoprolol
+T91	MEDICATION 3029 3039	bisoprolol
+T92	MEDICATION 3044 3054	olmesartán
+T93	MEDICATION 4028 4039	rivaroxaban
+T94	MEDICATION 3884 3891	sintrom
+T95	MEDICATION 4339 4346	sintrom

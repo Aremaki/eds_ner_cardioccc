@@ -1,0 +1,92 @@
+T1	ENFERMEDAD 30 44	asma bronquial
+T2	ENFERMEDAD 75 85	Dislipemia
+T3	ENFERMEDAD 142 156	Asma bronquial
+T4	ENFERMEDAD 158 176	Trastorno afectivo
+T5	ENFERMEDAD 469 483	asma bronquial
+T6	ENFERMEDAD 608 619	cardiopatía
+T7	ENFERMEDAD 1168 1208	Trastorno de conducción intraventricular
+T8	ENFERMEDAD 1554 1575	hipertensión pulmonar
+T9	ENFERMEDAD 2385 2423	Válvula aórtica con regurgitación leve
+T10	ENFERMEDAD 2540 2556	Válvula pulmonar
+T11	ENFERMEDAD 2944 2993	insuficiencia de la válvula AV sistémica moderada
+T12	ENFERMEDAD 3201 3221	trastornos del ritmo
+T13	ENFERMEDAD 3261 3274	valvulopatías
+T14	ENFERMEDAD 3291 3313	disfunción ventricular
+T15	ENFERMEDAD 3470 3513	Insuficiencia válvula AV sistémica moderada
+T16	ENFERMEDAD 3516 3537	Hipertensión pulmonar
+T17	ENFERMEDAD 3540 3554	Asma bronquial
+T18	ENFERMEDAD 1941 1988	Válvula AV izquierda con insuficiencia moderada
+T19	ENFERMEDAD 50 73	alergias medicamentosas
+T20	ENFERMEDAD 814 821	síncope
+T21	ENFERMEDAD 791 796	angor
+T22	ENFERMEDAD 1371 1447	Disposición anómala de grandes vasos, con arteria pulmonar medial a la aorta
+T23	ENFERMEDAD 1684 1705	Inversión ventricular
+T24	ENFERMEDAD 1707 1760	Discordancia auriculoventricular y ventriculoarterial
+T25	ENFERMEDAD 2021 2052	Discordancia ventriculoarterial
+T26	ENFERMEDAD 2128 2157	Discordancia atrioventricular
+T27	ENFERMEDAD 2212 2232	nversión ventricular
+T28	ENFERMEDAD 2054 2126	Aorta asentando en ventrículo derecho y pulmonar en ventrículo izquierdo
+T29	ENFERMEDAD 2425 2471	Válvula AV sistémica con dilatación del anillo
+T30	ENFERMEDAD 2575 2634	Tronco y ramas pulmonares principales severamente dilatadas
+T31	ENFERMEDAD 2860 2917	trasposición de grandes arterias corregida congénitamente
+T32	ENFERMEDAD 3409 3467	Trasposición de grandes arterias, corregida congénitamente
+T33	ENFERMEDAD 1450 1473	acabalgamiento de aorta
+T34	ENFERMEDAD 2651 2672	hipertensión pulmonar
+T35	ENFERMEDAD 525 560	malposición de las grandes arterias
+T36	ENFERMEDAD 1476 1488	trasposición
+T37	ENFERMEDAD 2998 3019	hipertensión pulmonar
+T38	PROCEDIMIENTO 340 358	exploración física
+T39	PROCEDIMIENTO 567 578	TACAR tórax
+T40	PROCEDIMIENTO 711 732	vacunación antigripal
+T41	PROCEDIMIENTO 823 841	Exploración física
+T42	PROCEDIMIENTO 976 988	Auscultación
+T43	PROCEDIMIENTO 1113 1116	ECG
+T44	PROCEDIMIENTO 1262 1273	Rx de tórax
+T45	PROCEDIMIENTO 1364 1369	TACAR
+T46	PROCEDIMIENTO 1652 1667	Ecocardiografía
+T47	PROCEDIMIENTO 1992 2004	RMN cardiaca
+T48	PROCEDIMIENTO 2764 2767	ECG
+T49	PROCEDIMIENTO 2773 2788	ecocardiografía
+T50	PROCEDIMIENTO 2807 2826	resonancia cardiaca
+T51	PROCEDIMIENTO 3318 3333	ecocardiografía
+T52	SINTOMA 660 671	sibilancias
+T53	SINTOMA 674 696	aumento de secreciones
+T54	SINTOMA 741 759	síntomas cardiacos
+T55	SINTOMA 771 789	disnea de esfuerzo
+T56	SINTOMA 798 811	palpitaciones
+T57	SINTOMA 843 853	Consciente
+T58	SINTOMA 855 864	orientada
+T59	SINTOMA 866 878	colaboradora
+T60	SINTOMA 880 899	Buen estado general
+T61	SINTOMA 901 915	Bien hidratada
+T62	SINTOMA 918 928	perfundida
+T63	SINTOMA 930 948	Eupneica en reposo
+T64	SINTOMA 953 974	ingurgitación yugular
+T65	SINTOMA 1001 1007	soplos
+T66	SINTOMA 1009 1032	Sibilancias diseminadas
+T67	SINTOMA 1034 1073	Pulsos periféricos presentes simétricos
+T68	SINTOMA 1078 1084	edemas
+T69	SINTOMA 1118 1131	Ritmo sinusal
+T70	SINTOMA 1142 1151	PR normal
+T71	SINTOMA 1275 1303	Índice cardiotorácico normal
+T72	SINTOMA 1332 1360	Hilios pulmonares aumentados
+T73	SINTOMA 1904 1939	Válvula AV derecha sin alteraciones
+T74	SINTOMA 2540 2573	Válvula pulmonar sin alteraciones
+T75	SINTOMA 976 996	Auscultación rítmica
+T76	SINTOMA 1312 1330	elongación aórtica
+T77	SINTOMA 1818 1853	Aurícula izquierda de tamaño normal
+T78	SINTOMA 1855 1902	Cavidades derechas de tamaño y función normales
+T79	SINTOMA 1590 1648	Patrón en mosaico de parénquima pulmonar de causa vascular
+T80	SINTOMA 1762 1816	Ventrículo izquierdo de tamaño y contractilidad normal
+T81	SINTOMA 2494 2538	jets de regurgitación central grado moderado
+T82	SINTOMA 1153 1166	Eje izquierdo
+T83	SINTOMA 1210 1258	Progresión anómala de R en precordiales derechas
+T84	SINTOMA 1502 1552	Cono de pulmonar discretamente aumentado de tamaño
+T85	SINTOMA 2160 2209	Aorta anterior e izquierda respecto a la pulmonar
+T86	SINTOMA 2234 2315	Ventrículo sistémico de volúmenes aumentados y función en límite de la normalidad
+T87	SINTOMA 2317 2383	Ventrículo subpulmonar de volumen reducido y contractilidad normal
+T88	FARMACO 197 206	lorazepam
+T89	FARMACO 217 229	simvastatina
+T90	FARMACO 241 252	montelukast
+T91	FARMACO 266 288	salmeterol/fluticasona
+T92	FARMACO 3044 3054	furosemida

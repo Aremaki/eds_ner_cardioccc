@@ -1,0 +1,91 @@
+T1	ENFERMEDAD 429 451	infección respiratoria
+T2	ENFERMEDAD 497 513	etilismo crónico
+T3	ENFERMEDAD 515 522	fumador
+T4	ENFERMEDAD 549 553	EPOC
+T5	ENFERMEDAD 555 576	hipertensión arterial
+T6	ENFERMEDAD 609 654	trombosis venosa profunda en miembro inferior
+T7	ENFERMEDAD 933 941	Obesidad
+T8	ENFERMEDAD 1366 1391	trombosis venosa profunda
+T9	ENFERMEDAD 2675 2694	derrame pericárdico
+T10	ENFERMEDAD 3164 3243	trombosis venosa profunda (TVP) de ambas venas poplíteas y tibiales posteriores
+T11	ENFERMEDAD 3423 3444	hipertensión pulmonar
+T12	ENFERMEDAD 3695 3713	síndrome nefrótico
+T13	ENFERMEDAD 3837 3840	TVP
+T14	ENFERMEDAD 3923 3947	tromboembolismo pulmonar
+T15	ENFERMEDAD 3949 3952	TEP
+T16	ENFERMEDAD 4132 4176	hipertensión pulmonar tromboembólica crónica
+T17	ENFERMEDAD 4235 4246	trombofilia
+T18	ENFERMEDAD 4263 4325	Tromboembolismo pulmonar de arteria pulmonar principal derecha
+T19	ENFERMEDAD 4347 4383	tromboembolismo pulmonar recidivante
+T20	ENFERMEDAD 4387 4426	Hipertensión pulmonar severa secundaria
+T21	ENFERMEDAD 4440 4484	hipertensión pulmonar tromboembólica crónica
+T22	ENFERMEDAD 4488 4523	Trombosis venosa profunda bilateral
+T23	ENFERMEDAD 1444 1457	cardiomegalia
+T24	ENFERMEDAD 2438 2465	ventrículo derecho dilatado
+T25	ENFERMEDAD 2336 2405	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T26	ENFERMEDAD 71 92	cuadros presincopales
+T27	ENFERMEDAD 2583 2622	vena cava inferior ligeramente dilatada
+T28	ENFERMEDAD 3191 3194	TVP
+T29	ENFERMEDAD 3361 3411	dilatación de VD con disfunción sistólica moderada
+T30	ENFERMEDAD 3728 3747	hipercoagulabilidad
+T31	PROCEDIMIENTO 727 745	Exploración física
+T32	PROCEDIMIENTO 1017 1040	Exploración neurológica
+T33	PROCEDIMIENTO 1422 1442	Radiografía de tórax
+T34	PROCEDIMIENTO 1514 1532	Electrocardiograma
+T35	PROCEDIMIENTO 1630 1639	Hemograma
+T36	PROCEDIMIENTO 1910 1927	Gasometría venosa
+T37	PROCEDIMIENTO 1995 2013	Sedimento de orina
+T38	PROCEDIMIENTO 2280 2295	ecocardiografía
+T39	PROCEDIMIENTO 2715 2733	angio-TAC de tórax
+T40	PROCEDIMIENTO 3049 3064	anticoagulación
+T41	PROCEDIMIENTO 3118 3140	estudio Doppler venoso
+T42	PROCEDIMIENTO 3309 3332	ecocardiografía-Doppler
+T43	PROCEDIMIENTO 3486 3510	estudio de autoinmunidad
+T44	PROCEDIMIENTO 3573 3601	estudios de hierro, tiroides
+T45	PROCEDIMIENTO 3641 3654	proteinograma
+T46	PROCEDIMIENTO 3757 3785	estudio de orina de 24 horas
+T47	PROCEDIMIENTO 3855 3870	anticoagulación
+T48	PROCEDIMIENTO 3965 4005	implante de filtro en vena cava inferior
+T49	PROCEDIMIENTO 4224 4246	estudio de trombofilia
+T50	PROCEDIMIENTO 894 923	aporte de O2 en gafas nasales
+T51	PROCEDIMIENTO 1724 1735	Coagulación
+T52	PROCEDIMIENTO 3603 3623	marcadores tumorales
+T53	PROCEDIMIENTO 1779 1789	Bioquímica
+T54	PROCEDIMIENTO 2159 2176	estudio analítico
+T55	SINTOMA 211 229	sensación disneica
+T56	SINTOMA 234 248	dolor torácico
+T57	SINTOMA 264 277	palpitaciones
+T58	SINTOMA 363 369	fiebre
+T59	SINTOMA 371 377	disnea
+T60	SINTOMA 380 386	mareos
+T61	SINTOMA 747 766	buen estado general
+T62	SINTOMA 943 961	Eupneico en reposo
+T63	SINTOMA 1017 1047	Exploración neurológica normal
+T64	SINTOMA 1049 1089	Corazón rítmico ligeramente taquicárdico
+T65	SINTOMA 1095 1101	soplos
+T66	SINTOMA 1105 1115	extratonos
+T67	SINTOMA 1117 1164	Disminución generalizada del murmullo vesicular
+T68	SINTOMA 1169 1216	sibilantes dispersos en ambos campos pulmonares
+T69	SINTOMA 1218 1272	Abdomen blando, depresible, no doloroso a la palpación
+T70	SINTOMA 1279 1294	visceromegalias
+T71	SINTOMA 1304 1339	edemas en ambos miembros inferiores
+T72	SINTOMA 1534 1547	ritmo sinusal
+T73	SINTOMA 1575 1626	Onda T negativa asimétrica en III, aVF y de V1 a V4
+T74	SINTOMA 2408 2436	función sistólica preservada
+T75	SINTOMA 2438 2505	ventrículo derecho dilatado con hipoquinesia marcada de pared libre
+T76	SINTOMA 2552 2581	disfunción sistólica moderada
+T77	SINTOMA 2756 2812	defecto parcial de repleción en arteria pulmonar derecha
+T78	SINTOMA 3004 3016	asintomático
+T79	SINTOMA 768 802	estabilidad clínica y hemodinámica
+T80	SINTOMA 1558 1573	Onda P pulmonar
+T81	SINTOMA 2510 2549	aplanamiento del septo interventricular
+T82	SINTOMA 3486 3567	estudio de autoinmunidad (ANA, ANCA, AntiDNA, anticardiolipinas) que fue negativo
+T83	SINTOMA 3573 3670	estudios de hierro, tiroides, marcadores tumorales, VIH, VHB, VHC y proteinograma fueron normales
+T84	SINTOMA 1462 1490	hilios pulmonares engrosados
+T85	SINTOMA 1892 1908	CPK total normal
+T86	SINTOMA 2038 2067	Cilindros hialinos abundantes
+T87	SINTOMA 2934 2953	patrón enfisematoso
+T88	SINTOMA 3875 3902	INR en objetivo terapéutico
+T89	FARMACO 596 607	candesartán
+T90	FARMACO 697 709	acenocumarol
+#1	AnnotatorNotes T15	 tromboembolismo pulmonar

@@ -1,0 +1,127 @@
+T1	DISEASE 55 109	hipertensión arterial (HTA) con lesión de órgano diana
+T2	DISEASE 78 81	HTA
+T3	DISEASE 111 177	diabetes mellitus (DM) tipo 2 con afectación macro y microvascular
+T4	DISEASE 179 181	DL
+T5	DISEASE 183 197	fumador activo
+T6	DISEASE 219 243	Enfermedad renal crónica
+T7	DISEASE 419 448	Cardiopatía isquémica crónica
+T8	DISEASE 630 668	Fibrilación auricular (FA) paroxística
+T9	DISEASE 653 655	FA
+T10	DISEASE 701 760	Ictus isquémico en territorio de arteria cerebral posterior
+T11	DISEASE 813 874	Síndrome de apneas-hipopneas durante el sueño (SAHS) moderado
+T12	DISEASE 860 864	SAHS
+T13	DISEASE 876 922	Isquemia crónica grado IIA en miembro inferior
+T14	DISEASE 1398 1417	enfermedad vascular
+T15	DISEASE 1435 1464	cardiopatía isquémica crónica
+T16	DISEASE 1503 1537	disfunción sistólica ligera del VI
+T17	DISEASE 1586 1672	ictus isquémico de etiología aterotrombótica en arteria cerebral media (ACM) izquierda
+T18	DISEASE 2831 2845	isquemia aguda
+T19	DISEASE 2884 2909	Derrame pleural bilateral
+T20	DISEASE 4576 4612	Hipertensión pulmonar moderada-grave
+T21	DISEASE 4631 4696	lesión grave en segmento proximal de arteria descendente anterior
+T22	DISEASE 5313 5333	alcalosis metabólica
+T23	DISEASE 5620 5663	estenosis grave en segmento proximal de ADA
+T24	DISEASE 5944 5953	DM tipo 2
+T25	DISEASE 6087 6106	fracaso renal agudo
+T26	DISEASE 6277 6310	Insuficiencia cardiaca congestiva
+T27	DISEASE 6337 6378	Disfunción ventricular izquierda moderada
+T28	DISEASE 6380 6404	Diabetes mellitus tipo 2
+T29	DISEASE 6497 6540	Enfermedad arterial coronaria de tres vasos
+T30	DISEASE 6542 6601	estenosis grave de la arteria descendente anterior proximal
+T31	DISEASE 6676 6743	Ictus isquémico secundario a oclusión de arteria carótida izquierda
+T32	DISEASE 1819 1860	descompensación de insuficiencia cardiaca
+T33	DISEASE 594 628	disfunción sistólica ligera del VI
+T34	DISEASE 4535 4574	Aurícula izquierda ligeramente dilatada
+T35	DISEASE 453 483	enfermedad grave de tres vasos
+T36	PROCEDURE 525 549	injertos AMI-DA y VSI-OM
+T37	PROCEDURE 1435 1496	cardiopatía isquémica crónica revascularizada quirúrgicamente
+T38	PROCEDURE 1687 1708	trombectomía mecánica
+T39	PROCEDURE 1711 1765	implante destent a nivel de arteria carótida izquierda
+T40	PROCEDURE 1966 1987	tratamiento diurético
+T41	PROCEDURE 2000 2018	Exploración física
+T42	PROCEDURE 2336 2381	oxigenoterapia a bajo flujo (cánulas nasales)
+T43	PROCEDURE 2383 2404	Auscultación cardiaca
+T44	PROCEDURE 2489 2510	Auscultación pulmonar
+T45	PROCEDURE 2702 2720	Electrocardiograma
+T46	PROCEDURE 2722 2725	ECG
+T47	PROCEDURE 2847 2867	Radiografía de tórax
+T48	PROCEDURE 3325 3334	Hemograma
+T49	PROCEDURE 3738 3749	Coagulación
+T50	PROCEDURE 4282 4310	Ecocardiograma transtorácico
+T51	PROCEDURE 4614 4629	Coronariografía
+T52	PROCEDURE 4754 4779	Anastomosis de la mamaria
+T53	PROCEDURE 5197 5218	tratamiento diurético
+T54	PROCEDURE 5350 5378	ecocardiograma transtorácico
+T55	PROCEDURE 5588 5603	coronariografía
+T56	PROCEDURE 5660 5726	ADA, que se revasculariza mediante implante de stent farmacoactivo
+T57	PROCEDURE 6564 6674	arteria descendente anterior proximal, revascularizada percutáneamente mediante implante dsetent farmacoactivo
+T58	PROCEDURE 6717 6775	arteria carótida izquierda, revascularizada mediante stent
+T59	PROCEDURE 3021 3031	Bioquímica
+T60	PROCEDURE 1940 1954	monitorización
+T61	PROCEDURE 2436 2448	se auscultan
+T62	PROCEDURE 453 515	enfermedad grave de tres vasos revascularizada quirúrgicamente
+T63	PROCEDURE 669 699	anticoagulada con acenocumarol
+T64	PROCEDURE 4668 4752	arteria descendente anterior (ADA), que se revasculariza mediantestent farmacoactivo
+T65	PROCEDURE 2999 3008	Analítica
+T66	PROCEDURE 3908 3917	Analítica
+T67	PROCEDURE 4130 4139	Analítica
+T68	PROCEDURE 2569 2592	Extremidades inferiores
+T69	PROCEDURE 5745 5808	triple terapia antitrombótica con AAS, clopidogrel y dabigatrán
+T70	SYMPTOM 367 400	proteinuria en rango no nefrótico
+T71	SYMPTOM 2052 2074	Regular estado general
+T72	SYMPTOM 2076 2086	Consciente
+T73	SYMPTOM 2088 2114	orientado en las 3 esferas
+T74	SYMPTOM 2117 2128	colaborador
+T75	SYMPTOM 2130 2144	Normocoloreado
+T76	SYMPTOM 2146 2160	normohidratado
+T77	SYMPTOM 2163 2178	normoperfundido
+T78	SYMPTOM 2180 2187	Afebril
+T79	SYMPTOM 2198 2219	Taquipneico en reposo
+T80	SYMPTOM 2225 2249	intolerancia al decúbito
+T81	SYMPTOM 2406 2431	ruidos cardiacos rítmicos
+T82	SYMPTOM 2449 2455	soplos
+T83	SYMPTOM 2457 2467	extratonos
+T84	SYMPTOM 2471 2487	roce pericárdico
+T85	SYMPTOM 2512 2567	hipoventilación generalizada en ambos campos pulmonares
+T86	SYMPTOM 2594 2630	pulsos pedios presentes y simétricos
+T87	SYMPTOM 2632 2675	Edemas con fóvea bilaterales hasta rodillas
+T88	SYMPTOM 2739 2752	ritmo sinusal
+T89	SYMPTOM 2765 2777	QRS estrecho
+T90	SYMPTOM 2783 2816	alteraciones de la repolarización
+T91	SYMPTOM 2952 2970	Hilios congestivos
+T92	SYMPTOM 4312 4379	ventrículo izquierdo no dilatado, con espesores parietales normales
+T93	SYMPTOM 4381 4422	Función sistólica moderadamente deprimida
+T94	SYMPTOM 4474 4533	Ventrículo derecho no dilatado con función sistólica normal
+T95	SYMPTOM 5391 5426	deterioro de la función ventricular
+T96	SYMPTOM 5495 5509	dolor torácico
+T97	SYMPTOM 4427 4472	alteraciones de la contractilidad segmentaria
+T98	SYMPTOM 6327 6335	anasarca
+T99	SYMPTOM 547 587	OM, este último ocluido de forma crónica
+T100	SYMPTOM 1926 1934	anasarca
+T101	SYMPTOM 2973 2996	redistribución vascular
+T102	SYMPTOM 4754 4804	Anastomosis de la mamaria permeable y sin lesiones
+T103	SYMPTOM 4851 4877	OM ocluida desde el origen
+T104	SYMPTOM 4806 4830	Circunfleja no dominante
+T105	MEDICATION 687 699	acenocumarol
+T106	MEDICATION 960 973	Atorvastatina
+T107	MEDICATION 987 1009	ácido acetilsalicílico
+T108	MEDICATION 1011 1014	AAS
+T109	MEDICATION 1030 1040	bisoprolol
+T110	MEDICATION 1053 1065	acenocumarol
+T111	MEDICATION 1090 1100	ivabradina
+T112	MEDICATION 1113 1123	amlodipino
+T113	MEDICATION 1136 1147	candesartán
+T114	MEDICATION 1160 1175	espironolactona
+T115	MEDICATION 1189 1199	metformina
+T116	MEDICATION 1214 1224	furosemida
+T117	MEDICATION 1240 1249	omeprazol
+T118	MEDICATION 5230 5240	furosemida
+T119	MEDICATION 5242 5254	clortalidona
+T120	MEDICATION 5276 5289	acetazolamida
+T121	MEDICATION 5779 5782	AAS
+T122	MEDICATION 5784 5795	clopidogrel
+T123	MEDICATION 5798 5808	dabigatrán
+T124	MEDICATION 5851 5854	AAS
+T125	MEDICATION 6006 6020	empagliflozina
+T126	MEDICATION 5998 6004	iSGLT2
+#1	AnnotatorNotes T12	 síndrome de apneas-hipopneas durante el sueño

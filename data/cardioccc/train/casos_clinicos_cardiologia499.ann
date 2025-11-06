@@ -1,0 +1,104 @@
+T1	DISEASE 1542 1577	cifras de tensión arterial elevadas
+T2	DISEASE 2325 2344	congestión pulmonar
+T3	DISEASE 5793 5820	engrosamiento del miocardio
+T4	DISEASE 63 102	miocardiopatía hipertrófica sarcomérica
+T5	DISEASE 121 176	obstrucción de tracto de salida de ventrículo izquierdo
+T6	DISEASE 353 387	reacciones adversas medicamentosas
+T7	DISEASE 457 468	cardiopatía
+T8	DISEASE 498 519	hipertensión arterial
+T9	DISEASE 673 681	Fumadora
+T10	DISEASE 731 752	Hipertensión arterial
+T11	DISEASE 780 799	hipercolesterolemia
+T12	DISEASE 825 837	Ulcus antral
+T13	DISEASE 2661 2684	taquicardia ventricular
+T14	DISEASE 2692 2713	fibrilación auricular
+T15	DISEASE 3859 3911	Válvula aórtica trivalva, con ligera fibroesclerosis
+T16	DISEASE 4309 4328	derrame pericárdico
+T17	DISEASE 4912 4950	insuficiencia mitral de grado moderado
+T18	DISEASE 5323 5348	insuficiencia tricuspídea
+T19	DISEASE 5477 5522	miocardiopatía hipertrófica septal asimétrica
+T20	DISEASE 6202 6236	obstrucción al tracto salida de VI
+T21	DISEASE 6335 6374	miocardiopatía hipertrófica obstructiva
+T22	DISEASE 6672 6708	regurgitación mitral ligera-moderada
+T23	DISEASE 6717 6736	derrame pericárdico
+T24	DISEASE 6886 6912	cardiopatías hipertróficas
+T25	DISEASE 8423 8431	síncopes
+T26	DISEASE 9280 9319	Miocardiopatía hipertrófica obstructiva
+T27	DISEASE 9476 9515	Miocardiopatía hipertrófica sarcomérica
+T28	DISEASE 754 777	glucemia basal alterada
+T29	DISEASE 522 577	engrosamiento parietal moderado de ventrículo izquierdo
+T30	DISEASE 696 729	Consumo de 1 litro/día de cerveza
+T31	DISEASE 847 867	Cefaleas tensionales
+T32	DISEASE 2901 2948	Válvula mitral con velos ligeramente engrosados
+T33	DISEASE 6598 6651	regurgitaciones de válvula aórtica y válvula pulmonar
+T34	DISEASE 617 630	muerte súbita
+T35	DISEASE 1910 1917	síncope
+T36	DISEASE 2484 2501	hipertrofia de VI
+T37	DISEASE 7238 7298	arteria descendente anterior existe trayecto intramiocárdico
+T38	PROCEDURE 214 241	ablación septal con alcohol
+T39	PROCEDURE 1264 1284	electrocardiográfico
+T40	PROCEDURE 1612 1640	tratamiento antihipertensivo
+T41	PROCEDURE 1931 1958	estudio clínico, y genético
+T42	PROCEDURE 2012 2030	Exploración física
+T43	PROCEDURE 2200 2212	auscultación
+T44	PROCEDURE 2383 2401	Electrocardiograma
+T45	PROCEDURE 2550 2568	Holter de 24 horas
+T46	PROCEDURE 2774 2803	Ecocardiografía transtorácica
+T47	PROCEDURE 4152 4190	Doppler tisular del anillo tricuspídeo
+T48	PROCEDURE 5384 5391	Doppler
+T49	PROCEDURE 5748 5775	Cardiorresonancia magnética
+T50	PROCEDURE 6914 6930	Estudio genético
+T51	PROCEDURE 7413 7459	inyección de contraste yodado y ecopotenciador
+T52	PROCEDURE 7651 7691	ablación de ramo septal con alcohol puro
+T53	PROCEDURE 7986 8014	ecocardiograma transtorácico
+T54	PROCEDURE 8056 8092	Cierre femoral derecho con angioseal
+T55	PROCEDURE 8139 8172	tratamiento médico betabloqueante
+T56	PROCEDURE 8454 8469	betabloqueantes
+T57	PROCEDURE 8551 8569	prueba de esfuerzo
+T58	PROCEDURE 8995 9022	ablación septal con alcohol
+T59	PROCEDURE 9439 9466	ablación septal con alcohol
+T60	PROCEDURE 9521 9537	estudio genético
+T61	PROCEDURE 306 324	EXPLORACIÓN FÍSICA
+T62	PROCEDURE 8488 8518	control de frecuencia cardiaca
+T63	SYMPTOM 1061 1074	palpitaciones
+T64	SYMPTOM 1088 1107	sensación de disnea
+T65	SYMPTOM 1110 1148	opresión torácica irradiada a garganta
+T66	SYMPTOM 1160 1170	sudor frío
+T67	SYMPTOM 1173 1187	visión borrosa
+T68	SYMPTOM 1341 1398	onda P retrógrada inscrita en la porción terminal del QRS
+T69	SYMPTOM 1470 1483	ritmo sinusal
+T70	SYMPTOM 1743 1783	disnea hasta hacerse a mínimos esfuerzos
+T71	SYMPTOM 1817 1831	dolor torácico
+T72	SYMPTOM 1882 1895	palpitaciones
+T73	SYMPTOM 1897 1907	presíncope
+T74	SYMPTOM 2031 2060	Buen estado general en reposo
+T75	SYMPTOM 2066 2078	disnea basal
+T76	SYMPTOM 2080 2112	Funciones superiores conservadas
+T77	SYMPTOM 2114 2136	Buena perfusión distal
+T78	SYMPTOM 2138 2163	Hemodinámicamente estable
+T79	SYMPTOM 2214 2245	tonos rítmicos no taquicárdicos
+T80	SYMPTOM 2247 2262	Soplo sistólico
+T81	SYMPTOM 2403 2416	ritmo sinusal
+T82	SYMPTOM 2503 2522	ST infradesnivelado
+T83	SYMPTOM 2805 2847	aurícula izquierda de dimensiones normales
+T84	SYMPTOM 4061 4133	Ventrículo derecho de dimensiones normales, con función sistólica normal
+T85	SYMPTOM 6950 7005	mutación con clara significación patogénica, gen MYBPC3
+T86	SYMPTOM 8259 8265	disnea
+T87	SYMPTOM 8315 8323	ortopnea
+T88	SYMPTOM 8325 8344	molestias torácicas
+T89	SYMPTOM 8361 8374	palpitaciones
+T90	SYMPTOM 8408 8419	presíncopes
+T91	SYMPTOM 1299 1310	taquicardia
+T92	SYMPTOM 3747 3793	alteraciones segmentarias de la contractilidad
+T93	SYMPTOM 3605 3644	grosor miocárdico severamente aumentado
+T94	SYMPTOM 4211 4253	Vena cava inferior de dimensiones normales
+T95	SYMPTOM 3408 3452	Ventrículo izquierdo de dimensiones normales
+T96	SYMPTOM 7150 7182	arterias coronarias sin lesiones
+T97	SYMPTOM 2433 2456	crecimiento biauricular
+T98	SYMPTOM 1314 1325	QRS regular
+T99	SYMPTOM 2527 2548	T plana inferolateral
+T100	SYMPTOM 2715 2745	Complejos auriculares aislados
+T101	SYMPTOM 9521 9606	estudio genético positivo para el gen que codifica una proteína myosin-binding tipo C
+T102	MEDICATION 907 934	enalapril/hidroclorotiazida
+T103	MEDICATION 8770 8782	disopiramida
+T104	MEDICATION 8175 8179	IECA

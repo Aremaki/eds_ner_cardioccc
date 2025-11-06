@@ -1,0 +1,110 @@
+T1	ENFERMEDAD 3004 3046	V mitral con ligero engrosamiento de velos
+T2	ENFERMEDAD 78 81	HTA
+T3	ENFERMEDAD 129 150	retinopatía diabética
+T4	ENFERMEDAD 485 504	derrame pericárdico
+T5	ENFERMEDAD 1029 1037	artritis
+T6	ENFERMEDAD 2113 2125	pericarditis
+T7	ENFERMEDAD 2252 2294	esclerosis subcondral acetabular bilateral
+T8	ENFERMEDAD 2296 2324	Calcificación pretrocantérea
+T9	ENFERMEDAD 2564 2597	derrame pericárdico leve-moderado
+T10	ENFERMEDAD 3169 3181	VCI dilatada
+T11	ENFERMEDAD 3602 3665	Calcificación moderada de aparato subvalvular de válvula mitral
+T12	ENFERMEDAD 3751 3779	moderado derrame pericárdico
+T13	ENFERMEDAD 3866 3904	calcificaciones en las hojas pleurales
+T14	ENFERMEDAD 4355 4366	adenopatías
+T15	ENFERMEDAD 4529 4548	derrame pericárdico
+T16	ENFERMEDAD 4562 4576	conectivopatía
+T17	ENFERMEDAD 4701 4749	conectivopatía indiferenciada tipo esclerodermia
+T18	ENFERMEDAD 4947 4995	Conectivopatía indiferenciada tipo esclerodermia
+T19	ENFERMEDAD 98 108	DM tipo II
+T20	ENFERMEDAD 151 159	ERC leve
+T21	ENFERMEDAD 171 194	déficit de Vitamina B12
+T22	ENFERMEDAD 1562 1573	Hepatitis B
+T23	ENFERMEDAD 1576 1587	Hepatitis C
+T24	ENFERMEDAD 2358 2370	uncoartrosis
+T25	ENFERMEDAD 2372 2389	Disartrosis C3-C4
+T26	ENFERMEDAD 2413 2436	pinzamientos de las IFD
+T27	ENFERMEDAD 2481 2522	pinzamiento del IFP del 5 dedo de la mano
+T28	ENFERMEDAD 2643 2674	V I no dilatado con hipertrofia
+T29	ENFERMEDAD 2826 2849	AI ligeramente dilatada
+T30	ENFERMEDAD 3049 3051	IM
+T31	ENFERMEDAD 3118 3126	IAo leve
+T32	ENFERMEDAD 3060 3115	V aórtica, trivalva con ligera fibroesclerosis de velos
+T33	ENFERMEDAD 3128 3139	IT muy leve
+T34	ENFERMEDAD 3414 3439	AI moderadamente dilatada
+T35	ENFERMEDAD 3667 3694	Vena cava inferior dilatada
+T36	ENFERMEDAD 4402 4415	líquido libre
+T37	ENFERMEDAD 2204 2212	derrames
+T38	PROCEDIMIENTO 448 462	ecocardiograma
+T39	PROCEDIMIENTO 802 820	Exploración física
+T40	PROCEDIMIENTO 1038 1065	Auscultación cardiopulmonar
+T41	PROCEDIMIENTO 1878 1905	Frotis de sangre periférica
+T42	PROCEDIMIENTO 1975 1982	Mantoux
+T43	PROCEDIMIENTO 1993 2011	Electrocardiograma
+T44	PROCEDIMIENTO 2154 2174	Radiografía de tórax
+T45	PROCEDIMIENTO 2229 2250	Radiografía de pelvis
+T46	PROCEDIMIENTO 2334 2356	Radiografía de columna
+T47	PROCEDIMIENTO 2391 2411	Radiografía de manos
+T48	PROCEDIMIENTO 2548 2562	Ecocardiograma
+T49	PROCEDIMIENTO 3224 3238	Ecocardiograma
+T50	PROCEDIMIENTO 3729 3749	TAC toraco-abdominal
+T51	PROCEDIMIENTO 4659 4682	tratamiento corticoideo
+T52	PROCEDIMIENTO 4767 4794	tratamiento con corticoides
+T53	PROCEDIMIENTO 1442 1453	Coagulación
+T54	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDIMIENTO 1931 1944	Proteinograma
+T56	PROCEDIMIENTO 1462 1482	Serología Microbiana
+T57	PROCEDIMIENTO 1599 1610	Inmunología
+T58	PROCEDIMIENTO 1225 1234	Analítica
+T59	SINTOMA 337 370	edemas moderados en ambas piernas
+T60	SINTOMA 373 391	disnea de esfuerzo
+T61	SINTOMA 601 630	disminución de 3-4 kg de peso
+T62	SINTOMA 632 676	dolor en cintura escapular, muñecas y cadera
+T63	SINTOMA 687 716	dificultad para la empuñadura
+T64	SINTOMA 727 754	parestesias en manos y pies
+T65	SINTOMA 821 843	Buen estado en general
+T66	SINTOMA 844 854	Consciente
+T67	SINTOMA 857 866	orientado
+T68	SINTOMA 1008 1015	máculas
+T69	SINTOMA 1077 1093	roce pericárdico
+T70	SINTOMA 1094 1131	Abdomen globuloso blando y depresible
+T71	SINTOMA 1132 1183	Extremidades con edemas tensos e induración cutánea
+T72	SINTOMA 1442 1460	Coagulación Normal
+T73	SINTOMA 1699 1729	anticardiolipina Ig G negativo
+T74	SINTOMA 1731 1761	Anticardiolipina Ig M positivo
+T75	SINTOMA 1931 1973	Proteinograma e inmunoglobulinas: normales
+T76	SINTOMA 2013 2026	ritmo sinusal
+T77	SINTOMA 2069 2099	alteraciones de repolarización
+T78	SINTOMA 2127 2152	T negativa aislada en AVL
+T79	SINTOMA 2214 2227	ICT aumentado
+T80	SINTOMA 2747 2768	Llenado mitral normal
+T81	SINTOMA 2894 2908	VD no dilatado
+T82	SINTOMA 3383 3398	FEVI conservada
+T83	SINTOMA 3454 3501	Aurícula derecha con colapso parcial diastólico
+T84	SINTOMA 921 950	Tensión venosa yugular normal
+T85	SINTOMA 1038 1072	Auscultación cardiopulmonar normal
+T86	SINTOMA 1462 1596	Serología Microbiana: Mycoplasma, Coxiella, Epstein- Barr (Ig M), Citomegalovirus, Rosa de Bengala, Hepatitis B y Hepatitis C negativo
+T87	SINTOMA 1684 1697	ANCA negativo
+T88	SINTOMA 1975 1992	Mantoux: negativo
+T89	SINTOMA 2052 2064	QRS estrecho
+T90	SINTOMA 3279 3328	Ventrículo izquierdo no dilatado, ni hipertrófico
+T91	SINTOMA 535 558	compromiso hemodinámico
+T92	SINTOMA 983 1004	focalidad neurológica
+T93	SINTOMA 2696 2745	función sistólica global y segmentaria conservada
+T94	SINTOMA 1242 1271	leucocitos con fórmula normal
+T95	SINTOMA 2179 2190	infiltrados
+T96	SINTOMA 2194 2199	masas
+T97	SINTOMA 867 885	Eupneico en reposo
+T98	SINTOMA 1778 1799	ANA + (patrón moteado
+T99	SINTOMA 1808 1814	ENAS -
+T100	SINTOMA 1816 1826	Anti DNA -
+T101	SINTOMA 1828 1854	complemento C3 y C4 normal
+T102	SINTOMA 1856 1875	factor reumatoide -
+T103	SINTOMA 1878 1929	Frotis de sangre periférica: serie roja sin atipias
+T104	SINTOMA 4226 4319	hígado, vesícula biliar, vía biliar, bazo, riñones y glándulas suprarrenales sin alteraciones
+T105	SINTOMA 4448 4473	autoanticuerpos positivos
+#1	AnnotatorNotes T26	 IFD Interfalángica distal, articulación
+#2	AnnotatorNotes T27	 IFP Interfalángica proximal, articulación
+#3	AnnotatorNotes T30	 IM insuficiencia mitral
+#4	AnnotatorNotes T31	 IAo insuficiencia aórtica
+#5	AnnotatorNotes T33	 IT insuficiencia tricuspídea

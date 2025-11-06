@@ -1,0 +1,105 @@
+T1	ENFERMEDAD 76 99	alergias medicamentosas
+T2	ENFERMEDAD 115 130	hábitos tóxicos
+T3	ENFERMEDAD 431 459	taquicardia supraventricular
+T4	ENFERMEDAD 461 464	TSV
+T5	ENFERMEDAD 632 672	taquicardia supraventricular paroxística
+T6	ENFERMEDAD 984 987	TSV
+T7	ENFERMEDAD 1572 1588	TSV no sostenido
+T8	ENFERMEDAD 2815 2856	taquicardia supraventricular no sostenida
+T9	ENFERMEDAD 2863 2895	dilatación de ventrículo derecho
+T10	ENFERMEDAD 3003 3033	Insuficiencia tricuspídea leve
+T11	ENFERMEDAD 3196 3209	valvulopatías
+T12	ENFERMEDAD 3435 3462	shunt intra o extracardiaco
+T13	ENFERMEDAD 4679 4790	taquicardia auricular focal, con mayores precocidades a nivel de la desembocadura de la vena cava superior a AD
+T14	ENFERMEDAD 5285 5313	taquicardia supraventricular
+T15	ENFERMEDAD 6482 6509	Taquicardia auricular focal
+T16	ENFERMEDAD 3603 3614	VD dilatado
+T17	ENFERMEDAD 3645 3770	Shunt izquierda-derecha extracardiaco por drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior
+T18	ENFERMEDAD 3812 3824	VD: dilatado
+T19	ENFERMEDAD 4028 4111	Drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior
+T20	ENFERMEDAD 4942 5054	conexión venosa pulmonar anómala (CVPA) por drenaje de la vena pulmonar superior derecha a la vena cava superior
+T21	ENFERMEDAD 5149 5172	shunt izquierda-derecha
+T22	ENFERMEDAD 5741 5764	shunt izquierda-derecha
+T23	ENFERMEDAD 6265 6361	Conexión venosa pulmonar anómala: drenaje de vena pulmonar superior derecha a vena cava superior
+T24	ENFERMEDAD 6363 6448	Shunt izquierda-derecha significativo con sobrecarga de volumen de ventrículo derecho
+T25	ENFERMEDAD 1633 1658	episodios taquiarrítmicos
+T26	ENFERMEDAD 4976 4980	CVPA
+T27	ENFERMEDAD 2771 2779	bloqueos
+T28	ENFERMEDAD 1244 1276	dilatación de cavidades derechas
+T29	ENFERMEDAD 1877 1909	dilatación de cavidades derechas
+T30	ENFERMEDAD 2407 2420	preexcitación
+T31	ENFERMEDAD 4113 4151	AI: área de 21 cm2, levemente dilatada
+T32	ENFERMEDAD 4153 4191	AD: área de 29 cm2, levemente dilatada
+T33	PROCEDIMIENTO 488 505	maniobras vagales
+T34	PROCEDIMIENTO 548 566	exploración física
+T35	PROCEDIMIENTO 694 724	tratamiento con betabloqueante
+T36	PROCEDIMIENTO 768 786	Holter de 24 horas
+T37	PROCEDIMIENTO 789 817	ecocardiograma transtorácico
+T38	PROCEDIMIENTO 819 822	ETT
+T39	PROCEDIMIENTO 1019 1036	maniobras vagales
+T40	PROCEDIMIENTO 1217 1220	ETT
+T41	PROCEDIMIENTO 1340 1361	test de suero agitado
+T42	PROCEDIMIENTO 1480 1498	Holter de 24 horas
+T43	PROCEDIMIENTO 1695 1712	electrofisiología
+T44	PROCEDIMIENTO 1793 1827	resonancia magnética (RM) cardiaca
+T45	PROCEDIMIENTO 1923 1940	electrofisiología
+T46	PROCEDIMIENTO 1962 1988	estudio electrofisiológico
+T47	PROCEDIMIENTO 1991 2009	ablación ante TPSV
+T48	PROCEDIMIENTO 2108 2125	maniobras vagales
+T49	PROCEDIMIENTO 2152 2170	Electrocardiograma
+T50	PROCEDIMIENTO 2172 2175	ECG
+T51	PROCEDIMIENTO 2368 2371	ECG
+T52	PROCEDIMIENTO 2648 2709	Holter de 24 horas: registro electrocardiográfico de 24 horas
+T53	PROCEDIMIENTO 2858 2861	ETT
+T54	PROCEDIMIENTO 3226 3247	ETT con suero agitado
+T55	PROCEDIMIENTO 3382 3402	maniobra de Valsalva
+T56	PROCEDIMIENTO 3465 3475	RM corazón
+T57	PROCEDIMIENTO 4366 4468	Cuantificación de flujo en arteria pulmonar principal (codificación de velocidad en contraste de fase)
+T58	PROCEDIMIENTO 4636 4662	estudio electrofisiológico
+T59	PROCEDIMIENTO 4803 4831	ablación con radiofrecuencia
+T60	PROCEDIMIENTO 4903 4914	RM cardiaca
+T61	PROCEDIMIENTO 5491 5512	reparación quirúrgica
+T62	PROCEDIMIENTO 6126 6145	cateterismo derecho
+T63	PROCEDIMIENTO 6164 6184	estudio hemodinámico
+T64	PROCEDIMIENTO 6204 6220	cirugía cardiaca
+T65	PROCEDIMIENTO 6511 6539	Ablación con radiofrecuencia
+T66	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T67	PROCEDIMIENTO 1815 1817	RM
+T68	PROCEDIMIENTO 2457 2466	Analítica
+T69	PROCEDIMIENTO 1732 1740	ablación
+T70	PROCEDIMIENTO 3265 3298	inyección de suero salino agitado
+T71	PROCEDIMIENTO 4193 4281	Cuantificación de flujo en raíz aórtica (codificación de velocidad en contraste de fase)
+T72	PROCEDIMIENTO 5251 5259	ablación
+T73	SINTOMA 136 169	factores de riesgo cardiovascular
+T74	SINTOMA 397 410	palpitaciones
+T75	SINTOMA 941 954	palpitaciones
+T76	SINTOMA 1502 1515	ritmo sinusal
+T77	SINTOMA 2191 2213	ritmo supraventricular
+T78	SINTOMA 2228 2242	latido sinusal
+T79	SINTOMA 2301 2313	QRS estrecho
+T80	SINTOMA 2327 2366	Descenso de 1mm de segmento ST de V3-V5
+T81	SINTOMA 2379 2392	ritmo sinusal
+T82	SINTOMA 2711 2724	Ritmo sinusal
+T83	SINTOMA 2973 3001	función sistólica conservada
+T84	SINTOMA 3139 3167	Función sistólica conservada
+T85	SINTOMA 3489 3530	VI de tamaño y función sistólica normales
+T86	SINTOMA 3619 3643	función sistólica normal
+T87	SINTOMA 6450 6480	Función sistólica de VD normal
+T88	SINTOMA 1281 1311	función sistólica de VD normal
+T89	SINTOMA 1520 1554	frecuencia cardiaca (FC) adecuadas
+T90	SINTOMA 3078 3137	Ventrículo izquierdo no dilatado con grosor parietal normal
+T91	SINTOMA 5713 5740	sobrecarga de volumen de VD
+T92	SINTOMA 4005 4026	Contractilidad normal
+T93	SINTOMA 1340 1411	test de suero agitado sin evidencia de paso de burbujas entre cavidades
+T94	SINTOMA 2261 2287	intervalos RP-PR variables
+T95	SINTOMA 3169 3190	Relajación prolongada
+T96	SINTOMA 3278 3351	suero salino agitado sin observar paso de burbujas a cavidades izquierdas
+T97	SINTOMA 5073 5116	sobrecarga de volumen de cavidades derechas
+T98	FARMACO 524 532	atenolol
+T99	FARMACO 726 736	bisoprolol
+T100	FARMACO 1155 1163	atenolol
+T101	FARMACO 2071 2085	betabloqueante
+#1	AnnotatorNotes T4	 taquicardia supraventricular
+#2	AnnotatorNotes T6	 taquicardia supraventricular
+#3	AnnotatorNotes T7	taquicardia supraventricular
+#4	AnnotatorNotes T26	conexión venosa pulmonar anómala

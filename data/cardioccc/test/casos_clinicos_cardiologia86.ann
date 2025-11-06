@@ -1,0 +1,74 @@
+T1	ENFERMEDAD 99 120	hipertensión arterial
+T2	ENFERMEDAD 122 146	diabetes mellitus tipo 2
+T3	ENFERMEDAD 971 1042	lesión isquémica en porción más posterior del lóbulo parietal izquierdo
+T4	ENFERMEDAD 1135 1151	lesión isquémica
+T5	ENFERMEDAD 1585 1624	lesiones en territorio de ACM izquierda
+T6	ENFERMEDAD 1678 1704	lesiones isquémicas agudas
+T7	ENFERMEDAD 2043 2046	FOP
+T8	ENFERMEDAD 2196 2245	infartos cerebrales parietal y frontal izquierdos
+T9	ENFERMEDAD 2578 2626	infarto agudo en territorio de la PICA izquierda
+T10	ENFERMEDAD 2764 2815	ictus isquémico cerebeloso izquierdo criptogenético
+T11	ENFERMEDAD 3383 3408	episodios cardioembólicos
+T12	ENFERMEDAD 3446 3487	Ictus isquémico criptogenético recurrente
+T13	ENFERMEDAD 152 160	alergias
+T14	ENFERMEDAD 1410 1505	estenosis de significación en los bulbos carotídeos ni en arterias carótidas interna ni externa
+T15	ENFERMEDAD 1904 1907	HVI
+T16	ENFERMEDAD 2446 2466	nistagmus horizontal
+T17	ENFERMEDAD 3423 3445	Foramen oval permeable
+T18	ENFERMEDAD 2929 2968	Adelgazamiento del septo interauricular
+T19	ENFERMEDAD 2528 2536	infartos
+T20	ENFERMEDAD 2904 2927	dilatación de cavidades
+T21	PROCEDIMIENTO 34 52	exploración física
+T22	PROCEDIMIENTO 736 745	hemograma
+T23	PROCEDIMIENTO 879 882	ECG
+T24	PROCEDIMIENTO 959 969	TC craneal
+T25	PROCEDIMIENTO 1185 1202	Ecodoppler de TSA
+T26	PROCEDIMIENTO 1357 1366	angio-RMN
+T27	PROCEDIMIENTO 1368 1384	Angio-RMN de TSA
+T28	PROCEDIMIENTO 1564 1576	RMI cerebral
+T29	PROCEDIMIENTO 1734 1762	Ecocardiograma transtorácico
+T30	PROCEDIMIENTO 2493 2504	TAC craneal
+T31	PROCEDIMIENTO 2628 2648	Estudio cardiológico
+T32	PROCEDIMIENTO 2691 2721	ecocardiografía transesofágica
+T33	PROCEDIMIENTO 2723 2726	ETE
+T34	PROCEDIMIENTO 2877 2880	ETE
+T35	PROCEDIMIENTO 754 765	coagulación
+T36	PROCEDIMIENTO 3101 3114	doppler color
+T37	PROCEDIMIENTO 774 784	Bioquímica
+T38	PROCEDIMIENTO 3116 3217	Se efectúa ecocontraste con solución coloidal agitada tanto basalmente como tras maniobra de Valsalva
+T39	PROCEDIMIENTO 725 734	Analítica
+T40	PROCEDIMIENTO 1916 1960	Se inyecta SSF por vía endovenosa periférica
+T41	SINTOMA 301 335	adormecimiento en miembro superior
+T42	SINTOMA 450 460	Consciente
+T43	SINTOMA 462 471	orientado
+T44	SINTOMA 473 479	alerta
+T45	SINTOMA 481 496	Lenguaje normal
+T46	SINTOMA 512 536	Pares craneales normales
+T47	SINTOMA 538 577	Paresia en MSD 3/5 e hipoestesia ligera
+T48	SINTOMA 579 603	Tonos cardiacos rítmicos
+T49	SINTOMA 608 614	soplos
+T50	SINTOMA 616 629	MV conservado
+T51	SINTOMA 655 684	edemas en miembros inferiores
+T52	SINTOMA 736 752	hemograma normal
+T53	SINTOMA 754 772	coagulación normal
+T54	SINTOMA 884 897	ritmo sinusal
+T55	SINTOMA 924 957	alteraciones de la repolarización
+T56	SINTOMA 2119 2139	hipoestesia en brazo
+T57	SINTOMA 2366 2385	cuadro vertiginosos
+T58	SINTOMA 2387 2394	vómitos
+T59	SINTOMA 2396 2405	disartria
+T60	SINTOMA 2408 2434	inestabilidad de la marcha
+T61	SINTOMA 2628 2655	Estudio cardiológico normal
+T62	SINTOMA 498 510	MOE normales
+T63	SINTOMA 908 918	eje normal
+T64	SINTOMA 1053 1122	imagen hipodensa de morfología triangular en lóbulo frontal izquierdo
+T65	SINTOMA 1977 2029	paso de burbujas a través del tabique interauricular
+T66	SINTOMA 3230 3283	paso temprano de microburbujas a cavidades izquierdas
+T67	FARMACO 201 235	insulina Lantus 24 UI/24h y rápida
+T68	FARMACO 245 253	losartán
+T69	FARMACO 2291 2296	Adiro
+T70	FARMACO 2310 2323	atorvastatina
+T71	FARMACO 2835 2842	Sintrom
+T72	FARMACO 2859 2864	Adiro
+#1	AnnotatorNotes T7	 FOP: foramen oval permeable
+#2	AnnotatorNotes T15	 HVI: hipertrofia ventricular izquierda

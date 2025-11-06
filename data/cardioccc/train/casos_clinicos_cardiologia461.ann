@@ -1,0 +1,126 @@
+T1	DISEASE 266 273	fumador
+T2	DISEASE 96 112	diabético tipo 2
+T3	DISEASE 202 235	insuficiencia cardiaca congestiva
+T4	DISEASE 237 240	ICC
+T5	DISEASE 344 353	sobrepeso
+T6	DISEASE 379 398	síndrome metabólico
+T7	DISEASE 405 415	hipertenso
+T8	DISEASE 418 438	hipercolesterolémico
+T9	DISEASE 592 621	infarto de miocardio inferior
+T10	DISEASE 800 817	colitis isquémica
+T11	DISEASE 824 839	úlcera gástrica
+T12	DISEASE 916 944	infarto sin elevación del ST
+T13	DISEASE 972 987	sangrado rectal
+T14	DISEASE 1052 1099	enfermedad arterial coronaria severa de 3 vasos
+T15	DISEASE 1101 1133	oclusión de descendente anterior
+T16	DISEASE 1149 1215	lesión severa de circunfleja proximal y de primera obtusa marginal
+T17	DISEASE 1261 1290	oclusión de coronaria derecha
+T18	DISEASE 1817 1820	ICC
+T19	DISEASE 2107 2135	descompensación de ICC grave
+T20	DISEASE 2152 2186	edema agudo de pulmón hipertensivo
+T21	DISEASE 2466 2487	fibrilación auricular
+T22	DISEASE 2918 2970	disfunción sistólica moderada del ventrículo derecho
+T23	DISEASE 3709 3734	descompensaciones por ICC
+T24	DISEASE 3774 3793	síndrome metabólico
+T25	DISEASE 4058 4078	cardiomegalia global
+T26	DISEASE 4158 4173	derrame cisural
+T27	DISEASE 4219 4240	fibrilación auricular
+T28	DISEASE 4568 4577	aneurisma
+T29	DISEASE 5011 5031	Insuficiencia ligera
+T30	DISEASE 5104 5124	Insuficiencia ligera
+T31	DISEASE 5322 5341	derrame pericárdico
+T32	DISEASE 5481 5519	Descendente anterior: oclusión crónica
+T33	DISEASE 6317 6406	enfermedad coronaria severa de 3 vasos (oclusión crónica de DA y CD), lesión severa de Cx
+T34	DISEASE 7335 7381	miocardiopatía dilatada de etiología isquémica
+T35	DISEASE 7891 7894	ICC
+T36	DISEASE 8517 8547	Insuficiencia cardiaca crónica
+T37	DISEASE 8609 8683	Cardiopatía isquémica crónica con enfermedad arterial coronaria de 3 vasos
+T38	DISEASE 8727 8762	Infarto crónico inferior y anterior
+T39	DISEASE 8948 8965	Diabetes mellitus
+T40	DISEASE 9013 9034	Hipertensión arterial
+T41	DISEASE 9036 9046	Dislipemia
+T42	DISEASE 9062 9081	Síndrome metabólico
+T43	DISEASE 7579 7631	Disfunción sistólica moderada del ventrículo derecho
+T44	DISEASE 9048 9060	Extabaquismo
+T45	DISEASE 8888 8920	Fibrilación auricular permanente
+T46	DISEASE 5033 5060	Válvula aórtica esclerosada
+T47	DISEASE 712 744	fibrilación auricular permanente
+T48	DISEASE 1223 1249	lesión severa de bisectriz
+T49	DISEASE 4360 4403	ventrículo izquierdo moderadamente dilatado
+T50	DISEASE 4695 4734	Aurícula izquierda ligeramente dilatada
+T51	DISEASE 4736 4773	Aurícula derecha ligeramente dilatada
+T52	DISEASE 4775 4814	Ventrículo derecho severamente dilatado
+T53	DISEASE 4901 4964	Válvula mitral con calcio en anillo, engrosamiento de los velos
+T54	DISEASE 5254 5281	Vena cava inferior dilatada
+T55	DISEASE 6475 6516	ventrículo izquierdo severamente dilatado
+T56	DISEASE 7057 7098	Aurícula izquierda moderadamente dilatada
+T57	DISEASE 7130 7167	Aurícula derecha ligeramente dilatada
+T58	DISEASE 6086 6112	ateromatosis ligera difusa
+T59	DISEASE 5343 5359	Grasa epicárdica
+T60	DISEASE 5865 5883	lesión calcificada
+T61	DISEASE 6020 6049	enfermedad severa calcificada
+T62	PROCEDURE 745 775	anticoagulada con acenocumarol
+T63	PROCEDURE 1026 1041	coronariografía
+T64	PROCEDURE 1303 1331	ecocardiograma transtorácico
+T65	PROCEDURE 1500 1538	cirugía de revascularización coronaria
+T66	PROCEDURE 1578 1715	implante de cuatro injertos vasculares (arteria mamaria a DA distal, vena safena en "Y" a bisectriz y OM1 y vena safena a CD media-distal
+T67	PROCEDURE 2232 2264	ventilación mecánica no invasiva
+T68	PROCEDURE 2266 2270	VMNI
+T69	PROCEDURE 2420 2438	electrocardiograma
+T70	PROCEDURE 2660 2675	coronariografía
+T71	PROCEDURE 2743 2772	resonancia magnética cardiaca
+T72	PROCEDURE 3068 3148	implante de un desfibrilador automático implantable (DAI) monocameral subcutáneo
+T73	PROCEDURE 3316 3331	perfil lipídico
+T74	PROCEDURE 3591 3628	tratamiento con antidiabéticos orales
+T75	PROCEDURE 4010 4056	Radiografía de tórax posteroanterior y lateral
+T76	PROCEDURE 4185 4197	esternotomía
+T77	PROCEDURE 4199 4217	Electrocardiograma
+T78	PROCEDURE 4330 4358	Ecocardiograma transtorácico
+T79	PROCEDURE 5408 5423	Coronariografía
+T80	PROCEDURE 6444 6473	Resonancia magnética cardiaca
+T81	PROCEDURE 7977 7998	tratamiento diurético
+T82	PROCEDURE 8578 8607	resonancia magnética cardiaca
+T83	PROCEDURE 8654 8725	arterial coronaria de 3 vasos revascularizada mediante cuádruple bypass
+T84	PROCEDURE 2328 2361	soporte inotrópico con dobutamina
+T85	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T86	PROCEDURE 8921 8946	anticoagulada con sintrom
+T87	PROCEDURE 8044 8061	descargas del DAI
+T88	PROCEDURE 8462 8478	descargas de DAI
+T89	PROCEDURE 8838 8863	DAI monocameral Biotronik
+T90	SYMPTOM 4080 4111	aumento de trama broncovascular
+T91	SYMPTOM 4360 4438	ventrículo izquierdo moderadamente dilatado, con espesores parietales normales
+T92	SYMPTOM 4440 4486	Función sistólica global severamente deprimida
+T93	SYMPTOM 5126 5168	Válvula tricúspide morfológicamente normal
+T94	SYMPTOM 6578 6624	Función sistólica global severamente deprimida
+T95	SYMPTOM 6638 6674	Aquinesia y adelgazamiento del septo
+T96	SYMPTOM 7238 7286	función sistólica global moderadamente deprimida
+T97	SYMPTOM 7386 7432	función sistólica global severamente deprimida
+T98	SYMPTOM 4127 4156	edema intersticial y alveolar
+T99	SYMPTOM 928 944	elevación del ST
+T100	SYMPTOM 1348 1423	fracción del eyección del ventrículo izquierdo (FEVI) severamente deprimida
+T101	SYMPTOM 4522 4558	Aquinesia y adelgazamiento del septo
+T102	SYMPTOM 6731 6757	Aquinesia de cara inferior
+T103	SYMPTOM 7178 7208	Ventrículo derecho no dilatado
+T104	SYMPTOM 7291 7310	hipoquinesia global
+T105	SYMPTOM 5439 5457	dominancia derecha
+T106	SYMPTOM 6145 6163	dominancia derecha
+T107	SYMPTOM 5459 5479	Tronco: sin lesiones
+T108	MEDICATION 156 166	metformina
+T109	MEDICATION 474 483	enalapril
+T110	MEDICATION 495 505	bisoprolol
+T111	MEDICATION 518 531	atorvastatina
+T112	MEDICATION 763 775	acenocumarol
+T113	MEDICATION 1955 1965	furosemida
+T114	MEDICATION 1985 2000	espironolactona
+T115	MEDICATION 2351 2361	dobutamina
+T116	MEDICATION 2400 2412	levosimendán
+T117	MEDICATION 3198 3207	enalapril
+T118	MEDICATION 3220 3230	bisoprolol
+T119	MEDICATION 3242 3252	furosemida
+T120	MEDICATION 3265 3280	espironolactona
+T121	MEDICATION 3838 3862	metformina empaglifozina
+T122	MEDICATION 8010 8020	furosemida
+T123	MEDICATION 8161 8174	empaglifozina
+T124	MEDICATION 8939 8946	sintrom
+T125	MEDICATION 8985 8995	metformina
+T126	MEDICATION 8998 9011	empaglifozina

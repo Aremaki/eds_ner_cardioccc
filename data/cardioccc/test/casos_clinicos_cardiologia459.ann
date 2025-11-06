@@ -1,0 +1,110 @@
+T1	ENFERMEDAD 89 101	hipertensión
+T2	ENFERMEDAD 103 113	dislipemia
+T3	ENFERMEDAD 117 125	obesidad
+T4	ENFERMEDAD 211 235	diabetes mellitus tipo 2
+T5	ENFERMEDAD 357 366	exfumador
+T6	ENFERMEDAD 458 526	cardiopatía isquémica crónica con enfermedad coronaria de tres vasos
+T7	ENFERMEDAD 597 613	infarto inferior
+T8	ENFERMEDAD 690 746	infarto agudo de miocardio sin elevación del segmento ST
+T9	ENFERMEDAD 1189 1242	reestenosis del stent implantado previamente en la Cx
+T10	ENFERMEDAD 1304 1322	angina de esfuerzo
+T11	ENFERMEDAD 1547 1561	polineuropatía
+T12	ENFERMEDAD 1563 1587	enfermedad renal crónica
+T13	ENFERMEDAD 1608 1685	isquemia crónica de miembros inferiores con oclusión femoropoplitea bilateral
+T14	ENFERMEDAD 1766 1779	EPOC moderado
+T15	ENFERMEDAD 1810 1820	SAHS grave
+T16	ENFERMEDAD 2055 2068	pie diabético
+T17	ENFERMEDAD 2631 2674	3er dedo tenía también una lesión necrótica
+T18	ENFERMEDAD 2749 2764	BAV de 1o grado
+T19	ENFERMEDAD 3483 3496	valvulopatías
+T20	ENFERMEDAD 3586 3605	derrame pericárdico
+T21	ENFERMEDAD 3693 3723	Enfermedad coronaria multivaso
+T22	ENFERMEDAD 3874 3887	pie diabético
+T23	ENFERMEDAD 4319 4344	angina de esfuerzos leves
+T24	ENFERMEDAD 4674 4680	angina
+T25	ENFERMEDAD 4683 4717	pie diabético con isquemia crónica
+T26	ENFERMEDAD 5017 5075	Cardiopatía isquémica crónica con enfermedad de tres vasos
+T27	ENFERMEDAD 5132 5169	Enfermedad difusa de vasos terciarios
+T28	ENFERMEDAD 5171 5189	Angina refractaria
+T29	ENFERMEDAD 5191 5230	Isquemia crónica de miembros inferiores
+T30	ENFERMEDAD 5232 5245	Pie diabético
+T31	ENFERMEDAD 5247 5271	Enfermedad renal crónica
+T32	ENFERMEDAD 5273 5277	EPOC
+T33	ENFERMEDAD 5312 5316	SAHS
+T34	ENFERMEDAD 5327 5362	Diabetes tipo 2 insulinodependiente
+T35	ENFERMEDAD 5364 5367	HTA
+T36	ENFERMEDAD 5369 5379	Dislipemia
+T37	ENFERMEDAD 5381 5389	Obesidad
+T38	ENFERMEDAD 5436 5450	angina estable
+T39	ENFERMEDAD 748 755	IAMSEST
+T40	ENFERMEDAD 2154 2170	angina de reposo
+T41	ENFERMEDAD 4938 4944	angina
+T42	ENFERMEDAD 2781 2785	HBAI
+T43	ENFERMEDAD 996 1028	malos lechos vasculares distales
+T44	ENFERMEDAD 1492 1538	afectación metadiabética micro y macrovascular
+T45	ENFERMEDAD 2494 2614	miembros inferiores y el 1er y 2o dedos izquierdos presentaban eritrocianosis establecida, junto con lesiones necróticas
+T46	ENFERMEDAD 3728 3749	malos lechos distales
+T47	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDIMIENTO 597 678	infarto inferior revascularizado con angioplastia primaria a la coronaria derecha
+T49	PROCEDIMIENTO 785 921	revascularización percutánea con stents farmacoactivos en la descendente anterior (DA), coronaria derecha nativa (CD) y circunfleja (Cx)
+T50	PROCEDIMIENTO 963 991	cirugía de revascularización
+T51	PROCEDIMIENTO 1123 1141	implante de stents
+T52	PROCEDIMIENTO 1832 1859	tratamiento con inhaladores
+T53	PROCEDIMIENTO 1861 1881	oxígeno domiciliario
+T54	PROCEDIMIENTO 1901 1914	CPAP nocturna
+T55	PROCEDIMIENTO 1959 2011	amputación de 4a y 5a metatarsofalángicas izquierdas
+T56	PROCEDIMIENTO 2250 2258	opioides
+T57	PROCEDIMIENTO 2265 2283	exploración física
+T58	PROCEDIMIENTO 2434 2461	auscultación cardiopulmonar
+T59	PROCEDIMIENTO 2720 2723	ECG
+T60	PROCEDIMIENTO 2874 2893	Analítica sanguínea
+T61	PROCEDIMIENTO 3077 3091	Ecocardiograma
+T62	PROCEDIMIENTO 3633 3648	Coronariografía
+T63	PROCEDIMIENTO 3813 3830	revascularización
+T64	PROCEDIMIENTO 3857 3887	curas locales de pie diabético
+T65	PROCEDIMIENTO 4115 4125	analgésico
+T66	PROCEDIMIENTO 4536 4668	terapia de estimulación de médula espinal con dos electrodos epidurales posteriores a nivel cervicotorácico (C7-T4) y lumbar (T9-L2)
+T67	PROCEDIMIENTO 4758 4831	se coloca un generador en bolsillo subcutáneo a nivel de flanco izquierdo
+T68	PROCEDIMIENTO 5070 5130	vasos revascularizada de forma mixta percutánea y quirúrgica
+T69	PROCEDIMIENTO 5321 5325	CPAP
+T70	PROCEDIMIENTO 5492 5526	amputación infrapoplítea izquierda
+T71	PROCEDIMIENTO 3901 3918	ciclo antibiótico
+T72	PROCEDIMIENTO 2352 2370	constantes vitales
+T73	PROCEDIMIENTO 3931 3954	medicación antianginosa
+T74	PROCEDIMIENTO 5282 5310	oxígeno crónico domiciliario
+T75	PROCEDIMIENTO 2414 2416	GN
+T76	PROCEDIMIENTO 1403 1427	tratamiento antianginoso
+T77	PROCEDIMIENTO 492 542	enfermedad coronaria de tres vasos revascularizada
+T78	SINTOMA 721 746	elevación del segmento ST
+T79	SINTOMA 2201 2218	dolor en los pies
+T80	SINTOMA 2297 2316	buen estado general
+T81	SINTOMA 2338 2346	eupneico
+T82	SINTOMA 2434 2473	auscultación cardiopulmonar era anodina
+T83	SINTOMA 2484 2513	edemas en miembros inferiores
+T84	SINTOMA 2725 2738	ritmo sinusal
+T85	SINTOMA 2867 2872	dolor
+T86	SINTOMA 2938 2958	coagulación normales
+T87	SINTOMA 2983 2997	iones normales
+T88	SINTOMA 2999 3075	seriación de troponina T US 26 - 25 (normal < 10 ng/l) , CK y CK-MB normales
+T89	SINTOMA 3093 3125	ventrículo izquierdo no dilatado
+T90	SINTOMA 3410 3440	Ventrículo derecho no dilatado
+T91	SINTOMA 3446 3477	función sistólica global normal
+T92	SINTOMA 4373 4386	dolor en MMII
+T93	SINTOMA 2494 2571	miembros inferiores y el 1er y 2o dedos izquierdos presentaban eritrocianosis
+T94	SINTOMA 3176 3258	Aquinesia basal inferior y de los segmentos basal y medio de cara lateral inferior
+T95	SINTOMA 3260 3291	Hipoquinesia del septo inferior
+T96	SINTOMA 3607 3631	Raíz aórtica no dilatada
+T97	SINTOMA 3513 3543	Vena cava inferior no dilatada
+T98	FARMACO 256 264	insulina
+T99	FARMACO 1861 1868	oxígeno
+T100	FARMACO 3975 3985	bisoprolol
+T101	FARMACO 3997 4007	amlodipino
+T102	FARMACO 4019 4032	Uniket retard
+T103	FARMACO 4044 4054	ranolazina
+T104	FARMACO 4069 4079	ivabradina
+T105	FARMACO 4141 4152	paracetamol
+T106	FARMACO 4160 4169	metamizol
+T107	FARMACO 4189 4198	fentanilo
+T108	FARMACO 4214 4221	morfina
+T109	FARMACO 4224 4227	NTG
+T110	FARMACO 286 292	lantus

@@ -1,0 +1,84 @@
+T1	ENFERMEDAD 1611 1625	organomegalias
+T2	ENFERMEDAD 137 158	hipertensión arterial
+T3	ENFERMEDAD 160 170	dislipemia
+T4	ENFERMEDAD 215 303	Arteriopatía periférica con ateromatosis significativa de la arteria femoral superficial
+T5	ENFERMEDAD 384 396	Poliartrosis
+T6	ENFERMEDAD 462 473	apendicitis
+T7	ENFERMEDAD 1692 1699	ascitis
+T8	ENFERMEDAD 1747 1775	insuficiencia venosa crónica
+T9	ENFERMEDAD 3632 3665	patología a nivel retroperitoneal
+T10	ENFERMEDAD 3893 3949	infarto agudo de miocardio sin elevación del segmento ST
+T11	ENFERMEDAD 4069 4135	arteria coronaria derecha ostial, que presentaba una lesión ostial
+T12	ENFERMEDAD 5300 5313	rabdomiolisis
+T13	ENFERMEDAD 5316 5355	fracaso renal agudo de perfil prerrenal
+T14	ENFERMEDAD 5498 5523	patología retroperitoneal
+T15	ENFERMEDAD 5556 5611	hepatitis tóxica y rabdomiolisis en relación a estatina
+T16	ENFERMEDAD 5984 6040	Infarto agudo de miocardio sin elevación del segmento ST
+T17	ENFERMEDAD 6042 6114	Hepatitis tóxica y rabdomiolisis en relación a tratamiento con estatinas
+T18	ENFERMEDAD 55 90	reacciones alérgicas a medicamentos
+T19	ENFERMEDAD 3523 3578	lesiones ocupantes de espacio en el parénquima hemático
+T20	PROCEDIMIENTO 330 341	angiografía
+T21	PROCEDIMIENTO 1323 1363	saturación de oxígeno por pulsioximetría
+T22	PROCEDIMIENTO 1414 1437	Exploración neurológica
+T23	PROCEDIMIENTO 1469 1490	auscultación cardiaca
+T24	PROCEDIMIENTO 1516 1537	auscultación pulmonar
+T25	PROCEDIMIENTO 1574 1595	exploración abdominal
+T26	PROCEDIMIENTO 3131 3149	Electrocardiograma
+T27	PROCEDIMIENTO 3358 3378	Ecografía de abdomen
+T28	PROCEDIMIENTO 3465 3506	Tomografía computarizada abdomino-pélvica
+T29	PROCEDIMIENTO 3997 4101	coronariografía preferente con implante de un stent farmacoactivo en la arteria coronaria derecha ostial
+T30	PROCEDIMIENTO 4209 4238	ecocardiografía transtorácica
+T31	PROCEDIMIENTO 4491 4517	tratamiento hipolipemiante
+T32	PROCEDIMIENTO 5407 5427	ecografía de abdomen
+T33	PROCEDIMIENTO 5430 5442	TC abdominal
+T34	PROCEDIMIENTO 1209 1227	EXPLORACIÓN FÍSICA
+T35	PROCEDIMIENTO 2827 2843	Inmunoglobulinas
+T36	PROCEDIMIENTO 2187 2192	Iones
+T37	PROCEDIMIENTO 2804 2809	Iones
+T38	PROCEDIMIENTO 2891 2904	Proteinograma
+T39	PROCEDIMIENTO 1949 1960	coagulación
+T40	PROCEDIMIENTO 2554 2565	coagulación
+T41	PROCEDIMIENTO 2846 2857	complemento
+T42	PROCEDIMIENTO 5603 5612	estatinas
+T43	PROCEDIMIENTO 6089 6114	tratamiento con estatinas
+T44	PROCEDIMIENTO 2210 2236	Seriación de biomarcadores
+T45	PROCEDIMIENTO 4813 4822	analítica
+T46	PROCEDIMIENTO 5120 5129	analítica
+T47	PROCEDIMIENTO 4321 4344	doblemente antiagregada
+T48	SINTOMA 783 826	dolor torácico y localización retroesternal
+T49	SINTOMA 966 984	cortejo vegetativo
+T50	SINTOMA 1053 1134	molestias epigástricas frecuentes, con irradiación a precordio y miembro superior
+T51	SINTOMA 1414 1454	Exploración neurológica sin alteraciones
+T52	SINTOMA 1469 1498	auscultación cardiaca rítmica
+T53	SINTOMA 1504 1510	soplos
+T54	SINTOMA 1542 1566	hipofonesis generalizada
+T55	SINTOMA 1630 1664	reflujo hepatoyugular fue negativo
+T56	SINTOMA 2187 2208	Iones en rango normal
+T57	SINTOMA 2535 2565	alteraciones de la coagulación
+T58	SINTOMA 2804 2825	Iones en rango normal
+T59	SINTOMA 3174 3187	ritmo sinusal
+T60	SINTOMA 3251 3277	QRS estrecho de eje normal
+T61	SINTOMA 3279 3331	Descenso del segmento ST inframilimétrico de V4 a V6
+T62	SINTOMA 3380 3422	hígado de morfología y ecogenicidad normal
+T63	SINTOMA 3924 3949	elevación del segmento ST
+T64	SINTOMA 4741 4784	dolor lumbar irradiado hacia el hemiabdomen
+T65	SINTOMA 4853 4873	hipertransaminasemia
+T66	SINTOMA 5033 5040	astenia
+T67	SINTOMA 5042 5090	debilidad predominantemente en cintura escapular
+T68	SINTOMA 5268 5288	hipertransaminasemia
+T69	SINTOMA 6015 6040	elevación del segmento ST
+T70	SINTOMA 1393 1412	taquipnea en reposo
+T71	SINTOMA 2964 3129	Negatividad en el estudio para: anticuerpos anti-nucleares (ANA), anticuerpos anti-mitocondriales (AMA), anticuerpos anti-músculo liso (AML) y anticuerpos anti-LKM-1
+T72	SINTOMA 2827 2889	Inmunoglobulinas y complemento sin alteraciones significativas
+T73	SINTOMA 3215 3249	conducción auriculoventricular 1:1
+T74	SINTOMA 3667 3727	Riñones con muescas corticales de tamaño u morfología normal
+T75	SINTOMA 5910 5969	transaminasas y creatinfosfoquinasa dentro de la normalidad
+T76	FARMACO 511 533	ácido acetilsalicílico
+T77	FARMACO 556 567	clopidogrel
+T78	FARMACO 589 598	enalapril
+T79	FARMACO 620 630	doxazosina
+T80	FARMACO 651 663	simvastatina
+T81	FARMACO 685 696	pantoprazol
+T82	FARMACO 4447 4457	bisoprolol
+T83	FARMACO 4529 4542	atorvastatina
+T84	FARMACO 5701 5710	ezetimiba

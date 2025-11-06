@@ -1,0 +1,135 @@
+T1	DISEASE 218 228	hipertensa
+T2	DISEASE 230 238	Artrosis
+T3	DISEASE 271 280	cataratas
+T4	DISEASE 362 373	cardiopatía
+T5	DISEASE 531 585	síndrome coronario agudo con elevación del segmento ST
+T6	DISEASE 587 594	SCACEST
+T7	DISEASE 2304 2327	hipertrofia ventricular
+T8	DISEASE 3594 3619	Insuficiencia tricuspídea
+T9	DISEASE 3792 3811	derrame pericárdico
+T10	DISEASE 4384 4441	obstrucción del tracto de salida del ventrículo izquierdo
+T11	DISEASE 4995 5019	síndrome coronario agudo
+T12	DISEASE 5050 5080	alérgica a aspirina y trifusal
+T13	DISEASE 5632 5654	síndrome de tako-tsubo
+T14	DISEASE 5981 6003	insuficiencia cardiaca
+T15	DISEASE 6117 6144	miocardiopatía hipertrófica
+T16	DISEASE 6270 6297	miocardiopatía hipertrófica
+T17	DISEASE 6898 6981	Síndrome de tako-tsubo con obstrucción en tracto de salida del ventrículo izquierdo
+T18	DISEASE 7025 7035	HVI septal
+T19	DISEASE 97 165	Alergias: idiosincrasia a múltiples antiinflamatorios no esteroideos
+T20	DISEASE 2400 2415	HVI concéntrica
+T21	DISEASE 4318 4336	Hipertrofia septal
+T22	DISEASE 4228 4230	IM
+T23	DISEASE 4519 4550	IM con leve dilatación de la AI
+T24	DISEASE 6792 6794	IM
+T25	DISEASE 6984 7008	IM significativa por SAM
+T26	DISEASE 3621 3623	IT
+T27	DISEASE 3228 3254	SAM completo que genera IM
+T28	DISEASE 2329 2332	HVI
+T29	DISEASE 2424 2437	Disfunción VI
+T30	DISEASE 2923 2967	Aurícula izquierda (AI) ligeramente dilatada
+T31	DISEASE 4204 4226	Disfunción VI moderada
+T32	DISEASE 5549 5574	disfunción moderada de VI
+T33	DISEASE 380 393	muerte súbita
+T34	DISEASE 5775 5783	necrosis
+T35	DISEASE 3943 3979	Segmento intramiocárdico de DA media
+T36	PROCEDURE 133 165	antiinflamatorios no esteroideos
+T37	PROCEDURE 167 171	AINE
+T38	PROCEDURE 1189 1207	EXPLORACIÓN FÍSICA
+T39	PROCEDURE 1334 1355	Auscultación cardiaca
+T40	PROCEDURE 1450 1471	Auscultación pulmonar
+T41	PROCEDURE 1637 1657	RADIOGRAFÍA DE TÓRAX
+T42	PROCEDURE 1715 1718	ECG
+T43	PROCEDURE 2152 2163	Coagulación
+T44	PROCEDURE 2272 2286	ECOCARDIOGRAMA
+T45	PROCEDURE 2738 2759	maniobras de Valsalva
+T46	PROCEDURE 3446 3453	Doppler
+T47	PROCEDURE 3863 3878	CORONARIOGRAFÍA
+T48	PROCEDURE 4053 4069	Ventriculografía
+T49	PROCEDURE 4243 4255	RMN CARDIACA
+T50	PROCEDURE 4552 4566	ECOCARDIOGRAMA
+T51	PROCEDURE 4606 4620	ecocardiograma
+T52	PROCEDURE 4774 4777	eco
+T53	PROCEDURE 5274 5300	intervencionismo coronario
+T54	PROCEDURE 5313 5328	coronariografía
+T55	PROCEDURE 5395 5411	ventriculografía
+T56	PROCEDURE 5842 5872	tratamiento con betabloqueante
+T57	PROCEDURE 6060 6086	antiagregación plaquetaria
+T58	PROCEDURE 6157 6174	cardiorresonancia
+T59	PROCEDURE 6473 6491	exploración física
+T60	PROCEDURE 6545 6548	ECG
+T61	PROCEDURE 6658 6672	ecocardiograma
+T62	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 2173 2189	Función tiroidea
+T64	PROCEDURE 2199 2221	Metabolismo del hierro
+T65	PROCEDURE 4643 4657	betabloqueante
+T66	PROCEDURE 5102 5134	cateterismo cardiaco diagnóstico
+T67	PROCEDURE 1964 1973	ANALÍTICA
+T68	PROCEDURE 240 280	Intervenida quirúrgicamente de cataratas
+T69	PROCEDURE 5227 5255	desensibilización a aspirina
+T70	SYMPTOM 560 585	elevación del segmento ST
+T71	SYMPTOM 683 731	dolor opresivo centrotorácico irradiado a cuello
+T72	SYMPTOM 944 962	cortejo vegetativo
+T73	SYMPTOM 1035 1045	presíncope
+T74	SYMPTOM 1157 1186	disnea de moderados esfuerzos
+T75	SYMPTOM 1305 1312	Afebril
+T76	SYMPTOM 1314 1332	Eupneica en reposo
+T77	SYMPTOM 1334 1364	Auscultación cardiaca: rítmica
+T78	SYMPTOM 1366 1422	soplo sistólico en borde paraesternal izquierdo inferior
+T79	SYMPTOM 1491 1519	Abdomen: blando y depresible
+T80	SYMPTOM 1525 1530	masas
+T81	SYMPTOM 1534 1542	megalias
+T82	SYMPTOM 1548 1581	edemas en extremidades inferiores
+T83	SYMPTOM 1586 1588	IY
+T84	SYMPTOM 1593 1610	soplos carotídeos
+T85	SYMPTOM 1759 1771	QRS estrecho
+T86	SYMPTOM 2152 2171	Coagulación: normal
+T87	SYMPTOM 2173 2197	Función tiroidea: normal
+T88	SYMPTOM 2288 2302	VI no dilatado
+T89	SYMPTOM 2601 2666	aceleración de flujo en tracto de salida del ventrículo izquierdo
+T90	SYMPTOM 3646 3682	Vena cava inferior (VCI) no dilatada
+T91	SYMPTOM 3817 3838	masas intracavitarias
+T92	SYMPTOM 4071 4157	hipoquinesia grave de segmentos apicales y medio de cara diafragmática y anterolateral
+T93	SYMPTOM 4257 4306	VI de tamaño normal, con función sistólica normal
+T94	SYMPTOM 4899 4930	función sistólica VI conservada
+T95	SYMPTOM 6497 6515	signos congestivos
+T96	SYMPTOM 6535 6540	soplo
+T97	SYMPTOM 6566 6589	desaparición de ondas Q
+T98	SYMPTOM 6594 6653	ondas T negativas en derivaciones inferiores y precordiales
+T99	SYMPTOM 1024 1031	síncope
+T100	SYMPTOM 4820 4843	asimetrías contráctiles
+T101	SYMPTOM 1735 1748	ritmo sinusal
+T102	SYMPTOM 1450 1489	Auscultación pulmonar: normoventilación
+T103	SYMPTOM 2199 2229	Metabolismo del hierro: normal
+T104	SYMPTOM 2496 2542	aquinesia septal media y apical e inferoapical
+T105	SYMPTOM 3002 3041	ventrículo derecho (VD) normocontráctil
+T106	SYMPTOM 3131 3163	aorta ascendente proximal normal
+T107	SYMPTOM 3720 3778	Presión arterial pulmonar sistólica (PAPs) estimada normal
+T108	SYMPTOM 4162 4202	hipercontractilidad de segmentos basales
+T109	SYMPTOM 2969 3000	Cavidades derechas no dilatadas
+T110	SYMPTOM 1637 1672	RADIOGRAFÍA DE TÓRAX: sin hallazgos
+T111	SYMPTOM 5342 5386	arterias coronarias epicárdicas sin lesiones
+T112	SYMPTOM 5786 5830	arterias coronarias epicárdicas sin lesiones
+T113	SYMPTOM 3880 3912	arterias coronarias sin lesiones
+T114	SYMPTOM 6036 6048	asintomática
+T115	SYMPTOM 6454 6466	asintomática
+T116	SYMPTOM 5708 5714	estrés
+T117	SYMPTOM 3165 3196	Válvula mitral (VM) velos finos
+T118	SYMPTOM 3484 3527	Válvula aórtica (VAo) trivalva, velos finos
+T119	SYMPTOM 4460 4507	áreas de realce tardío en el espesor miocárdico
+T120	SYMPTOM 5748 5783	elevación de marcadores de necrosis
+T121	SYMPTOM 6199 6246	áreas de realce tardío en el espesor miocárdico
+T122	MEDICATION 5061 5069	aspirina
+T123	MEDICATION 5156 5167	clopidogrel
+T124	MEDICATION 5247 5255	aspirina
+T125	MEDICATION 5874 5884	bisoprolol
+T126	MEDICATION 5072 5080	trifusal
+T127	MEDICATION 864 875	cafinitrina
+#1	AnnotatorNotes T20	hipertrofia ventricular
+#2	AnnotatorNotes T22	  insuficiencia mitral
+#3	AnnotatorNotes T23	  IM: insuficiencia mitral
+#4	AnnotatorNotes T24	  insuficiencia mitral
+#5	AnnotatorNotes T25	  SAM: movimiento anterior sistólico, IM: insuficiencia mitral
+#6	AnnotatorNotes T26	  insuficiencia tricuspide
+#7	AnnotatorNotes T27	  SAM: movimiento anterior sistólico
+#8	AnnotatorNotes T28	  hipertrofia ventricular

@@ -1,0 +1,123 @@
+T1	ENFERMEDAD 158 181	alergias medicamentosas
+T2	ENFERMEDAD 196 211	hábitos tóxicos
+T3	ENFERMEDAD 262 283	Hipopotasemia crónica
+T4	ENFERMEDAD 398 415	tubulopatía renal
+T5	ENFERMEDAD 438 453	cólicos renales
+T6	ENFERMEDAD 527 565	vértigo posicional paroxístico benigno
+T7	ENFERMEDAD 614 623	psoriasis
+T8	ENFERMEDAD 625 659	Lumboartrosis con discopatía L5-S1
+T9	ENFERMEDAD 1339 1350	adenopatías
+T10	ENFERMEDAD 1685 1710	trombosis venosa profunda
+T11	ENFERMEDAD 1712 1715	TVP
+T12	ENFERMEDAD 1718 1749	Insuficiencia venosa periférica
+T13	ENFERMEDAD 3339 3367	hipertrofia ventricular leve
+T14	ENFERMEDAD 3519 3538	síndrome de Brugada
+T15	ENFERMEDAD 3651 3671	crisis de pseudogota
+T16	ENFERMEDAD 3685 3701	condrocalcinosis
+T17	ENFERMEDAD 4526 4539	valvulopatías
+T18	ENFERMEDAD 4590 4602	canalopatías
+T19	ENFERMEDAD 4929 4942	valvulopatías
+T20	ENFERMEDAD 5072 5091	síndrome de Brugada
+T21	ENFERMEDAD 5423 5442	Síndrome de Brugada
+T22	ENFERMEDAD 5448 5471	cardiopatía estructural
+T23	ENFERMEDAD 1127 1132	angor
+T24	ENFERMEDAD 4398 4416	eventos arrítmicos
+T25	ENFERMEDAD 1134 1142	síncopes
+T26	ENFERMEDAD 599 611	liquen plano
+T27	ENFERMEDAD 4603 4618	miocardiopatías
+T28	ENFERMEDAD 2865 2900	rodillas: condocalcinosis bilateral
+T29	ENFERMEDAD 4811 4826	muertes súbitas
+T30	PROCEDIMIENTO 980 1002	anamnesis por aparatos
+T31	PROCEDIMIENTO 1182 1200	Exploración física
+T32	PROCEDIMIENTO 1391 1412	Auscultación cardiaca
+T33	PROCEDIMIENTO 1449 1470	Auscultación pulmonar
+T34	PROCEDIMIENTO 1901 1904	ECG
+T35	PROCEDIMIENTO 2492 2509	Gasometría venosa
+T36	PROCEDIMIENTO 2621 2630	Hemograma
+T37	PROCEDIMIENTO 2766 2776	Hemostasia
+T38	PROCEDIMIENTO 2850 2873	Radiografía de rodillas
+T39	PROCEDIMIENTO 2936 2939	ECG
+T40	PROCEDIMIENTO 3151 3184	corrección del magnesio y potasio
+T41	PROCEDIMIENTO 3308 3337	Ecocardiografía transtorácica
+T42	PROCEDIMIENTO 3386 3401	Test flecainida
+T43	PROCEDIMIENTO 3500 3538	Test genético para síndrome de Brugada
+T44	PROCEDIMIENTO 3597 3627	antiinflamatorio no esteroideo
+T45	PROCEDIMIENTO 3629 3633	AINE
+T46	PROCEDIMIENTO 3776 3779	ECG
+T47	PROCEDIMIENTO 3864 3867	ECG
+T48	PROCEDIMIENTO 4195 4213	test de flecainida
+T49	PROCEDIMIENTO 4373 4383	telemetría
+T50	PROCEDIMIENTO 4449 4464	ecocardiografía
+T51	PROCEDIMIENTO 4568 4618	estudio genético de p canalopatías/miocardiopatías
+T52	PROCEDIMIENTO 4852 4867	ecocardiografía
+T53	PROCEDIMIENTO 5252 5264	antitérmicos
+T54	PROCEDIMIENTO 2258 2268	Bioquímica
+T55	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 1549 1558	palpación
+T57	PROCEDIMIENTO 2209 2218	Analítica
+T58	PROCEDIMIENTO 288 298	analíticas
+T59	PROCEDIMIENTO 483 504	dieta baja en potasio
+T60	PROCEDIMIENTO 1563 1572	se palpan
+T61	PROCEDIMIENTO 1292 1307	Cabeza y cuello
+T62	PROCEDIMIENTO 3133 3136	ECG
+T63	PROCEDIMIENTO 2954 2991	corrección del magnesio y con potasio
+T64	PROCEDIMIENTO 3805 3838	corregir las alteraciones iónicas
+T65	SINTOMA 455 463	diarreas
+T66	SINTOMA 837 867	tumefacción de rodilla derecha
+T67	SINTOMA 1119 1125	disnea
+T68	SINTOMA 1144 1157	palpitaciones
+T69	SINTOMA 1160 1178	clínica congestiva
+T70	SINTOMA 1223 1232	orientado
+T71	SINTOMA 1272 1290	Eupneico en reposo
+T72	SINTOMA 1313 1334	ingurgitación yugular
+T73	SINTOMA 1362 1389	Orofaringe sin alteraciones
+T74	SINTOMA 1391 1421	Auscultación cardiaca: rítmico
+T75	SINTOMA 1427 1433	soplos
+T76	SINTOMA 1437 1447	extratonos
+T77	SINTOMA 1472 1501	murmullo vesicular conservado
+T78	SINTOMA 1573 1578	masas
+T79	SINTOMA 1582 1590	megalias
+T80	SINTOMA 1606 1627	irritación peritoneal
+T81	SINTOMA 1629 1659	Ruidos hidroaéreos conservados
+T82	SINTOMA 1665 1671	edemas
+T83	SINTOMA 1762 1791	tumefacción de ambas rodillas
+T84	SINTOMA 1797 1812	eritema cutáneo
+T85	SINTOMA 1846 1874	Dolor leve a la movilización
+T86	SINTOMA 1988 2001	ritmo sinusal
+T87	SINTOMA 2027 2036	PR normal
+T88	SINTOMA 2038 2050	QRS estrecho
+T89	SINTOMA 2197 2207	QTc normal
+T90	SINTOMA 3003 3016	ritmo sinusal
+T91	SINTOMA 3042 3051	PR normal
+T92	SINTOMA 3053 3065	QRS estrecho
+T93	SINTOMA 3067 3084	Ondas T negativas
+T94	SINTOMA 3121 3131	QTc normal
+T95	SINTOMA 3186 3199	ritmo sinusal
+T96	SINTOMA 3225 3234	PR normal
+T97	SINTOMA 3236 3248	QRS estrecho
+T98	SINTOMA 3254 3294	alteraciones agudas de la repolarización
+T99	SINTOMA 3296 3306	QTc normal
+T100	SINTOMA 3369 3384	FEVI conservada
+T101	SINTOMA 3572 3580	gonalgia
+T102	SINTOMA 3936 3987	asintomático desde el punto de vista cardiovascular
+T103	SINTOMA 4505 4520	FEVI conservada
+T104	SINTOMA 4691 4742	asintomático desde el punto de vista cardiovascular
+T105	SINTOMA 4908 4923	FEVI conservada
+T106	SINTOMA 5241 5247	fiebre
+T107	SINTOMA 1503 1558	Abdomen: blando, depresible, no doloroso a la palpación
+T108	SINTOMA 3500 3548	Test genético para síndrome de Brugada: negativo
+T109	SINTOMA 4568 4639	estudio genético de p canalopatías/miocardiopatías que resultó negativo
+T110	SINTOMA 5473 5488	FEVI conservada
+T111	SINTOMA 3818 3838	alteraciones iónicas
+T112	SINTOMA 4138 4158	alteraciones iónicas
+T113	SINTOMA 1816 1844	aumento de temperatura local
+T114	SINTOMA 1210 1220	consciente
+T115	SINTOMA 1234 1270	Bien perfundido, hidratado y nutrido
+T116	SINTOMA 930 953	semiología inflamatoria
+T117	SINTOMA 2052 2117	Ascenso del segmento ST de 2mm en V1-V2 con morfología rectilínea
+T118	SINTOMA 2168 2195	onda T negativa y simétrica
+T119	SINTOMA 3477 3491	patrón Brugada
+T120	SINTOMA 4095 4122	fenocopia de patrón Brugada
+T121	SINTOMA 4312 4326	patrón Brugada
+T122	SINTOMA 5017 5044	fenocopia de patrón Brugada
+T123	FARMACO 683 692	omeprazol

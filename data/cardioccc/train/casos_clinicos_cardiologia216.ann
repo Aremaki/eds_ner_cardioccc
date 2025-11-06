@@ -1,0 +1,186 @@
+T1	DISEASE 109 121	dislipidemia
+T2	DISEASE 139 148	sobrepeso
+T3	DISEASE 278 286	neumonía
+T4	DISEASE 309 361	Hepatopatía crónica por virus hepatitis C genotipo 1
+T5	DISEASE 643 704	Sarcoidosis sistémica secundaria a tratamiento con interferón
+T6	DISEASE 972 997	infección por VHC crónica
+T7	DISEASE 1627 1650	miocardiopatía dilatada
+T8	DISEASE 1898 1916	anemia ferropénica
+T9	DISEASE 1941 1982	insuficiencia cardiaca (IC) descompensada
+T10	DISEASE 1965 1967	IC
+T11	DISEASE 2669 2694	trombosis venosa profunda
+T12	DISEASE 2696 2699	TVP
+T13	DISEASE 3000 3003	HVI
+T14	DISEASE 4710 4737	Insuficiencia mitral ligera
+T15	DISEASE 5224 5240	edema miocárdico
+T16	DISEASE 5861 5883	lesión focal sarcoidea
+T17	DISEASE 5910 5933	miocardiopatía dilatada
+T18	DISEASE 6407 6437	derrames pleural o pericárdico
+T19	DISEASE 7276 7308	disfunción ventricular izquierda
+T20	DISEASE 7731 7742	miocarditis
+T21	DISEASE 7933 7944	sarcoidosis
+T22	DISEASE 7981 8035	sarcoidosis iatrogénica secundaria a uso de interferón
+T23	DISEASE 8116 8150	sarcoidosis pulmonar o adenopática
+T24	DISEASE 8394 8412	miocarditis tóxica
+T25	DISEASE 8454 8476	toxicidad por fármacos
+T26	DISEASE 8829 8897	disfunción ventricular izquierda al uso de antivirales contra el VHC
+T27	DISEASE 9392 9410	anemia ferropénica
+T28	DISEASE 9442 9458	pólipos en colon
+T29	DISEASE 9569 9655	disfunción ventricular izquierda grave secundaria a miocardiopatía dilatada reversible
+T30	DISEASE 9705 9716	miocarditis
+T31	DISEASE 9802 9871	miocarditis tóxica relacionada con antivirales directos contra el VHC
+T32	DISEASE 9988 10067	Miocardiopatía dilatada no isquémica con disfunción ventricular izquierda grave
+T33	DISEASE 10093 10131	miocarditis tóxica por antivirales VHC
+T34	DISEASE 10133 10182	Anemia ferropénica secundaria a pólipos colónicos
+T35	DISEASE 10184 10196	Dislipidemia
+T36	DISEASE 4889 4891	IT
+T37	DISEASE 1416 1439	episodios presincopales
+T38	DISEASE 4571 4646	ventrículo izquierdo (VI) gravemente dilatado con disfución sistólica grave
+T39	DISEASE 4799 4843	Ventrículo derecho (VD) ligeramente dilatado
+T40	DISEASE 5935 5938	MCD
+T41	DISEASE 6047 6063	lesión sarcoidea
+T42	DISEASE 7646 7662	clínica catarral
+T43	DISEASE 8287 8341	cardiotoxicidad por antivirales directos contra el VHC
+T44	DISEASE 7425 7475	función ventricular, siendo la disfunción moderada
+T45	DISEASE 9169 9219	ventrículo izquierdo, quedando una leve disfunción
+T46	DISEASE 7584 7606	lesiones angiográficas
+T47	DISEASE 5777 5828	necrosis puesto que también afecta al subendocardio
+T48	DISEASE 6035 6043	necrosis
+T49	DISEASE 7559 7567	necrosis
+T50	DISEASE 1655 1693	disfunción ventricular izquierda grave
+T51	DISEASE 6007 6019	lesión focal
+T52	DISEASE 6664 6675	hipertrofia
+T53	PROCEDURE 4484 4502	Calciuria 24 horas
+T54	PROCEDURE 213 227	ecocardiograma
+T55	PROCEDURE 726 737	corticoides
+T56	PROCEDURE 1524 1533	anamnesis
+T57	PROCEDURE 1571 1581	NT- proBNP
+T58	PROCEDURE 1584 1612	ecocardiograma transtorácico
+T59	PROCEDURE 2156 2190	resonancia magnética (RM) cardiaca
+T60	PROCEDURE 2222 2240	Exploración física
+T61	PROCEDURE 2458 2479	Auscultación cardiaca
+T62	PROCEDURE 2516 2537	Auscultación pulmonar
+T63	PROCEDURE 2727 2750	Radiografía de tórax AP
+T64	PROCEDURE 2917 2935	Electrocardiograma
+T65	PROCEDURE 2937 2940	ECG
+T66	PROCEDURE 3053 3072	Analítica sanguínea
+T67	PROCEDURE 3074 3083	Hemograma
+T68	PROCEDURE 4055 4079	Marcadores inmunológicos
+T69	PROCEDURE 4209 4233	Marcadores de congestión
+T70	PROCEDURE 4297 4312	Perfil lipídico
+T71	PROCEDURE 4534 4563	Ecocardiografía transtorácica
+T72	PROCEDURE 4565 4568	ETT
+T73	PROCEDURE 4951 4962	RM cardiaca
+T74	PROCEDURE 6066 6077	Cateterismo
+T75	PROCEDURE 6163 6193	TC pulmonar de alta resolución
+T76	PROCEDURE 6558 6569	RM cardiaca
+T77	PROCEDURE 7351 7362	RM cardiaca
+T78	PROCEDURE 7489 7500	cateterismo
+T79	PROCEDURE 7816 7841	antivirales contra el VHC
+T80	PROCEDURE 8048 8078	TC pulmonar de alta resolución
+T81	PROCEDURE 8691 8706	ecocardiografía
+T82	PROCEDURE 8764 8798	fármacos antivirales contra el VHC
+T83	PROCEDURE 8872 8897	antivirales contra el VHC
+T84	PROCEDURE 9025 9036	RM cardiaca
+T85	PROCEDURE 9240 9267	controles ecocardiográficos
+T86	PROCEDURE 9424 9436	colonoscopia
+T87	PROCEDURE 3506 3516	Bioquímica
+T88	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T89	PROCEDURE 3360 3370	Hemostasia
+T90	PROCEDURE 3885 3899	Perfil férrico
+T91	PROCEDURE 8216 8240	reactantes de fase aguda
+T92	PROCEDURE 8307 8341	antivirales directos contra el VHC
+T93	PROCEDURE 9837 9871	antivirales directos contra el VHC
+T94	PROCEDURE 10116 10131	antivirales VHC
+T95	PROCEDURE 7136 7147	exploración
+T96	PROCEDURE 1077 1100	tratamiento con antiVHC
+T97	PROCEDURE 5621 5647	Realce tardío de gadolinio
+T98	PROCEDURE 7509 7545	imagen de realce tardío de gadolinio
+T99	PROCEDURE 7865 7891	realce tardío de gadolinio
+T100	PROCEDURE 9442 9484	pólipos en colon derecho que se extirparon
+T101	SYMPTOM 1158 1187	disnea de esfuerzos moderados
+T102	SYMPTOM 1193 1218	ortopnea de dos almohadas
+T103	SYMPTOM 1220 1244	edematización periférica
+T104	SYMPTOM 1247 1298	disminución subjetiva de volumen de diuresis diario
+T105	SYMPTOM 1370 1411	dolor torácico en reposo ni con esfuerzos
+T106	SYMPTOM 2241 2251	Consciente
+T107	SYMPTOM 2254 2283	orientada en las tres esferas
+T108	SYMPTOM 2285 2299	normohidratada
+T109	SYMPTOM 2301 2323	palidez cutáneo-mucosa
+T110	SYMPTOM 2325 2344	buen estado general
+T111	SYMPTOM 2458 2488	Auscultación cardiaca: regular
+T112	SYMPTOM 2508 2514	soplos
+T113	SYMPTOM 2539 2568	murmullo vesicular conservado
+T114	SYMPTOM 2570 2573	MVC
+T115	SYMPTOM 2576 2605	crepitantes húmedos bibasales
+T116	SYMPTOM 2621 2653	edemas tibiomaleolares con fóvea
+T117	SYMPTOM 2762 2779	congestión venosa
+T118	SYMPTOM 2785 2819	infiltrado intersticial perihiliar
+T119	SYMPTOM 2943 2945	RS
+T120	SYMPTOM 3020 3046	ondas T aplanadas en V5-V6
+T121	SYMPTOM 4534 4646	Ecocardiografía transtorácica (ETT): ventrículo izquierdo (VI) gravemente dilatado con disfución sistólica grave
+T122	SYMPTOM 4662 4680	hipocinesia global
+T123	SYMPTOM 4682 4708	Aurículas de tamaño normal
+T124	SYMPTOM 4799 4887	Ventrículo derecho (VD) ligeramente dilatado a nivel basal con contractilidad conservada
+T125	SYMPTOM 5122 5163	función sistólica moderadamente deprimida
+T126	SYMPTOM 5178 5210	Hipoquinesia ligera generalizada
+T127	SYMPTOM 5242 5263	Volúmenes VD normales
+T128	SYMPTOM 5307 5331	función sistólica normal
+T129	SYMPTOM 5346 5388	Aurículas y grandes vasos de tamaño normal
+T130	SYMPTOM 5390 5440	Resistencias pulmonares dentro de valoras normales
+T131	SYMPTOM 6456 6463	nódulos
+T132	SYMPTOM 6465 6470	masas
+T133	SYMPTOM 6473 6516	infiltrados intraparenquimatosos pulmonares
+T134	SYMPTOM 6518 6556	Árbol traqueobronquial principal libre
+T135	SYMPTOM 6770 6814	función global sistólica levemente deprimida
+T136	SYMPTOM 6854 6868	VD no dilatado
+T137	SYMPTOM 6901 6936	función global sistólica conservada
+T138	SYMPTOM 7007 7040	Aurículas de dimensiones normales
+T139	SYMPTOM 7042 7085	Resistencias vasculares pulmonares normales
+T140	SYMPTOM 8191 8200	calciuria
+T141	SYMPTOM 8203 8240	elevación de reactantes de fase aguda
+T142	SYMPTOM 8970 8976	disnea
+T143	SYMPTOM 6708 6753	alteraciones de la contractilidad segmentaria
+T144	SYMPTOM 2824 2858	pinzamiento de senos costofrénicos
+T145	SYMPTOM 4484 4531	Calciuria 24 horas: en límites de la normalidad
+T146	SYMPTOM 4918 4948	Vena cava inferior no dilatada
+T147	SYMPTOM 6827 6852	Movimiento anómalo septal
+T148	SYMPTOM 9294 9313	normalizado la FEVI
+T149	SYMPTOM 598 610	asintomática
+T150	SYMPTOM 8952 8964	asintomática
+T151	SYMPTOM 1443 1461	clínica infecciosa
+T152	SYMPTOM 5583 5604	defectos de perfusión
+T153	SYMPTOM 2490 2502	tercer ruido
+T154	SYMPTOM 6099 6127	Árbol coronario sin lesiones
+T155	SYMPTOM 6066 6097	Cateterismo: dominancia derecha
+T156	SYMPTOM 4757 4797	Válvula aórtica sin hallazgos de interés
+T157	SYMPTOM 4985 5040	volúmenes del VI en el límite superior de la normalidad
+T158	SYMPTOM 5081 5103	hipertrofia excéntrica
+T159	SYMPTOM 5621 5726	Realce tardío de gadolinio focal en el septo inferior medial en la intersección con el ventrículo derecho
+T160	SYMPTOM 6243 6271	ganglio paratraqueal derecho
+T161	SYMPTOM 6330 6402	crecimientos ganglionares reseñables en los hilios ni en huecos axilares
+T162	SYMPTOM 6592 6616	VI de volúmenes normales
+T163	SYMPTOM 6949 7005	Aorta y grandes vasos de diámetros y morfología normales
+T164	SYMPTOM 9104 9140	ventrículo izquierdo sin hipertrofia
+T165	SYMPTOM 9325 9373	diámetros en el límite superior de la normalidad
+T166	SYMPTOM 9442 9530	pólipos en colon derecho que se extirparon sin hallazgos histopatológicos significativos
+T167	MEDICATION 393 403	interferón
+T168	MEDICATION 406 416	ribavirina
+T169	MEDICATION 444 454	ledipasvir
+T170	MEDICATION 457 467	sofosbuvir
+T171	MEDICATION 491 500	omeprazol
+T172	MEDICATION 694 704	interferón
+T173	MEDICATION 771 781	interferón
+T174	MEDICATION 832 841	omeprazol
+T175	MEDICATION 1721 1742	sacubitrilo/valsartán
+T176	MEDICATION 1767 1777	bisoprolol
+T177	MEDICATION 1793 1803	furosemida
+T178	MEDICATION 1839 1852	atorvastatina
+T179	MEDICATION 1853 1862	ezetimiba
+T180	MEDICATION 2010 2031	hierro carboximaltosa
+T181	MEDICATION 8025 8035	interferón
+T182	MEDICATION 8612 8622	sofosbuvir
+#1	AnnotatorNotes T10	 insuficiencia cardíaca
+#2	AnnotatorNotes T13	 hipertrofia ventriculo izquierdo
+#3	AnnotatorNotes T36	 IT insuficiencia tricuspídea
+#4	AnnotatorNotes T40	 miocardiopatia dilatada

@@ -1,0 +1,122 @@
+T1	ENFERMEDAD 366 385	ictus de repetición
+T2	ENFERMEDAD 507 528	hipertensión arterial
+T3	ENFERMEDAD 530 540	Dislipemia
+T4	ENFERMEDAD 542 549	Fumador
+T5	ENFERMEDAD 621 653	Fibrilación auricular permanente
+T6	ENFERMEDAD 1035 1048	valvulopatías
+T7	ENFERMEDAD 1148 1173	insuficiencia tricuspídea
+T8	ENFERMEDAD 1175 1177	IT
+T9	ENFERMEDAD 1367 1397	ictus de perfil cardioembólico
+T10	ENFERMEDAD 1638 1658	ictus cardioembólico
+T11	ENFERMEDAD 2100 2105	ictus
+T12	ENFERMEDAD 2243 2263	Ictus cardioembólico
+T13	ENFERMEDAD 2308 2311	AIT
+T14	ENFERMEDAD 2544 2562	bronquitis crónica
+T15	ENFERMEDAD 2646 2667	Hernia supraumbilical
+T16	ENFERMEDAD 4045 4066	fibrilación auricular
+T17	ENFERMEDAD 4336 4366	dilatación auricular izquierda
+T18	ENFERMEDAD 4661 4674	valvulopatías
+T19	ENFERMEDAD 4810 4831	fibrilación auricular
+T20	ENFERMEDAD 5169 5251	trombosis del dispositivo Amulet (St Jude Medical) de cierre de orejuela izquierda
+T21	ENFERMEDAD 5412 5418	trombo
+T22	ENFERMEDAD 5940 5972	Fibrilación auricular permanente
+T23	ENFERMEDAD 6042 6095	accidentes cerebrovasculares de perfil cardioembólico
+T24	ENFERMEDAD 6260 6319	Trombosis sobre dispositivo de cierre de orejuela izquierda
+T25	ENFERMEDAD 4766 4768	IT
+T26	ENFERMEDAD 932 963	Aurícula izquierda muy dilatada
+T27	ENFERMEDAD 4556 4600	Ventrículo izquierdo de diámetros aumentados
+T28	ENFERMEDAD 4536 4542	trombo
+T29	PROCEDIMIENTO 164 248	ecocardiografía de nuestro hospital para la realización de un control transesofágico
+T30	PROCEDIMIENTO 254 316	cierre percutáneo de orejuela izquierda con dispositivo Amulet
+T31	PROCEDIMIENTO 412 438	tratamiento anticoagulante
+T32	PROCEDIMIENTO 793 822	Ecocardiografía transtorácica
+T33	PROCEDIMIENTO 1243 1305	Cierre percutáneo de orejuela izquierda con dispositivo Amulet
+T34	PROCEDIMIENTO 1419 1434	anticoagulación
+T35	PROCEDIMIENTO 1689 1717	cierre de orejuela izquierda
+T36	PROCEDIMIENTO 1738 1800	cierre percutáneo de orejuela izquierda con dispositivo Amulet
+T37	PROCEDIMIENTO 1911 1938	doble terapia antiagregante
+T38	PROCEDIMIENTO 2056 2082	tratamiento anticoagulante
+T39	PROCEDIMIENTO 2324 2339	anticoagulación
+T40	PROCEDIMIENTO 2567 2600	pruebas funcionales respiratorias
+T41	PROCEDIMIENTO 2629 2644	bypass gástrico
+T42	PROCEDIMIENTO 2884 2902	EXPLORACIÓN FÍSICA
+T43	PROCEDIMIENTO 3082 3123	Auscultación cardiaca: ruidos irregulares
+T44	PROCEDIMIENTO 3136 3157	Auscultación pulmonar
+T45	PROCEDIMIENTO 3264 3273	palpación
+T46	PROCEDIMIENTO 3389 3398	Hemograma
+T47	PROCEDIMIENTO 3951 3961	Hemostasia
+T48	PROCEDIMIENTO 4019 4037	Electrocardiograma
+T49	PROCEDIMIENTO 4039 4042	ECG
+T50	PROCEDIMIENTO 4215 4245	Ecocardiografía transesofágica
+T51	PROCEDIMIENTO 4247 4250	ETE
+T52	PROCEDIMIENTO 4281 4326	implante de dispositivo de cierre de orejuela
+T53	PROCEDIMIENTO 4976 5003	doble terapia antiagregante
+T54	PROCEDIMIENTO 5074 5100	tratamiento anticoagulante
+T55	PROCEDIMIENTO 5150 5153	ETE
+T56	PROCEDIMIENTO 5223 5251	cierre de orejuela izquierda
+T57	PROCEDIMIENTO 5274 5300	tratamiento anticoagulante
+T58	PROCEDIMIENTO 5384 5387	ETE
+T59	PROCEDIMIENTO 5508 5528	anticoagulación oral
+T60	PROCEDIMIENTO 5576 5600	control ecocardiográfico
+T61	PROCEDIMIENTO 5668 5694	tratamiento anticoagulante
+T62	PROCEDIMIENTO 5884 5914	ecocardiografía transesofágica
+T63	PROCEDIMIENTO 6189 6240	Cierre de orejuela izquierda con dispositivo Amulet
+T64	PROCEDIMIENTO 6291 6319	cierre de orejuela izquierda
+T65	PROCEDIMIENTO 6334 6354	anticoagulación oral
+T66	PROCEDIMIENTO 6107 6122	anticoagulación
+T67	PROCEDIMIENTO 3492 3502	Bioquímica
+T68	PROCEDIMIENTO 718 721	CVE
+T69	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDIMIENTO 3752 3774	Metabolismo del hierro
+T71	PROCEDIMIENTO 1611 1624	función renal
+T72	PROCEDIMIENTO 2417 2435	técnicas de imagen
+T73	PROCEDIMIENTO 2502 2520	técnicas de imagen
+T74	PROCEDIMIENTO 3378 3387	Analítica
+T75	PROCEDIMIENTO 2601 2627	Intervenciones quirúrgicas
+T76	PROCEDIMIENTO 6158 6186	cierre de orejuela izquierda
+T77	SINTOMA 125 137	asintomático
+T78	SINTOMA 824 919	ventrículo izquierdo de diámetros y volúmenes normales, con función global sistólica conservada
+T79	SINTOMA 985 1021	Llenado transmitral con onda E única
+T80	SINTOMA 1065 1134	Ventrículo derecho de diámetros y función global sistólica conservada
+T81	SINTOMA 2903 2922	Buen estado general
+T82	SINTOMA 2924 2934	consciente
+T83	SINTOMA 2936 2945	orientado
+T84	SINTOMA 2947 2961	normohidratado
+T85	SINTOMA 2964 2978	normocoloreado
+T86	SINTOMA 3105 3123	ruidos irregulares
+T87	SINTOMA 3128 3134	soplos
+T88	SINTOMA 3166 3184	hipofonesis global
+T89	SINTOMA 3190 3206	roncus dispersos
+T90	SINTOMA 3208 3273	Abdomen blando sin masas, ni megalias, no doloroso a la palpación
+T91	SINTOMA 3275 3308	Extremidades inferiores sin edema
+T92	SINTOMA 3310 3351	Pulsos periféricos presentes y simétricos
+T93	SINTOMA 4131 4149	T negativa en dIII
+T94	SINTOMA 4556 4636	Ventrículo izquierdo de diámetros aumentados y función global sistólica normales
+T95	SINTOMA 4691 4752	Ventrículo derecho de diámetros normales y función conservada
+T96	SINTOMA 5760 5772	asintomático
+T97	SINTOMA 4909 4921	asintomático
+T98	SINTOMA 2199 2207	sangrado
+T99	SINTOMA 4151 4168	T aplanada en avF
+T100	SINTOMA 4180 4213	alteraciones en la repolarización
+T101	SINTOMA 4105 4128	onda Q no significativa
+T102	FARMACO 1439 1451	acenocumarol
+T103	FARMACO 1500 1512	acenocumarol
+T104	FARMACO 1522 1533	rivaroxabán
+T105	FARMACO 1556 1567	rivaroxabán
+T106	FARMACO 1943 1951	aspirina
+T107	FARMACO 1961 1972	clopidogrel
+T108	FARMACO 2174 2185	rivaroxabán
+T109	FARMACO 2689 2698	Foli-Doce
+T110	FARMACO 2722 2732	olmesartán
+T111	FARMACO 2735 2738	HCT
+T112	FARMACO 2749 2757	atenolol
+T113	FARMACO 2787 2800	atorvastatina
+T114	FARMACO 2830 2852	ácido acetilsalicílico
+T115	FARMACO 5305 5317	acenocumarol
+T116	FARMACO 5533 5545	acenocumarol
+T117	FARMACO 5844 5856	acenocumarol
+T118	FARMACO 6127 6139	acenocumarol
+T119	FARMACO 6142 6153	rivaroxabán
+T120	FARMACO 6359 6371	acenocumarol
+#1	AnnotatorNotes T8	  Insuficiencia tricuspídea
+#2	AnnotatorNotes T13	  accidente isquémico transitorio

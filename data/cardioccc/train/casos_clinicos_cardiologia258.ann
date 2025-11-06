@@ -1,0 +1,163 @@
+T1	DISEASE 104 126	insuficiencia cardiaca
+T2	DISEASE 146 169	alergias medicamentosas
+T3	DISEASE 220 235	hábitos tóxicos
+T4	DISEASE 237 258	Hipertensión arterial
+T5	DISEASE 260 263	HTA
+T6	DISEASE 267 277	dislipemia
+T7	DISEASE 359 380	cardiopatía isquémica
+T8	DISEASE 605 619	hipotiroidismo
+T9	DISEASE 648 669	Gammapatía monoclonal
+T10	DISEASE 741 757	mieloma múltiple
+T11	DISEASE 759 782	Diverticulosis colónica
+T12	DISEASE 815 850	pólipos con displasia de bajo grado
+T13	DISEASE 893 908	úlcera duodenal
+T14	DISEASE 935 948	endometriosis
+T15	DISEASE 1430 1437	síncope
+T16	DISEASE 1483 1507	hematomas periorbitarios
+T17	DISEASE 1906 1927	reflujo hepatoyugular
+T18	DISEASE 2172 2203	Púrpura periorbitaria bilateral
+T19	DISEASE 2302 2321	BAV de primer grado
+T20	DISEASE 4164 4179	derrame pleural
+T21	DISEASE 4260 4313	ventrículo izquierdo con hipertrofia asimétrica grave
+T22	DISEASE 4473 4500	miocardiopatía por depósito
+T23	DISEASE 4682 4702	Insuficiencia mitral
+T24	DISEASE 4713 4747	Insuficiencia tricuspídea moderada
+T25	DISEASE 5872 5913	amiloidosis por depósito de transtiretina
+T26	DISEASE 6499 6520	púrpura periorbitaria
+T27	DISEASE 6695 6717	insuficiencia cardiaca
+T28	DISEASE 6731 6762	congestión sistémica y pulmonar
+T29	DISEASE 7675 7695	enfermedad coronaria
+T30	DISEASE 7811 7825	amiloidosis AL
+T31	DISEASE 8079 8189	accidente cerebrovascular isquémico de hemisférico izquierdo en territorio de arteria cerebral media izquierda
+T32	DISEASE 8224 8254	trombo a nivel de M1 izquierda
+T33	DISEASE 8294 8327	fibrilación auricular paroxística
+T34	DISEASE 8396 8421	hemorragia digestiva baja
+T35	DISEASE 8499 8510	hemorroides
+T36	DISEASE 8542 8572	neuropatía del enfermo crítico
+T37	DISEASE 8767 8800	Insuficiencia cardiaca congestiva
+T38	DISEASE 8872 8910	Amiloidosis AL con afectación cardiaca
+T39	DISEASE 8912 8959	Accidente cerebrovascular hemisférico izquierdo
+T40	DISEASE 8995 9028	Fibrilación auricular paroxística
+T41	DISEASE 9030 9064	Polineuropatía del enfermo crítico
+T42	DISEASE 9167 9187	Insuficiencia mitral
+T43	DISEASE 9198 9233	Enfermedad renal crónica estadio 3a
+T44	DISEASE 4600 4627	Dilatación biauricular leve
+T45	DISEASE 4761 4764	HTP
+T46	DISEASE 4067 4080	cardiomegalia
+T47	DISEASE 8839 8870	congestión pulmonar y sistémica
+T48	DISEASE 7532 7573	descompensación de insuficiencia cardiaca
+T49	DISEASE 5424 5446	dilatación biauricular
+T50	DISEASE 1633 1668	hematoma alrededor de ambas órbitas
+T51	DISEASE 2082 2095	hepatomegalia
+T52	DISEASE 7196 7207	hipotensión
+T53	DISEASE 4797 4824	Vena cava inferior dilatada
+T54	DISEASE 5741 5771	derrames pleurales bilaterales
+T55	DISEASE 4502 4523	Disfunción diastólica
+T56	DISEASE 4534 4565	Ventrículo derecho hipertrófico
+T57	DISEASE 9120 9165	Disfunción diastólica tipo patrón restrictivo
+T58	DISEASE 339 352	muerte súbita
+T59	DISEASE 7239 7265	trastorno de la conducción
+T60	DISEASE 2394 2398	HBAI
+T61	DISEASE 6378 6389	amiloide AL
+T62	DISEASE 7774 7785	amiloide AL
+T63	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T64	PROCEDURE 784 805	Polipectomía colónica
+T65	PROCEDURE 868 888	gastrectomía parcial
+T66	PROCEDURE 911 930	anexectomía parcial
+T67	PROCEDURE 1755 1773	Exploración física
+T68	PROCEDURE 1929 1950	Auscultación cardiaca
+T69	PROCEDURE 2007 2028	Auscultación pulmonar
+T70	PROCEDURE 2252 2270	Electrocardiograma
+T71	PROCEDURE 2272 2275	ECG
+T72	PROCEDURE 2400 2419	Analítica sanguínea
+T73	PROCEDURE 2686 2701	Perfil lipídico
+T74	PROCEDURE 2927 2936	Hemograma
+T75	PROCEDURE 3042 3053	Coagulación
+T76	PROCEDURE 3343 3356	Proteinograma
+T77	PROCEDURE 4030 4065	Radiografía de tórax (PA y lateral)
+T78	PROCEDURE 4230 4258	Ecocardiograma transtorácico
+T79	PROCEDURE 4868 4897	Resonancia magnética cardiaca
+T80	PROCEDURE 5479 5519	administración del contraste intravenoso
+T81	PROCEDURE 5773 5812	Gammagrafía miocárdica con difosfonatos
+T82	PROCEDURE 5915 5935	Cateterismo cardiaco
+T83	PROCEDURE 6005 6057	Punción con aguja fina de grasa subcutánea abdominal
+T84	PROCEDURE 6222 6240	Inmunohistoquímica
+T85	PROCEDURE 6337 6363	estudio inmunohistoquímico
+T86	PROCEDURE 6769 6783	ecocardiograma
+T87	PROCEDURE 6857 6877	resonancia magnética
+T88	PROCEDURE 6879 6899	gammagrafía cardiaca
+T89	PROCEDURE 7027 7064	punción de grasa subcutánea abdominal
+T90	PROCEDURE 7127 7160	tratamiento diurético intravenoso
+T91	PROCEDURE 7216 7234	electrocardiograma
+T92	PROCEDURE 7642 7662	cateterismo cardiaco
+T93	PROCEDURE 8339 8382	anticoagulación con heparina y acenocumarol
+T94	PROCEDURE 8434 8446	gastroscopia
+T95	PROCEDURE 8474 8486	colonoscopia
+T96	PROCEDURE 8611 8625	rehabilitación
+T97	PROCEDURE 8723 8752	cierre percutáneo de orejuela
+T98	PROCEDURE 2421 2431	Bioquímica
+T99	PROCEDURE 3123 3139	Inmunoglobulinas
+T100	PROCEDURE 7319 7333	betabloqueante
+T101	PROCEDURE 708 719	hematología
+T102	PROCEDURE 7001 7012	hematología
+T103	PROCEDURE 7861 7872	hematología
+T104	PROCEDURE 8023 8034	hematología
+T105	PROCEDURE 605 646	hipotiroidismo en tratamiento sustitutivo
+T106	PROCEDURE 2842 2855	Ferrocinética
+T107	PROCEDURE 3536 3553	Orina de 24 horas
+T108	PROCEDURE 3598 3621	Proteínas cuantitativas
+T109	PROCEDURE 6902 6935	cadenas ligeras en plasma y orina
+T110	PROCEDURE 6131 6152	tinción de rojo Congo
+T111	SYMPTOM 460 466	disnea
+T112	SYMPTOM 1350 1390	edematización en extremidades inferiores
+T113	SYMPTOM 1398 1412	dolor torácico
+T114	SYMPTOM 1414 1427	palpitaciones
+T115	SYMPTOM 1870 1904	Pulso venoso yugular (PVY) elevado
+T116	SYMPTOM 1929 1959	Auscultación cardiaca: rítmica
+T117	SYMPTOM 1961 1999	soplo sistólico paraesternal izquierdo
+T118	SYMPTOM 2030 2051	crepitantes bibasales
+T119	SYMPTOM 2053 2080	Abdomen: blando, depresible
+T120	SYMPTOM 2278 2291	ritmo sinusal
+T121	SYMPTOM 2335 2347	QRS estrecho
+T122	SYMPTOM 4117 4138	cefalización de flujo
+T123	SYMPTOM 4191 4220	pinzamiento seno costofrénico
+T124	SYMPTOM 4372 4403	fracción de eyección conservada
+T125	SYMPTOM 4899 4936	ventrículo izquierdo de tamaño normal
+T126	SYMPTOM 4949 5075	engrosamiento de la pared anterior basal (16 m), de la pared lateral basal (13 mm), del septo medio (14 mm) y del septo apical
+T127	SYMPTOM 5103 5136	alteraciones en la contractilidad
+T128	SYMPTOM 5245 5325	Ventrículo derecho de tamaño normal con engrosamiento miocárdico de forma difusa
+T129	SYMPTOM 5377 5415	Engrosamiento del septo interauricular
+T130	SYMPTOM 6552 6558	disnea
+T131	SYMPTOM 7196 7207	hipotensión
+T132	SYMPTOM 7515 7529	dolor torácico
+T133	SYMPTOM 9066 9118	Función sistólica de ventrículo izquierdo conservada
+T134	SYMPTOM 1191 1209	disnea de esfuerzo
+T135	SYMPTOM 2142 2170	edema hasta región pretibial
+T136	SYMPTOM 4432 4458	Miocardio hiperrefringente
+T137	SYMPTOM 4534 4584	Ventrículo derecho hipertrófico con función normal
+T138	SYMPTOM 6222 6257	Inmunohistoquímica: lambda positivo
+T139	SYMPTOM 6259 6318	Kappa, componente A, componente P y transtiretina negativos
+T140	SYMPTOM 5357 5375	Función conservada
+T141	SYMPTOM 3404 3482	componente monoclonal adicional en gamma media también de cadena ligera Lambda
+T142	SYMPTOM 2349 2392	Patrón de pseudoinfarto anterior (QS V1-V4)
+T143	SYMPTOM 3358 3401	banda monoclonal IgG Lambda en gamma tardía
+T144	SYMPTOM 4140 4162	líneas A y B de Kerley
+T145	SYMPTOM 5584 5731	realce difuso de la pared del miocardio del ventrículo izquierdo, del ventrículo derecho, del septo interauricular y de la pared de ambas aurículas
+T146	SYMPTOM 5937 5970	arterias coronarias sin estenosis
+T147	SYMPTOM 6059 6110	tejido adiposo con presencia de depósitos nodulares
+T148	SYMPTOM 6091 6152	depósitos nodulares que se tiñen con la tinción de rojo Congo
+T149	SYMPTOM 8434 8471	gastroscopia sin hallazgos relevantes
+T150	MEDICATION 494 509	espironolactona
+T151	MEDICATION 512 522	furosemida
+T152	MEDICATION 972 987	espironolactona
+T153	MEDICATION 1009 1018	omeprazol
+T154	MEDICATION 1026 1036	furosemida
+T155	MEDICATION 1052 1084	carbonato cálcico/colecarciferol
+T156	MEDICATION 7877 7891	ciclofosfamida
+T157	MEDICATION 7893 7903	bortezomib
+T158	MEDICATION 7906 7918	dexametasona
+T159	MEDICATION 8359 8367	heparina
+T160	MEDICATION 8370 8382	acenocumarol
+T161	MEDICATION 8648 8679	heparina de bajo peso molecular
+T162	MEDICATION 7311 7315	IECA
+#1	AnnotatorNotes T45	 HTP hipertensión pulmonar

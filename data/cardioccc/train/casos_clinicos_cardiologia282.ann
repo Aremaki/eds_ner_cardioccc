@@ -1,0 +1,144 @@
+T1	DISEASE 89 112	alergias medicamentosas
+T2	DISEASE 238 246	obesidad
+T3	DISEASE 248 269	hipertensión arterial
+T4	DISEASE 272 281	exfumador
+T5	DISEASE 339 351	epididimitis
+T6	DISEASE 904 928	tromboembolismo pulmonar
+T7	DISEASE 960 988	derrame pericárdico moderado
+T8	DISEASE 1574 1595	fibrilación auricular
+T9	DISEASE 2661 2694	linfoma B difuso de célula grande
+T10	DISEASE 3176 3183	linfoma
+T11	DISEASE 3315 3370	Derrame pericárdico moderado con engrosamiento de pared
+T12	DISEASE 3435 3454	Espondilosis dorsal
+T13	DISEASE 4282 4291	neoplasia
+T14	DISEASE 4293 4321	Epididimitis aguda y crónica
+T15	DISEASE 4529 4560	dilatación biauricular moderada
+T16	DISEASE 4566 4591	derrame pericárdico grave
+T17	DISEASE 4773 4792	derrame pericárdico
+T18	DISEASE 7220 7244	leve derrame pericárdico
+T19	DISEASE 5516 5542	derrame pericárdico severo
+T20	DISEASE 5937 5972	linfoma B difuso de células grandes
+T21	DISEASE 5851 5858	derrame
+T22	DISEASE 6096 6107	adenopatías
+T23	DISEASE 6144 6177	lesión hipercaptante en testículo
+T24	DISEASE 6319 6342	masa testicular maligna
+T25	DISEASE 6688 6709	tumores hematológicos
+T26	DISEASE 6903 6950	afectación testicular por linfoma de alto grado
+T27	DISEASE 6974 7011	linfoma B de alto grado en pericardio
+T28	DISEASE 7597 7629	Pericarditis efusivoconstrictiva
+T29	DISEASE 7631 7691	Fibrilación auricular con respuesta ventricular media rápida
+T30	DISEASE 7709 7742	Insuficiencia cardiaca congestiva
+T31	DISEASE 7764 7797	Linfoma difuso de célula grande B
+T32	DISEASE 2318 2322	Lues
+T33	DISEASE 1753 1766	cardiomegalia
+T34	DISEASE 3932 3938	Lesión
+T35	DISEASE 813 826	fallo derecho
+T36	DISEASE 5138 5151	fallo derecho
+T37	DISEASE 2933 2961	proceso linfoproliferativo B
+T38	DISEASE 3417 3433	Líquido ascítico
+T39	DISEASE 1639 1641	EV
+T40	DISEASE 4088 4133	espermatocele de 10 mm en cabeza de epidídimo
+T41	DISEASE 6344 6389	espermatocele de 10 mm en cabeza de epidídimo
+T42	PROCEDURE 313 323	vasectomía
+T43	PROCEDURE 853 870	angio-TC torácico
+T44	PROCEDURE 1023 1041	Exploración física
+T45	PROCEDURE 1254 1275	Auscultación cardiaca
+T46	PROCEDURE 1308 1329	Auscultación pulmonar
+T47	PROCEDURE 1515 1533	Electrocardiograma
+T48	PROCEDURE 1535 1538	ECG
+T49	PROCEDURE 1688 1708	Radiografía de tórax
+T50	PROCEDURE 1837 1846	Hemograma
+T51	PROCEDURE 1848 1875	parámetros de función renal
+T52	PROCEDURE 1878 1887	ionograma
+T53	PROCEDURE 1913 1924	Coagulación
+T54	PROCEDURE 2005 2021	hemograma normal
+T55	PROCEDURE 2036 2056	Bioquímica sanguínea
+T56	PROCEDURE 2065 2078	transaminasas
+T57	PROCEDURE 2081 2086	iones
+T58	PROCEDURE 2097 2111	Perfil férrico
+T59	PROCEDURE 2291 2301	Serologías
+T60	PROCEDURE 2345 2388	Anatomía patológica del líquido pericárdico
+T61	PROCEDURE 2390 2399	citología
+T62	PROCEDURE 2426 2452	Estudio inmunohistoquímico
+T63	PROCEDURE 2696 2738	Citometría de flujo de líquido pericárdico
+T64	PROCEDURE 2989 3019	Cultivo de líquido pericárdico
+T65	PROCEDURE 3066 3102	Anatomía patológica de cresta ilíaca
+T66	PROCEDURE 3185 3197	TAC de tórax
+T67	PROCEDURE 3456 3463	PET-TAC
+T68	PROCEDURE 4056 4076	Ecografía testicular
+T69	PROCEDURE 4168 4188	vasectomía izquierdo
+T70	PROCEDURE 4190 4230	Anatomía patológica testicular izquierda
+T71	PROCEDURE 4241 4263	orquiectomía izquierda
+T72	PROCEDURE 4441 4469	Ecocardiograma transtorácico
+T73	PROCEDURE 4722 4750	Ecocardiograma transtorácico
+T74	PROCEDURE 5466 5495	ecocardiografía transtorácica
+T75	PROCEDURE 5624 5642	pericardiocentesis
+T76	PROCEDURE 5811 5830	anatomía patológica
+T77	PROCEDURE 6068 6075	PET-TAC
+T78	PROCEDURE 6266 6286	ecografía testicular
+T79	PROCEDURE 6424 6434	vasectomía
+T80	PROCEDURE 6783 6795	orquiectomía
+T81	PROCEDURE 7036 7076	tratamiento quimioterápico con R-CHOP/21
+T82	PROCEDURE 7176 7204	ecocardiograma transtorácico
+T83	PROCEDURE 7388 7412	tratamiento hematológico
+T84	PROCEDURE 7525 7543	biopsia testicular
+T85	PROCEDURE 5356 5371	anticoagulación
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 2119 2135	Inmunoglobulinas
+T88	PROCEDURE 6742 6749	PET-TAC
+T89	PROCEDURE 5009 5020	hematología
+T90	PROCEDURE 5795 5808	microbiología
+T91	PROCEDURE 3104 3116	biopsia ósea
+T92	PROCEDURE 5076 5097	tratamiento depletivo
+T93	PROCEDURE 1776 1785	Analítica
+T94	PROCEDURE 1976 1985	Analítica
+T95	PROCEDURE 1185 1200	Cabeza y cuello
+T96	PROCEDURE 1430 1449	Miembros inferiores
+T97	PROCEDURE 2259 2279	Interferón gamma-TBC
+T98	PROCEDURE 5289 5338	tratamiento frenador del nodo auriculoventricular
+T99	PROCEDURE 6576 6656	toma de biopsia de pericardio ni de ganglios mediastínicos mediante toracoscopia
+T100	SYMPTOM 475 493	disnea de esfuerzo
+T101	SYMPTOM 597 651	edema de extremidades inferiores hasta pared abdominal
+T102	SYMPTOM 653 661	ortopnea
+T103	SYMPTOM 664 690	disminución de la diuresis
+T104	SYMPTOM 779 800	elevación de D-dímero
+T105	SYMPTOM 1111 1129	diaforesis profusa
+T106	SYMPTOM 1161 1183	buena perfusión distal
+T107	SYMPTOM 1202 1223	ingurgitación yugular
+T108	SYMPTOM 1254 1306	Auscultación cardiaca: ruidos irregulares y apagados
+T109	SYMPTOM 1331 1349	hipofonesis global
+T110	SYMPTOM 1354 1373	crepitantes en base
+T111	SYMPTOM 1383 1428	Abdomen: distendido, edema de pared con fóvea
+T112	SYMPTOM 1451 1488	edemas con fóvea hasta raíz de muslos
+T113	SYMPTOM 1654 1686	intervalo QT corregido es normal
+T114	SYMPTOM 1710 1742	pinzamiento de seno costofrénico
+T115	SYMPTOM 1837 1911	Hemograma, parámetros de función renal e ionograma en rangos de normalidad
+T116	SYMPTOM 2036 2063	Bioquímica sanguínea normal
+T117	SYMPTOM 2065 2095	transaminasas e iones normales
+T118	SYMPTOM 2097 2118	Perfil férrico normal
+T119	SYMPTOM 2390 2424	citología positiva para malignidad
+T120	SYMPTOM 3372 3415	Cavidades cardiacas dentro de la normalidad
+T121	SYMPTOM 4471 4521	función sistólica ventricular izquierda conservada
+T122	SYMPTOM 4609 4645	engrosamiento de pericardio visceral
+T123	SYMPTOM 6319 6334	masa testicular
+T124	SYMPTOM 7292 7298	edemas
+T125	SYMPTOM 1610 1637	amplitud del QRS disminuida
+T126	SYMPTOM 2259 2289	Interferón gamma-TBC: negativo
+T127	SYMPTOM 2291 2343	Serologías: VIH, VHB, VHC, Lues, VEB, VHS: negativos
+T128	SYMPTOM 3119 3143	médula ósea normocelular
+T129	SYMPTOM 7747 7762	FEVI conservada
+T130	SYMPTOM 1231 1252	reflujo hepatoyugular
+T131	SYMPTOM 1131 1152	sensación de gravedad
+T132	SYMPTOM 3000 3064	líquido pericárdico: no se observa desarrollo de microorganismos
+T133	SYMPTOM 3199 3222	pseudonódulo subpleural
+T134	SYMPTOM 3527 3556	pericardio que está engrosado
+T135	SYMPTOM 3567 3622	ganglios laterocervicales izquierdos, supraclaviculares
+T136	SYMPTOM 3709 3737	mediastino pequeños ganglios
+T137	SYMPTOM 3827 3898	Retroperitoneal pequeños ganglios crurales, pericelíacos y paraaórticos
+T138	SYMPTOM 4367 4439	Parénquima testicular y cordón espermático sin alteraciones histológicas
+T139	SYMPTOM 5238 5261	compromiso hemodinámico
+T140	SYMPTOM 5687 5727	se obtuvo 950 cc de líquido serohemático
+T141	SYMPTOM 7525 7582	biopsia testicular con resultado negativo para malignidad
+T142	MEDICATION 384 394	amlodipino
+T143	MEDICATION 5403 5414	rivaroxabán
+T144	MEDICATION 7115 7122	Truxima

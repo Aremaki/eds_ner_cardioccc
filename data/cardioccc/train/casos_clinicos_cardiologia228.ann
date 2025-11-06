@@ -1,0 +1,196 @@
+T1	DISEASE 127 148	hipertensión arterial
+T2	DISEASE 150 153	HTA
+T3	DISEASE 156 165	DM tipo 2
+T4	DISEASE 225 235	Dislipemia
+T5	DISEASE 237 246	Exfumador
+T6	DISEASE 248 256	Obesidad
+T7	DISEASE 328 357	Cardiopatía isquémica crónica
+T8	DISEASE 371 408	infarto agudo de miocardio (IAM) no Q
+T9	DISEASE 399 402	IAM
+T10	DISEASE 672 695	enfermedad de dos vasos
+T11	DISEASE 884 892	síncopes
+T12	DISEASE 895 939	bloqueo aurículo-ventricular Mobitz II y 2:1
+T13	DISEASE 1110 1123	valvulopatías
+T14	DISEASE 1148 1163	cólicos renales
+T15	DISEASE 1671 1693	Angina crónica estable
+T16	DISEASE 2467 2492	trombosis venosa profunda
+T17	DISEASE 3279 3294	daño miocárdico
+T18	DISEASE 3371 3393	insuficiencia cardiaca
+T19	DISEASE 3622 3649	Insuficiencia mitral ligera
+T20	DISEASE 3932 3969	Insuficiencia tricuspídea (IT) ligera
+T21	DISEASE 4183 4223	Estenosis significativa en rama diagonal
+T22	DISEASE 4810 4832	insuficiencia cardiaca
+T23	DISEASE 5094 5107	valvulopatías
+T24	DISEASE 5691 5713	insuficiencia cardiaca
+T25	DISEASE 6164 6183	derrame pericárdico
+T26	DISEASE 6232 6261	cardiopatía isquémica crónica
+T27	DISEASE 6427 6465	disfunción ventricular izquierda grave
+T28	DISEASE 6832 6852	enfermedad coronaria
+T29	DISEASE 6946 6968	insuficiencia cardiaca
+T30	DISEASE 7058 7066	diabetes
+T31	DISEASE 7104 7107	HTA
+T32	DISEASE 7143 7164	cardiopatía isquémica
+T33	DISEASE 7167 7189	insuficiencia cardiaca
+T34	DISEASE 7297 7315	anemia ferropénica
+T35	DISEASE 7597 7625	disfunción ventricular grave
+T36	DISEASE 8018 8040	insuficiencia cardiaca
+T37	DISEASE 8468 8497	Cardiopatía isquémica crónica
+T38	DISEASE 8510 8525	angor inestable
+T39	DISEASE 8561 8564	IAM
+T40	DISEASE 8566 8597	Enfermedad coronaria de 2 vasos
+T41	DISEASE 8628 8671	lesión no revascularizable en rama diagonal
+T42	DISEASE 8673 8695	Insuficiencia cardiaca
+T43	DISEASE 8768 8792	miocardiopatia diabética
+T44	DISEASE 8794 8803	isquémica
+T45	DISEASE 8850 8868	Anemia ferropénica
+T46	DISEASE 8870 8891	Hipertensión arterial
+T47	DISEASE 8893 8917	Diabetes mellitus tipo 2
+T48	DISEASE 8934 8944	Dislipemia
+T49	DISEASE 8975 8983	Obesidad
+T50	DISEASE 3736 3763	Aurícula izquierda dilatada
+T51	DISEASE 3959 3961	IT
+T52	DISEASE 6076 6078	IT
+T53	DISEASE 3842 3881	Ventrículo derecho ligeramente dilatado
+T54	DISEASE 3651 3676	Válvula aórtica esclerosa
+T55	DISEASE 6321 6327	angina
+T56	DISEASE 2684 2697	cardiomegalia
+T57	DISEASE 8054 8073	congestión pulmonar
+T58	DISEASE 484 586	Descendente anterior (DA) con lesión significativa gravemente calcificada en segmento proximal y medio
+T59	DISEASE 588 656	Coronaria derecha (CD) con lesión significativa en segmento proximal
+T60	DISEASE 3457 3496	ventrículo izquierdo levemente dilatado
+T61	DISEASE 4889 4928	ventrículo izquierdo levemente dilatado
+T62	DISEASE 5932 5959	Regurgitación mitral ligera
+T63	DISEASE 7093 7101	obesidad
+T64	DISEASE 8361 8378	descompensaciones
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 436 447	Cateterismo
+T67	PROCEDURE 708 761	intervencionismo coronario percutáneo (ICP) con balón
+T68	PROCEDURE 764 819	implante de 2 stents en CD proximal y DA proximal-media
+T69	PROCEDURE 821 867	Implante marcapasos (MCP) definitivo bicameral
+T70	PROCEDURE 968 982	ecocardiograma
+T71	PROCEDURE 1165 1191	Intervenciones quirúrgicas
+T72	PROCEDURE 1193 1207	apendicectomía
+T73	PROCEDURE 1209 1224	colecistectomía
+T74	PROCEDURE 2003 2021	Exploración física
+T75	PROCEDURE 2275 2296	Auscultación cardiaca
+T76	PROCEDURE 2353 2374	Auscultación pulmonar
+T77	PROCEDURE 2584 2602	Electrocardiograma
+T78	PROCEDURE 2604 2607	ECG
+T79	PROCEDURE 2662 2682	Radiografía de tórax
+T80	PROCEDURE 2799 2808	Hemograma
+T81	PROCEDURE 2911 2922	Coagulación
+T82	PROCEDURE 3096 3114	Estudio de lípidos
+T83	PROCEDURE 3441 3455	Ecocardiograma
+T84	PROCEDURE 4088 4133	Coronariografía, vía arteria radial izquierda
+T85	PROCEDURE 4260 4277	revascularización
+T86	PROCEDURE 4331 4340	Hemograma
+T87	PROCEDURE 4343 4354	coagulación
+T88	PROCEDURE 4428 4439	coagulación
+T89	PROCEDURE 4629 4647	Estudio de lípidos
+T90	PROCEDURE 4873 4887	Ecocardiograma
+T91	PROCEDURE 5296 5305	Hemograma
+T92	PROCEDURE 5308 5319	coagulación
+T93	PROCEDURE 5510 5528	Estudio de lípidos
+T94	PROCEDURE 5754 5768	Ecocardiograma
+T95	PROCEDURE 6629 6666	tratamiento deplectivo y antianginoso
+T96	PROCEDURE 6787 6802	coronariografia
+T97	PROCEDURE 7342 7365	ferroterapia endovenosa
+T98	PROCEDURE 7648 7684	terapia de resincronizacion cardiaca
+T99	PROCEDURE 7686 7689	TRC
+T100	PROCEDURE 7888 7903	implante de TRC
+T101	PROCEDURE 3262 3294	Biomarcadores de daño miocárdico
+T102	PROCEDURE 4458 4468	Bioquímica
+T103	PROCEDURE 5339 5349	Bioquímica
+T104	PROCEDURE 4594 4610	Función hepática
+T105	PROCEDURE 5475 5491	Función hepática
+T106	PROCEDURE 3023 3028	Iones
+T107	PROCEDURE 4578 4583	Iones
+T108	PROCEDURE 5459 5464	Iones
+T109	PROCEDURE 3046 3062	función hepática
+T110	PROCEDURE 2947 2948	í
+T111	PROCEDURE 3195 3214	Metabolismo férrico
+T112	PROCEDURE 3357 3393	Marcadores de insuficiencia cardiaca
+T113	PROCEDURE 4796 4832	Marcadores de insuficiencia cardiaca
+T114	PROCEDURE 5611 5630	Metabolismo férrico
+T115	PROCEDURE 5677 5713	Marcadores de insuficiencia cardiaca
+T116	PROCEDURE 2788 2797	Analítica
+T117	PROCEDURE 4320 4329	Analítica
+T118	PROCEDURE 5285 5294	Analítica
+T119	PROCEDURE 2631 2651	marcapasos bicameral
+T120	PROCEDURE 6909 6940	tratamiento médico antianginoso
+T121	PROCEDURE 955 958	DDD
+T122	PROCEDURE 4135 4152	stents en CD y DA
+T123	PROCEDURE 6276 6289	MCP bicameral
+T124	PROCEDURE 8577 8608	coronaria de 2 vasos con stents
+T125	SYMPTOM 995 1053	función sistólica del ventrículo izquierdo (VI) conservada
+T126	SYMPTOM 1059 1104	alteraciones de la contractilidad segmentaria
+T127	SYMPTOM 1827 1877	disnea progresiva hasta hacerse de leves esfuerzos
+T128	SYMPTOM 1879 1887	ortopnea
+T129	SYMPTOM 1890 1919	edemas en miembros inferiores
+T130	SYMPTOM 2068 2087	buen estado general
+T131	SYMPTOM 2089 2107	eupneico en reposo
+T132	SYMPTOM 2230 2237	afebril
+T133	SYMPTOM 2252 2273	ingurgitación yugular
+T134	SYMPTOM 2298 2312	tonos rítmicos
+T135	SYMPTOM 2314 2351	soplo sistolico II/VI en foco aórtico
+T136	SYMPTOM 2376 2403	crepitantes leves bibasales
+T137	SYMPTOM 2405 2447	Miembros inferiores: edemas perimaleolares
+T138	SYMPTOM 2699 2731	pinzamiento de seno costofrénico
+T139	SYMPTOM 3023 3044	Iones en rango normal
+T140	SYMPTOM 3046 3079	función hepática sin alteraciones
+T141	SYMPTOM 3502 3549	hipocinesia generalizada de todos sus segmentos
+T142	SYMPTOM 3552 3597	función sistólica global gravemente deprimida
+T143	SYMPTOM 3765 3789	Patrón diastólico normal
+T144	SYMPTOM 3795 3840	incremento de las presiones de llenado del VI
+T145	SYMPTOM 4594 4627	Función hepática sin alteraciones
+T146	SYMPTOM 4934 4981	hipocinesia generalizada de todos sus segmentos
+T147	SYMPTOM 4984 5030	función sistólica global moderamente deprimida
+T148	SYMPTOM 5124 5148	Patrón diastólico normal
+T149	SYMPTOM 5150 5191	Ventrículo derecho con función conservada
+T150	SYMPTOM 5296 5337	Hemograma y coagulación: sin alteraciones
+T151	SYMPTOM 5475 5508	Función hepática sin alteraciones
+T152	SYMPTOM 5785 5837	ventrículo izquierdo no dilatado con FEVI conservada
+T153	SYMPTOM 6701 6707	disnea
+T154	SYMPTOM 6733 6747	dolor torácico
+T155	SYMPTOM 8088 8127	normalización de la función ventricular
+T156	SYMPTOM 8141 8155	dolor torácico
+T157	SYMPTOM 8218 8247	pérdida significativa de peso
+T158	SYMPTOM 3651 3734	Válvula aórtica esclerosa, con normal apertura y gradientes trasvalvulares normales
+T159	SYMPTOM 4011 4047	Vena cava inferior (VCI) no dilatada
+T160	SYMPTOM 4394 4456	Fórmula leucocitaria, plaquetas y coagulación sin alteraciones
+T161	SYMPTOM 4578 4592	Iones en rango
+T162	SYMPTOM 5193 5242	VCI no dilatada con adecuado colapso inspiratorio
+T163	SYMPTOM 5459 5473	Iones en rango
+T164	SYMPTOM 6052 6071	VD normofuncionante
+T165	SYMPTOM 6479 6494	FEVI conservada
+T166	SYMPTOM 8700 8741	fracción de eyección gravemente deprimida
+T167	SYMPTOM 2911 2940	Coagulación: sin alteraciones
+T168	SYMPTOM 5961 6009	Patrón diastólico de alteración de la relajación
+T169	SYMPTOM 6014 6050	aumento de presiones telediastólicas
+T170	SYMPTOM 1757 1793	clínica anginosa con esfuerzos leves
+T171	SYMPTOM 7474 7483	euvolemia
+T172	SYMPTOM 2494 2512	pulsos conservados
+T173	SYMPTOM 2742 2785	redistribución vascular a campos superiores
+T174	SYMPTOM 449 482	tronco coronario izquierdo normal
+T175	SYMPTOM 3842 3916	Ventrículo derecho ligeramente dilatado con función sistólica en el límite
+T176	SYMPTOM 4135 4181	stents en CD y DA permeables y sin reestenosis
+T177	SYMPTOM 8602 8619	stents permeables
+T178	MEDICATION 1249 1263	Empagliflozina
+T179	MEDICATION 1294 1304	Metformina
+T180	MEDICATION 1341 1351	Bisoprolol
+T181	MEDICATION 1383 1393	Ranolazina
+T182	MEDICATION 1430 1444	Nitroglicerina
+T183	MEDICATION 1484 1495	Clopidogrel
+T184	MEDICATION 1526 1535	Omeprazol
+T185	MEDICATION 1563 1576	Atorvastatina
+T186	MEDICATION 1579 1601	ácido acetilsalicílico
+T187	MEDICATION 1603 1606	AAS
+T188	MEDICATION 1610 1618	ramipril
+T189	MEDICATION 6980 6995	espironolactona
+T190	MEDICATION 6998 7019	sacubitrilo/valsartán
+T191	MEDICATION 7224 7235	liraglutide
+T192	MEDICATION 7279 7287	estatina
+#1	AnnotatorNotes T51	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T52	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T99	 Terapia de resincronización cardíaca
+#4	AnnotatorNotes T100	 TRC: terapia de resincronización cardíaca

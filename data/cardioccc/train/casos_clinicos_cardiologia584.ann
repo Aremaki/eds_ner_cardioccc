@@ -1,0 +1,152 @@
+T1	DISEASE 802 826	taquicardia de QRS ancho
+T2	DISEASE 3181 3255	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica moderada
+T3	DISEASE 3706 3757	VI no dilatado con hipertrofia concéntrica moderada
+T4	DISEASE 4992 5006	disociación AV
+T5	DISEASE 88 111	alergias medicamentosas
+T6	DISEASE 126 141	hábitos tóxicos
+T7	DISEASE 143 164	Hipertensión arterial
+T8	DISEASE 664 671	síncope
+T9	DISEASE 685 707	insuficiencia cardiaca
+T10	DISEASE 1458 1516	fibrilación auricular con respuesta ventricular controlada
+T11	DISEASE 1533 1577	trastornos de la conducción intraventricular
+T12	DISEASE 1592 1606	isquemia aguda
+T13	DISEASE 1621 1722	extrasistolias ventriculares (EV) frecuentes con morfología de tracto de salida de ventrículo derecho
+T14	DISEASE 1771 1792	taquicardia QRS ancho
+T15	DISEASE 1812 1846	bloqueo completo de rama izquierda
+T16	DISEASE 1957 2010	extrasístoles de tracto de salida ventricular derecho
+T17	DISEASE 3257 3294	Disfunción ventricular moderada-grave
+T18	DISEASE 3426 3482	Válvula mitral estructuralmente normal con insuficiencia
+T19	DISEASE 3643 3662	derrame pericárdico
+T20	DISEASE 4097 4106	estenosis
+T21	DISEASE 4365 4398	fibrilación auricular (FA) con EV
+T22	DISEASE 4388 4390	FA
+T23	DISEASE 4417 4442	bloqueo de rama izquierda
+T24	DISEASE 4444 4447	BRI
+T25	DISEASE 4514 4517	BRI
+T26	DISEASE 4555 4557	HV
+T27	DISEASE 4760 4792	trombos en la aurícula izquierda
+T28	DISEASE 4933 4956	taquicardia ventricular
+T29	DISEASE 5042 5045	BRI
+T30	DISEASE 5132 5165	taquicardia ventricular rama-rama
+T31	DISEASE 5167 5171	TVRR
+T32	DISEASE 5912 5935	taquicardia ventricular
+T33	DISEASE 6185 6215	disfunción del VI grave global
+T34	DISEASE 6376 6423	lesión intermedia en la coronaria derecha media
+T35	DISEASE 6587 6601	isquemia aguda
+T36	DISEASE 6675 6710	disfunción ventricular global grave
+T37	DISEASE 6758 6766	arritmia
+T38	DISEASE 6786 6829	disfunción secundaria a taquimiocardiopatía
+T39	DISEASE 6935 6958	taquicardia ventricular
+T40	DISEASE 7050 7083	taquicardia ventricular rama-rama
+T41	DISEASE 7383 7385	HV
+T42	DISEASE 7627 7651	enfermedad neuromuscular
+T43	DISEASE 7688 7700	taquicardias
+T44	DISEASE 7718 7730	cardiopatías
+T45	DISEASE 7839 7872	Taquicardia ventricular rama-rama
+T46	DISEASE 7874 7878	TVRR
+T47	DISEASE 3385 3424	Aurícula izquierda ligeramente dilatada
+T48	DISEASE 5478 5482	TVRR
+T49	DISEASE 6974 6988	disociación VA
+T50	DISEASE 7471 7494	recurrencias arrítmicas
+T51	DISEASE 7881 7900	Taquimiocardiopatía
+T52	DISEASE 7952 7984	Lesión intermedia en la CD media
+T53	DISEASE 233 256	Glucemia basal alterada
+T54	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 284 305	tratamiento dietético
+T56	PROCEDURE 921 939	Exploración física
+T57	PROCEDURE 1119 1140	Auscultación cardiaca
+T58	PROCEDURE 1180 1201	Auscultación pulmonar
+T59	PROCEDURE 1235 1256	Exploración abdominal
+T60	PROCEDURE 1426 1444	Electrocardiograma
+T61	PROCEDURE 1446 1449	ECG
+T62	PROCEDURE 1731 1749	Electrocardiograma
+T63	PROCEDURE 2969 2998	marcadores de daño miocárdico
+T64	PROCEDURE 3051 3071	Radiografía de tórax
+T65	PROCEDURE 3134 3162	Ecocardiograma transtorácico
+T66	PROCEDURE 3164 3167	ETE
+T67	PROCEDURE 3491 3528	Válvula aórtica trivalva, esclerótica
+T68	PROCEDURE 3664 3692	Ecocardiograma transtorácico
+T69	PROCEDURE 3904 3919	Coronariografía
+T70	PROCEDURE 4051 4076	ultrasonido intravascular
+T71	PROCEDURE 4078 4082	IVUS
+T72	PROCEDURE 4135 4204	coronaria derecha: se realiza implante de stent directo farmacoactivo
+T73	PROCEDURE 4283 4350	Estudio electrofisiológico (EEF): con acceso venoso femoral derecho
+T74	PROCEDURE 4311 4314	EEF
+T75	PROCEDURE 4743 4746	ETE
+T76	PROCEDURE 4810 4875	cardioversión eléctrica (CVE) con paso a RS con 200 J en bifásico
+T77	PROCEDURE 5633 5680	ablación de la rama derecha mediante catéter FJ
+T78	PROCEDURE 5816 5860	se implanta marcapasos bicameral DDDR Boston
+T79	PROCEDURE 5963 5978	betabloqueantes
+T80	PROCEDURE 6037 6047	telemetría
+T81	PROCEDURE 6125 6153	ecocardiograma transtorácico
+T82	PROCEDURE 6333 6348	coronariografía
+T83	PROCEDURE 6438 6484	revascularización mediante stent farmacoactivo
+T84	PROCEDURE 6546 6564	electrocardiograma
+T85	PROCEDURE 6854 6880	estudio electrofisiológico
+T86	PROCEDURE 7302 7329	ablación de la rama derecha
+T87	PROCEDURE 7334 7360	implante de marcapasos DDD
+T88	PROCEDURE 7755 7770	electromiograma
+T89	PROCEDURE 7773 7789	estudio genético
+T90	PROCEDURE 8013 8044	implante de stent farmacoactivo
+T91	PROCEDURE 8075 8109	Implante de marcapasos DDDR Boston
+T92	PROCEDURE 4116 4152	Revascularización: coronaria derecha
+T93	PROCEDURE 4835 4838	CVE
+T94	PROCEDURE 5545 5557	electrograma
+T95	PROCEDURE 7085 7097	electrograma
+T96	PROCEDURE 8046 8073	Ablación de la rama derecha
+T97	PROCEDURE 2101 2110	Analítica
+T98	PROCEDURE 5236 5251	tetra Josephson
+T99	PROCEDURE 5253 5265	tetra de His
+T100	PROCEDURE 5268 5289	decapolar deflectable
+T101	PROCEDURE 5313 5349	análisis de la estimulación desde AD
+T102	SYMPTOM 563 570	náuseas
+T103	SYMPTOM 573 589	malestar general
+T104	SYMPTOM 628 641	palpitaciones
+T105	SYMPTOM 645 659	dolor torácico
+T106	SYMPTOM 1041 1060	Buen estado general
+T107	SYMPTOM 1062 1097	Normal coloración de piel y mucosas
+T108	SYMPTOM 1102 1117	plétora yugular
+T109	SYMPTOM 1142 1166	tonos cardiacos rítmicos
+T110	SYMPTOM 1172 1178	soplos
+T111	SYMPTOM 1203 1232	murmullo vesicular conservado
+T112	SYMPTOM 1247 1276	abdominal: blando, depresible
+T113	SYMPTOM 1282 1290	megalias
+T114	SYMPTOM 1296 1302	algias
+T115	SYMPTOM 1304 1336	ruidos peristálticos conservados
+T116	SYMPTOM 1338 1362	Extremidades: sin edemas
+T117	SYMPTOM 1368 1398	pulsos periféricos conservados
+T118	SYMPTOM 1758 1769	taquicardia
+T119	SYMPTOM 1886 1897	R-R regular
+T120	SYMPTOM 1922 1933	taquicardia
+T121	SYMPTOM 2051 2062	taquicardia
+T122	SYMPTOM 2969 3036	marcadores de daño miocárdico (troponina I y CK-MB) fueron normales
+T123	SYMPTOM 3051 3079	Radiografía de tórax: normal
+T124	SYMPTOM 3081 3132	Índice cardiotorácico (ICT) dentro de la normalidad
+T125	SYMPTOM 3426 3464	Válvula mitral estructuralmente normal
+T126	SYMPTOM 3548 3573	Válvula tricúspide normal
+T127	SYMPTOM 3759 3794	Función sistólica global conservada
+T128	SYMPTOM 3799 3832	alteraciones de la contractilidad
+T129	SYMPTOM 3921 3958	árbol vascular izquierdo sin lesiones
+T130	SYMPTOM 4490 4499	QRS ancho
+T131	SYMPTOM 6524 6538	dolor torácico
+T132	SYMPTOM 6614 6656	elevación de marcadores de daño miocárdico
+T133	SYMPTOM 7258 7269	taquicardia
+T134	SYMPTOM 7499 7545	fracción de eyección ha permanecido conservada
+T135	SYMPTOM 7902 7942	Función ventricular izquierda conservada
+T136	SYMPTOM 3181 3218	ventrículo izquierdo (VI) no dilatado
+T137	SYMPTOM 3331 3350	hipoquinesia global
+T138	SYMPTOM 3575 3638	Ventrículo derecho (VD) no dilatado con buena función sistólica
+T139	SYMPTOM 3706 3720	VI no dilatado
+T140	SYMPTOM 3960 3992	Coronaria derecha (CD) dominante
+T141	SYMPTOM 1848 1870	eje inferior izquierdo
+T142	SYMPTOM 4851 4853	RS
+T143	SYMPTOM 5545 5618	electrograma de ápex de ventrículo derecho precoz sobre el inicio del QRS
+T144	SYMPTOM 7085 7158	electrograma de ápex de ventrículo derecho precoz sobre el inicio del QRS
+T145	MEDICATION 209 219	bisoprolol
+T146	MEDICATION 222 231	enalapril
+T147	MEDICATION 427 437	bisoprolol
+T148	MEDICATION 472 480	ramipril
+T149	MEDICATION 4612 4621	aleudrina
+T150	MEDICATION 5981 5991	amiodarona
+T151	MEDICATION 4881 4890	aleudrina
+#1	AnnotatorNotes T31	taquicardia ventricular rama-rama

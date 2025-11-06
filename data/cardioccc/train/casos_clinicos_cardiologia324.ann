@@ -1,0 +1,139 @@
+T1	DISEASE 99 122	alergias medicamentosas
+T2	DISEASE 176 197	hipertensión arterial
+T3	DISEASE 199 202	HTA
+T4	DISEASE 205 222	diabetes mellitus
+T5	DISEASE 278 288	dislipemia
+T6	DISEASE 316 332	Fiebre reumática
+T7	DISEASE 349 385	Valvulopatía reumática mitro-aórtica
+T8	DISEASE 443 465	estenosis mitral grave
+T9	DISEASE 569 587	trombosis valvular
+T10	DISEASE 674 703	degeneración protésica mitral
+T11	DISEASE 706 732	estenosis aórtica moderada
+T12	DISEASE 848 870	insuficiencia cardiaca
+T13	DISEASE 959 980	Fibrilación auricular
+T14	DISEASE 1152 1199	Enfermedad renal crónica de etiología diabética
+T15	DISEASE 1274 1328	Síndrome de apneas-hipopneas del sueño (SAHS) moderado
+T16	DISEASE 1444 1465	carcinoma de próstata
+T17	DISEASE 3272 3293	fibrilación auricular
+T18	DISEASE 3431 3456	Derrame pleural bilateral
+T19	DISEASE 4106 4125	derrame pericárdico
+T20	DISEASE 5330 5351	malnutrición proteica
+T21	DISEASE 5621 5642	edema agudo de pulmón
+T22	DISEASE 7139 7160	Fibrilación auricular
+T23	DISEASE 7236 7260	enfermedad renal crónica
+T24	DISEASE 7262 7265	ERC
+T25	DISEASE 7277 7298	síndrome cardiorrenal
+T26	DISEASE 7300 7331	Anemia normocítica normocrómica
+T27	DISEASE 7333 7369	Síndrome de resistencia a diuréticos
+T28	DISEASE 6977 7018	Descompensación de insuficiencia cardiaca
+T29	DISEASE 3896 3898	IT
+T30	DISEASE 3391 3404	cardiomegalia
+T31	DISEASE 1314 1318	SAHS
+T32	DISEASE 3506 3591	ventrículo izquierdo con tamaño normal, con hipertrofia concéntrica de grado moderado
+T33	DISEASE 3759 3789	aurículas gravemente dilatadas
+T34	DISEASE 4026 4064	Vena cava inferior gravemente dilatada
+T35	DISEASE 205 276	diabetes mellitus con mal control metabólico con lesión de órgano diana
+T36	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDURE 387 411	Recambio valvular mitral
+T38	PROCEDURE 509 559	Sustitución valvular mitral por prótesis biológica
+T39	PROCEDURE 596 657	Sustitución valvular mitral y aórtica por prótesis biológicas
+T40	PROCEDURE 1096 1111	coronariografía
+T41	PROCEDURE 1334 1391	tratamiento con presión positiva continua en la vía aérea
+T42	PROCEDURE 1393 1397	CPAP
+T43	PROCEDURE 1420 1434	Prostatectomía
+T44	PROCEDURE 2403 2451	cirugía de sustitución valvular mitral y aórtica
+T45	PROCEDURE 2605 2635	antiinflamatorio no esteroideo
+T46	PROCEDURE 2637 2641	AINE
+T47	PROCEDURE 2744 2762	EXPLORACION FÍSICA
+T48	PROCEDURE 2844 2857	gafas nasales
+T49	PROCEDURE 2908 2929	Auscultación cardiaca
+T50	PROCEDURE 2954 2975	Auscultación pulmonar
+T51	PROCEDURE 3146 3160	Perfil férrico
+T52	PROCEDURE 3267 3270	ECG
+T53	PROCEDURE 3369 3389	Radiografía de tórax
+T54	PROCEDURE 3469 3481	esternotomía
+T55	PROCEDURE 3490 3504	Ecocardiograma
+T56	PROCEDURE 4999 5024	combinación de diuréticos
+T57	PROCEDURE 5060 5076	diurético de asa
+T58	PROCEDURE 5147 5180	tratamiento diuréticos tiazídicos
+T59	PROCEDURE 5203 5251	diuréticos inhibidores de la anhidrasa carbónica
+T60	PROCEDURE 5413 5457	suplementos nutricionales ricos en proteínas
+T61	PROCEDURE 5693 5750	soporte ventilatorio con ventilación mecánica no invasiva
+T62	PROCEDURE 5919 5940	diuréticos tiazídicos
+T63	PROCEDURE 5997 6027	perfusión de diurético de asas
+T64	PROCEDURE 6146 6163	hemodiafiltración
+T65	PROCEDURE 6654 6675	auscultación pulmonar
+T66	PROCEDURE 6717 6738	auscultación cardiaca
+T67	PROCEDURE 7060 7064	AINE
+T68	PROCEDURE 7359 7369	diuréticos
+T69	PROCEDURE 7161 7174	anticoagulada
+T70	PROCEDURE 4524 4534	analíticas
+T71	PROCEDURE 6810 6823	función renal
+T72	PROCEDURE 7206 7219	función renal
+T73	PROCEDURE 4247 4263	diurético de asa
+T74	PROCEDURE 3030 3039	Analítica
+T75	PROCEDURE 2859 2874	Cabeza y cuello
+T76	PROCEDURE 431 465	Cirugía por estenosis mitral grave
+T77	PROCEDURE 5096 5131	perfusión intravenosa de furosemida
+T78	PROCEDURE 475 507	Prótesis mitral metálica St Jude
+T79	PROCEDURE 4315 4341	control de ingesta hídrica
+T80	PROCEDURE 6394 6459	suero fisiológico al 0,9% con adición de 1 ampolla de ClNa al 20%
+T81	SYMPTOM 872 901	deterioro de la función renal
+T82	SYMPTOM 1926 1931	dolor
+T83	SYMPTOM 2188 2215	disnea de mínimos esfuerzos
+T84	SYMPTOM 2217 2257	aumento de edemas en miembros inferiores
+T85	SYMPTOM 2260 2268	ortopnea
+T86	SYMPTOM 2661 2706	dolores secundarios a patología osteomuscular
+T87	SYMPTOM 2879 2907	ingurgitación venosa yugular
+T88	SYMPTOM 2946 2952	soplos
+T89	SYMPTOM 2977 3003	crepitantes en ambas bases
+T90	SYMPTOM 3318 3328	Eje normal
+T91	SYMPTOM 3334 3367	alteraciones de la repolarización
+T92	SYMPTOM 3506 3544	ventrículo izquierdo con tamaño normal
+T93	SYMPTOM 3664 3699	función sistólica global conservada
+T94	SYMPTOM 3701 3751	Ventrículo derecho con tamaño y función conservada
+T95	SYMPTOM 4487 4516	deterioro de la función renal
+T96	SYMPTOM 4920 4931	crepitantes
+T97	SYMPTOM 4950 4968	edemas periféricos
+T98	SYMPTOM 6501 6521	buen ritmo diurético
+T99	SYMPTOM 6538 6565	balances hídricos negativos
+T100	SYMPTOM 6611 6621	congestión
+T101	SYMPTOM 6697 6715	edemas periféricos
+T102	SYMPTOM 6739 6759	libre de tercer tono
+T103	SYMPTOM 7066 7081	FEVI conservada
+T104	SYMPTOM 7193 7219	Deterioro de función renal
+T105	SYMPTOM 7083 7137	Prótesis mitral y aórtica biológicas normofuncionantes
+T106	SYMPTOM 1060 1092	Arterias coronarias sin lesiones
+T107	SYMPTOM 2908 2940	Auscultación cardiaca: arrítmica
+T108	SYMPTOM 3406 3429	Redistribución vascular
+T109	SYMPTOM 3966 4024	Raíz aórtica y aorta ascendente proximal con tamaño normal
+T110	SYMPTOM 2473 2490	datos congestivos
+T111	SYMPTOM 4207 4224	datos congestivos
+T112	SYMPTOM 4877 4894	datos congestivos
+T113	SYMPTOM 3791 3841	Prótesis biológica mitral sin signos de disfunción
+T114	SYMPTOM 3843 3894	Prótesis biológica aórtica sin signos de disfunción
+T115	SYMPTOM 4265 4312	furosemida 180 mg al día, en bolos intravenosos
+T116	SYMPTOM 4828 4855	balances hídricos positivos
+T117	SYMPTOM 4896 4907	tercer tono
+T118	MEDICATION 1038 1045	sintrom
+T119	MEDICATION 1048 1058	bisoprolol
+T120	MEDICATION 1490 1502	Acenocumarol
+T121	MEDICATION 1557 1572	Espironolactona
+T122	MEDICATION 1609 1619	Bisoprolol
+T123	MEDICATION 1657 1669	Simvastatina
+T124	MEDICATION 1699 1708	Omeprazol
+T125	MEDICATION 1738 1748	Furosemida
+T126	MEDICATION 1886 1895	Metamizol
+T127	MEDICATION 4265 4275	furosemida
+T128	MEDICATION 4431 4445	cloruro sódico
+T129	MEDICATION 4758 4773	espironolactona
+T130	MEDICATION 5121 5131	furosemida
+T131	MEDICATION 5182 5199	hidroclorotiazida
+T132	MEDICATION 5253 5266	acetazolamida
+T133	MEDICATION 5962 5986	suero salino hipertónico
+T134	MEDICATION 6394 6419	suero fisiológico al 0,9%
+T135	MEDICATION 6448 6459	ClNa al 20%
+T136	MEDICATION 7179 7191	acenocumarol
+T137	MEDICATION 1822 1830	Insulina
+T138	MEDICATION 1851 1859	Insulina
+T139	MEDICATION 6330 6354	suero salino hipertónico

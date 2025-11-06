@@ -1,0 +1,121 @@
+T1	DISEASE 81 104	alergias medicamentosas
+T2	DISEASE 158 179	hipertensión arterial
+T3	DISEASE 181 184	HTA
+T4	DISEASE 187 197	dislipemia
+T5	DISEASE 199 212	hiperuricemia
+T6	DISEASE 232 241	exfumador
+T7	DISEASE 271 302	insuficiencia aórtica reumática
+T8	DISEASE 324 338	hemocromatosis
+T9	DISEASE 391 399	glaucoma
+T10	DISEASE 429 446	quiste hidatídico
+T11	DISEASE 988 993	angor
+T12	DISEASE 1662 1675	Hepatomegalia
+T13	DISEASE 2028 2053	derrame pleural bilateral
+T14	DISEASE 3185 3220	Dilatación auricular izquierda leve
+T15	DISEASE 3222 3291	Válvula aórtica tricúspide con velos fibrosados e insuficiencia grave
+T16	DISEASE 3294 3329	Insuficiencia tricuspídea (IT) leve
+T17	DISEASE 4333 4354	insuficiencia aórtica
+T18	DISEASE 4356 4359	IAo
+T19	DISEASE 4441 4461	amiloidosis cardiaca
+T20	DISEASE 4646 4688	amiloidosis por depósitos de transtiretina
+T21	DISEASE 4766 4826	síndrome del túnel carpiano bilateral de intensidad moderada
+T22	DISEASE 5336 5384	taquicardia ventricular monomórfica no sostenida
+T23	DISEASE 5503 5517	fallo cardiaco
+T24	DISEASE 5591 5602	amiloidosis
+T25	DISEASE 6015 6052	síndrome de túnel del carpo bilateral
+T26	DISEASE 6163 6177	polineuropatía
+T27	DISEASE 6208 6229	insuficiencia aórtica
+T28	DISEASE 6415 6447	dilatación ventricular izquierda
+T29	DISEASE 6589 6612	cardiopatías familiares
+T30	DISEASE 6701 6723	Insuficiencia cardiaca
+T31	DISEASE 6743 6772	Amiloidosis por transtiretina
+T32	DISEASE 6809 6836	Insuficiencia aórtica grave
+T33	DISEASE 6868 6906	Síndrome del túnel del carpo bilateral
+T34	DISEASE 6908 6947	Insuficiencia renal crónica, estadio 3A
+T35	DISEASE 6957 6982	polineuropatía periférica
+T36	DISEASE 1900 1906	BIRDHH
+T37	DISEASE 3344 3347	HTP
+T38	DISEASE 4215 4262	Válvula aórtica trivalva con velos esclerosados
+T39	DISEASE 2899 2937	ventrículo izquierdo (VI) hipertrófico
+T40	DISEASE 3718 3760	VD de tamaño normal (33 mm) con disfunción
+T41	DISEASE 4172 4204	Aurícula izquierda (AI) dilatada
+T42	DISEASE 5386 5391	TVMNS
+T43	DISEASE 6338 6360	enfermedad de depósito
+T44	PROCEDURE 1177 1195	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 1334 1355	Auscultación cardiaca
+T46	PROCEDURE 1450 1471	Auscultación pulmonar
+T47	PROCEDURE 1808 1826	Electrocardiograma
+T48	PROCEDURE 1828 1831	ECG
+T49	PROCEDURE 1942 1962	Radiografía de tórax
+T50	PROCEDURE 2102 2111	hemograma
+T51	PROCEDURE 2169 2180	Coagulación
+T52	PROCEDURE 2644 2662	hormonas tiroideas
+T53	PROCEDURE 2807 2836	Estudio de proteínas en orina
+T54	PROCEDURE 2869 2897	Ecocardiograma transtorácico
+T55	PROCEDURE 3359 3388	Resonancia magnética cardiaca
+T56	PROCEDURE 3390 3393	RMC
+T57	PROCEDURE 4463 4485	Gammagrafía miocárdica
+T58	PROCEDURE 4690 4705	Electromiograma
+T59	PROCEDURE 4710 4734	estudio neurofisiológico
+T60	PROCEDURE 4958 4995	tratamiento deplectivo con diuréticos
+T61	PROCEDURE 5036 5098	tratamiento con inhibidores del receptor de mineralcorticoides
+T62	PROCEDURE 5399 5409	telemetría
+T63	PROCEDURE 5570 5584	antiarrítmicos
+T64	PROCEDURE 5685 5713	ecocardiograma transtorácico
+T65	PROCEDURE 5849 5872	cateterismo diagnóstico
+T66	PROCEDURE 5986 6001	electromiograma
+T67	PROCEDURE 6484 6504	sustitución valvular
+T68	PROCEDURE 6647 6686	electromiografía de miembros inferiores
+T69	PROCEDURE 2210 2220	Bioquímica
+T70	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T71	PROCEDURE 2683 2708	Inmunoglobulinas en suero
+T72	PROCEDURE 5441 5455	betabloqueante
+T73	PROCEDURE 5149 5162	función renal
+T74	PROCEDURE 2091 2100	Analítica
+T75	PROCEDURE 1685 1708	Extremidades inferiores
+T76	PROCEDURE 401 427	Intervenciones quirúrgicas
+T77	PROCEDURE 6247 6269	tratamiento quirúrgico
+T78	SYMPTOM 707 736	disnea de moderados esfuerzos
+T79	SYMPTOM 834 842	ortopnea
+T80	SYMPTOM 845 857	tos nocturna
+T81	SYMPTOM 893 924	aumento del perímetro abdominal
+T82	SYMPTOM 926 943	edema en miembros
+T83	SYMPTOM 946 972	disminución de la diuresis
+T84	SYMPTOM 995 1008	palpitaciones
+T85	SYMPTOM 1012 1030	clínica infecciosa
+T86	SYMPTOM 1082 1132	parestesias nocturnas en ambos miembros superiores
+T87	SYMPTOM 1259 1266	Afebril
+T88	SYMPTOM 1357 1382	ruidos cardiacos rítmicos
+T89	SYMPTOM 1384 1448	Soplo diastólico en foco aórtico II/IV que irradia a foco mitral
+T90	SYMPTOM 1473 1495	hipoventilación global
+T91	SYMPTOM 1500 1524	sibilancias en hemitórax
+T92	SYMPTOM 1537 1577	abolición del murmullo vesicular en base
+T93	SYMPTOM 1596 1627	cicatriz en hipocondrio derecho
+T94	SYMPTOM 1685 1740	Extremidades inferiores: pulsos periféricos conservados
+T95	SYMPTOM 1742 1781	Edema con fóvea bilateral hasta rodilla
+T96	SYMPTOM 1834 1847	ritmo sinusal
+T97	SYMPTOM 1869 1881	QRS estrecho
+T98	SYMPTOM 2644 2671	hormonas tiroideas normales
+T99	SYMPTOM 2807 2844	Estudio de proteínas en orina: normal
+T100	SYMPTOM 3359 3415	Resonancia magnética cardiaca (RMC): VI de tamaño normal
+T101	SYMPTOM 3428 3452	engrosamiento miocárdico
+T102	SYMPTOM 3718 3737	VD de tamaño normal
+T103	SYMPTOM 4133 4161	Aurícula derecha (AD) normal
+T104	SYMPTOM 5922 5941	clínica neurológica
+T105	SYMPTOM 6298 6304	disnea
+T106	SYMPTOM 6386 6400	FEVI es normal
+T107	SYMPTOM 6838 6866	FEVI moderadamente deprimida
+T108	SYMPTOM 637 649	Asintomático
+T109	SYMPTOM 1908 1940	Presencia de QS en cara inferior
+T110	SYMPTOM 1964 1998	Índice cardiotorácico (ICT) límite
+T111	SYMPTOM 2981 3031	anomalías segmentarias de la contractilidad apical
+T112	SYMPTOM 3119 3169	Ventrículo derecho (VD) de tamaño y función normal
+T113	SYMPTOM 1290 1326	Aumento de la presión venosa central
+T114	SYMPTOM 2000 2023	Redistribución vascular
+T115	SYMPTOM 5632 5678	alteraciones segmentarias de la contractilidad
+T116	SYMPTOM 349 388	mutación: doble heterocigoto, C282YH63D
+T117	MEDICATION 490 517	nevibolol/hidroclorotiazida
+T118	MEDICATION 532 554	ácido acetilsalicílico
+T119	MEDICATION 568 577	ezetimiba
+T120	MEDICATION 590 601	latanoprost
+#1	AnnotatorNotes T42	  taquicardia ventricular monomórfica no sostenida

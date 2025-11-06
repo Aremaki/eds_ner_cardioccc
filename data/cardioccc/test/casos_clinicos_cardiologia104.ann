@@ -1,0 +1,92 @@
+T1	ENFERMEDAD 298 319	Hipertensión arterial
+T2	ENFERMEDAD 321 339	cólicos nefríticos
+T3	ENFERMEDAD 341 356	hernia de hiato
+T4	ENFERMEDAD 1256 1272	acidosis láctica
+T5	ENFERMEDAD 1593 1606	shock séptico
+T6	ENFERMEDAD 2094 2117	endocarditis infecciosa
+T7	ENFERMEDAD 2197 2250	insuficiencia mitral severa con gran imagen vegetante
+T8	ENFERMEDAD 2360 2387	insuficiencia mitral severa
+T9	ENFERMEDAD 2637 2672	válvula mitral con grave afectación
+T10	ENFERMEDAD 2802 2856	absceso en la pared y en el surco aurículo ventricular
+T11	ENFERMEDAD 3055 3072	Shock refractario
+T12	ENFERMEDAD 3124 3175	Endocarditis aguda mitral por Staphylococcus aureus
+T13	ENFERMEDAD 3178 3190	Schock mixto
+T14	ENFERMEDAD 1975 1996	edema agudo de pulmón
+T15	ENFERMEDAD 1500 1511	hipotensión
+T16	ENFERMEDAD 1962 1973	hipotensión
+T17	ENFERMEDAD 1025 1044	fenómenos embolicos
+T18	ENFERMEDAD 3191 3215	disfunción multiorgánica
+T19	ENFERMEDAD 769 782	extrasistolia
+T20	ENFERMEDAD 1829 1882	engrosamiento del velo posterior de la válvula mitral
+T21	ENFERMEDAD 1906 1918	vegetaciones
+T22	ENFERMEDAD 2871 2878	verruga
+T23	PROCEDIMIENTO 225 243	exploración física
+T24	PROCEDIMIENTO 604 622	Exploración física
+T25	PROCEDIMIENTO 1077 1090	examen físico
+T26	PROCEDIMIENTO 1276 1294	Analítica de orina
+T27	PROCEDIMIENTO 1324 1336	Hemocultivos
+T28	PROCEDIMIENTO 1340 1351	Rx de tórax
+T29	PROCEDIMIENTO 1363 1382	Ecografía abdominal
+T30	PROCEDIMIENTO 1394 1406	TAC cerebral
+T31	PROCEDIMIENTO 1545 1561	relleno vascular
+T32	PROCEDIMIENTO 1740 1758	soporte inotrópico
+T33	PROCEDIMIENTO 1771 1799	ecocardiograma transtorácico
+T34	PROCEDIMIENTO 2009 2038	ventilación mecánica invasiva
+T35	PROCEDIMIENTO 2143 2172	ecocardiograma transesofágico
+T36	PROCEDIMIENTO 2519 2531	hemocultivos
+T37	PROCEDIMIENTO 2861 2891	reseca la verruga y la válvula
+T38	PROCEDIMIENTO 2881 2932	la válvula y se sustituye por una prótesis mecánica
+T39	PROCEDIMIENTO 2987 3005	soporte inotrópico
+T40	PROCEDIMIENTO 385 391	ARA II
+T41	PROCEDIMIENTO 733 735	AC
+T42	PROCEDIMIENTO 805 807	AP
+T43	PROCEDIMIENTO 2586 2602	Cirugía Cardiaca
+T44	PROCEDIMIENTO 3007 3011	BCIA
+T45	PROCEDIMIENTO 3104 3107	IQx
+T46	PROCEDIMIENTO 2615 2622	cirugía
+T47	PROCEDIMIENTO 918 931	Osteomuscular
+T48	PROCEDIMIENTO 1127 1136	Analítica
+T49	SINTOMA 90 96	fiebre
+T50	SINTOMA 133 145	polimialgias
+T51	SINTOMA 147 162	osteoartralgias
+T52	SINTOMA 164 178	dolor cervical
+T53	SINTOMA 181 188	cefalea
+T54	SINTOMA 266 272	Fiebre
+T55	SINTOMA 503 509	fiebre
+T56	SINTOMA 546 558	polimialgias
+T57	SINTOMA 560 575	osteoartralgias
+T58	SINTOMA 577 591	dolor cervical
+T59	SINTOMA 594 601	cefalea
+T60	SINTOMA 624 634	Consciente
+T61	SINTOMA 636 652	alerta orientado
+T62	SINTOMA 707 731	frialdad en extremidades
+T63	SINTOMA 737 767	Ruidos cardiacos taquicardicos
+T64	SINTOMA 797 803	soplos
+T65	SINTOMA 809 840	Ruidos pulmonares sin agregados
+T66	SINTOMA 842 868	Abdomen: Blando depresible
+T67	SINTOMA 873 878	masas
+T68	SINTOMA 882 890	megalias
+T69	SINTOMA 895 916	irritación peritoneal
+T70	SINTOMA 933 987	Artralgias en todas las articulaciones de extremidades
+T71	SINTOMA 1003 1014	inflamación
+T72	SINTOMA 1340 1359	Rx de tórax: Normal
+T73	SINTOMA 1363 1390	Ecografía abdominal: Normal
+T74	SINTOMA 1394 1414	TAC cerebral: Normal
+T75	SINTOMA 1514 1525	oligoanuria
+T76	SINTOMA 3075 3082	fallece
+T77	SINTOMA 681 702	Mala perfusión distal
+T78	SINTOMA 1296 1307	Bacteriuria
+T79	SINTOMA 2443 2531	crecimiento de Staphylococcus aureus sensible a ampicilina y vancomicina en hemocultivos
+T80	SINTOMA 3029 3053	estabilidad hemodinámica
+T81	SINTOMA 1049 1065	signos meníngeos
+T82	SINTOMA 1289 1320	orina: Bacteriuria y leucocitos
+T83	SINTOMA 2234 2271	imagen vegetante sobre velo posterior
+T84	SINTOMA 2662 2789	afectación endocárdica en el velo mural que también afecta a la pared ventricular izquierda, anillo y pared de aurícula derecha
+T85	FARMACO 1633 1644	ceftriaxona
+T86	FARMACO 1646 1657	vancomicina
+T87	FARMACO 1659 1669	ampicilina
+T88	FARMACO 2491 2501	ampicilina
+T89	FARMACO 2504 2515	vancomicina
+#1	AnnotatorNotes T41	 auscultación cardíaca
+#2	AnnotatorNotes T42	 auscultación pulmonar
+#3	AnnotatorNotes T44	 Balón de Contrapulsación Intraaórtico

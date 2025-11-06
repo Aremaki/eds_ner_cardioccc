@@ -1,0 +1,103 @@
+T1	DISEASE 4456 4513	ventrículo izquierdo no dilatado con hipertrofia moderada
+T2	DISEASE 6306 6363	ventrículo izquierdo no dilatado con hipertrofia moderada
+T3	DISEASE 129 150	Hipertensión arterial
+T4	DISEASE 184 197	Flutter común
+T5	DISEASE 291 311	síncope cardiogénico
+T6	DISEASE 335 380	Síndrome coronario agudo sin elevación del ST
+T7	DISEASE 732 751	deterioro cognitivo
+T8	DISEASE 815 856	estenosis aórtica, de origen degenerativo
+T9	DISEASE 1003 1026	estenosis aórtica grave
+T10	DISEASE 1559 1587	insuficiencia cardiaca aguda
+T11	DISEASE 1603 1626	neumonía por SARS-CoV-2
+T12	DISEASE 2745 2768	estenosis aórtica grave
+T13	DISEASE 3324 3339	derrame pleural
+T14	DISEASE 4642 4668	disfunción sistólica grave
+T15	DISEASE 4684 4754	válvula aórtica se encontraba gravemente calcificada y desestructurada
+T16	DISEASE 4968 4999	estenosis aórtica grave-crítica
+T17	DISEASE 5012 5056	válvula tricúspide exhibía una insuficiencia
+T18	DISEASE 5165 5198	calcificación del árbol coronario
+T19	DISEASE 5200 5260	Tronco coronario izquierdo de buen calibre, con ateromatosis
+T20	DISEASE 5325 5353	DA proximal con ateromatosis
+T21	DISEASE 5362 5390	DA media con lesión moderada
+T22	DISEASE 5490 5541	Circunfleja no dominante, con ateromatosis moderada
+T23	DISEASE 5550 5601	Coronaria derecha dominante con ateromatosis ligera
+T24	DISEASE 5773 5814	descompensación de insuficiencia cardiaca
+T25	DISEASE 5985 6007	disfunción ventricular
+T26	DISEASE 6116 6150	taquicardia mediada por marcapasos
+T27	DISEASE 6546 6598	válvula aórtica se encontraba gravemente calcificada
+T28	DISEASE 6800 6823	estenosis aórtica grave
+T29	DISEASE 6844 6888	válvula tricúspide exhibía una insuficiencia
+T30	DISEASE 7493 7528	Estenosis aórtica grave sintomática
+T31	DISEASE 7566 7618	Descompensación de insuficiencia cardiaca secundaria
+T32	DISEASE 7632 7679	Infarto agudo de miocardio sin elevación del ST
+T33	DISEASE 7713 7764	Disfunción sistólica grave del ventrículo izquierdo
+T34	DISEASE 7766 7793	Hipertensión pulmonar grave
+T35	DISEASE 7795 7814	Fracaso renal agudo
+T36	DISEASE 7816 7828	Hiponatremia
+T37	DISEASE 7530 7564	Taquicardia mediada por marcapasos
+T38	DISEASE 7837 7870	Sobredosificación de acenocumarol
+T39	DISEASE 7040 7059	lesiones coronarias
+T40	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T41	PROCEDURE 215 249	ablación del istmo cavotricuspídeo
+T42	PROCEDURE 251 277	Implante de marcapasos VDD
+T43	PROCEDURE 393 408	coronariografía
+T44	PROCEDURE 927 951	control ecocardiográfico
+T45	PROCEDURE 1679 1693	oxigenoterapia
+T46	PROCEDURE 2297 2315	exploración física
+T47	PROCEDURE 2568 2589	auscultación pulmonar
+T48	PROCEDURE 2717 2731	ecocardiograma
+T49	PROCEDURE 2999 3017	Electrocardiograma
+T50	PROCEDURE 3153 3173	Radiografía torácica
+T51	PROCEDURE 3341 3386	Electrocatéter de marcapasos normoposicionado
+T52	PROCEDURE 3388 3407	Analítica sanguínea
+T53	PROCEDURE 3422 3431	Hemograma
+T54	PROCEDURE 4152 4162	Hemostasia
+T55	PROCEDURE 4313 4332	Analítica sanguínea
+T56	PROCEDURE 4421 4435	Ecocardiograma
+T57	PROCEDURE 5137 5152	Coronariografía
+T58	PROCEDURE 6072 6098	se interroga el marcapasos
+T59	PROCEDURE 6260 6288	ecocardiograma transtorácico
+T60	PROCEDURE 7013 7028	coronariografía
+T61	PROCEDURE 7143 7185	implante valvular transcatéter vía femoral
+T62	PROCEDURE 7242 7265	valvulotomía percutánea
+T63	PROCEDURE 3836 3846	Bioquímica
+T64	PROCEDURE 7187 7191	TAVI
+T65	PROCEDURE 5849 5897	tratamiento depletivo con furosemida intravenosa
+T66	PROCEDURE 1694 1703	diurético
+T67	SYMPTOM 906 918	asintomático
+T68	SYMPTOM 985 1000	FEVI conservada
+T69	SYMPTOM 1387 1399	asintomático
+T70	SYMPTOM 2008 2067	dolor torácico opresivo desencadenado con ligeros esfuerzos
+T71	SYMPTOM 2191 2209	sensación de mareo
+T72	SYMPTOM 2217 2242	dificulta la deambulación
+T73	SYMPTOM 2445 2459	soplo eyectivo
+T74	SYMPTOM 2532 2560	borramiento del segundo tono
+T75	SYMPTOM 2599 2620	crepitantes bibasales
+T76	SYMPTOM 2622 2683	Edemas con fóvea pretibiales en ambas extremidades inferiores
+T77	SYMPTOM 4562 4580	hipocinesia global
+T78	SYMPTOM 5466 5488	DA distal sin lesiones
+T79	SYMPTOM 5689 5703	dolor torácico
+T80	SYMPTOM 5708 5735	elevación de troponina T hs
+T81	SYMPTOM 6032 6043	taquicardia
+T82	SYMPTOM 6365 6410	alteraciones de la contractilidad segmentaria
+T83	SYMPTOM 6412 6430	hipocinesia global
+T84	SYMPTOM 4456 4488	ventrículo izquierdo no dilatado
+T85	SYMPTOM 4515 4560	Alteraciones de la contractilidad segmentaria
+T86	SYMPTOM 4583 4637	acinesia inferoseptal apical, inferior e inferolateral
+T87	SYMPTOM 6306 6338	ventrículo izquierdo no dilatado
+T88	SYMPTOM 6433 6487	acinesia inferoseptal apical, inferior e inferolateral
+T89	SYMPTOM 6492 6530	función sistólica gravemente deprimida
+T90	SYMPTOM 3265 3296	consolidaciones parenquimatosas
+T91	SYMPTOM 1796 1813	datos congestivos
+T92	SYMPTOM 3221 3252	Índice cardiotorácico aumentado
+T93	MEDICATION 470 478	ramipril
+T94	MEDICATION 499 508	omeprazol
+T95	MEDICATION 528 541	atorvastatina
+T96	MEDICATION 560 571	tamsulosina
+T97	MEDICATION 608 618	bisoprolol
+T98	MEDICATION 635 647	acenocumarol
+T99	MEDICATION 661 672	calcifediol
+T100	MEDICATION 5875 5885	furosemida
+T101	MEDICATION 7858 7870	acenocumarol
+T102	MEDICATION 572 583	dutasteride
+#1	AnnotatorNotes T64	Implante de válvula aórtica transcatéter

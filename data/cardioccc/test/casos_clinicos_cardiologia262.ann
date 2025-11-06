@@ -1,0 +1,170 @@
+T1	ENFERMEDAD 105 126	hipertensión arterial
+T2	ENFERMEDAD 215 230	prolapso mitral
+T3	ENFERMEDAD 365 427	adenocarcinoma moderadamente diferenciado de colon descendente
+T4	ENFERMEDAD 469 491	obstrucción intestinal
+T5	ENFERMEDAD 735 754	lesiones pulmonares
+T6	ENFERMEDAD 1014 1028	neurotoxicidad
+T7	ENFERMEDAD 1274 1300	parada cardiorrespiratoria
+T8	ENFERMEDAD 1679 1711	bloqueo completo de rama derecha
+T9	ENFERMEDAD 1726 1740	isquemia aguda
+T10	ENFERMEDAD 3028 3050	insuficiencia cardiaca
+T11	ENFERMEDAD 3170 3189	enfisema subcutáneo
+T12	ENFERMEDAD 3627 3736	Anomalía coronaria con porción media y distal de descendente anterior con salida desde seno coronario derecho
+T13	ENFERMEDAD 4547 4566	derrame pericárdico
+T14	ENFERMEDAD 4938 4960	ateromatosis coronaria
+T15	ENFERMEDAD 5302 5323	metástasis pulmonares
+T16	ENFERMEDAD 6451 6474	fibrilación ventricular
+T17	ENFERMEDAD 6476 6478	FV
+T18	ENFERMEDAD 7170 7192	insuficiencia cardiaca
+T19	ENFERMEDAD 7873 7930	Síndrome coronario agudo por rotura de placa en DA distal
+T20	ENFERMEDAD 7967 8023	Vasoespasmo secundario a tratamiento con 5-fluorouracilo
+T21	ENFERMEDAD 8271 8294	cardiopatía estructural
+T22	ENFERMEDAD 8301 8320	lesiones isquémicas
+T23	ENFERMEDAD 8517 8548	vasoespasmo por 5-fluorouracilo
+T24	ENFERMEDAD 9385 9404	enfisema subcutáneo
+T25	ENFERMEDAD 9995 10028	vasoespasmo por fluoropirimidinas
+T26	ENFERMEDAD 10247 10270	Adenocarcinoma de colon
+T27	ENFERMEDAD 10322 10343	Hipertensión arterial
+T28	ENFERMEDAD 2482 2488	BCRDHH
+T29	ENFERMEDAD 9865 9891	Parada cardiorrespiratoria
+T30	ENFERMEDAD 8395 8413	eventos arrítmicos
+T31	ENFERMEDAD 4221 4264	Válvula mitral con calcio en anillo y velos
+T32	ENFERMEDAD 10131 10215	Descendente anterior con porción media y distal con salida de seno coronario derecho
+T33	ENFERMEDAD 3407 3469	Descendente anterior de escaso calibre y desarrollo con lesión
+T34	ENFERMEDAD 7426 7461	anomalía en la descendente anterior
+T35	ENFERMEDAD 7763 7781	Anomalía coronaria
+T36	ENFERMEDAD 9199 9217	aire retroesternal
+T37	PROCEDIMIENTO 526 542	colectomía total
+T38	PROCEDIMIENTO 573 646	quimioterapia adyuvante con esquema de Gramont con 5-fluorouracilo (5-FU)
+T39	PROCEDIMIENTO 698 701	TAC
+T40	PROCEDIMIENTO 828 831	PET
+T41	PROCEDIMIENTO 885 917	quimioterapia con esquema FOLFOX
+T42	PROCEDIMIENTO 1330 1369	maniobras de reanimación cardiopulmonar
+T43	PROCEDIMIENTO 1371 1374	RCP
+T44	PROCEDIMIENTO 1602 1624	intubación orotraqueal
+T45	PROCEDIMIENTO 1632 1650	electrocardiograma
+T46	PROCEDIMIENTO 1652 1655	ECG
+T47	PROCEDIMIENTO 1893 1902	anamnesis
+T48	PROCEDIMIENTO 2049 2067	Exploración física
+T49	PROCEDIMIENTO 2218 2239	Auscultación cardiaca
+T50	PROCEDIMIENTO 2275 2296	Auscultación pulmonar
+T51	PROCEDIMIENTO 2544 2563	Analítica de sangre
+T52	PROCEDIMIENTO 2578 2587	hemograma
+T53	PROCEDIMIENTO 2596 2607	Coagulación
+T54	PROCEDIMIENTO 2642 2661	Gasometría arterial
+T55	PROCEDIMIENTO 2798 2822	reactantes de fase aguda
+T56	PROCEDIMIENTO 2834 2854	Marcadores cardiacos
+T57	PROCEDIMIENTO 2953 2973	Radiografía de tórax
+T58	PROCEDIMIENTO 3052 3072	Radiografía de tórax
+T59	PROCEDIMIENTO 3089 3101	implante DAI
+T60	PROCEDIMIENTO 3285 3343	Coronariografía urgente: acceso por arteria radial derecha
+T61	PROCEDIMIENTO 3823 3837	Ecocardiograma
+T62	PROCEDIMIENTO 4612 4641	Resonancia magnética cardiaca
+T63	PROCEDIMIENTO 4818 4841	TAC arterias coronarias
+T64	PROCEDIMIENTO 4922 4936	TC angiografía
+T65	PROCEDIMIENTO 5769 5786	Electrofisiología
+T66	PROCEDIMIENTO 5799 5889	incisión de 6 cm en región axilar media izquierda y se hace disección hasta plano muscular
+T67	PROCEDIMIENTO 5902 5979	divulsión del músculo serrato anterior formando el bolsillo para el generador
+T68	PROCEDIMIENTO 5992 6075	tunelización desde línea axilar media izquierda hasta región paraesternal izquierda
+T69	PROCEDIMIENTO 6097 6150	incisión de 3 cm a nivel de sexto espacio intercostal
+T70	PROCEDIMIENTO 6314 6357	generador; el cual se fija a plano muscular
+T71	PROCEDIMIENTO 6438 6474	inducción de fibrilación ventricular
+T72	PROCEDIMIENTO 7244 7272	ecocardiograma transtorácico
+T73	PROCEDIMIENTO 7379 7394	coronariografía
+T74	PROCEDIMIENTO 7797 7812	coronariografía
+T75	PROCEDIMIENTO 8099 8111	TC coronario
+T76	PROCEDIMIENTO 8206 8225	resonancia cardiaca
+T77	PROCEDIMIENTO 8356 8379	monitorización cardiaca
+T78	PROCEDIMIENTO 8705 8721	cirugía cardiaca
+T79	PROCEDIMIENTO 8778 8811	implante de un dispositivo de DAI
+T80	PROCEDIMIENTO 9244 9255	radiografía
+T81	PROCEDIMIENTO 9344 9355	radiografía
+T82	PROCEDIMIENTO 9691 9712	agente quimioterápico
+T83	PROCEDIMIENTO 9914 9940	reanimación cardiopulmonar
+T84	PROCEDIMIENTO 9942 9945	RCP
+T85	PROCEDIMIENTO 10030 10056	Implante de DAI subcutáneo
+T86	PROCEDIMIENTO 10298 10320	quimioterapia con 5-FU
+T87	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T88	PROCEDIMIENTO 2734 2744	bioquímica
+T89	PROCEDIMIENTO 7575 7604	marcadores de daño miocárdico
+T90	PROCEDIMIENTO 9307 9321	monitorización
+T91	PROCEDIMIENTO 1446 1544	desfibrilador semiautomático externo (DESA) detecta ritmo desfibrilable y se administran 2 choques
+T92	PROCEDIMIENTO 6177 6209	se tuneliza hasta el segundo EIC
+T93	PROCEDIMIENTO 6237 6298	Se fija electrodo a nivel de sexto EIC paraesternal izquierdo
+T94	PROCEDIMIENTO 2412 2415	EGC
+T95	PROCEDIMIENTO 6793 6807	desfibrilación
+T96	PROCEDIMIENTO 6586 6637	descarga 10 J para medir la impedancia del circuito
+T97	PROCEDIMIENTO 8860 8874	DAI subcutáneo
+T98	PROCEDIMIENTO 8903 8928	reservorio venoso central
+T99	PROCEDIMIENTO 9979 9985	choque
+T100	SINTOMA 236 262	función ventricular normal
+T101	SINTOMA 1214 1237	pérdida de conocimiento
+T102	SINTOMA 1837 1862	hemodinámicamente estable
+T103	SINTOMA 1864 1874	consciente
+T104	SINTOMA 1877 1886	orientada
+T105	SINTOMA 1967 1981	dolor torácico
+T106	SINTOMA 2136 2155	Buen estado general
+T107	SINTOMA 2157 2167	consciente
+T108	SINTOMA 2170 2179	orientada
+T109	SINTOMA 2181 2199	eupneica en reposo
+T110	SINTOMA 2201 2216	Normoperfundida
+T111	SINTOMA 2218 2248	Auscultación cardiaca: rítmica
+T112	SINTOMA 2253 2259	soplos
+T113	SINTOMA 2263 2273	extratonos
+T114	SINTOMA 2298 2327	murmullo vesicular conservado
+T115	SINTOMA 2332 2352	ruidos sobreañadidos
+T116	SINTOMA 2354 2385	Miembros inferiores: sin edemas
+T117	SINTOMA 2417 2430	ritmo sinusal
+T118	SINTOMA 2440 2449	PR normal
+T119	SINTOMA 2596 2614	Coagulación normal
+T120	SINTOMA 2745 2765	función renal normal
+T121	SINTOMA 2771 2791	alteraciones iónicas
+T122	SINTOMA 2798 2832	reactantes de fase aguda negativos
+T123	SINTOMA 2986 3014	índice cardiotorácico normal
+T124	SINTOMA 3847 3914	ventrículo izquierdo no dilatado, con espesores parietales normales
+T125	SINTOMA 3916 3947	Función sistólica global normal
+T126	SINTOMA 4090 4120	Aurícula izquierda no dilatada
+T127	SINTOMA 4122 4150	Aurícula derecha no dilatada
+T128	SINTOMA 4152 4219	Ventrículo derecho no dilatado, con función sistólica global normal
+T129	SINTOMA 4356 4398	Válvula tricúspide morfológicamente normal
+T130	SINTOMA 4612 4677	Resonancia magnética cardiaca: estudio dentro de límites normales
+T131	SINTOMA 7112 7137	hemodinámicamente estable
+T132	SINTOMA 7143 7157	dolor torácico
+T133	SINTOMA 7198 7218	alteraciones iónicas
+T134	SINTOMA 7244 7324	ecocardiograma transtorácico, el tamaño y la función biventricular eran normales
+T135	SINTOMA 7562 7620	elevación de marcadores de daño miocárdico en la seriación
+T136	SINTOMA 10217 10245	Función biventricular normal
+T137	SINTOMA 4704 4725	nflamación miocárdica
+T138	SINTOMA 6525 6538	ritmo sinusal
+T139	SINTOMA 265 277	asintomática
+T140	SINTOMA 440 451	pT3 pN0 cM0
+T141	SINTOMA 2578 2594	hemograma normal
+T142	SINTOMA 3963 4009	hipoquinesia de septo inferior y cara inferior
+T143	SINTOMA 4475 4505	Vena cava inferior no dilatada
+T144	SINTOMA 3366 3405	Tronco coronario izquierdo sin lesiones
+T145	SINTOMA 4303 4354	Válvula aórtica morfológica y funcionalmente normal
+T146	SINTOMA 2494 2542	alteraciones significativas de la repolarización
+T147	SINTOMA 4011 4071	Patrón de llenado transmitral de alteración de la relajación
+T148	SINTOMA 2921 2930	CK normal
+T149	SINTOMA 3777 3821	Circunfleja y coronaria derecha sin lesiones
+T150	SINTOMA 4568 4584	Grasa epicárdica
+T151	SINTOMA 4586 4610	Raíz aórtica no dilatada
+T152	SINTOMA 4729 4747	escaras isquémicas
+T153	SINTOMA 4749 4816	Tamaño y función sistólica biventricular dentro de límites normales
+T154	SINTOMA 5050 5093	Vaso ectópico con origen en el seno derecho
+T155	FARMACO 624 639	5-fluorouracilo
+T156	FARMACO 641 645	5-FU
+T157	FARMACO 919 931	oxaliplatino
+T158	FARMACO 933 948	5-fluorouracilo
+T159	FARMACO 951 965	ácido folínico
+T160	FARMACO 983 995	oxaliplatino
+T161	FARMACO 1045 1060	5-fluorouracilo
+T162	FARMACO 5617 5628	raltitrexed
+T163	FARMACO 5630 5640	irinotecán
+T164	FARMACO 8008 8023	5-fluorouracilo
+T165	FARMACO 10316 10320	5-FU
+T166	FARMACO 5583 5598	5-fluorouracilo
+T167	FARMACO 8533 8548	5-fluorouracilo
+T168	FARMACO 9648 9661	5-fluouracilo
+#1	AnnotatorNotes T28	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#2	AnnotatorNotes T156	 5-fluorouracilo

@@ -1,0 +1,193 @@
+T1	DISEASE 117 157	adenocarcinoma de próstata de bajo grado
+T2	DISEASE 201 230	diabetes mellitus (DM) tipo 2
+T3	DISEASE 220 222	DM
+T4	DISEASE 286 305	Hipercolesterolemia
+T5	DISEASE 307 316	Exfumador
+T6	DISEASE 398 414	infarto anterior
+T7	DISEASE 725 743	shock cardiogénico
+T8	DISEASE 926 937	hipotensión
+T9	DISEASE 1069 1103	aneurisma apical con trombo apical
+T10	DISEASE 1233 1267	Insuficiencia mitral leve-moderada
+T11	DISEASE 2035 2053	consumo de alcohol
+T12	DISEASE 3092 3117	trombosis venosa profunda
+T13	DISEASE 3119 3122	TVP
+T14	DISEASE 4175 4250	infarto agudo de miocardio (IAM) en territorio de la descendente anterior (
+T15	DISEASE 4304 4320	aneurisma apical
+T16	DISEASE 4417 4449	Grave disfunción sisólica del VI
+T17	DISEASE 4641 4667	trombos intraventriculares
+T18	DISEASE 4765 4778	hepatomegalia
+T19	DISEASE 5016 5062	adenopatías en hilio hepático y región celíaca
+T20	DISEASE 5924 5939	derrame pleural
+T21	DISEASE 6383 6429	miocardiopatía dilatada de etiología isquémica
+T22	DISEASE 6701 6711	colestasis
+T23	DISEASE 6716 6735	hiperbilirrubinemia
+T24	DISEASE 6855 6867	coagulopatía
+T25	DISEASE 7510 7557	adenopatías en región hiliar hepática y celiaca
+T26	DISEASE 7780 7848	hepatitis idiosincrásica secundaria a la administración de estatinas
+T27	DISEASE 7963 7987	hepatitis idiosincrásica
+T28	DISEASE 9105 9146	disfunción grave del ventrículo izquierdo
+T29	DISEASE 9187 9203	aneurisma apical
+T30	DISEASE 9271 9293	disfunción ventricular
+T31	DISEASE 9483 9562	Miocardiopatía dilatada de etiología isquémica con disfunción ventricular grave
+T32	DISEASE 9575 9637	Hepatitis idiosincrásica secundaria a la toma de atorvastatina
+T33	DISEASE 9639 9655	Infarto anterior
+T34	DISEASE 9674 9696	aneurisma anteroapical
+T35	DISEASE 9707 9730	trombo intraventricular
+T36	DISEASE 9778 9802	diabetes mellitus tipo 2
+T37	DISEASE 9804 9823	hipercolesterolemia
+T38	DISEASE 9825 9834	exfumador
+T39	DISEASE 2328 2334	angina
+T40	DISEASE 1974 1992	consumo de tóxicos
+T41	DISEASE 4203 4206	IAM
+T42	DISEASE 4669 4717	Leve disfunción sistólica del ventrículo derecho
+T43	DISEASE 5508 5535	Calcificaciones prostáticas
+T44	DISEASE 7660 7670	autoinmune
+T45	DISEASE 7576 7611	dilatación a nivel del árbol biliar
+T46	DISEASE 7648 7658	infecciosa
+T47	DISEASE 5455 5463	litiasis
+T48	DISEASE 1545 1552	infarto
+T49	DISEASE 4258 4302	ventrículo izquierdo (VI) levemente dilatado
+T50	DISEASE 4914 4941	dilatación de la vía biliar
+T51	DISEASE 5416 5444	dilataciones pielocaliciales
+T52	PROCEDURE 80 99	biopsia transrectal
+T53	PROCEDURE 250 271	antidiabéticos orales
+T54	PROCEDURE 448 463	coronariografía
+T55	PROCEDURE 477 611	angioplastia coronaria transluminal percutánea (ACTP) a arteria descendente anterior (DA) proximal con implante de stent farmacoactivo
+T56	PROCEDURE 1013 1027	ecocardiograma
+T57	PROCEDURE 2712 2733	Auscultación cardiaca
+T58	PROCEDURE 2755 2776	Auscultación pulmonar
+T59	PROCEDURE 2835 2857	Auscultación abdominal
+T60	PROCEDURE 3943 3961	Electrocardiograma
+T61	PROCEDURE 3963 3966	ECG
+T62	PROCEDURE 4144 4173	Resonancia magnética cardiaca
+T63	PROCEDURE 4735 4754	Ecografía abdominal
+T64	PROCEDURE 5574 5585	Colangio-RM
+T65	PROCEDURE 7228 7262	serologías para virus hepatotropos
+T66	PROCEDURE 7264 7299	determinación de parásitos en heces
+T67	PROCEDURE 7302 7324	pruebas de inmunología
+T68	PROCEDURE 7417 7436	ecografía abdominal
+T69	PROCEDURE 7443 7454	colangio-RM
+T70	PROCEDURE 8780 8800	inhibidores de PCSK9
+T71	PROCEDURE 8992 9006	ecocardiograma
+T72	PROCEDURE 9027 9047	resonancia magnética
+T73	PROCEDURE 9376 9391	implante de DAI
+T74	PROCEDURE 2338 2356	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 6131 6142	Inmunología
+T76	PROCEDURE 6312 6330	Parásitos en heces
+T77	PROCEDURE 5956 5966	Serologías
+T78	PROCEDURE 891 906	betabloqueantes
+T79	PROCEDURE 7839 7848	estatinas
+T80	PROCEDURE 8033 8058	tratamiento con estatinas
+T81	PROCEDURE 825 880	inhibidor de la enzima de conversión de la angiotensina
+T82	PROCEDURE 2948 2967	palpación abdominal
+T83	PROCEDURE 9732 9747	Implante de DAI
+T84	PROCEDURE 3189 3198	Analítica
+T85	PROCEDURE 7385 7403	estudios de imagen
+T86	PROCEDURE 525 529	ACTP
+T87	PROCEDURE 6045 6068	vacunación frente a VHB
+T88	PROCEDURE 6905 6943	administración de 1 ampolla vitamina K
+T89	SYMPTOM 926 937	hipotensión
+T90	SYMPTOM 997 1008	taquicardia
+T91	SYMPTOM 1580 1588	anorexia
+T92	SYMPTOM 1590 1597	astenia
+T93	SYMPTOM 1600 1637	dolor continuo en hipocondrio derecho
+T94	SYMPTOM 1683 1704	sensación de plenitud
+T95	SYMPTOM 1725 1732	náuseas
+T96	SYMPTOM 1734 1741	vómitos
+T97	SYMPTOM 1743 1750	coluria
+T98	SYMPTOM 1753 1759	acolia
+T99	SYMPTOM 1771 1791	sensación distérmica
+T100	SYMPTOM 1810 1846	alteraciones del tránsito intestinal
+T101	SYMPTOM 2266 2278	asintomático
+T102	SYMPTOM 2318 2324	disnea
+T103	SYMPTOM 2551 2570	buen estado general
+T104	SYMPTOM 2572 2586	Bien hidratado
+T105	SYMPTOM 2588 2595	nutrido
+T106	SYMPTOM 2598 2608	perfundido
+T107	SYMPTOM 2610 2628	Eupneico en reposo
+T108	SYMPTOM 2647 2675	tinte ictérico en conjuntiva
+T109	SYMPTOM 2677 2710	Pulso venoso yugular (PVY) normal
+T110	SYMPTOM 2712 2742	Auscultación cardiaca: rítmico
+T111	SYMPTOM 2747 2753	soplos
+T112	SYMPTOM 2778 2807	murmullo vesicular conservado
+T113	SYMPTOM 2813 2833	ruidos sobreañadidos
+T114	SYMPTOM 2859 2887	ruidos hidroaéreos presentes
+T115	SYMPTOM 2902 2929	abdomen blando y depresible
+T116	SYMPTOM 2934 2991	doloroso a la palpación abdominal superficial ni profunda
+T117	SYMPTOM 3007 3028	irritación peritoneal
+T118	SYMPTOM 3030 3052	PPR negativa bilateral
+T119	SYMPTOM 3129 3135	edemas
+T120	SYMPTOM 3137 3162	Pulsos pedios conservados
+T121	SYMPTOM 3969 3971	RS
+T122	SYMPTOM 3982 3991	PR normal
+T123	SYMPTOM 3993 4005	QRS estrecho
+T124	SYMPTOM 4007 4031	QS en cara anterolateral
+T125	SYMPTOM 4074 4142	supradesnivelación persistente del segmento ST en cara anterolateral
+T126	SYMPTOM 5371 5402	Bazo homogéneo de tamaño normal
+T127	SYMPTOM 5559 5572	líquido libre
+T128	SYMPTOM 5659 5690	vía biliar tiene calibre normal
+T129	SYMPTOM 5956 5987	Serologías: VHA y VHC negativas
+T130	SYMPTOM 6312 6341	Parásitos en heces: negativos
+T131	SYMPTOM 6470 6477	astenia
+T132	SYMPTOM 6479 6487	anorexia
+T133	SYMPTOM 6489 6498	ictericia
+T134	SYMPTOM 6500 6507	coluria
+T135	SYMPTOM 6510 6516	acolia
+T136	SYMPTOM 6556 6562	fiebre
+T137	SYMPTOM 6640 6666	elevación de transaminasas
+T138	SYMPTOM 6780 6792	leucocitosis
+T139	SYMPTOM 6795 6806	eosinofilia
+T140	SYMPTOM 6815 6852	elevación de reactantes de fase aguda
+T141	SYMPTOM 8262 8273	eosinofilia
+T142	SYMPTOM 8517 8541	sintomatología abdominal
+T143	SYMPTOM 8558 8565	coluria
+T144	SYMPTOM 8571 8577	acolia
+T145	SYMPTOM 8642 8676	niveles de colesterol LDL elevados
+T146	SYMPTOM 1114 1221	acinesia apical, septal anterior y de los segmentos medio de las paredes inferior, anterior y posteroseptal
+T147	SYMPTOM 4036 4072	nula progresión de R en precordiales
+T148	SYMPTOM 6144 6310	anticuerpos anticelulas parietales, anti LC1, antiLKM, Anti mitocondriales, anti músculo liso, anti reticulina, cANCA, anti membrana basal glomerular, pANCA negativos
+T149	SYMPTOM 8880 8939	transaminsas y enzimas de citolisis dentro de la normalidad
+T150	SYMPTOM 2630 2645	Cabeza y cuello
+T151	SYMPTOM 5638 5654	lesiones focales
+T152	SYMPTOM 4815 4835	Vena porta permeable
+T153	SYMPTOM 5125 5177	Tronco de la vena porta permeable, de calibre normal
+T154	SYMPTOM 2889 2900	tono normal
+T155	SYMPTOM 49 65	elevación de PSA
+T156	SYMPTOM 4323 4415	aquinesia de cara anterior y septo anterior medio y distal y de todos los segmentos distales
+T157	SYMPTOM 4462 4606	Realce tardío de características isquémicas con ausencia de viabilidad en cara anterior y septo medio y distal y en todos los segmentos distales
+T158	SYMPTOM 4962 4995	páncreas no presenta alteraciones
+T159	SYMPTOM 5200 5271	Venas esplénica y mesentérica superior también permeables, no dilatadas
+T160	SYMPTOM 5273 5323	Venas suprahepáticas permeables, de calibre normal
+T161	SYMPTOM 5325 5369	Vena cava inferior también de calibre normal
+T162	SYMPTOM 5465 5482	Vejiga distendida
+T163	SYMPTOM 5590 5632	señal y morfología del hígado son normales
+T164	SYMPTOM 5755 5792	contenido en el interior del colédoco
+T165	SYMPTOM 5821 5915	alteraciones destacables que afecten al páncreas, glándulas adrenales, riñones ni tampoco bazo
+T166	SYMPTOM 6011 6028	Anti-HBc negativo
+T167	SYMPTOM 6071 6102	IgG positiva frente a VVZ y CMV
+T168	SYMPTOM 6104 6129	IgG negativa frente a VEB
+T169	SYMPTOM 7244 7353	virus hepatotropos, determinación de parásitos en heces y pruebas de inmunología siendo todas ellas negativas
+T170	SYMPTOM 8219 8238	perfil de citolisis
+T171	SYMPTOM 8374 8408	elevación del patrón de colestasis
+T172	SYMPTOM 9163 9184	acinesia anteroseptal
+T173	MEDICATION 778 791	noradrenalina
+T174	MEDICATION 967 977	ivabradina
+T175	MEDICATION 1316 1327	clopidogrel
+T176	MEDICATION 1346 1357	pantoprazol
+T177	MEDICATION 1376 1386	ivabradina
+T178	MEDICATION 1404 1417	atorvastatina
+T179	MEDICATION 1436 1446	metformina
+T180	MEDICATION 7109 7117	aspirina
+T181	MEDICATION 7123 7134	clopidogrel
+T182	MEDICATION 7170 7182	acenocumarol
+T183	MEDICATION 7187 7198	enoxaparina
+T184	MEDICATION 8329 8342	atorvastatina
+T185	MEDICATION 9298 9307	enalapril
+T186	MEDICATION 9309 9319	eplerenona
+T187	MEDICATION 9322 9332	metoprolol
+T188	MEDICATION 9624 9637	atorvastatina
+T189	MEDICATION 882 886	IECA
+T190	MEDICATION 1291 1296	adiro
+T191	MEDICATION 1466 1473	sintrom
+T192	MEDICATION 6933 6943	vitamina K
+#1	AnnotatorNotes T41	 infarto agudo de miocardio

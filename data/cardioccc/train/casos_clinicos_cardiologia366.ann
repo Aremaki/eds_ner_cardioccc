@@ -1,0 +1,100 @@
+T1	DISEASE 122 130	alergias
+T2	DISEASE 142 152	Dislipemia
+T3	DISEASE 360 369	Exfumador
+T4	DISEASE 418 439	Carcinoma de próstata
+T5	DISEASE 584 613	Cardiopatía isquémica crónica
+T6	DISEASE 623 658	infarto agudo de miocardio anterior
+T7	DISEASE 795 825	Enfermedad coronaria de 1 vaso
+T8	DISEASE 994 1029	disfunción sistólica moderada de VI
+T9	DISEASE 1143 1156	valvulopatías
+T10	DISEASE 1324 1345	fibrilación auricular
+T11	DISEASE 1362 1387	bloqueo de rama izquierda
+T12	DISEASE 2011 2016	angor
+T13	DISEASE 2774 2795	fibrilación auricular
+T14	DISEASE 3594 3621	Disfunción sistólica severa
+T15	DISEASE 3649 3683	Insuficiencia mitral leve-moderada
+T16	DISEASE 3773 3802	Insuficiencia tricúspide leve
+T17	DISEASE 4228 4249	Fibrilación auricular
+T18	DISEASE 4274 4280	angina
+T19	DISEASE 4600 4628	insuficiencia renal moderada
+T20	DISEASE 4651 4668	diabetes mellitus
+T21	DISEASE 4787 4809	insuficiencia cardiaca
+T22	DISEASE 5094 5123	Cardiopatía isquémica crónica
+T23	DISEASE 5125 5149	Infarto anterior antiguo
+T24	DISEASE 5151 5172	enfermedad de un vaso
+T25	DISEASE 5205 5238	Disfunción sistólica severa de VI
+T26	DISEASE 5258 5288	Insuficiencia cardiaca crónica
+T27	DISEASE 5321 5353	Fibrilación auricular permanente
+T28	DISEASE 5429 5467	Enfermedad renal crónica, estadio IIIb
+T29	DISEASE 5469 5486	Diabetes mellitus
+T30	DISEASE 5488 5498	Ferropenia
+T31	DISEASE 5503 5509	anemia
+T32	DISEASE 5244 5249	angor
+T33	DISEASE 169 207	Intolerancia a los hidratos de carbono
+T34	DISEASE 1096 1137	Dilatación moderada de aurícula izquierda
+T35	DISEASE 3636 3647	AI dilatada
+T36	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDURE 482 495	braquiterapia
+T38	PROCEDURE 505 537	Análisis del antígeno prostático
+T39	PROCEDURE 672 684	fibrinolisis
+T40	PROCEDURE 703 788	angioplastia de rescate con implante de stent convencional sobre descendente anterior
+T41	PROCEDURE 831 857	revascularización completa
+T42	PROCEDURE 969 983	Ecocardiograma
+T43	PROCEDURE 985 988	ECG
+T44	PROCEDURE 1471 1507	anticoagulación oral con rivaroxabán
+T45	PROCEDURE 1533 1547	betabloqueante
+T46	PROCEDURE 2274 2292	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 2542 2563	Auscultación cardiaca
+T48	PROCEDURE 2588 2609	Auscultación pulmonar
+T49	PROCEDURE 2769 2772	ECG
+T50	PROCEDURE 3457 3474	ECG TRANSTORÁCICO
+T51	PROCEDURE 3921 3931	ERGOMETRÍA
+T52	PROCEDURE 4350 4353	ECG
+T53	PROCEDURE 4450 4460	ergometría
+T54	PROCEDURE 5002 5050	implante de desfibrilador automático implantable
+T55	PROCEDURE 5177 5203	revascularización completa
+T56	PROCEDURE 5355 5375	Anticoagulación oral
+T57	PROCEDURE 5392 5422	control de frecuencia cardiaca
+T58	PROCEDURE 4674 4688	perfil férrico
+T59	PROCEDURE 2913 2922	ANALÍTICA
+T60	PROCEDURE 5052 5055	DAI
+T61	PROCEDURE 4578 4587	analítica
+T62	SYMPTOM 955 967	asintomático
+T63	SYMPTOM 1044 1094	alteración segmentaria extensa en territorio de DA
+T64	SYMPTOM 1908 1914	disnea
+T65	SYMPTOM 1918 1932	dolor torácico
+T66	SYMPTOM 2052 2065	palpitaciones
+T67	SYMPTOM 2080 2086	edemas
+T68	SYMPTOM 2092 2100	ortopnea
+T69	SYMPTOM 2104 2131	disnea paroxística nocturna
+T70	SYMPTOM 2478 2496	Eupneico en reposo
+T71	SYMPTOM 2498 2540	Presión venosa yugular ligeramente elevada
+T72	SYMPTOM 2565 2574	arrítmico
+T73	SYMPTOM 2580 2586	soplos
+T74	SYMPTOM 2611 2640	murmullo vesicular conservado
+T75	SYMPTOM 2642 2687	Pulsos radiales, femorales y pedios presentes
+T76	SYMPTOM 2869 2881	QRS estrecho
+T77	SYMPTOM 3300 3310	TSH normal
+T78	SYMPTOM 3476 3487	VI dilatado
+T79	SYMPTOM 3515 3523	Acinesia
+T80	SYMPTOM 3695 3717	Válvula aórtica normal
+T81	SYMPTOM 3719 3771	Cavidades derechas de tamaño y contractilidad normal
+T82	SYMPTOM 4122 4128	Disnea
+T83	SYMPTOM 4540 4546	disnea
+T84	SYMPTOM 1194 1212	disnea de esfuerzo
+T85	SYMPTOM 459 468	T1c Nx Mx
+T86	SYMPTOM 518 561	antígeno prostático específico (PSA) normal
+T87	SYMPTOM 2689 2722	Extremidades inferiores con fóvea
+T88	SYMPTOM 3526 3592	adelgazamiento de septo anterior y de todos los segmentos apicales
+T89	SYMPTOM 3850 3880	Vena cava inferior no dilatada
+T90	SYMPTOM 4284 4318	alteraciones significativas del ST
+T91	SYMPTOM 4674 4697	perfil férrico alterado
+T92	MEDICATION 1496 1507	rivaroxabán
+T93	MEDICATION 1626 1635	omeprazol
+T94	MEDICATION 1648 1660	pravastatina
+T95	MEDICATION 1673 1683	bisoprolol
+T96	MEDICATION 1695 1703	ramipril
+T97	MEDICATION 1717 1728	rivaroxabán
+T98	MEDICATION 1777 1809	mononitrato de isosorbida retard
+T99	MEDICATION 1822 1836	nitroglicerina
+T100	MEDICATION 4004 4014	bisoprolol

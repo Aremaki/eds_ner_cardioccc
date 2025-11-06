@@ -1,0 +1,108 @@
+T1	DISEASE 375 400	Malestar adaptativo mixto
+T2	DISEASE 65 88	fibrilación ventricular
+T3	DISEASE 91 117	parada cardiorrespiratoria
+T4	DISEASE 228 249	hipertensión arterial
+T5	DISEASE 263 280	diabetes mellitus
+T6	DISEASE 283 293	dislipemia
+T7	DISEASE 295 360	Trastorno mental y del comportamiento debido a consumo de alcohol
+T8	DISEASE 402 409	Rinitis
+T9	DISEASE 412 437	asma bronquial intrínseca
+T10	DISEASE 452 458	atopia
+T11	DISEASE 489 510	alergia medicamentosa
+T12	DISEASE 690 724	herida inciso-contusa en antebrazo
+T13	DISEASE 1440 1466	parada cardiorrespiratoria
+T14	DISEASE 1558 1581	fibrilación ventricular
+T15	DISEASE 1927 1950	fibrilación ventricular
+T16	DISEASE 2478 2510	bloqueo completo de rama derecha
+T17	DISEASE 2748 2765	patología pleural
+T18	DISEASE 2900 2927	disfunción sistólica severa
+T19	DISEASE 3035 3059	insuficiencia tricúspide
+T20	DISEASE 3083 3104	hipertensión pulmonar
+T21	DISEASE 3137 3164	Disfunción sistólica severa
+T22	DISEASE 3723 3726	IAM
+T23	DISEASE 3794 3817	bloqueo de rama derecha
+T24	DISEASE 3930 3944	edema cerebral
+T25	DISEASE 4009 4036	disfunción sistólica severa
+T26	DISEASE 4428 4446	shock anafiláctico
+T27	DISEASE 4495 4513	síndrome de Kounis
+T28	DISEASE 4596 4619	fibrilación ventricular
+T29	DISEASE 4702 4723	alergia medicamentosa
+T30	DISEASE 4726 4740	asma bronquial
+T31	DISEASE 4902 4928	síndrome de Kounis tipo I.
+T32	DISEASE 4742 4776	Disfunción sistólica severa del VI
+T33	DISEASE 4548 4574	Parada cardiorrespiratoria
+T34	DISEASE 2814 2828	edema cerebral
+T35	PROCEDURE 782 805	cura local de la herida
+T36	PROCEDURE 818 824	sutura
+T37	PROCEDURE 827 834	vendaje
+T38	PROCEDURE 1503 1519	maniobras de RCP
+T39	PROCEDURE 1531 1534	ECG
+T40	PROCEDURE 1595 1605	se reanima
+T41	PROCEDURE 1637 1661	desfibrilaciones a 200 J
+T42	PROCEDURE 1748 1770	intubación orotraqueal
+T43	PROCEDURE 1776 1796	ventilación mecánica
+T44	PROCEDURE 1899 1917	Electrocardiograma
+T45	PROCEDURE 2252 2271	Gasometría arterial
+T46	PROCEDURE 2342 2360	Electrocardiograma
+T47	PROCEDURE 2562 2588	Radiografía de tórax en AP
+T48	PROCEDURE 2767 2786	TC de cráneo simple
+T49	PROCEDURE 2852 2866	Ecocardiograma
+T50	PROCEDURE 3240 3260	Cateterismo cardiaco
+T51	PROCEDURE 3382 3390	intubado
+T52	PROCEDURE 3527 3537	hipotermia
+T53	PROCEDURE 3576 3605	ventilación mecánica invasiva
+T54	PROCEDURE 3734 3752	electrocardiograma
+T55	PROCEDURE 3886 3898	TAC cerebral
+T56	PROCEDURE 3972 3986	ecocardiograma
+T57	PROCEDURE 4143 4157	ecocardiograma
+T58	PROCEDURE 4169 4189	cateterismo cardiaco
+T59	PROCEDURE 4362 4366	AINE
+T60	PROCEDURE 3550 3558	sedación
+T61	PROCEDURE 3607 3620	Anticoagulado
+T62	PROCEDURE 181 199	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 3654 3694	doble antiagregado con AAS y clopidogrel
+T64	PROCEDURE 858 886	se administra gammaglobulina
+T65	PROCEDURE 1952 1961	Analítica
+T66	PROCEDURE 889 921	1a dosis de vacuna antitetánicas
+T67	SYMPTOM 1053 1058	dolor
+T68	SYMPTOM 1164 1193	dolor intenso en el antebrazo
+T69	SYMPTOM 1278 1285	náuseas
+T70	SYMPTOM 1287 1294	vómitos
+T71	SYMPTOM 1296 1306	sudoración
+T72	SYMPTOM 1309 1315	disnea
+T73	SYMPTOM 1412 1418	pálido
+T74	SYMPTOM 1421 1429	sudoroso
+T75	SYMPTOM 2380 2393	ritmo sinusal
+T76	SYMPTOM 2671 2707	Hilio derecho ligeramente congestivo
+T77	SYMPTOM 2713 2745	nódulos ni masas parenquimatosos
+T78	SYMPTOM 2868 2898	VI no dilatado ni hipertrófico
+T79	SYMPTOM 2929 2947	hipocinesia global
+T80	SYMPTOM 3106 3124	Aurículas normales
+T81	SYMPTOM 3126 3135	VD normal
+T82	SYMPTOM 3439 3482	Pupilas midriáticas, reactivas y simétricas
+T83	SYMPTOM 3773 3786	ritmo sinusal
+T84	SYMPTOM 4304 4311	fallece
+T85	SYMPTOM 4781 4823	alteración segmentaria en territorio de DA
+T86	SYMPTOM 2454 2463	QRS ancho
+T87	SYMPTOM 2515 2560	alteraciones secundarias de la repolarización
+T88	SYMPTOM 2626 2669	Senos costofrénicos y cardiofrénicos libres
+T89	SYMPTOM 2983 3011	acinesia en territorio de DA
+T90	SYMPTOM 4038 4091	alteraciones de la contractilidad en territorio de DA
+T91	SYMPTOM 4825 4871	Arterias coronarias sin lesiones angiográficas
+T92	SYMPTOM 3013 3030	Válvulas normales
+T93	SYMPTOM 4202 4246	arterias coronarias epicárdicas sin lesiones
+T94	SYMPTOM 3262 3295	arterias epicárdicas sin lesiones
+T95	SYMPTOM 3392 3400	comatoso
+T96	SYMPTOM 2417 2452	eje eléctrico desviado a la derecha
+T97	MEDICATION 134 144	ibuprofeno
+T98	MEDICATION 984 994	ibuprofeno
+T99	MEDICATION 1224 1234	ibuprofeno
+T100	MEDICATION 1673 1683	amiodarona
+T101	MEDICATION 1707 1717	adrenalina
+T102	MEDICATION 1719 1729	bicabonato
+T103	MEDICATION 3640 3651	enoxaparina
+T104	MEDICATION 3677 3680	AAS
+T105	MEDICATION 3683 3694	clopidogrel
+T106	MEDICATION 4656 4666	ibuprofeno
+T107	MEDICATION 1061 1084	amoxicilina-clavulánico
+T108	MEDICATION 901 921	vacuna antitetánicas

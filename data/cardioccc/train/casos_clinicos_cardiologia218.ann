@@ -1,0 +1,183 @@
+T1	DISEASE 106 129	alergias medicamentosas
+T2	DISEASE 141 150	exfumador
+T3	DISEASE 179 197	consumo de alcohol
+T4	DISEASE 281 302	hipertensión arterial
+T5	DISEASE 348 358	dislipemia
+T6	DISEASE 408 447	enfermedad pulmonar obstructiva crónica
+T7	DISEASE 600 611	cardiopatía
+T8	DISEASE 763 794	hiperplasia benigna de próstata
+T9	DISEASE 890 899	hematuria
+T10	DISEASE 1907 1929	insuficiencia cardiaca
+T11	DISEASE 2680 2710	extrasistolia supraventricular
+T12	DISEASE 4447 4472	hipoquinesia global grave
+T13	DISEASE 4767 4796	insuficiencia mitral moderada
+T14	DISEASE 4801 4863	válvula tricúspide presentaba una insuficiencia moderada-grave
+T15	DISEASE 5096 5131	insuficiencia aórtica leve-moderada
+T16	DISEASE 5632 5662	derrame pleural bilateral leve
+T17	DISEASE 5761 5845	descendente anterior muestra una ateromatosis difusa calcificada con estenosis leves
+T18	DISEASE 5976 6000	ateromatosis calcificada
+T19	DISEASE 6096 6185	coronaria derecha es el vaso dominante, muy ateromatoso y de calibre ectásico e irregular
+T20	DISEASE 6234 6255	lesión grave ulcerada
+T21	DISEASE 6383 6470	rama descendente posterior es de mediana extensión y con estenosis focal grave proximal
+T22	DISEASE 6521 6554	lesión moderada de la circunfleja
+T23	DISEASE 6643 6651	isquemia
+T24	DISEASE 7445 7467	insuficiencia cardiaca
+T25	DISEASE 8134 8232	miocardiopatía dilatada con disfunción grave del ventrículo izquierdo por hipocinesia global grave
+T26	DISEASE 8382 8390	enolismo
+T27	DISEASE 8446 8461	angina de pecho
+T28	DISEASE 8486 8497	miocarditis
+T29	DISEASE 8724 8763	estenosis grave de la coronaria derecha
+T30	DISEASE 8956 8987	anemia normocítica normocrómica
+T31	DISEASE 9151 9157	anemia
+T32	DISEASE 9374 9424	déficit tanto de vitamina B12 como de ácido fólico
+T33	DISEASE 9467 9473	anemia
+T34	DISEASE 9521 9527	anemia
+T35	DISEASE 10134 10156	insuficiencia cardiaca
+T36	DISEASE 10646 10652	anemia
+T37	DISEASE 11252 11274	Insuficiencia cardiaca
+T38	DISEASE 11293 11330	Miocardiopatía dilatada, no isquémica
+T39	DISEASE 11406 11435	Insuficiencia mitral moderada
+T40	DISEASE 11447 11487	Insuficiencia tricuspídea moderada-grave
+T41	DISEASE 11521 11586	Enfermedad arterial coronaria grave de un vaso (coronaria derecha
+T42	DISEASE 11688 11741	Anemia normocítica normocrómica con déficit de hierro
+T43	DISEASE 4625 4708	Aurícula izquierda moderadamente dilatada, y la derecha leve-moderadamente dilatada
+T44	DISEASE 5137 5166	dilatación de la raíz aórtica
+T45	DISEASE 9560 9569	hematuria
+T46	DISEASE 1705 1718	hepatomegalia
+T47	DISEASE 2411 2424	hepatomegalia
+T48	DISEASE 8054 8065	hipotensión
+T49	DISEASE 5016 5076	válvula aórtica era trivalva, con velos esclerodegenerativos
+T50	DISEASE 4316 4399	ventrículo izquierdo gravemente dilatado, con función sistólica gravemente reducida
+T51	DISEASE 4546 4623	Ventrículo derecho levemente dilatado con función también levemente deprimida
+T52	DISEASE 4710 4748	Valvas de la válvula mitral engrosadas
+T53	DISEASE 4941 4968	Vena cava inferior dilatada
+T54	DISEASE 5249 5329	ventrículo izquierdo gravemente dilatado con función global gravemente deprimida
+T55	DISEASE 5366 5433	Ventrículo derecho levemente dilatado con disfunción sistólica leve
+T56	DISEASE 7084 7108	estenosis residual grave
+T57	DISEASE 7908 7918	broncópata
+T58	DISEASE 799 826	retenciones agudas de orina
+T59	DISEASE 5886 5954	circunfleja de mediana extensión y calibre ectásico a nivel proximal
+T60	DISEASE 6016 6066	estenosis moderada en la marginal a nivel proximal
+T61	DISEASE 6325 6372	estenosis focal calcificada con estenosis grave
+T62	DISEASE 11492 11519	hipertensión pulmonar grave
+T63	DISEASE 11649 11686	moderada de un vaso (obtusa marginal)
+T64	PROCEDURE 464 476	espirometría
+T65	PROCEDURE 654 684	hernioplastia inguinal derecha
+T66	PROCEDURE 722 758	adenomectomía prostática retropúbica
+T67	PROCEDURE 1099 1118	cirugía de próstata
+T68	PROCEDURE 1932 1950	Exploración física
+T69	PROCEDURE 2201 2222	auscultación cardiaca
+T70	PROCEDURE 2268 2289	auscultación pulmonar
+T71	PROCEDURE 2546 2564	Electrocardiograma
+T72	PROCEDURE 2745 2762	Gasometría venosa
+T73	PROCEDURE 3079 3088	Hemograma
+T74	PROCEDURE 3394 3405	Coagulación
+T75	PROCEDURE 3446 3461	Perfil lipídico
+T76	PROCEDURE 3623 3637	Perfil férrico
+T77	PROCEDURE 3848 3858	Serologías
+T78	PROCEDURE 3992 4012	Radiografía de tórax
+T79	PROCEDURE 4132 4152	Radiografía de tórax
+T80	PROCEDURE 4263 4291	Ecocardiograma transtorácico
+T81	PROCEDURE 4293 4296	ETT
+T82	PROCEDURE 4506 4513	Doppler
+T83	PROCEDURE 5168 5202	Resonancia magnética (RM) cardiaca
+T84	PROCEDURE 5664 5702	Cateterismo vía arteria radial derecha
+T85	PROCEDURE 5704 5729	Coronariografía izquierda
+T86	PROCEDURE 6068 6091	Coronariografía derecha
+T87	PROCEDURE 6692 6718	Intervencionismo coronario
+T88	PROCEDURE 6816 6849	implante de usntent farmacoactivo
+T89	PROCEDURE 7205 7274	Se posdilatan estos dos últimosstents con balón 4,5 NC a alta presión
+T90	PROCEDURE 7543 7564	tratamiento diurético
+T91	PROCEDURE 7765 7790	tratamiento neurohormonal
+T92	PROCEDURE 8093 8107	ecocardiograma
+T93	PROCEDURE 8309 8327	anamnesis dirigida
+T94	PROCEDURE 8581 8592	cateterismo
+T95	PROCEDURE 8622 8651	resonancia magnética cardiaca
+T96	PROCEDURE 8684 8704	cateterismo cardiaco
+T97	PROCEDURE 8864 8893	resonancia magnética cardiaca
+T98	PROCEDURE 9236 9266	test de sangre oculta en heces
+T99	PROCEDURE 10542 10568	tratamiento diurético oral
+T100	PROCEDURE 11603 11645	implantación de tres stents farmacoactivos
+T101	PROCEDURE 2810 2820	Bioquímica
+T102	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T103	PROCEDURE 10307 10332	tratamiento neurohormonal
+T104	PROCEDURE 5190 5192	RM
+T105	PROCEDURE 6720 6791	se predilata la estenosis descrita en el segmento medio de CD con balón
+T106	PROCEDURE 6854 6877	posdilatación con balón
+T107	PROCEDURE 7482 7512	cirugía programada de próstata
+T108	PROCEDURE 8746 8815	coronaria derecha en la que se implantaron tres stents farmacoactivos
+T109	PROCEDURE 6930 7033	se implanta, previa predilatación con balón de 4,0 mm, otrostent farmacoactivo sobre la lesión ulcerada
+T110	PROCEDURE 10613 10633	analítica de control
+T111	PROCEDURE 3423 3433	analíticas
+T112	PROCEDURE 8918 8928	analíticas
+T113	PROCEDURE 5452 5478	secuencia de realce tardío
+T114	PROCEDURE 6559 6588	guía de presión sin adenosina
+T115	PROCEDURE 7157 7203	stent a ese nivel que cubre el ostium del vaso
+T116	SYMPTOM 890 899	hematuria
+T117	SYMPTOM 1024 1042	disnea de esfuerzo
+T118	SYMPTOM 1133 1139	disnea
+T119	SYMPTOM 1157 1165	ortopnea
+T120	SYMPTOM 1202 1229	disnea paroxística nocturna
+T121	SYMPTOM 1245 1300	edemas bilaterales con fóvea en extremidades inferiores
+T122	SYMPTOM 1412 1435	pérdida de 3 kg de peso
+T123	SYMPTOM 1502 1527	hemodinámicamente estable
+T124	SYMPTOM 1529 1541	taquicárdico
+T125	SYMPTOM 1635 1658	hipoventilación en base
+T126	SYMPTOM 1671 1694	crepitantes bilaterales
+T127	SYMPTOM 1721 1762	edemas con fóvea bilaterales hasta muslos
+T128	SYMPTOM 1770 1793	elevación del NT-proBNP
+T129	SYMPTOM 2020 2045	hemodinámicamente estable
+T130	SYMPTOM 2088 2100	taquicárdico
+T131	SYMPTOM 2179 2194	plétora yugular
+T132	SYMPTOM 2201 2237	auscultación cardiaca estaba rítmico
+T133	SYMPTOM 2254 2260	soplos
+T134	SYMPTOM 2318 2363	disminución del murmullo vesicular en la base
+T135	SYMPTOM 2376 2399	crepitantes bilaterales
+T136	SYMPTOM 2474 2519	edemas con fóvea bilaterales hasta los muslos
+T137	SYMPTOM 2566 2579	ritmo sinusal
+T138	SYMPTOM 2591 2600	PR normal
+T139	SYMPTOM 2620 2632	QRS estrecho
+T140	SYMPTOM 2638 2655	ondas T aplanadas
+T141	SYMPTOM 3860 3872	VHC negativo
+T142	SYMPTOM 3874 3886	VIH negativo
+T143	SYMPTOM 3888 3900	CMV negativo
+T144	SYMPTOM 3902 3946	parvovirus B19 Ig-G positivo (Ig-M negativo)
+T145	SYMPTOM 3948 3968	enterovirus negativo
+T146	SYMPTOM 8018 8050	alteraciones en la función renal
+T147	SYMPTOM 9560 9569	hematuria
+T148	SYMPTOM 9842 9852	euvolémico
+T149	SYMPTOM 9858 9876	signos congestivos
+T150	SYMPTOM 10240 10252	peso estable
+T151	SYMPTOM 10262 10280	edemas en tobillos
+T152	SYMPTOM 10456 10462	disnea
+T153	SYMPTOM 10471 10514	edemas con fóvea en extremidades inferiores
+T154	SYMPTOM 10795 10803	sangrado
+T155	SYMPTOM 10217 10223	disnea
+T156	SYMPTOM 4065 4105	pinzamiento de ambos senos costofrénicos
+T157	SYMPTOM 4025 4059	índice cardiotorácico en el límite
+T158	SYMPTOM 4176 4217	pinzamiento del seno costofrénico derecho
+T159	SYMPTOM 5334 5353	hipoquinesia difusa
+T160	SYMPTOM 8996 9041	amplitud de distribución eritrocitaria normal
+T161	SYMPTOM 11336 11361	FEVI gravemente deprimida
+T162	SYMPTOM 4116 4130	condensaciones
+T163	SYMPTOM 8418 8435	dolores torácicos
+T164	SYMPTOM 4233 4240	mejoría
+T165	SYMPTOM 5704 5756	Coronariografía izquierda: tronco común sin lesiones
+T166	SYMPTOM 1615 1633	signos congestivos
+T167	SYMPTOM 5490 5565	realce intramiocárdico lineal en septo basal y puntos de inserción septales
+T168	SYMPTOM 7707 7725	signos congestivos
+T169	SYMPTOM 8208 8232	hipocinesia global grave
+T170	SYMPTOM 9055 9117	hierro, ferritina e índice de saturación de transferrina bajos
+T171	SYMPTOM 9244 9312	sangre oculta en heces realizado durante el ingreso resultó negativo
+T172	SYMPTOM 10414 10432	signos congestivos
+T173	MEDICATION 322 332	torasemida
+T174	MEDICATION 378 390	simvastatina
+T175	MEDICATION 1349 1359	torasemida
+T176	MEDICATION 7834 7843	nebivolol
+T177	MEDICATION 7920 7935	espironolactona
+T178	MEDICATION 7955 7976	sacubitrilo/valsartán
+T179	MEDICATION 9654 9660	hierro
+T180	MEDICATION 9685 9709	carboximaltosa de hierro
+T181	MEDICATION 10871 10892	hierro carboximaltosa
+T182	MEDICATION 11219 11225	hierro
+#1	AnnotatorNotes T104	 resonancia magnética

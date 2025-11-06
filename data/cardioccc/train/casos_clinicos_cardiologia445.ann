@@ -1,0 +1,90 @@
+T1	DISEASE 70 80	exfumadora
+T2	DISEASE 388 416	insuficiencia cardiaca aguda
+T3	DISEASE 1127 1181	lesiones esclerodérmicas en ambas manos y en el tronco
+T4	DISEASE 1703 1743	bloqueo de rama izquierda del haz de His
+T5	DISEASE 1811 1832	edema agudo de pulmón
+T6	DISEASE 2065 2090	Insuficiencia mitral leve
+T7	DISEASE 2092 2121	Insuficiencia tricúspide leve
+T8	DISEASE 2173 2201	Derrame pericárdico moderado
+T9	DISEASE 2412 2429	fibrosis pulmonar
+T10	DISEASE 2494 2515	hipertensión pulmonar
+T11	DISEASE 2639 2660	edema agudo de pulmón
+T12	DISEASE 2663 2688	insuficiencia renal aguda
+T13	DISEASE 3328 3379	disfunción sistólica ventricular izquierda moderada
+T14	DISEASE 3427 3452	bloqueo de rama izquierdo
+T15	DISEASE 3487 3531	trastornos de la conducción intraventricular
+T16	DISEASE 3820 3853	lesiones cutáneas esclerodérmicas
+T17	DISEASE 3855 3874	efusión pericárdica
+T18	DISEASE 3876 3897	hipertensión pulmonar
+T19	DISEASE 3925 3944	fracaso renal agudo
+T20	DISEASE 3966 3999	enfermedad de carácter autoinmune
+T21	DISEASE 4221 4238	fibrosis pulmonar
+T22	DISEASE 4253 4274	hipertensión pulmonar
+T23	DISEASE 4515 4534	derrame pericárdico
+T24	DISEASE 4638 4659	Edema agudo de pulmón
+T25	DISEASE 4661 4689	Derrame pericárdico moderado
+T26	DISEASE 4736 4795	Esclerosis sistémica difusa con crisis renal esclerodérmica
+T27	DISEASE 4797 4842	Enfermedad pulmonar intersticial con fibrosis
+T28	DISEASE 4845 4866	hipertensión pulmonar
+T29	DISEASE 4691 4734	Disfunción moderada de ventrículo izquierdo
+T30	DISEASE 1795 1808	cardiomegalia
+T31	DISEASE 1865 1935	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica leve
+T32	DISEASE 1992 2034	Ventrículo derecho (VD) levemente dilatado
+T33	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDURE 310 366	tratamiento crónico con antiinflamatorios no esteroideos
+T35	PROCEDURE 772 796	Ventimask al 50% de FiO2
+T36	PROCEDURE 810 828	exploración física
+T37	PROCEDURE 912 939	auscultación cardiopulmonar
+T38	PROCEDURE 1557 1575	sedimento urinario
+T39	PROCEDURE 1593 1603	gasometría
+T40	PROCEDURE 1650 1668	ELECTROCARDIOGRAMA
+T41	PROCEDURE 1670 1673	ECG
+T42	PROCEDURE 1745 1790	RADIOGRAFÍA DE TÓRAX: estudio anteroposterior
+T43	PROCEDURE 1834 1863	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T44	PROCEDURE 2320 2325	TACAR
+T45	PROCEDURE 2517 2532	CORONARIOGRAFÍA
+T46	PROCEDURE 2789 2846	soporte respiratorio con ventilación mecánica no invasiva
+T47	PROCEDURE 3015 3048	tratamiento diurético intravenoso
+T48	PROCEDURE 3084 3131	terapia de sustitución renal con hemofiltración
+T49	PROCEDURE 3280 3309	ecocardiografía transtorácica
+T50	PROCEDURE 3544 3574	estudio angiográfico coronario
+T51	PROCEDURE 3707 3727	soporte ventilatorio
+T52	PROCEDURE 3757 3769	hemodiálisis
+T53	PROCEDURE 3904 3919	ecocardiografía
+T54	PROCEDURE 4024 4044	estudio inmunológico
+T55	PROCEDURE 4155 4160	TACAR
+T56	PROCEDURE 4286 4374	tratamiento con glucocorticoides e inhibidores de la enzima convertidora de angiotensina
+T57	PROCEDURE 4412 4424	hemodiálisis
+T58	PROCEDURE 4442 4466	control ecocardiográfico
+T59	PROCEDURE 2275 2318	TOMOGRAFÍA COMPUTARIZADA DE ALTA RESOLUCIÓN
+T60	PROCEDURE 4376 4380	IECA
+T61	PROCEDURE 1208 1217	ANALÍTICA
+T62	SYMPTOM 256 270	poliartralgias
+T63	SYMPTOM 448 456	ortopnea
+T64	SYMPTOM 459 467	oliguria
+T65	SYMPTOM 479 515	edematización de miembros inferiores
+T66	SYMPTOM 523 537	dolor torácico
+T67	SYMPTOM 540 546	fiebre
+T68	SYMPTOM 565 572	astenia
+T69	SYMPTOM 575 593	pérdida de apetito
+T70	SYMPTOM 798 805	Afebril
+T71	SYMPTOM 836 854	mal estado general
+T72	SYMPTOM 859 879	trabajo respiratorio
+T73	SYMPTOM 882 903	ingurgitación yugular
+T74	SYMPTOM 955 961	soplos
+T75	SYMPTOM 1033 1091	edemas en miembros inferiores hasta tercio medio pretibial
+T76	SYMPTOM 1580 1591	proteinuria
+T77	SYMPTOM 1676 1689	ritmo sinusal
+T78	SYMPTOM 1865 1902	ventrículo izquierdo (VI) no dilatado
+T79	SYMPTOM 1938 1980	patrón diastólico de relajación prolongada
+T80	SYMPTOM 1992 2063	Ventrículo derecho (VD) levemente dilatado con función sistólica normal
+T81	SYMPTOM 2431 2473	Aumento del calibre de la arteria pulmonar
+T82	SYMPTOM 2986 2997	oligoanuria
+T83	SYMPTOM 3791 3802	oligoanuria
+T84	SYMPTOM 4059 4107	positividad para anticuerpos antitopoisomerasa I
+T85	SYMPTOM 4174 4206	infiltrados pulmonares bibasales
+T86	SYMPTOM 273 292	fenómeno de Raynaud
+T87	SYMPTOM 2328 2386	imágenes en vidrio deslustrado en ambos lóbulos inferiores
+T88	SYMPTOM 2534 2567	arterias epicárdicas sin lesiones
+T89	SYMPTOM 967 1009	crepitantes hasta campos medios pulmonares
+T90	SYMPTOM 3544 3600	estudio angiográfico coronario no demostrándose lesiones

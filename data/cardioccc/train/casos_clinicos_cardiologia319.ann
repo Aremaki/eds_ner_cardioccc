@@ -1,0 +1,118 @@
+T1	DISEASE 100 123	alergias medicamentosas
+T2	DISEASE 135 145	hipertensa
+T3	DISEASE 147 152	obesa
+T4	DISEASE 154 165	dislipémica
+T5	DISEASE 168 177	diabética
+T6	DISEASE 199 213	hipotiroidismo
+T7	DISEASE 346 357	cardiopatía
+T8	DISEASE 361 374	muerte súbita
+T9	DISEASE 764 770	angina
+T10	DISEASE 1576 1583	ascitis
+T11	DISEASE 1909 1924	Derrame pleural
+T12	DISEASE 2570 2600	Disfunción ventricular derecha
+T13	DISEASE 2616 2642	Insuficiencia mitral grave
+T14	DISEASE 2677 2735	Regurgitación tricuspídea ligera con hipertensión pulmonar
+T15	DISEASE 3106 3140	enfermedad coronaria de tres vasos
+T16	DISEASE 3298 3360	Estenosis grave de la arteria descendente anterior (ADA) media
+T17	DISEASE 3362 3407	estenosis grave en la primera obtusa marginal
+T18	DISEASE 3416 3464	oclusión de aspecto crónico en coronaria derecha
+T19	DISEASE 4145 4166	edema agudo de pulmón
+T20	DISEASE 4447 4473	regurgitación mitral grave
+T21	DISEASE 4650 4758	anomalía coronaria consistente en el nacimiento del árbol coronario izquierdo en el seno de Valsalva derecho
+T22	DISEASE 4765 4805	enfermedad coronaria grave de tres vasos
+T23	DISEASE 4969 4989	insuficiencia mitral
+T24	DISEASE 5121 5143	insuficiencia cardiaca
+T25	DISEASE 5319 5344	patología valvular mitral
+T26	DISEASE 5627 5664	estenosis mitral residual posimplante
+T27	DISEASE 5807 5853	Miocardiopatía dilatada de etiología isquémica
+T28	DISEASE 5907 5944	Infarto de miocardio inferior antiguo
+T29	DISEASE 5966 6040	nacimiento de todas las arterias coronarias en el seno de Valsalva derecho
+T30	DISEASE 6069 6109	Enfermedad coronaria grave de tres vasos
+T31	DISEASE 6196 6222	Insuficiencia mitral grave
+T32	DISEASE 3015 3045	Disfunción ventricular derecha
+T33	DISEASE 1883 1907	Edema alveolar bilateral
+T34	DISEASE 4991 4993	IM
+T35	DISEASE 2981 3006	Regurgitación tricuspídea
+T36	DISEASE 1868 1881	cardiomegalia
+T37	DISEASE 2193 2208	daño miocárdico
+T38	DISEASE 3075 3082	trombos
+T39	DISEASE 2440 2469	ventrículo izquierdo dilatado
+T40	DISEASE 2788 2854	válvula mitral con calcificación del anillo, fibrosis de los velos
+T41	DISEASE 3557 3602	ventrículo izquierdo (VI) gravemente dilatado
+T42	DISEASE 5946 5964	Anomalía coronaria
+T43	DISEASE 3162 3270	Anomalía coronaria consistente en nacimiento de todas las arterias coronarias en el seno de Valsalva derecho
+T44	DISEASE 2924 2952	regurgitación de grado grave
+T45	DISEASE 5858 5899	disfunción ventricular izquierda moderada
+T46	PROCEDURE 243 287	intervenida de prótesis de rodilla izquierda
+T47	PROCEDURE 1042 1060	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 1295 1316	Auscultación cardiaca
+T49	PROCEDURE 1384 1405	Auscultación pulmonar
+T50	PROCEDURE 1686 1689	ECG
+T51	PROCEDURE 1826 1855	Radiografía de tórax portátil
+T52	PROCEDURE 1961 1970	Hemograma
+T53	PROCEDURE 2330 2341	Coagulación
+T54	PROCEDURE 2410 2438	Ecocardiograma transtorácico
+T55	PROCEDURE 2757 2786	Ecocardiograma transesofágico
+T56	PROCEDURE 3084 3104	Estudio hemodinámico
+T57	PROCEDURE 3539 3555	Ventriculografía
+T58	PROCEDURE 3729 3741	Angioplastia
+T59	PROCEDURE 3948 3994	ADA media y se implanta un stent farmacoactivo
+T60	PROCEDURE 4222 4279	soporte ventilatorio con ventilación mecánica no invasiva
+T61	PROCEDURE 4282 4319	tratamiento diurético y vasodilatador
+T62	PROCEDURE 4420 4434	ecocardiograma
+T63	PROCEDURE 4606 4626	estudio hemodinámico
+T64	PROCEDURE 4848 4864	cirugía cardiaca
+T65	PROCEDURE 4893 4934	revascularización percutánea de OM1 y ADA
+T66	PROCEDURE 5005 5033	revascularización percutánea
+T67	PROCEDURE 5155 5176	tratamiento diurético
+T68	PROCEDURE 5290 5375	tratamiento percutáneo de su patología valvular mitral mediante dispositivo MitraClip
+T69	PROCEDURE 5469 5538	implante de un único clip en posición mitral, guiado por fluoroscopia
+T70	PROCEDURE 5541 5570	ecocardiograma transesofágico
+T71	PROCEDURE 6111 6194	Revascularización percutánea parcial (descendente anterior [DA] y circunfleja [Cx])
+T72	PROCEDURE 6257 6316	Reparación percutánea mitral mediante dispositivo MitraClip
+T73	PROCEDURE 2068 2078	Bioquímica
+T74	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 2179 2208	Marcadores de daño miocárdico
+T76	PROCEDURE 199 240	hipotiroidismo en tratamiento sustitutivo
+T77	PROCEDURE 2163 2168	iones
+T78	PROCEDURE 3912 3951	predilata con balón la lesión de la ADA
+T79	PROCEDURE 3793 3827	se implanta un stent farmacoactivo
+T80	PROCEDURE 1934 1943	Analítica
+T81	PROCEDURE 1543 1552	se palpan
+T82	SYMPTOM 623 675	disnea progresiva hasta hacerse de mínimos esfuerzos
+T83	SYMPTOM 700 708	ortopnea
+T84	SYMPTOM 711 738	disnea paroxística nocturna
+T85	SYMPTOM 1061 1083	Regular estado general
+T86	SYMPTOM 1221 1232	Taquipneica
+T87	SYMPTOM 1249 1269	trabajo respiratorio
+T88	SYMPTOM 1271 1281	Consciente
+T89	SYMPTOM 1284 1293	orientada
+T90	SYMPTOM 1318 1343	ruidos cardiacos rítmicos
+T91	SYMPTOM 1345 1375	Soplo sistólico en foco mitral
+T92	SYMPTOM 1407 1459	crepitantes finos hasta campos pulmonares superiores
+T93	SYMPTOM 1462 1497	silencio auscultatorio en hemitórax
+T94	SYMPTOM 1507 1538	Abdomen: globuloso, no doloroso
+T95	SYMPTOM 1553 1558	masas
+T96	SYMPTOM 1562 1570	megalias
+T97	SYMPTOM 1585 1622	Miembros inferiores: pulsos presentes
+T98	SYMPTOM 1634 1659	edema pretibial bilateral
+T99	SYMPTOM 1702 1715	ritmo sinusal
+T100	SYMPTOM 1736 1748	QRS estrecho
+T101	SYMPTOM 2487 2524	acinesia postero-basal e infero-basal
+T102	SYMPTOM 5591 5604	regurgitación
+T103	SYMPTOM 2163 2177	iones normales
+T104	SYMPTOM 3655 3689	acinesia inferior y posterolateral
+T105	SYMPTOM 3692 3704	hipoquinesia
+T106	SYMPTOM 817 837	trabajo respiratorio
+T107	SYMPTOM 3142 3160	Dominancia derecha
+T108	SYMPTOM 3608 3634	depresión grave de la FEVI
+T109	SYMPTOM 1750 1765	Onda Q inferior
+T110	SYMPTOM 1767 1809	Pobre progresión de onda R en precordiales
+T111	SYMPTOM 3047 3082	Orejuela izquierda libre de trombos
+T112	MEDICATION 408 417	omeprazol
+T113	MEDICATION 429 441	simvastatina
+T114	MEDICATION 453 463	olmesartán
+T115	MEDICATION 512 524	levotiroxina
+T116	MEDICATION 539 547	insulina
+T117	MEDICATION 464 474	amlodipino
+T118	MEDICATION 475 492	hidroclorotiazida

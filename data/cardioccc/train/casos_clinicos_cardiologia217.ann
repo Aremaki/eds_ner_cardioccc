@@ -1,0 +1,126 @@
+T1	DISEASE 71 94	alergias medicamentosas
+T2	DISEASE 166 181	Obesidad tipo 1
+T3	DISEASE 200 209	exfumador
+T4	DISEASE 247 268	cardiopatía isquémica
+T5	DISEASE 315 322	bebedor
+T6	DISEASE 355 384	Cardiopatía isquémica crónica
+T7	DISEASE 407 486	infarto agudo de miocardio con elevación del segmento ST (IAMCEST) anteroseptal
+T8	DISEASE 625 677	oclusión crónica de arteria circunfleja (ACx) distal
+T9	DISEASE 713 745	disfunción ventricular muy grave
+T10	DISEASE 1037 1130	Arteriopatía periférica con estenosis del 70% en ilíaca común izquierda por placa calcificada
+T11	DISEASE 1146 1184	Riñón izquierdo con abundantes quistes
+T12	DISEASE 1623 1689	cardiopatía isquémica en fase dilatada con enfermedad de dos vasos
+T13	DISEASE 1730 1821	ACx ocluida crónica a nivel distal) con disfunción ventricular izquierda residual muy grave
+T14	DISEASE 2466 2483	déficit de hierro
+T15	DISEASE 3075 3097	insuficiencia cardiaca
+T16	DISEASE 3368 3393	trombosis venosa profunda
+T17	DISEASE 3395 3398	TVP
+T18	DISEASE 3584 3633	bloqueo completo de rama izquierda del haz de His
+T19	DISEASE 3635 3641	BCRIHH
+T20	DISEASE 3645 3688	trastornos secundarios de la repolarización
+T21	DISEASE 5445 5452	derrame
+T22	DISEASE 5468 5540	miocardiopatía dilatada con disfunción ventricular izquierda (DVI) grave
+T23	DISEASE 5543 5568	insuficiencia mitral (IM)
+T24	DISEASE 6942 6964	insuficiencia cardiaca
+T25	DISEASE 7281 7287	anemia
+T26	DISEASE 7500 7522	insuficiencia cardiaca
+T27	DISEASE 7653 7692	Insuficiencia cardiaca crónica avanzada
+T28	DISEASE 7694 7726	Disfunción sistólica grave de VI
+T29	DISEASE 7743 7772	cardiopatía isquémica crónica
+T30	DISEASE 7883 7900	Déficit de hierro
+T31	DISEASE 183 198	Hábitos tóxicos
+T32	DISEASE 465 472	IAMCEST
+T33	DISEASE 5394 5403	IP ligera
+T34	DISEASE 4586 4605	congestión pulmonar
+T35	DISEASE 6820 6861	descompensación de insuficiencia cardiaca
+T36	DISEASE 4736 4775	aurícula izquierda ligeramente dilatada
+T37	DISEASE 5039 5079	Ventrículo izquierdo gravemente dilatado
+T38	DISEASE 7230 7247	déficit de hierro
+T39	DISEASE 5565 5567	IM
+T40	DISEASE 6385 6396	EV aisladas
+T41	DISEASE 4912 4932	insuficiencia ligera
+T42	PROCEDURE 509 609	angioplastia emergente sobre arteria descendente anterior (ADA) proximal con un stent fármaco-activo
+T43	PROCEDURE 2020 2041	estudio pretrasplante
+T44	PROCEDURE 2273 2283	trasplante
+T45	PROCEDURE 2762 2780	Exploración física
+T46	PROCEDURE 3104 3116	auscultación
+T47	PROCEDURE 3292 3313	Exploración abdominal
+T48	PROCEDURE 3426 3444	Electrocardiograma
+T49	PROCEDURE 3446 3449	ECG
+T50	PROCEDURE 3815 3830	Perfil lipídico
+T51	PROCEDURE 3914 3942	Perfiles hepático y tiroideo
+T52	PROCEDURE 4038 4047	Hemograma
+T53	PROCEDURE 4116 4138	Estudio de coagulación
+T54	PROCEDURE 4409 4429	Radiografía de tórax
+T55	PROCEDURE 4685 4714	Ecocardiografía transtorácica
+T56	PROCEDURE 5587 5603	Ergoespirometría
+T57	PROCEDURE 6341 6344	ECG
+T58	PROCEDURE 7534 7553	trasplante cardiaco
+T59	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 4147 4169	Metabolismo del hierro
+T61	PROCEDURE 6601 6617	ergoespirometría
+T62	PROCEDURE 7006 7028	metabolismo del hierro
+T63	PROCEDURE 1691 1719	ADA proximal revascularizada
+T64	PROCEDURE 3690 3699	Analítica
+T65	PROCEDURE 4221 4238	Control analítico
+T66	PROCEDURE 966 969	DAI
+T67	PROCEDURE 4607 4622	DAI monocameral
+T68	PROCEDURE 5376 5379	DAI
+T69	PROCEDURE 7813 7828	DAI monocameral
+T70	PROCEDURE 2429 2446	control analítico
+T71	PROCEDURE 7136 7153	control analítico
+T72	PROCEDURE 928 982	desfibrilador automático implantable (DAI) monocameral
+T73	PROCEDURE 2722 2759	reposición de los depósitos de hierro
+T74	SYMPTOM 438 463	elevación del segmento ST
+T75	SYMPTOM 2781 2800	Buen estado general
+T76	SYMPTOM 2802 2812	Consciente
+T77	SYMPTOM 2814 2823	orientado
+T78	SYMPTOM 2826 2837	colaborador
+T79	SYMPTOM 3026 3055	Eupneico en reposo y al habla
+T80	SYMPTOM 3118 3142	tonos cardiacos rítmicos
+T81	SYMPTOM 3147 3169	soplo sistólico mitral
+T82	SYMPTOM 3198 3213	ritmo de galope
+T83	SYMPTOM 3215 3244	Murmullo vesicular conservado
+T84	SYMPTOM 3249 3260	crepitantes
+T85	SYMPTOM 3292 3321	Exploración abdominal anodina
+T86	SYMPTOM 3323 3353	Miembros inferiores sin edemas
+T87	SYMPTOM 3465 3478	ritmo sinusal
+T88	SYMPTOM 3914 3951	Perfiles hepático y tiroideo normales
+T89	SYMPTOM 4052 4064	leucocitosis
+T90	SYMPTOM 4116 4145	Estudio de coagulación normal
+T91	SYMPTOM 4803 4862	Válvula mitral sin afectación orgánica, apertura conservada
+T92	SYMPTOM 6226 6263	alteración de la reserva ventilatoria
+T93	SYMPTOM 6279 6302	alteración ventilatoria
+T94	SYMPTOM 6739 6751	asintomático
+T95	SYMPTOM 3182 3194	tercer ruido
+T96	SYMPTOM 3529 3538	QRS ancho
+T97	SYMPTOM 4431 4492	índice cardio-torácico en el límite superior de la normalidad
+T98	SYMPTOM 4934 4997	Válvula aórtica trivalva, sin organicidad y con flujos normales
+T99	SYMPTOM 4999 5024	Raíz de aorta no dilatada
+T100	SYMPTOM 5140 5159	hipoquinesia global
+T101	SYMPTOM 2839 2866	Bien hidratado y perfundido
+T102	SYMPTOM 5330 5361	Cavidades derechas no dilatadas
+T103	SYMPTOM 4069 4083	fórmula normal
+T104	SYMPTOM 4537 4571	redistribución vascular a vértices
+T105	SYMPTOM 3270 3290	ruidos sobreañadidos
+T106	SYMPTOM 2939 2969	tensión arterial (TA) en rango
+T107	SYMPTOM 4497 4534	hilio izquierdo discretamente borrado
+T108	SYMPTOM 4867 4894	cierre en tenting simétrico
+T109	SYMPTOM 4897 4932	jet central de insuficiencia ligera
+T110	SYMPTOM 5421 5431	VCI normal
+T111	SYMPTOM 6197 6212	No presenta EOV
+T112	SYMPTOM 6522 6566	ligera disminución de la capacidad funcional
+T113	SYMPTOM 6422 6453	Comportamiento tensional normal
+T114	MEDICATION 1308 1330	ácido acetilsalicílico
+T115	MEDICATION 1348 1358	carvedilol
+T116	MEDICATION 1377 1390	atorvastatina
+T117	MEDICATION 1402 1411	ezetimiba
+T118	MEDICATION 1428 1449	sacubitrilo/valsartán
+T119	MEDICATION 1469 1479	eplerenona
+T120	MEDICATION 1496 1505	omeprazol
+T121	MEDICATION 2522 2543	hierro carboximaltosa
+T122	MEDICATION 6666 6687	hierro carboximaltosa
+T123	MEDICATION 7341 7362	hierro carboximaltosa
+T124	MEDICATION 7913 7934	hierro carboximaltosa
+T125	MEDICATION 4268 4282	carboximaltosa
+#1	AnnotatorNotes T33	IP insuficiencia pulmonar

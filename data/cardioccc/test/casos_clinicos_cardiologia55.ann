@@ -1,0 +1,83 @@
+T1	ENFERMEDAD 2103 2120	VT: engrosamiento
+T2	ENFERMEDAD 118 134	anorexia-bulimia
+T3	ENFERMEDAD 236 257	aplasia medular grave
+T4	ENFERMEDAD 1181 1184	TVP
+T5	ENFERMEDAD 2576 2600	fibrosis del subvalvular
+T6	ENFERMEDAD 3236 3257	proceso endocardítico
+T7	ENFERMEDAD 3259 3291	Insuficiencia tricuspídea severa
+T8	ENFERMEDAD 3658 3681	infección de reservorio
+T9	ENFERMEDAD 3692 3704	endocarditis
+T10	ENFERMEDAD 3766 3811	endocarditis a nivel de la válvula tricúspide
+T11	ENFERMEDAD 4011 4032	Aplasia medular grave
+T12	ENFERMEDAD 4078 4146	Endocarditis sobre válvula tricúspide por Staphylococcus epidermidis
+T13	ENFERMEDAD 185 200	hábitos tóxicos
+T14	ENFERMEDAD 1958 1960	IM
+T15	ENFERMEDAD 2003 2031	Cavidades derechas dilatadas
+T16	ENFERMEDAD 2626 2650	afectación endocardítica
+T17	ENFERMEDAD 2689 2698	IT severa
+T18	ENFERMEDAD 2718 2738	perforación de velos
+T19	ENFERMEDAD 2999 3024	formaciones abcesificadas
+T20	PROCEDIMIENTO 276 302	tratamiento inmunosupresor
+T21	PROCEDIMIENTO 326 351	trasplante de médula ósea
+T22	PROCEDIMIENTO 647 658	transfusión
+T23	PROCEDIMIENTO 805 823	Exploración física
+T24	PROCEDIMIENTO 978 999	Auscultación cardiaca
+T25	PROCEDIMIENTO 1067 1088	Auscultación pulmonar
+T26	PROCEDIMIENTO 1128 1141	PPR bilateral
+T27	PROCEDIMIENTO 1683 1695	Hemocultivos
+T28	PROCEDIMIENTO 1766 1786	Radiografía de tórax
+T29	PROCEDIMIENTO 1823 1837	Ecocardiograma
+T30	PROCEDIMIENTO 2833 2862	Ecocardiograma transesofágico
+T31	PROCEDIMIENTO 2900 2903	ETT
+T32	PROCEDIMIENTO 3514 3556	tratamiento antibiótico de amplio espectro
+T33	PROCEDIMIENTO 3559 3622	transfusión de productos irradiados (2 CH y 1 pool de plaquetas
+T34	PROCEDIMIENTO 3718 3746	ecocardiograma transtorácico
+T35	PROCEDIMIENTO 3834 3837	ETE
+T36	PROCEDIMIENTO 3849 3891	tratamiento antibiótico de amplio espectro
+T37	PROCEDIMIENTO 3982 3996	antibioterapia
+T38	PROCEDIMIENTO 4050 4076	tratamiento inmunosupresor
+T39	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T40	PROCEDIMIENTO 156 179	tratamiento psicológico
+T41	PROCEDIMIENTO 1229 1253	palpación del epigastrio
+T42	PROCEDIMIENTO 1400 1409	Analítica
+T43	PROCEDIMIENTO 3605 3622	pool de plaquetas
+T44	PROCEDIMIENTO 1046 1058	se auscultan
+T45	PROCEDIMIENTO 3598 3600	CH
+T46	SINTOMA 413 419	fiebre
+T47	SINTOMA 435 442	vómitos
+T48	SINTOMA 445 450	mareo
+T49	SINTOMA 501 509	tos seca
+T50	SINTOMA 511 521	irritativa
+T51	SINTOMA 556 564	rinorrea
+T52	SINTOMA 569 576	otalgia
+T53	SINTOMA 581 598	clínica miccional
+T54	SINTOMA 603 638	alteraciones de hábito deposicional
+T55	SINTOMA 685 724	dolor y molestias en zona de reservorio
+T56	SINTOMA 933 943	Consciente
+T57	SINTOMA 945 954	orientada
+T58	SINTOMA 1001 1026	ruidos cardiacos rítmicos
+T59	SINTOMA 1028 1041	taquicárdicos
+T60	SINTOMA 1059 1065	soplos
+T61	SINTOMA 1090 1126	normoventilación en todos los campos
+T62	SINTOMA 1128 1150	PPR bilateral negativa
+T63	SINTOMA 1186 1238	Abdomen: blando, depresible, doloroso a la palpación
+T64	SINTOMA 1268 1273	masas
+T65	SINTOMA 1277 1292	visceromegalias
+T66	SINTOMA 1294 1318	Peristaltismo conservado
+T67	SINTOMA 1333 1344	peritonismo
+T68	SINTOMA 1346 1373	Blumberg y Murphy negativos
+T69	SINTOMA 1683 1738	Hemocultivos: positivos para Staphylococcus epidermidis
+T70	SINTOMA 1839 1850	FEVI normal
+T71	SINTOMA 1857 1880	asimetrías contráctiles
+T72	SINTOMA 1882 1897	Diástole normal
+T73	SINTOMA 1915 1953	VM de velos finos, cinética conservada
+T74	SINTOMA 2083 2101	función conservada
+T75	SINTOMA 353 394	Portadora de reservorio venoso subcutáneo
+T76	SINTOMA 757 773	zona eritematosa
+T77	SINTOMA 1215 1253	doloroso a la palpación del epigastrio
+T78	SINTOMA 1962 1987	VAo trivalva, velos finos
+T79	SINTOMA 1152 1166	EEII: no edema
+T80	SINTOMA 780 802	aumento de calor local
+T81	FARMACO 1753 1764	cloxacilina
+#1	AnnotatorNotes T14	 IM insuficiencia mitral
+#2	AnnotatorNotes T17	 IT insuficiencia tricuspídea

@@ -1,0 +1,147 @@
+T1	DISEASE 196 203	fumador
+T2	DISEASE 3302 3325	VI ligeramente dilatado
+T3	DISEASE 1409 1421	BAV 1o grado
+T4	DISEASE 4090 4109	BAV de primer grado
+T5	DISEASE 6145 6148	BAV
+T6	DISEASE 1285 1290	BRDHH
+T7	DISEASE 3225 3233	HTP leve
+T8	DISEASE 1115 1117	IC
+T9	DISEASE 1526 1528	TV
+T10	DISEASE 4491 4493	TV
+T11	DISEASE 4570 4572	TV
+T12	DISEASE 4723 4725	TV
+T13	DISEASE 5291 5293	TV
+T14	DISEASE 6731 6758	TV monomorfas no sostenidas
+T15	DISEASE 7113 7115	TV
+T16	DISEASE 7394 7396	TV
+T17	DISEASE 8067 8100	Taquicardia ventricular sostenida
+T18	DISEASE 6346 6378	adenopatías a nivel mediastínico
+T19	DISEASE 7932 7940	arritmia
+T20	DISEASE 206 222	bebedor moderado
+T21	DISEASE 5325 5346	cardiopatía isquémica
+T22	DISEASE 5509 5530	cardiopatía isquémica
+T23	DISEASE 131 141	dislipemia
+T24	DISEASE 6026 6046	enfermedad de Chagas
+T25	DISEASE 5093 5107	fallo cardiaco
+T26	DISEASE 5878 5889	miocarditis
+T27	DISEASE 6515 6532	miocarditis aguda
+T28	DISEASE 8125 8142	miocarditis aguda
+T29	DISEASE 6012 6023	sarcoidosis
+T30	DISEASE 6078 6089	sarcoidosis
+T31	DISEASE 6277 6297	sarcoidosis cardiaca
+T32	DISEASE 3923 3968	taquicardia ventricular monomórfica sostenida
+T33	DISEASE 3157 3170	valvulopatías
+T34	DISEASE 2964 3020	ventrículo izquierdo no dilatado, levemente hipertrófico
+T35	DISEASE 4765 4783	flúter ventricular
+T36	DISEASE 7155 7173	flúter ventricular
+T37	DISEASE 8017 8022	TVMNS
+T38	DISEASE 1461 1463	EV
+T39	DISEASE 6642 6644	EV
+T40	DISEASE 622 654	taquicardia regular de QRS ancho
+T41	DISEASE 1232 1264	taquicardia regular de QRS ancho
+T42	DISEASE 7030 7032	TV
+T43	DISEASE 7445 7463	flúter ventricular
+T44	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T45	PROCEDURE 596 599	ECG
+T46	PROCEDURE 933 943	CVE a 100J
+T47	PROCEDURE 1073 1091	exploración física
+T48	PROCEDURE 1209 1212	ECG
+T49	PROCEDURE 1339 1342	ECG
+T50	PROCEDURE 2289 2300	Coagulación
+T51	PROCEDURE 2658 2678	Estudio inmunológico
+T52	PROCEDURE 2729 2747	Hormonas tiroideas
+T53	PROCEDURE 2849 2859	Serologías
+T54	PROCEDURE 2934 2962	Ecocardiograma transtorácico
+T55	PROCEDURE 3235 3253	Angio-TC coronario
+T56	PROCEDURE 3297 3300	RMC
+T57	PROCEDURE 3895 3921	Estudio electrofisiológico
+T58	PROCEDURE 3970 3998	Ablación de sustrato con RDF
+T59	PROCEDURE 4010 4029	implantación de DAI
+T60	PROCEDURE 4156 4186	sedación con propofol y ultiva
+T61	PROCEDURE 4221 4280	Se mapea el ventrículo izquierdo con el catéter de ablación
+T62	PROCEDURE 5181 5191	telemetría
+T63	PROCEDURE 5204 5235	tratamiento con betabloqueantes
+T64	PROCEDURE 5598 5616	angio-TC coronario
+T65	PROCEDURE 5789 5818	resonancia magnética cardiaca
+T66	PROCEDURE 5820 5823	RMC
+T67	PROCEDURE 7002 7032	ablación del sustrato de la TV
+T68	PROCEDURE 7040 7066	estudio electrofisiológico
+T69	PROCEDURE 7093 7108	radiofrecuencia
+T70	PROCEDURE 7479 7508	implantación de DAI bicameral
+T71	PROCEDURE 7535 7553	se implanta el DAI
+T72	PROCEDURE 7773 7790	electrofisiología
+T73	PROCEDURE 7826 7847	monitorización remota
+T74	PROCEDURE 1750 1760	Bioquímica
+T75	PROCEDURE 7683 7697	betabloqueante
+T76	PROCEDURE 2414 2430	Curva enzimática
+T77	PROCEDURE 2501 2512	lipidograma
+T78	PROCEDURE 2581 2600	Metabolismo férrico
+T79	PROCEDURE 4583 4633	se aplica RDF en la cara lateral del anillo mitral
+T80	PROCEDURE 1570 1579	Analítica
+T81	PROCEDURE 968 974	choque
+T82	PROCEDURE 4800 4816	choque eléctrico
+T83	PROCEDURE 4475 4493	inducción de la TV
+T84	PROCEDURE 4409 4420	pacemapping
+T85	PROCEDURE 800 823	perfusión de amiodarona
+T86	PROCEDURE 1592 1604	EAB arterial
+T87	PROCEDURE 7190 7206	choque eléctrico
+T88	PROCEDURE 3428 3458	secuencias potenciadas en Stir
+T89	PROCEDURE 3526 3553	secuencias de realce precoz
+T90	PROCEDURE 3637 3664	secuencias de realce tardío
+T91	PROCEDURE 4193 4219	sistema de Navex-precision
+T92	PROCEDURE 4539 4580	isoproterenol iv. se induce la TV clínica
+T93	PROCEDURE 4859 4964	ablación de sustrato administrando una corona de lesiones alrededor de la zona previo en el anillo mitral
+T94	PROCEDURE 7249 7354	ablación de sustrato administrando una corona de lesiones alrededor de la zona previa en el anillo mitral
+T95	PROCEDURE 7956 7972	descarga del DAI
+T96	SYMPTOM 339 368	disnea de moderados esfuerzos
+T97	SYMPTOM 390 403	palpitaciones
+T98	SYMPTOM 406 420	dolor torácico
+T99	SYMPTOM 474 487	palpitaciones
+T100	SYMPTOM 694 719	hemodinámicamente estable
+T101	SYMPTOM 957 959	RS
+T102	SYMPTOM 1054 1063	hipotenso
+T103	SYMPTOM 1153 1165	asintomático
+T104	SYMPTOM 1369 1382	ritmo sinusal
+T105	SYMPTOM 1436 1448	QRS estrecho
+T106	SYMPTOM 2729 2756	Hormonas tiroideas normales
+T107	SYMPTOM 2964 2996	ventrículo izquierdo no dilatado
+T108	SYMPTOM 3027 3057	buena función sistólica global
+T109	SYMPTOM 3113 3151	hipocinesia en segmento inferior basal
+T110	SYMPTOM 3172 3203	Cavidades derechas no dilatadas
+T111	SYMPTOM 3482 3517	edema en segmentos basales septales
+T112	SYMPTOM 4063 4076	ritmo sinusal
+T113	SYMPTOM 4451 4462	taquicardia
+T114	SYMPTOM 5134 5146	asintomático
+T115	SYMPTOM 6405 6429	engrosamiento miocárdico
+T116	SYMPTOM 6579 6592	ritmo sinusal
+T117	SYMPTOM 7650 7662	asintomático
+T118	SYMPTOM 2849 2932	Serologías negativas para CMV, enterovirus, parvovirus, VHC, VIH, Tripanosoma cruzi
+T119	SYMPTOM 3302 3364	VI ligeramente dilatado con función global levemente deprimida
+T120	SYMPTOM 3366 3397	Hipocinesia de la cara inferior
+T121	SYMPTOM 6130 6138	PR largo
+T122	SYMPTOM 730 753	leve sensación de mareo
+T123	SYMPTOM 884 907	comienza a hipotensarse
+T124	SYMPTOM 1040 1047	estable
+T125	SYMPTOM 1073 1099	exploración física anodina
+T126	SYMPTOM 2680 2727	anticuerpos ANAs, PR3-ANCA, MPO- ANCA negativos
+T127	SYMPTOM 3255 3281	red coronaria sin lesiones
+T128	SYMPTOM 4112 4124	QRS estrecho
+T129	SYMPTOM 5640 5681	red coronaria sin lesiones significativas
+T130	SYMPTOM 6382 6401	signos restrictivos
+T131	MEDICATION 813 823	amiodarona
+T132	MEDICATION 4169 4177	propofol
+T133	MEDICATION 4539 4552	isoproterenol
+T134	MEDICATION 5237 5247	bisoprolol
+T135	MEDICATION 6897 6907	amiodarona
+T136	MEDICATION 7699 7709	bisoprolol
+T137	MEDICATION 4180 4186	ultiva
+#1	AnnotatorNotes T7	HTP hipertensión pulmonar
+#2	AnnotatorNotes T8	insuficiencia cardíaca
+#3	AnnotatorNotes T9	TV taquicardia ventricular
+#4	AnnotatorNotes T10	TV taquicardia ventricular
+#5	AnnotatorNotes T11	TV taquicardia ventricular
+#6	AnnotatorNotes T12	TV taquicardia ventricular
+#7	AnnotatorNotes T13	TV taquicardia ventricular
+#8	AnnotatorNotes T14	TV taquicardia ventricular
+#9	AnnotatorNotes T15	TV taquicardia ventricular
+#10	AnnotatorNotes T16	TV taquicardia ventricular

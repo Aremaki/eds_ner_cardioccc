@@ -1,0 +1,163 @@
+T1	DISEASE 90 111	hipertensión arterial
+T2	DISEASE 113 130	diabetes mellitus
+T3	DISEASE 133 162	fibrilación auricular crónica
+T4	DISEASE 282 347	doble lesión mitral reumática con insuficiencia mitral (IM) grave
+T5	DISEASE 403 432	doble lesión aórtica moderada
+T6	DISEASE 434 464	hipertensión pulmonar moderada
+T7	DISEASE 1426 1447	fibrilación auricular
+T8	DISEASE 2360 2394	Válvula aórtica esclerocalcificada
+T9	DISEASE 2432 2452	Doble lesión aórtica
+T10	DISEASE 2615 2645	Insuficiencia aórtica moderada
+T11	DISEASE 3003 3015	VCI dilatada
+T12	DISEASE 3062 3081	derrame pericárdico
+T13	DISEASE 3589 3625	Válvula aórtica trivalva calcificada
+T14	DISEASE 3849 3870	shunts intracardiacos
+T15	DISEASE 4335 4391	trombo mural fijo en la entrada de la orejuela izquierda
+T16	DISEASE 4927 4970	estenosis no significativa en tronco ostial
+T17	DISEASE 5143 5165	insuficiencia cardiaca
+T18	DISEASE 5329 5377	disfunción sistólica ventricular izquierda grave
+T19	DISEASE 5417 5449	estenosis aórtica moderada-grave
+T20	DISEASE 5538 5585	trombo intraventricular tapizando anillo mitral
+T21	DISEASE 5992 6006	fallo cardiaco
+T22	DISEASE 6151 6185	isquemia aguda de miembro inferior
+T23	DISEASE 6415 6434	trombosis protésica
+T24	DISEASE 6469 6489	embolismo periférico
+T25	DISEASE 7124 7180	Aspergillus en el septifast del "trombo valvular mitral"
+T26	DISEASE 7869 7914	lesión quística en lóbulo occipital izquierdo
+T27	DISEASE 8008 8019	aspergiloma
+T28	DISEASE 8069 8166	ictus en territorio de arteria cerebral posterior izquierda con componente hemorrágico/infeccioso
+T29	DISEASE 8190 8220	émbolo séptico por Aspergillus
+T30	DISEASE 8411 8443	insuficiencia respiratoria aguda
+T31	DISEASE 8752 8776	tromboembolismo pulmonar
+T32	DISEASE 9109 9120	aspergiloma
+T33	DISEASE 9193 9244	Endocarditis fúngica sobre válvula mitral protésica
+T34	DISEASE 9262 9288	Bloqueo valvular protésico
+T35	DISEASE 9290 9349	Embolismo periférico con isquemia aguda de miembro inferior
+T36	DISEASE 9393 9452	Ictus en territorio de arteria cerebral posterior izquierda
+T37	DISEASE 9481 9492	aspergiloma
+T38	DISEASE 9495 9513	Shock cardiogénico
+T39	DISEASE 2904 2915	IT moderada
+T40	DISEASE 3833 3844	IT moderada
+T41	DISEASE 1702 1717	daño miocárdico
+T42	DISEASE 2105 2160	ventrículo izquierdo ligeramente hipertrófico, dilatado
+T43	DISEASE 2309 2320	AI dilatada
+T44	DISEASE 2891 2902	AD dilatada
+T45	DISEASE 2945 2947	IP
+T46	DISEASE 3165 3188	Fuga periprotésica leve
+T47	DISEASE 3794 3805	VD dilatado
+T48	DISEASE 4282 4311	insuficiencias periprotésicas
+T49	DISEASE 8819 8846	disociación electromecánica
+T50	DISEASE 9515 9542	disociación electromecánica
+T51	DISEASE 914 935	episodios infecciosos
+T52	DISEASE 3581 3587	trombo
+T53	DISEASE 4231 4237	trombo
+T54	DISEASE 6761 6767	trombo
+T55	DISEASE 8605 8655	grave depresión de la contractilidad global del VI
+T56	DISEASE 8970 9061	estructura densa parcialmente trombosada anclada al disco protésico, compuesta por micelios
+T57	PROCEDURE 355 369	ecocardiograma
+T58	PROCEDURE 1142 1163	Auscultación cardiaca
+T59	PROCEDURE 1292 1313	Auscultación pulmonar
+T60	PROCEDURE 1418 1421	ECG
+T61	PROCEDURE 1537 1546	hemograma
+T62	PROCEDURE 1795 1807	Hemocultivos
+T63	PROCEDURE 1868 1888	Radiografía de tórax
+T64	PROCEDURE 2014 2043	Ecocardiogramas transtorácico
+T65	PROCEDURE 2045 2048	ETT
+T66	PROCEDURE 2060 2075	transesofágicos
+T67	PROCEDURE 2077 2080	ETE
+T68	PROCEDURE 2092 2095	ETT
+T69	PROCEDURE 3083 3086	ETE
+T70	PROCEDURE 3872 3875	ETE
+T71	PROCEDURE 4582 4585	ETE
+T72	PROCEDURE 4910 4925	Coronariografía
+T73	PROCEDURE 5177 5198	tratamiento diurético
+T74	PROCEDURE 5294 5322	ecocardiograma transtorácico
+T75	PROCEDURE 5324 5327	ETT
+T76	PROCEDURE 5469 5498	ecocardiograma transesofágico
+T77	PROCEDURE 5500 5503	ETE
+T78	PROCEDURE 6197 6207	ecodoppler
+T79	PROCEDURE 6220 6287	embolectomía urgente transfemoral de arteria ilíaca externa derecha
+T80	PROCEDURE 6503 6565	intervención quirúrgica urgente sobre válvula mitral protésica
+T81	PROCEDURE 6568 6596	sustitución valvular aórtica
+T82	PROCEDURE 6647 6685	limpieza quirúrgica de prótesis mitral
+T83	PROCEDURE 6859 6909	sustitución valvular aórtica por prótesis metálica
+T84	PROCEDURE 7014 7043	ventilación mecánica invasiva
+T85	PROCEDURE 7312 7344	extracción de la prótesis mitral
+T86	PROCEDURE 7357 7379	limpieza intracardiaca
+T87	PROCEDURE 7401 7436	implante de nueva prótesis mecánica
+T88	PROCEDURE 7533 7544	vasoactivos
+T89	PROCEDURE 7558 7568	extubación
+T90	PROCEDURE 7707 7730	exploración neurológica
+T91	PROCEDURE 7835 7846	TAC craneal
+T92	PROCEDURE 8456 8485	ventilación mecánica invasiva
+T93	PROCEDURE 8581 8584	ETE
+T94	PROCEDURE 8910 8942	análisis posterior de la válvula
+T95	PROCEDURE 9371 9383	embolectomía
+T96	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T97	PROCEDURE 1688 1717	marcadores de daño miocárdico
+T98	PROCEDURE 1508 1527	Analítica de sangre
+T99	PROCEDURE 1599 1623	función renal y hepática
+T100	PROCEDURE 1572 1582	bioquímica
+T101	PROCEDURE 5806 5829	Se extraen hemocultivos
+T102	PROCEDURE 2647 2671	Prótesis mecánica mitral
+T103	PROCEDURE 234 241	cirugía
+T104	PROCEDURE 945 952	cirugía
+T105	PROCEDURE 8869 8904	reanimación cardiopulmonar avanzada
+T106	SYMPTOM 699 705	disnea
+T107	SYMPTOM 781 789	ortopnea
+T108	SYMPTOM 822 849	disnea paroxística nocturna
+T109	SYMPTOM 868 882	dolor torácico
+T110	SYMPTOM 954 960	fiebre
+T111	SYMPTOM 963 972	febrícula
+T112	SYMPTOM 1142 1174	Auscultación cardiaca: arrítmica
+T113	SYMPTOM 1207 1238	soplo sistólico en foco aórtico
+T114	SYMPTOM 1247 1287	soplo sistólico rudo en foco tricuspídeo
+T115	SYMPTOM 1324 1350	crepitantes en ambas bases
+T116	SYMPTOM 1572 1640	bioquímica y parámetros de función renal y hepática sin alteraciones
+T117	SYMPTOM 1795 1828	Hemocultivos extraídos: negativos
+T118	SYMPTOM 3631 3660	apertura severamente reducida
+T119	SYMPTOM 5817 5852	hemocultivos que resultan negativos
+T120	SYMPTOM 5917 5924	afebril
+T121	SYMPTOM 5930 5949	buen estado general
+T122	SYMPTOM 6042 6084	dolor agudo a nivel de extremidad inferior
+T123	SYMPTOM 6111 6122	parestesias
+T124	SYMPTOM 6125 6139	palidez distal
+T125	SYMPTOM 6964 6989	estable hemodinámicamente
+T126	SYMPTOM 7656 7685	disminución de agudeza visual
+T127	SYMPTOM 8496 8522	inestabilidad hemodinámica
+T128	SYMPTOM 8808 8814	exitus
+T129	SYMPTOM 9145 9178	masa creció Aspergillus fumigatus
+T130	SYMPTOM 9544 9550	Exitus
+T131	SYMPTOM 7937 7942	edema
+T132	SYMPTOM 2188 2214	grave depresión de la FEVI
+T133	SYMPTOM 2234 2252	Hipocinesia global
+T134	SYMPTOM 7740 7768	hemianopsia homónima derecha
+T135	SYMPTOM 1537 1570	hemograma dentro de la normalidad
+T136	SYMPTOM 6956 6962	sedada
+T137	SYMPTOM 467 532	ventrículo izquierdo no dilatado con función sistólica preservada
+T138	SYMPTOM 1941 1980	refuerzo de la trama peribroncovascular
+T139	SYMPTOM 2266 2307	Patrón de llenado mitral con onda E única
+T140	SYMPTOM 4446 4501	imagen ecodensa mural en fondo de la aurícula izquierda
+T141	SYMPTOM 4589 4656	imagen ecodensa de gran tamaño en cara auricular de prótesis mitral
+T142	SYMPTOM 6742 6746	masa
+T143	MEDICATION 561 570	aldocumar
+T144	MEDICATION 572 580	digoxina
+T145	MEDICATION 582 592	metformina
+T146	MEDICATION 593 606	vildagliptina
+T147	MEDICATION 608 618	carvedilol
+T148	MEDICATION 620 635	espironolactona
+T149	MEDICATION 637 649	escitalopram
+T150	MEDICATION 652 662	furosemida
+T151	MEDICATION 5623 5638	heparina sódica
+T152	MEDICATION 5641 5644	AAS
+T153	MEDICATION 7219 7233	anfotericina B
+T154	MEDICATION 7236 7247	voriconazol
+T155	MEDICATION 7384 7398	anfotericina B
+T156	MEDICATION 8315 8327	caspofungina
+T157	MEDICATION 8547 8553	aminas
+#1	AnnotatorNotes T11	 VCI vena cava inferior
+#2	AnnotatorNotes T39	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T43	 AI aurícula izquierda
+#4	AnnotatorNotes T44	 AD aurícula derecha
+#5	AnnotatorNotes T45	 IP insuficiencia pulmonar
+#6	AnnotatorNotes T47	 VD ventrículo derecho

@@ -1,0 +1,136 @@
+T1	DISEASE 128 140	extabaquismo
+T2	DISEASE 142 163	hipertensión arterial
+T3	DISEASE 165 184	broncopatía crónica
+T4	DISEASE 186 212	artropatía microcristalina
+T5	DISEASE 214 235	fibrilación auricular
+T6	DISEASE 276 304	insuficiencia valvular grave
+T7	DISEASE 448 454	anemia
+T8	DISEASE 599 644	Anulopastia mitral con insuficiencia residual
+T9	DISEASE 656 686	Hipertensión pulmonar moderada
+T10	DISEASE 812 851	carcinoma de colon en unión recto-sigma
+T11	DISEASE 891 897	anemia
+T12	DISEASE 3035 3069	bloqueo completo de rama izquierda
+T13	DISEASE 3153 3175	insuficiencia cardiaca
+T14	DISEASE 3448 3472	dilatación biventricular
+T15	DISEASE 3474 3523	Insuficiencia mitral y aórtica al menos moderadas
+T16	DISEASE 4049 4077	insuficiencia valvular grave
+T17	DISEASE 4232 4254	insuficiencia cardiaca
+T18	DISEASE 4280 4286	anemia
+T19	DISEASE 4666 4690	infección por SARS-CoV-2
+T20	DISEASE 4737 4745	COVID-19
+T21	DISEASE 5002 5027	infección por coronavirus
+T22	DISEASE 5070 5092	insuficiencia cardiaca
+T23	DISEASE 5115 5138	endocarditis infecciosa
+T24	DISEASE 5156 5170	anemia crónica
+T25	DISEASE 6629 6667	shock mixto cardiogénico y vasopléjico
+T26	DISEASE 6988 7042	fibrilación auricular con respuesta ventricular rápida
+T27	DISEASE 7305 7346	Descompensación de insuficiencia cardiaca
+T28	DISEASE 7395 7492	endocarditis infecciosa aórtica y mitral por E. faecium con insuficiencia grave de ambas válvulas
+T29	DISEASE 7509 7547	anemia crónica microcítica hipocrómica
+T30	DISEASE 7597 7639	Infección respiratoria leve por SARS-CoV-2
+T31	DISEASE 7641 7679	Shock mixto cardiogénico y vasopléjico
+T32	DISEASE 7784 7846	Fibrilación auricular de novo con respuesta ventricular rápida
+T33	DISEASE 688 713	Válvula aórtica bicúspide
+T34	DISEASE 326 367	descompensación de insuficiencia cardiaca
+T35	DISEASE 4520 4561	descompensación de insuficiencia cardiaca
+T36	DISEASE 3556 3692	válvula aórtica bicúspide con infiltración y desestructuración de todo el velo fusionado que prolapsa y ocasiona una insuficiencia grave
+T37	DISEASE 3853 3868	abscesificación
+T38	DISEASE 507 556	ventrículo izquierdo no dilatado, con hipertrofia
+T39	DISEASE 3707 3718	perforación
+T40	DISEASE 4019 4029	vegetación
+T41	DISEASE 6267 6294	disnea paroxística nocturna
+T42	DISEASE 7384 7390	anemia
+T43	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T44	PROCEDURE 237 256	anuloplastia mitral
+T45	PROCEDURE 413 445	antiinflamatorios no esteroideos
+T46	PROCEDURE 463 491	ecocardiograma transtorácico
+T47	PROCEDURE 770 804	resección intestinal anterior baja
+T48	PROCEDURE 1654 1681	auscultación cardiopulmonar
+T49	PROCEDURE 1805 1824	Analítica sanguínea
+T50	PROCEDURE 2808 2818	Hemostasia
+T51	PROCEDURE 2931 2949	Electrocardiograma
+T52	PROCEDURE 3122 3142	Radiografía torácica
+T53	PROCEDURE 3257 3269	Hemocultivos
+T54	PROCEDURE 3418 3446	Ecocardiograma transtorácico
+T55	PROCEDURE 3525 3554	Ecocardiograma transesofágico
+T56	PROCEDURE 3948 3967	Anuloplastia mitral
+T57	PROCEDURE 4079 4116	Resonancia magnética nuclear cerebral
+T58	PROCEDURE 4304 4347	transfundido con un concentrado de hematíes
+T59	PROCEDURE 4912 4924	hemocultivos
+T60	PROCEDURE 5366 5378	hemocultivos
+T61	PROCEDURE 5400 5412	antibiograma
+T62	PROCEDURE 5596 5608	RMN cerebral
+T63	PROCEDURE 5690 5731	tomar otro exudado para PCR de SARS-CoV-2
+T64	PROCEDURE 6307 6336	oxigenoterapia con reservorio
+T65	PROCEDURE 6449 6495	doble recambio valvular por prótesis mecánicas
+T66	PROCEDURE 6687 6712	circulación extracorpórea
+T67	PROCEDURE 6725 6747	intubación orotraqueal
+T68	PROCEDURE 6801 6816	ecocardioscopia
+T69	PROCEDURE 7210 7220	extubación
+T70	PROCEDURE 7258 7290	ventilación mecánica no invasiva
+T71	PROCEDURE 7694 7719	circulación extracorpórea
+T72	PROCEDURE 7732 7761	ventilación mecánica invasiva
+T73	PROCEDURE 7178 7196	soporte vasoactivo
+T74	PROCEDURE 7764 7782	soporte vasoactivo
+T75	PROCEDURE 1826 1836	Bioquímica
+T76	PROCEDURE 2394 2405	Hematología
+T77	PROCEDURE 5287 5310	antibioterapia empírica
+T78	PROCEDURE 4360 4381	tratamiento depletivo
+T79	PROCEDURE 4793 4833	Se obtuvieron dos exudados nasofaríngeos
+T80	PROCEDURE 880 897	estudio de anemia
+T81	PROCEDURE 5982 6005	intervención quirúrgica
+T82	PROCEDURE 6750 6788	soporte con dobutamina y noradrenalina
+T83	PROCEDURE 7572 7595	concentrado de hematíes
+T84	SYMPTOM 507 539	ventrículo izquierdo no dilatado
+T85	SYMPTOM 566 597	fracción de eyección conservada
+T86	SYMPTOM 1278 1307	disnea de predominio nocturno
+T87	SYMPTOM 1312 1320	ortopnea
+T88	SYMPTOM 1337 1364	disnea paroxística nocturna
+T89	SYMPTOM 1408 1411	tos
+T90	SYMPTOM 1416 1429	expectoración
+T91	SYMPTOM 1470 1483	cuadro febril
+T92	SYMPTOM 1548 1572	aceptable estado general
+T93	SYMPTOM 1575 1596	levemente taquipneico
+T94	SYMPTOM 1692 1722	soplo sistólico en foco mitral
+T95	SYMPTOM 1725 1746	crepitantes bibasales
+T96	SYMPTOM 2951 2964	ritmo sinusal
+T97	SYMPTOM 2994 3008	QRS ensanchado
+T98	SYMPTOM 3204 3255	Exudado nasofaríngeo (x2): negativo para SARS-CoV-2
+T99	SYMPTOM 3730 3777	Engrosamiento de la pared posterior de la aorta
+T100	SYMPTOM 3892 3946	inversión holodiastólica en aorta torácica descendente
+T101	SYMPTOM 4438 4444	disnea
+T102	SYMPTOM 4450 4453	tos
+T103	SYMPTOM 4617 4628	pico febril
+T104	SYMPTOM 4912 4940	hemocultivos para E. faecium
+T105	SYMPTOM 6111 6129	fiebre persistente
+T106	SYMPTOM 6166 6193	disnea de mínimos esfuerzos
+T107	SYMPTOM 6203 6211	ortopnea
+T108	SYMPTOM 6267 6294	disnea paroxística nocturna
+T109	SYMPTOM 6854 6915	deterioro moderado la contractilidad del ventrículo izquierdo
+T110	SYMPTOM 5622 5649	complicaciones neurológicas
+T111	SYMPTOM 3187 3202	consolidaciones
+T112	SYMPTOM 2979 2992	eje izquierdo
+T113	SYMPTOM 3257 3315	Hemocultivos (2 sets): aislamiento de Enterococcus faecium
+T114	SYMPTOM 4134 4163	complicaciones intracraneales
+T115	SYMPTOM 4811 4858	exudados nasofaríngeos que resultaron negativos
+T116	SYMPTOM 5347 5378	positividad de los hemocultivos
+T117	SYMPTOM 5701 5778	exudado para PCR de SARS-CoV-2 como medida de precaución, resultando positivo
+T118	SYMPTOM 6831 6851	depleción de volumen
+T119	MEDICATION 921 931	dabigatrán
+T120	MEDICATION 946 956	alopurinol
+T121	MEDICATION 971 981	furosemida
+T122	MEDICATION 995 1004	omeprazol
+T123	MEDICATION 1018 1038	bromuro de tiotropio
+T124	MEDICATION 1053 1063	budesonida
+T125	MEDICATION 1079 1094	sulfato ferroso
+T126	MEDICATION 1102 1119	ácido alendrónico
+T127	MEDICATION 1141 1160	carbonato de Calcio
+T128	MEDICATION 4774 4791	hidroxicloroquina
+T129	MEDICATION 5315 5326	daptomicina
+T130	MEDICATION 5453 5463	ampicilina
+T131	MEDICATION 5466 5477	gentamicina
+T132	MEDICATION 6762 6772	dobutamina
+T133	MEDICATION 6775 6788	noradrenalina
+T134	MEDICATION 6943 6955	levosimendán
+T135	MEDICATION 7077 7085	digoxina
+T136	MEDICATION 7863 7871	digoxina

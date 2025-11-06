@@ -1,0 +1,214 @@
+T1	ENFERMEDAD 2771 2817	ventrículo izquierdo (VI) ligeramente dilatado
+T2	ENFERMEDAD 93 116	alergia a la penicilina
+T3	ENFERMEDAD 570 603	adenopatías cervicales y axilares
+T4	ENFERMEDAD 671 694	síndrome mononucleósico
+T5	ENFERMEDAD 1009 1032	muela afecta por caries
+T6	ENFERMEDAD 1209 1242	adenopatías cervicales y axilares
+T7	ENFERMEDAD 1545 1562	lesiones cutáneas
+T8	ENFERMEDAD 1637 1685	lesiones maculares eritematosas en ambas plantas
+T9	ENFERMEDAD 3623 3663	insuficiencia mitral (IM) moderada-grave
+T10	ENFERMEDAD 4040 4063	endocarditis infecciosa
+T11	ENFERMEDAD 4065 4067	EI
+T12	ENFERMEDAD 4084 4121	Insuficiencia tricuspídea (IT) ligera
+T13	ENFERMEDAD 4262 4281	derrame pericárdico
+T14	ENFERMEDAD 4855 4862	absceso
+T15	ENFERMEDAD 5205 5228	hidrocefalia compresiva
+T16	ENFERMEDAD 5618 5638	absceso paravalvular
+T17	ENFERMEDAD 5640 5727	Hepatomegalia con lesión focal hipodensa de 4 mm en segmento VII de naturaleza quística
+T18	ENFERMEDAD 5729 5743	Esplenomegalia
+T19	ENFERMEDAD 5766 5856	lesiones focales hipopdensas de localización periférica en región posteroinferior del bazo
+T20	ENFERMEDAD 6037 6044	absceso
+T21	ENFERMEDAD 6341 6356	microembolismos
+T22	ENFERMEDAD 6366 6384	lesión hemorrágica
+T23	ENFERMEDAD 6434 6512	convexidad parietal izquierda con vertido hemorrágico al espacio subaracnoideo
+T24	ENFERMEDAD 6738 6755	lesión cerebelosa
+T25	ENFERMEDAD 6867 6879	hidrocefalia
+T26	ENFERMEDAD 7406 7413	ascitis
+T27	ENFERMEDAD 7609 7676	lesiones con componente hemorrágico (una cerebral y otra cerebelosa
+T28	ENFERMEDAD 8107 8109	EI
+T29	ENFERMEDAD 8235 8281	embolismos a nivel de cerebro, cerebelo y EEII
+T30	ENFERMEDAD 8298 8318	insuficiencia mitral
+T31	ENFERMEDAD 8415 8437	insuficiencia cardiaca
+T32	ENFERMEDAD 8560 8583	alergia a betalactámico
+T33	ENFERMEDAD 8947 8994	embolismos y abscesos en riñón izquierdo y bazo
+T34	ENFERMEDAD 9060 9087	absceso perivalvular mitral
+T35	ENFERMEDAD 9180 9250	insuficiencia mitral grave por rotura parcial de velo posterior mitral
+T36	ENFERMEDAD 9365 9404	infartos con transformación hemorrágica
+T37	ENFERMEDAD 9794 9796	EI
+T38	ENFERMEDAD 10824 10888	microsangrados, microinfartos, y hemorragia intraparenquimatosas
+T39	ENFERMEDAD 11150 11173	endocarditis infecciosa
+T40	ENFERMEDAD 11175 11195	absceso perivalvular
+T41	ENFERMEDAD 11406 11498	Endocarditis infecciosa subaguda sobre válvula mitral nativa por Aggregatibacter aphrophilus
+T42	ENFERMEDAD 11500 11527	Absceso perivalvular mitral
+T43	ENFERMEDAD 11620 11690	insuficiencia mitral grave por rotura parcial de velo posterior mitral
+T44	ENFERMEDAD 11692 11809	Embolismos sépticos múltiples (cerebrales, cerebelosos, esplénicos, renal izquierdo, retina, distales en extremidades
+T45	ENFERMEDAD 11842 11945	lesiones cerebrales embólicas situadas en convexidad parietal izquierda y hemisferio cerebeloso derecho
+T46	ENFERMEDAD 158 165	Fumador
+T47	ENFERMEDAD 3645 3647	IM
+T48	ENFERMEDAD 4788 4796	IM grave
+T49	ENFERMEDAD 7924 7926	IM
+T50	ENFERMEDAD 7997 8013	IM agudasubaguda
+T51	ENFERMEDAD 4111 4113	IT
+T52	ENFERMEDAD 148 155	alergia
+T53	ENFERMEDAD 10058 10087	cuadro alérgico a penicilinas
+T54	ENFERMEDAD 1470 1483	hepatomegalia
+T55	ENFERMEDAD 6955 6973	leve hepatomegalia
+T56	ENFERMEDAD 204 219	hábitos tóxicos
+T57	ENFERMEDAD 3045 3084	Aurícula izquierda ligeramente dilatada
+T58	ENFERMEDAD 3324 3361	Válvula mitral (VM): velos engrosados
+T59	ENFERMEDAD 3574 3609	desestructuración de válvula mitral
+T60	ENFERMEDAD 4953 5015	lesiones focales: una subcortical junto a la cisura de Rolando
+T61	ENFERMEDAD 5913 5950	riñón izquierdo se observa una lesión
+T62	ENFERMEDAD 7086 7115	lesiones ocupantes de espacio
+T63	ENFERMEDAD 7117 7120	LOE
+T64	ENFERMEDAD 10913 10936	pieza dentaria afectada
+T65	PROCEDIMIENTO 1244 1265	Auscultación cardiaca
+T66	PROCEDIMIENTO 1357 1378	Auscultación pulmonar
+T67	PROCEDIMIENTO 1722 1745	Exploración neurológica
+T68	PROCEDIMIENTO 2286 2304	Electrocardiograma
+T69	PROCEDIMIENTO 2306 2309	ECG
+T70	PROCEDIMIENTO 2422 2442	Radiografía de tórax
+T71	PROCEDIMIENTO 2546 2558	Hemocultivos
+T72	PROCEDIMIENTO 2723 2752	Ecocardiografía transtorácica
+T73	PROCEDIMIENTO 2754 2757	ETT
+T74	PROCEDIMIENTO 4283 4286	ETT
+T75	PROCEDIMIENTO 4342 4345	ETT
+T76	PROCEDIMIENTO 4879 4889	TC craneal
+T77	PROCEDIMIENTO 5310 5337	administración de contraste
+T78	PROCEDIMIENTO 5339 5358	TC toraco-abdominal
+T79	PROCEDIMIENTO 6152 6194	Resonancia magnética nuclear (RMN) craneal
+T80	PROCEDIMIENTO 6424 6426	TC
+T81	PROCEDIMIENTO 6711 6733	inyección de gadolinio
+T82	PROCEDIMIENTO 6915 6932	Ecografía abdomen
+T83	PROCEDIMIENTO 7560 7570	TC craneal
+T84	PROCEDIMIENTO 7830 7848	exploración física
+T85	PROCEDIMIENTO 7861 7864	ETT
+T86	PROCEDIMIENTO 8049 8061	hemocultivos
+T87	PROCEDIMIENTO 8895 8913	TC toracoabdominal
+T88	PROCEDIMIENTO 9017 9047	ecocardiografía transesofágica
+T89	PROCEDIMIENTO 9292 9320	resonancia magnética craneal
+T90	PROCEDIMIENTO 9410 9422	fondo de ojo
+T91	PROCEDIMIENTO 9666 9678	hemocultivos
+T92	PROCEDIMIENTO 9827 9839	antibiograma
+T93	PROCEDIMIENTO 9928 9942	antibioterapia
+T94	PROCEDIMIENTO 10303 10323	ecografía de abdomen
+T95	PROCEDIMIENTO 10572 10586	antibioterapia
+T96	PROCEDIMIENTO 10746 10748	TC
+T97	PROCEDIMIENTO 10751 10753	RM
+T98	PROCEDIMIENTO 10766 10778	RMN cerebral
+T99	PROCEDIMIENTO 11019 11082	recambio valvular mitral por prótesis mecánica Saint Jude no 33
+T100	PROCEDIMIENTO 11947 12010	Recambio valvular mitral con prótesis mecánica Saint Jude no 33
+T101	PROCEDIMIENTO 1999 2018	Analítica de sangre
+T102	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T103	PROCEDIMIENTO 2644 2654	Serologías
+T104	PROCEDIMIENTO 523 532	anamnesis
+T105	PROCEDIMIENTO 11096 11115	anatomía patológica
+T106	PROCEDIMIENTO 11118 11131	microbiología
+T107	PROCEDIMIENTO 8064 8074	serologías
+T108	PROCEDIMIENTO 8727 8759	tratamiento antibiótico empírico
+T109	PROCEDIMIENTO 136 155	estudios de alergia
+T110	PROCEDIMIENTO 10899 10927	Extracción de pieza dentaria
+T111	PROCEDIMIENTO 265 291	intervenciones quirúrgicas
+T112	PROCEDIMIENTO 10604 10627	intervención quirúrgica
+T113	PROCEDIMIENTO 968 991	procedimientos dentales
+T114	PROCEDIMIENTO 6881 6900	Estudio de difusión
+T115	SINTOMA 340 346	fiebre
+T116	SINTOMA 372 383	somnolencia
+T117	SINTOMA 387 403	torpeza" en mano
+T118	SINTOMA 553 559	fiebre
+T119	SINTOMA 562 565	tos
+T120	SINTOMA 817 823	fiebre
+T121	SINTOMA 835 842	astenia
+T122	SINTOMA 845 860	pérdida de peso
+T123	SINTOMA 1177 1198	ingurgitación yugular
+T124	SINTOMA 1267 1292	ruidos cardiacos rítmicos
+T125	SINTOMA 1297 1355	soplo sistólico en foco mitral grado 3/6 irradiado a axila
+T126	SINTOMA 1380 1409	murmullo vesicular conservado
+T127	SINTOMA 1414 1434	ruidos sobreañadidos
+T128	SINTOMA 1436 1464	Abdomen blando y no doloroso
+T129	SINTOMA 1564 1626	Extremidades inferiores (EEII) sin edemas con pulsos presentes
+T130	SINTOMA 1777 1789	bradipsiquia
+T131	SINTOMA 1806 1817	somnolencia
+T132	SINTOMA 1819 1851	pares craneales sin alteraciones
+T133	SINTOMA 1862 1894	dismetría en extremidad superior
+T134	SINTOMA 2323 2336	ritmo sinusal
+T135	SINTOMA 2359 2368	PR normal
+T136	SINTOMA 2370 2382	QRS estrecho
+T137	SINTOMA 2387 2420	alteraciones en la repolarización
+T138	SINTOMA 2456 2484	índice cardiotorácico normal
+T139	SINTOMA 2521 2544	redistribución vascular
+T140	SINTOMA 2546 2624	Hemocultivos (positivos tras 72 horas de ingreso): Aggregatibacter aphrophilus
+T141	SINTOMA 2644 2679	Serologías: VIH, VHB, VHC negativos
+T142	SINTOMA 2881 2915	Función sistólica de VI conservada
+T143	SINTOMA 3825 3863	abolición de flujo en válvula pulmonar
+T144	SINTOMA 4817 4821	masa
+T145	SINTOMA 5154 5191	efecto de masa sobre el IV ventrículo
+T146	SINTOMA 5386 5473	masa hipodensa de 27 x 15 mm localizada en valva posterior y anterior de válvula mitral
+T147	SINTOMA 6047 6108	Nódulos pulmonares subpleurales en segmento posterior del LSD
+T148	SINTOMA 7019 7034	Porta permeable
+T149	SINTOMA 7801 7823	soplo sistólico mitral
+T150	SINTOMA 7878 7919	masa dependiente de velo posterior mitral
+T151	SINTOMA 8158 8199	masa dependiente de velo posterior mitral
+T152	SINTOMA 8226 8232	fiebre
+T153	SINTOMA 8360 8399	estable hemodinámica y neurológicamente
+T154	SINTOMA 9524 9531	astenia
+T155	SINTOMA 9564 9583	clínica neurológica
+T156	SINTOMA 9586 9600	picos febriles
+T157	SINTOMA 10239 10253	picos febriles
+T158	SINTOMA 10664 10671	afebril
+T159	SINTOMA 7499 7522	síndrome constitucional
+T160	SINTOMA 1165 1172	Palidez
+T161	SINTOMA 5046 5051	edema
+T162	SINTOMA 1702 1720	manchas de Janeway
+T163	SINTOMA 2681 2721	Brucella, Coxiella, Bartonella negativos
+T164	SINTOMA 3200 3247	contractilidad conservada de ventrículo derecho
+T165	SINTOMA 4369 4377	VM, masa
+T166	SINTOMA 9644 9709	aislamiento en varios hemocultivos de Aggregatibacter aphrophilus
+T167	SINTOMA 3003 3033	Patrón diastólico pseudonormal
+T168	SINTOMA 7293 7330	Riñones de tamaño y morfología normal
+T169	SINTOMA 2955 3001	alteraciones segmentarias de la contractilidad
+T170	SINTOMA 7943 7978	aurícula izquierda de tamaño normal
+T171	SINTOMA 7381 7404	colecciones abdominales
+T172	SINTOMA 2347 2357	eje normal
+T173	SINTOMA 11315 11335	estable clínicamente
+T174	SINTOMA 7525 7546	focalidad neurológica
+T175	SINTOMA 1907 1940	fuerza y sensibilidad conservadas
+T176	SINTOMA 2857 2879	grosor parietal normal
+T177	SINTOMA 3689 3720	jet de regurgitación excéntrico
+T178	SINTOMA 7036 7069	Venas suprahepáticas no dilatadas
+T179	SINTOMA 1510 1562	Extremidades superiores (EESS) sin lesiones cutáneas
+T180	SINTOMA 2499 2517	foco consolidativo
+T181	SINTOMA 3103 3156	Cavidades derechas en el límite alto de la normalidad
+T182	SINTOMA 3324 3389	Válvula mitral (VM): velos engrosados, no limitada en su apertura
+T183	SINTOMA 3402 3461	región posterior de anillo mitral (A3-P3) imagen hiperdensa
+T184	SINTOMA 3919 3999	Válvula aórtica (VAo): trivalva, sigmoideas normales, no limitada en su apertura
+T185	SINTOMA 4191 4257	Vena cava inferior (VCI) no dilatada con normocolapso inspiratorio
+T186	SINTOMA 5054 5117	otra en el hemisfero cerebeloso derecho de densidad heterogénea
+T187	SINTOMA 5261 5337	No tienen realce significativo ni anular tras la administración de contraste
+T188	SINTOMA 6222 6324	múltiples lesiones hiperintensas en las secuencias T2 de pequeño tamaño de localización supratentorial
+T189	SINTOMA 6621 6642	microfoco hemorrágico
+T190	SINTOMA 6773 6811	efecto de masa sobre el IVo ventrículo
+T191	SINTOMA 6881 6913	Estudio de difusión inespecífico
+T192	SINTOMA 7198 7224	Vías biliares no dilatadas
+T193	SINTOMA 7226 7291	Páncreas y bazo de tamaño, morfología y ecoestructura conservados
+T194	SINTOMA 7123 7196	Vesícula adecuadamente distendida con pared conservada y contenido normal
+T195	SINTOMA 7332 7364	Sistemas excretores no dilatados
+T196	SINTOMA 7417 7459	alteraciones ecográficas en tubo digestivo
+T197	SINTOMA 9438 9460	afectación por Candida
+T198	SINTOMA 10303 10359	ecografía de abdomen siendo compatible con la normalidad
+T199	FARMACO 8691 8701	meticilina
+T200	FARMACO 8704 8715	vancomicina
+T201	FARMACO 8764 8775	daptomicina
+T202	FARMACO 8796 8807	gentamicina
+T203	FARMACO 8829 8840	fosfomicina
+T204	FARMACO 9958 9969	ceftriaxona
+T205	FARMACO 9985 9999	ciprofloxacino
+T206	FARMACO 106 116	penicilina
+T207	FARMACO 8570 8583	betalactámico
+T208	FARMACO 10076 10087	penicilinas
+#1	AnnotatorNotes T47	 insuficiencia mitral
+#2	AnnotatorNotes T48	 IM: insuficiencia mitral
+#3	AnnotatorNotes T49	 insuficiencia mitral
+#4	AnnotatorNotes T50	 insuficiencia mitral
+#5	AnnotatorNotes T51	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T165	VM: válvula mitral

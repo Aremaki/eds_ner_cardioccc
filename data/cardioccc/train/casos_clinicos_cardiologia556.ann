@@ -1,0 +1,139 @@
+T1	DISEASE 102 123	hipertensión arterial
+T2	DISEASE 125 128	HTA
+T3	DISEASE 131 141	Dislipemia
+T4	DISEASE 143 151	Obesidad
+T5	DISEASE 153 177	Diabetes mellitus tipo 2
+T6	DISEASE 179 186	Fumador
+T7	DISEASE 239 272	Fibrilación auricular persistente
+T8	DISEASE 325 366	bronquitis crónica sin patrón obstructivo
+T9	DISEASE 368 405	síndrome de apneashipopneas del sueño
+T10	DISEASE 407 411	SAHS
+T11	DISEASE 1832 1853	fibrilación auricular
+T12	DISEASE 2630 2655	Derrame pleural bilateral
+T13	DISEASE 2727 2857	ventrículo izquierdo de diámetros y volúmenes aumentados con disfunción ventricular moderada secundaria a hipocinesia generalizada
+T14	DISEASE 2932 2964	Insuficiencia mitral (IM) ligera
+T15	DISEASE 3058 3104	Insuficiencia tricuspídea (IT) ligera-moderada
+T16	DISEASE 3192 3211	derrame pericárdico
+T17	DISEASE 3327 3358	trombo en la orejuela izquierda
+T18	DISEASE 3381 3402	fibrilación auricular
+T19	DISEASE 3736 3753	IT ligeramoderada
+T20	DISEASE 3803 3822	derrame pericárdico
+T21	DISEASE 3976 4024	Arterias coronarias epicárdicas con ateromatosis
+T22	DISEASE 4099 4162	insuficiencia cardiaca descompensada con disfunción ventricular
+T23	DISEASE 4216 4270	fibrilación auricular con respuesta ventricular rápida
+T24	DISEASE 4284 4312	trombo en orejuela izquierda
+T25	DISEASE 4685 4719	síndrome de deprivación alcohólica
+T26	DISEASE 4895 4916	fibrilación auricular
+T27	DISEASE 5752 5768	hábito tabáquico
+T28	DISEASE 6237 6258	fibrilación auricular
+T29	DISEASE 6273 6309	Insuficiencia cardiaca descompensada
+T30	DISEASE 6330 6353	Miocardiopatía dilatada
+T31	DISEASE 6394 6427	Fibrilación auricular persistente
+T32	DISEASE 6429 6437	Obesidad
+T33	DISEASE 6439 6463	Diabetes mellitus tipo 2
+T34	DISEASE 6465 6468	HTA
+T35	DISEASE 6470 6480	Dislipemia
+T36	DISEASE 6494 6520	Anemia macrocítica crónica
+T37	DISEASE 210 226	Enolismo crónico
+T38	DISEASE 2903 2930	Aurícula izquierda dilatada
+T39	DISEASE 2954 2956	IM
+T40	DISEASE 2997 3024	Ventrículo derecho dilatado
+T41	DISEASE 3085 3087	IT
+T42	DISEASE 3213 3246	Vena cava inferior (VCI) dilatada
+T43	DISEASE 3594 3621	Aurícula izquierda dilatada
+T44	DISEASE 3623 3625	IM
+T45	DISEASE 6482 6492	Ferropenia
+T46	DISEASE 6355 6374	taquicardiomiopatía
+T47	DISEASE 3452 3508	ventrículo izquierdo de diámetros y volúmenes aumentados
+T48	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDURE 273 286	anticoagulada
+T50	PROCEDURE 475 479	CPAP
+T51	PROCEDURE 1195 1213	Exploración física
+T52	PROCEDURE 1390 1403	gafas nasales
+T53	PROCEDURE 1515 1536	Auscultación cardiaca
+T54	PROCEDURE 1561 1582	Auscultación pulmonar
+T55	PROCEDURE 1802 1805	ECG
+T56	PROCEDURE 1879 1882	EJE
+T57	PROCEDURE 2378 2399	RT-PCR para SARS-CoV2
+T58	PROCEDURE 2411 2433	Metabolismo del hierro
+T59	PROCEDURE 2466 2486	Radiografía de tórax
+T60	PROCEDURE 2680 2695	Ecocardiogramas
+T61	PROCEDURE 2697 2711	Ecocardiograma
+T62	PROCEDURE 3404 3419	Ecocardiografía
+T63	PROCEDURE 3926 3938	Hemodinámica
+T64	PROCEDURE 3940 3955	coronariografía
+T65	PROCEDURE 4322 4352	ecocardiografía transesofágica
+T66	PROCEDURE 4371 4397	cardioversiones eléctricas
+T67	PROCEDURE 4423 4438	coronariografía
+T68	PROCEDURE 4521 4552	diuréticos endovenosos en bolos
+T69	PROCEDURE 4568 4606	ferroterapia con hierro carboximaltosa
+T70	PROCEDURE 4608 4648	tratamiento frenador con betabloqueantes
+T71	PROCEDURE 5798 5811	examen físico
+T72	PROCEDURE 6000 6015	Ecocardiografía
+T73	PROCEDURE 2229 2261	Biomarcadores de daño miocárdico
+T74	PROCEDURE 416 489	tratamiento con presión positiva continua en la vía aérea (CPAP) nocturna
+T75	PROCEDURE 4651 4719	tratamiento oral para prevenir el síndrome de deprivación alcohólica
+T76	PROCEDURE 1979 1988	Analítica
+T77	PROCEDURE 1648 1660	Extremidades
+T78	SYMPTOM 1032 1059	disnea de mínimos esfuerzos
+T79	SYMPTOM 1061 1069	ortopnea
+T80	SYMPTOM 1084 1111	disnea paroxística nocturna
+T81	SYMPTOM 1113 1149	disminución subjetiva de la diuresis
+T82	SYMPTOM 1152 1165	edematización
+T83	SYMPTOM 1177 1192	aumento de peso
+T84	SYMPTOM 1426 1447	Taquipneico en reposo
+T85	SYMPTOM 1449 1481	Presión venosa yugular aumentada
+T86	SYMPTOM 1483 1513	Reflejo hepatoyugular positivo
+T87	SYMPTOM 1515 1547	Auscultación cardiaca: irregular
+T88	SYMPTOM 1553 1559	soplos
+T89	SYMPTOM 1584 1603	hipofonesis bibasal
+T90	SYMPTOM 1630 1646	roncus dispersos
+T91	SYMPTOM 1662 1730	edemas tibiomaleolares hasta raíz de muslos y en miembros superiores
+T92	SYMPTOM 1732 1775	Pulsos periféricos conservados y simétricos
+T93	SYMPTOM 1865 1877	QRS estrecho
+T94	SYMPTOM 1943 1976	alteraciones de la repolarización
+T95	SYMPTOM 2378 2409	RT-PCR para SARS-CoV2: negativa
+T96	SYMPTOM 2488 2523	silueta cardiomediastínica centrada
+T97	SYMPTOM 2966 2995	Presiones de llenado normales
+T98	SYMPTOM 3452 3548	ventrículo izquierdo de diámetros y volúmenes aumentados con función global sistólica conservada
+T99	SYMPTOM 3824 3849	VCI de diámetros normales
+T100	SYMPTOM 3910 3923	ritmo sinusal
+T101	SYMPTOM 5831 5846	pérdida de peso
+T102	SYMPTOM 5936 5949	ritmo sinusal
+T103	SYMPTOM 6043 6085	función global sistólica global conservada
+T104	SYMPTOM 6127 6178	asintomático desde el punto de vista cardiovascular
+T105	SYMPTOM 2870 2901	Raíz aórtica diámetros normales
+T106	SYMPTOM 2997 3056	Ventrículo derecho dilatado con función sistólica deprimida
+T107	SYMPTOM 3561 3592	Raíz aórtica diámetros normales
+T108	SYMPTOM 3665 3734	Ventrículo derecho de diámetros normales con función sistólica normal
+T109	SYMPTOM 6314 6328	FEVI deprimida
+T110	SYMPTOM 2560 2593	Infiltrado intersticial bilateral
+T111	SYMPTOM 2598 2628	redistribución vascular apical
+T112	SYMPTOM 5869 5887	signos congestivos
+T113	MEDICATION 291 303	acenocumarol
+T114	MEDICATION 513 524	glimepiride
+T115	MEDICATION 535 560	metformina/dapagliflozina
+T116	MEDICATION 585 598	atorvastatina
+T117	MEDICATION 620 642	ácido acetilsalicílico
+T118	MEDICATION 658 673	espironolactona
+T119	MEDICATION 688 698	amlodipino
+T120	MEDICATION 712 724	acenocumarol
+T121	MEDICATION 738 748	bisoprolol
+T122	MEDICATION 771 781	furosemida
+T123	MEDICATION 803 812	omeprazol
+T124	MEDICATION 827 863	indacaterol/bromuro de glicopirronio
+T125	MEDICATION 4585 4606	hierro carboximaltosa
+T126	MEDICATION 4976 5001	metformina/dapagliflozina
+T127	MEDICATION 5026 5039	atorvastatina
+T128	MEDICATION 5061 5083	ácido acetilsalicílico
+T129	MEDICATION 5099 5109	amlodipino
+T130	MEDICATION 5123 5134	rivaroxabán
+T131	MEDICATION 5149 5159	bisoprolol
+T132	MEDICATION 5182 5192	furosemida
+T133	MEDICATION 5214 5223	omeprazol
+T134	MEDICATION 5238 5274	indacaterol/bromuro de glicopirronio
+T135	MEDICATION 5318 5328	amiodarona
+T136	MEDICATION 5369 5390	sacubitrilo/valsartán
+T137	MEDICATION 5415 5426	clometiazol
+T138	MEDICATION 5449 5460	semaglutida
+T139	MEDICATION 5344 5354	eplerenona

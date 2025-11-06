@@ -1,0 +1,60 @@
+T1	DISEASE 117 125	fumadora
+T2	DISEASE 658 712	fibrilación auricular con respuesta ventricular rápida
+T3	DISEASE 907 926	lesiones isquémicas
+T4	DISEASE 1022 1091	accidente isquémico transitorio dependiente de arteria cerebral media
+T5	DISEASE 1872 1936	válvula mitral, generando una insuficiencia severa y obstrucción
+T6	DISEASE 1981 2014	insuficiencia concomitante severa
+T7	DISEASE 2107 2141	insuficiencia tricuspídea moderada
+T8	DISEASE 2357 2363	mixoma
+T9	DISEASE 2542 2561	doble lesión mitral
+T10	DISEASE 2580 2586	mixoma
+T11	DISEASE 2889 2895	mixoma
+T12	DISEASE 2943 2950	trombos
+T13	DISEASE 2982 2998	Mixoma auricular
+T14	DISEASE 3030 3039	Estenosis
+T15	DISEASE 3042 3070	insuficiencia mitral severas
+T16	DISEASE 3093 3152	Ictus isquémico con afectación de territorio de ACM derecha
+T17	DISEASE 1493 1532	FA con respuesta ventricular muy rápida
+T18	DISEASE 2428 2435	mixomas
+T19	DISEASE 1176 1219	punto isquémico en el área parietal derecha
+T20	DISEASE 1673 1703	dilataba la aurícula izquierda
+T21	DISEASE 2615 2646	mixoma de la aurícula izquierda
+T22	DISEASE 3085 3091	mixoma
+T23	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDURE 324 342	exploración física
+T25	PROCEDURE 472 475	ACP
+T26	PROCEDURE 628 646	electrocardiograma
+T27	PROCEDURE 880 892	TAC cerebral
+T28	PROCEDURE 1137 1140	TAC
+T29	PROCEDURE 1342 1385	tratamiento anticoagulante con acenocumarol
+T30	PROCEDURE 1451 1466	ecocardiografía
+T31	PROCEDURE 1610 1625	betabloqueantes
+T32	PROCEDURE 2301 2317	cirugía cardiaca
+T33	PROCEDURE 2599 2646	extirpación del mixoma de la aurícula izquierda
+T34	PROCEDURE 2741 2772	anuplastia mitral y tricuspídea
+T35	PROCEDURE 2830 2849	análisis patológico
+T36	PROCEDURE 812 821	analítica
+T37	SYMPTOM 185 191	afasia
+T38	SYMPTOM 194 217	hipoestesia en el brazo
+T39	SYMPTOM 292 317	hemodinámicamente estable
+T40	SYMPTOM 354 373	buen estado general
+T41	SYMPTOM 375 385	consciente
+T42	SYMPTOM 402 411	orientada
+T43	SYMPTOM 413 420	afebril
+T44	SYMPTOM 423 431	eupnéica
+T45	SYMPTOM 433 453	Hipoestesia en brazo
+T46	SYMPTOM 464 470	afasia
+T47	SYMPTOM 477 504	ruidos cardiacos arrítmicos
+T48	SYMPTOM 510 551	soplo holosistólico y diastólico panfocal
+T49	SYMPTOM 553 598	Crepitantes mínimos en ambas bases pulmonares
+T50	SYMPTOM 779 792	palpitaciones
+T51	SYMPTOM 1648 1703	masa (99 mm x 71 mm) que dilataba la aurícula izquierda
+T52	SYMPTOM 1708 1712	masa
+T53	SYMPTOM 2442 2457	pérdida de peso
+T54	SYMPTOM 2460 2466	fiebre
+T55	SYMPTOM 2488 2494	disnea
+T56	SYMPTOM 2147 2214	fracción de eyección del ventrículo izquierdo severamente deprimida
+T57	SYMPTOM 387 399	colaboradora
+T58	SYMPTOM 2856 2870	masa auricular
+T59	SYMPTOM 812 850	analítica no mostró ninguna alteración
+T60	MEDICATION 1373 1385	acenocumarol

@@ -1,0 +1,136 @@
+T1	DISEASE 1022 1062	ventrículo izquierdo gravemente dilatado
+T2	DISEASE 1273 1312	Dilatación grave del ventrículo derecho
+T3	DISEASE 1342 1377	Dilatación grave de ambas aurículas
+T4	DISEASE 3082 3095	cardiomegalia
+T5	DISEASE 66 145	insuficiencia cardiaca con fracción de eyección reducida de etiología isquémica
+T6	DISEASE 432 453	hipertensión arterial
+T7	DISEASE 455 458	HTA
+T8	DISEASE 462 472	dislipemia
+T9	DISEASE 478 493	hábitos tóxicos
+T10	DISEASE 495 532	Fibrilación auricular (FA) permanente
+T11	DISEASE 518 520	FA
+T12	DISEASE 565 644	Insuficiencia cardiaca con fracción de eyección reducida de etiología isquémica
+T13	DISEASE 646 702	Infarto agudo de miocardio sin elevación del segmento ST
+T14	DISEASE 704 711	IAMSEST
+T15	DISEASE 725 749	enfermedad de tres vasos
+T16	DISEASE 752 780	disfunción ventricular grave
+T17	DISEASE 1067 1093	disfunción sistólica grave
+T18	DISEASE 1212 1243	Insuficiencia mitral (IM) grave
+T19	DISEASE 1379 1405	Estenosis aórtica moderada
+T20	DISEASE 1407 1446	Insuficiencia tricuspídea (IT) moderada
+T21	DISEASE 1522 1552	Enfermedad arterial periférica
+T22	DISEASE 1626 1639	Hiperuricemia
+T23	DISEASE 2365 2376	hipotensión
+T24	DISEASE 2977 2998	fibrilación auricular
+T25	DISEASE 3953 3989	insuficiencia mitral isquémica grave
+T26	DISEASE 4015 4043	Trombo en orejuela izquierda
+T27	DISEASE 4068 4094	Estenosis aórtica moderada
+T28	DISEASE 4346 4363	hígado de estasis
+T29	DISEASE 4382 4404	insuficiencia cardiaca
+T30	DISEASE 4577 4585	IM grave
+T31	DISEASE 4693 4715	lM de origen isquémico
+T32	DISEASE 4750 4778	trombo en orejuela izquierda
+T33	DISEASE 4964 4981	déficit de hierro
+T34	DISEASE 5962 5982	insuficiencia mitral
+T35	DISEASE 6012 6040	trombo en orejuela izquierda
+T36	DISEASE 6217 6228	anemización
+T37	DISEASE 6310 6317	melenas
+T38	DISEASE 6408 6414	anemia
+T39	DISEASE 6551 6612	Insuficiencia cardiaca con FE reducida de etiología isquémica
+T40	DISEASE 6671 6707	Insuficiencia mitral grave isquémica
+T41	DISEASE 6709 6743	Insuficiencia tricuspídea moderada
+T42	DISEASE 6802 6834	Fibrilación auricular permanente
+T43	DISEASE 6836 6864	Trombo en orejuela izquierda
+T44	DISEASE 1234 1236	IM
+T45	DISEASE 1434 1436	IT
+T46	DISEASE 4045 4056	IT moderada
+T47	DISEASE 6755 6765	Ferropenia
+T48	DISEASE 178 193	descompensación
+T49	DISEASE 6629 6644	descompensación
+T50	PROCEDURE 258 275	terapia diurética
+T51	PROCEDURE 357 375	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 533 546	anticoagulada
+T53	PROCEDURE 798 826	revascularización quirúrgica
+T54	PROCEDURE 866 932	desfibrilador implantable con terapia de resincronización cardiaca
+T55	PROCEDURE 985 988	ETT
+T56	PROCEDURE 2378 2396	Exploración física
+T57	PROCEDURE 2716 2737	Auscultación cardiaca
+T58	PROCEDURE 2762 2783	Auscultación pulmonar
+T59	PROCEDURE 2926 2944	Electrocardiograma
+T60	PROCEDURE 2946 2949	ECG
+T61	PROCEDURE 3009 3053	estimulación ventricular mediada por DAI-TRC
+T62	PROCEDURE 3055 3075	Radiografía de tórax
+T63	PROCEDURE 3277 3286	Hemograma
+T64	PROCEDURE 3765 3785	Perfil ferrocinético
+T65	PROCEDURE 3892 3922	Ecocardiografía transesofágica
+T66	PROCEDURE 4312 4331	ecografía abdominal
+T67	PROCEDURE 4515 4545	ecocardiografía transesofágica
+T68	PROCEDURE 4608 4637	ecocardiografía transtorácica
+T69	PROCEDURE 5002 5014	ferroterapia
+T70	PROCEDURE 5174 5191	terapia diurética
+T71	PROCEDURE 5356 5375	terapia antihumoral
+T72	PROCEDURE 5848 5860	TAC cardiaca
+T73	PROCEDURE 5910 5938	implante de prótesis Tendyne
+T74	PROCEDURE 6055 6075	anticoagulación oral
+T75	PROCEDURE 6420 6432	gastroscopia
+T76	PROCEDURE 6435 6447	colonoscopia
+T77	PROCEDURE 6517 6536	cápsula endoscópica
+T78	PROCEDURE 6878 6885	DAI-TRC
+T79	PROCEDURE 3357 3367	Bioquímica
+T80	PROCEDURE 3255 3264	Analítica
+T81	PROCEDURE 6186 6195	analítica
+T82	PROCEDURE 934 941	DAI-TRC
+T83	SYMPTOM 1129 1178	Acinesia septal, apical, inferior e inferolateral
+T84	SYMPTOM 2052 2093	disnea hasta hacerse de mínimos esfuerzos
+T85	SYMPTOM 2105 2113	ortopnea
+T86	SYMPTOM 2129 2156	disnea paroxística nocturna
+T87	SYMPTOM 2172 2180	oliguria
+T88	SYMPTOM 2182 2222	edematización de extremidades inferiores
+T89	SYMPTOM 2232 2247	aumento de peso
+T90	SYMPTOM 2365 2376	hipotensión
+T91	SYMPTOM 2612 2619	afebril
+T92	SYMPTOM 2621 2639	Eupneico en reposo
+T93	SYMPTOM 2685 2714	reflujo hepatoyugular ausente
+T94	SYMPTOM 2716 2747	Auscultación cardiaca irregular
+T95	SYMPTOM 2754 2760	soplos
+T96	SYMPTOM 2785 2806	crepitantes bibasales
+T97	SYMPTOM 2808 2841	Extremidades con edema bimaleolar
+T98	SYMPTOM 2843 2899	Pulsos periféricos débiles pero conservados y simétricos
+T99	SYMPTOM 5319 5331	ortostatismo
+T100	SYMPTOM 2158 2161	DPN
+T101	SYMPTOM 1180 1210	Hipocinesia anterior y lateral
+T102	SYMPTOM 1294 1340	ventrículo derecho (VD) con función conservada
+T103	SYMPTOM 3219 3253	pinzamiento de senos costofrénicos
+T104	SYMPTOM 4803 4833	cifras normales de hemoglobina
+T105	SYMPTOM 4848 4893	índice de saturación de transferrina normales
+T106	SYMPTOM 6420 6467	gastroscopia y colonoscopia que fueron normales
+T107	SYMPTOM 6781 6800	emoglobina normales
+T108	SYMPTOM 6649 6669	congestión sistémica
+T109	SYMPTOM 3132 3160	leve redistribución vascular
+T110	SYMPTOM 2657 2683	aumento de presión yugular
+T111	MEDICATION 551 563	acenocumarol
+T112	MEDICATION 1663 1673	furosemida
+T113	MEDICATION 1705 1715	eplerenona
+T114	MEDICATION 1750 1759	valsartán
+T115	MEDICATION 1782 1792	carvedilol
+T116	MEDICATION 1823 1835	acenocumarol
+T117	MEDICATION 1849 1862	atorvastatina
+T118	MEDICATION 1907 1917	alopurinol
+T119	MEDICATION 1938 1947	omeprazol
+T120	MEDICATION 2305 2314	valsartán
+T121	MEDICATION 4196 4206	furosemida
+T122	MEDICATION 5043 5064	hierro carboximaltosa
+T123	MEDICATION 5409 5430	sacubitrilo/valsartán
+T124	MEDICATION 5474 5483	valsartán
+T125	MEDICATION 5488 5496	losartán
+T126	MEDICATION 5507 5517	bisoprolol
+T127	MEDICATION 5559 5569	carvedilol
+T128	MEDICATION 5587 5599	acenocumarol
+T129	MEDICATION 5612 5620	edoxabán
+T130	MEDICATION 5646 5656	furosemida
+T131	MEDICATION 5688 5698	eplerenona
+T132	MEDICATION 5733 5746	atorvastatina
+T133	MEDICATION 5766 5776	alopurinol
+T134	MEDICATION 5797 5806	omeprazol
+T135	MEDICATION 1892 1900	nitratos
+#1	AnnotatorNotes T100	Disnea paroxística nocturna

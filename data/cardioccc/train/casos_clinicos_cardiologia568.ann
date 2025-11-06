@@ -1,0 +1,148 @@
+T1	DISEASE 2497 2566	ventrículo izquierdo de dimensiones normales con moderada hipertrofia
+T2	DISEASE 5037 5087	engrosamiento mural de la arteria aorta ascendente
+T3	DISEASE 178 199	hipertensión arterial
+T4	DISEASE 218 228	dislipemia
+T5	DISEASE 230 253	Estenosis aórtica grave
+T6	DISEASE 328 357	Cardiopatía isquémica crónica
+T7	DISEASE 1167 1175	isquemia
+T8	DISEASE 1744 1793	Bloqueo auriculoventricular (BAV) de primer grado
+T9	DISEASE 1773 1776	BAV
+T10	DISEASE 2443 2465	insuficiencia cardiaca
+T11	DISEASE 2936 2993	Válvula mitral con apertura normal y mínima insuficiencia
+T12	DISEASE 3186 3211	insuficiencia tricuspídea
+T13	DISEASE 3291 3310	derrame pericárdico
+T14	DISEASE 3400 3408	isquemia
+T15	DISEASE 4657 4665	fibrosis
+T16	DISEASE 4668 4687	necrosis miocárdica
+T17	DISEASE 5102 5138	endocarditis por infección protésica
+T18	DISEASE 5140 5183	Adenopatías hipermetabólicas paratraqueales
+T19	DISEASE 5331 5375	proceso infeccioso secundario a endocarditis
+T20	DISEASE 5605 5700	Atelectasia hipermetabólica subsegmentaria del segmento superior del lóbulo inferior del pulmón
+T21	DISEASE 5713 5754	derrame pleural ni pericárdico ni pleural
+T22	DISEASE 6176 6286	Trombosis mural circunferencial en arteria aorta abdominal, con obstrucción parcial de la arteria ilíaca común
+T23	DISEASE 6318 6337	ateromatosis difusa
+T24	DISEASE 6501 6513	endocarditis
+T25	DISEASE 6519 6567	adenopatías mediastínicas y pulmonares reactivas
+T26	DISEASE 6569 6673	Trombosis mural circunferencial de arteria aorta abdominal y obstrucción parcial de arteria ilíaca común
+T27	DISEASE 6723 6749	trastorno de la conducción
+T28	DISEASE 7091 7111	disfunción protésica
+T29	DISEASE 7195 7203	isquemia
+T30	DISEASE 7409 7429	enfermedad coronaria
+T31	DISEASE 7608 7616	isquemia
+T32	DISEASE 7778 7796	proceso infeccioso
+T33	DISEASE 7910 7943	endocarditis infecciosa protésica
+T34	DISEASE 8231 8243	endocarditis
+T35	DISEASE 8408 8420	endocarditis
+T36	DISEASE 8426 8474	adenopatías mediastínicas y pulmonares reactivas
+T37	DISEASE 8517 8624	trombosis mural circunferencial de la arteria aorta abdominal y obstrucción parcial de arteria ilíaca común
+T38	DISEASE 8857 8877	disfunción protésica
+T39	DISEASE 9279 9299	enfermedad coronaria
+T40	DISEASE 9317 9382	arteriopatía periférica con trombosis mural de la aorta abdominal
+T41	DISEASE 9677 9698	adenopatías reactivas
+T42	DISEASE 9936 9999	Endocarditis infecciosa tardía sobre prótesis aórtica biológica
+T43	DISEASE 10001 10050	Bloqueo auriculoventricular (BAV) de primer grado
+T44	DISEASE 10030 10033	BAV
+T45	DISEASE 10064 10084	endocarditis aórtica
+T46	DISEASE 10086 10144	Trombosis mural circunferencial de arteria aorta abdominal
+T47	DISEASE 359 417	lesión moderada del 40-50% en arteria descendente anterior
+T48	DISEASE 2769 2806	Aurícula izquierda levemente dilatada
+T49	DISEASE 121 124	RAM
+T50	DISEASE 7636 7659	colección periprotésica
+T51	DISEASE 4128 4151	Colección periprotésica
+T52	DISEASE 4738 4761	colección periprotésica
+T53	DISEASE 4807 4870	Prótesis biológica valvular aórtica con colección periprotésica
+T54	DISEASE 3648 3691	ventrículo izquierdo con aumento del grosor
+T55	DISEASE 7739 7775	actividad inflamatoria posoperatoria
+T56	PROCEDURE 4574 4608	Se administra ácido gadotérico i.v
+T57	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T58	PROCEDURE 275 318	sustitución valvular por prótesis biológica
+T59	PROCEDURE 466 494	sustitución valvular aórtica
+T60	PROCEDURE 496 518	artroplastia de hombro
+T61	PROCEDURE 520 534	amigdalectomía
+T62	PROCEDURE 536 557	herniorrafia inguinal
+T63	PROCEDURE 1120 1138	prueba de esfuerzo
+T64	PROCEDURE 1217 1271	resonancia magnética cardiaca (RMC) cardiaca de estrés
+T65	PROCEDURE 1248 1251	RMC
+T66	PROCEDURE 1274 1292	Exploración física
+T67	PROCEDURE 1400 1421	Auscultación cardiaca
+T68	PROCEDURE 1482 1503	Auscultación pulmonar
+T69	PROCEDURE 1715 1718	ECG
+T70	PROCEDURE 2382 2402	Radiografía de tórax
+T71	PROCEDURE 2467 2495	Ecocardiograma transtorácico
+T72	PROCEDURE 3140 3172	intervención quirúrgica cardiaca
+T73	PROCEDURE 3341 3359	Prueba de esfuerzo
+T74	PROCEDURE 3633 3646	RMC de estrés
+T75	PROCEDURE 4497 4500	ECG
+T76	PROCEDURE 4918 4924	PET-TC
+T77	PROCEDURE 5768 5780	esternotomía
+T78	PROCEDURE 7040 7068	ecocardiograma transtorácico
+T79	PROCEDURE 7311 7338	retirada de betabloqueantes
+T80	PROCEDURE 7453 7466	RMC de estrés
+T81	PROCEDURE 7565 7578	RMC de estrés
+T82	PROCEDURE 8020 8043	tratamiento antibiótico
+T83	PROCEDURE 8201 8213	hemocultivos
+T84	PROCEDURE 8216 8243	serología para endocarditis
+T85	PROCEDURE 8314 8320	PET-TC
+T86	PROCEDURE 8919 8942	tratamiento antibiótico
+T87	PROCEDURE 9402 9428	tratamiento hipolipemiante
+T88	PROCEDURE 9511 9525	antibioterapia
+T89	PROCEDURE 9543 9549	PET-TC
+T90	PROCEDURE 9777 9788	antibiótico
+T91	PROCEDURE 4354 4393	Provocación de isquemia con Regadenoson
+T92	PROCEDURE 1902 1911	Analítica
+T93	PROCEDURE 438 464	Intervenciones quirúrgicas
+T94	PROCEDURE 9228 9245	pauta antibiótica
+T95	SYMPTOM 787 800	fatigabilidad
+T96	SYMPTOM 802 808	disnea
+T97	SYMPTOM 811 829	sensación de mareo
+T98	SYMPTOM 944 967	dolor torácico punzante
+T99	SYMPTOM 997 1028	dolores torácicos intermitentes
+T100	SYMPTOM 1120 1175	prueba de esfuerzo con resultado negativo para isquemia
+T101	SYMPTOM 1423 1449	ruidos cardiacos regulares
+T102	SYMPTOM 1451 1474	soplo sistólico aórtico
+T103	SYMPTOM 1505 1534	murmullo vesicular conservado
+T104	SYMPTOM 1559 1587	Abdomen: blando y depresible
+T105	SYMPTOM 1612 1617	masas
+T106	SYMPTOM 1621 1636	visceromegalias
+T107	SYMPTOM 1642 1658	edema periférico
+T108	SYMPTOM 1660 1688	Pulsos simétricos y normales
+T109	SYMPTOM 1720 1733	ritmo sinusal
+T110	SYMPTOM 1807 1819	QRS estrecho
+T111	SYMPTOM 2404 2427	silueta cardiaca normal
+T112	SYMPTOM 2497 2541	ventrículo izquierdo de dimensiones normales
+T113	SYMPTOM 2595 2630	Función sistólica global conservada
+T114	SYMPTOM 3361 3408	test de esfuerzo máximo, negativo para isquemia
+T115	SYMPTOM 4012 4038	Aurículas de tamaño normal
+T116	SYMPTOM 6151 6174	líquido libre abdominal
+T117	SYMPTOM 6774 6792	disnea de esfuerzo
+T118	SYMPTOM 6795 6800	mareo
+T119	SYMPTOM 7364 7378	dolor torácico
+T120	SYMPTOM 7565 7616	RMC de estrés, con resultado negativo para isquemia
+T121	SYMPTOM 2808 2863	Prótesis biológica en posición aórtica normofuncionante
+T122	SYMPTOM 3004 3046	Ventrículo derecho de dimensiones normales
+T123	SYMPTOM 3213 3238	Vena cava inferior normal
+T124	SYMPTOM 3816 3878	función sistólica segmentaria y global dentro de la normalidad
+T125	SYMPTOM 3958 3999	función sistólica dentro de la normalidad
+T126	SYMPTOM 8835 8842	estable
+T127	SYMPTOM 9124 9144	estable clínicamente
+T128	SYMPTOM 1855 1900	alteraciones patológicas en la repolarización
+T129	SYMPTOM 5815 5897	Parénquima hepático, esplénico, páncreas, riñones y suprarrenales sin alteraciones
+T130	SYMPTOM 5926 5983	Asas de intestino delgado con actividad metabólica difusa
+T131	SYMPTOM 6045 6146	actividad metabólica en estaciones ganglionares abdominales, retroperitoneales, pélvicas e inguinales
+T132	SYMPTOM 6434 6487	foco de hipermetabolismo en prótesis valvular aórtica
+T133	SYMPTOM 8349 8394	hipermetabolismo en prótesis valvular aórtica
+T134	SYMPTOM 9582 9612	hipermetabolismo periprotésico
+T135	MEDICATION 581 603	ácido acetilsalicílico
+T136	MEDICATION 612 625	atorvastatina
+T137	MEDICATION 633 643	amlodipino
+T138	MEDICATION 650 660	bisoprolol
+T139	MEDICATION 669 678	imidapril
+T140	MEDICATION 8147 8157	ampicilina
+T141	MEDICATION 8159 8170	cloxacilina
+T142	MEDICATION 8173 8184	gentamicina
+T143	MEDICATION 9000 9011	daptomicina
+T144	MEDICATION 9013 9024	ceftriaxona
+T145	MEDICATION 9027 9038	doxiciclina
+T146	MEDICATION 9458 9481	atorvastatina/ezetimiba
+T147	MEDICATION 9806 9817	doxiciclina
+T148	MEDICATION 9822 9833	rifampicina

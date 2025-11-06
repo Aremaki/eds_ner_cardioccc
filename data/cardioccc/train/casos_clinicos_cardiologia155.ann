@@ -1,0 +1,122 @@
+T1	DISEASE 152 160	Obesidad
+T2	DISEASE 174 195	hipertensión arterial
+T3	DISEASE 201 209	diabetes
+T4	DISEASE 212 231	Hipercolesterolemia
+T5	DISEASE 234 248	Hipotiroidismo
+T6	DISEASE 251 279	Insuficiencia venosa crónica
+T7	DISEASE 282 312	Escoliosis dorso-lumbar severa
+T8	DISEASE 622 635	cardiomegalia
+T9	DISEASE 1099 1118	lesiones cerebrales
+T10	DISEASE 1276 1295	abscesos cerebrales
+T11	DISEASE 1416 1514	Válvula mitral con calcificación en anillo posterior, esclerosis y engrosamiento de velo posterior
+T12	DISEASE 1631 1667	insuficiencia mitral ligera-moderada
+T13	DISEASE 1679 1692	valvulopatías
+T14	DISEASE 1712 1731	derrame pericárdico
+T15	DISEASE 1899 1928	Insuficiencia mitral moderada
+T16	DISEASE 1996 2033	perforación del velo mitral posterior
+T17	DISEASE 2155 2184	Insuficiencia mitral moderada
+T18	DISEASE 2209 2261	enfermedad renal médica con cicatrices en parénquima
+T19	DISEASE 2263 2282	Infartos esplénicos
+T20	DISEASE 2284 2312	Trombosis del tronco celíaco
+T21	DISEASE 2532 2545	shock séptico
+T22	DISEASE 2645 2660	lesión cerebral
+T23	DISEASE 2813 2841	vegetación en válvula mitral
+T24	DISEASE 2969 2998	insuficiencia mitral moderada
+T25	DISEASE 3061 3080	endocarditis mitral
+T26	DISEASE 3398 3417	abscesos cerebrales
+T27	DISEASE 3606 3627	fallo cardiaco global
+T28	DISEASE 3705 3742	embolismo séptico en miembro inferior
+T29	DISEASE 3879 3898	infartos esplénicos
+T30	DISEASE 3914 3946	émbolo a nivel de tronco celíaco
+T31	DISEASE 4283 4302	abscesos cerebrales
+T32	DISEASE 4427 4436	infección
+T33	DISEASE 4616 4646	endocarditis mitral embolígena
+T34	DISEASE 4672 4697	anemia de proceso crónico
+T35	DISEASE 4699 4718	insuficiencia renal
+T36	DISEASE 4955 4972	cuadro infeccioso
+T37	DISEASE 5109 5200	Endocarditis sobre válvula mitral nativa, por Sthaphylococcus aureus sensible a cloxacilina
+T38	DISEASE 5214 5227	Shock séptico
+T39	DISEASE 5260 5289	Insuficiencia mitral moderada
+T40	DISEASE 5341 5379	Insuficiencia renal de etiología mixta
+T41	DISEASE 5395 5412	glomerulonefritis
+T42	DISEASE 5426 5459	Insuficiencia cardiaca congestiva
+T43	DISEASE 5462 5488	Embolismo séptico cerebral
+T44	DISEASE 5490 5509	Abscesos cerebrales
+T45	DISEASE 5528 5562	Embolismo séptico arterial femoral
+T46	DISEASE 5600 5627	Embolismo de tronco celíaco
+T47	DISEASE 5643 5674	Embolismo esplénico con infarto
+T48	DISEASE 111 119	Fumadora
+T49	DISEASE 75 98	alergias medicamentosas
+T50	DISEASE 2063 2091	vegetación de velo posterior
+T51	DISEASE 5291 5338	Perforación de velo posterior de válvula mitral
+T52	DISEASE 511 536	Necrosis inferior antigua
+T53	DISEASE 2688 2733	focos sépticos objetivables a nivel abdominal
+T54	DISEASE 1605 1615	vegetación
+T55	DISEASE 1887 1897	vegetación
+T56	DISEASE 2130 2140	vegetación
+T57	DISEASE 2551 2586	insuficiencia renal aguda oligúrica
+T58	DISEASE 4124 4134	vegetación
+T59	DISEASE 4651 4670	abscesos cerebrales
+T60	PROCEDURE 467 485	Electrocardiograma
+T61	PROCEDURE 598 609	RX de tórax
+T62	PROCEDURE 1000 1011	TAC craneal
+T63	PROCEDURE 1075 1087	RMN cerebral
+T64	PROCEDURE 1299 1327	Ecocardiograma transtorácico
+T65	PROCEDURE 1735 1764	Ecocardiograma transesofágico
+T66	PROCEDURE 1932 1946	Ecocardiograma
+T67	PROCEDURE 2188 2207	Ecografía abdominal
+T68	PROCEDURE 2316 2328	Hemocultivos
+T69	PROCEDURE 2394 2406	Hemocultivos
+T70	PROCEDURE 2620 2638	aminas vasoactivas
+T71	PROCEDURE 2743 2746	TAC
+T72	PROCEDURE 2751 2779	ecocardiograma transtorácico
+T73	PROCEDURE 2881 2910	ecocardiograma transesofágico
+T74	PROCEDURE 3164 3176	hemocultivos
+T75	PROCEDURE 3323 3335	RMN cerebral
+T76	PROCEDURE 3652 3662	diuréticos
+T77	PROCEDURE 3770 3795	embolectomía transfemoral
+T78	PROCEDURE 3823 3842	ecografía abdominal
+T79	PROCEDURE 4027 4040	TAC abdominal
+T80	PROCEDURE 4056 4071	ecocardiogramas
+T81	PROCEDURE 4811 4834	tratamiento antibiótico
+T82	PROCEDURE 5564 5589	Embolectomía transfemoral
+T83	PROCEDURE 705 724	Analítica de sangre
+T84	PROCEDURE 1969 1982	Doppler color
+T85	PROCEDURE 4895 4930	cirugía de recambio valvular mitral
+T86	PROCEDURE 4476 4489	función renal
+T87	PROCEDURE 3251 3268	pauta antibiótica
+T88	PROCEDURE 4996 5013	pauta antibiótica
+T89	PROCEDURE 2600 2617	aporte de volumen
+T90	SYMPTOM 487 500	ritmo sinusal
+T91	SYMPTOM 1374 1414	Función ventricular izquierda conservada
+T92	SYMPTOM 2316 2359	Hemocultivos al ingreso: positivos para Sth
+T93	SYMPTOM 2394 2428	Hemocultivos de control: negativos
+T94	SYMPTOM 2934 2962	función sistólica conservada
+T95	SYMPTOM 4504 4511	afebril
+T96	SYMPTOM 5230 5258	Función sistólica conservada
+T97	SYMPTOM 3142 3214	positivización de los hemocultivos de inicio para Sthaphylococcus aureus
+T98	SYMPTOM 1144 1162	edema perilesional
+T99	SYMPTOM 5025 5059	estabilidad clínica y hemodinámica
+T100	SYMPTOM 4514 4521	estable
+T101	SYMPTOM 637 679	aumento de la trama intersticial bilateral
+T102	SYMPTOM 1024 1056	lesión hipodensa frontal derecha
+T103	SYMPTOM 1099 1141	lesiones cerebrales con realce anular fino
+T104	SYMPTOM 1340 1372	cavidades cardiacas no dilatadas
+T105	SYMPTOM 1536 1560	imagen móvil hiperecoica
+T106	SYMPTOM 2093 2116	Imagen en velo anterior
+T107	SYMPTOM 3990 4008	clínica intestinal
+T108	MEDICATION 382 395	pitavastatina
+T109	MEDICATION 397 407	furosemida
+T110	MEDICATION 2379 2390	cloxacilina
+T111	MEDICATION 3025 3034	meropenem
+T112	MEDICATION 3107 3118	vancomicina
+T113	MEDICATION 3121 3132	gentamicina
+T114	MEDICATION 3226 3237	cloxacilina
+T115	MEDICATION 3271 3282	cloxacilina
+T116	MEDICATION 3283 3294	gentamicina
+T117	MEDICATION 4231 4242	cloxacilina
+T118	MEDICATION 5189 5200	cloxacilina
+T119	MEDICATION 374 380	lyrica
+T120	MEDICATION 409 415	daflon
+T121	MEDICATION 417 425	voltaren
+T122	MEDICATION 427 437	levothroid

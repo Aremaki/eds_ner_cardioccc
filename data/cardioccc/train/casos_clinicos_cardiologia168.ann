@@ -1,0 +1,162 @@
+T1	DISEASE 80 89	exfumador
+T2	DISEASE 182 203	hipertensión arterial
+T3	DISEASE 205 208	HTA
+T4	DISEASE 271 281	dislipemia
+T5	DISEASE 288 313	diabetes mellitus tipo II
+T6	DISEASE 315 317	DM
+T7	DISEASE 348 377	cardiopatía isquémica crónica
+T8	DISEASE 390 422	oclusión de descendente anterior
+T9	DISEASE 457 476	ateromatosis difusa
+T10	DISEASE 612 633	artropatía psoriásica
+T11	DISEASE 692 713	infección por gripe A
+T12	DISEASE 716 742	insuficiencia respiratoria
+T13	DISEASE 2069 2121	extrasistolia ventricular frecuente (en bigeminismo)
+T14	DISEASE 2242 2261	bradicardia sinusal
+T15	DISEASE 3899 3926	Insuficiencia mitral ligera
+T16	DISEASE 4043 4087	Válvula aórtica trivalva, esclerocalcificada
+T17	DISEASE 4175 4196	Insuficiencia aórtica
+T18	DISEASE 4473 4500	Insuficiencia pulmonar leve
+T19	DISEASE 4505 4532	estenosis valvular pulmonar
+T20	DISEASE 4595 4640	Válvula tricúspide fina, insuficiencia ligera
+T21	DISEASE 4772 4791	derrame pericárdico
+T22	DISEASE 4822 4896	tronco común izquierdo (TCI) ateromatoso con lesión excéntrica calcificada
+T23	DISEASE 4931 4979	estenosis significativa a nivel distal en TCI-Cx
+T24	DISEASE 5134 5226	Circunfleja (CX) difusamente calcificada, con lesión grave a nivel ostial (TCI-CX) y proxima
+T25	DISEASE 5386 5418	lesiones sangrantes de la mucosa
+T26	DISEASE 5891 5907	angina inestable
+T27	DISEASE 6013 6026	valvulopatías
+T28	DISEASE 6079 6121	oclusión de la descendente anterior ostial
+T29	DISEASE 6137 6212	lesión significativa en el tronco distal afectando al ostium de circunfleja
+T30	DISEASE 6263 6286	anemia ferropénica leve
+T31	DISEASE 6376 6382	anemia
+T32	DISEASE 6478 6501	bigeminismo ventricular
+T33	DISEASE 6542 6565	arritmias ventriculares
+T34	DISEASE 283 285	DL
+T35	DISEASE 550 564	FA paroxística
+T36	DISEASE 63 78	Hábitos tóxicos
+T37	DISEASE 28 51	alergias medicamentosas
+T38	DISEASE 6865 6876	anemización
+T39	DISEASE 2272 2305	extrasistolia ventricular aislada
+T40	DISEASE 3159 3178	necrosis miocárdica
+T41	DISEASE 1484 1491	síncope
+T42	DISEASE 4198 4237	Aurícula izquierda ligeramente dilatada
+T43	DISEASE 4396 4433	Aurícula derecha ligeramente dilatada
+T44	DISEASE 5035 5045	DA ocluida
+T45	DISEASE 5229 5286	Coronaria derecha (CD) dominante con calcificacion difusa
+T46	DISEASE 5515 5531	lesión de TCI-Cx
+T47	DISEASE 5696 5708	lesión de CX
+T48	DISEASE 3720 3779	ventrículo izquierdo no dilatado, ligeramente hipertrofiado
+T49	DISEASE 109 113	fumó
+T50	PROCEDURE 1747 1768	Auscultación cardiaca
+T51	PROCEDURE 1791 1812	Auscultación pulmonar
+T52	PROCEDURE 2025 2043	Electrocardiograma
+T53	PROCEDURE 2045 2048	ECG
+T54	PROCEDURE 2212 2215	ECG
+T55	PROCEDURE 2226 2229	ECG
+T56	PROCEDURE 2339 2359	Radiografía de tórax
+T57	PROCEDURE 3642 3672	Test de sangre oculta en heces
+T58	PROCEDURE 3684 3712	Ecocardiograma transtorácico
+T59	PROCEDURE 3714 3717	ETT
+T60	PROCEDURE 4793 4820	Coronariografía diagnóstica
+T61	PROCEDURE 5319 5331	Colonoscopia
+T62	PROCEDURE 5334 5359	endoscopia digestiva alta
+T63	PROCEDURE 5428 5465	Intervencionismo coronario percutáneo
+T64	PROCEDURE 5549 5593	se implanta un stent liberador de everolimus
+T65	PROCEDURE 5720 5778	se implanta un stent farmacoactivo liberador de everolimus
+T66	PROCEDURE 5923 5951	ecocardiograma transtorácico
+T67	PROCEDURE 6051 6066	coronariografía
+T68	PROCEDURE 6423 6450	intervencionismo percutáneo
+T69	PROCEDURE 6458 6468	telemetría
+T70	PROCEDURE 6521 6536	betabloqueantes
+T71	PROCEDURE 6587 6609	endoscopias digestivas
+T72	PROCEDURE 6680 6707	doble terapia antiagregante
+T73	PROCEDURE 6930 6994	intervencionismo coronario percutáneo con implante de dos stents
+T74	PROCEDURE 1583 1601	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 478 488	Ergometría
+T76	PROCEDURE 2610 2620	Gasometría
+T77	PROCEDURE 5028 5032	IVUS
+T78	PROCEDURE 3145 3187	Marcadores de necrosis miocárdica seriados
+T79	PROCEDURE 6882 6902	doble antiagregación
+T80	PROCEDURE 5467 5497	se avanza una guía a Cx distal
+T81	PROCEDURE 5499 5531	Se predilata la lesión de TCI-Cx
+T82	PROCEDURE 1690 1705	Cabeza y cuello
+T83	PROCEDURE 3200 3211	Laboratorio
+T84	PROCEDURE 6365 6382	estudio de anemia
+T85	PROCEDURE 565 590	anticoagulada con sintrom
+T86	PROCEDURE 5683 5717	se predilata lesión de CX proximal
+T87	SYMPTOM 478 512	Ergometría positiva a altas cargas
+T88	SYMPTOM 1175 1189	dolor torácico
+T89	SYMPTOM 1290 1313	opresión centrotorácica
+T90	SYMPTOM 1325 1368	disnea desencadenados por mínimos esfuerzos
+T91	SYMPTOM 1469 1482	palpitaciones
+T92	SYMPTOM 1493 1526	disminución del ritmo de diuresis
+T93	SYMPTOM 1529 1580	incremento del perímetro de los miembros inferiores
+T94	SYMPTOM 1660 1667	Afebril
+T95	SYMPTOM 1747 1777	Auscultación cardiaca: rítmica
+T96	SYMPTOM 1783 1789	soplos
+T97	SYMPTOM 1814 1863	murmullo vesicular conservado sin ruidos añadidos
+T98	SYMPTOM 1865 1885	hipofonesis en bases
+T99	SYMPTOM 1897 1908	crepitantes
+T100	SYMPTOM 1910 1965	Abdomen: blando, depresible, no doloroso a la palpación
+T101	SYMPTOM 2446 2486	Hilios pulmonares de morfología vascular
+T102	SYMPTOM 3642 3682	Test de sangre oculta en heces: negativo
+T103	SYMPTOM 3815 3843	Función sistólica conservada
+T104	SYMPTOM 5964 6006	función sistólica biventricular preservada
+T105	SYMPTOM 6844 6852	sangrado
+T106	SYMPTOM 2051 2064	ritmo sinusal
+T107	SYMPTOM 6405 6413	sangrado
+T108	SYMPTOM 6750 6758	sangrado
+T109	SYMPTOM 3145 3198	Marcadores de necrosis miocárdica seriados: negativos
+T110	SYMPTOM 1710 1713	IVY
+T111	SYMPTOM 1967 1998	Miembros inferiores: sin edemas
+T112	SYMPTOM 3928 3964	Patrón de llenado transmitral normal
+T113	SYMPTOM 4304 4334	Ventrículo derecho no dilatado
+T114	SYMPTOM 4450 4471	Válvula pulmonar fina
+T115	SYMPTOM 7108 7127	estabilidad clínica
+T116	SYMPTOM 1724 1745	reflujo hepatoyugular
+T117	SYMPTOM 2155 2195	rectificación del segmento ST de V2 a V6
+T118	SYMPTOM 2398 2444	Silueta cardiopericárdica de morfología normal
+T119	SYMPTOM 2361 2396	estructuras mediastínicas centradas
+T120	SYMPTOM 2488 2520	Senos costodiafragmáticos libres
+T121	SYMPTOM 2539 2587	lesiones de aspecto activo pleuroparenquimatosas
+T122	SYMPTOM 4051 4111	aórtica trivalva, esclerocalcificada con apertura conservada
+T123	SYMPTOM 4270 4295	Ao ascendente no dilatada
+T124	SYMPTOM 5319 5383	Colonoscopia y endoscopia digestiva alta: no evidencia de sangre
+T125	SYMPTOM 6587 6635	endoscopias digestivas sin documentarse lesiones
+T126	MEDICATION 659 670	metotrexato
+T127	MEDICATION 770 778	atenolol
+T128	MEDICATION 790 804	Uniket reatard
+T129	MEDICATION 816 827	telmisartán
+T130	MEDICATION 839 849	amlodipino
+T131	MEDICATION 860 873	atorvastatina
+T132	MEDICATION 885 894	ezetimiba
+T133	MEDICATION 906 916	metformina
+T134	MEDICATION 927 939	sitagliptina
+T135	MEDICATION 951 962	deflazacort
+T136	MEDICATION 973 982	omeprazol
+T137	MEDICATION 1008 1022	empagliflozina
+T138	MEDICATION 1034 1046	ácido fólico
+T139	MEDICATION 1057 1068	metotrexato
+T140	MEDICATION 5583 5593	everolimus
+T141	MEDICATION 5768 5778	everolimus
+T142	MEDICATION 6907 6915	heparina
+T143	MEDICATION 7230 7241	Rivaroxabán
+T144	MEDICATION 7275 7286	Clopidogrel
+T145	MEDICATION 7336 7358	Ácido acetilsalicílico
+T146	MEDICATION 7360 7363	AAS
+T147	MEDICATION 7415 7426	Pantoprazol
+T148	MEDICATION 7458 7468	Bisoprolol
+T149	MEDICATION 7505 7515	Amlodipino
+T150	MEDICATION 7548 7573	Mononitrato de isosorbide
+T151	MEDICATION 7618 7631	Atorvastatina
+T152	MEDICATION 7638 7647	ezetimiba
+T153	MEDICATION 7680 7690	Furosemida
+T154	MEDICATION 6819 6825	hierro
+T155	MEDICATION 583 590	sintrom
+T156	MEDICATION 994 1001	sintrom
+T157	MEDICATION 1091 1098	vesomni
+T158	MEDICATION 6710 6732	heparinas de bajo peso
+T159	MEDICATION 7728 7738	Tardyferon
+#1	AnnotatorNotes T34	 DL dislipemia
+#2	AnnotatorNotes T35	 FA fibrilación auricular
+#3	AnnotatorNotes T77	 ultrasonido intravascular

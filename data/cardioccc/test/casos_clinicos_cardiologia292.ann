@@ -1,0 +1,119 @@
+T1	ENFERMEDAD 142 163	hipertensión arterial
+T2	ENFERMEDAD 165 175	dislipemia
+T3	ENFERMEDAD 177 185	fumadora
+T4	ENFERMEDAD 265 283	disfunción sinusal
+T5	ENFERMEDAD 286 331	bloqueo auriculoventricular (BAV) paroxístico
+T6	ENFERMEDAD 315 318	BAV
+T7	ENFERMEDAD 539 573	masa tumoral en aurícula izquierda
+T8	ENFERMEDAD 634 650	mixoma auricular
+T9	ENFERMEDAD 697 739	valvular mitral, ocasionando una estenosis
+T10	ENFERMEDAD 803 818	ictus isquémico
+T11	ENFERMEDAD 944 950	mixoma
+T12	ENFERMEDAD 1059 1089	ictus de circulación posterior
+T13	ENFERMEDAD 1126 1134	diplopía
+T14	ENFERMEDAD 1267 1304	estenosis moderada de ambas carótidas
+T15	ENFERMEDAD 1526 1595	accidente isquémico transitorio (AIT) vertebrobasilares de repetición
+T16	ENFERMEDAD 1748 1766	recidiva de mixoma
+T17	ENFERMEDAD 1934 1943	nistagmus
+T18	ENFERMEDAD 2822 2847	trombosis venosa profunda
+T19	ENFERMEDAD 2849 2852	TVP
+T20	ENFERMEDAD 3379 3403	bronconeumopatía crónica
+T21	ENFERMEDAD 3550 3569	Espondilosis dorsal
+T22	ENFERMEDAD 3620 3636	isquemia crónica
+T23	ENFERMEDAD 3638 3705	Infartos en lóbulo parietal derecho y a nivel parasagital izquierdo
+T24	ENFERMEDAD 4106 4134	recidiva de mixoma auricular
+T25	ENFERMEDAD 4502 4522	insuficiencia mitral
+T26	ENFERMEDAD 4531 4566	Insuficiencia tricuspídea (IT) leve
+T27	ENFERMEDAD 4707 4726	derrame pericárdico
+T28	ENFERMEDAD 5436 5464	Recidiva de mixoma auricular
+T29	ENFERMEDAD 5466 5483	AIT de repetición
+T30	ENFERMEDAD 1091 1095	POCI
+T31	PROCEDIMIENTO 498 512	ecocardiograma
+T32	PROCEDIMIENTO 944 987	mixoma, realizándose una resección completa
+T33	PROCEDIMIENTO 1182 1196	ecocardiograma
+T34	PROCEDIMIENTO 1219 1250	Doppler de tronco supraaórticos
+T35	PROCEDIMIENTO 1335 1349	antiagregación
+T36	PROCEDIMIENTO 1670 1684	ecocardiograma
+T37	PROCEDIMIENTO 1769 1787	Exploración física
+T38	PROCEDIMIENTO 1985 2015	Exploración de pares craneales
+T39	PROCEDIMIENTO 2085 2138	Exploración de la sensibilidad superficial y profunda
+T40	PROCEDIMIENTO 2210 2239	Prueba dedo nariz y dedo-dedo
+T41	PROCEDIMIENTO 2486 2507	Auscultación cardiaca
+T42	PROCEDIMIENTO 2545 2566	Auscultación pulmonar
+T43	PROCEDIMIENTO 2672 2681	palpación
+T44	PROCEDIMIENTO 2907 2925	Electrocardiograma
+T45	PROCEDIMIENTO 2927 2930	ECG
+T46	PROCEDIMIENTO 3021 3040	Analítica de sangre
+T47	PROCEDIMIENTO 3140 3149	Hemograma
+T48	PROCEDIMIENTO 3216 3227	Coagulación
+T49	PROCEDIMIENTO 3268 3288	Radiografía de tórax
+T50	PROCEDIMIENTO 3530 3548	esternotomía media
+T51	PROCEDIMIENTO 3570 3608	Tomografía computarizada (TC) cerebral
+T52	PROCEDIMIENTO 3755 3784	Ecocardiograma transesofágico
+T53	PROCEDIMIENTO 4814 4829	anticoagulación
+T54	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDIMIENTO 3042 3052	bioquímica
+T56	PROCEDIMIENTO 4908 4928	cateterismo cardiaco
+T57	PROCEDIMIENTO 3596 3598	TC
+T58	PROCEDIMIENTO 3477 3480	MCP
+T59	PROCEDIMIENTO 916 939	intervención quirúrgica
+T60	PROCEDIMIENTO 5124 5147	intervención quirúrgica
+T61	PROCEDIMIENTO 4855 4880	reintervención quirúrgica
+T62	PROCEDIMIENTO 223 243	marcapasos bicameral
+T63	PROCEDIMIENTO 348 351	VVI
+T64	SINTOMA 443 469	inestabilidad de la marcha
+T65	SINTOMA 472 485	palpitaciones
+T66	SINTOMA 1182 1215	ecocardiograma que resulta normal
+T67	SINTOMA 1455 1481	inestabilidad de la marcha
+T68	SINTOMA 1708 1734	masa en aurícula izquierda
+T69	SINTOMA 1797 1807	consciente
+T70	SINTOMA 1810 1839	orientada en espacio y tiempo
+T71	SINTOMA 1844 1869	alteraciones del lenguaje
+T72	SINTOMA 1871 1892	nominación conservada
+T73	SINTOMA 1894 1929	Pupilas isocóricas y normoreactivas
+T74	SINTOMA 1985 2024	Exploración de pares craneales normales
+T75	SINTOMA 2026 2083	Fuerza en extremidades superiores e inferiores conservada
+T76	SINTOMA 2085 2149	Exploración de la sensibilidad superficial y profunda conservada
+T77	SINTOMA 2151 2208	Reflejos osteotendinosos bicipital, rotuliano conservados
+T78	SINTOMA 2210 2259	Prueba dedo nariz y dedo-dedo con cierta lentitud
+T79	SINTOMA 2269 2278	dismetría
+T80	SINTOMA 2289 2303	Romberg dudoso
+T81	SINTOMA 2465 2484	irritación meníngea
+T82	SINTOMA 2486 2523	Auscultación cardiaca: tonos rítmicos
+T83	SINTOMA 2528 2534	soplos
+T84	SINTOMA 2568 2597	murmullo vesicular conservado
+T85	SINTOMA 2625 2681	Abdomen: Blando y depresible, no doloroso a la palpación
+T86	SINTOMA 2696 2701	masas
+T87	SINTOMA 2705 2713	megalias
+T88	SINTOMA 2728 2749	irritación peritoneal
+T89	SINTOMA 2751 2775	peristaltismo conservado
+T90	SINTOMA 2777 2808	Miembros inferiores: sin edemas
+T91	SINTOMA 2855 2880	Pulsos pedios conservados
+T92	SINTOMA 2957 2966	PR normal
+T93	SINTOMA 2968 2980	QRS estrecho
+T94	SINTOMA 2986 3019	alteraciones de la repolarización
+T95	SINTOMA 3290 3367	silueta cardiomediastínica y vascularización pulmonar dentro de la normalidad
+T96	SINTOMA 3786 3833	aurícula izquierda (AI) de dimensiones normales
+T97	SINTOMA 4136 4168	Ventrículo izquierdo no dilatado
+T98	SINTOMA 4187 4215	Función sistólica conservada
+T99	SINTOMA 4266 4306	Patrón diastólico de relajación alterada
+T100	SINTOMA 4308 4350	Cavidades derechas de dimensiones normales
+T101	SINTOMA 4673 4693	PSAP estimada normal
+T102	SINTOMA 4729 4749	masas intracardiacas
+T103	SINTOMA 5402 5421	clínica neurológica
+T104	SINTOMA 2357 2406	marcha inestable con lateropulsión a la izquierda
+T105	SINTOMA 4221 4264	asimetrías de la contractilidad segmentaria
+T106	SINTOMA 4352 4386	ventrículo derecho normocontráctil
+T107	SINTOMA 4598 4634	Vena cana inferior (VCI) no dilatada
+T108	SINTOMA 4388 4412	Válvula aórtica trivalva
+T109	SINTOMA 3426 3460	alteraciones pleuroparenquimatosas
+T110	SINTOMA 4955 5002	arterias coronarias sin lesiones significativas
+T111	SINTOMA 2933 2946	ritmo sinsual
+T112	SINTOMA 1137 1150	inestabilidad
+T113	SINTOMA 1945 1983	MOE (motor ocular externo) conservados
+T114	SINTOMA 2408 2440	Marcha en "tándem" imposibilidad
+T115	SINTOMA 2305 2355	Estabilidad con aumento de la base de sustentación
+T116	SINTOMA 3856 3900	aurícula izquierda se observa imagen de masa
+T117	FARMACO 1354 1376	ácido acetilsalicílico
+T118	FARMACO 4834 4841	sintrom
+#1	AnnotatorNotes T30	 ictus de circulación posterior

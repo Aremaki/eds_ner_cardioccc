@@ -1,0 +1,65 @@
+T1	ENFERMEDAD 204 238	adenopatías cervicales bilaterales
+T2	ENFERMEDAD 1304 1360	ventricular izquierdo, provocando insuficiencia moderada
+T3	ENFERMEDAD 1458 1488	valvulopatía aórtica bicúspide
+T4	ENFERMEDAD 1516 1539	endocarditis infecciosa
+T5	ENFERMEDAD 2834 2858	embolia séptica cerebral
+T6	ENFERMEDAD 2927 2973	sobreinfección por microorganismos resistentes
+T7	ENFERMEDAD 3021 3030	embolismo
+T8	ENFERMEDAD 3213 3238	hipertensión intracraneal
+T9	ENFERMEDAD 3316 3398	infarto isquémico por oclusión en el origen de la arteria cerebral media izquierda
+T10	PROCEDIMIENTO 340 358	exploración física
+T11	PROCEDIMIENTO 487 507	electroencefalograma
+T12	PROCEDIMIENTO 513 533	radiografía de tórax
+T13	PROCEDIMIENTO 800 829	toma de hemocultivos seriados
+T14	PROCEDIMIENTO 888 900	hemocultivos
+T15	PROCEDIMIENTO 925 940	tinción de Gram
+T16	PROCEDIMIENTO 1068 1080	hemocultivos
+T17	PROCEDIMIENTO 1100 1133	espectrometría de masas MALDI-TOF
+T18	PROCEDIMIENTO 1196 1211	ecocardiografía
+T19	PROCEDIMIENTO 1970 1999	antibiograma con epsilometría
+T20	PROCEDIMIENTO 2373 2395	terapia antimicrobiana
+T21	PROCEDIMIENTO 2458 2470	hemocultivos
+T22	PROCEDIMIENTO 2883 2909	tratamiento antimicrobiano
+T23	PROCEDIMIENTO 3047 3100	cirugía cardíaca sobre el territorio valvular aórtico
+T24	PROCEDIMIENTO 3255 3284	resonancia magnética cerebral
+T25	PROCEDIMIENTO 3580 3592	hemocultivos
+T26	PROCEDIMIENTO 2518 2534	cirugía cardíaca
+T27	PROCEDIMIENTO 628 652	marcadores inflamatorios
+T28	PROCEDIMIENTO 1871 1900	secuenciación del gen ARN 16S
+T29	PROCEDIMIENTO 2001 2007	E-test
+T30	PROCEDIMIENTO 3102 3120	procedimiento Ross
+T31	SINTOMA 117 123	fiebre
+T32	SINTOMA 174 185	escalofríos
+T33	SINTOMA 187 202	palidez de piel
+T34	SINTOMA 240 251	decaimiento
+T35	SINTOMA 254 265	inapetencia
+T36	SINTOMA 389 404	soplo sistólico
+T37	SINTOMA 688 699	neutrofilia
+T38	SINTOMA 713 724	PCR elevada
+T39	SINTOMA 888 917	hemocultivos fueron positivos
+T40	SINTOMA 1068 1090	hemocultivos positivos
+T41	SINTOMA 1254 1325	formación vegetativa de 10 mm (Figura 1) del lado ventricular izquierdo
+T42	SINTOMA 2326 2339	cuadro febril
+T43	SINTOMA 2656 2662	fiebre
+T44	SINTOMA 2674 2689	cefalea frontal
+T45	SINTOMA 2691 2706	desorien-tación
+T46	SINTOMA 2709 2726	escaso tono motor
+T47	SINTOMA 2748 2790	paresia braquial derecha, hemicara derecha
+T48	SINTOMA 2793 2799	afasia
+T49	SINTOMA 3534 3592	aislamiento de C. pseudodiphtheriticum en los hemocultivos
+T50	SINTOMA 487 572	electroencefalograma y la radiografía de tórax, no evidenciaron hallazgos patológicos
+T51	SINTOMA 936 976	Gram se observaron bacilos grampositivos
+T52	SINTOMA 1124 1161	MALDI-TOF fue C. pseudodiphtheriticum
+T53	SINTOMA 1913 1965	aislamiento de Corynebacterium pseudo­diphtheriticum
+T54	SINTOMA 3434 3443	falle-ció
+T55	FARMACO 290 302	azitromicina
+T56	FARMACO 763 773	cefotaxima
+T57	FARMACO 1550 1561	gentamicina
+T58	FARMACO 2030 2042	azitromicina
+T59	FARMACO 2127 2137	cefotaxima
+T60	FARMACO 2152 2166	ciprofloxacina
+T61	FARMACO 2180 2189	linezolid
+T62	FARMACO 2205 2217	penicilina G
+T63	FARMACO 2233 2244	vancomicina
+T64	FARMACO 2870 2879	linezolid
+T65	FARMACO 2084 2111	amoxicilina/ác. clavulánico

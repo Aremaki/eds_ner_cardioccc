@@ -1,0 +1,97 @@
+T1	ENFERMEDAD 3509 3588	Válvula tricúspide engrosada conbuena apertura y movilidad; regurgitación grave
+T2	ENFERMEDAD 40 60	alérgica a metamizol
+T3	ENFERMEDAD 92 113	hipertensión arterial
+T4	ENFERMEDAD 115 161	diabetes mellitus tipo 2 (insulinodependiente)
+T5	ENFERMEDAD 163 195	fibrilación auricular permanente
+T6	ENFERMEDAD 252 281	valvulopatía mitral reumática
+T7	ENFERMEDAD 286 308	estenosismitral severa
+T8	ENFERMEDAD 507 539	estenosis valvular aórtica grave
+T9	ENFERMEDAD 824 845	gastroenteritis aguda
+T10	ENFERMEDAD 1077 1096	diverticulitisaguda
+T11	ENFERMEDAD 1367 1381	diverticulosis
+T12	ENFERMEDAD 1396 1411	infección aguda
+T13	ENFERMEDAD 1498 1521	endocarditis infecciosa
+T14	ENFERMEDAD 1523 1525	EI
+T15	ENFERMEDAD 2418 2431	cardiomegalia
+T16	ENFERMEDAD 3171 3192	abscesos perianulares
+T17	ENFERMEDAD 3590 3620	Hipertensión pulmonar moderada
+T18	ENFERMEDAD 3635 3654	derrame pericárdico
+T19	ENFERMEDAD 3697 3769	endocarditis infecciosa sobre válvula protésica por Bacteroides fragilis
+T20	ENFERMEDAD 4037 4061	descompensación cardiaca
+T21	ENFERMEDAD 4256 4337	Endocarditis sobre prótesis metálica mitral por anaerobios (Bacteroides fragilis)
+T22	ENFERMEDAD 4373 4409	Bacteriemia por Bacteroides fragilis
+T23	ENFERMEDAD 4446 4460	Diverticulosis
+T24	ENFERMEDAD 4465 4479	diverticulitis
+T25	ENFERMEDAD 198 211	asmabronquial
+T26	ENFERMEDAD 2664 2702	aurícula izquierda gravemente dilatada
+T27	ENFERMEDAD 3420 3448	Cavidades derechas dilatadas
+T28	ENFERMEDAD 1689 1705	nódulos de Osler
+T29	ENFERMEDAD 1709 1724	manchas de Roth
+T30	ENFERMEDAD 3313 3348	Válvula aórtica trivalva, engrosada
+T31	ENFERMEDAD 4342 4362	disfunción protésica
+T32	ENFERMEDAD 2762 2768	trombo
+T33	PROCEDIMIENTO 286 343	estenosismitral severa intervenida mediante comisurotomía
+T34	PROCEDIMIENTO 380 460	recambio valvular protésico en 2007 mediante prótesis metálica Carbomedics no 27
+T35	PROCEDIMIENTO 665 682	broncodilatadores
+T36	PROCEDIMIENTO 1135 1147	hemocultivos
+T37	PROCEDIMIENTO 1159 1182	tratamiento antibiótico
+T38	PROCEDIMIENTO 1281 1293	hemocultivos
+T39	PROCEDIMIENTO 1343 1355	TC abdominal
+T40	PROCEDIMIENTO 1468 1482	ecocardiograma
+T41	PROCEDIMIENTO 1834 1855	Auscultación cardiaca
+T42	PROCEDIMIENTO 2001 2022	Auscultación pulmonar
+T43	PROCEDIMIENTO 2331 2340	Hemograma
+T44	PROCEDIMIENTO 2577 2589	HEMOCULTIVOS
+T45	PROCEDIMIENTO 2632 2662	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T46	PROCEDIMIENTO 3962 3974	hemocultivos
+T47	PROCEDIMIENTO 4066 4087	tratamiento diurético
+T48	PROCEDIMIENTO 4107 4142	tratamiento antibiótico intravenoso
+T49	PROCEDIMIENTO 1529 1547	EXPLORACIÓN FÍSICA
+T50	PROCEDIMIENTO 2210 2215	iones
+T51	PROCEDIMIENTO 2218 2231	transaminasas
+T52	PROCEDIMIENTO 2397 2416	RADIGRAFÍA DE TÓRAX
+T53	PROCEDIMIENTO 2456 2474	esternotomía media
+T54	PROCEDIMIENTO 2445 2474	Suturas de esternotomía media
+T55	PROCEDIMIENTO 2121 2130	ANALÍTICA
+T56	SINTOMA 759 786	dolor abdominal tipo cólico
+T57	SINTOMA 789 795	fiebre
+T58	SINTOMA 962 973	pico febril
+T59	SINTOMA 976 1026	dolor abdominalfocalizado en fosa ilíaca izquierda
+T60	SINTOMA 1265 1276	pico febril
+T61	SINTOMA 1281 1303	hemocultivos positivos
+T62	SINTOMA 1627 1637	Consciente
+T63	SINTOMA 1638 1647	orientada
+T64	SINTOMA 1649 1664	bien perfundida
+T65	SINTOMA 1726 1758	Aumento del pulso venoso yugular
+T66	SINTOMA 1857 1882	ruidos cardiacos rítmicos
+T67	SINTOMA 1896 1930	soplo sistólico3/6 en foco aórtico
+T68	SINTOMA 2024 2045	hipoventilación basal
+T69	SINTOMA 2061 2094	edemas en extremidades inferiores
+T70	SINTOMA 2546 2575	Hilios vasculares prominentes
+T71	SINTOMA 2577 2630	HEMOCULTIVOS (x3): positivo para Bacteroides fragilis
+T72	SINTOMA 3194 3243	Ventrículo izquierdo no dilatado ni hipertrofiado
+T73	SINTOMA 3450 3493	contractilidad ventricular derecha reducida
+T74	SINTOMA 3909 3916	afebril
+T75	SINTOMA 4161 4186	estable hemodinámicamente
+T76	SINTOMA 1098 1147	Se aisló Bacteroides fragilis en dos hemocultivos
+T77	SINTOMA 1933 1999	segundo ruido abolido, irradiado a borde esternal izquierdo y ápex
+T78	SINTOMA 2210 2263	iones y transaminasas sin alteraciones significativas
+T79	SINTOMA 2476 2515	Pinzamientode ambos senos costofrénicos
+T80	SINTOMA 2704 2719	Tabique íntegro
+T81	SINTOMA 2784 2837	Prótesis mitral de doble hemidisco con buena apertura
+T82	SINTOMA 2907 2954	jets de regurgitación excéntricos intraprótesis
+T83	SINTOMA 2959 3001	inversión del flujo en lasvenas pulmonares
+T84	SINTOMA 3019 3073	imágenes vegetantes implantadas en el anillo protésico
+T85	SINTOMA 3248 3279	fracción de eyección preservada
+T86	SINTOMA 2721 2737	orejuela ocupada
+T87	SINTOMA 3509 3567	Válvula tricúspide engrosada conbuena apertura y movilidad
+T88	FARMACO 51 60	metamizol
+T89	FARMACO 588 600	acenocumarol
+T90	FARMACO 602 612	bisoprolol
+T91	FARMACO 614 624	furosemida
+T92	FARMACO 626 641	espironolactona
+T93	FARMACO 642 652	olmesartán
+T94	FARMACO 654 662	insulina
+T95	FARMACO 3797 3809	metronidazol
+T96	FARMACO 3827 3850	amoxicilina-clavulánico
+#1	AnnotatorNotes T14	Endocarditis infecciosa

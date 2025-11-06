@@ -1,0 +1,67 @@
+T1	ENFERMEDAD 71 94	alergias medicamentosas
+T2	ENFERMEDAD 106 124	Síndrome de Marfan
+T3	ENFERMEDAD 126 152	Subluxación del cristalino
+T4	ENFERMEDAD 154 167	Ectasia dural
+T5	ENFERMEDAD 190 208	síndrome de Marfan
+T6	ENFERMEDAD 411 465	Hiperparatiroidismo secundario a déficit de vitamina D
+T7	ENFERMEDAD 483 493	Osteopenia
+T8	ENFERMEDAD 794 819	aneurisma de raíz aórtica
+T9	ENFERMEDAD 1043 1060	Hábito marfanoide
+T10	ENFERMEDAD 1494 1519	trombosis venosa profunda
+T11	ENFERMEDAD 2876 2894	síndrome de Marfan
+T12	ENFERMEDAD 2899 2929	dilatación de aorta ascendente
+T13	ENFERMEDAD 1932 1934	IM
+T14	ENFERMEDAD 2144 2151	IT leve
+T15	ENFERMEDAD 467 481	Hipercalciuria
+T16	ENFERMEDAD 2231 2299	leve dilatación de aorta torácica descendente e iliaca común derecha
+T17	ENFERMEDAD 260 333	dilatación de la aorta ascendente con afectación de los senos de Valsalva
+T18	ENFERMEDAD 1174 1203	cicatriz de toracotomía media
+T19	PROCEDIMIENTO 346 362	técnica de David
+T20	PROCEDIMIENTO 498 503	parto
+T21	PROCEDIMIENTO 515 540	parto vaginal con ventosa
+T22	PROCEDIMIENTO 894 912	Exploración física
+T23	PROCEDIMIENTO 1186 1203	toracotomía media
+T24	PROCEDIMIENTO 1205 1226	Auscultación cardiaca
+T25	PROCEDIMIENTO 1247 1268	Auscultación pulmonar
+T26	PROCEDIMIENTO 1578 1592	Ecocardiograma
+T27	PROCEDIMIENTO 2209 2229	Resonancia magnética
+T28	PROCEDIMIENTO 2522 2550	test de diagnóstico prenatal
+T29	PROCEDIMIENTO 2563 2580	estudio molecular
+T30	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDIMIENTO 1357 1366	palpación
+T32	PROCEDIMIENTO 2647 2667	diagnóstico prenatal
+T33	PROCEDIMIENTO 1062 1077	Cabeza y cuello
+T34	PROCEDIMIENTO 1167 1172	Tórax
+T35	PROCEDIMIENTO 2899 2941	dilatación de aorta ascendente intervenida
+T36	SINTOMA 940 950	Consciente
+T37	SINTOMA 953 962	orientada
+T38	SINTOMA 964 978	Bien hidratada
+T39	SINTOMA 981 991	perfundida
+T40	SINTOMA 997 1031	buena coloración de piel y mucosas
+T41	SINTOMA 1033 1041	Eupneica
+T42	SINTOMA 1082 1103	ingurgitación yugular
+T43	SINTOMA 1108 1123	rigidez de nuca
+T44	SINTOMA 1127 1143	signos meníngeos
+T45	SINTOMA 1148 1165	soplos carotideos
+T46	SINTOMA 1205 1234	Auscultación cardiaca rítmica
+T47	SINTOMA 1239 1245	soplos
+T48	SINTOMA 1270 1299	murmullo vesicular conservado
+T49	SINTOMA 1301 1366	Abdomen: globuloso, blando y depresible, sin dolor a la palpación
+T50	SINTOMA 1370 1381	peritonismo
+T51	SINTOMA 1396 1401	masas
+T52	SINTOMA 1405 1420	visceromegalias
+T53	SINTOMA 1438 1444	soplos
+T54	SINTOMA 1521 1551	Pulsos periféricos conservados
+T55	SINTOMA 1944 2028	Ventrículo izquierdo no dilatado ni hipertrófico, con buena función sistólica global
+T56	SINTOMA 2108 2139	Cavidades derechas no dilatadas
+T57	SINTOMA 2186 2207	Normotensión pulmonar
+T58	SINTOMA 1445 1480	Extremidades inferiores: sin edemas
+T59	SINTOMA 2563 2600	estudio molecular, que resulta normal
+T60	FARMACO 604 607	AAS
+T61	FARMACO 617 626	labetalol
+T62	FARMACO 675 683	atenolol
+T63	FARMACO 688 697	labetalol
+T64	FARMACO 2736 2739	AAS
+T65	FARMACO 2758 2767	labetalol
+#1	AnnotatorNotes T13	 insuficiencia mitral
+#2	AnnotatorNotes T14	 IT: insuficiencia tricuspide

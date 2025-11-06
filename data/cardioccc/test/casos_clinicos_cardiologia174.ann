@@ -1,0 +1,101 @@
+T1	ENFERMEDAD 72 87	úlcera duodenal
+T2	ENFERMEDAD 95 105	tabaquismo
+T3	ENFERMEDAD 181 196	úlcera duodenal
+T4	ENFERMEDAD 764 767	ICC
+T5	ENFERMEDAD 2409 2430	Insuficiencia aórtica
+T6	ENFERMEDAD 2456 2469	valvulopatías
+T7	ENFERMEDAD 2636 2662	Derrame pericárdico ligero
+T8	ENFERMEDAD 3681 3689	isquemia
+T9	ENFERMEDAD 3740 3784	dilatación de raíz aórtica con insuficiencia
+T10	ENFERMEDAD 3884 3909	disección aórtica tipo A.
+T11	ENFERMEDAD 4864 4890	insuficiencia respiratoria
+T12	ENFERMEDAD 4913 4973	síndrome de distrés respiratorio agudo (SDRA) postoperatorio
+T13	ENFERMEDAD 4953 4957	SDRA
+T14	ENFERMEDAD 5197 5222	insuficiencia renal aguda
+T15	ENFERMEDAD 5557 5567	Tabaquismo
+T16	ENFERMEDAD 5569 5590	Hipertensión arterial
+T17	ENFERMEDAD 5592 5633	Insuficiencia respiratoria aguda por SDRA
+T18	ENFERMEDAD 5635 5663	Insuficiencia renal prerenal
+T19	ENFERMEDAD 5480 5510	Disección aórtica aguda tipo A
+T20	ENFERMEDAD 2130 2145	daño miocárdico
+T21	ENFERMEDAD 2684 2739	disección aórtica tipo A con afectación de raíz aórtica
+T22	ENFERMEDAD 2226 2281	ventrículo izquierdo con hipertrofia concéntrica ligera
+T23	ENFERMEDAD 2961 3028	Dilatación de raíz aórtica y de porción tubular de aorta ascendente
+T24	ENFERMEDAD 3425 3545	disección tipo A que se extiende desde raíz aórtica hasta el segmento aórtico proximal al origen de mesentérica inferior
+T25	ENFERMEDAD 5098 5105	gripe A
+T26	ENFERMEDAD 1630 1633	HVI
+T27	ENFERMEDAD 24 61	Intolerancia a ácido acetilsalicílico
+T28	ENFERMEDAD 770 780	infecciosa
+T29	PROCEDIMIENTO 1162 1189	Auscultación cardiopulmonar
+T30	PROCEDIMIENTO 1530 1533	ECG
+T31	PROCEDIMIENTO 1650 1653	ECG
+T32	PROCEDIMIENTO 1683 1692	Hemograma
+T33	PROCEDIMIENTO 2177 2191	Ecocardiograma
+T34	PROCEDIMIENTO 2193 2196	ETT
+T35	PROCEDIMIENTO 2664 2682	Angio-TAC de aorta
+T36	PROCEDIMIENTO 3663 3666	ECG
+T37	PROCEDIMIENTO 3711 3714	ETT
+T38	PROCEDIMIENTO 3843 3852	angio-TAC
+T39	PROCEDIMIENTO 4093 4143	técnica de Bono-Bentall mecánico (Carboseal 29 mm)
+T40	PROCEDIMIENTO 4206 4232	reemplazo valvular aórtico
+T41	PROCEDIMIENTO 4237 4281	reemplazo de raíz aórtica y aorta ascendente
+T42	PROCEDIMIENTO 4295 4326	reimplante de ostium coronarios
+T43	PROCEDIMIENTO 4334 4359	circulación extracorpórea
+T44	PROCEDIMIENTO 4361 4395	parada electromecánica del corazón
+T45	PROCEDIMIENTO 4398 4462	parada circulatoria con perfusión cerebral selectiva bicarotídea
+T46	PROCEDIMIENTO 4478 4523	recambio de arco aórtico ni aorta descendente
+T47	PROCEDIMIENTO 5128 5155	gafas nasales de alto flujo
+T48	PROCEDIMIENTO 1988 1998	Bioquímica
+T49	PROCEDIMIENTO 799 817	EXPLORACIÓN FÍSICA
+T50	PROCEDIMIENTO 4772 4782	Extubación
+T51	PROCEDIMIENTO 1894 1904	Hemostasia
+T52	PROCEDIMIENTO 4046 4069	intervención quirúrgica
+T53	PROCEDIMIENTO 4978 4989	radiografía
+T54	PROCEDIMIENTO 2113 2145	Biomarcadores de daño miocárdico
+T55	PROCEDIMIENTO 4742 4760	cirugía de Bentall
+T56	PROCEDIMIENTO 5512 5555	Cirugía emergente con Bono-Bentall metálico
+T57	PROCEDIMIENTO 1664 1673	Analítica
+T58	PROCEDIMIENTO 215 241	intervenciones quirúrgicas
+T59	PROCEDIMIENTO 4179 4202	intervención quirúrgica
+T60	SINTOMA 418 447	dolor centrotorácico opresivo
+T61	SINTOMA 587 610	leve cortejo vegetativo
+T62	SINTOMA 689 709	dolor centrotorácico
+T63	SINTOMA 965 987	Regular estado general
+T64	SINTOMA 1002 1015	dolor intenso
+T65	SINTOMA 1017 1035	Eupneico en reposo
+T66	SINTOMA 1037 1051	Normocoloreado
+T67	SINTOMA 1054 1068	normohidratado
+T68	SINTOMA 1070 1078	Sudoroso
+T69	SINTOMA 1089 1099	consciente
+T70	SINTOMA 1102 1111	orientado
+T71	SINTOMA 1113 1124	colaborador
+T72	SINTOMA 1127 1133	alerta
+T73	SINTOMA 1139 1160	focalidad neurológica
+T74	SINTOMA 1191 1207	ruidos regulares
+T75	SINTOMA 1209 1257	soplo diastólico de predominio en borde esternal
+T76	SINTOMA 1269 1298	Murmullo vesicular conservado
+T77	SINTOMA 1300 1303	MVC
+T78	SINTOMA 1309 1329	ruidos sobreañadidos
+T79	SINTOMA 1331 1359	Abdomen: blando y depresible
+T80	SINTOMA 1365 1369	masa
+T81	SINTOMA 1373 1381	megalias
+T82	SINTOMA 1386 1409	doloroso a la palpación
+T83	SINTOMA 1417 1444	pulsos radiales asimétricos
+T84	SINTOMA 1446 1503	Miembros inferiores: pulsos distales débiles y simétricos
+T85	SINTOMA 1560 1573	ritmo sinusal
+T86	SINTOMA 1595 1607	QRS estrecho
+T87	SINTOMA 2307 2335	función sistólica conservada
+T88	SINTOMA 2471 2518	Ventrículo derecho de tamaño y función normales
+T89	SINTOMA 3587 3618	dolor torácico opresivo intenso
+T90	SINTOMA 5094 5114	PCR gripe A negativa
+T91	SINTOMA 5332 5347	sangrado activo
+T92	SINTOMA 2352 2397	alteraciones de la contractilidad segmentaria
+T93	SINTOMA 5277 5284	estable
+T94	SINTOMA 5015 5063	infiltrados dispersos en ambos campos pulmonares
+T95	SINTOMA 2520 2556	Raíz aórtica de diámetros aumentados
+T96	SINTOMA 2603 2634	Vena cava inferior (VCI) normal
+T97	SINTOMA 3077 3156	A nivel de aorta toraco-abdominal la luz verdadera presenta un calibre reducido
+T98	SINTOMA 3158 3247	Tronco celiaco, mesentérica superior y renal derecha tienen su origen en la luz verdadera
+T99	SINTOMA 3371 3411	Aorta distal y sector iliofemoral normal
+T100	FARMACO 63 66	AAS
+T101	FARMACO 39 61	ácido acetilsalicílico

@@ -1,0 +1,60 @@
+T1	ENFERMEDAD 64 94	cirrosis por virus hepatitis B
+T2	ENFERMEDAD 358 388	cirrosis por virus hepatitis B
+T3	ENFERMEDAD 634 659	trombosis venosa profunda
+T4	ENFERMEDAD 661 664	TVP
+T5	ENFERMEDAD 855 874	hemiparesia derecha
+T6	ENFERMEDAD 888 927	ictus de arteria cerebral media derecha
+T7	ENFERMEDAD 1265 1296	septo interauricular redundante
+T8	ENFERMEDAD 1343 1372	persistencia de red de Chiari
+T9	ENFERMEDAD 1676 1745	embolismo coronario como causa de la oclusión de la coronaria derecha
+T10	ENFERMEDAD 2040 2060	embolismo paradójico
+T11	ENFERMEDAD 2077 2126	infarto agudo de miocardio (IAM) infero-posterior
+T12	ENFERMEDAD 2105 2108	IAM
+T13	ENFERMEDAD 2144 2149	ictus
+T14	ENFERMEDAD 2184 2187	TVP
+T15	ENFERMEDAD 2413 2435	foramen oval permeable
+T16	ENFERMEDAD 2487 2505	proceso neoplásico
+T17	ENFERMEDAD 2594 2636	embolismos hepáticos, esplénicos y renales
+T18	ENFERMEDAD 2809 2827	Embolismo múltiple
+T19	ENFERMEDAD 410 420	tabaquismo
+T20	ENFERMEDAD 985 1005	Lesión subepicárdica
+T21	ENFERMEDAD 1397 1422	Coronaria derecha ocluida
+T22	ENFERMEDAD 2871 2893	foramen oval permeable
+T23	ENFERMEDAD 2299 2322	shunt derecha izquierda
+T24	ENFERMEDAD 2521 2541	estado protrombótico
+T25	ENFERMEDAD 1462 1493	abundante componente trombótico
+T26	ENFERMEDAD 1560 1573	trombos rojos
+T27	PROCEDIMIENTO 40 59	trasplante hepático
+T28	PROCEDIMIENTO 249 267	exploración física
+T29	PROCEDIMIENTO 334 353	trasplante hepático
+T30	PROCEDIMIENTO 596 613	ecografía doppler
+T31	PROCEDIMIENTO 699 725	tratamiento anticoagulante
+T32	PROCEDIMIENTO 956 968	TAC Cerebral
+T33	PROCEDIMIENTO 980 983	ECG
+T34	PROCEDIMIENTO 1150 1178	Ecocardiograma transtorácico
+T35	PROCEDIMIENTO 1376 1387	Cateterismo
+T36	PROCEDIMIENTO 1506 1539	trombectomía mecánica con catéter
+T37	PROCEDIMIENTO 1842 1853	cateterismo
+T38	PROCEDIMIENTO 2211 2277	ecocardiograma transtorácico con inyección de suero salino agitado
+T39	PROCEDIMIENTO 2377 2380	ETE
+T40	PROCEDIMIENTO 2460 2468	TAC body
+T41	PROCEDIMIENTO 2641 2671	estudio de hipercoagulabilidad
+T42	PROCEDIMIENTO 2719 2750	tratamiento anticoagulante oral
+T43	PROCEDIMIENTO 1750 1765	se coloca stent
+T44	SINTOMA 138 149	tumefacción
+T45	SINTOMA 151 156	edema
+T46	SINTOMA 159 182	dolor en región gemelar
+T47	SINTOMA 501 512	tumefacción
+T48	SINTOMA 514 519	edema
+T49	SINTOMA 522 545	dolor en región gemelar
+T50	SINTOMA 839 852	afasia motora
+T51	SINTOMA 956 976	TAC Cerebral: Normal
+T52	SINTOMA 1077 1101	descenso del ST en V1-V2
+T53	SINTOMA 1180 1194	VI no dilatado
+T54	SINTOMA 1196 1211	FEVI conservada
+T55	SINTOMA 1213 1248	hipocinesia severa infero-posterior
+T56	SINTOMA 2782 2794	asintomático
+T57	SINTOMA 1301 1327	imagen en aurícula derecha
+T58	SINTOMA 1770 1800	coronaria izquierda era normal
+T59	SINTOMA 2641 2686	estudio de hipercoagulabilidad resultó normal
+T60	FARMACO 727 738	enoxaparina

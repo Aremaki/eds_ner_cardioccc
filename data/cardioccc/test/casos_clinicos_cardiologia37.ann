@@ -1,0 +1,129 @@
+T1	ENFERMEDAD 715 732	lesiones cutáneas
+T2	ENFERMEDAD 1193 1196	HTA
+T3	ENFERMEDAD 1198 1202	DMII
+T4	ENFERMEDAD 1204 1214	dislipemia
+T5	ENFERMEDAD 1216 1238	hiperuricemia con gota
+T6	ENFERMEDAD 1240 1253	FA permanente
+T7	ENFERMEDAD 1299 1328	cardiopatía isquémica crónica
+T8	ENFERMEDAD 1365 1401	hipersensibilidad del seno carotídeo
+T9	ENFERMEDAD 1582 1617	Hiperostosis anquilosante vertebral
+T10	ENFERMEDAD 1620 1624	gota
+T11	ENFERMEDAD 1710 1744	Neumonía adquirida en la comunidad
+T12	ENFERMEDAD 2025 2075	adenopatías en los principales grupos ganglionares
+T13	ENFERMEDAD 2501 2504	TVP
+T14	ENFERMEDAD 2511 2528	lesiones cutáneas
+T15	ENFERMEDAD 3236 3259	ENDOCARDITIS BACTERIANA
+T16	ENFERMEDAD 3815 3845	hipertrofia del VI concéntrica
+T17	ENFERMEDAD 4357 4366	infección
+T18	ENFERMEDAD 4435 4459	alergia a betalactámicos
+T19	ENFERMEDAD 4524 4545	alergia -> AMPICILINA
+T20	ENFERMEDAD 4588 4618	Infección sobre válvula nativa
+T21	ENFERMEDAD 1043 1077	Hipersensibilidad a betalactámicos
+T22	ENFERMEDAD 1101 1108	fumador
+T23	ENFERMEDAD 1510 1512	FA
+T24	ENFERMEDAD 2126 2138	Boca séptica
+T25	ENFERMEDAD 2810 2835	bloqueo de rama izquierdo
+T26	ENFERMEDAD 2849 2869	cardiomegalia global
+T27	ENFERMEDAD 2885 2888	IVI
+T28	ENFERMEDAD 3704 3734	dilatación auricular izquierda
+T29	ENFERMEDAD 3847 3924	Vegetación de 12x7mm a nivel del segmento auricular del velo posterior mitral
+T30	ENFERMEDAD 4025 4049	afectación endocardítica
+T31	ENFERMEDAD 4064 4082	Endocarditismitral
+T32	ENFERMEDAD 4649 4658	Infección
+T33	ENFERMEDAD 1081 1096	Hábitos tóxicos
+T34	ENFERMEDAD 1110 1117	Bebedor
+T35	PROCEDIMIENTO 666 677	antibiótico
+T36	PROCEDIMIENTO 857 880	recambio del marcapasos
+T37	PROCEDIMIENTO 1266 1296	anticoagulado con Acenocumarol
+T38	PROCEDIMIENTO 1521 1543	recambio de marcapasos
+T39	PROCEDIMIENTO 1781 1795	apendicectomía
+T40	PROCEDIMIENTO 1797 1812	prótesisaórtica
+T41	PROCEDIMIENTO 2739 2742	ECG
+T42	PROCEDIMIENTO 2839 2847	RX tórax
+T43	PROCEDIMIENTO 3268 3280	Hemocultivos
+T44	PROCEDIMIENTO 3304 3318	Ecocardiograma
+T45	PROCEDIMIENTO 3351 3363	HEMOCULTIVOS
+T46	PROCEDIMIENTO 3572 3586	ECOCARDIOGRAMA
+T47	PROCEDIMIENTO 3615 3632	ecocardiograma TE
+T48	PROCEDIMIENTO 3676 3693	ecocardiograma TT
+T49	PROCEDIMIENTO 4139 4146	PET TAC
+T50	PROCEDIMIENTO 4180 4183	ETT
+T51	PROCEDIMIENTO 2243 2245	AC
+T52	PROCEDIMIENTO 2321 2323	AP
+T53	PROCEDIMIENTO 1943 1961	EXPLORACIÓN FÍSICA
+T54	PROCEDIMIENTO 3059 3069	Gasometría
+T55	PROCEDIMIENTO 2930 2940	Bioquímica
+T56	PROCEDIMIENTO 3072 3083	Hematología
+T57	PROCEDIMIENTO 4084 4096	Hemocultivos
+T58	PROCEDIMIENTO 736 759	intervenciones dentales
+T59	PROCEDIMIENTO 3283 3301	Analítica completa
+T60	PROCEDIMIENTO 2890 2900	Marcapasos
+T61	PROCEDIMIENTO 2402 2411	se palpan
+T62	SINTOMA 76 82	fiebre
+T63	SINTOMA 116 127	escalofríos
+T64	SINTOMA 129 137	tiritona
+T65	SINTOMA 247 253	fiebre
+T66	SINTOMA 269 276	astenia
+T67	SINTOMA 279 303	dolores osteoarticulares
+T68	SINTOMA 322 325	tos
+T69	SINTOMA 330 343	expectoración
+T70	SINTOMA 348 354	disnea
+T71	SINTOMA 359 373	dolor torácico
+T72	SINTOMA 378 385	nauseas
+T73	SINTOMA 390 397	vómitos
+T74	SINTOMA 474 491	clínica miccional
+T75	SINTOMA 611 617	fiebre
+T76	SINTOMA 623 639	malestar general
+T77	SINTOMA 964 983	dolores articulares
+T78	SINTOMA 985 1000	Pérdida de peso
+T79	SINTOMA 2079 2093	Normocoloreado
+T80	SINTOMA 2095 2109	Normohidratado
+T81	SINTOMA 2114 2123	ictericia
+T82	SINTOMA 2140 2166	Faringe normal sin exudado
+T83	SINTOMA 2173 2184	crepitación
+T84	SINTOMA 2199 2210	inflamación
+T85	SINTOMA 2256 2285	Soplo de regurgitación mitral
+T86	SINTOMA 2325 2354	Ruidos respiratorios normales
+T87	SINTOMA 2358 2384	Abdomen: blando, deresible
+T88	SINTOMA 2389 2397	doloroso
+T89	SINTOMA 2412 2417	masas
+T90	SINTOMA 2421 2436	visceromegalias
+T91	SINTOMA 2440 2463	Extremidades sin edemas
+T92	SINTOMA 2469 2485	pulsos palpables
+T93	SINTOMA 2533 2566	pérdida de continuidad de la piel
+T94	SINTOMA 2570 2580	Consciente
+T95	SINTOMA 2582 2591	orientado
+T96	SINTOMA 2593 2604	colaborador
+T97	SINTOMA 2606 2621	lenguaje normal
+T98	SINTOMA 2623 2650	moviliza las 4 extremidades
+T99	SINTOMA 2652 2676	pares craneales normales
+T100	SINTOMA 2678 2704	Signos meníngeos negativos
+T101	SINTOMA 2744 2760	ritmo marcapasos
+T102	SINTOMA 3787 3800	FE conservada
+T103	SINTOMA 4197 4247	aumento focal de la actividad sobre válvula mitral
+T104	SINTOMA 399 419	Deposiciones blandas
+T105	SINTOMA 1428 1455	Portador de marcapasos DDDR
+T106	SINTOMA 2243 2254	AC: Rítmica
+T107	SINTOMA 2287 2317	clic valvular en soplo aórtico
+T108	SINTOMA 3135 3178	Brucellamelitensisrosa de bengala: negativo
+T109	SINTOMA 3955 3998	Prótesis biológica aórtica normofuncionante
+T110	SINTOMA 4084 4105	Hemocultivospositivos
+T111	SINTOMA 4681 4715	con válvula protésica y marcapasos
+T112	FARMACO 198 209	paracetamol
+T113	FARMACO 542 555	levofloxacino
+T114	FARMACO 1284 1296	Acenocumarol
+T115	FARMACO 3452 3478	Quinupristin/dalfopristina
+T116	FARMACO 3481 3498	Cefuroxima-axetil
+T117	FARMACO 3499 3511	- Cefuroxima
+T118	FARMACO 3514 3540	Trimetropin/sulfametoxazol
+T119	FARMACO 3543 3555	Clindamicina
+T120	FARMACO 3558 3570	Eritromicina
+T121	FARMACO 4477 4488	VANCOMICINA
+T122	FARMACO 4489 4500	GENTAMICINA
+T123	FARMACO 4535 4545	AMPICILINA
+T124	FARMACO 4554 4565	CEFTRIAXONA
+T125	FARMACO 3422 3432	penicilina
+T126	FARMACO 4445 4459	betalactámicos
+#1	AnnotatorNotes T13	 TVP trombosis venosa profunda
+#2	AnnotatorNotes T23	 FA fibrilación auricular
+#3	AnnotatorNotes T27	 IVI insuficiencia ventricular izquierda

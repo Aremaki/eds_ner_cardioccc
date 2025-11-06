@@ -1,0 +1,99 @@
+T1	ENFERMEDAD 114 165	Intolerancia a los antiinflamatorios no esteroideos
+T2	ENFERMEDAD 178 193	hábitos tóxicos
+T3	ENFERMEDAD 195 216	Hipertensión arterial
+T4	ENFERMEDAD 221 238	diabetes mellitus
+T5	ENFERMEDAD 242 252	dislipemia
+T6	ENFERMEDAD 395 416	polimialgia reumática
+T7	ENFERMEDAD 418 437	espondilosis lumbar
+T8	ENFERMEDAD 439 459	degeneración macular
+T9	ENFERMEDAD 461 487	síndrome ansioso-depresivo
+T10	ENFERMEDAD 489 517	insuficiencia venosa crónica
+T11	ENFERMEDAD 1884 1892	flebitis
+T12	ENFERMEDAD 3235 3266	Calcificación del anillo mitral
+T13	ENFERMEDAD 3311 3355	Tricúspide normal con insuficiencia moderada
+T14	ENFERMEDAD 3414 3459	Aórtica normal con insuficiencia leve-trivial
+T15	ENFERMEDAD 3899 3906	SCASEST
+T16	ENFERMEDAD 4084 4124	oclusión coronaria de etiología embólica
+T17	ENFERMEDAD 4161 4173	ateroembolia
+T18	ENFERMEDAD 4360 4369	arritmias
+T19	ENFERMEDAD 4440 4461	Cardiopatía isquémica
+T20	ENFERMEDAD 4463 4500	Infarto agudo de miocardio (IAM) no Q
+T21	ENFERMEDAD 4491 4494	IAM
+T22	ENFERMEDAD 3151 3178	Aurícula izquierda dilatada
+T23	ENFERMEDAD 2973 2993	lesión subepicárdica
+T24	ENFERMEDAD 2644 2663	elongación de aorta
+T25	ENFERMEDAD 565 600	cadera derecha (2011) tras fractura
+T26	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T27	PROCEDIMIENTO 133 165	antiinflamatorios no esteroideos
+T28	PROCEDIMIENTO 167 171	AINE
+T29	PROCEDIMIENTO 308 314	Holter
+T30	PROCEDIMIENTO 359 373	ecocardiograma
+T31	PROCEDIMIENTO 547 579	prótesis total de cadera derecha
+T32	PROCEDIMIENTO 603 622	miomectomía uterina
+T33	PROCEDIMIENTO 1320 1338	EXPLORACIÓN FÍSICA
+T34	PROCEDIMIENTO 1623 1644	Auscultación cardiaca
+T35	PROCEDIMIENTO 1646 1648	AC
+T36	PROCEDIMIENTO 1680 1701	Auscultación pulmonar
+T37	PROCEDIMIENTO 1703 1705	AP
+T38	PROCEDIMIENTO 1806 1815	palpación
+T39	PROCEDIMIENTO 2083 2094	Coagulación
+T40	PROCEDIMIENTO 2612 2635	RADIOGRAFÍA DE TÓRAX AP
+T41	PROCEDIMIENTO 2791 2794	ECG
+T42	PROCEDIMIENTO 2906 2909	ECG
+T43	PROCEDIMIENTO 3018 3032	ECOCARDIOGRAMA
+T44	PROCEDIMIENTO 3487 3507	CATETERISMO CARDIACO
+T45	PROCEDIMIENTO 3599 3609	aspiración
+T46	PROCEDIMIENTO 3688 3707	anatomía patológica
+T47	PROCEDIMIENTO 4053 4064	cateterismo
+T48	PROCEDIMIENTO 4241 4256	anticoagulación
+T49	PROCEDIMIENTO 3776 3795	ANATOMÍA PATOLÓGICA
+T50	PROCEDIMIENTO 1983 1992	ANALÍTICA
+T51	PROCEDIMIENTO 519 545	Intervenciones quirúrgicas
+T52	SINTOMA 83 97	dolor torácico
+T53	SINTOMA 290 303	palpitaciones
+T54	SINTOMA 324 352	hipertrofia concéntrica leve
+T55	SINTOMA 1014 1075	dolor centrotorácico opresivo irradiado a mandíbula y hombros
+T56	SINTOMA 1113 1131	cortejo vegetativo
+T57	SINTOMA 1445 1452	Afebril
+T58	SINTOMA 1454 1464	Consciente
+T59	SINTOMA 1466 1475	orientada
+T60	SINTOMA 1492 1510	Eupneica en reposo
+T61	SINTOMA 1512 1531	Buen estado general
+T62	SINTOMA 1533 1547	normohidratada
+T63	SINTOMA 1550 1564	normocoloreada
+T64	SINTOMA 1566 1584	Carótidas rítmicas
+T65	SINTOMA 1589 1595	soplos
+T66	SINTOMA 1600 1621	ingurgitación yugular
+T67	SINTOMA 1646 1658	AC): rítmica
+T68	SINTOMA 1663 1669	soplos
+T69	SINTOMA 1712 1741	murmullo vesicular conservado
+T70	SINTOMA 1761 1815	Abdomen blando, depresible, no doloroso a la palpación
+T71	SINTOMA 1821 1826	masas
+T72	SINTOMA 1830 1838	megalias
+T73	SINTOMA 1840 1870	Miembros inferiores sin edemas
+T74	SINTOMA 1894 1956	Pulso radial, femoral y tibial anterior conservado y simétrico
+T75	SINTOMA 2083 2101	Coagulación normal
+T76	SINTOMA 2665 2697	pinzamiento de seno costofrénico
+T77	SINTOMA 2806 2819	ritmo sinusal
+T78	SINTOMA 2833 2842	PR normal
+T79	SINTOMA 2845 2857	QRS estrecho
+T80	SINTOMA 2859 2904	rectificación del segmento ST en cara lateral
+T81	SINTOMA 2954 2963	PR normal
+T82	SINTOMA 2965 3016	onda de lesión subepicárdica con T negativa lateral
+T83	SINTOMA 3068 3114	VI de tamaño y función sistólica global normal
+T84	SINTOMA 3392 3412	Cava inferior normal
+T85	SINTOMA 4617 4673	Fracción de eyección del ventrículo izquierdo conservada
+T86	SINTOMA 2930 2943	ritmo sinusal
+T87	SINTOMA 308 321	Holter normal
+T88	SINTOMA 2707 2730	líquido en cisura mayor
+T89	SINTOMA 3120 3149	hipocinesia de cara posterior
+T90	SINTOMA 4583 4615	Arterias coronarias sin lesiones
+T91	SINTOMA 3198 3233	Cavidades derechas de tamaño normal
+T92	SINTOMA 3965 4016	asintomática desde el punto de vista cardiovascular
+T93	SINTOMA 1478 1490	colaboradora
+T94	SINTOMA 3509 3532	coronarias sin lesiones
+T95	FARMACO 644 654	bisoprolol
+T96	FARMACO 677 704	valsartán-hidroclorotiazida
+T97	FARMACO 731 742	esomeprazol
+T98	FARMACO 765 776	venlafaxina
+T99	FARMACO 1179 1193	nitroglicerina

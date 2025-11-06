@@ -1,0 +1,111 @@
+T1	DISEASE 251 272	hipertensión arterial
+T2	DISEASE 274 291	diabetes mellitus
+T3	DISEASE 351 360	Exfumador
+T4	DISEASE 446 461	hábitos tóxicos
+T5	DISEASE 542 559	angor de esfuerzo
+T6	DISEASE 1245 1251	angina
+T7	DISEASE 3022 3062	bloqueo de rama izquierda del haz de His
+T8	DISEASE 3064 3069	BRIHH
+T9	DISEASE 3156 3178	insuficiencia cardiaca
+T10	DISEASE 3606 3634	Insuficiencia mitral trivial
+T11	DISEASE 3661 3682	hipertensión pulmonar
+T12	DISEASE 3720 3739	derrame pericárdico
+T13	DISEASE 3962 3998	intoxicación por monóxido de carbono
+T14	DISEASE 4524 4573	bloqueo completo de rama izquierda del haz de His
+T15	DISEASE 4575 4581	BCRIHH
+T16	DISEASE 4743 4769	disfunción sistólica grave
+T17	DISEASE 4801 4855	síndrome coronario agudo sin elevación del segmento ST
+T18	DISEASE 5324 5330	BCRIHH
+T19	DISEASE 5381 5417	Intoxicación por monóxido de carbono
+T20	DISEASE 5455 5462	SCASEST
+T21	DISEASE 5584 5590	BCRIHH
+T22	DISEASE 5592 5643	Cardiopatía isquémica con enfermedad de 1 vaso (CD)
+T23	DISEASE 5700 5709	trombosis
+T24	DISEASE 5523 5552	Ventrículo izquierdo dilatado
+T25	DISEASE 4673 4702	ventrículo izquierdo dilatado
+T26	DISEASE 3227 3297	ventrículo izquierdo levemente dilatado con disfunción sistólica grave
+T27	DISEASE 4857 4864	SCASEST
+T28	DISEASE 3547 3604	Válvula aórtica con buena apertura, levemente calcificada
+T29	DISEASE 2978 3009	crecimiento auricular izquierdo
+T30	DISEASE 4894 4930	intoxicación por monóxido de carbono
+T31	PROCEDURE 295 332	tratamiento con antidiabéticos orales
+T32	PROCEDURE 516 531	coronariografía
+T33	PROCEDURE 581 610	implante de al menos un stent
+T34	PROCEDURE 664 673	anamnesis
+T35	PROCEDURE 1364 1382	EXPLORACIÓN FÍSICA
+T36	PROCEDURE 1602 1623	Exploración abdominal
+T37	PROCEDURE 1749 1758	HEMOGRAMA
+T38	PROCEDURE 2373 2392	GASOMETRÍA ARTERIAL
+T39	PROCEDURE 2696 2738	Carboxihemoglobina tras cámara hiperbárica
+T40	PROCEDURE 2918 2936	ELECTROCARDIOGRAMA
+T41	PROCEDURE 2938 2941	ECG
+T42	PROCEDURE 3072 3092	RADIOGRAFÍA DE TÓRAX
+T43	PROCEDURE 3180 3209	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T44	PROCEDURE 3211 3214	ETT
+T45	PROCEDURE 3741 3756	CORONARIOGRAFÍA
+T46	PROCEDURE 4131 4165	tratamiento con cámara hiperbárica
+T47	PROCEDURE 4387 4415	sesión de cámara hiperbárica
+T48	PROCEDURE 4477 4499	anamnesis por sistemas
+T49	PROCEDURE 4511 4514	ECG
+T50	PROCEDURE 4636 4650	ecocardiograma
+T51	PROCEDURE 5039 5054	coronariografía
+T52	PROCEDURE 5648 5685	implante de stent farmacoactivo en CD
+T53	PROCEDURE 2250 2260	BIOQUÍMICA
+T54	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 2747 2776	MARCADORES DE DAÑO MIOCÁRDICO
+T56	PROCEDURE 986 1015	marcadores de daño miocárdico
+T57	PROCEDURE 4329 4342	biomarcadores
+T58	PROCEDURE 3845 3882	stent implantado en coronaria derecha
+T59	PROCEDURE 5145 5205	stent implantado previamente en la arteria coronaria derecha
+T60	PROCEDURE 5435 5453	cámara hiperbárica
+T61	SYMPTOM 973 1015	elevación de marcadores de daño miocárdico
+T62	SYMPTOM 1053 1059	mareos
+T63	SYMPTOM 1061 1077	malestar general
+T64	SYMPTOM 1138 1152	dolor torácico
+T65	SYMPTOM 1311 1318	cefalea
+T66	SYMPTOM 1321 1327	mareos
+T67	SYMPTOM 1384 1394	Consciente
+T68	SYMPTOM 1396 1405	orientado
+T69	SYMPTOM 1407 1418	colaborador
+T70	SYMPTOM 1483 1498	Bien perfundido
+T71	SYMPTOM 1500 1530	Eupneico en reposo sin oxígeno
+T72	SYMPTOM 1532 1557	Ruidos cardiacos rítmicos
+T73	SYMPTOM 1563 1569	soplos
+T74	SYMPTOM 1571 1600	Murmullo vesicular conservado
+T75	SYMPTOM 1602 1630	Exploración abdominal normal
+T76	SYMPTOM 1632 1662	Miembros inferiores sin edemas
+T77	SYMPTOM 1664 1695	Pedios positivos bilateralmente
+T78	SYMPTOM 1701 1722	focalidad neurológica
+T79	SYMPTOM 2610 2659	Saturación oxihemoglobina (gas arterial) 93% bajo
+T80	SYMPTOM 2944 2957	ritmo sinusal
+T81	SYMPTOM 3094 3122	índice cardiotorácico normal
+T82	SYMPTOM 3451 3508	Ventrículo derecho de tamaño y función sistólica normales
+T83	SYMPTOM 3510 3545	Aurícula izquierda de tamaño normal
+T84	SYMPTOM 4221 4233	asintomático
+T85	SYMPTOM 4458 4470	asintomático
+T86	SYMPTOM 4673 4740	ventrículo izquierdo dilatado con alteraciones de la contractilidad
+T87	SYMPTOM 4830 4855	elevación del segmento ST
+T88	SYMPTOM 5557 5582	FEVI gravemente deprimida
+T89	SYMPTOM 2696 2745	Carboxihemoglobina tras cámara hiperbárica normal
+T90	SYMPTOM 3312 3358	aquinesia de segmento medio y apical del septo
+T91	SYMPTOM 3361 3379	hipocinesia global
+T92	SYMPTOM 3684 3714	Vena cava inferior no dilatada
+T93	SYMPTOM 5074 5121	arterias coronarias sin lesiones significativas
+T94	SYMPTOM 3128 3142	condensaciones
+T95	SYMPTOM 1080 1093	inestabilidad
+T96	SYMPTOM 4316 4342	elevación de biomarcadores
+T97	SYMPTOM 3758 3826	arterias coronarias con irregularidades, sin lesiones significativas
+T98	SYMPTOM 3845 3915	stent implantado en coronaria derecha (CD), que no muestra reestenosis
+T99	SYMPTOM 5333 5366	alteraciones de la contractilidad
+T100	SYMPTOM 5660 5724	stent farmacoactivo en CD, sin datos de trombosis ni reestenosis
+T101	MEDICATION 705 715	ranolazina
+T102	MEDICATION 717 723	acovil
+T103	MEDICATION 725 735	metoprolol
+T104	MEDICATION 737 748	pantoprazol
+T105	MEDICATION 750 760	metformina
+T106	MEDICATION 761 774	vildagliptina
+T107	MEDICATION 776 787	repaglinida
+T108	MEDICATION 789 811	acido acetilsalicílico
+T109	MEDICATION 813 825	pravastatina
+T110	MEDICATION 826 837	fenofibrato
+T111	MEDICATION 1523 1530	oxígeno

@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 217 238	hipertensión arterial
+T2	ENFERMEDAD 240 259	hipercolesterolemia
+T3	ENFERMEDAD 261 275	hemocromatosis
+T4	ENFERMEDAD 335 344	exfumador
+T5	ENFERMEDAD 428 471	cardiopatía isquémica con afectación bivaso
+T6	ENFERMEDAD 766 794	anemia normocrómica moderada
+T7	ENFERMEDAD 1391 1397	anemia
+T8	ENFERMEDAD 1510 1524	esplenomegalia
+T9	ENFERMEDAD 1551 1570	infartos esplénicos
+T10	ENFERMEDAD 850 864	esplenomegalia
+T11	ENFERMEDAD 1693 1748	prótesis mitral mecánica con dos imágenes de vegetación
+T12	ENFERMEDAD 1833 1853	disfunción protésica
+T13	PROCEDIMIENTO 279 314	tratamiento con sangrías periódicas
+T14	PROCEDIMIENTO 1093 1105	hemocultivos
+T15	PROCEDIMIENTO 1161 1193	tratamiento antibiótico empírico
+T16	PROCEDIMIENTO 1480 1500	TAC toraco-abdominal
+T17	PROCEDIMIENTO 1652 1681	ecocardiograma transesofágico
+T18	PROCEDIMIENTO 1855 1886	Se le extraen tres hemocultivos
+T19	PROCEDIMIENTO 2304 2316	hemocultivos
+T20	PROCEDIMIENTO 2531 2545	antibioterapia
+T21	PROCEDIMIENTO 2773 2802	ecocardiograma transesofágico
+T22	PROCEDIMIENTO 2867 2919	intervención quirúrgica para recambio de la prótesis
+T23	PROCEDIMIENTO 2120 2212	identificado como Propionibacterium acnes por amplificación y secuenciación del gen 16S rARN
+T24	SINTOMA 110 119	febrícula
+T25	SINTOMA 149 155	fiebre
+T26	SINTOMA 536 545	febrícula
+T27	SINTOMA 547 554	astenia
+T28	SINTOMA 556 565	hiporexia
+T29	SINTOMA 568 571	tos
+T30	SINTOMA 796 824	elevación de la VSG y la PCR
+T31	SINTOMA 891 897	fiebre
+T32	SINTOMA 1007 1013	fiebre
+T33	SINTOMA 1026 1060	dolor tipo pleurítico en hemitórax
+T34	SINTOMA 1093 1126	hemocultivos que fueron negativos
+T35	SINTOMA 2684 2690	fiebre
+T36	SINTOMA 677 700	micronódulos pulmonares
+T37	SINTOMA 1601 1624	micronódulos pulmonares
+T38	SINTOMA 2249 2316	crecimiento de un bacilo grampositivo anaerobio en los hemocultivos
+T39	SINTOMA 1949 1989	creció unbacilo grampositivo pleomórfico
+T40	SINTOMA 2138 2161	Propionibacterium acnes
+T41	FARMACO 1198 1221	amoxicilina/clávulanico
+T42	FARMACO 2342 2353	vancomicina
+T43	FARMACO 2355 2366	ceftriaxona
+T44	FARMACO 2369 2380	gentamicina
+T45	FARMACO 2408 2419	ceftriaxona
+T46	FARMACO 2422 2433	gentamicina
+T47	FARMACO 2438 2450	clindamicina
+T48	FARMACO 2548 2567	penicilina G sódica

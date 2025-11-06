@@ -1,0 +1,97 @@
+T1	ENFERMEDAD 85 106	hipertensión arterial
+T2	ENFERMEDAD 206 227	cardiopatía isquémica
+T3	ENFERMEDAD 1209 1231	insuficiencia cardiaca
+T4	ENFERMEDAD 3688 3697	arritmias
+T5	ENFERMEDAD 3747 3768	cardiopatía isquémica
+T6	ENFERMEDAD 4728 4736	isquemia
+T7	ENFERMEDAD 4943 4951	isquemia
+T8	ENFERMEDAD 5360 5381	lesiones obstructivas
+T9	ENFERMEDAD 5614 5743	isquemia miocárdica secundaria a comunicación intercoronaria unidireccional entre ADA distal e IVP con fenómeno de robo coronario
+T10	ENFERMEDAD 5824 5953	Isquemia miocárdica secundaria a comunicación intercoronaria unidireccional entre ADA distal e IVP con fenómeno de robo coronario
+T11	ENFERMEDAD 1775 1790	daño miocárdico
+T12	ENFERMEDAD 3559 3571	hipertensión
+T13	ENFERMEDAD 669 676	síncope
+T14	ENFERMEDAD 4775 4783	isquemia
+T15	ENFERMEDAD 5211 5318	comunicación intercoronaria unidireccional desde la ADA distal hacia una arteria interventricular posterior
+T16	ENFERMEDAD 4575 4601	anatomía coronaria anómala
+T17	PROCEDIMIENTO 990 1008	exploración física
+T18	PROCEDIMIENTO 1010 1028	electrocardiograma
+T19	PROCEDIMIENTO 1030 1041	Rx de tórax
+T20	PROCEDIMIENTO 1298 1330	auscultación cardiorrespiratoria
+T21	PROCEDIMIENTO 1495 1508	examen físico
+T22	PROCEDIMIENTO 1560 1578	Electrocardiograma
+T23	PROCEDIMIENTO 1650 1670	Radiografía de tórax
+T24	PROCEDIMIENTO 1931 1960	ecocardiografía transtorácica
+T25	PROCEDIMIENTO 2070 2080	ergometría
+T26	PROCEDIMIENTO 2477 2505	ecocardiografía postesfuerzo
+T27	PROCEDIMIENTO 2567 2581	Ecocardiograma
+T28	PROCEDIMIENTO 2869 2879	Ergometría
+T29	PROCEDIMIENTO 3897 3922	tratamiento antiisquémico
+T30	PROCEDIMIENTO 3959 3972	TAC coronario
+T31	PROCEDIMIENTO 3993 4024	tratamiento con betabloqueantes
+T32	PROCEDIMIENTO 4060 4063	TAC
+T33	PROCEDIMIENTO 4522 4553	tratamiento con betabloqueantes
+T34	PROCEDIMIENTO 4618 4658	ecocardiografía de estrés con dobutamina
+T35	PROCEDIMIENTO 4664 4690	tratamiento betabloqueante
+T36	PROCEDIMIENTO 5036 5051	coronariografía
+T37	PROCEDIMIENTO 5145 5148	TAC
+T38	PROCEDIMIENTO 5153 5182	inyección selectiva de la ADA
+T39	PROCEDIMIENTO 5479 5509	estudio de hipercoagulabilidad
+T40	PROCEDIMIENTO 5565 5591	tratamiento betabloqueante
+T41	PROCEDIMIENTO 129 148	diruético tiazídico
+T42	PROCEDIMIENTO 1761 1799	marcadores de daño miocárdico seriados
+T43	PROCEDIMIENTO 1814 1825	coagulación
+T44	PROCEDIMIENTO 3924 3939	betabloqueantes
+T45	PROCEDIMIENTO 4705 4736	prueba de detección de isquemia
+T46	PROCEDIMIENTO 1725 1734	Analítica
+T47	PROCEDIMIENTO 1044 1053	analítica
+T48	PROCEDIMIENTO 1746 1756	bioquímica
+T49	PROCEDIMIENTO 1801 1811	serie roja
+T50	SINTOMA 339 393	dolor torácico opresivo desencadenados por el esfuerzo
+T51	SINTOMA 661 667	disnea
+T52	SINTOMA 1161 1180	buen estado general
+T53	SINTOMA 1182 1190	eupneica
+T54	SINTOMA 1233 1258	hemodinámicamente estable
+T55	SINTOMA 1265 1291	buena perfusión periférica
+T56	SINTOMA 1354 1368	tonos rítmicos
+T57	SINTOMA 1373 1379	soplos
+T58	SINTOMA 1385 1414	murmullo vesicular conservado
+T59	SINTOMA 1419 1437	ruidos patológicos
+T60	SINTOMA 1439 1480	Pulsos periféricos simétricos y presentes
+T61	SINTOMA 1580 1600	ritmo sinusal normal
+T62	SINTOMA 1614 1647	alteraciones de la repolarización
+T63	SINTOMA 1672 1722	silueta cardiaca y parénquimas pulmonares normales
+T64	SINTOMA 2012 2062	función sistólica global y segmentaria conservadas
+T65	SINTOMA 2182 2201	opresión precordial
+T66	SINTOMA 2520 2565	alteraciones de la contractilidad segmentaria
+T67	SINTOMA 2644 2669	Aurícula izquierda normal
+T68	SINTOMA 2671 2692	Válvula mitral normal
+T69	SINTOMA 2744 2791	Función sistólica global y segmentaria normales
+T70	SINTOMA 2793 2838	Llenado ventricular: patrón de llenado normal
+T71	SINTOMA 3028 3047	opresión precordial
+T72	SINTOMA 3179 3206	descenso del ST desde V4-V6
+T73	SINTOMA 3620 3629	FC normal
+T74	SINTOMA 2307 2322	descenso del ST
+T75	SINTOMA 2583 2642	raíz aórtica, válvula aórtica y aorta postvalvular normales
+T76	SINTOMA 3491 3506	descenso del ST
+T77	SINTOMA 3647 3656	FC normal
+T78	SINTOMA 1144 1156	Asintomática
+T79	SINTOMA 2840 2867	Cavidades derechas normales
+T80	SINTOMA 2694 2742	Ventrículo izquierdo de tamaño y grosor normales
+T81	SINTOMA 944 956	asintomática
+T82	SINTOMA 4043 4055	asintomática
+T83	SINTOMA 5797 5809	asintomática
+T84	SINTOMA 1975 2006	corazón estructuralmente normal
+T85	SINTOMA 2246 2299	eléctricamente positiva desde el inicio de la etapa 1
+T86	SINTOMA 4867 4878	hipocinesia
+T87	SINTOMA 582 600	clínica vegetativa
+T88	SINTOMA 990 1062	exploración física, electrocardiograma, Rx de tórax y analítica normales
+T89	SINTOMA 1761 1834	marcadores de daño miocárdico seriados, serie roja y coagulación normales
+T90	SINTOMA 2070 2110	ergometría que fue clínicamente positiva
+T91	SINTOMA 4096 4158	arteria descendente anterior (ADA) sin lesiones significativas
+T92	SINTOMA 4192 4242	arteria circunfleja (ACx) de muy escaso desarrollo
+T93	SINTOMA 4276 4324	arteria coronaria derecha (ACD) muy desarrollada
+T94	SINTOMA 5409 5444	desarrollo de circulación colateral
+T95	SINTOMA 5479 5530	estudio de hipercoagulabilidad que resultó negativo
+T96	FARMACO 3942 3945	AAS
+T97	FARMACO 4648 4658	dobutamina

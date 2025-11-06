@@ -1,0 +1,129 @@
+T1	ENFERMEDAD 74 109	reacciones alérgicas medicamentosas
+T2	ENFERMEDAD 326 353	miocardiopatía hipertrófica
+T3	ENFERMEDAD 404 419	hábitos tóxicos
+T4	ENFERMEDAD 424 445	hipertensión arterial
+T5	ENFERMEDAD 447 450	HTA
+T6	ENFERMEDAD 456 464	diabetes
+T7	ENFERMEDAD 469 479	dislipemia
+T8	ENFERMEDAD 481 523	Miocardiopatía hipertrófica no obstructiva
+T9	ENFERMEDAD 914 944	extrasistolia supraventricular
+T10	ENFERMEDAD 991 1016	extrasistolia ventricular
+T11	ENFERMEDAD 1449 1469	síndrome de QT largo
+T12	ENFERMEDAD 1471 1475	SQTL
+T13	ENFERMEDAD 1582 1609	miocardiopatía hipertrófica
+T14	ENFERMEDAD 1690 1701	SQTL tipo 1
+T15	ENFERMEDAD 1741 1753	fibromialgia
+T16	ENFERMEDAD 1755 1772	lumbalgia crónica
+T17	ENFERMEDAD 1840 1851	metrorragia
+T18	ENFERMEDAD 2156 2170	espasmo tónico
+T19	ENFERMEDAD 2318 2339	fibrilación auricular
+T20	ENFERMEDAD 2397 2416	bradicardia sinusal
+T21	ENFERMEDAD 2984 3009	trombosis venosa profunda
+T22	ENFERMEDAD 3078 3097	bradicardia sinusal
+T23	ENFERMEDAD 3622 3699	ventrículo izquierdo de tamaño normal con hipertrofia septal grave asimétrica
+T24	ENFERMEDAD 4127 4147	insuficiencia mitral
+T25	ENFERMEDAD 4327 4352	insuficiencia tricuspídea
+T26	ENFERMEDAD 4354 4356	IT
+T27	ENFERMEDAD 4451 4472	hipertensión pulmonar
+T28	ENFERMEDAD 4474 4477	HTP
+T29	ENFERMEDAD 4668 4687	derrame pericárdico
+T30	ENFERMEDAD 4930 4940	neumotórax
+T31	ENFERMEDAD 5196 5238	miocardiopatía hipertrófica no obstructiva
+T32	ENFERMEDAD 5252 5279	síndrome de QT largo tipo 1
+T33	ENFERMEDAD 5301 5331	síncope de perfil cardiogénico
+T34	ENFERMEDAD 5467 5474	síncope
+T35	ENFERMEDAD 5560 5575	evento sincopal
+T36	ENFERMEDAD 5600 5627	síndrome de QT largo tipo 1
+T37	ENFERMEDAD 5643 5670	miocardiopatía hipertrófica
+T38	ENFERMEDAD 5693 5713	síncope cardiogénico
+T39	ENFERMEDAD 5810 5837	miocardiopatía hipertrófica
+T40	ENFERMEDAD 5860 5893	fibrilación auricular paroxística
+T41	ENFERMEDAD 6108 6138	Síncope de perfil cardiogénico
+T42	ENFERMEDAD 6140 6182	Miocardiopatía hipertrófica no obstructiva
+T43	ENFERMEDAD 6196 6223	síndrome de QT largo tipo 1
+T44	ENFERMEDAD 6270 6303	Fibrilación auricular paroxística
+T45	ENFERMEDAD 6317 6335	angor hemodinámico
+T46	ENFERMEDAD 4017 4058	Aurícula izquierda moderadamente dilatada
+T47	ENFERMEDAD 4149 4151	IM
+T48	ENFERMEDAD 4587 4617	dilatación de aorta ascendente
+T49	ENFERMEDAD 747 767	fibrosis mesocárdica
+T50	ENFERMEDAD 617 646	hipertrofia asimétrica septal
+T51	ENFERMEDAD 5523 5525	MS
+T52	ENFERMEDAD 973 976	TSV
+T53	ENFERMEDAD 160 173	muerte súbita
+T54	ENFERMEDAD 5508 5535	muerte súbita (MS) nocturna
+T55	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDIMIENTO 305 308	ECG
+T57	PROCEDIMIENTO 834 845	RM cardiaca
+T58	PROCEDIMIENTO 847 853	Holter
+T59	PROCEDIMIENTO 1082 1092	Ergometría
+T60	PROCEDIMIENTO 1478 1494	Estudio genético
+T61	PROCEDIMIENTO 1802 1815	histerectomía
+T62	PROCEDIMIENTO 1818 1835	doble anexectomía
+T63	PROCEDIMIENTO 2619 2637	Exploración física
+T64	PROCEDIMIENTO 2778 2799	Auscultación cardiaca
+T65	PROCEDIMIENTO 2838 2859	maniobras de Valsalva
+T66	PROCEDIMIENTO 2861 2882	Auscultación pulmonar
+T67	PROCEDIMIENTO 3067 3070	ECG
+T68	PROCEDIMIENTO 3592 3620	Ecocardiograma transtorácico
+T69	PROCEDIMIENTO 4689 4721	Radiografía de tórax posimplante
+T70	PROCEDIMIENTO 4942 4960	Electrocardiograma
+T71	PROCEDIMIENTO 4962 4965	ECG
+T72	PROCEDIMIENTO 5337 5363	tratamiento betabloqueante
+T73	PROCEDIMIENTO 5719 5745	tratamiento betabloqueante
+T74	PROCEDIMIENTO 5756 5771	implante de DAI
+T75	PROCEDIMIENTO 5931 5957	tratamiento anticoagulante
+T76	PROCEDIMIENTO 5970 5995	implante de DAI bicameral
+T77	PROCEDIMIENTO 6381 6406	Implante de DAI bicameral
+T78	PROCEDIMIENTO 3259 3268	Analítica
+T79	PROCEDIMIENTO 1774 1800	Intervenciones quirúrgicas
+T80	PROCEDIMIENTO 1802 1835	histerectomía y doble anexectomía
+T81	PROCEDIMIENTO 5011 5021	marcapasos
+T82	PROCEDIMIENTO 4723 4775	desfibrilador automático implantable (DAI) bicameral
+T83	PROCEDIMIENTO 4761 4764	DAI
+T84	SINTOMA 589 602	palpitaciones
+T85	SINTOMA 855 868	ritmo sinusal
+T86	SINTOMA 1198 1213	descenso del ST
+T87	SINTOMA 2045 2067	pérdida de consciencia
+T88	SINTOMA 2128 2136	ronquido
+T89	SINTOMA 2138 2153	eversión ocular
+T90	SINTOMA 2156 2170	espasmo tónico
+T91	SINTOMA 2250 2269	opresión precordial
+T92	SINTOMA 2441 2460	opresión precordial
+T93	SINTOMA 2470 2483	palpitaciones
+T94	SINTOMA 2587 2616	disnea de moderados esfuerzos
+T95	SINTOMA 2706 2725	Buen estado general
+T96	SINTOMA 2727 2737	Consciente
+T97	SINTOMA 2740 2749	orientada
+T98	SINTOMA 2751 2759	eupneica
+T99	SINTOMA 2761 2776	bien perfundida
+T100	SINTOMA 2778 2808	Auscultación cardiaca: rítmica
+T101	SINTOMA 2814 2830	soplos en reposo
+T102	SINTOMA 2884 2913	murmullo vesicular conservado
+T103	SINTOMA 2918 2938	ruidos sobreañadidos
+T104	SINTOMA 2940 2970	Miembros inferiores: no edemas
+T105	SINTOMA 3011 3040	pulsos presentes y simétricos
+T106	SINTOMA 3108 3117	PR normal
+T107	SINTOMA 3119 3131	QRS estrecho
+T108	SINTOMA 3148 3163	onda T bifásica
+T109	SINTOMA 3622 3659	ventrículo izquierdo de tamaño normal
+T110	SINTOMA 3856 3891	Función sistólica global conservada
+T111	SINTOMA 4074 4089	FEVD conservada
+T112	SINTOMA 4639 4663	arco aórtico no dilatado
+T113	SINTOMA 5032 5059	QRS estrecho con eje normal
+T114	SINTOMA 5061 5097	onda T bifásica en III, aVF, V4 y V5
+T115	SINTOMA 293 301	QT largo
+T116	SINTOMA 3896 3942	alteraciones segmentarias de la contractilidad
+T117	SINTOMA 4480 4510	Vena cava inferior no dilatada
+T118	SINTOMA 4546 4575	Raíz aórtica de tamaño normal
+T119	SINTOMA 4879 4915	parénquima pulmonar sin alteraciones
+T120	SINTOMA 4832 4877	índice cardiotorácico dentro de la normalidad
+T121	SINTOMA 3136 3146	eje normal
+T122	SINTOMA 3735 3772	aceleración en tracto de salida de VI
+T123	SINTOMA 4175 4178	SAM
+T124	SINTOMA 4976 5021	actividad auricular estimulada por marcapasos
+T125	SINTOMA 6350 6378	respuesta ventricular rápida
+T126	FARMACO 1875 1885	propanolol
+T127	FARMACO 1906 1916	duloxetina
+#1	AnnotatorNotes T12	 síndrome de QT largo
+#2	AnnotatorNotes T47	 insuficiencia mitral

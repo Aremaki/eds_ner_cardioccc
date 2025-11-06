@@ -1,0 +1,78 @@
+T1	DISEASE 2099 2145	cardiomegalia a expensas de cavidades derechas
+T2	DISEASE 2439 2478	Válvula mitral: velo anterior engrosado
+T3	DISEASE 70 78	alergias
+T4	DISEASE 110 126	fiebre reumática
+T5	DISEASE 490 513	estenosis mitral severa
+T6	DISEASE 515 542	insuficiencia mitral ligera
+T7	DISEASE 544 576	insuficiencia tricúspidea severa
+T8	DISEASE 579 607	hipertensión pulmonar severa
+T9	DISEASE 957 963	emesis
+T10	DISEASE 1561 1575	Esplenomegalia
+T11	DISEASE 1934 1948	BRD incompleto
+T12	DISEASE 2198 2211	situs sólitus
+T13	DISEASE 2684 2703	Derrame pericárdico
+T14	DISEASE 2749 2782	insuficiencia cardiaca congestiva
+T15	DISEASE 2915 2941	desestructuración valvular
+T16	DISEASE 3480 3499	derrame pericárdico
+T17	DISEASE 3525 3558	Estenosis mitral severa reumática
+T18	DISEASE 3560 3580	Insuficiencia mitral
+T19	DISEASE 3589 3621	Insuficiencia tricuspídea severa
+T20	DISEASE 3623 3651	Hipertensión pulmonar severa
+T21	DISEASE 3653 3686	Insuficiencia cardiaca congestiva
+T22	DISEASE 2325 2334	IT severa
+T23	DISEASE 2659 2668	IM ligera
+T24	DISEASE 2670 2682	VCI dilatada
+T25	DISEASE 3501 3503	IT
+T26	DISEASE 2249 2289	Cavidades derechas severamente dilatadas
+T27	DISEASE 1951 1956	HBPII
+T28	DISEASE 1968 2015	hipertrofia y crecimiento de cavidades derechas
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 1132 1150	Exploración física
+T31	PROCEDURE 1241 1262	Auscultación cardiaca
+T32	PROCEDURE 1371 1392	Auscultación pulmonar
+T33	PROCEDURE 1651 1660	hemograma
+T34	PROCEDURE 1882 1885	ECG
+T35	PROCEDURE 2077 2097	Radiografía de tórax
+T36	PROCEDURE 2168 2196	Ecocardiograma transtorácico
+T37	PROCEDURE 2881 2905	valvuloplastía con balón
+T38	PROCEDURE 2981 3033	sustitución de válvula mitral por prótesis biológica
+T39	PROCEDURE 3039 3063	anuloplastía tricúspidea
+T40	PROCEDURE 3110 3128	drogas vasoactivas
+T41	PROCEDURE 3131 3157	vasodilatadores pulmonares
+T42	PROCEDURE 3313 3337	control ecocardiográfico
+T43	PROCEDURE 1074 1095	tratamiento depletivo
+T44	PROCEDURE 2810 2831	tratamiento depletivo
+T45	PROCEDURE 1640 1649	Analítica
+T46	PROCEDURE 1787 1797	Bioquímica
+T47	PROCEDURE 1107 1129	tratamiento quirúrgico
+T48	PROCEDURE 2954 2976	tratamiento quirúrgico
+T49	PROCEDURE 1210 1216	Cuello
+T50	PROCEDURE 1448 1455	Abdomen
+T51	SYMPTOM 210 239	disnea de moderados esfuerzos
+T52	SYMPTOM 273 280	astenia
+T53	SYMPTOM 282 290	ortopnea
+T54	SYMPTOM 311 338	disnea paroxística nocturna
+T55	SYMPTOM 398 426	disnea de pequeños esfuerzos
+T56	SYMPTOM 835 841	disnea
+T57	SYMPTOM 855 871	disnea de reposo
+T58	SYMPTOM 886 923	dolor abdominal en ambos hipocondrios
+T59	SYMPTOM 925 934	dispepsia
+T60	SYMPTOM 1218 1239	Ingurgitación yugular
+T61	SYMPTOM 1264 1292	R1 y R2 rítmicos y regulares
+T62	SYMPTOM 1294 1369	Soplo sisto-diastólico intenso en foco mitral irradiado hacia región axilar
+T63	SYMPTOM 1394 1417	hipoventilación bibasal
+T64	SYMPTOM 1457 1470	hepatomegalia
+T65	SYMPTOM 1483 1559	levemente doloroso a la palpación a nivel de hipocondrio derecho e izquierdo
+T66	SYMPTOM 1577 1601	Extremidades: simétricas
+T67	SYMPTOM 1607 1613	edemas
+T68	SYMPTOM 1887 1889	RS
+T69	SYMPTOM 1900 1932	onda p de crecimiento biuricular
+T70	SYMPTOM 2147 2165	líquido en cisuras
+T71	SYMPTOM 2291 2323	VD con contractilidad conservada
+T72	SYMPTOM 3176 3184	oliguria
+T73	SYMPTOM 3456 3475	VI normofuncionante
+T74	SYMPTOM 2017 2042	Eje desviado a la derecha
+T75	SYMPTOM 2044 2075	descenso de ST de 1 mm en V3-V5
+T76	SYMPTOM 2213 2236	levocardia con levoápex
+T77	SYMPTOM 3162 3173	caída de TA
+T78	MEDICATION 1206 1208	O2

@@ -1,0 +1,198 @@
+T1	DISEASE 4685 4718	VD de tamaño ligeramente dilatado
+T2	DISEASE 98 119	hipertensión arterial
+T3	DISEASE 121 124	HTA
+T4	DISEASE 127 137	Dislipemia
+T5	DISEASE 198 227	Cardiopatía isquémica crónica
+T6	DISEASE 229 295	Enfermedad coronaria de tronco coronario izquierdo (TCI) y 3 vasos
+T7	DISEASE 369 385	angina inestable
+T8	DISEASE 399 424	enfermedad del 90% de TCI
+T9	DISEASE 426 441	oclusión de DAm
+T10	DISEASE 444 465	oclusión de CXp y CDp
+T11	DISEASE 577 591	angina estable
+T12	DISEASE 646 669	isquemia global extensa
+T13	DISEASE 796 829	Fibrilación auricular persistente
+T14	DISEASE 919 933	Asma bronquial
+T15	DISEASE 1092 1129	Insuficiencia renal crónica estadio 3
+T16	DISEASE 1152 1172	nefroangioesclerosis
+T17	DISEASE 1174 1204	Hiperparatiroidismo secundario
+T18	DISEASE 1206 1231	Anemia crónica secundaria
+T19	DISEASE 1233 1246	Hiperuricemia
+T20	DISEASE 1248 1279	Hiperplasia benigna de próstata
+T21	DISEASE 2466 2485	hemorragia pulmonar
+T22	DISEASE 2702 2721	hemorragia alveolar
+T23	DISEASE 2970 2983	cardiomegalia
+T24	DISEASE 3005 3027	insuficiencia cardiaca
+T25	DISEASE 3068 3076	neumonía
+T26	DISEASE 3565 3590	trombosis venosa profunda
+T27	DISEASE 3592 3595	TVP
+T28	DISEASE 3628 3649	fibrilación auricular
+T29	DISEASE 4069 4084	derrame pleural
+T30	DISEASE 4442 4472	placa ulcerada en ilíaca común
+T31	DISEASE 4774 4794	insuficiencia mitral
+T32	DISEASE 4888 4890	HP
+T33	DISEASE 4900 4963	Válvula aórtica esclerocalcificada, con estenosis aórtica grave
+T34	DISEASE 5053 5074	insuficiencia aórtica
+T35	DISEASE 5131 5150	derrame pericárdico
+T36	DISEASE 5468 5497	Insuficiencia valvular mitral
+T37	DISEASE 5512 5546	Insuficiencia valvular tricuspídea
+T38	DISEASE 5609 5628	derrame pericárdico
+T39	DISEASE 6325 6344	hemorragia alveolar
+T40	DISEASE 6562 6571	infección
+T41	DISEASE 6666 6689	estenosis aórtica grave
+T42	DISEASE 8138 8164	Hemorragia alveolar difusa
+T43	DISEASE 8360 8394	Insuficiencia tricuspídea moderada
+T44	DISEASE 8407 8444	Cardiopatía isquémica crónica estable
+T45	DISEASE 8446 8473	Enfermedad de TCI y 3 vasos
+T46	DISEASE 8589 8626	Fibrilación auricular (FA) permanente
+T47	DISEASE 8689 8692	HTA
+T48	DISEASE 1380 1394	Angina estable
+T49	DISEASE 139 141	DL
+T50	DISEASE 8694 8696	DL
+T51	DISEASE 8612 8614	FA
+T52	DISEASE 4846 4860	IT 2/4 central
+T53	DISEASE 28 51	alergias medicamentosas
+T54	DISEASE 2055 2068	cardiomegalia
+T55	DISEASE 7786 7829	descompensaciones de insuficiencia cardiaca
+T56	DISEASE 6080 6121	descompensación de insuficiencia cardiaca
+T57	DISEASE 6605 6646	descompensación de insuficiencia cardiaca
+T58	DISEASE 150 157	fumador
+T59	DISEASE 5244 5327	válvula aórtica ligeramente calcificada con estenosis grave e insuficiencia central
+T60	DISEASE 4650 4675	AI moderadamente dilatada
+T61	DISEASE 8053 8076	Estenosis aórtica grave
+T62	DISEASE 8396 8405	HP ligera
+T63	DISEASE 5798 5825	insuficiencia periprotésica
+T64	DISEASE 8002 8029	insuficiencia periprotésica
+T65	DISEASE 4865 4886	hipertensión pulmonar
+T66	DISEASE 8093 8136	descompensaciones de insuficiencia cardiaca
+T67	DISEASE 8178 8200	insuficiencia cardiaca
+T68	PROCEDURE 543 558	coronariografía
+T69	PROCEDURE 604 631	ecocardiograma de ejercicio
+T70	PROCEDURE 682 728	implante de stents farmacoactivos sobre TCI-DA
+T71	PROCEDURE 972 984	Espirometría
+T72	PROCEDURE 1049 1072	prueba broncodilatadora
+T73	PROCEDURE 1310 1325	colecistectomía
+T74	PROCEDURE 2022 2042	radiografía de tórax
+T75	PROCEDURE 2172 2195	tratamiento antibiótico
+T76	PROCEDURE 2197 2211	oxigenoterapia
+T77	PROCEDURE 2213 2223	corticoide
+T78	PROCEDURE 2384 2395	TC torácica
+T79	PROCEDURE 2498 2510	broncoscopia
+T80	PROCEDURE 2567 2581	broncoaspirado
+T81	PROCEDURE 2937 2957	radiografía de tórax
+T82	PROCEDURE 3308 3329	Auscultación cardiaca
+T83	PROCEDURE 3414 3435	Auscultación pulmonar
+T84	PROCEDURE 3623 3626	ECG
+T85	PROCEDURE 3701 3710	hemograma
+T86	PROCEDURE 3948 3968	Radiografía de tórax
+T87	PROCEDURE 4123 4143	Radiografía de tórax
+T88	PROCEDURE 4282 4297	Coronariografía
+T89	PROCEDURE 4375 4406	implante de prótesis percutánea
+T90	PROCEDURE 4485 4499	Ecocardiograma
+T91	PROCEDURE 5152 5181	Ecocardiograma transesofágico
+T92	PROCEDURE 5152 5231	Ecocardiograma transesofágico de monitorización de implante de TAVI transapical
+T93	PROCEDURE 5644 5702	implante de prótesis SAPIEN 3 de 23 mm por vía transapical
+T94	PROCEDURE 5704 5719	ETE posimplante
+T95	PROCEDURE 6245 6266	tratamiento diurético
+T96	PROCEDURE 6360 6372	broncoscopia
+T97	PROCEDURE 6815 6840	recambio valvular aórtico
+T98	PROCEDURE 6893 6931	recambio percutáneo por acceso femoral
+T99	PROCEDURE 6956 6967	angiografía
+T100	PROCEDURE 7122 7215	implante de prótesis biológica Edwards SAPIEN 3 de 23 mm bajo monitorización ecocardiográfica
+T101	PROCEDURE 7184 7215	monitorización ecocardiográfica
+T102	PROCEDURE 7280 7288	extubado
+T103	PROCEDURE 7398 7442	transfusión de tres concentrados de hematíes
+T104	PROCEDURE 7901 7916	ecocardiogramas
+T105	PROCEDURE 8474 8549	revascularizada de forma quirúrgica (AMII-DA, AMID-OM en 1997) y percutánea
+T106	PROCEDURE 8551 8578	implante de stent en TCI-DA
+T107	PROCEDURE 3801 3811	Bioquímica
+T108	PROCEDURE 5233 5236	ETE
+T109	PROCEDURE 3129 3147	EXPLORACIÓN FÍSICA
+T110	PROCEDURE 8202 8283	Recambio valvular aórtico transapical por prótesis biológica Edward Sapien 3 No23
+T111	PROCEDURE 8627 8640	anticoagulado
+T112	PROCEDURE 7513 7529	cirugía cardiaca
+T113	PROCEDURE 7564 7580	cirugía cardiaca
+T114	PROCEDURE 296 355	revascularizada quirúrgicamente en 1992 (AMII-DA y AMID-OM)
+T115	PROCEDURE 2226 2235	diurético
+T116	PROCEDURE 2326 2357	estudio autoinmune e infeccioso
+T117	PROCEDURE 3690 3699	Analítica
+T118	PROCEDURE 1282 1308	Intervenciones quirúrgicas
+T119	PROCEDURE 5630 5642	Intervención
+T120	PROCEDURE 6054 6065	exploración
+T121	PROCEDURE 7225 7237	intervención
+T122	PROCEDURE 3284 3287	CyC
+T123	PROCEDURE 7051 7095	implantar la prótesis por acceso transapical
+T124	SYMPTOM 1348 1354	disnea
+T125	SYMPTOM 1836 1839	tos
+T126	SYMPTOM 1844 1868	expectoración hemoptoica
+T127	SYMPTOM 1882 1888	disnea
+T128	SYMPTOM 1890 1897	afebril
+T129	SYMPTOM 2071 2105	infiltrados pulmonares bilaterales
+T130	SYMPTOM 2400 2452	imágenes en vidrio deslustrado en lóbulos superiores
+T131	SYMPTOM 2515 2532	mucosa hiperémica
+T132	SYMPTOM 2849 2877	disnea de pequeños esfuerzos
+T133	SYMPTOM 2879 2887	ortopnea
+T134	SYMPTOM 2908 2918	hemoptisis
+T135	SYMPTOM 3078 3085	afebril
+T136	SYMPTOM 3240 3261	Taquipneico en reposo
+T137	SYMPTOM 3263 3282	Buen estado general
+T138	SYMPTOM 3331 3340	arrítmica
+T139	SYMPTOM 3342 3387	soplo sistólico aórtico 3/6 con R2 disminuido
+T140	SYMPTOM 3437 3468	crepitantes húmedos bilaterales
+T141	SYMPTOM 3470 3510	Abdomen: blando, depresible, no doloroso
+T142	SYMPTOM 3533 3551	edema perimaleolar
+T143	SYMPTOM 3970 4006	aumento de silueta cardiopericárdica
+T144	SYMPTOM 4246 4280	infiltrados alveolares bilaterales
+T145	SYMPTOM 4601 4635	Función sistólica conservada de VI
+T146	SYMPTOM 4748 4769	Válvula mitral normal
+T147	SYMPTOM 5991 6001	hemoptisis
+T148	SYMPTOM 6475 6485	hemoptisis
+T149	SYMPTOM 7452 7481	deterioro de la función renal
+T150	SYMPTOM 7772 7782	hemoptisis
+T151	SYMPTOM 7941 7969	función sistólica conservada
+T152	SYMPTOM 4033 4059	edema perihiliar bilateral
+T153	SYMPTOM 6396 6404	sangrado
+T154	SYMPTOM 2567 2601	broncoaspirado con hemosiderófagos
+T155	SYMPTOM 6132 6173	cifras elevadas de péptidos natriuréticos
+T156	SYMPTOM 8330 8358	Función sistólica conservada
+T157	SYMPTOM 4094 4113	Consolidación basal
+T158	SYMPTOM 5561 5591	Función sistólica normal de VI
+T159	SYMPTOM 5835 5865	Función sistólica normal de VI
+T160	SYMPTOM 4008 4031	Redistribución vascular
+T161	SYMPTOM 4808 4844	Válvula tricúspide de aspecto normal
+T162	SYMPTOM 3389 3412	fenómeno de Gallavardin
+T163	SYMPTOM 3030 3046	infiltrado basal
+T164	SYMPTOM 4210 4226	infiltrado basal
+T165	SYMPTOM 1049 1081	prueba broncodilatadora negativa
+T166	SYMPTOM 7972 7997	prótesis normofuncionante
+T167	SYMPTOM 2546 2561	sangrado activo
+T168	SYMPTOM 604 640	ecocardiograma de ejercicio positivo
+T169	SYMPTOM 467 485	puentes permeables
+T170	SYMPTOM 775 793	puentes permeables
+T171	SYMPTOM 2326 2382	estudio autoinmune e infeccioso con resultados negativos
+T172	SYMPTOM 3289 3299	mínima IVY
+T173	SYMPTOM 3660 3688	Rectificación del ST lateral
+T174	SYMPTOM 4501 4543	ventrículo izquierdo (VI) de tamaño normal
+T175	SYMPTOM 4545 4599	Engrosamiento concéntrico de paredes de grado moderado
+T176	SYMPTOM 4731 4746	FSVD conservada
+T177	SYMPTOM 5088 5108	VCI de tamaño normal
+T178	SYMPTOM 6006 6040	infiltrados pulmonares migratorios
+T179	SYMPTOM 6502 6537	macrófagos cargados de hemosiderina
+T180	SYMPTOM 6992 7022	ejes aorto-ilíacos inadecuados
+T181	MEDICATION 1482 1504	fluticasona/salmeterol
+T182	MEDICATION 1513 1533	bromuro de aclidinio
+T183	MEDICATION 1543 1553	salbutamol
+T184	MEDICATION 1566 1580	nitroglicerina
+T185	MEDICATION 1608 1621	atorvastatina
+T186	MEDICATION 1629 1639	dabigatrán
+T187	MEDICATION 1652 1662	alopurinol
+T188	MEDICATION 1671 1682	tamsulosina
+T189	MEDICATION 1691 1701	calcitriol
+T190	MEDICATION 1710 1719	omeprazol
+T191	MEDICATION 1925 1938	levofloxacino
+T192	MEDICATION 8645 8652	pradaxa
+#1	AnnotatorNotes T32	 hipertensión pulmonar
+#2	AnnotatorNotes T49	 DL dislipemia
+#3	AnnotatorNotes T50	 DL dislipemia
+#4	AnnotatorNotes T51	 FA fibrilación auricular
+#5	AnnotatorNotes T52	IT insuficiencia tricuspídea
+#6	AnnotatorNotes T108	 ecocardiografía transesofágica

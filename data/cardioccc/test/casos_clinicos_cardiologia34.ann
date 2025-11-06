@@ -1,0 +1,36 @@
+T1	ENFERMEDAD 104 140	lesiones eritematosas en ambas manos
+T2	ENFERMEDAD 431 463	nódulos de Osler en manos y pies
+T3	ENFERMEDAD 475 496	hemorragias ungueales
+T4	ENFERMEDAD 686 722	endocarditis sobre válvula protésica
+T5	ENFERMEDAD 893 912	hemiparesia derecha
+T6	ENFERMEDAD 1208 1234	parada cardiorrespiratoria
+T7	ENFERMEDAD 3018 3029	infecciones
+T8	ENFERMEDAD 3558 3596	infecciones profundas por Trichosporon
+T9	ENFERMEDAD 616 663	vegetación en el anillo de la válvula protésica
+T10	PROCEDIMIENTO 562 574	hemocultivos
+T11	PROCEDIMIENTO 581 599	ecografía de tórax
+T12	PROCEDIMIENTO 929 940	TAC craneal
+T13	PROCEDIMIENTO 964 978	punción lumbar
+T14	PROCEDIMIENTO 983 1001	bioquímica del LCR
+T15	PROCEDIMIENTO 1139 1156	recambio valvular
+T16	PROCEDIMIENTO 1282 1291	necropsia
+T17	PROCEDIMIENTO 1297 1338	hemocultivos y el líquido cefalorraquídeo
+T18	PROCEDIMIENTO 1417 1429	hemocultivos
+T19	PROCEDIMIENTO 1581 1600	examen microscópico
+T20	PROCEDIMIENTO 501 510	analítica
+T21	PROCEDIMIENTO 345 356	exploración
+T22	PROCEDIMIENTO 247 299	prótesis biológica de la válvula aórtica, implantada
+T23	PROCEDIMIENTO 1697 1707	subcultivo
+T24	SINTOMA 143 216	inflamación, dolor e impotencia funcional de la articulación de la muñeca
+T25	SINTOMA 401 407	febril
+T26	SINTOMA 431 463	nódulos de Osler en manos y pies
+T27	SINTOMA 522 534	leucocitosis
+T28	SINTOMA 855 890	disminución del nivel de conciencia
+T29	SINTOMA 1174 1182	falleció
+T30	SINTOMA 1297 1355	hemocultivos y el líquido cefalorraquídeo fueron negativos
+T31	SINTOMA 929 956	TAC craneal, que fue normal
+T32	SINTOMA 1581 1663	examen microscópico permitió observar levaduras, filamentos cortos y artroconidias
+T33	SINTOMA 1669 1707	microorganismo creció en el subcultivo
+T34	FARMACO 751 762	vancomicina
+T35	FARMACO 764 775	gentamicina
+T36	FARMACO 778 789	rifampicina

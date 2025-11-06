@@ -1,0 +1,118 @@
+T1	DISEASE 2467 2528	Válvula tricuspídea estructuralmente normal con regurgitación
+T2	DISEASE 86 107	Hipertensión arterial
+T3	DISEASE 109 119	Dislipemia
+T4	DISEASE 121 200	Miocardiopatía dilatada de origen isquémico con disfunción ventricular moderada
+T5	DISEASE 202 231	cardiopatía isquémica crónica
+T6	DISEASE 252 289	Fibrilación auricular (FA) permanente
+T7	DISEASE 275 277	FA
+T8	DISEASE 322 351	Valvulopatía mitral reumática
+T9	DISEASE 978 999	edema agudo de pulmón
+T10	DISEASE 1824 1826	FA
+T11	DISEASE 1864 1870	BCRIHH
+T12	DISEASE 2583 2602	derrame pericárdico
+T13	DISEASE 2728 2763	regurgitación mitral moderada-grave
+T14	DISEASE 3028 3061	Lesión larga en circunfleja media
+T15	DISEASE 3063 3100	Lesiones del 90% en coronaria derecha
+T16	DISEASE 3321 3359	dehiscencia paravalvular periprotésica
+T17	DISEASE 3393 3427	regurgitación mitral moderadagrave
+T18	DISEASE 3820 3838	fuga periprotésica
+T19	DISEASE 4016 4034	fuga periprotésica
+T20	DISEASE 4120 4145	fuga periprotésica mitral
+T21	DISEASE 4174 4200	regurgitación mitral grave
+T22	DISEASE 4230 4251	enfermedad de 3 vasos
+T23	DISEASE 4567 4608	insuficiencia cardiaca (IC) descompensada
+T24	DISEASE 4591 4593	IC
+T25	DISEASE 4611 4628	anemia hemolítica
+T26	DISEASE 4745 4783	dehiscencia paravalvular periprotésica
+T27	DISEASE 4817 4852	regurgitación mitral moderada-grave
+T28	DISEASE 5203 5220	fuga paravalvular
+T29	DISEASE 5542 5558	IC descompensada
+T30	DISEASE 5600 5672	dehiscencia periprotésica cercana a dispositivo Amplatzer de grado grave
+T31	DISEASE 5744 5783	dehiscencias paravalvulares recurrentes
+T32	DISEASE 6205 6222	fuga paravalvular
+T33	DISEASE 6454 6475	Cardiopatía isquémica
+T34	DISEASE 6477 6508	Enfermedad coronaria de 3 vasos
+T35	DISEASE 6543 6606	Disfunción sistólica leve y dilatación del ventrículo izquierdo
+T36	DISEASE 6613 6657	Valvulopatía reumática con afectación mitral
+T37	DISEASE 2374 2411	Aorta ascendente ligeramente dilatada
+T38	DISEASE 2300 2365	Válvula aórtica trivalva, ligeramente engrosada con regurgitación
+T39	DISEASE 3581 3599	leak periprotésico
+T40	DISEASE 5072 5090	leak periprotésico
+T41	DISEASE 5238 5274	regurgitación mitral ligera-moderada
+T42	DISEASE 1968 2054	aurícula y ventrículo izquierdos dilatados con hipertrofia ventricular ligera-moderada
+T43	DISEASE 2189 2245	Prótesis mecánica mitral con obstrucción ligera-moderada
+T44	DISEASE 2538 2569	Vena cava inferior muy dilatada
+T45	DISEASE 2953 2997	Lesión del 90% en descendente anterior media
+T46	DISEASE 6727 6768	fugas periprotésicas mitrales recurrentes
+T47	DISEASE 2649 2685	dehiscencia periprotésica paraseptal
+T48	DISEASE 2999 3026	Lesión del 90% en bisectriz
+T49	PROCEDURE 235 250	revascularizada
+T50	PROCEDURE 335 385	mitral reumática con implante de prótesis mecánica
+T51	PROCEDURE 1002 1020	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 1127 1148	Auscultación cardiaca
+T53	PROCEDURE 1233 1254	Auscultación pulmonar
+T54	PROCEDURE 1787 1805	ELECTROCARDIOGRAMA
+T55	PROCEDURE 1807 1810	ECG
+T56	PROCEDURE 1922 1951	Ecocardiografía transtorácica
+T57	PROCEDURE 2604 2634	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T58	PROCEDURE 2859 2879	CATETERISMO CARDIACO
+T59	PROCEDURE 3160 3215	intervención quirúrgica cardiaca, con cierre de la fuga
+T60	PROCEDURE 3218 3245	revascularización coronaria
+T61	PROCEDURE 3247 3277	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T62	PROCEDURE 3297 3318	reparación quirúrgica
+T63	PROCEDURE 3520 3540	CATETERISMO CARDIACO
+T64	PROCEDURE 3560 3645	cierre percutáneo de leak periprotésico con abordaje arterial transfemoral retrógrado
+T65	PROCEDURE 3647 3677	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T66	PROCEDURE 3840 3873	ECOCARDIOGRAFÍA TRANSESOFÁGICA 3D
+T67	PROCEDURE 4078 4108	ecocardiografía transesofágica
+T68	PROCEDURE 4205 4220	coronariografía
+T69	PROCEDURE 4296 4306	diuréticos
+T70	PROCEDURE 4370 4382	tripe bypass
+T71	PROCEDURE 4385 4430	cierre de la fuga con cuatro puntos de sutura
+T72	PROCEDURE 4465 4480	ecocardiografía
+T73	PROCEDURE 4652 4665	transfusiones
+T74	PROCEDURE 4681 4711	ecocardiografía transesofágica
+T75	PROCEDURE 4988 5004	cirugía cardiaca
+T76	PROCEDURE 5050 5136	cierre percutáneo del leak periprotésico con abordaje arterial transfemoral retrógrado
+T77	PROCEDURE 5149 5183	implante del dispositivo Amplatzer
+T78	PROCEDURE 5928 5940	toracostomía
+T79	PROCEDURE 5946 5960	punción apical
+T80	PROCEDURE 6114 6144	ecocardiografía transesofágica
+T81	PROCEDURE 6149 6179	ecocardiografía transesofágica
+T82	PROCEDURE 6513 6541	revascularización quirúrgica
+T83	PROCEDURE 6659 6698	Recambio valvular por prótesis mecánica
+T84	PROCEDURE 6783 6800	sutura quirúrgica
+T85	PROCEDURE 6803 6820	cierre percutáneo
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 6024 6144	Se implantó un dispositivo rectangular Occlutech PDL en la posición adecuada bajo guía de ecocardiografía transesofágica
+T88	PROCEDURE 1417 1426	ANALÍTICA
+T89	PROCEDURE 290 320	anticoagulado con acenocumarol
+T90	PROCEDURE 4326 4349	intervención quirúrgica
+T91	SYMPTOM 784 847	disnea habitual de moderados hasta hacerse de mínimos esfuerzos
+T92	SYMPTOM 877 880	tos
+T93	SYMPTOM 882 888	fiebre
+T94	SYMPTOM 1091 1125	Pulso venoso yugular (PVY): normal
+T95	SYMPTOM 1150 1166	tonos arrítmicos
+T96	SYMPTOM 1171 1195	click de apertura mitral
+T97	SYMPTOM 1198 1231	soplo pansistólico en foco mitral
+T98	SYMPTOM 1256 1285	murmullo vesicular conservado
+T99	SYMPTOM 1287 1290	MVC
+T100	SYMPTOM 1296 1353	crepitantes hasta tercio medio de ambos campos pulmonares
+T101	SYMPTOM 1355 1390	Extremidades inferiores: sin edemas
+T102	SYMPTOM 2097 2134	contractilidad segmentaria conservada
+T103	SYMPTOM 2137 2176	función sistólica ligeramente deprimida
+T104	SYMPTOM 2413 2465	Válvula pulmonar estructural y funcionalmente normal
+T105	SYMPTOM 1875 1920	alteraciones secundarias de la repolarización
+T106	SYMPTOM 2059 2086	hipocinesia ligera inferior
+T107	SYMPTOM 2896 2914	dominancia derecha
+T108	SYMPTOM 2916 2951	Tronco común izquierdo sin lesiones
+T109	MEDICATION 308 320	acenocumarol
+T110	MEDICATION 459 470	telmisartán
+T111	MEDICATION 482 492	bisoprolol
+T112	MEDICATION 505 515	eplerenona
+T113	MEDICATION 527 535	digoxina
+T114	MEDICATION 549 571	ácido acetilsalicílico
+T115	MEDICATION 584 593	omeprazol
+T116	MEDICATION 605 618	atorvastatina
+T117	MEDICATION 630 640	ranolazina
+T118	MEDICATION 658 670	acenocumarol

@@ -1,0 +1,44 @@
+T1	ENFERMEDAD 37 62	diabetes mellitus tipo II
+T2	ENFERMEDAD 64 85	hipertensión arterial
+T3	ENFERMEDAD 87 106	hipercolesterolemia
+T4	ENFERMEDAD 109 136	insuficiencia renal crónica
+T5	ENFERMEDAD 361 382	cardiopatía isquémica
+T6	ENFERMEDAD 440 459	fracaso renal agudo
+T7	ENFERMEDAD 461 492	anemia normocítica normocrómica
+T8	ENFERMEDAD 601 646	bloqueo aurículo-ventricular de segundo grado
+T9	ENFERMEDAD 942 976	hemorragia subaracnoidea occipital
+T10	ENFERMEDAD 1192 1217	derrame pleural bilateral
+T11	ENFERMEDAD 1689 1743	vegetaciones en la cara auricular de la válvula mitral
+T12	ENFERMEDAD 1838 1867	insuficiencia mitral moderada
+T13	ENFERMEDAD 2001 2041	endocarditis mitral sobre válvula nativa
+T14	ENFERMEDAD 547 598	bloqueo completo de la rama derecha del haz de Hiss
+T15	PROCEDIMIENTO 518 536	electrocardiograma
+T16	PROCEDIMIENTO 900 911	TAC craneal
+T17	PROCEDIMIENTO 1168 1180	TAC de tórax
+T18	PROCEDIMIENTO 1219 1289	Se recogen muestras de orina, aspirado bronquial y sangre para cultivo
+T19	PROCEDIMIENTO 1366 1378	hemocultivos
+T20	PROCEDIMIENTO 1543 1566	tratamiento antibiótico
+T21	PROCEDIMIENTO 1576 1588	antibiograma
+T22	PROCEDIMIENTO 1632 1661	ecocardiograma transesofágico
+T23	PROCEDIMIENTO 1880 1910	cirugía para recambio valvular
+T24	PROCEDIMIENTO 336 382	colocarle dos stents por cardiopatía isquémica
+T25	SINTOMA 190 206	malestar general
+T26	SINTOMA 208 215	náuseas
+T27	SINTOMA 217 224	vómitos
+T28	SINTOMA 240 258	sudoración profusa
+T29	SINTOMA 263 277	dolor torácico
+T30	SINTOMA 396 438	leucocitosis con desviación a la izquierda
+T31	SINTOMA 689 696	afebril
+T32	SINTOMA 702 714	leucocitosis
+T33	SINTOMA 775 805	desorientación temporoespacial
+T34	SINTOMA 810 831	agitación psicomotriz
+T35	SINTOMA 1011 1017	fiebre
+T36	SINTOMA 1037 1046	taquipnea
+T37	SINTOMA 1049 1080	aumento de trabajo respiratorio
+T38	SINTOMA 1085 1111	acidosis metabólica severa
+T39	SINTOMA 1127 1159	deterioro de nivel de conciencia
+T40	SINTOMA 1366 1405	hemocultivos crecen cocos grampositivos
+T41	SINTOMA 1928 1935	fallece
+T42	FARMACO 859 882	piperacilina/tazobactam
+T43	FARMACO 1591 1602	cloxacilina
+T44	FARMACO 1605 1616	gentamicina

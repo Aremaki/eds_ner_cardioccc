@@ -1,0 +1,72 @@
+T1	ENFERMEDAD 131 185	fibrilación auricular con respuesta ventricular rápida
+T2	ENFERMEDAD 586 594	ansiedad
+T3	ENFERMEDAD 754 776	Síndrome Mallory Weiss
+T4	ENFERMEDAD 901 930	comunicación interventricular
+T5	ENFERMEDAD 976 1004	interrupción de arco aórtico
+T6	ENFERMEDAD 1026 1051	síndrome de preexcitación
+T7	ENFERMEDAD 1638 1672	bloqueo de rama derecha incompleto
+T8	ENFERMEDAD 1757 1770	cardiomegalia
+T9	ENFERMEDAD 1784 1799	derrame pleural
+T10	ENFERMEDAD 2331 2390	coartación aórtica distal al ostium de la arteria subclavia
+T11	ENFERMEDAD 2463 2584	hipertrofia de arterias intercostales izquierdas distales a la coartación, de la arteria subclavia izquierda y la mamaria
+T12	ENFERMEDAD 2632 2713	aneurisma sacular adyacente a la bifurcación de la arteria cerebral media derecha
+T13	ENFERMEDAD 2819 2850	coartación de aorta descendente
+T14	ENFERMEDAD 2871 2904	fibrilación auricular paroxística
+T15	ENFERMEDAD 3062 3113	coartación distal al ostium de la arteria subclavia
+T16	ENFERMEDAD 3152 3169	patología aórtica
+T17	ENFERMEDAD 3174 3206	malformaciones cerebrovasculares
+T18	ENFERMEDAD 3285 3323	aneurisma en la arteria cerebral media
+T19	ENFERMEDAD 3657 3675	aneurisma cerebral
+T20	ENFERMEDAD 3729 3748	coartación de aorta
+T21	ENFERMEDAD 3898 3946	Aneurisma intracraneal en arteria cerebral media
+T22	ENFERMEDAD 3960 3974	FA paroxística
+T23	ENFERMEDAD 3994 4015	Hipertensión arterial
+T24	ENFERMEDAD 3976 3993	IM ligera con PVM
+T25	ENFERMEDAD 1696 1729	hipertrofia ventricular izquierda
+T26	ENFERMEDAD 3851 3897	Coartación de aorta en AO torácica descendente
+T27	ENFERMEDAD 734 752	consumo de tóxicos
+T28	ENFERMEDAD 868 898	transposición de grandes vasos
+T29	ENFERMEDAD 1917 1962	prolapso ligero de valva anterolateral mitral
+T30	ENFERMEDAD 1842 1858	muescas costales
+T31	ENFERMEDAD 951 971	fallecido intraútero
+T32	ENFERMEDAD 1967 1987	insuficiencia mitral
+T33	PROCEDIMIENTO 34 52	exploración física
+T34	PROCEDIMIENTO 254 281	cardioversión farmacológica
+T35	PROCEDIMIENTO 1054 1072	Exploración física
+T36	PROCEDIMIENTO 1275 1296	Auscultación pulmonar
+T37	PROCEDIMIENTO 1332 1353	auscultación cardiaca
+T38	PROCEDIMIENTO 1566 1584	Electrocardiograma
+T39	PROCEDIMIENTO 1731 1751	Radiografía de tórax
+T40	PROCEDIMIENTO 1860 1888	Ecocardiograma transtorácico
+T41	PROCEDIMIENTO 2290 2316	Angio-TAC toraco-abdominal
+T42	PROCEDIMIENTO 2596 2630	Angio resonangia magnética nuclear
+T43	PROCEDIMIENTO 3018 3044	angio-TAC toraco-abdominal
+T44	PROCEDIMIENTO 3231 3266	angio-resonancia magnética cerebral
+T45	PROCEDIMIENTO 3368 3388	se realizó cariotipo
+T46	PROCEDIMIENTO 3391 3435	estudio mediante técnica de hibridación FISH
+T47	SINTOMA 365 378	palpitaciones
+T48	SINTOMA 468 493	síntomas cardiovasculares
+T49	SINTOMA 599 613	dolor torácico
+T50	SINTOMA 615 634	sensación de disnea
+T51	SINTOMA 637 685	elevación aguda de cifras de la presión arterial
+T52	SINTOMA 1074 1084	consciente
+T53	SINTOMA 1086 1095	orientado
+T54	SINTOMA 1097 1111	normocoloreado
+T55	SINTOMA 1113 1121	eupneico
+T56	SINTOMA 1123 1138	Fenotipo normal
+T57	SINTOMA 1245 1273	Pulsos periféricos presentes
+T58	SINTOMA 1301 1330	murmullo vesicular conservado
+T59	SINTOMA 1355 1406	soplo proto- mesosistólico eyectivo en foco aórtico
+T60	SINTOMA 1586 1599	ritmo sinusal
+T61	SINTOMA 1806 1828	infiltrados pulmonares
+T62	SINTOMA 1890 1915	hipertrofia ligera septal
+T63	SINTOMA 2197 2288	dimensiones de aurícula izquierda y función diastólica ventricular izquierda resultó normal
+T64	SINTOMA 3795 3807	asintomático
+T65	SINTOMA 1604 1623	eje cardiaco normal
+T66	SINTOMA 854 863	fallecido
+T67	SINTOMA 1496 1539	Abdomen y Miembros inferiores sin hallazgos
+T68	SINTOMA 2715 2731	Cariotipo normal
+T69	SINTOMA 2733 2762	ausencia de selección 22q11.2
+T70	FARMACO 286 296	amiodarona
+#1	AnnotatorNotes T22	 Fibrilación Auricular
+#2	AnnotatorNotes T24	 IM: insuficiencia mitral|PVM: Prolapso de la válvula mitral

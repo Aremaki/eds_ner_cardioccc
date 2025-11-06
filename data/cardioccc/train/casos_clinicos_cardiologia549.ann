@@ -1,0 +1,155 @@
+T1	DISEASE 531 588	ventrículo izquierdo con hipertrofia concéntrica moderada
+T2	DISEASE 70 93	alergias a medicamentos
+T3	DISEASE 130 154	diabetes mellitus tipo 2
+T4	DISEASE 156 177	hipertensión arterial
+T5	DISEASE 179 189	dislipemia
+T6	DISEASE 194 209	hábitos tóxicos
+T7	DISEASE 239 260	cardiopatía isquémica
+T8	DISEASE 302 435	enfermedad grave de tronco y tres vasos, en descendente anterior proximal, circunfleja próximo-medial y en interventricular posterior
+T9	DISEASE 719 752	Fibrilación auricular paroxística
+T10	DISEASE 882 913	ictus isquémico vertebrobasilar
+T11	DISEASE 937 961	Enfermedad renal crónica
+T12	DISEASE 963 966	ERC
+T13	DISEASE 1000 1020	nefroangioesclerosis
+T14	DISEASE 1078 1091	Hiperuricemia
+T15	DISEASE 1096 1110	crisis de gota
+T16	DISEASE 1189 1198	cataratas
+T17	DISEASE 1973 1991	angina de esfuerzo
+T18	DISEASE 4078 4132	hipertrofia concéntrica grave del ventrículo izquierdo
+T19	DISEASE 4321 4349	Insuficiencia mitral trivial
+T20	DISEASE 4351 4379	Insuficiencia aórtica ligera
+T21	DISEASE 4475 4500	Insuficiencia tricuspídea
+T22	DISEASE 4502 4504	IT
+T23	DISEASE 4653 4674	fibrilación auricular
+T24	DISEASE 4676 4678	FA
+T25	DISEASE 5674 5733	necrosis subendocárdica a nivel de los segmentos anteriores
+T26	DISEASE 5738 5764	fibrosis difusa epicárdica
+T27	DISEASE 5931 5962	fibrosis difusa intramiocárdica
+T28	DISEASE 6342 6378	insuficiencia cardiaca descompensada
+T29	DISEASE 6773 6795	insuficiencia cardiaca
+T30	DISEASE 6850 6868	anemia ferropénica
+T31	DISEASE 6995 7036	hipertrofia grave de ventrículo izquierdo
+T32	DISEASE 7084 7111	miocardiopatía infiltrativa
+T33	DISEASE 7195 7206	amiloidosis
+T34	DISEASE 7357 7371	amiloidosis AL
+T35	DISEASE 7392 7411	amiloidosis por TTR
+T36	DISEASE 7578 7600	insuficiencia cardiaca
+T37	DISEASE 7802 7821	amiloidosis por TTR
+T38	DISEASE 7985 8021	Insuficiencia cardiaca descompensada
+T39	DISEASE 8023 8053	Amiloidosis cardiaca por wtTTR
+T40	DISEASE 8076 8112	Enfermedad renal crónica reagudizada
+T41	DISEASE 8114 8147	Anemia normocítica con ferropenia
+T42	DISEASE 8149 8178	Cardiopatía isquémica crónica
+T43	DISEASE 661 674	valvulopatías
+T44	DISEASE 1022 1040	Poliposis de colon
+T45	DISEASE 4381 4420	Dilatación ligera de aurícula izquierda
+T46	DISEASE 5075 5096	edema miocárdico leve
+T47	DISEASE 5350 5389	Aurícula izquierda ligeramente dilatada
+T48	DISEASE 2922 2955	crecimiento de aurícula izquierda
+T49	PROCEDURE 6689 6711	tratamiento deplectivo
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 262 275	triple bypass
+T52	PROCEDURE 486 515	ecocardiografía transtorácica
+T53	PROCEDURE 517 520	ETT
+T54	PROCEDURE 795 818	cardioversión eléctrica
+T55	PROCEDURE 1022 1076	Poliposis de colon con múltiples exéresis endoscópicas
+T56	PROCEDURE 1140 1156	bypass coronario
+T57	PROCEDURE 1158 1187	herniorrafia inguinal derecha
+T58	PROCEDURE 2299 2317	Exploración física
+T59	PROCEDURE 2422 2442	O2 por gafas nasales
+T60	PROCEDURE 2572 2593	Auscultación cardiaca
+T61	PROCEDURE 2635 2656	Auscultación pulmonar
+T62	PROCEDURE 2851 2869	Electrocardiograma
+T63	PROCEDURE 2871 2874	ECG
+T64	PROCEDURE 3040 3060	Radiografía de tórax
+T65	PROCEDURE 3244 3253	Hemograma
+T66	PROCEDURE 3740 3750	Hemostasia
+T67	PROCEDURE 3828 3850	Proteinograma en suero
+T68	PROCEDURE 4073 4076	ETT
+T69	PROCEDURE 4638 4649	Exploración
+T70	PROCEDURE 4699 4728	Resonancia magnética cardiaca
+T71	PROCEDURE 5993 6026	Gammagrafía ósea de cuerpo entero
+T72	PROCEDURE 6214 6230	Estudio genético
+T73	PROCEDURE 6232 6251	estudio del gen TTR
+T74	PROCEDURE 6407 6430	diuréticos intravenosos
+T75	PROCEDURE 6498 6512	oxigenoterapia
+T76	PROCEDURE 6818 6828	diuréticos
+T77	PROCEDURE 6957 6972	ecocardiografía
+T78	PROCEDURE 7135 7147	RMN cardiaca
+T79	PROCEDURE 7229 7251	proteinograma en suero
+T80	PROCEDURE 7254 7306	detección de cadenas ligeras libres en suero y orina
+T81	PROCEDURE 7425 7458	gammagrafía ósea con bifosfonatos
+T82	PROCEDURE 7628 7639	gammagrafía
+T83	PROCEDURE 7834 7850	estudio genético
+T84	PROCEDURE 820 823	CVE
+T85	PROCEDURE 3514 3524	Bioquímica
+T86	PROCEDURE 3199 3211	esternotomía
+T87	PROCEDURE 5557 5602	Estudio de detección de necrosis y viabilidad
+T88	PROCEDURE 1112 1138	Intervenciones quirúrgicas
+T89	PROCEDURE 2269 2296	interrogatorio por aparatos
+T90	PROCEDURE 5481 5511	Se administra ácido gadotérico
+T91	SYMPTOM 681 717	función de ventrículo derecho normal
+T92	SYMPTOM 1499 1516	disnea progresiva
+T93	SYMPTOM 1799 1813	ortopnea basal
+T94	SYMPTOM 1829 1856	disnea paroxística nocturna
+T95	SYMPTOM 1858 1861	DPN
+T96	SYMPTOM 1873 1920	edematización progresiva de miembros inferiores
+T97	SYMPTOM 2008 2065	dolor centrotorácico opresivo y epigástrico, no irradiado
+T98	SYMPTOM 2071 2089	cortejo vegetativo
+T99	SYMPTOM 2214 2227	palpitaciones
+T100	SYMPTOM 2232 2238	fiebre
+T101	SYMPTOM 2455 2462	Afebril
+T102	SYMPTOM 2464 2483	Buen estado general
+T103	SYMPTOM 2485 2495	Consciente
+T104	SYMPTOM 2498 2507	orientado
+T105	SYMPTOM 2509 2524	Palidez cutánea
+T106	SYMPTOM 2526 2544	Eupneico en reposo
+T107	SYMPTOM 2549 2570	ingurgitación yugular
+T108	SYMPTOM 2595 2621	ruidos cardiacos regulares
+T109	SYMPTOM 2627 2633	soplos
+T110	SYMPTOM 2658 2682	hipofonesis generalizada
+T111	SYMPTOM 2684 2705	crepitantes bibasales
+T112	SYMPTOM 2707 2747	Abdomen blando y depresible, no doloroso
+T113	SYMPTOM 2752 2757	masas
+T114	SYMPTOM 2761 2769	megalias
+T115	SYMPTOM 2771 2801	Miembros inferiores con edemas
+T116	SYMPTOM 2888 2901	ritmo sinusal
+T117	SYMPTOM 2980 3017	defecto de progresión de R precordial
+T118	SYMPTOM 3019 3038	QS en cara inferior
+T119	SYMPTOM 3091 3096	masas
+T120	SYMPTOM 3098 3135	índice cardiotorácico (ICT) aumentado
+T121	SYMPTOM 3146 3178	pinzamiento de seno costofrénico
+T122	SYMPTOM 4022 4071	Cadenas ligeras libres en suero y orina negativas
+T123	SYMPTOM 4137 4172	función global sistólica conservada
+T124	SYMPTOM 4174 4223	Hipocinesia en segmentos inferiores medio-basales
+T125	SYMPTOM 4422 4473	Ventrículo derecho con función sistólica conservada
+T126	SYMPTOM 4756 4803	ventrículo izquierdo (VI) de volúmenes normales
+T127	SYMPTOM 4993 5028	función global sistólica conservada
+T128	SYMPTOM 5244 5279	función global sistólica conservada
+T129	SYMPTOM 5391 5444	Resistencias vasculares pulmonares estimadas normales
+T130	SYMPTOM 6722 6748	deterioro de función renal
+T131	SYMPTOM 603 655	hipocinesia de segmentos inferiores medios y basales
+T132	SYMPTOM 4954 4988	hipocinesia inferior basal y medio
+T133	SYMPTOM 5175 5210	Ventrículo derecho (VD) no dilatado
+T134	SYMPTOM 5292 5348	Aorta y grandes vasos de diámetros y morfología normales
+T135	SYMPTOM 5967 5991	RTG subendocárdico de VD
+T136	SYMPTOM 6244 6290	gen TTR descartándose la presencia de mutación
+T137	SYMPTOM 4284 4319	aumento de las presiones de llenado
+T138	SYMPTOM 2247 2265	clínica infecciosa
+T139	SYMPTOM 7927 7934	estable
+T140	SYMPTOM 3076 3087	infiltrados
+T141	SYMPTOM 4005 4020	pico monoclonal
+T142	SYMPTOM 4602 4636	Vena cava inferior (VCI) pletórica
+T143	SYMPTOM 7267 7328	cadenas ligeras libres en suero y orina, que siendo negativas
+T144	MEDICATION 1220 1237	insulina glargina
+T145	MEDICATION 1250 1262	linagliptina
+T146	MEDICATION 1274 1287	pitavastatina
+T147	MEDICATION 1299 1308	enalapril
+T148	MEDICATION 1320 1330	bisoprolol
+T149	MEDICATION 1342 1354	acenocumarol
+T150	MEDICATION 1366 1376	amiodarona
+T151	MEDICATION 1390 1401	pantoprazol
+T152	MEDICATION 1414 1424	febuxostat
+T153	MEDICATION 1682 1692	furosemida
+T154	MEDICATION 6922 6943	hierro carboximaltosa
+#1	AnnotatorNotes T84	cardioversión eléctrica

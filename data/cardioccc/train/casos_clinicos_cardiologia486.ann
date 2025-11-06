@@ -1,0 +1,71 @@
+T1	DISEASE 121 124	MCH
+T2	DISEASE 555 562	síncope
+T3	DISEASE 897 935	hipertrofia septal asimétrica moderada
+T4	DISEASE 1071 1120	Disfunción sistólica de ventrículo izquierdo leve
+T5	DISEASE 1136 1157	disfunción diastólica
+T6	DISEASE 1419 1458	Dilatación severa de aurícula izquierda
+T7	DISEASE 1507 1537	Extrasistolia supraventricular
+T8	DISEASE 1540 1565	extrasistolia ventricular
+T9	DISEASE 1585 1590	BRDHH
+T10	DISEASE 2284 2329	VI con hipertrofia septal asimétrica moderada
+T11	DISEASE 2516 2537	disfunción diastólica
+T12	DISEASE 2747 2779	hipertensión pulmonar poscapilar
+T13	DISEASE 2997 3039	dilatación severa de la aurícula izquierda
+T14	DISEASE 3083 3104	fibrilación auricular
+T15	DISEASE 3722 3764	Miocardiopatía hipertrófica no obstructiva
+T16	DISEASE 3926 3948	Insuficiencia cardiaca
+T17	DISEASE 3885 3917	Disfunción ventricular izquierda
+T18	DISEASE 790 803	cardiomegalia
+T19	DISEASE 3299 3340	descompensación de insuficiencia cardiaca
+T20	DISEASE 1170 1197	Aurícula izquierda dilatada
+T21	DISEASE 3814 3827	Muerte súbita
+T22	DISEASE 1676 1689	muerte súbita
+T23	DISEASE 1774 1787	muerte súbita
+T24	DISEASE 217 230	muerte súbita
+T25	DISEASE 948 1014	obstrucción a través del tracto de salida del ventrículo izquierdo
+T26	PROCEDURE 246 259	test genético
+T27	PROCEDURE 589 592	ECG
+T28	PROCEDURE 768 788	Radiografía de tórax
+T29	PROCEDURE 855 869	Ecocardiograma
+T30	PROCEDURE 1207 1279	Resonancia magnética nuclear (RMN) cardiaca: realce tardío con gadolinio
+T31	PROCEDURE 1460 1470	Ergometría
+T32	PROCEDURE 1732 1747	implante de DAI
+T33	PROCEDURE 1959 1977	exploración física
+T34	PROCEDURE 2037 2058	auscultación pulmonar
+T35	PROCEDURE 2183 2201	electrocardiograma
+T36	PROCEDURE 2245 2259	ecocardiograma
+T37	PROCEDURE 2609 2625	ergoespirometría
+T38	PROCEDURE 2704 2732	cateterismo cardiaco derecho
+T39	PROCEDURE 2956 2981	tratamiento neurohormonal
+T40	PROCEDURE 3127 3147	anticoagulación oral
+T41	PROCEDURE 3566 3585	trasplante cardiaco
+T42	PROCEDURE 3600 3623	estudio pre- trasplante
+T43	PROCEDURE 3688 3698	trasplante
+T44	PROCEDURE 4001 4020	trasplante cardiaco
+T45	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T46	PROCEDURE 1237 1240	RMN
+T47	PROCEDURE 694 703	Analítica
+T48	PROCEDURE 2066 2075	analítica
+T49	PROCEDURE 217 241	muerte súbita recuperada
+T50	PROCEDURE 3880 3883	DAI
+T51	SYMPTOM 273 306	mutación de la troponina I (TNNI3
+T52	SYMPTOM 516 529	palpitaciones
+T53	SYMPTOM 531 545	dolor torácico
+T54	SYMPTOM 547 552	mareo
+T55	SYMPTOM 594 607	ritmo sinusal
+T56	SYMPTOM 609 621	QRS estrecho
+T57	SYMPTOM 871 892	VI de diámetro normal
+T58	SYMPTOM 1472 1485	ritmo sinusal
+T59	SYMPTOM 1986 2016	presión venosa yugular elevada
+T60	SYMPTOM 2019 2030	crepitantes
+T61	SYMPTOM 2086 2108	elevación de NT-proBNP
+T62	SYMPTOM 2381 2421	deterioro de la función sistólica del VI
+T63	SYMPTOM 3249 3276	disnea de mínimos esfuerzos
+T64	SYMPTOM 729 743	iones normales
+T65	SYMPTOM 2210 2223	ritmo sinusal
+T66	SYMPTOM 1019 1069	movimiento anterior sistólico de la válvula mitral
+T67	SYMPTOM 3766 3804	Mutación en el gen de la troponina I 3
+T68	SYMPTOM 2563 2596	elevación de presiones de llenado
+T69	SYMPTOM 805 853	Leve redistribución vascular a campos superiores
+T70	SYMPTOM 660 692	sobrecarga ventricular izquierda
+#1	AnnotatorNotes T1	 miocardiopatía hipertrófica

@@ -1,0 +1,33 @@
+T1	DISEASE 632 655	neumonitis intersticial
+T2	DISEASE 859 953	lesiones severas en arteria descendente anterior distal, circunfleja proximal y aguda marginal
+T3	DISEASE 978 999	disfunción miocárdica
+T4	DISEASE 1214 1234	miocarditis subaguda
+T5	DISEASE 335 360	bloqueo de rama izquierda
+T6	DISEASE 414 427	cardiomegalia
+T7	DISEASE 738 760	dilatación ventricular
+T8	DISEASE 1147 1182	dilatación del ventrículo izquierdo
+T9	DISEASE 765 792	disfunción sistólica severa
+T10	PROCEDURE 305 323	electrocardiograma
+T11	PROCEDURE 386 406	radiografía de tórax
+T12	PROCEDURE 474 493	tomografía de tórax
+T13	PROCEDURE 678 697	antibiótico-terapia
+T14	PROCEDURE 702 730	ecocardiograma transtorácico
+T15	PROCEDURE 836 851	coronariografía
+T16	PROCEDURE 1004 1021	cardiorresonancia
+T17	PROCEDURE 1532 1547	ecocardiografía
+T18	PROCEDURE 278 291	biomarcadores
+T19	PROCEDURE 179 188	analítica
+T20	PROCEDURE 133 144	exploración
+T21	SYMPTOM 56 84	disnea de pequeños esfuerzos
+T22	SYMPTOM 87 104	edemas maleolares
+T23	SYMPTOM 152 173	crepitantes bibasales
+T24	SYMPTOM 501 572	engrosamiento intersticial difuso sobre imágenes de "vidrio deslustrado
+T25	SYMPTOM 1240 1306	anticuerpos IgM e IgG anti-CMV y PCR anti-CMV resultaron positivos
+T26	SYMPTOM 1453 1473	clínicamente estable
+T27	SYMPTOM 1479 1485	disnea
+T28	SYMPTOM 278 300	biomarcadores normales
+T29	SYMPTOM 430 468	infiltrados intersticiales bilaterales
+T30	SYMPTOM 575 595	patrón "crazy paving
+T31	SYMPTOM 1084 1113	hiperintensidad anterolateral
+T32	SYMPTOM 1118 1145	realce subepicárdico tardío
+T33	MEDICATION 1345 1359	valganciclovir

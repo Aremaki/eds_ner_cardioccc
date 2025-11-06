@@ -1,0 +1,60 @@
+T1	DISEASE 154 174	hipotensión arterial
+T2	DISEASE 279 291	shock tóxico
+T3	DISEASE 547 661	lesiones de tipo purpúricas dolorosas en palmas, plantas, región subungueal, periungueal y en conjuntiva palpebral
+T4	DISEASE 678 698	embolias periféricas
+T5	DISEASE 929 954	Insuficiencia Renal Aguda
+T6	DISEASE 1347 1360	shock séptico
+T7	DISEASE 1659 1681	insuficiencia cardíaca
+T8	DISEASE 2064 2087	Endocarditis infecciosa
+T9	DISEASE 2497 2522	absceso del anillo mitral
+T10	DISEASE 2914 2933	insuficiencia renal
+T11	DISEASE 2954 2971	lesiones cutáneas
+T12	DISEASE 1259 1272	cardiomegalia
+T13	DISEASE 1023 1045	hematuria microscópica
+T14	DISEASE 1748 1763	edema de pulmón
+T15	DISEASE 1924 1989	vegetación en la válvula mitral con regurgitación mitral moderada
+T16	DISEASE 1992 2036	disfunción del ventrículo izquierdo moderada
+T17	PROCEDURE 328 351	tratamiento antibiótico
+T18	PROCEDURE 775 788	examen físico
+T19	PROCEDURE 1229 1249	Radiografía de tórax
+T20	PROCEDURE 1374 1386	hemocultivos
+T21	PROCEDURE 1393 1405	antibióticos
+T22	PROCEDURE 1688 1708	Radiografía de tórax
+T23	PROCEDURE 1871 1899	ecocardiograma transtorácico
+T24	PROCEDURE 2250 2268	drogas inotrópicas
+T25	PROCEDURE 2308 2331	ventilación no invasiva
+T26	PROCEDURE 2357 2380	tratamiento antibiótico
+T27	PROCEDURE 2430 2459	ecocardiograma transesofágico
+T28	PROCEDURE 2707 2719	hemocultivos
+T29	PROCEDURE 3048 3071	tratamiento antibiótico
+T30	PROCEDURE 703 717	se auscultaban
+T31	PROCEDURE 2792 2807	aminoglucócidos
+T32	PROCEDURE 983 1001	sedimento urinario
+T33	PROCEDURE 192 216	resucitación con volumen
+T34	PROCEDURE 300 313	hemocultivada
+T35	SYMPTOM 138 144	fiebre
+T36	SYMPTOM 218 238	hiperestesia cutánea
+T37	SYMPTOM 469 476	confusa
+T38	SYMPTOM 478 490	taquicárdica
+T39	SYMPTOM 502 511	hipotensa
+T40	SYMPTOM 527 534	afebril
+T41	SYMPTOM 718 734	soplos cardíacos
+T42	SYMPTOM 831 844	plaquetopenia
+T43	SYMPTOM 1010 1021	albuminuria
+T44	SYMPTOM 2396 2414	registros febriles
+T45	SYMPTOM 2536 2562	inestabilidad hemodinámica
+T46	SYMPTOM 2707 2773	hemocultivos obtenidos fueron positivos para Staphilococcus Aureus
+T47	SYMPTOM 956 977	creatininemia elevada
+T48	SYMPTOM 1161 1173	HIV negativo
+T49	SYMPTOM 1201 1224	fondo de ojo fue normal
+T50	SYMPTOM 1275 1316	infiltrado intersticio-alveolar bilateral
+T51	SYMPTOM 1719 1742	infiltrados bilaterales
+T52	SYMPTOM 1124 1159	normales ( hematocrito, hepatograma
+T53	MEDICATION 1445 1456	cefotaxima/
+T54	MEDICATION 1471 1480	amikacina
+T55	MEDICATION 1510 1520	cefotaxime
+T56	MEDICATION 1537 1548	gentamicina
+T57	MEDICATION 2162 2174	clindamicina
+T58	MEDICATION 2821 2832	Vancomicina
+T59	MEDICATION 1457 1469	clindamicina
+T60	MEDICATION 1522 1534	clindamicina

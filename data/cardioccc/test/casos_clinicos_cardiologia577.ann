@@ -1,0 +1,169 @@
+T1	ENFERMEDAD 9215 9337	Accidente cerebro vascular (ACV) isquémico occipital izquierdo y fronto temporal izquierdo (con transformación hemorrágica
+T2	ENFERMEDAD 89 97	alergias
+T3	ENFERMEDAD 111 126	hábitos tóxicos
+T4	ENFERMEDAD 310 321	cardiopatía
+T5	ENFERMEDAD 353 368	prolapso mitral
+T6	ENFERMEDAD 373 402	insuficiencia mitral moderada
+T7	ENFERMEDAD 470 523	déficit cognitivo secundario a infección intrauterina
+T8	ENFERMEDAD 525 536	micrognatia
+T9	ENFERMEDAD 539 548	psoriasis
+T10	ENFERMEDAD 553 561	artrosis
+T11	ENFERMEDAD 721 733	valvulopatía
+T12	ENFERMEDAD 754 794	IAM evolucionado con onda Q anteroseptal
+T13	ENFERMEDAD 1997 2022	trombosis venosa profunda
+T14	ENFERMEDAD 2804 2819	Hernia de hiato
+T15	ENFERMEDAD 3278 3308	IAM en septo anterior y apical
+T16	ENFERMEDAD 3383 3406	abscesos perivalvulares
+T17	ENFERMEDAD 3455 3470	acinesia apical
+T18	ENFERMEDAD 3711 3746	insuficiencia mitral moderada-grave
+T19	ENFERMEDAD 3864 3884	perforación del velo
+T20	ENFERMEDAD 3937 3967	estenosis de la válvula mitral
+T21	ENFERMEDAD 4013 4032	derrame pericárdico
+T22	ENFERMEDAD 4526 4546	perforación del velo
+T23	ENFERMEDAD 4715 4740	insuficiencia tricuspídea
+T24	ENFERMEDAD 4776 4795	derrame pericárdico
+T25	ENFERMEDAD 4897 4902	gripe
+T26	ENFERMEDAD 5091 5106	hernia de hiato
+T27	ENFERMEDAD 5108 5121	Mioma uterino
+T28	ENFERMEDAD 5519 5537	embolismo sépticos
+T29	ENFERMEDAD 5665 5708	foco hemorrágico subagudo frontal izquierdo
+T30	ENFERMEDAD 5773 5790	embolismo séptico
+T31	ENFERMEDAD 5838 5864	infarto agudo de miocardio
+T32	ENFERMEDAD 6374 6408	vegetación en velo anterior mitral
+T33	ENFERMEDAD 6628 6654	infarto agudo de miocardio
+T34	ENFERMEDAD 6922 6942	oclusión en DA media
+T35	ENFERMEDAD 7216 7262	endocarditis subaguda en válvula mitral nativa
+T36	ENFERMEDAD 7500 7519	embolismos sépticos
+T37	ENFERMEDAD 7630 7638	abscesos
+T38	ENFERMEDAD 7695 7702	absceso
+T39	ENFERMEDAD 7869 7930	infección del tracto urinario por E coli y Enterococo faecium
+T40	ENFERMEDAD 8242 8275	prolapso del velo mitral anterior
+T41	ENFERMEDAD 8293 8322	insuficiencia mitral moderada
+T42	ENFERMEDAD 8449 8469	insuficiencia mitral
+T43	ENFERMEDAD 8471 8473	IM
+T44	ENFERMEDAD 8500 8523	vegetaciones valvulares
+T45	ENFERMEDAD 8918 9021	Endocarditis subaguda sobre válvula nativa mitral (velo anterior) por Estreptococo anginosus (viridans)
+T46	ENFERMEDAD 9078 9097	embolismos sépticos
+T47	ENFERMEDAD 9147 9167	oclusión en DA media
+T48	ENFERMEDAD 9243 9246	ACV
+T49	ENFERMEDAD 9353 9372	embolismos sépticos
+T50	ENFERMEDAD 9445 9498	Infecciones urinarias por E coli y Enterococo faecium
+T51	ENFERMEDAD 2991 3058	Necrosis miocárdica en ápex y segmentos anteroapical y anteroseptal
+T52	ENFERMEDAD 3186 3237	oclusión de arteria descendente anterior (DA) media
+T53	ENFERMEDAD 3969 3996	Aurícula izquierda dilatada
+T54	ENFERMEDAD 4191 4232	Moderada dilatación de aurícula izquierda
+T55	ENFERMEDAD 4302 4336	vegetación en velo anterior mitral
+T56	ENFERMEDAD 4367 4400	Prolapso valvular mitral del velo
+T57	ENFERMEDAD 4742 4771	Raíz aórtica de tamaño normal
+T58	ENFERMEDAD 9100 9142	Infarto agudo de miocardio apical embólico
+T59	ENFERMEDAD 8823 8838	descompensación
+T60	ENFERMEDAD 2821 2868	Tractos fibrocicatriciales apicales bilaterales
+T61	ENFERMEDAD 3603 3615	vegetaciones
+T62	ENFERMEDAD 5222 5287	foco hemorrágico de 10 x 7 mm en lóbulo fronto-parietal izquierdo
+T63	ENFERMEDAD 5631 5662	lesión isquémica aguda-subaguda
+T64	ENFERMEDAD 8226 8236	vegetación
+T65	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDIMIENTO 735 738	ECG
+T67	PROCEDIMIENTO 814 823	Anamnesis
+T68	PROCEDIMIENTO 1410 1428	Exploración física
+T69	PROCEDIMIENTO 1664 1685	Auscultación cardiaca
+T70	PROCEDIMIENTO 1755 1776	Auscultación pulmonar
+T71	PROCEDIMIENTO 2088 2091	ECG
+T72	PROCEDIMIENTO 2166 2169	ECG
+T73	PROCEDIMIENTO 2237 2270	Marcadores de necrosis miocárdica
+T74	PROCEDIMIENTO 2319 2338	Analítica sanguínea
+T75	PROCEDIMIENTO 2600 2609	Hemograma
+T76	PROCEDIMIENTO 2696 2707	Coagulación
+T77	PROCEDIMIENTO 2747 2767	Radiografía de tórax
+T78	PROCEDIMIENTO 2929 2974	Gammagrafía miocárdica de perfusión en reposo
+T79	PROCEDIMIENTO 3144 3184	Tomografía computarizada (TAC) coronario
+T80	PROCEDIMIENTO 3408 3436	Ecocardiograma transtorácico
+T81	PROCEDIMIENTO 3438 3441	ETT
+T82	PROCEDIMIENTO 4034 4048	Ecocardiograma
+T83	PROCEDIMIENTO 4797 4810	Microbiología
+T84	PROCEDIMIENTO 4812 4824	Hemocultivos
+T85	PROCEDIMIENTO 4860 4870	Urocultivo
+T86	PROCEDIMIENTO 4893 4933	PCR gripe y virus respiratorio sincitial
+T87	PROCEDIMIENTO 4962 4972	Urocultivo
+T88	PROCEDIMIENTO 5003 5015	Hemocultivos
+T89	PROCEDIMIENTO 5076 5089	TAC abdominal
+T90	PROCEDIMIENTO 5156 5176	TAC craneoencefálico
+T91	PROCEDIMIENTO 5415 5450	Resonancia magnética (RMN) cerebral
+T92	PROCEDIMIENTO 6038 6064	cultivos de sangre y orina
+T93	PROCEDIMIENTO 6066 6092	PCR de virus respiratorios
+T94	PROCEDIMIENTO 6107 6135	terapia antibiótica empírica
+T95	PROCEDIMIENTO 6219 6231	hemocultivos
+T96	PROCEDIMIENTO 6300 6303	ETT
+T97	PROCEDIMIENTO 6544 6573	ecocardiograma transesofágico
+T98	PROCEDIMIENTO 6730 6775	gammagrafía miocárdica de perfusión en reposo
+T99	PROCEDIMIENTO 6892 6905	TAC coronario
+T100	PROCEDIMIENTO 7411 7431	TAC craneoencefálico
+T101	PROCEDIMIENTO 7434 7445	RM cerebral
+T102	PROCEDIMIENTO 7522 7535	TAC abdominal
+T103	PROCEDIMIENTO 7662 7681	examen ginecológico
+T104	PROCEDIMIENTO 7810 7822	hemocultivos
+T105	PROCEDIMIENTO 7960 7974	antibioterapia
+T106	PROCEDIMIENTO 8075 8086	antibiótico
+T107	PROCEDIMIENTO 8160 8163	ETT
+T108	PROCEDIMIENTO 8640 8652	fisioterapia
+T109	PROCEDIMIENTO 9035 9049	antibioterapia
+T110	SINTOMA 978 995	dolor epigástrico
+T111	SINTOMA 998 1020	dolor abdominal difuso
+T112	SINTOMA 1090 1108	cortejo vegetativo
+T113	SINTOMA 1126 1132	disnea
+T114	SINTOMA 1145 1159	dolor torácico
+T115	SINTOMA 1179 1185	fiebre
+T116	SINTOMA 1326 1357	alteraciones del comportamiento
+T117	SINTOMA 1512 1519	Afebril
+T118	SINTOMA 1521 1531	Consciente
+T119	SINTOMA 1533 1542	orientada
+T120	SINTOMA 1544 1558	normohidratada
+T121	SINTOMA 1561 1571	perfundida
+T122	SINTOMA 1573 1591	eupneica en reposo
+T123	SINTOMA 1593 1601	Caquexia
+T124	SINTOMA 1635 1656	ingurgitación yugular
+T125	SINTOMA 1687 1712	ruidos cardiacos rítmicos
+T126	SINTOMA 1713 1735	soplo sistólico mitral
+T127	SINTOMA 1778 1807	murmullo vesicular conservado
+T128	SINTOMA 1809 1887	Abdomen: blando, depresible, peristaltismo conservado, doloroso a la palpación
+T129	SINTOMA 1915 1936	irritación peritoneal
+T130	SINTOMA 1941 1947	soplos
+T131	SINTOMA 1949 1983	Extremidades inferiores: no edemas
+T132	SINTOMA 2104 2123	taquicardia sinusal
+T133	SINTOMA 2135 2164	Elevación ST V1-V4 Q en V1 V2
+T134	SINTOMA 2179 2192	ritmo sinusal
+T135	SINTOMA 2207 2235	ondas T negativas de V1 a V4
+T136	SINTOMA 2769 2802	silueta cardiomediastínica normal
+T137	SINTOMA 3475 3503	función sistólica conservada
+T138	SINTOMA 4066 4144	ventrículo izquierdo de tamaño y grosor normales, con función sistólica límite
+T139	SINTOMA 4234 4261	Cavidades derechas normales
+T140	SINTOMA 4860 4891	Urocultivo 25/01/2020: negativo
+T141	SINTOMA 4893 4960	PCR gripe y virus respiratorio sincitial (VRS) 07/02/2020: negativa
+T142	SINTOMA 5947 5961	picos febriles
+T143	SINTOMA 6316 6331	acinesia apical
+T144	SINTOMA 7093 7107	dolor torácico
+T145	SINTOMA 7109 7149	Función sistólica VI residual conservada
+T146	SINTOMA 7310 7339	alteración del comportamiento
+T147	SINTOMA 7350 7372	dolor abdominal difuso
+T148	SINTOMA 1163 1170	síncope
+T149	SINTOMA 9427 9442	acinesia apical
+T150	SINTOMA 3516 3589	Masa visualizada en cara auricular de valva anterior en la válvula mitral
+T151	SINTOMA 8360 8410	función sistólica ventricular izquierda conservada
+T152	SINTOMA 9375 9411	Función sistólica VI residual límite
+T153	SINTOMA 1308 1321	inestabilidad
+T154	SINTOMA 1189 1210	semiología infecciosa
+T155	SINTOMA 5982 6003	semiología infecciosa
+T156	SINTOMA 2027 2061	pérdidas de continuidad de la piel
+T157	SINTOMA 3888 3925	afectación de la fibrosa mitroaórtica
+T158	SINTOMA 4812 4858	Hemocultivos 25/01/2020: Streptococo anginosus
+T159	SINTOMA 5548 5618	alteración de señal cortico yuxtacortical temporal occipital izquierda
+T160	SINTOMA 5452 5488	captación anular occipital izquierda
+T161	SINTOMA 6197 6231	S. anginosus en ambos hemocultivos
+T162	SINTOMA 6336 6351	FEVI conservada
+T163	SINTOMA 7154 7169	acinesia apical
+T164	SINTOMA 7522 7575	TAC abdominal en donde no se encontraron alteraciones
+T165	FARMACO 1036 1047	paracetamol
+T166	FARMACO 6235 6254	penicilina G sódica
+T167	FARMACO 6269 6280	gentamicina
+T168	FARMACO 8038 8049	ceftriaxona
+T169	FARMACO 8023 8033	penicilina

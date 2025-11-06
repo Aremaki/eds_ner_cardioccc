@@ -1,0 +1,67 @@
+T1	ENFERMEDAD 4035 4101	Taquicardia ventricular polimórfica no sostenida catecolaminérgica
+T2	ENFERMEDAD 3101 3110	arritmias
+T3	ENFERMEDAD 1880 1914	bloqueo completo de rama izquierda
+T4	ENFERMEDAD 1624 1643	derrame pericárdico
+T5	ENFERMEDAD 3115 3128	extrasistolia
+T6	ENFERMEDAD 2206 2231	extrasistolia ventricular
+T7	ENFERMEDAD 1788 1815	extrasístoles ventriculares
+T8	ENFERMEDAD 2737 2764	extrasístoles ventriculares
+T9	ENFERMEDAD 961 981	insuficiencia venosa
+T10	ENFERMEDAD 2711 2719	isquemia
+T11	ENFERMEDAD 3889 3917	miocardiopatía no compactada
+T12	ENFERMEDAD 309 336	síncope de perfil vasovagal
+T13	ENFERMEDAD 1714 1760	taquicardia ventricular polimorfa no sostenida
+T14	ENFERMEDAD 3802 3855	taquicardia ventricular polimórfica catecolaminérgica
+T15	ENFERMEDAD 2894 2933	taquicardias ventriculares polimórficas
+T16	ENFERMEDAD 985 1010	trombosis venosa profunda
+T17	ENFERMEDAD 268 275	infarto
+T18	PROCEDIMIENTO 603 630	auscultación cardiopulmonar
+T19	PROCEDIMIENTO 1040 1059	analítica de sangre
+T20	PROCEDIMIENTO 1081 1101	radiografía de tórax
+T21	PROCEDIMIENTO 1266 1284	electrocardiograma
+T22	PROCEDIMIENTO 1414 1443	ecocardiografía transtorácica
+T23	PROCEDIMIENTO 1648 1685	electrocardiograma Holter de 24 horas
+T24	PROCEDIMIENTO 2182 2192	telemetría
+T25	PROCEDIMIENTO 2312 2354	ecocardiograma transtorácico con contraste
+T26	PROCEDIMIENTO 2603 2640	ergometría simple sin betabloqueantes
+T27	PROCEDIMIENTO 2965 2992	terapia con betabloqueantes
+T28	PROCEDIMIENTO 3029 3039	ergometría
+T29	PROCEDIMIENTO 3185 3212	cardiorresonancia magnética
+T30	PROCEDIMIENTO 3540 3556	estudio genético
+T31	PROCEDIMIENTO 4114 4130	estudio genético
+T32	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T33	SINTOMA 115 128	palpitaciones
+T34	SINTOMA 412 422	normotensa
+T35	SINTOMA 425 432	afebril
+T36	SINTOMA 434 449	bien perfundida
+T37	SINTOMA 451 469	eupnéica en reposo
+T38	SINTOMA 476 510	buena coloración de piel y mucosas
+T39	SINTOMA 516 560	pulsos carotídeos eran rítmicos y simétricos
+T40	SINTOMA 577 598	ingurgitación yugular
+T41	SINTOMA 603 654	auscultación cardiopulmonar mostraba tonos rítmicos
+T42	SINTOMA 661 667	soplos
+T43	SINTOMA 672 701	murmullo vesicular conservado
+T44	SINTOMA 717 771	dolor a la palpación abdominal superficial ni profunda
+T45	SINTOMA 773 778	masas
+T46	SINTOMA 782 790	megalias
+T47	SINTOMA 797 833	ruidos hidroaéreos estaban presentes
+T48	SINTOMA 839 913	pulsos pedios y tibiales posteriores se encontraban presentes y simétricos
+T49	SINTOMA 928 945	edemas maleolares
+T50	SINTOMA 1113 1136	silueta cardiaca normal
+T51	SINTOMA 1142 1181	alteraciones en la trama broncovascular
+T52	SINTOMA 1185 1224	infiltrados alveolares o intersticiales
+T53	SINTOMA 1296 1309	ritmo sinusal
+T54	SINTOMA 1344 1356	QRS estrecho
+T55	SINTOMA 1362 1408	alteraciones del segmento ST ni de las ondas T
+T56	SINTOMA 1464 1513	ventrículo izquierdo no dilatado ni hipertrofiado
+T57	SINTOMA 1579 1610	fracción de eyección conservada
+T58	SINTOMA 4147 4181	Ventrículo izquierdo no compactado
+T59	SINTOMA 143 151	síncopes
+T60	SINTOMA 2078 2145	metanefrinas y ácido vanilmandélico en orina de 24 horas fue normal
+T61	SINTOMA 3513 3528	FEVI conservada
+T62	SINTOMA 3981 3993	asintomática
+T63	SINTOMA 168 193	estrés físico y emocional
+T64	SINTOMA 1040 1075	analítica de sangre resultó anodina
+T65	SINTOMA 1227 1261	ángulos costodiafragmáticos libres
+T66	SINTOMA 1937 1970	fenómenos frecuentes de R sobre T
+T67	SINTOMA 3600 3654	variante 1:237947553 G/A en heterocigosis del gen RyR2

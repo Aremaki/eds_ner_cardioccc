@@ -1,0 +1,43 @@
+T1	DISEASE 85 94	diabético
+T2	DISEASE 100 124	enfermedad renal crónica
+T3	DISEASE 127 166	enfermedad pulmonar obstructiva crónica
+T4	DISEASE 239 276	estenosis aórtica severa degenerativa
+T5	DISEASE 600 633	insuficiencia cardiaca congestiva
+T6	DISEASE 941 974	hipertorfia ventricular izquierda
+T7	DISEASE 1006 1034	insuficiencia aórtica severa
+T8	DISEASE 1187 1212	insuficiencia mitral leve
+T9	DISEASE 2266 2293	disfunción protésica tardía
+T10	DISEASE 2314 2349	insuficiencia intraprotésica severa
+T11	DISEASE 3327 3340	insuficiencia
+T12	DISEASE 3529 3558	degeneración protésica tardía
+T13	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T14	PROCEDURE 294 361	recambio valvular aórtico con una prótesis biológica Mitroflow No23
+T15	PROCEDURE 366 395	ecocardiografía transtorácica
+T16	PROCEDURE 397 400	ETT
+T17	PROCEDURE 681 699	exploración física
+T18	PROCEDURE 899 902	ECG
+T19	PROCEDURE 1001 1004	ETT
+T20	PROCEDURE 1214 1229	Coronariografía
+T21	PROCEDURE 1270 1279	Angio-TAC
+T22	PROCEDURE 2526 2621	implante de TAVI Evolut N23 por acceso femoral derecho mediante procedimiento de valve in valve
+T23	PROCEDURE 2665 2736	guía en el tronco coronario izquierdo durante el implante de la válvula
+T24	PROCEDURE 2754 2769	coronariografía
+T25	PROCEDURE 2831 2856	liberación de la prótesis
+T26	PROCEDURE 2867 2911	colocación como la liberación de la prótesis
+T27	PROCEDURE 2968 2979	angiografía
+T28	PROCEDURE 3166 3176	extubación
+T29	PROCEDURE 3234 3237	ETT
+T30	PROCEDURE 3414 3508	Implante de prótesis aórtica transcatéter tipo Evolut mediante procedimiento de valve in valve
+T31	SYMPTOM 549 561	asintomático
+T32	SYMPTOM 723 729	RsCsRs
+T33	SYMPTOM 734 764	Soplo sistólico III/VI aórtico
+T34	SYMPTOM 769 785	Soplo diastólico
+T35	SYMPTOM 793 796	MVC
+T36	SYMPTOM 801 824	crepitantes bilaterales
+T37	SYMPTOM 826 840	Abdomen normal
+T38	SYMPTOM 842 872	Miembros inferiores sin edemas
+T39	SYMPTOM 914 927	ritmo sinusal
+T40	SYMPTOM 977 999	anchura del QRS normal
+T41	SYMPTOM 1107 1150	función del ventrículo izquierdo era normal
+T42	SYMPTOM 3362 3374	asintomático
+T43	SYMPTOM 1235 1268	arterias coronarias eran normales

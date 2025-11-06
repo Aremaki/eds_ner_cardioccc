@@ -1,0 +1,149 @@
+T1	DISEASE 6309 6325	flúter auricular
+T2	DISEASE 136 157	hipertensión arterial
+T3	DISEASE 159 169	dislipemia
+T4	DISEASE 172 189	tabaquismo activo
+T5	DISEASE 374 406	fibrilación auricular permanente
+T6	DISEASE 494 510	debut embolígeno
+T7	DISEASE 535 566	accidente isquémico transitorio
+T8	DISEASE 571 592	secuelas neurológicas
+T9	DISEASE 610 634	enfermedad renal crónica
+T10	DISEASE 648 679	artrosis poliarticular moderada
+T11	DISEASE 1943 1955	ascitis leve
+T12	DISEASE 2062 2086	flúter auricular atípico
+T13	DISEASE 2153 2159	BCRDHH
+T14	DISEASE 2595 2620	Derrame pleural bilateral
+T15	DISEASE 2865 2885	Insuficiencia ligera
+T16	DISEASE 2977 2997	Insuficiencia ligera
+T17	DISEASE 3546 3565	derrame pericárdico
+T18	DISEASE 4459 4490	disfunción biventricular severa
+T19	DISEASE 4669 4689	enfermedad coronaria
+T20	DISEASE 4742 4771	insuficiencia cardiaca global
+T21	DISEASE 4776 4800	disfunción biventricular
+T22	DISEASE 5863 5885	insuficiencia cardiaca
+T23	DISEASE 6012 6053	descompensación de insuficiencia cardiaca
+T24	DISEASE 6155 6184	insuficiencia cardiaca global
+T25	DISEASE 6679 6715	insuficiencia cardiaca descompensada
+T26	DISEASE 6773 6804	disfunción biventricular severa
+T27	DISEASE 7421 7449	insuficiencia cardiaca aguda
+T28	DISEASE 7911 7933	insuficiencia cardiaca
+T29	DISEASE 7979 8001	insuficiencia cardiaca
+T30	DISEASE 8209 8228	Taquimiocardiopatía
+T31	DISEASE 8301 8332	Disfunción biventricular severa
+T32	DISEASE 8412 8434	Valvulopatía reumática
+T33	DISEASE 2623 2650	infiltrado hiliar bilateral
+T34	DISEASE 3133 3191	Ventrículo izquierdo no dilatado, ligeramente hipertrófico
+T35	DISEASE 3392 3431	Aurícula izquierda ligeramente dilatada
+T36	DISEASE 3433 3470	Aurícula derecha ligeramente dilatada
+T37	DISEASE 3472 3527	Ventrículo derecho dilatado, severamente hipocontráctil
+T38	DISEASE 3588 3615	Vena cava inferior dilatada
+T39	DISEASE 4230 4246	flúter auricular
+T40	DISEASE 5711 5717	flúter
+T41	DISEASE 6858 6864	flúter
+T42	DISEASE 3043 3072	Insuficiencia ligera-moderada
+T43	DISEASE 4504 4522	congestión derecha
+T44	DISEASE 4570 4592	dilatación biauricular
+T45	DISEASE 6485 6508	amiodarona en perfusión
+T46	DISEASE 4814 4833	taquimiocardiopatía
+T47	DISEASE 5484 5490	flúter
+T48	DISEASE 8242 8299	flúter auricular atípico con respuesta ventricular rápida
+T49	PROCEDURE 3883 3909	digitalización intravenosa
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 1467 1485	Exploración física
+T52	PROCEDURE 1491 1509	exploración física
+T53	PROCEDURE 2019 2037	Electrocardiograma
+T54	PROCEDURE 2161 2180	Analítica de sangre
+T55	PROCEDURE 2276 2295	gasometría arterial
+T56	PROCEDURE 2540 2560	Radiografía de tórax
+T57	PROCEDURE 2689 2717	Ecocardiograma transtorácico
+T58	PROCEDURE 3773 3817	soporte ventilatorio no invasivo con Bi- PAP
+T59	PROCEDURE 3819 3840	diurético intravenoso
+T60	PROCEDURE 4076 4091	betabloqueantes
+T61	PROCEDURE 4303 4317	ecocardiograma
+T62	PROCEDURE 4641 4656	coronariografía
+T63	PROCEDURE 5076 5091	betabloqueantes
+T64	PROCEDURE 5405 5422	electrofisiología
+T65	PROCEDURE 5460 5527	ablación de sustrato de flúter atípico requiriendo acceso izquierdo
+T66	PROCEDURE 5551 5590	estudio electrofisiológico endovascular
+T67	PROCEDURE 5605 5628	cardioversión eléctrica
+T68	PROCEDURE 6287 6290	ECG
+T69	PROCEDURE 6434 6457	ventilación no invasiva
+T70	PROCEDURE 6522 6537	betabloqueantes
+T71	PROCEDURE 6733 6752	taquimiocardiopatía
+T72	PROCEDURE 6948 6961	anticoagulada
+T73	PROCEDURE 6987 7046	implante de marcapasos-terapia de resincronización cardiaca
+T74	PROCEDURE 7086 7123	ablación de nodo aurículo-ventricular
+T75	PROCEDURE 7163 7216	implanta MCP-TRC endocavitario vía cefálica izquierda
+T76	PROCEDURE 7739 7777	ablación de nodo aurículo- ventricular
+T77	PROCEDURE 8007 8021	ecocardiograma
+T78	PROCEDURE 8334 8393	Implante de marcapasos-terapia de resincronización cardiaca
+T79	PROCEDURE 8396 8410	ablación nodal
+T80	PROCEDURE 448 473	anticoagulada con sintrom
+T81	PROCEDURE 7048 7055	MCP-TRC
+T82	SYMPTOM 307 337	función ventricular preservada
+T83	SYMPTOM 911 926	dolor articular
+T84	SYMPTOM 1065 1113	disnea que ha progresado hasta hacerse de reposo
+T85	SYMPTOM 1115 1123	ortopnea
+T86	SYMPTOM 1184 1211	disnea paroxística nocturna
+T87	SYMPTOM 1230 1238	oliguria
+T88	SYMPTOM 1240 1261	edemas hasta rodillas
+T89	SYMPTOM 1320 1333	palpitaciones
+T90	SYMPTOM 1593 1604	taquipneica
+T91	SYMPTOM 1609 1627	habla entrecortada
+T92	SYMPTOM 1669 1697	ingurgitación venosa yugular
+T93	SYMPTOM 1727 1767	repleción venosa hasta ángulo mandibular
+T94	SYMPTOM 1772 1802	reflujo hepatoyugular positivo
+T95	SYMPTOM 1837 1869	abdomen moderadamente distendido
+T96	SYMPTOM 1874 1910	hepatomegalia de 3 traveses dolorosa
+T97	SYMPTOM 1959 1992	edemas hasta 1/3 distal de muslos
+T98	SYMPTOM 2125 2134	QRS ancho
+T99	SYMPTOM 2493 2538	Proteína C reactiva y procalcitonina normales
+T100	SYMPTOM 2562 2593	índice cardiotorácico aumentado
+T101	SYMPTOM 4126 4144	signos congestivos
+T102	SYMPTOM 6196 6209	palpitaciones
+T103	SYMPTOM 7502 7512	euvolémica
+T104	SYMPTOM 2999 3041	Válvula tricúspide morfológicamente normal
+T105	SYMPTOM 3133 3165	Ventrículo izquierdo no dilatado
+T106	SYMPTOM 3197 3243	función sistólica global severamente deprimida
+T107	SYMPTOM 3277 3286	Aquinesia
+T108	SYMPTOM 3567 3586	Raíz aórtica normal
+T109	SYMPTOM 8159 8194	normofunción del ventrículo derecho
+T110	SYMPTOM 3361 3373	Hipoquinesia
+T111	SYMPTOM 3671 3694	compromiso respiratorio
+T112	SYMPTOM 1804 1835	crepitantes hasta campos medios
+T113	SYMPTOM 5699 5706	estable
+T114	SYMPTOM 5968 5975	estable
+T115	SYMPTOM 7493 7500	estable
+T116	SYMPTOM 7946 7953	estable
+T117	SYMPTOM 2247 2261	fórmula normal
+T118	SYMPTOM 4953 4972	síntoma congestivos
+T119	SYMPTOM 2664 2687	redistribución vascular
+T120	SYMPTOM 1264 1297	sensación de distensión abdominal
+T121	SYMPTOM 5686 5696	euvolémica
+T122	SYMPTOM 1411 1441	frecuencias cardiacas elevadas
+T123	SYMPTOM 3472 3499	Ventrículo derecho dilatado
+T124	SYMPTOM 4919 4939	trabajo respiratorio
+T125	MEDICATION 466 473	sintrom
+T126	MEDICATION 703 715	acenocumarol
+T127	MEDICATION 762 771	enalapril
+T128	MEDICATION 785 795	bisoprolol
+T129	MEDICATION 810 823	atorvastatina
+T130	MEDICATION 843 852	omeprazol
+T131	MEDICATION 868 879	paracetamol
+T132	MEDICATION 882 891	metamizol
+T133	MEDICATION 3955 3963	digoxina
+T134	MEDICATION 4051 4061	amiodarona
+T135	MEDICATION 4984 4994	amiodarona
+T136	MEDICATION 5141 5149	digoxina
+T137	MEDICATION 5207 5222	espironolactona
+T138	MEDICATION 5238 5248	furosemida
+T139	MEDICATION 5282 5291	enalapril
+T140	MEDICATION 5312 5324	acenocumarol
+T141	MEDICATION 6459 6469	furosemida
+T142	MEDICATION 6485 6495	amiodarona
+T143	MEDICATION 6540 6548	digoxina
+T144	MEDICATION 7268 7278	bisoprolol
+T145	MEDICATION 7542 7552	furosemida
+T146	MEDICATION 7567 7579	acenocumarol
+T147	MEDICATION 7593 7608	espironolactona
+T148	MEDICATION 7623 7632	enalapril
+T149	MEDICATION 7655 7665	bisoprolol

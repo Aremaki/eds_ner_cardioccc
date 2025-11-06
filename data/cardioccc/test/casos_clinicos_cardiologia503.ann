@@ -1,0 +1,98 @@
+T1	ENFERMEDAD 2768 2818	Vasoespasmo coronario de arteria coronaria derecha
+T2	ENFERMEDAD 162 169	Fumador
+T3	ENFERMEDAD 205 215	dislipemia
+T4	ENFERMEDAD 249 266	diabetes mellitus
+T5	ENFERMEDAD 270 291	hipertensión arterial
+T6	ENFERMEDAD 1335 1344	trombosis
+T7	ENFERMEDAD 2094 2114	Insuficiencia mitral
+T8	ENFERMEDAD 2203 2222	derrame pericárdico
+T9	ENFERMEDAD 2400 2422	Ramo bisectriz: lesión
+T10	ENFERMEDAD 3250 3260	dislipemia
+T11	ENFERMEDAD 3263 3273	tabaquismo
+T12	ENFERMEDAD 3303 3321	angina de esfuerzo
+T13	ENFERMEDAD 3382 3411	enfermedad arterial coronaria
+T14	ENFERMEDAD 3749 3800	lesiones ligeras en ramo bisectriz y en Cx proximal
+T15	ENFERMEDAD 4395 4401	angina
+T16	ENFERMEDAD 4588 4594	angina
+T17	ENFERMEDAD 4666 4686	angina vasoespástica
+T18	ENFERMEDAD 4919 4939	Angina vasoespástica
+T19	ENFERMEDAD 2449 2484	Arteria circunfleja (Cx) con lesión
+T20	ENFERMEDAD 2507 2595	Arteria coronaria derecha (CD) con pseudoestenosis de grado severo por espasmo coronario
+T21	ENFERMEDAD 4265 4276	vasoespasmo
+T22	ENFERMEDAD 4941 5020	Espasmo de arteria coronaria derecha desencadenado por manipulación con catéter
+T23	ENFERMEDAD 4703 4750	vasoespasmo severo durante cateterismo cardiaco
+T24	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDIMIENTO 235 244	estatinas
+T26	PROCEDIMIENTO 914 932	Exploración física
+T27	PROCEDIMIENTO 1042 1065	exploración neurológica
+T28	PROCEDIMIENTO 1074 1095	Auscultación pulmonar
+T29	PROCEDIMIENTO 1131 1143	Auscultación
+T30	PROCEDIMIENTO 1602 1620	Electrocardiograma
+T31	PROCEDIMIENTO 1622 1625	ECG
+T32	PROCEDIMIENTO 1757 1777	Radiografía de tórax
+T33	PROCEDIMIENTO 1860 1888	Ecocardiograma transtorácico
+T34	PROCEDIMIENTO 2224 2265	Coronariografía: acceso radial derecho 5F
+T35	PROCEDIMIENTO 2267 2287	Cateterismo cardiaco
+T36	PROCEDIMIENTO 2941 2959	exploración física
+T37	PROCEDIMIENTO 2976 2979	ECG
+T38	PROCEDIMIENTO 3025 3053	ecocardiograma transtorácico
+T39	PROCEDIMIENTO 3055 3058	ETT
+T40	PROCEDIMIENTO 3351 3366	coronariografía
+T41	PROCEDIMIENTO 3441 3461	cateterismo cardiaco
+T42	PROCEDIMIENTO 3535 3538	ECG
+T43	PROCEDIMIENTO 3617 3636	analítica sanguínea
+T44	PROCEDIMIENTO 3663 3706	cateterismo cardiaco por vía radial derecha
+T45	PROCEDIMIENTO 3728 3731	TCI
+T46	PROCEDIMIENTO 3877 3899	inyección de contraste
+T47	PROCEDIMIENTO 4152 4166	monitorización
+T48	PROCEDIMIENTO 4477 4499	inyección de contraste
+T49	PROCEDIMIENTO 4624 4639	coronariografía
+T50	PROCEDIMIENTO 4730 4750	cateterismo cardiaco
+T51	PROCEDIMIENTO 4785 4803	calcioantagonistas
+T52	PROCEDIMIENTO 4806 4848	nitratos de acción prolongada por vía oral
+T53	PROCEDIMIENTO 1371 1390	Analítica de sangre
+T54	PROCEDIMIENTO 2649 2678	nitroglicerina intracoronaria
+T55	PROCEDIMIENTO 3817 3831	se canalizó CD
+T56	PROCEDIMIENTO 4324 4353	nitroglicerina intracoronaria
+T57	SINTOMA 397 411	dolor torácico
+T58	SINTOMA 619 637	cortejo vegetativo
+T59	SINTOMA 797 811	dolor torácico
+T60	SINTOMA 1018 1028	consciente
+T61	SINTOMA 1031 1040	orientado
+T62	SINTOMA 1042 1072	exploración neurológica normal
+T63	SINTOMA 1100 1129	murmullo vesicular conservado
+T64	SINTOMA 1147 1170	ruidos cardiacos normal
+T65	SINTOMA 1176 1182	soplos
+T66	SINTOMA 1186 1196	extratonos
+T67	SINTOMA 1201 1216	roce pericardio
+T68	SINTOMA 1218 1250	Cuello sin ingurgitación yugular
+T69	SINTOMA 1252 1285	Abdomen sin hallazgos patológicos
+T70	SINTOMA 1287 1321	Extremidades inferiores sin edemas
+T71	SINTOMA 1634 1647	ritmo sinusal
+T72	SINTOMA 1658 1711	escaso crecimiento de onda R en precordiales derechas
+T73	SINTOMA 1722 1755	alteraciones de la repolarización
+T74	SINTOMA 1779 1802	silueta cardiaca normal
+T75	SINTOMA 1890 1934	ventrículo izquierdo de dimensiones normales
+T76	SINTOMA 1960 1988	Función sistólica conservada
+T77	SINTOMA 2067 2092	Aurícula izquierda normal
+T78	SINTOMA 2171 2198	Cavidades derechas normales
+T79	SINTOMA 2924 2936	asintomático
+T80	SINTOMA 2941 2970	exploración física era normal
+T81	SINTOMA 2984 3012	cambios en la repolarización
+T82	SINTOMA 3025 3080	ecocardiograma transtorácico (ETT) basal que era normal
+T83	SINTOMA 3086 3135	función global de ventrículo izquierdo conservada
+T84	SINTOMA 3488 3500	asintomático
+T85	SINTOMA 4024 4038	dolor torácico
+T86	SINTOMA 4100 4145	elevación del segmento ST en la derivación II
+T87	SINTOMA 4408 4441	alteraciones en la repolarización
+T88	SINTOMA 2041 2065	Patrón diastólico normal
+T89	SINTOMA 2132 2169	Raíz aórtica y válvula aórtica normal
+T90	SINTOMA 2309 2350	Tronco común izquierdo (TCI) sin lesiones
+T91	SINTOMA 2352 2398	Arteria descendente anterior (DA) sin lesiones
+T92	SINTOMA 2693 2766	arterias coronarias epicárdicas sin lesiones hagiográficas significativas
+T93	SINTOMA 3514 3530	clínica anginosa
+T94	SINTOMA 2289 2307	dominancia derecha
+T95	SINTOMA 3617 3650	analítica sanguínea eran normales
+T96	SINTOMA 3924 3950	CD media una pseudo lesión
+T97	FARMACO 2649 2663	nitroglicerina
+T98	FARMACO 4324 4338	nitroglicerina

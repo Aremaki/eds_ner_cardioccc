@@ -1,0 +1,68 @@
+T1	ENFERMEDAD 809 829	insuficiencia mitral
+T2	ENFERMEDAD 1377 1427	shunt izquierda- derecha a través del foramen oval
+T3	ENFERMEDAD 1695 1709	fibroelastosis
+T4	ENFERMEDAD 2054 2090	origen anómalo coronario desde la AP
+T5	ENFERMEDAD 2260 2266	ALCAPA
+T6	ENFERMEDAD 2268 2324	Anomalous Left Coronary Artery from the Pulmonary Artery
+T7	ENFERMEDAD 2343 2374	síndrome de Bland-White-Garland
+T8	ENFERMEDAD 4092 4098	ALCAPA
+T9	ENFERMEDAD 4100 4156	Anomalous Left Coronary Artery from the Pulmonary Artery
+T10	ENFERMEDAD 4159 4190	Síndrome de Bland-White-Garland
+T11	ENFERMEDAD 4193 4231	Insuficiencia Mitral severa secundaria
+T12	ENFERMEDAD 831 833	IM
+T13	ENFERMEDAD 1444 1446	IM
+T14	ENFERMEDAD 3347 3349	IM
+T15	ENFERMEDAD 3824 3848	IM se catalogó como leve
+T16	ENFERMEDAD 1020 1049	ventrículo izquierdo dilatado
+T17	ENFERMEDAD 1267 1305	aurícula izquierda estaba muy dilatada
+T18	ENFERMEDAD 2178 2224	tronco coronario izquierdo emergiendo de la AP
+T19	ENFERMEDAD 3139 3167	dilatación del anillo mitral
+T20	ENFERMEDAD 727 762	crecimiento de cavidades izquierdas
+T21	ENFERMEDAD 2542 2590	lesiones presentes en el aparato valvular mitral
+T22	ENFERMEDAD 2759 2805	salida del tronco coronario izquierdo de la AP
+T23	PROCEDIMIENTO 634 652	electrocardiograma
+T24	PROCEDIMIENTO 864 892	ecocardiograma transtorácico
+T25	PROCEDIMIENTO 894 897	ETT
+T26	PROCEDIMIENTO 914 917	ETT
+T27	PROCEDIMIENTO 1722 1752	estudio de la arteria pulmonar
+T28	PROCEDIMIENTO 2016 2019	ETT
+T29	PROCEDIMIENTO 2106 2119	TAC coronario
+T30	PROCEDIMIENTO 2124 2137	TAC coronario
+T31	PROCEDIMIENTO 2458 2478	reimplante coronario
+T32	PROCEDIMIENTO 2481 2523	cirugía reparadora sobre la válvula mitral
+T33	PROCEDIMIENTO 2608 2611	ETT
+T34	PROCEDIMIENTO 2659 2679	reimplante coronario
+T35	PROCEDIMIENTO 2728 2740	esternotomía
+T36	PROCEDIMIENTO 2826 2865	resección del botón coronario izquierdo
+T37	PROCEDIMIENTO 2870 2925	anastomosis a la pared posterior de la aorta ascendente
+T38	PROCEDIMIENTO 2928 2940	cierre de AP
+T39	PROCEDIMIENTO 2966 3095	plastia mitral con sutura de la comisura anterior hasta un tercio de la válvula mitral y sutura de pseudo-cleft de velo posterior
+T40	PROCEDIMIENTO 3282 3285	ETT
+T41	PROCEDIMIENTO 3573 3576	ETT
+T42	PROCEDIMIENTO 3898 3914	plicatura mitral
+T43	PROCEDIMIENTO 4233 4264	Cirugía de reimplante coronario
+T44	PROCEDIMIENTO 4267 4281	plastia mitral
+T45	PROCEDIMIENTO 1794 1807	Doppler color
+T46	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDIMIENTO 768 783	ecocardioscopia
+T48	PROCEDIMIENTO 444 455	exploración
+T49	PROCEDIMIENTO 2692 2704	intervención
+T50	SINTOMA 352 376	fatiga durante las tomas
+T51	SINTOMA 456 464	cianosis
+T52	SINTOMA 468 487	tiraje respiratorio
+T53	SINTOMA 493 531	pulsos periféricos estaban conservados
+T54	SINTOMA 565 580	soplo sistólico
+T55	SINTOMA 1085 1148	fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T56	SINTOMA 668 687	taquicardia sinusal
+T57	SINTOMA 203 208	soplo
+T58	SINTOMA 1165 1186	hipoquinesia inferior
+T59	SINTOMA 1311 1374	abombamiento del septo interauricular hacia la aurícula derecha
+T60	SINTOMA 3538 3550	asintomática
+T61	SINTOMA 956 1011	concordancia aurículo-ventricular y ventrículo-arterial
+T62	SINTOMA 929 942	situs solitus
+T63	SINTOMA 381 420	desarrollo estaturo-ponderal era normal
+T64	SINTOMA 944 954	levocardia
+T65	FARMACO 273 283	vitamina D
+#1	AnnotatorNotes T5	 anomalous left coronary artery from the pulmonary artery
+#2	AnnotatorNotes T8	 anomalous left coronary artery from the pulmonary artery
+#3	AnnotatorNotes T13	 insuficiencia mitral

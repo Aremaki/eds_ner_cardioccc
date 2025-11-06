@@ -1,0 +1,105 @@
+T1	DISEASE 139 149	tabaquismo
+T2	DISEASE 151 172	hipertensión arterial
+T3	DISEASE 174 211	diabetes mellitus insulinodependiente
+T4	DISEASE 214 222	obesidad
+T5	DISEASE 260 281	cardiopatía isquémica
+T6	DISEASE 388 414	insuficiencia mitral grave
+T7	DISEASE 538 564	infarto agudo de miocardio
+T8	DISEASE 566 569	IAM
+T9	DISEASE 593 647	fibrilación auricular con respuesta ventricular rápida
+T10	DISEASE 760 786	aneurisma iliaco y femoral
+T11	DISEASE 851 889	disfunción ventricular izquierda grave
+T12	DISEASE 971 1001	insuficiencia aórtica moderada
+T13	DISEASE 1555 1591	isquemia crítica de miembro inferior
+T14	DISEASE 1604 1647	trombosis de bypass fémoro-poplíteo derecho
+T15	DISEASE 2231 2252	edema agudo de pulmón
+T16	DISEASE 2825 2846	fibrilación auricular
+T17	DISEASE 4300 4315	trombo valvular
+T18	DISEASE 5953 5975	Estenosis mitral grave
+T19	DISEASE 6090 6134	Insuficiencia cardiaca crónica descompensada
+T20	DISEASE 2637 2650	hepatomegalia
+T21	DISEASE 3782 3788	trombo
+T22	DISEASE 4852 4858	trombo
+T23	DISEASE 3738 3766	regurgitación intraprotésica
+T24	DISEASE 941 968	insuficiencia periprotésica
+T25	DISEASE 5980 6015	trombosis protésica valvular mitral
+T26	PROCEDURE 303 331	revascularización quirúrgica
+T27	PROCEDURE 334 383	sustitución valvular mitral con prótesis mecánica
+T28	PROCEDURE 435 469	implante de marcapasos monocameral
+T29	PROCEDURE 474 510	ablación de nodo auriculoventricular
+T30	PROCEDURE 678 703	amputación de pie derecho
+T31	PROCEDURE 706 736	bypass fémoro-poplíteo derecho
+T32	PROCEDURE 808 822	ecocardiograma
+T33	PROCEDURE 891 906	prótesis mitral
+T34	PROCEDURE 1474 1502	oxígeno crónico domiciliario
+T35	PROCEDURE 1617 1647	bypass fémoro-poplíteo derecho
+T36	PROCEDURE 1662 1699	bypass fémoro-tibial anterior derecho
+T37	PROCEDURE 1757 1809	anticoagulación con heparinas de bajo peso molecular
+T38	PROCEDURE 1811 1815	HBPM
+T39	PROCEDURE 2311 2329	EXPLORACIÓN FÍSICA
+T40	PROCEDURE 2418 2431	gafas nasales
+T41	PROCEDURE 2476 2497	Auscultación cardiaca
+T42	PROCEDURE 2545 2566	Auscultación pulmonar
+T43	PROCEDURE 2753 2778	amputación de pie derecho
+T44	PROCEDURE 2805 2823	Electrocardiograma
+T45	PROCEDURE 2920 2931	Radiografía
+T46	PROCEDURE 3019 3037	Análisis de sangre
+T47	PROCEDURE 3201 3224	Gasometría basal venosa
+T48	PROCEDURE 3320 3329	Hemograma
+T49	PROCEDURE 3428 3439	Coagulación
+T50	PROCEDURE 3535 3564	Ecocardiograma transesofágico
+T51	PROCEDURE 3892 3911	Angio-TAC coronario
+T52	PROCEDURE 4385 4410	tratamiento fibrinolítico
+T53	PROCEDURE 4412 4423	Radioscopia
+T54	PROCEDURE 4531 4559	Ecocardiograma transtorácico
+T55	PROCEDURE 4569 4581	fibrinolisis
+T56	PROCEDURE 4654 4666	fibrinolisis
+T57	PROCEDURE 4741 4767	tratamiento antitrombótico
+T58	PROCEDURE 4977 5005	cirugía de recambio valvular
+T59	PROCEDURE 5105 5130	tratamiento fibrinolítico
+T60	PROCEDURE 5271 5283	fibrinolisis
+T61	PROCEDURE 5685 5697	fibrinólisis
+T62	PROCEDURE 6062 6088	tratamiento anticoagulante
+T63	PROCEDURE 6213 6225	fibrinolisis
+T64	PROCEDURE 3039 3049	Bioquímica
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 5208 5227	angio-TAC coronario
+T67	PROCEDURE 1276 1287	hematología
+T68	PROCEDURE 2152 2196	tratamiento con diuréticos y vasodilatadores
+T69	PROCEDURE 2702 2725	Extremidades inferiores
+T70	SYMPTOM 1984 2000	disnea de reposo
+T71	SYMPTOM 2002 2029	disnea paroxística nocturna
+T72	SYMPTOM 2031 2039	ortopnea
+T73	SYMPTOM 2041 2049	oliguria
+T74	SYMPTOM 2052 2081	edemas en miembros inferiores
+T75	SYMPTOM 2086 2100	dolor torácico
+T76	SYMPTOM 2444 2474	presión venosa yugular elevada
+T77	SYMPTOM 2499 2543	ruidos cardiacos rítmicos con clic protésico
+T78	SYMPTOM 2601 2631	Abdomen: globuloso, depresible
+T79	SYMPTOM 2727 2748	edemas hasta rodillas
+T80	SYMPTOM 2933 2970	índice cardiotorácico (ICT) aumentado
+T81	SYMPTOM 2976 2997	cefalización vascular
+T82	SYMPTOM 2999 3017	líneas B de Kerley
+T83	SYMPTOM 4595 4632	disminución del gradiente transmitral
+T84	SYMPTOM 3353 3380	fórmula leucocitaria normal
+T85	SYMPTOM 5863 5872	hematuria
+T86	SYMPTOM 2568 2599	crepitantes hasta campos medios
+T87	SYMPTOM 5420 5437	diuresis adecuada
+T88	SYMPTOM 5388 5406	signos congestivos
+T89	SYMPTOM 5466 5499	parámetros hemodinámicos estables
+T90	SYMPTOM 5825 5843	evento hemorrágico
+T91	MEDICATION 1025 1046	sacubitrilo/valsartán
+T92	MEDICATION 1108 1118	metoprolol
+T93	MEDICATION 1177 1187	furosemida
+T94	MEDICATION 1248 1260	acenocumarol
+T95	MEDICATION 1324 1334	eplerenona
+T96	MEDICATION 1369 1382	atorvastatina
+T97	MEDICATION 1413 1435	salmeterol/fluticasona
+T98	MEDICATION 1732 1744	acenocumarol
+T99	MEDICATION 4772 4787	heparina sódica
+T100	MEDICATION 4789 4801	acenocumarol
+T101	MEDICATION 4804 4815	clopidogrel
+T102	MEDICATION 5152 5161	alteplasa
+T103	MEDICATION 5320 5329	alteplasa
+T104	MEDICATION 5442 5452	furosemida
+T105	MEDICATION 1289 1304	insulina lantus

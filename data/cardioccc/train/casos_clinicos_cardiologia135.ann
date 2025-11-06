@@ -1,0 +1,123 @@
+T1	DISEASE 262 314	Cardiopatía Isquémica: tipo infarto inferior silente
+T2	DISEASE 339 384	Infarto de miocardio de localización anterior
+T3	DISEASE 477 540	lesión intermedia en arteria descendente anterior y circunfleja
+T4	DISEASE 543 565	oclusión crónica de CD
+T5	DISEASE 678 699	Hipertensión arterial
+T6	DISEASE 701 711	Dislipemia
+T7	DISEASE 713 721	Obesidad
+T8	DISEASE 727 735	fumadora
+T9	DISEASE 770 806	Insuficiencia Venosa Crónica de MMII
+T10	DISEASE 840 860	enfermedad de Chagas
+T11	DISEASE 863 883	infarto de miocardio
+T12	DISEASE 2277 2303	Insuficiencia respiratoria
+T13	DISEASE 2748 2761	cardiomegalia
+T14	DISEASE 2805 2830	Derrame pleural bilateral
+T15	DISEASE 3810 3842	insuficiencia respiratoria aguda
+T16	DISEASE 3903 3927	tromboembolismo pulmonar
+T17	DISEASE 4289 4312	miocardiopatía dilatada
+T18	DISEASE 4742 4770	enfermedad crónica de Chagas
+T19	DISEASE 4780 4809	disfunción ventricular severa
+T20	DISEASE 5090 5111	cardiopatía isquémica
+T21	DISEASE 5193 5237	infectada crónicamente por Trypanosoma cruzi
+T22	DISEASE 5356 5384	Insuficiencia cardiaca aguda
+T23	DISEASE 5386 5407	Edema agudo de pulmón
+T24	DISEASE 5411 5434	Miocardiopatía dilatada
+T25	DISEASE 5516 5540	miocardiopatía chagásica
+T26	DISEASE 5544 5603	Cardiopatía isquémica crónica: Necrosis inferior y anterior
+T27	DISEASE 3357 3384	Aurícula izquierda dilatada
+T28	DISEASE 2671 2691	Cardiomegalia global
+T29	DISEASE 2992 2995	TEP
+T30	DISEASE 587 616	ventrículo izquierdo dilatado
+T31	DISEASE 3035 3076	Ventrículo izquierdo severamente dilatado
+T32	DISEASE 4987 5000	muerte súbita
+T33	DISEASE 2852 2896	Tejido pulmonar atelectásico basal bilateral
+T34	DISEASE 4447 4453	Chagas
+T35	DISEASE 5468 5497	disfunción ventricular severa
+T36	PROCEDURE 106 124	exploración física
+T37	PROCEDURE 410 422	fibrinólisis
+T38	PROCEDURE 435 455	cateterismo cardiaco
+T39	PROCEDURE 927 942	Colecistectomía
+T40	PROCEDURE 944 958	amigdalectomía
+T41	PROCEDURE 960 974	apendicectomía
+T42	PROCEDURE 1587 1605	exploración física
+T43	PROCEDURE 1907 1920	examen físico
+T44	PROCEDURE 2141 2150	Hemograma
+T45	PROCEDURE 2252 2262	Gasometría
+T46	PROCEDURE 2405 2415	Gasometría
+T47	PROCEDURE 2515 2518	ECG
+T48	PROCEDURE 2658 2669	Rx de tórax
+T49	PROCEDURE 2729 2741	TAC de tórax
+T50	PROCEDURE 3019 3033	Ecocardiograma
+T51	PROCEDURE 3875 3887	TAC torácico
+T52	PROCEDURE 4150 4170	cateterismo cardiaco
+T53	PROCEDURE 4532 4562	serología de Trypanosoma cruzi
+T54	PROCEDURE 4604 4674	amplificación de ADN mediante PCR de Trypanosoma cruzi en sangre total
+T55	PROCEDURE 4904 4952	implante de desfibrilador automático implantable
+T56	PROCEDURE 1793 1795	AC
+T57	PROCEDURE 1817 1819	AP
+T58	PROCEDURE 3719 3739	oxígeno altos flujos
+T59	PROCEDURE 4057 4071	betabloqueante
+T60	PROCEDURE 1957 1967	Bioquímica
+T61	PROCEDURE 4954 4957	DAI
+T62	PROCEDURE 899 925	Intervenciones quirúrgicas
+T63	PROCEDURE 570 585	revascularizada
+T64	SYMPTOM 56 69	disnea súbita
+T65	SYMPTOM 214 227	disnea súbita
+T66	SYMPTOM 1172 1185	disnea súbita
+T67	SYMPTOM 1244 1258	dolor torácico
+T68	SYMPTOM 1271 1277	vómito
+T69	SYMPTOM 1310 1316	disnea
+T70	SYMPTOM 1324 1330	fiebre
+T71	SYMPTOM 1501 1516	disnea nocturna
+T72	SYMPTOM 1649 1660	taquipneica
+T73	SYMPTOM 1662 1670	sudorosa
+T74	SYMPTOM 1672 1679	afebril
+T75	SYMPTOM 1697 1715	tiraje intercostal
+T76	SYMPTOM 1717 1741	intolerancia al decúbito
+T77	SYMPTOM 1747 1768	ingurgitación yugular
+T78	SYMPTOM 1774 1791	soplos carotideos
+T79	SYMPTOM 1809 1815	soplos
+T80	SYMPTOM 1821 1850	Murmullo vesicular conservado
+T81	SYMPTOM 1852 1863	sibilancias
+T82	SYMPTOM 1875 1896	crepitantes bibasales
+T83	SYMPTOM 2230 2248	Coagulación normal
+T84	SYMPTOM 2520 2533	Ritmo sinusal
+T85	SYMPTOM 2553 2563	Q inferior
+T86	SYMPTOM 2593 2602	PR normal
+T87	SYMPTOM 2604 2616	QRS estrecho
+T88	SYMPTOM 2693 2725	redistribución vascular pulmonar
+T89	SYMPTOM 2773 2803	redistribución vascular apical
+T90	SYMPTOM 3441 3457	TAPSE disminuido
+T91	SYMPTOM 3577 3594	Pericardio normal
+T92	SYMPTOM 3845 3863	D-dímeros elevados
+T93	SYMPTOM 4376 4392	disnea de reposo
+T94	SYMPTOM 4532 4583	serología de Trypanosoma cruzi que resulta positiva
+T95	SYMPTOM 1793 1804	AC: Rítmico
+T96	SYMPTOM 1400 1418	disnea de esfuerzo
+T97	SYMPTOM 621 635	FEVI deprimida
+T98	SYMPTOM 3138 3180	acinesia de todos los segmentos anteriores
+T99	SYMPTOM 3284 3317	Patrón mitral de tipo restrictivo
+T100	SYMPTOM 4641 4698	Trypanosoma cruzi en sangre total siendo también positivo
+T101	SYMPTOM 3407 3435	Cavidades derechas dilatadas
+T102	SYMPTOM 3596 3626	Vena cava inferior no dilatada
+T103	SYMPTOM 2315 2323	acidosis
+T104	SYMPTOM 1641 1647	alerta
+T105	SYMPTOM 3493 3531	alteraciones valvulares significativas
+T106	SYMPTOM 1630 1639	despierta
+T107	SYMPTOM 3991 4026	estable clínica y hemodinámicamente
+T108	SYMPTOM 2933 2962	patrón intersticial bilateral
+T109	SYMPTOM 2566 2574	QS V3-V6
+T110	SYMPTOM 2580 2591	T negativas
+T111	SYMPTOM 3459 3476	Aorta no dilatada
+T112	MEDICATION 998 1009	Clopidogrel
+T113	MEDICATION 1050 1060	bisoprolol
+T114	MEDICATION 1070 1078	ramipril
+T115	MEDICATION 1088 1098	ranitidina
+T116	MEDICATION 1112 1122	alprazolam
+T117	MEDICATION 3741 3755	nitroglicerina
+T118	MEDICATION 3758 3773	cloruro mórfico
+T119	MEDICATION 4073 4077	IECA
+T120	MEDICATION 4081 4091	eplerenona
+T121	MEDICATION 4118 4128	furosemida
+T122	MEDICATION 3719 3726	oxígeno
+T123	MEDICATION 1010 1032	ácido acetilsalicílico

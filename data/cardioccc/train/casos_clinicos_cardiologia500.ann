@@ -1,0 +1,93 @@
+T1	DISEASE 122 130	fumadora
+T2	DISEASE 177 194	hipoacusia severa
+T3	DISEASE 196 229	fibrilación auricular paroxística
+T4	DISEASE 268 307	síndrome de apnea obstructiva del sueño
+T5	DISEASE 1018 1043	trombosis venosa profunda
+T6	DISEASE 1090 1144	fibrilación auricular con respuesta ventricular rápida
+T7	DISEASE 1215 1237	insuficiencia cardiaca
+T8	DISEASE 1273 1292	insuficiencia renal
+T9	DISEASE 1302 1313	anemia leve
+T10	DISEASE 2086 2101	derrame pleural
+T11	DISEASE 2349 2369	Insuficiencia mitral
+T12	DISEASE 2381 2408	dilatación ligera auricular
+T13	DISEASE 2489 2519	insuficiencia tricuspídea leve
+T14	DISEASE 2613 2632	derrame pericárdico
+T15	DISEASE 2701 2745	dilatación moderada del ventrículo izquierdo
+T16	DISEASE 2758 2778	insuficiencia mitral
+T17	DISEASE 2793 2832	dilatación ligera de aurícula izquierda
+T18	DISEASE 3009 3029	Insuficiencia mitral
+T19	DISEASE 3304 3340	insuficiencia mitral ligera-moderada
+T20	DISEASE 3441 3496	insuficiencia respiratoria secundaria a edema de pulmón
+T21	DISEASE 3797 3852	dilatación y disfunción severa del ventrículo izquierdo
+T22	DISEASE 3857 3903	insuficiencia mitral funcional moderada-severa
+T23	DISEASE 4323 4344	fibrilación auricular
+T24	DISEASE 4397 4416	taquimiocardiopatía
+T25	DISEASE 4492 4579	Taquimiocardiopatía secundaria a fibrilación auricular con respuesta ventricular rápida
+T26	DISEASE 1146 1152	FA-RVR
+T27	DISEASE 2165 2213	ventrículo izquierdo no dilatado con hipertrofia
+T28	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 234 246	anticoagular
+T30	PROCEDURE 622 640	exploración física
+T31	PROCEDURE 820 841	auscultación cardiaca
+T32	PROCEDURE 1060 1078	electrocardiograma
+T33	PROCEDURE 1160 1180	radiografía de tórax
+T34	PROCEDURE 1343 1357	betabloqueante
+T35	PROCEDURE 1486 1500	ecocardiograma
+T36	PROCEDURE 1876 1894	Electrocardiograma
+T37	PROCEDURE 2029 2049	Radiografía de tórax
+T38	PROCEDURE 2139 2153	Ecocardiograma
+T39	PROCEDURE 2634 2648	Ecocardiograma
+T40	PROCEDURE 2860 2874	Ecocardiograma
+T41	PROCEDURE 3184 3212	ecocardiograma transtorácico
+T42	PROCEDURE 3553 3576	cardioversión eléctrica
+T43	PROCEDURE 3670 3690	soporte hemodinámico
+T44	PROCEDURE 3710 3732	intubación orotraqueal
+T45	PROCEDURE 3735 3755	ventilación invasiva
+T46	PROCEDURE 3771 3785	ecocardiograma
+T47	PROCEDURE 3965 3980	betabloqueantes
+T48	PROCEDURE 4025 4060	soporte hemodinámico y ventilatorio
+T49	PROCEDURE 4073 4088	coronariografía
+T50	PROCEDURE 4193 4207	ecocardiograma
+T51	PROCEDURE 1363 1393	control de frecuencia cardiaca
+T52	PROCEDURE 3122 3152	control de frecuencia cardiaca
+T53	PROCEDURE 1675 1684	Analítica
+T54	PROCEDURE 1252 1261	analítica
+T55	SYMPTOM 429 467	disnea progresiva de mínimos esfuerzos
+T56	SYMPTOM 495 503	ortopnea
+T57	SYMPTOM 506 533	disnea paroxística nocturna
+T58	SYMPTOM 552 565	palpitaciones
+T59	SYMPTOM 570 584	dolor torácico
+T60	SYMPTOM 761 782	ingurgitación yugular
+T61	SYMPTOM 784 793	arrítmica
+T62	SYMPTOM 798 804	soplos
+T63	SYMPTOM 854 891	crepitantes en ambas bases pulmonares
+T64	SYMPTOM 900 931	abdomen normal a la exploración
+T65	SYMPTOM 938 1002	edemas maleolares con fóvea en tercio distal miembros inferiores
+T66	SYMPTOM 1512 1579	ventrículo izquierdo de dimensiones en límite alto de la normalidad
+T67	SYMPTOM 1959 1971	QRS estrecho
+T68	SYMPTOM 1983 2016	alteraciones electrocardiografías
+T69	SYMPTOM 2061 2080	congestión pulmonar
+T70	SYMPTOM 2106 2137	índice cardiotorácico aumentado
+T71	SYMPTOM 2165 2197	ventrículo izquierdo no dilatado
+T72	SYMPTOM 2223 2238	FEVI conservada
+T73	SYMPTOM 2291 2325	Patrón diastólico con onda E única
+T74	SYMPTOM 2670 2696	FEVI severamente deprimida
+T75	SYMPTOM 2908 2940	ventrículo izquierdo no dilatado
+T76	SYMPTOM 3252 3301	ventrículo izquierdo normales con FEVI conservada
+T77	SYMPTOM 3392 3398	FA-RVR
+T78	SYMPTOM 3412 3438	inestabilidad hemodinámica
+T79	SYMPTOM 737 756	taquipnea en reposo
+T80	SYMPTOM 2243 2289	alteraciones segmentarias de la contractilidad
+T81	SYMPTOM 2410 2451	Válvula aórtica trivalva normofuncionante
+T82	SYMPTOM 2945 2956	FEVI normal
+T83	SYMPTOM 2961 3007	alteraciones segmentarias de la contractilidad
+T84	SYMPTOM 2453 2484	Cavidades derechas no dilatadas
+T85	SYMPTOM 4100 4146	arterias coronarias angiográficamente normales
+T86	MEDICATION 328 338	bisoprolol
+T87	MEDICATION 1410 1420	furosemida
+T88	MEDICATION 3157 3167	bisoprolol
+T89	MEDICATION 3647 3655	digoxina
+T90	MEDICATION 3695 3708	noradrenalina
+T91	MEDICATION 4438 4448	bisoprolol
+T92	MEDICATION 4470 4477	sintrom
+#1	AnnotatorNotes T26	 fibrilación auricular con respuesta ventricular rápida

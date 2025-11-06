@@ -1,0 +1,57 @@
+T1	DISEASE 233 241	diabetes
+T2	DISEASE 258 270	dislipidemia
+T3	DISEASE 273 298	trastorno esquizoafectivo
+T4	DISEASE 673 706	síndrome hiperosmolar no cetónico
+T5	DISEASE 2309 2343	vegetaciones en la válvula aórtica
+T6	DISEASE 2933 2935	EI
+T7	DISEASE 3104 3116	endocarditis
+T8	DISEASE 3208 3217	infección
+T9	DISEASE 4624 4626	EI
+T10	DISEASE 1622 1641	congestión pulmonar
+T11	DISEASE 1692 1736	moderada disfunción del ventrículo izquierdo
+T12	DISEASE 1743 1768	leve regurgitación mitral
+T13	DISEASE 2077 2098	regurgitación aórtica
+T14	DISEASE 2105 2134	moderada regurgitación mitral
+T15	DISEASE 2167 2186	congestión pulmonar
+T16	DISEASE 2940 2959	vegetación valvular
+T17	DISEASE 4761 4781	destrucción valvular
+T18	DISEASE 720 735	infección aguda
+T19	DISEASE 1461 1494	gato en casa que le había mordido
+T20	PROCEDURE 355 382	auscultación cardiopulmonar
+T21	PROCEDURE 613 624	hemocultivo
+T22	PROCEDURE 743 775	tratado con fluidos intravenosos
+T23	PROCEDURE 947 958	hemocultivo
+T24	PROCEDURE 1646 1674	ecocardiograma transtorácico
+T25	PROCEDURE 1676 1679	ETT
+T26	PROCEDURE 1986 1996	diuréticos
+T27	PROCEDURE 2038 2041	ETT
+T28	PROCEDURE 2226 2268	reemplazo de sus válvulas aórtica y mitral
+T29	PROCEDURE 2364 2376	hemocultivos
+T30	PROCEDURE 2679 2691	hemocultivos
+T31	PROCEDURE 2771 2782	hemocultivo
+T32	PROCEDURE 2804 2827	tratamiento antibiótico
+T33	PROCEDURE 3313 3344	admistración de antimicrobianos
+T34	PROCEDURE 3374 3386	hemocultivos
+T35	PROCEDURE 2940 2970	vegetación valvular se cultivó
+T36	PROCEDURE 4799 4824	reemplazo de las válvulas
+T37	PROCEDURE 3035 3047	hemocultivos
+T38	PROCEDURE 3412 3467	secuencia del amplicón del 16S rARN del tejido valvular
+T39	SYMPTOM 81 89	malestar
+T40	SYMPTOM 109 118	confusión
+T41	SYMPTOM 166 172	fiebre
+T42	SYMPTOM 355 393	auscultación cardiopulmonar era normal
+T43	SYMPTOM 405 431	leve edema en los tobillos
+T44	SYMPTOM 880 958	crecimiento de bacilos gramnegativos pequeños en ambos frascos del hemocultivo
+T45	SYMPTOM 1584 1591	afebril
+T46	SYMPTOM 1943 1949	disnea
+T47	SYMPTOM 1952 1968	edema periférico
+T48	SYMPTOM 3016 3047	crecimiento en los hemocultivos
+T49	SYMPTOM 599 624	Se extrajo un hemocultivo
+T50	SYMPTOM 311 320	agitación
+T51	SYMPTOM 3121 3137	cultivo negativo
+T52	SYMPTOM 2940 3001	vegetación valvular se cultivó, pero no se obtuvo crecimiento
+T53	SYMPTOM 3426 3532	amplicón del 16S rARN del tejido valvular tenía una concordancia de >99% con la de Haemophilus aphrophilus
+T54	MEDICATION 777 785	insulina
+T55	MEDICATION 788 798	cefuroxima
+T56	MEDICATION 1388 1398	cefuroxima
+T57	MEDICATION 1876 1886	cefuroxima

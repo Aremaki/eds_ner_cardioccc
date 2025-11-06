@@ -1,0 +1,41 @@
+T1	ENFERMEDAD 303 356	absceso drenado en territorio de fibrosa mitroaortica
+T2	ENFERMEDAD 1331 1333	EI
+T3	ENFERMEDAD 815 834	lesión perivalvular
+T4	ENFERMEDAD 533 540	EIVP Ao
+T5	PROCEDIMIENTO 267 270	ETE
+T6	PROCEDIMIENTO 358 364	PET-TC
+T7	PROCEDIMIENTO 713 728	tratamiento ATB
+T8	PROCEDIMIENTO 790 793	ETE
+T9	PROCEDIMIENTO 917 919	AP
+T10	PROCEDIMIENTO 922 925	PCR
+T11	PROCEDIMIENTO 989 1020	Serología por IFI para Coxiella
+T12	PROCEDIMIENTO 411 443	tratamiento antibiótico empírico
+T13	PROCEDIMIENTO 202 229	Se tomaron muestras para HC
+T14	PROCEDIMIENTO 764 766	HC
+T15	PROCEDIMIENTO 882 915	muestra perivalvular para cultivo
+T16	PROCEDIMIENTO 34 48	RVAo biológico
+T17	PROCEDIMIENTO 227 229	HC
+T18	PROCEDIMIENTO 1283 1290	cirugía
+T19	PROCEDIMIENTO 848 871	intervención quirúrgica
+T20	PROCEDIMIENTO 632 654	tratamiento quirúrgico
+T21	PROCEDIMIENTO 563 565	HC
+T22	PROCEDIMIENTO 963 987	secuenciación de 16S DNA
+T23	PROCEDIMIENTO 1381 1383	HC
+T24	SINTOMA 142 148	fiebre
+T25	SINTOMA 151 162	escalofríos
+T26	SINTOMA 742 748	fiebre
+T27	SINTOMA 751 762	escalofríos
+T28	SINTOMA 764 787	HC nuevamente negativos
+T29	SINTOMA 922 957	PCR en la que se detecta C. burnett
+T30	SINTOMA 358 401	PET-TC: hipercaptación a nivel perivalvular
+T31	SINTOMA 563 575	HC negativos
+T32	SINTOMA 947 987	C. burnetti por secuenciación de 16S DNA
+T33	SINTOMA 1254 1260	deceso
+T34	SINTOMA 1381 1393	HC negativos
+T35	FARMACO 448 459	Daptomicina
+T36	FARMACO 475 486	Ceftriaxona
+T37	FARMACO 1055 1066	Doxiciclina
+T38	FARMACO 1080 1097	Hidroxicloroquina
+#1	AnnotatorNotes T4	 EIVP Ao endocarditis infecciosa válvula pulmonar y aórtica
+#2	AnnotatorNotes T14	Hemocultivo
+#3	AnnotatorNotes T17	Hemocultivo

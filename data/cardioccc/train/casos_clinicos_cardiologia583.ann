@@ -1,0 +1,219 @@
+T1	DISEASE 7139 7162	VD ligeramente dilatado
+T2	DISEASE 138 170	alergia a ibuprofeno y metamizol
+T3	DISEASE 216 224	Fumadora
+T4	DISEASE 308 322	hábito enólico
+T5	DISEASE 362 381	hipercolesterolemia
+T6	DISEASE 441 482	enfermedad de Graves con orbitopatía leve
+T7	DISEASE 531 545	asma bronquial
+T8	DISEASE 705 724	hipercolesterolemia
+T9	DISEASE 727 751	diabetes mellitus tipo 2
+T10	DISEASE 763 782	hipercolesterolemia
+T11	DISEASE 1513 1521	artritis
+T12	DISEASE 1526 1538	aftas orales
+T13	DISEASE 2535 2563	insuficiencia venosa crónica
+T14	DISEASE 2579 2604	trombosis venosa profunda
+T15	DISEASE 3388 3401	cardiomegalia
+T16	DISEASE 3482 3497	derrame pleural
+T17	DISEASE 3661 3685	tromboembolismo pulmonar
+T18	DISEASE 3733 3757	tromboembolismo pulmonar
+T19	DISEASE 4629 4651	insuficiencia cardiaca
+T20	DISEASE 5564 5590	Insuficiencia triscuspídea
+T21	DISEASE 5742 5783	Derrame pericárdico ligero adyacente a VI
+T22	DISEASE 6580 6599	Derrame pericárdico
+T23	DISEASE 6675 6696	trombo intracavitario
+T24	DISEASE 6808 6843	Insuficiencia mitral ligera central
+T25	DISEASE 6845 6888	Insuficiencia tricúspide y pulmonar ligeras
+T26	DISEASE 7090 7108	hipertrofia apical
+T27	DISEASE 7110 7137	disfunción diastólica grave
+T28	DISEASE 7203 7224	hipertensión pulmonar
+T29	DISEASE 7226 7248	dilatación biauricular
+T30	DISEASE 7250 7284	insuficiencia mitral y tricuspídea
+T31	DISEASE 7293 7312	derrame pericárdico
+T32	DISEASE 7369 7392	endocarditis de Löffler
+T33	DISEASE 7919 7981	ventrículo izquierdo no dilatado, con hipertrofia grave apical
+T34	DISEASE 8028 8053	insuficiencia mitral leve
+T35	DISEASE 8441 8473	hipertensión pulmonar poscapilar
+T36	DISEASE 8529 8547	hipertrofia apical
+T37	DISEASE 8596 8628	insuficiencia tricuspídea ligera
+T38	DISEASE 8631 8658	insuficiencia pulmonar leve
+T39	DISEASE 8893 8905	endocarditis
+T40	DISEASE 9459 9496	fibrosis endomiocárdica biventricular
+T41	DISEASE 9502 9548	trombo organizado apical ventricular izquierdo
+T42	DISEASE 9563 9594	granulomatosis con poliangeítis
+T43	DISEASE 9841 9865	insuficiencia tricúspide
+T44	DISEASE 9891 9903	pericarditis
+T45	DISEASE 9946 9965	derrame pericárdico
+T46	DISEASE 10482 10508	derrame pericárdico ligero
+T47	DISEASE 10602 10615	trombo apical
+T48	DISEASE 11393 11417	tromboembolismo pulmonar
+T49	DISEASE 11638 11647	sinusitis
+T50	DISEASE 11649 11665	hipereosinofilia
+T51	DISEASE 11762 11773	trombopenia
+T52	DISEASE 11775 11786	eosinofilia
+T53	DISEASE 11820 11843	infiltración miocárdica
+T54	DISEASE 11860 11883	endocarditis de Löffler
+T55	DISEASE 11928 11932	GEPA
+T56	DISEASE 12217 12228	trombopenia
+T57	DISEASE 13547 13558	eosinofilia
+T58	DISEASE 13573 13606	Insuficiencia cardiaca congestiva
+T59	DISEASE 13609 13641	hipertensión pulmonar poscapilar
+T60	DISEASE 13664 13681	miocarditis aguda
+T61	DISEASE 13683 13745	endocarditis de Loeffler) con patrón de restricción miocárdica
+T62	DISEASE 13748 13775	disfunción diastólica grave
+T63	DISEASE 13794 13839	granulomatosis eosinofílica con poliangeítis.
+T64	DISEASE 13840 13877	Trombo apical en ventrículo izquierdo
+T65	DISEASE 13888 13929	Trombopenia moderada de origen autoinmune
+T66	DISEASE 13940 13971	Síndrome del enfermo eutiroideo
+T67	DISEASE 13973 14010	Hipercolesterolemia familiar primaria
+T68	DISEASE 14025 14029	HFHe
+T69	DISEASE 3405 3435	condensaciones parenquimatosas
+T70	DISEASE 3824 3835	adenopatías
+T71	DISEASE 5425 5457	Ventrículo derecho (VD) dilatado
+T72	DISEASE 5660 5690	Aurícula derecha (AD) dilatada
+T73	DISEASE 6355 6387	Aurícula izquierda (AI) dilatada
+T74	DISEASE 9596 9630	late-stage endomyocardial fibrosis
+T75	DISEASE 6247 6275	Cavidades derechas dilatadas
+T76	DISEASE 9816 9839	crecimiento biauricular
+T77	DISEASE 106 122	reacción cutánea
+T78	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDURE 985 1009	estudio genético de HFHe
+T80	PROCEDURE 1568 1586	Exploración física
+T81	PROCEDURE 1955 1976	auscultación cardiaca
+T82	PROCEDURE 2064 2089	auscultación respiratoria
+T83	PROCEDURE 2198 2221	exploración neurológica
+T84	PROCEDURE 3043 3054	coagulación
+T85	PROCEDURE 3112 3130	Electrocardiograma
+T86	PROCEDURE 3343 3363	Radiografía de tórax
+T87	PROCEDURE 3570 3612	seriación de marcadores de daño miocárdico
+T88	PROCEDURE 3623 3640	angio-TC de tórax
+T89	PROCEDURE 3687 3704	Angio-TC de tórax
+T90	PROCEDURE 4423 4465	seriación de marcadores de daño miocárdico
+T91	PROCEDURE 5128 5156	ecocardiograma a pie de cama
+T92	PROCEDURE 5788 5802	ecocardiograma
+T93	PROCEDURE 7433 7473	cateterismo cardiaco izquierdo y derecho
+T94	PROCEDURE 7879 7905	ventriculografía izquierda
+T95	PROCEDURE 8109 8128	cateterismo derecho
+T96	PROCEDURE 8486 8510	ventriculografía derecha
+T97	PROCEDURE 8671 8693	biopsia endomiocárdica
+T98	PROCEDURE 8742 8758	biopsia de septo
+T99	PROCEDURE 8910 8925	biopsia de ápex
+T100	PROCEDURE 9059 9072	biopsia basal
+T101	PROCEDURE 9239 9246	biopsia
+T102	PROCEDURE 9285 9314	resonancia magnética cardiaca
+T103	PROCEDURE 10170 10199	resonancia magnética cardiaca
+T104	PROCEDURE 11444 11452	angio-TC
+T105	PROCEDURE 11802 11816	ecocardiograma
+T106	PROCEDURE 11973 11986	ELISA de ANCA
+T107	PROCEDURE 12054 12076	tratamiento esteroideo
+T108	PROCEDURE 12450 12510	cateterismo cardiaco derecho e izquierdo con toma de biopsia
+T109	PROCEDURE 13493 13517	reactantes de fase aguda
+T110	PROCEDURE 14032 14052	Hipertrigliceridemia
+T111	PROCEDURE 4220 4236	panel autoinmune
+T112	PROCEDURE 3962 3971	Analítica
+T113	PROCEDURE 12081 12116	bolos de 1 g de 6-metilprednisolona
+T114	PROCEDURE 12337 12360	ciclofosfamida en bolos
+T115	SYMPTOM 1112 1164	disnea progresiva hasta hacerse de mínimos esfuerzos
+T116	SYMPTOM 1177 1206	edemas en miembros inferiores
+T117	SYMPTOM 1218 1245	disnea paroxística nocturna
+T118	SYMPTOM 1247 1260	palpitaciones
+T119	SYMPTOM 1324 1369	equimosis en miembros superiores e inferiores
+T120	SYMPTOM 1372 1403	hipoestesia en miembro inferior
+T121	SYMPTOM 1421 1429	ortopnea
+T122	SYMPTOM 1443 1451	diuresis
+T123	SYMPTOM 1470 1484	dolor torácico
+T124	SYMPTOM 1499 1509	artralgias
+T125	SYMPTOM 1546 1552	fiebre
+T126	SYMPTOM 1707 1731	Aceptable estado general
+T127	SYMPTOM 1733 1743	consciente
+T128	SYMPTOM 1745 1754	orientada
+T129	SYMPTOM 1800 1814	normocoloreada
+T130	SYMPTOM 1823 1842	taquipnea en reposo
+T131	SYMPTOM 1848 1866	habla entrecortada
+T132	SYMPTOM 1919 1932	leve disfonía
+T133	SYMPTOM 1990 2004	tonos rítmicos
+T134	SYMPTOM 2028 2034	soplos
+T135	SYMPTOM 2040 2056	roce pericárdico
+T136	SYMPTOM 2107 2128	crepitantes bibasales
+T137	SYMPTOM 2139 2150	sibilancias
+T138	SYMPTOM 2164 2182	abdomen es anodino
+T139	SYMPTOM 2232 2275	pupilas isocóricas normorreactivas a la luz
+T140	SYMPTOM 2277 2304	pares craneales conservados
+T141	SYMPTOM 2306 2364	sensibilidad táctil grosera disminuida en miembro inferior
+T142	SYMPTOM 2454 2500	miembros inferiores presentan edemas con fóvea
+T143	SYMPTOM 2610 2651	pulsos periféricos presentes y simétricos
+T144	SYMPTOM 3043 3065	coagulación era normal
+T145	SYMPTOM 3145 3158	ritmo sinusal
+T146	SYMPTOM 3276 3341	ondas T aplanadas en derivaciones inferiores y negativas en V3-V6
+T147	SYMPTOM 3448 3466	hilios prominentes
+T148	SYMPTOM 4043 4052	CK normal
+T149	SYMPTOM 5212 5282	ventrículo izquierdo (VI) no dilatado con función sistólica conservada
+T150	SYMPTOM 5894 5908	VI no dilatado
+T151	SYMPTOM 6066 6101	función sistólica global conservada
+T152	SYMPTOM 6305 6323	VD normocontractil
+T153	SYMPTOM 6544 6578	Dilatación de venas suprahepáticas
+T154	SYMPTOM 6638 6661	compromiso hemodinámico
+T155	SYMPTOM 6698 6747	Válvula aórtica trivalva con movilidad conservada
+T156	SYMPTOM 6749 6769	Flujo aórtico normal
+T157	SYMPTOM 6771 6806	Válvula mitral de normal morfología
+T158	SYMPTOM 7056 7088	VI no dilatado con FE conservada
+T159	SYMPTOM 7139 7180	VD ligeramente dilatado con FE conservada
+T160	SYMPTOM 7919 7951	ventrículo izquierdo no dilatado
+T161	SYMPTOM 7983 8011	función sistólica conservada
+T162	SYMPTOM 8552 8583	fracción de eyección conservada
+T163	SYMPTOM 9372 9396	ventrículos no dilatados
+T164	SYMPTOM 9403 9431	función sistólica conservada
+T165	SYMPTOM 10359 10397	tethering del músculo papilar inferior
+T166	SYMPTOM 10455 10479	función sistólica normal
+T167	SYMPTOM 11677 11683	disnea
+T168	SYMPTOM 11685 11714	edemas en miembros inferiores
+T169	SYMPTOM 11730 11760	elevación de enzimas cardiacas
+T170	SYMPTOM 11762 11773	trombopenia
+T171	SYMPTOM 11775 11786	eosinofilia
+T172	SYMPTOM 12230 12241	eosinofilia
+T173	SYMPTOM 12558 12593	Clínica y hemodinámicamente estable
+T174	SYMPTOM 13480 13486	disnea
+T175	SYMPTOM 13547 13558	eosinofilia
+T176	SYMPTOM 2675 2720	equimosis en miembros superiores e inferiores
+T177	SYMPTOM 517 527	eutiroidea
+T178	SYMPTOM 3228 3274	descenso del ST de 1 mm en II, III, aVF, V3-V6
+T179	SYMPTOM 3501 3535	pinzamiento de senos costofrénicos
+T180	SYMPTOM 3762 3808	parénquima pulmonar no presentaba alteraciones
+T181	SYMPTOM 4263 4314	anticuerpos anticitoplasma de neutrófilos positivos
+T182	SYMPTOM 4319 4367	anticuerpos (IgG) anti mieloperoxidasa positivos
+T183	SYMPTOM 5399 5423	Raíz aórtica no dilatada
+T184	SYMPTOM 5711 5740	Patrón de flujo mitral normal
+T185	SYMPTOM 6119 6174	alteraciones evidentes de la contractilidad segmentaria
+T186	SYMPTOM 9674 9693	hipoquinesia ligera
+T187	SYMPTOM 9633 9671	tethering del músculo papilar inferior
+T188	SYMPTOM 11973 12011	ELISA de ANCA que resultaron positivos
+T189	SYMPTOM 1771 1798	Bien hidratada y perfundida
+T190	SYMPTOM 1757 1769	colaboradora
+T191	SYMPTOM 5054 5123	despistaje de VIH y resto de inmunodiagnóstico infeccioso es negativo
+T192	SYMPTOM 6468 6501	Vena cava inferior (VCI) dilatada
+T193	SYMPTOM 7022 7054	patrón de restricción miocárdica
+T194	SYMPTOM 7518 7550	TCI de buen calibre sin lesiones
+T195	SYMPTOM 7566 7630	arteria descendente anterior (ADA) de buen calibre, sin lesiones
+T196	SYMPTOM 7669 7723	arteria circunfleja (Cx) de buen calibre, sin lesiones
+T197	SYMPTOM 7763 7826	coronaria derecha (CD) dominante, de buen calibre, sin lesiones
+T198	MEDICATION 148 158	ibuprofeno
+T199	MEDICATION 161 170	metamizol
+T200	MEDICATION 402 415	atorvastatina
+T201	MEDICATION 595 631	salmeterol/propionato de fluticasona
+T202	MEDICATION 648 658	salbutamol
+T203	MEDICATION 934 947	rosuvastatina
+T204	MEDICATION 9345 9359	ciclofosfamida
+T205	MEDICATION 12097 12116	6-metilprednisolona
+T206	MEDICATION 12284 12294	prednisona
+T207	MEDICATION 12337 12351	ciclofosfamida
+T208	MEDICATION 12665 12675	prednisona
+T209	MEDICATION 12739 12745	calcio
+T210	MEDICATION 12753 12767	colecalciferol
+T211	MEDICATION 12800 12817	ácido ibandrónico
+T212	MEDICATION 12852 12862	torasemida
+T213	MEDICATION 12896 12918	ácido acetilsalicílico
+T214	MEDICATION 12954 12963	omeprazol
+T215	MEDICATION 12990 13003	atorvastatina
+T216	MEDICATION 954 963	ezetimiba
+T217	MEDICATION 13194 13204	anti-PCSK9
+T218	MEDICATION 13206 13216	evolocumab
+T219	MEDICATION 13253 13287	ésteres etílicos del ácido omega 3

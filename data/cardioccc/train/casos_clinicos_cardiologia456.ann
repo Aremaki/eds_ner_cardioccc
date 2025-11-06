@@ -1,0 +1,81 @@
+T1	DISEASE 1589 1608	congestión pulmonar
+T2	DISEASE 70 86	diabética tipo 2
+T3	DISEASE 128 170	miocardiopatía hipertrófica no obstructiva
+T4	DISEASE 248 324	disfunción severa del ventrículo izquierdo y moderada del ventrículo derecho
+T5	DISEASE 387 420	síndrome de Wolff-Parkinson-White
+T6	DISEASE 467 477	bloqueo AV
+T7	DISEASE 570 592	sordera neurosensorial
+T8	DISEASE 698 704	angina
+T9	DISEASE 1532 1545	Cardiomegalia
+T10	DISEASE 1707 1745	VI no dilatado, con hipertrofia severa
+T11	DISEASE 1935 1994	VD hipertrófico, con disfunción sistólica de grado moderado
+T12	DISEASE 2108 2127	derrame pericárdico
+T13	DISEASE 2356 2366	diabéticas
+T14	DISEASE 2386 2402	implante coclear
+T15	DISEASE 2447 2457	hipoacusia
+T16	DISEASE 2460 2468	diabetes
+T17	DISEASE 2525 2552	miocardiopatía hipertrófica
+T18	DISEASE 2593 2616	enfermedad mitocondrial
+T19	DISEASE 2761 2775	síndrome MELAS
+T20	DISEASE 3370 3375	ictus
+T21	DISEASE 3960 3985	trastorno depresivo grave
+T22	DISEASE 4000 4014	Síndrome MELAS
+T23	DISEASE 4016 4075	Miocardiopatía hipertrófica no obstructiva en fase dilatada
+T24	DISEASE 4106 4156	disfunción sistólica de VI severa y de VD moderada
+T25	DISEASE 4158 4180	Insuficiencia cardiaca
+T26	DISEASE 4213 4246	Síndrome de Wolff-Parkinson-White
+T27	DISEASE 4282 4306	Bloqueo AV de alto grado
+T28	DISEASE 4365 4387	Sordera neurosensorial
+T29	DISEASE 4420 4444	Diabetes mellitus tipo 2
+T30	DISEASE 2029 2031	IM
+T31	DISEASE 2040 2043	IAo
+T32	DISEASE 2052 2054	IT
+T33	DISEASE 2997 3017	hipotensión arterial
+T34	DISEASE 2791 2854	Encephalomyopathy with Lactic Acidosis and Stroke-like episodes
+T35	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDURE 353 382	ablación de 3 vías accesorias
+T37	PROCEDURE 440 462	implante de marcapasos
+T38	PROCEDURE 525 557	implante coclear en oído derecho
+T39	PROCEDURE 1085 1106	auscultación pulmonar
+T40	PROCEDURE 1432 1447	Perfil hepático
+T41	PROCEDURE 1475 1495	Radiografía de tórax
+T42	PROCEDURE 1610 1613	ECG
+T43	PROCEDURE 1691 1705	Ecocardiograma
+T44	PROCEDURE 2169 2190	tratamiento diurético
+T45	PROCEDURE 2644 2660	estudio genético
+T46	PROCEDURE 2946 2969	rehabilitación cardiaca
+T47	PROCEDURE 3061 3100	se realiza upgrade a DAI-TRC tricameral
+T48	PROCEDURE 3177 3200	rehabilitación cardiaca
+T49	PROCEDURE 3753 3772	trasplante cardiaco
+T50	PROCEDURE 3786 3805	serologías de virus
+T51	PROCEDURE 3807 3838	pruebas de función respiratoria
+T52	PROCEDURE 3841 3860	ecografía abdominal
+T53	PROCEDURE 3945 3955	trasplante
+T54	PROCEDURE 4251 4280	ablación de 3 vías accesorias
+T55	PROCEDURE 1450 1464	perfil férrico
+T56	PROCEDURE 4356 4363	DAI-CRT
+T57	PROCEDURE 1167 1176	Analítica
+T58	PROCEDURE 962 973	exploración
+T59	SYMPTOM 189 215	función ventricular normal
+T60	SYMPTOM 904 920	disnea de reposo
+T61	SYMPTOM 923 932	bendopnea
+T62	SYMPTOM 938 946	ortopnea
+T63	SYMPTOM 950 953	DPN
+T64	SYMPTOM 1068 1106	congestión en la auscultación pulmonar
+T65	SYMPTOM 1111 1140	edemas en miembros inferiores
+T66	SYMPTOM 1432 1473	Perfil hepático y perfil férrico normales
+T67	SYMPTOM 1615 1628	ritmo sinusal
+T68	SYMPTOM 1707 1721	VI no dilatado
+T69	SYMPTOM 1822 1868	Función sistólica global severamente deprimida
+T70	SYMPTOM 1903 1933	Patrón de llenado pseudonormal
+T71	SYMPTOM 1935 1950	VD hipertrófico
+T72	SYMPTOM 2997 3017	hipotensión arterial
+T73	SYMPTOM 1497 1530	portadora de marcapasos bicameral
+T74	SYMPTOM 1547 1573	Senos costofrénicos libres
+T75	SYMPTOM 2709 2725	mutación 3243A>G
+T76	SYMPTOM 3304 3326	afectación neurológica
+T77	SYMPTOM 3786 3885	serologías de virus, pruebas de función respiratoria y ecografía abdominal, con resultados normales
+T78	MEDICATION 728 738	bisoprolol
+T79	MEDICATION 748 758	eplerenona
+T80	MEDICATION 766 778	sitagliptina
+T81	MEDICATION 786 797	paracetamol

@@ -1,0 +1,138 @@
+T1	DISEASE 2408 2421	hepatomegalia
+T2	DISEASE 3272 3285	cardiomegalia
+T3	DISEASE 3373 3399	hígado aumentado de tamaño
+T4	DISEASE 4245 4288	Válvula mitral con apertura normal, reflujo
+T5	DISEASE 4516 4546	venas suprahepáticas dilatadas
+T6	DISEASE 127 147	ataxia de Friedreich
+T7	DISEASE 300 342	Miocardiopatía hipertrófica no obstructiva
+T8	DISEASE 583 602	HVI de grado severo
+T9	DISEASE 1265 1298	hipertrofia ventricular izquierda
+T10	DISEASE 2516 2525	trombosis
+T11	DISEASE 3166 3169	HVI
+T12	DISEASE 3562 3570	litiasis
+T13	DISEASE 3761 3787	ectasia de vías excretoras
+T14	DISEASE 3901 3920	HVI de grado severo
+T15	DISEASE 4297 4348	Válvula aórtica de estructura normal, insuficiencia
+T16	DISEASE 4357 4400	Insuficiencia tricúspidea de grado moderado
+T17	DISEASE 4607 4626	MCH de grado severo
+T18	DISEASE 4628 4669	Disfunción sistólica biventricular severa
+T19	DISEASE 4671 4681	HTP ligera
+T20	DISEASE 4791 4824	insuficiencia cardiaca congestiva
+T21	DISEASE 4860 4879	congestión hepática
+T22	DISEASE 5029 5070	disfunción sistólica biventricular severa
+T23	DISEASE 5195 5212	miocarditis aguda
+T24	DISEASE 5217 5258	disfunción sistólica biventricular severa
+T25	DISEASE 5465 5483	shock cardiogénico
+T26	DISEASE 5804 5832	fracaso biventricular severo
+T27	DISEASE 5861 5871	HTP severa
+T28	DISEASE 5907 5925	shock cardiogénico
+T29	DISEASE 6104 6132	enfermedad neurológica grave
+T30	DISEASE 6221 6252	isquemia en extremidad inferior
+T31	DISEASE 6265 6331	hipoperfusión de extremidad derecha secundaria al implante de BACP
+T32	DISEASE 6415 6433	shock cardiogénico
+T33	DISEASE 6436 6457	fracaso multiorgánico
+T34	DISEASE 6471 6494	acidosis láctica severa
+T35	DISEASE 6542 6557	parada cardiaca
+T36	DISEASE 6562 6571	asistolia
+T37	DISEASE 6660 6682	miocarditis fulminante
+T38	DISEASE 6687 6717	shock cardiogénico refractario
+T39	DISEASE 6732 6754	Miocarditis fulminante
+T40	DISEASE 6756 6774	Shock cardiogénico
+T41	DISEASE 6776 6818	Miocardiopatía hipertrófica no obstructiva
+T42	DISEASE 6820 6840	Ataxia de Friedreich
+T43	DISEASE 3435 3504	Dilatación de venas suprahepáticas y de sistema de vena cava inferior
+T44	DISEASE 3575 3599	dilatación de vía biliar
+T45	DISEASE 4433 4466	Vena cava inferior (VCI) dilatada
+T46	DISEASE 5125 5149	engrosamiento miocárdico
+T47	DISEASE 1421 1438	necrosis cardiaca
+T48	DISEASE 3174 3219	alteraciones secundarias de la reporalización
+T49	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T50	PROCEDURE 462 476	ecocardiograma
+T51	PROCEDURE 933 951	rehidratación oral
+T52	PROCEDURE 954 965	antiemético
+T53	PROCEDURE 1224 1242	electrocardiograma
+T54	PROCEDURE 1351 1370	analítica de sangre
+T55	PROCEDURE 1813 1831	Exploración física
+T56	PROCEDURE 1960 1983	Exploración neurológica
+T57	PROCEDURE 2164 2185	Auscultación pulmonar
+T58	PROCEDURE 2251 2272	Auscultación cardiaca
+T59	PROCEDURE 2727 2742	Perfil hepático
+T60	PROCEDURE 2945 2954	Hemograma
+T61	PROCEDURE 3092 3110	Electrocardiograma
+T62	PROCEDURE 3112 3115	ECG
+T63	PROCEDURE 3250 3270	Radiografía de tórax
+T64	PROCEDURE 3352 3371	Ecografía abdominal
+T65	PROCEDURE 3834 3862	Ecocardiograma transtorácico
+T66	PROCEDURE 4897 4916	ecografía abdominal
+T67	PROCEDURE 4975 5003	ecocardiograma transtorácico
+T68	PROCEDURE 5285 5315	diuréticos por vía intravenosa
+T69	PROCEDURE 5525 5568	perfusión continua de diuréticos e inotropo
+T70	PROCEDURE 5582 5606	corticoides intravenosos
+T71	PROCEDURE 5622 5644	biopsia endomiocárdica
+T72	PROCEDURE 5648 5667	resonancia cardiaca
+T73	PROCEDURE 5751 5791	ecocardiografía de control a pie de cama
+T74	PROCEDURE 6080 6099	trasplante cardiaco
+T75	PROCEDURE 6147 6163	implante de ECMO
+T76	PROCEDURE 6355 6371	implante de ECMO
+T77	PROCEDURE 1621 1630	anamnesis
+T78	PROCEDURE 1832 1846	Signos vitales
+T79	PROCEDURE 3040 3050	Hemostasia
+T80	PROCEDURE 5926 5970	se implanta balón aórtico de contrapulsacion
+T81	PROCEDURE 6622 6634	RCP avanzada
+T82	PROCEDURE 6315 6331	implante de BACP
+T83	PROCEDURE 2552 2571	Analítica de sangre
+T84	PROCEDURE 2573 2583	bioquímica
+T85	PROCEDURE 6516 6528	intervención
+T86	PROCEDURE 4960 4962	AS
+T87	PROCEDURE 5972 5976	BACP
+T88	SYMPTOM 518 567	ventrículo izquierdo (VI) de dimensiones normales
+T89	SYMPTOM 649 682	Válvula aórtica y mitral normales
+T90	SYMPTOM 828 844	malestar general
+T91	SYMPTOM 856 863	náuseas
+T92	SYMPTOM 866 873	vómitos
+T93	SYMPTOM 900 906	fiebre
+T94	SYMPTOM 1012 1021	hiporexia
+T95	SYMPTOM 1054 1076	debilidad generalizada
+T96	SYMPTOM 1079 1087	tos seca
+T97	SYMPTOM 1162 1177	dolor abdominal
+T98	SYMPTOM 1601 1619	mal estado general
+T99	SYMPTOM 1681 1695	dolor torácico
+T100	SYMPTOM 1702 1705	tos
+T101	SYMPTOM 1708 1726	malestar abdominal
+T102	SYMPTOM 1766 1772	disnea
+T103	SYMPTOM 1778 1810	aumento del trabajo respiratorio
+T104	SYMPTOM 1936 1946	consciente
+T105	SYMPTOM 1949 1958	orientado
+T106	SYMPTOM 2141 2162	ingurgitación yugular
+T107	SYMPTOM 2190 2205	hipoventilación
+T108	SYMPTOM 2208 2249	crepitantes en bases de campos pulmonares
+T109	SYMPTOM 2251 2289	Auscultación cardiaca: ruidos rítmicos
+T110	SYMPTOM 2303 2323	tercer tono cardiaco
+T111	SYMPTOM 2328 2344	roce pericárdico
+T112	SYMPTOM 2346 2397	Abdomen blando, ligeramente doloroso a la palpación
+T113	SYMPTOM 2468 2502	Extremidades inferiores sin edemas
+T114	SYMPTOM 2862 2884	Reticulocitos normales
+T115	SYMPTOM 3131 3144	ritmo sinusal
+T116	SYMPTOM 3297 3325	congestión vascular pulmonar
+T117	SYMPTOM 3651 3672	Bazo de tamaño normal
+T118	SYMPTOM 3803 3832	líquido libre intraperitoneal
+T119	SYMPTOM 3877 3899	VI de dimensión normal
+T120	SYMPTOM 4558 4577	congestión hepática
+T121	SYMPTOM 4757 4775	mal estado general
+T122	SYMPTOM 4922 4956	alteración de marcadores hepáticos
+T123	SYMPTOM 6462 6468	anuria
+T124	SYMPTOM 684 713	Patrón diastólico restrictivo
+T125	SYMPTOM 1303 1348	alteraciones secundarias de la repolarización
+T126	SYMPTOM 4027 4080	Función sistólica global VI deprimida en grado severo
+T127	SYMPTOM 4082 4107	hipocontractilidad global
+T128	SYMPTOM 4297 4333	Válvula aórtica de estructura normal
+T129	SYMPTOM 4160 4230	Ventrículo derecho de dimensión normal, hipocontráctil en grado severo
+T130	SYMPTOM 620 647	Cavidades derechas normales
+T131	SYMPTOM 2727 2749	Perfil hepático normal
+T132	SYMPTOM 3330 3350	focos consolidativos
+T133	SYMPTOM 6649 6655	éxitus
+T134	SYMPTOM 1394 1438	elevación de marcadores de necrosis cardiaca
+T135	SYMPTOM 3674 3707	Aorta abdominal de calibre normal
+T136	SYMPTOM 3709 3756	Riñones con buena diferenciación corticomedular
+T137	MEDICATION 422 431	enalapril
+T138	MEDICATION 5328 5338	dobutamina

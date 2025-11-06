@@ -1,0 +1,79 @@
+T1	DISEASE 122 149	Insuficiencia renal crónica
+T2	DISEASE 174 189	displasia renal
+T3	DISEASE 202 217	quistes renales
+T4	DISEASE 257 293	Hiperparatiroidismo secundario a IRC
+T5	DISEASE 295 317	carcinoma renoureteral
+T6	DISEASE 347 366	Colestasis hepática
+T7	DISEASE 368 412	estenosis de arterias pulmonares principales
+T8	DISEASE 414 435	hipertensión arterial
+T9	DISEASE 437 447	dislipemia
+T10	DISEASE 449 466	tabaquismo activo
+T11	DISEASE 1902 1948	Válvula aórtica bicúspide con estenosis severa
+T12	DISEASE 2184 2252	Estenosis proximal de ambas ramas principales de la arteria pulmonar
+T13	DISEASE 2624 2648	Estenosis aórtica severa
+T14	DISEASE 2672 2719	Estenosis proximal de ambas arterias pulmonares
+T15	DISEASE 2958 2979	edema agudo de pulmón
+T16	DISEASE 3113 3178	estenosis aórtica severa en válvula aórtica bicúspide calcificada
+T17	DISEASE 3266 3298	estenosis de arterias pulmonares
+T18	DISEASE 3726 3771	Estenosis aórtica severa en válvula bicúspide
+T19	DISEASE 3774 3794	Síndrome de Alagille
+T20	DISEASE 2789 2837	cardiomegalia a expensas de cavidades izquierdas
+T21	DISEASE 554 575	edema agudo de pulmón
+T22	DISEASE 1334 1355	edema agudo de pulmón
+T23	DISEASE 151 154	IRC
+T24	DISEASE 1820 1859	VI con hipertrofia concéntrica moderada
+T25	DISEASE 1877 1900	Calcio en anillo mitral
+T26	DISEASE 1481 1484	HVI
+T27	DISEASE 2031 2051	insuficiencia ligera
+T28	PROCEDURE 89 107	exploración física
+T29	PROCEDURE 222 234	hemodiálisis
+T30	PROCEDURE 477 496	trasplante hepático
+T31	PROCEDURE 650 662	hemodiálisis
+T32	PROCEDURE 771 789	exploración física
+T33	PROCEDURE 840 872	auscultación cardiaca y pulmonar
+T34	PROCEDURE 1041 1044	ECG
+T35	PROCEDURE 1174 1186	sueroterapia
+T36	PROCEDURE 1188 1231	transfusión de dos concentrados de hematíes
+T37	PROCEDURE 1292 1310	reposición hídrica
+T38	PROCEDURE 1415 1433	Electrocardiograma
+T39	PROCEDURE 1706 1717	Rx de tórax
+T40	PROCEDURE 1790 1818	Ecocardiograma transtorácico
+T41	PROCEDURE 2170 2182	RMN cardiaca
+T42	PROCEDURE 2555 2570	Coronariografía
+T43	PROCEDURE 2652 2670	Angio TAC de tórax
+T44	PROCEDURE 2997 3029	ventilación mecánica no invasiva
+T45	PROCEDURE 3032 3046	hemofiltración
+T46	PROCEDURE 3059 3087	ecocardiograma transtorácico
+T47	PROCEDURE 3234 3252	angio TAC de tórax
+T48	PROCEDURE 3390 3405	coronariografía
+T49	PROCEDURE 3451 3481	sustitución de válvula aórtica
+T50	PROCEDURE 3513 3551	implante de prótesis aórtica biológica
+T51	PROCEDURE 3629 3643	ecocardiograma
+T52	PROCEDURE 1603 1612	Analítica
+T53	PROCEDURE 1130 1139	analítica
+T54	SYMPTOM 676 689	mareo intenso
+T55	SYMPTOM 691 701	sudoración
+T56	SYMPTOM 704 710	disnea
+T57	SYMPTOM 737 764	disnea paroxística nocturna
+T58	SYMPTOM 798 816	mal estado general
+T59	SYMPTOM 889 961	soplo sistólico 4/6 en foco aórtico irradiado a borde esternal izquierdo
+T60	SYMPTOM 997 1028	crepitantes hasta campos medios
+T61	SYMPTOM 1058 1094	descenso del ST en cara lateral baja
+T62	SYMPTOM 1097 1122	ascenso del ST de V2 a V3
+T63	SYMPTOM 1251 1285	alteraciones electrocardiográficas
+T64	SYMPTOM 1435 1448	Ritmo sinusal
+T65	SYMPTOM 1486 1510	ondas T negativas en III
+T66	SYMPTOM 1512 1545	pobre crecimiento de r de V1 a V3
+T67	SYMPTOM 1561 1599	T negativas asimétricas en III y V5-V6
+T68	SYMPTOM 1751 1786	infiltrados alveolares parahiliares
+T69	SYMPTOM 2053 2102	Cámaras derechas normales con VD normofuncionante
+T70	SYMPTOM 2104 2166	Válvula pulmonar normal con ramas principales algo adelgazadas
+T71	SYMPTOM 2446 2474	función sistólica conservada
+T72	SYMPTOM 3141 3205	válvula aórtica bicúspide calcificada y con movilidad disminuida
+T73	SYMPTOM 1864 1875	FEVI normal
+T74	SYMPTOM 2414 2444	Ventrículo derecho no dilatado
+T75	SYMPTOM 2572 2622	Arterias coronarias angiográficamente sin lesiones
+T76	SYMPTOM 964 994	carótidas con 2o ruido abolido
+T77	SYMPTOM 3675 3709	normofuncionamiento de la prótesis
+#1	AnnotatorNotes T4	 IRC: Insuficiencia renal crónica
+#2	AnnotatorNotes T23	 Insuficiencia renal crónica

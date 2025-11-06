@@ -1,0 +1,122 @@
+T1	DISEASE 92 107	hábitos tóxicos
+T2	DISEASE 529 551	síndrome aórtico agudo
+T3	DISEASE 1241 1244	TVP
+T4	DISEASE 2059 2081	síndrome aórtico agudo
+T5	DISEASE 2120 2165	Tronco coronario izquierdo (TCI): suboclusión
+T6	DISEASE 2702 2735	taquicardia ventricular sostenida
+T7	DISEASE 3194 3221	Disfunción sistólica severa
+T8	DISEASE 3377 3411	Aneurisma discinético inferoapical
+T9	DISEASE 3899 3918	Derrame pericárdico
+T10	DISEASE 4088 4101	trombo apical
+T11	DISEASE 4134 4156	aneurisma inferoapical
+T12	DISEASE 4210 4228	shock cardiogénico
+T13	DISEASE 4231 4252	edema agudo de pulmón
+T14	DISEASE 4583 4608	disfunción de VI moderada
+T15	DISEASE 4813 4833	disfunción VI severa
+T16	DISEASE 4872 4906	aneurisma discinético inferoapical
+T17	DISEASE 4921 4941	congestión sistémica
+T18	DISEASE 4945 4958	valvulopatías
+T19	DISEASE 5561 5615	Síndrome coronario agudo con elevación del segmento ST
+T20	DISEASE 5617 5624	SCACEST
+T21	DISEASE 2421 2434	Cx: disección
+T22	DISEASE 3824 3826	IT
+T23	DISEASE 4378 4381	TVS
+T24	DISEASE 5651 5702	Disección coronaria espontánea de TCI hacia DA y CX
+T25	DISEASE 5780 5800	Disfunción VI severa
+T26	DISEASE 4736 4754	eventos arrítmicos
+T27	DISEASE 2181 2301	disección espontánea a nivel medio-distal que involucra al ostium de descendente anterior (DA) y segmento proximal de CX
+T28	DISEASE 3743 3767	VM: velos finos, reflujo
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 440 458	electrocardiograma
+T31	PROCEDURE 503 515	TAC torácico
+T32	PROCEDURE 698 713	coronariografía
+T33	PROCEDURE 724 742	Exploración física
+T34	PROCEDURE 959 980	Auscultación cardiaca
+T35	PROCEDURE 1025 1046	Auscultación pulmonar
+T36	PROCEDURE 1271 1274	ECG
+T37	PROCEDURE 1521 1540	Analítica de sangre
+T38	PROCEDURE 1729 1745	Función tiroidea
+T39	PROCEDURE 1767 1789	Metabolismo del hierro
+T40	PROCEDURE 1878 1916	Estudio de autoinmunidad y coagulación
+T41	PROCEDURE 1927 1936	Hemograma
+T42	PROCEDURE 2002 2017	Coronariografía
+T43	PROCEDURE 2019 2030	aortografía
+T44	PROCEDURE 2083 2098	Coronariografía
+T45	PROCEDURE 2617 2654	Intervencionismo coronario percutáneo
+T46	PROCEDURE 2656 2669	ICP sobre TCI
+T47	PROCEDURE 2830 2866	implanta stent directo farmacoactivo
+T48	PROCEDURE 3026 3075	implante de balón de contrapulsación intraaórtico
+T49	PROCEDURE 3077 3082	BCIAo
+T50	PROCEDURE 3115 3143	Ecocardiograma transtorácico
+T51	PROCEDURE 4037 4058	contraste intravenoso
+T52	PROCEDURE 4265 4281	apoyo inotrópico
+T53	PROCEDURE 4297 4329	ventilación mecánica no invasiva
+T54	PROCEDURE 4331 4335	VMNI
+T55	PROCEDURE 4339 4344	BCIAo
+T56	PROCEDURE 4484 4501	retirada de BCIAo
+T57	PROCEDURE 4537 4551	ecocardiograma
+T58	PROCEDURE 4778 4792	ecocardiograma
+T59	PROCEDURE 5034 5038	IECA
+T60	PROCEDURE 5041 5055	betabloqueante
+T61	PROCEDURE 5145 5165	doble antiagregación
+T62	PROCEDURE 5204 5213	diurético
+T63	PROCEDURE 5267 5281	ecocardiograma
+T64	PROCEDURE 5365 5391	implante de DAI subcutáneo
+T65	PROCEDURE 5704 5778	Intervencionismo coronario percutáneo sobre TCI-DA (1 stent farmacoactivo)
+T66	PROCEDURE 1542 1562	marcadores cardiacos
+T67	PROCEDURE 1623 1633	Bioquímica
+T68	PROCEDURE 2791 2815	CVE sincronizada a 100 J
+T69	PROCEDURE 4425 4428	CVE
+T70	PROCEDURE 5843 5869	Implante de DAI subcutáneo
+T71	PROCEDURE 3086 3112	perfusión de noradrenalina
+T72	PROCEDURE 553 577	se activa Código Infarto
+T73	PROCEDURE 4516 4524	inotropo
+T74	PROCEDURE 4615 4635	inotropo intravenoso
+T75	SYMPTOM 263 297	sensación de mareo e inestabilidad
+T76	SYMPTOM 346 398	opresión centrotorácica e irradiación interescapular
+T77	SYMPTOM 400 426	inestabilidad hemodinámica
+T78	SYMPTOM 781 799	Mal estado general
+T79	SYMPTOM 801 811	Consciente
+T80	SYMPTOM 814 823	orientada
+T81	SYMPTOM 825 845	palidez generalizada
+T82	SYMPTOM 847 858	Taquipneica
+T83	SYMPTOM 860 868	sudorosa
+T84	SYMPTOM 950 957	Afebril
+T85	SYMPTOM 959 989	Auscultación cardiaca: rítmica
+T86	SYMPTOM 994 1000	soplos
+T87	SYMPTOM 1011 1023	taquicárdica
+T88	SYMPTOM 1048 1091	crepitantes bilaterales hasta campos medios
+T89	SYMPTOM 1093 1133	Abdomen: blando, depresible, no doloroso
+T90	SYMPTOM 1139 1144	masas
+T91	SYMPTOM 1148 1156	megalias
+T92	SYMPTOM 1201 1217	EEII: sin edemas
+T93	SYMPTOM 1286 1299	ritmo sinusal
+T94	SYMPTOM 1320 1335	Elevación de ST
+T95	SYMPTOM 1349 1369	lesión subepicárdica
+T96	SYMPTOM 1840 1876	Vitamina B12 y ácido fólico normales
+T97	SYMPTOM 1878 1925	Estudio de autoinmunidad y coagulación negativo
+T98	SYMPTOM 2751 2777	inestabilidad hemodinámica
+T99	SYMPTOM 3155 3178	VI ligeramente dilatado
+T100	SYMPTOM 3576 3618	Aurícula izquierda de dimensiones normales
+T101	SYMPTOM 3620 3647	Cavidades derechas normales
+T102	SYMPTOM 3649 3667	VD normocontráctil
+T103	SYMPTOM 3877 3897	PAPs estimada normal
+T104	SYMPTOM 4386 4412	inestabilidad hemodinámica
+T105	SYMPTOM 5805 5841	asimetrías segmentarias contráctiles
+T106	SYMPTOM 242 249	síncope
+T107	SYMPTOM 870 884	hipoperfundida
+T108	SYMPTOM 1461 1488	Descenso concomitante de ST
+T109	SYMPTOM 3413 3456	Hipoquinesia lateral media y anterior medio
+T110	SYMPTOM 3835 3850	VCI no dilatada
+T111	SYMPTOM 4839 4870	aquinesia de segmentos apicales
+T112	SYMPTOM 2100 2118	dominancia derecha
+T113	SYMPTOM 1160 1191	signos de irritación peritoneal
+T114	SYMPTOM 472 489	afectación de TCI
+T115	SYMPTOM 2555 2586	Coronaria derecha: sin lesiones
+T116	SYMPTOM 3972 3995	compromiso hemodinámico
+T117	MEDICATION 609 612	AAS
+T118	MEDICATION 3099 3112	noradrenalina
+T119	MEDICATION 5078 5088	ivabradina
+T120	MEDICATION 5191 5201	eplerenona
+T121	MEDICATION 622 632	ticagrelor
+#1	AnnotatorNotes T23	Taquicardia ventricular sostenida

@@ -1,0 +1,121 @@
+T1	DISEASE 58 75	episodio sincopal
+T2	DISEASE 321 344	alergias medicamentosas
+T3	DISEASE 356 373	Tabaquismo activo
+T4	DISEASE 391 407	Enolismo crónico
+T5	DISEASE 630 647	episodio sincopal
+T6	DISEASE 1493 1518	trombosis venosa profunda
+T7	DISEASE 1520 1523	TVP
+T8	DISEASE 1719 1736	Hiperlactacidemia
+T9	DISEASE 2544 2565	hipertensión pulmonar
+T10	DISEASE 2601 2620	derrame pericárdico
+T11	DISEASE 2752 2802	trombo intracoronario (sin placa complicada) en CD
+T12	DISEASE 2889 2895	trombo
+T13	DISEASE 3221 3241	hipotensión arterial
+T14	DISEASE 3619 3636	episodio sincopal
+T15	DISEASE 3877 3931	síndrome coronario agudo sin elevación del segmento ST
+T16	DISEASE 3933 3940	SCASEST
+T17	DISEASE 4188 4293	trombo en CD proximal y media, secundario a la reacción acetaldehídica por interacción alcohol-disulfiram
+T18	DISEASE 4781 4797	hábito tabáquico
+T19	DISEASE 5025 5154	Infarto agudo de miocardio no Q de localización inferior, secundario a reacción acetaldehídica por interacción alcohol-disulfiram
+T20	DISEASE 5172 5199	trombo intracoronario en CD
+T21	DISEASE 1778 1797	necrosis miocárdica
+T22	DISEASE 4508 4520	trombo en CD
+T23	DISEASE 1741 1749	acidosis
+T24	DISEASE 2978 3015	erosión de placa en coronaria derecha
+T25	DISEASE 4557 4573	erosión de placa
+T26	PROCEDURE 493 533	tratamiento deshabituador con disulfiram
+T27	PROCEDURE 979 997	Exploración física
+T28	PROCEDURE 1300 1321	Auscultación cardiaca
+T29	PROCEDURE 1362 1383	Auscultación pulmonar
+T30	PROCEDURE 1563 1572	Hemograma
+T31	PROCEDURE 1642 1647	iones
+T32	PROCEDURE 1860 1871	Coagulación
+T33	PROCEDURE 1916 1934	Electrocardiograma
+T34	PROCEDURE 2302 2316	Ecocardiograma
+T35	PROCEDURE 2672 2697	tratamiento deshabituador
+T36	PROCEDURE 2722 2738	Coronariografías
+T37	PROCEDURE 2908 2939	tomografía de coherencia óptica
+T38	PROCEDURE 2941 2944	OCT
+T39	PROCEDURE 3278 3281	ECG
+T40	PROCEDURE 3534 3537	ECG
+T41	PROCEDURE 4025 4039	ecocardiograma
+T42	PROCEDURE 4132 4147	coronariografía
+T43	PROCEDURE 4320 4340	doble antiagregación
+T44	PROCEDURE 4430 4445	anticoagulación
+T45	PROCEDURE 4460 4475	coronariografía
+T46	PROCEDURE 4549 4552	OCT
+T47	PROCEDURE 4626 4640	revascularizar
+T48	PROCEDURE 4902 4927	tratamiento deshabituador
+T49	PROCEDURE 5232 5252	doble antiagregación
+T50	PROCEDURE 5267 5293	anticoagulación parenteral
+T51	PROCEDURE 4351 4379	anticoagulación con heparina
+T52	PROCEDURE 4884 4887	IBP
+T53	PROCEDURE 1582 1592	Bioquímica
+T54	PROCEDURE 284 302	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 1764 1806	Marcadores de necrosis miocárdica seriados
+T56	PROCEDURE 1650 1663	transaminasas
+T57	PROCEDURE 4823 4882	doble antiagreación con ácido acetilsalicílico y ticagrelor
+T58	PROCEDURE 1552 1561	Analítica
+T59	PROCEDURE 3725 3778	troponina T ultrasensible en determinaciones seriadas
+T60	PROCEDURE 4684 4706	abstinencia alcohólica
+T61	SYMPTOM 752 764	rubor facial
+T62	SYMPTOM 766 776	sudoración
+T63	SYMPTOM 778 794	malestar general
+T64	SYMPTOM 797 804	palidez
+T65	SYMPTOM 818 832	dolor torácico
+T66	SYMPTOM 834 840	disnea
+T67	SYMPTOM 845 858	palpitaciones
+T68	SYMPTOM 1169 1188	Buen estado general
+T69	SYMPTOM 1190 1200	Consciente
+T70	SYMPTOM 1203 1212	orientado
+T71	SYMPTOM 1250 1257	Afebril
+T72	SYMPTOM 1259 1267	Sudoroso
+T73	SYMPTOM 1269 1298	Presión venosa yugular normal
+T74	SYMPTOM 1323 1348	ruidos cardiacos rítmicos
+T75	SYMPTOM 1354 1360	soplos
+T76	SYMPTOM 1385 1414	murmullo vesicular conservado
+T77	SYMPTOM 1445 1478	edemas en extremidades inferiores
+T78	SYMPTOM 1563 1580	Hemograma: normal
+T79	SYMPTOM 2026 2038	QRS estrecho
+T80	SYMPTOM 2075 2101	onda T plana en DIII y aVF
+T81	SYMPTOM 2142 2207	Discreta elevación (máximo 1 mm en V5) del segmento ST de V3 a V6
+T82	SYMPTOM 2218 2231	ritmo sinusal
+T83	SYMPTOM 2246 2263	onda R alta en V2
+T84	SYMPTOM 2266 2300	ondas T negativas en cara inferior
+T85	SYMPTOM 2318 2371	ventrículo izquierdo (VI) de tamaño y grosor normales
+T86	SYMPTOM 2373 2401	función sistólica conservada
+T87	SYMPTOM 2442 2495	Aurícula izquierda (AI) y cavidades derechas normales
+T88	SYMPTOM 2501 2539	alteraciones valvulares significativas
+T89	SYMPTOM 2567 2596	Raíz aórtica de tamaño normal
+T90	SYMPTOM 3294 3339	infradesnivelación del segmento ST de V3 a V6
+T91	SYMPTOM 3906 3931	elevación del segmento ST
+T92	SYMPTOM 4008 4020	asintomático
+T93	SYMPTOM 4052 4083	función sistólica VI conservada
+T94	SYMPTOM 5295 5329	Función sistólica de VI conservada
+T95	SYMPTOM 3221 3241	hipotensión arterial
+T96	SYMPTOM 1995 2014	taquicardia sinusal
+T97	SYMPTOM 1642 1672	iones y transaminasas normales
+T98	SYMPTOM 2415 2440	leve hipocinesia inferior
+T99	SYMPTOM 3381 3415	supradesnivelación del segmento ST
+T100	SYMPTOM 4095 4115	hipocinesia inferior
+T101	SYMPTOM 5334 5354	hipocinesia inferior
+T102	SYMPTOM 3093 3140	arterias coronarias sin lesiones significativas
+T103	SYMPTOM 3998 4005	estable
+T104	SYMPTOM 1218 1239	focalidad neurológica
+T105	SYMPTOM 1420 1440	ruidos sobreañadidos
+T106	SYMPTOM 3700 3750	aumento significativo de troponina T ultrasensible
+T107	SYMPTOM 893 916	movimientos convulsivos
+T108	SYMPTOM 2052 2070	Onda R embrionaria
+T109	SYMPTOM 2103 2140	Descenso del punto J de 1 mm en V1-V2
+T110	MEDICATION 523 533	disulfiram
+T111	MEDICATION 2709 2720	clometiazol
+T112	MEDICATION 2852 2867	heparina sódica
+T113	MEDICATION 3666 3676	disulfiram
+T114	MEDICATION 4371 4386	heparina sódica
+T115	MEDICATION 4748 4758	disulfiram
+T116	MEDICATION 4847 4869	ácido acetilsalicílico
+T117	MEDICATION 4872 4882	ticagrelor
+T118	MEDICATION 4889 4898	omeprazol
+T119	MEDICATION 4999 5010	clometiazol
+T120	MEDICATION 4965 4975	disulfiram
+#1	AnnotatorNotes T38	 tomografía de coherencia óptica

@@ -1,0 +1,63 @@
+T1	ENFERMEDAD 78 81	HTA
+T2	ENFERMEDAD 83 93	Dislipemia
+T3	ENFERMEDAD 95 128	Fibrilación auricular paroxística
+T4	ENFERMEDAD 170 183	tumor vesical
+T5	ENFERMEDAD 316 343	enfermedad del nodo sinusal
+T6	ENFERMEDAD 964 969	BRDHH
+T7	ENFERMEDAD 971 975	HBAS
+T8	ENFERMEDAD 1243 1258	Derrame pleural
+T9	ENFERMEDAD 1528 1547	derrame pericárdico
+T10	ENFERMEDAD 1668 1740	perforación del ápex del ventrículo derecho por el electrodo ventricular
+T11	ENFERMEDAD 1822 1867	hematoma en el seno de la grasa cardiofrénica
+T12	ENFERMEDAD 1879 1898	derrame pericárdico
+T13	ENFERMEDAD 1910 1925	derrame pleural
+T14	ENFERMEDAD 1973 1982	hemotórax
+T15	ENFERMEDAD 2001 2011	neumotórax
+T16	ENFERMEDAD 2013 2064	Atelectasia pasiva parcial de LSI y completa de LII
+T17	ENFERMEDAD 2407 2426	derrame pericárdico
+T18	ENFERMEDAD 2491 2539	perforación miocárdica por electrodo ventricular
+T19	ENFERMEDAD 2924 2933	hemotórax
+T20	ENFERMEDAD 3023 3094	Perforación miocárdica tardía de ápex de VD por electrodo de marcapasos
+T21	ENFERMEDAD 1486 1499	valvulopatías
+T22	ENFERMEDAD 3141 3161	Hemotórax secundario
+T23	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T24	PROCEDIMIENTO 148 151	ACO
+T25	PROCEDIMIENTO 195 198	RTU
+T26	PROCEDIMIENTO 549 567	Exploración física
+T27	PROCEDIMIENTO 610 623	gafas nasales
+T28	PROCEDIMIENTO 635 656	Auscultación cardiaca
+T29	PROCEDIMIENTO 700 722	Ausculatación pulmonar
+T30	PROCEDIMIENTO 867 885	Examen neurológico
+T31	PROCEDIMIENTO 935 938	ECG
+T32	PROCEDIMIENTO 1186 1206	Radiografía de tórax
+T33	PROCEDIMIENTO 1292 1307	Ecocardioscopia
+T34	PROCEDIMIENTO 1549 1587	Tomografía computarizada (TC) de tórax
+T35	PROCEDIMIENTO 2277 2312	revisión del dispositivo marcapasos
+T36	PROCEDIMIENTO 2387 2402	Ecocardioscopia
+T37	PROCEDIMIENTO 2552 2563	TC torácico
+T38	PROCEDIMIENTO 2659 2740	retirándose el electrodo ventricular de forma percutánea con recolocación en TSVD
+T39	PROCEDIMIENTO 2848 2864	drenaje torácico
+T40	PROCEDIMIENTO 3096 3139	Reimplante de electrodo ventricular en TSVD
+T41	PROCEDIMIENTO 1014 1023	Analítica
+T42	PROCEDIMIENTO 285 311	marcapasos definitivo DDDR
+T43	SINTOMA 368 385	episodio sincopal
+T44	SINTOMA 486 504	disnea de esfuerzo
+T45	SINTOMA 506 513	astenia
+T46	SINTOMA 516 546	dolor torácico tipo pleurítico
+T47	SINTOMA 658 686	R1 y R2 rítmicos y regulares
+T48	SINTOMA 692 698	soplos
+T49	SINTOMA 724 778	hipoventilación en campo medio e inferior de hemitórax
+T50	SINTOMA 790 810	Abdomen: no doloroso
+T51	SINTOMA 826 847	irritación peritoneal
+T52	SINTOMA 849 865	EEII: sin edemas
+T53	SINTOMA 940 953	ritmo sinusal
+T54	SINTOMA 977 1012	T negativas cara inferior y lateral
+T55	SINTOMA 1309 1335	VI de dimensiones normales
+T56	SINTOMA 1337 1352	FEVI conservada
+T57	SINTOMA 1368 1414	alteraciones segmentarias de la contractilidad
+T58	SINTOMA 2115 2120	mareo
+T59	SINTOMA 2123 2145	inestabilidad postural
+T60	SINTOMA 2150 2172	pérdida de consciencia
+T61	SINTOMA 2175 2220	dolor torácico de características pleuríticas
+T62	SINTOMA 1416 1443	Cavidades derechas normales
+T63	SINTOMA 867 908	Examen neurológico: funciones conservadas

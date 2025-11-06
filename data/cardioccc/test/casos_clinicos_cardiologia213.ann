@@ -1,0 +1,163 @@
+T1	ENFERMEDAD 181 196	hábitos tóxicos
+T2	ENFERMEDAD 200 214	metabolopatías
+T3	ENFERMEDAD 323 334	cardiopatía
+T4	ENFERMEDAD 373 426	Adenocarcinoma infiltrante de la unión rectosigmoidea
+T5	ENFERMEDAD 463 469	anemia
+T6	ENFERMEDAD 713 739	parada cardiorrespiratoria
+T7	ENFERMEDAD 741 761	Sarcoidosis pulmonar
+T8	ENFERMEDAD 863 881	neoplasia de recto
+T9	ENFERMEDAD 926 949	adenopatía paratraqueal
+T10	ENFERMEDAD 988 1014	parada cardiorrespiratoria
+T11	ENFERMEDAD 1225 1251	parada cardiorrespiratoria
+T12	ENFERMEDAD 1417 1440	fibrilación ventricular
+T13	ENFERMEDAD 1724 1750	parada cardiorrespiratoria
+T14	ENFERMEDAD 1786 1792	angina
+T15	ENFERMEDAD 1803 1810	síncope
+T16	ENFERMEDAD 1883 1905	insuficiencia cardiaca
+T17	ENFERMEDAD 2654 2671	trombosis venosas
+T18	ENFERMEDAD 3792 3818	parada cardiorrespiratoria
+T19	ENFERMEDAD 3821 3844	fibrilación ventricular
+T20	ENFERMEDAD 4284 4316	adenopatías hiliares bilaterales
+T21	ENFERMEDAD 4460 4475	derrame pleural
+T22	ENFERMEDAD 4479 4489	neumotórax
+T23	ENFERMEDAD 5010 5037	insuficiencia pulmonar leve
+T24	ENFERMEDAD 5043 5062	derrame pericárdico
+T25	ENFERMEDAD 5782 5806	cicatriz intramiocárdica
+T26	ENFERMEDAD 6093 6190	adenopatías hipermetabólicas localizadas en compartimentos supraclavicular, mediastínico e hiliar
+T27	ENFERMEDAD 6207 6227	sarcoidosis pulmonar
+T28	ENFERMEDAD 6504 6548	parada cardiorrespiratoria extrahospitalaria
+T29	ENFERMEDAD 7171 7194	fibrilación ventricular
+T30	ENFERMEDAD 7196 7217	cardiopatía isquémica
+T31	ENFERMEDAD 7219 7242	arritmias ventriculares
+T32	ENFERMEDAD 7322 7378	toxicidad cardiológica por su tratamiento quimioterápico
+T33	ENFERMEDAD 7517 7541	fibrosis intramiocárdica
+T34	ENFERMEDAD 7583 7606	fibrilación ventricular
+T35	ENFERMEDAD 7638 7659	sarcoidosis sistémica
+T36	ENFERMEDAD 7716 7736	sarcoidosis cardiaca
+T37	ENFERMEDAD 7763 7789	parada cardiorrespiratoria
+T38	ENFERMEDAD 8506 8526	Sarcoidosis cardiaca
+T39	ENFERMEDAD 8702 8722	anomalías coronarias
+T40	ENFERMEDAD 8432 8504	Parada cardiorrespiratoria extrahospitalaria por fibrilación ventricular
+T41	ENFERMEDAD 8399 8417	eventos arrítmicos
+T42	ENFERMEDAD 2434 2470	Abdomen con cicatriz de laparoscopia
+T43	ENFERMEDAD 4577 4621	Ventrículo izquierdo (VI) levemente dilatado
+T44	ENFERMEDAD 5273 5312	ventrículo izquierdo levemente dilatado
+T45	ENFERMEDAD 5879 5916	Aurícula izquierda levemente dilatada
+T46	ENFERMEDAD 8574 8608	inflamación activa intramiocárdica
+T47	ENFERMEDAD 4321 4354	desviación ni compresión traqueal
+T48	ENFERMEDAD 337 350	muerte súbita
+T49	ENFERMEDAD 8324 8337	muerte súbita
+T50	ENFERMEDAD 5200 5234	alteraciones anatómicas congénitas
+T51	ENFERMEDAD 6335 6364	afectación sarcoidótica aguda
+T52	ENFERMEDAD 6553 6576	fibrilación ventricular
+T53	ENFERMEDAD 8010 8048	actividad inflamatoria intramiocárdica
+T54	ENFERMEDAD 8531 8555	cicatriz intramiocárdica
+T55	PROCEDIMIENTO 519 552	rectosigmoidectomía laparoscópica
+T56	PROCEDIMIENTO 600 658	tratamiento quimioterápico con oxaliplatino y capecitabina
+T57	PROCEDIMIENTO 915 949	biopsia de adenopatía paratraqueal
+T58	PROCEDIMIENTO 1061 1103	quimioterapia (oxaliplatino y capecitabina
+T59	PROCEDIMIENTO 1311 1365	maniobras de reanimación cardiopulmonar (RCP) avanzada
+T60	PROCEDIMIENTO 1352 1355	RCP
+T61	PROCEDIMIENTO 1556 1578	intubación orotraqueal
+T62	PROCEDIMIENTO 1580 1583	IOT
+T63	PROCEDIMIENTO 1587 1607	ventilación mecánica
+T64	PROCEDIMIENTO 1908 1926	Exploración física
+T65	PROCEDIMIENTO 2070 2090	ventilación invasiva
+T66	PROCEDIMIENTO 2093 2096	IOT
+T67	PROCEDIMIENTO 2207 2210	IOT
+T68	PROCEDIMIENTO 2458 2470	laparoscopia
+T69	PROCEDIMIENTO 3180 3189	Hemograma
+T70	PROCEDIMIENTO 3393 3404	Coagulación
+T71	PROCEDIMIENTO 3711 3729	sedimento de orina
+T72	PROCEDIMIENTO 3740 3781	lectrocardiograma (ECG) de 3 derivaciones
+T73	PROCEDIMIENTO 3759 3762	ECG
+T74	PROCEDIMIENTO 3846 3868	ECG de 12 derivaciones
+T75	PROCEDIMIENTO 4195 4215	Radiografía de tórax
+T76	PROCEDIMIENTO 4519 4547	Ecocardiograma transtorácico
+T77	PROCEDIMIENTO 5111 5160	Tomografía computarizada (TC) arterias coronarias
+T78	PROCEDIMIENTO 5236 5265	Resonancia magnética cardiaca
+T79	PROCEDIMIENTO 5267 5270	RMC
+T80	PROCEDIMIENTO 6018 6075	Tomografía de emisión de positrones con 18F-desoxiglucosa
+T81	PROCEDIMIENTO 6077 6080	PET
+T82	PROCEDIMIENTO 6609 6617	intubado
+T83	PROCEDIMIENTO 6712 6720	extubado
+T84	PROCEDIMIENTO 6964 6974	telemetría
+T85	PROCEDIMIENTO 7352 7378	tratamiento quimioterápico
+T86	PROCEDIMIENTO 7388 7412	estudio ecocardiográfico
+T87	PROCEDIMIENTO 7425 7441	TC de coronarias
+T88	PROCEDIMIENTO 7478 7481	RMC
+T89	PROCEDIMIENTO 7670 7677	biopsia
+T90	PROCEDIMIENTO 7856 7859	RMC
+T91	PROCEDIMIENTO 7892 7920	tratamiento antiinflamatorio
+T92	PROCEDIMIENTO 7954 7960	PET-TC
+T93	PROCEDIMIENTO 8181 8209	tratamiento antiinflamatorio
+T94	PROCEDIMIENTO 8227 8295	implante de un desfibrilador automático implantable (DAI) subcutáneo
+T95	PROCEDIMIENTO 8724 8750	Implante de DAI subcutáneo
+T96	PROCEDIMIENTO 2710 2720	Bioquímica
+T97	PROCEDIMIENTO 34 52	EXPLORACIÓN FÍSICA
+T98	PROCEDIMIENTO 3530 3546	Tóxicos en orina
+T99	PROCEDIMIENTO 452 469	estudio de anemia
+T100	PROCEDIMIENTO 2047 2053	sedado
+T101	PROCEDIMIENTO 2555 2564	palpación
+T102	PROCEDIMIENTO 2699 2708	Analítica
+T103	PROCEDIMIENTO 5594 5608	secuencia STIR
+T104	PROCEDIMIENTO 1938 1949	exploración
+T105	PROCEDIMIENTO 1451 1458	choques
+T106	PROCEDIMIENTO 2055 2063	relajado
+T107	SINTOMA 1794 1800	disnea
+T108	SINTOMA 2225 2251	buen estado de hidratación
+T109	SINTOMA 2269 2284	bien perfundido
+T110	SINTOMA 2286 2329	Ruidos cardiacos rítmicos sin sobreañadidos
+T111	SINTOMA 2331 2360	Murmullo vesicular conservado
+T112	SINTOMA 2509 2514	masas
+T113	SINTOMA 2518 2526	megalias
+T114	SINTOMA 2542 2564	defensa a la palpación
+T115	SINTOMA 2566 2626	Extremidades bien perfundidas, pulsos presentes y simétricos
+T116	SINTOMA 2642 2647	edema
+T117	SINTOMA 3697 3737	Sistemático y sedimento de orina: normal
+T118	SINTOMA 3936 3972	Onda P de tamaño y duración normales
+T119	SINTOMA 3974 3992	Segmento PR normal
+T120	SINTOMA 3994 4015	Complejo QRS estrecho
+T121	SINTOMA 4076 4105	Segmento ST sin supradesnivel
+T122	SINTOMA 4107 4122	Onda T negativa
+T123	SINTOMA 4217 4250	silueta cardiaca de tamaño normal
+T124	SINTOMA 4252 4279	Ensanchamiento mediastínico
+T125	SINTOMA 4435 4458	redistribución vascular
+T126	SINTOMA 4491 4517	Cámara gástrica distendida
+T127	SINTOMA 4549 4575	aurículas de tamaño normal
+T128	SINTOMA 4641 4686	función sistólica global y segmentaria normal
+T129	SINTOMA 4755 4790	Ventrículo derecho de tamaño normal
+T130	SINTOMA 5064 5109	Flujo en aorta descendente y abdominal normal
+T131	SINTOMA 5423 5447	función sistólica normal
+T132	SINTOMA 5928 5961	aurícula derecha de tamaño normal
+T133	SINTOMA 8610 8663	Función sistólica del ventrículo izquierdo conservada
+T134	SINTOMA 8665 8697	Arterias coronarias sin lesiones
+T135	SINTOMA 5566 5587	edema intramiocárdico
+T136	SINTOMA 3905 3924	taquicardia sinusal
+T137	SINTOMA 2365 2405	ventilación simétrica en ambos hemitórax
+T138	SINTOMA 3541 3695	orina: negativo para benzodiacepina, cocaína, metadona, opiáceos, metanfetaminas, anfetaminas, cannabis, éxtasis, barbitúricos, antidepresivos tricíclicos
+T139	SINTOMA 4699 4753	presiones de llenado del ventrículo izquierdo normales
+T140	SINTOMA 4836 4923	Válvulas auriculoventriculares normofuncionantes sin datos de estenosis o insuficiencia
+T141	SINTOMA 4925 4972	Válvula aórtica trivalva fina, normofuncionante
+T142	SINTOMA 5808 5877	Ventrículo derecho de tamaño normal, con función sistólica conservada
+T143	SINTOMA 5383 5416	alteraciones de la contractilidad
+T144	SINTOMA 5162 5195	arterias epicárdicas sin lesiones
+T145	SINTOMA 6867 6918	asintomático desde el punto de vista cardiovascular
+T146	SINTOMA 8378 8385	estable
+T147	SINTOMA 2412 2432	ruidos sobreañadidos
+T148	SINTOMA 2253 2266	piel caliente
+T149	SINTOMA 2446 2495	cicatriz de laparoscopia reciente de buen aspecto
+T150	SINTOMA 5345 5367	masa miocárdica normal
+T151	SINTOMA 5473 5493	áreas de hipertrofia
+T152	SINTOMA 5629 5756	áreas de realce tardío de gadolinio (RTG) intramural en segmento anteroseptal basal y en la unión inferior de ambos ventrículos
+T153	SINTOMA 5963 6016	Aorta, arteria pulmonar y pericardio sin alteraciones
+T154	SINTOMA 6269 6319	focos patológicos hipermetabólicos en el miocardio
+T155	SINTOMA 6924 6946	alteraciones del ritmo
+T156	SINTOMA 7821 7849	actividad inflamatoria aguda
+T157	FARMACO 631 643	oxaliplatino
+T158	FARMACO 646 658	capecitabina
+T159	FARMACO 1076 1088	oxaliplatino
+T160	FARMACO 1091 1103	capecitabina
+T161	FARMACO 1480 1490	adrenalina
+#1	AnnotatorNotes T60	 Reanimación cardiopulmonar
+#2	AnnotatorNotes T79	 Resonancia magnética cardíaca
