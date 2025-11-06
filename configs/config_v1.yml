@@ -8,15 +8,15 @@ vars:
 # 🤖 PIPELINE DEFINITION
 nlp:
   '@core': pipeline  
-  lang: eds  # Word-level tokenization: use the "eds" tokenizer
+  lang: es  # Word-level tokenization: use the "eds" tokenizer
 
   # Our pipeline will contain a single NER pipe
   # The NER pipe will be a CRF model
   components:
-    normalizer:
-      '@factory': eds.normalizer
-    sentencizer:
-      '@factory': eds.sentencizer
+    # normalizer:
+    #   '@factory': eds.normalizer
+    # sentencizer:
+    #   '@factory': eds.sentencizer
     ner:
       '@factory': eds.ner_crf
       mode: 'joint'
