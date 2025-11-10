@@ -3,6 +3,7 @@ casos_clinicos_cardiologia1	SYMPTOM	759	786	dolor abdominal tipo cólico
 casos_clinicos_cardiologia1	SYMPTOM	789	795	fiebre
 casos_clinicos_cardiologia1	SYMPTOM	962	973	pico febril
 casos_clinicos_cardiologia1	SYMPTOM	976	1026	dolor abdominalfocalizado en fosa ilíaca izquierda
+casos_clinicos_cardiologia1	SYMPTOM	1098	1147	Se aisló Bacteroides fragilis en dos hemocultivos
 casos_clinicos_cardiologia1	SYMPTOM	1265	1276	pico febril
 casos_clinicos_cardiologia1	SYMPTOM	1281	1303	hemocultivos positivos
 casos_clinicos_cardiologia1	SYMPTOM	1627	1637	Consciente
@@ -33,6 +34,7 @@ casos_clinicos_cardiologia100	SYMPTOM	778	791	Ritmo sinusal
 casos_clinicos_cardiologia100	SYMPTOM	887	900	Ritmo sinusal
 casos_clinicos_cardiologia100	SYMPTOM	945	991	alteraciones de la conducción intraventricular
 casos_clinicos_cardiologia100	SYMPTOM	1006	1043	Glucosa, iones y función renal normal
+casos_clinicos_cardiologia100	SYMPTOM	1058	1068	leucopenia
 casos_clinicos_cardiologia100	SYMPTOM	1070	1083	Plaquetopenia
 casos_clinicos_cardiologia100	SYMPTOM	1142	1190	Ventrículo izquierdo no dilatado ni hipertrófico
 casos_clinicos_cardiologia100	SYMPTOM	1192	1222	Aurícula izquierda no dilatada
@@ -134,6 +136,7 @@ casos_clinicos_cardiologia104	SYMPTOM	133	145	polimialgias
 casos_clinicos_cardiologia104	SYMPTOM	147	162	osteoartralgias
 casos_clinicos_cardiologia104	SYMPTOM	164	178	dolor cervical
 casos_clinicos_cardiologia104	SYMPTOM	181	188	cefalea
+casos_clinicos_cardiologia104	SYMPTOM	266	272	Fiebre
 casos_clinicos_cardiologia104	SYMPTOM	503	509	fiebre
 casos_clinicos_cardiologia104	SYMPTOM	546	558	polimialgias
 casos_clinicos_cardiologia104	SYMPTOM	560	575	osteoartralgias
@@ -160,6 +163,8 @@ casos_clinicos_cardiologia104	SYMPTOM	1363	1390	Ecografía abdominal: Normal
 casos_clinicos_cardiologia104	SYMPTOM	1394	1414	TAC cerebral: Normal
 casos_clinicos_cardiologia104	SYMPTOM	1500	1511	hipotensión
 casos_clinicos_cardiologia104	SYMPTOM	1514	1525	oligoanuria
+casos_clinicos_cardiologia104	SYMPTOM	1829	1882	engrosamiento del velo posterior de la válvula mitral
+casos_clinicos_cardiologia104	SYMPTOM	1962	1973	hipotensión
 casos_clinicos_cardiologia104	SYMPTOM	2234	2271	imagen vegetante sobre velo posterior
 casos_clinicos_cardiologia104	SYMPTOM	2443	2479	crecimiento de Staphylococcus aureus
 casos_clinicos_cardiologia104	SYMPTOM	3029	3053	estabilidad hemodinámica
@@ -288,6 +293,7 @@ casos_clinicos_cardiologia113	SYMPTOM	1263	1279	roce pericárdico
 casos_clinicos_cardiologia113	SYMPTOM	1285	1314	Ruidos respiratorios normales
 casos_clinicos_cardiologia113	SYMPTOM	1316	1344	Abdomen: Blando, no doloroso
 casos_clinicos_cardiologia113	SYMPTOM	1350	1355	masas
+casos_clinicos_cardiologia113	SYMPTOM	1359	1374	visceromegalias
 casos_clinicos_cardiologia113	SYMPTOM	1381	1403	peristaltismo presente
 casos_clinicos_cardiologia113	SYMPTOM	1405	1420	EEII: No edemas
 casos_clinicos_cardiologia113	SYMPTOM	1423	1438	pulsos normales
@@ -354,6 +360,7 @@ casos_clinicos_cardiologia116	SYMPTOM	1770	1800	coronaria izquierda era normal
 casos_clinicos_cardiologia116	SYMPTOM	2521	2541	estado protrombótico
 casos_clinicos_cardiologia116	SYMPTOM	2641	2686	estudio de hipercoagulabilidad resultó normal
 casos_clinicos_cardiologia116	SYMPTOM	2782	2794	asintomático
+casos_clinicos_cardiologia117	SYMPTOM	110	127	hemoptisis severa
 casos_clinicos_cardiologia117	SYMPTOM	178	202	hipofonesis generalizada
 casos_clinicos_cardiologia117	SYMPTOM	235	251	roncus dispersos
 casos_clinicos_cardiologia117	SYMPTOM	256	262	edemas
@@ -445,9 +452,11 @@ casos_clinicos_cardiologia121	SYMPTOM	928	934	soplos
 casos_clinicos_cardiologia121	SYMPTOM	1472	1501	Supradesnivel del segmento ST
 casos_clinicos_cardiologia121	SYMPTOM	1699	1713	dolor torácico
 casos_clinicos_cardiologia121	SYMPTOM	1752	1767	estado preshocK
+casos_clinicos_cardiologia121	SYMPTOM	1802	1827	elevación del segmento ST
 casos_clinicos_cardiologia121	SYMPTOM	2483	2512	actividad eléctrica sin pulso
 casos_clinicos_cardiologia121	SYMPTOM	2514	2518	AESP
 casos_clinicos_cardiologia121	SYMPTOM	2835	2841	exitus
+casos_clinicos_cardiologia121	SYMPTOM	2889	2914	elevación del segmento ST
 casos_clinicos_cardiologia121	SYMPTOM	2941	2947	Exitus
 casos_clinicos_cardiologia122	SYMPTOM	219	229	odinofagia
 casos_clinicos_cardiologia122	SYMPTOM	234	240	fiebre
@@ -559,6 +568,7 @@ casos_clinicos_cardiologia126	SYMPTOM	4379	4425	estable desde el punto de vista 
 casos_clinicos_cardiologia126	SYMPTOM	4431	4445	dolor torácico
 casos_clinicos_cardiologia126	SYMPTOM	4488	4511	sintomatología disneica
 casos_clinicos_cardiologia126	SYMPTOM	4514	4522	sincopal
+casos_clinicos_cardiologia126	SYMPTOM	4652	4695	mutación del gen de la alfa-galacotsidasa A
 casos_clinicos_cardiologia127	SYMPTOM	158	179	pérdida de conciencia
 casos_clinicos_cardiologia127	SYMPTOM	665	680	desvanecimiento
 casos_clinicos_cardiologia127	SYMPTOM	696	717	pérdida de conciencia
@@ -572,6 +582,7 @@ casos_clinicos_cardiologia127	SYMPTOM	1144	1147	tos
 casos_clinicos_cardiologia127	SYMPTOM	1174	1180	disnea
 casos_clinicos_cardiologia127	SYMPTOM	1182	1196	dolor torácico
 casos_clinicos_cardiologia127	SYMPTOM	1200	1213	palpitaciones
+casos_clinicos_cardiologia127	SYMPTOM	1882	1904	hipotensión muy severa
 casos_clinicos_cardiologia127	SYMPTOM	2041	2059	malestar abdominal
 casos_clinicos_cardiologia127	SYMPTOM	2315	2340	patrón de Brugada tipo II
 casos_clinicos_cardiologia127	SYMPTOM	2437	2474	RNM cardiaca es informada como normal
@@ -609,6 +620,7 @@ casos_clinicos_cardiologia127	SYMPTOM	4487	4555	Actividad bioeléctrica cerebral
 casos_clinicos_cardiologia127	SYMPTOM	4572	4602	anomalías paroxísticas focales
 casos_clinicos_cardiologia127	SYMPTOM	4647	4680	descenso de amígdalas cerebelosas
 casos_clinicos_cardiologia127	SYMPTOM	4754	4766	hidrocefalia
+casos_clinicos_cardiologia127	SYMPTOM	5089	5111	Síncopes de repetición
 casos_clinicos_cardiologia130	SYMPTOM	77	82	mareo
 casos_clinicos_cardiologia130	SYMPTOM	85	101	malestar general
 casos_clinicos_cardiologia130	SYMPTOM	114	135	pérdida de conciencia
@@ -788,6 +800,7 @@ casos_clinicos_cardiologia145	SYMPTOM	1806	1854	Curva de marcadores de daño mio
 casos_clinicos_cardiologia145	SYMPTOM	1888	1935	arterias coronarias sin lesiones significativas
 casos_clinicos_cardiologia145	SYMPTOM	1978	1988	RS estable
 casos_clinicos_cardiologia145	SYMPTOM	1993	2006	FC media baja
+casos_clinicos_cardiologia145	SYMPTOM	2063	2132	VI ligeramente dilatado con espesores parietales levemente aumentados
 casos_clinicos_cardiologia145	SYMPTOM	2135	2185	función sistólica global y segmentaria conservadas
 casos_clinicos_cardiologia145	SYMPTOM	2187	2227	Patrón diastólico de relajación alargada
 casos_clinicos_cardiologia145	SYMPTOM	2255	2287	Válvula aórtica sin alteraciones
@@ -882,6 +895,7 @@ casos_clinicos_cardiologia150	SYMPTOM	1558	1573	Onda P pulmonar
 casos_clinicos_cardiologia150	SYMPTOM	1575	1626	Onda T negativa asimétrica en III, aVF y de V1 a V4
 casos_clinicos_cardiologia150	SYMPTOM	1892	1908	CPK total normal
 casos_clinicos_cardiologia150	SYMPTOM	2038	2067	Cilindros hialinos abundantes
+casos_clinicos_cardiologia150	SYMPTOM	2336	2368	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia150	SYMPTOM	2408	2436	función sistólica preservada
 casos_clinicos_cardiologia150	SYMPTOM	2438	2482	ventrículo derecho dilatado con hipoquinesia
 casos_clinicos_cardiologia150	SYMPTOM	2510	2549	aplanamiento del septo interventricular
@@ -893,6 +907,7 @@ casos_clinicos_cardiologia150	SYMPTOM	3573	3670	estudios de hierro, tiroides, ma
 casos_clinicos_cardiologia151	SYMPTOM	339	393	dolor torácico opresivo desencadenados por el esfuerzo
 casos_clinicos_cardiologia151	SYMPTOM	582	600	clínica vegetativa
 casos_clinicos_cardiologia151	SYMPTOM	661	667	disnea
+casos_clinicos_cardiologia151	SYMPTOM	669	676	síncope
 casos_clinicos_cardiologia151	SYMPTOM	944	956	asintomática
 casos_clinicos_cardiologia151	SYMPTOM	1030	1062	Rx de tórax y analítica normales
 casos_clinicos_cardiologia151	SYMPTOM	1115	1129	Dolor Torácico
@@ -948,6 +963,7 @@ casos_clinicos_cardiologia152	SYMPTOM	1725	1757	crece Staphylococcus epidermidis
 casos_clinicos_cardiologia152	SYMPTOM	1780	1839	Cultivo de exudado del decúbito: Staphylococcus epidermidis
 casos_clinicos_cardiologia152	SYMPTOM	2378	2385	afebril
 casos_clinicos_cardiologia152	SYMPTOM	2392	2428	hemocultivos repetidamente negativos
+casos_clinicos_cardiologia153	SYMPTOM	261	284	alteración del lenguaje
 casos_clinicos_cardiologia153	SYMPTOM	358	382	TAC cerebral (TC) normal
 casos_clinicos_cardiologia153	SYMPTOM	817	831	tonos rítmicos
 casos_clinicos_cardiologia153	SYMPTOM	836	868	soplo sistólico eyectivo audible
@@ -980,7 +996,9 @@ casos_clinicos_cardiologia154	SYMPTOM	2938	2960	árbol coronario normal
 casos_clinicos_cardiologia154	SYMPTOM	3349	3401	masa en fosa oval con múltiples zonas hipoecogénicas
 casos_clinicos_cardiologia154	SYMPTOM	3544	3558	picos febriles
 casos_clinicos_cardiologia154	SYMPTOM	3560	3575	dolor abdominal
+casos_clinicos_cardiologia154	SYMPTOM	3813	3827	masa auricular
 casos_clinicos_cardiologia154	SYMPTOM	4485	4491	éxitus
+casos_clinicos_cardiologia157	SYMPTOM	99	124	elevación del segmento ST
 casos_clinicos_cardiologia157	SYMPTOM	521	572	dolor torácico opresivo irradiado a brazo izquierdo
 casos_clinicos_cardiologia157	SYMPTOM	634	639	dolor
 casos_clinicos_cardiologia157	SYMPTOM	659	687	infradesnivel de segmento ST
@@ -1067,6 +1085,7 @@ casos_clinicos_cardiologia160	SYMPTOM	1127	1135	malestar
 casos_clinicos_cardiologia160	SYMPTOM	1138	1144	disnea
 casos_clinicos_cardiologia160	SYMPTOM	1191	1220	exploración física era normal
 casos_clinicos_cardiologia160	SYMPTOM	1228	1269	hipoventilación en ambas bases pulmonares
+casos_clinicos_cardiologia160	SYMPTOM	1321	1340	taquicardia sinusal
 casos_clinicos_cardiologia160	SYMPTOM	1354	1374	supradesnivel del ST
 casos_clinicos_cardiologia160	SYMPTOM	1443	1490	alteraciones inespecíficas de la repolarización
 casos_clinicos_cardiologia160	SYMPTOM	1512	1558	aumento de parámetros infeccioso-inflamatorios
@@ -1160,6 +1179,7 @@ casos_clinicos_cardiologia163	SYMPTOM	2881	2915	Función sistólica de VI conser
 casos_clinicos_cardiologia163	SYMPTOM	2955	3001	alteraciones segmentarias de la contractilidad
 casos_clinicos_cardiologia163	SYMPTOM	3003	3033	Patrón diastólico pseudonormal
 casos_clinicos_cardiologia163	SYMPTOM	3103	3156	Cavidades derechas en el límite alto de la normalidad
+casos_clinicos_cardiologia163	SYMPTOM	3324	3361	Válvula mitral (VM): velos engrosados
 casos_clinicos_cardiologia163	SYMPTOM	3689	3709	jet de regurgitación
 casos_clinicos_cardiologia163	SYMPTOM	3919	3971	Válvula aórtica (VAo): trivalva, sigmoideas normales
 casos_clinicos_cardiologia163	SYMPTOM	4191	4227	Vena cava inferior (VCI) no dilatada
@@ -1171,6 +1191,7 @@ casos_clinicos_cardiologia163	SYMPTOM	5556	5590	masa a la región perianular mit
 casos_clinicos_cardiologia163	SYMPTOM	6047	6108	Nódulos pulmonares subpleurales en segmento posterior del LSD
 casos_clinicos_cardiologia163	SYMPTOM	6621	6642	microfoco hemorrágico
 casos_clinicos_cardiologia163	SYMPTOM	6783	6811	masa sobre el IVo ventrículo
+casos_clinicos_cardiologia163	SYMPTOM	6867	6879	hidrocefalia
 casos_clinicos_cardiologia163	SYMPTOM	7019	7034	Porta permeable
 casos_clinicos_cardiologia163	SYMPTOM	7036	7069	Venas suprahepáticas no dilatadas
 casos_clinicos_cardiologia163	SYMPTOM	7123	7196	Vesícula adecuadamente distendida con pared conservada y contenido normal
@@ -1180,6 +1201,7 @@ casos_clinicos_cardiologia163	SYMPTOM	7293	7330	Riñones de tamaño y morfologí
 casos_clinicos_cardiologia163	SYMPTOM	7332	7364	Sistemas excretores no dilatados
 casos_clinicos_cardiologia163	SYMPTOM	7381	7404	colecciones abdominales
 casos_clinicos_cardiologia163	SYMPTOM	7417	7459	alteraciones ecográficas en tubo digestivo
+casos_clinicos_cardiologia163	SYMPTOM	7499	7522	síndrome constitucional
 casos_clinicos_cardiologia163	SYMPTOM	7525	7546	focalidad neurológica
 casos_clinicos_cardiologia163	SYMPTOM	7801	7823	soplo sistólico mitral
 casos_clinicos_cardiologia163	SYMPTOM	7878	7919	masa dependiente de velo posterior mitral
@@ -1236,6 +1258,7 @@ casos_clinicos_cardiologia164	SYMPTOM	3807	3842	Válvula tricúspide con flujo n
 casos_clinicos_cardiologia164	SYMPTOM	3952	3970	dominancia derecha
 casos_clinicos_cardiologia164	SYMPTOM	5245	5286	Factores C3 y C4 del complemento normales
 casos_clinicos_cardiologia164	SYMPTOM	5288	5324	Inmunocomplejos circulantes normales
+casos_clinicos_cardiologia164	SYMPTOM	5353	5386	pruebas cutáneas a trofoalergenos
 casos_clinicos_cardiologia164	SYMPTOM	5810	5850	Prick test frente a diclofenaco positivo
 casos_clinicos_cardiologia164	SYMPTOM	6110	6124	dolor torácico
 casos_clinicos_cardiologia164	SYMPTOM	6151	6160	molestias
@@ -1252,6 +1275,7 @@ casos_clinicos_cardiologia166	SYMPTOM	452	479	dolor torácico intermitente
 casos_clinicos_cardiologia166	SYMPTOM	587	593	fiebre
 casos_clinicos_cardiologia166	SYMPTOM	784	790	disnea
 casos_clinicos_cardiologia166	SYMPTOM	792	805	palpitaciones
+casos_clinicos_cardiologia166	SYMPTOM	809	816	síncope
 casos_clinicos_cardiologia166	SYMPTOM	832	875	dolor torácico de características anginosas
 casos_clinicos_cardiologia166	SYMPTOM	1018	1037	Buen estado general
 casos_clinicos_cardiologia166	SYMPTOM	1039	1085	buena hidratación y coloración de extremidades
@@ -1272,6 +1296,7 @@ casos_clinicos_cardiologia166	SYMPTOM	2095	2121	ondas T negativas en V1-V3
 casos_clinicos_cardiologia166	SYMPTOM	2176	2221	Índice cardiotorácico dentro de la normalidad
 casos_clinicos_cardiologia166	SYMPTOM	2223	2256	Parénquima pulmonar sin hallazgos
 casos_clinicos_cardiologia166	SYMPTOM	2258	2284	Senos costofrénicos libres
+casos_clinicos_cardiologia166	SYMPTOM	2316	2364	ventrículo izquierdo no dilatado ni hipertrófico
 casos_clinicos_cardiologia166	SYMPTOM	2407	2479	Aquinesia apical y de segmentos medios de cara anterior y septo anterior
 casos_clinicos_cardiologia166	SYMPTOM	2481	2574	Ventrículo derecho no dilatado, no hipertrófico con función sistólica longitudinal conservada
 casos_clinicos_cardiologia166	SYMPTOM	2576	2602	Aurículas de tamaño normal
@@ -1360,6 +1385,7 @@ casos_clinicos_cardiologia167	SYMPTOM	7498	7517	molestias torácicas
 casos_clinicos_cardiologia167	SYMPTOM	7766	7780	dolor torácico
 casos_clinicos_cardiologia167	SYMPTOM	7794	7858	supradesnivelación transitoria del ST en cara inferior y lateral
 casos_clinicos_cardiologia167	SYMPTOM	7861	7896	infradesnivelación de ST en V1 a V4
+casos_clinicos_cardiologia167	SYMPTOM	9007	9024	episodio sincopal
 casos_clinicos_cardiologia167	SYMPTOM	9043	9057	dolor torácico
 casos_clinicos_cardiologia167	SYMPTOM	9419	9426	Síncope
 casos_clinicos_cardiologia167	SYMPTOM	9693	9724	cifras de LDL fuera de objetivo
@@ -1410,6 +1436,7 @@ casos_clinicos_cardiologia174	SYMPTOM	5094	5114	PCR gripe A negativa
 casos_clinicos_cardiologia174	SYMPTOM	5332	5347	sangrado activo
 casos_clinicos_cardiologia176	SYMPTOM	148	157	fallecido
 casos_clinicos_cardiologia176	SYMPTOM	608	650	función sistólica biventricular preservada
+casos_clinicos_cardiologia176	SYMPTOM	708	733	elevación del segmento ST
 casos_clinicos_cardiologia176	SYMPTOM	1163	1191	función sistólica preservada
 casos_clinicos_cardiologia176	SYMPTOM	1207	1253	alteraciones segmentarias de la contractilidad
 casos_clinicos_cardiologia176	SYMPTOM	1461	1506	dolor torácico de características pleuríticas
@@ -1475,6 +1502,7 @@ casos_clinicos_cardiologia177	SYMPTOM	4741	4784	dolor lumbar irradiado hacia el 
 casos_clinicos_cardiologia177	SYMPTOM	5033	5040	astenia
 casos_clinicos_cardiologia177	SYMPTOM	5042	5090	debilidad predominantemente en cintura escapular
 casos_clinicos_cardiologia177	SYMPTOM	5900	5969	cifras de transaminasas y creatinfosfoquinasa dentro de la normalidad
+casos_clinicos_cardiologia177	SYMPTOM	6015	6040	elevación del segmento ST
 casos_clinicos_cardiologia179	SYMPTOM	905	918	cuadro febril
 casos_clinicos_cardiologia179	SYMPTOM	951	957	fiebre
 casos_clinicos_cardiologia179	SYMPTOM	1170	1211	diarrea líquida sin productos patológicos
@@ -1485,6 +1513,7 @@ casos_clinicos_cardiologia179	SYMPTOM	1373	1376	tos
 casos_clinicos_cardiologia179	SYMPTOM	1379	1392	expectoración
 casos_clinicos_cardiologia179	SYMPTOM	1403	1417	dolor torácico
 casos_clinicos_cardiologia179	SYMPTOM	1419	1424	mareo
+casos_clinicos_cardiologia179	SYMPTOM	1427	1434	síncope
 casos_clinicos_cardiologia179	SYMPTOM	1453	1474	focalidad neurológica
 casos_clinicos_cardiologia179	SYMPTOM	1693	1702	febrícula
 casos_clinicos_cardiologia179	SYMPTOM	1722	1730	eupneica
@@ -1502,6 +1531,7 @@ casos_clinicos_cardiologia179	SYMPTOM	2372	2384	QRS estrecho
 casos_clinicos_cardiologia179	SYMPTOM	2386	2396	eje normal
 casos_clinicos_cardiologia179	SYMPTOM	2530	2553	Redistribución vascular
 casos_clinicos_cardiologia179	SYMPTOM	2556	2574	líquido en cisuras
+casos_clinicos_cardiologia179	SYMPTOM	2614	2651	Ensanchamiento de mediastino superior
 casos_clinicos_cardiologia179	SYMPTOM	2828	2855	Hormonas tiroideas normales
 casos_clinicos_cardiologia179	SYMPTOM	3284	3345	Hemocultivos: dos series positivas para Staphylococcus aureus
 casos_clinicos_cardiologia179	SYMPTOM	3411	3435	Orina: aislados hematíes
@@ -1514,6 +1544,7 @@ casos_clinicos_cardiologia179	SYMPTOM	3573	3604	Serologías: VIH y VHC negativos
 casos_clinicos_cardiologia179	SYMPTOM	3606	3634	Anti HBs y Anti HBc positivo
 casos_clinicos_cardiologia179	SYMPTOM	3659	3726	ANA, ANCA, Anti DNA nativo, ENAS, CH 50 y C4 normales y/o negativos
 casos_clinicos_cardiologia179	SYMPTOM	3758	3861	ventrículo izquierdo de diámetros y grosores normales con función sistólica global y segmentaria normal
+casos_clinicos_cardiologia179	SYMPTOM	3927	3970	Prótesis biológica aórtica normofuncionante
 casos_clinicos_cardiologia179	SYMPTOM	4731	4776	ecocardiograma transtorácico inicial negativo
 casos_clinicos_cardiologia179	SYMPTOM	4953	4990	hemocultivos positivos para S. aureus
 casos_clinicos_cardiologia179	SYMPTOM	5132	5161	deterioro de la función renal
@@ -1608,6 +1639,7 @@ casos_clinicos_cardiologia185	SYMPTOM	2385	2409	Función sistólica normal
 casos_clinicos_cardiologia185	SYMPTOM	2524	2592	Ventrículo derecho de tamaño normal con función sistólica conservada
 casos_clinicos_cardiologia185	SYMPTOM	2594	2636	Válvula mitral de aspecto y función normal
 casos_clinicos_cardiologia185	SYMPTOM	2638	2694	Válvula aórtica trivalva, sin insuficiencia ni estenosis
+casos_clinicos_cardiologia185	SYMPTOM	2696	2732	Válvula tricúspide de aspecto normal
 casos_clinicos_cardiologia185	SYMPTOM	2760	2793	Válvula pulmonar normofuncionante
 casos_clinicos_cardiologia185	SYMPTOM	2795	2824	Raíz aórtica de tamaño normal
 casos_clinicos_cardiologia185	SYMPTOM	2877	2920	ventrículos de tamaño y función conservadas
@@ -1722,7 +1754,9 @@ casos_clinicos_cardiologia193	SYMPTOM	2183	2189	fiebre
 casos_clinicos_cardiologia193	SYMPTOM	2192	2233	elevación de los reactantes de fase aguda
 casos_clinicos_cardiologia193	SYMPTOM	3531	3562	cocos gram positivos en racimos
 casos_clinicos_cardiologia193	SYMPTOM	3570	3652	cultivos realizados a la prótesis fueron positivos para Staphylococcus epidermidis
+casos_clinicos_cardiologia196	SYMPTOM	104	111	síncope
 casos_clinicos_cardiologia196	SYMPTOM	122	138	malestar general
+casos_clinicos_cardiologia196	SYMPTOM	141	150	distermia
 casos_clinicos_cardiologia196	SYMPTOM	469	487	masa multilobulada
 casos_clinicos_cardiologia196	SYMPTOM	567	637	hemocultivos y en el aspirado bronquial se aisló Klebsiella pneumoniae
 casos_clinicos_cardiologia196	SYMPTOM	642	748	hemocultivos posteriores se aisló un Staphylococcus epidermidis coagulasa negativo resistente a oxaciclina
@@ -1737,6 +1771,7 @@ casos_clinicos_cardiologia198	SYMPTOM	1215	1259	punción no obtuvo ningún produ
 casos_clinicos_cardiologia198	SYMPTOM	1365	1409	PET/TAC de control no evidenció gas residual
 casos_clinicos_cardiologia198	SYMPTOM	1453	1508	hemocultivos de control fueron del mismo modo negativos
 casos_clinicos_cardiologia2	SYMPTOM	21	35	dolor torácico
+casos_clinicos_cardiologia2	SYMPTOM	367	379	VIH positivo
 casos_clinicos_cardiologia2	SYMPTOM	616	632	RNA-VIH negativo
 casos_clinicos_cardiologia2	SYMPTOM	1041	1130	dolor centrotorácico de características opresivas, irradiado a miembro superior izquierdo
 casos_clinicos_cardiologia2	SYMPTOM	1146	1164	sensación nauseosa
@@ -1744,6 +1779,7 @@ casos_clinicos_cardiologia2	SYMPTOM	1167	1185	sudoración profusa
 casos_clinicos_cardiologia2	SYMPTOM	1206	1234	dolor era de origen muscular
 casos_clinicos_cardiologia2	SYMPTOM	1294	1299	dolor
 casos_clinicos_cardiologia2	SYMPTOM	1382	1416	alteraciones electrocardiográficas
+casos_clinicos_cardiologia2	SYMPTOM	1462	1487	elevación del segmento ST
 casos_clinicos_cardiologia2	SYMPTOM	1591	1598	Afebril
 casos_clinicos_cardiologia2	SYMPTOM	1742	1752	Consciente
 casos_clinicos_cardiologia2	SYMPTOM	1754	1763	orientado
@@ -1765,6 +1801,7 @@ casos_clinicos_cardiologia2	SYMPTOM	2292	2304	QRS estrecho
 casos_clinicos_cardiologia2	SYMPTOM	2306	2350	Elevación del segmento ST en DII, DIII y aVF
 casos_clinicos_cardiologia2	SYMPTOM	2355	2386	descenso del ST en aVL, V1 y V2
 casos_clinicos_cardiologia2	SYMPTOM	2849	2878	índice cardio-torácico normal
+casos_clinicos_cardiologia2	SYMPTOM	3357	3389	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia2	SYMPTOM	3428	3483	Hipocinesia de segmentos basal y medio de cara inferior
 casos_clinicos_cardiologia2	SYMPTOM	3485	3544	Función sistólica global de ventrículo izquierdo conservada
 casos_clinicos_cardiologia2	SYMPTOM	3555	3610	Relajación prolongada en el patrón de flujo transmitral
@@ -1839,6 +1876,7 @@ casos_clinicos_cardiologia203	SYMPTOM	4130	4155	Aurícula Izquierda normal
 casos_clinicos_cardiologia203	SYMPTOM	4166	4201	Ventrículo Derecho (VD) no dilatado
 casos_clinicos_cardiologia203	SYMPTOM	4223	4271	Válvula Aórtica trivalva con apertura conservada
 casos_clinicos_cardiologia203	SYMPTOM	4303	4327	Raíz aórtica no dilatada
+casos_clinicos_cardiologia203	SYMPTOM	4337	4369	Válvula mitral de aspecto normal
 casos_clinicos_cardiologia203	SYMPTOM	4439	4469	Vena cava inferior no dilatada
 casos_clinicos_cardiologia203	SYMPTOM	4685	4766	ventrículo Izquierdo (VI) no dilatado con función global y segmentaria conservada
 casos_clinicos_cardiologia203	SYMPTOM	4835	4914	Ventrículo Derecho (VD) no dilatado con función global y segmentaria conservada
@@ -1863,6 +1901,7 @@ casos_clinicos_cardiologia203	SYMPTOM	8429	8448	ritmo desfibrilable
 casos_clinicos_cardiologia203	SYMPTOM	8486	8524	Red coronaria angiográficamente normal
 casos_clinicos_cardiologia203	SYMPTOM	8554	8581	Buena función biventricular
 casos_clinicos_cardiologia203	SYMPTOM	8583	8657	Test farmacológicos para desenmascarar canalopatía y vasoespasmo negativos
+casos_clinicos_cardiologia204	SYMPTOM	122	129	síncope
 casos_clinicos_cardiologia204	SYMPTOM	877	931	dolor centrotorácico tipo pinchazo, de intensidad leve
 casos_clinicos_cardiologia204	SYMPTOM	1025	1044	sudoración nocturna
 casos_clinicos_cardiologia204	SYMPTOM	1046	1059	artromialgias
@@ -2005,6 +2044,7 @@ casos_clinicos_cardiologia206	SYMPTOM	2368	2426	onda delta negativa en V1, posit
 casos_clinicos_cardiologia206	SYMPTOM	2462	2475	ritmo sinusal
 casos_clinicos_cardiologia206	SYMPTOM	2671	2694	silueta cardiaca normal
 casos_clinicos_cardiologia206	SYMPTOM	2700	2740	condensaciones en el parénquima pulmonar
+casos_clinicos_cardiologia206	SYMPTOM	3357	3389	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia206	SYMPTOM	3443	3473	función sistodiastólica normal
 casos_clinicos_cardiologia206	SYMPTOM	3566	3591	Ventrículo derecho normal
 casos_clinicos_cardiologia206	SYMPTOM	3978	4002	PSAP ligeramente elevada
@@ -2060,6 +2100,7 @@ casos_clinicos_cardiologia208	SYMPTOM	4035	4047	QRS estrecho
 casos_clinicos_cardiologia208	SYMPTOM	4052	4062	eje normal
 casos_clinicos_cardiologia208	SYMPTOM	4068	4101	alteraciones de la repolarización
 casos_clinicos_cardiologia208	SYMPTOM	4349	4363	dolor torácico
+casos_clinicos_cardiologia208	SYMPTOM	4494	4519	elevación del segmente ST
 casos_clinicos_cardiologia208	SYMPTOM	5490	5505	FEVI conservada
 casos_clinicos_cardiologia208	SYMPTOM	5532	5544	asintomático
 casos_clinicos_cardiologia208	SYMPTOM	5546	5571	estable hemodinámicamente
@@ -2086,6 +2127,7 @@ casos_clinicos_cardiologia209	SYMPTOM	1829	1863	reflujo hepatoyugular fue negati
 casos_clinicos_cardiologia209	SYMPTOM	1869	1910	miembros inferiores no presentaban edemas
 casos_clinicos_cardiologia209	SYMPTOM	1968	2007	pulsos se palpaban fuertes y simétricos
 casos_clinicos_cardiologia209	SYMPTOM	2136	2166	alteraciones de la coagulación
+casos_clinicos_cardiologia209	SYMPTOM	2520	2542	pérdida de consciencia
 casos_clinicos_cardiologia209	SYMPTOM	2678	2691	ritmo sinusal
 casos_clinicos_cardiologia209	SYMPTOM	3176	3204	función sistólica conservada
 casos_clinicos_cardiologia209	SYMPTOM	3210	3255	alteraciones de la contractilidad segmentaria
@@ -2157,6 +2199,7 @@ casos_clinicos_cardiologia211	SYMPTOM	345	358	palpitaciones
 casos_clinicos_cardiologia211	SYMPTOM	676	737	deterioro de la fracción de eyección del ventrículo izquierdo
 casos_clinicos_cardiologia211	SYMPTOM	1078	1085	astenia
 casos_clinicos_cardiologia211	SYMPTOM	1095	1101	mareos
+casos_clinicos_cardiologia211	SYMPTOM	1104	1115	hipotensión
 casos_clinicos_cardiologia211	SYMPTOM	1193	1206	palpitaciones
 casos_clinicos_cardiologia211	SYMPTOM	1283	1297	dolor torácico
 casos_clinicos_cardiologia211	SYMPTOM	1350	1358	ortopnea
@@ -2236,6 +2279,7 @@ casos_clinicos_cardiologia213	SYMPTOM	5963	6016	Aorta, arteria pulmonar y perica
 casos_clinicos_cardiologia213	SYMPTOM	6867	6918	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia213	SYMPTOM	6924	6946	alteraciones del ritmo
 casos_clinicos_cardiologia213	SYMPTOM	7821	7849	actividad inflamatoria aguda
+casos_clinicos_cardiologia213	SYMPTOM	8574	8608	inflamación activa intramiocárdica
 casos_clinicos_cardiologia213	SYMPTOM	8610	8663	Función sistólica del ventrículo izquierdo conservada
 casos_clinicos_cardiologia213	SYMPTOM	8665	8697	Arterias coronarias sin lesiones
 casos_clinicos_cardiologia214	SYMPTOM	314	348	alteraciones electrocardiográficas
@@ -2269,10 +2313,12 @@ casos_clinicos_cardiologia214	SYMPTOM	4654	4674	rectificación del ST
 casos_clinicos_cardiologia214	SYMPTOM	4740	4772	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia214	SYMPTOM	5317	5352	Función sistólica del VI conservada
 casos_clinicos_cardiologia214	SYMPTOM	5370	5431	Función diastólica del VI y sistólica del VD sin alteraciones
+casos_clinicos_cardiologia214	SYMPTOM	5461	5493	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia214	SYMPTOM	5879	5894	Masa miocárdica
 casos_clinicos_cardiologia214	SYMPTOM	5945	5980	Ventrículo derecho sin alteraciones
 casos_clinicos_cardiologia214	SYMPTOM	5988	6065	secuencia de perfusión de primer paso no presenta defectos de perfusión basal
 casos_clinicos_cardiologia214	SYMPTOM	6073	6146	secuencia de realce tardío/viabilidad no se objetiva fibrosis ni necrosis
+casos_clinicos_cardiologia214	SYMPTOM	6265	6297	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia214	SYMPTOM	6629	6702	secuencia de realce tardío/viabilidad no se objetiva fibrosis ni necrosis
 casos_clinicos_cardiologia214	SYMPTOM	6801	6813	asintomático
 casos_clinicos_cardiologia22	SYMPTOM	40	46	fiebre
@@ -2324,6 +2370,7 @@ casos_clinicos_cardiologia221	SYMPTOM	4604	4646	elevación del segmento ST en ca
 casos_clinicos_cardiologia221	SYMPTOM	4663	4686	dolor torácico anginoso
 casos_clinicos_cardiologia221	SYMPTOM	5241	5253	asintomático
 casos_clinicos_cardiologia221	SYMPTOM	5256	5281	hemodinámicamente estable
+casos_clinicos_cardiologia221	SYMPTOM	6136	6186	elevación del segmento ST de localización inferior
 casos_clinicos_cardiologia221	SYMPTOM	6555	6599	Colesterol LDL por encima de cifras objetivo
 casos_clinicos_cardiologia223	SYMPTOM	388	425	sensación de mareo tipo inestabilidad
 casos_clinicos_cardiologia223	SYMPTOM	537	561	estabilidad hemodinámica
@@ -2403,11 +2450,13 @@ casos_clinicos_cardiologia225	SYMPTOM	1878	1888	eje normal
 casos_clinicos_cardiologia225	SYMPTOM	1890	1928	R embrionaria en precordiales hasta V4
 casos_clinicos_cardiologia225	SYMPTOM	1933	1961	T negativas en I, aVL, V5-V6
 casos_clinicos_cardiologia225	SYMPTOM	2274	2289	consolidaciones
+casos_clinicos_cardiologia225	SYMPTOM	2544	2576	Hipodensidad en ínsula izquierda
 casos_clinicos_cardiologia225	SYMPTOM	2752	2828	defecto de repleción en segmento P2A de arteria cerebral posterior izquierda
 casos_clinicos_cardiologia225	SYMPTOM	2839	2880	arterias de polígono de Willis permeables
 casos_clinicos_cardiologia225	SYMPTOM	3046	3116	área de penumbra en territorio de arteria cerebral posterior izquierda
 casos_clinicos_cardiologia225	SYMPTOM	3390	3438	troncos supraaórticos sin evidencia de estenosis
 casos_clinicos_cardiologia225	SYMPTOM	3528	3591	sistema carotídeo y sistema basilar de características normales
+casos_clinicos_cardiologia225	SYMPTOM	3693	3729	cavidades cardiacas de tamaño normal
 casos_clinicos_cardiologia225	SYMPTOM	3779	3805	FEVI ligeramente deprimida
 casos_clinicos_cardiologia225	SYMPTOM	3838	3899	acinesia del septo y pared anterior en sus segmentos apicales
 casos_clinicos_cardiologia225	SYMPTOM	3929	3941	TAPSE normal
@@ -2423,6 +2472,7 @@ casos_clinicos_cardiologia225	SYMPTOM	6352	6366	dolor torácico
 casos_clinicos_cardiologia225	SYMPTOM	6613	6679	lenguaje poco fluente, pero entiende órdenes, nomina correctamente
 casos_clinicos_cardiologia225	SYMPTOM	6746	6774	hemianopsia homónima derecha
 casos_clinicos_cardiologia225	SYMPTOM	7010	7040	alteraciones de contractilidad
+casos_clinicos_cardiologia227	SYMPTOM	679	704	elevación del segmento ST
 casos_clinicos_cardiologia227	SYMPTOM	1461	1500	dolor centrotorácico opresivo en reposo
 casos_clinicos_cardiologia227	SYMPTOM	1705	1743	dolor torácico con moderados esfuerzos
 casos_clinicos_cardiologia227	SYMPTOM	1917	1923	disnea
@@ -2544,6 +2594,7 @@ casos_clinicos_cardiologia232	SYMPTOM	3108	3117	PR normal
 casos_clinicos_cardiologia232	SYMPTOM	3119	3131	QRS estrecho
 casos_clinicos_cardiologia232	SYMPTOM	3136	3146	eje normal
 casos_clinicos_cardiologia232	SYMPTOM	3148	3225	onda T bifásica (con predominio del componente negativo) en III, aVF, V4 y V5
+casos_clinicos_cardiologia232	SYMPTOM	3622	3659	ventrículo izquierdo de tamaño normal
 casos_clinicos_cardiologia232	SYMPTOM	3856	3891	Función sistólica global conservada
 casos_clinicos_cardiologia232	SYMPTOM	3896	3942	alteraciones segmentarias de la contractilidad
 casos_clinicos_cardiologia232	SYMPTOM	4074	4089	FEVD conservada
@@ -2601,12 +2652,14 @@ casos_clinicos_cardiologia233	SYMPTOM	3296	3306	QTc normal
 casos_clinicos_cardiologia233	SYMPTOM	3369	3384	FEVI conservada
 casos_clinicos_cardiologia233	SYMPTOM	3477	3498	patrón Brugada tipo 1
 casos_clinicos_cardiologia233	SYMPTOM	3500	3548	Test genético para síndrome de Brugada: negativo
+casos_clinicos_cardiologia233	SYMPTOM	3572	3580	gonalgia
 casos_clinicos_cardiologia233	SYMPTOM	3936	3987	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia233	SYMPTOM	4505	4520	FEVI conservada
 casos_clinicos_cardiologia233	SYMPTOM	4568	4639	estudio genético de p canalopatías/miocardiopatías que resultó negativo
 casos_clinicos_cardiologia233	SYMPTOM	4691	4742	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia233	SYMPTOM	4852	4894	ecocardiografía sin demostrar alteraciones
 casos_clinicos_cardiologia233	SYMPTOM	4908	4923	FEVI conservada
+casos_clinicos_cardiologia233	SYMPTOM	5241	5247	fiebre
 casos_clinicos_cardiologia233	SYMPTOM	5473	5488	FEVI conservada
 casos_clinicos_cardiologia236	SYMPTOM	1200	1233	dolor centrotorácico no irradiado
 casos_clinicos_cardiologia236	SYMPTOM	1461	1500	cambios electrocardiográficos dinámicos
@@ -2790,6 +2843,7 @@ casos_clinicos_cardiologia243	SYMPTOM	2334	2362	índice cardiotorácico normal
 casos_clinicos_cardiologia243	SYMPTOM	2368	2386	signos congestivos
 casos_clinicos_cardiologia243	SYMPTOM	2391	2431	condensaciones en el parénquima pulmonar
 casos_clinicos_cardiologia243	SYMPTOM	2433	2459	Senos costofrénicos libres
+casos_clinicos_cardiologia243	SYMPTOM	2518	2555	ventrículo izquierdo (VI) no dilatado
 casos_clinicos_cardiologia243	SYMPTOM	2608	2656	Función sistólica global moderadamente deprimida
 casos_clinicos_cardiologia243	SYMPTOM	2672	2722	acinesia de los segmentos medio-apicales de septo,
 casos_clinicos_cardiologia243	SYMPTOM	2792	2817	Raíz de aorta no dilatada
@@ -2865,6 +2919,7 @@ casos_clinicos_cardiologia251	SYMPTOM	642	648	fiebre
 casos_clinicos_cardiologia251	SYMPTOM	650	658	tiritona
 casos_clinicos_cardiologia251	SYMPTOM	661	668	astenia
 casos_clinicos_cardiologia251	SYMPTOM	796	802	fiebre
+casos_clinicos_cardiologia251	SYMPTOM	875	894	taquicardia sinusal
 casos_clinicos_cardiologia251	SYMPTOM	935	960	mala perfusión periférica
 casos_clinicos_cardiologia251	SYMPTOM	965	989	frialdad de partes acras
 casos_clinicos_cardiologia251	SYMPTOM	991	1021	Presión venosa yugular elevada
@@ -2878,13 +2933,16 @@ casos_clinicos_cardiologia251	SYMPTOM	2276	2334	hemocultivos tomados, positivos 
 casos_clinicos_cardiologia251	SYMPTOM	2774	2798	área peritubular aórtica
 casos_clinicos_cardiologia251	SYMPTOM	3653	3660	afebril
 casos_clinicos_cardiologia251	SYMPTOM	3899	3921	dolor abdominal súbito
+casos_clinicos_cardiologia251	SYMPTOM	3923	3943	hipotensión arterial
 casos_clinicos_cardiologia251	SYMPTOM	3949	3966	episodio sincopal
 casos_clinicos_cardiologia251	SYMPTOM	4191	4219	líquido libre intraabdominal
 casos_clinicos_cardiologia251	SYMPTOM	4563	4571	sangrado
+casos_clinicos_cardiologia251	SYMPTOM	4825	4836	rectorragia
 casos_clinicos_cardiologia251	SYMPTOM	4866	4892	inestabilidad hemodinámica
 casos_clinicos_cardiologia251	SYMPTOM	5135	5143	sangrado
 casos_clinicos_cardiologia251	SYMPTOM	5563	5587	crecimiento de S. aureus
 casos_clinicos_cardiologia251	SYMPTOM	5686	5691	mareo
+casos_clinicos_cardiologia251	SYMPTOM	5694	5720	hipotensión arterial grave
 casos_clinicos_cardiologia251	SYMPTOM	5723	5734	taquicardia
 casos_clinicos_cardiologia251	SYMPTOM	6456	6507	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia251	SYMPTOM	6731	6744	Abdomen agudo
@@ -2909,6 +2967,7 @@ casos_clinicos_cardiologia256	SYMPTOM	1888	1917	Patrón de relajación alterada
 casos_clinicos_cardiologia256	SYMPTOM	1919	1959	Válvula aórtica trivalva con velos finos
 casos_clinicos_cardiologia256	SYMPTOM	1973	2003	Válvula mitral con velos finos
 casos_clinicos_cardiologia256	SYMPTOM	2065	2125	Ventrículo derecho no dilatado, con función sistólica normal
+casos_clinicos_cardiologia256	SYMPTOM	2141	2175	Válvula tricúspide con velos finos
 casos_clinicos_cardiologia256	SYMPTOM	2223	2259	Vena cava inferior (VCI) no dilatada
 casos_clinicos_cardiologia256	SYMPTOM	2297	2356	Raíz aórtica y aorta torácica ascendente visualizada normal
 casos_clinicos_cardiologia256	SYMPTOM	2394	2415	masas intracavitarias
@@ -2916,6 +2975,7 @@ casos_clinicos_cardiologia256	SYMPTOM	2456	2502	tronco coronario izquierdo (TCI)
 casos_clinicos_cardiologia256	SYMPTOM	2504	2543	Descendente anterior (DA): sin lesiones
 casos_clinicos_cardiologia256	SYMPTOM	2578	2611	Signo del miocardio no perfundido
 casos_clinicos_cardiologia256	SYMPTOM	2919	2952	Coronaria derecha (CD): dominante
+casos_clinicos_cardiologia256	SYMPTOM	4541	4557	elevacion del ST
 casos_clinicos_cardiologia256	SYMPTOM	4932	4982	Función sistólica ventricular izquierda conservada
 casos_clinicos_cardiologia257	SYMPTOM	109	136	QT corregido (QTc) alargado
 casos_clinicos_cardiologia257	SYMPTOM	349	366	mutación genética
@@ -2958,6 +3018,7 @@ casos_clinicos_cardiologia257	SYMPTOM	3038	3068	Vena cava inferior no dilatada
 casos_clinicos_cardiologia257	SYMPTOM	3247	3260	ritmo sinusal
 casos_clinicos_cardiologia257	SYMPTOM	3415	3436	alternancia de onda T
 casos_clinicos_cardiologia257	SYMPTOM	4031	4078	Test genético (panel de canalopatías): negativo
+casos_clinicos_cardiologia257	SYMPTOM	4273	4318	alteraciones secundarias de la repolarización
 casos_clinicos_cardiologia257	SYMPTOM	4457	4470	palpitaciones
 casos_clinicos_cardiologia257	SYMPTOM	4475	4507	dolor torácico con los esfuerzos
 casos_clinicos_cardiologia257	SYMPTOM	4519	4542	alteraciones eléctricas
@@ -3004,6 +3065,7 @@ casos_clinicos_cardiologia261	SYMPTOM	3525	3545	dominancia izquierda
 casos_clinicos_cardiologia261	SYMPTOM	3705	3752	Tronco coronario izquierdo: largo, sin lesiones
 casos_clinicos_cardiologia261	SYMPTOM	3754	3788	Descendente anterior: sin lesiones
 casos_clinicos_cardiologia261	SYMPTOM	3790	3815	Circunfleja: sin lesiones
+casos_clinicos_cardiologia261	SYMPTOM	3960	4034	divertículo en la pared inferoposterior izquierda de la aurícula izquierda
 casos_clinicos_cardiologia261	SYMPTOM	4177	4299	ventrículo izquierdo con grosor de sus paredes, volúmenes y función sistólica segmentaria y global dentro de la normalidad
 casos_clinicos_cardiologia261	SYMPTOM	4312	4385	Ventrículo derecho de volumen y función sistólica dentro de la normalidad
 casos_clinicos_cardiologia261	SYMPTOM	4399	4441	Aurículas y grandes vasos de tamaño normal
@@ -3064,6 +3126,7 @@ casos_clinicos_cardiologia267	SYMPTOM	1723	1733	Consciente
 casos_clinicos_cardiologia267	SYMPTOM	1735	1744	orientado
 casos_clinicos_cardiologia267	SYMPTOM	1747	1758	colaborador
 casos_clinicos_cardiologia267	SYMPTOM	1760	1774	Normocoloreado
+casos_clinicos_cardiologia267	SYMPTOM	1914	1931	corazón arrítmico
 casos_clinicos_cardiologia267	SYMPTOM	1937	1943	soplos
 casos_clinicos_cardiologia267	SYMPTOM	1945	1974	Murmullo vesicular conservado
 casos_clinicos_cardiologia267	SYMPTOM	2013	2043	Miembros inferiores: no edemas
@@ -3095,6 +3158,7 @@ casos_clinicos_cardiologia267	SYMPTOM	4979	5015	ergometría con positividad elé
 casos_clinicos_cardiologia267	SYMPTOM	5020	5076	alteraciones segmentarias en ecocardiografía posesfuerzo
 casos_clinicos_cardiologia267	SYMPTOM	6419	6453	Función sistólica de VI conservada
 casos_clinicos_cardiologia268	SYMPTOM	503	515	asintomático
+casos_clinicos_cardiologia268	SYMPTOM	581	598	episodio sincopal
 casos_clinicos_cardiologia268	SYMPTOM	661	678	ausencia de pulso
 casos_clinicos_cardiologia268	SYMPTOM	1152	1165	ritmo sinusal
 casos_clinicos_cardiologia268	SYMPTOM	1170	1231	elevación del segmento ST en las derivaciones V1-V5, DI y aVL
@@ -3145,6 +3209,7 @@ casos_clinicos_cardiologia268	SYMPTOM	8536	8601	resonancia magnética cardiaca q
 casos_clinicos_cardiologia268	SYMPTOM	8782	8789	estable
 casos_clinicos_cardiologia268	SYMPTOM	8792	8804	asintomático
 casos_clinicos_cardiologia268	SYMPTOM	8904	8935	Corazón estructuralmente normal
+casos_clinicos_cardiologia268	SYMPTOM	8966	9006	elevación no persistente del segmento ST
 casos_clinicos_cardiologia269	SYMPTOM	200	217	disnea progresiva
 casos_clinicos_cardiologia269	SYMPTOM	248	254	fiebre
 casos_clinicos_cardiologia269	SYMPTOM	265	287	clínica cardiovascular
@@ -3163,6 +3228,7 @@ casos_clinicos_cardiologia269	SYMPTOM	1189	1244	infiltrado periférico en campo 
 casos_clinicos_cardiologia269	SYMPTOM	1507	1537	leve elevación de trasaminasas
 casos_clinicos_cardiologia269	SYMPTOM	1736	1777	PCR nasofaríngea para SARS-CoV2: positiva
 casos_clinicos_cardiologia269	SYMPTOM	2298	2340	elevación de marcadores de daño miocárdico
+casos_clinicos_cardiologia269	SYMPTOM	2483	2515	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia269	SYMPTOM	2545	2608	hipoquinesia de los segmentos medio distales del septo inferior
 casos_clinicos_cardiologia269	SYMPTOM	2612	2623	FEVI normal
 casos_clinicos_cardiologia269	SYMPTOM	2628	2677	ventrículo derecho no dilatado y normofuncionante
@@ -3182,8 +3248,10 @@ casos_clinicos_cardiologia271	SYMPTOM	2279	2293	Normocoloreado
 casos_clinicos_cardiologia271	SYMPTOM	2344	2369	buen nivel de consciencia
 casos_clinicos_cardiologia271	SYMPTOM	2371	2397	nomina, comprende y repite
 casos_clinicos_cardiologia271	SYMPTOM	2402	2427	alteraciones del lenguaje
+casos_clinicos_cardiologia271	SYMPTOM	2432	2456	desviación oculocefálica
 casos_clinicos_cardiologia271	SYMPTOM	2482	2538	Pupilas isocóricas y normorreactivas a luz y acomodación
 casos_clinicos_cardiologia271	SYMPTOM	2540	2577	Motores oculares externos conservados
+casos_clinicos_cardiologia271	SYMPTOM	2579	2606	Asimetría gestual izquierda
 casos_clinicos_cardiologia271	SYMPTOM	2608	2616	Claudica
 casos_clinicos_cardiologia271	SYMPTOM	2780	2789	disartria
 casos_clinicos_cardiologia271	SYMPTOM	2794	2821	datos corticales parietales
@@ -3220,6 +3288,7 @@ casos_clinicos_cardiologia271	SYMPTOM	5529	5574	masa (6,1 x 2 cm) móvil en aur�
 casos_clinicos_cardiologia271	SYMPTOM	5696	5710	Masa hipodensa
 casos_clinicos_cardiologia271	SYMPTOM	6311	6358	VI y cavidades derechas de dimensiones normales
 casos_clinicos_cardiologia271	SYMPTOM	6360	6390	Alta carga de calcio coronario
+casos_clinicos_cardiologia271	SYMPTOM	6444	6476	Aorta torácica de calibre normal
 casos_clinicos_cardiologia271	SYMPTOM	6588	6627	Tronco pulmonar de dimensiones normales
 casos_clinicos_cardiologia271	SYMPTOM	6708	6716	ganglios
 casos_clinicos_cardiologia271	SYMPTOM	6861	6876	consolidaciones
@@ -3234,6 +3303,7 @@ casos_clinicos_cardiologia271	SYMPTOM	8686	8779	masa móvil de gran tamaño (6,1
 casos_clinicos_cardiologia271	SYMPTOM	8966	8970	masa
 casos_clinicos_cardiologia271	SYMPTOM	10525	10537	asintomático
 casos_clinicos_cardiologia271	SYMPTOM	10789	10825	Función ventricular izquierda normal
+casos_clinicos_cardiologia271	SYMPTOM	10943	10983	Hemiparesia residual de miembro inferior
 casos_clinicos_cardiologia276	SYMPTOM	87	101	dolor torácico
 casos_clinicos_cardiologia276	SYMPTOM	496	518	Serología VIH negativa
 casos_clinicos_cardiologia276	SYMPTOM	876	918	dolor centrotorácico opresivo no irradiado
@@ -3292,6 +3362,7 @@ casos_clinicos_cardiologia276	SYMPTOM	6110	6139	cambios electrocardiográficos
 casos_clinicos_cardiologia276	SYMPTOM	6328	6404	función renal y los iones, incluidos el potasio y el magnesio, eran normales
 casos_clinicos_cardiologia276	SYMPTOM	6463	6489	inestabilidad hemodinámica
 casos_clinicos_cardiologia276	SYMPTOM	6557	6581	estabilidad hemodinámica
+casos_clinicos_cardiologia276	SYMPTOM	6765	6776	hipotensión
 casos_clinicos_cardiologia276	SYMPTOM	7352	7363	somnolencia
 casos_clinicos_cardiologia276	SYMPTOM	7811	7823	asintomático
 casos_clinicos_cardiologia276	SYMPTOM	7849	7863	dolor torácico
@@ -3357,6 +3428,7 @@ casos_clinicos_cardiologia278	SYMPTOM	1579	1586	astenia
 casos_clinicos_cardiologia278	SYMPTOM	1900	1911	Taquipneico
 casos_clinicos_cardiologia278	SYMPTOM	1916	1943	mala tolerancia al decúbito
 casos_clinicos_cardiologia278	SYMPTOM	1945	1964	palidez mucocutánea
+casos_clinicos_cardiologia278	SYMPTOM	1966	1969	MEG
 casos_clinicos_cardiologia278	SYMPTOM	2111	2132	Ingurgitación yugular
 casos_clinicos_cardiologia278	SYMPTOM	2134	2164	Reflejo hepatoyugular positivo
 casos_clinicos_cardiologia278	SYMPTOM	2182	2226	ruidos cardiacos irregulares e hipofonéticos
@@ -3470,6 +3542,7 @@ casos_clinicos_cardiologia288	SYMPTOM	402	442	malestar torácico de aparición e
 casos_clinicos_cardiologia288	SYMPTOM	542	554	asintomática
 casos_clinicos_cardiologia288	SYMPTOM	560	609	electrocardiograma (ECG) inicial sin alteraciones
 casos_clinicos_cardiologia288	SYMPTOM	612	647	determinación de troponina positiva
+casos_clinicos_cardiologia288	SYMPTOM	714	739	elevación del segmento ST
 casos_clinicos_cardiologia288	SYMPTOM	940	947	Afebril
 casos_clinicos_cardiologia288	SYMPTOM	949	979	Auscultación cardiaca: rítmica
 casos_clinicos_cardiologia288	SYMPTOM	984	990	soplos
@@ -3648,6 +3721,7 @@ casos_clinicos_cardiologia301	SYMPTOM	5670	5705	Aurícula izquierda de tamaño n
 casos_clinicos_cardiologia301	SYMPTOM	5707	5740	Aurícula derecha de tamaño normal
 casos_clinicos_cardiologia301	SYMPTOM	5742	5794	Válvula aórtica: morfológica y funcionalmente normal
 casos_clinicos_cardiologia301	SYMPTOM	5796	5847	Válvula mitral: morfológica y funcionalmente normal
+casos_clinicos_cardiologia301	SYMPTOM	5849	5892	Válvula tricúspide: morfológicamente normal
 casos_clinicos_cardiologia301	SYMPTOM	6003	6033	Vena cava inferior no dilatada
 casos_clinicos_cardiologia301	SYMPTOM	6072	6118	Raíz aórtica y cayado aórtico de tamaño normal
 casos_clinicos_cardiologia301	SYMPTOM	6135	6163	Septo interauricular íntegro
@@ -3666,6 +3740,7 @@ casos_clinicos_cardiologia301	SYMPTOM	7299	7380	secuencia de perfusión miocárd
 casos_clinicos_cardiologia301	SYMPTOM	7858	7936	vena pulmonar superior izquierda que drena en tronco braquiocefálico izquierdo
 casos_clinicos_cardiologia301	SYMPTOM	8608	8648	alteraciones de la contractilidad apical
 casos_clinicos_cardiologia301	SYMPTOM	8855	8883	arterias coronarias normales
+casos_clinicos_cardiologia301	SYMPTOM	9094	9129	evento embólico en miembro inferior
 casos_clinicos_cardiologia301	SYMPTOM	9484	9503	estabilidad clínica
 casos_clinicos_cardiologia302	SYMPTOM	252	299	catecolaminas y metanefrinas en orina negativas
 casos_clinicos_cardiologia302	SYMPTOM	302	317	cortisol normal
@@ -3674,6 +3749,7 @@ casos_clinicos_cardiologia302	SYMPTOM	547	566	coronarias normales
 casos_clinicos_cardiologia302	SYMPTOM	629	669	acinesia de todos los segmentos apicales
 casos_clinicos_cardiologia302	SYMPTOM	800	819	balonización apical
 casos_clinicos_cardiologia302	SYMPTOM	1159	1192	alteraciones de la contractilidad
+casos_clinicos_cardiologia302	SYMPTOM	1266	1291	elevación del segmento ST
 casos_clinicos_cardiologia302	SYMPTOM	1335	1376	ondas T prominentes en cara inferolateral
 casos_clinicos_cardiologia302	SYMPTOM	1439	1458	coronarias normales
 casos_clinicos_cardiologia302	SYMPTOM	1919	1942	opresión centrotorácica
@@ -3753,6 +3829,7 @@ casos_clinicos_cardiologia303	SYMPTOM	3412	3424	asintomática
 casos_clinicos_cardiologia303	SYMPTOM	3443	3480	descenso generalizado del segmento ST
 casos_clinicos_cardiologia303	SYMPTOM	3572	3614	elevación de marcadores de daño miocárdico
 casos_clinicos_cardiologia303	SYMPTOM	3701	3727	elevanción del segmento ST
+casos_clinicos_cardiologia303	SYMPTOM	3999	4038	raíz de aorta con una morfología cónica
 casos_clinicos_cardiologia303	SYMPTOM	4498	4548	deformidad de la circunferencia de la raíz aórtica
 casos_clinicos_cardiologia303	SYMPTOM	5341	5357	dolor precordial
 casos_clinicos_cardiologia303	SYMPTOM	6047	6072	Arterias coronarias sanas
@@ -3842,6 +3919,7 @@ casos_clinicos_cardiologia305	SYMPTOM	3085	3133	Septo interauricular (SIA) apare
 casos_clinicos_cardiologia305	SYMPTOM	3135	3201	Masa implantada en la vertiente auricular de la válvula tricúspide
 casos_clinicos_cardiologia305	SYMPTOM	3532	3557	Vena cava inferior normal
 casos_clinicos_cardiologia305	SYMPTOM	3652	3718	masa implantada en la vertiente auricular de la válvula tricúspide
+casos_clinicos_cardiologia305	SYMPTOM	3907	3911	masa
 casos_clinicos_cardiologia306	SYMPTOM	1033	1074	disnea progresiva hasta mínimos esfuerzos
 casos_clinicos_cardiologia306	SYMPTOM	1096	1144	deterioro progresivo de la capacidad de esfuerzo
 casos_clinicos_cardiologia306	SYMPTOM	1245	1253	ortopnea
@@ -3882,6 +3960,7 @@ casos_clinicos_cardiologia306	SYMPTOM	3884	3929	función sistólica global grave
 casos_clinicos_cardiologia306	SYMPTOM	3931	3993	Válvula mitral con calcio en el anillo y funcionalmente normal
 casos_clinicos_cardiologia306	SYMPTOM	4074	4098	Raíz aórtica no dilatada
 casos_clinicos_cardiologia306	SYMPTOM	4100	4137	Aorta ascendente proximal no dilatada
+casos_clinicos_cardiologia306	SYMPTOM	4139	4181	Válvula tricúspide morfológicamente normal
 casos_clinicos_cardiologia306	SYMPTOM	4406	4436	Vena cava inferior no dilatada
 casos_clinicos_cardiologia306	SYMPTOM	5086	5109	pericárdicos superiores
 casos_clinicos_cardiologia306	SYMPTOM	5148	5224	Ganglios milimétricos prevascular, paratraqueal derecho bajo, hiliar derecho
@@ -3891,6 +3970,8 @@ casos_clinicos_cardiologia306	SYMPTOM	5517	5581	leve asimetría en la vasculariz
 casos_clinicos_cardiologia306	SYMPTOM	5659	5730	Hígado de contornos polilobulados, con crecimiento del lóbulo izquierdo
 casos_clinicos_cardiologia306	SYMPTOM	7295	7320	hemodinámicamente estable
 casos_clinicos_cardiologia306	SYMPTOM	7343	7353	congestión
+casos_clinicos_cardiologia308	SYMPTOM	583	607	elevación el segmento ST
+casos_clinicos_cardiologia308	SYMPTOM	902	973	coronaria derecha (CD) y descendente anterior (DA) presentaban lesiones
 casos_clinicos_cardiologia308	SYMPTOM	1331	1368	ventrículo izquierdo (VI) no dilatado
 casos_clinicos_cardiologia308	SYMPTOM	1386	1411	Hipocinesia inferolateral
 casos_clinicos_cardiologia308	SYMPTOM	1413	1443	Ventrículo derecho (VD) normal
@@ -3919,6 +4000,7 @@ casos_clinicos_cardiologia308	SYMPTOM	6683	6697	no-HDL elevado
 casos_clinicos_cardiologia308	SYMPTOM	6894	6957	función sistólica de ventrículo izquierdo ligeramente deprimida
 casos_clinicos_cardiologia308	SYMPTOM	8067	8091	perfil lipídico en rango
 casos_clinicos_cardiologia308	SYMPTOM	8507	8529	quilomicrones negativo
+casos_clinicos_cardiologia308	SYMPTOM	8603	8628	elevación del segmento ST
 casos_clinicos_cardiologia308	SYMPTOM	8775	8839	Función sistólica de ventrículo izquierdo ligeramente disminuida
 casos_clinicos_cardiologia308	SYMPTOM	8985	9031	Capacidad aeróbica leve-moderadamente reducida
 casos_clinicos_cardiologia31	SYMPTOM	110	119	febrícula
@@ -4000,6 +4082,7 @@ casos_clinicos_cardiologia321	SYMPTOM	2265	2293	Coagulación sin alteraciones
 casos_clinicos_cardiologia321	SYMPTOM	2467	2500	Estudio de autoinmunidad negativo
 casos_clinicos_cardiologia321	SYMPTOM	2682	2724	aurícula izquierda de dimensiones normales
 casos_clinicos_cardiologia321	SYMPTOM	2755	2811	Válvula mitral normal, con velos sin afectación orgánica
+casos_clinicos_cardiologia321	SYMPTOM	2831	2888	Ventrículo izquierdo con volúmenes ligeramente aumentados
 casos_clinicos_cardiologia321	SYMPTOM	2966	3012	alteraciones segmentarias de la contractilidad
 casos_clinicos_cardiologia321	SYMPTOM	3014	3038	Grosor miocárdico normal
 casos_clinicos_cardiologia321	SYMPTOM	3086	3117	Patrón de llenado mitral normal
@@ -4013,6 +4096,7 @@ casos_clinicos_cardiologia321	SYMPTOM	5363	5386	coronarias sin lesiones
 casos_clinicos_cardiologia321	SYMPTOM	5822	5836	dolor torácico
 casos_clinicos_cardiologia321	SYMPTOM	5980	6003	alteraciones eléctricas
 casos_clinicos_cardiologia321	SYMPTOM	6021	6053	alteraciones en la cara inferior
+casos_clinicos_cardiologia321	SYMPTOM	6741	6752	hipotensión
 casos_clinicos_cardiologia321	SYMPTOM	7498	7510	asintomático
 casos_clinicos_cardiologia321	SYMPTOM	7679	7711	fenómeno de compresión sistólica
 casos_clinicos_cardiologia326	SYMPTOM	125	137	asintomático
@@ -4178,6 +4262,7 @@ casos_clinicos_cardiologia334	SYMPTOM	2976	3004	función sistólica conservada
 casos_clinicos_cardiologia334	SYMPTOM	3037	3082	Aurícula derecha e izquierda de tamaño normal
 casos_clinicos_cardiologia334	SYMPTOM	3084	3161	Ventrículo derecho no dilatado ni hipertrofiado, con función sistólica normal
 casos_clinicos_cardiologia334	SYMPTOM	3178	3213	Válvula mitral de morfología normal
+casos_clinicos_cardiologia334	SYMPTOM	3498	3540	Válvula tricúspide morfológicamente normal
 casos_clinicos_cardiologia334	SYMPTOM	3741	3783	Pericardio de grosor y refringencia normal
 casos_clinicos_cardiologia334	SYMPTOM	3800	3830	vena cava inferior no dilatada
 casos_clinicos_cardiologia334	SYMPTOM	3895	3924	aquinesia anteroseptal apical
@@ -4191,6 +4276,7 @@ casos_clinicos_cardiologia334	SYMPTOM	5043	5088	Aurícula derecha e izquierda de
 casos_clinicos_cardiologia334	SYMPTOM	5090	5167	Ventrículo derecho no dilatado ni hipertrofiado, con función sistólica normal
 casos_clinicos_cardiologia334	SYMPTOM	5185	5220	Válvula mitral de morfología normal
 casos_clinicos_cardiologia334	SYMPTOM	5270	5308	Válvula aórtica de morfología trivalva
+casos_clinicos_cardiologia334	SYMPTOM	5481	5523	Válvula tricúspide morfológicamente normal
 casos_clinicos_cardiologia334	SYMPTOM	5657	5699	Pericardio de grosor y refringencia normal
 casos_clinicos_cardiologia334	SYMPTOM	5716	5746	vena cava inferior no dilatada
 casos_clinicos_cardiologia334	SYMPTOM	5899	5910	hipotensión
@@ -4202,6 +4288,7 @@ casos_clinicos_cardiologia334	SYMPTOM	6464	6493	aquinesia anteroseptal apical
 casos_clinicos_cardiologia334	SYMPTOM	6498	6522	captación subendocárdica
 casos_clinicos_cardiologia334	SYMPTOM	6963	6975	asintomática
 casos_clinicos_cardiologia334	SYMPTOM	6983	7028	alteraciones de la contractilidad segmentaria
+casos_clinicos_cardiologia334	SYMPTOM	7094	7119	elevación del segmento ST
 casos_clinicos_cardiologia334	SYMPTOM	7226	7254	árbol coronario sin lesiones
 casos_clinicos_cardiologia334	SYMPTOM	7256	7271	Acinesia apical
 casos_clinicos_cardiologia334	SYMPTOM	7273	7288	FEVI conservada
@@ -4293,6 +4380,7 @@ casos_clinicos_cardiologia342	SYMPTOM	815	858	hipocinesia septo inferior e infer
 casos_clinicos_cardiologia342	SYMPTOM	990	1020	alteraciones de contractilidad
 casos_clinicos_cardiologia342	SYMPTOM	1263	1275	asintomático
 casos_clinicos_cardiologia342	SYMPTOM	1308	1322	dolor torácico
+casos_clinicos_cardiologia342	SYMPTOM	1545	1556	hipotensión
 casos_clinicos_cardiologia342	SYMPTOM	1778	1833	niveles elevados de lipoproteína A, apoB y homocistenia
 casos_clinicos_cardiologia342	SYMPTOM	1852	1860	mialgias
 casos_clinicos_cardiologia342	SYMPTOM	1898	1920	elevación de CPK y AST
@@ -4363,11 +4451,13 @@ casos_clinicos_cardiologia345	SYMPTOM	2829	2862	alteraciones en la repolarizaci�
 casos_clinicos_cardiologia345	SYMPTOM	2899	2942	silueta cardiomediastínica sin alteraciones
 casos_clinicos_cardiologia345	SYMPTOM	2944	2983	Engrosamiento hiliar de origen vascular
 casos_clinicos_cardiologia345	SYMPTOM	2999	3012	consolidación
+casos_clinicos_cardiologia345	SYMPTOM	3247	3289	ventrículo izquierdo de diámetros normales
 casos_clinicos_cardiologia345	SYMPTOM	3395	3440	alteraciones de la contractilidad segmentaria
 casos_clinicos_cardiologia345	SYMPTOM	3442	3500	Ventrículo derecho no dilatado con buena función sistólica
 casos_clinicos_cardiologia345	SYMPTOM	3516	3537	Disfunción diastólica
 casos_clinicos_cardiologia345	SYMPTOM	3633	3657	Raíz aórtica no dilatada
 casos_clinicos_cardiologia345	SYMPTOM	3659	3704	Válvula aórtica trivalva con gradiente normal
+casos_clinicos_cardiologia345	SYMPTOM	3726	3758	Válvula mitral de aspecto normal
 casos_clinicos_cardiologia345	SYMPTOM	3895	3932	buena función sistólica biventricular
 casos_clinicos_cardiologia345	SYMPTOM	4281	4295	dolor torácico
 casos_clinicos_cardiologia345	SYMPTOM	4553	4620	tronco coronario izquierdo (TCI): irregularidades no significativas
@@ -4400,6 +4490,8 @@ casos_clinicos_cardiologia348	SYMPTOM	1523	1528	dolor
 casos_clinicos_cardiologia348	SYMPTOM	1680	1731	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia348	SYMPTOM	1820	1845	elevación del segmento ST
 casos_clinicos_cardiologia348	SYMPTOM	1970	2005	estable clínica y hemodinámicamente
+casos_clinicos_cardiologia348	SYMPTOM	2213	2238	elevación del segmento ST
+casos_clinicos_cardiologia348	SYMPTOM	2253	2281	elevación transitoria del ST
 casos_clinicos_cardiologia348	SYMPTOM	2360	2411	asintomático desde el punto de vista cardiovascular
 casos_clinicos_cardiologia348	SYMPTOM	2437	2451	dolor torácico
 casos_clinicos_cardiologia348	SYMPTOM	2490	2515	Hemodinámicamente estable
@@ -4440,6 +4532,7 @@ casos_clinicos_cardiologia348	SYMPTOM	4888	4913	Vena cava inferior normal
 casos_clinicos_cardiologia348	SYMPTOM	5571	5596	hemodinámicamente estable
 casos_clinicos_cardiologia348	SYMPTOM	5622	5636	dolor torácico
 casos_clinicos_cardiologia348	SYMPTOM	6606	6620	dolor torácico
+casos_clinicos_cardiologia348	SYMPTOM	6635	6676	SCASEST tipo elevación transitoria del ST
 casos_clinicos_cardiologia348	SYMPTOM	6764	6794	Función ventricular conservada
 casos_clinicos_cardiologia35	SYMPTOM	93	99	fiebre
 casos_clinicos_cardiologia35	SYMPTOM	164	175	escalofríos
@@ -4506,6 +4599,7 @@ casos_clinicos_cardiologia351	SYMPTOM	5328	5371	aumento patológico de gradiente
 casos_clinicos_cardiologia351	SYMPTOM	5490	5538	Válvula aórtica con flujos anterógrados normales
 casos_clinicos_cardiologia351	SYMPTOM	5616	5636	dominancia izquierda
 casos_clinicos_cardiologia351	SYMPTOM	5701	5705	masa
+casos_clinicos_cardiologia351	SYMPTOM	6906	6927	masa atrial izquierda
 casos_clinicos_cardiologia351	SYMPTOM	8267	8292	pérdida de escape sinusal
 casos_clinicos_cardiologia352	SYMPTOM	150	165	soplo sistólico
 casos_clinicos_cardiologia352	SYMPTOM	515	522	cansada
@@ -4609,6 +4703,7 @@ casos_clinicos_cardiologia361	SYMPTOM	5468	5499	fracción de eyección preservad
 casos_clinicos_cardiologia361	SYMPTOM	5530	5576	alteraciones segmentarias de la contractilidad
 casos_clinicos_cardiologia361	SYMPTOM	5651	5663	asintomático
 casos_clinicos_cardiologia361	SYMPTOM	5898	5910	asintomático
+casos_clinicos_cardiologia361	SYMPTOM	5994	6019	elevación del segmento ST
 casos_clinicos_cardiologia361	SYMPTOM	6205	6258	Manifestación eléctrica inicial con patrón de Wellens
 casos_clinicos_cardiologia367	SYMPTOM	83	97	dolor torácico
 casos_clinicos_cardiologia367	SYMPTOM	290	303	palpitaciones
@@ -4670,6 +4765,7 @@ casos_clinicos_cardiologia369	SYMPTOM	2161	2179	disnea de esfuerzo
 casos_clinicos_cardiologia369	SYMPTOM	2242	2310	cifras elevadas de colesterol unido a lipoproteínas de baja densidad
 casos_clinicos_cardiologia369	SYMPTOM	2682	2702	molestias musculares
 casos_clinicos_cardiologia369	SYMPTOM	2972	2979	astenia
+casos_clinicos_cardiologia369	SYMPTOM	3189	3208	alteración hepática
 casos_clinicos_cardiologia37	SYMPTOM	76	82	fiebre
 casos_clinicos_cardiologia37	SYMPTOM	116	127	escalofríos
 casos_clinicos_cardiologia37	SYMPTOM	129	137	tiritona
@@ -4692,6 +4788,7 @@ casos_clinicos_cardiologia37	SYMPTOM	2002	2019	Eupneicoen reposo
 casos_clinicos_cardiologia37	SYMPTOM	2079	2093	Normocoloreado
 casos_clinicos_cardiologia37	SYMPTOM	2095	2109	Normohidratado
 casos_clinicos_cardiologia37	SYMPTOM	2114	2123	ictericia
+casos_clinicos_cardiologia37	SYMPTOM	2126	2138	Boca séptica
 casos_clinicos_cardiologia37	SYMPTOM	2140	2166	Faringe normal sin exudado
 casos_clinicos_cardiologia37	SYMPTOM	2173	2184	crepitación
 casos_clinicos_cardiologia37	SYMPTOM	2199	2239	inflamación sobre la pila del marcapasos
@@ -4738,6 +4835,7 @@ casos_clinicos_cardiologia376	SYMPTOM	1674	1707	alteraciones de la repolarizaci�
 casos_clinicos_cardiologia376	SYMPTOM	1731	1758	elevación de hemidiafragama
 casos_clinicos_cardiologia376	SYMPTOM	1768	1791	Silueta cardiaca normal
 casos_clinicos_cardiologia376	SYMPTOM	1806	1851	pérdida de volumen en lóbulo superior derecho
+casos_clinicos_cardiologia376	SYMPTOM	1880	1916	Atelectasia residual de lóbulo medio
 casos_clinicos_cardiologia376	SYMPTOM	1919	1953	elevación de hemidiafragma derecho
 casos_clinicos_cardiologia376	SYMPTOM	1970	2014	defectos de repleción en arterias pulmonares
 casos_clinicos_cardiologia376	SYMPTOM	2085	2149	ventrículo izquierdo de dimensiones y función sistólica normales
@@ -4783,12 +4881,14 @@ casos_clinicos_cardiologia383	SYMPTOM	4298	4332	pinzamiento de senos costofréni
 casos_clinicos_cardiologia383	SYMPTOM	4345	4368	redistribución vascular
 casos_clinicos_cardiologia383	SYMPTOM	4374	4399	condensaciones neumónicas
 casos_clinicos_cardiologia383	SYMPTOM	4432	4445	ritmo sinusal
+casos_clinicos_cardiologia383	SYMPTOM	4555	4592	Ventrículo izquierdo (VI) no dilatado
 casos_clinicos_cardiologia383	SYMPTOM	4621	4636	FEVI conservada
 casos_clinicos_cardiologia383	SYMPTOM	4669	4696	Relajación prolongada de VI
 casos_clinicos_cardiologia383	SYMPTOM	4698	4748	Ventrículo derecho (VD) de tamaño y función normal
 casos_clinicos_cardiologia383	SYMPTOM	4750	4789	Válvula mitral fibrosada, no estenótica
 casos_clinicos_cardiologia383	SYMPTOM	4993	5034	tronco coronario izquierdo: sin estenosis
 casos_clinicos_cardiologia383	SYMPTOM	5403	5443	Arteria coronaria derecha: sin estenosis
+casos_clinicos_cardiologia383	SYMPTOM	5991	6016	elevación del segmento ST
 casos_clinicos_cardiologia383	SYMPTOM	6083	6103	hemodinámica estable
 casos_clinicos_cardiologia383	SYMPTOM	6137	6150	soplo aórtico
 casos_clinicos_cardiologia383	SYMPTOM	6375	6390	FEVI conservada
@@ -4796,6 +4896,7 @@ casos_clinicos_cardiologia383	SYMPTOM	7347	7362	FEVI conservada
 casos_clinicos_cardiologia383	SYMPTOM	7367	7377	asinergias
 casos_clinicos_cardiologia385	SYMPTOM	763	784	focalidad neurológica
 casos_clinicos_cardiologia385	SYMPTOM	800	813	afasia motora
+casos_clinicos_cardiologia385	SYMPTOM	816	825	disartria
 casos_clinicos_cardiologia385	SYMPTOM	1451	1458	Afebril
 casos_clinicos_cardiologia385	SYMPTOM	1460	1490	Auscultación cardiaca: rítmica
 casos_clinicos_cardiologia385	SYMPTOM	1495	1501	soplos
@@ -4805,6 +4906,7 @@ casos_clinicos_cardiologia385	SYMPTOM	1561	1595	Extremidades inferiores sin edem
 casos_clinicos_cardiologia385	SYMPTOM	1652	1688	Pulsos pedios presentes y simétricos
 casos_clinicos_cardiologia385	SYMPTOM	1715	1749	pupilas isocóricas normorreactivas
 casos_clinicos_cardiologia385	SYMPTOM	1751	1775	Pares craneales normales
+casos_clinicos_cardiologia385	SYMPTOM	1777	1809	Afasia motora con disartria leve
 casos_clinicos_cardiologia385	SYMPTOM	1811	1857	Fuerza y sensibilidad conservadas y simétricas
 casos_clinicos_cardiologia385	SYMPTOM	1904	1929	alteraciones de la marcha
 casos_clinicos_cardiologia385	SYMPTOM	1961	1974	ritmo sinusal
@@ -4834,6 +4936,8 @@ casos_clinicos_cardiologia385	SYMPTOM	4378	4395	CD: sin estenosis
 casos_clinicos_cardiologia385	SYMPTOM	4410	4446	aorta ascendente de dimensión normal
 casos_clinicos_cardiologia385	SYMPTOM	4448	4490	válvula aórtica trivalva, normofuncionante
 casos_clinicos_cardiologia385	SYMPTOM	4732	4760	masa en velo anterior mitral
+casos_clinicos_cardiologia387	SYMPTOM	382	407	elevación del segmento ST
+casos_clinicos_cardiologia387	SYMPTOM	669	706	ventrículo izquierdo (VI) no dilatado
 casos_clinicos_cardiologia387	SYMPTOM	730	765	función sistólica global conservada
 casos_clinicos_cardiologia387	SYMPTOM	768	795	hipocinesia inferoposterior
 casos_clinicos_cardiologia387	SYMPTOM	797	850	Válvula aórtica trivalva sin alteraciones funcionales
@@ -4858,6 +4962,7 @@ casos_clinicos_cardiologia387	SYMPTOM	2673	2682	PR normal
 casos_clinicos_cardiologia387	SYMPTOM	2684	2696	QRS estrecho
 casos_clinicos_cardiologia387	SYMPTOM	2698	2718	Onda Q en DIII y avF
 casos_clinicos_cardiologia387	SYMPTOM	2724	2764	alteraciones agudas de la repolarización
+casos_clinicos_cardiologia387	SYMPTOM	3133	3147	VI no dilatado
 casos_clinicos_cardiologia387	SYMPTOM	3171	3206	función sistólica global conservada
 casos_clinicos_cardiologia387	SYMPTOM	3209	3242	hipocinesia basal inferoposterior
 casos_clinicos_cardiologia387	SYMPTOM	3244	3279	Patrón diastólico pseudonormalizado
@@ -4901,6 +5006,7 @@ casos_clinicos_cardiologia389	SYMPTOM	4726	4739	cLDL en rango
 casos_clinicos_cardiologia39	SYMPTOM	142	148	fiebre
 casos_clinicos_cardiologia39	SYMPTOM	151	176	escalofríos intermitentes
 casos_clinicos_cardiologia39	SYMPTOM	213	265	muestras para HC que fueron reiteradamente negativos
+casos_clinicos_cardiologia39	SYMPTOM	272	287	imagen anecoica
 casos_clinicos_cardiologia39	SYMPTOM	563	575	HC negativos
 casos_clinicos_cardiologia39	SYMPTOM	742	748	fiebre
 casos_clinicos_cardiologia39	SYMPTOM	751	762	escalofríos
@@ -4946,7 +5052,9 @@ casos_clinicos_cardiologia4	SYMPTOM	712	720	sangrado
 casos_clinicos_cardiologia4	SYMPTOM	1356	1369	ritmo sinusal
 casos_clinicos_cardiologia4	SYMPTOM	1583	1611	función biventricular normal
 casos_clinicos_cardiologia4	SYMPTOM	1614	1647	prótesis aórtica normofuncionante
+casos_clinicos_cardiologia4	SYMPTOM	2135	2152	episodio sincopal
 casos_clinicos_cardiologia4	SYMPTOM	2157	2164	amnesia
+casos_clinicos_cardiologia4	SYMPTOM	2245	2256	hipotensión
 casos_clinicos_cardiologia4	SYMPTOM	2314	2359	hemodinámicamente y respiratoriamente estable
 casos_clinicos_cardiologia4	SYMPTOM	2413	2426	ritmo sinusal
 casos_clinicos_cardiologia4	SYMPTOM	3214	3221	síncope
@@ -4962,6 +5070,7 @@ casos_clinicos_cardiologia4	SYMPTOM	3999	4026	click de apertura protésico
 casos_clinicos_cardiologia4	SYMPTOM	4032	4038	soplos
 casos_clinicos_cardiologia4	SYMPTOM	4042	4052	extratonos
 casos_clinicos_cardiologia4	SYMPTOM	4075	4109	abdomen no distendido, no doloroso
+casos_clinicos_cardiologia4	SYMPTOM	4145	4156	rectorragia
 casos_clinicos_cardiologia4	SYMPTOM	4158	4186	Espalda: no puntos dolorosos
 casos_clinicos_cardiologia4	SYMPTOM	4256	4279	inestabilidad articular
 casos_clinicos_cardiologia4	SYMPTOM	4327	4362	Pupilas isocóricas, normorreactivas
@@ -4995,6 +5104,7 @@ casos_clinicos_cardiologia4	SYMPTOM	8417	8457	prótesis aórtica con gradientes 
 casos_clinicos_cardiologia4	SYMPTOM	8603	8617	picos febriles
 casos_clinicos_cardiologia4	SYMPTOM	8619	8670	creciendo en los hemocultivos Enterococcus faecalis
 casos_clinicos_cardiologia4	SYMPTOM	8692	8737	urocultivo positivo para Citrobacter freundii
+casos_clinicos_cardiologia4	SYMPTOM	8955	9064	engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral
 casos_clinicos_cardiologia4	SYMPTOM	10171	10203	dolor súbito en flanco izquierdo
 casos_clinicos_cardiologia4	SYMPTOM	10208	10230	elevación de LDH y PCR
 casos_clinicos_cardiologia4	SYMPTOM	10721	10728	estable
@@ -5002,6 +5112,7 @@ casos_clinicos_cardiologia4	SYMPTOM	10870	10877	afebril
 casos_clinicos_cardiologia4	SYMPTOM	10897	10930	hemocultivos de control estériles
 casos_clinicos_cardiologia4	SYMPTOM	11632	11638	fiebre
 casos_clinicos_cardiologia4	SYMPTOM	11642	11672	positivización de hemocultivos
+casos_clinicos_cardiologia4	SYMPTOM	12637	12648	hemiparesia
 casos_clinicos_cardiologia40	SYMPTOM	21	32	fiebre alta
 casos_clinicos_cardiologia40	SYMPTOM	106	116	estuporoso
 casos_clinicos_cardiologia40	SYMPTOM	267	285	PCT y PCR elevadas
@@ -5017,7 +5128,9 @@ casos_clinicos_cardiologia40	SYMPTOM	502	513	Taquicardia
 casos_clinicos_cardiologia40	SYMPTOM	530	539	Taquipnea
 casos_clinicos_cardiologia40	SYMPTOM	808	821	Ritmo sinusal
 casos_clinicos_cardiologia40	SYMPTOM	1593	1639	Hemocultivos positivos a STAPHILOCOCCUS AUREUS
+casos_clinicos_cardiologia40	SYMPTOM	1733	1779	VERRUGA en valva anterior de la válvula mitral
 casos_clinicos_cardiologia40	SYMPTOM	2397	2410	ritmo sinusal
+casos_clinicos_cardiologia404	SYMPTOM	567	592	elevación del segmento ST
 casos_clinicos_cardiologia404	SYMPTOM	821	884	Fracción de eyección del ventrículo izquierdo (FEVI) conservada
 casos_clinicos_cardiologia404	SYMPTOM	889	929	ventrículo derecho (VD) normofuncionante
 casos_clinicos_cardiologia404	SYMPTOM	1214	1228	dolor torácico
@@ -5081,6 +5194,7 @@ casos_clinicos_cardiologia407	SYMPTOM	1530	1543	ritmo sinusal
 casos_clinicos_cardiologia407	SYMPTOM	1837	1881	Ventrículo izquierdo (VI) de diámetro normal
 casos_clinicos_cardiologia407	SYMPTOM	1992	2042	movimiento anterior sistólico de la válvula mitral
 casos_clinicos_cardiologia407	SYMPTOM	3342	3355	ritmo sinusal
+casos_clinicos_cardiologia407	SYMPTOM	3711	3733	Síncopes de repetición
 casos_clinicos_cardiologia409	SYMPTOM	599	657	ventrículo izquierdo de tamaño y espesor de paredes normal
 casos_clinicos_cardiologia409	SYMPTOM	659	722	Fracción de eyección del ventrículo izquierdo (FEVI) conservada
 casos_clinicos_cardiologia409	SYMPTOM	791	826	Aurícula izquierda de tamaño normal
@@ -5211,11 +5325,15 @@ casos_clinicos_cardiologia416	SYMPTOM	1660	1720	Fracción eyección del ventríc
 casos_clinicos_cardiologia416	SYMPTOM	1731	1764	contractilidad segmentaria normal
 casos_clinicos_cardiologia416	SYMPTOM	1767	1794	alteración de la relajación
 casos_clinicos_cardiologia416	SYMPTOM	1796	1826	Ventrículo derecho (VD) normal
+casos_clinicos_cardiologia416	SYMPTOM	2976	3001	elevación del segmento ST
 casos_clinicos_cardiologia419	SYMPTOM	765	773	sangrado
+casos_clinicos_cardiologia419	SYMPTOM	1182	1200	sangrado digestivo
 casos_clinicos_cardiologia419	SYMPTOM	1410	1423	ritmo sinusal
 casos_clinicos_cardiologia419	SYMPTOM	1637	1665	función biventricular normal
 casos_clinicos_cardiologia419	SYMPTOM	1668	1701	prótesis aórtica normofuncionante
 casos_clinicos_cardiologia419	SYMPTOM	2213	2220	amnesia
+casos_clinicos_cardiologia419	SYMPTOM	2301	2312	hipotensión
+casos_clinicos_cardiologia419	SYMPTOM	2315	2326	bradicardia
 casos_clinicos_cardiologia419	SYMPTOM	2370	2415	hemodinámicamente y respiratoriamente estable
 casos_clinicos_cardiologia419	SYMPTOM	2469	2482	ritmo sinusal
 casos_clinicos_cardiologia419	SYMPTOM	3270	3277	síncope
@@ -5263,6 +5381,7 @@ casos_clinicos_cardiologia419	SYMPTOM	8478	8518	prótesis aórtica con gradiente
 casos_clinicos_cardiologia419	SYMPTOM	8663	8677	picos febriles
 casos_clinicos_cardiologia419	SYMPTOM	8679	8730	creciendo en los hemocultivos Enterococcus faecalis
 casos_clinicos_cardiologia419	SYMPTOM	8752	8797	urocultivo positivo para Citrobacter freundii
+casos_clinicos_cardiologia419	SYMPTOM	9015	9065	engrosamiento a nivel posterior de anillo aórtico,
 casos_clinicos_cardiologia419	SYMPTOM	10231	10263	dolor súbito en flanco izquierdo
 casos_clinicos_cardiologia419	SYMPTOM	10268	10290	elevación de LDH y PCR
 casos_clinicos_cardiologia419	SYMPTOM	10781	10788	estable
@@ -5327,6 +5446,7 @@ casos_clinicos_cardiologia426	SYMPTOM	2393	2461	Ventrículo derecho (VD) no dila
 casos_clinicos_cardiologia426	SYMPTOM	2476	2480	masa
 casos_clinicos_cardiologia426	SYMPTOM	2810	2836	Cavidades de tamaño normal
 casos_clinicos_cardiologia426	SYMPTOM	2839	2871	función biventricular conservada
+casos_clinicos_cardiologia426	SYMPTOM	2924	2928	masa
 casos_clinicos_cardiologia426	SYMPTOM	3120	3152	función biventricular conservada
 casos_clinicos_cardiologia427	SYMPTOM	409	422	ritmo sinusal
 casos_clinicos_cardiologia427	SYMPTOM	427	437	eje normal
@@ -5378,6 +5498,7 @@ casos_clinicos_cardiologia43	SYMPTOM	664	673	orientado
 casos_clinicos_cardiologia43	SYMPTOM	675	686	colaborador
 casos_clinicos_cardiologia43	SYMPTOM	688	707	Buen estado general
 casos_clinicos_cardiologia43	SYMPTOM	709	734	Eupneico al aire ambiente
+casos_clinicos_cardiologia43	SYMPTOM	736	750	Cabeza y cuelo
 casos_clinicos_cardiologia43	SYMPTOM	755	758	IVY
 casos_clinicos_cardiologia43	SYMPTOM	766	796	Auscultación cardiaca: rítmica
 casos_clinicos_cardiologia43	SYMPTOM	802	808	soplos
@@ -5398,6 +5519,7 @@ casos_clinicos_cardiologia43	SYMPTOM	2570	2601	Coronaria derecha: sin lesiones
 casos_clinicos_cardiologia43	SYMPTOM	2973	2982	QRS ancho
 casos_clinicos_cardiologia43	SYMPTOM	4184	4206	estable cardiovascular
 casos_clinicos_cardiologia43	SYMPTOM	4209	4221	asintomático
+casos_clinicos_cardiologia431	SYMPTOM	247	285	compresión de raíces sacras izquierdas
 casos_clinicos_cardiologia431	SYMPTOM	378	404	dolor torácico recurrentes
 casos_clinicos_cardiologia431	SYMPTOM	425	462	test de isquemia que resultó negativo
 casos_clinicos_cardiologia431	SYMPTOM	826	832	disnea
@@ -5406,11 +5528,13 @@ casos_clinicos_cardiologia431	SYMPTOM	867	915	opresión torácica irradiada a am
 casos_clinicos_cardiologia431	SYMPTOM	989	1007	mal estado general
 casos_clinicos_cardiologia431	SYMPTOM	1105	1120	ondas T picudas
 casos_clinicos_cardiologia431	SYMPTOM	1125	1163	elevación del punto J de 2 mm en V3-V6
+casos_clinicos_cardiologia431	SYMPTOM	1241	1266	elevación del segmento ST
 casos_clinicos_cardiologia431	SYMPTOM	1413	1424	somnolienta
 casos_clinicos_cardiologia431	SYMPTOM	1513	1536	coronarias sin lesiones
 casos_clinicos_cardiologia431	SYMPTOM	1634	1704	Ventriculografía sin alteraciones segmentarias y con mitral competente
 casos_clinicos_cardiologia431	SYMPTOM	1726	1741	eritema cutáneo
 casos_clinicos_cardiologia431	SYMPTOM	1840	1889	aplanamiento de las ondas T en cara anterolateral
+casos_clinicos_cardiologia431	SYMPTOM	1953	1969	erupción cutánea
 casos_clinicos_cardiologia431	SYMPTOM	2061	2085	elevación de troponina I
 casos_clinicos_cardiologia431	SYMPTOM	2395	2405	Consciente
 casos_clinicos_cardiologia431	SYMPTOM	2408	2417	orientada
@@ -5488,6 +5612,7 @@ casos_clinicos_cardiologia433	SYMPTOM	3223	3272	Cavidades derechas de tamaño y 
 casos_clinicos_cardiologia433	SYMPTOM	3425	3455	Aumento del saco aneurismático
 casos_clinicos_cardiologia433	SYMPTOM	4854	4881	desplazamiento mediastínico
 casos_clinicos_cardiologia433	SYMPTOM	5154	5171	fuga de contraste
+casos_clinicos_cardiologia433	SYMPTOM	5304	5311	síncope
 casos_clinicos_cardiologia433	SYMPTOM	5517	5536	estabilidad clínica
 casos_clinicos_cardiologia433	SYMPTOM	6147	6171	estabilidad hemodinámica
 casos_clinicos_cardiologia433	SYMPTOM	6312	6336	estabilidad hemodinámica
@@ -5527,6 +5652,7 @@ casos_clinicos_cardiologia434	SYMPTOM	2628	2656	índice cardiotorácico normal
 casos_clinicos_cardiologia434	SYMPTOM	2670	2693	redistribución vascular
 casos_clinicos_cardiologia434	SYMPTOM	3241	3290	Hormonas tiroideas dentro del rango de normalidad
 casos_clinicos_cardiologia434	SYMPTOM	3452	3484	arterias coronarias sin lesiones
+casos_clinicos_cardiologia434	SYMPTOM	3535	3567	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia434	SYMPTOM	3597	3622	función global conservada
 casos_clinicos_cardiologia434	SYMPTOM	3627	3670	anomalías segmentarias de la contractilidad
 casos_clinicos_cardiologia434	SYMPTOM	3697	3744	Ventrículo derecho de tamaño y función normales
@@ -5587,6 +5713,7 @@ casos_clinicos_cardiologia438	SYMPTOM	1019	1046	Constantes vitales normales
 casos_clinicos_cardiologia438	SYMPTOM	1048	1082	Auscultación cardiopulmonar normal
 casos_clinicos_cardiologia438	SYMPTOM	1122	1143	leve ptosis bilateral
 casos_clinicos_cardiologia438	SYMPTOM	1145	1166	debilidad facial leve
+casos_clinicos_cardiologia438	SYMPTOM	1178	1200	cierre ocular completo
 casos_clinicos_cardiologia438	SYMPTOM	1202	1228	hiporreflexia generalizada
 casos_clinicos_cardiologia438	SYMPTOM	1230	1237	paresia
 casos_clinicos_cardiologia438	SYMPTOM	1244	1260	rodete miotónico
@@ -5614,6 +5741,7 @@ casos_clinicos_cardiologia443	SYMPTOM	535	548	ritmo sinusal
 casos_clinicos_cardiologia443	SYMPTOM	726	778	disnea progresiva hasta hacerse de mínimos esfuerzos
 casos_clinicos_cardiologia443	SYMPTOM	901	931	disnea hasta hacerse de reposo
 casos_clinicos_cardiologia443	SYMPTOM	934	942	ortopnea
+casos_clinicos_cardiologia443	SYMPTOM	1101	1112	hipotensión
 casos_clinicos_cardiologia443	SYMPTOM	1258	1273	astenia intensa
 casos_clinicos_cardiologia443	SYMPTOM	1292	1298	disnea
 casos_clinicos_cardiologia443	SYMPTOM	1459	1488	Presión venosa yugular normal
@@ -5694,6 +5822,7 @@ casos_clinicos_cardiologia451	SYMPTOM	123	148	dolor en miembro inferior
 casos_clinicos_cardiologia451	SYMPTOM	823	828	dolor
 casos_clinicos_cardiologia451	SYMPTOM	830	838	frialdad
 casos_clinicos_cardiologia451	SYMPTOM	841	881	impotencia funcional de miembro inferior
+casos_clinicos_cardiologia451	SYMPTOM	974	991	ruidos arrítmicos
 casos_clinicos_cardiologia451	SYMPTOM	1006	1021	soplo sistólico
 casos_clinicos_cardiologia451	SYMPTOM	1032	1045	2R conservado
 casos_clinicos_cardiologia451	SYMPTOM	1078	1099	crepitantes bibasales
@@ -5727,6 +5856,7 @@ casos_clinicos_cardiologia451	SYMPTOM	6613	6624	FEVI normal
 casos_clinicos_cardiologia451	SYMPTOM	7261	7272	FEVI normal
 casos_clinicos_cardiologia452	SYMPTOM	568	579	FEVI normal
 casos_clinicos_cardiologia452	SYMPTOM	1855	1870	dolor abdominal
+casos_clinicos_cardiologia452	SYMPTOM	1957	1998	sangrado activo de la arteria epigástrica
 casos_clinicos_cardiologia452	SYMPTOM	2020	2042	Regular estado general
 casos_clinicos_cardiologia452	SYMPTOM	2044	2059	palidez cutánea
 casos_clinicos_cardiologia452	SYMPTOM	2061	2069	sudorosa
@@ -5744,6 +5874,7 @@ casos_clinicos_cardiologia452	SYMPTOM	2704	2714	eje normal
 casos_clinicos_cardiologia452	SYMPTOM	3056	3098	Función sistólica biventricular conservada
 casos_clinicos_cardiologia452	SYMPTOM	4895	4903	sangrado
 casos_clinicos_cardiologia455	SYMPTOM	73	87	dolor torácico
+casos_clinicos_cardiologia455	SYMPTOM	90	97	síncope
 casos_clinicos_cardiologia455	SYMPTOM	577	591	dolor torácico
 casos_clinicos_cardiologia455	SYMPTOM	835	851	TCI sin lesiones
 casos_clinicos_cardiologia455	SYMPTOM	878	898	Cx y CD sin lesiones
@@ -5801,6 +5932,7 @@ casos_clinicos_cardiologia455	SYMPTOM	5783	5904	presiones pulmonares, gasto card
 casos_clinicos_cardiologia455	SYMPTOM	5964	5990	PFR (junio 2014): normales
 casos_clinicos_cardiologia455	SYMPTOM	6046	6064	alteración del MEF
 casos_clinicos_cardiologia455	SYMPTOM	6417	6436	taquicardia sinusal
+casos_clinicos_cardiologia455	SYMPTOM	6456	6467	hipotensión
 casos_clinicos_cardiologia455	SYMPTOM	6499	6508	debilidad
 casos_clinicos_cardiologia455	SYMPTOM	6510	6518	malestar
 casos_clinicos_cardiologia455	SYMPTOM	6520	6527	nauseas
@@ -5810,6 +5942,7 @@ casos_clinicos_cardiologia455	SYMPTOM	6559	6574	cianosis distal
 casos_clinicos_cardiologia455	SYMPTOM	6579	6594	astenia intensa
 casos_clinicos_cardiologia455	SYMPTOM	7003	7068	función ventricular, presiones de llenado y gasto cardiaco normal
 casos_clinicos_cardiologia455	SYMPTOM	7070	7085	Stent permeable
+casos_clinicos_cardiologia459	SYMPTOM	721	746	elevación del segmento ST
 casos_clinicos_cardiologia459	SYMPTOM	2201	2218	dolor en los pies
 casos_clinicos_cardiologia459	SYMPTOM	2297	2316	buen estado general
 casos_clinicos_cardiologia459	SYMPTOM	2338	2346	eupneico
@@ -5885,6 +6018,7 @@ casos_clinicos_cardiologia469	SYMPTOM	3059	3071	asintomático
 casos_clinicos_cardiologia469	SYMPTOM	3085	3091	disnea
 casos_clinicos_cardiologia469	SYMPTOM	3097	3109	dolor costal
 casos_clinicos_cardiologia469	SYMPTOM	3293	3326	test cutáneo que resulta positivo
+casos_clinicos_cardiologia469	SYMPTOM	3642	3658	elevación del ST
 casos_clinicos_cardiologia476	SYMPTOM	275	292	tos no productiva
 casos_clinicos_cardiologia476	SYMPTOM	295	315	sensación distérmica
 casos_clinicos_cardiologia476	SYMPTOM	351	376	hemodinámicamente estable
@@ -5929,6 +6063,7 @@ casos_clinicos_cardiologia476	SYMPTOM	3472	3485	FE conservada
 casos_clinicos_cardiologia476	SYMPTOM	3983	4013	función ventricular conservada
 casos_clinicos_cardiologia478	SYMPTOM	314	356	función sistólica biventricular preservada
 casos_clinicos_cardiologia478	SYMPTOM	612	641	dolor centrotorácico opresivo
+casos_clinicos_cardiologia478	SYMPTOM	690	717	cuadro catarral o diarreico
 casos_clinicos_cardiologia478	SYMPTOM	862	872	Consciente
 casos_clinicos_cardiologia478	SYMPTOM	874	883	orientada
 casos_clinicos_cardiologia478	SYMPTOM	885	907	buena perfusión distal
@@ -5955,9 +6090,11 @@ casos_clinicos_cardiologia478	SYMPTOM	2493	2526	Descendente anterior sin lesione
 casos_clinicos_cardiologia478	SYMPTOM	2543	2567	Circunfleja sin lesiones
 casos_clinicos_cardiologia478	SYMPTOM	2601	2619	Dominancia derecha
 casos_clinicos_cardiologia478	SYMPTOM	2621	2651	Coronaria derecha sin lesiones
+casos_clinicos_cardiologia478	SYMPTOM	2785	2822	elevación transitoria del segmento ST
 casos_clinicos_cardiologia478	SYMPTOM	2837	2850	supradesnivel
 casos_clinicos_cardiologia478	SYMPTOM	3059	3130	función sistólica ventricular izquierda global y segmentaria preservada
 casos_clinicos_cardiologia478	SYMPTOM	3421	3446	estable hemodinámicamente
+casos_clinicos_cardiologia478	SYMPTOM	3603	3640	elevación transitoria del segmento ST
 casos_clinicos_cardiologia478	SYMPTOM	3702	3752	Función sistólica ventricular izquierda preservada
 casos_clinicos_cardiologia483	SYMPTOM	174	191	episodio sincopal
 casos_clinicos_cardiologia483	SYMPTOM	252	278	ECG basal sin alteraciones
@@ -6134,6 +6271,7 @@ casos_clinicos_cardiologia497	SYMPTOM	2043	2064	onda P retroconducida
 casos_clinicos_cardiologia497	SYMPTOM	2195	2221	Hemograma sin alteraciones
 casos_clinicos_cardiologia497	SYMPTOM	2238	2268	Función renal e iones normales
 casos_clinicos_cardiologia497	SYMPTOM	2270	2302	Perfil hepático sin alteraciones
+casos_clinicos_cardiologia497	SYMPTOM	2356	2398	VI de dimensión y grosor parietal normales
 casos_clinicos_cardiologia497	SYMPTOM	2445	2479	Función sistólica VI global normal
 casos_clinicos_cardiologia497	SYMPTOM	2531	2556	Patrón diastólico: normal
 casos_clinicos_cardiologia497	SYMPTOM	2558	2600	Aurícula izquierda de dimensiones normales
@@ -6159,6 +6297,8 @@ casos_clinicos_cardiologia497	SYMPTOM	5044	5074	alteraciones francas en el ECG
 casos_clinicos_cardiologia497	SYMPTOM	5077	5121	aumento de los marcadores de daño miocárdico
 casos_clinicos_cardiologia497	SYMPTOM	5128	5160	alteraciones descritas en el ECG
 casos_clinicos_cardiologia497	SYMPTOM	5166	5208	elevación de marcadores de daño miocárdico
+casos_clinicos_cardiologia498	SYMPTOM	467	481	Hipercalciuria
+casos_clinicos_cardiologia498	SYMPTOM	483	493	Osteopenia
 casos_clinicos_cardiologia498	SYMPTOM	940	950	Consciente
 casos_clinicos_cardiologia498	SYMPTOM	953	962	orientada
 casos_clinicos_cardiologia498	SYMPTOM	964	991	Bien hidratada y perfundida
@@ -6326,6 +6466,7 @@ casos_clinicos_cardiologia508	SYMPTOM	1354	1409	Abdomen blando y depresible, no 
 casos_clinicos_cardiologia508	SYMPTOM	1425	1446	irritación peritoneal
 casos_clinicos_cardiologia508	SYMPTOM	1448	1472	Peristaltismo conservado
 casos_clinicos_cardiologia508	SYMPTOM	1474	1489	EEII: no edemas
+casos_clinicos_cardiologia508	SYMPTOM	1552	1576	taquicardia de QRS ancho
 casos_clinicos_cardiologia508	SYMPTOM	1749	1762	ritmo sinusal
 casos_clinicos_cardiologia508	SYMPTOM	1773	1785	QRS estrecho
 casos_clinicos_cardiologia508	SYMPTOM	1791	1824	alteraciones de la repolarización
@@ -6369,6 +6510,7 @@ casos_clinicos_cardiologia510	SYMPTOM	1498	1511	ritmo sinusal
 casos_clinicos_cardiologia510	SYMPTOM	1526	1559	alteraciones de la repolarización
 casos_clinicos_cardiologia510	SYMPTOM	1707	1751	pérdida de diferenciación corticosubcortical
 casos_clinicos_cardiologia510	SYMPTOM	2069	2126	Estructuras de la fosa craneal posterior sin alteraciones
+casos_clinicos_cardiologia510	SYMPTOM	3317	3336	VI de tamaño normal
 casos_clinicos_cardiologia510	SYMPTOM	3371	3386	FEVI conservada
 casos_clinicos_cardiologia510	SYMPTOM	3388	3409	Relajación prolongada
 casos_clinicos_cardiologia510	SYMPTOM	3411	3442	VD de tamaño y función normales
@@ -6377,6 +6519,7 @@ casos_clinicos_cardiologia510	SYMPTOM	3763	3795	Válvula aórtica normofuncionan
 casos_clinicos_cardiologia510	SYMPTOM	3861	3875	masa auricular
 casos_clinicos_cardiologia510	SYMPTOM	3877	3892	VCI no dilatada
 casos_clinicos_cardiologia510	SYMPTOM	4548	4612	masa en aurícula izquierda, dependiente del septo interauricular
+casos_clinicos_cardiologia510	SYMPTOM	5227	5241	masa auricular
 casos_clinicos_cardiologia513	SYMPTOM	904	921	opresión torácica
 casos_clinicos_cardiologia513	SYMPTOM	924	953	disnea de instauración brusca
 casos_clinicos_cardiologia513	SYMPTOM	979	1000	estridor inspiratorio
@@ -6426,6 +6569,7 @@ casos_clinicos_cardiologia513	SYMPTOM	5204	5270	Pruebas alérgicas positivas a f
 casos_clinicos_cardiologia513	SYMPTOM	5315	5330	pico enzimática
 casos_clinicos_cardiologia513	SYMPTOM	5391	5402	hipocinesia
 casos_clinicos_cardiologia513	SYMPTOM	5628	5642	dolor torácico
+casos_clinicos_cardiologia513	SYMPTOM	5984	5995	hipotensión
 casos_clinicos_cardiologia514	SYMPTOM	361	383	dolor torácico intenso
 casos_clinicos_cardiologia514	SYMPTOM	386	404	sensación nauseosa
 casos_clinicos_cardiologia514	SYMPTOM	487	497	obnubilado
@@ -6448,6 +6592,7 @@ casos_clinicos_cardiologia514	SYMPTOM	2011	2023	desaturación
 casos_clinicos_cardiologia514	SYMPTOM	2057	2076	bradicardia extrema
 casos_clinicos_cardiologia514	SYMPTOM	2381	2400	bradicardia extrema
 casos_clinicos_cardiologia514	SYMPTOM	2475	2481	éxitus
+casos_clinicos_cardiologia514	SYMPTOM	2640	2646	éxitus
 casos_clinicos_cardiologia516	SYMPTOM	399	433	"sensación de ""ruidos en el corazón"
 casos_clinicos_cardiologia516	SYMPTOM	465	483	disnea de esfuerzo
 casos_clinicos_cardiologia516	SYMPTOM	517	531	dolor torácico
@@ -6562,6 +6707,7 @@ casos_clinicos_cardiologia52	SYMPTOM	4367	4422	Engrosamiento de la raíz de aort
 casos_clinicos_cardiologia52	SYMPTOM	4485	4544	VI de dimensiones normales con función sistólica conservada
 casos_clinicos_cardiologia52	SYMPTOM	4546	4591	VD de dimensiones normales con función normal
 casos_clinicos_cardiologia52	SYMPTOM	4644	4660	Vena cava normal
+casos_clinicos_cardiologia52	SYMPTOM	5309	5343	Aislamiento de Enterococo faecalis
 casos_clinicos_cardiologia52	SYMPTOM	5759	5766	estable
 casos_clinicos_cardiologia52	SYMPTOM	5782	5795	PR prolongado
 casos_clinicos_cardiologia52	SYMPTOM	5855	5878	pérdida de conocimiento
@@ -6832,6 +6978,7 @@ casos_clinicos_cardiologia530	SYMPTOM	6307	6309	RS
 casos_clinicos_cardiologia530	SYMPTOM	6481	6492	bradicardia
 casos_clinicos_cardiologia530	SYMPTOM	7455	7481	elevación de transaminasas
 casos_clinicos_cardiologia530	SYMPTOM	8003	8017	dolor torácico
+casos_clinicos_cardiologia530	SYMPTOM	8399	8415	elevación del ST
 casos_clinicos_cardiologia530	SYMPTOM	8508	8557	doble bypass AMI-DA (ocluido) y VS-DP (permeable)
 casos_clinicos_cardiologia530	SYMPTOM	8585	8615	función ventricular conservada
 casos_clinicos_cardiologia535	SYMPTOM	308	337	dolores torácicos recurrentes
@@ -6843,6 +6990,7 @@ casos_clinicos_cardiologia535	SYMPTOM	898	921	pérdida de conocimiento
 casos_clinicos_cardiologia535	SYMPTOM	1215	1235	dolor centrotorácico
 casos_clinicos_cardiologia535	SYMPTOM	1348	1356	ortopnea
 casos_clinicos_cardiologia535	SYMPTOM	1373	1400	disnea paroxística nocturna
+casos_clinicos_cardiologia535	SYMPTOM	1418	1438	episodios sincopales
 casos_clinicos_cardiologia535	SYMPTOM	1461	1505	dolor torácico relacionado con los esfuerzos
 casos_clinicos_cardiologia535	SYMPTOM	1549	1556	estable
 casos_clinicos_cardiologia535	SYMPTOM	1562	1581	buen estado general
@@ -6907,6 +7055,7 @@ casos_clinicos_cardiologia536	SYMPTOM	2352	2392	hemograma, iones, función renal
 casos_clinicos_cardiologia536	SYMPTOM	2394	2427	Elevación de marcadores cardiacos
 casos_clinicos_cardiologia536	SYMPTOM	2601	2615	dolor torácico
 casos_clinicos_cardiologia536	SYMPTOM	2788	2816	afectación del nervio facial
+casos_clinicos_cardiologia536	SYMPTOM	3206	3244	anomalías de los troncos supraaórticos
 casos_clinicos_cardiologia536	SYMPTOM	3695	3729	hipoquinesia en cara inferolateral
 casos_clinicos_cardiologia536	SYMPTOM	3880	3988	tronco coronario izquierdo, descendente anterior, circunfleja y coronaria derecha angiográficamente normales
 casos_clinicos_cardiologia536	SYMPTOM	4379	4407	angiografía coronaria normal
@@ -7002,6 +7151,7 @@ casos_clinicos_cardiologia539	SYMPTOM	1887	1896	PR normal
 casos_clinicos_cardiologia539	SYMPTOM	1898	1910	QRS estrecho
 casos_clinicos_cardiologia539	SYMPTOM	1933	1956	onda T negativa lateral
 casos_clinicos_cardiologia539	SYMPTOM	1995	2048	Signos de redistribución vascular a campos superiores
+casos_clinicos_cardiologia539	SYMPTOM	2136	2172	VI con función severamente deprimida
 casos_clinicos_cardiologia539	SYMPTOM	2330	2343	PTDVI elevada
 casos_clinicos_cardiologia539	SYMPTOM	2389	2400	PAPs normal
 casos_clinicos_cardiologia539	SYMPTOM	2464	2487	PVC mínimamente elevada
@@ -7019,6 +7169,8 @@ casos_clinicos_cardiologia54	SYMPTOM	2037	2043	fiebre
 casos_clinicos_cardiologia54	SYMPTOM	2067	2087	sensación distérmica
 casos_clinicos_cardiologia54	SYMPTOM	2131	2181	disnea habitual hasta hacerse de mínimos esfuerzos
 casos_clinicos_cardiologia54	SYMPTOM	2184	2192	ortopnea
+casos_clinicos_cardiologia54	SYMPTOM	2200	2207	síncope
+casos_clinicos_cardiologia54	SYMPTOM	2211	2221	presíncope
 casos_clinicos_cardiologia54	SYMPTOM	2226	2239	palpitaciones
 casos_clinicos_cardiologia54	SYMPTOM	2243	2257	dolor torácico
 casos_clinicos_cardiologia54	SYMPTOM	2349	2359	consciente
@@ -7149,6 +7301,7 @@ casos_clinicos_cardiologia544	SYMPTOM	4790	4795	edema
 casos_clinicos_cardiologia544	SYMPTOM	4798	4812	efecto de masa
 casos_clinicos_cardiologia544	SYMPTOM	4839	4882	baja señal en T1 y alta señal en T2 y FLAIR
 casos_clinicos_cardiologia544	SYMPTOM	5773	5830	Perfil renal, hepático y lipídico dentro de la normalidad
+casos_clinicos_cardiologia544	SYMPTOM	5875	5912	ventrículo izquierdo (VI) no dilatado
 casos_clinicos_cardiologia544	SYMPTOM	5949	6012	movimiento anómalo del septo por cirugía, contractilidad normal
 casos_clinicos_cardiologia544	SYMPTOM	6071	6121	cavidades derechas no dilatadas con función normal
 casos_clinicos_cardiologia544	SYMPTOM	6123	6184	Presión sistólica de la arteria pulmonar (PSAP) en rango alto
@@ -7285,6 +7438,7 @@ casos_clinicos_cardiologia551	SYMPTOM	3079	3099	signos de congestión
 casos_clinicos_cardiologia551	SYMPTOM	3103	3137	pinzamiento de senos costofrénicos
 casos_clinicos_cardiologia551	SYMPTOM	3368	3382	disociación AV
 casos_clinicos_cardiologia551	SYMPTOM	3386	3414	concordancia en precordiales
+casos_clinicos_cardiologia551	SYMPTOM	3457	3489	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia551	SYMPTOM	3529	3564	función global sistólica conservada
 casos_clinicos_cardiologia551	SYMPTOM	3641	3704	Ventrículo derecho de tamaño normal y contractilidad conservada
 casos_clinicos_cardiologia551	SYMPTOM	3777	3823	Patrón de llenado: alteración de la relajación
@@ -7450,6 +7604,8 @@ casos_clinicos_cardiologia557	SYMPTOM	641	691	SPECT de perfusión miocárdica qu
 casos_clinicos_cardiologia557	SYMPTOM	883	897	dolor torácico
 casos_clinicos_cardiologia557	SYMPTOM	951	986	dolor como centrotorácico, opresivo
 casos_clinicos_cardiologia557	SYMPTOM	1033	1051	cortejo vegetativo
+casos_clinicos_cardiologia557	SYMPTOM	1363	1388	elevación del segmento ST
+casos_clinicos_cardiologia557	SYMPTOM	1650	1666	elevación del ST
 casos_clinicos_cardiologia557	SYMPTOM	1970	1984	dolor torácico
 casos_clinicos_cardiologia557	SYMPTOM	2035	2067	función biventricular conservada
 casos_clinicos_cardiologia557	SYMPTOM	2167	2191	función renal conservada
@@ -7463,6 +7619,7 @@ casos_clinicos_cardiologia557	SYMPTOM	3253	3285	Función biventricular conservad
 casos_clinicos_cardiologia557	SYMPTOM	3298	3320	Aurículas no dilatadas
 casos_clinicos_cardiologia557	SYMPTOM	3408	3432	función renal conservada
 casos_clinicos_cardiologia557	SYMPTOM	4214	4242	molestias gastrointestinales
+casos_clinicos_cardiologia557	SYMPTOM	6123	6148	elevación del segmento ST
 casos_clinicos_cardiologia557	SYMPTOM	6244	6276	Función biventricular conservada
 casos_clinicos_cardiologia558	SYMPTOM	969	988	Buen estado general
 casos_clinicos_cardiologia558	SYMPTOM	990	1017	bien hidratado y perfundido
@@ -7479,6 +7636,7 @@ casos_clinicos_cardiologia558	SYMPTOM	1464	1473	PR normal
 casos_clinicos_cardiologia558	SYMPTOM	1475	1515	QRS con imagen de bloque de rama derecha
 casos_clinicos_cardiologia558	SYMPTOM	1517	1543	onda Q en DII, DIII y avF.
 casos_clinicos_cardiologia558	SYMPTOM	1783	1813	aurícula izquierda no dilatada
+casos_clinicos_cardiologia558	SYMPTOM	1815	1847	Ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia558	SYMPTOM	1886	1910	Hipoquinesia inferobasal
 casos_clinicos_cardiologia558	SYMPTOM	1924	1961	contractilidad segmentaria conservada
 casos_clinicos_cardiologia558	SYMPTOM	2040	2082	Válvula aórtica trivalva sin valvulopatías
@@ -7606,6 +7764,7 @@ casos_clinicos_cardiologia564	SYMPTOM	11171	11187	Aquinesia apical
 casos_clinicos_cardiologia564	SYMPTOM	11207	11267	Función sistólica global del ventrículo izquierdo conservada
 casos_clinicos_cardiologia570	SYMPTOM	259	307	lumbalgia por sobrecarga facetaría L4-L5 y L5-S1
 casos_clinicos_cardiologia570	SYMPTOM	337	348	cervicalgia
+casos_clinicos_cardiologia570	SYMPTOM	469	482	claustrofobia
 casos_clinicos_cardiologia570	SYMPTOM	939	1000	dolor torácico opresivo, retroesternal de moderada intensidad
 casos_clinicos_cardiologia570	SYMPTOM	1095	1113	cortejo vegetativo
 casos_clinicos_cardiologia570	SYMPTOM	1429	1469	supradesnivel inframilimétrico en DI-AVL
@@ -7713,6 +7872,8 @@ casos_clinicos_cardiologia573	SYMPTOM	1228	1241	palpitaciones
 casos_clinicos_cardiologia573	SYMPTOM	1263	1282	Buen estado general
 casos_clinicos_cardiologia573	SYMPTOM	1284	1317	Normocoloración de piel y mucosas
 casos_clinicos_cardiologia573	SYMPTOM	1319	1352	Nutrición e hidratación adecuadas
+casos_clinicos_cardiologia573	SYMPTOM	1357	1366	exantemas
+casos_clinicos_cardiologia573	SYMPTOM	1370	1379	petequias
 casos_clinicos_cardiologia573	SYMPTOM	1397	1415	Eupneico en reposo
 casos_clinicos_cardiologia573	SYMPTOM	1556	1595	Auscultación cardiaca: ruidos regulares
 casos_clinicos_cardiologia573	SYMPTOM	1600	1606	soplos
@@ -7802,6 +7963,7 @@ casos_clinicos_cardiologia576	SYMPTOM	1863	1909	rectificación del segmento ST e
 casos_clinicos_cardiologia576	SYMPTOM	2053	2095	elevación de marcadores de daño miocárdico
 casos_clinicos_cardiologia576	SYMPTOM	2179	2235	ondas T negativas en derivación V5-V6 y en II, III y aVF
 casos_clinicos_cardiologia576	SYMPTOM	2289	2352	defectos de la contractilidad segmentaria inferoapical y apical
+casos_clinicos_cardiologia576	SYMPTOM	2598	2623	elevación del segmento ST
 casos_clinicos_cardiologia576	SYMPTOM	2810	2823	ritmo sinusal
 casos_clinicos_cardiologia576	SYMPTOM	2834	2844	eje normal
 casos_clinicos_cardiologia576	SYMPTOM	2846	2861	ST isoeléctrico
@@ -7824,6 +7986,7 @@ casos_clinicos_cardiologia576	SYMPTOM	4902	4961	Arteria circunfleja de buen cali
 casos_clinicos_cardiologia576	SYMPTOM	4989	5065	Coronaria derecha de escaso calibre y desarrollo, no dominante, sin lesiones
 casos_clinicos_cardiologia576	SYMPTOM	6286	6302	viabilidad fetal
 casos_clinicos_cardiologia576	SYMPTOM	7188	7202	dolor cervical
+casos_clinicos_cardiologia576	SYMPTOM	7732	7764	elevación del ST septal y apical
 casos_clinicos_cardiologia577	SYMPTOM	775	794	onda Q anteroseptal
 casos_clinicos_cardiologia577	SYMPTOM	978	995	dolor epigástrico
 casos_clinicos_cardiologia577	SYMPTOM	998	1020	dolor abdominal difuso
@@ -7890,6 +8053,7 @@ casos_clinicos_cardiologia577	SYMPTOM	7350	7372	dolor abdominal difuso
 casos_clinicos_cardiologia577	SYMPTOM	8360	8410	función sistólica ventricular izquierda conservada
 casos_clinicos_cardiologia577	SYMPTOM	9375	9411	Función sistólica VI residual límite
 casos_clinicos_cardiologia577	SYMPTOM	9427	9442	acinesia apical
+casos_clinicos_cardiologia578	SYMPTOM	842	867	elevación del segmento ST
 casos_clinicos_cardiologia578	SYMPTOM	1038	1109	Fracción de eyección del ventrículo izquierdo (FEVI) al alta conservada
 casos_clinicos_cardiologia578	SYMPTOM	1337	1389	Función sistólica de ventrículo izquierdo conservada
 casos_clinicos_cardiologia578	SYMPTOM	1887	1901	dolor torácico
@@ -7935,6 +8099,7 @@ casos_clinicos_cardiologia578	SYMPTOM	5817	5875	imagen hipoecogénica en los tej
 casos_clinicos_cardiologia578	SYMPTOM	6315	6328	ritmo sinusal
 casos_clinicos_cardiologia578	SYMPTOM	6368	6380	QRS estrecho
 casos_clinicos_cardiologia578	SYMPTOM	6391	6431	Ondas T negativas en II, III, aVF y V4-6
+casos_clinicos_cardiologia578	SYMPTOM	6478	6510	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia578	SYMPTOM	6607	6659	función sistólica de ventrículo izquierdo conservada
 casos_clinicos_cardiologia578	SYMPTOM	6713	6762	Ventrículo derecho no dilatado y normofuncionante
 casos_clinicos_cardiologia578	SYMPTOM	6764	6797	Aurículas de dimensiones normales
@@ -7991,6 +8156,7 @@ casos_clinicos_cardiologia58	SYMPTOM	2214	2227	ICT aumentado
 casos_clinicos_cardiologia58	SYMPTOM	2413	2436	pinzamientos de las IFD
 casos_clinicos_cardiologia58	SYMPTOM	2481	2532	pinzamiento del IFP del 5 dedo de la mano izquierda
 casos_clinicos_cardiologia58	SYMPTOM	2612	2641	colapso electrocardiográficos
+casos_clinicos_cardiologia58	SYMPTOM	2643	2658	V I no dilatado
 casos_clinicos_cardiologia58	SYMPTOM	2696	2745	función sistólica global y segmentaria conservada
 casos_clinicos_cardiologia58	SYMPTOM	2747	2768	Llenado mitral normal
 casos_clinicos_cardiologia58	SYMPTOM	2894	2908	VD no dilatado
@@ -8007,6 +8173,7 @@ casos_clinicos_cardiologia581	SYMPTOM	621	626	mareo
 casos_clinicos_cardiologia581	SYMPTOM	638	655	pérdida de visión
 casos_clinicos_cardiologia581	SYMPTOM	714	737	pérdida de conocimiento
 casos_clinicos_cardiologia581	SYMPTOM	789	813	relajación de esfínteres
+casos_clinicos_cardiologia581	SYMPTOM	919	939	episodios sincopales
 casos_clinicos_cardiologia581	SYMPTOM	942	955	palpitaciones
 casos_clinicos_cardiologia581	SYMPTOM	985	1008	Adecuado estado general
 casos_clinicos_cardiologia581	SYMPTOM	1010	1037	Bien hidratado y perfundido
@@ -8023,6 +8190,7 @@ casos_clinicos_cardiologia581	SYMPTOM	1420	1428	megalias
 casos_clinicos_cardiologia581	SYMPTOM	1430	1460	Miembros inferiores: no edemas
 casos_clinicos_cardiologia581	SYMPTOM	1525	1563	Pulsos distales presentes y simétricos
 casos_clinicos_cardiologia581	SYMPTOM	1624	1634	eje normal
+casos_clinicos_cardiologia581	SYMPTOM	1636	1662	PR corto con preexcitación
 casos_clinicos_cardiologia581	SYMPTOM	1672	1740	onda delta positiva en I, cara inferior y de V1-V6, negativa en avL)
 casos_clinicos_cardiologia581	SYMPTOM	1742	1751	QRS ancho
 casos_clinicos_cardiologia581	SYMPTOM	1811	1853	alteraciones marcadas de la repolarización
@@ -8089,6 +8257,7 @@ casos_clinicos_cardiologia582	SYMPTOM	2694	2707	ritmo sinusal
 casos_clinicos_cardiologia582	SYMPTOM	2977	2996	Buen estado general
 casos_clinicos_cardiologia582	SYMPTOM	2998	3008	Consciente
 casos_clinicos_cardiologia582	SYMPTOM	3011	3020	orientada
+casos_clinicos_cardiologia582	SYMPTOM	3035	3055	distrés respiratorio
 casos_clinicos_cardiologia582	SYMPTOM	3057	3093	Auscultación cardiopulmonar: regular
 casos_clinicos_cardiologia582	SYMPTOM	3099	3105	soplos
 casos_clinicos_cardiologia582	SYMPTOM	3116	3145	Murmullo vesicular conservado
@@ -8166,6 +8335,7 @@ casos_clinicos_cardiologia587	SYMPTOM	3937	3984	patrón pulmonar micronodular bi
 casos_clinicos_cardiologia587	SYMPTOM	4045	4100	Hemocultivos, urocultivo y cultivo de esputo: negativos
 casos_clinicos_cardiologia587	SYMPTOM	4102	4119	Mantoux: negativo
 casos_clinicos_cardiologia587	SYMPTOM	4148	4183	Aurícula izquierda de tamaño normal
+casos_clinicos_cardiologia587	SYMPTOM	4225	4262	Ventrículo izquierdo de tamaño normal
 casos_clinicos_cardiologia587	SYMPTOM	4291	4326	función sistólica global conservada
 casos_clinicos_cardiologia587	SYMPTOM	4480	4499	Raíz aórtica normal
 casos_clinicos_cardiologia587	SYMPTOM	4501	4528	Cavidades derechas normales
@@ -8184,6 +8354,7 @@ casos_clinicos_cardiologia587	SYMPTOM	5908	5949	Cultivo y antibiograma de orina:
 casos_clinicos_cardiologia587	SYMPTOM	5951	5996	Baciloscopia en liquido pericárdico: negativo
 casos_clinicos_cardiologia587	SYMPTOM	5998	6053	Cultivo y antibiograma en liquido pericárdico: negativo
 casos_clinicos_cardiologia587	SYMPTOM	6113	6150	PCR del complejo tuberculoso positivo
+casos_clinicos_cardiologia587	SYMPTOM	6152	6216	Mutaciones del Mycobacterium tuberculosis en liquido pericárdico
 casos_clinicos_cardiologia587	SYMPTOM	6233	6294	mutaciones en gen RPO-B asociadas a resistencia a rifampicina
 casos_clinicos_cardiologia587	SYMPTOM	6296	6382	Cultivo de micobacterias en liquido pericárdico: positivo a Mycobacterium tuberculosis
 casos_clinicos_cardiologia587	SYMPTOM	7043	7057	picos febriles
@@ -8273,6 +8444,8 @@ casos_clinicos_cardiologia591	SYMPTOM	4640	4657	pupilas reactivas
 casos_clinicos_cardiologia591	SYMPTOM	4740	4817	alteraciones segmentarias de la contractilidad en territorio de la arteria DA
 casos_clinicos_cardiologia591	SYMPTOM	4870	4904	elevación del segmento ST anterior
 casos_clinicos_cardiologia591	SYMPTOM	5360	5367	amnesia
+casos_clinicos_cardiologia591	SYMPTOM	5472	5492	hipotensión arterial
+casos_clinicos_cardiologia591	SYMPTOM	6367	6392	elevación del segmento ST
 casos_clinicos_cardiologia591	SYMPTOM	6600	6625	FEVI moderadamente afecta
 casos_clinicos_cardiologia593	SYMPTOM	741	748	vómitos
 casos_clinicos_cardiologia593	SYMPTOM	882	905	deposiciones diarreicas
@@ -8372,6 +8545,7 @@ casos_clinicos_cardiologia594	SYMPTOM	602	620	sensación de mareo
 casos_clinicos_cardiologia594	SYMPTOM	651	664	palpitaciones
 casos_clinicos_cardiologia594	SYMPTOM	858	872	dolor torácico
 casos_clinicos_cardiologia594	SYMPTOM	876	882	disnea
+casos_clinicos_cardiologia594	SYMPTOM	905	912	síncope
 casos_clinicos_cardiologia594	SYMPTOM	971	996	hemodinámicamente estable
 casos_clinicos_cardiologia594	SYMPTOM	1126	1147	ingurgitación yugular
 casos_clinicos_cardiologia594	SYMPTOM	1172	1197	ruidos cardiacos rítmicos
@@ -8391,6 +8565,7 @@ casos_clinicos_cardiologia594	SYMPTOM	2024	2044	ausencia de Q en aVR
 casos_clinicos_cardiologia594	SYMPTOM	2200	2213	ritmo sinusal
 casos_clinicos_cardiologia594	SYMPTOM	2224	2236	QRS estrecho
 casos_clinicos_cardiologia594	SYMPTOM	2290	2349	Ondas T negativas en cara inferior y precordiales laterales
+casos_clinicos_cardiologia594	SYMPTOM	2367	2415	ventrículo izquierdo no dilatado ni hipertrófico
 casos_clinicos_cardiologia594	SYMPTOM	2472	2542	acinesia en segmentos basales y medios de cara inferolateral y lateral
 casos_clinicos_cardiologia594	SYMPTOM	2547	2602	ventrículo derecho muestra función sistólica conservada
 casos_clinicos_cardiologia594	SYMPTOM	2739	2769	Vena cava inferior no dilatada
@@ -8475,6 +8650,7 @@ casos_clinicos_cardiologia597	SYMPTOM	4994	5016	Autoinmunidad negativa
 casos_clinicos_cardiologia597	SYMPTOM	5018	5063	elevación inespecífica de complemento C3 y C4
 casos_clinicos_cardiologia597	SYMPTOM	5065	5148	Serología virus hepatotropos, CMV, Treponema pallidum y Coxiella burnetii negativos
 casos_clinicos_cardiologia597	SYMPTOM	5150	5166	IgG VEB positivo
+casos_clinicos_cardiologia597	SYMPTOM	5340	5392	nódulo ligeramente heterogéneo en el lóbulo tiroideo
 casos_clinicos_cardiologia597	SYMPTOM	5740	5781	Engrosamiento pericardio visceral en ápex
 casos_clinicos_cardiologia597	SYMPTOM	6066	6122	asintomático desde el punto de vista cardiorrespiratorio
 casos_clinicos_cardiologia597	SYMPTOM	6131	6165	roce pericárdico a la auscultación
@@ -8502,6 +8678,7 @@ casos_clinicos_cardiologia61	SYMPTOM	1059	1065	edemas
 casos_clinicos_cardiologia61	SYMPTOM	1118	1134	dolor precordial
 casos_clinicos_cardiologia61	SYMPTOM	1179	1195	ritmo es sinusal
 casos_clinicos_cardiologia61	SYMPTOM	1269	1297	alteraciones del segmento ST
+casos_clinicos_cardiologia61	SYMPTOM	1640	1672	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia61	SYMPTOM	1749	1784	función sistólica global conservada
 casos_clinicos_cardiologia61	SYMPTOM	1793	1817	hipocinesia lateroapical
 casos_clinicos_cardiologia61	SYMPTOM	1840	1874	ventrículo izquierdo no compactado
@@ -8670,7 +8847,9 @@ casos_clinicos_cardiologia7	SYMPTOM	5549	5580	VI de tamaño y función normales
 casos_clinicos_cardiologia7	SYMPTOM	5802	5858	creatincinasa y troponina T ultrasensible) con elevación
 casos_clinicos_cardiologia7	SYMPTOM	7619	7634	soplo sistólico
 casos_clinicos_cardiologia7	SYMPTOM	7897	7925	VI de tamaño y grosor normal
+casos_clinicos_cardiologia71	SYMPTOM	140	147	fallece
 casos_clinicos_cardiologia71	SYMPTOM	192	199	fallece
+casos_clinicos_cardiologia71	SYMPTOM	485	492	síncope
 casos_clinicos_cardiologia71	SYMPTOM	756	759	COC
 casos_clinicos_cardiologia71	SYMPTOM	761	768	Afebril
 casos_clinicos_cardiologia71	SYMPTOM	793	796	BEG
@@ -8721,6 +8900,7 @@ casos_clinicos_cardiologia72	SYMPTOM	2317	2332	FEVI conservada
 casos_clinicos_cardiologia72	SYMPTOM	2894	2911	sufrimiento fetal
 casos_clinicos_cardiologia72	SYMPTOM	2953	2965	asintomática
 casos_clinicos_cardiologia72	SYMPTOM	2968	2993	hemodinámicamente estable
+casos_clinicos_cardiologia72	SYMPTOM	3025	3049	taquicardia de QRS ancho
 casos_clinicos_cardiologia72	SYMPTOM	3347	3358	taquicardia
 casos_clinicos_cardiologia72	SYMPTOM	3427	3444	latidos sinusales
 casos_clinicos_cardiologia72	SYMPTOM	3578	3591	ritmo sinusal
@@ -8775,6 +8955,7 @@ casos_clinicos_cardiologia79	SYMPTOM	1489	1531	hemograma, bioquímica y coagulac
 casos_clinicos_cardiologia79	SYMPTOM	1533	1587	Marcadores de necrosis miocárdica ligeramente elevados
 casos_clinicos_cardiologia79	SYMPTOM	1717	1735	Elongación aórtica
 casos_clinicos_cardiologia79	SYMPTOM	1737	1757	Engrosamiento hiliar
+casos_clinicos_cardiologia79	SYMPTOM	1789	1821	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia79	SYMPTOM	1875	1921	alteraciones de la contractilidad segmentarias
 casos_clinicos_cardiologia79	SYMPTOM	2041	2052	FEVI normal
 casos_clinicos_cardiologia79	SYMPTOM	2125	2189	engrosamiento de aorta torácica a nivel ascendente y descendente
@@ -8782,6 +8963,7 @@ casos_clinicos_cardiologia79	SYMPTOM	2963	2983	clínicamente estable
 casos_clinicos_cardiologia79	SYMPTOM	2986	2998	asintomático
 casos_clinicos_cardiologia79	SYMPTOM	3024	3038	dolor torácico
 casos_clinicos_cardiologia79	SYMPTOM	3986	4025	dolor brusco e intenso en región lumbar
+casos_clinicos_cardiologia79	SYMPTOM	4040	4071	parestesias en miembro inferior
 casos_clinicos_cardiologia79	SYMPTOM	4108	4151	ausencia de pulsos femorales bilateralmente
 casos_clinicos_cardiologia79	SYMPTOM	5327	5347	clínicamente estable
 casos_clinicos_cardiologia8	SYMPTOM	377	399	hemocultivos negativos
@@ -8817,6 +8999,7 @@ casos_clinicos_cardiologia8	SYMPTOM	3804	3819	síndrome febril
 casos_clinicos_cardiologia8	SYMPTOM	3822	3883	cultivos positivos para Estreptococcus gordinii multisensible
 casos_clinicos_cardiologia8	SYMPTOM	4195	4245	colección en la porción anterior del anillo mitral
 casos_clinicos_cardiologia8	SYMPTOM	4951	5008	hemocultivos de control y de material protésico negativos
+casos_clinicos_cardiologia80	SYMPTOM	260	269	fallecida
 casos_clinicos_cardiologia80	SYMPTOM	310	319	fallecida
 casos_clinicos_cardiologia80	SYMPTOM	528	577	dolor centrotorácico opresivo irradiado hacia MSI
 casos_clinicos_cardiologia80	SYMPTOM	692	710	sensación de mareo
@@ -8846,6 +9029,7 @@ casos_clinicos_cardiologia80	SYMPTOM	3295	3312	bioquímica normal
 casos_clinicos_cardiologia80	SYMPTOM	3432	3450	Coagulación normal
 casos_clinicos_cardiologia80	SYMPTOM	3474	3484	ICT normal
 casos_clinicos_cardiologia80	SYMPTOM	3489	3500	infiltrados
+casos_clinicos_cardiologia80	SYMPTOM	3548	3580	ventrículo izquierdo no dilatado
 casos_clinicos_cardiologia80	SYMPTOM	3633	3655	FEVI global conservada
 casos_clinicos_cardiologia80	SYMPTOM	3676	3702	adelgazamiento y aquinesia
 casos_clinicos_cardiologia80	SYMPTOM	3800	3822	Aurículas no dilatadas
@@ -8870,6 +9054,7 @@ casos_clinicos_cardiologia80	SYMPTOM	5535	5577	Serología Anti-Trypanosoma cruzi
 casos_clinicos_cardiologia80	SYMPTOM	5697	5710	palpitaciones
 casos_clinicos_cardiologia80	SYMPTOM	5723	5739	malestar general
 casos_clinicos_cardiologia80	SYMPTOM	5742	5747	mareo
+casos_clinicos_cardiologia80	SYMPTOM	5781	5805	taquicardia de QRS ancho
 casos_clinicos_cardiologia80	SYMPTOM	5863	5876	ritmo sinusal
 casos_clinicos_cardiologia80	SYMPTOM	6257	6312	serología para Trypanosoma cruzi con resultado positivo
 casos_clinicos_cardiologia80	SYMPTOM	6581	6603	molestias epigástricas
@@ -8878,6 +9063,7 @@ casos_clinicos_cardiologia85	SYMPTOM	176	219	dolor torácico opresivo irradiado 
 casos_clinicos_cardiologia85	SYMPTOM	232	245	palpitaciones
 casos_clinicos_cardiologia85	SYMPTOM	248	254	disnea
 casos_clinicos_cardiologia85	SYMPTOM	309	327	mal estado general
+casos_clinicos_cardiologia85	SYMPTOM	373	393	hipotensión arterial
 casos_clinicos_cardiologia85	SYMPTOM	1097	1115	Coagulación normal
 casos_clinicos_cardiologia85	SYMPTOM	1546	1559	ritmo sinusal
 casos_clinicos_cardiologia85	SYMPTOM	1601	1638	descenso generalizado del segmento ST
@@ -9127,6 +9313,7 @@ casos_clinicos_cardiologia97	SYMPTOM	4096	4102	miosis
 casos_clinicos_cardiologia97	SYMPTOM	4104	4113	sialorrea
 casos_clinicos_cardiologia97	SYMPTOM	4130	4140	broncorrea
 casos_clinicos_cardiologia97	SYMPTOM	4142	4153	bradicardia
+casos_clinicos_cardiologia97	SYMPTOM	4167	4177	mioclonías
 casos_clinicos_cardiologia97	SYMPTOM	4203	4215	leucocitosis
 casos_clinicos_cardiologia97	SYMPTOM	4914	4927	ritmo sinusal
 casos_clinicos_cardiologia97	SYMPTOM	4956	4973	R alta en V2 y V3
@@ -9135,6 +9322,7 @@ casos_clinicos_cardiologia97	SYMPTOM	5133	5175	deterioro neurológico tornándos
 casos_clinicos_cardiologia97	SYMPTOM	5181	5220	hiperreactividad de reflejos tendinosos
 casos_clinicos_cardiologia97	SYMPTOM	5247	5271	frialdad de extremidades
 casos_clinicos_cardiologia97	SYMPTOM	5458	5465	fallece
+casos_clinicos_cardiologia97	SYMPTOM	5696	5729	elevación del ST inferior y de VD
 casos_clinicos_cardiologia97	SYMPTOM	6019	6025	Exitus
 casos_clinicos_cardiologia99	SYMPTOM	343	355	asintomático
 casos_clinicos_cardiologia99	SYMPTOM	365	378	dolor intenso
@@ -9163,6 +9351,7 @@ casos_clinicos_cardiologia99	SYMPTOM	2581	2608	Cavidades derechas normales
 casos_clinicos_cardiologia99	SYMPTOM	2797	2811	masa vegetante
 casos_clinicos_cardiologia99	SYMPTOM	3393	3425	alteraciones en la señal tisular
 casos_clinicos_cardiologia99	SYMPTOM	3592	3604	asintomático
+casos_clinicos_cardiologia99	SYMPTOM	3966	3970	masa
 casos_clinicos_cardiologia99	SYMPTOM	4422	4426	masa
 casos_clinicos_cardiologia99	SYMPTOM	5287	5313	masa en aurícula izquierda
 casos_clinicos_cardiologia99	SYMPTOM	5603	5610	fallece

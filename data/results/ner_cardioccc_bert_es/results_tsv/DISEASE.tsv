@@ -53,6 +53,8 @@ casos_clinicos_cardiologia101	DISEASE	2599	2628	lesiones ocupantes de espacio
 casos_clinicos_cardiologia101	DISEASE	2682	2723	lesiones isquémicas o hemorrágicas agudas
 casos_clinicos_cardiologia101	DISEASE	2841	2861	Hepatoesplenomegalia
 casos_clinicos_cardiologia101	DISEASE	2863	2876	mioma uterino
+casos_clinicos_cardiologia101	DISEASE	3227	3240	herpes simple
+casos_clinicos_cardiologia101	DISEASE	3243	3258	varicela zoster
 casos_clinicos_cardiologia101	DISEASE	4044	4068	vegetación endocardítica
 casos_clinicos_cardiologia101	DISEASE	4070	4097	Insuficiencia mitral severa
 casos_clinicos_cardiologia101	DISEASE	4354	4356	IT
@@ -100,6 +102,7 @@ casos_clinicos_cardiologia104	DISEASE	2197	2224	insuficiencia mitral severa
 casos_clinicos_cardiologia104	DISEASE	2360	2387	insuficiencia mitral severa
 casos_clinicos_cardiologia104	DISEASE	2637	2701	válvula mitral con grave afectación endocárdica en el velo mural
 casos_clinicos_cardiologia104	DISEASE	2773	2856	aurícula derecha formando un absceso en la pared y en el surco aurículo ventricular
+casos_clinicos_cardiologia104	DISEASE	2871	2878	verruga
 casos_clinicos_cardiologia104	DISEASE	3055	3072	Shock refractario
 casos_clinicos_cardiologia104	DISEASE	3124	3190	"Endocarditis aguda mitral por Staphylococcus aureus
 • Schock mixto"
@@ -146,6 +149,7 @@ casos_clinicos_cardiologia109	DISEASE	3409	3441	Trasposición de grandes arteria
 casos_clinicos_cardiologia109	DISEASE	3470	3513	Insuficiencia válvula AV sistémica moderada
 casos_clinicos_cardiologia109	DISEASE	3516	3537	Hipertensión pulmonar
 casos_clinicos_cardiologia109	DISEASE	3540	3554	Asma bronquial
+casos_clinicos_cardiologia11	DISEASE	243	276	lesiones indura-das, eritematosas
 casos_clinicos_cardiologia11	DISEASE	390	458	caries en segundo molar superiory presencia de placa dental inferior
 casos_clinicos_cardiologia11	DISEASE	890	909	mostrócardiomegalia
 casos_clinicos_cardiologia11	DISEASE	938	964	evidencióaorta calcificada
@@ -156,6 +160,8 @@ casos_clinicos_cardiologia110	DISEASE	767	791	tromboembolismo pulmonar
 casos_clinicos_cardiologia110	DISEASE	844	865	déficit de proteína C
 casos_clinicos_cardiologia110	DISEASE	868	892	síndrome antifosfolípido
 casos_clinicos_cardiologia110	DISEASE	920	945	trombosis venosa profunda
+casos_clinicos_cardiologia110	DISEASE	961	972	trombofilia
+casos_clinicos_cardiologia110	DISEASE	1757	1776	necrosis miocárdica
 casos_clinicos_cardiologia110	DISEASE	1862	1892	patología pleuropulmonar aguda
 casos_clinicos_cardiologia110	DISEASE	2282	2295	valvulopatías
 casos_clinicos_cardiologia110	DISEASE	2324	2354	hipertensión arterial pulmonar
@@ -207,6 +213,7 @@ casos_clinicos_cardiologia114	DISEASE	2458	2477	CIA ostium secundum
 casos_clinicos_cardiologia114	DISEASE	2555	2583	defectos musculoesqueléticos
 casos_clinicos_cardiologia114	DISEASE	2608	2621	muerte súbita
 casos_clinicos_cardiologia114	DISEASE	2714	2735	síndrome de Holt Oram
+casos_clinicos_cardiologia114	DISEASE	2820	2839	defecto interatrial
 casos_clinicos_cardiologia114	DISEASE	2992	3013	Síndrome de Holt Oram
 casos_clinicos_cardiologia114	DISEASE	3015	3056	Alteraciones musculoesquéleticas diversas
 casos_clinicos_cardiologia114	DISEASE	3058	3106	comunicación interauricular tipo Ostium Secundum
@@ -220,12 +227,14 @@ casos_clinicos_cardiologia116	DISEASE	661	664	TVP
 casos_clinicos_cardiologia116	DISEASE	888	927	ictus de arteria cerebral media derecha
 casos_clinicos_cardiologia116	DISEASE	985	1032	Lesión subepicárdica de 4-5 mm en cara inferior
 casos_clinicos_cardiologia116	DISEASE	1397	1437	Coronaria derecha ocluida a nivel medial
+casos_clinicos_cardiologia116	DISEASE	1560	1573	trombos rojos
 casos_clinicos_cardiologia116	DISEASE	1676	1695	embolismo coronario
 casos_clinicos_cardiologia116	DISEASE	1713	1745	oclusión de la coronaria derecha
 casos_clinicos_cardiologia116	DISEASE	2040	2049	embolismo
 casos_clinicos_cardiologia116	DISEASE	2077	2126	infarto agudo de miocardio (IAM) infero-posterior
 casos_clinicos_cardiologia116	DISEASE	2144	2149	ictus
 casos_clinicos_cardiologia116	DISEASE	2184	2187	TVP
+casos_clinicos_cardiologia116	DISEASE	2299	2322	shunt derecha izquierda
 casos_clinicos_cardiologia116	DISEASE	2413	2425	foramen oval
 casos_clinicos_cardiologia116	DISEASE	2487	2505	proceso neoplásico
 casos_clinicos_cardiologia116	DISEASE	2594	2636	embolismos hepáticos, esplénicos y renales
@@ -368,11 +377,13 @@ casos_clinicos_cardiologia123	DISEASE	1620	1642	insuficiencia cardiaca
 casos_clinicos_cardiologia123	DISEASE	2155	2174	déficit neurológico
 casos_clinicos_cardiologia123	DISEASE	2414	2468	fibrilación auricular con respuesta ventricular rápida
 casos_clinicos_cardiologia123	DISEASE	2822	2841	derrame pericárdico
+casos_clinicos_cardiologia123	DISEASE	3617	3632	daño miocárdico
 casos_clinicos_cardiologia123	DISEASE	3934	3953	Derrame pericárdico
 casos_clinicos_cardiologia123	DISEASE	4259	4281	Cava inferior dilatada
 casos_clinicos_cardiologia123	DISEASE	4669	4690	ADA: Vaso ateromatoso
 casos_clinicos_cardiologia123	DISEASE	4692	4714	Obstrucción trombótica
 casos_clinicos_cardiologia123	DISEASE	4790	4820	Vaso ateromatoso y calcificado
+casos_clinicos_cardiologia123	DISEASE	5261	5294	lesión culpable de la DA proximal
 casos_clinicos_cardiologia123	DISEASE	5585	5605	síndrome de Dressler
 casos_clinicos_cardiologia123	DISEASE	6424	6443	derrame pericárdico
 casos_clinicos_cardiologia123	DISEASE	7086	7118	IAMCEST de localización anterior
@@ -482,6 +493,7 @@ casos_clinicos_cardiologia131	DISEASE	302	305	HTA
 casos_clinicos_cardiologia131	DISEASE	307	317	dislipemia
 casos_clinicos_cardiologia131	DISEASE	320	340	hipertrigliceridemia
 casos_clinicos_cardiologia131	DISEASE	342	352	Exfumadora
+casos_clinicos_cardiologia131	DISEASE	384	398	Hipotiroidismo
 casos_clinicos_cardiologia131	DISEASE	427	445	Síndrome depresivo
 casos_clinicos_cardiologia131	DISEASE	543	554	cardiopatía
 casos_clinicos_cardiologia131	DISEASE	615	636	cardiopatía isquémica
@@ -514,6 +526,7 @@ casos_clinicos_cardiologia131	DISEASE	6609	6632	cardiopatía estructural
 casos_clinicos_cardiologia131	DISEASE	6735	6790	estenosis significativa en arteria descendente anterior
 casos_clinicos_cardiologia131	DISEASE	7047	7072	extrasistolia ventricular
 casos_clinicos_cardiologia131	DISEASE	7135	7145	dislipemia
+casos_clinicos_cardiologia131	DISEASE	7248	7262	hipotiroidismo
 casos_clinicos_cardiologia131	DISEASE	7499	7515	Angina inestable
 casos_clinicos_cardiologia131	DISEASE	7518	7554	Taquicardia ventricular no sostenida
 casos_clinicos_cardiologia131	DISEASE	7557	7615	Lesión significativa en arteria descendente anterior media
@@ -534,6 +547,8 @@ casos_clinicos_cardiologia137	DISEASE	1676	1696	insuficiencia mitral
 casos_clinicos_cardiologia137	DISEASE	1715	1742	obstrucción mitral moderada
 casos_clinicos_cardiologia137	DISEASE	1744	1746	IT
 casos_clinicos_cardiologia137	DISEASE	2369	2418	mixoma que se prolapsa a través del anillo mitral
+casos_clinicos_cardiologia137	DISEASE	2544	2587	mixoma en septo-techo de aurícula izquierda
+casos_clinicos_cardiologia137	DISEASE	2623	2629	mixoma
 casos_clinicos_cardiologia137	DISEASE	2721	2738	flutter auricular
 casos_clinicos_cardiologia137	DISEASE	2888	2905	flutter auricular
 casos_clinicos_cardiologia137	DISEASE	3000	3021	Hipertensión arterial
@@ -551,6 +566,7 @@ casos_clinicos_cardiologia14	DISEASE	2253	2308	lesión indurada pustulosa en car
 casos_clinicos_cardiologia14	DISEASE	2544	2557	déficit motor
 casos_clinicos_cardiologia14	DISEASE	2846	2860	Lesión de piel
 casos_clinicos_cardiologia14	DISEASE	3123	3174	endocarditis infecciosa con embolización encefálica
+casos_clinicos_cardiologia14	DISEASE	3229	3273	válvula mitral engrosamiento de ambas valvas
 casos_clinicos_cardiologia14	DISEASE	3332	3342	vegetación
 casos_clinicos_cardiologia14	DISEASE	3344	3380	Insuficiencia mitral leve a moderada
 casos_clinicos_cardiologia14	DISEASE	3491	3508	embolias sépticas
@@ -576,6 +592,7 @@ casos_clinicos_cardiologia145	DISEASE	293	296	HTA
 casos_clinicos_cardiologia145	DISEASE	384	404	trombosis del bypass
 casos_clinicos_cardiologia145	DISEASE	470	479	trombosis
 casos_clinicos_cardiologia145	DISEASE	481	499	Anemia ferropénica
+casos_clinicos_cardiologia145	DISEASE	524	541	pólipos colónicos
 casos_clinicos_cardiologia145	DISEASE	695	701	BCRDHH
 casos_clinicos_cardiologia145	DISEASE	1087	1118	lesiones cutáneas exantemáticas
 casos_clinicos_cardiologia145	DISEASE	1120	1140	hipotensión arterial
@@ -643,6 +660,7 @@ casos_clinicos_cardiologia150	DISEASE	933	941	Obesidad
 casos_clinicos_cardiologia150	DISEASE	1366	1391	trombosis venosa profunda
 casos_clinicos_cardiologia150	DISEASE	1444	1457	cardiomegalia
 casos_clinicos_cardiologia150	DISEASE	2336	2405	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+casos_clinicos_cardiologia150	DISEASE	2438	2465	ventrículo derecho dilatado
 casos_clinicos_cardiologia150	DISEASE	2552	2581	disfunción sistólica moderada
 casos_clinicos_cardiologia150	DISEASE	2583	2622	vena cava inferior ligeramente dilatada
 casos_clinicos_cardiologia150	DISEASE	2675	2694	derrame pericárdico
@@ -655,6 +673,7 @@ casos_clinicos_cardiologia150	DISEASE	3837	3840	TVP
 casos_clinicos_cardiologia150	DISEASE	3923	3947	tromboembolismo pulmonar
 casos_clinicos_cardiologia150	DISEASE	3949	3952	TEP
 casos_clinicos_cardiologia150	DISEASE	4132	4176	hipertensión pulmonar tromboembólica crónica
+casos_clinicos_cardiologia150	DISEASE	4235	4246	trombofilia
 casos_clinicos_cardiologia150	DISEASE	4263	4325	Tromboembolismo pulmonar de arteria pulmonar principal derecha
 casos_clinicos_cardiologia150	DISEASE	4347	4383	tromboembolismo pulmonar recidivante
 casos_clinicos_cardiologia150	DISEASE	4387	4426	Hipertensión pulmonar severa secundaria
@@ -673,6 +692,7 @@ casos_clinicos_cardiologia151	DISEASE	4943	4951	isquemia
 casos_clinicos_cardiologia151	DISEASE	5614	5743	isquemia miocárdica secundaria a comunicación intercoronaria unidireccional entre ADA distal e IVP con fenómeno de robo coronario
 casos_clinicos_cardiologia151	DISEASE	5824	5953	Isquemia miocárdica secundaria a comunicación intercoronaria unidireccional entre ADA distal e IVP con fenómeno de robo coronario
 casos_clinicos_cardiologia152	DISEASE	59	62	HTA
+casos_clinicos_cardiologia152	DISEASE	87	107	valvulopatía aórtica
 casos_clinicos_cardiologia152	DISEASE	131	150	Bloqueo AV completo
 casos_clinicos_cardiologia152	DISEASE	1910	1971	vegetación de alrededor de 20 mm en cable de aurícula derecha
 casos_clinicos_cardiologia152	DISEASE	2043	2063	disfunción protésica
@@ -714,6 +734,7 @@ casos_clinicos_cardiologia153	DISEASE	3496	3499	TEP
 casos_clinicos_cardiologia153	DISEASE	3662	3682	sangrados cerebrales
 casos_clinicos_cardiologia153	DISEASE	3737	3746	IT severa
 casos_clinicos_cardiologia153	DISEASE	3816	3843	embolia múltiple (ACV y TEP
+casos_clinicos_cardiologia153	DISEASE	3912	3915	CIA
 casos_clinicos_cardiologia153	DISEASE	4023	4084	Ictus frontoparietal izquierdo con transformación hemorrágica
 casos_clinicos_cardiologia153	DISEASE	4087	4105	TEP cardioembólico
 casos_clinicos_cardiologia153	DISEASE	4108	4127	Anomalía de Ebstein
@@ -792,6 +813,7 @@ casos_clinicos_cardiologia160	DISEASE	539	570	Púrpura trombopénica idiopática
 casos_clinicos_cardiologia160	DISEASE	576	584	alergias
 casos_clinicos_cardiologia160	DISEASE	1321	1340	taquicardia sinusal
 casos_clinicos_cardiologia160	DISEASE	1588	1606	anemia macrocítica
+casos_clinicos_cardiologia160	DISEASE	1672	1687	daño miocárdico
 casos_clinicos_cardiologia160	DISEASE	1728	1753	Insuficiencia renal aguda
 casos_clinicos_cardiologia160	DISEASE	1981	2000	derrame pericárdico
 casos_clinicos_cardiologia160	DISEASE	2003	2018	patología aguda
@@ -864,6 +886,7 @@ casos_clinicos_cardiologia163	DISEASE	4065	4067	EI
 casos_clinicos_cardiologia163	DISEASE	4084	4109	Insuficiencia tricuspídea
 casos_clinicos_cardiologia163	DISEASE	4111	4113	IT
 casos_clinicos_cardiologia163	DISEASE	4262	4281	derrame pericárdico
+casos_clinicos_cardiologia163	DISEASE	4369	4371	VM
 casos_clinicos_cardiologia163	DISEASE	4788	4796	IM grave
 casos_clinicos_cardiologia163	DISEASE	4855	4862	absceso
 casos_clinicos_cardiologia163	DISEASE	4953	5026	lesiones focales: una subcortical junto a la cisura de Rolando hiperdensa
@@ -922,12 +945,19 @@ casos_clinicos_cardiologia164	DISEASE	3867	3888	hipertensión pulmonar
 casos_clinicos_cardiologia164	DISEASE	3893	3912	derrame pericárdico
 casos_clinicos_cardiologia164	DISEASE	3972	4125	Cardiopatía isquémica con estenosis grave de obtusa marginal ostioproximal de gran calibre (arteria responsable infarto) por placa gravemente calcificada
 casos_clinicos_cardiologia164	DISEASE	4128	4167	estenosis grave de descendente anterior
+casos_clinicos_cardiologia164	DISEASE	4228	4252	estenosis grave de CX-MO
+casos_clinicos_cardiologia164	DISEASE	4594	4641	placa calcificada larga en descendente anterior
+casos_clinicos_cardiologia164	DISEASE	5343	5351	alergias
 casos_clinicos_cardiologia164	DISEASE	5518	5521	IAM
+casos_clinicos_cardiologia164	DISEASE	5866	5885	necrosis miocárdica
 casos_clinicos_cardiologia164	DISEASE	6262	6284	reacción anafilactoide
 casos_clinicos_cardiologia164	DISEASE	6328	6377	estenosis grave en un ramo marginal ostioproximal
 casos_clinicos_cardiologia164	DISEASE	6420	6438	lesión grave en DA
 casos_clinicos_cardiologia164	DISEASE	6472	6487	lesión de Cx-MO
 casos_clinicos_cardiologia164	DISEASE	6851	6877	síndrome de Kounis tipo II
+casos_clinicos_cardiologia164	DISEASE	7061	7080	necrosis miocárdica
+casos_clinicos_cardiologia164	DISEASE	7243	7261	lesión grave de DA
+casos_clinicos_cardiologia164	DISEASE	7794	7810	veneno de avispa
 casos_clinicos_cardiologia164	DISEASE	7867	7888	Infarto alérgico no Q
 casos_clinicos_cardiologia164	DISEASE	7913	7931	shock anafiláctico
 casos_clinicos_cardiologia164	DISEASE	7933	7959	síndrome de Kounis tipo II
@@ -952,6 +982,7 @@ casos_clinicos_cardiologia166	DISEASE	3512	3562	disección espiroidea con trombo
 casos_clinicos_cardiologia166	DISEASE	4334	4415	Árbol coronario derecho: lesión ligera en tercio proximal de la coronaria derecha
 casos_clinicos_cardiologia166	DISEASE	4515	4578	Arteria descendente anterior (DA) con oclusión trombótica aguda
 casos_clinicos_cardiologia166	DISEASE	5126	5157	disfunción sistólica leve de VI
+casos_clinicos_cardiologia166	DISEASE	5349	5364	daño miocárdico
 casos_clinicos_cardiologia166	DISEASE	5404	5425	miopericarditis aguda
 casos_clinicos_cardiologia166	DISEASE	5565	5593	hipercolesterolemia familiar
 casos_clinicos_cardiologia166	DISEASE	5620	5637	tabaquismo activo
@@ -998,6 +1029,7 @@ casos_clinicos_cardiologia167	DISEASE	2707	2719	flap aórtico
 casos_clinicos_cardiologia167	DISEASE	2898	2907	arritmias
 casos_clinicos_cardiologia167	DISEASE	3465	3490	trombosis venosa profunda
 casos_clinicos_cardiologia167	DISEASE	3492	3495	TVP
+casos_clinicos_cardiologia167	DISEASE	3748	3763	daño miocardico
 casos_clinicos_cardiologia167	DISEASE	5649	5670	hipertensión pulmonar
 casos_clinicos_cardiologia167	DISEASE	5686	5705	derrame pericárdico
 casos_clinicos_cardiologia167	DISEASE	6169	6191	síndrome aórtico agudo
@@ -1040,6 +1072,7 @@ casos_clinicos_cardiologia174	DISEASE	181	196	úlcera duodenal
 casos_clinicos_cardiologia174	DISEASE	764	767	ICC
 casos_clinicos_cardiologia174	DISEASE	770	780	infecciosa
 casos_clinicos_cardiologia174	DISEASE	1630	1633	HVI
+casos_clinicos_cardiologia174	DISEASE	2130	2145	daño miocárdico
 casos_clinicos_cardiologia174	DISEASE	2226	2274	ventrículo izquierdo con hipertrofia concéntrica
 casos_clinicos_cardiologia174	DISEASE	2409	2430	Insuficiencia aórtica
 casos_clinicos_cardiologia174	DISEASE	2456	2469	valvulopatías
@@ -1172,6 +1205,7 @@ casos_clinicos_cardiologia181	DISEASE	5097	5106	arritmias
 casos_clinicos_cardiologia181	DISEASE	5415	5424	asistolia
 casos_clinicos_cardiologia181	DISEASE	5438	5471	taquicardia ventricular polimorfa
 casos_clinicos_cardiologia181	DISEASE	5490	5514	extrasístole ventricular
+casos_clinicos_cardiologia181	DISEASE	5848	5861	muerte súbita
 casos_clinicos_cardiologia181	DISEASE	5982	6038	síncopes de repetición sugestivos de origen cardiogénico
 casos_clinicos_cardiologia181	DISEASE	6280	6298	eventos arrítmicos
 casos_clinicos_cardiologia181	DISEASE	6418	6450	bloqueo completo de rama derecha
@@ -1306,6 +1340,8 @@ casos_clinicos_cardiologia192	DISEASE	2479	2491	endocarditis
 casos_clinicos_cardiologia192	DISEASE	2496	2590	vegetaciones sobre el velo anterior mitral, velo septal de la tricúspide y unión mitro-aórtica
 casos_clinicos_cardiologia192	DISEASE	2595	2620	insuficiencias valvulares
 casos_clinicos_cardiologia192	DISEASE	2691	2814	aneurisma de probable origen micótico en la cara anterior de la aorta ascendente así como aorta torácica y arteria pulmonar
+casos_clinicos_cardiologia192	DISEASE	3251	3259	hematoma
+casos_clinicos_cardiologia192	DISEASE	3315	3323	hematoma
 casos_clinicos_cardiologia192	DISEASE	3398	3427	rotura del aneurisma micótico
 casos_clinicos_cardiologia192	DISEASE	3562	3579	placas de ateroma
 casos_clinicos_cardiologia192	DISEASE	3592	3610	aneurisma micótico
@@ -1313,7 +1349,9 @@ casos_clinicos_cardiologia192	DISEASE	3775	3813	vegetación anclada al septo mem
 casos_clinicos_cardiologia192	DISEASE	4043	4061	aneurisma micótico
 casos_clinicos_cardiologia192	DISEASE	4196	4256	vegetación en la comisura entre el velo anterior y el septal
 casos_clinicos_cardiologia192	DISEASE	4285	4337	vegetación resecada en la cara ventricular izquierda
+casos_clinicos_cardiologia192	DISEASE	4352	4362	vegetación
 casos_clinicos_cardiologia192	DISEASE	4507	4547	vegetación sobre el velo anterior mitral
+casos_clinicos_cardiologia192	DISEASE	4823	4835	vegetaciones
 casos_clinicos_cardiologia192	DISEASE	5412	5425	shock séptico
 casos_clinicos_cardiologia192	DISEASE	5428	5449	fracaso multiorgánico
 casos_clinicos_cardiologia192	DISEASE	5528	5567	candidiasis invasiva en hígado y pulmón
@@ -1372,6 +1410,7 @@ casos_clinicos_cardiologia2	DISEASE	2884	2921	lesiones pleuroparenquimatosas agu
 casos_clinicos_cardiologia2	DISEASE	2954	2985	enfermedad coronaria de un vaso
 casos_clinicos_cardiologia2	DISEASE	2987	3044	Oclusión trombótica en arteria coronaria derecha proximal
 casos_clinicos_cardiologia2	DISEASE	3046	3141	Lesiones moderadas en descendente anterior proximal, descendente anterior media y rama marginal
+casos_clinicos_cardiologia2	DISEASE	3221	3227	trombo
 casos_clinicos_cardiologia2	DISEASE	3357	3426	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
 casos_clinicos_cardiologia2	DISEASE	3639	3708	Válvula mitral normal en estructura y función, con insuficiencia leve
 casos_clinicos_cardiologia2	DISEASE	3816	3835	derrame pericárdico
@@ -1387,6 +1426,7 @@ casos_clinicos_cardiologia2	DISEASE	5372	5393	Hipertensión arterial
 casos_clinicos_cardiologia2	DISEASE	5395	5433	Hipertrofia del VI moderada secundaria
 casos_clinicos_cardiologia2	DISEASE	5435	5445	Dislipemia
 casos_clinicos_cardiologia2	DISEASE	5447	5464	Diabetes mellitus
+casos_clinicos_cardiologia2	DISEASE	5494	5511	Infección por VIH
 casos_clinicos_cardiologia20	DISEASE	1155	1180	derrame pleural bilateral
 casos_clinicos_cardiologia20	DISEASE	1207	1286	insuficiencia aórtica de grado severo con engrosamiento de los velos valvulares
 casos_clinicos_cardiologia20	DISEASE	1310	1349	endocarditis bacteriana por E. faecalis
@@ -1404,6 +1444,7 @@ casos_clinicos_cardiologia203	DISEASE	1439	1441	FA
 casos_clinicos_cardiologia203	DISEASE	2508	2551	trombosis venosa en extremidades inferiores
 casos_clinicos_cardiologia203	DISEASE	2635	2658	fibrilación ventricular
 casos_clinicos_cardiologia203	DISEASE	2696	2717	fibrilación auricular
+casos_clinicos_cardiologia203	DISEASE	3291	3306	daño miocárdico
 casos_clinicos_cardiologia203	DISEASE	3613	3626	valvulopatías
 casos_clinicos_cardiologia203	DISEASE	3680	3699	derrame pericárdico
 casos_clinicos_cardiologia203	DISEASE	4337	4394	Válvula mitral de aspecto normal con mínima insuficiencia
@@ -1414,6 +1455,7 @@ casos_clinicos_cardiologia203	DISEASE	5027	5051	cardiopatía hipertensiva
 casos_clinicos_cardiologia203	DISEASE	5141	5161	síndrome de QT largo
 casos_clinicos_cardiologia203	DISEASE	5350	5368	eventos arrítmicos
 casos_clinicos_cardiologia203	DISEASE	5389	5442	taquicardia ventricular polimórfica catecolaminérgica
+casos_clinicos_cardiologia203	DISEASE	5473	5492	síndrome de Brugada
 casos_clinicos_cardiologia203	DISEASE	5797	5832	extrasistolia ventricular monomorfa
 casos_clinicos_cardiologia203	DISEASE	5851	5897	bloqueo de rama derecha (BRDHH) y eje superior
 casos_clinicos_cardiologia203	DISEASE	6381	6399	eventos arrítmicos
@@ -1441,6 +1483,8 @@ casos_clinicos_cardiologia203	DISEASE	8172	8206	fibrilación ventricular idiopá
 casos_clinicos_cardiologia203	DISEASE	8392	8395	PCR
 casos_clinicos_cardiologia203	DISEASE	8450	8484	Fibrilación ventricular idiopática
 casos_clinicos_cardiologia203	DISEASE	8529	8552	cardiopatía estructural
+casos_clinicos_cardiologia203	DISEASE	8622	8633	canalopatía
+casos_clinicos_cardiologia203	DISEASE	8636	8647	vasoespasmo
 casos_clinicos_cardiologia204	DISEASE	78	86	Alergias
 casos_clinicos_cardiologia204	DISEASE	95	120	intolerancia a penicilina
 casos_clinicos_cardiologia204	DISEASE	122	163	síncope en la juventud tras penicilina IM
@@ -1464,6 +1508,7 @@ casos_clinicos_cardiologia204	DISEASE	731	746	recaída tumoral
 casos_clinicos_cardiologia204	DISEASE	1481	1509	derrame pericárdico moderado
 casos_clinicos_cardiologia204	DISEASE	1577	1588	miocarditis
 casos_clinicos_cardiologia204	DISEASE	2103	2111	flebitis
+casos_clinicos_cardiologia204	DISEASE	4027	4042	daño miocárdico
 casos_clinicos_cardiologia204	DISEASE	5541	5581	Prolapso ligero de valva anterior mitral
 casos_clinicos_cardiologia204	DISEASE	5634	5662	Derrame pericárdico moderado
 casos_clinicos_cardiologia204	DISEASE	6012	6025	valvulopatías
@@ -1603,6 +1648,7 @@ casos_clinicos_cardiologia209	DISEASE	2520	2542	pérdida de consciencia
 casos_clinicos_cardiologia209	DISEASE	2553	2576	fibrilación ventricular
 casos_clinicos_cardiologia209	DISEASE	2713	2758	bloqueos en la conducción auriculoventricular
 casos_clinicos_cardiologia209	DISEASE	2853	2876	bloqueo de rama derecha
+casos_clinicos_cardiologia209	DISEASE	3342	3354	valvulopatía
 casos_clinicos_cardiologia209	DISEASE	3420	3433	valvulopatías
 casos_clinicos_cardiologia209	DISEASE	3460	3479	derrame pericárdico
 casos_clinicos_cardiologia209	DISEASE	4399	4418	derrame pericárdico
@@ -1633,6 +1679,7 @@ casos_clinicos_cardiologia21	DISEASE	2132	2159	vegetaciones intracardiacas
 casos_clinicos_cardiologia21	DISEASE	2328	2340	vegetaciones
 casos_clinicos_cardiologia21	DISEASE	2590	2609	artritis reumatoide
 casos_clinicos_cardiologia21	DISEASE	3120	3128	conidios
+casos_clinicos_cardiologia21	DISEASE	4308	4320	vegetaciones
 casos_clinicos_cardiologia21	DISEASE	4649	4669	EI por H. capsulatum
 casos_clinicos_cardiologia21	DISEASE	4841	4850	infección
 casos_clinicos_cardiologia210	DISEASE	78	97	Distrofia miotónica
@@ -1658,6 +1705,7 @@ casos_clinicos_cardiologia210	DISEASE	4693	4714	hipertensión pulmonar
 casos_clinicos_cardiologia210	DISEASE	5151	5225	drenaje anómalo de la vena cava inferior (VCI) hacia la aurícula izquierda
 casos_clinicos_cardiologia210	DISEASE	5357	5389	comunicación interauricular (CIA
 casos_clinicos_cardiologia210	DISEASE	5783	5842	Drenaje anómalo de vena cava inferior en aurícula izquierda
+casos_clinicos_cardiologia210	DISEASE	5873	5900	comunicación interauricular
 casos_clinicos_cardiologia211	DISEASE	159	175	hábito tabáquico
 casos_clinicos_cardiologia211	DISEASE	410	445	extrasistolia ventricular monomorfa
 casos_clinicos_cardiologia211	DISEASE	501	541	taquicardias ventriculares no sostenidas
@@ -1692,6 +1740,7 @@ casos_clinicos_cardiologia211	DISEASE	6569	6582	extrasistolia
 casos_clinicos_cardiologia211	DISEASE	6846	6854	arritmia
 casos_clinicos_cardiologia211	DISEASE	7118	7143	extrasistolia ventricular
 casos_clinicos_cardiologia211	DISEASE	7253	7278	Extrasistolia ventricular
+casos_clinicos_cardiologia211	DISEASE	7403	7416	extrasistolia
 casos_clinicos_cardiologia211	DISEASE	7430	7453	cardiopatía estructural
 casos_clinicos_cardiologia213	DISEASE	181	196	hábitos tóxicos
 casos_clinicos_cardiologia213	DISEASE	200	214	metabolopatías
@@ -1808,14 +1857,17 @@ casos_clinicos_cardiologia221	DISEASE	2353	2368	derrame pleural
 casos_clinicos_cardiologia221	DISEASE	2521	2563	Descendente anterior (DA) con lesión grave
 casos_clinicos_cardiologia221	DISEASE	2591	2613	Circunfleja con lesión
 casos_clinicos_cardiologia221	DISEASE	2642	2675	Coronaria derecha (CD) con lesión
+casos_clinicos_cardiologia221	DISEASE	2836	2848	lesión de CD
 casos_clinicos_cardiologia221	DISEASE	3055	3098	hipertrofia ligera del ventrículo izquierdo
 casos_clinicos_cardiologia221	DISEASE	3251	3264	valvulopatías
 casos_clinicos_cardiologia221	DISEASE	3426	3451	insuficiencia tricuspídea
 casos_clinicos_cardiologia221	DISEASE	3453	3455	IT
 casos_clinicos_cardiologia221	DISEASE	3571	3590	derrame pericárdico
+casos_clinicos_cardiologia221	DISEASE	4066	4081	daño miocárdico
 casos_clinicos_cardiologia221	DISEASE	4869	4933	enfermedad de tres vasos, con dos lesiones graves (en DAm y CDm)
 casos_clinicos_cardiologia221	DISEASE	4940	4982	lesión moderada en circunfleja (Cx) distal
 casos_clinicos_cardiologia221	DISEASE	5312	5330	eventos arrítmicos
+casos_clinicos_cardiologia221	DISEASE	5888	5933	lesión grave de la descendente anterior media
 casos_clinicos_cardiologia221	DISEASE	6105	6186	Infarto agudo de miocardio con elevación del segmento ST de localización inferior
 casos_clinicos_cardiologia221	DISEASE	6198	6232	Enfermedad coronaria de tres vasos
 casos_clinicos_cardiologia221	DISEASE	6391	6415	lesión grave en DA media
@@ -1841,6 +1893,7 @@ casos_clinicos_cardiologia223	DISEASE	4278	4290	trombo agudo
 casos_clinicos_cardiologia223	DISEASE	4482	4492	aneurismas
 casos_clinicos_cardiologia223	DISEASE	4532	4589	trombo agudo en V3 y V4 de la arteria vertebral izquierda
 casos_clinicos_cardiologia223	DISEASE	4591	4694	Lesiones isquémicas crónicas en ganglios basales y tálamo izquierdos y en hemisferio cerebeloso derecho
+casos_clinicos_cardiologia223	DISEASE	5274	5285	trombofilia
 casos_clinicos_cardiologia223	DISEASE	5532	5535	TEP
 casos_clinicos_cardiologia223	DISEASE	5799	5844	tomboembolismo pulmonar (TEP) agudo bilateral
 casos_clinicos_cardiologia223	DISEASE	5980	5983	HTP
@@ -1867,6 +1920,7 @@ casos_clinicos_cardiologia223	DISEASE	7778	7818	shunt de cavidades derechas a iz
 casos_clinicos_cardiologia223	DISEASE	8061	8066	ictus
 casos_clinicos_cardiologia223	DISEASE	8068	8071	TEP
 casos_clinicos_cardiologia223	DISEASE	8129	8151	FOP de tipo tunelizado
+casos_clinicos_cardiologia223	DISEASE	8397	8404	trombos
 casos_clinicos_cardiologia223	DISEASE	8439	8477	foramen oval permeable tipo tunelizado
 casos_clinicos_cardiologia223	DISEASE	10093	10098	ictus
 casos_clinicos_cardiologia223	DISEASE	10537	10561	tromboembolismo pulmonar
@@ -1896,6 +1950,7 @@ casos_clinicos_cardiologia225	DISEASE	221	242	hipertensión arterial
 casos_clinicos_cardiologia225	DISEASE	244	247	HTA
 casos_clinicos_cardiologia225	DISEASE	295	319	diabetes mellitus tipo 2
 casos_clinicos_cardiologia225	DISEASE	468	499	hiperplasia benigna de próstata
+casos_clinicos_cardiologia225	DISEASE	522	545	cataratas en ambos ojos
 casos_clinicos_cardiologia225	DISEASE	969	994	herida en cuero cabelludo
 casos_clinicos_cardiologia225	DISEASE	1008	1036	traumatismo craneoencefálico
 casos_clinicos_cardiologia225	DISEASE	2293	2308	derrame pleural
@@ -2053,6 +2108,7 @@ casos_clinicos_cardiologia232	DISEASE	1582	1609	miocardiopatía hipertrófica
 casos_clinicos_cardiologia232	DISEASE	1690	1701	SQTL tipo 1
 casos_clinicos_cardiologia232	DISEASE	1741	1753	fibromialgia
 casos_clinicos_cardiologia232	DISEASE	1755	1772	lumbalgia crónica
+casos_clinicos_cardiologia232	DISEASE	1840	1851	metrorragia
 casos_clinicos_cardiologia232	DISEASE	2138	2153	eversión ocular
 casos_clinicos_cardiologia232	DISEASE	2156	2170	espasmo tónico
 casos_clinicos_cardiologia232	DISEASE	2318	2339	fibrilación auricular
@@ -2104,12 +2160,14 @@ casos_clinicos_cardiologia233	DISEASE	1712	1715	TVP
 casos_clinicos_cardiologia233	DISEASE	1718	1749	Insuficiencia venosa periférica
 casos_clinicos_cardiologia233	DISEASE	2875	2900	condocalcinosis bilateral
 casos_clinicos_cardiologia233	DISEASE	3339	3367	hipertrofia ventricular leve
+casos_clinicos_cardiologia233	DISEASE	3519	3538	síndrome de Brugada
 casos_clinicos_cardiologia233	DISEASE	3572	3580	gonalgia
 casos_clinicos_cardiologia233	DISEASE	3651	3671	crisis de pseudogota
 casos_clinicos_cardiologia233	DISEASE	3685	3701	condrocalcinosis
 casos_clinicos_cardiologia233	DISEASE	4095	4122	fenocopia de patrón Brugada
 casos_clinicos_cardiologia233	DISEASE	4398	4416	eventos arrítmicos
 casos_clinicos_cardiologia233	DISEASE	4526	4539	valvulopatías
+casos_clinicos_cardiologia233	DISEASE	4590	4618	canalopatías/miocardiopatías
 casos_clinicos_cardiologia233	DISEASE	4811	4826	muertes súbitas
 casos_clinicos_cardiologia233	DISEASE	4929	4942	valvulopatías
 casos_clinicos_cardiologia233	DISEASE	5017	5044	fenocopia de patrón Brugada
@@ -2249,6 +2307,7 @@ casos_clinicos_cardiologia243	DISEASE	6776	6795	taquicardia sinusal
 casos_clinicos_cardiologia243	DISEASE	6798	6809	hipotensión
 casos_clinicos_cardiologia243	DISEASE	6929	6969	derrame pericárdico grave hiperecogénico
 casos_clinicos_cardiologia243	DISEASE	7053	7103	taponamiento cardiaco secundario a rotura cardiaca
+casos_clinicos_cardiologia243	DISEASE	7561	7569	coágulos
 casos_clinicos_cardiologia243	DISEASE	8794	8811	hipotensión grave
 casos_clinicos_cardiologia243	DISEASE	8957	8999	taponamiento cardiaco secundario a derrame
 casos_clinicos_cardiologia243	DISEASE	9015	9048	coágulos sobre cavidades derechas
@@ -2286,6 +2345,7 @@ casos_clinicos_cardiologia245	DISEASE	2863	2895	dilatación de ventrículo derec
 casos_clinicos_cardiologia245	DISEASE	3003	3033	Insuficiencia tricuspídea leve
 casos_clinicos_cardiologia245	DISEASE	3196	3209	valvulopatías
 casos_clinicos_cardiologia245	DISEASE	3435	3462	shunt intra o extracardiaco
+casos_clinicos_cardiologia245	DISEASE	3603	3614	VD dilatado
 casos_clinicos_cardiologia245	DISEASE	3645	3682	Shunt izquierda-derecha extracardiaco
 casos_clinicos_cardiologia245	DISEASE	3812	3824	VD: dilatado
 casos_clinicos_cardiologia245	DISEASE	4113	4151	AI: área de 21 cm2, levemente dilatada
@@ -2336,6 +2396,7 @@ casos_clinicos_cardiologia251	DISEASE	4825	4836	rectorragia
 casos_clinicos_cardiologia251	DISEASE	4852	4863	anemización
 casos_clinicos_cardiologia251	DISEASE	5013	5034	gastropatía de estrés
 casos_clinicos_cardiologia251	DISEASE	5049	5067	úlceras duodenales
+casos_clinicos_cardiologia251	DISEASE	5425	5448	endocarditis infecciosa
 casos_clinicos_cardiologia251	DISEASE	5694	5720	hipotensión arterial grave
 casos_clinicos_cardiologia251	DISEASE	5813	5834	taponamiento cardiaco
 casos_clinicos_cardiologia251	DISEASE	6067	6087	hematoma pericárdico
@@ -2368,6 +2429,7 @@ casos_clinicos_cardiologia256	DISEASE	4719	4776	Enfermedad coronaria de dos vaso
 casos_clinicos_cardiologia256	DISEASE	4791	4865	estenosis significativa en rama descendente posterior de coronaria derecha
 casos_clinicos_cardiologia257	DISEASE	49	97	bloqueo completo de rama izquierda de has de His
 casos_clinicos_cardiologia257	DISEASE	99	105	BCRIHH
+casos_clinicos_cardiologia257	DISEASE	257	277	síndrome de QT largo
 casos_clinicos_cardiologia257	DISEASE	491	502	cardiopatía
 casos_clinicos_cardiologia257	DISEASE	506	519	muerte súbita
 casos_clinicos_cardiologia257	DISEASE	556	578	sincopes de repetición
@@ -2385,6 +2447,7 @@ casos_clinicos_cardiologia257	DISEASE	1837	1862	trombosis venosa profunda
 casos_clinicos_cardiologia257	DISEASE	1864	1867	TVP
 casos_clinicos_cardiologia257	DISEASE	1952	1971	bradicardia sinusal
 casos_clinicos_cardiologia257	DISEASE	2042	2048	BCRIHH
+casos_clinicos_cardiologia257	DISEASE	2436	2485	Válvula aórtica trivalva con signos degenerativos
 casos_clinicos_cardiologia257	DISEASE	2622	2647	insuficiencia tricuspidea
 casos_clinicos_cardiologia257	DISEASE	2882	2888	BCRIHH
 casos_clinicos_cardiologia257	DISEASE	3109	3128	derrame pericárdico
@@ -2393,6 +2456,7 @@ casos_clinicos_cardiologia257	DISEASE	3265	3271	BCRIHH
 casos_clinicos_cardiologia257	DISEASE	3440	3463	arritmias ventriculares
 casos_clinicos_cardiologia257	DISEASE	3705	3741	extrasístoles ventriculares aisladas
 casos_clinicos_cardiologia257	DISEASE	3853	3870	signos isquémicos
+casos_clinicos_cardiologia257	DISEASE	4055	4067	canalopatías
 casos_clinicos_cardiologia257	DISEASE	4191	4197	BCRIHH
 casos_clinicos_cardiologia257	DISEASE	4273	4318	alteraciones secundarias de la repolarización
 casos_clinicos_cardiologia257	DISEASE	4432	4452	episodios sincopales
@@ -2426,6 +2490,7 @@ casos_clinicos_cardiologia261	DISEASE	3608	3674	Salida anómala de coronaria der
 casos_clinicos_cardiologia261	DISEASE	3960	4034	divertículo en la pared inferoposterior izquierda de la aurícula izquierda
 casos_clinicos_cardiologia261	DISEASE	4051	4075	trombos intraauriculares
 casos_clinicos_cardiologia261	DISEASE	4103	4118	hernia de hiato
+casos_clinicos_cardiologia261	DISEASE	4458	4466	isquemia
 casos_clinicos_cardiologia261	DISEASE	4595	4603	fibrosis
 casos_clinicos_cardiologia261	DISEASE	4606	4625	necrosis miocárdica
 casos_clinicos_cardiologia261	DISEASE	4741	4764	cardiopatía estructural
@@ -2462,6 +2527,7 @@ casos_clinicos_cardiologia262	DISEASE	4703	4725	inflamación miocárdica
 casos_clinicos_cardiologia262	DISEASE	4729	4747	escaras isquémicas
 casos_clinicos_cardiologia262	DISEASE	4938	4968	ateromatosis coronaria extensa
 casos_clinicos_cardiologia262	DISEASE	5302	5323	metástasis pulmonares
+casos_clinicos_cardiologia262	DISEASE	6451	6474	fibrilación ventricular
 casos_clinicos_cardiologia262	DISEASE	6476	6478	FV
 casos_clinicos_cardiologia262	DISEASE	7170	7192	insuficiencia cardiaca
 casos_clinicos_cardiologia262	DISEASE	7426	7461	anomalía en la descendente anterior
@@ -2599,6 +2665,7 @@ casos_clinicos_cardiologia271	DISEASE	3839	3852	infarto focal
 casos_clinicos_cardiologia271	DISEASE	4529	4551	Insuficiencia pulmonar
 casos_clinicos_cardiologia271	DISEASE	4634	4653	derrame pericárdico
 casos_clinicos_cardiologia271	DISEASE	5139	5157	obstrucción mitral
+casos_clinicos_cardiologia271	DISEASE	5388	5395	trombos
 casos_clinicos_cardiologia271	DISEASE	5440	5494	Aorta torácica descendente con alguna placa de ateroma
 casos_clinicos_cardiologia271	DISEASE	6444	6517	Aorta torácica de calibre normal, ligeramente elongada y con ateromatosis
 casos_clinicos_cardiologia271	DISEASE	6691	6704	adenomegalias
@@ -2610,16 +2677,19 @@ casos_clinicos_cardiologia271	DISEASE	7322	7353	Hipertrofia prostática moderada
 casos_clinicos_cardiologia271	DISEASE	7468	7492	ateromatosis aortoilíaca
 casos_clinicos_cardiologia271	DISEASE	7509	7533	adenomegalias inguinales
 casos_clinicos_cardiologia271	DISEASE	7554	7566	Osteoporosis
+casos_clinicos_cardiologia271	DISEASE	7662	7679	Fractura de fémur
 casos_clinicos_cardiologia271	DISEASE	8330	8336	mixoma
 casos_clinicos_cardiologia271	DISEASE	8476	8481	ictus
 casos_clinicos_cardiologia271	DISEASE	8932	8938	mixoma
 casos_clinicos_cardiologia271	DISEASE	9216	9223	sarcoma
 casos_clinicos_cardiologia271	DISEASE	9510	9530	enfermedad coronaria
+casos_clinicos_cardiologia271	DISEASE	9810	9815	tumor
 casos_clinicos_cardiologia271	DISEASE	10260	10265	tumor
 casos_clinicos_cardiologia271	DISEASE	10302	10308	mixoma
 casos_clinicos_cardiologia271	DISEASE	10438	10469	hemiparesia de miembro inferior
 casos_clinicos_cardiologia271	DISEASE	10579	10641	Ictus isquémico en arteria coroidea derecha de origen embólico
 casos_clinicos_cardiologia271	DISEASE	10643	10659	Mixoma auricular
+casos_clinicos_cardiologia271	DISEASE	10742	10768	mixoma auricular izquierdo
 casos_clinicos_cardiologia271	DISEASE	10827	10899	Síndrome coronario crónico estable con enfermedad de dos vasos (Cx y DA)
 casos_clinicos_cardiologia271	DISEASE	10943	10983	Hemiparesia residual de miembro inferior
 casos_clinicos_cardiologia271	DISEASE	11011	11026	ictus isquémico
@@ -2651,6 +2721,7 @@ casos_clinicos_cardiologia276	DISEASE	4721	4813	espasmo grave de tronco coronari
 casos_clinicos_cardiologia276	DISEASE	5467	5530	parada cardiorrespiratoria (PCR) en disociación electromecánica
 casos_clinicos_cardiologia276	DISEASE	5727	5762	taquicardia ventricular polimórfica
 casos_clinicos_cardiologia276	DISEASE	5856	5891	taquicardia ventricular polimórfica
+casos_clinicos_cardiologia276	DISEASE	6022	6037	daño miocárdico
 casos_clinicos_cardiologia276	DISEASE	6081	6107	infarto agudo de miocardio
 casos_clinicos_cardiologia276	DISEASE	6156	6179	isquemia subendocárdica
 casos_clinicos_cardiologia276	DISEASE	6765	6776	hipotensión
@@ -2763,6 +2834,7 @@ casos_clinicos_cardiologia284	DISEASE	1337	1359	insuficiencia cardiaca
 casos_clinicos_cardiologia284	DISEASE	1668	1693	trombosis venosa profunda
 casos_clinicos_cardiologia284	DISEASE	2260	2279	congestión pulmonar
 casos_clinicos_cardiologia284	DISEASE	2297	2304	derrame
+casos_clinicos_cardiologia284	DISEASE	2515	2522	sífilis
 casos_clinicos_cardiologia284	DISEASE	4132	4140	fibrosis
 casos_clinicos_cardiologia284	DISEASE	4318	4356	miocarditis aguda con fibrosis extensa
 casos_clinicos_cardiologia284	DISEASE	4637	4658	miopericarditis aguda
@@ -2778,6 +2850,7 @@ casos_clinicos_cardiologia284	DISEASE	6193	6204	miocarditis
 casos_clinicos_cardiologia284	DISEASE	6321	6346	miocarditis de repetición
 casos_clinicos_cardiologia284	DISEASE	6392	6444	miocarditis aguda de repetición con fibrosis extensa
 casos_clinicos_cardiologia284	DISEASE	6454	6506	miocardiopatía arritmogénica de ventrículo izquierdo
+casos_clinicos_cardiologia284	DISEASE	6559	6574	miocardiopatías
 casos_clinicos_cardiologia284	DISEASE	6626	6656	Miocarditis aguda con fibrosis
 casos_clinicos_cardiologia284	DISEASE	6709	6784	displasia arritmogénica de ventrículo izquierdo con brotes miocarditliisk-e
 casos_clinicos_cardiologia288	DISEASE	75	98	alergias medicamentosas
@@ -2821,6 +2894,7 @@ casos_clinicos_cardiologia292	DISEASE	539	601	masa tumoral en aurícula izquierd
 casos_clinicos_cardiologia292	DISEASE	634	650	mixoma auricular
 casos_clinicos_cardiologia292	DISEASE	730	739	estenosis
 casos_clinicos_cardiologia292	DISEASE	803	818	ictus isquémico
+casos_clinicos_cardiologia292	DISEASE	944	950	mixoma
 casos_clinicos_cardiologia292	DISEASE	1059	1089	ictus de circulación posterior
 casos_clinicos_cardiologia292	DISEASE	1091	1095	POCI
 casos_clinicos_cardiologia292	DISEASE	1126	1134	diplopía
@@ -2896,11 +2970,13 @@ casos_clinicos_cardiologia301	DISEASE	3134	3159	trombosis venosa profunda
 casos_clinicos_cardiologia301	DISEASE	3441	3485	oclusión proximal de arteria humeral derecha
 casos_clinicos_cardiologia301	DISEASE	3596	3602	trombo
 casos_clinicos_cardiologia301	DISEASE	3921	3937	trombos apicales
+casos_clinicos_cardiologia301	DISEASE	4996	5011	daño miocárdico
 casos_clinicos_cardiologia301	DISEASE	5849	5911	Válvula tricúspide: morfológicamente normal, con insuficiencia
 casos_clinicos_cardiologia301	DISEASE	5980	6001	hipertensión pulmonar
 casos_clinicos_cardiologia301	DISEASE	6123	6133	coartación
 casos_clinicos_cardiologia301	DISEASE	6181	6200	shunt intracardiaco
 casos_clinicos_cardiologia301	DISEASE	6268	6275	derrame
+casos_clinicos_cardiologia301	DISEASE	6577	6597	trombo en ápex de VI
 casos_clinicos_cardiologia301	DISEASE	6676	6744	oclusiones arteriales en arterias iliaca común y poplítea izquierdas
 casos_clinicos_cardiologia301	DISEASE	6746	6776	Infarto renal en polo inferior
 casos_clinicos_cardiologia301	DISEASE	7201	7223	anomalías pericárdicas
@@ -2937,6 +3013,7 @@ casos_clinicos_cardiologia302	DISEASE	1474	1536	fístulas del árbol coronario i
 casos_clinicos_cardiologia302	DISEASE	1619	1633	isquemia aguda
 casos_clinicos_cardiologia302	DISEASE	1635	1646	miocarditis
 casos_clinicos_cardiologia302	DISEASE	1651	1670	necrosis transmural
+casos_clinicos_cardiologia302	DISEASE	3439	3454	daño miocárdico
 casos_clinicos_cardiologia302	DISEASE	3973	3992	disfunción valvular
 casos_clinicos_cardiologia302	DISEASE	4095	4120	insuficiencia tricuspídea
 casos_clinicos_cardiologia302	DISEASE	4122	4124	IT
@@ -2969,7 +3046,9 @@ casos_clinicos_cardiologia303	DISEASE	2576	2589	Cardiomegalia
 casos_clinicos_cardiologia303	DISEASE	2629	2653	tromboembolismo pulmonar
 casos_clinicos_cardiologia303	DISEASE	2818	2875	Atrapamiento aéreo en segmento apical del lóbulo inferior
 casos_clinicos_cardiologia303	DISEASE	2962	3009	adenopatías mediastínicas, hiliares ni axilares
+casos_clinicos_cardiologia303	DISEASE	3045	3060	daño miocárdico
 casos_clinicos_cardiologia303	DISEASE	3520	3540	disfunción sistólica
+casos_clinicos_cardiologia303	DISEASE	3599	3614	daño miocárdico
 casos_clinicos_cardiologia303	DISEASE	3676	3696	infarto de miocardio
 casos_clinicos_cardiologia303	DISEASE	3729	3736	IAMSEST
 casos_clinicos_cardiologia303	DISEASE	3999	4038	raíz de aorta con una morfología cónica
@@ -2991,6 +3070,7 @@ casos_clinicos_cardiologia304	DISEASE	138	168	Hipertensión arterial esencial
 casos_clinicos_cardiologia304	DISEASE	202	212	Dislipemia
 casos_clinicos_cardiologia304	DISEASE	410	415	ictus
 casos_clinicos_cardiologia304	DISEASE	1024	1049	trombosis venosa profunda
+casos_clinicos_cardiologia304	DISEASE	1691	1698	Sífilis
 casos_clinicos_cardiologia304	DISEASE	1913	1928	derrame pleural
 casos_clinicos_cardiologia304	DISEASE	2026	2040	isquemia aguda
 casos_clinicos_cardiologia304	DISEASE	2069	2096	hemorragia intra/extraaxial
@@ -3006,6 +3086,7 @@ casos_clinicos_cardiologia304	DISEASE	3361	3374	valvulopatías
 casos_clinicos_cardiologia304	DISEASE	3393	3412	derrame pericárdico
 casos_clinicos_cardiologia304	DISEASE	3442	3449	trombos
 casos_clinicos_cardiologia304	DISEASE	3455	3475	ateromatosis aórtica
+casos_clinicos_cardiologia304	DISEASE	3927	3934	foramen
 casos_clinicos_cardiologia304	DISEASE	4423	4477	Ictus isquémico temporo-occipital derecho criptogénico
 casos_clinicos_cardiologia304	DISEASE	4479	4482	FOP
 casos_clinicos_cardiologia305	DISEASE	100	123	alergias medicamentosas
@@ -3050,6 +3131,7 @@ casos_clinicos_cardiologia306	DISEASE	2057	2060	TVP
 casos_clinicos_cardiologia306	DISEASE	2093	2112	bradicardia sinusal
 casos_clinicos_cardiologia306	DISEASE	2173	2211	bloqueo de rama derecha del haz de His
 casos_clinicos_cardiologia306	DISEASE	2213	2219	BCRDHH
+casos_clinicos_cardiologia306	DISEASE	2749	2764	conectivopatías
 casos_clinicos_cardiologia306	DISEASE	3290	3303	cardiomegalia
 casos_clinicos_cardiologia306	DISEASE	3351	3366	derrame pleural
 casos_clinicos_cardiologia306	DISEASE	3759	3796	Aurícula derecha ligeramente dilatada
@@ -3070,6 +3152,7 @@ casos_clinicos_cardiologia306	DISEASE	5767	5819	Hiperplasia adenomatosa de ambas
 casos_clinicos_cardiologia306	DISEASE	6315	6336	hipertensión pulmonar
 casos_clinicos_cardiologia306	DISEASE	6414	6435	hipertensión pulmonar
 casos_clinicos_cardiologia306	DISEASE	6437	6489	dilatación y disfunción graves de ventrículo derecho
+casos_clinicos_cardiologia306	DISEASE	6533	6554	hipertensión pulmonar
 casos_clinicos_cardiologia306	DISEASE	6770	6802	hipertensión pulmonar precapilar
 casos_clinicos_cardiologia306	DISEASE	6887	6909	síndrome portopulmonar
 casos_clinicos_cardiologia306	DISEASE	6967	6988	hipertensión pulmonar
@@ -3104,6 +3187,7 @@ casos_clinicos_cardiologia308	DISEASE	1923	1944	hemangiomas hepáticos
 casos_clinicos_cardiologia308	DISEASE	3280	3320	reacción hipertensiva a pico de esfuerzo
 casos_clinicos_cardiologia308	DISEASE	3572	3580	isquemia
 casos_clinicos_cardiologia308	DISEASE	3756	3777	reacción hipertensiva
+casos_clinicos_cardiologia308	DISEASE	4620	4661	ventrículo izquierdo ligeramente dilatado
 casos_clinicos_cardiologia308	DISEASE	4820	4853	insuficiencia mitral levemoderada
 casos_clinicos_cardiologia308	DISEASE	6355	6364	arritmias
 casos_clinicos_cardiologia308	DISEASE	6446	6458	rectorragias
@@ -3131,6 +3215,7 @@ casos_clinicos_cardiologia31	DISEASE	1551	1570	infartos esplénicos
 casos_clinicos_cardiologia31	DISEASE	1738	1748	vegetación
 casos_clinicos_cardiologia31	DISEASE	1833	1853	disfunción protésica
 casos_clinicos_cardiologia311	DISEASE	131	157	calcificaciones coronarias
+casos_clinicos_cardiologia311	DISEASE	214	230	cáncer de pulmón
 casos_clinicos_cardiologia311	DISEASE	266	287	hipertensión arterial
 casos_clinicos_cardiologia311	DISEASE	289	292	HTA
 casos_clinicos_cardiologia311	DISEASE	325	342	glucemia alterada
@@ -3174,6 +3259,7 @@ casos_clinicos_cardiologia321	DISEASE	3452	3474	Insuficiencia pulmonar
 casos_clinicos_cardiologia321	DISEASE	3591	3610	derrame pericárdico
 casos_clinicos_cardiologia321	DISEASE	5688	5703	miopericarditis
 casos_clinicos_cardiologia321	DISEASE	5907	5922	miopericarditis
+casos_clinicos_cardiologia321	DISEASE	6302	6310	isquemia
 casos_clinicos_cardiologia321	DISEASE	6349	6369	enfermedad coronaria
 casos_clinicos_cardiologia321	DISEASE	6711	6736	síncope vagal situacional
 casos_clinicos_cardiologia321	DISEASE	6741	6752	hipotensión
@@ -3215,6 +3301,7 @@ casos_clinicos_cardiologia331	DISEASE	235	250	úlcera duodenal
 casos_clinicos_cardiologia331	DISEASE	818	821	ICC
 casos_clinicos_cardiologia331	DISEASE	824	834	infecciosa
 casos_clinicos_cardiologia331	DISEASE	1685	1688	HVI
+casos_clinicos_cardiologia331	DISEASE	2185	2200	daño miocárdico
 casos_clinicos_cardiologia331	DISEASE	2309	2357	ventrículo izquierdo con hipertrofia concéntrica
 casos_clinicos_cardiologia331	DISEASE	2492	2513	Insuficiencia aórtica
 casos_clinicos_cardiologia331	DISEASE	2539	2552	valvulopatías
@@ -3239,6 +3326,7 @@ casos_clinicos_cardiologia333	DISEASE	147	170	alergias medicamentosas
 casos_clinicos_cardiologia333	DISEASE	175	190	hábitos tóxicos
 casos_clinicos_cardiologia333	DISEASE	265	281	Migraña con aura
 casos_clinicos_cardiologia333	DISEASE	934	957	fibrilación ventricular
+casos_clinicos_cardiologia333	DISEASE	2327	2342	daño miocárdico
 casos_clinicos_cardiologia333	DISEASE	2486	2501	derrame pleural
 casos_clinicos_cardiologia333	DISEASE	2748	2761	valvulopatías
 casos_clinicos_cardiologia333	DISEASE	2844	2869	insuficiencia tricuspídea
@@ -3364,8 +3452,10 @@ casos_clinicos_cardiologia342	DISEASE	3587	3636	DA: estenosis moderada en segmen
 casos_clinicos_cardiologia342	DISEASE	3937	3974	Leves insuficiencias mitral y aórtica
 casos_clinicos_cardiologia342	DISEASE	3983	4002	derrame pericárdico
 casos_clinicos_cardiologia342	DISEASE	4053	4056	IAM
+casos_clinicos_cardiologia342	DISEASE	4432	4451	necrosis miocárdica
 casos_clinicos_cardiologia342	DISEASE	4591	4608	necrosis inferior
 casos_clinicos_cardiologia342	DISEASE	4656	4664	isquemia
+casos_clinicos_cardiologia342	DISEASE	5183	5211	hipercolesterolemia familiar
 casos_clinicos_cardiologia342	DISEASE	5340	5368	hipercolesterolemia familiar
 casos_clinicos_cardiologia342	DISEASE	5370	5383	Heterocigosis
 casos_clinicos_cardiologia342	DISEASE	5696	5703	fumador
@@ -3373,6 +3463,7 @@ casos_clinicos_cardiologia342	DISEASE	5717	5722	obeso
 casos_clinicos_cardiologia342	DISEASE	5725	5736	dislipémico
 casos_clinicos_cardiologia342	DISEASE	5803	5815	IAM inferior
 casos_clinicos_cardiologia342	DISEASE	6109	6165	isquemia inducible en territorio de descendente anterior
+casos_clinicos_cardiologia342	DISEASE	6958	6986	hipercolesterolemia familiar
 casos_clinicos_cardiologia342	DISEASE	7251	7280	Cardiopatía isquémica crónica
 casos_clinicos_cardiologia342	DISEASE	7282	7296	IAM Q inferior
 casos_clinicos_cardiologia342	DISEASE	7314	7368	Enfermedad coronaria de 2 vasos (CD [responsable] y DA
@@ -3520,6 +3611,7 @@ casos_clinicos_cardiologia352	DISEASE	856	867	cardiopatía
 casos_clinicos_cardiologia352	DISEASE	1330	1343	hepatomegalia
 casos_clinicos_cardiologia352	DISEASE	2195	2202	derrame
 casos_clinicos_cardiologia352	DISEASE	2204	2236	Aurícula izquierda (AI) dilatada
+casos_clinicos_cardiologia352	DISEASE	2238	2272	Ventrículo izquierdo (VI) dilatado
 casos_clinicos_cardiologia352	DISEASE	2353	2424	Insuficiencia mitral (IM) moderada-grave con prolapso del velo anterior
 casos_clinicos_cardiologia352	DISEASE	2544	2565	insuficiencia aórtica
 casos_clinicos_cardiologia352	DISEASE	2567	2570	IAo
@@ -3544,12 +3636,14 @@ casos_clinicos_cardiologia361	DISEASE	252	261	Sobrepeso
 casos_clinicos_cardiologia361	DISEASE	444	456	hipertensión
 casos_clinicos_cardiologia361	DISEASE	1774	1799	trombosis venosa profunda
 casos_clinicos_cardiologia361	DISEASE	1801	1804	TVP
+casos_clinicos_cardiologia361	DISEASE	2627	2642	daño miocárdico
 casos_clinicos_cardiologia361	DISEASE	2886	2905	congestión pulmonar
 casos_clinicos_cardiologia361	DISEASE	3600	3625	insuficiencia tricuspídea
 casos_clinicos_cardiologia361	DISEASE	3713	3716	HTP
 casos_clinicos_cardiologia361	DISEASE	3769	3788	derrame pericárdico
 casos_clinicos_cardiologia361	DISEASE	3871	3928	Arteria descendente anterior con lesión subtotal proximal
 casos_clinicos_cardiologia361	DISEASE	4385	4393	isquemia
+casos_clinicos_cardiologia361	DISEASE	4717	4732	daño miocárdico
 casos_clinicos_cardiologia361	DISEASE	4798	4803	angor
 casos_clinicos_cardiologia361	DISEASE	4910	4977	lesión subtotal a nivel proximal de la arteria descendente anterior
 casos_clinicos_cardiologia361	DISEASE	4989	5008	lesiones coronarias
@@ -3648,6 +3742,7 @@ casos_clinicos_cardiologia376	DISEASE	3393	3453	aneurisma de septo interauricula
 casos_clinicos_cardiologia376	DISEASE	3455	3458	FOP
 casos_clinicos_cardiologia376	DISEASE	3462	3485	shunt derecha izquierda
 casos_clinicos_cardiologia376	DISEASE	3853	3909	Síndrome platipnea-ortodeoxia por foramen oval permeable
+casos_clinicos_cardiologia376	DISEASE	3964	3986	foramen oval permeable
 casos_clinicos_cardiologia383	DISEASE	90	98	alergias
 casos_clinicos_cardiologia383	DISEASE	176	197	hipertensión arterial
 casos_clinicos_cardiologia383	DISEASE	199	202	HTA
@@ -3660,6 +3755,7 @@ casos_clinicos_cardiologia383	DISEASE	626	697	enfermedad de un vaso: descendente
 casos_clinicos_cardiologia383	DISEASE	836	842	angina
 casos_clinicos_cardiologia383	DISEASE	844	866	Estenosis aórtica leve
 casos_clinicos_cardiologia383	DISEASE	948	990	Aurícula izquierda (AI) levemente dilatada
+casos_clinicos_cardiologia383	DISEASE	1009	1057	Ventrículo izquierdo (VI) levemente hipertrófico
 casos_clinicos_cardiologia383	DISEASE	1180	1232	Valvulopatía aórtica degenerativa con estenosis leve
 casos_clinicos_cardiologia383	DISEASE	1283	1336	Válvula mitral con buena apertura y sin insuficiencia
 casos_clinicos_cardiologia383	DISEASE	1367	1392	Insuficiencia tricuspídea
@@ -3679,6 +3775,8 @@ casos_clinicos_cardiologia383	DISEASE	5088	5110	reestenosis intrastent
 casos_clinicos_cardiologia383	DISEASE	5157	5179	DA media con estenosis
 casos_clinicos_cardiologia383	DISEASE	5234	5257	DA distal con estenosis
 casos_clinicos_cardiologia383	DISEASE	5298	5349	arteria circunfleja (Cx) distal tiene una estenosis
+casos_clinicos_cardiologia383	DISEASE	5569	5597	reestenosis intrastent en DA
+casos_clinicos_cardiologia383	DISEASE	5862	5880	estenosis de la DA
 casos_clinicos_cardiologia383	DISEASE	5962	6016	síndrome coronario agudo sin elevación del segmento ST
 casos_clinicos_cardiologia383	DISEASE	6018	6058	SCASEST) tipo infarto agudo de miocardio
 casos_clinicos_cardiologia383	DISEASE	6060	6063	IAM
@@ -3704,6 +3802,7 @@ casos_clinicos_cardiologia385	DISEASE	166	175	Exfumador
 casos_clinicos_cardiologia385	DISEASE	198	240	Consumidor esporádico de cocaína y alcohol
 casos_clinicos_cardiologia385	DISEASE	242	280	ACV isquémico frontoparietal izquierdo
 casos_clinicos_cardiologia385	DISEASE	299	317	consumo de cocaína
+casos_clinicos_cardiologia385	DISEASE	507	519	coagulopatía
 casos_clinicos_cardiologia385	DISEASE	816	825	disartria
 casos_clinicos_cardiologia385	DISEASE	915	955	lesión conocida frontoparietal izquierda
 casos_clinicos_cardiologia385	DISEASE	1253	1258	ictus
@@ -3780,12 +3879,15 @@ casos_clinicos_cardiologia389	DISEASE	3899	3920	cardiopatía isquémica
 casos_clinicos_cardiologia389	DISEASE	3953	3981	hipercolesterolemia familiar
 casos_clinicos_cardiologia389	DISEASE	3983	3985	HF
 casos_clinicos_cardiologia389	DISEASE	4333	4354	Cardiopatía isquémica
+casos_clinicos_cardiologia389	DISEASE	4380	4413	enfermedad coronaria de dos vasos
 casos_clinicos_cardiologia389	DISEASE	4477	4497	Cardiopatía valvular
 casos_clinicos_cardiologia389	DISEASE	4499	4557	estenosis aórtica grave sintomática sobre válvula trivalva
 casos_clinicos_cardiologia389	DISEASE	4698	4711	HF monogénica
+casos_clinicos_cardiologia39	DISEASE	227	229	HC
 casos_clinicos_cardiologia39	DISEASE	303	356	absceso drenado en territorio de fibrosa mitroaortica
 casos_clinicos_cardiologia39	DISEASE	366	401	hipercaptación a nivel perivalvular
 casos_clinicos_cardiologia39	DISEASE	533	540	EIVP Ao
+casos_clinicos_cardiologia39	DISEASE	815	834	lesión perivalvular
 casos_clinicos_cardiologia39	DISEASE	1331	1333	EI
 casos_clinicos_cardiologia390	DISEASE	143	151	síncopes
 casos_clinicos_cardiologia390	DISEASE	268	275	infarto
@@ -3813,6 +3915,7 @@ casos_clinicos_cardiologia4	DISEASE	134	151	diabetes mellitus
 casos_clinicos_cardiologia4	DISEASE	156	167	dislipemias
 casos_clinicos_cardiologia4	DISEASE	355	417	pseudoaneurisma de aorta con compresión del ventrículo derecho
 casos_clinicos_cardiologia4	DISEASE	425	470	fístula aorto cutánea con osteolisis esternal
+casos_clinicos_cardiologia4	DISEASE	485	508	fístula a nivel aórtico
 casos_clinicos_cardiologia4	DISEASE	739	751	coagulopatía
 casos_clinicos_cardiologia4	DISEASE	891	912	fracaso multiorgánico
 casos_clinicos_cardiologia4	DISEASE	956	982	dehiscencia de la prótesis
@@ -3927,6 +4030,7 @@ casos_clinicos_cardiologia40	DISEASE	1579	1587	verrugas
 casos_clinicos_cardiologia40	DISEASE	1733	1779	VERRUGA en valva anterior de la válvula mitral
 casos_clinicos_cardiologia40	DISEASE	1888	1891	HSA
 casos_clinicos_cardiologia40	DISEASE	1947	1979	lesiones purpúricas (equimóticas
+casos_clinicos_cardiologia40	DISEASE	2186	2221	válvula con degeneración mixomatosa
 casos_clinicos_cardiologia40	DISEASE	2344	2374	CRISIS EPILÉPTICA generalizada
 casos_clinicos_cardiologia40	DISEASE	2378	2383	ACxFA
 casos_clinicos_cardiologia40	DISEASE	2500	2520	infecciones cutáneas
@@ -4012,6 +4116,7 @@ casos_clinicos_cardiologia409	DISEASE	986	1035	Válvula mitral con calcificació
 casos_clinicos_cardiologia409	DISEASE	1038	1058	insuficiencia mitral
 casos_clinicos_cardiologia409	DISEASE	1068	1098	Insuficiencia tricuspídea leve
 casos_clinicos_cardiologia409	DISEASE	1232	1251	derrame pericárdico
+casos_clinicos_cardiologia409	DISEASE	1518	1532	hipotiroidismo
 casos_clinicos_cardiologia409	DISEASE	1561	1578	Glucemia alterada
 casos_clinicos_cardiologia409	DISEASE	1615	1666	Fractura de radio derecho tras accidente de tráfico
 casos_clinicos_cardiologia409	DISEASE	2557	2585	insuficiencia venosa crónica
@@ -4292,6 +4397,7 @@ casos_clinicos_cardiologia43	DISEASE	3097	3178	arteria descendente anterior con 
 casos_clinicos_cardiologia43	DISEASE	3233	3343	circunfleja proximal con dilatación aneurismática de gran tamaño, calcificada, con trombosis parcial de la luz
 casos_clinicos_cardiologia43	DISEASE	3972	3995	bloqueo AV infrahisiano
 casos_clinicos_cardiologia43	DISEASE	4236	4238	IC
+casos_clinicos_cardiologia43	DISEASE	4662	4695	aneurisma en descendente anterior
 casos_clinicos_cardiologia43	DISEASE	4789	4809	Enfermedad de Behçet
 casos_clinicos_cardiologia43	DISEASE	4811	4856	Bloqueo aurículo-ventricular 2:1 infrahisiano
 casos_clinicos_cardiologia43	DISEASE	4903	4950	Cardiopatía isquémica por aneurismas coronarios
@@ -4402,6 +4508,7 @@ casos_clinicos_cardiologia437	DISEASE	1343	1372	isquemia en territorio de ACD
 casos_clinicos_cardiologia437	DISEASE	1502	1526	Oclusión del 100% de ACD
 casos_clinicos_cardiologia437	DISEASE	1668	1695	Ictus hemisférico izquierdo
 casos_clinicos_cardiologia437	DISEASE	1718	1730	Fibromialgia
+casos_clinicos_cardiologia437	DISEASE	1747	1760	hernia lumbar
 casos_clinicos_cardiologia437	DISEASE	2140	2168	hipercolesterolemia familiar
 casos_clinicos_cardiologia437	DISEASE	2238	2284	cardiopatía isquémica crónica multivaso precoz
 casos_clinicos_cardiologia437	DISEASE	2632	2686	angor inestable con progresión de enfermedad coronaria
@@ -4487,6 +4594,7 @@ casos_clinicos_cardiologia449	DISEASE	3283	3369	placas cálcicas en el tercio pr
 casos_clinicos_cardiologia449	DISEASE	3424	3482	placa blanda en el tercio medio de la descendente anterior
 casos_clinicos_cardiologia449	DISEASE	3913	3934	vasoespasmo coronario
 casos_clinicos_cardiologia449	DISEASE	4467	4488	vasoespasmo coronario
+casos_clinicos_cardiologia449	DISEASE	4809	4817	isquemia
 casos_clinicos_cardiologia449	DISEASE	4890	4922	lesiones coronarias obstructivas
 casos_clinicos_cardiologia449	DISEASE	4986	5051	estenosis no significativas en descendente anterior y circunfleja
 casos_clinicos_cardiologia449	DISEASE	5325	5341	hábito tabáquico
@@ -4514,6 +4622,7 @@ casos_clinicos_cardiologia451	DISEASE	2752	2791	Severa dilatación de aurícula 
 casos_clinicos_cardiologia451	DISEASE	2804	2822	Esclerosis aórtica
 casos_clinicos_cardiologia451	DISEASE	2976	3070	isquemia arterial aguda por oclusión trombótica a nivel de arteria femoral superficial derecha
 casos_clinicos_cardiologia451	DISEASE	3292	3328	isquemia aguda de toda la extremidad
+casos_clinicos_cardiologia451	DISEASE	3391	3420	disección del trípode femoral
 casos_clinicos_cardiologia451	DISEASE	4317	4354	isquemia arterial en arteria poplítea
 casos_clinicos_cardiologia451	DISEASE	4655	4704	disartria con hemiplejia de extremidades derechas
 casos_clinicos_cardiologia451	DISEASE	4726	4747	sangrado intracraneal
@@ -4524,6 +4633,8 @@ casos_clinicos_cardiologia451	DISEASE	5217	5269	ictus isquémico agudo en territ
 casos_clinicos_cardiologia451	DISEASE	5283	5309	oclusión carotídea ACI-ACM
 casos_clinicos_cardiologia451	DISEASE	5344	5416	trombo flotante a nivel del cayado aórtico distal a la salida de la ACCI
 casos_clinicos_cardiologia451	DISEASE	5418	5483	arteria carótida común izquierda) que ocluye la arteria subclavia
+casos_clinicos_cardiologia451	DISEASE	5662	5677	trombo cervical
+casos_clinicos_cardiologia451	DISEASE	5740	5755	infarto extenso
 casos_clinicos_cardiologia451	DISEASE	5887	5905	hemiplejia derecha
 casos_clinicos_cardiologia451	DISEASE	5947	5964	isquemia arterial
 casos_clinicos_cardiologia451	DISEASE	6403	6446	insuficiencia cardiaca descompensada por FA
@@ -4600,6 +4711,7 @@ casos_clinicos_cardiologia455	DISEASE	410	413	IAM
 casos_clinicos_cardiologia455	DISEASE	429	438	reinfarto
 casos_clinicos_cardiologia455	DISEASE	456	459	IAM
 casos_clinicos_cardiologia455	DISEASE	641	660	lesiones coronarias
+casos_clinicos_cardiologia455	DISEASE	766	784	hernias cervicales
 casos_clinicos_cardiologia455	DISEASE	853	862	DA lesión
 casos_clinicos_cardiologia455	DISEASE	942	957	isquemia septal
 casos_clinicos_cardiologia455	DISEASE	1449	1466	BRIHH transitorio
@@ -4634,6 +4746,7 @@ casos_clinicos_cardiologia459	DISEASE	458	526	cardiopatía isquémica crónica c
 casos_clinicos_cardiologia459	DISEASE	597	613	infarto inferior
 casos_clinicos_cardiologia459	DISEASE	690	746	infarto agudo de miocardio sin elevación del segmento ST
 casos_clinicos_cardiologia459	DISEASE	748	755	IAMSEST
+casos_clinicos_cardiologia459	DISEASE	1145	1161	lesiones de novo
 casos_clinicos_cardiologia459	DISEASE	1189	1251	reestenosis del stent implantado previamente en la Cx proximal
 casos_clinicos_cardiologia459	DISEASE	1304	1330	angina de esfuerzo estable
 casos_clinicos_cardiologia459	DISEASE	1492	1538	afectación metadiabética micro y macrovascular
@@ -4659,6 +4772,7 @@ casos_clinicos_cardiologia459	DISEASE	5191	5230	Isquemia crónica de miembros in
 casos_clinicos_cardiologia459	DISEASE	5232	5245	Pie diabético
 casos_clinicos_cardiologia459	DISEASE	5247	5271	Enfermedad renal crónica
 casos_clinicos_cardiologia459	DISEASE	5273	5277	EPOC
+casos_clinicos_cardiologia459	DISEASE	5312	5316	SAHS
 casos_clinicos_cardiologia459	DISEASE	5327	5362	Diabetes tipo 2 insulinodependiente
 casos_clinicos_cardiologia459	DISEASE	5364	5367	HTA
 casos_clinicos_cardiologia459	DISEASE	5369	5379	Dislipemia
@@ -4956,6 +5070,11 @@ casos_clinicos_cardiologia5	DISEASE	3072	3131	Válvula mitral fina con buena mov
 casos_clinicos_cardiologia5	DISEASE	3183	3230	Válvula aórtica fina trivalva con regurgitación
 casos_clinicos_cardiologia5	DISEASE	3275	3302	Ventrículo derecho dilatado
 casos_clinicos_cardiologia5	DISEASE	3443	3476	Regurgitación tricúspide moderada
+casos_clinicos_cardiologia5	DISEASE	4451	4462	parotiditis
+casos_clinicos_cardiologia5	DISEASE	4464	4471	rubeola
+casos_clinicos_cardiologia5	DISEASE	4473	4482	sarampión
+casos_clinicos_cardiologia5	DISEASE	4505	4521	varicella zoster
+casos_clinicos_cardiologia5	DISEASE	4691	4698	sífilis
 casos_clinicos_cardiologia5	DISEASE	6881	6904	miocardiopatía dilatada
 casos_clinicos_cardiologia5	DISEASE	6922	6952	disfunción biventricular grave
 casos_clinicos_cardiologia5	DISEASE	6968	6982	FA persistente
@@ -5021,6 +5140,7 @@ casos_clinicos_cardiologia506	DISEASE	3803	3822	derrame pericárdico
 casos_clinicos_cardiologia506	DISEASE	3903	3929	derrame pericárdico severo
 casos_clinicos_cardiologia506	DISEASE	4045	4072	derrame pericárdico urémico
 casos_clinicos_cardiologia506	DISEASE	4222	4241	derrame pericárdico
+casos_clinicos_cardiologia506	DISEASE	4289	4304	derrame pleural
 casos_clinicos_cardiologia506	DISEASE	4358	4377	derrame pericárdico
 casos_clinicos_cardiologia506	DISEASE	4802	4818	neoplasia oculta
 casos_clinicos_cardiologia506	DISEASE	4903	4909	anemia
@@ -5087,6 +5207,7 @@ casos_clinicos_cardiologia510	DISEASE	4955	4960	ictus
 casos_clinicos_cardiologia510	DISEASE	4982	5008	transformación hemorrágica
 casos_clinicos_cardiologia510	DISEASE	5073	5078	tumor
 casos_clinicos_cardiologia510	DISEASE	5084	5094	embolismos
+casos_clinicos_cardiologia510	DISEASE	5227	5241	masa auricular
 casos_clinicos_cardiologia510	DISEASE	5461	5467	mixoma
 casos_clinicos_cardiologia510	DISEASE	5483	5516	Ictus isquémico frontal izquierdo
 casos_clinicos_cardiologia510	DISEASE	5518	5543	Microhemorragia petequial
@@ -5229,6 +5350,7 @@ casos_clinicos_cardiologia52	DISEASE	4741	4752	ictus agudo
 casos_clinicos_cardiologia52	DISEASE	4874	4934	oclusión del segmento M1 distal de la arteria cerebral media
 casos_clinicos_cardiologia52	DISEASE	5295	5307	endocarditis
 casos_clinicos_cardiologia52	DISEASE	5913	5950	bloqueo aurículo-ventricular completo
+casos_clinicos_cardiologia52	DISEASE	6403	6410	absceso
 casos_clinicos_cardiologia52	DISEASE	6541	6570	aneurisma de aorta ascendente
 casos_clinicos_cardiologia52	DISEASE	6670	6673	BAV
 casos_clinicos_cardiologia52	DISEASE	6737	6745	abscesos
@@ -5241,11 +5363,13 @@ casos_clinicos_cardiologia522	DISEASE	103	121	angiomas hepáticos
 casos_clinicos_cardiologia522	DISEASE	1019	1079	Derrame pericárdico moderado con vena cava inferior dilatada
 casos_clinicos_cardiologia522	DISEASE	2646	2659	hepatomegalia
 casos_clinicos_cardiologia522	DISEASE	2703	2715	angiomatosis
+casos_clinicos_cardiologia522	DISEASE	2825	2830	tumor
 casos_clinicos_cardiologia522	DISEASE	2832	2903	hemangioma cavernoso intramiocárdico con hiperplasia papilar endotelial
 casos_clinicos_cardiologia522	DISEASE	2967	3011	Adenopatías inguinales linfadenitis reactiva
 casos_clinicos_cardiologia522	DISEASE	3176	3206	tumoración en aurícula derecha
 casos_clinicos_cardiologia522	DISEASE	3312	3318	mixoma
 casos_clinicos_cardiologia522	DISEASE	3328	3335	sarcoma
+casos_clinicos_cardiologia522	DISEASE	3405	3435	tumoración de aurícula derecha
 casos_clinicos_cardiologia522	DISEASE	3587	3607	tumoración auricular
 casos_clinicos_cardiologia522	DISEASE	3956	4016	tumoración formada por canales vasculares interanastomosados
 casos_clinicos_cardiologia522	DISEASE	4065	4105	Tumor vascular de bajo potencial maligno
@@ -5408,9 +5532,11 @@ casos_clinicos_cardiologia528	DISEASE	5333	5348	CIV septoapical
 casos_clinicos_cardiologia528	DISEASE	5353	5381	shunt de izquierda a derecha
 casos_clinicos_cardiologia528	DISEASE	5499	5538	hipertensión pulmonar al menos moderada
 casos_clinicos_cardiologia528	DISEASE	5583	5586	CIV
+casos_clinicos_cardiologia528	DISEASE	5749	5763	defecto septal
 casos_clinicos_cardiologia528	DISEASE	5807	5810	CIV
 casos_clinicos_cardiologia528	DISEASE	6076	6079	IAM
 casos_clinicos_cardiologia528	DISEASE	6094	6110	IAMCEST anterior
+casos_clinicos_cardiologia528	DISEASE	6169	6197	lesión culpable en ADA media
 casos_clinicos_cardiologia528	DISEASE	6234	6249	CIV septoapical
 casos_clinicos_cardiologia529	DISEASE	134	153	deterioro cognitivo
 casos_clinicos_cardiologia529	DISEASE	195	216	hipertensión arterial
@@ -5425,6 +5551,9 @@ casos_clinicos_cardiologia529	DISEASE	1693	1713	traqueobroncomalacia
 casos_clinicos_cardiologia529	DISEASE	2163	2197	septo interauricular aneurismático
 casos_clinicos_cardiologia529	DISEASE	2270	2290	insuficiencia mitral
 casos_clinicos_cardiologia529	DISEASE	2307	2326	derrame pericárdico
+casos_clinicos_cardiologia529	DISEASE	2582	2594	foramen oval
+casos_clinicos_cardiologia529	DISEASE	3001	3013	foramen oval
+casos_clinicos_cardiologia529	DISEASE	3252	3274	foramen oval permeable
 casos_clinicos_cardiologia529	DISEASE	3386	3391	shunt
 casos_clinicos_cardiologia529	DISEASE	3452	3482	Síndrome platipnea-ortodesoxia
 casos_clinicos_cardiologia529	DISEASE	3484	3506	Foramen oval permeable
@@ -5498,6 +5627,7 @@ casos_clinicos_cardiologia530	DISEASE	6418	6432	FA paroxística
 casos_clinicos_cardiologia530	DISEASE	6590	6595	BRIHH
 casos_clinicos_cardiologia530	DISEASE	6598	6628	extrasistolia supraventricular
 casos_clinicos_cardiologia530	DISEASE	6770	6801	lesión/oclusión de bypass de VS
+casos_clinicos_cardiologia530	DISEASE	6886	6894	isquemia
 casos_clinicos_cardiologia530	DISEASE	7066	7074	Hematoma
 casos_clinicos_cardiologia530	DISEASE	7233	7240	infarto
 casos_clinicos_cardiologia530	DISEASE	7282	7315	fibrilación auricular paroxística
@@ -5569,6 +5699,7 @@ casos_clinicos_cardiologia537	DISEASE	243	264	hipertensión arterial
 casos_clinicos_cardiologia537	DISEASE	275	283	Fumadora
 casos_clinicos_cardiologia537	DISEASE	317	352	problemas articulares en ambos MMII
 casos_clinicos_cardiologia537	DISEASE	354	375	Enfermedad de Perthes
+casos_clinicos_cardiologia537	DISEASE	419	438	Fractura de tobillo
 casos_clinicos_cardiologia537	DISEASE	1413	1416	TVP
 casos_clinicos_cardiologia537	DISEASE	1617	1626	disartria
 casos_clinicos_cardiologia537	DISEASE	1652	1667	oftalmoparesias
@@ -5618,6 +5749,7 @@ casos_clinicos_cardiologia539	DISEASE	2345	2371	VD dilatado con disfunción
 casos_clinicos_cardiologia539	DISEASE	2380	2387	IT leve
 casos_clinicos_cardiologia539	DISEASE	2435	2451	disfunción de VD
 casos_clinicos_cardiologia539	DISEASE	2492	2511	derrame pericárdico
+casos_clinicos_cardiologia539	DISEASE	2607	2618	VI dilatado
 casos_clinicos_cardiologia539	DISEASE	2865	2876	AI dilatada
 casos_clinicos_cardiologia539	DISEASE	2878	2911	VD dilatado con función deprimida
 casos_clinicos_cardiologia539	DISEASE	2913	2924	AD dilatada
@@ -5661,6 +5793,7 @@ casos_clinicos_cardiologia54	DISEASE	1416	1421	BRDHH
 casos_clinicos_cardiologia54	DISEASE	2200	2207	síncope
 casos_clinicos_cardiologia54	DISEASE	2211	2221	presíncope
 casos_clinicos_cardiologia54	DISEASE	2877	2880	TVP
+casos_clinicos_cardiologia54	DISEASE	3076	3095	necrosis miocárdico
 casos_clinicos_cardiologia54	DISEASE	3279	3298	bloqueo AV completo
 casos_clinicos_cardiologia54	DISEASE	3303	3318	ritmo de escape
 casos_clinicos_cardiologia54	DISEASE	3329	3334	BRDHH
@@ -5744,6 +5877,7 @@ casos_clinicos_cardiologia544	DISEASE	3741	3771	Ateromas calcificados en aorta
 casos_clinicos_cardiologia544	DISEASE	4115	4147	afectación pulmonar por COVID 19
 casos_clinicos_cardiologia544	DISEASE	4216	4249	granulomas hepáticos calcificados
 casos_clinicos_cardiologia544	DISEASE	4285	4318	tendinitis calcificante en hombro
+casos_clinicos_cardiologia544	DISEASE	4374	4382	COVID 19
 casos_clinicos_cardiologia544	DISEASE	4421	4449	patología aguda intracraneal
 casos_clinicos_cardiologia544	DISEASE	4510	4649	lesiones. Una en la sustancia blanca parietal izquierda. Otra puntiforme en el lado derecho de la protuberancia en la línea media posterior
 casos_clinicos_cardiologia544	DISEASE	4904	4939	lesiones isquémicas aguda/subagudas
@@ -5803,6 +5937,7 @@ casos_clinicos_cardiologia545	DISEASE	3425	3430	TVPNS
 casos_clinicos_cardiologia545	DISEASE	3572	3595	EV de moderada densidad
 casos_clinicos_cardiologia545	DISEASE	3614	3617	BRI
 casos_clinicos_cardiologia545	DISEASE	4361	4374	extrasistolia
+casos_clinicos_cardiologia545	DISEASE	4434	4457	arritmias ventriculares
 casos_clinicos_cardiologia545	DISEASE	4718	4725	síncope
 casos_clinicos_cardiologia545	DISEASE	4912	4920	síncopes
 casos_clinicos_cardiologia545	DISEASE	4962	4985	cardiopatía estructural
@@ -5817,6 +5952,7 @@ casos_clinicos_cardiologia545	DISEASE	6546	6558	canalopatías
 casos_clinicos_cardiologia545	DISEASE	6561	6574	muerte súbita
 casos_clinicos_cardiologia545	DISEASE	6691	6724	taquicardia ventricular polimorfa
 casos_clinicos_cardiologia545	DISEASE	6739	6839	extrasistolia ventricular de acoplamiento corto originados en banda moderadora de ventrículo derecho
+casos_clinicos_cardiologia545	DISEASE	6853	6908	extrasistolia de banda moderadora de ventrículo derecho
 casos_clinicos_cardiologia545	DISEASE	6955	6978	cardiopatía estructural
 casos_clinicos_cardiologia55	DISEASE	118	134	anorexia-bulimia
 casos_clinicos_cardiologia55	DISEASE	185	200	hábitos tóxicos
@@ -5887,6 +6023,7 @@ casos_clinicos_cardiologia552	DISEASE	265	276	hemorroides
 casos_clinicos_cardiologia552	DISEASE	278	289	fisura anal
 casos_clinicos_cardiologia552	DISEASE	1259	1278	bradicardia sinusal
 casos_clinicos_cardiologia552	DISEASE	1514	1519	ángor
+casos_clinicos_cardiologia552	DISEASE	1879	1894	daño miocárdico
 casos_clinicos_cardiologia552	DISEASE	2190	2205	derrame pleural
 casos_clinicos_cardiologia552	DISEASE	2584	2597	valvulopatías
 casos_clinicos_cardiologia552	DISEASE	2683	2702	derrame pericárdico
@@ -5901,7 +6038,9 @@ casos_clinicos_cardiologia552	DISEASE	4272	4289	arterioesclerosis
 casos_clinicos_cardiologia552	DISEASE	4383	4415	hematoma en descendente anterior
 casos_clinicos_cardiologia552	DISEASE	4893	4907	hematoma focal
 casos_clinicos_cardiologia552	DISEASE	5475	5586	disección coronaria espontánea en la arteria descendente anterior media (DAm) y la primera rama obtusa marginal
+casos_clinicos_cardiologia552	DISEASE	5889	5904	daño miocárdico
 casos_clinicos_cardiologia552	DISEASE	6290	6305	disección de DA
+casos_clinicos_cardiologia552	DISEASE	6558	6573	daño miocárdico
 casos_clinicos_cardiologia552	DISEASE	6610	6636	infarto agudo de miocardio
 casos_clinicos_cardiologia552	DISEASE	6941	6978	angina típica con esfuerzos moderados
 casos_clinicos_cardiologia552	DISEASE	7047	7055	hematoma
@@ -5934,6 +6073,7 @@ casos_clinicos_cardiologia553	DISEASE	5592	5613	hipertensión pulmonar
 casos_clinicos_cardiologia553	DISEASE	5615	5618	HTP
 casos_clinicos_cardiologia553	DISEASE	5657	5676	derrame pericárdico
 casos_clinicos_cardiologia553	DISEASE	5955	6042	isquemia miocárdica inducida en territorio de la arteria coronaria descendente anterior
+casos_clinicos_cardiologia553	DISEASE	6253	6277	disfunción microvascular
 casos_clinicos_cardiologia553	DISEASE	6396	6426	disfunción microvascular grave
 casos_clinicos_cardiologia553	DISEASE	6587	6610	alteraciones isquémicas
 casos_clinicos_cardiologia553	DISEASE	6649	6654	ángor
@@ -5971,6 +6111,7 @@ casos_clinicos_cardiologia557	DISEASE	409	424	hábitos tóxicos
 casos_clinicos_cardiologia557	DISEASE	1334	1388	síndrome coronario agudo sin elevación del segmento ST
 casos_clinicos_cardiologia557	DISEASE	1541	1560	necrosis miocárdica
 casos_clinicos_cardiologia557	DISEASE	1621	1666	síndrome coronario agudo sin elevación del ST
+casos_clinicos_cardiologia557	DISEASE	1749	1787	lesión en la arteria circunfleja media
 casos_clinicos_cardiologia557	DISEASE	2073	2116	trastornos de la contractilidad segmentaria
 casos_clinicos_cardiologia557	DISEASE	2923	3002	Árbol coronario izquierdo con lesión significativa en arteria circunfleja media
 casos_clinicos_cardiologia557	DISEASE	3176	3219	trastornos de la contractilidad segmentaria
@@ -6114,6 +6255,7 @@ casos_clinicos_cardiologia564	DISEASE	9818	9844	trombos previos en DA y CD
 casos_clinicos_cardiologia564	DISEASE	9872	9956	placa lipídica en DA media, con fibroateroma de capa fina y rotura intimal muy focal
 casos_clinicos_cardiologia564	DISEASE	10115	10136	lesión de la DA media
 casos_clinicos_cardiologia564	DISEASE	10209	10223	trombo en ápex
+casos_clinicos_cardiologia564	DISEASE	10543	10554	trombofilia
 casos_clinicos_cardiologia564	DISEASE	10631	10647	hábito tabáquico
 casos_clinicos_cardiologia564	DISEASE	10741	10764	infección por SARS-CoV2
 casos_clinicos_cardiologia564	DISEASE	10837	10870	Pericarditis aguda por SARS-CoV-2
@@ -6140,12 +6282,14 @@ casos_clinicos_cardiologia570	DISEASE	2140	2157	miocarditis aguda
 casos_clinicos_cardiologia570	DISEASE	2167	2191	síndrome coronario agudo
 casos_clinicos_cardiologia570	DISEASE	2594	2602	obesidad
 casos_clinicos_cardiologia570	DISEASE	2820	2836	trombosis venosa
+casos_clinicos_cardiologia570	DISEASE	4066	4085	necrosis miocárdica
 casos_clinicos_cardiologia570	DISEASE	4474	4518	Aurícula izquierda (AI) ligeramente dilatada
 casos_clinicos_cardiologia570	DISEASE	4709	4730	hipertensión pulmonar
 casos_clinicos_cardiologia570	DISEASE	4732	4734	HP
 casos_clinicos_cardiologia570	DISEASE	5273	5284	miocarditis
 casos_clinicos_cardiologia570	DISEASE	5481	5522	enfermedad arterial coronaria obstructiva
 casos_clinicos_cardiologia570	DISEASE	5694	5713	derrame pericárdico
+casos_clinicos_cardiologia570	DISEASE	5733	5750	lesión miocárdica
 casos_clinicos_cardiologia570	DISEASE	5899	5906	TP-NOCA
 casos_clinicos_cardiologia570	DISEASE	5939	5960	hipertensión arterial
 casos_clinicos_cardiologia570	DISEASE	5962	5965	HTA
@@ -6306,6 +6450,7 @@ casos_clinicos_cardiologia577	DISEASE	721	733	valvulopatía
 casos_clinicos_cardiologia577	DISEASE	754	757	IAM
 casos_clinicos_cardiologia577	DISEASE	1163	1170	síncope
 casos_clinicos_cardiologia577	DISEASE	1997	2022	trombosis venosa profunda
+casos_clinicos_cardiologia577	DISEASE	2251	2270	necrosis miocárdica
 casos_clinicos_cardiologia577	DISEASE	2804	2819	Hernia de hiato
 casos_clinicos_cardiologia577	DISEASE	2991	3058	Necrosis miocárdica en ápex y segmentos anteroapical y anteroseptal
 casos_clinicos_cardiologia577	DISEASE	3186	3237	oclusión de arteria descendente anterior (DA) media
@@ -6361,6 +6506,7 @@ casos_clinicos_cardiologia578	DISEASE	694	725	consumidor ocasional de cocaína
 casos_clinicos_cardiologia578	DISEASE	752	778	Síndrome coronario crónico
 casos_clinicos_cardiologia578	DISEASE	811	867	infarto agudo de miocardio sin elevación del segmento ST
 casos_clinicos_cardiologia578	DISEASE	869	876	IAMSEST
+casos_clinicos_cardiologia578	DISEASE	907	977	enfermedad coronaria monovaso de arteria descendente anterior proximal
 casos_clinicos_cardiologia578	DISEASE	1137	1144	IAMSEST
 casos_clinicos_cardiologia578	DISEASE	1164	1223	trombosis a nivel de la arteria circunfleja ostial-proximal
 casos_clinicos_cardiologia578	DISEASE	2067	2075	infartos
@@ -6368,6 +6514,7 @@ casos_clinicos_cardiologia578	DISEASE	3605	3677	trombosis muy tardía del stent 
 casos_clinicos_cardiologia578	DISEASE	3938	3951	trombo ostial
 casos_clinicos_cardiologia578	DISEASE	4003	4039	embolización de descendente anterior
 casos_clinicos_cardiologia578	DISEASE	4174	4240	Oclusión por émbolo de descendente posterior distal de circunfleja
+casos_clinicos_cardiologia578	DISEASE	4776	4791	daño miocárdico
 casos_clinicos_cardiologia578	DISEASE	5329	5372	trastornos de la contractilidad segmentaria
 casos_clinicos_cardiologia578	DISEASE	5480	5493	valvulopatías
 casos_clinicos_cardiologia578	DISEASE	5513	5532	derrame pericárdico
@@ -6381,6 +6528,7 @@ casos_clinicos_cardiologia578	DISEASE	6671	6711	trastornos de contractilidad seg
 casos_clinicos_cardiologia578	DISEASE	6832	6859	patología valvular orgánica
 casos_clinicos_cardiologia578	DISEASE	6864	6883	derrame pericárdico
 casos_clinicos_cardiologia578	DISEASE	7028	7053	insuficiencias valvulares
+casos_clinicos_cardiologia578	DISEASE	7219	7234	daño miocárdico
 casos_clinicos_cardiologia578	DISEASE	7631	7722	trombosis a nivel de la zona del ostium de tronco-descendente anterior y tronco-circunfleja
 casos_clinicos_cardiologia578	DISEASE	8670	8688	eventos arrítmicos
 casos_clinicos_cardiologia578	DISEASE	8868	8895	consumo de alcohol y tabaco
@@ -6445,6 +6593,7 @@ casos_clinicos_cardiologia581	DISEASE	2694	2738	trastornos segmentarios de la co
 casos_clinicos_cardiologia581	DISEASE	3141	3154	valvulopatías
 casos_clinicos_cardiologia581	DISEASE	3554	3562	isquemia
 casos_clinicos_cardiologia581	DISEASE	3946	3964	eventos arrítmicos
+casos_clinicos_cardiologia581	DISEASE	4073	4081	isquemia
 casos_clinicos_cardiologia581	DISEASE	4230	4241	Ritmo nodal
 casos_clinicos_cardiologia581	DISEASE	4290	4336	ventrículo izquierdo (VI) ligeramente dilatado
 casos_clinicos_cardiologia581	DISEASE	5439	5447	necrosis
@@ -6521,6 +6670,7 @@ casos_clinicos_cardiologia587	DISEASE	376	389	rechazo agudo
 casos_clinicos_cardiologia587	DISEASE	432	562	Trombosis venosa profunda proximal a nivel de femoral superficial, vena poplítea y ramas profundas y gemelares de miembro inferior
 casos_clinicos_cardiologia587	DISEASE	634	665	Pielonefritis del injerto renal
 casos_clinicos_cardiologia587	DISEASE	1570	1594	derrame pericárdico leve
+casos_clinicos_cardiologia587	DISEASE	1938	1950	tuberculosis
 casos_clinicos_cardiologia587	DISEASE	2724	2737	Hepatomegalia
 casos_clinicos_cardiologia587	DISEASE	2740	2754	esplenomegalia
 casos_clinicos_cardiologia587	DISEASE	2856	2881	trombosis venosa profunda
@@ -6546,6 +6696,7 @@ casos_clinicos_cardiologia587	DISEASE	9503	9527	constricción pericárdica
 casos_clinicos_cardiologia589	DISEASE	67	74	Fumador
 casos_clinicos_cardiologia589	DISEASE	97	153	Insuficiencia mitral grave secundaria a rotura de cuerda
 casos_clinicos_cardiologia589	DISEASE	349	369	lesiones epicárdicas
+casos_clinicos_cardiologia589	DISEASE	413	428	hernia inguinal
 casos_clinicos_cardiologia589	DISEASE	528	532	SAMU
 casos_clinicos_cardiologia589	DISEASE	538	575	parada cardiorrespiratoria recuperada
 casos_clinicos_cardiologia589	DISEASE	832	858	parada cardiorrespiratoria
@@ -6560,6 +6711,7 @@ casos_clinicos_cardiologia589	DISEASE	3290	3304	isquemia aguda
 casos_clinicos_cardiologia589	DISEASE	3462	3522	fracturas no desplazadas de 4 y 5a arcos costales anteriores
 casos_clinicos_cardiologia589	DISEASE	3671	3686	derrame pleural
 casos_clinicos_cardiologia589	DISEASE	3699	3780	válvula mitral con eversión del velo posterior en P2 (flail) por rotura de cuerda
+casos_clinicos_cardiologia589	DISEASE	3937	4002	Ventrículo izquierdo (VI) de diámetros y volúmenes muy aumentados
 casos_clinicos_cardiologia589	DISEASE	4078	4091	valvulopatías
 casos_clinicos_cardiologia589	DISEASE	4108	4139	Aurícula izquierda muy dilatada
 casos_clinicos_cardiologia589	DISEASE	4239	4260	hipertensión pulmonar
@@ -6621,6 +6773,9 @@ casos_clinicos_cardiologia593	DISEASE	1426	1451	trombosis venosa profunda
 casos_clinicos_cardiologia593	DISEASE	2860	2878	esofagitis erosiva
 casos_clinicos_cardiologia593	DISEASE	2903	2928	Leves petequias en fórnix
 casos_clinicos_cardiologia593	DISEASE	2930	2936	Ureasa
+casos_clinicos_cardiologia593	DISEASE	3631	3646	varicela zóster
+casos_clinicos_cardiologia593	DISEASE	3728	3743	varicela zóster
+casos_clinicos_cardiologia593	DISEASE	3778	3790	hepatitis A.
 casos_clinicos_cardiologia593	DISEASE	3952	3960	litiasis
 casos_clinicos_cardiologia593	DISEASE	4140	4155	Quistes renales
 casos_clinicos_cardiologia593	DISEASE	4200	4215	Derrame pleural
@@ -6796,6 +6951,7 @@ casos_clinicos_cardiologia61	DISEASE	203	210	fumador
 casos_clinicos_cardiologia61	DISEASE	211	221	Dislipemia
 casos_clinicos_cardiologia61	DISEASE	1231	1250	isquemia o necrosis
 casos_clinicos_cardiologia61	DISEASE	1255	1267	hipertrofias
+casos_clinicos_cardiologia61	DISEASE	1336	1351	daño miocárdico
 casos_clinicos_cardiologia61	DISEASE	1472	1505	fibrilación auricular paroxístico
 casos_clinicos_cardiologia61	DISEASE	1640	1699	ventrículo izquierdo no dilatado, con abundantes trabéculas
 casos_clinicos_cardiologia61	DISEASE	2364	2385	miocardio no compacto
@@ -6858,6 +7014,7 @@ casos_clinicos_cardiologia69	DISEASE	469	490	cardiopatía isquémica
 casos_clinicos_cardiologia69	DISEASE	699	725	parada cardiorrespiratoria
 casos_clinicos_cardiologia69	DISEASE	1549	1595	oclusión de la arteria circunfleja (CX) ostial
 casos_clinicos_cardiologia69	DISEASE	1693	1762	estenosis severa en el segmento medio de la arteria coronaria derecha
+casos_clinicos_cardiologia69	DISEASE	3647	3666	necrosis miocárdica
 casos_clinicos_cardiologia69	DISEASE	3912	3942	atelectasia en lóbulo superior
 casos_clinicos_cardiologia69	DISEASE	4097	4128	atelectasia del lóbulo superior
 casos_clinicos_cardiologia69	DISEASE	4217	4265	disfunción ventricular izquierda moderada-severa
@@ -6889,6 +7046,7 @@ casos_clinicos_cardiologia7	DISEASE	4501	4517	edema miocárdico
 casos_clinicos_cardiologia7	DISEASE	4613	4640	miocardiopatía infiltrativa
 casos_clinicos_cardiologia7	DISEASE	5500	5519	derrame pericárdico
 casos_clinicos_cardiologia7	DISEASE	5657	5684	miocardiopatía infiltrativa
+casos_clinicos_cardiologia7	DISEASE	5785	5800	daño miocárdico
 casos_clinicos_cardiologia7	DISEASE	5919	5945	infarto agudo de miocardio
 casos_clinicos_cardiologia7	DISEASE	5947	5950	IAM
 casos_clinicos_cardiologia7	DISEASE	5977	6000	emergencia hipertensiva
@@ -6957,6 +7115,7 @@ casos_clinicos_cardiologia74	DISEASE	2054	2073	verruga endocárdica
 casos_clinicos_cardiologia74	DISEASE	2158	2199	comunicación interventricular restrictiva
 casos_clinicos_cardiologia74	DISEASE	2551	2558	verruga
 casos_clinicos_cardiologia74	DISEASE	2812	2822	vegetación
+casos_clinicos_cardiologia74	DISEASE	2987	2997	vegetación
 casos_clinicos_cardiologia74	DISEASE	3131	3169	Endocarditis tricuspídea por S. aureus
 casos_clinicos_cardiologia79	DISEASE	75	83	alergias
 casos_clinicos_cardiologia79	DISEASE	115	136	hipertensión arterial
@@ -6965,6 +7124,7 @@ casos_clinicos_cardiologia79	DISEASE	157	190	fibrilación auricular paroxística
 casos_clinicos_cardiologia79	DISEASE	219	223	gota
 casos_clinicos_cardiologia79	DISEASE	539	546	síncope
 casos_clinicos_cardiologia79	DISEASE	1195	1218	emergencia hipertensiva
+casos_clinicos_cardiologia79	DISEASE	1547	1566	necrosis miocárdica
 casos_clinicos_cardiologia79	DISEASE	1653	1677	síndrome coronario agudo
 casos_clinicos_cardiologia79	DISEASE	1702	1715	cardiomegalia
 casos_clinicos_cardiologia79	DISEASE	1789	1858	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
@@ -6991,6 +7151,7 @@ casos_clinicos_cardiologia79	DISEASE	5459	5496	hematoma intramural en aorta tor�
 casos_clinicos_cardiologia8	DISEASE	32	53	Hipertensión arterial
 casos_clinicos_cardiologia8	DISEASE	55	76	Cardiopatía reumática
 casos_clinicos_cardiologia8	DISEASE	95	115	insuficiencia mitral
+casos_clinicos_cardiologia8	DISEASE	213	240	fibrilación auricular lenta
 casos_clinicos_cardiologia8	DISEASE	332	349	hematoma de bolsa
 casos_clinicos_cardiologia8	DISEASE	920	947	neumonía en lóbulo superior
 casos_clinicos_cardiologia8	DISEASE	1679	1704	trombosis venosa profunda
@@ -7009,6 +7170,7 @@ casos_clinicos_cardiologia8	DISEASE	4086	4122	endocarditis sobre válvula proté
 casos_clinicos_cardiologia8	DISEASE	4259	4274	pseudoaneurisma
 casos_clinicos_cardiologia8	DISEASE	4382	4422	absceso abierto hacia aurícula izquierda
 casos_clinicos_cardiologia8	DISEASE	4554	4579	anillo mitral calcificado
+casos_clinicos_cardiologia8	DISEASE	4641	4648	absceso
 casos_clinicos_cardiologia8	DISEASE	5227	5277	Endocarditis infecciosa por Streptococcus gordinii
 casos_clinicos_cardiologia8	DISEASE	5338	5363	absceso perianular mitral
 casos_clinicos_cardiologia8	DISEASE	5510	5542	infección de bolsa de marcapasos
@@ -7054,6 +7216,7 @@ casos_clinicos_cardiologia80	DISEASE	6037	6060	cardiopatía estructural
 casos_clinicos_cardiologia80	DISEASE	6084	6106	aneurisma posterobasal
 casos_clinicos_cardiologia80	DISEASE	6117	6133	aneurisma apical
 casos_clinicos_cardiologia80	DISEASE	6212	6232	enfermedad de Chagas
+casos_clinicos_cardiologia80	DISEASE	6272	6289	Trypanosoma cruzi
 casos_clinicos_cardiologia80	DISEASE	6430	6450	enfermedad de Chagas
 casos_clinicos_cardiologia80	DISEASE	6830	6832	TV
 casos_clinicos_cardiologia80	DISEASE	7024	7044	enfermedad de Chagas
@@ -7139,6 +7302,9 @@ casos_clinicos_cardiologia88	DISEASE	192	195	DLP
 casos_clinicos_cardiologia88	DISEASE	198	234	síndrome de apnea-hipopnea del sueño
 casos_clinicos_cardiologia88	DISEASE	236	240	SAHS
 casos_clinicos_cardiologia88	DISEASE	268	291	enfermedad diverticular
+casos_clinicos_cardiologia88	DISEASE	327	344	neuroma de Morton
+casos_clinicos_cardiologia88	DISEASE	346	373	hallux valgus de ambos pies
+casos_clinicos_cardiologia88	DISEASE	388	401	pólipo rectal
 casos_clinicos_cardiologia88	DISEASE	818	840	insuficiencia cardiaca
 casos_clinicos_cardiologia88	DISEASE	1627	1640	cardiomegalia
 casos_clinicos_cardiologia88	DISEASE	1658	1677	derrame pericárdico
@@ -7171,6 +7337,7 @@ casos_clinicos_cardiologia88	DISEASE	4993	5010	timomas ectópicos
 casos_clinicos_cardiologia88	DISEASE	5092	5121	linfoma linfoblástico tipo T.
 casos_clinicos_cardiologia88	DISEASE	5206	5212	timoma
 casos_clinicos_cardiologia88	DISEASE	5254	5273	derrame pericárdico
+casos_clinicos_cardiologia88	DISEASE	5613	5632	derrame pericárdico
 casos_clinicos_cardiologia88	DISEASE	6025	6064	neoplasia maligna de origen pericárdico
 casos_clinicos_cardiologia88	DISEASE	6080	6099	derrame pericárdico
 casos_clinicos_cardiologia88	DISEASE	6102	6127	derrame pleural bilateral
@@ -7183,6 +7350,7 @@ casos_clinicos_cardiologia88	DISEASE	6999	7016	timomas ectópicos
 casos_clinicos_cardiologia88	DISEASE	7052	7081	linfoma linfoblástico tipo T.
 casos_clinicos_cardiologia88	DISEASE	7100	7106	timoma
 casos_clinicos_cardiologia88	DISEASE	7166	7182	miastenia gravis
+casos_clinicos_cardiologia88	DISEASE	7290	7295	tumor
 casos_clinicos_cardiologia88	DISEASE	7420	7432	masa tumoral
 casos_clinicos_cardiologia88	DISEASE	7768	7810	Timoma invasivo con afectación pericárdica
 casos_clinicos_cardiologia88	DISEASE	7825	7851	derrame pericárdico severo
@@ -7309,6 +7477,7 @@ casos_clinicos_cardiologia93	DISEASE	3152	3169	patología aórtica
 casos_clinicos_cardiologia93	DISEASE	3174	3206	malformaciones cerebrovasculares
 casos_clinicos_cardiologia93	DISEASE	3285	3323	aneurisma en la arteria cerebral media
 casos_clinicos_cardiologia93	DISEASE	3657	3675	aneurisma cerebral
+casos_clinicos_cardiologia93	DISEASE	3729	3748	coartación de aorta
 casos_clinicos_cardiologia93	DISEASE	3851	3897	Coartación de aorta en AO torácica descendente
 casos_clinicos_cardiologia93	DISEASE	3898	3959	"Aneurisma intracraneal en arteria cerebral media 
 
@@ -7323,6 +7492,7 @@ casos_clinicos_cardiologia97	DISEASE	145	154	exfumador
 casos_clinicos_cardiologia97	DISEASE	650	691	parada cardiorrespiratoria en ritmo de FV
 casos_clinicos_cardiologia97	DISEASE	839	865	insuficiencia respiratoria
 casos_clinicos_cardiologia97	DISEASE	1008	1027	bloqueo AV completo
+casos_clinicos_cardiologia97	DISEASE	2259	2276	lesión miocárdica
 casos_clinicos_cardiologia97	DISEASE	2884	2897	valvulopatías
 casos_clinicos_cardiologia97	DISEASE	3242	3276	ADA con irregularidades parietales
 casos_clinicos_cardiologia97	DISEASE	3307	3326	Cx hipodesarrollada
