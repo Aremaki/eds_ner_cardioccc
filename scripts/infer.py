@@ -18,6 +18,8 @@ def infer(
     input_path: str,
     output_path: str,
     model_path: str,
+    batch_size: str = "32 docs",
+    show_progress: bool = True,
 ):
     """
     Run inference on a corpus of notes stored in BRAT format.
@@ -39,42 +41,39 @@ def infer(
 
     logging.info("Model loading started")
     nlp = edsnlp.load(f"{model_path}/model-last")
-    # Do anything to the model here
     logging.info("Model loading done")
 
     print(f"Job started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     tic = time.time()
 
     # Read BRAT input
-    docs = list(edsnlp.data.read_standoff(input_path))  # type: ignore
+    docs = edsnlp.data.read_standoff(input_path)  # type: ignore
 
-    # Apply the model
-    docs = [nlp(doc) for doc in docs]
+    # Apply the model lazily
+    docs = docs.map_pipeline(nlp)
 
-    def convert_ents_to_rows(doc):
-        return [
-            {
-                "filename": doc._.note_id,
-                "label": ent.label_,
-                "start_span": ent.start_char,
-                "end_span": ent.end_char,
-                "text": ent.text,
-            }
-            for ent in doc.ents
-        ]
+    # Configure multiprocessing with automatic resource detection
+    docs = docs.set_processing(
+        backend="multiprocessing",
+        batch_size=batch_size,
+        show_progress=show_progress,
+        # You can set num_cpu_workers and num_gpu_workers here,
+        # otherwise they are auto-detected
+    )
 
     # Collect and convert after processing
     rows_by_label = defaultdict(list)
 
     for doc in docs:  # iterate over processed docs
-        for ent in doc.ents:
-            rows_by_label[ent.label_].append({
-                "filename": doc._.note_id,
-                "label": ent.label_,
-                "start_span": ent.start_char,
-                "end_span": ent.end_char,
-                "text": ent.text,
-            })
+        for label in ["DISEASE", "MEDICATION", "PROCEDURE", "SYMPTOM"]:
+            for ent in doc.spans[label]:
+                rows_by_label[label].append({
+                    "filename": doc._.note_id,
+                    "label": label,
+                    "start_span": ent.start_char,
+                    "end_span": ent.end_char,
+                    "text": ent.text,
+                })
 
     # Write one CSV per label
     for label, rows in rows_by_label.items():
@@ -92,7 +91,7 @@ def infer(
         f"NER Prediction is saved in BRAT format in the following folder: {output_path}"
     )
     tac = time.time()
-    print(f"Processed {len(docs)} docs in {tac - tic} secondes")
+    print(f"Processed {len(list(docs))} docs in {tac - tic} secondes")
 
 
 if __name__ == "__main__":

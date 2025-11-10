@@ -143,6 +143,8 @@ infer:
   input_path: ${ vars.test }
   output_path: './data/results/ner_cardioccc_bert_es'
   model_path: ${ train.output_dir }
+  batch_size: "32 docs"
+  show_progress: false
 
 # 📦 PACKAGE SCRIPT OPTIONS
 # -> python -m edsnlp.package --config configs/config.yml
