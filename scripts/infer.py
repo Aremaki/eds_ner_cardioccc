@@ -6,6 +6,7 @@ from pathlib import Path
 
 import confit
 import edsnlp
+import edsnlp.pipes as eds
 import pandas as pd
 from edsnlp.core.registries import registry
 
@@ -42,7 +43,6 @@ def infer(
     logging.info("Model loading started")
     nlp = edsnlp.load(f"{model_path}/model-last")
     # Do anything to the model here
-    print(nlp)
     logging.info("Model loading done")
 
     print(f"Job started: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -50,6 +50,9 @@ def infer(
 
     # Read BRAT input
     docs = edsnlp.data.read_standoff(input_path)  # type: ignore
+
+    # Split doc
+    docs = docs.map(eds.split(max_length=2000, regex="\n\n+"))
 
     # Apply the model lazily
     docs = docs.map_pipeline(nlp)
