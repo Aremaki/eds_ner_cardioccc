@@ -3,6 +3,7 @@
 vars:
   train: './data/cardioccc/train'
   dev: './data/cardioccc/test'
+  test: './data/cardioccc/test_pred'
   base_model: '/data/scratch/cse200093/word-embedding/xlm-roberta-large'
 
 # 🤖 PIPELINE DEFINITION
@@ -139,7 +140,7 @@ train:
 # 🚀 INFER SCRIPT OPTIONS
 # -> python -m edsnlp.infer --config configs/config.yml
 infer:
-  input_path: ${ vars.dev }
+  input_path: ${ vars.test }
   output_path: './data/results/ner_cardioccc_xlm_roberta'
   model_path: ${ train.output_dir }
   batch_size: "32 docs"

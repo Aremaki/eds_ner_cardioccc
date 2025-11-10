@@ -48,12 +48,7 @@ def infer(
     tic = time.time()
 
     # Read BRAT input
-    docs = list(edsnlp.data.read_standoff(input_path))  # type: ignore
-
-    # Remove annotations
-    for doc in docs:
-        doc.ents = []
-        doc.spans.clear()
+    docs = edsnlp.data.read_standoff(input_path)  # type: ignore
 
     # Apply the model lazily
     docs = docs.map_pipeline(nlp)
@@ -107,7 +102,7 @@ def infer(
         f"NER Prediction is saved in BRAT format in the following folder: {output_path}"
     )
     tac = time.time()
-    print(f"Processed {len(docs)} docs in {tac - tic} secondes")
+    print(f"Processed {len(list(docs))} docs in {tac - tic} secondes")
 
 
 if __name__ == "__main__":
