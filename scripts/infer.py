@@ -61,11 +61,15 @@ def infer(
         # otherwise they are auto-detected
     )
 
+    docs = list(docs)
+
     # Collect and convert after processing
     rows_by_label = defaultdict(list)
 
     for doc in docs:  # iterate over processed docs
         for label in ["DISEASE", "MEDICATION", "PROCEDURE", "SYMPTOM"]:
+            if label not in doc.spans:
+                continue
             for ent in doc.spans[label]:
                 rows_by_label[label].append({
                     "filename": doc._.note_id,
@@ -91,7 +95,7 @@ def infer(
         f"NER Prediction is saved in BRAT format in the following folder: {output_path}"
     )
     tac = time.time()
-    print(f"Processed {len(list(docs))} docs in {tac - tic} secondes")
+    print(f"Processed {len(docs)} docs in {tac - tic} secondes")
 
 
 if __name__ == "__main__":
