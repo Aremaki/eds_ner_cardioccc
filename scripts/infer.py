@@ -1,21 +1,24 @@
 import logging
 import time
+from collections import defaultdict
 from datetime import datetime
 
 import confit
 import edsnlp
+import pandas as pd
+from edsnlp.core.registries import registry
 
 app = confit.Cli()
 
 
-@app.command("inference")
+@app.command("infer", registry=registry)
 def infer(
     *,
     input_path: str,
     output_path: str,
     model_path: str,
     batch_size: str = "32 docs",
-    show_progress: bool = False,
+    show_progress: bool = True,
 ):
     """
     Run inference on a corpus of notes stored in BRAT format.
@@ -36,7 +39,7 @@ def infer(
     """
 
     logging.info("Model loading started")
-    nlp = edsnlp.load(model_path)
+    nlp = edsnlp.load(f"{model_path}/model-last")
     # Do anything to the model here
     print(nlp)
     logging.info("Model loading done")
@@ -45,7 +48,12 @@ def infer(
     tic = time.time()
 
     # Read BRAT input
-    docs = edsnlp.data.read_standoff(input_path)  # type: ignore
+    docs = list(edsnlp.data.read_standoff(input_path))  # type: ignore
+
+    # Remove annotations
+    for doc in docs:
+        doc.ents = []
+        doc.spans.clear()
 
     # Apply the model lazily
     docs = docs.map_pipeline(nlp)
@@ -59,9 +67,39 @@ def infer(
         # otherwise they are auto-detected
     )
 
+    def convert_ents_to_rows(doc):
+        return [
+            {
+                "filename": doc._.note_id,
+                "label": ent.label_,
+                "start_span": ent.start_char,
+                "end_span": ent.end_char,
+                "text": ent.text,
+            }
+            for ent in doc.ents
+        ]
+
+    # Collect and convert after processing
+    rows_by_label = defaultdict(list)
+
+    for doc in docs:  # iterate over processed docs
+        for ent in doc.ents:
+            rows_by_label[ent.label_].append({
+                "filename": doc._.note_id,
+                "label": ent.label_,
+                "start_span": ent.start_char,
+                "end_span": ent.end_char,
+                "text": ent.text,
+            })
+
+    # Write one CSV per label
+    for label, rows in rows_by_label.items():
+        out_path = f"{output_path}/results_tsv/{label}.tsv"
+        pd.DataFrame(rows).to_csv(out_path, sep="\t", index=False)
+
     edsnlp.data.write_standoff(  # type: ignore
         docs,
-        output_path,
+        f"{output_path}/results_brat",
         overwrite=True,
         span_getter=["*"],
     )

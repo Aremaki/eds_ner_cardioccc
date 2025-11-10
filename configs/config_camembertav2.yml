@@ -3,7 +3,7 @@
 vars:
   train: './data/cardioccc/train'
   dev: './data/cardioccc/test'
-  base_model: './models/bsc-bio-ehr-es'
+  base_model: '/data/scratch/cse200093/word-embedding/camembertav2-base'
 
 # 🤖 PIPELINE DEFINITION
 nlp:
@@ -122,7 +122,7 @@ loggers:
 train:
   nlp: ${ nlp }
   seed: 42
-  output_dir: './models/ner_cardioccc_run1'
+  output_dir: './models/ner_cardioccc_camembertav2'
   train_data: ${ train_data }
   val_data: ${ val_data }
   max_steps: 2000
@@ -135,6 +135,15 @@ train:
   num_workers: 1
   # Enable on Mac OS X or if you don't want to use available GPUs
   # cpu: true
+
+# 🚀 INFER SCRIPT OPTIONS
+# -> python -m edsnlp.infer --config configs/config.yml
+infer:
+  input_path: ${ vars.dev }
+  output_path: './data/results/ner_cardioccc_camembertav2'
+  model_path: ${ train.output_dir }
+  batch_size: "32 docs"
+  show_progress: false
 
 # 📦 PACKAGE SCRIPT OPTIONS
 # -> python -m edsnlp.package --config configs/config.yml

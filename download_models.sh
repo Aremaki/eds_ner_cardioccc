@@ -6,13 +6,15 @@ set -e  # Exit immediately if a command fails
 # ============================
 
 # Directory where models will be stored
-MODEL_DIR="./models"
+MODEL_DIR="/data/scratch/cse200093/word-embedding"
 
 # List of models to download (add as many as you want)
 MODELS=(
   "dccuchile/bert-base-spanish-wwm-cased"
   "PlanTL-GOB-ES/bsc-bio-ehr-es"
   "DT4H/CardioBERTa.es"
+  "FacebookAI/xlm-roberta-large"
+  "almanach/camembertav2-base"
 )
 
 # ============================

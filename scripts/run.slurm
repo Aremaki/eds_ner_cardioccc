@@ -13,12 +13,23 @@ cd "/export/home/cse200093/Adam/eds_ner_cardioccc"
 source "/export/home/cse200093/Adam/eds_ner_cardioccc/.venv/bin/activate"
 conda deactivate
 
+CONFIGS=(
+    "configs/config_bert_es.yml"
+    "configs/config_bsc_ehr.yml"
+    "configs/config_camembertav2.yml"
+    "configs/config_cardioberta.yml"
+    "configs/config_xlm_roberta.yml"
+)
+
 echo -----------------
 echo TRAINING
 echo -----------------
 start_time="$(date -u +%s)"
 
-python -m edsnlp.train --config configs/config_v1.yml
+for config in "${CONFIGS[@]}"; do
+    echo "Running for config $config"
+    python -m edsnlp.train --config "$config"
+done
 
 end_time="$(date -u +%s)"
 elapsed="$(($end_time-$start_time))"
@@ -31,12 +42,10 @@ echo INFERENCE
 echo -----------------
 start_time="$(date -u +%s)"
 
-python -u scripts/infer.py \
-  --input_path "data/cardioccc/test" \
-  --output_path "data/cardioccc/pred" \
-  --model_path "models/ner_cardioccc_run1" \
-  --batch_size "10000 words" \
-  --show_progress
+for config in "${CONFIGS[@]}"; do
+    echo "Running for config $config"
+    python scripts/infer.py --config "$config"
+done
 
 end_time="$(date -u +%s)"
 elapsed="$(($end_time-$start_time))"

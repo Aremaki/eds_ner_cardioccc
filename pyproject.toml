@@ -6,17 +6,20 @@ authors = [
     { name="Adam Remaki", email="ad.remaki@gmail.com" }
 ]
 readme = "README.md"
-requires-python = ">3.7.1,<4.0"
+requires-python = ">=3.9.1,<4.0"
 
 dependencies = [
     "edsnlp[ml]>=0.16.0",
+    "torch==2.6.0",
     "sentencepiece>=0.1.96",
     "pandas>=1.1.0,<2.0.0; python_version < '3.8'",
     "pandas>=1.4.0,<2.0.0; python_version >= '3.8'",
     "accelerate>=0.21.0; python_version >= '3.8'",
     "setuptools<60.0.0",
     "thinc>=8.2.0",
-    "huggingface-hub>=0.13.4"
+    "huggingface-hub>=0.13.4",
+    "numpy<2",
+    "pyarrow<13",
 ]
 
 [dependency-groups]
