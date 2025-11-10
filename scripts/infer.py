@@ -6,7 +6,6 @@ from pathlib import Path
 
 import confit
 import edsnlp
-import edsnlp.pipes as eds
 import pandas as pd
 from edsnlp.core.registries import registry
 
@@ -19,8 +18,6 @@ def infer(
     input_path: str,
     output_path: str,
     model_path: str,
-    batch_size: str = "32 docs",
-    show_progress: bool = True,
 ):
     """
     Run inference on a corpus of notes stored in BRAT format.
@@ -49,22 +46,10 @@ def infer(
     tic = time.time()
 
     # Read BRAT input
-    docs = edsnlp.data.read_standoff(input_path)  # type: ignore
+    docs = list(edsnlp.data.read_standoff(input_path))  # type: ignore
 
-    # Split doc
-    docs = docs.map(eds.split(max_length=2000, regex="\n\n+"))
-
-    # Apply the model lazily
-    docs = docs.map_pipeline(nlp)
-
-    # Configure multiprocessing with automatic resource detection
-    docs = docs.set_processing(
-        backend="multiprocessing",
-        batch_size=batch_size,
-        show_progress=show_progress,
-        # You can set num_cpu_workers and num_gpu_workers here,
-        # otherwise they are auto-detected
-    )
+    # Apply the model
+    docs = [nlp(doc) for doc in docs]
 
     def convert_ents_to_rows(doc):
         return [
@@ -107,7 +92,7 @@ def infer(
         f"NER Prediction is saved in BRAT format in the following folder: {output_path}"
     )
     tac = time.time()
-    print(f"Processed {len(list(docs))} docs in {tac - tic} secondes")
+    print(f"Processed {len(docs)} docs in {tac - tic} secondes")
 
 
 if __name__ == "__main__":
