@@ -2,6 +2,7 @@ import logging
 import time
 from collections import defaultdict
 from datetime import datetime
+from pathlib import Path
 
 import confit
 import edsnlp
@@ -89,12 +90,13 @@ def infer(
 
     # Write one CSV per label
     for label, rows in rows_by_label.items():
-        out_path = f"{output_path}/results_tsv/{label}.tsv"
-        pd.DataFrame(rows).to_csv(out_path, sep="\t", index=False)
+        out_dir = Path(output_path) / "results_tsv"
+        out_dir.mkdir(parents=True, exist_ok=True)  # <-- ensure folder exists
+        pd.DataFrame(rows).to_csv(out_dir / f"{label}.tsv", sep="\t", index=False)
 
     edsnlp.data.write_standoff(  # type: ignore
         docs,
-        f"{output_path}/results_brat",
+        Path(output_path) / "results_brat",
         overwrite=True,
         span_getter=["*"],
     )
