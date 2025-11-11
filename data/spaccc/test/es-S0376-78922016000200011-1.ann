@@ -1,0 +1,50 @@
+T1	ENFERMEDAD 3018 3025	linfoma
+T2	ENFERMEDAD 1405 1421	mastitis crónica
+T3	ENFERMEDAD 989 1000	galactorrea
+T4	ENFERMEDAD 1112 1144	líquido periprotésico en la mama
+T5	ENFERMEDAD 1700 1716	carcinoma ductal
+T6	PROCEDIMIENTO 1019 1037	estudios de imagen
+T7	PROCEDIMIENTO 1047 1067	resonancia magnética
+T8	PROCEDIMIENTO 1069 1071	RM
+T9	PROCEDIMIENTO 112 132	incisión periareolar
+T10	PROCEDIMIENTO 1197 1227	punción guiada por ultrasonido
+T11	PROCEDIMIENTO 134 158	disección transglandular
+T12	PROCEDIMIENTO 1371 1389	estudio citológico
+T13	PROCEDIMIENTO 1451 1458	cultivo
+T14	PROCEDIMIENTO 1571 1580	punciones
+T15	PROCEDIMIENTO 160 179	bolsillo subfascial
+T16	PROCEDIMIENTO 1606 1613	punción
+T17	PROCEDIMIENTO 1774 1796	imagen por ultrasonido
+T18	PROCEDIMIENTO 1799 1801	RM
+T19	PROCEDIMIENTO 181 243	colocación de implantes anatómicos de gel cohesivo texturizado
+T20	PROCEDIMIENTO 1880 1920	retirada del implante, con capsulectomía
+T21	PROCEDIMIENTO 1923 1983	revisión del tejido mamario mediante biopsia transoperatoria
+T22	PROCEDIMIENTO 2058 2129	revisó la glándula mamaria y tomó muestras de los diferentes cuadrantes
+T23	PROCEDIMIENTO 2134 2157	estudio transoperatorio
+T24	PROCEDIMIENTO 2290 2339	líquido periprotésico evacuado durante la cirugía
+T25	PROCEDIMIENTO 2388 2406	estudio citológico
+T26	PROCEDIMIENTO 2449 2537	elaboración de bloque celular y procesado con técnica de histológica e inmunohistoquimia
+T27	PROCEDIMIENTO 2866 2902	tomografía por emisión de positrones
+T28	PROCEDIMIENTO 2904 2907	PET
+T29	PROCEDIMIENTO 2963 2984	estudios de estadiaje
+T30	PROCEDIMIENTO 3107 3142	retirada del implante contralateral
+T31	PROCEDIMIENTO 332 344	intervención
+T32	PROCEDIMIENTO 367 382	abdominoplastia
+T33	PROCEDIMIENTO 385 426	liposucción de la zona baja de la espalda
+T34	PROCEDIMIENTO 428 461	Se colocaron drenajes aspirativos
+T35	PROCEDIMIENTO 500 512	intervención
+T36	PROCEDIMIENTO 61 83	mamoplastia de aumento
+T37	PROCEDIMIENTO 689 720	antinflamatorios no esteroideos
+T38	PROCEDIMIENTO 876 888	intervención
+T39	SINTOMA 3184 3196	asintomática
+T40	SINTOMA 1451 1467	cultivo negativo
+T41	SINTOMA 1816 1850	anomalías en el parénquima mamario
+T42	SINTOMA 1485 1513	aumento paulatino de la mama
+T43	SINTOMA 989 1000	galactorrea
+T44	SINTOMA 1112 1144	líquido periprotésico en la mama
+T45	SINTOMA 2290 2381	líquido periprotésico evacuado durante la cirugía resultó positivo para células neoplásicas
+T46	SINTOMA 1249 1264	material seroso
+T47	SINTOMA 929 957	molestias y edema en la mama
+T48	SINTOMA 635 663	molestias y edema en la mama
+T49	SINTOMA 2681 2704	negativo para CKAE1/AE3
+T50	SINTOMA 2185 2273	tejido mamario enviado como de la cápsula periprotésica resultó negativo para malignidad

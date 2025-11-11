@@ -1,0 +1,63 @@
+T1	ENFERMEDAD 688 698	varicocele
+T2	ENFERMEDAD 1086 1102	metástasis óseas
+T3	ENFERMEDAD 2764 2825	recidiva abdominal y retroperitoneal de sarcoma de alto grado
+T4	ENFERMEDAD 80 90	varicocele
+T5	ENFERMEDAD 2135 2182	recidiva local extensa, una masa en celda renal
+T6	ENFERMEDAD 1717 1743	sarcoma fibromixoide renal
+T7	ENFERMEDAD 2385 2465	infiltraba bazo, la cola de páncreas, la curvatura mayor gástrica y el diafragma
+T8	ENFERMEDAD 2842 2854	fibrosarcoma
+T9	ENFERMEDAD 1571 1583	masa tumoral
+T10	PROCEDIMIENTO 1054 1070	gammagrafía ósea
+T11	PROCEDIMIENTO 1109 1142	punción-aspiración con aguja fina
+T12	PROCEDIMIENTO 1194 1207	arteriografía
+T13	PROCEDIMIENTO 125 134	patología
+T14	PROCEDIMIENTO 1337 1356	nefrectomía radical
+T15	PROCEDIMIENTO 1361 1373	intervención
+T16	PROCEDIMIENTO 1491 1498	cirugía
+T17	PROCEDIMIENTO 1514 1533	anatomía patológica
+T18	PROCEDIMIENTO 1665 1689	descripción microscópica
+T19	PROCEDIMIENTO 1999 2011	intervención
+T20	PROCEDIMIENTO 2013 2038	analíticas sangre y orina
+T21	PROCEDIMIENTO 2040 2058	TC toracoabdominal
+T22	PROCEDIMIENTO 2112 2130	TC toracoabdominal
+T23	PROCEDIMIENTO 2340 2347	cirugía
+T24	PROCEDIMIENTO 2493 2553	resección de la tumoración, incluyendo el diafragma afectado
+T25	PROCEDIMIENTO 2559 2603	gastrectomía vertical hasta el ángulo de His
+T26	PROCEDIMIENTO 2609 2622	esplenectomía
+T27	PROCEDIMIENTO 2627 2660	resección de la cola del páncreas
+T28	PROCEDIMIENTO 2667 2698	colectomía del ángulo esplénico
+T29	PROCEDIMIENTO 2714 2732	anatomía patología
+T30	PROCEDIMIENTO 2940 2993	quimioterapia (6 ciclos-adriamicina/ifosfamida/mesna)
+T31	PROCEDIMIENTO 2996 3008	radioterapia
+T32	PROCEDIMIENTO 3053 3055	TC
+T33	PROCEDIMIENTO 3160 3172	TC abdominal
+T34	PROCEDIMIENTO 3193 3219	tratamiento quimioterápico
+T35	PROCEDIMIENTO 443 461	exploración física
+T36	PROCEDIMIENTO 503 525	pruebas de laboratorio
+T37	PROCEDIMIENTO 527 557	análisis sistemático de sangre
+T38	PROCEDIMIENTO 559 590	bioquímica de sangre y de orina
+T39	PROCEDIMIENTO 592 603	coagulación
+T40	PROCEDIMIENTO 644 664	ecografía testicular
+T41	PROCEDIMIENTO 713 732	ecografía abdominal
+T42	PROCEDIMIENTO 737 757	resonancia magnética
+T43	PROCEDIMIENTO 763 808	tomografía computarizada (TC) toracoabdominal
+T44	PROCEDIMIENTO 789 791	TC
+T45	SINTOMA 364 371	astenia
+T46	SINTOMA 347 362	dolor abdominal
+T47	SINTOMA 3250 3258	falleció
+T48	SINTOMA 405 414	hematuria
+T49	SINTOMA 483 497	masa abdominal
+T50	SINTOMA 374 389	pérdida de peso
+T51	SINTOMA 418 436	síndrome miccional
+T52	SINTOMA 2509 2519	tumoración
+T53	SINTOMA 2012 2072	(analíticas sangre y orina, TC toracoabdominal) son normales
+T54	SINTOMA 527 639	análisis sistemático de sangre, bioquímica de sangre y de orina, coagulación) estuvieron dentro de la normalidad
+T55	SINTOMA 1225 1272	desplazamiento y rotación de la aorta abdominal
+T56	SINTOMA 157 182	masa dependiente de riñón
+T57	SINTOMA 2163 2182	masa en celda renal
+T58	SINTOMA 825 841	masa en el riñón
+T59	SINTOMA 1109 1160	punción-aspiración con aguja fina (células atípicas
+T60	SINTOMA 1015 1019	T2N0
+T61	SINTOMA 3053 3090	TC de control dentro de la normalidad
+T62	SINTOMA 2356 2465	tumoración multiloculada que infiltraba bazo, la cola de páncreas, la curvatura mayor gástrica y el diafragma
+T63	SINTOMA 255 294	vena renal izquierda y cava desplazadas

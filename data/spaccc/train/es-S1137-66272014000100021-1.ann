@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 2555 2571	hábito tabáquico
+T2	ENFERMEDAD 1011 1022	adenopatías
+T3	ENFERMEDAD 1026 1037	acropaquias
+T4	ENFERMEDAD 2448 2475	histiocitosis de Langerhans
+T5	ENFERMEDAD 161 178	alérgico al polen
+T6	ENFERMEDAD 1539 1567	lesiones cavitadas-quísticas
+T7	ENFERMEDAD 878 890	tuberculosos
+T8	ENFERMEDAD 132 155	alergias medicamentosas
+T9	PROCEDIMIENTO 101 121	radiológica de tórax
+T10	PROCEDIMIENTO 1042 1069	auscultación cardiopulmonar
+T11	PROCEDIMIENTO 1085 1110	radiografía (Rx) de tórax
+T12	PROCEDIMIENTO 1245 1263	análisis de sangre
+T13	PROCEDIMIENTO 1323 1336	autoinmunidad
+T14	PROCEDIMIENTO 1339 1349	serologías
+T15	PROCEDIMIENTO 1361 1392	pruebas de función respiratoria
+T16	PROCEDIMIENTO 1394 1397	PFR
+T17	PROCEDIMIENTO 1424 1431	Mantoux
+T18	PROCEDIMIENTO 1442 1480	tomografía computarizada (TC) de tórax
+T19	PROCEDIMIENTO 1468 1470	TC
+T20	PROCEDIMIENTO 1734 1746	broncoscopia
+T21	PROCEDIMIENTO 1818 1897	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico
+T22	PROCEDIMIENTO 1818 1911	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia
+T23	PROCEDIMIENTO 1818 1945	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia y de subpoblaciones linfocitarias
+T24	PROCEDIMIENTO 1975 2063	broncoaspirados de secreciones (BAS) para hongos, Pneumocystis, cultivo y bacilo de Koch
+T25	PROCEDIMIENTO 2007 2010	BAS
+T26	PROCEDIMIENTO 2115 2151	anatomopatológico del broncoaspirado
+T27	PROCEDIMIENTO 2240 2258	inmunohistoquímica
+T28	PROCEDIMIENTO 2335 2400	biopsia del lóbulo pulmonar superior derecho mediante toracotomía
+T29	PROCEDIMIENTO 2405 2424	anatomía patológica
+T30	PROCEDIMIENTO 2690 2701	Rx de tórax
+T31	PROCEDIMIENTO 602 619	broncodilatadores
+T32	PROCEDIMIENTO 897 915	exploración física
+T33	SINTOMA 1245 1312	análisis de sangre con todos los parámetros dentro de la normalidad
+T34	SINTOMA 1323 1359	autoinmunidad y serologías negativas
+T35	SINTOMA 522 542	expectoración blanca
+T36	SINTOMA 1424 1440	Mantoux negativo
+T37	SINTOMA 1123 1156	patrón intersticial lineal difuso
+T38	SINTOMA 681 706	perdido unos 5 Kg de peso
+T39	SINTOMA 1361 1422	pruebas de función respiratoria (PFR) dentro de la normalidad
+T40	SINTOMA 637 673	sensación disneica con los esfuerzos
+T41	SINTOMA 562 573	sibilancias
+T42	SINTOMA 444 483	tos de predominio vespertino y nocturno
+T43	SINTOMA 948 956	eupneico
+T44	SINTOMA 716 723	astenia
+T45	SINTOMA 2636 2648	asintomático
+T46	SINTOMA 1042 1080	auscultación cardiopulmonar era normal
+T47	SINTOMA 2727 2746	patrón intersticial
+T48	SINTOMA 927 946	buen estado general

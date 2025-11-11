@@ -1,0 +1,50 @@
+T1	ENFERMEDAD 24 27	HTA
+T2	ENFERMEDAD 2214 2242	HTA secundaria a tumor renal
+T3	ENFERMEDAD 783 786	HTA
+T4	ENFERMEDAD 2332 2335	HTA
+T5	ENFERMEDAD 159 172	hipopotasemia
+T6	ENFERMEDAD 193 207	HTA secundaria
+T7	ENFERMEDAD 925 938	hipopotasemia
+T8	ENFERMEDAD 1726 1737	hipokalemia
+T9	ENFERMEDAD 1340 1355	aborto retenido
+T10	ENFERMEDAD 3641 3675	tumor de células yuxtaglomerulares
+T11	ENFERMEDAD 1143 1157	angiomiolipoma
+T12	ENFERMEDAD 3677 3680	TCY
+T13	ENFERMEDAD 2672 2686	lesión tumoral
+T14	ENFERMEDAD 2554 2559	tumor
+T15	PROCEDIMIENTO 1000 1015	ecografía renal
+T16	PROCEDIMIENTO 1112 1127	ecográficamente
+T17	PROCEDIMIENTO 1370 1385	legrado uterino
+T18	PROCEDIMIENTO 1816 1831	ecografía renal
+T19	PROCEDIMIENTO 1885 1931	tomografía computarizada abdominal contrastada
+T20	PROCEDIMIENTO 2104 2131	Doppler de arterias renales
+T21	PROCEDIMIENTO 2137 2151	ecocardiograma
+T22	PROCEDIMIENTO 2379 2400	nefrectomía del riñón
+T23	PROCEDIMIENTO 248 263	ecografía renal
+T24	PROCEDIMIENTO 2526 2543	examen patológico
+T25	PROCEDIMIENTO 2651 2668	Microscópicamente
+T26	PROCEDIMIENTO 268 282	ecocardiograma
+T27	PROCEDIMIENTO 288 327	cateterismo de aorta y arterias renales
+T28	PROCEDIMIENTO 373 434	actividad de renina plasmática (ARP) y aldosterona plasmática
+T29	PROCEDIMIENTO 3743 3750	cirugía
+T30	PROCEDIMIENTO 3840 3857	antihipertensivos
+T31	PROCEDIMIENTO 626 679	inhibidores de la enzima convertidora de angiotensina
+T32	PROCEDIMIENTO 682 700	bloqueante cálcico
+T33	SINTOMA 373 459	actividad de renina plasmática (ARP) y aldosterona plasmática (AP) resultaron elevados
+T34	SINTOMA 3873 3885	asintomática
+T35	SINTOMA 1590 1607	cefalea occipital
+T36	SINTOMA 148 156	cefaleas
+T37	SINTOMA 1610 1628	debilidad muscular
+T38	SINTOMA 2104 2177	Doppler de arterias renales y el ecocardiograma no mostraron alteraciones
+T39	SINTOMA 248 356	ecografía renal, el ecocardiograma y el cateterismo de aorta y arterias renales no evidenciaron alteraciones
+T40	SINTOMA 1965 2099	formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada
+T41	SINTOMA 1726 1737	hipokalemia
+T42	SINTOMA 159 172	hipopotasemia
+T43	SINTOMA 925 938	hipopotasemia
+T44	SINTOMA 1846 1867	imagen nodular sólida
+T45	SINTOMA 482 582	niveles de ácido vanilmandélico en orina y los de TSH, T4 libre y T3 plasmáticos resultaron normales
+T46	SINTOMA 1163 1199	niveles de ARP y AP estaban elevados
+T47	SINTOMA 3903 3971	niveles de renina plasmática, aldosterona y potasio séricos normales
+T48	SINTOMA 2252 2278	niveles elevados de renina
+T49	SINTOMA 3887 3897	normotensa
+T50	SINTOMA 1032 1082	polo inferior de riñón izquierdo formación nodular

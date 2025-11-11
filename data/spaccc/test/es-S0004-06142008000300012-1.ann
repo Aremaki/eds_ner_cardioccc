@@ -1,0 +1,97 @@
+T1	ENFERMEDAD 4415 4495	angiomiolipoma de predominio lipomatoso del seno renal con infiltración vascular
+T2	ENFERMEDAD 2983 3034	Síndrome de Budd-Chiari secundario a trombo en cava
+T3	ENFERMEDAD 1100 1247	trombo con densidad grasa que se extiende desde riñón izquierdo a vena renal izquierda (VRI), vena cava inferior (VCI) y ostium de aurícula derecha
+T4	ENFERMEDAD 2498 2549	síndrome de Budd-Chiari secundario a trombo en cava
+T5	ENFERMEDAD 3258 3369	trombo con nivel quirúrgico IV al presentar situación supradiafragmática llegando al ostium de aurícula derecha
+T6	ENFERMEDAD 1799 1826	patología bilio-pancreática
+T7	ENFERMEDAD 3020 3034	trombo en cava
+T8	ENFERMEDAD 2535 2549	trombo en cava
+T9	ENFERMEDAD 1831 1854	Síndrome de Budd-Chiari
+T10	ENFERMEDAD 3044 3050	Lipoma
+T11	ENFERMEDAD 1907 1932	derrame pleural bilateral
+T12	ENFERMEDAD 160 176	vómitos biliosos
+T13	ENFERMEDAD 1539 1552	Lipoma en VCI
+T14	ENFERMEDAD 2639 2677	proceso peritoneal infeccioso/ tumoral
+T15	ENFERMEDAD 1576 1588	colecistitis
+T16	ENFERMEDAD 2038 2050	lipoma renal
+T17	ENFERMEDAD 2768 2786	proceso peritoneal
+T18	ENFERMEDAD 769 794	trombosis venosa profunda
+T19	ENFERMEDAD 2931 2950	derrame pericárdico
+T20	ENFERMEDAD 796 799	TVP
+T21	ENFERMEDAD 2256 2275	congestión hepática
+T22	ENFERMEDAD 3036 3039	AML
+T23	ENFERMEDAD 2013 2027	angiomiolipoma
+T24	ENFERMEDAD 2029 2032	AML
+T25	ENFERMEDAD 2277 2290	hepatomegalia
+T26	ENFERMEDAD 1281 1315	oclusión completa de la luz de VCI
+T27	ENFERMEDAD 1624 1636	pancreatitis
+T28	PROCEDIMIENTO 1014 1024	Hemostasia
+T29	PROCEDIMIENTO 1080 1082	TC
+T30	PROCEDIMIENTO 1396 1398	TC
+T31	PROCEDIMIENTO 1453 1473	ECO abdómino-pélvica
+T32	PROCEDIMIENTO 1561 1572	ecográficos
+T33	PROCEDIMIENTO 1746 1748	TC
+T34	PROCEDIMIENTO 1893 1895	TC
+T35	PROCEDIMIENTO 2561 2597	paracentesis bajo control ecográfico
+T36	PROCEDIMIENTO 2791 2815	ecografía transesofágica
+T37	PROCEDIMIENTO 312 330	exploración física
+T38	PROCEDIMIENTO 3131 3154	intervención quirúrgica
+T39	PROCEDIMIENTO 3218 3241	INTERVENCIÓN QUIRÚRGICA
+T40	PROCEDIMIENTO 3382 3429	incisión tipo Chevron y acceso a retroperitoneo
+T41	PROCEDIMIENTO 3509 3553	liberación ascendente del paquete intestinal
+T42	PROCEDIMIENTO 3566 3603	ligadura de vena mesentérica inferior
+T43	PROCEDIMIENTO 3639 3731	seccionando los ligamentos redondo, coronario, triangulares derecho e izquierdo y falciforme
+T44	PROCEDIMIENTO 3748 3787	se libera el riñón izquierdo y su hilio
+T45	PROCEDIMIENTO 3829 3855	liberación de la vena cava
+T46	PROCEDIMIENTO 4213 4242	clampaje de pedículo hepático
+T47	PROCEDIMIENTO 4244 4263	maniobra de Pringle
+T48	PROCEDIMIENTO 4311 4320	cavotomía
+T49	PROCEDIMIENTO 4323 4367	apertura VRI, extracción completa del trombo
+T50	PROCEDIMIENTO 4370 4391	nefrectomía izquierda
+T51	PROCEDIMIENTO 4394 4413	ANATOMÍA PATOLÓGICA
+T52	PROCEDIMIENTO 480 507	Auscultación cardiopulmonar
+T53	PROCEDIMIENTO 592 601	palpación
+T54	PROCEDIMIENTO 826 836	bioquímica
+T55	PROCEDIMIENTO 859 872	transaminasas
+T56	PROCEDIMIENTO 903 912	Hemograma
+T57	SINTOMA 1420 1433	epigastralgia
+T58	SINTOMA 356 366	consciente
+T59	SINTOMA 369 378	orientada
+T60	SINTOMA 3101 3119	mal estado general
+T61	SINTOMA 151 158	náuseas
+T62	SINTOMA 179 197	mal estado general
+T63	SINTOMA 253 259	fiebre
+T64	SINTOMA 263 283	sensación distérmica
+T65	SINTOMA 288 295	coluria
+T66	SINTOMA 299 305	acolia
+T67	SINTOMA 644 665	irritación peritoneal
+T68	SINTOMA 458 465	afebril
+T69	SINTOMA 725 754	edemas en miembros inferiores
+T70	SINTOMA 468 478	normotensa
+T71	SINTOMA 396 401	dolor
+T72	SINTOMA 699 720	circulación colateral
+T73	SINTOMA 981 992	neutrofilia
+T74	SINTOMA 523 552	Abdomen sin masas ni megalias
+T75	SINTOMA 1317 1363	Anormalidad inespecífica de cabeza de páncreas
+T76	SINTOMA 2292 2341	aumento de calibre de vena porta y suprahepáticas
+T77	SINTOMA 848 872	aumento de transaminasas
+T78	SINTOMA 480 521	Auscultación cardiopulmonar sin hallazgos
+T79	SINTOMA 2412 2436	bazo y páncreas atigrado
+T80	SINTOMA 2837 2862	buena función ventricular
+T81	SINTOMA 2256 2275	congestión hepática
+T82	SINTOMA 58 115	dolor abdominal difuso con mayor intensidad en epigastrio
+T83	SINTOMA 558 628	dolor abdominal generalizado a la palpación, más intenso en epigastrio
+T84	SINTOMA 202 240	dolor aumenta con la tos e inspiración
+T85	SINTOMA 2394 2410	edema periportal
+T86	SINTOMA 1934 1969	engrosamiento de pliegues gástricos
+T87	SINTOMA 1487 1537	hígado y vía biliar intra y extrahepática normales
+T88	SINTOMA 404 426	impresiona de gravedad
+T89	SINTOMA 2449 2462	líquido libre
+T90	SINTOMA 1638 1712	Líquido libre en pelvis, espacios perihepático, periesplénico y perirrenal
+T91	SINTOMA 667 682	Murphy negativo
+T92	SINTOMA 1281 1315	oclusión completa de la luz de VCI
+T93	SINTOMA 428 447	Palidez mucocutánea
+T94	SINTOMA 2901 2917	tricúspide libre
+T95	SINTOMA 2185 2223	vena porta y suprahepáticas permeables
+T96	SINTOMA 1249 1276	Venas suprahepáticas libres
+T97	SINTOMA 160 176	vómitos biliosos

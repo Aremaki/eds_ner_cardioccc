@@ -1,0 +1,59 @@
+T1	ENFERMEDAD 37 58	alergia a penicilinas
+T2	ENFERMEDAD 60 81	hipertensión arterial
+T3	ENFERMEDAD 106 115	psoriasis
+T4	ENFERMEDAD 1096 1191	carcinoma urotelial sólido de alto grado que infiltraba la grasa perivesical, próstata y uretra
+T5	ENFERMEDAD 647 702	carcinoma urotelial indiferenciado infitrante de vejiga
+T6	ENFERMEDAD 341 361	ureterohidronefrosis
+T7	ENFERMEDAD 1312 1387	cadena iliobturatriz izquierda ganglios infiltrados por carcinoma urotelial
+T8	ENFERMEDAD 864 884	ureterohidronefrosis
+T9	ENFERMEDAD 1730 1736	anemia
+T10	ENFERMEDAD 1870 1879	hematomas
+T11	ENFERMEDAD 2130 2166	coagulación intravascular diseminada
+T12	ENFERMEDAD 2168 2171	CID
+T13	ENFERMEDAD 2340 2346	anemia
+T14	ENFERMEDAD 2407 2475	médula ósea obteniéndose células metastásicas de carcinoma urotelial
+T15	ENFERMEDAD 2493 2546	infiltración de la médula ósea por el tumor de vejiga
+T16	ENFERMEDAD 1467 1473	anemia
+T17	PROCEDIMIENTO 1009 1064	cistoprostatectomia radical con derivación tipo Bricker
+T18	PROCEDIMIENTO 1069 1088	anatomía patológica
+T19	PROCEDIMIENTO 1516 1548	transfundir hematíes y plaquetas
+T20	PROCEDIMIENTO 1553 1566	función renal
+T21	PROCEDIMIENTO 172 191	citologías de orina
+T22	PROCEDIMIENTO 1832 1845	TAC abdominal
+T23	PROCEDIMIENTO 1899 1907	drenajes
+T24	PROCEDIMIENTO 2051 2062	coagulación
+T25	PROCEDIMIENTO 2248 2270	test de Coombs directo
+T26	PROCEDIMIENTO 231 250	ecografía abdominal
+T27	PROCEDIMIENTO 2376 2418	punción-aspiración esternal de médula ósea
+T28	PROCEDIMIENTO 2558 2594	tratamiento hemoterápico sustitutivo
+T29	PROCEDIMIENTO 2607 2633	tratamiento quimioterápico
+T30	PROCEDIMIENTO 422 520	RTU de vejiga resecándose una masa de aspecto infiltrante que ocupa toda la cara lateral izquierda
+T31	PROCEDIMIENTO 47 58	penicilinas
+T32	PROCEDIMIENTO 583 604	nefrostomía izquierda
+T33	PROCEDIMIENTO 609 628	anatomía patológica
+T34	PROCEDIMIENTO 735 755	estudio de extensión
+T35	PROCEDIMIENTO 760 779	TAC toracoabdominal
+T36	PROCEDIMIENTO 788 804	gammagrafía ósea
+T37	PROCEDIMIENTO 814 846	pielografía retrógrada izquierda
+T38	PROCEDIMIENTO 964 984	estudio de extensión
+T39	SINTOMA 2227 2245	bilirrubina normal
+T40	SINTOMA 2051 2081	coagulación fue siempre normal
+T41	SINTOMA 964 993	estudio de extensión negativo
+T42	SINTOMA 2635 2646	falleciendo
+T43	SINTOMA 1553 1584	función renal permaneció normal
+T44	SINTOMA 788 811	gammagrafía ósea normal
+T45	SINTOMA 149 158	hematuria
+T46	SINTOMA 2204 2214	hemolítico
+T47	SINTOMA 922 952	masa dentro de la luz ureteral
+T48	SINTOMA 274 302	masa vesical en cara lateral
+T49	SINTOMA 186 203	orina con atipias
+T50	SINTOMA 1389 1397	pT4aN1M0
+T51	SINTOMA 2102 2110	sangrado
+T52	SINTOMA 1956 1971	sangrado activo
+T53	SINTOMA 760 786	TAC toracoabdominal normal
+T54	SINTOMA 2248 2279	test de Coombs directo negativo
+T55	SINTOMA 1775 1786	trombopenia
+T56	SINTOMA 2035 2046	trombopenia
+T57	SINTOMA 2349 2360	trombopenia
+T58	SINTOMA 1476 1487	trombopenia
+T59	SINTOMA 429 456	vejiga resecándose una masa

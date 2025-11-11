@@ -1,0 +1,61 @@
+T1	ENFERMEDAD 723 745	Otosclerosis bilateral
+T2	ENFERMEDAD 993 1018	Intolerancia al metamizol
+T3	ENFERMEDAD 960 968	Obesidad
+T4	ENFERMEDAD 1022 1057	Síndrome ansioso-depresivo reactivo
+T5	ENFERMEDAD 164 200	Fibrodisplasia osificante progresiva
+T6	ENFERMEDAD 814 832	Anemia ferropénica
+T7	ENFERMEDAD 1074 1161	insuficiencia respiratoria hipercápnica secundaria a trastorno ventilatorio restrictivo
+T8	ENFERMEDAD 619 719	exostosis a nivel de rodilla derecha, y en la primera articulación metatarsofalángica bilateralmente
+T9	ENFERMEDAD 860 924	sangrado crónico gástrico por tratamiento con AINE y corticoides
+T10	ENFERMEDAD 1127 1161	trastorno ventilatorio restrictivo
+T11	ENFERMEDAD 236 293	Fusión a nivel de cuerpos vertebrales de columna cervical
+T12	ENFERMEDAD 2765 2804	episodios dolorosos por neo-osificación
+T13	ENFERMEDAD 295 467	osificaciones múltiples a nivel de musculatura paravertebral cervical, dorsal, lumbar, cintura escapular bilateral, articulaciones coxofemorales, muslos, rodillas y abdomen
+T14	ENFERMEDAD 1497 1510	Cardiomegalia
+T15	ENFERMEDAD 2397 2424	osificaciones heterotópicas
+T16	ENFERMEDAD 2618 2636	traumatismos leves
+T17	ENFERMEDAD 2657 2672	cuadros virales
+T18	ENFERMEDAD 2568 2592	nuevas formaciones óseas
+T19	ENFERMEDAD 2789 2804	neo-osificación
+T20	PROCEDIMIENTO 1242 1259	VMNI domiciliaria
+T21	PROCEDIMIENTO 1344 1355	TC torácico
+T22	PROCEDIMIENTO 1514 1526	TC abdominal
+T23	PROCEDIMIENTO 1761 1764	PFR
+T24	PROCEDIMIENTO 1827 1830	GSA
+T25	PROCEDIMIENTO 2150 2154	AINE
+T26	PROCEDIMIENTO 2247 2255	opioides
+T27	PROCEDIMIENTO 2719 2730	corticoides
+T28	PROCEDIMIENTO 3515 3519	AINE
+T29	PROCEDIMIENTO 3521 3532	pirazolonas
+T30	PROCEDIMIENTO 3666 3668	Rx
+T31	PROCEDIMIENTO 4790 4801	corticoides
+T32	PROCEDIMIENTO 4805 4814	analítica
+T33	PROCEDIMIENTO 4852 4874	seguimiento telefónico
+T34	PROCEDIMIENTO 592 719	Intervención quirúrgica de exostosis a nivel de rodilla derecha, y en la primera articulación metatarsofalángica bilateralmente
+T35	PROCEDIMIENTO 723 757	Otosclerosis bilateral intervenida
+T36	PROCEDIMIENTO 793 810	prótesis auditiva
+T37	PROCEDIMIENTO 906 910	AINE
+T38	PROCEDIMIENTO 913 924	corticoides
+T39	SINTOMA 4907 4912	dolor
+T40	SINTOMA 3276 3282	fiebre
+T41	SINTOMA 2944 2949	dolor
+T42	SINTOMA 3027 3032	dolor
+T43	SINTOMA 2357 2362	dolor
+T44	SINTOMA 4315 4326	parestesias
+T45	SINTOMA 493 498	dolor
+T46	SINTOMA 970 989	aspecto cushingoide
+T47	SINTOMA 1375 1448	calcificaciones groseras en tejidos de partes blandas de cavidad torácica
+T48	SINTOMA 1568 1705	calcificaciones musculares en territorio pectoral, periescapular, dorsal, paravertebral y fundamentalmente en territorio glúteo izquierdo
+T49	SINTOMA 2512 2533	cuadros inflamatorios
+T50	SINTOMA 4301 4312	disestesias
+T51	SINTOMA 3093 3109	dolor más severo
+T52	SINTOMA 3228 3260	dolor severo a nivel de escápula
+T53	SINTOMA 2834 2856	elementos cushingoides
+T54	SINTOMA 2765 2784	episodios dolorosos
+T55	SINTOMA 2575 2593	formaciones óseas,
+T56	SINTOMA 501 533	incapacidad para la deambulación
+T57	SINTOMA 3677 3756	neoformación ósea en forma de puente entre escápula izquierda y parrilla costal
+T58	SINTOMA 3782 3812	neoformación ósea paracervical
+T59	SINTOMA 2789 2804	neo-osificación
+T60	SINTOMA 2397 2424	osificaciones heterotópicas
+T61	SINTOMA 3297 3324	sintomatología respiratoria

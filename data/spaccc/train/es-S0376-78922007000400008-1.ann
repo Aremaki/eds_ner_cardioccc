@@ -1,0 +1,63 @@
+T1	ENFERMEDAD 2817 2838	fracaso multiorgánico
+T2	ENFERMEDAD 48 55	bebedor
+T3	ENFERMEDAD 2840 2859	fracaso renal agudo
+T4	ENFERMEDAD 2861 2873	coagulopatia
+T5	ENFERMEDAD 86 91	obeso
+T6	ENFERMEDAD 2876 2914	síndrome de distrés respiratorio agudo
+T7	ENFERMEDAD 1146 1153	ascitis
+T8	ENFERMEDAD 1171 1190	hepatopatía crónica
+T9	ENFERMEDAD 482 489	ascitis
+T10	ENFERMEDAD 1193 1207	esplenomegalia
+T11	ENFERMEDAD 1234 1259	insuficiencia renal aguda
+T12	ENFERMEDAD 1282 1318	hepatópata crónico de origen enólico
+T13	ENFERMEDAD 1321 1353	celulitis en extremidad inferior
+T14	ENFERMEDAD 1629 1657	lesiones en miembro inferior
+T15	ENFERMEDAD 1712 1721	celulitis
+T16	ENFERMEDAD 1737 1745	ampollas
+T17	ENFERMEDAD 2360 2391	lesiones en extremidad inferior
+T18	ENFERMEDAD 2447 2508	ampollas hasta el tercio medio de muslo y afectación escrotal
+T19	ENFERMEDAD 25 46	alérgico a Penicilina
+T20	ENFERMEDAD 610 619	petequias
+T21	PROCEDIMIENTO 1057 1077	radiografía de tórax
+T22	PROCEDIMIENTO 1099 1108	Ecografía
+T23	PROCEDIMIENTO 1111 1126	TAC abdominales
+T24	PROCEDIMIENTO 1423 1433	diuréticos
+T25	PROCEDIMIENTO 1449 1463	antibioterapia
+T26	PROCEDIMIENTO 1513 1539	extracción de hemocultivos
+T27	PROCEDIMIENTO 1753 1762	analítica
+T28	PROCEDIMIENTO 2091 2102	hemocultivo
+T29	PROCEDIMIENTO 2177 2203	antibioterapia intravenosa
+T30	PROCEDIMIENTO 2420 2437	anestesia cutánea
+T31	PROCEDIMIENTO 2517 2546	ventilación mecánica invasiva
+T32	PROCEDIMIENTO 2548 2566	aminas vasoactivas
+T33	PROCEDIMIENTO 2569 2604	hemofiltración veno-venosa continua
+T34	PROCEDIMIENTO 2617 2640	intervención quirúrgica
+T35	PROCEDIMIENTO 2670 2693	desbridamiento escrotal
+T36	PROCEDIMIENTO 2695 2739	desbridamiento de fascia hasta raíz de muslo
+T37	PROCEDIMIENTO 2742 2774	amputación abierta supracondílea
+T38	PROCEDIMIENTO 2934 2965	medidas de soporte hemodinámico
+T39	PROCEDIMIENTO 2971 2985	antibioterapia
+T40	PROCEDIMIENTO 3023 3030	cirugía
+T41	PROCEDIMIENTO 406 424	exploración física
+T42	PROCEDIMIENTO 677 688	exploración
+T43	PROCEDIMIENTO 696 705	analítica
+T44	SINTOMA 287 294	astenia
+T45	SINTOMA 370 377	diarrea
+T46	SINTOMA 213 233	distensión abdominal
+T47	SINTOMA 1689 1694	dolor
+T48	SINTOMA 622 631	equímosis
+T49	SINTOMA 601 608	eritema
+T50	SINTOMA 2988 2995	fallece
+T51	SINTOMA 236 245	febrícula
+T52	SINTOMA 1589 1595	fiebre
+T53	SINTOMA 2306 2332	inestabilidad hemodinámica
+T54	SINTOMA 1899 1911	leucocitosis
+T55	SINTOMA 351 358	náuseas
+T56	SINTOMA 360 367	vómitos
+T57	SINTOMA 1950 1980	alteraciones en la coagulación
+T58	SINTOMA 502 541	edemas en ambas extremidades inferiores
+T59	SINTOMA 174 211	edemas en las extremidades inferiores
+T60	SINTOMA 1778 1811	empeoramiento en la función renal
+T61	SINTOMA 2091 2154	hemocultivo realizado al ingreso se aísla Estreptococo Pyogenes
+T62	SINTOMA 610 619	petequias
+T63	SINTOMA 1057 1092	radiografía de tórax que era normal

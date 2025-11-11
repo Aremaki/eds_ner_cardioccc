@@ -1,0 +1,58 @@
+T1	ENFERMEDAD 1801 1812	rectorragia
+T2	ENFERMEDAD 238 287	leve disminución del factor VII de la coagulación
+T3	ENFERMEDAD 306 331	hemorragia digestiva baja
+T4	ENFERMEDAD 2185 2253	divertículo de Meckel a 50 cm de la válvula ileocecal con hemorragia
+T5	ENFERMEDAD 1411 1436	hemorragia digestiva baja
+T6	ENFERMEDAD 145 156	rectorragia
+T7	ENFERMEDAD 469 477	lesiones
+T8	ENFERMEDAD 613 625	hematoquecia
+T9	ENFERMEDAD 2356 2367	divertículo
+T10	PROCEDIMIENTO 1241 1253	colonoscopia
+T11	PROCEDIMIENTO 1496 1534	transfundir 2 concentrados de hematíes
+T12	PROCEDIMIENTO 1550 1563	arteriografía
+T13	PROCEDIMIENTO 1648 1733	enteroscopia con cápsula endoscópica (ECE) para valorar el resto de intestino delgado
+T14	PROCEDIMIENTO 1686 1689	ECE
+T15	PROCEDIMIENTO 1846 1855	analítica
+T16	PROCEDIMIENTO 1918 1962	se transfundieron 3 concentrados de hematíes
+T17	PROCEDIMIENTO 2036 2049	arteriografía
+T18	PROCEDIMIENTO 2144 2163	laparotomía urgente
+T19	PROCEDIMIENTO 2326 2400	resección ileal incluyendo el divertículo con anastomosis termino-terminal
+T20	PROCEDIMIENTO 2447 2470	exploración con cápsula
+T21	PROCEDIMIENTO 355 367	gastroscopia
+T22	PROCEDIMIENTO 369 381	colonoscopia
+T23	PROCEDIMIENTO 383 403	gammagrafía con Tc99
+T24	PROCEDIMIENTO 405 417	enteroscopia
+T25	PROCEDIMIENTO 419 438	tránsito intestinal
+T26	PROCEDIMIENTO 441 454	arteriografía
+T27	PROCEDIMIENTO 504 516	gastroscopia
+T28	PROCEDIMIENTO 518 530	colonoscopia
+T29	PROCEDIMIENTO 533 543	ileoscopia
+T30	PROCEDIMIENTO 546 579	gammagrafía con hematíes marcados
+T31	PROCEDIMIENTO 633 651	exploración física
+T32	PROCEDIMIENTO 773 782	hemograma
+T33	PROCEDIMIENTO 784 794	bioquímica
+T34	PROCEDIMIENTO 797 808	coagulación
+T35	PROCEDIMIENTO 894 927	gammagrafía con hematíes marcados
+T36	PROCEDIMIENTO 962 985	administrar el trazador
+T37	SINTOMA 145 156	rectorragia
+T38	SINTOMA 1167 1175	sangrado
+T39	SINTOMA 1380 1388	sangrado
+T40	SINTOMA 2087 2095	sangrado
+T41	SINTOMA 1476 1483	estable
+T42	SINTOMA 2243 2253	hemorragia
+T43	SINTOMA 1801 1812	rectorragia
+T44	SINTOMA 1058 1139	actividad en zona de intestino delgado a nivel de ileon, ciego o colon ascendente
+T45	SINTOMA 1550 1600	arteriografía en la que no se observaron anomalías
+T46	SINTOMA 2036 2095	arteriografía urgente sin evidenciarse un punto de sangrado
+T47	SINTOMA 1241 1346	colonoscopia en la que se observaron restos hemáticos por todo el trayecto explorado hasta 15 cm de ileon
+T48	SINTOMA 990 1035	depósito patológico a nivel de flanco derecho
+T49	SINTOMA 504 593	gastroscopia, colonoscopia e ileoscopia y gammagrafía con hematíes marcados sin anomalías
+T50	SINTOMA 355 477	gastroscopia, colonoscopia, gammagrafía con Tc99, enteroscopia, tránsito intestinal y arteriografía sin objetivar lesiones
+T51	SINTOMA 613 625	hematoquecia
+T52	SINTOMA 711 731	hemodinámica estable
+T53	SINTOMA 773 817	hemograma, bioquímica y coagulación normales
+T54	SINTOMA 238 287	leve disminución del factor VII de la coagulación
+T55	SINTOMA 70 91	molestias abdominales
+T56	SINTOMA 1278 1346	restos hemáticos por todo el trayecto explorado hasta 15 cm de ileon
+T57	SINTOMA 2296 2313	sangrado proximal
+T58	SINTOMA 2512 2589	tramos distales de ileon, la presencia de abundantes restos hemáticos frescos

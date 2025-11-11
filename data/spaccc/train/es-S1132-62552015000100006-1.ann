@@ -1,0 +1,71 @@
+T1	ENFERMEDAD 3885 3893	enfisema
+T2	ENFERMEDAD 1266 1293	cuadro de carácter alérgico
+T3	ENFERMEDAD 629 679	alergia a ácaros, gramíneas y epitelio de animales
+T4	ENFERMEDAD 2852 2868	hábito tabáquico
+T5	ENFERMEDAD 4117 4155	Histiocitosis de células de Langerhans
+T6	ENFERMEDAD 681 689	Fumadora
+T7	ENFERMEDAD 2908 2923	Histiocitosis X
+T8	ENFERMEDAD 903 953	lesiones papulares, rosáceas en dedos de las manos
+T9	ENFERMEDAD 998 1014	Granuloma anular
+T10	PROCEDIMIENTO 1029 1047	corticoide tópicos
+T11	PROCEDIMIENTO 1147 1158	exploración
+T12	PROCEDIMIENTO 1162 1189	auscultación cardiopulmonar
+T13	PROCEDIMIENTO 1362 1389	broncodilatadores inhalados
+T14	PROCEDIMIENTO 1392 1403	analgésicos
+T15	PROCEDIMIENTO 1521 1537	bronco-dilatador
+T16	PROCEDIMIENTO 1575 1592	broncodilatadores
+T17	PROCEDIMIENTO 1803 1829	exploración cardiopulmonar
+T18	PROCEDIMIENTO 1864 1876	espirometría
+T19	PROCEDIMIENTO 1879 1899	Radiografía de torax
+T20	PROCEDIMIENTO 1904 1916	espirometría
+T21	PROCEDIMIENTO 1975 1995	Radiografía de tórax
+T22	PROCEDIMIENTO 2113 2133	Radiografía de tórax
+T23	PROCEDIMIENTO 2202 2224	TAC de alta resolución
+T24	PROCEDIMIENTO 2226 2231	TACAR
+T25	PROCEDIMIENTO 2319 2345	Pruebas de difusión de CO2
+T26	PROCEDIMIENTO 2348 2374	curva de flujos pulmonares
+T27	PROCEDIMIENTO 2383 2388	TACAR
+T28	PROCEDIMIENTO 2610 2625	difusión de CO2
+T29	PROCEDIMIENTO 2628 2654	curva de flujos pulmonares
+T30	PROCEDIMIENTO 2723 2732	analítica
+T31	PROCEDIMIENTO 2754 2783	determinaciones de ANCA y ANA
+T32	PROCEDIMIENTO 2814 2826	radiológicos
+T33	PROCEDIMIENTO 2843 2846	TAC
+T34	PROCEDIMIENTO 2975 2991	biopsia pulmonar
+T35	PROCEDIMIENTO 3020 3032	broncoscopia
+T36	PROCEDIMIENTO 3080 3091	criobiopsia
+T37	PROCEDIMIENTO 3124 3190	criobiopsia a 1-2 cm de la pleura se realiza mediante fluoroscopia
+T38	PROCEDIMIENTO 3196 3205	criosonda
+T39	PROCEDIMIENTO 3292 3303	crioterapia
+T40	PROCEDIMIENTO 3553 3578	biopsias transbronquiales
+T41	PROCEDIMIENTO 3583 3629	sonda se introduce a a través del broncoscopio
+T42	PROCEDIMIENTO 3635 3653	aplicación de frío
+T43	PROCEDIMIENTO 3713 3730	técnica con pinza
+T44	PROCEDIMIENTO 3764 3781	se requiere sedar
+T45	PROCEDIMIENTO 4025 4043	inmunohistoquímica
+T46	SINTOMA 3896 3935	acúmulos intraalveolares de histiocitos
+T47	SINTOMA 2401 2430	afectación pulmonar bilateral
+T48	SINTOMA 467 513	cefalea frontal de características tensionales
+T49	SINTOMA 2754 2793	determinaciones de ANCA y ANA negativas
+T50	SINTOMA 2610 2710	difusión de CO2 y curva de flujos pulmonares se encuentran dentro de los parámetros de la normalidad
+T51	SINTOMA 2470 2506	engrosamiento de paredes bronquiales
+T52	SINTOMA 367 377	estornudos
+T53	SINTOMA 1803 1836	exploración cardiopulmonar normal
+T54	SINTOMA 2574 2592	imágenes quísticas
+T55	SINTOMA 3995 4018	neumocitoshiperplásicos
+T56	SINTOMA 2508 2543	Nódulos dispersos algunos cavitados
+T57	SINTOMA 379 398	sensación de fatiga
+T58	SINTOMA 524 543	sensación de fatiga
+T59	SINTOMA 1769 1788	sensación de fatiga
+T60	SINTOMA 752 779	test de Fagerstrom) elevado
+T61	SINTOMA 1216 1238	afectación neurológica
+T62	SINTOMA 415 421	fiebre
+T63	SINTOMA 1645 1648	tos
+T64	SINTOMA 1412 1419	cefalea
+T65	SINTOMA 1664 1670	disnea
+T66	SINTOMA 518 521	tos
+T67	SINTOMA 1763 1766	tos
+T68	SINTOMA 1162 1200	auscultación cardiopulmonar era normal
+T69	SINTOMA 425 438	expectoración
+T70	SINTOMA 330 333	tos
+T71	SINTOMA 2031 2038	nódulos

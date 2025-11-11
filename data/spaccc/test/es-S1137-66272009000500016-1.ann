@@ -1,0 +1,70 @@
+T1	ENFERMEDAD 77 104	déficit de factores VII y X
+T2	ENFERMEDAD 131 163	hiperbilirrubinemia no conjugada
+T3	ENFERMEDAD 218 232	retraso mental
+T4	ENFERMEDAD 247 264	status convulsivo
+T5	ENFERMEDAD 2241 2245	coma
+T6	ENFERMEDAD 428 455	parálisis facial periférica
+T7	ENFERMEDAD 477 502	insuficiencia suprarrenal
+T8	ENFERMEDAD 2461 2476	crisis comicial
+T9	ENFERMEDAD 2573 2609	trastorno del metabolismo de la urea
+T10	ENFERMEDAD 1838 1845	ascitis
+T11	ENFERMEDAD 2955 2969	edema cerebral
+T12	ENFERMEDAD 3034 3051	muerte encefálica
+T13	ENFERMEDAD 3275 3295	patología metabólica
+T14	ENFERMEDAD 3373 3408	déficit de ornitín transcarbamilasa
+T15	ENFERMEDAD 1689 1698	trombosis
+T16	ENFERMEDAD 1856 1865	trombosis
+T17	ENFERMEDAD 297 308	hipotensión
+T18	ENFERMEDAD 628 647	hiperbilirrubinemia
+T19	ENFERMEDAD 650 664	hiperamoniemia
+T20	PROCEDIMIENTO 1546 1563	pruebas de imagen
+T21	PROCEDIMIENTO 1565 1577	TAC cerebral
+T22	PROCEDIMIENTO 1656 1675	Ecografía abdominal
+T23	PROCEDIMIENTO 1759 1780	Eco-Doppler abdominal
+T24	PROCEDIMIENTO 2270 2292	intubación orotraqueal
+T25	PROCEDIMIENTO 2306 2318	TAC cerebral
+T26	PROCEDIMIENTO 2335 2349	punción lumbar
+T27	PROCEDIMIENTO 2710 2723	plasmaféresis
+T28	PROCEDIMIENTO 2726 2763	hemodiafiltración venovenosa contínua
+T29	PROCEDIMIENTO 2937 2940	TAC
+T30	PROCEDIMIENTO 2971 2994	exploración neurológica
+T31	PROCEDIMIENTO 2997 3017	Doppler transcraneal
+T32	PROCEDIMIENTO 3068 3088	gammagrafía cerebral
+T33	PROCEDIMIENTO 3103 3112	necropsia
+T34	PROCEDIMIENTO 3132 3159	biopsia hepática postmorten
+T35	PROCEDIMIENTO 48 62	adenoidectomía
+T36	PROCEDIMIENTO 948 959	exploración
+T37	PROCEDIMIENTO 968 977	Analítica
+T38	SINTOMA 288 295	astenia
+T39	SINTOMA 2207 2228	agitación psicomotriz
+T40	SINTOMA 297 308	hipotensión
+T41	SINTOMA 593 607	desorientación
+T42	SINTOMA 929 937	ictérico
+T43	SINTOMA 899 909	consciente
+T44	SINTOMA 566 584	tendencia al sueño
+T45	SINTOMA 1847 1852	masas
+T46	SINTOMA 335 341	mareos
+T47	SINTOMA 1838 1845	ascitis
+T48	SINTOMA 3034 3040	muerte
+T49	SINTOMA 1786 1833	alteraciones en hígado, bazo, vejiga ni riñones
+T50	SINTOMA 610 623	alucinaciones
+T51	SINTOMA 2828 2845	amoniaco se eleva
+T52	SINTOMA 324 332	anorexia
+T53	SINTOMA 1867 1909	Arteria hepática y vena esplénica normales
+T54	SINTOMA 2136 2149	aumento de BT
+T55	SINTOMA 1607 1654	buena diferenciación de sustancia blanca y gris
+T56	SINTOMA 2793 2807	descenso de BT
+T57	SINTOMA 2085 2116	descenso paulatino del amoniaco
+T58	SINTOMA 915 927	desorientado
+T59	SINTOMA 1947 1969	elevación del amoniaco
+T60	SINTOMA 233 242	fallecido
+T61	SINTOMA 3171 3205	hígado con arquitectura conservada
+T62	SINTOMA 1700 1733	hígado homogéneo sin alteraciones
+T63	SINTOMA 650 664	hiperamoniemia
+T64	SINTOMA 628 647	hiperbilirrubinemia
+T65	SINTOMA 131 163	hiperbilirrubinemia no conjugada
+T66	SINTOMA 2335 2364	punción lumbar también normal
+T67	SINTOMA 1735 1757	riñones, bazo normales
+T68	SINTOMA 2945 2969	signos de edema cerebral
+T69	SINTOMA 2306 2332	TAC cerebral que es normal
+T70	SINTOMA 1565 1602	TAC cerebral sin hallazgos reseñables

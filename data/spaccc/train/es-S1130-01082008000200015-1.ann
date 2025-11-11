@@ -1,0 +1,31 @@
+T1	ENFERMEDAD 164 186	fístula biliar externa
+T2	ENFERMEDAD 342 348	biloma
+T3	ENFERMEDAD 487 501	fístula biliar
+T4	ENFERMEDAD 665 687	fístula biliar externa
+T5	ENFERMEDAD 1065 1087	fístula biliar externa
+T6	ENFERMEDAD 1555 1561	lesión
+T7	ENFERMEDAD 1808 1814	lesión
+T8	PROCEDIMIENTO 1178 1190	intervención
+T9	PROCEDIMIENTO 1213 1228	colecistectomía
+T10	PROCEDIMIENTO 1427 1481	intraoperatoriamente la práctica de una colangiografía
+T11	PROCEDIMIENTO 1828 1958	colangioloyeyunostomía con asa en Y de Roux tutorizada transanastomótica mediante un catéter siliconado de alimentación pediátrica
+T12	PROCEDIMIENTO 2000 2027	colangiografía transcatéter
+T13	PROCEDIMIENTO 2058 2069	anastomosis
+T14	PROCEDIMIENTO 2133 2187	tutor transanastomótico se retiró al mes de la cirugía
+T15	PROCEDIMIENTO 217 234	pruebas de imagen
+T16	PROCEDIMIENTO 2212 2227	colangiográfico
+T17	PROCEDIMIENTO 2282 2293	anastomosis
+T18	PROCEDIMIENTO 298 307	ecografía
+T19	PROCEDIMIENTO 309 312	TAC
+T20	PROCEDIMIENTO 314 337	TAC con drenaje pigtail
+T21	PROCEDIMIENTO 35 64	colecistectomía laparoscópica
+T22	PROCEDIMIENTO 350 354	cRMN
+T23	PROCEDIMIENTO 356 372	ERCP diagnóstica
+T24	PROCEDIMIENTO 385 389	ERCP
+T25	PROCEDIMIENTO 394 435	colocación incluso de endoprótesis biliar
+T26	PROCEDIMIENTO 741 750	analítica
+T27	PROCEDIMIENTO 992 1041	drenaje biliar interno de la vía biliar principal
+T28	SINTOMA 530 580	integridad de la vía biliar intra- y extrahepática
+T29	SINTOMA 2249 2293	integridad y funcionalidad de la anastomosis
+T30	SINTOMA 2032 2069	normalidad absoluta de la anastomosis
+T31	SINTOMA 2356 2398	total normalidad de las pruebas analíticas

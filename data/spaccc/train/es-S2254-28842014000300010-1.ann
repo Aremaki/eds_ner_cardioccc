@@ -1,0 +1,47 @@
+T1	ENFERMEDAD 37 58	hipertensión arterial
+T2	ENFERMEDAD 61 71	dislipemia
+T3	ENFERMEDAD 86 107	cardiopatía isquémica
+T4	ENFERMEDAD 110 145	infarto agudo de miocardio inferior
+T5	ENFERMEDAD 155 178	arteriopatía periférica
+T6	ENFERMEDAD 249 320	isquemia aguda de extremidad inferior izquierda por oclusión de by-pass
+T7	ENFERMEDAD 1902 1927	espondilodiscitis D10-D11
+T8	ENFERMEDAD 1942 1963	absceso paravertebral
+T9	ENFERMEDAD 447 474	Insuficiencia renal crónica
+T10	ENFERMEDAD 501 520	nefroangiosclerosis
+T11	PROCEDIMIENTO 1074 1108	control bacteriológico del monitor
+T12	PROCEDIMIENTO 1189 1200	antitérmico
+T13	PROCEDIMIENTO 1415 1461	exploración, radiografía y ecografía abdominal
+T14	PROCEDIMIENTO 1709 1735	resultados microbiológicos
+T15	PROCEDIMIENTO 1783 1794	antibiótico
+T16	PROCEDIMIENTO 1848 1876	resonancia nuclear magnética
+T17	PROCEDIMIENTO 1878 1881	RNM
+T18	PROCEDIMIENTO 198 221	by-pass aorto bifemoral
+T19	PROCEDIMIENTO 2032 2083	tratamiento analgésico con fármacos de primer nivel
+T20	PROCEDIMIENTO 2096 2118	opiáceos transdérmicos
+T21	PROCEDIMIENTO 2310 2334	reactantes de fase aguda
+T22	PROCEDIMIENTO 2355 2367	hemocultivos
+T23	PROCEDIMIENTO 2407 2430	antibiótico intravenoso
+T24	PROCEDIMIENTO 2603 2612	analgesia
+T25	PROCEDIMIENTO 2660 2663	RNM
+T26	PROCEDIMIENTO 334 376	revascularización urgente con trombectomia
+T27	PROCEDIMIENTO 406 418	hemodiálisis
+T28	PROCEDIMIENTO 536 564	FAVI radiocefálica izquierda
+T29	PROCEDIMIENTO 565 615	se le coloca un catéter temporal yugular izquierdo
+T30	PROCEDIMIENTO 728 758	FAVI húmero cefálica izquierda
+T31	PROCEDIMIENTO 770 792	colocación del catéter
+T32	PROCEDIMIENTO 943 963	retirada del catéter
+T33	SINTOMA 1582 1647	aumento proteína C reactiva y velocidad de sedimentación globular
+T34	SINTOMA 1985 2020	compromiso de estructuras nerviosas
+T35	SINTOMA 1074 1124	control bacteriológico del monitor que es negativo
+T36	SINTOMA 2284 2334	disminución progresiva de reactantes de fase aguda
+T37	SINTOMA 1483 1501	lumbalgia mecánica
+T38	SINTOMA 843 861	lumbalgia postural
+T39	SINTOMA 1720 1760	microbiológicos positivos para S. aureus
+T40	SINTOMA 1511 1539	deterioro del estado general
+T41	SINTOMA 1291 1303	dolor lumbar
+T42	SINTOMA 1036 1052	malestar general
+T43	SINTOMA 1055 1061	fiebre
+T44	SINTOMA 2218 2223	dolor
+T45	SINTOMA 2247 2254	afebril
+T46	SINTOMA 2550 2557	estable
+T47	SINTOMA 1224 1231	estable

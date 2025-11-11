@@ -1,0 +1,62 @@
+T1	PROCEDIMIENTO 141 162	antidiabéticos orales
+T2	PROCEDIMIENTO 1837 1869	anamnesis por órganos y aparatos
+T3	PROCEDIMIENTO 187 201	Apendicectomía
+T4	PROCEDIMIENTO 1894 1912	exploración física
+T5	PROCEDIMIENTO 223 254	cirugía de hidrocele testicular
+T6	PROCEDIMIENTO 2277 2295	exploración física
+T7	PROCEDIMIENTO 2418 2451	exploración neurológica y general
+T8	PROCEDIMIENTO 2547 2557	bioquímica
+T9	PROCEDIMIENTO 2719 2728	Hemograma
+T10	PROCEDIMIENTO 2813 2828	Perfil hepático
+T11	PROCEDIMIENTO 2885 2901	Estudio hormonal
+T12	PROCEDIMIENTO 3050 3074	Espectro electroforético
+T13	PROCEDIMIENTO 3169 3180	TAC craneal
+T14	PROCEDIMIENTO 3304 3316	Colonoscopia
+T15	PROCEDIMIENTO 3378 3416	biopsias en colon descendente proximal
+T16	PROCEDIMIENTO 3515 3544	Biopsia de mucosa colorrectal
+T17	PROCEDIMIENTO 3589 3624	tinciones especificas para amiloide
+T18	PROCEDIMIENTO 3649 3663	Ecocardiograma
+T19	PROCEDIMIENTO 3837 3858	Estudio arritmológico
+T20	PROCEDIMIENTO 4028 4052	estimulación ventricular
+T21	PROCEDIMIENTO 4064 4083	Test presor de frío
+T22	PROCEDIMIENTO 4163 4176	Serología VIH
+T23	PROCEDIMIENTO 4188 4196	Rx tórax
+T24	PROCEDIMIENTO 4227 4246	TAC abdominopélvico
+T25	PROCEDIMIENTO 4276 4339	Niveles de catecolaminas en plasma en decúbito y en sedestación
+T26	PROCEDIMIENTO 4422 4455	Niveles de catecolaminas en orina
+T27	PROCEDIMIENTO 4608 4629	fármacos hipotensores
+T28	PROCEDIMIENTO 680 705	se puso un marcapasos VDD
+T29	PROCEDIMIENTO 833 847	ECOcardiograma
+T30	PROCEDIMIENTO 948 960	TC abdominal
+T31	PROCEDIMIENTO 981 1004	exploración neurológica
+T32	SINTOMA 1668 1675	diarrea
+T33	SINTOMA 981 1015	exploración neurológica fue normal
+T34	SINTOMA 1623 1631	nicturia
+T35	SINTOMA 1792 1807	pérdida de peso
+T36	SINTOMA 4163 4186	Serología VIH: Negativa
+T37	SINTOMA 1837 1886	anamnesis por órganos y aparatos resultó negativa
+T38	SINTOMA 1937 1970	caída de la TA con la sedestación
+T39	SINTOMA 2092 2103	caída de TA
+T40	SINTOMA 4433 4462	catecolaminas en orina: bajos
+T41	SINTOMA 4287 4362	catecolaminas en plasma en decúbito y en sedestación: niveles basales bajos
+T42	SINTOMA 2317 2341	desinhibición conductual
+T43	SINTOMA 2418 2462	exploración neurológica y general fue normal
+T44	SINTOMA 3703 3751	función sistólica limites bajos de la normalidad
+T45	SINTOMA 3763 3781	hipocinesia global
+T46	SINTOMA 3860 3908	marcapasos VDD con cable único, normofuncionante
+T47	SINTOMA 3526 3575	mucosa colorrectal: de características habituales
+T48	SINTOMA 2813 2836	Perfil hepático: Normal
+T49	SINTOMA 1360 1370	presíncope
+T50	SINTOMA 3978 4002	ritmo ventricular propio
+T51	SINTOMA 4188 4226	Rx tórax: Sin hallazgos significativos
+T52	SINTOMA 3142 3167	Sangre en heces: negativo
+T53	SINTOMA 2155 2176	sensación presincopal
+T54	SINTOMA 2373 2401	signos de liberación frontal
+T55	SINTOMA 1260 1284	síncopes al ortostatismo
+T56	SINTOMA 327 351	síncopes al ortostatismo
+T57	SINTOMA 1083 1104	sincopes ortostaticos
+T58	SINTOMA 2218 2224	sudaba
+T59	SINTOMA 2243 2259	taquicardización
+T60	SINTOMA 948 976	TC abdominal, que fue normal
+T61	SINTOMA 3589 3647	tinciones especificas para amiloide que resultan negativas
+T62	SINTOMA 3665 3698	ventrículo izquierdo hipertrófico

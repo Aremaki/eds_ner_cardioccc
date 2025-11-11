@@ -1,0 +1,43 @@
+T1	ENFERMEDAD 110 125	hernia inguinal
+T2	ENFERMEDAD 155 174	queratosis actínica
+T3	ENFERMEDAD 306 355	lesiones costrosas en la región parieto-occipital
+T4	ENFERMEDAD 407 464	Carcinoma epidermoide de moderado grado de diferenciación
+T5	ENFERMEDAD 802 823	Carcinoma epidermoide
+T6	ENFERMEDAD 3062 3121	Carcinomas epidermoides de moderado grado de diferenciación
+T7	ENFERMEDAD 3128 3146	Carcinomas in situ
+T8	ENFERMEDAD 3427 3441	recidiva local
+T9	ENFERMEDAD 566 571	tumor
+T10	ENFERMEDAD 496 504	lesiones
+T11	ENFERMEDAD 710 718	lesiones
+T12	ENFERMEDAD 962 980	lesiones costrosas
+T13	ENFERMEDAD 1046 1054	lesiones
+T14	ENFERMEDAD 1178 1217	retracción completa del cuero cabelludo
+T15	ENFERMEDAD 1490 1505	hernia inguinal
+T16	ENFERMEDAD 50 88	ausencia de pelo en el cuero cabelludo
+T17	PROCEDIMIENTO 1140 1152	radioterapia
+T18	PROCEDIMIENTO 1271 1279	colgajos
+T19	PROCEDIMIENTO 1336 1372	resección amplia del cuero cabelludo
+T20	PROCEDIMIENTO 1357 1443	cuero cabelludo y reconstrucción inmediata del defecto con un colgajo libre de omentum
+T21	PROCEDIMIENTO 1461 1505	herniorrafia para reducir la hernia inguinal
+T22	PROCEDIMIENTO 1691 1729	extirpación amplia del cuero cabelludo
+T23	PROCEDIMIENTO 1743 1835	abordaje preauricular bilateral para identificar y aislar los vasos temporales superficiales
+T24	PROCEDIMIENTO 1862 1879	laparotomía media
+T25	PROCEDIMIENTO 1889 1919	explorada la cavidad abdominal
+T26	PROCEDIMIENTO 1921 1987	se tracciona del omentum y se diseca desde el mesocolon transverso
+T27	PROCEDIMIENTO 221 231	retinoides
+T28	PROCEDIMIENTO 2314 2373	se liga el pedículo de la arteria gastroepiploica izquierda
+T29	PROCEDIMIENTO 234 245	crioterapia
+T30	PROCEDIMIENTO 2513 2552	se sutura el omentum al cuero cabelludo
+T31	PROCEDIMIENTO 2565 2592	se realizan las anastomosis
+T32	PROCEDIMIENTO 2656 2721	anastomosis a los vasos faciales y a los temporales superficiales
+T33	PROCEDIMIENTO 2752 2763	anastomosis
+T34	PROCEDIMIENTO 2905 2976	colgajo de omentum es recubierto con un injerto dermoepidérmico mallado
+T35	PROCEDIMIENTO 2979 3010	se coloca un vendaje compresivo
+T36	PROCEDIMIENTO 3316 3323	cirugía
+T37	PROCEDIMIENTO 3396 3403	cirugía
+T38	PROCEDIMIENTO 366 374	biopsias
+T39	PROCEDIMIENTO 602 652	radioterapia a dosis máximas en el cuero cabelludo
+T40	PROCEDIMIENTO 777 785	biopsias
+T41	SINTOMA 50 88	ausencia de pelo en el cuero cabelludo
+T42	SINTOMA 3539 3568	marcas del mallado de la piel
+T43	SINTOMA 1178 1217	retracción completa del cuero cabelludo

@@ -1,0 +1,42 @@
+T1	ENFERMEDAD 110 127	amiloidosis renal
+T2	ENFERMEDAD 593 611	síndrome nefrótico
+T3	ENFERMEDAD 244 258	amiloidosis AA
+T4	ENFERMEDAD 2563 2583	amiloidosis familiar
+T5	ENFERMEDAD 353 367	amiloidosis AL
+T6	ENFERMEDAD 3021 3049	depósito de amiloide en bazo
+T7	ENFERMEDAD 1158 1169	amiloidosis
+T8	ENFERMEDAD 1332 1343	amiloidosis
+T9	ENFERMEDAD 2009 2025	amiloidosis Afib
+T10	ENFERMEDAD 2388 2409	neuropatía autonómica
+T11	ENFERMEDAD 2966 2982	rotura esplénica
+T12	PROCEDIMIENTO 1033 1043	rojo Congo
+T13	PROCEDIMIENTO 1177 1210	estudio sobre muestra en parafina
+T14	PROCEDIMIENTO 1445 1515	estudio complementario con anticuerpos frente a fibrinógeno y lisozima
+T15	PROCEDIMIENTO 157 170	biopsia renal
+T16	PROCEDIMIENTO 1639 1655	estudio genético
+T17	PROCEDIMIENTO 1855 1862	biopsia
+T18	PROCEDIMIENTO 2113 2131	inmunohistoquímica
+T19	PROCEDIMIENTO 2288 2308	estudio de extensión
+T20	PROCEDIMIENTO 2314 2328	ecocardiograma
+T21	PROCEDIMIENTO 2331 2346	electromiograma
+T22	PROCEDIMIENTO 2729 2754	terapia renal sustitutiva
+T23	PROCEDIMIENTO 2813 2832	diálisis peritoneal
+T24	PROCEDIMIENTO 2887 2922	trasplante renal de donante cadáver
+T25	PROCEDIMIENTO 3072 3085	esplenectomía
+T26	PROCEDIMIENTO 430 448	exploración física
+T27	PROCEDIMIENTO 721 730	sedimento
+T28	PROCEDIMIENTO 764 806	espectro electroforético en sangre y orina
+T29	PROCEDIMIENTO 811 831	estudio inmunológico
+T30	PROCEDIMIENTO 837 852	ecografía renal
+T31	PROCEDIMIENTO 878 891	biopsia renal
+T32	SINTOMA 2441 2476	aumento progresivo de transaminasas
+T33	SINTOMA 2314 2409	ecocardiograma y electromiograma, sin evidencia de afectación cardiaca ni neuropatía autonómica
+T34	SINTOMA 56 62	edemas
+T35	SINTOMA 491 510	edemas bimaleolares
+T36	SINTOMA 764 865	espectro electroforético en sangre y orina, el estudio inmunológico y la ecografía renal son normales
+T37	SINTOMA 3148 3155	estable
+T38	SINTOMA 733 759	filtrado glomerular normal
+T39	SINTOMA 1680 1716	mutación en el gen de la cadena Afib
+T40	SINTOMA 1740 1816	mutación previamente no descrita en el gen de la apolipoproteína AI (apo AI)
+T41	SINTOMA 672 683	proteinuria
+T42	SINTOMA 698 730	sin alteraciones en el sedimento

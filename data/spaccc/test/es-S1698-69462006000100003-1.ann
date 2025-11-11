@@ -1,0 +1,50 @@
+T1	ENFERMEDAD 1672 1692	enfermedad de Cowden
+T2	ENFERMEDAD 1030 1065	maxilar inferior desdentado parcial
+T3	ENFERMEDAD 1067 1100	maxilar superior desdentado total
+T4	ENFERMEDAD 332 348	tumor intestinal
+T5	ENFERMEDAD 369 389	pólipos intestinales
+T6	ENFERMEDAD 1934 1950	pólipos en manto
+T7	ENFERMEDAD 2208 2228	enfermedad de Cowden
+T8	ENFERMEDAD 1605 1645	lesión inespecífica de tipo papilomatosa
+T9	ENFERMEDAD 1988 1995	pólipos
+T10	ENFERMEDAD 1182 1225	mucosa está tapizada por lesiones papulares
+T11	ENFERMEDAD 877 902	queratosis palmoplantales
+T12	ENFERMEDAD 916 939	verrugas virales planas
+T13	ENFERMEDAD 942 1002	lesiones papulares no queratósicas en axilas, ingles y tórax
+T14	ENFERMEDAD 617 631	hipertelorismo
+T15	ENFERMEDAD 1162 1177	lengua fisurada
+T16	ENFERMEDAD 1544 1555	traumatismo
+T17	ENFERMEDAD 133 173	lesión exofítica en mucosa yugal derecha
+T18	ENFERMEDAD 242 264	sangrados intestinales
+T19	ENFERMEDAD 585 615	circunferencia craneana grande
+T20	ENFERMEDAD 633 651	puente nasal ancho
+T21	ENFERMEDAD 653 670	frente prominente
+T22	ENFERMEDAD 673 690	fascies adenoidea
+T23	ENFERMEDAD 692 803	Alrededor de los orificios faciales se observan múltiples lesiones papulares asintomáticas del color de la piel
+T24	ENFERMEDAD 1143 1159	paladar profundo
+T25	PROCEDIMIENTO 1008 1020	examen bucal
+T26	PROCEDIMIENTO 1576 1592	biopsia exéresis
+T27	PROCEDIMIENTO 1828 1862	tomografía computarizada de cráneo
+T28	PROCEDIMIENTO 1864 1866	TC
+T29	PROCEDIMIENTO 1898 1919	endoscopía intestinal
+T30	PROCEDIMIENTO 1963 1980	anatomopatológico
+T31	PROCEDIMIENTO 2068 2089	exámenes paraclínicos
+T32	PROCEDIMIENTO 2265 2295	estudios del material genético
+T33	PROCEDIMIENTO 400 457	histerectomizada recientemente con ooforectomía bilateral
+T34	PROCEDIMIENTO 435 457	ooforectomía bilateral
+T35	PROCEDIMIENTO 559 573	examen clínico
+T36	PROCEDIMIENTO 808 822	examen clínico
+T37	SINTOMA 617 631	hipertelorismo
+T38	SINTOMA 585 615	circunferencia craneana grande
+T39	SINTOMA 109 165	dolor producido por una lesión exofítica en mucosa yugal
+T40	SINTOMA 318 327	fallecido
+T41	SINTOMA 673 690	fascies adenoidea
+T42	SINTOMA 653 670	frente prominente
+T43	SINTOMA 1162 1177	lengua fisurada
+T44	SINTOMA 1030 1065	maxilar inferior desdentado parcial
+T45	SINTOMA 1067 1100	maxilar superior desdentado total
+T46	SINTOMA 1143 1159	paladar profundo
+T47	SINTOMA 633 651	puente nasal ancho
+T48	SINTOMA 242 264	sangrados intestinales
+T49	SINTOMA 549 554	sanos
+T50	SINTOMA 1828 1895	tomografía computarizada de cráneo (TC) que no muestra alteraciones

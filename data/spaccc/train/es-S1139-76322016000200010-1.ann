@@ -1,0 +1,20 @@
+T1	ENFERMEDAD 118 134	sangrado vaginal
+T2	ENFERMEDAD 395 407	abuso sexual
+T3	ENFERMEDAD 497 519	cuerpo extraño vaginal
+T4	ENFERMEDAD 532 544	abuso sexual
+T5	ENFERMEDAD 605 627	cuerpo extraño vaginal
+T6	ENFERMEDAD 784 796	abuso sexual
+T7	PROCEDIMIENTO 1064 1076	coprocultivo
+T8	PROCEDIMIENTO 1078 1105	cultivo de exudado perianal
+T9	PROCEDIMIENTO 1108 1118	urocultivo
+T10	PROCEDIMIENTO 1164 1187	tratamiento antibiótico
+T11	PROCEDIMIENTO 204 222	exploración física
+T12	PROCEDIMIENTO 561 585	exploración ginecológica
+T13	PROCEDIMIENTO 656 671	exudado vaginal
+T14	PROCEDIMIENTO 801 828	cultivo del exudado vaginal
+T15	PROCEDIMIENTO 884 896	antibiograma
+T16	SINTOMA 238 288	congestión y edema del himen y del introito vulvar
+T17	SINTOMA 1064 1144	coprocultivo, cultivo de exudado perianal y urocultivo, que resultaron negativos
+T18	SINTOMA 801 863	cultivo del exudado vaginal resultó positivo a Shigella sonnei
+T19	SINTOMA 156 196	flujo vaginal mucopurulento y maloliente
+T20	SINTOMA 118 134	sangrado vaginal

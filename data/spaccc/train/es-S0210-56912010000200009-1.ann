@@ -1,0 +1,64 @@
+T1	ENFERMEDAD 53 56	HTA
+T2	ENFERMEDAD 90 108	neoplasia de recto
+T3	ENFERMEDAD 329 377	broncoaspiración durante la inducción anestésica
+T4	ENFERMEDAD 1891 1911	fracaso respiratorio
+T5	PROCEDIMIENTO 1065 1077	antitérmicos
+T6	PROCEDIMIENTO 1108 1174	muestras microbiológicas (hemocultivo, urocultivo y broncoaspirado
+T7	PROCEDIMIENTO 1134 1145	hemocultivo
+T8	PROCEDIMIENTO 1147 1157	urocultivo
+T9	PROCEDIMIENTO 1160 1174	broncoaspirado
+T10	PROCEDIMIENTO 1192 1215	tratamiento antibiótico
+T11	PROCEDIMIENTO 127 140	quimioterapia
+T12	PROCEDIMIENTO 1407 1415	intubada
+T13	PROCEDIMIENTO 1418 1432	conectada a VM
+T14	PROCEDIMIENTO 142 169	análogo del 5-fluorouracilo
+T15	PROCEDIMIENTO 1514 1525	radiológica
+T16	PROCEDIMIENTO 1544 1568	muestras microbiológicas
+T17	PROCEDIMIENTO 1608 1620	TC abdominal
+T18	PROCEDIMIENTO 1663 1670	cirugía
+T19	PROCEDIMIENTO 1709 1719	gasometría
+T20	PROCEDIMIENTO 173 199	radioterapia preoperatoria
+T21	PROCEDIMIENTO 1755 1788	pruebas respiratorias espontáneas
+T22	PROCEDIMIENTO 1842 1852	extubación
+T23	PROCEDIMIENTO 1958 1966	cultivos
+T24	PROCEDIMIENTO 2011 2066	fibrobroncoscopia con recogida de lavado broncoalveolar
+T25	PROCEDIMIENTO 2068 2071	BAL
+T26	PROCEDIMIENTO 2075 2109	se mandan muestras a microbiología
+T27	PROCEDIMIENTO 2111 2118	cultivo
+T28	PROCEDIMIENTO 2121 2163	PCR para herpes, CMV y virus respiratorios
+T29	PROCEDIMIENTO 2167 2186	anatomía patológica
+T30	PROCEDIMIENTO 2199 2223	traqueostomía percutánea
+T31	PROCEDIMIENTO 2256 2259	BAL
+T32	PROCEDIMIENTO 230 237	cirugía
+T33	PROCEDIMIENTO 2340 2351	histológico
+T34	PROCEDIMIENTO 2561 2582	tratamiento antiviral
+T35	PROCEDIMIENTO 259 282	intervención quirúrgica
+T36	PROCEDIMIENTO 2662 2699	desconexión progresiva del respirador
+T37	PROCEDIMIENTO 284 311	amputación abdominoperineal
+T38	PROCEDIMIENTO 357 377	inducción anestésica
+T39	PROCEDIMIENTO 448 463	sedoanalgesiada
+T40	PROCEDIMIENTO 465 473	intubada
+T41	PROCEDIMIENTO 476 490	conectada a VM
+T42	PROCEDIMIENTO 636 648	se la extuba
+T43	PROCEDIMIENTO 822 854	ventilación mecánica no invasiva
+T44	PROCEDIMIENTO 856 860	VMNI
+T45	PROCEDIMIENTO 879 893	pulsioximetría
+T46	PROCEDIMIENTO 986 1000	se la reintuba
+T47	SINTOMA 1696 1703	afebril
+T48	SINTOMA 756 787	afectación parenquimatosa basal
+T49	SINTOMA 554 588	afectación pulmonar parenquimatosa
+T50	SINTOMA 1958 1987	cultivos reiterados negativos
+T51	SINTOMA 407 433	dificultades ventilatorias
+T52	SINTOMA 1015 1021	fiebre
+T53	SINTOMA 2653 2659	fiebre
+T54	SINTOMA 1468 1474	fiebre
+T55	SINTOMA 1937 1951	fiebre elevada
+T56	SINTOMA 527 538	infiltrados
+T57	SINTOMA 1530 1541	infiltrados
+T58	SINTOMA 946 972	mala mecánica respiratoria
+T59	SINTOMA 1544 1578	muestras microbiológicas negativas
+T60	SINTOMA 2284 2302	PCR VHS-1 positivo
+T61	SINTOMA 2512 2549	positividad nuclear para herpes virus
+T62	SINTOMA 1268 1289	reacción inflamatoria
+T63	SINTOMA 1355 1376	reacción leucocitaria
+T64	SINTOMA 920 941	taquipnea persistente

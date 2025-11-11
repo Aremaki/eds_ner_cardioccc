@@ -1,0 +1,33 @@
+T1	ENFERMEDAD 74 84	tabaquismo
+T2	ENFERMEDAD 87 95	etilismo
+T3	ENFERMEDAD 114 135	tuberculosis pulmonar
+T4	ENFERMEDAD 1078 1089	aspergiloma
+T5	ENFERMEDAD 808 832	adenopatías calcificadas
+T6	ENFERMEDAD 640 679	lesión cavitaria de pared gruesa en LSI
+T7	ENFERMEDAD 952 1015	lesión del lóbulo superior izquierdo (LSI) con nueva cavitación
+T8	ENFERMEDAD 1381 1391	hemoptisis
+T9	PROCEDIMIENTO 1095 1118	baciloscopias de esputo
+T10	PROCEDIMIENTO 1141 1158	cultivo de esputo
+T11	PROCEDIMIENTO 1196 1205	serología
+T12	PROCEDIMIENTO 1412 1420	cultivos
+T13	PROCEDIMIENTO 262 280	exploración física
+T14	PROCEDIMIENTO 354 375	auscultación pulmonar
+T15	PROCEDIMIENTO 383 402	analítica sanguínea
+T16	PROCEDIMIENTO 526 546	radiografía de tórax
+T17	PROCEDIMIENTO 715 727	TAC de tórax
+T18	SINTOMA 291 300	febrícula
+T19	SINTOMA 416 428	leucocitosis
+T20	SINTOMA 214 230	síndrome general
+T21	SINTOMA 747 793	afectación intersticial bilateral micronodular
+T22	SINTOMA 1256 1301	antígeno galactomanano presentaba positividad
+T23	SINTOMA 1095 1135	baciloscopias de esputo fueron negativas
+T24	SINTOMA 618 637	conglomerado en LSD
+T25	SINTOMA 842 881	conglomerado en LSD con calcificaciones
+T26	SINTOMA 1141 1191	cultivo de esputo positivo para Aspergillus flavus
+T27	SINTOMA 1412 1447	cultivos positivos para Aspergillus
+T28	SINTOMA 201 211	hemoptisis
+T29	SINTOMA 1381 1391	hemoptisis
+T30	SINTOMA 963 1047	lóbulo superior izquierdo (LSI) con nueva cavitación, observándose material flotante
+T31	SINTOMA 563 612	patrón intersticial micronodular bilateral difuso
+T32	SINTOMA 315 347	roncus y crepitantes bilaterales
+T33	SINTOMA 1196 1250	serología también fue positiva para Aspergillus flavus

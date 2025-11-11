@@ -1,0 +1,51 @@
+T1	ENFERMEDAD 562 588	paresia del IV par craneal
+T2	ENFERMEDAD 1374 1382	diplopia
+T3	ENFERMEDAD 415 424	exfumador
+T4	ENFERMEDAD 1999 2007	embólico
+T5	ENFERMEDAD 615 750	afectación incompleta del III par bilateral y VI par derecho de predominio inferior manifestada en forma de diplopía binocular vertical
+T6	ENFERMEDAD 1609 1662	microinfartos solitarios en sustancia blanca profunda
+T7	ENFERMEDAD 487 498	dislipémico
+T8	ENFERMEDAD 1673 1766	lesiones isquémicas agudas de localización paramedial en ambos tálamos y mesencéfalo anterior
+T9	ENFERMEDAD 1784 1822	obstrucción de la arteria de Percheron
+T10	ENFERMEDAD 2258 2266	diplopía
+T11	ENFERMEDAD 445 455	hipertenso
+T12	ENFERMEDAD 235 249	visión borrosa
+T13	ENFERMEDAD 252 273	visión doble vertical
+T14	PROCEDIMIENTO 1042 1051	hemograma
+T15	PROCEDIMIENTO 1053 1063	bioquímica
+T16	PROCEDIMIENTO 1065 1087	estudio de coagulación
+T17	PROCEDIMIENTO 1089 1116	radiografía simple de tórax
+T18	PROCEDIMIENTO 1119 1137	electrocardiograma
+T19	PROCEDIMIENTO 1173 1210	tomografía computerizada (TC) craneal
+T20	PROCEDIMIENTO 1199 1201	TC
+T21	PROCEDIMIENTO 1402 1431	oclusión monocular alternante
+T22	PROCEDIMIENTO 1542 1587	RM encefálica con resonancia Philips de 1,5 T
+T23	PROCEDIMIENTO 1888 1904	secuencias Flair
+T24	PROCEDIMIENTO 2039 2058	anticogulación oral
+T25	PROCEDIMIENTO 2161 2186	tratamiento rehabilitador
+T26	PROCEDIMIENTO 537 548	exploración
+T27	SINTOMA 136 150	desorientación
+T28	SINTOMA 235 249	visión borrosa
+T29	SINTOMA 292 313	pérdida de conciencia
+T30	SINTOMA 315 328	palpitaciones
+T31	SINTOMA 348 354	fiebre
+T32	SINTOMA 1374 1382	diplopia
+T33	SINTOMA 2258 2266	diplopía
+T34	SINTOMA 1449 1462	inestabilidad
+T35	SINTOMA 615 675	afectación incompleta del III par bilateral y VI par derecho
+T36	SINTOMA 925 948	alteración de la marcha
+T37	SINTOMA 2200 2222	autonomía de la marcha
+T38	SINTOMA 819 845	déficit motor ni sensitivo
+T39	SINTOMA 152 194	dificultad en la articulación del lenguaje
+T40	SINTOMA 723 750	diplopía binocular vertical
+T41	SINTOMA 878 888	dismetrías
+T42	SINTOMA 330 344	dolor torácico
+T43	SINTOMA 1042 1157	hemograma, bioquímica, estudio de coagulación, radiografía simple de tórax y electrocardiograma que fueron normales
+T44	SINTOMA 186 233	lenguaje, con emisión y comprensión conservadas
+T45	SINTOMA 942 998	marcha con tendencia a la lateropulsión hacia la derecha
+T46	SINTOMA 768 796	pares craneales son normales
+T47	SINTOMA 562 604	paresia del IV par craneal del ojo derecho
+T48	SINTOMA 857 873	Romberg negativo
+T49	SINTOMA 894 910	signos meníngeos
+T50	SINTOMA 1468 1490	trastorno de la marcha
+T51	SINTOMA 252 273	visión doble vertical

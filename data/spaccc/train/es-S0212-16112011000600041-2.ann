@@ -1,0 +1,18 @@
+T1	ENFERMEDAD 49 70	tuberculosis pulmonar
+T2	ENFERMEDAD 984 1011	enfermedad pierde proteínas
+T3	ENFERMEDAD 1226 1245	hipertensión portal
+T4	ENFERMEDAD 581 600	esteatosis hepática
+T5	ENFERMEDAD 603 622	hipertensión portal
+T6	ENFERMEDAD 658 665	ascitis
+T7	ENFERMEDAD 823 841	varices esofágicas
+T8	ENFERMEDAD 865 880	hernia de hiato
+T9	ENFERMEDAD 883 930	gastropatía secundaria a la hipertensión portal
+T10	ENFERMEDAD 131 147	bebedor moderado
+T11	ENFERMEDAD 767 776	hepatitis
+T12	ENFERMEDAD 702 741	consumo excesivo de bebidas alcohólicas
+T13	SINTOMA 658 665	ascitis
+T14	SINTOMA 235 276	aumento paulatino del perímetro abdominal
+T15	SINTOMA 634 655	circulación colateral
+T16	SINTOMA 398 418	coagulación alterada
+T17	SINTOMA 301 334	edemas en extremidades inferiores
+T18	SINTOMA 743 785	estudio virológico para hepatitis negativo

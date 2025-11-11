@@ -1,0 +1,40 @@
+T1	ENFERMEDAD 95 119	diabetes mellitus tipo I
+T2	ENFERMEDAD 1395 1424	abscesos de psoas bilaterales
+T3	ENFERMEDAD 122 141	prostatitis crónica
+T4	ENFERMEDAD 1485 1511	espondilodiscitis en L5-S1
+T5	ENFERMEDAD 955 978	espondilodiscitis L5-S1
+T6	ENFERMEDAD 1027 1053	absceso de psoas bilateral
+T7	ENFERMEDAD 1265 1286	colecciones del psoas
+T8	PROCEDIMIENTO 1092 1115	tratamiento antibiótico
+T9	PROCEDIMIENTO 1237 1286	drenaje transcutáneo de las colecciones del psoas
+T10	PROCEDIMIENTO 1346 1349	TAC
+T11	PROCEDIMIENTO 1652 1677	drenaje de ambos músculos
+T12	PROCEDIMIENTO 1683 1700	discectomía L5-S1
+T13	PROCEDIMIENTO 1781 1804	tratamiento antibiótico
+T14	PROCEDIMIENTO 1992 1999	cirugía
+T15	PROCEDIMIENTO 294 303	hemograma
+T16	PROCEDIMIENTO 305 315	bioquímica
+T17	PROCEDIMIENTO 317 339	pruebas de coagulación
+T18	PROCEDIMIENTO 342 352	radiología
+T19	PROCEDIMIENTO 388 400	hemocultivos
+T20	PROCEDIMIENTO 467 499	estudio serológico para Brucella
+T21	PROCEDIMIENTO 509 524	Rosa de Bengala
+T22	PROCEDIMIENTO 536 553	sero-aglutinación
+T23	PROCEDIMIENTO 573 591	antibrucela-coombs
+T24	PROCEDIMIENTO 784 795	exploración
+T25	PROCEDIMIENTO 848 863	signo del psoas
+T26	PROCEDIMIENTO 892 922	tomografía axial computerizada
+T27	PROCEDIMIENTO 924 927	TAC
+T28	SINTOMA 754 766	dolor lumbar
+T29	SINTOMA 771 777	fiebre
+T30	SINTOMA 226 232	fiebre
+T31	SINTOMA 235 251	malestar general
+T32	SINTOMA 1906 1918	asintomático
+T33	SINTOMA 1923 1942	buen estado general
+T34	SINTOMA 573 601	antibrucela-coombs: positivo
+T35	SINTOMA 1265 1286	colecciones del psoas
+T36	SINTOMA 388 462	hemocultivos en medios convencionales y de Ruiz Castañeda fueron negativos
+T37	SINTOMA 294 382	hemograma, bioquímica, pruebas de coagulación y radiología convencional sin alteraciones
+T38	SINTOMA 799 837	región ilíaca izquierda está empastada
+T39	SINTOMA 509 534	Rosa de Bengala: positivo
+T40	SINTOMA 848 872	signo del psoas positivo

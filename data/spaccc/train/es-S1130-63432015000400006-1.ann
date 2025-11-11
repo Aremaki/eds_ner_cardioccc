@@ -1,0 +1,48 @@
+T1	PROCEDIMIENTO 1008 1040	tratamiento antibiótico empírico
+T2	PROCEDIMIENTO 1069 1091	reposición de natremia
+T3	PROCEDIMIENTO 1101 1113	sueroterapia
+T4	PROCEDIMIENTO 1317 1326	analítica
+T5	PROCEDIMIENTO 1425 1467	reposición natrémica mediante sueroterapia
+T6	PROCEDIMIENTO 1808 1820	hemocultivos
+T7	PROCEDIMIENTO 1962 1985	tratamiento antibiótico
+T8	PROCEDIMIENTO 2015 2037	catéter, que se retira
+T9	PROCEDIMIENTO 2050 2078	ecocardiograma transtorácico
+T10	PROCEDIMIENTO 2124 2136	hemocultivos
+T11	PROCEDIMIENTO 2505 2529	extracción de la muestra
+T12	PROCEDIMIENTO 2597 2620	estudio farmacocinético
+T13	PROCEDIMIENTO 3739 3762	tratamiento antibiótico
+T14	PROCEDIMIENTO 3799 3816	nutrición enteral
+T15	PROCEDIMIENTO 3867 3887	corrección natrémica
+T16	PROCEDIMIENTO 3951 3963	sueroterapia
+T17	PROCEDIMIENTO 3966 3985	forzado de diuresis
+T18	PROCEDIMIENTO 4087 4099	gastrostomía
+T19	PROCEDIMIENTO 424 444	radioterapia radical
+T20	PROCEDIMIENTO 4418 4432	sueros salinos
+T21	PROCEDIMIENTO 4568 4588	radiografía de tórax
+T22	PROCEDIMIENTO 4737 4749	sueroterapia
+T23	PROCEDIMIENTO 5085 5115	dieta enteral por gastrostomía
+T24	PROCEDIMIENTO 5118 5139	terapia radioterápica
+T25	PROCEDIMIENTO 942 954	gastrostomía
+T26	PROCEDIMIENTO 967 1006	nutrición parenteral por vía periférica
+T27	SINTOMA 4255 4277	diuresis muy abundante
+T28	SINTOMA 3136 3174	elevación de los niveles de creatinina
+T29	SINTOMA 4886 4913	fórmula hematológica normal
+T30	SINTOMA 1808 1874	hemocultivos que resultan positivos para Streptococcus epidermidis
+T31	SINTOMA 2124 2150	hemocultivos son negativos
+T32	SINTOMA 3033 3052	pérdidas digestivas
+T33	SINTOMA 907 926	tumoración faríngea
+T34	SINTOMA 65 71	disnea
+T35	SINTOMA 84 97	expectoración
+T36	SINTOMA 3842 3849	diarrea
+T37	SINTOMA 100 111	somnolencia
+T38	SINTOMA 2265 2279	picos febriles
+T39	SINTOMA 4916 4923	afebril
+T40	SINTOMA 868 876	disfagia
+T41	SINTOMA 5013 5020	diarrea
+T42	SINTOMA 299 305	T3N0M0
+T43	SINTOMA 1652 1667	síndrome febril
+T44	SINTOMA 1197 1217	función renal normal
+T45	SINTOMA 887 895	sangrado
+T46	SINTOMA 2924 2931	diarrea
+T47	SINTOMA 3085 3097	hiponatremia
+T48	SINTOMA 4121 4128	diarrea

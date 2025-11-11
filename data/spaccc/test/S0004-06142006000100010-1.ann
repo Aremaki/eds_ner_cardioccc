@@ -1,0 +1,23 @@
+T1	ENFERMEDAD 38 43	obesa
+T2	ENFERMEDAD 45 53	diabetes
+T3	ENFERMEDAD 56 66	hipertensa
+T4	ENFERMEDAD 631 648	tumor suprarrenal
+T5	ENFERMEDAD 841 884	tumor localizado en la glándula suprarrenal
+T6	ENFERMEDAD 1322 1356	mielolipoma de la glándula adrenal
+T7	ENFERMEDAD 495 507	masa tumoral
+T8	PROCEDIMIENTO 1298 1320	examen histopatológico
+T9	PROCEDIMIENTO 174 192	exploración física
+T10	PROCEDIMIENTO 216 237	ultrasonido abdominal
+T11	PROCEDIMIENTO 348 368	Urograma descendente
+T12	PROCEDIMIENTO 479 493	TAC helicoidal
+T13	PROCEDIMIENTO 681 731	estudio hormonal para la determinación de cortisol
+T14	PROCEDIMIENTO 771 798	cirugía por abordaje lumbar
+T15	PROCEDIMIENTO 804 830	hallazgos transoperatorios
+T16	PROCEDIMIENTO 961 983	adrenalectomía derecha
+T17	SINTOMA 1076 1088	asintomática
+T18	SINTOMA 118 130	dolor lumbar
+T19	SINTOMA 174 203	exploración física fue normal
+T20	SINTOMA 681 742	estudio hormonal para la determinación de cortisol fue normal
+T21	SINTOMA 251 289	masa suprarrenal derecha hipoecogénica
+T22	SINTOMA 418 471	polo superior de riñón derecho desplazado hacia abajo
+T23	SINTOMA 370 405	proceso expansivo en la suprarrenal

@@ -1,0 +1,76 @@
+T1	ENFERMEDAD 2334 2379	linfoma pulmonar primario (LPP) de bajo grado
+T2	ENFERMEDAD 2361 2364	LPP
+T3	ENFERMEDAD 83 91	enolismo
+T4	ENFERMEDAD 94 109	asma extrínseco
+T5	ENFERMEDAD 1905 1924	hepatopatía crónica
+T6	ENFERMEDAD 331 342	adenopatías
+T7	ENFERMEDAD 1963 1974	adenopatías
+T8	ENFERMEDAD 785 807	neumonía de la língula
+T9	ENFERMEDAD 2217 2229	atelectásico
+T10	ENFERMEDAD 2286 2310	infiltración por linfoma
+T11	ENFERMEDAD 3005 3027	toxicidad hematológica
+T12	ENFERMEDAD 3005 3038	toxicidad hematológica y hepática
+T13	ENFERMEDAD 1412 1430	linfoma no Hodgkin
+T14	ENFERMEDAD 1432 1435	LNH
+T15	ENFERMEDAD 1511 1552	Linfoma linfocítico B de células pequeñas
+T16	ENFERMEDAD 1554 1559	LLBCP
+T17	ENFERMEDAD 53 63	tabaquismo
+T18	ENFERMEDAD 312 327	visceromegalias
+T19	ENFERMEDAD 2596 2608	masa tumoral
+T20	PROCEDIMIENTO 1096 1108	broncoscopia
+T21	PROCEDIMIENTO 1217 1239	citología del aspirado
+T22	PROCEDIMIENTO 1242 1261	cepillado bronquial
+T23	PROCEDIMIENTO 1295 1350	punción-aspiración con aguja fina (PAAF) guiada por TAC
+T24	PROCEDIMIENTO 1330 1334	PAAF
+T25	PROCEDIMIENTO 1442 1483	biopsia pulmonar mediante minitoracotomía
+T26	PROCEDIMIENTO 1615 1634	estudios biológicos
+T27	PROCEDIMIENTO 1760 1773	proteinograma
+T28	PROCEDIMIENTO 1778 1796	serologías víricas
+T29	PROCEDIMIENTO 1802 1826	estudio de autoinmunidad
+T30	PROCEDIMIENTO 1856 1875	ecografía abdominal
+T31	PROCEDIMIENTO 189 207	exploración física
+T32	PROCEDIMIENTO 1937 1950	TAC abdominal
+T33	PROCEDIMIENTO 1986 1998	TAC torácica
+T34	PROCEDIMIENTO 2264 2276	biopsia ósea
+T35	PROCEDIMIENTO 2565 2578	quimioterapia
+T36	PROCEDIMIENTO 2683 2712	poliquimioterapia intravenosa
+T37	PROCEDIMIENTO 2798 2810	TAC torácica
+T38	PROCEDIMIENTO 300 327	se palpaban visceromegalias
+T39	PROCEDIMIENTO 3167 3196	radiografía y la TAC torácica
+T40	PROCEDIMIENTO 3327 3360	estudio gammagráfico con galio-67
+T41	PROCEDIMIENTO 347 356	analítica
+T42	PROCEDIMIENTO 423 430	cultivo
+T43	PROCEDIMIENTO 437 454	tinciones de Gram
+T44	PROCEDIMIENTO 457 480	Ziehl-Neelsen de esputo
+T45	PROCEDIMIENTO 502 522	radiografía de tórax
+T46	PROCEDIMIENTO 633 663	tomografía axial computerizada
+T47	PROCEDIMIENTO 665 668	TAC
+T48	PROCEDIMIENTO 834 851	broncodilatadores
+T49	PROCEDIMIENTO 853 867	oxigenoterapia
+T50	SINTOMA 379 390	neutrofilia
+T51	SINTOMA 127 133	fiebre
+T52	SINTOMA 166 172	disnea
+T53	SINTOMA 219 228	febrícula
+T54	SINTOMA 240 249	taquipnea
+T55	SINTOMA 252 267	hipoventilación
+T56	SINTOMA 935 944	febrícula
+T57	SINTOMA 312 327	visceromegalias
+T58	SINTOMA 1648 1699	aumento discreto de la VSG, de la b2-microglobulina
+T59	SINTOMA 1722 1753	banda minimonoclonal IgM lambda
+T60	SINTOMA 577 594	broncograma aéreo
+T61	SINTOMA 1217 1290	citología del aspirado y cepillado bronquial fué negativa para malignidad
+T62	SINTOMA 2206 2259	componente atelectásico con desviación del mediastino
+T63	SINTOMA 1057 1069	condensación
+T64	SINTOMA 536 561	condensación paracardiaca
+T65	SINTOMA 423 497	cultivo y las tinciones de Gram y Ziehl-Neelsen de esputo fueron negativos
+T66	SINTOMA 699 752	infiltrado pulmonar izquierdo, con afectación pleural
+T67	SINTOMA 2028 2041	masa pulmonar
+T68	SINTOMA 2853 2875	masa pulmonar superior
+T69	SINTOMA 2596 2608	masa tumoral
+T70	SINTOMA 3212 3250	parénquimas pulmonares bien ventilados
+T71	SINTOMA 1778 1851	serologías víricas y el estudio de autoinmunidad (ANOES) fueron negativos
+T72	SINTOMA 272 295	sibilantes espiratorios
+T73	SINTOMA 1119 1175	signos inflamatorios inespecíficos en el árbol bronquial
+T74	SINTOMA 135 149	tos productiva
+T75	SINTOMA 3276 3312	tracto fibroso residual en el pulmón
+T76	SINTOMA 397 417	trombocitopenia leve

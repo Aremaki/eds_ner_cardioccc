@@ -1,0 +1,37 @@
+T1	PROCEDIMIENTO 1032 1053	neumonectomía derecha
+T2	PROCEDIMIENTO 1164 1176	colonoscopia
+T3	PROCEDIMIENTO 1261 1274	TAC abdominal
+T4	PROCEDIMIENTO 1621 1643	hemicolectomía derecha
+T5	PROCEDIMIENTO 1648 1671	estudio histopatológico
+T6	PROCEDIMIENTO 1884 1902	inmunohistoquímica
+T7	PROCEDIMIENTO 198 233	histerectomía con doble anexectomía
+T8	PROCEDIMIENTO 2180 2197	cirugía abdominal
+T9	PROCEDIMIENTO 246 259	braquiterapia
+T10	PROCEDIMIENTO 404 423	analítica de sangre
+T11	PROCEDIMIENTO 449 469	radiografía de tórax
+T12	PROCEDIMIENTO 472 484	TAC torácico
+T13	PROCEDIMIENTO 548 594	biopsia de dicha masa a través de broncoscopia
+T14	PROCEDIMIENTO 651 669	imnunohistoquímica
+T15	PROCEDIMIENTO 759 779	estudio de extensión
+T16	PROCEDIMIENTO 784 796	gastroscopia
+T17	PROCEDIMIENTO 798 810	colonoscopia
+T18	PROCEDIMIENTO 813 832	TAC abdominopélvico
+T19	PROCEDIMIENTO 926 947	neumonectomía derecha
+T20	PROCEDIMIENTO 966 976	histología
+T21	SINTOMA 1279 1318	dilatación de asas de intestino delgado
+T22	SINTOMA 319 325	disnea
+T23	SINTOMA 1085 1100	dolor abdominal
+T24	SINTOMA 2155 2166	falleciendo
+T25	SINTOMA 360 370	hemoptisis
+T26	SINTOMA 1105 1112	náuseas
+T27	SINTOMA 1137 1148	rectorragia
+T28	SINTOMA 373 389	síndrome general
+T29	SINTOMA 355 358	tos
+T30	SINTOMA 613 623	tumoración
+T31	SINTOMA 1114 1121	vómitos
+T32	SINTOMA 404 433	analítica de sangre es normal
+T33	SINTOMA 784 849	gastroscopia, colonoscopia y TAC abdominopélvico que fue negativo
+T34	SINTOMA 1338 1388	imagen en "donuts" a nivel de íleon terminal-ciego
+T35	SINTOMA 503 518	masa parahiliar
+T36	SINTOMA 1193 1258	masa polilobulada de aspecto neoplásico en colon ascendente-ciego
+T37	SINTOMA 1589 1608	tumoración en ciego

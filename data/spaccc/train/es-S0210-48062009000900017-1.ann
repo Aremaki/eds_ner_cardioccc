@@ -1,0 +1,32 @@
+T1	ENFERMEDAD 822 830	orquitis
+T2	ENFERMEDAD 2144 2173	MLP testicular y epididimaria
+T3	ENFERMEDAD 49 69	retraso mental grave
+T4	ENFERMEDAD 72 106	sordomudez secundaria a meningitis
+T5	ENFERMEDAD 96 106	meningitis
+T6	ENFERMEDAD 1075 1095	neoplasia testicular
+T7	ENFERMEDAD 1577 1597	hipoespermatogénesis
+T8	ENFERMEDAD 751 770	cavidades quísticas
+T9	ENFERMEDAD 1664 1692	proceso inflamatorio crónico
+T10	PROCEDIMIENTO 1112 1142	orquiectomía radical izquierda
+T11	PROCEDIMIENTO 1168 1221	marcadores tumorales (b-HCG, alfa-fetoproteína y LDH)
+T12	PROCEDIMIENTO 1303 1315	orquiectomía
+T13	PROCEDIMIENTO 1529 1548	examen microscópico
+T14	PROCEDIMIENTO 1941 1961	tinción de Von Kossa
+T15	PROCEDIMIENTO 2219 2235	fluoroquinolonas
+T16	PROCEDIMIENTO 285 327	tratamiento antibiótico y antiinflamatorio
+T17	PROCEDIMIENTO 334 345	exploración
+T18	PROCEDIMIENTO 575 593	sedimento de orina
+T19	PROCEDIMIENTO 629 638	ecografía
+T20	PROCEDIMIENTO 876 915	tratamiento analgésico-antiinflamatorio
+T21	PROCEDIMIENTO 987 996	palpación
+T22	SINTOMA 2323 2335	asintomático
+T23	SINTOMA 1025 1031	nódulo
+T24	SINTOMA 617 623	piuria
+T25	SINTOMA 362 405	aumento generalizado del contenido escrotal
+T26	SINTOMA 179 216	dolor e inflamación en el hemiescroto
+T27	SINTOMA 518 537	epidídimo engrosado
+T28	SINTOMA 1168 1242	marcadores tumorales (b-HCG, alfa-fetoproteína y LDH), que fueron normales
+T29	SINTOMA 1391 1445	parénquima testicular estaba aumentado de consistencia
+T30	SINTOMA 654 689	teste izquierdo aumentado de tamaño
+T31	SINTOMA 542 570	testículo derecho fue normal
+T32	SINTOMA 442 475	testículo doloroso a la palpación

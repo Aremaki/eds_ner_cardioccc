@@ -1,0 +1,62 @@
+T1	ENFERMEDAD 27 34	fumador
+T2	ENFERMEDAD 81 95	ulcus duodenal
+T3	ENFERMEDAD 1386 1395	neoplasia
+T4	ENFERMEDAD 143 189	neoplasia estenosante de unión recto-sigmoidea
+T5	ENFERMEDAD 2195 2204	neoplasia
+T6	ENFERMEDAD 2741 2783	estenosis del 80% del ramo obtuso marginal
+T7	ENFERMEDAD 1561 1579	estenosis de colon
+T8	ENFERMEDAD 2786 2830	estenosis del 80% en coronaria derecha media
+T9	ENFERMEDAD 1072 1105	estenosis a 10 cm del margen anal
+T10	ENFERMEDAD 1746 1762	recidiva tumoral
+T11	ENFERMEDAD 1255 1261	úlcera
+T12	ENFERMEDAD 1212 1230	enfermedad maligna
+T13	ENFERMEDAD 887 899	rectorragias
+T14	ENFERMEDAD 1687 1704	estenosis maligna
+T15	ENFERMEDAD 168 205	unión recto-sigmoidea (adenocarcinoma
+T16	PROCEDIMIENTO 1033 1045	colonoscopia
+T17	PROCEDIMIENTO 1120 1139	paso del endoscopio
+T18	PROCEDIMIENTO 1152 1159	biopsia
+T19	PROCEDIMIENTO 1185 1208	signos histopatológicos
+T20	PROCEDIMIENTO 1290 1318	marcadores tumorales séricos
+T21	PROCEDIMIENTO 1419 1429	endoscopia
+T22	PROCEDIMIENTO 1444 1455	enema opaco
+T23	PROCEDIMIENTO 1466 1476	endoscopia
+T24	PROCEDIMIENTO 1479 1486	biopsia
+T25	PROCEDIMIENTO 1538 1549	enema opaco
+T26	PROCEDIMIENTO 1788 1825	tratamiento con enemas de corticoides
+T27	PROCEDIMIENTO 1847 1852	enema
+T28	PROCEDIMIENTO 1933 1956	exploración endoscópica
+T29	PROCEDIMIENTO 2017 2027	endoscopia
+T30	PROCEDIMIENTO 2158 2168	endoscopio
+T31	PROCEDIMIENTO 2256 2264	biopsias
+T32	PROCEDIMIENTO 2595 2605	ergometría
+T33	PROCEDIMIENTO 2608 2623	coronariografía
+T34	PROCEDIMIENTO 271 289	resección anterior
+T35	PROCEDIMIENTO 2807 2852	coronaria derecha media. Se decide dilatación
+T36	PROCEDIMIENTO 2855 2895	implantación de un doble stent coronario
+T37	PROCEDIMIENTO 302 395	anastomosis término-terminal mediante sutura mecánica utilizando la técnica del doble grapado
+T38	PROCEDIMIENTO 424 436	intervención
+T39	PROCEDIMIENTO 538 550	colonoscopia
+T40	PROCEDIMIENTO 553 562	ecografía
+T41	PROCEDIMIENTO 567 615	imagen endoscópica de la región perianastomótica
+T42	PROCEDIMIENTO 724 736	intervención
+T43	PROCEDIMIENTO 758 770	intervención
+T44	PROCEDIMIENTO 979 992	TAC abdominal
+T45	SINTOMA 2504 2538	alteraciones electrocardiográficas
+T46	SINTOMA 2929 2963	alteraciones electrocardiográficas
+T47	SINTOMA 1990 2002	asintomático
+T48	SINTOMA 2415 2427	asintomático
+T49	SINTOMA 3047 3059	asintomático
+T50	SINTOMA 797 817	deposiciones blandas
+T51	SINTOMA 819 869	dolorimiento abdominal intermitente en hipogastrio
+T52	SINTOMA 2694 2739	grave afectación del ostium del ramo diagonal
+T53	SINTOMA 567 630	imagen endoscópica de la región perianastomótica resultó normal
+T54	SINTOMA 1896 1907	inflamación
+T55	SINTOMA 2638 2692	irregularidades en descendente anterior proximal media
+T56	SINTOMA 1290 1346	marcadores tumorales séricos estaban en niveles normales
+T57	SINTOMA 2047 2077	mucosa inflamatoria y ulcerada
+T58	SINTOMA 887 899	rectorragias
+T59	SINTOMA 2290 2310	signos inflamatorios
+T60	SINTOMA 226 232	T3N0M0
+T61	SINTOMA 979 1029	TAC abdominal, que no reveló hallazgos patológicos
+T62	SINTOMA 3016 3031	tránsito normal

@@ -1,0 +1,45 @@
+T1	ENFERMEDAD 146 168	neoplasia de testículo
+T2	ENFERMEDAD 216 239	criptorquidia bilateral
+T3	ENFERMEDAD 380 412	cólicos nefríticos de repetición
+T4	ENFERMEDAD 430 438	litiasis
+T5	ENFERMEDAD 528 535	Fumador
+T6	ENFERMEDAD 767 784	azoospermia total
+T7	ENFERMEDAD 931 947	tumor testicular
+T8	ENFERMEDAD 950 966	quiste de cordón
+T9	ENFERMEDAD 1059 1088	quiste de epidídimo en cabeza
+T10	ENFERMEDAD 1293 1303	metástasis
+T11	ENFERMEDAD 2100 2126	Tumor de células de Leydig
+T12	ENFERMEDAD 2157 2201	infiltración del epidídimo, túnica albugínea
+T13	ENFERMEDAD 2436 2454	atrofia testicular
+T14	ENFERMEDAD 2489 2534	hiperplasia de células de Leydig intersticial
+T15	ENFERMEDAD 2649 2659	metástasis
+T16	ENFERMEDAD 615 626	esterilidad
+T17	ENFERMEDAD 2205 2222	invasión vascular
+T18	PROCEDIMIENTO 120 130	ecográfico
+T19	PROCEDIMIENTO 1217 1228	Rx de tórax
+T20	PROCEDIMIENTO 1248 1275	TAC toraco-abdómino-pélvico
+T21	PROCEDIMIENTO 1308 1317	analítica
+T22	PROCEDIMIENTO 1398 1418	marcadores tumorales
+T23	PROCEDIMIENTO 1490 1527	orquiectomía radical inguinal derecha
+T24	PROCEDIMIENTO 1530 1574	biopsia del testículo izquierdo vía inguinal
+T25	PROCEDIMIENTO 1985 2016	biopsia del testículo izquierdo
+T26	PROCEDIMIENTO 2075 2090	histopatológico
+T27	PROCEDIMIENTO 2389 2416	biopsia del teste izquierdo
+T28	PROCEDIMIENTO 260 272	orquidopexia
+T29	PROCEDIMIENTO 2624 2645	evidencia radiológica
+T30	PROCEDIMIENTO 2662 2682	marcadores tumorales
+T31	PROCEDIMIENTO 324 347	Uretrotomía endoscópica
+T32	PROCEDIMIENTO 481 485	LEOC
+T33	PROCEDIMIENTO 487 504	Ureterolitectomía
+T34	PROCEDIMIENTO 738 751	espermiograma
+T35	PROCEDIMIENTO 789 817	ecografía-doppler testicular
+T36	PROCEDIMIENTO 984 1002	exploración física
+T37	SINTOMA 629 648	nódulo en testículo
+T38	SINTOMA 2600 2619	buen estado general
+T39	SINTOMA 1308 1347	analítica tampoco mostraba alteraciones
+T40	SINTOMA 1937 1980	cordón espermático no presenta alteraciones
+T41	SINTOMA 2662 2721	marcadores tumorales dentro de los valores de la normalidad
+T42	SINTOMA 1778 1791	nódulo sólido
+T43	SINTOMA 1217 1239	Rx de tórax era normal
+T44	SINTOMA 837 914	testículo derecho con masa de 19 x 23 mm en polo superior con flujo aumentado
+T45	SINTOMA 1017 1053	testículo izquierdo sin alteraciones

@@ -1,0 +1,17 @@
+T1	ENFERMEDAD 543 560	apendicitis aguda
+T2	ENFERMEDAD 1180 1207	apendicitis crónica fibrosa
+T3	ENFERMEDAD 1075 1095	hiperplasia linfoide
+T4	ENFERMEDAD 227 250	reflujo gastroesofágico
+T5	ENFERMEDAD 495 528	bario en el interior del apéndice
+T6	PROCEDIMIENTO 152 191	estudio esofagogastroduodenal con bario
+T7	PROCEDIMIENTO 255 264	analítica
+T8	PROCEDIMIENTO 301 346	colonoscopia que alcanza hasta íleon terminal
+T9	PROCEDIMIENTO 385 418	radiografía y ecografía abdominal
+T10	PROCEDIMIENTO 452 468	estudio baritado
+T11	PROCEDIMIENTO 623 647	laparoscopia exploradora
+T12	PROCEDIMIENTO 785 799	apendicectomía
+T13	PROCEDIMIENTO 889 914	estudio anatomopatológico
+T14	SINTOMA 255 288	analítica es rigurosamente normal
+T15	SINTOMA 691 741	apéndice de tamaño normal y ligeramente congestivo
+T16	SINTOMA 301 379	colonoscopia que alcanza hasta íleon terminal, con una mucosa y calibre normal
+T17	SINTOMA 85 125	dolor persistente en fosa iliaca derecha

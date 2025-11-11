@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 40 61	hipertensión arterial
+T2	ENFERMEDAD 63 94	accidente isquémico transitorio
+T3	ENFERMEDAD 96 108	osteoporosis
+T4	ENFERMEDAD 110 168	trombosis venosa profunda de extremidad inferior izquierda
+T5	ENFERMEDAD 1572 1592	isquemia mesentérica
+T6	ENFERMEDAD 216 237	fibrilación auricular
+T7	ENFERMEDAD 1902 1927	derrame pleural bilateral
+T8	ENFERMEDAD 1972 2006	tromboembolismo pulmonar bilateral
+T9	ENFERMEDAD 2024 2027	HIT
+T10	ENFERMEDAD 651 688	trombosis venosa mesentérica y portal
+T11	ENFERMEDAD 743 800	trombosis venosa portal, esplénica y mesentérica superior
+T12	ENFERMEDAD 2389 2404	derrame pleural
+T13	ENFERMEDAD 2503 2521	émbolos pulmonares
+T14	ENFERMEDAD 2654 2656	FA
+T15	ENFERMEDAD 1368 1392	trombosis del eje portal
+T16	ENFERMEDAD 1416 1457	síndrome mieloproliferativo JAK2 positivo
+T17	ENFERMEDAD 1890 1899	hipoxemia
+T18	PROCEDIMIENTO 1056 1066	bioquímica
+T19	PROCEDIMIENTO 1071 1084	proteinograma
+T20	PROCEDIMIENTO 1087 1118	inmunofijación en suero y orina
+T21	PROCEDIMIENTO 1120 1140	estudio trombofílico
+T22	PROCEDIMIENTO 1544 1567	intervención quirúrgica
+T23	PROCEDIMIENTO 173 212	anticoagulación oral con antivitamina K
+T24	PROCEDIMIENTO 1940 1957	angioTAC torácico
+T25	PROCEDIMIENTO 2042 2102	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car)
+T26	PROCEDIMIENTO 2525 2533	angioTAC
+T27	PROCEDIMIENTO 2671 2690	tratamiento con AVK
+T28	PROCEDIMIENTO 505 523	exploración física
+T29	PROCEDIMIENTO 570 612	dolor abdominal epigástrico a la palpación
+T30	PROCEDIMIENTO 620 639	ecografía abdominal
+T31	PROCEDIMIENTO 714 727	TAC abdominal
+T32	PROCEDIMIENTO 925 934	analítica
+T33	SINTOMA 286 307	dolor abdominal agudo
+T34	SINTOMA 393 399	fiebre
+T35	SINTOMA 1882 1888	disnea
+T36	SINTOMA 1013 1043	cifras de hemoglobina normales
+T37	SINTOMA 834 870	correctos niveles de anticoagulación
+T38	SINTOMA 1902 1927	derrame pleural bilateral
+T39	SINTOMA 1746 1785	disminución de sus niveles plaquetarios
+T40	SINTOMA 570 597	dolor abdominal epigástrico
+T41	SINTOMA 505 530	exploración física normal
+T42	SINTOMA 1890 1899	hipoxemia
+T43	SINTOMA 946 968	moderada trombocitosis
+T44	SINTOMA 1302 1336	mutación JAK2 siendo esta positiva
+T45	SINTOMA 1071 1299	proteinograma e inmunofijación en suero y orina, estudio trombofílico determinando anticoagulante lúpico, Ac anticardiolipina y beta 2 glicoproteína I, mutación Factor V Leiden, protrombina 20,210 G-A con resultado de normalidad
+T46	SINTOMA 340 386	ritmo deposicional de características normales
+T47	SINTOMA 540 567	ruidos cardiacos arrítmicos
+T48	SINTOMA 2042 2125	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car) con resultado positivo

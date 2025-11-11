@@ -1,0 +1,81 @@
+T1	ENFERMEDAD 3799 3817	mioclonia cortical
+T2	ENFERMEDAD 1293 1295	EC
+T3	ENFERMEDAD 1110 1161	duodenales mostró atrofia total de las vellosidades
+T4	ENFERMEDAD 100 115	diarrea crónica
+T5	ENFERMEDAD 425 427	EC
+T6	ENFERMEDAD 192 194	EC
+T7	ENFERMEDAD 4058 4086	distonía en las extremidades
+T8	ENFERMEDAD 5031 5054	neumonía por aspiración
+T9	PROCEDIMIENTO 1025 1057	test de absorción de la D-xilosa
+T10	PROCEDIMIENTO 1074 1120	estudio histológico de las biopsias duodenales
+T11	PROCEDIMIENTO 1311 1327	dieta sin gluten
+T12	PROCEDIMIENTO 1473 1489	biopsia duodenal
+T13	PROCEDIMIENTO 2000 2030	exploración de pares craneales
+T14	PROCEDIMIENTO 2145 2179	estímulos táctiles en pierna y pie
+T15	PROCEDIMIENTO 216 232	dieta sin gluten
+T16	PROCEDIMIENTO 2410 2438	exploración neuropsicológica
+T17	PROCEDIMIENTO 2546 2575	resonancia magnética cerebral
+T18	PROCEDIMIENTO 2577 2580	RMN
+T19	PROCEDIMIENTO 2587 2623	tomografía por emisión de positrones
+T20	PROCEDIMIENTO 2625 2628	PET
+T21	PROCEDIMIENTO 2650 2670	electroencefalograma
+T22	PROCEDIMIENTO 2672 2675	EEG
+T23	PROCEDIMIENTO 280 298	exploración física
+T24	PROCEDIMIENTO 2874 2913	potenciales evocados somato-sensoriales
+T25	PROCEDIMIENTO 3001 3036	estudio del líquido céfalo-raquídeo
+T26	PROCEDIMIENTO 3038 3041	LCR
+T27	PROCEDIMIENTO 3098 3117	análisis serológico
+T28	PROCEDIMIENTO 3145 3240	estudio de anticuerpos circulantes realizado mediante técnicas de immunofluorescencia indirecta
+T29	PROCEDIMIENTO 4432 4445	neurolépticos
+T30	PROCEDIMIENTO 4503 4506	EEG
+T31	PROCEDIMIENTO 4600 4616	immunosupresores
+T32	PROCEDIMIENTO 4733 4746	plasmaféresis
+T33	PROCEDIMIENTO 483 499	dieta sin gluten
+T34	PROCEDIMIENTO 505 549	datos analíticos hematológicos y bioquímicos
+T35	PROCEDIMIENTO 585 603	hormonas tiroideas
+T36	PROCEDIMIENTO 651 682	determinación de grasa en heces
+T37	PROCEDIMIENTO 689 709	análisis serológicos
+T38	SINTOMA 1400 1407	diarrea
+T39	SINTOMA 142 157	pérdida de peso
+T40	SINTOMA 1945 1955	consciente
+T41	SINTOMA 1958 1967	orientado
+T42	SINTOMA 4044 4053	disartria
+T43	SINTOMA 4364 4378	desorientación
+T44	SINTOMA 4953 4961	falleció
+T45	SINTOMA 2688 2735	actividad bioeléctrica cerebral de fondo normal
+T46	SINTOMA 4532 4570	actividad bioeléctrica de fondo normal
+T47	SINTOMA 2510 2541	afectación de la memoria visual
+T48	SINTOMA 3740 3762	afectación neurológica
+T49	SINTOMA 4318 4345	alteraciones de la conducta
+T50	SINTOMA 857 946	anticuerpos anti-citoplasma de neutrófilos positivos (1/80) y anti-músculo liso positivos
+T51	SINTOMA 800 847	anticuerpos anti-endomisio débilmente positivos
+T52	SINTOMA 738 797	anticuerpos anti-gliadina y anti-transglutaminasa negativos
+T53	SINTOMA 4160 4166	ataxia
+T54	SINTOMA 3075 3140	bandas oligoclonales y análisis serológico múltiple, fue negativo
+T55	SINTOMA 1819 1836	caídas frecuentes
+T56	SINTOMA 4381 4397	confusión mental
+T57	SINTOMA 2193 2236	deambulación se vio seriamente comprometida
+T58	SINTOMA 2785 2867	descargas eléctricas en forma de picos-ondas en las regiones centrales del cerebro
+T59	SINTOMA 2054 2068	disartria leve
+T60	SINTOMA 280 311	exploración física era negativa
+T61	SINTOMA 1410 1437	ganancia importante de peso
+T62	SINTOMA 5063 5100	grave deterioro neurológico y general
+T63	SINTOMA 2071 2084	hiperreflexia
+T64	SINTOMA 965 990	HLA fue positivo para DQ2
+T65	SINTOMA 585 725	hormonas tiroideas, niveles de vitamina B-2 y calcio, así como la determinación de grasa en heces y los análisis serológicos fueron normales
+T66	SINTOMA 4450 4498	memoria verbal y el lenguaje estaban conservados
+T67	SINTOMA 2267 2277	mioclonias
+T68	SINTOMA 3911 3921	mioclonias
+T69	SINTOMA 4781 4791	mioclonias
+T70	SINTOMA 5011 5021	mioclonias
+T71	SINTOMA 4175 4218	mioclonias en ambas extremidades inferiores
+T72	SINTOMA 2105 2127	mioclonias espontáneas
+T73	SINTOMA 4231 4266	mioclonias reflejas en ambos brazos
+T74	SINTOMA 1894 1928	movimientos anormales en su pierna
+T75	SINTOMA 1974 2041	movimientos oculares y la exploración de pares craneales era normal
+T76	SINTOMA 2448 2497	niveles normales del lenguaje y de memoria verbal
+T77	SINTOMA 1852 1875	pérdida de conocimiento
+T78	SINTOMA 2874 2946	potenciales evocados somato-sensoriales provocaban respuestas aumentadas
+T79	SINTOMA 2546 2645	resonancia magnética cerebral (RMN) y la tomografía por emisión de positrones (PET) fueron normales
+T80	SINTOMA 1025 1069	test de absorción de la D-xilosa, fue normal
+T81	SINTOMA 2360 2405	tono y la fuerza muscular estaban conservados

@@ -1,0 +1,38 @@
+T1	ENFERMEDAD 2656 2691	hiperplasia angiofolicular linfoide
+T2	ENFERMEDAD 2694 2744	Enfermedad de Castleman, variante hialino-vascular
+T3	ENFERMEDAD 1082 1092	adenopatía
+T4	ENFERMEDAD 1220 1246	proceso linfoproliferativo
+T5	ENFERMEDAD 1248 1263	tumor neurógeno
+T6	ENFERMEDAD 1266 1283	tumor mesenquimal
+T7	PROCEDIMIENTO 1291 1308	anestesia general
+T8	PROCEDIMIENTO 1324 1359	incisión horizontal supraclavicular
+T9	PROCEDIMIENTO 1372 1395	sección del músculo ECM
+T10	PROCEDIMIENTO 1571 1580	disección
+T11	PROCEDIMIENTO 1706 1713	cirugía
+T12	PROCEDIMIENTO 1770 1795	estudio anatomopatológico
+T13	PROCEDIMIENTO 1958 1988	marcadores inmunohistoquímicos
+T14	PROCEDIMIENTO 2345 2362	estudio molecular
+T15	PROCEDIMIENTO 2397 2444	PCR la presencia del virus herpes humano tipo 8
+T16	PROCEDIMIENTO 2465 2491	TC toraco-abdomino-pélvico
+T17	PROCEDIMIENTO 2532 2541	analítica
+T18	PROCEDIMIENTO 2552 2584	estudio inmunológico y serología
+T19	PROCEDIMIENTO 260 269	anamnesis
+T20	PROCEDIMIENTO 276 287	exploración
+T21	PROCEDIMIENTO 572 584	auscultación
+T22	PROCEDIMIENTO 611 654	punción guiada por tomografía computerizada
+T23	PROCEDIMIENTO 630 654	tomografía computerizada
+T24	PROCEDIMIENTO 656 658	TC
+T25	PROCEDIMIENTO 785 809	estudio serológico viral
+T26	PROCEDIMIENTO 817 845	TC con contraste intravenoso
+T27	SINTOMA 572 593	auscultación negativa
+T28	SINTOMA 1037 1068	captación de contraste moderada
+T29	SINTOMA 2552 2600	estudio inmunológico y serología fueron normales
+T30	SINTOMA 863 877	masa homogénea
+T31	SINTOMA 2366 2444	se detectó mediante técnica de PCR la presencia del virus herpes humano tipo 8
+T32	SINTOMA 186 205	sudoración nocturna
+T33	SINTOMA 2465 2527	TC toraco-abdomino-pélvico que resultó dentro de la normalidad
+T34	SINTOMA 1597 1607	tumoración
+T35	SINTOMA 1464 1474	tumoración
+T36	SINTOMA 305 413	tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
+T37	SINTOMA 99 125	tumoración latero-cervical
+T38	SINTOMA 1742 1761	tumoración vascular

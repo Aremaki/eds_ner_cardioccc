@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 18 28	hipertensa
+T2	ENFERMEDAD 31 51	hipercolesterolémica
+T3	ENFERMEDAD 99 168	adenocarcinoma de colon estadio IV con múltiples metástasis hepáticas
+T4	ENFERMEDAD 148 168	metástasis hepáticas
+T5	ENFERMEDAD 611 690	lesiones bullosas dolorosas, de distribución metameral, ulceradas y supurativas
+T6	ENFERMEDAD 2387 2403	lesiones bucales
+T7	ENFERMEDAD 2434 2465	lesiones herpéticas del costado
+T8	ENFERMEDAD 2611 2619	alopecia
+T9	ENFERMEDAD 2946 3026	insuficiencia respiratoria aguda en el seno de una sepsis de origen respiratorio
+T10	ENFERMEDAD 2997 3026	sepsis de origen respiratorio
+T11	ENFERMEDAD 1215 1223	disfagia
+T12	ENFERMEDAD 1174 1189	heces melénicas
+T13	PROCEDIMIENTO 1378 1387	hemograma
+T14	PROCEDIMIENTO 1512 1550	aislamiento respiratorio y de contacto
+T15	PROCEDIMIENTO 1562 1574	sueroterapia
+T16	PROCEDIMIENTO 1593 1638	antibioterapia intravenosa de amplio espectro
+T17	PROCEDIMIENTO 173 221	tratamiento quimioterápico con esquema mFOLFOX 6
+T18	PROCEDIMIENTO 1910 1922	hemocultivos
+T19	PROCEDIMIENTO 212 221	mFOLFOX 6
+T20	PROCEDIMIENTO 2149 2191	transfundieron 2 concentrados de plaquetas
+T21	PROCEDIMIENTO 2206 2232	nutrición parenteral total
+T22	PROCEDIMIENTO 2273 2282	analgesia
+T23	PROCEDIMIENTO 2313 2318	AINES
+T24	PROCEDIMIENTO 2408 2426	tratamiento tópico
+T25	PROCEDIMIENTO 2529 2547	exploración física
+T26	PROCEDIMIENTO 2862 2871	analítica
+T27	PROCEDIMIENTO 339 381	5-FU 1.200 mg/m2/día en perfusión continua
+T28	PROCEDIMIENTO 948 961	quimioterapia
+T29	SINTOMA 2611 2619	alopecia
+T30	SINTOMA 1973 2064	determinaciones de anticuerpos antimicelio, β-glucano y galactomanano, que fueron negativas
+T31	SINTOMA 1191 1212	dolor en cavidad oral
+T32	SINTOMA 562 597	dolor y escozor en la región costal
+T33	SINTOMA 1910 1958	hemocultivos repetidos, que resultaron estériles
+T34	SINTOMA 2575 2608	pigmentación cutánea generalizada
+T35	SINTOMA 2774 2799	secreciones respiratorias
+T36	SINTOMA 1141 1156	dolor abdominal
+T37	SINTOMA 1174 1189	heces melénicas
+T38	SINTOMA 1215 1223	disfagia
+T39	SINTOMA 1795 1801	fiebre
+T40	SINTOMA 1858 1872	picos febriles
+T41	SINTOMA 1255 1262	afebril
+T42	SINTOMA 2725 2757	empeoramiento del estado general
+T43	SINTOMA 1411 1421	leucopenia
+T44	SINTOMA 1804 1815	neutropenia
+T45	SINTOMA 1461 1472	trombopenia
+T46	SINTOMA 2258 2263	dolor
+T47	SINTOMA 2817 2822	dolor
+T48	SINTOMA 2933 2941	falleció

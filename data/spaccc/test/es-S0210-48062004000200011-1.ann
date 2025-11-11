@@ -1,0 +1,90 @@
+T1	ENFERMEDAD 2213 2240	linfoma testicular primario
+T2	ENFERMEDAD 1651 1669	absceso testicular
+T3	ENFERMEDAD 2725 2752	linfoma testicular primario
+T4	ENFERMEDAD 1837 1852	tumor testículo
+T5	ENFERMEDAD 1677 1700	tuberculosis testicular
+T6	ENFERMEDAD 1702 1712	brucelosis
+T7	ENFERMEDAD 1715 1731	tumor testicular
+T8	ENFERMEDAD 3151 3157	anemia
+T9	ENFERMEDAD 3445 3480	lesión polipoidea en seno piriforme
+T10	ENFERMEDAD 2330 2359	adenopatías retroperitoneales
+T11	ENFERMEDAD 2575 2581	anemia
+T12	ENFERMEDAD 617 655	hematomas en ambos miembros superiores
+T13	ENFERMEDAD 2042 2105	testículo está afectado por linfoma difuso B de células grandes
+T14	ENFERMEDAD 1608 1617	hidrocele
+T15	ENFERMEDAD 382 386	EPOC
+T16	ENFERMEDAD 899 919	próstata adenomatosa
+T17	ENFERMEDAD 604 615	adenopatías
+T18	ENFERMEDAD 3397 3405	disfagia
+T19	ENFERMEDAD 3386 3394	disfonía
+T20	ENFERMEDAD 2304 2318	esplenomegalia
+T21	ENFERMEDAD 686 720	hemiescroto derecho presenta edema
+T22	PROCEDIMIENTO 1044 1055	Coagulación
+T23	PROCEDIMIENTO 1184 1221	función renal, hepática y pancreática
+T24	PROCEDIMIENTO 1232 1252	Radiografía de tórax
+T25	PROCEDIMIENTO 1282 1304	radiografía de abdomen
+T26	PROCEDIMIENTO 1313 1338	Ecografía renal y vesical
+T27	PROCEDIMIENTO 1387 1407	Ecografía testicular
+T28	PROCEDIMIENTO 1744 1781	orquiectomía radical por vía inguinal
+T29	PROCEDIMIENTO 1786 1833	anatomía patológica informa, en la macroscópica
+T30	PROCEDIMIENTO 2021 2038	Microscópicamente
+T31	PROCEDIMIENTO 2254 2289	TAC de cuerpo completo de estadiaje
+T32	PROCEDIMIENTO 2630 2665	fórmula leucocitaria y linfocitaria
+T33	PROCEDIMIENTO 2765 2787	biopsia de medula ósea
+T34	PROCEDIMIENTO 3103 3119	frotis sanguíneo
+T35	PROCEDIMIENTO 3225 3247	test de Coombs directo
+T36	PROCEDIMIENTO 3419 3430	fibroscopia
+T37	PROCEDIMIENTO 3485 3497	TAC cervical
+T38	PROCEDIMIENTO 3597 3601	CHOP
+T39	PROCEDIMIENTO 3597 3658	CHOP (ciclofosfamida, doxorrubicina, vincristina, prednisona)
+T40	PROCEDIMIENTO 3766 3811	quimioterapia pautándosele 6 ciclos de R-CHOP
+T41	PROCEDIMIENTO 3805 3811	R-CHOP
+T42	PROCEDIMIENTO 3830 3862	radioterapia genital coadyuvante
+T43	PROCEDIMIENTO 3865 3890	quimioprofilaxis cerebral
+T44	PROCEDIMIENTO 407 418	inhaladores
+T45	PROCEDIMIENTO 421 449	oxígeno crónico domiciliario
+T46	PROCEDIMIENTO 457 475	exploración física
+T47	PROCEDIMIENTO 547 568	auscultación pulmonar
+T48	PROCEDIMIENTO 660 705	exploración genital en el hemiescroto derecho
+T49	PROCEDIMIENTO 886 898	Tacto rectal
+T50	SINTOMA 3386 3394	disfonía
+T51	SINTOMA 3397 3405	disfagia
+T52	SINTOMA 2487 2493	fiebre
+T53	SINTOMA 2504 2511	astenia
+T54	SINTOMA 570 599	edemas en miembros inferiores
+T55	SINTOMA 3730 3736	fiebre
+T56	SINTOMA 1891 1895	masa
+T57	SINTOMA 190 213	síndrome constitucional
+T58	SINTOMA 313 330	clínica miccional
+T59	SINTOMA 334 343	hematuria
+T60	SINTOMA 2698 2708	síntomas B
+T61	SINTOMA 3695 3705	síntomas B
+T62	SINTOMA 3932 3951	libre de enfermedad
+T63	SINTOMA 3188 3210	agregación plaquetaria
+T64	SINTOMA 735 787	aumento de la consistencia del epidídimo y del teste
+T65	SINTOMA 110 162	aumento del diámetro y de la consistencia testicular
+T66	SINTOMA 1168 1230	BHCG, CEA, AFP, función renal, hepática y pancreática normales
+T67	SINTOMA 1538 1603	calcificaciones que afectan a polo superior, inferior y epidídimo
+T68	SINTOMA 3233 3294	Coombs directo siendo débilmente positivo a inmunoglobulina G
+T69	SINTOMA 529 568	crepitantes en la auscultación pulmonar
+T70	SINTOMA 793 836	desaparición del surco epidídimo testicular
+T71	SINTOMA 38 54	dolor testicular
+T72	SINTOMA 1313 1355	Ecografía renal y vesical sin alteraciones
+T73	SINTOMA 2515 2548	edemas de los miembros inferiores
+T74	SINTOMA 1056 1081	elevación del fibrinógeno
+T75	SINTOMA 2304 2328	esplenomegalia homogénea
+T76	SINTOMA 489 502	está afectado
+T77	SINTOMA 261 267	Fiebre
+T78	SINTOMA 2630 2674	fórmula leucocitaria y linfocitaria normales
+T79	SINTOMA 686 720	hemiescroto derecho presenta edema
+T80	SINTOMA 1130 1166	Lactato deshidrogenosa (LDH) elevada
+T81	SINTOMA 508 527	palidez mucocutánea
+T82	SINTOMA 219 242	pérdida de 3 kg de peso
+T83	SINTOMA 1282 1311	radiografía de abdomen normal
+T84	SINTOMA 1232 1280	Radiografía de tórax, mínima congestión vascular
+T85	SINTOMA 2469 2485	sudación profusa
+T86	SINTOMA 292 308	sudación profusa
+T87	SINTOMA 3485 3504	TAC cervical normal
+T88	SINTOMA 1437 1532	testículo derecho se distingue hasta tres áreas heterogéneas con disminución de la ecogenicidad
+T89	SINTOMA 1409 1435	testículo izquierdo normal
+T90	SINTOMA 3160 3175	trombocitopenia

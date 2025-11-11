@@ -1,0 +1,62 @@
+T1	PROCEDIMIENTO 1165 1179	oxigenoterapia
+T2	PROCEDIMIENTO 1294 1316	intubación orotraqueal
+T3	PROCEDIMIENTO 1319 1339	ventilación mecánica
+T4	PROCEDIMIENTO 1390 1401	antibiótico
+T5	PROCEDIMIENTO 185 196	exploración
+T6	PROCEDIMIENTO 1871 1884	orina de 24 h
+T7	PROCEDIMIENTO 2085 2168	determinación de autoanticuerpos para descartar un síndrome renopulmonar autoinmune
+T8	PROCEDIMIENTO 2174 2242	anticuerpos anti-citoplasma de los neutrófilos, y antimembrana basal
+T9	PROCEDIMIENTO 2265 2318	determinación del antígeno de galactomanano en sangre
+T10	PROCEDIMIENTO 2335 2356	lavado broncoalveolar
+T11	PROCEDIMIENTO 2358 2361	LBA
+T12	PROCEDIMIENTO 2392 2423	cultivos bacterianos y fúngicos
+T13	PROCEDIMIENTO 2438 2468	detección de antígenos víricos
+T14	PROCEDIMIENTO 2497 2516	PCR para Adenovirus
+T15	PROCEDIMIENTO 2571 2597	aislamiento microbiológico
+T16	PROCEDIMIENTO 2911 2934	tratamiento antibiótico
+T17	PROCEDIMIENTO 306 326	radiografía de tórax
+T18	PROCEDIMIENTO 3177 3210	iniciar soporte renal sustitutivo
+T19	PROCEDIMIENTO 3235 3241	HDFVVC
+T20	PROCEDIMIENTO 3481 3506	tratamientos antibióticos
+T21	PROCEDIMIENTO 4077 4083	HDFVVC
+T22	PROCEDIMIENTO 418 427	analítica
+T23	PROCEDIMIENTO 4408 4434	hemodiálisis de alto flujo
+T24	PROCEDIMIENTO 4884 4895	hidratación
+T25	PROCEDIMIENTO 4977 4994	hemodiafiltración
+T26	PROCEDIMIENTO 5074 5085	hemocultivo
+T27	PROCEDIMIENTO 5287 5298	antibiótico
+T28	PROCEDIMIENTO 5477 5517	PCR para Adenovirus se negativizó en LBA
+T29	PROCEDIMIENTO 5556 5572	biopsia pulmonar
+T30	PROCEDIMIENTO 5653 5674	tratamiento antiviral
+T31	PROCEDIMIENTO 5881 5919	Oxigenación con Membrana Extracorpórea
+T32	PROCEDIMIENTO 592 616	estudios microbiológicos
+T33	PROCEDIMIENTO 5921 5925	ECMO
+T34	PROCEDIMIENTO 5936 5964	aislamientos microbiológicos
+T35	PROCEDIMIENTO 6051 6073	biopsia transbronquial
+T36	PROCEDIMIENTO 648 660	hemocultivos
+T37	PROCEDIMIENTO 662 674	urinocultivo
+T38	PROCEDIMIENTO 676 715	antigenuria para Legionella y neumococo
+T39	PROCEDIMIENTO 717 732	frotis faríngeo
+T40	PROCEDIMIENTO 878 966	muestra sanguínea para la detección de infección por VIH (anticuerpos anti-VIH y Ag p24)
+T41	SINTOMA 2174 2259	anticuerpos anti-citoplasma de los neutrófilos, y antimembrana basal fueron negativos
+T42	SINTOMA 208 231	crepitantes bilaterales
+T43	SINTOMA 1542 1558	cuadro diarreico
+T44	SINTOMA 2392 2434	cultivos bacterianos y fúngicos (negativos
+T45	SINTOMA 1763 1785	deterioro hemodinámico
+T46	SINTOMA 2265 2328	determinación del antígeno de galactomanano en sangre (negativa
+T47	SINTOMA 153 169	diarreas acuosas
+T48	SINTOMA 5074 5131	hemocultivo positivo para Estafilococo coagulasa negativo
+T49	SINTOMA 341 367	infiltrados intersticiales
+T50	SINTOMA 129 151	molestias precordiales
+T51	SINTOMA 5477 5517	PCR para Adenovirus se negativizó en LBA
+T52	SINTOMA 3756 3778	sangrado intraalveolar
+T53	SINTOMA 1258 1280	deterioro respiratorio
+T54	SINTOMA 119 127	tos seca
+T55	SINTOMA 3696 3706	linfopenia
+T56	SINTOMA 172 178	fiebre
+T57	SINTOMA 6102 6108	exitus
+T58	SINTOMA 436 478	leucocitosis con desviación a la izquierda
+T59	SINTOMA 3154 3165	oligoanuria
+T60	SINTOMA 3254 3280	inestabilidad hemodinámica
+T61	SINTOMA 3938 3965	mejoría de la función renal
+T62	SINTOMA 3708 3721	plaquetopenia

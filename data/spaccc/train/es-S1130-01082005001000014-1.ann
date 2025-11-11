@@ -1,0 +1,62 @@
+T1	ENFERMEDAD 137 163	adenocarcinoma de próstata
+T2	ENFERMEDAD 3490 3508	enteritis actínica
+T3	ENFERMEDAD 2576 2594	enteritis actínica
+T4	ENFERMEDAD 1025 1040	hipoalbuminemia
+T5	ENFERMEDAD 1833 1849	colitis actínica
+T6	ENFERMEDAD 720 731	adenopatías
+T7	ENFERMEDAD 2037 2048	adenopatías
+T8	ENFERMEDAD 1091 1103	malabsorción
+T9	PROCEDIMIENTO 1077 1103	marcadores de malabsorción
+T10	PROCEDIMIENTO 1105 1118	Transaminasas
+T11	PROCEDIMIENTO 1121 1142	enzimas de colestasis
+T12	PROCEDIMIENTO 1281 1312	estudio parasitológico en heces
+T13	PROCEDIMIENTO 1383 1403	radiografía de tórax
+T14	PROCEDIMIENTO 1454 1466	colonoscopia
+T15	PROCEDIMIENTO 1665 1673	biopsias
+T16	PROCEDIMIENTO 1855 1899	TC abdominopélvica con contraste intravenoso
+T17	PROCEDIMIENTO 207 219	radioterapia
+T18	PROCEDIMIENTO 2090 2112	prostatectomía radical
+T19	PROCEDIMIENTO 2204 2216	radioterapia
+T20	PROCEDIMIENTO 2272 2291	tránsito intestinal
+T21	PROCEDIMIENTO 2728 2740	radioterapia
+T22	PROCEDIMIENTO 2892 2919	tratamiento con corticoides
+T23	PROCEDIMIENTO 3021 3041	nutrición parenteral
+T24	PROCEDIMIENTO 309 323	hormonoterapia
+T25	PROCEDIMIENTO 343 368	tratamiento radioterápico
+T26	PROCEDIMIENTO 3575 3595	controles analíticos
+T27	PROCEDIMIENTO 544 562	exploración física
+T28	PROCEDIMIENTO 777 786	analítica
+T29	SINTOMA 590 629	abdomen blando, depresible, no doloroso
+T30	SINTOMA 72 80	anorexia
+T31	SINTOMA 1172 1256	anticuerpos anti-nucleares, anti-mitocondriales y anti-músculo liso fueron negativos
+T32	SINTOMA 2615 2667	asa ileal de calibre normal con pliegues conservados
+T33	SINTOMA 2382 2425	asas de íleon pélvico de calibre disminuido
+T34	SINTOMA 3556 3568	asintomático
+T35	SINTOMA 63 70	astenia
+T36	SINTOMA 389 416	cambio del ritmo intestinal
+T37	SINTOMA 3575 3604	controles analíticos normales
+T38	SINTOMA 2757 2773	cuadro abdominal
+T39	SINTOMA 33 61	deterioro del estado general
+T40	SINTOMA 3051 3090	deterioro progresivo del estado general
+T41	SINTOMA 437 444	diarrea
+T42	SINTOMA 463 478	dolores cólicos
+T43	SINTOMA 2115 2178	engrosamiento de la grasa perirrectal, pared vesical y de recto
+T44	SINTOMA 2317 2376	engrosamiento de las válvulas conniventes a nivel de yeyuno
+T45	SINTOMA 1910 1992	engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon
+T46	SINTOMA 3246 3257	eosinofilia
+T47	SINTOMA 2830 2852	eosinofilia periférica
+T48	SINTOMA 3511 3533	eosinofilia periférica
+T49	SINTOMA 447 460	estreñimiento
+T50	SINTOMA 733 739	fiebre
+T51	SINTOMA 1025 1040	hipoalbuminemia
+T52	SINTOMA 2492 2524	íleon por engrosamiento parietal
+T53	SINTOMA 803 815	leucocitosis
+T54	SINTOMA 698 703	masas
+T55	SINTOMA 2067 2084	masas abdominales
+T56	SINTOMA 707 715	megalias
+T57	SINTOMA 83 98	pérdida de peso
+T58	SINTOMA 1383 1426	radiografía de tórax no mostró alteraciones
+T59	SINTOMA 635 656	ruidos muy aumentados
+T60	SINTOMA 677 696	signos obstructivos
+T61	SINTOMA 1105 1166	Transaminasas y enzimas de colestasis dentro de la normalidad
+T62	SINTOMA 506 536	urgencia y tenesmo defecatorio

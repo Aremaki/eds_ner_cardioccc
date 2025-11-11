@@ -1,0 +1,54 @@
+T1	ENFERMEDAD 49 69	hepatitis alcohólica
+T2	ENFERMEDAD 107 125	síndrome nefrótico
+T3	ENFERMEDAD 144 163	insuficiencia renal
+T4	ENFERMEDAD 263 309	lesiones purpúricas en los miembros inferiores
+T5	ENFERMEDAD 974 994	GNMP asociada al VHC
+T6	ENFERMEDAD 1189 1206	cirrosis hepática
+T7	ENFERMEDAD 1517 1556	pericarditis aguda con presencia de VHC
+T8	ENFERMEDAD 1790 1837	artritis inflamatoria de grandes articulaciones
+T9	ENFERMEDAD 2009 2039	insuficiencia renal progresiva
+T10	ENFERMEDAD 2167 2197	hemorragia cerebral espontánea
+T11	ENFERMEDAD 2277 2285	enolismo
+T12	ENFERMEDAD 3443 3481	GN mesangial IgA de novo en el injerto
+T13	ENFERMEDAD 1563 1582	líquido pericárdico
+T14	ENFERMEDAD 247 260	hepatomegalia
+T15	PROCEDIMIENTO 1154 1170	biopsia hepática
+T16	PROCEDIMIENTO 1881 1965	tratamiento antiproteinúrico con bloqueo del sistema renina-angiotensina-aldosterona
+T17	PROCEDIMIENTO 194 212	exploración física
+T18	PROCEDIMIENTO 2060 2072	hemodiálisis
+T19	PROCEDIMIENTO 2121 2158	trasplante renal de donante fallecido
+T20	PROCEDIMIENTO 2379 2443	inmunosupresión con corticoides, ácido micofenólico y tacrolimus
+T21	PROCEDIMIENTO 2538 2548	trasplante
+T22	PROCEDIMIENTO 2690 2714	estudio de autoinmunidad
+T23	PROCEDIMIENTO 2716 2747	anticuerpos donante específicos
+T24	PROCEDIMIENTO 2793 2862	PCR (reacción en cadena de enzima polimerasa) sérica para el virus BK
+T25	PROCEDIMIENTO 2798 2837	reacción en cadena de enzima polimerasa
+T26	PROCEDIMIENTO 2891 2908	eco-Doppler renal
+T27	PROCEDIMIENTO 2996 3009	biopsia renal
+T28	PROCEDIMIENTO 3017 3035	microscopía óptica
+T29	PROCEDIMIENTO 3157 3176	inmunofluorescencia
+T30	PROCEDIMIENTO 3236 3259	microscopía electrónica
+T31	PROCEDIMIENTO 3363 3402	técnicas de inmunohistoquímica para C4d
+T32	PROCEDIMIENTO 3474 3481	injerto
+T33	PROCEDIMIENTO 3511 3522	corticoides
+T34	PROCEDIMIENTO 3597 3682	tratamiento antiproteinúrico, con bloqueo del sistema renina-angiotensina-aldosterona
+T35	PROCEDIMIENTO 3695 3737	antagonista del receptor de angiotesina II
+T36	PROCEDIMIENTO 3739 3745	ARA II
+T37	PROCEDIMIENTO 452 465	biopsia renal
+T38	PROCEDIMIENTO 743 770	inmunofluorescencia directa
+T39	PROCEDIMIENTO 837 860	microscopía electrónica
+T40	SINTOMA 3866 3895	deterioro de la función renal
+T41	SINTOMA 239 245	edemas
+T42	SINTOMA 2149 2158	fallecido
+T43	SINTOMA 2657 2677	función renal normal
+T44	SINTOMA 127 141	microhematuria
+T45	SINTOMA 2600 2614	microhematuria
+T46	SINTOMA 3830 3841	proteinuria
+T47	SINTOMA 2619 2638	cilindros hemáticos
+T48	SINTOMA 411 435	crioglobulinas positivas
+T49	SINTOMA 999 1023	crioglobulinas positivas
+T50	SINTOMA 2891 2919	eco-Doppler renal fue normal
+T51	SINTOMA 2690 2884	estudio de autoinmunidad, anticuerpos donante específicos, así como antigenemia para citomegalovirus y PCR (reacción en cadena de enzima polimerasa) sérica para el virus BK, que fueron negativas
+T52	SINTOMA 2346 2366	proteinuria negativa
+T53	SINTOMA 2573 2597	proteinuria no nefrótica
+T54	SINTOMA 346 373	serología positiva para VHC

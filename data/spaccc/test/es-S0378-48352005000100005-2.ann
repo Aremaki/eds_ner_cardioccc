@@ -1,0 +1,20 @@
+T1	ENFERMEDAD 77 113	carcinoma ductal infiltrante de mama
+T2	ENFERMEDAD 331 353	recidiva ósea cervical
+T3	ENFERMEDAD 521 575	progresión tumoral ósea y ganglionar (supraclavicular)
+T4	ENFERMEDAD 1132 1158	adenopatía supraclavicular
+T5	ENFERMEDAD 1263 1278	progresión ósea
+T6	ENFERMEDAD 1263 1289	progresión ósea y hepática
+T7	PROCEDIMIENTO 1078 1094	gammagrafía ósea
+T8	PROCEDIMIENTO 1334 1347	quimioterapia
+T9	PROCEDIMIENTO 141 162	receptores hormonales
+T10	PROCEDIMIENTO 221 265	tratamiento complementario con quimioterapia
+T11	PROCEDIMIENTO 267 270	CMF
+T12	PROCEDIMIENTO 273 285	radioterapia
+T13	PROCEDIMIENTO 405 412	cirugía
+T14	PROCEDIMIENTO 415 433	radioterapia local
+T15	PROCEDIMIENTO 58 69	mastectomía
+T16	PROCEDIMIENTO 594 627	tratamiento citostático paliativo
+T17	SINTOMA 910 956	elevación del CA153 y de la fosfatasa alcalina
+T18	SINTOMA 168 205	positivos, al igual que el Herceptest
+T19	SINTOMA 141 177	receptores hormonales eran positivos
+T20	SINTOMA 128 134	T4a N1

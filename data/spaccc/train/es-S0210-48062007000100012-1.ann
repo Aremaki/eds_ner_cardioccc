@@ -1,0 +1,27 @@
+T1	ENFERMEDAD 903 981	seminoma con elevado índice mitótico e invasión vascular (pT2) en ambos testes
+T2	ENFERMEDAD 1056 1105	crecimientos adenopáticos a nivel retroperitoneal
+T3	ENFERMEDAD 406 431	lesiones sólidas en teste
+T4	ENFERMEDAD 1357 1386	adenopatías retroperitoneales
+T5	ENFERMEDAD 1113 1144	lesiones metastásicas hepáticas
+T6	ENFERMEDAD 1389 1409	metástasis hepáticas
+T7	ENFERMEDAD 623 633	Varicocele
+T8	ENFERMEDAD 577 621	neoplasia testicular bilateral multicéntrica
+T9	ENFERMEDAD 1146 1148	M1
+T10	ENFERMEDAD 983 1002	seminoma anaplásico
+T11	PROCEDIMIENTO 1006 1026	Estudio de extensión
+T12	PROCEDIMIENTO 1028 1053	TAC toracoabdominopélvico
+T13	PROCEDIMIENTO 1179 1240	quimioterapia sistémica con el esquema etopósido y cisplatino
+T14	PROCEDIMIENTO 1320 1340	marcadores tumorales
+T15	PROCEDIMIENTO 139 157	Exploración física
+T16	PROCEDIMIENTO 1469 1514	congelar el semen previo a la cirugía radical
+T17	PROCEDIMIENTO 327 339	Eco escrotal
+T18	PROCEDIMIENTO 648 668	Marcadores tumorales
+T19	PROCEDIMIENTO 748 770	Tratamiento quirúrgico
+T20	PROCEDIMIENTO 772 819	Orquiectomía radical bilateral por vía inguinal
+T21	PROCEDIMIENTO 877 900	Diagnóstico histológico
+T22	SINTOMA 670 681	AFP: normal
+T23	SINTOMA 735 746	LDH: normal
+T24	SINTOMA 159 163	Masa
+T25	SINTOMA 220 259	Teste derecho aumentado de consistencia
+T26	SINTOMA 83 109	tumoración en ambos testes
+T27	SINTOMA 342 392	Tumoración sólida de 37x21 mm, hipoecoica en teste

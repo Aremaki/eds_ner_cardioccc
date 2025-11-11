@@ -1,0 +1,21 @@
+T1	ENFERMEDAD 55 79	neurofibromatosis tipo 1
+T2	ENFERMEDAD 823 847	glioma del nervio óptico
+T3	ENFERMEDAD 1033 1047	leve proptosis
+T4	ENFERMEDAD 705 715	exoftalmos
+T5	ENFERMEDAD 692 701	proptosis
+T6	PROCEDIMIENTO 122 150	oftalmología para valoración
+T7	PROCEDIMIENTO 171 198	cribado de otras patologías
+T8	PROCEDIMIENTO 273 315	resonancia magnética nuclear (RMN) craneal
+T9	PROCEDIMIENTO 303 306	RMN
+T10	PROCEDIMIENTO 383 394	exploración
+T11	PROCEDIMIENTO 498 535	biomicroscópica del segmento anterior
+T12	PROCEDIMIENTO 560 585	funduscopia en ambos ojos
+T13	PROCEDIMIENTO 761 792	estudio con neuroimagen con RMN
+T14	SINTOMA 705 715	exoftalmos
+T15	SINTOMA 486 546	Exploración biomicroscópica del segmento anterior era normal
+T16	SINTOMA 1033 1047	leve proptosis
+T17	SINTOMA 631 687	Movimientos oculares externos, sin hallazgos patológicos
+T18	SINTOMA 587 629	Presión intraocular normal en los dos ojos
+T19	SINTOMA 692 701	proptosis
+T20	SINTOMA 717 753	Pupilas isocóricas y normorreactivas
+T21	SINTOMA 1053 1104	visión de la paciente ha disminuido a 0,9 en el ojo

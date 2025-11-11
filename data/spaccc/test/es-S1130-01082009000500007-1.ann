@@ -1,0 +1,27 @@
+T1	ENFERMEDAD 21 54	retraso mental moderado congénito
+T2	ENFERMEDAD 56 66	dislipemia
+T3	ENFERMEDAD 69 83	hipotiroidismo
+T4	ENFERMEDAD 767 786	insuficiencia renal
+T5	ENFERMEDAD 739 762	hidronefrosis bilateral
+T6	ENFERMEDAD 570 663	dilatación gigante del recto y el colon izquierdo, ocupados en toda la luz por restos fecales
+T7	PROCEDIMIENTO 1014 1033	enemas de lactulosa
+T8	PROCEDIMIENTO 227 245	exploración física
+T9	PROCEDIMIENTO 257 266	palpación
+T10	PROCEDIMIENTO 395 419	reactantes de fase aguda
+T11	PROCEDIMIENTO 422 469	marcadores tumorales digestivos y ginecológicos
+T12	PROCEDIMIENTO 483 505	ecografía ginecológica
+T13	PROCEDIMIENTO 532 551	TAC abdominopélvico
+T14	PROCEDIMIENTO 800 837	colonoscopia hasta ciego con biopsias
+T15	PROCEDIMIENTO 843 854	RMN pélvica
+T16	PROCEDIMIENTO 880 901	manometría anorrectal
+T17	SINTOMA 113 126	estreñimiento
+T18	SINTOMA 139 170	aumento del perímetro abdominal
+T19	SINTOMA 1145 1162	ganancia ponderal
+T20	SINTOMA 800 867	colonoscopia hasta ciego con biopsias y la RMN pélvica son normales
+T21	SINTOMA 916 962	conservación del reflejo rectoanal inhibitorio
+T22	SINTOMA 689 736	desplazamiento de todos los órganos abdominales
+T23	SINTOMA 570 619	dilatación gigante del recto y el colon izquierdo
+T24	SINTOMA 483 519	ecografía ginecológica, son normales
+T25	SINTOMA 274 299	masa hipogástrica central
+T26	SINTOMA 173 196	pérdida de 8 kg de peso
+T27	SINTOMA 649 675	restos fecales compactados

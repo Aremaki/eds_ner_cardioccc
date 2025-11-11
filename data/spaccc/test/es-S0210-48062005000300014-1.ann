@@ -1,0 +1,43 @@
+T1	ENFERMEDAD 833 845	masa tumoral
+T2	ENFERMEDAD 1204 1222	anemia ferropénica
+T3	ENFERMEDAD 54 57	HTA
+T4	ENFERMEDAD 59 74	Hipertiroidismo
+T5	ENFERMEDAD 76 101	Diabetes Mellitus tipo II
+T6	ENFERMEDAD 104 124	síndrome de ansiedad
+T7	ENFERMEDAD 1071 1099	vena renal estaba trombosada
+T8	ENFERMEDAD 1111 1156	adenopatías locorregionales retroperitoneales
+T9	ENFERMEDAD 2244 2252	insomnio
+T10	ENFERMEDAD 1664 1669	tumor
+T11	PROCEDIMIENTO 1270 1285	cirugía radical
+T12	PROCEDIMIENTO 1353 1375	embolización selectiva
+T13	PROCEDIMIENTO 1381 1468	punción en la arteria femoral común derecha se realiza arteriografía de aorta abdominal
+T14	PROCEDIMIENTO 1436 1468	arteriografía de aorta abdominal
+T15	PROCEDIMIENTO 1486 1584	se cateteriza selectivamente la arteria renal derecha con un catéter angiográfico visceral Cobra 2
+T16	PROCEDIMIENTO 1630 1715	emboliza la arteria que irriga al tumor con partículas de alcohol de polivinilo (PVA)
+T17	PROCEDIMIENTO 2057 2068	TC cerebral
+T18	PROCEDIMIENTO 2422 2427	IECAS
+T19	PROCEDIMIENTO 2430 2449	calcio antagonistas
+T20	PROCEDIMIENTO 345 363	exploración física
+T21	PROCEDIMIENTO 484 502	estudio ecográfico
+T22	PROCEDIMIENTO 685 705	estudio cistoscópico
+T23	PROCEDIMIENTO 751 770	TAC abdominopélvico
+T24	PROCEDIMIENTO 772 780	Rx torax
+T25	PROCEDIMIENTO 782 801	bioquímica hemática
+T26	PROCEDIMIENTO 804 813	hemograma
+T27	PROCEDIMIENTO 818 820	TC
+T28	SINTOMA 2036 2043	cefalea
+T29	SINTOMA 2194 2203	hematuria
+T30	SINTOMA 211 227	hematuria franca
+T31	SINTOMA 900 955	(áreas de necrosis) con distorsión del parénquima renal
+T32	SINTOMA 448 479	abdomen fue blando y depresible
+T33	SINTOMA 2255 2279	algia músculoesquelética
+T34	SINTOMA 311 340	alteración del estado general
+T35	SINTOMA 1224 1241	aumento de la VSG
+T36	SINTOMA 685 721	estudio cistoscópico resultó anodino
+T37	SINTOMA 2244 2252	insomnio
+T38	SINTOMA 399 435	masa palpable a nivel de fosa lumbar
+T39	SINTOMA 526 576	masa sólida heterogénea en polo inferior del riñón
+T40	SINTOMA 1244 1257	normocalcemia
+T41	SINTOMA 595 621	riñón contralateral normal
+T42	SINTOMA 2057 2121	TC cerebral que no muestra hallazgos de significación patológica
+T43	SINTOMA 626 680	vejiga presentó ecos internos compatibles con coágulos

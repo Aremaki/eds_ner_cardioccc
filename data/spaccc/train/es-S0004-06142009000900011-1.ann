@@ -1,0 +1,27 @@
+T1	ENFERMEDAD 392 401	neoplasia
+T2	ENFERMEDAD 468 484	tumor testicular
+T3	ENFERMEDAD 1345 1430	quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma
+T4	ENFERMEDAD 1373 1399	teratoma maduro testicular
+T5	ENFERMEDAD 1411 1430	pseudopilomatrixoma
+T6	ENFERMEDAD 154 190	lesión en polo superior de testículo
+T7	ENFERMEDAD 972 978	lesión
+T8	ENFERMEDAD 1345 1371	quiste dermoide testicular
+T9	PROCEDIMIENTO 107 200	exploración física destaca la palpación de una lesión en polo superior de testículo izquierdo
+T10	PROCEDIMIENTO 1303 1333	diagnóstico anatomo-patológico
+T11	PROCEDIMIENTO 1441 1453	orquiectomía
+T12	PROCEDIMIENTO 1465 1485	estudio de extensión
+T13	PROCEDIMIENTO 1495 1515	radiografía de tórax
+T14	PROCEDIMIENTO 1518 1537	TAC abdominopélvico
+T15	PROCEDIMIENTO 250 270	ecografía testicular
+T16	PROCEDIMIENTO 407 427	marcadores tumorales
+T17	PROCEDIMIENTO 511 541	orquiectomía radical izquierda
+T18	PROCEDIMIENTO 549 568	estudio histológico
+T19	PROCEDIMIENTO 721 738	Microscópicamente
+T20	SINTOMA 1708 1720	asintomático
+T21	SINTOMA 205 223	consistencia firme
+T22	SINTOMA 229 237	dolorosa
+T23	SINTOMA 1723 1742	libre de enfermedad
+T24	SINTOMA 407 441	marcadores tumorales son negativos
+T25	SINTOMA 1598 1681	marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos
+T26	SINTOMA 74 89	masa testicular
+T27	SINTOMA 627 637	tumoración

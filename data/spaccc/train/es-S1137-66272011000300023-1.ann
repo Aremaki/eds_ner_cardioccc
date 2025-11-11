@@ -1,0 +1,63 @@
+T1	PROCEDIMIENTO 1069 1080	exploración
+T2	PROCEDIMIENTO 1161 1173	auscultación
+T3	PROCEDIMIENTO 1188 1208	radiografía de tórax
+T4	PROCEDIMIENTO 1270 1288	frotis de lesiones
+T5	PROCEDIMIENTO 1334 1369	medidas de aislamiento respiratorio
+T6	PROCEDIMIENTO 1538 1554	antihistamínicos
+T7	PROCEDIMIENTO 1730 1741	exploración
+T8	PROCEDIMIENTO 1964 1973	anamnesis
+T9	PROCEDIMIENTO 198 206	vacunada
+T10	PROCEDIMIENTO 2073 2100	auscultación cardiopulmonar
+T11	PROCEDIMIENTO 2127 2148	exploración abdominal
+T12	PROCEDIMIENTO 2172 2194	suprapúbico palpándose
+T13	PROCEDIMIENTO 2326 2341	sondaje vesical
+T14	PROCEDIMIENTO 2357 2368	vaciamiento
+T15	PROCEDIMIENTO 2396 2428	analíticas sanguíneas y de orina
+T16	PROCEDIMIENTO 2485 2507	radiografía de abdomen
+T17	PROCEDIMIENTO 3084 3108	Reflejos osteotendinosos
+T18	PROCEDIMIENTO 3181 3204	Reflejo cutáneo plantar
+T19	PROCEDIMIENTO 3365 3418	tomografía axial computarizada (TAC) craneoencefálica
+T20	PROCEDIMIENTO 3397 3400	TAC
+T21	PROCEDIMIENTO 3628 3642	punción lumbar
+T22	PROCEDIMIENTO 3883 3925	resonancia nuclear magnética (RNM) medular
+T23	PROCEDIMIENTO 3913 3916	RNM
+T24	PROCEDIMIENTO 4288 4304	serología de LCR
+T25	PROCEDIMIENTO 435 464	antihistamínico intramuscular
+T26	PROCEDIMIENTO 4486 4504	serología en suero
+T27	PROCEDIMIENTO 4614 4654	serología Virus Inmunodeficiencia Humano
+T28	PROCEDIMIENTO 467 501	corticoide de liberación retardada
+T29	PROCEDIMIENTO 4950 4965	corticoide i.v.
+T30	PROCEDIMIENTO 5063 5084	se le retiró la sonda
+T31	PROCEDIMIENTO 5185 5210	tratamiento rehabilitador
+T32	SINTOMA 3149 3179	abolición de reflejos aquíleos
+T33	SINTOMA 3304 3329	alteraciones neurológicas
+T34	SINTOMA 2396 2477	analíticas sanguíneas y de orina con resultados dentro de los parámetros normales
+T35	SINTOMA 2073 2122	auscultación cardiopulmonar fue totalmente normal
+T36	SINTOMA 2759 2806	debilidad progresiva de extremidades inferiores
+T37	SINTOMA 2158 2183	dolor a nivel suprapúbico
+T38	SINTOMA 1929 1946	dolor suprapúbico
+T39	SINTOMA 3480 3596	espacios de líquido cefalorraquídeo, así como la diferenciación de sustancia gris y sustancia blanca fueron normales
+T40	SINTOMA 1730 1766	exploración fue completamente normal
+T41	SINTOMA 3955 4025	hiperseñal en T2 localizada a nivel del cordón medular cervical (C5-D1
+T42	SINTOMA 3227 3274	Hipo-sensibilidad en metámeras por debajo de D5
+T43	SINTOMA 4159 4179	hipointensidad en T1
+T44	SINTOMA 3113 3146	hiporreflexia rotuliana bilateral
+T45	SINTOMA 651 726	picor en cara, cuero cabelludo, tronco, extremidades superiores y genitales
+T46	SINTOMA 3628 3673	punción lumbar donde se apreció líquido claro
+T47	SINTOMA 1188 1241	radiografía de tórax que resultó completamente normal
+T48	SINTOMA 3181 3225	Reflejo cutáneo plantar en flexión bilateral
+T49	SINTOMA 2556 2580	restos fecales retenidos
+T50	SINTOMA 2858 2874	rigidez cervical
+T51	SINTOMA 4288 4463	serología de LCR para Borrelia, Brucella, sífilis, virus de Epstein Barr (VEB), Citomegalovirus (CMV), virus Herpes simple (VHS) y virus Varicela zóster (VVZ) fueron negativos
+T52	SINTOMA 4614 4677	serología Virus Inmunodeficiencia Humano con resultado negativo
+T53	SINTOMA 2213 2253	sucusión positiva en ambas fosas renales
+T54	SINTOMA 4553 4595	virus Varicela zóster que resultó positiva
+T55	SINTOMA 1949 1956	astenia
+T56	SINTOMA 1982 1989	disuria
+T57	SINTOMA 1661 1668	astenia
+T58	SINTOMA 2688 2703	dolor abdominal
+T59	SINTOMA 2024 2035	oligoanuria
+T60	SINTOMA 2739 2756	pérdida de fuerza
+T61	SINTOMA 2049 2055	febril
+T62	SINTOMA 2195 2208	globo vesical
+T63	SINTOMA 2884 2908	pares craneales normales

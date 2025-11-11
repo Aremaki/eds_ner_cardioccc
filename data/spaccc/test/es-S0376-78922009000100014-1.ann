@@ -1,0 +1,54 @@
+T1	ENFERMEDAD 1234 1264	infiltración de toda la dermis
+T2	ENFERMEDAD 3745 3753	cicatriz
+T3	ENFERMEDAD 2309 2319	ulceración
+T4	ENFERMEDAD 1461 1486	fibrohistiocitoma maligno
+T5	ENFERMEDAD 3954 3974	adenopatías axilares
+T6	ENFERMEDAD 1488 1508	sarcoma fibromixoide
+T7	ENFERMEDAD 1511 1527	mixofibrosarcoma
+T8	ENFERMEDAD 1103 1113	metástasis
+T9	ENFERMEDAD 1131 1151	adenopatías axilares
+T10	ENFERMEDAD 3550 3603	tumor de origen epitelial de alto grado de malignidad
+T11	ENFERMEDAD 3616 3643	siringoma condroide maligno
+T12	ENFERMEDAD 861 874	invasión ósea
+T13	ENFERMEDAD 1448 1455	tumores
+T14	ENFERMEDAD 1959 1964	tumor
+T15	PROCEDIMIENTO 1171 1195	biopsia de la tumoración
+T16	PROCEDIMIENTO 1739 1778	tratamiento quirúrgico de la tumoración
+T17	PROCEDIMIENTO 1795 1818	quimioterapia adyuvante
+T18	PROCEDIMIENTO 1880 1902	extirpación quirúrgica
+T19	PROCEDIMIENTO 1907 1919	intervención
+T20	PROCEDIMIENTO 1936 2017	resección completa del tumor con márgenes amplios y el cierre directo del defecto
+T21	PROCEDIMIENTO 2033 2069	tratamiento quimioterápico adyuvante
+T22	PROCEDIMIENTO 2140 2165	estudio anatomopatológico
+T23	PROCEDIMIENTO 2172 2192	tumoración extirpada
+T24	PROCEDIMIENTO 2538 2558	estudio microscópico
+T25	PROCEDIMIENTO 2668 2684	Histológicamente
+T26	PROCEDIMIENTO 3084 3110	estudio inmunohistoquímico
+T27	PROCEDIMIENTO 3508 3531	diagnóstico histológico
+T28	PROCEDIMIENTO 3795 3839	Resonancia Nuclear Magnética (RNM) del brazo
+T29	PROCEDIMIENTO 3825 3828	RNM
+T30	PROCEDIMIENTO 3877 3925	estudios de imagen de control tóraco-abdominales
+T31	PROCEDIMIENTO 505 543	electrocoagulación del punto sangrante
+T32	PROCEDIMIENTO 549 564	anestesia local
+T33	PROCEDIMIENTO 603 628	estudio anatomopatológico
+T34	PROCEDIMIENTO 728 761	pruebas de diagnóstico por imagen
+T35	PROCEDIMIENTO 767 795	estudio de extensión tumoral
+T36	PROCEDIMIENTO 800 821	radiografía del brazo
+T37	PROCEDIMIENTO 879 899	estudio de extensión
+T38	PROCEDIMIENTO 901 928	TAC tóraco-abdomino-pélvico
+T39	SINTOMA 289 298	sangrante
+T40	SINTOMA 834 856	masa de partes blandas
+T41	SINTOMA 325 335	tumoración
+T42	SINTOMA 2659 2666	nódulos
+T43	SINTOMA 1185 1195	tumoración
+T44	SINTOMA 2172 2182	tumoración
+T45	SINTOMA 1768 1778	tumoración
+T46	SINTOMA 3462 3487	Actina y Desmina negativo
+T47	SINTOMA 123 153	brazo izquierdo. La tumoración
+T48	SINTOMA 3489 3503	C-Kit negativo
+T49	SINTOMA 268 286	fragilidad cutánea
+T50	SINTOMA 1828 1843	nódulo pulmonar
+T51	SINTOMA 3981 3996	nódulo pulmonar
+T52	SINTOMA 942 1065	nódulo pulmonar de bordes bien delimitados y localización yuxtapleural, situado en el segmento superior del lóbulo inferior
+T53	SINTOMA 528 543	punto sangrante
+T54	SINTOMA 79 128	sangrado de una tumoración localizada en el brazo

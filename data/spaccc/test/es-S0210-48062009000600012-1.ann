@@ -1,0 +1,72 @@
+T1	ENFERMEDAD 3253 3281	Linfoma No Hodgkin folicular
+T2	ENFERMEDAD 2605 2654	Linfoma difuso de células pequeñas- medias tipo b
+T3	ENFERMEDAD 101 122	tuberculosis pulmonar
+T4	ENFERMEDAD 2687 2721	hiperplasia de benigna de próstata
+T5	ENFERMEDAD 137 152	angina de pecho
+T6	ENFERMEDAD 1683 1721	alteraciones de la coagulación por RTU
+T7	ENFERMEDAD 280 345	hemorragia digestiva secundaria a un ulcus duodenal por H. Pylori
+T8	ENFERMEDAD 2871 2896	adenopatía laterocervical
+T9	ENFERMEDAD 1810 1841	Hipertrofia Nodular de Próstata
+T10	ENFERMEDAD 2922 2962	adenopatía paratraqueal inferior derecha
+T11	ENFERMEDAD 1395 1413	adenopatía celíaca
+T12	ENFERMEDAD 3026 3077	adenopatías mediastínicas (paratraqueales derechas)
+T13	ENFERMEDAD 1434 1463	Hiperplasia Linfoide reactiva
+T14	ENFERMEDAD 518 533	fiebre tifoidea
+T15	ENFERMEDAD 535 554	síndrome prostático
+T16	ENFERMEDAD 608 625	prostatitis aguda
+T17	ENFERMEDAD 2122 2129	linfoma
+T18	ENFERMEDAD 656 694	síndrome de apnea obstructiva de sueño
+T19	ENFERMEDAD 2172 2204	tumor neuroectodérmico primitivo
+T20	ENFERMEDAD 721 733	colelitiasis
+T21	ENFERMEDAD 847 865	adenopatía celíaca
+T22	ENFERMEDAD 2371 2390	linfomas no Hodgkin
+T23	ENFERMEDAD 950 965	cáncer de colón
+T24	ENFERMEDAD 2488 2498	linfomas B
+T25	ENFERMEDAD 2542 2562	linfomas foliculares
+T26	ENFERMEDAD 2131 2165	ca. de células pequeñas anaplásico
+T27	ENFERMEDAD 3876 3887	adenopatías
+T28	ENFERMEDAD 2796 2816	infiltración tumoral
+T29	ENFERMEDAD 3079 3127	ganglios inguinales y submandibulares izquierdos
+T30	PROCEDIMIENTO 1238 1279	resección transuretral (RTU.) de próstata
+T31	PROCEDIMIENTO 1262 1265	RTU
+T32	PROCEDIMIENTO 1325 1354	colecistectomía laparoscópica
+T33	PROCEDIMIENTO 1361 1379	biopsia ganglionar
+T34	PROCEDIMIENTO 1495 1513	R.T.U. de próstata
+T35	PROCEDIMIENTO 1550 1569	estudio histológico
+T36	PROCEDIMIENTO 1718 1721	RTU
+T37	PROCEDIMIENTO 176 199	by-pass aorto-coronario
+T38	PROCEDIMIENTO 214 239	tratamiento antiagregante
+T39	PROCEDIMIENTO 2231 2260	técnicas de inmunohisoquímica
+T40	PROCEDIMIENTO 2406 2436	estudio molecular mediante PCR
+T41	PROCEDIMIENTO 2572 2601	diagnóstico anatomopatológico
+T42	PROCEDIMIENTO 2755 2777	biopsia de médula ósea
+T43	PROCEDIMIENTO 2818 2838	TAC tóraco-abdominal
+T44	PROCEDIMIENTO 2841 2844	PET
+T45	PROCEDIMIENTO 2852 2855	TAC
+T46	PROCEDIMIENTO 2971 2986	colecistectomía
+T47	PROCEDIMIENTO 2994 2997	PET
+T48	PROCEDIMIENTO 3183 3206	Se realizó un cariotipo
+T49	PROCEDIMIENTO 3350 3453	poliquimioterápia de primera linea con FMD 6 ciclos/ 4 semanas (Fludarabin, Mitoxantrone, Dexametasona)
+T50	PROCEDIMIENTO 336 373	H. Pylori, tratada con triple terapia
+T51	PROCEDIMIENTO 3389 3392	FMD
+T52	PROCEDIMIENTO 3467 3501	anticuerpos monoclonales anti-CD20
+T53	PROCEDIMIENTO 3520 3567	tratamiento profiláctico del Neumocisti carinii
+T54	PROCEDIMIENTO 3831 3834	TAC
+T55	PROCEDIMIENTO 3837 3840	PET
+T56	PROCEDIMIENTO 404 420	test del aliento
+T57	PROCEDIMIENTO 453 488	inhibidores de la bomba de protones
+T58	PROCEDIMIENTO 574 587	a-bloqueantes
+T59	PROCEDIMIENTO 715 719	CPAP
+T60	PROCEDIMIENTO 737 751	amigdalectomía
+T61	PROCEDIMIENTO 807 826	ecografía abdominal
+T62	SINTOMA 3938 3950	asintomático
+T63	SINTOMA 1154 1162	dolorosa
+T64	SINTOMA 535 554	síndrome prostático
+T65	SINTOMA 3197 3228	cariotipo con resultado de 46XY
+T66	SINTOMA 936 945	fallecido
+T67	SINTOMA 2902 2920	masa paravertebral
+T68	SINTOMA 1127 1149	próstata firboelástica
+T69	SINTOMA 1016 1041	sintomatología prostática
+T70	SINTOMA 1588 1612	tejido prostático normal
+T71	SINTOMA 404 430	test del aliento negativos
+T72	SINTOMA 2459 2477	traslocación 14-18

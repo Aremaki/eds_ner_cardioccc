@@ -1,0 +1,34 @@
+T1	ENFERMEDAD 101 116	cuadro sincopal
+T2	ENFERMEDAD 135 167	deposición melénica-rectorrágica
+T3	ENFERMEDAD 828 852	mucosa gástrica ectópica
+T4	ENFERMEDAD 868 889	divertículo de Meckel
+T5	ENFERMEDAD 1008 1029	divertículo de Meckel
+T6	ENFERMEDAD 1196 1207	divertículo
+T7	ENFERMEDAD 1422 1476	divertículo de Meckel con mucosa gástrica heterotópica
+T8	ENFERMEDAD 498 552	lesiones incipientes angiodisplásicas de colon y recto
+T9	PROCEDIMIENTO 1160 1207	resección intestinal, incluyendo el divertículo
+T10	PROCEDIMIENTO 1210 1245	anastomosis latero-lateral mecánica
+T11	PROCEDIMIENTO 1250 1277	apendicectomía profiláctica
+T12	PROCEDIMIENTO 1366 1386	tranfusión sanguínea
+T13	PROCEDIMIENTO 1391 1410	anatomía patológica
+T14	PROCEDIMIENTO 169 180	Exploración
+T15	PROCEDIMIENTO 251 263	tacto rectal
+T16	PROCEDIMIENTO 302 311	analítica
+T17	PROCEDIMIENTO 401 413	gastroscopia
+T18	PROCEDIMIENTO 439 480	colonoscopia hasta ciego e íleon terminal
+T19	PROCEDIMIENTO 570 589	cápsula endoscópica
+T20	PROCEDIMIENTO 646 680	gammagrafía con Tc99m-pertecnetato
+T21	PROCEDIMIENTO 924 936	intervención
+T22	PROCEDIMIENTO 942 959	anestesia general
+T23	PROCEDIMIENTO 960 992	realizando incisión de Mc Burney
+T24	SINTOMA 222 249	abdomen blando y depresible
+T25	SINTOMA 714 797	área hiperactiva focal en fosa iliaca derecha adyacente a la arteria iliaca derecha
+T26	SINTOMA 182 192	consciente
+T27	SINTOMA 101 116	cuadro sincopal
+T28	SINTOMA 135 167	deposición melénica-rectorrágica
+T29	SINTOMA 401 432	gastroscopia que resultó normal
+T30	SINTOMA 828 852	mucosa gástrica ectópica
+T31	SINTOMA 1448 1476	mucosa gástrica heterotópica
+T32	SINTOMA 195 204	orientado
+T33	SINTOMA 1127 1147	signos inflamatorios
+T34	SINTOMA 251 294	tacto rectal positivo para restos hemáticos

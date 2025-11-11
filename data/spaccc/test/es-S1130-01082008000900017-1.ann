@@ -1,0 +1,45 @@
+T1	ENFERMEDAD 112 132	hemorragia digestiva
+T2	ENFERMEDAD 163 174	hematemesis
+T3	ENFERMEDAD 1559 1581	divertículos yeyunales
+T4	ENFERMEDAD 1784 1803	divertículo yeyunal
+T5	ENFERMEDAD 1981 1995	diverticulosis
+T6	ENFERMEDAD 2102 2122	distrés respiratorio
+T7	ENFERMEDAD 2202 2220	shock hipovolémico
+T8	ENFERMEDAD 2424 2467	diverticulosis yeyunal con ulceración focal
+T9	ENFERMEDAD 566 577	anemización
+T10	ENFERMEDAD 493 499	lesión
+T11	ENFERMEDAD 1747 1753	lesión
+T12	ENFERMEDAD 2030 2066	divertículo responsable del sangrado
+T13	ENFERMEDAD 145 157	hematoquecia
+T14	ENFERMEDAD 717 729	hematoquecia
+T15	PROCEDIMIENTO 1022 1112	arteriografía vía transfemoral de tronco celiaco y arteria mesentérica superior e inferior
+T16	PROCEDIMIENTO 1222 1276	cateterización y embolización selectiva con microcoils
+T17	PROCEDIMIENTO 1279 1404	se mantiene in situ el microcatéter supraselectivo (2.7 Fr) para una posterior identificación del segmento yeyunal patológico
+T18	PROCEDIMIENTO 1358 1467	identificación del segmento yeyunal patológico mediante la administración intraoperatoria de azul de metileno
+T19	PROCEDIMIENTO 1504 1527	laparotomía exploradora
+T20	PROCEDIMIENTO 1583 1648	Se administra azul de metileno (0,5 ml) a través del microcatéter
+T21	PROCEDIMIENTO 1818 1878	resección intestinal segmentaria de 20 centímetros de yeyuno
+T22	PROCEDIMIENTO 1881 1907	anastomosis latero-lateral
+T23	PROCEDIMIENTO 1913 1931	radiografía simple
+T24	PROCEDIMIENTO 2171 2186	politransfusión
+T25	PROCEDIMIENTO 2377 2396	anatomía patológica
+T26	PROCEDIMIENTO 292 310	exploración física
+T27	PROCEDIMIENTO 319 328	Analítica
+T28	PROCEDIMIENTO 445 462	fibrogastroscopia
+T29	PROCEDIMIENTO 465 477	colonoscopia
+T30	PROCEDIMIENTO 620 661	transfusión de 5 concentrados de hematíes
+T31	PROCEDIMIENTO 791 808	fibrogastroscopia
+T32	PROCEDIMIENTO 811 823	colonoscopia
+T33	PROCEDIMIENTO 913 950	expansión de volumen con cristaloides
+T34	PROCEDIMIENTO 953 995	transfusión de 11 concentrados de hematíes
+T35	SINTOMA 180 204	estabilidad hemodinámica
+T36	SINTOMA 854 864	hemorragia
+T37	SINTOMA 734 760	inestabilidad hemodinámica
+T38	SINTOMA 516 524	sangrado
+T39	SINTOMA 891 899	sangrado
+T40	SINTOMA 2058 2066	sangrado
+T41	SINTOMA 1772 1782	hemorragia
+T42	SINTOMA 292 317	exploración física normal
+T43	SINTOMA 1126 1209	extravasación intraluminal de contraste dependiente de una arteria yeyunal proximal
+T44	SINTOMA 717 729	hematoquecia
+T45	SINTOMA 2007 2041	microcoils próximos al divertículo

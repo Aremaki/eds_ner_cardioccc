@@ -1,0 +1,99 @@
+T1	ENFERMEDAD 148 180	crisis convulsiva tónico-clónica
+T2	ENFERMEDAD 899 920	adenomegalia cervical
+T3	ENFERMEDAD 376 393	crisis convulsiva
+T4	ENFERMEDAD 1027 1047	Síndrome de Kawasaki
+T5	ENFERMEDAD 1923 1937	edema laríngeo
+T6	ENFERMEDAD 2535 2578	Síndrome de piel escaldada por Staphilococo
+T7	ENFERMEDAD 2586 2612	Síndrome de Stevens Jonson
+T8	ENFERMEDAD 4946 4979	infección por Staphilococo Aureus
+T9	ENFERMEDAD 4100 4118	Eritema multiforme
+T10	ENFERMEDAD 4134 4162	Necrolisis Epidérmica Tóxica
+T11	ENFERMEDAD 4714 4736	cicatrizado el abdomen
+T12	ENFERMEDAD 4797 4817	lesiones intraorales
+T13	ENFERMEDAD 5196 5214	discromías en piel
+T14	ENFERMEDAD 4386 4393	heridas
+T15	ENFERMEDAD 823 838	lesiones orales
+T16	ENFERMEDAD 1245 1262	rash exantemático
+T17	ENFERMEDAD 1411 1521	vesículas confluentes y esfacelación de éstas en tórax anterior y posterior, mejillas y pabellones auriculares
+T18	ENFERMEDAD 2060 2079	pérdida de pestañas
+T19	ENFERMEDAD 2010 2034	esfácelo de la epidermis
+T20	ENFERMEDAD 2081 2229	esfácelo de mucosa de carrillos y dorso-lingual, de tórax anterior y posterior, porción superior de abdomen, porción superior de ambos brazos y pene
+T21	ENFERMEDAD 3627 3647	esfacelación corneal
+T22	ENFERMEDAD 4485 4513	párpados mostraron sinequias
+T23	PROCEDIMIENTO 2305 2339	requerimientos hidroelectrolíticos
+T24	PROCEDIMIENTO 2498 2503	AINES
+T25	PROCEDIMIENTO 2822 2825	EGO
+T26	PROCEDIMIENTO 2973 2985	Electrolitos
+T27	PROCEDIMIENTO 3011 3028	Química sanguínea
+T28	PROCEDIMIENTO 3230 3247	lavado quirúrgico
+T29	PROCEDIMIENTO 3258 3300	biopsia de piel en región inguinal derecha
+T30	PROCEDIMIENTO 3310 3368	colocación de catéter central de 3 vías en ingle izquierda
+T31	PROCEDIMIENTO 3382 3408	nutrición parenteral total
+T32	PROCEDIMIENTO 3531 3573	cubiertas con pasta de Lassar y Polimixina
+T33	PROCEDIMIENTO 3545 3560	pasta de Lassar
+T34	PROCEDIMIENTO 3779 3796	lubricante ocular
+T35	PROCEDIMIENTO 3828 3851	antibióticos sistémicos
+T36	PROCEDIMIENTO 3905 3914	analgesia
+T37	PROCEDIMIENTO 4019 4034	biopsia de piel
+T38	PROCEDIMIENTO 4200 4218	Anticonvulsivantes
+T39	PROCEDIMIENTO 4224 4235	hemocultivo
+T40	PROCEDIMIENTO 4242 4283	cultivos de faringe y de secreción ocular
+T41	PROCEDIMIENTO 4324 4352	lavados quirúrgicos seriados
+T42	PROCEDIMIENTO 4358 4366	sedación
+T43	PROCEDIMIENTO 4369 4420	se cubrieron las heridas con apósitos hidrocoloides
+T44	PROCEDIMIENTO 4756 4768	gastrostomía
+T45	PROCEDIMIENTO 4819 4867	Se retiró el catéter central y la sonda de Foley
+T46	PROCEDIMIENTO 4904 4932	cultivos de punta de catéter
+T47	PROCEDIMIENTO 5119 5138	soporte psicológico
+T48	PROCEDIMIENTO 633 653	electroencefalograma
+T49	SINTOMA 741 750	hiporexia
+T50	SINTOMA 752 770	mal estado general
+T51	SINTOMA 1542 1554	edema facial
+T52	SINTOMA 1707 1730	dificultad respiratoria
+T53	SINTOMA 458 476	mal estado general
+T54	SINTOMA 953 967	abdomen blando
+T55	SINTOMA 4880 4886	fiebre
+T56	SINTOMA 701 712	pico febril
+T57	SINTOMA 3510 3518	sangrado
+T58	SINTOMA 869 878	sialorrea
+T59	SINTOMA 5062 5081	buen estado general
+T60	SINTOMA 5216 5225	fotofobia
+T61	SINTOMA 1108 1125	deterioro clínico
+T62	SINTOMA 1692 1704	acrocianosis
+T63	SINTOMA 1781 1793	aleteo nasal
+T64	SINTOMA 3581 3647	ambas córneas se apreció una nata fibrosa por esfacelación corneal
+T65	SINTOMA 4479 4513	Ambos párpados mostraron sinequias
+T66	SINTOMA 1576 1612	capa blanquecina en lengua y faringe
+T67	SINTOMA 2891 2898	Cetonas
+T68	SINTOMA 798 821	conjuntivas hiperémicas
+T69	SINTOMA 376 393	crisis convulsiva
+T70	SINTOMA 2907 2916	Cristales
+T71	SINTOMA 4904 4979	cultivos de punta de catéter determinaron infección por Staphilococo Aureus
+T72	SINTOMA 5237 5259	deambulación con ayuda
+T73	SINTOMA 1617 1644	descarga retronasal verdosa
+T74	SINTOMA 185 208	desviación de la mirada
+T75	SINTOMA 1681 1690	distermia
+T76	SINTOMA 854 863	dolorosas
+T77	SINTOMA 1149 1171	edema en boca y labios
+T78	SINTOMA 1923 1937	edema laríngeo
+T79	SINTOMA 2010 2058	esfácelo de la epidermis, principalmente en cara
+T80	SINTOMA 2081 2229	esfácelo de mucosa de carrillos y dorso-lingual, de tórax anterior y posterior, porción superior de abdomen, porción superior de ambos brazos y pene
+T81	SINTOMA 1646 1666	estertores roncantes
+T82	SINTOMA 4224 4301	hemocultivo y los cultivos de faringe y de secreción ocular, fueron negativos
+T83	SINTOMA 303 314	hipertermia
+T84	SINTOMA 445 456	hipertermia
+T85	SINTOMA 1523 1540	labios sangrantes
+T86	SINTOMA 1215 1243	lengua con placa blanquecina
+T87	SINTOMA 2867 2879	Leucocitosis
+T88	SINTOMA 211 236	movimientos lateralizados
+T89	SINTOMA 772 796	mucosa labial enrojecida
+T90	SINTOMA 2060 2079	pérdida de pestañas
+T91	SINTOMA 970 982	piel íntegra
+T92	SINTOMA 1245 1329	rash exantemático instalado en dirección céfalo-caudal máculopapular, no pruriginoso
+T93	SINTOMA 4571 4594	reepitelización corneal
+T94	SINTOMA 1173 1213	secreción purulenta de ambas conjuntivas
+T95	SINTOMA 1335 1369	signo de Nikolski positivo en cara
+T96	SINTOMA 1749 1779	tiraje intercostal y subcostal
+T97	SINTOMA 5273 5312	tolerancia a los alimentos por vía oral
+T98	SINTOMA 479 496	tos no productiva
+T99	SINTOMA 1411 1521	vesículas confluentes y esfacelación de éstas en tórax anterior y posterior, mejillas y pabellones auriculares

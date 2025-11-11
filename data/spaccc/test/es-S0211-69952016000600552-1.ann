@@ -1,0 +1,68 @@
+T1	ENFERMEDAD 578 594	enfermedad renal
+T2	ENFERMEDAD 1941 1976	calcificaciones renales bilaterales
+T3	ENFERMEDAD 1997 2009	hipocalcemia
+T4	ENFERMEDAD 2011 2025	hipomagnesemia
+T5	ENFERMEDAD 2028 2047	acidosis metabólica
+T6	ENFERMEDAD 4406 4422	enfermedad renal
+T7	ENFERMEDAD 4447 4475	insuficiencia renal avanzada
+T8	ENFERMEDAD 4643 4658	nefrocalcinosis
+T9	ENFERMEDAD 4756 4785	enfermedad tubulointersticial
+T10	ENFERMEDAD 4939 4954	nefrocalcinosis
+T11	ENFERMEDAD 5132 5182	acidosis tubular renal distal autosómica dominante
+T12	ENFERMEDAD 5184 5190	ATR-AD
+T13	ENFERMEDAD 5626 5676	acidosis tubular renal distal autosómica dominante
+T14	ENFERMEDAD 3895 3907	status focal
+T15	ENFERMEDAD 4020 4038	actividad comicial
+T16	PROCEDIMIENTO 1127 1136	hemograma
+T17	PROCEDIMIENTO 1142 1164	estudio de coagulación
+T18	PROCEDIMIENTO 1332 1352	estudio inmunológico
+T19	PROCEDIMIENTO 1395 1419	electroforesis en sangre
+T20	PROCEDIMIENTO 1456 1485	serología de virus B, C y VIH
+T21	PROCEDIMIENTO 1506 1526	sistemático de orina
+T22	PROCEDIMIENTO 1572 1585	orina de 24 h
+T23	PROCEDIMIENTO 1748 1766	electrocardiograma
+T24	PROCEDIMIENTO 1848 1868	radiografía de tórax
+T25	PROCEDIMIENTO 1887 1916	radiografía simple de abdomen
+T26	PROCEDIMIENTO 2948 2966	exploración física
+T27	PROCEDIMIENTO 3108 3127	analítica en sangre
+T28	PROCEDIMIENTO 3430 3447	test de edrofonio
+T29	PROCEDIMIENTO 3460 3486	TAC cerebral sin contraste
+T30	PROCEDIMIENTO 3519 3522	EEG
+T31	PROCEDIMIENTO 4342 4358	Estudio genético
+T32	PROCEDIMIENTO 4683 4699	estudio genético
+T33	PROCEDIMIENTO 4716 4785	análisis de todos los genes asociados a enfermedad tubulointersticial
+T34	PROCEDIMIENTO 6011 6035	Estudio de cosegregación
+T35	PROCEDIMIENTO 6090 6114	trasplante renal de vivo
+T36	PROCEDIMIENTO 6130 6176	estudio de cosegregación en ambos progenitores
+T37	PROCEDIMIENTO 747 765	exploración física
+T38	PROCEDIMIENTO 778 797	analítica en sangre
+T39	SINTOMA 109 125	malestar general
+T40	SINTOMA 832 861	deterioro de la función renal
+T41	SINTOMA 2892 2899	astenia
+T42	SINTOMA 2923 2929	fiebre
+T43	SINTOMA 2933 2940	cefalea
+T44	SINTOMA 1776 1789	ritmo sinusal
+T45	SINTOMA 4157 4169	asintomática
+T46	SINTOMA 4256 4268	asintomática
+T47	SINTOMA 1848 1879	radiografía de tórax fue normal
+T48	SINTOMA 1590 1601	proteinuria
+T49	SINTOMA 2782 2840	alteración en el control de movimientos de la mano derecha
+T50	SINTOMA 3535 3609	brotes de actividad paroxística [ondas theta] en región temporal izquierda
+T51	SINTOMA 3711 3758	brotes paroxísticos bilaterales de ondas agudas
+T52	SINTOMA 127 136	calambres
+T53	SINTOMA 1153 1173	coagulación normales
+T54	SINTOMA 2861 2889	dificultad para la deglución
+T55	SINTOMA 1421 1451	disminución de gammaglobulinas
+T56	SINTOMA 1795 1843	elevación de ST de 1mm en todas las derivaciones
+T57	SINTOMA 1332 1387	estudio inmunológico (inmunoglobulinas, ANA) era normal
+T58	SINTOMA 747 773	exploración física anodina
+T59	SINTOMA 206 242	imposibilidad para elevar el párpado
+T60	SINTOMA 2647 2719	imposibilidad tanto para hablar como para realizar movimientos linguales
+T61	SINTOMA 1714 1722	oxaluria
+T62	SINTOMA 139 166	parestesias en manos y pies
+T63	SINTOMA 6208 6237	portador de la mutación R589H
+T64	SINTOMA 5056 5119	portadora de una mutación missense en el exón 14 del gen SLC4A1
+T65	SINTOMA 1456 1498	serología de virus B, C y VIH fue negativa
+T66	SINTOMA 3460 3517	TAC cerebral sin contraste (sin hallazgos significativos)
+T67	SINTOMA 3430 3458	test de edrofonio (negativo)
+T68	SINTOMA 1664 1674	uricosuria

@@ -1,0 +1,37 @@
+T1	ENFERMEDAD 92 107	episodio gripal
+T2	ENFERMEDAD 2714 2736	atrofia peripapilar AO
+T3	ENFERMEDAD 2742 2774	afectación del haz papilomacular
+T4	ENFERMEDAD 2793 2855	lesiones blanquecinas inactivas, inferiores a la mácula del OI
+T5	ENFERMEDAD 2213 2218	MNVSR
+T6	ENFERMEDAD 2338 2343	MNVSR
+T7	ENFERMEDAD 73 87	visión borrosa
+T8	ENFERMEDAD 1567 1629	alteración del epitelio pigmentario retiniano (EPR) macular AO
+T9	ENFERMEDAD 2073 2124	levantamiento del neuroepitelio yuxtafoveolar nasal
+T10	ENFERMEDAD 1062 1076	pérdida visual
+T11	PROCEDIMIENTO 1140 1153	campimétricas
+T12	PROCEDIMIENTO 1480 1504	exploración funduscópica
+T13	PROCEDIMIENTO 1641 1683	tratamiento corticoideo tópico y sistémico
+T14	PROCEDIMIENTO 2045 2057	fondo de ojo
+T15	PROCEDIMIENTO 2138 2169	tomografía de coherencia óptica
+T16	PROCEDIMIENTO 2349 2369	terapia fotodinámica
+T17	PROCEDIMIENTO 2423 2458	triamcinolona acetónido intravitreo
+T18	PROCEDIMIENTO 395 417	angiofluoresceingrafía
+T19	PROCEDIMIENTO 419 422	AFG
+T20	PROCEDIMIENTO 859 868	analítica
+T21	PROCEDIMIENTO 877 897	radiografía de tórax
+T22	PROCEDIMIENTO 899 916	serología luética
+T23	PROCEDIMIENTO 960 967	Mantoux
+T24	SINTOMA 73 87	visión borrosa
+T25	SINTOMA 1994 2006	asintomática
+T26	SINTOMA 1567 1626	alteración del epitelio pigmentario retiniano (EPR) macular
+T27	SINTOMA 1127 1153	alteraciones campimétricas
+T28	SINTOMA 859 985	analítica básica, radiografía de tórax, serología luética, enzima de conversión de la angiotensina y Mantoux) fueron negativas
+T29	SINTOMA 395 466	angiofluoresceingrafía (AFG) mostró múltiples puntos hiperfluorescentes
+T30	SINTOMA 6 14	emétrope
+T31	SINTOMA 1922 1950	HLA A29 que resultó negativo
+T32	SINTOMA 2073 2124	levantamiento del neuroepitelio yuxtafoveolar nasal
+T33	SINTOMA 1294 1357	mancha blanca y pigmento peripapilar temporal superior en el OD
+T34	SINTOMA 1505 1564	manchas blanco-amarillentas distribuidas por polo posterior
+T35	SINTOMA 2634 2700	manchas blanco-amarillentas tenues en polo posterior de ambos ojos
+T36	SINTOMA 1062 1109	pérdida visual al nivel de 20/60 OD y 20/30 OI,
+T37	SINTOMA 306 384	puntos blancos de 100-200 micras más numerosos en el área temporal a la mácula

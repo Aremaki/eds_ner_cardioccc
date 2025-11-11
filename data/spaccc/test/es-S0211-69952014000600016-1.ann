@@ -1,0 +1,18 @@
+T1	ENFERMEDAD 299 315	disfunción renal
+T2	ENFERMEDAD 450 471	nefritis intersticial
+T3	ENFERMEDAD 261 293	viruria (107 copias/ml) para BKV
+T4	PROCEDIMIENTO 103 143	Mantenimiento: tacrolimus-MMF-esteroides
+T5	PROCEDIMIENTO 133 143	esteroides
+T6	PROCEDIMIENTO 31 52	trasplante cadavérico
+T7	PROCEDIMIENTO 433 440	biopsia
+T8	PROCEDIMIENTO 536 562	medicación inmunosupresora
+T9	PROCEDIMIENTO 54 101	Inducción: daclizumab-tacrolimus-MMF-esteroides
+T10	PROCEDIMIENTO 834 842	diálisis
+T11	PROCEDIMIENTO 91 101	esteroides
+T12	SINTOMA 706 717	proteinuria
+T13	SINTOMA 207 218	proteinuria
+T14	SINTOMA 299 315	disfunción renal
+T15	SINTOMA 365 381	viremia negativa
+T16	SINTOMA 321 337	viremia negativa
+T17	SINTOMA 348 355	viruria
+T18	SINTOMA 261 293	viruria (107 copias/ml) para BKV

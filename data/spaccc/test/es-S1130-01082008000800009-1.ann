@@ -1,0 +1,36 @@
+T1	ENFERMEDAD 38 59	neoplasia de próstata
+T2	ENFERMEDAD 86 102	proctitis rádica
+T3	ENFERMEDAD 1412 1490	segmento de intestino delgado con una disección de su pared por gas intramural
+T4	ENFERMEDAD 1190 1214	neumoperitoneo bilateral
+T5	ENFERMEDAD 145 160	hernia de hiato
+T6	ENFERMEDAD 163 183	ulcus gastroduodenal
+T7	ENFERMEDAD 1295 1317	obstrucción intestinal
+T8	ENFERMEDAD 1567 1591	neumoperitoneo bilateral
+T9	ENFERMEDAD 255 294	enfermedad pulmonar obstructiva crónica
+T10	ENFERMEDAD 297 310	neumoconiosis
+T11	ENFERMEDAD 806 817	adenopatías
+T12	ENFERMEDAD 566 578	traumatismos
+T13	ENFERMEDAD 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
+T14	PROCEDIMIENTO 1018 1053	pruebas de función renal y hepática
+T15	PROCEDIMIENTO 1078 1105	radiografía simple de tórax
+T16	PROCEDIMIENTO 1160 1182	radiografía de abdomen
+T17	PROCEDIMIENTO 1331 1384	tomografía axial computerizada (TAC) tóraco-abdominal
+T18	PROCEDIMIENTO 1363 1366	TAC
+T19	PROCEDIMIENTO 601 619	estudios invasivos
+T20	PROCEDIMIENTO 72 84	radioterapia
+T21	PROCEDIMIENTO 728 777	exploración neurológica, cardiológica y abdominal
+T22	PROCEDIMIENTO 875 893	electrocardiograma
+T23	PROCEDIMIENTO 898 907	hemograma
+T24	PROCEDIMIENTO 912 932	fórmula leucocitaria
+T25	PROCEDIMIENTO 937 959	estudio de coagulación
+T26	PROCEDIMIENTO 977 986	ionograma
+T27	PROCEDIMIENTO 992 1011	troponinas seriadas
+T28	SINTOMA 641 660	buen estado general
+T29	SINTOMA 688 713	hemodinámicamente estable
+T30	SINTOMA 676 685	apirético
+T31	SINTOMA 394 422	dolor en hemitórax izquierdo
+T32	SINTOMA 875 1073	electrocardiograma, el hemograma, la fórmula leucocitaria, el estudio de coagulación, la glucemia, el ionograma, las troponinas seriadas y las pruebas de función renal y hepática resultaron normales
+T33	SINTOMA 728 786	exploración neurológica, cardiológica y abdominal normales
+T34	SINTOMA 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
+T35	SINTOMA 1116 1155	patrón retículo-nodular basal bilateral
+T36	SINTOMA 837 870	roncus pulmonar aislado bilateral

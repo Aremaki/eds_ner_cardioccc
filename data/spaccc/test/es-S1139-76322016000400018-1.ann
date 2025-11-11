@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 410 442	estenosis hipertrófica de píloro
+T2	ENFERMEDAD 1181 1227	intubación operatoria y el edema postraumático
+T3	ENFERMEDAD 2468 2489	malformación vascular
+T4	ENFERMEDAD 2653 2680	doble arco aórtico completo
+T5	ENFERMEDAD 2734 2755	constricción traqueal
+T6	ENFERMEDAD 484 504	alcalosis metabólica
+T7	PROCEDIMIENTO 1046 1060	pulsioximetría
+T8	PROCEDIMIENTO 1181 1202	intubación operatoria
+T9	PROCEDIMIENTO 1274 1286	nebulización
+T10	PROCEDIMIENTO 1508 1535	radiografía simple de tórax
+T11	PROCEDIMIENTO 1674 1704	nasolaringoendoscopia flexible
+T12	PROCEDIMIENTO 1882 1920	serie fluoroscópica con contraste oral
+T13	PROCEDIMIENTO 2080 2097	cirugía de píloro
+T14	PROCEDIMIENTO 2246 2258	broncoscopia
+T15	PROCEDIMIENTO 2567 2607	angiografía por tomografía computarizada
+T16	PROCEDIMIENTO 2609 2617	angio-TC
+T17	PROCEDIMIENTO 2760 2775	ecocardiografía
+T18	PROCEDIMIENTO 2830 2876	cirugía de abordaje torácico lateral izquierdo
+T19	PROCEDIMIENTO 460 470	gasometría
+T20	PROCEDIMIENTO 510 521	ultrasonido
+T21	PROCEDIMIENTO 615 634	técnica de Ramstedt
+T22	PROCEDIMIENTO 689 701	fue intubado
+T23	SINTOMA 1146 1154	estridor
+T24	SINTOMA 146 153	vómitos
+T25	SINTOMA 988 1011	dificultad respiratoria
+T26	SINTOMA 1362 1370	estridor
+T27	SINTOMA 3241 3249	estridor
+T28	SINTOMA 1436 1459	dificultad respiratoria
+T29	SINTOMA 2126 2133	vómitos
+T30	SINTOMA 2171 2194	dificultad respiratoria
+T31	SINTOMA 2208 2216	estridor
+T32	SINTOMA 310 329	buen estado general
+T33	SINTOMA 484 504	alcalosis metabólica
+T34	SINTOMA 1553 1643	anormalidades en el parénquima pulmonar, estructuras del cuello o columna de aire traqueal
+T35	SINTOMA 288 303	ávido por comer
+T36	SINTOMA 2285 2335	compresión extrínseca 2 cm por encima de la carina
+T37	SINTOMA 1015 1060	desaturación del oxígeno en la pulsioximetría
+T38	SINTOMA 2518 2550	disminución del calibre traqueal
+T39	SINTOMA 2972 3023	disminución en la intensidad del ruido inspiratorio
+T40	SINTOMA 2760 2786	ecocardiografía fue normal
+T41	SINTOMA 1208 1227	edema postraumático
+T42	SINTOMA 778 813	estridor de predominio inspiratorio
+T43	SINTOMA 3078 3095	estridor residual
+T44	SINTOMA 1724 1780	estructuras supraglóticas y las cuerdas vocales íntegras
+T45	SINTOMA 1815 1836	movimientos anormales
+T46	SINTOMA 1939 1999	muesca en la pared posterior del tercio superior del esófago
+T47	SINTOMA 1109 1113	sano
+T48	SINTOMA 3141 3177	síntomas respiratorios ni digestivos

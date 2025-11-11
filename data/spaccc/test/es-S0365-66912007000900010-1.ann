@@ -1,0 +1,57 @@
+T1	ENFERMEDAD 110 133	melanoma de la coroides
+T2	ENFERMEDAD 2089 2117	escleritis posterior gigante
+T3	ENFERMEDAD 1585 1596	toxocarosis
+T4	ENFERMEDAD 2221 2245	escleritis granulomatosa
+T5	ENFERMEDAD 2265 2276	sarcoidosis
+T6	ENFERMEDAD 2773 2787	espasmo ciliar
+T7	ENFERMEDAD 1941 1952	sarcoidosis
+T8	ENFERMEDAD 1963 1975	tuberculosis
+T9	ENFERMEDAD 1124 1142	pliegues coroideos
+T10	ENFERMEDAD 1415 1423	lesiones
+T11	ENFERMEDAD 1099 1105	lesión
+T12	ENFERMEDAD 1182 1207	red vascular intratumoral
+T13	ENFERMEDAD 1829 1851	afección granulomatosa
+T14	PROCEDIMIENTO 1040 1066	angiografía fluoresceínica
+T15	PROCEDIMIENTO 1073 1093	verde de indocianina
+T16	PROCEDIMIENTO 1221 1271	resonancia magnética nuclear (RMN) orbito-cerebral
+T17	PROCEDIMIENTO 1251 1254	RMN
+T18	PROCEDIMIENTO 1579 1583	TPHA
+T19	PROCEDIMIENTO 1681 1701	radiografía de tórax
+T20	PROCEDIMIENTO 1999 2008	anamnesis
+T21	PROCEDIMIENTO 2013 2027	exámen clínico
+T22	PROCEDIMIENTO 2029 2041	angiográfico
+T23	PROCEDIMIENTO 2043 2053	ecográfico
+T24	PROCEDIMIENTO 2059 2062	RMN
+T25	PROCEDIMIENTO 2135 2165	biopsia por vía extra-escleral
+T26	PROCEDIMIENTO 2185 2207	examen histopalológico
+T27	PROCEDIMIENTO 2324 2351	coloración de Ziehl-Neelsen
+T28	PROCEDIMIENTO 2353 2357	Gram
+T29	PROCEDIMIENTO 2359 2376	metamina de plata
+T30	PROCEDIMIENTO 2379 2382	PAS
+T31	PROCEDIMIENTO 2429 2440	corticoides
+T32	PROCEDIMIENTO 3047 3059	fondo de ojo
+T33	PROCEDIMIENTO 3120 3131	ecografía B
+T34	PROCEDIMIENTO 522 549	exámen oftalmológico del OD
+T35	PROCEDIMIENTO 589 628	exámen a la lámpara de hendidura del OI
+T36	PROCEDIMIENTO 786 798	fondo del OI
+T37	PROCEDIMIENTO 882 893	ecografía B
+T38	SINTOMA 2942 2982	reacción inflamatoria en cámara anterior
+T39	SINTOMA 1681 1712	radiografía de tórax fue normal
+T40	SINTOMA 1631 1663	calcio en sangre fueron normales
+T41	SINTOMA 2987 3017	cristalino estaba transparente
+T42	SINTOMA 227 275	disminución de la agudeza visual (AV) unilateral
+T43	SINTOMA 318 334	dolores oculares
+T44	SINTOMA 908 940	engrosamiento de la pared ocular
+T45	SINTOMA 1284 1384	engrosamiento escleral de aspecto nodular que captaba el contraste en la zona postero-interna del OI
+T46	SINTOMA 1717 1781	enzima de conversión de la angiotensina, discretamente aumentada
+T47	SINTOMA 973 1031	espacio extra-escleral se observaba una zona hipoecogénica
+T48	SINTOMA 2773 2787	espasmo ciliar
+T49	SINTOMA 522 584	exámen oftalmológico del OD no mostraba ninguna particularidad
+T50	SINTOMA 1483 1614	factor reumatoide, Ac antinucleares, cANCA, Ac antifosfolípidos) y de una etiología infecciosa (TPHA, toxocarosis) resultó negativo
+T51	SINTOMA 2683 2716	inflamación en la cámara anterior
+T52	SINTOMA 2909 2925	inyección ciliar
+T53	SINTOMA 726 739	iris abombado
+T54	SINTOMA 601 739	lámpara de hendidura del OI mostraba una inyección ciliar marcada, una reacción inflamatoria leve en la cámara anterior y un iris abombado
+T55	SINTOMA 1124 1160	pliegues coroideos bien visualizados
+T56	SINTOMA 672 720	reacción inflamatoria leve en la cámara anterior
+T57	SINTOMA 828 864	sector nasal de una masa amelanótica

@@ -1,0 +1,89 @@
+T1	ENFERMEDAD 4398 4436	Trastorno Evitativo de la Personalidad
+T2	ENFERMEDAD 4314 4353	Trastorno Esquizoide de la Personalidad
+T3	ENFERMEDAD 66 78	Fobia social
+T4	ENFERMEDAD 81 121	Trastorno dependiente de la personalidad
+T5	ENFERMEDAD 376 395	déficit de atención
+T6	ENFERMEDAD 1919 1949	Ansiedad psico-física moderada
+T7	ENFERMEDAD 5964 5994	trastorno del espectro autista
+T8	ENFERMEDAD 1951 1988	ideas obsesivas de tipo hipocondríaco
+T9	ENFERMEDAD 5996 5999	TEA
+T10	ENFERMEDAD 1990 2000	onicofagia
+T11	ENFERMEDAD 2003 2020	bruxismo nocturno
+T12	ENFERMEDAD 585 610	retraso en el crecimiento
+T13	ENFERMEDAD 2178 2207	Consciencia parcial trastorno
+T14	ENFERMEDAD 702 728	Intolerancia a la fructosa
+T15	ENFERMEDAD 740 760	sangrados digestivos
+T16	ENFERMEDAD 763 788	intolerancia a la lactosa
+T17	ENFERMEDAD 856 875	alteración genética
+T18	ENFERMEDAD 3323 3360	ideas obsesivas de tipo hipocondríaco
+T19	ENFERMEDAD 6493 6519	TEA de alto funcionamiento
+T20	ENFERMEDAD 1320 1332	Fobia Social
+T21	ENFERMEDAD 1520 1532	Fobia Social
+T22	ENFERMEDAD 1535 1572	Trastorno Dependiente de Personalidad
+T23	ENFERMEDAD 2238 2266	Trastorno de la Personalidad
+T24	ENFERMEDAD 911 929	consumo de tóxicos
+T25	ENFERMEDAD 5150 5157	autismo
+T26	ENFERMEDAD 996 1018	sintomatologia ansiosa
+T27	ENFERMEDAD 3858 3865	ansiosa
+T28	ENFERMEDAD 4084 4100	espectro autista
+T29	ENFERMEDAD 3826 3842	evitación social
+T30	PROCEDIMIENTO 2333 2358	tratamiento farmacológico
+T31	PROCEDIMIENTO 2794 2843	exploración por parte de psiquiatría y psicología
+T32	PROCEDIMIENTO 2913 2928	medicación ISRS
+T33	PROCEDIMIENTO 2941 2966	tratamiento farmacológico
+T34	PROCEDIMIENTO 2978 3001	tratamiento psicológico
+T35	PROCEDIMIENTO 3522 3561	ejercicios de exposición social simples
+T36	PROCEDIMIENTO 4217 4290	Entrevista Clínica Estructurada para los Trastornos del Eje II del DSM-IV
+T37	PROCEDIMIENTO 4468 4497	Pruebas de Teoría de la Mente
+T38	PROCEDIMIENTO 4508 4531	Test Historias de Happé
+T39	PROCEDIMIENTO 4646 4685	Test de lectura de la Mente en los Ojos
+T40	PROCEDIMIENTO 4807 4836	Test de las Meteduras de Pata
+T41	PROCEDIMIENTO 4996 5040	Escala de Inteligencia Wechsler para Adultos
+T42	PROCEDIMIENTO 5115 5157	Entrevista para el diagnóstico del autismo
+T43	PROCEDIMIENTO 5735 5755	Resonancia Magnética
+T44	PROCEDIMIENTO 5757 5759	RM
+T45	PROCEDIMIENTO 816 831	examen genético
+T46	SINTOMA 5874 5886	colaboradora
+T47	SINTOMA 376 395	déficit de atención
+T48	SINTOMA 1427 1445	absentismo escolar
+T49	SINTOMA 3157 3189	alteración en el contacto ocular
+T50	SINTOMA 5569 5613	alteraciones cualitativas de la comunicación
+T51	SINTOMA 2142 2176	alteraciónes de la sensopercepción
+T52	SINTOMA 2086 2137	alteraciones del curso ni contenido del pensamiento
+T53	SINTOMA 5191 5238	alteraciones en la interacción social recíproca
+T54	SINTOMA 4546 4641	capacidad adecuada para inferir estados mentales en otros, entender metáforas y dobles sentidos
+T55	SINTOMA 911 929	consumo de tóxicos
+T56	SINTOMA 3087 3110	contacto fóbico-ansioso
+T57	SINTOMA 5477 5533	déficit en la búsqueda de compartir placer con los otros
+T58	SINTOMA 1453 1484	dependencia del ámbito familiar
+T59	SINTOMA 6326 6394	dificultad en la atribución de estados emocionales e intencionalidad
+T60	SINTOMA 4913 4975	dificultades en atribuir estados emocionales e intencionalidad
+T61	SINTOMA 6080 6140	dificultades para establecer relaciones sociales con iguales
+T62	SINTOMA 1395 1425	dificultades para relacionarse
+T63	SINTOMA 2440 2461	dificultades sociales
+T64	SINTOMA 2748 2769	dificultades sociales
+T65	SINTOMA 1699 1719	elevada introversión
+T66	SINTOMA 3283 3312	escaso interés por el entorno
+T67	SINTOMA 1782 1803	escaso interés social
+T68	SINTOMA 6019 6040	escaso interés social
+T69	SINTOMA 5762 5800	Examen craneal dentro de la normalidad
+T70	SINTOMA 6142 6188	expresiones faciales y afectividad restringida
+T71	SINTOMA 6042 6078	expresiones y conductas inapropiadas
+T72	SINTOMA 5620 5665	falta de juego simbólico espontáneo y variado
+T73	SINTOMA 5401 5438	falta de reciprocidad socio-emocional
+T74	SINTOMA 5332 5383	Incapacidad para desarrollar relaciones con iguales
+T75	SINTOMA 1086 1098	introvertida
+T76	SINTOMA 3194 3234	lenguaje continúa siendo poco espontáneo
+T77	SINTOMA 1861 1885	lenguaje poco espontáneo
+T78	SINTOMA 5240 5298	Limitada variedad de expresiones faciales para comunicarse
+T79	SINTOMA 398 423	mal rendimiento académico
+T80	SINTOMA 1067 1084	persona solitaria
+T81	SINTOMA 5894 5907	poco motivada
+T82	SINTOMA 2072 2081	psicótica
+T83	SINTOMA 4073 4100	rasgos del espectro autista
+T84	SINTOMA 4052 4070	rasgos esquizoides
+T85	SINTOMA 2278 2318	rasgos fóbicos, obsesivos y dependientes
+T86	SINTOMA 5301 5330	regular la interacción social
+T87	SINTOMA 5440 5471	respuestas sociales inadecuadas
+T88	SINTOMA 2038 2068	síntomas de la esfera afectiva
+T89	SINTOMA 996 1018	sintomatologia ansiosa

@@ -1,0 +1,39 @@
+T1	ENFERMEDAD 551 602	conglomerado submandibular izquierdo de adenopatías
+T2	ENFERMEDAD 1674 1694	adenitis tuberculosa
+T3	ENFERMEDAD 118 155	adenopatías dolorosas submandibulares
+T4	ENFERMEDAD 676 687	adenopatías
+T5	ENFERMEDAD 1575 1614	linfadenitis granulomatosa necrotizante
+T6	ENFERMEDAD 1850 1884	cultivo fue positivo para M. bovis
+T7	ENFERMEDAD 2429 2447	proceso infeccioso
+T8	ENFERMEDAD 1446 1456	adenopatía
+T9	PROCEDIMIENTO 1007 1027	radiografía de tórax
+T10	PROCEDIMIENTO 1033 1052	ecografía abdominal
+T11	PROCEDIMIENTO 1075 1144	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus
+T12	PROCEDIMIENTO 1172 1181	analítica
+T13	PROCEDIMIENTO 1189 1198	hemograma
+T14	PROCEDIMIENTO 1268 1323	interferon-gamma release assays (IGRA) (QuantiFERON(r))
+T15	PROCEDIMIENTO 1399 1456	punción aspiración con aguja fina (PAAF) de la adenopatía
+T16	PROCEDIMIENTO 1434 1438	PAAF
+T17	PROCEDIMIENTO 1520 1551	cultivo y el estudio citológico
+T18	PROCEDIMIENTO 1841 1845	PAAF
+T19	PROCEDIMIENTO 1850 1857	cultivo
+T20	PROCEDIMIENTO 1901 1913	antibiograma
+T21	PROCEDIMIENTO 2181 2225	cultivos de micobacterias en jugos gástricos
+T22	PROCEDIMIENTO 256 277	antiinflamatorio oral
+T23	PROCEDIMIENTO 369 384	vacunada de BCG
+T24	PROCEDIMIENTO 520 538	exploración física
+T25	PROCEDIMIENTO 618 627	palpación
+T26	PROCEDIMIENTO 716 734	exploración física
+T27	PROCEDIMIENTO 737 759	anamnesis por aparatos
+T28	PROCEDIMIENTO 898 919	prueba de tuberculina
+T29	SINTOMA 1850 1884	cultivo fue positivo para M. bovis
+T30	SINTOMA 2181 2242	cultivos de micobacterias en jugos gástricos fueron negativos
+T31	SINTOMA 1268 1336	interferon-gamma release assays (IGRA) (QuantiFERON(r)) fue positivo
+T32	SINTOMA 898 937	prueba de tuberculina, que fue positiva
+T33	SINTOMA 1007 1068	radiografía de tórax y la ecografía abdominal fueron normales
+T34	SINTOMA 1075 1167	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus (CMV) fueron negativas
+T35	SINTOMA 311 317	fiebre
+T36	SINTOMA 319 338	sudoración nocturna
+T37	SINTOMA 342 357	pérdida de peso
+T38	SINTOMA 1189 1205	hemograma normal
+T39	SINTOMA 604 627	doloroso a la palpación

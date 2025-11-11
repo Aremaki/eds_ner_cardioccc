@@ -1,0 +1,59 @@
+T1	ENFERMEDAD 134 159	hernia inguinal bilateral
+T2	ENFERMEDAD 200 202	PR
+T3	ENFERMEDAD 445 447	PR
+T4	ENFERMEDAD 2212 2227	derrame pleural
+T5	ENFERMEDAD 2648 2666	síndrome nefrótico
+T6	ENFERMEDAD 3040 3069	nefropatía de cambios mínimos
+T7	ENFERMEDAD 3071 3074	NCM
+T8	ENFERMEDAD 3228 3246	síndrome nefrótico
+T9	ENFERMEDAD 3451 3469	síndrome nefrótico
+T10	ENFERMEDAD 3563 3581	síndrome nefrótico
+T11	ENFERMEDAD 2307 2315	litiasis
+T12	ENFERMEDAD 1328 1342	hepatitis B, C
+T13	ENFERMEDAD 3001 3009	lesiones
+T14	ENFERMEDAD 48 83	alergia a procaína y estreptomicina
+T15	PROCEDIMIENTO 100 128	prótesis de cadera izquierda
+T16	PROCEDIMIENTO 1097 1116	analítica en sangre
+T17	PROCEDIMIENTO 1262 1271	hemograma
+T18	PROCEDIMIENTO 1277 1288	coagulación
+T19	PROCEDIMIENTO 1306 1381	Serología de virus de hepatitis B, C y virus de la inmunodeficiencia humana
+T20	PROCEDIMIENTO 1399 1419	estudio inmunológico
+T21	PROCEDIMIENTO 1624 1648	electroforesis en sangre
+T22	PROCEDIMIENTO 1728 1748	marcadores tumorales
+T23	PROCEDIMIENTO 1931 1979	cuantificación de proteínas en orina de 24 horas
+T24	PROCEDIMIENTO 2048 2071	electroforesis en orina
+T25	PROCEDIMIENTO 2178 2198	radiografía de tórax
+T26	PROCEDIMIENTO 2243 2258	ecografía renal
+T27	PROCEDIMIENTO 2346 2386	tomografía axial computarizada abdominal
+T28	PROCEDIMIENTO 2483 2495	gastroscopia
+T29	PROCEDIMIENTO 2597 2622	estudio anatomopatológico
+T30	PROCEDIMIENTO 2691 2727	biopsia renal percutánea ecodirigida
+T31	PROCEDIMIENTO 2841 2860	inmunofluorescencia
+T32	PROCEDIMIENTO 3101 3108	biopsia
+T33	PROCEDIMIENTO 3370 3409	terapia de mantenimiento con prednisona
+T34	PROCEDIMIENTO 85 159	intervenido de prótesis de cadera izquierda y de hernia inguinal bilateral
+T35	PROCEDIMIENTO 863 881	exploración física
+T36	SINTOMA 3834 3845	proteinuria
+T37	SINTOMA 3962 3973	proteinuria
+T38	SINTOMA 4099 4110	proteinuria
+T39	SINTOMA 2135 2170	proteinuria de Bence-Jones negativa
+T40	SINTOMA 4080 4092	asintomático
+T41	SINTOMA 3778 3784	edemas
+T42	SINTOMA 333 352	deterioro cognitivo
+T43	SINTOMA 960 977	abdomen globuloso
+T44	SINTOMA 1425 1515	anticuerpos antinucleares y los anticuerpos anticitoplasma de neutrófilos fueron negativos
+T45	SINTOMA 1750 1885	antígeno carcinoembrionario [CEA], CA19-9, alfa-fetoproteína y antígeno prostático específico [PSA]) estaban dentro de valores normales
+T46	SINTOMA 650 721	aumento de volumen en miembros inferiores y en región abdómino-escrotal
+T47	SINTOMA 1522 1541	complemento, normal
+T48	SINTOMA 800 833	disminución del ritmo de diuresis
+T49	SINTOMA 1665 1722	disminución porcentual de albúmina sin picos monoclonales
+T50	SINTOMA 1007 1046	edemas con fóvea en miembros inferiores
+T51	SINTOMA 2414 2449	engrosamiento de pliegues gástricos
+T52	SINTOMA 1262 1304	hemograma y la coagulación fueron normales
+T53	SINTOMA 1597 1616	IgM e IgA, normales
+T54	SINTOMA 269 321	independiente para las actividades de la vida diaria
+T55	SINTOMA 982 1004	matidez en mesogastrio
+T56	SINTOMA 836 844	nicturia
+T57	SINTOMA 2105 2123	picos monoclonales
+T58	SINTOMA 2530 2556	pliegue pilórico engrosado
+T59	SINTOMA 1306 1391	Serología de virus de hepatitis B, C y virus de la inmunodeficiencia humana: negativa

@@ -1,0 +1,24 @@
+T1	ENFERMEDAD 42 61	esclerosis tuberosa
+T2	ENFERMEDAD 106 141	lesiones faciales (adenoma sebáceo)
+T3	ENFERMEDAD 158 190	mastopatía fibroquística de mama
+T4	ENFERMEDAD 193 206	bocio coloide
+T5	ENFERMEDAD 987 1019	quistes epidérmicos de inclusión
+T6	ENFERMEDAD 671 688	Tumores de Koeman
+T7	ENFERMEDAD 603 669	periungueal tanto en dedos de pies como de manos presenta fibromas
+T8	ENFERMEDAD 1366 1378	angiofibroma
+T9	ENFERMEDAD 298 318	lesiones palpebrales
+T10	ENFERMEDAD 407 424	lesiones faciales
+T11	ENFERMEDAD 697 727	mancha hipopigmentada en tórax
+T12	ENFERMEDAD 732 780	párpado inferior izquierdo presenta dos lesiones
+T13	PROCEDIMIENTO 1036 1067	exploración tanto oftalmológica
+T14	PROCEDIMIENTO 1069 1081	fondo de ojo
+T15	PROCEDIMIENTO 1099 1132	TAC craneal, torácico y abdominal
+T16	PROCEDIMIENTO 1154 1176	tratamiento quirúrgico
+T17	PROCEDIMIENTO 1193 1257	resección de las dos tumoraciones palpebrales mediante dos cuñas
+T18	PROCEDIMIENTO 1331 1358	diagnóstico histopatológico
+T19	SINTOMA 1036 1149	exploración tanto oftalmológica (fondo de ojo) como sistémica (TAC craneal, torácico y abdominal) fueron normales
+T20	SINTOMA 343 361	lagrimeo en el ojo
+T21	SINTOMA 407 461	lesiones faciales con distribución en alas de mariposa
+T22	SINTOMA 697 727	mancha hipopigmentada en tórax
+T23	SINTOMA 335 340	picor
+T24	SINTOMA 1214 1238	tumoraciones palpebrales

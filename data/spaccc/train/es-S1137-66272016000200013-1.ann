@@ -1,0 +1,65 @@
+T1	ENFERMEDAD 3552 3566	sobreinfección
+T2	ENFERMEDAD 1161 1179	abscesos hepáticos
+T3	ENFERMEDAD 104 120	coledocolitiasis
+T4	ENFERMEDAD 1284 1319	lesiones en ambos lóbulos hepáticos
+T5	ENFERMEDAD 415 440	coledocolitiasis residual
+T6	ENFERMEDAD 1563 1581	abscesos hepáticos
+T7	ENFERMEDAD 2177 2195	lesiones hepáticas
+T8	ENFERMEDAD 2388 2404	coledocolitiasis
+T9	ENFERMEDAD 2459 2472	microcálculos
+T10	ENFERMEDAD 3186 3245	pseudotumor inflamatorio hepático de tipo linfoplasmocítico
+T11	ENFERMEDAD 3277 3318	enfermedad sistémica relacionada con IgG4
+T12	ENFERMEDAD 1117 1146	lesiones ocupantes de espacio
+T13	ENFERMEDAD 2772 2778	lesión
+T14	ENFERMEDAD 3365 3371	lesión
+T15	ENFERMEDAD 1606 1643	dilatación de la vía biliar principal
+T16	ENFERMEDAD 3385 3406	daño del ducto biliar
+T17	ENFERMEDAD 788 807	hiperbilirrubinemia
+T18	PROCEDIMIENTO 1006 1018	hemocultivos
+T19	PROCEDIMIENTO 1076 1085	ecografía
+T20	PROCEDIMIENTO 1238 1258	resonancia magnética
+T21	PROCEDIMIENTO 1493 1534	estudio dinámico con contraste endovenoso
+T22	PROCEDIMIENTO 1872 1911	drenaje percutáneo guiado por ecografía
+T23	PROCEDIMIENTO 1982 2016	tratamiento antibiótico endovenoso
+T24	PROCEDIMIENTO 2094 2114	resonancia magnética
+T25	PROCEDIMIENTO 2426 2430	CPRE
+T26	PROCEDIMIENTO 2426 2472	CPRE de la que se extrajeron dos microcálculos
+T27	PROCEDIMIENTO 2568 2586	estudio citológico
+T28	PROCEDIMIENTO 2662 2690	biopsia guiada por ecografía
+T29	PROCEDIMIENTO 2731 2750	estudio histológico
+T30	PROCEDIMIENTO 2910 2938	técnicas inmunohistoquímicas
+T31	PROCEDIMIENTO 3513 3536	tratamiento antibiótico
+T32	PROCEDIMIENTO 3606 3610	CPRE
+T33	PROCEDIMIENTO 3633 3655	tratamiento esteroideo
+T34	PROCEDIMIENTO 415 466	coledocolitiasis residual resuelta endoscópicamente
+T35	PROCEDIMIENTO 45 63	colecistectomizada
+T36	PROCEDIMIENTO 525 571	colangio pancreatografía retrógada endoscópica
+T37	PROCEDIMIENTO 573 577	CPRE
+T38	PROCEDIMIENTO 585 596	exploración
+T39	PROCEDIMIENTO 617 664	hipocondrio derecho y epigastrio a la palpación
+T40	PROCEDIMIENTO 91 156	episodios de coledocolitiasis residual resueltos endoscópicamente
+T41	SINTOMA 702 730	abdomen levemente distendido
+T42	SINTOMA 847 861	amilasa normal
+T43	SINTOMA 914 963	anticuerpos anticélulas parietales eran positivos
+T44	SINTOMA 3385 3406	daño del ducto biliar
+T45	SINTOMA 1648 1720	defectos de replección a nivel de colédoco distal y en el hepático común
+T46	SINTOMA 1606 1643	dilatación de la vía biliar principal
+T47	SINTOMA 608 649	dolor en hipocondrio derecho y epigastrio
+T48	SINTOMA 224 261	dolor epigástrico irradiado a espalda
+T49	SINTOMA 884 900	elevación de VSG
+T50	SINTOMA 2568 2624	estudio citológico, que fueron negativas para malignidad
+T51	SINTOMA 3416 3464	fibrosis concéntrica periductal sin células IgG4
+T52	SINTOMA 1006 1059	hemocultivos al ingreso, sin aislarse microorganismos
+T53	SINTOMA 969 993	IgG4 sérica era negativa
+T54	SINTOMA 2267 2313	irregularidad en el origen de la rama hepática
+T55	SINTOMA 810 841	leve elevación de transaminasas
+T56	SINTOMA 680 691	peritonismo
+T57	SINTOMA 758 770	leucocitosis
+T58	SINTOMA 788 807	hiperbilirrubinemia
+T59	SINTOMA 277 284	náuseas
+T60	SINTOMA 287 294	vómitos
+T61	SINTOMA 323 329	fiebre
+T62	SINTOMA 333 353	sensación distérmica
+T63	SINTOMA 2064 2071	afebril
+T64	SINTOMA 2038 2050	asintomática
+T65	SINTOMA 775 786	neutrofilia

@@ -1,0 +1,23 @@
+T1	ENFERMEDAD 732 781	linfoma testicular difuso de célula grande tipo B
+T2	ENFERMEDAD 112 159	carcinoma de próstata medianamente diferenciado
+T3	ENFERMEDAD 588 617	adenopatías retroperitoneales
+T4	ENFERMEDAD 360 376	tumor testicular
+T5	PROCEDIMIENTO 234 243	resección
+T6	PROCEDIMIENTO 268 286	cirugía prostática
+T7	PROCEDIMIENTO 41 63	prostatectomía radical
+T8	PROCEDIMIENTO 418 427	ecografía
+T9	PROCEDIMIENTO 463 478	estudio doppler
+T10	PROCEDIMIENTO 483 507	evaluación preoperatoria
+T11	PROCEDIMIENTO 526 539	TAC abdominal
+T12	PROCEDIMIENTO 558 579	TAC post orquiectomía
+T13	PROCEDIMIENTO 567 579	orquiectomía
+T14	PROCEDIMIENTO 68 94	linfadenectomía obturatriz
+T15	PROCEDIMIENTO 689 710	orquiectomía inguinal
+T16	PROCEDIMIENTO 822 871	quimioterapia citorreductiva según esquema R-CHOP
+T17	PROCEDIMIENTO 979 999	esquema IFOVM / DHAP
+T18	SINTOMA 388 392	masa
+T19	SINTOMA 1076 1087	falleciendo
+T20	SINTOMA 303 332	aumento de volumen testicular
+T21	SINTOMA 430 459	disminución de flujo vascular
+T22	SINTOMA 346 386	marcadores de tumor testicular negativos
+T23	SINTOMA 526 553	TAC abdominal sin hallazgos
