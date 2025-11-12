@@ -1,38 +1,60 @@
-T1	SINTOMA 2580 2615	aceptable función del injerto renal
-T2	SINTOMA 2513 2541	buenas condiciones generales
-T3	SINTOMA 2760 2788	buenas condiciones generales
-T4	SINTOMA 543 573	cefalea frontal y retro-ocular
-T5	SINTOMA 1216 1358	compromiso de los senos paranasales, órbita derecha, lóbulo frontal, senos cavernosos, ganglios basales derechos y área del tálamo ipsilateral
-T6	SINTOMA 877 889	convulsiones
-T7	SINTOMA 1738 1791	cultivos y la patología confirman infección por Mucor
-T8	SINTOMA 839 847	diplopía
-T9	SINTOMA 579 624	disminución de la sensibilidad en la hemicara
-T10	SINTOMA 1820 1907	E. cloacae, C. sedlakii, K pneumoniae BLEE (β-lactamasa de espectro extendido) positiva
-T11	SINTOMA 786 811	edema de maxilar superior
-T12	SINTOMA 1005 1022	edema en hemicara
-T13	SINTOMA 892 914	elevaciones de azoados
-T14	SINTOMA 849 856	epífora
-T15	SINTOMA 993 999	febril
-T16	SINTOMA 535 541	fiebre
-T17	SINTOMA 1139 1161	función renal alterada
-T18	SINTOMA 1085 1098	oftalmoplejia
-T19	SINTOMA 1100 1128	pérdida de la visión por ojo
-T20	SINTOMA 768 784	proptosis ocular
-T21	SINTOMA 1067 1083	proptosis ocular
-T22	SINTOMA 821 837	rinorrea verdosa
-T23	ENFERMEDAD 51 124	insuficiencia renal crónica terminal secundaria a enfermedad poliquística
-T24	ENFERMEDAD 665 680	sinusitis aguda
-T25	ENFERMEDAD 768 784	proptosis ocular
-T26	ENFERMEDAD 858 875	úlcera en paladar
-T27	ENFERMEDAD 1032 1065	úlcera extensa en el paladar duro
-T28	ENFERMEDAD 1067 1083	proptosis ocular
-T29	ENFERMEDAD 1085 1098	oftalmoplejia
-T30	ENFERMEDAD 1100 1136	pérdida de la visión por ojo derecho
-T31	ENFERMEDAD 1565 1574	sinusitis
-T32	ENFERMEDAD 1587 1611	absceso cerebral frontal
-T33	ENFERMEDAD 2557 2566	infección
-T34	ENFERMEDAD 337 358	rechazo celular agudo
-T35	ENFERMEDAD 1403 1407	MROC
-T36	ENFERMEDAD 1772 1791	infección por Mucor
-T37	ENFERMEDAD 839 847	diplopía
-T38	ENFERMEDAD 849 856	epífora
+T1	ENFERMEDAD 51 124	insuficiencia renal crónica terminal secundaria a enfermedad poliquística
+T2	ENFERMEDAD 665 680	sinusitis aguda
+T3	ENFERMEDAD 768 784	proptosis ocular
+T4	ENFERMEDAD 858 875	úlcera en paladar
+T5	ENFERMEDAD 1032 1065	úlcera extensa en el paladar duro
+T6	ENFERMEDAD 1067 1083	proptosis ocular
+T7	ENFERMEDAD 1085 1098	oftalmoplejia
+T8	ENFERMEDAD 1100 1136	pérdida de la visión por ojo derecho
+T9	ENFERMEDAD 1565 1574	sinusitis
+T10	ENFERMEDAD 1587 1611	absceso cerebral frontal
+T11	ENFERMEDAD 2557 2566	infección
+T12	ENFERMEDAD 337 358	rechazo celular agudo
+T13	ENFERMEDAD 1403 1407	MROC
+T14	ENFERMEDAD 1772 1791	infección por Mucor
+T15	ENFERMEDAD 839 847	diplopía
+T16	ENFERMEDAD 849 856	epífora
+T17	PROCEDIMIENTO 1936 1956	resonancia magnética
+T18	PROCEDIMIENTO 311 324	biopsia renal
+T19	PROCEDIMIENTO 2444 2470	nutrición por gastrostomía
+T20	PROCEDIMIENTO 2842 2863	reconstrucción facial
+T21	PROCEDIMIENTO 1174 1203	resonancia magnética cerebral
+T22	PROCEDIMIENTO 1554 1574	drenaje de sinusitis
+T23	PROCEDIMIENTO 1576 1619	drenaje de absceso cerebral frontal derecho
+T24	PROCEDIMIENTO 1621 1689	resección extensa de los tejidos blandos y óseos de hemicara derecha
+T25	PROCEDIMIENTO 1704 1717	traqueostomía
+T26	PROCEDIMIENTO 1720 1732	gastrostomía
+T27	PROCEDIMIENTO 1691 1702	enucleación
+T28	PROCEDIMIENTO 208 229	manejo inmunosupresor
+T29	PROCEDIMIENTO 1738 1746	cultivos
+T30	PROCEDIMIENTO 2657 2682	reconstrucción quirúrgica
+T31	PROCEDIMIENTO 2717 2731	reconstrucción
+T32	PROCEDIMIENTO 1472 1487	inmunosupresión
+T33	PROCEDIMIENTO 130 163	trasplantado de donante fallecido
+T34	PROCEDIMIENTO 1501 1516	cirugía radical
+T35	PROCEDIMIENTO 1752 1761	patología
+T36	PROCEDIMIENTO 2200 2215	cirugía radical
+T37	PROCEDIMIENTO 2602 2615	injerto renal
+T38	PROCEDIMIENTO 1808 1819	se aislaron
+T39	SINTOMA 535 541	fiebre
+T40	SINTOMA 543 573	cefalea frontal y retro-ocular
+T41	SINTOMA 579 624	disminución de la sensibilidad en la hemicara
+T42	SINTOMA 2580 2615	aceptable función del injerto renal
+T43	SINTOMA 786 811	edema de maxilar superior
+T44	SINTOMA 821 837	rinorrea verdosa
+T45	SINTOMA 839 847	diplopía
+T46	SINTOMA 849 856	epífora
+T47	SINTOMA 892 914	elevaciones de azoados
+T48	SINTOMA 993 999	febril
+T49	SINTOMA 1005 1022	edema en hemicara
+T50	SINTOMA 1139 1161	función renal alterada
+T51	SINTOMA 1216 1358	compromiso de los senos paranasales, órbita derecha, lóbulo frontal, senos cavernosos, ganglios basales derechos y área del tálamo ipsilateral
+T52	SINTOMA 877 889	convulsiones
+T53	SINTOMA 2513 2541	buenas condiciones generales
+T54	SINTOMA 2760 2788	buenas condiciones generales
+T55	SINTOMA 1738 1791	cultivos y la patología confirman infección por Mucor
+T56	SINTOMA 768 784	proptosis ocular
+T57	SINTOMA 1067 1083	proptosis ocular
+T58	SINTOMA 1100 1128	pérdida de la visión por ojo
+T59	SINTOMA 1085 1098	oftalmoplejia
+T60	SINTOMA 1820 1907	E. cloacae, C. sedlakii, K pneumoniae BLEE (β-lactamasa de espectro extendido) positiva

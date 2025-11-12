@@ -1,9 +1,14 @@
-T1	SINTOMA 352 359	Afebril
-T2	SINTOMA 520 538	coagulación normal
-T3	SINTOMA 222 270	cordón longitudinal indurado en la base del pene
-T4	SINTOMA 303 311	doloroso
-T5	SINTOMA 153 190	induración peneana a nivel de la base
-T6	ENFERMEDAD 560 580	Enfermedad de Mondor
-T7	ENFERMEDAD 328 350	adenopatías inguinales
-T8	ENFERMEDAD 447 507	trombosis segmentaria de la vena dorsal superficial del pene
-T9	ENFERMEDAD 17 24	fumador
+T1	ENFERMEDAD 560 580	Enfermedad de Mondor
+T2	ENFERMEDAD 328 350	adenopatías inguinales
+T3	ENFERMEDAD 447 507	trombosis segmentaria de la vena dorsal superficial del pene
+T4	ENFERMEDAD 17 24	fumador
+T5	PROCEDIMIENTO 602 630	tratamiento antiinflamatorio
+T6	PROCEDIMIENTO 316 350	se palparon adenopatías inguinales
+T7	PROCEDIMIENTO 372 391	eco-doppler peneano
+T8	PROCEDIMIENTO 509 531	Estudio de coagulación
+T9	PROCEDIMIENTO 197 208	exploración
+T10	SINTOMA 153 190	induración peneana a nivel de la base
+T11	SINTOMA 222 270	cordón longitudinal indurado en la base del pene
+T12	SINTOMA 520 538	coagulación normal
+T13	SINTOMA 352 359	Afebril
+T14	SINTOMA 303 311	doloroso

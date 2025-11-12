@@ -1,41 +1,41 @@
-T1	SINTOMA 2021 2033	asintomático
-T2	SINTOMA 348 358	consciente
-T3	SINTOMA 360 369	orientado
-T4	SINTOMA 387 404	defensa abdominal
-T5	SINTOMA 918 929	fiebre alta
-T6	SINTOMA 934 945	escalofríos
-T7	SINTOMA 2433 2445	asintomático
-T8	SINTOMA 2456 2477	función sexual normal
-T9	SINTOMA 853 901	paso de contraste desde la uretra hasta el recto
-T10	SINTOMA 589 598	retención
-T11	SINTOMA 2511 2537	ultrasonido, que es normal
-T12	ENFERMEDAD 55 114	herida de arma de fuego con orificio de entrada en la nalga
-T13	ENFERMEDAD 196 230	herida de bala en el muslo derecho
-T14	ENFERMEDAD 1705 1736	próstata, que está hiperplásica
-T15	ENFERMEDAD 454 503	bala situada a la altura de la sínfisis del pubis
-T16	ENFERMEDAD 498 549	pubis, así como una fractura de la rama descendente
-T17	ENFERMEDAD 1125 1143	perforación rectal
-T18	ENFERMEDAD 738 744	lesión
-T19	ENFERMEDAD 1586 1592	lesión
-T20	ENFERMEDAD 2090 2105	orificio rectal
-T21	PROCEDIMIENTO 1030 1042	intervención
-T22	PROCEDIMIENTO 1094 1106	colonoscopia
-T23	PROCEDIMIENTO 1158 1223	se introduce un uretrotomo endoscópico hasta la uretra prostática
-T24	PROCEDIMIENTO 1373 1410	vejiga y por último se deja una sonda
-T25	PROCEDIMIENTO 1453 1468	acto quirúrgico
-T26	PROCEDIMIENTO 1482 1552	laparotomía hasta la sínfisis del pubis, se revisa de nuevo el abdomen
-T27	PROCEDIMIENTO 1609 1640	se diseca el espacio de Retzius
-T28	PROCEDIMIENTO 1643 1713	mediante control radiológico, se palpa la cara anterior de la próstata
-T29	PROCEDIMIENTO 1787 1883	con una pinza de anillo y siempre bajo control radiológico se consigue agarrar y extraer la bala
-T30	PROCEDIMIENTO 2056 2068	colonoscopia
-T31	PROCEDIMIENTO 2124 2147	se cierra la colostomía
-T32	PROCEDIMIENTO 2178 2197	la sonda se le deja
-T33	PROCEDIMIENTO 2296 2308	uretrografía
-T34	PROCEDIMIENTO 2353 2371	se retira la sonda
-T35	PROCEDIMIENTO 2511 2522	ultrasonido
-T36	PROCEDIMIENTO 412 441	radiografía simple de abdomen
-T37	PROCEDIMIENTO 620 627	sondaje
-T38	PROCEDIMIENTO 640 670	se pone un catéter suprapúbico
-T39	PROCEDIMIENTO 695 706	laparotomía
-T40	PROCEDIMIENTO 763 783	colostomía izquierda
-T41	PROCEDIMIENTO 817 829	uretrografía
+T1	ENFERMEDAD 55 114	herida de arma de fuego con orificio de entrada en la nalga
+T2	ENFERMEDAD 196 230	herida de bala en el muslo derecho
+T3	ENFERMEDAD 1705 1736	próstata, que está hiperplásica
+T4	ENFERMEDAD 454 503	bala situada a la altura de la sínfisis del pubis
+T5	ENFERMEDAD 498 549	pubis, así como una fractura de la rama descendente
+T6	ENFERMEDAD 1125 1143	perforación rectal
+T7	ENFERMEDAD 738 744	lesión
+T8	ENFERMEDAD 1586 1592	lesión
+T9	ENFERMEDAD 2090 2105	orificio rectal
+T10	PROCEDIMIENTO 1482 1552	laparotomía hasta la sínfisis del pubis, se revisa de nuevo el abdomen
+T11	PROCEDIMIENTO 2056 2068	colonoscopia
+T12	PROCEDIMIENTO 2124 2147	se cierra la colostomía
+T13	PROCEDIMIENTO 1609 1640	se diseca el espacio de Retzius
+T14	PROCEDIMIENTO 1643 1713	mediante control radiológico, se palpa la cara anterior de la próstata
+T15	PROCEDIMIENTO 2296 2308	uretrografía
+T16	PROCEDIMIENTO 412 441	radiografía simple de abdomen
+T17	PROCEDIMIENTO 640 670	se pone un catéter suprapúbico
+T18	PROCEDIMIENTO 695 706	laparotomía
+T19	PROCEDIMIENTO 763 783	colostomía izquierda
+T20	PROCEDIMIENTO 817 829	uretrografía
+T21	PROCEDIMIENTO 1094 1106	colonoscopia
+T22	PROCEDIMIENTO 1158 1223	se introduce un uretrotomo endoscópico hasta la uretra prostática
+T23	PROCEDIMIENTO 1787 1883	con una pinza de anillo y siempre bajo control radiológico se consigue agarrar y extraer la bala
+T24	PROCEDIMIENTO 2353 2371	se retira la sonda
+T25	PROCEDIMIENTO 620 627	sondaje
+T26	PROCEDIMIENTO 2511 2522	ultrasonido
+T27	PROCEDIMIENTO 1373 1410	vejiga y por último se deja una sonda
+T28	PROCEDIMIENTO 1453 1468	acto quirúrgico
+T29	PROCEDIMIENTO 2178 2197	la sonda se le deja
+T30	PROCEDIMIENTO 1030 1042	intervención
+T31	SINTOMA 2021 2033	asintomático
+T32	SINTOMA 348 358	consciente
+T33	SINTOMA 360 369	orientado
+T34	SINTOMA 387 404	defensa abdominal
+T35	SINTOMA 2456 2477	función sexual normal
+T36	SINTOMA 918 929	fiebre alta
+T37	SINTOMA 934 945	escalofríos
+T38	SINTOMA 2433 2445	asintomático
+T39	SINTOMA 589 598	retención
+T40	SINTOMA 853 901	paso de contraste desde la uretra hasta el recto
+T41	SINTOMA 2511 2537	ultrasonido, que es normal

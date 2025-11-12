@@ -1,44 +1,44 @@
-T1	SINTOMA 2351 2358	fallece
-T2	SINTOMA 263 284	focalidad neurológica
-T3	SINTOMA 1273 1285	asintomática
-T4	SINTOMA 1965 1977	asintomática
-T5	SINTOMA 2056 2103	nódulo de pequeño tamaño temporal basal derecho
-T6	SINTOMA 117 147	pérdida de memoria de fijación
-T7	SINTOMA 499 565	proceso expansivo intraaxial córtico-subcortical frontal izquierdo
-T8	ENFERMEDAD 60 76	glaucoma crónico
-T9	ENFERMEDAD 1379 1455	lesión cortico-subcortical frontal derecha sugestiva de glioma de alto grado
-T10	ENFERMEDAD 924 947	glioblastoma multiforme
-T11	ENFERMEDAD 2159 2171	glioblastoma
-T12	ENFERMEDAD 232 249	proceso depresivo
-T13	ENFERMEDAD 2319 2337	lesiones tumorales
-T14	ENFERMEDAD 400 421	glioblastoma cerebral
-T15	ENFERMEDAD 499 565	proceso expansivo intraaxial córtico-subcortical frontal izquierdo
-T16	ENFERMEDAD 1735 1747	glioblastoma
-T17	ENFERMEDAD 669 743	glioma de alto grado, localizado en región hemisférico premotora izquierda
-T18	ENFERMEDAD 1029 1045	restos tumorales
-T19	ENFERMEDAD 865 870	tumor
-T20	ENFERMEDAD 1486 1491	tumor
-T21	ENFERMEDAD 1686 1691	tumor
+T1	ENFERMEDAD 60 76	glaucoma crónico
+T2	ENFERMEDAD 1379 1455	lesión cortico-subcortical frontal derecha sugestiva de glioma de alto grado
+T3	ENFERMEDAD 924 947	glioblastoma multiforme
+T4	ENFERMEDAD 2159 2171	glioblastoma
+T5	ENFERMEDAD 232 249	proceso depresivo
+T6	ENFERMEDAD 2319 2337	lesiones tumorales
+T7	ENFERMEDAD 400 421	glioblastoma cerebral
+T8	ENFERMEDAD 499 565	proceso expansivo intraaxial córtico-subcortical frontal izquierdo
+T9	ENFERMEDAD 1735 1747	glioblastoma
+T10	ENFERMEDAD 669 743	glioma de alto grado, localizado en región hemisférico premotora izquierda
+T11	ENFERMEDAD 1029 1045	restos tumorales
+T12	ENFERMEDAD 865 870	tumor
+T13	ENFERMEDAD 1486 1491	tumor
+T14	ENFERMEDAD 1686 1691	tumor
+T15	PROCEDIMIENTO 807 836	craneotomía frontal izquierda
+T16	PROCEDIMIENTO 79 92	histerectomía
+T17	PROCEDIMIENTO 2027 2030	TAC
+T18	PROCEDIMIENTO 1361 1363	RM
+T19	PROCEDIMIENTO 955 957	TC
+T20	PROCEDIMIENTO 2230 2263	tratamiento conservador paliativo
+T21	PROCEDIMIENTO 290 308	exploración física
 T22	PROCEDIMIENTO 1074 1123	tratamiento coadyuvante con radio y quimioterapia
-T23	PROCEDIMIENTO 1335 1342	cirugía
-T24	PROCEDIMIENTO 1361 1363	RM
-T25	PROCEDIMIENTO 1552 1570	lesión intervenida
-T26	PROCEDIMIENTO 1614 1621	cirugía
-T27	PROCEDIMIENTO 1631 1691	craneotomía frontal derecha con resección completa del tumor
-T28	PROCEDIMIENTO 1755 1757	TC
-T29	PROCEDIMIENTO 1875 1899	radioterapia coadyuvante
-T30	PROCEDIMIENTO 1928 1941	quimioterapia
-T31	PROCEDIMIENTO 2010 2017	cirugía
-T32	PROCEDIMIENTO 2027 2030	TAC
-T33	PROCEDIMIENTO 2230 2263	tratamiento conservador paliativo
-T34	PROCEDIMIENTO 2280 2298	estudios de imagen
-T35	PROCEDIMIENTO 2390 2397	cirugía
-T36	PROCEDIMIENTO 290 308	exploración física
-T37	PROCEDIMIENTO 429 466	tomografía computarizada (TC) craneal
-T38	PROCEDIMIENTO 594 614	resonancia magnética
-T39	PROCEDIMIENTO 616 618	RM
-T40	PROCEDIMIENTO 771 793	tratamiento quirúrgico
-T41	PROCEDIMIENTO 79 92	histerectomía
-T42	PROCEDIMIENTO 807 836	craneotomía frontal izquierda
-T43	PROCEDIMIENTO 877 896	informe histológico
-T44	PROCEDIMIENTO 955 957	TC
+T23	PROCEDIMIENTO 1631 1691	craneotomía frontal derecha con resección completa del tumor
+T24	PROCEDIMIENTO 429 466	tomografía computarizada (TC) craneal
+T25	PROCEDIMIENTO 1755 1757	TC
+T26	PROCEDIMIENTO 594 614	resonancia magnética
+T27	PROCEDIMIENTO 616 618	RM
+T28	PROCEDIMIENTO 1875 1899	radioterapia coadyuvante
+T29	PROCEDIMIENTO 1928 1941	quimioterapia
+T30	PROCEDIMIENTO 771 793	tratamiento quirúrgico
+T31	PROCEDIMIENTO 877 896	informe histológico
+T32	PROCEDIMIENTO 1552 1570	lesión intervenida
+T33	PROCEDIMIENTO 1335 1342	cirugía
+T34	PROCEDIMIENTO 1614 1621	cirugía
+T35	PROCEDIMIENTO 2010 2017	cirugía
+T36	PROCEDIMIENTO 2390 2397	cirugía
+T37	PROCEDIMIENTO 2280 2298	estudios de imagen
+T38	SINTOMA 117 147	pérdida de memoria de fijación
+T39	SINTOMA 2351 2358	fallece
+T40	SINTOMA 263 284	focalidad neurológica
+T41	SINTOMA 1273 1285	asintomática
+T42	SINTOMA 1965 1977	asintomática
+T43	SINTOMA 2056 2103	nódulo de pequeño tamaño temporal basal derecho
+T44	SINTOMA 499 565	proceso expansivo intraaxial córtico-subcortical frontal izquierdo

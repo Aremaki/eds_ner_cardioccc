@@ -1,21 +1,22 @@
-T1	SINTOMA 117 136	ataxia de la marcha
-T2	SINTOMA 479 513	deterioro del nivel de consciencia
-T3	SINTOMA 672 686	efecto de masa
-T4	SINTOMA 138 165	incontinencia de esfínteres
-T5	SINTOMA 168 201	trastorno de funciones superiores
-T6	SINTOMA 423 431	cefaleas
-T7	SINTOMA 434 441	vómitos
-T8	ENFERMEDAD 50 71	hipertensión arterial
-T9	ENFERMEDAD 241 275	dilatación del sistema ventricular
-T10	ENFERMEDAD 313 316	HCA
-T11	ENFERMEDAD 585 631	hematoma en el hemisferio cerebeloso izquierdo
-T12	ENFERMEDAD 138 165	incontinencia de esfínteres
-T13	ENFERMEDAD 168 201	trastorno de funciones superiores
-T14	PROCEDIMIENTO 1056 1073	colocación de DLE
-T15	PROCEDIMIENTO 207 230	estudios de neuroimagen
-T16	PROCEDIMIENTO 335 355	colocación de un DLE
-T17	PROCEDIMIENTO 530 557	drenaje había 510 ml de LCR
-T18	PROCEDIMIENTO 563 573	TC craneal
-T19	PROCEDIMIENTO 760 776	retirada del DLE
-T20	PROCEDIMIENTO 810 821	RM cerebral
-T21	PROCEDIMIENTO 986 1022	se le implantó válvula de derivación
+T1	ENFERMEDAD 50 71	hipertensión arterial
+T2	ENFERMEDAD 241 275	dilatación del sistema ventricular
+T3	ENFERMEDAD 313 316	HCA
+T4	ENFERMEDAD 585 631	hematoma en el hemisferio cerebeloso izquierdo
+T5	ENFERMEDAD 138 165	incontinencia de esfínteres
+T6	ENFERMEDAD 168 201	trastorno de funciones superiores
+T7	PROCEDIMIENTO 986 1022	se le implantó válvula de derivación
+T8	PROCEDIMIENTO 1056 1073	colocación de DLE
+T9	PROCEDIMIENTO 207 230	estudios de neuroimagen
+T10	PROCEDIMIENTO 335 355	colocación de un DLE
+T11	PROCEDIMIENTO 530 557	drenaje había 510 ml de LCR
+T12	PROCEDIMIENTO 563 573	TC craneal
+T13	PROCEDIMIENTO 760 776	retirada del DLE
+T14	PROCEDIMIENTO 810 821	RM cerebral
+T15	SINTOMA 117 136	ataxia de la marcha
+T16	SINTOMA 138 165	incontinencia de esfínteres
+T17	SINTOMA 168 201	trastorno de funciones superiores
+T18	SINTOMA 423 431	cefaleas
+T19	SINTOMA 434 441	vómitos
+T20	SINTOMA 479 513	deterioro del nivel de consciencia
+T21	SINTOMA 672 686	efecto de masa
+T22	SINTOMA 457 469	ortostatismo

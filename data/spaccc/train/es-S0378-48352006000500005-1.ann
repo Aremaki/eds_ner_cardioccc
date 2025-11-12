@@ -1,8 +1,35 @@
-T1	SINTOMA 210 218	anorexia
-T2	SINTOMA 200 207	astenia
-T3	SINTOMA 530 563	dolor al roce y a la movilización
-T4	SINTOMA 1006 1048	engrosamiento de la unión esófago-gástrica
-T5	SINTOMA 1808 1816	falleció
-T6	SINTOMA 1770 1776	febril
-T7	SINTOMA 1758 1769	neutropenia
-T8	SINTOMA 247 262	pérdida de peso
+T1	ENFERMEDAD 73 122	lesión nodular a nivel del cuadrante dorso-lumbar
+T2	ENFERMEDAD 738 760	elevación de diafragma
+T3	ENFERMEDAD 777 795	elongación aórtica
+T4	ENFERMEDAD 853 923	piel con diagnostico anatomopatológico de metástasis de adenocarcinoma
+T5	ENFERMEDAD 371 384	hepatomegalia
+T6	ENFERMEDAD 394 445	dorso-lumbar derecho se observaba la lesión nodular
+T7	ENFERMEDAD 1006 1048	engrosamiento de la unión esófago-gástrica
+T8	ENFERMEDAD 1054 1086	adenopatías gástricas izquierdas
+T9	ENFERMEDAD 1117 1135	lesiones hepáticas
+T10	ENFERMEDAD 1211 1231	neoplasia de cardias
+T11	ENFERMEDAD 1264 1278	adenocarcinoma
+T12	ENFERMEDAD 1303 1338	adenocarcinoma gástrico metastático
+T13	ENFERMEDAD 1569 1574	tumor
+T14	ENFERMEDAD 1655 1681	tumores del tubo digestivo
+T15	ENFERMEDAD 1720 1742	toxicidad hematológica
+T16	ENFERMEDAD 1758 1776	neutropenia febril
+T17	ENFERMEDAD 1792 1805	shock séptico
+T18	ENFERMEDAD 1150 1160	metástasis
+T19	ENFERMEDAD 1189 1195	lesión
+T20	PROCEDIMIENTO 698 718	radiografía de tórax
+T21	PROCEDIMIENTO 829 857	biopsia de la lesión en piel
+T22	PROCEDIMIENTO 318 336	exploración física
+T23	PROCEDIMIENTO 961 988	TAC toraco-abdomino-pélvica
+T24	PROCEDIMIENTO 1165 1177	gastroscopia
+T25	PROCEDIMIENTO 1236 1243	biopsia
+T26	PROCEDIMIENTO 1359 1385	tratamiento quimioterápico
+T27	SINTOMA 200 207	astenia
+T28	SINTOMA 210 218	anorexia
+T29	SINTOMA 247 262	pérdida de peso
+T30	SINTOMA 530 563	dolor al roce y a la movilización
+T31	SINTOMA 1808 1816	falleció
+T32	SINTOMA 738 795	elevación de diafragma izquierdo y una elongación aórtica
+T33	SINTOMA 1006 1048	engrosamiento de la unión esófago-gástrica
+T34	SINTOMA 1758 1769	neutropenia
+T35	SINTOMA 1770 1776	febril

@@ -1,40 +1,59 @@
-T1	SINTOMA 75 91	asimetría facial
-T2	SINTOMA 1158 1170	asintomática
-T3	SINTOMA 293 336	aumento de volumen en región infraorbitaria
-T4	SINTOMA 2990 3013	aumento de volumen óseo
-T5	SINTOMA 2396 2407	crepitación
-T6	SINTOMA 1125 1136	crepitantes
-T7	SINTOMA 462 494	deformación de la pirámide nasal
-T8	SINTOMA 616 657	deformación del tabique intersinuso nasal
-T9	SINTOMA 398 449	dificultándole la mirada hacia abajo y a la derecha
-T10	SINTOMA 93 98	dolor
-T11	SINTOMA 583 607	elevación del piso nasal
-T12	SINTOMA 3040 3062	estructura ósea normal
-T13	SINTOMA 1919 1955	Expandía y adelgazaba las corticales
-T14	SINTOMA 2744 2754	hueso sano
-T15	SINTOMA 946 950	masa
-T16	SINTOMA 1653 1689	masa radiolúcida con trabeculaciones
-T17	SINTOMA 1231 1268	masa radiolúcida homogénea unilocular
-T18	SINTOMA 984 1009	mucosa sana y eritematosa
-T19	SINTOMA 515 567	narina izquierda por disminución de la permeabilidad
-T20	SINTOMA 843 871	oclusión estable y repetible
-T21	SINTOMA 101 148	sensación de crepitación a nivel infraorbitario
-T22	SINTOMA 175 226	tumoración de crecimiento progresivo de hemimaxilar
-T23	PROCEDIMIENTO 1087 1096	palpación
-T24	PROCEDIMIENTO 1202 1219	ortopantomografía
-T25	PROCEDIMIENTO 1599 1636	TC, en los cortes axiales y coronales
-T26	PROCEDIMIENTO 2092 2106	infiltraciones
-T27	PROCEDIMIENTO 2335 2340	parto
-T28	PROCEDIMIENTO 2412 2425	examen físico
-T29	PROCEDIMIENTO 2480 2489	palpación
-T30	PROCEDIMIENTO 2537 2574	TC, en los cortes axiales y coronales
-T31	PROCEDIMIENTO 2636 2647	tomografías
-T32	PROCEDIMIENTO 265 278	examen facial
-T33	PROCEDIMIENTO 2851 2926	enucleación quirúrgica. Bajo anestesia general y mediante un abordaje bucal
-T34	PROCEDIMIENTO 2880 2897	anestesia general
-T35	PROCEDIMIENTO 3079 3126	remodelación quirúrgica de la lesión con fresas
-T36	PROCEDIMIENTO 3142 3203	remodelar el reborde infraorbitario y la escotadura piriforme
-T37	PROCEDIMIENTO 3240 3252	radiográfico
-T38	PROCEDIMIENTO 3349 3395	tratamiento de conductos de las piezas 22 y 23
-T39	PROCEDIMIENTO 3541 3564	remodelación quirúrgica
-T40	PROCEDIMIENTO 818 830	examen bucal
+T1	ENFERMEDAD 873 891	caries en pieza 24
+T2	ENFERMEDAD 497 521	obstrucción de la narina
+T3	ENFERMEDAD 2066 2069	LCG
+T4	ENFERMEDAD 741 747	lesión
+T5	ENFERMEDAD 1101 1107	lesión
+T6	ENFERMEDAD 1357 1393	lesión en posición glóbulo maxilar20
+T7	ENFERMEDAD 2466 2472	lesión
+T8	ENFERMEDAD 2498 2504	lesión
+T9	ENFERMEDAD 2622 2628	lesión
+T10	ENFERMEDAD 2943 2949	lesión
+T11	ENFERMEDAD 3109 3115	lesión
+T12	ENFERMEDAD 3301 3307	lesión
+T13	ENFERMEDAD 75 91	asimetría facial
+T14	ENFERMEDAD 462 494	deformación de la pirámide nasal
+T15	ENFERMEDAD 583 607	elevación del piso nasal
+T16	ENFERMEDAD 616 657	deformación del tabique intersinuso nasal
+T17	ENFERMEDAD 1424 1454	piezas 22 y 23 y con rizólisis
+T18	PROCEDIMIENTO 818 830	examen bucal
+T19	PROCEDIMIENTO 1202 1219	ortopantomografía
+T20	PROCEDIMIENTO 1599 1636	TC, en los cortes axiales y coronales
+T21	PROCEDIMIENTO 2537 2574	TC, en los cortes axiales y coronales
+T22	PROCEDIMIENTO 2412 2425	examen físico
+T23	PROCEDIMIENTO 2880 2897	anestesia general
+T24	PROCEDIMIENTO 265 278	examen facial
+T25	PROCEDIMIENTO 3142 3203	remodelar el reborde infraorbitario y la escotadura piriforme
+T26	PROCEDIMIENTO 2851 2926	enucleación quirúrgica. Bajo anestesia general y mediante un abordaje bucal
+T27	PROCEDIMIENTO 2636 2647	tomografías
+T28	PROCEDIMIENTO 3079 3126	remodelación quirúrgica de la lesión con fresas
+T29	PROCEDIMIENTO 3349 3395	tratamiento de conductos de las piezas 22 y 23
+T30	PROCEDIMIENTO 1087 1096	palpación
+T31	PROCEDIMIENTO 2480 2489	palpación
+T32	PROCEDIMIENTO 3541 3564	remodelación quirúrgica
+T33	PROCEDIMIENTO 2092 2106	infiltraciones
+T34	PROCEDIMIENTO 2335 2340	parto
+T35	PROCEDIMIENTO 3240 3252	radiográfico
+T36	SINTOMA 75 91	asimetría facial
+T37	SINTOMA 101 148	sensación de crepitación a nivel infraorbitario
+T38	SINTOMA 175 226	tumoración de crecimiento progresivo de hemimaxilar
+T39	SINTOMA 293 336	aumento de volumen en región infraorbitaria
+T40	SINTOMA 462 494	deformación de la pirámide nasal
+T41	SINTOMA 616 657	deformación del tabique intersinuso nasal
+T42	SINTOMA 93 98	dolor
+T43	SINTOMA 1158 1170	asintomática
+T44	SINTOMA 2396 2407	crepitación
+T45	SINTOMA 1653 1689	masa radiolúcida con trabeculaciones
+T46	SINTOMA 1781 1797	elevando el piso
+T47	SINTOMA 1919 1955	Expandía y adelgazaba las corticales
+T48	SINTOMA 2990 3013	aumento de volumen óseo
+T49	SINTOMA 3040 3062	estructura ósea normal
+T50	SINTOMA 583 607	elevación del piso nasal
+T51	SINTOMA 843 871	oclusión estable y repetible
+T52	SINTOMA 1125 1136	crepitantes
+T53	SINTOMA 1231 1268	masa radiolúcida homogénea unilocular
+T54	SINTOMA 398 449	dificultándole la mirada hacia abajo y a la derecha
+T55	SINTOMA 515 567	narina izquierda por disminución de la permeabilidad
+T56	SINTOMA 765 791	corrimiento nasal anterior
+T57	SINTOMA 946 950	masa
+T58	SINTOMA 984 1009	mucosa sana y eritematosa
+T59	SINTOMA 2744 2754	hueso sano

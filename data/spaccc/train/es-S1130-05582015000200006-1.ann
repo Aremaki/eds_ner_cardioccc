@@ -1,7 +1,16 @@
-T1	SINTOMA 200 227	dificultad para alimentarse
-T2	SINTOMA 1372 1403	disminución de la abertura oral
-T3	SINTOMA 63 93	limitación de la abertura oral
-T4	SINTOMA 364 386	reducida abertura oral
-T5	SINTOMA 172 184	asintomático
-T6	ENFERMEDAD 258 284	focos cariosos intraorales
-T7	ENFERMEDAD 963 966	HPC
+T1	ENFERMEDAD 258 284	focos cariosos intraorales
+T2	ENFERMEDAD 963 966	HPC
+T3	PROCEDIMIENTO 1181 1229	terapias físicas con ejercicios de abertura oral
+T4	PROCEDIMIENTO 770 792	radiografía panorámica
+T5	PROCEDIMIENTO 795 819	tomografía computarizada
+T6	PROCEDIMIENTO 990 1050	coronoidectomía bilateral por medio de un abordaje intraoral
+T7	PROCEDIMIENTO 504 520	terapias físicas
+T8	PROCEDIMIENTO 523 546	ejercicios mandibulares
+T9	PROCEDIMIENTO 639 650	exploración
+T10	PROCEDIMIENTO 1232 1254	apoyo con abatelenguas
+T11	PROCEDIMIENTO 1464 1532	uso de aparatología ortopédica funcional, con el uso del Spring-Bite
+T12	SINTOMA 63 93	limitación de la abertura oral
+T13	SINTOMA 200 227	dificultad para alimentarse
+T14	SINTOMA 364 386	reducida abertura oral
+T15	SINTOMA 172 184	asintomático
+T16	SINTOMA 1372 1403	disminución de la abertura oral

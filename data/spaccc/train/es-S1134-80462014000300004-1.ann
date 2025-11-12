@@ -1,6 +1,15 @@
-T1	SINTOMA 376 381	dolor
-T2	SINTOMA 647 652	dolor
-T3	SINTOMA 1067 1078	parestesias
-T4	SINTOMA 1174 1179	dolor
-T5	ENFERMEDAD 60 79	esguince de tobillo
-T6	ENFERMEDAD 148 169	SDRC de tobillo y pie
+T1	ENFERMEDAD 60 79	esguince de tobillo
+T2	ENFERMEDAD 148 169	SDRC de tobillo y pie
+T3	PROCEDIMIENTO 482 499	anestesia general
+T4	PROCEDIMIENTO 217 242	tratamiento farmacológico
+T5	PROCEDIMIENTO 582 597	anestesia local
+T6	PROCEDIMIENTO 711 726	anestesia local
+T7	PROCEDIMIENTO 869 963	electrodo octopolar en cordones medulares posteriores para estimulación de la pierna izquierda
+T8	PROCEDIMIENTO 844 861	anestesia general
+T9	PROCEDIMIENTO 1242 1308	implantación de un generador de impulsos implantable y programable
+T10	PROCEDIMIENTO 1389 1409	estimulación medular
+T11	PROCEDIMIENTO 504 527	catéter epidural lumbar
+T12	SINTOMA 376 381	dolor
+T13	SINTOMA 647 652	dolor
+T14	SINTOMA 1067 1078	parestesias
+T15	SINTOMA 1174 1179	dolor

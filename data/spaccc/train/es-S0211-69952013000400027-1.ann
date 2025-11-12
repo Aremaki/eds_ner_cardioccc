@@ -1,14 +1,31 @@
-T1	SINTOMA 169 176	cefalea
-T2	SINTOMA 1183 1225	defecto de repleción intracava infrarrenal
-T3	SINTOMA 196 208	dolor lumbar
-T4	SINTOMA 445 495	elevación de catecolaminas y metanefrinas en orina
-T5	SINTOMA 140 167	enrojecimiento generalizado
-T6	SINTOMA 342 364	eritema malar y palmar
-T7	SINTOMA 905 925	masa retroperitoneal
-T8	SINTOMA 691 779	masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
-T9	SINTOMA 120 138	sudoración profusa
-T10	SINTOMA 1442 1452	tumoración
-T11	ENFERMEDAD 60 80	crisis hipertensivas
-T12	ENFERMEDAD 1268 1307	paraganglioma del órgano de Zuckerkandl
-T13	ENFERMEDAD 1761 1774	paraganglioma
-T14	ENFERMEDAD 1524 1539	tumor intracava
+T1	ENFERMEDAD 60 80	crisis hipertensivas
+T2	ENFERMEDAD 1268 1307	paraganglioma del órgano de Zuckerkandl
+T3	ENFERMEDAD 1761 1774	paraganglioma
+T4	ENFERMEDAD 1524 1539	tumor intracava
+T5	PROCEDIMIENTO 312 330	exploración física
+T6	PROCEDIMIENTO 389 402	digitopresión
+T7	PROCEDIMIENTO 657 676	ecografía abdominal
+T8	PROCEDIMIENTO 811 864	tomografía axial computarizada (TAC) abdómino-pélvica
+T9	PROCEDIMIENTO 1127 1137	cavografía
+T10	PROCEDIMIENTO 1637 1702	determinaciones en plasma y orina de catecolaminas y metanefrinas
+T11	PROCEDIMIENTO 1899 1924	gammagrafía con 123I-MIBG
+T12	PROCEDIMIENTO 2029 2065	tratamiento quimioterápico adyuvante
+T13	PROCEDIMIENTO 1512 1539	extirpar el tumor intracava
+T14	PROCEDIMIENTO 1323 1353	bloqueo beta y alfaadrenérgico
+T15	PROCEDIMIENTO 458 507	catecolaminas y metanefrinas en orina de 24 horas
+T16	PROCEDIMIENTO 1416 1452	resección en bloque de la tumoración
+T17	PROCEDIMIENTO 1111 1114	TAC
+T18	PROCEDIMIENTO 1454 1539	se seccionó parcialmente la cara anterior de la cava para extirpar el tumor intracava
+T19	PROCEDIMIENTO 1707 1736	diagnóstico anatomopatológico
+T20	PROCEDIMIENTO 1375 1398	intervención quirúrgica
+T21	PROCEDIMIENTO 843 846	TAC
+T22	SINTOMA 120 138	sudoración profusa
+T23	SINTOMA 140 167	enrojecimiento generalizado
+T24	SINTOMA 169 176	cefalea
+T25	SINTOMA 196 208	dolor lumbar
+T26	SINTOMA 342 364	eritema malar y palmar
+T27	SINTOMA 445 495	elevación de catecolaminas y metanefrinas en orina
+T28	SINTOMA 905 925	masa retroperitoneal
+T29	SINTOMA 1442 1452	tumoración
+T30	SINTOMA 1183 1225	defecto de repleción intracava infrarrenal
+T31	SINTOMA 691 779	masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización

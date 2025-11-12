@@ -1,29 +1,29 @@
-T1	SINTOMA 523 528	masas
-T2	SINTOMA 532 540	megalias
-T3	SINTOMA 425 473	dolor a la palpación abdominal en flanco derecho
-T4	SINTOMA 586 658	íleon terminal con paredes engrosadas y signos de proliferación vascular
-T5	SINTOMA 148 175	masa en crura diafragmática
-T6	SINTOMA 1199 1302	masa que se encontraba íntimamente adherida a glándula suprarrenal, polo superior del riñón y diafragma
-T7	SINTOMA 1048 1081	negatividad para células malignas
-T8	ENFERMEDAD 1545 1564	quiste broncogénico
-T9	ENFERMEDAD 1695 1713	formación quística
-T10	ENFERMEDAD 217 220	EII
-T11	ENFERMEDAD 260 285	asma bronquial extrínseca
-T12	ENFERMEDAD 287 315	púrpura de Schonleich-Henoch
-T13	ENFERMEDAD 332 357	enfermedad de Crohn ileal
-T14	ENFERMEDAD 382 389	fumador
-T15	ENFERMEDAD 504 507	EII
-T16	ENFERMEDAD 675 694	enfermedad de Crohn
-T17	ENFERMEDAD 706 712	lesión
-T18	PROCEDIMIENTO 1095 1179	laparotomía media y acceso a la cavidad retroperitoneal infradiafragmática izquierda
-T19	PROCEDIMIENTO 1184 1265	extirpación de masa que se encontraba íntimamente adherida a glándula suprarrenal
-T20	PROCEDIMIENTO 1293 1361	diafragma izquierdo con exéresis de parte del mismo y sutura directa
-T21	PROCEDIMIENTO 1509 1526	anatomopatológico
-T22	PROCEDIMIENTO 1652 1676	descripción microscópica
-T23	PROCEDIMIENTO 397 415	exploración física
-T24	PROCEDIMIENTO 436 455	palpación abdominal
-T25	PROCEDIMIENTO 545 569	tomografía computerizada
-T26	PROCEDIMIENTO 571 573	TC
-T27	PROCEDIMIENTO 815 893	crura diafragmática izquierda. Se realizó una punción percutánea guiada por TC
-T28	PROCEDIMIENTO 899 926	resultado anatomopatológico
-T29	PROCEDIMIENTO 92 108	prueba de imagen
+T1	ENFERMEDAD 1545 1564	quiste broncogénico
+T2	ENFERMEDAD 1695 1713	formación quística
+T3	ENFERMEDAD 217 220	EII
+T4	ENFERMEDAD 260 285	asma bronquial extrínseca
+T5	ENFERMEDAD 287 315	púrpura de Schonleich-Henoch
+T6	ENFERMEDAD 332 357	enfermedad de Crohn ileal
+T7	ENFERMEDAD 382 389	fumador
+T8	ENFERMEDAD 504 507	EII
+T9	ENFERMEDAD 675 694	enfermedad de Crohn
+T10	ENFERMEDAD 706 712	lesión
+T11	PROCEDIMIENTO 1095 1179	laparotomía media y acceso a la cavidad retroperitoneal infradiafragmática izquierda
+T12	PROCEDIMIENTO 1184 1265	extirpación de masa que se encontraba íntimamente adherida a glándula suprarrenal
+T13	PROCEDIMIENTO 397 415	exploración física
+T14	PROCEDIMIENTO 545 569	tomografía computerizada
+T15	PROCEDIMIENTO 571 573	TC
+T16	PROCEDIMIENTO 815 893	crura diafragmática izquierda. Se realizó una punción percutánea guiada por TC
+T17	PROCEDIMIENTO 1293 1361	diafragma izquierdo con exéresis de parte del mismo y sutura directa
+T18	PROCEDIMIENTO 1509 1526	anatomopatológico
+T19	PROCEDIMIENTO 1652 1676	descripción microscópica
+T20	PROCEDIMIENTO 899 926	resultado anatomopatológico
+T21	PROCEDIMIENTO 92 108	prueba de imagen
+T22	PROCEDIMIENTO 436 455	palpación abdominal
+T23	SINTOMA 148 175	masa en crura diafragmática
+T24	SINTOMA 425 473	dolor a la palpación abdominal en flanco derecho
+T25	SINTOMA 586 658	íleon terminal con paredes engrosadas y signos de proliferación vascular
+T26	SINTOMA 523 528	masas
+T27	SINTOMA 532 540	megalias
+T28	SINTOMA 1048 1081	negatividad para células malignas
+T29	SINTOMA 1199 1302	masa que se encontraba íntimamente adherida a glándula suprarrenal, polo superior del riñón y diafragma

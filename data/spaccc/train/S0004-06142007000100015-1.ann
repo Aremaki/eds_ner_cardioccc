@@ -1,31 +1,53 @@
-T1	SINTOMA 519 554	bioquímica sanguínea que fue normal
-T2	SINTOMA 3306 3335	cistoscopia de control normal
-T3	SINTOMA 1395 1437	ecografía urológica que también fue normal
-T4	SINTOMA 2027 2065	estudios negativos para bacilo de Koch
-T5	SINTOMA 253 274	urgencias miccionales
-T6	SINTOMA 630 675	urocultivo que fue de nuevo positivo a E.coli
-T7	SINTOMA 3338 3359	urocultivos negativos
-T8	SINTOMA 424 455	urocultivos positivos a E. coli
-T9	SINTOMA 1766 1800	urografía fue rigurosamente normal
-T10	SINTOMA 3289 3301	asintomática
-T11	SINTOMA 218 225	disuria
-T12	SINTOMA 1010 1017	disuria
-T13	SINTOMA 616 628	leucocituria
-T14	SINTOMA 228 239	polaquiuria
-T15	SINTOMA 1020 1031	polaquiuria
-T16	SINTOMA 152 181	síndrome miccional irritativo
-T17	SINTOMA 296 320	sintomatología urológica
-T18	SINTOMA 105 118	estreñimiento
-T19	SINTOMA 1600 1605	edema
-T20	ENFERMEDAD 65 86	hipertensión arterial
-T21	ENFERMEDAD 88 103	hernia de hiato
-T22	ENFERMEDAD 105 118	estreñimiento
-T23	ENFERMEDAD 385 419	infección del tracto urinario bajo
-T24	ENFERMEDAD 1172 1190	infección urinaria
-T25	ENFERMEDAD 1313 1357	tumor urotelial del tracto urinario superior
-T26	ENFERMEDAD 1757 1760	TBC
-T27	ENFERMEDAD 1943 1979	lesiones vesicales macroscópicamente
-T28	ENFERMEDAD 2000 2012	tuberculomas
-T29	ENFERMEDAD 1495 1513	lesiones nodulares
-T30	ENFERMEDAD 2118 2126	lesiones
-T31	ENFERMEDAD 2189 2212	ulceración de la mucosa
+T1	ENFERMEDAD 65 86	hipertensión arterial
+T2	ENFERMEDAD 88 103	hernia de hiato
+T3	ENFERMEDAD 105 118	estreñimiento
+T4	ENFERMEDAD 385 419	infección del tracto urinario bajo
+T5	ENFERMEDAD 1172 1190	infección urinaria
+T6	ENFERMEDAD 1313 1357	tumor urotelial del tracto urinario superior
+T7	ENFERMEDAD 1757 1760	TBC
+T8	ENFERMEDAD 1943 1979	lesiones vesicales macroscópicamente
+T9	ENFERMEDAD 2000 2012	tuberculomas
+T10	ENFERMEDAD 1495 1513	lesiones nodulares
+T11	ENFERMEDAD 2118 2126	lesiones
+T12	ENFERMEDAD 2189 2212	ulceración de la mucosa
+T13	PROCEDIMIENTO 1813 1834	baciloscopia en orina
+T14	PROCEDIMIENTO 519 539	bioquímica sanguínea
+T15	PROCEDIMIENTO 1461 1472	cistoscopia
+T16	PROCEDIMIENTO 3306 3317	cistoscopia
+T17	PROCEDIMIENTO 682 723	citología urinaria por micción espontánea
+T18	PROCEDIMIENTO 1837 1930	cultivo Lowenstein-Jensen de 6 muestras de la primera orina de la mañana en días consecutivos
+T19	PROCEDIMIENTO 1395 1414	ecografía urológica
+T20	PROCEDIMIENTO 2156 2181	estudio anatomopatológico
+T21	PROCEDIMIENTO 121 134	histerectomía
+T22	PROCEDIMIENTO 2701 2729	medidas higiénico-dietéticas
+T23	PROCEDIMIENTO 2732 2754	profilaxis antibiótica
+T24	PROCEDIMIENTO 2089 2151	resección endoscópica de las lesiones descritas bajo anestesia
+T25	PROCEDIMIENTO 575 593	sedimento de orina
+T26	PROCEDIMIENTO 630 640	urocultivo
+T27	PROCEDIMIENTO 424 435	urocultivos
+T28	PROCEDIMIENTO 3338 3349	urocultivos
+T29	PROCEDIMIENTO 1276 1297	urografía intravenosa
+T30	PROCEDIMIENTO 861 875	antibioteparia
+T31	PROCEDIMIENTO 878 893	anticolinérgico
+T32	PROCEDIMIENTO 1089 1104	anticolinérgico
+T33	PROCEDIMIENTO 1766 1775	urografía
+T34	PROCEDIMIENTO 2027 2065	estudios negativos para bacilo de Koch
+T35	SINTOMA 3289 3301	asintomática
+T36	SINTOMA 218 225	disuria
+T37	SINTOMA 1010 1017	disuria
+T38	SINTOMA 616 628	leucocituria
+T39	SINTOMA 228 239	polaquiuria
+T40	SINTOMA 1020 1031	polaquiuria
+T41	SINTOMA 152 181	síndrome miccional irritativo
+T42	SINTOMA 3338 3359	urocultivos negativos
+T43	SINTOMA 424 455	urocultivos positivos a E. coli
+T44	SINTOMA 630 675	urocultivo que fue de nuevo positivo a E.coli
+T45	SINTOMA 253 274	urgencias miccionales
+T46	SINTOMA 296 320	sintomatología urológica
+T47	SINTOMA 519 554	bioquímica sanguínea que fue normal
+T48	SINTOMA 1395 1437	ecografía urológica que también fue normal
+T49	SINTOMA 1766 1800	urografía fue rigurosamente normal
+T50	SINTOMA 2027 2065	estudios negativos para bacilo de Koch
+T51	SINTOMA 3306 3335	cistoscopia de control normal
+T52	SINTOMA 105 118	estreñimiento
+T53	SINTOMA 1600 1605	edema

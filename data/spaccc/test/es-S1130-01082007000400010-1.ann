@@ -1,70 +1,71 @@
-T1	SINTOMA 392 411	buen estado general
-T2	SINTOMA 413 420	afebril
-T3	SINTOMA 138 145	diarrea
-T4	SINTOMA 177 200	síndrome constitucional
-T5	SINTOMA 203 216	epigastralgia
-T6	SINTOMA 319 328	ictericia
-T7	SINTOMA 330 337	coluria
-T8	SINTOMA 340 346	acolia
-T9	SINTOMA 3293 3300	náuseas
-T10	SINTOMA 3303 3310	vómitos
-T11	SINTOMA 3520 3548	deterioro del estado general
-T12	SINTOMA 731 743	leucocitosis
-T13	SINTOMA 3551 3559	falleció
-T14	SINTOMA 572 583	peritonismo
-T15	SINTOMA 1432 1441	ictericia
-T16	SINTOMA 843 874	aFP y el CA19.9 fueron normales
-T17	SINTOMA 684 699	aumento de FFAA
-T18	SINTOMA 3251 3291	dolor persistente en hipocondrio derecho
-T19	SINTOMA 809 826	elevación del CEA
-T20	SINTOMA 164 175	esteatorrea
-T21	SINTOMA 3325 3364	exploraciones radiológicas son anodinas
-T22	SINTOMA 1362 1408	gastroscopia, siendo esta rigurosamente normal
-T23	SINTOMA 647 666	hiperbilirrubinemia
-T24	SINTOMA 443 467	ictericia cutáneo-mucosa
-T25	SINTOMA 749 794	marcadores de hepatitis vírica eran negativos
-T26	SINTOMA 1554 1580	masa en cabeza de páncreas
-T27	SINTOMA 1040 1088	masa redondeada hipoecoica en cabeza de páncreas
-T28	SINTOMA 2658 2675	negativo para CEA
-T29	SINTOMA 422 436	normohidratado
-T30	SINTOMA 2762 2782	positivo para el CEA
-T31	SINTOMA 1975 1994	tumoración duodenal
-T32	SINTOMA 2200 2222	tumoración pancreática
-T33	SINTOMA 977 1006	vesícula biliar era hidrópica
-T34	SINTOMA 511 541	vesícula biliar, con molestias
-T35	ENFERMEDAD 48 84	diabetes mellitus insulindependiente
-T36	ENFERMEDAD 86 96	dislipemia
-T37	ENFERMEDAD 99 114	cólicos renales
-T38	ENFERMEDAD 164 175	esteatorrea
-T39	ENFERMEDAD 2639 2653	tumor duodenal
-T40	ENFERMEDAD 2726 2752	adenocarcinoma pancreático
-T41	ENFERMEDAD 2290 2314	infiltrar pared duodenal
-T42	ENFERMEDAD 763 779	hepatitis vírica
-T43	ENFERMEDAD 977 1006	vesícula biliar era hidrópica
-T44	ENFERMEDAD 3445 3464	recidiva neoplásica
-T45	ENFERMEDAD 1189 1223	dilatación del conducto de Wirsung
-T46	ENFERMEDAD 1238 1249	adenopatías
-T47	ENFERMEDAD 1325 1333	ampuloma
-T48	ENFERMEDAD 1432 1453	ictericia obstructiva
-T49	ENFERMEDAD 1013 1021	litiasis
-T50	ENFERMEDAD 2499 2506	tumores
-T51	ENFERMEDAD 2618 2625	tumores
-T52	ENFERMEDAD 647 666	hiperbilirrubinemia
-T53	PROCEDIMIENTO 1139 1142	TAC
-T54	PROCEDIMIENTO 1254 1273	colangiorresonancia
-T55	PROCEDIMIENTO 1362 1374	gastroscopia
-T56	PROCEDIMIENTO 1626 1683	duodenopancreatectomía cefálica con preservación pilórica
-T57	PROCEDIMIENTO 1686 1707	pancreatogastrostomía
-T58	PROCEDIMIENTO 1715 1740	estudio anatomopatológico
-T59	PROCEDIMIENTO 1951 1970	examen microscópico
-T60	PROCEDIMIENTO 2521 2549	técnicas inmunohistoquímicas
-T61	PROCEDIMIENTO 2554 2568	inmunofenotipo
-T62	PROCEDIMIENTO 2957 2969	intervención
-T63	PROCEDIMIENTO 3033 3056	quimioterapia adyuvante
-T64	PROCEDIMIENTO 3325 3351	exploraciones radiológicas
-T65	PROCEDIMIENTO 3414 3426	intervención
-T66	PROCEDIMIENTO 3591 3603	intervención
-T67	PROCEDIMIENTO 364 382	exploración física
-T68	PROCEDIMIENTO 475 496	exploración abdominal
-T69	PROCEDIMIENTO 497 526	se palpaba la vesícula biliar
-T70	PROCEDIMIENTO 879 888	ecografía
+T1	ENFERMEDAD 48 84	diabetes mellitus insulindependiente
+T2	ENFERMEDAD 86 96	dislipemia
+T3	ENFERMEDAD 99 114	cólicos renales
+T4	ENFERMEDAD 164 175	esteatorrea
+T5	ENFERMEDAD 2639 2653	tumor duodenal
+T6	ENFERMEDAD 2726 2752	adenocarcinoma pancreático
+T7	ENFERMEDAD 2290 2314	infiltrar pared duodenal
+T8	ENFERMEDAD 763 779	hepatitis vírica
+T9	ENFERMEDAD 977 1006	vesícula biliar era hidrópica
+T10	ENFERMEDAD 3445 3464	recidiva neoplásica
+T11	ENFERMEDAD 1189 1223	dilatación del conducto de Wirsung
+T12	ENFERMEDAD 1238 1249	adenopatías
+T13	ENFERMEDAD 1325 1333	ampuloma
+T14	ENFERMEDAD 1432 1453	ictericia obstructiva
+T15	ENFERMEDAD 1013 1021	litiasis
+T16	ENFERMEDAD 2499 2506	tumores
+T17	ENFERMEDAD 2618 2625	tumores
+T18	ENFERMEDAD 647 666	hiperbilirrubinemia
+T19	PROCEDIMIENTO 364 382	exploración física
+T20	PROCEDIMIENTO 1715 1740	estudio anatomopatológico
+T21	PROCEDIMIENTO 2521 2549	técnicas inmunohistoquímicas
+T22	PROCEDIMIENTO 2554 2568	inmunofenotipo
+T23	PROCEDIMIENTO 3033 3056	quimioterapia adyuvante
+T24	PROCEDIMIENTO 879 888	ecografía
+T25	PROCEDIMIENTO 1139 1142	TAC
+T26	PROCEDIMIENTO 1254 1273	colangiorresonancia
+T27	PROCEDIMIENTO 1362 1374	gastroscopia
+T28	PROCEDIMIENTO 1626 1683	duodenopancreatectomía cefálica con preservación pilórica
+T29	PROCEDIMIENTO 1686 1707	pancreatogastrostomía
+T30	PROCEDIMIENTO 1951 1970	examen microscópico
+T31	PROCEDIMIENTO 3325 3351	exploraciones radiológicas
+T32	PROCEDIMIENTO 475 496	exploración abdominal
+T33	PROCEDIMIENTO 497 526	se palpaba la vesícula biliar
+T34	PROCEDIMIENTO 2957 2969	intervención
+T35	PROCEDIMIENTO 3414 3426	intervención
+T36	PROCEDIMIENTO 3591 3603	intervención
+T37	SINTOMA 1975 1994	tumoración duodenal
+T38	SINTOMA 392 411	buen estado general
+T39	SINTOMA 413 420	afebril
+T40	SINTOMA 138 145	diarrea
+T41	SINTOMA 177 200	síndrome constitucional
+T42	SINTOMA 203 216	epigastralgia
+T43	SINTOMA 2200 2222	tumoración pancreática
+T44	SINTOMA 647 666	hiperbilirrubinemia
+T45	SINTOMA 319 328	ictericia
+T46	SINTOMA 330 337	coluria
+T47	SINTOMA 340 346	acolia
+T48	SINTOMA 3251 3291	dolor persistente en hipocondrio derecho
+T49	SINTOMA 3293 3300	náuseas
+T50	SINTOMA 3303 3310	vómitos
+T51	SINTOMA 1040 1088	masa redondeada hipoecoica en cabeza de páncreas
+T52	SINTOMA 3520 3548	deterioro del estado general
+T53	SINTOMA 1554 1580	masa en cabeza de páncreas
+T54	SINTOMA 731 743	leucocitosis
+T55	SINTOMA 422 436	normohidratado
+T56	SINTOMA 684 699	aumento de FFAA
+T57	SINTOMA 749 794	marcadores de hepatitis vírica eran negativos
+T58	SINTOMA 809 826	elevación del CEA
+T59	SINTOMA 443 467	ictericia cutáneo-mucosa
+T60	SINTOMA 511 541	vesícula biliar, con molestias
+T61	SINTOMA 843 874	aFP y el CA19.9 fueron normales
+T62	SINTOMA 1362 1408	gastroscopia, siendo esta rigurosamente normal
+T63	SINTOMA 3551 3559	falleció
+T64	SINTOMA 164 175	esteatorrea
+T65	SINTOMA 2762 2782	positivo para el CEA
+T66	SINTOMA 572 583	peritonismo
+T67	SINTOMA 977 1006	vesícula biliar era hidrópica
+T68	SINTOMA 1432 1441	ictericia
+T69	SINTOMA 2658 2675	negativo para CEA
+T70	SINTOMA 2678 2720	positivo para cromogranina, STH y glucagón
+T71	SINTOMA 3325 3364	exploraciones radiológicas son anodinas

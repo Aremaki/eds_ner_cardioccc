@@ -1,37 +1,37 @@
-T1	SINTOMA 612 640	asimetría de crestas ilíacas
-T2	SINTOMA 656 688	colon por enema opaco fue normal
-T3	SINTOMA 797 872	FSH, LH, estradiol, progesterona, testosterona, prolactina, fueron normales
-T4	SINTOMA 161 188	genitales externos normales
-T5	SINTOMA 191 232	genitales internos con ausencia de vagina
-T6	SINTOMA 358 390	TAC abdominal fue también normal
-T7	SINTOMA 697 745	tacto rectal no se detectaron genitales internos
-T8	SINTOMA 326 356	urografía excretora fue normal
-T9	ENFERMEDAD 111 129	amenorrea primaria
-T10	ENFERMEDAD 1045 1087	Síndrome de Mayer-Rokitansky-Kuster-Hauser
-T11	ENFERMEDAD 214 232	ausencia de vagina
-T12	ENFERMEDAD 275 289	útero aplásico
-T13	ENFERMEDAD 292 321	microlitiasis renal bilateral
-T14	ENFERMEDAD 428 445	útero hipoplásico
-T15	ENFERMEDAD 2867 2884	estenosis vaginal
-T16	ENFERMEDAD 584 601	escoliosis lumbar
-T17	ENFERMEDAD 612 640	asimetría de crestas ilíacas
-T18	PROCEDIMIENTO 1127 1149	reconstrucción vaginal
-T19	PROCEDIMIENTO 1163 1181	técnica de McIndoe
-T20	PROCEDIMIENTO 1235 1316	toma y aplicación de injertos cutáneos de espesor parcial de las regiones glúteas
-T21	PROCEDIMIENTO 1256 1403	injertos cutáneos de espesor parcial de las regiones glúteas, que se reticularon manualmente y se fijaron a una capa de esponjas de gel hemostático
-T22	PROCEDIMIENTO 1461 1495	injertos con las paredes vaginales
-T23	PROCEDIMIENTO 1778 1902	injertos se fijaron al conformador previamente cubierto con las esponjas de Gelfoam®, también mediante suturas reabsorbibles
-T24	PROCEDIMIENTO 1923 1979	creación del nuevo túnel vaginal mediante disección roma
-T25	PROCEDIMIENTO 2151 2177	colocación del dispositivo
-T26	PROCEDIMIENTO 2193 2270	fijado a las neoparedes vaginales con sutura no absorbible del tipo nylon 3-0
-T27	PROCEDIMIENTO 2294 2391	cura compresiva externa con compresas y una capa de adhesivo transparente y suspensorio tipo faja
-T28	PROCEDIMIENTO 237 263	ecografía abdomino-pélvica
-T29	PROCEDIMIENTO 2506 2541	Colocamos nuevamente el conformador
-T30	PROCEDIMIENTO 2899 2911	intervención
-T31	PROCEDIMIENTO 326 345	urografía excretora
-T32	PROCEDIMIENTO 358 400	TAC abdominal fue también normal y pélvico
-T33	PROCEDIMIENTO 450 482	radiografía de la mano izquierda
-T34	PROCEDIMIENTO 531 572	radiología simple de columna dorso-lumbar
-T35	PROCEDIMIENTO 645 677	estudio de colon por enema opaco
-T36	PROCEDIMIENTO 697 709	tacto rectal
-T37	PROCEDIMIENTO 777 855	perfil hormonal con FSH, LH, estradiol, progesterona, testosterona, prolactina
+T1	ENFERMEDAD 111 129	amenorrea primaria
+T2	ENFERMEDAD 1045 1087	Síndrome de Mayer-Rokitansky-Kuster-Hauser
+T3	ENFERMEDAD 214 232	ausencia de vagina
+T4	ENFERMEDAD 275 289	útero aplásico
+T5	ENFERMEDAD 292 321	microlitiasis renal bilateral
+T6	ENFERMEDAD 428 445	útero hipoplásico
+T7	ENFERMEDAD 2867 2884	estenosis vaginal
+T8	ENFERMEDAD 584 601	escoliosis lumbar
+T9	ENFERMEDAD 612 640	asimetría de crestas ilíacas
+T10	PROCEDIMIENTO 1163 1181	técnica de McIndoe
+T11	PROCEDIMIENTO 1235 1316	toma y aplicación de injertos cutáneos de espesor parcial de las regiones glúteas
+T12	PROCEDIMIENTO 237 263	ecografía abdomino-pélvica
+T13	PROCEDIMIENTO 1127 1149	reconstrucción vaginal
+T14	PROCEDIMIENTO 1461 1495	injertos con las paredes vaginales
+T15	PROCEDIMIENTO 326 345	urografía excretora
+T16	PROCEDIMIENTO 358 400	TAC abdominal fue también normal y pélvico
+T17	PROCEDIMIENTO 450 482	radiografía de la mano izquierda
+T18	PROCEDIMIENTO 531 572	radiología simple de columna dorso-lumbar
+T19	PROCEDIMIENTO 1778 1902	injertos se fijaron al conformador previamente cubierto con las esponjas de Gelfoam®, también mediante suturas reabsorbibles
+T20	PROCEDIMIENTO 777 855	perfil hormonal con FSH, LH, estradiol, progesterona, testosterona, prolactina
+T21	PROCEDIMIENTO 1923 1979	creación del nuevo túnel vaginal mediante disección roma
+T22	PROCEDIMIENTO 2193 2270	fijado a las neoparedes vaginales con sutura no absorbible del tipo nylon 3-0
+T23	PROCEDIMIENTO 645 677	estudio de colon por enema opaco
+T24	PROCEDIMIENTO 697 709	tacto rectal
+T25	PROCEDIMIENTO 1256 1403	injertos cutáneos de espesor parcial de las regiones glúteas, que se reticularon manualmente y se fijaron a una capa de esponjas de gel hemostático
+T26	PROCEDIMIENTO 2294 2391	cura compresiva externa con compresas y una capa de adhesivo transparente y suspensorio tipo faja
+T27	PROCEDIMIENTO 2506 2541	Colocamos nuevamente el conformador
+T28	PROCEDIMIENTO 2151 2177	colocación del dispositivo
+T29	PROCEDIMIENTO 2899 2911	intervención
+T30	SINTOMA 161 188	genitales externos normales
+T31	SINTOMA 326 356	urografía excretora fue normal
+T32	SINTOMA 612 640	asimetría de crestas ilíacas
+T33	SINTOMA 656 688	colon por enema opaco fue normal
+T34	SINTOMA 191 232	genitales internos con ausencia de vagina
+T35	SINTOMA 358 390	TAC abdominal fue también normal
+T36	SINTOMA 697 745	tacto rectal no se detectaron genitales internos
+T37	SINTOMA 797 872	FSH, LH, estradiol, progesterona, testosterona, prolactina, fueron normales

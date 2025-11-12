@@ -1,64 +1,65 @@
-T1	SINTOMA 1859 1878	buena función renal
-T2	SINTOMA 3751 3769	continencia diurna
-T3	SINTOMA 587 628	cultivo de Lowestein positivo en la orina
-T4	SINTOMA 3606 3646	escapes de orina son escasos y nocturnos
-T5	SINTOMA 3179 3202	escapes entre micciones
-T6	SINTOMA 2978 3011	estanqueidad de la sutura vesical
-T7	SINTOMA 3354 3376	incontinencia nocturna
-T8	SINTOMA 106 140	incontinencia urinaria de esfuerzo
-T9	SINTOMA 164 173	lumbalgia
-T10	SINTOMA 3227 3263	maniobra de Credé para vaciar vejiga
-T11	SINTOMA 276 313	parénquima renal izquierdo conservado
-T12	SINTOMA 176 187	polaquiuria
-T13	SINTOMA 3047 3088	reflujo vésico-ureteral, con alta presión
-T14	SINTOMA 316 364	riñón derecho de cortical fina y desestructurada
-T15	SINTOMA 893 918	riñón derecho sin función
-T16	SINTOMA 924 965	riñón izquierdo con morfología conservada
-T17	SINTOMA 3795 3875	vaciado vesical a expensas de maniobra de Credé y Valsalva sin residuo posterior
-T18	ENFERMEDAD 555 582	tuberculosis genitourinaria
-T19	ENFERMEDAD 48 69	tuberculosis pulmonar
-T20	ENFERMEDAD 71 103	cólicos nefríticos de repetición
-T21	ENFERMEDAD 3354 3376	incontinencia nocturna
-T22	ENFERMEDAD 1470 1482	riñón mastic
-T23	ENFERMEDAD 1493 1531	estenosis de los últimos cms de uréter
-T24	ENFERMEDAD 3047 3070	reflujo vésico-ureteral
-T25	ENFERMEDAD 2157 2184	retracción vesical completa
-T26	ENFERMEDAD 2586 2601	útero miomatoso
-T27	ENFERMEDAD 1654 1677	desinserción del uréter
-T28	ENFERMEDAD 241 271	ureterohidronefrosis bilateral
-T29	PROCEDIMIENTO 1039 1058	ecografía abdominal
-T30	PROCEDIMIENTO 1093 1110	gammagrafía renal
-T31	PROCEDIMIENTO 1136 1159	tratamiento antibiótico
-T32	PROCEDIMIENTO 1274 1282	cultivos
-T33	PROCEDIMIENTO 1428 1449	urografía intravenosa
-T34	PROCEDIMIENTO 1557 1576	nefrectomía derecha
-T35	PROCEDIMIENTO 1590 1626	reimplante uretero-vesical izquierdo
-T36	PROCEDIMIENTO 1758 1798	derivación urinaria permanente izquierda
+T1	ENFERMEDAD 555 582	tuberculosis genitourinaria
+T2	ENFERMEDAD 48 69	tuberculosis pulmonar
+T3	ENFERMEDAD 71 103	cólicos nefríticos de repetición
+T4	ENFERMEDAD 3354 3376	incontinencia nocturna
+T5	ENFERMEDAD 1470 1482	riñón mastic
+T6	ENFERMEDAD 1493 1531	estenosis de los últimos cms de uréter
+T7	ENFERMEDAD 3047 3070	reflujo vésico-ureteral
+T8	ENFERMEDAD 2157 2184	retracción vesical completa
+T9	ENFERMEDAD 2586 2601	útero miomatoso
+T10	ENFERMEDAD 1654 1677	desinserción del uréter
+T11	ENFERMEDAD 241 271	ureterohidronefrosis bilateral
+T12	PROCEDIMIENTO 3283 3294	cistografía
+T13	PROCEDIMIENTO 587 628	cultivo de Lowestein positivo en la orina
+T14	PROCEDIMIENTO 195 214	ecografía abdominal
+T15	PROCEDIMIENTO 2894 2920	retirada de tutor ureteral
+T16	PROCEDIMIENTO 1903 1925	nefrostomía en raqueta
+T17	PROCEDIMIENTO 645 656	nefrostomía
+T18	PROCEDIMIENTO 2950 2960	Cistograma
+T19	PROCEDIMIENTO 2390 2493	anastomosis del extremo proximal del íleon a la pelvis del riñón izquierdo, con sutura a puntos sueltos
+T20	PROCEDIMIENTO 1428 1449	urografía intravenosa
+T21	PROCEDIMIENTO 3795 3853	vaciado vesical a expensas de maniobra de Credé y Valsalva
+T22	PROCEDIMIENTO 2997 3011	sutura vesical
+T23	PROCEDIMIENTO 3580 3599	derivación urinaria
+T24	PROCEDIMIENTO 2074 2118	reconstrucción de la vía excretora con ileon
+T25	PROCEDIMIENTO 3095 3134	retirada de nefrostomía y sonda vesical
+T26	PROCEDIMIENTO 1557 1576	nefrectomía derecha
+T27	PROCEDIMIENTO 2555 2566	cistectomía
+T28	PROCEDIMIENTO 1590 1626	reimplante uretero-vesical izquierdo
+T29	PROCEDIMIENTO 851 868	gammagrafía renal
+T30	PROCEDIMIENTO 2569 2582	histerectomía
+T31	PROCEDIMIENTO 463 534	derivación urinaria mediante nefrostomía percutánea del riñón izquierdo
+T32	PROCEDIMIENTO 2620 2656	anastomosis entre neovejiga y uretra
+T33	PROCEDIMIENTO 3227 3263	maniobra de Credé para vaciar vejiga
+T34	PROCEDIMIENTO 1758 1798	derivación urinaria permanente izquierda
+T35	PROCEDIMIENTO 2748 2789	neovejiga en "U" con plegadura tipo Camey
+T36	PROCEDIMIENTO 1039 1058	ecografía abdominal
 T37	PROCEDIMIENTO 1800 1822	nefrostomía en raqueta
-T38	PROCEDIMIENTO 1903 1925	nefrostomía en raqueta
-T39	PROCEDIMIENTO 195 214	ecografía abdominal
-T40	PROCEDIMIENTO 2074 2118	reconstrucción de la vía excretora con ileon
-T41	PROCEDIMIENTO 2295 2372	liberar y desfuncionalizar 60 cm de íleon con apertura de mesocolon izquierdo
-T42	PROCEDIMIENTO 2390 2493	anastomosis del extremo proximal del íleon a la pelvis del riñón izquierdo, con sutura a puntos sueltos
-T43	PROCEDIMIENTO 2496 2527	catéter de tutorización doble J
-T44	PROCEDIMIENTO 2555 2566	cistectomía
-T45	PROCEDIMIENTO 2569 2582	histerectomía
-T46	PROCEDIMIENTO 2620 2656	anastomosis entre neovejiga y uretra
-T47	PROCEDIMIENTO 2662 2730	destubulización de 30 cm de íleon distal en posición isoperistáltica
-T48	PROCEDIMIENTO 2748 2789	neovejiga en "U" con plegadura tipo Camey
-T49	PROCEDIMIENTO 2894 2920	retirada de tutor ureteral
-T50	PROCEDIMIENTO 2941 2948	cirugía
-T51	PROCEDIMIENTO 2950 2960	Cistograma
-T52	PROCEDIMIENTO 2997 3011	sutura vesical
-T53	PROCEDIMIENTO 3095 3134	retirada de nefrostomía y sonda vesical
-T54	PROCEDIMIENTO 3227 3263	maniobra de Credé para vaciar vejiga
-T55	PROCEDIMIENTO 3283 3294	cistografía
-T56	PROCEDIMIENTO 3520 3527	cirugía
-T57	PROCEDIMIENTO 3580 3599	derivación urinaria
-T58	PROCEDIMIENTO 3691 3714	intervención quirúrgica
-T59	PROCEDIMIENTO 379 392	función renal
-T60	PROCEDIMIENTO 3795 3853	vaciado vesical a expensas de maniobra de Credé y Valsalva
-T61	PROCEDIMIENTO 463 534	derivación urinaria mediante nefrostomía percutánea del riñón izquierdo
-T62	PROCEDIMIENTO 587 628	cultivo de Lowestein positivo en la orina
-T63	PROCEDIMIENTO 645 656	nefrostomía
-T64	PROCEDIMIENTO 851 868	gammagrafía renal
+T38	PROCEDIMIENTO 1093 1110	gammagrafía renal
+T39	PROCEDIMIENTO 1136 1159	tratamiento antibiótico
+T40	PROCEDIMIENTO 2496 2527	catéter de tutorización doble J
+T41	PROCEDIMIENTO 1274 1282	cultivos
+T42	PROCEDIMIENTO 2295 2372	liberar y desfuncionalizar 60 cm de íleon con apertura de mesocolon izquierdo
+T43	PROCEDIMIENTO 379 392	función renal
+T44	PROCEDIMIENTO 3691 3714	intervención quirúrgica
+T45	PROCEDIMIENTO 2662 2730	destubulización de 30 cm de íleon distal en posición isoperistáltica
+T46	PROCEDIMIENTO 2941 2948	cirugía
+T47	PROCEDIMIENTO 3520 3527	cirugía
+T48	SINTOMA 164 173	lumbalgia
+T49	SINTOMA 1859 1878	buena función renal
+T50	SINTOMA 176 187	polaquiuria
+T51	SINTOMA 587 628	cultivo de Lowestein positivo en la orina
+T52	SINTOMA 893 918	riñón derecho sin función
+T53	SINTOMA 106 140	incontinencia urinaria de esfuerzo
+T54	SINTOMA 276 313	parénquima renal izquierdo conservado
+T55	SINTOMA 316 364	riñón derecho de cortical fina y desestructurada
+T56	SINTOMA 3179 3202	escapes entre micciones
+T57	SINTOMA 2978 3011	estanqueidad de la sutura vesical
+T58	SINTOMA 3751 3769	continencia diurna
+T59	SINTOMA 3354 3376	incontinencia nocturna
+T60	SINTOMA 3606 3646	escapes de orina son escasos y nocturnos
+T61	SINTOMA 924 965	riñón izquierdo con morfología conservada
+T62	SINTOMA 3047 3088	reflujo vésico-ureteral, con alta presión
+T63	SINTOMA 3227 3263	maniobra de Credé para vaciar vejiga
+T64	SINTOMA 3299 3339	vejiga de más capacidad y escaso reflujo
+T65	SINTOMA 3795 3875	vaciado vesical a expensas de maniobra de Credé y Valsalva sin residuo posterior

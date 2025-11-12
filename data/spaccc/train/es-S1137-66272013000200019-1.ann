@@ -1,14 +1,37 @@
-T1	SINTOMA 426 431	dolor
-T2	SINTOMA 435 442	prurito
-T3	ENFERMEDAD 44 62	orejas prominentes
-T4	ENFERMEDAD 1729 1785	oreja derecha presentó una dehiscencia pequeña de sutura
-T5	ENFERMEDAD 115 163	orejas se desarrolló progresivamente un queloide
-T6	ENFERMEDAD 205 214	queloides
-T7	ENFERMEDAD 2036 2076	oreja derecha se desarrolló una recidiva
-T8	ENFERMEDAD 1189 1207	nódulos queloideos
-T9	ENFERMEDAD 1256 1282	atrofia de anejos cutáneos
-T10	ENFERMEDAD 1519 1529	cicatrices
-T11	ENFERMEDAD 493 501	lesiones
-T12	ENFERMEDAD 2124 2132	queloide
-T13	ENFERMEDAD 709 717	queloide
-T14	ENFERMEDAD 969 977	queloide
+T1	ENFERMEDAD 44 62	orejas prominentes
+T2	ENFERMEDAD 1729 1785	oreja derecha presentó una dehiscencia pequeña de sutura
+T3	ENFERMEDAD 115 163	orejas se desarrolló progresivamente un queloide
+T4	ENFERMEDAD 205 214	queloides
+T5	ENFERMEDAD 2036 2076	oreja derecha se desarrolló una recidiva
+T6	ENFERMEDAD 1189 1207	nódulos queloideos
+T7	ENFERMEDAD 1256 1282	atrofia de anejos cutáneos
+T8	ENFERMEDAD 1519 1529	cicatrices
+T9	ENFERMEDAD 493 501	lesiones
+T10	ENFERMEDAD 2124 2132	queloide
+T11	ENFERMEDAD 709 717	queloide
+T12	ENFERMEDAD 969 977	queloide
+T13	PROCEDIMIENTO 1715 1742	colgajo de la oreja derecha
+T14	PROCEDIMIENTO 81 91	otoplastia
+T15	PROCEDIMIENTO 1851 1869	tratamiento tópico
+T16	PROCEDIMIENTO 574 591	anestesia general
+T17	PROCEDIMIENTO 669 717	incisión en la cara posterosuperior del queloide
+T18	PROCEDIMIENTO 739 800	de disecó un colgajo delgado de la cubierta cutánea queloidea
+T19	PROCEDIMIENTO 890 931	levantar el colgajo de un tamaño adecuado
+T20	PROCEDIMIENTO 943 977	extirpación del resto del queloide
+T21	PROCEDIMIENTO 982 1025	colgajo fue suturado al defecto sin tensión
+T22	PROCEDIMIENTO 1143 1168	estudio anatomopatológico
+T23	PROCEDIMIENTO 1384 1480	inyección intraoperatoria de corticosteroide (acetónido de triamcinolona) en el lecho quirúrgico
+T24	PROCEDIMIENTO 1482 1529	aplicación de gel de silicona en las cicatrices
+T25	PROCEDIMIENTO 1544 1579	presoterapia con una banda elástica
+T26	PROCEDIMIENTO 1605 1617	presoterapia
+T27	PROCEDIMIENTO 596 618	tratamiento quirúrgico
+T28	PROCEDIMIENTO 454 465	extirpación
+T29	PROCEDIMIENTO 802 883	manteniendo un pedículo de unión a la piel normal en la cara anterior de la oreja
+T30	PROCEDIMIENTO 1287 1294	cirugía
+T31	PROCEDIMIENTO 187 199	intervención
+T32	PROCEDIMIENTO 546 558	intervención
+T33	PROCEDIMIENTO 1654 1666	intervención
+T34	PROCEDIMIENTO 2096 2108	intervención
+T35	PROCEDIMIENTO 2203 2227	procedimiento quirúrgico
+T36	SINTOMA 426 431	dolor
+T37	SINTOMA 435 442	prurito

@@ -1,8 +1,18 @@
-T1	SINTOMA 811 821	tumoración
-T2	SINTOMA 348 368	tumoración exofítica
-T3	SINTOMA 409 431	mucosa vesical íntegra
-T4	ENFERMEDAD 348 358	tumoración
-T5	ENFERMEDAD 45 53	fumadora
-T6	ENFERMEDAD 2053 2096	tumor miofibroblástico inflamatorio vesical
-T7	ENFERMEDAD 144 179	infecciones urinarias de repetición
-T8	ENFERMEDAD 244 271	lesión nodular intravesical
+T1	ENFERMEDAD 348 358	tumoración
+T2	ENFERMEDAD 45 53	fumadora
+T3	ENFERMEDAD 2053 2096	tumor miofibroblástico inflamatorio vesical
+T4	ENFERMEDAD 144 179	infecciones urinarias de repetición
+T5	ENFERMEDAD 244 271	lesión nodular intravesical
+T6	PROCEDIMIENTO 323 334	cistoscopia
+T7	PROCEDIMIENTO 598 617	anatomía patológica
+T8	PROCEDIMIENTO 500 526	exploración bajo anestesia
+T9	PROCEDIMIENTO 206 225	ecografía abdominal
+T10	PROCEDIMIENTO 528 531	EBA
+T11	PROCEDIMIENTO 535 573	resección transuretral de dicha lesión
+T12	PROCEDIMIENTO 575 578	RTU
+T13	PROCEDIMIENTO 1432 1458	estudio inmunohistoquímico
+T14	PROCEDIMIENTO 2009 2038	diagnóstico anatomopatológico
+T15	PROCEDIMIENTO 1925 1929	FISH
+T16	SINTOMA 348 368	tumoración exofítica
+T17	SINTOMA 811 821	tumoración
+T18	SINTOMA 409 431	mucosa vesical íntegra

@@ -1,15 +1,27 @@
-T1	SINTOMA 1877 1954	agudeza visual de percepción de luz en OD y 0,1 con fijación excéntrica en OI
-T2	SINTOMA 621 682	coroides con límites precisos que abarca todo el área macular
-T3	SINTOMA 124 156	disminución de la agudeza visual
-T4	SINTOMA 418 439	embriotoxon posterior
-T5	SINTOMA 1690 1747	mutación 2785+3 del AAGT en el intrón 19 del gen Jagged 1
-T6	ENFERMEDAD 1563 1583	Síndrome de Alagille
-T7	ENFERMEDAD 2009 2044	lesiones atróficas coriorretinianas
-T8	ENFERMEDAD 1781 1801	Síndrome de Alagille
-T9	ENFERMEDAD 418 439	embriotoxon posterior
-T10	ENFERMEDAD 578 629	Atrofia geográfica circumpapilar del EPR y coroides
-T11	ENFERMEDAD 817 864	atrofia que afecta parcialmente el área macular
-T12	ENFERMEDAD 950 980	atrofia del EPR y coriocapilar
-T13	ENFERMEDAD 1071 1093	coroiditis serpiginosa
-T14	ENFERMEDAD 1213 1232	déficit nutricional
-T15	ENFERMEDAD 741 749	Lesiones
+T1	ENFERMEDAD 1563 1583	Síndrome de Alagille
+T2	ENFERMEDAD 2009 2044	lesiones atróficas coriorretinianas
+T3	ENFERMEDAD 1781 1801	Síndrome de Alagille
+T4	ENFERMEDAD 418 439	embriotoxon posterior
+T5	ENFERMEDAD 578 629	Atrofia geográfica circumpapilar del EPR y coroides
+T6	ENFERMEDAD 817 864	atrofia que afecta parcialmente el área macular
+T7	ENFERMEDAD 950 980	atrofia del EPR y coriocapilar
+T8	ENFERMEDAD 1071 1093	coroiditis serpiginosa
+T9	ENFERMEDAD 1213 1232	déficit nutricional
+T10	ENFERMEDAD 741 749	Lesiones
+T11	PROCEDIMIENTO 1962 1974	fondo de ojo
+T12	PROCEDIMIENTO 1642 1658	estudio genético
+T13	PROCEDIMIENTO 179 204	exploración oftalmológica
+T14	PROCEDIMIENTO 362 401	examen biomicroscópico de polo anterior
+T15	PROCEDIMIENTO 506 518	fondo de ojo
+T16	PROCEDIMIENTO 901 927	angiografía fluoresceínica
+T17	PROCEDIMIENTO 929 932	AFG
+T18	PROCEDIMIENTO 1105 1131	tratamiento inmunosupresor
+T19	PROCEDIMIENTO 1136 1147	Corticoides
+T20	PROCEDIMIENTO 1348 1374	tratamiento inmunosupresor
+T21	PROCEDIMIENTO 1174 1197	suplementos vitamínicos
+T22	PROCEDIMIENTO 2133 2146	angiográficos
+T23	SINTOMA 124 156	disminución de la agudeza visual
+T24	SINTOMA 1690 1747	mutación 2785+3 del AAGT en el intrón 19 del gen Jagged 1
+T25	SINTOMA 1877 1954	agudeza visual de percepción de luz en OD y 0,1 con fijación excéntrica en OI
+T26	SINTOMA 418 439	embriotoxon posterior
+T27	SINTOMA 621 682	coroides con límites precisos que abarca todo el área macular

@@ -1,21 +1,21 @@
-T1	SINTOMA 742 788	arquitectura normal de las empalizadas de Vogt
-T2	SINTOMA 551 577	conjuntivalización corneal
-T3	SINTOMA 1667 1682	hiperemia mixta
-T4	SINTOMA 640 655	hiperemia mixta
-T5	SINTOMA 1104 1143	limbo nasal de características normales
-T6	SINTOMA 62 85	ojo rojo doloroso en OI
-T7	SINTOMA 103 131	pérdida progresiva de visión
-T8	SINTOMA 1590 1633	superficie corneal epitelial lisa y regular
-T9	SINTOMA 807 829	tinción con colorantes
-T10	SINTOMA 610 637	vascularización superficial
-T11	ENFERMEDAD 923 925	IL
-T12	ENFERMEDAD 551 577	conjuntivalización corneal
-T13	ENFERMEDAD 103 131	pérdida progresiva de visión
-T14	PROCEDIMIENTO 1178 1207	injerto de membrana amniótica
-T15	PROCEDIMIENTO 1189 1255	membrana amniótica (MA) que se suturó con el epitelio hacia arriba
-T16	PROCEDIMIENTO 1278 1378	fragmento circular de MA de 15 mm de diámetro que se suturó como parche, con el epitelio hacia abajo
-T17	PROCEDIMIENTO 1499 1512	injerto de MA
-T18	PROCEDIMIENTO 1570 1577	cirugía
-T19	PROCEDIMIENTO 329 354	exploración oftalmológica
-T20	PROCEDIMIENTO 455 482	exploración biomicroscópica
-T21	PROCEDIMIENTO 980 1042	ECS del tejido fibrovascular que invadía la superficie corneal
+T1	ENFERMEDAD 923 925	IL
+T2	ENFERMEDAD 551 577	conjuntivalización corneal
+T3	ENFERMEDAD 103 131	pérdida progresiva de visión
+T4	PROCEDIMIENTO 329 354	exploración oftalmológica
+T5	PROCEDIMIENTO 980 1042	ECS del tejido fibrovascular que invadía la superficie corneal
+T6	PROCEDIMIENTO 1178 1207	injerto de membrana amniótica
+T7	PROCEDIMIENTO 1499 1512	injerto de MA
+T8	PROCEDIMIENTO 1189 1255	membrana amniótica (MA) que se suturó con el epitelio hacia arriba
+T9	PROCEDIMIENTO 455 482	exploración biomicroscópica
+T10	PROCEDIMIENTO 1278 1378	fragmento circular de MA de 15 mm de diámetro que se suturó como parche, con el epitelio hacia abajo
+T11	PROCEDIMIENTO 1570 1577	cirugía
+T12	SINTOMA 103 131	pérdida progresiva de visión
+T13	SINTOMA 742 788	arquitectura normal de las empalizadas de Vogt
+T14	SINTOMA 610 637	vascularización superficial
+T15	SINTOMA 640 655	hiperemia mixta
+T16	SINTOMA 1590 1633	superficie corneal epitelial lisa y regular
+T17	SINTOMA 1667 1682	hiperemia mixta
+T18	SINTOMA 62 85	ojo rojo doloroso en OI
+T19	SINTOMA 551 577	conjuntivalización corneal
+T20	SINTOMA 1104 1143	limbo nasal de características normales
+T21	SINTOMA 807 829	tinción con colorantes

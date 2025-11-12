@@ -1,23 +1,35 @@
-T1	SINTOMA 51 70	buen estado general
-T2	SINTOMA 413 424	inseguridad
-T3	SINTOMA 327 364	dificultad en la fonación y deglución
-T4	SINTOMA 476 564	mucosa bucal reveló las típicas placas opalinas, ligeramente elevadas y blanco grisáceas
-T5	SINTOMA 427 458	ocultamientos en sus respuestas
-T6	SINTOMA 815 821	placas
-T7	SINTOMA 1240 1246	placas
-T8	SINTOMA 724 789	placas blancas en ambas comisuras y, en la mucosa labial inferior
-T9	SINTOMA 1068 1119	placas similares en el borde izquierdo de la lengua
-T10	SINTOMA 2034 2082	prueba del campo oscuro", con resultado positivo
-T11	SINTOMA 2437 2483	resultado del VIH, el cual había dado reactivo
-T12	SINTOMA 1789 1802	VDRL reactiva
-T13	ENFERMEDAD 122 129	violada
-T14	ENFERMEDAD 2279 2286	sífilis
-T15	ENFERMEDAD 2609 2616	sífilis
-T16	ENFERMEDAD 2675 2692	inmunodeficiencia
-T17	ENFERMEDAD 2014 2030	lesiones bucales
-T18	ENFERMEDAD 569 592	secundarismo sifilítico
-T19	ENFERMEDAD 1559 1578	leucoplasia vellosa
-T20	ENFERMEDAD 1580 1582	LV
-T21	ENFERMEDAD 2150 2169	leucoplasia vellosa
-T22	ENFERMEDAD 2360 2362	LV
-T23	ENFERMEDAD 242 258	lesiones en boca
+T1	ENFERMEDAD 122 129	violada
+T2	ENFERMEDAD 2279 2286	sífilis
+T3	ENFERMEDAD 2609 2616	sífilis
+T4	ENFERMEDAD 2675 2692	inmunodeficiencia
+T5	ENFERMEDAD 2014 2030	lesiones bucales
+T6	ENFERMEDAD 569 592	secundarismo sifilítico
+T7	ENFERMEDAD 1559 1578	leucoplasia vellosa
+T8	ENFERMEDAD 1580 1582	LV
+T9	ENFERMEDAD 2150 2169	leucoplasia vellosa
+T10	ENFERMEDAD 2360 2362	LV
+T11	ENFERMEDAD 242 258	lesiones en boca
+T12	PROCEDIMIENTO 463 488	examen de la mucosa bucal
+T13	PROCEDIMIENTO 1643 1654	test de VIH
+T14	PROCEDIMIENTO 2099 2119	biopsia de la mucosa
+T15	PROCEDIMIENTO 2349 2356	biopsia
+T16	PROCEDIMIENTO 2204 2213	serología
+T17	PROCEDIMIENTO 2034 2057	prueba del campo oscuro
+T18	PROCEDIMIENTO 1960 2022	demostración de espiroqueta del exudado de una de las lesiones
+T19	PROCEDIMIENTO 383 392	anamnesis
+T20	PROCEDIMIENTO 1829 1883	prueba fluorescente de anticuerpos contra el treponema
+T21	PROCEDIMIENTO 1885 1892	FTA-ABS
+T22	PROCEDIMIENTO 1901 1934	hematoaglutinación para treponema
+T23	PROCEDIMIENTO 1936 1940	TPHA
+T24	SINTOMA 327 364	dificultad en la fonación y deglución
+T25	SINTOMA 413 424	inseguridad
+T26	SINTOMA 724 789	placas blancas en ambas comisuras y, en la mucosa labial inferior
+T27	SINTOMA 2034 2082	prueba del campo oscuro", con resultado positivo
+T28	SINTOMA 2437 2483	resultado del VIH, el cual había dado reactivo
+T29	SINTOMA 51 70	buen estado general
+T30	SINTOMA 1789 1802	VDRL reactiva
+T31	SINTOMA 427 458	ocultamientos en sus respuestas
+T32	SINTOMA 476 564	mucosa bucal reveló las típicas placas opalinas, ligeramente elevadas y blanco grisáceas
+T33	SINTOMA 1240 1246	placas
+T34	SINTOMA 815 821	placas
+T35	SINTOMA 1068 1119	placas similares en el borde izquierdo de la lengua

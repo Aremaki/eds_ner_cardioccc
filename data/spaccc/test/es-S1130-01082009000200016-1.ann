@@ -1,17 +1,17 @@
-T1	SINTOMA 255 288	analítica es rigurosamente normal
-T2	SINTOMA 691 741	apéndice de tamaño normal y ligeramente congestivo
-T3	SINTOMA 301 379	colonoscopia que alcanza hasta íleon terminal, con una mucosa y calibre normal
-T4	SINTOMA 85 125	dolor persistente en fosa iliaca derecha
-T5	ENFERMEDAD 543 560	apendicitis aguda
-T6	ENFERMEDAD 1180 1207	apendicitis crónica fibrosa
-T7	ENFERMEDAD 1075 1095	hiperplasia linfoide
-T8	ENFERMEDAD 227 250	reflujo gastroesofágico
-T9	ENFERMEDAD 495 528	bario en el interior del apéndice
-T10	PROCEDIMIENTO 152 191	estudio esofagogastroduodenal con bario
-T11	PROCEDIMIENTO 255 264	analítica
-T12	PROCEDIMIENTO 301 346	colonoscopia que alcanza hasta íleon terminal
-T13	PROCEDIMIENTO 385 418	radiografía y ecografía abdominal
-T14	PROCEDIMIENTO 452 468	estudio baritado
-T15	PROCEDIMIENTO 623 647	laparoscopia exploradora
-T16	PROCEDIMIENTO 785 799	apendicectomía
-T17	PROCEDIMIENTO 889 914	estudio anatomopatológico
+T1	ENFERMEDAD 543 560	apendicitis aguda
+T2	ENFERMEDAD 1180 1207	apendicitis crónica fibrosa
+T3	ENFERMEDAD 1075 1095	hiperplasia linfoide
+T4	ENFERMEDAD 227 250	reflujo gastroesofágico
+T5	ENFERMEDAD 495 528	bario en el interior del apéndice
+T6	PROCEDIMIENTO 152 191	estudio esofagogastroduodenal con bario
+T7	PROCEDIMIENTO 301 346	colonoscopia que alcanza hasta íleon terminal
+T8	PROCEDIMIENTO 385 418	radiografía y ecografía abdominal
+T9	PROCEDIMIENTO 452 468	estudio baritado
+T10	PROCEDIMIENTO 623 647	laparoscopia exploradora
+T11	PROCEDIMIENTO 785 799	apendicectomía
+T12	PROCEDIMIENTO 889 914	estudio anatomopatológico
+T13	PROCEDIMIENTO 255 264	analítica
+T14	SINTOMA 85 125	dolor persistente en fosa iliaca derecha
+T15	SINTOMA 255 288	analítica es rigurosamente normal
+T16	SINTOMA 301 379	colonoscopia que alcanza hasta íleon terminal, con una mucosa y calibre normal
+T17	SINTOMA 691 741	apéndice de tamaño normal y ligeramente congestivo

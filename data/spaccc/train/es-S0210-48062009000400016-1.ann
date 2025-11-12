@@ -1,59 +1,59 @@
-T1	SINTOMA 907 940	abundante orina y heces en pelvis
-T2	SINTOMA 1241 1287	abundante salida de orina a través del drenaje
-T3	SINTOMA 1420 1440	colostomía permeable
-T4	SINTOMA 2410 2427	deposición normal
-T5	SINTOMA 634 649	dolor abdominal
-T6	SINTOMA 669 678	fecaluria
-T7	SINTOMA 616 622	fiebre
-T8	SINTOMA 2154 2197	fuga del contraste fuera de la vía urinaria
-T9	SINTOMA 2441 2463	incontinencia urinaria
-T10	SINTOMA 763 790	líquido libre retrohepático
-T11	SINTOMA 2377 2407	micción espontánea confortable
-T12	SINTOMA 1442 1453	Orina clara
-T13	SINTOMA 1677 1743	paso de contraste desde la unión uretrovesical a la ampolla rectal
-T14	SINTOMA 328 332	pT2c
-T15	SINTOMA 124 127	T1c
-T16	ENFERMEDAD 37 63	adenocarcinoma de próstata
-T17	ENFERMEDAD 1095 1109	cuadro séptico
-T18	ENFERMEDAD 2018 2039	fístula uretro-rectal
-T19	ENFERMEDAD 2465 2483	Disfunción eréctil
-T20	ENFERMEDAD 1183 1197	cuadro séptico
-T21	ENFERMEDAD 1767 1788	fístula vésico-rectal
-T22	ENFERMEDAD 1487 1503	fístula urinaria
-T23	ENFERMEDAD 1220 1236	fístula urinaria
-T24	ENFERMEDAD 1506 1564	necrosis grasa en el tercio distal de la herida quirúrgica
-T25	ENFERMEDAD 1290 1320	infección de herida quirúrgica
-T26	ENFERMEDAD 1868 1898	infección de herida quirúrgica
-T27	ENFERMEDAD 288 314	Adenocarcinoma de próstata
-T28	ENFERMEDAD 651 667	fístula urinaria
-T29	ENFERMEDAD 691 702	peritonitis
-T30	ENFERMEDAD 848 904	peritonitis fecaloidea secundaria a perforación en sigma
-T31	ENFERMEDAD 884 904	perforación en sigma
-T32	ENFERMEDAD 1576 1621	musculatura abdominal como fondo de la úlcera
-T33	ENFERMEDAD 356 361	tumor
-T34	ENFERMEDAD 1959 1994	persistencia del orificio fistuloso
-T35	PROCEDIMIENTO 1025 1047	colostomía de descarga
-T36	PROCEDIMIENTO 1057 1064	cirugía
-T37	PROCEDIMIENTO 1150 1170	soporte respiratorio
-T38	PROCEDIMIENTO 1280 1287	drenaje
-T39	PROCEDIMIENTO 1327 1369	estabilización respiratoria y hemodinámica
-T40	PROCEDIMIENTO 1651 1662	cistografía
-T41	PROCEDIMIENTO 1832 1847	sondaje vesical
-T42	PROCEDIMIENTO 2008 2039	cierre de fístula uretro-rectal
-T43	PROCEDIMIENTO 2042 2084	plastia de avance mucoso por vía transanal
+T1	ENFERMEDAD 37 63	adenocarcinoma de próstata
+T2	ENFERMEDAD 1095 1109	cuadro séptico
+T3	ENFERMEDAD 2018 2039	fístula uretro-rectal
+T4	ENFERMEDAD 2465 2483	Disfunción eréctil
+T5	ENFERMEDAD 1183 1197	cuadro séptico
+T6	ENFERMEDAD 1767 1788	fístula vésico-rectal
+T7	ENFERMEDAD 1487 1503	fístula urinaria
+T8	ENFERMEDAD 1220 1236	fístula urinaria
+T9	ENFERMEDAD 1506 1564	necrosis grasa en el tercio distal de la herida quirúrgica
+T10	ENFERMEDAD 1290 1320	infección de herida quirúrgica
+T11	ENFERMEDAD 1868 1898	infección de herida quirúrgica
+T12	ENFERMEDAD 288 314	Adenocarcinoma de próstata
+T13	ENFERMEDAD 651 667	fístula urinaria
+T14	ENFERMEDAD 691 702	peritonitis
+T15	ENFERMEDAD 848 904	peritonitis fecaloidea secundaria a perforación en sigma
+T16	ENFERMEDAD 884 904	perforación en sigma
+T17	ENFERMEDAD 1576 1621	musculatura abdominal como fondo de la úlcera
+T18	ENFERMEDAD 356 361	tumor
+T19	ENFERMEDAD 1959 1994	persistencia del orificio fistuloso
+T20	PROCEDIMIENTO 1651 1662	cistografía
+T21	PROCEDIMIENTO 2268 2288	cierre de colostomía
+T22	PROCEDIMIENTO 2291 2337	eventroplastia de la pared abdominal con malla
+T23	PROCEDIMIENTO 1150 1170	soporte respiratorio
+T24	PROCEDIMIENTO 2496 2529	inhibidores de la fosfodiesterasa
+T25	PROCEDIMIENTO 2126 2137	cistografía
+T26	PROCEDIMIENTO 1832 1847	sondaje vesical
+T27	PROCEDIMIENTO 223 257	prostatectomía radical retorpúbica
+T28	PROCEDIMIENTO 2210 2236	se retira la sonda vesical
+T29	PROCEDIMIENTO 375 420	disección de la cara posterior de la próstata
+T30	PROCEDIMIENTO 421 467	apertura de 2 cm en la cara anterior del recto
+T31	PROCEDIMIENTO 469 521	Cierre directo de la pared rectal con puntos sueltos
+T32	PROCEDIMIENTO 706 724	exploración física
+T33	PROCEDIMIENTO 737 749	CT abdominal
+T34	PROCEDIMIENTO 814 825	laparotomía
+T35	PROCEDIMIENTO 942 980	Se realizó nueva sutura vésico-uretral
+T36	PROCEDIMIENTO 982 1022	resección de segmento de sigma perforado
+T37	PROCEDIMIENTO 1025 1047	colostomía de descarga
+T38	PROCEDIMIENTO 267 286	anatomía patológica
+T39	PROCEDIMIENTO 1280 1287	drenaje
+T40	PROCEDIMIENTO 2008 2039	cierre de fístula uretro-rectal
+T41	PROCEDIMIENTO 1327 1369	estabilización respiratoria y hemodinámica
+T42	PROCEDIMIENTO 2042 2084	plastia de avance mucoso por vía transanal
+T43	PROCEDIMIENTO 1057 1064	cirugía
 T44	PROCEDIMIENTO 2107 2114	cirugía
-T45	PROCEDIMIENTO 2126 2137	cistografía
-T46	PROCEDIMIENTO 2210 2236	se retira la sonda vesical
-T47	PROCEDIMIENTO 223 257	prostatectomía radical retorpúbica
-T48	PROCEDIMIENTO 2268 2288	cierre de colostomía
-T49	PROCEDIMIENTO 2291 2337	eventroplastia de la pared abdominal con malla
-T50	PROCEDIMIENTO 2496 2529	inhibidores de la fosfodiesterasa
-T51	PROCEDIMIENTO 267 286	anatomía patológica
-T52	PROCEDIMIENTO 375 420	disección de la cara posterior de la próstata
-T53	PROCEDIMIENTO 421 467	apertura de 2 cm en la cara anterior del recto
-T54	PROCEDIMIENTO 469 521	Cierre directo de la pared rectal con puntos sueltos
-T55	PROCEDIMIENTO 706 724	exploración física
-T56	PROCEDIMIENTO 737 749	CT abdominal
-T57	PROCEDIMIENTO 814 825	laparotomía
-T58	PROCEDIMIENTO 942 980	Se realizó nueva sutura vésico-uretral
-T59	PROCEDIMIENTO 982 1022	resección de segmento de sigma perforado
+T45	SINTOMA 2377 2407	micción espontánea confortable
+T46	SINTOMA 2410 2427	deposición normal
+T47	SINTOMA 124 127	T1c
+T48	SINTOMA 616 622	fiebre
+T49	SINTOMA 634 649	dolor abdominal
+T50	SINTOMA 669 678	fecaluria
+T51	SINTOMA 763 790	líquido libre retrohepático
+T52	SINTOMA 907 940	abundante orina y heces en pelvis
+T53	SINTOMA 328 332	pT2c
+T54	SINTOMA 2154 2197	fuga del contraste fuera de la vía urinaria
+T55	SINTOMA 2441 2463	incontinencia urinaria
+T56	SINTOMA 1420 1440	colostomía permeable
+T57	SINTOMA 1442 1453	Orina clara
+T58	SINTOMA 1677 1743	paso de contraste desde la unión uretrovesical a la ampolla rectal
+T59	SINTOMA 1241 1287	abundante salida de orina a través del drenaje

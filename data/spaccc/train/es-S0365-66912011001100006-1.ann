@@ -1,7 +1,17 @@
-T1	SINTOMA 551 593	niveles séricos de lípidos fueron normales
-T2	SINTOMA 284 300	opacidad corneal
-T3	SINTOMA 89 125	pérdida progresiva de agudeza visual
-T4	ENFERMEDAD 1018 1053	neovascularización corneal profunda
-T5	ENFERMEDAD 35 75	queratopatía lipoidea bilateral primaria
-T6	ENFERMEDAD 467 545	neovascularización superficial y profunda extendiéndose al centro de la córnea
-T7	ENFERMEDAD 702 710	catarata
+T1	ENFERMEDAD 1018 1053	neovascularización corneal profunda
+T2	ENFERMEDAD 35 75	queratopatía lipoidea bilateral primaria
+T3	ENFERMEDAD 467 545	neovascularización superficial y profunda extendiéndose al centro de la córnea
+T4	ENFERMEDAD 702 710	catarata
+T5	PROCEDIMIENTO 137 162	exploración oftalmológica
+T6	PROCEDIMIENTO 996 1010	biomicroscopía
+T7	PROCEDIMIENTO 258 272	biomicroscopía
+T8	PROCEDIMIENTO 551 577	niveles séricos de lípidos
+T9	PROCEDIMIENTO 1514 1546	corneal con injerto transparente
+T10	PROCEDIMIENTO 644 669	queratoplastia penetrante
+T11	PROCEDIMIENTO 674 710	extracción extracapsular de catarata
+T12	PROCEDIMIENTO 713 748	implante de lente intraocular en OI
+T13	PROCEDIMIENTO 788 798	esteroides
+T14	PROCEDIMIENTO 801 821	antibióticos tópicos
+T15	SINTOMA 89 125	pérdida progresiva de agudeza visual
+T16	SINTOMA 551 593	niveles séricos de lípidos fueron normales
+T17	SINTOMA 284 300	opacidad corneal

@@ -1,57 +1,57 @@
-T1	SINTOMA 325 331	fiebre
-T2	SINTOMA 333 342	ictericia
-T3	SINTOMA 344 351	coluria
-T4	SINTOMA 354 360	acolia
-T5	SINTOMA 363 370	náuseas
-T6	SINTOMA 373 380	vómitos
-T7	SINTOMA 2005 2023	sangrado digestivo
-T8	SINTOMA 2989 2997	sangrado
-T9	SINTOMA 41 50	ictericia
-T10	SINTOMA 2254 2269	sangrado activo
-T11	SINTOMA 399 438	abdomen doloroso en hipocondrio derecho
-T12	SINTOMA 709 754	Área pancreática de aspecto ecográfico normal
-T13	SINTOMA 782 822	aumento de volumen de cabeza pancreática
-T14	SINTOMA 1571 1605	caída de las cifras de hemoglobina
-T15	SINTOMA 247 282	dolor cólico en hipocondrio derecho
-T16	SINTOMA 1511 1520	hemobilia
-T17	SINTOMA 494 510	hígado homogéneo
-T18	SINTOMA 2682 2716	permeabilidad de eje esplenoportal
-T19	SINTOMA 2926 2940	vaso sangrante
-T20	SINTOMA 864 890	vesícula biliar distendida
-T21	SINTOMA 824 861	Wirsung en el límite de la normalidad
-T22	ENFERMEDAD 41 62	ictericia obstructiva
-T23	ENFERMEDAD 1689 1720	neoplasia de cabeza de páncreas
-T24	ENFERMEDAD 1525 1547	obstrucción de catéter
-T25	ENFERMEDAD 515 559	dilatación de vía biliar intra-extrahepática
-T26	ENFERMEDAD 112 137	trombosis venosa profunda
-T27	ENFERMEDAD 2719 2776	pseudoaneurisma de rama intrahepática de arteria hepática
-T28	ENFERMEDAD 561 582	colédoco muy dilatado
-T29	ENFERMEDAD 1153 1191	dilatación de vía biliar intrahepática
-T30	ENFERMEDAD 139 153	ulcus duodenal
-T31	ENFERMEDAD 186 207	cardiopatía isquémica
-T32	ENFERMEDAD 1196 1289	moderada dilatación de colédoco secundario a obstrucción a nivel de porción distal de duodeno
-T33	ENFERMEDAD 2365 2416	pseudoaneurisma de 1 cm en rama de arteria hepática
-T34	ENFERMEDAD 1241 1289	obstrucción a nivel de porción distal de duodeno
-T35	ENFERMEDAD 2532 2580	tortuosidad de tronco celíaco y arteria hepática
-T36	ENFERMEDAD 667 675	litiasis
-T37	ENFERMEDAD 158 183	hemorragia digestiva alta
-T38	ENFERMEDAD 2005 2023	sangrado digestivo
-T39	ENFERMEDAD 864 890	vesícula biliar distendida
-T40	ENFERMEDAD 1511 1520	hemobilia
-T41	PROCEDIMIENTO 1050 1085	colangiografía transparietohepática
-T42	PROCEDIMIENTO 1342 1376	catéter de drenaje interno-externo
-T43	PROCEDIMIENTO 1445 1459	colangiografía
-T44	PROCEDIMIENTO 1734 1755	tratamiento paliativo
-T45	PROCEDIMIENTO 1760 1786	colocación de endoprótesis
-T46	PROCEDIMIENTO 1788 1823	endoprótesis biliar tipo wall stent
-T47	PROCEDIMIENTO 2076 2087	transfusión
-T48	PROCEDIMIENTO 2193 2206	arteriografía
-T49	PROCEDIMIENTO 2282 2345	arteriografía selectiva de tronco celíaco y de arteria hepática
-T50	PROCEDIMIENTO 2437 2496	cateterización selectiva para introducción de coil metálico
-T51	PROCEDIMIENTO 2622 2666	arteriografía selectiva esplénica y hepática
-T52	PROCEDIMIENTO 2799 2851	cateterización selectiva de rama con pseudoaneurisma
-T53	PROCEDIMIENTO 2854 2940	introducir coil metálico de 3-5 mm de diámetro consiguiéndose cierre de vaso sangrante
-T54	PROCEDIMIENTO 3013 3037	drenaje de la vía biliar
-T55	PROCEDIMIENTO 387 398	exploración
-T56	PROCEDIMIENTO 451 470	ecografía abdominal
-T57	PROCEDIMIENTO 737 747	ecográfico
+T1	ENFERMEDAD 41 62	ictericia obstructiva
+T2	ENFERMEDAD 1689 1720	neoplasia de cabeza de páncreas
+T3	ENFERMEDAD 1525 1547	obstrucción de catéter
+T4	ENFERMEDAD 515 559	dilatación de vía biliar intra-extrahepática
+T5	ENFERMEDAD 112 137	trombosis venosa profunda
+T6	ENFERMEDAD 2719 2776	pseudoaneurisma de rama intrahepática de arteria hepática
+T7	ENFERMEDAD 561 582	colédoco muy dilatado
+T8	ENFERMEDAD 1153 1191	dilatación de vía biliar intrahepática
+T9	ENFERMEDAD 139 153	ulcus duodenal
+T10	ENFERMEDAD 186 207	cardiopatía isquémica
+T11	ENFERMEDAD 1196 1289	moderada dilatación de colédoco secundario a obstrucción a nivel de porción distal de duodeno
+T12	ENFERMEDAD 2365 2416	pseudoaneurisma de 1 cm en rama de arteria hepática
+T13	ENFERMEDAD 1241 1289	obstrucción a nivel de porción distal de duodeno
+T14	ENFERMEDAD 2532 2580	tortuosidad de tronco celíaco y arteria hepática
+T15	ENFERMEDAD 667 675	litiasis
+T16	ENFERMEDAD 158 183	hemorragia digestiva alta
+T17	ENFERMEDAD 2005 2023	sangrado digestivo
+T18	ENFERMEDAD 864 890	vesícula biliar distendida
+T19	ENFERMEDAD 1511 1520	hemobilia
+T20	PROCEDIMIENTO 451 470	ecografía abdominal
+T21	PROCEDIMIENTO 2622 2666	arteriografía selectiva esplénica y hepática
+T22	PROCEDIMIENTO 2193 2206	arteriografía
+T23	PROCEDIMIENTO 1050 1085	colangiografía transparietohepática
+T24	PROCEDIMIENTO 1734 1755	tratamiento paliativo
+T25	PROCEDIMIENTO 2282 2345	arteriografía selectiva de tronco celíaco y de arteria hepática
+T26	PROCEDIMIENTO 1760 1786	colocación de endoprótesis
+T27	PROCEDIMIENTO 1788 1823	endoprótesis biliar tipo wall stent
+T28	PROCEDIMIENTO 2799 2851	cateterización selectiva de rama con pseudoaneurisma
+T29	PROCEDIMIENTO 2437 2496	cateterización selectiva para introducción de coil metálico
+T30	PROCEDIMIENTO 737 747	ecográfico
+T31	PROCEDIMIENTO 1342 1376	catéter de drenaje interno-externo
+T32	PROCEDIMIENTO 3013 3037	drenaje de la vía biliar
+T33	PROCEDIMIENTO 1445 1459	colangiografía
+T34	PROCEDIMIENTO 2076 2087	transfusión
+T35	PROCEDIMIENTO 387 398	exploración
+T36	PROCEDIMIENTO 2854 2940	introducir coil metálico de 3-5 mm de diámetro consiguiéndose cierre de vaso sangrante
+T37	SINTOMA 247 282	dolor cólico en hipocondrio derecho
+T38	SINTOMA 1511 1520	hemobilia
+T39	SINTOMA 325 331	fiebre
+T40	SINTOMA 333 342	ictericia
+T41	SINTOMA 1571 1605	caída de las cifras de hemoglobina
+T42	SINTOMA 344 351	coluria
+T43	SINTOMA 354 360	acolia
+T44	SINTOMA 363 370	náuseas
+T45	SINTOMA 373 380	vómitos
+T46	SINTOMA 782 822	aumento de volumen de cabeza pancreática
+T47	SINTOMA 2005 2023	sangrado digestivo
+T48	SINTOMA 2989 2997	sangrado
+T49	SINTOMA 709 754	Área pancreática de aspecto ecográfico normal
+T50	SINTOMA 824 861	Wirsung en el límite de la normalidad
+T51	SINTOMA 2682 2716	permeabilidad de eje esplenoportal
+T52	SINTOMA 2926 2940	vaso sangrante
+T53	SINTOMA 399 438	abdomen doloroso en hipocondrio derecho
+T54	SINTOMA 494 510	hígado homogéneo
+T55	SINTOMA 864 890	vesícula biliar distendida
+T56	SINTOMA 41 50	ictericia
+T57	SINTOMA 2254 2269	sangrado activo

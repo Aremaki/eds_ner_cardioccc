@@ -1,21 +1,44 @@
-T1	SINTOMA 1180 1249	aumento de densidad ósea a nivel mandibular en región parasinfisiaria
-T2	SINTOMA 709 729	dolor a la palpación
-T3	SINTOMA 1308 1364	erosión de la cortical mandibular a nivel parasinfisario
-T4	SINTOMA 1391 1414	masa de tejidos blandos
-T5	SINTOMA 2391 2401	tumoración
-T6	SINTOMA 71 131	tumoración en región basal mandibular a nivel parasinfisario
-T7	PROCEDIMIENTO 1143 1165	radiografía panorámica
-T8	PROCEDIMIENTO 1259 1261	TC
-T9	PROCEDIMIENTO 1419 1455	diagnóstico diferencial radiográfico
-T10	PROCEDIMIENTO 1595 1612	anestesia general
-T11	PROCEDIMIENTO 1615 1738	mediante un abordaje cutáneo se realizó la exéresis de la lesión redondeada dura con un margen de seguridad en la mandíbula
-T12	PROCEDIMIENTO 1766 1848	exéresis de los fibromas cervicales en el mismo acto quirúrgico mediante láser CO2
-T13	PROCEDIMIENTO 1873 1885	intervención
-T14	PROCEDIMIENTO 2084 2109	estudio anatomopatológico
-T15	PROCEDIMIENTO 298 317	trasplante de riñón
-T16	PROCEDIMIENTO 334 345	nefrectomía
-T17	PROCEDIMIENTO 507 519	fondo de ojo
-T18	PROCEDIMIENTO 576 595	exploración clínica
-T19	PROCEDIMIENTO 720 729	palpación
-T20	PROCEDIMIENTO 888 909	exploración intraoral
-T21	PROCEDIMIENTO 966 1003	tratamiento crónico anticonvulsivante
+T1	ENFERMEDAD 2116 2138	lesión ósea mandibular
+T2	ENFERMEDAD 1673 1679	lesión
+T3	ENFERMEDAD 251 270	esclerosis tuberosa
+T4	ENFERMEDAD 2367 2401	infiltración ósea de la tumoración
+T5	ENFERMEDAD 1465 1478	ameloblastoma
+T6	ENFERMEDAD 1480 1499	mixoma odontogénico
+T7	ENFERMEDAD 353 373	angiomiolipoma renal
+T8	ENFERMEDAD 1501 1521	quiste aneurismático
+T9	ENFERMEDAD 1523 1544	fibroma condromixoide
+T10	ENFERMEDAD 1546 1564	hemangioma central
+T11	ENFERMEDAD 1567 1587	granuloma eosinófilo
+T12	ENFERMEDAD 431 477	adenoma sebáceo de Pringle a nivel nasogeniano
+T13	ENFERMEDAD 2028 2060	recidiva de la lesión mandibular
+T14	ENFERMEDAD 479 519	hamartomas retinianos en el fondo de ojo
+T15	ENFERMEDAD 2600 2620	fibroma desmoplásico
+T16	ENFERMEDAD 522 568	lesiones fibróticas a nivel cervical posterior
+T17	ENFERMEDAD 610 647	lesión dura y adherida a la mandíbula
+T18	ENFERMEDAD 737 826	piel de la región cervical lateral y en la nuca se observaron múltiples pequeñas lesiones
+T19	ENFERMEDAD 928 948	hiperplasia gingival
+T20	ENFERMEDAD 1035 1053	crisis epilépticas
+T21	ENFERMEDAD 1782 1801	fibromas cervicales
+T22	ENFERMEDAD 1266 1301	excrescencia ósea de tipo condroide
+T23	ENFERMEDAD 1308 1341	erosión de la cortical mandibular
+T24	PROCEDIMIENTO 2084 2109	estudio anatomopatológico
+T25	PROCEDIMIENTO 1595 1612	anestesia general
+T26	PROCEDIMIENTO 1143 1165	radiografía panorámica
+T27	PROCEDIMIENTO 1259 1261	TC
+T28	PROCEDIMIENTO 1766 1848	exéresis de los fibromas cervicales en el mismo acto quirúrgico mediante láser CO2
+T29	PROCEDIMIENTO 298 317	trasplante de riñón
+T30	PROCEDIMIENTO 334 345	nefrectomía
+T31	PROCEDIMIENTO 576 595	exploración clínica
+T32	PROCEDIMIENTO 888 909	exploración intraoral
+T33	PROCEDIMIENTO 966 1003	tratamiento crónico anticonvulsivante
+T34	PROCEDIMIENTO 1615 1738	mediante un abordaje cutáneo se realizó la exéresis de la lesión redondeada dura con un margen de seguridad en la mandíbula
+T35	PROCEDIMIENTO 507 519	fondo de ojo
+T36	PROCEDIMIENTO 1419 1455	diagnóstico diferencial radiográfico
+T37	PROCEDIMIENTO 1873 1885	intervención
+T38	PROCEDIMIENTO 720 729	palpación
+T39	SINTOMA 1391 1414	masa de tejidos blandos
+T40	SINTOMA 709 729	dolor a la palpación
+T41	SINTOMA 71 131	tumoración en región basal mandibular a nivel parasinfisario
+T42	SINTOMA 1180 1249	aumento de densidad ósea a nivel mandibular en región parasinfisiaria
+T43	SINTOMA 1308 1364	erosión de la cortical mandibular a nivel parasinfisario
+T44	SINTOMA 2391 2401	tumoración

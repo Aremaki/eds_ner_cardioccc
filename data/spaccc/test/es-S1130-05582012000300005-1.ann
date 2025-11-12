@@ -1,26 +1,26 @@
-T1	SINTOMA 261 265	masa
-T2	SINTOMA 545 549	masa
-T3	SINTOMA 836 850	masa homogénea
-T4	SINTOMA 643 648	masas
-T5	SINTOMA 325 335	tumoración
-T6	SINTOMA 654 686	exploración intraoral fue normal
-T7	SINTOMA 1108 1118	tumoración
-T8	SINTOMA 234 242	indoloro
-T9	SINTOMA 58 77	tumoración cervical
-T10	ENFERMEDAD 622 633	adenopatías
-T11	ENFERMEDAD 1409 1417	hematoma
-T12	ENFERMEDAD 1715 1721	lipoma
-T13	ENFERMEDAD 1054 1060	lipoma
-T14	ENFERMEDAD 160 176	quiste branquial
-T15	PROCEDIMIENTO 1008 1012	PAAF
-T16	PROCEDIMIENTO 1082 1118	escisión quirúrgica de la tumoración
-T17	PROCEDIMIENTO 1134 1211	abordaje a nivel de la línea posterior del cabello, resecando un huso cutáneo
-T18	PROCEDIMIENTO 130 176	intervención quirúrgica de un quiste branquial
-T19	PROCEDIMIENTO 1409 1495	hematoma de rápido crecimiento a nivel de la sutura posterior que es necesario evacuar
-T20	PROCEDIMIENTO 1519 1586	hemostasia de un pequeño vaso a nivel de músculo trapecio izquierdo
-T21	PROCEDIMIENTO 1657 1684	estudios anatomopatológicos
-T22	PROCEDIMIENTO 654 675	exploración intraoral
-T23	PROCEDIMIENTO 703 721	exploración física
-T24	PROCEDIMIENTO 768 808	resonancia magnética (RM) cérvico-facial
-T25	PROCEDIMIENTO 790 792	RM
-T26	PROCEDIMIENTO 944 1006	toma de una muestra mediante punción-aspiración con aguja fina
+T1	ENFERMEDAD 622 633	adenopatías
+T2	ENFERMEDAD 1409 1417	hematoma
+T3	ENFERMEDAD 1715 1721	lipoma
+T4	ENFERMEDAD 1054 1060	lipoma
+T5	ENFERMEDAD 160 176	quiste branquial
+T6	PROCEDIMIENTO 1657 1684	estudios anatomopatológicos
+T7	PROCEDIMIENTO 703 721	exploración física
+T8	PROCEDIMIENTO 768 808	resonancia magnética (RM) cérvico-facial
+T9	PROCEDIMIENTO 1082 1118	escisión quirúrgica de la tumoración
+T10	PROCEDIMIENTO 790 792	RM
+T11	PROCEDIMIENTO 944 1006	toma de una muestra mediante punción-aspiración con aguja fina
+T12	PROCEDIMIENTO 654 675	exploración intraoral
+T13	PROCEDIMIENTO 1134 1211	abordaje a nivel de la línea posterior del cabello, resecando un huso cutáneo
+T14	PROCEDIMIENTO 1008 1012	PAAF
+T15	PROCEDIMIENTO 130 176	intervención quirúrgica de un quiste branquial
+T16	PROCEDIMIENTO 1519 1586	hemostasia de un pequeño vaso a nivel de músculo trapecio izquierdo
+T17	PROCEDIMIENTO 1409 1495	hematoma de rápido crecimiento a nivel de la sutura posterior que es necesario evacuar
+T18	SINTOMA 58 77	tumoración cervical
+T19	SINTOMA 234 242	indoloro
+T20	SINTOMA 261 265	masa
+T21	SINTOMA 545 549	masa
+T22	SINTOMA 836 850	masa homogénea
+T23	SINTOMA 643 648	masas
+T24	SINTOMA 325 335	tumoración
+T25	SINTOMA 654 686	exploración intraoral fue normal
+T26	SINTOMA 1108 1118	tumoración

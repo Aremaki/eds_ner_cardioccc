@@ -1,18 +1,30 @@
-T1	SINTOMA 1727 1734	afebril
-T2	SINTOMA 553 562	colección
-T3	SINTOMA 519 545	colección peri-pancreática
-T4	SINTOMA 684 709	colección retroperitoneal
-T5	SINTOMA 1465 1509	cultivo positivo para Pseudomona Aureaginosa
-T6	SINTOMA 743 776	débito persistente por el drenaje
-T7	SINTOMA 797 825	deterioro del estado general
-T8	SINTOMA 788 794	fiebre
-T9	SINTOMA 893 954	líquido encapsulado con nivel hidroaéreo en el flanco derecho
-T10	SINTOMA 1164 1227	lumboscopia, evacuando abundante material necrotico y purulento
-T11	SINTOMA 1433 1451	registros febriles
-T12	SINTOMA 58 99	serologia positiva para HIV y Hepatitis B
-T13	ENFERMEDAD 1090 1135	absceso parietocólico derecho extraperitoneal
-T14	ENFERMEDAD 292 299	bilioma
-T15	ENFERMEDAD 519 545	colección peri-pancreática
-T16	ENFERMEDAD 123 141	colecistitis aguda
-T17	ENFERMEDAD 684 709	colección retroperitoneal
-T18	ENFERMEDAD 477 495	pancreatitis aguda
+T1	ENFERMEDAD 1090 1135	absceso parietocólico derecho extraperitoneal
+T2	ENFERMEDAD 292 299	bilioma
+T3	ENFERMEDAD 519 545	colección peri-pancreática
+T4	ENFERMEDAD 123 141	colecistitis aguda
+T5	ENFERMEDAD 684 709	colección retroperitoneal
+T6	ENFERMEDAD 477 495	pancreatitis aguda
+T7	PROCEDIMIENTO 1147 1175	drenaje mediante lumboscopia
+T8	PROCEDIMIENTO 292 339	bilioma el cual es evacuado en forma percutánea
+T9	PROCEDIMIENTO 373 426	derivación biliar mediante colangiografia endoscopica
+T10	PROCEDIMIENTO 168 197	colecistectomia laparoscopica
+T11	PROCEDIMIENTO 838 878	tomografía computada de abdomen y pelvis
+T12	PROCEDIMIENTO 1465 1472	cultivo
+T13	PROCEDIMIENTO 1229 1362	Se colocaron dos drenajes de silicona pura enfrentados, confeccionando un sistema de lavado continuo, utilizando solución fisiológica
+T14	PROCEDIMIENTO 1735 1757	retirándose el drenaje
+T15	PROCEDIMIENTO 553 603	colección se evacua mediante un drenaje percutáneo
+T16	PROCEDIMIENTO 1602 1633	se reemplazó el lavado continuo
+T17	PROCEDIMIENTO 1641 1662	sistema de hemosuctor
+T18	PROCEDIMIENTO 259 266	cirugía
+T19	SINTOMA 1727 1734	afebril
+T20	SINTOMA 1433 1451	registros febriles
+T21	SINTOMA 788 794	fiebre
+T22	SINTOMA 797 825	deterioro del estado general
+T23	SINTOMA 1465 1509	cultivo positivo para Pseudomona Aureaginosa
+T24	SINTOMA 58 99	serologia positiva para HIV y Hepatitis B
+T25	SINTOMA 743 776	débito persistente por el drenaje
+T26	SINTOMA 893 954	líquido encapsulado con nivel hidroaéreo en el flanco derecho
+T27	SINTOMA 553 562	colección
+T28	SINTOMA 684 709	colección retroperitoneal
+T29	SINTOMA 1164 1227	lumboscopia, evacuando abundante material necrotico y purulento
+T30	SINTOMA 519 545	colección peri-pancreática

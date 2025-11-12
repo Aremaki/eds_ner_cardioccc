@@ -1,11 +1,16 @@
-T1	SINTOMA 711 729	cambio de carácter
-T2	SINTOMA 638 664	carga viral ya es negativa
-T3	SINTOMA 1291 1317	carga viral ya es negativa
-T4	SINTOMA 745 762	ideas de suicidio
-T5	SINTOMA 731 742	agresividad
-T6	ENFERMEDAD 37 53	cirrosis por VHC
-T7	ENFERMEDAD 119 133	esplenomegalia
-T8	ENFERMEDAD 135 154	hipertensión portal
-T9	ENFERMEDAD 157 177	leucotrombocitopenia
-T10	ENFERMEDAD 195 231	adicción a drogas por vía parenteral
-T11	ENFERMEDAD 690 709	lesiones en la piel
+T1	ENFERMEDAD 37 53	cirrosis por VHC
+T2	ENFERMEDAD 119 133	esplenomegalia
+T3	ENFERMEDAD 135 154	hipertensión portal
+T4	ENFERMEDAD 157 177	leucotrombocitopenia
+T5	ENFERMEDAD 195 231	adicción a drogas por vía parenteral
+T6	ENFERMEDAD 690 709	lesiones en la piel
+T7	PROCEDIMIENTO 997 1009	psicofármaco
+T8	PROCEDIMIENTO 638 649	carga viral
+T9	PROCEDIMIENTO 1291 1302	carga viral
+T10	PROCEDIMIENTO 67 76	fibroscan
+T11	PROCEDIMIENTO 1077 1097	tratamiento para VHC
+T12	SINTOMA 745 762	ideas de suicidio
+T13	SINTOMA 731 742	agresividad
+T14	SINTOMA 711 729	cambio de carácter
+T15	SINTOMA 638 664	carga viral ya es negativa
+T16	SINTOMA 1291 1317	carga viral ya es negativa

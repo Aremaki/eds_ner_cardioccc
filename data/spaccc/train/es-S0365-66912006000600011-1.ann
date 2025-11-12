@@ -1,31 +1,31 @@
-T1	SINTOMA 897 936	ángulo estrecho simétrico en ambos ojos
-T2	SINTOMA 629 657	cámara anterior era estrecha
-T3	SINTOMA 1127 1141	cierre angular
-T4	SINTOMA 735 809	desplazamiento anterior de ambos cristalinos dentro de la cámara posterior
-T5	SINTOMA 1281 1289	diplopía
-T6	SINTOMA 432 450	diplopía monocular
-T7	SINTOMA 1067 1105	fondo de ojo no mostraron alteraciones
-T8	SINTOMA 672 698	iridofacodonesis bilateral
-T9	SINTOMA 66 77	mala visión
-T10	SINTOMA 470 510	motilidad ocular extrínseca e intrínseca
-T11	SINTOMA 1789 1794	sanos
-T12	SINTOMA 110 121	talla corta
-T13	ENFERMEDAD 150 162	braquimorfia
-T14	ENFERMEDAD 165 206	braquidactilia en las cuatro extremidades
-T15	ENFERMEDAD 432 450	diplopía monocular
-T16	ENFERMEDAD 672 698	iridofacodonesis bilateral
-T17	ENFERMEDAD 1127 1141	cierre angular
-T18	ENFERMEDAD 1281 1289	diplopía
-T19	ENFERMEDAD 1528 1545	daño glaucomatoso
-T20	ENFERMEDAD 1728 1740	esferofaquia
-T21	ENFERMEDAD 1742 1754	braquimorfia
-T22	ENFERMEDAD 1757 1771	braquidactilia
-T23	ENFERMEDAD 713 730	microesferofaquia
-T24	ENFERMEDAD 110 121	talla corta
-T25	PROCEDIMIENTO 1056 1079	examen del fondo de ojo
-T26	PROCEDIMIENTO 1157 1194	iridotomía láser Nd:YAG en ambos ojos
-T27	PROCEDIMIENTO 1467 1497	realización de campos visuales
-T28	PROCEDIMIENTO 37 61	valoración oftalmológica
-T29	PROCEDIMIENTO 577 588	paquimetría
-T30	PROCEDIMIENTO 865 882	Gonioscópicamente
-T31	PROCEDIMIENTO 965 1006	exploración mediante topógrafo Orbscan-II
+T1	ENFERMEDAD 150 162	braquimorfia
+T2	ENFERMEDAD 165 206	braquidactilia en las cuatro extremidades
+T3	ENFERMEDAD 432 450	diplopía monocular
+T4	ENFERMEDAD 672 698	iridofacodonesis bilateral
+T5	ENFERMEDAD 1127 1141	cierre angular
+T6	ENFERMEDAD 1281 1289	diplopía
+T7	ENFERMEDAD 1528 1545	daño glaucomatoso
+T8	ENFERMEDAD 1728 1740	esferofaquia
+T9	ENFERMEDAD 1742 1754	braquimorfia
+T10	ENFERMEDAD 1757 1771	braquidactilia
+T11	ENFERMEDAD 713 730	microesferofaquia
+T12	ENFERMEDAD 110 121	talla corta
+T13	PROCEDIMIENTO 37 61	valoración oftalmológica
+T14	PROCEDIMIENTO 965 1006	exploración mediante topógrafo Orbscan-II
+T15	PROCEDIMIENTO 1056 1079	examen del fondo de ojo
+T16	PROCEDIMIENTO 1157 1194	iridotomía láser Nd:YAG en ambos ojos
+T17	PROCEDIMIENTO 1467 1497	realización de campos visuales
+T18	PROCEDIMIENTO 865 882	Gonioscópicamente
+T19	PROCEDIMIENTO 577 588	paquimetría
+T20	SINTOMA 66 77	mala visión
+T21	SINTOMA 110 121	talla corta
+T22	SINTOMA 897 936	ángulo estrecho simétrico en ambos ojos
+T23	SINTOMA 629 657	cámara anterior era estrecha
+T24	SINTOMA 470 510	motilidad ocular extrínseca e intrínseca
+T25	SINTOMA 672 698	iridofacodonesis bilateral
+T26	SINTOMA 735 809	desplazamiento anterior de ambos cristalinos dentro de la cámara posterior
+T27	SINTOMA 1067 1105	fondo de ojo no mostraron alteraciones
+T28	SINTOMA 432 450	diplopía monocular
+T29	SINTOMA 1127 1141	cierre angular
+T30	SINTOMA 1281 1289	diplopía
+T31	SINTOMA 1789 1794	sanos

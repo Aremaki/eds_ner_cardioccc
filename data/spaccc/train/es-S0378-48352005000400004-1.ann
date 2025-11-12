@@ -1,32 +1,32 @@
-T1	SINTOMA 1355 1389	amiloide con tinción de Rojo Congo
-T2	SINTOMA 93 135	dolor en hombro izquierdo y columna lumbar
-T3	SINTOMA 2412 2419	fallece
-T4	SINTOMA 346 426	Gastroscopia, enema opaco, ecografía abdominal, testicular y prostática normales
-T5	SINTOMA 2301 2324	mal estado del paciente
-T6	SINTOMA 1853 1887	nódulo tiroideo sólido, con calcio
-T7	SINTOMA 1668 1680	PSA normales
-T8	ENFERMEDAD 1989 2007	patología tiroidea
-T9	ENFERMEDAD 318 344	neoplasia a nivel visceral
-T10	ENFERMEDAD 2340 2363	metástasis a nivel óseo
-T11	ENFERMEDAD 2379 2398	metástasis pulmonar
-T12	ENFERMEDAD 1451 1499	metástasis ósea de Carcinoma Medular de Tiroides
-T13	ENFERMEDAD 627 636	neoplasia
-T14	ENFERMEDAD 223 259	lesiones óseas líticas generalizadas
-T15	PROCEDIMIENTO 1368 1389	tinción de Rojo Congo
-T16	PROCEDIMIENTO 140 153	examen físico
-T17	PROCEDIMIENTO 156 165	analítica
-T18	PROCEDIMIENTO 1826 1908	ecográficamente un pequeño nódulo tiroideo sólido, con calcio, en lóbulo izquierdo
-T19	PROCEDIMIENTO 1917 1927	se extirpa
-T20	PROCEDIMIENTO 196 215	estudio radiológico
-T21	PROCEDIMIENTO 2047 2076	quimioterapia (CDDP-ADR-VP16)
-T22	PROCEDIMIENTO 2123 2171	radioterapia paliativa a la columna dorso lumbar
-T23	PROCEDIMIENTO 2237 2262	quimioterapia, (CTX-DTIC)
-T24	PROCEDIMIENTO 2253 2261	CTX-DTIC
-T25	PROCEDIMIENTO 2472 2481	necropsia
-T26	PROCEDIMIENTO 261 283	TAC torácico abdominal
-T27	PROCEDIMIENTO 346 358	Gastroscopia
-T28	PROCEDIMIENTO 360 371	enema opaco
-T29	PROCEDIMIENTO 373 417	ecografía abdominal, testicular y prostática
-T30	PROCEDIMIENTO 480 520	biopsia de médula ósea, en cresta ilíaca
-T31	PROCEDIMIENTO 522 555	Microscópicamente, la médula ósea
-T32	PROCEDIMIENTO 953 979	estudio inmunohistoquímico
+T1	ENFERMEDAD 1989 2007	patología tiroidea
+T2	ENFERMEDAD 318 344	neoplasia a nivel visceral
+T3	ENFERMEDAD 2340 2363	metástasis a nivel óseo
+T4	ENFERMEDAD 2379 2398	metástasis pulmonar
+T5	ENFERMEDAD 1451 1499	metástasis ósea de Carcinoma Medular de Tiroides
+T6	ENFERMEDAD 627 636	neoplasia
+T7	ENFERMEDAD 223 259	lesiones óseas líticas generalizadas
+T8	PROCEDIMIENTO 2047 2076	quimioterapia (CDDP-ADR-VP16)
+T9	PROCEDIMIENTO 2123 2171	radioterapia paliativa a la columna dorso lumbar
+T10	PROCEDIMIENTO 140 153	examen físico
+T11	PROCEDIMIENTO 1826 1908	ecográficamente un pequeño nódulo tiroideo sólido, con calcio, en lóbulo izquierdo
+T12	PROCEDIMIENTO 2237 2262	quimioterapia, (CTX-DTIC)
+T13	PROCEDIMIENTO 261 283	TAC torácico abdominal
+T14	PROCEDIMIENTO 346 358	Gastroscopia
+T15	PROCEDIMIENTO 360 371	enema opaco
+T16	PROCEDIMIENTO 373 417	ecografía abdominal, testicular y prostática
+T17	PROCEDIMIENTO 2472 2481	necropsia
+T18	PROCEDIMIENTO 480 520	biopsia de médula ósea, en cresta ilíaca
+T19	PROCEDIMIENTO 522 555	Microscópicamente, la médula ósea
+T20	PROCEDIMIENTO 953 979	estudio inmunohistoquímico
+T21	PROCEDIMIENTO 196 215	estudio radiológico
+T22	PROCEDIMIENTO 1917 1927	se extirpa
+T23	PROCEDIMIENTO 2253 2261	CTX-DTIC
+T24	PROCEDIMIENTO 156 165	analítica
+T25	PROCEDIMIENTO 1368 1389	tinción de Rojo Congo
+T26	SINTOMA 93 135	dolor en hombro izquierdo y columna lumbar
+T27	SINTOMA 1853 1887	nódulo tiroideo sólido, con calcio
+T28	SINTOMA 1668 1680	PSA normales
+T29	SINTOMA 346 426	Gastroscopia, enema opaco, ecografía abdominal, testicular y prostática normales
+T30	SINTOMA 2301 2324	mal estado del paciente
+T31	SINTOMA 1355 1389	amiloide con tinción de Rojo Congo
+T32	SINTOMA 2412 2419	fallece

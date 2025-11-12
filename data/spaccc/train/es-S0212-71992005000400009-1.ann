@@ -1,25 +1,65 @@
-T1	SINTOMA 2544 2624	actividad osteogénica intensamente aumentada a nivel de la articulación esternal
-T2	SINTOMA 2707 2784	captación de gadolinio en la articulación del manubrio con el cuerpo esternal
-T3	SINTOMA 2016 2059	cultivo fue también positivo para S. aureus
-T4	SINTOMA 474 495	dolor en el hemitórax
-T5	SINTOMA 1723 1777	ecocardiografía transtorácica mostró imágenes normales
-T6	SINTOMA 2083 2114	ecografía de abdomen fue normal
-T7	SINTOMA 1183 1194	eosinofilia
-T8	SINTOMA 941 993	exploraciones cardiaca y neurológica fueron normales
-T9	SINTOMA 637 643	fiebre
-T10	SINTOMA 1623 1700	hemocultivos seriados que resultaron ser positivos para Staphylococcus aureus
-T11	SINTOMA 2229 2266	imágenes nodulares en lóbulo superior
-T12	SINTOMA 1854 1909	lesión eritematosa y caliente en la región paraesternal
-T13	SINTOMA 1029 1041	leucocitosis
-T14	SINTOMA 2489 2513	líquido en cavidad libre
-T15	SINTOMA 762 780	mal estado general
-T16	SINTOMA 880 927	murmullo vesicular estaba disminuido en la base
-T17	SINTOMA 1095 1106	neutrofilia
-T18	SINTOMA 3750 3890	niveles de complemento, subpoblaciones y marcadores linfocitarios, capacidad oxidativa de granulocitos y funcionalidad linfocitaria normales
-T19	SINTOMA 4101 4143	Niveles ligeramente elevados de IgE e IgG4
-T20	SINTOMA 1004 1018	organomegalias
-T21	SINTOMA 2174 2198	prominencia intersticial
-T22	SINTOMA 646 664	sensación disneica
-T23	SINTOMA 1533 1607	serología para VIH y para los virus B y C de la hepatitis fueron negativas
-T24	SINTOMA 3098 3124	signos de destrucción ósea
-T25	SINTOMA 2430 2455	TAC de abdomen fue normal
+T1	ENFERMEDAD 1782 1801	derrame pericárdico
+T2	ENFERMEDAD 65 73	neumonía
+T3	ENFERMEDAD 1854 1909	lesión eritematosa y caliente en la región paraesternal
+T4	ENFERMEDAD 157 182	asma bronquial extrínseco
+T5	ENFERMEDAD 185 255	rinoconjuntivitis alérgica con hipersensibilidad a gramíneas y a olivo
+T6	ENFERMEDAD 2144 2169	derrame pleural izquierdo
+T7	ENFERMEDAD 2474 2485	adenopatías
+T8	ENFERMEDAD 787 837	lesión en fase cicatricial en la pared del abdomen
+T9	ENFERMEDAD 3033 3041	artritis
+T10	ENFERMEDAD 3074 3087	osteomielitis
+T11	ENFERMEDAD 3566 3593	lesión dérmica paraesternal
+T12	ENFERMEDAD 3663 3689	inmunodeficiencia primaria
+T13	ENFERMEDAD 99 106	fumador
+T14	ENFERMEDAD 1581 1590	hepatitis
+T15	ENFERMEDAD 117 131	hábito etílico
+T16	ENFERMEDAD 866 875	forúnculo
+T17	ENFERMEDAD 2004 2010	lesión
+T18	ENFERMEDAD 2393 2417	abscesos estafilocócicos
+T19	ENFERMEDAD 2640 2648	artritis
+T20	PROCEDIMIENTO 1723 1752	ecocardiografía transtorácica
+T21	PROCEDIMIENTO 271 292	corticoides inhalados
+T22	PROCEDIMIENTO 2083 2103	ecografía de abdomen
+T23	PROCEDIMIENTO 2122 2134	TAC de tórax
+T24	PROCEDIMIENTO 1533 1590	serología para VIH y para los virus B y C de la hepatitis
+T25	PROCEDIMIENTO 1623 1644	hemocultivos seriados
+T26	PROCEDIMIENTO 2430 2444	TAC de abdomen
+T27	PROCEDIMIENTO 715 734	exploración clínica
+T28	PROCEDIMIENTO 2518 2534	gammagrafía ósea
+T29	PROCEDIMIENTO 941 977	exploraciones cardiaca y neurológica
+T30	PROCEDIMIENTO 2681 2697	RMN del esternón
+T31	PROCEDIMIENTO 3750 3772	niveles de complemento
+T32	PROCEDIMIENTO 1980 2010	Se aspiró líquido de la lesión
+T33	PROCEDIMIENTO 2004 2023	lesión cuyo cultivo
+T34	PROCEDIMIENTO 3172 3195	tratamiento antibiótico
+T35	PROCEDIMIENTO 3774 3815	subpoblaciones y marcadores linfocitarios
+T36	PROCEDIMIENTO 3817 3852	capacidad oxidativa de granulocitos
+T37	PROCEDIMIENTO 3855 3881	funcionalidad linfocitaria
+T38	PROCEDIMIENTO 4340 4368	títulos de isohemaglutininas
+T39	PROCEDIMIENTO 1939 1952	dígitopresión
+T40	PROCEDIMIENTO 2720 2729	gadolinio
+T41	SINTOMA 2083 2114	ecografía de abdomen fue normal
+T42	SINTOMA 474 495	dolor en el hemitórax
+T43	SINTOMA 1533 1607	serología para VIH y para los virus B y C de la hepatitis fueron negativas
+T44	SINTOMA 1623 1700	hemocultivos seriados que resultaron ser positivos para Staphylococcus aureus
+T45	SINTOMA 637 643	fiebre
+T46	SINTOMA 646 664	sensación disneica
+T47	SINTOMA 2430 2455	TAC de abdomen fue normal
+T48	SINTOMA 762 780	mal estado general
+T49	SINTOMA 880 927	murmullo vesicular estaba disminuido en la base
+T50	SINTOMA 941 993	exploraciones cardiaca y neurológica fueron normales
+T51	SINTOMA 2707 2784	captación de gadolinio en la articulación del manubrio con el cuerpo esternal
+T52	SINTOMA 3098 3124	signos de destrucción ósea
+T53	SINTOMA 1029 1041	leucocitosis
+T54	SINTOMA 1723 1777	ecocardiografía transtorácica mostró imágenes normales
+T55	SINTOMA 2016 2059	cultivo fue también positivo para S. aureus
+T56	SINTOMA 2229 2266	imágenes nodulares en lóbulo superior
+T57	SINTOMA 2489 2513	líquido en cavidad libre
+T58	SINTOMA 2544 2624	actividad osteogénica intensamente aumentada a nivel de la articulación esternal
+T59	SINTOMA 1095 1106	neutrofilia
+T60	SINTOMA 1183 1194	eosinofilia
+T61	SINTOMA 1854 1909	lesión eritematosa y caliente en la región paraesternal
+T62	SINTOMA 2174 2198	prominencia intersticial
+T63	SINTOMA 3750 3890	niveles de complemento, subpoblaciones y marcadores linfocitarios, capacidad oxidativa de granulocitos y funcionalidad linfocitaria normales
+T64	SINTOMA 4101 4143	Niveles ligeramente elevados de IgE e IgG4
+T65	SINTOMA 1004 1018	organomegalias

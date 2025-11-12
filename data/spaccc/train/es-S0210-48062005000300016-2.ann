@@ -1,67 +1,67 @@
-T1	SINTOMA 932 1007	Abdomen doloroso a la palpación profunda en fosa ilíaca y flanco izquierdos
-T2	SINTOMA 1976 2007	alteraciones intra-peritoneales
-T3	SINTOMA 2987 3157	anticoagulante lúpico, ac. anti-cardiolipina, ANCA's, detección de crioglobulinas, ANA's, determinación de inmunoglobulinas y fracciones del complemento) resultó negativo
-T4	SINTOMA 3262 3274	asintomático
-T5	SINTOMA 1709 1743	captación de contraste en el riñón
-T6	SINTOMA 1490 1529	coagulación no presentaron alteraciones
-T7	SINTOMA 1013 1020	defensa
-T8	SINTOMA 2753 2773	déficit de perfusión
-T9	SINTOMA 2636 2684	déficit de perfusión del polo inferior del riñón
-T10	SINTOMA 1181 1217	déficit de perfusión en extremidades
-T11	SINTOMA 3596 3632	déficit funcional de la unidad renal
-T12	SINTOMA 839 850	diaforético
-T13	SINTOMA 61 73	dolor lumbar
-T14	SINTOMA 324 340	dolor precordial
-T15	SINTOMA 1267 1305	ecografía renal no evidenció anomalías
-T16	SINTOMA 1219 1262	Examen neurológico general sin alteraciones
-T17	SINTOMA 245 267	hematuria macroscópica
-T18	SINTOMA 1037 1058	irritación peritoneal
-T19	SINTOMA 270 310	molestias en el tracto urinario inferior
-T20	SINTOMA 661 703	molestias osteoarticulares o respiratorias
-T21	SINTOMA 1100 1131	Murphy renal bilateral negativo
-T22	SINTOMA 222 229	náuseas
-T23	SINTOMA 115 134	posición antiálgica
-T24	SINTOMA 874 906	pulsaciones por minuto, rítmicas
-T25	SINTOMA 1147 1175	pulsos arteriales simétricos
-T26	SINTOMA 1060 1074	RHA disminuido
-T27	SINTOMA 1546 1559	ritmo sinusal
-T28	SINTOMA 1080 1098	soplos abdominales
-T29	SINTOMA 232 239	vómitos
-T30	ENFERMEDAD 1321 1351	dilatación del tracto urinario
-T31	ENFERMEDAD 2481 2520	patología del aparato valvular cardiaco
-T32	ENFERMEDAD 245 267	hematuria macroscópica
-T33	ENFERMEDAD 1594 1619	isquemia miocárdica aguda
-T34	ENFERMEDAD 421 452	accidente isquémico transitorio
-T35	ENFERMEDAD 526 543	arritmia cardíaca
-T36	ENFERMEDAD 546 558	valvulopatía
-T37	ENFERMEDAD 570 595	episodios tromboembólicos
-T38	ENFERMEDAD 638 655	litiasis urinaria
-T39	ENFERMEDAD 1923 1941	dilatación aórtica
-T40	ENFERMEDAD 1944 1970	aneurisma de arteria renal
-T41	ENFERMEDAD 711 727	abuso de cocaína
-T42	ENFERMEDAD 751 766	hepatitis B o C
-T43	ENFERMEDAD 2272 2291	episodios embólicos
-T44	ENFERMEDAD 342 354	Hipertensión
-T45	ENFERMEDAD 3300 3309	embolismo
-T46	ENFERMEDAD 3331 3351	enfermedad sistémica
-T47	ENFERMEDAD 3404 3416	hipertensión
-T48	ENFERMEDAD 2540 2563	vegetaciones valvulares
-T49	ENFERMEDAD 1840 1848	isquemia
-T50	ENFERMEDAD 2586 2607	discinesia miocárdica
-T51	ENFERMEDAD 2843 2918	macro/ microaneurismas o alteraciones de la arteria renal principal o aorta
-T52	ENFERMEDAD 2950 2985	enfermedad protrombótica y vascular
-T53	PROCEDIMIENTO 1100 1122	Murphy renal bilateral
-T54	PROCEDIMIENTO 1219 1245	Examen neurológico general
-T55	PROCEDIMIENTO 1267 1282	ecografía renal
-T56	PROCEDIMIENTO 1476 1501	parámetros de coagulación
-T57	PROCEDIMIENTO 1534 1537	ECG
-T58	PROCEDIMIENTO 1636 1659	TAC abdominal y pélvico
-T59	PROCEDIMIENTO 2199 2225	hipo-coagulación sistémica
-T60	PROCEDIMIENTO 2294 2303	analgesia
-T61	PROCEDIMIENTO 2457 2472	ecocardiografía
-T62	PROCEDIMIENTO 2612 2625	arteriografía
-T63	PROCEDIMIENTO 3077 3139	determinación de inmunoglobulinas y fracciones del complemento
-T64	PROCEDIMIENTO 3373 3389	anti-coagulación
-T65	PROCEDIMIENTO 3555 3567	cintilograma
-T66	PROCEDIMIENTO 813 826	examen físico
-T67	PROCEDIMIENTO 954 1007	palpación profunda en fosa ilíaca y flanco izquierdos
+T1	ENFERMEDAD 1321 1351	dilatación del tracto urinario
+T2	ENFERMEDAD 2481 2520	patología del aparato valvular cardiaco
+T3	ENFERMEDAD 245 267	hematuria macroscópica
+T4	ENFERMEDAD 1594 1619	isquemia miocárdica aguda
+T5	ENFERMEDAD 421 452	accidente isquémico transitorio
+T6	ENFERMEDAD 526 543	arritmia cardíaca
+T7	ENFERMEDAD 546 558	valvulopatía
+T8	ENFERMEDAD 570 595	episodios tromboembólicos
+T9	ENFERMEDAD 638 655	litiasis urinaria
+T10	ENFERMEDAD 1923 1941	dilatación aórtica
+T11	ENFERMEDAD 1944 1970	aneurisma de arteria renal
+T12	ENFERMEDAD 711 727	abuso de cocaína
+T13	ENFERMEDAD 751 766	hepatitis B o C
+T14	ENFERMEDAD 2272 2291	episodios embólicos
+T15	ENFERMEDAD 342 354	Hipertensión
+T16	ENFERMEDAD 3300 3309	embolismo
+T17	ENFERMEDAD 3331 3351	enfermedad sistémica
+T18	ENFERMEDAD 3404 3416	hipertensión
+T19	ENFERMEDAD 2540 2563	vegetaciones valvulares
+T20	ENFERMEDAD 1840 1848	isquemia
+T21	ENFERMEDAD 2586 2607	discinesia miocárdica
+T22	ENFERMEDAD 2843 2918	macro/ microaneurismas o alteraciones de la arteria renal principal o aorta
+T23	ENFERMEDAD 2950 2985	enfermedad protrombótica y vascular
+T24	PROCEDIMIENTO 1267 1282	ecografía renal
+T25	PROCEDIMIENTO 813 826	examen físico
+T26	PROCEDIMIENTO 2457 2472	ecocardiografía
+T27	PROCEDIMIENTO 954 1007	palpación profunda en fosa ilíaca y flanco izquierdos
+T28	PROCEDIMIENTO 1534 1537	ECG
+T29	PROCEDIMIENTO 1636 1659	TAC abdominal y pélvico
+T30	PROCEDIMIENTO 1219 1245	Examen neurológico general
+T31	PROCEDIMIENTO 2199 2225	hipo-coagulación sistémica
+T32	PROCEDIMIENTO 2294 2303	analgesia
+T33	PROCEDIMIENTO 2612 2625	arteriografía
+T34	PROCEDIMIENTO 3077 3139	determinación de inmunoglobulinas y fracciones del complemento
+T35	PROCEDIMIENTO 1476 1501	parámetros de coagulación
+T36	PROCEDIMIENTO 3555 3567	cintilograma
+T37	PROCEDIMIENTO 3373 3389	anti-coagulación
+T38	PROCEDIMIENTO 1100 1122	Murphy renal bilateral
+T39	SINTOMA 839 850	diaforético
+T40	SINTOMA 61 73	dolor lumbar
+T41	SINTOMA 874 906	pulsaciones por minuto, rítmicas
+T42	SINTOMA 115 134	posición antiálgica
+T43	SINTOMA 222 229	náuseas
+T44	SINTOMA 1037 1058	irritación peritoneal
+T45	SINTOMA 232 239	vómitos
+T46	SINTOMA 1060 1074	RHA disminuido
+T47	SINTOMA 270 310	molestias en el tracto urinario inferior
+T48	SINTOMA 1080 1098	soplos abdominales
+T49	SINTOMA 1100 1131	Murphy renal bilateral negativo
+T50	SINTOMA 324 340	dolor precordial
+T51	SINTOMA 1147 1175	pulsos arteriales simétricos
+T52	SINTOMA 1181 1217	déficit de perfusión en extremidades
+T53	SINTOMA 1976 2007	alteraciones intra-peritoneales
+T54	SINTOMA 3262 3274	asintomático
+T55	SINTOMA 1546 1559	ritmo sinusal
+T56	SINTOMA 1219 1262	Examen neurológico general sin alteraciones
+T57	SINTOMA 1267 1305	ecografía renal no evidenció anomalías
+T58	SINTOMA 1490 1529	coagulación no presentaron alteraciones
+T59	SINTOMA 2636 2684	déficit de perfusión del polo inferior del riñón
+T60	SINTOMA 245 267	hematuria macroscópica
+T61	SINTOMA 661 703	molestias osteoarticulares o respiratorias
+T62	SINTOMA 932 1007	Abdomen doloroso a la palpación profunda en fosa ilíaca y flanco izquierdos
+T63	SINTOMA 1013 1020	defensa
+T64	SINTOMA 1709 1743	captación de contraste en el riñón
+T65	SINTOMA 3596 3632	déficit funcional de la unidad renal
+T66	SINTOMA 2753 2773	déficit de perfusión
+T67	SINTOMA 2987 3157	anticoagulante lúpico, ac. anti-cardiolipina, ANCA's, detección de crioglobulinas, ANA's, determinación de inmunoglobulinas y fracciones del complemento) resultó negativo

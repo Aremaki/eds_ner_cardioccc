@@ -1,47 +1,48 @@
-T1	SINTOMA 533 540	astenia
-T2	SINTOMA 552 559	prurito
-T3	SINTOMA 589 596	coluria
-T4	SINTOMA 599 605	acolia
-T5	SINTOMA 783 794	peritonismo
-T6	SINTOMA 542 550	anorexia
-T7	SINTOMA 1213 1221	antiHBe-
-T8	SINTOMA 1179 1187	antiHBs-
-T9	SINTOMA 2039 2063	DNA del VHB fue negativo
-T10	SINTOMA 1249 1265	DNA VHB positivo
-T11	SINTOMA 2345 2377	dolor en columna dorsal y hombro
-T12	SINTOMA 2310 2327	elevación del PSA
-T13	SINTOMA 1204 1210	HBeAg+
-T14	SINTOMA 1171 1177	HBsAg+
-T15	SINTOMA 1330 1353	hígado de tamaño normal
-T16	SINTOMA 562 583	ictericia mucocutánea
-T17	SINTOMA 670 691	ictericia mucocutánea
-T18	SINTOMA 1153 1169	IgM VHA negativo
-T19	SINTOMA 1189 1202	lgM anticore+
-T20	SINTOMA 1223 1247	Marcadores VHC negativos
-T21	SINTOMA 723 778	reborde costal derecho dolorosa a la palpación profunda
-T22	SINTOMA 1139 1151	VIH negativo
-T23	ENFERMEDAD 1736 1763	fracaso hepático fulminante
-T24	ENFERMEDAD 45 103	adenocarcinoma de próstata estadio D2 con metástasis óseas
-T25	ENFERMEDAD 87 103	metástasis óseas
-T26	ENFERMEDAD 1560 1594	hepatitis aguda de etiología viral
-T27	ENFERMEDAD 1631 1646	fibrosis portal
-T28	ENFERMEDAD 1873 1894	hepatitis aguda viral
-T29	ENFERMEDAD 1451 1470	hipertensión portal
-T30	ENFERMEDAD 693 706	hepatomegalia
-T31	ENFERMEDAD 303 329	quiste hidotídico pulmonar
-T32	ENFERMEDAD 427 452	isquemia arterial crónica
-T33	ENFERMEDAD 455 483	aneurisma en aorta abdominal
-T34	ENFERMEDAD 1397 1405	lesiones
-T35	PROCEDIMIENTO 1129 1138	Serologia
-T36	PROCEDIMIENTO 1223 1237	Marcadores VHC
-T37	PROCEDIMIENTO 1271 1290	ecografía abdominal
-T38	PROCEDIMIENTO 1487 1516	biopsia hepática transyugular
-T39	PROCEDIMIENTO 169 182	químioterapia
-T40	PROCEDIMIENTO 2261 2274	quimioterapia
-T41	PROCEDIMIENTO 237 246	analítica
-T42	PROCEDIMIENTO 292 329	cirugia de quiste hidotídico pulmonar
-T43	PROCEDIMIENTO 356 384	transfusión de hemoderivados
-T44	PROCEDIMIENTO 386 414	bypass iliofemoral izquierda
-T45	PROCEDIMIENTO 641 659	exploración física
-T46	PROCEDIMIENTO 760 778	palpación profunda
-T47	PROCEDIMIENTO 799 817	análisis de sangre
+T1	ENFERMEDAD 1736 1763	fracaso hepático fulminante
+T2	ENFERMEDAD 45 103	adenocarcinoma de próstata estadio D2 con metástasis óseas
+T3	ENFERMEDAD 87 103	metástasis óseas
+T4	ENFERMEDAD 1560 1594	hepatitis aguda de etiología viral
+T5	ENFERMEDAD 1631 1646	fibrosis portal
+T6	ENFERMEDAD 1873 1894	hepatitis aguda viral
+T7	ENFERMEDAD 1451 1470	hipertensión portal
+T8	ENFERMEDAD 693 706	hepatomegalia
+T9	ENFERMEDAD 303 329	quiste hidotídico pulmonar
+T10	ENFERMEDAD 427 452	isquemia arterial crónica
+T11	ENFERMEDAD 455 483	aneurisma en aorta abdominal
+T12	ENFERMEDAD 1397 1405	lesiones
+T13	PROCEDIMIENTO 799 817	análisis de sangre
+T14	PROCEDIMIENTO 1271 1290	ecografía abdominal
+T15	PROCEDIMIENTO 1487 1516	biopsia hepática transyugular
+T16	PROCEDIMIENTO 641 659	exploración física
+T17	PROCEDIMIENTO 2261 2274	quimioterapia
+T18	PROCEDIMIENTO 169 182	químioterapia
+T19	PROCEDIMIENTO 760 778	palpación profunda
+T20	PROCEDIMIENTO 356 384	transfusión de hemoderivados
+T21	PROCEDIMIENTO 386 414	bypass iliofemoral izquierda
+T22	PROCEDIMIENTO 292 329	cirugia de quiste hidotídico pulmonar
+T23	PROCEDIMIENTO 1223 1237	Marcadores VHC
+T24	PROCEDIMIENTO 1129 1138	Serologia
+T25	PROCEDIMIENTO 237 246	analítica
+T26	SINTOMA 533 540	astenia
+T27	SINTOMA 542 550	anorexia
+T28	SINTOMA 552 559	prurito
+T29	SINTOMA 562 583	ictericia mucocutánea
+T30	SINTOMA 589 596	coluria
+T31	SINTOMA 599 605	acolia
+T32	SINTOMA 670 691	ictericia mucocutánea
+T33	SINTOMA 2310 2327	elevación del PSA
+T34	SINTOMA 2345 2377	dolor en columna dorsal y hombro
+T35	SINTOMA 783 794	peritonismo
+T36	SINTOMA 1139 1151	VIH negativo
+T37	SINTOMA 1249 1265	DNA VHB positivo
+T38	SINTOMA 1223 1247	Marcadores VHC negativos
+T39	SINTOMA 1330 1353	hígado de tamaño normal
+T40	SINTOMA 1153 1169	IgM VHA negativo
+T41	SINTOMA 1171 1177	HBsAg+
+T42	SINTOMA 1189 1202	lgM anticore+
+T43	SINTOMA 1204 1210	HBeAg+
+T44	SINTOMA 1213 1221	antiHBe-
+T45	SINTOMA 1179 1187	antiHBs-
+T46	SINTOMA 2039 2063	DNA del VHB fue negativo
+T47	SINTOMA 723 778	reborde costal derecho dolorosa a la palpación profunda
+T48	SINTOMA 1358 1392	ecogenicidad difusamente aumentada

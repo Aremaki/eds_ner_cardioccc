@@ -1,39 +1,39 @@
-T1	SINTOMA 1087 1097	granulomas
-T2	SINTOMA 74 86	asintomático
-T3	SINTOMA 1115 1146	células gigantes multinucleadas
-T4	SINTOMA 1790 1828	colonoscopia de control que fue normal
-T5	SINTOMA 1560 1589	cultivo, que fueron negativos
-T6	SINTOMA 701 754	engrosamiento en la pared de ciego y colon ascendente
-T7	SINTOMA 1498 1530	esputos, que no eran bacilíferos
-T8	SINTOMA 1429 1482	infiltrado reticulonodular en ambos campos superiores
-T9	SINTOMA 1322 1342	Mantoux fue negativo
-T10	SINTOMA 810 844	marcadores tumorales eran normales
-T11	SINTOMA 1160 1202	micobacterias con tinción de Ziehl Nielsen
-T12	SINTOMA 1604 1653	PCR de las muestras de colon fue también negativa
-T13	SINTOMA 1352 1377	Quantiferón® fue positivo
-T14	SINTOMA 211 249	sangre oculta en heces (TSOH) positivo
-T15	SINTOMA 1287 1309	síntomas respiratorios
-T16	ENFERMEDAD 182 200	anemia normocítica
-T17	ENFERMEDAD 409 441	lesión ulcerada a nivel de ciego
-T18	ENFERMEDAD 493 510	neoplasia maligna
-T19	PROCEDIMIENTO 1022 1030	biopsias
-T20	PROCEDIMIENTO 1060 1072	colonoscopia
-T21	PROCEDIMIENTO 1178 1202	tinción de Ziehl Nielsen
-T22	PROCEDIMIENTO 1314 1329	test de Mantoux
-T23	PROCEDIMIENTO 1352 1363	Quantiferón
-T24	PROCEDIMIENTO 1396 1416	radiografía de tórax
-T25	PROCEDIMIENTO 1484 1505	Se recogieron esputos
-T26	PROCEDIMIENTO 1560 1567	cultivo
-T27	PROCEDIMIENTO 1604 1632	PCR de las muestras de colon
-T28	PROCEDIMIENTO 1667 1694	tratamiento antituberculoso
-T29	PROCEDIMIENTO 1790 1802	colonoscopia
-T30	PROCEDIMIENTO 203 233	test de sangre oculta en heces
-T31	PROCEDIMIENTO 235 239	TSOH
-T32	PROCEDIMIENTO 266 285	analítica sanguínea
-T33	PROCEDIMIENTO 299 317	exploración física
-T34	PROCEDIMIENTO 369 381	colonoscopia
-T35	PROCEDIMIENTO 543 551	biopsias
-T36	PROCEDIMIENTO 683 686	TAC
-T37	PROCEDIMIENTO 810 830	marcadores tumorales
-T38	PROCEDIMIENTO 916 928	colonoscopia
-T39	PROCEDIMIENTO 949 957	biopsias
+T1	ENFERMEDAD 182 200	anemia normocítica
+T2	ENFERMEDAD 409 441	lesión ulcerada a nivel de ciego
+T3	ENFERMEDAD 493 510	neoplasia maligna
+T4	PROCEDIMIENTO 1352 1363	Quantiferón
+T5	PROCEDIMIENTO 1396 1416	radiografía de tórax
+T6	PROCEDIMIENTO 203 233	test de sangre oculta en heces
+T7	PROCEDIMIENTO 235 239	TSOH
+T8	PROCEDIMIENTO 266 285	analítica sanguínea
+T9	PROCEDIMIENTO 299 317	exploración física
+T10	PROCEDIMIENTO 369 381	colonoscopia
+T11	PROCEDIMIENTO 543 551	biopsias
+T12	PROCEDIMIENTO 1790 1802	colonoscopia
+T13	PROCEDIMIENTO 683 686	TAC
+T14	PROCEDIMIENTO 916 928	colonoscopia
+T15	PROCEDIMIENTO 949 957	biopsias
+T16	PROCEDIMIENTO 1022 1030	biopsias
+T17	PROCEDIMIENTO 1060 1072	colonoscopia
+T18	PROCEDIMIENTO 1560 1567	cultivo
+T19	PROCEDIMIENTO 1667 1694	tratamiento antituberculoso
+T20	PROCEDIMIENTO 1178 1202	tinción de Ziehl Nielsen
+T21	PROCEDIMIENTO 1604 1632	PCR de las muestras de colon
+T22	PROCEDIMIENTO 810 830	marcadores tumorales
+T23	PROCEDIMIENTO 1314 1329	test de Mantoux
+T24	PROCEDIMIENTO 1484 1505	Se recogieron esputos
+T25	SINTOMA 211 249	sangre oculta en heces (TSOH) positivo
+T26	SINTOMA 701 754	engrosamiento en la pared de ciego y colon ascendente
+T27	SINTOMA 1322 1342	Mantoux fue negativo
+T28	SINTOMA 1287 1309	síntomas respiratorios
+T29	SINTOMA 810 844	marcadores tumorales eran normales
+T30	SINTOMA 1160 1202	micobacterias con tinción de Ziehl Nielsen
+T31	SINTOMA 1352 1377	Quantiferón® fue positivo
+T32	SINTOMA 1429 1482	infiltrado reticulonodular en ambos campos superiores
+T33	SINTOMA 1087 1097	granulomas
+T34	SINTOMA 1115 1146	células gigantes multinucleadas
+T35	SINTOMA 1498 1530	esputos, que no eran bacilíferos
+T36	SINTOMA 1560 1589	cultivo, que fueron negativos
+T37	SINTOMA 1604 1653	PCR de las muestras de colon fue también negativa
+T38	SINTOMA 1790 1828	colonoscopia de control que fue normal
+T39	SINTOMA 74 86	asintomático

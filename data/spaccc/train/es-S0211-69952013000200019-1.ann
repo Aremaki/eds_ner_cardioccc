@@ -1,17 +1,29 @@
-T1	SINTOMA 902 945	ecografía testicular, se descarta patología
-T2	SINTOMA 978 982	fuga
-T3	SINTOMA 1771 1775	fuga
-T4	SINTOMA 1174 1263	paso de material de contraste peritoneal a través del cordón espermático hasta el escroto
-T5	ENFERMEDAD 27 80	ERC estadio 4 secundaria a poliquistosis hepatorrenal
-T6	ENFERMEDAD 54 80	poliquistosis hepatorrenal
-T7	ENFERMEDAD 100 121	hipertensión arterial
-T8	ENFERMEDAD 142 166	diabetes mellitus tipo 2
-T9	ENFERMEDAD 168 181	hiperuricemia
-T10	ENFERMEDAD 183 193	dislipemia
-T11	ENFERMEDAD 196 235	enfermedad pulmonar obstructiva crónica
-T12	ENFERMEDAD 258 270	ERC avanzada
-T13	ENFERMEDAD 1392 1417	hernia inguinal indirecta
-T14	ENFERMEDAD 1581 1596	hernia inguinal
-T15	ENFERMEDAD 1284 1318	proceso peritoneovaginal permeable
-T16	ENFERMEDAD 844 857	edema genital
-T17	ENFERMEDAD 1610 1635	conducto peritoneovaginal
+T1	ENFERMEDAD 27 80	ERC estadio 4 secundaria a poliquistosis hepatorrenal
+T2	ENFERMEDAD 54 80	poliquistosis hepatorrenal
+T3	ENFERMEDAD 100 121	hipertensión arterial
+T4	ENFERMEDAD 142 166	diabetes mellitus tipo 2
+T5	ENFERMEDAD 168 181	hiperuricemia
+T6	ENFERMEDAD 183 193	dislipemia
+T7	ENFERMEDAD 196 235	enfermedad pulmonar obstructiva crónica
+T8	ENFERMEDAD 258 270	ERC avanzada
+T9	ENFERMEDAD 1392 1417	hernia inguinal indirecta
+T10	ENFERMEDAD 1581 1596	hernia inguinal
+T11	ENFERMEDAD 1284 1318	proceso peritoneovaginal permeable
+T12	ENFERMEDAD 844 857	edema genital
+T13	ENFERMEDAD 1610 1635	conducto peritoneovaginal
+T14	PROCEDIMIENTO 548 588	diálisis peritoneal continua ambulatoria
+T15	PROCEDIMIENTO 902 922	ecografía testicular
+T16	PROCEDIMIENTO 999 1134	tomografía axial computarizada (TAC)-peritoneografía, tras la administración (por el catéter) de 100 ml de contraste iodado hipoosmolar
+T17	PROCEDIMIENTO 1564 1596	corrección de la hernia inguinal
+T18	PROCEDIMIENTO 1599 1635	cierre del conducto peritoneovaginal
+T19	PROCEDIMIENTO 1673 1692	diálisis peritoneal
+T20	PROCEDIMIENTO 323 413	se inserta catéter peritoneal recto no autoposicionante de 1 cuff mediante cirugía abierta
+T21	PROCEDIMIENTO 590 594	DPCA
+T22	PROCEDIMIENTO 302 321	técnicas dialíticas
+T23	PROCEDIMIENTO 514 536	colocación del catéter
+T24	PROCEDIMIENTO 803 822	Diálisis Peritoneal
+T25	PROCEDIMIENTO 1521 1538	reposo peritoneal
+T26	SINTOMA 1174 1263	paso de material de contraste peritoneal a través del cordón espermático hasta el escroto
+T27	SINTOMA 1771 1775	fuga
+T28	SINTOMA 978 982	fuga
+T29	SINTOMA 902 945	ecografía testicular, se descarta patología

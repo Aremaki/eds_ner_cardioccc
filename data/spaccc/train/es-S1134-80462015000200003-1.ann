@@ -1,12 +1,19 @@
-T1	SINTOMA 846 857	dolor agudo
-T2	SINTOMA 1168 1173	dolor
-T3	SINTOMA 1352 1357	dolor
-T4	SINTOMA 1526 1533	náuseas
-T5	SINTOMA 1623 1630	vómitos
-T6	SINTOMA 1634 1641	prurito
-T7	SINTOMA 1645 1658	estreñimiento
-T8	SINTOMA 939 944	dolor
-T9	ENFERMEDAD 26 35	diabético
-T10	ENFERMEDAD 38 48	hipertenso
-T11	ENFERMEDAD 59 90	enfermedad renal crónica severa
-T12	ENFERMEDAD 186 204	coxartrosis severa
+T1	ENFERMEDAD 26 35	diabético
+T2	ENFERMEDAD 38 48	hipertenso
+T3	ENFERMEDAD 59 90	enfermedad renal crónica severa
+T4	ENFERMEDAD 186 204	coxartrosis severa
+T5	PROCEDIMIENTO 145 181	artroplastia total de cadera derecha
+T6	PROCEDIMIENTO 218 230	hemodiálisis
+T7	PROCEDIMIENTO 323 364	anestesia raquídea con aguja tipo sprotte
+T8	PROCEDIMIENTO 438 454	bloqueo completo
+T9	PROCEDIMIENTO 250 262	intervención
+T10	PROCEDIMIENTO 572 584	intervención
+T11	PROCEDIMIENTO 1317 1329	intervención
+T12	SINTOMA 846 857	dolor agudo
+T13	SINTOMA 1168 1173	dolor
+T14	SINTOMA 1352 1357	dolor
+T15	SINTOMA 1526 1533	náuseas
+T16	SINTOMA 1623 1630	vómitos
+T17	SINTOMA 1634 1641	prurito
+T18	SINTOMA 1645 1658	estreñimiento
+T19	SINTOMA 939 944	dolor

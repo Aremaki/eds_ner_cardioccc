@@ -1,54 +1,80 @@
-T1	SINTOMA 317 329	asintomático
-T2	SINTOMA 284 315	aumento de volumen en mandíbula
-T3	SINTOMA 446 518	aumento de volumen por vestibular que compromete el cuerpo y la sínfisis
-T4	SINTOMA 1203 1266	biopsia inicial se hizo aspirado produciendo un líquido citrino
-T5	SINTOMA 5629 5646	buen llenado óseo
-T6	SINTOMA 414 435	buena oclusión dental
-T7	SINTOMA 982 1031	conducto dentario inferior se encuentra rechazado
-T8	SINTOMA 677 790	imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
-T9	SINTOMA 394 411	integridad dental
-T10	SINTOMA 537 629	lingual, la expansión de la tabla es solo en zona de canino y bicúspides inferiores derechos
-T11	SINTOMA 5374 5389	mordida abierta
-T12	SINTOMA 5522 5537	mordida abierta
-T13	SINTOMA 5829 5839	parestesia
-T14	SINTOMA 4995 5027	parestesia del nervio mentoniano
-T15	PROCEDIMIENTO 1203 1210	biopsia
-T16	PROCEDIMIENTO 1227 1235	aspirado
-T17	PROCEDIMIENTO 1279 1302	estudio histopatológico
-T18	PROCEDIMIENTO 1822 1829	biopsia
-T19	PROCEDIMIENTO 1835 1852	anestesia general
-T20	PROCEDIMIENTO 2174 2186	intervención
-T21	PROCEDIMIENTO 2312 2343	tratamiento quirúrgico agresivo
-T22	PROCEDIMIENTO 2388 2410	endodoncias de 46 a 33
-T23	PROCEDIMIENTO 2527 2535	curetaje
-T24	PROCEDIMIENTO 2548 2590	amputación de paquetes vasculares pulpares
-T25	PROCEDIMIENTO 2656 2679	tratamiento endodóntico
-T26	PROCEDIMIENTO 2719 2739	sellar los conductos
-T27	PROCEDIMIENTO 2763 2803	drenaje a través de las cámaras pulpares
-T28	PROCEDIMIENTO 2916 2927	endodoncias
+T1	ENFERMEDAD 1555 1589	tumor odontogénico queratoquístico
+T2	ENFERMEDAD 2055 2084	quiste radicular inflamatorio
+T3	ENFERMEDAD 2214 2248	tumor odontogénico queratoquístico
+T4	ENFERMEDAD 2250 2265	exqueratoquiste
+T5	ENFERMEDAD 4590 4615	quiste óseo aneurismático
+T6	ENFERMEDAD 4192 4217	quiste óseo aneurismático
+T7	ENFERMEDAD 4759 4799	necrosis pulpar y fístula a nivel del 47
+T8	ENFERMEDAD 4995 5027	parestesia del nervio mentoniano
+T9	ENFERMEDAD 5374 5389	mordida abierta
+T10	ENFERMEDAD 5492 5537	dientes 44 a 33 permanecen en mordida abierta
+T11	ENFERMEDAD 3852 3882	fractura intra o posoperatoria
+T12	ENFERMEDAD 4964 4973	infección
+T13	ENFERMEDAD 3695 3709	lesión tumoral
+T14	ENFERMEDAD 1670 1692	lesión se sobreinfectó
+T15	ENFERMEDAD 3419 3431	defecto óseo
+T16	ENFERMEDAD 3523 3535	defecto óseo
+T17	ENFERMEDAD 3923 3935	defecto óseo
+T18	ENFERMEDAD 5307 5319	defecto óseo
+T19	ENFERMEDAD 3340 3356	cavidad quística
+T20	ENFERMEDAD 864 879	necrosis pulpar
+T21	ENFERMEDAD 802 850	rizólisis la raíz mesial del 46 y la raíz del 45
+T22	ENFERMEDAD 2627 2633	lesión
+T23	ENFERMEDAD 3580 3616	perforaciones de la cortical lingual
+T24	ENFERMEDAD 5212 5231	secuela de oclusión
+T25	ENFERMEDAD 5542 5584	44 además está ligeramente vestibularizado
+T26	ENFERMEDAD 5937 5994	lesión de la tabla lingual a nivel de dientes 43, 44 y 45
+T27	PROCEDIMIENTO 634 656	radiografía panorámica
+T28	PROCEDIMIENTO 2388 2410	endodoncias de 46 a 33
 T29	PROCEDIMIENTO 2977 2994	anestesia general
 T30	PROCEDIMIENTO 3010 3062	colgajo trapezoidal de distal del 46 a distal del 33
-T31	PROCEDIMIENTO 3225 3233	biopsias
-T32	PROCEDIMIENTO 3247 3306	Se procedió a retirar toda la cortical vestibular expandida
-T33	PROCEDIMIENTO 3358 3396	Se encuentra y remueve cápsula fibrosa
-T34	PROCEDIMIENTO 3433 3501	Se hace fresado con instrumental cortante rotario de la cavidad ósea
-T35	PROCEDIMIENTO 3504 3558	se pincela todo el defecto óseo con solución de Carnoy
-T36	PROCEDIMIENTO 3580 3662	perforaciones de la cortical lingual, las cuales se cauterizan con electro bisturí
-T37	PROCEDIMIENTO 3772 3835	borde basilar mandibular, se coloca una placa de reconstrucción
-T38	PROCEDIMIENTO 3893 3911	suturar el colgajo
-T39	PROCEDIMIENTO 3912 3957	se rellena defecto óseo con colágeno fibrilar
-T40	PROCEDIMIENTO 3974 3985	analgésicos
-T41	PROCEDIMIENTO 3988 4000	antibióticos
-T42	PROCEDIMIENTO 4032 4041	patología
-T43	PROCEDIMIENTO 4054 4094	histopatológico del espécimen quirúrgico
-T44	PROCEDIMIENTO 4246 4253	biopsia
-T45	PROCEDIMIENTO 4419 4426	biopsia
-T46	PROCEDIMIENTO 4485 4492	biopsia
-T47	PROCEDIMIENTO 4849 4884	amputado el ápice de la raíz mesial
-T48	PROCEDIMIENTO 4896 4920	procedimiento quirúrgico
-T49	PROCEDIMIENTO 4936 4946	endodoncia
-T50	PROCEDIMIENTO 5051 5070	complejo B tabletas
-T51	PROCEDIMIENTO 5429 5460	revisión clínica y radiográfica
-T52	PROCEDIMIENTO 5592 5614	radiografía panorámica
-T53	PROCEDIMIENTO 5659 5684	tomografía tridimensional
-T54	PROCEDIMIENTO 634 656	radiografía panorámica
+T31	PROCEDIMIENTO 3974 3985	analgésicos
+T32	PROCEDIMIENTO 4936 4946	endodoncia
+T33	PROCEDIMIENTO 5592 5614	radiografía panorámica
+T34	PROCEDIMIENTO 1203 1210	biopsia
+T35	PROCEDIMIENTO 1822 1829	biopsia
+T36	PROCEDIMIENTO 4246 4253	biopsia
+T37	PROCEDIMIENTO 4419 4426	biopsia
+T38	PROCEDIMIENTO 4485 4492	biopsia
+T39	PROCEDIMIENTO 3225 3233	biopsias
+T40	PROCEDIMIENTO 2527 2535	curetaje
+T41	PROCEDIMIENTO 1279 1302	estudio histopatológico
+T42	PROCEDIMIENTO 1227 1235	aspirado
+T43	PROCEDIMIENTO 2312 2343	tratamiento quirúrgico agresivo
+T44	PROCEDIMIENTO 2656 2679	tratamiento endodóntico
+T45	PROCEDIMIENTO 2763 2803	drenaje a través de las cámaras pulpares
+T46	PROCEDIMIENTO 2916 2927	endodoncias
+T47	PROCEDIMIENTO 3247 3306	Se procedió a retirar toda la cortical vestibular expandida
+T48	PROCEDIMIENTO 3358 3396	Se encuentra y remueve cápsula fibrosa
+T49	PROCEDIMIENTO 3433 3501	Se hace fresado con instrumental cortante rotario de la cavidad ósea
+T50	PROCEDIMIENTO 3504 3558	se pincela todo el defecto óseo con solución de Carnoy
+T51	PROCEDIMIENTO 3580 3662	perforaciones de la cortical lingual, las cuales se cauterizan con electro bisturí
+T52	PROCEDIMIENTO 3772 3835	borde basilar mandibular, se coloca una placa de reconstrucción
+T53	PROCEDIMIENTO 3893 3911	suturar el colgajo
+T54	PROCEDIMIENTO 3912 3957	se rellena defecto óseo con colágeno fibrilar
+T55	PROCEDIMIENTO 4054 4094	histopatológico del espécimen quirúrgico
+T56	PROCEDIMIENTO 4849 4884	amputado el ápice de la raíz mesial
+T57	PROCEDIMIENTO 5051 5070	complejo B tabletas
+T58	PROCEDIMIENTO 5429 5460	revisión clínica y radiográfica
+T59	PROCEDIMIENTO 5659 5684	tomografía tridimensional
+T60	PROCEDIMIENTO 1835 1852	anestesia general
+T61	PROCEDIMIENTO 2548 2590	amputación de paquetes vasculares pulpares
+T62	PROCEDIMIENTO 2719 2739	sellar los conductos
+T63	PROCEDIMIENTO 3988 4000	antibióticos
+T64	PROCEDIMIENTO 4896 4920	procedimiento quirúrgico
+T65	PROCEDIMIENTO 2174 2186	intervención
+T66	PROCEDIMIENTO 4032 4041	patología
+T67	SINTOMA 284 315	aumento de volumen en mandíbula
+T68	SINTOMA 394 411	integridad dental
+T69	SINTOMA 414 435	buena oclusión dental
+T70	SINTOMA 5629 5646	buen llenado óseo
+T71	SINTOMA 5829 5839	parestesia
+T72	SINTOMA 446 518	aumento de volumen por vestibular que compromete el cuerpo y la sínfisis
+T73	SINTOMA 537 629	lingual, la expansión de la tabla es solo en zona de canino y bicúspides inferiores derechos
+T74	SINTOMA 317 329	asintomático
+T75	SINTOMA 677 790	imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
+T76	SINTOMA 982 1031	conducto dentario inferior se encuentra rechazado
+T77	SINTOMA 4995 5027	parestesia del nervio mentoniano
+T78	SINTOMA 1203 1266	biopsia inicial se hizo aspirado produciendo un líquido citrino
+T79	SINTOMA 5374 5389	mordida abierta
+T80	SINTOMA 5522 5537	mordida abierta

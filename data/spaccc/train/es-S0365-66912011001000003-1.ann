@@ -1,4 +1,10 @@
-T1	SINTOMA 220 240	defectos refractivos
-T2	SINTOMA 638 648	simulación
-T3	SINTOMA 63 77	visión borrosa
-T4	ENFERMEDAD 63 77	visión borrosa
+T1	ENFERMEDAD 63 77	visión borrosa
+T2	PROCEDIMIENTO 82 96	agudeza visual
+T3	PROCEDIMIENTO 177 204	refracción bajo cicloplejía
+T4	PROCEDIMIENTO 289 314	exploración oftalmológica
+T5	PROCEDIMIENTO 380 389	anamnesis
+T6	PROCEDIMIENTO 667 684	prueba del espejo
+T7	PROCEDIMIENTO 559 567	dilatada
+T8	SINTOMA 63 77	visión borrosa
+T9	SINTOMA 220 240	defectos refractivos
+T10	SINTOMA 638 648	simulación

@@ -1,14 +1,36 @@
-T1	SINTOMA 252 296	abdomen distendido y doloroso a la palpación
-T2	SINTOMA 302 344	defensa más intensa en fosa ilíaca derecha
-T3	SINTOMA 140 158	deposición líquida
-T4	SINTOMA 653 710	distensión del marco cólico derecho con contenido líquido
-T5	SINTOMA 57 86	dolor abdominal periumbilical
-T6	SINTOMA 567 577	escaso gas
-T7	SINTOMA 391 450	hemograma y bioquímica de urgencias dentro de la normalidad
-T8	SINTOMA 180 203	intensa palidez cutánea
-T9	SINTOMA 810 858	líquido libre interasas y en espacio de Morrison
-T10	SINTOMA 1311 1340	moderada afectación isquémica
-T11	SINTOMA 126 133	vómitos
-T12	SINTOMA 169 178	febrícula
-T13	SINTOMA 206 222	malestar general
-T14	SINTOMA 1593 1606	masa quística
+T1	ENFERMEDAD 362 379	apendicitis aguda
+T2	ENFERMEDAD 1545 1576	linfagioma quístico mesentérico
+T3	ENFERMEDAD 1018 1046	malformación linfática ileal
+T4	ENFERMEDAD 1593 1606	masa quística
+T5	ENFERMEDAD 1090 1126	cavidad abdominal, múltiples quistes
+T6	ENFERMEDAD 1170 1176	quiste
+T7	ENFERMEDAD 1237 1270	íleon adyacente a la malformación
+T8	ENFERMEDAD 613 625	íleo reflejo
+T9	ENFERMEDAD 885 918	suboclusión u oclusión intestinal
+T10	ENFERMEDAD 1297 1308	volvulación
+T11	ENFERMEDAD 1412 1459	ileal, incluyendo completamente la malformación
+T12	ENFERMEDAD 500 539	dilatación de asas de intestino delgado
+T13	PROCEDIMIENTO 970 981	laparotomía
+T14	PROCEDIMIENTO 391 400	hemograma
+T15	PROCEDIMIENTO 458 480	radiografía de abdomen
+T16	PROCEDIMIENTO 252 296	abdomen distendido y doloroso a la palpación
+T17	PROCEDIMIENTO 630 639	ecografía
+T18	PROCEDIMIENTO 1376 1389	devolvulación
+T19	PROCEDIMIENTO 1402 1493	resección ileal, incluyendo completamente la malformación, con anastomosis término-terminal
+T20	PROCEDIMIENTO 1498 1517	anatomía patológica
+T21	PROCEDIMIENTO 403 413	bioquímica
+T22	PROCEDIMIENTO 227 238	exploración
+T23	SINTOMA 57 86	dolor abdominal periumbilical
+T24	SINTOMA 126 133	vómitos
+T25	SINTOMA 140 158	deposición líquida
+T26	SINTOMA 169 178	febrícula
+T27	SINTOMA 180 203	intensa palidez cutánea
+T28	SINTOMA 206 222	malestar general
+T29	SINTOMA 302 344	defensa más intensa en fosa ilíaca derecha
+T30	SINTOMA 653 710	distensión del marco cólico derecho con contenido líquido
+T31	SINTOMA 567 577	escaso gas
+T32	SINTOMA 1311 1340	moderada afectación isquémica
+T33	SINTOMA 391 450	hemograma y bioquímica de urgencias dentro de la normalidad
+T34	SINTOMA 252 296	abdomen distendido y doloroso a la palpación
+T35	SINTOMA 810 858	líquido libre interasas y en espacio de Morrison
+T36	SINTOMA 1593 1606	masa quística

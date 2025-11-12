@@ -1,15 +1,20 @@
-T1	SINTOMA 1006 1024	apéndice epiploico
-T2	SINTOMA 387 404	defensa abdominal
-T3	SINTOMA 693 698	dolor
-T4	SINTOMA 66 96	dolor en fosa iliaca izquierda
-T5	SINTOMA 149 155	fiebre
-T6	SINTOMA 924 978	inflamación de la grasa adyacente al colon descendente
-T7	SINTOMA 321 375	palpación dolorosa a nivel de la fosa iliaca izquierda
-T8	SINTOMA 410 469	ruidos intestinales y resto de la exploración eran normales
-T9	SINTOMA 305 314	sobrepeso
-T10	ENFERMEDAD 1143 1154	apendagitis
-T11	ENFERMEDAD 1159 1180	apendagitis epiploica
-T12	ENFERMEDAD 630 650	diverticulitis aguda
-T13	ENFERMEDAD 821 845	diverticulosis sigmoidea
-T14	ENFERMEDAD 860 874	diverticulitis
-T15	ENFERMEDAD 1058 1096	apendagitis aguda secundaria a torsión
+T1	ENFERMEDAD 1143 1154	apendagitis
+T2	ENFERMEDAD 1159 1180	apendagitis epiploica
+T3	ENFERMEDAD 630 650	diverticulitis aguda
+T4	ENFERMEDAD 821 845	diverticulosis sigmoidea
+T5	ENFERMEDAD 860 874	diverticulitis
+T6	ENFERMEDAD 1058 1096	apendagitis aguda secundaria a torsión
+T7	PROCEDIMIENTO 1192 1245	tratamiento conservador con anti-inflamatorios orales
+T8	PROCEDIMIENTO 257 275	exploración física
+T9	PROCEDIMIENTO 764 778	TAC de abdomen
+T10	PROCEDIMIENTO 474 491	analítica general
+T11	PROCEDIMIENTO 1370 1382	antibióticos
+T12	SINTOMA 149 155	fiebre
+T13	SINTOMA 305 314	sobrepeso
+T14	SINTOMA 321 375	palpación dolorosa a nivel de la fosa iliaca izquierda
+T15	SINTOMA 387 404	defensa abdominal
+T16	SINTOMA 410 469	ruidos intestinales y resto de la exploración eran normales
+T17	SINTOMA 924 978	inflamación de la grasa adyacente al colon descendente
+T18	SINTOMA 66 96	dolor en fosa iliaca izquierda
+T19	SINTOMA 1006 1024	apéndice epiploico
+T20	SINTOMA 693 698	dolor

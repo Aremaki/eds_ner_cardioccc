@@ -1,7 +1,21 @@
-T1	SINTOMA 1308 1335	constantes vitales normales
-T2	SINTOMA 779 812	dolor en el lugar de la inyección
-T3	SINTOMA 1266 1292	estado de la niña es bueno
-T4	SINTOMA 2009 2064	pruebas de inmunidad, siendo todas las pruebas normales
-T5	SINTOMA 841 846	mareo
-T6	ENFERMEDAD 2206 2242	reacción en el lugar de la inyección
-T7	ENFERMEDAD 1886 1910	Enfermedades Infecciosas
+T1	ENFERMEDAD 2206 2242	reacción en el lugar de la inyección
+T2	ENFERMEDAD 1886 1910	Enfermedades Infecciosas
+T3	PROCEDIMIENTO 726 753	administración de la vacuna
+T4	PROCEDIMIENTO 106 128	vacuna antituberculosa
+T5	PROCEDIMIENTO 2009 2029	pruebas de inmunidad
+T6	PROCEDIMIENTO 2330 2357	tratamiento antituberculoso
+T7	PROCEDIMIENTO 374 384	vacunación
+T8	PROCEDIMIENTO 327 333	vacuna
+T9	PROCEDIMIENTO 615 621	vacuna
+T10	PROCEDIMIENTO 692 698	vacuna
+T11	PROCEDIMIENTO 944 950	vacuna
+T12	PROCEDIMIENTO 1058 1065	vacunas
+T13	PROCEDIMIENTO 1497 1503	vacuna
+T14	PROCEDIMIENTO 2233 2242	inyección
+T15	PROCEDIMIENTO 803 812	inyección
+T16	PROCEDIMIENTO 422 436	inmunizaciones
+T17	SINTOMA 841 846	mareo
+T18	SINTOMA 779 812	dolor en el lugar de la inyección
+T19	SINTOMA 1266 1292	estado de la niña es bueno
+T20	SINTOMA 1308 1335	constantes vitales normales
+T21	SINTOMA 2009 2064	pruebas de inmunidad, siendo todas las pruebas normales

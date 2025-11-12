@@ -1,23 +1,23 @@
-T1	SINTOMA 777 790	muñón uretral
-T2	SINTOMA 734 747	muñón uretral
-T3	SINTOMA 1101 1109	sangrado
-T4	SINTOMA 1281 1305	alteraciones metabólicas
-T5	SINTOMA 363 382	prolapso del estoma
-T6	SINTOMA 190 200	pTis No Mo
-T7	ENFERMEDAD 70 105	carcinoma de células transicionales
-T8	ENFERMEDAD 229 254	carcinoma in situ vesical
-T9	ENFERMEDAD 363 382	prolapso del estoma
-T10	ENFERMEDAD 853 873	infiltración tumoral
-T11	PROCEDIMIENTO 116 143	cistoprostatectomía radical
-T12	PROCEDIMIENTO 148 180	derivación urinaria tipo Bricker
-T13	PROCEDIMIENTO 269 272	BCG
-T14	PROCEDIMIENTO 314 348	reconvertir su derivación urinaria
-T15	PROCEDIMIENTO 38 65	ne-froureterectomía derecha
+T1	ENFERMEDAD 70 105	carcinoma de células transicionales
+T2	ENFERMEDAD 229 254	carcinoma in situ vesical
+T3	ENFERMEDAD 363 382	prolapso del estoma
+T4	ENFERMEDAD 853 873	infiltración tumoral
+T5	PROCEDIMIENTO 481 501	TAC toraco-abdominal
+T6	PROCEDIMIENTO 38 65	ne-froureterectomía derecha
+T7	PROCEDIMIENTO 116 143	cistoprostatectomía radical
+T8	PROCEDIMIENTO 148 180	derivación urinaria tipo Bricker
+T9	PROCEDIMIENTO 634 658	laparoscopia exploradora
+T10	PROCEDIMIENTO 764 790	Resecamos el muñón uretral
+T11	PROCEDIMIENTO 314 348	reconvertir su derivación urinaria
+T12	PROCEDIMIENTO 878 978	neovejiga (Studer) se construyó tras exteriorizar 45 cm de íleon terminal por el orificio del estoma
+T13	PROCEDIMIENTO 983 1045	anastomosis uretra-neovejiga se realizó de forma laparoscópica
+T14	PROCEDIMIENTO 802 825	biopsia intraoperatoria
+T15	PROCEDIMIENTO 269 272	BCG
 T16	PROCEDIMIENTO 432 464	dispositivo autoadhesivo externo
-T17	PROCEDIMIENTO 481 501	TAC toraco-abdominal
-T18	PROCEDIMIENTO 634 658	laparoscopia exploradora
-T19	PROCEDIMIENTO 677 708	disección completa de la pelvis
-T20	PROCEDIMIENTO 764 790	Resecamos el muñón uretral
-T21	PROCEDIMIENTO 802 825	biopsia intraoperatoria
-T22	PROCEDIMIENTO 878 978	neovejiga (Studer) se construyó tras exteriorizar 45 cm de íleon terminal por el orificio del estoma
-T23	PROCEDIMIENTO 983 1045	anastomosis uretra-neovejiga se realizó de forma laparoscópica
+T17	PROCEDIMIENTO 677 708	disección completa de la pelvis
+T18	SINTOMA 190 200	pTis No Mo
+T19	SINTOMA 1101 1109	sangrado
+T20	SINTOMA 1281 1305	alteraciones metabólicas
+T21	SINTOMA 363 382	prolapso del estoma
+T22	SINTOMA 734 747	muñón uretral
+T23	SINTOMA 777 790	muñón uretral

@@ -1,14 +1,34 @@
-T1	SINTOMA 388 397	rinofonía
-T2	ENFERMEDAD 625 632	fístula
-T3	ENFERMEDAD 1710 1717	fístula
-T4	ENFERMEDAD 1037 1044	fístula
-T5	ENFERMEDAD 1743 1754	dehiscencia
-T6	ENFERMEDAD 100 116	fístula oronasal
-T7	ENFERMEDAD 915 922	fístula
-T8	ENFERMEDAD 343 373	dehiscencia (fístula oronasal)
-T9	ENFERMEDAD 356 372	fístula oronasal
-T10	ENFERMEDAD 400 430	reflujo nasal de los alimentos
-T11	ENFERMEDAD 475 537	fístula oronasal en la unión del paladar primario y secundario
-T12	ENFERMEDAD 1605 1613	isquemia
-T13	ENFERMEDAD 388 397	rinofonía
-T14	ENFERMEDAD 796 812	defecto palatino
+T1	ENFERMEDAD 625 632	fístula
+T2	ENFERMEDAD 1710 1717	fístula
+T3	ENFERMEDAD 1037 1044	fístula
+T4	ENFERMEDAD 1743 1754	dehiscencia
+T5	ENFERMEDAD 100 116	fístula oronasal
+T6	ENFERMEDAD 915 922	fístula
+T7	ENFERMEDAD 343 373	dehiscencia (fístula oronasal)
+T8	ENFERMEDAD 356 372	fístula oronasal
+T9	ENFERMEDAD 400 430	reflujo nasal de los alimentos
+T10	ENFERMEDAD 475 537	fístula oronasal en la unión del paladar primario y secundario
+T11	ENFERMEDAD 1605 1613	isquemia
+T12	ENFERMEDAD 388 397	rinofonía
+T13	ENFERMEDAD 796 812	defecto palatino
+T14	PROCEDIMIENTO 724 741	anestesia general
+T15	PROCEDIMIENTO 1312 1327	colgajo lingual
+T16	PROCEDIMIENTO 612 655	cierre de la fístula con un colgajo lingual
+T17	PROCEDIMIENTO 746 769	intubación nasotraqueal
+T18	PROCEDIMIENTO 1558 1577	prueba de perfusión
+T19	PROCEDIMIENTO 1343 1375	cierre primario del área lingual
+T20	PROCEDIMIENTO 1071 1078	colgajo
+T21	PROCEDIMIENTO 1400 1449	se posiciona el colgajo sobre la fístula oronasal
+T22	PROCEDIMIENTO 1103 1192	Se suturan los bordes laterales de la lengua a una platina acrílica en forma de herradura
+T23	PROCEDIMIENTO 1654 1669	anestesia local
+T24	PROCEDIMIENTO 171 194	queiloplastía bilateral
+T25	PROCEDIMIENTO 197 229	palatoplastía del paladar blando
+T26	PROCEDIMIENTO 253 283	palatoplastía del paladar duro
+T27	PROCEDIMIENTO 1282 1289	colgajo
+T28	PROCEDIMIENTO 438 459	exploración intraoral
+T29	PROCEDIMIENTO 770 812	se incide contorneando el defecto palatino
+T30	PROCEDIMIENTO 1452 1471	se inicia la sutura
+T31	PROCEDIMIENTO 1626 1648	se eliminó el pedículo
+T32	PROCEDIMIENTO 1683 1717	cierre satisfactorio de la fístula
+T33	PROCEDIMIENTO 1535 1542	cirugía
+T34	SINTOMA 388 397	rinofonía

@@ -1,15 +1,26 @@
-T1	SINTOMA 1021 1047	drenaje se torna purulento
-T2	SINTOMA 650 666	páncreas divisum
-T3	SINTOMA 527 543	páncreas divisum
-T4	SINTOMA 787 823	tumoración en cara anterior gástrica
-T5	ENFERMEDAD 34 66	pancreatitis aguda de repetición
-T6	ENFERMEDAD 201 235	pancreatitis aguda moderada-severa
-T7	ENFERMEDAD 500 520	pancreatitis crónica
-T8	ENFERMEDAD 110 122	hiperlipemia
-T9	ENFERMEDAD 787 823	tumoración en cara anterior gástrica
-T10	ENFERMEDAD 527 543	páncreas divisum
-T11	ENFERMEDAD 550 581	atrofia del parénquima hepático
-T12	ENFERMEDAD 868 872	GIST
-T13	ENFERMEDAD 363 381	pancreatitis aguda
-T14	ENFERMEDAD 627 647	pancreatitis crónica
-T15	ENFERMEDAD 650 666	páncreas divisum
+T1	ENFERMEDAD 34 66	pancreatitis aguda de repetición
+T2	ENFERMEDAD 201 235	pancreatitis aguda moderada-severa
+T3	ENFERMEDAD 500 520	pancreatitis crónica
+T4	ENFERMEDAD 110 122	hiperlipemia
+T5	ENFERMEDAD 787 823	tumoración en cara anterior gástrica
+T6	ENFERMEDAD 527 543	páncreas divisum
+T7	ENFERMEDAD 550 581	atrofia del parénquima hepático
+T8	ENFERMEDAD 868 872	GIST
+T9	ENFERMEDAD 363 381	pancreatitis aguda
+T10	ENFERMEDAD 627 647	pancreatitis crónica
+T11	ENFERMEDAD 650 666	páncreas divisum
+T12	PROCEDIMIENTO 452 481	colangiorresonancia magnética
+T13	PROCEDIMIENTO 717 739	pancreatectomía caudal
+T14	PROCEDIMIENTO 742 772	derivación pancreático-yeyunal
+T15	PROCEDIMIENTO 1021 1028	drenaje
+T16	PROCEDIMIENTO 140 152	fistulotomía
+T17	PROCEDIMIENTO 317 321	ERCP
+T18	PROCEDIMIENTO 1054 1084	tratamiento con antibioterapia
+T19	PROCEDIMIENTO 589 593	ERCP
+T20	PROCEDIMIENTO 679 702	intervención quirúrgica
+T21	PROCEDIMIENTO 868 889	GIST y que se extirpa
+T22	PROCEDIMIENTO 899 906	cirugía
+T23	SINTOMA 787 823	tumoración en cara anterior gástrica
+T24	SINTOMA 1021 1047	drenaje se torna purulento
+T25	SINTOMA 527 543	páncreas divisum
+T26	SINTOMA 650 666	páncreas divisum

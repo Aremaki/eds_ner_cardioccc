@@ -1,35 +1,77 @@
-T1	SINTOMA 1605 1638	alargamiento del espacio QT ni PR
-T2	SINTOMA 2249 2256	astenia
-T3	SINTOMA 3897 3924	balances hídricos negativos
-T4	SINTOMA 3972 4010	cifras bajas de electrolitos en sangre
-T5	SINTOMA 4337 4347	convulsión
-T6	SINTOMA 1096 1134	convulsión tónico-clónica generalizada
-T7	SINTOMA 4921 4933	convulsiones
-T8	SINTOMA 1953 1965	convulsiones
-T9	SINTOMA 2181 2195	deshidratación
-T10	SINTOMA 3878 3892	deshidratación
-T11	SINTOMA 3105 3139	deshidratación cutáneo-mucosa leve
-T12	SINTOMA 151 158	diarrea
-T13	SINTOMA 2221 2246	disminución de la ingesta
-T14	SINTOMA 3146 3191	disminución moderada de masa grasa y muscular
-T15	SINTOMA 133 148	dolor abdominal
-T16	SINTOMA 1808 1881	electroencefalograma que resulta ser un trazado sin hallazgos patológicos
-T17	SINTOMA 2756 2775	episodio convulsivo
-T18	SINTOMA 2556 2577	episodios convulsivos
-T19	SINTOMA 3536 3555	espasmos musculares
-T20	SINTOMA 3394 3423	exploración física era normal
-T21	SINTOMA 4455 4523	fósforo, calcio, potasio y sodio dentro de los valores de referencia
-T22	SINTOMA 1375 1426	glucosa y sodio dentro de los valores de referencia
-T23	SINTOMA 3459 3471	hipocalcemia
-T24	SINTOMA 3475 3489	hipomagnesemia
-T25	SINTOMA 3568 3591	hiporreflexia tendinosa
-T26	SINTOMA 1165 1192	incontinencia de esfínteres
-T27	SINTOMA 2408 2442	parestesias en miembros inferiores
-T28	SINTOMA 2918 2941	pérdida de 7 kg de peso
-T29	SINTOMA 2476 2483	prurito
-T30	SINTOMA 2045 2140	registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones
-T31	SINTOMA 1570 1590	ritmo sinusal normal
-T32	SINTOMA 3517 3534	signo de Chovstek
-T33	SINTOMA 3498 3515	signo de Trosseau
-T34	SINTOMA 1460 1510	TAC craneal en el que no se aprecian anormalidades
-T35	SINTOMA 3557 3564	temblor
+T1	ENFERMEDAD 21 40	enfermedad de Crohn
+T2	ENFERMEDAD 3937 3968	elevado débito de la ileostomía
+T3	ENFERMEDAD 3041 3069	desnutrición de grado severo
+T4	ENFERMEDAD 3105 3139	deshidratación cutáneo-mucosa leve
+T5	ENFERMEDAD 3232 3288	malnutrición energético-proteica mixta de grado moderado
+T6	ENFERMEDAD 611 632	perforación ileocecal
+T7	ENFERMEDAD 3459 3471	hipocalcemia
+T8	ENFERMEDAD 3475 3489	hipomagnesemia
+T9	ENFERMEDAD 668 680	fístula anal
+T10	ENFERMEDAD 685 702	absceso en glúteo
+T11	ENFERMEDAD 778 811	infección perianal polimicrobiana
+T12	ENFERMEDAD 2198 2210	desnutrición
+T13	ENFERMEDAD 1096 1134	convulsión tónico-clónica generalizada
+T14	ENFERMEDAD 1677 1716	convulsión tónico-clónica, generalizada
+T15	ENFERMEDAD 2181 2195	deshidratación
+T16	ENFERMEDAD 3878 3892	deshidratación
+T17	ENFERMEDAD 2556 2577	episodios convulsivos
+T18	ENFERMEDAD 4908 4933	episodios de convulsiones
+T19	PROCEDIMIENTO 3610 3628	historia dietética
+T20	PROCEDIMIENTO 3958 3968	ileostomía
+T21	PROCEDIMIENTO 4050 4131	vía parenteral, para reposición de volumen, electrolitos, y otros micronutrientes
+T22	PROCEDIMIENTO 261 272	corticoides
+T23	PROCEDIMIENTO 318 328	ileostomía
+T24	PROCEDIMIENTO 4192 4212	extracción de sangre
+T25	PROCEDIMIENTO 367 404	colectomía subtotal, con muñón rectal
+T26	PROCEDIMIENTO 2792 2818	tratamiento antiepiléptico
+T27	PROCEDIMIENTO 523 600	extirpación de los últimos 40 centímetros de íleon, válvula ileocecal y ciego
+T28	PROCEDIMIENTO 3394 3412	exploración física
+T29	PROCEDIMIENTO 4538 4586	perfusión con altas dosis de sulfato de magnesio
+T30	PROCEDIMIENTO 944 993	amputación abdominoperineal, resecándole el recto
+T31	PROCEDIMIENTO 1460 1471	TAC craneal
+T32	PROCEDIMIENTO 1524 1542	electrocardiograma
+T33	PROCEDIMIENTO 1808 1828	electroencefalograma
+T34	PROCEDIMIENTO 2045 2088	registro electroencefalográfico de 24 horas
+T35	PROCEDIMIENTO 2330 2349	soporte nutricional
+T36	PROCEDIMIENTO 685 719	absceso en glúteo, para su drenaje
+T37	PROCEDIMIENTO 492 514	operaciones resectivas
+T38	PROCEDIMIENTO 1214 1224	bioquímica
+T39	PROCEDIMIENTO 4862 4887	medicación antiepiléptica
+T40	PROCEDIMIENTO 849 861	antibióticos
+T41	PROCEDIMIENTO 892 915	intervención quirúrgica
+T42	PROCEDIMIENTO 4377 4386	analítica
+T43	SINTOMA 2408 2442	parestesias en miembros inferiores
+T44	SINTOMA 2918 2941	pérdida de 7 kg de peso
+T45	SINTOMA 133 148	dolor abdominal
+T46	SINTOMA 151 158	diarrea
+T47	SINTOMA 3146 3191	disminución moderada de masa grasa y muscular
+T48	SINTOMA 2756 2775	episodio convulsivo
+T49	SINTOMA 4337 4347	convulsión
+T50	SINTOMA 3394 3423	exploración física era normal
+T51	SINTOMA 3568 3591	hiporreflexia tendinosa
+T52	SINTOMA 1165 1192	incontinencia de esfínteres
+T53	SINTOMA 1460 1510	TAC craneal en el que no se aprecian anormalidades
+T54	SINTOMA 1570 1590	ritmo sinusal normal
+T55	SINTOMA 1953 1965	convulsiones
+T56	SINTOMA 2221 2246	disminución de la ingesta
+T57	SINTOMA 2249 2256	astenia
+T58	SINTOMA 3557 3564	temblor
+T59	SINTOMA 3498 3515	signo de Trosseau
+T60	SINTOMA 3517 3534	signo de Chovstek
+T61	SINTOMA 3536 3555	espasmos musculares
+T62	SINTOMA 3972 4010	cifras bajas de electrolitos en sangre
+T63	SINTOMA 2476 2483	prurito
+T64	SINTOMA 1605 1638	alargamiento del espacio QT ni PR
+T65	SINTOMA 1808 1881	electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+T66	SINTOMA 2045 2140	registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones
+T67	SINTOMA 4455 4523	fósforo, calcio, potasio y sodio dentro de los valores de referencia
+T68	SINTOMA 4921 4933	convulsiones
+T69	SINTOMA 1096 1134	convulsión tónico-clónica generalizada
+T70	SINTOMA 1375 1426	glucosa y sodio dentro de los valores de referencia
+T71	SINTOMA 2181 2195	deshidratación
+T72	SINTOMA 2556 2577	episodios convulsivos
+T73	SINTOMA 3105 3139	deshidratación cutáneo-mucosa leve
+T74	SINTOMA 3459 3471	hipocalcemia
+T75	SINTOMA 3475 3489	hipomagnesemia
+T76	SINTOMA 3878 3892	deshidratación
+T77	SINTOMA 3897 3924	balances hídricos negativos

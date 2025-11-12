@@ -1,57 +1,57 @@
-T1	SINTOMA 425 449	actividad sexual regular
-T2	SINTOMA 839 854	dolor constante
-T3	SINTOMA 369 382	dolor vaginal
-T4	SINTOMA 3382 3416	fisura junto a la comisura vaginal
-T5	SINTOMA 3930 3962	fisuras en la comisura posterior
-T6	SINTOMA 3603 3634	humedad permanente de la vagina
-T7	SINTOMA 3718 3754	introito vaginal se mantiene cerrado
-T8	SINTOMA 3760 3814	labios mayores presentan un aspecto juvenil y turgente
-T9	SINTOMA 3340 3363	restricción del perineo
-T10	SINTOMA 3699 3713	sequedad local
-T11	SINTOMA 780 791	vagina seca
-T12	ENFERMEDAD 1361 1368	heridas
-T13	ENFERMEDAD 76 120	infecciones de repetición en el área genital
-T14	ENFERMEDAD 3583 3592	infección
-T15	ENFERMEDAD 1125 1141	úlceras crónicas
-T16	ENFERMEDAD 1735 1748	cicatrización
-T17	ENFERMEDAD 205 237	infecciones por Cándida albicans
-T18	ENFERMEDAD 3382 3426	fisura junto a la comisura vaginal posterior
-T19	ENFERMEDAD 286 300	herpes genital
-T20	ENFERMEDAD 319 330	candidiasis
-T21	ENFERMEDAD 669 681	ulceraciones
-T22	ENFERMEDAD 4198 4236	úlceras provocadas por la laserterapia
-T23	ENFERMEDAD 754 767	cicatrización
-T24	ENFERMEDAD 2801 2818	úlceras vaginales
-T25	ENFERMEDAD 3930 3962	fisuras en la comisura posterior
-T26	ENFERMEDAD 3998 4004	herida
-T27	ENFERMEDAD 780 791	vagina seca
-T28	ENFERMEDAD 1089 1096	heridas
-T29	PROCEDIMIENTO 1155 1178	injerto de lipoaspirado
-T30	PROCEDIMIENTO 1324 1368	Resección de las áreas vaginales con heridas
-T31	PROCEDIMIENTO 1386 1428	cobertura con colgajos locales de rotación
-T32	PROCEDIMIENTO 1434 1463	Lipoinjerto en labios mayores
-T33	PROCEDIMIENTO 1507 1532	cerrar el orificio vulvar
-T34	PROCEDIMIENTO 1566 1622	Lipoinjerto laminar colocado debajo de la mucosa vaginal
-T35	PROCEDIMIENTO 167 184	tratada con láser
-T36	PROCEDIMIENTO 1848 1855	cirugía
-T37	PROCEDIMIENTO 1887 1904	anestesia general
-T38	PROCEDIMIENTO 2039 2126	aspirar de las caderas, empleando técnica tumescente con suero fisiológico y adrenalina
-T39	PROCEDIMIENTO 2202 2234	lipoaspiración empleamos cánulas
-T40	PROCEDIMIENTO 2273 2280	injerto
-T41	PROCEDIMIENTO 2537 2549	infiltración
-T42	PROCEDIMIENTO 2569 2683	Injertamos 10 cc de grasa en cada labio mayor, tunelizados en capas, y 4 cc en la submucosa posterior de la vagina
-T43	PROCEDIMIENTO 2705 2748	retroinyección, de forma paralela y laminar
-T44	PROCEDIMIENTO 2784 2818	resección de dos úlceras vaginales
-T45	PROCEDIMIENTO 2821 2880	aproximación del músculo transverso superficial del perineo
-T46	PROCEDIMIENTO 2894 2918	perineoplastia posterior
-T47	PROCEDIMIENTO 2999 3011	intervención
-T48	PROCEDIMIENTO 3013 3081	Eliminó dos puntos internos de hilo de sutura de ácido poliglicólico
-T49	PROCEDIMIENTO 3205 3212	cirugía
-T50	PROCEDIMIENTO 4224 4236	laserterapia
-T51	PROCEDIMIENTO 4550 4570	Resonancia Magnética
-T52	PROCEDIMIENTO 4601 4608	cirugía
-T53	PROCEDIMIENTO 4642 4664	material lipoinjertado
-T54	PROCEDIMIENTO 4927 4934	cirugía
-T55	PROCEDIMIENTO 493 515	fertilización in vitro
-T56	PROCEDIMIENTO 517 520	FIV
-T57	PROCEDIMIENTO 617 648	cauterización vaginal con láser
+T1	ENFERMEDAD 1361 1368	heridas
+T2	ENFERMEDAD 76 120	infecciones de repetición en el área genital
+T3	ENFERMEDAD 3583 3592	infección
+T4	ENFERMEDAD 1125 1141	úlceras crónicas
+T5	ENFERMEDAD 1735 1748	cicatrización
+T6	ENFERMEDAD 205 237	infecciones por Cándida albicans
+T7	ENFERMEDAD 3382 3426	fisura junto a la comisura vaginal posterior
+T8	ENFERMEDAD 286 300	herpes genital
+T9	ENFERMEDAD 319 330	candidiasis
+T10	ENFERMEDAD 669 681	ulceraciones
+T11	ENFERMEDAD 4198 4236	úlceras provocadas por la laserterapia
+T12	ENFERMEDAD 754 767	cicatrización
+T13	ENFERMEDAD 2801 2818	úlceras vaginales
+T14	ENFERMEDAD 3930 3962	fisuras en la comisura posterior
+T15	ENFERMEDAD 3998 4004	herida
+T16	ENFERMEDAD 780 791	vagina seca
+T17	ENFERMEDAD 1089 1096	heridas
+T18	PROCEDIMIENTO 1434 1463	Lipoinjerto en labios mayores
+T19	PROCEDIMIENTO 1324 1368	Resección de las áreas vaginales con heridas
+T20	PROCEDIMIENTO 1566 1622	Lipoinjerto laminar colocado debajo de la mucosa vaginal
+T21	PROCEDIMIENTO 1507 1532	cerrar el orificio vulvar
+T22	PROCEDIMIENTO 1386 1428	cobertura con colgajos locales de rotación
+T23	PROCEDIMIENTO 1887 1904	anestesia general
+T24	PROCEDIMIENTO 1155 1178	injerto de lipoaspirado
+T25	PROCEDIMIENTO 167 184	tratada con láser
+T26	PROCEDIMIENTO 2039 2126	aspirar de las caderas, empleando técnica tumescente con suero fisiológico y adrenalina
+T27	PROCEDIMIENTO 2202 2234	lipoaspiración empleamos cánulas
+T28	PROCEDIMIENTO 2273 2280	injerto
+T29	PROCEDIMIENTO 493 515	fertilización in vitro
+T30	PROCEDIMIENTO 517 520	FIV
+T31	PROCEDIMIENTO 617 648	cauterización vaginal con láser
+T32	PROCEDIMIENTO 4224 4236	laserterapia
+T33	PROCEDIMIENTO 2569 2683	Injertamos 10 cc de grasa en cada labio mayor, tunelizados en capas, y 4 cc en la submucosa posterior de la vagina
+T34	PROCEDIMIENTO 2784 2818	resección de dos úlceras vaginales
+T35	PROCEDIMIENTO 4550 4570	Resonancia Magnética
+T36	PROCEDIMIENTO 2894 2918	perineoplastia posterior
+T37	PROCEDIMIENTO 3013 3081	Eliminó dos puntos internos de hilo de sutura de ácido poliglicólico
+T38	PROCEDIMIENTO 2537 2549	infiltración
+T39	PROCEDIMIENTO 2705 2748	retroinyección, de forma paralela y laminar
+T40	PROCEDIMIENTO 4642 4664	material lipoinjertado
+T41	PROCEDIMIENTO 2821 2880	aproximación del músculo transverso superficial del perineo
+T42	PROCEDIMIENTO 1848 1855	cirugía
+T43	PROCEDIMIENTO 3205 3212	cirugía
+T44	PROCEDIMIENTO 4601 4608	cirugía
+T45	PROCEDIMIENTO 4927 4934	cirugía
+T46	PROCEDIMIENTO 2999 3011	intervención
+T47	SINTOMA 3340 3363	restricción del perineo
+T48	SINTOMA 369 382	dolor vaginal
+T49	SINTOMA 839 854	dolor constante
+T50	SINTOMA 3603 3634	humedad permanente de la vagina
+T51	SINTOMA 3718 3754	introito vaginal se mantiene cerrado
+T52	SINTOMA 780 791	vagina seca
+T53	SINTOMA 3760 3814	labios mayores presentan un aspecto juvenil y turgente
+T54	SINTOMA 425 449	actividad sexual regular
+T55	SINTOMA 3382 3416	fisura junto a la comisura vaginal
+T56	SINTOMA 3699 3713	sequedad local
+T57	SINTOMA 3930 3962	fisuras en la comisura posterior

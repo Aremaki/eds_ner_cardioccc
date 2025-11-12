@@ -1,32 +1,36 @@
-T1	SINTOMA 74 80	fiebre
-T2	SINTOMA 110 126	malestar general
-T3	SINTOMA 1285 1291	fiebre
-T4	SINTOMA 1559 1565	fiebre
-T5	SINTOMA 2206 2224	catalasa negativas
-T6	SINTOMA 2080 2114	colonias de color amarillo pálidas
-T7	SINTOMA 481 529	enrojecimiento en la zona de extracción dentaria
-T8	SINTOMA 693 721	función tiroidea normalizada
-T9	SINTOMA 1776 1849	hemocultivos aerobio y anaerobio el crecimiento de un bacilo gramnegativo
-T10	SINTOMA 1002 1058	hipercelularidad con parada madurativa en serie mieloide
-T11	SINTOMA 2502 2697	sensible a todos los antibióticos testados (ampicilina, amoxicilina-ácido clavulánico, azitromicina, levofloxacino, ciprofloxacino, cefotaxima, cefuroxima, imipenen, cotrimoxazol y tetraciclinas)
-T12	ENFERMEDAD 171 199	enfermedad de Graves-Basedow
-T13	ENFERMEDAD 406 411	bocio
-T14	ENFERMEDAD 445 451	caries
-T15	ENFERMEDAD 1516 1528	endocarditis
-T16	PROCEDIMIENTO 1339 1362	tratamiento antibiótico
-T17	PROCEDIMIENTO 1456 1485	ecocardiograma transesofágico
-T18	PROCEDIMIENTO 1776 1808	hemocultivos aerobio y anaerobio
-T19	PROCEDIMIENTO 1830 1973	bacilo gramnegativo que se subcultiva posteriormente en diferentes medios sólidos en aerobiosis, anaerobiosis y en atmósfera enriquecida en CO2
-T20	PROCEDIMIENTO 2334 2357	estudio de sensibilidad
-T21	PROCEDIMIENTO 2394 2476	método de Kirby-Bauer con placas de Mueller-Hinton sangre y con E-Test® AB BIODISK
-T22	PROCEDIMIENTO 2523 2535	antibióticos
-T23	PROCEDIMIENTO 267 303	extracción del tercer molar inferior
-T24	PROCEDIMIENTO 2683 2696	tetraciclinas
-T25	PROCEDIMIENTO 2807 2832	secuenciación del gen 16s
-T26	PROCEDIMIENTO 329 347	exploración física
-T27	PROCEDIMIENTO 510 529	extracción dentaria
-T28	PROCEDIMIENTO 580 598	análisis de sangre
-T29	PROCEDIMIENTO 693 709	función tiroidea
-T30	PROCEDIMIENTO 761 822	muestra de orina, esputo y sangre para estudio microbiológico
-T31	PROCEDIMIENTO 853 883	antibiótico de amplio espectro
-T32	PROCEDIMIENTO 939 961	estudio de médula ósea
+T1	ENFERMEDAD 171 199	enfermedad de Graves-Basedow
+T2	ENFERMEDAD 406 411	bocio
+T3	ENFERMEDAD 445 451	caries
+T4	ENFERMEDAD 1516 1528	endocarditis
+T5	PROCEDIMIENTO 1776 1808	hemocultivos aerobio y anaerobio
+T6	PROCEDIMIENTO 267 303	extracción del tercer molar inferior
+T7	PROCEDIMIENTO 329 347	exploración física
+T8	PROCEDIMIENTO 510 529	extracción dentaria
+T9	PROCEDIMIENTO 580 598	análisis de sangre
+T10	PROCEDIMIENTO 2334 2357	estudio de sensibilidad
+T11	PROCEDIMIENTO 2394 2476	método de Kirby-Bauer con placas de Mueller-Hinton sangre y con E-Test® AB BIODISK
+T12	PROCEDIMIENTO 693 709	función tiroidea
+T13	PROCEDIMIENTO 761 822	muestra de orina, esputo y sangre para estudio microbiológico
+T14	PROCEDIMIENTO 853 883	antibiótico de amplio espectro
+T15	PROCEDIMIENTO 939 961	estudio de médula ósea
+T16	PROCEDIMIENTO 1456 1485	ecocardiograma transesofágico
+T17	PROCEDIMIENTO 1339 1362	tratamiento antibiótico
+T18	PROCEDIMIENTO 1830 1973	bacilo gramnegativo que se subcultiva posteriormente en diferentes medios sólidos en aerobiosis, anaerobiosis y en atmósfera enriquecida en CO2
+T19	PROCEDIMIENTO 2807 2832	secuenciación del gen 16s
+T20	PROCEDIMIENTO 2683 2696	tetraciclinas
+T21	PROCEDIMIENTO 2523 2535	antibióticos
+T22	SINTOMA 74 80	fiebre
+T23	SINTOMA 110 126	malestar general
+T24	SINTOMA 481 529	enrojecimiento en la zona de extracción dentaria
+T25	SINTOMA 1285 1291	fiebre
+T26	SINTOMA 1559 1565	fiebre
+T27	SINTOMA 693 721	función tiroidea normalizada
+T28	SINTOMA 1002 1058	hipercelularidad con parada madurativa en serie mieloide
+T29	SINTOMA 1776 1849	hemocultivos aerobio y anaerobio el crecimiento de un bacilo gramnegativo
+T30	SINTOMA 2080 2114	colonias de color amarillo pálidas
+T31	SINTOMA 2187 2204	oxidasa positivas
+T32	SINTOMA 2206 2224	catalasa negativas
+T33	SINTOMA 2226 2250	ureasa e indol negativas
+T34	SINTOMA 2291 2326	fermentaron los hidratos de carbono
+T35	SINTOMA 2252 2285	redujeron los nitratos a nitritos
+T36	SINTOMA 2502 2697	sensible a todos los antibióticos testados (ampicilina, amoxicilina-ácido clavulánico, azitromicina, levofloxacino, ciprofloxacino, cefotaxima, cefuroxima, imipenen, cotrimoxazol y tetraciclinas)

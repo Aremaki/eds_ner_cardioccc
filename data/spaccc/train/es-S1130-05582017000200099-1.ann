@@ -1,16 +1,16 @@
-T1	SINTOMA 183 233	aumento de volumen en la encía vestibular inferior
-T2	SINTOMA 778 813	proliferación de células fusiformes
-T3	SINTOMA 571 579	indoloro
-T4	SINTOMA 404 410	nódulo
-T5	ENFERMEDAD 50 58	fumadora
-T6	ENFERMEDAD 113 136	alergias medicamentosas
-T7	ENFERMEDAD 1314 1330	fascitis nodular
-T8	ENFERMEDAD 659 665	lesión
-T9	ENFERMEDAD 730 736	lesión
+T1	ENFERMEDAD 50 58	fumadora
+T2	ENFERMEDAD 113 136	alergias medicamentosas
+T3	ENFERMEDAD 1314 1330	fascitis nodular
+T4	ENFERMEDAD 659 665	lesión
+T5	ENFERMEDAD 730 736	lesión
+T6	PROCEDIMIENTO 673 688	anestesia local
+T7	PROCEDIMIENTO 705 723	biopsia escisional
+T8	PROCEDIMIENTO 741 766	estudio anatomopatológico
+T9	PROCEDIMIENTO 373 387	examen clínico
 T10	PROCEDIMIENTO 1047 1075	estudios inmunohistoquímicos
-T11	PROCEDIMIENTO 373 387	examen clínico
+T11	PROCEDIMIENTO 587 606	estudio radiológico
 T12	PROCEDIMIENTO 469 478	palpación
-T13	PROCEDIMIENTO 587 606	estudio radiológico
-T14	PROCEDIMIENTO 673 688	anestesia local
-T15	PROCEDIMIENTO 705 723	biopsia escisional
-T16	PROCEDIMIENTO 741 766	estudio anatomopatológico
+T13	SINTOMA 183 233	aumento de volumen en la encía vestibular inferior
+T14	SINTOMA 571 579	indoloro
+T15	SINTOMA 404 410	nódulo
+T16	SINTOMA 778 813	proliferación de células fusiformes

@@ -1,23 +1,23 @@
-T1	SINTOMA 253 285	aumento de tamaño de hemiescroto
-T2	SINTOMA 552 614	beta-HCG y alfafetoproteína dentro de los rangos de referencia
-T3	SINTOMA 317 322	dolor
-T4	SINTOMA 327 333	fiebre
-T5	SINTOMA 390 455	hemiescroto izquierdo mayor de lo normal, a tensión, con una masa
-T6	ENFERMEDAD 1692 1717	quiste testicular benigno
-T7	ENFERMEDAD 64 90	adenocarcinoma de próstata
-T8	ENFERMEDAD 1733 1770	dilatación quística de la rete testis
-T9	ENFERMEDAD 1218 1273	cavidad quística que comprimía el parénquima testicular
-T10	ENFERMEDAD 1341 1347	quiste
-T11	ENFERMEDAD 1486 1550	parénquima testicular tenía intensos signos de atrofia, fibrosis
-T12	ENFERMEDAD 780 812	quiste dependiente del epidídimo
-T13	ENFERMEDAD 869 881	cistoadenoma
-T14	ENFERMEDAD 1440 1450	ulceración
-T15	ENFERMEDAD 1364 1398	teste y reveló una lesión quística
-T16	ENFERMEDAD 660 692	masa quística a nivel de escroto
-T17	PROCEDIMIENTO 103 122	análogos de la LHRH
-T18	PROCEDIMIENTO 1278 1309	estudio patológico microscópico
-T19	PROCEDIMIENTO 1656 1686	diagnóstico anátomo-patológico
-T20	PROCEDIMIENTO 355 373	exploración física
-T21	PROCEDIMIENTO 518 536	análisis de sangre
-T22	PROCEDIMIENTO 618 636	ecografía escrotal
-T23	PROCEDIMIENTO 993 1015	orquiectomía bilateral
+T1	ENFERMEDAD 1692 1717	quiste testicular benigno
+T2	ENFERMEDAD 64 90	adenocarcinoma de próstata
+T3	ENFERMEDAD 1733 1770	dilatación quística de la rete testis
+T4	ENFERMEDAD 1218 1273	cavidad quística que comprimía el parénquima testicular
+T5	ENFERMEDAD 1341 1347	quiste
+T6	ENFERMEDAD 1486 1550	parénquima testicular tenía intensos signos de atrofia, fibrosis
+T7	ENFERMEDAD 780 812	quiste dependiente del epidídimo
+T8	ENFERMEDAD 869 881	cistoadenoma
+T9	ENFERMEDAD 1440 1450	ulceración
+T10	ENFERMEDAD 1364 1398	teste y reveló una lesión quística
+T11	ENFERMEDAD 660 692	masa quística a nivel de escroto
+T12	PROCEDIMIENTO 103 122	análogos de la LHRH
+T13	PROCEDIMIENTO 1278 1309	estudio patológico microscópico
+T14	PROCEDIMIENTO 355 373	exploración física
+T15	PROCEDIMIENTO 518 536	análisis de sangre
+T16	PROCEDIMIENTO 618 636	ecografía escrotal
+T17	PROCEDIMIENTO 993 1015	orquiectomía bilateral
+T18	PROCEDIMIENTO 1656 1686	diagnóstico anátomo-patológico
+T19	SINTOMA 253 285	aumento de tamaño de hemiescroto
+T20	SINTOMA 327 333	fiebre
+T21	SINTOMA 390 455	hemiescroto izquierdo mayor de lo normal, a tensión, con una masa
+T22	SINTOMA 317 322	dolor
+T23	SINTOMA 552 614	beta-HCG y alfafetoproteína dentro de los rangos de referencia

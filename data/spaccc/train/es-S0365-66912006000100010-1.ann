@@ -1,12 +1,44 @@
-T1	SINTOMA 1146 1156	anisocoria
-T2	SINTOMA 698 718	clínicamente estable
-T3	SINTOMA 1397 1430	diplopía en todas las posiciones,
-T4	SINTOMA 943 986	fibras nerviosas mielinizadas en ambos ojos
-T5	SINTOMA 382 429	hemorragia subaracnoidea frontoparietal derecha
-T6	SINTOMA 454 473	higromas subdurales
-T7	SINTOMA 1161 1178	midriasis del ojo
-T8	SINTOMA 992 1013	papilas eran normales
-T9	SINTOMA 1773 1796	petequias subcorticales
-T10	SINTOMA 343 368	sangrado intraventricular
-T11	SINTOMA 2282 2290	síntomas
-T12	SINTOMA 1376 1386	tortícolis
+T1	ENFERMEDAD 47 110	traumatismo craneoencefálico grave, por un accidente de tráfico
+T2	ENFERMEDAD 226 262	traumatismo grave torácico y pélvico
+T3	ENFERMEDAD 382 429	hemorragia subaracnoidea frontoparietal derecha
+T4	ENFERMEDAD 454 473	higromas subdurales
+T5	ENFERMEDAD 550 646	fractura múltiple del macizo facial incluyendo el techo y la pared medial de la órbita izquierda
+T6	ENFERMEDAD 831 854	facoesclerosis moderada
+T7	ENFERMEDAD 1146 1188	anisocoria con midriasis del ojo izquierdo
+T8	ENFERMEDAD 1241 1303	parálisis de ambos nervios abductores y del motor ocular común
+T9	ENFERMEDAD 1335 1341	ptosis
+T10	ENFERMEDAD 1376 1386	tortícolis
+T11	ENFERMEDAD 1878 1896	daño axonal difuso
+T12	ENFERMEDAD 1916 1964	lesiones estructurales en el tronco del encéfalo
+T13	ENFERMEDAD 343 368	sangrado intraventricular
+T14	ENFERMEDAD 2024 2043	parálisis combinada
+T15	ENFERMEDAD 1397 1405	diplopía
+T16	ENFERMEDAD 187 191	coma
+T17	ENFERMEDAD 487 516	lesiones en la fosa posterior
+T18	ENFERMEDAD 1773 1796	petequias subcorticales
+T19	ENFERMEDAD 1799 1833	lesiones focales de cuerpo calloso
+T20	PROCEDIMIENTO 275 297	intubación orotraqueal
+T21	PROCEDIMIENTO 300 316	drenaje torácico
+T22	PROCEDIMIENTO 321 332	TAC craneal
+T23	PROCEDIMIENTO 524 534	TAC facial
+T24	PROCEDIMIENTO 723 744	estudio oftalmológico
+T25	PROCEDIMIENTO 799 813	biomicroscopía
+T26	PROCEDIMIENTO 898 909	funduscopía
+T27	PROCEDIMIENTO 1091 1132	estudio de la motilidad ocular intrínseca
+T28	PROCEDIMIENTO 1647 1657	RM craneal
+T29	PROCEDIMIENTO 2126 2192	inyección de toxina botulínica (5 UI Botox) en ambos rectos medios
+T30	PROCEDIMIENTO 1578 1600	tratamiento quirúrgico
+T31	PROCEDIMIENTO 1737 1748	exploración
+T32	PROCEDIMIENTO 1500 1516	radiológicamente
+T33	SINTOMA 943 986	fibras nerviosas mielinizadas en ambos ojos
+T34	SINTOMA 698 718	clínicamente estable
+T35	SINTOMA 992 1013	papilas eran normales
+T36	SINTOMA 343 368	sangrado intraventricular
+T37	SINTOMA 1146 1156	anisocoria
+T38	SINTOMA 1161 1178	midriasis del ojo
+T39	SINTOMA 1773 1796	petequias subcorticales
+T40	SINTOMA 382 429	hemorragia subaracnoidea frontoparietal derecha
+T41	SINTOMA 454 473	higromas subdurales
+T42	SINTOMA 1376 1386	tortícolis
+T43	SINTOMA 1397 1430	diplopía en todas las posiciones,
+T44	SINTOMA 2282 2290	síntomas

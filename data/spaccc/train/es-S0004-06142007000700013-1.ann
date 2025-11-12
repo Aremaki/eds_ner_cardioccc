@@ -1,27 +1,33 @@
-T1	SINTOMA 659 683	abdomen, globuloso, duro
-T2	SINTOMA 1419 1489	elevación diafragmática condicionada por el gran tamaño de los riñones
-T3	SINTOMA 544 561	facies triangular
-T4	SINTOMA 56 66	fallecidos
-T5	SINTOMA 470 478	falleció
-T6	SINTOMA 566 600	hendiduras parpebrales mongoloides
-T7	SINTOMA 746 796	masas ocupando ambas fosas renales y hemiabdomenes
-T8	SINTOMA 863 876	masas renales
-T9	SINTOMA 602 613	micrognatia
-T10	SINTOMA 634 654	occipucio prominente
-T11	SINTOMA 399 421	presentación de nalgas
-T12	SINTOMA 2582 2650	proliferación y dilatación, incluso quística, de los ductos biliares
-T13	SINTOMA 615 631	raiz nasal ancha
-T14	SINTOMA 1202 1229	riñón un aspecto de esponja
-T15	SINTOMA 520 542	tonalidad subcianótica
-T16	ENFERMEDAD 253 285	insuficiencia respiratoria grave
-T17	ENFERMEDAD 302 320	Síndrome de Potter
-T18	ENFERMEDAD 344 362	oligoamnios severo
-T19	ENFERMEDAD 602 613	micrognatia
-T20	ENFERMEDAD 1107 1114	quistes
-T21	ENFERMEDAD 1998 2049	riñones en los que se demostraron múltiples quistes
-T22	ENFERMEDAD 2119 2126	quistes
-T23	ENFERMEDAD 2369 2386	quistes medulares
-T24	ENFERMEDAD 2745 2803	enfermedad poliquística renal autosómica recesiva infantil
-T25	ENFERMEDAD 1048 1069	formaciones quísticas
-T26	ENFERMEDAD 2282 2289	quistes
-T27	ENFERMEDAD 2598 2650	dilatación, incluso quística, de los ductos biliares
+T1	ENFERMEDAD 253 285	insuficiencia respiratoria grave
+T2	ENFERMEDAD 302 320	Síndrome de Potter
+T3	ENFERMEDAD 344 362	oligoamnios severo
+T4	ENFERMEDAD 602 613	micrognatia
+T5	ENFERMEDAD 1107 1114	quistes
+T6	ENFERMEDAD 1998 2049	riñones en los que se demostraron múltiples quistes
+T7	ENFERMEDAD 2119 2126	quistes
+T8	ENFERMEDAD 2369 2386	quistes medulares
+T9	ENFERMEDAD 2745 2803	enfermedad poliquística renal autosómica recesiva infantil
+T10	ENFERMEDAD 1048 1069	formaciones quísticas
+T11	ENFERMEDAD 2282 2289	quistes
+T12	ENFERMEDAD 2598 2650	dilatación, incluso quística, de los ductos biliares
+T13	PROCEDIMIENTO 138 155	examen necrópsico
+T14	PROCEDIMIENTO 379 394	cesárea urgente
+T15	PROCEDIMIENTO 1937 1956	estudio histológico
+T16	PROCEDIMIENTO 483 497	examen externo
+T17	PROCEDIMIENTO 721 730	palpación
+T18	PROCEDIMIENTO 803 824	apertura de cavidades
+T19	SINTOMA 399 421	presentación de nalgas
+T20	SINTOMA 566 600	hendiduras parpebrales mongoloides
+T21	SINTOMA 615 631	raiz nasal ancha
+T22	SINTOMA 634 654	occipucio prominente
+T23	SINTOMA 659 683	abdomen, globuloso, duro
+T24	SINTOMA 746 796	masas ocupando ambas fosas renales y hemiabdomenes
+T25	SINTOMA 863 876	masas renales
+T26	SINTOMA 2582 2650	proliferación y dilatación, incluso quística, de los ductos biliares
+T27	SINTOMA 520 542	tonalidad subcianótica
+T28	SINTOMA 544 561	facies triangular
+T29	SINTOMA 1202 1229	riñón un aspecto de esponja
+T30	SINTOMA 1419 1489	elevación diafragmática condicionada por el gran tamaño de los riñones
+T31	SINTOMA 56 66	fallecidos
+T32	SINTOMA 470 478	falleció
+T33	SINTOMA 602 613	micrognatia

@@ -1,9 +1,23 @@
-T1	SINTOMA 2109 2134	alteraciones en la marcha
-T2	SINTOMA 248 262	piel inestable
-T3	ENFERMEDAD 2054 2070	diastásis púbica
-T4	ENFERMEDAD 66 84	extrofia de cloaca
-T5	ENFERMEDAD 264 282	eventración púbica
-T6	ENFERMEDAD 294 315	secuelas cicatrizales
-T7	ENFERMEDAD 1699 1710	eventración
-T8	ENFERMEDAD 210 246	ausencia de pared abdominal anterior
-T9	ENFERMEDAD 321 353	reservorio urinario incontinente
+T1	ENFERMEDAD 2054 2070	diastásis púbica
+T2	ENFERMEDAD 66 84	extrofia de cloaca
+T3	ENFERMEDAD 264 282	eventración púbica
+T4	ENFERMEDAD 294 315	secuelas cicatrizales
+T5	ENFERMEDAD 1699 1710	eventración
+T6	ENFERMEDAD 210 246	ausencia de pared abdominal anterior
+T7	ENFERMEDAD 321 353	reservorio urinario incontinente
+T8	PROCEDIMIENTO 368 394	reconstrucción de la pared
+T9	PROCEDIMIENTO 566 814	expansores rectangulares de 1000cc. (con capacidad de expansión hasta 1500cc) y de 15,2 cm. de largo x 7,3 de ancho con válvula remota (Silimed®) por debajo del tejido celulo- graso abdominal y por encima de la aponeurosis del músculo oblicuo mayor
+T10	PROCEDIMIENTO 1170 1191	retiró los expansores
+T11	PROCEDIMIENTO 396 410	eventroplastia
+T12	PROCEDIMIENTO 413 440	plastia del ostoma urinario
+T13	PROCEDIMIENTO 86 137	reconstrucción de los tractos intestinal y urinario
+T14	PROCEDIMIENTO 1225 1252	plastia del ostoma urinario
+T15	PROCEDIMIENTO 1312 1482	reconstrucción de los tercios superior y medio de la pared utilizando los tejidos remanentes de la vaina del recto abdominal, músculo recto abdominal y tejido cicatricial
+T16	PROCEDIMIENTO 321 353	reservorio urinario incontinente
+T17	PROCEDIMIENTO 1518 1621	pubis, debido a la ausencia de tejido, se decide la utilización de una malla protésica de polipropileno
+T18	PROCEDIMIENTO 1797 1912	reconstrucción de la piel y de los tejidos celulo-grasos se logra con el avance de los tejidos laterales expandidos
+T19	PROCEDIMIENTO 1988 2020	cirugía reconstructiva de vagina
+T20	PROCEDIMIENTO 1088 1129	cirugía de la pared y del ostoma urinario
+T21	PROCEDIMIENTO 1589 1710	malla protésica de polipropileno (Prolene®) de 15 x 10 cm por encima del tejido laxo cicatricial que cubre la eventración
+T22	SINTOMA 2109 2134	alteraciones en la marcha
+T23	SINTOMA 248 262	piel inestable

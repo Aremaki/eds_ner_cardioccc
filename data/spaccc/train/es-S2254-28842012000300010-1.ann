@@ -1,43 +1,70 @@
-T1	SINTOMA 1289 1313	disfunción de la fístula
-T2	SINTOMA 4370 4392	disfunción del catéter
-T3	SINTOMA 3421 3435	fuga de sangre
-T4	SINTOMA 3579 3593	fuga de sangre
-T5	SINTOMA 3158 3172	fuga de sangre
-T6	PROCEDIMIENTO 1078 1106	FAVI húmero-basílica derecha
-T7	PROCEDIMIENTO 1163 1201	injerto de PTFE húmero-axilar derecho,
-T8	PROCEDIMIENTO 1352 1402	catéter tunelizado en la yugular interna izquierda
-T9	PROCEDIMIENTO 1482 1496	antibioterapia
-T10	PROCEDIMIENTO 1544 1580	canalizar la yugular interna derecha
-T11	PROCEDIMIENTO 1597 1631	catéter en la vena femoral derecha
-T12	PROCEDIMIENTO 1673 1677	FAVI
-T13	PROCEDIMIENTO 1827 1888	prótesis de PTFE entre la arteria y la vena femoral izquierda
-T14	PROCEDIMIENTO 190 204	apendicectomía
-T15	PROCEDIMIENTO 2003 2051	catéter tunelizado en la yugular interna derecha
-T16	PROCEDIMIENTO 206 221	colecistectomía
-T17	PROCEDIMIENTO 2131 2145	antibioterapia
-T18	PROCEDIMIENTO 2238 2290	tratamiento fibrinolítico tanto local como sistémico
-T19	PROCEDIMIENTO 224 253	herniorrafia inguinal derecha
-T20	PROCEDIMIENTO 2337 2352	anticoagulación
-T21	PROCEDIMIENTO 2538 2564	tratamiento anticoagulante
-T22	PROCEDIMIENTO 255 268	Esplenectomía
-T23	PROCEDIMIENTO 2657 2712	sustituir el catéter a través del mismo trayecto venoso
-T24	PROCEDIMIENTO 2734 2764	introducción del nuevo catéter
-T25	PROCEDIMIENTO 2845 2890	catéter temporal en la vena femoral izquierda
-T26	PROCEDIMIENTO 2930 2957	catéter central funcionante
-T27	PROCEDIMIENTO 2985 3096	catéter tunelizado tipo Split-Cath directamente en aurícula derecha, mediante mini-toracotomía anterior derecha
-T28	PROCEDIMIENTO 300 319	nefrectomía derecha
-T29	PROCEDIMIENTO 3127 3135	diálisis
-T30	PROCEDIMIENTO 32 34	HD
-T31	PROCEDIMIENTO 3357 3371	antibioterapia
-T32	PROCEDIMIENTO 3456 3541	sellado de silicona estéril y colocando una funda de PTFE alrededor del punto de fuga
-T33	PROCEDIMIENTO 3634 3657	sellado y funda de PTFE
-T34	PROCEDIMIENTO 3772 3807	catéter temporal en femoral derecha
-T35	PROCEDIMIENTO 3864 3944	recambio transtorácico por toracotomía, colocándose otro catéter tipo Split-Cath
-T36	PROCEDIMIENTO 396 442	canulación de la femoral (catéter de diálisis)
-T37	PROCEDIMIENTO 4385 4417	catéter, se volvió a recolocarlo
-T38	PROCEDIMIENTO 4542 4577	catéter temporal en femoral derecha
-T39	PROCEDIMIENTO 4688 4752	se dializa en su centro de diálisis por el catéter transtorácico
-T40	PROCEDIMIENTO 681 696	acceso vascular
-T41	PROCEDIMIENTO 748 771	catéter femoral derecho
-T42	PROCEDIMIENTO 847 877	FAVI húmero-cefálica izquierda
-T43	PROCEDIMIENTO 94 115	nefrectomía bilateral
+T1	ENFERMEDAD 167 188	hipertensión arterial
+T2	ENFERMEDAD 3979 4010	shock cardiogénico post-cirugía
+T3	ENFERMEDAD 3321 3342	infección del catéter
+T4	ENFERMEDAD 2448 2515	hemorragia digestiva baja, por colitis isquémica y pólipos en colon
+T5	ENFERMEDAD 2093 2116	bacteriemia por E. Coli
+T6	ENFERMEDAD 61 135	insuficiencia renal secundaria a nefrectomía bilateral por neoplasia renal
+T7	ENFERMEDAD 2479 2496	colitis isquémica
+T8	ENFERMEDAD 1206 1215	trombosis
+T9	ENFERMEDAD 2499 2515	pólipos en colon
+T10	ENFERMEDAD 798 814	trombosis venosa
+T11	ENFERMEDAD 4049 4091	estenosis valvular aórtica moderada-severa
+T12	ENFERMEDAD 933 957	dilatación aneurismática
+T13	ENFERMEDAD 120 135	neoplasia renal
+T14	ENFERMEDAD 273 288	lesión del bazo
+T15	ENFERMEDAD 1260 1269	infección
+T16	ENFERMEDAD 2769 2807	trombosis completa de la cava superior
+T17	ENFERMEDAD 1937 1946	trombosis
+T18	ENFERMEDAD 975 992	trombosis parcial
+T19	ENFERMEDAD 1455 1464	infección
+T20	ENFERMEDAD 328 442	Trombosis venosa en el miembro inferior derecho condicionada por la canulación de la femoral (catéter de diálisis)
+T21	ENFERMEDAD 444 461	Colitis isquémica
+T22	ENFERMEDAD 463 481	poliposis de colon
+T23	ENFERMEDAD 484 509	hemorragia digestiva baja
+T24	ENFERMEDAD 553 597	hemorragia digestiva baja por angiodisplasia
+T25	ENFERMEDAD 583 597	angiodisplasia
+T26	ENFERMEDAD 624 666	estenosis valvular aórtica moderada-severa
+T27	ENFERMEDAD 1306 1313	fístula
+T28	PROCEDIMIENTO 681 696	acceso vascular
+T29	PROCEDIMIENTO 2657 2712	sustituir el catéter a través del mismo trayecto venoso
+T30	PROCEDIMIENTO 2985 3096	catéter tunelizado tipo Split-Cath directamente en aurícula derecha, mediante mini-toracotomía anterior derecha
+T31	PROCEDIMIENTO 1827 1888	prótesis de PTFE entre la arteria y la vena femoral izquierda
+T32	PROCEDIMIENTO 3127 3135	diálisis
+T33	PROCEDIMIENTO 847 877	FAVI húmero-cefálica izquierda
+T34	PROCEDIMIENTO 1163 1201	injerto de PTFE húmero-axilar derecho,
+T35	PROCEDIMIENTO 32 34	HD
+T36	PROCEDIMIENTO 1078 1106	FAVI húmero-basílica derecha
+T37	PROCEDIMIENTO 2845 2890	catéter temporal en la vena femoral izquierda
+T38	PROCEDIMIENTO 3864 3944	recambio transtorácico por toracotomía, colocándose otro catéter tipo Split-Cath
+T39	PROCEDIMIENTO 190 204	apendicectomía
+T40	PROCEDIMIENTO 2003 2051	catéter tunelizado en la yugular interna derecha
+T41	PROCEDIMIENTO 3772 3807	catéter temporal en femoral derecha
+T42	PROCEDIMIENTO 4542 4577	catéter temporal en femoral derecha
+T43	PROCEDIMIENTO 2337 2352	anticoagulación
+T44	PROCEDIMIENTO 1544 1580	canalizar la yugular interna derecha
+T45	PROCEDIMIENTO 748 771	catéter femoral derecho
+T46	PROCEDIMIENTO 206 221	colecistectomía
+T47	PROCEDIMIENTO 1352 1402	catéter tunelizado en la yugular interna izquierda
+T48	PROCEDIMIENTO 3357 3371	antibioterapia
+T49	PROCEDIMIENTO 224 253	herniorrafia inguinal derecha
+T50	PROCEDIMIENTO 2131 2145	antibioterapia
+T51	PROCEDIMIENTO 3456 3541	sellado de silicona estéril y colocando una funda de PTFE alrededor del punto de fuga
+T52	PROCEDIMIENTO 3634 3657	sellado y funda de PTFE
+T53	PROCEDIMIENTO 94 115	nefrectomía bilateral
+T54	PROCEDIMIENTO 4688 4752	se dializa en su centro de diálisis por el catéter transtorácico
+T55	PROCEDIMIENTO 1597 1631	catéter en la vena femoral derecha
+T56	PROCEDIMIENTO 255 268	Esplenectomía
+T57	PROCEDIMIENTO 300 319	nefrectomía derecha
+T58	PROCEDIMIENTO 1673 1677	FAVI
+T59	PROCEDIMIENTO 1482 1496	antibioterapia
+T60	PROCEDIMIENTO 396 442	canulación de la femoral (catéter de diálisis)
+T61	PROCEDIMIENTO 2538 2564	tratamiento anticoagulante
+T62	PROCEDIMIENTO 2238 2290	tratamiento fibrinolítico tanto local como sistémico
+T63	PROCEDIMIENTO 2734 2764	introducción del nuevo catéter
+T64	PROCEDIMIENTO 4385 4417	catéter, se volvió a recolocarlo
+T65	PROCEDIMIENTO 2930 2957	catéter central funcionante
+T66	SINTOMA 1289 1313	disfunción de la fístula
+T67	SINTOMA 4370 4392	disfunción del catéter
+T68	SINTOMA 3158 3172	fuga de sangre
+T69	SINTOMA 3421 3435	fuga de sangre
+T70	SINTOMA 3579 3593	fuga de sangre

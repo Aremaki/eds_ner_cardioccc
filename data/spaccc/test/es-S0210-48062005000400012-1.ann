@@ -1,76 +1,76 @@
-T1	SINTOMA 794 814	función renal normal
-T2	SINTOMA 2782 2792	leucopenia
-T3	SINTOMA 3375 3382	fallece
-T4	SINTOMA 618 635	abdomen globuloso
-T5	SINTOMA 958 1002	citología fue positiva para células malignas
-T6	SINTOMA 588 617	deterioro del estado general,
-T7	SINTOMA 3419 3479	deterioro progresivo de la función renal y el estado general
-T8	SINTOMA 3117 3142	dolores óseos y abdominal
-T9	SINTOMA 1377 1407	engrosamiento de pared vesical
-T10	SINTOMA 508 536	hematuria total con coágulos
-T11	SINTOMA 776 792	hemograma normal
-T12	SINTOMA 3247 3265	imágenes nodulares
-T13	SINTOMA 816 834	leve hiperuricemia
-T14	SINTOMA 449 471	micción en dos tiempos
-T15	SINTOMA 388 404	micción nocturna
-T16	SINTOMA 426 444	polaquiuria diurna
-T17	SINTOMA 1321 1334	pT2-pT3 G-III
-T18	SINTOMA 889 905	riñones normales
-T19	SINTOMA 317 352	síntomas de tramo urinario inferior
-T20	SINTOMA 1741 1843	tumoración epitelial ulcerada infiltrante de todo el espesor de pared hasta tejido adiposo perivesical
-T21	ENFERMEDAD 72 118	cardiopatía isquémica con infarto de miocardio
-T22	ENFERMEDAD 1410 1453	ateromatosis calcificada aorto-ilio-femoral
-T23	ENFERMEDAD 163 233	arteriosclerosis de troncos supraaórticos y de extremidades inferiores
-T24	ENFERMEDAD 2738 2759	infecciones urinarias
-T25	ENFERMEDAD 1507 1518	adenopatías
-T26	ENFERMEDAD 1032 1057	lesión neoplásica vesical
-T27	ENFERMEDAD 2773 2779	anemia
-T28	ENFERMEDAD 235 239	EPOC
-T29	ENFERMEDAD 1101 1281	carcinoma mixto, papilar de células transicionales grado II-III infiltrante de músculo liso con áreas de adenocarcinoma mucoide infiltrante asociado a lesiones de carcinoma in situ
-T30	ENFERMEDAD 268 281	hernia discal
-T31	ENFERMEDAD 284 302	estenosis de canal
-T32	ENFERMEDAD 2038 2062	carcinoma seroso ovárico
-T33	ENFERMEDAD 3280 3325	recidiva mesentérica en hemiabdomen izquierdo
-T34	ENFERMEDAD 1284 1311	cistitis glandular quística
-T35	ENFERMEDAD 2183 2222	carcinoma de próstata bien diferenciado
-T36	ENFERMEDAD 508 536	hematuria total con coágulos
-T37	ENFERMEDAD 3484 3518	progresión intra y retroperitoneal
-T38	ENFERMEDAD 2311 2356	ganglios afectados por carcinoma micropapilar
-T39	ENFERMEDAD 638 661	cicatriz de toracotomía
-T40	ENFERMEDAD 241 248	fumador
-T41	ENFERMEDAD 1965 1982	invasión vascular
-T42	ENFERMEDAD 821 834	hiperuricemia
-T43	ENFERMEDAD 40 70	patología cardiovascular grave
-T44	ENFERMEDAD 908 940	lesión exofítica en base vesical
-T45	ENFERMEDAD 1101 1116	carcinoma mixto
-T46	ENFERMEDAD 1101 1151	carcinoma mixto, papilar de células transicionales
-T47	ENFERMEDAD 1206 1240	adenocarcinoma mucoide infiltrante
-T48	ENFERMEDAD 1264 1281	carcinoma in situ
-T49	ENFERMEDAD 3328 3361	dilatación renoureteral bilateral
-T50	PROCEDIMIENTO 1008 1019	cistoscopia
-T51	PROCEDIMIENTO 1090 1093	RTU
-T52	PROCEDIMIENTO 131 161	triple by-pass aorto-coronario
-T53	PROCEDIMIENTO 1340 1343	TAC
-T54	PROCEDIMIENTO 1546 1573	cistoprostatectomía radical
-T55	PROCEDIMIENTO 1576 1605	neovejiga ileal tipo Camey II
-T56	PROCEDIMIENTO 1684 1704	análisis histológico
-T57	PROCEDIMIENTO 2270 2295	linfadenectomía izquierda
-T58	PROCEDIMIENTO 2598 2611	quimioterapia
-T59	PROCEDIMIENTO 2808 2832	transfusiones sanguíneas
-T60	PROCEDIMIENTO 2835 2868	factores estimulantes de colonias
-T61	PROCEDIMIENTO 2897 2900	QMT
-T62	PROCEDIMIENTO 2954 2973	controles de imagen
-T63	PROCEDIMIENTO 2983 2992	ecografía
-T64	PROCEDIMIENTO 2995 2998	TAC
-T65	PROCEDIMIENTO 3154 3163	analgesia
-T66	PROCEDIMIENTO 3191 3194	TAC
-T67	PROCEDIMIENTO 3218 3230	intervención
-T68	PROCEDIMIENTO 543 561	exploración física
-T69	PROCEDIMIENTO 650 661	toracotomía
-T70	PROCEDIMIENTO 666 678	tacto rectal
-T71	PROCEDIMIENTO 679 698	se palpaba próstata
-T72	PROCEDIMIENTO 747 766	analítica de sangre
-T73	PROCEDIMIENTO 776 785	hemograma
-T74	PROCEDIMIENTO 794 807	función renal
-T75	PROCEDIMIENTO 862 871	ecografía
-T76	PROCEDIMIENTO 958 967	citología
+T1	ENFERMEDAD 72 118	cardiopatía isquémica con infarto de miocardio
+T2	ENFERMEDAD 1410 1453	ateromatosis calcificada aorto-ilio-femoral
+T3	ENFERMEDAD 163 233	arteriosclerosis de troncos supraaórticos y de extremidades inferiores
+T4	ENFERMEDAD 2738 2759	infecciones urinarias
+T5	ENFERMEDAD 1507 1518	adenopatías
+T6	ENFERMEDAD 1032 1057	lesión neoplásica vesical
+T7	ENFERMEDAD 2773 2779	anemia
+T8	ENFERMEDAD 235 239	EPOC
+T9	ENFERMEDAD 1101 1281	carcinoma mixto, papilar de células transicionales grado II-III infiltrante de músculo liso con áreas de adenocarcinoma mucoide infiltrante asociado a lesiones de carcinoma in situ
+T10	ENFERMEDAD 268 281	hernia discal
+T11	ENFERMEDAD 284 302	estenosis de canal
+T12	ENFERMEDAD 2038 2062	carcinoma seroso ovárico
+T13	ENFERMEDAD 3280 3325	recidiva mesentérica en hemiabdomen izquierdo
+T14	ENFERMEDAD 1284 1311	cistitis glandular quística
+T15	ENFERMEDAD 2183 2222	carcinoma de próstata bien diferenciado
+T16	ENFERMEDAD 508 536	hematuria total con coágulos
+T17	ENFERMEDAD 3484 3518	progresión intra y retroperitoneal
+T18	ENFERMEDAD 2311 2356	ganglios afectados por carcinoma micropapilar
+T19	ENFERMEDAD 638 661	cicatriz de toracotomía
+T20	ENFERMEDAD 241 248	fumador
+T21	ENFERMEDAD 1965 1982	invasión vascular
+T22	ENFERMEDAD 821 834	hiperuricemia
+T23	ENFERMEDAD 40 70	patología cardiovascular grave
+T24	ENFERMEDAD 908 940	lesión exofítica en base vesical
+T25	ENFERMEDAD 1101 1116	carcinoma mixto
+T26	ENFERMEDAD 1101 1151	carcinoma mixto, papilar de células transicionales
+T27	ENFERMEDAD 1206 1240	adenocarcinoma mucoide infiltrante
+T28	ENFERMEDAD 1264 1281	carcinoma in situ
+T29	ENFERMEDAD 3328 3361	dilatación renoureteral bilateral
+T30	PROCEDIMIENTO 1340 1343	TAC
+T31	PROCEDIMIENTO 862 871	ecografía
+T32	PROCEDIMIENTO 1684 1704	análisis histológico
+T33	PROCEDIMIENTO 1546 1573	cistoprostatectomía radical
+T34	PROCEDIMIENTO 2897 2900	QMT
+T35	PROCEDIMIENTO 2598 2611	quimioterapia
+T36	PROCEDIMIENTO 776 785	hemograma
+T37	PROCEDIMIENTO 1576 1605	neovejiga ileal tipo Camey II
+T38	PROCEDIMIENTO 958 967	citología
+T39	PROCEDIMIENTO 2983 2992	ecografía
+T40	PROCEDIMIENTO 2995 2998	TAC
+T41	PROCEDIMIENTO 131 161	triple by-pass aorto-coronario
+T42	PROCEDIMIENTO 1008 1019	cistoscopia
+T43	PROCEDIMIENTO 1090 1093	RTU
+T44	PROCEDIMIENTO 2808 2832	transfusiones sanguíneas
+T45	PROCEDIMIENTO 3154 3163	analgesia
+T46	PROCEDIMIENTO 3191 3194	TAC
+T47	PROCEDIMIENTO 543 561	exploración física
+T48	PROCEDIMIENTO 2270 2295	linfadenectomía izquierda
+T49	PROCEDIMIENTO 650 661	toracotomía
+T50	PROCEDIMIENTO 666 678	tacto rectal
+T51	PROCEDIMIENTO 679 698	se palpaba próstata
+T52	PROCEDIMIENTO 747 766	analítica de sangre
+T53	PROCEDIMIENTO 2835 2868	factores estimulantes de colonias
+T54	PROCEDIMIENTO 2954 2973	controles de imagen
+T55	PROCEDIMIENTO 794 807	función renal
+T56	PROCEDIMIENTO 3218 3230	intervención
+T57	SINTOMA 889 905	riñones normales
+T58	SINTOMA 776 792	hemograma normal
+T59	SINTOMA 1377 1407	engrosamiento de pared vesical
+T60	SINTOMA 794 814	función renal normal
+T61	SINTOMA 1741 1843	tumoración epitelial ulcerada infiltrante de todo el espesor de pared hasta tejido adiposo perivesical
+T62	SINTOMA 816 834	leve hiperuricemia
+T63	SINTOMA 958 1002	citología fue positiva para células malignas
+T64	SINTOMA 2782 2792	leucopenia
+T65	SINTOMA 3117 3142	dolores óseos y abdominal
+T66	SINTOMA 317 352	síntomas de tramo urinario inferior
+T67	SINTOMA 388 404	micción nocturna
+T68	SINTOMA 426 444	polaquiuria diurna
+T69	SINTOMA 449 471	micción en dos tiempos
+T70	SINTOMA 3419 3479	deterioro progresivo de la función renal y el estado general
+T71	SINTOMA 588 617	deterioro del estado general,
+T72	SINTOMA 618 635	abdomen globuloso
+T73	SINTOMA 3375 3382	fallece
+T74	SINTOMA 3247 3265	imágenes nodulares
+T75	SINTOMA 508 536	hematuria total con coágulos
+T76	SINTOMA 1321 1334	pT2-pT3 G-III

@@ -1,37 +1,53 @@
-T1	SINTOMA 1279 1318	dilatación de asas de intestino delgado
-T2	SINTOMA 319 325	disnea
-T3	SINTOMA 1085 1100	dolor abdominal
-T4	SINTOMA 2155 2166	falleciendo
-T5	SINTOMA 360 370	hemoptisis
-T6	SINTOMA 1105 1112	náuseas
-T7	SINTOMA 1137 1148	rectorragia
-T8	SINTOMA 373 389	síndrome general
-T9	SINTOMA 355 358	tos
-T10	SINTOMA 613 623	tumoración
-T11	SINTOMA 1114 1121	vómitos
-T12	SINTOMA 404 433	analítica de sangre es normal
-T13	SINTOMA 784 849	gastroscopia, colonoscopia y TAC abdominopélvico que fue negativo
-T14	SINTOMA 1338 1388	imagen en "donuts" a nivel de íleon terminal-ciego
-T15	SINTOMA 503 518	masa parahiliar
-T16	SINTOMA 1193 1258	masa polilobulada de aspecto neoplásico en colon ascendente-ciego
-T17	SINTOMA 1589 1608	tumoración en ciego
-T18	PROCEDIMIENTO 1032 1053	neumonectomía derecha
-T19	PROCEDIMIENTO 1164 1176	colonoscopia
-T20	PROCEDIMIENTO 1261 1274	TAC abdominal
-T21	PROCEDIMIENTO 1621 1643	hemicolectomía derecha
-T22	PROCEDIMIENTO 1648 1671	estudio histopatológico
-T23	PROCEDIMIENTO 1884 1902	inmunohistoquímica
-T24	PROCEDIMIENTO 198 233	histerectomía con doble anexectomía
-T25	PROCEDIMIENTO 2180 2197	cirugía abdominal
-T26	PROCEDIMIENTO 246 259	braquiterapia
-T27	PROCEDIMIENTO 404 423	analítica de sangre
-T28	PROCEDIMIENTO 449 469	radiografía de tórax
-T29	PROCEDIMIENTO 472 484	TAC torácico
-T30	PROCEDIMIENTO 548 594	biopsia de dicha masa a través de broncoscopia
+T1	ENFERMEDAD 23 46	leiomiosarcoma de colon
+T2	ENFERMEDAD 1510 1577	obstrucción de intestino delgado por invaginación de íleon terminal
+T3	ENFERMEDAD 1547 1577	invaginación de íleon terminal
+T4	ENFERMEDAD 1724 1738	leiomiosarcoma
+T5	ENFERMEDAD 82 101	metástasis pulmonar
+T6	ENFERMEDAD 870 903	leiomiosarcoma primario de pulmón
+T7	ENFERMEDAD 156 195	enfermedad pulmonar obstructiva crónica
+T8	ENFERMEDAD 613 646	tumoración de estirpe mesenquimal
+T9	ENFERMEDAD 980 994	leiomiosarcoma
+T10	ENFERMEDAD 264 292	adenocarcinoma de endometrio
+T11	ENFERMEDAD 731 745	leiomiosarcoma
+T12	ENFERMEDAD 2027 2057	tumor pulmonar era metastásico
+T13	ENFERMEDAD 1404 1427	invaginación intestinal
+T14	ENFERMEDAD 1441 1455	lesión tumoral
+T15	ENFERMEDAD 1990 1993	LMS
+T16	ENFERMEDAD 1137 1148	rectorragia
+T17	PROCEDIMIENTO 404 423	analítica de sangre
+T18	PROCEDIMIENTO 1648 1671	estudio histopatológico
+T19	PROCEDIMIENTO 1032 1053	neumonectomía derecha
+T20	PROCEDIMIENTO 784 796	gastroscopia
+T21	PROCEDIMIENTO 449 469	radiografía de tórax
+T22	PROCEDIMIENTO 798 810	colonoscopia
+T23	PROCEDIMIENTO 813 832	TAC abdominopélvico
+T24	PROCEDIMIENTO 1164 1176	colonoscopia
+T25	PROCEDIMIENTO 1621 1643	hemicolectomía derecha
+T26	PROCEDIMIENTO 926 947	neumonectomía derecha
+T27	PROCEDIMIENTO 198 233	histerectomía con doble anexectomía
+T28	PROCEDIMIENTO 1884 1902	inmunohistoquímica
+T29	PROCEDIMIENTO 1261 1274	TAC abdominal
+T30	PROCEDIMIENTO 246 259	braquiterapia
 T31	PROCEDIMIENTO 651 669	imnunohistoquímica
-T32	PROCEDIMIENTO 759 779	estudio de extensión
-T33	PROCEDIMIENTO 784 796	gastroscopia
-T34	PROCEDIMIENTO 798 810	colonoscopia
-T35	PROCEDIMIENTO 813 832	TAC abdominopélvico
-T36	PROCEDIMIENTO 926 947	neumonectomía derecha
-T37	PROCEDIMIENTO 966 976	histología
+T32	PROCEDIMIENTO 548 594	biopsia de dicha masa a través de broncoscopia
+T33	PROCEDIMIENTO 2180 2197	cirugía abdominal
+T34	PROCEDIMIENTO 759 779	estudio de extensión
+T35	PROCEDIMIENTO 966 976	histología
+T36	PROCEDIMIENTO 472 484	TAC torácico
+T37	SINTOMA 1085 1100	dolor abdominal
+T38	SINTOMA 1105 1112	náuseas
+T39	SINTOMA 1114 1121	vómitos
+T40	SINTOMA 1137 1148	rectorragia
+T41	SINTOMA 1589 1608	tumoración en ciego
+T42	SINTOMA 1193 1258	masa polilobulada de aspecto neoplásico en colon ascendente-ciego
+T43	SINTOMA 319 325	disnea
+T44	SINTOMA 355 358	tos
+T45	SINTOMA 360 370	hemoptisis
+T46	SINTOMA 373 389	síndrome general
+T47	SINTOMA 1338 1388	imagen en "donuts" a nivel de íleon terminal-ciego
+T48	SINTOMA 404 433	analítica de sangre es normal
+T49	SINTOMA 2155 2166	falleciendo
+T50	SINTOMA 503 518	masa parahiliar
+T51	SINTOMA 613 623	tumoración
+T52	SINTOMA 784 849	gastroscopia, colonoscopia y TAC abdominopélvico que fue negativo
+T53	SINTOMA 1279 1318	dilatación de asas de intestino delgado

@@ -1,42 +1,43 @@
-T1	SINTOMA 774 791	clínica miccional
-T2	SINTOMA 135 153	dolor hipogástrico
-T3	SINTOMA 368 374	fiebre
-T4	SINTOMA 377 382	dolor
-T5	SINTOMA 664 671	cólicos
-T6	SINTOMA 2096 2108	asintomática
-T7	SINTOMA 650 659	hematuria
-T8	SINTOMA 894 947	contorno débilmente cálcico en pelvis en área vesical
-T9	SINTOMA 1340 1367	cuerpo extraño intravesical
-T10	SINTOMA 1560 1606	"pelotón de gasas" adherida a la pared vesical
-T11	ENFERMEDAD 1775 1815	litiasis intravesical por cuerpo extraño
-T12	ENFERMEDAD 794 797	ITU
-T13	ENFERMEDAD 2131 2165	infecciones de orina de repetición
-T14	ENFERMEDAD 267 283	prolapso uterino
-T15	ENFERMEDAD 1222 1243	litiasis intravesical
-T16	ENFERMEDAD 88 130	Infecciones Urinarias (ITUs) de repetición
-T17	ENFERMEDAD 111 115	ITUs
-T18	ENFERMEDAD 1560 1647	"pelotón de gasas" adherida a la pared vesical que no se moviliza por estar calcificada
-T19	ENFERMEDAD 1340 1367	cuerpo extraño intravesical
-T20	ENFERMEDAD 403 428	absceso de cúpula vaginal
-T21	ENFERMEDAD 998 1014	litiasis vesical
-T22	ENFERMEDAD 1052 1086	infecciones de orina de repetición
-T23	ENFERMEDAD 557 582	absceso en cúpula vaginal
-T24	ENFERMEDAD 612 614	DM
-T25	ENFERMEDAD 619 622	HTA
-T26	ENFERMEDAD 673 693	Infecciones de orina
-T27	ENFERMEDAD 627 635	alergias
-T28	PROCEDIMIENTO 1166 1176	Rx. simple
-T29	PROCEDIMIENTO 1195 1217	ecografía transvaginal
-T30	PROCEDIMIENTO 1417 1424	cirugía
-T31	PROCEDIMIENTO 1437 1454	uretrocistoscopia
-T32	PROCEDIMIENTO 1661 1671	TC pélvico
-T33	PROCEDIMIENTO 1848 1855	cirugía
-T34	PROCEDIMIENTO 1862 1875	histerectomía
-T35	PROCEDIMIENTO 1887 1935	extracción de la misma mediante cistoslitectomía
-T36	PROCEDIMIENTO 1957 2017	cistogasomectomía" mediante apertura vesical a cielo abierto
-T37	PROCEDIMIENTO 237 262	histerectomía vía vaginal
-T38	PROCEDIMIENTO 356 363	cirugía
-T39	PROCEDIMIENTO 548 551	ECO
-T40	PROCEDIMIENTO 554 556	TC
-T41	PROCEDIMIENTO 808 834	Rx aparato urinario simple
-T42	PROCEDIMIENTO 951 973	ecografía transvaginal
+T1	ENFERMEDAD 1775 1815	litiasis intravesical por cuerpo extraño
+T2	ENFERMEDAD 794 797	ITU
+T3	ENFERMEDAD 2131 2165	infecciones de orina de repetición
+T4	ENFERMEDAD 267 283	prolapso uterino
+T5	ENFERMEDAD 1222 1243	litiasis intravesical
+T6	ENFERMEDAD 88 130	Infecciones Urinarias (ITUs) de repetición
+T7	ENFERMEDAD 111 115	ITUs
+T8	ENFERMEDAD 1560 1647	"pelotón de gasas" adherida a la pared vesical que no se moviliza por estar calcificada
+T9	ENFERMEDAD 1340 1367	cuerpo extraño intravesical
+T10	ENFERMEDAD 403 428	absceso de cúpula vaginal
+T11	ENFERMEDAD 998 1014	litiasis vesical
+T12	ENFERMEDAD 1052 1086	infecciones de orina de repetición
+T13	ENFERMEDAD 557 582	absceso en cúpula vaginal
+T14	ENFERMEDAD 612 614	DM
+T15	ENFERMEDAD 619 622	HTA
+T16	ENFERMEDAD 673 693	Infecciones de orina
+T17	ENFERMEDAD 627 635	alergias
+T18	PROCEDIMIENTO 1437 1454	uretrocistoscopia
+T19	PROCEDIMIENTO 1166 1176	Rx. simple
+T20	PROCEDIMIENTO 237 262	histerectomía vía vaginal
+T21	PROCEDIMIENTO 1195 1217	ecografía transvaginal
+T22	PROCEDIMIENTO 808 834	Rx aparato urinario simple
+T23	PROCEDIMIENTO 1862 1875	histerectomía
+T24	PROCEDIMIENTO 1957 2017	cistogasomectomía" mediante apertura vesical a cielo abierto
+T25	PROCEDIMIENTO 951 973	ecografía transvaginal
+T26	PROCEDIMIENTO 1661 1671	TC pélvico
+T27	PROCEDIMIENTO 548 551	ECO
+T28	PROCEDIMIENTO 554 556	TC
+T29	PROCEDIMIENTO 1887 1935	extracción de la misma mediante cistoslitectomía
+T30	PROCEDIMIENTO 356 363	cirugía
+T31	PROCEDIMIENTO 1417 1424	cirugía
+T32	PROCEDIMIENTO 1848 1855	cirugía
+T33	SINTOMA 774 791	clínica miccional
+T34	SINTOMA 135 153	dolor hipogástrico
+T35	SINTOMA 368 374	fiebre
+T36	SINTOMA 377 382	dolor
+T37	SINTOMA 664 671	cólicos
+T38	SINTOMA 2096 2108	asintomática
+T39	SINTOMA 650 659	hematuria
+T40	SINTOMA 894 947	contorno débilmente cálcico en pelvis en área vesical
+T41	SINTOMA 1340 1367	cuerpo extraño intravesical
+T42	SINTOMA 719 726	escapes
+T43	SINTOMA 1560 1606	"pelotón de gasas" adherida a la pared vesical

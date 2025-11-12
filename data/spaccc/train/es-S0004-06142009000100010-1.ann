@@ -1,21 +1,35 @@
-T1	SINTOMA 302 319	enúresis nocturna
-T2	SINTOMA 680 689	hematuria
-T3	SINTOMA 107 129	hematuria macroscópica
-T4	SINTOMA 531 658	hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales
-T5	SINTOMA 1280 1284	masa
-T6	SINTOMA 1388 1392	masa
-T7	SINTOMA 725 767	masa de 5cm de diámetro en riñón izquierdo
-T8	SINTOMA 972 1049	masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico
-T9	SINTOMA 413 428	palidez cutánea
-T10	ENFERMEDAD 680 702	hematuria macroscópica
-T11	ENFERMEDAD 1303 1317	tumor de Wilms
-T12	ENFERMEDAD 1459 1489	nefroma meso-blástico quístico
-T13	ENFERMEDAD 1320 1335	adeno-carcinoma
-T14	ENFERMEDAD 1491 1516	quiste renal multilocular
-T15	ENFERMEDAD 217 264	hemihipertrofia facial por tortícolis congénito
-T16	ENFERMEDAD 266 274	varicela
-T17	ENFERMEDAD 276 300	mononucleosis infecciosa
-T18	ENFERMEDAD 338 346	neumonía
-T19	ENFERMEDAD 363 384	traumatismo en cóccix
-T20	ENFERMEDAD 1227 1275	adenomegalias inter-cavoaórticas ni periaórticas
-T21	ENFERMEDAD 107 129	hematuria macroscópica
+T1	ENFERMEDAD 680 702	hematuria macroscópica
+T2	ENFERMEDAD 1303 1317	tumor de Wilms
+T3	ENFERMEDAD 1459 1489	nefroma meso-blástico quístico
+T4	ENFERMEDAD 1320 1335	adeno-carcinoma
+T5	ENFERMEDAD 1491 1516	quiste renal multilocular
+T6	ENFERMEDAD 217 264	hemihipertrofia facial por tortícolis congénito
+T7	ENFERMEDAD 266 274	varicela
+T8	ENFERMEDAD 276 300	mononucleosis infecciosa
+T9	ENFERMEDAD 338 346	neumonía
+T10	ENFERMEDAD 363 384	traumatismo en cóccix
+T11	ENFERMEDAD 1227 1275	adenomegalias inter-cavoaórticas ni periaórticas
+T12	ENFERMEDAD 107 129	hematuria macroscópica
+T13	PROCEDIMIENTO 386 404	Exploración física
+T14	PROCEDIMIENTO 704 723	Ecografía abdominal
+T15	PROCEDIMIENTO 1362 1383	nefrectomía izquierda
+T16	PROCEDIMIENTO 531 540	hemograma
+T17	PROCEDIMIENTO 554 565	coagulación
+T18	PROCEDIMIENTO 567 577	urocultivo
+T19	PROCEDIMIENTO 623 643	radiografía de tórax
+T20	PROCEDIMIENTO 926 952	TC abdominal con contraste
+T21	PROCEDIMIENTO 646 649	ECG
+T22	PROCEDIMIENTO 660 678	Sedimento urinario
+T23	PROCEDIMIENTO 542 552	bioquímica
+T24	PROCEDIMIENTO 1423 1452	diagnóstico anatomopatológico
+T25	PROCEDIMIENTO 910 920	ecográfico
+T26	PROCEDIMIENTO 579 592	función renal
+T27	SINTOMA 725 767	masa de 5cm de diámetro en riñón izquierdo
+T28	SINTOMA 413 428	palidez cutánea
+T29	SINTOMA 107 129	hematuria macroscópica
+T30	SINTOMA 531 658	hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales
+T31	SINTOMA 302 319	enúresis nocturna
+T32	SINTOMA 1280 1284	masa
+T33	SINTOMA 1388 1392	masa
+T34	SINTOMA 972 1049	masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico
+T35	SINTOMA 680 689	hematuria

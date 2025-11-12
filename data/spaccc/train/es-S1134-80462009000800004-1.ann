@@ -1,14 +1,40 @@
-T1	SINTOMA 3097 3113	dolor lancinante
-T2	SINTOMA 2441 2457	dolor lancinante
-T3	SINTOMA 640 656	dolor lancinante
-T4	SINTOMA 1951 1968	dolor paroxístico
-T5	SINTOMA 1904 1909	dolor
-T6	SINTOMA 2937 2942	mareo
-T7	SINTOMA 2945 2956	somnolencia
-T8	SINTOMA 101 106	dolor
-T9	SINTOMA 591 596	dolor
-T10	ENFERMEDAD 2227 2253	dolor del miembro fantasma
-T11	ENFERMEDAD 120 156	isquemia por arteriopatía periférica
-T12	ENFERMEDAD 427 452	dolor en miembro fantasma
-T13	ENFERMEDAD 2571 2580	deprimido
-T14	ENFERMEDAD 1545 1553	lesiones
+T1	ENFERMEDAD 2227 2253	dolor del miembro fantasma
+T2	ENFERMEDAD 120 156	isquemia por arteriopatía periférica
+T3	ENFERMEDAD 427 452	dolor en miembro fantasma
+T4	ENFERMEDAD 2571 2580	deprimido
+T5	ENFERMEDAD 1545 1553	lesiones
+T6	PROCEDIMIENTO 475 501	terapia anticonvulsionante
+T7	PROCEDIMIENTO 44 77	electrodo de estimulación medular
+T8	PROCEDIMIENTO 503 517	antidepresivos
+T9	PROCEDIMIENTO 2918 2929	perfusiones
+T10	PROCEDIMIENTO 1627 1630	EEM
+T11	PROCEDIMIENTO 2695 2725	perfusión continua de ketamina
+T12	PROCEDIMIENTO 79 82	EEM
+T13	PROCEDIMIENTO 2322 2341	anticonvulsionantes
+T14	PROCEDIMIENTO 571 574	EEM
+T15	PROCEDIMIENTO 1041 1064	diatermia de onda corta
+T16	PROCEDIMIENTO 2344 2358	antidepresivos
+T17	PROCEDIMIENTO 823 826	EEM
+T18	PROCEDIMIENTO 1067 1089	diatermia de microonda
+T19	PROCEDIMIENTO 159 186	inducción de vasodilatación
+T20	PROCEDIMIENTO 870 921	bisturí con diatermia para polipectomía endoscópica
+T21	PROCEDIMIENTO 1733 1776	polipectomía endoscópica mediante diatermia
+T22	PROCEDIMIENTO 1809 1812	EEM
+T23	PROCEDIMIENTO 289 327	amputación de miembro inferior derecho
+T24	PROCEDIMIENTO 1226 1252	electrocoagulación bipolar
+T25	PROCEDIMIENTO 2178 2181	EEM
+T26	PROCEDIMIENTO 2198 2222	polipectomía endoscópica
+T27	PROCEDIMIENTO 1315 1372	polipectomía endoscópica con electrocauterización bipolar
+T28	PROCEDIMIENTO 1476 1492	colectomía total
+T29	PROCEDIMIENTO 1500 1507	biopsia
+T30	PROCEDIMIENTO 1510 1553	filiación anatomopatológica de sus lesiones
+T31	PROCEDIMIENTO 520 531	analgésicos
+T32	SINTOMA 1904 1909	dolor
+T33	SINTOMA 1951 1968	dolor paroxístico
+T34	SINTOMA 2937 2942	mareo
+T35	SINTOMA 2945 2956	somnolencia
+T36	SINTOMA 101 106	dolor
+T37	SINTOMA 591 596	dolor
+T38	SINTOMA 3097 3113	dolor lancinante
+T39	SINTOMA 640 656	dolor lancinante
+T40	SINTOMA 2441 2457	dolor lancinante

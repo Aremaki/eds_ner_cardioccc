@@ -1,53 +1,78 @@
-T1	SINTOMA 1784 1812	Congestión pulmonar moderada
-T2	SINTOMA 295 318	deposiciones diarreicas
-T3	SINTOMA 588 597	dorsalgia
-T4	SINTOMA 3123 3150	encéfalo congestión y edema
-T5	SINTOMA 2194 2258	encéfalo presenta un aspecto congestivo y edematoso generalizado
-T6	SINTOMA 3405 3419	esplenomegalia
-T7	SINTOMA 1890 1906	espuma bronquial
-T8	SINTOMA 2601 2632	exudado subcutáneo del pectoral
-T9	SINTOMA 1963 2028	Fluido exudativo en tejido subcutáneo retromamario de ambos lados
-T10	SINTOMA 2118 2186	glándulas suprarrenales con médula de aspecto congestivo-hemorrágico
-T11	SINTOMA 1017 1031	leucocitopenia
-T12	SINTOMA 1665 1727	petequias en la conjuntiva tarsal de ambos párpados inferiores
-T13	SINTOMA 2735 2844	reacción en cadena de la polimerasa (PCR) en tiempo real detectan la presencia de N. meningitidis serogrupo C
-T14	SINTOMA 717 739	regular estado general
-T15	SINTOMA 903 918	rigidez de nuca
-T16	SINTOMA 741 760	taquipnea en reposo
-T17	SINTOMA 128 134	fiebre
-T18	SINTOMA 152 162	odinofagia
-T19	SINTOMA 278 285	vómitos
-T20	SINTOMA 341 356	síndrome febril
-T21	SINTOMA 509 541	empeoramiento del estado general
-T22	SINTOMA 547 558	hipotensión
-T23	SINTOMA 578 585	cefalea
-T24	SINTOMA 763 774	taquicardia
-T25	SINTOMA 922 943	focalidad neurológica
-T26	SINTOMA 1045 1064	acidosis metabólica
-T27	SINTOMA 1268 1275	fallece
-T28	SINTOMA 3611 3617	muerte
-T29	PROCEDIMIENTO 1197 1224	tratamiento con corticoides
-T30	PROCEDIMIENTO 1227 1257	antibioticoterapia intravenosa
-T31	PROCEDIMIENTO 1331 1357	reanimación cardiopulmonar
-T32	PROCEDIMIENTO 1477 1485	autopsia
-T33	PROCEDIMIENTO 1523 1537	examen externo
-T34	PROCEDIMIENTO 1736 1769	examen interno, macroscópicamente
-T35	PROCEDIMIENTO 213 245	antiinflamatorios no esteroideos
-T36	PROCEDIMIENTO 2343 2576	estudios toxicológico, microbiológico e histopatológico muestras de encéfalo, pulmón, hígado, bazo, suprarrenales, corazón, sangre periférica, humor vítreo, líquido pericárdico, contenido intestinal, frotis bronquial, derrame pleural
-T37	PROCEDIMIENTO 247 251	AINE
-T38	PROCEDIMIENTO 2661 2683	estudio microbiológico
-T39	PROCEDIMIENTO 2703 2723	técnicas antigénicas
-T40	PROCEDIMIENTO 2725 2732	cultivo
-T41	PROCEDIMIENTO 2735 2770	reacción en cadena de la polimerasa
-T42	PROCEDIMIENTO 2772 2775	PCR
-T43	PROCEDIMIENTO 2931 2972	caracterización epidemiológica de la cepa
-T44	PROCEDIMIENTO 2978 3057	estudio de resistencia a antibióticos mediante concentración mínima inhibitoria
-T45	PROCEDIMIENTO 3073 3088	histopatológico
-T46	PROCEDIMIENTO 3458 3478	estudio toxicológico
-T47	PROCEDIMIENTO 446 457	antitérmico
-T48	PROCEDIMIENTO 46 68	anexectomía unilateral
-T49	PROCEDIMIENTO 460 484	observación domiciliaria
-T50	PROCEDIMIENTO 687 705	exploración física
-T51	PROCEDIMIENTO 851 889	palpar los pulsos periféricos radiales
-T52	PROCEDIMIENTO 957 966	analítica
-T53	PROCEDIMIENTO 969 979	gasometría
+T1	ENFERMEDAD 1910 1925	Derrame pleural
+T2	ENFERMEDAD 1784 1812	Congestión pulmonar moderada
+T3	ENFERMEDAD 2054 2083	Hígado de aspecto esteatósico
+T4	ENFERMEDAD 1935 1959	Derrame pericárdico leve
+T5	ENFERMEDAD 1817 1842	edema pulmonar importante
+T6	ENFERMEDAD 73 86	endometriosis
+T7	ENFERMEDAD 3619 3724	fallo multiorgánico producido por una septicemia fulminante por meningococo (N. meningitidis serogrupo C)
+T8	ENFERMEDAD 2286 2324	quiste en el lóbulo parietal izquierdo
+T9	ENFERMEDAD 3181 3216	meningioma transicional-psamomatoso
+T10	ENFERMEDAD 3224 3264	suprarrenales presentan hemorragia grave
+T11	ENFERMEDAD 3727 3762	síndrome de Waterhouse-Friderichsen
+T12	ENFERMEDAD 3305 3310	shock
+T13	ENFERMEDAD 2561 2576	derrame pleural
+T14	ENFERMEDAD 3377 3380	CID
+T15	ENFERMEDAD 3429 3453	miocarditis neutrofílica
+T16	ENFERMEDAD 1424 1429	shock
+T17	ENFERMEDAD 1450 1459	defunción
+T18	ENFERMEDAD 1045 1064	acidosis metabólica
+T19	ENFERMEDAD 3405 3419	esplenomegalia
+T20	ENFERMEDAD 547 558	hipotensión
+T21	ENFERMEDAD 2500 2519	líquido pericárdico
+T22	ENFERMEDAD 1550 1579	exantema cutáneo generalizado
+T23	ENFERMEDAD 1665 1727	petequias en la conjuntiva tarsal de ambos párpados inferiores
+T24	ENFERMEDAD 2194 2245	encéfalo presenta un aspecto congestivo y edematoso
+T25	ENFERMEDAD 3123 3150	encéfalo congestión y edema
+T26	PROCEDIMIENTO 3458 3478	estudio toxicológico
+T27	PROCEDIMIENTO 1736 1769	examen interno, macroscópicamente
+T28	PROCEDIMIENTO 3073 3088	histopatológico
+T29	PROCEDIMIENTO 1477 1485	autopsia
+T30	PROCEDIMIENTO 2343 2576	estudios toxicológico, microbiológico e histopatológico muestras de encéfalo, pulmón, hígado, bazo, suprarrenales, corazón, sangre periférica, humor vítreo, líquido pericárdico, contenido intestinal, frotis bronquial, derrame pleural
+T31	PROCEDIMIENTO 2661 2683	estudio microbiológico
+T32	PROCEDIMIENTO 46 68	anexectomía unilateral
+T33	PROCEDIMIENTO 2703 2723	técnicas antigénicas
+T34	PROCEDIMIENTO 213 245	antiinflamatorios no esteroideos
+T35	PROCEDIMIENTO 247 251	AINE
+T36	PROCEDIMIENTO 2978 3057	estudio de resistencia a antibióticos mediante concentración mínima inhibitoria
+T37	PROCEDIMIENTO 446 457	antitérmico
+T38	PROCEDIMIENTO 460 484	observación domiciliaria
+T39	PROCEDIMIENTO 687 705	exploración física
+T40	PROCEDIMIENTO 851 889	palpar los pulsos periféricos radiales
+T41	PROCEDIMIENTO 969 979	gasometría
+T42	PROCEDIMIENTO 1197 1224	tratamiento con corticoides
+T43	PROCEDIMIENTO 1227 1257	antibioticoterapia intravenosa
+T44	PROCEDIMIENTO 1331 1357	reanimación cardiopulmonar
+T45	PROCEDIMIENTO 2772 2775	PCR
+T46	PROCEDIMIENTO 1523 1537	examen externo
+T47	PROCEDIMIENTO 2725 2732	cultivo
+T48	PROCEDIMIENTO 2735 2770	reacción en cadena de la polimerasa
+T49	PROCEDIMIENTO 957 966	analítica
+T50	PROCEDIMIENTO 2931 2972	caracterización epidemiológica de la cepa
+T51	SINTOMA 2194 2258	encéfalo presenta un aspecto congestivo y edematoso generalizado
+T52	SINTOMA 2118 2186	glándulas suprarrenales con médula de aspecto congestivo-hemorrágico
+T53	SINTOMA 3123 3150	encéfalo congestión y edema
+T54	SINTOMA 128 134	fiebre
+T55	SINTOMA 152 162	odinofagia
+T56	SINTOMA 1665 1727	petequias en la conjuntiva tarsal de ambos párpados inferiores
+T57	SINTOMA 2601 2632	exudado subcutáneo del pectoral
+T58	SINTOMA 278 285	vómitos
+T59	SINTOMA 3405 3419	esplenomegalia
+T60	SINTOMA 341 356	síndrome febril
+T61	SINTOMA 509 541	empeoramiento del estado general
+T62	SINTOMA 547 558	hipotensión
+T63	SINTOMA 578 585	cefalea
+T64	SINTOMA 588 597	dorsalgia
+T65	SINTOMA 741 760	taquipnea en reposo
+T66	SINTOMA 763 774	taquicardia
+T67	SINTOMA 903 918	rigidez de nuca
+T68	SINTOMA 922 943	focalidad neurológica
+T69	SINTOMA 1017 1031	leucocitopenia
+T70	SINTOMA 1045 1064	acidosis metabólica
+T71	SINTOMA 295 318	deposiciones diarreicas
+T72	SINTOMA 1963 2028	Fluido exudativo en tejido subcutáneo retromamario de ambos lados
+T73	SINTOMA 717 739	regular estado general
+T74	SINTOMA 1890 1906	espuma bronquial
+T75	SINTOMA 2735 2844	reacción en cadena de la polimerasa (PCR) en tiempo real detectan la presencia de N. meningitidis serogrupo C
+T76	SINTOMA 1268 1275	fallece
+T77	SINTOMA 1784 1812	Congestión pulmonar moderada
+T78	SINTOMA 3611 3617	muerte

@@ -1,36 +1,36 @@
-T1	SINTOMA 641 660	buen estado general
-T2	SINTOMA 688 713	hemodinámicamente estable
-T3	SINTOMA 676 685	apirético
-T4	SINTOMA 394 422	dolor en hemitórax izquierdo
-T5	SINTOMA 875 1073	electrocardiograma, el hemograma, la fórmula leucocitaria, el estudio de coagulación, la glucemia, el ionograma, las troponinas seriadas y las pruebas de función renal y hepática resultaron normales
-T6	SINTOMA 728 786	exploración neurológica, cardiológica y abdominal normales
-T7	SINTOMA 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
-T8	SINTOMA 1116 1155	patrón retículo-nodular basal bilateral
-T9	SINTOMA 837 870	roncus pulmonar aislado bilateral
-T10	ENFERMEDAD 38 59	neoplasia de próstata
-T11	ENFERMEDAD 86 102	proctitis rádica
-T12	ENFERMEDAD 1412 1490	segmento de intestino delgado con una disección de su pared por gas intramural
-T13	ENFERMEDAD 1190 1214	neumoperitoneo bilateral
-T14	ENFERMEDAD 145 160	hernia de hiato
-T15	ENFERMEDAD 163 183	ulcus gastroduodenal
-T16	ENFERMEDAD 1295 1317	obstrucción intestinal
-T17	ENFERMEDAD 1567 1591	neumoperitoneo bilateral
-T18	ENFERMEDAD 255 294	enfermedad pulmonar obstructiva crónica
-T19	ENFERMEDAD 297 310	neumoconiosis
-T20	ENFERMEDAD 806 817	adenopatías
-T21	ENFERMEDAD 566 578	traumatismos
-T22	ENFERMEDAD 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
+T1	ENFERMEDAD 38 59	neoplasia de próstata
+T2	ENFERMEDAD 86 102	proctitis rádica
+T3	ENFERMEDAD 1412 1490	segmento de intestino delgado con una disección de su pared por gas intramural
+T4	ENFERMEDAD 1190 1214	neumoperitoneo bilateral
+T5	ENFERMEDAD 145 160	hernia de hiato
+T6	ENFERMEDAD 163 183	ulcus gastroduodenal
+T7	ENFERMEDAD 1295 1317	obstrucción intestinal
+T8	ENFERMEDAD 1567 1591	neumoperitoneo bilateral
+T9	ENFERMEDAD 255 294	enfermedad pulmonar obstructiva crónica
+T10	ENFERMEDAD 297 310	neumoconiosis
+T11	ENFERMEDAD 806 817	adenopatías
+T12	ENFERMEDAD 566 578	traumatismos
+T13	ENFERMEDAD 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
+T14	PROCEDIMIENTO 1078 1105	radiografía simple de tórax
+T15	PROCEDIMIENTO 1331 1384	tomografía axial computerizada (TAC) tóraco-abdominal
+T16	PROCEDIMIENTO 72 84	radioterapia
+T17	PROCEDIMIENTO 1160 1182	radiografía de abdomen
+T18	PROCEDIMIENTO 728 777	exploración neurológica, cardiológica y abdominal
+T19	PROCEDIMIENTO 875 893	electrocardiograma
+T20	PROCEDIMIENTO 898 907	hemograma
+T21	PROCEDIMIENTO 937 959	estudio de coagulación
+T22	PROCEDIMIENTO 977 986	ionograma
 T23	PROCEDIMIENTO 1018 1053	pruebas de función renal y hepática
-T24	PROCEDIMIENTO 1078 1105	radiografía simple de tórax
-T25	PROCEDIMIENTO 1160 1182	radiografía de abdomen
-T26	PROCEDIMIENTO 1331 1384	tomografía axial computerizada (TAC) tóraco-abdominal
+T24	PROCEDIMIENTO 912 932	fórmula leucocitaria
+T25	PROCEDIMIENTO 992 1011	troponinas seriadas
+T26	PROCEDIMIENTO 601 619	estudios invasivos
 T27	PROCEDIMIENTO 1363 1366	TAC
-T28	PROCEDIMIENTO 601 619	estudios invasivos
-T29	PROCEDIMIENTO 72 84	radioterapia
-T30	PROCEDIMIENTO 728 777	exploración neurológica, cardiológica y abdominal
-T31	PROCEDIMIENTO 875 893	electrocardiograma
-T32	PROCEDIMIENTO 898 907	hemograma
-T33	PROCEDIMIENTO 912 932	fórmula leucocitaria
-T34	PROCEDIMIENTO 937 959	estudio de coagulación
-T35	PROCEDIMIENTO 977 986	ionograma
-T36	PROCEDIMIENTO 992 1011	troponinas seriadas
+T28	SINTOMA 394 422	dolor en hemitórax izquierdo
+T29	SINTOMA 1505 1563	gas en los vasos mesentéricos subsidiarios y la vena porta
+T30	SINTOMA 641 660	buen estado general
+T31	SINTOMA 837 870	roncus pulmonar aislado bilateral
+T32	SINTOMA 676 685	apirético
+T33	SINTOMA 688 713	hemodinámicamente estable
+T34	SINTOMA 728 786	exploración neurológica, cardiológica y abdominal normales
+T35	SINTOMA 1116 1155	patrón retículo-nodular basal bilateral
+T36	SINTOMA 875 1073	electrocardiograma, el hemograma, la fórmula leucocitaria, el estudio de coagulación, la glucemia, el ionograma, las troponinas seriadas y las pruebas de función renal y hepática resultaron normales

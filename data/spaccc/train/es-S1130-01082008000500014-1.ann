@@ -1,9 +1,47 @@
-T1	SINTOMA 2114 2126	asintomático
-T2	SINTOMA 392 414	deposiciones melénicas
-T3	SINTOMA 2197 2219	electromiograma normal
-T4	SINTOMA 712 755	equimosis en duodeno, yeyuno, íleon y ciego
-T5	SINTOMA 488 517	mucosa depapilada del duodeno
-T6	SINTOMA 2137 2191	parestesias ocasionales y leves en miembros inferiores
-T7	SINTOMA 1261 1269	sangrado
-T8	SINTOMA 522 537	sangrado activo
-T9	SINTOMA 614 629	sangrado activo
+T1	ENFERMEDAD 792 795	HDB
+T2	ENFERMEDAD 1529 1532	HDB
+T3	ENFERMEDAD 77 80	HTA
+T4	ENFERMEDAD 82 114	insuficiencia renal crónica leve
+T5	ENFERMEDAD 392 414	deposiciones melénicas
+T6	ENFERMEDAD 116 145	fibrilación auricular crónica
+T7	ENFERMEDAD 147 174	déficit de antitrombina III
+T8	ENFERMEDAD 187 239	isquemia intestinal por trombosis venosa mesentérica
+T9	ENFERMEDAD 211 239	trombosis venosa mesentérica
+T10	ENFERMEDAD 990 1025	angiodisplasia de intestino delgado
+T11	ENFERMEDAD 1982 1985	HDB
+T12	ENFERMEDAD 583 609	lesiones teleangiectásicas
+T13	ENFERMEDAD 1134 1155	fístula arteriovenosa
+T14	ENFERMEDAD 1228 1241	abdomen agudo
+T15	ENFERMEDAD 2262 2275	TEP bilateral
+T16	ENFERMEDAD 1310 1336	isquemia de la anastomosis
+T17	ENFERMEDAD 2346 2373	déficit de antitrombina III
+T18	ENFERMEDAD 2395 2406	trombofilia
+T19	ENFERMEDAD 22 45	alergias medicamentosas
+T20	PROCEDIMIENTO 1688 1712	concentrados de hematíes
+T21	PROCEDIMIENTO 845 856	endoscopias
+T22	PROCEDIMIENTO 431 456	endoscopia digestiva alta
+T23	PROCEDIMIENTO 912 945	gammagrafía con hematíes marcados
+T24	PROCEDIMIENTO 545 557	colonoscopia
+T25	PROCEDIMIENTO 262 299	resección de 150 cm de yeyuno e íleon
+T26	PROCEDIMIENTO 2013 2024	transfusión
+T27	PROCEDIMIENTO 1071 1094	angiografía mesentérica
+T28	PROCEDIMIENTO 670 689	cápsula endoscópica
+T29	PROCEDIMIENTO 1134 1191	fístula arteriovenosa y realizando embolización con coils
+T30	PROCEDIMIENTO 2197 2212	electromiograma
+T31	PROCEDIMIENTO 1284 1295	laparotomía
+T32	PROCEDIMIENTO 1372 1384	embolización
+T33	PROCEDIMIENTO 1404 1422	resección de íleon
+T34	PROCEDIMIENTO 812 825	transfusiones
+T35	PROCEDIMIENTO 2292 2318	tratamiento anticoagulante
+T36	PROCEDIMIENTO 845 869	endoscopias y la cápsula
+T37	PROCEDIMIENTO 1325 1336	anastomosis
+T38	PROCEDIMIENTO 1488 1500	intervención
+T39	SINTOMA 488 517	mucosa depapilada del duodeno
+T40	SINTOMA 2137 2191	parestesias ocasionales y leves en miembros inferiores
+T41	SINTOMA 2114 2126	asintomático
+T42	SINTOMA 1261 1269	sangrado
+T43	SINTOMA 522 537	sangrado activo
+T44	SINTOMA 2197 2219	electromiograma normal
+T45	SINTOMA 392 414	deposiciones melénicas
+T46	SINTOMA 614 629	sangrado activo
+T47	SINTOMA 712 755	equimosis en duodeno, yeyuno, íleon y ciego

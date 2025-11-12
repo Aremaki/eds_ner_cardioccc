@@ -1,65 +1,65 @@
-T1	SINTOMA 193 200	astenia
-T2	SINTOMA 1350 1356	disnea
-T3	SINTOMA 329 358	disnea de moderados esfuerzos
-T4	SINTOMA 281 287	fiebre
-T5	SINTOMA 152 167	pérdida de peso
-T6	SINTOMA 203 211	tos seca
-T7	SINTOMA 825 844	afectación alveolar
-T8	SINTOMA 777 811	afectación del parénquima pulmonar
-T9	SINTOMA 1016 1059	biopsia transbronquial que fue inespecífica
-T10	SINTOMA 1192 1250	estudio microbiológico de la biopsia aisla una Nocardia sp
-T11	SINTOMA 659 707	infiltrado intersticio-alveolar difuso bilateral
-T12	SINTOMA 304 326	mialgias generalizadas
-T13	SINTOMA 4532 4566	patrón intersticial fino bilateral
-T14	SINTOMA 846 910	zonas simétricas y bilaterales de opacidad en vidrio deslustrado
-T15	ENFERMEDAD 33 40	fumador
-T16	ENFERMEDAD 913 958	adenopatías en hilio pulmonar, paratraqueales
-T17	ENFERMEDAD 1167 1187	proteinosis alveolar
-T18	ENFERMEDAD 1358 1365	hipoxia
-T19	PROCEDIMIENTO 1016 1038	biopsia transbronquial
-T20	PROCEDIMIENTO 1079 1095	biopsia pulmonar
-T21	PROCEDIMIENTO 1127 1146	estudio histológico
-T22	PROCEDIMIENTO 1192 1228	estudio microbiológico de la biopsia
-T23	PROCEDIMIENTO 1464 1495	lavado broncoalveolar bilateral
-T24	PROCEDIMIENTO 1514 1536	intubación orotraqueal
-T25	PROCEDIMIENTO 1537 1569	sedamos al paciente con propofol
-T26	PROCEDIMIENTO 1574 1600	analgesiamos con fentanilo
-T27	PROCEDIMIENTO 1606 1634	relajamos con succinilcolina
-T28	PROCEDIMIENTO 1639 1720	intubación la realizamos con un tubo de doble luz tipo Mallinckrodt 39F izquierdo
-T29	PROCEDIMIENTO 1722 1800	Comprobamos la localización del tubo por medio de fibrobroncoscopio pediátrico
-T30	PROCEDIMIENTO 1817 1848	le mantuvimos sedado y relajado
-T31	PROCEDIMIENTO 1853 1899	perfusión continua de propofol y cisatracurium
-T32	PROCEDIMIENTO 1901 1974	Ventilamos al paciente inicialmente durante 30 minutos en presión control
-T33	PROCEDIMIENTO 2026 2068	presión positiva al final de la espiración
-T34	PROCEDIMIENTO 2070 2074	PEEP
-T35	PROCEDIMIENTO 2284 2329	medimos la compliance estática de cada pulmón
-T36	PROCEDIMIENTO 2438 2467	lavado en el pulmón izquierdo
-T37	PROCEDIMIENTO 2527 2542	decúbito supino
-T38	PROCEDIMIENTO 2547 2612	lavado se realizó con solución salina isotónica calentada a 37º C
-T39	PROCEDIMIENTO 2614 2709	Infundimos un litro desde una altura de 30-40 cm sobre el paciente y drenamos éste por gravedad
-T40	PROCEDIMIENTO 2877 2884	drenaje
-T41	PROCEDIMIENTO 2896 2937	percusión torácica sobre el pulmón lavado
-T42	PROCEDIMIENTO 2953 2969	lavado en supino
-T43	PROCEDIMIENTO 3126 3165	colocamos al paciente en decúbito prono
-T44	PROCEDIMIENTO 3208 3214	supino
-T45	PROCEDIMIENTO 3300 3307	drenaje
-T46	PROCEDIMIENTO 3344 3371	lavado del pulmón izquierdo
-T47	PROCEDIMIENTO 3418 3445	lavado del pulmón izquierdo
-T48	PROCEDIMIENTO 3447 3496	ventilamos ambos pulmones en modo presión control
-T49	PROCEDIMIENTO 3512 3516	PEEP
-T50	PROCEDIMIENTO 366 375	analítica
-T51	PROCEDIMIENTO 3671 3699	ventilar el pulmón izquierdo
-T52	PROCEDIMIENTO 3743 3768	lavado del pulmón derecho
-T53	PROCEDIMIENTO 3869 3894	lavado del pulmón derecho
-T54	PROCEDIMIENTO 3909 3923	decúbito prono
-T55	PROCEDIMIENTO 3945 3952	drenaje
-T56	PROCEDIMIENTO 4044 4059	decúbito supino
-T57	PROCEDIMIENTO 4140 4147	drenaje
-T58	PROCEDIMIENTO 4180 4200	ventilación mecánica
-T59	PROCEDIMIENTO 4317 4364	cambiamos el tubo de doble luz por uno estándar
-T60	PROCEDIMIENTO 4380 4405	comenzamos la desconexión
-T61	PROCEDIMIENTO 4432 4444	fue extubado
-T62	PROCEDIMIENTO 4490 4510	radiografía de tórax
-T63	PROCEDIMIENTO 4707 4724	lavado secuencial
-T64	PROCEDIMIENTO 627 647	radiografía de tórax
-T65	PROCEDIMIENTO 744 756	TAC torácica
+T1	ENFERMEDAD 33 40	fumador
+T2	ENFERMEDAD 913 958	adenopatías en hilio pulmonar, paratraqueales
+T3	ENFERMEDAD 1167 1187	proteinosis alveolar
+T4	ENFERMEDAD 1358 1365	hipoxia
+T5	PROCEDIMIENTO 4490 4510	radiografía de tórax
+T6	PROCEDIMIENTO 1514 1536	intubación orotraqueal
+T7	PROCEDIMIENTO 3418 3445	lavado del pulmón izquierdo
+T8	PROCEDIMIENTO 2284 2329	medimos la compliance estática de cada pulmón
+T9	PROCEDIMIENTO 1537 1569	sedamos al paciente con propofol
+T10	PROCEDIMIENTO 3447 3496	ventilamos ambos pulmones en modo presión control
+T11	PROCEDIMIENTO 1574 1600	analgesiamos con fentanilo
+T12	PROCEDIMIENTO 1606 1634	relajamos con succinilcolina
+T13	PROCEDIMIENTO 2438 2467	lavado en el pulmón izquierdo
+T14	PROCEDIMIENTO 3344 3371	lavado del pulmón izquierdo
+T15	PROCEDIMIENTO 627 647	radiografía de tórax
+T16	PROCEDIMIENTO 3671 3699	ventilar el pulmón izquierdo
+T17	PROCEDIMIENTO 3743 3768	lavado del pulmón derecho
+T18	PROCEDIMIENTO 2896 2937	percusión torácica sobre el pulmón lavado
+T19	PROCEDIMIENTO 1853 1899	perfusión continua de propofol y cisatracurium
+T20	PROCEDIMIENTO 744 756	TAC torácica
+T21	PROCEDIMIENTO 3869 3894	lavado del pulmón derecho
+T22	PROCEDIMIENTO 1016 1038	biopsia transbronquial
+T23	PROCEDIMIENTO 1079 1095	biopsia pulmonar
+T24	PROCEDIMIENTO 1464 1495	lavado broncoalveolar bilateral
+T25	PROCEDIMIENTO 2877 2884	drenaje
+T26	PROCEDIMIENTO 3300 3307	drenaje
+T27	PROCEDIMIENTO 3945 3952	drenaje
+T28	PROCEDIMIENTO 4140 4147	drenaje
+T29	PROCEDIMIENTO 1127 1146	estudio histológico
+T30	PROCEDIMIENTO 1192 1228	estudio microbiológico de la biopsia
+T31	PROCEDIMIENTO 4180 4200	ventilación mecánica
+T32	PROCEDIMIENTO 1639 1720	intubación la realizamos con un tubo de doble luz tipo Mallinckrodt 39F izquierdo
+T33	PROCEDIMIENTO 1722 1800	Comprobamos la localización del tubo por medio de fibrobroncoscopio pediátrico
+T34	PROCEDIMIENTO 1817 1848	le mantuvimos sedado y relajado
+T35	PROCEDIMIENTO 1901 1974	Ventilamos al paciente inicialmente durante 30 minutos en presión control
+T36	PROCEDIMIENTO 2547 2612	lavado se realizó con solución salina isotónica calentada a 37º C
+T37	PROCEDIMIENTO 2614 2709	Infundimos un litro desde una altura de 30-40 cm sobre el paciente y drenamos éste por gravedad
+T38	PROCEDIMIENTO 3126 3165	colocamos al paciente en decúbito prono
+T39	PROCEDIMIENTO 4044 4059	decúbito supino
+T40	PROCEDIMIENTO 4317 4364	cambiamos el tubo de doble luz por uno estándar
+T41	PROCEDIMIENTO 4432 4444	fue extubado
+T42	PROCEDIMIENTO 4707 4724	lavado secuencial
+T43	PROCEDIMIENTO 2953 2969	lavado en supino
+T44	PROCEDIMIENTO 2026 2068	presión positiva al final de la espiración
+T45	PROCEDIMIENTO 2070 2074	PEEP
+T46	PROCEDIMIENTO 2527 2542	decúbito supino
+T47	PROCEDIMIENTO 3208 3214	supino
+T48	PROCEDIMIENTO 3512 3516	PEEP
+T49	PROCEDIMIENTO 3909 3923	decúbito prono
+T50	PROCEDIMIENTO 4380 4405	comenzamos la desconexión
+T51	PROCEDIMIENTO 366 375	analítica
+T52	SINTOMA 152 167	pérdida de peso
+T53	SINTOMA 193 200	astenia
+T54	SINTOMA 203 211	tos seca
+T55	SINTOMA 281 287	fiebre
+T56	SINTOMA 659 707	infiltrado intersticio-alveolar difuso bilateral
+T57	SINTOMA 304 326	mialgias generalizadas
+T58	SINTOMA 329 358	disnea de moderados esfuerzos
+T59	SINTOMA 1350 1356	disnea
+T60	SINTOMA 825 844	afectación alveolar
+T61	SINTOMA 846 910	zonas simétricas y bilaterales de opacidad en vidrio deslustrado
+T62	SINTOMA 1016 1059	biopsia transbronquial que fue inespecífica
+T63	SINTOMA 1192 1250	estudio microbiológico de la biopsia aisla una Nocardia sp
+T64	SINTOMA 4532 4566	patrón intersticial fino bilateral
+T65	SINTOMA 777 811	afectación del parénquima pulmonar

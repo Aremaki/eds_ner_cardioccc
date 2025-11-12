@@ -1,12 +1,22 @@
-T1	SINTOMA 275 293	diarrea con sangre
-T2	SINTOMA 678 711	empeoramiento clínico y analítico
-T3	SINTOMA 611 632	deposiciones líquidas
-T4	SINTOMA 642 657	dolor abdominal
-T5	SINTOMA 660 666	fiebre
-T6	ENFERMEDAD 37 56	pancolitis ulcerosa
-T7	ENFERMEDAD 73 91	corticodependiente
-T8	ENFERMEDAD 158 192	sobreinfección por citomegalovirus
-T9	ENFERMEDAD 1058 1093	catéter central por infección MARSA
-T10	ENFERMEDAD 275 298	diarrea con sangre roja
-T11	ENFERMEDAD 341 367	anemia ferropénica crónica
-T12	ENFERMEDAD 433 452	pancolitis ulcerosa
+T1	ENFERMEDAD 37 56	pancolitis ulcerosa
+T2	ENFERMEDAD 73 91	corticodependiente
+T3	ENFERMEDAD 158 192	sobreinfección por citomegalovirus
+T4	ENFERMEDAD 1058 1093	catéter central por infección MARSA
+T5	ENFERMEDAD 275 298	diarrea con sangre roja
+T6	ENFERMEDAD 341 367	anemia ferropénica crónica
+T7	ENFERMEDAD 433 452	pancolitis ulcerosa
+T8	PROCEDIMIENTO 966 1025	colocación de un catéter de doble luz en la yugular derecha
+T9	PROCEDIMIENTO 1048 1073	cambio de catéter central
+T10	PROCEDIMIENTO 1105 1128	aislamiento de contacto
+T11	PROCEDIMIENTO 836 855	granulocitoaféresis
+T12	PROCEDIMIENTO 382 394	ferroterapia
+T13	PROCEDIMIENTO 402 421	estudio endoscópico
+T14	PROCEDIMIENTO 498 509	corticoides
+T15	PROCEDIMIENTO 512 528	inmunosupresores
+T16	PROCEDIMIENTO 1258 1269	endoscópica
+T17	SINTOMA 611 632	deposiciones líquidas
+T18	SINTOMA 642 657	dolor abdominal
+T19	SINTOMA 660 666	fiebre
+T20	SINTOMA 678 711	empeoramiento clínico y analítico
+T21	SINTOMA 107 133	episodio cortirrefractario
+T22	SINTOMA 275 293	diarrea con sangre

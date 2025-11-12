@@ -1,23 +1,38 @@
-T1	SINTOMA 629 657	buen estado general de salud
-T2	SINTOMA 324 413	dolor quemante, de intensidad moderada a severa, todos los días en su extremidad superior
-T3	SINTOMA 1930 2017	ECG, examen neurológico y una TAC craneal, estos exámenes no revelaron ninguna anomalía
-T4	SINTOMA 518 580	edema, cambios de color y cambios tróficos en dicha extremidad
-T5	SINTOMA 1873 1877	hipo
-T6	SINTOMA 1443 1451	malestar
-T7	SINTOMA 2198 2231	movimiento de vaivén de la cabeza
-T8	SINTOMA 659 682	neurológicamente normal
-T9	SINTOMA 1453 1458	mareo
-T10	SINTOMA 1461 1476	cefalea intensa
-T11	SINTOMA 2182 2191	debilidad
-T12	SINTOMA 1825 1830	mareo
-T13	SINTOMA 1833 1839	fatiga
-T14	SINTOMA 1855 1870	dolor de cabeza
-T15	SINTOMA 1557 1576	taquicardia sinusal
-T16	ENFERMEDAD 42 118	síndrome doloroso regional complejo tipo I de la extremidad derecha superior
-T17	ENFERMEDAD 2072 2085	tirotoxicosis
-T18	ENFERMEDAD 234 266	infección causada por pseudomona
-T19	ENFERMEDAD 594 598	SDRC
-T20	ENFERMEDAD 1366 1384	Síndrome de Horner
-T21	ENFERMEDAD 705 713	diabetes
-T22	ENFERMEDAD 688 700	hipertensión
-T23	ENFERMEDAD 1581 1593	hipertensión
+T1	ENFERMEDAD 42 118	síndrome doloroso regional complejo tipo I de la extremidad derecha superior
+T2	ENFERMEDAD 2072 2085	tirotoxicosis
+T3	ENFERMEDAD 234 266	infección causada por pseudomona
+T4	ENFERMEDAD 594 598	SDRC
+T5	ENFERMEDAD 1366 1384	Síndrome de Horner
+T6	ENFERMEDAD 705 713	diabetes
+T7	ENFERMEDAD 688 700	hipertensión
+T8	ENFERMEDAD 1581 1593	hipertensión
+T9	PROCEDIMIENTO 1930 1933	ECG
+T10	PROCEDIMIENTO 1935 1953	examen neurológico
+T11	PROCEDIMIENTO 738 767	Bloqueo de Ganglio Estrellado
+T12	PROCEDIMIENTO 1960 1971	TAC craneal
+T13	PROCEDIMIENTO 781 813	se estableció acceso intravenoso
+T14	PROCEDIMIENTO 2041 2058	pruebas tiroideas
+T15	PROCEDIMIENTO 848 866	electrocardiograma
+T16	PROCEDIMIENTO 147 183	cirugías artroscópicas en ese hombro
+T17	PROCEDIMIENTO 919 1029	bloqueo mediante abordaje paratraqueal utilizando una aguja de 3.5 cm de longitud con 10 ml de procaína al 1 %
+T18	PROCEDIMIENTO 463 474	analgésicos
+T19	PROCEDIMIENTO 1214 1223	inyección
+T20	PROCEDIMIENTO 1303 1313	aspiración
+T21	PROCEDIMIENTO 816 903	se monitorizó a la paciente con electrocardiograma, presión arterial y saturación de O2
+T22	PROCEDIMIENTO 1349 1356	bloqueo
+T23	PROCEDIMIENTO 1412 1419	bloqueo
+T24	SINTOMA 1443 1451	malestar
+T25	SINTOMA 1453 1458	mareo
+T26	SINTOMA 1461 1476	cefalea intensa
+T27	SINTOMA 2182 2191	debilidad
+T28	SINTOMA 2198 2231	movimiento de vaivén de la cabeza
+T29	SINTOMA 324 413	dolor quemante, de intensidad moderada a severa, todos los días en su extremidad superior
+T30	SINTOMA 1825 1830	mareo
+T31	SINTOMA 1833 1839	fatiga
+T32	SINTOMA 1855 1870	dolor de cabeza
+T33	SINTOMA 1873 1877	hipo
+T34	SINTOMA 518 580	edema, cambios de color y cambios tróficos en dicha extremidad
+T35	SINTOMA 659 682	neurológicamente normal
+T36	SINTOMA 1557 1576	taquicardia sinusal
+T37	SINTOMA 1930 2017	ECG, examen neurológico y una TAC craneal, estos exámenes no revelaron ninguna anomalía
+T38	SINTOMA 629 657	buen estado general de salud

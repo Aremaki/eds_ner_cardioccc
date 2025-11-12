@@ -1,68 +1,69 @@
-T1	SINTOMA 236 243	náuseas
-T2	SINTOMA 246 253	vómitos
-T3	SINTOMA 445 451	fiebre
-T4	SINTOMA 990 995	masas
-T5	SINTOMA 1254 1267	ritmo sinusal
-T6	SINTOMA 3025 3037	asintomática
-T7	SINTOMA 1387 1410	silueta cardiaca normal
-T8	SINTOMA 999 1014	visceromegalias
-T9	SINTOMA 920 975	Abdomen: blando, depresible, no doloroso a la palpación
-T10	SINTOMA 1283 1333	alteraciones de la repolarización, despolarización
-T11	SINTOMA 348 385	alteraciones en el ritmo deposicional
-T12	SINTOMA 1415 1456	alteraciones pleuroparenquimatosas agudas
-T13	SINTOMA 720 742	Buena perfusión distal
-T14	SINTOMA 683 718	Coloración normal de piel y mucosas
-T15	SINTOMA 634 644	Consciente
-T16	SINTOMA 1549 1590	creatinina plasmática en valores normales
-T17	SINTOMA 669 681	deshidratada
-T18	SINTOMA 1019 1029	distensión
-T19	SINTOMA 204 231	dolor abdominal epigástrico
-T20	SINTOMA 744 752	Eupneica
-T21	SINTOMA 1117 1151	Extremidades inferiores sin edemas
-T22	SINTOMA 2854 2905	mucosa de estómago y duodeno sin observar erosiones
-T23	SINTOMA 893 918	murmullo vesicular normal
-T24	SINTOMA 646 655	Orientada
-T25	SINTOMA 1045 1065	Peristaltismo normal
-T26	SINTOMA 777 802	ruidos cardiacos rítmicos
-T27	SINTOMA 814 868	soplo sistólico panfocal de predominio en foco aórtico
-T28	SINTOMA 1067 1115	Tacto rectal: dedil con restos de heces normales
-T29	SINTOMA 1033 1043	timpanismo
-T30	SINTOMA 1337 1361	trastornos de conducción
-T31	ENFERMEDAD 21 54	alérgica a penicilina y derivados
-T32	ENFERMEDAD 1693 1741	proceso obstructivo de tracto digestivo superior
-T33	ENFERMEDAD 1337 1361	trastornos de conducción
-T34	ENFERMEDAD 1754 1769	trastorno motor
-T35	ENFERMEDAD 1771 1784	gastroparesia
-T36	ENFERMEDAD 2038 2062	obstrucción del tránsito
-T37	ENFERMEDAD 2110 2121	íleo biliar
-T38	ENFERMEDAD 2126 2155	litiasis enclavada en duodeno
-T39	ENFERMEDAD 2157 2177	Síndrome de Bouveret
-T40	ENFERMEDAD 999 1014	visceromegalias
-T41	ENFERMEDAD 1165 1190	trombosis venosa profunda
-T42	ENFERMEDAD 2650 2658	litiasis
-T43	ENFERMEDAD 2717 2725	litiasis
-T44	ENFERMEDAD 2768 2776	litiasis
-T45	ENFERMEDAD 2508 2516	litiasis
-T46	ENFERMEDAD 2909 2917	lesiones
-T47	ENFERMEDAD 2955 2963	litiasis
-T48	PROCEDIMIENTO 1067 1079	Tacto rectal
-T49	PROCEDIMIENTO 1234 1252	Electrocardiograma
-T50	PROCEDIMIENTO 1365 1385	Radiografía de tórax
-T51	PROCEDIMIENTO 1460 1479	Analítica de sangre
-T52	PROCEDIMIENTO 1625 1638	fluidoterapia
-T53	PROCEDIMIENTO 1641 1653	antieméticos
-T54	PROCEDIMIENTO 1811 1826	endoscopia oral
-T55	PROCEDIMIENTO 1857 1872	endoscopia oral
-T56	PROCEDIMIENTO 2297 2319	extracción endoscópica
-T57	PROCEDIMIENTO 2352 2378	desimpactación del duodeno
-T58	PROCEDIMIENTO 2391 2419	presa mediante un asa de red
-T59	PROCEDIMIENTO 2437 2527	se consigue franquear el píloro en sentido inverso, y se transporta la litiasis a estómago
-T60	PROCEDIMIENTO 2568 2578	litotricia
-T61	PROCEDIMIENTO 2607 2692	con un asa de polipectomía se introduce la litiasis de manera parcial en un sobretubo
-T62	PROCEDIMIENTO 2751 2824	extracción de la litiasis mediante endoscopia a través de la cavidad oral
-T63	PROCEDIMIENTO 2938 2963	extracción de la litiasis
-T64	PROCEDIMIENTO 3050 3082	control analítico y radiográfico
-T65	PROCEDIMIENTO 491 509	exploración física
-T66	PROCEDIMIENTO 754 775	Auscultación cardiaca
-T67	PROCEDIMIENTO 870 891	Auscultación pulmonar
-T68	PROCEDIMIENTO 966 975	palpación
+T1	ENFERMEDAD 21 54	alérgica a penicilina y derivados
+T2	ENFERMEDAD 1693 1741	proceso obstructivo de tracto digestivo superior
+T3	ENFERMEDAD 1337 1361	trastornos de conducción
+T4	ENFERMEDAD 1754 1769	trastorno motor
+T5	ENFERMEDAD 1771 1784	gastroparesia
+T6	ENFERMEDAD 2038 2062	obstrucción del tránsito
+T7	ENFERMEDAD 2110 2121	íleo biliar
+T8	ENFERMEDAD 2126 2155	litiasis enclavada en duodeno
+T9	ENFERMEDAD 2157 2177	Síndrome de Bouveret
+T10	ENFERMEDAD 999 1014	visceromegalias
+T11	ENFERMEDAD 1165 1190	trombosis venosa profunda
+T12	ENFERMEDAD 2650 2658	litiasis
+T13	ENFERMEDAD 2717 2725	litiasis
+T14	ENFERMEDAD 2768 2776	litiasis
+T15	ENFERMEDAD 2508 2516	litiasis
+T16	ENFERMEDAD 2909 2917	lesiones
+T17	ENFERMEDAD 2955 2963	litiasis
+T18	PROCEDIMIENTO 1234 1252	Electrocardiograma
+T19	PROCEDIMIENTO 1460 1479	Analítica de sangre
+T20	PROCEDIMIENTO 1365 1385	Radiografía de tórax
+T21	PROCEDIMIENTO 2938 2963	extracción de la litiasis
+T22	PROCEDIMIENTO 491 509	exploración física
+T23	PROCEDIMIENTO 1857 1872	endoscopia oral
+T24	PROCEDIMIENTO 1625 1638	fluidoterapia
+T25	PROCEDIMIENTO 1641 1653	antieméticos
+T26	PROCEDIMIENTO 1811 1826	endoscopia oral
+T27	PROCEDIMIENTO 754 775	Auscultación cardiaca
+T28	PROCEDIMIENTO 870 891	Auscultación pulmonar
+T29	PROCEDIMIENTO 966 975	palpación
+T30	PROCEDIMIENTO 2297 2319	extracción endoscópica
+T31	PROCEDIMIENTO 2352 2378	desimpactación del duodeno
+T32	PROCEDIMIENTO 1067 1079	Tacto rectal
+T33	PROCEDIMIENTO 2568 2578	litotricia
+T34	PROCEDIMIENTO 2607 2692	con un asa de polipectomía se introduce la litiasis de manera parcial en un sobretubo
+T35	PROCEDIMIENTO 2751 2824	extracción de la litiasis mediante endoscopia a través de la cavidad oral
+T36	PROCEDIMIENTO 2391 2419	presa mediante un asa de red
+T37	PROCEDIMIENTO 2437 2527	se consigue franquear el píloro en sentido inverso, y se transporta la litiasis a estómago
+T38	PROCEDIMIENTO 3050 3082	control analítico y radiográfico
+T39	SINTOMA 634 644	Consciente
+T40	SINTOMA 646 655	Orientada
+T41	SINTOMA 669 681	deshidratada
+T42	SINTOMA 204 231	dolor abdominal epigástrico
+T43	SINTOMA 236 243	náuseas
+T44	SINTOMA 246 253	vómitos
+T45	SINTOMA 744 752	Eupneica
+T46	SINTOMA 777 802	ruidos cardiacos rítmicos
+T47	SINTOMA 814 868	soplo sistólico panfocal de predominio en foco aórtico
+T48	SINTOMA 348 385	alteraciones en el ritmo deposicional
+T49	SINTOMA 445 451	fiebre
+T50	SINTOMA 1019 1029	distensión
+T51	SINTOMA 1033 1043	timpanismo
+T52	SINTOMA 1117 1151	Extremidades inferiores sin edemas
+T53	SINTOMA 720 742	Buena perfusión distal
+T54	SINTOMA 683 718	Coloración normal de piel y mucosas
+T55	SINTOMA 893 918	murmullo vesicular normal
+T56	SINTOMA 990 995	masas
+T57	SINTOMA 1045 1065	Peristaltismo normal
+T58	SINTOMA 1254 1267	ritmo sinusal
+T59	SINTOMA 1891 1907	formación sólida
+T60	SINTOMA 3025 3037	asintomática
+T61	SINTOMA 1387 1410	silueta cardiaca normal
+T62	SINTOMA 1415 1456	alteraciones pleuroparenquimatosas agudas
+T63	SINTOMA 1549 1590	creatinina plasmática en valores normales
+T64	SINTOMA 920 975	Abdomen: blando, depresible, no doloroso a la palpación
+T65	SINTOMA 999 1014	visceromegalias
+T66	SINTOMA 1067 1115	Tacto rectal: dedil con restos de heces normales
+T67	SINTOMA 2854 2905	mucosa de estómago y duodeno sin observar erosiones
+T68	SINTOMA 1337 1361	trastornos de conducción
+T69	SINTOMA 1283 1333	alteraciones de la repolarización, despolarización

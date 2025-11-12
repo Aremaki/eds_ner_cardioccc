@@ -1,28 +1,28 @@
-T1	SINTOMA 1206 1214	sangrado
-T2	SINTOMA 1206 1214	sangrado
-T3	SINTOMA 1308 1321	miodesospsias
-T4	SINTOMA 1094 1120	sangrado activo de la AMIR
-T5	ENFERMEDAD 82 107	diabetes mellitus tipo II
-T6	ENFERMEDAD 902 918	áreas isquémicas
-T7	ENFERMEDAD 109 121	hipertensión
-T8	ENFERMEDAD 124 145	cardiopatía isquémica
-T9	ENFERMEDAD 161 196	retinopatía diabética proliferativa
-T10	ENFERMEDAD 1008 1031	membranas neovasculares
-T11	ENFERMEDAD 1094 1120	sangrado activo de la AMIR
-T12	ENFERMEDAD 1174 1201	sangre en la cavidad vítrea
-T13	ENFERMEDAD 513 530	hemorragia vítrea
-T14	ENFERMEDAD 533 561	edema macular difuso crónico
-T15	ENFERMEDAD 1349 1366	hemorragia vítrea
-T16	ENFERMEDAD 580 603	membranas neovasculares
-T17	ENFERMEDAD 654 718	microaneurismas y hemorragias en el polo posterior de ambos ojos
-T18	ENFERMEDAD 763 800	AMIR en la zona temporal de la macula
-T19	ENFERMEDAD 954 974	edema macular difuso
-T20	ENFERMEDAD 980 984	AMIR
-T21	ENFERMEDAD 1308 1321	miodesospsias
-T22	PROCEDIMIENTO 1071 1081	angiograma
-T23	PROCEDIMIENTO 320 374	panretinofotocoagulación con láser argón en ambos ojos
-T24	PROCEDIMIENTO 389 411	vitrectomía pars plana
-T25	PROCEDIMIENTO 414 450	pelado de membrana limitante interna
-T26	PROCEDIMIENTO 455 499	inyección de triamcinolona intravítrea en OD
-T27	PROCEDIMIENTO 621 644	examen del fondo de ojo
-T28	PROCEDIMIENTO 817 844	angiografía fluoreseceínica
+T1	ENFERMEDAD 82 107	diabetes mellitus tipo II
+T2	ENFERMEDAD 902 918	áreas isquémicas
+T3	ENFERMEDAD 109 121	hipertensión
+T4	ENFERMEDAD 124 145	cardiopatía isquémica
+T5	ENFERMEDAD 161 196	retinopatía diabética proliferativa
+T6	ENFERMEDAD 1008 1031	membranas neovasculares
+T7	ENFERMEDAD 1094 1120	sangrado activo de la AMIR
+T8	ENFERMEDAD 1174 1201	sangre en la cavidad vítrea
+T9	ENFERMEDAD 513 530	hemorragia vítrea
+T10	ENFERMEDAD 533 561	edema macular difuso crónico
+T11	ENFERMEDAD 1349 1366	hemorragia vítrea
+T12	ENFERMEDAD 580 603	membranas neovasculares
+T13	ENFERMEDAD 654 718	microaneurismas y hemorragias en el polo posterior de ambos ojos
+T14	ENFERMEDAD 763 800	AMIR en la zona temporal de la macula
+T15	ENFERMEDAD 954 974	edema macular difuso
+T16	ENFERMEDAD 980 984	AMIR
+T17	ENFERMEDAD 1308 1321	miodesospsias
+T18	PROCEDIMIENTO 817 844	angiografía fluoreseceínica
+T19	PROCEDIMIENTO 320 374	panretinofotocoagulación con láser argón en ambos ojos
+T20	PROCEDIMIENTO 389 411	vitrectomía pars plana
+T21	PROCEDIMIENTO 414 450	pelado de membrana limitante interna
+T22	PROCEDIMIENTO 455 499	inyección de triamcinolona intravítrea en OD
+T23	PROCEDIMIENTO 621 644	examen del fondo de ojo
+T24	PROCEDIMIENTO 1071 1081	angiograma
+T25	SINTOMA 1308 1321	miodesospsias
+T26	SINTOMA 1206 1214	sangrado
+T27	SINTOMA 1094 1120	sangrado activo de la AMIR
+T28	SINTOMA 1206 1214	sangrado

@@ -1,13 +1,23 @@
-T1	SINTOMA 161 197	dolor agudo en hemiabdomen izquierdo
-T2	SINTOMA 563 570	estable
-T3	SINTOMA 723 730	estable
-T4	SINTOMA 390 420	hemograma y coagulación normal
-T5	SINTOMA 305 326	irritación peritoneal
-T6	SINTOMA 200 207	náuseas
-T7	SINTOMA 265 300	ocupación del hemiabdomen izquierdo
-T8	SINTOMA 455 462	síncope
-T9	SINTOMA 339 370	triglicéridos y lipasa elevados
-T10	ENFERMEDAD 64 72	diabetes
-T11	ENFERMEDAD 94 132	pancreatitis aguda alitiásica moderada
-T12	ENFERMEDAD 455 462	síncope
-T13	ENFERMEDAD 616 652	pseudoquiste pancreático hemorrágico
+T1	ENFERMEDAD 64 72	diabetes
+T2	ENFERMEDAD 94 132	pancreatitis aguda alitiásica moderada
+T3	ENFERMEDAD 455 462	síncope
+T4	ENFERMEDAD 616 652	pseudoquiste pancreático hemorrágico
+T5	PROCEDIMIENTO 378 388	bioquímica
+T6	PROCEDIMIENTO 390 399	hemograma
+T7	PROCEDIMIENTO 512 552	trasfusión de 6 concentrados de hematíes
+T8	PROCEDIMIENTO 825 844	quisto-yeyunostomía
+T9	PROCEDIMIENTO 402 413	coagulación
+T10	PROCEDIMIENTO 786 809	intervención quirúrgica
+T11	PROCEDIMIENTO 328 337	Analítica
+T12	PROCEDIMIENTO 234 245	exploración
+T13	PROCEDIMIENTO 433 444	exploración
+T14	PROCEDIMIENTO 583 599	prueba de imagen
+T15	SINTOMA 161 197	dolor agudo en hemiabdomen izquierdo
+T16	SINTOMA 200 207	náuseas
+T17	SINTOMA 265 300	ocupación del hemiabdomen izquierdo
+T18	SINTOMA 339 370	triglicéridos y lipasa elevados
+T19	SINTOMA 305 326	irritación peritoneal
+T20	SINTOMA 390 420	hemograma y coagulación normal
+T21	SINTOMA 563 570	estable
+T22	SINTOMA 723 730	estable
+T23	SINTOMA 455 462	síncope

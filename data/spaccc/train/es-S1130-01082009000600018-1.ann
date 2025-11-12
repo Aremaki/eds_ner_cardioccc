@@ -1,18 +1,30 @@
-T1	SINTOMA 1805 1817	asintomática
-T2	SINTOMA 1120 1133	líquido libre
-T3	SINTOMA 308 312	masa
-T4	SINTOMA 39 58	síntomas digestivos
-T5	SINTOMA 599 614	anejos normales
-T6	SINTOMA 406 441	colonoscopia completa sin hallazgos
-T7	SINTOMA 1824 1891	marcadores tumorales y TAC más recientes son absolutamente normales
-T8	SINTOMA 510 554	masa dependiente de ciego, muy vascularizada
-T9	SINTOMA 773 785	masa pélvica
-T10	SINTOMA 620 637	útero hipoplásico
-T11	ENFERMEDAD 1482 1530	mucocele secundario a tumor mucinoso apendicular
-T12	ENFERMEDAD 1742 1751	neoplasia
-T13	ENFERMEDAD 620 637	útero hipoplásico
-T14	ENFERMEDAD 963 970	ascitis
-T15	ENFERMEDAD 974 987	adenomegalias
-T16	ENFERMEDAD 1068 1088	mucocele apendicular
-T17	ENFERMEDAD 1137 1159	implantes en peritoneo
-T18	ENFERMEDAD 930 961	infiltración de órganos vecinos
+T1	ENFERMEDAD 1482 1530	mucocele secundario a tumor mucinoso apendicular
+T2	ENFERMEDAD 1742 1751	neoplasia
+T3	ENFERMEDAD 620 637	útero hipoplásico
+T4	ENFERMEDAD 963 970	ascitis
+T5	ENFERMEDAD 974 987	adenomegalias
+T6	ENFERMEDAD 1068 1088	mucocele apendicular
+T7	ENFERMEDAD 1137 1159	implantes en peritoneo
+T8	ENFERMEDAD 930 961	infiltración de órganos vecinos
+T9	PROCEDIMIENTO 1349 1372	estudio histopatológico
+T10	PROCEDIMIENTO 1824 1844	marcadores tumorales
+T11	PROCEDIMIENTO 1847 1850	TAC
+T12	PROCEDIMIENTO 246 272	ecografía abdomino-pélvica
+T13	PROCEDIMIENTO 406 427	colonoscopia completa
+T14	PROCEDIMIENTO 452 476	laparoscopia diagnóstica
+T15	PROCEDIMIENTO 682 738	tomografía axial computerizada (TAC) de abdomen y pelvis
+T16	PROCEDIMIENTO 714 717	TAC
+T17	PROCEDIMIENTO 1179 1243	ileocolectomía derecha oncológica con anastomosis ileotransversa
+T18	PROCEDIMIENTO 1217 1243	anastomosis ileotransversa
+T19	PROCEDIMIENTO 1663 1723	ganglios linfáticos que se aislaron de la pieza de resección
+T20	PROCEDIMIENTO 89 98	analítica
+T21	SINTOMA 39 58	síntomas digestivos
+T22	SINTOMA 773 785	masa pélvica
+T23	SINTOMA 599 614	anejos normales
+T24	SINTOMA 1120 1133	líquido libre
+T25	SINTOMA 1805 1817	asintomática
+T26	SINTOMA 406 441	colonoscopia completa sin hallazgos
+T27	SINTOMA 1824 1891	marcadores tumorales y TAC más recientes son absolutamente normales
+T28	SINTOMA 308 312	masa
+T29	SINTOMA 510 554	masa dependiente de ciego, muy vascularizada
+T30	SINTOMA 620 637	útero hipoplásico

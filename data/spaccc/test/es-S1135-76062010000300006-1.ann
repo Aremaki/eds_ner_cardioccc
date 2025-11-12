@@ -1,22 +1,23 @@
-T1	SINTOMA 736 747	efecto masa
-T2	SINTOMA 158 171	fallecimiento
-T3	SINTOMA 526 532	muerte
-T4	SINTOMA 1432 1488	análisis químico-toxicológico realizado resulta negativo
-T5	SINTOMA 638 708	área parduzca de 0,5 x 1 cm en la corteza cerebral del lóbulo parietal
-T6	SINTOMA 218 241	fallece de forma súbita
-T7	SINTOMA 349 453	tomografía computarizada (TC) y resonancia magnética (RM) que no habían mostrado alteraciones reseñables
-T8	ENFERMEDAD 61 108	crisis epilépticas parciales con generalización
-T9	ENFERMEDAD 218 241	fallece de forma súbita
-T10	ENFERMEDAD 1301 1311	TDN simple
-T11	ENFERMEDAD 790 795	tumor
-T12	PROCEDIMIENTO 1058 1088	marcadores inmunohistoquímicos
-T13	PROCEDIMIENTO 1141 1162	marcadores neuronales
-T14	PROCEDIMIENTO 1432 1461	análisis químico-toxicológico
+T1	ENFERMEDAD 61 108	crisis epilépticas parciales con generalización
+T2	ENFERMEDAD 218 241	fallece de forma súbita
+T3	ENFERMEDAD 1301 1311	TDN simple
+T4	ENFERMEDAD 790 795	tumor
+T5	PROCEDIMIENTO 753 776	estudio histopatológico
+T6	PROCEDIMIENTO 473 494	autopsia médico-legal
+T7	PROCEDIMIENTO 540 563	estudio neuropatológico
+T8	PROCEDIMIENTO 1432 1461	análisis químico-toxicológico
+T9	PROCEDIMIENTO 1058 1088	marcadores inmunohistoquímicos
+T10	PROCEDIMIENTO 349 373	tomografía computarizada
+T11	PROCEDIMIENTO 375 377	TC
+T12	PROCEDIMIENTO 381 401	resonancia magnética
+T13	PROCEDIMIENTO 403 405	RM
+T14	PROCEDIMIENTO 1141 1162	marcadores neuronales
 T15	PROCEDIMIENTO 327 345	estudios de imagen
-T16	PROCEDIMIENTO 349 373	tomografía computarizada
-T17	PROCEDIMIENTO 375 377	TC
-T18	PROCEDIMIENTO 381 401	resonancia magnética
-T19	PROCEDIMIENTO 403 405	RM
-T20	PROCEDIMIENTO 473 494	autopsia médico-legal
-T21	PROCEDIMIENTO 540 563	estudio neuropatológico
-T22	PROCEDIMIENTO 753 776	estudio histopatológico
+T16	SINTOMA 638 708	área parduzca de 0,5 x 1 cm en la corteza cerebral del lóbulo parietal
+T17	SINTOMA 736 747	efecto masa
+T18	SINTOMA 1432 1488	análisis químico-toxicológico realizado resulta negativo
+T19	SINTOMA 158 171	fallecimiento
+T20	SINTOMA 218 241	fallece de forma súbita
+T21	SINTOMA 349 453	tomografía computarizada (TC) y resonancia magnética (RM) que no habían mostrado alteraciones reseñables
+T22	SINTOMA 526 532	muerte
+T23	SINTOMA 1097 1238	proteína glial fibrilar ácida (GFAP) y para marcadores neuronales (enolasa, neurofilamentos y sinaptofisina) que fueron todos ellos positivos

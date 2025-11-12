@@ -1,13 +1,26 @@
-T1	SINTOMA 223 299	dolor a la palpación de los tejidos pericoronarios del tercer molar inferior
-T2	SINTOMA 1092 1131	dolor a nivel del tercer molar inferior
-T3	SINTOMA 67 87	dolor hemimandíbular
-T4	SINTOMA 100 106	fiebre
-T5	SINTOMA 1166 1240	imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior
-T6	SINTOMA 359 396	leve aumento del número de leucocitos
-T7	SINTOMA 480 563	terceros molares incluídos, en posición mesioangular, con sendos sacos foliculares,
-T8	ENFERMEDAD 620 649	infección de causa odontógena
-T9	ENFERMEDAD 1282 1298	quiste dentígero
-T10	ENFERMEDAD 651 666	pericoronaritis
-T11	ENFERMEDAD 489 506	molares incluídos
-T12	ENFERMEDAD 1798 1804	quiste
-T13	ENFERMEDAD 1477 1483	lesión
+T1	ENFERMEDAD 620 649	infección de causa odontógena
+T2	ENFERMEDAD 1282 1298	quiste dentígero
+T3	ENFERMEDAD 651 666	pericoronaritis
+T4	ENFERMEDAD 489 506	molares incluídos
+T5	ENFERMEDAD 1798 1804	quiste
+T6	ENFERMEDAD 1477 1483	lesión
+T7	PROCEDIMIENTO 680 703	tratamiento antibiótico
+T8	PROCEDIMIENTO 1362 1398	exodoncia de la pieza y quistectomía
+T9	PROCEDIMIENTO 1403 1428	estudio anatomopatológico
+T10	PROCEDIMIENTO 160 178	exploración física
+T11	PROCEDIMIENTO 755 793	exodoncia de ambos cordales inferiores
+T12	PROCEDIMIENTO 798 817	estudio histológico
+T13	PROCEDIMIENTO 946 982	extracción del tercer molar inferior
+T14	PROCEDIMIENTO 436 453	ortopantomografía
+T15	PROCEDIMIENTO 455 458	OPG
+T16	PROCEDIMIENTO 1147 1150	OPG
+T17	PROCEDIMIENTO 1334 1357	intervención quirúrgica
+T18	PROCEDIMIENTO 322 331	analítica
+T19	PROCEDIMIENTO 234 273	palpación de los tejidos pericoronarios
+T20	SINTOMA 1092 1131	dolor a nivel del tercer molar inferior
+T21	SINTOMA 67 87	dolor hemimandíbular
+T22	SINTOMA 100 106	fiebre
+T23	SINTOMA 223 299	dolor a la palpación de los tejidos pericoronarios del tercer molar inferior
+T24	SINTOMA 1166 1240	imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior
+T25	SINTOMA 359 396	leve aumento del número de leucocitos
+T26	SINTOMA 480 563	terceros molares incluídos, en posición mesioangular, con sendos sacos foliculares,

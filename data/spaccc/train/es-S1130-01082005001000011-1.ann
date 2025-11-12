@@ -1,12 +1,23 @@
-T1	SINTOMA 262 274	Asintomática
-T2	SINTOMA 312 327	dolor abdominal
-T3	SINTOMA 338 393	exploración física y analítica fue rigurosamente normal
-T4	SINTOMA 30 48	malestar abdominal
-T5	SINTOMA 395 459	Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos
-T6	SINTOMA 230 260	negativa para células malignas
-T7	ENFERMEDAD 65 82	carcinoma de mama
-T8	ENFERMEDAD 167 197	masa multiquística pancreática
-T9	ENFERMEDAD 492 550	formaciones quísticas a nivel de toda la celda pancreática
-T10	ENFERMEDAD 723 747	cistoadenoma pancreático
-T11	ENFERMEDAD 1077 1109	cistoadenoma gigante de páncreas
-T12	ENFERMEDAD 884 891	quistes
+T1	ENFERMEDAD 65 82	carcinoma de mama
+T2	ENFERMEDAD 167 197	masa multiquística pancreática
+T3	ENFERMEDAD 492 550	formaciones quísticas a nivel de toda la celda pancreática
+T4	ENFERMEDAD 723 747	cistoadenoma pancreático
+T5	ENFERMEDAD 1077 1109	cistoadenoma gigante de páncreas
+T6	ENFERMEDAD 884 891	quistes
+T7	PROCEDIMIENTO 111 120	ecografía
+T8	PROCEDIMIENTO 123 138	TAC abdominales
+T9	PROCEDIMIENTO 186 229	pancreática, con punción aspiración biopsia
+T10	PROCEDIMIENTO 338 356	exploración física
+T11	PROCEDIMIENTO 461 480	Ecografía abdominal
+T12	PROCEDIMIENTO 760 773	TAC abdominal
+T13	PROCEDIMIENTO 776 793	RMN con contraste
+T14	PROCEDIMIENTO 836 891	punción aspiración con aguja fina de uno de los quistes
+T15	PROCEDIMIENTO 359 368	analítica
+T16	PROCEDIMIENTO 1339 1361	tratamiento quirúrgico
+T17	PROCEDIMIENTO 1182 1194	radiológicos
+T18	SINTOMA 30 48	malestar abdominal
+T19	SINTOMA 312 327	dolor abdominal
+T20	SINTOMA 262 274	Asintomática
+T21	SINTOMA 230 260	negativa para células malignas
+T22	SINTOMA 338 393	exploración física y analítica fue rigurosamente normal
+T23	SINTOMA 395 459	Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos

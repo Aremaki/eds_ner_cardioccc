@@ -1,22 +1,33 @@
-T1	SINTOMA 255 268	estreñimiento
-T2	SINTOMA 1194 1207	estreñimiento
-T3	SINTOMA 478 502	función renal conservada
-T4	SINTOMA 529 541	leucocituria
-T5	SINTOMA 544 553	bactiuria
-T6	SINTOMA 441 475	bioquímica con parámetros normales
-T7	SINTOMA 1163 1179	cuadro miccional
-T8	SINTOMA 924 946	desplazamiento vesical
-T9	SINTOMA 698 724	falta de repleción vesical
-T10	SINTOMA 340 368	genitales externos atrógicos
-T11	SINTOMA 271 305	incontinencia de patrón irritativo
-T12	SINTOMA 370 389	test Boney negativo
-T13	SINTOMA 558 585	urocultivo está contaminado
-T14	ENFERMEDAD 40 61	trastornos depresivos
-T15	ENFERMEDAD 817 833	ectasia ureteral
-T16	ENFERMEDAD 843 851	Fecaloma
-T17	ENFERMEDAD 401 410	cistocele
-T18	ENFERMEDAD 103 118	politraumatismo
-T19	ENFERMEDAD 123 158	fractura de sacro, rama iliopubiana
-T20	ENFERMEDAD 218 253	infecciones urinarias de repetición
-T21	ENFERMEDAD 667 688	ectasia pieloureteral
-T22	ENFERMEDAD 78 88	autolesión
+T1	ENFERMEDAD 40 61	trastornos depresivos
+T2	ENFERMEDAD 817 833	ectasia ureteral
+T3	ENFERMEDAD 843 851	Fecaloma
+T4	ENFERMEDAD 401 410	cistocele
+T5	ENFERMEDAD 103 118	politraumatismo
+T6	ENFERMEDAD 123 158	fractura de sacro, rama iliopubiana
+T7	ENFERMEDAD 218 253	infecciones urinarias de repetición
+T8	ENFERMEDAD 667 688	ectasia pieloureteral
+T9	ENFERMEDAD 78 88	autolesión
+T10	PROCEDIMIENTO 749 770	Scan abdomino-pélvico
+T11	PROCEDIMIENTO 558 568	urocultivo
+T12	PROCEDIMIENTO 312 330	exploración física
+T13	PROCEDIMIENTO 593 611	estudio urográfico
+T14	PROCEDIMIENTO 1021 1109	extracción manual y terapia de enemas evacuantes; proceder a la limpieza del recto-sigma
+T15	PROCEDIMIENTO 441 451	bioquímica
+T16	PROCEDIMIENTO 515 524	sedimento
+T17	PROCEDIMIENTO 370 380	test Boney
+T18	PROCEDIMIENTO 478 491	función renal
+T19	PROCEDIMIENTO 418 427	analítica
+T20	SINTOMA 340 368	genitales externos atrógicos
+T21	SINTOMA 1163 1179	cuadro miccional
+T22	SINTOMA 478 502	función renal conservada
+T23	SINTOMA 1194 1207	estreñimiento
+T24	SINTOMA 529 541	leucocituria
+T25	SINTOMA 544 553	bactiuria
+T26	SINTOMA 924 946	desplazamiento vesical
+T27	SINTOMA 271 305	incontinencia de patrón irritativo
+T28	SINTOMA 255 268	estreñimiento
+T29	SINTOMA 441 475	bioquímica con parámetros normales
+T30	SINTOMA 370 389	test Boney negativo
+T31	SINTOMA 558 585	urocultivo está contaminado
+T32	SINTOMA 625 648	buena función bilateral
+T33	SINTOMA 698 724	falta de repleción vesical

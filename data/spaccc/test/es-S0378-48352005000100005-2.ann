@@ -1,20 +1,20 @@
-T1	SINTOMA 910 956	elevación del CA153 y de la fosfatasa alcalina
-T2	SINTOMA 168 205	positivos, al igual que el Herceptest
-T3	SINTOMA 141 177	receptores hormonales eran positivos
-T4	SINTOMA 128 134	T4a N1
-T5	ENFERMEDAD 77 113	carcinoma ductal infiltrante de mama
-T6	ENFERMEDAD 331 353	recidiva ósea cervical
-T7	ENFERMEDAD 521 575	progresión tumoral ósea y ganglionar (supraclavicular)
-T8	ENFERMEDAD 1132 1158	adenopatía supraclavicular
-T9	ENFERMEDAD 1263 1278	progresión ósea
-T10	ENFERMEDAD 1263 1289	progresión ósea y hepática
-T11	PROCEDIMIENTO 1078 1094	gammagrafía ósea
-T12	PROCEDIMIENTO 1334 1347	quimioterapia
-T13	PROCEDIMIENTO 141 162	receptores hormonales
-T14	PROCEDIMIENTO 221 265	tratamiento complementario con quimioterapia
-T15	PROCEDIMIENTO 267 270	CMF
-T16	PROCEDIMIENTO 273 285	radioterapia
-T17	PROCEDIMIENTO 405 412	cirugía
-T18	PROCEDIMIENTO 415 433	radioterapia local
-T19	PROCEDIMIENTO 58 69	mastectomía
-T20	PROCEDIMIENTO 594 627	tratamiento citostático paliativo
+T1	ENFERMEDAD 77 113	carcinoma ductal infiltrante de mama
+T2	ENFERMEDAD 331 353	recidiva ósea cervical
+T3	ENFERMEDAD 521 575	progresión tumoral ósea y ganglionar (supraclavicular)
+T4	ENFERMEDAD 1132 1158	adenopatía supraclavicular
+T5	ENFERMEDAD 1263 1278	progresión ósea
+T6	ENFERMEDAD 1263 1289	progresión ósea y hepática
+T7	PROCEDIMIENTO 58 69	mastectomía
+T8	PROCEDIMIENTO 221 265	tratamiento complementario con quimioterapia
+T9	PROCEDIMIENTO 273 285	radioterapia
+T10	PROCEDIMIENTO 415 433	radioterapia local
+T11	PROCEDIMIENTO 594 627	tratamiento citostático paliativo
+T12	PROCEDIMIENTO 1078 1094	gammagrafía ósea
+T13	PROCEDIMIENTO 1334 1347	quimioterapia
+T14	PROCEDIMIENTO 267 270	CMF
+T15	PROCEDIMIENTO 141 162	receptores hormonales
+T16	PROCEDIMIENTO 405 412	cirugía
+T17	SINTOMA 128 134	T4a N1
+T18	SINTOMA 141 177	receptores hormonales eran positivos
+T19	SINTOMA 910 956	elevación del CA153 y de la fosfatasa alcalina
+T20	SINTOMA 168 205	positivos, al igual que el Herceptest

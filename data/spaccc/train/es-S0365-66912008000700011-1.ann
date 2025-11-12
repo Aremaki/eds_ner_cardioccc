@@ -1,18 +1,28 @@
-T1	SINTOMA 1196 1203	fallece
-T2	SINTOMA 385 394	madarosis
-T3	SINTOMA 1064 1074	tumoración
-T4	SINTOMA 482 514	afectación conjuntival o corneal
-T5	SINTOMA 781 815	infiltración de la grasa preseptal
-T6	SINTOMA 821 865	infiltración ósea ni de grasa retroorbitaria
-T7	SINTOMA 222 266	tumefacción eritematosa del párpado superior
-T8	SINTOMA 736 766	tumoración de párpado superior
-T9	ENFERMEDAD 39 48	chalazión
-T10	ENFERMEDAD 51 61	blefaritis
-T11	ENFERMEDAD 945 955	metástasis
-T12	ENFERMEDAD 1015 1026	adenopatías
-T13	ENFERMEDAD 529 552	adenopatía preauricular
-T14	ENFERMEDAD 1208 1230	insuficiencia cardíaca
-T15	ENFERMEDAD 641 668	carcinoma sebáceo palpebral
-T16	ENFERMEDAD 385 394	madarosis
-T17	ENFERMEDAD 606 612	lesión
-T18	ENFERMEDAD 821 838	infiltración ósea
+T1	ENFERMEDAD 39 48	chalazión
+T2	ENFERMEDAD 51 61	blefaritis
+T3	ENFERMEDAD 945 955	metástasis
+T4	ENFERMEDAD 1015 1026	adenopatías
+T5	ENFERMEDAD 529 552	adenopatía preauricular
+T6	ENFERMEDAD 1208 1230	insuficiencia cardíaca
+T7	ENFERMEDAD 641 668	carcinoma sebáceo palpebral
+T8	ENFERMEDAD 385 394	madarosis
+T9	ENFERMEDAD 606 612	lesión
+T10	ENFERMEDAD 821 838	infiltración ósea
+T11	PROCEDIMIENTO 153 171	pomada antibiótica
+T12	PROCEDIMIENTO 174 193	lavados palpebrales
+T13	PROCEDIMIENTO 410 424	biomicroscopía
+T14	PROCEDIMIENTO 1099 1111	radioterapia
+T15	PROCEDIMIENTO 673 718	tomografía axial computarizada (TC) orbitaria
+T16	PROCEDIMIENTO 705 707	TC
+T17	PROCEDIMIENTO 581 599	biopsia incisional
+T18	PROCEDIMIENTO 906 926	estudio de extensión
+T19	PROCEDIMIENTO 1037 1059	radioterapia paliativa
+T20	PROCEDIMIENTO 201 212	exploración
+T21	SINTOMA 222 266	tumefacción eritematosa del párpado superior
+T22	SINTOMA 736 766	tumoración de párpado superior
+T23	SINTOMA 781 815	infiltración de la grasa preseptal
+T24	SINTOMA 821 865	infiltración ósea ni de grasa retroorbitaria
+T25	SINTOMA 482 514	afectación conjuntival o corneal
+T26	SINTOMA 1196 1203	fallece
+T27	SINTOMA 1064 1074	tumoración
+T28	SINTOMA 385 394	madarosis

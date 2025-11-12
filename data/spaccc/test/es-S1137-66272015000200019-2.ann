@@ -1,17 +1,17 @@
-T1	SINTOMA 374 386	dolor costal
-T2	SINTOMA 585 634	dolor más intenso a la palpación del borde costal
-T3	SINTOMA 103 117	dolor torácico
-T4	SINTOMA 192 206	dolor torácico
-T5	SINTOMA 748 790	maniobra del gancho, se reproduce el dolor
-T6	SINTOMA 661 710	punto más doloroso en la unión de la 10a costilla
-T7	ENFERMEDAD 139 147	neumonía
-T8	ENFERMEDAD 172 188	cuadro neumónico
-T9	ENFERMEDAD 49 73	enfermedades infecciosas
-T10	PROCEDIMIENTO 1022 1108	extirpación bajo anestesia general de la unión de la 10a costilla izquierda con la 11a
-T11	PROCEDIMIENTO 535 546	analgésicos
-T12	PROCEDIMIENTO 560 571	exploración
-T13	PROCEDIMIENTO 608 644	palpación del borde costal izquierdo
-T14	PROCEDIMIENTO 748 767	maniobra del gancho
-T15	PROCEDIMIENTO 807 818	exploración
-T16	PROCEDIMIENTO 865 885	radiografía de tórax
-T17	PROCEDIMIENTO 900 928	tratamiento antiinflamatorio
+T1	ENFERMEDAD 139 147	neumonía
+T2	ENFERMEDAD 172 188	cuadro neumónico
+T3	ENFERMEDAD 49 73	enfermedades infecciosas
+T4	PROCEDIMIENTO 1022 1108	extirpación bajo anestesia general de la unión de la 10a costilla izquierda con la 11a
+T5	PROCEDIMIENTO 748 767	maniobra del gancho
+T6	PROCEDIMIENTO 865 885	radiografía de tórax
+T7	PROCEDIMIENTO 535 546	analgésicos
+T8	PROCEDIMIENTO 900 928	tratamiento antiinflamatorio
+T9	PROCEDIMIENTO 560 571	exploración
+T10	PROCEDIMIENTO 807 818	exploración
+T11	PROCEDIMIENTO 608 644	palpación del borde costal izquierdo
+T12	SINTOMA 374 386	dolor costal
+T13	SINTOMA 585 634	dolor más intenso a la palpación del borde costal
+T14	SINTOMA 103 117	dolor torácico
+T15	SINTOMA 192 206	dolor torácico
+T16	SINTOMA 661 710	punto más doloroso en la unión de la 10a costilla
+T17	SINTOMA 748 790	maniobra del gancho, se reproduce el dolor

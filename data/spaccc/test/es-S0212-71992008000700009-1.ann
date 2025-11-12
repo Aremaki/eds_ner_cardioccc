@@ -1,53 +1,53 @@
-T1	SINTOMA 107 121	visión borrosa
-T2	SINTOMA 697 714	síntomas oculares
-T3	SINTOMA 770 793	dificultad respiratoria
-T4	SINTOMA 1869 1896	ensanchamiento mediastínico
-T5	SINTOMA 843 849	fiebre
-T6	SINTOMA 483 508	afectación intraorbitaria
-T7	SINTOMA 1049 1069	alteraciones del ojo
-T8	SINTOMA 204 220	asimetría ocular
-T9	SINTOMA 1092 1154	aumento de volumen de la parte derecha de la cara y del cuello
-T10	SINTOMA 796 804	disfonia
-T11	SINTOMA 82 94	dolor en ojo
-T12	SINTOMA 815 829	dolor torácico
-T13	SINTOMA 363 385	edema de la conjuntiva
-T14	SINTOMA 2315 2358	engrosamiento de la vena oftálmica superior
-T15	SINTOMA 908 932	estado general era bueno
-T16	SINTOMA 1792 1827	gasometría arterial fueron normales
-T17	SINTOMA 831 841	hemoptisis
-T18	SINTOMA 959 994	incremento del trabajo respiratorio
-T19	SINTOMA 123 141	lagrimeo incesante
-T20	SINTOMA 274 323	limitación generalizada a la movilidad extrínseca
-T21	SINTOMA 1967 2028	múltiples imágenes nodulares en el lóbulo superior del pulmón
-T22	SINTOMA 233 250	profusión del ojo
-T23	SINTOMA 1248 1351	sien derecha y del plano torácico anterior se podía apreciar la dilatación de la red venosa superficial
-T24	SINTOMA 1396 1478	tumoración dura, adherida y no dolorosa a nivel de la fosa supraclavicular derecha
-T25	SINTOMA 1159 1213	vena yugular derecha se mantenía visible e ingurgitada
-T26	ENFERMEDAD 375 403	conjuntiva que se prolapsaba
-T27	ENFERMEDAD 577 584	fumador
-T28	ENFERMEDAD 2373 2388	tumor orbitario
-T29	ENFERMEDAD 2434 2466	masa adenopática latero-cervical
-T30	ENFERMEDAD 2494 2537	metástasis de carcinoma de células pequeñas
-T31	ENFERMEDAD 2038 2094	conglomerado adenopático ocupando el mediastino anterior
-T32	ENFERMEDAD 144 173	diplopia en la mirada extrema
-T33	ENFERMEDAD 796 804	disfonia
-T34	ENFERMEDAD 2291 2301	exoftalmos
-T35	ENFERMEDAD 363 385	edema de la conjuntiva
-T36	ENFERMEDAD 483 508	afectación intraorbitaria
-T37	ENFERMEDAD 107 121	visión borrosa
-T38	PROCEDIMIENTO 1002 1020	exploración física
-T39	PROCEDIMIENTO 1358 1378	palpación del cuello
-T40	PROCEDIMIENTO 1507 1539	palpación de los huecos axilares
-T41	PROCEDIMIENTO 1545 1619	exploración pulmonar, cardiaca, abdominal y de las extremidades inferiores
-T42	PROCEDIMIENTO 1696 1705	hemograma
-T43	PROCEDIMIENTO 1710 1732	estudio de coagulación
-T44	PROCEDIMIENTO 1737 1754	perfil bioquímico
-T45	PROCEDIMIENTO 1766 1786	marcadores tumorales
-T46	PROCEDIMIENTO 1792 1811	gasometría arterial
-T47	PROCEDIMIENTO 1835 1855	radiografía de tórax
-T48	PROCEDIMIENTO 1933 1952	TC cérvico-torácica
-T49	PROCEDIMIENTO 2251 2270	TC cráneo-orbitaria
-T50	PROCEDIMIENTO 2394 2474	punción aspiración con aguja fina de la masa adenopática latero-cervical derecha
-T51	PROCEDIMIENTO 456 468	TC de órbita
-T52	PROCEDIMIENTO 672 681	anamnesis
-T53	PROCEDIMIENTO 886 904	exploración física
+T1	ENFERMEDAD 375 403	conjuntiva que se prolapsaba
+T2	ENFERMEDAD 577 584	fumador
+T3	ENFERMEDAD 2373 2388	tumor orbitario
+T4	ENFERMEDAD 2434 2466	masa adenopática latero-cervical
+T5	ENFERMEDAD 2494 2537	metástasis de carcinoma de células pequeñas
+T6	ENFERMEDAD 2038 2094	conglomerado adenopático ocupando el mediastino anterior
+T7	ENFERMEDAD 144 173	diplopia en la mirada extrema
+T8	ENFERMEDAD 796 804	disfonia
+T9	ENFERMEDAD 2291 2301	exoftalmos
+T10	ENFERMEDAD 363 385	edema de la conjuntiva
+T11	ENFERMEDAD 483 508	afectación intraorbitaria
+T12	ENFERMEDAD 107 121	visión borrosa
+T13	PROCEDIMIENTO 456 468	TC de órbita
+T14	PROCEDIMIENTO 886 904	exploración física
+T15	PROCEDIMIENTO 1002 1020	exploración física
+T16	PROCEDIMIENTO 1358 1378	palpación del cuello
+T17	PROCEDIMIENTO 1507 1539	palpación de los huecos axilares
+T18	PROCEDIMIENTO 1545 1619	exploración pulmonar, cardiaca, abdominal y de las extremidades inferiores
+T19	PROCEDIMIENTO 1696 1705	hemograma
+T20	PROCEDIMIENTO 1710 1732	estudio de coagulación
+T21	PROCEDIMIENTO 1792 1811	gasometría arterial
+T22	PROCEDIMIENTO 1835 1855	radiografía de tórax
+T23	PROCEDIMIENTO 1933 1952	TC cérvico-torácica
+T24	PROCEDIMIENTO 2251 2270	TC cráneo-orbitaria
+T25	PROCEDIMIENTO 2394 2474	punción aspiración con aguja fina de la masa adenopática latero-cervical derecha
+T26	PROCEDIMIENTO 1766 1786	marcadores tumorales
+T27	PROCEDIMIENTO 672 681	anamnesis
+T28	PROCEDIMIENTO 1737 1754	perfil bioquímico
+T29	SINTOMA 82 94	dolor en ojo
+T30	SINTOMA 107 121	visión borrosa
+T31	SINTOMA 123 141	lagrimeo incesante
+T32	SINTOMA 204 220	asimetría ocular
+T33	SINTOMA 233 250	profusión del ojo
+T34	SINTOMA 274 323	limitación generalizada a la movilidad extrínseca
+T35	SINTOMA 697 714	síntomas oculares
+T36	SINTOMA 770 793	dificultad respiratoria
+T37	SINTOMA 796 804	disfonia
+T38	SINTOMA 815 829	dolor torácico
+T39	SINTOMA 831 841	hemoptisis
+T40	SINTOMA 908 932	estado general era bueno
+T41	SINTOMA 959 994	incremento del trabajo respiratorio
+T42	SINTOMA 1049 1069	alteraciones del ojo
+T43	SINTOMA 1092 1154	aumento de volumen de la parte derecha de la cara y del cuello
+T44	SINTOMA 1159 1213	vena yugular derecha se mantenía visible e ingurgitada
+T45	SINTOMA 1248 1351	sien derecha y del plano torácico anterior se podía apreciar la dilatación de la red venosa superficial
+T46	SINTOMA 1396 1478	tumoración dura, adherida y no dolorosa a nivel de la fosa supraclavicular derecha
+T47	SINTOMA 1792 1827	gasometría arterial fueron normales
+T48	SINTOMA 1869 1896	ensanchamiento mediastínico
+T49	SINTOMA 1967 2028	múltiples imágenes nodulares en el lóbulo superior del pulmón
+T50	SINTOMA 843 849	fiebre
+T51	SINTOMA 363 385	edema de la conjuntiva
+T52	SINTOMA 483 508	afectación intraorbitaria
+T53	SINTOMA 2315 2358	engrosamiento de la vena oftálmica superior

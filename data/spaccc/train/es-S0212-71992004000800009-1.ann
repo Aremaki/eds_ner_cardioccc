@@ -1,28 +1,63 @@
-T1	SINTOMA 407 418	acropaquias
-T2	SINTOMA 2669 2692	alfafetoproteina normal
-T3	SINTOMA 144 152	anorexia
-T4	SINTOMA 3040 3074	antígeno criptocócico fue negativo
-T5	SINTOMA 1518 1573	asas intestinales con pequeña cantidad de líquido libre
-T6	SINTOMA 135 142	astenia
-T7	SINTOMA 331 339	caquexia
-T8	SINTOMA 556 577	crepitantes bibasales
-T9	SINTOMA 506 553	Disminución generalizada del murmullo vesicular
-T10	SINTOMA 94 125	disnea de intensidad progresiva
-T11	SINTOMA 1598 1667	ecocardiograma transtorácico en el que no se encontraron alteraciones
-T12	SINTOMA 1492 1535	engrosamiento de pared de asas intestinales
-T13	SINTOMA 2731 2872	estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos
-T14	SINTOMA 688 738	exploración somática y neurológica fueron normales
-T15	SINTOMA 3795 3803	falleció
-T16	SINTOMA 127 133	fiebre
-T17	SINTOMA 1178 1219	infiltrado alveolo-intersticial bilateral
-T18	SINTOMA 2118 2226	masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha
-T19	SINTOMA 1386 1403	masa mediastínica
-T20	SINTOMA 1103 1129	masa mediastínica anterior
-T21	SINTOMA 399 405	muguet
-T22	SINTOMA 154 161	náuseas
-T23	SINTOMA 1447 1475	patrón intersticial pulmonar
-T24	SINTOMA 2966 3035	serologías para Toxoplasma, virus hepatotropos y RPR fueron negativas
-T25	SINTOMA 579 610	soplo sistólico II/VI polifocal
-T26	SINTOMA 2878 2959	tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci
-T27	SINTOMA 84 92	tos seca
-T28	SINTOMA 164 171	vómitos
+T1	ENFERMEDAD 18 32	politoxicómana
+T2	ENFERMEDAD 3144 3159	neumonía difusa
+T3	ENFERMEDAD 3216 3285	linfoma diseminado con afectación mediastínica, cerebral e intestinal
+T4	ENFERMEDAD 195 212	infección por VIH
+T5	ENFERMEDAD 3436 3533	tumor de células germinales extragonadal con afectación ganglionar supraclavicular y mediastínica
+T6	ENFERMEDAD 420 454	adenopatías cervicales bilaterales
+T7	ENFERMEDAD 652 671	condilomas vulvares
+T8	ENFERMEDAD 1326 1358	adenopatías axilares bilaterales
+T9	ENFERMEDAD 1771 1797	insuficiencia respiratoria
+T10	ENFERMEDAD 1896 1922	insuficiencia respiratoria
+T11	ENFERMEDAD 2002 2036	crisis tónico-clónica generalizada
+T12	ENFERMEDAD 2048 2069	hemiparesia izquierda
+T13	ENFERMEDAD 2399 2418	lesión intracraneal
+T14	ENFERMEDAD 2449 2558	adenopatía supraclavicular que se informa como metástasis de tumor maligno indiferenciado de origen epitelial
+T15	ENFERMEDAD 407 418	acropaquias
+T16	ENFERMEDAD 612 625	hepatomegalia
+T17	ENFERMEDAD 399 405	muguet
+T18	PROCEDIMIENTO 3321 3339	biopsia ganglionar
+T19	PROCEDIMIENTO 3634 3667	tratamiento con poliquimioterapia
+T20	PROCEDIMIENTO 688 722	exploración somática y neurológica
+T21	PROCEDIMIENTO 988 1007	Gasometría arterial
+T22	PROCEDIMIENTO 1073 1087	placa de tórax
+T23	PROCEDIMIENTO 1247 1266	ecografía abdominal
+T24	PROCEDIMIENTO 1269 1302	TAC torácico, abdominal y pélvico
+T25	PROCEDIMIENTO 1598 1626	ecocardiograma transtorácico
+T26	PROCEDIMIENTO 1821 1841	ventilación mecánica
+T27	PROCEDIMIENTO 1956 1976	ventilación mecánica
+T28	PROCEDIMIENTO 2082 2099	TAC y RMN craneal
+T29	PROCEDIMIENTO 2431 2475	PAAF y biopsia de adenopatía supraclavicular
+T30	PROCEDIMIENTO 2731 2816	estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar
+T31	PROCEDIMIENTO 2966 3018	serologías para Toxoplasma, virus hepatotropos y RPR
+T32	PROCEDIMIENTO 3595 3623	estudio de extensión tumoral
+T33	PROCEDIMIENTO 3349 3369	marcadores tumorales
+T34	PROCEDIMIENTO 2878 2913	tinciones de muestras respiratorias
+T35	PROCEDIMIENTO 2633 2644	carga viral
+T36	SINTOMA 84 92	tos seca
+T37	SINTOMA 127 133	fiebre
+T38	SINTOMA 135 142	astenia
+T39	SINTOMA 144 152	anorexia
+T40	SINTOMA 154 161	náuseas
+T41	SINTOMA 331 339	caquexia
+T42	SINTOMA 399 405	muguet
+T43	SINTOMA 407 418	acropaquias
+T44	SINTOMA 506 553	Disminución generalizada del murmullo vesicular
+T45	SINTOMA 579 610	soplo sistólico II/VI polifocal
+T46	SINTOMA 1103 1129	masa mediastínica anterior
+T47	SINTOMA 1178 1219	infiltrado alveolo-intersticial bilateral
+T48	SINTOMA 1386 1403	masa mediastínica
+T49	SINTOMA 1447 1475	patrón intersticial pulmonar
+T50	SINTOMA 1492 1535	engrosamiento de pared de asas intestinales
+T51	SINTOMA 164 171	vómitos
+T52	SINTOMA 556 577	crepitantes bibasales
+T53	SINTOMA 1518 1573	asas intestinales con pequeña cantidad de líquido libre
+T54	SINTOMA 2731 2872	estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos
+T55	SINTOMA 3040 3074	antígeno criptocócico fue negativo
+T56	SINTOMA 2966 3035	serologías para Toxoplasma, virus hepatotropos y RPR fueron negativas
+T57	SINTOMA 1598 1667	ecocardiograma transtorácico en el que no se encontraron alteraciones
+T58	SINTOMA 2669 2692	alfafetoproteina normal
+T59	SINTOMA 3795 3803	falleció
+T60	SINTOMA 688 738	exploración somática y neurológica fueron normales
+T61	SINTOMA 94 125	disnea de intensidad progresiva
+T62	SINTOMA 2118 2226	masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+T63	SINTOMA 2878 2959	tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci

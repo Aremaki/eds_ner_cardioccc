@@ -1,10 +1,18 @@
-T1	SINTOMA 1250 1291	ausencia total de flujos al 100% del pene
-T2	SINTOMA 478 517	dolor intenso en el glande e hipocromía
-T3	SINTOMA 588 619	glande hipocrómico, hipotérmico
-T4	SINTOMA 737 785	induración del tercio distal del cuerpo del pene
-T5	SINTOMA 702 734	secreción purulenta transuretral
-T6	ENFERMEDAD 55 79	diabetes mellitus tipo 2
-T7	ENFERMEDAD 629 645	lesión necrótica
-T8	ENFERMEDAD 360 391	lesiones ampulosas en el glande
-T9	ENFERMEDAD 107 134	insuficiencia renal crónica
-T10	ENFERMEDAD 426 433	úlceras
+T1	ENFERMEDAD 55 79	diabetes mellitus tipo 2
+T2	ENFERMEDAD 629 645	lesión necrótica
+T3	ENFERMEDAD 360 391	lesiones ampulosas en el glande
+T4	ENFERMEDAD 107 134	insuficiencia renal crónica
+T5	ENFERMEDAD 426 433	úlceras
+T6	PROCEDIMIENTO 790 808	biometría hemática
+T7	PROCEDIMIENTO 552 570	exploración física
+T8	PROCEDIMIENTO 1174 1215	ultrasonido Doppler peneano con Caverject
+T9	PROCEDIMIENTO 167 179	hemodiálisis
+T10	PROCEDIMIENTO 199 251	amputación supracondílea del miembro pélvico derecho
+T11	PROCEDIMIENTO 1080 1107	pruebas de función hepática
+T12	PROCEDIMIENTO 954 974	electrolitos séricos
+T13	PROCEDIMIENTO 878 895	química sanguínea
+T14	SINTOMA 588 619	glande hipocrómico, hipotérmico
+T15	SINTOMA 1250 1291	ausencia total de flujos al 100% del pene
+T16	SINTOMA 478 517	dolor intenso en el glande e hipocromía
+T17	SINTOMA 702 734	secreción purulenta transuretral
+T18	SINTOMA 737 785	induración del tercio distal del cuerpo del pene

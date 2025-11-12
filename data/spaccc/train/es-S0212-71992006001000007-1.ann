@@ -1,32 +1,95 @@
-T1	SINTOMA 2517 2530	afasia global
-T2	SINTOMA 224 231	afebril
-T3	SINTOMA 1198 1205	afebril
-T4	SINTOMA 658 697	aumento de los reactantes de fase aguda
-T5	SINTOMA 2233 2248	cuadro sincopal
-T6	SINTOMA 2383 2400	deterioro clínico
-T7	SINTOMA 2813 2826	masa pulmonar
-T8	SINTOMA 82 89	paresia
-T9	SINTOMA 3039 3072	aumento del fibrinógeno y del PDF
-T10	SINTOMA 2416 2428	cuadro ictal
-T11	SINTOMA 1891 1925	cultivos negativos (HACEK, hongos)
-T12	SINTOMA 2303 2347	debilidad transitoria de extremidad superior
-T13	SINTOMA 386 414	déficit motor braquio-crural
-T14	SINTOMA 71 79	disnomia
-T15	SINTOMA 2054 2100	dolor inespecífico en el hipocondrio izquierdo
-T16	SINTOMA 2119 2202	ecografía abdominal con la sospecha de embolia esplénica no encontrándose patología
-T17	SINTOMA 702 799	electrocardiograma, doppler transcraneal, doppler continuo carotídeo y fondo de ojo eran normales
-T18	SINTOMA 3077 3195	estudios de hipercoagulabilidad, marcadores de crioglobulinemia, antifosfolípido, VIH, VHB, VHC y ANA fueron negativos
-T19	SINTOMA 307 331	fluencia verbal reducida
-T20	SINTOMA 158 174	focos isquémicos
-T21	SINTOMA 868 891	foramen ovale permeable
-T22	SINTOMA 570 608	hemorragias en astilla en varios dedos
-T23	SINTOMA 2532 2549	inatención visual
-T24	SINTOMA 1394 1424	masa de 3,5 centimetros en LII
-T25	SINTOMA 1301 1341	nódulo en lóbulo inferior izquierdo (LII
-T26	SINTOMA 1426 1443	nódulos satélites
-T27	SINTOMA 336 346	parafasias
-T28	SINTOMA 510 559	petequias en región tibial de extremidad inferior
-T29	SINTOMA 429 466	respuesta plantar derecha indiferente
-T30	SINTOMA 1605 1640	resutados negativos de los cultivos
-T31	SINTOMA 1725 1732	verruga
-T32	SINTOMA 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T1	ENFERMEDAD 61 66	ictus
+T2	ENFERMEDAD 868 891	foramen ovale permeable
+T3	ENFERMEDAD 893 908	prolapso mitral
+T4	ENFERMEDAD 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T5	ENFERMEDAD 985 1005	insuficiencia mitral
+T6	ENFERMEDAD 1038 1070	endocarditis bacteriana subaguda
+T7	ENFERMEDAD 1445 1456	adenopatías
+T8	ENFERMEDAD 1874 1886	endocarditis
+T9	ENFERMEDAD 2158 2175	embolia esplénica
+T10	ENFERMEDAD 2270 2301	accidente isquémico transitorio
+T11	ENFERMEDAD 2416 2515	cuadro ictal con afectación total de la circulación anterior de la arteria cerebral media izquierda
+T12	ENFERMEDAD 3030 3033	CID
+T13	ENFERMEDAD 2842 2856	adenocarcinoma
+T14	ENFERMEDAD 3420 3460	adenocarcinoma primario en mama y ovario
+T15	ENFERMEDAD 3637 3661	adenocarcinoma de pulmón
+T16	ENFERMEDAD 2992 3028	coagulación intravascular diseminada
+T17	ENFERMEDAD 196 204	embólico
+T18	ENFERMEDAD 2781 2785	ETNB
+T19	ENFERMEDAD 2934 2938	ETNB
+T20	ENFERMEDAD 2941 2960	hipercoagulabilidad
+T21	ENFERMEDAD 1007 1009	IM
+T22	ENFERMEDAD 1475 1500	linfangitis carcinomatosa
+T23	ENFERMEDAD 1515 1533	proceso neoplásico
+T24	ENFERMEDAD 2659 2700	verruga en la cara auricular de la mitral
+T25	ENFERMEDAD 3680 3733	fenómenos embolígenos en el contexto de paraneoplasia
+T26	ENFERMEDAD 2233 2248	cuadro sincopal
+T27	ENFERMEDAD 3124 3140	crioglobulinemia
+T28	ENFERMEDAD 2634 2642	lesiones
+T29	ENFERMEDAD 359 381	facial central derecho
+T30	ENFERMEDAD 386 422	déficit motor braquio-crural derecho
+T31	ENFERMEDAD 2552 2570	hemiplejía derecha
+T32	ENFERMEDAD 510 559	petequias en región tibial de extremidad inferior
+T33	ENFERMEDAD 570 623	hemorragias en astilla en varios dedos de ambas manos
+T34	PROCEDIMIENTO 117 124	scanner
+T35	PROCEDIMIENTO 127 147	resonancia magnética
+T36	PROCEDIMIENTO 282 305	exploración neurológica
+T37	PROCEDIMIENTO 702 720	electrocardiograma
+T38	PROCEDIMIENTO 722 742	doppler transcraneal
+T39	PROCEDIMIENTO 744 770	doppler continuo carotídeo
+T40	PROCEDIMIENTO 804 854	ecografía cardiaca, transtorácica y transesofágica
+T41	PROCEDIMIENTO 1081 1113	tratamiento antibiótico empírico
+T42	PROCEDIMIENTO 1264 1284	radiografia de tórax
+T43	PROCEDIMIENTO 1563 1586	tratamiento antibiótico
+T44	PROCEDIMIENTO 1656 1670	ecocardiograma
+T45	PROCEDIMIENTO 1815 1827	hemocultivos
+T46	PROCEDIMIENTO 2119 2138	ecografía abdominal
+T47	PROCEDIMIENTO 2799 2806	biopsia
+T48	PROCEDIMIENTO 3110 3140	marcadores de crioglobulinemia
+T49	PROCEDIMIENTO 773 785	fondo de ojo
+T50	PROCEDIMIENTO 3342 3362	marcadores tumorales
+T51	PROCEDIMIENTO 3885 3918	tratamiento sintomático paliativo
+T52	PROCEDIMIENTO 3814 3851	quimioterapia con intención paliativa
+T53	PROCEDIMIENTO 3077 3108	estudios de hipercoagulabilidad
+T54	PROCEDIMIENTO 1377 1384	scanner
+T55	PROCEDIMIENTO 3224 3236	hemocultivos
+T56	PROCEDIMIENTO 1928 1938	serologías
+T57	PROCEDIMIENTO 3253 3263	serologías
+T58	PROCEDIMIENTO 1891 1899	cultivos
+T59	PROCEDIMIENTO 471 492	exploración sistémica
+T60	PROCEDIMIENTO 2735 2751	ecocardiográfica
+T61	PROCEDIMIENTO 2579 2593	ecocardiograma
+T62	PROCEDIMIENTO 628 637	analítica
+T63	PROCEDIMIENTO 1151 1177	extracción de hemocultivos
+T64	SINTOMA 224 231	afebril
+T65	SINTOMA 307 331	fluencia verbal reducida
+T66	SINTOMA 336 346	parafasias
+T67	SINTOMA 658 697	aumento de los reactantes de fase aguda
+T68	SINTOMA 1198 1205	afebril
+T69	SINTOMA 2054 2100	dolor inespecífico en el hipocondrio izquierdo
+T70	SINTOMA 2813 2826	masa pulmonar
+T71	SINTOMA 158 174	focos isquémicos
+T72	SINTOMA 702 799	electrocardiograma, doppler transcraneal, doppler continuo carotídeo y fondo de ojo eran normales
+T73	SINTOMA 1394 1424	masa de 3,5 centimetros en LII
+T74	SINTOMA 1426 1443	nódulos satélites
+T75	SINTOMA 1605 1640	resutados negativos de los cultivos
+T76	SINTOMA 2517 2530	afasia global
+T77	SINTOMA 1891 1925	cultivos negativos (HACEK, hongos)
+T78	SINTOMA 2303 2347	debilidad transitoria de extremidad superior
+T79	SINTOMA 71 79	disnomia
+T80	SINTOMA 82 89	paresia
+T81	SINTOMA 429 466	respuesta plantar derecha indiferente
+T82	SINTOMA 2532 2549	inatención visual
+T83	SINTOMA 3039 3072	aumento del fibrinógeno y del PDF
+T84	SINTOMA 386 414	déficit motor braquio-crural
+T85	SINTOMA 510 559	petequias en región tibial de extremidad inferior
+T86	SINTOMA 868 891	foramen ovale permeable
+T87	SINTOMA 2416 2428	cuadro ictal
+T88	SINTOMA 570 608	hemorragias en astilla en varios dedos
+T89	SINTOMA 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T90	SINTOMA 1301 1341	nódulo en lóbulo inferior izquierdo (LII
+T91	SINTOMA 1725 1732	verruga
+T92	SINTOMA 2119 2202	ecografía abdominal con la sospecha de embolia esplénica no encontrándose patología
+T93	SINTOMA 2233 2248	cuadro sincopal
+T94	SINTOMA 3077 3195	estudios de hipercoagulabilidad, marcadores de crioglobulinemia, antifosfolípido, VIH, VHB, VHC y ANA fueron negativos
+T95	SINTOMA 2383 2400	deterioro clínico

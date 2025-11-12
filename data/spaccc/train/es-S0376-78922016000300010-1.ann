@@ -1,45 +1,45 @@
-T1	SINTOMA 4083 4100	congestión venosa
-T2	SINTOMA 570 631	limitación para los movimientos laterales de la zona cervical
-T3	SINTOMA 850 861	masa solida
-T4	SINTOMA 1419 1429	tumoración
-T5	ENFERMEDAD 3097 3109	neurofibroma
-T6	ENFERMEDAD 76 139	lesión tumoral recidivante en lado izquierdo de base del cuello
-T7	ENFERMEDAD 282 294	neurofibroma
-T8	ENFERMEDAD 425 488	cicatriz queloide retráctil en zona lateral izquierda de cuello
-T9	ENFERMEDAD 4103 4125	insuficiencia arterial
-T10	ENFERMEDAD 681 687	lesión
-T11	ENFERMEDAD 2377 2383	lesión
-T12	ENFERMEDAD 3294 3300	lesión
-T13	ENFERMEDAD 1625 1637	neurofibroma
-T14	ENFERMEDAD 1733 1745	neurofibroma
-T15	ENFERMEDAD 1273 1320	compromiso de estructuras vasculares del cuello
-T16	ENFERMEDAD 1324 1347	extensión intratorácica
-T17	PROCEDIMIENTO 1357 1384	administración de gadolinio
-T18	PROCEDIMIENTO 1447 1474	intervenido quirúrgicamente
-T19	PROCEDIMIENTO 1572 1637	marcaje preoperatorio para la resección completa del neurofibroma
-T20	PROCEDIMIENTO 1625 1657	neurofibroma y su reconstrucción
-T21	PROCEDIMIENTO 1709 1745	resección en bloque del neurofibroma
-T22	PROCEDIMIENTO 1972 2026	restauración del defecto mediante disección subfascial
-T23	PROCEDIMIENTO 2068 2114	colgajo libre anterolateral de muslo izquierdo
-T24	PROCEDIMIENTO 2069 2209	olgajo libre anterolateral de muslo izquierdo basado en 2 vasos perforantes de la rama descendente de la arteria femoral lateral circunfleja
-T25	PROCEDIMIENTO 2284 2355	anastomosis termino-terminal con nylon 9-0 a vasos tiroideos superiores
-T26	PROCEDIMIENTO 2386 2420	transposición del colgajo acromial
-T27	PROCEDIMIENTO 2489 2519	colgajo anterolateral de muslo
-T28	PROCEDIMIENTO 2738 2751	transfusiones
-T29	PROCEDIMIENTO 2827 2918	localizar 2 vasos perforantes en la zona del muslo izquierdo con un doppler acústico manual
-T30	PROCEDIMIENTO 2895 2918	doppler acústico manual
+T1	ENFERMEDAD 3097 3109	neurofibroma
+T2	ENFERMEDAD 76 139	lesión tumoral recidivante en lado izquierdo de base del cuello
+T3	ENFERMEDAD 282 294	neurofibroma
+T4	ENFERMEDAD 425 488	cicatriz queloide retráctil en zona lateral izquierda de cuello
+T5	ENFERMEDAD 4103 4125	insuficiencia arterial
+T6	ENFERMEDAD 681 687	lesión
+T7	ENFERMEDAD 2377 2383	lesión
+T8	ENFERMEDAD 3294 3300	lesión
+T9	ENFERMEDAD 1625 1637	neurofibroma
+T10	ENFERMEDAD 1733 1745	neurofibroma
+T11	ENFERMEDAD 1273 1320	compromiso de estructuras vasculares del cuello
+T12	ENFERMEDAD 1324 1347	extensión intratorácica
+T13	PROCEDIMIENTO 4200 4223	fisioterapia del cuello
+T14	PROCEDIMIENTO 3728 3735	colgajo
+T15	PROCEDIMIENTO 1709 1745	resección en bloque del neurofibroma
+T16	PROCEDIMIENTO 3362 3392	antibioticoterapia intravenosa
+T17	PROCEDIMIENTO 697 832	resonancia magnética con cortes axiales coronales y sagitales en secuencia Fast Spin Eco, potenciadas en T1, T2, GRE y T1 con gadolinio
+T18	PROCEDIMIENTO 1972 2026	restauración del defecto mediante disección subfascial
+T19	PROCEDIMIENTO 4270 4323	movimientos de flexo-extensión y laterales del cuello
+T20	PROCEDIMIENTO 2068 2114	colgajo libre anterolateral de muslo izquierdo
+T21	PROCEDIMIENTO 2069 2209	olgajo libre anterolateral de muslo izquierdo basado en 2 vasos perforantes de la rama descendente de la arteria femoral lateral circunfleja
+T22	PROCEDIMIENTO 2738 2751	transfusiones
+T23	PROCEDIMIENTO 1572 1637	marcaje preoperatorio para la resección completa del neurofibroma
+T24	PROCEDIMIENTO 3489 3527	tratamiento antinflamatorio/analgésico
+T25	PROCEDIMIENTO 1625 1657	neurofibroma y su reconstrucción
+T26	PROCEDIMIENTO 3917 3931	doppler manual
+T27	PROCEDIMIENTO 2827 2918	localizar 2 vasos perforantes en la zona del muslo izquierdo con un doppler acústico manual
+T28	PROCEDIMIENTO 3992 4021	anastomosis venosa y arterial
+T29	PROCEDIMIENTO 348 412	resecciones parciales y cobertura con colgajo acromial e injerto
+T30	PROCEDIMIENTO 2284 2355	anastomosis termino-terminal con nylon 9-0 a vasos tiroideos superiores
 T31	PROCEDIMIENTO 2959 2966	colgajo
-T32	PROCEDIMIENTO 3028 3043	histopatológico
-T33	PROCEDIMIENTO 3362 3392	antibioticoterapia intravenosa
-T34	PROCEDIMIENTO 348 412	resecciones parciales y cobertura con colgajo acromial e injerto
-T35	PROCEDIMIENTO 3489 3527	tratamiento antinflamatorio/analgésico
-T36	PROCEDIMIENTO 3621 3655	dejamos drenaje abierto de Penrose
-T37	PROCEDIMIENTO 3728 3735	colgajo
-T38	PROCEDIMIENTO 3917 3931	doppler manual
-T39	PROCEDIMIENTO 3992 4021	anastomosis venosa y arterial
+T32	PROCEDIMIENTO 2386 2420	transposición del colgajo acromial
+T33	PROCEDIMIENTO 522 534	radioterapia
+T34	PROCEDIMIENTO 2489 2519	colgajo anterolateral de muslo
+T35	PROCEDIMIENTO 3621 3655	dejamos drenaje abierto de Penrose
+T36	PROCEDIMIENTO 3028 3043	histopatológico
+T37	PROCEDIMIENTO 1357 1384	administración de gadolinio
+T38	PROCEDIMIENTO 1447 1474	intervenido quirúrgicamente
+T39	PROCEDIMIENTO 2895 2918	doppler acústico manual
 T40	PROCEDIMIENTO 4176 4185	resección
-T41	PROCEDIMIENTO 4200 4223	fisioterapia del cuello
-T42	PROCEDIMIENTO 4246 4258	intervención
-T43	PROCEDIMIENTO 4270 4323	movimientos de flexo-extensión y laterales del cuello
-T44	PROCEDIMIENTO 522 534	radioterapia
-T45	PROCEDIMIENTO 697 832	resonancia magnética con cortes axiales coronales y sagitales en secuencia Fast Spin Eco, potenciadas en T1, T2, GRE y T1 con gadolinio
+T41	PROCEDIMIENTO 4246 4258	intervención
+T42	SINTOMA 4083 4100	congestión venosa
+T43	SINTOMA 570 631	limitación para los movimientos laterales de la zona cervical
+T44	SINTOMA 1419 1429	tumoración
+T45	SINTOMA 850 861	masa solida

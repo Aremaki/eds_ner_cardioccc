@@ -1,7 +1,25 @@
-T1	SINTOMA 407 435	artralgias en ambas rodillas
-T2	SINTOMA 554 612	cadera que además presentaba una rotación interna limitada
-T3	SINTOMA 466 524	dolor a la rotación posterior en las dos cabezas femorales
-T4	SINTOMA 1598 1622	hundimiento en la cadera
-T5	SINTOMA 793 927	marcadores de autoinmunidad, y las concentraciones plasmáticas de calcio, fósforo y vitamina D estaban dentro del rango de nornialidad
-T6	SINTOMA 693 725	marcha se observaba claudicación
-T7	SINTOMA 617 674	rodilla izquierda tenía el movimiento de flexión reducido
+T1	ENFERMEDAD 1717 1729	osteoporosis
+T2	ENFERMEDAD 149 165	Colitis Ulcerosa
+T3	ENFERMEDAD 167 169	CU
+T4	ENFERMEDAD 964 997	osteoporosis en la columna lumbar
+T5	ENFERMEDAD 1017 1048	osteopenia en el cuello femoral
+T6	ENFERMEDAD 1121 1162	NA de grado II en ambas cabezas femorales
+T7	ENFERMEDAD 1231 1294	lesión osteocondral en el cóndilo femoral interno de la rodilla
+T8	ENFERMEDAD 1398 1509	lesiones de necrosis en ambas cabezas femorales y en ambas rodillas, tanto en su cara tibial como en la femoral
+T9	ENFERMEDAD 1598 1622	hundimiento en la cadera
+T10	PROCEDIMIENTO 932 950	densitometría ósea
+T11	PROCEDIMIENTO 952 955	DMO
+T12	PROCEDIMIENTO 225 236	corticoides
+T13	PROCEDIMIENTO 1356 1384	resonancia nuclear magnética
+T14	PROCEDIMIENTO 1527 1530	RNM
+T15	PROCEDIMIENTO 1070 1090	radiografias simples
+T16	PROCEDIMIENTO 62 101	monitorización de su estado nutricional
+T17	PROCEDIMIENTO 1751 1762	corticoides
+T18	PROCEDIMIENTO 445 456	exploración
+T19	SINTOMA 407 435	artralgias en ambas rodillas
+T20	SINTOMA 466 524	dolor a la rotación posterior en las dos cabezas femorales
+T21	SINTOMA 617 674	rodilla izquierda tenía el movimiento de flexión reducido
+T22	SINTOMA 793 927	marcadores de autoinmunidad, y las concentraciones plasmáticas de calcio, fósforo y vitamina D estaban dentro del rango de nornialidad
+T23	SINTOMA 1598 1622	hundimiento en la cadera
+T24	SINTOMA 554 612	cadera que además presentaba una rotación interna limitada
+T25	SINTOMA 693 725	marcha se observaba claudicación

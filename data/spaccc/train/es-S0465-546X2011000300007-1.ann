@@ -1,29 +1,29 @@
-T1	SINTOMA 170 182	asintomático
-T2	SINTOMA 1620 1632	asintomático
-T3	SINTOMA 465 477	convulsiones
-T4	SINTOMA 1409 1422	cuadro febril
-T5	SINTOMA 1453 1459	fiebre
-T6	SINTOMA 453 463	lipotimias
-T7	SINTOMA 393 406	muerte súbita
-T8	SINTOMA 510 523	palpitaciones
-T9	SINTOMA 479 507	respiración nocturna agónica
-T10	SINTOMA 443 451	síncopes
-T11	ENFERMEDAD 711 730	síndrome de Brugada
-T12	ENFERMEDAD 195 202	fumador
-T13	ENFERMEDAD 252 285	consumidor de bebidas alcohólicas
-T14	ENFERMEDAD 393 406	muerte súbita
-T15	ENFERMEDAD 443 451	síncopes
-T16	ENFERMEDAD 1155 1178	arritmias ventriculares
-T17	ENFERMEDAD 1479 1502	arritmias ventriculares
-T18	ENFERMEDAD 924 926	SB
-T19	ENFERMEDAD 1272 1274	SB
-T20	ENFERMEDAD 1530 1532	SB
-T21	ENFERMEDAD 296 311	hábitos tóxicos
-T22	ENFERMEDAD 759 768	Arritmias
-T23	PROCEDIMIENTO 1112 1137	estimulación ventricular,
-T24	PROCEDIMIENTO 1561 1577	estudio genético
-T25	PROCEDIMIENTO 590 603	examen físico
-T26	PROCEDIMIENTO 676 679	ECG
-T27	PROCEDIMIENTO 829 849	electrocardiográfica
-T28	PROCEDIMIENTO 875 893	test de flecainida
-T29	PROCEDIMIENTO 999 1025	estudio electrofisiológico
+T1	ENFERMEDAD 711 730	síndrome de Brugada
+T2	ENFERMEDAD 195 202	fumador
+T3	ENFERMEDAD 252 285	consumidor de bebidas alcohólicas
+T4	ENFERMEDAD 393 406	muerte súbita
+T5	ENFERMEDAD 443 451	síncopes
+T6	ENFERMEDAD 1155 1178	arritmias ventriculares
+T7	ENFERMEDAD 1479 1502	arritmias ventriculares
+T8	ENFERMEDAD 924 926	SB
+T9	ENFERMEDAD 1272 1274	SB
+T10	ENFERMEDAD 1530 1532	SB
+T11	ENFERMEDAD 296 311	hábitos tóxicos
+T12	ENFERMEDAD 759 768	Arritmias
+T13	PROCEDIMIENTO 829 849	electrocardiográfica
+T14	PROCEDIMIENTO 875 893	test de flecainida
+T15	PROCEDIMIENTO 999 1025	estudio electrofisiológico
+T16	PROCEDIMIENTO 1112 1137	estimulación ventricular,
+T17	PROCEDIMIENTO 590 603	examen físico
+T18	PROCEDIMIENTO 676 679	ECG
+T19	PROCEDIMIENTO 1561 1577	estudio genético
+T20	SINTOMA 453 463	lipotimias
+T21	SINTOMA 465 477	convulsiones
+T22	SINTOMA 479 507	respiración nocturna agónica
+T23	SINTOMA 510 523	palpitaciones
+T24	SINTOMA 1453 1459	fiebre
+T25	SINTOMA 170 182	asintomático
+T26	SINTOMA 1620 1632	asintomático
+T27	SINTOMA 443 451	síncopes
+T28	SINTOMA 1409 1422	cuadro febril
+T29	SINTOMA 393 406	muerte súbita

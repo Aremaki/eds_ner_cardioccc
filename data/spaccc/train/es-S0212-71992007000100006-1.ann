@@ -1,43 +1,67 @@
-T1	SINTOMA 314 321	cefalea
-T2	SINTOMA 2112 2130	citología negativa
-T3	SINTOMA 759 768	disartria
-T4	SINTOMA 816 824	lagrimeo
-T5	SINTOMA 844 899	Alteración del gusto en el tercio anterior de la lengua
-T6	SINTOMA 1255 1302	arreflexia tricipital bilateral y estilo-radial
-T7	SINTOMA 2149 2169	bandas oligoclonales
-T8	SINTOMA 1548 1592	conservando la marcha de puntillas y talones
-T9	SINTOMA 1602 1631	debilidad en ambos cuadriceps
-T10	SINTOMA 3102 3127	debilidad en extremidades
-T11	SINTOMA 1875 1941	ECA en sangre y cuantificación de immunoglobulinas fueron normales
-T12	SINTOMA 1666 1725	hemograma, bioquímica y coagulación dentro de la normalidad
-T13	SINTOMA 2028 2090	LCR mostró incremento de proteínas (1,5 gr/dl), sin leucocitos
-T14	SINTOMA 326 340	malestar bucal
-T15	SINTOMA 1514 1546	Marcha independiente con torpeza
-T16	SINTOMA 2093 2107	pandy positivo
-T17	SINTOMA 1162 1234	paresia 4/5 en extremidad superior derecha y 4+/5 en extremidad superior
-T18	SINTOMA 1354 1430	paresia en extremidades inferiores 4/5 de los flexores de cadera bilaterales
-T19	SINTOMA 954 986	parestesias en dedos de la manos
-T20	SINTOMA 1055 1117	pérdida de fuerza en las 4 extremidades de predominio proximal
-T21	SINTOMA 1457 1512	reflejos osteotendinosos rotulianos y aquíleos abolidos
-T22	SINTOMA 2269 2306	respuesta facial periférica bilateral
-T23	SINTOMA 1646 1661	Rx tórax normal
-T24	SINTOMA 773 796	signo de Bell bilateral
-T25	SINTOMA 1971 2023	TC y RNM cerebral, no mostraron hallazgos de interés
-T26	SINTOMA 2171 2196	Test de Tensilon negativo
-T27	SINTOMA 621 652	tumefacción parotídea bilateral
-T28	ENFERMEDAD 76 87	B-talasemia
-T29	ENFERMEDAD 174 196	Alérgico a pirazolonas
-T30	ENFERMEDAD 288 312	infección dental crónica
-T31	ENFERMEDAD 405 421	parálisis facial
-T32	ENFERMEDAD 581 604	angioma en frente y ojo
-T33	ENFERMEDAD 703 740	parálisis facial periférica bilateral
-T34	ENFERMEDAD 1806 1814	Varicela
-T35	ENFERMEDAD 2321 2368	polineuropatía sensitivo-motora en extremidades
-T36	ENFERMEDAD 1771 1778	rubéola
-T37	ENFERMEDAD 1823 1832	sarampión
-T38	ENFERMEDAD 1835 1846	parotiditis
-T39	ENFERMEDAD 129 136	Fumador
-T40	ENFERMEDAD 156 172	bebedor moderado
-T41	ENFERMEDAD 2944 2960	parálisis facial
-T42	ENFERMEDAD 3074 3090	parálisis facial
-T43	ENFERMEDAD 1780 1784	lúes
+T1	ENFERMEDAD 76 87	B-talasemia
+T2	ENFERMEDAD 174 196	Alérgico a pirazolonas
+T3	ENFERMEDAD 288 312	infección dental crónica
+T4	ENFERMEDAD 405 421	parálisis facial
+T5	ENFERMEDAD 581 604	angioma en frente y ojo
+T6	ENFERMEDAD 703 740	parálisis facial periférica bilateral
+T7	ENFERMEDAD 1806 1814	Varicela
+T8	ENFERMEDAD 2321 2368	polineuropatía sensitivo-motora en extremidades
+T9	ENFERMEDAD 1771 1778	rubéola
+T10	ENFERMEDAD 1823 1832	sarampión
+T11	ENFERMEDAD 1835 1846	parotiditis
+T12	ENFERMEDAD 129 136	Fumador
+T13	ENFERMEDAD 156 172	bebedor moderado
+T14	ENFERMEDAD 2944 2960	parálisis facial
+T15	ENFERMEDAD 3074 3090	parálisis facial
+T16	ENFERMEDAD 1780 1784	lúes
+T17	PROCEDIMIENTO 37 50	esplenectomía
+T18	PROCEDIMIENTO 660 683	exploración neurológica
+T19	PROCEDIMIENTO 1860 1863	LCR
+T20	PROCEDIMIENTO 2028 2031	LCR
+T21	PROCEDIMIENTO 1976 1979	RNM
+T22	PROCEDIMIENTO 1646 1654	Rx tórax
+T23	PROCEDIMIENTO 1727 1737	Serologías
+T24	PROCEDIMIENTO 1971 1973	TC
+T25	PROCEDIMIENTO 2112 2121	citología
+T26	PROCEDIMIENTO 1690 1701	coagulación
+T27	PROCEDIMIENTO 1666 1675	hemograma
+T28	PROCEDIMIENTO 1958 1969	neuroimagen
+T29	PROCEDIMIENTO 2635 2662	tratamiento con corticoides
+T30	PROCEDIMIENTO 3160 3185	tratamiento rehabilitador
+T31	PROCEDIMIENTO 2209 2212	ENG
+T32	PROCEDIMIENTO 2171 2187	Test de Tensilon
+T33	PROCEDIMIENTO 1891 1925	cuantificación de immunoglobulinas
+T34	PROCEDIMIENTO 1677 1687	bioquímica
+T35	PROCEDIMIENTO 550 569	exploración general
+T36	PROCEDIMIENTO 1138 1161	exploración neurológica
+T37	PROCEDIMIENTO 185 196	pirazolonas
+T38	PROCEDIMIENTO 1457 1503	reflejos osteotendinosos rotulianos y aquíleos
+T39	PROCEDIMIENTO 2093 2098	pandy
+T40	SINTOMA 314 321	cefalea
+T41	SINTOMA 326 340	malestar bucal
+T42	SINTOMA 621 652	tumefacción parotídea bilateral
+T43	SINTOMA 759 768	disartria
+T44	SINTOMA 773 796	signo de Bell bilateral
+T45	SINTOMA 816 824	lagrimeo
+T46	SINTOMA 844 899	Alteración del gusto en el tercio anterior de la lengua
+T47	SINTOMA 954 986	parestesias en dedos de la manos
+T48	SINTOMA 1602 1631	debilidad en ambos cuadriceps
+T49	SINTOMA 3102 3127	debilidad en extremidades
+T50	SINTOMA 1055 1117	pérdida de fuerza en las 4 extremidades de predominio proximal
+T51	SINTOMA 1457 1512	reflejos osteotendinosos rotulianos y aquíleos abolidos
+T52	SINTOMA 2112 2130	citología negativa
+T53	SINTOMA 1255 1302	arreflexia tricipital bilateral y estilo-radial
+T54	SINTOMA 1354 1430	paresia en extremidades inferiores 4/5 de los flexores de cadera bilaterales
+T55	SINTOMA 1514 1546	Marcha independiente con torpeza
+T56	SINTOMA 1548 1592	conservando la marcha de puntillas y talones
+T57	SINTOMA 1646 1661	Rx tórax normal
+T58	SINTOMA 1666 1725	hemograma, bioquímica y coagulación dentro de la normalidad
+T59	SINTOMA 1971 2023	TC y RNM cerebral, no mostraron hallazgos de interés
+T60	SINTOMA 2171 2196	Test de Tensilon negativo
+T61	SINTOMA 2269 2306	respuesta facial periférica bilateral
+T62	SINTOMA 2149 2169	bandas oligoclonales
+T63	SINTOMA 2093 2107	pandy positivo
+T64	SINTOMA 1162 1234	paresia 4/5 en extremidad superior derecha y 4+/5 en extremidad superior
+T65	SINTOMA 1875 1941	ECA en sangre y cuantificación de immunoglobulinas fueron normales
+T66	SINTOMA 1739 1873	Borrelia, Brucella, toxoplasma, rubéola, lúes, VEB, CMV, VHS, VIH, Varicela-Zoster, sarampión y parotiditis) en sangre y LCR negativas
+T67	SINTOMA 2028 2090	LCR mostró incremento de proteínas (1,5 gr/dl), sin leucocitos

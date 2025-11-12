@@ -1,36 +1,59 @@
-T1	SINTOMA 588 595	afebril
-T2	SINTOMA 1534 1566	aire ectópico en la pelvis menor
-T3	SINTOMA 2669 2688	buen estado general
-T4	SINTOMA 890 899	citolisis
-T5	SINTOMA 877 887	colestasis
-T6	SINTOMA 565 575	consciente
-T7	SINTOMA 675 690	dolor abdominal
-T8	SINTOMA 467 495	dolor abdominal generalizado
-T9	SINTOMA 277 295	dolor hipogástrico
-T10	SINTOMA 1694 1724	gas bordeando la pared vesical
-T11	SINTOMA 1287 1297	glucosuria
-T12	SINTOMA 298 307	hematuria
-T13	SINTOMA 1094 1127	hemograma es prácticamente normal
-T14	SINTOMA 660 669	ictericia
-T15	SINTOMA 455 464	ictericia
-T16	SINTOMA 766 787	irritación peritoneal
-T17	SINTOMA 824 845	mal control glucémico
-T18	SINTOMA 1299 1313	microhematuria
-T19	SINTOMA 1316 1334	nitritos negativos
-T20	SINTOMA 598 608	normotensa
-T21	SINTOMA 577 586	orientada
-T22	SINTOMA 1861 1923	urocultivo se aislan más de 100.000 UFC/ml de Escherichia coli
-T23	SINTOMA 268 275	vómitos
-T24	ENFERMEDAD 2085 2106	ictericia obstructiva
-T25	ENFERMEDAD 45 61	diabética tipo 2
-T26	ENFERMEDAD 2109 2130	cistitis enfisematosa
-T27	ENFERMEDAD 1616 1637	cistitis enfisematosa
-T28	ENFERMEDAD 202 217	ictus isquémico
-T29	ENFERMEDAD 1040 1065	insuficiencia renal aguda
-T30	ENFERMEDAD 2358 2379	cistitis enfisematosa
-T31	ENFERMEDAD 2384 2405	ictericia obstructiva
-T32	ENFERMEDAD 1839 1855	coledocolitiasis
-T33	ENFERMEDAD 2520 2553	cálculos a nivel de la vía biliar
-T34	ENFERMEDAD 105 115	hipertensa
-T35	ENFERMEDAD 2961 2969	lesiones
-T36	ENFERMEDAD 1756 1822	dilatación de la vesícula y de la vía biliar intra y extrahepática
+T1	ENFERMEDAD 2085 2106	ictericia obstructiva
+T2	ENFERMEDAD 45 61	diabética tipo 2
+T3	ENFERMEDAD 2109 2130	cistitis enfisematosa
+T4	ENFERMEDAD 1616 1637	cistitis enfisematosa
+T5	ENFERMEDAD 202 217	ictus isquémico
+T6	ENFERMEDAD 1040 1065	insuficiencia renal aguda
+T7	ENFERMEDAD 2358 2379	cistitis enfisematosa
+T8	ENFERMEDAD 2384 2405	ictericia obstructiva
+T9	ENFERMEDAD 1839 1855	coledocolitiasis
+T10	ENFERMEDAD 2520 2553	cálculos a nivel de la vía biliar
+T11	ENFERMEDAD 105 115	hipertensa
+T12	ENFERMEDAD 2961 2969	lesiones
+T13	ENFERMEDAD 1756 1822	dilatación de la vesícula y de la vía biliar intra y extrahepática
+T14	PROCEDIMIENTO 2624 2659	tratamiento antibiótico intravenoso
+T15	PROCEDIMIENTO 1473 1502	radiografía simple de abdomen
+T16	PROCEDIMIENTO 80 103	hipoglucemiantes orales
+T17	PROCEDIMIENTO 616 634	exploración física
+T18	PROCEDIMIENTO 2176 2211	tratamiento antibiótico intravenoso
+T19	PROCEDIMIENTO 2739 2771	tratamiento antibiótico vía oral
+T20	PROCEDIMIENTO 696 751	palpación profunda en hipogastrio e hipocondrio derecho
+T21	PROCEDIMIENTO 2241 2257	sondaje urinario
+T22	PROCEDIMIENTO 2260 2293	control estricto de las glucemias
+T23	PROCEDIMIENTO 1644 1663	ecografía abdominal
+T24	PROCEDIMIENTO 2832 2846	sonda urinaria
+T25	PROCEDIMIENTO 2851 2861	urocultivo
+T26	PROCEDIMIENTO 2307 2326	TC abdómino-pélvico
+T27	PROCEDIMIENTO 1094 1103	hemograma
+T28	PROCEDIMIENTO 2913 2932	TC abdómino-pélvica
+T29	PROCEDIMIENTO 2441 2475	colangiopancreatografía retrógrada
+T30	PROCEDIMIENTO 1861 1871	urocultivo
+T31	PROCEDIMIENTO 2586 2595	ecografía
+T32	PROCEDIMIENTO 802 812	bioquímica
+T33	PROCEDIMIENTO 1339 1348	sedimento
+T34	PROCEDIMIENTO 1230 1259	análisis sistemático de orina
+T35	PROCEDIMIENTO 2478 2504	esfinterotomía endoscópica
+T36	SINTOMA 824 845	mal control glucémico
+T37	SINTOMA 877 887	colestasis
+T38	SINTOMA 660 669	ictericia
+T39	SINTOMA 675 690	dolor abdominal
+T40	SINTOMA 766 787	irritación peritoneal
+T41	SINTOMA 268 275	vómitos
+T42	SINTOMA 277 295	dolor hipogástrico
+T43	SINTOMA 298 307	hematuria
+T44	SINTOMA 455 464	ictericia
+T45	SINTOMA 467 495	dolor abdominal generalizado
+T46	SINTOMA 1287 1297	glucosuria
+T47	SINTOMA 1299 1313	microhematuria
+T48	SINTOMA 588 595	afebril
+T49	SINTOMA 565 575	consciente
+T50	SINTOMA 598 608	normotensa
+T51	SINTOMA 577 586	orientada
+T52	SINTOMA 1316 1334	nitritos negativos
+T53	SINTOMA 1534 1566	aire ectópico en la pelvis menor
+T54	SINTOMA 1694 1724	gas bordeando la pared vesical
+T55	SINTOMA 1861 1923	urocultivo se aislan más de 100.000 UFC/ml de Escherichia coli
+T56	SINTOMA 1339 1373	sedimento es claramente patológico
+T57	SINTOMA 1094 1127	hemograma es prácticamente normal
+T58	SINTOMA 890 899	citolisis
+T59	SINTOMA 2669 2688	buen estado general

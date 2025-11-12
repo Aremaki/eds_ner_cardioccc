@@ -1,18 +1,38 @@
-T1	SINTOMA 808 828	calambres musculares
-T2	SINTOMA 97 138	debilidad muscular en miembros inferiores
-T3	SINTOMA 306 346	Desarrollo perinatal y psicomotor normal
-T4	SINTOMA 1367 1406	electrolitos en sangre y orina normales
-T5	SINTOMA 1072 1112	Exploración clínica y neurológica normal
-T6	SINTOMA 1160 1216	fuerza, sensibilidad y reflejos osteotendinosos normales
-T7	SINTOMA 1308 1347	hemograma y bioquímica, siendo normales
-T8	SINTOMA 1981 2018	mutación en heterocigosis p.Thr704Met
-T9	SINTOMA 831 881	sensación de adormecimiento de miembros inferiores
-T10	SINTOMA 2176 2217	valores de potasio sérico fueron normales
-T11	SINTOMA 2132 2150	debilidad muscular
-T12	SINTOMA 351 369	debilidad muscular
-T13	SINTOMA 373 382	calambres
-T14	SINTOMA 1349 1365	Hemograma normal
-T15	SINTOMA 723 735	asintomática
-T16	SINTOMA 1058 1070	asintomática
-T17	ENFERMEDAD 1238 1272	parálisis hiperpotasémica familiar
-T18	ENFERMEDAD 456 490	parálisis hiperpotasémica familiar
+T1	ENFERMEDAD 1238 1272	parálisis hiperpotasémica familiar
+T2	ENFERMEDAD 456 490	parálisis hiperpotasémica familiar
+T3	PROCEDIMIENTO 1072 1105	Exploración clínica y neurológica
+T4	PROCEDIMIENTO 1599 1615	electromiografía
+T5	PROCEDIMIENTO 1617 1620	EMG
+T6	PROCEDIMIENTO 1308 1317	hemograma
+T7	PROCEDIMIENTO 1643 1661	creatinfosfocinasa
+T8	PROCEDIMIENTO 1663 1666	CPK
+T9	PROCEDIMIENTO 1923 1953	estudio genético del gen SCN4A
+T10	PROCEDIMIENTO 1673 1691	electrocardiograma
+T11	PROCEDIMIENTO 1349 1358	Hemograma
+T12	PROCEDIMIENTO 1367 1397	electrolitos en sangre y orina
+T13	PROCEDIMIENTO 1693 1696	ECG
+T14	PROCEDIMIENTO 1738 1754	electromiografía
+T15	PROCEDIMIENTO 617 633	estudio genético
+T16	PROCEDIMIENTO 1756 1759	EMG
+T17	PROCEDIMIENTO 269 282	parto vaginal
+T18	PROCEDIMIENTO 1495 1513	análisis de sangre
+T19	PROCEDIMIENTO 284 304	Lactancia artificial
+T20	PROCEDIMIENTO 2398 2422	dieta no rica en potasio
+T21	PROCEDIMIENTO 1320 1330	bioquímica
+T22	PROCEDIMIENTO 1286 1303	estudio analítico
+T23	SINTOMA 97 138	debilidad muscular en miembros inferiores
+T24	SINTOMA 2132 2150	debilidad muscular
+T25	SINTOMA 808 828	calambres musculares
+T26	SINTOMA 831 881	sensación de adormecimiento de miembros inferiores
+T27	SINTOMA 351 369	debilidad muscular
+T28	SINTOMA 373 382	calambres
+T29	SINTOMA 1349 1365	Hemograma normal
+T30	SINTOMA 723 735	asintomática
+T31	SINTOMA 1058 1070	asintomática
+T32	SINTOMA 1072 1112	Exploración clínica y neurológica normal
+T33	SINTOMA 1160 1216	fuerza, sensibilidad y reflejos osteotendinosos normales
+T34	SINTOMA 1308 1347	hemograma y bioquímica, siendo normales
+T35	SINTOMA 1367 1406	electrolitos en sangre y orina normales
+T36	SINTOMA 1981 2018	mutación en heterocigosis p.Thr704Met
+T37	SINTOMA 2176 2217	valores de potasio sérico fueron normales
+T38	SINTOMA 306 346	Desarrollo perinatal y psicomotor normal

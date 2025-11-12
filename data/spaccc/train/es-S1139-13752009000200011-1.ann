@@ -1,23 +1,42 @@
-T1	SINTOMA 1230 1287	comprimiendo todas las estructuras viscerales abdominales
-T2	SINTOMA 1420 1446	dificultad para la ingesta
-T3	SINTOMA 929 974	"efecto masa" en la zona del túnel subcutáneo
-T4	SINTOMA 730 748	mal estado general
-T5	SINTOMA 1451 1458	vómitos
-T6	SINTOMA 995 1015	signos inflamatorios
-T7	SINTOMA 1858 1869	falleciendo
-T8	PROCEDIMIENTO 1135 1156	imágenes radiológicas
-T9	PROCEDIMIENTO 1303 1326	tratamiento antibiótico
-T10	PROCEDIMIENTO 1339 1364	retirada de catéter de DP
-T11	PROCEDIMIENTO 1368 1386	transferencia a HD
-T12	PROCEDIMIENTO 1471 1473	HD
-T13	PROCEDIMIENTO 1596 1608	paracentesis
-T14	PROCEDIMIENTO 1732 1785	tratamiento quirúrgico de la calcificación peritoneal
-T15	PROCEDIMIENTO 1791 1823	amputación del miembro isquémico
-T16	PROCEDIMIENTO 245 247	HD
-T17	PROCEDIMIENTO 281 297	trasplante renal
-T18	PROCEDIMIENTO 380 382	HD
-T19	PROCEDIMIENTO 393 409	trasplantectomía
-T20	PROCEDIMIENTO 454 469	acceso vascular
-T21	PROCEDIMIENTO 495 497	DP
-T22	PROCEDIMIENTO 703 705	DP
-T23	PROCEDIMIENTO 903 914	exploración
+T1	ENFERMEDAD 1171 1228	esclerosis y calcificación de toda la membrana peritoneal
+T2	ENFERMEDAD 1761 1785	calcificación peritoneal
+T3	ENFERMEDAD 66 97	síndrome de Laurence-Moon-Biell
+T4	ENFERMEDAD 120 133	hipogonadismo
+T5	ENFERMEDAD 554 565	peritonitis
+T6	ENFERMEDAD 138 146	obesidad
+T7	ENFERMEDAD 148 162	retraso mental
+T8	ENFERMEDAD 579 604	hiperparatiroidismo grave
+T9	ENFERMEDAD 164 176	polidactilia
+T10	ENFERMEDAD 178 199	retinitis pigmentaria
+T11	ENFERMEDAD 202 221	insuficiencia renal
+T12	ENFERMEDAD 755 845	peritonitis, causada por dos gérmenes (Staphilococcus epidermidis y Pseudomona aeruginosa)
+T13	ENFERMEDAD 341 357	trombosis venosa
+T14	ENFERMEDAD 1509 1562	ascitis, secundaria a peritonitis por Echerichia coli
+T15	ENFERMEDAD 857 895	infección de túnel por el estafilococo
+T16	ENFERMEDAD 1639 1673	isquemia aguda en miembro inferior
+T17	ENFERMEDAD 1687 1713	obstrucción femoropoplítea
+T18	ENFERMEDAD 1077 1126	eventración peritoneal en el orificio del catéter
+T19	ENFERMEDAD 1531 1562	peritonitis por Echerichia coli
+T20	PROCEDIMIENTO 495 497	DP
+T21	PROCEDIMIENTO 1791 1823	amputación del miembro isquémico
+T22	PROCEDIMIENTO 1339 1364	retirada de catéter de DP
+T23	PROCEDIMIENTO 1368 1386	transferencia a HD
+T24	PROCEDIMIENTO 245 247	HD
+T25	PROCEDIMIENTO 703 705	DP
+T26	PROCEDIMIENTO 281 297	trasplante renal
+T27	PROCEDIMIENTO 1471 1473	HD
+T28	PROCEDIMIENTO 380 382	HD
+T29	PROCEDIMIENTO 393 409	trasplantectomía
+T30	PROCEDIMIENTO 1596 1608	paracentesis
+T31	PROCEDIMIENTO 454 469	acceso vascular
+T32	PROCEDIMIENTO 1303 1326	tratamiento antibiótico
+T33	PROCEDIMIENTO 903 914	exploración
+T34	PROCEDIMIENTO 1732 1785	tratamiento quirúrgico de la calcificación peritoneal
+T35	PROCEDIMIENTO 1135 1156	imágenes radiológicas
+T36	SINTOMA 1420 1446	dificultad para la ingesta
+T37	SINTOMA 730 748	mal estado general
+T38	SINTOMA 1451 1458	vómitos
+T39	SINTOMA 929 974	"efecto masa" en la zona del túnel subcutáneo
+T40	SINTOMA 995 1015	signos inflamatorios
+T41	SINTOMA 1230 1287	comprimiendo todas las estructuras viscerales abdominales
+T42	SINTOMA 1858 1869	falleciendo

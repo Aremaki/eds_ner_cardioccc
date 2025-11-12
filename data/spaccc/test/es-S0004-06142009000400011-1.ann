@@ -1,46 +1,46 @@
-T1	SINTOMA 273 285	uretrorragia
-T2	SINTOMA 538 551	globo vesical
-T3	SINTOMA 3283 3295	asintomático
-T4	SINTOMA 3222 3241	libre de enfermedad
-T5	SINTOMA 657 742	imágenes polipoideas parietales menores de 2-3 cm tanto en vejiga como en divertículo
-T6	SINTOMA 288 317	imposibilidad para la micción
-T7	SINTOMA 2565 2664	TAC toracoabdominal, una gammagrafía ósea y una RMN pélvica que no mostraron enfermedad a distancia
-T8	ENFERMEDAD 823 840	estenosis uretral
-T9	ENFERMEDAD 37 50	EPOC moderado
-T10	ENFERMEDAD 2286 2350	leiomiosarcoma de bajo grado con infiltración de todas las capas
-T11	ENFERMEDAD 565 576	divertículo
-T12	ENFERMEDAD 1594 1622	leiomiosarcoma de bajo grado
-T13	ENFERMEDAD 768 785	neoplasia vesical
-T14	ENFERMEDAD 179 186	bebedor
-T15	ENFERMEDAD 147 154	fumador
-T16	ENFERMEDAD 104 119	hábitos tóxicos
-T17	ENFERMEDAD 912 917	tumor
-T18	ENFERMEDAD 2020 2025	tumor
-T19	ENFERMEDAD 273 285	uretrorragia
-T20	ENFERMEDAD 731 742	divertículo
-T21	ENFERMEDAD 1383 1406	tumor fibroso solitario
-T22	PROCEDIMIENTO 1011 1033	resección transuretral
-T23	PROCEDIMIENTO 1093 1110	anatomopatológico
-T24	PROCEDIMIENTO 1151 1178	análisis inmunohistoquímico
-T25	PROCEDIMIENTO 1459 1466	cirugía
-T26	PROCEDIMIENTO 1507 1526	cistectomía parcial
-T27	PROCEDIMIENTO 1529 1546	diverticulectomía
-T28	PROCEDIMIENTO 1575 1592	anatomopatológico
-T29	PROCEDIMIENTO 2027 2045	Inmunohistoquímica
-T30	PROCEDIMIENTO 2513 2533	estudio de extensión
+T1	ENFERMEDAD 823 840	estenosis uretral
+T2	ENFERMEDAD 37 50	EPOC moderado
+T3	ENFERMEDAD 2286 2350	leiomiosarcoma de bajo grado con infiltración de todas las capas
+T4	ENFERMEDAD 565 576	divertículo
+T5	ENFERMEDAD 1594 1622	leiomiosarcoma de bajo grado
+T6	ENFERMEDAD 768 785	neoplasia vesical
+T7	ENFERMEDAD 179 186	bebedor
+T8	ENFERMEDAD 147 154	fumador
+T9	ENFERMEDAD 104 119	hábitos tóxicos
+T10	ENFERMEDAD 912 917	tumor
+T11	ENFERMEDAD 2020 2025	tumor
+T12	ENFERMEDAD 273 285	uretrorragia
+T13	ENFERMEDAD 731 742	divertículo
+T14	ENFERMEDAD 1383 1406	tumor fibroso solitario
+T15	PROCEDIMIENTO 2027 2045	Inmunohistoquímica
+T16	PROCEDIMIENTO 806 817	ecográficos
+T17	PROCEDIMIENTO 2695 2721	radioterapia locorregional
+T18	PROCEDIMIENTO 2724 2752	quimioterapia complementaria
+T19	PROCEDIMIENTO 1151 1178	análisis inmunohistoquímico
+T20	PROCEDIMIENTO 864 876	ureterotomía
+T21	PROCEDIMIENTO 880 891	cistoscopia
+T22	PROCEDIMIENTO 2774 2800	radioterapia locorregional
+T23	PROCEDIMIENTO 399 415	sondaje urinario
+T24	PROCEDIMIENTO 2822 2835	quimioterapia
+T25	PROCEDIMIENTO 417 444	se colocó talla suprapúbica
+T26	PROCEDIMIENTO 503 512	ecografía
+T27	PROCEDIMIENTO 3078 3090	cistoscopias
+T28	PROCEDIMIENTO 1507 1526	cistectomía parcial
+T29	PROCEDIMIENTO 3103 3121	citología urinaria
+T30	PROCEDIMIENTO 3124 3151	TAC toraco-abdomino-pélvico
 T31	PROCEDIMIENTO 2565 2584	TAC toracoabdominal
 T32	PROCEDIMIENTO 2590 2606	gammagrafía ósea
 T33	PROCEDIMIENTO 2613 2624	RMN pélvica
-T34	PROCEDIMIENTO 2695 2721	radioterapia locorregional
-T35	PROCEDIMIENTO 2724 2752	quimioterapia complementaria
-T36	PROCEDIMIENTO 2774 2800	radioterapia locorregional
-T37	PROCEDIMIENTO 2822 2835	quimioterapia
-T38	PROCEDIMIENTO 3078 3090	cistoscopias
-T39	PROCEDIMIENTO 3103 3121	citología urinaria
-T40	PROCEDIMIENTO 3124 3151	TAC toraco-abdomino-pélvico
-T41	PROCEDIMIENTO 399 415	sondaje urinario
-T42	PROCEDIMIENTO 417 444	se colocó talla suprapúbica
-T43	PROCEDIMIENTO 503 512	ecografía
-T44	PROCEDIMIENTO 806 817	ecográficos
-T45	PROCEDIMIENTO 864 876	ureterotomía
-T46	PROCEDIMIENTO 880 891	cistoscopia
+T34	PROCEDIMIENTO 2513 2533	estudio de extensión
+T35	PROCEDIMIENTO 1011 1033	resección transuretral
+T36	PROCEDIMIENTO 1093 1110	anatomopatológico
+T37	PROCEDIMIENTO 1575 1592	anatomopatológico
+T38	PROCEDIMIENTO 1529 1546	diverticulectomía
+T39	PROCEDIMIENTO 1459 1466	cirugía
+T40	SINTOMA 273 285	uretrorragia
+T41	SINTOMA 288 317	imposibilidad para la micción
+T42	SINTOMA 538 551	globo vesical
+T43	SINTOMA 3283 3295	asintomático
+T44	SINTOMA 2565 2664	TAC toracoabdominal, una gammagrafía ósea y una RMN pélvica que no mostraron enfermedad a distancia
+T45	SINTOMA 657 742	imágenes polipoideas parietales menores de 2-3 cm tanto en vejiga como en divertículo
+T46	SINTOMA 3222 3241	libre de enfermedad

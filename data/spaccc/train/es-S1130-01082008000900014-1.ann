@@ -1,15 +1,37 @@
-T1	SINTOMA 2477 2489	asintomático
-T2	SINTOMA 211 234	reflujo gastroesofágico
-T3	SINTOMA 2158 2166	sangrado
-T4	SINTOMA 2290 2305	tolerancia oral
-T5	SINTOMA 499 506	vómitos
-T6	SINTOMA 2382 2414	buen paso de contraste a duodeno
-T7	SINTOMA 1157 1185	paso filiforme del contraste
-T8	SINTOMA 676 709	retención en el conducto gástrico
-T9	SINTOMA 1086 1131	stop casi completo y persistente en el píloro
-T10	ENFERMEDAD 34 110	adenocarcinoma medianamente diferenciado implantado sobre esófago de Barrett
-T11	ENFERMEDAD 676 709	retención en el conducto gástrico
-T12	ENFERMEDAD 715 745	píloro marcadamente estenosado
-T13	ENFERMEDAD 211 234	reflujo gastroesofágico
-T14	ENFERMEDAD 2144 2155	perforación
-T15	ENFERMEDAD 1086 1131	stop casi completo y persistente en el píloro
+T1	ENFERMEDAD 34 110	adenocarcinoma medianamente diferenciado implantado sobre esófago de Barrett
+T2	ENFERMEDAD 676 709	retención en el conducto gástrico
+T3	ENFERMEDAD 715 745	píloro marcadamente estenosado
+T4	ENFERMEDAD 211 234	reflujo gastroesofágico
+T5	ENFERMEDAD 2144 2155	perforación
+T6	ENFERMEDAD 1086 1131	stop casi completo y persistente en el píloro
+T7	PROCEDIMIENTO 641 656	endoscopia oral
+T8	PROCEDIMIENTO 1250 1307	dilatación del píloro, en este caso forzada, con un balón
+T9	PROCEDIMIENTO 315 372	esofaguectomía total transhiatal con anastomosis cervical
+T10	PROCEDIMIENTO 767 796	dilatación pilórica con balón
+T11	PROCEDIMIENTO 374 413	creando un conducto gástrico tubulizado
+T12	PROCEDIMIENTO 147 157	endoscopia
+T13	PROCEDIMIENTO 426 435	vagotomía
+T14	PROCEDIMIENTO 441 454	piloroplastia
+T15	PROCEDIMIENTO 2048 2076	radiología simple de abdomen
+T16	PROCEDIMIENTO 2345 2374	control radiológico con bario
+T17	PROCEDIMIENTO 1558 1626	endoscopio hasta el duodeno descendente, dejando una guía radioopaca
+T18	PROCEDIMIENTO 1713 1735	Retirado el endoscopio
+T19	PROCEDIMIENTO 1047 1063	estudio baritado
+T20	PROCEDIMIENTO 1460 1477	sedación profunda
+T21	PROCEDIMIENTO 872 910	pasando a continuación un gastroscopio
+T22	PROCEDIMIENTO 1502 1537	control endoscópico y fluoroscópico
+T23	PROCEDIMIENTO 1631 1694	píloro se marcó por medio de inyecciones de contraste submucoso
+T24	PROCEDIMIENTO 2022 2032	dilatación
+T25	PROCEDIMIENTO 1213 1223	dilatación
+T26	PROCEDIMIENTO 1737 1834	se avanzó el balón sobre la guía hasta que se posicionó correctamente, bajo control fluoroscópico
+T27	PROCEDIMIENTO 1850 1913	se hinchó el balón con aire a 300 mmHg, con control manométrico
+T28	PROCEDIMIENTO 271 298	intervenido quirúrgicamente
+T29	SINTOMA 499 506	vómitos
+T30	SINTOMA 2477 2489	asintomático
+T31	SINTOMA 2158 2166	sangrado
+T32	SINTOMA 2382 2414	buen paso de contraste a duodeno
+T33	SINTOMA 676 709	retención en el conducto gástrico
+T34	SINTOMA 211 234	reflujo gastroesofágico
+T35	SINTOMA 1157 1185	paso filiforme del contraste
+T36	SINTOMA 1086 1131	stop casi completo y persistente en el píloro
+T37	SINTOMA 2290 2305	tolerancia oral

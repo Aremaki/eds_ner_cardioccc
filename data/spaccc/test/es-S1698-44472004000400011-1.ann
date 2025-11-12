@@ -1,32 +1,34 @@
-T1	SINTOMA 505 559	abultamiento de la cortical vestibular de la mandíbula
-T2	SINTOMA 1940 1952	ameloblastos
-T3	SINTOMA 1730 1749	células estrelladas
-T4	SINTOMA 964 1015	desplazamiento lateral de las raíces de los dientes
-T5	SINTOMA 275 314	dolor ocasional e hinchazón de la encía
-T6	SINTOMA 900 922	estructuras radiopacas
-T7	SINTOMA 794 843	imágenes radiolúcidas y radiopacas en su interior
-T8	SINTOMA 1036 1054	reabsorción apical
-T9	ENFERMEDAD 1535 1604	odontoma compuesto con áreas de células ameloblásticas proliferativas
-T10	ENFERMEDAD 96 159	retraso en la erupción de los incisivos inferiores y del canino
-T11	ENFERMEDAD 360 375	epilepsia focal
-T12	ENFERMEDAD 430 475	ausencia de los incisivos y canino inferiores
-T13	ENFERMEDAD 686 711	lesión quística intraósea
-T14	ENFERMEDAD 864 870	quiste
-T15	ENFERMEDAD 1090 1119	odontoma compuesto mandibular
-T16	ENFERMEDAD 1192 1198	quiste
-T17	ENFERMEDAD 387 395	alergias
-T18	ENFERMEDAD 1450 1455	tumor
-T19	PROCEDIMIENTO 1153 1160	cirugía
-T20	PROCEDIMIENTO 1165 1180	anestesia local
-T21	PROCEDIMIENTO 1336 1343	cirugía
-T22	PROCEDIMIENTO 1349 1366	anestesia general
-T23	PROCEDIMIENTO 1425 1455	extirpación completa del tumor
-T24	PROCEDIMIENTO 1470 1499	curetaje del lecho quirúrgico
-T25	PROCEDIMIENTO 1504 1524	análisis histológico
-T26	PROCEDIMIENTO 1606 1623	Microscópicamente
-T27	PROCEDIMIENTO 2049 2068	exploración clínica
-T28	PROCEDIMIENTO 2085 2087	TC
-T29	PROCEDIMIENTO 234 257	tratamiento ortodóncico
-T30	PROCEDIMIENTO 403 414	exploración
-T31	PROCEDIMIENTO 617 634	ortopantomografía
-T32	PROCEDIMIENTO 641 663	radiografía periapical
+T1	ENFERMEDAD 1535 1604	odontoma compuesto con áreas de células ameloblásticas proliferativas
+T2	ENFERMEDAD 96 159	retraso en la erupción de los incisivos inferiores y del canino
+T3	ENFERMEDAD 360 375	epilepsia focal
+T4	ENFERMEDAD 430 475	ausencia de los incisivos y canino inferiores
+T5	ENFERMEDAD 686 711	lesión quística intraósea
+T6	ENFERMEDAD 864 870	quiste
+T7	ENFERMEDAD 1090 1119	odontoma compuesto mandibular
+T8	ENFERMEDAD 1192 1198	quiste
+T9	ENFERMEDAD 387 395	alergias
+T10	ENFERMEDAD 1450 1455	tumor
+T11	PROCEDIMIENTO 1504 1524	análisis histológico
+T12	PROCEDIMIENTO 2049 2068	exploración clínica
+T13	PROCEDIMIENTO 2085 2087	TC
+T14	PROCEDIMIENTO 234 257	tratamiento ortodóncico
+T15	PROCEDIMIENTO 617 634	ortopantomografía
+T16	PROCEDIMIENTO 641 663	radiografía periapical
+T17	PROCEDIMIENTO 1165 1180	anestesia local
+T18	PROCEDIMIENTO 1349 1366	anestesia general
+T19	PROCEDIMIENTO 1425 1455	extirpación completa del tumor
+T20	PROCEDIMIENTO 1470 1499	curetaje del lecho quirúrgico
+T21	PROCEDIMIENTO 1606 1623	Microscópicamente
+T22	PROCEDIMIENTO 403 414	exploración
+T23	PROCEDIMIENTO 1153 1160	cirugía
+T24	PROCEDIMIENTO 1336 1343	cirugía
+T25	SINTOMA 275 314	dolor ocasional e hinchazón de la encía
+T26	SINTOMA 505 559	abultamiento de la cortical vestibular de la mandíbula
+T27	SINTOMA 964 1015	desplazamiento lateral de las raíces de los dientes
+T28	SINTOMA 1036 1054	reabsorción apical
+T29	SINTOMA 900 922	estructuras radiopacas
+T30	SINTOMA 794 843	imágenes radiolúcidas y radiopacas en su interior
+T31	SINTOMA 1730 1749	células estrelladas
+T32	SINTOMA 1851 1890	tejido fibromixoide y zonas de colágeno
+T33	SINTOMA 1940 1952	ameloblastos
+T34	SINTOMA 1647 1721	proliferación en nidos y en bandas del epitelio odontogénico en empalizada

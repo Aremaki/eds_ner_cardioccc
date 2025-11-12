@@ -1,58 +1,58 @@
-T1	SINTOMA 1592 1694	adenomegalias submandibulares homolaterales, induradas, indoloras, adheridas a piel y planos profundos
-T2	SINTOMA 181 213	dolor en región maxilar inferior
-T3	SINTOMA 1368 1389	dolorosa a la presión
-T4	SINTOMA 3097 3203	estudios microbiológicos del material de biopsia resultaron negativos para BAAR, hongos y gérmenes comunes
-T5	SINTOMA 1395 1464	impedía el cierre de la boca, la masticación, la deglución y el habla
-T6	SINTOMA 1109 1115	lúcida
-T7	SINTOMA 1126 1155	orientada en tiempo y espacio
-T8	SINTOMA 1772 1794	Rx de tórax fue normal
-T9	SINTOMA 22 49	serología reactiva para VIH
-T10	SINTOMA 2148 2218	serologías para Chagas y virus de hepatitis B y C resultaron negativas
-T11	SINTOMA 2097 2123	test de embarazo: negativo
-T12	SINTOMA 3371 3434	tinciones de Gram, Grocott y Ziehl Neelsen resultaron negativas
-T13	SINTOMA 2226 2270	toxoplasmosis: IgM: negativa e IgG: positiva
-T14	SINTOMA 293 331	tumefacción en región maxilar inferior
-T15	SINTOMA 2125 2142	VRDL: no reactiva
-T16	SINTOMA 1117 1124	afebril
-T17	SINTOMA 3638 3649	neutropenia
-T18	SINTOMA 757 767	tumoración
-T19	SINTOMA 553 558	dolor
-T20	SINTOMA 567 578	tumefacción
-T21	SINTOMA 3912 3936	carga viral indetectable
-T22	SINTOMA 3853 3865	asintomática
-T23	ENFERMEDAD 1028 1069	adicción a cocaína inhalatoria, marihuana
-T24	ENFERMEDAD 1211 1255	formación tumoral en región maxilar inferior
-T25	ENFERMEDAD 3787 3805	lesión de la encía
-T26	ENFERMEDAD 3885 3906	enfermedad neoplásica
-T27	ENFERMEDAD 1592 1621	adenomegalias submandibulares
-T28	ENFERMEDAD 612 627	flemón dentario
-T29	ENFERMEDAD 3254 3284	LB primario de la cavidad oral
-T30	ENFERMEDAD 2182 2197	hepatitis B y C
-T31	ENFERMEDAD 2226 2239	toxoplasmosis
-T32	ENFERMEDAD 2164 2170	Chagas
-T33	ENFERMEDAD 2460 2474	esplenomegalia
-T34	ENFERMEDAD 1072 1082	tabaquismo
-T35	PROCEDIMIENTO 1163 1176	examen físico
-T36	PROCEDIMIENTO 1580 1621	Se palpaban adenomegalias submandibulares
-T37	PROCEDIMIENTO 1709 1722	examen físico
-T38	PROCEDIMIENTO 1772 1783	Rx de tórax
-T39	PROCEDIMIENTO 2148 2158	serologías
-T40	PROCEDIMIENTO 2428 2447	ecografía abdominal
-T41	PROCEDIMIENTO 2537 2555	biopsia escisional
-T42	PROCEDIMIENTO 2583 2605	examen histopatológico
-T43	PROCEDIMIENTO 2895 2913	inmunohistoquímica
-T44	PROCEDIMIENTO 3097 3121	estudios microbiológicos
-T45	PROCEDIMIENTO 3208 3235	diagnóstico histopatológico
-T46	PROCEDIMIENTO 3289 3311	biopsia de médula ósea
-T47	PROCEDIMIENTO 3384 3388	Gram
-T48	PROCEDIMIENTO 3390 3397	Grocott
-T49	PROCEDIMIENTO 3400 3413	Ziehl Neelsen
-T50	PROCEDIMIENTO 3469 3482	quimioterapia
-T51	PROCEDIMIENTO 3496 3511	esquema EPOCH-R
-T52	PROCEDIMIENTO 390 418	tratamiento con antibióticos
-T53	PROCEDIMIENTO 421 453	antiinflamatorios no esteroideos
-T54	PROCEDIMIENTO 672 683	corticoides
-T55	PROCEDIMIENTO 74 101	tratamiento antirretroviral
-T56	PROCEDIMIENTO 792 810	drenaje quirúrgico
-T57	PROCEDIMIENTO 855 866	analgésicos
-T58	PROCEDIMIENTO 895 906	antibiótico
+T1	ENFERMEDAD 1028 1069	adicción a cocaína inhalatoria, marihuana
+T2	ENFERMEDAD 1211 1255	formación tumoral en región maxilar inferior
+T3	ENFERMEDAD 3787 3805	lesión de la encía
+T4	ENFERMEDAD 3885 3906	enfermedad neoplásica
+T5	ENFERMEDAD 1592 1621	adenomegalias submandibulares
+T6	ENFERMEDAD 612 627	flemón dentario
+T7	ENFERMEDAD 3254 3284	LB primario de la cavidad oral
+T8	ENFERMEDAD 2182 2197	hepatitis B y C
+T9	ENFERMEDAD 2226 2239	toxoplasmosis
+T10	ENFERMEDAD 2164 2170	Chagas
+T11	ENFERMEDAD 2460 2474	esplenomegalia
+T12	ENFERMEDAD 1072 1082	tabaquismo
+T13	PROCEDIMIENTO 2428 2447	ecografía abdominal
+T14	PROCEDIMIENTO 3469 3482	quimioterapia
+T15	PROCEDIMIENTO 74 101	tratamiento antirretroviral
+T16	PROCEDIMIENTO 1163 1176	examen físico
+T17	PROCEDIMIENTO 2537 2555	biopsia escisional
+T18	PROCEDIMIENTO 2583 2605	examen histopatológico
+T19	PROCEDIMIENTO 390 418	tratamiento con antibióticos
+T20	PROCEDIMIENTO 2895 2913	inmunohistoquímica
+T21	PROCEDIMIENTO 1580 1621	Se palpaban adenomegalias submandibulares
+T22	PROCEDIMIENTO 1709 1722	examen físico
+T23	PROCEDIMIENTO 672 683	corticoides
+T24	PROCEDIMIENTO 1772 1783	Rx de tórax
+T25	PROCEDIMIENTO 792 810	drenaje quirúrgico
+T26	PROCEDIMIENTO 855 866	analgésicos
+T27	PROCEDIMIENTO 3289 3311	biopsia de médula ósea
+T28	PROCEDIMIENTO 895 906	antibiótico
+T29	PROCEDIMIENTO 3384 3388	Gram
+T30	PROCEDIMIENTO 3097 3121	estudios microbiológicos
+T31	PROCEDIMIENTO 2148 2158	serologías
+T32	PROCEDIMIENTO 3390 3397	Grocott
+T33	PROCEDIMIENTO 3400 3413	Ziehl Neelsen
+T34	PROCEDIMIENTO 421 453	antiinflamatorios no esteroideos
+T35	PROCEDIMIENTO 3496 3511	esquema EPOCH-R
+T36	PROCEDIMIENTO 3208 3235	diagnóstico histopatológico
+T37	SINTOMA 1117 1124	afebril
+T38	SINTOMA 1126 1155	orientada en tiempo y espacio
+T39	SINTOMA 181 213	dolor en región maxilar inferior
+T40	SINTOMA 3638 3649	neutropenia
+T41	SINTOMA 293 331	tumefacción en región maxilar inferior
+T42	SINTOMA 1395 1464	impedía el cierre de la boca, la masticación, la deglución y el habla
+T43	SINTOMA 1368 1389	dolorosa a la presión
+T44	SINTOMA 757 767	tumoración
+T45	SINTOMA 22 49	serología reactiva para VIH
+T46	SINTOMA 553 558	dolor
+T47	SINTOMA 567 578	tumefacción
+T48	SINTOMA 1592 1694	adenomegalias submandibulares homolaterales, induradas, indoloras, adheridas a piel y planos profundos
+T49	SINTOMA 2148 2218	serologías para Chagas y virus de hepatitis B y C resultaron negativas
+T50	SINTOMA 3097 3203	estudios microbiológicos del material de biopsia resultaron negativos para BAAR, hongos y gérmenes comunes
+T51	SINTOMA 3912 3936	carga viral indetectable
+T52	SINTOMA 3853 3865	asintomática
+T53	SINTOMA 3371 3434	tinciones de Gram, Grocott y Ziehl Neelsen resultaron negativas
+T54	SINTOMA 1109 1115	lúcida
+T55	SINTOMA 1772 1794	Rx de tórax fue normal
+T56	SINTOMA 2097 2123	test de embarazo: negativo
+T57	SINTOMA 2125 2142	VRDL: no reactiva
+T58	SINTOMA 2226 2270	toxoplasmosis: IgM: negativa e IgG: positiva

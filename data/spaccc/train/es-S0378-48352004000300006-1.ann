@@ -1,25 +1,31 @@
-T1	SINTOMA 202 217	dolor abdominal
-T2	SINTOMA 2249 2257	falleció
-T3	SINTOMA 193 199	fiebre
-T4	SINTOMA 38 50	HIV negativo
-T5	SINTOMA 87 119	infiltrados nodulares pulmonares
-T6	SINTOMA 222 234	masa anexial
-T7	SINTOMA 2318 2330	masa ovárica
-T8	SINTOMA 273 285	masa ovárica
-T9	SINTOMA 527 545	nódulo mesentérico
-T10	SINTOMA 848 866	nódulo mesentérico
-T11	SINTOMA 1759 1776	nódulos tumorales
-T12	SINTOMA 412 431	tumoración en muslo
-T13	ENFERMEDAD 508 521	tumor ovárico
-T14	ENFERMEDAD 155 169	granulomatosis
-T15	ENFERMEDAD 2272 2294	metástasis abdominales
-T16	ENFERMEDAD 2355 2384	adenopatias retroperitoneales
-T17	ENFERMEDAD 2387 2409	metástasis subcutaneas
-T18	ENFERMEDAD 1606 1621	tumor del muslo
-T19	ENFERMEDAD 1721 1734	tumor ovárico
-T20	ENFERMEDAD 1887 1915	melanoma maligno metastásico
-T21	ENFERMEDAD 1936 1972	tumor primario de origen desconocido
-T22	ENFERMEDAD 26 36	drogadicta
-T23	ENFERMEDAD 2031 2037	lesión
-T24	ENFERMEDAD 1759 1776	nódulos tumorales
-T25	ENFERMEDAD 1436 1441	tumor
+T1	ENFERMEDAD 508 521	tumor ovárico
+T2	ENFERMEDAD 155 169	granulomatosis
+T3	ENFERMEDAD 2272 2294	metástasis abdominales
+T4	ENFERMEDAD 2355 2384	adenopatias retroperitoneales
+T5	ENFERMEDAD 2387 2409	metástasis subcutaneas
+T6	ENFERMEDAD 1606 1621	tumor del muslo
+T7	ENFERMEDAD 1721 1734	tumor ovárico
+T8	ENFERMEDAD 1887 1915	melanoma maligno metastásico
+T9	ENFERMEDAD 1936 1972	tumor primario de origen desconocido
+T10	ENFERMEDAD 26 36	drogadicta
+T11	ENFERMEDAD 2031 2037	lesión
+T12	ENFERMEDAD 1759 1776	nódulos tumorales
+T13	ENFERMEDAD 1436 1441	tumor
+T14	PROCEDIMIENTO 2141 2154	quimioterapia
+T15	PROCEDIMIENTO 273 370	masa ovárica derecha de 12 cm, junto a otra en meso de colon transverso de 2 cm que se extirparon
+T16	PROCEDIMIENTO 1606 1631	tumor del muslo extirpado
+T17	PROCEDIMIENTO 1823 1848	perfil inmunohistoquímico
+T18	PROCEDIMIENTO 250 261	exploración
+T19	PROCEDIMIENTO 1684 1700	histológicamente
+T20	SINTOMA 527 545	nódulo mesentérico
+T21	SINTOMA 87 119	infiltrados nodulares pulmonares
+T22	SINTOMA 193 199	fiebre
+T23	SINTOMA 202 217	dolor abdominal
+T24	SINTOMA 2318 2330	masa ovárica
+T25	SINTOMA 222 234	masa anexial
+T26	SINTOMA 273 285	masa ovárica
+T27	SINTOMA 848 866	nódulo mesentérico
+T28	SINTOMA 412 431	tumoración en muslo
+T29	SINTOMA 38 50	HIV negativo
+T30	SINTOMA 2249 2257	falleció
+T31	SINTOMA 1759 1776	nódulos tumorales

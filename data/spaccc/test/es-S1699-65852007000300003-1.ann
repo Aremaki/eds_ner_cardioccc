@@ -1,40 +1,40 @@
-T1	SINTOMA 1420 1429	diastemas
-T2	SINTOMA 816 825	diastemas
-T3	SINTOMA 690 763	ausencia del segundo premolar superior derecho y el primer molar inferior
-T4	SINTOMA 596 646	desarrollo radicular y del foramen apical completo
-T5	SINTOMA 340 375	exfoliado el canino superior caduco
-T6	SINTOMA 2838 2866	pérdida ósea periimplantaria
-T7	ENFERMEDAD 254 288	canino superior izquierdo incluido
-T8	ENFERMEDAD 353 375	canino superior caduco
-T9	ENFERMEDAD 490 505	canino incluido
-T10	ENFERMEDAD 816 847	diastemas en el sector anterior
-T11	ENFERMEDAD 690 763	ausencia del segundo premolar superior derecho y el primer molar inferior
-T12	ENFERMEDAD 1420 1429	diastemas
-T13	ENFERMEDAD 1486 1501	canino incluido
-T14	ENFERMEDAD 1625 1640	canino incluido
-T15	PROCEDIMIENTO 1006 1029	tratamiento ortodóncico
-T16	PROCEDIMIENTO 1080 1120	reposición protésica en la región canina
-T17	PROCEDIMIENTO 1168 1259	implante osteointegrado en el mismo tiempo quirúrgico que la extracción del canino incluido
-T18	PROCEDIMIENTO 1274 1296	restauración protésica
-T19	PROCEDIMIENTO 1338 1361	tratamiento ortodóncico
-T20	PROCEDIMIENTO 1410 1429	cierre de diastemas
-T21	PROCEDIMIENTO 1471 1501	extracción del canino incluido
-T22	PROCEDIMIENTO 1507 1531	inserción de un implante
-T23	PROCEDIMIENTO 1542 1557	anestesia local
-T24	PROCEDIMIENTO 1559 1640	se levantó un colgajo mucoperióstico por palatino para acceder al canino incluido
-T25	PROCEDIMIENTO 1671 1681	osteotomía
-T26	PROCEDIMIENTO 1697 1756	odontosección del diente, su extracción y legrado del lecho
-T27	PROCEDIMIENTO 1773 1868	se levantó un colgajo mucoperióstico vestibular para exponer la cresta y la cortical vestibular
-T28	PROCEDIMIENTO 1883 1920	implante cilíndrico de hidroxiapatita
-T29	PROCEDIMIENTO 2073 2120	Se colocó una membrana reabsorbible de colágeno
-T30	PROCEDIMIENTO 2141 2212	regeneración ósea guiada del defecto con hueso de banco desmineralizado
-T31	PROCEDIMIENTO 2277 2363	implantes en la posición del segundo premolar superior derecho y primer molar inferior
-T32	PROCEDIMIENTO 237 288	extracción de un canino superior izquierdo incluido
-T33	PROCEDIMIENTO 2504 2511	cirugía
-T34	PROCEDIMIENTO 2514 2549	colocación del pilar transepitelial
-T35	PROCEDIMIENTO 2570 2594	reconstrucción protésica
-T36	PROCEDIMIENTO 2614 2648	corona implantosoportada cementada
-T37	PROCEDIMIENTO 2749 2759	ortodoncia
-T38	PROCEDIMIENTO 411 433	radiografía panorámica
-T39	PROCEDIMIENTO 440 459	radiografía lateral
-T40	PROCEDIMIENTO 653 674	exploración intraoral
+T1	ENFERMEDAD 254 288	canino superior izquierdo incluido
+T2	ENFERMEDAD 353 375	canino superior caduco
+T3	ENFERMEDAD 490 505	canino incluido
+T4	ENFERMEDAD 816 847	diastemas en el sector anterior
+T5	ENFERMEDAD 690 763	ausencia del segundo premolar superior derecho y el primer molar inferior
+T6	ENFERMEDAD 1420 1429	diastemas
+T7	ENFERMEDAD 1486 1501	canino incluido
+T8	ENFERMEDAD 1625 1640	canino incluido
+T9	PROCEDIMIENTO 1338 1361	tratamiento ortodóncico
+T10	PROCEDIMIENTO 1410 1429	cierre de diastemas
+T11	PROCEDIMIENTO 2570 2594	reconstrucción protésica
+T12	PROCEDIMIENTO 1471 1501	extracción del canino incluido
+T13	PROCEDIMIENTO 2614 2648	corona implantosoportada cementada
+T14	PROCEDIMIENTO 237 288	extracción de un canino superior izquierdo incluido
+T15	PROCEDIMIENTO 1542 1557	anestesia local
+T16	PROCEDIMIENTO 1559 1640	se levantó un colgajo mucoperióstico por palatino para acceder al canino incluido
+T17	PROCEDIMIENTO 2749 2759	ortodoncia
+T18	PROCEDIMIENTO 1671 1681	osteotomía
+T19	PROCEDIMIENTO 1697 1756	odontosección del diente, su extracción y legrado del lecho
+T20	PROCEDIMIENTO 411 433	radiografía panorámica
+T21	PROCEDIMIENTO 1773 1868	se levantó un colgajo mucoperióstico vestibular para exponer la cresta y la cortical vestibular
+T22	PROCEDIMIENTO 1883 1920	implante cilíndrico de hidroxiapatita
+T23	PROCEDIMIENTO 653 674	exploración intraoral
+T24	PROCEDIMIENTO 2141 2212	regeneración ósea guiada del defecto con hueso de banco desmineralizado
+T25	PROCEDIMIENTO 2277 2363	implantes en la posición del segundo premolar superior derecho y primer molar inferior
+T26	PROCEDIMIENTO 1006 1029	tratamiento ortodóncico
+T27	PROCEDIMIENTO 1080 1120	reposición protésica en la región canina
+T28	PROCEDIMIENTO 1168 1259	implante osteointegrado en el mismo tiempo quirúrgico que la extracción del canino incluido
+T29	PROCEDIMIENTO 1274 1296	restauración protésica
+T30	PROCEDIMIENTO 440 459	radiografía lateral
+T31	PROCEDIMIENTO 1507 1531	inserción de un implante
+T32	PROCEDIMIENTO 2073 2120	Se colocó una membrana reabsorbible de colágeno
+T33	PROCEDIMIENTO 2514 2549	colocación del pilar transepitelial
+T34	PROCEDIMIENTO 2504 2511	cirugía
+T35	SINTOMA 1420 1429	diastemas
+T36	SINTOMA 2838 2866	pérdida ósea periimplantaria
+T37	SINTOMA 690 763	ausencia del segundo premolar superior derecho y el primer molar inferior
+T38	SINTOMA 816 825	diastemas
+T39	SINTOMA 596 646	desarrollo radicular y del foramen apical completo
+T40	SINTOMA 340 375	exfoliado el canino superior caduco

@@ -1,13 +1,29 @@
-T1	SINTOMA 1612 1636	carga viral indetectable
-T2	SINTOMA 942 973	dolor a nivel del injerto renal
-T3	SINTOMA 987 993	fiebre
-T4	SINTOMA 1580 1600	función renal normal
-T5	SINTOMA 975 984	hematuria
-T6	SINTOMA 677 696	RNA de VHC positivo
-T7	ENFERMEDAD 44 77	IRC secundaria a hipoplasia renal
-T8	ENFERMEDAD 61 77	hipoplasia renal
-T9	ENFERMEDAD 254 284	nefropatía crónica del injerto
-T10	ENFERMEDAD 454 511	glomerulonefritis membranoproliferativa secundaria al VHC
-T11	ENFERMEDAD 540 562	hepatitis «no-A, no-B»
-T12	ENFERMEDAD 635 663	hepatitis crónica periportal
-T13	ENFERMEDAD 1113 1121	lesiones
+T1	ENFERMEDAD 44 77	IRC secundaria a hipoplasia renal
+T2	ENFERMEDAD 61 77	hipoplasia renal
+T3	ENFERMEDAD 254 284	nefropatía crónica del injerto
+T4	ENFERMEDAD 454 511	glomerulonefritis membranoproliferativa secundaria al VHC
+T5	ENFERMEDAD 540 562	hepatitis «no-A, no-B»
+T6	ENFERMEDAD 635 663	hepatitis crónica periportal
+T7	ENFERMEDAD 1113 1121	lesiones
+T8	PROCEDIMIENTO 86 98	hemodiálisis
+T9	PROCEDIMIENTO 133 172	primer trasplante renal de donante vivo
+T10	PROCEDIMIENTO 237 249	hemodiálisis
+T11	PROCEDIMIENTO 298 314	trasplantectomía
+T12	PROCEDIMIENTO 344 379	trasplante renal de donante cadáver
+T13	PROCEDIMIENTO 394 406	hemodiálisis
+T14	PROCEDIMIENTO 521 534	injerto renal
+T15	PROCEDIMIENTO 592 608	biopsia hepática
+T16	PROCEDIMIENTO 742 754	hemodiálisis
+T17	PROCEDIMIENTO 799 815	trasplante renal
+T18	PROCEDIMIENTO 960 973	injerto renal
+T19	PROCEDIMIENTO 1045 1061	trasplantectomía
+T20	PROCEDIMIENTO 1272 1293	tratamiento antiviral
+T21	PROCEDIMIENTO 1377 1398	tratamiento antiviral
+T22	PROCEDIMIENTO 1513 1548	trasplante renal de donante cadáver
+T23	PROCEDIMIENTO 1093 1103	histología
+T24	SINTOMA 942 973	dolor a nivel del injerto renal
+T25	SINTOMA 975 984	hematuria
+T26	SINTOMA 987 993	fiebre
+T27	SINTOMA 1580 1600	función renal normal
+T28	SINTOMA 677 696	RNA de VHC positivo
+T29	SINTOMA 1612 1636	carga viral indetectable

@@ -1,16 +1,52 @@
-T1	SINTOMA 1263 1292	adecuado nivel de consciencia
-T2	SINTOMA 1065 1085	anomalías vasculares
-T3	SINTOMA 503 528	bajo nivel de consciencia
-T4	SINTOMA 320 327	cefalea
-T5	SINTOMA 161 196	cefalea intensa en región occipital
-T6	SINTOMA 1323 1333	consciente
-T7	SINTOMA 1246 1255	despierta
-T8	SINTOMA 1475 1484	dismetría
-T9	SINTOMA 212 248	disminución del nivel de consciencia
-T10	SINTOMA 792 797	edema
-T11	SINTOMA 1694 1702	eupneica
-T12	SINTOMA 1501 1514	hiporreflexia
-T13	SINTOMA 1769 1784	hipoventilación
-T14	SINTOMA 800 829	obliteración de IV ventrículo
-T15	SINTOMA 1712 1738	patrón ventilatorio normal
-T16	SINTOMA 1541 1573	reflejo cutáneo plantar extensor
+T1	ENFERMEDAD 1928 1962	afectación del centro respiratorio
+T2	ENFERMEDAD 1186 1211	hipertensión intracraneal
+T3	ENFERMEDAD 87 108	hipertensión arterial
+T4	ENFERMEDAD 2090 2117	hematoma cerebeloso derecho
+T5	ENFERMEDAD 1802 1829	acidosis respiratoria grave
+T6	ENFERMEDAD 2143 2182	lesiones en el bulbo y la protuberancia
+T7	ENFERMEDAD 1848 1867	parada respiratoria
+T8	ENFERMEDAD 698 747	hemorragia intraparenquimatosa cerebelosa derecha
+T9	ENFERMEDAD 1411 1437	parálisis facial bilateral
+T10	ENFERMEDAD 1439 1473	tetraparesia de predominio derecho
+T11	ENFERMEDAD 859 867	hematoma
+T12	ENFERMEDAD 1376 1409	nistagmo en todas las direcciones
+T13	PROCEDIMIENTO 476 498	intubación orotraqueal
+T14	PROCEDIMIENTO 1978 2027	resonancia magnética (RM) del tronco del encéfalo
+T15	PROCEDIMIENTO 2075 2117	evacuación del hematoma cerebeloso derecho
+T16	PROCEDIMIENTO 634 678	tomografía computarizada (TC) craneal simple
+T17	PROCEDIMIENTO 1341 1364	exploración neurológica
+T18	PROCEDIMIENTO 1883 1893	intubación
+T19	PROCEDIMIENTO 2219 2221	TC
+T20	PROCEDIMIENTO 2264 2287	traqueotomía percutánea
+T21	PROCEDIMIENTO 2293 2322	ventilación mecánica invasiva
+T22	PROCEDIMIENTO 2324 2327	VMI
+T23	PROCEDIMIENTO 844 867	evacuación del hematoma
+T24	PROCEDIMIENTO 2426 2448	cerrar el traqueostoma
+T25	PROCEDIMIENTO 2464 2528	ventilación mecánica no invasiva (VMNI) con mascarilla nasobucal
+T26	PROCEDIMIENTO 1023 1031	angio-TC
+T27	PROCEDIMIENTO 1038 1060	arteriografía cerebral
+T28	PROCEDIMIENTO 1651 1661	extubación
+T29	PROCEDIMIENTO 1236 1244	sedación
+T30	PROCEDIMIENTO 660 662	TC
+T31	PROCEDIMIENTO 873 917	colocación de un drenaje ventricular externo
+T32	PROCEDIMIENTO 1896 1898	VM
+T33	PROCEDIMIENTO 2000 2002	RM
+T34	PROCEDIMIENTO 2498 2502	VMNI
+T35	PROCEDIMIENTO 382 399	antiinflamatorios
+T36	PROCEDIMIENTO 927 934	cirugía
+T37	SINTOMA 503 528	bajo nivel de consciencia
+T38	SINTOMA 1712 1738	patrón ventilatorio normal
+T39	SINTOMA 161 196	cefalea intensa en región occipital
+T40	SINTOMA 1769 1784	hipoventilación
+T41	SINTOMA 212 248	disminución del nivel de consciencia
+T42	SINTOMA 320 327	cefalea
+T43	SINTOMA 1475 1484	dismetría
+T44	SINTOMA 1501 1514	hiporreflexia
+T45	SINTOMA 1323 1333	consciente
+T46	SINTOMA 792 797	edema
+T47	SINTOMA 1694 1702	eupneica
+T48	SINTOMA 1541 1573	reflejo cutáneo plantar extensor
+T49	SINTOMA 1246 1255	despierta
+T50	SINTOMA 1263 1292	adecuado nivel de consciencia
+T51	SINTOMA 800 829	obliteración de IV ventrículo
+T52	SINTOMA 1065 1085	anomalías vasculares

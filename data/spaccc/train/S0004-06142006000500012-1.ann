@@ -1,15 +1,53 @@
-T1	SINTOMA 525 558	afectación del seno e hilio renal
-T2	SINTOMA 2202 2231	alteración motora y sensitiva
-T3	SINTOMA 2068 2104	borde quirúrgico libre de enfermedad
-T4	SINTOMA 1282 1311	dolor e induración en el pene
-T5	SINTOMA 1899 1936	incremento progresivo del dolor local
-T6	SINTOMA 1448 1502	masa que ocupa y expande el cuerpo cavernoso izquierdo
-T7	SINTOMA 2394 2412	nódulos pulmonares
-T8	SINTOMA 1159 1165	T3N0M0
-T9	SINTOMA 194 203	hematuria
-T10	SINTOMA 1366 1370	masa
-T11	SINTOMA 305 315	masa renal
-T12	SINTOMA 2187 2199	obnubilación
-T13	SINTOMA 410 420	tumoración
-T14	SINTOMA 1964 1983	buen estado general
-T15	SINTOMA 2499 2506	fallece
+T1	ENFERMEDAD 113 137	tromboembolismo pulmonar
+T2	ENFERMEDAD 159 168	neoplasia
+T3	ENFERMEDAD 194 203	hematuria
+T4	ENFERMEDAD 581 644	trombosis tumoral de la vena renal derecha y cava infrahepática
+T5	ENFERMEDAD 665 676	adenopatías
+T6	ENFERMEDAD 680 690	metástasis
+T7	ENFERMEDAD 911 946	carcinoma de células renales claras
+T8	ENFERMEDAD 1051 1074	metastásica de ganglios
+T9	ENFERMEDAD 1519 1548	metástasis de carcinoma renal
+T10	ENFERMEDAD 1726 1767	metástasis de carcinoma de células claras
+T11	ENFERMEDAD 2261 2303	lesiones en cerebelo y hemisferio cerebral
+T12	ENFERMEDAD 2327 2337	metástasis
+T13	ENFERMEDAD 2394 2412	nódulos pulmonares
+T14	ENFERMEDAD 2415 2458	microadenopatías paratraqueales bilaterales
+T15	ENFERMEDAD 2475 2485	metástasis
+T16	ENFERMEDAD 2558 2573	carcinoma renal
+T17	ENFERMEDAD 2626 2644	metástasis en pene
+T18	ENFERMEDAD 1584 1590	lesión
+T19	ENFERMEDAD 979 1034	invasión de hilio renal, grasa perinéfrica y vena renal
+T20	ENFERMEDAD 1163 1165	M0
+T21	PROCEDIMIENTO 262 281	Ecografía abdominal
+T22	PROCEDIMIENTO 359 361	RM
+T23	PROCEDIMIENTO 1395 1407	RM de pelvis
+T24	PROCEDIMIENTO 353 356	TAC
+T25	PROCEDIMIENTO 2250 2260	TC craneal
+T26	PROCEDIMIENTO 2353 2364	TC torácico
+T27	PROCEDIMIENTO 1567 1574	biopsia
+T28	PROCEDIMIENTO 784 821	cavotomía para la exéresis del trombo
+T29	PROCEDIMIENTO 836 870	linfadenectomía aorto-cava derecha
+T30	PROCEDIMIENTO 738 779	por vía anterior, una nefrectomía radical
+T31	PROCEDIMIENTO 1340 1349	palpación
+T32	PROCEDIMIENTO 2011 2027	penectomía total
+T33	PROCEDIMIENTO 885 903	anatomo-patológico
+T34	PROCEDIMIENTO 695 722	intervenido quirúrgicamente
+T35	PROCEDIMIENTO 2034 2104	confirmar intraoperatoriamente un borde quirúrgico libre de enfermedad
+T36	PROCEDIMIENTO 1654 1673	cortes histológicos
+T37	PROCEDIMIENTO 1244 1256	intervención
+T38	PROCEDIMIENTO 2539 2551	intervención
+T39	SINTOMA 1159 1165	T3N0M0
+T40	SINTOMA 1282 1311	dolor e induración en el pene
+T41	SINTOMA 1899 1936	incremento progresivo del dolor local
+T42	SINTOMA 194 203	hematuria
+T43	SINTOMA 1366 1370	masa
+T44	SINTOMA 1448 1502	masa que ocupa y expande el cuerpo cavernoso izquierdo
+T45	SINTOMA 305 315	masa renal
+T46	SINTOMA 2394 2412	nódulos pulmonares
+T47	SINTOMA 2187 2199	obnubilación
+T48	SINTOMA 410 420	tumoración
+T49	SINTOMA 525 558	afectación del seno e hilio renal
+T50	SINTOMA 1964 1983	buen estado general
+T51	SINTOMA 2202 2231	alteración motora y sensitiva
+T52	SINTOMA 2499 2506	fallece
+T53	SINTOMA 2068 2104	borde quirúrgico libre de enfermedad

@@ -1,14 +1,14 @@
-T1	SINTOMA 35 46	accidentado
-T2	SINTOMA 775 806	buena curación de las fracturas
-T3	SINTOMA 198 212	hematuria leve
-T4	ENFERMEDAD 70 94	trauma cráneo-encefálico
-T5	ENFERMEDAD 96 161	fracturas en extremidades superior e inferior derechas y costales
-T6	ENFERMEDAD 167 186	enfisema subcutáneo
-T7	ENFERMEDAD 341 420	fractura cerrada de huesos pelvianos con esquirla ósea improntando en la vejiga
-T8	ENFERMEDAD 485 510	lesión vesical penetrante
-T9	ENFERMEDAD 608 669	perforación de la pared vesical anterior por la esquirla ósea
+T1	ENFERMEDAD 70 94	trauma cráneo-encefálico
+T2	ENFERMEDAD 96 161	fracturas en extremidades superior e inferior derechas y costales
+T3	ENFERMEDAD 167 186	enfisema subcutáneo
+T4	ENFERMEDAD 341 420	fractura cerrada de huesos pelvianos con esquirla ósea improntando en la vejiga
+T5	ENFERMEDAD 485 510	lesión vesical penetrante
+T6	ENFERMEDAD 608 669	perforación de la pared vesical anterior por la esquirla ósea
+T7	PROCEDIMIENTO 582 593	cistoscopia
+T8	PROCEDIMIENTO 671 744	Por un acceso suprapúbico se reparó la vejiga y extirpó el fragmento óseo
+T9	PROCEDIMIENTO 460 463	TAC
 T10	PROCEDIMIENTO 263 283	soporte ventilatorio
 T11	PROCEDIMIENTO 293 324	estudios de imagen de la pelvis
-T12	PROCEDIMIENTO 460 463	TAC
-T13	PROCEDIMIENTO 582 593	cistoscopia
-T14	PROCEDIMIENTO 671 744	Por un acceso suprapúbico se reparó la vejiga y extirpó el fragmento óseo
+T12	SINTOMA 198 212	hematuria leve
+T13	SINTOMA 35 46	accidentado
+T14	SINTOMA 775 806	buena curación de las fracturas

@@ -1,25 +1,42 @@
-T1	SINTOMA 725 732	astenia
-T2	SINTOMA 70 97	edema conjuntival bilateral
-T3	SINTOMA 2311 2322	falleciendo
-T4	SINTOMA 670 692	hinchazón generalizada
-T5	SINTOMA 514 522	lagrimeo
-T6	SINTOMA 1139 1151	masa adrenal
-T7	SINTOMA 735 755	prurito generalizado
-T8	SINTOMA 479 499	quemosis conjuntival
-T9	SINTOMA 1020 1098	radiografía y la tomografía axial computarizada (TAC) de tórax fueron normales
-T10	SINTOMA 1579 1597	tumoración adrenal
-T11	SINTOMA 1442 1460	tumoración adrenal
-T12	ENFERMEDAD 479 509	quemosis conjuntival bilateral
-T13	ENFERMEDAD 1615 1650	carcinoma de la corteza suprarrenal
-T14	ENFERMEDAD 822 841	síndrome de Cushing
-T15	ENFERMEDAD 70 97	edema conjuntival bilateral
-T16	ENFERMEDAD 299 320	hipertensión arterial
-T17	ENFERMEDAD 1548 1556	quemosis
-T18	ENFERMEDAD 351 368	diabetes mellitus
-T19	ENFERMEDAD 1948 1981	metástasis pulmonares bilaterales
-T20	ENFERMEDAD 390 406	candidiasis oral
-T21	ENFERMEDAD 1189 1206	carcinoma adrenal
-T22	ENFERMEDAD 2007 2041	recidiva local a nivel suprarrenal
-T23	ENFERMEDAD 1212 1239	adenopatías locorregionales
-T24	ENFERMEDAD 2181 2218	insuficiencia respiratoria y cardíaca
-T25	ENFERMEDAD 2335 2361	insuficiencia respiratoria
+T1	ENFERMEDAD 479 509	quemosis conjuntival bilateral
+T2	ENFERMEDAD 1615 1650	carcinoma de la corteza suprarrenal
+T3	ENFERMEDAD 822 841	síndrome de Cushing
+T4	ENFERMEDAD 70 97	edema conjuntival bilateral
+T5	ENFERMEDAD 299 320	hipertensión arterial
+T6	ENFERMEDAD 1548 1556	quemosis
+T7	ENFERMEDAD 351 368	diabetes mellitus
+T8	ENFERMEDAD 1948 1981	metástasis pulmonares bilaterales
+T9	ENFERMEDAD 390 406	candidiasis oral
+T10	ENFERMEDAD 1189 1206	carcinoma adrenal
+T11	ENFERMEDAD 2007 2041	recidiva local a nivel suprarrenal
+T12	ENFERMEDAD 1212 1239	adenopatías locorregionales
+T13	ENFERMEDAD 2181 2218	insuficiencia respiratoria y cardíaca
+T14	ENFERMEDAD 2335 2361	insuficiencia respiratoria
+T15	PROCEDIMIENTO 437 462	exploración oftalmológica
+T16	PROCEDIMIENTO 767 788	exploración sistémica
+T17	PROCEDIMIENTO 847 866	análisis hormonales
+T18	PROCEDIMIENTO 554 579	exploración oftalmológica
+T19	PROCEDIMIENTO 150 171	lágrimas artificiales
+T20	PROCEDIMIENTO 174 211	pomada antibiótico-corticoidea tópica
+T21	PROCEDIMIENTO 1427 1460	exéresis de la tumoración adrenal
+T22	PROCEDIMIENTO 1471 1492	disección de la grasa
+T23	PROCEDIMIENTO 1821 1834	quimioterapia
+T24	PROCEDIMIENTO 1020 1082	radiografía y la tomografía axial computarizada (TAC) de tórax
+T25	PROCEDIMIENTO 1069 1072	TAC
+T26	PROCEDIMIENTO 1106 1119	TAC abdominal
+T27	PROCEDIMIENTO 1910 1937	TAC toraco-abdomino-pélvica
+T28	PROCEDIMIENTO 2077 2145	ciclos quimioterápicos con ciclofosfamida, adriamicina y vincristina
+T29	PROCEDIMIENTO 2279 2293	quimioterápico
+T30	PROCEDIMIENTO 1562 1572	histología
+T31	PROCEDIMIENTO 1338 1345	cirugía
+T32	SINTOMA 1579 1597	tumoración adrenal
+T33	SINTOMA 514 522	lagrimeo
+T34	SINTOMA 670 692	hinchazón generalizada
+T35	SINTOMA 725 732	astenia
+T36	SINTOMA 735 755	prurito generalizado
+T37	SINTOMA 1139 1151	masa adrenal
+T38	SINTOMA 1020 1098	radiografía y la tomografía axial computarizada (TAC) de tórax fueron normales
+T39	SINTOMA 1442 1460	tumoración adrenal
+T40	SINTOMA 2311 2322	falleciendo
+T41	SINTOMA 70 97	edema conjuntival bilateral
+T42	SINTOMA 479 499	quemosis conjuntival

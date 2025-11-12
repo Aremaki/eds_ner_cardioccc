@@ -1,23 +1,23 @@
-T1	SINTOMA 827 847	distensión abdominal
-T2	SINTOMA 242 270	dolor y distensión abdominal
-T3	SINTOMA 586 592	muerte
-T4	SINTOMA 1668 1740	concentraciones subterapéuticas de metoclopramida, ibuprofeno y diazepam
-T5	SINTOMA 1362 1396	contenido gástrico en la vía aérea
-T6	SINTOMA 434 446	inconsciente
-T7	SINTOMA 1113 1222	líquido verde oscuro (bilis y escasos restos hemáticos en forma de "posos de café"); las paredes del estómago
-T8	SINTOMA 745 786	líquido verde oscuro en orificios nasales
-T9	SINTOMA 1202 1288	paredes del estómago están adelgazadas y con áreas de aspecto hemorrágico en la mucosa
-T10	SINTOMA 463 495	vómito verde oscuro en el rostro
-T11	ENFERMEDAD 42 61	esclerosis múltiple
-T12	ENFERMEDAD 99 124	espondilitis anquilosante
-T13	ENFERMEDAD 1603 1628	aspiración broncoalveolar
-T14	ENFERMEDAD 1572 1591	esclerosis múltiple
-T15	ENFERMEDAD 875 911	dilatación del estómago y el duodeno
-T16	ENFERMEDAD 1181 1194	posos de café
-T17	PROCEDIMIENTO 1402 1453	estudio histopatológico diagnosticó, en el estómago
-T18	PROCEDIMIENTO 1634 1654	cribado toxicológico
-T19	PROCEDIMIENTO 311 316	enema
-T20	PROCEDIMIENTO 347 370	laxantes por vía rectal
-T21	PROCEDIMIENTO 623 634	reanimación
-T22	PROCEDIMIENTO 652 660	autopsia
-T23	PROCEDIMIENTO 852 868	abrir el abdomen
+T1	ENFERMEDAD 42 61	esclerosis múltiple
+T2	ENFERMEDAD 99 124	espondilitis anquilosante
+T3	ENFERMEDAD 1603 1628	aspiración broncoalveolar
+T4	ENFERMEDAD 1572 1591	esclerosis múltiple
+T5	ENFERMEDAD 875 911	dilatación del estómago y el duodeno
+T6	ENFERMEDAD 1181 1194	posos de café
+T7	PROCEDIMIENTO 1634 1654	cribado toxicológico
+T8	PROCEDIMIENTO 1402 1453	estudio histopatológico diagnosticó, en el estómago
+T9	PROCEDIMIENTO 652 660	autopsia
+T10	PROCEDIMIENTO 852 868	abrir el abdomen
+T11	PROCEDIMIENTO 311 316	enema
+T12	PROCEDIMIENTO 347 370	laxantes por vía rectal
+T13	PROCEDIMIENTO 623 634	reanimación
+T14	SINTOMA 827 847	distensión abdominal
+T15	SINTOMA 242 270	dolor y distensión abdominal
+T16	SINTOMA 434 446	inconsciente
+T17	SINTOMA 1202 1288	paredes del estómago están adelgazadas y con áreas de aspecto hemorrágico en la mucosa
+T18	SINTOMA 1362 1396	contenido gástrico en la vía aérea
+T19	SINTOMA 586 592	muerte
+T20	SINTOMA 1668 1740	concentraciones subterapéuticas de metoclopramida, ibuprofeno y diazepam
+T21	SINTOMA 463 495	vómito verde oscuro en el rostro
+T22	SINTOMA 745 786	líquido verde oscuro en orificios nasales
+T23	SINTOMA 1113 1222	líquido verde oscuro (bilis y escasos restos hemáticos en forma de "posos de café"); las paredes del estómago

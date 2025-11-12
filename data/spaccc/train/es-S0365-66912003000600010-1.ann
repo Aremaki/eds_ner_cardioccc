@@ -1,36 +1,48 @@
-T1	SINTOMA 3260 3301	áreas focales de hiper e hipopigmentación
-T2	SINTOMA 2093 2137	biomicroscopia de cámara anterior era normal
-T3	SINTOMA 165 173	cefaleas
-T4	SINTOMA 693 712	coagulación: normal
-T5	SINTOMA 527 552	descenso de las plaquetas
-T6	SINTOMA 175 194	dolor en epigastrio
-T7	SINTOMA 364 417	edema (+ + +) en ambos miembros inferiores, con fóvea
-T8	SINTOMA 1048 1077	edema de ambos discos ópticos
-T9	SINTOMA 3077 3092	edema de papila
-T10	SINTOMA 2274 2296	edema del disco óptico
-T11	SINTOMA 461 511	elevación de las transaminasas y de la bilirrubina
-T12	SINTOMA 2793 2895	fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano
-T13	SINTOMA 2649 2753	fases precoces de la angiografía fluoresceínica se observaba un retraso en el llenado de la coriocapilar
-T14	SINTOMA 647 664	hemoconcentración
-T15	SINTOMA 3099 3110	hemorragias
-T16	SINTOMA 1217 1265	hemorragias en el polo posterior de los dos ojos
-T17	SINTOMA 3491 3531	hiper e hipopigmentación donde la retina
-T18	SINTOMA 3499 3515	hipopigmentación
-T19	SINTOMA 3136 3166	línea de demarcación en el ojo
-T20	SINTOMA 933 951	mal estado general
-T21	SINTOMA 2498 2580	ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula
-T22	SINTOMA 1680 1688	oliguria
-T23	SINTOMA 895 906	proteinuria
-T24	SINTOMA 197 211	visión borrosa
-T25	ENFERMEDAD 1082 1146	desprendimientos serosos de la retina, afectando a ambas máculas
-T26	ENFERMEDAD 1217 1265	hemorragias en el polo posterior de los dos ojos
-T27	ENFERMEDAD 1268 1318	estrechamientos focales de las arterias retinianas
-T28	ENFERMEDAD 2194 2228	desprendimientos serosos maculares
-T29	ENFERMEDAD 2274 2296	edema del disco óptico
-T30	ENFERMEDAD 2302 2339	desprendimiento exudativo peripapilar
-T31	ENFERMEDAD 2347 2393	ojo derecho existía un desprendimiento bulloso
-T32	ENFERMEDAD 2596 2618	desprendimiento seroso
-T33	ENFERMEDAD 2936 2958	desprendimiento seroso
-T34	ENFERMEDAD 3077 3092	edema de papila
-T35	ENFERMEDAD 1048 1077	edema de ambos discos ópticos
-T36	ENFERMEDAD 197 211	visión borrosa
+T1	ENFERMEDAD 1082 1146	desprendimientos serosos de la retina, afectando a ambas máculas
+T2	ENFERMEDAD 1217 1265	hemorragias en el polo posterior de los dos ojos
+T3	ENFERMEDAD 1268 1318	estrechamientos focales de las arterias retinianas
+T4	ENFERMEDAD 2194 2228	desprendimientos serosos maculares
+T5	ENFERMEDAD 2274 2296	edema del disco óptico
+T6	ENFERMEDAD 2302 2339	desprendimiento exudativo peripapilar
+T7	ENFERMEDAD 2347 2393	ojo derecho existía un desprendimiento bulloso
+T8	ENFERMEDAD 2596 2618	desprendimiento seroso
+T9	ENFERMEDAD 2936 2958	desprendimiento seroso
+T10	ENFERMEDAD 3077 3092	edema de papila
+T11	ENFERMEDAD 1048 1077	edema de ambos discos ópticos
+T12	ENFERMEDAD 197 211	visión borrosa
+T13	PROCEDIMIENTO 2145 2157	fondo de ojo
+T14	PROCEDIMIENTO 3408 3430	examen de fondo de ojo
+T15	PROCEDIMIENTO 308 326	exploración física
+T16	PROCEDIMIENTO 1018 1031	oftalmoscopia
+T17	PROCEDIMIENTO 1391 1414	perfusión con Labetalol
+T18	PROCEDIMIENTO 1588 1595	cesárea
+T19	PROCEDIMIENTO 1851 1879	tratamiento antihipertensivo
+T20	PROCEDIMIENTO 2093 2126	biomicroscopia de cámara anterior
+T21	PROCEDIMIENTO 2670 2696	angiografía fluoresceínica
+T22	PROCEDIMIENTO 682 704	estudio de coagulación
+T23	PROCEDIMIENTO 1653 1660	cesárea
+T24	PROCEDIMIENTO 982 1010	determinar la agudeza visual
+T25	SINTOMA 165 173	cefaleas
+T26	SINTOMA 175 194	dolor en epigastrio
+T27	SINTOMA 197 211	visión borrosa
+T28	SINTOMA 364 417	edema (+ + +) en ambos miembros inferiores, con fóvea
+T29	SINTOMA 461 511	elevación de las transaminasas y de la bilirrubina
+T30	SINTOMA 527 552	descenso de las plaquetas
+T31	SINTOMA 895 906	proteinuria
+T32	SINTOMA 1048 1077	edema de ambos discos ópticos
+T33	SINTOMA 1680 1688	oliguria
+T34	SINTOMA 3491 3531	hiper e hipopigmentación donde la retina
+T35	SINTOMA 693 712	coagulación: normal
+T36	SINTOMA 3077 3092	edema de papila
+T37	SINTOMA 647 664	hemoconcentración
+T38	SINTOMA 933 951	mal estado general
+T39	SINTOMA 2093 2137	biomicroscopia de cámara anterior era normal
+T40	SINTOMA 3099 3110	hemorragias
+T41	SINTOMA 2498 2580	ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula
+T42	SINTOMA 2274 2296	edema del disco óptico
+T43	SINTOMA 3136 3166	línea de demarcación en el ojo
+T44	SINTOMA 1217 1265	hemorragias en el polo posterior de los dos ojos
+T45	SINTOMA 2649 2753	fases precoces de la angiografía fluoresceínica se observaba un retraso en el llenado de la coriocapilar
+T46	SINTOMA 2793 2895	fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano
+T47	SINTOMA 3260 3301	áreas focales de hiper e hipopigmentación
+T48	SINTOMA 3499 3515	hipopigmentación

@@ -1,7 +1,14 @@
-T1	SINTOMA 427 445	consolidación ósea
-T2	ENFERMEDAD 31 44	trauma facial
-T3	ENFERMEDAD 393 422	quiste radicular inflamatorio
-T4	ENFERMEDAD 111 141	fractura del ángulo desplazada
-T5	ENFERMEDAD 86 92	lesión
-T6	ENFERMEDAD 173 179	lesión
-T7	ENFERMEDAD 261 269	fractura
+T1	ENFERMEDAD 31 44	trauma facial
+T2	ENFERMEDAD 393 422	quiste radicular inflamatorio
+T3	ENFERMEDAD 111 141	fractura del ángulo desplazada
+T4	ENFERMEDAD 86 92	lesión
+T5	ENFERMEDAD 173 179	lesión
+T6	ENFERMEDAD 261 269	fractura
+T7	PROCEDIMIENTO 339 381	estudio histológico del material enucleado
+T8	PROCEDIMIENTO 181 215	extracción de las raíces dentarias
+T9	PROCEDIMIENTO 49 69	estudio radiográfico
+T10	PROCEDIMIENTO 231 333	reducción-osteosíntesis de la fractura con alambre intraóseo y mini placa con tornillos monocorticales
+T11	PROCEDIMIENTO 155 166	enucleación
+T12	PROCEDIMIENTO 363 381	material enucleado
+T13	PROCEDIMIENTO 460 477	radiográficamente
+T14	SINTOMA 427 445	consolidación ósea

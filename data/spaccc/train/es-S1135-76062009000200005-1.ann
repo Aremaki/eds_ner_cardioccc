@@ -1,18 +1,39 @@
-T1	SINTOMA 365 395	aumento de ruidos intestinales
-T2	SINTOMA 1534 1567	colección de líquido serohemático
-T3	SINTOMA 811 816	débil
-T4	SINTOMA 1713 1759	duodeno presenta paredes de aspecto conservado
-T5	SINTOMA 1609 1654	estómago presenta escasos restos alimenticios
-T6	SINTOMA 819 823	frío
-T7	SINTOMA 318 336	molestia abdominal
-T8	SINTOMA 674 680	nausea
-T9	SINTOMA 1693 1708	restos biliosos
-T10	SINTOMA 703 751	vómito primero alimenticios y finalmente mucosos
-T11	SINTOMA 1200 1225	palidez de piel y mucosas
-T12	SINTOMA 237 243	fiebre
-T13	SINTOMA 421 428	vómitos
-T14	SINTOMA 588 603	dolor abdominal
-T15	SINTOMA 1115 1131	normoconstituido
-T16	SINTOMA 398 416	sensación nauseosa
-T17	SINTOMA 556 561	óbito
-T18	SINTOMA 2718 2724	muerte
+T1	ENFERMEDAD 2747 2764	shock hemorrágico
+T2	ENFERMEDAD 1512 1567	cavidad abdominal una colección de líquido serohemático
+T3	ENFERMEDAD 2297 2343	anomalía en el cierre del mesenterio del ciego
+T4	ENFERMEDAD 2778 2831	obstrucción mecánica y necrosis del intestino delgado
+T5	ENFERMEDAD 1171 1179	obesidad
+T6	ENFERMEDAD 1182 1194	malnutrición
+T7	ENFERMEDAD 2836 2926	hernia transmesocólica con herniación interna del intestino delgado y del intestino grueso
+T8	ENFERMEDAD 206 232	catarro de vías superiores
+T9	ENFERMEDAD 1439 1463	anomalías del desarrollo
+T10	ENFERMEDAD 2009 2044	íleon se halla netamente estrechado
+T11	ENFERMEDAD 2098 2182	intestino delgado con cambios parietales, se encuentra contenido de aspecto hemático
+T12	ENFERMEDAD 990 1016	parada cardiorrespiratoria
+T13	ENFERMEDAD 2747 2831	shock hemorrágico secundario a obstrucción mecánica y necrosis del intestino delgado
+T14	ENFERMEDAD 1677 1690	posos de café
+T15	PROCEDIMIENTO 1070 1087	autopsia judicial
+T16	PROCEDIMIENTO 1484 1492	autopsia
+T17	PROCEDIMIENTO 1499 1529	examen de la cavidad abdominal
+T18	PROCEDIMIENTO 1242 1259	autopsia completa
+T19	PROCEDIMIENTO 1264 1323	apertura de las tres cavidades y el plano cervical anterior
+T20	PROCEDIMIENTO 1026 1043	maniobras de RCPA
+T21	PROCEDIMIENTO 516 528	dieta blanda
+T22	SINTOMA 1200 1225	palidez de piel y mucosas
+T23	SINTOMA 237 243	fiebre
+T24	SINTOMA 318 336	molestia abdominal
+T25	SINTOMA 365 395	aumento de ruidos intestinales
+T26	SINTOMA 421 428	vómitos
+T27	SINTOMA 588 603	dolor abdominal
+T28	SINTOMA 674 680	nausea
+T29	SINTOMA 703 751	vómito primero alimenticios y finalmente mucosos
+T30	SINTOMA 811 816	débil
+T31	SINTOMA 1115 1131	normoconstituido
+T32	SINTOMA 398 416	sensación nauseosa
+T33	SINTOMA 819 823	frío
+T34	SINTOMA 1609 1654	estómago presenta escasos restos alimenticios
+T35	SINTOMA 1713 1759	duodeno presenta paredes de aspecto conservado
+T36	SINTOMA 1534 1567	colección de líquido serohemático
+T37	SINTOMA 1693 1708	restos biliosos
+T38	SINTOMA 556 561	óbito
+T39	SINTOMA 2718 2724	muerte

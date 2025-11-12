@@ -1,39 +1,39 @@
-T1	SINTOMA 1091 1101	sudoración
-T2	SINTOMA 795 800	dolor
-T3	SINTOMA 989 994	dolor
-T4	SINTOMA 1735 1740	dolor
-T5	SINTOMA 1327 1421	Clic" de apertura en articulación temporomandibular derecha y crepitación en el lado izquierdo
-T6	SINTOMA 1465 1500	desviación de la línea media dental
-T7	SINTOMA 107 131	dolor en área mandibular
-T8	SINTOMA 848 970	dolor en región submandibular bilateral, de tres días de evolución, que ahora se irradia a zona precordial y a la garganta
-T9	SINTOMA 1162 1204	dolor ha sido resistente a los analgésicos
-T10	SINTOMA 2101 2117	dolor mandibular
-T11	SINTOMA 1505 1541	función mandibular estaba conservada
-T12	SINTOMA 1423 1462	Oclusalmente presentaba mordida cruzada
-T13	SINTOMA 1062 1088	sensación de falta el aire
-T14	SINTOMA 2164 2233	signos de crecimiento y sobrecarga sistólica del ventrículo izquierdo
-T15	SINTOMA 2235 2274	T negativa en II, III, aVF y de V4 a V6
-T16	ENFERMEDAD 250 269	artrosis mandibular
-T17	ENFERMEDAD 646 667	hipertensión arterial
-T18	ENFERMEDAD 688 707	hipercolesterolemia
-T19	ENFERMEDAD 1626 1686	artrosis leve en la articulación temporomandibular izquierda
-T20	ENFERMEDAD 1828 1849	cardiopatía isquémica
-T21	ENFERMEDAD 2430 2467	lesión severa en dos vasos coronarios
-T22	ENFERMEDAD 2557 2572	angor inestable
-T23	ENFERMEDAD 2590 2627	lesión severa de dos vasos coronarios
-T24	ENFERMEDAD 2630 2663	doble lesión aórtica degenerativa
-T25	ENFERMEDAD 454 484	desórdenes temporomandibulares
-T26	ENFERMEDAD 486 489	DTM
-T27	PROCEDIMIENTO 1279 1309	examen estomatológico completo
-T28	PROCEDIMIENTO 1582 1599	ortopantomografía
-T29	PROCEDIMIENTO 167 185	exploración médica
-T30	PROCEDIMIENTO 2125 2143	electrocardiograma
-T31	PROCEDIMIENTO 2145 2148	ECG
-T32	PROCEDIMIENTO 2334 2352	análisis de sangre
-T33	PROCEDIMIENTO 2354 2374	radiografía de tórax
-T34	PROCEDIMIENTO 2376 2390	ecocardiograma
-T35	PROCEDIMIENTO 2393 2404	cateterismo
-T36	PROCEDIMIENTO 2484 2496	angioplastia
-T37	PROCEDIMIENTO 287 298	analgésicos
-T38	PROCEDIMIENTO 539 556	ortopantomografía
-T39	PROCEDIMIENTO 733 742	anamnesis
+T1	ENFERMEDAD 250 269	artrosis mandibular
+T2	ENFERMEDAD 646 667	hipertensión arterial
+T3	ENFERMEDAD 688 707	hipercolesterolemia
+T4	ENFERMEDAD 1626 1686	artrosis leve en la articulación temporomandibular izquierda
+T5	ENFERMEDAD 1828 1849	cardiopatía isquémica
+T6	ENFERMEDAD 2430 2467	lesión severa en dos vasos coronarios
+T7	ENFERMEDAD 2557 2572	angor inestable
+T8	ENFERMEDAD 2590 2627	lesión severa de dos vasos coronarios
+T9	ENFERMEDAD 2630 2663	doble lesión aórtica degenerativa
+T10	ENFERMEDAD 454 484	desórdenes temporomandibulares
+T11	ENFERMEDAD 486 489	DTM
+T12	PROCEDIMIENTO 167 185	exploración médica
+T13	PROCEDIMIENTO 539 556	ortopantomografía
+T14	PROCEDIMIENTO 1279 1309	examen estomatológico completo
+T15	PROCEDIMIENTO 1582 1599	ortopantomografía
+T16	PROCEDIMIENTO 2125 2143	electrocardiograma
+T17	PROCEDIMIENTO 2145 2148	ECG
+T18	PROCEDIMIENTO 2334 2352	análisis de sangre
+T19	PROCEDIMIENTO 2354 2374	radiografía de tórax
+T20	PROCEDIMIENTO 2376 2390	ecocardiograma
+T21	PROCEDIMIENTO 2393 2404	cateterismo
+T22	PROCEDIMIENTO 287 298	analgésicos
+T23	PROCEDIMIENTO 733 742	anamnesis
+T24	PROCEDIMIENTO 2484 2496	angioplastia
+T25	SINTOMA 107 131	dolor en área mandibular
+T26	SINTOMA 848 970	dolor en región submandibular bilateral, de tres días de evolución, que ahora se irradia a zona precordial y a la garganta
+T27	SINTOMA 1062 1088	sensación de falta el aire
+T28	SINTOMA 1091 1101	sudoración
+T29	SINTOMA 1162 1204	dolor ha sido resistente a los analgésicos
+T30	SINTOMA 1327 1421	Clic" de apertura en articulación temporomandibular derecha y crepitación en el lado izquierdo
+T31	SINTOMA 1423 1462	Oclusalmente presentaba mordida cruzada
+T32	SINTOMA 1465 1500	desviación de la línea media dental
+T33	SINTOMA 2101 2117	dolor mandibular
+T34	SINTOMA 2164 2233	signos de crecimiento y sobrecarga sistólica del ventrículo izquierdo
+T35	SINTOMA 2235 2274	T negativa en II, III, aVF y de V4 a V6
+T36	SINTOMA 795 800	dolor
+T37	SINTOMA 989 994	dolor
+T38	SINTOMA 1735 1740	dolor
+T39	SINTOMA 1505 1541	función mandibular estaba conservada

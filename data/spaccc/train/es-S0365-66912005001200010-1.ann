@@ -1,28 +1,40 @@
-T1	SINTOMA 359 437	agudeza visual era de cuenta dedos en el ojo derecho (OD) y amaurosis en el OI
-T2	SINTOMA 988 1032	aumento del diámetro del globo ocular del OD
-T3	SINTOMA 2076 2111	calcificaciones en el filete óptico
-T4	SINTOMA 21 28	ceguera
-T5	SINTOMA 165 175	hipoacusia
-T6	SINTOMA 916 941	masa en temporal inferior
-T7	SINTOMA 453 471	nistagmus pendular
-T8	SINTOMA 568 588	OI seclusión pupilar
-T9	SINTOMA 1664 1721	tumoración grisácea de consistencia blanda y NO engrosado
-T10	ENFERMEDAD 21 28	ceguera
-T11	ENFERMEDAD 115 132	tumor intraocular
-T12	ENFERMEDAD 165 175	hipoacusia
-T13	ENFERMEDAD 209 226	neurofibromatosis
-T14	ENFERMEDAD 250 273	cataratas en ambos ojos
-T15	ENFERMEDAD 276 284	glaucoma
-T16	ENFERMEDAD 419 428	amaurosis
-T17	ENFERMEDAD 453 471	nistagmus pendular
-T18	ENFERMEDAD 529 545	coloboma de iris
-T19	ENFERMEDAD 571 588	seclusión pupilar
-T20	ENFERMEDAD 753 787	coloboma de retina y nervio óptico
-T21	ENFERMEDAD 868 893	desprendimiento de retina
-T22	ENFERMEDAD 1367 1413	lesión extraocular a la salida del NO quística
-T23	ENFERMEDAD 1493 1519	tumor intraocular y del NO
-T24	ENFERMEDAD 1283 1303	melanoma amelanótico
-T25	ENFERMEDAD 547 559	pseudofaquia
-T26	ENFERMEDAD 1139 1187	lesión polipoidea en temporal inferior del globo
-T27	ENFERMEDAD 2056 2111	cambios quísticos y calcificaciones en el filete óptico
-T28	ENFERMEDAD 594 637	ampolla de filtración de la trabeculectomia
+T1	ENFERMEDAD 21 28	ceguera
+T2	ENFERMEDAD 115 132	tumor intraocular
+T3	ENFERMEDAD 165 175	hipoacusia
+T4	ENFERMEDAD 209 226	neurofibromatosis
+T5	ENFERMEDAD 250 273	cataratas en ambos ojos
+T6	ENFERMEDAD 276 284	glaucoma
+T7	ENFERMEDAD 419 428	amaurosis
+T8	ENFERMEDAD 453 471	nistagmus pendular
+T9	ENFERMEDAD 529 545	coloboma de iris
+T10	ENFERMEDAD 571 588	seclusión pupilar
+T11	ENFERMEDAD 753 787	coloboma de retina y nervio óptico
+T12	ENFERMEDAD 868 893	desprendimiento de retina
+T13	ENFERMEDAD 1367 1413	lesión extraocular a la salida del NO quística
+T14	ENFERMEDAD 1493 1519	tumor intraocular y del NO
+T15	ENFERMEDAD 1283 1303	melanoma amelanótico
+T16	ENFERMEDAD 547 559	pseudofaquia
+T17	ENFERMEDAD 1139 1187	lesión polipoidea en temporal inferior del globo
+T18	ENFERMEDAD 2056 2111	cambios quísticos y calcificaciones en el filete óptico
+T19	ENFERMEDAD 594 637	ampolla de filtración de la trabeculectomia
+T20	PROCEDIMIENTO 235 304	intervenido de cataratas en ambos ojos y glaucoma en el ojo izquierdo
+T21	PROCEDIMIENTO 330 355	exploración oftalmológica
+T22	PROCEDIMIENTO 479 508	estudio del segmento anterior
+T23	PROCEDIMIENTO 622 637	trabeculectomia
+T24	PROCEDIMIENTO 832 851	OI, en la ecografía
+T25	PROCEDIMIENTO 961 964	RNM
+T26	PROCEDIMIENTO 1531 1578	enucleación, que precisó de orbitotomía lateral
+T27	PROCEDIMIENTO 715 727	fondo de ojo
+T28	PROCEDIMIENTO 1580 1597	Microscópicamente
+T29	PROCEDIMIENTO 1726 1751	estudio anatomopatológico
+T30	PROCEDIMIENTO 2116 2134	inmunohistoquímica
+T31	SINTOMA 988 1032	aumento del diámetro del globo ocular del OD
+T32	SINTOMA 453 471	nistagmus pendular
+T33	SINTOMA 916 941	masa en temporal inferior
+T34	SINTOMA 1664 1721	tumoración grisácea de consistencia blanda y NO engrosado
+T35	SINTOMA 165 175	hipoacusia
+T36	SINTOMA 21 28	ceguera
+T37	SINTOMA 359 437	agudeza visual era de cuenta dedos en el ojo derecho (OD) y amaurosis en el OI
+T38	SINTOMA 568 588	OI seclusión pupilar
+T39	SINTOMA 1319 1354	leve engrosamiento de las cubiertas
+T40	SINTOMA 2076 2111	calcificaciones en el filete óptico

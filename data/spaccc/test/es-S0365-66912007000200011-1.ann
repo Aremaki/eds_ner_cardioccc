@@ -1,34 +1,35 @@
-T1	SINTOMA 1395 1427	agudeza visual permanece estable
-T2	SINTOMA 792 873	angiografía con verde de indocianina (AVI) no se aprecian alteraciones de interés
-T3	SINTOMA 1843 1938	aumento de la reflectividad posterior a la altura del complejo epitelio pigmentado-coriocapilar
-T4	SINTOMA 1736 1759	depresión foveal normal
-T5	SINTOMA 589 622	drusas duras en el polo posterior
-T6	SINTOMA 1111 1187	electrooculograma siendo su resultado dentro de los límites de la normalidad
-T7	SINTOMA 916 1021	estructura cuneiforme de reflectividad media-alta entre el epitelio pigmentado y la retina neurosensorial
-T8	SINTOMA 678 706	hiperfluorescencia en anillo
-T9	SINTOMA 1643 1678	hipofluorescencia intensa mantenida
-T10	SINTOMA 1779 1806	masa de reflectividad media
-T11	SINTOMA 227 236	ojo único
-T12	SINTOMA 425 455	variación de su agudeza visual
-T13	ENFERMEDAD 1221 1225	DFVA
-T14	ENFERMEDAD 274 321	ptisis bulbi debido a un antecedente traumático
-T15	ENFERMEDAD 1029 1072	desprendimiento de la retina neurosensorial
-T16	ENFERMEDAD 538 584	lesión viteliforme sobreelevada en área foveal
-T17	ENFERMEDAD 1086 1092	lesión
-T18	ENFERMEDAD 1525 1531	lesión
-T19	ENFERMEDAD 1553 1599	lesión redondeada anaranjada en el área foveal
-T20	PROCEDIMIENTO 1111 1128	electrooculograma
-T21	PROCEDIMIENTO 1495 1507	fondo de ojo
-T22	PROCEDIMIENTO 1613 1616	AGF
-T23	PROCEDIMIENTO 1628 1631	AVI
-T24	PROCEDIMIENTO 1697 1709	angiográfico
-T25	PROCEDIMIENTO 1717 1720	OCT
-T26	PROCEDIMIENTO 499 502	TFD
-T27	PROCEDIMIENTO 514 526	funduscópica
-T28	PROCEDIMIENTO 61 97	terapia fotodinámica con Verteporfin
-T29	PROCEDIMIENTO 630 656	angiografía fluoresceínica
-T30	PROCEDIMIENTO 658 661	AGF
-T31	PROCEDIMIENTO 792 828	angiografía con verde de indocianina
-T32	PROCEDIMIENTO 830 833	AVI
-T33	PROCEDIMIENTO 881 884	OCT
-T34	PROCEDIMIENTO 99 102	TFD
+T1	ENFERMEDAD 1221 1225	DFVA
+T2	ENFERMEDAD 274 321	ptisis bulbi debido a un antecedente traumático
+T3	ENFERMEDAD 1029 1072	desprendimiento de la retina neurosensorial
+T4	ENFERMEDAD 538 584	lesión viteliforme sobreelevada en área foveal
+T5	ENFERMEDAD 1086 1092	lesión
+T6	ENFERMEDAD 1525 1531	lesión
+T7	ENFERMEDAD 1553 1599	lesión redondeada anaranjada en el área foveal
+T8	PROCEDIMIENTO 61 97	terapia fotodinámica con Verteporfin
+T9	PROCEDIMIENTO 1495 1507	fondo de ojo
+T10	PROCEDIMIENTO 99 102	TFD
+T11	PROCEDIMIENTO 1613 1616	AGF
+T12	PROCEDIMIENTO 1628 1631	AVI
+T13	PROCEDIMIENTO 1717 1720	OCT
+T14	PROCEDIMIENTO 499 502	TFD
+T15	PROCEDIMIENTO 514 526	funduscópica
+T16	PROCEDIMIENTO 630 656	angiografía fluoresceínica
+T17	PROCEDIMIENTO 658 661	AGF
+T18	PROCEDIMIENTO 792 828	angiografía con verde de indocianina
+T19	PROCEDIMIENTO 830 833	AVI
+T20	PROCEDIMIENTO 881 884	OCT
+T21	PROCEDIMIENTO 1111 1128	electrooculograma
+T22	PROCEDIMIENTO 1697 1709	angiográfico
+T23	SINTOMA 227 236	ojo único
+T24	SINTOMA 1736 1759	depresión foveal normal
+T25	SINTOMA 1843 1938	aumento de la reflectividad posterior a la altura del complejo epitelio pigmentado-coriocapilar
+T26	SINTOMA 916 1021	estructura cuneiforme de reflectividad media-alta entre el epitelio pigmentado y la retina neurosensorial
+T27	SINTOMA 1779 1806	masa de reflectividad media
+T28	SINTOMA 1395 1427	agudeza visual permanece estable
+T29	SINTOMA 425 455	variación de su agudeza visual
+T30	SINTOMA 589 622	drusas duras en el polo posterior
+T31	SINTOMA 678 706	hiperfluorescencia en anillo
+T32	SINTOMA 792 873	angiografía con verde de indocianina (AVI) no se aprecian alteraciones de interés
+T33	SINTOMA 1111 1187	electrooculograma siendo su resultado dentro de los límites de la normalidad
+T34	SINTOMA 1643 1678	hipofluorescencia intensa mantenida
+T35	SINTOMA 299 321	antecedente traumático

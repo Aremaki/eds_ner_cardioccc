@@ -1,12 +1,19 @@
-T1	SINTOMA 475 501	adecuada ganancia ponderal
-T2	SINTOMA 745 805	cifra absoluta de inmunoglobulinas y de subclases descendida
-T3	SINTOMA 418 437	cuadro respiratorio
-T4	SINTOMA 965 1011	descenso porcentual y absoluto de linfocitos B
-T5	SINTOMA 1032 1067	predominio relativo de linfocitos T
-T6	SINTOMA 354 364	fallecidos
-T7	SINTOMA 400 410	fallecidos
-T8	SINTOMA 656 666	fallecidos
-T9	SINTOMA 265 270	sanos
-T10	ENFERMEDAD 521 532	infecciones
-T11	ENFERMEDAD 1099 1132	inmunodeficiencia de tipo humoral
-T12	ENFERMEDAD 1146 1166	enfermedad de Bruton
+T1	ENFERMEDAD 521 532	infecciones
+T2	ENFERMEDAD 1099 1132	inmunodeficiencia de tipo humoral
+T3	ENFERMEDAD 1146 1166	enfermedad de Bruton
+T4	PROCEDIMIENTO 713 732	analítica sanguínea
+T5	PROCEDIMIENTO 1397 1439	tratamiento sustitutivo con gammaglobulina
+T6	PROCEDIMIENTO 1281 1329	vacunación completa (incluyendo antineumocócica)
+T7	PROCEDIMIENTO 882 949	citometría de flujo para el estudio de subpoblaciones linfocitarias
+T8	PROCEDIMIENTO 1188 1204	estudio genético
+T9	PROCEDIMIENTO 745 794	cifra absoluta de inmunoglobulinas y de subclases
+T10	PROCEDIMIENTO 73 81	vacunado
+T11	SINTOMA 965 1011	descenso porcentual y absoluto de linfocitos B
+T12	SINTOMA 745 805	cifra absoluta de inmunoglobulinas y de subclases descendida
+T13	SINTOMA 1032 1067	predominio relativo de linfocitos T
+T14	SINTOMA 475 501	adecuada ganancia ponderal
+T15	SINTOMA 418 437	cuadro respiratorio
+T16	SINTOMA 354 364	fallecidos
+T17	SINTOMA 400 410	fallecidos
+T18	SINTOMA 656 666	fallecidos
+T19	SINTOMA 265 270	sanos

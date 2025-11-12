@@ -1,20 +1,35 @@
-T1	SINTOMA 1856 1863	estable
-T2	SINTOMA 405 421	microhemorragias
-T3	SINTOMA 521 541	signos inflamatorios
-T4	SINTOMA 986 1063	bloqueo de la fluorescencia desde fases precoces y durante todo el angiograma
-T5	SINTOMA 636 693	bloqueo de la fluorescencia muy precoz en todos los focos
-T6	SINTOMA 360 403	desprendimiento neurosensorial perilesional
-T7	SINTOMA 1498 1583	estudio de HLA (B7 y DR2: para PHOS y AMPPE, A29 para Birdshot), que resultó negativo
-T8	SINTOMA 1608 1752	estudio radiológico de tórax para descartar una tuberculosis y serología para descartar sífilis y borreliosis, que fue en todos los casos normal
-T9	SINTOMA 424 438	exudación dura
-T10	SINTOMA 218 293	focos blanquecinos redondeados dispersos en el polo posterior de ambos ojos
-T11	SINTOMA 99 122	metamorfopsias en su OD
-T12	SINTOMA 891 922	pequeña zona de bloqueo central
-T13	ENFERMEDAD 99 113	metamorfopsias
-T14	ENFERMEDAD 1301 1305	NVSR
-T15	ENFERMEDAD 1105 1109	NVSR
-T16	ENFERMEDAD 1656 1668	tuberculosis
-T17	ENFERMEDAD 1696 1703	sífilis
-T18	ENFERMEDAD 1706 1717	borreliosis
-T19	ENFERMEDAD 853 857	NVSR
-T20	ENFERMEDAD 480 501	membrana subretiniana
+T1	ENFERMEDAD 99 113	metamorfopsias
+T2	ENFERMEDAD 1301 1305	NVSR
+T3	ENFERMEDAD 1105 1109	NVSR
+T4	ENFERMEDAD 1656 1668	tuberculosis
+T5	ENFERMEDAD 1696 1703	sífilis
+T6	ENFERMEDAD 1706 1717	borreliosis
+T7	ENFERMEDAD 853 857	NVSR
+T8	ENFERMEDAD 480 501	membrana subretiniana
+T9	PROCEDIMIENTO 175 199	exploración funduscópica
+T10	PROCEDIMIENTO 585 588	AGF
+T11	PROCEDIMIENTO 590 618	angiografía con fluoresceína
+T12	PROCEDIMIENTO 930 933	AVI
+T13	PROCEDIMIENTO 935 968	angiografía con indocianina verde
+T14	PROCEDIMIENTO 1320 1323	AGF
+T15	PROCEDIMIENTO 1335 1338	AVI
+T16	PROCEDIMIENTO 1766 1793	tratamiento con corticoides
+T17	PROCEDIMIENTO 1399 1411	fondo de ojo
+T18	PROCEDIMIENTO 1608 1636	estudio radiológico de tórax
+T19	PROCEDIMIENTO 1427 1453	estudio sanguíneo completo
+T20	PROCEDIMIENTO 1671 1680	serología
+T21	PROCEDIMIENTO 1053 1063	angiograma
+T22	PROCEDIMIENTO 1466 1476	bioquímica
+T23	SINTOMA 405 421	microhemorragias
+T24	SINTOMA 521 541	signos inflamatorios
+T25	SINTOMA 218 293	focos blanquecinos redondeados dispersos en el polo posterior de ambos ojos
+T26	SINTOMA 360 403	desprendimiento neurosensorial perilesional
+T27	SINTOMA 424 438	exudación dura
+T28	SINTOMA 1856 1863	estable
+T29	SINTOMA 99 122	metamorfopsias en su OD
+T30	SINTOMA 636 693	bloqueo de la fluorescencia muy precoz en todos los focos
+T31	SINTOMA 891 922	pequeña zona de bloqueo central
+T32	SINTOMA 986 1063	bloqueo de la fluorescencia desde fases precoces y durante todo el angiograma
+T33	SINTOMA 1126 1267	en tiempos precoces un punto caliente en el seno de una placa hipofluorescente que en fases tardías originaba una hiperfluorescencia en placa
+T34	SINTOMA 1498 1583	estudio de HLA (B7 y DR2: para PHOS y AMPPE, A29 para Birdshot), que resultó negativo
+T35	SINTOMA 1608 1752	estudio radiológico de tórax para descartar una tuberculosis y serología para descartar sífilis y borreliosis, que fue en todos los casos normal

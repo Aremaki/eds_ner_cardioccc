@@ -1,17 +1,27 @@
-T1	SINTOMA 886 910	abdomen sin alteraciones
-T2	SINTOMA 1908 1936	buenas condiciones generales
-T3	SINTOMA 1757 1798	cultivo de secreción fue Escherichia coli
-T4	SINTOMA 687 692	dolor
-T5	SINTOMA 530 624	dolor abdominal en el hipogastrio, de moderada intensidad y tipo opresivo, irradiado al glande
-T6	SINTOMA 1453 1497	falta de vascularidad hasta la base del pene
-T7	SINTOMA 811 817	fiebre
-T8	SINTOMA 958 1003	secreción purulenta a través de meato uretral
-T9	ENFERMEDAD 1566 1641	necrosis isquémica distal del glande y prepucio asociada con microtrombosis
-T10	ENFERMEDAD 55 82	diabetes mellitus de tipo 2
-T11	ENFERMEDAD 912 955	pene con presencia de necrosis en el glande
-T12	ENFERMEDAD 433 459	descompensación metabólica
-T13	ENFERMEDAD 958 1003	secreción purulenta a través de meato uretral
-T14	ENFERMEDAD 120 151	hipertensión arterial sistémica
-T15	ENFERMEDAD 1023 1080	necrosis en el primero y el segundo ortejos de ambos pies
-T16	ENFERMEDAD 197 219	insuficiencia cardíaca
-T17	ENFERMEDAD 265 292	insuficiencia renal crónica
+T1	ENFERMEDAD 1566 1641	necrosis isquémica distal del glande y prepucio asociada con microtrombosis
+T2	ENFERMEDAD 55 82	diabetes mellitus de tipo 2
+T3	ENFERMEDAD 912 955	pene con presencia de necrosis en el glande
+T4	ENFERMEDAD 433 459	descompensación metabólica
+T5	ENFERMEDAD 958 1003	secreción purulenta a través de meato uretral
+T6	ENFERMEDAD 120 151	hipertensión arterial sistémica
+T7	ENFERMEDAD 1023 1080	necrosis en el primero y el segundo ortejos de ambos pies
+T8	ENFERMEDAD 197 219	insuficiencia cardíaca
+T9	ENFERMEDAD 265 292	insuficiencia renal crónica
+T10	PROCEDIMIENTO 852 870	exploración física
+T11	PROCEDIMIENTO 1363 1373	falectomía
+T12	PROCEDIMIENTO 1819 1837	antibioticoterapia
+T13	PROCEDIMIENTO 467 502	se le colocó una sonda transuretral
+T14	PROCEDIMIENTO 1507 1535	se realizó un meato perineal
+T15	PROCEDIMIENTO 335 354	diálisis peritoneal
+T16	PROCEDIMIENTO 1757 1777	cultivo de secreción
+T17	PROCEDIMIENTO 1086 1109	exámenes de laboratorio
+T18	PROCEDIMIENTO 1680 1689	resección
+T19	PROCEDIMIENTO 1551 1560	patología
+T20	SINTOMA 530 624	dolor abdominal en el hipogastrio, de moderada intensidad y tipo opresivo, irradiado al glande
+T21	SINTOMA 811 817	fiebre
+T22	SINTOMA 1908 1936	buenas condiciones generales
+T23	SINTOMA 687 692	dolor
+T24	SINTOMA 1757 1798	cultivo de secreción fue Escherichia coli
+T25	SINTOMA 886 910	abdomen sin alteraciones
+T26	SINTOMA 1453 1497	falta de vascularidad hasta la base del pene
+T27	SINTOMA 958 1003	secreción purulenta a través de meato uretral

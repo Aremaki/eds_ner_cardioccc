@@ -1,17 +1,53 @@
-T1	SINTOMA 2500 2516	afectación renal
-T2	SINTOMA 2794 2810	afectación renal
-T3	SINTOMA 1071 1128	extremidades inferiores, asociadas nuevamente a petequias
-T4	SINTOMA 2858 2882	función renal conservada
-T5	SINTOMA 1228 1246	hipocomplementemia
-T6	SINTOMA 1364 1395	movilidad restringida IgM kappa
-T7	SINTOMA 515 559	negativos los anticuerpos antifosfolipídicos
-T8	SINTOMA 1052 1094	parestesias en las extremidades inferiores
-T9	SINTOMA 1268 1319	proteinograma con débil banda anómala en zona gamma
-T10	SINTOMA 1551 1562	proteinuria
-T11	SINTOMA 2231 2254	proteinuria persistente
-T12	SINTOMA 2823 2843	proteinuria residual
-T13	SINTOMA 165 214	púrpura palpable en ambas extremidades inferiores
-T14	SINTOMA 612 659	púrpura palpable en las extremidades inferiores
-T15	SINTOMA 393 489	serologías para virus hepatotropos y virus de la inmunodeficiencia humana (VIH) fueron negativas
-T16	SINTOMA 124 153	tumefacción de partes blandas
-T17	SINTOMA 799 814	visceromegalias
+T1	ENFERMEDAD 39 96	alérgico al ácido acetilsalicílico (AAS) y al diclofenaco
+T2	ENFERMEDAD 165 214	púrpura palpable en ambas extremidades inferiores
+T3	ENFERMEDAD 288 304	crioglobulinemia
+T4	ENFERMEDAD 612 659	púrpura palpable en las extremidades inferiores
+T5	ENFERMEDAD 784 795	adenopatías
+T6	ENFERMEDAD 842 860	vasculitis cutánea
+T7	ENFERMEDAD 1180 1198	síndrome nefrítico
+T8	ENFERMEDAD 1894 1897	LLP
+T9	ENFERMEDAD 2018 2082	síndrome linfoproliferativo crónico de célula pequeña de línea B
+T10	ENFERMEDAD 2099 2113	LLP quiescente
+T11	ENFERMEDAD 2357 2392	glomerulonefritis crioglobulinémica
+T12	ENFERMEDAD 2467 2490	linfoma B de bajo grado
+T13	ENFERMEDAD 2511 2531	renal por el linfoma
+T14	ENFERMEDAD 2737 2764	síndrome linfoproliferativo
+T15	ENFERMEDAD 1619 1663	glomerulonefritis con patrón mesangiocapilar
+T16	ENFERMEDAD 22 37	hábitos tóxicos
+T17	ENFERMEDAD 799 814	visceromegalias
+T18	ENFERMEDAD 984 992	lesiones
+T19	ENFERMEDAD 1119 1128	petequias
+T20	PROCEDIMIENTO 244 264	estudio inmunológico
+T21	PROCEDIMIENTO 393 466	serologías para virus hepatotropos y virus de la inmunodeficiencia humana
+T22	PROCEDIMIENTO 567 585	exploración física
+T23	PROCEDIMIENTO 709 754	tomografía computarizada (TC) toracoabdominal
+T24	PROCEDIMIENTO 1321 1348	Inmunoelectroforesis sérica
+T25	PROCEDIMIENTO 1825 1878	control analítico inmunofenotipo de sangre periférica
+T26	PROCEDIMIENTO 1948 1971	aspirado de médula ósea
+T27	PROCEDIMIENTO 2178 2191	quimioterapia
+T28	PROCEDIMIENTO 2310 2323	biopsia renal
+T29	PROCEDIMIENTO 2919 2988	tratamiento con doble bloqueo del eje renina-angiotensina-aldosterona
+T30	PROCEDIMIENTO 1268 1281	proteinograma
+T31	PROCEDIMIENTO 1580 1593	biopsia renal
+T32	PROCEDIMIENTO 2629 2648	recambio plasmático
+T33	PROCEDIMIENTO 2685 2706	tratamiento anti-CD20
+T34	PROCEDIMIENTO 1522 1531	sedimento
+T35	PROCEDIMIENTO 735 737	TC
+T36	PROCEDIMIENTO 1206 1215	analítica
+T37	SINTOMA 124 153	tumefacción de partes blandas
+T38	SINTOMA 799 814	visceromegalias
+T39	SINTOMA 1052 1094	parestesias en las extremidades inferiores
+T40	SINTOMA 1071 1128	extremidades inferiores, asociadas nuevamente a petequias
+T41	SINTOMA 1228 1246	hipocomplementemia
+T42	SINTOMA 2231 2254	proteinuria persistente
+T43	SINTOMA 2823 2843	proteinuria residual
+T44	SINTOMA 515 559	negativos los anticuerpos antifosfolipídicos
+T45	SINTOMA 393 489	serologías para virus hepatotropos y virus de la inmunodeficiencia humana (VIH) fueron negativas
+T46	SINTOMA 2858 2882	función renal conservada
+T47	SINTOMA 1551 1562	proteinuria
+T48	SINTOMA 1268 1319	proteinograma con débil banda anómala en zona gamma
+T49	SINTOMA 165 214	púrpura palpable en ambas extremidades inferiores
+T50	SINTOMA 612 659	púrpura palpable en las extremidades inferiores
+T51	SINTOMA 1364 1395	movilidad restringida IgM kappa
+T52	SINTOMA 2500 2516	afectación renal
+T53	SINTOMA 2794 2810	afectación renal

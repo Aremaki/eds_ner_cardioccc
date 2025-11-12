@@ -1,27 +1,38 @@
-T1	SINTOMA 1712 1756	aumento del tamaño de la cabeza del páncreas
-T2	SINTOMA 251 270	buen estado general
-T3	SINTOMA 137 146	dolorosas
-T4	SINTOMA 1399 1412	epigastralgia
-T5	SINTOMA 1430 1443	epigastralgia
-T6	SINTOMA 982 992	hemorragia
-T7	SINTOMA 1529 1536	náuseas
-T8	SINTOMA 1539 1546	vómitos
-T9	SINTOMA 197 222	hinchazón de los tobillos
-T10	ENFERMEDAD 95 180	lesiones nodulares, eritemato-violáceas y dolorosas en las piernas y el dorso de pies
-T11	ENFERMEDAD 365 413	pancreatitis aguda secundaria a etilismo crónico
-T12	ENFERMEDAD 397 413	etilismo crónico
-T13	ENFERMEDAD 525 545	pancreatitis crónica
-T14	ENFERMEDAD 560 586	pseudoquistes pancreáticos
-T15	ENFERMEDAD 804 821	lesiones cutáneas
-T16	ENFERMEDAD 1126 1149	paniculitis pancreática
-T17	ENFERMEDAD 1228 1268	reagudización de su pancreatitis crónica
-T18	ENFERMEDAD 1290 1307	lesiones cutáneas
-T19	ENFERMEDAD 1762 1796	dilatación del conducto de Wirsung
-T20	ENFERMEDAD 1798 1844	destrucción parcial de la glándula pancreática
-T21	ENFERMEDAD 1846 1915	adenopatías peripancreáticas, celíacas y del ligamento gastrohepático
-T22	ENFERMEDAD 1925 1951	trombosis de la vena porta
-T23	ENFERMEDAD 2035 2058	paniculitis pancreática
-T24	ENFERMEDAD 2108 2129	patología pancreática
-T25	ENFERMEDAD 2189 2209	pequeñas adenopatías
-T26	ENFERMEDAD 2300 2339	eagudización de su pancreatitis crónica
-T27	ENFERMEDAD 2135 2170	transformación cavernomatosa portal
+T1	ENFERMEDAD 95 180	lesiones nodulares, eritemato-violáceas y dolorosas en las piernas y el dorso de pies
+T2	ENFERMEDAD 365 413	pancreatitis aguda secundaria a etilismo crónico
+T3	ENFERMEDAD 397 413	etilismo crónico
+T4	ENFERMEDAD 525 545	pancreatitis crónica
+T5	ENFERMEDAD 560 586	pseudoquistes pancreáticos
+T6	ENFERMEDAD 804 821	lesiones cutáneas
+T7	ENFERMEDAD 1126 1149	paniculitis pancreática
+T8	ENFERMEDAD 1228 1268	reagudización de su pancreatitis crónica
+T9	ENFERMEDAD 1290 1307	lesiones cutáneas
+T10	ENFERMEDAD 1762 1796	dilatación del conducto de Wirsung
+T11	ENFERMEDAD 1798 1844	destrucción parcial de la glándula pancreática
+T12	ENFERMEDAD 1846 1915	adenopatías peripancreáticas, celíacas y del ligamento gastrohepático
+T13	ENFERMEDAD 1925 1951	trombosis de la vena porta
+T14	ENFERMEDAD 2035 2058	paniculitis pancreática
+T15	ENFERMEDAD 2108 2129	patología pancreática
+T16	ENFERMEDAD 2189 2209	pequeñas adenopatías
+T17	ENFERMEDAD 2300 2339	eagudización de su pancreatitis crónica
+T18	ENFERMEDAD 2135 2170	transformación cavernomatosa portal
+T19	PROCEDIMIENTO 445 474	colangio-resonancia magnética
+T20	PROCEDIMIENTO 662 677	biopsia cutánea
+T21	PROCEDIMIENTO 726 758	antiinflamatorios no esteroideos
+T22	PROCEDIMIENTO 1366 1394	tratamiento antiinflamatorio
+T23	PROCEDIMIENTO 1657 1681	tomografía computerizada
+T24	PROCEDIMIENTO 1683 1685	TC
+T25	PROCEDIMIENTO 1966 1992	tratamiento anticoagulante
+T26	PROCEDIMIENTO 2063 2065	TC
+T27	PROCEDIMIENTO 775 789	histopatología
+T28	PROCEDIMIENTO 680 697	estudio analítico
+T29	PROCEDIMIENTO 998 1015	estudio analítico
+T30	SINTOMA 197 222	hinchazón de los tobillos
+T31	SINTOMA 1399 1412	epigastralgia
+T32	SINTOMA 1430 1443	epigastralgia
+T33	SINTOMA 1529 1536	náuseas
+T34	SINTOMA 1712 1756	aumento del tamaño de la cabeza del páncreas
+T35	SINTOMA 982 992	hemorragia
+T36	SINTOMA 251 270	buen estado general
+T37	SINTOMA 1539 1546	vómitos
+T38	SINTOMA 137 146	dolorosas

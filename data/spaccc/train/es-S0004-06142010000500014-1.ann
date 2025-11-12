@@ -1,52 +1,52 @@
-T1	SINTOMA 1315 1376	amplificación genómica (PCR) para M.tuberculosis fue negativa
-T2	SINTOMA 1737 1751	bacilo Gram(+)
-T3	SINTOMA 1189 1204	bacilos Gram(+)
-T4	SINTOMA 594 624	CEA, alfa feto y BHCG normales
-T5	SINTOMA 472 497	Cultivo de orina: estéril
-T6	SINTOMA 1442 1528	cultivo para bacterias habituales, incluidas Neiserias y Haemophilus, fueron negativos
-T7	SINTOMA 499 566	Cultivos de semen: E. coli (1o), S. Sprophiticus (2o), P. Mirabilis
-T8	SINTOMA 1381 1437	detección del antígeno de Chlamydia fue también negativa
-T9	SINTOMA 91 121	dolor progresivo del testículo
-T10	SINTOMA 334 342	dolorosa
-T11	SINTOMA 626 652	Ecografía urinaria: normal
-T12	SINTOMA 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
-T13	SINTOMA 196 202	fiebre
-T14	SINTOMA 359 370	fluctuación
-T15	SINTOMA 416 428	linfocitosis
-T16	SINTOMA 756 787	Mantoux positivo con ulceracion
-T17	SINTOMA 2120 2170	Nocardias, Micobacterias y hongos fueron negativos
-T18	SINTOMA 464 470	Piuria
-T19	SINTOMA 2019 2100	secuenciación del 16SrRNA, identificándose la cepa como Corynebacterium thomsseni
-T20	SINTOMA 168 191	sintomatología urinaria
-T21	SINTOMA 1060 1111	tinción de auramina para micobacterias fue negativa
-T22	SINTOMA 1854 1902	tinción de Ziehl Neelsen modificada fue negativa
-T23	SINTOMA 296 320	tumoración dura en teste
-T24	SINTOMA 677 698	Tumoración testicular
-T25	ENFERMEDAD 911 932	orquitis inespecífica
-T26	PROCEDIMIENTO 1060 1098	tinción de auramina para micobacterias
-T27	PROCEDIMIENTO 1130 1134	Gram
-T28	PROCEDIMIENTO 1315 1363	amplificación genómica (PCR) para M.tuberculosis
-T29	PROCEDIMIENTO 1339 1342	PCR
-T30	PROCEDIMIENTO 1381 1416	detección del antígeno de Chlamydia
-T31	PROCEDIMIENTO 1442 1475	cultivo para bacterias habituales
-T32	PROCEDIMIENTO 1592 1599	cultivo
-T33	PROCEDIMIENTO 1703 1707	Gram
-T34	PROCEDIMIENTO 1854 1889	tinción de Ziehl Neelsen modificada
-T35	PROCEDIMIENTO 1907 1932	identificación fenotípica
-T36	PROCEDIMIENTO 1993 2044	estudio genético mediante secuenciación del 16SrRNA
-T37	PROCEDIMIENTO 204 245	Tratado con distintas pautas antibióticas
-T38	PROCEDIMIENTO 2106 2153	cultivos para Nocardias, Micobacterias y hongos
-T39	PROCEDIMIENTO 265 283	exploración física
-T40	PROCEDIMIENTO 397 406	Hemograma
-T41	PROCEDIMIENTO 444 462	Sedimento de orina
-T42	PROCEDIMIENTO 472 488	Cultivo de orina
-T43	PROCEDIMIENTO 499 516	Cultivos de semen
-T44	PROCEDIMIENTO 572 592	Marcadores tumorales
-T45	PROCEDIMIENTO 626 644	Ecografía urinaria
-T46	PROCEDIMIENTO 654 674	Ecografía testicular
-T47	PROCEDIMIENTO 756 763	Mantoux
-T48	PROCEDIMIENTO 825 836	radiológica
-T49	PROCEDIMIENTO 848 868	orquiectomía radical
-T50	PROCEDIMIENTO 889 907	estudio patológico
-T51	PROCEDIMIENTO 955 968	microbiología
-T52	PROCEDIMIENTO 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
+T1	ENFERMEDAD 911 932	orquitis inespecífica
+T2	PROCEDIMIENTO 265 283	exploración física
+T3	PROCEDIMIENTO 397 406	Hemograma
+T4	PROCEDIMIENTO 472 488	Cultivo de orina
+T5	PROCEDIMIENTO 626 644	Ecografía urinaria
+T6	PROCEDIMIENTO 654 674	Ecografía testicular
+T7	PROCEDIMIENTO 848 868	orquiectomía radical
+T8	PROCEDIMIENTO 1130 1134	Gram
+T9	PROCEDIMIENTO 1703 1707	Gram
+T10	PROCEDIMIENTO 756 763	Mantoux
+T11	PROCEDIMIENTO 572 592	Marcadores tumorales
+T12	PROCEDIMIENTO 1442 1475	cultivo para bacterias habituales
+T13	PROCEDIMIENTO 1592 1599	cultivo
+T14	PROCEDIMIENTO 1993 2044	estudio genético mediante secuenciación del 16SrRNA
+T15	PROCEDIMIENTO 444 462	Sedimento de orina
+T16	PROCEDIMIENTO 1854 1889	tinción de Ziehl Neelsen modificada
+T17	PROCEDIMIENTO 2106 2153	cultivos para Nocardias, Micobacterias y hongos
+T18	PROCEDIMIENTO 204 245	Tratado con distintas pautas antibióticas
+T19	PROCEDIMIENTO 499 516	Cultivos de semen
+T20	PROCEDIMIENTO 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
+T21	PROCEDIMIENTO 1060 1098	tinción de auramina para micobacterias
+T22	PROCEDIMIENTO 1339 1342	PCR
+T23	PROCEDIMIENTO 1315 1363	amplificación genómica (PCR) para M.tuberculosis
+T24	PROCEDIMIENTO 1381 1416	detección del antígeno de Chlamydia
+T25	PROCEDIMIENTO 1907 1932	identificación fenotípica
+T26	PROCEDIMIENTO 955 968	microbiología
+T27	PROCEDIMIENTO 889 907	estudio patológico
+T28	PROCEDIMIENTO 825 836	radiológica
+T29	SINTOMA 296 320	tumoración dura en teste
+T30	SINTOMA 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
+T31	SINTOMA 91 121	dolor progresivo del testículo
+T32	SINTOMA 168 191	sintomatología urinaria
+T33	SINTOMA 196 202	fiebre
+T34	SINTOMA 464 470	Piuria
+T35	SINTOMA 472 497	Cultivo de orina: estéril
+T36	SINTOMA 499 566	Cultivos de semen: E. coli (1o), S. Sprophiticus (2o), P. Mirabilis
+T37	SINTOMA 626 652	Ecografía urinaria: normal
+T38	SINTOMA 1315 1376	amplificación genómica (PCR) para M.tuberculosis fue negativa
+T39	SINTOMA 1381 1437	detección del antígeno de Chlamydia fue también negativa
+T40	SINTOMA 756 787	Mantoux positivo con ulceracion
+T41	SINTOMA 677 698	Tumoración testicular
+T42	SINTOMA 416 428	linfocitosis
+T43	SINTOMA 594 624	CEA, alfa feto y BHCG normales
+T44	SINTOMA 2120 2170	Nocardias, Micobacterias y hongos fueron negativos
+T45	SINTOMA 1060 1111	tinción de auramina para micobacterias fue negativa
+T46	SINTOMA 1854 1902	tinción de Ziehl Neelsen modificada fue negativa
+T47	SINTOMA 2019 2100	secuenciación del 16SrRNA, identificándose la cepa como Corynebacterium thomsseni
+T48	SINTOMA 1442 1528	cultivo para bacterias habituales, incluidas Neiserias y Haemophilus, fueron negativos
+T49	SINTOMA 1189 1204	bacilos Gram(+)
+T50	SINTOMA 1737 1751	bacilo Gram(+)
+T51	SINTOMA 334 342	dolorosa
+T52	SINTOMA 359 370	fluctuación

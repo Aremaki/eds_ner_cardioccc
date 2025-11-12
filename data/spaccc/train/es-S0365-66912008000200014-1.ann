@@ -1,20 +1,33 @@
-T1	SINTOMA 589 597	ojo rojo
-T2	SINTOMA 1494 1502	sangrado
-T3	SINTOMA 276 311	actividad de protrombina disminuida
-T4	SINTOMA 619 664	agudeza visual era de la unidad en ambos ojos
-T5	SINTOMA 713 731	BUT muy disminuido
-T6	SINTOMA 489 505	ceguera nocturna
-T7	SINTOMA 755 785	manchas de Bitot en ambos ojos
-T8	SINTOMA 1854 1885	manifestaciones oftalmoscópicas
-T9	SINTOMA 830 898	punteado epitelial conjuntivo corneal en la tinción con fluoresceína
-T10	SINTOMA 559 592	sensación de cuerpo extraño y ojo
-T11	SINTOMA 733 752	xerosis conjuntival
-T12	ENFERMEDAD 1400 1446	nefrolitiasis complicada (absceso intrarrenal)
-T13	ENFERMEDAD 1426 1445	absceso intrarrenal
-T14	ENFERMEDAD 383 414	fístula urinaria postoperatoria
-T15	ENFERMEDAD 489 505	ceguera nocturna
-T16	ENFERMEDAD 104 120	obesidad mórbida
-T17	ENFERMEDAD 147 166	esteatosis hepática
-T18	ENFERMEDAD 172 193	síndrome malabsortivo
-T19	ENFERMEDAD 236 250	anemia crónica
-T20	ENFERMEDAD 733 752	xerosis conjuntival
+T1	ENFERMEDAD 1400 1446	nefrolitiasis complicada (absceso intrarrenal)
+T2	ENFERMEDAD 1426 1445	absceso intrarrenal
+T3	ENFERMEDAD 383 414	fístula urinaria postoperatoria
+T4	ENFERMEDAD 489 505	ceguera nocturna
+T5	ENFERMEDAD 104 120	obesidad mórbida
+T6	ENFERMEDAD 147 166	esteatosis hepática
+T7	ENFERMEDAD 172 193	síndrome malabsortivo
+T8	ENFERMEDAD 236 250	anemia crónica
+T9	ENFERMEDAD 733 752	xerosis conjuntival
+T10	PROCEDIMIENTO 348 378	pieloinfundibulonefrolitotomía
+T11	PROCEDIMIENTO 59 99	derivación biliopancreática de Scopinaro
+T12	PROCEDIMIENTO 1243 1263	enzimas pancreáticos
+T13	PROCEDIMIENTO 1478 1489	nefrectomía
+T14	PROCEDIMIENTO 1531 1555	concentrados de hematíes
+T15	PROCEDIMIENTO 669 700	examen con lámpara de hendidura
+T16	PROCEDIMIENTO 874 898	tinción con fluoresceína
+T17	PROCEDIMIENTO 906 922	test de Schirmer
+T18	PROCEDIMIENTO 980 999	Oftalmoscópicamente
+T19	PROCEDIMIENTO 930 939	anestesia
+T20	PROCEDIMIENTO 1870 1885	oftalmoscópicas
+T21	PROCEDIMIENTO 604 615	exploración
+T22	SINTOMA 713 731	BUT muy disminuido
+T23	SINTOMA 559 592	sensación de cuerpo extraño y ojo
+T24	SINTOMA 755 785	manchas de Bitot en ambos ojos
+T25	SINTOMA 1014 1052	moteado blanquecino en media periferia
+T26	SINTOMA 1854 1885	manifestaciones oftalmoscópicas
+T27	SINTOMA 276 311	actividad de protrombina disminuida
+T28	SINTOMA 733 752	xerosis conjuntival
+T29	SINTOMA 1494 1502	sangrado
+T30	SINTOMA 489 505	ceguera nocturna
+T31	SINTOMA 589 597	ojo rojo
+T32	SINTOMA 619 664	agudeza visual era de la unidad en ambos ojos
+T33	SINTOMA 830 898	punteado epitelial conjuntivo corneal en la tinción con fluoresceína

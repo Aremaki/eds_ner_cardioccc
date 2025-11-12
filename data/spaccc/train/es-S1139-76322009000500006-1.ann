@@ -1,19 +1,35 @@
-T1	SINTOMA 522 538	aspecto quístico
-T2	SINTOMA 1555 1574	calcemia era normal
-T3	SINTOMA 62 77	cefalea frontal
-T4	SINTOMA 249 285	exploración oftalmológica era normal
-T5	SINTOMA 1287 1309	hemianopsia bitemporal
-T6	SINTOMA 662 714	porción quística supraselar de contenido proteináceo
-T7	SINTOMA 773 829	porción sólida intraselar isointensa a la sustancia gris
-T8	SINTOMA 333 361	proceso expansivo intraselar
-T9	SINTOMA 80 88	nicturia
-T10	ENFERMEDAD 1359 1378	panhipopituitarismo
-T11	ENFERMEDAD 174 196	ginecomastia bilateral
-T12	ENFERMEDAD 1493 1500	adenoma
-T13	ENFERMEDAD 1627 1646	hiperparatiroidismo
-T14	ENFERMEDAD 1681 1709	neoplasia endocrina múltiple
-T15	ENFERMEDAD 1711 1716	MEN 1
-T16	ENFERMEDAD 928 944	craneofaringioma
-T17	ENFERMEDAD 1153 1172	adenoma hipofisario
-T18	ENFERMEDAD 1659 1666	tumores
-T19	ENFERMEDAD 1287 1309	hemianopsia bitemporal
+T1	ENFERMEDAD 1359 1378	panhipopituitarismo
+T2	ENFERMEDAD 174 196	ginecomastia bilateral
+T3	ENFERMEDAD 1493 1500	adenoma
+T4	ENFERMEDAD 1627 1646	hiperparatiroidismo
+T5	ENFERMEDAD 1681 1709	neoplasia endocrina múltiple
+T6	ENFERMEDAD 1711 1716	MEN 1
+T7	ENFERMEDAD 928 944	craneofaringioma
+T8	ENFERMEDAD 1153 1172	adenoma hipofisario
+T9	ENFERMEDAD 1659 1666	tumores
+T10	ENFERMEDAD 1287 1309	hemianopsia bitemporal
+T11	PROCEDIMIENTO 290 314	tomografía computarizada
+T12	PROCEDIMIENTO 316 318	TC
+T13	PROCEDIMIENTO 249 274	exploración oftalmológica
+T14	PROCEDIMIENTO 625 645	resonancia magnética
+T15	PROCEDIMIENTO 647 649	RM
+T16	PROCEDIMIENTO 883 892	gadolinio
+T17	PROCEDIMIENTO 1121 1140	anatomía patológica
+T18	PROCEDIMIENTO 598 620	inyección de contraste
+T19	PROCEDIMIENTO 1033 1116	por abordaje transciliar derecho se realizó una exéresis macroscópicamente completa
+T20	PROCEDIMIENTO 1507 1509	RM
+T21	PROCEDIMIENTO 1177 1195	inmunohistoquímica
+T22	PROCEDIMIENTO 117 128	exploración
+T23	PROCEDIMIENTO 958 980	tratamiento quirúrgico
+T24	PROCEDIMIENTO 901 924	diagnóstico radiológico
+T25	PROCEDIMIENTO 1248 1260	intervención
+T26	PROCEDIMIENTO 1447 1459	intervención
+T27	SINTOMA 333 361	proceso expansivo intraselar
+T28	SINTOMA 1287 1309	hemianopsia bitemporal
+T29	SINTOMA 62 77	cefalea frontal
+T30	SINTOMA 80 88	nicturia
+T31	SINTOMA 522 538	aspecto quístico
+T32	SINTOMA 249 285	exploración oftalmológica era normal
+T33	SINTOMA 662 714	porción quística supraselar de contenido proteináceo
+T34	SINTOMA 773 829	porción sólida intraselar isointensa a la sustancia gris
+T35	SINTOMA 1555 1574	calcemia era normal

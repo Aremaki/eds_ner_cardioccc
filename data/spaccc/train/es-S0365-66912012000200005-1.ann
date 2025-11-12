@@ -1,28 +1,48 @@
-T1	SINTOMA 1812 1819	estable
-T2	SINTOMA 861 985	afectación periventricular del tercer ventrículo, del hipotálamo, así como de la región del quiasma y de los nervios ópticos
-T3	SINTOMA 1852 1873	alteraciones en el CV
-T4	SINTOMA 34 70	alteraciones en la visión periférica
-T5	SINTOMA 367 437	defecto arciforme superior con algunas alteraciones periféricas en ojo
-T6	SINTOMA 816 849	dilatación del ventrículo lateral
-T7	SINTOMA 2195 2314	disminución de la capa de fibras nerviosas en cuadrante superior, nasal e inferior en OD y en todos los sectores del OI
-T8	SINTOMA 1604 1662	disminución de las hormonas de crecimiento y antidiurética
-T9	SINTOMA 667 689	FSH y LH indetectables
-T10	SINTOMA 2439 2487	leve aumento de las latencias al estimular el OI
-T11	SINTOMA 2096 2143	OI palidez total y atrofia peripapilar temporal
-T12	SINTOMA 456 549	ojo izquierdo (OI) se apreciaba un defecto altitudinal superior así como defectos periféricos
-T13	SINTOMA 567 592	orina reveló hipodensidad
-T14	SINTOMA 1987 2090	papila ligeramente verticalizada con palidez en región temporal acompañada de atrofia peripapilar en OD
-T15	SINTOMA 253 301	presión intraocular y fondo de ojo (FO) normales
-T16	SINTOMA 691 769	testosterona y la hormona de crecimiento en niveles inferiores a la normalidad
-T17	ENFERMEDAD 1415 1547	sarcoidosis sistémica con afectación del sistema nervioso central, afectación del quiasma, nervio óptico, eje hipotálamo-hipofisario
-T18	ENFERMEDAD 1178 1293	ganglios a nivel cervical, supraclaviculares bilaterales, axilares bilaterales y también a nivel torácico y pélvico
-T19	ENFERMEDAD 1552 1571	panhipopituitarismo
-T20	ENFERMEDAD 1573 1586	hipogonadismo
-T21	ENFERMEDAD 1588 1602	hipocorticismo
-T22	ENFERMEDAD 1310 1336	adenopatía profunda axilar
-T23	ENFERMEDAD 1026 1036	granulomas
-T24	ENFERMEDAD 1369 1380	sarcoidosis
-T25	ENFERMEDAD 2065 2084	atrofia peripapilar
-T26	ENFERMEDAD 2115 2143	atrofia peripapilar temporal
-T27	ENFERMEDAD 132 155	hipofunción hipofisaria
-T28	ENFERMEDAD 816 859	dilatación del ventrículo lateral izquierdo
+T1	ENFERMEDAD 1415 1547	sarcoidosis sistémica con afectación del sistema nervioso central, afectación del quiasma, nervio óptico, eje hipotálamo-hipofisario
+T2	ENFERMEDAD 1178 1293	ganglios a nivel cervical, supraclaviculares bilaterales, axilares bilaterales y también a nivel torácico y pélvico
+T3	ENFERMEDAD 1552 1571	panhipopituitarismo
+T4	ENFERMEDAD 1573 1586	hipogonadismo
+T5	ENFERMEDAD 1588 1602	hipocorticismo
+T6	ENFERMEDAD 1310 1336	adenopatía profunda axilar
+T7	ENFERMEDAD 1026 1036	granulomas
+T8	ENFERMEDAD 1369 1380	sarcoidosis
+T9	ENFERMEDAD 2065 2084	atrofia peripapilar
+T10	ENFERMEDAD 2115 2143	atrofia peripapilar temporal
+T11	ENFERMEDAD 132 155	hipofunción hipofisaria
+T12	ENFERMEDAD 816 859	dilatación del ventrículo lateral izquierdo
+T13	PROCEDIMIENTO 555 572	análisis de orina
+T14	PROCEDIMIENTO 774 802	resonancia magnética nuclear
+T15	PROCEDIMIENTO 1079 1153	tomografía axial computarizada (TAC) toraco-abdomino-pélvica con contraste
+T16	PROCEDIMIENTO 1957 1969	fondo de ojo
+T17	PROCEDIMIENTO 804 807	RMN
+T18	PROCEDIMIENTO 1111 1114	TAC
+T19	PROCEDIMIENTO 621 656	estudios de funcionamiento hormonal
+T20	PROCEDIMIENTO 275 287	fondo de ojo
+T21	PROCEDIMIENTO 289 291	FO
+T22	PROCEDIMIENTO 309 321	campo visual
+T23	PROCEDIMIENTO 2178 2181	OCT
+T24	PROCEDIMIENTO 2320 2360	potenciales visuales evocados con dámero
+T25	PROCEDIMIENTO 2362 2373	PVE-pattern
+T26	PROCEDIMIENTO 2472 2487	estimular el OI
+T27	PROCEDIMIENTO 323 325	CV
+T28	PROCEDIMIENTO 1675 1718	tratamiento con pulsos de metilprednisolona
+T29	PROCEDIMIENTO 1295 1336	Se biopsió una adenopatía profunda axilar
+T30	PROCEDIMIENTO 253 272	presión intraocular
+T31	PROCEDIMIENTO 162 173	exploración
+T32	SINTOMA 567 592	orina reveló hipodensidad
+T33	SINTOMA 34 70	alteraciones en la visión periférica
+T34	SINTOMA 816 849	dilatación del ventrículo lateral
+T35	SINTOMA 1987 2090	papila ligeramente verticalizada con palidez en región temporal acompañada de atrofia peripapilar en OD
+T36	SINTOMA 861 985	afectación periventricular del tercer ventrículo, del hipotálamo, así como de la región del quiasma y de los nervios ópticos
+T37	SINTOMA 2096 2143	OI palidez total y atrofia peripapilar temporal
+T38	SINTOMA 367 437	defecto arciforme superior con algunas alteraciones periféricas en ojo
+T39	SINTOMA 2195 2314	disminución de la capa de fibras nerviosas en cuadrante superior, nasal e inferior en OD y en todos los sectores del OI
+T40	SINTOMA 2439 2487	leve aumento de las latencias al estimular el OI
+T41	SINTOMA 1812 1819	estable
+T42	SINTOMA 253 301	presión intraocular y fondo de ojo (FO) normales
+T43	SINTOMA 456 549	ojo izquierdo (OI) se apreciaba un defecto altitudinal superior así como defectos periféricos
+T44	SINTOMA 667 689	FSH y LH indetectables
+T45	SINTOMA 691 769	testosterona y la hormona de crecimiento en niveles inferiores a la normalidad
+T46	SINTOMA 1604 1662	disminución de las hormonas de crecimiento y antidiurética
+T47	SINTOMA 2386 2421	disminución en todas las respuestas
+T48	SINTOMA 1852 1873	alteraciones en el CV

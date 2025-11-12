@@ -1,35 +1,35 @@
-T1	SINTOMA 290 319	deterioro de la función renal
-T2	SINTOMA 71 126	dolor en teste izquierdo irradiado a flanco ipsilateral
-T3	SINTOMA 231 277	Eco renal y testículo-prostática sin hallazgos
-T4	SINTOMA 132 138	fiebre
-T5	SINTOMA 1040 1094	Perfil hepático, lipídico y resto de hemograma, normal
-T6	SINTOMA 770 847	Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa
-T7	SINTOMA 377 388	proteinuria
-T8	SINTOMA 393 409	sedimento activo
-T9	SINTOMA 720 768	serología viral y marcadores tumorales, normales
-T10	SINTOMA 142 160	síndrome miccional
-T11	ENFERMEDAD 208 229	hipertensión arterial
-T12	ENFERMEDAD 413 424	anemización
-T13	ENFERMEDAD 1134 1183	nefropatía por cilindros de cadenas ligeras kappa
-T14	ENFERMEDAD 1194 1206	MM IgA-kappa
-T15	ENFERMEDAD 1740 1806	lesiones tubulointersticiales crónicas de intensidad leve-moderada
+T1	ENFERMEDAD 208 229	hipertensión arterial
+T2	ENFERMEDAD 413 424	anemización
+T3	ENFERMEDAD 1134 1183	nefropatía por cilindros de cadenas ligeras kappa
+T4	ENFERMEDAD 1194 1206	MM IgA-kappa
+T5	ENFERMEDAD 1740 1806	lesiones tubulointersticiales crónicas de intensidad leve-moderada
+T6	PROCEDIMIENTO 1918 1931	quimioterapia
+T7	PROCEDIMIENTO 174 192	Exploración física
+T8	PROCEDIMIENTO 231 263	Eco renal y testículo-prostática
+T9	PROCEDIMIENTO 1637 1656	rebiopsiar el riñón
+T10	PROCEDIMIENTO 2195 2220	terapia renal sustitutiva
+T11	PROCEDIMIENTO 1840 1864	diálisis de alto cut-off
+T12	PROCEDIMIENTO 573 593	Estudio inmunológico
+T13	PROCEDIMIENTO 738 758	marcadores tumorales
+T14	PROCEDIMIENTO 770 847	Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa
+T15	PROCEDIMIENTO 1298 1359	terapia depurativa renal con filtro de alto cut-off Theralite
 T16	PROCEDIMIENTO 1040 1065	Perfil hepático, lipídico
 T17	PROCEDIMIENTO 1077 1086	hemograma
 T18	PROCEDIMIENTO 1096 1133	Se diagnostica anatomopatológicamente
-T19	PROCEDIMIENTO 1298 1359	terapia depurativa renal con filtro de alto cut-off Theralite
-T20	PROCEDIMIENTO 1637 1656	rebiopsiar el riñón
-T21	PROCEDIMIENTO 1692 1710	terapia depuradora
-T22	PROCEDIMIENTO 1718 1727	rebiopsia
-T23	PROCEDIMIENTO 174 192	Exploración física
-T24	PROCEDIMIENTO 1840 1864	diálisis de alto cut-off
-T25	PROCEDIMIENTO 1918 1931	quimioterapia
-T26	PROCEDIMIENTO 2095 2120	terapia depuradora de CLL
-T27	PROCEDIMIENTO 2195 2220	terapia renal sustitutiva
-T28	PROCEDIMIENTO 2225 2260	diálisis convencional de alto flujo
-T29	PROCEDIMIENTO 231 263	Eco renal y testículo-prostática
-T30	PROCEDIMIENTO 2400 2429	tratamiento renal sustitutivo
-T31	PROCEDIMIENTO 393 402	sedimento
-T32	PROCEDIMIENTO 573 593	Estudio inmunológico
-T33	PROCEDIMIENTO 720 735	serología viral
-T34	PROCEDIMIENTO 738 758	marcadores tumorales
-T35	PROCEDIMIENTO 770 847	Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa
+T19	PROCEDIMIENTO 1692 1710	terapia depuradora
+T20	PROCEDIMIENTO 2095 2120	terapia depuradora de CLL
+T21	PROCEDIMIENTO 2225 2260	diálisis convencional de alto flujo
+T22	PROCEDIMIENTO 2400 2429	tratamiento renal sustitutivo
+T23	PROCEDIMIENTO 720 735	serología viral
+T24	PROCEDIMIENTO 1718 1727	rebiopsia
+T25	PROCEDIMIENTO 393 402	sedimento
+T26	SINTOMA 132 138	fiebre
+T27	SINTOMA 142 160	síndrome miccional
+T28	SINTOMA 231 277	Eco renal y testículo-prostática sin hallazgos
+T29	SINTOMA 290 319	deterioro de la función renal
+T30	SINTOMA 720 768	serología viral y marcadores tumorales, normales
+T31	SINTOMA 377 388	proteinuria
+T32	SINTOMA 71 126	dolor en teste izquierdo irradiado a flanco ipsilateral
+T33	SINTOMA 393 409	sedimento activo
+T34	SINTOMA 770 847	Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa
+T35	SINTOMA 1040 1094	Perfil hepático, lipídico y resto de hemograma, normal

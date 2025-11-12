@@ -1,27 +1,27 @@
-T1	SINTOMA 943 996	borde submaxilar derecho, rojo, doloroso y supurativo
-T2	SINTOMA 122 136	dolor de muela
-T3	SINTOMA 288 318	inflamación y dolor mandibular
-T4	SINTOMA 1352 1410	microorganismos (con técnicas Grocot, Gram y Ziehl-Neelsen
-T5	SINTOMA 673 678	dolor
-T6	SINTOMA 552 557	dolor
-T7	SINTOMA 750 756	fiebre
-T8	SINTOMA 179 185	fiebre
-T9	ENFERMEDAD 1480 1486	úlcera
-T10	ENFERMEDAD 221 265	caries en el segundo molar de leche inferior
-T11	ENFERMEDAD 640 646	flemón
-T12	ENFERMEDAD 932 959	absceso en borde submaxilar
-T13	ENFERMEDAD 502 508	flemón
-T14	ENFERMEDAD 514 524	adenopatía
-T15	ENFERMEDAD 148 163	flemón dentario
-T16	ENFERMEDAD 1659 1667	cicatriz
-T17	ENFERMEDAD 1135 1159	lesión cervical ulcerada
-T18	PROCEDIMIENTO 1051 1058	drenaje
-T19	PROCEDIMIENTO 1065 1073	se drena
-T20	PROCEDIMIENTO 1076 1159	se toman muestras para cultivo y anatomía patológica de la lesión cervical ulcerada
-T21	PROCEDIMIENTO 1373 1410	técnicas Grocot, Gram y Ziehl-Neelsen
-T22	PROCEDIMIENTO 1503 1507	cura
-T23	PROCEDIMIENTO 1556 1563	drenaje
-T24	PROCEDIMIENTO 1578 1587	exodoncia
-T25	PROCEDIMIENTO 194 205	exploración
-T26	PROCEDIMIENTO 352 363	antibiótico
-T27	PROCEDIMIENTO 395 412	antiinflamatorios
+T1	ENFERMEDAD 1480 1486	úlcera
+T2	ENFERMEDAD 221 265	caries en el segundo molar de leche inferior
+T3	ENFERMEDAD 640 646	flemón
+T4	ENFERMEDAD 932 959	absceso en borde submaxilar
+T5	ENFERMEDAD 502 508	flemón
+T6	ENFERMEDAD 514 524	adenopatía
+T7	ENFERMEDAD 148 163	flemón dentario
+T8	ENFERMEDAD 1659 1667	cicatriz
+T9	ENFERMEDAD 1135 1159	lesión cervical ulcerada
+T10	PROCEDIMIENTO 1556 1563	drenaje
+T11	PROCEDIMIENTO 1578 1587	exodoncia
+T12	PROCEDIMIENTO 1373 1410	técnicas Grocot, Gram y Ziehl-Neelsen
+T13	PROCEDIMIENTO 352 363	antibiótico
+T14	PROCEDIMIENTO 1051 1058	drenaje
+T15	PROCEDIMIENTO 395 412	antiinflamatorios
+T16	PROCEDIMIENTO 1076 1159	se toman muestras para cultivo y anatomía patológica de la lesión cervical ulcerada
+T17	PROCEDIMIENTO 1065 1073	se drena
+T18	PROCEDIMIENTO 194 205	exploración
+T19	PROCEDIMIENTO 1503 1507	cura
+T20	SINTOMA 673 678	dolor
+T21	SINTOMA 288 318	inflamación y dolor mandibular
+T22	SINTOMA 552 557	dolor
+T23	SINTOMA 122 136	dolor de muela
+T24	SINTOMA 750 756	fiebre
+T25	SINTOMA 179 185	fiebre
+T26	SINTOMA 1352 1410	microorganismos (con técnicas Grocot, Gram y Ziehl-Neelsen
+T27	SINTOMA 943 996	borde submaxilar derecho, rojo, doloroso y supurativo

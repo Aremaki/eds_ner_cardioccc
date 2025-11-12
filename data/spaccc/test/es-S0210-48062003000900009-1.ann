@@ -1,25 +1,25 @@
-T1	SINTOMA 494 509	calcificaciones
-T2	SINTOMA 313 328	calcificaciones
-T3	SINTOMA 893 927	Gammagrafía ósea: Sin alteraciones
-T4	SINTOMA 807 826	imagen fría central
-T5	SINTOMA 748 785	Riñón izquierdo de inferior captación
-T6	ENFERMEDAD 218 233	lesión quística
-T7	ENFERMEDAD 426 438	lesión renal
-T8	ENFERMEDAD 1075 1104	Nefroma quístico multilocular
-T9	ENFERMEDAD 963 975	lesión renal
-T10	ENFERMEDAD 611 640	nefroma multilocular quístico
-T11	ENFERMEDAD 46 77	enfermedad pulmonar obstructiva
-T12	ENFERMEDAD 193 205	lesión renal
-T13	ENFERMEDAD 79 100	hipertensión arterial
-T14	ENFERMEDAD 665 702	carcinoma de células renales quístico
-T15	ENFERMEDAD 103 122	hipercolesterolemia
-T16	ENFERMEDAD 535 564	adenopatías retroperitoneales
-T17	ENFERMEDAD 853 859	lesión
+T1	ENFERMEDAD 218 233	lesión quística
+T2	ENFERMEDAD 426 438	lesión renal
+T3	ENFERMEDAD 1075 1104	Nefroma quístico multilocular
+T4	ENFERMEDAD 963 975	lesión renal
+T5	ENFERMEDAD 611 640	nefroma multilocular quístico
+T6	ENFERMEDAD 46 77	enfermedad pulmonar obstructiva
+T7	ENFERMEDAD 193 205	lesión renal
+T8	ENFERMEDAD 79 100	hipertensión arterial
+T9	ENFERMEDAD 665 702	carcinoma de células renales quístico
+T10	ENFERMEDAD 103 122	hipercolesterolemia
+T11	ENFERMEDAD 535 564	adenopatías retroperitoneales
+T12	ENFERMEDAD 853 859	lesión
+T13	PROCEDIMIENTO 207 216	Ecografía
+T14	PROCEDIMIENTO 893 909	Gammagrafía ósea
+T15	PROCEDIMIENTO 402 423	T.C. abdomino-pélvico
+T16	PROCEDIMIENTO 716 746	renograma isotópico con Tc-99m
+T17	PROCEDIMIENTO 168 178	ecográfico
 T18	PROCEDIMIENTO 1035 1046	nefrectomía
 T19	PROCEDIMIENTO 1056 1073	anatomopatológico
-T20	PROCEDIMIENTO 168 178	ecográfico
-T21	PROCEDIMIENTO 207 216	Ecografía
-T22	PROCEDIMIENTO 402 423	T.C. abdomino-pélvico
-T23	PROCEDIMIENTO 716 746	renograma isotópico con Tc-99m
-T24	PROCEDIMIENTO 893 909	Gammagrafía ósea
-T25	PROCEDIMIENTO 998 1021	intervención quirúrgica
+T20	PROCEDIMIENTO 998 1021	intervención quirúrgica
+T21	SINTOMA 748 785	Riñón izquierdo de inferior captación
+T22	SINTOMA 893 927	Gammagrafía ósea: Sin alteraciones
+T23	SINTOMA 313 328	calcificaciones
+T24	SINTOMA 494 509	calcificaciones
+T25	SINTOMA 807 826	imagen fría central

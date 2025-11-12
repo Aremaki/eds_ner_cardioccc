@@ -1,34 +1,85 @@
-T1	SINTOMA 2630 2662	adelgazamiento femoral bilateral
-T2	SINTOMA 638 655	asimetría frontal
-T3	SINTOMA 1044 1092	asimetría hemisférica a favor del lado izquierdo
-T4	SINTOMA 2391 2429	asimetría interhemisférica del trazado
-T5	SINTOMA 2482 2504	aumento del hemicuerpo
-T6	SINTOMA 769 775	clonus
-T7	SINTOMA 2225 2256	control cefálico ni sedestación
-T8	SINTOMA 2617 2627	coxa valga
-T9	SINTOMA 2532 2565	descenso de la órbita ipsilateral
-T10	SINTOMA 1286 1330	despistaje metabólico e infeccioso es normal
-T11	SINTOMA 885 951	electroencefalograma presentando una discreta lentificación difusa
-T12	SINTOMA 778 813	episodios convulsivos generalizados
-T13	SINTOMA 1414 1431	esotropía del ojo
-T14	SINTOMA 2830 2869	Espasticidad como respuesta a estímulos
-T15	SINTOMA 2947 2954	Fallece
-T16	SINTOMA 565 578	fascies tosca
-T17	SINTOMA 1252 1280	focos de heterotopía nodular
-T18	SINTOMA 580 594	hipertelorismo
-T19	SINTOMA 2165 2191	hipertonía de extremidades
-T20	SINTOMA 725 748	hipertonía generalizada
-T21	SINTOMA 2194 2216	hipotonía cervicoaxial
-T22	SINTOMA 683 705	Hipotonía generalizada
-T23	SINTOMA 2294 2321	interacción con el ambiente
-T24	SINTOMA 618 635	microrretrognatia
-T25	SINTOMA 596 616	narinas antevertidas
-T26	SINTOMA 1486 1522	nistagmus en abducción en ambos ojos
-T27	SINTOMA 2435 2457	paroxismos irritativos
-T28	SINTOMA 2516 2529	plagiocefalia
-T29	SINTOMA 1805 1894	potenciales evocados visuales resultan patológicos con un aumento del período de latencia
-T30	SINTOMA 1146 1181	prominencia del sistema ventricular
-T31	SINTOMA 545 563	rasgos dismórficos
-T32	SINTOMA 753 767	reflejos vivos
-T33	SINTOMA 2324 2338	sonrisa social
-T34	SINTOMA 2605 2615	tibia vara
+T1	ENFERMEDAD 1667 1673	miopía
+T2	ENFERMEDAD 2605 2615	tibia vara
+T3	ENFERMEDAD 2145 2163	retraso psicomotor
+T4	ENFERMEDAD 2165 2191	hipertonía de extremidades
+T5	ENFERMEDAD 1414 1423	esotropía
+T6	ENFERMEDAD 2194 2216	hipotonía cervicoaxial
+T7	ENFERMEDAD 2697 2710	macrocefálico
+T8	ENFERMEDAD 130 162	ventriculomegalia bilateral leve
+T9	ENFERMEDAD 1486 1522	nistagmus en abducción en ambos ojos
+T10	ENFERMEDAD 1527 1563	retina muestra un aspecto distrófico
+T11	ENFERMEDAD 2751 2768	Nevus epidérmicos
+T12	ENFERMEDAD 2771 2792	hemangiomas dispersos
+T13	ENFERMEDAD 1593 1626	anomalías pigmentarias retinianas
+T14	ENFERMEDAD 1628 1655	Hipoplasia de nervio óptico
+T15	ENFERMEDAD 1991 2013	hipertofia hemicraneal
+T16	ENFERMEDAD 2924 2945	laringotraqueomalacia
+T17	ENFERMEDAD 2516 2529	plagiocefalia
+T18	ENFERMEDAD 2991 2999	neumonía
+T19	ENFERMEDAD 565 578	fascies tosca
+T20	ENFERMEDAD 580 594	hipertelorismo
+T21	ENFERMEDAD 596 616	narinas antevertidas
+T22	ENFERMEDAD 618 635	microrretrognatia
+T23	ENFERMEDAD 989 1017	ventriculomegalia asimétrica
+T24	ENFERMEDAD 1229 1280	displasia cortical con focos de heterotopía nodular
+T25	ENFERMEDAD 1044 1065	asimetría hemisférica
+T26	ENFERMEDAD 2617 2627	coxa valga
+T27	ENFERMEDAD 778 813	episodios convulsivos generalizados
+T28	ENFERMEDAD 1310 1320	infeccioso
+T29	ENFERMEDAD 545 563	rasgos dismórficos
+T30	ENFERMEDAD 638 655	asimetría frontal
+T31	ENFERMEDAD 2482 2514	aumento del hemicuerpo izquierdo
+T32	ENFERMEDAD 2532 2553	descenso de la órbita
+T33	ENFERMEDAD 2591 2603	deformidades
+T34	ENFERMEDAD 2630 2662	adelgazamiento femoral bilateral
+T35	ENFERMEDAD 2715 2749	afectación del macizo craneofacial
+T36	PROCEDIMIENTO 1286 1320	despistaje metabólico e infeccioso
+T37	PROCEDIMIENTO 27 40	parto vaginal
+T38	PROCEDIMIENTO 92 115	intraútero en ecografía
+T39	PROCEDIMIENTO 1782 1799	corrección óptica
+T40	PROCEDIMIENTO 1805 1834	potenciales evocados visuales
+T41	PROCEDIMIENTO 2354 2377	electroencefalográficos
+T42	PROCEDIMIENTO 1920 1939	electrorretinograma
+T43	PROCEDIMIENTO 2906 2919	traqueostomía
+T44	PROCEDIMIENTO 392 415	intubación endotraqueal
+T45	PROCEDIMIENTO 885 905	electroencefalograma
+T46	PROCEDIMIENTO 959 977	ecografia cerebral
+T47	PROCEDIMIENTO 1100 1132	tomografía computarizada craneal
+T48	PROCEDIMIENTO 1189 1217	resonancia nuclear magnética
+T49	PROCEDIMIENTO 430 436	partos
+T50	PROCEDIMIENTO 2062 2080	lentes de contacto
+T51	PROCEDIMIENTO 2044 2049	gafas
+T52	SINTOMA 2630 2662	adelgazamiento femoral bilateral
+T53	SINTOMA 2947 2954	Fallece
+T54	SINTOMA 725 748	hipertonía generalizada
+T55	SINTOMA 1146 1181	prominencia del sistema ventricular
+T56	SINTOMA 683 705	Hipotonía generalizada
+T57	SINTOMA 545 563	rasgos dismórficos
+T58	SINTOMA 753 767	reflejos vivos
+T59	SINTOMA 2324 2338	sonrisa social
+T60	SINTOMA 580 594	hipertelorismo
+T61	SINTOMA 1286 1330	despistaje metabólico e infeccioso es normal
+T62	SINTOMA 1805 1894	potenciales evocados visuales resultan patológicos con un aumento del período de latencia
+T63	SINTOMA 565 578	fascies tosca
+T64	SINTOMA 596 616	narinas antevertidas
+T65	SINTOMA 618 635	microrretrognatia
+T66	SINTOMA 638 655	asimetría frontal
+T67	SINTOMA 769 775	clonus
+T68	SINTOMA 778 813	episodios convulsivos generalizados
+T69	SINTOMA 1044 1092	asimetría hemisférica a favor del lado izquierdo
+T70	SINTOMA 1486 1522	nistagmus en abducción en ambos ojos
+T71	SINTOMA 2165 2191	hipertonía de extremidades
+T72	SINTOMA 2194 2216	hipotonía cervicoaxial
+T73	SINTOMA 2391 2429	asimetría interhemisférica del trazado
+T74	SINTOMA 2435 2457	paroxismos irritativos
+T75	SINTOMA 2482 2504	aumento del hemicuerpo
+T76	SINTOMA 2532 2565	descenso de la órbita ipsilateral
+T77	SINTOMA 885 951	electroencefalograma presentando una discreta lentificación difusa
+T78	SINTOMA 1252 1280	focos de heterotopía nodular
+T79	SINTOMA 1414 1431	esotropía del ojo
+T80	SINTOMA 2225 2256	control cefálico ni sedestación
+T81	SINTOMA 2294 2321	interacción con el ambiente
+T82	SINTOMA 2516 2529	plagiocefalia
+T83	SINTOMA 2605 2615	tibia vara
+T84	SINTOMA 2617 2627	coxa valga
+T85	SINTOMA 2830 2869	Espasticidad como respuesta a estímulos

@@ -1,41 +1,49 @@
-T1	SINTOMA 465 495	abdomen era blando, depresible
-T2	SINTOMA 418 425	afebril
-T3	SINTOMA 314 331	anorexia moderada
-T4	SINTOMA 775 813	asas yeyunales con niveles hidroaereos
-T5	SINTOMA 304 311	Astenia
-T6	SINTOMA 2502 2525	buena situación clínica
-T7	SINTOMA 501 508	defensa
-T8	SINTOMA 2745 2764	deterioro cognitivo
-T9	SINTOMA 97 114	dolor epigástrico
-T10	SINTOMA 552 589	doloroso a la palpación en epigastrio
-T11	SINTOMA 2132 2206	engrosamiento de la carina en su separación con el bronquio lobar superior
-T12	SINTOMA 2848 2859	falleciendo
-T13	SINTOMA 174 198	Hábito intestinal normal
-T14	SINTOMA 958 998	imagen en "diana, ojo de buey o donnuts"
-T15	SINTOMA 903 937	imagen en "pseudoriñón o sandwich"
-T16	SINTOMA 522 543	irritación peritoneal
-T17	SINTOMA 167 172	mareo
-T18	SINTOMA 1180 1220	masa abdominal localizada en mesogastrio
-T19	SINTOMA 1931 1942	masa hiliar
-T20	SINTOMA 2417 2432	masa intestinal
-T21	SINTOMA 157 164	náuseas
-T22	SINTOMA 437 459	palidez cutáneo-mucosa
-T23	SINTOMA 337 352	pérdida de peso
-T24	SINTOMA 594 631	peristaltismo discretamente aumentado
-T25	SINTOMA 1440 1450	tumoración
-T26	SINTOMA 2220 2244	tumoración endobronquial
-T27	PROCEDIMIENTO 1112 1135	intervención quirúrgica
-T28	PROCEDIMIENTO 1146 1166	inducción anestésica
-T29	PROCEDIMIENTO 1250 1276	laparotomía supraumbilical
-T30	PROCEDIMIENTO 1383 1423	resección segmentaria de 30 cm de yeyuno
-T31	PROCEDIMIENTO 1594 1620	estudio inmunohistoquímico
-T32	PROCEDIMIENTO 1893 1901	TC torax
-T33	PROCEDIMIENTO 2104 2116	broncoscopia
-T34	PROCEDIMIENTO 2308 2315	biopsia
-T35	PROCEDIMIENTO 2384 2409	patrón inmunohistoquímico
-T36	PROCEDIMIENTO 2685 2698	quimioterapia
-T37	PROCEDIMIENTO 399 410	exploración
-T38	PROCEDIMIENTO 566 589	palpación en epigastrio
-T39	PROCEDIMIENTO 639 648	analítica
-T40	PROCEDIMIENTO 722 744	radiografía de abdomen
-T41	PROCEDIMIENTO 818 837	ecografía abdominal
+T1	ENFERMEDAD 18 25	fumador
+T2	ENFERMEDAD 2220 2244	tumoración endobronquial
+T3	ENFERMEDAD 2799 2846	metástasis cerebrales frontoparietales derechas
+T4	ENFERMEDAD 2346 2370	carcinoma indiferenciado
+T5	ENFERMEDAD 1076 1099	invaginación intestinal
+T6	ENFERMEDAD 1489 1532	carcinoma anaplásico, con fenotipo rabdoide
+T7	ENFERMEDAD 1295 1327	intususpección de un asa yeyunal
+T8	ENFERMEDAD 2132 2158	engrosamiento de la carina
+T9	PROCEDIMIENTO 1893 1901	TC torax
+T10	PROCEDIMIENTO 2104 2116	broncoscopia
+T11	PROCEDIMIENTO 2685 2698	quimioterapia
+T12	PROCEDIMIENTO 2308 2315	biopsia
+T13	PROCEDIMIENTO 722 744	radiografía de abdomen
+T14	PROCEDIMIENTO 818 837	ecografía abdominal
+T15	PROCEDIMIENTO 1250 1276	laparotomía supraumbilical
+T16	PROCEDIMIENTO 1383 1423	resección segmentaria de 30 cm de yeyuno
+T17	PROCEDIMIENTO 1594 1620	estudio inmunohistoquímico
+T18	PROCEDIMIENTO 1146 1166	inducción anestésica
+T19	PROCEDIMIENTO 1112 1135	intervención quirúrgica
+T20	PROCEDIMIENTO 639 648	analítica
+T21	PROCEDIMIENTO 399 410	exploración
+T22	PROCEDIMIENTO 2384 2409	patrón inmunohistoquímico
+T23	PROCEDIMIENTO 566 589	palpación en epigastrio
+T24	SINTOMA 1931 1942	masa hiliar
+T25	SINTOMA 97 114	dolor epigástrico
+T26	SINTOMA 157 164	náuseas
+T27	SINTOMA 167 172	mareo
+T28	SINTOMA 2132 2206	engrosamiento de la carina en su separación con el bronquio lobar superior
+T29	SINTOMA 304 311	Astenia
+T30	SINTOMA 2745 2764	deterioro cognitivo
+T31	SINTOMA 314 331	anorexia moderada
+T32	SINTOMA 337 352	pérdida de peso
+T33	SINTOMA 437 459	palidez cutáneo-mucosa
+T34	SINTOMA 522 543	irritación peritoneal
+T35	SINTOMA 2417 2432	masa intestinal
+T36	SINTOMA 552 589	doloroso a la palpación en epigastrio
+T37	SINTOMA 775 813	asas yeyunales con niveles hidroaereos
+T38	SINTOMA 903 937	imagen en "pseudoriñón o sandwich"
+T39	SINTOMA 1180 1220	masa abdominal localizada en mesogastrio
+T40	SINTOMA 1440 1450	tumoración
+T41	SINTOMA 418 425	afebril
+T42	SINTOMA 465 495	abdomen era blando, depresible
+T43	SINTOMA 594 631	peristaltismo discretamente aumentado
+T44	SINTOMA 958 998	imagen en "diana, ojo de buey o donnuts"
+T45	SINTOMA 501 508	defensa
+T46	SINTOMA 174 198	Hábito intestinal normal
+T47	SINTOMA 2848 2859	falleciendo
+T48	SINTOMA 2220 2244	tumoración endobronquial
+T49	SINTOMA 2502 2525	buena situación clínica

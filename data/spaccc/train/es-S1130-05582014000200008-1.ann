@@ -1,34 +1,56 @@
-T1	SINTOMA 1013 1071	abombamiento, adelgazamiento y perforación de tablas óseas
-T2	SINTOMA 113 203	aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular
-T3	SINTOMA 442 491	aumento de volumen en la zona anterior mandibular
-T4	SINTOMA 666 688	compromiso neurológico
-T5	SINTOMA 2020 2047	destrucción de tablas óseas
-T6	SINTOMA 810 850	lesión hipodensa de aspecto multilocular
-T7	SINTOMA 544 612	piel y mucosa que recubría la lesión era de características normales
-T8	SINTOMA 495 513	consistencia firme
-T9	SINTOMA 1642 1662	impotencia funcional
-T10	SINTOMA 516 539	doloroso a la palpación
-T11	SINTOMA 1634 1639	dolor
-T12	SINTOMA 3431 3442	falleciendo
-T13	ENFERMEDAD 1228 1244	cavidad quística
-T14	ENFERMEDAD 272 287	diabetes tipo 2
-T15	ENFERMEDAD 3454 3462	neumonía
-T16	ENFERMEDAD 3334 3344	metástasis
-T17	ENFERMEDAD 368 378	tabaquismo
-T18	ENFERMEDAD 3358 3375	tumores primarios
-T19	ENFERMEDAD 618 634	linfoadenopatías
-T20	ENFERMEDAD 1462 1496	tumor odontogénico queratoquístico
-T21	ENFERMEDAD 2756 2780	proliferación neoplásica
-T22	ENFERMEDAD 3108 3175	carcinoma de células escamosas intraóseo moderadamente diferenciado
-T23	ENFERMEDAD 257 269	hipertensión
-T24	ENFERMEDAD 2339 2351	defecto óseo
-T25	ENFERMEDAD 381 399	consumo de alcohol
-T26	ENFERMEDAD 574 580	lesión
-T27	ENFERMEDAD 810 816	lesión
-T28	ENFERMEDAD 1167 1173	lesión
-T29	ENFERMEDAD 1450 1456	lesión
-T30	ENFERMEDAD 1953 1959	lesión
-T31	ENFERMEDAD 2244 2250	lesión
-T32	ENFERMEDAD 2020 2077	destrucción de tablas óseas tanto vestibular como lingual
-T33	ENFERMEDAD 1044 1071	perforación de tablas óseas
-T34	ENFERMEDAD 2795 2841	patrón infiltrativo hacia el tejido conjuntivo
+T1	ENFERMEDAD 1228 1244	cavidad quística
+T2	ENFERMEDAD 272 287	diabetes tipo 2
+T3	ENFERMEDAD 3454 3462	neumonía
+T4	ENFERMEDAD 3334 3344	metástasis
+T5	ENFERMEDAD 368 378	tabaquismo
+T6	ENFERMEDAD 3358 3375	tumores primarios
+T7	ENFERMEDAD 618 634	linfoadenopatías
+T8	ENFERMEDAD 1462 1496	tumor odontogénico queratoquístico
+T9	ENFERMEDAD 2756 2780	proliferación neoplásica
+T10	ENFERMEDAD 3108 3175	carcinoma de células escamosas intraóseo moderadamente diferenciado
+T11	ENFERMEDAD 257 269	hipertensión
+T12	ENFERMEDAD 2339 2351	defecto óseo
+T13	ENFERMEDAD 381 399	consumo de alcohol
+T14	ENFERMEDAD 574 580	lesión
+T15	ENFERMEDAD 810 816	lesión
+T16	ENFERMEDAD 1167 1173	lesión
+T17	ENFERMEDAD 1450 1456	lesión
+T18	ENFERMEDAD 1953 1959	lesión
+T19	ENFERMEDAD 2244 2250	lesión
+T20	ENFERMEDAD 2020 2077	destrucción de tablas óseas tanto vestibular como lingual
+T21	ENFERMEDAD 1044 1071	perforación de tablas óseas
+T22	ENFERMEDAD 2795 2841	patrón infiltrativo hacia el tejido conjuntivo
+T23	PROCEDIMIENTO 404 417	examen físico
+T24	PROCEDIMIENTO 1179 1202	estudio histopatológico
+T25	PROCEDIMIENTO 734 758	tomografía computarizada
+T26	PROCEDIMIENTO 3214 3237	exámenes imagenológicos
+T27	PROCEDIMIENTO 760 762	TC
+T28	PROCEDIMIENTO 1548 1569	terapia descompresiva
+T29	PROCEDIMIENTO 3250 3270	radiografía de tórax
+T30	PROCEDIMIENTO 3272 3285	escáner total
+T31	PROCEDIMIENTO 3288 3306	escintigrafía ósea
+T32	PROCEDIMIENTO 530 539	palpación
+T33	PROCEDIMIENTO 1791 1793	TC
+T34	PROCEDIMIENTO 1829 1850	terapia descompresiva
+T35	PROCEDIMIENTO 1106 1136	instalación de tubo de drenaje
+T36	PROCEDIMIENTO 2114 2144	procedimiento de descompresión
+T37	PROCEDIMIENTO 2228 2250	excéresis de la lesión
+T38	PROCEDIMIENTO 2255 2263	curetaje
+T39	PROCEDIMIENTO 2339 2445	defecto óseo subyacente fue reconstruido mediante la utilización de una placa de reconstrucción mandibular
+T40	PROCEDIMIENTO 2478 2501	estudio histopatológico
+T41	PROCEDIMIENTO 1085 1103	biopsia incisional
+T42	PROCEDIMIENTO 2266 2334	aplicación de solución de Carnoy durante 30 s en el lecho operatorio
+T43	PROCEDIMIENTO 3407 3429	tratamiento oncológico
+T44	PROCEDIMIENTO 2199 2212	radiofráficos
+T45	SINTOMA 442 491	aumento de volumen en la zona anterior mandibular
+T46	SINTOMA 810 850	lesión hipodensa de aspecto multilocular
+T47	SINTOMA 495 513	consistencia firme
+T48	SINTOMA 113 203	aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular
+T49	SINTOMA 1642 1662	impotencia funcional
+T50	SINTOMA 666 688	compromiso neurológico
+T51	SINTOMA 1013 1071	abombamiento, adelgazamiento y perforación de tablas óseas
+T52	SINTOMA 516 539	doloroso a la palpación
+T53	SINTOMA 1634 1639	dolor
+T54	SINTOMA 544 612	piel y mucosa que recubría la lesión era de características normales
+T55	SINTOMA 3431 3442	falleciendo
+T56	SINTOMA 2020 2047	destrucción de tablas óseas

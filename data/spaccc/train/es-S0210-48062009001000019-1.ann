@@ -1,19 +1,34 @@
-T1	SINTOMA 1925 1947	adecuada función renal
-T2	SINTOMA 2011 2023	asintomático
-T3	SINTOMA 2136 2160	función renal conservada
-T4	SINTOMA 2060 2116	conserva todos los pulsos en las extremidades inferiores
-T5	SINTOMA 1449 1548	ecocardiograma basal y pruebas de función respiratoria, todos ellos sin alteraciones significativas
-T6	SINTOMA 2384 2419	riñones con morfología en herradura
-T7	SINTOMA 623 643	riñones en herradura
-T8	SINTOMA 1299 1334	se palpa latido abdominal expansivo
-T9	SINTOMA 85 129	sintomatología del aparato urinario inferior
-T10	ENFERMEDAD 421 461	aneurisma de aorta abdominal infrarrenal
-T11	ENFERMEDAD 171 192	hipertensión arterial
-T12	ENFERMEDAD 623 643	riñones en herradura
-T13	ENFERMEDAD 295 309	ulcus duodenal
-T14	ENFERMEDAD 2285 2309	dilatación aneurismática
-T15	ENFERMEDAD 816 825	aneurisma
-T16	ENFERMEDAD 1244 1253	aneurisma
-T17	ENFERMEDAD 1434 1444	aneurismas
-T18	ENFERMEDAD 1608 1641	aneurisma de la aorta infrarrenal
-T19	ENFERMEDAD 2384 2419	riñones con morfología en herradura
+T1	ENFERMEDAD 421 461	aneurisma de aorta abdominal infrarrenal
+T2	ENFERMEDAD 171 192	hipertensión arterial
+T3	ENFERMEDAD 623 643	riñones en herradura
+T4	ENFERMEDAD 295 309	ulcus duodenal
+T5	ENFERMEDAD 2285 2309	dilatación aneurismática
+T6	ENFERMEDAD 816 825	aneurisma
+T7	ENFERMEDAD 1244 1253	aneurisma
+T8	ENFERMEDAD 1434 1444	aneurismas
+T9	ENFERMEDAD 1608 1641	aneurisma de la aorta infrarrenal
+T10	ENFERMEDAD 2384 2419	riñones con morfología en herradura
+T11	PROCEDIMIENTO 1261 1279	exploración física
+T12	PROCEDIMIENTO 358 384	ecografía abdominopelviana
+T13	PROCEDIMIENTO 1565 1641	abordaje retroperitoneal con resección del aneurisma de la aorta infrarrenal
+T14	PROCEDIMIENTO 2338 2359	urografía intravenosa
+T15	PROCEDIMIENTO 1449 1463	ecocardiograma
+T16	PROCEDIMIENTO 1472 1503	pruebas de función respiratoria
+T17	PROCEDIMIENTO 1087 1089	TC
+T18	PROCEDIMIENTO 472 474	TC
+T19	PROCEDIMIENTO 2167 2175	angio-TC
+T20	PROCEDIMIENTO 212 266	inhibidores de la enzima de conversión de angiotensina
+T21	PROCEDIMIENTO 2230 2249	bypass aortoaórtico
+T22	PROCEDIMIENTO 268 309	intervención quirúrgica de ulcus duodenal
+T23	PROCEDIMIENTO 327 342	colecistectomía
+T24	PROCEDIMIENTO 1217 1253	tratamiento quirúrgico del aneurisma
+T25	PROCEDIMIENTO 1644 1690	bypass aortoaórtico con prótesis de Hemashield
+T26	SINTOMA 85 129	sintomatología del aparato urinario inferior
+T27	SINTOMA 1925 1947	adecuada función renal
+T28	SINTOMA 2136 2160	función renal conservada
+T29	SINTOMA 2011 2023	asintomático
+T30	SINTOMA 1299 1334	se palpa latido abdominal expansivo
+T31	SINTOMA 1449 1548	ecocardiograma basal y pruebas de función respiratoria, todos ellos sin alteraciones significativas
+T32	SINTOMA 2060 2116	conserva todos los pulsos en las extremidades inferiores
+T33	SINTOMA 623 643	riñones en herradura
+T34	SINTOMA 2384 2419	riñones con morfología en herradura

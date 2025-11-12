@@ -1,10 +1,40 @@
-T1	SINTOMA 1549 1568	aspecto cicatricial
-T2	SINTOMA 1496 1525	cierre de los vasos nutricios
-T3	SINTOMA 38 67	disminución de agudeza visual
-T4	SINTOMA 560 598	hiperfluorescencia precoz de la lesión
-T5	SINTOMA 1000 1018	leve edema medular
-T6	SINTOMA 838 876	nódulo hipercaptante en la suprarrenal
-T7	SINTOMA 689 721	nódulos sólidos en ambos riñones
-T8	SINTOMA 121 175	Portador de la mutación causal de la enfermedad de VHL
-T9	SINTOMA 317 338	tumoración endofítica
-T10	SINTOMA 1635 1682	vasos de suplencia en la periferia de la lesión
+T1	ENFERMEDAD 1118 1141	hemorragia subretiniana
+T2	ENFERMEDAD 1177 1194	hemorragia vítrea
+T3	ENFERMEDAD 1462 1475	edema macular
+T4	ENFERMEDAD 493 532	edema quístico difuso en polo posterior
+T5	ENFERMEDAD 736 758	hipernefroma bilateral
+T6	ENFERMEDAD 898 930	tumor neuroendocrino pancreático
+T7	ENFERMEDAD 943 994	hemangioblastomas en protuberancia y médula espinal
+T8	ENFERMEDAD 1000 1018	leve edema medular
+T9	ENFERMEDAD 1196 1198	HV
+T10	ENFERMEDAD 1257 1259	HV
+T11	ENFERMEDAD 158 175	enfermedad de VHL
+T12	ENFERMEDAD 592 598	lesión
+T13	ENFERMEDAD 1336 1342	lesión
+T14	ENFERMEDAD 1530 1536	lesión
+T15	ENFERMEDAD 1676 1682	lesión
+T16	PROCEDIMIENTO 1040 1071	fotocoagulación con láser argón
+T17	PROCEDIMIENTO 1271 1282	vitrectomía
+T18	PROCEDIMIENTO 283 305	fondo de ojo izquierdo
+T19	PROCEDIMIENTO 1318 1361	tratamiento de la lesión mediante endoláser
+T20	PROCEDIMIENTO 1412 1415	OCT
+T21	PROCEDIMIENTO 442 473	tomografía de coherencia óptica
+T22	PROCEDIMIENTO 1480 1483	AFG
+T23	PROCEDIMIENTO 475 478	OCT
+T24	PROCEDIMIENTO 541 552	angiografía
+T25	PROCEDIMIENTO 554 557	AFG
+T26	PROCEDIMIENTO 640 657	estudio sistémico
+T27	PROCEDIMIENTO 803 832	nefrectomía radical izquierda
+T28	PROCEDIMIENTO 1386 1393	cirugía
+T29	PROCEDIMIENTO 243 254	exploración
+T30	SINTOMA 38 67	disminución de agudeza visual
+T31	SINTOMA 121 175	Portador de la mutación causal de la enfermedad de VHL
+T32	SINTOMA 317 338	tumoración endofítica
+T33	SINTOMA 560 598	hiperfluorescencia precoz de la lesión
+T34	SINTOMA 689 721	nódulos sólidos en ambos riñones
+T35	SINTOMA 838 876	nódulo hipercaptante en la suprarrenal
+T36	SINTOMA 1496 1525	cierre de los vasos nutricios
+T37	SINTOMA 1549 1568	aspecto cicatricial
+T38	SINTOMA 1635 1682	vasos de suplencia en la periferia de la lesión
+T39	SINTOMA 1000 1018	leve edema medular
+T40	SINTOMA 1616 1620	fuga

@@ -1,6 +1,34 @@
-T1	SINTOMA 1522 1555	afectación de mucosa nasal y piel
-T2	SINTOMA 285 301	congestión nasal
-T3	SINTOMA 2061 2068	fallece
-T4	SINTOMA 946 988	fondo de ojo no se apreciaron alteraciones
-T5	SINTOMA 487 495	ojo rojo
-T6	SINTOMA 651 731	reflejos, motilidad y tonometría oculares se encontraban dentro de la normalidad
+T1	ENFERMEDAD 1886 1932	recidiva extramedular en forma de SM de la LMA
+T2	ENFERMEDAD 1022 1059	afectación leucémica de la conjuntiva
+T3	ENFERMEDAD 64 77	mieloblástica
+T4	ENFERMEDAD 1599 1648	SM que afectaba a conjuntiva, piel y mucosa nasal
+T5	ENFERMEDAD 240 268	cuadro respiratorio catarral
+T6	ENFERMEDAD 2124 2126	SM
+T7	ENFERMEDAD 2135 2154	fallo multiorgánico
+T8	ENFERMEDAD 352 383	pápulas eritematosas en espalda
+T9	ENFERMEDAD 785 867	OD una lesión carnosa sobreelevada de color salmón en el tarso superior e inferior
+T10	ENFERMEDAD 385 429	adenopatías supraclaviculares y submaxilares
+T11	ENFERMEDAD 875 938	OI se encontró una lesión similar en conjuntiva tarsal inferior
+T12	ENFERMEDAD 1467 1488	sarcoma granulocítico
+T13	ENFERMEDAD 2025 2033	lesiones
+T14	ENFERMEDAD 56 97	LMA M1 (mieloblástica sin diferenciación)
+T15	ENFERMEDAD 201 204	LAM
+T16	PROCEDIMIENTO 1498 1506	biopsias
+T17	PROCEDIMIENTO 1979 1997	protocolo FLAG-IDA
+T18	PROCEDIMIENTO 1126 1145	estudio histológico
+T19	PROCEDIMIENTO 1690 1729	frotis de sangre periférica y en médula
+T20	PROCEDIMIENTO 651 692	reflejos, motilidad y tonometría oculares
+T21	PROCEDIMIENTO 1279 1297	inmunohistoquímica
+T22	PROCEDIMIENTO 1792 1806	punción lumbar
+T23	PROCEDIMIENTO 739 770	biomicroscopía de polo anterior
+T24	PROCEDIMIENTO 319 330	antibiótico
+T25	PROCEDIMIENTO 946 958	fondo de ojo
+T26	PROCEDIMIENTO 150 207	tratamiento quimioterápico según protocolo PETHEMA-LAM 99
+T27	PROCEDIMIENTO 560 571	exploración
+T28	PROCEDIMIENTO 1049 1105	conjuntiva por lo que se procedió a realizar una biopsia
+T29	SINTOMA 1522 1555	afectación de mucosa nasal y piel
+T30	SINTOMA 487 495	ojo rojo
+T31	SINTOMA 285 301	congestión nasal
+T32	SINTOMA 651 731	reflejos, motilidad y tonometría oculares se encontraban dentro de la normalidad
+T33	SINTOMA 946 988	fondo de ojo no se apreciaron alteraciones
+T34	SINTOMA 2061 2068	fallece

@@ -1,49 +1,78 @@
-T1	SINTOMA 851 865	adelgazamiento
-T2	SINTOMA 831 839	anorexia
-T3	SINTOMA 3741 3753	asintomático
-T4	SINTOMA 841 848	astenia
-T5	SINTOMA 1167 1216	Ausculatación pulmonar sin alteraciones aparentes
-T6	SINTOMA 2539 2593	Busqueda de bacilos acido-alcohol resistentes negativa
-T7	SINTOMA 1837 1931	calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón
-T8	SINTOMA 1031 1070	circulación colateral abdominal anormal
-T9	SINTOMA 714 722	coágulos
-T10	SINTOMA 2595 2666	Cultivos de orina (multiples muestras) en médio de Lowenstein negativas
-T11	SINTOMA 998 1006	dolorosa
-T12	SINTOMA 944 983	emplastamiento del flanco/región lumbar
-T13	SINTOMA 3582 3667	endoscopia digestiva superior y colonoscopia, las cuales no evidenciaron alteraciones
-T14	SINTOMA 1302 1313	Eosinofilia
-T15	SINTOMA 680 702	hematuria macroscópica
-T16	SINTOMA 1288 1300	leucocitosis
-T17	SINTOMA 770 780	lumbalgias
-T18	SINTOMA 2497 2537	Mantoux (prueba de tuberculina) negativa
-T19	SINTOMA 2758 2771	masa quística
-T20	SINTOMA 107 126	masa quistica renal
-T21	SINTOMA 598 629	material gelatinoso en la orina
-T22	SINTOMA 1106 1136	Miembros inferiores sin edemas
-T23	SINTOMA 782 789	nauseas
-T24	SINTOMA 3511 3518	PT3NxMx
-T25	SINTOMA 803 825	quejas urinarias bajas
-T26	SINTOMA 2321 2373	Radiografia de tórax sin alteraciones significativas
-T27	SINTOMA 1420 1463	riñón derecho de dimensiones algo reducidas
-T28	SINTOMA 2668 2733	Serología para Echinococcos granulosis y multilocularis negativas
-T29	SINTOMA 871 914	síntomas respiratórios o gastrointestinales
-T30	SINTOMA 792 799	vómitos
-T31	PROCEDIMIENTO 1167 1189	Ausculatación pulmonar
-T32	PROCEDIMIENTO 1397 1406	ecografía
-T33	PROCEDIMIENTO 1763 1782	TAC abdominopélvica
-T34	PROCEDIMIENTO 2083 2110	administración de contraste
-T35	PROCEDIMIENTO 2321 2341	Radiografia de tórax
-T36	PROCEDIMIENTO 2497 2504	Mantoux
-T37	PROCEDIMIENTO 2506 2527	prueba de tuberculina
-T38	PROCEDIMIENTO 2539 2584	Busqueda de bacilos acido-alcohol resistentes
-T39	PROCEDIMIENTO 2595 2656	Cultivos de orina (multiples muestras) en médio de Lowenstein
-T40	PROCEDIMIENTO 2668 2723	Serología para Echinococcos granulosis y multilocularis
-T41	PROCEDIMIENTO 280 286	AINE-s
-T42	PROCEDIMIENTO 2901 2957	nefrectomía radical izquierda por incisión de lumbotomía
-T43	PROCEDIMIENTO 2996 3020	examen anatomopatológico
-T44	PROCEDIMIENTO 3555 3566	histológico
-T45	PROCEDIMIENTO 3582 3611	endoscopia digestiva superior
-T46	PROCEDIMIENTO 3614 3626	colonoscopia
-T47	PROCEDIMIENTO 457 489	artroplastia de cadera izquierda
-T48	PROCEDIMIENTO 521 556	cirurgía abdominal o genitourinaria
-T49	PROCEDIMIENTO 919 932	examen físico
+T1	ENFERMEDAD 2758 2780	masa quística compleja
+T2	ENFERMEDAD 1261 1267	anemia
+T3	ENFERMEDAD 153 172	artritis reumatoide
+T4	ENFERMEDAD 1086 1096	varicocele
+T5	ENFERMEDAD 174 177	HTA
+T6	ENFERMEDAD 190 202	dislipidemia
+T7	ENFERMEDAD 1573 1642	riñon izquierdo presenta quiste complejo voluminoso del polo superior
+T8	ENFERMEDAD 204 225	tuberculosis pulmonar
+T9	ENFERMEDAD 1142 1165	adenopatias periféricas
+T10	ENFERMEDAD 295 313	hábitos tabaquicos
+T11	ENFERMEDAD 3382 3416	pielonefritis con discreta atrofia
+T12	ENFERMEDAD 1796 1931	formación quística compleja que contenía calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón
+T13	ENFERMEDAD 430 444	litiasis renal
+T14	ENFERMEDAD 3468 3510	adenocarcinoma mucinoso de la pélvis renal
+T15	ENFERMEDAD 680 702	hematuria macroscópica
+T16	ENFERMEDAD 2235 2264	adenopatías retroperitoneales
+T17	ENFERMEDAD 2267 2319	alteración morfológica de las glandulas suprarenales
+T18	ENFERMEDAD 2436 2470	lesiones de naturaleza metastásica
+T19	ENFERMEDAD 2476 2495	tuberculosis activa
+T20	ENFERMEDAD 3030 3039	neoplasia
+T21	ENFERMEDAD 1535 1568	quiste simple en el polo superior
+T22	ENFERMEDAD 2386 2404	lesiones quísticas
+T23	ENFERMEDAD 1012 1025	hepatomegalia
+T24	ENFERMEDAD 3280 3314	lesión invadía el parénquima renal
+T25	ENFERMEDAD 3449 3454	tumor
+T26	ENFERMEDAD 107 126	masa quistica renal
+T27	ENFERMEDAD 1031 1062	circulación colateral abdominal
+T28	ENFERMEDAD 2828 2884	lesiones de naturaleza infecciosa especifica/parasitaria
+T29	PROCEDIMIENTO 919 932	examen físico
+T30	PROCEDIMIENTO 2996 3020	examen anatomopatológico
+T31	PROCEDIMIENTO 1397 1406	ecografía
+T32	PROCEDIMIENTO 3582 3611	endoscopia digestiva superior
+T33	PROCEDIMIENTO 3614 3626	colonoscopia
+T34	PROCEDIMIENTO 2901 2957	nefrectomía radical izquierda por incisión de lumbotomía
+T35	PROCEDIMIENTO 1167 1189	Ausculatación pulmonar
+T36	PROCEDIMIENTO 1763 1782	TAC abdominopélvica
+T37	PROCEDIMIENTO 457 489	artroplastia de cadera izquierda
+T38	PROCEDIMIENTO 521 556	cirurgía abdominal o genitourinaria
+T39	PROCEDIMIENTO 2083 2110	administración de contraste
+T40	PROCEDIMIENTO 2321 2341	Radiografia de tórax
+T41	PROCEDIMIENTO 2497 2504	Mantoux
+T42	PROCEDIMIENTO 2506 2527	prueba de tuberculina
+T43	PROCEDIMIENTO 2595 2656	Cultivos de orina (multiples muestras) en médio de Lowenstein
+T44	PROCEDIMIENTO 2668 2723	Serología para Echinococcos granulosis y multilocularis
+T45	PROCEDIMIENTO 280 286	AINE-s
+T46	PROCEDIMIENTO 2539 2584	Busqueda de bacilos acido-alcohol resistentes
+T47	PROCEDIMIENTO 3555 3566	histológico
+T48	SINTOMA 944 983	emplastamiento del flanco/región lumbar
+T49	SINTOMA 1420 1463	riñón derecho de dimensiones algo reducidas
+T50	SINTOMA 1288 1300	leucocitosis
+T51	SINTOMA 1302 1313	Eosinofilia
+T52	SINTOMA 3511 3518	PT3NxMx
+T53	SINTOMA 770 780	lumbalgias
+T54	SINTOMA 782 789	nauseas
+T55	SINTOMA 792 799	vómitos
+T56	SINTOMA 831 839	anorexia
+T57	SINTOMA 841 848	astenia
+T58	SINTOMA 851 865	adelgazamiento
+T59	SINTOMA 2497 2537	Mantoux (prueba de tuberculina) negativa
+T60	SINTOMA 2668 2733	Serología para Echinococcos granulosis y multilocularis negativas
+T61	SINTOMA 3741 3753	asintomático
+T62	SINTOMA 998 1006	dolorosa
+T63	SINTOMA 1106 1136	Miembros inferiores sin edemas
+T64	SINTOMA 803 825	quejas urinarias bajas
+T65	SINTOMA 2539 2593	Busqueda de bacilos acido-alcohol resistentes negativa
+T66	SINTOMA 2595 2666	Cultivos de orina (multiples muestras) en médio de Lowenstein negativas
+T67	SINTOMA 680 702	hematuria macroscópica
+T68	SINTOMA 1167 1216	Ausculatación pulmonar sin alteraciones aparentes
+T69	SINTOMA 2321 2373	Radiografia de tórax sin alteraciones significativas
+T70	SINTOMA 3582 3667	endoscopia digestiva superior y colonoscopia, las cuales no evidenciaron alteraciones
+T71	SINTOMA 598 629	material gelatinoso en la orina
+T72	SINTOMA 871 914	síntomas respiratórios o gastrointestinales
+T73	SINTOMA 1031 1070	circulación colateral abdominal anormal
+T74	SINTOMA 107 126	masa quistica renal
+T75	SINTOMA 714 722	coágulos
+T76	SINTOMA 1480 1518	aumento de ecogenicidad del parénquima
+T77	SINTOMA 1837 1931	calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón
+T78	SINTOMA 2758 2771	masa quística

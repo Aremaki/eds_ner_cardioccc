@@ -1,48 +1,48 @@
-T1	SINTOMA 286 307	dolor abdominal agudo
-T2	SINTOMA 393 399	fiebre
-T3	SINTOMA 1882 1888	disnea
-T4	SINTOMA 1013 1043	cifras de hemoglobina normales
-T5	SINTOMA 834 870	correctos niveles de anticoagulación
-T6	SINTOMA 1902 1927	derrame pleural bilateral
-T7	SINTOMA 1746 1785	disminución de sus niveles plaquetarios
-T8	SINTOMA 570 597	dolor abdominal epigástrico
-T9	SINTOMA 505 530	exploración física normal
-T10	SINTOMA 1890 1899	hipoxemia
-T11	SINTOMA 946 968	moderada trombocitosis
-T12	SINTOMA 1302 1336	mutación JAK2 siendo esta positiva
-T13	SINTOMA 1071 1299	proteinograma e inmunofijación en suero y orina, estudio trombofílico determinando anticoagulante lúpico, Ac anticardiolipina y beta 2 glicoproteína I, mutación Factor V Leiden, protrombina 20,210 G-A con resultado de normalidad
-T14	SINTOMA 340 386	ritmo deposicional de características normales
-T15	SINTOMA 540 567	ruidos cardiacos arrítmicos
-T16	SINTOMA 2042 2125	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car) con resultado positivo
-T17	ENFERMEDAD 40 61	hipertensión arterial
-T18	ENFERMEDAD 63 94	accidente isquémico transitorio
-T19	ENFERMEDAD 96 108	osteoporosis
-T20	ENFERMEDAD 110 168	trombosis venosa profunda de extremidad inferior izquierda
-T21	ENFERMEDAD 1572 1592	isquemia mesentérica
-T22	ENFERMEDAD 216 237	fibrilación auricular
-T23	ENFERMEDAD 1902 1927	derrame pleural bilateral
-T24	ENFERMEDAD 1972 2006	tromboembolismo pulmonar bilateral
-T25	ENFERMEDAD 2024 2027	HIT
-T26	ENFERMEDAD 651 688	trombosis venosa mesentérica y portal
-T27	ENFERMEDAD 743 800	trombosis venosa portal, esplénica y mesentérica superior
-T28	ENFERMEDAD 2389 2404	derrame pleural
-T29	ENFERMEDAD 2503 2521	émbolos pulmonares
-T30	ENFERMEDAD 2654 2656	FA
-T31	ENFERMEDAD 1368 1392	trombosis del eje portal
-T32	ENFERMEDAD 1416 1457	síndrome mieloproliferativo JAK2 positivo
-T33	ENFERMEDAD 1890 1899	hipoxemia
-T34	PROCEDIMIENTO 1056 1066	bioquímica
-T35	PROCEDIMIENTO 1071 1084	proteinograma
-T36	PROCEDIMIENTO 1087 1118	inmunofijación en suero y orina
-T37	PROCEDIMIENTO 1120 1140	estudio trombofílico
-T38	PROCEDIMIENTO 1544 1567	intervención quirúrgica
-T39	PROCEDIMIENTO 173 212	anticoagulación oral con antivitamina K
-T40	PROCEDIMIENTO 1940 1957	angioTAC torácico
-T41	PROCEDIMIENTO 2042 2102	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car)
-T42	PROCEDIMIENTO 2525 2533	angioTAC
-T43	PROCEDIMIENTO 2671 2690	tratamiento con AVK
-T44	PROCEDIMIENTO 505 523	exploración física
-T45	PROCEDIMIENTO 570 612	dolor abdominal epigástrico a la palpación
-T46	PROCEDIMIENTO 620 639	ecografía abdominal
-T47	PROCEDIMIENTO 714 727	TAC abdominal
-T48	PROCEDIMIENTO 925 934	analítica
+T1	ENFERMEDAD 40 61	hipertensión arterial
+T2	ENFERMEDAD 63 94	accidente isquémico transitorio
+T3	ENFERMEDAD 96 108	osteoporosis
+T4	ENFERMEDAD 110 168	trombosis venosa profunda de extremidad inferior izquierda
+T5	ENFERMEDAD 1572 1592	isquemia mesentérica
+T6	ENFERMEDAD 216 237	fibrilación auricular
+T7	ENFERMEDAD 1902 1927	derrame pleural bilateral
+T8	ENFERMEDAD 1972 2006	tromboembolismo pulmonar bilateral
+T9	ENFERMEDAD 2024 2027	HIT
+T10	ENFERMEDAD 651 688	trombosis venosa mesentérica y portal
+T11	ENFERMEDAD 743 800	trombosis venosa portal, esplénica y mesentérica superior
+T12	ENFERMEDAD 2389 2404	derrame pleural
+T13	ENFERMEDAD 2503 2521	émbolos pulmonares
+T14	ENFERMEDAD 2654 2656	FA
+T15	ENFERMEDAD 1368 1392	trombosis del eje portal
+T16	ENFERMEDAD 1416 1457	síndrome mieloproliferativo JAK2 positivo
+T17	ENFERMEDAD 1890 1899	hipoxemia
+T18	PROCEDIMIENTO 173 212	anticoagulación oral con antivitamina K
+T19	PROCEDIMIENTO 1940 1957	angioTAC torácico
+T20	PROCEDIMIENTO 570 612	dolor abdominal epigástrico a la palpación
+T21	PROCEDIMIENTO 2042 2102	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car)
+T22	PROCEDIMIENTO 620 639	ecografía abdominal
+T23	PROCEDIMIENTO 714 727	TAC abdominal
+T24	PROCEDIMIENTO 2525 2533	angioTAC
+T25	PROCEDIMIENTO 1071 1084	proteinograma
+T26	PROCEDIMIENTO 1087 1118	inmunofijación en suero y orina
+T27	PROCEDIMIENTO 1120 1140	estudio trombofílico
+T28	PROCEDIMIENTO 1544 1567	intervención quirúrgica
+T29	PROCEDIMIENTO 2671 2690	tratamiento con AVK
+T30	PROCEDIMIENTO 1056 1066	bioquímica
+T31	PROCEDIMIENTO 505 523	exploración física
+T32	PROCEDIMIENTO 925 934	analítica
+T33	SINTOMA 286 307	dolor abdominal agudo
+T34	SINTOMA 1746 1785	disminución de sus niveles plaquetarios
+T35	SINTOMA 393 399	fiebre
+T36	SINTOMA 1882 1888	disnea
+T37	SINTOMA 1890 1899	hipoxemia
+T38	SINTOMA 540 567	ruidos cardiacos arrítmicos
+T39	SINTOMA 570 597	dolor abdominal epigástrico
+T40	SINTOMA 946 968	moderada trombocitosis
+T41	SINTOMA 1013 1043	cifras de hemoglobina normales
+T42	SINTOMA 1302 1336	mutación JAK2 siendo esta positiva
+T43	SINTOMA 505 530	exploración física normal
+T44	SINTOMA 340 386	ritmo deposicional de características normales
+T45	SINTOMA 834 870	correctos niveles de anticoagulación
+T46	SINTOMA 2042 2125	técnica (ID-PaGIA Heparine/PF4/heparin antibody test/ID-Car) con resultado positivo
+T47	SINTOMA 1071 1299	proteinograma e inmunofijación en suero y orina, estudio trombofílico determinando anticoagulante lúpico, Ac anticardiolipina y beta 2 glicoproteína I, mutación Factor V Leiden, protrombina 20,210 G-A con resultado de normalidad
+T48	SINTOMA 1902 1927	derrame pleural bilateral

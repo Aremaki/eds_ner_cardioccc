@@ -1,32 +1,43 @@
-T1	SINTOMA 1001 1103	análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales
-T2	SINTOMA 897 918	debilidad de miembros
-T3	SINTOMA 601 653	dificultad para el resto de los movimientos oculares
-T4	SINTOMA 1145 1168	dificultad respiratoria
-T5	SINTOMA 229 237	diplopía
-T6	SINTOMA 1908 1916	diplopía
-T7	SINTOMA 666 685	diplopia horizontal
-T8	SINTOMA 1310 1318	disfagia
-T9	SINTOMA 1299 1307	disfonía
-T10	SINTOMA 1394 1425	disociación albúmino-citológica
-T11	SINTOMA 1609 1672	estudio inmunológico fue positivo para el anticuerpo anti GQ-1b
-T12	SINTOMA 871 884	hiporreflexia
-T13	SINTOMA 170 200	inestabilidad en bipedestación
-T14	SINTOMA 1921 1957	limitación de la abducción bilateral
-T15	SINTOMA 510 542	limitación en la abducción de AO
-T16	SINTOMA 855 869	marcha atáxica
-T17	SINTOMA 89 95	mareos
-T18	SINTOMA 1281 1297	parálisis facial
-T19	SINTOMA 412 444	pupilas dilatadas y arrefléxicas
-T20	SINTOMA 1258 1279	síntomas neurológicos
-T21	SINTOMA 74 86	visión doble
-T22	ENFERMEDAD 776 801	síndrome de Miller Fisher
-T23	ENFERMEDAD 323 328	gripe
-T24	ENFERMEDAD 1526 1542	desmielinización
-T25	ENFERMEDAD 1497 1523	lesión ocupante de espacio
-T26	ENFERMEDAD 229 237	diplopía
-T27	ENFERMEDAD 1908 1916	diplopía
-T28	ENFERMEDAD 1310 1318	disfagia
-T29	ENFERMEDAD 1299 1307	disfonía
-T30	ENFERMEDAD 1281 1297	parálisis facial
-T31	ENFERMEDAD 74 86	visión doble
-T32	ENFERMEDAD 666 685	diplopia horizontal
+T1	ENFERMEDAD 776 801	síndrome de Miller Fisher
+T2	ENFERMEDAD 323 328	gripe
+T3	ENFERMEDAD 1526 1542	desmielinización
+T4	ENFERMEDAD 1497 1523	lesión ocupante de espacio
+T5	ENFERMEDAD 229 237	diplopía
+T6	ENFERMEDAD 1908 1916	diplopía
+T7	ENFERMEDAD 1310 1318	disfagia
+T8	ENFERMEDAD 1299 1307	disfonía
+T9	ENFERMEDAD 1281 1297	parálisis facial
+T10	ENFERMEDAD 74 86	visión doble
+T11	ENFERMEDAD 666 685	diplopia horizontal
+T12	PROCEDIMIENTO 1609 1629	estudio inmunológico
+T13	PROCEDIMIENTO 1354 1368	punción lumbar
+T14	PROCEDIMIENTO 1191 1203	fisioterapia
+T15	PROCEDIMIENTO 1433 1461	resonancia magnética nuclear
+T16	PROCEDIMIENTO 482 493	midriáticos
+T17	PROCEDIMIENTO 1463 1466	RMN
+T18	PROCEDIMIENTO 1555 1572	electromiográfico
+T19	PROCEDIMIENTO 1001 1019	análisis de sangre
+T20	PROCEDIMIENTO 1028 1058	tomografía axial computarizada
+T21	PROCEDIMIENTO 1060 1063	TAC
+T22	PROCEDIMIENTO 702 727	exploración oftalmológica
+T23	SINTOMA 1145 1168	dificultad respiratoria
+T24	SINTOMA 412 444	pupilas dilatadas y arrefléxicas
+T25	SINTOMA 74 86	visión doble
+T26	SINTOMA 1394 1425	disociación albúmino-citológica
+T27	SINTOMA 89 95	mareos
+T28	SINTOMA 855 869	marcha atáxica
+T29	SINTOMA 871 884	hiporreflexia
+T30	SINTOMA 897 918	debilidad de miembros
+T31	SINTOMA 510 542	limitación en la abducción de AO
+T32	SINTOMA 1281 1297	parálisis facial
+T33	SINTOMA 1299 1307	disfonía
+T34	SINTOMA 1310 1318	disfagia
+T35	SINTOMA 229 237	diplopía
+T36	SINTOMA 601 653	dificultad para el resto de los movimientos oculares
+T37	SINTOMA 170 200	inestabilidad en bipedestación
+T38	SINTOMA 1258 1279	síntomas neurológicos
+T39	SINTOMA 666 685	diplopia horizontal
+T40	SINTOMA 1001 1103	análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales
+T41	SINTOMA 1609 1672	estudio inmunológico fue positivo para el anticuerpo anti GQ-1b
+T42	SINTOMA 1921 1957	limitación de la abducción bilateral
+T43	SINTOMA 1908 1916	diplopía

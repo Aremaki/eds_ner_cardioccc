@@ -1,37 +1,63 @@
-T1	SINTOMA 1238 1282	catéter de diálisis peritoneal bien colocado
-T2	SINTOMA 958 1016	dolor a la palpación profunda de predominio en fosa iliaca
-T3	SINTOMA 1440 1459	fugas del contraste
-T4	SINTOMA 1833 1857	Líquido peritoneal claro
-T5	SINTOMA 386 402	pseudotumoración
-T6	SINTOMA 839 854	dolor abdominal
-T7	SINTOMA 856 863	diarrea
-T8	SINTOMA 865 872	nauseas
-T9	SINTOMA 1026 1041	palidez cutánea
-T10	SINTOMA 877 884	vómitos
-T11	SINTOMA 887 898	escalofríos
-T12	SINTOMA 903 909	fiebre
-T13	SINTOMA 1094 1101	afebril
-T14	SINTOMA 1061 1067	edemas
-T15	ENFERMEDAD 2142 2156	neumoperitoneo
-T16	ENFERMEDAD 56 80	cardiopatía hipertensiva
-T17	ENFERMEDAD 2506 2520	neumoperitoneo
-T18	ENFERMEDAD 82 101	hipercolesterolemia
-T19	ENFERMEDAD 103 119	diabetes tipo II
-T20	ENFERMEDAD 1773 1793	infección peritoneal
-T21	ENFERMEDAD 139 155	prolapso uterino
-T22	ENFERMEDAD 1822 1831	infección
-T23	ENFERMEDAD 172 181	cistocele
-T24	ENFERMEDAD 183 206	hipotiroidismo primario
-T25	ENFERMEDAD 208 231	neuralgia del trigémino
-T26	ENFERMEDAD 233 247	asma bronquial
-T27	ENFERMEDAD 249 258	depresión
-T28	ENFERMEDAD 260 277	arterioesclerosis
-T29	ENFERMEDAD 299 321	adenomioma de vesícula
-T30	ENFERMEDAD 1970 1990	infección peritoneal
-T31	ENFERMEDAD 323 348	insuficiencia suprarrenal
-T32	ENFERMEDAD 1285 1299	neumoperitoneo
-T33	ENFERMEDAD 419 440	hematoma abcesificado
-T34	ENFERMEDAD 1398 1412	neumoperitoneo
-T35	ENFERMEDAD 1463 1495	perforación de una víscera hueca
-T36	ENFERMEDAD 742 756	neumoperitoneo
-T37	ENFERMEDAD 2412 2427	aire peritoneal
+T1	ENFERMEDAD 2142 2156	neumoperitoneo
+T2	ENFERMEDAD 56 80	cardiopatía hipertensiva
+T3	ENFERMEDAD 2506 2520	neumoperitoneo
+T4	ENFERMEDAD 82 101	hipercolesterolemia
+T5	ENFERMEDAD 103 119	diabetes tipo II
+T6	ENFERMEDAD 1773 1793	infección peritoneal
+T7	ENFERMEDAD 139 155	prolapso uterino
+T8	ENFERMEDAD 1822 1831	infección
+T9	ENFERMEDAD 172 181	cistocele
+T10	ENFERMEDAD 183 206	hipotiroidismo primario
+T11	ENFERMEDAD 208 231	neuralgia del trigémino
+T12	ENFERMEDAD 233 247	asma bronquial
+T13	ENFERMEDAD 249 258	depresión
+T14	ENFERMEDAD 260 277	arterioesclerosis
+T15	ENFERMEDAD 299 321	adenomioma de vesícula
+T16	ENFERMEDAD 1970 1990	infección peritoneal
+T17	ENFERMEDAD 323 348	insuficiencia suprarrenal
+T18	ENFERMEDAD 1285 1299	neumoperitoneo
+T19	ENFERMEDAD 419 440	hematoma abcesificado
+T20	ENFERMEDAD 1398 1412	neumoperitoneo
+T21	ENFERMEDAD 1463 1495	perforación de una víscera hueca
+T22	ENFERMEDAD 742 756	neumoperitoneo
+T23	ENFERMEDAD 2412 2427	aire peritoneal
+T24	PROCEDIMIENTO 1705 1724	diálisis peritoneal
+T25	PROCEDIMIENTO 969 1024	palpación profunda de predominio en fosa iliaca derecha
+T26	PROCEDIMIENTO 2192 2211	diálisis peritoneal
+T27	PROCEDIMIENTO 2077 2091	dieta absoluta
+T28	PROCEDIMIENTO 2098 2110	sueroterapia
+T29	PROCEDIMIENTO 121 134	histerectomía
+T30	PROCEDIMIENTO 158 181	corrección de cistocele
+T31	PROCEDIMIENTO 2281 2300	diálisis peritoneal
+T32	PROCEDIMIENTO 2323 2330	drenaje
+T33	PROCEDIMIENTO 1881 1912	líquido para cultivo y análisis
+T34	PROCEDIMIENTO 1149 1158	Hemograma
+T35	PROCEDIMIENTO 1173 1190	gasometría venosa
+T36	PROCEDIMIENTO 279 294	colecistectomía
+T37	PROCEDIMIENTO 1193 1223	radiografía de tórax y abdomen
+T38	PROCEDIMIENTO 1249 1268	diálisis peritoneal
+T39	PROCEDIMIENTO 351 372	nefrectomía bilateral
+T40	PROCEDIMIENTO 1358 1380	TAC con contraste oral
+T41	PROCEDIMIENTO 508 548	diálisis peritoneal continua ambulatoria
+T42	PROCEDIMIENTO 550 554	DPCA
+T43	PROCEDIMIENTO 1238 1268	catéter de diálisis peritoneal
+T44	PROCEDIMIENTO 1160 1170	bioquímica
+T45	PROCEDIMIENTO 917 935	exploración física
+T46	PROCEDIMIENTO 474 503	tratamiento renal sustitutivo
+T47	PROCEDIMIENTO 1138 1147	analítica
+T48	PROCEDIMIENTO 2332 2382	colocar a la paciente en posición de Trendelemburg
+T49	PROCEDIMIENTO 2432 2453	estudios radiológicos
+T50	SINTOMA 958 1016	dolor a la palpación profunda de predominio en fosa iliaca
+T51	SINTOMA 839 854	dolor abdominal
+T52	SINTOMA 856 863	diarrea
+T53	SINTOMA 865 872	nauseas
+T54	SINTOMA 1026 1041	palidez cutánea
+T55	SINTOMA 877 884	vómitos
+T56	SINTOMA 887 898	escalofríos
+T57	SINTOMA 903 909	fiebre
+T58	SINTOMA 1094 1101	afebril
+T59	SINTOMA 386 402	pseudotumoración
+T60	SINTOMA 1440 1459	fugas del contraste
+T61	SINTOMA 1061 1067	edemas
+T62	SINTOMA 1238 1282	catéter de diálisis peritoneal bien colocado
+T63	SINTOMA 1833 1857	Líquido peritoneal claro

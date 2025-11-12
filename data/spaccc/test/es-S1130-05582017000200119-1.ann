@@ -1,25 +1,25 @@
-T1	SINTOMA 746 756	tumoración
-T2	SINTOMA 375 391	nódulo parotídeo
-T3	SINTOMA 887 900	nódulo sólido
-T4	SINTOMA 1768 1780	paresia leve
-T5	SINTOMA 81 118	tumoración indolora a nivel parotídeo
-T6	ENFERMEDAD 1519 1573	teratoma quístico maduro benigno de glándula parotídea
-T7	ENFERMEDAD 204 246	lesión sólida a nivel de glándula parótida
-T8	ENFERMEDAD 982 1009	teratoma quístico parotídeo
-T9	ENFERMEDAD 1201 1207	lesión
-T10	PROCEDIMIENTO 1061 1084	intervención quirúrgica
-T11	PROCEDIMIENTO 1113 1207	parotidectomía suprafacial conservadora del nervio facial con resección en bloque de la lesión
-T12	PROCEDIMIENTO 1224 1231	cirugía
-T13	PROCEDIMIENTO 1247 1298	monitorización de todas las ramas del nervio facial
-T14	PROCEDIMIENTO 1342 1389	espécimen quirúrgico obtenido tras la resección
-T15	PROCEDIMIENTO 1453 1480	resultado anatomopatológico
-T16	PROCEDIMIENTO 162 180	exploración física
-T17	PROCEDIMIENTO 1894 1901	cirugía
-T18	PROCEDIMIENTO 296 343	ecografía con punción-aspiración con aguja fina
-T19	PROCEDIMIENTO 345 349	PAAF
-T20	PROCEDIMIENTO 544 557	Doppler color
-T21	PROCEDIMIENTO 563 567	PAAF
-T22	PROCEDIMIENTO 609 620	ecográficos
-T23	PROCEDIMIENTO 653 718	tomografía computarizada (TC) de cuello con contraste intravenoso
-T24	PROCEDIMIENTO 679 681	TC
-T25	PROCEDIMIENTO 726 728	TC
+T1	ENFERMEDAD 1519 1573	teratoma quístico maduro benigno de glándula parotídea
+T2	ENFERMEDAD 204 246	lesión sólida a nivel de glándula parótida
+T3	ENFERMEDAD 982 1009	teratoma quístico parotídeo
+T4	ENFERMEDAD 1201 1207	lesión
+T5	PROCEDIMIENTO 1113 1207	parotidectomía suprafacial conservadora del nervio facial con resección en bloque de la lesión
+T6	PROCEDIMIENTO 162 180	exploración física
+T7	PROCEDIMIENTO 1247 1298	monitorización de todas las ramas del nervio facial
+T8	PROCEDIMIENTO 296 343	ecografía con punción-aspiración con aguja fina
+T9	PROCEDIMIENTO 345 349	PAAF
+T10	PROCEDIMIENTO 544 557	Doppler color
+T11	PROCEDIMIENTO 563 567	PAAF
+T12	PROCEDIMIENTO 653 718	tomografía computarizada (TC) de cuello con contraste intravenoso
+T13	PROCEDIMIENTO 679 681	TC
+T14	PROCEDIMIENTO 726 728	TC
+T15	PROCEDIMIENTO 1061 1084	intervención quirúrgica
+T16	PROCEDIMIENTO 1453 1480	resultado anatomopatológico
+T17	PROCEDIMIENTO 1342 1389	espécimen quirúrgico obtenido tras la resección
+T18	PROCEDIMIENTO 609 620	ecográficos
+T19	PROCEDIMIENTO 1224 1231	cirugía
+T20	PROCEDIMIENTO 1894 1901	cirugía
+T21	SINTOMA 1768 1780	paresia leve
+T22	SINTOMA 81 118	tumoración indolora a nivel parotídeo
+T23	SINTOMA 375 391	nódulo parotídeo
+T24	SINTOMA 746 756	tumoración
+T25	SINTOMA 887 900	nódulo sólido

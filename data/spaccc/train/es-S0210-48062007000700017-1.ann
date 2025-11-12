@@ -1,36 +1,36 @@
-T1	SINTOMA 2097 2133	citologías de orina fueron negativas
-T2	SINTOMA 1914 1944	depósito focal hipermetabólico
-T3	SINTOMA 396 402	G3-pT1
-T4	SINTOMA 247 269	hematuria macroscópica
-T5	SINTOMA 2295 2314	libre de enfermedad
-T6	SINTOMA 805 875	masa sólida de 7 x 6 cms en la musculatura de pared abdominal anterior
-T7	SINTOMA 650 703	tumoración en pared abdominal, a nivel de fosa ilíaca
-T8	SINTOMA 2288 2292	vivo
-T9	ENFERMEDAD 105 125	Infarto de miocardio
-T10	ENFERMEDAD 247 269	hematuria macroscópica
-T11	ENFERMEDAD 140 171	aneurisma abdominal infrarrenal
-T12	ENFERMEDAD 175 189	Litiasis renal
-T13	ENFERMEDAD 1960 1981	metástasis ganglionar
-T14	ENFERMEDAD 316 348	carcinoma transicional de vejiga
-T15	ENFERMEDAD 201 222	Hipertensión arterial
-T16	ENFERMEDAD 1702 1771	metástasis en pared abdominal por un carcinoma micropapilar de vejiga
-T17	ENFERMEDAD 49 58	exfumador
-T18	ENFERMEDAD 459 475	recidiva tumoral
-T19	ENFERMEDAD 1105 1119	lesión nodular
-T20	ENFERMEDAD 2072 2090	recidiva en vejiga
-T21	ENFERMEDAD 415 432	carcinoma in situ
-T22	ENFERMEDAD 516 533	carcinoma in situ
-T23	ENFERMEDAD 1275 1308	carcinoma pobremente diferenciado
-T24	PROCEDIMIENTO 1239 1264	estudio anatomopatológico
-T25	PROCEDIMIENTO 129 171	Cirugía de aneurisma abdominal infrarrenal
+T1	ENFERMEDAD 105 125	Infarto de miocardio
+T2	ENFERMEDAD 247 269	hematuria macroscópica
+T3	ENFERMEDAD 140 171	aneurisma abdominal infrarrenal
+T4	ENFERMEDAD 175 189	Litiasis renal
+T5	ENFERMEDAD 1960 1981	metástasis ganglionar
+T6	ENFERMEDAD 316 348	carcinoma transicional de vejiga
+T7	ENFERMEDAD 201 222	Hipertensión arterial
+T8	ENFERMEDAD 1702 1771	metástasis en pared abdominal por un carcinoma micropapilar de vejiga
+T9	ENFERMEDAD 49 58	exfumador
+T10	ENFERMEDAD 459 475	recidiva tumoral
+T11	ENFERMEDAD 1105 1119	lesión nodular
+T12	ENFERMEDAD 2072 2090	recidiva en vejiga
+T13	ENFERMEDAD 415 432	carcinoma in situ
+T14	ENFERMEDAD 516 533	carcinoma in situ
+T15	ENFERMEDAD 1275 1308	carcinoma pobremente diferenciado
+T16	PROCEDIMIENTO 129 171	Cirugía de aneurisma abdominal infrarrenal
+T17	PROCEDIMIENTO 1803 1806	PET
+T18	PROCEDIMIENTO 1808 1844	Tomografía por emisión de positrones
+T19	PROCEDIMIENTO 556 582	quimioterapia intravesical
+T20	PROCEDIMIENTO 745 791	TAC (Tomografía axial computerizada) abdominal
+T21	PROCEDIMIENTO 2024 2043	TAC abdominopélvico
+T22	PROCEDIMIENTO 899 953	laparotomía con resección en bloque de pared abdominal
+T23	PROCEDIMIENTO 2097 2116	citologías de orina
+T24	PROCEDIMIENTO 2157 2180	ciclos de quimioterapia
+T25	PROCEDIMIENTO 1239 1264	estudio anatomopatológico
 T26	PROCEDIMIENTO 1492 1534	estudio con técnicas de immunohistoquímica
-T27	PROCEDIMIENTO 1803 1806	PET
-T28	PROCEDIMIENTO 1808 1844	Tomografía por emisión de positrones
-T29	PROCEDIMIENTO 2024 2043	TAC abdominopélvico
-T30	PROCEDIMIENTO 2097 2116	citologías de orina
-T31	PROCEDIMIENTO 2157 2180	ciclos de quimioterapia
-T32	PROCEDIMIENTO 556 582	quimioterapia intravesical
-T33	PROCEDIMIENTO 584 587	BCG
-T34	PROCEDIMIENTO 745 791	TAC (Tomografía axial computerizada) abdominal
-T35	PROCEDIMIENTO 899 953	laparotomía con resección en bloque de pared abdominal
-T36	PROCEDIMIENTO 973 992	Anatomía Patológica
+T27	PROCEDIMIENTO 973 992	Anatomía Patológica
+T28	PROCEDIMIENTO 584 587	BCG
+T29	SINTOMA 650 703	tumoración en pared abdominal, a nivel de fosa ilíaca
+T30	SINTOMA 396 402	G3-pT1
+T31	SINTOMA 805 875	masa sólida de 7 x 6 cms en la musculatura de pared abdominal anterior
+T32	SINTOMA 2097 2133	citologías de orina fueron negativas
+T33	SINTOMA 247 269	hematuria macroscópica
+T34	SINTOMA 1914 1944	depósito focal hipermetabólico
+T35	SINTOMA 2288 2292	vivo
+T36	SINTOMA 2295 2314	libre de enfermedad

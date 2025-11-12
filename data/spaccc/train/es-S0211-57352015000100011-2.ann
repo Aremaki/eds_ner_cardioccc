@@ -1,29 +1,58 @@
-T1	SINTOMA 2065 2071	afasia
-T2	SINTOMA 1792 1804	asintomático
-T3	SINTOMA 1940 1946	ataxia
-T4	SINTOMA 4109 4121	bradipsiquia
-T5	SINTOMA 1926 1938	bradipsiquia
-T6	SINTOMA 3277 3295	clínica infecciosa
-T7	SINTOMA 4166 4180	desorientación
-T8	SINTOMA 2339 2358	deterioro cognitivo
-T9	SINTOMA 429 452	dificultad en la marcha
-T10	SINTOMA 639 651	inconsciente
-T11	SINTOMA 988 1006	TAC craneal normal
-T12	SINTOMA 2120 2129	tranquilo
-T13	SINTOMA 2133 2148	actitud plácida
-T14	SINTOMA 2403 2486	afectación del sistema atencional, función ejecutiva, función mnésica y lingüística
-T15	SINTOMA 3027 3076	alteración de señal en las secuencias de difusión
-T16	SINTOMA 3914 3934	andar con un andador
-T17	SINTOMA 2153 2161	angustia
-T18	SINTOMA 2074 2081	apraxia
-T19	SINTOMA 3332 3383	determinación de serologías y anticuerpos es normal
-T20	SINTOMA 1971 2005	enlentecimiento motor generalizado
-T21	SINTOMA 1858 1902	episodios de desorientación temporo-espacial
-T22	SINTOMA 2042 2063	esfuerzo por recordar
-T23	SINTOMA 1271 1299	estable psicopatológicamente
-T24	SINTOMA 1570 1578	Eutímico
-T25	SINTOMA 2007 2022	Fallos mnésicos
-T26	SINTOMA 2518 2568	lenificación y atenuación difusa de ritmo de fondo
-T27	SINTOMA 3158 3211	regresión en T2-FLAIR en polos frontales y temporales
-T28	SINTOMA 3969 3993	se desplaza con bastones
-T29	SINTOMA 2163 2178	sueño mantenido
+T1	ENFERMEDAD 2289 2304	brote psicótico
+T2	ENFERMEDAD 2757 2808	leucodistrofia difuso de predominio fronto parietal
+T3	ENFERMEDAD 102 115	Esquizofrenia
+T4	ENFERMEDAD 736 837	Autointoxicación con una gran cantidad no determinada de tramadol, benzodiacepinas, alcohol y cocaína
+T5	ENFERMEDAD 1304 1329	descompensación psicótica
+T6	ENFERMEDAD 3477 3506	Encefalopatía Hipóxica Tardía
+T7	ENFERMEDAD 3545 3570	lesiones leucodistróficas
+T8	ENFERMEDAD 926 939	rabdomiolisis
+T9	ENFERMEDAD 941 966	insuficiencia renal aguda
+T10	ENFERMEDAD 969 986	proceso neumónico
+T11	ENFERMEDAD 3723 3737	leucodistrofia
+T12	ENFERMEDAD 554 572	episodio psicótico
+T13	ENFERMEDAD 501 572	politraumatismo tras precipitación en contexto de un episodio psicótico
+T14	PROCEDIMIENTO 2681 2692	RMN craneal
+T15	PROCEDIMIENTO 2997 3000	RMN
+T16	PROCEDIMIENTO 196 226	tratamiento psicofarmacológico
+T17	PROCEDIMIENTO 2494 2497	EEG
+T18	PROCEDIMIENTO 988 999	TAC craneal
+T19	PROCEDIMIENTO 4215 4229	Rehabilitación
+T20	PROCEDIMIENTO 3441 3452	neuroimagen
+T21	PROCEDIMIENTO 2205 2229	tratamiento psiquiátrico
+T22	PROCEDIMIENTO 3847 3871	tratamiento psiquiátrico
+T23	PROCEDIMIENTO 2901 2907	RMN-T2
+T24	PROCEDIMIENTO 2919 2931	RMN-T2-FLAIR
+T25	PROCEDIMIENTO 2876 2898	secuencias de difusión
+T26	PROCEDIMIENTO 1549 1568	Terapia Ocupacional
+T27	PROCEDIMIENTO 3310 3319	analítica
+T28	PROCEDIMIENTO 803 818	benzodiacepinas
+T29	PROCEDIMIENTO 3332 3373	determinación de serologías y anticuerpos
+T30	SINTOMA 3027 3076	alteración de señal en las secuencias de difusión
+T31	SINTOMA 1858 1902	episodios de desorientación temporo-espacial
+T32	SINTOMA 1926 1938	bradipsiquia
+T33	SINTOMA 1940 1946	ataxia
+T34	SINTOMA 3158 3211	regresión en T2-FLAIR en polos frontales y temporales
+T35	SINTOMA 1971 2005	enlentecimiento motor generalizado
+T36	SINTOMA 2007 2022	Fallos mnésicos
+T37	SINTOMA 2518 2568	lenificación y atenuación difusa de ritmo de fondo
+T38	SINTOMA 2065 2071	afasia
+T39	SINTOMA 2074 2081	apraxia
+T40	SINTOMA 988 1006	TAC craneal normal
+T41	SINTOMA 429 452	dificultad en la marcha
+T42	SINTOMA 1570 1578	Eutímico
+T43	SINTOMA 3914 3934	andar con un andador
+T44	SINTOMA 3969 3993	se desplaza con bastones
+T45	SINTOMA 4109 4121	bradipsiquia
+T46	SINTOMA 4166 4180	desorientación
+T47	SINTOMA 2153 2161	angustia
+T48	SINTOMA 639 651	inconsciente
+T49	SINTOMA 2403 2486	afectación del sistema atencional, función ejecutiva, función mnésica y lingüística
+T50	SINTOMA 3332 3383	determinación de serologías y anticuerpos es normal
+T51	SINTOMA 1792 1804	asintomático
+T52	SINTOMA 2339 2358	deterioro cognitivo
+T53	SINTOMA 1271 1299	estable psicopatológicamente
+T54	SINTOMA 2042 2063	esfuerzo por recordar
+T55	SINTOMA 2120 2129	tranquilo
+T56	SINTOMA 2133 2148	actitud plácida
+T57	SINTOMA 2163 2178	sueño mantenido
+T58	SINTOMA 3277 3295	clínica infecciosa

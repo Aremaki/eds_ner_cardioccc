@@ -1,20 +1,32 @@
-T1	SINTOMA 1407 1468	cultivo de frotis cutáneo y nasal fue positivo para S. aureus
-T2	SINTOMA 487 534	despegamiento cutáneo en zona axilar y cervical
-T3	SINTOMA 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
-T4	SINTOMA 609 654	eritema e inflamación palpebral y conjuntival
-T5	SINTOMA 723 791	frecuencia cardiaca, respiratoria y presión arterial fueron normales
-T6	SINTOMA 1362 1401	hemocultivo fue informado como negativo
-T7	SINTOMA 156 172	malestar general
-T8	SINTOMA 188 194	fiebre
-T9	SINTOMA 196 218	síntomas respiratorios
-T10	SINTOMA 837 849	leucocitosis
-T11	SINTOMA 893 930	elevación de reactantes de fase aguda
-T12	ENFERMEDAD 963 967	SPEE
-T13	ENFERMEDAD 62 111	exantema eritrósico y doloroso en región cervical
-T14	ENFERMEDAD 1187 1199	eritrodermia
-T15	ENFERMEDAD 1160 1168	lesiones
-T16	ENFERMEDAD 1334 1342	lesiones
-T17	ENFERMEDAD 544 590	lesión costrosa amarillenta en región cervical
-T18	ENFERMEDAD 297 304	prúrigo
-T19	ENFERMEDAD 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
-T20	ENFERMEDAD 609 654	eritema e inflamación palpebral y conjuntival
+T1	ENFERMEDAD 963 967	SPEE
+T2	ENFERMEDAD 62 111	exantema eritrósico y doloroso en región cervical
+T3	ENFERMEDAD 1187 1199	eritrodermia
+T4	ENFERMEDAD 1160 1168	lesiones
+T5	ENFERMEDAD 1334 1342	lesiones
+T6	ENFERMEDAD 544 590	lesión costrosa amarillenta en región cervical
+T7	ENFERMEDAD 297 304	prúrigo
+T8	ENFERMEDAD 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
+T9	ENFERMEDAD 609 654	eritema e inflamación palpebral y conjuntival
+T10	PROCEDIMIENTO 1037 1056	antihistamínico i.v
+T11	PROCEDIMIENTO 1058 1075	fluidoterapia i.v
+T12	PROCEDIMIENTO 1079 1088	analgesia
+T13	PROCEDIMIENTO 340 386	corticoide y antihistamínico por vía sistémica
+T14	PROCEDIMIENTO 393 411	exploración física
+T15	PROCEDIMIENTO 1362 1373	hemocultivo
+T16	PROCEDIMIENTO 1407 1440	cultivo de frotis cutáneo y nasal
+T17	PROCEDIMIENTO 1589 1611	tratamiento parenteral
+T18	PROCEDIMIENTO 804 823	analítica de sangre
+T19	PROCEDIMIENTO 906 930	reactantes de fase aguda
+T20	PROCEDIMIENTO 1645 1668	tratamiento antibiótico
+T21	PROCEDIMIENTO 678 696	exploración física
+T22	SINTOMA 156 172	malestar general
+T23	SINTOMA 188 194	fiebre
+T24	SINTOMA 196 218	síntomas respiratorios
+T25	SINTOMA 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
+T26	SINTOMA 487 534	despegamiento cutáneo en zona axilar y cervical
+T27	SINTOMA 609 654	eritema e inflamación palpebral y conjuntival
+T28	SINTOMA 837 849	leucocitosis
+T29	SINTOMA 1362 1401	hemocultivo fue informado como negativo
+T30	SINTOMA 1407 1468	cultivo de frotis cutáneo y nasal fue positivo para S. aureus
+T31	SINTOMA 893 930	elevación de reactantes de fase aguda
+T32	SINTOMA 723 791	frecuencia cardiaca, respiratoria y presión arterial fueron normales

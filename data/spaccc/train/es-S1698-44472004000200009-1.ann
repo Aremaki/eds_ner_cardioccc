@@ -1,8 +1,28 @@
-T1	SINTOMA 593 642	área radiotransparente en el hueso marginal a 3.6
-T2	SINTOMA 395 473	bolsa periimplantaria de 6 mm de profundidad, con leve sangramiento al sondaje
-T3	SINTOMA 842 854	defecto óseo
-T4	SINTOMA 339 388	enrojecimiento de la mucosa adyacente al implante
-T5	SINTOMA 784 826	rodete de tejido blando de aspecto fibroso
-T6	ENFERMEDAD 63 70	fumador
-T7	ENFERMEDAD 395 416	bolsa periimplantaria
-T8	ENFERMEDAD 842 870	defecto óseo periimplantario
+T1	ENFERMEDAD 63 70	fumador
+T2	ENFERMEDAD 395 416	bolsa periimplantaria
+T3	ENFERMEDAD 842 870	defecto óseo periimplantario
+T4	PROCEDIMIENTO 1521 1545	análisis histopatológico
+T5	PROCEDIMIENTO 658 696	tallado oclusal de la corona protésica
+T6	PROCEDIMIENTO 1811 1822	radiografía
+T7	PROCEDIMIENTO 714 750	se levantó un colgajo mucoperióstico
+T8	PROCEDIMIENTO 90 136	rehabilitación fija sobre un implante unitario
+T9	PROCEDIMIENTO 227 246	cementada la corona
+T10	PROCEDIMIENTO 901 951	retirar el tejido patológico con curetas plásticas
+T11	PROCEDIMIENTO 305 319	examen clínico
+T12	PROCEDIMIENTO 998 1069	superficie del implante se descontaminó con gel de clorhexidina al 0.2%
+T13	PROCEDIMIENTO 1090 1122	irrigación con suero fisiológico
+T14	PROCEDIMIENTO 466 473	sondaje
+T15	PROCEDIMIENTO 1127 1212	colgajo fue ampliado para acceder a un torus mandibular lingual en zona de premolares
+T16	PROCEDIMIENTO 556 578	radiografía panorámica
+T17	PROCEDIMIENTO 1288 1338	colgajo fue reposicionado y se suturó con seda 3.0
+T18	PROCEDIMIENTO 1371 1383	higiene oral
+T19	PROCEDIMIENTO 968 993	estudio anatomopatológico
+T20	PROCEDIMIENTO 1780 1802	tratamiento quirúrgico
+T21	PROCEDIMIENTO 380 388	implante
+T22	PROCEDIMIENTO 532 548	corona protésica
+T23	PROCEDIMIENTO 1166 1283	torus mandibular lingual en zona de premolares ipsilateral, el cual se extrajo y particuló para servir de autoinjerto
+T24	SINTOMA 339 388	enrojecimiento de la mucosa adyacente al implante
+T25	SINTOMA 395 473	bolsa periimplantaria de 6 mm de profundidad, con leve sangramiento al sondaje
+T26	SINTOMA 593 642	área radiotransparente en el hueso marginal a 3.6
+T27	SINTOMA 842 854	defecto óseo
+T28	SINTOMA 784 826	rodete de tejido blando de aspecto fibroso

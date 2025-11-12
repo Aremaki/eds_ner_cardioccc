@@ -1,6 +1,10 @@
-T1	SINTOMA 387 434	cultivo de las lesiones, con resultado negativo
-T2	SINTOMA 444 451	prurito
-T3	ENFERMEDAD 48 116	lesión eritematosa circinada, con bordes sobreelevados, eritematosos
-T4	ENFERMEDAD 163 205	lesión, de unos 10 cm, situada en el muslo
-T5	ENFERMEDAD 561 575	eccema atópico
-T6	ENFERMEDAD 301 370	lesiones similares de menor tamaño dispersas en tórax, cuello y muslo
+T1	ENFERMEDAD 48 116	lesión eritematosa circinada, con bordes sobreelevados, eritematosos
+T2	ENFERMEDAD 163 205	lesión, de unos 10 cm, situada en el muslo
+T3	ENFERMEDAD 561 575	eccema atópico
+T4	ENFERMEDAD 301 370	lesiones similares de menor tamaño dispersas en tórax, cuello y muslo
+T5	PROCEDIMIENTO 387 410	cultivo de las lesiones
+T6	PROCEDIMIENTO 491 502	hidratación
+T7	PROCEDIMIENTO 227 238	hidratación
+T8	PROCEDIMIENTO 612 629	corticoide tópico
+T9	SINTOMA 444 451	prurito
+T10	SINTOMA 387 434	cultivo de las lesiones, con resultado negativo

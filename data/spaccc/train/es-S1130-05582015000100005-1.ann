@@ -1,9 +1,31 @@
-T1	SINTOMA 625 664	coágulos de sangre en el canal auditivo
-T2	SINTOMA 987 1037	orificio de entrada estaba en la región submaxilar
-T3	SINTOMA 507 532	hemodinámicamente estable
-T4	SINTOMA 534 540	alerta
-T5	SINTOMA 543 552	orientado
-T6	SINTOMA 571 590	déficit neurológico
-T7	SINTOMA 597 612	sangrado activo
-T8	SINTOMA 2343 2364	focalidad neurológica
-T9	SINTOMA 2688 2699	vida normal
+T1	ENFERMEDAD 685 779	salida de líquido cefalorraquídeo por la herida de entrada ni por el conducto auditivo externo
+T2	ENFERMEDAD 2593 2652	pérdida de audición conductiva del 60% en el oído izquierdo
+T3	ENFERMEDAD 2260 2273	neumoencéfalo
+T4	ENFERMEDAD 2461 2482	trastorno neurológico
+T5	ENFERMEDAD 219 271	herida penetrante a nivel de la región submandibular
+T6	ENFERMEDAD 352 373	trayecto intracraneal
+T7	ENFERMEDAD 1935 1993	salida de líquido cefalorraquídeo por la herida de entrada
+T8	ENFERMEDAD 2059 2075	herida intraoral
+T9	ENFERMEDAD 2129 2149	herida submandibular
+T10	ENFERMEDAD 685 743	salida de líquido cefalorraquídeo por la herida de entrada
+T11	PROCEDIMIENTO 2553 2564	audiometría
+T12	PROCEDIMIENTO 2208 2211	TAC
+T13	PROCEDIMIENTO 2022 2149	Se suturó entonces con vicryl 3/0 la herida intraoral y con vicryl 4/0 el subcutáneo, y con prolene 4/0 la herida submandibular
+T14	PROCEDIMIENTO 784 813	radiografía lateral de cráneo
+T15	PROCEDIMIENTO 167 181	examen clínico
+T16	PROCEDIMIENTO 917 920	TAC
+T17	PROCEDIMIENTO 1262 1279	anestesia general
+T18	PROCEDIMIENTO 1282 1305	intubación nasotraqueal
+T19	PROCEDIMIENTO 1838 1881	bajo control intraoral, se extrajo el arpón
+T20	PROCEDIMIENTO 1573 1597	Se practicó una incisión
+T21	PROCEDIMIENTO 2737 2754	prótesis auditiva
+T22	SINTOMA 507 532	hemodinámicamente estable
+T23	SINTOMA 534 540	alerta
+T24	SINTOMA 543 552	orientado
+T25	SINTOMA 571 590	déficit neurológico
+T26	SINTOMA 597 612	sangrado activo
+T27	SINTOMA 625 664	coágulos de sangre en el canal auditivo
+T28	SINTOMA 2343 2364	focalidad neurológica
+T29	SINTOMA 987 1037	orificio de entrada estaba en la región submaxilar
+T30	SINTOMA 1050 1115	penetraba hasta el sifón carotideo del peñasco del hueso temporal
+T31	SINTOMA 2688 2699	vida normal

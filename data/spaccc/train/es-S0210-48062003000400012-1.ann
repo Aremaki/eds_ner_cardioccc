@@ -1,26 +1,26 @@
-T1	SINTOMA 332 385	conducto deferente izquierdo que no se lograba palpar
-T2	SINTOMA 177 193	normoconstituido
-T3	SINTOMA 199 258	pene, testes y epidídimos de tamaño y consistencia normales
-T4	SINTOMA 552 594	se visualizó la vesícula seminal izquierda
-T5	SINTOMA 420 448	tacto rectal resultó anodino
-T6	SINTOMA 1392 1443	test del sudor en el paciente fue asimismo negativo
-T7	ENFERMEDAD 470 501	agenesia del conducto deferente
-T8	ENFERMEDAD 689 757	ausencia de la vesícula seminal, del conducto deferente y del uréter
-T9	ENFERMEDAD 953 973	azoospermia completa
-T10	ENFERMEDAD 1009 1029	agenesia deferencial
-T11	ENFERMEDAD 1041 1080	agenesia renal y de la vesícula seminal
-T12	ENFERMEDAD 1313 1327	agenesia renal
-T13	ENFERMEDAD 614 641	ausencia completa del riñón
-T14	PROCEDIMIENTO 1223 1241	estudio ecográfico
-T15	PROCEDIMIENTO 126 136	vasectomía
-T16	PROCEDIMIENTO 1392 1406	test del sudor
-T17	PROCEDIMIENTO 141 159	exploración física
-T18	PROCEDIMIENTO 263 311	palpaba claramente el conducto deferente derecho
-T19	PROCEDIMIENTO 379 415	palpar dentro del cordón espermático
-T20	PROCEDIMIENTO 420 432	tacto rectal
-T21	PROCEDIMIENTO 517 538	ecografía transrectal
-T22	PROCEDIMIENTO 600 603	UIV
-T23	PROCEDIMIENTO 673 676	RNM
-T24	PROCEDIMIENTO 802 812	vasectomía
-T25	PROCEDIMIENTO 868 880	seminogramas
-T26	PROCEDIMIENTO 926 938	intervención
+T1	ENFERMEDAD 470 501	agenesia del conducto deferente
+T2	ENFERMEDAD 689 757	ausencia de la vesícula seminal, del conducto deferente y del uréter
+T3	ENFERMEDAD 953 973	azoospermia completa
+T4	ENFERMEDAD 1009 1029	agenesia deferencial
+T5	ENFERMEDAD 1041 1080	agenesia renal y de la vesícula seminal
+T6	ENFERMEDAD 1313 1327	agenesia renal
+T7	ENFERMEDAD 614 641	ausencia completa del riñón
+T8	PROCEDIMIENTO 126 136	vasectomía
+T9	PROCEDIMIENTO 141 159	exploración física
+T10	PROCEDIMIENTO 263 311	palpaba claramente el conducto deferente derecho
+T11	PROCEDIMIENTO 379 415	palpar dentro del cordón espermático
+T12	PROCEDIMIENTO 420 432	tacto rectal
+T13	PROCEDIMIENTO 517 538	ecografía transrectal
+T14	PROCEDIMIENTO 600 603	UIV
+T15	PROCEDIMIENTO 673 676	RNM
+T16	PROCEDIMIENTO 802 812	vasectomía
+T17	PROCEDIMIENTO 868 880	seminogramas
+T18	PROCEDIMIENTO 1392 1406	test del sudor
+T19	PROCEDIMIENTO 1223 1241	estudio ecográfico
+T20	PROCEDIMIENTO 926 938	intervención
+T21	SINTOMA 177 193	normoconstituido
+T22	SINTOMA 199 258	pene, testes y epidídimos de tamaño y consistencia normales
+T23	SINTOMA 1392 1443	test del sudor en el paciente fue asimismo negativo
+T24	SINTOMA 332 385	conducto deferente izquierdo que no se lograba palpar
+T25	SINTOMA 420 448	tacto rectal resultó anodino
+T26	SINTOMA 552 594	se visualizó la vesícula seminal izquierda

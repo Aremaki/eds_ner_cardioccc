@@ -1,18 +1,18 @@
-T1	SINTOMA 269 292	claudicación mandibular
-T2	SINTOMA 295 319	disminución de la visión
-T3	SINTOMA 633 695	estudios biomicroscópicos anterior y posterior fueron normales
-T4	SINTOMA 261 267	fiebre
-T5	SINTOMA 445 468	limitación de la mirada
-T6	SINTOMA 366 407	motilidad extraocular en el OI fue normal
-T7	SINTOMA 518 560	motilidad pupilar era normal en ambos ojos
+T1	ENFERMEDAD 108 120	visión doble
+T2	ENFERMEDAD 123 139	ptosis palpebral
+T3	ENFERMEDAD 428 434	ptosis
+T4	ENFERMEDAD 914 945	oclusión de la arteria temporal
+T5	PROCEDIMIENTO 633 658	estudios biomicroscópicos
+T6	PROCEDIMIENTO 865 895	biopsia de la arteria temporal
+T7	PROCEDIMIENTO 366 387	motilidad extraocular
 T8	SINTOMA 244 259	pérdida de peso
-T9	SINTOMA 123 139	ptosis palpebral
-T10	SINTOMA 428 440	ptosis total
-T11	SINTOMA 108 120	visión doble
-T12	ENFERMEDAD 108 120	visión doble
-T13	ENFERMEDAD 123 139	ptosis palpebral
-T14	ENFERMEDAD 428 434	ptosis
-T15	ENFERMEDAD 914 945	oclusión de la arteria temporal
-T16	PROCEDIMIENTO 366 387	motilidad extraocular
-T17	PROCEDIMIENTO 633 658	estudios biomicroscópicos
-T18	PROCEDIMIENTO 865 895	biopsia de la arteria temporal
+T9	SINTOMA 261 267	fiebre
+T10	SINTOMA 269 292	claudicación mandibular
+T11	SINTOMA 295 319	disminución de la visión
+T12	SINTOMA 445 468	limitación de la mirada
+T13	SINTOMA 366 407	motilidad extraocular en el OI fue normal
+T14	SINTOMA 518 560	motilidad pupilar era normal en ambos ojos
+T15	SINTOMA 633 695	estudios biomicroscópicos anterior y posterior fueron normales
+T16	SINTOMA 108 120	visión doble
+T17	SINTOMA 123 139	ptosis palpebral
+T18	SINTOMA 428 440	ptosis total

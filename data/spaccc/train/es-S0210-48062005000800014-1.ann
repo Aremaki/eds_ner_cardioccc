@@ -1,16 +1,21 @@
-T1	SINTOMA 243 286	inflamación pancreática difusa con exudados
-T2	SINTOMA 647 657	tumoración
-T3	SINTOMA 831 841	tumoración
-T4	SINTOMA 510 527	tumoración sólida
-T5	SINTOMA 317 356	tumoraciones en valva anterior de riñón
-T6	ENFERMEDAD 44 59	enolismo severo
-T7	ENFERMEDAD 104 125	hipertensión arterial
-T8	ENFERMEDAD 140 166	pancreatitis aguda enólica
-T9	ENFERMEDAD 1105 1147	necrosis grasas secundarias a pancreatitis
-T10	ENFERMEDAD 1135 1147	pancreatitis
-T11	ENFERMEDAD 768 784	lesiones renales
-T12	ENFERMEDAD 243 273	inflamación pancreática difusa
-T13	ENFERMEDAD 554 579	cuadro inflamatorio agudo
-T14	ENFERMEDAD 436 454	quiste hemorrágico
-T15	ENFERMEDAD 35 42	fumador
-T16	ENFERMEDAD 1024 1050	granuloma esteatonecrótico
+T1	ENFERMEDAD 44 59	enolismo severo
+T2	ENFERMEDAD 104 125	hipertensión arterial
+T3	ENFERMEDAD 140 166	pancreatitis aguda enólica
+T4	ENFERMEDAD 1105 1147	necrosis grasas secundarias a pancreatitis
+T5	ENFERMEDAD 1135 1147	pancreatitis
+T6	ENFERMEDAD 768 784	lesiones renales
+T7	ENFERMEDAD 243 273	inflamación pancreática difusa
+T8	ENFERMEDAD 554 579	cuadro inflamatorio agudo
+T9	ENFERMEDAD 436 454	quiste hemorrágico
+T10	ENFERMEDAD 35 42	fumador
+T11	ENFERMEDAD 1024 1050	granuloma esteatonecrótico
+T12	PROCEDIMIENTO 691 703	TC abdominal
+T13	PROCEDIMIENTO 217 229	TC abdominal
+T14	PROCEDIMIENTO 919 962	tumorectomía renal izquierda vía lumbotomía
+T15	PROCEDIMIENTO 980 999	anatomía patológica
+T16	PROCEDIMIENTO 855 878	intervención quirúrgica
+T17	SINTOMA 510 527	tumoración sólida
+T18	SINTOMA 243 286	inflamación pancreática difusa con exudados
+T19	SINTOMA 317 356	tumoraciones en valva anterior de riñón
+T20	SINTOMA 647 657	tumoración
+T21	SINTOMA 831 841	tumoración

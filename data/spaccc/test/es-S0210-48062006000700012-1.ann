@@ -1,39 +1,39 @@
-T1	SINTOMA 83 100	clínica miccional
-T2	SINTOMA 103 109	fiebre
-T3	SINTOMA 444 476	empeoramiento del estado general
-T4	SINTOMA 702 707	dolor
-T5	SINTOMA 256 263	disuria
-T6	SINTOMA 266 277	polaquiuria
-T7	SINTOMA 1657 1664	afebril
-T8	SINTOMA 796 808	leucocitosis
-T9	SINTOMA 536 565	constantes vitales mantenidas
-T10	SINTOMA 1381 1446	cultivos del contenido purulento y de la orina salieron negativos
-T11	SINTOMA 404 441	dolor testicular bilateral y perineal
-T12	SINTOMA 373 402	imposibilidad para la micción
-T13	SINTOMA 1671 1693	micción uretral normal
-T14	SINTOMA 1751 1783	normalidad de la zona prostática
-T15	SINTOMA 1045 1060	orina en vejiga
-T16	SINTOMA 827 860	piocitos en el sedimento de orina
-T17	SINTOMA 1264 1328	punción transperineal ecodirigida obteniendo contenido purulento
-T18	SINTOMA 214 234	sedimento patológico
-T19	SINTOMA 585 649	tumefacción en la zona perineal con enrojecimiento y calor local
-T20	ENFERMEDAD 1066 1098	absceso multiloculado prostático
-T21	ENFERMEDAD 281 298	prostatitis aguda
-T22	ENFERMEDAD 1201 1208	absceso
-T23	PROCEDIMIENTO 1143 1151	sedación
-T24	PROCEDIMIENTO 1178 1208	drenaje percutáneo del absceso
-T25	PROCEDIMIENTO 1211 1247	colocación de un catéter suprapúbico
-T26	PROCEDIMIENTO 1264 1297	punción transperineal ecodirigida
-T27	PROCEDIMIENTO 1331 1374	se deja "pig-tail" de 7 French como drenaje
-T28	PROCEDIMIENTO 136 159	tratamiento antibiótico
-T29	PROCEDIMIENTO 1381 1427	cultivos del contenido purulento y de la orina
-T30	PROCEDIMIENTO 1479 1490	antibiótico
-T31	PROCEDIMIENTO 1585 1626	"pig-tail" durante 24 horas y retirándose
-T32	PROCEDIMIENTO 1725 1740	ecográficamente
-T33	PROCEDIMIENTO 214 223	sedimento
-T34	PROCEDIMIENTO 312 322	urocultivo
-T35	PROCEDIMIENTO 483 494	exploración
-T36	PROCEDIMIENTO 671 683	tacto rectal
-T37	PROCEDIMIENTO 842 860	sedimento de orina
-T38	PROCEDIMIENTO 920 936	prueba de imagen
-T39	PROCEDIMIENTO 971 1006	ecografía abdominal y transperineal
+T1	ENFERMEDAD 1066 1098	absceso multiloculado prostático
+T2	ENFERMEDAD 281 298	prostatitis aguda
+T3	ENFERMEDAD 1201 1208	absceso
+T4	PROCEDIMIENTO 1143 1151	sedación
+T5	PROCEDIMIENTO 971 1006	ecografía abdominal y transperineal
+T6	PROCEDIMIENTO 1178 1208	drenaje percutáneo del absceso
+T7	PROCEDIMIENTO 1479 1490	antibiótico
+T8	PROCEDIMIENTO 842 860	sedimento de orina
+T9	PROCEDIMIENTO 1211 1247	colocación de un catéter suprapúbico
+T10	PROCEDIMIENTO 136 159	tratamiento antibiótico
+T11	PROCEDIMIENTO 1264 1297	punción transperineal ecodirigida
+T12	PROCEDIMIENTO 671 683	tacto rectal
+T13	PROCEDIMIENTO 312 322	urocultivo
+T14	PROCEDIMIENTO 1725 1740	ecográficamente
+T15	PROCEDIMIENTO 214 223	sedimento
+T16	PROCEDIMIENTO 1331 1374	se deja "pig-tail" de 7 French como drenaje
+T17	PROCEDIMIENTO 920 936	prueba de imagen
+T18	PROCEDIMIENTO 1381 1427	cultivos del contenido purulento y de la orina
+T19	PROCEDIMIENTO 1585 1626	"pig-tail" durante 24 horas y retirándose
+T20	PROCEDIMIENTO 483 494	exploración
+T21	SINTOMA 1381 1446	cultivos del contenido purulento y de la orina salieron negativos
+T22	SINTOMA 373 402	imposibilidad para la micción
+T23	SINTOMA 404 441	dolor testicular bilateral y perineal
+T24	SINTOMA 83 100	clínica miccional
+T25	SINTOMA 103 109	fiebre
+T26	SINTOMA 585 649	tumefacción en la zona perineal con enrojecimiento y calor local
+T27	SINTOMA 444 476	empeoramiento del estado general
+T28	SINTOMA 702 707	dolor
+T29	SINTOMA 256 263	disuria
+T30	SINTOMA 266 277	polaquiuria
+T31	SINTOMA 1657 1664	afebril
+T32	SINTOMA 796 808	leucocitosis
+T33	SINTOMA 827 860	piocitos en el sedimento de orina
+T34	SINTOMA 214 234	sedimento patológico
+T35	SINTOMA 536 565	constantes vitales mantenidas
+T36	SINTOMA 1045 1060	orina en vejiga
+T37	SINTOMA 1264 1328	punción transperineal ecodirigida obteniendo contenido purulento
+T38	SINTOMA 1671 1693	micción uretral normal
+T39	SINTOMA 1751 1783	normalidad de la zona prostática

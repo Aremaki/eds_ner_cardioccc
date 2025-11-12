@@ -1,29 +1,43 @@
-T1	SINTOMA 583 612	auscultación cardíaca rítmica
-T2	SINTOMA 879 933	difusión pulmonar de gases está discretamente reducida
-T3	SINTOMA 725 746	edemas perimaleolares
-T4	SINTOMA 1359 1400	fenotipo de AAT, que demuestra el tipo ZZ
-T5	SINTOMA 1276 1322	fibrobroncoscopia sin hallazgos significativos
-T6	SINTOMA 1573 1599	función pulmonar aceptable
-T7	SINTOMA 842 874	prueba broncodilatadora positiva
-T8	SINTOMA 479 490	sibilancias
-T9	SINTOMA 466 469	tos
-T10	SINTOMA 471 477	disnea
-T11	SINTOMA 493 516	expectoración purulenta
-T12	SINTOMA 535 543	ortopnea
-T13	SINTOMA 677 683	roncus
-T14	SINTOMA 618 624	soplos
-T15	SINTOMA 628 638	extratonos
-T16	ENFERMEDAD 55 94	infecciones respiratorias de repetición
-T17	ENFERMEDAD 151 161	hipertensa
-T18	ENFERMEDAD 202 216	hipotiroidismo
-T19	ENFERMEDAD 353 378	infecciones respiratorias
-T20	ENFERMEDAD 1015 1029	cifoescoliosis
-T21	ENFERMEDAD 1106 1147	enfisema y bronquiectasias en ambas bases
-T22	ENFERMEDAD 1117 1147	bronquiectasias en ambas bases
-T23	ENFERMEDAD 1238 1252	déficit de AAT
-T24	ENFERMEDAD 1419 1423	asma
-T25	ENFERMEDAD 1426 1431	D-AAT
-T26	ENFERMEDAD 1465 1469	asma
-T27	ENFERMEDAD 1549 1554	D-AAT
-T28	ENFERMEDAD 131 146	hábitos tóxicos
-T29	ENFERMEDAD 119 127	alergias
+T1	ENFERMEDAD 55 94	infecciones respiratorias de repetición
+T2	ENFERMEDAD 151 161	hipertensa
+T3	ENFERMEDAD 202 216	hipotiroidismo
+T4	ENFERMEDAD 353 378	infecciones respiratorias
+T5	ENFERMEDAD 1015 1029	cifoescoliosis
+T6	ENFERMEDAD 1106 1147	enfisema y bronquiectasias en ambas bases
+T7	ENFERMEDAD 1117 1147	bronquiectasias en ambas bases
+T8	ENFERMEDAD 1238 1252	déficit de AAT
+T9	ENFERMEDAD 1419 1423	asma
+T10	ENFERMEDAD 1426 1431	D-AAT
+T11	ENFERMEDAD 1465 1469	asma
+T12	ENFERMEDAD 1549 1554	D-AAT
+T13	ENFERMEDAD 131 146	hábitos tóxicos
+T14	ENFERMEDAD 119 127	alergias
+T15	PROCEDIMIENTO 243 259	Histerectomizada
+T16	PROCEDIMIENTO 264 281	doble anexectomía
+T17	PROCEDIMIENTO 551 569	exploración física
+T18	PROCEDIMIENTO 583 604	auscultación cardíaca
+T19	PROCEDIMIENTO 645 666	auscultación pulmonar
+T20	PROCEDIMIENTO 759 771	espirometría
+T21	PROCEDIMIENTO 842 865	prueba broncodilatadora
+T22	PROCEDIMIENTO 879 905	difusión pulmonar de gases
+T23	PROCEDIMIENTO 983 1003	radiografía de tórax
+T24	PROCEDIMIENTO 1060 1084	tomografía computarizada
+T25	PROCEDIMIENTO 1186 1213	estudio analítico sanguíneo
+T26	PROCEDIMIENTO 1276 1293	fibrobroncoscopia
+T27	PROCEDIMIENTO 1359 1374	fenotipo de AAT
+T28	PROCEDIMIENTO 1573 1589	función pulmonar
+T29	SINTOMA 466 469	tos
+T30	SINTOMA 471 477	disnea
+T31	SINTOMA 479 490	sibilancias
+T32	SINTOMA 493 516	expectoración purulenta
+T33	SINTOMA 535 543	ortopnea
+T34	SINTOMA 677 683	roncus
+T35	SINTOMA 725 746	edemas perimaleolares
+T36	SINTOMA 618 624	soplos
+T37	SINTOMA 628 638	extratonos
+T38	SINTOMA 879 933	difusión pulmonar de gases está discretamente reducida
+T39	SINTOMA 1573 1599	función pulmonar aceptable
+T40	SINTOMA 1359 1400	fenotipo de AAT, que demuestra el tipo ZZ
+T41	SINTOMA 583 612	auscultación cardíaca rítmica
+T42	SINTOMA 842 874	prueba broncodilatadora positiva
+T43	SINTOMA 1276 1322	fibrobroncoscopia sin hallazgos significativos

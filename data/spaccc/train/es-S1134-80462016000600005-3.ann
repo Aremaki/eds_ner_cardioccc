@@ -1,22 +1,22 @@
-T1	SINTOMA 283 311	dolor al defecar y miccionar
-T2	SINTOMA 154 234	dolor de características neuropáticas (quemazón, parestesias) en genital externo
-T3	SINTOMA 193 201	quemazón
-T4	SINTOMA 203 214	parestesias
-T5	SINTOMA 398 403	dolor
-T6	SINTOMA 1126 1131	dolor
-T7	ENFERMEDAD 23 51	neuralgia del nervio pudendo
-T8	ENFERMEDAD 69 136	lesión directa posterior a una resección trans-ureteral de próstata
-T9	ENFERMEDAD 740 749	depresión
-T10	ENFERMEDAD 752 765	ansiedad leve
-T11	ENFERMEDAD 984 998	fístula de LCR
-T12	ENFERMEDAD 1285 1298	ansiedad leve
-T13	ENFERMEDAD 1312 1321	depresión
-T14	ENFERMEDAD 699 708	depresión
-T15	ENFERMEDAD 1237 1246	depresión
-T16	ENFERMEDAD 23 136	neuralgia del nervio pudendo secundaria a una lesión directa posterior a una resección trans-ureteral de próstata
-T17	ENFERMEDAD 154 234	dolor de características neuropáticas (quemazón, parestesias) en genital externo
-T18	PROCEDIMIENTO 100 136	resección trans-ureteral de próstata
-T19	PROCEDIMIENTO 138 143	RTU-P
-T20	PROCEDIMIENTO 791 817	colocación del dispositivo
-T21	PROCEDIMIENTO 841 846	CENPP
-T22	PROCEDIMIENTO 934 952	implantación NERSR
+T1	ENFERMEDAD 23 51	neuralgia del nervio pudendo
+T2	ENFERMEDAD 69 136	lesión directa posterior a una resección trans-ureteral de próstata
+T3	ENFERMEDAD 740 749	depresión
+T4	ENFERMEDAD 752 765	ansiedad leve
+T5	ENFERMEDAD 984 998	fístula de LCR
+T6	ENFERMEDAD 1285 1298	ansiedad leve
+T7	ENFERMEDAD 1312 1321	depresión
+T8	ENFERMEDAD 699 708	depresión
+T9	ENFERMEDAD 1237 1246	depresión
+T10	ENFERMEDAD 23 136	neuralgia del nervio pudendo secundaria a una lesión directa posterior a una resección trans-ureteral de próstata
+T11	ENFERMEDAD 154 234	dolor de características neuropáticas (quemazón, parestesias) en genital externo
+T12	PROCEDIMIENTO 934 952	implantación NERSR
+T13	PROCEDIMIENTO 138 143	RTU-P
+T14	PROCEDIMIENTO 100 136	resección trans-ureteral de próstata
+T15	PROCEDIMIENTO 791 817	colocación del dispositivo
+T16	PROCEDIMIENTO 841 846	CENPP
+T17	SINTOMA 154 234	dolor de características neuropáticas (quemazón, parestesias) en genital externo
+T18	SINTOMA 193 201	quemazón
+T19	SINTOMA 203 214	parestesias
+T20	SINTOMA 283 311	dolor al defecar y miccionar
+T21	SINTOMA 398 403	dolor
+T22	SINTOMA 1126 1131	dolor

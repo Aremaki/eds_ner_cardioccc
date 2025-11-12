@@ -1,18 +1,39 @@
-T1	SINTOMA 1014 1044	abdomen con dolor generalizado
-T2	SINTOMA 931 941	caquéctica
-T3	SINTOMA 943 981	Cara, cabeza y cuello sin alteraciones
-T4	SINTOMA 983 1012	cardiopulmonar sin compromiso
-T5	SINTOMA 86 109	dolor abdominal crónico
-T6	SINTOMA 1252 1299	dolor abdominal crónico de tipo visceral severo
-T7	SINTOMA 452 497	dolor abdominal crónico, generalizado, severo
-T8	SINTOMA 566 586	Dolor de tipo cólico
-T9	SINTOMA 883 892	hidratada
-T10	SINTOMA 671 677	náusea
-T11	SINTOMA 898 929	palidez de mucosas y tegumentos
-T12	SINTOMA 1117 1137	peristalsis presente
-T13	SINTOMA 76 81	dolor
-T14	SINTOMA 860 870	Consciente
-T15	SINTOMA 872 881	orientada
-T16	SINTOMA 680 686	vómito
-T17	SINTOMA 1199 1224	exploración física normal
-T18	SINTOMA 1173 1178	masas
+T1	ENFERMEDAD 323 343	isquemia mesentérica
+T2	ENFERMEDAD 1327 1344	angina intestinal
+T3	ENFERMEDAD 1346 1366	isquemia mesentérica
+T4	ENFERMEDAD 123 140	angina intestinal
+T5	ENFERMEDAD 162 195	enfermedades cronicodegenerativas
+T6	ENFERMEDAD 286 306	isquemia mesentérica
+T7	ENFERMEDAD 86 140	dolor abdominal crónico secundario a angina intestinal
+T8	ENFERMEDAD 452 475	dolor abdominal crónico
+T9	ENFERMEDAD 1252 1299	dolor abdominal crónico de tipo visceral severo
+T10	PROCEDIMIENTO 733 751	Exploración física
+T11	PROCEDIMIENTO 1404 1412	opiáceos
+T12	PROCEDIMIENTO 360 416	tomografía computarizada con contraste venoso y arterial
+T13	PROCEDIMIENTO 1511 1534	antagonistas del calcio
+T14	PROCEDIMIENTO 542 553	analgésicos
+T15	PROCEDIMIENTO 1536 1544	nitratos
+T16	PROCEDIMIENTO 216 228	laparotomías
+T17	PROCEDIMIENTO 244 268	laparoscopia diagnóstica
+T18	PROCEDIMIENTO 1698 1713	anticoagulación
+T19	PROCEDIMIENTO 1749 1776	antiagregantes plaquetarios
+T20	PROCEDIMIENTO 1199 1217	exploración física
+T21	PROCEDIMIENTO 1083 1115	palpación superficial y profunda
+T22	SINTOMA 1252 1299	dolor abdominal crónico de tipo visceral severo
+T23	SINTOMA 452 497	dolor abdominal crónico, generalizado, severo
+T24	SINTOMA 76 81	dolor
+T25	SINTOMA 86 109	dolor abdominal crónico
+T26	SINTOMA 860 870	Consciente
+T27	SINTOMA 872 881	orientada
+T28	SINTOMA 566 586	Dolor de tipo cólico
+T29	SINTOMA 883 892	hidratada
+T30	SINTOMA 898 929	palidez de mucosas y tegumentos
+T31	SINTOMA 931 941	caquéctica
+T32	SINTOMA 671 677	náusea
+T33	SINTOMA 680 686	vómito
+T34	SINTOMA 1014 1044	abdomen con dolor generalizado
+T35	SINTOMA 1117 1137	peristalsis presente
+T36	SINTOMA 1199 1224	exploración física normal
+T37	SINTOMA 1173 1178	masas
+T38	SINTOMA 943 981	Cara, cabeza y cuello sin alteraciones
+T39	SINTOMA 983 1012	cardiopulmonar sin compromiso

@@ -1,35 +1,35 @@
-T1	SINTOMA 269 275	fiebre
-T2	SINTOMA 342 345	tos
-T3	SINTOMA 132 140	dolorosa
-T4	SINTOMA 578 601	dolorosa a la palpación
-T5	SINTOMA 1125 1145	Mantoux fue negativo
-T6	SINTOMA 348 367	molestias faríngeas
-T7	SINTOMA 1433 1464	serología positiva para Paperas
-T8	SINTOMA 296 323	sudoración nocturna profusa
-T9	ENFERMEDAD 1512 1537	adenopatía laterocervical
-T10	ENFERMEDAD 458 493	adenopatía en región laterocervical
-T11	ENFERMEDAD 1204 1217	toxoplasmosis
-T12	ENFERMEDAD 1219 1229	brucelosis
-T13	ENFERMEDAD 85 140	adenopatía en región laterocervical izquierda, dolorosa
-T14	ENFERMEDAD 1246 1253	Sífilis
-T15	ENFERMEDAD 658 669	adenopatías
-T16	ENFERMEDAD 1397 1404	rubéola
-T17	ENFERMEDAD 1407 1416	sarampión
-T18	ENFERMEDAD 1457 1464	Paperas
-T19	ENFERMEDAD 2110 2149	linfadenitis necrotizante histiocitaria
-T20	ENFERMEDAD 2152 2182	enfermedad de Kikuchi-Fujimoto
-T21	PROCEDIMIENTO 1125 1132	Mantoux
-T22	PROCEDIMIENTO 1161 1171	serologías
-T23	PROCEDIMIENTO 1498 1547	biopsia de la adenopatía laterocervical izquierda
-T24	PROCEDIMIENTO 176 196	toma de antibióticos
-T25	PROCEDIMIENTO 200 204	AINE
-T26	PROCEDIMIENTO 2079 2086	biopsia
-T27	PROCEDIMIENTO 419 430	exploración
-T28	PROCEDIMIENTO 592 601	palpación
-T29	PROCEDIMIENTO 823 834	exploración
-T30	PROCEDIMIENTO 885 894	hemograma
-T31	PROCEDIMIENTO 896 931	bioquímica con marcadores tumorales
-T32	PROCEDIMIENTO 911 931	marcadores tumorales
-T33	PROCEDIMIENTO 950 958	RX tórax
-T34	PROCEDIMIENTO 960 980	ecografía de abdomen
-T35	PROCEDIMIENTO 983 1003	estudio inmunológico
+T1	ENFERMEDAD 1512 1537	adenopatía laterocervical
+T2	ENFERMEDAD 458 493	adenopatía en región laterocervical
+T3	ENFERMEDAD 1204 1217	toxoplasmosis
+T4	ENFERMEDAD 1219 1229	brucelosis
+T5	ENFERMEDAD 85 140	adenopatía en región laterocervical izquierda, dolorosa
+T6	ENFERMEDAD 1246 1253	Sífilis
+T7	ENFERMEDAD 658 669	adenopatías
+T8	ENFERMEDAD 1397 1404	rubéola
+T9	ENFERMEDAD 1407 1416	sarampión
+T10	ENFERMEDAD 1457 1464	Paperas
+T11	ENFERMEDAD 2110 2149	linfadenitis necrotizante histiocitaria
+T12	ENFERMEDAD 2152 2182	enfermedad de Kikuchi-Fujimoto
+T13	PROCEDIMIENTO 1498 1547	biopsia de la adenopatía laterocervical izquierda
+T14	PROCEDIMIENTO 885 894	hemograma
+T15	PROCEDIMIENTO 950 958	RX tórax
+T16	PROCEDIMIENTO 960 980	ecografía de abdomen
+T17	PROCEDIMIENTO 983 1003	estudio inmunológico
+T18	PROCEDIMIENTO 176 196	toma de antibióticos
+T19	PROCEDIMIENTO 1125 1132	Mantoux
+T20	PROCEDIMIENTO 2079 2086	biopsia
+T21	PROCEDIMIENTO 200 204	AINE
+T22	PROCEDIMIENTO 911 931	marcadores tumorales
+T23	PROCEDIMIENTO 1161 1171	serologías
+T24	PROCEDIMIENTO 896 931	bioquímica con marcadores tumorales
+T25	PROCEDIMIENTO 419 430	exploración
+T26	PROCEDIMIENTO 823 834	exploración
+T27	PROCEDIMIENTO 592 601	palpación
+T28	SINTOMA 1125 1145	Mantoux fue negativo
+T29	SINTOMA 269 275	fiebre
+T30	SINTOMA 1433 1464	serología positiva para Paperas
+T31	SINTOMA 296 323	sudoración nocturna profusa
+T32	SINTOMA 342 345	tos
+T33	SINTOMA 348 367	molestias faríngeas
+T34	SINTOMA 132 140	dolorosa
+T35	SINTOMA 578 601	dolorosa a la palpación

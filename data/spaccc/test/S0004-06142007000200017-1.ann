@@ -1,44 +1,44 @@
-T1	SINTOMA 396 403	astenia
-T2	SINTOMA 408 423	pérdida de peso
-T3	SINTOMA 658 705	Epidídimos y cordones sin hallazgos patológicos
-T4	SINTOMA 753 845	hemostasia, bioquímica y hemograma dentro de los parámetros correspondientes a la normalidad
-T5	SINTOMA 1390 1462	Radiografía de tórax, en la que no se apreció ningún hallazgo patológico
-T6	SINTOMA 367 391	sintomatología urológica
-T7	SINTOMA 546 584	teste derecho algo aumentado de tamaño
-T8	SINTOMA 996 1087	teste derecho de 49mm x 36mm x 26mm con lesión hipoecoica, de bordes lobulados, heterogénea
-T9	SINTOMA 1179 1267	teste izquierdo de 32mm x 22mm x 20mm hetrogéneo con lesión focal ligeramente hipoecoica
-T10	SINTOMA 512 539	teste izquierdo hipotrófico
-T11	SINTOMA 280 324	testículo derecho con parénquima heterogéneo
-T12	SINTOMA 2064 2101	testículo derecho presenta tumoración
-T13	SINTOMA 1799 1827	testículo izquierdo atrófico
-T14	SINTOMA 220 273	testículo izquierdo hipogénico y disminuido de tamaño
-T15	SINTOMA 117 152	tumoración indolora en su testículo
-T16	ENFERMEDAD 339 348	neoplasia
-T17	ENFERMEDAD 1324 1362	microlitiasis testiculares bilaterales
-T18	ENFERMEDAD 1538 1549	adenopatías
-T19	ENFERMEDAD 1553 1563	metástasis
-T20	ENFERMEDAD 1630 1656	tumor testicular bilateral
-T21	ENFERMEDAD 1799 1881	testículo izquierdo atrófico con múltiples focos microscópicos de seminoma clásico
-T22	ENFERMEDAD 1910 1954	neoplasia intratubular de células germinales
-T23	ENFERMEDAD 1978 2059	infiltración tumoral en albugínea, rete testis, epidídimo o infiltración vascular
-T24	ENFERMEDAD 2125 2141	seminoma clásico
-T25	ENFERMEDAD 2206 2250	neoplasia intratubular de células germinales
-T26	ENFERMEDAD 2269 2292	atrofia en el testículo
-T27	ENFERMEDAD 2373 2378	tumor
-T28	ENFERMEDAD 1036 1042	lesión
-T29	ENFERMEDAD 1232 1238	lesión
-T30	ENFERMEDAD 512 539	teste izquierdo hipotrófico
-T31	ENFERMEDAD 1956 1960	NICG
-T32	ENFERMEDAD 2252 2256	NICG
-T33	PROCEDIMIENTO 1390 1410	Radiografía de tórax
-T34	PROCEDIMIENTO 1469 1510	TAC toraco-abdomino-pélvico con contraste
-T35	PROCEDIMIENTO 1676 1711	orquiectomía bilateral vía inguinal
-T36	PROCEDIMIENTO 1726 1758	tratamiento hormonal sustitutivo
-T37	PROCEDIMIENTO 1766 1785	anatomía patológica
-T38	PROCEDIMIENTO 207 216	ecografía
-T39	PROCEDIMIENTO 2425 2438	quimioterapia
-T40	PROCEDIMIENTO 481 499	exploración física
-T41	PROCEDIMIENTO 753 763	hemostasia
-T42	PROCEDIMIENTO 765 775	bioquímica
-T43	PROCEDIMIENTO 778 787	hemograma
-T44	PROCEDIMIENTO 951 978	ecografía con flujo Doppler
+T1	ENFERMEDAD 339 348	neoplasia
+T2	ENFERMEDAD 1324 1362	microlitiasis testiculares bilaterales
+T3	ENFERMEDAD 1538 1549	adenopatías
+T4	ENFERMEDAD 1553 1563	metástasis
+T5	ENFERMEDAD 1630 1656	tumor testicular bilateral
+T6	ENFERMEDAD 1799 1881	testículo izquierdo atrófico con múltiples focos microscópicos de seminoma clásico
+T7	ENFERMEDAD 1910 1954	neoplasia intratubular de células germinales
+T8	ENFERMEDAD 1978 2059	infiltración tumoral en albugínea, rete testis, epidídimo o infiltración vascular
+T9	ENFERMEDAD 2125 2141	seminoma clásico
+T10	ENFERMEDAD 2206 2250	neoplasia intratubular de células germinales
+T11	ENFERMEDAD 2269 2292	atrofia en el testículo
+T12	ENFERMEDAD 2373 2378	tumor
+T13	ENFERMEDAD 1036 1042	lesión
+T14	ENFERMEDAD 1232 1238	lesión
+T15	ENFERMEDAD 512 539	teste izquierdo hipotrófico
+T16	ENFERMEDAD 1956 1960	NICG
+T17	ENFERMEDAD 2252 2256	NICG
+T18	PROCEDIMIENTO 1390 1410	Radiografía de tórax
+T19	PROCEDIMIENTO 1469 1510	TAC toraco-abdomino-pélvico con contraste
+T20	PROCEDIMIENTO 1766 1785	anatomía patológica
+T21	PROCEDIMIENTO 765 775	bioquímica
+T22	PROCEDIMIENTO 207 216	ecografía
+T23	PROCEDIMIENTO 951 978	ecografía con flujo Doppler
+T24	PROCEDIMIENTO 481 499	exploración física
+T25	PROCEDIMIENTO 778 787	hemograma
+T26	PROCEDIMIENTO 753 763	hemostasia
+T27	PROCEDIMIENTO 1676 1711	orquiectomía bilateral vía inguinal
+T28	PROCEDIMIENTO 1726 1758	tratamiento hormonal sustitutivo
+T29	PROCEDIMIENTO 2425 2438	quimioterapia
+T30	SINTOMA 396 403	astenia
+T31	SINTOMA 408 423	pérdida de peso
+T32	SINTOMA 117 152	tumoración indolora en su testículo
+T33	SINTOMA 220 273	testículo izquierdo hipogénico y disminuido de tamaño
+T34	SINTOMA 367 391	sintomatología urológica
+T35	SINTOMA 546 584	teste derecho algo aumentado de tamaño
+T36	SINTOMA 658 705	Epidídimos y cordones sin hallazgos patológicos
+T37	SINTOMA 753 845	hemostasia, bioquímica y hemograma dentro de los parámetros correspondientes a la normalidad
+T38	SINTOMA 280 324	testículo derecho con parénquima heterogéneo
+T39	SINTOMA 512 539	teste izquierdo hipotrófico
+T40	SINTOMA 996 1087	teste derecho de 49mm x 36mm x 26mm con lesión hipoecoica, de bordes lobulados, heterogénea
+T41	SINTOMA 1179 1267	teste izquierdo de 32mm x 22mm x 20mm hetrogéneo con lesión focal ligeramente hipoecoica
+T42	SINTOMA 1390 1462	Radiografía de tórax, en la que no se apreció ningún hallazgo patológico
+T43	SINTOMA 1799 1827	testículo izquierdo atrófico
+T44	SINTOMA 2064 2101	testículo derecho presenta tumoración

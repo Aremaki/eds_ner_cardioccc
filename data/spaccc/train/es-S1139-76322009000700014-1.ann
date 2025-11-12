@@ -1,40 +1,56 @@
-T1	SINTOMA 696 717	amígdalas congestivas
-T2	SINTOMA 1375 1402	Analítica de orina negativa
-T3	SINTOMA 2261 2320	aumento de densidad en LSD de distribución paramediastínica
-T4	SINTOMA 1475 1513	condensación alveolar que afecta a LSD
-T5	SINTOMA 1936 1970	condensación residual en LSD y LMD
-T6	SINTOMA 2332 2362	desplazamiento de cisura menor
-T7	SINTOMA 517 546	edema periorbital y palpebral
-T8	SINTOMA 1596 1610	esplenomegalia
-T9	SINTOMA 2020 2077	exudado faringoamigdalar: flora normal en cultivo aerobio
-T10	SINTOMA 840 857	Facies abotargada
-T11	SINTOMA 1350 1371	Paul Bunell: negativo
-T12	SINTOMA 285 294	resfriada
-T13	SINTOMA 598 615	Respiración bucal
-T14	SINTOMA 1645 1701	test de aglutinación (mononucleosis infecciosa) positivo
-T15	SINTOMA 47 56	cansancio
-T16	SINTOMA 620 637	obstrucción nasal
-T17	SINTOMA 250 256	fiebre
-T18	SINTOMA 300 309	cansancio
-T19	SINTOMA 876 894	Neurológico normal
-T20	SINTOMA 957 994	auscultación cardiopulmonar es normal
-T21	SINTOMA 68 86	exploración normal
-T22	ENFERMEDAD 2462 2486	mononucleosis infecciosa
-T23	ENFERMEDAD 2491 2499	neumonia
-T24	ENFERMEDAD 1667 1691	mononucleosis infecciosa
-T25	ENFERMEDAD 113 162	exantema urticariforme en extremidades inferiores
-T26	ENFERMEDAD 1534 1542	neumonía
-T27	ENFERMEDAD 639 683	adenopatías sub-maxilares y laterocervicales
-T28	ENFERMEDAD 1553 1573	adenopatías hiliares
-T29	ENFERMEDAD 2379 2402	atelectasia segmentaria
-T30	ENFERMEDAD 696 717	amígdalas congestivas
-T31	ENFERMEDAD 785 807	Adenopatías inguinales
-T32	ENFERMEDAD 1009 1035	insuficiencia respiratoria
-T33	ENFERMEDAD 2429 2447	proceso infeccioso
-T34	ENFERMEDAD 745 759	esplenomegalia
-T35	ENFERMEDAD 1596 1610	esplenomegalia
-T36	ENFERMEDAD 762 775	hepatomegalia
-T37	ENFERMEDAD 343 426	erupción maculosa que afecta ahora ya, a extremidades inferiores, superiores y cara
-T38	ENFERMEDAD 517 546	edema periorbital y palpebral
-T39	ENFERMEDAD 620 637	obstrucción nasal
-T40	ENFERMEDAD 866 874	exantema
+T1	ENFERMEDAD 2462 2486	mononucleosis infecciosa
+T2	ENFERMEDAD 2491 2499	neumonia
+T3	ENFERMEDAD 1667 1691	mononucleosis infecciosa
+T4	ENFERMEDAD 113 162	exantema urticariforme en extremidades inferiores
+T5	ENFERMEDAD 1534 1542	neumonía
+T6	ENFERMEDAD 639 683	adenopatías sub-maxilares y laterocervicales
+T7	ENFERMEDAD 1553 1573	adenopatías hiliares
+T8	ENFERMEDAD 2379 2402	atelectasia segmentaria
+T9	ENFERMEDAD 696 717	amígdalas congestivas
+T10	ENFERMEDAD 785 807	Adenopatías inguinales
+T11	ENFERMEDAD 1009 1035	insuficiencia respiratoria
+T12	ENFERMEDAD 2429 2447	proceso infeccioso
+T13	ENFERMEDAD 745 759	esplenomegalia
+T14	ENFERMEDAD 1596 1610	esplenomegalia
+T15	ENFERMEDAD 762 775	hepatomegalia
+T16	ENFERMEDAD 343 426	erupción maculosa que afecta ahora ya, a extremidades inferiores, superiores y cara
+T17	ENFERMEDAD 517 546	edema periorbital y palpebral
+T18	ENFERMEDAD 620 637	obstrucción nasal
+T19	ENFERMEDAD 866 874	exantema
+T20	PROCEDIMIENTO 497 515	Exploración física
+T21	PROCEDIMIENTO 2206 2226	Radiografía de tórax
+T22	PROCEDIMIENTO 1061 1070	Hemograma
+T23	PROCEDIMIENTO 1350 1361	Paul Bunell
+T24	PROCEDIMIENTO 1375 1393	Analítica de orina
+T25	PROCEDIMIENTO 1645 1665	test de aglutinación
+T26	PROCEDIMIENTO 1440 1473	radiografía de tórax y de abdomen
+T27	PROCEDIMIENTO 2062 2077	cultivo aerobio
+T28	PROCEDIMIENTO 2079 2104	detección de Epstein Barr
+T29	PROCEDIMIENTO 725 744	palpación abdominal
+T30	PROCEDIMIENTO 1875 1895	radiografía de tórax
+T31	PROCEDIMIENTO 957 984	auscultación cardiopulmonar
+T32	PROCEDIMIENTO 1306 1319	Transaminasas
+T33	PROCEDIMIENTO 68 79	exploración
+T34	PROCEDIMIENTO 484 495	exploración
+T35	PROCEDIMIENTO 940 951	exploración
+T36	SINTOMA 517 546	edema periorbital y palpebral
+T37	SINTOMA 47 56	cansancio
+T38	SINTOMA 2261 2320	aumento de densidad en LSD de distribución paramediastínica
+T39	SINTOMA 1475 1513	condensación alveolar que afecta a LSD
+T40	SINTOMA 598 615	Respiración bucal
+T41	SINTOMA 620 637	obstrucción nasal
+T42	SINTOMA 1596 1610	esplenomegalia
+T43	SINTOMA 250 256	fiebre
+T44	SINTOMA 285 294	resfriada
+T45	SINTOMA 300 309	cansancio
+T46	SINTOMA 1936 1970	condensación residual en LSD y LMD
+T47	SINTOMA 840 857	Facies abotargada
+T48	SINTOMA 1645 1701	test de aglutinación (mononucleosis infecciosa) positivo
+T49	SINTOMA 876 894	Neurológico normal
+T50	SINTOMA 957 994	auscultación cardiopulmonar es normal
+T51	SINTOMA 68 86	exploración normal
+T52	SINTOMA 1350 1371	Paul Bunell: negativo
+T53	SINTOMA 1375 1402	Analítica de orina negativa
+T54	SINTOMA 2020 2077	exudado faringoamigdalar: flora normal en cultivo aerobio
+T55	SINTOMA 2332 2362	desplazamiento de cisura menor
+T56	SINTOMA 696 717	amígdalas congestivas

@@ -1,12 +1,21 @@
-T1	SINTOMA 295 304	área fría
-T2	SINTOMA 196 248	bocio multinodular con presencia de un nódulo sólido
-T3	SINTOMA 888 906	hinchazón cervical
-T4	SINTOMA 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
-T5	SINTOMA 591 597	nodulo
-T6	SINTOMA 73 88	nódulo tiroideo
-T7	SINTOMA 121 154	signos de compresión de vía aérea
-T8	ENFERMEDAD 196 214	bocio multinodular
-T9	ENFERMEDAD 838 853	carcinoma renal
-T10	ENFERMEDAD 954 976	adenopatías cervicales
-T11	ENFERMEDAD 1066 1074	lesiones
-T12	ENFERMEDAD 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
+T1	ENFERMEDAD 196 214	bocio multinodular
+T2	ENFERMEDAD 838 853	carcinoma renal
+T3	ENFERMEDAD 954 976	adenopatías cervicales
+T4	ENFERMEDAD 1066 1074	lesiones
+T5	ENFERMEDAD 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
+T6	PROCEDIMIENTO 159 168	ecografía
+T7	PROCEDIMIENTO 272 283	gammagrafía
+T8	PROCEDIMIENTO 366 370	PAAF
+T9	PROCEDIMIENTO 509 534	hemitiroidectomía derecha
+T10	PROCEDIMIENTO 646 665	estudio histológico
+T11	PROCEDIMIENTO 806 833	nefrectomía radical derecha
+T12	PROCEDIMIENTO 1102 1114	traqueotomía
+T13	PROCEDIMIENTO 1180 1199	Cuidados Paliativos
+T14	PROCEDIMIENTO 913 931	técnicas de imagen
+T15	SINTOMA 121 154	signos de compresión de vía aérea
+T16	SINTOMA 888 906	hinchazón cervical
+T17	SINTOMA 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
+T18	SINTOMA 591 597	nodulo
+T19	SINTOMA 73 88	nódulo tiroideo
+T20	SINTOMA 196 248	bocio multinodular con presencia de un nódulo sólido
+T21	SINTOMA 295 304	área fría

@@ -1,17 +1,34 @@
-T1	SINTOMA 791 798	ascitis
-T2	SINTOMA 1147 1168	captaciones múltiples
-T3	SINTOMA 975 1001	células en anillo de sello
-T4	SINTOMA 1095 1107	dolor dorsal
-T5	SINTOMA 455 474	dolor en epigastrio
-T6	SINTOMA 493 508	pérdida de peso
-T7	SINTOMA 588 633	masa de aspecto tumoral en el cuerpo gástrico
-T8	SINTOMA 1561 1636	receptores de estrógeno y de progesterona en las células en anillo de sello
-T9	ENFERMEDAD 118 150	carcinoma lobulillar infiltrante
-T10	ENFERMEDAD 175 189	tumor primario
-T11	ENFERMEDAD 211 277	axila se aislaron 14 ganglios, 4 de ellos infiltrados por el tumor
-T12	ENFERMEDAD 665 717	adenocarcinoma difuso con células en anillo de sello
-T13	ENFERMEDAD 791 798	ascitis
-T14	ENFERMEDAD 805 823	neoplasia gástrica
-T15	ENFERMEDAD 875 908	infiltraba la cabeza del páncreas
-T16	ENFERMEDAD 962 1001	invasión por células en anillo de sello
-T17	ENFERMEDAD 1185 1201	metástasis óseas
+T1	ENFERMEDAD 118 150	carcinoma lobulillar infiltrante
+T2	ENFERMEDAD 175 189	tumor primario
+T3	ENFERMEDAD 211 277	axila se aislaron 14 ganglios, 4 de ellos infiltrados por el tumor
+T4	ENFERMEDAD 665 717	adenocarcinoma difuso con células en anillo de sello
+T5	ENFERMEDAD 791 798	ascitis
+T6	ENFERMEDAD 805 823	neoplasia gástrica
+T7	ENFERMEDAD 875 908	infiltraba la cabeza del páncreas
+T8	ENFERMEDAD 962 1001	invasión por células en anillo de sello
+T9	ENFERMEDAD 1185 1201	metástasis óseas
+T10	PROCEDIMIENTO 39 71	mastectomía con disección axilar
+T11	PROCEDIMIENTO 570 582	gastroscopia
+T12	PROCEDIMIENTO 638 645	biopsia
+T13	PROCEDIMIENTO 757 768	laparotomía
+T14	PROCEDIMIENTO 376 404	quimioterapia complementaria
+T15	PROCEDIMIENTO 913 942	citología de líquido ascítico
+T16	PROCEDIMIENTO 1019 1060	tratamiento citostático con quimioterapia
+T17	PROCEDIMIENTO 1115 1131	gammagrafía ósea
+T18	PROCEDIMIENTO 1230 1250	resonancia magnética
+T19	PROCEDIMIENTO 1287 1310	radioterapia antiálgica
+T20	PROCEDIMIENTO 1353 1366	quimioterapia
+T21	PROCEDIMIENTO 1372 1392	tratamiento hormonal
+T22	PROCEDIMIENTO 1502 1518	biopsia gástrica
+T23	PROCEDIMIENTO 424 427	FEC
+T24	PROCEDIMIENTO 91 110	informe histológico
+T25	PROCEDIMIENTO 355 367	intervención
+T26	PROCEDIMIENTO 211 240	axila se aislaron 14 ganglios
+T27	SINTOMA 455 474	dolor en epigastrio
+T28	SINTOMA 493 508	pérdida de peso
+T29	SINTOMA 1095 1107	dolor dorsal
+T30	SINTOMA 588 633	masa de aspecto tumoral en el cuerpo gástrico
+T31	SINTOMA 1147 1168	captaciones múltiples
+T32	SINTOMA 1561 1636	receptores de estrógeno y de progesterona en las células en anillo de sello
+T33	SINTOMA 791 798	ascitis
+T34	SINTOMA 975 1001	células en anillo de sello

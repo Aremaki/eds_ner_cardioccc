@@ -1,27 +1,27 @@
-T1	SINTOMA 1708 1720	asintomático
-T2	SINTOMA 205 223	consistencia firme
-T3	SINTOMA 229 237	dolorosa
-T4	SINTOMA 1723 1742	libre de enfermedad
-T5	SINTOMA 407 441	marcadores tumorales son negativos
-T6	SINTOMA 1598 1681	marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos
-T7	SINTOMA 74 89	masa testicular
-T8	SINTOMA 627 637	tumoración
-T9	ENFERMEDAD 392 401	neoplasia
-T10	ENFERMEDAD 468 484	tumor testicular
-T11	ENFERMEDAD 1345 1430	quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma
-T12	ENFERMEDAD 1373 1399	teratoma maduro testicular
-T13	ENFERMEDAD 1411 1430	pseudopilomatrixoma
-T14	ENFERMEDAD 154 190	lesión en polo superior de testículo
-T15	ENFERMEDAD 972 978	lesión
-T16	ENFERMEDAD 1345 1371	quiste dermoide testicular
-T17	PROCEDIMIENTO 107 200	exploración física destaca la palpación de una lesión en polo superior de testículo izquierdo
-T18	PROCEDIMIENTO 1303 1333	diagnóstico anatomo-patológico
-T19	PROCEDIMIENTO 1441 1453	orquiectomía
-T20	PROCEDIMIENTO 1465 1485	estudio de extensión
-T21	PROCEDIMIENTO 1495 1515	radiografía de tórax
-T22	PROCEDIMIENTO 1518 1537	TAC abdominopélvico
-T23	PROCEDIMIENTO 250 270	ecografía testicular
-T24	PROCEDIMIENTO 407 427	marcadores tumorales
-T25	PROCEDIMIENTO 511 541	orquiectomía radical izquierda
-T26	PROCEDIMIENTO 549 568	estudio histológico
-T27	PROCEDIMIENTO 721 738	Microscópicamente
+T1	ENFERMEDAD 392 401	neoplasia
+T2	ENFERMEDAD 468 484	tumor testicular
+T3	ENFERMEDAD 1345 1430	quiste dermoide testicular (teratoma maduro testicular), variante pseudopilomatrixoma
+T4	ENFERMEDAD 1373 1399	teratoma maduro testicular
+T5	ENFERMEDAD 1411 1430	pseudopilomatrixoma
+T6	ENFERMEDAD 154 190	lesión en polo superior de testículo
+T7	ENFERMEDAD 972 978	lesión
+T8	ENFERMEDAD 1345 1371	quiste dermoide testicular
+T9	PROCEDIMIENTO 549 568	estudio histológico
+T10	PROCEDIMIENTO 1441 1453	orquiectomía
+T11	PROCEDIMIENTO 250 270	ecografía testicular
+T12	PROCEDIMIENTO 1495 1515	radiografía de tórax
+T13	PROCEDIMIENTO 1518 1537	TAC abdominopélvico
+T14	PROCEDIMIENTO 107 200	exploración física destaca la palpación de una lesión en polo superior de testículo izquierdo
+T15	PROCEDIMIENTO 511 541	orquiectomía radical izquierda
+T16	PROCEDIMIENTO 721 738	Microscópicamente
+T17	PROCEDIMIENTO 1303 1333	diagnóstico anatomo-patológico
+T18	PROCEDIMIENTO 1465 1485	estudio de extensión
+T19	PROCEDIMIENTO 407 427	marcadores tumorales
+T20	SINTOMA 74 89	masa testicular
+T21	SINTOMA 1598 1681	marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos
+T22	SINTOMA 1708 1720	asintomático
+T23	SINTOMA 627 637	tumoración
+T24	SINTOMA 407 441	marcadores tumorales son negativos
+T25	SINTOMA 1723 1742	libre de enfermedad
+T26	SINTOMA 205 223	consistencia firme
+T27	SINTOMA 229 237	dolorosa

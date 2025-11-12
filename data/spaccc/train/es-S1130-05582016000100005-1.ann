@@ -1,11 +1,28 @@
-T1	SINTOMA 355 385	dismorfia de la pirámide nasal
-T2	SINTOMA 1592 1613	sangrado oral y nasal
-T3	SINTOMA 1096 1105	epistaxis
-T4	SINTOMA 2186 2194	sangrado
-T5	SINTOMA 2197 2223	alteraciones hemodinámicas
-T6	ENFERMEDAD 286 302	hipoplasia malar
-T7	ENFERMEDAD 1880 1941	seudoaneurisma y su dependencia de la arteria maxilar interna
-T8	ENFERMEDAD 522 540	hipoplasia maxilar
-T9	ENFERMEDAD 132 153	labio-paladar hendido
-T10	ENFERMEDAD 355 385	dismorfia de la pirámide nasal
-T11	ENFERMEDAD 1279 1335	macizo facial, en la cual se evidenció un seudoaneurisma
+T1	ENFERMEDAD 286 302	hipoplasia malar
+T2	ENFERMEDAD 1880 1941	seudoaneurisma y su dependencia de la arteria maxilar interna
+T3	ENFERMEDAD 522 540	hipoplasia maxilar
+T4	ENFERMEDAD 132 153	labio-paladar hendido
+T5	ENFERMEDAD 355 385	dismorfia de la pirámide nasal
+T6	ENFERMEDAD 1279 1335	macizo facial, en la cual se evidenció un seudoaneurisma
+T7	PROCEDIMIENTO 1128 1159	taponamiento anterior bilateral
+T8	PROCEDIMIENTO 117 153	evaluación del labio-paladar hendido
+T9	PROCEDIMIENTO 1683 1725	taponamiento posterior con sondas de Foley
+T10	PROCEDIMIENTO 1197 1292	TCMD tras administración de contraste intravenoso (CIV) para estudio vascular del macizo facial
+T11	PROCEDIMIENTO 1753 1812	arteriografía selectiva de arteria carótida externa derecha
+T12	PROCEDIMIENTO 318 331	examen físico
+T13	PROCEDIMIENTO 390 412	análisis cefalométrico
+T14	PROCEDIMIENTO 1963 2033	embolización en la misma intervención con goma de cianoacrilato al 50%
+T15	PROCEDIMIENTO 447 485	tomografía computarizada multidetector
+T16	PROCEDIMIENTO 487 491	TCMD
+T17	PROCEDIMIENTO 673 697	osteotomía LeFort tipo 1
+T18	PROCEDIMIENTO 702 747	colocación de distractores maxilares internos
+T19	PROCEDIMIENTO 2246 2258	embolización
+T20	PROCEDIMIENTO 868 898	extracción de piezas dentarias
+T21	PROCEDIMIENTO 901 944	rehabilitación mediante implantes dentarios
+T22	PROCEDIMIENTO 415 433	estudios de imagen
+T23	PROCEDIMIENTO 625 637	radiológicos
+T24	SINTOMA 1096 1105	epistaxis
+T25	SINTOMA 1592 1613	sangrado oral y nasal
+T26	SINTOMA 355 385	dismorfia de la pirámide nasal
+T27	SINTOMA 2186 2194	sangrado
+T28	SINTOMA 2197 2223	alteraciones hemodinámicas

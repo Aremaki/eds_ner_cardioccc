@@ -1,25 +1,120 @@
-T1	SINTOMA 6084 6105	cuadro constitucional
-T2	SINTOMA 7349 7369	deterioro progresivo
-T3	SINTOMA 6143 6149	emesis
-T4	SINTOMA 6495 6527	empeoramiento del estado general
-T5	SINTOMA 7399 7406	fallece
-T6	SINTOMA 6654 6658	masa
-T7	SINTOMA 1721 1725	masa
-T8	SINTOMA 7313 7333	masa retroperitoneal
-T9	SINTOMA 298 312	microhematuria
-T10	SINTOMA 124 135	taquicardia
-T11	SINTOMA 2074 2084	tumoración
-T12	SINTOMA 3892 3965	aumento de partes blandas por detrás de la cola pancreática y lecho renal
-T13	SINTOMA 6545 6569	dolor abdominal y lumbar
-T14	SINTOMA 241 262	dolor sordo en flanco
-T15	SINTOMA 1040 1095	focos de hipercaptación del trazador uno en pala iliaca
-T16	SINTOMA 4264 4318	gammagrafía ósea que no presenta hallazgos patológicos
-T17	SINTOMA 7117 7128	hiperemesis
-T18	SINTOMA 749 767	hiperuricemia leve
-T19	SINTOMA 856 905	imagen con leve aumento de captación del trazador
-T20	SINTOMA 6307 6334	masa en el lecho quirúrgico
-T21	SINTOMA 6606 6622	masa epigástrica
-T22	SINTOMA 431 482	masa sólida de 20x16x13 cm que surge del polo renal
-T23	SINTOMA 774 808	radiografía de tórax que es normal
-T24	SINTOMA 4197 4224	TAC abdominal que es normal
-T25	SINTOMA 7241 7260	vómitos fecaloideos
+T1	ENFERMEDAD 3237 3260	tumor de colisión renal
+T2	ENFERMEDAD 1400 1462	carcinoma de células renales con adenopatías retroperitoneales
+T3	ENFERMEDAD 6718 6723	tumor
+T4	ENFERMEDAD 1433 1462	adenopatías retroperitoneales
+T5	ENFERMEDAD 3280 3305	cáncer renal tipo papilar
+T6	ENFERMEDAD 716 746	anemia microcítica ferropénica
+T7	ENFERMEDAD 100 121	hipertensión arterial
+T8	ENFERMEDAD 6785 6800	carcinoma renal
+T9	ENFERMEDAD 749 762	hiperuricemia
+T10	ENFERMEDAD 3360 3380	leiomiosarcoma renal
+T11	ENFERMEDAD 5440 5464	tromboembolismo pulmonar
+T12	ENFERMEDAD 6421 6431	metástasis
+T13	ENFERMEDAD 3480 3496	metástasis óseas
+T14	ENFERMEDAD 6126 6132	anemia
+T15	ENFERMEDAD 7029 7047	shock hipovolémico
+T16	ENFERMEDAD 7052 7071	acidosis metabólica
+T17	ENFERMEDAD 1750 1786	infiltración de mesocolon transverso
+T18	ENFERMEDAD 1750 1805	infiltración de mesocolon transverso y cola de páncreas
+T19	ENFERMEDAD 5632 5638	anemia
+T20	ENFERMEDAD 7074 7128	insuficiencia renal prerrenal secundario a hiperemesis
+T21	ENFERMEDAD 4459 4492	metástasis pulmonares bilaterales
+T22	ENFERMEDAD 7117 7128	hiperemesis
+T23	ENFERMEDAD 7154 7160	anemia
+T24	ENFERMEDAD 498 514	trombosis venosa
+T25	ENFERMEDAD 4550 4583	metástasis pulmonares bilaterales
+T26	ENFERMEDAD 5770 5802	metástasis hepáticas, esplénicas
+T27	ENFERMEDAD 1901 1924	Tumor renal de colisión
+T28	ENFERMEDAD 546 571	adenopatías para-aórticas
+T29	ENFERMEDAD 1926 1940	Leiomiosarcoma
+T30	ENFERMEDAD 7241 7260	vómitos fecaloideos
+T31	ENFERMEDAD 1955 1983	Carcinoma renal tipo papilar
+T32	ENFERMEDAD 598 609	tumor renal
+T33	ENFERMEDAD 1227 1242	afectación ósea
+T34	ENFERMEDAD 4639 4649	metástasis
+T35	ENFERMEDAD 7411 7432	fracaso multiorgánico
+T36	ENFERMEDAD 4781 4861	metástasis de Carcinoma pobremente diferenciado con componente epitelial (renal)
+T37	ENFERMEDAD 2221 2241	infiltración tumoral
+T38	ENFERMEDAD 2307 2327	infiltración tumoral
+T39	ENFERMEDAD 5099 5114	carcinoma renal
+T40	ENFERMEDAD 2598 2644	cadena para-aórtica se aislaron 16 adenopatías
+T41	ENFERMEDAD 2727 2763	metástasis mixta (sarcoma+carcinoma)
+T42	ENFERMEDAD 2745 2752	sarcoma
+T43	ENFERMEDAD 2753 2762	carcinoma
+T44	ENFERMEDAD 2807 2818	adenopatías
+T45	ENFERMEDAD 2847 2871	metástasis del carcinoma
+T46	ENFERMEDAD 2933 2947	leiomiosarcoma
+T47	ENFERMEDAD 2955 3011	tejido adiposo perisuprarrenal se aislaron 4 adenopatías
+T48	ENFERMEDAD 3028 3052	metástasis del carcinoma
+T49	ENFERMEDAD 3064 3100	metástasis mixta (carcinoma+sarcoma)
+T50	ENFERMEDAD 3082 3091	carcinoma
+T51	ENFERMEDAD 3092 3099	sarcoma
+T52	ENFERMEDAD 5731 5752	metástasis pulmonares
+T53	ENFERMEDAD 2678 2688	metástasis
+T54	ENFERMEDAD 2709 2718	carcinoma
+T55	ENFERMEDAD 3801 3833	componente sarcomatoso del tumor
+T56	ENFERMEDAD 6881 6913	componente sarcomatoso del tumor
+T57	ENFERMEDAD 6143 6149	emesis
+T58	PROCEDIMIENTO 677 694	analítica general
+T59	PROCEDIMIENTO 6252 6255	TAC
+T60	PROCEDIMIENTO 6752 6758	quimio
+T61	PROCEDIMIENTO 6761 6774	inmunoterapia
+T62	PROCEDIMIENTO 91 98	cesárea
+T63	PROCEDIMIENTO 1489 1518	nefrectomía radical izquierda
+T64	PROCEDIMIENTO 6822 6870	tratamiento paliativo con Adriamicina liposomial
+T65	PROCEDIMIENTO 3640 3684	tratamiento complementario con quimioterapia
+T66	PROCEDIMIENTO 1520 1698	extirpación de toda la grasa pararrenal y de la glándula suprarrenal izquierda y linfadenectomía paraaórtica e interaortocava desde la arteria renal hasta 3 cm de la iliaca común
+T67	PROCEDIMIENTO 4197 4210	TAC abdominal
+T68	PROCEDIMIENTO 814 830	gammagrafía ósea
+T69	PROCEDIMIENTO 6385 6388	TAC
+T70	PROCEDIMIENTO 4264 4280	gammagrafía ósea
+T71	PROCEDIMIENTO 3501 3517	gammagrafía ósea
+T72	PROCEDIMIENTO 326 335	ecografía
+T73	PROCEDIMIENTO 3859 3862	TAC
+T74	PROCEDIMIENTO 353 406	tomografía axial computerizada (TAC) abdómino-pélvica
+T75	PROCEDIMIENTO 4396 4416	radiografía de tórax
+T76	PROCEDIMIENTO 5675 5687	TAC corporal
+T77	PROCEDIMIENTO 4514 4517	TAC
+T78	PROCEDIMIENTO 1295 1325	resonancia magnética abdominal
+T79	PROCEDIMIENTO 4704 4752	videotoracoscopia izquierda con toma de biopsias
+T80	PROCEDIMIENTO 1359 1362	TAC
+T81	PROCEDIMIENTO 4935 4948	quimioterapia
+T82	PROCEDIMIENTO 2332 2355	perfil inmunofenotípico
+T83	PROCEDIMIENTO 5018 5031	quimioterapia
+T84	PROCEDIMIENTO 652 672	estudio de extensión
+T85	PROCEDIMIENTO 6578 6596	exploración física
+T86	PROCEDIMIENTO 2185 2202	microscópicamente
+T87	PROCEDIMIENTO 1867 1885	anatomo-patológico
+T88	PROCEDIMIENTO 774 794	radiografía de tórax
+T89	PROCEDIMIENTO 1887 1891	A.P.
+T90	PROCEDIMIENTO 385 388	TAC
+T91	PROCEDIMIENTO 1703 1725	extirpación de la masa
+T92	PROCEDIMIENTO 3439 3464	resecado de forma radical
+T93	PROCEDIMIENTO 4098 4105	cirugía
+T94	PROCEDIMIENTO 2771 2818	cadena interaortocava se aislaron 6 adenopatías
+T95	PROCEDIMIENTO 2598 2644	cadena para-aórtica se aislaron 16 adenopatías
+T96	SINTOMA 124 135	taquicardia
+T97	SINTOMA 241 262	dolor sordo en flanco
+T98	SINTOMA 298 312	microhematuria
+T99	SINTOMA 6143 6149	emesis
+T100	SINTOMA 6545 6569	dolor abdominal y lumbar
+T101	SINTOMA 3892 3965	aumento de partes blandas por detrás de la cola pancreática y lecho renal
+T102	SINTOMA 431 482	masa sólida de 20x16x13 cm que surge del polo renal
+T103	SINTOMA 6084 6105	cuadro constitucional
+T104	SINTOMA 2074 2084	tumoración
+T105	SINTOMA 774 808	radiografía de tórax que es normal
+T106	SINTOMA 6606 6622	masa epigástrica
+T107	SINTOMA 4197 4224	TAC abdominal que es normal
+T108	SINTOMA 4264 4318	gammagrafía ósea que no presenta hallazgos patológicos
+T109	SINTOMA 6307 6334	masa en el lecho quirúrgico
+T110	SINTOMA 6654 6658	masa
+T111	SINTOMA 7399 7406	fallece
+T112	SINTOMA 7313 7333	masa retroperitoneal
+T113	SINTOMA 7241 7260	vómitos fecaloideos
+T114	SINTOMA 749 767	hiperuricemia leve
+T115	SINTOMA 856 905	imagen con leve aumento de captación del trazador
+T116	SINTOMA 1040 1095	focos de hipercaptación del trazador uno en pala iliaca
+T117	SINTOMA 1721 1725	masa
+T118	SINTOMA 7117 7128	hiperemesis
+T119	SINTOMA 7349 7369	deterioro progresivo
+T120	SINTOMA 6495 6527	empeoramiento del estado general

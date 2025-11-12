@@ -1,42 +1,68 @@
-T1	SINTOMA 1697 1715	alteraciones óseas
-T2	SINTOMA 1720 1744	alteraciones vertebrales
-T3	SINTOMA 2499 2523	capacidad vesical normal
-T4	SINTOMA 2009 2026	correcta diuresis
-T5	SINTOMA 2603 2642	función renal bilateral está conservada
-T6	SINTOMA 2326 2340	orina aséptica
-T7	SINTOMA 523 537	rubéola inmune
-T8	SINTOMA 2934 2971	sedimentos urinarios sin alteraciones
-T9	SINTOMA 497 520	Toxoplasmosis no inmune
-T10	SINTOMA 1235 1255	tumefacción escrotal
-T11	SINTOMA 730 757	tumefacción escrotal sólida
-T12	SINTOMA 1404 1423	urocultura negativa
-T13	SINTOMA 1987 2006	urocultura negativa
-T14	SINTOMA 2145 2192	uroculturas positivas para flora polimicrobiana
-T15	SINTOMA 2530 2559	vaciado completo de la vejiga
-T16	SINTOMA 468 495	VDRL, AntHBs, VIH negativos
-T17	SINTOMA 1206 1233	vejiga de paredes espesadas
-T18	SINTOMA 1527 1545	vejiga trabeculada
-T19	SINTOMA 1965 1985	función renal normal
-T20	SINTOMA 2895 2915	función renal normal
-T21	SINTOMA 775 798	dolorosa a la palpación
-T22	SINTOMA 102 107	sanos
-T23	PROCEDIMIENTO 1042 1060	medidas de soporte
-T24	PROCEDIMIENTO 1063 1077	antibioterapia
-T25	PROCEDIMIENTO 1128 1160	ecografia reno-pélvica- escrotal
-T26	PROCEDIMIENTO 1404 1414	urocultura
-T27	PROCEDIMIENTO 1440 1475	cistouretrografía miccional seriada
-T28	PROCEDIMIENTO 1650 1684	radiologías óseas de cuerpo entero
-T29	PROCEDIMIENTO 1757 1807	fulguración de las válvulas de la uretra posterior
-T30	PROCEDIMIENTO 1810 1840	orquidectomía inguinal derecha
-T31	PROCEDIMIENTO 1987 1997	urocultura
-T32	PROCEDIMIENTO 203 235	Gestación correctamente vigilada
-T33	PROCEDIMIENTO 2145 2156	uroculturas
-T34	PROCEDIMIENTO 2209 2223	antibioterapia
+T1	ENFERMEDAD 144 169	patología heredo-familiar
+T2	ENFERMEDAD 180 192	hipertensión
+T3	ENFERMEDAD 497 510	Toxoplasmosis
+T4	ENFERMEDAD 523 530	rubéola
+T5	ENFERMEDAD 626 645	granulomas cutáneos
+T6	ENFERMEDAD 665 686	hipoplasia mandibular
+T7	ENFERMEDAD 688 717	coloboma localizado en el ojo
+T8	ENFERMEDAD 924 933	urosepsis
+T9	ENFERMEDAD 1180 1203	hidronefrosis bilateral
+T10	ENFERMEDAD 1565 1588	reflujo vésico-ureteral
+T11	ENFERMEDAD 2085 2107	infección respiratoria
+T12	ENFERMEDAD 2126 2139	bronquiolitis
+T13	ENFERMEDAD 2441 2470	dilatación ureteral bilateral
+T14	ENFERMEDAD 2711 2762	dilataciones ureterales bilaterales no obstructivos
+T15	ENFERMEDAD 1172 1203	uretero-hidronefrosis bilateral
+T16	ENFERMEDAD 144 176	patología heredo-familiar, renal
+T17	ENFERMEDAD 550 583	apéndices auriculares bilaterales
+T18	ENFERMEDAD 585 624	baja implantación del pabellón auditivo
+T19	ENFERMEDAD 647 660	micrognatismo
+T20	ENFERMEDAD 1492 1525	dilatación de la uretra posterior
+T21	ENFERMEDAD 1612 1643	válvulas de la uretra posterior
+T22	ENFERMEDAD 1527 1545	vejiga trabeculada
+T23	ENFERMEDAD 1776 1807	válvulas de la uretra posterior
+T24	ENFERMEDAD 2472 2493	bifidez renal derecha
+T25	ENFERMEDAD 2775 2790	bifidez piélica
+T26	PROCEDIMIENTO 256 270	Parto eutócico
+T27	PROCEDIMIENTO 1063 1077	antibioterapia
+T28	PROCEDIMIENTO 2209 2223	antibioterapia
+T29	PROCEDIMIENTO 2376 2404	cintilograma renal con MAG-3
+T30	PROCEDIMIENTO 1440 1475	cistouretrografía miccional seriada
+T31	PROCEDIMIENTO 1128 1160	ecografia reno-pélvica- escrotal
+T32	PROCEDIMIENTO 1810 1840	orquidectomía inguinal derecha
+T33	PROCEDIMIENTO 789 798	palpación
+T34	PROCEDIMIENTO 814 821	vacunas
 T35	PROCEDIMIENTO 2244 2266	profilaxia antibiótica
-T36	PROCEDIMIENTO 2353 2373	urografía endovenosa
-T37	PROCEDIMIENTO 2376 2404	cintilograma renal con MAG-3
-T38	PROCEDIMIENTO 256 270	Parto eutócico
-T39	PROCEDIMIENTO 2662 2682	prueba de furosemida
-T40	PROCEDIMIENTO 2934 2954	sedimentos urinarios
-T41	PROCEDIMIENTO 789 798	palpación
-T42	PROCEDIMIENTO 814 821	vacunas
+T36	PROCEDIMIENTO 2934 2954	sedimentos urinarios
+T37	PROCEDIMIENTO 2662 2682	prueba de furosemida
+T38	PROCEDIMIENTO 2353 2373	urografía endovenosa
+T39	PROCEDIMIENTO 1757 1807	fulguración de las válvulas de la uretra posterior
+T40	PROCEDIMIENTO 203 235	Gestación correctamente vigilada
+T41	PROCEDIMIENTO 1042 1060	medidas de soporte
+T42	PROCEDIMIENTO 1404 1414	urocultura
+T43	PROCEDIMIENTO 1650 1684	radiologías óseas de cuerpo entero
+T44	PROCEDIMIENTO 1987 1997	urocultura
+T45	PROCEDIMIENTO 2145 2156	uroculturas
+T46	SINTOMA 1527 1545	vejiga trabeculada
+T47	SINTOMA 2923 2931	diuresis
+T48	SINTOMA 1965 1985	función renal normal
+T49	SINTOMA 2895 2915	función renal normal
+T50	SINTOMA 730 757	tumefacción escrotal sólida
+T51	SINTOMA 1235 1255	tumefacción escrotal
+T52	SINTOMA 2934 2971	sedimentos urinarios sin alteraciones
+T53	SINTOMA 2603 2642	función renal bilateral está conservada
+T54	SINTOMA 468 495	VDRL, AntHBs, VIH negativos
+T55	SINTOMA 497 520	Toxoplasmosis no inmune
+T56	SINTOMA 523 537	rubéola inmune
+T57	SINTOMA 1206 1233	vejiga de paredes espesadas
+T58	SINTOMA 1404 1423	urocultura negativa
+T59	SINTOMA 1697 1715	alteraciones óseas
+T60	SINTOMA 1720 1744	alteraciones vertebrales
+T61	SINTOMA 1987 2006	urocultura negativa
+T62	SINTOMA 2009 2026	correcta diuresis
+T63	SINTOMA 2145 2192	uroculturas positivas para flora polimicrobiana
+T64	SINTOMA 2326 2340	orina aséptica
+T65	SINTOMA 2499 2523	capacidad vesical normal
+T66	SINTOMA 2530 2559	vaciado completo de la vejiga
+T67	SINTOMA 775 798	dolorosa a la palpación
+T68	SINTOMA 102 107	sanos

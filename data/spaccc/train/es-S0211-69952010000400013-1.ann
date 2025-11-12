@@ -1,32 +1,53 @@
-T1	SINTOMA 894 907	ANA positivos
-T2	SINTOMA 1045 1128	ANA, anticuerpos anti-Ro, anti-LA y factor reumatoide (FR) se mantuvieron positivos
-T3	SINTOMA 909 927	anti-ADN negativos
-T4	SINTOMA 80 87	astenia
-T5	SINTOMA 524 552	deterioro del estado general
-T6	SINTOMA 463 486	disminución de diuresis
-T7	SINTOMA 1293 1319	ecografía renal fue normal
-T8	SINTOMA 431 443	edema facial
-T9	SINTOMA 706 721	edemas distales
-T10	SINTOMA 601 628	edematización submandibular
-T11	SINTOMA 1336 1345	febrícula
-T12	SINTOMA 592 598	fiebre
-T13	SINTOMA 1017 1039	Hemocultivos negativos
-T14	SINTOMA 1209 1227	hipocomplementemia
-T15	SINTOMA 1577 1595	hipocomplementemia
-T16	SINTOMA 1274 1288	microhematuria
-T17	SINTOMA 1387 1395	oliguria
-T18	SINTOMA 833 892	perfil hepático, lipídico, ANCA e inmunoglobulinas normales
-T19	SINTOMA 1252 1263	proteinuria
-T20	SINTOMA 977 1015	Serología para VHB, VHC y VIH negativa
-T21	SINTOMA 445 460	síndrome febril
-T22	ENFERMEDAD 1462 1490	glomerulonefritis (GN) aguda
-T23	ENFERMEDAD 35 38	SSp
-T24	ENFERMEDAD 65 78	síndrome seco
-T25	ENFERMEDAD 2379 2425	glomerulopatía crioglobulinémica asociada a SS
-T26	ENFERMEDAD 1545 1574	proceso infeccioso mandibular
-T27	ENFERMEDAD 114 126	poliartritis
-T28	ENFERMEDAD 646 690	infección activa en arcada dentaria inferior
-T29	ENFERMEDAD 725 742	lesiones cutáneas
-T30	ENFERMEDAD 1162 1165	SSp
-T31	ENFERMEDAD 1481 1483	GN
-T32	ENFERMEDAD 2299 2364	Glomérulos con masivos trombos intracapilares de inmunoglobulinas
+T1	ENFERMEDAD 1462 1490	glomerulonefritis (GN) aguda
+T2	ENFERMEDAD 35 38	SSp
+T3	ENFERMEDAD 65 78	síndrome seco
+T4	ENFERMEDAD 2379 2425	glomerulopatía crioglobulinémica asociada a SS
+T5	ENFERMEDAD 1545 1574	proceso infeccioso mandibular
+T6	ENFERMEDAD 114 126	poliartritis
+T7	ENFERMEDAD 646 690	infección activa en arcada dentaria inferior
+T8	ENFERMEDAD 725 742	lesiones cutáneas
+T9	ENFERMEDAD 1162 1165	SSp
+T10	ENFERMEDAD 1481 1483	GN
+T11	ENFERMEDAD 2299 2364	Glomérulos con masivos trombos intracapilares de inmunoglobulinas
+T12	PROCEDIMIENTO 494 512	exploración física
+T13	PROCEDIMIENTO 2018 2056	estudio de inmunofluorescencia directa
+T14	PROCEDIMIENTO 2058 2061	IFd
+T15	PROCEDIMIENTO 399 417	implantes dentales
+T16	PROCEDIMIENTO 156 215	tratamiento prolongado con antiinflamatorios no esteroideos
+T17	PROCEDIMIENTO 1608 1621	biopsia renal
+T18	PROCEDIMIENTO 1017 1029	Hemocultivos
+T19	PROCEDIMIENTO 1293 1308	ecografía renal
+T20	PROCEDIMIENTO 1369 1383	antibioterapia
+T21	PROCEDIMIENTO 1436 1444	diálisis
+T22	PROCEDIMIENTO 217 221	AINE
+T23	PROCEDIMIENTO 1787 1790	PAS
+T24	PROCEDIMIENTO 225 235	esteroides
+T25	PROCEDIMIENTO 1670 1688	microscopia óptica
+T26	PROCEDIMIENTO 833 858	perfil hepático, lipídico
+T27	PROCEDIMIENTO 2269 2298	Diagnóstico anatomopatológico
+T28	PROCEDIMIENTO 750 767	estudio analítico
+T29	PROCEDIMIENTO 370 394	tratamiento odontológico
+T30	PROCEDIMIENTO 2213 2237	estudio ultraestructural
+T31	PROCEDIMIENTO 977 1006	Serología para VHB, VHC y VIH
+T32	PROCEDIMIENTO 183 215	antiinflamatorios no esteroideos
+T33	SINTOMA 80 87	astenia
+T34	SINTOMA 431 443	edema facial
+T35	SINTOMA 592 598	fiebre
+T36	SINTOMA 445 460	síndrome febril
+T37	SINTOMA 601 628	edematización submandibular
+T38	SINTOMA 833 892	perfil hepático, lipídico, ANCA e inmunoglobulinas normales
+T39	SINTOMA 463 486	disminución de diuresis
+T40	SINTOMA 1577 1595	hipocomplementemia
+T41	SINTOMA 977 1015	Serología para VHB, VHC y VIH negativa
+T42	SINTOMA 1017 1039	Hemocultivos negativos
+T43	SINTOMA 1252 1263	proteinuria
+T44	SINTOMA 1293 1319	ecografía renal fue normal
+T45	SINTOMA 1336 1345	febrícula
+T46	SINTOMA 1387 1395	oliguria
+T47	SINTOMA 524 552	deterioro del estado general
+T48	SINTOMA 706 721	edemas distales
+T49	SINTOMA 1209 1227	hipocomplementemia
+T50	SINTOMA 1274 1288	microhematuria
+T51	SINTOMA 1045 1128	ANA, anticuerpos anti-Ro, anti-LA y factor reumatoide (FR) se mantuvieron positivos
+T52	SINTOMA 894 907	ANA positivos
+T53	SINTOMA 909 927	anti-ADN negativos

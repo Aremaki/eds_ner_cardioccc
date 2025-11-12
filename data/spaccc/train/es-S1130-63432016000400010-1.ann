@@ -1,11 +1,19 @@
-T1	SINTOMA 1304 1342	células NK por encima de la normalidad
-T2	SINTOMA 344 390	variante del factor V de la coagulación humana
-T3	ENFERMEDAD 104 123	abortos espontáneos
-T4	ENFERMEDAD 280 310	Factor V Leiden heterocigótico
-T5	ENFERMEDAD 419 463	trastorno de hipercoagulabilidad hereditario
-T6	ENFERMEDAD 1598 1652	alteración inmunológica asociada al fallo reproductivo
-T7	ENFERMEDAD 1782 1802	fracaso reproductivo
-T8	ENFERMEDAD 918 924	aborto
-T9	ENFERMEDAD 1953 1973	pérdida de embarazos
-T10	ENFERMEDAD 182 193	esterilidad
-T11	ENFERMEDAD 528 556	variante del factor V Leiden
+T1	ENFERMEDAD 104 123	abortos espontáneos
+T2	ENFERMEDAD 280 310	Factor V Leiden heterocigótico
+T3	ENFERMEDAD 419 463	trastorno de hipercoagulabilidad hereditario
+T4	ENFERMEDAD 1598 1652	alteración inmunológica asociada al fallo reproductivo
+T5	ENFERMEDAD 1782 1802	fracaso reproductivo
+T6	ENFERMEDAD 918 924	aborto
+T7	ENFERMEDAD 1953 1973	pérdida de embarazos
+T8	ENFERMEDAD 182 193	esterilidad
+T9	ENFERMEDAD 528 556	variante del factor V Leiden
+T10	PROCEDIMIENTO 2902 2909	cesárea
+T11	PROCEDIMIENTO 2930 2962	pauta tromboprofiláctica de HBPM
+T12	PROCEDIMIENTO 1125 1144	terapéutica de HBPM
+T13	PROCEDIMIENTO 170 193	estudios de esterilidad
+T14	PROCEDIMIENTO 1242 1262	estudio inmunológico
+T15	PROCEDIMIENTO 657 719	administración profiláctica de heparina de bajo peso molecular
+T16	PROCEDIMIENTO 2984 2996	intervención
+T17	SINTOMA 344 390	variante del factor V de la coagulación humana
+T18	SINTOMA 2768 2784	efectos adversos
+T19	SINTOMA 1304 1342	células NK por encima de la normalidad

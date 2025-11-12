@@ -1,37 +1,37 @@
-T1	SINTOMA 455 474	buen estado general
-T2	SINTOMA 1710 1717	afebril
-T3	SINTOMA 1125 1131	fiebre
-T4	SINTOMA 490 499	irritable
-T5	SINTOMA 367 373	fiebre
-T6	SINTOMA 2130 2142	asintomática
-T7	SINTOMA 1916 1928	leucocitosis
-T8	SINTOMA 1178 1190	leucocitosis
-T9	SINTOMA 770 794	dolorosas a la palpación
-T10	SINTOMA 1195 1244	aumento de la velocidad de sedimentación globular
-T11	SINTOMA 390 409	bultos en la cabeza
-T12	SINTOMA 507 514	decaída
-T13	SINTOMA 614 626	eritema leve
-T14	SINTOMA 847 856	exantemas
-T15	SINTOMA 526 584	parietoccipital izquierda se apreciaba una escara negruzca
-T16	SINTOMA 1310 1384	serologías de Borrelia burgdorferri y Rickettesia connori fueron negativas
-T17	ENFERMEDAD 38 72	picadura de garrapata en la cabeza
-T18	ENFERMEDAD 1108 1119	adenopatías
-T19	ENFERMEDAD 921 942	picadura de garrapata
-T20	ENFERMEDAD 1747 1758	adenopatías
-T21	ENFERMEDAD 1021 1050	sobreinfección de la picadura
-T22	ENFERMEDAD 1819 1827	alopecia
-T23	ENFERMEDAD 662 709	adenopatías mastoideas y cervicales posteriores
-T24	ENFERMEDAD 1438 1451	rickettsiosis
-T25	ENFERMEDAD 1498 1522	enfermedades infecciosas
-T26	ENFERMEDAD 519 584	región parietoccipital izquierda se apreciaba una escara negruzca
-T27	ENFERMEDAD 1096 1102	escara
-T28	ENFERMEDAD 847 856	exantemas
-T29	PROCEDIMIENTO 1310 1367	serologías de Borrelia burgdorferri y Rickettesia connori
-T30	PROCEDIMIENTO 1626 1649	analítica con serología
-T31	PROCEDIMIENTO 1860 1869	analítica
-T32	PROCEDIMIENTO 2076 2097	estudio de R. slovaca
-T33	PROCEDIMIENTO 2148 2157	serología
-T34	PROCEDIMIENTO 432 443	exploración
-T35	PROCEDIMIENTO 785 794	palpación
-T36	PROCEDIMIENTO 808 819	exploración
-T37	PROCEDIMIENTO 895 942	analítica para estudio de picadura de garrapata
+T1	ENFERMEDAD 38 72	picadura de garrapata en la cabeza
+T2	ENFERMEDAD 1108 1119	adenopatías
+T3	ENFERMEDAD 921 942	picadura de garrapata
+T4	ENFERMEDAD 1747 1758	adenopatías
+T5	ENFERMEDAD 1021 1050	sobreinfección de la picadura
+T6	ENFERMEDAD 1819 1827	alopecia
+T7	ENFERMEDAD 662 709	adenopatías mastoideas y cervicales posteriores
+T8	ENFERMEDAD 1438 1451	rickettsiosis
+T9	ENFERMEDAD 1498 1522	enfermedades infecciosas
+T10	ENFERMEDAD 519 584	región parietoccipital izquierda se apreciaba una escara negruzca
+T11	ENFERMEDAD 1096 1102	escara
+T12	ENFERMEDAD 847 856	exantemas
+T13	PROCEDIMIENTO 1310 1367	serologías de Borrelia burgdorferri y Rickettesia connori
+T14	PROCEDIMIENTO 895 942	analítica para estudio de picadura de garrapata
+T15	PROCEDIMIENTO 1626 1649	analítica con serología
+T16	PROCEDIMIENTO 1860 1869	analítica
+T17	PROCEDIMIENTO 432 443	exploración
+T18	PROCEDIMIENTO 808 819	exploración
+T19	PROCEDIMIENTO 2148 2157	serología
+T20	PROCEDIMIENTO 2076 2097	estudio de R. slovaca
+T21	PROCEDIMIENTO 785 794	palpación
+T22	SINTOMA 455 474	buen estado general
+T23	SINTOMA 1710 1717	afebril
+T24	SINTOMA 1125 1131	fiebre
+T25	SINTOMA 490 499	irritable
+T26	SINTOMA 507 514	decaída
+T27	SINTOMA 367 373	fiebre
+T28	SINTOMA 390 409	bultos en la cabeza
+T29	SINTOMA 847 856	exantemas
+T30	SINTOMA 2130 2142	asintomática
+T31	SINTOMA 1916 1928	leucocitosis
+T32	SINTOMA 1195 1244	aumento de la velocidad de sedimentación globular
+T33	SINTOMA 1310 1384	serologías de Borrelia burgdorferri y Rickettesia connori fueron negativas
+T34	SINTOMA 1178 1190	leucocitosis
+T35	SINTOMA 526 584	parietoccipital izquierda se apreciaba una escara negruzca
+T36	SINTOMA 614 626	eritema leve
+T37	SINTOMA 770 794	dolorosas a la palpación

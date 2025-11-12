@@ -1,26 +1,35 @@
-T1	SINTOMA 403 417	abdomen blando
-T2	SINTOMA 675 757	aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal
-T3	SINTOMA 607 628	aire en la fosa renal
-T4	SINTOMA 338 374	cifras elevadas de urea y creatinina
-T5	SINTOMA 773 803	deterioro de su estado general
-T6	SINTOMA 228 256	deterioro del estado general
-T7	SINTOMA 423 456	dolor a nivel de flanco izquierdo
-T8	SINTOMA 903 919	evacuando el gas
-T9	SINTOMA 1243 1250	fallece
-T10	SINTOMA 149 155	fiebre
-T11	SINTOMA 267 279	leucocitosis
-T12	SINTOMA 158 167	lumbalgia
-T13	SINTOMA 292 303	neutrofilia
-T14	SINTOMA 459 498	puño percusión renal izquierda positiva
-T15	SINTOMA 1169 1210	secreción purulenta a través de la herida
-T16	ENFERMEDAD 65 70	obesa
-T17	ENFERMEDAD 206 218	micosis oral
-T18	ENFERMEDAD 305 335	hiperglucemia con cetoacidosis
-T19	ENFERMEDAD 866 901	contaminación de cavidad peritoneal
-T20	ENFERMEDAD 998 1004	sepsis
-T21	ENFERMEDAD 1125 1154	sepsis de origen respiratorio
-T22	ENFERMEDAD 1268 1296	disfunción orgánica múltiple
-T23	ENFERMEDAD 1301 1320	neumonía nosocomial
-T24	ENFERMEDAD 92 112	litiasis coraliforme
-T25	ENFERMEDAD 39 48	diabética
-T26	ENFERMEDAD 1204 1210	herida
+T1	ENFERMEDAD 65 70	obesa
+T2	ENFERMEDAD 206 218	micosis oral
+T3	ENFERMEDAD 305 335	hiperglucemia con cetoacidosis
+T4	ENFERMEDAD 866 901	contaminación de cavidad peritoneal
+T5	ENFERMEDAD 998 1004	sepsis
+T6	ENFERMEDAD 1125 1154	sepsis de origen respiratorio
+T7	ENFERMEDAD 1268 1296	disfunción orgánica múltiple
+T8	ENFERMEDAD 1301 1320	neumonía nosocomial
+T9	ENFERMEDAD 92 112	litiasis coraliforme
+T10	ENFERMEDAD 39 48	diabética
+T11	ENFERMEDAD 1204 1210	herida
+T12	PROCEDIMIENTO 379 392	examen físico
+T13	PROCEDIMIENTO 511 530	ecografía abdominal
+T14	PROCEDIMIENTO 533 563	radiografía directa de abdomen
+T15	PROCEDIMIENTO 643 664	TAC abdómino-pelviana
+T16	PROCEDIMIENTO 816 852	drenaje de fosa renal por lumbotomía
+T17	PROCEDIMIENTO 1032 1050	nefrectomía simple
+T18	PROCEDIMIENTO 464 479	percusión renal
+T19	PROCEDIMIENTO 922 949	debridando tejido necrótico
+T20	PROCEDIMIENTO 1212 1236	se le realiza "toilette"
+T21	SINTOMA 149 155	fiebre
+T22	SINTOMA 158 167	lumbalgia
+T23	SINTOMA 228 256	deterioro del estado general
+T24	SINTOMA 267 279	leucocitosis
+T25	SINTOMA 292 303	neutrofilia
+T26	SINTOMA 338 374	cifras elevadas de urea y creatinina
+T27	SINTOMA 423 456	dolor a nivel de flanco izquierdo
+T28	SINTOMA 459 498	puño percusión renal izquierda positiva
+T29	SINTOMA 773 803	deterioro de su estado general
+T30	SINTOMA 1243 1250	fallece
+T31	SINTOMA 1169 1210	secreción purulenta a través de la herida
+T32	SINTOMA 403 417	abdomen blando
+T33	SINTOMA 607 628	aire en la fosa renal
+T34	SINTOMA 675 757	aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal
+T35	SINTOMA 903 919	evacuando el gas

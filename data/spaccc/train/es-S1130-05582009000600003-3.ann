@@ -1,10 +1,15 @@
-T1	SINTOMA 184 189	babeo
-T2	SINTOMA 768 834	CAE estaba inflamado presentando discreta descamación y supuración
-T3	SINTOMA 516 562	dolor en la región preauricular de ambos lados
-T4	SINTOMA 352 376	erosión en la raíz nasal
-T5	SINTOMA 150 181	imposibilidad de cerrar la boca
-T6	SINTOMA 847 886	radiografía de ambas ATM que fue normal
-T7	SINTOMA 731 761	"signo del trago" era positivo
-T8	SINTOMA 718 726	dolorosa
-T9	ENFERMEDAD 454 480	luxación traumática de ATM
-T10	ENFERMEDAD 352 376	erosión en la raíz nasal
+T1	ENFERMEDAD 454 480	luxación traumática de ATM
+T2	ENFERMEDAD 352 376	erosión en la raíz nasal
+T3	PROCEDIMIENTO 696 705	otoscopia
+T4	PROCEDIMIENTO 847 871	radiografía de ambas ATM
+T5	PROCEDIMIENTO 644 666	maniobras de reducción
+T6	PROCEDIMIENTO 732 747	signo del trago
+T7	PROCEDIMIENTO 493 504	exploración
+T8	SINTOMA 150 181	imposibilidad de cerrar la boca
+T9	SINTOMA 184 189	babeo
+T10	SINTOMA 352 376	erosión en la raíz nasal
+T11	SINTOMA 516 562	dolor en la región preauricular de ambos lados
+T12	SINTOMA 731 761	"signo del trago" era positivo
+T13	SINTOMA 768 834	CAE estaba inflamado presentando discreta descamación y supuración
+T14	SINTOMA 718 726	dolorosa
+T15	SINTOMA 847 886	radiografía de ambas ATM que fue normal

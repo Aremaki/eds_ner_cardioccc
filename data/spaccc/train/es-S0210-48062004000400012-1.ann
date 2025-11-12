@@ -1,42 +1,56 @@
-T1	SINTOMA 3376 3388	asintomático
-T2	SINTOMA 3173 3202	buena función renal bilateral
-T3	SINTOMA 1611 1659	calcificaciones puntiformes en la pared quística
-T4	SINTOMA 2227 2282	citología de orina, que no evidenciaba células malignas
-T5	SINTOMA 1056 1107	desplazamiento del segmento lumbo-ilíaco del uréter
-T6	SINTOMA 163 172	dispepsia
-T7	SINTOMA 983 1027	distorsión de la silueta y la pelvis renales
-T8	SINTOMA 3283 3299	distorsión renal
-T9	SINTOMA 1175 1211	ectasia del tracto urinario superior
-T10	SINTOMA 520 541	irritación peritoneal
-T11	SINTOMA 2390 2394	masa
-T12	SINTOMA 2680 2684	masa
-T13	SINTOMA 464 481	masa era indolora
-T14	SINTOMA 339 386	masa que deformaba hemiabdomen anterior derecho
-T15	SINTOMA 1318 1368	masa quística polilobulada retroperitoneal derecha
-T16	SINTOMA 83 103	masa retroperitoneal
-T17	SINTOMA 548 570	matidez a la percusión
-T18	SINTOMA 603 639	próstata de tamaño II/V, adenomatosa
-T19	SINTOMA 1864 1911	riñón derecho se mostraba funcionalmente normal
-T20	SINTOMA 692 738	sedimento y el cultivo de orina, eran normales
+T1	ENFERMEDAD 808 823	lesión quística
+T2	ENFERMEDAD 1318 1360	masa quística polilobulada retroperitoneal
+T3	ENFERMEDAD 2390 2403	masa quística
+T4	ENFERMEDAD 3499 3522	pseudomixoma peritoneal
+T5	ENFERMEDAD 220 241	tuberculosis pulmonar
+T6	ENFERMEDAD 3010 3043	cistoadenoma mucinoso de apéndice
+T7	ENFERMEDAD 252 291	enfermedad pulmonar obstructiva crónica
+T8	ENFERMEDAD 1970 2008	hemirriñón inferior derecho displásico
+T9	ENFERMEDAD 2013 2040	agenesia parcial del uréter
+T10	ENFERMEDAD 3464 3484	lesiones abdominales
+T11	ENFERMEDAD 2680 2693	masa quística
+T12	ENFERMEDAD 1175 1211	ectasia del tracto urinario superior
+T13	ENFERMEDAD 2208 2223	lesión quística
+T14	ENFERMEDAD 2846 2863	apéndice dilatado
+T15	PROCEDIMIENTO 775 794	ecografía abdominal
+T16	PROCEDIMIENTO 1229 1292	TAC abdomino-pélvico realizado con contraste oral e intravenoso
+T17	PROCEDIMIENTO 949 963	urografía i.v.
+T18	PROCEDIMIENTO 2792 2817	estudio anatomopatológico
+T19	PROCEDIMIENTO 965 968	UIV
+T20	PROCEDIMIENTO 3095 3098	UIV
 T21	PROCEDIMIENTO 117 136	ecografía abdominal
-T22	PROCEDIMIENTO 1229 1292	TAC abdomino-pélvico realizado con contraste oral e intravenoso
-T23	PROCEDIMIENTO 1931 1934	TAC
-T24	PROCEDIMIENTO 2090 2111	estudios radiológicos
-T25	PROCEDIMIENTO 2148 2174	punción-biopsia percutánea
-T26	PROCEDIMIENTO 2227 2245	citología de orina
-T27	PROCEDIMIENTO 2312 2373	intervención quirúrgica mediante abordaje pararrectal derecho
-T28	PROCEDIMIENTO 2654 2714	resección cuidadosa de la masa quística y del apéndice cecal
-T29	PROCEDIMIENTO 2792 2817	estudio anatomopatológico
-T30	PROCEDIMIENTO 299 316	inspección física
-T31	PROCEDIMIENTO 3095 3098	UIV
-T32	PROCEDIMIENTO 3132 3155	intervención quirúrgica
-T33	PROCEDIMIENTO 3179 3202	función renal bilateral
-T34	PROCEDIMIENTO 3432 3435	TAC
-T35	PROCEDIMIENTO 447 456	palpación
-T36	PROCEDIMIENTO 575 587	tacto rectal
-T37	PROCEDIMIENTO 668 687	analítica sanguínea
-T38	PROCEDIMIENTO 692 723	sedimento y el cultivo de orina
-T39	PROCEDIMIENTO 707 723	cultivo de orina
-T40	PROCEDIMIENTO 775 794	ecografía abdominal
-T41	PROCEDIMIENTO 949 963	urografía i.v.
-T42	PROCEDIMIENTO 965 968	UIV
+T22	PROCEDIMIENTO 3432 3435	TAC
+T23	PROCEDIMIENTO 2227 2245	citología de orina
+T24	PROCEDIMIENTO 299 316	inspección física
+T25	PROCEDIMIENTO 2654 2714	resección cuidadosa de la masa quística y del apéndice cecal
+T26	PROCEDIMIENTO 575 587	tacto rectal
+T27	PROCEDIMIENTO 1931 1934	TAC
+T28	PROCEDIMIENTO 707 723	cultivo de orina
+T29	PROCEDIMIENTO 2312 2373	intervención quirúrgica mediante abordaje pararrectal derecho
+T30	PROCEDIMIENTO 3132 3155	intervención quirúrgica
+T31	PROCEDIMIENTO 2148 2174	punción-biopsia percutánea
+T32	PROCEDIMIENTO 447 456	palpación
+T33	PROCEDIMIENTO 668 687	analítica sanguínea
+T34	PROCEDIMIENTO 692 723	sedimento y el cultivo de orina
+T35	PROCEDIMIENTO 2090 2111	estudios radiológicos
+T36	PROCEDIMIENTO 3179 3202	función renal bilateral
+T37	SINTOMA 1056 1107	desplazamiento del segmento lumbo-ilíaco del uréter
+T38	SINTOMA 3173 3202	buena función renal bilateral
+T39	SINTOMA 163 172	dispepsia
+T40	SINTOMA 1175 1211	ectasia del tracto urinario superior
+T41	SINTOMA 339 386	masa que deformaba hemiabdomen anterior derecho
+T42	SINTOMA 520 541	irritación peritoneal
+T43	SINTOMA 692 738	sedimento y el cultivo de orina, eran normales
+T44	SINTOMA 3376 3388	asintomático
+T45	SINTOMA 983 1027	distorsión de la silueta y la pelvis renales
+T46	SINTOMA 1611 1659	calcificaciones puntiformes en la pared quística
+T47	SINTOMA 2227 2282	citología de orina, que no evidenciaba células malignas
+T48	SINTOMA 464 481	masa era indolora
+T49	SINTOMA 603 639	próstata de tamaño II/V, adenomatosa
+T50	SINTOMA 1864 1911	riñón derecho se mostraba funcionalmente normal
+T51	SINTOMA 3283 3299	distorsión renal
+T52	SINTOMA 548 570	matidez a la percusión
+T53	SINTOMA 83 103	masa retroperitoneal
+T54	SINTOMA 1318 1368	masa quística polilobulada retroperitoneal derecha
+T55	SINTOMA 2390 2394	masa
+T56	SINTOMA 2680 2684	masa

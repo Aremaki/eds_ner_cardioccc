@@ -1,19 +1,35 @@
-T1	SINTOMA 496 528	ECE que resultó también negativa
-T2	SINTOMA 292 330	exteriorización digestiva del sangrado
-T3	SINTOMA 391 441	gastroscopia e ileo-colonoscopia) que fue negativa
-T4	SINTOMA 1425 1462	gastroscopia urgente que fue negativa
-T5	SINTOMA 781 787	pálido
-T6	SINTOMA 707 714	astenia
-T7	SINTOMA 790 798	sudoroso
-T8	SINTOMA 960 975	heces melénicas
-T9	SINTOMA 717 724	melenas
-T10	SINTOMA 1562 1570	sangrado
-T11	ENFERMEDAD 95 113	anemia ferropénica
-T12	ENFERMEDAD 717 724	melenas
-T13	ENFERMEDAD 960 975	heces melénicas
-T14	ENFERMEDAD 1101 1119	sangrado digestivo
-T15	ENFERMEDAD 1387 1412	hemorragia digestiva alta
-T16	ENFERMEDAD 1587 1633	lesión gástrica de origen submucoso y ulcerada
-T17	ENFERMEDAD 1780 1802	enfermedad metastásica
-T18	ENFERMEDAD 1871 1900	origen submucoso de la lesión
-T19	ENFERMEDAD 1902 1915	GIST gástrico
+T1	ENFERMEDAD 95 113	anemia ferropénica
+T2	ENFERMEDAD 717 724	melenas
+T3	ENFERMEDAD 960 975	heces melénicas
+T4	ENFERMEDAD 1101 1119	sangrado digestivo
+T5	ENFERMEDAD 1387 1412	hemorragia digestiva alta
+T6	ENFERMEDAD 1587 1633	lesión gástrica de origen submucoso y ulcerada
+T7	ENFERMEDAD 1780 1802	enfermedad metastásica
+T8	ENFERMEDAD 1871 1900	origen submucoso de la lesión
+T9	ENFERMEDAD 1902 1915	GIST gástrico
+T10	PROCEDIMIENTO 266 289	fármacos gastro-lesivos
+T11	PROCEDIMIENTO 353 376	exploración endoscópica
+T12	PROCEDIMIENTO 391 403	gastroscopia
+T13	PROCEDIMIENTO 406 423	ileo-colonoscopia
+T14	PROCEDIMIENTO 496 499	ECE
+T15	PROCEDIMIENTO 755 773	exploración física
+T16	PROCEDIMIENTO 925 943	exploración rectal
+T17	PROCEDIMIENTO 1214 1227	fluidoterapia
+T18	PROCEDIMIENTO 1230 1273	se trasfundieron 4 concentrados de hematíes
+T19	PROCEDIMIENTO 1425 1437	gastroscopia
+T20	PROCEDIMIENTO 1502 1505	ECE
+T21	PROCEDIMIENTO 1748 1760	gastroscopia
+T22	PROCEDIMIENTO 1835 1858	estudio histopatológico
+T23	PROCEDIMIENTO 1821 1830	resección
+T24	PROCEDIMIENTO 980 989	analítica
+T25	PROCEDIMIENTO 1522 1533	exploración
+T26	SINTOMA 292 330	exteriorización digestiva del sangrado
+T27	SINTOMA 707 714	astenia
+T28	SINTOMA 781 787	pálido
+T29	SINTOMA 790 798	sudoroso
+T30	SINTOMA 960 975	heces melénicas
+T31	SINTOMA 717 724	melenas
+T32	SINTOMA 391 441	gastroscopia e ileo-colonoscopia) que fue negativa
+T33	SINTOMA 496 528	ECE que resultó también negativa
+T34	SINTOMA 1425 1462	gastroscopia urgente que fue negativa
+T35	SINTOMA 1562 1570	sangrado

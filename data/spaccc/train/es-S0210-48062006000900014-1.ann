@@ -1,60 +1,79 @@
-T1	SINTOMA 570 602	afectación de genitales externos
-T2	SINTOMA 4854 4866	asintomático
-T3	SINTOMA 3936 3960	cambios post-quirúrgicos
-T4	SINTOMA 3993 4013	colecciones líquidas
-T5	SINTOMA 3422 3450	deterioro del estado general
-T6	SINTOMA 299 314	dolor abdominal
-T7	SINTOMA 451 466	dolor abdominal
-T8	SINTOMA 880 904	estabilidad hemodinámica
-T9	SINTOMA 232 257	estable hemodinámicamente
-T10	SINTOMA 3465 3471	fiebre
-T11	SINTOMA 675 697	hematuria macroscópica
-T12	SINTOMA 3771 3800	hemocultivos crece un E. coli
-T13	SINTOMA 838 870	hemograma y coagulación normales
-T14	SINTOMA 3452 3463	hipotensión
-T15	SINTOMA 2421 2449	indemnidad del uréter distal
-T16	SINTOMA 479 554	irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
-T17	SINTOMA 3474 3519	leucocitosis con marcada desviación izquierda
-T18	SINTOMA 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
-T19	SINTOMA 606 618	uretrorragia
-T20	PROCEDIMIENTO 1208 1227	TC abdómino-pélvico
-T21	PROCEDIMIENTO 1230 1331	TC-cistografía (mediante replección vesical por gravedad con 300 cc de material de contraste diluido)
-T22	PROCEDIMIENTO 1335 1354	TC abdómino-pélvico
-T23	PROCEDIMIENTO 1357 1371	TC-cistografía
-T24	PROCEDIMIENTO 1751 1774	laparotomía exploradora
-T25	PROCEDIMIENTO 1795 1822	posición de decúbito supino
-T26	PROCEDIMIENTO 1834 1872	laparotomía media supra-infraumbilical
-T27	PROCEDIMIENTO 1903 1953	reparación de una pequeña perforación en mesosigma
-T28	PROCEDIMIENTO 1994 2068	reparación de una mínima lesión a nivel de vena iliaca primitiva izquierda
-T29	PROCEDIMIENTO 2181 2219	cistotomía media longitudinal anterior
-T30	PROCEDIMIENTO 2409 2483	explorar la indemnidad del uréter distal izquierdo con catéter ureteral 5F
-T31	PROCEDIMIENTO 2667 2719	sutura en dos planos de la doble perforación vesical
-T32	PROCEDIMIENTO 2728 2771	desbridamiento de los bordes desvitalizados
-T33	PROCEDIMIENTO 2783 2845	reimplante ureteral con técnica transvesical y catéter doble J
-T34	PROCEDIMIENTO 2885 2911	liberación ureteral distal
-T35	PROCEDIMIENTO 2896 2942	ureteral distal y sección de su extremo dañado
-T36	PROCEDIMIENTO 2958 3028	cierre, también en doble plano, de la cistotomía longitudinal anterior
-T37	PROCEDIMIENTO 3030 3058	se deja sonda uretro-vesical
-T38	PROCEDIMIENTO 3061 3156	doble drenaje cerrado de tipo aspirativo: uno a nivel intraperitoneal y el otro extraperitoneal
-T39	PROCEDIMIENTO 3182 3196	sutura vesical
-T40	PROCEDIMIENTO 3207 3252	antibioterapia intravenosa de amplio espectro
-T41	PROCEDIMIENTO 322 340	exploración física
-T42	PROCEDIMIENTO 3551 3565	antibioterapia
-T43	PROCEDIMIENTO 3617 3629	hemocultivos
-T44	PROCEDIMIENTO 3771 3783	hemocultivos
-T45	PROCEDIMIENTO 3891 3910	TC abdómino-pélvico
-T46	PROCEDIMIENTO 4116 4194	retirándose inicialmente ambos drenajes y, al 10º día, la sonda uretro-vesical
-T47	PROCEDIMIENTO 4264 4290	antibioterapia intravenosa
-T48	PROCEDIMIENTO 4369 4381	antibiograma
-T49	PROCEDIMIENTO 4399 4422	retirada del catéter JJ
-T50	PROCEDIMIENTO 4437 4449	intervención
-T51	PROCEDIMIENTO 4510 4528	uretro-cistoscopia
-T52	PROCEDIMIENTO 4531 4553	retirada de catéter JJ
-T53	PROCEDIMIENTO 4691 4768	catéter JJ que tutorizaba la ureteroneocistostomía se retira endoscópicamente
-T54	PROCEDIMIENTO 4823 4835	intervención
-T55	PROCEDIMIENTO 636 662	cateterismo uretro-vesical
+T1	ENFERMEDAD 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
+T2	ENFERMEDAD 2243 2262	perforación vesical
+T3	ENFERMEDAD 136 170	herida abdominal por arma de fuego
+T4	ENFERMEDAD 4579 4593	herida vesical
+T5	ENFERMEDAD 1929 1953	perforación en mesosigma
+T6	ENFERMEDAD 1109 1141	herida vesical por arma de fuego
+T7	ENFERMEDAD 1585 1705	hemorragia en: mesosigma, cara lateral izquierda vesical, vesícula seminal izquierda y áreas perirrectal e isquiorrectal
+T8	ENFERMEDAD 2019 2058	lesión a nivel de vena iliaca primitiva
+T9	ENFERMEDAD 355 445	orificio de entrada del proyectil en fosa iliaca izquierda con salida por glúteo izquierdo
+T10	ENFERMEDAD 2570 2646	l proyectil en su recorrido también secciona el conducto deferente izquierdo
+T11	ENFERMEDAD 2700 2719	perforación vesical
+T12	ENFERMEDAD 675 697	hematuria macroscópica
+T13	ENFERMEDAD 769 775	anemia
+T14	ENFERMEDAD 4044 4058	cuadro séptico
+T15	ENFERMEDAD 48 71	alergias medicamentosas
+T16	ENFERMEDAD 3452 3463	hipotensión
+T17	ENFERMEDAD 1529 1571	Herida de entrada en fosa iliaca izquierda
+T18	ENFERMEDAD 606 618	uretrorragia
+T19	PROCEDIMIENTO 1335 1354	TC abdómino-pélvico
+T20	PROCEDIMIENTO 1357 1371	TC-cistografía
+T21	PROCEDIMIENTO 2181 2219	cistotomía media longitudinal anterior
+T22	PROCEDIMIENTO 1751 1774	laparotomía exploradora
+T23	PROCEDIMIENTO 4510 4528	uretro-cistoscopia
+T24	PROCEDIMIENTO 4531 4553	retirada de catéter JJ
+T25	PROCEDIMIENTO 1834 1872	laparotomía media supra-infraumbilical
+T26	PROCEDIMIENTO 1903 1953	reparación de una pequeña perforación en mesosigma
+T27	PROCEDIMIENTO 4264 4290	antibioterapia intravenosa
+T28	PROCEDIMIENTO 4691 4768	catéter JJ que tutorizaba la ureteroneocistostomía se retira endoscópicamente
+T29	PROCEDIMIENTO 1994 2068	reparación de una mínima lesión a nivel de vena iliaca primitiva izquierda
+T30	PROCEDIMIENTO 322 340	exploración física
+T31	PROCEDIMIENTO 1208 1227	TC abdómino-pélvico
+T32	PROCEDIMIENTO 4399 4422	retirada del catéter JJ
+T33	PROCEDIMIENTO 3551 3565	antibioterapia
+T34	PROCEDIMIENTO 1230 1331	TC-cistografía (mediante replección vesical por gravedad con 300 cc de material de contraste diluido)
+T35	PROCEDIMIENTO 3617 3629	hemocultivos
+T36	PROCEDIMIENTO 2783 2845	reimplante ureteral con técnica transvesical y catéter doble J
+T37	PROCEDIMIENTO 636 662	cateterismo uretro-vesical
+T38	PROCEDIMIENTO 3891 3910	TC abdómino-pélvico
+T39	PROCEDIMIENTO 2885 2911	liberación ureteral distal
+T40	PROCEDIMIENTO 838 847	hemograma
+T41	PROCEDIMIENTO 2958 3028	cierre, también en doble plano, de la cistotomía longitudinal anterior
+T42	PROCEDIMIENTO 850 861	coagulación
+T43	PROCEDIMIENTO 3030 3058	se deja sonda uretro-vesical
+T44	PROCEDIMIENTO 3061 3156	doble drenaje cerrado de tipo aspirativo: uno a nivel intraperitoneal y el otro extraperitoneal
+T45	PROCEDIMIENTO 4369 4381	antibiograma
+T46	PROCEDIMIENTO 2728 2771	desbridamiento de los bordes desvitalizados
+T47	PROCEDIMIENTO 3182 3196	sutura vesical
+T48	PROCEDIMIENTO 3207 3252	antibioterapia intravenosa de amplio espectro
+T49	PROCEDIMIENTO 4116 4194	retirándose inicialmente ambos drenajes y, al 10º día, la sonda uretro-vesical
+T50	PROCEDIMIENTO 3771 3783	hemocultivos
+T51	PROCEDIMIENTO 959 976	pruebas de imagen
+T52	PROCEDIMIENTO 1795 1822	posición de decúbito supino
+T53	PROCEDIMIENTO 2409 2483	explorar la indemnidad del uréter distal izquierdo con catéter ureteral 5F
+T54	PROCEDIMIENTO 2667 2719	sutura en dos planos de la doble perforación vesical
+T55	PROCEDIMIENTO 2896 2942	ureteral distal y sección de su extremo dañado
 T56	PROCEDIMIENTO 713 722	analítica
-T57	PROCEDIMIENTO 838 847	hemograma
-T58	PROCEDIMIENTO 850 861	coagulación
-T59	PROCEDIMIENTO 959 976	pruebas de imagen
-T60	PROCEDIMIENTO 987 994	cirugía
+T57	PROCEDIMIENTO 987 994	cirugía
+T58	PROCEDIMIENTO 4437 4449	intervención
+T59	PROCEDIMIENTO 4823 4835	intervención
+T60	SINTOMA 880 904	estabilidad hemodinámica
+T61	SINTOMA 3422 3450	deterioro del estado general
+T62	SINTOMA 3465 3471	fiebre
+T63	SINTOMA 299 314	dolor abdominal
+T64	SINTOMA 451 466	dolor abdominal
+T65	SINTOMA 606 618	uretrorragia
+T66	SINTOMA 4854 4866	asintomático
+T67	SINTOMA 232 257	estable hemodinámicamente
+T68	SINTOMA 3771 3800	hemocultivos crece un E. coli
+T69	SINTOMA 570 602	afectación de genitales externos
+T70	SINTOMA 2421 2449	indemnidad del uréter distal
+T71	SINTOMA 3993 4013	colecciones líquidas
+T72	SINTOMA 479 554	irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+T73	SINTOMA 675 697	hematuria macroscópica
+T74	SINTOMA 838 870	hemograma y coagulación normales
+T75	SINTOMA 3452 3463	hipotensión
+T76	SINTOMA 3474 3519	leucocitosis con marcada desviación izquierda
+T77	SINTOMA 1435 1477	extravasación de contraste tras el relleno
+T78	SINTOMA 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
+T79	SINTOMA 3936 3960	cambios post-quirúrgicos

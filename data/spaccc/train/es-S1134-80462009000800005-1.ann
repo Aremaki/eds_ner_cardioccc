@@ -1,20 +1,31 @@
-T1	SINTOMA 113 128	cuadro doloroso
-T2	SINTOMA 719 740	déficits neurológicos
-T3	SINTOMA 2418 2437	estabilidad clínica
-T4	SINTOMA 523 535	dolor ocular
-T5	SINTOMA 67 72	dolor
-T6	SINTOMA 1095 1100	dolor
-T7	SINTOMA 1148 1155	vómitos
-T8	SINTOMA 1158 1169	somnolencia
-T9	SINTOMA 3382 3387	dolor
-T10	SINTOMA 667 682	sequedad ocular
-T11	SINTOMA 2466 2471	dolor
-T12	SINTOMA 2955 2960	dolor
-T13	SINTOMA 745 750	dolor
-T14	SINTOMA 2587 2598	somnolencia
-T15	SINTOMA 2136 2143	vómitos
-T16	SINTOMA 2988 3006	sensación nauseosa
-T17	SINTOMA 1299 1304	dolor
-T18	ENFERMEDAD 363 397	queratitis y uveítis de repetición
-T19	ENFERMEDAD 145 204	afectación herpética de la rama oftálmica del V par craneal
-T20	ENFERMEDAD 906 978	neuralgia posqueratitis herpética de la rama oftálmica del V par craneal
+T1	ENFERMEDAD 363 397	queratitis y uveítis de repetición
+T2	ENFERMEDAD 145 204	afectación herpética de la rama oftálmica del V par craneal
+T3	ENFERMEDAD 906 978	neuralgia posqueratitis herpética de la rama oftálmica del V par craneal
+T4	PROCEDIMIENTO 1385 1442	tratamiento con electroacupuntura (EA) de baja frecuencia
+T5	PROCEDIMIENTO 1811 1829	control analgésico
+T6	PROCEDIMIENTO 687 705	exploración física
+T7	PROCEDIMIENTO 3419 3441	sesiones de acupuntura
+T8	PROCEDIMIENTO 3464 3482	control analgésico
+T9	PROCEDIMIENTO 2102 2112	analgésica
+T10	PROCEDIMIENTO 1768 1770	EA
+T11	PROCEDIMIENTO 2033 2035	EA
+T12	PROCEDIMIENTO 3113 3115	EA
+T13	PROCEDIMIENTO 1420 1422	EA
+T14	PROCEDIMIENTO 3305 3307	EA
+T15	SINTOMA 523 535	dolor ocular
+T16	SINTOMA 67 72	dolor
+T17	SINTOMA 1095 1100	dolor
+T18	SINTOMA 113 128	cuadro doloroso
+T19	SINTOMA 1148 1155	vómitos
+T20	SINTOMA 1158 1169	somnolencia
+T21	SINTOMA 3382 3387	dolor
+T22	SINTOMA 667 682	sequedad ocular
+T23	SINTOMA 2466 2471	dolor
+T24	SINTOMA 2955 2960	dolor
+T25	SINTOMA 719 740	déficits neurológicos
+T26	SINTOMA 745 750	dolor
+T27	SINTOMA 2587 2598	somnolencia
+T28	SINTOMA 2136 2143	vómitos
+T29	SINTOMA 2988 3006	sensación nauseosa
+T30	SINTOMA 1299 1304	dolor
+T31	SINTOMA 2418 2437	estabilidad clínica

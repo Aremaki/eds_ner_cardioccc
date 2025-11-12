@@ -1,65 +1,65 @@
-T1	SINTOMA 115 122	diarrea
-T2	SINTOMA 124 139	dolor abdominal
-T3	SINTOMA 163 178	pérdida de peso
-T4	SINTOMA 2759 2766	diarrea
-T5	SINTOMA 988 1008	signos inflamatorios
-T6	SINTOMA 189 204	hipoalbuminemia
-T7	SINTOMA 2505 2524	buen estado general
-T8	SINTOMA 141 158	deterioro general
-T9	SINTOMA 894 917	dolor y supuración anal
-T10	SINTOMA 1014 1031	doloroso al tacto
-T11	SINTOMA 2608 2626	incontinencia anal
-T12	SINTOMA 1971 2024	masa de 3 cm en cuerpo-cola de páncreas vascularizada
-T13	SINTOMA 2091 2118	masa en el colon transverso
-T14	SINTOMA 235 259	masa polipoidea en sigma
-T15	ENFERMEDAD 18 25	fumador
-T16	ENFERMEDAD 31 48	enfisema pulmonar
-T17	ENFERMEDAD 1169 1204	úlcera se extendía 3 cm en el recto
-T18	ENFERMEDAD 51 59	vitíligo
-T19	ENFERMEDAD 1288 1298	ulceración
-T20	ENFERMEDAD 180 186	anemia
-T21	ENFERMEDAD 189 204	hipoalbuminemia
-T22	ENFERMEDAD 2647 2665	anemia ferropénica
-T23	ENFERMEDAD 254 282	sigma que producía estenosis
-T24	ENFERMEDAD 1431 1449	orificio fistuloso
-T25	ENFERMEDAD 2784 2803	colitis segmentaria
-T26	ENFERMEDAD 373 379	lesión
-T27	ENFERMEDAD 1518 1529	hematemesis
-T28	ENFERMEDAD 2851 2864	pseudopólipos
-T29	ENFERMEDAD 1565 1588	esofagitis distal grave
-T30	ENFERMEDAD 1594 1611	gastritis erosiva
-T31	ENFERMEDAD 2901 2917	colitis ulcerosa
-T32	ENFERMEDAD 1614 1676	ulceración difusa de la mucosa del duodeno bulbar y postbulbar
-T33	ENFERMEDAD 495 520	colectomía con una úlcera
-T34	ENFERMEDAD 2984 3007	colitis ulcerosa activa
-T35	ENFERMEDAD 1791 1810	úlceras del duodeno
-T36	ENFERMEDAD 3186 3203	enfisema pulmonar
-T37	ENFERMEDAD 767 773	úlcera
-T38	ENFERMEDAD 3216 3236	neumotórax bilateral
-T39	ENFERMEDAD 795 820	colitis quística profunda
-T40	ENFERMEDAD 2064 2081	tumor pancreático
-T41	ENFERMEDAD 935 968	orificio fistuloso en margen anal
-T42	ENFERMEDAD 1078 1099	úlcera del canal anal
-T43	ENFERMEDAD 2334 2347	microabscesos
-T44	ENFERMEDAD 2942 2950	lesiones
-T45	ENFERMEDAD 235 250	masa polipoidea
-T46	PROCEDIMIENTO 1140 1152	colonoscopia
-T47	PROCEDIMIENTO 1249 1269	anastomosis colónica
-T48	PROCEDIMIENTO 1455 1463	biopsias
-T49	PROCEDIMIENTO 1536 1548	gastroscopia
-T50	PROCEDIMIENTO 1775 1810	biopsias de las úlceras del duodeno
-T51	PROCEDIMIENTO 1905 1916	analgésicos
-T52	PROCEDIMIENTO 1925 1938	TC de abdomen
-T53	PROCEDIMIENTO 2038 2049	laparotomía
-T54	PROCEDIMIENTO 209 221	colonoscopia
-T55	PROCEDIMIENTO 2091 2135	masa en el colon transverso que fue resecada
-T56	PROCEDIMIENTO 2140 2158	examen histológico
-T57	PROCEDIMIENTO 2742 2754	colonoscopia
-T58	PROCEDIMIENTO 2956 2974	biopsias del colon
-T59	PROCEDIMIENTO 297 316	paso del endoscopio
-T60	PROCEDIMIENTO 3071 3081	esteroides
-T61	PROCEDIMIENTO 329 337	biopsias
-T62	PROCEDIMIENTO 396 445	resección con anastomosis colónica latero-lateral
-T63	PROCEDIMIENTO 495 505	colectomía
-T64	PROCEDIMIENTO 849 856	cirugía
-T65	PROCEDIMIENTO 98 110	colonoscopia
+T1	ENFERMEDAD 18 25	fumador
+T2	ENFERMEDAD 31 48	enfisema pulmonar
+T3	ENFERMEDAD 1169 1204	úlcera se extendía 3 cm en el recto
+T4	ENFERMEDAD 51 59	vitíligo
+T5	ENFERMEDAD 1288 1298	ulceración
+T6	ENFERMEDAD 180 186	anemia
+T7	ENFERMEDAD 189 204	hipoalbuminemia
+T8	ENFERMEDAD 2647 2665	anemia ferropénica
+T9	ENFERMEDAD 254 282	sigma que producía estenosis
+T10	ENFERMEDAD 1431 1449	orificio fistuloso
+T11	ENFERMEDAD 2784 2803	colitis segmentaria
+T12	ENFERMEDAD 373 379	lesión
+T13	ENFERMEDAD 1518 1529	hematemesis
+T14	ENFERMEDAD 2851 2864	pseudopólipos
+T15	ENFERMEDAD 1565 1588	esofagitis distal grave
+T16	ENFERMEDAD 1594 1611	gastritis erosiva
+T17	ENFERMEDAD 2901 2917	colitis ulcerosa
+T18	ENFERMEDAD 1614 1676	ulceración difusa de la mucosa del duodeno bulbar y postbulbar
+T19	ENFERMEDAD 495 520	colectomía con una úlcera
+T20	ENFERMEDAD 2984 3007	colitis ulcerosa activa
+T21	ENFERMEDAD 1791 1810	úlceras del duodeno
+T22	ENFERMEDAD 3186 3203	enfisema pulmonar
+T23	ENFERMEDAD 767 773	úlcera
+T24	ENFERMEDAD 3216 3236	neumotórax bilateral
+T25	ENFERMEDAD 795 820	colitis quística profunda
+T26	ENFERMEDAD 2064 2081	tumor pancreático
+T27	ENFERMEDAD 935 968	orificio fistuloso en margen anal
+T28	ENFERMEDAD 1078 1099	úlcera del canal anal
+T29	ENFERMEDAD 2334 2347	microabscesos
+T30	ENFERMEDAD 2942 2950	lesiones
+T31	ENFERMEDAD 235 250	masa polipoidea
+T32	PROCEDIMIENTO 1140 1152	colonoscopia
+T33	PROCEDIMIENTO 98 110	colonoscopia
+T34	PROCEDIMIENTO 1249 1269	anastomosis colónica
+T35	PROCEDIMIENTO 209 221	colonoscopia
+T36	PROCEDIMIENTO 2742 2754	colonoscopia
+T37	PROCEDIMIENTO 1455 1463	biopsias
+T38	PROCEDIMIENTO 329 337	biopsias
+T39	PROCEDIMIENTO 396 445	resección con anastomosis colónica latero-lateral
+T40	PROCEDIMIENTO 1536 1548	gastroscopia
+T41	PROCEDIMIENTO 495 505	colectomía
+T42	PROCEDIMIENTO 2956 2974	biopsias del colon
+T43	PROCEDIMIENTO 3071 3081	esteroides
+T44	PROCEDIMIENTO 1775 1810	biopsias de las úlceras del duodeno
+T45	PROCEDIMIENTO 1905 1916	analgésicos
+T46	PROCEDIMIENTO 1925 1938	TC de abdomen
+T47	PROCEDIMIENTO 2038 2049	laparotomía
+T48	PROCEDIMIENTO 2091 2135	masa en el colon transverso que fue resecada
+T49	PROCEDIMIENTO 2140 2158	examen histológico
+T50	PROCEDIMIENTO 297 316	paso del endoscopio
+T51	PROCEDIMIENTO 849 856	cirugía
+T52	SINTOMA 115 122	diarrea
+T53	SINTOMA 124 139	dolor abdominal
+T54	SINTOMA 141 158	deterioro general
+T55	SINTOMA 163 178	pérdida de peso
+T56	SINTOMA 2608 2626	incontinencia anal
+T57	SINTOMA 2759 2766	diarrea
+T58	SINTOMA 1971 2024	masa de 3 cm en cuerpo-cola de páncreas vascularizada
+T59	SINTOMA 894 917	dolor y supuración anal
+T60	SINTOMA 2091 2118	masa en el colon transverso
+T61	SINTOMA 1014 1031	doloroso al tacto
+T62	SINTOMA 988 1008	signos inflamatorios
+T63	SINTOMA 189 204	hipoalbuminemia
+T64	SINTOMA 235 259	masa polipoidea en sigma
+T65	SINTOMA 2505 2524	buen estado general

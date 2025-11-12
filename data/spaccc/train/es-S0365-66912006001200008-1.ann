@@ -1,25 +1,67 @@
-T1	SINTOMA 2727 2741	hipomagnesemia
-T2	SINTOMA 1327 1335	nistagmo
-T3	SINTOMA 197 230	agudeza visual (AV) es baja en OD
-T4	SINTOMA 2470 2508	anticuerpos del niño no están elevados
-T5	SINTOMA 2910 2961	AV en el OD es de percepción y proyección de la luz
-T6	SINTOMA 1726 1790	Citomegalovirus, niño negativo, madre positiva con títulos bajos
-T7	SINTOMA 296 317	coge objetos pequeños
-T8	SINTOMA 437 458	convulsiones febriles
-T9	SINTOMA 1207 1257	coroideos sobre la esclera con cúmulos de pigmento
-T10	SINTOMA 279 293	fija la mirada
-T11	SINTOMA 379 412	fijación excéntrica en ambos ojos
-T12	SINTOMA 2626 2682	fondo de ojo a sus padres y hermanos, son todos normales
-T13	SINTOMA 1818 1880	Herpes tipo I, niño negativo, madre positiva con títulos bajos
-T14	SINTOMA 1905 1968	Herpes tipo II, niño negativo, madre positiva con títulos bajos
-T15	SINTOMA 2710 2724	hipercalciuria
-T16	SINTOMA 2768 2834	índice calcio/creatinina y la magnesemia están dentro de lo normal
-T17	SINTOMA 1645 1670	negativos para toxoplasma
-T18	SINTOMA 634 657	polo anterior es normal
-T19	SINTOMA 1381 1412	radiografía de cráneo es normal
-T20	SINTOMA 323 355	reflejo luminoso sobre la cornea
-T21	SINTOMA 2149 2173	Rubéola, ambos positivos
-T22	SINTOMA 2112 2147	Sífilis, RPR madre e hijo negativos
-T23	SINTOMA 1171 1196	vasos retinianos normales
-T24	SINTOMA 2248 2307	Virus de la coriomeningitis linfocitaria, los dos positivos
-T25	SINTOMA 1996 2069	Virus varicela-zoster, niño negativo, madre positiva con títulos elevados
+T1	ENFERMEDAD 68 78	estrabismo
+T2	ENFERMEDAD 89 99	endotropía
+T3	ENFERMEDAD 122 133	hipertropía
+T4	ENFERMEDAD 523 550	varicela estando embarazada
+T5	ENFERMEDAD 611 629	síndrome de Alport
+T6	ENFERMEDAD 763 795	lesiones ovales en ambas máculas
+T7	ENFERMEDAD 851 875	retinocoroiditis antigua
+T8	ENFERMEDAD 1434 1463	infección ocular intrauterina
+T9	ENFERMEDAD 1522 1529	Rubéola
+T10	ENFERMEDAD 1558 1565	sífilis
+T11	ENFERMEDAD 2112 2119	Sífilis
+T12	ENFERMEDAD 1580 1608	coriomeningitis linfocitaria
+T13	ENFERMEDAD 2149 2156	Rubéola
+T14	ENFERMEDAD 2260 2288	coriomeningitis linfocitaria
+T15	ENFERMEDAD 2543 2577	coloboma macular atípico bilateral
+T16	ENFERMEDAD 2710 2724	hipercalciuria
+T17	ENFERMEDAD 2727 2741	hipomagnesemia
+T18	ENFERMEDAD 3188 3196	coloboma
+T19	ENFERMEDAD 1346 1363	lesiones oculares
+T20	ENFERMEDAD 1061 1089	atrofia parapapilar temporal
+T21	ENFERMEDAD 1108 1131	atrofia coriorretiniana
+T22	ENFERMEDAD 523 531	varicela
+T23	ENFERMEDAD 1274 1290	ectasia escleral
+T24	ENFERMEDAD 1327 1335	nistagmo
+T25	PROCEDIMIENTO 665 677	esquiascopía
+T26	PROCEDIMIENTO 727 750	oftalmoscopía indirecta
+T27	PROCEDIMIENTO 1381 1402	radiografía de cráneo
+T28	PROCEDIMIENTO 1476 1496	serología para TORCH
+T29	PROCEDIMIENTO 3233 3249	ecografía ocular
+T30	PROCEDIMIENTO 2626 2638	fondo de ojo
+T31	PROCEDIMIENTO 2373 2402	inmunofluorescencia indirecta
+T32	PROCEDIMIENTO 2992 3068	potenciales evocados visuales, por estimulación con gafas luminosas y damero
+T33	PROCEDIMIENTO 323 355	reflejo luminoso sobre la cornea
+T34	PROCEDIMIENTO 3140 3164	penalización con parches
+T35	PROCEDIMIENTO 1720 1723	EIA
+T36	PROCEDIMIENTO 1812 1815	EIA
+T37	PROCEDIMIENTO 1899 1902	EIA
+T38	PROCEDIMIENTO 1990 1993	EIA
+T39	PROCEDIMIENTO 2106 2109	EIA
+T40	PROCEDIMIENTO 2242 2245	EIA
+T41	PROCEDIMIENTO 1700 1718	enzimoinmunoensayo
+T42	SINTOMA 197 230	agudeza visual (AV) es baja en OD
+T43	SINTOMA 437 458	convulsiones febriles
+T44	SINTOMA 279 293	fija la mirada
+T45	SINTOMA 296 317	coge objetos pequeños
+T46	SINTOMA 379 412	fijación excéntrica en ambos ojos
+T47	SINTOMA 634 657	polo anterior es normal
+T48	SINTOMA 1381 1412	radiografía de cráneo es normal
+T49	SINTOMA 1171 1196	vasos retinianos normales
+T50	SINTOMA 1726 1790	Citomegalovirus, niño negativo, madre positiva con títulos bajos
+T51	SINTOMA 1818 1880	Herpes tipo I, niño negativo, madre positiva con títulos bajos
+T52	SINTOMA 1905 1968	Herpes tipo II, niño negativo, madre positiva con títulos bajos
+T53	SINTOMA 2768 2834	índice calcio/creatinina y la magnesemia están dentro de lo normal
+T54	SINTOMA 323 355	reflejo luminoso sobre la cornea
+T55	SINTOMA 1327 1335	nistagmo
+T56	SINTOMA 1645 1670	negativos para toxoplasma
+T57	SINTOMA 2112 2147	Sífilis, RPR madre e hijo negativos
+T58	SINTOMA 2248 2307	Virus de la coriomeningitis linfocitaria, los dos positivos
+T59	SINTOMA 2470 2508	anticuerpos del niño no están elevados
+T60	SINTOMA 881 897	periferia normal
+T61	SINTOMA 1207 1257	coroideos sobre la esclera con cúmulos de pigmento
+T62	SINTOMA 1996 2069	Virus varicela-zoster, niño negativo, madre positiva con títulos elevados
+T63	SINTOMA 2149 2173	Rubéola, ambos positivos
+T64	SINTOMA 2626 2682	fondo de ojo a sus padres y hermanos, son todos normales
+T65	SINTOMA 2710 2724	hipercalciuria
+T66	SINTOMA 2727 2741	hipomagnesemia
+T67	SINTOMA 2910 2961	AV en el OD es de percepción y proyección de la luz

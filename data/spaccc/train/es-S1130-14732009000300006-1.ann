@@ -1,18 +1,59 @@
-T1	SINTOMA 1904 1948	acúmulo graso en la cisterna interpeduncular
-T2	SINTOMA 748 916	imágenes ovulares diseminadas por las cisternas supraselares derechas, cuadrigéminas bilaterales, ángulo pontocerebeloso y asta frontal del ventrículo lateral izquierdo
-T3	SINTOMA 311 339	inestabilidad para la marcha
-T4	SINTOMA 505 541	lateropulsión izquierda en la marcha
-T5	SINTOMA 1212 1236	masa extraparenquimatosa
-T6	SINTOMA 1470 1562	región paramedial del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en T2
-T7	SINTOMA 432 445	rigidez nucal
-T8	SINTOMA 483 502	Romberg tambaleante
-T9	SINTOMA 2826 2833	cefalea
-T10	SINTOMA 136 155	cefalea holocraneal
-T11	SINTOMA 182 191	fotofobia
-T12	SINTOMA 193 200	nauseas
-T13	SINTOMA 203 210	vómitos
-T14	SINTOMA 215 221	fiebre
-T15	SINTOMA 342 350	diplopia
-T16	SINTOMA 2987 2999	asintomática
-T17	SINTOMA 2923 2936	inestabilidad
-T18	SINTOMA 2906 2920	oftalmoparesia
+T1	ENFERMEDAD 60 68	asmática
+T2	ENFERMEDAD 2906 2920	oftalmoparesia
+T3	ENFERMEDAD 3019 3061	infarto aislado anteromedial mesencefálico
+T4	ENFERMEDAD 3088 3150	vasoespamo de arterias perforantes paramedianas mesencefálicas
+T5	ENFERMEDAD 3170 3252	diseminación subaracnoidea del contenido graso de un quiste dermoide temporal roto
+T6	ENFERMEDAD 3223 3252	quiste dermoide temporal roto
+T7	ENFERMEDAD 447 481	oftalmoplejia internuclear derecha
+T8	ENFERMEDAD 3452 3470	compresión tumoral
+T9	ENFERMEDAD 981 1030	meningitis química por ruptura de quiste dermoide
+T10	ENFERMEDAD 1015 1030	quiste dermoide
+T11	ENFERMEDAD 1256 1310	quiste en la región medial del polo temporal izquierdo
+T12	ENFERMEDAD 1671 1688	infarto isquémico
+T13	ENFERMEDAD 1822 1881	partículas de grasa diseminadas en el espacio subaracnoideo
+T14	ENFERMEDAD 2376 2381	ictus
+T15	ENFERMEDAD 342 350	diplopia
+T16	ENFERMEDAD 2727 2736	arritmias
+T17	ENFERMEDAD 635 641	lesión
+T18	ENFERMEDAD 1395 1444	diseminación de grasa en el espacio subaracnoideo
+T19	ENFERMEDAD 1904 1948	acúmulo graso en la cisterna interpeduncular
+T20	PROCEDIMIENTO 90 112	anticonceptivos orales
+T21	PROCEDIMIENTO 395 413	examen neurológico
+T22	PROCEDIMIENTO 586 616	tomografía axial computarizada
+T23	PROCEDIMIENTO 1115 1144	resonancia magnética cerebral
+T24	PROCEDIMIENTO 2188 2199	neuroimagen
+T25	PROCEDIMIENTO 2408 2419	lipidograma
+T26	PROCEDIMIENTO 2421 2445	estudio de autoinmunidad
+T27	PROCEDIMIENTO 2558 2592	estudio de líquido cefalorraquídeo
+T28	PROCEDIMIENTO 2594 2612	electrocardiograma
+T29	PROCEDIMIENTO 2614 2644	duplex de troncos supraórticos
+T30	PROCEDIMIENTO 2646 2666	doppler transcraneal
+T31	PROCEDIMIENTO 2668 2684	test de burbujas
+T32	PROCEDIMIENTO 2686 2715	ecocardiografía transtorácica
+T33	PROCEDIMIENTO 2717 2736	holter de arritmias
+T34	PROCEDIMIENTO 2739 2776	angioresonancia de polígono de Willis
+T35	PROCEDIMIENTO 2397 2406	hemograma
+T36	PROCEDIMIENTO 2447 2456	serología
+T37	PROCEDIMIENTO 2458 2476	hormonas tiroideas
+T38	PROCEDIMIENTO 1705 1795	resonancia con secuencias en T1 y EGD con supresión grasa tras administración de gadolinio
+T39	PROCEDIMIENTO 2386 2395	analítica
+T40	PROCEDIMIENTO 3385 3392	cirugía
+T41	SINTOMA 2826 2833	cefalea
+T42	SINTOMA 136 155	cefalea holocraneal
+T43	SINTOMA 182 191	fotofobia
+T44	SINTOMA 193 200	nauseas
+T45	SINTOMA 203 210	vómitos
+T46	SINTOMA 215 221	fiebre
+T47	SINTOMA 311 339	inestabilidad para la marcha
+T48	SINTOMA 342 350	diplopia
+T49	SINTOMA 432 445	rigidez nucal
+T50	SINTOMA 483 502	Romberg tambaleante
+T51	SINTOMA 505 541	lateropulsión izquierda en la marcha
+T52	SINTOMA 1212 1236	masa extraparenquimatosa
+T53	SINTOMA 1904 1948	acúmulo graso en la cisterna interpeduncular
+T54	SINTOMA 748 916	imágenes ovulares diseminadas por las cisternas supraselares derechas, cuadrigéminas bilaterales, ángulo pontocerebeloso y asta frontal del ventrículo lateral izquierdo
+T55	SINTOMA 2987 2999	asintomática
+T56	SINTOMA 2923 2936	inestabilidad
+T57	SINTOMA 1470 1562	región paramedial del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en T2
+T58	SINTOMA 2386 2809	analítica, hemograma, lipidograma, estudio de autoinmunidad, serología, hormonas tiroideas, homocisteina, anticuerpos anticardiolipina, B2-microglobulina, antifosfolípido, estudio de líquido cefalorraquídeo, electrocardiograma, duplex de troncos supraórticos, doppler transcraneal, test de burbujas, ecocardiografía transtorácica, holter de arritmias y angioresonancia de polígono de Willis; todas ellas con resultado norma
+T59	SINTOMA 2906 2920	oftalmoparesia

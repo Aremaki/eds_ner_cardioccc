@@ -1,12 +1,14 @@
 T1	ENFERMEDAD 13 27	labio leporino
 T2	ENFERMEDAD 30 55	fisura palatina bilateral
 T3	ENFERMEDAD 60 95	premaxila estaba protruida y rotada
-T4	PROCEDIMIENTO 192 206	cirugía labial
-T5	PROCEDIMIENTO 260 305	Tras la toma de impresiones se diseñó un ECPR
-T6	PROCEDIMIENTO 301 319	ECPR que se colocó
-T7	PROCEDIMIENTO 325 342	anestesia general
-T8	PROCEDIMIENTO 399 408	expansión
-T9	PROCEDIMIENTO 439 480	modificábamos la tensión de las cadenetas
-T10	PROCEDIMIENTO 496 521	retrusión de la premaxila
-T11	PROCEDIMIENTO 545 572	premaxila se había retruido
-T12	PROCEDIMIENTO 637 674	queiloplastia con técnica de Mulliken
+T4	PROCEDIMIENTO 301 319	ECPR que se colocó
+T5	PROCEDIMIENTO 325 342	anestesia general
+T6	PROCEDIMIENTO 637 674	queiloplastia con técnica de Mulliken
+T7	PROCEDIMIENTO 496 521	retrusión de la premaxila
+T8	PROCEDIMIENTO 192 206	cirugía labial
+T9	PROCEDIMIENTO 399 408	expansión
+T10	PROCEDIMIENTO 260 305	Tras la toma de impresiones se diseñó un ECPR
+T11	PROCEDIMIENTO 439 480	modificábamos la tensión de las cadenetas
+T12	PROCEDIMIENTO 545 572	premaxila se había retruido
+T13	SINTOMA 227 257	tensión de los tejidos blandos
+T14	SINTOMA 579 606	segmentos estaban alineados

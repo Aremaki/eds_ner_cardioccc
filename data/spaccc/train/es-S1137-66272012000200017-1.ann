@@ -1,27 +1,27 @@
-T1	SINTOMA 689 725	adherencias a las estructuras anexas
-T2	SINTOMA 1465 1506	pruebas de función respiratorias normales
-T3	SINTOMA 398 421	reduce la luz esofágica
-T4	SINTOMA 134 158	tumoración de mediastino
-T5	SINTOMA 590 646	tumoración en mediastino medio a nivel de la vena ácigos
-T6	SINTOMA 1451 1458	afebril
-T7	SINTOMA 37 49	asintomático
-T8	SINTOMA 1347 1359	asintomático
-T9	SINTOMA 1403 1411	disfagia
-T10	SINTOMA 30 34	sano
-T11	SINTOMA 982 992	tumoración
-T12	SINTOMA 1762 1772	tumoración
-T13	SINTOMA 811 821	tumoración
-T14	ENFERMEDAD 1574 1593	leiomioma esofágico
-T15	ENFERMEDAD 298 363	estenosis de unos 3 cm de longitud en el tercio medio del esófago
-T16	ENFERMEDAD 1426 1449	reflujo gastroesofágico
-T17	ENFERMEDAD 1403 1411	disfagia
-T18	PROCEDIMIENTO 119 164	estudio de una tumoración de mediastino medio
-T19	PROCEDIMIENTO 1312 1319	cirugía
-T20	PROCEDIMIENTO 1465 1497	pruebas de función respiratorias
-T21	PROCEDIMIENTO 1519 1536	anatomopatológico
-T22	PROCEDIMIENTO 1732 1746	Al microscopio
-T23	PROCEDIMIENTO 210 281	estudio faringo-esofágico, tras la administración de contraste baritado
-T24	PROCEDIMIENTO 515 554	videotoracoscopia derecha por tres vías
-T25	PROCEDIMIENTO 740 795	disección efectuando apertura de la pleura mediastínica
-T26	PROCEDIMIENTO 798 950	separando la tumoración de lo que parecen fibras musculares del esófago (esto último se realiza mediante gancho de videotoracoscopia y bisturí eléctrico
-T27	PROCEDIMIENTO 968 992	se enuclea la tumoración
+T1	ENFERMEDAD 1574 1593	leiomioma esofágico
+T2	ENFERMEDAD 298 363	estenosis de unos 3 cm de longitud en el tercio medio del esófago
+T3	ENFERMEDAD 1426 1449	reflujo gastroesofágico
+T4	ENFERMEDAD 1403 1411	disfagia
+T5	PROCEDIMIENTO 210 281	estudio faringo-esofágico, tras la administración de contraste baritado
+T6	PROCEDIMIENTO 515 554	videotoracoscopia derecha por tres vías
+T7	PROCEDIMIENTO 740 795	disección efectuando apertura de la pleura mediastínica
+T8	PROCEDIMIENTO 1465 1497	pruebas de función respiratorias
+T9	PROCEDIMIENTO 1519 1536	anatomopatológico
+T10	PROCEDIMIENTO 798 950	separando la tumoración de lo que parecen fibras musculares del esófago (esto último se realiza mediante gancho de videotoracoscopia y bisturí eléctrico
+T11	PROCEDIMIENTO 968 992	se enuclea la tumoración
+T12	PROCEDIMIENTO 119 164	estudio de una tumoración de mediastino medio
+T13	PROCEDIMIENTO 1732 1746	Al microscopio
+T14	PROCEDIMIENTO 1312 1319	cirugía
+T15	SINTOMA 590 646	tumoración en mediastino medio a nivel de la vena ácigos
+T16	SINTOMA 134 158	tumoración de mediastino
+T17	SINTOMA 1451 1458	afebril
+T18	SINTOMA 37 49	asintomático
+T19	SINTOMA 1347 1359	asintomático
+T20	SINTOMA 1403 1411	disfagia
+T21	SINTOMA 30 34	sano
+T22	SINTOMA 398 421	reduce la luz esofágica
+T23	SINTOMA 689 725	adherencias a las estructuras anexas
+T24	SINTOMA 982 992	tumoración
+T25	SINTOMA 1762 1772	tumoración
+T26	SINTOMA 1465 1506	pruebas de función respiratorias normales
+T27	SINTOMA 811 821	tumoración

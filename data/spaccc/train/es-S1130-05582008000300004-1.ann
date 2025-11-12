@@ -1,19 +1,19 @@
-T1	SINTOMA 452 475	dolorosa a la palpación
-T2	SINTOMA 390 406	lesión era móvil
-T3	SINTOMA 293 368	nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45
-T4	SINTOMA 77 98	nódulo paramandibular
-T5	ENFERMEDAD 762 776	lesión nodular
-T6	ENFERMEDAD 569 589	patología mandibular
-T7	ENFERMEDAD 192 198	lesión
-T8	ENFERMEDAD 390 396	lesión
-T9	ENFERMEDAD 642 648	lesión
-T10	ENFERMEDAD 858 864	lesión
-T11	PROCEDIMIENTO 1260 1283	Inmunohistoquimicamente
-T12	PROCEDIMIENTO 1615 1622	cirugía
-T13	PROCEDIMIENTO 216 246	exodoncia de un molar inferior
+T1	ENFERMEDAD 762 776	lesión nodular
+T2	ENFERMEDAD 569 589	patología mandibular
+T3	ENFERMEDAD 192 198	lesión
+T4	ENFERMEDAD 390 396	lesión
+T5	ENFERMEDAD 642 648	lesión
+T6	ENFERMEDAD 858 864	lesión
+T7	PROCEDIMIENTO 216 246	exodoncia de un molar inferior
+T8	PROCEDIMIENTO 527 544	ortopantomografía
+T9	PROCEDIMIENTO 596 611	anestesia local
+T10	PROCEDIMIENTO 626 648	resección de la lesión
+T11	PROCEDIMIENTO 837 854	Microscópicamente
+T12	PROCEDIMIENTO 1260 1283	Inmunohistoquimicamente
+T13	PROCEDIMIENTO 466 475	palpación
 T14	PROCEDIMIENTO 255 266	exploración
-T15	PROCEDIMIENTO 466 475	palpación
-T16	PROCEDIMIENTO 527 544	ortopantomografía
-T17	PROCEDIMIENTO 596 611	anestesia local
-T18	PROCEDIMIENTO 626 648	resección de la lesión
-T19	PROCEDIMIENTO 837 854	Microscópicamente
+T15	PROCEDIMIENTO 1615 1622	cirugía
+T16	SINTOMA 293 368	nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45
+T17	SINTOMA 77 98	nódulo paramandibular
+T18	SINTOMA 390 406	lesión era móvil
+T19	SINTOMA 452 475	dolorosa a la palpación

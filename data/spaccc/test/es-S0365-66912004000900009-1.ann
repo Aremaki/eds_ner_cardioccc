@@ -1,30 +1,30 @@
-T1	SINTOMA 47 72	déficit de agudeza visual
-T2	SINTOMA 852 902	aumento de la resistencia a la proteína c activada
-T3	SINTOMA 739 777	cifras elevadas de protrombina tisular
-T4	SINTOMA 546 566	exudados algodonosos
-T5	SINTOMA 377 445	presión intraocular, biomicroscopía y motilidad ocular eran normales
-T6	SINTOMA 524 544	tortuosidad vascular
-T7	ENFERMEDAD 210 256	trombosis venosa profunda en la pierna derecha
-T8	ENFERMEDAD 276 297	hipertensión arterial
-T9	ENFERMEDAD 488 522	hemorragias en llama peripapilares
-T10	ENFERMEDAD 569 582	edema macular
-T11	ENFERMEDAD 650 684	trombosis venosa central edematosa
-T12	ENFERMEDAD 1287 1306	hipercoagulabilidad
-T13	ENFERMEDAD 826 837	trombofilia
-T14	ENFERMEDAD 325 362	antecedentes familiares trombofílicos
-T15	ENFERMEDAD 1624 1644	isquemias retinianas
-T16	PROCEDIMIENTO 1091 1105	electroforesis
-T17	PROCEDIMIENTO 1211 1220	hemograma
-T18	PROCEDIMIENTO 1222 1248	velocidad de sedimentación
-T19	PROCEDIMIENTO 1250 1268	bioquímica general
-T20	PROCEDIMIENTO 1483 1495	anticoagular
-T21	PROCEDIMIENTO 1586 1601	fotocoagulación
-T22	PROCEDIMIENTO 377 396	presión intraocular
-T23	PROCEDIMIENTO 398 412	biomicroscopía
-T24	PROCEDIMIENTO 415 431	motilidad ocular
-T25	PROCEDIMIENTO 453 473	oftalmoscopia del OD
-T26	PROCEDIMIENTO 590 616	angiografía fluoresceínica
-T27	PROCEDIMIENTO 692 721	estudio básico de coagulación
-T28	PROCEDIMIENTO 815 837	estudio de trombofilia
-T29	PROCEDIMIENTO 916 933	análisis genético
-T30	PROCEDIMIENTO 934 1057	se amplificaron mediante PCR fragmentos de ADN que incluían los nucleótidos 1691 del gen del factor V y 20210 del factor II
+T1	ENFERMEDAD 210 256	trombosis venosa profunda en la pierna derecha
+T2	ENFERMEDAD 276 297	hipertensión arterial
+T3	ENFERMEDAD 488 522	hemorragias en llama peripapilares
+T4	ENFERMEDAD 569 582	edema macular
+T5	ENFERMEDAD 650 684	trombosis venosa central edematosa
+T6	ENFERMEDAD 1287 1306	hipercoagulabilidad
+T7	ENFERMEDAD 826 837	trombofilia
+T8	ENFERMEDAD 325 362	antecedentes familiares trombofílicos
+T9	ENFERMEDAD 1624 1644	isquemias retinianas
+T10	PROCEDIMIENTO 398 412	biomicroscopía
+T11	PROCEDIMIENTO 453 473	oftalmoscopia del OD
+T12	PROCEDIMIENTO 590 616	angiografía fluoresceínica
+T13	PROCEDIMIENTO 692 721	estudio básico de coagulación
+T14	PROCEDIMIENTO 815 837	estudio de trombofilia
+T15	PROCEDIMIENTO 1586 1601	fotocoagulación
+T16	PROCEDIMIENTO 934 1057	se amplificaron mediante PCR fragmentos de ADN que incluían los nucleótidos 1691 del gen del factor V y 20210 del factor II
+T17	PROCEDIMIENTO 1250 1268	bioquímica general
+T18	PROCEDIMIENTO 1211 1220	hemograma
+T19	PROCEDIMIENTO 415 431	motilidad ocular
+T20	PROCEDIMIENTO 377 396	presión intraocular
+T21	PROCEDIMIENTO 1483 1495	anticoagular
+T22	PROCEDIMIENTO 916 933	análisis genético
+T23	PROCEDIMIENTO 1091 1105	electroforesis
+T24	PROCEDIMIENTO 1222 1248	velocidad de sedimentación
+T25	SINTOMA 47 72	déficit de agudeza visual
+T26	SINTOMA 377 445	presión intraocular, biomicroscopía y motilidad ocular eran normales
+T27	SINTOMA 524 544	tortuosidad vascular
+T28	SINTOMA 546 566	exudados algodonosos
+T29	SINTOMA 739 777	cifras elevadas de protrombina tisular
+T30	SINTOMA 852 902	aumento de la resistencia a la proteína c activada

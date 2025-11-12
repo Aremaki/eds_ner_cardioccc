@@ -1,61 +1,61 @@
-T1	SINTOMA 1086 1112	Abdomen blando, depresible
-T2	SINTOMA 959 988	Auscultación cardíaca rítmica
-T3	SINTOMA 797 835	buen estado de nutrición e hidratación
-T4	SINTOMA 1049 1084	conservación del murmullo vesicular
-T5	SINTOMA 78 102	dolores osteoarticulares
-T6	SINTOMA 2321 2355	engrosamiento de la bolsa escrotal
-T7	SINTOMA 1981 2017	Hemocultivos: positivo para Brucella
-T8	SINTOMA 894 923	ingurgitación de vena yugular
-T9	SINTOMA 1924 1947	Orina: sedimento normal
-T10	SINTOMA 1467 1506	pérdida del límite epidídimo-testicular
-T11	SINTOMA 929 957	pulsos carotídeos simétricos
-T12	SINTOMA 1258 1299	Pulsos periféricos presentes y simétricos
-T13	SINTOMA 1002 1007	roces
-T14	SINTOMA 1343 1396	teste derecho aumentado de tamaño, no adherido a piel
-T15	SINTOMA 1509 1534	transiluminación positiva
-T16	SINTOMA 750 760	consciente
-T17	SINTOMA 1250 1256	edemas
-T18	SINTOMA 783 791	eupneico
-T19	SINTOMA 1011 1021	extratonos
-T20	SINTOMA 147 153	fiebre
-T21	SINTOMA 762 771	orientado
-T22	SINTOMA 1182 1198	signos meníngeos
-T23	SINTOMA 994 1000	soplos
-T24	SINTOMA 773 781	sudoroso
-T25	SINTOMA 534 549	síndrome febril
-T26	SINTOMA 2401 2430	testículo aumentado de tamaño
-T27	SINTOMA 1118 1123	masas
-T28	SINTOMA 1127 1135	megalias
-T29	SINTOMA 1438 1461	doloroso a la palpación
-T30	ENFERMEDAD 486 496	brucelosis
-T31	ENFERMEDAD 638 655	orquiepididimitis
-T32	ENFERMEDAD 869 880	adenopatías
-T33	ENFERMEDAD 885 890	bocio
-T34	ENFERMEDAD 1239 1246	varices
-T35	ENFERMEDAD 2500 2513	microabscesos
-T36	ENFERMEDAD 2537 2576	orquiepididimitis secundaria a Brucella
-T37	PROCEDIMIENTO 1023 1044	Auscultación pulmonar
-T38	PROCEDIMIENTO 1143 1166	exploración neurológica
-T39	PROCEDIMIENTO 1307 1328	exploración urológica
-T40	PROCEDIMIENTO 1452 1461	palpación
-T41	PROCEDIMIENTO 1509 1525	transiluminación
-T42	PROCEDIMIENTO 1592 1601	Hemograma
-T43	PROCEDIMIENTO 1702 1713	Coagulación
-T44	PROCEDIMIENTO 1738 1748	Bioquímica
-T45	PROCEDIMIENTO 1924 1940	Orina: sedimento
-T46	PROCEDIMIENTO 1981 1993	Hemocultivos
-T47	PROCEDIMIENTO 2020 2056	Serologías específicas para Brucella
-T48	PROCEDIMIENTO 2131 2148	pruebas de imagen
-T49	PROCEDIMIENTO 2163 2171	Rx tórax
-T50	PROCEDIMIENTO 2173 2192	Ecografía abdominal
-T51	PROCEDIMIENTO 2194 2205	TAC craneal
-T52	PROCEDIMIENTO 2207 2235	Ecocardiograma transtorácico
-T53	PROCEDIMIENTO 2287 2307	Ecografía testicular
-T54	PROCEDIMIENTO 2614 2626	antitérmicos
-T55	PROCEDIMIENTO 2628 2645	antiinflamatorios
-T56	PROCEDIMIENTO 2647 2653	reposo
-T57	PROCEDIMIENTO 2656 2676	elevación testicular
-T58	PROCEDIMIENTO 2687 2710	tratamiento antibiótico
-T59	PROCEDIMIENTO 3001 3024	tratamiento antibiótico
-T60	PROCEDIMIENTO 668 686	exploración física
-T61	PROCEDIMIENTO 959 980	Auscultación cardíaca
+T1	ENFERMEDAD 486 496	brucelosis
+T2	ENFERMEDAD 638 655	orquiepididimitis
+T3	ENFERMEDAD 869 880	adenopatías
+T4	ENFERMEDAD 885 890	bocio
+T5	ENFERMEDAD 1239 1246	varices
+T6	ENFERMEDAD 2500 2513	microabscesos
+T7	ENFERMEDAD 2537 2576	orquiepididimitis secundaria a Brucella
+T8	PROCEDIMIENTO 959 980	Auscultación cardíaca
+T9	PROCEDIMIENTO 1023 1044	Auscultación pulmonar
+T10	PROCEDIMIENTO 1738 1748	Bioquímica
+T11	PROCEDIMIENTO 1702 1713	Coagulación
+T12	PROCEDIMIENTO 2207 2235	Ecocardiograma transtorácico
+T13	PROCEDIMIENTO 2173 2192	Ecografía abdominal
+T14	PROCEDIMIENTO 2287 2307	Ecografía testicular
+T15	PROCEDIMIENTO 1981 1993	Hemocultivos
+T16	PROCEDIMIENTO 1592 1601	Hemograma
+T17	PROCEDIMIENTO 2163 2171	Rx tórax
+T18	PROCEDIMIENTO 2020 2056	Serologías específicas para Brucella
+T19	PROCEDIMIENTO 2194 2205	TAC craneal
+T20	PROCEDIMIENTO 2628 2645	antiinflamatorios
+T21	PROCEDIMIENTO 2614 2626	antitérmicos
+T22	PROCEDIMIENTO 668 686	exploración física
+T23	PROCEDIMIENTO 1143 1166	exploración neurológica
+T24	PROCEDIMIENTO 2647 2653	reposo
+T25	PROCEDIMIENTO 1924 1940	Orina: sedimento
+T26	PROCEDIMIENTO 1509 1525	transiluminación
+T27	PROCEDIMIENTO 2687 2710	tratamiento antibiótico
+T28	PROCEDIMIENTO 3001 3024	tratamiento antibiótico
+T29	PROCEDIMIENTO 1307 1328	exploración urológica
+T30	PROCEDIMIENTO 2656 2676	elevación testicular
+T31	PROCEDIMIENTO 1452 1461	palpación
+T32	PROCEDIMIENTO 2131 2148	pruebas de imagen
+T33	SINTOMA 1086 1112	Abdomen blando, depresible
+T34	SINTOMA 750 760	consciente
+T35	SINTOMA 78 102	dolores osteoarticulares
+T36	SINTOMA 1250 1256	edemas
+T37	SINTOMA 783 791	eupneico
+T38	SINTOMA 1011 1021	extratonos
+T39	SINTOMA 147 153	fiebre
+T40	SINTOMA 894 923	ingurgitación de vena yugular
+T41	SINTOMA 762 771	orientado
+T42	SINTOMA 1182 1198	signos meníngeos
+T43	SINTOMA 994 1000	soplos
+T44	SINTOMA 773 781	sudoroso
+T45	SINTOMA 534 549	síndrome febril
+T46	SINTOMA 2401 2430	testículo aumentado de tamaño
+T47	SINTOMA 959 988	Auscultación cardíaca rítmica
+T48	SINTOMA 1258 1299	Pulsos periféricos presentes y simétricos
+T49	SINTOMA 797 835	buen estado de nutrición e hidratación
+T50	SINTOMA 929 957	pulsos carotídeos simétricos
+T51	SINTOMA 1049 1084	conservación del murmullo vesicular
+T52	SINTOMA 1343 1396	teste derecho aumentado de tamaño, no adherido a piel
+T53	SINTOMA 1467 1506	pérdida del límite epidídimo-testicular
+T54	SINTOMA 1509 1534	transiluminación positiva
+T55	SINTOMA 1924 1947	Orina: sedimento normal
+T56	SINTOMA 1981 2017	Hemocultivos: positivo para Brucella
+T57	SINTOMA 2321 2355	engrosamiento de la bolsa escrotal
+T58	SINTOMA 1118 1123	masas
+T59	SINTOMA 1127 1135	megalias
+T60	SINTOMA 1002 1007	roces
+T61	SINTOMA 1438 1461	doloroso a la palpación

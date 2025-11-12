@@ -1,21 +1,48 @@
-T1	SINTOMA 2092 2099	afebril
-T2	SINTOMA 1890 1912	deterioro hemodinámico
-T3	SINTOMA 3924 3943	diuresis conservada
-T4	SINTOMA 1918 1929	hipotensión
-T5	SINTOMA 4009 4039	alteraciones en la coagulación
-T6	SINTOMA 2243 2270	condensación parenquimatosa
-T7	SINTOMA 188 213	elevación del segmento ST
-T8	SINTOMA 3036 3073	hemocultivos que resultaron negativos
-T9	SINTOMA 584 635	presión telediastólica ventricular izquierda normal
-T10	SINTOMA 3828 3847	tinción de la orina
-T11	SINTOMA 3884 3921	valores normales de urea y creatinina
-T12	ENFERMEDAD 27 34	fumador
-T13	ENFERMEDAD 159 183	síndrome coronario agudo
-T14	ENFERMEDAD 255 273	angina postinfarto
-T15	ENFERMEDAD 215 222	SCACEST
-T16	ENFERMEDAD 2918 2943	vasoplejía postoperatoria
-T17	ENFERMEDAD 77 100	alergias medicamentosas
-T18	ENFERMEDAD 4043 4057	fallo hepático
-T19	ENFERMEDAD 3857 3870	fracaso renal
-T20	ENFERMEDAD 1918 1929	hipotensión
-T21	ENFERMEDAD 328 379	obstrucción del 90% de la arteria coronaria derecha
+T1	ENFERMEDAD 27 34	fumador
+T2	ENFERMEDAD 159 183	síndrome coronario agudo
+T3	ENFERMEDAD 255 273	angina postinfarto
+T4	ENFERMEDAD 215 222	SCACEST
+T5	ENFERMEDAD 2918 2943	vasoplejía postoperatoria
+T6	ENFERMEDAD 77 100	alergias medicamentosas
+T7	ENFERMEDAD 4043 4057	fallo hepático
+T8	ENFERMEDAD 3857 3870	fracaso renal
+T9	ENFERMEDAD 1918 1929	hipotensión
+T10	ENFERMEDAD 328 379	obstrucción del 90% de la arteria coronaria derecha
+T11	PROCEDIMIENTO 2407 2419	cristaloides
+T12	PROCEDIMIENTO 3193 3260	parámetros hemodinámicos medidos con el catéter de arteria pulmonar
+T13	PROCEDIMIENTO 2422 2430	coloides
+T14	PROCEDIMIENTO 3296 3325	infusión del azul de metileno
+T15	PROCEDIMIENTO 1952 1978	perfusión de noradrenalina
+T16	PROCEDIMIENTO 292 312	estudio hemodinámico
+T17	PROCEDIMIENTO 2142 2164	drenajes mediastínicos
+T18	PROCEDIMIENTO 2710 2734	control ecocardiográfico
+T19	PROCEDIMIENTO 2194 2220	radiología simple de tórax
+T20	PROCEDIMIENTO 3627 3646	gasometría arterial
+T21	PROCEDIMIENTO 2349 2367	electrocardiograma
+T22	PROCEDIMIENTO 520 531	cateterismo
+T23	PROCEDIMIENTO 835 951	revascularización miocárdica programada mediante injertos de vena safena a CD y a diagonal y de arteria mamaria a DA
+T24	PROCEDIMIENTO 1108 1117	anestesia
+T25	PROCEDIMIENTO 1277 1330	derivación cardiopulmonar habitual con flujo pulsátil
+T26	PROCEDIMIENTO 3036 3048	hemocultivos
+T27	PROCEDIMIENTO 1074 1084	hipotermia
+T28	PROCEDIMIENTO 2657 2665	sedación
+T29	PROCEDIMIENTO 4276 4288	fue extubado
+T30	PROCEDIMIENTO 1606 1629	perfusión de dobutamina
+T31	PROCEDIMIENTO 2118 2129	ventilación
+T32	PROCEDIMIENTO 2501 2527	perfusión de noradrenalina
+T33	PROCEDIMIENTO 2599 2622	perfusión de dobutamina
+T34	PROCEDIMIENTO 2369 2372	ECG
+T35	PROCEDIMIENTO 1001 1004	CEC
+T36	PROCEDIMIENTO 1395 1410	salida de bomba
+T37	PROCEDIMIENTO 692 699	cirugía
+T38	SINTOMA 1890 1912	deterioro hemodinámico
+T39	SINTOMA 3828 3847	tinción de la orina
+T40	SINTOMA 188 213	elevación del segmento ST
+T41	SINTOMA 2092 2099	afebril
+T42	SINTOMA 4009 4039	alteraciones en la coagulación
+T43	SINTOMA 584 635	presión telediastólica ventricular izquierda normal
+T44	SINTOMA 2243 2270	condensación parenquimatosa
+T45	SINTOMA 3036 3073	hemocultivos que resultaron negativos
+T46	SINTOMA 3884 3921	valores normales de urea y creatinina
+T47	SINTOMA 3924 3943	diuresis conservada
+T48	SINTOMA 1918 1929	hipotensión

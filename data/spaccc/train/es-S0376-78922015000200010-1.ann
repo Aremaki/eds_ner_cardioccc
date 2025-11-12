@@ -1,25 +1,33 @@
-T1	SINTOMA 1139 1160	actividad paroxística
-T2	SINTOMA 1817 1823	alerta
-T3	SINTOMA 1828 1868	desarrollo sicomotor acorde para su edad
-T4	SINTOMA 392 421	dificultad respiratoria nasal
-T5	SINTOMA 1037 1095	electroencefalograma estuvo dentro de los límites normales
-T6	SINTOMA 1898 1958	estudio cromosómico fue masculino 46 XY con cariotipo normal
-T7	SINTOMA 772 848	imagen hipodensa en la línea interhemisférica a nivel de las astas frontales
-T8	SINTOMA 480 526	masa intraoral pediculada en la encía superior
-T9	SINTOMA 555 566	Normocéfalo
-T10	ENFERMEDAD 1234 1246	pólipo nasal
-T11	ENFERMEDAD 732 758	agenesia de cuerpo calloso
-T12	ENFERMEDAD 444 469	narina derecha por pólipo
-T13	ENFERMEDAD 1321 1337	pólipo intraoral
-T14	ENFERMEDAD 139 148	epilepsia
-T15	ENFERMEDAD 182 189	autismo
-T16	ENFERMEDAD 1776 1803	agenesia del cuerpo calloso
-T17	ENFERMEDAD 871 877	lipoma
-T18	ENFERMEDAD 1399 1431	pólipos escamosos queratinizados
-T19	ENFERMEDAD 572 586	hipertelorismo
-T20	ENFERMEDAD 924 972	espina bífida oculta a nivel de columna cervical
-T21	ENFERMEDAD 588 595	epifora
-T22	ENFERMEDAD 1875 1893	crisis convulsivas
-T23	ENFERMEDAD 975 1031	fisura central a nivel de la arcada del maxilar superior
-T24	ENFERMEDAD 1175 1181	lesión
-T25	ENFERMEDAD 426 469	obstrucción de la narina derecha por pólipo
+T1	ENFERMEDAD 1234 1246	pólipo nasal
+T2	ENFERMEDAD 732 758	agenesia de cuerpo calloso
+T3	ENFERMEDAD 444 469	narina derecha por pólipo
+T4	ENFERMEDAD 1321 1337	pólipo intraoral
+T5	ENFERMEDAD 139 148	epilepsia
+T6	ENFERMEDAD 182 189	autismo
+T7	ENFERMEDAD 1776 1803	agenesia del cuerpo calloso
+T8	ENFERMEDAD 871 877	lipoma
+T9	ENFERMEDAD 1399 1431	pólipos escamosos queratinizados
+T10	ENFERMEDAD 572 586	hipertelorismo
+T11	ENFERMEDAD 924 972	espina bífida oculta a nivel de columna cervical
+T12	ENFERMEDAD 588 595	epifora
+T13	ENFERMEDAD 1875 1893	crisis convulsivas
+T14	ENFERMEDAD 975 1031	fisura central a nivel de la arcada del maxilar superior
+T15	ENFERMEDAD 1175 1181	lesión
+T16	ENFERMEDAD 426 469	obstrucción de la narina derecha por pólipo
+T17	PROCEDIMIENTO 1037 1057	electroencefalograma
+T18	PROCEDIMIENTO 662 708	tomografía axial computarizada (TAC) de cráneo
+T19	PROCEDIMIENTO 662 724	tomografía axial computarizada (TAC) de cráneo y macizo facial
+T20	PROCEDIMIENTO 1195 1337	resección quirúrgica en huso tanto del pólipo nasal único (de forma irregular, lobulado que midió 0,9 x 0,7x 0,5 cm) como del pólipo intraoral
+T21	PROCEDIMIENTO 1362 1387	estudio anatomopatológico
+T22	PROCEDIMIENTO 247 254	cesárea
+T23	PROCEDIMIENTO 1898 1917	estudio cromosómico
+T24	PROCEDIMIENTO 694 697	TAC
+T25	SINTOMA 392 421	dificultad respiratoria nasal
+T26	SINTOMA 772 848	imagen hipodensa en la línea interhemisférica a nivel de las astas frontales
+T27	SINTOMA 480 526	masa intraoral pediculada en la encía superior
+T28	SINTOMA 1898 1958	estudio cromosómico fue masculino 46 XY con cariotipo normal
+T29	SINTOMA 1037 1095	electroencefalograma estuvo dentro de los límites normales
+T30	SINTOMA 1139 1160	actividad paroxística
+T31	SINTOMA 555 566	Normocéfalo
+T32	SINTOMA 1817 1823	alerta
+T33	SINTOMA 1828 1868	desarrollo sicomotor acorde para su edad

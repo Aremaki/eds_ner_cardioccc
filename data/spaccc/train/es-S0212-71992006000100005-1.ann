@@ -1,16 +1,62 @@
-T1	SINTOMA 2360 2416	aislamiento de Trichophyton mentagrophytes en el cultivo
-T2	SINTOMA 1128 1159	alteraciones del ritmo cardíaco
-T3	SINTOMA 2471 2498	Alternaria sp en el cultivo
-T4	SINTOMA 1703 1732	cifras disminuidas de 25-OH-D
-T5	SINTOMA 154 164	colestasis
-T6	SINTOMA 951 964	cuadro febril
-T7	SINTOMA 1206 1238	debilidad de miembros inferiores
-T8	SINTOMA 1114 1121	diarrea
-T9	SINTOMA 745 752	diarrea
-T10	SINTOMA 421 429	diarreas
-T11	SINTOMA 1094 1109	dolor abdominal
-T12	SINTOMA 405 418	Epigastralgia
-T13	SINTOMA 763 769	fiebre
-T14	SINTOMA 1959 2015	hemocultivo, urocultivo, y coprocultivo fueron negativos
-T15	SINTOMA 2006 2055	negativos, al igual que la serología de VIH y CMV
-T16	SINTOMA 191 197	T3N1M0
+T1	ENFERMEDAD 18 25	fumador
+T2	ENFERMEDAD 2084 2107	lesiones dermatológicas
+T3	ENFERMEDAD 49 79	EPOC (tipo bronquitis crónica)
+T4	ENFERMEDAD 799 878	lesiones cutáneas en miembros inferiores descritas como pustulosas y ampollosas
+T5	ENFERMEDAD 81 109	Hernias discales L4-L5-S1-S2
+T6	ENFERMEDAD 124 139	litiasis biliar
+T7	ENFERMEDAD 1576 1597	lesiones metástásicas
+T8	ENFERMEDAD 166 189	Adenocarcinoma gástrico
+T9	ENFERMEDAD 1602 1622	infiltración tumoral
+T10	ENFERMEDAD 892 926	consolidación neumónica en la base
+T11	ENFERMEDAD 2283 2297	dermatofitosis
+T12	ENFERMEDAD 1674 1686	osteomalacia
+T13	ENFERMEDAD 971 993	condensación neumónica
+T14	ENFERMEDAD 2337 2351	dermatofitosis
+T15	ENFERMEDAD 1739 1751	osteomalacia
+T16	ENFERMEDAD 1778 1815	malabsorción intestinal de vitamina D
+T17	ENFERMEDAD 1821 1846	insuficiencia pancreática
+T18	ENFERMEDAD 451 499	anemia megaloblástica secundarias a malabsorción
+T19	ENFERMEDAD 1245 1371	lesiones cutáneas que se extendían por piernas, brazos, manos, y espalda predominantemente eritematosas, algunas con vesículas
+T20	ENFERMEDAD 558 576	crisis epilépticas
+T21	ENFERMEDAD 639 655	recidiva tumoral
+T22	ENFERMEDAD 2259 2277	enfermedad maligna
+T23	ENFERMEDAD 2527 2533	lesión
+T24	ENFERMEDAD 154 164	colestasis
+T25	PROCEDIMIENTO 1471 1501	TAC de cráneo, tórax y abdomen
+T26	PROCEDIMIENTO 1504 1520	gammagrafía ósea
+T27	PROCEDIMIENTO 1528 1561	aspirado y biopsia de médula ósea
+T28	PROCEDIMIENTO 2181 2188	biopsia
+T29	PROCEDIMIENTO 1627 1651	RNM de columna vertebral
+T30	PROCEDIMIENTO 239 257	gastrectomía total
+T31	PROCEDIMIENTO 260 273	esplenectomía
+T32	PROCEDIMIENTO 276 298	pancreatectomía distal
+T33	PROCEDIMIENTO 301 358	anastomosis esófago-yeyunal y yeyuno-yeyunal en Y de Roux
+T34	PROCEDIMIENTO 364 377	quimioterapia
+T35	PROCEDIMIENTO 381 393	radioterapia
+T36	PROCEDIMIENTO 1852 1887	tratamiento con anticonvulsionantes
+T37	PROCEDIMIENTO 1959 1970	hemocultivo
+T38	PROCEDIMIENTO 1972 1982	urocultivo
+T39	PROCEDIMIENTO 1986 1998	coprocultivo
+T40	PROCEDIMIENTO 944 946	Rx
+T41	PROCEDIMIENTO 2141 2160	anatomía patológica
+T42	PROCEDIMIENTO 2302 2324	estudio microbiológico
+T43	PROCEDIMIENTO 81 122	Hernias discales L4-L5-S1-S2 intervenidas
+T44	PROCEDIMIENTO 2360 2371	aislamiento
+T45	PROCEDIMIENTO 2163 2176	microbiología
+T46	PROCEDIMIENTO 1440 1458	técnicas de imagen
+T47	SINTOMA 745 752	diarrea
+T48	SINTOMA 763 769	fiebre
+T49	SINTOMA 154 164	colestasis
+T50	SINTOMA 191 197	T3N1M0
+T51	SINTOMA 951 964	cuadro febril
+T52	SINTOMA 1094 1109	dolor abdominal
+T53	SINTOMA 1114 1121	diarrea
+T54	SINTOMA 405 418	Epigastralgia
+T55	SINTOMA 1128 1159	alteraciones del ritmo cardíaco
+T56	SINTOMA 1206 1238	debilidad de miembros inferiores
+T57	SINTOMA 1703 1732	cifras disminuidas de 25-OH-D
+T58	SINTOMA 1959 2015	hemocultivo, urocultivo, y coprocultivo fueron negativos
+T59	SINTOMA 421 429	diarreas
+T60	SINTOMA 2006 2055	negativos, al igual que la serología de VIH y CMV
+T61	SINTOMA 2360 2416	aislamiento de Trichophyton mentagrophytes en el cultivo
+T62	SINTOMA 2471 2498	Alternaria sp en el cultivo

@@ -1,48 +1,48 @@
-T1	SINTOMA 1245 1312	análisis de sangre con todos los parámetros dentro de la normalidad
-T2	SINTOMA 1323 1359	autoinmunidad y serologías negativas
-T3	SINTOMA 522 542	expectoración blanca
-T4	SINTOMA 1424 1440	Mantoux negativo
-T5	SINTOMA 1123 1156	patrón intersticial lineal difuso
-T6	SINTOMA 681 706	perdido unos 5 Kg de peso
-T7	SINTOMA 1361 1422	pruebas de función respiratoria (PFR) dentro de la normalidad
-T8	SINTOMA 637 673	sensación disneica con los esfuerzos
-T9	SINTOMA 562 573	sibilancias
-T10	SINTOMA 444 483	tos de predominio vespertino y nocturno
-T11	SINTOMA 948 956	eupneico
-T12	SINTOMA 716 723	astenia
-T13	SINTOMA 2636 2648	asintomático
-T14	SINTOMA 1042 1080	auscultación cardiopulmonar era normal
-T15	SINTOMA 2727 2746	patrón intersticial
-T16	SINTOMA 927 946	buen estado general
-T17	ENFERMEDAD 2555 2571	hábito tabáquico
-T18	ENFERMEDAD 1011 1022	adenopatías
-T19	ENFERMEDAD 1026 1037	acropaquias
-T20	ENFERMEDAD 2448 2475	histiocitosis de Langerhans
-T21	ENFERMEDAD 161 178	alérgico al polen
-T22	ENFERMEDAD 1539 1567	lesiones cavitadas-quísticas
-T23	ENFERMEDAD 878 890	tuberculosos
-T24	ENFERMEDAD 132 155	alergias medicamentosas
-T25	PROCEDIMIENTO 101 121	radiológica de tórax
-T26	PROCEDIMIENTO 1042 1069	auscultación cardiopulmonar
-T27	PROCEDIMIENTO 1085 1110	radiografía (Rx) de tórax
-T28	PROCEDIMIENTO 1245 1263	análisis de sangre
-T29	PROCEDIMIENTO 1323 1336	autoinmunidad
-T30	PROCEDIMIENTO 1339 1349	serologías
-T31	PROCEDIMIENTO 1361 1392	pruebas de función respiratoria
-T32	PROCEDIMIENTO 1394 1397	PFR
-T33	PROCEDIMIENTO 1424 1431	Mantoux
-T34	PROCEDIMIENTO 1442 1480	tomografía computarizada (TC) de tórax
-T35	PROCEDIMIENTO 1468 1470	TC
-T36	PROCEDIMIENTO 1734 1746	broncoscopia
-T37	PROCEDIMIENTO 1818 1897	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico
-T38	PROCEDIMIENTO 1818 1911	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia
-T39	PROCEDIMIENTO 1818 1945	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia y de subpoblaciones linfocitarias
-T40	PROCEDIMIENTO 1975 2063	broncoaspirados de secreciones (BAS) para hongos, Pneumocystis, cultivo y bacilo de Koch
-T41	PROCEDIMIENTO 2007 2010	BAS
-T42	PROCEDIMIENTO 2115 2151	anatomopatológico del broncoaspirado
-T43	PROCEDIMIENTO 2240 2258	inmunohistoquímica
-T44	PROCEDIMIENTO 2335 2400	biopsia del lóbulo pulmonar superior derecho mediante toracotomía
-T45	PROCEDIMIENTO 2405 2424	anatomía patológica
-T46	PROCEDIMIENTO 2690 2701	Rx de tórax
-T47	PROCEDIMIENTO 602 619	broncodilatadores
-T48	PROCEDIMIENTO 897 915	exploración física
+T1	ENFERMEDAD 2555 2571	hábito tabáquico
+T2	ENFERMEDAD 1011 1022	adenopatías
+T3	ENFERMEDAD 1026 1037	acropaquias
+T4	ENFERMEDAD 2448 2475	histiocitosis de Langerhans
+T5	ENFERMEDAD 161 178	alérgico al polen
+T6	ENFERMEDAD 1539 1567	lesiones cavitadas-quísticas
+T7	ENFERMEDAD 878 890	tuberculosos
+T8	ENFERMEDAD 132 155	alergias medicamentosas
+T9	PROCEDIMIENTO 1085 1110	radiografía (Rx) de tórax
+T10	PROCEDIMIENTO 897 915	exploración física
+T11	PROCEDIMIENTO 1734 1746	broncoscopia
+T12	PROCEDIMIENTO 2335 2400	biopsia del lóbulo pulmonar superior derecho mediante toracotomía
+T13	PROCEDIMIENTO 101 121	radiológica de tórax
+T14	PROCEDIMIENTO 1042 1069	auscultación cardiopulmonar
+T15	PROCEDIMIENTO 1245 1263	análisis de sangre
+T16	PROCEDIMIENTO 2690 2701	Rx de tórax
+T17	PROCEDIMIENTO 1818 1897	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico
+T18	PROCEDIMIENTO 1818 1911	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia
+T19	PROCEDIMIENTO 1975 2063	broncoaspirados de secreciones (BAS) para hongos, Pneumocystis, cultivo y bacilo de Koch
+T20	PROCEDIMIENTO 1361 1392	pruebas de función respiratoria
+T21	PROCEDIMIENTO 1424 1431	Mantoux
+T22	PROCEDIMIENTO 1442 1480	tomografía computarizada (TC) de tórax
+T23	PROCEDIMIENTO 1468 1470	TC
+T24	PROCEDIMIENTO 2240 2258	inmunohistoquímica
+T25	PROCEDIMIENTO 602 619	broncodilatadores
+T26	PROCEDIMIENTO 2405 2424	anatomía patológica
+T27	PROCEDIMIENTO 1339 1349	serologías
+T28	PROCEDIMIENTO 1818 1945	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia y de subpoblaciones linfocitarias
+T29	PROCEDIMIENTO 1394 1397	PFR
+T30	PROCEDIMIENTO 2115 2151	anatomopatológico del broncoaspirado
+T31	PROCEDIMIENTO 1323 1336	autoinmunidad
+T32	PROCEDIMIENTO 2007 2010	BAS
+T33	SINTOMA 1123 1156	patrón intersticial lineal difuso
+T34	SINTOMA 948 956	eupneico
+T35	SINTOMA 444 483	tos de predominio vespertino y nocturno
+T36	SINTOMA 522 542	expectoración blanca
+T37	SINTOMA 562 573	sibilancias
+T38	SINTOMA 637 673	sensación disneica con los esfuerzos
+T39	SINTOMA 681 706	perdido unos 5 Kg de peso
+T40	SINTOMA 716 723	astenia
+T41	SINTOMA 1424 1440	Mantoux negativo
+T42	SINTOMA 2636 2648	asintomático
+T43	SINTOMA 1042 1080	auscultación cardiopulmonar era normal
+T44	SINTOMA 2727 2746	patrón intersticial
+T45	SINTOMA 927 946	buen estado general
+T46	SINTOMA 1245 1312	análisis de sangre con todos los parámetros dentro de la normalidad
+T47	SINTOMA 1323 1359	autoinmunidad y serologías negativas
+T48	SINTOMA 1361 1422	pruebas de función respiratoria (PFR) dentro de la normalidad

@@ -1,13 +1,23 @@
-T1	SINTOMA 130 139	hematuria
-T2	SINTOMA 1221 1240	libre de enfermedad
-T3	SINTOMA 1214 1218	vivo
-T4	SINTOMA 262 351	analíticas sanguíneas todos los parámetros se encontraban en los límites de la normalidad
-T5	SINTOMA 582 607	citologías eran negativas
-T6	SINTOMA 403 440	defecto de replección en pelvis renal
-T7	SINTOMA 539 576	masa en pelvis que amputa cáliz medio
-T8	SINTOMA 1149 1154	Ta G3
-T9	ENFERMEDAD 52 67	hernia de hiato
-T10	ENFERMEDAD 37 49	hipertensión
-T11	ENFERMEDAD 1083 1116	carcinoma urotelial de alto grado
-T12	ENFERMEDAD 925 931	lesión
-T13	ENFERMEDAD 1059 1064	tumor
+T1	ENFERMEDAD 52 67	hernia de hiato
+T2	ENFERMEDAD 37 49	hipertensión
+T3	ENFERMEDAD 1083 1116	carcinoma urotelial de alto grado
+T4	ENFERMEDAD 925 931	lesión
+T5	ENFERMEDAD 1059 1064	tumor
+T6	PROCEDIMIENTO 188 206	exploración física
+T7	PROCEDIMIENTO 582 592	citologías
+T8	PROCEDIMIENTO 620 646	nefroureterectomía derecha
+T9	PROCEDIMIENTO 367 388	urografía intravenosa
+T10	PROCEDIMIENTO 262 283	analíticas sanguíneas
+T11	PROCEDIMIENTO 681 714	desinserción ureteral endoscópica
+T12	PROCEDIMIENTO 488 522	tomografía computerizada abdominal
+T13	PROCEDIMIENTO 804 865	nefroureterectomía a través de una incisión subcostal derecha
+T14	PROCEDIMIENTO 1038 1055	Microscópicamente
+T15	PROCEDIMIENTO 873 897	descripción macroscópica
+T16	SINTOMA 582 607	citologías eran negativas
+T17	SINTOMA 262 351	analíticas sanguíneas todos los parámetros se encontraban en los límites de la normalidad
+T18	SINTOMA 403 440	defecto de replección en pelvis renal
+T19	SINTOMA 130 139	hematuria
+T20	SINTOMA 539 576	masa en pelvis que amputa cáliz medio
+T21	SINTOMA 1214 1218	vivo
+T22	SINTOMA 1149 1154	Ta G3
+T23	SINTOMA 1221 1240	libre de enfermedad

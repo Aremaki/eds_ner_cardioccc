@@ -1,45 +1,75 @@
-T1	SINTOMA 3722 3863	anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos
-T2	SINTOMA 1253 1271	convulsión afebril
-T3	SINTOMA 113 134	desconexión del medio
-T4	SINTOMA 4300 4310	EEG normal
-T5	SINTOMA 776 793	estado poscrítico
-T6	SINTOMA 1671 1688	estado poscrítico
-T7	SINTOMA 1846 1882	hiperreflexia de miembros inferiores
-T8	SINTOMA 181 191	hipertonía
-T9	SINTOMA 3189 3241	influenza A en el exudado nasal, resultando positivo
-T10	SINTOMA 3640 3687	LCR bandas oligoclonales que resultan negativas
-T11	SINTOMA 2140 2173	lentificación global la actividad
-T12	SINTOMA 205 238	movimientos de la comisura labial
-T13	SINTOMA 2923 2986	resonancia magnética (RM) cerebral urgente con resultado normal
-T14	SINTOMA 3591 3622	RM cerebral que persiste normal
-T15	SINTOMA 3483 3577	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos
-T16	SINTOMA 2230 2332	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas
-T17	SINTOMA 1888 1914	signos meníngeos negativos
-T18	SINTOMA 3065 3073	mialgias
-T19	SINTOMA 3076 3082	fiebre
-T20	SINTOMA 2652 2661	agitación
-T21	SINTOMA 2666 2677	somnolencia
-T22	SINTOMA 193 202	sialorrea
-T23	SINTOMA 357 365	mialgias
-T24	SINTOMA 367 374	cefalea
-T25	SINTOMA 377 383	fiebre
-T26	SINTOMA 416 423	afebril
-T27	SINTOMA 3134 3153	clínica neurológica
-T28	SINTOMA 4282 4294	asintomática
-T29	SINTOMA 3016 3024	sangrado
-T30	SINTOMA 3936 3948	convulsiones
-T31	SINTOMA 1373 1383	convulsión
-T32	SINTOMA 3443 3462	episodio convulsivo
-T33	SINTOMA 3986 4007	episodios convulsivos
-T34	ENFERMEDAD 1253 1271	convulsión afebril
-T35	ENFERMEDAD 80 108	crisis compleja generalizada
-T36	ENFERMEDAD 2702 2737	episodios convulsivos generalizados
-T37	ENFERMEDAD 1469 1488	parada respiratoria
-T38	ENFERMEDAD 683 700	trastorno bipolar
-T39	ENFERMEDAD 3004 3024	lesiones de sangrado
-T40	ENFERMEDAD 2200 2218	meningoencefalitis
-T41	ENFERMEDAD 2414 2418	lúes
-T42	ENFERMEDAD 2488 2499	parotiditis
-T43	ENFERMEDAD 2405 2412	rubeola
-T44	ENFERMEDAD 2513 2522	sarampión
-T45	ENFERMEDAD 2447 2455	varicela
+T1	ENFERMEDAD 1253 1271	convulsión afebril
+T2	ENFERMEDAD 80 108	crisis compleja generalizada
+T3	ENFERMEDAD 2702 2737	episodios convulsivos generalizados
+T4	ENFERMEDAD 1469 1488	parada respiratoria
+T5	ENFERMEDAD 683 700	trastorno bipolar
+T6	ENFERMEDAD 3004 3024	lesiones de sangrado
+T7	ENFERMEDAD 2200 2218	meningoencefalitis
+T8	ENFERMEDAD 2414 2418	lúes
+T9	ENFERMEDAD 2488 2499	parotiditis
+T10	ENFERMEDAD 2405 2412	rubeola
+T11	ENFERMEDAD 2513 2522	sarampión
+T12	ENFERMEDAD 2447 2455	varicela
+T13	PROCEDIMIENTO 1120 1129	Hemograma
+T14	PROCEDIMIENTO 509 514	parto
+T15	PROCEDIMIENTO 4244 4267	medicación anticomicial
+T16	PROCEDIMIENTO 4045 4048	EEG
+T17	PROCEDIMIENTO 3176 3220	antígenos de influenza A en el exudado nasal
+T18	PROCEDIMIENTO 4300 4303	EEG
+T19	PROCEDIMIENTO 1798 1821	exploración neurológica
+T20	PROCEDIMIENTO 1501 1527	ventilación con pieza en T
+T21	PROCEDIMIENTO 1927 1964	tomografía computarizada (TC) craneal
+T22	PROCEDIMIENTO 2891 2900	serología
+T23	PROCEDIMIENTO 1953 1955	TC
+T24	PROCEDIMIENTO 2923 2957	resonancia magnética (RM) cerebral
+T25	PROCEDIMIENTO 1974 1988	punción lumbar
+T26	PROCEDIMIENTO 1990 2006	tóxicos en orina
+T27	PROCEDIMIENTO 2945 2947	RM
+T28	PROCEDIMIENTO 2009 2016	litemia
+T29	PROCEDIMIENTO 3483 3567	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A
+T30	PROCEDIMIENTO 2083 2103	electroencefalograma
+T31	PROCEDIMIENTO 898 917	analítica sanguínea
+T32	PROCEDIMIENTO 2105 2108	EEG
+T33	PROCEDIMIENTO 953 962	hemograma
+T34	PROCEDIMIENTO 3591 3602	RM cerebral
+T35	PROCEDIMIENTO 3640 3664	LCR bandas oligoclonales
+T36	PROCEDIMIENTO 2230 2304	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus
+T37	PROCEDIMIENTO 2354 2556	serologías para múltiples agentes como toxoplasma, rubeola, lúes, herpes simple 1 y 2, virus varicela-zóster, Mycoplasma, adenovirus, parotiditis, parvovirus, sarampión, Coxsackie, virus ECHO y Borrelia
+T38	PROCEDIMIENTO 3693 3717	estudio de autoinmunidad
+T39	PROCEDIMIENTO 966 976	Bioquímica
+T40	PROCEDIMIENTO 934 944	bioquímica
+T41	PROCEDIMIENTO 833 881	exploración, tanto neurológica como por sistemas
+T42	SINTOMA 3065 3073	mialgias
+T43	SINTOMA 3076 3082	fiebre
+T44	SINTOMA 2652 2661	agitación
+T45	SINTOMA 2666 2677	somnolencia
+T46	SINTOMA 113 134	desconexión del medio
+T47	SINTOMA 181 191	hipertonía
+T48	SINTOMA 193 202	sialorrea
+T49	SINTOMA 205 238	movimientos de la comisura labial
+T50	SINTOMA 1846 1882	hiperreflexia de miembros inferiores
+T51	SINTOMA 1888 1914	signos meníngeos negativos
+T52	SINTOMA 357 365	mialgias
+T53	SINTOMA 367 374	cefalea
+T54	SINTOMA 377 383	fiebre
+T55	SINTOMA 416 423	afebril
+T56	SINTOMA 2140 2173	lentificación global la actividad
+T57	SINTOMA 3134 3153	clínica neurológica
+T58	SINTOMA 2230 2332	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas
+T59	SINTOMA 2354 2575	serologías para múltiples agentes como toxoplasma, rubeola, lúes, herpes simple 1 y 2, virus varicela-zóster, Mycoplasma, adenovirus, parotiditis, parvovirus, sarampión, Coxsackie, virus ECHO y Borrelia, también negativos
+T60	SINTOMA 2923 2986	resonancia magnética (RM) cerebral urgente con resultado normal
+T61	SINTOMA 3189 3241	influenza A en el exudado nasal, resultando positivo
+T62	SINTOMA 4300 4310	EEG normal
+T63	SINTOMA 4282 4294	asintomática
+T64	SINTOMA 776 793	estado poscrítico
+T65	SINTOMA 1671 1688	estado poscrítico
+T66	SINTOMA 3483 3577	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos
+T67	SINTOMA 3591 3622	RM cerebral que persiste normal
+T68	SINTOMA 3640 3687	LCR bandas oligoclonales que resultan negativas
+T69	SINTOMA 3016 3024	sangrado
+T70	SINTOMA 3722 3863	anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos
+T71	SINTOMA 3936 3948	convulsiones
+T72	SINTOMA 1253 1271	convulsión afebril
+T73	SINTOMA 1373 1383	convulsión
+T74	SINTOMA 3443 3462	episodio convulsivo
+T75	SINTOMA 3986 4007	episodios convulsivos

@@ -1,18 +1,48 @@
-T1	SINTOMA 198 219	alteraciones del habl
-T2	SINTOMA 1284 1358	anticuerpos anti-Yo que fueron positivos a títulos altos en suero y en LCR
-T3	SINTOMA 734 760	ataxia truncal invalidante
-T4	SINTOMA 166 195	diplopía binocular horizontal
-T5	SINTOMA 796 832	dismetria en las cuatro extremidades
-T6	SINTOMA 838 889	funciones corticales superiores estaban conservadas
-T7	SINTOMA 387 405	ganglios negativos
-T8	SINTOMA 602 617	habla escandida
-T9	SINTOMA 934 984	hemograma bioquímica general y hemostasia normales
-T10	SINTOMA 765 793	imposibilidad para la marcha
-T11	SINTOMA 138 164	inestabilidad de la marcha
-T12	SINTOMA 990 1109	marcadores tumorales habituales (CA 125, CA 15-3, CA19-9, alfafetoproteína y antígeno carcinoembrionario) eran normales
-T13	SINTOMA 119 126	nauseas
-T14	SINTOMA 619 627	nistagmo
-T15	SINTOMA 699 724	paresia de IV par craneal
-T16	SINTOMA 1152 1244	tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales que fueron normal
-T17	SINTOMA 97 114	vértigo rotatorio
-T18	SINTOMA 129 136	vómitos
+T1	ENFERMEDAD 166 195	diplopía binocular horizontal
+T2	ENFERMEDAD 266 292	alergia a contraste iodado
+T3	ENFERMEDAD 295 331	carcinoma de mama ductal infiltrante
+T4	ENFERMEDAD 619 697	nistagmo con componente rápido rotatorio en todas las direcciones de la mirada
+T5	ENFERMEDAD 699 732	paresia de IV par craneal derecho
+T6	ENFERMEDAD 734 748	ataxia truncal
+T7	ENFERMEDAD 1682 1753	lesiones nodulares de 15 mm localizadas detrás de la cabeza pancreática
+T8	ENFERMEDAD 1961 2006	metástasis de adenocarcinoma mal diferenciado
+T9	ENFERMEDAD 2039 2070	metástasis de carcinoma de mama
+T10	ENFERMEDAD 1396 1405	neoplasia
+T11	ENFERMEDAD 1606 1623	patología tumoral
+T12	ENFERMEDAD 1770 1815	adenopatías mesentéricas de etiología maligna
+T13	ENFERMEDAD 1258 1261	DCP
+T14	PROCEDIMIENTO 456 479	radioterapia de la mama
+T15	PROCEDIMIENTO 561 579	exploración física
+T16	PROCEDIMIENTO 934 975	hemograma bioquímica general y hemostasia
+T17	PROCEDIMIENTO 990 1010	marcadores tumorales
+T18	PROCEDIMIENTO 1152 1226	tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales
+T19	PROCEDIMIENTO 1528 1546	TC toracoabdominal
+T20	PROCEDIMIENTO 1548 1558	mamografía
+T21	PROCEDIMIENTO 1560 1570	RM de mama
+T22	PROCEDIMIENTO 1573 1589	gammagrafía ósea
+T23	PROCEDIMIENTO 1628 1664	tomografía con emisión de positrones
+T24	PROCEDIMIENTO 1666 1669	PET
+T25	PROCEDIMIENTO 1884 1895	laparotomía
+T26	PROCEDIMIENTO 1898 1905	biopsia
+T27	PROCEDIMIENTO 1355 1358	LCR
+T28	PROCEDIMIENTO 1910 1935	estudio anatomopatológico
+T29	PROCEDIMIENTO 1136 1147	neuroimagen
+T30	PROCEDIMIENTO 431 453	tratamiento quirúrgico
+T31	SINTOMA 119 126	nauseas
+T32	SINTOMA 129 136	vómitos
+T33	SINTOMA 138 164	inestabilidad de la marcha
+T34	SINTOMA 198 219	alteraciones del habl
+T35	SINTOMA 602 617	habla escandida
+T36	SINTOMA 796 832	dismetria en las cuatro extremidades
+T37	SINTOMA 97 114	vértigo rotatorio
+T38	SINTOMA 387 405	ganglios negativos
+T39	SINTOMA 765 793	imposibilidad para la marcha
+T40	SINTOMA 838 889	funciones corticales superiores estaban conservadas
+T41	SINTOMA 934 984	hemograma bioquímica general y hemostasia normales
+T42	SINTOMA 1152 1244	tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales que fueron normal
+T43	SINTOMA 1284 1358	anticuerpos anti-Yo que fueron positivos a títulos altos en suero y en LCR
+T44	SINTOMA 166 195	diplopía binocular horizontal
+T45	SINTOMA 619 627	nistagmo
+T46	SINTOMA 699 724	paresia de IV par craneal
+T47	SINTOMA 734 760	ataxia truncal invalidante
+T48	SINTOMA 990 1109	marcadores tumorales habituales (CA 125, CA 15-3, CA19-9, alfafetoproteína y antígeno carcinoembrionario) eran normales

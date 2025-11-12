@@ -1,18 +1,33 @@
-T1	SINTOMA 1168 1193	calcificaciones nodulares
-T2	SINTOMA 252 277	cefalea intensa bilateral
-T3	SINTOMA 858 899	ECG, radiografía de tórax, ambos normales
-T4	SINTOMA 1332 1373	electrencefalograma (EEG), que fue normal
-T5	SINTOMA 323 342	parestesias en mano
-T6	SINTOMA 216 235	periodo confusional
-T7	SINTOMA 475 517	presión, frecuencia y temperatura normales
-T8	SINTOMA 552 567	rigidez de nuca
-T9	SINTOMA 653 661	sudorosa
-T10	SINTOMA 604 625	focalidad neurológica
-T11	SINTOMA 571 587	signos meníngeos
-T12	ENFERMEDAD 149 179	crisis convulsiva generalizada
-T13	ENFERMEDAD 1063 1136	lesión de 3 cm de diámetro, quística, en región fronto-parietal izquierda
-T14	ENFERMEDAD 680 688	ansiedad
-T15	ENFERMEDAD 1722 1788	epilepsia rolándica izquierda secundaria a cisticercosis sistémica
-T16	ENFERMEDAD 1277 1280	NCC
-T17	ENFERMEDAD 1765 1788	cisticercosis sistémica
-T18	ENFERMEDAD 1497 1530	muslo, con varias calcificaciones
+T1	ENFERMEDAD 149 179	crisis convulsiva generalizada
+T2	ENFERMEDAD 1063 1136	lesión de 3 cm de diámetro, quística, en región fronto-parietal izquierda
+T3	ENFERMEDAD 680 688	ansiedad
+T4	ENFERMEDAD 1722 1788	epilepsia rolándica izquierda secundaria a cisticercosis sistémica
+T5	ENFERMEDAD 1277 1280	NCC
+T6	ENFERMEDAD 1765 1788	cisticercosis sistémica
+T7	ENFERMEDAD 1497 1530	muslo, con varias calcificaciones
+T8	PROCEDIMIENTO 430 448	exploración física
+T9	PROCEDIMIENTO 858 861	ECG
+T10	PROCEDIMIENTO 863 883	radiografía de tórax
+T11	PROCEDIMIENTO 1332 1351	electrencefalograma
+T12	PROCEDIMIENTO 1353 1356	EEG
+T13	PROCEDIMIENTO 1379 1407	resonancia magnética craneal
+T14	PROCEDIMIENTO 941 963	pruebas de coagulación
+T15	PROCEDIMIENTO 1481 1502	radiografía del muslo
+T16	PROCEDIMIENTO 1020 1031	TAC craneal
+T17	PROCEDIMIENTO 929 938	hemograma
+T18	PROCEDIMIENTO 1893 1919	tratamiento antiepiléptico
+T19	PROCEDIMIENTO 917 927	bioquímica
+T20	PROCEDIMIENTO 903 912	analítica
+T21	PROCEDIMIENTO 768 779	exploración
+T22	SINTOMA 552 567	rigidez de nuca
+T23	SINTOMA 1444 1473	cisticercos en fase vesicular
+T24	SINTOMA 216 235	periodo confusional
+T25	SINTOMA 653 661	sudorosa
+T26	SINTOMA 252 277	cefalea intensa bilateral
+T27	SINTOMA 323 342	parestesias en mano
+T28	SINTOMA 1168 1193	calcificaciones nodulares
+T29	SINTOMA 604 625	focalidad neurológica
+T30	SINTOMA 571 587	signos meníngeos
+T31	SINTOMA 475 517	presión, frecuencia y temperatura normales
+T32	SINTOMA 858 899	ECG, radiografía de tórax, ambos normales
+T33	SINTOMA 1332 1373	electrencefalograma (EEG), que fue normal

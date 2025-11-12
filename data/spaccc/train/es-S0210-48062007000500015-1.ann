@@ -1,26 +1,73 @@
-T1	SINTOMA 1279 1286	astenia
-T2	SINTOMA 881 908	bioquímica sin alteraciones
-T3	SINTOMA 792 797	dolor
-T4	SINTOMA 661 676	dolor abdominal
-T5	SINTOMA 82 96	fiebre elevada
-T6	SINTOMA 3293 3305	leucocitosis
-T7	SINTOMA 770 775	masas
-T8	SINTOMA 779 787	megalias
-T9	SINTOMA 1220 1234	picos febriles
-T10	SINTOMA 634 657	síndrome constitucional
-T11	SINTOMA 2346 2362	tumoración renal
-T12	SINTOMA 713 751	abdomen blando y depresible, globuloso
-T13	SINTOMA 334 382	dolor e impotencia funcional en miembro inferior
-T14	SINTOMA 1676 1703	engrosamiento diafragmático
-T15	SINTOMA 1071 1093	Hemocultivos estériles
-T16	SINTOMA 1045 1069	Hemostasia sin hallazgos
-T17	SINTOMA 2466 2490	líquido peritoneal libre
-T18	SINTOMA 2553 2625	líquido peritoneal para cultivo, citología y gram con resultado negativo
-T19	SINTOMA 200 253	masa de gran tamaño (9x8x7 cm) en polo superior renal
-T20	SINTOMA 1966 1982	masa heterogénea
-T21	SINTOMA 1348 1376	masa sólida en polo superior
-T22	SINTOMA 3003 3058	nódulos satélites en superficie peritoneal de diafragma
-T23	SINTOMA 913 972	perfil hepático, proteínas totales y calcio en rango normal
-T24	SINTOMA 3203 3210	pT4G3N1
-T25	SINTOMA 816 855	Puño-percusión renal bilateral negativa
-T26	SINTOMA 1573 1624	vena renal derecha y vena cava se encuentran libres
+T1	ENFERMEDAD 2829 2886	cáncer de células renales tipo convencional de alto grado
+T2	ENFERMEDAD 2346 2412	tumoración renal que infiltra el hígado (segmento VII) y diafragma
+T3	ENFERMEDAD 2425 2463	adenopatías patológicas en hilio renal
+T4	ENFERMEDAD 3471 3494	derrame pleural derecho
+T5	ENFERMEDAD 3061 3111	metástasis en un ganglio linfático del hilio renal
+T6	ENFERMEDAD 3499 3549	lesiones nodulares pleurales basales y posteriores
+T7	ENFERMEDAD 2508 2530	implantes peritoneales
+T8	ENFERMEDAD 3602 3616	adenocarcinoma
+T9	ENFERMEDAD 1634 1656	adenopatías retrocavas
+T10	ENFERMEDAD 1658 1673	derrame pleural
+T11	ENFERMEDAD 576 600	estenosis de canal L4-L5
+T12	ENFERMEDAD 603 620	espondiloartrosis
+T13	ENFERMEDAD 1476 1482	lesión
+T14	ENFERMEDAD 552 574	patología degenerativa
+T15	ENFERMEDAD 1547 1568	infiltración hepática
+T16	PROCEDIMIENTO 2792 2818	análisis anatomopatológico
+T17	PROCEDIMIENTO 685 703	exploración física
+T18	PROCEDIMIENTO 2215 2233	embolización renal
+T19	PROCEDIMIENTO 1135 1177	tratamiento antibiótico de amplio espectro
+T20	PROCEDIMIENTO 1310 1312	TC
+T21	PROCEDIMIENTO 1332 1335	RMN
+T22	PROCEDIMIENTO 2281 2321	laparotomía media supra e infraumbilical
+T23	PROCEDIMIENTO 3315 3381	tratamiento quimioterápico oral con inhibidores de la angiogénesis
+T24	PROCEDIMIENTO 1819 1833	TAC Multicorte
+T25	PROCEDIMIENTO 974 983	Hemograma
+T26	PROCEDIMIENTO 816 846	Puño-percusión renal bilateral
+T27	PROCEDIMIENTO 170 188	TC toracoabdominal
+T28	PROCEDIMIENTO 1071 1083	Hemocultivos
+T29	PROCEDIMIENTO 3554 3583	citología del líquido pleural
+T30	PROCEDIMIENTO 2639 2752	nefrectomía radical derecha incluyendo en bloque el segmento hepático VII, adrenal derecha y porción de diafragma
+T31	PROCEDIMIENTO 498 511	TC de columna
+T32	PROCEDIMIENTO 504 542	columna y Resonancia Magnética Nuclear
+T33	PROCEDIMIENTO 544 547	RMN
+T34	PROCEDIMIENTO 2754 2769	Colecistectomía
+T35	PROCEDIMIENTO 2772 2787	linfadenectomía
+T36	PROCEDIMIENTO 757 766	palpación
+T37	PROCEDIMIENTO 913 928	perfil hepático
+T38	PROCEDIMIENTO 1096 1107	urocultivos
+T39	PROCEDIMIENTO 930 947	proteínas totales
+T40	PROCEDIMIENTO 1180 1191	antitérmico
+T41	PROCEDIMIENTO 881 891	bioquímica
+T42	PROCEDIMIENTO 1930 1953	intervención quirúrgica
+T43	PROCEDIMIENTO 2245 2268	intervención quirúrgica
+T44	PROCEDIMIENTO 3397 3399	TC
+T45	PROCEDIMIENTO 2532 2584	Se toman muestras de líquido peritoneal para cultivo
+T46	PROCEDIMIENTO 2553 2602	líquido peritoneal para cultivo, citología y gram
+T47	PROCEDIMIENTO 1045 1055	Hemostasia
+T48	SINTOMA 792 797	dolor
+T49	SINTOMA 713 751	abdomen blando y depresible, globuloso
+T50	SINTOMA 3293 3305	leucocitosis
+T51	SINTOMA 1220 1234	picos febriles
+T52	SINTOMA 816 855	Puño-percusión renal bilateral negativa
+T53	SINTOMA 1279 1286	astenia
+T54	SINTOMA 1045 1069	Hemostasia sin hallazgos
+T55	SINTOMA 200 253	masa de gran tamaño (9x8x7 cm) en polo superior renal
+T56	SINTOMA 1071 1093	Hemocultivos estériles
+T57	SINTOMA 334 382	dolor e impotencia funcional en miembro inferior
+T58	SINTOMA 2553 2625	líquido peritoneal para cultivo, citología y gram con resultado negativo
+T59	SINTOMA 3203 3210	pT4G3N1
+T60	SINTOMA 634 657	síndrome constitucional
+T61	SINTOMA 661 676	dolor abdominal
+T62	SINTOMA 770 775	masas
+T63	SINTOMA 913 972	perfil hepático, proteínas totales y calcio en rango normal
+T64	SINTOMA 1348 1376	masa sólida en polo superior
+T65	SINTOMA 1573 1624	vena renal derecha y vena cava se encuentran libres
+T66	SINTOMA 1676 1703	engrosamiento diafragmático
+T67	SINTOMA 3003 3058	nódulos satélites en superficie peritoneal de diafragma
+T68	SINTOMA 2466 2490	líquido peritoneal libre
+T69	SINTOMA 881 908	bioquímica sin alteraciones
+T70	SINTOMA 2346 2362	tumoración renal
+T71	SINTOMA 1966 1982	masa heterogénea
+T72	SINTOMA 82 96	fiebre elevada
+T73	SINTOMA 779 787	megalias

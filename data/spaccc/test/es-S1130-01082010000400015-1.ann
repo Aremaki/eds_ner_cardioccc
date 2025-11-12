@@ -1,32 +1,33 @@
-T1	SINTOMA 160 171	taquicardia
-T2	SINTOMA 225 245	distensión abdominal
-T3	SINTOMA 510 520	hemorragia
-T4	SINTOMA 470 474	masa
-T5	SINTOMA 324 334	tumoración
-T6	SINTOMA 146 157	hipotensión
-T7	SINTOMA 699 710	hipotensión
-T8	SINTOMA 850 909	estudio de extensión realizado tras la cirugía fue negativo
-T9	SINTOMA 203 222	palidez mucocutánea
-T10	ENFERMEDAD 943 968	ciego contenía una úlcera
-T11	ENFERMEDAD 43 64	angiosarcoma de ciego
-T12	ENFERMEDAD 1408 1441	angiosarcoma epitelioide de colon
-T13	ENFERMEDAD 674 694	hemorragia digestiva
-T14	ENFERMEDAD 699 710	hipotensión
-T15	ENFERMEDAD 1474 1479	tumor
-T16	ENFERMEDAD 146 157	hipotensión
-T17	ENFERMEDAD 110 122	rectorragias
-T18	PROCEDIMIENTO 1168 1186	inmunohistoquímica
-T19	PROCEDIMIENTO 1270 1328	inciones para CD34, citoqueratina 20 y citoqueratina AE1-3
+T1	ENFERMEDAD 943 968	ciego contenía una úlcera
+T2	ENFERMEDAD 43 64	angiosarcoma de ciego
+T3	ENFERMEDAD 1408 1441	angiosarcoma epitelioide de colon
+T4	ENFERMEDAD 674 694	hemorragia digestiva
+T5	ENFERMEDAD 699 710	hipotensión
+T6	ENFERMEDAD 1474 1479	tumor
+T7	ENFERMEDAD 146 157	hipotensión
+T8	ENFERMEDAD 110 122	rectorragias
+T9	PROCEDIMIENTO 917 938	análisis macroscópico
+T10	PROCEDIMIENTO 991 1012	análisis microscópico
+T11	PROCEDIMIENTO 177 195	exploración física
+T12	PROCEDIMIENTO 250 262	tacto rectal
+T13	PROCEDIMIENTO 1168 1186	inmunohistoquímica
+T14	PROCEDIMIENTO 1270 1328	inciones para CD34, citoqueratina 20 y citoqueratina AE1-3
+T15	PROCEDIMIENTO 416 441	endoscopia digestiva baja
+T16	PROCEDIMIENTO 603 611	biopsias
+T17	PROCEDIMIENTO 738 774	hemicolectomía derecha laparoscópica
+T18	PROCEDIMIENTO 850 870	estudio de extensión
+T19	PROCEDIMIENTO 563 581	clips hemostáticos
 T20	PROCEDIMIENTO 1551 1572	tratamiento adyuvante
-T21	PROCEDIMIENTO 1661 1668	cirugía
-T22	PROCEDIMIENTO 177 195	exploración física
-T23	PROCEDIMIENTO 250 262	tacto rectal
-T24	PROCEDIMIENTO 342 351	analítica
-T25	PROCEDIMIENTO 416 441	endoscopia digestiva baja
-T26	PROCEDIMIENTO 563 581	clips hemostáticos
-T27	PROCEDIMIENTO 603 611	biopsias
-T28	PROCEDIMIENTO 738 774	hemicolectomía derecha laparoscópica
-T29	PROCEDIMIENTO 850 870	estudio de extensión
-T30	PROCEDIMIENTO 889 896	cirugía
-T31	PROCEDIMIENTO 917 938	análisis macroscópico
-T32	PROCEDIMIENTO 991 1012	análisis microscópico
+T21	PROCEDIMIENTO 342 351	analítica
+T22	PROCEDIMIENTO 889 896	cirugía
+T23	PROCEDIMIENTO 1661 1668	cirugía
+T24	SINTOMA 160 171	taquicardia
+T25	SINTOMA 203 222	palidez mucocutánea
+T26	SINTOMA 225 245	distensión abdominal
+T27	SINTOMA 510 520	hemorragia
+T28	SINTOMA 470 474	masa
+T29	SINTOMA 324 334	tumoración
+T30	SINTOMA 850 909	estudio de extensión realizado tras la cirugía fue negativo
+T31	SINTOMA 1269 1345	tinciones para CD34, citoqueratina 20 y citoqueratina AE1-3 fueron negativas
+T32	SINTOMA 146 157	hipotensión
+T33	SINTOMA 699 710	hipotensión

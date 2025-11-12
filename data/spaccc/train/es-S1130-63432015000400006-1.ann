@@ -1,48 +1,75 @@
-T1	SINTOMA 4255 4277	diuresis muy abundante
-T2	SINTOMA 3136 3174	elevación de los niveles de creatinina
-T3	SINTOMA 4886 4913	fórmula hematológica normal
-T4	SINTOMA 1808 1874	hemocultivos que resultan positivos para Streptococcus epidermidis
-T5	SINTOMA 2124 2150	hemocultivos son negativos
-T6	SINTOMA 3033 3052	pérdidas digestivas
-T7	SINTOMA 907 926	tumoración faríngea
-T8	SINTOMA 65 71	disnea
-T9	SINTOMA 84 97	expectoración
-T10	SINTOMA 3842 3849	diarrea
-T11	SINTOMA 100 111	somnolencia
-T12	SINTOMA 2265 2279	picos febriles
-T13	SINTOMA 4916 4923	afebril
-T14	SINTOMA 868 876	disfagia
-T15	SINTOMA 5013 5020	diarrea
-T16	SINTOMA 299 305	T3N0M0
-T17	SINTOMA 1652 1667	síndrome febril
-T18	SINTOMA 1197 1217	función renal normal
-T19	SINTOMA 887 895	sangrado
-T20	SINTOMA 2924 2931	diarrea
-T21	SINTOMA 3085 3097	hiponatremia
-T22	SINTOMA 4121 4128	diarrea
-T23	PROCEDIMIENTO 1008 1040	tratamiento antibiótico empírico
-T24	PROCEDIMIENTO 1069 1091	reposición de natremia
-T25	PROCEDIMIENTO 1101 1113	sueroterapia
-T26	PROCEDIMIENTO 1317 1326	analítica
-T27	PROCEDIMIENTO 1425 1467	reposición natrémica mediante sueroterapia
-T28	PROCEDIMIENTO 1808 1820	hemocultivos
-T29	PROCEDIMIENTO 1962 1985	tratamiento antibiótico
-T30	PROCEDIMIENTO 2015 2037	catéter, que se retira
-T31	PROCEDIMIENTO 2050 2078	ecocardiograma transtorácico
-T32	PROCEDIMIENTO 2124 2136	hemocultivos
-T33	PROCEDIMIENTO 2505 2529	extracción de la muestra
-T34	PROCEDIMIENTO 2597 2620	estudio farmacocinético
-T35	PROCEDIMIENTO 3739 3762	tratamiento antibiótico
-T36	PROCEDIMIENTO 3799 3816	nutrición enteral
-T37	PROCEDIMIENTO 3867 3887	corrección natrémica
-T38	PROCEDIMIENTO 3951 3963	sueroterapia
-T39	PROCEDIMIENTO 3966 3985	forzado de diuresis
-T40	PROCEDIMIENTO 4087 4099	gastrostomía
-T41	PROCEDIMIENTO 424 444	radioterapia radical
-T42	PROCEDIMIENTO 4418 4432	sueros salinos
-T43	PROCEDIMIENTO 4568 4588	radiografía de tórax
-T44	PROCEDIMIENTO 4737 4749	sueroterapia
-T45	PROCEDIMIENTO 5085 5115	dieta enteral por gastrostomía
-T46	PROCEDIMIENTO 5118 5139	terapia radioterápica
-T47	PROCEDIMIENTO 942 954	gastrostomía
-T48	PROCEDIMIENTO 967 1006	nutrición parenteral por vía periférica
+T1	ENFERMEDAD 677 715	neumonía bilo-bar por broncoaspiración
+T2	ENFERMEDAD 4815 4884	bacteriemia asociada a Streptococcus epidermidis meticilin-resistente
+T3	ENFERMEDAD 699 715	broncoaspiración
+T4	ENFERMEDAD 2924 2957	diarrea por Clostridium difficile
+T5	ENFERMEDAD 727 751	hiponatremia hipoosmolar
+T6	ENFERMEDAD 1382 1402	SIADH paraneoplásico
+T7	ENFERMEDAD 163 184	hipertensión arterial
+T8	ENFERMEDAD 4946 4974	intoxicación por vancomicina
+T9	ENFERMEDAD 186 203	diabetes mellitus
+T10	ENFERMEDAD 205 238	fibrilación auricular paroxística
+T11	ENFERMEDAD 3065 3097	fallo pre-renal con hiponatremia
+T12	ENFERMEDAD 240 262	síndrome Guillen-Barré
+T13	ENFERMEDAD 887 926	sangrado asociado a tumoración faríngea
+T14	ENFERMEDAD 265 298	carcinoma epidermoide orofaríngeo
+T15	ENFERMEDAD 310 390	Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH) paraneoplásico
+T16	ENFERMEDAD 4121 4154	diarrea por Clostridium difficile
+T17	ENFERMEDAD 369 374	SIADH
+T18	ENFERMEDAD 4237 4249	hipertensión
+T19	ENFERMEDAD 3327 3344	fallo renal agudo
+T20	ENFERMEDAD 4329 4342	hipernatremia
+T21	ENFERMEDAD 4478 4497	acidosis metabólica
+T22	ENFERMEDAD 1999 2022	bacteriemia por catéter
+T23	ENFERMEDAD 4532 4554	alcalosis respiratoria
+T24	ENFERMEDAD 2091 2103	endocarditis
+T25	ENFERMEDAD 4605 4620	derrame pleural
+T26	ENFERMEDAD 4711 4724	hipernatremia
+T27	ENFERMEDAD 868 876	disfagia
+T28	PROCEDIMIENTO 3799 3816	nutrición enteral
+T29	PROCEDIMIENTO 3867 3887	corrección natrémica
+T30	PROCEDIMIENTO 1425 1467	reposición natrémica mediante sueroterapia
+T31	PROCEDIMIENTO 3951 3963	sueroterapia
+T32	PROCEDIMIENTO 3966 3985	forzado de diuresis
+T33	PROCEDIMIENTO 942 954	gastrostomía
+T34	PROCEDIMIENTO 5085 5115	dieta enteral por gastrostomía
+T35	PROCEDIMIENTO 4087 4099	gastrostomía
+T36	PROCEDIMIENTO 967 1006	nutrición parenteral por vía periférica
+T37	PROCEDIMIENTO 5118 5139	terapia radioterápica
+T38	PROCEDIMIENTO 1008 1040	tratamiento antibiótico empírico
+T39	PROCEDIMIENTO 424 444	radioterapia radical
+T40	PROCEDIMIENTO 1069 1091	reposición de natremia
+T41	PROCEDIMIENTO 2597 2620	estudio farmacocinético
+T42	PROCEDIMIENTO 1101 1113	sueroterapia
+T43	PROCEDIMIENTO 1808 1820	hemocultivos
+T44	PROCEDIMIENTO 1962 1985	tratamiento antibiótico
+T45	PROCEDIMIENTO 2050 2078	ecocardiograma transtorácico
+T46	PROCEDIMIENTO 4568 4588	radiografía de tórax
+T47	PROCEDIMIENTO 2124 2136	hemocultivos
+T48	PROCEDIMIENTO 3739 3762	tratamiento antibiótico
+T49	PROCEDIMIENTO 4737 4749	sueroterapia
+T50	PROCEDIMIENTO 4418 4432	sueros salinos
+T51	PROCEDIMIENTO 2015 2037	catéter, que se retira
+T52	PROCEDIMIENTO 1317 1326	analítica
+T53	PROCEDIMIENTO 2505 2529	extracción de la muestra
+T54	SINTOMA 65 71	disnea
+T55	SINTOMA 84 97	expectoración
+T56	SINTOMA 3842 3849	diarrea
+T57	SINTOMA 100 111	somnolencia
+T58	SINTOMA 2265 2279	picos febriles
+T59	SINTOMA 4916 4923	afebril
+T60	SINTOMA 3033 3052	pérdidas digestivas
+T61	SINTOMA 868 876	disfagia
+T62	SINTOMA 5013 5020	diarrea
+T63	SINTOMA 3136 3174	elevación de los niveles de creatinina
+T64	SINTOMA 299 305	T3N0M0
+T65	SINTOMA 1652 1667	síndrome febril
+T66	SINTOMA 1808 1874	hemocultivos que resultan positivos para Streptococcus epidermidis
+T67	SINTOMA 1197 1217	función renal normal
+T68	SINTOMA 2124 2150	hemocultivos son negativos
+T69	SINTOMA 4886 4913	fórmula hematológica normal
+T70	SINTOMA 887 895	sangrado
+T71	SINTOMA 2924 2931	diarrea
+T72	SINTOMA 3085 3097	hiponatremia
+T73	SINTOMA 4121 4128	diarrea
+T74	SINTOMA 4255 4277	diuresis muy abundante
+T75	SINTOMA 907 926	tumoración faríngea

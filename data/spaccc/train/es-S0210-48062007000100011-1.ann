@@ -1,18 +1,31 @@
-T1	SINTOMA 539 545	angina
-T2	SINTOMA 224 231	astenia
-T3	SINTOMA 1901 1934	aumento de CK y de la fracción MB
-T4	SINTOMA 234 244	diaforesis
-T5	SINTOMA 2636 2641	dolor
-T6	SINTOMA 1177 1269	electrolitos, las pruebas de coagulación y los conteos de células sanguíneas fueron normales
-T7	SINTOMA 835 973	elevación del segmento ST en las derivadas de la cara inferior (II, III y aVF) y de la cara anterior (V2-V4) con cambios recíprocos en aVL
-T8	SINTOMA 572 621	examen clínico y sus signos vitales eran normales
-T9	SINTOMA 206 222	malestar general
-T10	SINTOMA 187 204	opresión torácica
-T11	ENFERMEDAD 2052 2210	enfermedad difusa de la arteria descendente anterior con lesión en el tercio distal del 50% y lesión del 40% en el tercio proximal de la primera rama diagonal
-T12	ENFERMEDAD 2215 2330	arteria circunfleja tenía una lesión del 50% en el tercio medio y enfermedad difusa de sus ramas obtusas marginales
-T13	ENFERMEDAD 2335 2382	arteria coronaria derecha presentaba una lesión
-T14	ENFERMEDAD 1691 1711	bloqueo A-V completo
-T15	ENFERMEDAD 457 478	hipertensión arterial
-T16	ENFERMEDAD 539 545	angina
-T17	ENFERMEDAD 678 739	paro cardiorrespiratorio secundario a fibrilación ventricular
-T18	ENFERMEDAD 2488 2541	arteria descendente posterior presentaba dos lesiones
+T1	ENFERMEDAD 2052 2210	enfermedad difusa de la arteria descendente anterior con lesión en el tercio distal del 50% y lesión del 40% en el tercio proximal de la primera rama diagonal
+T2	ENFERMEDAD 2215 2330	arteria circunfleja tenía una lesión del 50% en el tercio medio y enfermedad difusa de sus ramas obtusas marginales
+T3	ENFERMEDAD 2335 2382	arteria coronaria derecha presentaba una lesión
+T4	ENFERMEDAD 1691 1711	bloqueo A-V completo
+T5	ENFERMEDAD 457 478	hipertensión arterial
+T6	ENFERMEDAD 539 545	angina
+T7	ENFERMEDAD 678 739	paro cardiorrespiratorio secundario a fibrilación ventricular
+T8	ENFERMEDAD 2488 2541	arteria descendente posterior presentaba dos lesiones
+T9	PROCEDIMIENTO 1742 1745	EKG
+T10	PROCEDIMIENTO 799 817	electrocardiograma
+T11	PROCEDIMIENTO 2025 2040	coronariografía
+T12	PROCEDIMIENTO 330 348	estimulante sexual
+T13	PROCEDIMIENTO 766 780	desfibrilación
+T14	PROCEDIMIENTO 1001 1021	electrocardiográfica
+T15	PROCEDIMIENTO 559 567	nitratos
+T16	PROCEDIMIENTO 1195 1217	pruebas de coagulación
+T17	PROCEDIMIENTO 1177 1189	electrolitos
+T18	PROCEDIMIENTO 572 586	examen clínico
+T19	PROCEDIMIENTO 1224 1253	conteos de células sanguíneas
+T20	SINTOMA 835 973	elevación del segmento ST en las derivadas de la cara inferior (II, III y aVF) y de la cara anterior (V2-V4) con cambios recíprocos en aVL
+T21	SINTOMA 1788 1864	QS en cara inferior y una progresión tardía de la onda R en la cara anterior
+T22	SINTOMA 1901 1934	aumento de CK y de la fracción MB
+T23	SINTOMA 187 204	opresión torácica
+T24	SINTOMA 206 222	malestar general
+T25	SINTOMA 224 231	astenia
+T26	SINTOMA 234 244	diaforesis
+T27	SINTOMA 2636 2641	dolor
+T28	SINTOMA 991 1042	extensión electrocardiográfica a ventrículo derecho
+T29	SINTOMA 539 545	angina
+T30	SINTOMA 572 621	examen clínico y sus signos vitales eran normales
+T31	SINTOMA 1177 1269	electrolitos, las pruebas de coagulación y los conteos de células sanguíneas fueron normales

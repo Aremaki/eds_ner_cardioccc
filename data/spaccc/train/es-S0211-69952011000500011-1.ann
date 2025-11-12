@@ -1,17 +1,28 @@
-T1	SINTOMA 509 526	deterioro general
-T2	SINTOMA 538 573	disminución del nivel de conciencia
-T3	SINTOMA 429 442	dolores óseos
-T4	SINTOMA 1462 1473	falleciendo
-T5	SINTOMA 528 535	vómitos
-T6	SINTOMA 1431 1460	EEG con ondas de bajo voltaje
-T7	SINTOMA 915 936	infiltrado en la base
-T8	SINTOMA 607 621	mal prefundida
-T9	ENFERMEDAD 625 629	coma
-T10	ENFERMEDAD 51 75	diabetes mellitus tipo 2
-T11	ENFERMEDAD 77 98	artrosis generalizada
-T12	ENFERMEDAD 100 133	insuficiencia cardíaca congestiva
-T13	ENFERMEDAD 161 190	fibrilación auricular crónica
-T14	ENFERMEDAD 1186 1208	meningitis neumocócica
-T15	ENFERMEDAD 1421 1425	coma
-T16	ENFERMEDAD 37 49	hipertensión
-T17	ENFERMEDAD 595 604	hipotensa
+T1	ENFERMEDAD 625 629	coma
+T2	ENFERMEDAD 51 75	diabetes mellitus tipo 2
+T3	ENFERMEDAD 77 98	artrosis generalizada
+T4	ENFERMEDAD 100 133	insuficiencia cardíaca congestiva
+T5	ENFERMEDAD 161 190	fibrilación auricular crónica
+T6	ENFERMEDAD 1186 1208	meningitis neumocócica
+T7	ENFERMEDAD 1421 1425	coma
+T8	ENFERMEDAD 37 49	hipertensión
+T9	ENFERMEDAD 595 604	hipotensa
+T10	PROCEDIMIENTO 1021 1043	intubación orotraqueal
+T11	PROCEDIMIENTO 1071 1109	administración de fármacos vasoactivos
+T12	PROCEDIMIENTO 1136 1150	punción lumbar
+T13	PROCEDIMIENTO 769 788	gasometría arterial
+T14	PROCEDIMIENTO 1221 1257	hemodiálisis con baño de bicarbonato
+T15	PROCEDIMIENTO 884 904	radiografía de tórax
+T16	PROCEDIMIENTO 1431 1434	EEG
+T17	PROCEDIMIENTO 1112 1124	antibióticos
+T18	PROCEDIMIENTO 1048 1068	ventilación mecánica
+T19	PROCEDIMIENTO 653 662	analítica
+T20	PROCEDIMIENTO 1294 1303	analítica
+T21	SINTOMA 607 621	mal prefundida
+T22	SINTOMA 429 442	dolores óseos
+T23	SINTOMA 1431 1460	EEG con ondas de bajo voltaje
+T24	SINTOMA 509 526	deterioro general
+T25	SINTOMA 1462 1473	falleciendo
+T26	SINTOMA 528 535	vómitos
+T27	SINTOMA 538 573	disminución del nivel de conciencia
+T28	SINTOMA 915 936	infiltrado en la base

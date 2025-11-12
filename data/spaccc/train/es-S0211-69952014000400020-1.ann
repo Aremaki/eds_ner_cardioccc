@@ -1,17 +1,25 @@
-T1	SINTOMA 700 783	catéter, que se cultiva, creciendo AX, junto con St. aureus y Enterococcus faecalis
-T2	SINTOMA 538 549	escalofríos
-T3	SINTOMA 529 535	fiebre
-T4	SINTOMA 597 649	hemocultivos positivos a Staphylococcus (St.) aureus
-T5	SINTOMA 260 281	mala higiene personal
-T6	ENFERMEDAD 51 60	diabética
-T7	ENFERMEDAD 62 67	obesa
-T8	ENFERMEDAD 69 80	dislipémica
-T9	ENFERMEDAD 580 591	bacteriemia
-T10	ENFERMEDAD 87 111	enfermedad renal crónica
-T11	ENFERMEDAD 113 116	ERC
-T12	ENFERMEDAD 144 152	diabetes
-T13	ENFERMEDAD 658 674	infección en PEC
-T14	ENFERMEDAD 157 176	nefroangiosclerosis
-T15	ENFERMEDAD 39 49	hipertensa
-T16	ENFERMEDAD 454 498	infecciones de puerta de entrada del catéter
-T17	ENFERMEDAD 848 865	cuadro infeccioso
+T1	ENFERMEDAD 51 60	diabética
+T2	ENFERMEDAD 62 67	obesa
+T3	ENFERMEDAD 69 80	dislipémica
+T4	ENFERMEDAD 580 591	bacteriemia
+T5	ENFERMEDAD 87 111	enfermedad renal crónica
+T6	ENFERMEDAD 113 116	ERC
+T7	ENFERMEDAD 144 152	diabetes
+T8	ENFERMEDAD 658 674	infección en PEC
+T9	ENFERMEDAD 157 176	nefroangiosclerosis
+T10	ENFERMEDAD 39 49	hipertensa
+T11	ENFERMEDAD 454 498	infecciones de puerta de entrada del catéter
+T12	ENFERMEDAD 848 865	cuadro infeccioso
+T13	PROCEDIMIENTO 294 346	fístula arteriovenosa (FAV) humerocefálica izquierda
+T14	PROCEDIMIENTO 555 563	diálisis
+T15	PROCEDIMIENTO 382 404	HD por CVC transitorio
+T16	PROCEDIMIENTO 491 498	catéter
+T17	PROCEDIMIENTO 687 707	se retira el catéter
+T18	PROCEDIMIENTO 181 183	HD
+T19	PROCEDIMIENTO 700 723	catéter, que se cultiva
+T20	PROCEDIMIENTO 597 609	hemocultivos
+T21	SINTOMA 529 535	fiebre
+T22	SINTOMA 538 549	escalofríos
+T23	SINTOMA 597 649	hemocultivos positivos a Staphylococcus (St.) aureus
+T24	SINTOMA 700 783	catéter, que se cultiva, creciendo AX, junto con St. aureus y Enterococcus faecalis
+T25	SINTOMA 260 281	mala higiene personal

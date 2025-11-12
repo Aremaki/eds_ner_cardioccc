@@ -1,13 +1,40 @@
-T1	SINTOMA 459 486	cefaleas de intensidad leve
-T2	SINTOMA 919 943	defecto pupilar aferente
-T3	SINTOMA 1062 1118	hemorragia retrohialoidea premacular y vítrea bilateral,
-T4	SINTOMA 1831 1851	hemovítreo bilateral
-T5	SINTOMA 488 501	inestabilidad
-T6	SINTOMA 503 520	mareos rotatorios
-T7	SINTOMA 1698 1731	membrana epirretiniana premacular
-T8	SINTOMA 1782 1791	nistagmus
-T9	SINTOMA 968 1037	nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media
-T10	SINTOMA 567 590	nistagmus vertical leve
-T11	SINTOMA 71 105	pérdida de visión súbita bilateral
-T12	SINTOMA 1497 1523	sangre a la cavidad vítrea
-T13	SINTOMA 522 564	vómitos autolimitados de duración variable
+T1	ENFERMEDAD 1698 1731	membrana epirretiniana premacular
+T2	ENFERMEDAD 160 185	higroma subdural temporal
+T3	ENFERMEDAD 968 1001	nistagmus en sacudida hacia abajo
+T4	ENFERMEDAD 188 213	absceso occipital craneal
+T5	ENFERMEDAD 1782 1791	nistagmus
+T6	ENFERMEDAD 1444 1473	hialoides posterior se rompió
+T7	ENFERMEDAD 242 278	complicación postquirúrgica subaguda
+T8	ENFERMEDAD 1831 1851	hemovítreo bilateral
+T9	ENFERMEDAD 663 685	malformación congénita
+T10	ENFERMEDAD 1062 1117	hemorragia retrohialoidea premacular y vítrea bilateral
+T11	ENFERMEDAD 746 762	colitis ulcerosa
+T12	ENFERMEDAD 361 392	Malformación de Arnold-Chiari I
+T13	ENFERMEDAD 1497 1523	sangre a la cavidad vítrea
+T14	ENFERMEDAD 1431 1439	hematoma
+T15	ENFERMEDAD 71 105	pérdida de visión súbita bilateral
+T16	ENFERMEDAD 567 590	nistagmus vertical leve
+T17	ENFERMEDAD 919 952	defecto pupilar aferente relativo
+T18	PROCEDIMIENTO 1257 1367	hialoidectomía posterior en su ojo derecho (OD) previa instilación de colirio anestésico y uso de láser Nd:YAG
+T19	PROCEDIMIENTO 1312 1345	instilación de colirio anestésico
+T20	PROCEDIMIENTO 1683 1686	OCT
+T21	PROCEDIMIENTO 111 153	cirugía de derivación ventrículoperitoneal
+T22	PROCEDIMIENTO 1042 1054	fondo de ojo
+T23	PROCEDIMIENTO 324 356	descompresión preventiva medular
+T24	PROCEDIMIENTO 1134 1165	tomografía óptica de coherencia
+T25	PROCEDIMIENTO 1167 1170	OCT
+T26	PROCEDIMIENTO 1174 1190	ecografía ocular
+T27	PROCEDIMIENTO 823 834	exploración
+T28	SINTOMA 488 501	inestabilidad
+T29	SINTOMA 503 520	mareos rotatorios
+T30	SINTOMA 459 486	cefaleas de intensidad leve
+T31	SINTOMA 522 564	vómitos autolimitados de duración variable
+T32	SINTOMA 567 590	nistagmus vertical leve
+T33	SINTOMA 1782 1791	nistagmus
+T34	SINTOMA 71 105	pérdida de visión súbita bilateral
+T35	SINTOMA 919 943	defecto pupilar aferente
+T36	SINTOMA 968 1037	nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media
+T37	SINTOMA 1062 1118	hemorragia retrohialoidea premacular y vítrea bilateral,
+T38	SINTOMA 1497 1523	sangre a la cavidad vítrea
+T39	SINTOMA 1698 1731	membrana epirretiniana premacular
+T40	SINTOMA 1831 1851	hemovítreo bilateral

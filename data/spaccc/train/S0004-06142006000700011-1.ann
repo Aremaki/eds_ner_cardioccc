@@ -1,2 +1,14 @@
-T1	SINTOMA 144 180	aumento del tamaño peneano, doloroso
-T2	SINTOMA 961 969	falleció
+T1	ENFERMEDAD 87 108	adenocarcinoma rectal
+T2	ENFERMEDAD 335 391	linfedema hipogástrico, de la piel peneana y del escroto
+T3	ENFERMEDAD 483 557	metástasis subcutáneas prepuciales secundarias a adenocarcinoma intestinal
+T4	ENFERMEDAD 687 712	excrecencia carcinomatosa
+T5	ENFERMEDAD 792 809	tumor infiltrante
+T6	ENFERMEDAD 816 872	adenocarcinoma moderadamente diferenciado, de alto grado
+T7	ENFERMEDAD 603 668	infiltración tumoral del epitelio de revestimiento plano escamoso
+T8	ENFERMEDAD 211 287	lesiones eritematosas, excrecentes y sangrantes al roce en la piel prepucial
+T9	PROCEDIMIENTO 446 471	estudio anatomopatológico
+T10	PROCEDIMIENTO 411 441	exéresis mediante circuncisión
+T11	PROCEDIMIENTO 323 334	exploración
+T12	PROCEDIMIENTO 917 939	tratamiento oncológico
+T13	SINTOMA 144 180	aumento del tamaño peneano, doloroso
+T14	SINTOMA 961 969	falleció

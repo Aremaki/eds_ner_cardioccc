@@ -1,41 +1,41 @@
-T1	SINTOMA 1532 1570	adelgazamiento de las corticales óseas
-T2	SINTOMA 144 210	aumento de volumen indoloro en relación a cuerpo y rama mandibular
-T3	SINTOMA 355 425	aumento de volumen que comprometía la zona de cuerpo y rama mandibular
-T4	SINTOMA 488 509	compromiso de la piel
-T5	SINTOMA 560 580	compromiso sensitivo
-T6	SINTOMA 595 633	examen funcional mandibular era normal
-T7	SINTOMA 914 937	indoloro a la palpación
-T8	SINTOMA 1027 1064	lesión mixta de predominio radioopaco
-T9	ENFERMEDAD 679 745	desdentamiento parcial por ausencia de canino y molares inferiores
-T10	ENFERMEDAD 706 745	ausencia de canino y molares inferiores
-T11	ENFERMEDAD 530 541	adenopatías
-T12	ENFERMEDAD 2478 2483	tumor
-T13	ENFERMEDAD 1027 1033	lesión
-T14	ENFERMEDAD 1299 1305	lesión
-T15	ENFERMEDAD 1743 1749	lesión
-T16	ENFERMEDAD 1819 1825	lesión
-T17	PROCEDIMIENTO 1505 1508	TAC
-T18	PROCEDIMIENTO 1637 1662	modelo estereolitográfico
-T19	PROCEDIMIENTO 1682 1689	cirugía
-T20	PROCEDIMIENTO 1718 1736	biopsia incisional
-T21	PROCEDIMIENTO 1754 1807	examen histopatológico teñido con hematoxilina-eosina
-T22	PROCEDIMIENTO 1788 1807	hematoxilina-eosina
-T23	PROCEDIMIENTO 2006 2033	diagnóstico histopatológico
-T24	PROCEDIMIENTO 2080 2087	cirugía
-T25	PROCEDIMIENTO 2106 2131	modelo estereolitográfico
-T26	PROCEDIMIENTO 2132 2309	se modeló una placa de reconstrucción 2.4 la cual se extendió a nivel del borde basilar desde el primer molar inferior derecho hasta la zona alta de la rama mandibular izquierda
-T27	PROCEDIMIENTO 2311 2363	Se expuso la mandíbula mediante un abordaje cervical
-T28	PROCEDIMIENTO 2380 2423	resección en bloque del segmento mandibular
-T29	PROCEDIMIENTO 2514 2588	reconstrucción mandibular mediante un injerto microvascularizado de peroné
+T1	ENFERMEDAD 679 745	desdentamiento parcial por ausencia de canino y molares inferiores
+T2	ENFERMEDAD 706 745	ausencia de canino y molares inferiores
+T3	ENFERMEDAD 530 541	adenopatías
+T4	ENFERMEDAD 2478 2483	tumor
+T5	ENFERMEDAD 1027 1033	lesión
+T6	ENFERMEDAD 1299 1305	lesión
+T7	ENFERMEDAD 1743 1749	lesión
+T8	ENFERMEDAD 1819 1825	lesión
+T9	PROCEDIMIENTO 639 655	examen intraoral
+T10	PROCEDIMIENTO 1505 1508	TAC
+T11	PROCEDIMIENTO 1718 1736	biopsia incisional
+T12	PROCEDIMIENTO 979 1001	radiografía panorámica
+T13	PROCEDIMIENTO 3095 3140	controles periódicos clínicos y radiográficos
+T14	PROCEDIMIENTO 2928 2947	rehabilitación oral
+T15	PROCEDIMIENTO 1754 1807	examen histopatológico teñido con hematoxilina-eosina
+T16	PROCEDIMIENTO 2763 2777	antibioterapia
+T17	PROCEDIMIENTO 2380 2423	resección en bloque del segmento mandibular
+T18	PROCEDIMIENTO 2780 2789	analgesia
+T19	PROCEDIMIENTO 2973 3011	colocación de implantes oseointegrados
+T20	PROCEDIMIENTO 2132 2309	se modeló una placa de reconstrucción 2.4 la cual se extendió a nivel del borde basilar desde el primer molar inferior derecho hasta la zona alta de la rama mandibular izquierda
+T21	PROCEDIMIENTO 2514 2588	reconstrucción mandibular mediante un injerto microvascularizado de peroné
+T22	PROCEDIMIENTO 595 622	examen funcional mandibular
+T23	PROCEDIMIENTO 2832 2844	dieta blanda
+T24	PROCEDIMIENTO 1788 1807	hematoxilina-eosina
+T25	PROCEDIMIENTO 2311 2363	Se expuso la mandíbula mediante un abordaje cervical
+T26	PROCEDIMIENTO 2006 2033	diagnóstico histopatológico
+T27	PROCEDIMIENTO 928 937	palpación
+T28	PROCEDIMIENTO 1637 1662	modelo estereolitográfico
+T29	PROCEDIMIENTO 2106 2131	modelo estereolitográfico
 T30	PROCEDIMIENTO 2552 2667	injerto microvascularizado de peroné, el cual fue adaptado a la placa de reconstrucción y seccionado en tres partes
-T31	PROCEDIMIENTO 2763 2777	antibioterapia
-T32	PROCEDIMIENTO 2780 2789	analgesia
-T33	PROCEDIMIENTO 2832 2844	dieta blanda
-T34	PROCEDIMIENTO 2928 2947	rehabilitación oral
-T35	PROCEDIMIENTO 2973 3011	colocación de implantes oseointegrados
-T36	PROCEDIMIENTO 3029 3064	se confeccionó una prótesis hibrida
-T37	PROCEDIMIENTO 3095 3140	controles periódicos clínicos y radiográficos
-T38	PROCEDIMIENTO 595 622	examen funcional mandibular
-T39	PROCEDIMIENTO 639 655	examen intraoral
-T40	PROCEDIMIENTO 928 937	palpación
-T41	PROCEDIMIENTO 979 1001	radiografía panorámica
+T31	PROCEDIMIENTO 3029 3064	se confeccionó una prótesis hibrida
+T32	PROCEDIMIENTO 1682 1689	cirugía
+T33	PROCEDIMIENTO 2080 2087	cirugía
+T34	SINTOMA 355 425	aumento de volumen que comprometía la zona de cuerpo y rama mandibular
+T35	SINTOMA 144 210	aumento de volumen indoloro en relación a cuerpo y rama mandibular
+T36	SINTOMA 560 580	compromiso sensitivo
+T37	SINTOMA 914 937	indoloro a la palpación
+T38	SINTOMA 1027 1064	lesión mixta de predominio radioopaco
+T39	SINTOMA 1532 1570	adelgazamiento de las corticales óseas
+T40	SINTOMA 488 509	compromiso de la piel
+T41	SINTOMA 595 633	examen funcional mandibular era normal

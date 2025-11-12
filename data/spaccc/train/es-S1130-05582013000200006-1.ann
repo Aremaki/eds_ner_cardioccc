@@ -1,40 +1,40 @@
-T1	SINTOMA 1153 1193	lesión hipermetabólica a nivel parotídeo
-T2	SINTOMA 271 282	p T3b Nx M1
-T3	SINTOMA 897 925	tumoración a nivel parotídeo
-T4	SINTOMA 1057 1079	tumoración metastásica
-T5	SINTOMA 633 653	tumoración parotídea
-T6	SINTOMA 1465 1469	masa
-T7	SINTOMA 193 201	falleció
-T8	ENFERMEDAD 254 269	carcinoma renal
-T9	ENFERMEDAD 1911 1949	seroma a nivel de la herida quirúrgica
-T10	ENFERMEDAD 1153 1193	lesión hipermetabólica a nivel parotídeo
-T11	ENFERMEDAD 80 105	alérgico a claritromicina
-T12	ENFERMEDAD 1528 1577	metástasis de carcinoma de células claras renales
-T13	ENFERMEDAD 326 362	metástasis suprarrenales bilaterales
-T14	ENFERMEDAD 115 132	esófago de Barret
-T15	ENFERMEDAD 134 150	temblor esencial
-T16	ENFERMEDAD 1217 1236	proceso metastásico
-T17	ENFERMEDAD 747 776	metástasis de carcinoma renal
-T18	ENFERMEDAD 156 182	anemia ferropénica crónica
-T19	ENFERMEDAD 210 225	carcinoma renal
-T20	ENFERMEDAD 581 602	lesiones metastásicas
-T21	ENFERMEDAD 2077 2084	heridas
-T22	ENFERMEDAD 364 399	lesión metastásica a nivel pulmonar
-T23	ENFERMEDAD 1285 1292	tumores
-T24	ENFERMEDAD 280 282	M1
-T25	ENFERMEDAD 1390 1428	afectación de ambos lóbulos parotídeos
-T26	PROCEDIMIENTO 1085 1121	tomografía por emisión de positrones
-T27	PROCEDIMIENTO 1123 1126	PET
-T28	PROCEDIMIENTO 1355 1377	parotidectomía radical
-T29	PROCEDIMIENTO 1434 1453	anatomía patológica
-T30	PROCEDIMIENTO 1494 1512	inmunohistoquímico
-T31	PROCEDIMIENTO 1825 1852	radioterapia postoperatoria
-T32	PROCEDIMIENTO 433 452	nefrectomía derecha
-T33	PROCEDIMIENTO 455 483	suprarrenalectomía izquierda
-T34	PROCEDIMIENTO 508 551	ensayo clínico con interferón y bevacizumab
-T35	PROCEDIMIENTO 633 731	tumoración parotídea se realiza una punción -aspiración con aguja fina (PAAF) guiada por ecografía
-T36	PROCEDIMIENTO 705 709	PAAF
-T37	PROCEDIMIENTO 722 731	ecografía
-T38	PROCEDIMIENTO 783 806	estudio de la extensión
-T39	PROCEDIMIENTO 835 869	resonancia magnética (RM) cervical
-T40	PROCEDIMIENTO 857 859	RM
+T1	ENFERMEDAD 254 269	carcinoma renal
+T2	ENFERMEDAD 1911 1949	seroma a nivel de la herida quirúrgica
+T3	ENFERMEDAD 1153 1193	lesión hipermetabólica a nivel parotídeo
+T4	ENFERMEDAD 80 105	alérgico a claritromicina
+T5	ENFERMEDAD 1528 1577	metástasis de carcinoma de células claras renales
+T6	ENFERMEDAD 326 362	metástasis suprarrenales bilaterales
+T7	ENFERMEDAD 115 132	esófago de Barret
+T8	ENFERMEDAD 134 150	temblor esencial
+T9	ENFERMEDAD 1217 1236	proceso metastásico
+T10	ENFERMEDAD 747 776	metástasis de carcinoma renal
+T11	ENFERMEDAD 156 182	anemia ferropénica crónica
+T12	ENFERMEDAD 210 225	carcinoma renal
+T13	ENFERMEDAD 581 602	lesiones metastásicas
+T14	ENFERMEDAD 2077 2084	heridas
+T15	ENFERMEDAD 364 399	lesión metastásica a nivel pulmonar
+T16	ENFERMEDAD 1285 1292	tumores
+T17	ENFERMEDAD 280 282	M1
+T18	ENFERMEDAD 1390 1428	afectación de ambos lóbulos parotídeos
+T19	PROCEDIMIENTO 1085 1121	tomografía por emisión de positrones
+T20	PROCEDIMIENTO 1123 1126	PET
+T21	PROCEDIMIENTO 835 869	resonancia magnética (RM) cervical
+T22	PROCEDIMIENTO 633 731	tumoración parotídea se realiza una punción -aspiración con aguja fina (PAAF) guiada por ecografía
+T23	PROCEDIMIENTO 857 859	RM
+T24	PROCEDIMIENTO 705 709	PAAF
+T25	PROCEDIMIENTO 1355 1377	parotidectomía radical
+T26	PROCEDIMIENTO 722 731	ecografía
+T27	PROCEDIMIENTO 433 452	nefrectomía derecha
+T28	PROCEDIMIENTO 455 483	suprarrenalectomía izquierda
+T29	PROCEDIMIENTO 508 551	ensayo clínico con interferón y bevacizumab
+T30	PROCEDIMIENTO 1825 1852	radioterapia postoperatoria
+T31	PROCEDIMIENTO 1434 1453	anatomía patológica
+T32	PROCEDIMIENTO 783 806	estudio de la extensión
+T33	PROCEDIMIENTO 1494 1512	inmunohistoquímico
+T34	SINTOMA 1153 1193	lesión hipermetabólica a nivel parotídeo
+T35	SINTOMA 633 653	tumoración parotídea
+T36	SINTOMA 271 282	p T3b Nx M1
+T37	SINTOMA 897 925	tumoración a nivel parotídeo
+T38	SINTOMA 1057 1079	tumoración metastásica
+T39	SINTOMA 1465 1469	masa
+T40	SINTOMA 193 201	falleció

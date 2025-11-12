@@ -1,14 +1,23 @@
-T1	SINTOMA 738 759	captaciones múltiples
-T2	SINTOMA 651 666	derrame pleural
-T3	SINTOMA 460 477	disnea progresiva
-T4	SINTOMA 445 457	dolor dorsal
-T5	SINTOMA 1056 1072	dolores dorsales
-T6	SINTOMA 1743 1751	Falleció
-T7	SINTOMA 819 863	nódulo que sobresalía sobre el lecho mamario
-T8	SINTOMA 49 70	tumoración en la mama
-T9	ENFERMEDAD 543 563	adenopatías axilares
-T10	ENFERMEDAD 543 583	adenopatías axilares y supraclaviculares
-T11	ENFERMEDAD 651 666	derrame pleural
-T12	ENFERMEDAD 682 707	linfangitis carcinomatosa
-T13	ENFERMEDAD 897 925	carcinoma ductal infiltrante
-T14	ENFERMEDAD 1424 1435	adenopatías
+T1	ENFERMEDAD 543 563	adenopatías axilares
+T2	ENFERMEDAD 543 583	adenopatías axilares y supraclaviculares
+T3	ENFERMEDAD 651 666	derrame pleural
+T4	ENFERMEDAD 682 707	linfangitis carcinomatosa
+T5	ENFERMEDAD 897 925	carcinoma ductal infiltrante
+T6	ENFERMEDAD 1424 1435	adenopatías
+T7	PROCEDIMIENTO 605 625	radiografía de tórax
+T8	PROCEDIMIENTO 712 728	gammagrafía ósea
+T9	PROCEDIMIENTO 805 863	punción de un nódulo que sobresalía sobre el lecho mamario
+T10	PROCEDIMIENTO 868 877	citología
+T11	PROCEDIMIENTO 1108 1117	analgesia
+T12	PROCEDIMIENTO 1186 1197	analgésicos
+T13	PROCEDIMIENTO 1495 1506	gammagrafía
+T14	PROCEDIMIENTO 1721 1741	tratamiento hormonal
+T15	SINTOMA 49 70	tumoración en la mama
+T16	SINTOMA 445 457	dolor dorsal
+T17	SINTOMA 460 477	disnea progresiva
+T18	SINTOMA 1056 1072	dolores dorsales
+T19	SINTOMA 738 759	captaciones múltiples
+T20	SINTOMA 1527 1565	atenuación de las zonas hipercaptantes
+T21	SINTOMA 1743 1751	Falleció
+T22	SINTOMA 819 863	nódulo que sobresalía sobre el lecho mamario
+T23	SINTOMA 651 666	derrame pleural

@@ -1,18 +1,48 @@
-T1	SINTOMA 1573 1598	AV de movimiento de manos
-T2	SINTOMA 644 662	conjuntiva íntegra
-T3	SINTOMA 1716 1741	corectopia nasal superior
-T4	SINTOMA 698 727	córnea íntegra y transparente
-T5	SINTOMA 1695 1714	córnea transparente
-T6	SINTOMA 1073 1091	cristalino íntegro
-T7	SINTOMA 1310 1331	cristalino prolapsado
-T8	SINTOMA 1412 1433	cristalino prolapsado
-T9	SINTOMA 607 632	edema en párpado superior
-T10	SINTOMA 730 736	hipema
-T11	SINTOMA 1182 1205	hiposfagma generalizado
-T12	SINTOMA 813 829	hipotonía del OI
-T13	SINTOMA 1248 1282	masa subconjuntival nasal superior
-T14	SINTOMA 1834 1852	opacidad de medios
-T15	SINTOMA 1746 1772	pérdida de tejido iridiano
-T16	SINTOMA 1136 1156	quemosis conjuntival
-T17	SINTOMA 667 696	quemosis intensa generalizada
-T18	SINTOMA 1865 1902	retina in situ en la ecografia modo B
+T1	ENFERMEDAD 1136 1156	quemosis conjuntival
+T2	ENFERMEDAD 255 269	ametropía leve
+T3	ENFERMEDAD 1182 1192	hiposfagma
+T4	ENFERMEDAD 294 318	diabetes mellitus tipo 2
+T5	ENFERMEDAD 78 154	traumatismo contuso casual en su domicilio, de moderada intensidad en el ojo
+T6	ENFERMEDAD 984 1032	herida incisa escleral paralimbar nasal superior
+T7	ENFERMEDAD 1310 1331	cristalino prolapsado
+T8	ENFERMEDAD 1073 1131	cristalino íntegro prolapsado en el espacio subconjuntival
+T9	ENFERMEDAD 667 675	quemosis
+T10	ENFERMEDAD 730 736	hipema
+T11	ENFERMEDAD 596 604	hematoma
+T12	ENFERMEDAD 1448 1463	herida escleral
+T13	PROCEDIMIENTO 903 927	tomografía computarizada
+T14	PROCEDIMIENTO 1378 1387	peritomía
+T15	PROCEDIMIENTO 1953 1979	vitrectomía vía pars plana
+T16	PROCEDIMIENTO 930 950	resonancia magnética
+T17	PROCEDIMIENTO 1397 1433	extracción del cristalino prolapsado
+T18	PROCEDIMIENTO 1982 2018	sutura de lente intraocular a sulcus
+T19	PROCEDIMIENTO 1435 1463	sutura de la herida escleral
+T20	PROCEDIMIENTO 338 359	antidiabéticos orales
+T21	PROCEDIMIENTO 546 582	exploración con lámpara de hendidura
+T22	PROCEDIMIENTO 1661 1681	lámpara de hendidura
+T23	PROCEDIMIENTO 1482 1517	antibioterapia intravenosa y tópica
+T24	PROCEDIMIENTO 1796 1808	fondo de ojo
+T25	PROCEDIMIENTO 1886 1902	ecografia modo B
+T26	PROCEDIMIENTO 274 291	corrección óptica
+T27	PROCEDIMIENTO 521 532	estenopeico
+T28	PROCEDIMIENTO 1542 1549	cirugía
+T29	PROCEDIMIENTO 1932 1939	cirugía
+T30	PROCEDIMIENTO 884 901	pruebas de imagen
+T31	SINTOMA 1248 1282	masa subconjuntival nasal superior
+T32	SINTOMA 1716 1741	corectopia nasal superior
+T33	SINTOMA 1746 1772	pérdida de tejido iridiano
+T34	SINTOMA 698 727	córnea íntegra y transparente
+T35	SINTOMA 813 829	hipotonía del OI
+T36	SINTOMA 1695 1714	córnea transparente
+T37	SINTOMA 1136 1156	quemosis conjuntival
+T38	SINTOMA 644 662	conjuntiva íntegra
+T39	SINTOMA 607 632	edema en párpado superior
+T40	SINTOMA 1834 1852	opacidad de medios
+T41	SINTOMA 667 696	quemosis intensa generalizada
+T42	SINTOMA 730 736	hipema
+T43	SINTOMA 1073 1091	cristalino íntegro
+T44	SINTOMA 1182 1205	hiposfagma generalizado
+T45	SINTOMA 1310 1331	cristalino prolapsado
+T46	SINTOMA 1412 1433	cristalino prolapsado
+T47	SINTOMA 1573 1598	AV de movimiento de manos
+T48	SINTOMA 1865 1902	retina in situ en la ecografia modo B

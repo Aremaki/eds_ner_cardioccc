@@ -1,11 +1,31 @@
-T1	SINTOMA 1920 1932	asintomática
-T2	SINTOMA 270 289	congestión moderada
-T3	SINTOMA 431 483	defecto de repleción con pérdida de pliegues mucosos
-T4	SINTOMA 21 30	dispepsia
-T5	SINTOMA 884 925	PAAF: celulariad epitelial sin malignidad
-T6	SINTOMA 500 510	tumoración
-T7	ENFERMEDAD 132 216	lesión submucosa de 1 cm de diámetro, localizada en cara posterior de antro gástrico
-T8	ENFERMEDAD 856 867	adenopatías
-T9	ENFERMEDAD 771 803	tumor del estroma tipo leiomioma
-T10	ENFERMEDAD 231 241	ulceración
-T11	ENFERMEDAD 794 803	leiomioma
+T1	ENFERMEDAD 132 216	lesión submucosa de 1 cm de diámetro, localizada en cara posterior de antro gástrico
+T2	ENFERMEDAD 856 867	adenopatías
+T3	ENFERMEDAD 771 803	tumor del estroma tipo leiomioma
+T4	ENFERMEDAD 231 241	ulceración
+T5	ENFERMEDAD 794 803	leiomioma
+T6	PROCEDIMIENTO 1133 1177	extirpación se realiza por vía laparoscópica
+T7	PROCEDIMIENTO 77 105	tratamiento médico-dietético
+T8	PROCEDIMIENTO 1217 1243	endoscopia intraoperatoria
+T9	PROCEDIMIENTO 110 120	endoscopia
+T10	PROCEDIMIENTO 1251 1274	tinción con tinta china
+T11	PROCEDIMIENTO 1642 1662	estudio microscópico
+T12	PROCEDIMIENTO 1311 1332	gastrostomía anterior
+T13	PROCEDIMIENTO 246 253	biopsia
+T14	PROCEDIMIENTO 1436 1498	se cierra la gastrostomía mediante una sutura continua de seda
+T15	PROCEDIMIENTO 344 369	tránsito gastrointestinal
+T16	PROCEDIMIENTO 371 374	TGI
+T17	PROCEDIMIENTO 384 408	tomografía computerizada
+T18	PROCEDIMIENTO 410 413	TAC
+T19	PROCEDIMIENTO 578 593	eco-endoscopias
+T20	PROCEDIMIENTO 595 597	EE
+T21	PROCEDIMIENTO 884 888	PAAF
+T22	PROCEDIMIENTO 1349 1387	resección con una endograpadora lineal
+T23	PROCEDIMIENTO 1106 1128	extirpación quirúrgica
+T24	PROCEDIMIENTO 816 827	ecográficos
+T25	PROCEDIMIENTO 1287 1294	cirugía
+T26	SINTOMA 21 30	dispepsia
+T27	SINTOMA 500 510	tumoración
+T28	SINTOMA 884 925	PAAF: celulariad epitelial sin malignidad
+T29	SINTOMA 1920 1932	asintomática
+T30	SINTOMA 270 289	congestión moderada
+T31	SINTOMA 431 483	defecto de repleción con pérdida de pliegues mucosos

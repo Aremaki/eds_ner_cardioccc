@@ -1,42 +1,43 @@
-T1	SINTOMA 1409 1426	ganancia ponderal
-T2	SINTOMA 1707 1713	edemas
-T3	SINTOMA 2858 2871	fallecimiento
-T4	SINTOMA 1716 1740	dificultad para respirar
-T5	SINTOMA 1118 1147	imposibilidad de ingesta oral
-T6	SINTOMA 1095 1115	vómitos incoercibles
-T7	ENFERMEDAD 34 50	cáncer de cervix
-T8	ENFERMEDAD 911 938	insuficiencia renal crónica
-T9	ENFERMEDAD 1196 1215	fístula suprapúbica
-T10	ENFERMEDAD 684 702	fístula intestinal
-T11	ENFERMEDAD 129 149	sigmoiditis actínica
-T12	ENFERMEDAD 737 774	cuadro comicial secundario a imipenem
-T13	ENFERMEDAD 152 174	obstrucción intestinal
-T14	ENFERMEDAD 2781 2814	shock séptico de origen abdominal
-T15	ENFERMEDAD 2817 2838	fracaso multiorgánico
-T16	ENFERMEDAD 494 515	abceso intrabadominal
-T17	ENFERMEDAD 518 540	fístula ureteroenteral
-T18	ENFERMEDAD 1462 1477	cuadro alérgico
-T19	PROCEDIMIENTO 1072 1074	NP
-T20	PROCEDIMIENTO 1236 1238	NP
-T21	PROCEDIMIENTO 1305 1328	intervención quirúrgica
-T22	PROCEDIMIENTO 1543 1554	Antibiótico
-T23	PROCEDIMIENTO 1594 1639	tratamiento con corticoides y antihistamínico
-T24	PROCEDIMIENTO 1777 1779	NP
-T25	PROCEDIMIENTO 1933 1935	NP
-T26	PROCEDIMIENTO 1950 1953	NPT
-T27	PROCEDIMIENTO 1978 1989	aminoácidos
-T28	PROCEDIMIENTO 2001 2013	electrolitos
-T29	PROCEDIMIENTO 211 244	resección intestinal a lo Hartman
-T30	PROCEDIMIENTO 2285 2308	lípidos a la parenteral
-T31	PROCEDIMIENTO 2399 2408	vitaminas
-T32	PROCEDIMIENTO 2411 2425	oligoelementos
-T33	PROCEDIMIENTO 2451 2453	NP
-T34	PROCEDIMIENTO 2523 2562	NP completa con macro y micronutrientes
-T35	PROCEDIMIENTO 262 284	colostomía de descarga
-T36	PROCEDIMIENTO 2649 2672	intervención quirúrgica
-T37	PROCEDIMIENTO 568 589	nefrostomía izquierda
-T38	PROCEDIMIENTO 630 679	resección ileocecal con anastomosis laterolateral
-T39	PROCEDIMIENTO 71 84	braquiterapia
-T40	PROCEDIMIENTO 817 855	soporte nutricional por vía parenteral
-T41	PROCEDIMIENTO 87 99	radioterapia
-T42	PROCEDIMIENTO 978 1031	tratamiento nutricional con dieta de protección renal
+T1	ENFERMEDAD 34 50	cáncer de cervix
+T2	ENFERMEDAD 911 938	insuficiencia renal crónica
+T3	ENFERMEDAD 1196 1215	fístula suprapúbica
+T4	ENFERMEDAD 684 702	fístula intestinal
+T5	ENFERMEDAD 129 149	sigmoiditis actínica
+T6	ENFERMEDAD 737 774	cuadro comicial secundario a imipenem
+T7	ENFERMEDAD 152 174	obstrucción intestinal
+T8	ENFERMEDAD 2781 2814	shock séptico de origen abdominal
+T9	ENFERMEDAD 2817 2838	fracaso multiorgánico
+T10	ENFERMEDAD 494 515	abceso intrabadominal
+T11	ENFERMEDAD 518 540	fístula ureteroenteral
+T12	ENFERMEDAD 1462 1477	cuadro alérgico
+T13	PROCEDIMIENTO 2451 2453	NP
+T14	PROCEDIMIENTO 1950 1953	NPT
+T15	PROCEDIMIENTO 630 679	resección ileocecal con anastomosis laterolateral
+T16	PROCEDIMIENTO 71 84	braquiterapia
+T17	PROCEDIMIENTO 2523 2562	NP completa con macro y micronutrientes
+T18	PROCEDIMIENTO 1236 1238	NP
+T19	PROCEDIMIENTO 87 99	radioterapia
+T20	PROCEDIMIENTO 978 1031	tratamiento nutricional con dieta de protección renal
+T21	PROCEDIMIENTO 1072 1074	NP
+T22	PROCEDIMIENTO 211 244	resección intestinal a lo Hartman
+T23	PROCEDIMIENTO 817 855	soporte nutricional por vía parenteral
+T24	PROCEDIMIENTO 1594 1639	tratamiento con corticoides y antihistamínico
+T25	PROCEDIMIENTO 568 589	nefrostomía izquierda
+T26	PROCEDIMIENTO 1777 1779	NP
+T27	PROCEDIMIENTO 1933 1935	NP
+T28	PROCEDIMIENTO 1543 1554	Antibiótico
+T29	PROCEDIMIENTO 262 284	colostomía de descarga
+T30	PROCEDIMIENTO 2001 2013	electrolitos
+T31	PROCEDIMIENTO 1305 1328	intervención quirúrgica
+T32	PROCEDIMIENTO 2649 2672	intervención quirúrgica
+T33	PROCEDIMIENTO 2285 2308	lípidos a la parenteral
+T34	PROCEDIMIENTO 2411 2425	oligoelementos
+T35	PROCEDIMIENTO 1978 1989	aminoácidos
+T36	PROCEDIMIENTO 2399 2408	vitaminas
+T37	SINTOMA 1095 1115	vómitos incoercibles
+T38	SINTOMA 1118 1147	imposibilidad de ingesta oral
+T39	SINTOMA 1409 1426	ganancia ponderal
+T40	SINTOMA 1462 1510	cuadro alérgico que inicia con eritema y prurito
+T41	SINTOMA 1707 1713	edemas
+T42	SINTOMA 1716 1740	dificultad para respirar
+T43	SINTOMA 2858 2871	fallecimiento

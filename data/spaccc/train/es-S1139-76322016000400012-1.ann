@@ -1,10 +1,34 @@
-T1	SINTOMA 1508 1563	estudio analítico (hemograma y química), que fue normal
-T2	SINTOMA 851 907	mácula acrómica de forma triangular en la región frontal
-T3	SINTOMA 551 603	manchas acrómicas en el tercio medio de ambos muslos
-T4	SINTOMA 815 844	mechón de pelo blanco frontal
-T5	SINTOMA 415 449	Otoemisiones correctas bilaterales
-T6	SINTOMA 1343 1394	potenciales evocados auditivos, que fueron normales
-T7	SINTOMA 1453 1474	riñón derecho pélvico
-T8	SINTOMA 736 776	ritmo intestinal y diuresis son normales
-T9	SINTOMA 719 731	asintomática
-T10	SINTOMA 528 532	sano
+T1	ENFERMEDAD 1060 1071	piebaldismo
+T2	ENFERMEDAD 1453 1474	riñón derecho pélvico
+T3	ENFERMEDAD 81 102	riñón derecho pélvico
+T4	ENFERMEDAD 108 150	mechón blanco de pelo en la región frontal
+T5	ENFERMEDAD 1146 1170	anomalías oftalmológicas
+T6	ENFERMEDAD 278 299	riñón derecho pélvico
+T7	ENFERMEDAD 1174 1181	sordera
+T8	ENFERMEDAD 1677 1704	heterocigosis en el gen KIT
+T9	ENFERMEDAD 1249 1260	piebaldismo
+T10	ENFERMEDAD 1309 1326	lesiones oculares
+T11	ENFERMEDAD 924 941	lesiones cutáneas
+T12	ENFERMEDAD 551 603	manchas acrómicas en el tercio medio de ambos muslos
+T13	ENFERMEDAD 815 844	mechón de pelo blanco frontal
+T14	ENFERMEDAD 851 907	mácula acrómica de forma triangular en la región frontal
+T15	PROCEDIMIENTO 1402 1421	ecografía abdominal
+T16	PROCEDIMIENTO 1527 1536	hemograma
+T17	PROCEDIMIENTO 1567 1609	estudio genético para mutación del gen KIT
+T18	PROCEDIMIENTO 784 802	exploración física
+T19	PROCEDIMIENTO 245 255	ecografías
+T20	PROCEDIMIENTO 301 329	Parto vaginal, instrumentado
+T21	PROCEDIMIENTO 1269 1293	valoración oftalmológica
+T22	PROCEDIMIENTO 1343 1373	potenciales evocados auditivos
+T23	PROCEDIMIENTO 1508 1525	estudio analítico
+T24	PROCEDIMIENTO 958 969	exploración
+T25	SINTOMA 815 844	mechón de pelo blanco frontal
+T26	SINTOMA 851 907	mácula acrómica de forma triangular en la región frontal
+T27	SINTOMA 719 731	asintomática
+T28	SINTOMA 736 776	ritmo intestinal y diuresis son normales
+T29	SINTOMA 551 603	manchas acrómicas en el tercio medio de ambos muslos
+T30	SINTOMA 1343 1394	potenciales evocados auditivos, que fueron normales
+T31	SINTOMA 1508 1563	estudio analítico (hemograma y química), que fue normal
+T32	SINTOMA 415 449	Otoemisiones correctas bilaterales
+T33	SINTOMA 1453 1474	riñón derecho pélvico
+T34	SINTOMA 528 532	sano

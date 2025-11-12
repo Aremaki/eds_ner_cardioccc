@@ -1,10 +1,20 @@
-T1	SINTOMA 1191 1216	alteraciones neurológicas
-T2	SINTOMA 1167 1189	depresión respiratoria
-T3	SINTOMA 1106 1116	consciente
-T4	SINTOMA 1119 1128	orientada
-T5	SINTOMA 1511 1518	estable
-T6	ENFERMEDAD 61 71	DM tipo II
-T7	ENFERMEDAD 148 151	HTA
-T8	ENFERMEDAD 1167 1189	depresión respiratoria
-T9	ENFERMEDAD 169 174	obesa
-T10	ENFERMEDAD 132 146	polineuropatía
+T1	ENFERMEDAD 61 71	DM tipo II
+T2	ENFERMEDAD 148 151	HTA
+T3	ENFERMEDAD 1167 1189	depresión respiratoria
+T4	ENFERMEDAD 169 174	obesa
+T5	ENFERMEDAD 132 146	polineuropatía
+T6	PROCEDIMIENTO 197 211	cirugía de PTR
+T7	PROCEDIMIENTO 213 238	prótesis total de rodilla
+T8	PROCEDIMIENTO 367 400	epidural/intradural a nivel L3-L4
+T9	PROCEDIMIENTO 478 493	vasoconstrictor
+T10	PROCEDIMIENTO 496 562	se dejó colocado un catéter epidural para analgesia postoperatoria
+T11	PROCEDIMIENTO 638 657	PCAE (PCA epidural)
+T12	PROCEDIMIENTO 840 843	PCA
+T13	PROCEDIMIENTO 868 906	administrando por vía epidural una PCA
+T14	PROCEDIMIENTO 1330 1362	Se retira dicha PCA y el catéter
+T15	PROCEDIMIENTO 1143 1152	analgesia
+T16	SINTOMA 1191 1216	alteraciones neurológicas
+T17	SINTOMA 1106 1116	consciente
+T18	SINTOMA 1119 1128	orientada
+T19	SINTOMA 1167 1189	depresión respiratoria
+T20	SINTOMA 1511 1518	estable

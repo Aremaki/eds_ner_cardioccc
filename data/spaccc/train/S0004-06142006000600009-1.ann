@@ -1,14 +1,20 @@
-T1	SINTOMA 57 82	dolor en flanco izquierdo
-T2	SINTOMA 182 208	masa a nivel de fosa renal
-T3	SINTOMA 87 137	puñopercusión en fosa renal izquierda fue positiva
-T4	SINTOMA 45 54	hematuria
-T5	ENFERMEDAD 949 958	neoplasia
-T6	ENFERMEDAD 1168 1189	osteo y condrosarcoma
-T7	ENFERMEDAD 1655 1692	tumor contactaba con la cápsula renal
-T8	ENFERMEDAD 1900 1927	carcinoma de células claras
-T9	ENFERMEDAD 1965 1974	neoplasia
-T10	ENFERMEDAD 2191 2219	carcinoma sarcomatoide renal
-T11	ENFERMEDAD 2283 2304	osteo y condrosarcoma
-T12	ENFERMEDAD 2354 2431	carcinoma con patrón de células claras y de áreas con diferenciación escamosa
-T13	ENFERMEDAD 436 442	lesión
-T14	ENFERMEDAD 1711 1787	invadiendo estructuras vasculares del hilio y el tejido adiposo de la pelvis
+T1	ENFERMEDAD 949 958	neoplasia
+T2	ENFERMEDAD 1168 1189	osteo y condrosarcoma
+T3	ENFERMEDAD 1655 1692	tumor contactaba con la cápsula renal
+T4	ENFERMEDAD 1900 1927	carcinoma de células claras
+T5	ENFERMEDAD 1965 1974	neoplasia
+T6	ENFERMEDAD 2191 2219	carcinoma sarcomatoide renal
+T7	ENFERMEDAD 2283 2304	osteo y condrosarcoma
+T8	ENFERMEDAD 2354 2431	carcinoma con patrón de células claras y de áreas con diferenciación escamosa
+T9	ENFERMEDAD 436 442	lesión
+T10	ENFERMEDAD 1711 1787	invadiendo estructuras vasculares del hilio y el tejido adiposo de la pelvis
+T11	PROCEDIMIENTO 916 935	estudio histológico
+T12	PROCEDIMIENTO 1932 1958	estudio inmunohistoquímico
+T13	PROCEDIMIENTO 298 336	nefrectomía con ureterectomía proximal
+T14	PROCEDIMIENTO 353 364	nefrectomía
+T15	PROCEDIMIENTO 87 124	puñopercusión en fosa renal izquierda
+T16	PROCEDIMIENTO 148 166	técnicas de imagen
+T17	SINTOMA 57 82	dolor en flanco izquierdo
+T18	SINTOMA 45 54	hematuria
+T19	SINTOMA 182 208	masa a nivel de fosa renal
+T20	SINTOMA 87 137	puñopercusión en fosa renal izquierda fue positiva

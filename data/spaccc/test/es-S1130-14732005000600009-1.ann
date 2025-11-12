@@ -1,24 +1,24 @@
-T1	SINTOMA 1587 1597	hemorragia
-T2	SINTOMA 1932 1944	asintomático
-T3	SINTOMA 354 359	dolor
-T4	SINTOMA 92 133	adormecimiento de piernas con parestesias
-T5	SINTOMA 738 816	colección polilobulada, intrarraquídea, extradural que comprimía el saco dural
-T6	SINTOMA 159 184	dificultad para la marcha
-T7	SINTOMA 43 90	dolor e impotencia en ambos miembros inferiores
-T8	SINTOMA 321 349	dolor en miembros inferiores
-T9	SINTOMA 579 597	dolores de espalda
-T10	ENFERMEDAD 620 645	hernia inguinal bilateral
-T11	ENFERMEDAD 1022 1043	malformación vascular
-T12	ENFERMEDAD 872 893	quiste sinovial L2-L3
-T13	ENFERMEDAD 1691 1699	lesiones
+T1	ENFERMEDAD 620 645	hernia inguinal bilateral
+T2	ENFERMEDAD 1022 1043	malformación vascular
+T3	ENFERMEDAD 872 893	quiste sinovial L2-L3
+T4	ENFERMEDAD 1691 1699	lesiones
+T5	PROCEDIMIENTO 1399 1418	Anatomía patológica
+T6	PROCEDIMIENTO 1433 1452	Anatomía Patológica
+T7	PROCEDIMIENTO 1073 1103	laminectomía desde L4 hasta L2
+T8	PROCEDIMIENTO 701 721	Resonancia Magnética
+T9	PROCEDIMIENTO 960 970	Resonancia
+T10	PROCEDIMIENTO 663 680	anestesia general
+T11	PROCEDIMIENTO 1329 1358	descomprimiendo el saco dural
+T12	PROCEDIMIENTO 910 929	angiografía espinal
+T13	PROCEDIMIENTO 604 645	intervención de hernia inguinal bilateral
 T14	PROCEDIMIENTO 1045 1057	Intervención
-T15	PROCEDIMIENTO 1073 1103	laminectomía desde L4 hasta L2
-T16	PROCEDIMIENTO 1329 1358	descomprimiendo el saco dural
-T17	PROCEDIMIENTO 1399 1418	Anatomía patológica
-T18	PROCEDIMIENTO 1433 1452	Anatomía Patológica
-T19	PROCEDIMIENTO 604 645	intervención de hernia inguinal bilateral
-T20	PROCEDIMIENTO 663 680	anestesia general
-T21	PROCEDIMIENTO 701 721	Resonancia Magnética
-T22	PROCEDIMIENTO 910 929	angiografía espinal
-T23	PROCEDIMIENTO 960 970	Resonancia
-T24	PROCEDIMIENTO 980 995	acto quirúrgico
+T15	PROCEDIMIENTO 980 995	acto quirúrgico
+T16	SINTOMA 43 90	dolor e impotencia en ambos miembros inferiores
+T17	SINTOMA 579 597	dolores de espalda
+T18	SINTOMA 92 133	adormecimiento de piernas con parestesias
+T19	SINTOMA 159 184	dificultad para la marcha
+T20	SINTOMA 1587 1597	hemorragia
+T21	SINTOMA 321 349	dolor en miembros inferiores
+T22	SINTOMA 1932 1944	asintomático
+T23	SINTOMA 354 359	dolor
+T24	SINTOMA 738 816	colección polilobulada, intrarraquídea, extradural que comprimía el saco dural

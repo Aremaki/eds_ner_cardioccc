@@ -1,40 +1,79 @@
-T1	SINTOMA 2417 2438	aumento de globulinas
-T2	SINTOMA 473 488	clínica péptica
-T3	SINTOMA 2440 2460	descenso de albúmina
-T4	SINTOMA 2463 2514	elavación de la velocidad de sedimentación globular
-T5	SINTOMA 2531 2577	estudio de sangre oculta en heces fue positivo
-T6	SINTOMA 811 819	eupnéico
-T7	SINTOMA 841 898	exploración de cabeza, cuello, tórax y abdomen era normal
-T8	SINTOMA 778 793	hábito asténico
-T9	SINTOMA 2356 2400	índice de distribución eritrocitaria elevado
-T10	SINTOMA 1805 1834	mantoux, que resultó positivo
-T11	SINTOMA 3720 3745	nódulos extraperitoneales
-T12	SINTOMA 599 620	pirosis retroesternal
-T13	SINTOMA 707 737	sensación de plenitud gástrica
-T14	SINTOMA 112 181	sensación descrita por el paciente: como si se le "cerrara el píloro"
-T15	SINTOMA 1847 1894	Ziehl de esputo y orina repetidamente negativos
-T16	SINTOMA 60 68	tos seca
-T17	SINTOMA 802 809	afebril
-T18	SINTOMA 1529 1532	tos
-T19	SINTOMA 1570 1585	pérdida de peso
-T20	SINTOMA 3005 3012	astenia
-T21	SINTOMA 3194 3214	tumoración abdominal
-T22	SINTOMA 3612 3622	tumoración
-T23	SINTOMA 822 836	normocoloreado
-T24	SINTOMA 2402 2415	trombocitosis
-T25	SINTOMA 4264 4277	fallecimiento
-T26	SINTOMA 245 251	muerte
-T27	ENFERMEDAD 279 291	tuberculosis
-T28	ENFERMEDAD 339 352	poliomielitis
-T29	ENFERMEDAD 382 438	secuela una leve deformidad en ambos miembros inferiores
-T30	ENFERMEDAD 440 454	ulcus duodenal
-T31	ENFERMEDAD 532 541	Exfumador
-T32	ENFERMEDAD 1367 1376	sinusitis
-T33	ENFERMEDAD 1722 1752	patología pulmonar y digestiva
-T34	ENFERMEDAD 2299 2351	anemia leve (Hb: 11,7 g/dl) normocítica normocrómica
-T35	ENFERMEDAD 2802 2825	diverticulosis colónica
-T36	ENFERMEDAD 2849 2868	patología digestiva
-T37	ENFERMEDAD 3377 3404	úlcera gástrica prepilórica
-T38	ENFERMEDAD 3884 3923	sarcoma fusocelular de grado intermedio
-T39	ENFERMEDAD 3953 4001	sarcoma del estroma de la pared gastrointestinal
-T40	ENFERMEDAD 293 295	TB
+T1	ENFERMEDAD 279 291	tuberculosis
+T2	ENFERMEDAD 339 352	poliomielitis
+T3	ENFERMEDAD 382 438	secuela una leve deformidad en ambos miembros inferiores
+T4	ENFERMEDAD 440 454	ulcus duodenal
+T5	ENFERMEDAD 532 541	Exfumador
+T6	ENFERMEDAD 1367 1376	sinusitis
+T7	ENFERMEDAD 1722 1752	patología pulmonar y digestiva
+T8	ENFERMEDAD 2299 2351	anemia leve (Hb: 11,7 g/dl) normocítica normocrómica
+T9	ENFERMEDAD 2802 2825	diverticulosis colónica
+T10	ENFERMEDAD 2849 2868	patología digestiva
+T11	ENFERMEDAD 3377 3404	úlcera gástrica prepilórica
+T12	ENFERMEDAD 3884 3923	sarcoma fusocelular de grado intermedio
+T13	ENFERMEDAD 3953 4001	sarcoma del estroma de la pared gastrointestinal
+T14	ENFERMEDAD 293 295	TB
+T15	PROCEDIMIENTO 501 522	herniorrafia inguinal
+T16	PROCEDIMIENTO 568 577	anamnesis
+T17	PROCEDIMIENTO 745 763	exploración física
+T18	PROCEDIMIENTO 841 887	exploración de cabeza, cuello, tórax y abdomen
+T19	PROCEDIMIENTO 969 978	hemograma
+T20	PROCEDIMIENTO 995 1020	radiografía (Rx) de tórax
+T21	PROCEDIMIENTO 1296 1319	Rx de senos paranasales
+T22	PROCEDIMIENTO 1681 1711	test de sangre oculta en heces
+T23	PROCEDIMIENTO 1805 1812	mantoux
+T24	PROCEDIMIENTO 1847 1870	Ziehl de esputo y orina
+T25	PROCEDIMIENTO 1896 1921	gasometría arterial basal
+T26	PROCEDIMIENTO 1923 1950	pruebas de función pulmonar
+T27	PROCEDIMIENTO 1959 1993	test de provocación con metacolina
+T28	PROCEDIMIENTO 1995 2012	fibrobroncoscopia
+T29	PROCEDIMIENTO 2014 2054	tomografía computadorizada (TC) torácica
+T30	PROCEDIMIENTO 2042 2044	TC
+T31	PROCEDIMIENTO 2136 2153	broncodilatadores
+T32	PROCEDIMIENTO 2531 2564	estudio de sangre oculta en heces
+T33	PROCEDIMIENTO 2714 2726	colonoscopia
+T34	PROCEDIMIENTO 2732 2743	enema opaco
+T35	PROCEDIMIENTO 3151 3163	TC abdominal
+T36	PROCEDIMIENTO 3307 3319	gastroscopia
+T37	PROCEDIMIENTO 3322 3329	biopsia
+T38	PROCEDIMIENTO 3343 3361	panendoscopia oral
+T39	PROCEDIMIENTO 3495 3502	biopsia
+T40	PROCEDIMIENTO 3565 3588	laparotomía exploradora
+T41	PROCEDIMIENTO 3787 3794	biopsia
+T42	PROCEDIMIENTO 3812 3855	gastrectomía parcial con gastroyeyunostomía
+T43	PROCEDIMIENTO 3860 3867	biopsia
+T44	PROCEDIMIENTO 4208 4229	tratamiento paliativo
+T45	PROCEDIMIENTO 3459 3478	anatomía patológica
+T46	PROCEDIMIENTO 981 991	bioquímica
+T47	PROCEDIMIENTO 1952 1955	PFP
+T48	PROCEDIMIENTO 686 696	antiácidos
+T49	PROCEDIMIENTO 4092 4113	tratamiento adyuvante
+T50	PROCEDIMIENTO 951 960	analítica
+T51	PROCEDIMIENTO 1657 1666	analítica
+T52	PROCEDIMIENTO 1008 1010	Rx
+T53	PROCEDIMIENTO 3747 3794	Extirparon varios de estos nódulos para biopsia
+T54	SINTOMA 60 68	tos seca
+T55	SINTOMA 473 488	clínica péptica
+T56	SINTOMA 599 620	pirosis retroesternal
+T57	SINTOMA 707 737	sensación de plenitud gástrica
+T58	SINTOMA 778 793	hábito asténico
+T59	SINTOMA 802 809	afebril
+T60	SINTOMA 811 819	eupnéico
+T61	SINTOMA 1529 1532	tos
+T62	SINTOMA 1570 1585	pérdida de peso
+T63	SINTOMA 3005 3012	astenia
+T64	SINTOMA 3194 3214	tumoración abdominal
+T65	SINTOMA 3612 3622	tumoración
+T66	SINTOMA 3720 3745	nódulos extraperitoneales
+T67	SINTOMA 822 836	normocoloreado
+T68	SINTOMA 841 898	exploración de cabeza, cuello, tórax y abdomen era normal
+T69	SINTOMA 1805 1834	mantoux, que resultó positivo
+T70	SINTOMA 1847 1894	Ziehl de esputo y orina repetidamente negativos
+T71	SINTOMA 2417 2438	aumento de globulinas
+T72	SINTOMA 2440 2460	descenso de albúmina
+T73	SINTOMA 2463 2514	elavación de la velocidad de sedimentación globular
+T74	SINTOMA 2531 2577	estudio de sangre oculta en heces fue positivo
+T75	SINTOMA 2402 2415	trombocitosis
+T76	SINTOMA 112 181	sensación descrita por el paciente: como si se le "cerrara el píloro"
+T77	SINTOMA 2356 2400	índice de distribución eritrocitaria elevado
+T78	SINTOMA 4264 4277	fallecimiento
+T79	SINTOMA 245 251	muerte

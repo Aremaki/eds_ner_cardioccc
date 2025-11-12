@@ -1,35 +1,65 @@
-T1	SINTOMA 1803 1837	citología negativa para malignidad
-T2	SINTOMA 2086 2118	CRMP-5-IgG, que resultó positivo
-T3	SINTOMA 1296 1366	electrorretinograma y la resonancia magnética cerebral fueron normales
-T4	SINTOMA 1764 1791	ensanchamiento de la carina
-T5	SINTOMA 742 820	exploración neurológica, así como el hemograma y la bioquímica fueron normales
-T6	SINTOMA 279 292	fallecimiento
-T7	SINTOMA 1148 1172	hipercaptación en papila
-T8	SINTOMA 586 614	hiperemia de la papila de OD
-T9	SINTOMA 1674 1697	imagen de 3 cm en hilio
-T10	SINTOMA 865 902	leve engrosamiento del hilio pulmonar
-T11	SINTOMA 618 639	palidez papilar en OI
-T12	SINTOMA 29 79	pérdida de visión bilateral, progresiva e indolora
-T13	SINTOMA 2143 2168	positividad al CRMP-5-IgG
-T14	SINTOMA 1203 1245	potenciales evocados fueron normales en OD
-T15	SINTOMA 449 505	presión intraocular y el segmento anterior eran normales
-T16	SINTOMA 945 1017	punción lumbar únicamente mostró una discreta elevación de las proteínas
-T17	SINTOMA 1371 1444	serología, inmunología y marcadores tumorales habituales fueron negativos
-T18	SINTOMA 922 940	TAC craneal normal
-T19	SINTOMA 542 573	vitritis moderada en ambos ojos
-T20	ENFERMEDAD 2392 2423	carcinoma microcítico de pulmón
-T21	ENFERMEDAD 1596 1619	síndrome paraneoplásico
-T22	ENFERMEDAD 1268 1291	neuropatía axonal en OI
-T23	ENFERMEDAD 2468 2489	carcinoma microcítico
-T24	ENFERMEDAD 1692 1732	hilio derecho, compatible con adenopatía
-T25	ENFERMEDAD 255 262	fumador
-T26	ENFERMEDAD 311 329	neoplasia pulmonar
-T27	ENFERMEDAD 1896 1906	adenopatía
-T28	ENFERMEDAD 542 573	vitritis moderada en ambos ojos
-T29	ENFERMEDAD 704 713	papilitis
-T30	ENFERMEDAD 718 726	vitritis
-T31	ENFERMEDAD 2187 2195	neuritis
-T32	ENFERMEDAD 2255 2286	carcinoma microcítico de pulmón
-T33	ENFERMEDAD 704 736	papilitis con vitritis bilateral
-T34	ENFERMEDAD 1187 1197	vasculitis
-T35	ENFERMEDAD 29 56	pérdida de visión bilateral
+T1	ENFERMEDAD 2392 2423	carcinoma microcítico de pulmón
+T2	ENFERMEDAD 1596 1619	síndrome paraneoplásico
+T3	ENFERMEDAD 1268 1291	neuropatía axonal en OI
+T4	ENFERMEDAD 2468 2489	carcinoma microcítico
+T5	ENFERMEDAD 1692 1732	hilio derecho, compatible con adenopatía
+T6	ENFERMEDAD 255 262	fumador
+T7	ENFERMEDAD 311 329	neoplasia pulmonar
+T8	ENFERMEDAD 1896 1906	adenopatía
+T9	ENFERMEDAD 542 573	vitritis moderada en ambos ojos
+T10	ENFERMEDAD 704 713	papilitis
+T11	ENFERMEDAD 718 726	vitritis
+T12	ENFERMEDAD 2187 2195	neuritis
+T13	ENFERMEDAD 2255 2286	carcinoma microcítico de pulmón
+T14	ENFERMEDAD 704 736	papilitis con vitritis bilateral
+T15	ENFERMEDAD 1187 1197	vasculitis
+T16	ENFERMEDAD 29 56	pérdida de visión bilateral
+T17	PROCEDIMIENTO 742 765	exploración neurológica
+T18	PROCEDIMIENTO 1116 1138	angiofluoresceingrafía
+T19	PROCEDIMIENTO 2584 2607	tratamiento corticoideo
+T20	PROCEDIMIENTO 779 788	hemograma
+T21	PROCEDIMIENTO 2340 2343	PET
+T22	PROCEDIMIENTO 2355 2371	mediastinoscopia
+T23	PROCEDIMIENTO 828 848	radiografía de tórax
+T24	PROCEDIMIENTO 1203 1223	potenciales evocados
+T25	PROCEDIMIENTO 922 933	TAC craneal
+T26	PROCEDIMIENTO 1296 1315	electrorretinograma
+T27	PROCEDIMIENTO 1636 1656	TAC tóraco-abdominal
+T28	PROCEDIMIENTO 945 959	punción lumbar
+T29	PROCEDIMIENTO 1321 1350	resonancia magnética cerebral
+T30	PROCEDIMIENTO 2537 2543	quimio
+T31	PROCEDIMIENTO 2546 2558	radioterapia
+T32	PROCEDIMIENTO 1371 1380	serología
+T33	PROCEDIMIENTO 1737 1749	broncoscopia
+T34	PROCEDIMIENTO 337 362	exploración oftalmológica
+T35	PROCEDIMIENTO 1070 1090	bolos de corticoides
+T36	PROCEDIMIENTO 1093 1107	antiagregación
+T37	PROCEDIMIENTO 1870 1873	PET
+T38	PROCEDIMIENTO 1955 1971	mediastinoscopia
+T39	PROCEDIMIENTO 526 537	funduscopia
+T40	PROCEDIMIENTO 1981 2097	se extrajeron muestras de líquido cefalorraquídeo, plasma y humor acuoso para estudiar el autoanticuerpo CRMP-5-IgG,
+T41	PROCEDIMIENTO 1803 1812	citología
+T42	PROCEDIMIENTO 794 804	bioquímica
+T43	PROCEDIMIENTO 1382 1393	inmunología
+T44	PROCEDIMIENTO 1396 1416	marcadores tumorales
+T45	PROCEDIMIENTO 2823 2842	imagen funduscópica
+T46	PROCEDIMIENTO 449 468	presión intraocular
+T47	SINTOMA 29 79	pérdida de visión bilateral, progresiva e indolora
+T48	SINTOMA 1148 1172	hipercaptación en papila
+T49	SINTOMA 865 902	leve engrosamiento del hilio pulmonar
+T50	SINTOMA 1764 1791	ensanchamiento de la carina
+T51	SINTOMA 586 614	hiperemia de la papila de OD
+T52	SINTOMA 618 639	palidez papilar en OI
+T53	SINTOMA 1803 1837	citología negativa para malignidad
+T54	SINTOMA 742 820	exploración neurológica, así como el hemograma y la bioquímica fueron normales
+T55	SINTOMA 922 940	TAC craneal normal
+T56	SINTOMA 1203 1245	potenciales evocados fueron normales en OD
+T57	SINTOMA 1296 1366	electrorretinograma y la resonancia magnética cerebral fueron normales
+T58	SINTOMA 1371 1444	serología, inmunología y marcadores tumorales habituales fueron negativos
+T59	SINTOMA 279 292	fallecimiento
+T60	SINTOMA 449 505	presión intraocular y el segmento anterior eran normales
+T61	SINTOMA 1674 1697	imagen de 3 cm en hilio
+T62	SINTOMA 542 573	vitritis moderada en ambos ojos
+T63	SINTOMA 945 1017	punción lumbar únicamente mostró una discreta elevación de las proteínas
+T64	SINTOMA 2143 2168	positividad al CRMP-5-IgG
+T65	SINTOMA 2086 2118	CRMP-5-IgG, que resultó positivo

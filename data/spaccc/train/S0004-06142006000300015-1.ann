@@ -1,12 +1,17 @@
-T1	SINTOMA 109 130	sensación de malestar
-T2	SINTOMA 197 213	células atípicas
-T3	SINTOMA 85 94	hematuria
-T4	ENFERMEDAD 39 67	litiasis renal de repetición
-T5	ENFERMEDAD 85 106	hematuria recidivante
-T6	ENFERMEDAD 1790 1815	urotelial de la neoplasia
-T7	ENFERMEDAD 1876 1979	carcinoma de células transicionales de bajo grado, con intensa diferenciación mucinosa, de pelvis renal
-T8	ENFERMEDAD 1981 1998	carcinoma coloide
-T9	ENFERMEDAD 289 295	lesión
-T10	ENFERMEDAD 496 530	a nivel de pelvis renal una lesión
-T11	ENFERMEDAD 715 721	lesión
-T12	ENFERMEDAD 962 968	lesión
+T1	ENFERMEDAD 39 67	litiasis renal de repetición
+T2	ENFERMEDAD 85 106	hematuria recidivante
+T3	ENFERMEDAD 1790 1815	urotelial de la neoplasia
+T4	ENFERMEDAD 1876 1979	carcinoma de células transicionales de bajo grado, con intensa diferenciación mucinosa, de pelvis renal
+T5	ENFERMEDAD 1981 1998	carcinoma coloide
+T6	ENFERMEDAD 289 295	lesión
+T7	ENFERMEDAD 496 530	a nivel de pelvis renal una lesión
+T8	ENFERMEDAD 715 721	lesión
+T9	ENFERMEDAD 962 968	lesión
+T10	PROCEDIMIENTO 135 171	estudio citológico seriado de orinas
+T11	PROCEDIMIENTO 926 945	estudio histológico
+T12	PROCEDIMIENTO 381 398	nefrectomía total
+T13	PROCEDIMIENTO 401 422	ureterectomía parcial
+T14	PROCEDIMIENTO 245 263	estudios de imagen
+T15	SINTOMA 109 130	sensación de malestar
+T16	SINTOMA 197 213	células atípicas
+T17	SINTOMA 85 94	hematuria

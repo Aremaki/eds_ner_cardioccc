@@ -1,6 +1,6 @@
-T1	SINTOMA 467 496	exploración física fue normal
-T2	SINTOMA 1033 1069	alteración en el nivel de conciencia
-T3	SINTOMA 975 1003	anomalías del ritmo cardiaco
-T4	SINTOMA 872 896	taquicardia sinusal leve
-T5	ENFERMEDAD 733 818	efectos secundarios cardiovasculares, anticolinérgicos y del sistema nervioso central
-T6	PROCEDIMIENTO 467 485	exploración física
+T1	ENFERMEDAD 733 818	efectos secundarios cardiovasculares, anticolinérgicos y del sistema nervioso central
+T2	PROCEDIMIENTO 467 485	exploración física
+T3	SINTOMA 1033 1069	alteración en el nivel de conciencia
+T4	SINTOMA 467 496	exploración física fue normal
+T5	SINTOMA 872 896	taquicardia sinusal leve
+T6	SINTOMA 975 1003	anomalías del ritmo cardiaco

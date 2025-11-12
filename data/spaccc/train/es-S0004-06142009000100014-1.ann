@@ -1,18 +1,58 @@
-T1	SINTOMA 1314 1326	asintomático
-T2	SINTOMA 1657 1670	dolores óseos
-T3	SINTOMA 1147 1160	dolores óseos
-T4	SINTOMA 3471 3482	falleciendo
-T5	SINTOMA 318 329	polaquiuria
-T6	SINTOMA 2423 2432	Proptosis
-T7	SINTOMA 2434 2450	ptosis palpebral
-T8	SINTOMA 297 316	síndrome prostático
-T9	SINTOMA 2709 2761	Afectación del techo y la pared lateral de la órbita
-T10	SINTOMA 2343 2397	dificultad para la separación completa de los párpados
-T11	SINTOMA 790 886	focos de hipercaptación patológica (columna vertebral, cuello y diáfisis femorales, pelvis ósea)
-T12	SINTOMA 251 270	hormonorresistencia
-T13	SINTOMA 2452 2475	midriasis poco reactiva
-T14	SINTOMA 2815 2841	proptosis del globo ocular
-T15	SINTOMA 2303 2330	protrusión del globo ocular
-T16	SINTOMA 2520 2537	soplos orbitarios
-T17	SINTOMA 1405 1442	testosterona en niveles de castración
-T18	SINTOMA 332 350	urgencia miccional
+T1	ENFERMEDAD 2565 2707	metastásica de todo el segmento central de la base craneal, la médula ósea de las vértebras incluidas en el estudio y parte del diploe craneal
+T2	ENFERMEDAD 297 316	síndrome prostático
+T3	ENFERMEDAD 2493 2515	afectación del III par
+T4	ENFERMEDAD 156 182	adenocarcinoma de próstata
+T5	ENFERMEDAD 201 237	afectación ósea metastásica múltiple
+T6	ENFERMEDAD 2815 2841	proptosis del globo ocular
+T7	ENFERMEDAD 2846 2988	ala mayor esfenoidal izquierda está sustituida y engrosada y existe una clara extensión a la pared del seno cavernoso izquierdo y la hendidura
+T8	ENFERMEDAD 612 636	adenocarcinoma bilobular
+T9	ENFERMEDAD 736 777	metástasis ganglionares retroperitoneales
+T10	ENFERMEDAD 3098 3137	lesión del techo de la órbita izquierda
+T11	ENFERMEDAD 3157 3185	lesión de las partes blandas
+T12	ENFERMEDAD 2423 2432	Proptosis
+T13	ENFERMEDAD 2434 2450	ptosis palpebral
+T14	ENFERMEDAD 3344 3352	lesiones
+T15	ENFERMEDAD 2303 2330	protrusión del globo ocular
+T16	ENFERMEDAD 2709 2761	Afectación del techo y la pared lateral de la órbita
+T17	PROCEDIMIENTO 2539 2552	RNM orbitaria
+T18	PROCEDIMIENTO 2399 2422	Exploración neurológica
+T19	PROCEDIMIENTO 3373 3429	irradiación de las áreas afectada con carácter paliativo
+T20	PROCEDIMIENTO 1116 1138	tratamiento antiálgico
+T21	PROCEDIMIENTO 1983 1995	QT paliativa
+T22	PROCEDIMIENTO 1165 1170	AINEs
+T23	PROCEDIMIENTO 1207 1264	irradiación vertebral dorsolumbar con 30 Gy administrados
+T24	PROCEDIMIENTO 2044 2090	terapia con inhibidores de la reabsorción ósea
+T25	PROCEDIMIENTO 420 440	determinación de PSA
+T26	PROCEDIMIENTO 536 557	ecografía transrectal
+T27	PROCEDIMIENTO 560 590	biopsia prostática ecodirigida
+T28	PROCEDIMIENTO 694 697	RNM
+T29	PROCEDIMIENTO 700 717	gamma-grafía ósea
+T30	PROCEDIMIENTO 900 928	bloqueo androgénico completo
+T31	PROCEDIMIENTO 1739 1750	analgésicos
+T32	PROCEDIMIENTO 1518 1528	bioquímica
+T33	PROCEDIMIENTO 661 681	estudio de extensión
+T34	PROCEDIMIENTO 1173 1181	mórficos
+T35	PROCEDIMIENTO 994 1007	antiandrógeno
+T36	PROCEDIMIENTO 1490 1503	antiandrógeno
+T37	PROCEDIMIENTO 1983 2022	QT paliativa con Docetaxel y prednisona
+T38	PROCEDIMIENTO 3261 3285	secuencias con contraste
+T39	PROCEDIMIENTO 2155 2173	control analgésico
+T40	PROCEDIMIENTO 683 692	analítica
+T41	SINTOMA 2423 2432	Proptosis
+T42	SINTOMA 2434 2450	ptosis palpebral
+T43	SINTOMA 2452 2475	midriasis poco reactiva
+T44	SINTOMA 318 329	polaquiuria
+T45	SINTOMA 1147 1160	dolores óseos
+T46	SINTOMA 332 350	urgencia miccional
+T47	SINTOMA 1657 1670	dolores óseos
+T48	SINTOMA 3471 3482	falleciendo
+T49	SINTOMA 1405 1442	testosterona en niveles de castración
+T50	SINTOMA 2343 2397	dificultad para la separación completa de los párpados
+T51	SINTOMA 251 270	hormonorresistencia
+T52	SINTOMA 1314 1326	asintomático
+T53	SINTOMA 2520 2537	soplos orbitarios
+T54	SINTOMA 790 886	focos de hipercaptación patológica (columna vertebral, cuello y diáfisis femorales, pelvis ósea)
+T55	SINTOMA 297 316	síndrome prostático
+T56	SINTOMA 2303 2330	protrusión del globo ocular
+T57	SINTOMA 2709 2761	Afectación del techo y la pared lateral de la órbita
+T58	SINTOMA 2815 2841	proptosis del globo ocular

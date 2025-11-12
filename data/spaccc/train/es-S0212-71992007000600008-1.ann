@@ -1,89 +1,89 @@
-T1	SINTOMA 820 849	abdomen era blando depresible
-T2	SINTOMA 3158 3216	alteraciones bilaterales y difusas del parénquima pulmonar
-T3	SINTOMA 2240 2304	anticuerpos antinucleares, factor reumatoide, Mantoux, negativos
-T4	SINTOMA 2612 2665	antígeno carcinoembrionario (CEA) se encontró elevado
-T5	SINTOMA 3594 3636	árbol bronquial no presentaba alteraciones
-T6	SINTOMA 1242 1259	Bioquímica normal
-T7	SINTOMA 84 91	cefalea
-T8	SINTOMA 3301 3431	condensación alveolar parcheada de distribución predominante en segmento apicales de lóbulos inferiores y ambos lóbulos superiores
-T9	SINTOMA 590 600	consciente
-T10	SINTOMA 705 736	crepitantes bilaterales difusos
-T11	SINTOMA 3498 3540	cuerdas vocales y traquea sin alteraciones
-T12	SINTOMA 2340 2384	cultivo del líquido pericárdico fue negativo
-T13	SINTOMA 4479 4485	disnea
-T14	SINTOMA 94 112	disnea de esfuerzo
-T15	SINTOMA 366 382	disnea de reposo
-T16	SINTOMA 392 411	dolor retroesternal
-T17	SINTOMA 3553 3589	ensanchamiento en la zona subcarinal
-T18	SINTOMA 4297 4318	eosinofilia en sangre
-T19	SINTOMA 168 195	expectoración mucopurulenta
-T20	SINTOMA 4551 4571	expectoración mucosa
-T21	SINTOMA 805 815	extratonos
-T22	SINTOMA 889 917	extremidades no había edemas
-T23	SINTOMA 4469 4475	fiebre
-T24	SINTOMA 198 204	fiebre
-T25	SINTOMA 2858 2896	IgM a citomegalovirus que fue positiva
-T26	SINTOMA 639 660	ingurgitación yugular
-T27	SINTOMA 1020 1055	leucocitos con desviación izquierda
-T28	SINTOMA 2577 2607	negativo para células malignas
-T29	SINTOMA 2376 2412	negativo, así como tres hemocultivos
-T30	SINTOMA 866 880	organomegalias
-T31	SINTOMA 414 427	palpitaciones
-T32	SINTOMA 4697 4725	patrón en vidrio deslustrado
-T33	SINTOMA 2182 2201	patrón intersticial
-T34	SINTOMA 1354 1383	patrón intersticial bilateral
-T35	SINTOMA 4897 4924	patrón intersticial nodular
-T36	SINTOMA 3224 3287	patrón intersticial retículo nodular septal y centro lobulillar
-T37	SINTOMA 2309 2335	perfil tiroideo fue normal
-T38	SINTOMA 924 962	pulsos periféricos estaban conservados
-T39	SINTOMA 2700 2848	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie, que fueron negativos
-T40	SINTOMA 795 801	soplos
-T41	SINTOMA 615 623	sudoroso
-T42	SINTOMA 602 613	taquipneico
-T43	SINTOMA 767 781	tonos rítmicos
+T1	ENFERMEDAD 1473 1499	derrame pericárdico severo
+T2	ENFERMEDAD 2157 2176	derrame pericárdico
+T3	ENFERMEDAD 2926 2951	adenopatías mediastínicas
+T4	ENFERMEDAD 3066 3091	derrame pleural bilateral
+T5	ENFERMEDAD 4049 4068	daño pulmonar agudo
+T6	ENFERMEDAD 4104 4143	enfermedad pulmonar intersticial difusa
+T7	ENFERMEDAD 4145 4149	EPID
+T8	ENFERMEDAD 4255 4276	neumonía eosinofílica
+T9	ENFERMEDAD 4731 4765	derrame pleural bilateral moderado
+T10	ENFERMEDAD 5116 5130	adenocarcinoma
+T11	ENFERMEDAD 5185 5219	origen pulmonar del adenocarcinoma
+T12	ENFERMEDAD 468 482	asma bronquial
+T13	ENFERMEDAD 436 443	fumador
+T14	ENFERMEDAD 3805 3816	adenopatías
+T15	ENFERMEDAD 1328 1341	cardiomegalia
+T16	ENFERMEDAD 4933 4981	adenocarcinoma acinar-papilar, bien diferenciado
+T17	PROCEDIMIENTO 526 544	exploración física
+T18	PROCEDIMIENTO 668 689	auscultación pulmonar
+T19	PROCEDIMIENTO 1161 1186	Gasometría arterial basal
+T20	PROCEDIMIENTO 1294 1314	radiografía de tórax
+T21	PROCEDIMIENTO 1420 1448	ecocardiograma transtorácico
+T22	PROCEDIMIENTO 1704 1736	ventilación mecánica no invasiva
+T23	PROCEDIMIENTO 1750 1764	ecocardiograma
+T24	PROCEDIMIENTO 1828 1857	pericardiocentésis evacuadora
+T25	PROCEDIMIENTO 2340 2371	cultivo del líquido pericárdico
+T26	PROCEDIMIENTO 2400 2412	hemocultivos
+T27	PROCEDIMIENTO 2417 2460	anatomía patológica del líquido pericárdico
+T28	PROCEDIMIENTO 2700 2826	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie
+T29	PROCEDIMIENTO 2902 2914	TAC torácico
+T30	PROCEDIMIENTO 3449 3461	broncoscopia
+T31	PROCEDIMIENTO 3649 3672	lavado bronquioalveolar
+T32	PROCEDIMIENTO 3820 3842	biopsia transbronquial
+T33	PROCEDIMIENTO 4604 4624	radiografía de tórax
+T34	PROCEDIMIENTO 4669 4681	TAC torácico
+T35	PROCEDIMIENTO 4791 4807	biopsia pulmonar
+T36	PROCEDIMIENTO 5146 5169	pruebas de histoquímica
+T37	PROCEDIMIENTO 5249 5278	tratamiento con quimioterapia
+T38	PROCEDIMIENTO 2286 2293	Mantoux
+T39	PROCEDIMIENTO 3790 3797	punción
+T40	PROCEDIMIENTO 1242 1252	Bioquímica
+T41	PROCEDIMIENTO 2309 2324	perfil tiroideo
+T42	PROCEDIMIENTO 3847 3877	anatomía patológica del lavado
+T43	PROCEDIMIENTO 745 766	auscultación cardiaca
 T44	SINTOMA 79 82	tos
-T45	SINTOMA 4543 4546	tos
-T46	SINTOMA 1532 1576	ventrículo izquierdo de dimensiones normales
-T47	ENFERMEDAD 1473 1499	derrame pericárdico severo
-T48	ENFERMEDAD 2157 2176	derrame pericárdico
-T49	ENFERMEDAD 2926 2951	adenopatías mediastínicas
-T50	ENFERMEDAD 3066 3091	derrame pleural bilateral
-T51	ENFERMEDAD 4049 4068	daño pulmonar agudo
-T52	ENFERMEDAD 4104 4143	enfermedad pulmonar intersticial difusa
-T53	ENFERMEDAD 4145 4149	EPID
-T54	ENFERMEDAD 4255 4276	neumonía eosinofílica
-T55	ENFERMEDAD 4731 4765	derrame pleural bilateral moderado
-T56	ENFERMEDAD 5116 5130	adenocarcinoma
-T57	ENFERMEDAD 5185 5219	origen pulmonar del adenocarcinoma
-T58	ENFERMEDAD 468 482	asma bronquial
-T59	ENFERMEDAD 436 443	fumador
-T60	ENFERMEDAD 3805 3816	adenopatías
-T61	ENFERMEDAD 1328 1341	cardiomegalia
-T62	ENFERMEDAD 4933 4981	adenocarcinoma acinar-papilar, bien diferenciado
-T63	PROCEDIMIENTO 1161 1186	Gasometría arterial basal
-T64	PROCEDIMIENTO 1242 1252	Bioquímica
-T65	PROCEDIMIENTO 1294 1314	radiografía de tórax
-T66	PROCEDIMIENTO 1420 1448	ecocardiograma transtorácico
-T67	PROCEDIMIENTO 1704 1736	ventilación mecánica no invasiva
-T68	PROCEDIMIENTO 1750 1764	ecocardiograma
-T69	PROCEDIMIENTO 1828 1857	pericardiocentésis evacuadora
-T70	PROCEDIMIENTO 2286 2293	Mantoux
-T71	PROCEDIMIENTO 2309 2324	perfil tiroideo
-T72	PROCEDIMIENTO 2340 2371	cultivo del líquido pericárdico
-T73	PROCEDIMIENTO 2400 2412	hemocultivos
-T74	PROCEDIMIENTO 2417 2460	anatomía patológica del líquido pericárdico
-T75	PROCEDIMIENTO 2700 2826	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie
-T76	PROCEDIMIENTO 2902 2914	TAC torácico
-T77	PROCEDIMIENTO 3449 3461	broncoscopia
-T78	PROCEDIMIENTO 3649 3672	lavado bronquioalveolar
-T79	PROCEDIMIENTO 3790 3797	punción
-T80	PROCEDIMIENTO 3820 3842	biopsia transbronquial
-T81	PROCEDIMIENTO 3847 3877	anatomía patológica del lavado
-T82	PROCEDIMIENTO 4604 4624	radiografía de tórax
-T83	PROCEDIMIENTO 4669 4681	TAC torácico
-T84	PROCEDIMIENTO 4791 4807	biopsia pulmonar
-T85	PROCEDIMIENTO 5146 5169	pruebas de histoquímica
-T86	PROCEDIMIENTO 5249 5278	tratamiento con quimioterapia
-T87	PROCEDIMIENTO 526 544	exploración física
-T88	PROCEDIMIENTO 668 689	auscultación pulmonar
-T89	PROCEDIMIENTO 745 766	auscultación cardiaca
+T45	SINTOMA 84 91	cefalea
+T46	SINTOMA 168 195	expectoración mucopurulenta
+T47	SINTOMA 198 204	fiebre
+T48	SINTOMA 366 382	disnea de reposo
+T49	SINTOMA 392 411	dolor retroesternal
+T50	SINTOMA 414 427	palpitaciones
+T51	SINTOMA 590 600	consciente
+T52	SINTOMA 602 613	taquipneico
+T53	SINTOMA 615 623	sudoroso
+T54	SINTOMA 639 660	ingurgitación yugular
+T55	SINTOMA 1020 1055	leucocitos con desviación izquierda
+T56	SINTOMA 1354 1383	patrón intersticial bilateral
+T57	SINTOMA 3158 3216	alteraciones bilaterales y difusas del parénquima pulmonar
+T58	SINTOMA 4469 4475	fiebre
+T59	SINTOMA 4479 4485	disnea
+T60	SINTOMA 4543 4546	tos
+T61	SINTOMA 795 801	soplos
+T62	SINTOMA 820 849	abdomen era blando depresible
+T63	SINTOMA 94 112	disnea de esfuerzo
+T64	SINTOMA 4297 4318	eosinofilia en sangre
+T65	SINTOMA 805 815	extratonos
+T66	SINTOMA 4697 4725	patrón en vidrio deslustrado
+T67	SINTOMA 2182 2201	patrón intersticial
+T68	SINTOMA 4897 4924	patrón intersticial nodular
+T69	SINTOMA 767 781	tonos rítmicos
+T70	SINTOMA 1242 1259	Bioquímica normal
+T71	SINTOMA 1532 1576	ventrículo izquierdo de dimensiones normales
+T72	SINTOMA 2309 2335	perfil tiroideo fue normal
+T73	SINTOMA 2340 2384	cultivo del líquido pericárdico fue negativo
+T74	SINTOMA 2577 2607	negativo para células malignas
+T75	SINTOMA 2858 2896	IgM a citomegalovirus que fue positiva
+T76	SINTOMA 3224 3287	patrón intersticial retículo nodular septal y centro lobulillar
+T77	SINTOMA 3553 3589	ensanchamiento en la zona subcarinal
+T78	SINTOMA 3594 3636	árbol bronquial no presentaba alteraciones
+T79	SINTOMA 705 736	crepitantes bilaterales difusos
+T80	SINTOMA 889 917	extremidades no había edemas
+T81	SINTOMA 924 962	pulsos periféricos estaban conservados
+T82	SINTOMA 2240 2304	anticuerpos antinucleares, factor reumatoide, Mantoux, negativos
+T83	SINTOMA 3301 3431	condensación alveolar parcheada de distribución predominante en segmento apicales de lóbulos inferiores y ambos lóbulos superiores
+T84	SINTOMA 3498 3540	cuerdas vocales y traquea sin alteraciones
+T85	SINTOMA 4551 4571	expectoración mucosa
+T86	SINTOMA 2376 2412	negativo, así como tres hemocultivos
+T87	SINTOMA 2612 2665	antígeno carcinoembrionario (CEA) se encontró elevado
+T88	SINTOMA 2700 2848	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie, que fueron negativos
+T89	SINTOMA 866 880	organomegalias

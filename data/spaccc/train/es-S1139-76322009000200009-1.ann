@@ -1,29 +1,38 @@
-T1	SINTOMA 1298 1317	aire anterocardíaco
-T2	SINTOMA 1262 1280	atrapamiento aéreo
-T3	SINTOMA 943 975	auscultación cardíaca era normal
-T4	SINTOMA 854 875	buena entrada de aire
-T5	SINTOMA 1788 1833	disminución del tamaño del aire en mediastino
-T6	SINTOMA 919 938	espiración alargada
-T7	SINTOMA 1072 1101	hiperemia timpánica bilateral
-T8	SINTOMA 61 79	llanto persistente
-T9	SINTOMA 1024 1037	moco en cavum
-T10	SINTOMA 980 1008	orofaringe estaba hiperémica
-T11	SINTOMA 1867 1905	prueba de cloruros en sudor fue normal
-T12	SINTOMA 171 205	rechazo parcial de la alimentación
-T13	SINTOMA 1106 1133	reflejo luminoso conservado
-T14	SINTOMA 742 766	respiración entrecortada
-T15	SINTOMA 208 216	rinorrea
-T16	SINTOMA 880 916	sibilancias espiratorias bilaterales
-T17	SINTOMA 1319 1347	signo del diafragma continuo
-T18	SINTOMA 772 802	tiraje subcostal e intercostal
-T19	SINTOMA 81 84	tos
-T20	SINTOMA 94 117	dificultad respiratoria
-T21	SINTOMA 162 169	vómitos
+T1	ENFERMEDAD 1360 1389	enfisema subcutáneo en cuello
+T2	ENFERMEDAD 1427 1442	neumomediastino
+T3	ENFERMEDAD 1454 1467	broncoespasmo
+T4	ENFERMEDAD 289 302	broncoespasmo
+T5	ENFERMEDAD 359 363	asma
+T6	PROCEDIMIENTO 371 390	exploración clínica
+T7	PROCEDIMIENTO 1191 1238	radiografías de tórax anteroposterior y lateral
+T8	PROCEDIMIENTO 1530 1560	oxígeno mediante gafas nasales
+T9	PROCEDIMIENTO 810 835	auscultación respiratoria
+T10	PROCEDIMIENTO 1739 1759	radiografía de tórax
+T11	PROCEDIMIENTO 943 964	auscultación cardíaca
+T12	PROCEDIMIENTO 1045 1054	otoscopia
+T13	PROCEDIMIENTO 1867 1894	prueba de cloruros en sudor
+T14	PROCEDIMIENTO 1150 1161	exploración
+T15	SINTOMA 61 79	llanto persistente
+T16	SINTOMA 81 84	tos
+T17	SINTOMA 94 117	dificultad respiratoria
+T18	SINTOMA 1319 1347	signo del diafragma continuo
+T19	SINTOMA 162 169	vómitos
+T20	SINTOMA 171 205	rechazo parcial de la alimentación
+T21	SINTOMA 208 216	rinorrea
 T22	SINTOMA 678 687	irritable
-T23	SINTOMA 1706 1729	dificultad respiratoria
-T24	SINTOMA 649 669	buen aspecto general
-T25	ENFERMEDAD 1360 1389	enfisema subcutáneo en cuello
-T26	ENFERMEDAD 1427 1442	neumomediastino
-T27	ENFERMEDAD 1454 1467	broncoespasmo
-T28	ENFERMEDAD 289 302	broncoespasmo
-T29	ENFERMEDAD 359 363	asma
+T23	SINTOMA 742 766	respiración entrecortada
+T24	SINTOMA 772 802	tiraje subcostal e intercostal
+T25	SINTOMA 880 916	sibilancias espiratorias bilaterales
+T26	SINTOMA 1706 1729	dificultad respiratoria
+T27	SINTOMA 919 938	espiración alargada
+T28	SINTOMA 1788 1833	disminución del tamaño del aire en mediastino
+T29	SINTOMA 980 1008	orofaringe estaba hiperémica
+T30	SINTOMA 1024 1037	moco en cavum
+T31	SINTOMA 1072 1101	hiperemia timpánica bilateral
+T32	SINTOMA 649 669	buen aspecto general
+T33	SINTOMA 854 875	buena entrada de aire
+T34	SINTOMA 943 975	auscultación cardíaca era normal
+T35	SINTOMA 1106 1133	reflejo luminoso conservado
+T36	SINTOMA 1867 1905	prueba de cloruros en sudor fue normal
+T37	SINTOMA 1262 1280	atrapamiento aéreo
+T38	SINTOMA 1298 1317	aire anterocardíaco

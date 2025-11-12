@@ -1,7 +1,16 @@
-T1	SINTOMA 198 238	mácula pigmentada de color marrón oscuro
-T2	SINTOMA 683 690	eritema
-T3	SINTOMA 240 252	asintomática
-T4	ENFERMEDAD 1514 1529	melanoacantosis
-T5	ENFERMEDAD 739 750	candidiasis
-T6	ENFERMEDAD 301 359	lesión se localizaba en la mucosa anterior de paladar duro
-T7	ENFERMEDAD 198 215	mácula pigmentada
+T1	ENFERMEDAD 1514 1529	melanoacantosis
+T2	ENFERMEDAD 739 750	candidiasis
+T3	ENFERMEDAD 301 359	lesión se localizaba en la mucosa anterior de paladar duro
+T4	ENFERMEDAD 198 215	mácula pigmentada
+T5	PROCEDIMIENTO 1023 1070	biopsia se fijó en formalina bufferizada al 10%
+T6	PROCEDIMIENTO 806 824	biopsia escisional
+T7	PROCEDIMIENTO 831 846	anestesia local
+T8	PROCEDIMIENTO 862 883	técnica de sacabocado
+T9	PROCEDIMIENTO 1107 1175	estudio microscópico de la misma, con tinción de hematoxilina-eosina
+T10	PROCEDIMIENTO 272 286	examen clínico
+T11	PROCEDIMIENTO 552 587	incisivos superiores por exodoncias
+T12	PROCEDIMIENTO 604 642	prótesis parcial removible de acrílico
+T13	PROCEDIMIENTO 755 776	citología exfoliativa
+T14	SINTOMA 198 238	mácula pigmentada de color marrón oscuro
+T15	SINTOMA 683 690	eritema
+T16	SINTOMA 240 252	asintomática

@@ -1,30 +1,49 @@
-T1	SINTOMA 187 194	agitado
-T2	SINTOMA 1869 1935	depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6
-T3	SINTOMA 906 950	deterioro progresivo del nivel de conciencia
-T4	SINTOMA 219 233	diarrea acuosa
-T5	SINTOMA 3281 3287	fiebre
-T6	SINTOMA 540 553	hipopotasemia
-T7	SINTOMA 3001 3021	intervalo QTc normal
-T8	SINTOMA 1826 1850	intervalo QTc prolongado
-T9	SINTOMA 1118 1124	miosis
-T10	SINTOMA 3429 3434	murió
-T11	SINTOMA 200 207	náuseas
-T12	SINTOMA 1717 1775	radiografía de tórax estuvo dentro de los límites normales
-T13	SINTOMA 1791 1804	ritmo sinusal
-T14	SINTOMA 604 623	taquicardia sinusal
-T15	SINTOMA 209 216	vómitos
-T16	ENFERMEDAD 40 49	depresión
-T17	ENFERMEDAD 52 63	alcoholismo
-T18	ENFERMEDAD 125 158	ingerido arsénico voluntariamente
-T19	ENFERMEDAD 389 414	acidosis metabólica aguda
-T20	ENFERMEDAD 540 553	hipopotasemia
-T21	ENFERMEDAD 2019 2045	taquicardias ventriculares
-T22	ENFERMEDAD 2181 2198	fallo renal agudo
-T23	ENFERMEDAD 3339 3415	neumonía por Staphylococcus aureus, Klebsiella oxytoca y Serratia marcescens
-T24	ENFERMEDAD 3514 3535	necrosis renal masiva
-T25	ENFERMEDAD 3537 3571	necrosis centrolobulillar hepática
-T26	ENFERMEDAD 3605 3631	infarto agudo de miocardio
-T27	ENFERMEDAD 3633 3652	trombosis coronaria
-T28	ENFERMEDAD 3673 3684	miocarditis
-T29	ENFERMEDAD 3299 3325	hipotensión arterial grave
-T30	ENFERMEDAD 2089 2092	TDP
+T1	ENFERMEDAD 40 49	depresión
+T2	ENFERMEDAD 52 63	alcoholismo
+T3	ENFERMEDAD 125 158	ingerido arsénico voluntariamente
+T4	ENFERMEDAD 389 414	acidosis metabólica aguda
+T5	ENFERMEDAD 540 553	hipopotasemia
+T6	ENFERMEDAD 2019 2045	taquicardias ventriculares
+T7	ENFERMEDAD 2181 2198	fallo renal agudo
+T8	ENFERMEDAD 3339 3415	neumonía por Staphylococcus aureus, Klebsiella oxytoca y Serratia marcescens
+T9	ENFERMEDAD 3514 3535	necrosis renal masiva
+T10	ENFERMEDAD 3537 3571	necrosis centrolobulillar hepática
+T11	ENFERMEDAD 3605 3631	infarto agudo de miocardio
+T12	ENFERMEDAD 3633 3652	trombosis coronaria
+T13	ENFERMEDAD 3673 3684	miocarditis
+T14	ENFERMEDAD 3299 3325	hipotensión arterial grave
+T15	ENFERMEDAD 2089 2092	TDP
+T16	PROCEDIMIENTO 1092 1110	exploración física
+T17	PROCEDIMIENTO 360 379	analítica sanguínea
+T18	PROCEDIMIENTO 572 590	electrocardiograma
+T19	PROCEDIMIENTO 1717 1737	radiografía de tórax
+T20	PROCEDIMIENTO 1780 1783	ECG
+T21	PROCEDIMIENTO 789 804	lavado gástrico
+T22	PROCEDIMIENTO 1976 1979	ECG
+T23	PROCEDIMIENTO 968 976	intubado
+T24	PROCEDIMIENTO 2225 2237	hemodiálisis
+T25	PROCEDIMIENTO 2272 2297	catéter arterial pulmonar
+T26	PROCEDIMIENTO 2950 2953	ECG
+T27	PROCEDIMIENTO 3467 3483	autopsia parcial
+T28	PROCEDIMIENTO 766 787	sobrecarga de fluidos
+T29	PROCEDIMIENTO 2542 2571	expansión agresiva de volumen
+T30	PROCEDIMIENTO 1048 1061	estaba sedado
+T31	PROCEDIMIENTO 1064 1087	mecánicamente ventilado
+T32	PROCEDIMIENTO 1616 1632	gases arteriales
+T33	PROCEDIMIENTO 592 595	ECG
+T34	PROCEDIMIENTO 3491 3510	signos histológicos
+T35	SINTOMA 1118 1124	miosis
+T36	SINTOMA 187 194	agitado
+T37	SINTOMA 200 207	náuseas
+T38	SINTOMA 209 216	vómitos
+T39	SINTOMA 219 233	diarrea acuosa
+T40	SINTOMA 1791 1804	ritmo sinusal
+T41	SINTOMA 906 950	deterioro progresivo del nivel de conciencia
+T42	SINTOMA 3281 3287	fiebre
+T43	SINTOMA 1717 1775	radiografía de tórax estuvo dentro de los límites normales
+T44	SINTOMA 1826 1850	intervalo QTc prolongado
+T45	SINTOMA 1869 1935	depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6
+T46	SINTOMA 3001 3021	intervalo QTc normal
+T47	SINTOMA 604 623	taquicardia sinusal
+T48	SINTOMA 540 553	hipopotasemia
+T49	SINTOMA 3429 3434	murió

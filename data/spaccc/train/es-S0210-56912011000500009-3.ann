@@ -1,16 +1,16 @@
-T1	SINTOMA 100 114	dolor torácico
-T2	SINTOMA 1099 1107	sangrado
-T3	SINTOMA 163 186	ascenso del segmento ST
-T4	ENFERMEDAD 134 206	síndrome coronario agudo con ascenso del segmento ST en la cara anterior
-T5	ENFERMEDAD 288 359	lesión en la porción media de la arteria coronaria descendente anterior
-T6	ENFERMEDAD 636 647	hematemesis
-T7	ENFERMEDAD 849 872	lesión de Mallory Weiss
-T8	PROCEDIMIENTO 1027 1046	retirarse la CPAP-B
-T9	PROCEDIMIENTO 1062 1081	gasometría arterial
-T10	PROCEDIMIENTO 1116 1166	administración de anticoagulantes y antiagregantes
-T11	PROCEDIMIENTO 233 259	coronariografía percutánea
-T12	PROCEDIMIENTO 383 395	angioplastia
+T1	ENFERMEDAD 134 206	síndrome coronario agudo con ascenso del segmento ST en la cara anterior
+T2	ENFERMEDAD 288 359	lesión en la porción media de la arteria coronaria descendente anterior
+T3	ENFERMEDAD 636 647	hematemesis
+T4	ENFERMEDAD 849 872	lesión de Mallory Weiss
+T5	PROCEDIMIENTO 233 259	coronariografía percutánea
+T6	PROCEDIMIENTO 383 395	angioplastia
+T7	PROCEDIMIENTO 705 721	Ventimask al 50%
+T8	PROCEDIMIENTO 745 765	endoscopia digestiva
+T9	PROCEDIMIENTO 770 801	soporte respiratorio con CPAP-B
+T10	PROCEDIMIENTO 1027 1046	retirarse la CPAP-B
+T11	PROCEDIMIENTO 1062 1081	gasometría arterial
+T12	PROCEDIMIENTO 1116 1166	administración de anticoagulantes y antiagregantes
 T13	PROCEDIMIENTO 398 416	se colocó un stent
-T14	PROCEDIMIENTO 705 721	Ventimask al 50%
-T15	PROCEDIMIENTO 745 765	endoscopia digestiva
-T16	PROCEDIMIENTO 770 801	soporte respiratorio con CPAP-B
+T14	SINTOMA 100 114	dolor torácico
+T15	SINTOMA 1099 1107	sangrado
+T16	SINTOMA 163 186	ascenso del segmento ST

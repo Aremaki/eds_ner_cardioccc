@@ -1,8 +1,41 @@
-T1	SINTOMA 846 885	imagen hipoecoica adyacente a la vejiga
-T2	SINTOMA 1427 1442	masa prevesical
-T3	SINTOMA 2516 2528	asintomática
-T4	SINTOMA 364 369	dolor
-T5	SINTOMA 371 380	hematuria
-T6	SINTOMA 82 93	metrorragia
-T7	SINTOMA 940 950	tumoración
-T8	SINTOMA 567 578	inflamación
+T1	ENFERMEDAD 82 93	metrorragia
+T2	ENFERMEDAD 126 148	patología ginecológica
+T3	ENFERMEDAD 284 294	leiomiomas
+T4	ENFERMEDAD 383 418	infecciones urinarias de repetición
+T5	ENFERMEDAD 581 600	displasia urotelial
+T6	ENFERMEDAD 733 742	neoplasia
+T7	ENFERMEDAD 1457 1472	quiste desmoide
+T8	ENFERMEDAD 1475 1506	tumoración de uraco persistente
+T9	ENFERMEDAD 1609 1640	proceso neoformativo prevesical
+T10	ENFERMEDAD 1829 1847	formación quística
+T11	ENFERMEDAD 2033 2085	neoplasia papilar grado III de epitelio transicional
+T12	ENFERMEDAD 2209 2254	tumor infiltra la pared muscular de la vejiga
+T13	ENFERMEDAD 2342 2401	neoplasia urotelial en el epitelio de revestimiento vesical
+T14	ENFERMEDAD 1228 1264	infiltración de la grasa perivesical
+T15	PROCEDIMIENTO 901 904	TAC
+T16	PROCEDIMIENTO 912 923	TAC pélvico
+T17	PROCEDIMIENTO 497 528	citoscopia con biopsia múltiple
+T18	PROCEDIMIENTO 702 714	biopsia fría
+T19	PROCEDIMIENTO 1652 1671	cistectomía parcial
+T20	PROCEDIMIENTO 662 672	citologías
+T21	PROCEDIMIENTO 802 820	estudio ecográfico
+T22	PROCEDIMIENTO 1679 1699	estudio macroscópico
+T23	PROCEDIMIENTO 1892 1912	estudio microscópico
+T24	PROCEDIMIENTO 467 484	estudio urológico
+T25	PROCEDIMIENTO 246 259	histerectomía
+T26	PROCEDIMIENTO 1524 1547	intervención quirúrgica
+T27	PROCEDIMIENTO 1573 1604	laparotomía media con resección
+T28	PROCEDIMIENTO 1595 1671	resección del proceso neoformativo prevesical asociada a cistectomía parcial
+T29	PROCEDIMIENTO 2291 2300	resección
+T30	PROCEDIMIENTO 546 563	anatomopatológico
+T31	PROCEDIMIENTO 100 111	exploración
+T32	PROCEDIMIENTO 675 714	citoscopias de control con biopsia fría
+T33	PROCEDIMIENTO 2457 2469	intervención
+T34	SINTOMA 2516 2528	asintomática
+T35	SINTOMA 364 369	dolor
+T36	SINTOMA 371 380	hematuria
+T37	SINTOMA 1427 1442	masa prevesical
+T38	SINTOMA 82 93	metrorragia
+T39	SINTOMA 940 950	tumoración
+T40	SINTOMA 846 885	imagen hipoecoica adyacente a la vejiga
+T41	SINTOMA 567 578	inflamación

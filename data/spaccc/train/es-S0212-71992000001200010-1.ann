@@ -1,32 +1,50 @@
-T1	SINTOMA 721 773	abdomen distendido y doloroso en hipocondrio derecho
-T2	SINTOMA 602 610	anorexia
-T3	SINTOMA 279 291	asintomático
-T4	SINTOMA 1927 1969	cultivo donde creció Streptococcus milleri
-T5	SINTOMA 383 390	diarrea
-T6	SINTOMA 613 641	dolor en hipocondrio derecho
-T7	SINTOMA 1612 1661	En la colonoscopia, no se observaron alteraciones
-T8	SINTOMA 580 591	escalofríos
-T9	SINTOMA 801 838	exploración cardiopulmonar era normal
-T10	SINTOMA 680 686	febril
-T11	SINTOMA 374 380	fiebre
-T12	SINTOMA 550 556	fiebre
-T13	SINTOMA 1975 2004	hemocultivos fueron estériles
-T14	SINTOMA 867 923	leucocitosis de 26.500/mm3 con desviación a la izquierda
-T15	SINTOMA 699 717	mal estado general
-T16	SINTOMA 1058 1131	niveles normales de transaminasas y fosfatasa alcalina, creatinina y urea
-T17	SINTOMA 1136 1158	RX de tórax era normal
-T18	SINTOMA 593 600	vómitos
-T19	ENFERMEDAD 1823 1839	absceso hepático
-T20	ENFERMEDAD 38 57	enfermedad de Crohn
-T21	ENFERMEDAD 1914 1921	absceso
-T22	ENFERMEDAD 127 149	obstrucción intestinal
-T23	ENFERMEDAD 421 459	exacerbación de la enfermedad de Crohn
-T24	ENFERMEDAD 2331 2339	abscesos
-T25	ENFERMEDAD 1213 1261	múltiples abscesos en el lóbulo hepático derecho
-T26	ENFERMEDAD 1289 1309	abscesos abdominales
-T27	ENFERMEDAD 1594 1610	absceso hepático
-T28	ENFERMEDAD 1726 1761	estenosis a nivel de yeyuno e íleon
-T29	ENFERMEDAD 1795 1817	obstrucción intestinal
-T30	ENFERMEDAD 1784 1792	fístulas
-T31	ENFERMEDAD 1524 1531	absceso
-T32	ENFERMEDAD 783 796	hepatomegalia
+T1	ENFERMEDAD 1823 1839	absceso hepático
+T2	ENFERMEDAD 38 57	enfermedad de Crohn
+T3	ENFERMEDAD 1914 1921	absceso
+T4	ENFERMEDAD 127 149	obstrucción intestinal
+T5	ENFERMEDAD 421 459	exacerbación de la enfermedad de Crohn
+T6	ENFERMEDAD 2331 2339	abscesos
+T7	ENFERMEDAD 1213 1261	múltiples abscesos en el lóbulo hepático derecho
+T8	ENFERMEDAD 1289 1309	abscesos abdominales
+T9	ENFERMEDAD 1594 1610	absceso hepático
+T10	ENFERMEDAD 1726 1761	estenosis a nivel de yeyuno e íleon
+T11	ENFERMEDAD 1795 1817	obstrucción intestinal
+T12	ENFERMEDAD 1784 1792	fístulas
+T13	ENFERMEDAD 1524 1531	absceso
+T14	ENFERMEDAD 783 796	hepatomegalia
+T15	PROCEDIMIENTO 1823 1875	absceso hepático fue drenado bajo control ecográfico
+T16	PROCEDIMIENTO 1975 1987	hemocultivos
+T17	PROCEDIMIENTO 801 827	exploración cardiopulmonar
+T18	PROCEDIMIENTO 2009 2035	antibioterapia intravenosa
+T19	PROCEDIMIENTO 846 855	hemograma
+T20	PROCEDIMIENTO 1031 1048	bioquímica sérica
+T21	PROCEDIMIENTO 2223 2246	tratamiento antibiótico
+T22	PROCEDIMIENTO 2252 2265	TAC abdominal
+T23	PROCEDIMIENTO 471 498	tratamiento con corticoides
+T24	PROCEDIMIENTO 1136 1147	RX de tórax
+T25	PROCEDIMIENTO 1163 1176	TAC abdominal
+T26	PROCEDIMIENTO 1618 1630	colonoscopia
+T27	PROCEDIMIENTO 1667 1711	evaluación radiológica del intestino delgado
+T28	PROCEDIMIENTO 2070 2077	drenaje
+T29	PROCEDIMIENTO 2127 2134	drenaje
+T30	PROCEDIMIENTO 1078 1091	transaminasas
+T31	PROCEDIMIENTO 1900 1934	contenido del absceso para cultivo
+T32	PROCEDIMIENTO 199 206	cirugía
+T33	SINTOMA 680 686	febril
+T34	SINTOMA 699 717	mal estado general
+T35	SINTOMA 721 773	abdomen distendido y doloroso en hipocondrio derecho
+T36	SINTOMA 1975 2004	hemocultivos fueron estériles
+T37	SINTOMA 801 838	exploración cardiopulmonar era normal
+T38	SINTOMA 867 923	leucocitosis de 26.500/mm3 con desviación a la izquierda
+T39	SINTOMA 374 380	fiebre
+T40	SINTOMA 383 390	diarrea
+T41	SINTOMA 1058 1131	niveles normales de transaminasas y fosfatasa alcalina, creatinina y urea
+T42	SINTOMA 1136 1158	RX de tórax era normal
+T43	SINTOMA 550 556	fiebre
+T44	SINTOMA 580 591	escalofríos
+T45	SINTOMA 593 600	vómitos
+T46	SINTOMA 602 610	anorexia
+T47	SINTOMA 279 291	asintomático
+T48	SINTOMA 613 641	dolor en hipocondrio derecho
+T49	SINTOMA 1927 1969	cultivo donde creció Streptococcus milleri
+T50	SINTOMA 1612 1661	En la colonoscopia, no se observaron alteraciones

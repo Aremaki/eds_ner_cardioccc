@@ -1,13 +1,22 @@
-T1	SINTOMA 1020 1054	exploración neurológica fue normal
-T2	SINTOMA 618 648	biomicroscopía anterior normal
-T3	SINTOMA 250 280	dificultad para pensar, hablar
-T4	SINTOMA 73 90	dificultad visual
-T5	SINTOMA 700 745	estudio fundoscópico no presenta alteraciones
-T6	SINTOMA 794 838	hemianopsia homónima izquierda no congruente
-T7	SINTOMA 654 695	pupilas eran isocóricas y normorreactivas
-T8	SINTOMA 935 973	RMN) cerebral con gadolinio fue normal
-T9	SINTOMA 843 899	test de colores no presentaba alteraciones en ningún ojo
-T10	SINTOMA 289 295	ve mal
-T11	ENFERMEDAD 324 342	crisis epilépticas
-T12	ENFERMEDAD 1079 1106	fenómeno tóxico por Topamax
-T13	ENFERMEDAD 794 838	hemianopsia homónima izquierda no congruente
+T1	ENFERMEDAD 324 342	crisis epilépticas
+T2	ENFERMEDAD 1079 1106	fenómeno tóxico por Topamax
+T3	ENFERMEDAD 794 838	hemianopsia homónima izquierda no congruente
+T4	PROCEDIMIENTO 463 488	exploración oftalmológica
+T5	PROCEDIMIENTO 530 569	exploración realizada la agudeza visual
+T6	PROCEDIMIENTO 618 641	biomicroscopía anterior
+T7	PROCEDIMIENTO 700 720	estudio fundoscópico
+T8	PROCEDIMIENTO 753 778	campimetría computerizada
+T9	PROCEDIMIENTO 843 858	test de colores
+T10	PROCEDIMIENTO 905 962	resonancia magnética nuclear (RMN) cerebral con gadolinio
+T11	PROCEDIMIENTO 987 1003	RMN por difusión
+T12	PROCEDIMIENTO 1020 1043	exploración neurológica
+T13	SINTOMA 73 90	dificultad visual
+T14	SINTOMA 250 280	dificultad para pensar, hablar
+T15	SINTOMA 289 295	ve mal
+T16	SINTOMA 618 648	biomicroscopía anterior normal
+T17	SINTOMA 654 695	pupilas eran isocóricas y normorreactivas
+T18	SINTOMA 700 745	estudio fundoscópico no presenta alteraciones
+T19	SINTOMA 843 899	test de colores no presentaba alteraciones en ningún ojo
+T20	SINTOMA 935 973	RMN) cerebral con gadolinio fue normal
+T21	SINTOMA 1020 1054	exploración neurológica fue normal
+T22	SINTOMA 794 838	hemianopsia homónima izquierda no congruente

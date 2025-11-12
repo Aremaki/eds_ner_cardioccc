@@ -1,7 +1,11 @@
-T1	SINTOMA 459 486	alteraciones protrombóticas
-T2	SINTOMA 377 417	anticardiolipina IgG en valores normales
-T3	ENFERMEDAD 47 65	enfermedad celiaca
-T4	ENFERMEDAD 157 175	enfermedad celiaca
-T5	ENFERMEDAD 205 224	abortos espontáneos
-T6	ENFERMEDAD 230 270	accidente isquémico transitorio cerebral
-T7	ENFERMEDAD 459 486	alteraciones protrombóticas
+T1	ENFERMEDAD 47 65	enfermedad celiaca
+T2	ENFERMEDAD 157 175	enfermedad celiaca
+T3	ENFERMEDAD 205 224	abortos espontáneos
+T4	ENFERMEDAD 230 270	accidente isquémico transitorio cerebral
+T5	ENFERMEDAD 459 486	alteraciones protrombóticas
+T6	PROCEDIMIENTO 125 141	biopsia duodenal
+T7	PROCEDIMIENTO 419 439	Estudio hematológico
+T8	PROCEDIMIENTO 510 529	heparina subcutánea
+T9	PROCEDIMIENTO 532 553	dieta libre de gluten
+T10	SINTOMA 377 417	anticardiolipina IgG en valores normales
+T11	SINTOMA 459 486	alteraciones protrombóticas

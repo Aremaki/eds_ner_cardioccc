@@ -1,9 +1,44 @@
-T1	SINTOMA 992 1020	abombamiento de tablas óseas
-T2	SINTOMA 560 582	alteraciones estéticas
-T3	SINTOMA 644 708	aumento de volumen en la zona posterior del vestíbulo mandibular
-T4	SINTOMA 852 935	banda radiolúcida de límites netos corticalizados ubicada en la zona de la pieza 48
-T5	SINTOMA 1078 1142	canal mandibular se encontraba desplazado hacia el borde basilar
-T6	SINTOMA 1378 1412	ensanchamiento de las tablas óseas
-T7	SINTOMA 773 808	imagen unilocular de densidad mixta
-T8	SINTOMA 1027 1049	rechazo de la pieza 48
-T9	SINTOMA 3007 3038	tabla vestibular muy disminuida
+T1	ENFERMEDAD 1860 1886	odontoma complejo inmaduro
+T2	ENFERMEDAD 1888 1915	fibroodontoma ameloblástico
+T3	ENFERMEDAD 1917 1958	tumor odontogénico epitelial calcificante
+T4	ENFERMEDAD 124 160	lesión a nivel del ángulo mandibular
+T5	ENFERMEDAD 3626 3653	Fibroodontoma Ameloblástico
+T6	ENFERMEDAD 1961 2003	quiste odontogénico epitelial calcificante
+T7	ENFERMEDAD 3383 3402	fractura patológica
+T8	ENFERMEDAD 2666 2727	odontoma en formación con presencia de cambios ameloblásticas
+T9	ENFERMEDAD 339 361	antecedentes de tabaco
+T10	ENFERMEDAD 339 370	antecedentes de tabaco, alcohol
+T11	ENFERMEDAD 339 379	antecedentes de tabaco, alcohol y drogas
+T12	ENFERMEDAD 438 446	alergias
+T13	ENFERMEDAD 1320 1326	lesión
+T14	ENFERMEDAD 2644 2650	lesión
+T15	ENFERMEDAD 3724 3730	lesión
+T16	PROCEDIMIENTO 3485 3507	examen histopatológico
+T17	PROCEDIMIENTO 717 749	estudio radiológico convencional
+T18	PROCEDIMIENTO 1274 1304	tomografía axial computarizada
+T19	PROCEDIMIENTO 2773 2790	anestesia general
+T20	PROCEDIMIENTO 2066 2084	biopsia incisional
+T21	PROCEDIMIENTO 2090 2105	anestesia local
+T22	PROCEDIMIENTO 186 218	teleradiografía lateral cervical
+T23	PROCEDIMIENTO 464 477	examen físico
+T24	PROCEDIMIENTO 518 542	examen clínico extraoral
+T25	PROCEDIMIENTO 604 623	palpación intraoral
+T26	PROCEDIMIENTO 3251 3334	colocación de una placa de reconstrucción 2,4 a nivel de ángulo y cuerpo mandibular
+T27	PROCEDIMIENTO 3423 3430	injerto
+T28	PROCEDIMIENTO 3146 3175	curetaje del lecho quirúrgico
+T29	PROCEDIMIENTO 2732 2864	enucleación de la lesión se realizó bajo anestesia general, por medio de un abordaje extraoral a nivel del ángulo mandibular derecho
+T30	PROCEDIMIENTO 2906 2944	colocación de una osteosíntesis rígida
+T31	PROCEDIMIENTO 1558 1690	adquisición de las imágenes fue procesada con el software Dentascan®, obteniéndose reconstrucciones axiales, panorex y transversales
+T32	PROCEDIMIENTO 2018 2037	estudio radiológico
+T33	PROCEDIMIENTO 3007 3059	tabla vestibular muy disminuida, la que fue retirada
+T34	PROCEDIMIENTO 2612 2635	diagnóstico histológico
+T35	SINTOMA 992 1020	abombamiento de tablas óseas
+T36	SINTOMA 560 582	alteraciones estéticas
+T37	SINTOMA 644 708	aumento de volumen en la zona posterior del vestíbulo mandibular
+T38	SINTOMA 1027 1049	rechazo de la pieza 48
+T39	SINTOMA 1378 1412	ensanchamiento de las tablas óseas
+T40	SINTOMA 339 394	antecedentes de tabaco, alcohol y drogas eran negativos
+T41	SINTOMA 773 808	imagen unilocular de densidad mixta
+T42	SINTOMA 852 935	banda radiolúcida de límites netos corticalizados ubicada en la zona de la pieza 48
+T43	SINTOMA 1078 1142	canal mandibular se encontraba desplazado hacia el borde basilar
+T44	SINTOMA 3007 3038	tabla vestibular muy disminuida

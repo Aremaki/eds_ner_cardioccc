@@ -1,27 +1,32 @@
-T1	SINTOMA 461 472	albuminuria
-T2	SINTOMA 696 724	dificultad para concentrarse
-T3	SINTOMA 727 742	dolor de cabeza
-T4	SINTOMA 166 183	dolor lumbar bajo
-T5	SINTOMA 548 586	excreción fraccional de fosfato normal
-T6	SINTOMA 338 383	ferritina y saturación de transferan normales
-T7	SINTOMA 385 405	Función renal normal
-T8	SINTOMA 1292 1323	función renal se mantuvo normal
-T9	SINTOMA 526 545	glucosuria negativa
-T10	SINTOMA 1140 1163	haptoglobina disminuida
-T11	SINTOMA 248 273	haptoglobina indetectable
-T12	SINTOMA 1059 1073	hemoglobinuria
-T13	SINTOMA 489 503	Hemoglobinuria
-T14	SINTOMA 659 686	hemoglobinuria macroscópica
-T15	SINTOMA 1353 1376	hemoglobinuria negativa
-T16	SINTOMA 785 828	hipointensidad de señal en la corteza renal
-T17	SINTOMA 151 163	orina oscura
-T18	SINTOMA 429 440	proteinuria
-T19	SINTOMA 1329 1340	proteinuria
-T20	SINTOMA 508 524	sedimento normal
-T21	ENFERMEDAD 625 653	crisis hemolíticas repetidas
-T22	ENFERMEDAD 48 51	HPN
-T23	ENFERMEDAD 1096 1102	anemia
-T24	ENFERMEDAD 196 220	anemia hemolítica severa
-T25	ENFERMEDAD 891 922	esiones lacunares subcorticales
-T26	ENFERMEDAD 970 973	HPN
-T27	ENFERMEDAD 890 898	lesiones
+T1	ENFERMEDAD 625 653	crisis hemolíticas repetidas
+T2	ENFERMEDAD 48 51	HPN
+T3	ENFERMEDAD 1096 1102	anemia
+T4	ENFERMEDAD 196 220	anemia hemolítica severa
+T5	ENFERMEDAD 891 922	esiones lacunares subcorticales
+T6	ENFERMEDAD 970 973	HPN
+T7	ENFERMEDAD 890 898	lesiones
+T8	PROCEDIMIENTO 1231 1234	IRM
+T9	PROCEDIMIENTO 759 762	IRM
+T10	PROCEDIMIENTO 860 872	IRM cerebral
+T11	PROCEDIMIENTO 310 333	transfusión de hematíes
+T12	PROCEDIMIENTO 508 517	sedimento
+T13	SINTOMA 659 686	hemoglobinuria macroscópica
+T14	SINTOMA 696 724	dificultad para concentrarse
+T15	SINTOMA 1292 1323	función renal se mantuvo normal
+T16	SINTOMA 166 183	dolor lumbar bajo
+T17	SINTOMA 1353 1376	hemoglobinuria negativa
+T18	SINTOMA 385 405	Función renal normal
+T19	SINTOMA 151 163	orina oscura
+T20	SINTOMA 548 586	excreción fraccional de fosfato normal
+T21	SINTOMA 785 828	hipointensidad de señal en la corteza renal
+T22	SINTOMA 1140 1163	haptoglobina disminuida
+T23	SINTOMA 489 503	Hemoglobinuria
+T24	SINTOMA 461 472	albuminuria
+T25	SINTOMA 429 440	proteinuria
+T26	SINTOMA 1329 1340	proteinuria
+T27	SINTOMA 508 524	sedimento normal
+T28	SINTOMA 338 383	ferritina y saturación de transferan normales
+T29	SINTOMA 248 273	haptoglobina indetectable
+T30	SINTOMA 727 742	dolor de cabeza
+T31	SINTOMA 1059 1073	hemoglobinuria
+T32	SINTOMA 526 545	glucosuria negativa

@@ -1,44 +1,44 @@
-T1	SINTOMA 2385 2390	dolor
-T2	SINTOMA 1421 1442	focalidad neurológica
-T3	SINTOMA 1577 1598	irritación peritoneal
-T4	SINTOMA 2095 2104	ictericia
-T5	SINTOMA 1448 1475	buena dinámica respiratoria
-T6	SINTOMA 2756 2796	Concilió el sueño de forma satisfactoria
-T7	SINTOMA 1144 1217	disminución del grosor de los espacios intersomáticos en L4-L5 y en L5-S1
-T8	SINTOMA 2871 2879	distimia
-T9	SINTOMA 1858 1888	elevación de enzimas hepáticas
-T10	SINTOMA 477 525	estabilidad tanto respiratoria como hemodinámica
-T11	SINTOMA 733 767	hemostasia dentro de la normalidad
-T12	SINTOMA 3409 3443	movimiento potencialmente doloroso
-T13	SINTOMA 2192 2228	normalidad en los valores analíticos
-T14	SINTOMA 1549 1561	normocárdico
-T15	SINTOMA 1536 1546	normotenso
-T16	SINTOMA 448 470	pérdida de consciencia
-T17	SINTOMA 1524 1534	perfundido
-T18	SINTOMA 1240 1274	prominencia discal difusa en L4-L5
-T19	SINTOMA 1387 1415	pupilas reactivas simétricas
-T20	SINTOMA 1477 1522	saturación de oxígeno dentro de la normalidad
-T21	SINTOMA 2729 2754	sintomatología vegetativa
-T22	ENFERMEDAD 1303 1319	policontusionado
-T23	ENFERMEDAD 65 88	alergias medicamentosas
-T24	ENFERMEDAD 826 849	contusión pulmonar leve
-T25	ENFERMEDAD 2014 2038	hepatopatía aguda tóxica
-T26	ENFERMEDAD 854 882	fracturas costales de pelvis
-T27	ENFERMEDAD 2043 2057	fallo hepático
-T28	ENFERMEDAD 1613 1635	hematuria macroscópica
-T29	ENFERMEDAD 2075 2088	hepatomegalia
-T30	ENFERMEDAD 940 1002	fractura de la rama isquiopubiana izquierda sin desplazamiento
-T31	ENFERMEDAD 2871 2879	distimia
-T32	ENFERMEDAD 1097 1140	avulsión ósea del borde iliaco superomedial
-T33	ENFERMEDAD 1240 1274	prominencia discal difusa en L4-L5
-T34	ENFERMEDAD 1004 1076	diástasis de 10 mm en la porción superior de la articulación sacroiliaca
-T35	PROCEDIMIENTO 110 131	herniorrafia inguinal
-T36	PROCEDIMIENTO 1793 1812	analítica sanguínea
-T37	PROCEDIMIENTO 2954 2976	tratamiento analgésico
-T38	PROCEDIMIENTO 3470 3498	radiografía en bipedestación
-T39	PROCEDIMIENTO 600 635	extracción de una muestra sanguínea
-T40	PROCEDIMIENTO 709 718	hemograma
-T41	PROCEDIMIENTO 720 730	bioquímica
-T42	PROCEDIMIENTO 733 743	hemostasia
-T43	PROCEDIMIENTO 790 810	radiografía de tórax
-T44	PROCEDIMIENTO 885 915	TAC cervical y abdominopélvico
+T1	ENFERMEDAD 1303 1319	policontusionado
+T2	ENFERMEDAD 65 88	alergias medicamentosas
+T3	ENFERMEDAD 826 849	contusión pulmonar leve
+T4	ENFERMEDAD 2014 2038	hepatopatía aguda tóxica
+T5	ENFERMEDAD 854 882	fracturas costales de pelvis
+T6	ENFERMEDAD 2043 2057	fallo hepático
+T7	ENFERMEDAD 1613 1635	hematuria macroscópica
+T8	ENFERMEDAD 2075 2088	hepatomegalia
+T9	ENFERMEDAD 940 1002	fractura de la rama isquiopubiana izquierda sin desplazamiento
+T10	ENFERMEDAD 2871 2879	distimia
+T11	ENFERMEDAD 1097 1140	avulsión ósea del borde iliaco superomedial
+T12	ENFERMEDAD 1240 1274	prominencia discal difusa en L4-L5
+T13	ENFERMEDAD 1004 1076	diástasis de 10 mm en la porción superior de la articulación sacroiliaca
+T14	PROCEDIMIENTO 2954 2976	tratamiento analgésico
+T15	PROCEDIMIENTO 600 635	extracción de una muestra sanguínea
+T16	PROCEDIMIENTO 1793 1812	analítica sanguínea
+T17	PROCEDIMIENTO 110 131	herniorrafia inguinal
+T18	PROCEDIMIENTO 790 810	radiografía de tórax
+T19	PROCEDIMIENTO 885 915	TAC cervical y abdominopélvico
+T20	PROCEDIMIENTO 3470 3498	radiografía en bipedestación
+T21	PROCEDIMIENTO 709 718	hemograma
+T22	PROCEDIMIENTO 733 743	hemostasia
+T23	PROCEDIMIENTO 720 730	bioquímica
+T24	SINTOMA 1240 1274	prominencia discal difusa en L4-L5
+T25	SINTOMA 2385 2390	dolor
+T26	SINTOMA 1387 1415	pupilas reactivas simétricas
+T27	SINTOMA 1421 1442	focalidad neurológica
+T28	SINTOMA 1524 1534	perfundido
+T29	SINTOMA 1536 1546	normotenso
+T30	SINTOMA 1549 1561	normocárdico
+T31	SINTOMA 1577 1598	irritación peritoneal
+T32	SINTOMA 2729 2754	sintomatología vegetativa
+T33	SINTOMA 448 470	pérdida de consciencia
+T34	SINTOMA 477 525	estabilidad tanto respiratoria como hemodinámica
+T35	SINTOMA 1144 1217	disminución del grosor de los espacios intersomáticos en L4-L5 y en L5-S1
+T36	SINTOMA 2095 2104	ictericia
+T37	SINTOMA 1448 1475	buena dinámica respiratoria
+T38	SINTOMA 1477 1522	saturación de oxígeno dentro de la normalidad
+T39	SINTOMA 733 767	hemostasia dentro de la normalidad
+T40	SINTOMA 1858 1888	elevación de enzimas hepáticas
+T41	SINTOMA 2192 2228	normalidad en los valores analíticos
+T42	SINTOMA 2756 2796	Concilió el sueño de forma satisfactoria
+T43	SINTOMA 2871 2879	distimia
+T44	SINTOMA 3409 3443	movimiento potencialmente doloroso

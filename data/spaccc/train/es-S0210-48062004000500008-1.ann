@@ -1,22 +1,32 @@
-T1	SINTOMA 2455 2487	alteración en la potencia sexual
-T2	SINTOMA 533 541	anorexia
-T3	SINTOMA 524 531	astenia
-T4	SINTOMA 1179 1205	disminución de la erección
-T5	SINTOMA 938 943	dolor
-T6	SINTOMA 1955 2018	elevación de las cifras de leucocitos (414 x 109/L) y plaquetas
-T7	SINTOMA 108 135	erección levemente dolorosa
-T8	SINTOMA 544 550	fiebre
-T9	SINTOMA 1887 1896	flaccidez
-T10	SINTOMA 1818 1835	flaccidez peneana
-T11	SINTOMA 815 824	priapismo
-T12	SINTOMA 2380 2389	priapismo
-T13	SINTOMA 729 738	priapismo
-T14	ENFERMEDAD 729 761	priapismo de prolongada duración
-T15	ENFERMEDAD 2068 2095	síndrome mieloproliferativo
-T16	ENFERMEDAD 371 390	traumatismo peneano
-T17	ENFERMEDAD 815 838	priapismo de alto flujo
-T18	ENFERMEDAD 2156 2181	leucemia mieloide crónica
-T19	ENFERMEDAD 2380 2389	priapismo
-T20	ENFERMEDAD 956 999	daño irreversible en los cuerpos cavernosos
-T21	ENFERMEDAD 2423 2448	leucemia mieloide crónica
-T22	ENFERMEDAD 2321 2344	enfermedad hematológica
+T1	ENFERMEDAD 729 761	priapismo de prolongada duración
+T2	ENFERMEDAD 2068 2095	síndrome mieloproliferativo
+T3	ENFERMEDAD 371 390	traumatismo peneano
+T4	ENFERMEDAD 815 838	priapismo de alto flujo
+T5	ENFERMEDAD 2156 2181	leucemia mieloide crónica
+T6	ENFERMEDAD 2380 2389	priapismo
+T7	ENFERMEDAD 956 999	daño irreversible en los cuerpos cavernosos
+T8	ENFERMEDAD 2423 2448	leucemia mieloide crónica
+T9	ENFERMEDAD 2321 2344	enfermedad hematológica
+T10	PROCEDIMIENTO 1004 1093	punciona con un catéter intravenoso de 19 G en ambos cuerpos cavernosos, aspirando sangre
+T11	PROCEDIMIENTO 567 625	gasometría de la sangre extraída de los cuerpos cavernosos
+T12	PROCEDIMIENTO 2228 2300	trasplante de médula ósea alogénico de donante familiar con HLA idéntico
+T13	PROCEDIMIENTO 862 882	revertir la erección
+T14	PROCEDIMIENTO 1334 1387	Se inyecta 2 ml de la solución en un cuerpo cavernoso
+T15	PROCEDIMIENTO 1630 1721	introduciendo 20-30 ml de esta solución en cada uno de los cuerpos cavernosos para lavarlos
+T16	PROCEDIMIENTO 1909 1930	analíticas sanguíneas
+T17	PROCEDIMIENTO 436 463	inyecciones intracavernosas
+T18	PROCEDIMIENTO 417 425	fármacos
+T19	PROCEDIMIENTO 1258 1282	agonista alfaadrenérgico
+T20	SINTOMA 108 135	erección levemente dolorosa
+T21	SINTOMA 1179 1205	disminución de la erección
+T22	SINTOMA 524 531	astenia
+T23	SINTOMA 533 541	anorexia
+T24	SINTOMA 544 550	fiebre
+T25	SINTOMA 2455 2487	alteración en la potencia sexual
+T26	SINTOMA 1818 1835	flaccidez peneana
+T27	SINTOMA 938 943	dolor
+T28	SINTOMA 729 738	priapismo
+T29	SINTOMA 815 824	priapismo
+T30	SINTOMA 1887 1896	flaccidez
+T31	SINTOMA 1955 2018	elevación de las cifras de leucocitos (414 x 109/L) y plaquetas
+T32	SINTOMA 2380 2389	priapismo

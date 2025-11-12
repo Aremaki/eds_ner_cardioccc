@@ -1,22 +1,22 @@
-T1	SINTOMA 645 692	asa aferente dilatada y replecionada de líquido
-T2	SINTOMA 429 484	dilatación de las vías biliares intra- y extrahepáticas
-T3	SINTOMA 211 252	dolor abdominal localizado en mesogastrio
-T4	SINTOMA 264 318	leve aumento de las cifras de amilasa y lipasa séricas
-T5	SINTOMA 805 875	pliegues engrosados en el muñón gástrico que obstruían el asa aferente
-T6	SINTOMA 390 416	vesícula biliar distendida
-T7	ENFERMEDAD 84 98	ulcus gástrico
-T8	ENFERMEDAD 429 484	dilatación de las vías biliares intra- y extrahepáticas
-T9	ENFERMEDAD 496 609	formación quística de paredes finas y morfología tubular ocupando desde hipocondrio izquierdo hasta vacío derecho
-T10	ENFERMEDAD 892 915	infiltración neoplásica
-T11	ENFERMEDAD 390 416	vesícula biliar distendida
-T12	PROCEDIMIENTO 1009 1036	intervenido quirúrgicamente
-T13	PROCEDIMIENTO 1042 1060	gastrectomía total
-T14	PROCEDIMIENTO 1063 1090	anastomosis esófago-yeyunal
-T15	PROCEDIMIENTO 111 145	reconstrucción de tipo Billroth II
-T16	PROCEDIMIENTO 360 379	ecografía abdominal
-T17	PROCEDIMIENTO 46 66	gastrectomía parcial
-T18	PROCEDIMIENTO 697 700	TAC
-T19	PROCEDIMIENTO 706 709	RMN
-T20	PROCEDIMIENTO 742 767	endoscopia digestiva alta
-T21	PROCEDIMIENTO 943 962	estudio histológico
-T22	PROCEDIMIENTO 970 991	biopsias endoscópicas
+T1	ENFERMEDAD 84 98	ulcus gástrico
+T2	ENFERMEDAD 429 484	dilatación de las vías biliares intra- y extrahepáticas
+T3	ENFERMEDAD 496 609	formación quística de paredes finas y morfología tubular ocupando desde hipocondrio izquierdo hasta vacío derecho
+T4	ENFERMEDAD 892 915	infiltración neoplásica
+T5	ENFERMEDAD 390 416	vesícula biliar distendida
+T6	PROCEDIMIENTO 46 66	gastrectomía parcial
+T7	PROCEDIMIENTO 111 145	reconstrucción de tipo Billroth II
+T8	PROCEDIMIENTO 360 379	ecografía abdominal
+T9	PROCEDIMIENTO 697 700	TAC
+T10	PROCEDIMIENTO 706 709	RMN
+T11	PROCEDIMIENTO 742 767	endoscopia digestiva alta
+T12	PROCEDIMIENTO 943 962	estudio histológico
+T13	PROCEDIMIENTO 970 991	biopsias endoscópicas
+T14	PROCEDIMIENTO 1042 1060	gastrectomía total
+T15	PROCEDIMIENTO 1063 1090	anastomosis esófago-yeyunal
+T16	PROCEDIMIENTO 1009 1036	intervenido quirúrgicamente
+T17	SINTOMA 211 252	dolor abdominal localizado en mesogastrio
+T18	SINTOMA 264 318	leve aumento de las cifras de amilasa y lipasa séricas
+T19	SINTOMA 390 416	vesícula biliar distendida
+T20	SINTOMA 805 875	pliegues engrosados en el muñón gástrico que obstruían el asa aferente
+T21	SINTOMA 645 692	asa aferente dilatada y replecionada de líquido
+T22	SINTOMA 429 484	dilatación de las vías biliares intra- y extrahepáticas

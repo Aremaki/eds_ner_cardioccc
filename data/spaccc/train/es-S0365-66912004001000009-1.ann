@@ -1,17 +1,31 @@
-T1	SINTOMA 60 98	edema bilateral de párpados superiores
-T2	SINTOMA 675 736	exploración sistémica, resultando todos los estudios normales
-T3	SINTOMA 807 812	masas
-T4	SINTOMA 416 445	masas no móviles ni dolorosas
-T5	SINTOMA 1842 1984	TC abdomino-torácico, TC craneal y orbitario, Rx torácica, ecografía abdomino-pélvica y Scan óseo con Tc 99m difosfato. Todas fueron normales.
-T6	SINTOMA 1160 1172	tumoraciones
-T7	ENFERMEDAD 593 614	pseudotumor orbitario
-T8	ENFERMEDAD 616 639	enfermedad del colágeno
-T9	ENFERMEDAD 641 652	sarcoidosis
-T10	ENFERMEDAD 993 1042	proceso inflamatorio localizado a nivel palpebral
-T11	ENFERMEDAD 1544 1563	xantogranulomatosis
-T12	ENFERMEDAD 1744 1773	xantogranulomatosis palpebral
-T13	ENFERMEDAD 2011 2030	xantogranulomatosis
-T14	ENFERMEDAD 2034 2074	enfermedad de Erdheim-Chester, orbitaria
-T15	ENFERMEDAD 198 227	párpados superiores, lesiones
-T16	ENFERMEDAD 856 906	infiltrar el músculo elevador del párpado superior
-T17	ENFERMEDAD 912 939	afectación del globo ocular
+T1	ENFERMEDAD 593 614	pseudotumor orbitario
+T2	ENFERMEDAD 616 639	enfermedad del colágeno
+T3	ENFERMEDAD 641 652	sarcoidosis
+T4	ENFERMEDAD 993 1042	proceso inflamatorio localizado a nivel palpebral
+T5	ENFERMEDAD 1544 1563	xantogranulomatosis
+T6	ENFERMEDAD 1744 1773	xantogranulomatosis palpebral
+T7	ENFERMEDAD 2011 2030	xantogranulomatosis
+T8	ENFERMEDAD 2034 2074	enfermedad de Erdheim-Chester, orbitaria
+T9	ENFERMEDAD 198 227	párpados superiores, lesiones
+T10	ENFERMEDAD 856 906	infiltrar el músculo elevador del párpado superior
+T11	ENFERMEDAD 912 939	afectación del globo ocular
+T12	PROCEDIMIENTO 130 155	exploración oftalmológica
+T13	PROCEDIMIENTO 744 788	Resonancia Nuclear Magnética (RNM) de órbita
+T14	PROCEDIMIENTO 953 976	tratamiento corticoideo
+T15	PROCEDIMIENTO 1842 1862	TC abdomino-torácico
+T16	PROCEDIMIENTO 1864 1886	TC craneal y orbitario
+T17	PROCEDIMIENTO 1888 1899	Rx torácica
+T18	PROCEDIMIENTO 1901 1927	ecografía abdomino-pélvica
+T19	PROCEDIMIENTO 1930 1960	Scan óseo con Tc 99m difosfato
+T20	PROCEDIMIENTO 2144 2164	ciclo de corticoides
+T21	PROCEDIMIENTO 1302 1320	biopsia incisional
+T22	PROCEDIMIENTO 1392 1411	estudio histológico
+T23	PROCEDIMIENTO 675 696	exploración sistémica
+T24	PROCEDIMIENTO 774 777	RNM
+T25	PROCEDIMIENTO 1615 1680	tinciones inmunohistoquímicas para células histiocitarias (CD 68)
+T26	SINTOMA 60 98	edema bilateral de párpados superiores
+T27	SINTOMA 807 812	masas
+T28	SINTOMA 675 736	exploración sistémica, resultando todos los estudios normales
+T29	SINTOMA 1160 1172	tumoraciones
+T30	SINTOMA 416 445	masas no móviles ni dolorosas
+T31	SINTOMA 1842 1984	TC abdomino-torácico, TC craneal y orbitario, Rx torácica, ecografía abdomino-pélvica y Scan óseo con Tc 99m difosfato. Todas fueron normales.

@@ -1,48 +1,48 @@
-T1	SINTOMA 1754 1763	hematuria
-T2	SINTOMA 2836 2845	hematuria
-T3	SINTOMA 340 349	hipotensa
-T4	SINTOMA 1149 1176	inestable hemodinámicamente
-T5	SINTOMA 1437 1445	sangrado
-T6	SINTOMA 860 875	sangrado activo
-T7	SINTOMA 111 162	hematuria macroscópica monosintomática con coágulos
-T8	SINTOMA 711 762	mucosa vesical está hiperémica, con sangrado difuso
-T9	SINTOMA 2536 2577	proteína AA del amiloide resultó positiva
-T10	SINTOMA 1083 1115	vejiga está nuevamente coagulada
-T11	ENFERMEDAD 111 133	hematuria macroscópica
-T12	ENFERMEDAD 1359 1414	problema obstructivo producido por la ocupación vesical
-T13	ENFERMEDAD 2890 2929	afectación sistémica por la amiloidosis
-T14	ENFERMEDAD 330 337	anémica
-T15	ENFERMEDAD 504 552	vejiga completamente ocupada por un gran coágulo
-T16	ENFERMEDAD 1139 1146	anémica
-T17	ENFERMEDAD 563 602	ureterohidronefrosis bilateral moderada
-T18	ENFERMEDAD 2608 2648	Amiloidosis vesical secundaria (Tipo AA)
-T19	ENFERMEDAD 781 803	lesiones endovesicales
-T20	ENFERMEDAD 2463 2469	lesión
-T21	ENFERMEDAD 340 349	hipotensa
-T22	ENFERMEDAD 545 560	coágulo vesical
-T23	PROCEDIMIENTO 1200 1240	transfusión de 10 concentrados hemáticos
-T24	PROCEDIMIENTO 1281 1313	nefrostomía percutánea bilateral
-T25	PROCEDIMIENTO 1315 1318	NPC
-T26	PROCEDIMIENTO 1470 1522	nefrostomía percutánea bilateral eco y radiodirigida
-T27	PROCEDIMIENTO 1529 1546	anestesia general
-T28	PROCEDIMIENTO 1551 1571	posición de Valdivia
-T29	PROCEDIMIENTO 1573 1631	colocando sendos catéteres 8 Ch a través de cáliz inferior
-T30	PROCEDIMIENTO 1690 1703	NPC bilateral
-T31	PROCEDIMIENTO 1789 1812	ransfusiones sanguíneas
-T32	PROCEDIMIENTO 1846 1864	aminas vasoactivas
-T33	PROCEDIMIENTO 1870 1892	intubación orotraqueal
-T34	PROCEDIMIENTO 2026 2066	endoscópica vesical con toma de biopsias
-T35	PROCEDIMIENTO 2071 2097	estudio anátomo-patológico
-T36	PROCEDIMIENTO 2271 2292	tinción de Rojo Congo
-T37	PROCEDIMIENTO 238 253	sondaje vesical
-T38	PROCEDIMIENTO 2430 2560	estudio inmunohistoquímico de la lesión con anticuerpos monoclonales, (clon mc1), específicos frente a la proteína AA del amiloide
-T39	PROCEDIMIENTO 256 296	circuito de lavado con suero fisiológico
-T40	PROCEDIMIENTO 2712 2724	nefrostomías
-T41	PROCEDIMIENTO 363 391	aporte de aminas vasoactivas
-T42	PROCEDIMIENTO 394 435	politransfusión de concentrados hemáticos
-T43	PROCEDIMIENTO 448 467	TC abdómino-pélvico
-T44	PROCEDIMIENTO 616 660	Se interviene a la paciente endoscópicamente
-T45	PROCEDIMIENTO 661 706	evacuando aproximadamente 1 litro de coágulos
-T46	PROCEDIMIENTO 821 875	electrocoagulación de varias áreas con sangrado activo
-T47	PROCEDIMIENTO 936 958	intubación orotraqueal
-T48	PROCEDIMIENTO 976 1006	soporte con aminas vasoactivas
+T1	ENFERMEDAD 111 133	hematuria macroscópica
+T2	ENFERMEDAD 1359 1414	problema obstructivo producido por la ocupación vesical
+T3	ENFERMEDAD 2890 2929	afectación sistémica por la amiloidosis
+T4	ENFERMEDAD 330 337	anémica
+T5	ENFERMEDAD 504 552	vejiga completamente ocupada por un gran coágulo
+T6	ENFERMEDAD 1139 1146	anémica
+T7	ENFERMEDAD 563 602	ureterohidronefrosis bilateral moderada
+T8	ENFERMEDAD 2608 2648	Amiloidosis vesical secundaria (Tipo AA)
+T9	ENFERMEDAD 781 803	lesiones endovesicales
+T10	ENFERMEDAD 2463 2469	lesión
+T11	ENFERMEDAD 340 349	hipotensa
+T12	ENFERMEDAD 545 560	coágulo vesical
+T13	PROCEDIMIENTO 1470 1522	nefrostomía percutánea bilateral eco y radiodirigida
+T14	PROCEDIMIENTO 1690 1703	NPC bilateral
+T15	PROCEDIMIENTO 1281 1313	nefrostomía percutánea bilateral
+T16	PROCEDIMIENTO 2026 2066	endoscópica vesical con toma de biopsias
+T17	PROCEDIMIENTO 1315 1318	NPC
+T18	PROCEDIMIENTO 2071 2097	estudio anátomo-patológico
+T19	PROCEDIMIENTO 1573 1631	colocando sendos catéteres 8 Ch a través de cáliz inferior
+T20	PROCEDIMIENTO 1789 1812	ransfusiones sanguíneas
+T21	PROCEDIMIENTO 821 875	electrocoagulación de varias áreas con sangrado activo
+T22	PROCEDIMIENTO 1870 1892	intubación orotraqueal
+T23	PROCEDIMIENTO 238 253	sondaje vesical
+T24	PROCEDIMIENTO 936 958	intubación orotraqueal
+T25	PROCEDIMIENTO 976 1006	soporte con aminas vasoactivas
+T26	PROCEDIMIENTO 363 391	aporte de aminas vasoactivas
+T27	PROCEDIMIENTO 394 435	politransfusión de concentrados hemáticos
+T28	PROCEDIMIENTO 448 467	TC abdómino-pélvico
+T29	PROCEDIMIENTO 2430 2560	estudio inmunohistoquímico de la lesión con anticuerpos monoclonales, (clon mc1), específicos frente a la proteína AA del amiloide
+T30	PROCEDIMIENTO 1200 1240	transfusión de 10 concentrados hemáticos
+T31	PROCEDIMIENTO 2712 2724	nefrostomías
+T32	PROCEDIMIENTO 256 296	circuito de lavado con suero fisiológico
+T33	PROCEDIMIENTO 616 660	Se interviene a la paciente endoscópicamente
+T34	PROCEDIMIENTO 661 706	evacuando aproximadamente 1 litro de coágulos
+T35	PROCEDIMIENTO 1551 1571	posición de Valdivia
+T36	PROCEDIMIENTO 1529 1546	anestesia general
+T37	PROCEDIMIENTO 1846 1864	aminas vasoactivas
+T38	PROCEDIMIENTO 2271 2292	tinción de Rojo Congo
+T39	SINTOMA 711 762	mucosa vesical está hiperémica, con sangrado difuso
+T40	SINTOMA 1754 1763	hematuria
+T41	SINTOMA 340 349	hipotensa
+T42	SINTOMA 1149 1176	inestable hemodinámicamente
+T43	SINTOMA 860 875	sangrado activo
+T44	SINTOMA 111 162	hematuria macroscópica monosintomática con coágulos
+T45	SINTOMA 2836 2845	hematuria
+T46	SINTOMA 1437 1445	sangrado
+T47	SINTOMA 2536 2577	proteína AA del amiloide resultó positiva
+T48	SINTOMA 1083 1115	vejiga está nuevamente coagulada

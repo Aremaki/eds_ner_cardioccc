@@ -1,34 +1,34 @@
-T1	SINTOMA 530 565	disminución del nivel de conciencia
-T2	SINTOMA 871 902	desorientación temporo-espacial
-T3	SINTOMA 1443 1478	disminución del nivel de conciencia
-T4	SINTOMA 1501 1522	agitación psicomotriz
-T5	SINTOMA 2039 2050	somnolencia
-T6	SINTOMA 2195 2214	clínica neurológica
-T7	SINTOMA 355 366	proteinuria
-T8	SINTOMA 1009 1020	agresividad
-T9	SINTOMA 658 705	Electroencefalograma con enlentecimiento difuso
-T10	SINTOMA 2069 2081	espasticidad
-T11	SINTOMA 982 994	infantilismo
-T12	SINTOMA 996 1007	nerviosismo
-T13	SINTOMA 302 332	proteinuria en rango nefrótico
-T14	SINTOMA 1034 1096	resonancia magnética nuclear cerebral sin hallazgos de interés
-T15	SINTOMA 578 656	tomografía axial computarizada craneal y punción lumbar, siendo ambas normales
-T16	ENFERMEDAD 24 49	lesión medular traumática
-T17	ENFERMEDAD 1200 1228	insuficiencia renal terminal
-T18	ENFERMEDAD 86 121	infecciones urinarias de repetición
-T19	ENFERMEDAD 138 154	vejiga neurógena
-T20	ENFERMEDAD 1664 1697	encefalopatía hipóxica-metabólica
-T21	ENFERMEDAD 982 994	infantilismo
-T22	ENFERMEDAD 184 204	obstrucción urinaria
-T23	ENFERMEDAD 793 811	infección urinaria
-T24	ENFERMEDAD 262 286	enfermedad renal crónica
-T25	PROCEDIMIENTO 1034 1071	resonancia magnética nuclear cerebral
-T26	PROCEDIMIENTO 1177 1186	analítica
-T27	PROCEDIMIENTO 1240 1311	hemodiálisis a través de catéter provisional en la vena yugular derecha
-T28	PROCEDIMIENTO 1416 1428	hemodiálisis
-T29	PROCEDIMIENTO 156 167	autosondaje
-T30	PROCEDIMIENTO 1777 1785	diálisis
-T31	PROCEDIMIENTO 409 422	biopsia renal
-T32	PROCEDIMIENTO 578 616	tomografía axial computarizada craneal
-T33	PROCEDIMIENTO 619 633	punción lumbar
-T34	PROCEDIMIENTO 658 678	Electroencefalograma
+T1	ENFERMEDAD 24 49	lesión medular traumática
+T2	ENFERMEDAD 1200 1228	insuficiencia renal terminal
+T3	ENFERMEDAD 86 121	infecciones urinarias de repetición
+T4	ENFERMEDAD 138 154	vejiga neurógena
+T5	ENFERMEDAD 1664 1697	encefalopatía hipóxica-metabólica
+T6	ENFERMEDAD 982 994	infantilismo
+T7	ENFERMEDAD 184 204	obstrucción urinaria
+T8	ENFERMEDAD 793 811	infección urinaria
+T9	ENFERMEDAD 262 286	enfermedad renal crónica
+T10	PROCEDIMIENTO 1777 1785	diálisis
+T11	PROCEDIMIENTO 1240 1311	hemodiálisis a través de catéter provisional en la vena yugular derecha
+T12	PROCEDIMIENTO 578 616	tomografía axial computarizada craneal
+T13	PROCEDIMIENTO 1416 1428	hemodiálisis
+T14	PROCEDIMIENTO 619 633	punción lumbar
+T15	PROCEDIMIENTO 658 678	Electroencefalograma
+T16	PROCEDIMIENTO 1034 1071	resonancia magnética nuclear cerebral
+T17	PROCEDIMIENTO 409 422	biopsia renal
+T18	PROCEDIMIENTO 156 167	autosondaje
+T19	PROCEDIMIENTO 1177 1186	analítica
+T20	SINTOMA 530 565	disminución del nivel de conciencia
+T21	SINTOMA 871 902	desorientación temporo-espacial
+T22	SINTOMA 1443 1478	disminución del nivel de conciencia
+T23	SINTOMA 658 705	Electroencefalograma con enlentecimiento difuso
+T24	SINTOMA 1501 1522	agitación psicomotriz
+T25	SINTOMA 2039 2050	somnolencia
+T26	SINTOMA 302 332	proteinuria en rango nefrótico
+T27	SINTOMA 2195 2214	clínica neurológica
+T28	SINTOMA 1034 1096	resonancia magnética nuclear cerebral sin hallazgos de interés
+T29	SINTOMA 1009 1020	agresividad
+T30	SINTOMA 2069 2081	espasticidad
+T31	SINTOMA 996 1007	nerviosismo
+T32	SINTOMA 355 366	proteinuria
+T33	SINTOMA 578 656	tomografía axial computarizada craneal y punción lumbar, siendo ambas normales
+T34	SINTOMA 982 994	infantilismo

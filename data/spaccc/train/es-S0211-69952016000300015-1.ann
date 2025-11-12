@@ -1,15 +1,48 @@
-T1	SINTOMA 366 395	deterioro de la función renal
-T2	SINTOMA 3255 3273	disnea de esfuerzo
-T3	SINTOMA 658 676	disnea de esfuerzo
-T4	SINTOMA 2629 2646	dolor neuropático
-T5	SINTOMA 2618 2623	edema
-T6	SINTOMA 649 655	edemas
-T7	SINTOMA 2946 2967	función renal estable
-T8	SINTOMA 2064 2174	homocigoto para una nueva mutación c.1182del (delección de un solo nucleótido) en el exón 7 del gen alfa-GLA A
-T9	SINTOMA 255 290	mala diferenciación córtico-medular
-T10	SINTOMA 165 176	proteinuria
-T11	SINTOMA 444 455	proteinuria
-T12	SINTOMA 828 839	proteinuria
-T13	SINTOMA 3030 3041	proteinuria
-T14	SINTOMA 1102 1138	prueba de sudor que no recogió sudor
-T15	SINTOMA 2857 2861	vivo
+T1	ENFERMEDAD 1265 1267	EF
+T2	ENFERMEDAD 83 85	EF
+T3	ENFERMEDAD 309 351	múltiples quistes parapiélicos bilaterales
+T4	ENFERMEDAD 1603 1605	EF
+T5	ENFERMEDAD 565 609	moderada-grave nefritis intersticial crónica
+T6	ENFERMEDAD 703 720	lesiones cutáneas
+T7	ENFERMEDAD 933 974	miocardiopatía por enfermedad de depósito
+T8	ENFERMEDAD 1013 1042	neuropatía de fibras pequeñas
+T9	ENFERMEDAD 1215 1234	córnea verticillata
+T10	ENFERMEDAD 2713 2741	insuficiencia renal terminal
+T11	ENFERMEDAD 3305 3324	fibrosis miocárdica
+T12	ENFERMEDAD 735 758	angioqueratomas en piel
+T13	PROCEDIMIENTO 190 209	ecografía abdominal
+T14	PROCEDIMIENTO 215 235	resonancia magnética
+T15	PROCEDIMIENTO 237 239	RM
+T16	PROCEDIMIENTO 1719 1735	estudio genético
+T17	PROCEDIMIENTO 493 527	biopsia renal guiada por ecografía
+T18	PROCEDIMIENTO 875 889	ecocardiograma
+T19	PROCEDIMIENTO 898 909	RM cardiaca
+T20	PROCEDIMIENTO 979 995	electromiografía
+T21	PROCEDIMIENTO 1102 1117	prueba de sudor
+T22	PROCEDIMIENTO 2528 2557	terapia de reemplazo hormonal
+T23	PROCEDIMIENTO 2787 2799	hemodiálisis
+T24	PROCEDIMIENTO 2832 2861	injerto renal de donante vivo
+T25	PROCEDIMIENTO 3339 3358	resonancia cardiaca
+T26	PROCEDIMIENTO 3075 3083	biopsias
+T27	PROCEDIMIENTO 1182 1203	estudio oftalmológico
+T28	PROCEDIMIENTO 1823 1887	fragmentos de genes de codificación se amplificaron mediante PCR
+T29	PROCEDIMIENTO 1147 1175	estimulación con pilocarpina
+T30	PROCEDIMIENTO 1740 1816	ácido desoxirribonucleico genómico (ADN) se extrajo de mancha de sangre seca
+T31	PROCEDIMIENTO 1892 1986	secuenciación directa de los 7 exones del gen de GLA se realizó usando un secuenciador capilar
+T32	PROCEDIMIENTO 763 772	analítica
+T33	PROCEDIMIENTO 681 692	exploración
+T34	SINTOMA 165 176	proteinuria
+T35	SINTOMA 366 395	deterioro de la función renal
+T36	SINTOMA 444 455	proteinuria
+T37	SINTOMA 649 655	edemas
+T38	SINTOMA 658 676	disnea de esfuerzo
+T39	SINTOMA 2618 2623	edema
+T40	SINTOMA 2629 2646	dolor neuropático
+T41	SINTOMA 3255 3273	disnea de esfuerzo
+T42	SINTOMA 828 839	proteinuria
+T43	SINTOMA 255 290	mala diferenciación córtico-medular
+T44	SINTOMA 2064 2174	homocigoto para una nueva mutación c.1182del (delección de un solo nucleótido) en el exón 7 del gen alfa-GLA A
+T45	SINTOMA 3030 3041	proteinuria
+T46	SINTOMA 1102 1138	prueba de sudor que no recogió sudor
+T47	SINTOMA 2857 2861	vivo
+T48	SINTOMA 2946 2967	función renal estable

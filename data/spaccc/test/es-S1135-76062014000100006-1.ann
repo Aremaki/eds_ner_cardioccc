@@ -1,24 +1,24 @@
-T1	SINTOMA 331 336	dolor
-T2	SINTOMA 388 395	náuseas
-T3	SINTOMA 398 405	síncope
-T4	SINTOMA 189 202	fallecimiento
-T5	SINTOMA 1155 1162	nódulos
-T6	SINTOMA 512 518	muerte
-T7	SINTOMA 212 234	dolor en el epigastrio
-T8	SINTOMA 285 326	electrocardiograma se informó como normal
-T9	SINTOMA 1056 1111	estómago, de aspecto hiperémico, retráctil, con nódulos
-T10	ENFERMEDAD 557 601	cicatriz de laparotomía media supraumbilical
-T11	ENFERMEDAD 796 895	hemopericardio secundario a rotura de infarto transmural en la pared libre del ventrículo izquierdo
-T12	ENFERMEDAD 52 73	hipertensión arterial
-T13	ENFERMEDAD 1306 1398	fibrosis cicatricial evolucionada y calcificada en relación con restos de material de sutura
-T14	ENFERMEDAD 90 105	hernia inguinal
-T15	ENFERMEDAD 134 165	hiperplasia benigna de próstata
-T16	ENFERMEDAD 898 946	aterosclerosis coronaria grave de los tres vasos
-T17	ENFERMEDAD 737 752	hernia inguinal
-T18	ENFERMEDAD 398 405	síncope
-T19	PROCEDIMIENTO 1239 1258	estudio histológico
-T20	PROCEDIMIENTO 285 303	electrocardiograma
-T21	PROCEDIMIENTO 531 539	autopsia
-T22	PROCEDIMIENTO 569 601	laparotomía media supraumbilical
-T23	PROCEDIMIENTO 683 695	intervención
-T24	PROCEDIMIENTO 963 971	autopsia
+T1	ENFERMEDAD 557 601	cicatriz de laparotomía media supraumbilical
+T2	ENFERMEDAD 796 895	hemopericardio secundario a rotura de infarto transmural en la pared libre del ventrículo izquierdo
+T3	ENFERMEDAD 52 73	hipertensión arterial
+T4	ENFERMEDAD 1306 1398	fibrosis cicatricial evolucionada y calcificada en relación con restos de material de sutura
+T5	ENFERMEDAD 90 105	hernia inguinal
+T6	ENFERMEDAD 134 165	hiperplasia benigna de próstata
+T7	ENFERMEDAD 898 946	aterosclerosis coronaria grave de los tres vasos
+T8	ENFERMEDAD 737 752	hernia inguinal
+T9	ENFERMEDAD 398 405	síncope
+T10	PROCEDIMIENTO 1239 1258	estudio histológico
+T11	PROCEDIMIENTO 531 539	autopsia
+T12	PROCEDIMIENTO 963 971	autopsia
+T13	PROCEDIMIENTO 285 303	electrocardiograma
+T14	PROCEDIMIENTO 683 695	intervención
+T15	PROCEDIMIENTO 569 601	laparotomía media supraumbilical
+T16	SINTOMA 1056 1111	estómago, de aspecto hiperémico, retráctil, con nódulos
+T17	SINTOMA 212 234	dolor en el epigastrio
+T18	SINTOMA 331 336	dolor
+T19	SINTOMA 388 395	náuseas
+T20	SINTOMA 398 405	síncope
+T21	SINTOMA 285 326	electrocardiograma se informó como normal
+T22	SINTOMA 189 202	fallecimiento
+T23	SINTOMA 1155 1162	nódulos
+T24	SINTOMA 512 518	muerte

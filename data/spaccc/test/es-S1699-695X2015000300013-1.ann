@@ -1,32 +1,32 @@
-T1	SINTOMA 476 492	pérdida ponderal
-T2	SINTOMA 537 562	disminución de la ingesta
-T3	SINTOMA 564 571	temblor
-T4	SINTOMA 1419 1432	hipopotasemia
-T5	SINTOMA 1065 1072	nódulos
-T6	SINTOMA 692 736	alteraciones en los reflejos osteotendinosos
-T7	SINTOMA 787 797	dismetrías
-T8	SINTOMA 651 688	disminución de fuerza en los miembros
-T9	SINTOMA 927 937	exoftalmos
-T10	SINTOMA 2583 2606	función tiroidea normal
-T11	SINTOMA 583 596	irritabilidad
-T12	SINTOMA 753 767	marcha estable
-T13	SINTOMA 599 610	nerviosismo
-T14	SINTOMA 1384 1401	pérdida de fuerza
-T15	SINTOMA 105 156	pérdida de fuerza brusca en los miembros inferiores
-T16	SINTOMA 902 921	temblor fino distal
-T17	SINTOMA 2075 2139	tiroidea, que en nuestro caso mostraba una hipercaptación difusa
-T18	SINTOMA 1023 1051	tiroides de tamaño aumentado
-T19	SINTOMA 1888 1920	vitamina D y PTH fueron normales
-T20	ENFERMEDAD 1469 1488	parálisis periódica
-T21	ENFERMEDAD 1540 1558	patología tiroidea
-T22	ENFERMEDAD 1607 1652	hipertiroidismo primario de origen autoinmune
-T23	ENFERMEDAD 2040 2055	hipertiroidismo
-T24	ENFERMEDAD 2180 2200	enfermedad de Graves
-T25	ENFERMEDAD 2649 2658	parálisis
-T26	ENFERMEDAD 927 937	exoftalmos
-T27	ENFERMEDAD 1419 1432	hipopotasemia
-T28	PROCEDIMIENTO 1010 1019	palpación
-T29	PROCEDIMIENTO 1089 1098	analítica
-T30	PROCEDIMIENTO 1575 1591	estudio hormonal
-T31	PROCEDIMIENTO 2063 2083	gammagrafía tiroidea
-T32	PROCEDIMIENTO 618 636	exploración física
+T1	ENFERMEDAD 1469 1488	parálisis periódica
+T2	ENFERMEDAD 1540 1558	patología tiroidea
+T3	ENFERMEDAD 1607 1652	hipertiroidismo primario de origen autoinmune
+T4	ENFERMEDAD 2040 2055	hipertiroidismo
+T5	ENFERMEDAD 2180 2200	enfermedad de Graves
+T6	ENFERMEDAD 2649 2658	parálisis
+T7	ENFERMEDAD 927 937	exoftalmos
+T8	ENFERMEDAD 1419 1432	hipopotasemia
+T9	PROCEDIMIENTO 618 636	exploración física
+T10	PROCEDIMIENTO 1575 1591	estudio hormonal
+T11	PROCEDIMIENTO 2063 2083	gammagrafía tiroidea
+T12	PROCEDIMIENTO 1010 1019	palpación
+T13	PROCEDIMIENTO 1089 1098	analítica
+T14	SINTOMA 651 688	disminución de fuerza en los miembros
+T15	SINTOMA 692 736	alteraciones en los reflejos osteotendinosos
+T16	SINTOMA 105 156	pérdida de fuerza brusca en los miembros inferiores
+T17	SINTOMA 902 921	temblor fino distal
+T18	SINTOMA 927 937	exoftalmos
+T19	SINTOMA 1023 1051	tiroides de tamaño aumentado
+T20	SINTOMA 476 492	pérdida ponderal
+T21	SINTOMA 537 562	disminución de la ingesta
+T22	SINTOMA 564 571	temblor
+T23	SINTOMA 583 596	irritabilidad
+T24	SINTOMA 599 610	nerviosismo
+T25	SINTOMA 1384 1401	pérdida de fuerza
+T26	SINTOMA 1419 1432	hipopotasemia
+T27	SINTOMA 753 767	marcha estable
+T28	SINTOMA 787 797	dismetrías
+T29	SINTOMA 2075 2139	tiroidea, que en nuestro caso mostraba una hipercaptación difusa
+T30	SINTOMA 2583 2606	función tiroidea normal
+T31	SINTOMA 1888 1920	vitamina D y PTH fueron normales
+T32	SINTOMA 1065 1072	nódulos

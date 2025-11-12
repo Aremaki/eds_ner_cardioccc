@@ -1,25 +1,33 @@
-T1	SINTOMA 360 393	exploración física resultó normal
-T2	SINTOMA 965 982	exudado esofágico
-T3	SINTOMA 148 169	pirosis retroesternal
-T4	SINTOMA 132 145	epigastralgia
-T5	SINTOMA 118 127	dispepsia
-T6	SINTOMA 428 437	dispepsia
-T7	PROCEDIMIENTO 1006 1060	Se tomaron muestras de las lesiones mediante cepillado
-T8	PROCEDIMIENTO 1066 1101	estudio anatomopatológico y cultivo
-T9	PROCEDIMIENTO 1476 1485	anamnesis
-T10	PROCEDIMIENTO 1487 1505	exploración física
-T11	PROCEDIMIENTO 1507 1516	analítica
-T12	PROCEDIMIENTO 1531 1565	función tiroidea, hepática y renal
-T13	PROCEDIMIENTO 1567 1583	perfil diabético
-T14	PROCEDIMIENTO 1585 1607	situación inmunológica
-T15	PROCEDIMIENTO 1624 1642	estudio serológico
-T16	PROCEDIMIENTO 1652 1683	radiografías de tórax y abdomen
-T17	PROCEDIMIENTO 1846 1881	inhibidores de la bomba de protones
-T18	PROCEDIMIENTO 1883 1886	IBP
-T19	PROCEDIMIENTO 198 207	anamnesis
-T20	PROCEDIMIENTO 2041 2044	IBP
-T21	PROCEDIMIENTO 2228 2231	EDA
-T22	PROCEDIMIENTO 360 378	exploración física
-T23	PROCEDIMIENTO 482 510	medidas higiénico-dietéticas
-T24	PROCEDIMIENTO 705 724	fármaco procinético
-T25	PROCEDIMIENTO 907 910	EDA
+T1	ENFERMEDAD 1319 1321	EC
+T2	ENFERMEDAD 1933 1935	EC
+T3	ENFERMEDAD 2011 2013	EC
+T4	ENFERMEDAD 1444 1459	inmunodepresión
+T5	ENFERMEDAD 821 850	disfagia orofaríngea mecánica
+T6	ENFERMEDAD 1135 1158	esofagitis candidiásica
+T7	ENFERMEDAD 1567 1583	perfil diabético
+T8	ENFERMEDAD 1033 1041	lesiones
+T9	PROCEDIMIENTO 705 724	fármaco procinético
+T10	PROCEDIMIENTO 2041 2044	IBP
+T11	PROCEDIMIENTO 1476 1485	anamnesis
+T12	PROCEDIMIENTO 1487 1505	exploración física
+T13	PROCEDIMIENTO 198 207	anamnesis
+T14	PROCEDIMIENTO 1567 1583	perfil diabético
+T15	PROCEDIMIENTO 907 910	EDA
+T16	PROCEDIMIENTO 1624 1642	estudio serológico
+T17	PROCEDIMIENTO 2228 2231	EDA
+T18	PROCEDIMIENTO 1652 1683	radiografías de tórax y abdomen
+T19	PROCEDIMIENTO 360 378	exploración física
+T20	PROCEDIMIENTO 1066 1101	estudio anatomopatológico y cultivo
+T21	PROCEDIMIENTO 482 510	medidas higiénico-dietéticas
+T22	PROCEDIMIENTO 1846 1881	inhibidores de la bomba de protones
+T23	PROCEDIMIENTO 1531 1565	función tiroidea, hepática y renal
+T24	PROCEDIMIENTO 1585 1607	situación inmunológica
+T25	PROCEDIMIENTO 1883 1886	IBP
+T26	PROCEDIMIENTO 1006 1060	Se tomaron muestras de las lesiones mediante cepillado
+T27	PROCEDIMIENTO 1507 1516	analítica
+T28	SINTOMA 132 145	epigastralgia
+T29	SINTOMA 148 169	pirosis retroesternal
+T30	SINTOMA 965 982	exudado esofágico
+T31	SINTOMA 118 127	dispepsia
+T32	SINTOMA 428 437	dispepsia
+T33	SINTOMA 360 393	exploración física resultó normal

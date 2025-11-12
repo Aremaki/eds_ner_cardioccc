@@ -1,49 +1,66 @@
-T1	SINTOMA 307 326	buen estado general
-T2	SINTOMA 276 285	hematuria
-T3	SINTOMA 72 85	hiperglucemia
-T4	SINTOMA 843 861	nitritos negativos
-T5	SINTOMA 1118 1138	riñón derecho normal
-T6	SINTOMA 727 755	Bioquímica: sin alteraciones
-T7	SINTOMA 2780 2816	cambios crónicos en ambos epidídimos
-T8	SINTOMA 1747 1794	cara lateral izquierda de vejiga una tumoración
-T9	SINTOMA 1636 1701	Cistograma con irregularidades de contorno en su porción superior
-T10	SINTOMA 924 953	citologías de orina negativas
-T11	SINTOMA 696 725	coagulación: sin alteraciones
-T12	SINTOMA 3348 3389	cultivos de orina en Löwenstein negativos
-T13	SINTOMA 2607 2671	exudado en teste izquierdo en cuya tinción no se observaron BAAR
-T14	SINTOMA 2090 2151	Lowenstein en orina: Positivo para Mycobacterium tuberculosis
-T15	SINTOMA 2677 2697	Lowenstein negativos
-T16	SINTOMA 1963 1975	masa vesical
-T17	SINTOMA 3079 3143	polo inferior del riñón izquierdo con disminución de la cortical
-T18	SINTOMA 885 917	Sedimento: leucocitos abundantes
-T19	SINTOMA 1601 1634	uréter presenta apariencia normal
-T20	SINTOMA 3247 3286	Uréteres de calibre y morfología normal
-T21	SINTOMA 3288 3306	Vejiga de esfuerzo
-T22	SINTOMA 1246 1269	vesical se aprecia masa
-T23	PROCEDIMIENTO 1094 1113	ecografía abdominal
-T24	PROCEDIMIENTO 1354 1357	UIV
-T25	PROCEDIMIENTO 152 184	decorticación de cuerdas vocales
-T26	PROCEDIMIENTO 1636 1646	Cistograma
-T27	PROCEDIMIENTO 1719 1730	cistoscopia
-T28	PROCEDIMIENTO 1906 1936	cultivo de orina en Löwenstein
+T1	ENFERMEDAD 2033 2068	cistitis granulomatosa tuberculoide
+T2	ENFERMEDAD 2171 2248	tuberculosis genitourinaria con tuberculoma vesical y afectación renoureteral
+T3	ENFERMEDAD 1382 1421	riñón izquierdo con dilatación calicial
+T4	ENFERMEDAD 2085 2088	TBC
+T5	ENFERMEDAD 72 85	hiperglucemia
+T6	ENFERMEDAD 1461 1482	dilatación del uréter
+T7	ENFERMEDAD 133 136	TBC
+T8	ENFERMEDAD 2829 2848	hidrocele bilateral
+T9	ENFERMEDAD 3242 3245	TBC
+T10	ENFERMEDAD 3288 3306	Vejiga de esfuerzo
+T11	ENFERMEDAD 3309 3331	hipertrofia prostática
+T12	ENFERMEDAD 1047 1091	litiasis en polo inferior de riñón izquierdo
+T13	ENFERMEDAD 1140 1184	litiasis en polo inferior de riñón izquierdo
+T14	ENFERMEDAD 1187 1218	dilatación irregular del uréter
+T15	ENFERMEDAD 2595 2633	fístula con exudado en teste izquierdo
+T16	ENFERMEDAD 119 150	tuberculosis (TBC) epididimaria
+T17	ENFERMEDAD 187 194	fumador
+T18	PROCEDIMIENTO 328 340	Tacto rectal
+T19	PROCEDIMIENTO 287 305	Exploración física
+T20	PROCEDIMIENTO 1354 1357	UIV
+T21	PROCEDIMIENTO 456 474	análisis de sangre
+T22	PROCEDIMIENTO 3348 3365	cultivos de orina
+T23	PROCEDIMIENTO 1719 1730	cistoscopia
+T24	PROCEDIMIENTO 2867 2870	UIV
+T25	PROCEDIMIENTO 2270 2298	tratamiento tuberculostático
+T26	PROCEDIMIENTO 152 184	decorticación de cuerdas vocales
+T27	PROCEDIMIENTO 1906 1936	cultivo de orina en Löwenstein
+T28	PROCEDIMIENTO 685 707	Estudio de coagulación
 T29	PROCEDIMIENTO 1956 1975	RTU de masa vesical
-T30	PROCEDIMIENTO 2029 2031	AP
-T31	PROCEDIMIENTO 2090 2109	Lowenstein en orina
-T32	PROCEDIMIENTO 2270 2298	tratamiento tuberculostático
-T33	PROCEDIMIENTO 2607 2649	exudado en teste izquierdo en cuya tinción
-T34	PROCEDIMIENTO 2677 2687	Lowenstein
-T35	PROCEDIMIENTO 2709 2722	curas locales
-T36	PROCEDIMIENTO 2735 2755	ecografía testicular
-T37	PROCEDIMIENTO 2867 2870	UIV
-T38	PROCEDIMIENTO 287 305	Exploración física
-T39	PROCEDIMIENTO 328 340	Tacto rectal
-T40	PROCEDIMIENTO 3348 3365	cultivos de orina
-T41	PROCEDIMIENTO 456 474	análisis de sangre
+T30	PROCEDIMIENTO 2735 2755	ecografía testicular
+T31	PROCEDIMIENTO 1636 1646	Cistograma
+T32	PROCEDIMIENTO 924 943	citologías de orina
+T33	PROCEDIMIENTO 995 1024	radiografía simple de abdomen
+T34	PROCEDIMIENTO 1094 1113	ecografía abdominal
+T35	PROCEDIMIENTO 775 795	Sistemático de orina
+T36	PROCEDIMIENTO 89 110	tratamiento dietético
+T37	PROCEDIMIENTO 2090 2109	Lowenstein en orina
+T38	PROCEDIMIENTO 2677 2687	Lowenstein
+T39	PROCEDIMIENTO 727 737	Bioquímica
+T40	PROCEDIMIENTO 885 894	Sedimento
+T41	PROCEDIMIENTO 2709 2722	curas locales
 T42	PROCEDIMIENTO 476 485	hemograma
-T43	PROCEDIMIENTO 685 707	Estudio de coagulación
-T44	PROCEDIMIENTO 727 737	Bioquímica
-T45	PROCEDIMIENTO 775 795	Sistemático de orina
-T46	PROCEDIMIENTO 885 894	Sedimento
-T47	PROCEDIMIENTO 89 110	tratamiento dietético
-T48	PROCEDIMIENTO 924 943	citologías de orina
-T49	PROCEDIMIENTO 995 1024	radiografía simple de abdomen
+T43	PROCEDIMIENTO 2029 2031	AP
+T44	PROCEDIMIENTO 2607 2649	exudado en teste izquierdo en cuya tinción
+T45	SINTOMA 307 326	buen estado general
+T46	SINTOMA 2090 2151	Lowenstein en orina: Positivo para Mycobacterium tuberculosis
+T47	SINTOMA 1747 1794	cara lateral izquierda de vejiga una tumoración
+T48	SINTOMA 3079 3143	polo inferior del riñón izquierdo con disminución de la cortical
+T49	SINTOMA 276 285	hematuria
+T50	SINTOMA 2780 2816	cambios crónicos en ambos epidídimos
+T51	SINTOMA 1118 1138	riñón derecho normal
+T52	SINTOMA 1246 1269	vesical se aprecia masa
+T53	SINTOMA 2677 2697	Lowenstein negativos
+T54	SINTOMA 3247 3286	Uréteres de calibre y morfología normal
+T55	SINTOMA 3348 3389	cultivos de orina en Löwenstein negativos
+T56	SINTOMA 696 725	coagulación: sin alteraciones
+T57	SINTOMA 727 755	Bioquímica: sin alteraciones
+T58	SINTOMA 924 953	citologías de orina negativas
+T59	SINTOMA 1601 1634	uréter presenta apariencia normal
+T60	SINTOMA 2607 2671	exudado en teste izquierdo en cuya tinción no se observaron BAAR
+T61	SINTOMA 72 85	hiperglucemia
+T62	SINTOMA 843 861	nitritos negativos
+T63	SINTOMA 885 917	Sedimento: leucocitos abundantes
+T64	SINTOMA 3288 3306	Vejiga de esfuerzo
+T65	SINTOMA 1636 1701	Cistograma con irregularidades de contorno en su porción superior
+T66	SINTOMA 1963 1975	masa vesical

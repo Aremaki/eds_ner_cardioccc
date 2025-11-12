@@ -1,21 +1,56 @@
-T1	SINTOMA 674 707	Captura ventricular de marcapasos
-T2	SINTOMA 375 395	hipertransaminasemia
-T3	SINTOMA 1175 1187	normotérmica
-T4	SINTOMA 766 784	patrón restrictivo
-T5	SINTOMA 2884 2889	dolor
-T6	SINTOMA 1828 1833	dolor
-T7	SINTOMA 1163 1173	normotensa
-T8	SINTOMA 659 672	ritmo sinusal
-T9	SINTOMA 2867 2874	estable
-T10	ENFERMEDAD 793 808	derrame pleural
-T11	ENFERMEDAD 709 743	Bloqueo completo de rama izquierda
-T12	ENFERMEDAD 96 124	adenocarcinoma de endometrio
-T13	ENFERMEDAD 182 191	DM tipo I
-T14	ENFERMEDAD 195 217	enfermedad de Steinert
-T15	ENFERMEDAD 234 246	BAV completo
-T16	ENFERMEDAD 248 279	enfermedad restrictiva pulmonar
-T17	ENFERMEDAD 342 370	hepatopatía crónica no viral
-T18	ENFERMEDAD 426 440	hipotiroidismo
-T19	ENFERMEDAD 475 478	HTA
-T20	ENFERMEDAD 605 624	cataratas bilateral
-T21	ENFERMEDAD 154 180	distrofia miotónica tipo I
+T1	ENFERMEDAD 793 808	derrame pleural
+T2	ENFERMEDAD 709 743	Bloqueo completo de rama izquierda
+T3	ENFERMEDAD 96 124	adenocarcinoma de endometrio
+T4	ENFERMEDAD 182 191	DM tipo I
+T5	ENFERMEDAD 195 217	enfermedad de Steinert
+T6	ENFERMEDAD 234 246	BAV completo
+T7	ENFERMEDAD 248 279	enfermedad restrictiva pulmonar
+T8	ENFERMEDAD 342 370	hepatopatía crónica no viral
+T9	ENFERMEDAD 426 440	hipotiroidismo
+T10	ENFERMEDAD 475 478	HTA
+T11	ENFERMEDAD 605 624	cataratas bilateral
+T12	ENFERMEDAD 154 180	distrofia miotónica tipo I
+T13	PROCEDIMIENTO 654 657	ECG
+T14	PROCEDIMIENTO 972 981	Hemograma
+T15	PROCEDIMIENTO 822 834	Espirometría
+T16	PROCEDIMIENTO 747 764	Radiografía tórax
+T17	PROCEDIMIENTO 896 915	Gasometría arterial
+T18	PROCEDIMIENTO 1370 1394	anestesia intrarraquídea
+T19	PROCEDIMIENTO 33 91	histerectomía más anexectomía bilateral y linfaadenectomía
+T20	PROCEDIMIENTO 697 707	marcapasos
+T21	PROCEDIMIENTO 2390 2394	VMNI
+T22	PROCEDIMIENTO 2396 2400	CPAP
+T23	PROCEDIMIENTO 2427 2476	bloqueo transabdominal percutáneo (TAP) bilateral
+T24	PROCEDIMIENTO 1309 1324	benzodiacepinas
+T25	PROCEDIMIENTO 219 246	marcapasos por BAV completo
+T26	PROCEDIMIENTO 1621 1649	fluidoterapia con calentador
+T27	PROCEDIMIENTO 2572 2610	bloqueo de músculos rectos abdominales
+T28	PROCEDIMIENTO 292 340	ventilación mecánica no invasiva (VMNI) nocturna
+T29	PROCEDIMIENTO 326 330	VMNI
+T30	PROCEDIMIENTO 1691 1719	resección del útero y anexos
+T31	PROCEDIMIENTO 2688 2697	analgesia
+T32	PROCEDIMIENTO 1769 1805	linfadenectomía ilíaca y paraaórtica
+T33	PROCEDIMIENTO 2741 2749	opioides
+T34	PROCEDIMIENTO 547 578	colecistectomía por laparotomía
+T35	PROCEDIMIENTO 1919 1934	benzodiacepinas
+T36	PROCEDIMIENTO 1936 1944	mórficos
+T37	PROCEDIMIENTO 2017 2026	analgesia
+T38	PROCEDIMIENTO 2207 2221	oxigenoterapia
+T39	PROCEDIMIENTO 1055 1066	Coagulación
+T40	PROCEDIMIENTO 2248 2267	O2 en gafas nasales
+T41	PROCEDIMIENTO 2183 2203	soporte respiratorio
+T42	PROCEDIMIENTO 1236 1255	02 en gafas nasales
+T43	PROCEDIMIENTO 594 624	cirugía de cataratas bilateral
+T44	PROCEDIMIENTO 511 537	Intervenciones quirúrgicas
+T45	PROCEDIMIENTO 1860 1898	inyección de 10 mg de ketamina en bolo
+T46	PROCEDIMIENTO 2147 2159	intervención
+T47	PROCEDIMIENTO 2957 2969	intervención
+T48	SINTOMA 2884 2889	dolor
+T49	SINTOMA 375 395	hipertransaminasemia
+T50	SINTOMA 1828 1833	dolor
+T51	SINTOMA 1163 1173	normotensa
+T52	SINTOMA 1175 1187	normotérmica
+T53	SINTOMA 659 672	ritmo sinusal
+T54	SINTOMA 2867 2874	estable
+T55	SINTOMA 674 707	Captura ventricular de marcapasos
+T56	SINTOMA 766 784	patrón restrictivo

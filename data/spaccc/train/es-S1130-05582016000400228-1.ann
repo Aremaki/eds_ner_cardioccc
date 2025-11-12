@@ -1,16 +1,30 @@
-T1	SINTOMA 955 984	abombamiento del seno frontal
-T2	SINTOMA 307 344	abultamiento frontal sobre raíz nasal
-T3	SINTOMA 501 528	deformidad del seno frontal
-T4	SINTOMA 740 808	estudio hormonal revela niveles dentro de la normalidad para la edad
-T5	SINTOMA 555 588	paredes del seno de grosor normal
-T6	SINTOMA 69 104	protrusión a nivel de la raíz nasal
-T7	SINTOMA 349 369	dolor a la palpación
-T8	ENFERMEDAD 1488 1503	lesión parietal
-T9	ENFERMEDAD 606 629	lesiones intracraneales
-T10	ENFERMEDAD 221 229	ansiedad
-T11	ENFERMEDAD 717 734	displasia fibrosa
-T12	ENFERMEDAD 1277 1292	lesión parietal
-T13	ENFERMEDAD 1144 1156	defecto óseo
-T14	ENFERMEDAD 670 685	lesión parietal
-T15	ENFERMEDAD 174 184	deformidad
-T16	ENFERMEDAD 501 528	deformidad del seno frontal
+T1	ENFERMEDAD 1488 1503	lesión parietal
+T2	ENFERMEDAD 606 629	lesiones intracraneales
+T3	ENFERMEDAD 221 229	ansiedad
+T4	ENFERMEDAD 717 734	displasia fibrosa
+T5	ENFERMEDAD 1277 1292	lesión parietal
+T6	ENFERMEDAD 1144 1156	defecto óseo
+T7	ENFERMEDAD 670 685	lesión parietal
+T8	ENFERMEDAD 174 184	deformidad
+T9	ENFERMEDAD 501 528	deformidad del seno frontal
+T10	PROCEDIMIENTO 740 756	estudio hormonal
+T11	PROCEDIMIENTO 269 287	exploración física
+T12	PROCEDIMIENTO 425 462	tomografía computarizada (TC) craneal
+T13	PROCEDIMIENTO 451 453	TC
+T14	PROCEDIMIENTO 487 489	RM
+T15	PROCEDIMIENTO 1462 1503	estudio histológico de la lesión parietal
+T16	PROCEDIMIENTO 997 1124	multifragmentación y remodelación de la pared anterior del seno conservando su mucosa, utilizando para ello bisturí ultrasónico
+T17	PROCEDIMIENTO 1126 1179	Se reconstruye el defecto óseo con malla reabsorbible
+T18	PROCEDIMIENTO 1244 1320	resección y remodelamiento de la lesión parietal reponiendo cortical interna
+T19	PROCEDIMIENTO 455 485	craneal y resonancia magnética
+T20	PROCEDIMIENTO 868 930	incisión coronal que deja expuestos hueso frontal y raíz nasal
+T21	PROCEDIMIENTO 1709 1721	intervención
+T22	PROCEDIMIENTO 825 852	intervenida quirúrgicamente
+T23	PROCEDIMIENTO 360 369	palpación
+T24	SINTOMA 307 344	abultamiento frontal sobre raíz nasal
+T25	SINTOMA 69 104	protrusión a nivel de la raíz nasal
+T26	SINTOMA 555 588	paredes del seno de grosor normal
+T27	SINTOMA 955 984	abombamiento del seno frontal
+T28	SINTOMA 349 369	dolor a la palpación
+T29	SINTOMA 740 808	estudio hormonal revela niveles dentro de la normalidad para la edad
+T30	SINTOMA 501 528	deformidad del seno frontal

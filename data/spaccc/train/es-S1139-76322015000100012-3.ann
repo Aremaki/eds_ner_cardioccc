@@ -1,6 +1,11 @@
-T1	SINTOMA 395 473	antígeno estreptocócico en la muestra rectal y negativo en la faringoamigdalar
-T2	SINTOMA 153 185	antígeno estreptocócico negativo
-T3	SINTOMA 478 566	cultivo de de la muestra rectal fue negativo para hongos y demostró crecimiento de EBHGA
-T4	SINTOMA 46 62	eritema perianal
-T5	SINTOMA 358 439	positivo para la detección rápida de antígeno estreptocócico en la muestra rectal
-T6	ENFERMEDAD 46 62	eritema perianal
+T1	ENFERMEDAD 46 62	eritema perianal
+T2	PROCEDIMIENTO 93 106	frotis rectal
+T3	PROCEDIMIENTO 125 176	test de detección rápida de antígeno estreptocócico
+T4	PROCEDIMIENTO 297 329	frotis rectal y faringoamigdalar
+T5	PROCEDIMIENTO 478 509	cultivo de de la muestra rectal
+T6	PROCEDIMIENTO 375 439	detección rápida de antígeno estreptocócico en la muestra rectal
+T7	SINTOMA 153 185	antígeno estreptocócico negativo
+T8	SINTOMA 358 439	positivo para la detección rápida de antígeno estreptocócico en la muestra rectal
+T9	SINTOMA 395 473	antígeno estreptocócico en la muestra rectal y negativo en la faringoamigdalar
+T10	SINTOMA 478 566	cultivo de de la muestra rectal fue negativo para hongos y demostró crecimiento de EBHGA
+T11	SINTOMA 46 62	eritema perianal

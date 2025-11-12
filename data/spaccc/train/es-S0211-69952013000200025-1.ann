@@ -1,11 +1,35 @@
-T1	SINTOMA 723 742	acidosis metabólica
-T2	SINTOMA 798 810	anisocitosis
-T3	SINTOMA 687 694	anúrica
-T4	SINTOMA 321 330	fallecido
-T5	SINTOMA 517 526	hipotensa
-T6	SINTOMA 1829 1856	mejoría de la función renal
-T7	SINTOMA 1049 1108	buena perfusión vascular, pero índices de resistencia altos
-T8	SINTOMA 827 837	dianocitos
-T9	SINTOMA 700 720	elevación de azoados
-T10	SINTOMA 786 796	hipocromía
-T11	SINTOMA 812 824	microcitosis
+T1	ENFERMEDAD 55 84	anemia de células falciformes
+T2	ENFERMEDAD 87 123	insuficiencia renal crónica terminal
+T3	ENFERMEDAD 198 216	crisis falciformes
+T4	ENFERMEDAD 723 742	acidosis metabólica
+T5	ENFERMEDAD 1568 1589	rechazo agudo humoral
+T6	ENFERMEDAD 1122 1154	crisis vaso-oclusiva del injerto
+T7	ENFERMEDAD 1773 1790	crisis falciforme
+T8	ENFERMEDAD 1592 1609	crisis falciforme
+T9	ENFERMEDAD 517 526	hipotensa
+T10	PROCEDIMIENTO 128 140	hemodiálisis
+T11	PROCEDIMIENTO 293 330	trasplante renal de donante fallecido
+T12	PROCEDIMIENTO 414 468	inducción con alemtuzumab y bolos de metilprednisolona
+T13	PROCEDIMIENTO 576 589	injerto renal
+T14	PROCEDIMIENTO 1207 1219	hemodiálisis
+T15	PROCEDIMIENTO 244 257	transfusiones
+T16	PROCEDIMIENTO 1178 1191	transfusiones
+T17	PROCEDIMIENTO 1246 1271	biopsia del injerto renal
+T18	PROCEDIMIENTO 1021 1040	Doppler del injerto
+T19	PROCEDIMIENTO 1634 1677	tratamiento con pulsos de metilprednisolona
+T20	PROCEDIMIENTO 1679 1692	plasmaféresis
+T21	PROCEDIMIENTO 1721 1741	exanguinotransfusión
+T22	PROCEDIMIENTO 1814 1824	trasplante
+T23	PROCEDIMIENTO 1874 1900	terapia de reemplazo renal
+T24	PROCEDIMIENTO 629 644	acto quirúrgico
+T25	SINTOMA 687 694	anúrica
+T26	SINTOMA 700 720	elevación de azoados
+T27	SINTOMA 786 796	hipocromía
+T28	SINTOMA 798 810	anisocitosis
+T29	SINTOMA 812 824	microcitosis
+T30	SINTOMA 827 837	dianocitos
+T31	SINTOMA 517 526	hipotensa
+T32	SINTOMA 723 742	acidosis metabólica
+T33	SINTOMA 321 330	fallecido
+T34	SINTOMA 1049 1108	buena perfusión vascular, pero índices de resistencia altos
+T35	SINTOMA 1829 1856	mejoría de la función renal

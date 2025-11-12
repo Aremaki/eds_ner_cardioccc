@@ -1,41 +1,41 @@
-T1	SINTOMA 2085 2097	asintomática
-T2	SINTOMA 2472 2483	falleciendo
-T3	SINTOMA 2164 2190	inestabilidad hemodinámica
-T4	SINTOMA 1457 1483	inestabilidad hemodinámica
-T5	SINTOMA 855 881	inestabilidad hemodinámica
-T6	SINTOMA 342 346	masa
-T7	SINTOMA 1431 1443	rectorragias
-T8	SINTOMA 697 709	rectorragias
-T9	SINTOMA 2521 2533	rectorragias
-T10	ENFERMEDAD 2384 2402	progresión tumoral
-T11	ENFERMEDAD 61 82	hipertensión arterial
-T12	ENFERMEDAD 1024 1042	proctitis actínica
-T13	ENFERMEDAD 84 96	osteoporosis
-T14	ENFERMEDAD 120 130	miomatosis
-T15	ENFERMEDAD 2521 2533	rectorragias
-T16	ENFERMEDAD 219 248	carcinoma vesical infiltrante
-T17	ENFERMEDAD 521 535	lesión vesical
-T18	ENFERMEDAD 538 559	metástasis en columna
-T19	ENFERMEDAD 884 902	anemización severa
-T20	ENFERMEDAD 697 709	rectorragias
-T21	ENFERMEDAD 1431 1443	rectorragias
-T22	ENFERMEDAD 1055 1099	lesiones neovasculares friables y sangrantes
-T23	ENFERMEDAD 342 354	masa tumoral
-T24	PROCEDIMIENTO 1101 1140	se realiza tratamiento con argón plasma
-T25	PROCEDIMIENTO 1142 1145	APC
-T26	PROCEDIMIENTO 1243 1295	enemas de esteroides, 5-aminosalicílico y sucralfato
-T27	PROCEDIMIENTO 1323 1348	rectoscopias terapéuticas
-T28	PROCEDIMIENTO 1500 1560	transfusión de hasta un total de 21 concentrados de hematíes
-T29	PROCEDIMIENTO 1641 1679	ferroterapia oral y por vía endovenosa
-T30	PROCEDIMIENTO 1821 1839	anestesia raquídea
-T31	PROCEDIMIENTO 1842 1857	dilatación anal
-T32	PROCEDIMIENTO 193 248	resección transuretral de carcinoma vesical infiltrante
-T33	PROCEDIMIENTO 2201 2231	requerimientos transfusionales
-T34	PROCEDIMIENTO 2266 2278	colonoscopia
-T35	PROCEDIMIENTO 285 297	radioterapia
-T36	PROCEDIMIENTO 484 497	quimioterapia
-T37	PROCEDIMIENTO 575 578	TAC
-T38	PROCEDIMIENTO 596 612	gammagrafía ósea
-T39	PROCEDIMIENTO 915 945	requerimientos transfusionales
-T40	PROCEDIMIENTO 958 976	colonoscopia total
-T41	PROCEDIMIENTO 99 115	histerectomizada
+T1	ENFERMEDAD 2384 2402	progresión tumoral
+T2	ENFERMEDAD 61 82	hipertensión arterial
+T3	ENFERMEDAD 1024 1042	proctitis actínica
+T4	ENFERMEDAD 84 96	osteoporosis
+T5	ENFERMEDAD 120 130	miomatosis
+T6	ENFERMEDAD 2521 2533	rectorragias
+T7	ENFERMEDAD 219 248	carcinoma vesical infiltrante
+T8	ENFERMEDAD 521 535	lesión vesical
+T9	ENFERMEDAD 538 559	metástasis en columna
+T10	ENFERMEDAD 884 902	anemización severa
+T11	ENFERMEDAD 697 709	rectorragias
+T12	ENFERMEDAD 1431 1443	rectorragias
+T13	ENFERMEDAD 1055 1099	lesiones neovasculares friables y sangrantes
+T14	ENFERMEDAD 342 354	masa tumoral
+T15	PROCEDIMIENTO 958 976	colonoscopia total
+T16	PROCEDIMIENTO 99 115	histerectomizada
+T17	PROCEDIMIENTO 1821 1839	anestesia raquídea
+T18	PROCEDIMIENTO 1842 1857	dilatación anal
+T19	PROCEDIMIENTO 1101 1140	se realiza tratamiento con argón plasma
+T20	PROCEDIMIENTO 193 248	resección transuretral de carcinoma vesical infiltrante
+T21	PROCEDIMIENTO 1142 1145	APC
+T22	PROCEDIMIENTO 285 297	radioterapia
+T23	PROCEDIMIENTO 1243 1295	enemas de esteroides, 5-aminosalicílico y sucralfato
+T24	PROCEDIMIENTO 1323 1348	rectoscopias terapéuticas
+T25	PROCEDIMIENTO 484 497	quimioterapia
+T26	PROCEDIMIENTO 1500 1560	transfusión de hasta un total de 21 concentrados de hematíes
+T27	PROCEDIMIENTO 575 578	TAC
+T28	PROCEDIMIENTO 2266 2278	colonoscopia
+T29	PROCEDIMIENTO 596 612	gammagrafía ósea
+T30	PROCEDIMIENTO 1641 1679	ferroterapia oral y por vía endovenosa
+T31	PROCEDIMIENTO 915 945	requerimientos transfusionales
+T32	PROCEDIMIENTO 2201 2231	requerimientos transfusionales
+T33	SINTOMA 2164 2190	inestabilidad hemodinámica
+T34	SINTOMA 1431 1443	rectorragias
+T35	SINTOMA 1457 1483	inestabilidad hemodinámica
+T36	SINTOMA 697 709	rectorragias
+T37	SINTOMA 855 881	inestabilidad hemodinámica
+T38	SINTOMA 2085 2097	asintomática
+T39	SINTOMA 2472 2483	falleciendo
+T40	SINTOMA 2521 2533	rectorragias
+T41	SINTOMA 342 346	masa

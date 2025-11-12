@@ -1,10 +1,42 @@
-T1	SINTOMA 1393 1424	condensación en lóbulo inferior
-T2	SINTOMA 902 936	deterioro leve de la función renal
-T3	SINTOMA 1194 1221	disnea de mínimos esfuerzos
-T4	SINTOMA 1349 1383	infiltrados pulmonares bilaterales
-T5	SINTOMA 312 320	pT3pN2M0
-T6	SINTOMA 2130 2193	serologías para microorganismos atípicos fueron todos negativos
-T7	SINTOMA 1175 1181	fiebre
-T8	SINTOMA 870 877	afebril
-T9	SINTOMA 883 890	astenia
-T10	SINTOMA 2533 2539	éxitus
+T1	ENFERMEDAD 30 39	exfumador
+T2	ENFERMEDAD 81 93	hipertensión
+T3	ENFERMEDAD 95 105	dislipemia
+T4	ENFERMEDAD 108 129	cardiopatía isquémica
+T5	ENFERMEDAD 134 160	infarto agudo de miocardio
+T6	ENFERMEDAD 1281 1313	insuficiencia respiratoria grave
+T7	ENFERMEDAD 230 248	neoplasia de colon
+T8	ENFERMEDAD 243 298	colon con resultado anatomopatológico de adenocarcinoma
+T9	ENFERMEDAD 1471 1485	neumonía grave
+T10	ENFERMEDAD 1610 1634	tromboembolismo pulmonar
+T11	ENFERMEDAD 1803 1869	insuficiencia respiratoria grave secundaria a neumonía comunitaria
+T12	ENFERMEDAD 1849 1857	neumonía
+T13	ENFERMEDAD 780 816	infección respiratoria de vías bajas
+T14	ENFERMEDAD 1892 1927	toxicidad pulmonar por citostáticos
+T15	ENFERMEDAD 1939 1982	síndrome de distrés respiratorio del adulto
+T16	ENFERMEDAD 2257 2287	neumonitis intersticial difusa
+T17	ENFERMEDAD 2452 2485	toxicidad pulmonar a citostáticos
+T18	PROCEDIMIENTO 1226 1245	gasometría arterial
+T19	PROCEDIMIENTO 176 198	doble bypass coronario
+T20	PROCEDIMIENTO 1318 1338	radiografía de tórax
+T21	PROCEDIMIENTO 1499 1545	antibioticoterapia empírica de amplio espectro
+T22	PROCEDIMIENTO 448 504	tratamiento quimioterápico adyuvante según esquema TOMOX
+T23	PROCEDIMIENTO 1548 1580	ventilación mecánica no invasiva
+T24	PROCEDIMIENTO 1585 1600	ecocardiografía
+T25	PROCEDIMIENTO 499 504	TOMOX
+T26	PROCEDIMIENTO 1762 1785	intubación endotraqueal
+T27	PROCEDIMIENTO 735 758	tratamiento antibiótico
+T28	PROCEDIMIENTO 2073 2115	estudios microbiológicos (sangre y esputo)
+T29	PROCEDIMIENTO 2198 2231	tomografía computarizada de tórax
+T30	PROCEDIMIENTO 2368 2395	tratamiento corticoterápico
+T31	PROCEDIMIENTO 2130 2170	serologías para microorganismos atípicos
+T32	PROCEDIMIENTO 253 280	resultado anatomopatológico
+T33	SINTOMA 1175 1181	fiebre
+T34	SINTOMA 1194 1221	disnea de mínimos esfuerzos
+T35	SINTOMA 1393 1424	condensación en lóbulo inferior
+T36	SINTOMA 312 320	pT3pN2M0
+T37	SINTOMA 870 877	afebril
+T38	SINTOMA 883 890	astenia
+T39	SINTOMA 902 936	deterioro leve de la función renal
+T40	SINTOMA 2533 2539	éxitus
+T41	SINTOMA 1349 1383	infiltrados pulmonares bilaterales
+T42	SINTOMA 2130 2193	serologías para microorganismos atípicos fueron todos negativos

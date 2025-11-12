@@ -1,21 +1,33 @@
-T1	SINTOMA 848 941	auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales
-T2	SINTOMA 424 432	bultomas
-T3	SINTOMA 671 709	bultomas en región posterior de cuello
-T4	SINTOMA 1338 1403	ecografía tiroidea con el resultado de lóbulos tiroideos normales
-T5	SINTOMA 1141 1186	hormonas tiroideas y el cortisol son normales
-T6	SINTOMA 1415 1451	masa subcutánea lipomatosa bilateral
-T7	SINTOMA 273 382	masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax
-T8	SINTOMA 1498 1580	tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital
-T9	SINTOMA 503 542	tumefacción en región cervical anterior
-T10	SINTOMA 591 651	tumoraciones en zonas retroauriculares y en región deltoidea
-T11	SINTOMA 445 450	dolor
-T12	SINTOMA 455 461	disnea
-T13	SINTOMA 465 473	disfagia
-T14	SINTOMA 791 815	dolorosas a la palpación
-T15	SINTOMA 1242 1291	radiografía de tórax sin alteraciones patológicas
-T16	ENFERMEDAD 26 33	fumador
-T17	ENFERMEDAD 40 59	alcoholismo crónico
-T18	ENFERMEDAD 1922 1942	infiltración tumoral
-T19	ENFERMEDAD 2244 2261	hábito alcohólico
-T20	ENFERMEDAD 121 141	hepatitis alcohólica
-T21	ENFERMEDAD 465 473	disfagia
+T1	ENFERMEDAD 26 33	fumador
+T2	ENFERMEDAD 40 59	alcoholismo crónico
+T3	ENFERMEDAD 1922 1942	infiltración tumoral
+T4	ENFERMEDAD 2244 2261	hábito alcohólico
+T5	ENFERMEDAD 121 141	hepatitis alcohólica
+T6	ENFERMEDAD 465 473	disfagia
+T7	PROCEDIMIENTO 1863 1870	biopsia
+T8	PROCEDIMIENTO 848 875	auscultación cardiopulmonar
+T9	PROCEDIMIENTO 1974 2002	lipectomía cervical anterior
+T10	PROCEDIMIENTO 880 899	palpación abdominal
+T11	PROCEDIMIENTO 1242 1262	radiografía de tórax
+T12	PROCEDIMIENTO 905 928	exploración neurológica
+T13	PROCEDIMIENTO 1338 1356	ecografía tiroidea
+T14	PROCEDIMIENTO 1456 1468	TAC cervical
+T15	PROCEDIMIENTO 1141 1159	hormonas tiroideas
+T16	PROCEDIMIENTO 949 958	analítica
+T17	PROCEDIMIENTO 480 491	exploración
+T18	PROCEDIMIENTO 1193 1210	pruebas de imagen
+T19	SINTOMA 503 542	tumefacción en región cervical anterior
+T20	SINTOMA 273 382	masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax
+T21	SINTOMA 591 651	tumoraciones en zonas retroauriculares y en región deltoidea
+T22	SINTOMA 671 709	bultomas en región posterior de cuello
+T23	SINTOMA 445 450	dolor
+T24	SINTOMA 1415 1451	masa subcutánea lipomatosa bilateral
+T25	SINTOMA 455 461	disnea
+T26	SINTOMA 465 473	disfagia
+T27	SINTOMA 1498 1580	tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital
+T28	SINTOMA 791 815	dolorosas a la palpación
+T29	SINTOMA 424 432	bultomas
+T30	SINTOMA 848 941	auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales
+T31	SINTOMA 1141 1186	hormonas tiroideas y el cortisol son normales
+T32	SINTOMA 1242 1291	radiografía de tórax sin alteraciones patológicas
+T33	SINTOMA 1338 1403	ecografía tiroidea con el resultado de lóbulos tiroideos normales

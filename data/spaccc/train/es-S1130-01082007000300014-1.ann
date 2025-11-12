@@ -1,7 +1,39 @@
-T1	SINTOMA 1623 1631	acidosis
-T2	SINTOMA 1224 1246	deterioro respiratorio
-T3	SINTOMA 1535 1542	fallece
-T4	SINTOMA 1263 1315	aire en la bolsa de recogida de la nutrición enteral
-T5	SINTOMA 1634 1652	hipoxemia extremas
-T6	SINTOMA 564 580	hipoxemia severa
-T7	SINTOMA 131 147	hipoxemia severa
+T1	ENFERMEDAD 47 63	politraumatizado
+T2	ENFERMEDAD 230 286	fractura de cigoma izquierdo, pared lateral de la órbita
+T3	ENFERMEDAD 296 322	fractura de huesos propios
+T4	ENFERMEDAD 324 345	fractura de clavícula
+T5	ENFERMEDAD 357 377	fractura de esternón
+T6	ENFERMEDAD 379 419	fracturas múltiples costales bilaterales
+T7	ENFERMEDAD 424 436	volet costal
+T8	ENFERMEDAD 448 467	enfisema subcutáneo
+T9	ENFERMEDAD 469 484	neumomediastino
+T10	ENFERMEDAD 489 499	neumotórax
+T11	ENFERMEDAD 502 529	fractura de la rama pubiana
+T12	ENFERMEDAD 564 580	hipoxemia severa
+T13	ENFERMEDAD 1333 1357	fístula traqueoesofágica
+T14	ENFERMEDAD 1586 1618	shock resistente a catecolaminas
+T15	ENFERMEDAD 1623 1631	acidosis
+T16	ENFERMEDAD 131 147	hipoxemia severa
+T17	ENFERMEDAD 721 729	lesiones
+T18	ENFERMEDAD 1634 1643	hipoxemia
+T19	PROCEDIMIENTO 96 104	intubado
+T20	PROCEDIMIENTO 592 612	ventilación mecánica
+T21	PROCEDIMIENTO 655 672	fibrobroncoscopia
+T22	PROCEDIMIENTO 783 868	retirándose el tubo orotraqueal hasta epiglotis para una mejor visualización traqueal
+T23	PROCEDIMIENTO 947 1019	traqueotomía percutánea bajo control endoscópico, colocándose una cánula
+T24	PROCEDIMIENTO 1101 1121	destete respiratorio
+T25	PROCEDIMIENTO 1139 1172	cambio de cánula de traqueostomía
+T26	PROCEDIMIENTO 1298 1315	nutrición enteral
+T27	PROCEDIMIENTO 1392 1467	corrigiéndose el defecto por vía esofágica con prótesis metálica recubierta
+T28	PROCEDIMIENTO 1480 1521	gastrostomía percutánea para alimentación
+T29	PROCEDIMIENTO 997 1019	colocándose una cánula
+T30	PROCEDIMIENTO 1605 1618	catecolaminas
+T31	PROCEDIMIENTO 631 643	radiológicos
+T32	PROCEDIMIENTO 1333 1390	fístula traqueoesofágica que se confirmó endoscópicamente
+T33	SINTOMA 1224 1246	deterioro respiratorio
+T34	SINTOMA 1535 1542	fallece
+T35	SINTOMA 131 147	hipoxemia severa
+T36	SINTOMA 1634 1652	hipoxemia extremas
+T37	SINTOMA 564 580	hipoxemia severa
+T38	SINTOMA 1263 1315	aire en la bolsa de recogida de la nutrición enteral
+T39	SINTOMA 1623 1631	acidosis

@@ -1,115 +1,116 @@
-T1	SINTOMA 21 28	cefalea
-T2	SINTOMA 1304 1326	palidez cutáneo-mucosa
-T3	SINTOMA 1503 1541	auscultación cardiopulmonar era normal
-T4	SINTOMA 770 790	hiperproteinorraquia
-T5	SINTOMA 2349 2368	leucocitos normales
-T6	SINTOMA 4492 4500	falleció
-T7	SINTOMA 491 518	pérdida de visión bilateral
-T8	SINTOMA 1882 1897	edema de papila
-T9	SINTOMA 2118 2133	hipoproteinemia
-T10	SINTOMA 3072 3114	actividades lentas intermitentes frontales
-T11	SINTOMA 1125 1157	alucinaciones visuales complejas
-T12	SINTOMA 1599 1606	apática
-T13	SINTOMA 1289 1298	apirética
-T14	SINTOMA 257 274	aumento de la VSG
-T15	SINTOMA 2484 2498	aumento de PTH
-T16	SINTOMA 1971 1998	balance motor era simétrico
-T17	SINTOMA 2598 2620	CA 15,3 estaba elevado
-T18	SINTOMA 195 234	cefalea localizada en cara y hemicráneo
-T19	SINTOMA 3760 3783	células malignas en LCR
-T20	SINTOMA 3541 3616	cresta iliaca presentó trabéculas artefactadas sin actividad hematopoyética
-T21	SINTOMA 1054 1087	crisis de sacudidas en hemicuerpo
-T22	SINTOMA 2971 3004	cultivos del LCR fueron negativos
-T23	SINTOMA 1570 1596	desorientada temporalmente
-T24	SINTOMA 1698 1741	disminución de agudeza visual en ambos ojos
-T25	SINTOMA 1420 1443	edema en ambos párpados
-T26	SINTOMA 2657 2687	engrosamiento de calota difuso
-T27	SINTOMA 629 670	engrosamiento difuso de calota y meninges
-T28	SINTOMA 2718 2795	engrosamiento meníngeo-dural disperso más marcado en región frontal izquierda
-T29	SINTOMA 1900 1932	exudados algodonosos bilaterales
-T30	SINTOMA 1619 1641	fatigabilidad muscular
-T31	SINTOMA 2370 2387	Hemostasia normal
-T32	SINTOMA 1192 1205	irritabilidad
-T33	SINTOMA 3047 3067	lentificación difusa
-T34	SINTOMA 2866 2891	leve hiperproteinorraquia
-T35	SINTOMA 2831 2860	líquido cefalorraquídeo claro
-T36	SINTOMA 724 736	macrocitosis
-T37	SINTOMA 3314 3335	mamografía fue normal
-T38	SINTOMA 4414 4427	nódulo axilar
-T39	SINTOMA 2293 2320	patrón férrico inflamatorio
-T40	SINTOMA 1208 1235	pérdida de memoria reciente
-T41	SINTOMA 2512 2557	Proteinograma y IEF sin hallazgos patológicos
-T42	SINTOMA 54 71	protusión frontal
-T43	SINTOMA 1328 1353	protusión frontal derecha
-T44	SINTOMA 3236 3309	realce meníngeo anormal difuso más prominente en región frontal izquierda
-T45	SINTOMA 3429 3460	refuerzo de actividad en cráneo
-T46	SINTOMA 1475 1498	se palpaban adenopatías
-T47	SINTOMA 1360 1407	signos cutáneos de hipervascularización craneal
-T48	SINTOMA 3117 3169	signos lesivo-irritativos en área temporal izquierda
-T49	SINTOMA 3621 3673	TAC toraco-abdómino-pélvica no encontró alteraciones
-T50	SINTOMA 2389 2400	VSG elevada
-T51	ENFERMEDAD 3701 3716	paquimeningitis
-T52	ENFERMEDAD 3721 3744	hiperostosis secundaria
-T53	ENFERMEDAD 100 124	diabetes mellitus tipo 2
-T54	ENFERMEDAD 126 129	HTA
-T55	ENFERMEDAD 131 156	asma bronquial extrínseca
-T56	ENFERMEDAD 4294 4307	tumor mamario
-T57	ENFERMEDAD 159 171	osteoporosis
-T58	ENFERMEDAD 3857 3872	cáncer primario
-T59	ENFERMEDAD 1420 1443	edema en ambos párpados
-T60	ENFERMEDAD 372 390	arteritis temporal
-T61	ENFERMEDAD 1446 1462	ptosis palpebral
-T62	ENFERMEDAD 2268 2274	anemia
-T63	ENFERMEDAD 1487 1498	adenopatías
-T64	ENFERMEDAD 3972 3995	calota con hiperostosis
-T65	ENFERMEDAD 491 518	pérdida de visión bilateral
-T66	ENFERMEDAD 3997 4075	médula ósea y duramadre con amplia infiltración por adenocarcinoma metastático
-T67	ENFERMEDAD 2423 2445	hipotirodismo primario
-T68	ENFERMEDAD 567 592	hipertensión intracraneal
-T69	ENFERMEDAD 4137 4151	tumor primario
-T70	ENFERMEDAD 700 706	anemia
-T71	ENFERMEDAD 2701 2713	hiperostosis
-T72	ENFERMEDAD 945 954	arteritis
-T73	ENFERMEDAD 3194 3231	hiperostosis difusa de calota craneal
-T74	ENFERMEDAD 3377 3404	osteosclerosis generalizada
-T75	ENFERMEDAD 3513 3525	hiperostosis
-T76	ENFERMEDAD 1882 1897	edema de papila
-T77	ENFERMEDAD 277 283	anemia
-T78	ENFERMEDAD 2118 2133	hipoproteinemia
-T79	ENFERMEDAD 1054 1087	crisis de sacudidas en hemicuerpo
-T80	PROCEDIMIENTO 1240 1266	exploración física general
-T81	PROCEDIMIENTO 1475 1486	se palpaban
-T82	PROCEDIMIENTO 1503 1530	auscultación cardiopulmonar
-T83	PROCEDIMIENTO 1856 1868	fondo de ojo
-T84	PROCEDIMIENTO 2061 2080	analítica sanguínea
-T85	PROCEDIMIENTO 2210 2220	bioquímica
-T86	PROCEDIMIENTO 2249 2258	hemograma
-T87	PROCEDIMIENTO 2512 2525	Proteinograma
-T88	PROCEDIMIENTO 2528 2531	IEF
-T89	PROCEDIMIENTO 2569 2589	marcadores tumorales
-T90	PROCEDIMIENTO 2638 2649	TAC craneal
-T91	PROCEDIMIENTO 2803 2817	punción lumbar
-T92	PROCEDIMIENTO 2971 2987	cultivos del LCR
-T93	PROCEDIMIENTO 3020 3031	estudio EEG
-T94	PROCEDIMIENTO 306 347	tratamiento empírico con glucocorticoides
-T95	PROCEDIMIENTO 3174 3185	RM cerebral
-T96	PROCEDIMIENTO 3314 3324	mamografía
-T97	PROCEDIMIENTO 3343 3365	serie ósea metastásica
-T98	PROCEDIMIENTO 3409 3421	rastreo óseo
-T99	PROCEDIMIENTO 3530 3554	biopsia de cresta iliaca
-T100	PROCEDIMIENTO 3621 3648	TAC toraco-abdómino-pélvica
-T101	PROCEDIMIENTO 3787 3814	punciones lumbares seriadas
-T102	PROCEDIMIENTO 3889 3924	biopsia de hueso craneal y meninges
-T103	PROCEDIMIENTO 3942 3970	resultado anatomo-patológico
-T104	PROCEDIMIENTO 4080 4105	perfil inmunohistoquímico
-T105	PROCEDIMIENTO 4163 4196	tratamiento radioterápico craneal
-T106	PROCEDIMIENTO 423 447	biopsia de dicha arteria
-T107	PROCEDIMIENTO 4234 4270	tratamiento paliativo con tamoxifeno
-T108	PROCEDIMIENTO 4344 4351	biopsia
-T109	PROCEDIMIENTO 4372 4399	TAC toraco-abdomino-pélvico
-T110	PROCEDIMIENTO 4570 4588	estudio necrópsico
-T111	PROCEDIMIENTO 526 547	examen oftalmoscópico
-T112	PROCEDIMIENTO 605 617	RMN cerebral
-T113	PROCEDIMIENTO 744 760	análisis del LCR
-T114	PROCEDIMIENTO 802 829	tratamiento con corticoides
-T115	PROCEDIMIENTO 885 915	biopsia de la arteria temporal
+T1	ENFERMEDAD 3701 3716	paquimeningitis
+T2	ENFERMEDAD 3721 3744	hiperostosis secundaria
+T3	ENFERMEDAD 100 124	diabetes mellitus tipo 2
+T4	ENFERMEDAD 126 129	HTA
+T5	ENFERMEDAD 131 156	asma bronquial extrínseca
+T6	ENFERMEDAD 4294 4307	tumor mamario
+T7	ENFERMEDAD 159 171	osteoporosis
+T8	ENFERMEDAD 3857 3872	cáncer primario
+T9	ENFERMEDAD 1420 1443	edema en ambos párpados
+T10	ENFERMEDAD 372 390	arteritis temporal
+T11	ENFERMEDAD 1446 1462	ptosis palpebral
+T12	ENFERMEDAD 2268 2274	anemia
+T13	ENFERMEDAD 1487 1498	adenopatías
+T14	ENFERMEDAD 3972 3995	calota con hiperostosis
+T15	ENFERMEDAD 491 518	pérdida de visión bilateral
+T16	ENFERMEDAD 3997 4075	médula ósea y duramadre con amplia infiltración por adenocarcinoma metastático
+T17	ENFERMEDAD 2423 2445	hipotirodismo primario
+T18	ENFERMEDAD 567 592	hipertensión intracraneal
+T19	ENFERMEDAD 4137 4151	tumor primario
+T20	ENFERMEDAD 700 706	anemia
+T21	ENFERMEDAD 2701 2713	hiperostosis
+T22	ENFERMEDAD 945 954	arteritis
+T23	ENFERMEDAD 3194 3231	hiperostosis difusa de calota craneal
+T24	ENFERMEDAD 3377 3404	osteosclerosis generalizada
+T25	ENFERMEDAD 3513 3525	hiperostosis
+T26	ENFERMEDAD 1882 1897	edema de papila
+T27	ENFERMEDAD 277 283	anemia
+T28	ENFERMEDAD 2118 2133	hipoproteinemia
+T29	ENFERMEDAD 1054 1087	crisis de sacudidas en hemicuerpo
+T30	PROCEDIMIENTO 1240 1266	exploración física general
+T31	PROCEDIMIENTO 2061 2080	analítica sanguínea
+T32	PROCEDIMIENTO 4163 4196	tratamiento radioterápico craneal
+T33	PROCEDIMIENTO 4234 4270	tratamiento paliativo con tamoxifeno
+T34	PROCEDIMIENTO 3787 3814	punciones lumbares seriadas
+T35	PROCEDIMIENTO 306 347	tratamiento empírico con glucocorticoides
+T36	PROCEDIMIENTO 4344 4351	biopsia
+T37	PROCEDIMIENTO 2249 2258	hemograma
+T38	PROCEDIMIENTO 3889 3924	biopsia de hueso craneal y meninges
+T39	PROCEDIMIENTO 4372 4399	TAC toraco-abdomino-pélvico
+T40	PROCEDIMIENTO 423 447	biopsia de dicha arteria
+T41	PROCEDIMIENTO 1503 1530	auscultación cardiopulmonar
+T42	PROCEDIMIENTO 526 547	examen oftalmoscópico
+T43	PROCEDIMIENTO 4080 4105	perfil inmunohistoquímico
+T44	PROCEDIMIENTO 4570 4588	estudio necrópsico
+T45	PROCEDIMIENTO 605 617	RMN cerebral
+T46	PROCEDIMIENTO 744 760	análisis del LCR
+T47	PROCEDIMIENTO 2638 2649	TAC craneal
+T48	PROCEDIMIENTO 802 829	tratamiento con corticoides
+T49	PROCEDIMIENTO 885 915	biopsia de la arteria temporal
+T50	PROCEDIMIENTO 2803 2817	punción lumbar
+T51	PROCEDIMIENTO 2971 2987	cultivos del LCR
+T52	PROCEDIMIENTO 3020 3031	estudio EEG
+T53	PROCEDIMIENTO 3174 3185	RM cerebral
+T54	PROCEDIMIENTO 3314 3324	mamografía
+T55	PROCEDIMIENTO 3343 3365	serie ósea metastásica
+T56	PROCEDIMIENTO 3409 3421	rastreo óseo
+T57	PROCEDIMIENTO 3530 3554	biopsia de cresta iliaca
+T58	PROCEDIMIENTO 3621 3648	TAC toraco-abdómino-pélvica
+T59	PROCEDIMIENTO 2512 2525	Proteinograma
+T60	PROCEDIMIENTO 1856 1868	fondo de ojo
+T61	PROCEDIMIENTO 2528 2531	IEF
+T62	PROCEDIMIENTO 2569 2589	marcadores tumorales
+T63	PROCEDIMIENTO 3942 3970	resultado anatomo-patológico
+T64	PROCEDIMIENTO 1475 1486	se palpaban
+T65	PROCEDIMIENTO 2210 2220	bioquímica
+T66	SINTOMA 21 28	cefalea
+T67	SINTOMA 195 234	cefalea localizada en cara y hemicráneo
+T68	SINTOMA 1054 1087	crisis de sacudidas en hemicuerpo
+T69	SINTOMA 1289 1298	apirética
+T70	SINTOMA 54 71	protusión frontal
+T71	SINTOMA 1304 1326	palidez cutáneo-mucosa
+T72	SINTOMA 257 274	aumento de la VSG
+T73	SINTOMA 1328 1353	protusión frontal derecha
+T74	SINTOMA 1125 1157	alucinaciones visuales complejas
+T75	SINTOMA 1360 1407	signos cutáneos de hipervascularización craneal
+T76	SINTOMA 1192 1205	irritabilidad
+T77	SINTOMA 1208 1235	pérdida de memoria reciente
+T78	SINTOMA 2293 2320	patrón férrico inflamatorio
+T79	SINTOMA 4414 4427	nódulo axilar
+T80	SINTOMA 1503 1541	auscultación cardiopulmonar era normal
+T81	SINTOMA 2370 2387	Hemostasia normal
+T82	SINTOMA 1570 1596	desorientada temporalmente
+T83	SINTOMA 2389 2400	VSG elevada
+T84	SINTOMA 1599 1606	apática
+T85	SINTOMA 1619 1641	fatigabilidad muscular
+T86	SINTOMA 2484 2498	aumento de PTH
+T87	SINTOMA 629 670	engrosamiento difuso de calota y meninges
+T88	SINTOMA 1698 1741	disminución de agudeza visual en ambos ojos
+T89	SINTOMA 2598 2620	CA 15,3 estaba elevado
+T90	SINTOMA 724 736	macrocitosis
+T91	SINTOMA 770 790	hiperproteinorraquia
+T92	SINTOMA 2657 2687	engrosamiento de calota difuso
+T93	SINTOMA 1900 1932	exudados algodonosos bilaterales
+T94	SINTOMA 2718 2795	engrosamiento meníngeo-dural disperso más marcado en región frontal izquierda
+T95	SINTOMA 1971 1998	balance motor era simétrico
+T96	SINTOMA 2000 2052	Deambulaba a pasos cortos con disminución del braceo
+T97	SINTOMA 2866 2891	leve hiperproteinorraquia
+T98	SINTOMA 2971 3004	cultivos del LCR fueron negativos
+T99	SINTOMA 3047 3067	lentificación difusa
+T100	SINTOMA 3117 3169	signos lesivo-irritativos en área temporal izquierda
+T101	SINTOMA 3236 3309	realce meníngeo anormal difuso más prominente en región frontal izquierda
+T102	SINTOMA 3314 3335	mamografía fue normal
+T103	SINTOMA 2831 2860	líquido cefalorraquídeo claro
+T104	SINTOMA 3072 3114	actividades lentas intermitentes frontales
+T105	SINTOMA 3429 3460	refuerzo de actividad en cráneo
+T106	SINTOMA 3760 3783	células malignas en LCR
+T107	SINTOMA 2349 2368	leucocitos normales
+T108	SINTOMA 3541 3616	cresta iliaca presentó trabéculas artefactadas sin actividad hematopoyética
+T109	SINTOMA 3621 3673	TAC toraco-abdómino-pélvica no encontró alteraciones
+T110	SINTOMA 4492 4500	falleció
+T111	SINTOMA 1475 1498	se palpaban adenopatías
+T112	SINTOMA 491 518	pérdida de visión bilateral
+T113	SINTOMA 1420 1443	edema en ambos párpados
+T114	SINTOMA 1882 1897	edema de papila
+T115	SINTOMA 2118 2133	hipoproteinemia
+T116	SINTOMA 2512 2557	Proteinograma y IEF sin hallazgos patológicos

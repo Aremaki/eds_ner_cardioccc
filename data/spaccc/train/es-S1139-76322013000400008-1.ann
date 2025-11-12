@@ -1,16 +1,16 @@
-T1	SINTOMA 904 1002	bioquímica, hemograma, velocidad de sedimentación globular, hormonas tiroideas y orina) fue normal
-T2	SINTOMA 1292 1334	examen de heces no se observaron parásitos
-T3	SINTOMA 349 359	odinofagia
-T4	SINTOMA 1475 1487	asintomática
-T5	ENFERMEDAD 563 601	hipertrofia de las amígdalas palatinas
-T6	ENFERMEDAD 203 233	lesiones habonosas diseminadas
-T7	ENFERMEDAD 238 248	angioedema
-T8	PROCEDIMIENTO 1027 1066	inmunoglobulinas séricas IgA, IgM e IgG
-T9	PROCEDIMIENTO 1292 1307	examen de heces
-T10	PROCEDIMIENTO 492 510	exploración física
-T11	PROCEDIMIENTO 639 853	pruebas cutáneas con una batería estándar de neumoalérgenos habituales de la región (incluidos ácaros del polvo, pólenes, hongos y epitelios de animales), látex, alimentos, panalérgenos vegetales y Anisakis simplex
-T12	PROCEDIMIENTO 875 892	analítica general
-T13	PROCEDIMIENTO 904 914	bioquímica
-T14	PROCEDIMIENTO 916 925	hemograma
-T15	PROCEDIMIENTO 964 982	hormonas tiroideas
-T16	PROCEDIMIENTO 985 990	orina
+T1	ENFERMEDAD 563 601	hipertrofia de las amígdalas palatinas
+T2	ENFERMEDAD 203 233	lesiones habonosas diseminadas
+T3	ENFERMEDAD 238 248	angioedema
+T4	PROCEDIMIENTO 639 853	pruebas cutáneas con una batería estándar de neumoalérgenos habituales de la región (incluidos ácaros del polvo, pólenes, hongos y epitelios de animales), látex, alimentos, panalérgenos vegetales y Anisakis simplex
+T5	PROCEDIMIENTO 492 510	exploración física
+T6	PROCEDIMIENTO 916 925	hemograma
+T7	PROCEDIMIENTO 1292 1307	examen de heces
+T8	PROCEDIMIENTO 964 982	hormonas tiroideas
+T9	PROCEDIMIENTO 1027 1066	inmunoglobulinas séricas IgA, IgM e IgG
+T10	PROCEDIMIENTO 875 892	analítica general
+T11	PROCEDIMIENTO 904 914	bioquímica
+T12	PROCEDIMIENTO 985 990	orina
+T13	SINTOMA 349 359	odinofagia
+T14	SINTOMA 1475 1487	asintomática
+T15	SINTOMA 1292 1334	examen de heces no se observaron parásitos
+T16	SINTOMA 904 1002	bioquímica, hemograma, velocidad de sedimentación globular, hormonas tiroideas y orina) fue normal

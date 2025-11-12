@@ -1,20 +1,35 @@
-T1	SINTOMA 1431 1443	asintomático
-T2	SINTOMA 210 230	distensión abdominal
-T3	SINTOMA 788 810	dolor abdominal difuso
-T4	SINTOMA 185 207	dolor abdominal difuso
-T5	SINTOMA 295 308	estreñimiento
-T6	SINTOMA 1582 1590	síntomas
-T7	SINTOMA 311 335	ausencia de deposiciones
-T8	SINTOMA 736 771	distensión y timpanismo abdominales
-T9	SINTOMA 570 581	dolicocolon
-T10	SINTOMA 1373 1415	eliminó una gran cantidad de heces y gases
-T11	SINTOMA 1087 1171	enema de bario realizado posteriormente demostró la típica imagen en "pico de pájaro
-T12	SINTOMA 851 874	heces en ampolla rectal
-T13	SINTOMA 879 920	hemograma y la bioquímica fueron normales
-T14	SINTOMA 1827 1856	segmento redundante del colon
-T15	ENFERMEDAD 87 103	síndrome de Down
-T16	ENFERMEDAD 106 126	retraso mental grave
-T17	ENFERMEDAD 436 452	vólvulo gástrico
-T18	ENFERMEDAD 570 581	dolicocolon
-T19	ENFERMEDAD 968 1004	dilatación masiva del colon proximal
-T20	ENFERMEDAD 1626 1664	vólvulo del ángulo esplénico del colon
+T1	ENFERMEDAD 87 103	síndrome de Down
+T2	ENFERMEDAD 106 126	retraso mental grave
+T3	ENFERMEDAD 436 452	vólvulo gástrico
+T4	ENFERMEDAD 570 581	dolicocolon
+T5	ENFERMEDAD 968 1004	dilatación masiva del colon proximal
+T6	ENFERMEDAD 1626 1664	vólvulo del ángulo esplénico del colon
+T7	PROCEDIMIENTO 503 525	gastropexia quirúrgica
+T8	PROCEDIMIENTO 685 703	exploración física
+T9	PROCEDIMIENTO 815 827	tacto rectal
+T10	PROCEDIMIENTO 879 888	hemograma
+T11	PROCEDIMIENTO 894 904	bioquímica
+T12	PROCEDIMIENTO 925 954	radiografía simple de abdomen
+T13	PROCEDIMIENTO 1053 1077	tomografía computerizada
+T14	PROCEDIMIENTO 1079 1081	TC
+T15	PROCEDIMIENTO 1087 1101	enema de bario
+T16	PROCEDIMIENTO 1277 1301	colonoscopia terapéutica
+T17	PROCEDIMIENTO 1327 1359	desvolvular el segmento colónico
+T18	PROCEDIMIENTO 1680 1692	colonoscopia
+T19	PROCEDIMIENTO 1813 1856	resección del segmento redundante del colon
+T20	PROCEDIMIENTO 1764 1787	intervención quirúrgica
+T21	PROCEDIMIENTO 538 553	acto operatorio
+T22	SINTOMA 295 308	estreñimiento
+T23	SINTOMA 1582 1590	síntomas
+T24	SINTOMA 185 207	dolor abdominal difuso
+T25	SINTOMA 210 230	distensión abdominal
+T26	SINTOMA 788 810	dolor abdominal difuso
+T27	SINTOMA 1431 1443	asintomático
+T28	SINTOMA 736 771	distensión y timpanismo abdominales
+T29	SINTOMA 851 874	heces en ampolla rectal
+T30	SINTOMA 879 920	hemograma y la bioquímica fueron normales
+T31	SINTOMA 311 335	ausencia de deposiciones
+T32	SINTOMA 1087 1171	enema de bario realizado posteriormente demostró la típica imagen en "pico de pájaro
+T33	SINTOMA 1373 1415	eliminó una gran cantidad de heces y gases
+T34	SINTOMA 1827 1856	segmento redundante del colon
+T35	SINTOMA 570 581	dolicocolon

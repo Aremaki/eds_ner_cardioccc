@@ -1,35 +1,51 @@
-T1	SINTOMA 976 1003	analítica de orina negativa
-T2	SINTOMA 2067 2079	asintomático
-T3	SINTOMA 943 960	Bioquímica normal
-T4	SINTOMA 516 532	chorro aceptable
-T5	SINTOMA 494 511	clínica miccional
-T6	SINTOMA 334 341	cólicos
-T7	SINTOMA 534 541	disuria
-T8	SINTOMA 151 158	disuria
-T9	SINTOMA 93 105	dolor lumbar
-T10	SINTOMA 464 476	dolor lumbar
-T11	SINTOMA 930 941	Eosinofilia
-T12	SINTOMA 399 418	febrícula ocasional
-T13	SINTOMA 82 88	fiebre
-T14	SINTOMA 563 568	goteo
-T15	SINTOMA 320 329	hematuria
-T16	SINTOMA 899 915	Hemograma normal
-T17	SINTOMA 748 772	masa en flanco izquierdo
-T18	SINTOMA 1050 1074	masa en flanco izquierdo
-T19	SINTOMA 117 134	pesadez en flanco
-T20	SINTOMA 432 459	pesadez en flanco izquierdo
-T21	SINTOMA 655 685	sensación de vacuidad completa
-T22	SINTOMA 1309 1368	serología de Anticuerpos Echinococcus/Hemag que es POSITIVO
-T23	SINTOMA 420 430	sudoración
-T24	SINTOMA 69 79	sudoración
-T25	SINTOMA 573 581	urgencia
-T26	ENFERMEDAD 260 262	DM
-T27	ENFERMEDAD 267 270	HTA
-T28	ENFERMEDAD 346 350	ITUs
-T29	ENFERMEDAD 1772 1789	quíste hidatídico
-T30	ENFERMEDAD 1138 1174	múltiples quistes en riñón izquierdo
-T31	ENFERMEDAD 1267 1294	enfermedad hidatídica renal
-T32	ENFERMEDAD 295 305	Ex fumador
-T33	ENFERMEDAD 275 283	alergias
-T34	ENFERMEDAD 836 844	lesiones
-T35	ENFERMEDAD 1212 1230	lesiones quísticas
+T1	ENFERMEDAD 260 262	DM
+T2	ENFERMEDAD 267 270	HTA
+T3	ENFERMEDAD 346 350	ITUs
+T4	ENFERMEDAD 1772 1789	quíste hidatídico
+T5	ENFERMEDAD 1138 1174	múltiples quistes en riñón izquierdo
+T6	ENFERMEDAD 1267 1294	enfermedad hidatídica renal
+T7	ENFERMEDAD 295 305	Ex fumador
+T8	ENFERMEDAD 275 283	alergias
+T9	ENFERMEDAD 836 844	lesiones
+T10	ENFERMEDAD 1212 1230	lesiones quísticas
+T11	PROCEDIMIENTO 692 710	exploración física
+T12	PROCEDIMIENTO 1309 1352	serología de Anticuerpos Echinococcus/Hemag
+T13	PROCEDIMIENTO 1426 1429	RMN
+T14	PROCEDIMIENTO 899 908	Hemograma
+T15	PROCEDIMIENTO 756 796	flanco izquierdo a la palpación profunda
+T16	PROCEDIMIENTO 798 810	Tacto Rectal
+T17	PROCEDIMIENTO 976 994	analítica de orina
+T18	PROCEDIMIENTO 1005 1031	Rx aparato genito urinario
+T19	PROCEDIMIENTO 1701 1738	nefroureterectomía izquierda completa
+T20	PROCEDIMIENTO 1121 1136	Ecografía renal
+T21	PROCEDIMIENTO 1187 1205	TC abdominopélvico
+T22	PROCEDIMIENTO 943 953	Bioquímica
+T23	PROCEDIMIENTO 1839 1861	tratamiento quirúrgico
+T24	PROCEDIMIENTO 1559 1595	cirugía sobre la unidad renal afecta
+T25	PROCEDIMIENTO 1625 1640	acto quirúrgico
+T26	PROCEDIMIENTO 1650 1657	cirugía
+T27	SINTOMA 930 941	Eosinofilia
+T28	SINTOMA 399 418	febrícula ocasional
+T29	SINTOMA 748 772	masa en flanco izquierdo
+T30	SINTOMA 82 88	fiebre
+T31	SINTOMA 93 105	dolor lumbar
+T32	SINTOMA 432 459	pesadez en flanco izquierdo
+T33	SINTOMA 516 532	chorro aceptable
+T34	SINTOMA 151 158	disuria
+T35	SINTOMA 334 341	cólicos
+T36	SINTOMA 534 541	disuria
+T37	SINTOMA 1050 1074	masa en flanco izquierdo
+T38	SINTOMA 2067 2079	asintomático
+T39	SINTOMA 320 329	hematuria
+T40	SINTOMA 69 79	sudoración
+T41	SINTOMA 420 430	sudoración
+T42	SINTOMA 943 960	Bioquímica normal
+T43	SINTOMA 117 134	pesadez en flanco
+T44	SINTOMA 494 511	clínica miccional
+T45	SINTOMA 563 568	goteo
+T46	SINTOMA 573 581	urgencia
+T47	SINTOMA 655 685	sensación de vacuidad completa
+T48	SINTOMA 976 1003	analítica de orina negativa
+T49	SINTOMA 1309 1368	serología de Anticuerpos Echinococcus/Hemag que es POSITIVO
+T50	SINTOMA 899 915	Hemograma normal
+T51	SINTOMA 464 476	dolor lumbar

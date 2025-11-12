@@ -1,14 +1,14 @@
-T1	SINTOMA 164 188	examen físico fue normal
-T2	SINTOMA 62 84	molestias epigástricas
-T3	ENFERMEDAD 247 270	leve anemia microcítica
-T4	ENFERMEDAD 273 294	hipogammaglobulinemia
-T5	ENFERMEDAD 342 377	segunda porción duodenal una lesión
-T6	ENFERMEDAD 803 824	linfoma MALT duodenal
-T7	ENFERMEDAD 975 986	metastásica
-T8	ENFERMEDAD 948 972	afectación locorregional
-T9	PROCEDIMIENTO 164 177	examen físico
-T10	PROCEDIMIENTO 307 319	gastroscopia
-T11	PROCEDIMIENTO 466 482	toma de biopsias
-T12	PROCEDIMIENTO 487 511	examen anatomopatológico
-T13	PROCEDIMIENTO 650 664	inmunofenotipo
-T14	PROCEDIMIENTO 897 917	estudio de extensión
+T1	ENFERMEDAD 247 270	leve anemia microcítica
+T2	ENFERMEDAD 273 294	hipogammaglobulinemia
+T3	ENFERMEDAD 342 377	segunda porción duodenal una lesión
+T4	ENFERMEDAD 803 824	linfoma MALT duodenal
+T5	ENFERMEDAD 975 986	metastásica
+T6	ENFERMEDAD 948 972	afectación locorregional
+T7	PROCEDIMIENTO 164 177	examen físico
+T8	PROCEDIMIENTO 307 319	gastroscopia
+T9	PROCEDIMIENTO 466 482	toma de biopsias
+T10	PROCEDIMIENTO 487 511	examen anatomopatológico
+T11	PROCEDIMIENTO 650 664	inmunofenotipo
+T12	PROCEDIMIENTO 897 917	estudio de extensión
+T13	SINTOMA 62 84	molestias epigástricas
+T14	SINTOMA 164 188	examen físico fue normal

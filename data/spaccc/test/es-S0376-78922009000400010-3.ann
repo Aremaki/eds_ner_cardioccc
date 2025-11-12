@@ -1,14 +1,15 @@
-T1	SINTOMA 43 59	asimetría facial
-T2	SINTOMA 197 214	microrretrognatia
-T3	SINTOMA 295 306	maloclusión
-T4	ENFERMEDAD 72 89	hipoplasia facial
-T5	ENFERMEDAD 124 145	anquílosis mandibular
-T6	ENFERMEDAD 197 214	microrretrognatia
-T7	ENFERMEDAD 43 89	asimetría facial por marcada hipoplasia facial
-T8	ENFERMEDAD 295 306	maloclusión
-T9	ENFERMEDAD 367 422	bloque anquilótico de la articulación témporomandibular
-T10	PROCEDIMIENTO 108 111	RMN
-T11	PROCEDIMIENTO 353 430	resección del bloque anquilótico de la articulación témporomandibular derecha
-T12	PROCEDIMIENTO 440 478	osteotomía a nivel del cuello condilar
-T13	PROCEDIMIENTO 481 504	coronoidectomía derecha
-T14	PROCEDIMIENTO 518 579	reconstrucción mediante injerto condrocostal de interposición
+T1	ENFERMEDAD 72 89	hipoplasia facial
+T2	ENFERMEDAD 124 145	anquílosis mandibular
+T3	ENFERMEDAD 197 214	microrretrognatia
+T4	ENFERMEDAD 43 89	asimetría facial por marcada hipoplasia facial
+T5	ENFERMEDAD 295 306	maloclusión
+T6	ENFERMEDAD 367 422	bloque anquilótico de la articulación témporomandibular
+T7	PROCEDIMIENTO 353 430	resección del bloque anquilótico de la articulación témporomandibular derecha
+T8	PROCEDIMIENTO 108 111	RMN
+T9	PROCEDIMIENTO 440 478	osteotomía a nivel del cuello condilar
+T10	PROCEDIMIENTO 481 504	coronoidectomía derecha
+T11	PROCEDIMIENTO 518 579	reconstrucción mediante injerto condrocostal de interposición
+T12	SINTOMA 43 59	asimetría facial
+T13	SINTOMA 165 194	retracción tisular secundaria
+T14	SINTOMA 295 306	maloclusión
+T15	SINTOMA 197 214	microrretrognatia

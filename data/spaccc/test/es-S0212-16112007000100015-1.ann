@@ -1,29 +1,29 @@
-T1	SINTOMA 862 874	taquicárdico
-T2	SINTOMA 418 440	dolor abdominal difuso
-T3	SINTOMA 455 462	diarrea
-T4	SINTOMA 489 522	deterioro del nivel de conciencia
-T5	SINTOMA 820 830	consciente
-T6	SINTOMA 842 860	tendencia al sueño
-T7	SINTOMA 665 691	inestabilidad hemodinámica
-T8	SINTOMA 925 938	ritmo sinusal
-T9	SINTOMA 941 950	hipotenso
-T10	SINTOMA 465 473	anorexia
-T11	SINTOMA 987 1027	signos indirectos de bajo gasto cardíaco
-T12	ENFERMEDAD 1416 1449	intoxicación aguda por metformina
-T13	ENFERMEDAD 2006 2014	acidosis
-T14	ENFERMEDAD 106 145	enfermedad pulmonar obstructiva crónica
-T15	ENFERMEDAD 147 151	EPOC
-T16	ENFERMEDAD 154 175	hipertensión arterial
-T17	ENFERMEDAD 177 202	diabetes mellitus tipo II
-T18	ENFERMEDAD 205 252	isquemia crónica en las extremidades inferiores
-T19	ENFERMEDAD 1144 1169	insuficiencia renal aguda
-T20	ENFERMEDAD 1767 1775	acidosis
-T21	ENFERMEDAD 1252 1274	acidosis láctica grave
-T22	ENFERMEDAD 611 630	fracaso renal agudo
-T23	ENFERMEDAD 643 662	acidosis metabólica
-T24	ENFERMEDAD 941 950	hipotenso
-T25	PROCEDIMIENTO 1034 1052	exploración física
-T26	PROCEDIMIENTO 1583 1612	reposición hidroelectrolítica
-T27	PROCEDIMIENTO 1614 1641	estabilización hemodinámica
-T28	PROCEDIMIENTO 1785 1825	administración endovenosa de bicarbonato
-T29	PROCEDIMIENTO 1913 1925	hemodiálisis
+T1	ENFERMEDAD 1416 1449	intoxicación aguda por metformina
+T2	ENFERMEDAD 2006 2014	acidosis
+T3	ENFERMEDAD 106 145	enfermedad pulmonar obstructiva crónica
+T4	ENFERMEDAD 147 151	EPOC
+T5	ENFERMEDAD 154 175	hipertensión arterial
+T6	ENFERMEDAD 177 202	diabetes mellitus tipo II
+T7	ENFERMEDAD 205 252	isquemia crónica en las extremidades inferiores
+T8	ENFERMEDAD 1144 1169	insuficiencia renal aguda
+T9	ENFERMEDAD 1767 1775	acidosis
+T10	ENFERMEDAD 1252 1274	acidosis láctica grave
+T11	ENFERMEDAD 611 630	fracaso renal agudo
+T12	ENFERMEDAD 643 662	acidosis metabólica
+T13	ENFERMEDAD 941 950	hipotenso
+T14	PROCEDIMIENTO 1034 1052	exploración física
+T15	PROCEDIMIENTO 1785 1825	administración endovenosa de bicarbonato
+T16	PROCEDIMIENTO 1913 1925	hemodiálisis
+T17	PROCEDIMIENTO 1614 1641	estabilización hemodinámica
+T18	PROCEDIMIENTO 1583 1612	reposición hidroelectrolítica
+T19	SINTOMA 862 874	taquicárdico
+T20	SINTOMA 418 440	dolor abdominal difuso
+T21	SINTOMA 455 462	diarrea
+T22	SINTOMA 465 473	anorexia
+T23	SINTOMA 489 522	deterioro del nivel de conciencia
+T24	SINTOMA 820 830	consciente
+T25	SINTOMA 842 860	tendencia al sueño
+T26	SINTOMA 987 1027	signos indirectos de bajo gasto cardíaco
+T27	SINTOMA 665 691	inestabilidad hemodinámica
+T28	SINTOMA 925 938	ritmo sinusal
+T29	SINTOMA 941 950	hipotenso

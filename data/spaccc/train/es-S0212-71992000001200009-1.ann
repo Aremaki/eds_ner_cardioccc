@@ -1,16 +1,38 @@
-T1	SINTOMA 1888 1938	bullas aéreas de gran tamaño en el lóbulo superior
-T2	SINTOMA 964 1002	crepitación a la auscultación cardíaca
-T3	SINTOMA 917 961	crepitantes finos en ambos campos pulmonares
-T4	SINTOMA 486 492	disnea
-T5	SINTOMA 720 736	disnea de reposo
-T6	SINTOMA 625 716	dolor centrotorácico intermitente, que aumentaba con la tos y los movimientos respiratorios
-T7	SINTOMA 447 460	expectoración
-T8	SINTOMA 462 468	fiebre
-T9	SINTOMA 1036 1052	pulso paradójico
-T10	SINTOMA 1384 1397	ritmo sinusal
-T11	SINTOMA 1004 1019	signo de Hamman
-T12	SINTOMA 824 835	taquicardia
-T13	SINTOMA 787 796	taquipnea
-T14	SINTOMA 417 420	tos
-T15	SINTOMA 580 613	tumefacción en la región cervical
-T16	SINTOMA 858 905	tumefacción y crepitación en la región cervical
+T1	ENFERMEDAD 2098 2117	enfisema subcutáneo
+T2	ENFERMEDAD 2123 2138	neumomediastino
+T3	ENFERMEDAD 307 321	ulcus duodenal
+T4	ENFERMEDAD 1499 1516	enfisema cervical
+T5	ENFERMEDAD 1599 1626	fibrosis pulmonar bilateral
+T6	ENFERMEDAD 1722 1746	neumomediastino anterior
+T7	ENFERMEDAD 1838 1865	fibrosis pulmonar bilateral
+T8	ENFERMEDAD 1870 1885	neumomediastino
+T9	ENFERMEDAD 1888 1938	bullas aéreas de gran tamaño en el lóbulo superior
+T10	ENFERMEDAD 1967 1977	neumotórax
+T11	ENFERMEDAD 119 122	FPI
+T12	PROCEDIMIENTO 743 761	exploración física
+T13	PROCEDIMIENTO 83 114	biopsia pulmonar transbronquial
+T14	PROCEDIMIENTO 159 170	corticoides
+T15	PROCEDIMIENTO 1235 1260	gasometría arterial basal
+T16	PROCEDIMIENTO 222 258	oxigenoterapia continua domiciliaria
+T17	PROCEDIMIENTO 981 1002	auscultación cardíaca
+T18	PROCEDIMIENTO 1355 1373	electrocardiograma
+T19	PROCEDIMIENTO 1464 1485	radiografía de cuello
+T20	PROCEDIMIENTO 1546 1566	radiografía de tórax
+T21	PROCEDIMIENTO 1752 1790	tomografía computarizada (TC) de tórax
+T22	PROCEDIMIENTO 2072 2094	controles radiológicos
+T23	SINTOMA 787 796	taquipnea
+T24	SINTOMA 824 835	taquicardia
+T25	SINTOMA 462 468	fiebre
+T26	SINTOMA 858 905	tumefacción y crepitación en la región cervical
+T27	SINTOMA 486 492	disnea
+T28	SINTOMA 625 716	dolor centrotorácico intermitente, que aumentaba con la tos y los movimientos respiratorios
+T29	SINTOMA 1384 1397	ritmo sinusal
+T30	SINTOMA 720 736	disnea de reposo
+T31	SINTOMA 917 961	crepitantes finos en ambos campos pulmonares
+T32	SINTOMA 447 460	expectoración
+T33	SINTOMA 964 1002	crepitación a la auscultación cardíaca
+T34	SINTOMA 1004 1019	signo de Hamman
+T35	SINTOMA 1036 1052	pulso paradójico
+T36	SINTOMA 417 420	tos
+T37	SINTOMA 580 613	tumefacción en la región cervical
+T38	SINTOMA 1888 1938	bullas aéreas de gran tamaño en el lóbulo superior

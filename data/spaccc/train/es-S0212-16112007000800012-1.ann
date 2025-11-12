@@ -1,62 +1,97 @@
-T1	SINTOMA 2259 2297	afectación difusa de intestino delgado
-T2	SINTOMA 488 508	anomalías en ovarios
-T3	SINTOMA 1657 1664	ascitis
-T4	SINTOMA 4967 4974	ascitis
-T5	SINTOMA 242 249	ascitis
-T6	SINTOMA 144 159	ascitis quilosa
-T7	SINTOMA 1290 1351	ASLO, proteína C reactiva y a-1 antitripsina sérica, normales
-T8	SINTOMA 4396 4408	colaboradora
-T9	SINTOMA 1579 1599	cultivo fue negativo
-T10	SINTOMA 3219 3249	dedos de las manos longilíneos
-T11	SINTOMA 3399 3441	deposiciones al día con aspecto algo graso
-T12	SINTOMA 2020 2037	edema de pliegues
-T13	SINTOMA 1707 1742	edemas en asas de intestino delgado
-T14	SINTOMA 252 287	edemas leves en miembros inferiores
-T15	SINTOMA 3261 3289	edemas maleolares simétricos
-T16	SINTOMA 1066 1101	estudio del hierro sin alteraciones
-T17	SINTOMA 3306 3334	exploración física es normal
-T18	SINTOMA 1364 1404	función tiroidea dentro de la normalidad
-T19	SINTOMA 4559 4576	ganancia ponderal
-T20	SINTOMA 1824 1878	hígado, porta, grandes vasos, vesícula y bazo normales
-T21	SINTOMA 1144 1159	hipoalbuminemia
-T22	SINTOMA 1161 1173	hipocalcemia
-T23	SINTOMA 1126 1141	hipoproteinemia
-T24	SINTOMA 2118 2168	íleon terminal una mucosa extremadamente irregular
-T25	SINTOMA 1979 2018	irregularidad en el patrón vellositario
-T26	SINTOMA 1035 1047	leucocitosis
-T27	SINTOMA 2050 2078	linfangiectasias puntiformes
-T28	SINTOMA 3719 3759	lipidograma, y hemograma fueron normales
-T29	SINTOMA 3073 3089	líquido ascítico
-T30	SINTOMA 427 471	líquido ascítico de características quilosas
-T31	SINTOMA 1493 1574	líquido ascítico extraído presentaba características de exudado y aspecto quiloso
-T32	SINTOMA 1791 1819	líquido ascítico peritoneal,
-T33	SINTOMA 4904 4928	líquido libre en abdomen
-T34	SINTOMA 890 908	líquido peritoneal
-T35	SINTOMA 696 711	líquido quiloso
-T36	SINTOMA 2497 2573	mucosa gástrica, duodenal y yeyunal no evidenció alteraciones significativas
-T37	SINTOMA 3566 3575	Nuligesta
-T38	SINTOMA 3202 3217	palidez cutánea
-T39	SINTOMA 1198 1277	perfil celíaco, AgHBs, AcVHC, marcadores tumorales, y Mantoux, fueron negativas
-T40	SINTOMA 2348 2381	pliegues edematosos y congestivos
-T41	SINTOMA 4788 4815	síntomas gastrointestinales
-T42	SINTOMA 3347 3378	sintomatología gastrointestinal
-T43	SINTOMA 1643 1655	tórax normal
-T44	SINTOMA 1439 1488	valores descendidos de albúmina y gammaglobulinas
-T45	ENFERMEDAD 1657 1705	ascitis en todos los compartimentos peritoneales
-T46	ENFERMEDAD 3073 3089	líquido ascítico
-T47	ENFERMEDAD 144 159	ascitis quilosa
-T48	ENFERMEDAD 2722 2757	linfangiectasia intestinal primaria
-T49	ENFERMEDAD 1791 1818	líquido ascítico peritoneal
-T50	ENFERMEDAD 1126 1141	hipoproteinemia
-T51	ENFERMEDAD 1144 1159	hipoalbuminemia
-T52	ENFERMEDAD 242 249	ascitis
-T53	ENFERMEDAD 1161 1173	hipocalcemia
-T54	ENFERMEDAD 380 399	neoplasia de ovario
-T55	ENFERMEDAD 427 471	líquido ascítico de características quilosas
-T56	ENFERMEDAD 4967 4974	ascitis
-T57	ENFERMEDAD 512 537	carcinomatosis peritoneal
-T58	ENFERMEDAD 2434 2464	hiperplasia folicular linfoide
-T59	ENFERMEDAD 2466 2487	linfangiectasia focal
-T60	ENFERMEDAD 4904 4928	líquido libre en abdomen
-T61	ENFERMEDAD 3549 3564	hábitos tóxicos
-T62	ENFERMEDAD 1707 1742	edemas en asas de intestino delgado
+T1	ENFERMEDAD 1657 1705	ascitis en todos los compartimentos peritoneales
+T2	ENFERMEDAD 3073 3089	líquido ascítico
+T3	ENFERMEDAD 144 159	ascitis quilosa
+T4	ENFERMEDAD 2722 2757	linfangiectasia intestinal primaria
+T5	ENFERMEDAD 1791 1818	líquido ascítico peritoneal
+T6	ENFERMEDAD 1126 1141	hipoproteinemia
+T7	ENFERMEDAD 1144 1159	hipoalbuminemia
+T8	ENFERMEDAD 242 249	ascitis
+T9	ENFERMEDAD 1161 1173	hipocalcemia
+T10	ENFERMEDAD 380 399	neoplasia de ovario
+T11	ENFERMEDAD 427 471	líquido ascítico de características quilosas
+T12	ENFERMEDAD 4967 4974	ascitis
+T13	ENFERMEDAD 512 537	carcinomatosis peritoneal
+T14	ENFERMEDAD 2434 2464	hiperplasia folicular linfoide
+T15	ENFERMEDAD 2466 2487	linfangiectasia focal
+T16	ENFERMEDAD 4904 4928	líquido libre en abdomen
+T17	ENFERMEDAD 3549 3564	hábitos tóxicos
+T18	ENFERMEDAD 1707 1742	edemas en asas de intestino delgado
+T19	PROCEDIMIENTO 1604 1623	TAC toracoabdominal
+T20	PROCEDIMIENTO 2585 2611	tratamiento con diuréticos
+T21	PROCEDIMIENTO 556 577	tratamiento diurético
+T22	PROCEDIMIENTO 3781 3802	tratamiento dietético
+T23	PROCEDIMIENTO 3051 3089	evacuación de 14 L de líquido ascítico
+T24	PROCEDIMIENTO 1011 1020	hemograma
+T25	PROCEDIMIENTO 1750 1769	ecografía abdominal
+T26	PROCEDIMIENTO 3734 3743	hemograma
+T27	PROCEDIMIENTO 721 744	paracentesis evacuadora
+T28	PROCEDIMIENTO 1198 1212	perfil celíaco
+T29	PROCEDIMIENTO 1883 1900	fibroenteroscopia
+T30	PROCEDIMIENTO 862 908	se evacuan 14 litros más de líquido peritoneal
+T31	PROCEDIMIENTO 336 359	laparotomía exploradora
+T32	PROCEDIMIENTO 4859 4878	ecografía abdominal
+T33	PROCEDIMIENTO 3306 3324	exploración física
+T34	PROCEDIMIENTO 404 443	evacuaron 12 litros de líquido ascítico
+T35	PROCEDIMIENTO 2091 2101	ileoscopia
+T36	PROCEDIMIENTO 4248 4292	fórmula hiperproteica para nutrición enteral
+T37	PROCEDIMIENTO 2231 2248	capsuloendoscopia
+T38	PROCEDIMIENTO 2386 2414	biopsia de mucosa intestinal
+T39	PROCEDIMIENTO 1353 1380	Estudio de función tiroidea
+T40	PROCEDIMIENTO 2218 2226	biopsias
+T41	PROCEDIMIENTO 1579 1586	cultivo
+T42	PROCEDIMIENTO 3719 3730	lipidograma
+T43	PROCEDIMIENTO 1409 1431	proteinograma en suero
+T44	PROCEDIMIENTO 1228 1248	marcadores tumorales
+T45	PROCEDIMIENTO 3700 3710	bioquímica
+T46	PROCEDIMIENTO 4349 4379	complemento vitamínico-mineral
+T47	PROCEDIMIENTO 1066 1084	estudio del hierro
+T48	PROCEDIMIENTO 1252 1259	Mantoux
+T49	PROCEDIMIENTO 4027 4072	se aportan los lípidos en forma de aceite MCT
+T50	PROCEDIMIENTO 1103 1120	perfil bioquímico
+T51	PROCEDIMIENTO 3965 4023	aporte de grasas procedentes de los alimentos se restringe
+T52	PROCEDIMIENTO 3819 3838	dieta personalizada
+T53	SINTOMA 1035 1047	leucocitosis
+T54	SINTOMA 3566 3575	Nuligesta
+T55	SINTOMA 3306 3334	exploración física es normal
+T56	SINTOMA 1364 1404	función tiroidea dentro de la normalidad
+T57	SINTOMA 488 508	anomalías en ovarios
+T58	SINTOMA 2118 2168	íleon terminal una mucosa extremadamente irregular
+T59	SINTOMA 2259 2297	afectación difusa de intestino delgado
+T60	SINTOMA 4559 4576	ganancia ponderal
+T61	SINTOMA 3202 3217	palidez cutánea
+T62	SINTOMA 1066 1101	estudio del hierro sin alteraciones
+T63	SINTOMA 1439 1488	valores descendidos de albúmina y gammaglobulinas
+T64	SINTOMA 1824 1878	hígado, porta, grandes vasos, vesícula y bazo normales
+T65	SINTOMA 3219 3249	dedos de las manos longilíneos
+T66	SINTOMA 4396 4408	colaboradora
+T67	SINTOMA 1198 1277	perfil celíaco, AgHBs, AcVHC, marcadores tumorales, y Mantoux, fueron negativas
+T68	SINTOMA 1493 1574	líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+T69	SINTOMA 1579 1599	cultivo fue negativo
+T70	SINTOMA 1643 1655	tórax normal
+T71	SINTOMA 1979 2018	irregularidad en el patrón vellositario
+T72	SINTOMA 2020 2037	edema de pliegues
+T73	SINTOMA 2050 2078	linfangiectasias puntiformes
+T74	SINTOMA 2303 2345	formaciones puntiformes "en grano de mijo"
+T75	SINTOMA 2497 2573	mucosa gástrica, duodenal y yeyunal no evidenció alteraciones significativas
+T76	SINTOMA 3347 3378	sintomatología gastrointestinal
+T77	SINTOMA 252 287	edemas leves en miembros inferiores
+T78	SINTOMA 696 711	líquido quiloso
+T79	SINTOMA 1290 1351	ASLO, proteína C reactiva y a-1 antitripsina sérica, normales
+T80	SINTOMA 1707 1742	edemas en asas de intestino delgado
+T81	SINTOMA 2348 2381	pliegues edematosos y congestivos
+T82	SINTOMA 3261 3289	edemas maleolares simétricos
+T83	SINTOMA 4788 4815	síntomas gastrointestinales
+T84	SINTOMA 4904 4928	líquido libre en abdomen
+T85	SINTOMA 144 159	ascitis quilosa
+T86	SINTOMA 242 249	ascitis
+T87	SINTOMA 427 471	líquido ascítico de características quilosas
+T88	SINTOMA 890 908	líquido peritoneal
+T89	SINTOMA 1126 1141	hipoproteinemia
+T90	SINTOMA 1144 1159	hipoalbuminemia
+T91	SINTOMA 1161 1173	hipocalcemia
+T92	SINTOMA 1657 1664	ascitis
+T93	SINTOMA 1791 1819	líquido ascítico peritoneal,
+T94	SINTOMA 3073 3089	líquido ascítico
+T95	SINTOMA 3399 3441	deposiciones al día con aspecto algo graso
+T96	SINTOMA 3719 3759	lipidograma, y hemograma fueron normales
+T97	SINTOMA 4967 4974	ascitis

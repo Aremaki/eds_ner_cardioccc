@@ -1,14 +1,49 @@
-T1	SINTOMA 1989 2011	aumento de la beta-HCG
-T2	SINTOMA 251 281	aumento indoloro del testículo
-T3	SINTOMA 1564 1622	exploración física y los marcadores tumorales son normales
-T4	SINTOMA 2326 2351	imagen de aspecto nodular
-T5	SINTOMA 792 845	lactato deshidrogenasa y la alfafetoproteína normales
-T6	SINTOMA 2606 2625	libre de enfermedad
-T7	SINTOMA 2049 2078	marcadores tumorales normales
-T8	SINTOMA 874 895	masa de 8 cm en teste
-T9	SINTOMA 102 117	masa hipoecoica
-T10	SINTOMA 2143 2190	masa retroperitoneal de 3 cm x 8 cm paraaórtica
-T11	SINTOMA 980 1013	microcalcificaciones en testículo
-T12	SINTOMA 1497 1527	nódulo hipoecoico en testículo
-T13	SINTOMA 920 939	nódulos hipoecoicos
-T14	SINTOMA 348 377	testículo derecho en ascensor
+T1	ENFERMEDAD 1352 1368	Seminoma clásico
+T2	ENFERMEDAD 2450 2499	recaída adenopática abdominal de seminoma clásico
+T3	ENFERMEDAD 348 377	testículo derecho en ascensor
+T4	ENFERMEDAD 1726 1750	Seminoma de tipo clásico
+T5	ENFERMEDAD 1222 1238	Seminoma clásico
+T6	ENFERMEDAD 428 438	meningitis
+T7	ENFERMEDAD 1764 1808	Neoplasia Intratubular de Células Germinales
+T8	ENFERMEDAD 454 484	déficit neurológico permanente
+T9	ENFERMEDAD 487 504	crisis comiciales
+T10	ENFERMEDAD 955 971	tumor testicular
+T11	ENFERMEDAD 1040 1051	adenopatías
+T12	ENFERMEDAD 1054 1064	metástasis
+T13	ENFERMEDAD 131 149	neoplasia en teste
+T14	ENFERMEDAD 1246 1282	infiltra a la albugínea ni al cordón
+T15	ENFERMEDAD 1299 1328	invasión vascular o linfática
+T16	ENFERMEDAD 1550 1559	neoplasia
+T17	ENFERMEDAD 980 1013	microcalcificaciones en testículo
+T18	PROCEDIMIENTO 1640 1668	orquiectomía radical derecha
+T19	PROCEDIMIENTO 1444 1468	estudio ultrasonográfico
+T20	PROCEDIMIENTO 1125 1172	orquiectomía radical izquierda por vía inguinal
+T21	PROCEDIMIENTO 621 630	ecografía
+T22	PROCEDIMIENTO 77 101	estudio ultrasonográfico
+T23	PROCEDIMIENTO 2513 2563	tratamiento con 4 ciclos de Etopósido y Cisplatino
+T24	PROCEDIMIENTO 685 715	Tomografía Axial Computerizada
+T25	PROCEDIMIENTO 1564 1582	exploración física
+T26	PROCEDIMIENTO 2100 2127	TAC toraco-abdomino-pélvico
+T27	PROCEDIMIENTO 525 539	apendicectomía
+T28	PROCEDIMIENTO 542 559	tenotomía aquílea
+T29	PROCEDIMIENTO 853 862	ecografía
+T30	PROCEDIMIENTO 1924 1956	tratamiento hormonal sustitutivo
+T31	PROCEDIMIENTO 1071 1098	TAC toraco-abdomino-pélvico
+T32	PROCEDIMIENTO 1191 1210	Anatomía Patológica
+T33	PROCEDIMIENTO 1695 1714	Anatomía Patológica
+T34	PROCEDIMIENTO 655 675	estudio de extensión
+T35	PROCEDIMIENTO 632 652	marcadores tumorales
+T36	SINTOMA 1497 1527	nódulo hipoecoico en testículo
+T37	SINTOMA 251 281	aumento indoloro del testículo
+T38	SINTOMA 102 117	masa hipoecoica
+T39	SINTOMA 1564 1622	exploración física y los marcadores tumorales son normales
+T40	SINTOMA 2143 2190	masa retroperitoneal de 3 cm x 8 cm paraaórtica
+T41	SINTOMA 792 845	lactato deshidrogenasa y la alfafetoproteína normales
+T42	SINTOMA 874 895	masa de 8 cm en teste
+T43	SINTOMA 980 1013	microcalcificaciones en testículo
+T44	SINTOMA 920 939	nódulos hipoecoicos
+T45	SINTOMA 2326 2351	imagen de aspecto nodular
+T46	SINTOMA 348 377	testículo derecho en ascensor
+T47	SINTOMA 1989 2011	aumento de la beta-HCG
+T48	SINTOMA 2049 2078	marcadores tumorales normales
+T49	SINTOMA 2606 2625	libre de enfermedad

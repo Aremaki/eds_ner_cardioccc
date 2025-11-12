@@ -1,14 +1,22 @@
-T1	SINTOMA 161 170	lumbalgia
-T2	SINTOMA 883 893	tumoración
-T3	SINTOMA 503 546	serología de hidatidosis, resultan normales
-T4	SINTOMA 613 661	tumoración en región interpolar y polar superior
-T5	ENFERMEDAD 53 62	depresión
-T6	ENFERMEDAD 1047 1065	formación quística
-T7	ENFERMEDAD 102 109	varices
-T8	ENFERMEDAD 516 527	hidatidosis
-T9	ENFERMEDAD 272 320	quiste de tipo mixto (sólido y líquido) en riñón
-T10	ENFERMEDAD 372 389	quiste hidatídico
-T11	ENFERMEDAD 1177 1198	nefroma multiquístico
-T12	ENFERMEDAD 802 808	quiste
-T13	ENFERMEDAD 833 855	adenopatías regionales
-T14	ENFERMEDAD 883 902	tumoración quística
+T1	ENFERMEDAD 53 62	depresión
+T2	ENFERMEDAD 1047 1065	formación quística
+T3	ENFERMEDAD 102 109	varices
+T4	ENFERMEDAD 516 527	hidatidosis
+T5	ENFERMEDAD 272 320	quiste de tipo mixto (sólido y líquido) en riñón
+T6	ENFERMEDAD 372 389	quiste hidatídico
+T7	ENFERMEDAD 1177 1198	nefroma multiquístico
+T8	ENFERMEDAD 802 808	quiste
+T9	ENFERMEDAD 833 855	adenopatías regionales
+T10	ENFERMEDAD 883 902	tumoración quística
+T11	PROCEDIMIENTO 560 572	TC abdominal
+T12	PROCEDIMIENTO 972 991	nefrectomía derecha
+T13	PROCEDIMIENTO 197 225	tratamiento médico con AINES
+T14	PROCEDIMIENTO 238 257	ecografía abdominal
+T15	PROCEDIMIENTO 994 1019	estudio anatomopatológico
+T16	PROCEDIMIENTO 503 527	serología de hidatidosis
+T17	PROCEDIMIENTO 469 491	pruebas de laboratorio
+T18	PROCEDIMIENTO 440 451	exploración
+T19	SINTOMA 161 170	lumbalgia
+T20	SINTOMA 503 546	serología de hidatidosis, resultan normales
+T21	SINTOMA 613 661	tumoración en región interpolar y polar superior
+T22	SINTOMA 883 893	tumoración

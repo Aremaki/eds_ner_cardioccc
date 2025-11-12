@@ -1,16 +1,22 @@
-T1	SINTOMA 323 368	cuerpos cavernosos aumentados de consistencia
-T2	SINTOMA 1119 1148	detumecencia peneana completa
-T3	SINTOMA 373 397	dolorosos a la palpación
-T4	SINTOMA 1151 1170	erecciones normales
-T5	SINTOMA 143 178	erecciones prolongadas no dolorosas
-T6	SINTOMA 410 425	pulsos anómalos
-T7	SINTOMA 427 458	Sensibilidad peneana conservada
-T8	SINTOMA 460 501	Testes móviles en ambas bolsas escrotales
-T9	SINTOMA 592 650	vascularización cavernosa derecha aparentemente conservada
-T10	SINTOMA 1189 1201	asintomático
-T11	ENFERMEDAD 39 54	hábitos tóxicos
-T12	ENFERMEDAD 223 251	traumatismo perineal cerrado
-T13	ENFERMEDAD 805 826	fístula arteriovenosa
-T14	ENFERMEDAD 828 831	FAV
-T15	ENFERMEDAD 887 910	Priapismo de alto flujo
-T16	ENFERMEDAD 992 995	FAV
+T1	ENFERMEDAD 39 54	hábitos tóxicos
+T2	ENFERMEDAD 223 251	traumatismo perineal cerrado
+T3	ENFERMEDAD 805 826	fístula arteriovenosa
+T4	ENFERMEDAD 828 831	FAV
+T5	ENFERMEDAD 887 910	Priapismo de alto flujo
+T6	ENFERMEDAD 992 995	FAV
+T7	PROCEDIMIENTO 936 977	Arteriografía pudenda con anestesia local
+T8	PROCEDIMIENTO 571 590	ecodoppler penenano
+T9	PROCEDIMIENTO 1008 1048	embolización de la misma mediante 2 coil
+T10	PROCEDIMIENTO 1064 1076	embolización
+T11	PROCEDIMIENTO 292 310	exploración física
+T12	PROCEDIMIENTO 388 397	palpación
+T13	SINTOMA 1189 1201	asintomático
+T14	SINTOMA 373 397	dolorosos a la palpación
+T15	SINTOMA 143 178	erecciones prolongadas no dolorosas
+T16	SINTOMA 323 368	cuerpos cavernosos aumentados de consistencia
+T17	SINTOMA 427 458	Sensibilidad peneana conservada
+T18	SINTOMA 460 501	Testes móviles en ambas bolsas escrotales
+T19	SINTOMA 1119 1148	detumecencia peneana completa
+T20	SINTOMA 1151 1170	erecciones normales
+T21	SINTOMA 410 425	pulsos anómalos
+T22	SINTOMA 592 650	vascularización cavernosa derecha aparentemente conservada

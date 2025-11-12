@@ -1,27 +1,44 @@
-T1	SINTOMA 346 369	dificultad respiratoria
-T2	SINTOMA 1726 1732	disnea
-T3	SINTOMA 315 338	expectoración purulenta
-T4	SINTOMA 1809 1820	falleciendo
-T5	SINTOMA 1866 1879	fallecimiento
-T6	SINTOMA 444 450	fiebre
-T7	SINTOMA 1735 1741	fiebre
-T8	SINTOMA 692 714	hepatomegalia dolorosa
-T9	SINTOMA 1713 1724	hipotensión
-T10	SINTOMA 590 601	sibilancias
-T11	SINTOMA 530 541	taquicardia
-T12	SINTOMA 307 310	tos
-T13	SINTOMA 553 588	alargamiento del tiempo espiratorio
-T14	SINTOMA 776 814	aumento de densidad en lóbulo inferior
-T15	SINTOMA 492 528	aumento de la presión venosa yugular
-T16	SINTOMA 2057 2080	bacilos Ziehl positivos
-T17	SINTOMA 461 490	cianosis central y periférica
-T18	SINTOMA 717 740	edemas en ambas piernas
-T19	SINTOMA 372 409	empeoramiento del nivel de conciencia
-T20	SINTOMA 1483 1521	flora habitual del tracto respiratorio
-T21	SINTOMA 1915 2007	hemocultivo como en el cultivo de esputo, ambos en medio especifico para micobacterias (MGIT
-T22	SINTOMA 2514 2539	Nocardia otitidiscaviarum
-T23	SINTOMA 604 650	roncus espiratorios en ambos campos pulmonares
-T24	ENFERMEDAD 18 43	alérgico a betalactámicos
-T25	ENFERMEDAD 75 98	EPOC corticodependiente
-T26	ENFERMEDAD 692 705	hepatomegalia
-T27	ENFERMEDAD 1713 1724	hipotensión
+T1	ENFERMEDAD 18 43	alérgico a betalactámicos
+T2	ENFERMEDAD 75 98	EPOC corticodependiente
+T3	ENFERMEDAD 692 705	hepatomegalia
+T4	ENFERMEDAD 1713 1724	hipotensión
+T5	PROCEDIMIENTO 1915 1926	hemocultivo
+T6	PROCEDIMIENTO 1938 1955	cultivo de esputo
+T7	PROCEDIMIENTO 155 175	oxigeno domiciliario
+T8	PROCEDIMIENTO 417 435	exploración física
+T9	PROCEDIMIENTO 745 765	radiografía de tórax
+T10	PROCEDIMIENTO 855 864	hemograma
+T11	PROCEDIMIENTO 985 995	gasometría
+T12	PROCEDIMIENTO 1067 1139	cultivos de sangre y esputo en medios generales (agar sangre y chocolate
+T13	PROCEDIMIENTO 1365 1382	cultivo de esputo
+T14	PROCEDIMIENTO 1759 1768	hemograma
+T15	PROCEDIMIENTO 1283 1319	tinciones de Gram y Ziehl del esputo
+T16	PROCEDIMIENTO 2403 2464	se amplificó por PCR la secuencia 16S rDNA del microorganismo
+T17	PROCEDIMIENTO 1164 1188	estudio de micobacterias
+T18	PROCEDIMIENTO 1246 1256	Lowenstein
+T19	PROCEDIMIENTO 2163 2173	Lowenstein
+T20	PROCEDIMIENTO 178 195	broncodilatadores
+T21	PROCEDIMIENTO 2013 2029	tinción de Ziehl
+T22	SINTOMA 315 338	expectoración purulenta
+T23	SINTOMA 346 369	dificultad respiratoria
+T24	SINTOMA 444 450	fiebre
+T25	SINTOMA 461 490	cianosis central y periférica
+T26	SINTOMA 492 528	aumento de la presión venosa yugular
+T27	SINTOMA 530 541	taquicardia
+T28	SINTOMA 553 588	alargamiento del tiempo espiratorio
+T29	SINTOMA 590 601	sibilancias
+T30	SINTOMA 604 650	roncus espiratorios en ambos campos pulmonares
+T31	SINTOMA 692 714	hepatomegalia dolorosa
+T32	SINTOMA 717 740	edemas en ambas piernas
+T33	SINTOMA 1726 1732	disnea
+T34	SINTOMA 1735 1741	fiebre
+T35	SINTOMA 307 310	tos
+T36	SINTOMA 1483 1521	flora habitual del tracto respiratorio
+T37	SINTOMA 2514 2539	Nocardia otitidiscaviarum
+T38	SINTOMA 1809 1820	falleciendo
+T39	SINTOMA 1866 1879	fallecimiento
+T40	SINTOMA 372 409	empeoramiento del nivel de conciencia
+T41	SINTOMA 776 814	aumento de densidad en lóbulo inferior
+T42	SINTOMA 1713 1724	hipotensión
+T43	SINTOMA 1915 2007	hemocultivo como en el cultivo de esputo, ambos en medio especifico para micobacterias (MGIT
+T44	SINTOMA 2057 2080	bacilos Ziehl positivos

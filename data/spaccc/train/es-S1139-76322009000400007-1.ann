@@ -1,14 +1,29 @@
-T1	SINTOMA 1548 1569	ASLO que fue negativo
-T2	SINTOMA 630 669	auscultación cardiorrespiratoria normal
-T3	SINTOMA 1530 1546	Mantoux negativo
-T4	SINTOMA 705 785	nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación
-T5	SINTOMA 1481 1528	radiografía de tórax, sin hallazgos patológicos
-T6	SINTOMA 1572 1627	serología virus de Epstein Barr (VEB), con IgG positiva
-T7	SINTOMA 1643 1665	test embarazo negativo
-T8	SINTOMA 543 549	fiebre
-T9	ENFERMEDAD 399 439	infección leve de vías aéreas superiores
-T10	ENFERMEDAD 1872 1910	eritema nodoso de etiología idiopática
-T11	ENFERMEDAD 169 234	lesiones eritematosas en la superficie pretibial de ambas piernas
-T12	ENFERMEDAD 675 683	lesiones
-T13	ENFERMEDAD 855 863	lesiones
-T14	ENFERMEDAD 1687 1695	lesiones
+T1	ENFERMEDAD 399 439	infección leve de vías aéreas superiores
+T2	ENFERMEDAD 1872 1910	eritema nodoso de etiología idiopática
+T3	ENFERMEDAD 169 234	lesiones eritematosas en la superficie pretibial de ambas piernas
+T4	ENFERMEDAD 675 683	lesiones
+T5	ENFERMEDAD 855 863	lesiones
+T6	ENFERMEDAD 1687 1695	lesiones
+T7	PROCEDIMIENTO 1063 1081	exploración física
+T8	PROCEDIMIENTO 926 935	analgesia
+T9	PROCEDIMIENTO 954 959	AINES
+T10	PROCEDIMIENTO 1734 1741	biopsia
+T11	PROCEDIMIENTO 630 662	auscultación cardiorrespiratoria
+T12	PROCEDIMIENTO 1026 1033	biopsia
+T13	PROCEDIMIENTO 1254 1288	función hepática, renal y tiroides
+T14	PROCEDIMIENTO 1481 1501	radiografía de tórax
+T15	PROCEDIMIENTO 1530 1537	Mantoux
+T16	PROCEDIMIENTO 1572 1603	serología virus de Epstein Barr
+T17	PROCEDIMIENTO 1290 1303	proteinograma
+T18	PROCEDIMIENTO 1228 1238	bioquímica
+T19	PROCEDIMIENTO 1190 1220	hematología, fórmula, recuento
+T20	PROCEDIMIENTO 509 527	exploración física
+T21	PROCEDIMIENTO 776 785	palpación
+T22	SINTOMA 543 549	fiebre
+T23	SINTOMA 1530 1546	Mantoux negativo
+T24	SINTOMA 630 669	auscultación cardiorrespiratoria normal
+T25	SINTOMA 705 785	nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación
+T26	SINTOMA 1481 1528	radiografía de tórax, sin hallazgos patológicos
+T27	SINTOMA 1548 1569	ASLO que fue negativo
+T28	SINTOMA 1572 1627	serología virus de Epstein Barr (VEB), con IgG positiva
+T29	SINTOMA 1643 1665	test embarazo negativo

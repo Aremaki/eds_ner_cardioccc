@@ -1,21 +1,33 @@
-T1	SINTOMA 281 315	afectación de funciones superiores
-T2	SINTOMA 975 1007	deterioró el nivel de conciencia
-T3	SINTOMA 318 337	labilidad emocional
-T4	SINTOMA 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
-T5	SINTOMA 1035 1043	síntomas
-T6	SINTOMA 206 240	imposibilidad para la deambulación
-T7	SINTOMA 843 851	cefaleas
-T8	SINTOMA 853 860	náuseas
-T9	SINTOMA 862 869	vómitos
-T10	SINTOMA 872 882	sudoración
-T11	SINTOMA 1303 1322	buen estado clínico
-T12	SINTOMA 243 265	incontinencia urinaria
-T13	ENFERMEDAD 56 73	diabetes mellitus
-T14	ENFERMEDAD 75 96	hipertensión arterial
-T15	ENFERMEDAD 243 265	incontinencia urinaria
-T16	ENFERMEDAD 381 410	hidrocefalia tetraventricular
-T17	ENFERMEDAD 432 435	HCA
-T18	ENFERMEDAD 928 952	hipotensión intracraneal
-T19	ENFERMEDAD 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
-T20	ENFERMEDAD 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
-T21	ENFERMEDAD 99 120	fibrilación auricular
+T1	ENFERMEDAD 56 73	diabetes mellitus
+T2	ENFERMEDAD 75 96	hipertensión arterial
+T3	ENFERMEDAD 243 265	incontinencia urinaria
+T4	ENFERMEDAD 381 410	hidrocefalia tetraventricular
+T5	ENFERMEDAD 432 435	HCA
+T6	ENFERMEDAD 928 952	hipotensión intracraneal
+T7	ENFERMEDAD 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
+T8	ENFERMEDAD 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
+T9	ENFERMEDAD 99 120	fibrilación auricular
+T10	PROCEDIMIENTO 1585 1635	fue implantada una derivación ventrículoperitoneal
+T11	PROCEDIMIENTO 121 134	anticoagulada
+T12	PROCEDIMIENTO 343 366	estudios de neuroimagen
+T13	PROCEDIMIENTO 452 494	colocación de un DLE como test diagnóstico
+T14	PROCEDIMIENTO 600 618	colocación del DLE
+T15	PROCEDIMIENTO 701 708	drenaje
+T16	PROCEDIMIENTO 782 809	haber drenado 240 ml de LCR
+T17	PROCEDIMIENTO 1059 1069	TC craneal
+T18	PROCEDIMIENTO 1415 1438	estudios de neuroimagen
+T19	PROCEDIMIENTO 1440 1442	RM
+T20	PROCEDIMIENTO 1445 1465	angiografía cerebral
+T21	PROCEDIMIENTO 1260 1276	DLE fue retirado
+T22	SINTOMA 1035 1043	síntomas
+T23	SINTOMA 206 240	imposibilidad para la deambulación
+T24	SINTOMA 281 315	afectación de funciones superiores
+T25	SINTOMA 318 337	labilidad emocional
+T26	SINTOMA 843 851	cefaleas
+T27	SINTOMA 853 860	náuseas
+T28	SINTOMA 862 869	vómitos
+T29	SINTOMA 872 882	sudoración
+T30	SINTOMA 975 1007	deterioró el nivel de conciencia
+T31	SINTOMA 1303 1322	buen estado clínico
+T32	SINTOMA 243 265	incontinencia urinaria
+T33	SINTOMA 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas

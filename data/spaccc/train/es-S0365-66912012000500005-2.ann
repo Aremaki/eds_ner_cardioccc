@@ -1,16 +1,27 @@
-T1	SINTOMA 1666 1707	disminución progresiva del grosor macular
-T2	SINTOMA 1156 1194	elevación de la banda EPR-coriocapilar
-T3	SINTOMA 809 833	escara gliótica en el OD
-T4	SINTOMA 843 874	OI, una imagen hipofluorescente
-T5	SINTOMA 423 509	OI, una imagen trirradiada pigmentada bordeada de zonas anaranjadas en el área macular
-T6	SINTOMA 32 65	pérdida de visión súbita en su OI
-T7	SINTOMA 1333 1395	retículo, que angiográficamente se presentaba hipofluorescente
-T8	ENFERMEDAD 351 384	OD, destacaba una lesión gliótica
-T9	ENFERMEDAD 167 170	PXE
-T10	ENFERMEDAD 619 644	hemorragias subretinianas
-T11	ENFERMEDAD 681 693	membrana NVC
-T12	ENFERMEDAD 712 731	distrofia retiniana
-T13	ENFERMEDAD 329 343	EA bilaterales
-T14	ENFERMEDAD 32 49	pérdida de visión
-T15	ENFERMEDAD 809 824	escara gliótica
-T16	ENFERMEDAD 1447 1465	alteración del EPR
+T1	ENFERMEDAD 351 384	OD, destacaba una lesión gliótica
+T2	ENFERMEDAD 167 170	PXE
+T3	ENFERMEDAD 619 644	hemorragias subretinianas
+T4	ENFERMEDAD 681 693	membrana NVC
+T5	ENFERMEDAD 712 731	distrofia retiniana
+T6	ENFERMEDAD 329 343	EA bilaterales
+T7	ENFERMEDAD 32 49	pérdida de visión
+T8	ENFERMEDAD 809 824	escara gliótica
+T9	ENFERMEDAD 1447 1465	alteración del EPR
+T10	PROCEDIMIENTO 294 312	exploración del FO
+T11	PROCEDIMIENTO 266 285	BMC de polo anterio
+T12	PROCEDIMIENTO 1636 1639	OCT
+T13	PROCEDIMIENTO 1713 1716	AFG
+T14	PROCEDIMIENTO 781 784	AFG
+T15	PROCEDIMIENTO 1086 1089	OCT
+T16	PROCEDIMIENTO 1200 1209	FA del OI
+T17	PROCEDIMIENTO 1403 1405	FA
+T18	PROCEDIMIENTO 1347 1364	angiográficamente
+T19	PROCEDIMIENTO 253 256	PIO
+T20	SINTOMA 32 65	pérdida de visión súbita en su OI
+T21	SINTOMA 423 509	OI, una imagen trirradiada pigmentada bordeada de zonas anaranjadas en el área macular
+T22	SINTOMA 1666 1707	disminución progresiva del grosor macular
+T23	SINTOMA 809 833	escara gliótica en el OD
+T24	SINTOMA 843 874	OI, una imagen hipofluorescente
+T25	SINTOMA 1156 1194	elevación de la banda EPR-coriocapilar
+T26	SINTOMA 1418 1439	intensamente hiper-FA
+T27	SINTOMA 1333 1395	retículo, que angiográficamente se presentaba hipofluorescente

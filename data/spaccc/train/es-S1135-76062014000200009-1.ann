@@ -1,14 +1,20 @@
-T1	SINTOMA 1028 1077	engrosamiento de las valvas de la válvula aórtica
-T2	SINTOMA 632 648	Normoconstituido
-T3	SINTOMA 184 196	inconsciente
-T4	SINTOMA 29 52	fallece de forma súbita
-T5	SINTOMA 117 123	muerte
-T6	SINTOMA 421 431	fallecidos
-T7	ENFERMEDAD 342 354	valvulopatía
-T8	ENFERMEDAD 436 454	patología cardíaca
-T9	ENFERMEDAD 738 751	cardiomegalia
-T10	ENFERMEDAD 781 829	hipertrofia concéntrica del ventrículo izquierdo
-T11	ENFERMEDAD 917 931	edema pulmonar
-T12	ENFERMEDAD 1264 1289	válvula aórtica bicúspide
-T13	ENFERMEDAD 1397 1414	estenosis aórtica
-T14	ENFERMEDAD 1028 1077	engrosamiento de las valvas de la válvula aórtica
+T1	ENFERMEDAD 342 354	valvulopatía
+T2	ENFERMEDAD 436 454	patología cardíaca
+T3	ENFERMEDAD 738 751	cardiomegalia
+T4	ENFERMEDAD 781 829	hipertrofia concéntrica del ventrículo izquierdo
+T5	ENFERMEDAD 917 931	edema pulmonar
+T6	ENFERMEDAD 1264 1289	válvula aórtica bicúspide
+T7	ENFERMEDAD 1397 1414	estenosis aórtica
+T8	ENFERMEDAD 1028 1077	engrosamiento de las valvas de la válvula aórtica
+T9	PROCEDIMIENTO 573 581	autopsia
+T10	PROCEDIMIENTO 604 630	reanimacion cardiopulmonar
+T11	PROCEDIMIENTO 241 285	reanimación cardiopulmonar básica y avanzada
+T12	PROCEDIMIENTO 987 1016	estudio macroscópico cardíaco
+T13	PROCEDIMIENTO 537 551	examen externo
+T14	PROCEDIMIENTO 715 729	examen interno
+T15	SINTOMA 1028 1077	engrosamiento de las valvas de la válvula aórtica
+T16	SINTOMA 632 648	Normoconstituido
+T17	SINTOMA 184 196	inconsciente
+T18	SINTOMA 29 52	fallece de forma súbita
+T19	SINTOMA 117 123	muerte
+T20	SINTOMA 421 431	fallecidos

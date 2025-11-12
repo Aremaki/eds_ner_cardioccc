@@ -1,34 +1,34 @@
-T1	SINTOMA 468 483	dolor abdominal
-T2	SINTOMA 502 508	fiebre
-T3	SINTOMA 1015 1070	aspecto mucoso en empedrado en recto y colon transverso
-T4	SINTOMA 829 868	aumento de los reactantes de fase aguda
-T5	SINTOMA 603 613	caquéctico
-T6	SINTOMA 255 298	cultivo positivo para Staphylococcus aureus
-T7	SINTOMA 441 465	pérdida de 25 kg de peso
-T8	SINTOMA 634 711	región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales
-T9	ENFERMEDAD 78 137	lesiones nodulares glúteas dolorosas, con drenaje purulento
-T10	ENFERMEDAD 177 217	foliculitis quística profunda supurativa
-T11	ENFERMEDAD 234 249	acné conglobata
-T12	ENFERMEDAD 634 756	región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales entre ellas, que drenaban material purulento
-T13	ENFERMEDAD 788 812	anemia ferropénica grave
-T14	ENFERMEDAD 987 1071	pseudopólipos, úlceras y un aspecto mucoso en empedrado en recto y colon transverso,
-T15	ENFERMEDAD 1046 1105	recto y colon transverso, así como dos orificios fistulosos
-T16	ENFERMEDAD 1141 1200	enfermedad inflamatoria intestinal tipo enfermedad de Crohn
-T17	ENFERMEDAD 1202 1204	EC
-T18	ENFERMEDAD 1243 1299	fístula perianal izquierda con extensión a raíz de muslo
-T19	ENFERMEDAD 1539 1554	acné conglobata
-T20	ENFERMEDAD 1588 1590	EC
-T21	ENFERMEDAD 1596 1615	enfermedad perianal
-T22	ENFERMEDAD 1617 1620	EPA
-T23	ENFERMEDAD 1472 1489	lesiones cutáneas
-T24	ENFERMEDAD 889 901	malnutrición
-T25	ENFERMEDAD 1723 1731	lesiones
-T26	PROCEDIMIENTO 1110 1133	diagnóstico histológico
-T27	PROCEDIMIENTO 1214 1225	RMN pélvica
-T28	PROCEDIMIENTO 1336 1346	esteroides
-T29	PROCEDIMIENTO 1369 1381	antibióticos
-T30	PROCEDIMIENTO 157 173	histológicamente
-T31	PROCEDIMIENTO 255 262	cultivo
-T32	PROCEDIMIENTO 577 595	exploración física
-T33	PROCEDIMIENTO 764 773	analítica
-T34	PROCEDIMIENTO 963 975	colonoscopia
+T1	ENFERMEDAD 78 137	lesiones nodulares glúteas dolorosas, con drenaje purulento
+T2	ENFERMEDAD 177 217	foliculitis quística profunda supurativa
+T3	ENFERMEDAD 234 249	acné conglobata
+T4	ENFERMEDAD 634 756	región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales entre ellas, que drenaban material purulento
+T5	ENFERMEDAD 788 812	anemia ferropénica grave
+T6	ENFERMEDAD 987 1071	pseudopólipos, úlceras y un aspecto mucoso en empedrado en recto y colon transverso,
+T7	ENFERMEDAD 1046 1105	recto y colon transverso, así como dos orificios fistulosos
+T8	ENFERMEDAD 1141 1200	enfermedad inflamatoria intestinal tipo enfermedad de Crohn
+T9	ENFERMEDAD 1202 1204	EC
+T10	ENFERMEDAD 1243 1299	fístula perianal izquierda con extensión a raíz de muslo
+T11	ENFERMEDAD 1539 1554	acné conglobata
+T12	ENFERMEDAD 1588 1590	EC
+T13	ENFERMEDAD 1596 1615	enfermedad perianal
+T14	ENFERMEDAD 1617 1620	EPA
+T15	ENFERMEDAD 1472 1489	lesiones cutáneas
+T16	ENFERMEDAD 889 901	malnutrición
+T17	ENFERMEDAD 1723 1731	lesiones
+T18	PROCEDIMIENTO 577 595	exploración física
+T19	PROCEDIMIENTO 963 975	colonoscopia
+T20	PROCEDIMIENTO 1214 1225	RMN pélvica
+T21	PROCEDIMIENTO 1336 1346	esteroides
+T22	PROCEDIMIENTO 1369 1381	antibióticos
+T23	PROCEDIMIENTO 255 262	cultivo
+T24	PROCEDIMIENTO 764 773	analítica
+T25	PROCEDIMIENTO 1110 1133	diagnóstico histológico
+T26	PROCEDIMIENTO 157 173	histológicamente
+T27	SINTOMA 468 483	dolor abdominal
+T28	SINTOMA 502 508	fiebre
+T29	SINTOMA 603 613	caquéctico
+T30	SINTOMA 829 868	aumento de los reactantes de fase aguda
+T31	SINTOMA 255 298	cultivo positivo para Staphylococcus aureus
+T32	SINTOMA 441 465	pérdida de 25 kg de peso
+T33	SINTOMA 634 711	región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales
+T34	SINTOMA 1015 1070	aspecto mucoso en empedrado en recto y colon transverso

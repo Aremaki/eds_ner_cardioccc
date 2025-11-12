@@ -1,19 +1,69 @@
-T1	SINTOMA 1980 2010	alteraciones de la coagulación
-T2	SINTOMA 1863 1869	anuria
-T3	SINTOMA 1691 1697	anuria
-T4	SINTOMA 1703 1731	aumento de urea y creatinina
-T5	SINTOMA 1874 1912	cifras en ascenso de urea y creatinina
-T6	SINTOMA 1081 1098	cuadro vegetativo
-T7	SINTOMA 2053 2070	deterioro clínico
-T8	SINTOMA 279 298	diuresis conservada
-T9	SINTOMA 951 969	diuresis mantenida
-T10	SINTOMA 1009 1043	dolor intenso súbito en fosa renal
-T11	SINTOMA 1149 1184	dolor torácico, irradiado a espalda
-T12	SINTOMA 1222 1255	elevación de marcadores cardíacos
-T13	SINTOMA 920 945	estable hemodinámicamente
-T14	SINTOMA 2614 2620	éxitus
-T15	SINTOMA 1605 1632	inestable hemodinámicamente
-T16	SINTOMA 2585 2594	monorrena
-T17	SINTOMA 1101 1112	oligoanuria
-T18	SINTOMA 149 178	riñón izquierdo con estenosis
-T19	SINTOMA 2028 2043	sangrado activo
+T1	ENFERMEDAD 51 54	HTA
+T2	ENFERMEDAD 56 75	hipercolesterolemia
+T3	ENFERMEDAD 77 88	disglucosis
+T4	ENFERMEDAD 90 98	obesidad
+T5	ENFERMEDAD 100 124	síndrome coronario agudo
+T6	ENFERMEDAD 143 154	único riñón
+T7	ENFERMEDAD 183 274	enfermedad renal crónica en estadio 3 (Guías K/DOQUI) secundaria a una nefropatía isquémica
+T8	ENFERMEDAD 254 274	nefropatía isquémica
+T9	ENFERMEDAD 331 368	estenosis crítica de la arteria renal
+T10	ENFERMEDAD 1297 1318	cardiopatía isquémica
+T11	ENFERMEDAD 1344 1363	trombosis del stent
+T12	ENFERMEDAD 1431 1460	trombosis de la arteria renal
+T13	ENFERMEDAD 1510 1529	migración del stent
+T14	ENFERMEDAD 2075 2101	insuficiencia respiratoria
+T15	ENFERMEDAD 2211 2235	hematoma retroperitoneal
+T16	ENFERMEDAD 2366 2410	síndrome de respuesta inflamatoria sistémica
+T17	ENFERMEDAD 2413 2440	insuficiencia renal anúrica
+T18	ENFERMEDAD 2474 2541	fallo multiorgánico secundario a complicaciones de cirugía vascular
+T19	ENFERMEDAD 2558 2572	isquemia renal
+T20	ENFERMEDAD 2659 2664	shock
+T21	ENFERMEDAD 2313 2331	shock distributivo
+T22	ENFERMEDAD 381 393	hipertensión
+T23	ENFERMEDAD 1068 1079	hipotensión
+T24	PROCEDIMIENTO 420 467	tratamiento farmacológico con quíntuple terapia
+T25	PROCEDIMIENTO 765 814	colocación de un stent en arteria renal izquierda
+T26	PROCEDIMIENTO 820 843	anestesia locorregional
+T27	PROCEDIMIENTO 1200 1218	electrocardiograma
+T28	PROCEDIMIENTO 1376 1415	vía femoral izquierda una arteriografía
+T29	PROCEDIMIENTO 1476 1487	trombolisis
+T30	PROCEDIMIENTO 1665 1686	transfusión sanguínea
+T31	PROCEDIMIENTO 1744 1777	se implanta catéter para diálisis
+T32	PROCEDIMIENTO 1802 1822	fármacos vasoactivos
+T33	PROCEDIMIENTO 1841 1858	hemodiafiltración
+T34	PROCEDIMIENTO 1915 1930	ecocardiografía
+T35	PROCEDIMIENTO 2117 2137	ventilación mecánica
+T36	PROCEDIMIENTO 2142 2182	tomografía axial computarizada abdominal
+T37	PROCEDIMIENTO 2250 2261	laparotomía
+T38	PROCEDIMIENTO 1644 1662	drogas vasoactivas
+T39	PROCEDIMIENTO 2346 2364	drogas vasoactivas
+T40	PROCEDIMIENTO 469 523	inhibidores de la enzima conversora de la angiotensina
+T41	PROCEDIMIENTO 525 540	betabloqueantes
+T42	PROCEDIMIENTO 542 560	calcioantagonistas
+T43	PROCEDIMIENTO 562 572	diuréticos
+T44	PROCEDIMIENTO 575 590	alfabloqueantes
+T45	PROCEDIMIENTO 848 894	monitorización continua de la presión arterial
+T46	PROCEDIMIENTO 309 326	angiográficamente
+T47	PROCEDIMIENTO 1235 1255	marcadores cardíacos
+T48	PROCEDIMIENTO 1524 1555	stent, que se intenta recolocar
+T49	PROCEDIMIENTO 907 914	cirugía
+T50	PROCEDIMIENTO 2525 2541	cirugía vascular
+T51	SINTOMA 149 178	riñón izquierdo con estenosis
+T52	SINTOMA 1009 1043	dolor intenso súbito en fosa renal
+T53	SINTOMA 1081 1098	cuadro vegetativo
+T54	SINTOMA 1101 1112	oligoanuria
+T55	SINTOMA 1149 1184	dolor torácico, irradiado a espalda
+T56	SINTOMA 1222 1255	elevación de marcadores cardíacos
+T57	SINTOMA 1605 1632	inestable hemodinámicamente
+T58	SINTOMA 1691 1697	anuria
+T59	SINTOMA 1703 1731	aumento de urea y creatinina
+T60	SINTOMA 1863 1869	anuria
+T61	SINTOMA 1980 2010	alteraciones de la coagulación
+T62	SINTOMA 2585 2594	monorrena
+T63	SINTOMA 2028 2043	sangrado activo
+T64	SINTOMA 279 298	diuresis conservada
+T65	SINTOMA 920 945	estable hemodinámicamente
+T66	SINTOMA 951 969	diuresis mantenida
+T67	SINTOMA 1874 1912	cifras en ascenso de urea y creatinina
+T68	SINTOMA 2614 2620	éxitus
+T69	SINTOMA 2053 2070	deterioro clínico

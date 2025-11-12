@@ -1,61 +1,91 @@
-T1	SINTOMA 340 348	coágulos
-T2	SINTOMA 4276 4287	colecciones
-T3	SINTOMA 4692 4713	estómago de retención
-T4	SINTOMA 5298 5309	falleciendo
-T5	SINTOMA 234 250	hematuria franca
-T6	SINTOMA 2064 2086	hematuria macroscópica
-T7	SINTOMA 4471 4478	pirosis
-T8	SINTOMA 357 386	síndrome miccional irritativo
-T9	SINTOMA 1782 1803	atrapamiento ureteral
-T10	SINTOMA 731 785	aumento de consistencia prostática y del suelo vesical
-T11	SINTOMA 4435 4458	distensión postprandial
-T12	SINTOMA 1709 1737	dolor en ambas fosas renales
-T13	SINTOMA 2528 2559	engrosamiento del suelo vesical
-T14	SINTOMA 4366 4420	epigastralgia con irradiación hacia ambos hipocondrios
-T15	SINTOMA 620 644	función renal era normal
-T16	SINTOMA 2251 2279	induración del suelo vesical
-T17	SINTOMA 4521 4562	masa a nivel de hipocondrio-vacío derecho
-T18	SINTOMA 4045 4101	molestias en hemiabdomen derecho que irradiaba a espalda
-T19	SINTOMA 1680 1695	perdida de peso
-T20	SINTOMA 4182 4212	reservorio con buena capacidad
-T21	SINTOMA 1644 1674	síndrome constitucional severo
-T22	SINTOMA 3323 3329	T4N2M0
-T23	SINTOMA 519 557	tumoración a nivel del trígono vesical
-T24	SINTOMA 2137 2172	tumoración sésil en la base vesical
-T25	SINTOMA 399 436	urinocultivos repetidamente negativos
-T26	PROCEDIMIENTO 1093 1110	anatomopatológico
-T27	PROCEDIMIENTO 1480 1498	anatomopatológicos
-T28	PROCEDIMIENTO 1521 1542	estudios de extensión
-T29	PROCEDIMIENTO 1571 1582	cistectomía
-T30	PROCEDIMIENTO 1606 1615	resección
-T31	PROCEDIMIENTO 1905 1960	derivación urinaria urgente tipo nefrostomía percutánea
-T32	PROCEDIMIENTO 1938 1960	nefrostomía percutánea
-T33	PROCEDIMIENTO 2103 2114	cistoscopia
-T34	PROCEDIMIENTO 2221 2235	tacto bimanual
-T35	PROCEDIMIENTO 2349 2369	estudio de extensión
-T36	PROCEDIMIENTO 2379 2397	Rx simple de tórax
-T37	PROCEDIMIENTO 2399 2419	TAC abdomino-pélvico
-T38	PROCEDIMIENTO 2422 2434	rastreo oseo
-T39	PROCEDIMIENTO 2670 2736	cistoprostatectomía radical con reservorio continente tipo Indiana
-T40	PROCEDIMIENTO 2765 2793	liberación del suelo vesical
-T41	PROCEDIMIENTO 2872 2889	anatomopatológico
-T42	PROCEDIMIENTO 2968 2997	tinciones inmunohistoquímicas
-T43	PROCEDIMIENTO 3616 3646	Quimio-Radio-terapia adyuvante
-T44	PROCEDIMIENTO 3663 3692	esquema de quimioterapia CDDP
-T45	PROCEDIMIENTO 3697 3735	radioterapia concomitante sobre pelvis
-T46	PROCEDIMIENTO 3986 4012	administración de la QT/RT
-T47	PROCEDIMIENTO 399 412	urinocultivos
-T48	PROCEDIMIENTO 4135 4155	TAC abdomino-pélvica
-T49	PROCEDIMIENTO 4485 4503	exploración física
-T50	PROCEDIMIENTO 4595 4604	ecografía
-T51	PROCEDIMIENTO 463 472	ecografía
-T52	PROCEDIMIENTO 4665 4677	gastroscopia
-T53	PROCEDIMIENTO 475 496	urografía intravenosa
-T54	PROCEDIMIENTO 4887 4899	radioterapia
+T1	ENFERMEDAD 810 832	tumor vesical primario
+T2	ENFERMEDAD 3547 3558	adenopatías
+T3	ENFERMEDAD 2780 2857	suelo vesical resultó dificultosa dada la infiltración del mismo por el tumor
+T4	ENFERMEDAD 971 988	neoplasia vesical
+T5	ENFERMEDAD 2918 2962	carcinoma indiferenciado de células pequeñas
+T6	ENFERMEDAD 4222 4251	dilatación de la pelvis renal
+T7	ENFERMEDAD 1782 1803	atrapamiento ureteral
+T8	ENFERMEDAD 1806 1837	insuficiencia renal obstructiva
+T9	ENFERMEDAD 4692 4713	estómago de retención
+T10	ENFERMEDAD 4722 4747	estenosis píloro-duodenal
+T11	ENFERMEDAD 3098 3120	carcinoma transicional
+T12	ENFERMEDAD 1267 1289	carcinoma transicional
+T13	ENFERMEDAD 3125 3303	tumor afectaba todo el espesor de la pared vesical, grasa perivesical y periureteral derecha, pared rectal, próstata, vesículas seminales y 2 de los 8 ganglios de la iliaca común
+T14	ENFERMEDAD 589 615	ectasia ureteral izquierda
+T15	ENFERMEDAD 2064 2086	hematuria macroscópica
+T16	ENFERMEDAD 2137 2216	tumoración sésil en la base vesical con infiltración de ambos meatos ureterales
+T17	ENFERMEDAD 5013 5154	recidiva tumoral en flanco derecho, invasión del duodeno por el tumor e implantes neoplásicos múltiples en epiplon, peritoneo y demás serosas
+T18	ENFERMEDAD 2467 2489	enfermedad metastásica
+T19	ENFERMEDAD 2565 2605	ectasia urétero-pielo-calicial bilateral
+T20	ENFERMEDAD 2620 2631	adenopatías
+T21	ENFERMEDAD 4807 4831	infiltración metastásica
+T22	ENFERMEDAD 73 89	hábito tabáquico
+T23	ENFERMEDAD 4301 4317	recidiva tumoral
+T24	ENFERMEDAD 4617 4633	recidiva tumoral
+T25	ENFERMEDAD 3573 3580	tumores
+T26	ENFERMEDAD 1742 1765	hidronefrosis bilateral
+T27	ENFERMEDAD 1142 1151	neoplasia
+T28	ENFERMEDAD 1438 1443	tumor
+T29	ENFERMEDAD 1342 1347	tumor
+T30	PROCEDIMIENTO 885 907	resección transuretral
+T31	PROCEDIMIENTO 2670 2736	cistoprostatectomía radical con reservorio continente tipo Indiana
+T32	PROCEDIMIENTO 3986 4012	administración de la QT/RT
+T33	PROCEDIMIENTO 912 939	cistoscopia intraoperatoria
+T34	PROCEDIMIENTO 1571 1582	cistectomía
+T35	PROCEDIMIENTO 2765 2793	liberación del suelo vesical
+T36	PROCEDIMIENTO 4485 4503	exploración física
+T37	PROCEDIMIENTO 3616 3646	Quimio-Radio-terapia adyuvante
+T38	PROCEDIMIENTO 4135 4155	TAC abdomino-pélvica
+T39	PROCEDIMIENTO 3697 3735	radioterapia concomitante sobre pelvis
+T40	PROCEDIMIENTO 4595 4604	ecografía
+T41	PROCEDIMIENTO 4665 4677	gastroscopia
+T42	PROCEDIMIENTO 399 412	urinocultivos
+T43	PROCEDIMIENTO 1905 1960	derivación urinaria urgente tipo nefrostomía percutánea
+T44	PROCEDIMIENTO 463 472	ecografía
+T45	PROCEDIMIENTO 475 496	urografía intravenosa
+T46	PROCEDIMIENTO 1938 1960	nefrostomía percutánea
+T47	PROCEDIMIENTO 2103 2114	cistoscopia
+T48	PROCEDIMIENTO 700 712	tacto rectal
+T49	PROCEDIMIENTO 5179 5197	gastroyeyunostomía
+T50	PROCEDIMIENTO 2379 2397	Rx simple de tórax
+T51	PROCEDIMIENTO 2399 2419	TAC abdomino-pélvico
+T52	PROCEDIMIENTO 2422 2434	rastreo oseo
+T53	PROCEDIMIENTO 5343 5354	cistectomía
+T54	PROCEDIMIENTO 2349 2369	estudio de extensión
 T55	PROCEDIMIENTO 4933 4956	intervención quirúrgica
-T56	PROCEDIMIENTO 5179 5197	gastroyeyunostomía
-T57	PROCEDIMIENTO 5277 5296	cuidados paliativos
-T58	PROCEDIMIENTO 5343 5354	cistectomía
-T59	PROCEDIMIENTO 700 712	tacto rectal
-T60	PROCEDIMIENTO 885 907	resección transuretral
-T61	PROCEDIMIENTO 912 939	cistoscopia intraoperatoria
+T56	PROCEDIMIENTO 2872 2889	anatomopatológico
+T57	PROCEDIMIENTO 1093 1110	anatomopatológico
+T58	PROCEDIMIENTO 4887 4899	radioterapia
+T59	PROCEDIMIENTO 3663 3692	esquema de quimioterapia CDDP
+T60	PROCEDIMIENTO 3688 3692	CDDP
+T61	PROCEDIMIENTO 1480 1498	anatomopatológicos
+T62	PROCEDIMIENTO 1521 1542	estudios de extensión
+T63	PROCEDIMIENTO 1606 1615	resección
+T64	PROCEDIMIENTO 2221 2235	tacto bimanual
+T65	PROCEDIMIENTO 2968 2997	tinciones inmunohistoquímicas
+T66	PROCEDIMIENTO 5277 5296	cuidados paliativos
+T67	SINTOMA 4366 4420	epigastralgia con irradiación hacia ambos hipocondrios
+T68	SINTOMA 4435 4458	distensión postprandial
+T69	SINTOMA 4471 4478	pirosis
+T70	SINTOMA 4521 4562	masa a nivel de hipocondrio-vacío derecho
+T71	SINTOMA 1680 1695	perdida de peso
+T72	SINTOMA 1709 1737	dolor en ambas fosas renales
+T73	SINTOMA 399 436	urinocultivos repetidamente negativos
+T74	SINTOMA 620 644	función renal era normal
+T75	SINTOMA 3323 3329	T4N2M0
+T76	SINTOMA 2251 2279	induración del suelo vesical
+T77	SINTOMA 234 250	hematuria franca
+T78	SINTOMA 1644 1674	síndrome constitucional severo
+T79	SINTOMA 5298 5309	falleciendo
+T80	SINTOMA 4276 4287	colecciones
+T81	SINTOMA 357 386	síndrome miccional irritativo
+T82	SINTOMA 519 557	tumoración a nivel del trígono vesical
+T83	SINTOMA 731 785	aumento de consistencia prostática y del suelo vesical
+T84	SINTOMA 1782 1803	atrapamiento ureteral
+T85	SINTOMA 2064 2086	hematuria macroscópica
+T86	SINTOMA 2137 2172	tumoración sésil en la base vesical
+T87	SINTOMA 2528 2559	engrosamiento del suelo vesical
+T88	SINTOMA 340 348	coágulos
+T89	SINTOMA 4182 4212	reservorio con buena capacidad
+T90	SINTOMA 4045 4101	molestias en hemiabdomen derecho que irradiaba a espalda
+T91	SINTOMA 4692 4713	estómago de retención

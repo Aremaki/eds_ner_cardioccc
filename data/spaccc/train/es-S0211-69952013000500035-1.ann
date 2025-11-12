@@ -1,27 +1,44 @@
-T1	SINTOMA 124 132	anorexia
-T2	SINTOMA 115 122	astenia
-T3	SINTOMA 688 695	diarrea
-T4	SINTOMA 1194 1201	diarrea
-T5	SINTOMA 1483 1495	masa tumoral
-T6	SINTOMA 933 944	Proteinuria
-T7	SINTOMA 184 241	cambios inflamatorios inespecíficos de la mucosa colónica
-T8	SINTOMA 652 685	edemas en los miembros inferiores
-T9	SINTOMA 1002 1029	mala situación del paciente
-T10	SINTOMA 89 113	pérdida de 17 kg de peso
-T11	ENFERMEDAD 135 141	anemia
-T12	ENFERMEDAD 1959 1963	GIST
-T13	ENFERMEDAD 1987 2014	insuficiencia renal crónica
-T14	ENFERMEDAD 2028 2042	amiloidosis AA
-T15	ENFERMEDAD 277 295	neoplasia gástrica
-T16	ENFERMEDAD 298 316	gastropatía antral
-T17	ENFERMEDAD 446 450	GIST
-T18	ENFERMEDAD 1078 1089	amiloidosis
-T19	ENFERMEDAD 1724 1743	GIST de alto riesgo
-T20	ENFERMEDAD 525 549	depósitos de amiloide AA
-T21	ENFERMEDAD 1170 1188	síndrome nefrótico
-T22	ENFERMEDAD 1215 1235	amiloidosis cardíaca
-T23	ENFERMEDAD 1987 2042	insuficiencia renal crónica secundaria a amiloidosis AA
-T24	ENFERMEDAD 390 414	proliferación neoplásica
-T25	ENFERMEDAD 593 598	tumor
-T26	ENFERMEDAD 1618 1673	afectación del estómago y el ángulo esplénico del colon
-T27	ENFERMEDAD 1483 1495	masa tumoral
+T1	ENFERMEDAD 135 141	anemia
+T2	ENFERMEDAD 1959 1963	GIST
+T3	ENFERMEDAD 1987 2014	insuficiencia renal crónica
+T4	ENFERMEDAD 2028 2042	amiloidosis AA
+T5	ENFERMEDAD 277 295	neoplasia gástrica
+T6	ENFERMEDAD 298 316	gastropatía antral
+T7	ENFERMEDAD 446 450	GIST
+T8	ENFERMEDAD 1078 1089	amiloidosis
+T9	ENFERMEDAD 1724 1743	GIST de alto riesgo
+T10	ENFERMEDAD 525 549	depósitos de amiloide AA
+T11	ENFERMEDAD 1170 1188	síndrome nefrótico
+T12	ENFERMEDAD 1215 1235	amiloidosis cardíaca
+T13	ENFERMEDAD 1987 2042	insuficiencia renal crónica secundaria a amiloidosis AA
+T14	ENFERMEDAD 390 414	proliferación neoplásica
+T15	ENFERMEDAD 593 598	tumor
+T16	ENFERMEDAD 1618 1673	afectación del estómago y el ángulo esplénico del colon
+T17	ENFERMEDAD 1483 1495	masa tumoral
+T18	PROCEDIMIENTO 1271 1339	tratamiento con un inhibidor selectivo de la tirosina cinasa de cKit
+T19	PROCEDIMIENTO 1889 1911	hemodiálisis periódica
+T20	PROCEDIMIENTO 158 170	colonoscopia
+T21	PROCEDIMIENTO 248 260	gastroscopia
+T22	PROCEDIMIENTO 1514 1575	tomografía por emisión de positrones/tomografía computarizada
+T23	PROCEDIMIENTO 343 376	histología de la biopsia gástrica
+T24	PROCEDIMIENTO 1045 1058	biopsia renal
+T25	PROCEDIMIENTO 457 475	inmunohistoquímica
+T26	PROCEDIMIENTO 1119 1146	biopsias gastrointestinales
+T27	PROCEDIMIENTO 557 622	biopsias de la mucosa gástrica, del tumor y de la mucosa colónica
+T28	PROCEDIMIENTO 1245 1259	ecocardiograma
+T29	PROCEDIMIENTO 322 338	toma de biopsias
+T30	PROCEDIMIENTO 1422 1444	extirpación quirúrgica
+T31	PROCEDIMIENTO 1633 1684	estómago y el ángulo esplénico del colon extirpados
+T32	PROCEDIMIENTO 1583 1602	anatomía patológica
+T33	PROCEDIMIENTO 960 969	sedimento
+T34	PROCEDIMIENTO 703 712	analítica
+T35	SINTOMA 652 685	edemas en los miembros inferiores
+T36	SINTOMA 688 695	diarrea
+T37	SINTOMA 89 113	pérdida de 17 kg de peso
+T38	SINTOMA 115 122	astenia
+T39	SINTOMA 184 241	cambios inflamatorios inespecíficos de la mucosa colónica
+T40	SINTOMA 933 944	Proteinuria
+T41	SINTOMA 1194 1201	diarrea
+T42	SINTOMA 124 132	anorexia
+T43	SINTOMA 1002 1029	mala situación del paciente
+T44	SINTOMA 1483 1495	masa tumoral

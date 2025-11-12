@@ -1,32 +1,51 @@
-T1	SINTOMA 814 853	Abdomen blando, depresible, no doloroso
-T2	SINTOMA 480 516	aumento de las enzimas de colestasis
-T3	SINTOMA 778 812	Auscultación cardiopulmonar normal
-T4	SINTOMA 733 752	Buen estado general
-T5	SINTOMA 1382 1424	Calibre y permeabilidad de la porta normal
-T6	SINTOMA 1938 1958	colestasis disociada
-T7	SINTOMA 878 918	Extremidades inferiores sin alteraciones
-T8	SINTOMA 982 1012	Hemograma y coagulación normal
-T9	SINTOMA 1480 1518	Hígado aumentado difusamente de tamaño
-T10	SINTOMA 1213 1251	Hígado aumentado difusamente de tamaño
-T11	SINTOMA 2270 2291	PAS diastasa positivo
-T12	SINTOMA 1103 1143	Perfil férrico y autoinmunidad negativos
-T13	SINTOMA 1145 1190	Serologías virus de hepatitis B y C negativas
-T14	SINTOMA 1054 1076	Transaminasas normales
-T15	SINTOMA 754 764	Consciente
-T16	SINTOMA 434 446	asintomático
-T17	SINTOMA 767 776	orientado
-T18	SINTOMA 947 957	colestasis
-T19	SINTOMA 2226 2236	colestasis
-T20	SINTOMA 858 863	masas
-T21	SINTOMA 868 876	megalias
-T22	ENFERMEDAD 1828 1868	esófago se observan 3 cordones varicosos
-T23	ENFERMEDAD 2844 2863	hipertensión portal
-T24	ENFERMEDAD 74 99	enfermedad de Crohn ileal
-T25	ENFERMEDAD 2922 2940	varices esofágicas
-T26	ENFERMEDAD 1361 1380	Leve esplenomegalia
-T27	ENFERMEDAD 1165 1180	hepatitis B y C
-T28	ENFERMEDAD 230 248	corticodependencia
-T29	ENFERMEDAD 1732 1751	Leve esplenomegalia
-T30	ENFERMEDAD 2240 2253	hemosiderosis
-T31	ENFERMEDAD 1337 1345	lesiones
-T32	ENFERMEDAD 1708 1716	lesiones
+T1	ENFERMEDAD 1828 1868	esófago se observan 3 cordones varicosos
+T2	ENFERMEDAD 2844 2863	hipertensión portal
+T3	ENFERMEDAD 74 99	enfermedad de Crohn ileal
+T4	ENFERMEDAD 2922 2940	varices esofágicas
+T5	ENFERMEDAD 1361 1380	Leve esplenomegalia
+T6	ENFERMEDAD 1165 1180	hepatitis B y C
+T7	ENFERMEDAD 230 248	corticodependencia
+T8	ENFERMEDAD 1732 1751	Leve esplenomegalia
+T9	ENFERMEDAD 2240 2253	hemosiderosis
+T10	ENFERMEDAD 1337 1345	lesiones
+T11	ENFERMEDAD 1708 1716	lesiones
+T12	PROCEDIMIENTO 1792 1804	Gastroscopia
+T13	PROCEDIMIENTO 1465 1478	RMN abdominal
+T14	PROCEDIMIENTO 618 636	Exploración física
+T15	PROCEDIMIENTO 1192 1211	Ecografía abdominal
+T16	PROCEDIMIENTO 982 991	Hemograma
+T17	PROCEDIMIENTO 2024 2040	biopsia hepática
+T18	PROCEDIMIENTO 778 805	Auscultación cardiopulmonar
+T19	PROCEDIMIENTO 1145 1180	Serologías virus de hepatitis B y C
+T20	PROCEDIMIENTO 1037 1052	Perfil hepático
+T21	PROCEDIMIENTO 994 1005	coagulación
+T22	PROCEDIMIENTO 2699 2709	histología
+T23	PROCEDIMIENTO 1054 1067	Transaminasas
+T24	PROCEDIMIENTO 971 980	Analítica
+T25	PROCEDIMIENTO 2817 2826	analítica
+T26	PROCEDIMIENTO 2890 2899	analítica
+T27	PROCEDIMIENTO 1103 1117	Perfil férrico
+T28	PROCEDIMIENTO 1120 1133	autoinmunidad
+T29	PROCEDIMIENTO 1901 1912	insuflación
+T30	PROCEDIMIENTO 2270 2282	PAS diastasa
+T31	SINTOMA 1480 1518	Hígado aumentado difusamente de tamaño
+T32	SINTOMA 1213 1251	Hígado aumentado difusamente de tamaño
+T33	SINTOMA 814 853	Abdomen blando, depresible, no doloroso
+T34	SINTOMA 754 764	Consciente
+T35	SINTOMA 434 446	asintomático
+T36	SINTOMA 767 776	orientado
+T37	SINTOMA 778 812	Auscultación cardiopulmonar normal
+T38	SINTOMA 947 957	colestasis
+T39	SINTOMA 1938 1958	colestasis disociada
+T40	SINTOMA 2226 2236	colestasis
+T41	SINTOMA 480 516	aumento de las enzimas de colestasis
+T42	SINTOMA 1054 1076	Transaminasas normales
+T43	SINTOMA 733 752	Buen estado general
+T44	SINTOMA 878 918	Extremidades inferiores sin alteraciones
+T45	SINTOMA 858 863	masas
+T46	SINTOMA 868 876	megalias
+T47	SINTOMA 1103 1143	Perfil férrico y autoinmunidad negativos
+T48	SINTOMA 1145 1190	Serologías virus de hepatitis B y C negativas
+T49	SINTOMA 1382 1424	Calibre y permeabilidad de la porta normal
+T50	SINTOMA 2270 2291	PAS diastasa positivo
+T51	SINTOMA 982 1012	Hemograma y coagulación normal

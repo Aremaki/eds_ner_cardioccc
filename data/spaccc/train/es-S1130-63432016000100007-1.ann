@@ -1,6 +1,14 @@
-T1	SINTOMA 716 736	carga viral positiva
-T2	SINTOMA 114 141	serología para CMV positiva
-T3	SINTOMA 2600 2624	carga viral indetectable
-T4	ENFERMEDAD 73 90	fibrosis quistica
-T5	ENFERMEDAD 2646 2671	efecto adverso al fármaco
-T6	ENFERMEDAD 1034 1048	hipomagnesemia
+T1	ENFERMEDAD 73 90	fibrosis quistica
+T2	ENFERMEDAD 2646 2671	efecto adverso al fármaco
+T3	ENFERMEDAD 1034 1048	hipomagnesemia
+T4	PROCEDIMIENTO 208 218	trasplante
+T5	PROCEDIMIENTO 229 255	profilaxis con ganciclovir
+T6	PROCEDIMIENTO 360 371	carga viral
+T7	PROCEDIMIENTO 1098 1124	tratamiento inmunosupresor
+T8	PROCEDIMIENTO 1519 1545	uso compasivo de maribavir
+T9	PROCEDIMIENTO 114 132	serología para CMV
+T10	PROCEDIMIENTO 454 464	trasplante
+T11	PROCEDIMIENTO 825 848	estudio de resistencias
+T12	SINTOMA 114 141	serología para CMV positiva
+T13	SINTOMA 716 736	carga viral positiva
+T14	SINTOMA 2600 2624	carga viral indetectable

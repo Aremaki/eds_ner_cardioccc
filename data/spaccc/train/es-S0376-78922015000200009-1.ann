@@ -14,14 +14,14 @@ T13	ENFERMEDAD 488 502	cáncer de mama
 T14	ENFERMEDAD 1884 1890	lesión
 T15	ENFERMEDAD 974 991	patología tumoral
 T16	ENFERMEDAD 1618 1647	hiperplasia linfoide reactiva
-T17	PROCEDIMIENTO 1034 1075	colocación bilateral de prótesis mamarias
-T18	PROCEDIMIENTO 1081 1092	exploración
-T19	PROCEDIMIENTO 1376 1406	estudio de Anatomía Patológica
-T20	PROCEDIMIENTO 1412 1431	estudio histológico
-T21	PROCEDIMIENTO 1825 1844	exploración clínica
-T22	PROCEDIMIENTO 1858 1877	estudio histológico
-T23	PROCEDIMIENTO 315 325	mamografía
+T17	PROCEDIMIENTO 1412 1431	estudio histológico
+T18	PROCEDIMIENTO 595 637	mastectomía bilateral conservadora de piel
+T19	PROCEDIMIENTO 1858 1877	estudio histológico
+T20	PROCEDIMIENTO 878 903	estudio anatomopatológico
+T21	PROCEDIMIENTO 1376 1406	estudio de Anatomía Patológica
+T22	PROCEDIMIENTO 315 325	mamografía
+T23	PROCEDIMIENTO 1034 1075	colocación bilateral de prótesis mamarias
 T24	PROCEDIMIENTO 463 502	cirugía profiláctica del cáncer de mama
-T25	PROCEDIMIENTO 524 536	intervención
-T26	PROCEDIMIENTO 595 637	mastectomía bilateral conservadora de piel
-T27	PROCEDIMIENTO 878 903	estudio anatomopatológico
+T25	PROCEDIMIENTO 1081 1092	exploración
+T26	PROCEDIMIENTO 1825 1844	exploración clínica
+T27	PROCEDIMIENTO 524 536	intervención

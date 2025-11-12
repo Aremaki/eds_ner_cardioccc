@@ -1,42 +1,42 @@
-T1	SINTOMA 88 98	masa renal
-T2	SINTOMA 115 128	epigastralgia
-T3	SINTOMA 322 329	astenia
-T4	SINTOMA 342 357	pérdida de peso
-T5	SINTOMA 642 652	masa renal
-T6	SINTOMA 393 410	masas abdominales
-T7	SINTOMA 1798 1810	asintomático
-T8	SINTOMA 276 285	hematuria
-T9	SINTOMA 414 422	megalias
-T10	SINTOMA 872 876	masa
-T11	SINTOMA 331 339	anorexia
-T12	SINTOMA 1658 1734	cambios postquirúrgicos a nivel de la cortical renal y de la grasa adyacente
-T13	SINTOMA 252 274	dolor en fosas renales
-T14	SINTOMA 448 464	nódulo exofítico
-T15	SINTOMA 507 577	polo superior del riñón derecho que presenta áreas sólidas y quísticas
-T16	ENFERMEDAD 173 185	colelitiasis
-T17	ENFERMEDAD 1237 1249	quiste renal
-T18	ENFERMEDAD 1467 1525	carcinoma de células claras renales, quístico multilocular
-T19	ENFERMEDAD 300 318	infección urinaria
-T20	ENFERMEDAD 714 752	lesión quística compleja a nivel renal
-T21	ENFERMEDAD 1135 1148	masa quística
-T22	ENFERMEDAD 1753 1767	recidiva local
-T23	ENFERMEDAD 1046 1052	quiste
-T24	PROCEDIMIENTO 1095 1104	gadolinio
-T25	PROCEDIMIENTO 1205 1207	TC
-T26	PROCEDIMIENTO 1224 1235	ecográficos
-T27	PROCEDIMIENTO 1291 1313	exploración quirúrgica
-T28	PROCEDIMIENTO 1316 1371	mediante incisión en el flanco practicamos tumorectomía
-T29	PROCEDIMIENTO 1419 1438	estudio histológico
-T30	PROCEDIMIENTO 1563 1572	resección
-T31	PROCEDIMIENTO 1590 1592	TC
-T32	PROCEDIMIENTO 1624 1636	intervención
-T33	PROCEDIMIENTO 1845 1854	ecografía
-T34	PROCEDIMIENTO 1872 1874	TC
-T35	PROCEDIMIENTO 188 211	hidrocelectomía derecha
-T36	PROCEDIMIENTO 219 228	anamnesis
-T37	PROCEDIMIENTO 362 380	exploración física
-T38	PROCEDIMIENTO 427 436	ecografía
-T39	PROCEDIMIENTO 605 616	Eco-doppler
-T40	PROCEDIMIENTO 67 77	ecográfico
-T41	PROCEDIMIENTO 678 697	TC abdomino-pélvica
-T42	PROCEDIMIENTO 840 853	RNM abdominal
+T1	ENFERMEDAD 173 185	colelitiasis
+T2	ENFERMEDAD 1237 1249	quiste renal
+T3	ENFERMEDAD 1467 1525	carcinoma de células claras renales, quístico multilocular
+T4	ENFERMEDAD 300 318	infección urinaria
+T5	ENFERMEDAD 714 752	lesión quística compleja a nivel renal
+T6	ENFERMEDAD 1135 1148	masa quística
+T7	ENFERMEDAD 1753 1767	recidiva local
+T8	ENFERMEDAD 1046 1052	quiste
+T9	PROCEDIMIENTO 427 436	ecografía
+T10	PROCEDIMIENTO 1590 1592	TC
+T11	PROCEDIMIENTO 1205 1207	TC
+T12	PROCEDIMIENTO 1419 1438	estudio histológico
+T13	PROCEDIMIENTO 188 211	hidrocelectomía derecha
+T14	PROCEDIMIENTO 1316 1371	mediante incisión en el flanco practicamos tumorectomía
+T15	PROCEDIMIENTO 219 228	anamnesis
+T16	PROCEDIMIENTO 362 380	exploración física
+T17	PROCEDIMIENTO 678 697	TC abdomino-pélvica
+T18	PROCEDIMIENTO 1845 1854	ecografía
+T19	PROCEDIMIENTO 1872 1874	TC
+T20	PROCEDIMIENTO 840 853	RNM abdominal
+T21	PROCEDIMIENTO 605 616	Eco-doppler
+T22	PROCEDIMIENTO 1095 1104	gadolinio
+T23	PROCEDIMIENTO 1563 1572	resección
+T24	PROCEDIMIENTO 67 77	ecográfico
+T25	PROCEDIMIENTO 1224 1235	ecográficos
+T26	PROCEDIMIENTO 1291 1313	exploración quirúrgica
+T27	PROCEDIMIENTO 1624 1636	intervención
+T28	SINTOMA 1658 1734	cambios postquirúrgicos a nivel de la cortical renal y de la grasa adyacente
+T29	SINTOMA 88 98	masa renal
+T30	SINTOMA 115 128	epigastralgia
+T31	SINTOMA 252 274	dolor en fosas renales
+T32	SINTOMA 322 329	astenia
+T33	SINTOMA 331 339	anorexia
+T34	SINTOMA 342 357	pérdida de peso
+T35	SINTOMA 642 652	masa renal
+T36	SINTOMA 393 410	masas abdominales
+T37	SINTOMA 1798 1810	asintomático
+T38	SINTOMA 276 285	hematuria
+T39	SINTOMA 414 422	megalias
+T40	SINTOMA 448 464	nódulo exofítico
+T41	SINTOMA 872 876	masa
+T42	SINTOMA 507 577	polo superior del riñón derecho que presenta áreas sólidas y quísticas

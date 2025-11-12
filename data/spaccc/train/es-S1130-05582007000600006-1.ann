@@ -1,38 +1,39 @@
-T1	SINTOMA 572 593	auscultación negativa
-T2	SINTOMA 1037 1068	captación de contraste moderada
-T3	SINTOMA 2552 2600	estudio inmunológico y serología fueron normales
-T4	SINTOMA 863 877	masa homogénea
-T5	SINTOMA 2366 2444	se detectó mediante técnica de PCR la presencia del virus herpes humano tipo 8
-T6	SINTOMA 186 205	sudoración nocturna
-T7	SINTOMA 2465 2527	TC toraco-abdomino-pélvico que resultó dentro de la normalidad
-T8	SINTOMA 1597 1607	tumoración
-T9	SINTOMA 1464 1474	tumoración
-T10	SINTOMA 305 413	tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
-T11	SINTOMA 99 125	tumoración latero-cervical
-T12	SINTOMA 1742 1761	tumoración vascular
-T13	ENFERMEDAD 2656 2691	hiperplasia angiofolicular linfoide
-T14	ENFERMEDAD 2694 2744	Enfermedad de Castleman, variante hialino-vascular
-T15	ENFERMEDAD 1082 1092	adenopatía
-T16	ENFERMEDAD 1220 1246	proceso linfoproliferativo
-T17	ENFERMEDAD 1248 1263	tumor neurógeno
-T18	ENFERMEDAD 1266 1283	tumor mesenquimal
-T19	PROCEDIMIENTO 1291 1308	anestesia general
-T20	PROCEDIMIENTO 1324 1359	incisión horizontal supraclavicular
-T21	PROCEDIMIENTO 1372 1395	sección del músculo ECM
-T22	PROCEDIMIENTO 1571 1580	disección
-T23	PROCEDIMIENTO 1706 1713	cirugía
-T24	PROCEDIMIENTO 1770 1795	estudio anatomopatológico
-T25	PROCEDIMIENTO 1958 1988	marcadores inmunohistoquímicos
-T26	PROCEDIMIENTO 2345 2362	estudio molecular
-T27	PROCEDIMIENTO 2397 2444	PCR la presencia del virus herpes humano tipo 8
-T28	PROCEDIMIENTO 2465 2491	TC toraco-abdomino-pélvico
-T29	PROCEDIMIENTO 2532 2541	analítica
-T30	PROCEDIMIENTO 2552 2584	estudio inmunológico y serología
-T31	PROCEDIMIENTO 260 269	anamnesis
-T32	PROCEDIMIENTO 276 287	exploración
-T33	PROCEDIMIENTO 572 584	auscultación
-T34	PROCEDIMIENTO 611 654	punción guiada por tomografía computerizada
-T35	PROCEDIMIENTO 630 654	tomografía computerizada
-T36	PROCEDIMIENTO 656 658	TC
-T37	PROCEDIMIENTO 785 809	estudio serológico viral
-T38	PROCEDIMIENTO 817 845	TC con contraste intravenoso
+T1	ENFERMEDAD 2656 2691	hiperplasia angiofolicular linfoide
+T2	ENFERMEDAD 2694 2744	Enfermedad de Castleman, variante hialino-vascular
+T3	ENFERMEDAD 1082 1092	adenopatía
+T4	ENFERMEDAD 1220 1246	proceso linfoproliferativo
+T5	ENFERMEDAD 1248 1263	tumor neurógeno
+T6	ENFERMEDAD 1266 1283	tumor mesenquimal
+T7	PROCEDIMIENTO 1291 1308	anestesia general
+T8	PROCEDIMIENTO 2345 2362	estudio molecular
+T9	PROCEDIMIENTO 1770 1795	estudio anatomopatológico
+T10	PROCEDIMIENTO 817 845	TC con contraste intravenoso
+T11	PROCEDIMIENTO 2465 2491	TC toraco-abdomino-pélvico
+T12	PROCEDIMIENTO 611 654	punción guiada por tomografía computerizada
+T13	PROCEDIMIENTO 630 654	tomografía computerizada
+T14	PROCEDIMIENTO 1324 1359	incisión horizontal supraclavicular
+T15	PROCEDIMIENTO 656 658	TC
+T16	PROCEDIMIENTO 1372 1395	sección del músculo ECM
+T17	PROCEDIMIENTO 2552 2584	estudio inmunológico y serología
+T18	PROCEDIMIENTO 1958 1988	marcadores inmunohistoquímicos
+T19	PROCEDIMIENTO 260 269	anamnesis
+T20	PROCEDIMIENTO 2397 2444	PCR la presencia del virus herpes humano tipo 8
+T21	PROCEDIMIENTO 572 584	auscultación
+T22	PROCEDIMIENTO 785 809	estudio serológico viral
+T23	PROCEDIMIENTO 2532 2541	analítica
+T24	PROCEDIMIENTO 1706 1713	cirugía
+T25	PROCEDIMIENTO 1571 1580	disección
+T26	PROCEDIMIENTO 276 287	exploración
+T27	SINTOMA 99 125	tumoración latero-cervical
+T28	SINTOMA 186 205	sudoración nocturna
+T29	SINTOMA 1742 1761	tumoración vascular
+T30	SINTOMA 572 593	auscultación negativa
+T31	SINTOMA 1464 1474	tumoración
+T32	SINTOMA 1597 1607	tumoración
+T33	SINTOMA 2366 2444	se detectó mediante técnica de PCR la presencia del virus herpes humano tipo 8
+T34	SINTOMA 2465 2527	TC toraco-abdomino-pélvico que resultó dentro de la normalidad
+T35	SINTOMA 2552 2600	estudio inmunológico y serología fueron normales
+T36	SINTOMA 305 413	tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
+T37	SINTOMA 863 877	masa homogénea
+T38	SINTOMA 1037 1068	captación de contraste moderada
+T39	SINTOMA 1127 1141	hipercaptación

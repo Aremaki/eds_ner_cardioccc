@@ -1,14 +1,23 @@
-T1	SINTOMA 337 355	dolor en el glande
-T2	SINTOMA 693 724	glande hipocrómico, hipotérmico
-T3	SINTOMA 434 479	glande, así como sensación de anestesia local
-T4	SINTOMA 417 440	hipocromía en el glande
-T5	SINTOMA 773 806	leve secreción purulenta y fétida
-T6	SINTOMA 582 601	secreción purulenta
-T7	SINTOMA 358 388	síntomas urinarios irritativos
-T8	ENFERMEDAD 54 78	diabetes mellitus tipo 2
-T9	ENFERMEDAD 80 111	hipertensión arterial sistémica
-T10	ENFERMEDAD 1340 1369	arterioesclerosis obliterante
-T11	ENFERMEDAD 114 128	hipotiroidismo
-T12	ENFERMEDAD 192 219	insuficiencia renal crónica
-T13	ENFERMEDAD 497 541	lesión violácea en la cara dorsal del glande
-T14	ENFERMEDAD 1316 1323	absceso
+T1	ENFERMEDAD 54 78	diabetes mellitus tipo 2
+T2	ENFERMEDAD 80 111	hipertensión arterial sistémica
+T3	ENFERMEDAD 1340 1369	arterioesclerosis obliterante
+T4	ENFERMEDAD 114 128	hipotiroidismo
+T5	ENFERMEDAD 192 219	insuficiencia renal crónica
+T6	ENFERMEDAD 497 541	lesión violácea en la cara dorsal del glande
+T7	ENFERMEDAD 1316 1323	absceso
+T8	PROCEDIMIENTO 811 829	biometría hemática
+T9	PROCEDIMIENTO 647 665	exploración física
+T10	PROCEDIMIENTO 1191 1209	falectomía parcial
+T11	PROCEDIMIENTO 256 268	hemodiálisis
+T12	PROCEDIMIENTO 1051 1071	electrolitos séricos
+T13	PROCEDIMIENTO 973 1000	pruebas de función hepática
+T14	PROCEDIMIENTO 899 916	química sanguínea
+T15	PROCEDIMIENTO 1234 1253	análisis patológico
+T16	PROCEDIMIENTO 464 479	anestesia local
+T17	SINTOMA 337 355	dolor en el glande
+T18	SINTOMA 358 388	síntomas urinarios irritativos
+T19	SINTOMA 417 440	hipocromía en el glande
+T20	SINTOMA 434 479	glande, así como sensación de anestesia local
+T21	SINTOMA 582 601	secreción purulenta
+T22	SINTOMA 773 806	leve secreción purulenta y fétida
+T23	SINTOMA 693 724	glande hipocrómico, hipotérmico

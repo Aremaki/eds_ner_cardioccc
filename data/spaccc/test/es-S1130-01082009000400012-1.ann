@@ -1,30 +1,30 @@
-T1	SINTOMA 1105 1119	picos febriles
-T2	SINTOMA 1642 1696	fuga de contraste en tercio medio, y en extremo distal
-T3	SINTOMA 235 252	líquido purulento
-T4	ENFERMEDAD 45 72	neumonía en lóbulo inferior
-T5	ENFERMEDAD 86 101	derrame pleural
-T6	ENFERMEDAD 1180 1206	absceso en lóbulo inferior
-T7	ENFERMEDAD 1490 1513	fístula esófago-pleural
-T8	ENFERMEDAD 386 409	fístula esófago-pleural
-T9	ENFERMEDAD 1953 1963	ulceración
-T10	ENFERMEDAD 737 750	zona ulcerada
-T11	ENFERMEDAD 928 994	fístula esófago pleural benigna en relación con esófago de Barrett
-T12	ENFERMEDAD 976 994	esófago de Barrett
-T13	ENFERMEDAD 643 661	orificio fistuloso
-T14	ENFERMEDAD 586 596	ulceración
-T15	PROCEDIMIENTO 1142 1145	TAC
-T16	PROCEDIMIENTO 1227 1260	se colocó un drenaje endotorácico
-T17	PROCEDIMIENTO 1359 1400	Se administró nuevamente azul de metileno
-T18	PROCEDIMIENTO 1583 1595	esofagograma
-T19	PROCEDIMIENTO 1597 1636	endoprótesis en tercio distal esofágico
-T20	PROCEDIMIENTO 1790 1816	esofaguectomía transhiatal
-T21	PROCEDIMIENTO 1821 1846	gastroplastia subesternal
-T22	PROCEDIMIENTO 1904 1923	estudio histológico
-T23	PROCEDIMIENTO 192 208	drenaje torácico
-T24	PROCEDIMIENTO 362 369	drenaje
-T25	PROCEDIMIENTO 418 446	administrar azul de metileno
-T26	PROCEDIMIENTO 486 502	drenaje torácico
-T27	PROCEDIMIENTO 515 525	endoscopia
-T28	PROCEDIMIENTO 714 750	biopsias tomadas de la zona ulcerada
-T29	PROCEDIMIENTO 864 883	signos histológicos
-T30	PROCEDIMIENTO 996 1037	se colocó stent removible tipo "Hanoster"
+T1	ENFERMEDAD 45 72	neumonía en lóbulo inferior
+T2	ENFERMEDAD 86 101	derrame pleural
+T3	ENFERMEDAD 1180 1206	absceso en lóbulo inferior
+T4	ENFERMEDAD 1490 1513	fístula esófago-pleural
+T5	ENFERMEDAD 386 409	fístula esófago-pleural
+T6	ENFERMEDAD 1953 1963	ulceración
+T7	ENFERMEDAD 737 750	zona ulcerada
+T8	ENFERMEDAD 928 994	fístula esófago pleural benigna en relación con esófago de Barrett
+T9	ENFERMEDAD 976 994	esófago de Barrett
+T10	ENFERMEDAD 643 661	orificio fistuloso
+T11	ENFERMEDAD 586 596	ulceración
+T12	PROCEDIMIENTO 1583 1595	esofagograma
+T13	PROCEDIMIENTO 1359 1400	Se administró nuevamente azul de metileno
+T14	PROCEDIMIENTO 192 208	drenaje torácico
+T15	PROCEDIMIENTO 515 525	endoscopia
+T16	PROCEDIMIENTO 1597 1636	endoprótesis en tercio distal esofágico
+T17	PROCEDIMIENTO 1790 1816	esofaguectomía transhiatal
+T18	PROCEDIMIENTO 1142 1145	TAC
+T19	PROCEDIMIENTO 1821 1846	gastroplastia subesternal
+T20	PROCEDIMIENTO 1227 1260	se colocó un drenaje endotorácico
+T21	PROCEDIMIENTO 362 369	drenaje
+T22	PROCEDIMIENTO 714 750	biopsias tomadas de la zona ulcerada
+T23	PROCEDIMIENTO 486 502	drenaje torácico
+T24	PROCEDIMIENTO 996 1037	se colocó stent removible tipo "Hanoster"
+T25	PROCEDIMIENTO 1904 1923	estudio histológico
+T26	PROCEDIMIENTO 418 446	administrar azul de metileno
+T27	PROCEDIMIENTO 864 883	signos histológicos
+T28	SINTOMA 1105 1119	picos febriles
+T29	SINTOMA 1642 1696	fuga de contraste en tercio medio, y en extremo distal
+T30	SINTOMA 235 252	líquido purulento

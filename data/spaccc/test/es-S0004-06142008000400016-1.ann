@@ -1,30 +1,30 @@
-T1	SINTOMA 898 906	sangrado
-T2	SINTOMA 471 518	lesión exofítica no dolorosa a nivel del glande
-T3	SINTOMA 690 710	sangrado con el roce
-T4	SINTOMA 1129 1213	tumoración de aspecto macroscópico no infiltrante, asentanda en la mucosa del glande
-T5	ENFERMEDAD 761 788	dorso del glande una lesión
-T6	ENFERMEDAD 80 103	adenocarcinoma gástrico
-T7	ENFERMEDAD 119 140	carcinoma de próstata
-T8	ENFERMEDAD 1512 1520	melanoma
-T9	ENFERMEDAD 1796 1818	enfermedad metastásica
-T10	ENFERMEDAD 280 319	ganglio linfático afectado por el tumor
-T11	ENFERMEDAD 471 518	lesión exofítica no dolorosa a nivel del glande
-T12	ENFERMEDAD 2003 2011	melanoma
-T13	ENFERMEDAD 606 617	traumatismo
-T14	ENFERMEDAD 1735 1740	tumor
-T15	PROCEDIMIENTO 1048 1055	biopsia
-T16	PROCEDIMIENTO 1094 1106	intervención
-T17	PROCEDIMIENTO 1274 1316	análisis anatomopatológico intraoperatorio
-T18	PROCEDIMIENTO 1537 1546	resección
-T19	PROCEDIMIENTO 1555 1574	penectomía subtotal
-T20	PROCEDIMIENTO 1655 1701	linfadenectomía inguinal superficial bilateral
-T21	PROCEDIMIENTO 1753 1772	TAC tóracoabdominal
-T22	PROCEDIMIENTO 1823 1848	estudio anatomopatológico
-T23	PROCEDIMIENTO 1861 1871	penectomía
-T24	PROCEDIMIENTO 1929 1956	análisis inmunohistoquímico
-T25	PROCEDIMIENTO 234 256	prostatectomía radical
-T26	PROCEDIMIENTO 322 341	bloqueo androgénico
-T27	PROCEDIMIENTO 63 75	gastrectomía
-T28	PROCEDIMIENTO 948 959	se palpaban
-T29	PROCEDIMIENTO 960 976	linfadenectomías
-T30	PROCEDIMIENTO 994 1012	exploración física
+T1	ENFERMEDAD 761 788	dorso del glande una lesión
+T2	ENFERMEDAD 80 103	adenocarcinoma gástrico
+T3	ENFERMEDAD 119 140	carcinoma de próstata
+T4	ENFERMEDAD 1512 1520	melanoma
+T5	ENFERMEDAD 1796 1818	enfermedad metastásica
+T6	ENFERMEDAD 280 319	ganglio linfático afectado por el tumor
+T7	ENFERMEDAD 471 518	lesión exofítica no dolorosa a nivel del glande
+T8	ENFERMEDAD 2003 2011	melanoma
+T9	ENFERMEDAD 606 617	traumatismo
+T10	ENFERMEDAD 1735 1740	tumor
+T11	PROCEDIMIENTO 1274 1316	análisis anatomopatológico intraoperatorio
+T12	PROCEDIMIENTO 1555 1574	penectomía subtotal
+T13	PROCEDIMIENTO 63 75	gastrectomía
+T14	PROCEDIMIENTO 1655 1701	linfadenectomía inguinal superficial bilateral
+T15	PROCEDIMIENTO 1753 1772	TAC tóracoabdominal
+T16	PROCEDIMIENTO 234 256	prostatectomía radical
+T17	PROCEDIMIENTO 960 976	linfadenectomías
+T18	PROCEDIMIENTO 994 1012	exploración física
+T19	PROCEDIMIENTO 1823 1848	estudio anatomopatológico
+T20	PROCEDIMIENTO 322 341	bloqueo androgénico
+T21	PROCEDIMIENTO 1861 1871	penectomía
+T22	PROCEDIMIENTO 1929 1956	análisis inmunohistoquímico
+T23	PROCEDIMIENTO 1048 1055	biopsia
+T24	PROCEDIMIENTO 1537 1546	resección
+T25	PROCEDIMIENTO 948 959	se palpaban
+T26	PROCEDIMIENTO 1094 1106	intervención
+T27	SINTOMA 898 906	sangrado
+T28	SINTOMA 471 518	lesión exofítica no dolorosa a nivel del glande
+T29	SINTOMA 690 710	sangrado con el roce
+T30	SINTOMA 1129 1213	tumoración de aspecto macroscópico no infiltrante, asentanda en la mucosa del glande

@@ -1,14 +1,23 @@
-T1	SINTOMA 1807 1812	dolor
-T2	SINTOMA 1466 1473	exudado
-T3	SINTOMA 270 290	hipotermia sistémica
-T4	SINTOMA 629 650	tumoración en espalda
-T5	SINTOMA 1840 1851	vida normal
-T6	ENFERMEDAD 51 61	pretérmino
-T7	ENFERMEDAD 869 896	necrosis grasa licuefactiva
-T8	ENFERMEDAD 114 131	asfixia periparto
-T9	ENFERMEDAD 136 173	encefalopatía neonatal moderada-grave
-T10	ENFERMEDAD 187 204	asfixia periparto
-T11	ENFERMEDAD 1384 1390	herida
-T12	ENFERMEDAD 1787 1793	herida
-T13	ENFERMEDAD 554 575	lesión cutánea dorsal
-T14	ENFERMEDAD 712 718	escara
+T1	ENFERMEDAD 51 61	pretérmino
+T2	ENFERMEDAD 869 896	necrosis grasa licuefactiva
+T3	ENFERMEDAD 114 131	asfixia periparto
+T4	ENFERMEDAD 136 173	encefalopatía neonatal moderada-grave
+T5	ENFERMEDAD 187 204	asfixia periparto
+T6	ENFERMEDAD 1384 1390	herida
+T7	ENFERMEDAD 1787 1793	herida
+T8	ENFERMEDAD 554 575	lesión cutánea dorsal
+T9	ENFERMEDAD 712 718	escara
+T10	PROCEDIMIENTO 785 812	ecografía de partes blandas
+T11	PROCEDIMIENTO 1322 1338	terapia de vacío
+T12	PROCEDIMIENTO 869 946	necrosis grasa licuefactiva. Realizamos 2 punciones para evacuar el contenido
+T13	PROCEDIMIENTO 996 1021	desbridamiento quirúrgico
+T14	PROCEDIMIENTO 1038 1078	terapia de vacío (Renasys®, Smith&Nephew
+T15	PROCEDIMIENTO 270 318	hipotermia sistémica aplicando sistema CritiCool
+T16	PROCEDIMIENTO 1210 1229	cambios de apósitos
+T17	PROCEDIMIENTO 1372 1379	cirugía
+T18	PROCEDIMIENTO 1262 1289	intervenida quirúrgicamente
+T19	SINTOMA 629 650	tumoración en espalda
+T20	SINTOMA 1807 1812	dolor
+T21	SINTOMA 1466 1473	exudado
+T22	SINTOMA 270 290	hipotermia sistémica
+T23	SINTOMA 1840 1851	vida normal

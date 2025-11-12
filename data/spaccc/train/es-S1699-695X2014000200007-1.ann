@@ -1,31 +1,46 @@
-T1	SINTOMA 1350 1390	abdomen está excavado, timpánico, blando
-T2	SINTOMA 1614 1643	alteraciones a nivel hepático
-T3	SINTOMA 1504 1540	analítica no presentaba alteraciones
-T4	SINTOMA 33 41	asténico
-T5	SINTOMA 506 558	biopsia gástrica que resultó positiva para H. pylori
-T6	SINTOMA 1306 1325	constantes estables
-T7	SINTOMA 52 59	delgado
-T8	SINTOMA 2132 2181	disminución del calibre en la 3a porción duodenal
-T9	SINTOMA 980 1017	dolor agudo que cedía con los vómitos
-T10	SINTOMA 150 176	dolor epigástrico punzante
-T11	SINTOMA 2525 2618	duodeno y a la vena renal izquierda, produciendo compresión y dilatación pre y postcompresión
-T12	SINTOMA 1843 1926	ecografía abdominal total en decúbito supino, sin evidencia de hallazgos relevantes
-T13	SINTOMA 2095 2127	lentitud de vaciamiento gástrico
-T14	SINTOMA 1393 1449	levemente doloroso a la palpación profunda en epigastrio
-T15	SINTOMA 1562 1608	marcadores de respuesta inflamatoria negativos
-T16	SINTOMA 675 728	test de aliento negativo para infección por H. pylori
-T17	SINTOMA 198 241	vómitos postprandiales que alivian el dolor
-T18	SINTOMA 1647 1674	alteraciones electrolíticas
-T19	SINTOMA 188 195	náuseas
-T20	SINTOMA 1469 1474	masas
-T21	SINTOMA 1491 1499	megalias
-T22	SINTOMA 1186 1191	dolor
-T23	ENFERMEDAD 1554 1560	anemia
-T24	ENFERMEDAD 1476 1487	adenopatías
-T25	ENFERMEDAD 705 728	infección por H. pylori
-T26	ENFERMEDAD 1783 1805	obstrucción intestinal
-T27	ENFERMEDAD 2312 2331	compresión vascular
-T28	ENFERMEDAD 1043 1069	síndrome ansioso-depresivo
-T29	ENFERMEDAD 2423 2473	pinza vascular que producía compresión del duodeno
-T30	ENFERMEDAD 1134 1168	alergias a alimentos ni a fármacos
-T31	ENFERMEDAD 2495 2512	pinza mesentérica
+T1	ENFERMEDAD 1554 1560	anemia
+T2	ENFERMEDAD 1476 1487	adenopatías
+T3	ENFERMEDAD 705 728	infección por H. pylori
+T4	ENFERMEDAD 1783 1805	obstrucción intestinal
+T5	ENFERMEDAD 2312 2331	compresión vascular
+T6	ENFERMEDAD 1043 1069	síndrome ansioso-depresivo
+T7	ENFERMEDAD 2423 2473	pinza vascular que producía compresión del duodeno
+T8	ENFERMEDAD 1134 1168	alergias a alimentos ni a fármacos
+T9	ENFERMEDAD 2495 2512	pinza mesentérica
+T10	PROCEDIMIENTO 1843 1887	ecografía abdominal total en decúbito supino
+T11	PROCEDIMIENTO 489 522	gastroscopía con biopsia gástrica
+T12	PROCEDIMIENTO 1417 1449	palpación profunda en epigastrio
+T13	PROCEDIMIENTO 2031 2059	tránsito intestinal baritado
+T14	PROCEDIMIENTO 1743 1765	radiografía de abdomen
+T15	PROCEDIMIENTO 675 690	test de aliento
+T16	PROCEDIMIENTO 791 803	antieméticos
+T17	PROCEDIMIENTO 816 851	inhibidores de la bomba de protones
+T18	PROCEDIMIENTO 2378 2397	angioTAC de abdomen
+T19	PROCEDIMIENTO 568 659	tratamiento erradicador con triple terapia actual (omeprazol, amoxicilina y claritromicina)
+T20	PROCEDIMIENTO 1504 1513	analítica
+T21	PROCEDIMIENTO 1258 1269	exploración
+T22	PROCEDIMIENTO 1562 1598	marcadores de respuesta inflamatoria
+T23	SINTOMA 33 41	asténico
+T24	SINTOMA 43 49	álgido
+T25	SINTOMA 52 59	delgado
+T26	SINTOMA 506 558	biopsia gástrica que resultó positiva para H. pylori
+T27	SINTOMA 1350 1390	abdomen está excavado, timpánico, blando
+T28	SINTOMA 1647 1674	alteraciones electrolíticas
+T29	SINTOMA 150 176	dolor epigástrico punzante
+T30	SINTOMA 188 195	náuseas
+T31	SINTOMA 198 241	vómitos postprandiales que alivian el dolor
+T32	SINTOMA 2095 2127	lentitud de vaciamiento gástrico
+T33	SINTOMA 2132 2181	disminución del calibre en la 3a porción duodenal
+T34	SINTOMA 980 1017	dolor agudo que cedía con los vómitos
+T35	SINTOMA 1469 1474	masas
+T36	SINTOMA 1491 1499	megalias
+T37	SINTOMA 1562 1608	marcadores de respuesta inflamatoria negativos
+T38	SINTOMA 1614 1643	alteraciones a nivel hepático
+T39	SINTOMA 1186 1191	dolor
+T40	SINTOMA 675 728	test de aliento negativo para infección por H. pylori
+T41	SINTOMA 1306 1325	constantes estables
+T42	SINTOMA 1393 1449	levemente doloroso a la palpación profunda en epigastrio
+T43	SINTOMA 1504 1540	analítica no presentaba alteraciones
+T44	SINTOMA 1843 1926	ecografía abdominal total en decúbito supino, sin evidencia de hallazgos relevantes
+T45	SINTOMA 2525 2618	duodeno y a la vena renal izquierda, produciendo compresión y dilatación pre y postcompresión
+T46	SINTOMA 2423 2437	pinza vascular

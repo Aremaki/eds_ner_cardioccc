@@ -1,27 +1,27 @@
-T1	SINTOMA 205 255	cefalea tensional en regiones occipital y temporal
-T2	SINTOMA 434 453	componente doloroso
-T3	SINTOMA 616 632	desgaste oclusal
-T4	SINTOMA 120 141	despertares nocturnos
-T5	SINTOMA 851 870	digestiones pesadas
-T6	SINTOMA 833 849	dolor de espalda
-T7	SINTOMA 1069 1081	dolor facial
-T8	SINTOMA 664 691	dolor muscular masticatorio
-T9	SINTOMA 1125 1147	frecuentes despertares
-T10	SINTOMA 1099 1120	mal descanso nocturno
-T11	SINTOMA 873 883	meteorismo
-T12	SINTOMA 725 804	puntos gatillo en músculos maseteros y esterno-cleido-mastoideos de ambos lados
-T13	SINTOMA 88 106	somnolencia diurna
-T14	ENFERMEDAD 1306 1329	reflujo gastroesofágico
-T15	ENFERMEDAD 1721 1740	síndrome miofascial
-T16	ENFERMEDAD 314 341	síndrome de apnea del sueño
-T17	ENFERMEDAD 701 720	síndrome miofascial
-T18	PROCEDIMIENTO 1152 1182	examinar la férula de descarga
-T19	PROCEDIMIENTO 1420 1429	Ph-metría
-T20	PROCEDIMIENTO 1432 1442	endoscopia
-T21	PROCEDIMIENTO 1504 1522	medidas posturales
-T22	PROCEDIMIENTO 1529 1564	inhibidores de la bomba de protones
-T23	PROCEDIMIENTO 405 420	polisomnografía
-T24	PROCEDIMIENTO 538 557	exploración clínica
-T25	PROCEDIMIENTO 913 918	AINES
-T26	PROCEDIMIENTO 921 942	relajantes musculares
-T27	PROCEDIMIENTO 953 987	férula oclusal plana tipo Michigan
+T1	ENFERMEDAD 1306 1329	reflujo gastroesofágico
+T2	ENFERMEDAD 1721 1740	síndrome miofascial
+T3	ENFERMEDAD 314 341	síndrome de apnea del sueño
+T4	ENFERMEDAD 701 720	síndrome miofascial
+T5	PROCEDIMIENTO 1152 1182	examinar la férula de descarga
+T6	PROCEDIMIENTO 913 918	AINES
+T7	PROCEDIMIENTO 1504 1522	medidas posturales
+T8	PROCEDIMIENTO 921 942	relajantes musculares
+T9	PROCEDIMIENTO 1529 1564	inhibidores de la bomba de protones
+T10	PROCEDIMIENTO 953 987	férula oclusal plana tipo Michigan
+T11	PROCEDIMIENTO 1420 1429	Ph-metría
+T12	PROCEDIMIENTO 1432 1442	endoscopia
+T13	PROCEDIMIENTO 405 420	polisomnografía
+T14	PROCEDIMIENTO 538 557	exploración clínica
+T15	SINTOMA 1069 1081	dolor facial
+T16	SINTOMA 88 106	somnolencia diurna
+T17	SINTOMA 120 141	despertares nocturnos
+T18	SINTOMA 205 255	cefalea tensional en regiones occipital y temporal
+T19	SINTOMA 434 453	componente doloroso
+T20	SINTOMA 616 632	desgaste oclusal
+T21	SINTOMA 664 691	dolor muscular masticatorio
+T22	SINTOMA 725 804	puntos gatillo en músculos maseteros y esterno-cleido-mastoideos de ambos lados
+T23	SINTOMA 833 849	dolor de espalda
+T24	SINTOMA 851 870	digestiones pesadas
+T25	SINTOMA 873 883	meteorismo
+T26	SINTOMA 1099 1120	mal descanso nocturno
+T27	SINTOMA 1125 1147	frecuentes despertares

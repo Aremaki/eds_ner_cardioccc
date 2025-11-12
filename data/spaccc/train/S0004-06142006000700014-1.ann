@@ -1,43 +1,64 @@
-T1	SINTOMA 826 868	analítica de orina dentro de la normalidad
-T2	SINTOMA 3107 3177	bordes quirúrgicos y el testículo derecho estaban libres de tumoración
-T3	SINTOMA 3548 3579	elevación significativa del CEA
-T4	SINTOMA 3730 3790	engrosamiento de la pared del colon cercano a la anastomosis
-T5	SINTOMA 997 1022	masa en colon descendente
-T6	SINTOMA 1281 1324	masa nodular dolorosa a nivel del testículo
-T7	SINTOMA 3706 3724	nódulos pulmonares
-T8	SINTOMA 4071 4089	nódulos pulmonares
-T9	SINTOMA 566 573	pT3NoMo
-T10	SINTOMA 2792 2860	tumoración de 2 centímetros de diámetro en tercio medio de epidídimo
-T11	SINTOMA 1738 1789	tumoración de menor tamaño en el cordón espermático
-T12	SINTOMA 1660 1714	tumoración dolorosa de 1-2 centímetros en el epidídimo
-T13	SINTOMA 2876 2908	tumoración en cordón espermático
-T14	SINTOMA 364 374	tumoración
-T15	PROCEDIMIENTO 1237 1247	colectomía
-T16	PROCEDIMIENTO 1361 1381	ecografía testicular
-T17	PROCEDIMIENTO 1607 1618	exploración
-T18	PROCEDIMIENTO 1816 1878	exploración quirúrgica de las lesiones bajo anestesia raquídea
-T19	PROCEDIMIENTO 1860 1878	anestesia raquídea
-T20	PROCEDIMIENTO 1906 1923	incisión inguinal
-T21	PROCEDIMIENTO 1925 1984	extracción de teste derecho y cordón espermático y clampaje
-T22	PROCEDIMIENTO 230 259	colectomía subtotal izquierda
-T23	PROCEDIMIENTO 2475 2498	biopsia intraoperatoria
-T24	PROCEDIMIENTO 2631 2690	orquiectomía radical derecha, incluyendo cordón espermático
-T25	PROCEDIMIENTO 264 289	anastomosis ileosigmoidea
-T26	PROCEDIMIENTO 2707 2726	Anatomía Patológica
-T27	PROCEDIMIENTO 297 348	estudio anatomopatológico de la pieza de colectomía
-T28	PROCEDIMIENTO 3293 3305	intervención
-T29	PROCEDIMIENTO 3358 3402	tratamiento complementario con quimioterapia
-T30	PROCEDIMIENTO 338 348	colectomía
-T31	PROCEDIMIENTO 3389 3402	quimioterapia
-T32	PROCEDIMIENTO 3454 3457	TAC
-T33	PROCEDIMIENTO 3531 3543	orquiectomía
-T34	PROCEDIMIENTO 3624 3641	pruebas de imagen
-T35	PROCEDIMIENTO 3643 3646	TAC
-T36	PROCEDIMIENTO 3779 3790	anastomosis
-T37	PROCEDIMIENTO 3835 3853	estudios de imagen
-T38	PROCEDIMIENTO 3873 3885	intervención
-T39	PROCEDIMIENTO 3943 3969	tratamiento quimioterápico
-T40	PROCEDIMIENTO 605 648	drenaje de un absceso en la pared abdominal
-T41	PROCEDIMIENTO 719 728	analítica
-T42	PROCEDIMIENTO 826 844	analítica de orina
-T43	PROCEDIMIENTO 960 963	TAC
+T1	ENFERMEDAD 55 73	síndrome depresivo
+T2	ENFERMEDAD 76 87	prostatismo
+T3	ENFERMEDAD 143 173	carcinoma de colon descendente
+T4	ENFERMEDAD 412 462	adenocarcinoma de colon moderadamente diferenciado
+T5	ENFERMEDAD 619 648	absceso en la pared abdominal
+T6	ENFERMEDAD 1038 1056	carcinoma de colon
+T7	ENFERMEDAD 1070 1099	adenopatías retroperitoneales
+T8	ENFERMEDAD 1165 1210	lesiones crónicas fibrocicatriciales en tórax
+T9	ENFERMEDAD 1398 1480	lesión heterogénea, con zonas sólidas y quísticas, a nivel de cuerpo del epidídimo
+T10	ENFERMEDAD 2049 2086	epidídimo derecho, una lesión nodular
+T11	ENFERMEDAD 2522 2536	adenocarcinoma
+T12	ENFERMEDAD 3048 3079	metástasis de un adenocarcinoma
+T13	ENFERMEDAD 3651 3680	adenopatías retroperitoneales
+T14	ENFERMEDAD 3706 3724	nódulos pulmonares
+T15	ENFERMEDAD 3998 4031	implantes mesentéricos, hepáticos
+T16	ENFERMEDAD 4071 4089	nódulos pulmonares
+T17	ENFERMEDAD 1846 1854	lesiones
+T18	ENFERMEDAD 2337 2384	cordón espermático derecho palpamos otra lesión
+T19	ENFERMEDAD 507 528	afectación ganglionar
+T20	ENFERMEDAD 571 573	Mo
+T21	ENFERMEDAD 2968 3031	neoformaciones epiteliales malignas con estructuras glandulares
+T22	PROCEDIMIENTO 2707 2726	Anatomía Patológica
+T23	PROCEDIMIENTO 960 963	TAC
+T24	PROCEDIMIENTO 3454 3457	TAC
+T25	PROCEDIMIENTO 3643 3646	TAC
+T26	PROCEDIMIENTO 826 844	analítica de orina
+T27	PROCEDIMIENTO 264 289	anastomosis ileosigmoidea
+T28	PROCEDIMIENTO 3779 3790	anastomosis
+T29	PROCEDIMIENTO 1860 1878	anestesia raquídea
+T30	PROCEDIMIENTO 2475 2498	biopsia intraoperatoria
+T31	PROCEDIMIENTO 338 348	colectomía
+T32	PROCEDIMIENTO 1237 1247	colectomía
+T33	PROCEDIMIENTO 230 259	colectomía subtotal izquierda
+T34	PROCEDIMIENTO 605 648	drenaje de un absceso en la pared abdominal
+T35	PROCEDIMIENTO 1361 1381	ecografía testicular
+T36	PROCEDIMIENTO 297 348	estudio anatomopatológico de la pieza de colectomía
+T37	PROCEDIMIENTO 1816 1878	exploración quirúrgica de las lesiones bajo anestesia raquídea
+T38	PROCEDIMIENTO 1925 1984	extracción de teste derecho y cordón espermático y clampaje
+T39	PROCEDIMIENTO 3531 3543	orquiectomía
+T40	PROCEDIMIENTO 2631 2690	orquiectomía radical derecha, incluyendo cordón espermático
+T41	PROCEDIMIENTO 3358 3402	tratamiento complementario con quimioterapia
+T42	PROCEDIMIENTO 3943 3969	tratamiento quimioterápico
+T43	PROCEDIMIENTO 719 728	analítica
+T44	PROCEDIMIENTO 1607 1618	exploración
+T45	PROCEDIMIENTO 3389 3402	quimioterapia
+T46	PROCEDIMIENTO 1906 1923	incisión inguinal
+T47	PROCEDIMIENTO 3624 3641	pruebas de imagen
+T48	PROCEDIMIENTO 3835 3853	estudios de imagen
+T49	PROCEDIMIENTO 3293 3305	intervención
+T50	PROCEDIMIENTO 3873 3885	intervención
+T51	SINTOMA 997 1022	masa en colon descendente
+T52	SINTOMA 1281 1324	masa nodular dolorosa a nivel del testículo
+T53	SINTOMA 3706 3724	nódulos pulmonares
+T54	SINTOMA 4071 4089	nódulos pulmonares
+T55	SINTOMA 364 374	tumoración
+T56	SINTOMA 1660 1714	tumoración dolorosa de 1-2 centímetros en el epidídimo
+T57	SINTOMA 1738 1789	tumoración de menor tamaño en el cordón espermático
+T58	SINTOMA 2792 2860	tumoración de 2 centímetros de diámetro en tercio medio de epidídimo
+T59	SINTOMA 2876 2908	tumoración en cordón espermático
+T60	SINTOMA 3107 3177	bordes quirúrgicos y el testículo derecho estaban libres de tumoración
+T61	SINTOMA 566 573	pT3NoMo
+T62	SINTOMA 826 868	analítica de orina dentro de la normalidad
+T63	SINTOMA 3548 3579	elevación significativa del CEA
+T64	SINTOMA 3730 3790	engrosamiento de la pared del colon cercano a la anastomosis

@@ -1,12 +1,31 @@
-T1	SINTOMA 537 563	adecuada ganancia ponderal
-T2	SINTOMA 209 229	cólicos del lactante
-T3	SINTOMA 1038 1121	efecto masa con desplazamiento de las asas intestinales hacia hemiabdomen izquierdo
-T4	SINTOMA 502 526	excelente estado general
-T5	SINTOMA 357 363	llanto
-T6	SINTOMA 149 179	llanto parcialmente consolable
-T7	SINTOMA 670 696	masa a nivel periumbilical
-T8	SINTOMA 1821 1838	masa multilocular
-T9	SINTOMA 976 1035	silencio abdominal (ausencia de gas) en hemiabdomen derecho
-T10	SINTOMA 488 495	afebril
-T11	SINTOMA 634 654	distensión abdominal
-T12	SINTOMA 849 855	vómito
+T1	ENFERMEDAD 885 907	obstrucción intestinal
+T2	ENFERMEDAD 2547 2578	linfagioma quístico mesentérico
+T3	ENFERMEDAD 2595 2621	masa quística multiseptada
+T4	ENFERMEDAD 1538 1566	masa quística intraabdominal
+T5	ENFERMEDAD 1908 1917	quísticos
+T6	ENFERMEDAD 1979 2013	linfangioma quístico de mesenterio
+T7	ENFERMEDAD 1238 1299	lesión focal ocupante de espacio de características quísticas
+T8	ENFERMEDAD 2089 2197	masa multiquística con contenido de líquido blanquecino que depende del mesenterio de un asa del íleon medio
+T9	PROCEDIMIENTO 2040 2057	laparotomía media
+T10	PROCEDIMIENTO 924 946	radiografía de abdomen
+T11	PROCEDIMIENTO 2073 2107	exéresis de una masa multiquística
+T12	PROCEDIMIENTO 1467 1503	resonancia magnética (RM) de abdomen
+T13	PROCEDIMIENTO 1489 1491	RM
+T14	PROCEDIMIENTO 2178 2208	asa del íleon medio. Se reseca
+T15	PROCEDIMIENTO 2178 2260	asa del íleon medio. Se reseca dicha asa y se realiza anastomosis término-terminal
+T16	PROCEDIMIENTO 1126 1167	ecografía muestra a nivel centroabdominal
+T17	PROCEDIMIENTO 1322 1335	Doppler color
+T18	PROCEDIMIENTO 601 619	exploración física
+T19	PROCEDIMIENTO 2500 2519	anatomía patológica
+T20	SINTOMA 976 1035	silencio abdominal (ausencia de gas) en hemiabdomen derecho
+T21	SINTOMA 149 179	llanto parcialmente consolable
+T22	SINTOMA 1038 1121	efecto masa con desplazamiento de las asas intestinales hacia hemiabdomen izquierdo
+T23	SINTOMA 209 229	cólicos del lactante
+T24	SINTOMA 357 363	llanto
+T25	SINTOMA 1821 1838	masa multilocular
+T26	SINTOMA 488 495	afebril
+T27	SINTOMA 537 563	adecuada ganancia ponderal
+T28	SINTOMA 634 654	distensión abdominal
+T29	SINTOMA 670 696	masa a nivel periumbilical
+T30	SINTOMA 849 855	vómito
+T31	SINTOMA 502 526	excelente estado general

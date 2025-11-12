@@ -1,70 +1,71 @@
-T1	SINTOMA 689 695	fiebre
-T2	SINTOMA 2427 2433	fiebre
-T3	SINTOMA 2456 2463	diarrea
-T4	SINTOMA 473 479	fiebre
-T5	SINTOMA 571 586	dolor abdominal
-T6	SINTOMA 2567 2579	asintomático
-T7	SINTOMA 832 853	irritación peritoneal
-T8	SINTOMA 762 816	abdomen discreta y difusamente doloroso a la palpación
-T9	SINTOMA 1216 1251	Ag. criptococo y Mantoux, negativos
-T10	SINTOMA 1142 1171	Anti Hbc y anti HBe positivos
-T11	SINTOMA 725 760	auscultación cardio-pulmonar normal
-T12	SINTOMA 588 607	cefalea holocraneal
-T13	SINTOMA 1719 1750	CMV en cultivo celular de orina
-T14	SINTOMA 1622 1656	CMV en cultivo de biopsia de colon
-T15	SINTOMA 2164 2180	edema vasogénico
-T16	SINTOMA 1490 1549	enteropatógenos y toxina de Clostridium difficile negativos
-T17	SINTOMA 872 891	esfínter conservado
-T18	SINTOMA 914 958	exploración neurológica rigurosamente normal
-T19	SINTOMA 1383 1410	Hemocultivos (X3) negativos
-T20	SINTOMA 1028 1140	hemograma, bioquímica sanguínea, estudio básico de coagulación, hormonas tiroideas y rutinario de orina normales
-T21	SINTOMA 1551 1611	jugo duodenal y biopsia de 2ª porción duodenal sin patógenos
-T22	SINTOMA 2389 2402	masa cerebral
-T23	SINTOMA 1974 1990	masa intra-axial
-T24	SINTOMA 1443 1488	negativo para cryptosporidium y microsporidia
-T25	SINTOMA 520 545	Pérdida de 2-3 Kg de peso
-T26	SINTOMA 1816 1926	Rx tórax, ecografía abdominal, esofago-gastroscopia, colonoscopia y tránsito gastrointestinal sin alteraciones
-T27	SINTOMA 1290 1309	Toxoplasma positivo
-T28	SINTOMA 1310 1322	VIH positivo
-T29	ENFERMEDAD 1778 1795	retinitis por CMV
-T30	ENFERMEDAD 2303 2320	infección por CMV
-T31	ENFERMEDAD 172 195	desgarro del canal anal
-T32	ENFERMEDAD 208 219	rectorragia
-T33	ENFERMEDAD 327 344	infección por VIH
-T34	ENFERMEDAD 2703 2725	toxoplasmosis cerebral
-T35	ENFERMEDAD 2229 2236	linfoma
-T36	ENFERMEDAD 283 298	hábitos tóxicos
-T37	ENFERMEDAD 2664 2670	lesión
-T38	ENFERMEDAD 2215 2228	toxoplasmosis
-T39	ENFERMEDAD 2102 2180	cápsula interna y ganglios basales izquierdos, con importante edema vasogénico
-T40	PROCEDIMIENTO 1028 1037	hemograma
-T41	PROCEDIMIENTO 1039 1059	bioquímica sanguínea
-T42	PROCEDIMIENTO 1061 1090	estudio básico de coagulación
-T43	PROCEDIMIENTO 1092 1110	hormonas tiroideas
-T44	PROCEDIMIENTO 1113 1131	rutinario de orina
-T45	PROCEDIMIENTO 1233 1240	Mantoux
-T46	PROCEDIMIENTO 1324 1329	ELISA
-T47	PROCEDIMIENTO 1332 1344	Western Blot
-T48	PROCEDIMIENTO 1355 1366	Carga Viral
-T49	PROCEDIMIENTO 1383 1395	Hemocultivos
-T50	PROCEDIMIENTO 1423 1442	parásitos en fresco
-T51	PROCEDIMIENTO 1567 1597	biopsia de 2ª porción duodenal
-T52	PROCEDIMIENTO 1640 1656	biopsia de colon
-T53	PROCEDIMIENTO 1752 1764	Fondo de ojo
-T54	PROCEDIMIENTO 1797 1814	Pruebas de imagen
-T55	PROCEDIMIENTO 1816 1824	Rx tórax
-T56	PROCEDIMIENTO 1826 1845	ecografía abdominal
-T57	PROCEDIMIENTO 1847 1867	esofago-gastroscopia
-T58	PROCEDIMIENTO 1869 1881	colonoscopia
-T59	PROCEDIMIENTO 1884 1909	tránsito gastrointestinal
-T60	PROCEDIMIENTO 1945 1956	TAC craneal
-T61	PROCEDIMIENTO 2249 2279	tratamiento con Ganciclovir IV
-T62	PROCEDIMIENTO 235 278	transfusión de dos concentrados de hematíes
-T63	PROCEDIMIENTO 2367 2380	corticoide IV
-T64	PROCEDIMIENTO 2595 2606	TAC craneal
-T65	PROCEDIMIENTO 618 640	anamnesis por aparatos
-T66	PROCEDIMIENTO 669 687	exploración física
-T67	PROCEDIMIENTO 725 753	auscultación cardio-pulmonar
-T68	PROCEDIMIENTO 807 816	palpación
-T69	PROCEDIMIENTO 855 867	tacto rectal
-T70	PROCEDIMIENTO 914 937	exploración neurológica
+T1	ENFERMEDAD 1778 1795	retinitis por CMV
+T2	ENFERMEDAD 2303 2320	infección por CMV
+T3	ENFERMEDAD 172 195	desgarro del canal anal
+T4	ENFERMEDAD 208 219	rectorragia
+T5	ENFERMEDAD 327 344	infección por VIH
+T6	ENFERMEDAD 2703 2725	toxoplasmosis cerebral
+T7	ENFERMEDAD 2229 2236	linfoma
+T8	ENFERMEDAD 283 298	hábitos tóxicos
+T9	ENFERMEDAD 2664 2670	lesión
+T10	ENFERMEDAD 2215 2228	toxoplasmosis
+T11	ENFERMEDAD 2102 2180	cápsula interna y ganglios basales izquierdos, con importante edema vasogénico
+T12	PROCEDIMIENTO 669 687	exploración física
+T13	PROCEDIMIENTO 2249 2279	tratamiento con Ganciclovir IV
+T14	PROCEDIMIENTO 725 753	auscultación cardio-pulmonar
+T15	PROCEDIMIENTO 1816 1824	Rx tórax
+T16	PROCEDIMIENTO 1826 1845	ecografía abdominal
+T17	PROCEDIMIENTO 1847 1867	esofago-gastroscopia
+T18	PROCEDIMIENTO 1869 1881	colonoscopia
+T19	PROCEDIMIENTO 2367 2380	corticoide IV
+T20	PROCEDIMIENTO 1884 1909	tránsito gastrointestinal
+T21	PROCEDIMIENTO 855 867	tacto rectal
+T22	PROCEDIMIENTO 1945 1956	TAC craneal
+T23	PROCEDIMIENTO 235 278	transfusión de dos concentrados de hematíes
+T24	PROCEDIMIENTO 914 937	exploración neurológica
+T25	PROCEDIMIENTO 2595 2606	TAC craneal
+T26	PROCEDIMIENTO 1383 1395	Hemocultivos
+T27	PROCEDIMIENTO 1567 1597	biopsia de 2ª porción duodenal
+T28	PROCEDIMIENTO 1640 1656	biopsia de colon
+T29	PROCEDIMIENTO 1752 1764	Fondo de ojo
+T30	PROCEDIMIENTO 1233 1240	Mantoux
+T31	PROCEDIMIENTO 1039 1059	bioquímica sanguínea
+T32	PROCEDIMIENTO 1061 1090	estudio básico de coagulación
+T33	PROCEDIMIENTO 1028 1037	hemograma
+T34	PROCEDIMIENTO 618 640	anamnesis por aparatos
+T35	PROCEDIMIENTO 1092 1110	hormonas tiroideas
+T36	PROCEDIMIENTO 1113 1131	rutinario de orina
+T37	PROCEDIMIENTO 1423 1442	parásitos en fresco
+T38	PROCEDIMIENTO 1324 1329	ELISA
+T39	PROCEDIMIENTO 1332 1344	Western Blot
+T40	PROCEDIMIENTO 1355 1366	Carga Viral
+T41	PROCEDIMIENTO 1797 1814	Pruebas de imagen
+T42	PROCEDIMIENTO 807 816	palpación
+T43	SINTOMA 689 695	fiebre
+T44	SINTOMA 725 760	auscultación cardio-pulmonar normal
+T45	SINTOMA 762 816	abdomen discreta y difusamente doloroso a la palpación
+T46	SINTOMA 136 151	agresión sexual
+T47	SINTOMA 2389 2402	masa cerebral
+T48	SINTOMA 2427 2433	fiebre
+T49	SINTOMA 2456 2463	diarrea
+T50	SINTOMA 1974 1990	masa intra-axial
+T51	SINTOMA 914 958	exploración neurológica rigurosamente normal
+T52	SINTOMA 1290 1309	Toxoplasma positivo
+T53	SINTOMA 1310 1322	VIH positivo
+T54	SINTOMA 473 479	fiebre
+T55	SINTOMA 520 545	Pérdida de 2-3 Kg de peso
+T56	SINTOMA 571 586	dolor abdominal
+T57	SINTOMA 588 607	cefalea holocraneal
+T58	SINTOMA 1622 1656	CMV en cultivo de biopsia de colon
+T59	SINTOMA 1719 1750	CMV en cultivo celular de orina
+T60	SINTOMA 2567 2579	asintomático
+T61	SINTOMA 832 853	irritación peritoneal
+T62	SINTOMA 872 891	esfínter conservado
+T63	SINTOMA 1142 1171	Anti Hbc y anti HBe positivos
+T64	SINTOMA 1383 1410	Hemocultivos (X3) negativos
+T65	SINTOMA 1443 1488	negativo para cryptosporidium y microsporidia
+T66	SINTOMA 1490 1549	enteropatógenos y toxina de Clostridium difficile negativos
+T67	SINTOMA 2164 2180	edema vasogénico
+T68	SINTOMA 1216 1251	Ag. criptococo y Mantoux, negativos
+T69	SINTOMA 1551 1611	jugo duodenal y biopsia de 2ª porción duodenal sin patógenos
+T70	SINTOMA 1816 1926	Rx tórax, ecografía abdominal, esofago-gastroscopia, colonoscopia y tránsito gastrointestinal sin alteraciones
+T71	SINTOMA 1028 1140	hemograma, bioquímica sanguínea, estudio básico de coagulación, hormonas tiroideas y rutinario de orina normales

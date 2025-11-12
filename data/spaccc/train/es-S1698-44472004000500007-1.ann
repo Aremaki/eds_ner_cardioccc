@@ -1,11 +1,27 @@
-T1	SINTOMA 967 1011	mucosa yugal derecha tenía un aspecto normal
-T2	ENFERMEDAD 88 110	caries del diente # 37
-T3	ENFERMEDAD 709 715	caries
-T4	ENFERMEDAD 2414 2431	liquen plano oral
-T5	ENFERMEDAD 2511 2536	dermatitis aguda-subaguda
-T6	ENFERMEDAD 1430 1450	reacciones alérgicas
-T7	ENFERMEDAD 1034 1040	lesión
-T8	ENFERMEDAD 1732 1738	lesión
-T9	ENFERMEDAD 1793 1799	lesión
-T10	ENFERMEDAD 1883 1889	lesión
-T11	ENFERMEDAD 2596 2602	lesión
+T1	ENFERMEDAD 88 110	caries del diente # 37
+T2	ENFERMEDAD 709 715	caries
+T3	ENFERMEDAD 2414 2431	liquen plano oral
+T4	ENFERMEDAD 2511 2536	dermatitis aguda-subaguda
+T5	ENFERMEDAD 1430 1450	reacciones alérgicas
+T6	ENFERMEDAD 1034 1040	lesión
+T7	ENFERMEDAD 1732 1738	lesión
+T8	ENFERMEDAD 1793 1799	lesión
+T9	ENFERMEDAD 1883 1889	lesión
+T10	ENFERMEDAD 2596 2602	lesión
+T11	PROCEDIMIENTO 1813 1820	biopsia
+T12	PROCEDIMIENTO 1837 1889	estudio anatomopatológico de la biopsia de la lesión
+T13	PROCEDIMIENTO 2665 2698	restauración de amalgama de plata
+T14	PROCEDIMIENTO 758 779	exploración intraoral
+T15	PROCEDIMIENTO 2841 2910	restauraciones de otros dientes se le realizaron con resina compuesta
+T16	PROCEDIMIENTO 924 962	molar restaurado con amalgama de plata
+T17	PROCEDIMIENTO 327 345	revisión intraoral
+T18	PROCEDIMIENTO 351 399	análisis de la radiografía periapical del diente
+T19	PROCEDIMIENTO 430 475	eliminación del tejido afectado por la caries
+T20	PROCEDIMIENTO 494 569	preparación cavitaria clase I de Black que se rellenó con amalgama de plata
+T21	PROCEDIMIENTO 1323 1347	restauración de amalgama
+T22	PROCEDIMIENTO 1538 1571	restauración de amalgama de plata
+T23	PROCEDIMIENTO 2365 2394	diagnóstico anatomopatológico
+T24	PROCEDIMIENTO 1746 1772	confirmar histológicamente
+T25	PROCEDIMIENTO 2450 2461	histológico
+T26	SINTOMA 795 962	zona atrófica, ligeramente eritematosa, en la mucosa yugal izquierda, justamente en la región de la mucosa que contactaba con el molar restaurado con amalgama de plata
+T27	SINTOMA 967 1011	mucosa yugal derecha tenía un aspecto normal

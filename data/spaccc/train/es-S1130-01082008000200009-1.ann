@@ -1,7 +1,11 @@
-T1	SINTOMA 616 643	alteraciones protrombóticas
-T2	SINTOMA 279 286	diarrea
-T3	SINTOMA 380 392	muerte fetal
-T4	ENFERMEDAD 47 65	enfermedad celiaca
-T5	ENFERMEDAD 155 198	enteropatía con atrofia vellocitaria severa
-T6	ENFERMEDAD 380 392	muerte fetal
-T7	ENFERMEDAD 616 643	alteraciones protrombóticas
+T1	ENFERMEDAD 47 65	enfermedad celiaca
+T2	ENFERMEDAD 155 198	enteropatía con atrofia vellocitaria severa
+T3	ENFERMEDAD 380 392	muerte fetal
+T4	ENFERMEDAD 616 643	alteraciones protrombóticas
+T5	PROCEDIMIENTO 134 150	biopsia duodenal
+T6	PROCEDIMIENTO 576 596	estudio hematológico
+T7	PROCEDIMIENTO 745 752	cesárea
+T8	PROCEDIMIENTO 241 262	dieta libre de gluten
+T9	SINTOMA 279 286	diarrea
+T10	SINTOMA 616 643	alteraciones protrombóticas
+T11	SINTOMA 380 392	muerte fetal

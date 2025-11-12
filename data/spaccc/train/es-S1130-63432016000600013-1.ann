@@ -1,5 +1,6 @@
-T1	SINTOMA 550 568	clínica mioclónica
-T2	SINTOMA 386 410	incapacidad para caminar
-T3	SINTOMA 325 383	temblor con componente mioclónico en extremidades y tronco
-T4	SINTOMA 317 323	mareos
-T5	ENFERMEDAD 38 51	hiperuricemia
+T1	ENFERMEDAD 38 51	hiperuricemia
+T2	PROCEDIMIENTO 114 148	resección transuretral de próstata
+T3	SINTOMA 317 323	mareos
+T4	SINTOMA 325 383	temblor con componente mioclónico en extremidades y tronco
+T5	SINTOMA 386 410	incapacidad para caminar
+T6	SINTOMA 550 568	clínica mioclónica

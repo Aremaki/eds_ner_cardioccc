@@ -1,18 +1,26 @@
-T1	SINTOMA 658 665	ascitis
-T2	SINTOMA 235 276	aumento paulatino del perímetro abdominal
-T3	SINTOMA 634 655	circulación colateral
-T4	SINTOMA 398 418	coagulación alterada
-T5	SINTOMA 301 334	edemas en extremidades inferiores
-T6	SINTOMA 743 785	estudio virológico para hepatitis negativo
-T7	ENFERMEDAD 49 70	tuberculosis pulmonar
-T8	ENFERMEDAD 984 1011	enfermedad pierde proteínas
-T9	ENFERMEDAD 1226 1245	hipertensión portal
-T10	ENFERMEDAD 581 600	esteatosis hepática
-T11	ENFERMEDAD 603 622	hipertensión portal
-T12	ENFERMEDAD 658 665	ascitis
-T13	ENFERMEDAD 823 841	varices esofágicas
-T14	ENFERMEDAD 865 880	hernia de hiato
-T15	ENFERMEDAD 883 930	gastropatía secundaria a la hipertensión portal
-T16	ENFERMEDAD 131 147	bebedor moderado
-T17	ENFERMEDAD 767 776	hepatitis
-T18	ENFERMEDAD 702 741	consumo excesivo de bebidas alcohólicas
+T1	ENFERMEDAD 49 70	tuberculosis pulmonar
+T2	ENFERMEDAD 984 1011	enfermedad pierde proteínas
+T3	ENFERMEDAD 1226 1245	hipertensión portal
+T4	ENFERMEDAD 581 600	esteatosis hepática
+T5	ENFERMEDAD 603 622	hipertensión portal
+T6	ENFERMEDAD 658 665	ascitis
+T7	ENFERMEDAD 823 841	varices esofágicas
+T8	ENFERMEDAD 865 880	hernia de hiato
+T9	ENFERMEDAD 883 930	gastropatía secundaria a la hipertensión portal
+T10	ENFERMEDAD 131 147	bebedor moderado
+T11	ENFERMEDAD 767 776	hepatitis
+T12	ENFERMEDAD 702 741	consumo excesivo de bebidas alcohólicas
+T13	PROCEDIMIENTO 525 544	ecografía abdominal
+T14	PROCEDIMIENTO 743 776	estudio virológico para hepatitis
+T15	PROCEDIMIENTO 794 806	gastroscopia
+T16	PROCEDIMIENTO 1338 1348	diuréticos
+T17	PROCEDIMIENTO 1263 1285	abstinencia de alcohol
+T18	PROCEDIMIENTO 1038 1058	aclaramiento de A1AT
+T19	PROCEDIMIENTO 375 384	analítica
+T20	PROCEDIMIENTO 1287 1335	complementos nutricionales hiperproteicos orales
+T21	SINTOMA 235 276	aumento paulatino del perímetro abdominal
+T22	SINTOMA 301 334	edemas en extremidades inferiores
+T23	SINTOMA 398 418	coagulación alterada
+T24	SINTOMA 634 655	circulación colateral
+T25	SINTOMA 743 785	estudio virológico para hepatitis negativo
+T26	SINTOMA 658 665	ascitis

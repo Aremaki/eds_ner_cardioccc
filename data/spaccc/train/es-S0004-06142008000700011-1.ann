@@ -1,6 +1,14 @@
-T1	SINTOMA 393 478	marcadores tumorales alfa-feto proteína, beta-HCG, resultaron dentro de la normalidad
-T2	SINTOMA 681 687	nódulo
-T3	SINTOMA 187 206	nódulo en testículo
-T4	SINTOMA 545 579	signos de sobreproducción hormonal
-T5	ENFERMEDAD 709 738	tumor fusiforme de bajo grado
-T6	ENFERMEDAD 986 1034	tumor fusiforme del estroma sexual no específico
+T1	ENFERMEDAD 709 738	tumor fusiforme de bajo grado
+T2	ENFERMEDAD 986 1034	tumor fusiforme del estroma sexual no específico
+T3	PROCEDIMIENTO 251 260	ecografía
+T4	PROCEDIMIENTO 648 671	biopsia intraoperatoria
+T5	PROCEDIMIENTO 90 100	vasectomía
+T6	PROCEDIMIENTO 802 843	orquiectomía radical derecha vía inguinal
+T7	PROCEDIMIENTO 504 522	exploración física
+T8	PROCEDIMIENTO 961 978	anatomopatológico
+T9	PROCEDIMIENTO 601 623	exploración quirúrgica
+T10	PROCEDIMIENTO 79 86	cirugía
+T11	SINTOMA 393 478	marcadores tumorales alfa-feto proteína, beta-HCG, resultaron dentro de la normalidad
+T12	SINTOMA 187 206	nódulo en testículo
+T13	SINTOMA 545 579	signos de sobreproducción hormonal
+T14	SINTOMA 681 687	nódulo

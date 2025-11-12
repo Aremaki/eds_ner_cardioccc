@@ -1,19 +1,29 @@
-T1	SINTOMA 570 602	abdomen doloroso de forma difusa
-T2	SINTOMA 130 159	afectación del estado general
-T3	SINTOMA 541 561	distensión abdominal
-T4	SINTOMA 161 176	dolor abdominal
-T5	SINTOMA 826 909	elevación discreta tanto de las cifras de bilirrubina como de las enzimas hepáticas
-T6	SINTOMA 122 128	fiebre
-T7	SINTOMA 805 818	hiperglucemia
-T8	SINTOMA 346 366	hipotensión arterial
-T9	SINTOMA 281 307	inestabilidad hemodinámica
-T10	SINTOMA 755 803	leucocitosis con importante desviación izquierda
-T11	SINTOMA 625 649	masa a nivel epigástrico
-T12	SINTOMA 1538 1556	material purulento
-T13	SINTOMA 178 185	náuseas
-T14	SINTOMA 316 335	taquicardia sinusal
-T15	SINTOMA 188 208	vómitos alimenticios
-T16	ENFERMEDAD 62 98	pancreatitis aguda de origen enólico
-T17	ENFERMEDAD 346 366	hipotensión arterial
-T18	ENFERMEDAD 977 1001	pseudoquiste pancreático
-T19	ENFERMEDAD 805 818	hiperglucemia
+T1	ENFERMEDAD 62 98	pancreatitis aguda de origen enólico
+T2	ENFERMEDAD 346 366	hipotensión arterial
+T3	ENFERMEDAD 977 1001	pseudoquiste pancreático
+T4	ENFERMEDAD 805 818	hiperglucemia
+T5	PROCEDIMIENTO 466 484	exploración física
+T6	PROCEDIMIENTO 1113 1134	drenaje transgástrico
+T7	PROCEDIMIENTO 1144 1157	ecoendoscopia
+T8	PROCEDIMIENTO 608 649	palpación de una masa a nivel epigástrico
+T9	PROCEDIMIENTO 1309 1327	drenaje percutáneo
+T10	PROCEDIMIENTO 1402 1423	evacuación quirúrgica
+T11	PROCEDIMIENTO 1484 1502	quistogastrostomía
+T12	PROCEDIMIENTO 949 962	TAC abdominal
+T13	PROCEDIMIENTO 1253 1263	endoscopio
+T14	PROCEDIMIENTO 1441 1474	marsupialización del pseudoquiste
+T15	SINTOMA 541 561	distensión abdominal
+T16	SINTOMA 122 128	fiebre
+T17	SINTOMA 161 176	dolor abdominal
+T18	SINTOMA 625 649	masa a nivel epigástrico
+T19	SINTOMA 178 185	náuseas
+T20	SINTOMA 805 818	hiperglucemia
+T21	SINTOMA 130 159	afectación del estado general
+T22	SINTOMA 281 307	inestabilidad hemodinámica
+T23	SINTOMA 316 335	taquicardia sinusal
+T24	SINTOMA 826 909	elevación discreta tanto de las cifras de bilirrubina como de las enzimas hepáticas
+T25	SINTOMA 755 803	leucocitosis con importante desviación izquierda
+T26	SINTOMA 346 366	hipotensión arterial
+T27	SINTOMA 570 602	abdomen doloroso de forma difusa
+T28	SINTOMA 1538 1556	material purulento
+T29	SINTOMA 188 208	vómitos alimenticios

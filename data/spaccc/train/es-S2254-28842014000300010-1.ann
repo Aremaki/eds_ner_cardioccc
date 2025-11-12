@@ -1,47 +1,47 @@
-T1	SINTOMA 1582 1647	aumento proteína C reactiva y velocidad de sedimentación globular
-T2	SINTOMA 1985 2020	compromiso de estructuras nerviosas
-T3	SINTOMA 1074 1124	control bacteriológico del monitor que es negativo
-T4	SINTOMA 2284 2334	disminución progresiva de reactantes de fase aguda
-T5	SINTOMA 1483 1501	lumbalgia mecánica
-T6	SINTOMA 843 861	lumbalgia postural
-T7	SINTOMA 1720 1760	microbiológicos positivos para S. aureus
-T8	SINTOMA 1511 1539	deterioro del estado general
-T9	SINTOMA 1291 1303	dolor lumbar
-T10	SINTOMA 1036 1052	malestar general
-T11	SINTOMA 1055 1061	fiebre
-T12	SINTOMA 2218 2223	dolor
-T13	SINTOMA 2247 2254	afebril
-T14	SINTOMA 2550 2557	estable
-T15	SINTOMA 1224 1231	estable
-T16	ENFERMEDAD 37 58	hipertensión arterial
-T17	ENFERMEDAD 61 71	dislipemia
-T18	ENFERMEDAD 86 107	cardiopatía isquémica
-T19	ENFERMEDAD 110 145	infarto agudo de miocardio inferior
-T20	ENFERMEDAD 155 178	arteriopatía periférica
-T21	ENFERMEDAD 249 320	isquemia aguda de extremidad inferior izquierda por oclusión de by-pass
-T22	ENFERMEDAD 1902 1927	espondilodiscitis D10-D11
-T23	ENFERMEDAD 1942 1963	absceso paravertebral
-T24	ENFERMEDAD 447 474	Insuficiencia renal crónica
-T25	ENFERMEDAD 501 520	nefroangiosclerosis
-T26	PROCEDIMIENTO 1074 1108	control bacteriológico del monitor
-T27	PROCEDIMIENTO 1189 1200	antitérmico
-T28	PROCEDIMIENTO 1415 1461	exploración, radiografía y ecografía abdominal
-T29	PROCEDIMIENTO 1709 1735	resultados microbiológicos
-T30	PROCEDIMIENTO 1783 1794	antibiótico
-T31	PROCEDIMIENTO 1848 1876	resonancia nuclear magnética
-T32	PROCEDIMIENTO 1878 1881	RNM
-T33	PROCEDIMIENTO 198 221	by-pass aorto bifemoral
-T34	PROCEDIMIENTO 2032 2083	tratamiento analgésico con fármacos de primer nivel
-T35	PROCEDIMIENTO 2096 2118	opiáceos transdérmicos
-T36	PROCEDIMIENTO 2310 2334	reactantes de fase aguda
-T37	PROCEDIMIENTO 2355 2367	hemocultivos
-T38	PROCEDIMIENTO 2407 2430	antibiótico intravenoso
-T39	PROCEDIMIENTO 2603 2612	analgesia
-T40	PROCEDIMIENTO 2660 2663	RNM
-T41	PROCEDIMIENTO 334 376	revascularización urgente con trombectomia
-T42	PROCEDIMIENTO 406 418	hemodiálisis
-T43	PROCEDIMIENTO 536 564	FAVI radiocefálica izquierda
-T44	PROCEDIMIENTO 565 615	se le coloca un catéter temporal yugular izquierdo
-T45	PROCEDIMIENTO 728 758	FAVI húmero cefálica izquierda
-T46	PROCEDIMIENTO 770 792	colocación del catéter
-T47	PROCEDIMIENTO 943 963	retirada del catéter
+T1	ENFERMEDAD 37 58	hipertensión arterial
+T2	ENFERMEDAD 61 71	dislipemia
+T3	ENFERMEDAD 86 107	cardiopatía isquémica
+T4	ENFERMEDAD 110 145	infarto agudo de miocardio inferior
+T5	ENFERMEDAD 155 178	arteriopatía periférica
+T6	ENFERMEDAD 249 320	isquemia aguda de extremidad inferior izquierda por oclusión de by-pass
+T7	ENFERMEDAD 1902 1927	espondilodiscitis D10-D11
+T8	ENFERMEDAD 1942 1963	absceso paravertebral
+T9	ENFERMEDAD 447 474	Insuficiencia renal crónica
+T10	ENFERMEDAD 501 520	nefroangiosclerosis
+T11	PROCEDIMIENTO 536 564	FAVI radiocefálica izquierda
+T12	PROCEDIMIENTO 943 963	retirada del catéter
+T13	PROCEDIMIENTO 565 615	se le coloca un catéter temporal yugular izquierdo
+T14	PROCEDIMIENTO 2096 2118	opiáceos transdérmicos
+T15	PROCEDIMIENTO 2355 2367	hemocultivos
+T16	PROCEDIMIENTO 1415 1461	exploración, radiografía y ecografía abdominal
+T17	PROCEDIMIENTO 2407 2430	antibiótico intravenoso
+T18	PROCEDIMIENTO 198 221	by-pass aorto bifemoral
+T19	PROCEDIMIENTO 728 758	FAVI húmero cefálica izquierda
+T20	PROCEDIMIENTO 1189 1200	antitérmico
+T21	PROCEDIMIENTO 1783 1794	antibiótico
+T22	PROCEDIMIENTO 334 376	revascularización urgente con trombectomia
+T23	PROCEDIMIENTO 1848 1876	resonancia nuclear magnética
+T24	PROCEDIMIENTO 1878 1881	RNM
+T25	PROCEDIMIENTO 2603 2612	analgesia
+T26	PROCEDIMIENTO 406 418	hemodiálisis
+T27	PROCEDIMIENTO 2660 2663	RNM
+T28	PROCEDIMIENTO 2310 2334	reactantes de fase aguda
+T29	PROCEDIMIENTO 2032 2083	tratamiento analgésico con fármacos de primer nivel
+T30	PROCEDIMIENTO 1074 1108	control bacteriológico del monitor
+T31	PROCEDIMIENTO 770 792	colocación del catéter
+T32	PROCEDIMIENTO 1709 1735	resultados microbiológicos
+T33	SINTOMA 1511 1539	deterioro del estado general
+T34	SINTOMA 1291 1303	dolor lumbar
+T35	SINTOMA 843 861	lumbalgia postural
+T36	SINTOMA 1036 1052	malestar general
+T37	SINTOMA 1055 1061	fiebre
+T38	SINTOMA 2218 2223	dolor
+T39	SINTOMA 1720 1760	microbiológicos positivos para S. aureus
+T40	SINTOMA 2247 2254	afebril
+T41	SINTOMA 1074 1124	control bacteriológico del monitor que es negativo
+T42	SINTOMA 1582 1647	aumento proteína C reactiva y velocidad de sedimentación globular
+T43	SINTOMA 1985 2020	compromiso de estructuras nerviosas
+T44	SINTOMA 2550 2557	estable
+T45	SINTOMA 1483 1501	lumbalgia mecánica
+T46	SINTOMA 2284 2334	disminución progresiva de reactantes de fase aguda
+T47	SINTOMA 1224 1231	estable

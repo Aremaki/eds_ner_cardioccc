@@ -1,25 +1,40 @@
-T1	SINTOMA 663 673	bradifasia
-T2	SINTOMA 1070 1142	exploración física, radiografía de abdomen y electrocardiograma normales
-T3	SINTOMA 1690 1721	gammagrafía ósea, que es normal
-T4	SINTOMA 1769 1801	masa en fondo de saco de Douglas
-T5	SINTOMA 1922 1954	masa en fondo de saco de Douglas
-T6	SINTOMA 743 753	polidipsia
-T7	SINTOMA 575 582	astenia
-T8	SINTOMA 584 592	anorexia
-T9	SINTOMA 595 604	debilidad
-T10	SINTOMA 646 660	desorientación
-T11	SINTOMA 722 730	poliuria
-T12	SINTOMA 732 740	nicturia
-T13	SINTOMA 707 720	estreñimiento
-T14	SINTOMA 1577 1607	marcadores tumorales negativos
-T15	SINTOMA 534 553	libre de enfermedad
-T16	ENFERMEDAD 1162 1185	síndrome hipercalcémico
-T17	ENFERMEDAD 1641 1658	neoplasia uterina
-T18	ENFERMEDAD 59 80	hipertensión arterial
-T19	ENFERMEDAD 86 150	carcinoma de endometrio mixto, endometrioide y de células claras
-T20	ENFERMEDAD 1769 1801	masa en fondo de saco de Douglas
-T21	ENFERMEDAD 167 169	M0
-T22	ENFERMEDAD 1822 1854	implantes tumorales peritoneales
-T23	ENFERMEDAD 1857 1878	metástasis pulmonares
-T24	ENFERMEDAD 1973 2009	recidiva de su enfermedad neoplásica
-T25	ENFERMEDAD 228 240	metrorragias
+T1	ENFERMEDAD 1162 1185	síndrome hipercalcémico
+T2	ENFERMEDAD 1641 1658	neoplasia uterina
+T3	ENFERMEDAD 59 80	hipertensión arterial
+T4	ENFERMEDAD 86 150	carcinoma de endometrio mixto, endometrioide y de células claras
+T5	ENFERMEDAD 1769 1801	masa en fondo de saco de Douglas
+T6	ENFERMEDAD 167 169	M0
+T7	ENFERMEDAD 1822 1854	implantes tumorales peritoneales
+T8	ENFERMEDAD 1857 1878	metástasis pulmonares
+T9	ENFERMEDAD 1973 2009	recidiva de su enfermedad neoplásica
+T10	ENFERMEDAD 228 240	metrorragias
+T11	PROCEDIMIENTO 1201 1214	rehidratación
+T12	PROCEDIMIENTO 1690 1706	gammagrafía ósea
+T13	PROCEDIMIENTO 1728 1752	TAC torácico y abdominal
+T14	PROCEDIMIENTO 1070 1088	exploración física
+T15	PROCEDIMIENTO 1090 1112	radiografía de abdomen
+T16	PROCEDIMIENTO 1115 1133	electrocardiograma
+T17	PROCEDIMIENTO 1577 1597	marcadores tumorales
+T18	PROCEDIMIENTO 271 284	histerectomía
+T19	PROCEDIMIENTO 1895 1954	biopsia transvaginal de la masa en fondo de saco de Douglas
+T20	PROCEDIMIENTO 289 310	anexectomía bilateral
+T21	PROCEDIMIENTO 313 336	linfadenectomía pélvica
+T22	PROCEDIMIENTO 369 382	braquiterapia
+T23	PROCEDIMIENTO 2056 2075	cuidados paliativos
+T24	PROCEDIMIENTO 762 771	analítica
+T25	PROCEDIMIENTO 943 952	analítica
+T26	SINTOMA 575 582	astenia
+T27	SINTOMA 584 592	anorexia
+T28	SINTOMA 595 604	debilidad
+T29	SINTOMA 646 660	desorientación
+T30	SINTOMA 663 673	bradifasia
+T31	SINTOMA 722 730	poliuria
+T32	SINTOMA 732 740	nicturia
+T33	SINTOMA 743 753	polidipsia
+T34	SINTOMA 707 720	estreñimiento
+T35	SINTOMA 1070 1142	exploración física, radiografía de abdomen y electrocardiograma normales
+T36	SINTOMA 1577 1607	marcadores tumorales negativos
+T37	SINTOMA 1690 1721	gammagrafía ósea, que es normal
+T38	SINTOMA 1769 1801	masa en fondo de saco de Douglas
+T39	SINTOMA 1922 1954	masa en fondo de saco de Douglas
+T40	SINTOMA 534 553	libre de enfermedad

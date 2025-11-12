@@ -1,22 +1,37 @@
-T1	SINTOMA 1080 1102	deambulación sin ayuda
-T2	SINTOMA 255 273	dolor en las manos
-T3	SINTOMA 690 712	dolores en las muñecas
-T4	SINTOMA 956 968	emite gritos
-T5	SINTOMA 998 1034	escucha y atiende cuando se le habla
-T6	SINTOMA 1534 1585	gemidos ante la movilización repetida de esa muñeca
-T7	SINTOMA 1932 1949	lesiones carpales
-T8	SINTOMA 181 195	llanto inusual
-T9	SINTOMA 618 646	problema óseo en las muñecas
-T10	SINTOMA 518 555	radiografía normal de manos y muñecas
-T11	SINTOMA 442 472	síntomas del aparato locomotor
-T12	SINTOMA 1036 1062	sonriendo con las caricias
-T13	SINTOMA 1320 1360	valores de presión arterial son normales
-T14	SINTOMA 1391 1409	rasgos dismórficos
-T15	SINTOMA 1496 1516	signos inflamatorios
-T16	SINTOMA 1181 1193	espasticidad
+T1	ENFERMEDAD 938 954	daño neurológico
+T2	ENFERMEDAD 1966 1985	osteólisis carpiana
+T3	ENFERMEDAD 37 130	daño neurológico grave secundario a accidente cerebrovascular agudo (ACV) isquémico perinatal
+T4	ENFERMEDAD 1988 2022	lesiones en el escafoides tarsiano
+T5	ENFERMEDAD 2132 2219	osteólisis multicéntrica carpotarsal de transmisión autosómica dominante sin nefropatía
+T6	ENFERMEDAD 106 109	ACV
+T7	ENFERMEDAD 1869 1897	ausencia bilateral del carpo
+T8	ENFERMEDAD 1108 1157	hemiplejia izquierda derivada de su ACV perinatal
+T9	ENFERMEDAD 1144 1157	ACV perinatal
+T10	ENFERMEDAD 403 419	daño neurológico
+T11	ENFERMEDAD 486 513	artritis crónica idiopática
+T12	ENFERMEDAD 618 646	problema óseo en las muñecas
+T13	ENFERMEDAD 747 781	no tiene los huesos de las muñecas
+T14	ENFERMEDAD 2132 2204	osteólisis multicéntrica carpotarsal de transmisión autosómica dominante
+T15	ENFERMEDAD 1391 1409	rasgos dismórficos
+T16	PROCEDIMIENTO 885 903	exploración física
 T17	PROCEDIMIENTO 1198 1210	somatometría
-T18	PROCEDIMIENTO 1841 1852	radiografía
-T19	PROCEDIMIENTO 1903 1914	radiografía
-T20	PROCEDIMIENTO 355 372	esteroides orales
-T21	PROCEDIMIENTO 518 555	radiografía normal de manos y muñecas
-T22	PROCEDIMIENTO 885 903	exploración física
+T18	PROCEDIMIENTO 355 372	esteroides orales
+T19	PROCEDIMIENTO 518 555	radiografía normal de manos y muñecas
+T20	PROCEDIMIENTO 1841 1852	radiografía
+T21	PROCEDIMIENTO 1903 1914	radiografía
+T22	SINTOMA 1932 1949	lesiones carpales
+T23	SINTOMA 618 646	problema óseo en las muñecas
+T24	SINTOMA 690 712	dolores en las muñecas
+T25	SINTOMA 255 273	dolor en las manos
+T26	SINTOMA 442 472	síntomas del aparato locomotor
+T27	SINTOMA 1391 1409	rasgos dismórficos
+T28	SINTOMA 1496 1516	signos inflamatorios
+T29	SINTOMA 1534 1585	gemidos ante la movilización repetida de esa muñeca
+T30	SINTOMA 181 195	llanto inusual
+T31	SINTOMA 518 555	radiografía normal de manos y muñecas
+T32	SINTOMA 956 968	emite gritos
+T33	SINTOMA 1181 1193	espasticidad
+T34	SINTOMA 998 1034	escucha y atiende cuando se le habla
+T35	SINTOMA 1036 1062	sonriendo con las caricias
+T36	SINTOMA 1080 1102	deambulación sin ayuda
+T37	SINTOMA 1320 1360	valores de presión arterial son normales

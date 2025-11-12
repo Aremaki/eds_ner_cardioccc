@@ -1,8 +1,8 @@
-T1	SINTOMA 217 256	aumento difuso del tamaño del testículo
-T2	SINTOMA 38 61	masa y dolor testicular
-T3	SINTOMA 400 429	testículo aumentado de tamaño
-T4	ENFERMEDAD 500 586	infiltración difusa del parénquima testicular por una neoplasia maligna hematolinfoide
-T5	ENFERMEDAD 902 949	Linfoma no Hodgkin T periférico no especificado
-T6	PROCEDIMIENTO 186 206	ecografía testicular
-T7	PROCEDIMIENTO 374 387	orquidectomia
-T8	PROCEDIMIENTO 460 483	estudio histopatologico
+T1	ENFERMEDAD 500 586	infiltración difusa del parénquima testicular por una neoplasia maligna hematolinfoide
+T2	ENFERMEDAD 902 949	Linfoma no Hodgkin T periférico no especificado
+T3	PROCEDIMIENTO 186 206	ecografía testicular
+T4	PROCEDIMIENTO 374 387	orquidectomia
+T5	PROCEDIMIENTO 460 483	estudio histopatologico
+T6	SINTOMA 38 61	masa y dolor testicular
+T7	SINTOMA 400 429	testículo aumentado de tamaño
+T8	SINTOMA 217 256	aumento difuso del tamaño del testículo

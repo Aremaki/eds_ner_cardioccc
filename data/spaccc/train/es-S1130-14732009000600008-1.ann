@@ -1,23 +1,34 @@
-T1	SINTOMA 174 203	cefalea hemicraneal izquierda
-T2	SINTOMA 637 665	cuarto ventrículo era normal
-T3	SINTOMA 455 492	dilatación ventricular supratentorial
-T4	SINTOMA 363 388	edema de papila bilateral
-T5	SINTOMA 1282 1324	efecto de masa sobre el ventrículo lateral
-T6	SINTOMA 263 270	cefalea
-T7	SINTOMA 1682 1689	cefalea
-T8	SINTOMA 1075 1082	cefalea
-T9	SINTOMA 1725 1737	asintomático
-T10	PROCEDIMIENTO 1105 1112	cirugía
-T11	PROCEDIMIENTO 1175 1177	RM
-T12	PROCEDIMIENTO 1368 1398	craneotomía parietal izquierda
-T13	PROCEDIMIENTO 1523 1543	drenaje del hematoma
-T14	PROCEDIMIENTO 1551 1601	coagulación de una pequeña arteria dural sangrante
-T15	PROCEDIMIENTO 1704 1711	cirugía
-T16	PROCEDIMIENTO 1795 1797	RM
-T17	PROCEDIMIENTO 316 339	exploración neurológica
-T18	PROCEDIMIENTO 413 433	resonancia magnética
-T19	PROCEDIMIENTO 435 437	RM
-T20	PROCEDIMIENTO 67 90	intervención quirúrgica
-T21	PROCEDIMIENTO 750 784	agujero de trépano frontal derecho
+T1	ENFERMEDAD 690 723	estenosis del acueducto de Silvio
+T2	ENFERMEDAD 455 492	dilatación ventricular supratentorial
+T3	ENFERMEDAD 95 107	hidrocefalia
+T4	ENFERMEDAD 174 193	cefalea hemicraneal
+T5	ENFERMEDAD 363 388	edema de papila bilateral
+T6	ENFERMEDAD 1743 1756	lesión tectal
+T7	ENFERMEDAD 1225 1277	hematoma epidural de localización parietal izquierda
+T8	ENFERMEDAD 1535 1543	hematoma
+T9	ENFERMEDAD 584 597	lesión tectal
+T10	ENFERMEDAD 1430 1479	perforación que atravesaba la totalidad del hueso
+T11	ENFERMEDAD 1578 1601	arteria dural sangrante
+T12	PROCEDIMIENTO 413 433	resonancia magnética
+T13	PROCEDIMIENTO 1368 1398	craneotomía parietal izquierda
+T14	PROCEDIMIENTO 435 437	RM
+T15	PROCEDIMIENTO 750 784	agujero de trépano frontal derecho
+T16	PROCEDIMIENTO 1523 1543	drenaje del hematoma
+T17	PROCEDIMIENTO 874 934	inmovilización de la cabeza se empleó un cabezal de Mayfield
+T18	PROCEDIMIENTO 1551 1601	coagulación de una pequeña arteria dural sangrante
+T19	PROCEDIMIENTO 1795 1797	RM
+T20	PROCEDIMIENTO 1175 1177	RM
+T21	PROCEDIMIENTO 316 339	exploración neurológica
 T22	PROCEDIMIENTO 790 837	ventriculocisternostomía premamilar endoscópica
-T23	PROCEDIMIENTO 874 934	inmovilización de la cabeza se empleó un cabezal de Mayfield
+T23	PROCEDIMIENTO 67 90	intervención quirúrgica
+T24	PROCEDIMIENTO 1105 1112	cirugía
+T25	PROCEDIMIENTO 1704 1711	cirugía
+T26	SINTOMA 263 270	cefalea
+T27	SINTOMA 1682 1689	cefalea
+T28	SINTOMA 1075 1082	cefalea
+T29	SINTOMA 1282 1324	efecto de masa sobre el ventrículo lateral
+T30	SINTOMA 1725 1737	asintomático
+T31	SINTOMA 637 665	cuarto ventrículo era normal
+T32	SINTOMA 363 388	edema de papila bilateral
+T33	SINTOMA 174 203	cefalea hemicraneal izquierda
+T34	SINTOMA 455 492	dilatación ventricular supratentorial

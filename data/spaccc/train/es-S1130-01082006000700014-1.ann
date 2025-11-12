@@ -1,22 +1,32 @@
-T1	SINTOMA 1113 1120	astenia
-T2	SINTOMA 148 155	astenia
-T3	SINTOMA 1123 1152	disnea de moderados esfuerzos
-T4	SINTOMA 652 693	hígado heteroecoico, superficie irregular
-T5	SINTOMA 1355 1409	paso de suero desde la aurícula derecha a la izquierda
-T6	SINTOMA 730 745	Porta permeable
-T7	SINTOMA 1560 1568	sangrado
-T8	SINTOMA 1760 1768	sangrado
-T9	SINTOMA 1862 1870	sangrado
-T10	SINTOMA 336 367	spiders en región nasal y tórax
-T11	SINTOMA 1573 1604	spiders localizados en el tórax
-T12	ENFERMEDAD 21 61	infección por el virus de la hepatitis C
-T13	ENFERMEDAD 1174 1197	síndrome hepatopulmonar
-T14	ENFERMEDAD 303 317	esplenomegalia
-T15	ENFERMEDAD 1490 1513	síndrome hepatopulmonar
-T16	ENFERMEDAD 801 819	varices esofágicas
-T17	ENFERMEDAD 847 881	gastropatía de hipertensión portal
-T18	ENFERMEDAD 174 219	lesiones cutáneas en tórax y cara que sangran
-T19	ENFERMEDAD 336 367	spiders en región nasal y tórax
-T20	ENFERMEDAD 801 832	varices esofágicas ni gástricas
-T21	ENFERMEDAD 1573 1604	spiders localizados en el tórax
-T22	ENFERMEDAD 1902 1910	lesiones
+T1	ENFERMEDAD 21 61	infección por el virus de la hepatitis C
+T2	ENFERMEDAD 1174 1197	síndrome hepatopulmonar
+T3	ENFERMEDAD 303 317	esplenomegalia
+T4	ENFERMEDAD 1490 1513	síndrome hepatopulmonar
+T5	ENFERMEDAD 801 819	varices esofágicas
+T6	ENFERMEDAD 847 881	gastropatía de hipertensión portal
+T7	ENFERMEDAD 174 219	lesiones cutáneas en tórax y cara que sangran
+T8	ENFERMEDAD 336 367	spiders en región nasal y tórax
+T9	ENFERMEDAD 801 832	varices esofágicas ni gástricas
+T10	ENFERMEDAD 1573 1604	spiders localizados en el tórax
+T11	ENFERMEDAD 1902 1910	lesiones
+T12	PROCEDIMIENTO 1627 1640	cauterización
+T13	PROCEDIMIENTO 1213 1232	gasometría arterial
+T14	PROCEDIMIENTO 1235 1247	espirometría
+T15	PROCEDIMIENTO 1301 1338	ecocardiograma con contraste sonicado
+T16	PROCEDIMIENTO 269 287	exploración física
+T17	PROCEDIMIENTO 631 650	Ecografía abdominal
+T18	PROCEDIMIENTO 771 796	Endoscopia digestiva alta
+T19	PROCEDIMIENTO 80 91	carga viral
+T20	PROCEDIMIENTO 1669 1691	extirpación quirúrgica
+T21	PROCEDIMIENTO 375 384	analítica
+T22	SINTOMA 1573 1604	spiders localizados en el tórax
+T23	SINTOMA 1113 1120	astenia
+T24	SINTOMA 148 155	astenia
+T25	SINTOMA 1123 1152	disnea de moderados esfuerzos
+T26	SINTOMA 1560 1568	sangrado
+T27	SINTOMA 1760 1768	sangrado
+T28	SINTOMA 1355 1409	paso de suero desde la aurícula derecha a la izquierda
+T29	SINTOMA 336 367	spiders en región nasal y tórax
+T30	SINTOMA 1862 1870	sangrado
+T31	SINTOMA 652 693	hígado heteroecoico, superficie irregular
+T32	SINTOMA 730 745	Porta permeable

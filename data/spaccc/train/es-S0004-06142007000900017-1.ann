@@ -1,24 +1,55 @@
-T1	SINTOMA 982 992	consciente
-T2	SINTOMA 904 912	diplopía
-T3	SINTOMA 994 1003	orientado
-T4	SINTOMA 3119 3135	proptosis ocular
-T5	SINTOMA 1959 1975	proptosis ocular
-T6	SINTOMA 1031 1047	ptosis palpebral
-T7	SINTOMA 70 86	ptosis palpebral
-T8	SINTOMA 838 854	ptosis palpebral
-T9	SINTOMA 749 778	adormecimiento facial derecho
-T10	SINTOMA 1176 1238	alteraciones en la sensibilidad de la mitad derecha de la cara
-T11	SINTOMA 2447 2470	alteraciones viscerales
-T12	SINTOMA 1006 1017	colaborador
-T13	SINTOMA 50 67	disestesia facial
-T14	SINTOMA 914 936	dolor facial ni ocular
-T15	SINTOMA 1262 1311	exploración neurológica motora y sensitiva normal
-T16	SINTOMA 2167 2207	invasión del espacio extraconal inferior
-T17	SINTOMA 1997 2038	masa expansiva localizada en seno maxilar
-T18	SINTOMA 1522 1563	masa orbitaria de localización extraconal
-T19	SINTOMA 1865 1921	obliteración de la grasa de la grasa extraconal superior
-T20	SINTOMA 1685 1734	ocupación del seno frontal izquierdo por una masa
-T21	SINTOMA 99 125	proptosis del globo ocular
-T22	SINTOMA 873 890	protrusión ocular
-T23	SINTOMA 1780 1824	reborde orbitario superior permanece íntegro
-T24	SINTOMA 2267 2305	senos cavernosos se encontraban libres
+T1	ENFERMEDAD 333 358	adenocarcinoma prostático
+T2	ENFERMEDAD 2490 2568	metástasis de adenocarcinoma prostático en seno maxilar derecho y seno frontal
+T3	ENFERMEDAD 169 190	hipertensión arterial
+T4	ENFERMEDAD 2705 2712	ceguera
+T5	ENFERMEDAD 1483 1519	lesiones isquémicas supratentoriales
+T6	ENFERMEDAD 70 86	ptosis palpebral
+T7	ENFERMEDAD 2403 2441	infiltración blástico-lítica vertebral
+T8	ENFERMEDAD 229 243	ulcus duodenal
+T9	ENFERMEDAD 1031 1047	ptosis palpebral
+T10	ENFERMEDAD 838 854	ptosis palpebral
+T11	ENFERMEDAD 264 282	poliposis laríngea
+T12	ENFERMEDAD 3119 3128	proptosis
+T13	ENFERMEDAD 1117 1154	paresia del III y VI pares izquierdos
+T14	ENFERMEDAD 499 515	metástasis óseas
+T15	ENFERMEDAD 904 912	diplopía
+T16	ENFERMEDAD 2121 2164	interrupción del suelo de la órbita derecha
+T17	ENFERMEDAD 1959 1968	proptosis
+T18	ENFERMEDAD 99 108	proptosis
+T19	ENFERMEDAD 873 890	protrusión ocular
+T20	ENFERMEDAD 1062 1076	salida del ojo
+T21	ENFERMEDAD 2584 2615	afectación orbitaria extraconal
+T22	PROCEDIMIENTO 944 962	exploración física
+T23	PROCEDIMIENTO 2314 2368	tomografía axial computerizada toraco-abdomino-pélvica
+T24	PROCEDIMIENTO 1442 1466	RMN cerebral y angio RMN
+T25	PROCEDIMIENTO 2669 2687	radioterapia local
+T26	PROCEDIMIENTO 333 387	adenocarcinoma prostático mediante biopsia ecodirigida
+T27	PROCEDIMIENTO 2772 2788	análogo de lh-rh
+T28	PROCEDIMIENTO 462 474	rastreo óseo
+T29	PROCEDIMIENTO 563 580	análogos de lh-rh
+T30	PROCEDIMIENTO 3275 3278	RMN
+T31	PROCEDIMIENTO 1262 1304	exploración neurológica motora y sensitiva
+T32	SINTOMA 749 778	adormecimiento facial derecho
+T33	SINTOMA 982 992	consciente
+T34	SINTOMA 50 67	disestesia facial
+T35	SINTOMA 994 1003	orientado
+T36	SINTOMA 914 936	dolor facial ni ocular
+T37	SINTOMA 1176 1238	alteraciones en la sensibilidad de la mitad derecha de la cara
+T38	SINTOMA 1685 1734	ocupación del seno frontal izquierdo por una masa
+T39	SINTOMA 1865 1921	obliteración de la grasa de la grasa extraconal superior
+T40	SINTOMA 1959 1975	proptosis ocular
+T41	SINTOMA 1997 2038	masa expansiva localizada en seno maxilar
+T42	SINTOMA 2267 2305	senos cavernosos se encontraban libres
+T43	SINTOMA 2447 2470	alteraciones viscerales
+T44	SINTOMA 1522 1563	masa orbitaria de localización extraconal
+T45	SINTOMA 1006 1017	colaborador
+T46	SINTOMA 1780 1824	reborde orbitario superior permanece íntegro
+T47	SINTOMA 2167 2207	invasión del espacio extraconal inferior
+T48	SINTOMA 904 912	diplopía
+T49	SINTOMA 838 854	ptosis palpebral
+T50	SINTOMA 1031 1047	ptosis palpebral
+T51	SINTOMA 873 890	protrusión ocular
+T52	SINTOMA 1262 1311	exploración neurológica motora y sensitiva normal
+T53	SINTOMA 70 86	ptosis palpebral
+T54	SINTOMA 99 125	proptosis del globo ocular
+T55	SINTOMA 3119 3135	proptosis ocular

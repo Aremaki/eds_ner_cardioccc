@@ -1,55 +1,76 @@
-T1	SINTOMA 1133 1155	afectación linfomatosa
-T2	SINTOMA 2451 2579	anticuerpos antinucleares (ANA), anticitoplasma de neutrófilos (ANCA), anti-ADN y antimembrana basal glomerular fueron negativos
-T3	SINTOMA 662 674	asintomática
-T4	SINTOMA 796 834	auscultación cardiopulmonar era normal
-T5	SINTOMA 975 1010	buena diferenciación corticomedular
-T6	SINTOMA 3008 3041	cadenas ligeras en orina negativa
-T7	SINTOMA 2697 2719	complemento fue normal
-T8	SINTOMA 547 587	deterioro importante de su función renal
-T9	SINTOMA 721 727	edemas
-T10	SINTOMA 2045 2055	granulomas
-T11	SINTOMA 1557 1594	inflamación granulomatosa epitelioide
-T12	SINTOMA 1819 1886	lavado broncoalveolar evidenció una moderada cantidad de linfocitos
-T13	SINTOMA 1891 1920	lavado bronquial fue negativo
-T14	SINTOMA 1776 1814	lesiones macroscópicas en la vía aérea
-T15	SINTOMA 4131 4158	mejoría de la función renal
-T16	SINTOMA 3378 3392	microhematuria
-T17	SINTOMA 1607 1623	necrosis caseosa
-T18	SINTOMA 3769 3844	No se observaron microorganismos en las tinciones de PAS y de Ziehl-Nielsen
-T19	SINTOMA 1321 1349	nódulos pulmonares múltiples
-T20	SINTOMA 3364 3375	proteinuria
-T21	SINTOMA 242 283	prueba de la tuberculina cutánea positiva
-T22	SINTOMA 2303 2333	quantiFERON), que fue positivo
-T23	SINTOMA 3279 3321	riñones de tamaño y ecoestructura normales
-T24	SINTOMA 731 790	se palpaban adenopatías laterocervicales o retroauriculares
-T25	SINTOMA 2584 2692	serología viral fue negativa para el virus de la inmunodeficiencia humana y los virus de las hepatitis B y C
-T26	SINTOMA 1631 1685	tinción de Ziehl-Nielsen se observaban escasos bacilos
-T27	PROCEDIMIENTO 1241 1294	tomografía computarizada (TC) tóraco-abdomino-pélvica
-T28	PROCEDIMIENTO 1499 1533	biopsia de una adenopatía cervical
-T29	PROCEDIMIENTO 1631 1655	tinción de Ziehl-Nielsen
-T30	PROCEDIMIENTO 1730 1747	fibrobroncoscopia
-T31	PROCEDIMIENTO 1819 1840	lavado broncoalveolar
-T32	PROCEDIMIENTO 1891 1907	lavado bronquial
-T33	PROCEDIMIENTO 1927 2006	punción-aspiración con aguja fina transbronquial de una adenopatía mediastínica
-T34	PROCEDIMIENTO 2060 2076	tinción de Ziehl
+T1	ENFERMEDAD 3223 3248	insuficiencia renal grave
+T2	ENFERMEDAD 48 66	síndrome depresivo
+T3	ENFERMEDAD 3096 3117	hipertensión arterial
+T4	ENFERMEDAD 69 95	estenosis del canal lumbar
+T5	ENFERMEDAD 4174 4180	anemia
+T6	ENFERMEDAD 3141 3159	sobrecarga hídrica
+T7	ENFERMEDAD 114 152	espondilitis anquilosante B27 positiva
+T8	ENFERMEDAD 4223 4244	hipertensión arterial
+T9	ENFERMEDAD 3351 3362	anemización
+T10	ENFERMEDAD 1423 1448	adenopatías mediastínicas
+T11	ENFERMEDAD 1033 1047	litiasis renal
+T12	ENFERMEDAD 4279 4292	hiperuricemia
+T13	ENFERMEDAD 1467 1486	lesiones esplénicas
+T14	ENFERMEDAD 1081 1111	lesiones hipodensas en el bazo
+T15	ENFERMEDAD 743 790	adenopatías laterocervicales o retroauriculares
+T16	ENFERMEDAD 1983 2006	adenopatía mediastínica
+T17	ENFERMEDAD 2852 2870	síndrome nefrótico
+T18	ENFERMEDAD 2289 2301	tuberculosis
+T19	ENFERMEDAD 1514 1533	adenopatía cervical
+T20	ENFERMEDAD 2677 2692	hepatitis B y C
+T21	ENFERMEDAD 1051 1075	dilatación pielocalicial
+T22	PROCEDIMIENTO 1241 1294	tomografía computarizada (TC) tóraco-abdomino-pélvica
+T23	PROCEDIMIENTO 1499 1533	biopsia de una adenopatía cervical
+T24	PROCEDIMIENTO 3873 3886	biopsia renal
+T25	PROCEDIMIENTO 1730 1747	fibrobroncoscopia
+T26	PROCEDIMIENTO 882 897	ecografía renal
+T27	PROCEDIMIENTO 1819 1840	lavado broncoalveolar
+T28	PROCEDIMIENTO 3987 4014	tratamiento antituberculoso
+T29	PROCEDIMIENTO 682 700	exploración física
+T30	PROCEDIMIENTO 3410 3423	biopsia renal
+T31	PROCEDIMIENTO 1927 2006	punción-aspiración con aguja fina transbronquial de una adenopatía mediastínica
+T32	PROCEDIMIENTO 242 274	prueba de la tuberculina cutánea
+T33	PROCEDIMIENTO 302 327	profilaxis con isoniacida
+T34	PROCEDIMIENTO 796 823	auscultación cardiopulmonar
 T35	PROCEDIMIENTO 2211 2228	fibrobroncoscopia
-T36	PROCEDIMIENTO 2243 2301	ensayo de liberación de interferón gamma para tuberculosis
-T37	PROCEDIMIENTO 2303 2314	quantiFERON
-T38	PROCEDIMIENTO 2382 2409	tratamiento antituberculoso
-T39	PROCEDIMIENTO 242 274	prueba de la tuberculina cutánea
-T40	PROCEDIMIENTO 2584 2599	serología viral
-T41	PROCEDIMIENTO 2724 2740	estudio de orina
-T42	PROCEDIMIENTO 2904 2917	proteinograma
-T43	PROCEDIMIENTO 302 327	profilaxis con isoniacida
-T44	PROCEDIMIENTO 3265 3277	radiológicos
-T45	PROCEDIMIENTO 3410 3423	biopsia renal
-T46	PROCEDIMIENTO 3809 3844	tinciones de PAS y de Ziehl-Nielsen
-T47	PROCEDIMIENTO 3873 3886	biopsia renal
-T48	PROCEDIMIENTO 393 425	antiinflamatorios no esteroideos
-T49	PROCEDIMIENTO 3987 4014	tratamiento antituberculoso
-T50	PROCEDIMIENTO 437 451	antidepresivos
-T51	PROCEDIMIENTO 454 489	inhibidores de la bomba de protones
-T52	PROCEDIMIENTO 682 700	exploración física
-T53	PROCEDIMIENTO 731 790	se palpaban adenopatías laterocervicales o retroauriculares
-T54	PROCEDIMIENTO 796 823	auscultación cardiopulmonar
-T55	PROCEDIMIENTO 882 897	ecografía renal
+T36	PROCEDIMIENTO 2382 2409	tratamiento antituberculoso
+T37	PROCEDIMIENTO 3809 3844	tinciones de PAS y de Ziehl-Nielsen
+T38	PROCEDIMIENTO 437 451	antidepresivos
+T39	PROCEDIMIENTO 393 425	antiinflamatorios no esteroideos
+T40	PROCEDIMIENTO 454 489	inhibidores de la bomba de protones
+T41	PROCEDIMIENTO 2904 2917	proteinograma
+T42	PROCEDIMIENTO 2303 2314	quantiFERON
+T43	PROCEDIMIENTO 1631 1655	tinción de Ziehl-Nielsen
+T44	PROCEDIMIENTO 1891 1907	lavado bronquial
+T45	PROCEDIMIENTO 2060 2076	tinción de Ziehl
+T46	PROCEDIMIENTO 2243 2301	ensayo de liberación de interferón gamma para tuberculosis
+T47	PROCEDIMIENTO 2724 2740	estudio de orina
+T48	PROCEDIMIENTO 3265 3277	radiológicos
+T49	PROCEDIMIENTO 731 790	se palpaban adenopatías laterocervicales o retroauriculares
+T50	PROCEDIMIENTO 2584 2599	serología viral
+T51	SINTOMA 547 587	deterioro importante de su función renal
+T52	SINTOMA 1321 1349	nódulos pulmonares múltiples
+T53	SINTOMA 1776 1814	lesiones macroscópicas en la vía aérea
+T54	SINTOMA 3364 3375	proteinuria
+T55	SINTOMA 2584 2692	serología viral fue negativa para el virus de la inmunodeficiencia humana y los virus de las hepatitis B y C
+T56	SINTOMA 3378 3392	microhematuria
+T57	SINTOMA 242 283	prueba de la tuberculina cutánea positiva
+T58	SINTOMA 721 727	edemas
+T59	SINTOMA 1631 1685	tinción de Ziehl-Nielsen se observaban escasos bacilos
+T60	SINTOMA 2303 2333	quantiFERON), que fue positivo
+T61	SINTOMA 2697 2719	complemento fue normal
+T62	SINTOMA 3279 3321	riñones de tamaño y ecoestructura normales
+T63	SINTOMA 662 674	asintomática
+T64	SINTOMA 796 834	auscultación cardiopulmonar era normal
+T65	SINTOMA 975 1010	buena diferenciación corticomedular
+T66	SINTOMA 1133 1155	afectación linfomatosa
+T67	SINTOMA 1607 1623	necrosis caseosa
+T68	SINTOMA 1557 1594	inflamación granulomatosa epitelioide
+T69	SINTOMA 1891 1920	lavado bronquial fue negativo
+T70	SINTOMA 1819 1886	lavado broncoalveolar evidenció una moderada cantidad de linfocitos
+T71	SINTOMA 3769 3844	No se observaron microorganismos en las tinciones de PAS y de Ziehl-Nielsen
+T72	SINTOMA 3008 3041	cadenas ligeras en orina negativa
+T73	SINTOMA 2451 2579	anticuerpos antinucleares (ANA), anticitoplasma de neutrófilos (ANCA), anti-ADN y antimembrana basal glomerular fueron negativos
+T74	SINTOMA 2045 2055	granulomas
+T75	SINTOMA 4131 4158	mejoría de la función renal
+T76	SINTOMA 731 790	se palpaban adenopatías laterocervicales o retroauriculares

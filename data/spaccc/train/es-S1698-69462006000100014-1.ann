@@ -1,36 +1,50 @@
-T1	SINTOMA 632 715	abombamiento de consistencia ósea a la palpación por vestibular de cuarto cuadrante
-T2	SINTOMA 1320 1391	analítica sanguínea general sin alteración de ninguno de sus parámetros
-T3	SINTOMA 490 531	dolor e inflamación en región de pieza 48
-T4	SINTOMA 726 753	mucosa estrictamente normal
-T5	SINTOMA 2130 2137	pT2pN2b
-T6	SINTOMA 1507 1514	T2N2bM0
-T7	SINTOMA 2255 2278	tumoraciones cervicales
-T8	SINTOMA 2636 2643	fallece
-T9	SINTOMA 398 411	fallecimiento
-T10	PROCEDIMIENTO 1108 1169	tomografía computerizada afectando a cuerpo y rama mandibular
-T11	PROCEDIMIENTO 1320 1339	analítica sanguínea
-T12	PROCEDIMIENTO 140 224	curetaje de un tejido de granulación a nivel apical y distal de la pieza exodonciada
-T13	PROCEDIMIENTO 1530 1552	tratamiento quirúrgico
-T14	PROCEDIMIENTO 1574 1643	tratamiento radioterápico mediante técnica isocéntrica de tres campos
-T15	PROCEDIMIENTO 1646 1659	quimioterapia
-T16	PROCEDIMIENTO 1694 1775	mandibulectomía segmentaria desde la pieza 43 hasta la región subcondilea derecha
-T17	PROCEDIMIENTO 1777 1835	vaciamiento ganglionar cervical derecho radical modificado
-T18	PROCEDIMIENTO 1837 1859	traqueostomía temporal
-T19	PROCEDIMIENTO 1862 1938	reconstrucción mediante injerto microvascularizado osteomiocutáneo de peroné
-T20	PROCEDIMIENTO 1943 1962	anatomía patológica
-T21	PROCEDIMIENTO 2049 2068	ganglios extirpados
-T22	PROCEDIMIENTO 2161 2184	intervención quirúrgica
-T23	PROCEDIMIENTO 2226 2237	TC cervical
-T24	PROCEDIMIENTO 2414 2427	quimioterapia
+T1	ENFERMEDAD 1512 1514	M0
+T2	ENFERMEDAD 2255 2303	tumoraciones cervicales compatibles con recidiva
+T3	ENFERMEDAD 908 926	Carcinoma Escamoso
+T4	ENFERMEDAD 2333 2356	adenopatías bilaterales
+T5	ENFERMEDAD 295 311	hábito tabáquico
+T6	ENFERMEDAD 1986 2019	Carcinoma Escamoso Queratinizante
+T7	ENFERMEDAD 2049 2095	ganglios extirpados con invasión extracapsular
+T8	ENFERMEDAD 1182 1204	adenopatías cervicales
+T9	ENFERMEDAD 428 443	cáncer de colon
+T10	ENFERMEDAD 2690 2719	recidiva masiva loco-regional
+T11	ENFERMEDAD 1277 1309	patología neoplásica a distancia
+T12	ENFERMEDAD 328 335	enólico
+T13	ENFERMEDAD 1070 1169	lesión neoformativa destructiva en la tomografía computerizada afectando a cuerpo y rama mandibular
+T14	ENFERMEDAD 96 117	tercer molar incluido
+T15	PROCEDIMIENTO 1694 1775	mandibulectomía segmentaria desde la pieza 43 hasta la región subcondilea derecha
+T16	PROCEDIMIENTO 799 850	tejido extraído durante la exodoncia de la pieza 48
+T17	PROCEDIMIENTO 80 137	exodoncia de un tercer molar incluido en cuarto cuadrante
+T18	PROCEDIMIENTO 2226 2237	TC cervical
+T19	PROCEDIMIENTO 1777 1835	vaciamiento ganglionar cervical derecho radical modificado
+T20	PROCEDIMIENTO 140 224	curetaje de un tejido de granulación a nivel apical y distal de la pieza exodonciada
+T21	PROCEDIMIENTO 1837 1859	traqueostomía temporal
+T22	PROCEDIMIENTO 1862 1938	reconstrucción mediante injerto microvascularizado osteomiocutáneo de peroné
+T23	PROCEDIMIENTO 1646 1659	quimioterapia
+T24	PROCEDIMIENTO 1108 1169	tomografía computerizada afectando a cuerpo y rama mandibular
 T25	PROCEDIMIENTO 2555 2568	quimioterapia
-T26	PROCEDIMIENTO 2617 2633	curas paliativas
-T27	PROCEDIMIENTO 2662 2685	intervención quirúrgica
-T28	PROCEDIMIENTO 463 481	exploración física
+T26	PROCEDIMIENTO 463 481	exploración física
+T27	PROCEDIMIENTO 2617 2633	curas paliativas
+T28	PROCEDIMIENTO 1320 1339	analítica sanguínea
 T29	PROCEDIMIENTO 583 592	exodoncia
-T30	PROCEDIMIENTO 671 680	palpación
-T31	PROCEDIMIENTO 759 777	exploración física
-T32	PROCEDIMIENTO 785 814	analizarse el tejido extraído
-T33	PROCEDIMIENTO 799 850	tejido extraído durante la exodoncia de la pieza 48
-T34	PROCEDIMIENTO 80 137	exodoncia de un tercer molar incluido en cuarto cuadrante
-T35	PROCEDIMIENTO 870 889	Anatomía Patológica
-T36	PROCEDIMIENTO 979 1046	estudio de extensión clínico-radiológico a nivel de cabeza y cuello
+T30	PROCEDIMIENTO 759 777	exploración física
+T31	PROCEDIMIENTO 870 889	Anatomía Patológica
+T32	PROCEDIMIENTO 1943 1962	anatomía patológica
+T33	PROCEDIMIENTO 2414 2427	quimioterapia
+T34	PROCEDIMIENTO 979 1046	estudio de extensión clínico-radiológico a nivel de cabeza y cuello
+T35	PROCEDIMIENTO 1574 1643	tratamiento radioterápico mediante técnica isocéntrica de tres campos
+T36	PROCEDIMIENTO 2049 2068	ganglios extirpados
+T37	PROCEDIMIENTO 2161 2184	intervención quirúrgica
+T38	PROCEDIMIENTO 2662 2685	intervención quirúrgica
+T39	PROCEDIMIENTO 785 814	analizarse el tejido extraído
+T40	PROCEDIMIENTO 671 680	palpación
+T41	PROCEDIMIENTO 1530 1552	tratamiento quirúrgico
+T42	SINTOMA 2255 2278	tumoraciones cervicales
+T43	SINTOMA 490 531	dolor e inflamación en región de pieza 48
+T44	SINTOMA 632 715	abombamiento de consistencia ósea a la palpación por vestibular de cuarto cuadrante
+T45	SINTOMA 726 753	mucosa estrictamente normal
+T46	SINTOMA 1320 1391	analítica sanguínea general sin alteración de ninguno de sus parámetros
+T47	SINTOMA 2636 2643	fallece
+T48	SINTOMA 398 411	fallecimiento
+T49	SINTOMA 1507 1514	T2N2bM0
+T50	SINTOMA 2130 2137	pT2pN2b

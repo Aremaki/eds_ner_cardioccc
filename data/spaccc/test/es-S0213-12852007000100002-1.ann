@@ -1,31 +1,32 @@
-T1	SINTOMA 369 418	dolor leve, divulgado en la zona del tercer molar
-T2	SINTOMA 779 840	elemento 2.8 presentaba zonas de radiotransparente aumentadas
-T3	SINTOMA 496 517	linfonodos del cuello
-T4	ENFERMEDAD 590 631	inclusión parcial mucosa del elemento 2.8
-T5	ENFERMEDAD 1116 1140	ameloblastoma plexiforme
-T6	ENFERMEDAD 1760 1784	ameloblastoma plexiforme
-T7	ENFERMEDAD 1599 1615	tumores malignos
-T8	PROCEDIMIENTO 1089 1108	informe histológico
-T9	PROCEDIMIENTO 1161 1185	diagnóstico radiográfico
-T10	PROCEDIMIENTO 1201 1254	tomografía axial computarizada con programa Dentascan
-T11	PROCEDIMIENTO 1386 1403	anestesia general
-T12	PROCEDIMIENTO 1419 1437	hemi-maxillectomia
-T13	PROCEDIMIENTO 1683 1703	análisis histológico
-T14	PROCEDIMIENTO 1802 1824	tratamiento porotésico
-T15	PROCEDIMIENTO 1838 1845	cirugía
-T16	PROCEDIMIENTO 1846 1888	se realizaron impresiones de los maxilares
-T17	PROCEDIMIENTO 1938 1961	intervención quirúrgica
-T18	PROCEDIMIENTO 2009 2012	TAC
-T19	PROCEDIMIENTO 2049 2058	resección
-T20	PROCEDIMIENTO 2137 2185	correcto posicionamiento de la prótesis palatina
-T21	PROCEDIMIENTO 2191 2269	prótesis de obturación palatina era mucosoportada y dento-retenida con ganchos
-T22	PROCEDIMIENTO 2508 2517	resección
-T23	PROCEDIMIENTO 2790 2818	reconstrucción con implantes
-T24	PROCEDIMIENTO 423 439	examen extraoral
-T25	PROCEDIMIENTO 482 491	palpación
-T26	PROCEDIMIENTO 561 577	examen intraoral
-T27	PROCEDIMIENTO 694 703	palpación
-T28	PROCEDIMIENTO 731 774	análisis radiográfico con ortopantomografía
-T29	PROCEDIMIENTO 757 774	ortopantomografía
-T30	PROCEDIMIENTO 931 958	extracción del elemento 2.8
-T31	PROCEDIMIENTO 946 994	elemento 2.8 y biopsia de los tejidos adyacentes
+T1	ENFERMEDAD 590 631	inclusión parcial mucosa del elemento 2.8
+T2	ENFERMEDAD 1116 1140	ameloblastoma plexiforme
+T3	ENFERMEDAD 1760 1784	ameloblastoma plexiforme
+T4	ENFERMEDAD 1599 1615	tumores malignos
+T5	PROCEDIMIENTO 423 439	examen extraoral
+T6	PROCEDIMIENTO 561 577	examen intraoral
+T7	PROCEDIMIENTO 757 774	ortopantomografía
+T8	PROCEDIMIENTO 1386 1403	anestesia general
+T9	PROCEDIMIENTO 1419 1437	hemi-maxillectomia
+T10	PROCEDIMIENTO 2009 2012	TAC
+T11	PROCEDIMIENTO 1683 1703	análisis histológico
+T12	PROCEDIMIENTO 946 994	elemento 2.8 y biopsia de los tejidos adyacentes
+T13	PROCEDIMIENTO 2049 2058	resección
+T14	PROCEDIMIENTO 2508 2517	resección
+T15	PROCEDIMIENTO 1201 1254	tomografía axial computarizada con programa Dentascan
+T16	PROCEDIMIENTO 1802 1824	tratamiento porotésico
+T17	PROCEDIMIENTO 2191 2269	prótesis de obturación palatina era mucosoportada y dento-retenida con ganchos
+T18	PROCEDIMIENTO 2790 2818	reconstrucción con implantes
+T19	PROCEDIMIENTO 731 774	análisis radiográfico con ortopantomografía
+T20	PROCEDIMIENTO 931 958	extracción del elemento 2.8
+T21	PROCEDIMIENTO 1161 1185	diagnóstico radiográfico
+T22	PROCEDIMIENTO 1938 1961	intervención quirúrgica
+T23	PROCEDIMIENTO 482 491	palpación
+T24	PROCEDIMIENTO 694 703	palpación
+T25	PROCEDIMIENTO 1846 1888	se realizaron impresiones de los maxilares
+T26	PROCEDIMIENTO 2137 2185	correcto posicionamiento de la prótesis palatina
+T27	PROCEDIMIENTO 1838 1845	cirugía
+T28	PROCEDIMIENTO 1089 1108	informe histológico
+T29	SINTOMA 369 418	dolor leve, divulgado en la zona del tercer molar
+T30	SINTOMA 496 517	linfonodos del cuello
+T31	SINTOMA 1303 1355	maxilar izquierdo que alcanzaba la base de la órbita
+T32	SINTOMA 779 840	elemento 2.8 presentaba zonas de radiotransparente aumentadas

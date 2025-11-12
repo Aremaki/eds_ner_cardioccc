@@ -1,7 +1,40 @@
-T1	SINTOMA 1541 1556	bloqueo angular
-T2	SINTOMA 359 373	cierre angular
-T3	SINTOMA 2297 2311	cierre angular
-T4	SINTOMA 216 244	cierre angular en ambos ojos
-T5	SINTOMA 1637 1666	configuración en iris plateau
-T6	SINTOMA 535 583	configuración en iris-plateau con cierre angular
-T7	SINTOMA 1817 1845	presión intraocular adecuada
+T1	ENFERMEDAD 17 29	hipermétrope
+T2	ENFERMEDAD 1479 1496	quistes en el ojo
+T3	ENFERMEDAD 2178 2216	quistes neuroepiteliales en ambos ojos
+T4	ENFERMEDAD 1654 1666	iris plateau
+T5	ENFERMEDAD 607 628	quistes iridociliares
+T6	ENFERMEDAD 756 790	quistes primarios neuroepiteliales
+T7	ENFERMEDAD 359 373	cierre angular
+T8	ENFERMEDAD 569 628	cierre angular secundario a múltiples quistes iridociliares
+T9	ENFERMEDAD 552 564	iris-plateau
+T10	ENFERMEDAD 634 641	quistes
+T11	ENFERMEDAD 1273 1280	quistes
+T12	ENFERMEDAD 2297 2311	cierre angular
+T13	ENFERMEDAD 216 244	cierre angular en ambos ojos
+T14	ENFERMEDAD 1541 1556	bloqueo angular
+T15	PROCEDIMIENTO 1131 1143	iridoplastia
+T16	PROCEDIMIENTO 826 854	iridoplastia con láser argón
+T17	PROCEDIMIENTO 1436 1439	BMU
+T18	PROCEDIMIENTO 2143 2146	BMU
+T19	PROCEDIMIENTO 1493 1514	ojo tratado con láser
+T20	PROCEDIMIENTO 187 198	gonioscopía
+T21	PROCEDIMIENTO 1026 1048	medicación hipotensora
+T22	PROCEDIMIENTO 277 317	iridotomías bilaterales con láser Nd:YAG
+T23	PROCEDIMIENTO 404 415	iridotomías
+T24	PROCEDIMIENTO 1752 1774	medicación hipotensora
+T25	PROCEDIMIENTO 476 502	biomicroscopía ultrasónica
+T26	PROCEDIMIENTO 504 507	BMU
+T27	PROCEDIMIENTO 1104 1121	tratamiento láser
+T28	PROCEDIMIENTO 1158 1161	BMU
+T29	PROCEDIMIENTO 85 104	presión intraocular
+T30	PROCEDIMIENTO 1817 1836	presión intraocular
+T31	PROCEDIMIENTO 106 109	PIO
+T32	PROCEDIMIENTO 45 56	exploración
+T33	SINTOMA 1541 1556	bloqueo angular
+T34	SINTOMA 216 244	cierre angular en ambos ojos
+T35	SINTOMA 359 373	cierre angular
+T36	SINTOMA 535 583	configuración en iris-plateau con cierre angular
+T37	SINTOMA 654 725	paredes hiperreflectivas delgadas con contenido líquido hiporreflectivo
+T38	SINTOMA 1637 1666	configuración en iris plateau
+T39	SINTOMA 1817 1845	presión intraocular adecuada
+T40	SINTOMA 2297 2311	cierre angular

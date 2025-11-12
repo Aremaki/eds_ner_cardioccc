@@ -1,46 +1,46 @@
-T1	SINTOMA 111 118	cefalea
-T2	SINTOMA 1290 1305	cefalea intensa
-T3	SINTOMA 2118 2126	diplopía
-T4	SINTOMA 2148 2156	diplopía
-T5	SINTOMA 750 796	áreas de hiperfluorescencia en tiempos tardíos
-T6	SINTOMA 673 728	áreas de hipofluorescencia marcadas en tiempos precoces
-T7	SINTOMA 2314 2365	aumento de la reflectividad retiniana en ambos ojos
-T8	SINTOMA 410 452	biomicroscopía del polo anterior es normal
-T9	SINTOMA 209 222	cuadro gripal
-T10	SINTOMA 1803 1831	diplopía en la visión lejana
-T11	SINTOMA 78 108	disminución de la AV bilateral
-T12	SINTOMA 1066 1089	engrosamiento retiniano
-T13	SINTOMA 1094 1153	hiperreflectividad a nivel de las capas retinianas externas
-T14	SINTOMA 862 894	hipofluorescencia en la coroides
-T15	SINTOMA 966 988	hipoperfusión coroidea
-T16	SINTOMA 1645 1688	HLA B-7 y HLA DR2, que resultó ser positivo
-T17	SINTOMA 1907 1946	leve limitación de la abducción del ojo
-T18	SINTOMA 298 322	ojo derecho es de bultos
-T19	SINTOMA 364 404	pupilas son isocóricas y normorreactivas
-T20	ENFERMEDAD 2148 2156	diplopía
-T21	ENFERMEDAD 1803 1831	diplopía en la visión lejana
-T22	ENFERMEDAD 1425 1444	vasculitis cerebral
-T23	ENFERMEDAD 1865 1901	parálisis del VI par craneal derecho
-T24	ENFERMEDAD 209 222	cuadro gripal
-T25	ENFERMEDAD 1587 1597	vasculitis
-T26	ENFERMEDAD 2118 2126	diplopía
-T27	ENFERMEDAD 599 604	EPPMA
-T28	ENFERMEDAD 485 554	lesiones confluentes blanco-grisáceas en polo posterior en ambos ojos
-T29	ENFERMEDAD 918 926	lesiones
-T30	PROCEDIMIENTO 1023 1054	tomografía de coherencia óptica
-T31	PROCEDIMIENTO 1165 1193	tratamiento corticoideo oral
-T32	PROCEDIMIENTO 1324 1347	tratamiento corticoideo
-T33	PROCEDIMIENTO 1503 1537	angiorresonancia magnética nuclear
-T34	PROCEDIMIENTO 1539 1547	angioRMN
-T35	PROCEDIMIENTO 1611 1641	estudio de histocompatibilidad
-T36	PROCEDIMIENTO 1838 1849	exploración
-T37	PROCEDIMIENTO 1985 2007	Test de Hess-Lancaster
-T38	PROCEDIMIENTO 2024 2088	inyección de toxina botulínica en el recto medio del ojo derecho
-T39	PROCEDIMIENTO 2240 2243	OCT
-T40	PROCEDIMIENTO 276 293	exploración la AV
-T41	PROCEDIMIENTO 410 442	biomicroscopía del polo anterior
-T42	PROCEDIMIENTO 460 473	oftalmoscopía
-T43	PROCEDIMIENTO 621 647	angiografía fluoresceínica
-T44	PROCEDIMIENTO 649 652	AGF
-T45	PROCEDIMIENTO 801 837	angiografía con verde de indocianina
-T46	PROCEDIMIENTO 839 842	ICG
+T1	ENFERMEDAD 2148 2156	diplopía
+T2	ENFERMEDAD 1803 1831	diplopía en la visión lejana
+T3	ENFERMEDAD 1425 1444	vasculitis cerebral
+T4	ENFERMEDAD 1865 1901	parálisis del VI par craneal derecho
+T5	ENFERMEDAD 209 222	cuadro gripal
+T6	ENFERMEDAD 1587 1597	vasculitis
+T7	ENFERMEDAD 2118 2126	diplopía
+T8	ENFERMEDAD 599 604	EPPMA
+T9	ENFERMEDAD 485 554	lesiones confluentes blanco-grisáceas en polo posterior en ambos ojos
+T10	ENFERMEDAD 918 926	lesiones
+T11	PROCEDIMIENTO 1611 1641	estudio de histocompatibilidad
+T12	PROCEDIMIENTO 1324 1347	tratamiento corticoideo
+T13	PROCEDIMIENTO 2240 2243	OCT
+T14	PROCEDIMIENTO 1503 1537	angiorresonancia magnética nuclear
+T15	PROCEDIMIENTO 1539 1547	angioRMN
+T16	PROCEDIMIENTO 1985 2007	Test de Hess-Lancaster
+T17	PROCEDIMIENTO 2024 2088	inyección de toxina botulínica en el recto medio del ojo derecho
+T18	PROCEDIMIENTO 410 442	biomicroscopía del polo anterior
+T19	PROCEDIMIENTO 460 473	oftalmoscopía
+T20	PROCEDIMIENTO 621 647	angiografía fluoresceínica
+T21	PROCEDIMIENTO 649 652	AGF
+T22	PROCEDIMIENTO 801 837	angiografía con verde de indocianina
+T23	PROCEDIMIENTO 839 842	ICG
+T24	PROCEDIMIENTO 1023 1054	tomografía de coherencia óptica
+T25	PROCEDIMIENTO 1165 1193	tratamiento corticoideo oral
+T26	PROCEDIMIENTO 276 293	exploración la AV
+T27	PROCEDIMIENTO 1838 1849	exploración
+T28	SINTOMA 78 108	disminución de la AV bilateral
+T29	SINTOMA 111 118	cefalea
+T30	SINTOMA 862 894	hipofluorescencia en la coroides
+T31	SINTOMA 966 988	hipoperfusión coroidea
+T32	SINTOMA 1066 1089	engrosamiento retiniano
+T33	SINTOMA 364 404	pupilas son isocóricas y normorreactivas
+T34	SINTOMA 410 452	biomicroscopía del polo anterior es normal
+T35	SINTOMA 1645 1688	HLA B-7 y HLA DR2, que resultó ser positivo
+T36	SINTOMA 1094 1153	hiperreflectividad a nivel de las capas retinianas externas
+T37	SINTOMA 1907 1946	leve limitación de la abducción del ojo
+T38	SINTOMA 2314 2365	aumento de la reflectividad retiniana en ambos ojos
+T39	SINTOMA 209 222	cuadro gripal
+T40	SINTOMA 298 322	ojo derecho es de bultos
+T41	SINTOMA 673 728	áreas de hipofluorescencia marcadas en tiempos precoces
+T42	SINTOMA 750 796	áreas de hiperfluorescencia en tiempos tardíos
+T43	SINTOMA 1803 1831	diplopía en la visión lejana
+T44	SINTOMA 2118 2126	diplopía
+T45	SINTOMA 2148 2156	diplopía
+T46	SINTOMA 1290 1305	cefalea intensa

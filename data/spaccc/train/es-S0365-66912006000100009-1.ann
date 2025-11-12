@@ -1,16 +1,29 @@
-T1	SINTOMA 862 879	bioquímica normal
-T2	SINTOMA 882 898	cultivo negativo
-T3	SINTOMA 135 178	disminución indolora de la visión en el ojo
-T4	SINTOMA 575 626	estudio sistémico por aparatos no era significativo
-T5	SINTOMA 1501 1519	exploración normal
-T6	SINTOMA 403 423	exudado subretiniano
-T7	SINTOMA 930 970	LCR no detectándose bandas oligoclonales
-T8	SINTOMA 308 352	motilidad extrínseca e intrínseca fue normal
-T9	SINTOMA 750 797	radiografía de tórax siendo igualmente negativa
-T10	SINTOMA 513 570	serología Lyme y la radiografía de tórax fueron negativas
-T11	SINTOMA 428 570	TAC y RNM órbito-cerebral, serología luética, enzima convertidor de la angiotensina, serología Lyme y la radiografía de tórax fueron negativas
-T12	SINTOMA 975 1083	urocultivo y el cultivo de esputo también fueron negativos para el crecimiento de mycobacterium tuberculosis
-T13	ENFERMEDAD 1105 1124	tuberculosis ocular
-T14	ENFERMEDAD 377 392	edema de papila
-T15	ENFERMEDAD 523 527	Lyme
-T16	ENFERMEDAD 403 423	exudado subretiniano
+T1	ENFERMEDAD 1105 1124	tuberculosis ocular
+T2	ENFERMEDAD 377 392	edema de papila
+T3	ENFERMEDAD 523 527	Lyme
+T4	ENFERMEDAD 403 423	exudado subretiniano
+T5	PROCEDIMIENTO 428 453	TAC y RNM órbito-cerebral
+T6	PROCEDIMIENTO 533 553	radiografía de tórax
+T7	PROCEDIMIENTO 455 472	serología luética
+T8	PROCEDIMIENTO 631 638	mantoux
+T9	PROCEDIMIENTO 750 770	radiografía de tórax
+T10	PROCEDIMIENTO 805 819	punción de LCR
+T11	PROCEDIMIENTO 911 933	electroforesis del LCR
+T12	PROCEDIMIENTO 975 985	urocultivo
+T13	PROCEDIMIENTO 991 1008	cultivo de esputo
+T14	PROCEDIMIENTO 862 872	bioquímica
+T15	PROCEDIMIENTO 575 605	estudio sistémico por aparatos
+T16	PROCEDIMIENTO 882 889	cultivo
+T17	PROCEDIMIENTO 1501 1512	exploración
+T18	SINTOMA 135 178	disminución indolora de la visión en el ojo
+T19	SINTOMA 403 423	exudado subretiniano
+T20	SINTOMA 308 352	motilidad extrínseca e intrínseca fue normal
+T21	SINTOMA 975 1083	urocultivo y el cultivo de esputo también fueron negativos para el crecimiento de mycobacterium tuberculosis
+T22	SINTOMA 882 898	cultivo negativo
+T23	SINTOMA 513 570	serología Lyme y la radiografía de tórax fueron negativas
+T24	SINTOMA 575 626	estudio sistémico por aparatos no era significativo
+T25	SINTOMA 862 879	bioquímica normal
+T26	SINTOMA 1501 1519	exploración normal
+T27	SINTOMA 750 797	radiografía de tórax siendo igualmente negativa
+T28	SINTOMA 930 970	LCR no detectándose bandas oligoclonales
+T29	SINTOMA 428 570	TAC y RNM órbito-cerebral, serología luética, enzima convertidor de la angiotensina, serología Lyme y la radiografía de tórax fueron negativas

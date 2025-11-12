@@ -1,100 +1,100 @@
-T1	SINTOMA 4361 4366	edema
-T2	SINTOMA 638 682	deterioro progresivo del nivel de conciencia
-T3	SINTOMA 832 842	anisocoria
-T4	SINTOMA 1194 1205	falleciendo
-T5	SINTOMA 685 695	anisocoria
-T6	SINTOMA 1714 1719	óbito
-T7	SINTOMA 5667 5673	muerte
-T8	SINTOMA 2577 2643	aplanamiento del hemisferio derecho, sobre todo del lóbulo frontal
-T9	SINTOMA 4402 4416	bolas axonales
-T10	SINTOMA 2812 2850	colapso del ventrículo lateral derecho
-T11	SINTOMA 2759 2806	desviación de la línea media hacia la izquierda
-T12	SINTOMA 3813 3870	duramadre estaba fuertemente adherida a la calota craneal
-T13	SINTOMA 4419 4430	espongiosis
-T14	SINTOMA 3705 3720	hemosiderófagos
-T15	SINTOMA 700 725	pupila derecha midriática
-T16	SINTOMA 2183 2206	sangre coagulada oscura
-T17	SINTOMA 4821 4857	sangre fue negativo para los tóxicos
-T18	SINTOMA 3725 3753	tinción de Perls es negativa
-T19	ENFERMEDAD 2109 2166	cavidad craneal aparece HSD frontotemporoparietal derecho
-T20	ENFERMEDAD 417 420	TCE
-T21	ENFERMEDAD 3267 3284	hematoma subdural
-T22	ENFERMEDAD 3541 3558	hematoma subdural
-T23	ENFERMEDAD 38 49	TCE frontal
-T24	ENFERMEDAD 4183 4191	hematoma
-T25	ENFERMEDAD 4569 4603	placas seniles por toda la corteza
-T26	ENFERMEDAD 5387 5398	cardiopatía
-T27	ENFERMEDAD 4605 4658	microcalcificaciones en ganglios basales e hipocampos
-T28	ENFERMEDAD 1377 1388	contusiones
-T29	ENFERMEDAD 161 180	valvulopatía mitral
-T30	ENFERMEDAD 195 224	flutter auricular paroxístico
-T31	ENFERMEDAD 4662 4732	neuronas con degeneración granulovacuolar y neurofibrilar en hipocampo
-T32	ENFERMEDAD 1858 1946	placas de ateroma calcificadas en arterias coronarias descendente anterior y circunfleja
-T33	ENFERMEDAD 227 245	angor hemodinámico
-T34	ENFERMEDAD 5493 5519	traumatismo frontoparietal
-T35	ENFERMEDAD 249 303	trombosis venosa profunda con tromboembolismo pulmonar
-T36	ENFERMEDAD 1481 1539	herida suturada con cuatro puntos en región ciliar derecha
-T37	ENFERMEDAD 279 303	tromboembolismo pulmonar
-T38	ENFERMEDAD 5544 5571	rotura de quiste aracnoideo
-T39	ENFERMEDAD 2400 2403	HSD
-T40	ENFERMEDAD 1550 1561	contusiones
-T41	ENFERMEDAD 1973 2066	cicatrices de infartos antiguos en pared posterior del ventrículo izquierdo y músculo papilar
-T42	ENFERMEDAD 2440 2472	hemorragia subaracnoidea derecha
-T43	ENFERMEDAD 5599 5608	HSD agudo
-T44	ENFERMEDAD 5624 5649	hipertensión intracraneal
-T45	ENFERMEDAD 2483 2516	herniación transtentorial derecho
-T46	ENFERMEDAD 5651 5664	enclavamiento
-T47	ENFERMEDAD 2519 2544	hemorragia en mesencéfalo
-T48	ENFERMEDAD 2070 2101	calcificación del anillo mitral
-T49	ENFERMEDAD 907 996	HSD crónico con resangrado" que abarca las regiones frontal, temporal y parietal derechas
-T50	ENFERMEDAD 4054 4062	hematoma
-T51	ENFERMEDAD 2656 2673	hematoma subdural
-T52	ENFERMEDAD 998 1038	herniación supracallosa y transtentorial
-T53	ENFERMEDAD 4133 4141	hematoma
-T54	ENFERMEDAD 1042 1094	hemorragia subaracnoidea (HSA) en hemisferio derecho
-T55	ENFERMEDAD 2812 2877	colapso del ventrículo lateral derecho y dilatación del izquierdo
-T56	ENFERMEDAD 2905 3018	focos de hemorragia en sustancia blanca frontal derecha, cuerpo calloso, tálamo derecho y corteza frontal derecha
-T57	ENFERMEDAD 3023 3061	mesencéfalo muestra extensa hemorragia
-T58	ENFERMEDAD 3167 3241	focos de hemorragia en el suelo del IV ventrículo y pedúnculos cerebelosos
-T59	ENFERMEDAD 2224 2233	fracturas
-T60	ENFERMEDAD 436 467	herida contusa en región ciliar
-T61	ENFERMEDAD 2879 2902	herniación supracallosa
-T62	ENFERMEDAD 3997 4000	HSD
-T63	ENFERMEDAD 5296 5304	lesiones
-T64	ENFERMEDAD 685 695	anisocoria
-T65	ENFERMEDAD 832 842	anisocoria
-T66	ENFERMEDAD 907 910	HSD
-T67	ENFERMEDAD 1068 1071	HSA
-T68	ENFERMEDAD 2133 2136	HSD
-T69	PROCEDIMIENTO 1104 1130	valoración neuroquirúrgica
-T70	PROCEDIMIENTO 1481 1539	herida suturada con cuatro puntos en región ciliar derecha
-T71	PROCEDIMIENTO 1653 1670	autopsia judicial
-T72	PROCEDIMIENTO 1789 1812	hallazgos macroscópicos
-T73	PROCEDIMIENTO 2248 2274	encéfalo se fija en formol
-T74	PROCEDIMIENTO 2314 2334	estudio macroscópico
-T75	PROCEDIMIENTO 3490 3511	análisis microscópico
-T76	PROCEDIMIENTO 3516 3536	estudio microscópico
-T77	PROCEDIMIENTO 3725 3741	tinción de Perls
-T78	PROCEDIMIENTO 3892 3912	estudio microscópico
-T79	PROCEDIMIENTO 3955 3958	TAC
-T80	PROCEDIMIENTO 3964 3972	autopsia
-T81	PROCEDIMIENTO 436 507	herida contusa en región ciliar derecha que es reparada mediante sutura
-T82	PROCEDIMIENTO 4737 4766	análisis químico-toxicológico
-T83	PROCEDIMIENTO 4872 4884	barbitúricos
-T84	PROCEDIMIENTO 4886 4901	benzodiacepinas
-T85	PROCEDIMIENTO 4903 4914	analgésicos
-T86	PROCEDIMIENTO 4950 4961	salicilatos
-T87	PROCEDIMIENTO 4964 4978	antidepresivos
-T88	PROCEDIMIENTO 4980 5003	fenotiacinas y análogos
-T89	PROCEDIMIENTO 5005 5019	antidiabéticos
-T90	PROCEDIMIENTO 5039 5071	antiinflamatorios no esteroideos
-T91	PROCEDIMIENTO 5073 5083	diuréticos
-T92	PROCEDIMIENTO 5085 5099	bases xánticas
-T93	PROCEDIMIENTO 5101 5119	antiparkinsonianos
-T94	PROCEDIMIENTO 5121 5137	antihistamínicos
-T95	PROCEDIMIENTO 5139 5156	antihipertensivos
-T96	PROCEDIMIENTO 5158 5185	antiagregantes plaquetarios
-T97	PROCEDIMIENTO 5187 5197	benzamidas
-T98	PROCEDIMIENTO 5199 5228	opiáceos derivados de morfina
-T99	PROCEDIMIENTO 5443 5465	anticoagulantes orales
-T100	PROCEDIMIENTO 856 883	TAC craneal (sin contraste)
+T1	ENFERMEDAD 2109 2166	cavidad craneal aparece HSD frontotemporoparietal derecho
+T2	ENFERMEDAD 417 420	TCE
+T3	ENFERMEDAD 3267 3284	hematoma subdural
+T4	ENFERMEDAD 3541 3558	hematoma subdural
+T5	ENFERMEDAD 38 49	TCE frontal
+T6	ENFERMEDAD 4183 4191	hematoma
+T7	ENFERMEDAD 4569 4603	placas seniles por toda la corteza
+T8	ENFERMEDAD 5387 5398	cardiopatía
+T9	ENFERMEDAD 4605 4658	microcalcificaciones en ganglios basales e hipocampos
+T10	ENFERMEDAD 1377 1388	contusiones
+T11	ENFERMEDAD 161 180	valvulopatía mitral
+T12	ENFERMEDAD 195 224	flutter auricular paroxístico
+T13	ENFERMEDAD 4662 4732	neuronas con degeneración granulovacuolar y neurofibrilar en hipocampo
+T14	ENFERMEDAD 1858 1946	placas de ateroma calcificadas en arterias coronarias descendente anterior y circunfleja
+T15	ENFERMEDAD 227 245	angor hemodinámico
+T16	ENFERMEDAD 5493 5519	traumatismo frontoparietal
+T17	ENFERMEDAD 249 303	trombosis venosa profunda con tromboembolismo pulmonar
+T18	ENFERMEDAD 1481 1539	herida suturada con cuatro puntos en región ciliar derecha
+T19	ENFERMEDAD 279 303	tromboembolismo pulmonar
+T20	ENFERMEDAD 5544 5571	rotura de quiste aracnoideo
+T21	ENFERMEDAD 2400 2403	HSD
+T22	ENFERMEDAD 1550 1561	contusiones
+T23	ENFERMEDAD 1973 2066	cicatrices de infartos antiguos en pared posterior del ventrículo izquierdo y músculo papilar
+T24	ENFERMEDAD 2440 2472	hemorragia subaracnoidea derecha
+T25	ENFERMEDAD 5599 5608	HSD agudo
+T26	ENFERMEDAD 5624 5649	hipertensión intracraneal
+T27	ENFERMEDAD 2483 2516	herniación transtentorial derecho
+T28	ENFERMEDAD 5651 5664	enclavamiento
+T29	ENFERMEDAD 2519 2544	hemorragia en mesencéfalo
+T30	ENFERMEDAD 2070 2101	calcificación del anillo mitral
+T31	ENFERMEDAD 907 996	HSD crónico con resangrado" que abarca las regiones frontal, temporal y parietal derechas
+T32	ENFERMEDAD 4054 4062	hematoma
+T33	ENFERMEDAD 2656 2673	hematoma subdural
+T34	ENFERMEDAD 998 1038	herniación supracallosa y transtentorial
+T35	ENFERMEDAD 4133 4141	hematoma
+T36	ENFERMEDAD 1042 1094	hemorragia subaracnoidea (HSA) en hemisferio derecho
+T37	ENFERMEDAD 2812 2877	colapso del ventrículo lateral derecho y dilatación del izquierdo
+T38	ENFERMEDAD 2905 3018	focos de hemorragia en sustancia blanca frontal derecha, cuerpo calloso, tálamo derecho y corteza frontal derecha
+T39	ENFERMEDAD 3023 3061	mesencéfalo muestra extensa hemorragia
+T40	ENFERMEDAD 3167 3241	focos de hemorragia en el suelo del IV ventrículo y pedúnculos cerebelosos
+T41	ENFERMEDAD 2224 2233	fracturas
+T42	ENFERMEDAD 436 467	herida contusa en región ciliar
+T43	ENFERMEDAD 2879 2902	herniación supracallosa
+T44	ENFERMEDAD 3997 4000	HSD
+T45	ENFERMEDAD 5296 5304	lesiones
+T46	ENFERMEDAD 685 695	anisocoria
+T47	ENFERMEDAD 832 842	anisocoria
+T48	ENFERMEDAD 907 910	HSD
+T49	ENFERMEDAD 1068 1071	HSA
+T50	ENFERMEDAD 2133 2136	HSD
+T51	PROCEDIMIENTO 3516 3536	estudio microscópico
+T52	PROCEDIMIENTO 4737 4766	análisis químico-toxicológico
+T53	PROCEDIMIENTO 1653 1670	autopsia judicial
+T54	PROCEDIMIENTO 436 507	herida contusa en región ciliar derecha que es reparada mediante sutura
+T55	PROCEDIMIENTO 4872 4884	barbitúricos
+T56	PROCEDIMIENTO 4886 4901	benzodiacepinas
+T57	PROCEDIMIENTO 4903 4914	analgésicos
+T58	PROCEDIMIENTO 5443 5465	anticoagulantes orales
+T59	PROCEDIMIENTO 3725 3741	tinción de Perls
+T60	PROCEDIMIENTO 4964 4978	antidepresivos
+T61	PROCEDIMIENTO 4980 5003	fenotiacinas y análogos
+T62	PROCEDIMIENTO 1481 1539	herida suturada con cuatro puntos en región ciliar derecha
+T63	PROCEDIMIENTO 5005 5019	antidiabéticos
+T64	PROCEDIMIENTO 5039 5071	antiinflamatorios no esteroideos
+T65	PROCEDIMIENTO 5073 5083	diuréticos
+T66	PROCEDIMIENTO 5085 5099	bases xánticas
+T67	PROCEDIMIENTO 5101 5119	antiparkinsonianos
+T68	PROCEDIMIENTO 5121 5137	antihistamínicos
+T69	PROCEDIMIENTO 5139 5156	antihipertensivos
+T70	PROCEDIMIENTO 5158 5185	antiagregantes plaquetarios
+T71	PROCEDIMIENTO 3955 3958	TAC
+T72	PROCEDIMIENTO 3964 3972	autopsia
+T73	PROCEDIMIENTO 5187 5197	benzamidas
+T74	PROCEDIMIENTO 856 883	TAC craneal (sin contraste)
+T75	PROCEDIMIENTO 5199 5228	opiáceos derivados de morfina
+T76	PROCEDIMIENTO 1104 1130	valoración neuroquirúrgica
+T77	PROCEDIMIENTO 2314 2334	estudio macroscópico
+T78	PROCEDIMIENTO 2248 2274	encéfalo se fija en formol
+T79	PROCEDIMIENTO 3892 3912	estudio microscópico
+T80	PROCEDIMIENTO 3490 3511	análisis microscópico
+T81	PROCEDIMIENTO 1789 1812	hallazgos macroscópicos
+T82	PROCEDIMIENTO 4950 4961	salicilatos
+T83	SINTOMA 4361 4366	edema
+T84	SINTOMA 638 682	deterioro progresivo del nivel de conciencia
+T85	SINTOMA 832 842	anisocoria
+T86	SINTOMA 2577 2643	aplanamiento del hemisferio derecho, sobre todo del lóbulo frontal
+T87	SINTOMA 4821 4857	sangre fue negativo para los tóxicos
+T88	SINTOMA 3725 3753	tinción de Perls es negativa
+T89	SINTOMA 3705 3720	hemosiderófagos
+T90	SINTOMA 3813 3870	duramadre estaba fuertemente adherida a la calota craneal
+T91	SINTOMA 4402 4416	bolas axonales
+T92	SINTOMA 1194 1205	falleciendo
+T93	SINTOMA 685 695	anisocoria
+T94	SINTOMA 700 725	pupila derecha midriática
+T95	SINTOMA 1714 1719	óbito
+T96	SINTOMA 2183 2206	sangre coagulada oscura
+T97	SINTOMA 2759 2806	desviación de la línea media hacia la izquierda
+T98	SINTOMA 2812 2850	colapso del ventrículo lateral derecho
+T99	SINTOMA 4419 4430	espongiosis
+T100	SINTOMA 5667 5673	muerte

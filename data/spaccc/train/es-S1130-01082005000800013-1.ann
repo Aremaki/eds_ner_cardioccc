@@ -1,6 +1,12 @@
-T1	SINTOMA 94 146	dolor abdominal de predominio en hipocondrio derecho
-T2	SINTOMA 157 256	exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
-T3	SINTOMA 224 256	perfil hepático, fueron normales
-T4	ENFERMEDAD 322 346	lesión quística hepática
-T5	ENFERMEDAD 648 723	lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático
-T6	ENFERMEDAD 1031 1054	quiste hepático ciliado
+T1	ENFERMEDAD 322 346	lesión quística hepática
+T2	ENFERMEDAD 648 723	lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático
+T3	ENFERMEDAD 1031 1054	quiste hepático ciliado
+T4	PROCEDIMIENTO 157 175	exploración física
+T5	PROCEDIMIENTO 185 208	exámenes de laboratorio
+T6	PROCEDIMIENTO 276 295	ecografía abdominal
+T7	PROCEDIMIENTO 823 845	quistoperiquistectomía
+T8	PROCEDIMIENTO 579 601	tratamiento quirúrgico
+T9	PROCEDIMIENTO 986 1009	diagnóstico histológico
+T10	SINTOMA 94 146	dolor abdominal de predominio en hipocondrio derecho
+T11	SINTOMA 157 256	exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+T12	SINTOMA 224 256	perfil hepático, fueron normales

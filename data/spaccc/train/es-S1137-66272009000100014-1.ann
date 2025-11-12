@@ -1,24 +1,60 @@
-T1	SINTOMA 1585 1600	“posos de café”
-T2	SINTOMA 1624 1671	abdomen doloroso a la palpación profunda en CII
-T3	SINTOMA 1086 1103	ardor de estómago
-T4	SINTOMA 659 734	dolor lumbar bajo de perfil cólico irradiado a cuadrante inferior izquierdo
-T5	SINTOMA 955 977	dolor lumbar irradiado
-T6	SINTOMA 2489 2539	fundus, cuerpo gástrico, incisura y antro normales
-T7	SINTOMA 2396 2434	mucosa de aspecto claramente isquémico
-T8	SINTOMA 1428 1436	nauseoso
-T9	SINTOMA 2048 2080	plaquetas y coagulación normales
-T10	SINTOMA 1377 1399	relleno capilar normal
-T11	SINTOMA 171 194	sangrado digestivo alto
-T12	SINTOMA 1547 1572	sangrado en fosas nasales
-T13	SINTOMA 1730 1773	tacto rectal negativo para sangre y melenas
-T14	SINTOMA 1114 1146	temblor al levantarse de la cama
-T15	SINTOMA 1259 1293	vómitos de contenido sanguinolento
-T16	SINTOMA 1149 1162	inestabilidad
-T17	SINTOMA 1442 1449	palidez
-T18	SINTOMA 1469 1476	náuseas
-T19	SINTOMA 1687 1708	irritación peritoneal
-T20	SINTOMA 2156 2182	inestabilidad hemodinámica
-T21	SINTOMA 1722 1727	masas
-T22	SINTOMA 1494 1508	normocoloreado
-T23	SINTOMA 2765 2773	falleció
-T24	SINTOMA 1331 1350	buen estado general
+T1	ENFERMEDAD 109 120	hematemesis
+T2	ENFERMEDAD 1028 1031	CRU
+T3	ENFERMEDAD 171 194	sangrado digestivo alto
+T4	ENFERMEDAD 248 264	proceso catarral
+T5	ENFERMEDAD 275 296	crisis renoureterales
+T6	ENFERMEDAD 2635 2661	parada cardiorrespiratoria
+T7	ENFERMEDAD 298 301	CRU
+T8	ENFERMEDAD 1192 1209	traumatismo nasal
+T9	ENFERMEDAD 319 323	asma
+T10	ENFERMEDAD 2795 2832	esofagitis aguda necrotizante erosiva
+T11	ENFERMEDAD 2857 2938	arteriosclerosis aórtica, predominantemente abdominal y en bifurcación de ilíacas
+T12	ENFERMEDAD 2944 2980	aneurisma sacular en aorta abdominal
+T13	ENFERMEDAD 1510 1532	herida en puente nasal
+T14	ENFERMEDAD 629 632	CRU
+T15	ENFERMEDAD 1547 1572	sangrado en fosas nasales
+T16	ENFERMEDAD 3027 3053	hemorragia retroperitoneal
+T17	ENFERMEDAD 850 861	hematemesis
+T18	ENFERMEDAD 1766 1773	melenas
+T19	ENFERMEDAD 2185 2196	hematemesis
+T20	ENFERMEDAD 2229 2254	hemorragia digestiva alta
+T21	ENFERMEDAD 1586 1599	posos de café
+T22	ENFERMEDAD 2384 2434	esófago con mucosa de aspecto claramente isquémico
+T23	PROCEDIMIENTO 2354 2364	endoscopia
+T24	PROCEDIMIENTO 2603 2613	endoscopia
+T25	PROCEDIMIENTO 2701 2726	maniobras de resucitación
+T26	PROCEDIMIENTO 1301 1319	exploración física
+T27	PROCEDIMIENTO 2778 2787	necropsia
+T28	PROCEDIMIENTO 436 492	tratamiento inhalatorio antiinflamatorio-broncodilatador
+T29	PROCEDIMIENTO 1646 1671	palpación profunda en CII
+T30	PROCEDIMIENTO 1730 1742	tacto rectal
+T31	PROCEDIMIENTO 1844 1856	sueroterapia
+T32	PROCEDIMIENTO 1865 1889	vías venosas periféricas
+T33	PROCEDIMIENTO 2331 2341	endoscopia
+T34	PROCEDIMIENTO 1815 1831	pruebas cruzadas
+T35	PROCEDIMIENTO 1803 1812	analítica
+T36	PROCEDIMIENTO 1965 1974	analítica
+T37	SINTOMA 955 977	dolor lumbar irradiado
+T38	SINTOMA 1086 1103	ardor de estómago
+T39	SINTOMA 1114 1146	temblor al levantarse de la cama
+T40	SINTOMA 1149 1162	inestabilidad
+T41	SINTOMA 1259 1293	vómitos de contenido sanguinolento
+T42	SINTOMA 1428 1436	nauseoso
+T43	SINTOMA 1442 1449	palidez
+T44	SINTOMA 1469 1476	náuseas
+T45	SINTOMA 659 734	dolor lumbar bajo de perfil cólico irradiado a cuadrante inferior izquierdo
+T46	SINTOMA 1624 1671	abdomen doloroso a la palpación profunda en CII
+T47	SINTOMA 1687 1708	irritación peritoneal
+T48	SINTOMA 2156 2182	inestabilidad hemodinámica
+T49	SINTOMA 2048 2080	plaquetas y coagulación normales
+T50	SINTOMA 1585 1600	“posos de café”
+T51	SINTOMA 1722 1727	masas
+T52	SINTOMA 1730 1773	tacto rectal negativo para sangre y melenas
+T53	SINTOMA 2489 2539	fundus, cuerpo gástrico, incisura y antro normales
+T54	SINTOMA 1494 1508	normocoloreado
+T55	SINTOMA 1377 1399	relleno capilar normal
+T56	SINTOMA 2765 2773	falleció
+T57	SINTOMA 1331 1350	buen estado general
+T58	SINTOMA 1547 1572	sangrado en fosas nasales
+T59	SINTOMA 2396 2434	mucosa de aspecto claramente isquémico
+T60	SINTOMA 171 194	sangrado digestivo alto

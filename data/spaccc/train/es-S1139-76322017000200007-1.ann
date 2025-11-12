@@ -1,39 +1,39 @@
-T1	SINTOMA 1850 1884	cultivo fue positivo para M. bovis
-T2	SINTOMA 2181 2242	cultivos de micobacterias en jugos gástricos fueron negativos
-T3	SINTOMA 1268 1336	interferon-gamma release assays (IGRA) (QuantiFERON(r)) fue positivo
-T4	SINTOMA 898 937	prueba de tuberculina, que fue positiva
-T5	SINTOMA 1007 1068	radiografía de tórax y la ecografía abdominal fueron normales
-T6	SINTOMA 1075 1167	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus (CMV) fueron negativas
-T7	SINTOMA 311 317	fiebre
-T8	SINTOMA 319 338	sudoración nocturna
-T9	SINTOMA 342 357	pérdida de peso
-T10	SINTOMA 1189 1205	hemograma normal
-T11	SINTOMA 604 627	doloroso a la palpación
-T12	ENFERMEDAD 551 602	conglomerado submandibular izquierdo de adenopatías
-T13	ENFERMEDAD 1674 1694	adenitis tuberculosa
-T14	ENFERMEDAD 118 155	adenopatías dolorosas submandibulares
-T15	ENFERMEDAD 676 687	adenopatías
-T16	ENFERMEDAD 1575 1614	linfadenitis granulomatosa necrotizante
-T17	ENFERMEDAD 1850 1884	cultivo fue positivo para M. bovis
-T18	ENFERMEDAD 2429 2447	proceso infeccioso
-T19	ENFERMEDAD 1446 1456	adenopatía
-T20	PROCEDIMIENTO 1007 1027	radiografía de tórax
-T21	PROCEDIMIENTO 1033 1052	ecografía abdominal
-T22	PROCEDIMIENTO 1075 1144	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus
-T23	PROCEDIMIENTO 1172 1181	analítica
-T24	PROCEDIMIENTO 1189 1198	hemograma
-T25	PROCEDIMIENTO 1268 1323	interferon-gamma release assays (IGRA) (QuantiFERON(r))
-T26	PROCEDIMIENTO 1399 1456	punción aspiración con aguja fina (PAAF) de la adenopatía
-T27	PROCEDIMIENTO 1434 1438	PAAF
-T28	PROCEDIMIENTO 1520 1551	cultivo y el estudio citológico
-T29	PROCEDIMIENTO 1841 1845	PAAF
-T30	PROCEDIMIENTO 1850 1857	cultivo
-T31	PROCEDIMIENTO 1901 1913	antibiograma
-T32	PROCEDIMIENTO 2181 2225	cultivos de micobacterias en jugos gástricos
-T33	PROCEDIMIENTO 256 277	antiinflamatorio oral
-T34	PROCEDIMIENTO 369 384	vacunada de BCG
-T35	PROCEDIMIENTO 520 538	exploración física
-T36	PROCEDIMIENTO 618 627	palpación
-T37	PROCEDIMIENTO 716 734	exploración física
-T38	PROCEDIMIENTO 737 759	anamnesis por aparatos
-T39	PROCEDIMIENTO 898 919	prueba de tuberculina
+T1	ENFERMEDAD 551 602	conglomerado submandibular izquierdo de adenopatías
+T2	ENFERMEDAD 1674 1694	adenitis tuberculosa
+T3	ENFERMEDAD 118 155	adenopatías dolorosas submandibulares
+T4	ENFERMEDAD 676 687	adenopatías
+T5	ENFERMEDAD 1575 1614	linfadenitis granulomatosa necrotizante
+T6	ENFERMEDAD 1850 1884	cultivo fue positivo para M. bovis
+T7	ENFERMEDAD 2429 2447	proceso infeccioso
+T8	ENFERMEDAD 1446 1456	adenopatía
+T9	PROCEDIMIENTO 520 538	exploración física
+T10	PROCEDIMIENTO 1399 1456	punción aspiración con aguja fina (PAAF) de la adenopatía
+T11	PROCEDIMIENTO 1434 1438	PAAF
+T12	PROCEDIMIENTO 369 384	vacunada de BCG
+T13	PROCEDIMIENTO 618 627	palpación
+T14	PROCEDIMIENTO 1189 1198	hemograma
+T15	PROCEDIMIENTO 1520 1551	cultivo y el estudio citológico
+T16	PROCEDIMIENTO 716 734	exploración física
+T17	PROCEDIMIENTO 1007 1027	radiografía de tórax
+T18	PROCEDIMIENTO 737 759	anamnesis por aparatos
+T19	PROCEDIMIENTO 1841 1845	PAAF
+T20	PROCEDIMIENTO 1033 1052	ecografía abdominal
+T21	PROCEDIMIENTO 256 277	antiinflamatorio oral
+T22	PROCEDIMIENTO 1901 1913	antibiograma
+T23	PROCEDIMIENTO 2181 2225	cultivos de micobacterias en jugos gástricos
+T24	PROCEDIMIENTO 898 919	prueba de tuberculina
+T25	PROCEDIMIENTO 1075 1144	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus
+T26	PROCEDIMIENTO 1268 1323	interferon-gamma release assays (IGRA) (QuantiFERON(r))
+T27	PROCEDIMIENTO 1850 1857	cultivo
+T28	PROCEDIMIENTO 1172 1181	analítica
+T29	SINTOMA 1850 1884	cultivo fue positivo para M. bovis
+T30	SINTOMA 311 317	fiebre
+T31	SINTOMA 319 338	sudoración nocturna
+T32	SINTOMA 342 357	pérdida de peso
+T33	SINTOMA 1189 1205	hemograma normal
+T34	SINTOMA 1075 1167	serologías de Brucella, virus de Epstein-Barr (VEB) y citomegalovirus (CMV) fueron negativas
+T35	SINTOMA 898 937	prueba de tuberculina, que fue positiva
+T36	SINTOMA 1007 1068	radiografía de tórax y la ecografía abdominal fueron normales
+T37	SINTOMA 1268 1336	interferon-gamma release assays (IGRA) (QuantiFERON(r)) fue positivo
+T38	SINTOMA 2181 2242	cultivos de micobacterias en jugos gástricos fueron negativos
+T39	SINTOMA 604 627	doloroso a la palpación

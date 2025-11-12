@@ -1,12 +1,49 @@
-T1	SINTOMA 2220 2256	citologías de orina fueron positivas
-T2	SINTOMA 1788 1844	contenido ecogénico en el sistema pielocalicial de riñón
-T3	SINTOMA 1554 1591	dilatación pielocalicial y del uréter
-T4	SINTOMA 1146 1180	ectasia en grupo calicial superior
-T5	SINTOMA 1911 2024	imagen con densidad de partes blandas que afecta al infundíbulo superior y pelvis renal en su porción intrarrenal
-T6	SINTOMA 884 905	masa en fosas renales
-T7	SINTOMA 1040 1063	urocultivo fue negativo
-T8	SINTOMA 737 753	hematuria franca
-T9	SINTOMA 775 787	dolor lumbar
-T10	SINTOMA 1022 1033	proteinuria
-T11	SINTOMA 1214 1223	hematuria
-T12	SINTOMA 1228 1239	proteinuria
+T1	ENFERMEDAD 2379 2430	carcinoma de células transicionales de pelvis renal
+T2	ENFERMEDAD 63 87	carcinoma ductal de mama
+T3	ENFERMEDAD 2445 2483	carcinoma mucinoso que afecta a pelvis
+T4	ENFERMEDAD 125 159	carcinoma ductal "in situ" de mama
+T5	ENFERMEDAD 2608 2647	lesiones ocupantes de espacio en hígado
+T6	ENFERMEDAD 2664 2692	metástasis hepáticas y óseas
+T7	ENFERMEDAD 367 374	fumador
+T8	ENFERMEDAD 485 494	fumadores
+T9	ENFERMEDAD 507 514	fumador
+T10	ENFERMEDAD 588 596	fumadora
+T11	ENFERMEDAD 2105 2214	carcinoma de células transicionales en sistema colector derecho, infundíbulo superior y parte de pelvis renal
+T12	ENFERMEDAD 2072 2078	lesión
+T13	ENFERMEDAD 1554 1591	dilatación pielocalicial y del uréter
+T14	ENFERMEDAD 294 303	ha fumado
+T15	ENFERMEDAD 1146 1180	ectasia en grupo calicial superior
+T16	ENFERMEDAD 2038 2067	dilatación del cáliz superior
+T17	PROCEDIMIENTO 1390 1399	ecografía
+T18	PROCEDIMIENTO 815 833	exploración física
+T19	PROCEDIMIENTO 1513 1534	urografía intravenosa
+T20	PROCEDIMIENTO 919 929	urocultivo
+T21	PROCEDIMIENTO 931 940	ecografía
+T22	PROCEDIMIENTO 2583 2594	TC torácico
+T23	PROCEDIMIENTO 1607 1631	Tomografía Computerizada
+T24	PROCEDIMIENTO 1633 1635	TC
+T25	PROCEDIMIENTO 1040 1050	urocultivo
+T26	PROCEDIMIENTO 1068 1077	ecografía
+T27	PROCEDIMIENTO 1749 1758	ecografía
+T28	PROCEDIMIENTO 1875 1877	TC
+T29	PROCEDIMIENTO 2220 2239	citologías de orina
+T30	PROCEDIMIENTO 2289 2300	nefrectomía
+T31	PROCEDIMIENTO 2303 2338	ureterectomía laparoscópica derecha
+T32	PROCEDIMIENTO 2347 2366	anatomía patológica
+T33	PROCEDIMIENTO 968 986	bioquímica general
+T34	PROCEDIMIENTO 1264 1281	orina de 24 horas
+T35	PROCEDIMIENTO 954 965	hematología
+T36	PROCEDIMIENTO 943 952	analítica
+T37	PROCEDIMIENTO 992 1001	analítica
+T38	SINTOMA 737 753	hematuria franca
+T39	SINTOMA 775 787	dolor lumbar
+T40	SINTOMA 884 905	masa en fosas renales
+T41	SINTOMA 1554 1591	dilatación pielocalicial y del uréter
+T42	SINTOMA 1022 1033	proteinuria
+T43	SINTOMA 1146 1180	ectasia en grupo calicial superior
+T44	SINTOMA 1788 1844	contenido ecogénico en el sistema pielocalicial de riñón
+T45	SINTOMA 1214 1223	hematuria
+T46	SINTOMA 1228 1239	proteinuria
+T47	SINTOMA 1911 2024	imagen con densidad de partes blandas que afecta al infundíbulo superior y pelvis renal en su porción intrarrenal
+T48	SINTOMA 1040 1063	urocultivo fue negativo
+T49	SINTOMA 2220 2256	citologías de orina fueron positivas

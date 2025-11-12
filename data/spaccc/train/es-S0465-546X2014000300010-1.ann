@@ -1,21 +1,26 @@
-T1	SINTOMA 808 814	acolia
-T2	SINTOMA 555 567	alza térmica
-T3	SINTOMA 784 791	astenia
-T4	SINTOMA 799 806	coluria
-T5	SINTOMA 590 645	dolor abdominal ubicado en hipocondrio derecho, de leve
-T6	SINTOMA 980 998	hipertransaminemia
-T7	SINTOMA 817 826	ictericia
-T8	SINTOMA 765 772	nauseas
-T9	SINTOMA 1458 1475	negativo para VIH
-T10	SINTOMA 476 523	negativos los marcadores virales para Hepatitis
-T11	SINTOMA 1435 1455	positividad para VHC
-T12	SINTOMA 1001 1041	serología para hepatitis A y B negativos
-T13	SINTOMA 774 781	vómitos
-T14	ENFERMEDAD 1762 1779	accidente laboral
-T15	ENFERMEDAD 1782 1804	enfermedad profesional
-T16	ENFERMEDAD 514 523	Hepatitis
-T17	ENFERMEDAD 127 148	pinchazo con abbocath
-T18	ENFERMEDAD 367 393	enfermedades transmisibles
-T19	ENFERMEDAD 1204 1215	Hepatitis A
-T20	ENFERMEDAD 1218 1229	Hepatitis B
-T21	ENFERMEDAD 1016 1031	hepatitis A y B
+T1	ENFERMEDAD 1762 1779	accidente laboral
+T2	ENFERMEDAD 1782 1804	enfermedad profesional
+T3	ENFERMEDAD 514 523	Hepatitis
+T4	ENFERMEDAD 127 148	pinchazo con abbocath
+T5	ENFERMEDAD 367 393	enfermedades transmisibles
+T6	ENFERMEDAD 1204 1215	Hepatitis A
+T7	ENFERMEDAD 1218 1229	Hepatitis B
+T8	ENFERMEDAD 1016 1031	hepatitis A y B
+T9	PROCEDIMIENTO 1001 1031	serología para hepatitis A y B
+T10	PROCEDIMIENTO 1183 1229	vacunada frente a la Hepatitis A y Hepatitis B
+T11	PROCEDIMIENTO 490 523	marcadores virales para Hepatitis
+T12	PROCEDIMIENTO 935 963	seriado de enzimas hepáticas
+T13	PROCEDIMIENTO 923 932	analítica
+T14	SINTOMA 1435 1455	positividad para VHC
+T15	SINTOMA 590 645	dolor abdominal ubicado en hipocondrio derecho, de leve
+T16	SINTOMA 765 772	nauseas
+T17	SINTOMA 774 781	vómitos
+T18	SINTOMA 784 791	astenia
+T19	SINTOMA 799 806	coluria
+T20	SINTOMA 808 814	acolia
+T21	SINTOMA 817 826	ictericia
+T22	SINTOMA 980 998	hipertransaminemia
+T23	SINTOMA 1001 1041	serología para hepatitis A y B negativos
+T24	SINTOMA 1458 1475	negativo para VIH
+T25	SINTOMA 555 567	alza térmica
+T26	SINTOMA 476 523	negativos los marcadores virales para Hepatitis

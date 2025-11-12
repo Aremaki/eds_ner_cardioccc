@@ -1,17 +1,27 @@
-T1	SINTOMA 675 730	afectación intersticial micronodular bilateral y difusa
-T2	SINTOMA 1098 1129	antígeno galactomanano negativo
-T3	SINTOMA 364 406	constantes vitales dentro de la normalidad
-T4	SINTOMA 915 953	engrosamiento pleural nodular y difuso
-T5	SINTOMA 278 302	expectoración marronácea
-T6	SINTOMA 740 797	nódulos calcificados, de predominio en lóbulos superiores
-T7	SINTOMA 409 427	roncus bilaterales
-T8	SINTOMA 272 275	tos
-T9	SINTOMA 489 501	leucocitosis
-T10	SINTOMA 1205 1215	hemoptisis
-T11	SINTOMA 236 246	hemoptisis
-T12	ENFERMEDAD 75 84	silicosis
-T13	ENFERMEDAD 104 113	Exfumador
-T14	ENFERMEDAD 155 176	Tuberculosis pulmonar
-T15	ENFERMEDAD 611 657	coágulo en bronquio de lóbulo superior derecho
-T16	ENFERMEDAD 99 102	FMP
-T17	ENFERMEDAD 915 953	engrosamiento pleural nodular y difuso
+T1	ENFERMEDAD 75 84	silicosis
+T2	ENFERMEDAD 104 113	Exfumador
+T3	ENFERMEDAD 155 176	Tuberculosis pulmonar
+T4	ENFERMEDAD 611 657	coágulo en bronquio de lóbulo superior derecho
+T5	ENFERMEDAD 99 102	FMP
+T6	ENFERMEDAD 915 953	engrosamiento pleural nodular y difuso
+T7	PROCEDIMIENTO 336 354	exploración física
+T8	PROCEDIMIENTO 434 455	auscultación pulmonar
+T9	PROCEDIMIENTO 463 479	analítica sérica
+T10	PROCEDIMIENTO 572 589	fibrobroncoscopia
+T11	PROCEDIMIENTO 662 665	TAC
+T12	PROCEDIMIENTO 1021 1038	aspirado bronquia
+T13	PROCEDIMIENTO 1142 1186	embolización de arterias bronquiales del LSI
+T14	PROCEDIMIENTO 958 1039	cultivo fue positivo para Aspergillus fumigatus en esputo y en aspirado bronquial
+T15	SINTOMA 272 275	tos
+T16	SINTOMA 278 302	expectoración marronácea
+T17	SINTOMA 409 427	roncus bilaterales
+T18	SINTOMA 489 501	leucocitosis
+T19	SINTOMA 675 730	afectación intersticial micronodular bilateral y difusa
+T20	SINTOMA 915 953	engrosamiento pleural nodular y difuso
+T21	SINTOMA 364 406	constantes vitales dentro de la normalidad
+T22	SINTOMA 740 797	nódulos calcificados, de predominio en lóbulos superiores
+T23	SINTOMA 800 813	conglomerados
+T24	SINTOMA 958 1005	cultivo fue positivo para Aspergillus fumigatus
+T25	SINTOMA 1205 1215	hemoptisis
+T26	SINTOMA 1098 1129	antígeno galactomanano negativo
+T27	SINTOMA 236 246	hemoptisis

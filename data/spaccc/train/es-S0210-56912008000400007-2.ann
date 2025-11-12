@@ -1,7 +1,10 @@
-T1	SINTOMA 736 748	asintomático
-T2	SINTOMA 120 147	ensanchamiento mediastínico
-T3	ENFERMEDAD 179 264	seudoaneurisma de aorta torácica distal a la salida de la arteria subclavia izquierda
-T4	ENFERMEDAD 555 609	arteria subclavia izquierda quedó parcialmente ocluida
-T5	ENFERMEDAD 332 351	hemotórax bilateral
-T6	ENFERMEDAD 454 465	traumatismo
-T7	ENFERMEDAD 283 318	hematoma periaórtico y mediastínico
+T1	ENFERMEDAD 179 264	seudoaneurisma de aorta torácica distal a la salida de la arteria subclavia izquierda
+T2	ENFERMEDAD 555 609	arteria subclavia izquierda quedó parcialmente ocluida
+T3	ENFERMEDAD 332 351	hemotórax bilateral
+T4	ENFERMEDAD 454 465	traumatismo
+T5	ENFERMEDAD 283 318	hematoma periaórtico y mediastínico
+T6	PROCEDIMIENTO 87 107	radiografía de tórax
+T7	PROCEDIMIENTO 466 550	se colocó una endoprótesis en la aorta torácica descendente por vía ilíaca izquierda
+T8	PROCEDIMIENTO 152 157	TACHT
+T9	SINTOMA 736 748	asintomático
+T10	SINTOMA 120 147	ensanchamiento mediastínico

@@ -1,12 +1,20 @@
-T1	SINTOMA 1001 1013	asintomática
-T2	SINTOMA 62 69	diarrea
-T3	SINTOMA 72 88	síndrome general
-T4	SINTOMA 327 392	masa hepática con crecimiento exofítico hacia fosa iliaca derecha
-T5	SINTOMA 152 188	masa palpable en fosa iliaca derecha
-T6	SINTOMA 542 616	niveles séricos de alfafetoproteína se encontraban dentro de la normalidad
-T7	SINTOMA 426 480	páncreas, bazo, riñones, útero y ovarios eran normales
-T8	SINTOMA 486 535	serologías de virus hepatotropos fueron negativas
-T9	ENFERMEDAD 406 421	hepatocarcinoma
-T10	ENFERMEDAD 730 763	hepatocarcinoma bien diferenciado
-T11	ENFERMEDAD 836 853	invasión vascular
-T12	ENFERMEDAD 667 673	lesión
+T1	ENFERMEDAD 406 421	hepatocarcinoma
+T2	ENFERMEDAD 730 763	hepatocarcinoma bien diferenciado
+T3	ENFERMEDAD 836 853	invasión vascular
+T4	ENFERMEDAD 667 673	lesión
+T5	PROCEDIMIENTO 119 137	exploración física
+T6	PROCEDIMIENTO 211 240	radiografía simple de abdomen
+T7	PROCEDIMIENTO 257 291	tomografía computarizada abdominal
+T8	PROCEDIMIENTO 627 660	punción-aspiración con aguja fina
+T9	PROCEDIMIENTO 698 717	estudio histológico
+T10	PROCEDIMIENTO 779 799	resección quirúrgica
+T11	PROCEDIMIENTO 880 898	quimioembolización
+T12	PROCEDIMIENTO 486 518	serologías de virus hepatotropos
+T13	SINTOMA 62 69	diarrea
+T14	SINTOMA 327 392	masa hepática con crecimiento exofítico hacia fosa iliaca derecha
+T15	SINTOMA 1001 1013	asintomática
+T16	SINTOMA 72 88	síndrome general
+T17	SINTOMA 426 480	páncreas, bazo, riñones, útero y ovarios eran normales
+T18	SINTOMA 486 535	serologías de virus hepatotropos fueron negativas
+T19	SINTOMA 542 616	niveles séricos de alfafetoproteína se encontraban dentro de la normalidad
+T20	SINTOMA 152 188	masa palpable en fosa iliaca derecha

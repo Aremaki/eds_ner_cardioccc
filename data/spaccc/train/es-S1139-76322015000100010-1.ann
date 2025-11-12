@@ -1,13 +1,19 @@
-T1	SINTOMA 112 131	dolor periorbitario
-T2	SINTOMA 212 219	afebril
-T3	SINTOMA 225 232	nauseas
-T4	SINTOMA 235 242	vómitos
-T5	SINTOMA 1293 1298	dolor
-T6	SINTOMA 654 672	afectación pupilar
-T7	ENFERMEDAD 85 101	ptosis palpebral
-T8	ENFERMEDAD 552 618	parálisis de la supraducción y de la aducción de la mirada del ojo
-T9	ENFERMEDAD 261 279	proceso infeccioso
-T10	ENFERMEDAD 632 648	ptosis palpebral
-T11	ENFERMEDAD 1077 1100	síndrome de Tolosa-Hunt
-T12	ENFERMEDAD 1273 1286	oftalmoplejia
-T13	ENFERMEDAD 1320 1341	ptosis palpebral leve
+T1	ENFERMEDAD 85 101	ptosis palpebral
+T2	ENFERMEDAD 552 618	parálisis de la supraducción y de la aducción de la mirada del ojo
+T3	ENFERMEDAD 261 279	proceso infeccioso
+T4	ENFERMEDAD 632 648	ptosis palpebral
+T5	ENFERMEDAD 1077 1100	síndrome de Tolosa-Hunt
+T6	ENFERMEDAD 1273 1286	oftalmoplejia
+T7	ENFERMEDAD 1320 1341	ptosis palpebral leve
+T8	PROCEDIMIENTO 174 185	analgésicos
+T9	PROCEDIMIENTO 515 533	exploración física
+T10	PROCEDIMIENTO 727 736	hemograma
+T11	PROCEDIMIENTO 994 1022	resonancia magnética craneal
+T12	PROCEDIMIENTO 743 761	bioquímica general
+T13	SINTOMA 112 131	dolor periorbitario
+T14	SINTOMA 212 219	afebril
+T15	SINTOMA 225 232	nauseas
+T16	SINTOMA 235 242	vómitos
+T17	SINTOMA 1293 1298	dolor
+T18	SINTOMA 654 672	afectación pupilar
+T19	SINTOMA 727 1060	hemograma y una bioquímica general, velocidad de sedimentación globular, proteína C reactiva, hemoglobina glicosilada, anticuerpos anti-ADN, anticuerpos antinucleares (ANA), anticuerpos extraíbles del núcleo (ENA), anticuerpos anticitoplasma de neutrófilos (ANCA), y resonancia magnética craneal, siendo todos los resultados normales

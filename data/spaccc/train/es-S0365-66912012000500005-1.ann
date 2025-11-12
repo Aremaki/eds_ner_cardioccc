@@ -1,12 +1,50 @@
-T1	SINTOMA 1202 1218	cuerpos coloides
-T2	SINTOMA 670 700	cuerpos coloides en ambos ojos
-T3	SINTOMA 1530 1598	desestructuración de la banda hiperreflectiva EPR-coriocapilar en AO
-T4	SINTOMA 2283 2313	disminuyendo el grosor macular
-T5	SINTOMA 569 593	fondo en piel de naranja
-T6	SINTOMA 844 855	hemorragias
-T7	SINTOMA 1039 1047	hiper-FA
-T8	SINTOMA 1227 1243	intensa hiper-FA
-T9	SINTOMA 1389 1442	lesión hiperfluorescente con difusión tardía en el OI
-T10	SINTOMA 1001 1037	moteado difuso hiperautofluorescente
-T11	SINTOMA 1608 1639	OI una lesión cupuliforme densa
-T12	SINTOMA 53 98	pérdida de visión brusca e indolora en el ojo
+T1	ENFERMEDAD 53 70	pérdida de visión
+T2	ENFERMEDAD 1767 1788	seudoxantoma elástico
+T3	ENFERMEDAD 1462 1465	NVC
+T4	ENFERMEDAD 2255 2280	hemorragias subretinianas
+T5	ENFERMEDAD 637 654	estrías angioides
+T6	ENFERMEDAD 872 875	NVC
+T7	ENFERMEDAD 656 658	EA
+T8	ENFERMEDAD 1670 1702	desprendimiento de neuroepitelio
+T9	ENFERMEDAD 1051 1059	lesiones
+T10	ENFERMEDAD 774 799	lesión grisácea subfoveal
+T11	ENFERMEDAD 1389 1395	lesión
+T12	ENFERMEDAD 1615 1621	lesión
+T13	ENFERMEDAD 743 767	drusas del nervio óptico
+T14	ENFERMEDAD 818 820	EA
+T15	ENFERMEDAD 1171 1195	drusas del nervio óptico
+T16	ENFERMEDAD 1331 1376	alteración del epitelio pigmentario retiniano
+T17	ENFERMEDAD 1641 1644	NVC
+T18	PROCEDIMIENTO 1248 1274	Angiografía fluoresceínica
+T19	PROCEDIMIENTO 185 210	exploración oftalmológica
+T20	PROCEDIMIENTO 1473 1504	tomografía óptica de coherencia
+T21	PROCEDIMIENTO 1868 1892	inyecciones intravítreas
+T22	PROCEDIMIENTO 1276 1279	AFG
+T23	PROCEDIMIENTO 1506 1509	OCT
+T24	PROCEDIMIENTO 960 997	autofluorescencia de fondo (FA) de AO
+T25	PROCEDIMIENTO 1976 1995	medición de la MAVC
+T26	PROCEDIMIENTO 1998 2001	OCT
+T27	PROCEDIMIENTO 340 377	biomicroscopia (BMC) de polo anterior
+T28	PROCEDIMIENTO 356 359	BMC
+T29	PROCEDIMIENTO 2038 2041	AFG
+T30	PROCEDIMIENTO 437 449	fondo de ojo
+T31	PROCEDIMIENTO 451 453	FO
+T32	PROCEDIMIENTO 2127 2130	OCT
+T33	PROCEDIMIENTO 2320 2323	OCT
+T34	PROCEDIMIENTO 988 990	FA
+T35	PROCEDIMIENTO 309 328	presión intraocular
+T36	PROCEDIMIENTO 2025 2034	inyección
+T37	SINTOMA 1530 1598	desestructuración de la banda hiperreflectiva EPR-coriocapilar en AO
+T38	SINTOMA 1608 1639	OI una lesión cupuliforme densa
+T39	SINTOMA 1389 1442	lesión hiperfluorescente con difusión tardía en el OI
+T40	SINTOMA 2283 2313	disminuyendo el grosor macular
+T41	SINTOMA 844 855	hemorragias
+T42	SINTOMA 569 593	fondo en piel de naranja
+T43	SINTOMA 471 489	moteado marronáceo
+T44	SINTOMA 670 700	cuerpos coloides en ambos ojos
+T45	SINTOMA 1202 1218	cuerpos coloides
+T46	SINTOMA 1001 1037	moteado difuso hiperautofluorescente
+T47	SINTOMA 1039 1047	hiper-FA
+T48	SINTOMA 1227 1243	intensa hiper-FA
+T49	SINTOMA 1293 1326	enrejado hiper e hipofluorescente
+T50	SINTOMA 53 98	pérdida de visión brusca e indolora en el ojo

@@ -1,39 +1,39 @@
-T1	SINTOMA 1990 2002	asintomático
-T2	SINTOMA 1931 1936	dolor
-T3	SINTOMA 2053 2103	episodio inflamatorio fistulizado en hemimandíbula
-T4	SINTOMA 618 670	síntomas inflamatorios en la zona radiada, con dolor
-T5	SINTOMA 140 146	T2N0M0
-T6	SINTOMA 69 119	tumoración en la cara lateral derecha de la lengua
-T7	ENFERMEDAD 2491 2498	fístula
-T8	ENFERMEDAD 787 811	ORN de cuerpo mandibular
-T9	ENFERMEDAD 1850 1915	piezas 33 a 38 cariadas y con enfermedad periodontal y periapical
-T10	ENFERMEDAD 1233 1252	fractura patológica
-T11	ENFERMEDAD 1939 1972	infecciones locales de repetición
-T12	ENFERMEDAD 175 196	carcinoma epidermoide
-T13	ENFERMEDAD 673 701	fístula en ángulo mandibular
-T14	ENFERMEDAD 1725 1742	fístula extraoral
-T15	ENFERMEDAD 2151 2175	ORN de cuerpo mandibular
-T16	ENFERMEDAD 1747 1759	defecto óseo
-T17	ENFERMEDAD 144 146	M0
-T18	ENFERMEDAD 2053 2103	episodio inflamatorio fistulizado en hemimandíbula
-T19	PROCEDIMIENTO 1001 1036	tratamiento con oxígeno hiperbárico
-T20	PROCEDIMIENTO 1084 1103	oxígeno hiperbárico
-T21	PROCEDIMIENTO 1282 1317	mandibulectomía segmentaria derecha
-T22	PROCEDIMIENTO 1324 1385	reconstrucción con colgajo libre microvascularizado de peroné
-T23	PROCEDIMIENTO 1406 1420	resección ósea
-T24	PROCEDIMIENTO 1461 1473	radiológicos
-T25	PROCEDIMIENTO 151 158	biopsia
-T26	PROCEDIMIENTO 1560 1583	tejido afecto se resecó
-T27	PROCEDIMIENTO 1652 1742	extirpación en bloque de la mucosa intraoral y la piel circunscrita a la fístula extraoral
-T28	PROCEDIMIENTO 1768 1783	mandibulectomía
-T29	PROCEDIMIENTO 1830 1864	se exodonciaron las piezas 33 a 38
-T30	PROCEDIMIENTO 2119 2135	radiológicamente
-T31	PROCEDIMIENTO 2338 2380	intervención con mandibulectomía izquierda
-T32	PROCEDIMIENTO 2394 2436	peroné microvascularizado con isla cutánea
-T33	PROCEDIMIENTO 2531 2663	retirando la placa de osteosíntesis que unía el extremo anterior del primer peroné trasplantado con la región parasinfisaria derecha
-T34	PROCEDIMIENTO 255 275	radioterapia externa
-T35	PROCEDIMIENTO 398 444	braquiterapia con cuatro agujas de Iridium 196
-T36	PROCEDIMIENTO 714 732	exploración física
-T37	PROCEDIMIENTO 748 765	ortopantomografía
-T38	PROCEDIMIENTO 971 979	curetaje
-T39	PROCEDIMIENTO 981 998	remodelación ósea
+T1	ENFERMEDAD 2491 2498	fístula
+T2	ENFERMEDAD 787 811	ORN de cuerpo mandibular
+T3	ENFERMEDAD 1850 1915	piezas 33 a 38 cariadas y con enfermedad periodontal y periapical
+T4	ENFERMEDAD 1233 1252	fractura patológica
+T5	ENFERMEDAD 1939 1972	infecciones locales de repetición
+T6	ENFERMEDAD 175 196	carcinoma epidermoide
+T7	ENFERMEDAD 673 701	fístula en ángulo mandibular
+T8	ENFERMEDAD 1725 1742	fístula extraoral
+T9	ENFERMEDAD 2151 2175	ORN de cuerpo mandibular
+T10	ENFERMEDAD 1747 1759	defecto óseo
+T11	ENFERMEDAD 144 146	M0
+T12	ENFERMEDAD 2053 2103	episodio inflamatorio fistulizado en hemimandíbula
+T13	PROCEDIMIENTO 714 732	exploración física
+T14	PROCEDIMIENTO 1406 1420	resección ósea
+T15	PROCEDIMIENTO 971 979	curetaje
+T16	PROCEDIMIENTO 1830 1864	se exodonciaron las piezas 33 a 38
+T17	PROCEDIMIENTO 748 765	ortopantomografía
+T18	PROCEDIMIENTO 981 998	remodelación ósea
+T19	PROCEDIMIENTO 255 275	radioterapia externa
+T20	PROCEDIMIENTO 1001 1036	tratamiento con oxígeno hiperbárico
+T21	PROCEDIMIENTO 2531 2663	retirando la placa de osteosíntesis que unía el extremo anterior del primer peroné trasplantado con la región parasinfisaria derecha
+T22	PROCEDIMIENTO 1282 1317	mandibulectomía segmentaria derecha
+T23	PROCEDIMIENTO 1084 1103	oxígeno hiperbárico
+T24	PROCEDIMIENTO 151 158	biopsia
+T25	PROCEDIMIENTO 2338 2380	intervención con mandibulectomía izquierda
+T26	PROCEDIMIENTO 1324 1385	reconstrucción con colgajo libre microvascularizado de peroné
+T27	PROCEDIMIENTO 398 444	braquiterapia con cuatro agujas de Iridium 196
+T28	PROCEDIMIENTO 1652 1742	extirpación en bloque de la mucosa intraoral y la piel circunscrita a la fístula extraoral
+T29	PROCEDIMIENTO 1768 1783	mandibulectomía
+T30	PROCEDIMIENTO 1560 1583	tejido afecto se resecó
+T31	PROCEDIMIENTO 2394 2436	peroné microvascularizado con isla cutánea
+T32	PROCEDIMIENTO 2119 2135	radiológicamente
+T33	PROCEDIMIENTO 1461 1473	radiológicos
+T34	SINTOMA 69 119	tumoración en la cara lateral derecha de la lengua
+T35	SINTOMA 140 146	T2N0M0
+T36	SINTOMA 618 670	síntomas inflamatorios en la zona radiada, con dolor
+T37	SINTOMA 2053 2103	episodio inflamatorio fistulizado en hemimandíbula
+T38	SINTOMA 1990 2002	asintomático
+T39	SINTOMA 1931 1936	dolor

@@ -1,20 +1,31 @@
-T1	SINTOMA 668 716	cultivo de exudado faríngeo que resulta negativo
-T2	SINTOMA 1328 1357	descenso de las transaminasas
-T3	SINTOMA 291 316	edema palpebral bilateral
-T4	SINTOMA 91 116	edema palpebral bilateral
-T5	SINTOMA 1299 1325	hemograma sin alteraciones
-T6	SINTOMA 1520 1545	IgM positiva frente a VEB
-T7	SINTOMA 211 226	leve odinofagia
-T8	SINTOMA 187 194	cefalea
-T9	SINTOMA 232 238	fiebre
-T10	SINTOMA 654 665	proteinuria
-T11	SINTOMA 943 955	leucocitosis
-T12	SINTOMA 1005 1029	aumento de transaminasas
-T13	SINTOMA 1191 1197	fiebre
-T14	SINTOMA 357 363	edemas
-T15	SINTOMA 529 544	edema palpebral
-T16	SINTOMA 1124 1139	edema palpebral
-T17	ENFERMEDAD 393 414	hipertrofia amigdalar
-T18	ENFERMEDAD 1199 1210	adenopatías
-T19	ENFERMEDAD 1214 1234	hepatoesplenomegalia
-T20	ENFERMEDAD 1429 1452	síndrome mononucleósico
+T1	ENFERMEDAD 393 414	hipertrofia amigdalar
+T2	ENFERMEDAD 1199 1210	adenopatías
+T3	ENFERMEDAD 1214 1234	hepatoesplenomegalia
+T4	ENFERMEDAD 1429 1452	síndrome mononucleósico
+T5	PROCEDIMIENTO 150 159	anamnesis
+T6	PROCEDIMIENTO 254 272	exploración física
+T7	PROCEDIMIENTO 596 618	tira reactiva de orina
+T8	PROCEDIMIENTO 668 695	cultivo de exudado faríngeo
+T9	PROCEDIMIENTO 841 850	hemograma
+T10	PROCEDIMIENTO 852 872	bioquímica sanguínea
+T11	PROCEDIMIENTO 874 889	perfil hepático
+T12	PROCEDIMIENTO 892 910	sedimento de orina
+T13	PROCEDIMIENTO 1299 1308	hemograma
+T14	PROCEDIMIENTO 1465 1498	serología de VEB y citomegaloviru
+T15	PROCEDIMIENTO 819 836	estudio analítico
+T16	SINTOMA 187 194	cefalea
+T17	SINTOMA 211 226	leve odinofagia
+T18	SINTOMA 232 238	fiebre
+T19	SINTOMA 654 665	proteinuria
+T20	SINTOMA 943 955	leucocitosis
+T21	SINTOMA 1005 1029	aumento de transaminasas
+T22	SINTOMA 1191 1197	fiebre
+T23	SINTOMA 1328 1357	descenso de las transaminasas
+T24	SINTOMA 357 363	edemas
+T25	SINTOMA 668 716	cultivo de exudado faríngeo que resulta negativo
+T26	SINTOMA 1520 1545	IgM positiva frente a VEB
+T27	SINTOMA 291 316	edema palpebral bilateral
+T28	SINTOMA 529 544	edema palpebral
+T29	SINTOMA 1124 1139	edema palpebral
+T30	SINTOMA 91 116	edema palpebral bilateral
+T31	SINTOMA 1299 1325	hemograma sin alteraciones

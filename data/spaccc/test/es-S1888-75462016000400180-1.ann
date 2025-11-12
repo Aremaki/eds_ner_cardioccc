@@ -1,45 +1,45 @@
-T1	SINTOMA 428 434	disnea
-T2	SINTOMA 397 422	hemodinámicamente estable
-T3	SINTOMA 1258 1264	soplos
-T4	SINTOMA 1268 1278	extratonos
-T5	SINTOMA 368 387	buen estado general
-T6	SINTOMA 523 568	afectación neurovascular del miembro superior
-T7	SINTOMA 1618 1635	D-Dímero positivo
-T8	SINTOMA 446 487	dolor a nivel de clavícula y pared costal
-T9	SINTOMA 1035 1069	edematización del miembro superior
-T10	SINTOMA 1390 1461	espirometría, el electrocardiograma y el ecocardiograma fueron normales
-T11	SINTOMA 1344 1354	estertores
-T12	SINTOMA 1236 1253	frecuencia normal
-T13	SINTOMA 1282 1338	murmullo vesicular conservado en ambos campos pulmonares
-T14	SINTOMA 1144 1168	normalidad de constantes
-T15	SINTOMA 1082 1105	pérdida de sensibilidad
-T16	SINTOMA 1112 1142	pulsos periféricos conservados
-T17	SINTOMA 1208 1233	ruidos cardíacos normales
-T18	ENFERMEDAD 218 255	fractura de tercio medio de clavícula
-T19	ENFERMEDAD 266 346	fractura de arcos costales derechos producidos en accidente con caída en calzada
-T20	ENFERMEDAD 2113 2134	fractura de clavícula
-T21	ENFERMEDAD 640 691	fractura de arcos costales derechos cuarto y quinto
-T22	ENFERMEDAD 1681 1738	trombosis venosa de las venas axilar, cefálica y basílica
-T23	ENFERMEDAD 1743 1834	compresión de la rama cubital del nervio cutáneo braquial medial a nivel del hiato basílico
-T24	ENFERMEDAD 709 718	hemotórax
-T25	ENFERMEDAD 722 732	neumotórax
-T26	ENFERMEDAD 736 776	fractura de tercio medio de la clavícula
-T27	ENFERMEDAD 106 121	hábitos tóxicos
-T28	ENFERMEDAD 125 166	reacción alérgica conocida a medicamentos
-T29	ENFERMEDAD 2171 2188	venas trombosadas
-T30	PROCEDIMIENTO 1171 1203	auscultación cardiorrespiratoria
-T31	PROCEDIMIENTO 1390 1402	espirometría
-T32	PROCEDIMIENTO 1407 1425	electrocardiograma
-T33	PROCEDIMIENTO 1431 1445	ecocardiograma
-T34	PROCEDIMIENTO 1466 1485	analítica sanguínea
-T35	PROCEDIMIENTO 1651 1669	eco-Doppler venoso
-T36	PROCEDIMIENTO 1861 1876	vendaje en ocho
-T37	PROCEDIMIENTO 1881 1892	cabestrillo
-T38	PROCEDIMIENTO 1939 1963	rehabilitación funcional
-T39	PROCEDIMIENTO 2026 2038	radiografías
-T40	PROCEDIMIENTO 2041 2063	utrasonografía-Doppler
-T41	PROCEDIMIENTO 584 610	estudio radiológico simple
-T42	PROCEDIMIENTO 824 854	tomografía axial computarizada
-T43	PROCEDIMIENTO 891 900	analgesia
-T44	PROCEDIMIENTO 902 934	antiinflamatorios no esteroideos
-T45	PROCEDIMIENTO 937 966	colocación de vendaje en ocho
+T1	ENFERMEDAD 218 255	fractura de tercio medio de clavícula
+T2	ENFERMEDAD 266 346	fractura de arcos costales derechos producidos en accidente con caída en calzada
+T3	ENFERMEDAD 2113 2134	fractura de clavícula
+T4	ENFERMEDAD 640 691	fractura de arcos costales derechos cuarto y quinto
+T5	ENFERMEDAD 1681 1738	trombosis venosa de las venas axilar, cefálica y basílica
+T6	ENFERMEDAD 1743 1834	compresión de la rama cubital del nervio cutáneo braquial medial a nivel del hiato basílico
+T7	ENFERMEDAD 709 718	hemotórax
+T8	ENFERMEDAD 722 732	neumotórax
+T9	ENFERMEDAD 736 776	fractura de tercio medio de la clavícula
+T10	ENFERMEDAD 106 121	hábitos tóxicos
+T11	ENFERMEDAD 125 166	reacción alérgica conocida a medicamentos
+T12	ENFERMEDAD 2171 2188	venas trombosadas
+T13	PROCEDIMIENTO 1390 1402	espirometría
+T14	PROCEDIMIENTO 1861 1876	vendaje en ocho
+T15	PROCEDIMIENTO 1407 1425	electrocardiograma
+T16	PROCEDIMIENTO 891 900	analgesia
+T17	PROCEDIMIENTO 1881 1892	cabestrillo
+T18	PROCEDIMIENTO 902 934	antiinflamatorios no esteroideos
+T19	PROCEDIMIENTO 1431 1445	ecocardiograma
+T20	PROCEDIMIENTO 1466 1485	analítica sanguínea
+T21	PROCEDIMIENTO 937 966	colocación de vendaje en ocho
+T22	PROCEDIMIENTO 2041 2063	utrasonografía-Doppler
+T23	PROCEDIMIENTO 1651 1669	eco-Doppler venoso
+T24	PROCEDIMIENTO 1171 1203	auscultación cardiorrespiratoria
+T25	PROCEDIMIENTO 824 854	tomografía axial computarizada
+T26	PROCEDIMIENTO 584 610	estudio radiológico simple
+T27	PROCEDIMIENTO 2026 2038	radiografías
+T28	PROCEDIMIENTO 1939 1963	rehabilitación funcional
+T29	SINTOMA 428 434	disnea
+T30	SINTOMA 446 487	dolor a nivel de clavícula y pared costal
+T31	SINTOMA 1035 1069	edematización del miembro superior
+T32	SINTOMA 523 568	afectación neurovascular del miembro superior
+T33	SINTOMA 1082 1105	pérdida de sensibilidad
+T34	SINTOMA 1112 1142	pulsos periféricos conservados
+T35	SINTOMA 397 422	hemodinámicamente estable
+T36	SINTOMA 1258 1264	soplos
+T37	SINTOMA 1268 1278	extratonos
+T38	SINTOMA 1282 1338	murmullo vesicular conservado en ambos campos pulmonares
+T39	SINTOMA 368 387	buen estado general
+T40	SINTOMA 1144 1168	normalidad de constantes
+T41	SINTOMA 1208 1233	ruidos cardíacos normales
+T42	SINTOMA 1236 1253	frecuencia normal
+T43	SINTOMA 1344 1354	estertores
+T44	SINTOMA 1390 1461	espirometría, el electrocardiograma y el ecocardiograma fueron normales
+T45	SINTOMA 1618 1635	D-Dímero positivo

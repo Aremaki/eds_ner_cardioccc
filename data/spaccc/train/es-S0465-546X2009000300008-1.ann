@@ -1,23 +1,36 @@
-T1	SINTOMA 2647 2706	analíticas mensuales en las que no se detectan alteraciones
-T2	SINTOMA 1901 1973	BACTEC MGIT 960 se confirma el crecimiento de Mycobacterium tuberculosis
-T3	SINTOMA 1804 1880	estudio microbiológico se observan dudosos bacilos ácido alcohol resistentes
-T4	SINTOMA 824 847	Mantoux previo positivo
-T5	SINTOMA 218 278	Mycobacterium tuberculosis, aislada de una muestra de esputo
-T6	SINTOMA 1184 1235	pápula eritematosa, levemente dolorosa a la presión
-T7	ENFERMEDAD 2242 2262	Tuberculosis Cutánea
-T8	ENFERMEDAD 1734 1758	dermatitis granulomatosa
-T9	ENFERMEDAD 2859 2881	Enfermedad Profesional
-T10	ENFERMEDAD 1184 1202	pápula eritematosa
-T11	ENFERMEDAD 1773 1795	dermatitis tuberculosa
-T12	ENFERMEDAD 2960 2986	enfermedades profesionales
-T13	ENFERMEDAD 1293 1313	adenopatías axilares
-T14	ENFERMEDAD 1600 1624	dermatitis granulomatosa
-T15	ENFERMEDAD 1667 1689	dermatitis tuberculosa
-T16	ENFERMEDAD 334 409	pinchándose en la cara lateral externa de la falange distal del dedo índice
-T17	ENFERMEDAD 1044 1056	tuberculosis
-T18	ENFERMEDAD 111 134	inocula accidentalmente
-T19	ENFERMEDAD 943 954	hepatitis B
-T20	ENFERMEDAD 527 533	herida
-T21	ENFERMEDAD 1371 1377	lesión
-T22	ENFERMEDAD 1413 1419	lesión
-T23	ENFERMEDAD 1547 1553	lesión
+T1	ENFERMEDAD 2242 2262	Tuberculosis Cutánea
+T2	ENFERMEDAD 1734 1758	dermatitis granulomatosa
+T3	ENFERMEDAD 2859 2881	Enfermedad Profesional
+T4	ENFERMEDAD 1184 1202	pápula eritematosa
+T5	ENFERMEDAD 1773 1795	dermatitis tuberculosa
+T6	ENFERMEDAD 2960 2986	enfermedades profesionales
+T7	ENFERMEDAD 1293 1313	adenopatías axilares
+T8	ENFERMEDAD 1600 1624	dermatitis granulomatosa
+T9	ENFERMEDAD 1667 1689	dermatitis tuberculosa
+T10	ENFERMEDAD 334 409	pinchándose en la cara lateral externa de la falange distal del dedo índice
+T11	ENFERMEDAD 1044 1056	tuberculosis
+T12	ENFERMEDAD 111 134	inocula accidentalmente
+T13	ENFERMEDAD 943 954	hepatitis B
+T14	ENFERMEDAD 527 533	herida
+T15	ENFERMEDAD 1371 1377	lesión
+T16	ENFERMEDAD 1413 1419	lesión
+T17	ENFERMEDAD 1547 1553	lesión
+T18	PROCEDIMIENTO 1804 1826	estudio microbiológico
+T19	PROCEDIMIENTO 1357 1364	Biopsia
+T20	PROCEDIMIENTO 2188 2210	Estudio Microbiológico
+T21	PROCEDIMIENTO 1522 1553	biopsia y exéresis de la lesión
+T22	PROCEDIMIENTO 2364 2391	tratamiento antituberculoso
+T23	PROCEDIMIENTO 143 196	realiza el antibiograma por el método BACTEC MGIT 960
+T24	PROCEDIMIENTO 1532 1553	exéresis de la lesión
+T25	PROCEDIMIENTO 1713 1732	Anatomía patológica
+T26	PROCEDIMIENTO 1887 1916	cultivarse en BACTEC MGIT 960
+T27	PROCEDIMIENTO 499 559	tratamiento inmediato de la herida (lavado con agua y jabón)
+T28	PROCEDIMIENTO 873 954	serologías para VHC, VIH y anticuerpos postvacunales cuantificados de hepatitis B
+T29	PROCEDIMIENTO 824 831	Mantoux
+T30	PROCEDIMIENTO 861 870	analítica
+T31	SINTOMA 1804 1880	estudio microbiológico se observan dudosos bacilos ácido alcohol resistentes
+T32	SINTOMA 218 278	Mycobacterium tuberculosis, aislada de una muestra de esputo
+T33	SINTOMA 824 847	Mantoux previo positivo
+T34	SINTOMA 1184 1235	pápula eritematosa, levemente dolorosa a la presión
+T35	SINTOMA 1901 1973	BACTEC MGIT 960 se confirma el crecimiento de Mycobacterium tuberculosis
+T36	SINTOMA 2647 2706	analíticas mensuales en las que no se detectan alteraciones

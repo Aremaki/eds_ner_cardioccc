@@ -1,39 +1,39 @@
-T1	SINTOMA 338 356	actitud en flexión
-T2	SINTOMA 882 901	chasquido rotuliano
-T3	SINTOMA 516 580	dolor intenso y tirantez de tendón cuadricipital y pata de ganso
-T4	SINTOMA 144 199	extremidad izquierda con rodilla en flexión fija de 40º
-T5	SINTOMA 2335 2364	hiperelasticidad generalizada
-T6	SINTOMA 2430 2474	molestias en zona anterior de ambas rodillas
-T7	SINTOMA 1549 1607	normalidad de los ligamentos cruzados anterior y posterior
-T8	SINTOMA 626 638	patella baja
-T9	SINTOMA 297 333	'pseudohachazo' proximal a la rótula
-T10	SINTOMA 213 242	rotación externa de la cadera
-T11	SINTOMA 420 458	rótula estaba fija y con gran tirantez
-T12	SINTOMA 1086 1137	tendones rotuliano y cuadricipital estaban indemnes
-T13	SINTOMA 1210 1281	tuberosidad tibial anterior también se encontró en condiciones normales
-T14	SINTOMA 2029 2034	dolor
-T15	SINTOMA 378 383	dolor
-T16	SINTOMA 1158 1166	hematoma
-T17	ENFERMEDAD 711 750	luxación horizontal inferior de patella
-T18	ENFERMEDAD 2513 2536	artrosis fémoro-patelar
-T19	ENFERMEDAD 2151 2204	rodilla con artrosis predominantemente fémoro-patelar
-T20	ENFERMEDAD 2590 2598	luxación
-T21	ENFERMEDAD 1389 1417	foco hemorrágico en LLE, LLI
-T22	ENFERMEDAD 1617 1649	artrosis evidente fémoro-patelar
-T23	ENFERMEDAD 1654 1685	osteofitosis condílea y patelar
-T24	ENFERMEDAD 1952 1963	traumatismo
-T25	ENFERMEDAD 1158 1166	hematoma
-T26	ENFERMEDAD 2298 2304	lesión
-T27	ENFERMEDAD 1733 1780	osteofitos rotulianos y del surco intercondíleo
-T28	PROCEDIMIENTO 1453 1471	artrotomía externa
-T29	PROCEDIMIENTO 1476 1529	extracción de 30 cc de líquido sinovial sero-hemático
-T30	PROCEDIMIENTO 1721 1780	excisión de osteofitos rotulianos y del surco intercondíleo
-T31	PROCEDIMIENTO 1792 1847	inmovilización mediante ortesis de rodilla en extensión
-T32	PROCEDIMIENTO 1900 1912	fisioterapia
-T33	PROCEDIMIENTO 2104 2123	estudio radiológico
-T34	PROCEDIMIENTO 244 289	Se palpaban claramente los condilos femorales
-T35	PROCEDIMIENTO 588 607	estudio radiológico
-T36	PROCEDIMIENTO 756 782	reducción por manipulación
-T37	PROCEDIMIENTO 820 838	anestesia epidural
-T38	PROCEDIMIENTO 914 932	tracción rotuliana
-T39	PROCEDIMIENTO 935 958	extensión de la rodilla
+T1	ENFERMEDAD 711 750	luxación horizontal inferior de patella
+T2	ENFERMEDAD 2513 2536	artrosis fémoro-patelar
+T3	ENFERMEDAD 2151 2204	rodilla con artrosis predominantemente fémoro-patelar
+T4	ENFERMEDAD 2590 2598	luxación
+T5	ENFERMEDAD 1389 1417	foco hemorrágico en LLE, LLI
+T6	ENFERMEDAD 1617 1649	artrosis evidente fémoro-patelar
+T7	ENFERMEDAD 1654 1685	osteofitosis condílea y patelar
+T8	ENFERMEDAD 1952 1963	traumatismo
+T9	ENFERMEDAD 1158 1166	hematoma
+T10	ENFERMEDAD 2298 2304	lesión
+T11	ENFERMEDAD 1733 1780	osteofitos rotulianos y del surco intercondíleo
+T12	PROCEDIMIENTO 756 782	reducción por manipulación
+T13	PROCEDIMIENTO 1792 1847	inmovilización mediante ortesis de rodilla en extensión
+T14	PROCEDIMIENTO 820 838	anestesia epidural
+T15	PROCEDIMIENTO 1900 1912	fisioterapia
+T16	PROCEDIMIENTO 914 932	tracción rotuliana
+T17	PROCEDIMIENTO 935 958	extensión de la rodilla
+T18	PROCEDIMIENTO 1453 1471	artrotomía externa
+T19	PROCEDIMIENTO 1476 1529	extracción de 30 cc de líquido sinovial sero-hemático
+T20	PROCEDIMIENTO 1721 1780	excisión de osteofitos rotulianos y del surco intercondíleo
+T21	PROCEDIMIENTO 588 607	estudio radiológico
+T22	PROCEDIMIENTO 2104 2123	estudio radiológico
+T23	PROCEDIMIENTO 244 289	Se palpaban claramente los condilos femorales
+T24	SINTOMA 144 199	extremidad izquierda con rodilla en flexión fija de 40º
+T25	SINTOMA 626 638	patella baja
+T26	SINTOMA 2430 2474	molestias en zona anterior de ambas rodillas
+T27	SINTOMA 213 242	rotación externa de la cadera
+T28	SINTOMA 2029 2034	dolor
+T29	SINTOMA 2335 2364	hiperelasticidad generalizada
+T30	SINTOMA 882 901	chasquido rotuliano
+T31	SINTOMA 297 333	'pseudohachazo' proximal a la rótula
+T32	SINTOMA 378 383	dolor
+T33	SINTOMA 420 458	rótula estaba fija y con gran tirantez
+T34	SINTOMA 516 580	dolor intenso y tirantez de tendón cuadricipital y pata de ganso
+T35	SINTOMA 1158 1166	hematoma
+T36	SINTOMA 338 356	actitud en flexión
+T37	SINTOMA 1086 1137	tendones rotuliano y cuadricipital estaban indemnes
+T38	SINTOMA 1549 1607	normalidad de los ligamentos cruzados anterior y posterior
+T39	SINTOMA 1210 1281	tuberosidad tibial anterior también se encontró en condiciones normales

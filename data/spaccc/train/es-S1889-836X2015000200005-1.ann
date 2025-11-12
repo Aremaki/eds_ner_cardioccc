@@ -1,15 +1,37 @@
-T1	SINTOMA 2016 2060	alteración de la estática de pies antiálgica
-T2	SINTOMA 479 503	claudicación a la marcha
-T3	SINTOMA 350 374	dolor en pies y tobillos
-T4	SINTOMA 1118 1148	dolor intenso con claudicación
-T5	SINTOMA 914 926	edema de TCS
-T6	SINTOMA 1256 1271	edema en 2o MTT
-T7	SINTOMA 1332 1353	edema en 3er y 4o MTT
-T8	SINTOMA 1673 1764	función renal, calcio sérico y urinario, calcio iónico, magnesio y PTH, que fueron normales
-T9	SINTOMA 273 313	índice de masa corporal (IMC) era normal
-T10	SINTOMA 587 617	inflamación de tobillos y pies
-T11	SINTOMA 727 779	inflamación muy marcada de tejido celular subcutáneo
-T12	SINTOMA 509 557	modificación de la estática de pies por el dolor
-T13	SINTOMA 844 891	Rx de pies, que no mostró hallazgos patológicos
-T14	SINTOMA 602 659	tobillos y pies, con dolor a la presión y fóvea bilateral
-T15	SINTOMA 2094 2099	dolor
+T1	ENFERMEDAD 66 94	espondiloartritis psoriásica
+T2	ENFERMEDAD 97 109	fibromialgia
+T3	ENFERMEDAD 1981 2000	fracturas de estrés
+T4	ENFERMEDAD 2126 2149	insuficiencia linfática
+T5	ENFERMEDAD 1049 1089	insuficiencia linfática bilateral severa
+T6	ENFERMEDAD 1220 1253	callo de fractura en 3er y 4o MTT
+T7	ENFERMEDAD 1309 1328	fractura en 1er MTT
+T8	ENFERMEDAD 1580 1600	fracturas por estrés
+T9	ENFERMEDAD 252 267	hábitos tóxicos
+T10	ENFERMEDAD 395 406	traumatismo
+T11	ENFERMEDAD 800 809	sinovitis
+T12	PROCEDIMIENTO 677 686	ecografía
+T13	PROCEDIMIENTO 819 826	Doppler
+T14	PROCEDIMIENTO 844 854	Rx de pies
+T15	PROCEDIMIENTO 1020 1031	linfografía
+T16	PROCEDIMIENTO 1178 1189	RMN de pies
+T17	PROCEDIMIENTO 1405 1408	RMN
+T18	PROCEDIMIENTO 1534 1548	magnetoterapia
+T19	PROCEDIMIENTO 1660 1686	análisis con función renal
+T20	PROCEDIMIENTO 564 575	exploración
+T21	PROCEDIMIENTO 1840 1867	tratamiento con suplementos
+T22	PROCEDIMIENTO 1479 1549	tratamiento conservador con descarga y rehabilitación (magnetoterapia)
+T23	SINTOMA 2016 2060	alteración de la estática de pies antiálgica
+T24	SINTOMA 2094 2099	dolor
+T25	SINTOMA 350 374	dolor en pies y tobillos
+T26	SINTOMA 479 503	claudicación a la marcha
+T27	SINTOMA 509 557	modificación de la estática de pies por el dolor
+T28	SINTOMA 587 617	inflamación de tobillos y pies
+T29	SINTOMA 602 659	tobillos y pies, con dolor a la presión y fóvea bilateral
+T30	SINTOMA 727 779	inflamación muy marcada de tejido celular subcutáneo
+T31	SINTOMA 1118 1148	dolor intenso con claudicación
+T32	SINTOMA 1256 1271	edema en 2o MTT
+T33	SINTOMA 1332 1353	edema en 3er y 4o MTT
+T34	SINTOMA 273 313	índice de masa corporal (IMC) era normal
+T35	SINTOMA 914 926	edema de TCS
+T36	SINTOMA 1673 1764	función renal, calcio sérico y urinario, calcio iónico, magnesio y PTH, que fueron normales
+T37	SINTOMA 844 891	Rx de pies, que no mostró hallazgos patológicos

@@ -1,40 +1,53 @@
-T1	SINTOMA 590 621	acúfenos de instauración súbita
-T2	SINTOMA 2565 2600	afectación de sus niveles auditivos
-T3	SINTOMA 2103 2134	ascenso de los umbrales en oído
-T4	SINTOMA 905 971	audiometría hipoacusia profunda del oído derecho y cofosis de oído
-T5	SINTOMA 705 724	clínica vertiginosa
-T6	SINTOMA 849 891	exploración física es estrictamente normal
-T7	SINTOMA 371 373	G3
-T8	SINTOMA 206 210	G3T2
-T9	SINTOMA 398 416	ganglios negativos
-T10	SINTOMA 1065 1075	hipoacusia
-T11	SINTOMA 1307 1317	hipoacusia
-T12	SINTOMA 637 657	hipoacusia bilateral
-T13	SINTOMA 1544 1561	hipoacúsia súbita
-T14	SINTOMA 987 1010	impedanciometría normal
-T15	SINTOMA 731 744	inestabilidad
-T16	SINTOMA 810 844	movilidad facial estaba conservada
-T17	SINTOMA 755 762	otalgia
-T18	SINTOMA 766 774	otodinia
-T19	SINTOMA 392 396	pt3b
-T20	SINTOMA 2268 2306	restos auditivos en frecuencias graves
-T21	SINTOMA 2050 2087	restos auditivos en graves en el oído
-T22	SINTOMA 778 805	sensación de plenitud ótica
-T23	ENFERMEDAD 1035 1075	carácter neurosensorial de la hipoacusia
-T24	ENFERMEDAD 37 58	hipertensión arterial
-T25	ENFERMEDAD 60 79	hipercolesterolemia
-T26	ENFERMEDAD 917 927	hipoacusia
-T27	ENFERMEDAD 82 102	hipertrigliceridemia
-T28	ENFERMEDAD 637 657	hipoacusia bilateral
-T29	ENFERMEDAD 956 981	cofosis de oído izquierdo
-T30	ENFERMEDAD 129 168	tumor vesical infiltrante de alto grado
-T31	ENFERMEDAD 1544 1554	hipoacúsia
-T32	ENFERMEDAD 427 452	sepsis de origen urinario
-T33	ENFERMEDAD 1249 1275	infecciones intracraneales
-T34	ENFERMEDAD 1389 1402	shock séptico
-T35	ENFERMEDAD 170 205	Carcinoma de células transicionales
-T36	ENFERMEDAD 218 235	Carcinoma in situ
-T37	ENFERMEDAD 351 370	Carcinoma urotelial
-T38	ENFERMEDAD 1224 1247	enfermedades sistémicas
-T39	ENFERMEDAD 1278 1290	traumatismos
-T40	ENFERMEDAD 1307 1317	hipoacusia
+T1	ENFERMEDAD 1035 1075	carácter neurosensorial de la hipoacusia
+T2	ENFERMEDAD 37 58	hipertensión arterial
+T3	ENFERMEDAD 60 79	hipercolesterolemia
+T4	ENFERMEDAD 917 927	hipoacusia
+T5	ENFERMEDAD 82 102	hipertrigliceridemia
+T6	ENFERMEDAD 637 657	hipoacusia bilateral
+T7	ENFERMEDAD 956 981	cofosis de oído izquierdo
+T8	ENFERMEDAD 129 168	tumor vesical infiltrante de alto grado
+T9	ENFERMEDAD 1544 1554	hipoacúsia
+T10	ENFERMEDAD 427 452	sepsis de origen urinario
+T11	ENFERMEDAD 1249 1275	infecciones intracraneales
+T12	ENFERMEDAD 1389 1402	shock séptico
+T13	ENFERMEDAD 170 205	Carcinoma de células transicionales
+T14	ENFERMEDAD 218 235	Carcinoma in situ
+T15	ENFERMEDAD 351 370	Carcinoma urotelial
+T16	ENFERMEDAD 1224 1247	enfermedades sistémicas
+T17	ENFERMEDAD 1278 1290	traumatismos
+T18	ENFERMEDAD 1307 1317	hipoacusia
+T19	PROCEDIMIENTO 849 867	exploración física
+T20	PROCEDIMIENTO 291 310	cistectomía radical
+T21	PROCEDIMIENTO 315 349	reconstrucción vesical tipo Studer
+T22	PROCEDIMIENTO 905 916	audiometría
+T23	PROCEDIMIENTO 987 1003	impedanciometría
+T24	PROCEDIMIENTO 1580 1591	corticoides
+T25	PROCEDIMIENTO 494 529	tratamiento antibiótico y diurético
+T26	PROCEDIMIENTO 2434 2485	adaptación de una prótesis acústica en oído derecho
+T27	PROCEDIMIENTO 1747 1770	tratamiento corticoideo
+T28	PROCEDIMIENTO 2515 2559	tratamiento complementario con quimioterapia
+T29	PROCEDIMIENTO 1946 1957	audiometría
+T30	PROCEDIMIENTO 255 271	biopsia múltiple
+T31	PROCEDIMIENTO 1150 1159	anamnesis
+T32	SINTOMA 849 891	exploración física es estrictamente normal
+T33	SINTOMA 987 1010	impedanciometría normal
+T34	SINTOMA 705 724	clínica vertiginosa
+T35	SINTOMA 755 762	otalgia
+T36	SINTOMA 766 774	otodinia
+T37	SINTOMA 778 805	sensación de plenitud ótica
+T38	SINTOMA 810 844	movilidad facial estaba conservada
+T39	SINTOMA 1307 1317	hipoacusia
+T40	SINTOMA 731 744	inestabilidad
+T41	SINTOMA 398 416	ganglios negativos
+T42	SINTOMA 2565 2600	afectación de sus niveles auditivos
+T43	SINTOMA 206 210	G3T2
+T44	SINTOMA 371 373	G3
+T45	SINTOMA 392 396	pt3b
+T46	SINTOMA 905 971	audiometría hipoacusia profunda del oído derecho y cofosis de oído
+T47	SINTOMA 1065 1075	hipoacusia
+T48	SINTOMA 1544 1561	hipoacúsia súbita
+T49	SINTOMA 590 621	acúfenos de instauración súbita
+T50	SINTOMA 637 657	hipoacusia bilateral
+T51	SINTOMA 2050 2087	restos auditivos en graves en el oído
+T52	SINTOMA 2103 2134	ascenso de los umbrales en oído
+T53	SINTOMA 2268 2306	restos auditivos en frecuencias graves

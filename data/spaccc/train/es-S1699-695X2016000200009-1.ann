@@ -1,48 +1,64 @@
-T1	SINTOMA 655 698	alteración de la sensibilidad en ambos MMII
-T2	SINTOMA 314 339	alteraciones neurológicas
-T3	SINTOMA 823 857	analítica sanguínea resultó normal
-T4	SINTOMA 2914 2956	atenuación de la percepción de los colores
-T5	SINTOMA 1140 1188	ausencia de reflejos abdominales y cremastéricos
-T6	SINTOMA 1120 1138	Babinsky bilateral
-T7	SINTOMA 948 975	bandas oligoclonales de IgG
-T8	SINTOMA 524 564	dificultad para incorporarse y deambular
-T9	SINTOMA 624 648	disminución de la fuerza
-T10	SINTOMA 232 266	dolor en ambos miembros inferiores
-T11	SINTOMA 1671 1694	dolor intenso en el ojo
-T12	SINTOMA 477 522	dolor, pérdida de fuerza, parestesias en MMII
-T13	SINTOMA 96 105	dorsalgia
-T14	SINTOMA 980 1026	electroencefalograma no evidenció alteraciones
-T15	SINTOMA 3027 3044	enuresis nocturna
-T16	SINTOMA 3049 3069	espasticidad vesical
-T17	SINTOMA 76 94	gonalgia bilateral
-T18	SINTOMA 1190 1233	hiperalgesia y disestesia del tronco y MMII
-T19	SINTOMA 2803 2831	hiperestesia lumbar dolorosa
-T20	SINTOMA 874 929	líquido cefalorraquídeo reveló una moderada pleocitosis
-T21	SINTOMA 2697 2710	marcha normal
-T22	SINTOMA 191 227	movilidad activa y pasiva conservada
-T23	SINTOMA 1070 1102	parálisis y espasticidad de MMII
-T24	SINTOMA 1707 1742	pérdida brusca de la agudeza visual
-T25	SINTOMA 2712 2729	reflejos normales
-T26	SINTOMA 1447 1496	resonancia magnética (RM) cerebral resultó normal
-T27	SINTOMA 108 117	lumbalgia
-T28	SINTOMA 2743 2755	espasticidad
-T29	SINTOMA 2757 2763	ataxia
-T30	SINTOMA 2766 2775	dismetría
-T31	SINTOMA 2885 2899	visión borrosa
-T32	SINTOMA 567 589	incontinencia urinaria
-T33	SINTOMA 1104 1117	hiporreflexia
-T34	ENFERMEDAD 1842 1861	mielitis transversa
-T35	ENFERMEDAD 1864 1879	neuritis óptica
-T36	ENFERMEDAD 1925 1944	esclerosis múltiple
-T37	ENFERMEDAD 1974 2024	lesión de tres o más segmentos medulares (D1 a D6)
-T38	ENFERMEDAD 1796 1811	neuritis óptica
-T39	ENFERMEDAD 301 310	fracturas
-T40	ENFERMEDAD 2203 2223	neuromielitis óptica
-T41	ENFERMEDAD 2226 2245	enfermedad de Devic
-T42	ENFERMEDAD 720 739	mielitis transversa
-T43	ENFERMEDAD 1536 1582	lesión expansiva a nivel medular desde D1 a D6
-T44	ENFERMEDAD 1598 1617	mielitis transversa
-T45	ENFERMEDAD 1070 1102	parálisis y espasticidad de MMII
-T46	ENFERMEDAD 1707 1742	pérdida brusca de la agudeza visual
-T47	ENFERMEDAD 2885 2908	visión borrosa de cerca
-T48	ENFERMEDAD 2914 2956	atenuación de la percepción de los colores
+T1	ENFERMEDAD 1842 1861	mielitis transversa
+T2	ENFERMEDAD 1864 1879	neuritis óptica
+T3	ENFERMEDAD 1925 1944	esclerosis múltiple
+T4	ENFERMEDAD 1974 2024	lesión de tres o más segmentos medulares (D1 a D6)
+T5	ENFERMEDAD 1796 1811	neuritis óptica
+T6	ENFERMEDAD 301 310	fracturas
+T7	ENFERMEDAD 2203 2223	neuromielitis óptica
+T8	ENFERMEDAD 2226 2245	enfermedad de Devic
+T9	ENFERMEDAD 720 739	mielitis transversa
+T10	ENFERMEDAD 1536 1582	lesión expansiva a nivel medular desde D1 a D6
+T11	ENFERMEDAD 1598 1617	mielitis transversa
+T12	ENFERMEDAD 1070 1102	parálisis y espasticidad de MMII
+T13	ENFERMEDAD 1707 1742	pérdida brusca de la agudeza visual
+T14	ENFERMEDAD 2885 2908	visión borrosa de cerca
+T15	ENFERMEDAD 2914 2956	atenuación de la percepción de los colores
+T16	PROCEDIMIENTO 1885 1896	RM cerebral
+T17	PROCEDIMIENTO 2575 2589	corticoterapia
+T18	PROCEDIMIENTO 1947 1957	RM medular
+T19	PROCEDIMIENTO 2420 2433	plasmaféresis
+T20	PROCEDIMIENTO 368 378	frío local
+T21	PROCEDIMIENTO 594 612	exploración física
+T22	PROCEDIMIENTO 862 897	estudio del líquido cefalorraquídeo
+T23	PROCEDIMIENTO 980 1000	electroencefalograma
+T24	PROCEDIMIENTO 1033 1053	potenciales evocados
+T25	PROCEDIMIENTO 1238 1253	electromiograma
+T26	PROCEDIMIENTO 1447 1481	resonancia magnética (RM) cerebral
+T27	PROCEDIMIENTO 1469 1471	RM
+T28	PROCEDIMIENTO 1514 1524	RM medular
+T29	PROCEDIMIENTO 381 409	tratamiento antiinflamatorio
+T30	PROCEDIMIENTO 823 842	analítica sanguínea
+T31	PROCEDIMIENTO 164 175	exploración
+T32	SINTOMA 1671 1694	dolor intenso en el ojo
+T33	SINTOMA 76 94	gonalgia bilateral
+T34	SINTOMA 1707 1742	pérdida brusca de la agudeza visual
+T35	SINTOMA 96 105	dorsalgia
+T36	SINTOMA 108 117	lumbalgia
+T37	SINTOMA 232 266	dolor en ambos miembros inferiores
+T38	SINTOMA 2743 2755	espasticidad
+T39	SINTOMA 2757 2763	ataxia
+T40	SINTOMA 2766 2775	dismetría
+T41	SINTOMA 2803 2831	hiperestesia lumbar dolorosa
+T42	SINTOMA 2885 2899	visión borrosa
+T43	SINTOMA 2914 2956	atenuación de la percepción de los colores
+T44	SINTOMA 477 522	dolor, pérdida de fuerza, parestesias en MMII
+T45	SINTOMA 524 564	dificultad para incorporarse y deambular
+T46	SINTOMA 3027 3044	enuresis nocturna
+T47	SINTOMA 567 589	incontinencia urinaria
+T48	SINTOMA 3049 3069	espasticidad vesical
+T49	SINTOMA 624 648	disminución de la fuerza
+T50	SINTOMA 655 698	alteración de la sensibilidad en ambos MMII
+T51	SINTOMA 874 929	líquido cefalorraquídeo reveló una moderada pleocitosis
+T52	SINTOMA 948 975	bandas oligoclonales de IgG
+T53	SINTOMA 1070 1102	parálisis y espasticidad de MMII
+T54	SINTOMA 1104 1117	hiporreflexia
+T55	SINTOMA 1120 1138	Babinsky bilateral
+T56	SINTOMA 1140 1188	ausencia de reflejos abdominales y cremastéricos
+T57	SINTOMA 1190 1233	hiperalgesia y disestesia del tronco y MMII
+T58	SINTOMA 314 339	alteraciones neurológicas
+T59	SINTOMA 191 227	movilidad activa y pasiva conservada
+T60	SINTOMA 823 857	analítica sanguínea resultó normal
+T61	SINTOMA 980 1026	electroencefalograma no evidenció alteraciones
+T62	SINTOMA 1447 1496	resonancia magnética (RM) cerebral resultó normal
+T63	SINTOMA 2697 2710	marcha normal
+T64	SINTOMA 2712 2729	reflejos normales

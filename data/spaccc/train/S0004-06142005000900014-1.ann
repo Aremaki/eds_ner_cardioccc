@@ -1,14 +1,23 @@
-T1	SINTOMA 80 97	escozor miccional
-T2	SINTOMA 196 215	Urocultivo negativo
-T3	SINTOMA 109 118	hematuria
-T4	SINTOMA 67 78	polaquiuria
-T5	SINTOMA 99 106	tenesmo
-T6	ENFERMEDAD 109 131	hematuria autolimitada
-T7	ENFERMEDAD 421 483	fuera de orificio ureteral dos pequeñas lesiones sobreelevadas
-T8	ENFERMEDAD 728 746	lesiones vesicales
-T9	ENFERMEDAD 790 807	leiomioma vesical
-T10	ENFERMEDAD 656 664	lesiones
-T11	ENFERMEDAD 1208 1216	lesiones
-T12	ENFERMEDAD 270 276	lesión
-T13	ENFERMEDAD 556 575	lesión inflamatoria
-T14	ENFERMEDAD 825 831	lesión
+T1	ENFERMEDAD 109 131	hematuria autolimitada
+T2	ENFERMEDAD 421 483	fuera de orificio ureteral dos pequeñas lesiones sobreelevadas
+T3	ENFERMEDAD 728 746	lesiones vesicales
+T4	ENFERMEDAD 790 807	leiomioma vesical
+T5	ENFERMEDAD 656 664	lesiones
+T6	ENFERMEDAD 1208 1216	lesiones
+T7	ENFERMEDAD 270 276	lesión
+T8	ENFERMEDAD 556 575	lesión inflamatoria
+T9	ENFERMEDAD 825 831	lesión
+T10	PROCEDIMIENTO 715 718	RTU
+T11	PROCEDIMIENTO 196 206	Urocultivo
+T12	PROCEDIMIENTO 139 157	analítica de orina
+T13	PROCEDIMIENTO 766 783	anatomopatológico
+T14	PROCEDIMIENTO 367 378	cistoscopia
+T15	PROCEDIMIENTO 229 248	ecografía abdominal
+T16	PROCEDIMIENTO 1019 1045	estudio inmunohistoquímico
+T17	PROCEDIMIENTO 679 702	intervención quirúrgica
+T18	PROCEDIMIENTO 589 613	tratamiento con A.I.N.E.
+T19	SINTOMA 80 97	escozor miccional
+T20	SINTOMA 109 118	hematuria
+T21	SINTOMA 67 78	polaquiuria
+T22	SINTOMA 99 106	tenesmo
+T23	SINTOMA 196 215	Urocultivo negativo

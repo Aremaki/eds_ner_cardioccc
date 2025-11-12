@@ -1,7 +1,15 @@
-T1	SINTOMA 29 43	epigastralgias
-T2	SINTOMA 111 115	masa
-T3	SINTOMA 46 69	síndrome constitucional
-T4	ENFERMEDAD 171 201	metástasis hepáticas bilobares
-T5	ENFERMEDAD 582 602	metástasis hepáticas
-T6	ENFERMEDAD 296 332	tumor formado por células fusiformes
-T7	ENFERMEDAD 423 427	GANT
+T1	ENFERMEDAD 171 201	metástasis hepáticas bilobares
+T2	ENFERMEDAD 582 602	metástasis hepáticas
+T3	ENFERMEDAD 296 332	tumor formado por células fusiformes
+T4	ENFERMEDAD 423 427	GANT
+T5	PROCEDIMIENTO 97 99	TC
+T6	PROCEDIMIENTO 218 240	hemicolectomía derecha
+T7	PROCEDIMIENTO 245 261	biopsia hepática
+T8	PROCEDIMIENTO 266 285	anatomía patológica
+T9	PROCEDIMIENTO 506 508	TC
+T10	PROCEDIMIENTO 557 602	reducción parcial de las metástasis hepáticas
+T11	PROCEDIMIENTO 374 403	examen ultraestructural e IHQ
+T12	PROCEDIMIENTO 440 498	tratamiento adyuvante con imatinib 400 mg diarios vía oral
+T13	SINTOMA 29 43	epigastralgias
+T14	SINTOMA 46 69	síndrome constitucional
+T15	SINTOMA 111 115	masa

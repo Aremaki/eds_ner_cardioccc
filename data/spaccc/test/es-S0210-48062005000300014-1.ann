@@ -1,43 +1,43 @@
-T1	SINTOMA 2036 2043	cefalea
-T2	SINTOMA 2194 2203	hematuria
-T3	SINTOMA 211 227	hematuria franca
-T4	SINTOMA 900 955	(áreas de necrosis) con distorsión del parénquima renal
-T5	SINTOMA 448 479	abdomen fue blando y depresible
-T6	SINTOMA 2255 2279	algia músculoesquelética
-T7	SINTOMA 311 340	alteración del estado general
-T8	SINTOMA 1224 1241	aumento de la VSG
-T9	SINTOMA 685 721	estudio cistoscópico resultó anodino
-T10	SINTOMA 2244 2252	insomnio
-T11	SINTOMA 399 435	masa palpable a nivel de fosa lumbar
-T12	SINTOMA 526 576	masa sólida heterogénea en polo inferior del riñón
-T13	SINTOMA 1244 1257	normocalcemia
-T14	SINTOMA 595 621	riñón contralateral normal
-T15	SINTOMA 2057 2121	TC cerebral que no muestra hallazgos de significación patológica
-T16	SINTOMA 626 680	vejiga presentó ecos internos compatibles con coágulos
-T17	ENFERMEDAD 833 845	masa tumoral
-T18	ENFERMEDAD 1204 1222	anemia ferropénica
-T19	ENFERMEDAD 54 57	HTA
-T20	ENFERMEDAD 59 74	Hipertiroidismo
-T21	ENFERMEDAD 76 101	Diabetes Mellitus tipo II
-T22	ENFERMEDAD 104 124	síndrome de ansiedad
-T23	ENFERMEDAD 1071 1099	vena renal estaba trombosada
-T24	ENFERMEDAD 1111 1156	adenopatías locorregionales retroperitoneales
-T25	ENFERMEDAD 2244 2252	insomnio
-T26	ENFERMEDAD 1664 1669	tumor
+T1	ENFERMEDAD 833 845	masa tumoral
+T2	ENFERMEDAD 1204 1222	anemia ferropénica
+T3	ENFERMEDAD 54 57	HTA
+T4	ENFERMEDAD 59 74	Hipertiroidismo
+T5	ENFERMEDAD 76 101	Diabetes Mellitus tipo II
+T6	ENFERMEDAD 104 124	síndrome de ansiedad
+T7	ENFERMEDAD 1071 1099	vena renal estaba trombosada
+T8	ENFERMEDAD 1111 1156	adenopatías locorregionales retroperitoneales
+T9	ENFERMEDAD 2244 2252	insomnio
+T10	ENFERMEDAD 1664 1669	tumor
+T11	PROCEDIMIENTO 818 820	TC
+T12	PROCEDIMIENTO 484 502	estudio ecográfico
+T13	PROCEDIMIENTO 751 770	TAC abdominopélvico
+T14	PROCEDIMIENTO 772 780	Rx torax
+T15	PROCEDIMIENTO 782 801	bioquímica hemática
+T16	PROCEDIMIENTO 1436 1468	arteriografía de aorta abdominal
+T17	PROCEDIMIENTO 2057 2068	TC cerebral
+T18	PROCEDIMIENTO 804 813	hemograma
+T19	PROCEDIMIENTO 1486 1584	se cateteriza selectivamente la arteria renal derecha con un catéter angiográfico visceral Cobra 2
+T20	PROCEDIMIENTO 685 705	estudio cistoscópico
+T21	PROCEDIMIENTO 2430 2449	calcio antagonistas
+T22	PROCEDIMIENTO 1353 1375	embolización selectiva
+T23	PROCEDIMIENTO 1381 1468	punción en la arteria femoral común derecha se realiza arteriografía de aorta abdominal
+T24	PROCEDIMIENTO 2422 2427	IECAS
+T25	PROCEDIMIENTO 1630 1715	emboliza la arteria que irriga al tumor con partículas de alcohol de polivinilo (PVA)
+T26	PROCEDIMIENTO 345 363	exploración física
 T27	PROCEDIMIENTO 1270 1285	cirugía radical
-T28	PROCEDIMIENTO 1353 1375	embolización selectiva
-T29	PROCEDIMIENTO 1381 1468	punción en la arteria femoral común derecha se realiza arteriografía de aorta abdominal
-T30	PROCEDIMIENTO 1436 1468	arteriografía de aorta abdominal
-T31	PROCEDIMIENTO 1486 1584	se cateteriza selectivamente la arteria renal derecha con un catéter angiográfico visceral Cobra 2
-T32	PROCEDIMIENTO 1630 1715	emboliza la arteria que irriga al tumor con partículas de alcohol de polivinilo (PVA)
-T33	PROCEDIMIENTO 2057 2068	TC cerebral
-T34	PROCEDIMIENTO 2422 2427	IECAS
-T35	PROCEDIMIENTO 2430 2449	calcio antagonistas
-T36	PROCEDIMIENTO 345 363	exploración física
-T37	PROCEDIMIENTO 484 502	estudio ecográfico
-T38	PROCEDIMIENTO 685 705	estudio cistoscópico
-T39	PROCEDIMIENTO 751 770	TAC abdominopélvico
-T40	PROCEDIMIENTO 772 780	Rx torax
-T41	PROCEDIMIENTO 782 801	bioquímica hemática
-T42	PROCEDIMIENTO 804 813	hemograma
-T43	PROCEDIMIENTO 818 820	TC
+T28	SINTOMA 526 576	masa sólida heterogénea en polo inferior del riñón
+T29	SINTOMA 399 435	masa palpable a nivel de fosa lumbar
+T30	SINTOMA 2036 2043	cefalea
+T31	SINTOMA 1224 1241	aumento de la VSG
+T32	SINTOMA 1244 1257	normocalcemia
+T33	SINTOMA 626 680	vejiga presentó ecos internos compatibles con coágulos
+T34	SINTOMA 2255 2279	algia músculoesquelética
+T35	SINTOMA 311 340	alteración del estado general
+T36	SINTOMA 2194 2203	hematuria
+T37	SINTOMA 448 479	abdomen fue blando y depresible
+T38	SINTOMA 685 721	estudio cistoscópico resultó anodino
+T39	SINTOMA 595 621	riñón contralateral normal
+T40	SINTOMA 900 955	(áreas de necrosis) con distorsión del parénquima renal
+T41	SINTOMA 2057 2121	TC cerebral que no muestra hallazgos de significación patológica
+T42	SINTOMA 2244 2252	insomnio
+T43	SINTOMA 211 227	hematuria franca

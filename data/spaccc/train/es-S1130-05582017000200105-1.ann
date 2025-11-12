@@ -1,21 +1,40 @@
-T1	SINTOMA 1671 1689	alteraciones óseas
-T2	SINTOMA 1421 1473	desplazamiento anterior de la musculatura cigomática
-T3	SINTOMA 2085 2138	engrosamiento que comprometía a la musculatura facial
-T4	SINTOMA 516 606	masa firme, móvil e indolora en la encía del fondo del vestíbulo de la hemiarcada superior
-T5	SINTOMA 275 381	masa sólida, de forma elíptica entre el cuerpo del hueso malar y la parte anterosuperior del hueso maxilar
-T6	SINTOMA 1561 1584	realce con el gadolinio
-T7	SINTOMA 2238 2280	realce tras la administración de contraste
-T8	SINTOMA 126 164	tumefacción asintomática en la mejilla
-T9	SINTOMA 2641 2660	buen estado general
-T10	SINTOMA 1297 1314	tumoración sólida
-T11	SINTOMA 224 240	pérdida ponderal
-T12	SINTOMA 760 764	masa
-T13	ENFERMEDAD 1791 1801	metástasis
-T14	ENFERMEDAD 2946 2962	recidiva tumoral
-T15	ENFERMEDAD 2556 2576	infiltración tumoral
-T16	ENFERMEDAD 415 421	lesión
-T17	ENFERMEDAD 1478 1484	lesión
-T18	ENFERMEDAD 1643 1649	lesión
-T19	ENFERMEDAD 2047 2053	lesión
-T20	ENFERMEDAD 2337 2343	lesión
-T21	ENFERMEDAD 1705 1730	crecimientos adenopáticos
+T1	ENFERMEDAD 1791 1801	metástasis
+T2	ENFERMEDAD 2946 2962	recidiva tumoral
+T3	ENFERMEDAD 2556 2576	infiltración tumoral
+T4	ENFERMEDAD 415 421	lesión
+T5	ENFERMEDAD 1478 1484	lesión
+T6	ENFERMEDAD 1643 1649	lesión
+T7	ENFERMEDAD 2047 2053	lesión
+T8	ENFERMEDAD 2337 2343	lesión
+T9	ENFERMEDAD 1705 1730	crecimientos adenopáticos
+T10	PROCEDIMIENTO 245 263	exploración física
+T11	PROCEDIMIENTO 2719 2739	análisis histológico
+T12	PROCEDIMIENTO 709 737	biopsia con acceso intraoral
+T13	PROCEDIMIENTO 2843 2845	RM
+T14	PROCEDIMIENTO 1240 1260	resonancia magnética
+T15	PROCEDIMIENTO 1262 1264	RM
+T16	PROCEDIMIENTO 1823 1858	biopsia y aspiración de médula ósea
+T17	PROCEDIMIENTO 2373 2427	resección de la musculatura facial y del tejido blando
+T18	PROCEDIMIENTO 1892 1917	PET-TC de cuerpo completo
+T19	PROCEDIMIENTO 478 499	exploración intraoral
+T20	PROCEDIMIENTO 1575 1607	gadolinio tras su administración
+T21	PROCEDIMIENTO 656 692	exploración de la cabeza y el cuello
+T22	PROCEDIMIENTO 1146 1173	análisis inmunohistoquímico
+T23	PROCEDIMIENTO 2253 2280	administración de contraste
+T24	PROCEDIMIENTO 2004 2006	RM
+T25	PROCEDIMIENTO 2308 2330	tratamiento quirúrgico
+T26	PROCEDIMIENTO 739 755	Histológicamente
+T27	PROCEDIMIENTO 1976 1999	protocolo Euro-EWING 99
+T28	PROCEDIMIENTO 2534 2551	radiográficamente
+T29	SINTOMA 275 381	masa sólida, de forma elíptica entre el cuerpo del hueso malar y la parte anterosuperior del hueso maxilar
+T30	SINTOMA 2641 2660	buen estado general
+T31	SINTOMA 1297 1314	tumoración sólida
+T32	SINTOMA 126 164	tumefacción asintomática en la mejilla
+T33	SINTOMA 2085 2138	engrosamiento que comprometía a la musculatura facial
+T34	SINTOMA 1421 1473	desplazamiento anterior de la musculatura cigomática
+T35	SINTOMA 224 240	pérdida ponderal
+T36	SINTOMA 516 606	masa firme, móvil e indolora en la encía del fondo del vestíbulo de la hemiarcada superior
+T37	SINTOMA 760 764	masa
+T38	SINTOMA 1561 1584	realce con el gadolinio
+T39	SINTOMA 1671 1689	alteraciones óseas
+T40	SINTOMA 2238 2280	realce tras la administración de contraste

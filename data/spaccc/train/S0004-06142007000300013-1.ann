@@ -1,15 +1,22 @@
-T1	SINTOMA 772 821	alteraciones asociadas a nivel de la piel peneana
-T2	SINTOMA 659 685	cordón indurado subcutáneo
-T3	SINTOMA 265 296	molestia durante las erecciones
-T4	SINTOMA 855 889	se palpaban adenopatias inguinales
-T5	SINTOMA 1112 1167	serología de enfermedades venéreas que fueron negativas
-T6	SINTOMA 166 220	zona indurada en pene próxima al surco balanoprepucial
-T7	SINTOMA 613 619	fiebre
-T8	SINTOMA 825 845	signos inflamatorios
-T9	SINTOMA 585 609	sintomatología miccional
-T10	SINTOMA 757 765	doloroso
-T11	ENFERMEDAD 867 889	adenopatias inguinales
-T12	ENFERMEDAD 1125 1146	enfermedades venéreas
-T13	ENFERMEDAD 1214 1232	abstinencia sexual
-T14	ENFERMEDAD 438 444	lesión
-T15	ENFERMEDAD 526 537	traumatismo
+T1	ENFERMEDAD 867 889	adenopatias inguinales
+T2	ENFERMEDAD 1125 1146	enfermedades venéreas
+T3	ENFERMEDAD 1214 1232	abstinencia sexual
+T4	ENFERMEDAD 438 444	lesión
+T5	ENFERMEDAD 526 537	traumatismo
+T6	PROCEDIMIENTO 320 329	anamnesis
+T7	PROCEDIMIENTO 980 1044	cultivo de secreción prostática y de orina postmasaje prostático
+T8	PROCEDIMIENTO 938 966	estudio de orina y sedimento
+T9	PROCEDIMIENTO 626 644	exploración física
+T10	PROCEDIMIENTO 1112 1146	serología de enfermedades venéreas
+T11	PROCEDIMIENTO 968 978	urocultivo
+T12	PROCEDIMIENTO 855 889	se palpaban adenopatias inguinales
+T13	SINTOMA 613 619	fiebre
+T14	SINTOMA 825 845	signos inflamatorios
+T15	SINTOMA 585 609	sintomatología miccional
+T16	SINTOMA 265 296	molestia durante las erecciones
+T17	SINTOMA 166 220	zona indurada en pene próxima al surco balanoprepucial
+T18	SINTOMA 659 685	cordón indurado subcutáneo
+T19	SINTOMA 772 821	alteraciones asociadas a nivel de la piel peneana
+T20	SINTOMA 1112 1167	serología de enfermedades venéreas que fueron negativas
+T21	SINTOMA 757 765	doloroso
+T22	SINTOMA 855 889	se palpaban adenopatias inguinales

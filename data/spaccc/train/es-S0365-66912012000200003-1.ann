@@ -1,24 +1,35 @@
-T1	SINTOMA 1915 1934	clínica neurológica
-T2	SINTOMA 1259 1277	cuadro neurológico
-T3	SINTOMA 999 1042	debilidad progresiva en miembros inferiores
-T4	SINTOMA 131 152	disminución de visión
-T5	SINTOMA 1378 1399	hiperreflexia patelar
-T6	SINTOMA 1066 1092	incapacidad para la marcha
-T7	SINTOMA 1710 1751	presencia de anticuerpos frente al HTLV-1
-T8	SINTOMA 586 612	restos celulares en vítreo
-T9	SINTOMA 1413 1458	serología para el VLHT-1 que resultó positiva
-T10	SINTOMA 784 793	snowballs
-T11	SINTOMA 796 805	snowbanks
-T12	ENFERMEDAD 68 75	uveítis
-T13	ENFERMEDAD 1342 1349	uveítis
-T14	ENFERMEDAD 1352 1399	mielopatía idiopática con hiperreflexia patelar
-T15	ENFERMEDAD 1132 1140	vitritis
-T16	ENFERMEDAD 199 213	metamorfopsias
-T17	ENFERMEDAD 680 713	membrana epimacular en ambos ojos
-T18	ENFERMEDAD 286 309	hemorragia intracraneal
-T19	ENFERMEDAD 743 763	vasculitis retiniana
-T20	ENFERMEDAD 863 882	membrana epimacular
-T21	ENFERMEDAD 906 924	uveítis intermedia
-T22	ENFERMEDAD 1794 1824	paraparesia espástica tropical
-T23	ENFERMEDAD 1827 1856	uveítis intermedia por VLHT-1
-T24	ENFERMEDAD 182 194	miodesopsias
+T1	ENFERMEDAD 68 75	uveítis
+T2	ENFERMEDAD 1342 1349	uveítis
+T3	ENFERMEDAD 1352 1399	mielopatía idiopática con hiperreflexia patelar
+T4	ENFERMEDAD 1132 1140	vitritis
+T5	ENFERMEDAD 199 213	metamorfopsias
+T6	ENFERMEDAD 680 713	membrana epimacular en ambos ojos
+T7	ENFERMEDAD 286 309	hemorragia intracraneal
+T8	ENFERMEDAD 743 763	vasculitis retiniana
+T9	ENFERMEDAD 863 882	membrana epimacular
+T10	ENFERMEDAD 906 924	uveítis intermedia
+T11	ENFERMEDAD 1794 1824	paraparesia espástica tropical
+T12	ENFERMEDAD 1827 1856	uveítis intermedia por VLHT-1
+T13	ENFERMEDAD 182 194	miodesopsias
+T14	PROCEDIMIENTO 411 436	exploración oftalmológica
+T15	PROCEDIMIENTO 1283 1311	resonancia magnética nuclear
+T16	PROCEDIMIENTO 540 571	examen con lámpara de hendidura
+T17	PROCEDIMIENTO 1413 1437	serología para el VLHT-1
+T18	PROCEDIMIENTO 644 666	examen de fondo de ojo
+T19	PROCEDIMIENTO 1463 1538	enzimoinmunoanálisis (EIA) para la detección de anticuerpos frente a VLHT-1
+T20	PROCEDIMIENTO 349 403	transfusión de dos unidades de concentrado de hematíes
+T21	PROCEDIMIENTO 814 845	tomografía de coherencia óptica
+T22	PROCEDIMIENTO 1485 1488	EIA
+T23	PROCEDIMIENTO 323 346	intervención quirúrgica
+T24	PROCEDIMIENTO 1599 1639	EIA se analizaron mediante un inmunoblot
+T25	SINTOMA 999 1042	debilidad progresiva en miembros inferiores
+T26	SINTOMA 1066 1092	incapacidad para la marcha
+T27	SINTOMA 131 152	disminución de visión
+T28	SINTOMA 586 612	restos celulares en vítreo
+T29	SINTOMA 784 793	snowballs
+T30	SINTOMA 796 805	snowbanks
+T31	SINTOMA 1915 1934	clínica neurológica
+T32	SINTOMA 1259 1277	cuadro neurológico
+T33	SINTOMA 1378 1399	hiperreflexia patelar
+T34	SINTOMA 1413 1458	serología para el VLHT-1 que resultó positiva
+T35	SINTOMA 1710 1751	presencia de anticuerpos frente al HTLV-1

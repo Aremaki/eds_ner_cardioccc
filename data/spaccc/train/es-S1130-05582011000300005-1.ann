@@ -1,15 +1,37 @@
-T1	SINTOMA 465 494	Estudio de extensión negativo
-T2	SINTOMA 405 424	masa laterocervical
-T3	SINTOMA 144 152	pT4N2bM0
-T4	SINTOMA 1974 1993	buen estado general
-T5	SINTOMA 1999 2004	dolor
-T6	ENFERMEDAD 41 64	cáncer de borde lingual
-T7	ENFERMEDAD 2011 2028	toxicidad crónica
-T8	ENFERMEDAD 2030 2054	fibrosis tejidos blandos
-T9	ENFERMEDAD 517 526	carcinoma
-T10	ENFERMEDAD 612 659	infiltración del músculo esternocleidomastoideo
-T11	ENFERMEDAD 1446 1524	metástasis de carcinoma escamoso pobremente diferenciado en 4 de 7 de ganglios
-T12	ENFERMEDAD 1546 1574	infiltración extraganglionar
-T13	ENFERMEDAD 2101 2107	Cáncer
-T14	ENFERMEDAD 565 572	Tumores
-T15	ENFERMEDAD 932 944	masa tumoral
+T1	ENFERMEDAD 41 64	cáncer de borde lingual
+T2	ENFERMEDAD 2011 2028	toxicidad crónica
+T3	ENFERMEDAD 2030 2054	fibrosis tejidos blandos
+T4	ENFERMEDAD 517 526	carcinoma
+T5	ENFERMEDAD 612 659	infiltración del músculo esternocleidomastoideo
+T6	ENFERMEDAD 1446 1524	metástasis de carcinoma escamoso pobremente diferenciado en 4 de 7 de ganglios
+T7	ENFERMEDAD 1546 1574	infiltración extraganglionar
+T8	ENFERMEDAD 2101 2107	Cáncer
+T9	ENFERMEDAD 565 572	Tumores
+T10	ENFERMEDAD 932 944	masa tumoral
+T11	PROCEDIMIENTO 1844 1860	estado funcional
+T12	PROCEDIMIENTO 1862 1880	exploración física
+T13	PROCEDIMIENTO 84 105	glosectomía izquierda
+T14	PROCEDIMIENTO 1906 1917	TC cervical
+T15	PROCEDIMIENTO 108 142	linfadenectomía cervical izquierda
+T16	PROCEDIMIENTO 957 975	HDRBT intersticial
+T17	PROCEDIMIENTO 246 284	radioterapia conformada tridimensional
+T18	PROCEDIMIENTO 465 485	Estudio de extensión
+T19	PROCEDIMIENTO 671 684	quimioterapia
+T20	PROCEDIMIENTO 742 754	RNM cervical
+T21	PROCEDIMIENTO 817 917	linfadenectomía cervical funcional modificada derecha con resección de vena yugular y nervio espinal
+T22	PROCEDIMIENTO 1044 1061	extirpación total
+T23	PROCEDIMIENTO 496 515	Anatomía patológica
+T24	PROCEDIMIENTO 1419 1438	anatomía patológica
+T25	PROCEDIMIENTO 1312 1333	fijación catéter-piel
+T26	PROCEDIMIENTO 1362 1414	simulación terapéutica cortes (5mm) de TC helicoidal
+T27	PROCEDIMIENTO 1607 1612	HDRBT
+T28	PROCEDIMIENTO 191 219	radioquimioterapia adyuvante
+T29	PROCEDIMIENTO 1180 1344	Utilizamos implante monoplano con cinco tubos plásticos (separados 1cm minimizando riesgo de toxicidad vascular) y botones confort (fijación catéter-piel) Nucletron
+T30	PROCEDIMIENTO 461 463	TC
+T31	PROCEDIMIENTO 1022 1037	acto quirúrgico
+T32	PROCEDIMIENTO 1789 1796	cirugía
+T33	SINTOMA 144 152	pT4N2bM0
+T34	SINTOMA 1974 1993	buen estado general
+T35	SINTOMA 1999 2004	dolor
+T36	SINTOMA 405 424	masa laterocervical
+T37	SINTOMA 465 494	Estudio de extensión negativo

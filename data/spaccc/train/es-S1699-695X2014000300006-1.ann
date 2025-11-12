@@ -1,36 +1,48 @@
-T1	SINTOMA 1798 1834	complejos QRS ahora parecen rítmicos
-T2	SINTOMA 1073 1108	edemas con fóvea hasta las rodillas
-T3	SINTOMA 956 984	hipoventilación generalizada
-T4	SINTOMA 867 915	pulsos radiales están presentes y son simétricos
-T5	SINTOMA 990 1010	ruidos sobreañadidos
-T6	SINTOMA 1336 1364	sensación de giro de objetos
-T7	SINTOMA 263 291	sensación de giro de objetos
-T8	SINTOMA 452 467	sudoración fría
-T9	SINTOMA 827 849	tonos lentos, apagados
-T10	SINTOMA 1326 1331	mareo
-T11	SINTOMA 253 258	mareo
-T12	SINTOMA 361 367	disnea
-T13	SINTOMA 395 417	pérdida de consciencia
-T14	SINTOMA 422 436	dolor torácico
-T15	SINTOMA 441 448	vómitos
-T16	SINTOMA 855 861	soplos
-T17	SINTOMA 1015 1062	exploración neurológica es rigurosamente normal
-T18	ENFERMEDAD 2010 2018	FA lenta
-T19	ENFERMEDAD 31 39	obesidad
-T20	ENFERMEDAD 41 62	hipertensión arterial
-T21	ENFERMEDAD 785 793	arritmia
-T22	ENFERMEDAD 64 67	HTA
-T23	ENFERMEDAD 70 94	diabetes mellitus tipo 2
-T24	ENFERMEDAD 1530 1533	HTA
-T25	ENFERMEDAD 1535 1556	cardiopatía isquémica
-T26	ENFERMEDAD 96 117	cardiopatía isquémica
-T27	ENFERMEDAD 119 121	FA
-T28	ENFERMEDAD 123 162	enfermedad pulmonar obstructiva crónica
-T29	ENFERMEDAD 164 168	EPOC
-T30	ENFERMEDAD 172 199	síndrome de apnea del sueño
-T31	ENFERMEDAD 1676 1695	agudización de EPOC
-T32	ENFERMEDAD 2216 2218	FA
-T33	ENFERMEDAD 2223 2251	bloqueo aurículo-ventricular
-T34	ENFERMEDAD 2263 2286	bloqueo de rama derecha
-T35	ENFERMEDAD 1121 1172	insuficiencia venosa crónica en miembros inferiores
-T36	ENFERMEDAD 1776 1787	bradicardia
+T1	ENFERMEDAD 2010 2018	FA lenta
+T2	ENFERMEDAD 31 39	obesidad
+T3	ENFERMEDAD 41 62	hipertensión arterial
+T4	ENFERMEDAD 785 793	arritmia
+T5	ENFERMEDAD 64 67	HTA
+T6	ENFERMEDAD 70 94	diabetes mellitus tipo 2
+T7	ENFERMEDAD 1530 1533	HTA
+T8	ENFERMEDAD 1535 1556	cardiopatía isquémica
+T9	ENFERMEDAD 96 117	cardiopatía isquémica
+T10	ENFERMEDAD 119 121	FA
+T11	ENFERMEDAD 123 162	enfermedad pulmonar obstructiva crónica
+T12	ENFERMEDAD 164 168	EPOC
+T13	ENFERMEDAD 172 199	síndrome de apnea del sueño
+T14	ENFERMEDAD 1676 1695	agudización de EPOC
+T15	ENFERMEDAD 2216 2218	FA
+T16	ENFERMEDAD 2223 2251	bloqueo aurículo-ventricular
+T17	ENFERMEDAD 2263 2286	bloqueo de rama derecha
+T18	ENFERMEDAD 1121 1172	insuficiencia venosa crónica en miembros inferiores
+T19	ENFERMEDAD 1776 1787	bradicardia
+T20	PROCEDIMIENTO 741 759	exploración física
+T21	PROCEDIMIENTO 1475 1478	ECG
+T22	PROCEDIMIENTO 1725 1746	electrocardiográficos
+T23	PROCEDIMIENTO 800 821	auscultación cardiaca
+T24	PROCEDIMIENTO 1598 1601	ECG
+T25	PROCEDIMIENTO 1453 1456	ECG
+T26	PROCEDIMIENTO 1884 1887	ECG
+T27	PROCEDIMIENTO 923 944	auscultación pulmonar
+T28	PROCEDIMIENTO 1015 1038	exploración neurológica
+T29	PROCEDIMIENTO 2332 2365	implante de marcapasos permanente
+T30	PROCEDIMIENTO 2033 2064	tratamiento cronotropo negativo
+T31	SINTOMA 1326 1331	mareo
+T32	SINTOMA 1336 1364	sensación de giro de objetos
+T33	SINTOMA 956 984	hipoventilación generalizada
+T34	SINTOMA 253 258	mareo
+T35	SINTOMA 263 291	sensación de giro de objetos
+T36	SINTOMA 1073 1108	edemas con fóvea hasta las rodillas
+T37	SINTOMA 361 367	disnea
+T38	SINTOMA 395 417	pérdida de consciencia
+T39	SINTOMA 422 436	dolor torácico
+T40	SINTOMA 441 448	vómitos
+T41	SINTOMA 452 467	sudoración fría
+T42	SINTOMA 855 861	soplos
+T43	SINTOMA 990 1010	ruidos sobreañadidos
+T44	SINTOMA 827 849	tonos lentos, apagados
+T45	SINTOMA 867 915	pulsos radiales están presentes y son simétricos
+T46	SINTOMA 1015 1062	exploración neurológica es rigurosamente normal
+T47	SINTOMA 1798 1834	complejos QRS ahora parecen rítmicos
+T48	SINTOMA 1856 1863	ondas P

@@ -1,42 +1,42 @@
-T1	SINTOMA 2441 2476	aumento progresivo de transaminasas
-T2	SINTOMA 2314 2409	ecocardiograma y electromiograma, sin evidencia de afectación cardiaca ni neuropatía autonómica
-T3	SINTOMA 56 62	edemas
-T4	SINTOMA 491 510	edemas bimaleolares
-T5	SINTOMA 764 865	espectro electroforético en sangre y orina, el estudio inmunológico y la ecografía renal son normales
-T6	SINTOMA 3148 3155	estable
-T7	SINTOMA 733 759	filtrado glomerular normal
-T8	SINTOMA 1680 1716	mutación en el gen de la cadena Afib
-T9	SINTOMA 1740 1816	mutación previamente no descrita en el gen de la apolipoproteína AI (apo AI)
-T10	SINTOMA 672 683	proteinuria
-T11	SINTOMA 698 730	sin alteraciones en el sedimento
-T12	ENFERMEDAD 110 127	amiloidosis renal
-T13	ENFERMEDAD 593 611	síndrome nefrótico
-T14	ENFERMEDAD 244 258	amiloidosis AA
-T15	ENFERMEDAD 2563 2583	amiloidosis familiar
-T16	ENFERMEDAD 353 367	amiloidosis AL
-T17	ENFERMEDAD 3021 3049	depósito de amiloide en bazo
-T18	ENFERMEDAD 1158 1169	amiloidosis
-T19	ENFERMEDAD 1332 1343	amiloidosis
-T20	ENFERMEDAD 2009 2025	amiloidosis Afib
-T21	ENFERMEDAD 2388 2409	neuropatía autonómica
-T22	ENFERMEDAD 2966 2982	rotura esplénica
-T23	PROCEDIMIENTO 1033 1043	rojo Congo
-T24	PROCEDIMIENTO 1177 1210	estudio sobre muestra en parafina
-T25	PROCEDIMIENTO 1445 1515	estudio complementario con anticuerpos frente a fibrinógeno y lisozima
-T26	PROCEDIMIENTO 157 170	biopsia renal
-T27	PROCEDIMIENTO 1639 1655	estudio genético
+T1	ENFERMEDAD 110 127	amiloidosis renal
+T2	ENFERMEDAD 593 611	síndrome nefrótico
+T3	ENFERMEDAD 244 258	amiloidosis AA
+T4	ENFERMEDAD 2563 2583	amiloidosis familiar
+T5	ENFERMEDAD 353 367	amiloidosis AL
+T6	ENFERMEDAD 3021 3049	depósito de amiloide en bazo
+T7	ENFERMEDAD 1158 1169	amiloidosis
+T8	ENFERMEDAD 1332 1343	amiloidosis
+T9	ENFERMEDAD 2009 2025	amiloidosis Afib
+T10	ENFERMEDAD 2388 2409	neuropatía autonómica
+T11	ENFERMEDAD 2966 2982	rotura esplénica
+T12	PROCEDIMIENTO 2314 2328	ecocardiograma
+T13	PROCEDIMIENTO 2331 2346	electromiograma
+T14	PROCEDIMIENTO 430 448	exploración física
+T15	PROCEDIMIENTO 837 852	ecografía renal
+T16	PROCEDIMIENTO 878 891	biopsia renal
+T17	PROCEDIMIENTO 2813 2832	diálisis peritoneal
+T18	PROCEDIMIENTO 2887 2922	trasplante renal de donante cadáver
+T19	PROCEDIMIENTO 3072 3085	esplenectomía
+T20	PROCEDIMIENTO 1445 1515	estudio complementario con anticuerpos frente a fibrinógeno y lisozima
+T21	PROCEDIMIENTO 764 806	espectro electroforético en sangre y orina
+T22	PROCEDIMIENTO 2288 2308	estudio de extensión
+T23	PROCEDIMIENTO 1639 1655	estudio genético
+T24	PROCEDIMIENTO 811 831	estudio inmunológico
+T25	PROCEDIMIENTO 2113 2131	inmunohistoquímica
+T26	PROCEDIMIENTO 721 730	sedimento
+T27	PROCEDIMIENTO 1177 1210	estudio sobre muestra en parafina
 T28	PROCEDIMIENTO 1855 1862	biopsia
-T29	PROCEDIMIENTO 2113 2131	inmunohistoquímica
-T30	PROCEDIMIENTO 2288 2308	estudio de extensión
-T31	PROCEDIMIENTO 2314 2328	ecocardiograma
-T32	PROCEDIMIENTO 2331 2346	electromiograma
-T33	PROCEDIMIENTO 2729 2754	terapia renal sustitutiva
-T34	PROCEDIMIENTO 2813 2832	diálisis peritoneal
-T35	PROCEDIMIENTO 2887 2922	trasplante renal de donante cadáver
-T36	PROCEDIMIENTO 3072 3085	esplenectomía
-T37	PROCEDIMIENTO 430 448	exploración física
-T38	PROCEDIMIENTO 721 730	sedimento
-T39	PROCEDIMIENTO 764 806	espectro electroforético en sangre y orina
-T40	PROCEDIMIENTO 811 831	estudio inmunológico
-T41	PROCEDIMIENTO 837 852	ecografía renal
-T42	PROCEDIMIENTO 878 891	biopsia renal
+T29	PROCEDIMIENTO 2729 2754	terapia renal sustitutiva
+T30	PROCEDIMIENTO 157 170	biopsia renal
+T31	PROCEDIMIENTO 1033 1043	rojo Congo
+T32	SINTOMA 2441 2476	aumento progresivo de transaminasas
+T33	SINTOMA 672 683	proteinuria
+T34	SINTOMA 733 759	filtrado glomerular normal
+T35	SINTOMA 56 62	edemas
+T36	SINTOMA 491 510	edemas bimaleolares
+T37	SINTOMA 1740 1816	mutación previamente no descrita en el gen de la apolipoproteína AI (apo AI)
+T38	SINTOMA 3148 3155	estable
+T39	SINTOMA 698 730	sin alteraciones en el sedimento
+T40	SINTOMA 764 865	espectro electroforético en sangre y orina, el estudio inmunológico y la ecografía renal son normales
+T41	SINTOMA 1680 1716	mutación en el gen de la cadena Afib
+T42	SINTOMA 2314 2409	ecocardiograma y electromiograma, sin evidencia de afectación cardiaca ni neuropatía autonómica

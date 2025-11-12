@@ -1,33 +1,33 @@
-T1	SINTOMA 209 224	pérdida de peso
-T2	SINTOMA 827 850	afectación mediastínica
-T3	SINTOMA 198 206	anorexia
-T4	SINTOMA 164 193	disfagia a sólidos y líquidos
-T5	SINTOMA 636 715	engrosamiento de la pared esofágica en tercio inferior y unión esófago gástrica
-T6	SINTOMA 313 382	masa mamelonada y estenosante desde los 32 cm a unión esofagogástrica
-T7	SINTOMA 1471 1475	T3N0
-T8	ENFERMEDAD 37 46	exfumador
-T9	ENFERMEDAD 1647 1732	cáncer infiltrante de 5 cm con componente epidermoide bien diferenciado y microcítico
-T10	ENFERMEDAD 69 85	bebedor moderado
-T11	ENFERMEDAD 88 92	EPOC
-T12	ENFERMEDAD 1740 1751	adenopatías
-T13	ENFERMEDAD 164 193	disfagia a sólidos y líquidos
-T14	ENFERMEDAD 2051 2071	metástasis hepáticas
-T15	ENFERMEDAD 509 574	componente epidermoide de la neoplasia moderadamente diferenciado
-T16	ENFERMEDAD 928 992	estenosis de 1-5 cm de longitud en el tercio inferior de esófago
-T17	ENFERMEDAD 1055 1112	lesión que afecta a todas las capas de la pared esofágica
-T18	ENFERMEDAD 1424 1445	adenopatía subcarinal
-T19	ENFERMEDAD 405 423	orificio fistuloso
-T20	ENFERMEDAD 794 812	trayecto fistuloso
-T21	PROCEDIMIENTO 1029 1042	ecoendoscopia
-T22	PROCEDIMIENTO 1508 1522	esofaguectomía
-T23	PROCEDIMIENTO 1524 1551	gastroplastia intratorácica
-T24	PROCEDIMIENTO 1554 1582	yeyunostomía de alimentación
-T25	PROCEDIMIENTO 1587 1635	estudio anatomopatológico de la pieza quirúrgica
-T26	PROCEDIMIENTO 1879 1915	tratamiento adyuvante quimioterápico
-T27	PROCEDIMIENTO 1944 1956	radioterapia
-T28	PROCEDIMIENTO 2011 2014	TAC
-T29	PROCEDIMIENTO 2094 2117	quimioterapia paliativa
-T30	PROCEDIMIENTO 262 277	endoscopia oral
-T31	PROCEDIMIENTO 480 487	biopsia
-T32	PROCEDIMIENTO 603 624	TAC toraco-abdominal,
-T33	PROCEDIMIENTO 881 919	estudio esofagogastroduodenal baritado
+T1	ENFERMEDAD 37 46	exfumador
+T2	ENFERMEDAD 1647 1732	cáncer infiltrante de 5 cm con componente epidermoide bien diferenciado y microcítico
+T3	ENFERMEDAD 69 85	bebedor moderado
+T4	ENFERMEDAD 88 92	EPOC
+T5	ENFERMEDAD 1740 1751	adenopatías
+T6	ENFERMEDAD 164 193	disfagia a sólidos y líquidos
+T7	ENFERMEDAD 2051 2071	metástasis hepáticas
+T8	ENFERMEDAD 509 574	componente epidermoide de la neoplasia moderadamente diferenciado
+T9	ENFERMEDAD 928 992	estenosis de 1-5 cm de longitud en el tercio inferior de esófago
+T10	ENFERMEDAD 1055 1112	lesión que afecta a todas las capas de la pared esofágica
+T11	ENFERMEDAD 1424 1445	adenopatía subcarinal
+T12	ENFERMEDAD 405 423	orificio fistuloso
+T13	ENFERMEDAD 794 812	trayecto fistuloso
+T14	PROCEDIMIENTO 1587 1635	estudio anatomopatológico de la pieza quirúrgica
+T15	PROCEDIMIENTO 262 277	endoscopia oral
+T16	PROCEDIMIENTO 1508 1522	esofaguectomía
+T17	PROCEDIMIENTO 1879 1915	tratamiento adyuvante quimioterápico
+T18	PROCEDIMIENTO 1524 1551	gastroplastia intratorácica
+T19	PROCEDIMIENTO 1554 1582	yeyunostomía de alimentación
+T20	PROCEDIMIENTO 1944 1956	radioterapia
+T21	PROCEDIMIENTO 2011 2014	TAC
+T22	PROCEDIMIENTO 480 487	biopsia
+T23	PROCEDIMIENTO 2094 2117	quimioterapia paliativa
+T24	PROCEDIMIENTO 603 624	TAC toraco-abdominal,
+T25	PROCEDIMIENTO 881 919	estudio esofagogastroduodenal baritado
+T26	PROCEDIMIENTO 1029 1042	ecoendoscopia
+T27	SINTOMA 313 382	masa mamelonada y estenosante desde los 32 cm a unión esofagogástrica
+T28	SINTOMA 209 224	pérdida de peso
+T29	SINTOMA 636 715	engrosamiento de la pared esofágica en tercio inferior y unión esófago gástrica
+T30	SINTOMA 1471 1475	T3N0
+T31	SINTOMA 198 206	anorexia
+T32	SINTOMA 827 850	afectación mediastínica
+T33	SINTOMA 164 193	disfagia a sólidos y líquidos

@@ -1,4 +1,8 @@
-T1	SINTOMA 496 512	elevación de PSA
-T2	SINTOMA 217 275	próstata de consistencia adenomatosa y de tamaño aumentado
-T3	SINTOMA 155 178	síntomas de prostatismo
-T4	ENFERMEDAD 644 665	nevus azul prostático
+T1	ENFERMEDAD 644 665	nevus azul prostático
+T2	PROCEDIMIENTO 605 624	anatomía patológica
+T3	PROCEDIMIENTO 554 584	biopsia prostática transrectal
+T4	PROCEDIMIENTO 292 313	ecografia transrectal
+T5	PROCEDIMIENTO 186 199	examen físico
+T6	SINTOMA 155 178	síntomas de prostatismo
+T7	SINTOMA 217 275	próstata de consistencia adenomatosa y de tamaño aumentado
+T8	SINTOMA 496 512	elevación de PSA

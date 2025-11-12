@@ -1,21 +1,21 @@
-T1	SINTOMA 192 232	área edéntula del segundo molar superior
-T2	SINTOMA 779 801	conducto era permeable
-T3	SINTOMA 1689 1740	drenaje de la glándula parótida izquierda es normal
-T4	SINTOMA 351 384	masa exofítica de aspecto nodular
-T5	SINTOMA 807 829	saliva limpia y fluida
-T6	SINTOMA 572 582	tumoración
-T7	SINTOMA 83 106	tumoración asintomática
-T8	ENFERMEDAD 301 313	ulceraciones
-T9	ENFERMEDAD 255 261	lesión
-T10	ENFERMEDAD 1025 1037	masa tumoral
-T11	PROCEDIMIENTO 1155 1204	drenaje activo intraoral a través de la carúncula
-T12	PROCEDIMIENTO 1226 1275	aplicamos presión externa en la glándula parótida
-T13	PROCEDIMIENTO 1295 1317	examen histopatológico
+T1	ENFERMEDAD 301 313	ulceraciones
+T2	ENFERMEDAD 255 261	lesión
+T3	ENFERMEDAD 1025 1037	masa tumoral
+T4	PROCEDIMIENTO 661 758	provocar mediante maniobras de manipulación de la glándula parótida izquierda la salida de saliva
+T5	PROCEDIMIENTO 863 983	localización y canalización del conducto de Estenon a través de su carúncula, mediante un catéter intravenoso pediátrico
+T6	PROCEDIMIENTO 318 339	exploración intraoral
+T7	PROCEDIMIENTO 1535 1629	se rehabilitó el maxilar superior del paciente mediante una prótesis removible de metal-resina
+T8	PROCEDIMIENTO 1295 1317	examen histopatológico
+T9	PROCEDIMIENTO 999 1054	biopsia-extirpación de la masa tumoral con bisturí frío
+T10	PROCEDIMIENTO 1155 1204	drenaje activo intraoral a través de la carúncula
+T11	PROCEDIMIENTO 1226 1275	aplicamos presión externa en la glándula parótida
+T12	PROCEDIMIENTO 645 654	palpación
+T13	PROCEDIMIENTO 1689 1730	drenaje de la glándula parótida izquierda
 T14	PROCEDIMIENTO 1527 1534	cirugía
-T15	PROCEDIMIENTO 1535 1629	se rehabilitó el maxilar superior del paciente mediante una prótesis removible de metal-resina
-T16	PROCEDIMIENTO 1689 1730	drenaje de la glándula parótida izquierda
-T17	PROCEDIMIENTO 318 339	exploración intraoral
-T18	PROCEDIMIENTO 645 654	palpación
-T19	PROCEDIMIENTO 661 758	provocar mediante maniobras de manipulación de la glándula parótida izquierda la salida de saliva
-T20	PROCEDIMIENTO 863 983	localización y canalización del conducto de Estenon a través de su carúncula, mediante un catéter intravenoso pediátrico
-T21	PROCEDIMIENTO 999 1054	biopsia-extirpación de la masa tumoral con bisturí frío
+T15	SINTOMA 192 232	área edéntula del segundo molar superior
+T16	SINTOMA 572 582	tumoración
+T17	SINTOMA 779 801	conducto era permeable
+T18	SINTOMA 807 829	saliva limpia y fluida
+T19	SINTOMA 1689 1740	drenaje de la glándula parótida izquierda es normal
+T20	SINTOMA 83 106	tumoración asintomática
+T21	SINTOMA 351 384	masa exofítica de aspecto nodular

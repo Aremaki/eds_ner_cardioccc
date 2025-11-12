@@ -1,39 +1,39 @@
-T1	SINTOMA 132 138	fiebre
-T2	SINTOMA 193 198	dolor
-T3	SINTOMA 1948 1960	asintomática
-T4	SINTOMA 173 191	actitud antiálgica
-T5	SINTOMA 165 171	cojera
-T6	SINTOMA 1806 1812	cojera
-T7	SINTOMA 593 627	contenido ecogénico intraarticular
-T8	SINTOMA 534 589	ecografía de caderas con distensión de cápsula articula
-T9	SINTOMA 323 360	elevación de reactantes de fase aguda
-T10	SINTOMA 469 496	hemocultivo que es negativo
-T11	SINTOMA 1347 1418	hemograma, recuento de serie blanca e inmunoglobulinas que son normales
-T12	SINTOMA 201 255	limitación a la movilización pasiva y activa de cadera
-T13	SINTOMA 1004 1061	líquido articular es positivo para Haemophilus influenzae
-T14	SINTOMA 743 769	líquido sinovial purulento
-T15	SINTOMA 1770 1800	movilidad completa no dolorosa
-T16	SINTOMA 498 531	radiografía ósea sin alteraciones
-T17	ENFERMEDAD 649 675	artritis séptica de cadera
-T18	ENFERMEDAD 1090 1105	fracaso vacunal
-T19	ENFERMEDAD 743 769	líquido sinovial purulento
-T20	ENFERMEDAD 970 986	artritis séptica
-T21	PROCEDIMIENTO 1135 1143	vacunada
-T22	PROCEDIMIENTO 1333 1401	analítica con hemograma, recuento de serie blanca e inmunoglobulinas
-T23	PROCEDIMIENTO 1347 1356	hemograma
-T24	PROCEDIMIENTO 1358 1382	recuento de serie blanca
-T25	PROCEDIMIENTO 1385 1401	inmunoglobulinas
-T26	PROCEDIMIENTO 1444 1451	cultivo
-T27	PROCEDIMIENTO 1458 1470	antibiograma
-T28	PROCEDIMIENTO 1644 1669	antibioterapia endovenosa
-T29	PROCEDIMIENTO 1683 1702	antibioterapia oral
-T30	PROCEDIMIENTO 1844 1862	técnicas de imagen
-T31	PROCEDIMIENTO 291 310	analítica sanguínea
-T32	PROCEDIMIENTO 469 480	hemocultivo
-T33	PROCEDIMIENTO 498 514	radiografía ósea
-T34	PROCEDIMIENTO 534 554	ecografía de caderas
-T35	PROCEDIMIENTO 705 718	artrocentesis
-T36	PROCEDIMIENTO 793 803	bioquímica
-T37	PROCEDIMIENTO 806 813	cultivo
-T38	PROCEDIMIENTO 826 851	antibioterapia parenteral
-T39	PROCEDIMIENTO 992 1021	cultivo del líquido articular
+T1	ENFERMEDAD 649 675	artritis séptica de cadera
+T2	ENFERMEDAD 1090 1105	fracaso vacunal
+T3	ENFERMEDAD 743 769	líquido sinovial purulento
+T4	ENFERMEDAD 970 986	artritis séptica
+T5	PROCEDIMIENTO 1444 1451	cultivo
+T6	PROCEDIMIENTO 291 310	analítica sanguínea
+T7	PROCEDIMIENTO 1458 1470	antibiograma
+T8	PROCEDIMIENTO 705 718	artrocentesis
+T9	PROCEDIMIENTO 806 813	cultivo
+T10	PROCEDIMIENTO 826 851	antibioterapia parenteral
+T11	PROCEDIMIENTO 469 480	hemocultivo
+T12	PROCEDIMIENTO 1644 1669	antibioterapia endovenosa
+T13	PROCEDIMIENTO 498 514	radiografía ósea
+T14	PROCEDIMIENTO 1683 1702	antibioterapia oral
+T15	PROCEDIMIENTO 534 554	ecografía de caderas
+T16	PROCEDIMIENTO 1347 1356	hemograma
+T17	PROCEDIMIENTO 1358 1382	recuento de serie blanca
+T18	PROCEDIMIENTO 992 1021	cultivo del líquido articular
+T19	PROCEDIMIENTO 1135 1143	vacunada
+T20	PROCEDIMIENTO 793 803	bioquímica
+T21	PROCEDIMIENTO 1333 1401	analítica con hemograma, recuento de serie blanca e inmunoglobulinas
+T22	PROCEDIMIENTO 1844 1862	técnicas de imagen
+T23	PROCEDIMIENTO 1385 1401	inmunoglobulinas
+T24	SINTOMA 323 360	elevación de reactantes de fase aguda
+T25	SINTOMA 132 138	fiebre
+T26	SINTOMA 165 171	cojera
+T27	SINTOMA 173 191	actitud antiálgica
+T28	SINTOMA 193 198	dolor
+T29	SINTOMA 201 255	limitación a la movilización pasiva y activa de cadera
+T30	SINTOMA 593 627	contenido ecogénico intraarticular
+T31	SINTOMA 1004 1061	líquido articular es positivo para Haemophilus influenzae
+T32	SINTOMA 1806 1812	cojera
+T33	SINTOMA 469 496	hemocultivo que es negativo
+T34	SINTOMA 498 531	radiografía ósea sin alteraciones
+T35	SINTOMA 1770 1800	movilidad completa no dolorosa
+T36	SINTOMA 1948 1960	asintomática
+T37	SINTOMA 1347 1418	hemograma, recuento de serie blanca e inmunoglobulinas que son normales
+T38	SINTOMA 743 769	líquido sinovial purulento
+T39	SINTOMA 534 589	ecografía de caderas con distensión de cápsula articula

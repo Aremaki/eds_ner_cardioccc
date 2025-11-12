@@ -1,10 +1,16 @@
-T1	SINTOMA 394 417	alteraciones sensitivas
-T2	SINTOMA 1156 1192	dolor en apófisis espinosas de C3-C4
-T3	SINTOMA 166 189	dolor en región maxilar
-T4	SINTOMA 508 591	dolor se incrementa y comienza a aparecer también en región frontal y periorbitaria
-T5	SINTOMA 830 876	TAC de cráneo y RMN de cráneo sin alteraciones
-T6	SINTOMA 142 147	dolor
-T7	SINTOMA 254 259	dolor
-T8	SINTOMA 619 624	dolor
-T9	SINTOMA 1115 1129	dolor cervical
-T10	ENFERMEDAD 1230 1252	osteoartrosis cervical
+T1	ENFERMEDAD 1230 1252	osteoartrosis cervical
+T2	PROCEDIMIENTO 765 783	exploración física
+T3	PROCEDIMIENTO 830 843	TAC de cráneo
+T4	PROCEDIMIENTO 846 859	RMN de cráneo
+T5	PROCEDIMIENTO 976 1023	bloqueo analgésico a n. infraoritario izquierdo
+T6	PROCEDIMIENTO 1198 1210	radiografías
+T7	PROCEDIMIENTO 1244 1351	cervical y se realizó bloqueo en ambos niveles del lado izquierdo con lidocaína al 1% simple y alcohol puro
+T8	SINTOMA 142 147	dolor
+T9	SINTOMA 166 189	dolor en región maxilar
+T10	SINTOMA 254 259	dolor
+T11	SINTOMA 394 417	alteraciones sensitivas
+T12	SINTOMA 508 591	dolor se incrementa y comienza a aparecer también en región frontal y periorbitaria
+T13	SINTOMA 619 624	dolor
+T14	SINTOMA 1115 1129	dolor cervical
+T15	SINTOMA 1156 1192	dolor en apófisis espinosas de C3-C4
+T16	SINTOMA 830 876	TAC de cráneo y RMN de cráneo sin alteraciones

@@ -1,26 +1,45 @@
-T1	SINTOMA 567 572	masas
-T2	SINTOMA 660 683	Motilidad ocular normal
-T3	SINTOMA 866 917	abultamiento en tercio interno del párpado superior
-T4	SINTOMA 1110 1136	alteración de la motilidad
-T5	SINTOMA 445 480	asimetría entre párpados superiores
-T6	SINTOMA 1514 1532	estereopsis normal
-T7	SINTOMA 709 738	Fondo de ojo sin alteraciones
-T8	SINTOMA 1535 1564	fondo de ojo sin alteraciones
-T9	SINTOMA 1025 1035	hipotropia
-T10	SINTOMA 956 995	limitación de la motilidad de dicho ojo
-T11	SINTOMA 1594 1636	masa en tercio interno de párpado superior
-T12	SINTOMA 1139 1153	masa orbitaria
-T13	SINTOMA 798 810	picor en ojo
-T14	SINTOMA 2175 2215	simetría entre ambos párpados superiores
-T15	SINTOMA 482 552	tercio interno del párpado superior izquierdo discretamente descendido
-T16	SINTOMA 685 707	test de Cover negativo
-T17	SINTOMA 1428 1462	test negativo en posición primaria
-T18	SINTOMA 1762 1806	tumoración en ángulo superointerno de órbita
-T19	ENFERMEDAD 108 131	ptosis congénita de ojo
-T20	ENFERMEDAD 1863 1878	quiste dermoide
-T21	ENFERMEDAD 1025 1035	hipotropia
-T22	ENFERMEDAD 1723 1735	astigmatismo
-T23	ENFERMEDAD 2040 2046	lesión
-T24	ENFERMEDAD 316 340	problemas de coagulación
-T25	ENFERMEDAD 445 480	asimetría entre párpados superiores
-T26	ENFERMEDAD 482 552	tercio interno del párpado superior izquierdo discretamente descendido
+T1	ENFERMEDAD 108 131	ptosis congénita de ojo
+T2	ENFERMEDAD 1863 1878	quiste dermoide
+T3	ENFERMEDAD 1025 1035	hipotropia
+T4	ENFERMEDAD 1723 1735	astigmatismo
+T5	ENFERMEDAD 2040 2046	lesión
+T6	ENFERMEDAD 316 340	problemas de coagulación
+T7	ENFERMEDAD 445 480	asimetría entre párpados superiores
+T8	ENFERMEDAD 482 552	tercio interno del párpado superior izquierdo discretamente descendido
+T9	PROCEDIMIENTO 1748 1751	RMN
+T10	PROCEDIMIENTO 1422 1432	Cover test
+T11	PROCEDIMIENTO 1936 1954	orbitomía anterior
+T12	PROCEDIMIENTO 635 658	test de la E de Snellen
+T13	PROCEDIMIENTO 660 676	Motilidad ocular
+T14	PROCEDIMIENTO 685 698	test de Cover
+T15	PROCEDIMIENTO 287 294	cesárea
+T16	PROCEDIMIENTO 2040 2111	lesión bien definida en cuadrante superointerno orbitario que se extrae
+T17	PROCEDIMIENTO 1535 1547	fondo de ojo
+T18	PROCEDIMIENTO 709 721	Fondo de ojo
+T19	PROCEDIMIENTO 1580 1636	palpación una masa en tercio interno de párpado superior
+T20	PROCEDIMIENTO 1685 1713	resonancia magnética nuclear
+T21	PROCEDIMIENTO 1715 1718	RMN
+T22	PROCEDIMIENTO 1901 1923	tratamiento quirúrgico
+T23	PROCEDIMIENTO 413 424	exploración
+T24	PROCEDIMIENTO 834 845	exploración
+T25	PROCEDIMIENTO 2147 2159	intervención
+T26	PROCEDIMIENTO 1049 1060	exploración
+T27	SINTOMA 445 480	asimetría entre párpados superiores
+T28	SINTOMA 798 810	picor en ojo
+T29	SINTOMA 482 552	tercio interno del párpado superior izquierdo discretamente descendido
+T30	SINTOMA 866 917	abultamiento en tercio interno del párpado superior
+T31	SINTOMA 1514 1532	estereopsis normal
+T32	SINTOMA 1594 1636	masa en tercio interno de párpado superior
+T33	SINTOMA 1110 1136	alteración de la motilidad
+T34	SINTOMA 1139 1153	masa orbitaria
+T35	SINTOMA 567 572	masas
+T36	SINTOMA 660 683	Motilidad ocular normal
+T37	SINTOMA 685 707	test de Cover negativo
+T38	SINTOMA 709 738	Fondo de ojo sin alteraciones
+T39	SINTOMA 956 995	limitación de la motilidad de dicho ojo
+T40	SINTOMA 1476 1512	limitación a la aducción y elevación
+T41	SINTOMA 1535 1564	fondo de ojo sin alteraciones
+T42	SINTOMA 1428 1462	test negativo en posición primaria
+T43	SINTOMA 1762 1806	tumoración en ángulo superointerno de órbita
+T44	SINTOMA 1025 1035	hipotropia
+T45	SINTOMA 2175 2215	simetría entre ambos párpados superiores

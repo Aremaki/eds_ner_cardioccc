@@ -1,31 +1,31 @@
-T1	SINTOMA 626 632	fiebre
-T2	SINTOMA 58 70	miodesopsias
-T3	SINTOMA 1055 1109	serología para toxoplasma fue de IgG>500, IgM negativa
-T4	ENFERMEDAD 225 246	uveítis anterior leve
-T5	ENFERMEDAD 287 302	coriorretinitis
-T6	ENFERMEDAD 422 450	coriorretinitis toxoplásmica
-T7	ENFERMEDAD 723 733	neumonitis
-T8	ENFERMEDAD 736 745	balanitis
-T9	ENFERMEDAD 778 807	hiposfagma bilateral superior
-T10	ENFERMEDAD 809 833	conjuntivitis membranosa
-T11	ENFERMEDAD 861 899	queratopatía superficial en ambos ojos
-T12	ENFERMEDAD 1131 1163	SSJ secundario a la sulfadiacina
-T13	ENFERMEDAD 1217 1237	toxoplasmosis ocular
-T14	ENFERMEDAD 2103 2113	hiposfagma
-T15	ENFERMEDAD 58 70	miodesopsias
-T16	ENFERMEDAD 643 695	exantema papulo-eritematoso en tórax, espalda y cara
-T17	ENFERMEDAD 697 721	vesículas en mucosa oral
-T18	PROCEDIMIENTO 1055 1080	serología para toxoplasma
-T19	PROCEDIMIENTO 109 134	exploración oftalmológica
-T20	PROCEDIMIENTO 1280 1292	fondo de ojo
-T21	PROCEDIMIENTO 1400 1442	cuidados exhaustivos de piel y mucosa oral
-T22	PROCEDIMIENTO 1444 1464	nutrición parenteral
-T23	PROCEDIMIENTO 1467 1476	analgesia
-T24	PROCEDIMIENTO 1649 1670	lágrimas artificiales
-T25	PROCEDIMIENTO 1725 1742	pomada lubricante
-T26	PROCEDIMIENTO 1859 1876	simblefaron-lisis
-T27	PROCEDIMIENTO 210 224	biomicroscopía
-T28	PROCEDIMIENTO 260 272	funduscópica
-T29	PROCEDIMIENTO 913 924	hemocultivo
-T30	PROCEDIMIENTO 926 945	perfil hepato-renal
-T31	PROCEDIMIENTO 947 1010	frotis de mucosa oral para virus, serología herpes y micoplasma
+T1	ENFERMEDAD 225 246	uveítis anterior leve
+T2	ENFERMEDAD 287 302	coriorretinitis
+T3	ENFERMEDAD 422 450	coriorretinitis toxoplásmica
+T4	ENFERMEDAD 723 733	neumonitis
+T5	ENFERMEDAD 736 745	balanitis
+T6	ENFERMEDAD 778 807	hiposfagma bilateral superior
+T7	ENFERMEDAD 809 833	conjuntivitis membranosa
+T8	ENFERMEDAD 861 899	queratopatía superficial en ambos ojos
+T9	ENFERMEDAD 1131 1163	SSJ secundario a la sulfadiacina
+T10	ENFERMEDAD 1217 1237	toxoplasmosis ocular
+T11	ENFERMEDAD 2103 2113	hiposfagma
+T12	ENFERMEDAD 58 70	miodesopsias
+T13	ENFERMEDAD 643 695	exantema papulo-eritematoso en tórax, espalda y cara
+T14	ENFERMEDAD 697 721	vesículas en mucosa oral
+T15	PROCEDIMIENTO 109 134	exploración oftalmológica
+T16	PROCEDIMIENTO 210 224	biomicroscopía
+T17	PROCEDIMIENTO 260 272	funduscópica
+T18	PROCEDIMIENTO 913 924	hemocultivo
+T19	PROCEDIMIENTO 947 1010	frotis de mucosa oral para virus, serología herpes y micoplasma
+T20	PROCEDIMIENTO 1055 1080	serología para toxoplasma
+T21	PROCEDIMIENTO 1444 1464	nutrición parenteral
+T22	PROCEDIMIENTO 1859 1876	simblefaron-lisis
+T23	PROCEDIMIENTO 1280 1292	fondo de ojo
+T24	PROCEDIMIENTO 926 945	perfil hepato-renal
+T25	PROCEDIMIENTO 1467 1476	analgesia
+T26	PROCEDIMIENTO 1400 1442	cuidados exhaustivos de piel y mucosa oral
+T27	PROCEDIMIENTO 1725 1742	pomada lubricante
+T28	PROCEDIMIENTO 1649 1670	lágrimas artificiales
+T29	SINTOMA 58 70	miodesopsias
+T30	SINTOMA 626 632	fiebre
+T31	SINTOMA 1055 1109	serología para toxoplasma fue de IgG>500, IgM negativa

@@ -1,10 +1,42 @@
-T1	SINTOMA 724 742	diplopia binocular
-T2	SINTOMA 1674 1686	dolor dorsal
-T3	SINTOMA 900 957	masa en la porción posterior y lateral del seno cavernoso
-T4	SINTOMA 80 85	T2N2b
-T5	SINTOMA 1212 1252	TAC toraco-abdomino-pélvica fue negativa
-T6	SINTOMA 1876 1883	cefalea
-T7	SINTOMA 676 683	cefalea
-T8	SINTOMA 745 759	visión borrosa
-T9	SINTOMA 1691 1710	clínica neurológica
-T10	SINTOMA 1985 1993	falleció
+T1	ENFERMEDAD 50 79	carcinoma escamoso de laringe
+T2	ENFERMEDAD 1905 1918	oftalmoplejía
+T3	ENFERMEDAD 1453 1492	invasión tumoral del espacio intradural
+T4	ENFERMEDAD 792 839	oftalmoparesia del III, IV y VI pares craneales
+T5	ENFERMEDAD 1532 1550	carcinoma escamoso
+T6	ENFERMEDAD 2032 2063	metástasis en el seno cavernoso
+T7	ENFERMEDAD 334 381	carcinoma escamoso infiltrante en hemiepiglotis
+T8	ENFERMEDAD 1746 1790	lesiones focales en los cuerpos D4, D6 y D10
+T9	ENFERMEDAD 1806 1828	implantes metastásicos
+T10	ENFERMEDAD 1153 1169	lesiones líticas
+T11	ENFERMEDAD 1300 1310	schwannoma
+T12	ENFERMEDAD 1312 1322	meningioma
+T13	ENFERMEDAD 1325 1335	metástasis
+T14	ENFERMEDAD 404 509	ganglios linfáticos positivos de la cadena yugular interna, subdigástricos y supraclaviculares izquierdos
+T15	ENFERMEDAD 724 742	diplopia binocular
+T16	ENFERMEDAD 745 759	visión borrosa
+T17	ENFERMEDAD 1173 1207	invasión del ala o seno esfenoidal
+T18	PROCEDIMIENTO 1353 1432	biopsia abierta con abordaje transilviano a la pared lateral del seno cavernoso
+T19	PROCEDIMIENTO 205 278	laringectomía supraglótica, con vaciamiento radical incompleto modificado
+T20	PROCEDIMIENTO 854 888	resonancia magnética (RM) cerebral
+T21	PROCEDIMIENTO 1581 1612	radioterapia a titulo paliativo
+T22	PROCEDIMIENTO 876 878	RM
+T23	PROCEDIMIENTO 302 321	anatomía patológica
+T24	PROCEDIMIENTO 1726 1738	RM de raquis
+T25	PROCEDIMIENTO 1110 1132	ventana ósea de la TAC
+T26	PROCEDIMIENTO 534 627	quimioterapia y radioterapia sobre supraglotis e hipofaringe y áreas ganglionares bilaterales
+T27	PROCEDIMIENTO 1212 1239	TAC toraco-abdomino-pélvica
+T28	PROCEDIMIENTO 122 145	ciclos de quimioterapia
+T29	PROCEDIMIENTO 1837 1862	tratamiento radioterápico
+T30	PROCEDIMIENTO 1497 1524	resultado anatomopatológico
+T31	PROCEDIMIENTO 655 662	cirugía
+T32	PROCEDIMIENTO 1641 1648	cirugía
+T33	SINTOMA 1876 1883	cefalea
+T34	SINTOMA 676 683	cefalea
+T35	SINTOMA 724 742	diplopia binocular
+T36	SINTOMA 745 759	visión borrosa
+T37	SINTOMA 900 957	masa en la porción posterior y lateral del seno cavernoso
+T38	SINTOMA 1674 1686	dolor dorsal
+T39	SINTOMA 1691 1710	clínica neurológica
+T40	SINTOMA 1212 1252	TAC toraco-abdomino-pélvica fue negativa
+T41	SINTOMA 1985 1993	falleció
+T42	SINTOMA 80 85	T2N2b

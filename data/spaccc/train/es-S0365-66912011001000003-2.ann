@@ -1,5 +1,20 @@
-T1	SINTOMA 84 95	baja visión
-T2	SINTOMA 832 879	dificultad en la integración con sus compañeros
-T3	SINTOMA 579 589	simulación
-T4	ENFERMEDAD 894 902	esguince
-T5	ENFERMEDAD 84 95	baja visión
+T1	ENFERMEDAD 894 902	esguince
+T2	ENFERMEDAD 84 95	baja visión
+T3	PROCEDIMIENTO 223 250	refracción bajo cicloplejia
+T4	PROCEDIMIENTO 272 300	exploraciones oftalmológicas
+T5	PROCEDIMIENTO 361 390	potenciales evocados visuales
+T6	PROCEDIMIENTO 392 395	PEV
+T7	PROCEDIMIENTO 398 417	electrorretinograma
+T8	PROCEDIMIENTO 419 422	ERG
+T9	PROCEDIMIENTO 425 447	angiofluoresceingrafía
+T10	PROCEDIMIENTO 449 452	AFG
+T11	PROCEDIMIENTO 455 485	tomografía axial computerizada
+T12	PROCEDIMIENTO 487 490	TAC
+T13	PROCEDIMIENTO 493 513	resonancia magnética
+T14	PROCEDIMIENTO 515 517	RM
+T15	PROCEDIMIENTO 928 935	muletas
+T16	PROCEDIMIENTO 960 990	prueba de confusión con lentes
+T17	PROCEDIMIENTO 1120 1132	AV monocular
+T18	SINTOMA 84 95	baja visión
+T19	SINTOMA 579 589	simulación
+T20	SINTOMA 832 879	dificultad en la integración con sus compañeros

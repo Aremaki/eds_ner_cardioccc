@@ -1,16 +1,16 @@
-T1	SINTOMA 388 409	ascenso de creatinina
-T2	SINTOMA 1827 1874	catéter peritoneal (crecimiento de C. albicans)
-T3	SINTOMA 1568 1590	descenso de creatinina
-T4	SINTOMA 218 263	hemocultivo positivo a Streptococcus pyogenes
-T5	SINTOMA 295 307	oligo-anuria
-T6	ENFERMEDAD 75 92	fallo renal agudo
-T7	ENFERMEDAD 174 210	coagulación intravascular diseminada
-T8	ENFERMEDAD 212 215	CID
-T9	ENFERMEDAD 95 108	shock séptico
-T10	PROCEDIMIENTO 1001 1016	ultrafiltración
-T11	PROCEDIMIENTO 144 164	ventilación mecánica
-T12	PROCEDIMIENTO 1543 1553	depuración
-T13	PROCEDIMIENTO 1778 1787	dializado
-T14	PROCEDIMIENTO 1814 1845	se retiró el catéter peritoneal
-T15	PROCEDIMIENTO 218 229	hemocultivo
-T16	PROCEDIMIENTO 276 279	DPA
+T1	ENFERMEDAD 75 92	fallo renal agudo
+T2	ENFERMEDAD 174 210	coagulación intravascular diseminada
+T3	ENFERMEDAD 212 215	CID
+T4	ENFERMEDAD 95 108	shock séptico
+T5	PROCEDIMIENTO 144 164	ventilación mecánica
+T6	PROCEDIMIENTO 276 279	DPA
+T7	PROCEDIMIENTO 1814 1845	se retiró el catéter peritoneal
+T8	PROCEDIMIENTO 1001 1016	ultrafiltración
+T9	PROCEDIMIENTO 218 229	hemocultivo
+T10	PROCEDIMIENTO 1543 1553	depuración
+T11	PROCEDIMIENTO 1778 1787	dializado
+T12	SINTOMA 218 263	hemocultivo positivo a Streptococcus pyogenes
+T13	SINTOMA 295 307	oligo-anuria
+T14	SINTOMA 388 409	ascenso de creatinina
+T15	SINTOMA 1827 1874	catéter peritoneal (crecimiento de C. albicans)
+T16	SINTOMA 1568 1590	descenso de creatinina

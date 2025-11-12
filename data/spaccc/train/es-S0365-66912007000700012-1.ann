@@ -1,21 +1,36 @@
-T1	SINTOMA 605 628	cristalino transparente
-T2	SINTOMA 55 91	disminución reciente de visión en OD
-T3	SINTOMA 1582 1614	inflamación intraocular moderada
-T4	SINTOMA 853 966	OCT muestra una pared anterior fina en contacto discontinuo con el endotelio corneal y contenido claro del quiste
-T5	SINTOMA 1892 1926	pupila ovalada en sentido vertical
-T6	ENFERMEDAD 426 440	quiste de iris
-T7	ENFERMEDAD 542 558	cicatriz corneal
-T8	ENFERMEDAD 1015 1039	quiste epitelial de iris
-T9	ENFERMEDAD 1513 1537	atrofia extensa del iris
-T10	ENFERMEDAD 1737 1745	catarata
-T11	ENFERMEDAD 1892 1949	pupila ovalada en sentido vertical con sinequia posterior
-T12	ENFERMEDAD 129 135	lesión
-T13	ENFERMEDAD 736 742	lesión
-T14	ENFERMEDAD 971 977	lesión
-T15	ENFERMEDAD 2014 2020	lesión
-T16	ENFERMEDAD 208 230	traumatismo penetrante
-T17	ENFERMEDAD 960 966	quiste
-T18	ENFERMEDAD 1101 1107	quiste
-T19	ENFERMEDAD 1145 1151	quiste
-T20	ENFERMEDAD 1582 1614	inflamación intraocular moderada
-T21	ENFERMEDAD 1683 1701	sinequia posterior
+T1	ENFERMEDAD 426 440	quiste de iris
+T2	ENFERMEDAD 542 558	cicatriz corneal
+T3	ENFERMEDAD 1015 1039	quiste epitelial de iris
+T4	ENFERMEDAD 1513 1537	atrofia extensa del iris
+T5	ENFERMEDAD 1737 1745	catarata
+T6	ENFERMEDAD 1892 1949	pupila ovalada en sentido vertical con sinequia posterior
+T7	ENFERMEDAD 129 135	lesión
+T8	ENFERMEDAD 736 742	lesión
+T9	ENFERMEDAD 971 977	lesión
+T10	ENFERMEDAD 2014 2020	lesión
+T11	ENFERMEDAD 208 230	traumatismo penetrante
+T12	ENFERMEDAD 960 966	quiste
+T13	ENFERMEDAD 1101 1107	quiste
+T14	ENFERMEDAD 1145 1151	quiste
+T15	ENFERMEDAD 1582 1614	inflamación intraocular moderada
+T16	ENFERMEDAD 1683 1701	sinequia posterior
+T17	PROCEDIMIENTO 378 414	biomicroscopía del segmento anterior
+T18	PROCEDIMIENTO 691 703	fondo de ojo
+T19	PROCEDIMIENTO 766 815	ecografía ocular en modo B del segmento posterior
+T20	PROCEDIMIENTO 845 856	Stratus OCT
+T21	PROCEDIMIENTO 1078 1124	punción aspiración del quiste con aguja de 30g
+T22	PROCEDIMIENTO 1191 1220	reforma de la cámara anterior
+T23	PROCEDIMIENTO 1232 1258	fotocoagulación ab externo
+T24	PROCEDIMIENTO 1442 1452	quemaduras
+T25	PROCEDIMIENTO 1635 1654	corticoides tópicos
+T26	PROCEDIMIENTO 1852 1879	exploración biomicroscópica
+T27	PROCEDIMIENTO 1126 1188	viscodisección del quiste para separarlo del endotelio corneal
+T28	PROCEDIMIENTO 362 373	estenopéico
+T29	PROCEDIMIENTO 1475 1497	tratamiento confluente
+T30	PROCEDIMIENTO 208 269	traumatismo penetrante en OD tres años antes que fue suturado
+T31	PROCEDIMIENTO 1271 1286	acto quirúrgico
+T32	SINTOMA 55 91	disminución reciente de visión en OD
+T33	SINTOMA 1582 1614	inflamación intraocular moderada
+T34	SINTOMA 605 628	cristalino transparente
+T35	SINTOMA 1892 1926	pupila ovalada en sentido vertical
+T36	SINTOMA 853 966	OCT muestra una pared anterior fina en contacto discontinuo con el endotelio corneal y contenido claro del quiste

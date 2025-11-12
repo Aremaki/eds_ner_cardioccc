@@ -1,32 +1,32 @@
-T1	SINTOMA 1557 1566	secreción
-T2	SINTOMA 995 1026	colección de material purulento
-T3	SINTOMA 1658 1706	cultivo detectó la presencia de Proteus vulgaris
-T4	SINTOMA 128 152	dolor intenso y quemante
-T5	SINTOMA 832 856	edema de tejidos blandos
-T6	SINTOMA 875 898	fragmentos radio-opacos
-T7	SINTOMA 53 114	picadura de raya a nivel de la superficie interna del tobillo
-T8	SINTOMA 927 954	restos del aguijón venenoso
-T9	SINTOMA 544 581	salida de material purulento y fétido
-T10	ENFERMEDAD 598 626	infección de tejidos blandos
-T11	ENFERMEDAD 396 477	lesión muy dolorosa, profunda, a nivel de la región posterior del maléolo interno
-T12	ENFERMEDAD 53 114	picadura de raya a nivel de la superficie interna del tobillo
-T13	ENFERMEDAD 2151 2160	infección
-T14	ENFERMEDAD 2163 2176	cicatrización
-T15	ENFERMEDAD 482 518	pie derecho, con necrosis de la piel
-T16	PROCEDIMIENTO 1029 1064	desbridamiento del tejido necrótico
-T17	PROCEDIMIENTO 1066 1149	creando un defecto tisular de 7 x 5 cm sobre el maléolo interno del tobillo derecho
-T18	PROCEDIMIENTO 1155 1221	exposición del tendón de Aquiles y del borde posterior de la tibia
-T19	PROCEDIMIENTO 1241 1267	cultivo de tejidos blandos
-T20	PROCEDIMIENTO 1274 1297	exámenes de laboratorio
-T21	PROCEDIMIENTO 1509 1524	desbridamientos
+T1	ENFERMEDAD 598 626	infección de tejidos blandos
+T2	ENFERMEDAD 396 477	lesión muy dolorosa, profunda, a nivel de la región posterior del maléolo interno
+T3	ENFERMEDAD 53 114	picadura de raya a nivel de la superficie interna del tobillo
+T4	ENFERMEDAD 2151 2160	infección
+T5	ENFERMEDAD 2163 2176	cicatrización
+T6	ENFERMEDAD 482 518	pie derecho, con necrosis de la piel
+T7	PROCEDIMIENTO 1509 1524	desbridamientos
+T8	PROCEDIMIENTO 981 1026	drenaje de la colección de material purulento
+T9	PROCEDIMIENTO 651 676	desbridamiento quirúrgico
+T10	PROCEDIMIENTO 1766 1854	cobertura del defecto remanente con colgajo fasciocutaneo safenointerno de flujo reverso
+T11	PROCEDIMIENTO 679 707	tratamiento con antibióticos
+T12	PROCEDIMIENTO 1856 1867	Desbridamos
+T13	PROCEDIMIENTO 777 809	radiografías del tobillo derecho
+T14	PROCEDIMIENTO 1155 1221	exposición del tendón de Aquiles y del borde posterior de la tibia
+T15	PROCEDIMIENTO 212 253	administración de antibióticos sistémicos
+T16	PROCEDIMIENTO 1241 1267	cultivo de tejidos blandos
+T17	PROCEDIMIENTO 2022 2076	cerramos de forma primaria el área donante del colgajo
+T18	PROCEDIMIENTO 205 209	cura
+T19	PROCEDIMIENTO 1274 1297	exámenes de laboratorio
+T20	PROCEDIMIENTO 1029 1064	desbridamiento del tejido necrótico
+T21	PROCEDIMIENTO 1066 1149	creando un defecto tisular de 7 x 5 cm sobre el maléolo interno del tobillo derecho
 T22	PROCEDIMIENTO 1658 1665	cultivo
-T23	PROCEDIMIENTO 1766 1854	cobertura del defecto remanente con colgajo fasciocutaneo safenointerno de flujo reverso
-T24	PROCEDIMIENTO 1856 1867	Desbridamos
-T25	PROCEDIMIENTO 1904 1986	pérdida de sustancia final de 8x3 cm; para la cobertura diseñamos una isla de piel
-T26	PROCEDIMIENTO 2022 2076	cerramos de forma primaria el área donante del colgajo
-T27	PROCEDIMIENTO 205 209	cura
-T28	PROCEDIMIENTO 212 253	administración de antibióticos sistémicos
-T29	PROCEDIMIENTO 651 676	desbridamiento quirúrgico
-T30	PROCEDIMIENTO 679 707	tratamiento con antibióticos
-T31	PROCEDIMIENTO 777 809	radiografías del tobillo derecho
-T32	PROCEDIMIENTO 981 1026	drenaje de la colección de material purulento
+T23	PROCEDIMIENTO 1904 1986	pérdida de sustancia final de 8x3 cm; para la cobertura diseñamos una isla de piel
+T24	SINTOMA 128 152	dolor intenso y quemante
+T25	SINTOMA 1658 1706	cultivo detectó la presencia de Proteus vulgaris
+T26	SINTOMA 544 581	salida de material purulento y fétido
+T27	SINTOMA 832 856	edema de tejidos blandos
+T28	SINTOMA 927 954	restos del aguijón venenoso
+T29	SINTOMA 1557 1566	secreción
+T30	SINTOMA 875 898	fragmentos radio-opacos
+T31	SINTOMA 53 114	picadura de raya a nivel de la superficie interna del tobillo
+T32	SINTOMA 995 1026	colección de material purulento

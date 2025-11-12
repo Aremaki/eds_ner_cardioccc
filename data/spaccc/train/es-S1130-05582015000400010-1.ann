@@ -1,18 +1,34 @@
-T1	SINTOMA 555 592	alteraciones en la movilidad cervical
-T2	SINTOMA 2299 2348	ganglios linfáticos son negativos para malignidad
-T3	SINTOMA 386 404	masa submandibular
-T4	SINTOMA 939 954	masa submaxilar
-T5	SINTOMA 2445 2455	pT3-N0, MX
-T6	SINTOMA 1131 1166	respeta la cortical ósea mandibular
-T7	SINTOMA 70 103	tumoración indolora submandibular
-T8	SINTOMA 238 261	síndrome constitucional
-T9	SINTOMA 518 538	dolor a la palpación
-T10	ENFERMEDAD 1506 1530	proliferación neoplásica
-T11	ENFERMEDAD 2836 2852	recidiva tumoral
-T12	ENFERMEDAD 2856 2866	metástasis
-T13	ENFERMEDAD 284 298	litiasis renal
-T14	ENFERMEDAD 301 322	hipertensión arterial
-T15	ENFERMEDAD 846 855	carcinoma
-T16	ENFERMEDAD 2399 2444	carcinoma mioepitelial de glándula submaxilar
-T17	ENFERMEDAD 1081 1124	infiltración de la musculatura suprahioidea
-T18	ENFERMEDAD 2193 2198	tumor
+T1	ENFERMEDAD 1506 1530	proliferación neoplásica
+T2	ENFERMEDAD 2836 2852	recidiva tumoral
+T3	ENFERMEDAD 2856 2866	metástasis
+T4	ENFERMEDAD 284 298	litiasis renal
+T5	ENFERMEDAD 301 322	hipertensión arterial
+T6	ENFERMEDAD 846 855	carcinoma
+T7	ENFERMEDAD 2399 2444	carcinoma mioepitelial de glándula submaxilar
+T8	ENFERMEDAD 1081 1124	infiltración de la musculatura suprahioidea
+T9	ENFERMEDAD 2193 2198	tumor
+T10	PROCEDIMIENTO 1461 1481	análisis histológico
+T11	PROCEDIMIENTO 2520 2547	radioterapia postoperatoria
+T12	PROCEDIMIENTO 1252 1401	disección cervical funcional izquierda tipo III, incluyendo el nervio hipogloso, el músculo digástrico y la rama marginal del nervio facial izquierdo
+T13	PROCEDIMIENTO 2567 2579	radioterapia
+T14	PROCEDIMIENTO 2758 2760	RM
+T15	PROCEDIMIENTO 2763 2787	tomografía computarizada
+T16	PROCEDIMIENTO 1410 1456	fresado de la cara medial mandibular izquierda
+T17	PROCEDIMIENTO 355 373	exploración física
+T18	PROCEDIMIENTO 1971 1997	estudio inmunohistoquímico
+T19	PROCEDIMIENTO 639 660	exploración intraoral
+T20	PROCEDIMIENTO 764 825	punción-aspiración con aguja fina (PAAF) guiada por ecografía
+T21	PROCEDIMIENTO 799 803	PAAF
+T22	PROCEDIMIENTO 901 903	RM
+T23	PROCEDIMIENTO 2252 2261	resección
+T24	PROCEDIMIENTO 2708 2731	intervención quirúrgica
+T25	PROCEDIMIENTO 529 538	palpación
+T26	SINTOMA 70 103	tumoración indolora submandibular
+T27	SINTOMA 238 261	síndrome constitucional
+T28	SINTOMA 386 404	masa submandibular
+T29	SINTOMA 518 538	dolor a la palpación
+T30	SINTOMA 555 592	alteraciones en la movilidad cervical
+T31	SINTOMA 939 954	masa submaxilar
+T32	SINTOMA 2445 2455	pT3-N0, MX
+T33	SINTOMA 2299 2348	ganglios linfáticos son negativos para malignidad
+T34	SINTOMA 1131 1166	respeta la cortical ósea mandibular

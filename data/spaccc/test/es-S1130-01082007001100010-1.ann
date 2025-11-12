@@ -1,33 +1,33 @@
-T1	SINTOMA 344 364	vena porta permeable
-T2	SINTOMA 656 677	circulación colateral
-T3	SINTOMA 379 393	bazo homogéneo
-T4	SINTOMA 733 775	cifras de amonio persistentemente elevadas
-T5	SINTOMA 1389 1419	descompensación hidrópica leve
-T6	SINTOMA 1055 1092	flujo hepatófugo en la vena esplénica
-T7	SINTOMA 1011 1034	flujo portal hepatópeto
-T8	SINTOMA 484 534	inversión del flujo en las venas porta y esplénica
-T9	SINTOMA 238 269	parénquima hepático heterogéneo
-T10	ENFERMEDAD 17 30	cirrótica VHC
-T11	ENFERMEDAD 42 56	hemocromatosis
-T12	ENFERMEDAD 122 162	encefalopatía hepática severa recurrente
-T13	ENFERMEDAD 1389 1419	descompensación hidrópica leve
-T14	ENFERMEDAD 1421 1442	síndrome hepatorrenal
-T15	ENFERMEDAD 1445 1467	encefalopatía hepática
-T16	ENFERMEDAD 319 338	hepatopatía crónica
-T17	ENFERMEDAD 379 427	bazo homogéneo discretamente aumentado de tamaño
-T18	ENFERMEDAD 1554 1579	varices esófago-gástricas
-T19	ENFERMEDAD 562 583	shunt porto-sistémico
-T20	ENFERMEDAD 656 702	circulación colateral y un shunt espleno-renal
-T21	ENFERMEDAD 1055 1092	flujo hepatófugo en la vena esplénica
-T22	ENFERMEDAD 1113 1148	circulación colateral periesplénica
-T23	ENFERMEDAD 274 303	lesiones ocupantes de espacio
-T24	PROCEDIMIENTO 1158 1170	embolización
-T25	PROCEDIMIENTO 1297 1319	embolización del shunt
-T26	PROCEDIMIENTO 1492 1525	endoscopia oral post-embolización
-T27	PROCEDIMIENTO 1513 1525	embolización
-T28	PROCEDIMIENTO 193 212	ecografía abdominal
-T29	PROCEDIMIENTO 455 470	estudio doppler
-T30	PROCEDIMIENTO 608 615	angioTC
-T31	PROCEDIMIENTO 786 813	radiología intervencionista
-T32	PROCEDIMIENTO 831 876	embolización parcial del shunt con microcoils
-T33	PROCEDIMIENTO 962 998	ecografía abdominal postembolización
+T1	ENFERMEDAD 17 30	cirrótica VHC
+T2	ENFERMEDAD 42 56	hemocromatosis
+T3	ENFERMEDAD 122 162	encefalopatía hepática severa recurrente
+T4	ENFERMEDAD 1389 1419	descompensación hidrópica leve
+T5	ENFERMEDAD 1421 1442	síndrome hepatorrenal
+T6	ENFERMEDAD 1445 1467	encefalopatía hepática
+T7	ENFERMEDAD 319 338	hepatopatía crónica
+T8	ENFERMEDAD 379 427	bazo homogéneo discretamente aumentado de tamaño
+T9	ENFERMEDAD 1554 1579	varices esófago-gástricas
+T10	ENFERMEDAD 562 583	shunt porto-sistémico
+T11	ENFERMEDAD 656 702	circulación colateral y un shunt espleno-renal
+T12	ENFERMEDAD 1055 1092	flujo hepatófugo en la vena esplénica
+T13	ENFERMEDAD 1113 1148	circulación colateral periesplénica
+T14	ENFERMEDAD 274 303	lesiones ocupantes de espacio
+T15	PROCEDIMIENTO 1158 1170	embolización
+T16	PROCEDIMIENTO 1297 1319	embolización del shunt
+T17	PROCEDIMIENTO 193 212	ecografía abdominal
+T18	PROCEDIMIENTO 1492 1525	endoscopia oral post-embolización
+T19	PROCEDIMIENTO 455 470	estudio doppler
+T20	PROCEDIMIENTO 608 615	angioTC
+T21	PROCEDIMIENTO 962 998	ecografía abdominal postembolización
+T22	PROCEDIMIENTO 831 876	embolización parcial del shunt con microcoils
+T23	PROCEDIMIENTO 786 813	radiología intervencionista
+T24	PROCEDIMIENTO 1513 1525	embolización
+T25	SINTOMA 1055 1092	flujo hepatófugo en la vena esplénica
+T26	SINTOMA 484 534	inversión del flujo en las venas porta y esplénica
+T27	SINTOMA 344 364	vena porta permeable
+T28	SINTOMA 238 269	parénquima hepático heterogéneo
+T29	SINTOMA 733 775	cifras de amonio persistentemente elevadas
+T30	SINTOMA 1011 1034	flujo portal hepatópeto
+T31	SINTOMA 656 677	circulación colateral
+T32	SINTOMA 379 393	bazo homogéneo
+T33	SINTOMA 1389 1419	descompensación hidrópica leve

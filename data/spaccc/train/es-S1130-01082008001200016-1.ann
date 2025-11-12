@@ -1,15 +1,15 @@
-T1	SINTOMA 29 42	estreñimiento
-T2	SINTOMA 45 74	dolor en hemiabdomen superior
-T3	SINTOMA 153 209	masa de 11 x 12 x 7 cm dependiente del colon descendente
-T4	ENFERMEDAD 468 526	recidiva doble situada en la transcavidad de los epiplones
-T5	ENFERMEDAD 729 739	metástasis
-T6	ENFERMEDAD 295 322	tumor de células fusiformes
-T7	ENFERMEDAD 435 439	GANT
-T8	PROCEDIMIENTO 102 141	tomografía computerizada (TC) abdominal
-T9	PROCEDIMIENTO 128 130	TC
-T10	PROCEDIMIENTO 236 260	hemicolectomía izquierda
-T11	PROCEDIMIENTO 265 284	anatomía patológica
-T12	PROCEDIMIENTO 364 408	examen ultraestructural e inmunohistoquímico
-T13	PROCEDIMIENTO 410 413	IHQ
-T14	PROCEDIMIENTO 468 594	recidiva doble situada en la transcavidad de los epiplones y adyacente a la pared del ciego la cual fue resecada completamente
-T15	PROCEDIMIENTO 607 664	tratamiento adyuvante con imatinib 400 mg al día vía oral
+T1	ENFERMEDAD 468 526	recidiva doble situada en la transcavidad de los epiplones
+T2	ENFERMEDAD 729 739	metástasis
+T3	ENFERMEDAD 295 322	tumor de células fusiformes
+T4	ENFERMEDAD 435 439	GANT
+T5	PROCEDIMIENTO 102 141	tomografía computerizada (TC) abdominal
+T6	PROCEDIMIENTO 128 130	TC
+T7	PROCEDIMIENTO 236 260	hemicolectomía izquierda
+T8	PROCEDIMIENTO 265 284	anatomía patológica
+T9	PROCEDIMIENTO 364 408	examen ultraestructural e inmunohistoquímico
+T10	PROCEDIMIENTO 410 413	IHQ
+T11	PROCEDIMIENTO 607 664	tratamiento adyuvante con imatinib 400 mg al día vía oral
+T12	PROCEDIMIENTO 468 594	recidiva doble situada en la transcavidad de los epiplones y adyacente a la pared del ciego la cual fue resecada completamente
+T13	SINTOMA 45 74	dolor en hemiabdomen superior
+T14	SINTOMA 153 209	masa de 11 x 12 x 7 cm dependiente del colon descendente
+T15	SINTOMA 29 42	estreñimiento

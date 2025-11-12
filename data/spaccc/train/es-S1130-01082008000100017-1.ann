@@ -1,29 +1,48 @@
-T1	SINTOMA 692 713	anisocitosis moderada
-T2	SINTOMA 765 781	células atípicas
-T3	SINTOMA 1038 1118	cultivos de heces, orina y el estudio de parásitos en heces resultaron negativos
-T4	SINTOMA 179 204	diarrea con moco y sangre
-T5	SINTOMA 310 318	dolorosa
-T6	SINTOMA 477 511	elevación de las enzimas hepáticas
-T7	SINTOMA 1375 1405	mucosa gástrica muy congestiva
-T8	SINTOMA 718 749	polisegmentación de neutrófilos
-T9	SINTOMA 965 1008	serología para Schistosoma que fue positiva
-T10	SINTOMA 786 945	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus, Salmonella, Brucella, hidatidosis, leishmaniosis, fasciolosis y amebiasis resultó negativa
-T11	PROCEDIMIENTO 1038 1062	cultivos de heces, orina
-T12	PROCEDIMIENTO 1068 1097	estudio de parásitos en heces
-T13	PROCEDIMIENTO 1126 1145	ecografía abdominal
-T14	PROCEDIMIENTO 118 125	cirugía
-T15	PROCEDIMIENTO 1275 1300	endoscopia digestiva alta
-T16	PROCEDIMIENTO 1515 1527	colonoscopia
-T17	PROCEDIMIENTO 1574 1605	pólipo de 0,6 cm que se extirpa
-T18	PROCEDIMIENTO 1610 1635	estudio anatomopatológico
-T19	PROCEDIMIENTO 1643 1660	biopsias rectales
-T20	PROCEDIMIENTO 2261 2291	parámetros de función hepática
-T21	PROCEDIMIENTO 2297 2306	hemograma
-T22	PROCEDIMIENTO 2311 2336	endoscopia digestiva alta
-T23	PROCEDIMIENTO 2342 2361	ecografía abdominal
-T24	PROCEDIMIENTO 243 261	exploración física
-T25	PROCEDIMIENTO 2466 2477	ecográficos
-T26	PROCEDIMIENTO 323 332	hemograma
-T27	PROCEDIMIENTO 637 678	estudio de extensión de sangre periférica
-T28	PROCEDIMIENTO 786 853	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus
-T29	PROCEDIMIENTO 965 991	serología para Schistosoma
+T1	ENFERMEDAD 2065 2103	esquistosomiasis con afectación rectal
+T2	ENFERMEDAD 2065 2114	esquistosomiasis con afectación rectal y hepática
+T3	ENFERMEDAD 1179 1198	hepatopatía crónica
+T4	ENFERMEDAD 1205 1219	esplenomegalia
+T5	ENFERMEDAD 93 102	angiodema
+T6	ENFERMEDAD 1244 1270	varices en hilio esplénico
+T7	ENFERMEDAD 1326 1344	varices en esófago
+T8	ENFERMEDAD 1375 1405	mucosa gástrica muy congestiva
+T9	ENFERMEDAD 877 888	hidatidosis
+T10	ENFERMEDAD 890 903	leishmaniosis
+T11	ENFERMEDAD 905 916	fasciolosis
+T12	ENFERMEDAD 276 290	esplenomegalia
+T13	ENFERMEDAD 919 928	amebiasis
+T14	ENFERMEDAD 1446 1473	varices en cardias gástrico
+T15	ENFERMEDAD 2429 2452	varices esofagogátricas
+T16	ENFERMEDAD 1543 1580	rectitis petequial con pequeño pólipo
+T17	ENFERMEDAD 2481 2500	hepatopatía crónica
+T18	ENFERMEDAD 1652 1736	rectales evidencian un infiltrado inflamatorio mixto con formación focal de abscesos
+T19	ENFERMEDAD 293 306	hepatomegalia
+T20	PROCEDIMIENTO 323 332	hemograma
+T21	PROCEDIMIENTO 637 678	estudio de extensión de sangre periférica
+T22	PROCEDIMIENTO 1126 1145	ecografía abdominal
+T23	PROCEDIMIENTO 1275 1300	endoscopia digestiva alta
+T24	PROCEDIMIENTO 2261 2291	parámetros de función hepática
+T25	PROCEDIMIENTO 243 261	exploración física
+T26	PROCEDIMIENTO 2297 2306	hemograma
+T27	PROCEDIMIENTO 2311 2336	endoscopia digestiva alta
+T28	PROCEDIMIENTO 2342 2361	ecografía abdominal
+T29	PROCEDIMIENTO 1515 1527	colonoscopia
+T30	PROCEDIMIENTO 1038 1062	cultivos de heces, orina
+T31	PROCEDIMIENTO 2466 2477	ecográficos
+T32	PROCEDIMIENTO 1574 1605	pólipo de 0,6 cm que se extirpa
+T33	PROCEDIMIENTO 1610 1635	estudio anatomopatológico
+T34	PROCEDIMIENTO 1643 1660	biopsias rectales
+T35	PROCEDIMIENTO 786 853	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus
+T36	PROCEDIMIENTO 965 991	serología para Schistosoma
+T37	PROCEDIMIENTO 1068 1097	estudio de parásitos en heces
+T38	PROCEDIMIENTO 118 125	cirugía
+T39	SINTOMA 692 713	anisocitosis moderada
+T40	SINTOMA 179 204	diarrea con moco y sangre
+T41	SINTOMA 477 511	elevación de las enzimas hepáticas
+T42	SINTOMA 718 749	polisegmentación de neutrófilos
+T43	SINTOMA 765 781	células atípicas
+T44	SINTOMA 965 1008	serología para Schistosoma que fue positiva
+T45	SINTOMA 1038 1118	cultivos de heces, orina y el estudio de parásitos en heces resultaron negativos
+T46	SINTOMA 1375 1405	mucosa gástrica muy congestiva
+T47	SINTOMA 786 945	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus, Salmonella, Brucella, hidatidosis, leishmaniosis, fasciolosis y amebiasis resultó negativa
+T48	SINTOMA 310 318	dolorosa

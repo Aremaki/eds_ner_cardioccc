@@ -1,16 +1,22 @@
-T1	SINTOMA 694 700	exitus
-T2	SINTOMA 213 222	hematuria
-T3	SINTOMA 310 319	sangrante
-T4	SINTOMA 503 539	dolor intenso abdominal, epigástrico
-T5	SINTOMA 74 81	HLA B27
-T6	SINTOMA 267 291	masa vesical, excrecente
-T7	SINTOMA 584 622	vómito repentino, abundante y hemático
-T8	ENFERMEDAD 44 72	espondilitis anquilopoyética
-T9	ENFERMEDAD 84 106	amiloidosis secundaria
-T10	ENFERMEDAD 109 145	insuficiencia renal crónica terminal
-T11	ENFERMEDAD 406 425	amiloidosis vesical
-T12	ENFERMEDAD 648 674	parada cardiorrespiratoria
-T13	ENFERMEDAD 1012 1051	atrofia renal bilateral por amiloidosis
-T14	ENFERMEDAD 1053 1077	Amiloidosis vesical (AA)
-T15	ENFERMEDAD 1105 1141	amiloidosis en los vasos prostáticos
-T16	ENFERMEDAD 1074 1076	AA
+T1	ENFERMEDAD 44 72	espondilitis anquilopoyética
+T2	ENFERMEDAD 84 106	amiloidosis secundaria
+T3	ENFERMEDAD 109 145	insuficiencia renal crónica terminal
+T4	ENFERMEDAD 406 425	amiloidosis vesical
+T5	ENFERMEDAD 648 674	parada cardiorrespiratoria
+T6	ENFERMEDAD 1012 1051	atrofia renal bilateral por amiloidosis
+T7	ENFERMEDAD 1053 1077	Amiloidosis vesical (AA)
+T8	ENFERMEDAD 1105 1141	amiloidosis en los vasos prostáticos
+T9	ENFERMEDAD 1074 1076	AA
+T10	PROCEDIMIENTO 177 189	hemodiálisis
+T11	PROCEDIMIENTO 240 251	cistoscopia
+T12	PROCEDIMIENTO 339 361	resección transuretral
+T13	PROCEDIMIENTO 363 366	RTU
+T14	PROCEDIMIENTO 721 772	diagnóstico anatomopatológico realizado post mortem
+T15	PROCEDIMIENTO 379 402	diagnóstico histológico
+T16	SINTOMA 74 81	HLA B27
+T17	SINTOMA 213 222	hematuria
+T18	SINTOMA 267 291	masa vesical, excrecente
+T19	SINTOMA 503 539	dolor intenso abdominal, epigástrico
+T20	SINTOMA 584 622	vómito repentino, abundante y hemático
+T21	SINTOMA 694 700	exitus
+T22	SINTOMA 310 319	sangrante

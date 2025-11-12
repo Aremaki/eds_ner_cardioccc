@@ -1,31 +1,50 @@
-T1	SINTOMA 1248 1255	afebril
-T2	SINTOMA 1140 1159	disfagia a líquidos
-T3	SINTOMA 316 335	disfagia progresiva
-T4	SINTOMA 1331 1387	dolor muy importante a la palpación de la columna dorsal
-T5	SINTOMA 414 454	efecto masa en tercio superior esofágico
-T6	SINTOMA 793 843	Gammagrafía ósea y marcadores tumorales: negativos
-T7	SINTOMA 1220 1245	hemodinámicamente estable
-T8	SINTOMA 1074 1102	imposibilita la deambulación
-T9	SINTOMA 1060 1069	lumbalgia
-T10	SINTOMA 227 239	lumbociática
-T11	SINTOMA 1200 1218	mal estado general
-T12	SINTOMA 547 602	masa de color marrón-negro en tercio superior esofágico
-T13	SINTOMA 954 968	masa esofágica
-T14	SINTOMA 1894 1935	masa tumoral en tercio superior esofágico
-T15	SINTOMA 338 353	pérdida de peso
-T16	SINTOMA 283 314	sensación de nudo retroesternal
-T17	PROCEDIMIENTO 1118 1137	tratamiento opiáceo
-T18	PROCEDIMIENTO 1167 1178	exploración
-T19	PROCEDIMIENTO 1268 1294	abdomen en el que se palpa
-T20	PROCEDIMIENTO 1357 1387	palpación de la columna dorsal
-T21	PROCEDIMIENTO 1460 1473	Ecoendoscopia
+T1	ENFERMEDAD 862 874	lumbociática
+T2	ENFERMEDAD 1475 1516	lesión situada a 18 cm de arcada dentaria
+T3	ENFERMEDAD 2061 2077	melanoma maligno
+T4	ENFERMEDAD 686 731	lesiones vertebrales (en D7 y desde D9 a D12)
+T5	ENFERMEDAD 879 951	lesiones vertebrales múltiples de origen osteoporótico en columna dorsal
+T6	ENFERMEDAD 1684 1724	metástasis hepáticas en segmento IV y II
+T7	ENFERMEDAD 78 86	obesidad
+T8	ENFERMEDAD 88 91	HTA
+T9	ENFERMEDAD 748 789	aplastamientos vertebrales osteoporóticos
+T10	ENFERMEDAD 93 105	fibromialgia
+T11	ENFERMEDAD 108 127	hernia discal D3-D4
+T12	ENFERMEDAD 1941 1963	implantes mesentéricos
+T13	ENFERMEDAD 1965 2036	metástasis hepáticas múltiples y óseas en esqueleto axial y periféricas
+T14	ENFERMEDAD 1295 1308	hepatomegalia
+T15	ENFERMEDAD 1611 1622	adenopatías
+T16	ENFERMEDAD 316 324	disfagia
+T17	ENFERMEDAD 1140 1148	disfagia
+T18	ENFERMEDAD 227 239	lumbociática
+T19	ENFERMEDAD 1894 1906	masa tumoral
+T20	PROCEDIMIENTO 1460 1473	Ecoendoscopia
+T21	PROCEDIMIENTO 793 809	Gammagrafía ósea
 T22	PROCEDIMIENTO 1638 1657	Ecografía abdominal
-T23	PROCEDIMIENTO 1787 1798	exploración
-T24	PROCEDIMIENTO 1834 1870	Tomografía por emisión de positrones
-T25	PROCEDIMIENTO 2040 2059	Anatomía patológica
-T26	PROCEDIMIENTO 250 272	tratamiento analgésico
-T27	PROCEDIMIENTO 375 401	TAC cervicotoracoabdominal
-T28	PROCEDIMIENTO 508 533	Endoscopia digestiva alta
-T29	PROCEDIMIENTO 658 674	TAC y RMN dorsal
-T30	PROCEDIMIENTO 793 809	Gammagrafía ósea
-T31	PROCEDIMIENTO 812 832	marcadores tumorales
+T23	PROCEDIMIENTO 508 533	Endoscopia digestiva alta
+T24	PROCEDIMIENTO 375 401	TAC cervicotoracoabdominal
+T25	PROCEDIMIENTO 1834 1870	Tomografía por emisión de positrones
+T26	PROCEDIMIENTO 812 832	marcadores tumorales
+T27	PROCEDIMIENTO 1118 1137	tratamiento opiáceo
+T28	PROCEDIMIENTO 1268 1294	abdomen en el que se palpa
+T29	PROCEDIMIENTO 250 272	tratamiento analgésico
+T30	PROCEDIMIENTO 2040 2059	Anatomía patológica
+T31	PROCEDIMIENTO 658 674	TAC y RMN dorsal
+T32	PROCEDIMIENTO 1167 1178	exploración
+T33	PROCEDIMIENTO 1787 1798	exploración
+T34	PROCEDIMIENTO 1357 1387	palpación de la columna dorsal
+T35	SINTOMA 1060 1069	lumbalgia
+T36	SINTOMA 547 602	masa de color marrón-negro en tercio superior esofágico
+T37	SINTOMA 414 454	efecto masa en tercio superior esofágico
+T38	SINTOMA 954 968	masa esofágica
+T39	SINTOMA 1140 1159	disfagia a líquidos
+T40	SINTOMA 1200 1218	mal estado general
+T41	SINTOMA 1220 1245	hemodinámicamente estable
+T42	SINTOMA 1248 1255	afebril
+T43	SINTOMA 227 239	lumbociática
+T44	SINTOMA 283 314	sensación de nudo retroesternal
+T45	SINTOMA 1331 1387	dolor muy importante a la palpación de la columna dorsal
+T46	SINTOMA 338 353	pérdida de peso
+T47	SINTOMA 793 843	Gammagrafía ósea y marcadores tumorales: negativos
+T48	SINTOMA 1894 1935	masa tumoral en tercio superior esofágico
+T49	SINTOMA 316 335	disfagia progresiva
+T50	SINTOMA 1074 1102	imposibilita la deambulación

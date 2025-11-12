@@ -1,20 +1,31 @@
-T1	SINTOMA 663 676	hemoperitoneo
-T2	SINTOMA 355 364	hipotenso
-T3	SINTOMA 988 1001	inestabilidad
-T4	SINTOMA 954 965	neutrofilia
-T5	SINTOMA 277 296	palidez mucocutánea
-T6	SINTOMA 829 844	sangrado activo
-T7	SINTOMA 264 274	sudoración
-T8	SINTOMA 367 379	taquicárdico
-T9	SINTOMA 200 236	dolor se irradia al hombro izquierdo
-T10	SINTOMA 131 157	dolor súbito en epigastrio
-T11	SINTOMA 384 397	ECG es normal
-T12	SINTOMA 783 798	foco hiperdenso
-T13	SINTOMA 559 587	líquido libre intracavitaria
-T14	SINTOMA 479 507	masa en segmento hepático VI
-T15	SINTOMA 301 328	pulsos distales conservados
-T16	ENFERMEDAD 521 536	hepatocarcinoma
-T17	ENFERMEDAD 663 676	hemoperitoneo
-T18	ENFERMEDAD 696 726	lesión en segmento VI hepático
-T19	ENFERMEDAD 742 757	hepatocarcinoma
-T20	ENFERMEDAD 355 364	hipotenso
+T1	ENFERMEDAD 521 536	hepatocarcinoma
+T2	ENFERMEDAD 663 676	hemoperitoneo
+T3	ENFERMEDAD 696 726	lesión en segmento VI hepático
+T4	ENFERMEDAD 742 757	hepatocarcinoma
+T5	ENFERMEDAD 355 364	hipotenso
+T6	PROCEDIMIENTO 1105 1116	laparotomía
+T7	PROCEDIMIENTO 384 387	ECG
+T8	PROCEDIMIENTO 1156 1165	ecografía
+T9	PROCEDIMIENTO 1171 1174	TAC
+T10	PROCEDIMIENTO 1196 1239	segmentectomía, lavado y drenaje de cavidad
+T11	PROCEDIMIENTO 440 459	ecografía abdominal
+T12	PROCEDIMIENTO 615 643	TAC de abdomen con contraste
+T13	PROCEDIMIENTO 1066 1089	intervención quirúrgica
+T14	PROCEDIMIENTO 849 858	analítica
+T15	PROCEDIMIENTO 244 255	exploración
+T16	PROCEDIMIENTO 1038 1055	pruebas de imagen
+T17	SINTOMA 355 364	hipotenso
+T18	SINTOMA 367 379	taquicárdico
+T19	SINTOMA 131 157	dolor súbito en epigastrio
+T20	SINTOMA 479 507	masa en segmento hepático VI
+T21	SINTOMA 200 236	dolor se irradia al hombro izquierdo
+T22	SINTOMA 264 274	sudoración
+T23	SINTOMA 277 296	palidez mucocutánea
+T24	SINTOMA 301 328	pulsos distales conservados
+T25	SINTOMA 988 1001	inestabilidad
+T26	SINTOMA 829 844	sangrado activo
+T27	SINTOMA 384 397	ECG es normal
+T28	SINTOMA 559 587	líquido libre intracavitaria
+T29	SINTOMA 954 965	neutrofilia
+T30	SINTOMA 783 798	foco hiperdenso
+T31	SINTOMA 663 676	hemoperitoneo

@@ -1,23 +1,37 @@
-T1	SINTOMA 814 856	exploración física y neurológica es normal
-T2	SINTOMA 258 280	masa irregular frontal
-T3	SINTOMA 1117 1159	nido vascular epicraneal frontal izquierdo
-T4	SINTOMA 954 1012	RM cerebral no se evidenciaron alteraciones significativas
-T5	SINTOMA 2306 2316	hemorragia
-T6	SINTOMA 1983 1991	sangrado
-T7	PROCEDIMIENTO 1021 1101	angiografía cerebral de los territorios de la arteria carótida interna y externa
-T8	PROCEDIMIENTO 1482 1494	embolización
-T9	PROCEDIMIENTO 1664 1719	resección de la MAV mediante la intervención quirúrgica
-T10	PROCEDIMIENTO 1736 1886	Se realizó un incisión bicoronal, por detrás del nido, accediendo bilateralmente a las ramas nutricias de la MAV, para primero ligarlas y seccionarlas
-T11	PROCEDIMIENTO 1928 1963	lesión y hacer posible la resección
-T12	PROCEDIMIENTO 2184 2195	angiografía
-T13	PROCEDIMIENTO 2215 2271	coagulación por radiofrecuencia, tanto mono como bipolar
-T14	PROCEDIMIENTO 2274 2316	cera de hueso para controlar la hemorragia
-T15	PROCEDIMIENTO 2318 2383	Se realizó la resección de todos los vasos sanguíneos subcutáneos
-T16	PROCEDIMIENTO 2484 2491	cirugía
-T17	PROCEDIMIENTO 2504 2548	transfundir con dos concentrados de hematíes
-T18	PROCEDIMIENTO 2575 2596	recuperador sanguíneo
-T19	PROCEDIMIENTO 2670 2749	cuero cabelludo se suturó a la manera habitual por planos y la piel con agrafes
-T20	PROCEDIMIENTO 511 520	anamnesis
-T21	PROCEDIMIENTO 814 846	exploración física y neurológica
-T22	PROCEDIMIENTO 929 946	pruebas de imagen
-T23	PROCEDIMIENTO 954 965	RM cerebral
+T1	ENFERMEDAD 206 238	malformación del cuero cabelludo
+T2	ENFERMEDAD 588 605	contusión frontal
+T3	ENFERMEDAD 641 669	hematoma subgaleal bifrontal
+T4	ENFERMEDAD 878 915	malformación arteriovenosa traumática
+T5	ENFERMEDAD 1117 1159	nido vascular epicraneal frontal izquierdo
+T6	ENFERMEDAD 1579 1588	amaurosis
+T7	ENFERMEDAD 1845 1848	MAV
+T8	ENFERMEDAD 2794 2821	complicaciones neurológicas
+T9	ENFERMEDAD 2896 2904	alopecia
+T10	ENFERMEDAD 2827 2833	herida
+T11	ENFERMEDAD 1928 1934	lesión
+T12	ENFERMEDAD 2306 2316	hemorragia
+T13	PROCEDIMIENTO 511 520	anamnesis
+T14	PROCEDIMIENTO 814 846	exploración física y neurológica
+T15	PROCEDIMIENTO 954 965	RM cerebral
+T16	PROCEDIMIENTO 1021 1101	angiografía cerebral de los territorios de la arteria carótida interna y externa
+T17	PROCEDIMIENTO 1482 1494	embolización
+T18	PROCEDIMIENTO 1664 1719	resección de la MAV mediante la intervención quirúrgica
+T19	PROCEDIMIENTO 1736 1886	Se realizó un incisión bicoronal, por detrás del nido, accediendo bilateralmente a las ramas nutricias de la MAV, para primero ligarlas y seccionarlas
+T20	PROCEDIMIENTO 2184 2195	angiografía
+T21	PROCEDIMIENTO 2504 2548	transfundir con dos concentrados de hematíes
+T22	PROCEDIMIENTO 2575 2596	recuperador sanguíneo
+T23	PROCEDIMIENTO 2670 2749	cuero cabelludo se suturó a la manera habitual por planos y la piel con agrafes
+T24	PROCEDIMIENTO 2215 2271	coagulación por radiofrecuencia, tanto mono como bipolar
+T25	PROCEDIMIENTO 1928 1963	lesión y hacer posible la resección
+T26	PROCEDIMIENTO 2274 2316	cera de hueso para controlar la hemorragia
+T27	PROCEDIMIENTO 2318 2383	Se realizó la resección de todos los vasos sanguíneos subcutáneos
+T28	PROCEDIMIENTO 2484 2491	cirugía
+T29	PROCEDIMIENTO 929 946	pruebas de imagen
+T30	SINTOMA 258 280	masa irregular frontal
+T31	SINTOMA 370 503	desarrollo de la trama vascular de la calota craneal, a cargo de las arterias temporales superficiales y sus ramas venosas de retorno
+T32	SINTOMA 546 568	antecedente traumático
+T33	SINTOMA 2306 2316	hemorragia
+T34	SINTOMA 1983 1991	sangrado
+T35	SINTOMA 954 1012	RM cerebral no se evidenciaron alteraciones significativas
+T36	SINTOMA 814 856	exploración física y neurológica es normal
+T37	SINTOMA 1117 1159	nido vascular epicraneal frontal izquierdo

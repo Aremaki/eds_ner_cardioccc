@@ -1,9 +1,46 @@
-T1	SINTOMA 637 647	ECG normal
-T2	SINTOMA 251 334	episodios de palpitaciones, cortos y autolimitados, durante el reposo y el esfuerzo
-T3	SINTOMA 370 437	intervalo entre ondas P y R (intervalo PR) muy corto con onda delta
-T4	SINTOMA 2017 2031	patrón sinusal
-T5	SINTOMA 945 969	preexcitación permanente
-T6	SINTOMA 771 796	ritmo sinusal preexcitado
-T7	SINTOMA 1447 1460	ritmo sinusal
-T8	SINTOMA 616 628	asintomático
-T9	SINTOMA 1623 1634	taquicardia
+T1	ENFERMEDAD 813 837	vía anteroseptal derecha
+T2	ENFERMEDAD 852 875	cardiopatía estructural
+T3	ENFERMEDAD 1952 1964	taquicardias
+T4	ENFERMEDAD 700 708	arritmia
+T5	ENFERMEDAD 1471 1494	taquicardia ortodrómica
+T6	ENFERMEDAD 2036 2039	WPW
+T7	ENFERMEDAD 2058 2070	taquicardias
+T8	ENFERMEDAD 976 985	arritmias
+T9	ENFERMEDAD 1537 1604	vía accesoria auriculo-ventricular (AV) de conducción bidireccional
+T10	ENFERMEDAD 1069 1078	arritmias
+T11	ENFERMEDAD 1640 1653	preexcitación
+T12	ENFERMEDAD 1095 1098	WPW
+T13	ENFERMEDAD 1695 1718	bloqueo de rama derecha
+T14	ENFERMEDAD 1720 1723	BRD
+T15	ENFERMEDAD 454 467	preexcitación
+T16	ENFERMEDAD 1814 1825	vía anómala
+T17	ENFERMEDAD 771 796	ritmo sinusal preexcitado
+T18	ENFERMEDAD 945 969	preexcitación permanente
+T19	ENFERMEDAD 1273 1284	vía anómala
+T20	PROCEDIMIENTO 745 758	ECG de reposo
+T21	PROCEDIMIENTO 1910 1918	ablación
+T22	PROCEDIMIENTO 1226 1252	estudio electrofisiológico
+T23	PROCEDIMIENTO 1397 1442	mapeo y ablación en región septal perihisiana
+T24	PROCEDIMIENTO 637 640	ECG
+T25	PROCEDIMIENTO 1254 1257	EEF
+T26	PROCEDIMIENTO 1261 1284	ablación de vía anómala
+T27	PROCEDIMIENTO 1969 1972	ECG
+T28	PROCEDIMIENTO 885 900	ecocardiografía
+T29	PROCEDIMIENTO 1984 2002	holter de 24 horas
+T30	PROCEDIMIENTO 908 935	holter de ritmo de 24 horas
+T31	PROCEDIMIENTO 183 196	examen médico
+T32	PROCEDIMIENTO 1507 1604	radiofrecuencia (RF) sobre la vía accesoria auriculo-ventricular (AV) de conducción bidireccional
+T33	PROCEDIMIENTO 233 242	anamnesis
+T34	PROCEDIMIENTO 990 1041	prueba de esfuerzo en cinta, con protocolo de Bruce
+T35	PROCEDIMIENTO 342 355	ECG de reposo
+T36	PROCEDIMIENTO 723 734	ablacionado
+T37	PROCEDIMIENTO 1325 1384	electrocatéteres: uno para diagnóstico con registro del His
+T38	SINTOMA 771 796	ritmo sinusal preexcitado
+T39	SINTOMA 1447 1460	ritmo sinusal
+T40	SINTOMA 2017 2031	patrón sinusal
+T41	SINTOMA 945 969	preexcitación permanente
+T42	SINTOMA 251 334	episodios de palpitaciones, cortos y autolimitados, durante el reposo y el esfuerzo
+T43	SINTOMA 616 628	asintomático
+T44	SINTOMA 370 437	intervalo entre ondas P y R (intervalo PR) muy corto con onda delta
+T45	SINTOMA 637 647	ECG normal
+T46	SINTOMA 1623 1634	taquicardia

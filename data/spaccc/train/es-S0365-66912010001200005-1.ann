@@ -1,6 +1,45 @@
-T1	SINTOMA 382 402	signos inflamatorios
-T2	SINTOMA 1042 1086	hiperfluorescencia difusa del polo posterior
-T3	SINTOMA 2869 2902	hiperpigmentación de las lesiones
-T4	SINTOMA 964 1025	patrón de hipofluorescencia parcheada en tiempos muy precoces
-T5	SINTOMA 1848 1861	pérdida de AV
-T6	SINTOMA 1332 1358	pérdida del espesor foveal
+T1	ENFERMEDAD 479 500	engrosamiento macular
+T2	ENFERMEDAD 1383 1415	quiste intrarretiniano subfoveal
+T3	ENFERMEDAD 560 588	hemorragias intrarretinianas
+T4	ENFERMEDAD 1448 1508	desprendimiento de retina neurosensorial (DRNS) perifoveales
+T5	ENFERMEDAD 337 350	metamorfopsia
+T6	ENFERMEDAD 149 164	resfriado común
+T7	ENFERMEDAD 1767 1805	epiteliopatía placoide posterior aguda
+T8	ENFERMEDAD 2357 2374	DRNS perifoveales
+T9	ENFERMEDAD 2229 2237	lesiones
+T10	ENFERMEDAD 2616 2624	lesiones
+T11	ENFERMEDAD 2894 2902	lesiones
+T12	ENFERMEDAD 633 639	lesión
+T13	ENFERMEDAD 1599 1605	lesión
+T14	ENFERMEDAD 37 62	pérdida de visión central
+T15	ENFERMEDAD 1490 1494	DRNS
+T16	ENFERMEDAD 2287 2315	alteración del EPR subfoveal
+T17	PROCEDIMIENTO 1316 1319	OCT
+T18	PROCEDIMIENTO 444 466	fondo de ojo izquierdo
+T19	PROCEDIMIENTO 942 952	AGF del OI
+T20	PROCEDIMIENTO 1520 1529	ecografía
+T21	PROCEDIMIENTO 1891 1922	corticoides sistémicos vía oral
+T22	PROCEDIMIENTO 2162 2174	fondo de ojo
+T23	PROCEDIMIENTO 2841 2853	fondo de ojo
+T24	PROCEDIMIENTO 2650 2653	AGF
+T25	PROCEDIMIENTO 1177 1180	AVI
+T26	PROCEDIMIENTO 2275 2278	OCT
+T27	PROCEDIMIENTO 766 792	angiografía fluoresceínica
+T28	PROCEDIMIENTO 794 797	AGF
+T29	PROCEDIMIENTO 801 821	verde de indocianina
+T30	PROCEDIMIENTO 823 826	AVI
+T31	PROCEDIMIENTO 833 864	tomografía de coherencia óptica
+T32	PROCEDIMIENTO 866 869	OCT
+T33	PROCEDIMIENTO 2443 2460	pauta corticoidea
+T34	PROCEDIMIENTO 876 892	ecografía modo B
+T35	PROCEDIMIENTO 906 924	análisis sanguíneo
+T36	PROCEDIMIENTO 1297 1310	angiográficos
+T37	PROCEDIMIENTO 596 616	fondo de ojo derecho
+T38	PROCEDIMIENTO 1538 1555	estudio analítico
+T39	PROCEDIMIENTO 204 223	exploración clínica
+T40	SINTOMA 964 1025	patrón de hipofluorescencia parcheada en tiempos muy precoces
+T41	SINTOMA 1848 1861	pérdida de AV
+T42	SINTOMA 1332 1358	pérdida del espesor foveal
+T43	SINTOMA 2869 2902	hiperpigmentación de las lesiones
+T44	SINTOMA 382 402	signos inflamatorios
+T45	SINTOMA 1042 1086	hiperfluorescencia difusa del polo posterior

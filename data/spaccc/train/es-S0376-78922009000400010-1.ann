@@ -1,2 +1,19 @@
-T1	SINTOMA 467 519	desplazamiento anterior de los cóndilos mandibulares
-T2	SINTOMA 164 200	imposibilidad para la apertura bucal
+T1	ENFERMEDAD 52 95	absceso facial izquierdo de origen dentario
+T2	ENFERMEDAD 1159 1180	osteomielitis crónica
+T3	ENFERMEDAD 292 321	ausencia de glándula parótida
+T4	ENFERMEDAD 337 435	deformidad mandibular con fusión de sus pared posterior al maxilar superior y apófisis pterigoidea
+T5	ENFERMEDAD 524 577	displasia severa de la articulación témporomandibular
+T6	ENFERMEDAD 164 200	imposibilidad para la apertura bucal
+T7	ENFERMEDAD 467 577	desplazamiento anterior de los cóndilos mandibulares por displasia severa de la articulación témporomandibular
+T8	ENFERMEDAD 690 718	anquilosis máxilo-mandibular
+T9	PROCEDIMIENTO 627 639	traqueotomía
+T10	PROCEDIMIENTO 659 718	liberación extrarticular de la anquilosis máxilo-mandibular
+T11	PROCEDIMIENTO 720 750	extracción de piezas dentarias
+T12	PROCEDIMIENTO 1094 1119	estudio anatomopatológico
+T13	PROCEDIMIENTO 763 803	cobertura con colgajo estándar de mucosa
+T14	PROCEDIMIENTO 238 241	TAC
+T15	PROCEDIMIENTO 250 278	Resonancia Magnética Nuclear
+T16	PROCEDIMIENTO 847 909	fijación de la apertura bucal en 2 cm mediante cuña retromolar
+T17	PROCEDIMIENTO 280 283	RMN
+T18	SINTOMA 164 200	imposibilidad para la apertura bucal
+T19	SINTOMA 467 519	desplazamiento anterior de los cóndilos mandibulares

@@ -1,11 +1,17 @@
-T1	SINTOMA 745 768	adecuado aspecto facial
-T2	SINTOMA 40 73	aumento de volumen hemimandibular
-T3	SINTOMA 721 741	Buena apertura bucal
-T4	SINTOMA 1032 1069	Buena apertura bucal, estética facial
-T5	SINTOMA 1080 1121	conservación de sensibilidad y motricidad
-T6	SINTOMA 192 226	desplazamiento de órganos dentales
-T7	SINTOMA 140 187	Intraoralmente expansión de cortical vestibular
-T8	SINTOMA 130 138	doloroso
-T9	ENFERMEDAD 392 427	ameloblastoma plexiforme mandibular
-T10	ENFERMEDAD 246 299	lesión que destruye parte de cuerpo y rama mandibular
-T11	ENFERMEDAD 488 494	lesión
+T1	ENFERMEDAD 392 427	ameloblastoma plexiforme mandibular
+T2	ENFERMEDAD 246 299	lesión que destruye parte de cuerpo y rama mandibular
+T3	ENFERMEDAD 488 494	lesión
+T4	PROCEDIMIENTO 372 390	biopsia incisional
+T5	PROCEDIMIENTO 527 563	Se coloca prótesis de reconstrucción
+T6	PROCEDIMIENTO 507 525	excisión en bloque
+T7	PROCEDIMIENTO 809 880	se coloca en lecho quirúrgico matriz ósea mezclada con aspirado medular
+T8	PROCEDIMIENTO 228 245	Radiográficamente
+T9	PROCEDIMIENTO 793 800	cirugía
+T10	SINTOMA 40 73	aumento de volumen hemimandibular
+T11	SINTOMA 140 187	Intraoralmente expansión de cortical vestibular
+T12	SINTOMA 130 138	doloroso
+T13	SINTOMA 192 226	desplazamiento de órganos dentales
+T14	SINTOMA 721 741	Buena apertura bucal
+T15	SINTOMA 745 768	adecuado aspecto facial
+T16	SINTOMA 1032 1069	Buena apertura bucal, estética facial
+T17	SINTOMA 1080 1121	conservación de sensibilidad y motricidad

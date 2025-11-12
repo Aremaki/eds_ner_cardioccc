@@ -1,7 +1,15 @@
-T1	SINTOMA 174 243	disfagia secundaria a la radioterapia tanto a sólidos como a líquidos
-T2	SINTOMA 82 94	G1, cT4b cN2
-T3	SINTOMA 249 265	pérdida ponderal
-T4	SINTOMA 467 475	sangrado
-T5	ENFERMEDAD 174 211	disfagia secundaria a la radioterapia
-T6	ENFERMEDAD 34 81	carcinoma epidermoide infiltrante de orofaringe
-T7	ENFERMEDAD 491 530	estenosis en porción esofágica superior
+T1	ENFERMEDAD 174 211	disfagia secundaria a la radioterapia
+T2	ENFERMEDAD 34 81	carcinoma epidermoide infiltrante de orofaringe
+T3	ENFERMEDAD 491 530	estenosis en porción esofágica superior
+T4	PROCEDIMIENTO 199 211	radioterapia
+T5	PROCEDIMIENTO 99 128	tratamiento con quimioterapia
+T6	PROCEDIMIENTO 131 143	radioterapia
+T7	PROCEDIMIENTO 310 343	nutrición enteral a través de SNG
+T8	PROCEDIMIENTO 405 408	GEP
+T9	PROCEDIMIENTO 439 454	endoscopia oral
+T10	PROCEDIMIENTO 479 530	dilatar una estenosis en porción esofágica superior
+T11	PROCEDIMIENTO 604 607	GRP
+T12	SINTOMA 82 94	G1, cT4b cN2
+T13	SINTOMA 249 265	pérdida ponderal
+T14	SINTOMA 467 475	sangrado
+T15	SINTOMA 174 243	disfagia secundaria a la radioterapia tanto a sólidos como a líquidos

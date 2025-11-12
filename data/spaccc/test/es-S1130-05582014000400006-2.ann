@@ -1,34 +1,34 @@
-T1	SINTOMA 150 156	disnea
-T2	SINTOMA 158 166	disfagia
-T3	SINTOMA 168 178	odinofagia
-T4	SINTOMA 180 189	taquipnea
-T5	SINTOMA 191 199	disfonía
-T6	SINTOMA 658 670	leucocitosis
-T7	SINTOMA 361 384	dolorosa a la palpación
-T8	SINTOMA 242 352	aumento del volumen en la región submandibular que se extiende a la región cervical anterior y supraclavicular
-T9	SINTOMA 1082 1109	desplazamiento mediastínico
-T10	SINTOMA 1004 1077	disminución de la luz de las vías aéreas de la región cervical y torácica
-T11	SINTOMA 391 408	hipertermia local
-T12	SINTOMA 847 1002	imágenes hipodensas a nivel del espacio sublingual, submandibular bilateral y submentoniano comunicado con la región supraclavicular derecha y retrosternal
-T13	SINTOMA 201 232	limitación de la apertura bucal
-T14	SINTOMA 524 542	mala higiene bucal
-T15	SINTOMA 545 593	moderado aumento del volumen del piso de la boca
-T16	ENFERMEDAD 1155 1171	angina de Ludwig
-T17	ENFERMEDAD 454 490	edentulismo parcial maxilomandibular
-T18	ENFERMEDAD 1187 1200	mediastinitos
-T19	ENFERMEDAD 606 617	glosoptosis
-T20	ENFERMEDAD 507 513	caries
-T21	ENFERMEDAD 158 166	disfagia
-T22	ENFERMEDAD 191 199	disfonía
-T23	PROCEDIMIENTO 1285 1328	tratamiento antibiótico por vía intravenosa
-T24	PROCEDIMIENTO 1443 1531	drenaje quirúrgico de los espacios submandibulares, sublingual bilateral y submentoniano
-T25	PROCEDIMIENTO 1584 1614	drenaje pasivo de tipo penrose
-T26	PROCEDIMIENTO 1702 1757	drenaje quirúrgico en la región supraclavicular derecha
-T27	PROCEDIMIENTO 1727 1796	región supraclavicular derecha dejando de igual forma un dren penrose
-T28	PROCEDIMIENTO 1812 1859	lavados diarios con 1.000 cc de solución salina
-T29	PROCEDIMIENTO 1895 1910	acto quirúrgico
-T30	PROCEDIMIENTO 2055 2066	tomografías
-T31	PROCEDIMIENTO 2143 2161	drenaje quirúrgico
-T32	PROCEDIMIENTO 375 384	palpación
-T33	PROCEDIMIENTO 417 442	examen clínico intrabucal
-T34	PROCEDIMIENTO 800 824	tomografía computarizada
+T1	ENFERMEDAD 1155 1171	angina de Ludwig
+T2	ENFERMEDAD 454 490	edentulismo parcial maxilomandibular
+T3	ENFERMEDAD 1187 1200	mediastinitos
+T4	ENFERMEDAD 606 617	glosoptosis
+T5	ENFERMEDAD 507 513	caries
+T6	ENFERMEDAD 158 166	disfagia
+T7	ENFERMEDAD 191 199	disfonía
+T8	PROCEDIMIENTO 417 442	examen clínico intrabucal
+T9	PROCEDIMIENTO 800 824	tomografía computarizada
+T10	PROCEDIMIENTO 1285 1328	tratamiento antibiótico por vía intravenosa
+T11	PROCEDIMIENTO 2055 2066	tomografías
+T12	PROCEDIMIENTO 2143 2161	drenaje quirúrgico
+T13	PROCEDIMIENTO 1443 1531	drenaje quirúrgico de los espacios submandibulares, sublingual bilateral y submentoniano
+T14	PROCEDIMIENTO 1584 1614	drenaje pasivo de tipo penrose
+T15	PROCEDIMIENTO 1702 1757	drenaje quirúrgico en la región supraclavicular derecha
+T16	PROCEDIMIENTO 1812 1859	lavados diarios con 1.000 cc de solución salina
+T17	PROCEDIMIENTO 375 384	palpación
+T18	PROCEDIMIENTO 1727 1796	región supraclavicular derecha dejando de igual forma un dren penrose
+T19	PROCEDIMIENTO 1895 1910	acto quirúrgico
+T20	SINTOMA 847 1002	imágenes hipodensas a nivel del espacio sublingual, submandibular bilateral y submentoniano comunicado con la región supraclavicular derecha y retrosternal
+T21	SINTOMA 524 542	mala higiene bucal
+T22	SINTOMA 545 593	moderado aumento del volumen del piso de la boca
+T23	SINTOMA 150 156	disnea
+T24	SINTOMA 158 166	disfagia
+T25	SINTOMA 168 178	odinofagia
+T26	SINTOMA 180 189	taquipnea
+T27	SINTOMA 191 199	disfonía
+T28	SINTOMA 201 232	limitación de la apertura bucal
+T29	SINTOMA 1004 1077	disminución de la luz de las vías aéreas de la región cervical y torácica
+T30	SINTOMA 242 352	aumento del volumen en la región submandibular que se extiende a la región cervical anterior y supraclavicular
+T31	SINTOMA 391 408	hipertermia local
+T32	SINTOMA 658 670	leucocitosis
+T33	SINTOMA 361 384	dolorosa a la palpación
+T34	SINTOMA 1082 1109	desplazamiento mediastínico

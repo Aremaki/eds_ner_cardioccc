@@ -1,6 +1,17 @@
-T1	SINTOMA 960 1013	síntomas relacionados con el tracto urinario inferior
-T2	ENFERMEDAD 24 52	patología litiásica compleja
-T3	ENFERMEDAD 193 209	litiasis renales
-T4	ENFERMEDAD 399 416	litiasis ureteral
-T5	ENFERMEDAD 549 582	litiasis de 1 cm en polo inferior
-T6	ENFERMEDAD 298 342	moderada dilatación pielocalicial y ureteral
+T1	ENFERMEDAD 24 52	patología litiásica compleja
+T2	ENFERMEDAD 193 209	litiasis renales
+T3	ENFERMEDAD 399 416	litiasis ureteral
+T4	ENFERMEDAD 549 582	litiasis de 1 cm en polo inferior
+T5	ENFERMEDAD 298 342	moderada dilatación pielocalicial y ureteral
+T6	PROCEDIMIENTO 1113 1122	anestesia
+T7	PROCEDIMIENTO 450 486	se colocó un catéter 'stone sweeper'
+T8	PROCEDIMIENTO 719 755	se colocó el catéter 'stone sweeper'
+T9	PROCEDIMIENTO 98 125	derivación urinaria interna
+T10	PROCEDIMIENTO 1061 1071	extracción
+T11	PROCEDIMIENTO 77 144	'stone sweeper' como derivación urinaria interna de forma bilateral
+T12	PROCEDIMIENTO 513 517	ESWL
+T13	PROCEDIMIENTO 618 622	ESWL
+T14	PROCEDIMIENTO 787 791	ESWL
+T15	PROCEDIMIENTO 888 936	permanencia de los dos catéteres 'stone sweeper'
+T16	SINTOMA 960 1013	síntomas relacionados con el tracto urinario inferior
+T17	SINTOMA 1145 1190	fragmentos litiásicos dentro de las cestillas

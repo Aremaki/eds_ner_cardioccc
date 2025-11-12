@@ -1,12 +1,20 @@
-T1	SINTOMA 761 798	áreas hipopigmentadas coriorretinales
-T2	SINTOMA 36 61	Cariotipo femenino normal
-T3	SINTOMA 307 319	convulsiones
-T4	SINTOMA 724 749	disco óptico colobomatoso
-T5	SINTOMA 402 425	hipsarritmia asimétrica
-T6	SINTOMA 978 1007	retardo psicomotor muy severo
-T7	ENFERMEDAD 144 170	agenesia de cuerpo calloso
-T8	ENFERMEDAD 190 224	anomalías de la migración neuronal
-T9	ENFERMEDAD 249 258	epilepsia
-T10	ENFERMEDAD 532 586	lagunas coriorretinianas hipopigmentadas peripapilares
-T11	ENFERMEDAD 818 858	malformaciones a nivel renal o vertebral
-T12	ENFERMEDAD 978 1007	retardo psicomotor muy severo
+T1	ENFERMEDAD 144 170	agenesia de cuerpo calloso
+T2	ENFERMEDAD 190 224	anomalías de la migración neuronal
+T3	ENFERMEDAD 249 258	epilepsia
+T4	ENFERMEDAD 532 586	lagunas coriorretinianas hipopigmentadas peripapilares
+T5	ENFERMEDAD 818 858	malformaciones a nivel renal o vertebral
+T6	ENFERMEDAD 978 1007	retardo psicomotor muy severo
+T7	PROCEDIMIENTO 75 80	parto
+T8	PROCEDIMIENTO 92 129	resonancia magnética nuclear cerebral
+T9	PROCEDIMIENTO 131 134	RMN
+T10	PROCEDIMIENTO 346 379	registros electroencefalográficos
+T11	PROCEDIMIENTO 381 384	EEG
+T12	PROCEDIMIENTO 433 452	examen funduscópico
+T13	PROCEDIMIENTO 688 710	fondo de ojo izquierdo
+T14	SINTOMA 307 319	convulsiones
+T15	SINTOMA 402 425	hipsarritmia asimétrica
+T16	SINTOMA 724 749	disco óptico colobomatoso
+T17	SINTOMA 761 798	áreas hipopigmentadas coriorretinales
+T18	SINTOMA 36 61	Cariotipo femenino normal
+T19	SINTOMA 465 586	papila completa en el ojo derecho, pigmento peripapilar y áreas de lagunas coriorretinianas hipopigmentadas peripapilares
+T20	SINTOMA 978 1007	retardo psicomotor muy severo

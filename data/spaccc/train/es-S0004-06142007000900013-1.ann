@@ -1,8 +1,15 @@
-T1	SINTOMA 114 137	aumento del hemiescroto
-T2	SINTOMA 330 336	fiebre
-T3	SINTOMA 402 453	hemiescroto izquierdo aumentado de tamaño, doloroso
-T4	SINTOMA 297 316	llanto inconsolable
-T5	SINTOMA 655 696	teste derecho de características normales
-T6	SINTOMA 1161 1206	teste derecho de tamaño y consistencia normal
-T7	SINTOMA 701 749	teste izquierdo se encuentra aumentado de tamaño
-T8	ENFERMEDAD 923 941	torsión testicular
+T1	ENFERMEDAD 923 941	torsión testicular
+T2	PROCEDIMIENTO 621 639	ecografía escrotal
+T3	PROCEDIMIENTO 559 568	hemograma
+T4	PROCEDIMIENTO 1026 1085	extirpación del teste izquierdo y a la fijación del derecho
+T5	PROCEDIMIENTO 591 613	estudio de coagulación
+T6	PROCEDIMIENTO 573 583	bioquímica
+T7	PROCEDIMIENTO 983 1006	intervención quirúrgica
+T8	PROCEDIMIENTO 375 386	exploración
+T9	SINTOMA 330 336	fiebre
+T10	SINTOMA 655 696	teste derecho de características normales
+T11	SINTOMA 402 453	hemiescroto izquierdo aumentado de tamaño, doloroso
+T12	SINTOMA 701 749	teste izquierdo se encuentra aumentado de tamaño
+T13	SINTOMA 114 137	aumento del hemiescroto
+T14	SINTOMA 1161 1206	teste derecho de tamaño y consistencia normal
+T15	SINTOMA 297 316	llanto inconsolable

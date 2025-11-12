@@ -1,13 +1,19 @@
-T1	SINTOMA 1162 1182	debilidad mandibular
-T2	SINTOMA 209 223	lumbociatalgia
-T3	SINTOMA 197 206	lumbalgia
-T4	SINTOMA 1151 1159	diplopía
-T5	ENFERMEDAD 41 83	alérgico a tetraciclinas y beta-lactámicos
-T6	ENFERMEDAD 104 125	hipertensión arterial
-T7	ENFERMEDAD 244 288	espondiloartrósico con componente miofascial
-T8	ENFERMEDAD 870 886	ptosis palpebral
-T9	ENFERMEDAD 947 953	ptosis
-T10	ENFERMEDAD 1123 1139	ptosis palpebral
-T11	ENFERMEDAD 1290 1306	miastenia gravis
-T12	ENFERMEDAD 1151 1159	diplopía
-T13	ENFERMEDAD 1308 1310	MG
+T1	ENFERMEDAD 41 83	alérgico a tetraciclinas y beta-lactámicos
+T2	ENFERMEDAD 104 125	hipertensión arterial
+T3	ENFERMEDAD 244 288	espondiloartrósico con componente miofascial
+T4	ENFERMEDAD 870 886	ptosis palpebral
+T5	ENFERMEDAD 947 953	ptosis
+T6	ENFERMEDAD 1123 1139	ptosis palpebral
+T7	ENFERMEDAD 1290 1306	miastenia gravis
+T8	ENFERMEDAD 1151 1159	diplopía
+T9	ENFERMEDAD 1308 1310	MG
+T10	PROCEDIMIENTO 405 535	infiltración diagnóstico-terapéutica con anestésico local y corticoides de músculos profundos (psoas y cuadrado lumbar izquierdos)
+T11	PROCEDIMIENTO 601 728	infiltración, según protocolo del hospital, de los músculos psoas y cuadrado lumbar izquierdo, con toxina botulínica serotipo A
+T12	PROCEDIMIENTO 993 1079	infiltración con anestésico local y corticoides de puntos gatillo en cintura escapular
+T13	PROCEDIMIENTO 1324 1347	tratamiento corticoideo
+T14	PROCEDIMIENTO 52 65	tetraciclinas
+T15	PROCEDIMIENTO 68 83	beta-lactámicos
+T16	SINTOMA 197 206	lumbalgia
+T17	SINTOMA 209 223	lumbociatalgia
+T18	SINTOMA 1151 1159	diplopía
+T19	SINTOMA 1162 1182	debilidad mandibular

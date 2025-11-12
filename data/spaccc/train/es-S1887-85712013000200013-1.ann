@@ -1,5 +1,12 @@
-T1	SINTOMA 750 755	dolor
-T2	SINTOMA 63 75	desnutrición
-T3	ENFERMEDAD 92 194	quemaduras de segundo grado en región anterior y posterior muslo derecho, flanco derecho y mesogastrio
-T4	ENFERMEDAD 63 75	desnutrición
-T5	ENFERMEDAD 365 371	lesión
+T1	ENFERMEDAD 92 194	quemaduras de segundo grado en región anterior y posterior muslo derecho, flanco derecho y mesogastrio
+T2	ENFERMEDAD 63 75	desnutrición
+T3	ENFERMEDAD 365 371	lesión
+T4	PROCEDIMIENTO 288 306	tratamiento tópico
+T5	PROCEDIMIENTO 384 413	desbridamiento mecánico local
+T6	PROCEDIMIENTO 704 713	analgesia
+T7	PROCEDIMIENTO 759 767	sedación
+T8	PROCEDIMIENTO 842 846	cura
+T9	PROCEDIMIENTO 416 512	aplicación de sulfadiacina argéntica y apósito Tulgrasum® cicatrizante impregnado de antibiótico
+T10	PROCEDIMIENTO 1007 1031	procedimiento quirúrgico
+T11	SINTOMA 750 755	dolor
+T12	SINTOMA 63 75	desnutrición

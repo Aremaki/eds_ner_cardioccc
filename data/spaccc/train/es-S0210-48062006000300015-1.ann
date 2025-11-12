@@ -1,12 +1,33 @@
-T1	SINTOMA 569 607	anulación funcional de la unidad renal
-T2	SINTOMA 1037 1052	anulación renal
-T3	SINTOMA 2352 2364	asintomático
-T4	SINTOMA 770 806	escasa captación isotópica del riñón
-T5	SINTOMA 2087 2117	escasa funcionalidad del riñón
-T6	SINTOMA 200 235	retraso de la eliminación en la UIV
-T7	ENFERMEDAD 70 86	hernias discales
-T8	ENFERMEDAD 101 137	litiasis coraliforme en pelvis renal
-T9	ENFERMEDAD 1093 1127	estenosis ureteral lumbar e ilíaca
-T10	ENFERMEDAD 2131 2149	estenosis ureteral
-T11	ENFERMEDAD 1417 1435	estenosis ureteral
-T12	ENFERMEDAD 173 197	dilatación pielocalicial
+T1	ENFERMEDAD 70 86	hernias discales
+T2	ENFERMEDAD 101 137	litiasis coraliforme en pelvis renal
+T3	ENFERMEDAD 1093 1127	estenosis ureteral lumbar e ilíaca
+T4	ENFERMEDAD 2131 2149	estenosis ureteral
+T5	ENFERMEDAD 1417 1435	estenosis ureteral
+T6	ENFERMEDAD 173 197	dilatación pielocalicial
+T7	PROCEDIMIENTO 964 985	ureteroscopia derecha
+T8	PROCEDIMIENTO 36 65	fijación en la columna lumbar
+T9	PROCEDIMIENTO 2267 2286	nefrectomía derecha
+T10	PROCEDIMIENTO 726 745	renograma isotópico
+T11	PROCEDIMIENTO 748 765	gammagrafía renal
+T12	PROCEDIMIENTO 2066 2077	nefrectomía
+T13	PROCEDIMIENTO 886 895	renograma
+T14	PROCEDIMIENTO 232 235	UIV
+T15	PROCEDIMIENTO 265 290	tratamiento alcalinizante
+T16	PROCEDIMIENTO 383 423	colocación de un catéter doble J derecho
+T17	PROCEDIMIENTO 470 514	litotricia extracorpórea con ondas de choque
+T18	PROCEDIMIENTO 529 532	UIV
+T19	PROCEDIMIENTO 629 658	colocación de catéter doble J
+T20	PROCEDIMIENTO 1709 1728	dilatación ureteral
+T21	PROCEDIMIENTO 1742 1774	colocación de un catéter doble J
+T22	PROCEDIMIENTO 990 999	anestesia
+T23	PROCEDIMIENTO 870 879	diurético
+T24	PROCEDIMIENTO 2018 2063	abordaje percutáneo para extracción del bucle
+T25	PROCEDIMIENTO 1417 1470	estenosis ureteral, dado que durante las dilataciones
+T26	PROCEDIMIENTO 1547 1641	se decide colocar además una guía de seguridad y se procede a ascenderla hasta la pelvis renal
+T27	PROCEDIMIENTO 1838 1868	al intentar retirar dicha guía
+T28	SINTOMA 1037 1052	anulación renal
+T29	SINTOMA 2087 2117	escasa funcionalidad del riñón
+T30	SINTOMA 569 607	anulación funcional de la unidad renal
+T31	SINTOMA 2352 2364	asintomático
+T32	SINTOMA 770 806	escasa captación isotópica del riñón
+T33	SINTOMA 200 235	retraso de la eliminación en la UIV

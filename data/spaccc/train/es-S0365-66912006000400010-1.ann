@@ -1,32 +1,32 @@
-T1	SINTOMA 346 383	alteraciones de la posición palpebral
-T2	SINTOMA 219 229	anhidrosis
-T3	SINTOMA 312 329	ausencia de cejas
-T4	SINTOMA 43 72	disminución de agudeza visual
-T5	SINTOMA 496 523	hiperemia conjuntival mixta
-T6	SINTOMA 332 341	madarosis
-T7	SINTOMA 751 803	menisco lagrimal de ambos ojos marcadamente reducido
-T8	SINTOMA 525 561	neovascularización corneal bilateral
-T9	SINTOMA 284 310	pérdida de cuero cabelludo
-T10	SINTOMA 231 245	piosis cutánea
-T11	SINTOMA 1182 1196	queratoeritema
-T12	SINTOMA 188 217	sequedad cutánea generalizada
-T13	SINTOMA 134 149	sequedad ocular
-T14	ENFERMEDAD 219 229	anhidrosis
-T15	ENFERMEDAD 312 329	ausencia de cejas
-T16	ENFERMEDAD 332 341	madarosis
-T17	ENFERMEDAD 525 561	neovascularización corneal bilateral
-T18	ENFERMEDAD 649 689	queratopatía punteada superficial difusa
-T19	ENFERMEDAD 1182 1196	queratoeritema
-T20	ENFERMEDAD 1199 1221	sordera neurosensorial
-T21	ENFERMEDAD 1259 1271	síndrome KID
-T22	ENFERMEDAD 1446 1458	síndrome KID
-T23	ENFERMEDAD 247 282	lesiones cutáneas hiperqueratósicas
-T24	ENFERMEDAD 134 149	sequedad ocular
-T25	ENFERMEDAD 231 245	piosis cutánea
-T26	ENFERMEDAD 284 310	pérdida de cuero cabelludo
-T27	ENFERMEDAD 188 217	sequedad cutánea generalizada
-T28	PROCEDIMIENTO 1115 1161	exploración física dermatológica y neurológica
-T29	PROCEDIMIENTO 1372 1412	análisis molecular genético del gen GJB2
-T30	PROCEDIMIENTO 474 488	biomicroscopía
-T31	PROCEDIMIENTO 694 710	test de Schirmer
-T32	PROCEDIMIENTO 962 980	lubricación ocular
+T1	ENFERMEDAD 219 229	anhidrosis
+T2	ENFERMEDAD 312 329	ausencia de cejas
+T3	ENFERMEDAD 332 341	madarosis
+T4	ENFERMEDAD 525 561	neovascularización corneal bilateral
+T5	ENFERMEDAD 649 689	queratopatía punteada superficial difusa
+T6	ENFERMEDAD 1182 1196	queratoeritema
+T7	ENFERMEDAD 1199 1221	sordera neurosensorial
+T8	ENFERMEDAD 1259 1271	síndrome KID
+T9	ENFERMEDAD 1446 1458	síndrome KID
+T10	ENFERMEDAD 247 282	lesiones cutáneas hiperqueratósicas
+T11	ENFERMEDAD 134 149	sequedad ocular
+T12	ENFERMEDAD 231 245	piosis cutánea
+T13	ENFERMEDAD 284 310	pérdida de cuero cabelludo
+T14	ENFERMEDAD 188 217	sequedad cutánea generalizada
+T15	PROCEDIMIENTO 474 488	biomicroscopía
+T16	PROCEDIMIENTO 694 710	test de Schirmer
+T17	PROCEDIMIENTO 1115 1161	exploración física dermatológica y neurológica
+T18	PROCEDIMIENTO 1372 1412	análisis molecular genético del gen GJB2
+T19	PROCEDIMIENTO 962 980	lubricación ocular
+T20	SINTOMA 43 72	disminución de agudeza visual
+T21	SINTOMA 134 149	sequedad ocular
+T22	SINTOMA 188 217	sequedad cutánea generalizada
+T23	SINTOMA 284 310	pérdida de cuero cabelludo
+T24	SINTOMA 751 803	menisco lagrimal de ambos ojos marcadamente reducido
+T25	SINTOMA 346 383	alteraciones de la posición palpebral
+T26	SINTOMA 219 229	anhidrosis
+T27	SINTOMA 231 245	piosis cutánea
+T28	SINTOMA 312 329	ausencia de cejas
+T29	SINTOMA 332 341	madarosis
+T30	SINTOMA 496 523	hiperemia conjuntival mixta
+T31	SINTOMA 525 561	neovascularización corneal bilateral
+T32	SINTOMA 1182 1196	queratoeritema

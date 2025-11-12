@@ -1,10 +1,22 @@
-T1	SINTOMA 157 187	normal función renal bilateral
-T2	SINTOMA 385 416	dolor intenso en flanco derecho
-T3	SINTOMA 197 226	riñón derecho de menor tamaño
-T4	ENFERMEDAD 52 61	Hepatitis
-T5	ENFERMEDAD 119 129	Cistinuria
-T6	ENFERMEDAD 248 251	HTA
-T7	ENFERMEDAD 460 480	hematoma subcapsular
-T8	ENFERMEDAD 508 516	hematoma
-T9	ENFERMEDAD 621 629	hematoma
-T10	ENFERMEDAD 262 305	litiasis de 1 cm en cáliz inferior de riñón
+T1	ENFERMEDAD 52 61	Hepatitis
+T2	ENFERMEDAD 119 129	Cistinuria
+T3	ENFERMEDAD 248 251	HTA
+T4	ENFERMEDAD 460 480	hematoma subcapsular
+T5	ENFERMEDAD 508 516	hematoma
+T6	ENFERMEDAD 621 629	hematoma
+T7	ENFERMEDAD 262 305	litiasis de 1 cm en cáliz inferior de riñón
+T8	PROCEDIMIENTO 253 313	Leoch de litiasis de 1 cm en cáliz inferior de riñón derecho
+T9	PROCEDIMIENTO 78 103	Ureterolitectomía derecha
+T10	PROCEDIMIENTO 131 134	UIV
+T11	PROCEDIMIENTO 147 152	Leoch
+T12	PROCEDIMIENTO 708 717	ecografía
+T13	PROCEDIMIENTO 720 723	UIV
+T14	PROCEDIMIENTO 769 774	Leoch
+T15	PROCEDIMIENTO 485 488	TAC
+T16	PROCEDIMIENTO 527 573	Se transfundieron dos concentrados de hematíes
+T17	PROCEDIMIENTO 609 649	drenaje del hematoma con cirugía abierta
+T18	PROCEDIMIENTO 598 608	litotricia
+T19	PROCEDIMIENTO 438 447	ecografía
+T20	SINTOMA 157 187	normal función renal bilateral
+T21	SINTOMA 385 416	dolor intenso en flanco derecho
+T22	SINTOMA 197 226	riñón derecho de menor tamaño

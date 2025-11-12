@@ -1,12 +1,16 @@
-T1	SINTOMA 495 536	dolor cólico periumbilical e hipogástrico
-T2	SINTOMA 741 787	imagen lineal superior a la cicatriz umbilical
-T3	SINTOMA 1077 1082	óbito
-T4	SINTOMA 578 586	sangrado
-T5	ENFERMEDAD 313 325	proctorragia
-T6	ENFERMEDAD 185 224	aneurisma aórtico abdominal infrarrenal
-T7	ENFERMEDAD 1050 1074	paro cardiorrespiratorio
-T8	ENFERMEDAD 675 678	FAE
-T9	ENFERMEDAD 986 1000	FAE con yeyuno
-T10	ENFERMEDAD 926 950	hematoma retroperitoneal
-T11	ENFERMEDAD 769 787	cicatriz umbilical
-T12	ENFERMEDAD 366 394	descompensación hemodinámica
+T1	ENFERMEDAD 313 325	proctorragia
+T2	ENFERMEDAD 185 224	aneurisma aórtico abdominal infrarrenal
+T3	ENFERMEDAD 1050 1074	paro cardiorrespiratorio
+T4	ENFERMEDAD 675 678	FAE
+T5	ENFERMEDAD 986 1000	FAE con yeyuno
+T6	ENFERMEDAD 926 950	hematoma retroperitoneal
+T7	ENFERMEDAD 769 787	cicatriz umbilical
+T8	ENFERMEDAD 366 394	descompensación hemodinámica
+T9	PROCEDIMIENTO 135 180	cirugía vascular con reemplazo aorto-biilíaco
+T10	PROCEDIMIENTO 621 638	cirugía abdominal
+T11	PROCEDIMIENTO 690 709	ecografía abdominal
+T12	PROCEDIMIENTO 887 910	laparotomía exploradora
+T13	SINTOMA 495 536	dolor cólico periumbilical e hipogástrico
+T14	SINTOMA 741 787	imagen lineal superior a la cicatriz umbilical
+T15	SINTOMA 578 586	sangrado
+T16	SINTOMA 1077 1082	óbito

@@ -1,28 +1,28 @@
-T1	SINTOMA 1326 1338	leucocitosis
-T2	SINTOMA 134 140	vómito
-T3	SINTOMA 154 160	fiebre
-T4	SINTOMA 231 251	distensión abdominal
-T5	SINTOMA 1941 1961	signos inflamatorios
-T6	SINTOMA 1970 1989	secreción purulenta
-T7	SINTOMA 1011 1031	signos inflamatorios
-T8	SINTOMA 164 202	cambios en la orina o las deposiciones
-T9	SINTOMA 1817 1855	cultivo de exudado Staphycoccus aureus
-T10	SINTOMA 994 1001	eritema
-T11	SINTOMA 908 949	expulsión espontánea de pus en el ombligo
-T12	SINTOMA 308 340	exudado purulento por el ombligo
-T13	SINTOMA 69 82	irritabilidad
-T14	SINTOMA 888 903	tumoración roja
-T15	SINTOMA 1642 1699	zona superior de la vejiga hacia el ombligo una colección
-T16	ENFERMEDAD 700 718	granuloma residual
-T17	ENFERMEDAD 809 823	ombligo húmedo
-T18	ENFERMEDAD 1763 1788	quiste de uraco infectado
-T19	ENFERMEDAD 649 661	onfalorrexis
-T20	PROCEDIMIENTO 1048 1059	exploración
-T21	PROCEDIMIENTO 1298 1307	hemograma
-T22	PROCEDIMIENTO 1360 1370	bioquímica
-T23	PROCEDIMIENTO 1413 1465	Se recogió muestra de exudado umbilical para cultivo
-T24	PROCEDIMIENTO 1490 1513	antibiótico intravenoso
-T25	PROCEDIMIENTO 1586 1606	ecografía de abdomen
-T26	PROCEDIMIENTO 1817 1835	cultivo de exudado
-T27	PROCEDIMIENTO 731 765	cauterización con nitrato de plata
-T28	PROCEDIMIENTO 857 875	exploración física
+T1	ENFERMEDAD 700 718	granuloma residual
+T2	ENFERMEDAD 809 823	ombligo húmedo
+T3	ENFERMEDAD 1763 1788	quiste de uraco infectado
+T4	ENFERMEDAD 649 661	onfalorrexis
+T5	PROCEDIMIENTO 857 875	exploración física
+T6	PROCEDIMIENTO 1298 1307	hemograma
+T7	PROCEDIMIENTO 1586 1606	ecografía de abdomen
+T8	PROCEDIMIENTO 731 765	cauterización con nitrato de plata
+T9	PROCEDIMIENTO 1413 1465	Se recogió muestra de exudado umbilical para cultivo
+T10	PROCEDIMIENTO 1490 1513	antibiótico intravenoso
+T11	PROCEDIMIENTO 1817 1835	cultivo de exudado
+T12	PROCEDIMIENTO 1360 1370	bioquímica
+T13	PROCEDIMIENTO 1048 1059	exploración
+T14	SINTOMA 1326 1338	leucocitosis
+T15	SINTOMA 69 82	irritabilidad
+T16	SINTOMA 134 140	vómito
+T17	SINTOMA 154 160	fiebre
+T18	SINTOMA 994 1001	eritema
+T19	SINTOMA 231 251	distensión abdominal
+T20	SINTOMA 308 340	exudado purulento por el ombligo
+T21	SINTOMA 1941 1961	signos inflamatorios
+T22	SINTOMA 1970 1989	secreción purulenta
+T23	SINTOMA 164 202	cambios en la orina o las deposiciones
+T24	SINTOMA 1011 1031	signos inflamatorios
+T25	SINTOMA 1642 1699	zona superior de la vejiga hacia el ombligo una colección
+T26	SINTOMA 1817 1855	cultivo de exudado Staphycoccus aureus
+T27	SINTOMA 888 903	tumoración roja
+T28	SINTOMA 908 949	expulsión espontánea de pus en el ombligo

@@ -1,9 +1,19 @@
-T1	SINTOMA 243 314	anfractuosidades en el tejido cutáneo-adiposo del dorso del pie derecho
-T2	SINTOMA 113 160	asimetría de volumen de los miembros inferiores
-T3	SINTOMA 1414 1433	exudación linfática
-T4	SINTOMA 1869 1898	reducción del volumen del pie
-T5	SINTOMA 169 200	volumen exuberante de la pierna
-T6	ENFERMEDAD 343 360	linfedema crónico
-T7	ENFERMEDAD 47 63	obesidad mórbida
-T8	ENFERMEDAD 496 506	filariasis
-T9	ENFERMEDAD 1106 1126	bridas cicatriciales
+T1	ENFERMEDAD 343 360	linfedema crónico
+T2	ENFERMEDAD 47 63	obesidad mórbida
+T3	ENFERMEDAD 496 506	filariasis
+T4	ENFERMEDAD 1106 1126	bridas cicatriciales
+T5	PROCEDIMIENTO 1869 1898	reducción del volumen del pie
+T6	PROCEDIMIENTO 1171 1188	drenaje linfático
+T7	PROCEDIMIENTO 686 707	elevación del miembro
+T8	PROCEDIMIENTO 729 744	higiene cutánea
+T9	PROCEDIMIENTO 1228 1235	injerto
+T10	PROCEDIMIENTO 776 865	cirugía, realizándose técnica de Charles con escisión del área afectada del dorso del pie
+T11	PROCEDIMIENTO 1382 1387	curas
+T12	PROCEDIMIENTO 899 988	cobertura con injerto de piel parcial en red tomado de la cara interna de la misma pierna
+T13	PROCEDIMIENTO 1486 1504	antibioticoterapia
+T14	PROCEDIMIENTO 1666 1700	compresión mediante media elástica
+T15	SINTOMA 113 160	asimetría de volumen de los miembros inferiores
+T16	SINTOMA 169 200	volumen exuberante de la pierna
+T17	SINTOMA 243 314	anfractuosidades en el tejido cutáneo-adiposo del dorso del pie derecho
+T18	SINTOMA 1414 1433	exudación linfática
+T19	SINTOMA 1869 1898	reducción del volumen del pie

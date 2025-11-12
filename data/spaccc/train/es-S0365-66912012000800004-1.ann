@@ -1,22 +1,35 @@
-T1	SINTOMA 1980 2018	afectación macular y del nervio óptico
-T2	SINTOMA 603 621	afectación pupilar
-T3	SINTOMA 2187 2236	hiperpresión masiva que comprimió el globo ocular
-T4	SINTOMA 650 684	hipotonía extrema del globo ocular
-T5	SINTOMA 623 643	pliegues en Descemet
-T6	SINTOMA 1703 1734	punto de fuga posterior sellado
-T7	SINTOMA 1818 1844	reabsorción del hemovítreo
-T8	PROCEDIMIENTO 1054 1100	tomografía axial computarizada (TAC) orbitaria
-T9	PROCEDIMIENTO 1086 1089	TAC
-T10	PROCEDIMIENTO 1304 1327	tratamiento antibiótico
-T11	PROCEDIMIENTO 1330 1341	corticoideo
-T12	PROCEDIMIENTO 159 192	facoemulsificación del cristalino
-T13	PROCEDIMIENTO 1672 1685	TAC orbitaria
-T14	PROCEDIMIENTO 198 227	implante de lente intraocular
-T15	PROCEDIMIENTO 2116 2119	TAC
-T16	PROCEDIMIENTO 2246 2264	imagen tomográfica
-T17	PROCEDIMIENTO 262 273	vitrectomía
-T18	PROCEDIMIENTO 351 363	intervención
-T19	PROCEDIMIENTO 376 396	examen oftalmológico
-T20	PROCEDIMIENTO 497 517	Biomicroscópicamente
+T1	ENFERMEDAD 73 93	contusión, en su ojo
+T2	ENFERMEDAD 1220 1244	hemorragia supracoroidea
+T3	ENFERMEDAD 278 303	desprendimiento de retina
+T4	ENFERMEDAD 1455 1473	oftalmía simpática
+T5	ENFERMEDAD 570 598	diálisis importante del iris
+T6	ENFERMEDAD 853 863	hemovítreo
+T7	ENFERMEDAD 1890 1917	rotura coroidea cicatricial
+T8	ENFERMEDAD 931 957	herida penetrante anterior
+T9	ENFERMEDAD 1000 1025	rotura escleral posterior
+T10	ENFERMEDAD 2064 2080	estallido ocular
+T11	ENFERMEDAD 549 564	hifema moderado
+T12	ENFERMEDAD 650 684	hipotonía extrema del globo ocular
+T13	ENFERMEDAD 1834 1844	hemovítreo
+T14	PROCEDIMIENTO 159 192	facoemulsificación del cristalino
+T15	PROCEDIMIENTO 198 227	implante de lente intraocular
+T16	PROCEDIMIENTO 262 273	vitrectomía
+T17	PROCEDIMIENTO 1330 1341	corticoideo
+T18	PROCEDIMIENTO 376 396	examen oftalmológico
+T19	PROCEDIMIENTO 497 517	Biomicroscópicamente
+T20	PROCEDIMIENTO 1672 1685	TAC orbitaria
 T21	PROCEDIMIENTO 719 743	tonometría de aplanación
 T22	PROCEDIMIENTO 809 836	exploración de fondo de ojo
+T23	PROCEDIMIENTO 1054 1100	tomografía axial computarizada (TAC) orbitaria
+T24	PROCEDIMIENTO 1086 1089	TAC
+T25	PROCEDIMIENTO 2116 2119	TAC
+T26	PROCEDIMIENTO 1304 1327	tratamiento antibiótico
+T27	PROCEDIMIENTO 2246 2264	imagen tomográfica
+T28	PROCEDIMIENTO 351 363	intervención
+T29	SINTOMA 623 643	pliegues en Descemet
+T30	SINTOMA 650 684	hipotonía extrema del globo ocular
+T31	SINTOMA 1818 1844	reabsorción del hemovítreo
+T32	SINTOMA 1980 2018	afectación macular y del nervio óptico
+T33	SINTOMA 2187 2236	hiperpresión masiva que comprimió el globo ocular
+T34	SINTOMA 1703 1734	punto de fuga posterior sellado
+T35	SINTOMA 603 621	afectación pupilar

@@ -1,10 +1,18 @@
-T1	SINTOMA 43 55	asintomático
-T2	SINTOMA 261 270	lumbalgia
-T3	SINTOMA 444 482	borrosidad de la grasa peripancreática
-T4	SINTOMA 344 389	masa inhomogénea a nivel del proceso uncinado
-T5	SINTOMA 731 789	PAAF guiada por ecoendoscopia fue negativo para malignidad
-T6	ENFERMEDAD 810 824	adenocarcinoma
-T7	ENFERMEDAD 634 656	invasión de vía biliar
-T8	ENFERMEDAD 115 163	lesión a nivel del proceso uncinado del páncreas
-T9	ENFERMEDAD 485 530	dilatación del conducto pancreático principal
-T10	ENFERMEDAD 1086 1107	quiste linfoepitelial
+T1	ENFERMEDAD 810 824	adenocarcinoma
+T2	ENFERMEDAD 634 656	invasión de vía biliar
+T3	ENFERMEDAD 115 163	lesión a nivel del proceso uncinado del páncreas
+T4	ENFERMEDAD 485 530	dilatación del conducto pancreático principal
+T5	ENFERMEDAD 1086 1107	quiste linfoepitelial
+T6	PROCEDIMIENTO 292 327	tomografía computerizada de abdomen
+T7	PROCEDIMIENTO 840 871	duodenopancreatectomía cefálica
+T8	PROCEDIMIENTO 876 908	disección de ganglios linfáticos
+T9	PROCEDIMIENTO 686 704	estudio citológico
+T10	PROCEDIMIENTO 731 760	PAAF guiada por ecoendoscopia
+T11	PROCEDIMIENTO 208 227	ecografía abdominal
+T12	PROCEDIMIENTO 1055 1082	diagnóstico histopatológico
+T13	PROCEDIMIENTO 550 596	exploración con equipo lineal de ecoendoscopia
+T14	SINTOMA 261 270	lumbalgia
+T15	SINTOMA 43 55	asintomático
+T16	SINTOMA 344 389	masa inhomogénea a nivel del proceso uncinado
+T17	SINTOMA 444 482	borrosidad de la grasa peripancreática
+T18	SINTOMA 731 789	PAAF guiada por ecoendoscopia fue negativo para malignidad

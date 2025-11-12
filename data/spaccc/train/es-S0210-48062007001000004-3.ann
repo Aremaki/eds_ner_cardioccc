@@ -1,29 +1,45 @@
-T1	SINTOMA 2302 2321	libre de enfermedad
-T2	SINTOMA 1635 1668	microcalcificaciones en testículo
-T3	SINTOMA 1757 1781	aumento de flujo Doppler
-T4	SINTOMA 70 84	dolor en teste
-T5	SINTOMA 192 210	dolor en testículo
-T6	SINTOMA 1868 1902	exploración física resulta anodina
-T7	SINTOMA 1910 1960	marcadores tumorales están dentro de la normalidad
-T8	SINTOMA 1689 1706	nódulo hipoecoico
-T9	SINTOMA 756 801	tumoración de 23 mm en polo inferior de teste
-T10	SINTOMA 458 518	tumoración en polo posteroinferior de teste derecho indolora
-T11	PROCEDIMIENTO 123 151	tratamiento antiinflamatorio
-T12	PROCEDIMIENTO 1287 1326	tratamiento adyuvante con quimioterapia
-T13	PROCEDIMIENTO 1501 1519	técnicas de imagen
-T14	PROCEDIMIENTO 1585 1609	estudio ultrasonográfico
-T15	PROCEDIMIENTO 1768 1781	flujo Doppler
-T16	PROCEDIMIENTO 1868 1886	exploración física
-T17	PROCEDIMIENTO 1910 1930	marcadores tumorales
-T18	PROCEDIMIENTO 1967 1998	orquiectomía inguinal izquierda
-T19	PROCEDIMIENTO 2003 2022	Anatomía Patológica
+T1	ENFERMEDAD 1188 1218	Tumor Germinal No Seminomatoso
+T2	ENFERMEDAD 540 556	tumor testicular
+T3	ENFERMEDAD 359 384	alérgico a las Sulfamidas
+T4	ENFERMEDAD 2034 2073	Seminoma de 0,5 cm que infiltra cápsula
+T5	ENFERMEDAD 987 1082	Tumor de Células Germinales mixto de 2 cm formado por Carcinoma Embrionario y focos de Teratoma
+T6	ENFERMEDAD 244 261	orquiepididimitis
+T7	ENFERMEDAD 1804 1820	tumor testicular
+T8	ENFERMEDAD 1843 1853	varicocele
+T9	ENFERMEDAD 856 865	neoplasia
+T10	ENFERMEDAD 1087 1117	invasión vascular ni linfática
+T11	ENFERMEDAD 2160 2194	infiltración vascular ni linfática
+T12	ENFERMEDAD 1041 1062	Carcinoma Embrionario
+T13	ENFERMEDAD 1074 1082	Teratoma
+T14	ENFERMEDAD 1635 1668	microcalcificaciones en testículo
+T15	ENFERMEDAD 2080 2098	testículo atrófico
+T16	ENFERMEDAD 2111 2155	Neoplasia Intratubular de Células Germinales
+T17	PROCEDIMIENTO 1868 1886	exploración física
+T18	PROCEDIMIENTO 430 448	exploración física
+T19	PROCEDIMIENTO 1967 1998	orquiectomía inguinal izquierda
 T20	PROCEDIMIENTO 2211 2240	tratamiento con quimioterapia
-T21	PROCEDIMIENTO 2243 2275	tratamiento hormonal sustitutivo
-T22	PROCEDIMIENTO 374 384	Sulfamidas
-T23	PROCEDIMIENTO 430 448	exploración física
-T24	PROCEDIMIENTO 576 604	analítica completa sanguínea
-T25	PROCEDIMIENTO 609 629	marcadores tumorales
-T26	PROCEDIMIENTO 636 656	ecografía testicular
+T21	PROCEDIMIENTO 913 950	orquiectomía radical inguinal derecha
+T22	PROCEDIMIENTO 2243 2275	tratamiento hormonal sustitutivo
+T23	PROCEDIMIENTO 609 629	marcadores tumorales
+T24	PROCEDIMIENTO 1287 1326	tratamiento adyuvante con quimioterapia
+T25	PROCEDIMIENTO 636 656	ecografía testicular
+T26	PROCEDIMIENTO 123 151	tratamiento antiinflamatorio
 T27	PROCEDIMIENTO 731 740	ecografía
-T28	PROCEDIMIENTO 913 950	orquiectomía radical inguinal derecha
+T28	PROCEDIMIENTO 1585 1609	estudio ultrasonográfico
 T29	PROCEDIMIENTO 956 975	Anatomía Patológica
+T30	PROCEDIMIENTO 2003 2022	Anatomía Patológica
+T31	PROCEDIMIENTO 1910 1930	marcadores tumorales
+T32	PROCEDIMIENTO 1768 1781	flujo Doppler
+T33	PROCEDIMIENTO 374 384	Sulfamidas
+T34	PROCEDIMIENTO 576 604	analítica completa sanguínea
+T35	PROCEDIMIENTO 1501 1519	técnicas de imagen
+T36	SINTOMA 70 84	dolor en teste
+T37	SINTOMA 192 210	dolor en testículo
+T38	SINTOMA 756 801	tumoración de 23 mm en polo inferior de teste
+T39	SINTOMA 1689 1706	nódulo hipoecoico
+T40	SINTOMA 1868 1902	exploración física resulta anodina
+T41	SINTOMA 1910 1960	marcadores tumorales están dentro de la normalidad
+T42	SINTOMA 458 518	tumoración en polo posteroinferior de teste derecho indolora
+T43	SINTOMA 1635 1668	microcalcificaciones en testículo
+T44	SINTOMA 1757 1781	aumento de flujo Doppler
+T45	SINTOMA 2302 2321	libre de enfermedad

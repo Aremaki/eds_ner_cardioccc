@@ -1,58 +1,58 @@
-T1	SINTOMA 1984 2005	Tumoración testicular
-T2	SINTOMA 327 337	tumoración
-T3	SINTOMA 3593 3612	libre de enfermedad
-T4	SINTOMA 80 97	fiebre vespertina
-T5	SINTOMA 3358 3429	alfafetoproteína y beta-gonadotropina coriónica dentro de la normalidad
-T6	SINTOMA 442 463	aumento del testículo
-T7	SINTOMA 2137 2191	Calcificación en vertiente anteroinferior de testículo
-T8	SINTOMA 1332 1348	elevación de LDH
-T9	SINTOMA 2249 2281	Hígado, bazo y páncreas normales
-T10	SINTOMA 1640 1649	monorquio
-T11	SINTOMA 1913 1960	Radiografía de tórax: Sin hallazgos patológicos
-T12	SINTOMA 2283 2324	Riñones de morfología y densidad normales
-T13	SINTOMA 1287 1293	T3N2M0
-T14	SINTOMA 760 782	Teste izquierdo normal
-T15	SINTOMA 454 512	testículo derecho con tumoración indolora en polo superior
-T16	SINTOMA 1560 1592	tumoración dolorosa en testículo
-T17	SINTOMA 181 204	tumoración en testículo
-T18	SINTOMA 641 664	tumoración en testículo
-T19	SINTOMA 1661 1720	tumoración indurada a nivel del polo inferior del epidídimo
-T20	SINTOMA 822 843	tumoración testicular
-T21	ENFERMEDAD 534 550	tumor testicular
-T22	ENFERMEDAD 2992 3018	adenopatía retroperitoneal
-T23	ENFERMEDAD 1115 1136	Carcinoma Embrionario
-T24	ENFERMEDAD 2530 2546	Seminoma clásico
-T25	ENFERMEDAD 1244 1278	carcinoma embrionario de testículo
-T26	ENFERMEDAD 3147 3160	hidronefrosis
-T27	ENFERMEDAD 856 893	adenopatías retrocavas y paraaórticas
-T28	ENFERMEDAD 2137 2191	Calcificación en vertiente anteroinferior de testículo
-T29	ENFERMEDAD 733 758	tumor testicular primario
-T30	ENFERMEDAD 1172 1205	epidídimo con implantes en cordón
-T31	ENFERMEDAD 2394 2421	tumor de células germinales
-T32	ENFERMEDAD 3449 3473	recidiva retroperitoneal
-T33	ENFERMEDAD 2329 2340	adenopatías
-T34	ENFERMEDAD 261 284	alergias medicamentosas
-T35	PROCEDIMIENTO 1047 1076	orquiectomia inguinal derecha
-T36	PROCEDIMIENTO 1092 1111	Anatomía Patológica
-T37	PROCEDIMIENTO 1378 1450	quimioterapia según el esquema BEP (bleom<icina, etopósido y cisplatino)
+T1	ENFERMEDAD 534 550	tumor testicular
+T2	ENFERMEDAD 2992 3018	adenopatía retroperitoneal
+T3	ENFERMEDAD 1115 1136	Carcinoma Embrionario
+T4	ENFERMEDAD 2530 2546	Seminoma clásico
+T5	ENFERMEDAD 1244 1278	carcinoma embrionario de testículo
+T6	ENFERMEDAD 3147 3160	hidronefrosis
+T7	ENFERMEDAD 856 893	adenopatías retrocavas y paraaórticas
+T8	ENFERMEDAD 2137 2191	Calcificación en vertiente anteroinferior de testículo
+T9	ENFERMEDAD 733 758	tumor testicular primario
+T10	ENFERMEDAD 1172 1205	epidídimo con implantes en cordón
+T11	ENFERMEDAD 2394 2421	tumor de células germinales
+T12	ENFERMEDAD 3449 3473	recidiva retroperitoneal
+T13	ENFERMEDAD 2329 2340	adenopatías
+T14	ENFERMEDAD 261 284	alergias medicamentosas
+T15	PROCEDIMIENTO 414 432	exploración física
+T16	PROCEDIMIENTO 1609 1627	exploración física
+T17	PROCEDIMIENTO 1047 1076	orquiectomia inguinal derecha
+T18	PROCEDIMIENTO 2938 2968	Tomografía Axial Computerizada
+T19	PROCEDIMIENTO 2436 2479	orquiectomía radical izquierda vía inguinal
+T20	PROCEDIMIENTO 286 317	Herniorrafia inguinal bilateral
+T21	PROCEDIMIENTO 3504 3517	quimioterapia
+T22	PROCEDIMIENTO 608 628	Ecografía testicular
+T23	PROCEDIMIENTO 1913 1933	Radiografía de tórax
+T24	PROCEDIMIENTO 1962 1982	Ecografía testicular
+T25	PROCEDIMIENTO 3177 3198	analíticas sanguíneas
+T26	PROCEDIMIENTO 784 814	Tomografía axial computerizada
+T27	PROCEDIMIENTO 3211 3220	hemograma
+T28	PROCEDIMIENTO 816 819	TAC
+T29	PROCEDIMIENTO 1378 1450	quimioterapia según el esquema BEP (bleom<icina, etopósido y cisplatino)
+T30	PROCEDIMIENTO 2193 2247	Tomografía Axial Computerizada toraco-abdomino-pélvico
+T31	PROCEDIMIENTO 1092 1111	Anatomía Patológica
+T32	PROCEDIMIENTO 2507 2526	Anatomía Patológica
+T33	PROCEDIMIENTO 162 180	estudio ecográfico
+T34	PROCEDIMIENTO 3235 3245	hemostasia
+T35	PROCEDIMIENTO 3222 3232	bioquímica
+T36	PROCEDIMIENTO 2750 2771	tratamiento adyuvante
+T37	PROCEDIMIENTO 2074 2087	doppler color
 T38	PROCEDIMIENTO 1409 1412	BEP
-T39	PROCEDIMIENTO 1609 1627	exploración física
-T40	PROCEDIMIENTO 162 180	estudio ecográfico
-T41	PROCEDIMIENTO 1913 1933	Radiografía de tórax
-T42	PROCEDIMIENTO 1962 1982	Ecografía testicular
-T43	PROCEDIMIENTO 2074 2087	doppler color
-T44	PROCEDIMIENTO 2193 2247	Tomografía Axial Computerizada toraco-abdomino-pélvico
-T45	PROCEDIMIENTO 2436 2479	orquiectomía radical izquierda vía inguinal
-T46	PROCEDIMIENTO 2507 2526	Anatomía Patológica
-T47	PROCEDIMIENTO 2750 2771	tratamiento adyuvante
-T48	PROCEDIMIENTO 286 317	Herniorrafia inguinal bilateral
-T49	PROCEDIMIENTO 2938 2968	Tomografía Axial Computerizada
-T50	PROCEDIMIENTO 3177 3198	analíticas sanguíneas
-T51	PROCEDIMIENTO 3211 3220	hemograma
-T52	PROCEDIMIENTO 3222 3232	bioquímica
-T53	PROCEDIMIENTO 3235 3245	hemostasia
-T54	PROCEDIMIENTO 3504 3517	quimioterapia
-T55	PROCEDIMIENTO 414 432	exploración física
-T56	PROCEDIMIENTO 608 628	Ecografía testicular
-T57	PROCEDIMIENTO 784 814	Tomografía axial computerizada
-T58	PROCEDIMIENTO 816 819	TAC
+T39	SINTOMA 1640 1649	monorquio
+T40	SINTOMA 454 512	testículo derecho con tumoración indolora en polo superior
+T41	SINTOMA 1661 1720	tumoración indurada a nivel del polo inferior del epidídimo
+T42	SINTOMA 1560 1592	tumoración dolorosa en testículo
+T43	SINTOMA 181 204	tumoración en testículo
+T44	SINTOMA 1984 2005	Tumoración testicular
+T45	SINTOMA 1287 1293	T3N2M0
+T46	SINTOMA 822 843	tumoración testicular
+T47	SINTOMA 3358 3429	alfafetoproteína y beta-gonadotropina coriónica dentro de la normalidad
+T48	SINTOMA 641 664	tumoración en testículo
+T49	SINTOMA 760 782	Teste izquierdo normal
+T50	SINTOMA 1913 1960	Radiografía de tórax: Sin hallazgos patológicos
+T51	SINTOMA 2249 2281	Hígado, bazo y páncreas normales
+T52	SINTOMA 2283 2324	Riñones de morfología y densidad normales
+T53	SINTOMA 327 337	tumoración
+T54	SINTOMA 1332 1348	elevación de LDH
+T55	SINTOMA 442 463	aumento del testículo
+T56	SINTOMA 2137 2191	Calcificación en vertiente anteroinferior de testículo
+T57	SINTOMA 3593 3612	libre de enfermedad
+T58	SINTOMA 80 97	fiebre vespertina

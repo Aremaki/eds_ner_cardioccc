@@ -1,47 +1,48 @@
-T1	SINTOMA 1324 1361	anticuerpos anti-VIH fueron positivos
-T2	SINTOMA 2332 2390	cuantificación de ferritina sérica resultó ser muy elevada
-T3	SINTOMA 1982 2030	elevación en la excreción de porfirinas en orina
-T4	SINTOMA 564 592	eritema y descamación facial
-T5	SINTOMA 618 634	fotosensibilidad
-T6	SINTOMA 933 944	mal nutrido
-T7	SINTOMA 1009 1045	murmullo vesicular estaba conservado
-T8	SINTOMA 2410 2483	mutaciones C282Y y H63D del gen de la hemocromatosis resultaron negativas
-T9	SINTOMA 853 879	perdido unos 20 kg de peso
-T10	SINTOMA 2115 2172	serologías a virus B y C de la hepatitis fueron negativas
-T11	SINTOMA 1499 1551	tinción de Ziehl Neelsen del esputo resultó negativa
-T12	SINTOMA 2226 2258	valores normales de transferrina
-T13	SINTOMA 694 717	dificultad respiratoria
-T14	SINTOMA 748 765	tos no productiva
-T15	SINTOMA 66 83	disnea progresiva
-T16	SINTOMA 778 784	fiebre
-T17	SINTOMA 1289 1318	patrón intersticial bilateral
-T18	SINTOMA 1816 1822	disnea
-T19	SINTOMA 1057 1089	signos de insuficiencia cardiaca
-T20	SINTOMA 960 968	eupneico
-T21	ENFERMEDAD 163 170	fumador
-T22	ENFERMEDAD 209 216	bebedor
-T23	ENFERMEDAD 329 348	enfermedad hepática
-T24	ENFERMEDAD 1067 1089	insuficiencia cardiaca
-T25	ENFERMEDAD 2526 2543	infección por VIH
-T26	ENFERMEDAD 2548 2577	neumonía intersticial por PNJ
-T27	ENFERMEDAD 444 452	porfiria
-T28	ENFERMEDAD 2581 2584	PCT
-T29	ENFERMEDAD 1204 1217	hipertricosis
-T30	ENFERMEDAD 1234 1251	lesiones cutáneas
-T31	ENFERMEDAD 1772 1801	neumonía intersticial por PNJ
-T32	ENFERMEDAD 1946 1965	eritrodermia facial
-T33	ENFERMEDAD 2104 2107	PCT
-T34	ENFERMEDAD 2146 2155	hepatitis
-T35	ENFERMEDAD 933 944	mal nutrido
-T36	ENFERMEDAD 1108 1174	hiperpigmentación llamativa en la frente, regiones malares y nariz
-T37	PROCEDIMIENTO 1256 1276	radiografía de tórax
-T38	PROCEDIMIENTO 1499 1534	tinción de Ziehl Neelsen del esputo
-T39	PROCEDIMIENTO 1597 1665	inmunofluorescencia directa en esputo frente a pneumocystis jiroveci
-T40	PROCEDIMIENTO 1839 1850	radiológica
-T41	PROCEDIMIENTO 1876 1925	determinación de porfirinas fraccionadas en orina
-T42	PROCEDIMIENTO 2011 2042	porfirinas en orina de 24 horas
-T43	PROCEDIMIENTO 2115 2155	serologías a virus B y C de la hepatitis
-T44	PROCEDIMIENTO 2177 2211	estudio del metabolismo del hierro
-T45	PROCEDIMIENTO 2664 2680	protección solar
-T46	PROCEDIMIENTO 661 687	cremas de protección solar
-T47	PROCEDIMIENTO 973 1004	aporte de oxígeno suplementario
+T1	ENFERMEDAD 163 170	fumador
+T2	ENFERMEDAD 209 216	bebedor
+T3	ENFERMEDAD 329 348	enfermedad hepática
+T4	ENFERMEDAD 1067 1089	insuficiencia cardiaca
+T5	ENFERMEDAD 2526 2543	infección por VIH
+T6	ENFERMEDAD 2548 2577	neumonía intersticial por PNJ
+T7	ENFERMEDAD 444 452	porfiria
+T8	ENFERMEDAD 2581 2584	PCT
+T9	ENFERMEDAD 1204 1217	hipertricosis
+T10	ENFERMEDAD 1234 1251	lesiones cutáneas
+T11	ENFERMEDAD 1772 1801	neumonía intersticial por PNJ
+T12	ENFERMEDAD 1946 1965	eritrodermia facial
+T13	ENFERMEDAD 2104 2107	PCT
+T14	ENFERMEDAD 2146 2155	hepatitis
+T15	ENFERMEDAD 933 944	mal nutrido
+T16	ENFERMEDAD 1108 1174	hiperpigmentación llamativa en la frente, regiones malares y nariz
+T17	PROCEDIMIENTO 2115 2155	serologías a virus B y C de la hepatitis
+T18	PROCEDIMIENTO 2177 2211	estudio del metabolismo del hierro
+T19	PROCEDIMIENTO 661 687	cremas de protección solar
+T20	PROCEDIMIENTO 2664 2680	protección solar
+T21	PROCEDIMIENTO 1256 1276	radiografía de tórax
+T22	PROCEDIMIENTO 1499 1534	tinción de Ziehl Neelsen del esputo
+T23	PROCEDIMIENTO 1597 1665	inmunofluorescencia directa en esputo frente a pneumocystis jiroveci
+T24	PROCEDIMIENTO 1876 1925	determinación de porfirinas fraccionadas en orina
+T25	PROCEDIMIENTO 2011 2042	porfirinas en orina de 24 horas
+T26	PROCEDIMIENTO 973 1004	aporte de oxígeno suplementario
+T27	PROCEDIMIENTO 1839 1850	radiológica
+T28	SINTOMA 694 717	dificultad respiratoria
+T29	SINTOMA 748 765	tos no productiva
+T30	SINTOMA 66 83	disnea progresiva
+T31	SINTOMA 564 592	eritema y descamación facial
+T32	SINTOMA 778 784	fiebre
+T33	SINTOMA 618 634	fotosensibilidad
+T34	SINTOMA 2273 2327	elevados de su índice de saturación y de hierro sérico
+T35	SINTOMA 853 879	perdido unos 20 kg de peso
+T36	SINTOMA 933 944	mal nutrido
+T37	SINTOMA 1289 1318	patrón intersticial bilateral
+T38	SINTOMA 1816 1822	disnea
+T39	SINTOMA 1982 2030	elevación en la excreción de porfirinas en orina
+T40	SINTOMA 1009 1045	murmullo vesicular estaba conservado
+T41	SINTOMA 1057 1089	signos de insuficiencia cardiaca
+T42	SINTOMA 1499 1551	tinción de Ziehl Neelsen del esputo resultó negativa
+T43	SINTOMA 2115 2172	serologías a virus B y C de la hepatitis fueron negativas
+T44	SINTOMA 2226 2258	valores normales de transferrina
+T45	SINTOMA 2410 2483	mutaciones C282Y y H63D del gen de la hemocromatosis resultaron negativas
+T46	SINTOMA 1324 1361	anticuerpos anti-VIH fueron positivos
+T47	SINTOMA 2332 2390	cuantificación de ferritina sérica resultó ser muy elevada
+T48	SINTOMA 960 968	eupneico

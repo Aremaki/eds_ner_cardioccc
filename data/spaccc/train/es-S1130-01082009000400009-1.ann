@@ -1,38 +1,57 @@
-T1	SINTOMA 1279 1288	agitación
-T2	SINTOMA 2809 2815	anuria
-T3	SINTOMA 1263 1277	desorientación
-T4	SINTOMA 184 191	diarrea
-T5	SINTOMA 2751 2787	disminución del nivel de consciencia
-T6	SINTOMA 2789 2806	disnea progresiva
-T7	SINTOMA 951 988	elevación de reactantes de fase aguda
-T8	SINTOMA 2817 2828	falleciendo
-T9	SINTOMA 559 565	febril
-T10	SINTOMA 2743 2749	fiebre
-T11	SINTOMA 154 160	fiebre
-T12	SINTOMA 575 584	hipotenso
-T13	SINTOMA 531 549	mal estado general
-T14	SINTOMA 2086 2106	masa retroperitoneal
-T15	SINTOMA 602 614	taquicárdico
-T16	SINTOMA 627 638	taquipneico
-T17	SINTOMA 1335 1381	alteraciones metabólicas e hidroelectrolíticas
-T18	SINTOMA 1897 1929	descenso de los niveles de urato
-T19	SINTOMA 1291 1320	deterioro de su función renal
-T20	SINTOMA 1593 1636	ecografia Doppler renal que resultó anodina
-T21	SINTOMA 652 701	fosa iliaca derecha se le palpaba un "efecto masa
-T22	SINTOMA 162 181	supuración perianal
-T23	ENFERMEDAD 35 86	enfermedad de Crohn con afectación ileal y perianal
-T24	ENFERMEDAD 749 777	orificio fistuloso en glúteo
-T25	ENFERMEDAD 2949 3127	plasmocitoma plasmoblástico con predominio de cadenas ligeras tipo lamda que infiltraba íleon terminal y ciego, raíz del mesenterio, ganglios linfáticos abdominales y médula ósea
-T26	ENFERMEDAD 876 882	anemia
-T27	ENFERMEDAD 908 927	insuficiencia renal
-T28	ENFERMEDAD 1053 1059	sepsis
-T29	ENFERMEDAD 1062 1096	insuficiencia renal multifactorial
-T30	ENFERMEDAD 1111 1125	deshidratación
-T31	ENFERMEDAD 1657 1670	fracaso renal
-T32	ENFERMEDAD 2273 2282	neoplasia
-T33	ENFERMEDAD 2327 2382	adenopatías en cadena mesentérica, iliacas e inguinales
-T34	ENFERMEDAD 2397 2415	lesión perirrectal
-T35	ENFERMEDAD 2468 2475	absceso
-T36	ENFERMEDAD 2478 2494	fístula perianal
-T37	ENFERMEDAD 2650 2669	enfermedad perianal
-T38	ENFERMEDAD 575 584	hipotenso
+T1	ENFERMEDAD 35 86	enfermedad de Crohn con afectación ileal y perianal
+T2	ENFERMEDAD 749 777	orificio fistuloso en glúteo
+T3	ENFERMEDAD 2949 3127	plasmocitoma plasmoblástico con predominio de cadenas ligeras tipo lamda que infiltraba íleon terminal y ciego, raíz del mesenterio, ganglios linfáticos abdominales y médula ósea
+T4	ENFERMEDAD 876 882	anemia
+T5	ENFERMEDAD 908 927	insuficiencia renal
+T6	ENFERMEDAD 1053 1059	sepsis
+T7	ENFERMEDAD 1062 1096	insuficiencia renal multifactorial
+T8	ENFERMEDAD 1111 1125	deshidratación
+T9	ENFERMEDAD 1657 1670	fracaso renal
+T10	ENFERMEDAD 2273 2282	neoplasia
+T11	ENFERMEDAD 2327 2382	adenopatías en cadena mesentérica, iliacas e inguinales
+T12	ENFERMEDAD 2397 2415	lesión perirrectal
+T13	ENFERMEDAD 2468 2475	absceso
+T14	ENFERMEDAD 2478 2494	fístula perianal
+T15	ENFERMEDAD 2650 2669	enfermedad perianal
+T16	ENFERMEDAD 575 584	hipotenso
+T17	PROCEDIMIENTO 483 501	exploración física
+T18	PROCEDIMIENTO 99 125	tratamiento inmunosupresor
+T19	PROCEDIMIENTO 2938 2947	necropsia
+T20	PROCEDIMIENTO 383 404	tratamiento biológico
+T21	PROCEDIMIENTO 1159 1171	sueroterapia
+T22	PROCEDIMIENTO 1174 1207	antibioterapia de amplio espectro
+T23	PROCEDIMIENTO 1593 1616	ecografia Doppler renal
+T24	PROCEDIMIENTO 1800 1816	hiperhidratación
+T25	PROCEDIMIENTO 1818 1844	alcalinización de la orina
+T26	PROCEDIMIENTO 1846 1858	hemodiálisis
+T27	PROCEDIMIENTO 2049 2068	TAC abdominopélvico
+T28	PROCEDIMIENTO 2605 2632	resonancia abdomino-pélvica
+T29	PROCEDIMIENTO 964 988	reactantes de fase aguda
+T30	PROCEDIMIENTO 849 858	analítica
+T31	PROCEDIMIENTO 2528 2548	hallazgo radiológico
+T32	PROCEDIMIENTO 250 261	salicilatos
+T33	PROCEDIMIENTO 1098 1109	salicilatos
+T34	PROCEDIMIENTO 2817 2828	falleciendo
+T35	SINTOMA 531 549	mal estado general
+T36	SINTOMA 2743 2749	fiebre
+T37	SINTOMA 2751 2787	disminución del nivel de consciencia
+T38	SINTOMA 559 565	febril
+T39	SINTOMA 575 584	hipotenso
+T40	SINTOMA 2789 2806	disnea progresiva
+T41	SINTOMA 602 614	taquicárdico
+T42	SINTOMA 627 638	taquipneico
+T43	SINTOMA 154 160	fiebre
+T44	SINTOMA 162 181	supuración perianal
+T45	SINTOMA 652 701	fosa iliaca derecha se le palpaba un "efecto masa
+T46	SINTOMA 184 191	diarrea
+T47	SINTOMA 951 988	elevación de reactantes de fase aguda
+T48	SINTOMA 1263 1277	desorientación
+T49	SINTOMA 1279 1288	agitación
+T50	SINTOMA 1291 1320	deterioro de su función renal
+T51	SINTOMA 1335 1381	alteraciones metabólicas e hidroelectrolíticas
+T52	SINTOMA 2086 2106	masa retroperitoneal
+T53	SINTOMA 2809 2815	anuria
+T54	SINTOMA 1593 1636	ecografia Doppler renal que resultó anodina
+T55	SINTOMA 1897 1929	descenso de los niveles de urato
+T56	SINTOMA 2201 2247	conglomerado de asas fijas con pared engrosada
+T57	SINTOMA 2817 2828	falleciendo

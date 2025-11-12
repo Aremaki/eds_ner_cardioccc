@@ -1,12 +1,17 @@
-T1	SINTOMA 609 646	alteraciones neurovasculares distales
-T2	SINTOMA 344 363	buen estado general
-T3	SINTOMA 540 557	inflamación local
-T4	SINTOMA 571 591	dolor a la palpación
-T5	SINTOMA 379 391	asintomático
-T6	SINTOMA 650 670	impotencia funcional
-T7	SINTOMA 1122 1126	masa
-T8	ENFERMEDAD 779 802	lesión de carácter óseo
-T9	ENFERMEDAD 145 174	lesión en la pierna izquierda
-T10	ENFERMEDAD 1080 1093	osteocondroma
-T11	ENFERMEDAD 260 271	traumatismo
-T12	ENFERMEDAD 559 567	hematoma
+T1	ENFERMEDAD 779 802	lesión de carácter óseo
+T2	ENFERMEDAD 145 174	lesión en la pierna izquierda
+T3	ENFERMEDAD 1080 1093	osteocondroma
+T4	ENFERMEDAD 260 271	traumatismo
+T5	ENFERMEDAD 559 567	hematoma
+T6	PROCEDIMIENTO 689 720	radiografía simple de la pierna
+T7	PROCEDIMIENTO 850 899	radiografía anteroposterior y lateral del tobillo
+T8	PROCEDIMIENTO 1267 1283	prueba de imagen
+T9	PROCEDIMIENTO 582 591	palpación
+T10	SINTOMA 344 363	buen estado general
+T11	SINTOMA 540 557	inflamación local
+T12	SINTOMA 571 591	dolor a la palpación
+T13	SINTOMA 609 646	alteraciones neurovasculares distales
+T14	SINTOMA 379 391	asintomático
+T15	SINTOMA 650 670	impotencia funcional
+T16	SINTOMA 1122 1126	masa
+T17	SINTOMA 911 923	relieve óseo

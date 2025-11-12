@@ -1,15 +1,24 @@
-T1	SINTOMA 117 142	Cariotipo femenino normal
-T2	SINTOMA 595 635	cociente de desarrollo psicomotor normal
-T3	SINTOMA 656 712	fondo de ojo muestra una apariencia prácticamente normal
-T4	SINTOMA 960 984	lagunas coriorretinianas
-T5	SINTOMA 726 822	ojo derecho, con una papila óptica normal, dos pequeñas lagunas coriorretinianas hipopigmentadas
-T6	SINTOMA 502 557	registros electroencefalográficos (EEG) fueron normales
-T7	ENFERMEDAD 209 236	agenesia del cuerpo calloso
-T8	ENFERMEDAD 239 277	riñón derecho displásico multiquístico
-T9	ENFERMEDAD 322 348	quiste de plexos coroideos
-T10	ENFERMEDAD 354 399	quiste en la región interhemisférica profunda
-T11	ENFERMEDAD 914 957	malformación colobomatosa del nervio óptico
-T12	ENFERMEDAD 960 984	lagunas coriorretinianas
-T13	ENFERMEDAD 462 496	anomalías de la migración neuronal
-T14	ENFERMEDAD 837 855	afectación macular
-T15	ENFERMEDAD 1005 1023	afectación macular
+T1	ENFERMEDAD 209 236	agenesia del cuerpo calloso
+T2	ENFERMEDAD 239 277	riñón derecho displásico multiquístico
+T3	ENFERMEDAD 322 348	quiste de plexos coroideos
+T4	ENFERMEDAD 354 399	quiste en la región interhemisférica profunda
+T5	ENFERMEDAD 914 957	malformación colobomatosa del nervio óptico
+T6	ENFERMEDAD 960 984	lagunas coriorretinianas
+T7	ENFERMEDAD 462 496	anomalías de la migración neuronal
+T8	ENFERMEDAD 837 855	afectación macular
+T9	ENFERMEDAD 1005 1023	afectación macular
+T10	PROCEDIMIENTO 169 187	ecografía prenatal
+T11	PROCEDIMIENTO 103 108	parto
+T12	PROCEDIMIENTO 887 909	fondo de ojo izquierdo
+T13	PROCEDIMIENTO 417 445	resonancia magnética nuclear
+T14	PROCEDIMIENTO 502 535	registros electroencefalográficos
+T15	PROCEDIMIENTO 537 540	EEG
+T16	PROCEDIMIENTO 563 582	estudios cognitivos
+T17	PROCEDIMIENTO 640 668	exploración del fondo de ojo
+T18	PROCEDIMIENTO 717 737	fondo de ojo derecho
+T19	SINTOMA 502 557	registros electroencefalográficos (EEG) fueron normales
+T20	SINTOMA 117 142	Cariotipo femenino normal
+T21	SINTOMA 595 635	cociente de desarrollo psicomotor normal
+T22	SINTOMA 656 712	fondo de ojo muestra una apariencia prácticamente normal
+T23	SINTOMA 726 822	ojo derecho, con una papila óptica normal, dos pequeñas lagunas coriorretinianas hipopigmentadas
+T24	SINTOMA 960 984	lagunas coriorretinianas

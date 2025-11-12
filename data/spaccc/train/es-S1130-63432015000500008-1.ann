@@ -1,6 +1,10 @@
-T1	SINTOMA 251 273	serología positiva VJC
-T2	SINTOMA 1034 1044	linfopenia
-T3	ENFERMEDAD 36 40	EMRR
-T4	ENFERMEDAD 251 273	serología positiva VJC
-T5	ENFERMEDAD 565 590	lesiones desmielinizantes
-T6	ENFERMEDAD 790 826	lesiones en ambos centros semiovales
+T1	ENFERMEDAD 36 40	EMRR
+T2	ENFERMEDAD 251 273	serología positiva VJC
+T3	ENFERMEDAD 565 590	lesiones desmielinizantes
+T4	ENFERMEDAD 790 826	lesiones en ambos centros semiovales
+T5	PROCEDIMIENTO 517 546	Resonancia Magnética Cerebral
+T6	PROCEDIMIENTO 548 551	RMC
+T7	PROCEDIMIENTO 453 464	radiológica
+T8	PROCEDIMIENTO 666 682	radiológicamente
+T9	SINTOMA 251 273	serología positiva VJC
+T10	SINTOMA 1034 1044	linfopenia

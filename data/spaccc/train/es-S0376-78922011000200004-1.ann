@@ -1,13 +1,41 @@
-T1	SINTOMA 1187 1232	cultivo dieron positivo para Escherichia Coli
-T2	SINTOMA 300 332	empeoramiento del estado general
-T3	SINTOMA 292 298	fiebre
-T4	ENFERMEDAD 591 610	fascitis necrosante
-T5	ENFERMEDAD 1417 1426	infección
-T6	ENFERMEDAD 53 80	insuficiencia renal crónica
-T7	ENFERMEDAD 421 430	flictenas
-T8	ENFERMEDAD 1838 1846	hematoma
-T9	ENFERMEDAD 1849 1858	infección
-T10	ENFERMEDAD 433 449	necrosis cutánea
-T11	ENFERMEDAD 2712 2718	herida
-T12	ENFERMEDAD 335 366	lesiones eritematosas en flanco
-T13	ENFERMEDAD 508 516	lesiones
+T1	ENFERMEDAD 591 610	fascitis necrosante
+T2	ENFERMEDAD 1417 1426	infección
+T3	ENFERMEDAD 53 80	insuficiencia renal crónica
+T4	ENFERMEDAD 421 430	flictenas
+T5	ENFERMEDAD 1838 1846	hematoma
+T6	ENFERMEDAD 1849 1858	infección
+T7	ENFERMEDAD 433 449	necrosis cutánea
+T8	ENFERMEDAD 2712 2718	herida
+T9	ENFERMEDAD 335 366	lesiones eritematosas en flanco
+T10	ENFERMEDAD 508 516	lesiones
+T11	PROCEDIMIENTO 2482 2501	antibióticos vía IV
+T12	PROCEDIMIENTO 637 660	antibiótica intravenosa
+T13	PROCEDIMIENTO 2533 2549	inmunosupresores
+T14	PROCEDIMIENTO 1465 1479	desbridamiento
+T15	PROCEDIMIENTO 100 112	hemodiálisis
+T16	PROCEDIMIENTO 677 733	desbridamiento quirúrgico inmediato hasta plano muscular
+T17	PROCEDIMIENTO 2125 2222	curas oclusivas ambulatorias mediante tulgraso antibiótico y gasas impregnadas en povidona yodada
+T18	PROCEDIMIENTO 2580 2597	transplante renal
+T19	PROCEDIMIENTO 1499 1563	cobertura mediante injertos autólogos de piel de espesor parcial
+T20	PROCEDIMIENTO 2603 2628	desbridamiento quirúrgico
+T21	PROCEDIMIENTO 167 202	trasplante renal de donante cadáver
+T22	PROCEDIMIENTO 2637 2648	terapia VAC
+T23	PROCEDIMIENTO 1585 1630	terapia VAC® con apósito Granofoam a 125 mmHg
+T24	PROCEDIMIENTO 2750 2784	injertos autólogos de piel parcial
+T25	PROCEDIMIENTO 1728 1745	cura tras injerto
+T26	PROCEDIMIENTO 971 1025	tratamiento antibiótico intravenoso de amplio espectro
+T27	PROCEDIMIENTO 2913 2946	implantarle 2 expansores cutáneos
+T28	PROCEDIMIENTO 483 516	biopsia y cultivo de las lesiones
+T29	PROCEDIMIENTO 2963 3000	reconstrucción posterior más estética
+T30	PROCEDIMIENTO 1242 1256	desbridamiento
+T31	PROCEDIMIENTO 1284 1327	terapia de presión negativa con sistema VAC
+T32	PROCEDIMIENTO 493 516	cultivo de las lesiones
+T33	PROCEDIMIENTO 1893 1916	tratamiento antibiótico
+T34	PROCEDIMIENTO 211 237	tratamiento inmunosupresor
+T35	PROCEDIMIENTO 849 875	tratamiento inmunosupresor
+T36	PROCEDIMIENTO 1935 1961	tratamiento inmunosupresor
+T37	PROCEDIMIENTO 1187 1194	cultivo
+T38	PROCEDIMIENTO 2335 2346	postinjerto
+T39	SINTOMA 292 298	fiebre
+T40	SINTOMA 1187 1232	cultivo dieron positivo para Escherichia Coli
+T41	SINTOMA 300 332	empeoramiento del estado general

@@ -1,22 +1,33 @@
-T1	SINTOMA 517 541	biomicroscopía es normal
-T2	SINTOMA 53 86	disminución de agudeza visual (AV
-T3	SINTOMA 1436 1446	hemorragia
-T4	SINTOMA 577 600	hemorragia subretiniana
-T5	SINTOMA 1606 1629	hemorragia subretiniana
-T6	SINTOMA 1953 1963	hemovítreo
-T7	SINTOMA 755 800	localización subretiniana de esta hemorragia,
-T8	SINTOMA 1464 1491	sangre en el ámbito macular
-T9	SINTOMA 815 879	zona hiperfluorescente yuxtafoveolar inferior en tiempos tardíos
-T10	ENFERMEDAD 174 186	hipertensión
-T11	ENFERMEDAD 189 199	dislipemia
-T12	ENFERMEDAD 1606 1629	hemorragia subretiniana
-T13	ENFERMEDAD 768 799	subretiniana de esta hemorragia
-T14	ENFERMEDAD 216 234	bronquitis crónica
-T15	ENFERMEDAD 240 271	accidente isquémico transitorio
-T16	ENFERMEDAD 1464 1491	sangre en el ámbito macular
-T17	ENFERMEDAD 1953 1963	hemovítreo
-T18	ENFERMEDAD 1716 1732	DMAE hemorrágica
-T19	ENFERMEDAD 911 931	membrana neovascular
-T20	ENFERMEDAD 933 936	MNV
-T21	ENFERMEDAD 577 600	hemorragia subretiniana
-T22	ENFERMEDAD 439 463	defecto pupilar aferente
+T1	ENFERMEDAD 174 186	hipertensión
+T2	ENFERMEDAD 189 199	dislipemia
+T3	ENFERMEDAD 1606 1629	hemorragia subretiniana
+T4	ENFERMEDAD 768 799	subretiniana de esta hemorragia
+T5	ENFERMEDAD 216 234	bronquitis crónica
+T6	ENFERMEDAD 240 271	accidente isquémico transitorio
+T7	ENFERMEDAD 1464 1491	sangre en el ámbito macular
+T8	ENFERMEDAD 1953 1963	hemovítreo
+T9	ENFERMEDAD 1716 1732	DMAE hemorrágica
+T10	ENFERMEDAD 911 931	membrana neovascular
+T11	ENFERMEDAD 933 936	MNV
+T12	ENFERMEDAD 577 600	hemorragia subretiniana
+T13	ENFERMEDAD 439 463	defecto pupilar aferente
+T14	PROCEDIMIENTO 319 344	exploración oftalmológica
+T15	PROCEDIMIENTO 701 723	angiofluoresceingrafía
+T16	PROCEDIMIENTO 725 728	AFG
+T17	PROCEDIMIENTO 1579 1590	funduscopia
+T18	PROCEDIMIENTO 1402 1413	funduscopia
+T19	PROCEDIMIENTO 1914 1925	funduscopia
+T20	PROCEDIMIENTO 287 301	antiagregación
+T21	PROCEDIMIENTO 1123 1165	paracentesis evacuadora de cámara anterior
+T22	PROCEDIMIENTO 517 531	biomicroscopía
+T23	PROCEDIMIENTO 550 561	funduscopia
+T24	PROCEDIMIENTO 1060 1105	inyección de 0,3 ml de hexafluoruro de azufre
+T25	SINTOMA 53 86	disminución de agudeza visual (AV
+T26	SINTOMA 1436 1446	hemorragia
+T27	SINTOMA 517 541	biomicroscopía es normal
+T28	SINTOMA 577 600	hemorragia subretiniana
+T29	SINTOMA 755 800	localización subretiniana de esta hemorragia,
+T30	SINTOMA 815 879	zona hiperfluorescente yuxtafoveolar inferior en tiempos tardíos
+T31	SINTOMA 1464 1491	sangre en el ámbito macular
+T32	SINTOMA 1606 1629	hemorragia subretiniana
+T33	SINTOMA 1953 1963	hemovítreo

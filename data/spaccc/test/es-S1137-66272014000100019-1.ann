@@ -1,21 +1,23 @@
-T1	SINTOMA 26 39	estreñimiento
-T2	SINTOMA 1053 1063	tumoración
-T3	SINTOMA 336 340	masa
-T4	SINTOMA 748 767	mayor señal en STIR
-T5	SINTOMA 191 281	protrusión redondeada, blanda, y no dolorosa en la cara lateral derecha de la pared rectal
-T6	ENFERMEDAD 507 522	lesión quística
-T7	ENFERMEDAD 866 884	anomalía congénita
-T8	ENFERMEDAD 999 1030	hamartoma quístico retrorrectal
-T9	ENFERMEDAD 1053 1083	tumoración de aspecto quístico
-T10	ENFERMEDAD 1433 1448	lesión quística
-T11	ENFERMEDAD 1676 1679	HQR
-T12	ENFERMEDAD 1032 1035	HQR
-T13	PROCEDIMIENTO 1038 1063	Se extirpa una tumoración
-T14	PROCEDIMIENTO 1246 1265	Anatomía Patológica
-T15	PROCEDIMIENTO 138 150	tacto rectal
-T16	PROCEDIMIENTO 1399 1416	Microscópicamente
-T17	PROCEDIMIENTO 299 318	ecografía abdominal
-T18	PROCEDIMIENTO 473 491	RM de pelvis menor
-T19	PROCEDIMIENTO 537 546	ecografía
-T20	PROCEDIMIENTO 94 112	exploración física
-T21	PROCEDIMIENTO 946 968	tratamiento quirúrgico
+T1	ENFERMEDAD 507 522	lesión quística
+T2	ENFERMEDAD 866 884	anomalía congénita
+T3	ENFERMEDAD 999 1030	hamartoma quístico retrorrectal
+T4	ENFERMEDAD 1053 1083	tumoración de aspecto quístico
+T5	ENFERMEDAD 1433 1448	lesión quística
+T6	ENFERMEDAD 1676 1679	HQR
+T7	ENFERMEDAD 1032 1035	HQR
+T8	PROCEDIMIENTO 94 112	exploración física
+T9	PROCEDIMIENTO 138 150	tacto rectal
+T10	PROCEDIMIENTO 299 318	ecografía abdominal
+T11	PROCEDIMIENTO 473 491	RM de pelvis menor
+T12	PROCEDIMIENTO 537 546	ecografía
+T13	PROCEDIMIENTO 1246 1265	Anatomía Patológica
+T14	PROCEDIMIENTO 1399 1416	Microscópicamente
+T15	PROCEDIMIENTO 1038 1063	Se extirpa una tumoración
+T16	PROCEDIMIENTO 946 968	tratamiento quirúrgico
+T17	SINTOMA 191 281	protrusión redondeada, blanda, y no dolorosa en la cara lateral derecha de la pared rectal
+T18	SINTOMA 26 39	estreñimiento
+T19	SINTOMA 572 592	formación redondeada
+T20	SINTOMA 1053 1063	tumoración
+T21	SINTOMA 336 340	masa
+T22	SINTOMA 720 737	hipointenso en T2
+T23	SINTOMA 748 767	mayor señal en STIR

@@ -1,23 +1,31 @@
-T1	SINTOMA 406 430	aceptable estado general
-T2	SINTOMA 199 207	anorexia
-T3	SINTOMA 189 196	astenia
-T4	SINTOMA 142 157	dolor abdominal
-T5	SINTOMA 1236 1247	falleciendo
-T6	SINTOMA 718 738	hipertransaminasemia
-T7	SINTOMA 619 640	irritación peritoneal
-T8	SINTOMA 132 139	vómitos
-T9	SINTOMA 340 347	vómitos
-T10	SINTOMA 663 681	defensa voluntaria
-T11	SINTOMA 462 518	dolor a la palpación en epigastrio e hipocondrio derecho
-T12	SINTOMA 499 556	hipocondrio derecho, palpándose una zona de empastamiento
-T13	SINTOMA 745 762	leve coagulopatía
+T1	ENFERMEDAD 1027 1052	infección crónica por VHB
+T2	ENFERMEDAD 1140 1143	HCC
+T3	ENFERMEDAD 1170 1187	infección por VHB
+T4	ENFERMEDAD 750 762	coagulopatía
+T5	ENFERMEDAD 968 976	lesiones
+T6	PROCEDIMIENTO 779 841	ecografía objetivándose la presencia de una gran masa hepática
+T7	PROCEDIMIENTO 917 920	RNM
+T8	PROCEDIMIENTO 373 391	exploración física
+T9	PROCEDIMIENTO 1201 1234	tratamiento sintomático paliativo
+T10	PROCEDIMIENTO 994 1012	serologías virales
+T11	PROCEDIMIENTO 686 695	analítica
+T12	PROCEDIMIENTO 473 518	palpación en epigastrio e hipocondrio derecho
+T13	PROCEDIMIENTO 486 530	epigastrio e hipocondrio derecho, palpándose
 T14	SINTOMA 828 841	masa hepática
-T15	SINTOMA 236 264	molestias difusas en abdomen
-T16	SINTOMA 933 957	naturaleza hipervascular
-T17	SINTOMA 895 912	nódulos satélites
-T18	SINTOMA 535 576	zona de empastamiento compatible con masa
-T19	ENFERMEDAD 1027 1052	infección crónica por VHB
-T20	ENFERMEDAD 1140 1143	HCC
-T21	ENFERMEDAD 1170 1187	infección por VHB
-T22	ENFERMEDAD 750 762	coagulopatía
-T23	ENFERMEDAD 968 976	lesiones
+T15	SINTOMA 132 139	vómitos
+T16	SINTOMA 142 157	dolor abdominal
+T17	SINTOMA 189 196	astenia
+T18	SINTOMA 199 207	anorexia
+T19	SINTOMA 236 264	molestias difusas en abdomen
+T20	SINTOMA 462 518	dolor a la palpación en epigastrio e hipocondrio derecho
+T21	SINTOMA 619 640	irritación peritoneal
+T22	SINTOMA 718 738	hipertransaminasemia
+T23	SINTOMA 406 430	aceptable estado general
+T24	SINTOMA 499 556	hipocondrio derecho, palpándose una zona de empastamiento
+T25	SINTOMA 1236 1247	falleciendo
+T26	SINTOMA 340 347	vómitos
+T27	SINTOMA 895 912	nódulos satélites
+T28	SINTOMA 535 576	zona de empastamiento compatible con masa
+T29	SINTOMA 663 681	defensa voluntaria
+T30	SINTOMA 745 762	leve coagulopatía
+T31	SINTOMA 933 957	naturaleza hipervascular

@@ -1,58 +1,58 @@
-T1	SINTOMA 738 753	pérdida de peso
-T2	SINTOMA 1157 1167	odinofagia
-T3	SINTOMA 1937 1943	fiebre
-T4	SINTOMA 3365 3371	fiebre
-T5	SINTOMA 3352 3363	neutropenia
-T6	SINTOMA 4383 4411	deterioro del estado general
-T7	SINTOMA 4416 4423	vómitos
-T8	SINTOMA 4471 4481	postración
-T9	SINTOMA 1329 1337	dolorosa
-T10	SINTOMA 4426 4433	náuseas
-T11	SINTOMA 4557 4563	febril
-T12	SINTOMA 1713 1752	abdomen se presentaba blando e indoloro
-T13	SINTOMA 4448 4469	dolores generalizados
-T14	SINTOMA 2265 2302	en la zona incisal, una protuberancia
-T15	SINTOMA 3723 3752	estado general muy deficiente
-T16	SINTOMA 3849 3885	imágenes nodulares en hígado y riñón
-T17	SINTOMA 109 130	negativos para el VIH
-T18	SINTOMA 4544 4556	neutropénica
-T19	SINTOMA 794 842	nódulo no doloroso a nivel del incisivo superior
-T20	SINTOMA 4537 4542	obitó
-T21	SINTOMA 427 481	positiva para Hepatitis C y para Citomegalovirus (CMV)
-T22	SINTOMA 766 788	sudoraciones nocturnas
-T23	SINTOMA 2024 2040	tumoración bucal
-T24	SINTOMA 333 424	valores negativos para VDRL, Chagas, Toxoplasmosis, Antígeno de Superficie para Hepatitis B
-T25	SINTOMA 127 140	VIH. Positiva
-T26	ENFERMEDAD 441 452	Hepatitis C
-T27	ENFERMEDAD 1136 1152	candidiasis oral
-T28	ENFERMEDAD 1193 1251	lesiones en evolución: una a la altura del canino superior
-T29	ENFERMEDAD 3392 3424	lesión perianal por herpes virus
-T30	ENFERMEDAD 1460 1466	úlcera
-T31	ENFERMEDAD 2168 2174	úlcera
-T32	ENFERMEDAD 2570 2586	lesiones bucales
-T33	ENFERMEDAD 3373 3389	candidiasis oral
-T34	ENFERMEDAD 3923 3957	reactivación del herpes virus anal
-T35	ENFERMEDAD 4066 4142	linfoma No Hodgkin oro facial diagnosticado como de alto grado de malignidad
-T36	ENFERMEDAD 4483 4511	candidiasis oral y esofágica
-T37	ENFERMEDAD 4544 4563	neutropénica febril
-T38	ENFERMEDAD 370 383	Toxoplasmosis
-T39	ENFERMEDAD 362 368	Chagas
-T40	ENFERMEDAD 413 424	Hepatitis B
-T41	ENFERMEDAD 1568 1576	lesiones
-T42	ENFERMEDAD 3107 3152	Linfoma difuso histiocítico a células grandes
-T43	ENFERMEDAD 3906 3913	Linfoma
-T44	ENFERMEDAD 3034 3039	tumor
-T45	ENFERMEDAD 87 93	adicto
-T46	PROCEDIMIENTO 1763 1781	análisis de sangre
-T47	PROCEDIMIENTO 1959 1970	ECO doppler
-T48	PROCEDIMIENTO 1973 1982	angio TAC
-T49	PROCEDIMIENTO 2009 2040	biopsias de la tumoración bucal
-T50	PROCEDIMIENTO 2543 2562	informe histológico
-T51	PROCEDIMIENTO 2900 2930	tinción por inmunohistoquímica
-T52	PROCEDIMIENTO 3193 3274	ciclo de ERORH (prednisona+etopósido+ dexametasona+ ciclofosfamida + vincristina)
-T53	PROCEDIMIENTO 3455 3477	ciclo de quimioterapia
-T54	PROCEDIMIENTO 3640 3667	tratamiento antirretroviral
-T55	PROCEDIMIENTO 3669 3673	TARV
-T56	PROCEDIMIENTO 3811 3831	resonancia magnética
-T57	PROCEDIMIENTO 584 595	carga viral
-T58	PROCEDIMIENTO 637 664	tratamiento antirretroviral
+T1	ENFERMEDAD 441 452	Hepatitis C
+T2	ENFERMEDAD 1136 1152	candidiasis oral
+T3	ENFERMEDAD 1193 1251	lesiones en evolución: una a la altura del canino superior
+T4	ENFERMEDAD 3392 3424	lesión perianal por herpes virus
+T5	ENFERMEDAD 1460 1466	úlcera
+T6	ENFERMEDAD 2168 2174	úlcera
+T7	ENFERMEDAD 2570 2586	lesiones bucales
+T8	ENFERMEDAD 3373 3389	candidiasis oral
+T9	ENFERMEDAD 3923 3957	reactivación del herpes virus anal
+T10	ENFERMEDAD 4066 4142	linfoma No Hodgkin oro facial diagnosticado como de alto grado de malignidad
+T11	ENFERMEDAD 4483 4511	candidiasis oral y esofágica
+T12	ENFERMEDAD 4544 4563	neutropénica febril
+T13	ENFERMEDAD 370 383	Toxoplasmosis
+T14	ENFERMEDAD 362 368	Chagas
+T15	ENFERMEDAD 413 424	Hepatitis B
+T16	ENFERMEDAD 1568 1576	lesiones
+T17	ENFERMEDAD 3107 3152	Linfoma difuso histiocítico a células grandes
+T18	ENFERMEDAD 3906 3913	Linfoma
+T19	ENFERMEDAD 3034 3039	tumor
+T20	ENFERMEDAD 87 93	adicto
+T21	PROCEDIMIENTO 1763 1781	análisis de sangre
+T22	PROCEDIMIENTO 1959 1970	ECO doppler
+T23	PROCEDIMIENTO 1973 1982	angio TAC
+T24	PROCEDIMIENTO 2009 2040	biopsias de la tumoración bucal
+T25	PROCEDIMIENTO 3193 3274	ciclo de ERORH (prednisona+etopósido+ dexametasona+ ciclofosfamida + vincristina)
+T26	PROCEDIMIENTO 3455 3477	ciclo de quimioterapia
+T27	PROCEDIMIENTO 3640 3667	tratamiento antirretroviral
+T28	PROCEDIMIENTO 3811 3831	resonancia magnética
+T29	PROCEDIMIENTO 2900 2930	tinción por inmunohistoquímica
+T30	PROCEDIMIENTO 3669 3673	TARV
+T31	PROCEDIMIENTO 637 664	tratamiento antirretroviral
+T32	PROCEDIMIENTO 584 595	carga viral
+T33	PROCEDIMIENTO 2543 2562	informe histológico
+T34	SINTOMA 109 130	negativos para el VIH
+T35	SINTOMA 738 753	pérdida de peso
+T36	SINTOMA 766 788	sudoraciones nocturnas
+T37	SINTOMA 1157 1167	odinofagia
+T38	SINTOMA 1713 1752	abdomen se presentaba blando e indoloro
+T39	SINTOMA 1937 1943	fiebre
+T40	SINTOMA 2265 2302	en la zona incisal, una protuberancia
+T41	SINTOMA 3365 3371	fiebre
+T42	SINTOMA 3352 3363	neutropenia
+T43	SINTOMA 3849 3885	imágenes nodulares en hígado y riñón
+T44	SINTOMA 4383 4411	deterioro del estado general
+T45	SINTOMA 4416 4423	vómitos
+T46	SINTOMA 4448 4469	dolores generalizados
+T47	SINTOMA 4471 4481	postración
+T48	SINTOMA 1329 1337	dolorosa
+T49	SINTOMA 127 140	VIH. Positiva
+T50	SINTOMA 427 481	positiva para Hepatitis C y para Citomegalovirus (CMV)
+T51	SINTOMA 3723 3752	estado general muy deficiente
+T52	SINTOMA 2024 2040	tumoración bucal
+T53	SINTOMA 794 842	nódulo no doloroso a nivel del incisivo superior
+T54	SINTOMA 4426 4433	náuseas
+T55	SINTOMA 333 424	valores negativos para VDRL, Chagas, Toxoplasmosis, Antígeno de Superficie para Hepatitis B
+T56	SINTOMA 4537 4542	obitó
+T57	SINTOMA 4544 4556	neutropénica
+T58	SINTOMA 4557 4563	febril

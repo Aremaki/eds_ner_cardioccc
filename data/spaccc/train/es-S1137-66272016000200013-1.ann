@@ -1,65 +1,65 @@
-T1	SINTOMA 702 730	abdomen levemente distendido
-T2	SINTOMA 847 861	amilasa normal
-T3	SINTOMA 914 963	anticuerpos anticélulas parietales eran positivos
-T4	SINTOMA 3385 3406	daño del ducto biliar
-T5	SINTOMA 1648 1720	defectos de replección a nivel de colédoco distal y en el hepático común
-T6	SINTOMA 1606 1643	dilatación de la vía biliar principal
-T7	SINTOMA 608 649	dolor en hipocondrio derecho y epigastrio
-T8	SINTOMA 224 261	dolor epigástrico irradiado a espalda
-T9	SINTOMA 884 900	elevación de VSG
-T10	SINTOMA 2568 2624	estudio citológico, que fueron negativas para malignidad
-T11	SINTOMA 3416 3464	fibrosis concéntrica periductal sin células IgG4
-T12	SINTOMA 1006 1059	hemocultivos al ingreso, sin aislarse microorganismos
-T13	SINTOMA 969 993	IgG4 sérica era negativa
-T14	SINTOMA 2267 2313	irregularidad en el origen de la rama hepática
-T15	SINTOMA 810 841	leve elevación de transaminasas
-T16	SINTOMA 680 691	peritonismo
-T17	SINTOMA 758 770	leucocitosis
-T18	SINTOMA 788 807	hiperbilirrubinemia
-T19	SINTOMA 277 284	náuseas
-T20	SINTOMA 287 294	vómitos
-T21	SINTOMA 323 329	fiebre
-T22	SINTOMA 333 353	sensación distérmica
-T23	SINTOMA 2064 2071	afebril
-T24	SINTOMA 2038 2050	asintomática
-T25	SINTOMA 775 786	neutrofilia
-T26	ENFERMEDAD 3552 3566	sobreinfección
-T27	ENFERMEDAD 1161 1179	abscesos hepáticos
-T28	ENFERMEDAD 104 120	coledocolitiasis
-T29	ENFERMEDAD 1284 1319	lesiones en ambos lóbulos hepáticos
-T30	ENFERMEDAD 415 440	coledocolitiasis residual
-T31	ENFERMEDAD 1563 1581	abscesos hepáticos
-T32	ENFERMEDAD 2177 2195	lesiones hepáticas
-T33	ENFERMEDAD 2388 2404	coledocolitiasis
-T34	ENFERMEDAD 2459 2472	microcálculos
-T35	ENFERMEDAD 3186 3245	pseudotumor inflamatorio hepático de tipo linfoplasmocítico
-T36	ENFERMEDAD 3277 3318	enfermedad sistémica relacionada con IgG4
-T37	ENFERMEDAD 1117 1146	lesiones ocupantes de espacio
-T38	ENFERMEDAD 2772 2778	lesión
-T39	ENFERMEDAD 3365 3371	lesión
-T40	ENFERMEDAD 1606 1643	dilatación de la vía biliar principal
-T41	ENFERMEDAD 3385 3406	daño del ducto biliar
-T42	ENFERMEDAD 788 807	hiperbilirrubinemia
-T43	PROCEDIMIENTO 1006 1018	hemocultivos
-T44	PROCEDIMIENTO 1076 1085	ecografía
-T45	PROCEDIMIENTO 1238 1258	resonancia magnética
-T46	PROCEDIMIENTO 1493 1534	estudio dinámico con contraste endovenoso
-T47	PROCEDIMIENTO 1872 1911	drenaje percutáneo guiado por ecografía
-T48	PROCEDIMIENTO 1982 2016	tratamiento antibiótico endovenoso
-T49	PROCEDIMIENTO 2094 2114	resonancia magnética
-T50	PROCEDIMIENTO 2426 2430	CPRE
-T51	PROCEDIMIENTO 2426 2472	CPRE de la que se extrajeron dos microcálculos
-T52	PROCEDIMIENTO 2568 2586	estudio citológico
-T53	PROCEDIMIENTO 2662 2690	biopsia guiada por ecografía
-T54	PROCEDIMIENTO 2731 2750	estudio histológico
-T55	PROCEDIMIENTO 2910 2938	técnicas inmunohistoquímicas
-T56	PROCEDIMIENTO 3513 3536	tratamiento antibiótico
-T57	PROCEDIMIENTO 3606 3610	CPRE
-T58	PROCEDIMIENTO 3633 3655	tratamiento esteroideo
-T59	PROCEDIMIENTO 415 466	coledocolitiasis residual resuelta endoscópicamente
-T60	PROCEDIMIENTO 45 63	colecistectomizada
-T61	PROCEDIMIENTO 525 571	colangio pancreatografía retrógada endoscópica
-T62	PROCEDIMIENTO 573 577	CPRE
-T63	PROCEDIMIENTO 585 596	exploración
-T64	PROCEDIMIENTO 617 664	hipocondrio derecho y epigastrio a la palpación
-T65	PROCEDIMIENTO 91 156	episodios de coledocolitiasis residual resueltos endoscópicamente
+T1	ENFERMEDAD 3552 3566	sobreinfección
+T2	ENFERMEDAD 1161 1179	abscesos hepáticos
+T3	ENFERMEDAD 104 120	coledocolitiasis
+T4	ENFERMEDAD 1284 1319	lesiones en ambos lóbulos hepáticos
+T5	ENFERMEDAD 415 440	coledocolitiasis residual
+T6	ENFERMEDAD 1563 1581	abscesos hepáticos
+T7	ENFERMEDAD 2177 2195	lesiones hepáticas
+T8	ENFERMEDAD 2388 2404	coledocolitiasis
+T9	ENFERMEDAD 2459 2472	microcálculos
+T10	ENFERMEDAD 3186 3245	pseudotumor inflamatorio hepático de tipo linfoplasmocítico
+T11	ENFERMEDAD 3277 3318	enfermedad sistémica relacionada con IgG4
+T12	ENFERMEDAD 1117 1146	lesiones ocupantes de espacio
+T13	ENFERMEDAD 2772 2778	lesión
+T14	ENFERMEDAD 3365 3371	lesión
+T15	ENFERMEDAD 1606 1643	dilatación de la vía biliar principal
+T16	ENFERMEDAD 3385 3406	daño del ducto biliar
+T17	ENFERMEDAD 788 807	hiperbilirrubinemia
+T18	PROCEDIMIENTO 1076 1085	ecografía
+T19	PROCEDIMIENTO 617 664	hipocondrio derecho y epigastrio a la palpación
+T20	PROCEDIMIENTO 45 63	colecistectomizada
+T21	PROCEDIMIENTO 3606 3610	CPRE
+T22	PROCEDIMIENTO 3633 3655	tratamiento esteroideo
+T23	PROCEDIMIENTO 1238 1258	resonancia magnética
+T24	PROCEDIMIENTO 1006 1018	hemocultivos
+T25	PROCEDIMIENTO 1493 1534	estudio dinámico con contraste endovenoso
+T26	PROCEDIMIENTO 525 571	colangio pancreatografía retrógada endoscópica
+T27	PROCEDIMIENTO 573 577	CPRE
+T28	PROCEDIMIENTO 1872 1911	drenaje percutáneo guiado por ecografía
+T29	PROCEDIMIENTO 2094 2114	resonancia magnética
+T30	PROCEDIMIENTO 2426 2430	CPRE
+T31	PROCEDIMIENTO 2426 2472	CPRE de la que se extrajeron dos microcálculos
+T32	PROCEDIMIENTO 2568 2586	estudio citológico
+T33	PROCEDIMIENTO 2662 2690	biopsia guiada por ecografía
+T34	PROCEDIMIENTO 2731 2750	estudio histológico
+T35	PROCEDIMIENTO 2910 2938	técnicas inmunohistoquímicas
+T36	PROCEDIMIENTO 3513 3536	tratamiento antibiótico
+T37	PROCEDIMIENTO 1982 2016	tratamiento antibiótico endovenoso
+T38	PROCEDIMIENTO 585 596	exploración
+T39	PROCEDIMIENTO 91 156	episodios de coledocolitiasis residual resueltos endoscópicamente
+T40	PROCEDIMIENTO 415 466	coledocolitiasis residual resuelta endoscópicamente
+T41	SINTOMA 608 649	dolor en hipocondrio derecho y epigastrio
+T42	SINTOMA 680 691	peritonismo
+T43	SINTOMA 702 730	abdomen levemente distendido
+T44	SINTOMA 758 770	leucocitosis
+T45	SINTOMA 788 807	hiperbilirrubinemia
+T46	SINTOMA 224 261	dolor epigástrico irradiado a espalda
+T47	SINTOMA 277 284	náuseas
+T48	SINTOMA 287 294	vómitos
+T49	SINTOMA 323 329	fiebre
+T50	SINTOMA 333 353	sensación distérmica
+T51	SINTOMA 1606 1643	dilatación de la vía biliar principal
+T52	SINTOMA 1648 1720	defectos de replección a nivel de colédoco distal y en el hepático común
+T53	SINTOMA 2064 2071	afebril
+T54	SINTOMA 2267 2313	irregularidad en el origen de la rama hepática
+T55	SINTOMA 3385 3406	daño del ducto biliar
+T56	SINTOMA 3416 3464	fibrosis concéntrica periductal sin células IgG4
+T57	SINTOMA 884 900	elevación de VSG
+T58	SINTOMA 2038 2050	asintomática
+T59	SINTOMA 914 963	anticuerpos anticélulas parietales eran positivos
+T60	SINTOMA 847 861	amilasa normal
+T61	SINTOMA 969 993	IgG4 sérica era negativa
+T62	SINTOMA 1006 1059	hemocultivos al ingreso, sin aislarse microorganismos
+T63	SINTOMA 2568 2624	estudio citológico, que fueron negativas para malignidad
+T64	SINTOMA 810 841	leve elevación de transaminasas
+T65	SINTOMA 775 786	neutrofilia

@@ -1,21 +1,21 @@
-T1	SINTOMA 183 194	baja visión
-T2	SINTOMA 417 458	anillo perimacular de puntos blanquecinos
-T3	SINTOMA 74 98	baja agudeza visual (AV)
-T4	SINTOMA 667 714	hiperreflectividad en capas internas retinianas
-T5	ENFERMEDAD 18 28	hipertenso
-T6	ENFERMEDAD 34 59	hipoacusia neurosensorial
-T7	ENFERMEDAD 311 329	lenticono anterior
-T8	ENFERMEDAD 161 171	sordomudos
-T9	ENFERMEDAD 384 400	AM en ambos ojos
-T10	ENFERMEDAD 590 592	AM
-T11	ENFERMEDAD 828 830	SA
-T12	ENFERMEDAD 884 910	insuficiencia renal severa
-T13	ENFERMEDAD 950 952	AM
-T14	ENFERMEDAD 183 194	baja visión
-T15	PROCEDIMIENTO 106 124	anamnesis familiar
-T16	PROCEDIMIENTO 338 350	fondo de ojo
-T17	PROCEDIMIENTO 471 526	tomografía de coherencia óptica (OCT) con Stratus OCT-3
-T18	PROCEDIMIENTO 504 507	OCT
-T19	PROCEDIMIENTO 767 784	estudio sistémico
-T20	PROCEDIMIENTO 795 808	biopsia renal
-T21	PROCEDIMIENTO 867 879	hemodiálisis
+T1	ENFERMEDAD 18 28	hipertenso
+T2	ENFERMEDAD 34 59	hipoacusia neurosensorial
+T3	ENFERMEDAD 311 329	lenticono anterior
+T4	ENFERMEDAD 161 171	sordomudos
+T5	ENFERMEDAD 384 400	AM en ambos ojos
+T6	ENFERMEDAD 590 592	AM
+T7	ENFERMEDAD 828 830	SA
+T8	ENFERMEDAD 884 910	insuficiencia renal severa
+T9	ENFERMEDAD 950 952	AM
+T10	ENFERMEDAD 183 194	baja visión
+T11	PROCEDIMIENTO 338 350	fondo de ojo
+T12	PROCEDIMIENTO 471 526	tomografía de coherencia óptica (OCT) con Stratus OCT-3
+T13	PROCEDIMIENTO 504 507	OCT
+T14	PROCEDIMIENTO 795 808	biopsia renal
+T15	PROCEDIMIENTO 867 879	hemodiálisis
+T16	PROCEDIMIENTO 106 124	anamnesis familiar
+T17	PROCEDIMIENTO 767 784	estudio sistémico
+T18	SINTOMA 74 98	baja agudeza visual (AV)
+T19	SINTOMA 183 194	baja visión
+T20	SINTOMA 667 714	hiperreflectividad en capas internas retinianas
+T21	SINTOMA 417 458	anillo perimacular de puntos blanquecinos

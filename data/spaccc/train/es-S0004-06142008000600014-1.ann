@@ -1,45 +1,45 @@
-T1	SINTOMA 1971 2030	afectación de la albugínea, epidídimo ni cordón espermático
-T2	SINTOMA 323 352	afectación del estado general
-T3	SINTOMA 687 702	áreas quísticas
-T4	SINTOMA 2353 2365	asintomático
-T5	SINTOMA 127 160	dolor e inflamación del testículo
-T6	SINTOMA 445 482	epidídimo de características normales
-T7	SINTOMA 2403 2433	estudios radiológicos normales
-T8	SINTOMA 275 281	fiebre
-T9	SINTOMA 193 215	inflamación testicular
-T10	SINTOMA 957 967	LDH normal
-T11	SINTOMA 2216 2226	LDH normal
-T12	SINTOMA 2153 2173	marcadores negativos
-T13	SINTOMA 2371 2401	marcadores tumorales negativos
-T14	SINTOMA 855 913	marcadores tumorales presentaron una elevación de la α-FTP
-T15	SINTOMA 286 305	síntomas urológicos
-T16	SINTOMA 975 1042	TAC toraco-abdómino-pélvico no se encontraron hallazgos patológicos
-T17	SINTOMA 487 544	testículo derecho tenía un tamaño y consistencia normales
-T18	SINTOMA 383 436	testículo izquierdo indurado y discretamente doloroso
-T19	SINTOMA 1827 1837	tumoración
-T20	SINTOMA 1563 1573	tumoración
-T21	SINTOMA 2282 2313	tumoración testicular bilateral
-T22	SINTOMA 928 940	β-HCG normal
-T23	ENFERMEDAD 1888 1916	seminoma de variedad clásica
-T24	ENFERMEDAD 1636 1656	tumor germinal mixto
-T25	ENFERMEDAD 607 652	lesión nodular de gran tamaño en el testículo
-T26	ENFERMEDAD 1943 1965	neoplasia intratubular
-T27	ENFERMEDAD 743 782	lesiones nodulares sólidas en testículo
-T28	ENFERMEDAD 1695 1723	carcinoma embrionario adulto
-T29	ENFERMEDAD 1726 1734	teratoma
-T30	ENFERMEDAD 818 848	neoplasia testicular bilateral
-T31	PROCEDIMIENTO 1121 1145	criopreservación seminal
-T32	PROCEDIMIENTO 1174 1233	orquiectomía inguinal izquierda con ligadura alta de cordón
-T33	PROCEDIMIENTO 1237 1276	biopsia testicular derecha vía inguinal
-T34	PROCEDIMIENTO 1285 1316	clampaje del cordón espermático
-T35	PROCEDIMIENTO 1445 1452	cirugía
-T36	PROCEDIMIENTO 1462 1491	orquiectomía inguinal derecha
-T37	PROCEDIMIENTO 1496 1521	estudio anatomopatológico
-T38	PROCEDIMIENTO 2047 2082	tratamiento quimoterápico adyuvante
-T39	PROCEDIMIENTO 2090 2112	esquema BEP modificado
-T40	PROCEDIMIENTO 2371 2391	marcadores tumorales
-T41	PROCEDIMIENTO 2403 2424	estudios radiológicos
-T42	PROCEDIMIENTO 2439 2471	tratamiento hormonal sustitutivo
-T43	PROCEDIMIENTO 359 402	palpación presentaba el testículo izquierdo
-T44	PROCEDIMIENTO 561 581	ecografía testicular
-T45	PROCEDIMIENTO 975 1002	TAC toraco-abdómino-pélvico
+T1	ENFERMEDAD 1888 1916	seminoma de variedad clásica
+T2	ENFERMEDAD 1636 1656	tumor germinal mixto
+T3	ENFERMEDAD 607 652	lesión nodular de gran tamaño en el testículo
+T4	ENFERMEDAD 1943 1965	neoplasia intratubular
+T5	ENFERMEDAD 743 782	lesiones nodulares sólidas en testículo
+T6	ENFERMEDAD 1695 1723	carcinoma embrionario adulto
+T7	ENFERMEDAD 1726 1734	teratoma
+T8	ENFERMEDAD 818 848	neoplasia testicular bilateral
+T9	PROCEDIMIENTO 1496 1521	estudio anatomopatológico
+T10	PROCEDIMIENTO 359 402	palpación presentaba el testículo izquierdo
+T11	PROCEDIMIENTO 975 1002	TAC toraco-abdómino-pélvico
+T12	PROCEDIMIENTO 2047 2082	tratamiento quimoterápico adyuvante
+T13	PROCEDIMIENTO 561 581	ecografía testicular
+T14	PROCEDIMIENTO 2090 2112	esquema BEP modificado
+T15	PROCEDIMIENTO 1121 1145	criopreservación seminal
+T16	PROCEDIMIENTO 1174 1233	orquiectomía inguinal izquierda con ligadura alta de cordón
+T17	PROCEDIMIENTO 1237 1276	biopsia testicular derecha vía inguinal
+T18	PROCEDIMIENTO 2439 2471	tratamiento hormonal sustitutivo
+T19	PROCEDIMIENTO 1285 1316	clampaje del cordón espermático
+T20	PROCEDIMIENTO 1462 1491	orquiectomía inguinal derecha
+T21	PROCEDIMIENTO 2371 2391	marcadores tumorales
+T22	PROCEDIMIENTO 2403 2424	estudios radiológicos
+T23	PROCEDIMIENTO 1445 1452	cirugía
+T24	SINTOMA 855 913	marcadores tumorales presentaron una elevación de la α-FTP
+T25	SINTOMA 193 215	inflamación testicular
+T26	SINTOMA 383 436	testículo izquierdo indurado y discretamente doloroso
+T27	SINTOMA 2282 2313	tumoración testicular bilateral
+T28	SINTOMA 928 940	β-HCG normal
+T29	SINTOMA 445 482	epidídimo de características normales
+T30	SINTOMA 275 281	fiebre
+T31	SINTOMA 957 967	LDH normal
+T32	SINTOMA 286 305	síntomas urológicos
+T33	SINTOMA 127 160	dolor e inflamación del testículo
+T34	SINTOMA 487 544	testículo derecho tenía un tamaño y consistencia normales
+T35	SINTOMA 2216 2226	LDH normal
+T36	SINTOMA 323 352	afectación del estado general
+T37	SINTOMA 2353 2365	asintomático
+T38	SINTOMA 1827 1837	tumoración
+T39	SINTOMA 2371 2401	marcadores tumorales negativos
+T40	SINTOMA 975 1042	TAC toraco-abdómino-pélvico no se encontraron hallazgos patológicos
+T41	SINTOMA 1971 2030	afectación de la albugínea, epidídimo ni cordón espermático
+T42	SINTOMA 2403 2433	estudios radiológicos normales
+T43	SINTOMA 687 702	áreas quísticas
+T44	SINTOMA 2153 2173	marcadores negativos
+T45	SINTOMA 1563 1573	tumoración

@@ -1,34 +1,34 @@
-T1	SINTOMA 1890 1910	disminución de la AV
-T2	SINTOMA 2542 2555	edema corneal
-T3	SINTOMA 1849 1871	edema corneal moderado
-T4	SINTOMA 1311 1431	espacio entre la membrana de Descemet y el estroma corneal presentaba un importante relleno hemático y por viscoelástico
-T5	SINTOMA 1771 1788	inclusión corneal
-T6	ENFERMEDAD 34 68	glaucoma crónico de ángulo abierto
-T7	ENFERMEDAD 1208 1290	desprendimiento de la membrana de Descemet (DMD) en el cuadrante temporal inferior
-T8	ENFERMEDAD 2459 2462	DMD
-T9	ENFERMEDAD 1252 1255	DMD
-T10	ENFERMEDAD 1849 1871	edema corneal moderado
-T11	ENFERMEDAD 2542 2555	edema corneal
-T12	ENFERMEDAD 2085 2112	desprendimiento descemético
-T13	ENFERMEDAD 2251 2259	hematoma
-T14	PROCEDIMIENTO 1079 1145	suturar fuertemente el colgajo escleral superficial con nylon 10-0
-T15	PROCEDIMIENTO 113 130	viscocanalostomía
-T16	PROCEDIMIENTO 1168 1180	intervención
-T17	PROCEDIMIENTO 1526 1537	midriáticos
-T18	PROCEDIMIENTO 1557 1575	esteroides tópicos
-T19	PROCEDIMIENTO 1640 1656	control de la AV
-T20	PROCEDIMIENTO 1658 1672	biomicroscopía
+T1	ENFERMEDAD 34 68	glaucoma crónico de ángulo abierto
+T2	ENFERMEDAD 1208 1290	desprendimiento de la membrana de Descemet (DMD) en el cuadrante temporal inferior
+T3	ENFERMEDAD 2459 2462	DMD
+T4	ENFERMEDAD 1252 1255	DMD
+T5	ENFERMEDAD 1849 1871	edema corneal moderado
+T6	ENFERMEDAD 2542 2555	edema corneal
+T7	ENFERMEDAD 2085 2112	desprendimiento descemético
+T8	ENFERMEDAD 2251 2259	hematoma
+T9	PROCEDIMIENTO 677 729	viscocanalostomía según técnica habitual de Stegmann
+T10	PROCEDIMIENTO 113 130	viscocanalostomía
+T11	PROCEDIMIENTO 746 786	disección conjuntival con base en fórnix
+T12	PROCEDIMIENTO 797 829	disección de un colgajo escleral
+T13	PROCEDIMIENTO 2006 2112	con un miringotomo se realizó una rotura intencionada en la parte inferior del desprendimiento descemético
+T14	PROCEDIMIENTO 1526 1537	midriáticos
+T15	PROCEDIMIENTO 1557 1575	esteroides tópicos
+T16	PROCEDIMIENTO 2127 2204	introducción repetida de aire y suero salino balanceado en la cámara anterior
+T17	PROCEDIMIENTO 1079 1145	suturar fuertemente el colgajo escleral superficial con nylon 10-0
+T18	PROCEDIMIENTO 1640 1656	control de la AV
+T19	PROCEDIMIENTO 1658 1672	biomicroscopía
+T20	PROCEDIMIENTO 515 545	estudio de las papilas ópticas
 T21	PROCEDIMIENTO 1674 1685	gonioscopía
 T22	PROCEDIMIENTO 1696 1715	presión intraocular
-T23	PROCEDIMIENTO 1742 1754	intervención
-T24	PROCEDIMIENTO 2006 2112	con un miringotomo se realizó una rotura intencionada en la parte inferior del desprendimiento descemético
-T25	PROCEDIMIENTO 2127 2204	introducción repetida de aire y suero salino balanceado en la cámara anterior
-T26	PROCEDIMIENTO 2205 2306	fue drenándose tanto el viscoelástico como el hematoma a través de la apertura quirúrgica descemética
-T27	PROCEDIMIENTO 2323 2337	se inyectó SF6
-T28	PROCEDIMIENTO 515 545	estudio de las papilas ópticas
-T29	PROCEDIMIENTO 557 585	seguimiento del campo visual
-T30	PROCEDIMIENTO 677 729	viscocanalostomía según técnica habitual de Stegmann
-T31	PROCEDIMIENTO 746 786	disección conjuntival con base en fórnix
-T32	PROCEDIMIENTO 797 829	disección de un colgajo escleral
-T33	PROCEDIMIENTO 865 897	creamos un segundo flap escleral
-T34	PROCEDIMIENTO 962 1053	canal de Schlemm y canalizarlo cuidadosamente hacia el interior inyectando el viscoelástico
+T23	PROCEDIMIENTO 865 897	creamos un segundo flap escleral
+T24	PROCEDIMIENTO 962 1053	canal de Schlemm y canalizarlo cuidadosamente hacia el interior inyectando el viscoelástico
+T25	PROCEDIMIENTO 2323 2337	se inyectó SF6
+T26	PROCEDIMIENTO 557 585	seguimiento del campo visual
+T27	PROCEDIMIENTO 2205 2306	fue drenándose tanto el viscoelástico como el hematoma a través de la apertura quirúrgica descemética
+T28	PROCEDIMIENTO 1168 1180	intervención
+T29	PROCEDIMIENTO 1742 1754	intervención
+T30	SINTOMA 1771 1788	inclusión corneal
+T31	SINTOMA 1890 1910	disminución de la AV
+T32	SINTOMA 1311 1431	espacio entre la membrana de Descemet y el estroma corneal presentaba un importante relleno hemático y por viscoelástico
+T33	SINTOMA 2542 2555	edema corneal
+T34	SINTOMA 1849 1871	edema corneal moderado

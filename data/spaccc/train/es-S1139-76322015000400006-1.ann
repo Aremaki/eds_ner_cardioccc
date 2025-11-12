@@ -1,17 +1,30 @@
-T1	SINTOMA 1324 1340	anion gap normal
-T2	SINTOMA 1071 1095	hemograma que fue normal
-T3	SINTOMA 1690 1725	hiperecogenicidad papilar bilateral
-T4	SINTOMA 633 646	mucosas secas
-T5	SINTOMA 648 655	ojeroso
-T6	SINTOMA 73 89	rechazo de tomas
-T7	SINTOMA 100 115	regurgitaciones
-T8	SINTOMA 1780 1861	valoración oftalmológica, serie ósea y potenciales auditivos, que fueron normales
-T9	SINTOMA 91 98	náuseas
-T10	SINTOMA 118 125	vómitos
-T11	SINTOMA 695 710	palidez cutánea
-T12	SINTOMA 598 627	afectación del estado general
-T13	SINTOMA 1941 1953	asintomático
-T14	ENFERMEDAD 1752 1767	nefrocalcinosis
-T15	ENFERMEDAD 2298 2313	nefrocalcinosis
-T16	ENFERMEDAD 1300 1319	acidosis metabólica
-T17	ENFERMEDAD 363 377	polihidramnios
+T1	ENFERMEDAD 1752 1767	nefrocalcinosis
+T2	ENFERMEDAD 2298 2313	nefrocalcinosis
+T3	ENFERMEDAD 1300 1319	acidosis metabólica
+T4	ENFERMEDAD 363 377	polihidramnios
+T5	PROCEDIMIENTO 1453 1477	sueroterapia intravenosa
+T6	PROCEDIMIENTO 728 746	exploración física
+T7	PROCEDIMIENTO 1662 1677	ecografía renal
+T8	PROCEDIMIENTO 2201 2210	ecografía
+T9	PROCEDIMIENTO 1780 1804	valoración oftalmológica
+T10	PROCEDIMIENTO 1806 1816	serie ósea
+T11	PROCEDIMIENTO 1819 1840	potenciales auditivos
+T12	PROCEDIMIENTO 1046 1065	analítica sanguínea
+T13	PROCEDIMIENTO 1071 1080	hemograma
+T14	PROCEDIMIENTO 1353 1375	tira reactiva en orina
+T15	PROCEDIMIENTO 1098 1108	bioquímica
+T16	PROCEDIMIENTO 1178 1195	gasometría venosa
+T17	PROCEDIMIENTO 2134 2143	analítica
+T18	SINTOMA 73 89	rechazo de tomas
+T19	SINTOMA 633 646	mucosas secas
+T20	SINTOMA 91 98	náuseas
+T21	SINTOMA 648 655	ojeroso
+T22	SINTOMA 100 115	regurgitaciones
+T23	SINTOMA 118 125	vómitos
+T24	SINTOMA 695 710	palidez cutánea
+T25	SINTOMA 1690 1725	hiperecogenicidad papilar bilateral
+T26	SINTOMA 598 627	afectación del estado general
+T27	SINTOMA 1941 1953	asintomático
+T28	SINTOMA 1780 1861	valoración oftalmológica, serie ósea y potenciales auditivos, que fueron normales
+T29	SINTOMA 1071 1095	hemograma que fue normal
+T30	SINTOMA 1324 1340	anion gap normal

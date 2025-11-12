@@ -1,19 +1,19 @@
-T1	SINTOMA 1505 1513	caquexia
-T2	ENFERMEDAD 504 546	neumonías extrahospitalarias de repetición
-T3	ENFERMEDAD 628 639	TB pulmonar
-T4	ENFERMEDAD 689 710	dermatitis seborreica
-T5	ENFERMEDAD 424 459	neumonía por pneumocistis jirovecii
-T6	ENFERMEDAD 549 573	candidiasis orofaríngeas
-T7	ENFERMEDAD 642 679	lesiones cerebrales por toxoplasmosis
-T8	ENFERMEDAD 762 873	lesiones costrosas, descamativas, no pruriginosas de inicio en cuero cabelludo, pabellones auriculares y axilas
-T9	ENFERMEDAD 1103 1112	psoriasis
-T10	ENFERMEDAD 55 69	politoxicómano
-T11	ENFERMEDAD 93 97	UDVP
-T12	ENFERMEDAD 896 988	lesiones se extendieron a tronco y extremidades, incluyendo plantas y palmas de pies y manos
-T13	ENFERMEDAD 206 237	coinfección por el VIH y el VHC
-T14	ENFERMEDAD 1010 1063	lesiones similares en pliegue interglúteo y genitales
-T15	ENFERMEDAD 1538 1544	anemia
-T16	ENFERMEDAD 1702 1721	lesiones cerebrales
-T17	ENFERMEDAD 684 686	TB
+T1	ENFERMEDAD 504 546	neumonías extrahospitalarias de repetición
+T2	ENFERMEDAD 628 639	TB pulmonar
+T3	ENFERMEDAD 689 710	dermatitis seborreica
+T4	ENFERMEDAD 424 459	neumonía por pneumocistis jirovecii
+T5	ENFERMEDAD 549 573	candidiasis orofaríngeas
+T6	ENFERMEDAD 642 679	lesiones cerebrales por toxoplasmosis
+T7	ENFERMEDAD 762 873	lesiones costrosas, descamativas, no pruriginosas de inicio en cuero cabelludo, pabellones auriculares y axilas
+T8	ENFERMEDAD 1103 1112	psoriasis
+T9	ENFERMEDAD 55 69	politoxicómano
+T10	ENFERMEDAD 93 97	UDVP
+T11	ENFERMEDAD 896 988	lesiones se extendieron a tronco y extremidades, incluyendo plantas y palmas de pies y manos
+T12	ENFERMEDAD 206 237	coinfección por el VIH y el VHC
+T13	ENFERMEDAD 1010 1063	lesiones similares en pliegue interglúteo y genitales
+T14	ENFERMEDAD 1538 1544	anemia
+T15	ENFERMEDAD 1702 1721	lesiones cerebrales
+T16	ENFERMEDAD 684 686	TB
+T17	PROCEDIMIENTO 296 299	TAR
 T18	PROCEDIMIENTO 1607 1610	TAR
-T19	PROCEDIMIENTO 296 299	TAR
+T19	SINTOMA 1505 1513	caquexia

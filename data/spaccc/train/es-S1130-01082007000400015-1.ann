@@ -1,16 +1,28 @@
-T1	SINTOMA 592 602	febricular
-T2	SINTOMA 98 104	fiebre
-T3	SINTOMA 708 729	irritación peritoneal
-T4	SINTOMA 127 134	náuseas
-T5	SINTOMA 139 146	vómitos
-T6	SINTOMA 21 62	dolor abdominal progresivo en fosa iliaca
-T7	SINTOMA 643 692	dolor abdominal, en el cuadrante inferior derecho
-T8	SINTOMA 917 977	engrosamiento de una estructura tubular en la base del ciego
-T9	SINTOMA 758 814	leucocitosis de 19,100/mm3 con desviación a la izquierda
-T10	SINTOMA 106 124	pérdida de apetito
-T11	ENFERMEDAD 192 228	atresia cólica del colon descendente
-T12	ENFERMEDAD 231 283	vólvulo intestinal de delgado en el periodo neonatal
-T13	ENFERMEDAD 882 915	apendicitis del muñón apendicular
-T14	ENFERMEDAD 1019 1031	apendicolito
-T15	ENFERMEDAD 1085 1130	plastrón pericecal sobre un muñón apendicular
-T16	ENFERMEDAD 1153 1175	apendicitis gangrenosa
+T1	ENFERMEDAD 192 228	atresia cólica del colon descendente
+T2	ENFERMEDAD 231 283	vólvulo intestinal de delgado en el periodo neonatal
+T3	ENFERMEDAD 882 915	apendicitis del muñón apendicular
+T4	ENFERMEDAD 1019 1031	apendicolito
+T5	ENFERMEDAD 1085 1130	plastrón pericecal sobre un muñón apendicular
+T6	ENFERMEDAD 1153 1175	apendicitis gangrenosa
+T7	PROCEDIMIENTO 299 324	desvolvulación intestinal
+T8	PROCEDIMIENTO 327 372	doble abocamiento del colon a pared abdominal
+T9	PROCEDIMIENTO 374 384	colostomía
+T10	PROCEDIMIENTO 441 474	liberación de ambos cabos cólicos
+T11	PROCEDIMIENTO 520 547	apendicectomía profiláctica
+T12	PROCEDIMIENTO 819 853	tomografía computarizada abdominal
+T13	PROCEDIMIENTO 1177 1252	se realizó resección del resto apendicular, doble sutura en bolsa de tabaco
+T14	PROCEDIMIENTO 1280 1294	antibioterapia
+T15	PROCEDIMIENTO 477 505	anastomosis término-terminal
+T16	PROCEDIMIENTO 617 635	exploración física
+T17	PROCEDIMIENTO 734 743	analítica
+T18	PROCEDIMIENTO 1046 1067	incisión de Mc Burney
+T19	SINTOMA 21 62	dolor abdominal progresivo en fosa iliaca
+T20	SINTOMA 98 104	fiebre
+T21	SINTOMA 106 124	pérdida de apetito
+T22	SINTOMA 127 134	náuseas
+T23	SINTOMA 139 146	vómitos
+T24	SINTOMA 708 729	irritación peritoneal
+T25	SINTOMA 592 602	febricular
+T26	SINTOMA 758 814	leucocitosis de 19,100/mm3 con desviación a la izquierda
+T27	SINTOMA 643 692	dolor abdominal, en el cuadrante inferior derecho
+T28	SINTOMA 917 977	engrosamiento de una estructura tubular en la base del ciego

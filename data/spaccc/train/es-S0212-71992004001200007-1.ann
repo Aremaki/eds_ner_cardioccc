@@ -1,30 +1,41 @@
-T1	SINTOMA 373 380	confusa
-T2	SINTOMA 673 692	córnea transparente
-T3	SINTOMA 234 246	dolor lumbar
-T4	SINTOMA 406 412	febril
-T5	SINTOMA 209 215	fiebre
-T6	SINTOMA 191 207	malestar general
-T7	SINTOMA 824 842	opacidad de medios
-T8	SINTOMA 285 313	pérdida progresiva de visión
-T9	SINTOMA 651 671	quemosis conjuntival
-T10	SINTOMA 781 790	sinequias
-T11	SINTOMA 386 404	tendencia al sueño
-T12	SINTOMA 2201 2233	capacidad de percepción luminosa
-T13	SINTOMA 698 745	capacidad para percibir la luz y proyectar foco
-T14	SINTOMA 249 273	cuadro confusional agudo
-T15	SINTOMA 634 649	edema orbitario
-T16	SINTOMA 535 559	edema parpebral superior
-T17	SINTOMA 1747 1829	hemocultivos, urocultivos y cultivos del LCR, aislándose en todos Escherichia coli
-T18	SINTOMA 564 590	ptosis de aspecto mecánico
-T19	SINTOMA 751 765	pupila miótica
-T20	SINTOMA 592 629	restricción a la elevación y aducción
-T21	ENFERMEDAD 55 76	hipertensión arterial
-T22	ENFERMEDAD 78 81	HTA
-T23	ENFERMEDAD 85 114	diabetes mellitus (DM) tipo 2
-T24	ENFERMEDAD 104 106	DM
-T25	ENFERMEDAD 535 570	edema parpebral superior con ptosis
-T26	ENFERMEDAD 634 649	edema orbitario
-T27	ENFERMEDAD 651 671	quemosis conjuntival
-T28	ENFERMEDAD 1611 1637	espondilitis a nivel L4-L5
-T29	ENFERMEDAD 1719 1731	endocarditis
-T30	ENFERMEDAD 285 313	pérdida progresiva de visión
+T1	ENFERMEDAD 55 76	hipertensión arterial
+T2	ENFERMEDAD 78 81	HTA
+T3	ENFERMEDAD 85 114	diabetes mellitus (DM) tipo 2
+T4	ENFERMEDAD 104 106	DM
+T5	ENFERMEDAD 535 570	edema parpebral superior con ptosis
+T6	ENFERMEDAD 634 649	edema orbitario
+T7	ENFERMEDAD 651 671	quemosis conjuntival
+T8	ENFERMEDAD 1611 1637	espondilitis a nivel L4-L5
+T9	ENFERMEDAD 1719 1731	endocarditis
+T10	ENFERMEDAD 285 313	pérdida progresiva de visión
+T11	PROCEDIMIENTO 118 144	tratamiento con metformina
+T12	PROCEDIMIENTO 859 878	exploración general
+T13	PROCEDIMIENTO 897 916	analítica de sangre
+T14	PROCEDIMIENTO 1455 1458	TAC
+T15	PROCEDIMIENTO 1465 1475	RM craneal
+T16	PROCEDIMIENTO 1550 1560	RM columna
+T17	PROCEDIMIENTO 1642 1687	Ecocardiograma transtorácico y transesofágico
+T18	PROCEDIMIENTO 1747 1759	hemocultivos
+T19	PROCEDIMIENTO 1761 1772	urocultivos
+T20	PROCEDIMIENTO 1775 1791	cultivos del LCR
+T21	PROCEDIMIENTO 1873 1885	antibiograma
+T22	SINTOMA 191 207	malestar general
+T23	SINTOMA 209 215	fiebre
+T24	SINTOMA 234 246	dolor lumbar
+T25	SINTOMA 249 273	cuadro confusional agudo
+T26	SINTOMA 406 412	febril
+T27	SINTOMA 673 692	córnea transparente
+T28	SINTOMA 751 765	pupila miótica
+T29	SINTOMA 1747 1829	hemocultivos, urocultivos y cultivos del LCR, aislándose en todos Escherichia coli
+T30	SINTOMA 373 380	confusa
+T31	SINTOMA 386 404	tendencia al sueño
+T32	SINTOMA 651 671	quemosis conjuntival
+T33	SINTOMA 535 559	edema parpebral superior
+T34	SINTOMA 634 649	edema orbitario
+T35	SINTOMA 285 313	pérdida progresiva de visión
+T36	SINTOMA 564 590	ptosis de aspecto mecánico
+T37	SINTOMA 592 629	restricción a la elevación y aducción
+T38	SINTOMA 698 745	capacidad para percibir la luz y proyectar foco
+T39	SINTOMA 2201 2233	capacidad de percepción luminosa
+T40	SINTOMA 824 842	opacidad de medios
+T41	SINTOMA 781 790	sinequias

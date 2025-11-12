@@ -1,24 +1,42 @@
-T1	SINTOMA 1870 1886	afectación renal
-T2	SINTOMA 1947 1959	asintomático
-T3	SINTOMA 143 172	disminución de agudeza visual
-T4	SINTOMA 2065 2108	actividad inflamatoria ocular en ambos ojos
-T5	SINTOMA 1969 1999	agudeza visual de unidad en OI
-T6	SINTOMA 467 498	cornea tinción con fluoresceína
-T7	SINTOMA 764 819	disminución del tyndall celular (3+) en cámara anterior
-T8	SINTOMA 630 643	leve vitritis
-T9	SINTOMA 507 519	normal el OD
-T10	SINTOMA 379 400	OI un tyndall celular
-T11	SINTOMA 408 442	precipitados queráticos inferiores
-T12	SINTOMA 2170 2215	virus varicela zoster mediante seroconversión
-T13	SINTOMA 1479 1487	vitritis
-T14	ENFERMEDAD 2144 2191	infección reciente por el virus varicela zoster
-T15	ENFERMEDAD 51 59	varicela
-T16	ENFERMEDAD 635 643	vitritis
-T17	ENFERMEDAD 1334 1343	retinitis
-T18	ENFERMEDAD 662 671	retinitis
-T19	ENFERMEDAD 2001 2041	cicatrización de las lesiones retinianas
-T20	ENFERMEDAD 871 945	retinitis necrotizante en el área temporal asociado a vasculitis retiniana
-T21	ENFERMEDAD 1479 1487	vitritis
-T22	ENFERMEDAD 925 945	vasculitis retiniana
-T23	ENFERMEDAD 1515 1524	retinitis
-T24	ENFERMEDAD 1225 1243	necrosis retiniana
+T1	ENFERMEDAD 2144 2191	infección reciente por el virus varicela zoster
+T2	ENFERMEDAD 51 59	varicela
+T3	ENFERMEDAD 635 643	vitritis
+T4	ENFERMEDAD 1334 1343	retinitis
+T5	ENFERMEDAD 662 671	retinitis
+T6	ENFERMEDAD 2001 2041	cicatrización de las lesiones retinianas
+T7	ENFERMEDAD 871 945	retinitis necrotizante en el área temporal asociado a vasculitis retiniana
+T8	ENFERMEDAD 1479 1487	vitritis
+T9	ENFERMEDAD 925 945	vasculitis retiniana
+T10	ENFERMEDAD 1515 1524	retinitis
+T11	ENFERMEDAD 1225 1243	necrosis retiniana
+T12	PROCEDIMIENTO 200 225	exploración oftalmológica
+T13	PROCEDIMIENTO 579 603	exploración fundoscópica
+T14	PROCEDIMIENTO 708 719	corticoides
+T15	PROCEDIMIENTO 722 733	midriáticos
+T16	PROCEDIMIENTO 1043 1057	antiagregación
+T17	PROCEDIMIENTO 1359 1381	corticoides sistémicos
+T18	PROCEDIMIENTO 330 362	estudio con lámpara de hendidura
+T19	PROCEDIMIENTO 828 840	fondo de ojo
+T20	PROCEDIMIENTO 1157 1172	fotocoagulación
+T21	PROCEDIMIENTO 1190 1204	láser de argón
+T22	PROCEDIMIENTO 1564 1585	tratamiento antiviral
+T23	PROCEDIMIENTO 1644 1655	corticoides
+T24	PROCEDIMIENTO 1724 1745	tratamiento antiviral
+T25	PROCEDIMIENTO 474 498	tinción con fluoresceína
+T26	PROCEDIMIENTO 1845 1855	bioquímica
+T27	PROCEDIMIENTO 1833 1842	hemograma
+T28	PROCEDIMIENTO 524 543	presión intraocular
+T29	PROCEDIMIENTO 1801 1821	controles analíticos
+T30	SINTOMA 764 819	disminución del tyndall celular (3+) en cámara anterior
+T31	SINTOMA 143 172	disminución de agudeza visual
+T32	SINTOMA 1947 1959	asintomático
+T33	SINTOMA 408 442	precipitados queráticos inferiores
+T34	SINTOMA 1870 1886	afectación renal
+T35	SINTOMA 2065 2108	actividad inflamatoria ocular en ambos ojos
+T36	SINTOMA 2170 2215	virus varicela zoster mediante seroconversión
+T37	SINTOMA 507 519	normal el OD
+T38	SINTOMA 467 498	cornea tinción con fluoresceína
+T39	SINTOMA 379 400	OI un tyndall celular
+T40	SINTOMA 630 643	leve vitritis
+T41	SINTOMA 1969 1999	agudeza visual de unidad en OI
+T42	SINTOMA 1479 1487	vitritis

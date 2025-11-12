@@ -1,21 +1,39 @@
-T1	SINTOMA 189 228	aumento de volumen en la zona mandibula
-T2	SINTOMA 883 931	aumento de volumen que comprometía cuerpo y rama
-T3	SINTOMA 542 601	aumento de volumen que comprometía cuerpo y rama mandibular
-T4	SINTOMA 648 669	compromiso de la piel
-T5	SINTOMA 722 742	compromiso sensitivo
-T6	SINTOMA 1477 1553	desplazamiento hacia el borde basilar del germen del primer molar permanente
-T7	SINTOMA 1794 1848	desplazamiento inferior del conducto dentario inferior
-T8	SINTOMA 757 799	examen funcional mandibular resultó normal
-T9	SINTOMA 1751 1788	expansión de la tabla ósea vestibular
-T10	SINTOMA 2599 2647	expansión en la tabla ósea vestibular mandibular
-T11	SINTOMA 619 642	indoloro a la palpación
-T12	SINTOMA 996 1019	indoloro a la palpación
-T13	SINTOMA 1111 1140	lesión radiolúcida unilocular
-T14	SINTOMA 239 251	asintomático
-T15	SINTOMA 411 431	impotencia funcional
-T16	SINTOMA 403 408	dolor
-T17	ENFERMEDAD 689 700	adenopatías
-T18	ENFERMEDAD 2388 2391	FOA
-T19	ENFERMEDAD 1111 1117	lesión
-T20	ENFERMEDAD 1461 1467	lesión
-T21	ENFERMEDAD 1891 1897	lesión
+T1	ENFERMEDAD 689 700	adenopatías
+T2	ENFERMEDAD 2388 2391	FOA
+T3	ENFERMEDAD 1111 1117	lesión
+T4	ENFERMEDAD 1461 1467	lesión
+T5	ENFERMEDAD 1891 1897	lesión
+T6	PROCEDIMIENTO 805 821	examen intraoral
+T7	PROCEDIMIENTO 1902 1955	examen histopatológico teñido con hematoxilina-eosina
+T8	PROCEDIMIENTO 2867 2881	antibioterapia
+T9	PROCEDIMIENTO 2456 2473	anestesia general
+T10	PROCEDIMIENTO 2884 2893	analgesia
+T11	PROCEDIMIENTO 633 642	palpación
+T12	PROCEDIMIENTO 2678 2688	osteotomía
+T13	PROCEDIMIENTO 1866 1884	biopsia incisional
+T14	PROCEDIMIENTO 2936 2948	dieta blanda
+T15	PROCEDIMIENTO 2724 2735	enucleación
+T16	PROCEDIMIENTO 511 527	examen extraoral
+T17	PROCEDIMIENTO 757 784	examen funcional mandibular
+T18	PROCEDIMIENTO 1936 1955	hematoxilina-eosina
+T19	PROCEDIMIENTO 1051 1082	visión panorámica del Cone Beam
+T20	PROCEDIMIENTO 2791 2808	sutura con Vycril
+T21	PROCEDIMIENTO 2356 2383	diagnóstico histopatológico
+T22	PROCEDIMIENTO 1010 1019	palpación
+T23	PROCEDIMIENTO 2431 2438	cirugía
+T24	SINTOMA 542 601	aumento de volumen que comprometía cuerpo y rama mandibular
+T25	SINTOMA 189 228	aumento de volumen en la zona mandibula
+T26	SINTOMA 2599 2647	expansión en la tabla ósea vestibular mandibular
+T27	SINTOMA 1794 1848	desplazamiento inferior del conducto dentario inferior
+T28	SINTOMA 239 251	asintomático
+T29	SINTOMA 722 742	compromiso sensitivo
+T30	SINTOMA 411 431	impotencia funcional
+T31	SINTOMA 757 799	examen funcional mandibular resultó normal
+T32	SINTOMA 1111 1140	lesión radiolúcida unilocular
+T33	SINTOMA 403 408	dolor
+T34	SINTOMA 619 642	indoloro a la palpación
+T35	SINTOMA 996 1019	indoloro a la palpación
+T36	SINTOMA 648 669	compromiso de la piel
+T37	SINTOMA 883 931	aumento de volumen que comprometía cuerpo y rama
+T38	SINTOMA 1477 1553	desplazamiento hacia el borde basilar del germen del primer molar permanente
+T39	SINTOMA 1751 1788	expansión de la tabla ósea vestibular

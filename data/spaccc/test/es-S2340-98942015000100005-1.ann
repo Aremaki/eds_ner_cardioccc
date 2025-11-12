@@ -1,21 +1,21 @@
-T1	SINTOMA 1542 1548	disnea
-T2	SINTOMA 1550 1560	sudoración
-T3	SINTOMA 942 948	disnea
-T4	SINTOMA 950 957	vómitos
-T5	SINTOMA 360 372	asintomática
-T6	SINTOMA 1912 1931	libre de enfermedad
-T7	SINTOMA 413 432	elevación de CA 125
-T8	SINTOMA 490 515	imagen adyacente al colon
-T9	SINTOMA 959 982	pérdida de conocimiento
-T10	ENFERMEDAD 94 128	carcinoma seroso papilar en ovario
-T11	ENFERMEDAD 160 191	ganglio de la cadena aorto-cava
-T12	ENFERMEDAD 648 659	metastásica
-T13	ENFERMEDAD 605 620	lesión hepática
-T14	PROCEDIMIENTO 1070 1081	corticoides
-T15	PROCEDIMIENTO 1147 1224	esquema de desensibilización5 con enlentecimiento de la velocidad de infusión
-T16	PROCEDIMIENTO 1600 1619	detener la infusión
-T17	PROCEDIMIENTO 1732 1795	quimioterapia con trabectedina y adriamicina liposomal pegilada
-T18	PROCEDIMIENTO 231 284	quimioterapia adyuvante con carboplatino y paclitaxel
-T19	PROCEDIMIENTO 465 468	TAC
-T20	PROCEDIMIENTO 533 569	resección anterior de recto superior
-T21	PROCEDIMIENTO 574 620	biopsia intraoperatoria de una lesión hepática
+T1	ENFERMEDAD 94 128	carcinoma seroso papilar en ovario
+T2	ENFERMEDAD 160 191	ganglio de la cadena aorto-cava
+T3	ENFERMEDAD 648 659	metastásica
+T4	ENFERMEDAD 605 620	lesión hepática
+T5	PROCEDIMIENTO 1732 1795	quimioterapia con trabectedina y adriamicina liposomal pegilada
+T6	PROCEDIMIENTO 231 284	quimioterapia adyuvante con carboplatino y paclitaxel
+T7	PROCEDIMIENTO 1070 1081	corticoides
+T8	PROCEDIMIENTO 465 468	TAC
+T9	PROCEDIMIENTO 1147 1224	esquema de desensibilización5 con enlentecimiento de la velocidad de infusión
+T10	PROCEDIMIENTO 533 569	resección anterior de recto superior
+T11	PROCEDIMIENTO 574 620	biopsia intraoperatoria de una lesión hepática
+T12	PROCEDIMIENTO 1600 1619	detener la infusión
+T13	SINTOMA 1542 1548	disnea
+T14	SINTOMA 1550 1560	sudoración
+T15	SINTOMA 942 948	disnea
+T16	SINTOMA 950 957	vómitos
+T17	SINTOMA 959 982	pérdida de conocimiento
+T18	SINTOMA 360 372	asintomática
+T19	SINTOMA 413 432	elevación de CA 125
+T20	SINTOMA 490 515	imagen adyacente al colon
+T21	SINTOMA 1912 1931	libre de enfermedad

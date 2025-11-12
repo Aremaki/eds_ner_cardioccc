@@ -1,10 +1,26 @@
-T1	SINTOMA 432 472	alteración del aparato urinario superior
-T2	SINTOMA 626 693	analíticas de sangre y orina estaban dentro de los límites normales
-T3	SINTOMA 169 228	tumoración de 20 mm en la cara lateral derecha de la vejiga
-T4	SINTOMA 1188 1196	sangrado
-T5	SINTOMA 286 310	sintomatología miccional
-T6	SINTOMA 778 788	tumoración
-T7	SINTOMA 1048 1058	tumoración
-T8	ENFERMEDAD 989 1006	leiomioma vesical
-T9	ENFERMEDAD 1157 1175	adenoma prostático
-T10	ENFERMEDAD 1728 1750	cistopatía incrustante
+T1	ENFERMEDAD 989 1006	leiomioma vesical
+T2	ENFERMEDAD 1157 1175	adenoma prostático
+T3	ENFERMEDAD 1728 1750	cistopatía incrustante
+T4	PROCEDIMIENTO 480 490	cistograma
+T5	PROCEDIMIENTO 713 724	cistoscopia
+T6	PROCEDIMIENTO 1611 1622	cistoscopia
+T7	PROCEDIMIENTO 47 73	estudio ecográfico pélvico
+T8	PROCEDIMIENTO 1421 1447	estudio inmunohistoquímico
+T9	PROCEDIMIENTO 94 135	ligadura de trompas por vía laparoscópica
+T10	PROCEDIMIENTO 1695 1704	resección
+T11	PROCEDIMIENTO 1019 1058	resección transuretral de la tumoración
+T12	PROCEDIMIENTO 1225 1247	resección transuretral
+T13	PROCEDIMIENTO 1577 1599	resección transuretral
+T14	PROCEDIMIENTO 1773 1830	resección transuretral de ésta y de restos leiomiomatosos
+T15	PROCEDIMIENTO 376 397	urografía intravenosa
+T16	PROCEDIMIENTO 1833 1855	acidificación urinaria
+T17	PROCEDIMIENTO 1728 1795	cistopatía incrustante que se trató mediante resección transuretral
+T18	PROCEDIMIENTO 626 654	analíticas de sangre y orina
+T19	SINTOMA 1188 1196	sangrado
+T20	SINTOMA 286 310	sintomatología miccional
+T21	SINTOMA 169 228	tumoración de 20 mm en la cara lateral derecha de la vejiga
+T22	SINTOMA 778 788	tumoración
+T23	SINTOMA 1048 1058	tumoración
+T24	SINTOMA 432 472	alteración del aparato urinario superior
+T25	SINTOMA 626 693	analíticas de sangre y orina estaban dentro de los límites normales
+T26	SINTOMA 528 548	defecto de repleción

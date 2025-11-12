@@ -1,11 +1,20 @@
-T1	SINTOMA 469 477	cianosis
-T2	SINTOMA 1581 1606	hemodinamicamente estable
-T3	SINTOMA 1223 1257	metahemoglobina continuaba elevado
-T4	SINTOMA 105 149	parestesias en ambas extremidades superiores
-T5	SINTOMA 721 809	RX de tórax y electrocardiograma) no se hallaron alteraciones patológicas significativas
-T6	SINTOMA 165 176	somnolencia
-T7	SINTOMA 409 419	consciente
-T8	SINTOMA 422 431	orientado
-T9	SINTOMA 437 455	tendencia al sueño
-T10	ENFERMEDAD 965 1035	metahemoglobinemia grave secundaria a la administración tópica de EMLA
-T11	ENFERMEDAD 1285 1294	alcalosis
+T1	ENFERMEDAD 965 1035	metahemoglobinemia grave secundaria a la administración tópica de EMLA
+T2	ENFERMEDAD 1285 1294	alcalosis
+T3	PROCEDIMIENTO 261 277	crema anestésica
+T4	PROCEDIMIENTO 323 388	depilación láser en espalda, extremidades superiores e inferiores
+T5	PROCEDIMIENTO 1182 1209	administración del antídoto
+T6	PROCEDIMIENTO 1401 1442	oxigenoterapia en mascarilla a alto flujo
+T7	PROCEDIMIENTO 610 624	oxigenoterapia
+T8	PROCEDIMIENTO 721 732	RX de tórax
+T9	PROCEDIMIENTO 735 753	electrocardiograma
+T10	PROCEDIMIENTO 817 826	analítica
+T11	PROCEDIMIENTO 665 676	exploración
+T12	SINTOMA 105 149	parestesias en ambas extremidades superiores
+T13	SINTOMA 165 176	somnolencia
+T14	SINTOMA 409 419	consciente
+T15	SINTOMA 422 431	orientado
+T16	SINTOMA 437 455	tendencia al sueño
+T17	SINTOMA 469 477	cianosis
+T18	SINTOMA 1581 1606	hemodinamicamente estable
+T19	SINTOMA 721 809	RX de tórax y electrocardiograma) no se hallaron alteraciones patológicas significativas
+T20	SINTOMA 1223 1257	metahemoglobina continuaba elevado

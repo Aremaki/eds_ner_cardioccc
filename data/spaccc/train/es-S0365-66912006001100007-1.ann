@@ -1,11 +1,19 @@
-T1	SINTOMA 385 435	inflamación, en el sector nasal superior de su ojo
-T2	SINTOMA 470 502	líquido de aspecto mucopurulento
-T3	SINTOMA 680 700	signos inflamatorios
-T4	ENFERMEDAD 37 57	endotropía congénita
-T5	ENFERMEDAD 140 150	endotropía
-T6	ENFERMEDAD 330 368	lesión conjuntival de aspecto quístico
-T7	ENFERMEDAD 532 554	absceso subconjuntival
-T8	ENFERMEDAD 969 987	formación quística
-T9	ENFERMEDAD 905 928	lesión quística benigna
-T10	ENFERMEDAD 660 666	lesión
-T11	ENFERMEDAD 162 165	DVD
+T1	ENFERMEDAD 37 57	endotropía congénita
+T2	ENFERMEDAD 140 150	endotropía
+T3	ENFERMEDAD 330 368	lesión conjuntival de aspecto quístico
+T4	ENFERMEDAD 532 554	absceso subconjuntival
+T5	ENFERMEDAD 969 987	formación quística
+T6	ENFERMEDAD 905 928	lesión quística benigna
+T7	ENFERMEDAD 660 666	lesión
+T8	ENFERMEDAD 162 165	DVD
+T9	PROCEDIMIENTO 203 232	resección de rectos laterales
+T10	PROCEDIMIENTO 749 790	exéresis quirúrgica completa de la lesión
+T11	PROCEDIMIENTO 871 898	diagnóstico histopatológico
+T12	PROCEDIMIENTO 235 282	retoinserción en asa de ambos rectos superiores
+T13	PROCEDIMIENTO 60 84	cirugía de rectos medios
+T14	PROCEDIMIENTO 432 455	ojo izquierdo. Se drenó
+T15	PROCEDIMIENTO 113 124	exploración
+T16	PROCEDIMIENTO 304 316	intervención
+T17	SINTOMA 385 435	inflamación, en el sector nasal superior de su ojo
+T18	SINTOMA 680 700	signos inflamatorios
+T19	SINTOMA 470 502	líquido de aspecto mucopurulento

@@ -1,18 +1,21 @@
-T1	SINTOMA 993 1088	cultivos para bacterias, hongos y micobacterias del exudado de drenaje resultaron ser negativos
-T2	SINTOMA 823 875	drenaje espontáneo de un material sanguino-purulento
-T3	SINTOMA 107 164	lesión en la mejilla derecha, algo pruriginosa y dolorosa
-T4	SINTOMA 345 403	mejilla derecha un nódulo eritematovioláceo, frío y blando
-T5	SINTOMA 1549 1574	pérdida de agudeza visual
-T6	SINTOMA 1481 1513	sequedad o enrojecimiento ocular
-T7	SINTOMA 1538 1547	fotofobia
-T8	SINTOMA 946 952	nódulo
-T9	ENFERMEDAD 588 592	GAFI
-T10	ENFERMEDAD 469 482	adenomegalias
-T11	ENFERMEDAD 514 557	queratosis pilar en la piel de las mejillas
-T12	ENFERMEDAD 1128 1142	lesión nodular
-T13	ENFERMEDAD 1162 1188	telangiectasias residuales
-T14	ENFERMEDAD 1465 1479	rosácea ocular
-T15	ENFERMEDAD 1515 1525	blefaritis
-T16	ENFERMEDAD 1527 1536	chalazion
-T17	ENFERMEDAD 107 135	lesión en la mejilla derecha
-T18	ENFERMEDAD 1549 1574	pérdida de agudeza visual
+T1	ENFERMEDAD 588 592	GAFI
+T2	ENFERMEDAD 469 482	adenomegalias
+T3	ENFERMEDAD 514 557	queratosis pilar en la piel de las mejillas
+T4	ENFERMEDAD 1128 1142	lesión nodular
+T5	ENFERMEDAD 1162 1188	telangiectasias residuales
+T6	ENFERMEDAD 1465 1479	rosácea ocular
+T7	ENFERMEDAD 1515 1525	blefaritis
+T8	ENFERMEDAD 1527 1536	chalazion
+T9	ENFERMEDAD 107 135	lesión en la mejilla derecha
+T10	ENFERMEDAD 1549 1574	pérdida de agudeza visual
+T11	PROCEDIMIENTO 686 701	biopsia cutánea
+T12	PROCEDIMIENTO 993 1063	cultivos para bacterias, hongos y micobacterias del exudado de drenaje
+T13	PROCEDIMIENTO 318 329	exploración
+T14	SINTOMA 107 164	lesión en la mejilla derecha, algo pruriginosa y dolorosa
+T15	SINTOMA 823 875	drenaje espontáneo de un material sanguino-purulento
+T16	SINTOMA 345 403	mejilla derecha un nódulo eritematovioláceo, frío y blando
+T17	SINTOMA 1481 1513	sequedad o enrojecimiento ocular
+T18	SINTOMA 1538 1547	fotofobia
+T19	SINTOMA 1549 1574	pérdida de agudeza visual
+T20	SINTOMA 993 1088	cultivos para bacterias, hongos y micobacterias del exudado de drenaje resultaron ser negativos
+T21	SINTOMA 946 952	nódulo

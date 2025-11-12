@@ -1,18 +1,42 @@
-T1	SINTOMA 1852 1864	condensación
-T2	SINTOMA 1476 1516	condensación del espacio aéreo bilateral
-T3	SINTOMA 2220 2248	disnea de pequeños esfuerzos
-T4	SINTOMA 2251 2280	dolor centrotorácico opresivo
-T5	SINTOMA 3054 3096	eosinófilos dentro del rango de normalidad
-T6	SINTOMA 2527 2549	infiltrados pulmonares
-T7	SINTOMA 1229 1251	infiltrados pulmonares
-T8	SINTOMA 2956 2978	infiltrados pulmonares
-T9	SINTOMA 1817 1839	infiltrados pulmonares
-T10	SINTOMA 804 854	infiltrados pulmonares parenquimatosos bilaterales
-T11	SINTOMA 2367 2412	murmullo vesicular con crepitantes en la base
-T12	SINTOMA 1613 1631	nódulo calcificado
-T13	SINTOMA 1375 1441	prueba de Mantoux y una broncoscopia, ambas con resultado negativo
-T14	SINTOMA 636 648	hematoquecia
-T15	SINTOMA 1197 1203	disnea
-T16	SINTOMA 2710 2716	disnea
-T17	SINTOMA 2722 2736	dolor torácico
-T18	SINTOMA 1588 1607	nódulos irregulares
+T1	ENFERMEDAD 36 45	depresión
+T2	ENFERMEDAD 47 77	diverticulosis colónica severa
+T3	ENFERMEDAD 79 112	aplastamientos vertebrales D8-D10
+T4	ENFERMEDAD 678 706	patología pulmonar bilateral
+T5	ENFERMEDAD 114 135	déficit de vitamina D
+T6	ENFERMEDAD 137 169	hipertensión arterial y pulmonar
+T7	ENFERMEDAD 171 187	flúter auricular
+T8	ENFERMEDAD 190 233	insuficiencia mitral, tricuspídea y aórtica
+T9	ENFERMEDAD 859 908	granuloma calcificado en el lóbulo medio pulmonar
+T10	ENFERMEDAD 915 937	adenopatía subcarínica
+T11	ENFERMEDAD 974 1032	neumonía multi-lobular bilateral adquirida en la comunidad
+T12	ENFERMEDAD 1522 1545	adenopatía interlobular
+T13	ENFERMEDAD 2140 2156	cuadro depresivo
+T14	ENFERMEDAD 636 648	hematoquecia
+T15	PROCEDIMIENTO 2474 2494	radiografía de tórax
+T16	PROCEDIMIENTO 2873 2893	radiografía de tórax
+T17	PROCEDIMIENTO 723 768	tomografía axial computarizada (TAC) de tórax
+T18	PROCEDIMIENTO 2331 2352	auscultación pulmonar
+T19	PROCEDIMIENTO 755 758	TAC
+T20	PROCEDIMIENTO 1375 1392	prueba de Mantoux
+T21	PROCEDIMIENTO 1399 1411	broncoscopia
+T22	PROCEDIMIENTO 1457 1460	TAC
+T23	PROCEDIMIENTO 538 565	oxigenoterapia domiciliaria
+T24	PROCEDIMIENTO 1314 1337	tratamiento antibiótico
+T25	SINTOMA 2220 2248	disnea de pequeños esfuerzos
+T26	SINTOMA 636 648	hematoquecia
+T27	SINTOMA 1197 1203	disnea
+T28	SINTOMA 2251 2280	dolor centrotorácico opresivo
+T29	SINTOMA 2527 2549	infiltrados pulmonares
+T30	SINTOMA 1229 1251	infiltrados pulmonares
+T31	SINTOMA 2956 2978	infiltrados pulmonares
+T32	SINTOMA 1817 1839	infiltrados pulmonares
+T33	SINTOMA 2367 2412	murmullo vesicular con crepitantes en la base
+T34	SINTOMA 804 854	infiltrados pulmonares parenquimatosos bilaterales
+T35	SINTOMA 2710 2716	disnea
+T36	SINTOMA 2722 2736	dolor torácico
+T37	SINTOMA 1588 1607	nódulos irregulares
+T38	SINTOMA 1613 1631	nódulo calcificado
+T39	SINTOMA 3054 3096	eosinófilos dentro del rango de normalidad
+T40	SINTOMA 1476 1516	condensación del espacio aéreo bilateral
+T41	SINTOMA 1852 1864	condensación
+T42	SINTOMA 1375 1441	prueba de Mantoux y una broncoscopia, ambas con resultado negativo

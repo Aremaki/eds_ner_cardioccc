@@ -1,19 +1,19 @@
-T1	SINTOMA 598 661	analítica sanguínea resultó con valores dentro de la normalidad
-T2	SINTOMA 1590 1602	asintomática
-T3	SINTOMA 533 555	hematuria macroscópica
-T4	SINTOMA 470 491	molestias miccionales
-T5	ENFERMEDAD 80 86	aborto
-T6	ENFERMEDAD 533 555	hematuria macroscópica
-T7	ENFERMEDAD 1511 1532	mullerianosis vesical
-T8	ENFERMEDAD 906 912	lesión
-T9	ENFERMEDAD 161 173	infertilidad
-T10	ENFERMEDAD 18 26	fumadora
-T11	ENFERMEDAD 264 293	lesión exofítica intravesical
-T12	PROCEDIMIENTO 1042 1064	resección transuretral
-T13	PROCEDIMIENTO 1171 1194	estudio histopatológico
-T14	PROCEDIMIENTO 1632 1643	endoscópica
-T15	PROCEDIMIENTO 234 251	ecografía vaginal
-T16	PROCEDIMIENTO 682 697	orina elemental
-T17	PROCEDIMIENTO 762 783	urografía intravenosa
-T18	PROCEDIMIENTO 866 877	cistoscopia
-T19	PROCEDIMIENTO 952 963	endoscópico
+T1	ENFERMEDAD 80 86	aborto
+T2	ENFERMEDAD 533 555	hematuria macroscópica
+T3	ENFERMEDAD 1511 1532	mullerianosis vesical
+T4	ENFERMEDAD 906 912	lesión
+T5	ENFERMEDAD 161 173	infertilidad
+T6	ENFERMEDAD 18 26	fumadora
+T7	ENFERMEDAD 264 293	lesión exofítica intravesical
+T8	PROCEDIMIENTO 1171 1194	estudio histopatológico
+T9	PROCEDIMIENTO 234 251	ecografía vaginal
+T10	PROCEDIMIENTO 682 697	orina elemental
+T11	PROCEDIMIENTO 762 783	urografía intravenosa
+T12	PROCEDIMIENTO 866 877	cistoscopia
+T13	PROCEDIMIENTO 1632 1643	endoscópica
+T14	PROCEDIMIENTO 952 963	endoscópico
+T15	PROCEDIMIENTO 1042 1064	resección transuretral
+T16	SINTOMA 470 491	molestias miccionales
+T17	SINTOMA 598 661	analítica sanguínea resultó con valores dentro de la normalidad
+T18	SINTOMA 1590 1602	asintomática
+T19	SINTOMA 533 555	hematuria macroscópica

@@ -1,21 +1,21 @@
-T1	SINTOMA 1216 1234	cuadro neurológico
-T2	SINTOMA 1378 1386	falleció
-T3	SINTOMA 187 201	fallo de bomba
-T4	ENFERMEDAD 257 299	cuadro séptico con origen en el mediastino
-T5	ENFERMEDAD 743 770	polineuropatía generalizada
-T6	ENFERMEDAD 850 882	herniación de un lóbulo pulmonar
-T7	ENFERMEDAD 1068 1087	herniación pulmonar
-T8	ENFERMEDAD 1409 1417	neumonía
-T9	ENFERMEDAD 327 344	herida quirúrgica
-T10	ENFERMEDAD 73 90	problema valvular
-T11	PROCEDIMIENTO 1036 1087	reparar el defecto central y la herniación pulmonar
-T12	PROCEDIMIENTO 1089 1150	Se empleó para cubrir el defecto parte del colgajo de epiplón
-T13	PROCEDIMIENTO 1352 1364	intervención
-T14	PROCEDIMIENTO 312 344	apertura de la herida quirúrgica
+T1	ENFERMEDAD 257 299	cuadro séptico con origen en el mediastino
+T2	ENFERMEDAD 743 770	polineuropatía generalizada
+T3	ENFERMEDAD 850 882	herniación de un lóbulo pulmonar
+T4	ENFERMEDAD 1068 1087	herniación pulmonar
+T5	ENFERMEDAD 1409 1417	neumonía
+T6	ENFERMEDAD 327 344	herida quirúrgica
+T7	ENFERMEDAD 73 90	problema valvular
+T8	PROCEDIMIENTO 312 344	apertura de la herida quirúrgica
+T9	PROCEDIMIENTO 501 519	colgajo de epiplon
+T10	PROCEDIMIENTO 660 689	soporte ventilatorio asistido
+T11	PROCEDIMIENTO 948 1030	reconstrucción mediante colgajo de dorsal ancho y material aloplástico (Gore-tex®)
+T12	PROCEDIMIENTO 1036 1087	reparar el defecto central y la herniación pulmonar
+T13	PROCEDIMIENTO 484 496	intervención
+T14	PROCEDIMIENTO 49 65	Cirugía Cardíaca
 T15	PROCEDIMIENTO 376 411	curas diarias con suero fisiológico
-T16	PROCEDIMIENTO 484 496	intervención
-T17	PROCEDIMIENTO 49 65	Cirugía Cardíaca
-T18	PROCEDIMIENTO 501 519	colgajo de epiplon
-T19	PROCEDIMIENTO 660 689	soporte ventilatorio asistido
-T20	PROCEDIMIENTO 691 717	coma inducido por fármacos
-T21	PROCEDIMIENTO 948 1030	reconstrucción mediante colgajo de dorsal ancho y material aloplástico (Gore-tex®)
+T16	PROCEDIMIENTO 691 717	coma inducido por fármacos
+T17	PROCEDIMIENTO 1089 1150	Se empleó para cubrir el defecto parte del colgajo de epiplón
+T18	PROCEDIMIENTO 1352 1364	intervención
+T19	SINTOMA 1216 1234	cuadro neurológico
+T20	SINTOMA 187 201	fallo de bomba
+T21	SINTOMA 1378 1386	falleció

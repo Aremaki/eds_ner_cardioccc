@@ -1,21 +1,29 @@
-T1	SINTOMA 307 316	debilidad
-T2	SINTOMA 356 367	hipotensión
-T3	SINTOMA 543 564	irritación peritoneal
-T4	SINTOMA 299 304	mareo
-T5	SINTOMA 967 975	sangrado
-T6	SINTOMA 1293 1308	sangrado activo
-T7	SINTOMA 370 381	taquicardia
-T8	SINTOMA 1178 1188	tumoración
-T9	SINTOMA 1622 1640	tumoración nodular
-T10	SINTOMA 651 677	tumoración retroperitoneal
-T11	SINTOMA 455 528	abdomen es doloroso con predominio en hipocondrio y fosa lumbar izquierda
-T12	SINTOMA 901 951	aumento de la densidad del espacio retroperitoneal
-T13	SINTOMA 789 831	captación del contraste de forma irregular
-T14	SINTOMA 113 165	dolor en hipocondrio izquierdo de presentación aguda
-T15	SINTOMA 1540 1596	ecografía abdominal no se observan hallazgos patológicos
-T16	ENFERMEDAD 37 58	hipertensión arterial
-T17	ENFERMEDAD 61 75	hipotiroidismo
-T18	ENFERMEDAD 1073 1107	hematoma retroperitoneal izquierdo
-T19	ENFERMEDAD 1510 1531	hipertensión arterial
-T20	ENFERMEDAD 1795 1830	Pseudoquiste endotelial suprarrenal
-T21	ENFERMEDAD 356 367	hipotensión
+T1	ENFERMEDAD 37 58	hipertensión arterial
+T2	ENFERMEDAD 61 75	hipotiroidismo
+T3	ENFERMEDAD 1073 1107	hematoma retroperitoneal izquierdo
+T4	ENFERMEDAD 1510 1531	hipertensión arterial
+T5	ENFERMEDAD 1795 1830	Pseudoquiste endotelial suprarrenal
+T6	ENFERMEDAD 356 367	hipotensión
+T7	PROCEDIMIENTO 324 342	exploración física
+T8	PROCEDIMIENTO 412 450	administración de fluidos intravenosos
+T9	PROCEDIMIENTO 577 586	Ecografía
+T10	PROCEDIMIENTO 589 613	Tomografía computarizada
+T11	PROCEDIMIENTO 615 617	TC
+T12	PROCEDIMIENTO 1601 1608	biopsia
+T13	PROCEDIMIENTO 1773 1793	estudio microscópico
+T14	PROCEDIMIENTO 1540 1559	ecografía abdominal
+T15	SINTOMA 113 165	dolor en hipocondrio izquierdo de presentación aguda
+T16	SINTOMA 299 304	mareo
+T17	SINTOMA 307 316	debilidad
+T18	SINTOMA 356 367	hipotensión
+T19	SINTOMA 370 381	taquicardia
+T20	SINTOMA 651 677	tumoración retroperitoneal
+T21	SINTOMA 1622 1640	tumoración nodular
+T22	SINTOMA 967 975	sangrado
+T23	SINTOMA 1178 1188	tumoración
+T24	SINTOMA 543 564	irritación peritoneal
+T25	SINTOMA 901 951	aumento de la densidad del espacio retroperitoneal
+T26	SINTOMA 1540 1596	ecografía abdominal no se observan hallazgos patológicos
+T27	SINTOMA 455 528	abdomen es doloroso con predominio en hipocondrio y fosa lumbar izquierda
+T28	SINTOMA 789 831	captación del contraste de forma irregular
+T29	SINTOMA 1293 1308	sangrado activo

@@ -1,21 +1,21 @@
-T1	SINTOMA 1229 1241	asintomático
-T2	SINTOMA 529 553	estabilidad hemodinámica
-T3	ENFERMEDAD 21 69	mediastinitis producida por Stafilococcus aureus
-T4	ENFERMEDAD 239 254	infección local
-T5	ENFERMEDAD 272 293	rotura por desecación
-T6	ENFERMEDAD 334 351	herida quirúrgica
-T7	PROCEDIMIENTO 1033 1072	cierre directo de los colgajos cutáneos
-T8	PROCEDIMIENTO 1138 1149	antibiótico
-T9	PROCEDIMIENTO 187 199	intervención
+T1	ENFERMEDAD 21 69	mediastinitis producida por Stafilococcus aureus
+T2	ENFERMEDAD 239 254	infección local
+T3	ENFERMEDAD 272 293	rotura por desecación
+T4	ENFERMEDAD 334 351	herida quirúrgica
+T5	PROCEDIMIENTO 612 677	restitución de la pared torácica con colgajos de músculo pectoral
+T6	PROCEDIMIENTO 76 132	cirugía de reconstrucción aórtica con prótesis de Dacron
+T7	PROCEDIMIENTO 684 721	legrado de esternón en la línea media
+T8	PROCEDIMIENTO 889 905	prótesis aórtica
+T9	PROCEDIMIENTO 910 962	músculo pectoral derecho se avanzó sobre el esternón
 T10	PROCEDIMIENTO 305 351	se decidió la apertura de la herida quirúrgica
 T11	PROCEDIMIENTO 334 392	herida quirúrgica, se hacían lavados con suero fisiológico
-T12	PROCEDIMIENTO 408 440	curas con Sulfadiacina argéntica
-T13	PROCEDIMIENTO 462 472	intubación
-T14	PROCEDIMIENTO 503 515	intervención
+T12	PROCEDIMIENTO 989 1015	osteosíntesis con alambres
+T13	PROCEDIMIENTO 408 440	curas con Sulfadiacina argéntica
+T14	PROCEDIMIENTO 1033 1072	cierre directo de los colgajos cutáneos
 T15	PROCEDIMIENTO 572 590	drogas vasoactivas
-T16	PROCEDIMIENTO 612 677	restitución de la pared torácica con colgajos de músculo pectoral
-T17	PROCEDIMIENTO 684 721	legrado de esternón en la línea media
-T18	PROCEDIMIENTO 76 132	cirugía de reconstrucción aórtica con prótesis de Dacron
-T19	PROCEDIMIENTO 889 905	prótesis aórtica
-T20	PROCEDIMIENTO 910 962	músculo pectoral derecho se avanzó sobre el esternón
-T21	PROCEDIMIENTO 989 1015	osteosíntesis con alambres
+T16	PROCEDIMIENTO 462 472	intubación
+T17	PROCEDIMIENTO 1138 1149	antibiótico
+T18	PROCEDIMIENTO 187 199	intervención
+T19	PROCEDIMIENTO 503 515	intervención
+T20	SINTOMA 1229 1241	asintomático
+T21	SINTOMA 529 553	estabilidad hemodinámica

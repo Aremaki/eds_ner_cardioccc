@@ -1,22 +1,35 @@
-T1	SINTOMA 1201 1213	asintomática
-T2	SINTOMA 1964 1976	asintomática
-T3	SINTOMA 54 61	cefalea
-T4	SINTOMA 107 132	inestabilidad a la marcha
-T5	SINTOMA 1055 1065	tumoración
-T6	SINTOMA 1276 1286	tumoración
-T7	SINTOMA 276 293	dismetría derecha
-T8	SINTOMA 300 328	maniobra de Romberg positiva
-T9	SINTOMA 827 951	masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2. Se realzaba con el Gadolinio
-T10	SINTOMA 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
-T11	ENFERMEDAD 150 157	migraña
-T12	ENFERMEDAD 159 198	parálisis facial periférica "a frigore"
-T13	ENFERMEDAD 1440 1463	Glioblastoma multiforme
-T14	ENFERMEDAD 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
-T15	ENFERMEDAD 227 236	depresión
-T16	ENFERMEDAD 331 362	secuelas de su parálisis facial
-T17	ENFERMEDAD 688 694	lesión
-T18	ENFERMEDAD 346 362	parálisis facial
-T19	ENFERMEDAD 2044 2062	recidiva del tumor
-T20	ENFERMEDAD 973 985	hidrocefalia
-T21	ENFERMEDAD 1898 1904	Cancer
-T22	ENFERMEDAD 479 485	lesión
+T1	ENFERMEDAD 150 157	migraña
+T2	ENFERMEDAD 159 198	parálisis facial periférica "a frigore"
+T3	ENFERMEDAD 1440 1463	Glioblastoma multiforme
+T4	ENFERMEDAD 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
+T5	ENFERMEDAD 227 236	depresión
+T6	ENFERMEDAD 331 362	secuelas de su parálisis facial
+T7	ENFERMEDAD 688 694	lesión
+T8	ENFERMEDAD 346 362	parálisis facial
+T9	ENFERMEDAD 2044 2062	recidiva del tumor
+T10	ENFERMEDAD 973 985	hidrocefalia
+T11	ENFERMEDAD 1898 1904	Cancer
+T12	ENFERMEDAD 479 485	lesión
+T13	PROCEDIMIENTO 241 264	exploración neurológica
+T14	PROCEDIMIENTO 1398 1424	estudio anatomo-patológico
+T15	PROCEDIMIENTO 587 616	resonancia magnética cerebral
+T16	PROCEDIMIENTO 376 408	tomografía computarizada craneal
+T17	PROCEDIMIENTO 1017 1121	extirpación prácticamente total de la tumoración a través de una craniectomía de hemifosa posterior dcha
+T18	PROCEDIMIENTO 1674 1710	Radioterapia focal en fosa posterior
+T19	PROCEDIMIENTO 646 670	tomografía computarizada
+T20	PROCEDIMIENTO 1991 2002	RM cerebral
+T21	PROCEDIMIENTO 1219 1230	RM cerebral
+T22	PROCEDIMIENTO 1260 1286	resección de la tumoración
+T23	PROCEDIMIENTO 942 951	Gadolinio
+T24	PROCEDIMIENTO 1927 1939	intervención
+T25	SINTOMA 54 61	cefalea
+T26	SINTOMA 107 132	inestabilidad a la marcha
+T27	SINTOMA 827 951	masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2. Se realzaba con el Gadolinio
+T28	SINTOMA 1201 1213	asintomática
+T29	SINTOMA 1964 1976	asintomática
+T30	SINTOMA 276 293	dismetría derecha
+T31	SINTOMA 300 328	maniobra de Romberg positiva
+T32	SINTOMA 1055 1065	tumoración
+T33	SINTOMA 1276 1286	tumoración
+T34	SINTOMA 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
+T35	SINTOMA 773 820	edema, localizada en hemisferio cerebeloso dcho

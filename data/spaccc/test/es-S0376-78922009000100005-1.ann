@@ -1,15 +1,15 @@
-T1	SINTOMA 150 219	exposición de la placa de osteosíntesis en el tercio distal del radio
-T2	SINTOMA 323 370	flujo reverso en la arteria interósea posterior
-T3	ENFERMEDAD 46 90	lesión por aplastamiento en miembro superior
-T4	ENFERMEDAD 222 306	trombosis de las anastomosis de revascularización radial y cubital a nivel del carpo
-T5	PROCEDIMIENTO 1048 1101	zona donante se cubrió con un injerto de piel parcial
-T6	PROCEDIMIENTO 167 219	placa de osteosíntesis en el tercio distal del radio
-T7	PROCEDIMIENTO 239 306	anastomosis de revascularización radial y cubital a nivel del carpo
-T8	PROCEDIMIENTO 395 419	Doppler de Ultrasonidos.
-T9	PROCEDIMIENTO 428 442	desbridamiento
-T10	PROCEDIMIENTO 469 489	bypass radio-cubital
-T11	PROCEDIMIENTO 494 551	injerto de vena safena para revascularización del miembro
+T1	ENFERMEDAD 46 90	lesión por aplastamiento en miembro superior
+T2	ENFERMEDAD 222 306	trombosis de las anastomosis de revascularización radial y cubital a nivel del carpo
+T3	PROCEDIMIENTO 428 442	desbridamiento
+T4	PROCEDIMIENTO 840 933	colgajo pudo ser pivotado en los vasos perforantes cutáneos de la arteria interósea posterior
+T5	PROCEDIMIENTO 469 489	bypass radio-cubital
+T6	PROCEDIMIENTO 494 551	injerto de vena safena para revascularización del miembro
+T7	PROCEDIMIENTO 612 642	anastomosis distal del by-pass
+T8	PROCEDIMIENTO 657 753	colgajo en hélice de perforante interósea posterior de 15x7,5 cm en la cara dorsal del antebrazo
+T9	PROCEDIMIENTO 239 306	anastomosis de revascularización radial y cubital a nivel del carpo
+T10	PROCEDIMIENTO 1048 1101	zona donante se cubrió con un injerto de piel parcial
+T11	PROCEDIMIENTO 395 419	Doppler de Ultrasonidos.
 T12	PROCEDIMIENTO 567 606	cobertura del material de osteosíntesis
-T13	PROCEDIMIENTO 612 642	anastomosis distal del by-pass
-T14	PROCEDIMIENTO 657 753	colgajo en hélice de perforante interósea posterior de 15x7,5 cm en la cara dorsal del antebrazo
-T15	PROCEDIMIENTO 840 933	colgajo pudo ser pivotado en los vasos perforantes cutáneos de la arteria interósea posterior
+T13	PROCEDIMIENTO 167 219	placa de osteosíntesis en el tercio distal del radio
+T14	SINTOMA 150 219	exposición de la placa de osteosíntesis en el tercio distal del radio
+T15	SINTOMA 323 370	flujo reverso en la arteria interósea posterior

@@ -1,14 +1,39 @@
-T1	SINTOMA 256 264	anorexia
-T2	SINTOMA 573 607	aumento de tamaño de los genitales
-T3	SINTOMA 206 227	cuadro constitucional
-T4	SINTOMA 312 334	debilidad generalizada
-T5	SINTOMA 337 361	dolor epigástrico cólico
-T6	SINTOMA 437 513	estudio digestivo (gastroscopia, colonoscopia, ecoendoscopia) que fue normal
-T7	SINTOMA 518 547	exploración física fue normal
-T8	SINTOMA 1111 1170	marcadores tumorales germinales y LDH, que fueron negativos
-T9	SINTOMA 939 945	nódulo
-T10	SINTOMA 267 296	pérdida de unos 15 kg de peso
-T11	SINTOMA 973 1031	polo superior de teste izquierdo, sugestivo de masa sólida
-T12	SINTOMA 1037 1094	pruebas de imagen a distancia (TAC, RNM) fueron negativos
-T13	SINTOMA 888 923	transiluminación positiva bilateral
-T14	SINTOMA 1972 1982	tumoración
+T1	ENFERMEDAD 2621 2656	tumor de células de Sertoli maligno
+T2	ENFERMEDAD 1380 1413	masa tumoral sólida, multinodular
+T3	ENFERMEDAD 106 137	hipertrofia benigna de próstata
+T4	ENFERMEDAD 669 688	hidrocele bilateral
+T5	ENFERMEDAD 2844 2877	Enfermedad Inflamatoria Sistémica
+T6	ENFERMEDAD 2928 2946	proceso testicular
+T7	ENFERMEDAD 2013 2036	infiltraba el epidídimo
+T8	ENFERMEDAD 2145 2162	invasión vascular
+T9	ENFERMEDAD 821 836	proceso maligno
+T10	PROCEDIMIENTO 518 536	exploración física
+T11	PROCEDIMIENTO 1490 1511	análisis microscópico
+T12	PROCEDIMIENTO 635 644	ecografía
+T13	PROCEDIMIENTO 456 468	gastroscopia
+T14	PROCEDIMIENTO 470 482	colonoscopia
+T15	PROCEDIMIENTO 484 497	ecoendoscopia
+T16	PROCEDIMIENTO 1068 1071	TAC
+T17	PROCEDIMIENTO 1073 1076	RNM
+T18	PROCEDIMIENTO 1183 1222	orquiectomía radical inguinal izquierda
+T19	PROCEDIMIENTO 2294 2322	técnicas inmunohistoquimicas
+T20	PROCEDIMIENTO 888 923	transiluminación positiva bilateral
+T21	PROCEDIMIENTO 437 454	estudio digestivo
+T22	PROCEDIMIENTO 1037 1066	pruebas de imagen a distancia
+T23	PROCEDIMIENTO 1227 1251	descripción macroscópica
+T24	PROCEDIMIENTO 2883 2912	controles séricos y de imagen
+T25	PROCEDIMIENTO 1111 1142	marcadores tumorales germinales
+T26	SINTOMA 573 607	aumento de tamaño de los genitales
+T27	SINTOMA 206 227	cuadro constitucional
+T28	SINTOMA 256 264	anorexia
+T29	SINTOMA 267 296	pérdida de unos 15 kg de peso
+T30	SINTOMA 312 334	debilidad generalizada
+T31	SINTOMA 337 361	dolor epigástrico cólico
+T32	SINTOMA 973 1031	polo superior de teste izquierdo, sugestivo de masa sólida
+T33	SINTOMA 1111 1170	marcadores tumorales germinales y LDH, que fueron negativos
+T34	SINTOMA 939 945	nódulo
+T35	SINTOMA 1972 1982	tumoración
+T36	SINTOMA 888 923	transiluminación positiva bilateral
+T37	SINTOMA 1037 1094	pruebas de imagen a distancia (TAC, RNM) fueron negativos
+T38	SINTOMA 437 513	estudio digestivo (gastroscopia, colonoscopia, ecoendoscopia) que fue normal
+T39	SINTOMA 518 547	exploración física fue normal

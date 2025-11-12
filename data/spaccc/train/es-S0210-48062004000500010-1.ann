@@ -1,34 +1,36 @@
-T1	SINTOMA 1762 1774	asintomático
-T2	SINTOMA 1051 1075	ecogenicidad heterogénea
-T3	SINTOMA 603 624	moderada leucocitosis
-T4	SINTOMA 360 385	transiluminación positiva
-T5	SINTOMA 201 237	aumento de tamaño escrotal bilateral
-T6	SINTOMA 1036 1048	flujo venoso
-T7	SINTOMA 629 658	sedimento de orina fue normal
-T8	SINTOMA 1469 1517	teste de coloración violácea y aspecto necrótico
-T9	SINTOMA 896 943	teste derecho flujo doppler arterial conservado
-T10	SINTOMA 390 436	teste izquierdo es de características normales
-T11	SINTOMA 1119 1164	testículo izquierdo es normal ecográficamente
-T12	ENFERMEDAD 1287 1317	compromiso vascular testicular
-T13	ENFERMEDAD 277 311	hidrocele a tensión en hemiescroto
-T14	ENFERMEDAD 1672 1702	infarto hemorrágico testicular
-T15	ENFERMEDAD 322 336	hidrocele leve
-T16	ENFERMEDAD 1800 1809	hidrocele
-T17	ENFERMEDAD 1400 1409	hidrocele
-T18	ENFERMEDAD 817 836	hidrocele bilateral
-T19	ENFERMEDAD 547 556	hidrocele
-T20	ENFERMEDAD 1434 1452	torsión del cordón
-T21	PROCEDIMIENTO 1149 1164	ecográficamente
-T22	PROCEDIMIENTO 1328 1350	exploración quirúrgica
-T23	PROCEDIMIENTO 153 173	valoración urológica
-T24	PROCEDIMIENTO 1541 1553	orquiectomía
-T25	PROCEDIMIENTO 1633 1652	anatomía patológica
-T26	PROCEDIMIENTO 245 263	exploración física
-T27	PROCEDIMIENTO 360 376	transiluminación
-T28	PROCEDIMIENTO 48 89	parto vía vaginal y presentación cefálica
-T29	PROCEDIMIENTO 498 526	palpación testicular derecha
-T30	PROCEDIMIENTO 575 594	analítica sanguínea
-T31	PROCEDIMIENTO 629 647	sedimento de orina
-T32	PROCEDIMIENTO 663 680	ecografía doppler
-T33	PROCEDIMIENTO 730 738	ecógrafo
-T34	PROCEDIMIENTO 910 932	flujo doppler arterial
+T1	ENFERMEDAD 1287 1317	compromiso vascular testicular
+T2	ENFERMEDAD 277 311	hidrocele a tensión en hemiescroto
+T3	ENFERMEDAD 1672 1702	infarto hemorrágico testicular
+T4	ENFERMEDAD 322 336	hidrocele leve
+T5	ENFERMEDAD 1800 1809	hidrocele
+T6	ENFERMEDAD 1400 1409	hidrocele
+T7	ENFERMEDAD 817 836	hidrocele bilateral
+T8	ENFERMEDAD 547 556	hidrocele
+T9	ENFERMEDAD 1434 1452	torsión del cordón
+T10	PROCEDIMIENTO 1633 1652	anatomía patológica
+T11	PROCEDIMIENTO 245 263	exploración física
+T12	PROCEDIMIENTO 48 89	parto vía vaginal y presentación cefálica
+T13	PROCEDIMIENTO 663 680	ecografía doppler
+T14	PROCEDIMIENTO 498 526	palpación testicular derecha
+T15	PROCEDIMIENTO 1541 1553	orquiectomía
+T16	PROCEDIMIENTO 730 738	ecógrafo
+T17	PROCEDIMIENTO 1328 1350	exploración quirúrgica
+T18	PROCEDIMIENTO 153 173	valoración urológica
+T19	PROCEDIMIENTO 575 594	analítica sanguínea
+T20	PROCEDIMIENTO 360 376	transiluminación
+T21	PROCEDIMIENTO 629 647	sedimento de orina
+T22	PROCEDIMIENTO 1149 1164	ecográficamente
+T23	PROCEDIMIENTO 910 932	flujo doppler arterial
+T24	SINTOMA 629 658	sedimento de orina fue normal
+T25	SINTOMA 201 237	aumento de tamaño escrotal bilateral
+T26	SINTOMA 1469 1517	teste de coloración violácea y aspecto necrótico
+T27	SINTOMA 1119 1164	testículo izquierdo es normal ecográficamente
+T28	SINTOMA 1762 1774	asintomático
+T29	SINTOMA 360 385	transiluminación positiva
+T30	SINTOMA 896 943	teste derecho flujo doppler arterial conservado
+T31	SINTOMA 390 436	teste izquierdo es de características normales
+T32	SINTOMA 603 624	moderada leucocitosis
+T33	SINTOMA 959 993	índice de resistencia (IR) elevado
+T34	SINTOMA 1088 1114	áreas de desestructuración
+T35	SINTOMA 1051 1075	ecogenicidad heterogénea
+T36	SINTOMA 1036 1048	flujo venoso

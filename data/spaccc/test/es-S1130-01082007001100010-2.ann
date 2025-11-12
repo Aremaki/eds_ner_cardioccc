@@ -1,22 +1,22 @@
-T1	SINTOMA 100 134	alteración del nivel de conciencia
-T2	SINTOMA 140 216	cifras de amonio durante el ingreso se mantuvieron persistentemente elevadas
-T3	SINTOMA 408 432	esplenomegalia homogénea
-T4	SINTOMA 336 367	parénquima hepático heterogéneo
-T5	SINTOMA 274 320	peripancreático un vaso colateral muy dilatado
-T6	SINTOMA 892 903	sonmolencia
-T7	ENFERMEDAD 17 34	cirrótico enólico
-T8	ENFERMEDAD 46 63	infección por VHC
-T9	ENFERMEDAD 782 801	shunt espleno-renal
-T10	ENFERMEDAD 977 1002	varices gastro-esofágicas
-T11	ENFERMEDAD 1006 1013	ascitis
-T12	ENFERMEDAD 408 422	esplenomegalia
-T13	ENFERMEDAD 520 597	circulación colateral asociada a una derivación porto-sistémica espleno-renal
-T14	ENFERMEDAD 372 401	lesiones ocupantes de espacio
-T15	ENFERMEDAD 274 307	peripancreático un vaso colateral
-T16	PROCEDIMIENTO 233 252	ecografía abdominal
-T17	PROCEDIMIENTO 472 479	angioTC
-T18	PROCEDIMIENTO 609 648	técnicas de radiología intervencionista
-T19	PROCEDIMIENTO 666 711	embolización parcial del shunt con microcoils
-T20	PROCEDIMIENTO 716 752	ecografía abdominal postembolización
-T21	PROCEDIMIENTO 811 823	embolización
-T22	PROCEDIMIENTO 907 916	analítica
+T1	ENFERMEDAD 17 34	cirrótico enólico
+T2	ENFERMEDAD 46 63	infección por VHC
+T3	ENFERMEDAD 782 801	shunt espleno-renal
+T4	ENFERMEDAD 977 1002	varices gastro-esofágicas
+T5	ENFERMEDAD 1006 1013	ascitis
+T6	ENFERMEDAD 408 422	esplenomegalia
+T7	ENFERMEDAD 520 597	circulación colateral asociada a una derivación porto-sistémica espleno-renal
+T8	ENFERMEDAD 372 401	lesiones ocupantes de espacio
+T9	ENFERMEDAD 274 307	peripancreático un vaso colateral
+T10	PROCEDIMIENTO 666 711	embolización parcial del shunt con microcoils
+T11	PROCEDIMIENTO 716 752	ecografía abdominal postembolización
+T12	PROCEDIMIENTO 811 823	embolización
+T13	PROCEDIMIENTO 233 252	ecografía abdominal
+T14	PROCEDIMIENTO 472 479	angioTC
+T15	PROCEDIMIENTO 609 648	técnicas de radiología intervencionista
+T16	PROCEDIMIENTO 907 916	analítica
+T17	SINTOMA 100 134	alteración del nivel de conciencia
+T18	SINTOMA 274 320	peripancreático un vaso colateral muy dilatado
+T19	SINTOMA 892 903	sonmolencia
+T20	SINTOMA 408 432	esplenomegalia homogénea
+T21	SINTOMA 140 216	cifras de amonio durante el ingreso se mantuvieron persistentemente elevadas
+T22	SINTOMA 336 367	parénquima hepático heterogéneo

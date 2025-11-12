@@ -1,37 +1,38 @@
-T1	SINTOMA 31 38	astenia
-T2	SINTOMA 41 47	fatiga
-T3	SINTOMA 206 235	disminución de agudeza visual
-T4	SINTOMA 503 524	hiperemia conjuntival
-T5	SINTOMA 242 247	dolor
-T6	SINTOMA 437 461	defecto pupilar aferente
-T7	SINTOMA 249 257	lagrimeo
-T8	SINTOMA 1122 1151	aumento de la grasa orbitaria
-T9	SINTOMA 1425 1474	campo visual se observa una reducción concéntrica
-T10	SINTOMA 260 302	dificultad para abrir los párpados del ojo
-T11	SINTOMA 573 590	diplopia vertical
-T12	SINTOMA 1745 1812	engrosamiento distal de los músculos recto inferior y recto lateral
-T13	SINTOMA 328 350	exoftalmos ipsilateral
-T14	SINTOMA 598 620	exoftalmos ipsilateral
-T15	SINTOMA 759 776	mácula era normal
-T16	SINTOMA 1162 1239	ocupación de las celdillas etmoidales posteriores y de la fosa pterigomaxilar
-T17	SINTOMA 1662 1735	ocupación inespecífica de la fosa pterigopalatina y del vértice orbitario
-T18	SINTOMA 1616 1631	palidez papilar
-T19	SINTOMA 782 819	papila no presentaba edema ni palidez
-T20	SINTOMA 625 654	párpados edematosos a tensión
-T21	SINTOMA 1582 1609	reflejos pupilares normales
-T22	SINTOMA 526 568	restricciones en las supraducciones del OD
-T23	SINTOMA 937 990	TAC orbitario urgente en el que aparece engrosamiento
-T24	ENFERMEDAD 1554 1563	cataratas
-T25	ENFERMEDAD 75 99	arteritis de la temporal
-T26	ENFERMEDAD 328 338	exoftalmos
-T27	ENFERMEDAD 593 608	leve exoftalmos
-T28	ENFERMEDAD 1828 1849	pseudotumor orbitario
-T29	ENFERMEDAD 874 883	cataratas
-T30	ENFERMEDAD 573 590	diplopia vertical
-T31	ENFERMEDAD 437 470	defecto pupilar aferente relativo
-T32	PROCEDIMIENTO 136 152	glucocorticoides
-T33	PROCEDIMIENTO 1425 1437	campo visual
-T34	PROCEDIMIENTO 1536 1563	OD intervenido de cataratas
-T35	PROCEDIMIENTO 1636 1639	TAC
-T36	PROCEDIMIENTO 1645 1648	RMN
-T37	PROCEDIMIENTO 937 950	TAC orbitario
+T1	ENFERMEDAD 1554 1563	cataratas
+T2	ENFERMEDAD 75 99	arteritis de la temporal
+T3	ENFERMEDAD 328 338	exoftalmos
+T4	ENFERMEDAD 593 608	leve exoftalmos
+T5	ENFERMEDAD 1828 1849	pseudotumor orbitario
+T6	ENFERMEDAD 874 883	cataratas
+T7	ENFERMEDAD 573 590	diplopia vertical
+T8	ENFERMEDAD 437 470	defecto pupilar aferente relativo
+T9	PROCEDIMIENTO 937 950	TAC orbitario
+T10	PROCEDIMIENTO 1636 1639	TAC
+T11	PROCEDIMIENTO 1645 1648	RMN
+T12	PROCEDIMIENTO 136 152	glucocorticoides
+T13	PROCEDIMIENTO 1425 1437	campo visual
+T14	PROCEDIMIENTO 1536 1563	OD intervenido de cataratas
+T15	SINTOMA 31 38	astenia
+T16	SINTOMA 41 47	fatiga
+T17	SINTOMA 206 235	disminución de agudeza visual
+T18	SINTOMA 503 524	hiperemia conjuntival
+T19	SINTOMA 526 568	restricciones en las supraducciones del OD
+T20	SINTOMA 1662 1735	ocupación inespecífica de la fosa pterigopalatina y del vértice orbitario
+T21	SINTOMA 573 590	diplopia vertical
+T22	SINTOMA 1122 1151	aumento de la grasa orbitaria
+T23	SINTOMA 1162 1239	ocupación de las celdillas etmoidales posteriores y de la fosa pterigomaxilar
+T24	SINTOMA 625 654	párpados edematosos a tensión
+T25	SINTOMA 782 819	papila no presentaba edema ni palidez
+T26	SINTOMA 759 776	mácula era normal
+T27	SINTOMA 1582 1609	reflejos pupilares normales
+T28	SINTOMA 1616 1631	palidez papilar
+T29	SINTOMA 242 247	dolor
+T30	SINTOMA 328 350	exoftalmos ipsilateral
+T31	SINTOMA 437 461	defecto pupilar aferente
+T32	SINTOMA 1745 1812	engrosamiento distal de los músculos recto inferior y recto lateral
+T33	SINTOMA 237 239	AV
+T34	SINTOMA 249 257	lagrimeo
+T35	SINTOMA 260 302	dificultad para abrir los párpados del ojo
+T36	SINTOMA 598 620	exoftalmos ipsilateral
+T37	SINTOMA 937 990	TAC orbitario urgente en el que aparece engrosamiento
+T38	SINTOMA 1425 1474	campo visual se observa una reducción concéntrica

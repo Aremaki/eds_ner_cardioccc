@@ -1,23 +1,36 @@
-T1	SINTOMA 1117 1128	decaimiento
-T2	SINTOMA 1131 1162	dolor a la palpación de la piel
-T3	SINTOMA 360 377	exudado amigdalar
-T4	SINTOMA 839 855	exudado faríngeo
-T5	SINTOMA 1668 1695	hemocultivo resulta estéril
-T6	SINTOMA 95 122	lesiones cutáneas en tronco
-T7	SINTOMA 1554 1663	Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea
-T8	SINTOMA 382 432	test rápido de estreptococo en faringe es negativo
-T9	SINTOMA 1106 1115	febrícula
-T10	SINTOMA 172 179	Afebril
-T11	SINTOMA 867 874	afebril
-T12	SINTOMA 886 891	dolor
-T13	SINTOMA 125 145	prurito generalizado
-T14	SINTOMA 1178 1190	leucocitosis
-T15	SINTOMA 1208 1219	neutrofilia
-T16	PROCEDIMIENTO 1142 1162	palpación de la piel
-T17	PROCEDIMIENTO 1164 1173	Hemograma
-T18	PROCEDIMIENTO 1388 1411	antibiótico intravenoso
-T19	PROCEDIMIENTO 1444 1552	Sobre las lesiones palpebrales y periorales se aplican fomentos con borato sódico al 2% y pomada antibiótica
-T20	PROCEDIMIENTO 1534 1552	pomada antibiótica
-T21	PROCEDIMIENTO 1668 1679	hemocultivo
-T22	PROCEDIMIENTO 212 230	exploración física
-T23	PROCEDIMIENTO 382 420	test rápido de estreptococo en faringe
+T1	ENFERMEDAD 50 68	dermatitis atópica
+T2	ENFERMEDAD 590 608	afectación cutánea
+T3	ENFERMEDAD 614 696	lesiones eritematodescamativas pruriginosas en las regiones periocular y peribucal
+T4	ENFERMEDAD 702 755	placas salpicadas en el tronco y los grandes pliegues
+T5	ENFERMEDAD 776 825	sobreinfección y lesiones de rascado en el tronco
+T6	ENFERMEDAD 1322 1348	síndrome de piel escaldada
+T7	ENFERMEDAD 931 968	dermatitis atópica con sobreinfección
+T8	ENFERMEDAD 1454 1487	lesiones palpebrales y periorales
+T9	ENFERMEDAD 452 482	urticaria aguda parainfecciosa
+T10	ENFERMEDAD 485 531	faringoamigdalitis de probable etiología viral
+T11	ENFERMEDAD 95 122	lesiones cutáneas en tronco
+T12	ENFERMEDAD 243 292	lesiones eritematosas no confluentes en el tronco
+T13	PROCEDIMIENTO 1142 1162	palpación de la piel
+T14	PROCEDIMIENTO 1164 1173	Hemograma
+T15	PROCEDIMIENTO 212 230	exploración física
+T16	PROCEDIMIENTO 1388 1411	antibiótico intravenoso
+T17	PROCEDIMIENTO 382 420	test rápido de estreptococo en faringe
+T18	PROCEDIMIENTO 1534 1552	pomada antibiótica
+T19	PROCEDIMIENTO 1668 1679	hemocultivo
+T20	PROCEDIMIENTO 1444 1552	Sobre las lesiones palpebrales y periorales se aplican fomentos con borato sódico al 2% y pomada antibiótica
+T21	PROCEDIMIENTO 1610 1639	exudado conjuntival, faríngeo
+T22	SINTOMA 1106 1115	febrícula
+T23	SINTOMA 95 122	lesiones cutáneas en tronco
+T24	SINTOMA 1117 1128	decaimiento
+T25	SINTOMA 1131 1162	dolor a la palpación de la piel
+T26	SINTOMA 172 179	Afebril
+T27	SINTOMA 839 855	exudado faríngeo
+T28	SINTOMA 867 874	afebril
+T29	SINTOMA 886 891	dolor
+T30	SINTOMA 360 377	exudado amigdalar
+T31	SINTOMA 125 145	prurito generalizado
+T32	SINTOMA 1668 1695	hemocultivo resulta estéril
+T33	SINTOMA 1178 1190	leucocitosis
+T34	SINTOMA 1208 1219	neutrofilia
+T35	SINTOMA 382 432	test rápido de estreptococo en faringe es negativo
+T36	SINTOMA 1554 1663	Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea

@@ -1,18 +1,18 @@
-T1	SINTOMA 89 106	dolor neuropático
-T2	SINTOMA 752 757	dolor
-T3	SINTOMA 1455 1460	dolor
-T4	SINTOMA 160 180	alodinia en la ingle
-T5	SINTOMA 795 838	hipersensibilidad en región inguinoescrotal
-T6	SINTOMA 881 934	percusión sobre espina iliaca anterosuperior negativa
-T7	SINTOMA 850 879	reflejo cremastérico positivo
-T8	ENFERMEDAD 89 106	dolor neuropático
-T9	PROCEDIMIENTO 1070 1202	radiofrecuencia pulsada con cánula con punta activa de 10 mm en los nervio ilioinguinal, iliohipogástrico y genitofemoral izquierdos
-T10	PROCEDIMIENTO 1211 1227	prueba sensitiva
-T11	PROCEDIMIENTO 1316 1338	control de temperatura
-T12	PROCEDIMIENTO 1367 1429	aplicándose además anestésico local y esteroide en cada nervio
-T13	PROCEDIMIENTO 208 241	herniorrafia inguinal ipsilateral
-T14	PROCEDIMIENTO 368 383	antiepilépticos
-T15	PROCEDIMIENTO 385 393	opioides
-T16	PROCEDIMIENTO 417 452	antidepresivos tricíclicos y duales
-T17	PROCEDIMIENTO 574 717	bloqueo guiado por ecografía de los nervios ilioinguinal, iliohipogástrico y genitofemoral izquierdos con anestésico local asociado a esteroide
-T18	PROCEDIMIENTO 881 925	percusión sobre espina iliaca anterosuperior
+T1	ENFERMEDAD 89 106	dolor neuropático
+T2	PROCEDIMIENTO 208 241	herniorrafia inguinal ipsilateral
+T3	PROCEDIMIENTO 368 383	antiepilépticos
+T4	PROCEDIMIENTO 385 393	opioides
+T5	PROCEDIMIENTO 417 452	antidepresivos tricíclicos y duales
+T6	PROCEDIMIENTO 574 717	bloqueo guiado por ecografía de los nervios ilioinguinal, iliohipogástrico y genitofemoral izquierdos con anestésico local asociado a esteroide
+T7	PROCEDIMIENTO 881 925	percusión sobre espina iliaca anterosuperior
+T8	PROCEDIMIENTO 1070 1202	radiofrecuencia pulsada con cánula con punta activa de 10 mm en los nervio ilioinguinal, iliohipogástrico y genitofemoral izquierdos
+T9	PROCEDIMIENTO 1211 1227	prueba sensitiva
+T10	PROCEDIMIENTO 1316 1338	control de temperatura
+T11	PROCEDIMIENTO 1367 1429	aplicándose además anestésico local y esteroide en cada nervio
+T12	SINTOMA 89 106	dolor neuropático
+T13	SINTOMA 160 180	alodinia en la ingle
+T14	SINTOMA 752 757	dolor
+T15	SINTOMA 795 838	hipersensibilidad en región inguinoescrotal
+T16	SINTOMA 1455 1460	dolor
+T17	SINTOMA 850 879	reflejo cremastérico positivo
+T18	SINTOMA 881 934	percusión sobre espina iliaca anterosuperior negativa

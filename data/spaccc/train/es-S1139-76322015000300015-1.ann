@@ -1,21 +1,32 @@
-T1	SINTOMA 1076 1111	aumento del tamaño de las parótidas
-T2	SINTOMA 974 999	elevación de la α-amilasa
-T3	SINTOMA 1518 1558	estudio de inmunidad, que ha sido normal
-T4	SINTOMA 1594 1622	estudio serológico, negativo
-T5	SINTOMA 217 226	hinchazón
-T6	SINTOMA 1560 1591	pruebas reumatoideas, negativas
-T7	SINTOMA 1635 1686	serología vacunal antiparotiditis, que fue positiva
-T8	SINTOMA 775 817	signos inflamatorios de conducto de Stenon
-T9	SINTOMA 641 666	tumoración laterocervical
-T10	SINTOMA 500 529	afectación del estado general
-T11	SINTOMA 208 215	eritema
-T12	SINTOMA 229 234	dolor
-T13	SINTOMA 251 257	fiebre
-T14	SINTOMA 881 893	leucocitosis
-T15	SINTOMA 748 759	fluctuación
-T16	SINTOMA 763 772	secreción
-T17	SINTOMA 911 922	neutrofilia
-T18	SINTOMA 17 21	sano
-T19	ENFERMEDAD 64 77	criptorquidia
-T20	ENFERMEDAD 171 202	inflamación parotídea bilateral
-T21	ENFERMEDAD 641 676	tumoración laterocervical bilateral
+T1	ENFERMEDAD 64 77	criptorquidia
+T2	ENFERMEDAD 171 202	inflamación parotídea bilateral
+T3	ENFERMEDAD 641 676	tumoración laterocervical bilateral
+T4	PROCEDIMIENTO 1518 1538	estudio de inmunidad
+T5	PROCEDIMIENTO 1560 1580	pruebas reumatoideas
+T6	PROCEDIMIENTO 608 626	exploración física
+T7	PROCEDIMIENTO 1594 1612	estudio serológico
+T8	PROCEDIMIENTO 1635 1668	serología vacunal antiparotiditis
+T9	PROCEDIMIENTO 326 356	antiinflamatorios por vía oral
+T10	PROCEDIMIENTO 834 853	analítica sanguínea
+T11	PROCEDIMIENTO 1052 1061	ecografía
+T12	PROCEDIMIENTO 1314 1323	analgesia
+T13	PROCEDIMIENTO 1326 1343	antiinflamatorios
+T14	PROCEDIMIENTO 94 102	vacunado
+T15	SINTOMA 500 529	afectación del estado general
+T16	SINTOMA 208 215	eritema
+T17	SINTOMA 217 226	hinchazón
+T18	SINTOMA 229 234	dolor
+T19	SINTOMA 251 257	fiebre
+T20	SINTOMA 775 817	signos inflamatorios de conducto de Stenon
+T21	SINTOMA 881 893	leucocitosis
+T22	SINTOMA 974 999	elevación de la α-amilasa
+T23	SINTOMA 1076 1111	aumento del tamaño de las parótidas
+T24	SINTOMA 748 759	fluctuación
+T25	SINTOMA 763 772	secreción
+T26	SINTOMA 1518 1558	estudio de inmunidad, que ha sido normal
+T27	SINTOMA 1560 1591	pruebas reumatoideas, negativas
+T28	SINTOMA 1594 1622	estudio serológico, negativo
+T29	SINTOMA 1635 1686	serología vacunal antiparotiditis, que fue positiva
+T30	SINTOMA 911 922	neutrofilia
+T31	SINTOMA 641 666	tumoración laterocervical
+T32	SINTOMA 17 21	sano

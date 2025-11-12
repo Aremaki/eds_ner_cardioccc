@@ -1,17 +1,17 @@
-T1	SINTOMA 603 620	deterioro clínico
-T2	ENFERMEDAD 52 81	fibrilación auricular crónica
-T3	ENFERMEDAD 97 123	isquemia intestinal masiva
-T4	ENFERMEDAD 447 470	enfermedad de Parkinson
-T5	ENFERMEDAD 637 661	neumonía de la comunidad
-T6	ENFERMEDAD 728 759	infecciones asociadas a catéter
-T7	ENFERMEDAD 989 1013	esteatosis hepática leve
-T8	ENFERMEDAD 769 778	infección
-T9	PROCEDIMIENTO 1141 1144	NPD
-T10	PROCEDIMIENTO 1273 1276	NPD
-T11	PROCEDIMIENTO 128 194	resección de yeyuno, ileon, colon ascendente y mitad de transverso
-T12	PROCEDIMIENTO 212 237	anastomosis yeyuno-cólica
-T13	PROCEDIMIENTO 311 314	NPD
-T14	PROCEDIMIENTO 542 545	NPD
-T15	PROCEDIMIENTO 817 820	NPD
-T16	PROCEDIMIENTO 864 884	recambiar el catéter
-T17	PROCEDIMIENTO 981 984	NPD
+T1	ENFERMEDAD 52 81	fibrilación auricular crónica
+T2	ENFERMEDAD 97 123	isquemia intestinal masiva
+T3	ENFERMEDAD 447 470	enfermedad de Parkinson
+T4	ENFERMEDAD 637 661	neumonía de la comunidad
+T5	ENFERMEDAD 728 759	infecciones asociadas a catéter
+T6	ENFERMEDAD 989 1013	esteatosis hepática leve
+T7	ENFERMEDAD 769 778	infección
+T8	PROCEDIMIENTO 128 194	resección de yeyuno, ileon, colon ascendente y mitad de transverso
+T9	PROCEDIMIENTO 212 237	anastomosis yeyuno-cólica
+T10	PROCEDIMIENTO 311 314	NPD
+T11	PROCEDIMIENTO 542 545	NPD
+T12	PROCEDIMIENTO 817 820	NPD
+T13	PROCEDIMIENTO 864 884	recambiar el catéter
+T14	PROCEDIMIENTO 981 984	NPD
+T15	PROCEDIMIENTO 1141 1144	NPD
+T16	PROCEDIMIENTO 1273 1276	NPD
+T17	SINTOMA 603 620	deterioro clínico

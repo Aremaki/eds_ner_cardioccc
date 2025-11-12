@@ -1,24 +1,24 @@
-T1	SINTOMA 214 232	bolsas palpebrales
-T2	SINTOMA 1176 1194	bolsas palpebrales
-T3	SINTOMA 375 408	examen funcional ocular es normal
-T4	SINTOMA 877 896	formación palpebral
-T5	SINTOMA 500 557	formación sólida en la región súpero-externa de la órbita
-T6	SINTOMA 42 103	tumoración en párpado superior izquierdo recidivada, indolora
-T7	ENFERMEDAD 303 312	chalazión
-T8	ENFERMEDAD 1487 1500	tumor benigno
-T9	ENFERMEDAD 1354 1370	recidiva tumoral
-T10	ENFERMEDAD 187 202	blefarochalasia
-T11	ENFERMEDAD 627 653	tumor de glándula lagrimal
-T12	ENFERMEDAD 1817 1838	schwannoma de párpado
-T13	ENFERMEDAD 349 355	lesión
-T14	ENFERMEDAD 859 865	lesión
-T15	ENFERMEDAD 214 232	bolsas palpebrales
-T16	ENFERMEDAD 737 742	tumor
+T1	ENFERMEDAD 303 312	chalazión
+T2	ENFERMEDAD 1487 1500	tumor benigno
+T3	ENFERMEDAD 1354 1370	recidiva tumoral
+T4	ENFERMEDAD 187 202	blefarochalasia
+T5	ENFERMEDAD 627 653	tumor de glándula lagrimal
+T6	ENFERMEDAD 1817 1838	schwannoma de párpado
+T7	ENFERMEDAD 349 355	lesión
+T8	ENFERMEDAD 859 865	lesión
+T9	ENFERMEDAD 214 232	bolsas palpebrales
+T10	ENFERMEDAD 737 742	tumor
+T11	PROCEDIMIENTO 1407 1432	estudio anatomopatológico
+T12	PROCEDIMIENTO 438 473	TAC con contraste del macizo facial
+T13	PROCEDIMIENTO 271 312	extirpación transconjuntival de chalazión
+T14	PROCEDIMIENTO 712 742	resección quirúrgica del tumor
+T15	PROCEDIMIENTO 771 814	blefaroplastia estética superior e inferior
+T16	PROCEDIMIENTO 375 398	examen funcional ocular
 T17	PROCEDIMIENTO 1060 1155	blefaroplastia superior se realizó según técnica clásica y la inferior por vía transconjuntival
 T18	PROCEDIMIENTO 1161 1227	extirpación de bolsas palpebrales tanto superiores como inferiores
-T19	PROCEDIMIENTO 1407 1432	estudio anatomopatológico
-T20	PROCEDIMIENTO 271 312	extirpación transconjuntival de chalazión
-T21	PROCEDIMIENTO 375 398	examen funcional ocular
-T22	PROCEDIMIENTO 438 473	TAC con contraste del macizo facial
-T23	PROCEDIMIENTO 712 742	resección quirúrgica del tumor
-T24	PROCEDIMIENTO 771 814	blefaroplastia estética superior e inferior
+T19	SINTOMA 500 557	formación sólida en la región súpero-externa de la órbita
+T20	SINTOMA 375 408	examen funcional ocular es normal
+T21	SINTOMA 42 103	tumoración en párpado superior izquierdo recidivada, indolora
+T22	SINTOMA 214 232	bolsas palpebrales
+T23	SINTOMA 877 896	formación palpebral
+T24	SINTOMA 1176 1194	bolsas palpebrales

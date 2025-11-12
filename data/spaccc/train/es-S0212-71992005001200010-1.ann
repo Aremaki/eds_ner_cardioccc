@@ -1,67 +1,67 @@
-T1	SINTOMA 2747 2759	asintomático
-T2	SINTOMA 2672 2691	buen estado general
-T3	SINTOMA 2282 2304	EBER(VEB) fue positivo
-T4	SINTOMA 3813 3850	fórmula leucocitaria sin alteraciones
-T5	SINTOMA 3407 3417	granulomas
-T6	SINTOMA 3766 3807	hemoglobina y de leucocitos eran normales
-T7	SINTOMA 3580 3701	LDH y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad
-T8	SINTOMA 1119 1164	masa de partes balndas en la celda submaxilar
-T9	SINTOMA 956 971	masa intranasal
-T10	SINTOMA 521 536	masa intranasal
-T11	SINTOMA 2791 2808	obstrucción nasal
-T12	SINTOMA 346 363	obstrucción nasal
-T13	SINTOMA 431 449	rinorrea purulenta
-T14	SINTOMA 455 486	sensación de taponamiento nasal
-T15	SINTOMA 3706 3750	serología para VIH, VHB y VHC eran negativos
-T16	SINTOMA 2728 2744	sintomatología B
-T17	SINTOMA 659 672	trombocitosis
-T18	SINTOMA 3986 3999	trombocitosis
-T19	SINTOMA 3871 3884	trombocitosis
-T20	SINTOMA 539 563	tumoración submandibular
-T21	SINTOMA 1024 1048	tumoración submandibular
-T22	SINTOMA 1978 2002	tumoración submandibular
-T23	ENFERMEDAD 1495 1512	lesión intranasal
-T24	ENFERMEDAD 3922 3959	Linfoma NK extraganglionar tipo nasal
-T25	ENFERMEDAD 3986 4008	trombocitosis reactiva
-T26	ENFERMEDAD 124 148	mononucleosis infecciosa
-T27	ENFERMEDAD 165 183	fractura del brazo
-T28	ENFERMEDAD 207 223	obesidad mórbida
-T29	ENFERMEDAD 228 247	esteatosis hepática
-T30	ENFERMEDAD 2791 2818	obstrucción nasal izquierda
-T31	ENFERMEDAD 1148 1215	celda submaxilar izquierda, con áreas de necrosis o abscesificación
-T32	ENFERMEDAD 3375 3388	mielofibrosis
-T33	ENFERMEDAD 3553 3575	trombocitemia esencial
-T34	ENFERMEDAD 3001 3023	trombocitemia esencial
-T35	ENFERMEDAD 776 798	trombocitemia esencial
-T36	ENFERMEDAD 1978 2082	tumoración submandibular evidenciaba una infiltración masiva por células neoplásicas de estirpe linfoide
-T37	ENFERMEDAD 1444 1466	quiste paralateronasal
-T38	ENFERMEDAD 2520 2557	Linfoma NK extraganglionar tipo nasal
-T39	ENFERMEDAD 56 79	alergias medicamentosas
-T40	ENFERMEDAD 346 363	obstrucción nasal
-T41	ENFERMEDAD 1270 1292	componente adenopático
-T42	ENFERMEDAD 3433 3457	infiltración linfomatosa
-T43	PROCEDIMIENTO 1063 1102	tomografía computerizada cervico-facial
-T44	PROCEDIMIENTO 1481 1512	biopsia de la lesión intranasal
-T45	PROCEDIMIENTO 1807 1821	inmunofenotipo
-T46	PROCEDIMIENTO 1866 1884	inmunohistoquímica
-T47	PROCEDIMIENTO 1964 2002	biopsia de la tumoración submandibular
-T48	PROCEDIMIENTO 2213 2227	inmunofenotipo
-T49	PROCEDIMIENTO 2264 2286	determinación del EBER
-T50	PROCEDIMIENTO 265 283	cirugía bariatrica
-T51	PROCEDIMIENTO 2835 2855	estudio de extensión
-T52	PROCEDIMIENTO 2860 2901	tomografía computerizada toraco-abdominal
-T53	PROCEDIMIENTO 2948 2970	biopsia de médula ósea
-T54	PROCEDIMIENTO 3025 3035	bioquímica
-T55	PROCEDIMIENTO 3040 3062	perfil renal, hepático
-T56	PROCEDIMIENTO 3064 3077	proteinograma
-T57	PROCEDIMIENTO 3119 3143	examen de la médula ósea
-T58	PROCEDIMIENTO 3462 3484	estudio de médula ósea
-T59	PROCEDIMIENTO 3706 3735	serología para VIH, VHB y VHC
-T60	PROCEDIMIENTO 3813 3833	fórmula leucocitaria
-T61	PROCEDIMIENTO 4045 4078	tratamiento con poliquimioterapia
-T62	PROCEDIMIENTO 4090 4113	radioterapia secuencial
-T63	PROCEDIMIENTO 4140 4174	trasplante autólogo de médula ósea
-T64	PROCEDIMIENTO 813 844	aspirado/biopsia de médula ósea
-T65	PROCEDIMIENTO 864 873	hemograma
-T66	PROCEDIMIENTO 942 971	biopsia de la masa intranasal
-T67	PROCEDIMIENTO 999 1058	biopsia incisional de la tumoración submandibular izquierda
+T1	ENFERMEDAD 1495 1512	lesión intranasal
+T2	ENFERMEDAD 3922 3959	Linfoma NK extraganglionar tipo nasal
+T3	ENFERMEDAD 3986 4008	trombocitosis reactiva
+T4	ENFERMEDAD 124 148	mononucleosis infecciosa
+T5	ENFERMEDAD 165 183	fractura del brazo
+T6	ENFERMEDAD 207 223	obesidad mórbida
+T7	ENFERMEDAD 228 247	esteatosis hepática
+T8	ENFERMEDAD 2791 2818	obstrucción nasal izquierda
+T9	ENFERMEDAD 1148 1215	celda submaxilar izquierda, con áreas de necrosis o abscesificación
+T10	ENFERMEDAD 3375 3388	mielofibrosis
+T11	ENFERMEDAD 3553 3575	trombocitemia esencial
+T12	ENFERMEDAD 3001 3023	trombocitemia esencial
+T13	ENFERMEDAD 776 798	trombocitemia esencial
+T14	ENFERMEDAD 1978 2082	tumoración submandibular evidenciaba una infiltración masiva por células neoplásicas de estirpe linfoide
+T15	ENFERMEDAD 1444 1466	quiste paralateronasal
+T16	ENFERMEDAD 2520 2557	Linfoma NK extraganglionar tipo nasal
+T17	ENFERMEDAD 56 79	alergias medicamentosas
+T18	ENFERMEDAD 346 363	obstrucción nasal
+T19	ENFERMEDAD 1270 1292	componente adenopático
+T20	ENFERMEDAD 3433 3457	infiltración linfomatosa
+T21	PROCEDIMIENTO 3119 3143	examen de la médula ósea
+T22	PROCEDIMIENTO 1481 1512	biopsia de la lesión intranasal
+T23	PROCEDIMIENTO 942 971	biopsia de la masa intranasal
+T24	PROCEDIMIENTO 999 1058	biopsia incisional de la tumoración submandibular izquierda
+T25	PROCEDIMIENTO 3706 3735	serología para VIH, VHB y VHC
+T26	PROCEDIMIENTO 4045 4078	tratamiento con poliquimioterapia
+T27	PROCEDIMIENTO 1063 1102	tomografía computerizada cervico-facial
+T28	PROCEDIMIENTO 4090 4113	radioterapia secuencial
+T29	PROCEDIMIENTO 4140 4174	trasplante autólogo de médula ósea
+T30	PROCEDIMIENTO 265 283	cirugía bariatrica
+T31	PROCEDIMIENTO 2860 2901	tomografía computerizada toraco-abdominal
+T32	PROCEDIMIENTO 3462 3484	estudio de médula ósea
+T33	PROCEDIMIENTO 2948 2970	biopsia de médula ósea
+T34	PROCEDIMIENTO 1964 2002	biopsia de la tumoración submandibular
+T35	PROCEDIMIENTO 813 844	aspirado/biopsia de médula ósea
+T36	PROCEDIMIENTO 864 873	hemograma
+T37	PROCEDIMIENTO 2264 2286	determinación del EBER
+T38	PROCEDIMIENTO 2835 2855	estudio de extensión
+T39	PROCEDIMIENTO 3813 3833	fórmula leucocitaria
+T40	PROCEDIMIENTO 1807 1821	inmunofenotipo
+T41	PROCEDIMIENTO 2213 2227	inmunofenotipo
+T42	PROCEDIMIENTO 1866 1884	inmunohistoquímica
+T43	PROCEDIMIENTO 3064 3077	proteinograma
+T44	PROCEDIMIENTO 3040 3062	perfil renal, hepático
+T45	PROCEDIMIENTO 3025 3035	bioquímica
+T46	SINTOMA 346 363	obstrucción nasal
+T47	SINTOMA 956 971	masa intranasal
+T48	SINTOMA 2672 2691	buen estado general
+T49	SINTOMA 431 449	rinorrea purulenta
+T50	SINTOMA 521 536	masa intranasal
+T51	SINTOMA 2747 2759	asintomático
+T52	SINTOMA 2728 2744	sintomatología B
+T53	SINTOMA 3766 3807	hemoglobina y de leucocitos eran normales
+T54	SINTOMA 3871 3884	trombocitosis
+T55	SINTOMA 455 486	sensación de taponamiento nasal
+T56	SINTOMA 539 563	tumoración submandibular
+T57	SINTOMA 1024 1048	tumoración submandibular
+T58	SINTOMA 1119 1164	masa de partes balndas en la celda submaxilar
+T59	SINTOMA 1978 2002	tumoración submandibular
+T60	SINTOMA 3706 3750	serología para VIH, VHB y VHC eran negativos
+T61	SINTOMA 3813 3850	fórmula leucocitaria sin alteraciones
+T62	SINTOMA 659 672	trombocitosis
+T63	SINTOMA 2282 2304	EBER(VEB) fue positivo
+T64	SINTOMA 2791 2808	obstrucción nasal
+T65	SINTOMA 3580 3701	LDH y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad
+T66	SINTOMA 3986 3999	trombocitosis
+T67	SINTOMA 3407 3417	granulomas

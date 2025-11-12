@@ -1,10 +1,30 @@
-T1	SINTOMA 747 759	claudicación
-T2	SINTOMA 1241 1278	pie de aspecto isquémico, dedos fríos
-T3	SINTOMA 1321 1326	dolor
-T4	ENFERMEDAD 100 109	exfumador
-T5	ENFERMEDAD 136 160	diabetes mellitus tipo 2
-T6	ENFERMEDAD 162 181	hipercolesterolemia
-T7	ENFERMEDAD 199 236	anticuerpo antifosfolípido circulante
-T8	ENFERMEDAD 261 288	trombosis venosas profundas
-T9	ENFERMEDAD 1523 1552	microinfartos de pequeño vaso
-T10	ENFERMEDAD 30 53	alergias medicamentosas
+T1	ENFERMEDAD 100 109	exfumador
+T2	ENFERMEDAD 136 160	diabetes mellitus tipo 2
+T3	ENFERMEDAD 162 181	hipercolesterolemia
+T4	ENFERMEDAD 199 236	anticuerpo antifosfolípido circulante
+T5	ENFERMEDAD 261 288	trombosis venosas profundas
+T6	ENFERMEDAD 1523 1552	microinfartos de pequeño vaso
+T7	ENFERMEDAD 30 53	alergias medicamentosas
+T8	PROCEDIMIENTO 812 877	by-pass íleo-femoral bilateral con colocación de catéter epidural
+T9	PROCEDIMIENTO 883 892	analgesia
+T10	PROCEDIMIENTO 1015 1078	by-pass de femoral común con safena interna en pierna izquierda
+T11	PROCEDIMIENTO 360 406	se le había colocado un stent ilíaco izquierdo
+T12	PROCEDIMIENTO 414 454	by-pass fémoro-femoral izquierda-derecha
+T13	PROCEDIMIENTO 490 536	dilatación con crioterapia de ilíaca izquierda
+T14	PROCEDIMIENTO 582 656	by-pass fémoro-poplíteo a primera porción en el miembro inferior izquierdo
+T15	PROCEDIMIENTO 1448 1466	corticoides orales
+T16	PROCEDIMIENTO 1585 1622	amputación de tercio anterior del pie
+T17	PROCEDIMIENTO 1755 1771	catéter epidural
+T18	PROCEDIMIENTO 1816 1838	anticoagulantes orales
+T19	PROCEDIMIENTO 1864 1879	catéter ciático
+T20	PROCEDIMIENTO 1973 2026	neuroestimulación y por vía proximal posterior glútea
+T21	PROCEDIMIENTO 2203 2225	colocación del catéter
+T22	PROCEDIMIENTO 2259 2274	catéter ciático
+T23	PROCEDIMIENTO 2321 2341	analgesia endovenosa
+T24	PROCEDIMIENTO 1161 1170	analgesia
+T25	PROCEDIMIENTO 360 454	se le había colocado un stent ilíaco izquierdo más un by-pass fémoro-femoral izquierda-derecha
+T26	PROCEDIMIENTO 2066 2091	perfusión con bupivacaína
+T27	PROCEDIMIENTO 1392 1435	bolos de 5 mg de cloruro mórfico subcutáneo
+T28	SINTOMA 1321 1326	dolor
+T29	SINTOMA 1241 1278	pie de aspecto isquémico, dedos fríos
+T30	SINTOMA 747 759	claudicación

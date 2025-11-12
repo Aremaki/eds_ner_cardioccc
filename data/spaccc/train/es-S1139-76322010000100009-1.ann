@@ -1,12 +1,22 @@
-T1	SINTOMA 1708 1729	diastema interincisal
-T2	SINTOMA 839 860	diastema interincisal
-T3	SINTOMA 168 229	exfoliación de los cuatro incisivos superiores sin erupcionar
-T4	SINTOMA 622 649	mesiodens en la línea media
-T5	SINTOMA 291 397	tumefacción en el cortical vestibular que correspondía a las coronas de los incisivos centrales superiores
-T6	ENFERMEDAD 622 631	mesiodens
-T7	ENFERMEDAD 1319 1328	mesiodens
-T8	ENFERMEDAD 1183 1192	mesiodens
-T9	ENFERMEDAD 1463 1472	mesiodens
-T10	ENFERMEDAD 168 214	exfoliación de los cuatro incisivos superiores
-T11	ENFERMEDAD 839 860	diastema interincisal
-T12	ENFERMEDAD 1003 1026	dientes supernumerarios
+T1	ENFERMEDAD 622 631	mesiodens
+T2	ENFERMEDAD 1319 1328	mesiodens
+T3	ENFERMEDAD 1183 1192	mesiodens
+T4	ENFERMEDAD 1463 1472	mesiodens
+T5	ENFERMEDAD 168 214	exfoliación de los cuatro incisivos superiores
+T6	ENFERMEDAD 839 860	diastema interincisal
+T7	ENFERMEDAD 1003 1026	dientes supernumerarios
+T8	PROCEDIMIENTO 131 152	exploración intraoral
+T9	PROCEDIMIENTO 264 273	palpación
+T10	PROCEDIMIENTO 479 496	ortopantomografía
+T11	PROCEDIMIENTO 985 1026	extracción de los dientes supernumerarios
+T12	PROCEDIMIENTO 1154 1192	extracción quirúrgica de los mesiodens
+T13	PROCEDIMIENTO 1438 1482	exodoncia quirúrgica del mesiodens izquierdo
+T14	PROCEDIMIENTO 1659 1682	tratamiento ortodóncico
+T15	PROCEDIMIENTO 581 592	radiografía
+T16	PROCEDIMIENTO 1206 1213	cirugía
+T17	PROCEDIMIENTO 1395 1407	intervención
+T18	SINTOMA 168 229	exfoliación de los cuatro incisivos superiores sin erupcionar
+T19	SINTOMA 291 397	tumefacción en el cortical vestibular que correspondía a las coronas de los incisivos centrales superiores
+T20	SINTOMA 839 860	diastema interincisal
+T21	SINTOMA 1708 1729	diastema interincisal
+T22	SINTOMA 622 649	mesiodens en la línea media

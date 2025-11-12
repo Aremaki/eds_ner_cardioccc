@@ -1,36 +1,59 @@
-T1	SINTOMA 998 1019	abdomen era globuloso
-T2	SINTOMA 913 942	Auscultación cardiaca rítmica
-T3	SINTOMA 965 993	Auscultación pulmonar normal
-T4	SINTOMA 703 720	clínica digestiva
-T5	SINTOMA 152 169	deterioro clínico
-T6	SINTOMA 1021 1067	doloroso a la palpación en hemiabdomen derecho
-T7	SINTOMA 766 787	elevación de GGT y FA
-T8	SINTOMA 2588 2653	Enterobacter cloacae, también aislado en sangre y muestra de PAAF
-T9	SINTOMA 820 830	estuporosa
-T10	SINTOMA 2160 2166	exitus
-T11	SINTOMA 847 867	hipotensión arterial
-T12	SINTOMA 832 840	ictérica
-T13	SINTOMA 1636 1678	imágenes hipodensas en parénquima hepático
-T14	SINTOMA 1090 1111	irritación peritoneal
-T15	SINTOMA 1186 1198	leucocitosis
-T16	SINTOMA 1216 1227	neutrofilia
-T17	SINTOMA 2283 2290	nódulos
-T18	SINTOMA 957 963	soplos
-T19	PROCEDIMIENTO 1035 1067	palpación en hemiabdomen derecho
-T20	PROCEDIMIENTO 1166 1175	analítica
-T21	PROCEDIMIENTO 1425 1515	tratamiento con fluidoterapia, dopamina y antibiótico empírico con piperacilina/tazobactam
-T22	PROCEDIMIENTO 1588 1601	TAC-abdominal
-T23	PROCEDIMIENTO 1702 1747	Ecocardiograma transtorácico y transesofágico
-T24	PROCEDIMIENTO 1918 1941	tratamiento antibiótico
-T25	PROCEDIMIENTO 1943 1970	PAAF de una lesión hepática
-T26	PROCEDIMIENTO 1972 1976	ERCP
-T27	PROCEDIMIENTO 2036 2079	papilotomía para asegurar el drenaje biliar
-T28	PROCEDIMIENTO 2215 2224	necropsia
-T29	PROCEDIMIENTO 2618 2653	aislado en sangre y muestra de PAAF
-T30	PROCEDIMIENTO 311 348	resección de adenoma tubular de colón
-T31	PROCEDIMIENTO 384 399	colecistectomía
-T32	PROCEDIMIENTO 493 526	resección subtotal de la vesícula
-T33	PROCEDIMIENTO 647 660	dicumarínicos
-T34	PROCEDIMIENTO 794 805	exploración
-T35	PROCEDIMIENTO 913 934	Auscultación cardiaca
-T36	PROCEDIMIENTO 965 986	Auscultación pulmonar
+T1	ENFERMEDAD 89 111	síndrome postflebítico
+T2	ENFERMEDAD 234 246	sepsis grave
+T3	ENFERMEDAD 285 288	HTA
+T4	ENFERMEDAD 290 298	obesidad
+T5	ENFERMEDAD 300 308	artrosis
+T6	ENFERMEDAD 324 348	adenoma tubular de colón
+T7	ENFERMEDAD 404 475	colecistitis litiásica con importante plastrón inflamatorio subhepático
+T8	ENFERMEDAD 554 564	TVP de EII
+T9	ENFERMEDAD 569 572	TEP
+T10	ENFERMEDAD 585 606	fibrilación auricular
+T11	ENFERMEDAD 847 867	hipotensión arterial
+T12	ENFERMEDAD 1390 1413	sepsis de origen biliar
+T13	ENFERMEDAD 1779 1818	endocarditis a nivel subvalvular mitral
+T14	ENFERMEDAD 1955 1970	lesión hepática
+T15	ENFERMEDAD 1992 2016	dilatación de via biliar
+T16	ENFERMEDAD 2141 2145	SDMO
+T17	ENFERMEDAD 2236 2267	colangiocarcinoma multicéntrico
+T18	ENFERMEDAD 2569 2608	sobreinfección por Enterobacter cloacae
+T19	ENFERMEDAD 1152 1161	trombosis
+T20	ENFERMEDAD 2713 2727	cuadro séptico
+T21	ENFERMEDAD 1692 1700	abscesos
+T22	ENFERMEDAD 2310 2377	extensión local al lecho vesicular y a vías biliares extrahepáticas
+T23	ENFERMEDAD 2379 2441	metástasis regionales a ganglios linfáticos del hilio hepático
+T24	PROCEDIMIENTO 311 348	resección de adenoma tubular de colón
+T25	PROCEDIMIENTO 384 399	colecistectomía
+T26	PROCEDIMIENTO 493 526	resección subtotal de la vesícula
+T27	PROCEDIMIENTO 647 660	dicumarínicos
+T28	PROCEDIMIENTO 913 934	Auscultación cardiaca
+T29	PROCEDIMIENTO 965 986	Auscultación pulmonar
+T30	PROCEDIMIENTO 1425 1515	tratamiento con fluidoterapia, dopamina y antibiótico empírico con piperacilina/tazobactam
+T31	PROCEDIMIENTO 1588 1601	TAC-abdominal
+T32	PROCEDIMIENTO 1702 1747	Ecocardiograma transtorácico y transesofágico
+T33	PROCEDIMIENTO 1918 1941	tratamiento antibiótico
+T34	PROCEDIMIENTO 1943 1970	PAAF de una lesión hepática
+T35	PROCEDIMIENTO 1972 1976	ERCP
+T36	PROCEDIMIENTO 2036 2079	papilotomía para asegurar el drenaje biliar
+T37	PROCEDIMIENTO 2215 2224	necropsia
+T38	PROCEDIMIENTO 2618 2653	aislado en sangre y muestra de PAAF
+T39	PROCEDIMIENTO 1166 1175	analítica
+T40	PROCEDIMIENTO 794 805	exploración
+T41	PROCEDIMIENTO 1035 1067	palpación en hemiabdomen derecho
+T42	SINTOMA 820 830	estuporosa
+T43	SINTOMA 832 840	ictérica
+T44	SINTOMA 998 1019	abdomen era globuloso
+T45	SINTOMA 1021 1067	doloroso a la palpación en hemiabdomen derecho
+T46	SINTOMA 965 993	Auscultación pulmonar normal
+T47	SINTOMA 1186 1198	leucocitosis
+T48	SINTOMA 1216 1227	neutrofilia
+T49	SINTOMA 957 963	soplos
+T50	SINTOMA 2283 2290	nódulos
+T51	SINTOMA 913 942	Auscultación cardiaca rítmica
+T52	SINTOMA 703 720	clínica digestiva
+T53	SINTOMA 1090 1111	irritación peritoneal
+T54	SINTOMA 2588 2653	Enterobacter cloacae, también aislado en sangre y muestra de PAAF
+T55	SINTOMA 2160 2166	exitus
+T56	SINTOMA 766 787	elevación de GGT y FA
+T57	SINTOMA 1636 1678	imágenes hipodensas en parénquima hepático
+T58	SINTOMA 847 867	hipotensión arterial
+T59	SINTOMA 152 169	deterioro clínico

@@ -1,30 +1,55 @@
-T1	SINTOMA 1543 1598	disminución de la sensibilidad vibratoria en ambas EEII
-T2	SINTOMA 1206 1231	inestabilidad a la marcha
-T3	SINTOMA 2601 2616	micción a gotas
-T4	SINTOMA 1409 1453	parestesias en ambas extremidades inferiores
-T5	SINTOMA 1820 1869	pleocitosis linfocitaria sin bandas oligoclonales
-T6	SINTOMA 2032 2060	positivos para HTLV-I en LCR
-T7	SINTOMA 1875 1931	potenciales evocados resultaron alterados a nivel tibial
-T8	SINTOMA 512 553	pruebas de esfuerzo posteriores negativas
-T9	SINTOMA 1639 1680	reflejo cutaneoplantar (RCP) en extensión
-T10	SINTOMA 1600 1636	reflejos osteotendinosos (ROT) vivos
-T11	SINTOMA 1234 1256	temblores en las manos
-T12	SINTOMA 1463 1481	temblores en manos
-T13	SINTOMA 2568 2598	urgencia miccional con escapes
-T14	SINTOMA 498 510	asintomático
-T15	SINTOMA 1381 1407	inestabilidad de la marcha
-T16	SINTOMA 1521 1534	déficit motor
-T17	SINTOMA 2710 2731	vejiga hiperrefléxica
-T18	ENFERMEDAD 145 199	IRC progresiva secundaria a glomerulonefritis tipo IgA
-T19	ENFERMEDAD 173 234	glomerulonefritis tipo IgA con esclerosis focal y segmentaria
-T20	ENFERMEDAD 298 319	hipertensión arterial
-T21	ENFERMEDAD 373 394	cardiopatía isquémica
-T22	ENFERMEDAD 399 419	enfermedad coronaria
-T23	ENFERMEDAD 556 574	dislipemia tipo II
-T24	ENFERMEDAD 591 614	criptorquídia bilateral
-T25	ENFERMEDAD 2175 2205	paraparesia espástica tropical
-T26	ENFERMEDAD 2710 2731	vejiga hiperrefléxica
-T27	ENFERMEDAD 2743 2759	litiasis vesical
-T28	ENFERMEDAD 1730 1765	lesiones a nivel cerebral o espinal
-T29	ENFERMEDAD 1521 1534	déficit motor
-T30	ENFERMEDAD 2207 2210	TSP
+T1	ENFERMEDAD 145 199	IRC progresiva secundaria a glomerulonefritis tipo IgA
+T2	ENFERMEDAD 173 234	glomerulonefritis tipo IgA con esclerosis focal y segmentaria
+T3	ENFERMEDAD 298 319	hipertensión arterial
+T4	ENFERMEDAD 373 394	cardiopatía isquémica
+T5	ENFERMEDAD 399 419	enfermedad coronaria
+T6	ENFERMEDAD 556 574	dislipemia tipo II
+T7	ENFERMEDAD 591 614	criptorquídia bilateral
+T8	ENFERMEDAD 2175 2205	paraparesia espástica tropical
+T9	ENFERMEDAD 2710 2731	vejiga hiperrefléxica
+T10	ENFERMEDAD 2743 2759	litiasis vesical
+T11	ENFERMEDAD 1730 1765	lesiones a nivel cerebral o espinal
+T12	ENFERMEDAD 1521 1534	déficit motor
+T13	ENFERMEDAD 2207 2210	TSP
+T14	PROCEDIMIENTO 1770 1806	análisis del líquido cefalorraquídeo
+T15	PROCEDIMIENTO 2012 2015	PCR
+T16	PROCEDIMIENTO 2103 2106	PCR
+T17	PROCEDIMIENTO 1715 1718	RMN
+T18	PROCEDIMIENTO 424 473	angioplastia transluminal de la coronaria derecha
+T19	PROCEDIMIENTO 2129 2140	carga viral
+T20	PROCEDIMIENTO 95 114	diálisis peritoneal
+T21	PROCEDIMIENTO 2654 2688	estudio radiográfico y urodinámico
+T22	PROCEDIMIENTO 1488 1506	exploración física
+T23	PROCEDIMIENTO 2409 2422	función renal
+T24	PROCEDIMIENTO 1875 1895	potenciales evocados
+T25	PROCEDIMIENTO 1975 2010	reacción en cadena de la polimerasa
+T26	PROCEDIMIENTO 1685 1713	resonancia magnética nuclear
+T27	PROCEDIMIENTO 43 53	trasplante
+T28	PROCEDIMIENTO 1144 1154	trasplante
+T29	PROCEDIMIENTO 2374 2384	trasplante
+T30	PROCEDIMIENTO 651 667	trasplante renal
+T31	PROCEDIMIENTO 346 371	tratamiento farmacológico
+T32	PROCEDIMIENTO 512 531	pruebas de esfuerzo
+T33	PROCEDIMIENTO 1945 1961	test serológicos
+T34	PROCEDIMIENTO 2784 2798	cistolitotomía
+T35	PROCEDIMIENTO 1963 1968	ELISA
+T36	PROCEDIMIENTO 836 843	injerto
+T37	PROCEDIMIENTO 576 614	Intervenido de criptorquídia bilateral
+T38	PROCEDIMIENTO 617 634	amigdalectomizado
+T39	SINTOMA 1600 1636	reflejos osteotendinosos (ROT) vivos
+T40	SINTOMA 498 510	asintomático
+T41	SINTOMA 1206 1231	inestabilidad a la marcha
+T42	SINTOMA 1381 1407	inestabilidad de la marcha
+T43	SINTOMA 1409 1453	parestesias en ambas extremidades inferiores
+T44	SINTOMA 1234 1256	temblores en las manos
+T45	SINTOMA 1463 1481	temblores en manos
+T46	SINTOMA 2568 2598	urgencia miccional con escapes
+T47	SINTOMA 1639 1680	reflejo cutaneoplantar (RCP) en extensión
+T48	SINTOMA 1543 1598	disminución de la sensibilidad vibratoria en ambas EEII
+T49	SINTOMA 2032 2060	positivos para HTLV-I en LCR
+T50	SINTOMA 1875 1931	potenciales evocados resultaron alterados a nivel tibial
+T51	SINTOMA 2601 2616	micción a gotas
+T52	SINTOMA 1521 1534	déficit motor
+T53	SINTOMA 512 553	pruebas de esfuerzo posteriores negativas
+T54	SINTOMA 2710 2731	vejiga hiperrefléxica
+T55	SINTOMA 1820 1869	pleocitosis linfocitaria sin bandas oligoclonales

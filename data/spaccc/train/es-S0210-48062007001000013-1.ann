@@ -1,19 +1,66 @@
-T1	SINTOMA 107 124	dolor epigástrico
-T2	SINTOMA 533 541	doloroso
-T3	SINTOMA 1558 1587	líquido libre intraperitoneal
-T4	SINTOMA 262 281	palidez mucocutánea
-T5	SINTOMA 165 188	pérdida de 7 kg de peso
-T6	SINTOMA 2190 2205	sangrado activo
-T7	SINTOMA 2643 2653	tumoración
-T8	SINTOMA 97 104	vómitos
-T9	SINTOMA 639 678	aumento progresivo e indoloro del teste
-T10	SINTOMA 3520 3526	deceso
-T11	SINTOMA 330 371	dolor epigástrico a la palpación profunda
-T12	SINTOMA 1842 1872	dolor y abombamiento abdominal
-T13	SINTOMA 3495 3517	hemorragia incoercible
-T14	SINTOMA 1972 1995	líquido intraperitoneal
-T15	SINTOMA 1186 1210	líquido pleural hemático
-T16	SINTOMA 1332 1372	nódulos pulmonares múltiples bilaterales
-T17	SINTOMA 3336 3359	sangrado intraabdominal
-T18	SINTOMA 409 445	teste izquierdo aumentado de volumen
-T19	SINTOMA 869 937	teste izquierdo muy aumentado de tamaño de ecogeneicidad heterogénea
+T1	ENFERMEDAD 2788 2841	testículo mostró una neoplasia maligna germinal mixta
+T2	ENFERMEDAD 1796 1814	shock hipovolémico
+T3	ENFERMEDAD 1092 1123	metástasis pulmonares múltiples
+T4	ENFERMEDAD 3293 3311	shock hipovolémico
+T5	ENFERMEDAD 1304 1326	afectación metastásica
+T6	ENFERMEDAD 1135 1150	derrame pleural
+T7	ENFERMEDAD 3336 3359	sangrado intraabdominal
+T8	ENFERMEDAD 1374 1389	derrame pleural
+T9	ENFERMEDAD 1029 1039	metástasis
+T10	ENFERMEDAD 3143 3204	lesiones esplénicas son metástasis de la neoplasia testicular
+T11	ENFERMEDAD 1399 1443	adenopatías mediastínicas, retroperitoneales
+T12	ENFERMEDAD 3433 3451	estallido hepático
+T13	ENFERMEDAD 1445 1492	hepatomegalia con afectación metastásica masiva
+T14	ENFERMEDAD 3495 3517	hemorragia incoercible
+T15	ENFERMEDAD 2049 2114	afectación metastásica extensa en cola de páncreas, bazo e hígado
+T16	ENFERMEDAD 1509 1545	metástasis esplénicas y pancreáticas
+T17	ENFERMEDAD 2119 2162	rotura de metástasis esplénicas y hepáticas
+T18	ENFERMEDAD 2172 2185	hemoperitoneo
+T19	ENFERMEDAD 2226 2250	hematoma difuso hepático
+T20	ENFERMEDAD 283 303	hepatoesplenomegalia
+T21	ENFERMEDAD 1332 1372	nódulos pulmonares múltiples bilaterales
+T22	ENFERMEDAD 2878 2899	carcinoma embrionario
+T23	ENFERMEDAD 2901 2927	tumor del seno endodérmico
+T24	ENFERMEDAD 2929 2943	coriocarcinoma
+T25	ENFERMEDAD 2946 2954	teratoma
+T26	ENFERMEDAD 1558 1587	líquido libre intraperitoneal
+T27	PROCEDIMIENTO 1045 1064	radiología de tórax
+T28	PROCEDIMIENTO 807 839	ecografía abdominal y testicular
+T29	PROCEDIMIENTO 1600 1647	muestras de sangre para marcadores testiculares
+T30	PROCEDIMIENTO 1254 1273	TAC toracoabdominal
+T31	PROCEDIMIENTO 2465 2485	orquiectomía radical
+T32	PROCEDIMIENTO 1161 1175	toracocentesis
+T33	PROCEDIMIENTO 1887 1906	laparotomía urgente
+T34	PROCEDIMIENTO 1721 1733	orquiectomía
+T35	PROCEDIMIENTO 1912 1931	ecografía abdominal
+T36	PROCEDIMIENTO 3389 3400	laparotomía
+T37	PROCEDIMIENTO 223 241	exploración física
+T38	PROCEDIMIENTO 376 396	exploración escrotal
+T39	PROCEDIMIENTO 2263 2276	esplenectomía
+T40	PROCEDIMIENTO 2281 2349	sutura y taponamiento con surgicel de las áreas hepáticas sangrantes
+T41	PROCEDIMIENTO 2379 2409	orquiectomía radical izquierda
+T42	PROCEDIMIENTO 2756 2783	histopatología microscópica
+T43	PROCEDIMIENTO 3114 3125	microscopía
+T44	PROCEDIMIENTO 2008 2019	laparotomía
+T45	PROCEDIMIENTO 686 695	analítica
+T46	PROCEDIMIENTO 3243 3255	intervención
+T47	PROCEDIMIENTO 353 371	palpación profunda
+T48	SINTOMA 1842 1872	dolor y abombamiento abdominal
+T49	SINTOMA 97 104	vómitos
+T50	SINTOMA 107 124	dolor epigástrico
+T51	SINTOMA 165 188	pérdida de 7 kg de peso
+T52	SINTOMA 1972 1995	líquido intraperitoneal
+T53	SINTOMA 330 371	dolor epigástrico a la palpación profunda
+T54	SINTOMA 409 445	teste izquierdo aumentado de volumen
+T55	SINTOMA 639 678	aumento progresivo e indoloro del teste
+T56	SINTOMA 533 541	doloroso
+T57	SINTOMA 262 281	palidez mucocutánea
+T58	SINTOMA 2643 2653	tumoración
+T59	SINTOMA 1186 1210	líquido pleural hemático
+T60	SINTOMA 1332 1372	nódulos pulmonares múltiples bilaterales
+T61	SINTOMA 1558 1587	líquido libre intraperitoneal
+T62	SINTOMA 3336 3359	sangrado intraabdominal
+T63	SINTOMA 869 937	teste izquierdo muy aumentado de tamaño de ecogeneicidad heterogénea
+T64	SINTOMA 3495 3517	hemorragia incoercible
+T65	SINTOMA 3520 3526	deceso
+T66	SINTOMA 2190 2205	sangrado activo

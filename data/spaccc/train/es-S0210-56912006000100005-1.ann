@@ -1,17 +1,59 @@
-T1	SINTOMA 1029 1037	cianosis
-T2	SINTOMA 1039 1062	crepitantes bilaterales
-T3	SINTOMA 2069 2081	desaturación
-T4	SINTOMA 1010 1027	disnea progresiva
-T5	SINTOMA 2884 2890	edemas
-T6	SINTOMA 2084 2095	hipotensión
-T7	SINTOMA 2630 2664	infiltrados alveolares bilaterales
-T8	SINTOMA 1067 1078	sibilancias
-T9	SINTOMA 400 427	curva ponderal era adecuada
-T10	SINTOMA 1198 1276	determinación de virus respiratorio sincitial (VRS) en moco nasal fue negativa
-T11	SINTOMA 784 797	diarrea grave
-T12	SINTOMA 1333 1351	edema generalizado
-T13	SINTOMA 2707 2760	lavado broncoalveolar se aisló Pseudomonas aeruginosa
-T14	SINTOMA 1306 1328	oligoanuria progresiva
-T15	SINTOMA 2676 2699	oligoperfusión pulmonar
-T16	SINTOMA 226 253	peso adecuado al nacimiento
-T17	SINTOMA 1737 1751	soplo cardíaco
+T1	ENFERMEDAD 72 129	deshidratación moderada-intensa por gastroenteritis aguda
+T2	ENFERMEDAD 108 129	gastroenteritis aguda
+T3	ENFERMEDAD 266 282	síndrome de Down
+T4	ENFERMEDAD 330 332	TF
+T5	ENFERMEDAD 2849 2874	insuficiencia renal aguda
+T6	ENFERMEDAD 380 395	crisis hipóxica
+T7	ENFERMEDAD 524 542	estenosis pulmonar
+T8	ENFERMEDAD 1516 1543	hipoxemia grave refractaria
+T9	ENFERMEDAD 1701 1713	coagulopatía
+T10	ENFERMEDAD 1830 1833	HPP
+T11	ENFERMEDAD 2084 2095	hipotensión
+T12	ENFERMEDAD 2139 2159	espasmo infundibular
+T13	ENFERMEDAD 2172 2175	HPP
+T14	ENFERMEDAD 2202 2231	comunicación interventricular
+T15	ENFERMEDAD 2233 2236	CIV
+T16	ENFERMEDAD 755 797	shock hipovolémico agudo por diarrea grave
+T17	ENFERMEDAD 177 201	pretérmino de 32 semanas
+T18	PROCEDIMIENTO 2549 2570	perfusión de dopamina
+T19	PROCEDIMIENTO 2595 2615	radiografía de tórax
+T20	PROCEDIMIENTO 2707 2728	lavado broncoalveolar
+T21	PROCEDIMIENTO 2783 2806	tratamiento antibiótico
+T22	PROCEDIMIENTO 435 444	ecografía
+T23	PROCEDIMIENTO 832 842	intubación
+T24	PROCEDIMIENTO 878 880	VM
+T25	PROCEDIMIENTO 1099 1111	reintubación
+T26	PROCEDIMIENTO 1198 1263	determinación de virus respiratorio sincitial (VRS) en moco nasal
+T27	PROCEDIMIENTO 1721 1733	auscultación
+T28	PROCEDIMIENTO 2123 2138	ecográficamente
+T29	PROCEDIMIENTO 1854 1874	ventilación en prono
+T30	PROCEDIMIENTO 3061 3087	destete progresivo del ONI
+T31	PROCEDIMIENTO 613 626	gafas nasales
+T32	PROCEDIMIENTO 810 830	expansión de volumen
+T33	PROCEDIMIENTO 845 876	conexión a ventilación mecánica
+T34	PROCEDIMIENTO 913 922	se extubó
+T35	PROCEDIMIENTO 1114 1127	conexión a VM
+T36	PROCEDIMIENTO 3200 3212	fue extubado
+T37	PROCEDIMIENTO 631 671	tensión arterial media (TAM) no invasiva
+T38	PROCEDIMIENTO 655 658	TAM
+T39	PROCEDIMIENTO 1580 1592	TAM invasiva
+T40	PROCEDIMIENTO 1999 2041	presión positiva al final de la espiración
+T41	PROCEDIMIENTO 2043 2047	PEEP
+T42	PROCEDIMIENTO 2911 2967	tratamiento con métodos sustitutivos de la función renal
+T43	SINTOMA 2630 2664	infiltrados alveolares bilaterales
+T44	SINTOMA 2676 2699	oligoperfusión pulmonar
+T45	SINTOMA 2707 2760	lavado broncoalveolar se aisló Pseudomonas aeruginosa
+T46	SINTOMA 400 427	curva ponderal era adecuada
+T47	SINTOMA 1029 1037	cianosis
+T48	SINTOMA 1198 1276	determinación de virus respiratorio sincitial (VRS) en moco nasal fue negativa
+T49	SINTOMA 1306 1328	oligoanuria progresiva
+T50	SINTOMA 1333 1351	edema generalizado
+T51	SINTOMA 1039 1062	crepitantes bilaterales
+T52	SINTOMA 784 797	diarrea grave
+T53	SINTOMA 1010 1027	disnea progresiva
+T54	SINTOMA 2884 2890	edemas
+T55	SINTOMA 1067 1078	sibilancias
+T56	SINTOMA 226 253	peso adecuado al nacimiento
+T57	SINTOMA 1737 1751	soplo cardíaco
+T58	SINTOMA 2069 2081	desaturación
+T59	SINTOMA 2084 2095	hipotensión

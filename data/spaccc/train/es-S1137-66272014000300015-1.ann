@@ -1,18 +1,37 @@
-T1	SINTOMA 1009 1027	Andrógeno negativo
-T2	SINTOMA 1029 1042	BCL2 positivo
-T3	SINTOMA 1304 1363	débito de 400 ml por el drenaje axilar, con aspecto lechoso
-T4	SINTOMA 969 982	EGFR negativo
-T5	SINTOMA 846 863	Her2-neu negativo
-T6	SINTOMA 1170 1214	leve hemorragia exteriorizada por el drenaje
-T7	SINTOMA 162 214	nódulo de 3,5 cm en cuadrante infero-interno de mama
-T8	SINTOMA 2033 2045	asintomática
-T9	SINTOMA 1412 1427	líquido quiloso
-T10	SINTOMA 2048 2067	libre de enfermedad
-T11	ENFERMEDAD 1170 1185	leve hemorragia
-T12	ENFERMEDAD 794 822	carcinoma ductal infiltrante
-T13	ENFERMEDAD 64 74	exfumadora
-T14	ENFERMEDAD 230 250	adenopatías axilares
-T15	ENFERMEDAD 1378 1395	linforrea quilosa
-T16	ENFERMEDAD 333 401	carcinoma ductal infiltrante de mama izquierda con afectación axilar
-T17	ENFERMEDAD 1089 1128	metástasis en 1/ 19 ganglios linfáticos
-T18	ENFERMEDAD 140 154	Cáncer de Mama
+T1	ENFERMEDAD 1170 1185	leve hemorragia
+T2	ENFERMEDAD 794 822	carcinoma ductal infiltrante
+T3	ENFERMEDAD 64 74	exfumadora
+T4	ENFERMEDAD 230 250	adenopatías axilares
+T5	ENFERMEDAD 1378 1395	linforrea quilosa
+T6	ENFERMEDAD 333 401	carcinoma ductal infiltrante de mama izquierda con afectación axilar
+T7	ENFERMEDAD 1089 1128	metástasis en 1/ 19 ganglios linfáticos
+T8	ENFERMEDAD 140 154	Cáncer de Mama
+T9	PROCEDIMIENTO 1764 1778	drenaje axilar
+T10	PROCEDIMIENTO 677 716	mastectomía izquierda y linfadenectomía
+T11	PROCEDIMIENTO 298 305	biopsia
+T12	PROCEDIMIENTO 1437 1455	estudio bioquímico
+T13	PROCEDIMIENTO 635 658	intervención quirúrgica
+T14	PROCEDIMIENTO 307 310	RNM
+T15	PROCEDIMIENTO 313 329	ecografía axilar
+T16	PROCEDIMIENTO 747 776	diagnóstico anatomopatológico
+T17	PROCEDIMIENTO 1522 1553	dieta con restricción de grasas
+T18	PROCEDIMIENTO 1207 1214	drenaje
+T19	PROCEDIMIENTO 1328 1342	drenaje axilar
+T20	PROCEDIMIENTO 1984 2006	tratamiento oncológico
+T21	PROCEDIMIENTO 415 475	tratamiento neoadyuvante con pauta de quimioterapia estándar
+T22	PROCEDIMIENTO 1572 1628	ingestión de alimentos con triglicéridos de cadena media
+T23	PROCEDIMIENTO 1764 1831	drenaje axilar mejoraron y se normalizaron, permitiendo la retirada
+T24	PROCEDIMIENTO 590 601	radiológica
+T25	PROCEDIMIENTO 480 483	FEC
+T26	PROCEDIMIENTO 453 518	quimioterapia estándar con FEC 75 (4 ciclos) seguida de docetaxel
+T27	SINTOMA 2033 2045	asintomática
+T28	SINTOMA 1304 1363	débito de 400 ml por el drenaje axilar, con aspecto lechoso
+T29	SINTOMA 846 863	Her2-neu negativo
+T30	SINTOMA 1170 1214	leve hemorragia exteriorizada por el drenaje
+T31	SINTOMA 1412 1427	líquido quiloso
+T32	SINTOMA 162 214	nódulo de 3,5 cm en cuadrante infero-interno de mama
+T33	SINTOMA 969 982	EGFR negativo
+T34	SINTOMA 984 1003	E-Caderina positivo
+T35	SINTOMA 1009 1027	Andrógeno negativo
+T36	SINTOMA 1029 1042	BCL2 positivo
+T37	SINTOMA 2048 2067	libre de enfermedad

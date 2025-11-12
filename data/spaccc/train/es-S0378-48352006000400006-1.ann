@@ -1,20 +1,38 @@
-T1	SINTOMA 550 579	estudio de extensión negativo
-T2	SINTOMA 804 833	expectoración leve hemoptoica
-T3	SINTOMA 2224 2243	libre de enfermedad
-T4	SINTOMA 1077 1096	LSI con atelectasia
-T5	SINTOMA 876 899	masa en lóbulo superior
-T6	SINTOMA 1051 1080	masa necrótica de 8 cm en LSI
-T7	SINTOMA 787 801	tos irritativa
-T8	SINTOMA 1737 1747	tumoración
-T9	PROCEDIMIENTO 1002 1029	TAC tóraco-abdomino-pélvico
-T10	PROCEDIMIENTO 1148 1160	broncoscopia
-T11	PROCEDIMIENTO 1230 1256	BAS y la Biopsia bronquial
-T12	PROCEDIMIENTO 1410 1423	quimioterapia
-T13	PROCEDIMIENTO 1589 1610	estudios radiológicos
-T14	PROCEDIMIENTO 1640 1687	lobectomía superior izquierda y linfadenectomía
-T15	PROCEDIMIENTO 1856 1874	inmunohistoquímico
-T16	PROCEDIMIENTO 282 317	histerectomía mas doble anexectomía
-T17	PROCEDIMIENTO 339 364	estudio anatomopatológico
-T18	PROCEDIMIENTO 629 666	radioterapia con cobalto-60 en pelvis
-T19	PROCEDIMIENTO 669 700	braquiterapia en cúpula vaginal
+T1	ENFERMEDAD 1349 1380	Carcinoma Epidermoide de Pulmón
+T2	ENFERMEDAD 248 267	tumor de endometrio
+T3	ENFERMEDAD 121 133	hipertensión
+T4	ENFERMEDAD 135 156	polimialgia reumática
+T5	ENFERMEDAD 159 183	arteritis de la temporal
+T6	ENFERMEDAD 934 956	neoplasia broncogénica
+T7	ENFERMEDAD 386 479	adenocarcinoma bien diferenciado (grado I), con infiltración del tercio interno del miometrio
+T8	ENFERMEDAD 498 530	infiltración de vasos sanguíneos
+T9	ENFERMEDAD 1077 1096	LSI con atelectasia
+T10	ENFERMEDAD 1766 1780	adenocarcinoma
+T11	ENFERMEDAD 1272 1317	carcinoma epidermoide pobremente diferenciado
+T12	ENFERMEDAD 2049 2072	tumor primario pulmonar
+T13	ENFERMEDAD 2102 2142	recaída pulmonar de su tumor endometrial
+T14	ENFERMEDAD 2125 2142	tumor endometrial
+T15	ENFERMEDAD 74 84	exfumadora
+T16	ENFERMEDAD 1387 1389	M0
+T17	ENFERMEDAD 1175 1180	tumor
+T18	ENFERMEDAD 231 243	metrorragias
+T19	PROCEDIMIENTO 1410 1423	quimioterapia
 T20	PROCEDIMIENTO 853 871	RX simple de tórax
+T21	PROCEDIMIENTO 282 317	histerectomía mas doble anexectomía
+T22	PROCEDIMIENTO 339 364	estudio anatomopatológico
+T23	PROCEDIMIENTO 1002 1029	TAC tóraco-abdomino-pélvico
+T24	PROCEDIMIENTO 1640 1687	lobectomía superior izquierda y linfadenectomía
+T25	PROCEDIMIENTO 1148 1160	broncoscopia
+T26	PROCEDIMIENTO 629 666	radioterapia con cobalto-60 en pelvis
+T27	PROCEDIMIENTO 1230 1256	BAS y la Biopsia bronquial
+T28	PROCEDIMIENTO 669 700	braquiterapia en cúpula vaginal
+T29	PROCEDIMIENTO 1589 1610	estudios radiológicos
+T30	PROCEDIMIENTO 1856 1874	inmunohistoquímico
+T31	SINTOMA 787 801	tos irritativa
+T32	SINTOMA 804 833	expectoración leve hemoptoica
+T33	SINTOMA 876 899	masa en lóbulo superior
+T34	SINTOMA 550 579	estudio de extensión negativo
+T35	SINTOMA 1737 1747	tumoración
+T36	SINTOMA 1051 1080	masa necrótica de 8 cm en LSI
+T37	SINTOMA 1077 1096	LSI con atelectasia
+T38	SINTOMA 2224 2243	libre de enfermedad

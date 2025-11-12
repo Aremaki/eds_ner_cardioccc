@@ -1,6 +1,35 @@
-T1	SINTOMA 2741 2753	asintomática
-T2	SINTOMA 277 341	cuadrante ínfero-interno de mama izquierda una tumoración sólida
-T3	SINTOMA 505 509	masa
-T4	SINTOMA 585 603	masa hipoecogénica
-T5	SINTOMA 2370 2437	receptores hormonales de estrógenos y de progesterona son negativos
-T6	SINTOMA 151 184	tumoración no dolorosa en la mama
+T1	ENFERMEDAD 933 985	neoplasias malignas de células fusiformes de la mama
+T2	ENFERMEDAD 1459 1468	neoplasia
+T3	ENFERMEDAD 1494 1543	infiltración de la piel y del músculo esquelético
+T4	ENFERMEDAD 53 74	hipertensión arterial
+T5	ENFERMEDAD 2493 2536	carcinoma metaplásico de células fusiformes
+T6	ENFERMEDAD 77 94	arritmia cardíaca
+T7	ENFERMEDAD 813 870	neoformación infiltrativa maligna de carácter fusocelular
+T8	ENFERMEDAD 1043 1088	carcinomas metaplásicos de células fusiformes
+T9	ENFERMEDAD 1091 1099	sarcomas
+T10	ENFERMEDAD 777 783	lesión
+T11	ENFERMEDAD 1152 1158	lesión
+T12	ENFERMEDAD 1946 1952	lesión
+T13	ENFERMEDAD 1576 1612	proliferación neoplásica infiltrante
+T14	ENFERMEDAD 2054 2059	tumor
+T15	ENFERMEDAD 2572 2577	tumor
+T16	ENFERMEDAD 1887 1922	epitelio ductolobulillar neoplásico
+T17	PROCEDIMIENTO 2068 2094	estudio inmunohistoquímico
+T18	PROCEDIMIENTO 437 471	estudio mamográfico de ambas mamas
+T19	PROCEDIMIENTO 737 770	microbiopsia clínica tipo tru-cut
+T20	PROCEDIMIENTO 2599 2636	tratamiento coadyuvante radioterápico
+T21	PROCEDIMIENTO 551 569	estudio ecográfico
+T22	PROCEDIMIENTO 1373 1402	cuadrantectomía ínfero-medial
+T23	PROCEDIMIENTO 1407 1429	linfadenectomía axilar
+T24	PROCEDIMIENTO 1201 1220	estudio histológico
+T25	PROCEDIMIENTO 1125 1136	extirpación
+T26	PROCEDIMIENTO 798 808	histología
+T27	PROCEDIMIENTO 1554 1571	microscópicamente
+T28	PROCEDIMIENTO 253 264	exploración
+T29	PROCEDIMIENTO 1332 1354	tratamiento quirúrgico
+T30	SINTOMA 2370 2437	receptores hormonales de estrógenos y de progesterona son negativos
+T31	SINTOMA 151 184	tumoración no dolorosa en la mama
+T32	SINTOMA 277 341	cuadrante ínfero-interno de mama izquierda una tumoración sólida
+T33	SINTOMA 2741 2753	asintomática
+T34	SINTOMA 505 509	masa
+T35	SINTOMA 585 603	masa hipoecogénica

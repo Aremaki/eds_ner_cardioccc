@@ -1,18 +1,58 @@
-T1	SINTOMA 1014 1022	anasarca
-T2	SINTOMA 2403 2414	bacteriuria
-T3	SINTOMA 1814 1838	color morado de la orina
-T4	SINTOMA 1587 1611	color morado de la orina
-T5	SINTOMA 2100 2106	fiebre
-T6	SINTOMA 384 405	hipoalbuminemia grave
-T7	SINTOMA 492 514	incontinencia urinaria
-T8	SINTOMA 2110 2122	leucocitosis
-T9	SINTOMA 2652 2682	orina adquiere un color normal
-T10	SINTOMA 922 964	orina en bolsa recolectora de color morada
-T11	SINTOMA 2171 2199	orina muestra un pH alcalino
-T12	SINTOMA 2429 2461	reacción de nitritos es negativa
-T13	SINTOMA 218 234	reflujo alcalino
-T14	SINTOMA 752 770	sangrado digestivo
-T15	SINTOMA 2284 2346	sedimento se encuentran cristales de fosfato amónico magnésico
-T16	SINTOMA 517 540	síndrome de inmovilidad
-T17	SINTOMA 1056 1077	síndrome malabsortivo
-T18	SINTOMA 2469 2505	urocultivo se aisla Proteus vulgaris
+T1	ENFERMEDAD 677 688	anemización
+T2	ENFERMEDAD 752 770	sangrado digestivo
+T3	ENFERMEDAD 97 112	úlcera gástrica
+T4	ENFERMEDAD 781 817	desnutrición proteico-calórica grave
+T5	ENFERMEDAD 1527 1550	úlceras en región sacra
+T6	ENFERMEDAD 218 234	reflujo alcalino
+T7	ENFERMEDAD 264 284	cuadros suboclusivos
+T8	ENFERMEDAD 318 340	obstrucción intestinal
+T9	ENFERMEDAD 1727 1756	infección del tracto urinario
+T10	ENFERMEDAD 1014 1022	anasarca
+T11	ENFERMEDAD 367 379	malnutrición
+T12	ENFERMEDAD 1039 1077	desnutrición por síndrome malabsortivo
+T13	ENFERMEDAD 384 405	hipoalbuminemia grave
+T14	ENFERMEDAD 407 443	anemia de trastornos crónicos severa
+T15	ENFERMEDAD 445 490	úlceras por presión en región sacra y talones
+T16	ENFERMEDAD 517 540	síndrome de inmovilidad
+T17	ENFERMEDAD 557 566	TBC renal
+T18	ENFERMEDAD 592 619	pielonefritis de repetición
+T19	ENFERMEDAD 645 663	estenosis ureteral
+T20	PROCEDIMIENTO 1421 1436	sondaje vesical
+T21	PROCEDIMIENTO 1442 1461	control de diuresis
+T22	PROCEDIMIENTO 80 92	gastrectomía
+T23	PROCEDIMIENTO 117 148	reconstrucción tipo Billroth II
+T24	PROCEDIMIENTO 189 198	Y de Roux
+T25	PROCEDIMIENTO 1628 1643	sondaje vesical
+T26	PROCEDIMIENTO 1109 1182	administración de suplementos nutricionales hipercalóricos/hiperproteicos
+T27	PROCEDIMIENTO 1857 1870	sonda vesical
+T28	PROCEDIMIENTO 1883 1906	tratamiento antibiótico
+T29	PROCEDIMIENTO 2145 2176	análisis bioquímico de la orina
+T30	PROCEDIMIENTO 2619 2632	sonda vesical
+T31	PROCEDIMIENTO 2590 2602	antibiograma
+T32	PROCEDIMIENTO 902 948	sondaje vesical con orina en bolsa recolectora
+T33	PROCEDIMIENTO 1330 1355	suplementos nutricionales
+T34	PROCEDIMIENTO 2284 2293	sedimento
+T35	PROCEDIMIENTO 1184 1192	Fortimel
+T36	PROCEDIMIENTO 1248 1284	marcadores nutricionales bioquímicos
+T37	PROCEDIMIENTO 2429 2449	reacción de nitritos
+T38	PROCEDIMIENTO 2469 2479	urocultivo
+T39	PROCEDIMIENTO 306 340	cirugía por obstrucción intestinal
+T40	PROCEDIMIENTO 633 663	cirugía por estenosis ureteral
+T41	SINTOMA 2469 2505	urocultivo se aisla Proteus vulgaris
+T42	SINTOMA 2100 2106	fiebre
+T43	SINTOMA 2110 2122	leucocitosis
+T44	SINTOMA 2171 2199	orina muestra un pH alcalino
+T45	SINTOMA 2403 2414	bacteriuria
+T46	SINTOMA 492 514	incontinencia urinaria
+T47	SINTOMA 922 964	orina en bolsa recolectora de color morada
+T48	SINTOMA 1587 1611	color morado de la orina
+T49	SINTOMA 1814 1838	color morado de la orina
+T50	SINTOMA 2429 2461	reacción de nitritos es negativa
+T51	SINTOMA 1014 1022	anasarca
+T52	SINTOMA 2652 2682	orina adquiere un color normal
+T53	SINTOMA 384 405	hipoalbuminemia grave
+T54	SINTOMA 517 540	síndrome de inmovilidad
+T55	SINTOMA 752 770	sangrado digestivo
+T56	SINTOMA 1056 1077	síndrome malabsortivo
+T57	SINTOMA 218 234	reflujo alcalino
+T58	SINTOMA 2284 2346	sedimento se encuentran cristales de fosfato amónico magnésico

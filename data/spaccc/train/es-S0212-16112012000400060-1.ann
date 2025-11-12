@@ -1,22 +1,57 @@
-T1	SINTOMA 1207 1235	abdomen globuloso, timpánico
-T2	SINTOMA 2101 2120	acidosis metabólica
-T3	SINTOMA 530 539	atracones
-T4	SINTOMA 348 367	atracones de comida
-T5	SINTOMA 2560 2631	bajo coeficiente de atenuación que se identifican en páncreas y riñones
-T6	SINTOMA 3641 3664	buena situación clínica
-T7	SINTOMA 1875 1901	debilidad de pulsos pedios
-T8	SINTOMA 1124 1132	delgadez
-T9	SINTOMA 3064 3108	disminución de volumen de la cámara gástrica
-T10	SINTOMA 828 843	dolor abdominal
-T11	SINTOMA 172 193	dolor abdominal agudo
-T12	SINTOMA 1241 1268	escasos ruidos intestinales
-T13	SINTOMA 399 405	estrés
-T14	SINTOMA 947 982	ingerido gran cantidad de alimentos
-T15	SINTOMA 1840 1872	livideces en miembros inferiores
-T16	SINTOMA 914 921	náuseas
-T17	SINTOMA 2353 2369	nivel hidroaéreo
-T18	SINTOMA 1799 1807	preshock
-T19	SINTOMA 891 912	sensación de plenitud
-T20	SINTOMA 1042 1048	vómito
-T21	SINTOMA 762 778	vómito provocado
-T22	SINTOMA 924 931	vómitos
+T1	ENFERMEDAD 38 57	esclerosis múltiple
+T2	ENFERMEDAD 1789 1807	estado de preshock
+T3	ENFERMEDAD 3283 3302	fallo multiorgánico
+T4	ENFERMEDAD 90 106	bulimia nerviosa
+T5	ENFERMEDAD 3322 3360	hipo-perfusión de vísceras abdominales
+T6	ENFERMEDAD 3361 3381	fallo hepático agudo
+T7	ENFERMEDAD 2371 2389	compresión aórtica
+T8	ENFERMEDAD 3386 3412	hepatitis tóxico-isquémica
+T9	ENFERMEDAD 3415 3446	encefalopatía tóxico-metabólica
+T10	ENFERMEDAD 3448 3468	isquemia pancreática
+T11	ENFERMEDAD 3470 3489	isquemia intestinal
+T12	ENFERMEDAD 3491 3509	shock circulatorio
+T13	ENFERMEDAD 277 297	intentos autolíticos
+T14	ENFERMEDAD 3511 3549	síndrome isquemiareperfusión abdominal
+T15	ENFERMEDAD 3551 3576	insuficiencia renal aguda
+T16	ENFERMEDAD 2101 2120	acidosis metabólica
+T17	ENFERMEDAD 3579 3611	insuficiencia respiratoria aguda
+T18	ENFERMEDAD 492 512	conductas purgativas
+T19	ENFERMEDAD 632 653	trastorno alimentario
+T20	ENFERMEDAD 2276 2295	dilatación gástrica
+T21	ENFERMEDAD 2400 2419	dilatación gástrica
+T22	PROCEDIMIENTO 1093 1111	exploración física
+T23	PROCEDIMIENTO 2239 2263	Tomografía Computarizada
+T24	PROCEDIMIENTO 1642 1648	enemas
+T25	PROCEDIMIENTO 1651 1683	colocación de sonda nasogástrica
+T26	PROCEDIMIENTO 1812 1830	exploración física
+T27	PROCEDIMIENTO 1705 1723	sonda nasogástrica
+T28	PROCEDIMIENTO 2787 2798	laparotomía
+T29	PROCEDIMIENTO 2801 2900	gastrotomía con extracción de material alimenticio (aproximadamente 7 litros) de la cámara gástrica
+T30	PROCEDIMIENTO 221 269	tratamiento psicoterapéutico individual y grupal
+T31	PROCEDIMIENTO 1362 1391	radiografía simple de abdomen
+T32	PROCEDIMIENTO 3008 3010	TC
+T33	PROCEDIMIENTO 1692 1698	enemas
+T34	PROCEDIMIENTO 784 792	laxantes
+T35	PROCEDIMIENTO 1634 1640	sueros
+T36	SINTOMA 1124 1132	delgadez
+T37	SINTOMA 1840 1872	livideces en miembros inferiores
+T38	SINTOMA 891 912	sensación de plenitud
+T39	SINTOMA 914 921	náuseas
+T40	SINTOMA 1207 1235	abdomen globuloso, timpánico
+T41	SINTOMA 1875 1901	debilidad de pulsos pedios
+T42	SINTOMA 924 931	vómitos
+T43	SINTOMA 947 982	ingerido gran cantidad de alimentos
+T44	SINTOMA 172 193	dolor abdominal agudo
+T45	SINTOMA 1042 1048	vómito
+T46	SINTOMA 399 405	estrés
+T47	SINTOMA 1241 1268	escasos ruidos intestinales
+T48	SINTOMA 2353 2369	nivel hidroaéreo
+T49	SINTOMA 828 843	dolor abdominal
+T50	SINTOMA 2101 2120	acidosis metabólica
+T51	SINTOMA 3064 3108	disminución de volumen de la cámara gástrica
+T52	SINTOMA 348 367	atracones de comida
+T53	SINTOMA 530 539	atracones
+T54	SINTOMA 762 778	vómito provocado
+T55	SINTOMA 1799 1807	preshock
+T56	SINTOMA 2560 2631	bajo coeficiente de atenuación que se identifican en páncreas y riñones
+T57	SINTOMA 3641 3664	buena situación clínica

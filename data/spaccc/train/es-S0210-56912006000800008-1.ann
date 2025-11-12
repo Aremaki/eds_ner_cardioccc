@@ -1,29 +1,46 @@
-T1	SINTOMA 1777 1814	alteración en el tiempo de protromina
-T2	SINTOMA 405 423	aumento del hígado
-T3	SINTOMA 441 484	auscultación cardiorrespiratoria era normal
-T4	SINTOMA 271 291	distensión abdominal
-T5	SINTOMA 230 268	dolor abdominal en hipocondrio derecho
-T6	SINTOMA 1585 1618	empeoramiento de la función renal
-T7	SINTOMA 208 217	febrícula
-T8	SINTOMA 2477 2502	hemodinámicamente estable
-T9	SINTOMA 1096 1110	hígado pequeño
-T10	SINTOMA 879 893	hígado pequeño
-T11	SINTOMA 219 228	ictericia
-T12	SINTOMA 327 349	ictericia muco-cutánea
-T13	SINTOMA 817 842	infiltrado alveolar basal
-T14	SINTOMA 743 781	Marcadores virales hepáticos negativos
-T15	SINTOMA 1738 1771	valores elevados de transaminasas
-T16	SINTOMA 965 985	vena porta permeable
-T17	SINTOMA 946 963	vía biliar normal
-T18	ENFERMEDAD 19 26	bebedor
-T19	ENFERMEDAD 1158 1210	hepatitis alcohólica aguda sobre hepatopatía crónica
-T20	ENFERMEDAD 1191 1210	hepatopatía crónica
-T21	ENFERMEDAD 1443 1465	encefalopatía hepática
-T22	ENFERMEDAD 327 349	ictericia muco-cutánea
-T23	ENFERMEDAD 1484 1503	fracaso renal agudo
-T24	ENFERMEDAD 358 371	encefalopatía
-T25	ENFERMEDAD 382 389	ascitis
-T26	ENFERMEDAD 1525 1546	síndrome hepatorrenal
-T27	ENFERMEDAD 1013 1020	ascitis
-T28	ENFERMEDAD 1931 1934	SHR
-T29	ENFERMEDAD 987 1001	esplenomegalia
+T1	ENFERMEDAD 19 26	bebedor
+T2	ENFERMEDAD 1158 1210	hepatitis alcohólica aguda sobre hepatopatía crónica
+T3	ENFERMEDAD 1191 1210	hepatopatía crónica
+T4	ENFERMEDAD 1443 1465	encefalopatía hepática
+T5	ENFERMEDAD 327 349	ictericia muco-cutánea
+T6	ENFERMEDAD 1484 1503	fracaso renal agudo
+T7	ENFERMEDAD 358 371	encefalopatía
+T8	ENFERMEDAD 382 389	ascitis
+T9	ENFERMEDAD 1525 1546	síndrome hepatorrenal
+T10	ENFERMEDAD 1013 1020	ascitis
+T11	ENFERMEDAD 1931 1934	SHR
+T12	ENFERMEDAD 987 1001	esplenomegalia
+T13	PROCEDIMIENTO 1327 1338	corticoides
+T14	PROCEDIMIENTO 1340 1357	nutrición enteral
+T15	PROCEDIMIENTO 1360 1383	antibioterapia empírica
+T16	PROCEDIMIENTO 441 473	auscultación cardiorrespiratoria
+T17	PROCEDIMIENTO 786 806	radiografía de tórax
+T18	PROCEDIMIENTO 856 875	ecografía abdominal
+T19	PROCEDIMIENTO 1028 1075	tomografía axial computarizada (TAC) de abdomen
+T20	PROCEDIMIENTO 2350 2365	anticoagulación
+T21	PROCEDIMIENTO 1945 1949	MARS
+T22	PROCEDIMIENTO 2219 2240	acceso venoso femoral
+T23	PROCEDIMIENTO 2281 2345	técnica de reemplazo renal asociada fue HDF veno-venosa continua
+T24	PROCEDIMIENTO 1060 1063	TAC
+T25	PROCEDIMIENTO 1861 1877	terapia anti-TNF
+T26	PROCEDIMIENTO 299 317	exploración física
+T27	PROCEDIMIENTO 743 771	Marcadores virales hepáticos
+T28	PROCEDIMIENTO 492 501	analítica
+T29	PROCEDIMIENTO 1561 1570	analítica
+T30	SINTOMA 327 349	ictericia muco-cutánea
+T31	SINTOMA 208 217	febrícula
+T32	SINTOMA 219 228	ictericia
+T33	SINTOMA 230 268	dolor abdominal en hipocondrio derecho
+T34	SINTOMA 271 291	distensión abdominal
+T35	SINTOMA 1096 1110	hígado pequeño
+T36	SINTOMA 2477 2502	hemodinámicamente estable
+T37	SINTOMA 405 423	aumento del hígado
+T38	SINTOMA 441 484	auscultación cardiorrespiratoria era normal
+T39	SINTOMA 946 963	vía biliar normal
+T40	SINTOMA 965 985	vena porta permeable
+T41	SINTOMA 1738 1771	valores elevados de transaminasas
+T42	SINTOMA 1777 1814	alteración en el tiempo de protromina
+T43	SINTOMA 817 842	infiltrado alveolar basal
+T44	SINTOMA 743 781	Marcadores virales hepáticos negativos
+T45	SINTOMA 879 893	hígado pequeño
+T46	SINTOMA 1585 1618	empeoramiento de la función renal

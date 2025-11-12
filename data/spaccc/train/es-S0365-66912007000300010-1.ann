@@ -1,20 +1,20 @@
-T1	SINTOMA 488 495	cefalea
-T2	SINTOMA 767 783	ptosis palpebral
-T3	SINTOMA 804 830	buena función del elevador
-T4	SINTOMA 69 97	corte sangrante en el cuello
-T5	SINTOMA 718 756	motilidad ocular extrínseca fue normal
-T6	SINTOMA 498 535	visión borrosa con el ojo derecho (OD
-T7	ENFERMEDAD 69 137	corte sangrante en el cuello realizado al caerse sobre el escaparate
-T8	ENFERMEDAD 180 245	traumatismo inciso en la región antero-lateral derecha del cuello
-T9	ENFERMEDAD 767 783	ptosis palpebral
-T10	ENFERMEDAD 1031 1039	hematoma
-T11	ENFERMEDAD 1207 1257	solución de continuidad en la vena yugular externa
-T12	ENFERMEDAD 1322 1340	síndrome de Horner
-T13	ENFERMEDAD 470 476	herida
-T14	ENFERMEDAD 954 965	traumatismo
-T15	ENFERMEDAD 498 512	visión borrosa
-T16	PROCEDIMIENTO 1145 1185	exploración y evacuación intraquirúrgica
-T17	PROCEDIMIENTO 375 395	se suturó por planos
-T18	PROCEDIMIENTO 544 564	examen oftalmológico
-T19	PROCEDIMIENTO 885 928	exploración y palpación externas del cuello
-T20	PROCEDIMIENTO 997 1009	TAC cervical
+T1	ENFERMEDAD 69 137	corte sangrante en el cuello realizado al caerse sobre el escaparate
+T2	ENFERMEDAD 180 245	traumatismo inciso en la región antero-lateral derecha del cuello
+T3	ENFERMEDAD 767 783	ptosis palpebral
+T4	ENFERMEDAD 1031 1039	hematoma
+T5	ENFERMEDAD 1207 1257	solución de continuidad en la vena yugular externa
+T6	ENFERMEDAD 1322 1340	síndrome de Horner
+T7	ENFERMEDAD 470 476	herida
+T8	ENFERMEDAD 954 965	traumatismo
+T9	ENFERMEDAD 498 512	visión borrosa
+T10	PROCEDIMIENTO 544 564	examen oftalmológico
+T11	PROCEDIMIENTO 885 928	exploración y palpación externas del cuello
+T12	PROCEDIMIENTO 997 1009	TAC cervical
+T13	PROCEDIMIENTO 375 395	se suturó por planos
+T14	PROCEDIMIENTO 1145 1185	exploración y evacuación intraquirúrgica
+T15	SINTOMA 488 495	cefalea
+T16	SINTOMA 718 756	motilidad ocular extrínseca fue normal
+T17	SINTOMA 804 830	buena función del elevador
+T18	SINTOMA 69 97	corte sangrante en el cuello
+T19	SINTOMA 498 535	visión borrosa con el ojo derecho (OD
+T20	SINTOMA 767 783	ptosis palpebral

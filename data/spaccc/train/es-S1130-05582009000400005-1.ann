@@ -1,13 +1,37 @@
-T1	SINTOMA 894 970	borramiento de la cortical superior del canal en contacto con la raíz distal
-T2	SINTOMA 1196 1229	contacto entre el cordal y el NDI
-T3	SINTOMA 576 648	cordal en cuestión (38) se halla en íntima relación con el canal del NDI
-T4	SINTOMA 116 169	dolor e inflamación en torno al tercer molar inferior
-T5	SINTOMA 838 874	oscurecimiento en torno a los ápices
-T6	ENFERMEDAD 1515 1530	pericoronaritis
-T7	ENFERMEDAD 1944 1959	pericoronaritis
-T8	ENFERMEDAD 382 389	fumador
-T9	ENFERMEDAD 155 192	molar inferior izquierdo semiincluido
-T10	ENFERMEDAD 1699 1738	complicación infecciosa de causa pulpar
-T11	ENFERMEDAD 1575 1581	herida
-T12	ENFERMEDAD 3347 3353	herida
-T13	ENFERMEDAD 738 755	lesión del nervio
+T1	ENFERMEDAD 1515 1530	pericoronaritis
+T2	ENFERMEDAD 1944 1959	pericoronaritis
+T3	ENFERMEDAD 382 389	fumador
+T4	ENFERMEDAD 155 192	molar inferior izquierdo semiincluido
+T5	ENFERMEDAD 1699 1738	complicación infecciosa de causa pulpar
+T6	ENFERMEDAD 1575 1581	herida
+T7	ENFERMEDAD 3347 3353	herida
+T8	ENFERMEDAD 738 755	lesión del nervio
+T9	PROCEDIMIENTO 982 999	ortopantomografía
+T10	PROCEDIMIENTO 1387 1399	coronectomía
+T11	PROCEDIMIENTO 2206 2218	coronectomía
+T12	PROCEDIMIENTO 1064 1066	TC
+T13	PROCEDIMIENTO 1402 1437	extracción parcial del tercer molar
+T14	PROCEDIMIENTO 2281 2303	profilaxis antibiótica
+T15	PROCEDIMIENTO 1174 1176	TC
+T16	PROCEDIMIENTO 2346 2373	levantamiento de un colgajo
+T17	PROCEDIMIENTO 1554 1581	cierre directo de la herida
+T18	PROCEDIMIENTO 2420 2452	extracción completa de un cordal
+T19	PROCEDIMIENTO 3250 3284	se eliminan los restos de folículo
+T20	PROCEDIMIENTO 3334 3372	se sutura la herida con puntos sueltos
+T21	PROCEDIMIENTO 3427 3449	controles radiológicos
+T22	PROCEDIMIENTO 524 541	ortopantomografía
+T23	PROCEDIMIENTO 1795 1805	extracción
+T24	PROCEDIMIENTO 2305 2343	Realización de un incisión en bayoneta
+T25	PROCEDIMIENTO 2454 2540	Realización de un corte de la corona con una fresa de fisura desde la tabla vestibular
+T26	PROCEDIMIENTO 2796 2868	se continúa eliminando más tejido dentario, con la misma fresa de fisura
+T27	PROCEDIMIENTO 455 474	exploración clínica
+T28	PROCEDIMIENTO 768 791	maniobras de extracción
+T29	PROCEDIMIENTO 2082 2092	extracción
+T30	PROCEDIMIENTO 318 330	antibióticos
+T31	PROCEDIMIENTO 333 350	antiinflamatorios
+T32	PROCEDIMIENTO 3631 3643	intervención
+T33	SINTOMA 116 169	dolor e inflamación en torno al tercer molar inferior
+T34	SINTOMA 838 874	oscurecimiento en torno a los ápices
+T35	SINTOMA 894 970	borramiento de la cortical superior del canal en contacto con la raíz distal
+T36	SINTOMA 1196 1229	contacto entre el cordal y el NDI
+T37	SINTOMA 576 648	cordal en cuestión (38) se halla en íntima relación con el canal del NDI

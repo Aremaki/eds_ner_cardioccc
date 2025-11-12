@@ -1,46 +1,46 @@
-T1	SINTOMA 1641 1654	ANA positivos
-T2	SINTOMA 1694 1789	anticuerpos antiDNA, ENA, anticardiolipina, scl70, anticentrómero y factor reumatoide negativos
-T3	SINTOMA 1488 1543	anticuerpos antitiroglobulina y antiperoxidasa normales
-T4	SINTOMA 170 256	coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos
-T5	SINTOMA 636 702	coloración violácea y frialdad en extremos distales de ambas manos
-T6	SINTOMA 1882 1897	esclerodactilia
-T7	SINTOMA 923 938	esclerodactilia
-T8	SINTOMA 1030 1083	exploración cardiopulmonar no reveló ninguna anomalía
-T9	SINTOMA 1155 1415	Hemograma, electrolitos, coagulación, función hepática, función renal, gasometría arterial, análisis de orina, velocidad de sedimentación globular, niveles de complemento, inmunoglobulinas, crioaglutininas, crioglobulinas y marcadores tumorales fueron normales
-T10	SINTOMA 1946 2000	induración de piel preesternal y región laterocervical
-T11	SINTOMA 454 461	palidez
-T12	SINTOMA 805 844	pulsos distales se hallaban conservados
-T13	SINTOMA 472 477	rubor
-T14	SINTOMA 292 313	sensación de frialdad
-T15	SINTOMA 1549 1607	serologías de VHB, VHC, VIH y sífilis resultaron negativas
-T16	SINTOMA 1794 1830	TC torácico fue rigurosamente normal
-T17	ENFERMEDAD 91 116	hipotiroidismo subclínico
-T18	ENFERMEDAD 923 938	esclerodactilia
-T19	ENFERMEDAD 1012 1025	esclerodermia
-T20	ENFERMEDAD 1457 1482	hipotiroidismo subclínico
-T21	ENFERMEDAD 1882 1943	esclerodactilia y cicatrices puntiformes en pulpejos de dedos
-T22	ENFERMEDAD 342 350	lesiones
-T23	ENFERMEDAD 1579 1586	sífilis
-T24	ENFERMEDAD 940 950	cicatrices
-T25	PROCEDIMIENTO 1030 1056	exploración cardiopulmonar
-T26	PROCEDIMIENTO 1106 1153	pruebas complementarias, analíticas y de imagen
-T27	PROCEDIMIENTO 1155 1164	Hemograma
-T28	PROCEDIMIENTO 1166 1178	electrolitos
-T29	PROCEDIMIENTO 1180 1191	coagulación
-T30	PROCEDIMIENTO 1193 1209	función hepática
-T31	PROCEDIMIENTO 1211 1224	función renal
-T32	PROCEDIMIENTO 1226 1245	gasometría arterial
-T33	PROCEDIMIENTO 1247 1264	análisis de orina
-T34	PROCEDIMIENTO 1266 1301	velocidad de sedimentación globular
-T35	PROCEDIMIENTO 1303 1325	niveles de complemento
-T36	PROCEDIMIENTO 1327 1343	inmunoglobulinas
-T37	PROCEDIMIENTO 1345 1360	crioaglutininas
-T38	PROCEDIMIENTO 1362 1376	crioglobulinas
-T39	PROCEDIMIENTO 1379 1399	marcadores tumorales
-T40	PROCEDIMIENTO 1420 1447	estudio de función tiroidea
-T41	PROCEDIMIENTO 1549 1586	serologías de VHB, VHC, VIH y sífilis
-T42	PROCEDIMIENTO 1613 1633	estudio inmunológico
-T43	PROCEDIMIENTO 1794 1805	TC torácico
-T44	PROCEDIMIENTO 2062 2080	corticoides orales
-T45	PROCEDIMIENTO 571 598	medicación vasoconstrictora
-T46	PROCEDIMIENTO 605 623	exploración física
+T1	ENFERMEDAD 91 116	hipotiroidismo subclínico
+T2	ENFERMEDAD 923 938	esclerodactilia
+T3	ENFERMEDAD 1012 1025	esclerodermia
+T4	ENFERMEDAD 1457 1482	hipotiroidismo subclínico
+T5	ENFERMEDAD 1882 1943	esclerodactilia y cicatrices puntiformes en pulpejos de dedos
+T6	ENFERMEDAD 342 350	lesiones
+T7	ENFERMEDAD 1579 1586	sífilis
+T8	ENFERMEDAD 940 950	cicatrices
+T9	PROCEDIMIENTO 605 623	exploración física
+T10	PROCEDIMIENTO 1030 1056	exploración cardiopulmonar
+T11	PROCEDIMIENTO 1155 1164	Hemograma
+T12	PROCEDIMIENTO 1226 1245	gasometría arterial
+T13	PROCEDIMIENTO 1247 1264	análisis de orina
+T14	PROCEDIMIENTO 1549 1586	serologías de VHB, VHC, VIH y sífilis
+T15	PROCEDIMIENTO 1379 1399	marcadores tumorales
+T16	PROCEDIMIENTO 1266 1301	velocidad de sedimentación globular
+T17	PROCEDIMIENTO 1303 1325	niveles de complemento
+T18	PROCEDIMIENTO 1613 1633	estudio inmunológico
+T19	PROCEDIMIENTO 1794 1805	TC torácico
+T20	PROCEDIMIENTO 2062 2080	corticoides orales
+T21	PROCEDIMIENTO 1420 1447	estudio de función tiroidea
+T22	PROCEDIMIENTO 1180 1191	coagulación
+T23	PROCEDIMIENTO 1327 1343	inmunoglobulinas
+T24	PROCEDIMIENTO 1166 1178	electrolitos
+T25	PROCEDIMIENTO 571 598	medicación vasoconstrictora
+T26	PROCEDIMIENTO 1193 1209	función hepática
+T27	PROCEDIMIENTO 1211 1224	función renal
+T28	PROCEDIMIENTO 1345 1360	crioaglutininas
+T29	PROCEDIMIENTO 1362 1376	crioglobulinas
+T30	PROCEDIMIENTO 1106 1153	pruebas complementarias, analíticas y de imagen
+T31	SINTOMA 170 256	coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos
+T32	SINTOMA 454 461	palidez
+T33	SINTOMA 472 477	rubor
+T34	SINTOMA 636 702	coloración violácea y frialdad en extremos distales de ambas manos
+T35	SINTOMA 1155 1415	Hemograma, electrolitos, coagulación, función hepática, función renal, gasometría arterial, análisis de orina, velocidad de sedimentación globular, niveles de complemento, inmunoglobulinas, crioaglutininas, crioglobulinas y marcadores tumorales fueron normales
+T36	SINTOMA 1549 1607	serologías de VHB, VHC, VIH y sífilis resultaron negativas
+T37	SINTOMA 1794 1830	TC torácico fue rigurosamente normal
+T38	SINTOMA 1946 2000	induración de piel preesternal y región laterocervical
+T39	SINTOMA 805 844	pulsos distales se hallaban conservados
+T40	SINTOMA 1030 1083	exploración cardiopulmonar no reveló ninguna anomalía
+T41	SINTOMA 1488 1543	anticuerpos antitiroglobulina y antiperoxidasa normales
+T42	SINTOMA 292 313	sensación de frialdad
+T43	SINTOMA 1641 1654	ANA positivos
+T44	SINTOMA 923 938	esclerodactilia
+T45	SINTOMA 1694 1789	anticuerpos antiDNA, ENA, anticardiolipina, scl70, anticentrómero y factor reumatoide negativos
+T46	SINTOMA 1882 1897	esclerodactilia

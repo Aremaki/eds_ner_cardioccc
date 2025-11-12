@@ -1,12 +1,22 @@
-T1	SINTOMA 89 129	dolor lancinante en el cuerpo mandibular
-T2	SINTOMA 221 253	exploración intraoral fue normal
-T3	SINTOMA 1132 1140	falleció
-T4	SINTOMA 149 179	hipoestesia labio - mentoniana
-T5	SINTOMA 927 968	masa afectando al cuerpo y antro gástrico
-T6	SINTOMA 1002 1039	nódulo en el lóbulo superior pulmonar
-T7	SINTOMA 704 873	zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de T12, 8ª costilla derecha y en unión costocondral de 6ª costilla
-T8	ENFERMEDAD 353 466	lesión osteolítica bien delimitada de unos 2,5 cm de diámetro localizada a nivel de la rama ascendente mandibular
-T9	ENFERMEDAD 578 614	lesión metastásica de adenocarcinoma
-T10	ENFERMEDAD 974 996	adenopatías regionales
-T11	ENFERMEDAD 1182 1214	origen gástrico de la metástasis
-T12	ENFERMEDAD 512 518	lesión
+T1	ENFERMEDAD 353 466	lesión osteolítica bien delimitada de unos 2,5 cm de diámetro localizada a nivel de la rama ascendente mandibular
+T2	ENFERMEDAD 578 614	lesión metastásica de adenocarcinoma
+T3	ENFERMEDAD 974 996	adenopatías regionales
+T4	ENFERMEDAD 1182 1214	origen gástrico de la metástasis
+T5	ENFERMEDAD 512 518	lesión
+T6	PROCEDIMIENTO 221 242	exploración intraoral
+T7	PROCEDIMIENTO 299 316	ortopantomografía
+T8	PROCEDIMIENTO 319 321	TC
+T9	PROCEDIMIENTO 676 692	gammagrafía ósea
+T10	PROCEDIMIENTO 886 907	TC toraco - abdominal
+T11	PROCEDIMIENTO 1071 1118	tratamiento combinado con radio y quimioterapia
+T12	PROCEDIMIENTO 1161 1169	autopsia
+T13	PROCEDIMIENTO 498 505	biopsia
+T14	PROCEDIMIENTO 523 542	estudio histológico
+T15	PROCEDIMIENTO 269 289	estudio radiográfico
+T16	SINTOMA 89 129	dolor lancinante en el cuerpo mandibular
+T17	SINTOMA 149 179	hipoestesia labio - mentoniana
+T18	SINTOMA 221 253	exploración intraoral fue normal
+T19	SINTOMA 1132 1140	falleció
+T20	SINTOMA 704 873	zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de T12, 8ª costilla derecha y en unión costocondral de 6ª costilla
+T21	SINTOMA 927 968	masa afectando al cuerpo y antro gástrico
+T22	SINTOMA 1002 1039	nódulo en el lóbulo superior pulmonar

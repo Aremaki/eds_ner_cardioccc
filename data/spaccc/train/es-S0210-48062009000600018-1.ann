@@ -1,16 +1,60 @@
-T1	SINTOMA 2194 2201	astenia
-T2	SINTOMA 1541 1592	colección de 3 cm entre uretra y cuerpos cavernosos
-T3	SINTOMA 965 1002	cultivo de orina positivo para E.Coli
-T4	SINTOMA 82 100	dolor hipogástrico
-T5	SINTOMA 1831 1845	dolor perineal
-T6	SINTOMA 1101 1115	dolor perineal
-T7	SINTOMA 2488 2502	dolor perineal
-T8	SINTOMA 234 281	empeoramiento progresivo de su chorro miccional
-T9	SINTOMA 890 928	extravasado en uretra peneana proximal
-T10	SINTOMA 103 109	fiebre
-T11	SINTOMA 338 351	globo vesical
-T12	SINTOMA 401 439	induración dolorosa de la base peneana
-T13	SINTOMA 538 580	leucocitosis con desviación a la izquierda
-T14	SINTOMA 69 80	polaquiuria
-T15	SINTOMA 360 398	secreción serosa de la herida inguinal
-T16	SINTOMA 583 634	sedimento de orina positivo a bacilos gramnegativos
+T1	ENFERMEDAD 950 960	ITU febril
+T2	ENFERMEDAD 1541 1592	colección de 3 cm entre uretra y cuerpos cavernosos
+T3	ENFERMEDAD 1677 1724	lesión subpleural en lóbulo superior del pulmón
+T4	ENFERMEDAD 1871 1915	lesiones nodulares cutáneas en pubis y muslo
+T5	ENFERMEDAD 784 822	seroma subcicatricial a nivel inguinal
+T6	ENFERMEDAD 1602 1624	adenopatías inguinales
+T7	ENFERMEDAD 171 206	hernia inguinal derecha incarcerada
+T8	ENFERMEDAD 2228 2237	letàlides
+T9	ENFERMEDAD 2259 2274	lesión pulmonar
+T10	ENFERMEDAD 1252 1267	hernia inguinal
+T11	ENFERMEDAD 383 398	herida inguinal
+T12	ENFERMEDAD 1323 1382	adenopatía de carcinoma escamoso moderadamente diferenciado
+T13	ENFERMEDAD 2393 2410	lesiones cutáneas
+T14	ENFERMEDAD 1423 1475	carcinoma escamoso de uretra con adenopatía inguinal
+T15	ENFERMEDAD 1456 1475	adenopatía inguinal
+T16	ENFERMEDAD 2529 2538	letálides
+T17	ENFERMEDAD 1775 1786	adenopatías
+T18	ENFERMEDAD 1980 1998	carcinoma escamoso
+T19	ENFERMEDAD 2682 2700	carcinoma escamoso
+T20	ENFERMEDAD 1746 1756	metástasis
+T21	PROCEDIMIENTO 1517 1529	RNM pelviana
+T22	PROCEDIMIENTO 1640 1659	TC tóraco-abdominal
+T23	PROCEDIMIENTO 460 471	cistostomía
+T24	PROCEDIMIENTO 37 41	RTUP
+T25	PROCEDIMIENTO 2037 2094	poliquimioterapia paliativa con cisplatino + 5-fluoracilo
+T26	PROCEDIMIENTO 493 508	sondaje uretral
+T27	PROCEDIMIENTO 753 772	ecografía abdominal
+T28	PROCEDIMIENTO 833 869	cistografía por sonda de cistostomía
+T29	PROCEDIMIENTO 1139 1156	antiinflamatorios
+T30	PROCEDIMIENTO 664 675	antibiótico
+T31	PROCEDIMIENTO 309 327	exploración física
+T32	PROCEDIMIENTO 2434 2456	radioterapia paliativa
+T33	PROCEDIMIENTO 2576 2584	mórficos
+T34	PROCEDIMIENTO 1929 1936	biopsia
+T35	PROCEDIMIENTO 2616 2635	cuidados paliativos
+T36	PROCEDIMIENTO 1492 1512	estudio de extensión
+T37	PROCEDIMIENTO 441 471	Se colocó sonda de cistostomía
+T38	PROCEDIMIENTO 2299 2312	quimioterapia
+T39	PROCEDIMIENTO 583 601	sedimento de orina
+T40	PROCEDIMIENTO 965 981	cultivo de orina
+T41	PROCEDIMIENTO 1177 1195	anatomo-patológico
+T42	PROCEDIMIENTO 515 524	analítica
+T43	PROCEDIMIENTO 731 740	analítica
+T44	PROCEDIMIENTO 1212 1219	cirugía
+T45	SINTOMA 965 1002	cultivo de orina positivo para E.Coli
+T46	SINTOMA 1831 1845	dolor perineal
+T47	SINTOMA 69 80	polaquiuria
+T48	SINTOMA 82 100	dolor hipogástrico
+T49	SINTOMA 538 580	leucocitosis con desviación a la izquierda
+T50	SINTOMA 103 109	fiebre
+T51	SINTOMA 583 634	sedimento de orina positivo a bacilos gramnegativos
+T52	SINTOMA 1101 1115	dolor perineal
+T53	SINTOMA 890 928	extravasado en uretra peneana proximal
+T54	SINTOMA 2194 2201	astenia
+T55	SINTOMA 234 281	empeoramiento progresivo de su chorro miccional
+T56	SINTOMA 401 439	induración dolorosa de la base peneana
+T57	SINTOMA 2488 2502	dolor perineal
+T58	SINTOMA 360 398	secreción serosa de la herida inguinal
+T59	SINTOMA 338 351	globo vesical
+T60	SINTOMA 1541 1592	colección de 3 cm entre uretra y cuerpos cavernosos

@@ -1,8 +1,8 @@
-T1	SINTOMA 312 324	asintomático
-T2	SINTOMA 827 839	asintomático
-T3	SINTOMA 688 709	acidosis respiratoria
-T4	SINTOMA 365 404	exploración física y neurológica normal
-T5	SINTOMA 526 571	sintomatología gastrointestinal y neurológica
-T6	ENFERMEDAD 688 709	acidosis respiratoria
-T7	PROCEDIMIENTO 365 397	exploración física y neurológica
-T8	PROCEDIMIENTO 641 659	gasometría capilar
+T1	ENFERMEDAD 688 709	acidosis respiratoria
+T2	PROCEDIMIENTO 365 397	exploración física y neurológica
+T3	PROCEDIMIENTO 641 659	gasometría capilar
+T4	SINTOMA 526 571	sintomatología gastrointestinal y neurológica
+T5	SINTOMA 312 324	asintomático
+T6	SINTOMA 827 839	asintomático
+T7	SINTOMA 365 404	exploración física y neurológica normal
+T8	SINTOMA 688 709	acidosis respiratoria

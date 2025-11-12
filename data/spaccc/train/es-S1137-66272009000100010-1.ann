@@ -1,45 +1,62 @@
-T1	SINTOMA 1267 1300	anomalías electroencefalográficas
-T2	SINTOMA 969 1006	ataxia de características cerebelosas
-T3	SINTOMA 1755 1790	ataxia de predominio troncal severa
-T4	SINTOMA 743 766	buen estado nutricional
-T5	SINTOMA 2614 2669	catecolaminas en orina de 24 horas, que fueron normales
-T6	SINTOMA 1426 1444	cultivos negativos
-T7	SINTOMA 484 528	desarrollo psicomotor seguía un curso normal
-T8	SINTOMA 2244 2285	ecografía abdominal, con resultado normal
-T9	SINTOMA 129 155	inestabilidad en la marcha
-T10	SINTOMA 641 661	irritabilidad severa
-T11	SINTOMA 2965 2996	leve inestabilidad de la marcha
-T12	SINTOMA 1391 1408	linforraquia leve
-T13	SINTOMA 2426 2458	masa intratorácica paravertebral
-T14	SINTOMA 2346 2372	masa torácica paraesternal
-T15	SINTOMA 1867 1901	mioclonias de refuerzo intencional
-T16	SINTOMA 1955 2024	movimientos oculares rápidos, sacádicos, multidireccionales, caóticos
-T17	SINTOMA 1058 1150	pares craneales, fuerza, tono muscular y reflejos osteotendinosos eran normales y simétricos
-T18	SINTOMA 805 836	signos externos de traumatismos
-T19	SINTOMA 664 679	sueño irregular
-T20	SINTOMA 1010 1052	temblor intencional intenso y generalizado
-T21	SINTOMA 1323 1360	tóxicos en orina resultaron negativos
-T22	SINTOMA 2811 2817	ataxia
-T23	SINTOMA 1829 1836	temblor
-T24	SINTOMA 2823 2836	irritabilidad
-T25	SINTOMA 158 177	temblor intencional
-T26	SINTOMA 1907 1920	irritabilidad
-T27	SINTOMA 272 278	fiebre
-T28	SINTOMA 2999 3012	irritabilidad
-T29	SINTOMA 597 603	ataxia
-T30	SINTOMA 787 803	signos meníngeos
-T31	SINTOMA 912 927	habla escandida
-T32	SINTOMA 1733 1752	temblor intencional
-T33	ENFERMEDAD 2675 2684	opsoclono
-T34	ENFERMEDAD 241 267	exantema generalizado leve
-T35	ENFERMEDAD 3032 3048	recidiva tumoral
-T36	ENFERMEDAD 471 479	varicela
-T37	ENFERMEDAD 2168 2177	opsoclono
-T38	ENFERMEDAD 2522 2542	ganglioneuroblastoma
-T39	ENFERMEDAD 372 380	alergias
-T40	ENFERMEDAD 2221 2226	tumor
-T41	ENFERMEDAD 1555 1563	Varicela
-T42	ENFERMEDAD 394 406	traumatismos
-T43	ENFERMEDAD 824 836	traumatismos
-T44	ENFERMEDAD 969 1006	ataxia de características cerebelosas
-T45	ENFERMEDAD 2485 2488	TCN
+T1	ENFERMEDAD 2675 2684	opsoclono
+T2	ENFERMEDAD 241 267	exantema generalizado leve
+T3	ENFERMEDAD 3032 3048	recidiva tumoral
+T4	ENFERMEDAD 471 479	varicela
+T5	ENFERMEDAD 2168 2177	opsoclono
+T6	ENFERMEDAD 2522 2542	ganglioneuroblastoma
+T7	ENFERMEDAD 372 380	alergias
+T8	ENFERMEDAD 2221 2226	tumor
+T9	ENFERMEDAD 1555 1563	Varicela
+T10	ENFERMEDAD 394 406	traumatismos
+T11	ENFERMEDAD 824 836	traumatismos
+T12	ENFERMEDAD 969 1006	ataxia de características cerebelosas
+T13	ENFERMEDAD 2485 2488	TCN
+T14	PROCEDIMIENTO 1174 1194	electroencefalograma
+T15	PROCEDIMIENTO 1196 1199	EEG
+T16	PROCEDIMIENTO 1203 1248	tomografía (TC) cerebral con contraste iodado
+T17	PROCEDIMIENTO 1215 1217	TC
+T18	PROCEDIMIENTO 1323 1339	tóxicos en orina
+T19	PROCEDIMIENTO 1365 1379	punción lumbar
+T20	PROCEDIMIENTO 2244 2263	ecografía abdominal
+T21	PROCEDIMIENTO 2293 2320	radiografía simple de tórax
+T22	PROCEDIMIENTO 687 705	exploración física
+T23	PROCEDIMIENTO 2399 2410	TC torácica
+T24	PROCEDIMIENTO 875 898	exploración neurológica
+T25	PROCEDIMIENTO 1426 1434	cultivos
+T26	PROCEDIMIENTO 1413 1423	bioquímica
+T27	PROCEDIMIENTO 2614 2648	catecolaminas en orina de 24 horas
+T28	PROCEDIMIENTO 2509 2516	cirugía
+T29	PROCEDIMIENTO 2780 2787	cirugía
+T30	PROCEDIMIENTO 1504 1514	serologías
+T31	SINTOMA 1755 1790	ataxia de predominio troncal severa
+T32	SINTOMA 1267 1300	anomalías electroencefalográficas
+T33	SINTOMA 129 155	inestabilidad en la marcha
+T34	SINTOMA 2811 2817	ataxia
+T35	SINTOMA 1829 1836	temblor
+T36	SINTOMA 2823 2836	irritabilidad
+T37	SINTOMA 158 177	temblor intencional
+T38	SINTOMA 1867 1901	mioclonias de refuerzo intencional
+T39	SINTOMA 1907 1920	irritabilidad
+T40	SINTOMA 1391 1408	linforraquia leve
+T41	SINTOMA 272 278	fiebre
+T42	SINTOMA 1955 2024	movimientos oculares rápidos, sacádicos, multidireccionales, caóticos
+T43	SINTOMA 2965 2996	leve inestabilidad de la marcha
+T44	SINTOMA 2999 3012	irritabilidad
+T45	SINTOMA 597 603	ataxia
+T46	SINTOMA 641 661	irritabilidad severa
+T47	SINTOMA 664 679	sueño irregular
+T48	SINTOMA 2346 2372	masa torácica paraesternal
+T49	SINTOMA 2426 2458	masa intratorácica paravertebral
+T50	SINTOMA 787 803	signos meníngeos
+T51	SINTOMA 805 836	signos externos de traumatismos
+T52	SINTOMA 969 1006	ataxia de características cerebelosas
+T53	SINTOMA 1010 1052	temblor intencional intenso y generalizado
+T54	SINTOMA 912 927	habla escandida
+T55	SINTOMA 1058 1150	pares craneales, fuerza, tono muscular y reflejos osteotendinosos eran normales y simétricos
+T56	SINTOMA 1426 1444	cultivos negativos
+T57	SINTOMA 484 528	desarrollo psicomotor seguía un curso normal
+T58	SINTOMA 743 766	buen estado nutricional
+T59	SINTOMA 1323 1360	tóxicos en orina resultaron negativos
+T60	SINTOMA 1733 1752	temblor intencional
+T61	SINTOMA 2244 2285	ecografía abdominal, con resultado normal
+T62	SINTOMA 2614 2669	catecolaminas en orina de 24 horas, que fueron normales

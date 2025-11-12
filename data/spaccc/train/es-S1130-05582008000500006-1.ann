@@ -1,18 +1,29 @@
-T1	SINTOMA 1104 1141	aumento de volumen del labio inferior
-T2	SINTOMA 259 296	aumento de volumen del labio inferior
-T3	SINTOMA 413 452	aumento de volumen en el labio inferior
-T4	SINTOMA 1522 1545	dolor post infiltración
-T5	SINTOMA 1180 1197	lengua depapilada
-T6	SINTOMA 1653 1692	reducción del tamaño del labio inferior
-T7	SINTOMA 1213 1250	surcos transversales en dorso lingual
-T8	SINTOMA 1266 1281	lengua fisurada
-T9	ENFERMEDAD 813 822	epilepsia
-T10	ENFERMEDAD 839 858	retraso mental leve
-T11	ENFERMEDAD 860 874	hipotiroidismo
-T12	ENFERMEDAD 876 901	resistencia a la insulina
-T13	ENFERMEDAD 904 919	alergia al yodo
-T14	ENFERMEDAD 558 578	QG asociada a un SMR
-T15	ENFERMEDAD 1266 1281	lengua fisurada
-T16	ENFERMEDAD 1304 1315	macroglosia
-T17	ENFERMEDAD 241 244	SMR
-T18	ENFERMEDAD 1180 1197	lengua depapilada
+T1	ENFERMEDAD 813 822	epilepsia
+T2	ENFERMEDAD 839 858	retraso mental leve
+T3	ENFERMEDAD 860 874	hipotiroidismo
+T4	ENFERMEDAD 876 901	resistencia a la insulina
+T5	ENFERMEDAD 904 919	alergia al yodo
+T6	ENFERMEDAD 558 578	QG asociada a un SMR
+T7	ENFERMEDAD 1266 1281	lengua fisurada
+T8	ENFERMEDAD 1304 1315	macroglosia
+T9	ENFERMEDAD 241 244	SMR
+T10	ENFERMEDAD 1180 1197	lengua depapilada
+T11	PROCEDIMIENTO 771 780	anamnesis
+T12	PROCEDIMIENTO 1071 1084	examen físico
+T13	PROCEDIMIENTO 1348 1399	infiltraciones intralesionales en el labio inferior
+T14	PROCEDIMIENTO 484 493	biopsiado
+T15	PROCEDIMIENTO 616 646	infiltraciones intralesionales
+T16	PROCEDIMIENTO 331 383	tratamiento con corticoides intralesionales y orales
+T17	PROCEDIMIENTO 1772 1784	infiltración
+T18	PROCEDIMIENTO 1831 1876	queiloplastía de reducción del labio inferior
+T19	PROCEDIMIENTO 1882 1899	anestesia general
+T20	PROCEDIMIENTO 514 548	diagnosticado histopatológicamente
+T21	PROCEDIMIENTO 1533 1545	infiltración
+T22	SINTOMA 413 452	aumento de volumen en el labio inferior
+T23	SINTOMA 1104 1141	aumento de volumen del labio inferior
+T24	SINTOMA 1180 1197	lengua depapilada
+T25	SINTOMA 1213 1250	surcos transversales en dorso lingual
+T26	SINTOMA 1522 1545	dolor post infiltración
+T27	SINTOMA 259 296	aumento de volumen del labio inferior
+T28	SINTOMA 1266 1281	lengua fisurada
+T29	SINTOMA 1653 1692	reducción del tamaño del labio inferior

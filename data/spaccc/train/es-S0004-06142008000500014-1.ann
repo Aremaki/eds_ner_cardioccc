@@ -1,16 +1,29 @@
-T1	SINTOMA 476 487	polaquiuria
-T2	SINTOMA 1487 1514	ambos riñones eran normales
-T3	SINTOMA 412 438	ardor uretral posmiccional
-T4	SINTOMA 941 952	dispareunia
-T5	SINTOMA 440 474	dolor uretral y en el bajo vientre
-T6	SINTOMA 553 590	Escherichia Coli en cultivos de orina
-T7	SINTOMA 896 935	interrupción brusca del chorro urinario
-T8	SINTOMA 2025 2083	mucosa vesical estaba muy eritematosa y con sangrado fácil
-T9	SINTOMA 1154 1172	síntomas urinarios
-T10	SINTOMA 1337 1355	síntomas urinarios
-T11	SINTOMA 356 395	sintomatología urinaria irritativa baja
-T12	SINTOMA 490 508	urgencia miccional
-T13	ENFERMEDAD 2088 2125	litiasis, situada en el fondo vesical
-T14	ENFERMEDAD 1770 1820	pelvis, comprobándose la presencia de una litiasis
-T15	ENFERMEDAD 683 702	cistitis infecciosa
-T16	ENFERMEDAD 1554 1592	vejiga, existía una imagen de litiasis
+T1	ENFERMEDAD 2088 2125	litiasis, situada en el fondo vesical
+T2	ENFERMEDAD 1770 1820	pelvis, comprobándose la presencia de una litiasis
+T3	ENFERMEDAD 683 702	cistitis infecciosa
+T4	ENFERMEDAD 1554 1592	vejiga, existía una imagen de litiasis
+T5	PROCEDIMIENTO 1301 1306	parto
+T6	PROCEDIMIENTO 1961 1987	cistolitotomía suprapúbica
+T7	PROCEDIMIENTO 2378 2391	sonda uretral
+T8	PROCEDIMIENTO 1042 1072	T de cobre colocada intraútero
+T9	PROCEDIMIENTO 94 99	parto
+T10	PROCEDIMIENTO 248 302	se le colocó una T de cobre como método anticonceptivo
+T11	PROCEDIMIENTO 1434 1467	ultrasonido de las vías urinarias
+T12	PROCEDIMIENTO 573 590	cultivos de orina
+T13	PROCEDIMIENTO 1735 1776	radiografía ántero-posterior de la pelvis
+T14	PROCEDIMIENTO 604 660	tratamiento con varios ciclos de diferentes antibióticos
+T15	PROCEDIMIENTO 2088 2183	litiasis, situada en el fondo vesical, se fragmentó en la maniobra de extracción con las pinzas
+T16	PROCEDIMIENTO 162 227	interrupción de embarazo no deseado, mediante legrado endometrial
+T17	PROCEDIMIENTO 1240 1245	Parió
+T18	SINTOMA 1337 1355	síntomas urinarios
+T19	SINTOMA 2025 2083	mucosa vesical estaba muy eritematosa y con sangrado fácil
+T20	SINTOMA 1154 1172	síntomas urinarios
+T21	SINTOMA 356 395	sintomatología urinaria irritativa baja
+T22	SINTOMA 412 438	ardor uretral posmiccional
+T23	SINTOMA 440 474	dolor uretral y en el bajo vientre
+T24	SINTOMA 476 487	polaquiuria
+T25	SINTOMA 490 508	urgencia miccional
+T26	SINTOMA 553 590	Escherichia Coli en cultivos de orina
+T27	SINTOMA 896 935	interrupción brusca del chorro urinario
+T28	SINTOMA 941 952	dispareunia
+T29	SINTOMA 1487 1514	ambos riñones eran normales

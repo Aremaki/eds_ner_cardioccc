@@ -1,28 +1,38 @@
-T1	SINTOMA 1169 1214	alteraciones cardiológicas, ni disautonómicas
-T2	SINTOMA 1018 1038	articulaciones laxas
-T3	SINTOMA 940 970	dificultades en la masticación
-T4	SINTOMA 994 1016	hipotonía generalizada
-T5	SINTOMA 973 980	vómitos
-T6	SINTOMA 1287 1291	sano
-T7	SINTOMA 1708 1713	sanos
-T8	SINTOMA 1743 1747	sano
-T9	ENFERMEDAD 1391 1394	SXF
-T10	ENFERMEDAD 241 257	amenaza de parto
-T11	ENFERMEDAD 297 332	retraso en el desarrollo psicomotor
-T12	ENFERMEDAD 356 375	crisis de ausencias
-T13	ENFERMEDAD 380 398	crisis epilépticas
-T14	ENFERMEDAD 461 484	retraso mental moderado
-T15	ENFERMEDAD 518 551	alteraciones conductuales severas
-T16	ENFERMEDAD 558 578	espectro del autismo
-T17	ENFERMEDAD 580 615	déficit en el control de esfínteres
-T18	ENFERMEDAD 618 669	trastorno de hiperactividad con déficit de atención
-T19	ENFERMEDAD 817 832	ansiedad social
-T20	ENFERMEDAD 1040 1051	pies valgos
-T21	ENFERMEDAD 1112 1132	alteración del sueño
-T22	ENFERMEDAD 486 516	dificultades en el aprendizaje
-T23	ENFERMEDAD 835 870	fobias extremas a ruidos y animales
-T24	ENFERMEDAD 94 117	dilatación estacionaria
-T25	ENFERMEDAD 994 1016	hipotonía generalizada
-T26	ENFERMEDAD 1018 1038	articulaciones laxas
-T27	ENFERMEDAD 1169 1195	alteraciones cardiológicas
-T28	ENFERMEDAD 1219 1250	rasgos faciales característicos
+T1	ENFERMEDAD 1391 1394	SXF
+T2	ENFERMEDAD 241 257	amenaza de parto
+T3	ENFERMEDAD 297 332	retraso en el desarrollo psicomotor
+T4	ENFERMEDAD 356 375	crisis de ausencias
+T5	ENFERMEDAD 380 398	crisis epilépticas
+T6	ENFERMEDAD 461 484	retraso mental moderado
+T7	ENFERMEDAD 518 551	alteraciones conductuales severas
+T8	ENFERMEDAD 558 578	espectro del autismo
+T9	ENFERMEDAD 580 615	déficit en el control de esfínteres
+T10	ENFERMEDAD 618 669	trastorno de hiperactividad con déficit de atención
+T11	ENFERMEDAD 817 832	ansiedad social
+T12	ENFERMEDAD 1040 1051	pies valgos
+T13	ENFERMEDAD 1112 1132	alteración del sueño
+T14	ENFERMEDAD 486 516	dificultades en el aprendizaje
+T15	ENFERMEDAD 835 870	fobias extremas a ruidos y animales
+T16	ENFERMEDAD 94 117	dilatación estacionaria
+T17	ENFERMEDAD 994 1016	hipotonía generalizada
+T18	ENFERMEDAD 1018 1038	articulaciones laxas
+T19	ENFERMEDAD 1169 1195	alteraciones cardiológicas
+T20	ENFERMEDAD 1219 1250	rasgos faciales característicos
+T21	PROCEDIMIENTO 55 117	parto a término con uso de fórceps por dilatación estacionaria
+T22	PROCEDIMIENTO 1400 1416	estudio genético
+T23	PROCEDIMIENTO 252 257	parto
+T24	PROCEDIMIENTO 1805 1821	consejo genético
+T25	PROCEDIMIENTO 1942 1983	análisis genético en el periodo postnatal
+T26	PROCEDIMIENTO 762 775	antioxidantes
+T27	PROCEDIMIENTO 1145 1155	melatonina
+T28	PROCEDIMIENTO 1070 1093	intervención quirúrgica
+T29	PROCEDIMIENTO 1841 1861	diagnóstico prenatal
+T30	PROCEDIMIENTO 1469 1492	estudiada genéticamente
+T31	SINTOMA 940 970	dificultades en la masticación
+T32	SINTOMA 973 980	vómitos
+T33	SINTOMA 994 1016	hipotonía generalizada
+T34	SINTOMA 1018 1038	articulaciones laxas
+T35	SINTOMA 1169 1214	alteraciones cardiológicas, ni disautonómicas
+T36	SINTOMA 1287 1291	sano
+T37	SINTOMA 1708 1713	sanos
+T38	SINTOMA 1743 1747	sano

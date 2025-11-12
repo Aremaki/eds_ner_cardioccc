@@ -1,35 +1,35 @@
-T1	SINTOMA 135 144	ictericia
-T2	SINTOMA 541 552	eosinofilia
-T3	SINTOMA 1028 1034	disnea
-T4	SINTOMA 328 358	abdomen era blando, depresible
-T5	SINTOMA 259 266	afebril
-T6	SINTOMA 1037 1049	desaturación
-T7	SINTOMA 364 372	doloroso
-T8	SINTOMA 1077 1083	fiebre
-T9	SINTOMA 516 528	leucocitosis
-T10	SINTOMA 1149 1160	eosinofilia
-T11	SINTOMA 61 124	dolor en epigastrio-hipocondrio derecho irradiado a la escápula
-T12	SINTOMA 280 307	ictericia de piel y mucosas
-T13	SINTOMA 147 171	intolerancia alimenticia
-T14	SINTOMA 850 874	líquido libre peritoneal
-T15	SINTOMA 1091 1114	sibilancias bilaterales
-T16	SINTOMA 784 845	Vesícula, cuerpo de páncreas, riñones, bazo y vejiga normales
-T17	ENFERMEDAD 639 682	lóbulo hepático derecho una lesión quística
-T18	ENFERMEDAD 728 745	quiste hidatídico
-T19	ENFERMEDAD 765 782	litiasis biliares
-T20	ENFERMEDAD 1005 1023	shock anafiláctico
-T21	ENFERMEDAD 1350 1360	anafilaxia
-T22	ENFERMEDAD 1391 1408	quiste hidatídico
-T23	ENFERMEDAD 1533 1595	quiste en contacto con vena cava inferior y vena suprahepática
-T24	ENFERMEDAD 1116 1133	lesiones cutaneas
-T25	PROCEDIMIENTO 1165 1177	TC abdominal
-T26	PROCEDIMIENTO 1231 1240	ecografía
-T27	PROCEDIMIENTO 1497 1522	ecografía intraoperatoria
-T28	PROCEDIMIENTO 1619 1678	punción, aspiración y esterilización con salino hipertónico
-T29	PROCEDIMIENTO 1689 1704	colecistectomía
-T30	PROCEDIMIENTO 1707 1720	coledocotomía
-T31	PROCEDIMIENTO 1745 1754	analítica
-T32	PROCEDIMIENTO 201 212	exploración
-T33	PROCEDIMIENTO 315 335	palpación el abdomen
-T34	PROCEDIMIENTO 377 386	analítica
-T35	PROCEDIMIENTO 599 618	ecografía abdominal
+T1	ENFERMEDAD 639 682	lóbulo hepático derecho una lesión quística
+T2	ENFERMEDAD 728 745	quiste hidatídico
+T3	ENFERMEDAD 765 782	litiasis biliares
+T4	ENFERMEDAD 1005 1023	shock anafiláctico
+T5	ENFERMEDAD 1350 1360	anafilaxia
+T6	ENFERMEDAD 1391 1408	quiste hidatídico
+T7	ENFERMEDAD 1533 1595	quiste en contacto con vena cava inferior y vena suprahepática
+T8	ENFERMEDAD 1116 1133	lesiones cutaneas
+T9	PROCEDIMIENTO 315 335	palpación el abdomen
+T10	PROCEDIMIENTO 599 618	ecografía abdominal
+T11	PROCEDIMIENTO 1165 1177	TC abdominal
+T12	PROCEDIMIENTO 1231 1240	ecografía
+T13	PROCEDIMIENTO 1497 1522	ecografía intraoperatoria
+T14	PROCEDIMIENTO 1619 1678	punción, aspiración y esterilización con salino hipertónico
+T15	PROCEDIMIENTO 1689 1704	colecistectomía
+T16	PROCEDIMIENTO 1707 1720	coledocotomía
+T17	PROCEDIMIENTO 377 386	analítica
+T18	PROCEDIMIENTO 1745 1754	analítica
+T19	PROCEDIMIENTO 201 212	exploración
+T20	SINTOMA 61 124	dolor en epigastrio-hipocondrio derecho irradiado a la escápula
+T21	SINTOMA 135 144	ictericia
+T22	SINTOMA 147 171	intolerancia alimenticia
+T23	SINTOMA 280 307	ictericia de piel y mucosas
+T24	SINTOMA 541 552	eosinofilia
+T25	SINTOMA 1028 1034	disnea
+T26	SINTOMA 1091 1114	sibilancias bilaterales
+T27	SINTOMA 328 358	abdomen era blando, depresible
+T28	SINTOMA 259 266	afebril
+T29	SINTOMA 1037 1049	desaturación
+T30	SINTOMA 364 372	doloroso
+T31	SINTOMA 1077 1083	fiebre
+T32	SINTOMA 516 528	leucocitosis
+T33	SINTOMA 850 874	líquido libre peritoneal
+T34	SINTOMA 784 845	Vesícula, cuerpo de páncreas, riñones, bazo y vejiga normales
+T35	SINTOMA 1149 1160	eosinofilia

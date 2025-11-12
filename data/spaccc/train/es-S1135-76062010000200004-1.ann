@@ -1,14 +1,22 @@
-T1	SINTOMA 1493 1531	adelgazamiento de la pared de la aorta
-T2	SINTOMA 1234 1304	endocardio subaórtico se apreciaba un área clara ligeramente engrosada
-T3	SINTOMA 501 516	hábito atlético
-T4	SINTOMA 627 644	hábito marfanoide
-T5	SINTOMA 215 237	pierde el conocimiento
-T6	SINTOMA 595 623	signos externos de violencia
-T7	SINTOMA 1316 1381	válvulas auriculoventriculares como las semilunares eran normales
-T8	SINTOMA 296 303	fallece
-T9	ENFERMEDAD 37 44	síncope
-T10	ENFERMEDAD 1734 1755	colagenopatía atípica
-T11	ENFERMEDAD 749 819	rotura de un aneurisma sacular de la porción terminal del arco aórtico
-T12	ENFERMEDAD 1825 1843	Síndrome de Marfan
-T13	ENFERMEDAD 891 900	aneurisma
-T14	ENFERMEDAD 698 707	hemotórax
+T1	ENFERMEDAD 37 44	síncope
+T2	ENFERMEDAD 1734 1755	colagenopatía atípica
+T3	ENFERMEDAD 749 819	rotura de un aneurisma sacular de la porción terminal del arco aórtico
+T4	ENFERMEDAD 1825 1843	Síndrome de Marfan
+T5	ENFERMEDAD 891 900	aneurisma
+T6	ENFERMEDAD 698 707	hemotórax
+T7	PROCEDIMIENTO 403 411	autopsia
+T8	PROCEDIMIENTO 1437 1485	examen histopatológico de la pared del aneurisma
+T9	PROCEDIMIENTO 651 682	apertura de la cavidad torácica
+T10	PROCEDIMIENTO 1803 1821	screening genético
+T11	PROCEDIMIENTO 1887 1903	consejo genético
+T12	PROCEDIMIENTO 1958 2055	investigación genética molecular del marcador FBN1 que se amplificó por protocolo de PCR estándar
+T13	PROCEDIMIENTO 2095 2112	electroferogramas
+T14	PROCEDIMIENTO 2114 2136	electroforesis capilar
+T15	SINTOMA 215 237	pierde el conocimiento
+T16	SINTOMA 627 644	hábito marfanoide
+T17	SINTOMA 1493 1531	adelgazamiento de la pared de la aorta
+T18	SINTOMA 501 516	hábito atlético
+T19	SINTOMA 595 623	signos externos de violencia
+T20	SINTOMA 1316 1381	válvulas auriculoventriculares como las semilunares eran normales
+T21	SINTOMA 1234 1304	endocardio subaórtico se apreciaba un área clara ligeramente engrosada
+T22	SINTOMA 296 303	fallece

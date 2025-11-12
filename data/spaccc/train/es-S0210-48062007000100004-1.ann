@@ -1,14 +1,23 @@
-T1	SINTOMA 974 984	continente
-T2	SINTOMA 784 794	hemorragia
-T3	SINTOMA 223 251	incontinencia urinaria total
-T4	SINTOMA 1190 1204	reflujo activo
-T5	SINTOMA 1107 1138	reflujo pasivo derecho y activo
-T6	SINTOMA 482 538	reflujo vesicoureteral pasivo grado III derecho y activo
-T7	SINTOMA 426 455	vejiga de contorno festoneado
-T8	SINTOMA 42 63	vejiga hiperrefléxica
-T9	ENFERMEDAD 42 93	vejiga hiperrefléxica secundaria a mielomeningocele
-T10	ENFERMEDAD 77 93	mielomeningocele
-T11	ENFERMEDAD 1020 1033	pielonefritis
-T12	ENFERMEDAD 144 156	hidrocefalia
-T13	ENFERMEDAD 313 340	pielonefritis de repetición
-T14	ENFERMEDAD 482 504	reflujo vesicoureteral
+T1	ENFERMEDAD 42 93	vejiga hiperrefléxica secundaria a mielomeningocele
+T2	ENFERMEDAD 77 93	mielomeningocele
+T3	ENFERMEDAD 1020 1033	pielonefritis
+T4	ENFERMEDAD 144 156	hidrocefalia
+T5	ENFERMEDAD 313 340	pielonefritis de repetición
+T6	ENFERMEDAD 482 504	reflujo vesicoureteral
+T7	PROCEDIMIENTO 644 728	enterocistoplastia de ampliación laparoscópica con un segmento ileal destubularizado
+T8	PROCEDIMIENTO 107 139	derivación ventrículo-peritoneal
+T9	PROCEDIMIENTO 1038 1049	cistografía
+T10	PROCEDIMIENTO 381 392	cistografía
+T11	PROCEDIMIENTO 574 585	cistografía
+T12	PROCEDIMIENTO 612 631	estudio urodinámico
+T13	PROCEDIMIENTO 275 291	colector peneano
+T14	PROCEDIMIENTO 757 764	cirugía
+T15	PROCEDIMIENTO 1080 1087	cirugía
+T16	SINTOMA 223 251	incontinencia urinaria total
+T17	SINTOMA 426 455	vejiga de contorno festoneado
+T18	SINTOMA 784 794	hemorragia
+T19	SINTOMA 974 984	continente
+T20	SINTOMA 1107 1138	reflujo pasivo derecho y activo
+T21	SINTOMA 1190 1204	reflujo activo
+T22	SINTOMA 42 63	vejiga hiperrefléxica
+T23	SINTOMA 482 538	reflujo vesicoureteral pasivo grado III derecho y activo

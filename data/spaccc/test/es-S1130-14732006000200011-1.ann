@@ -1,40 +1,40 @@
-T1	SINTOMA 1800 1810	tumoración
-T2	SINTOMA 1898 1946	conteniendo el díploe tejido fibroso cigatricial
-T3	SINTOMA 1857 1896	elevación y erosión de la tabla externa
-T4	SINTOMA 1064 1101	erosión de la tabla externa e interna
-T5	SINTOMA 693 722	examen neurológico fue normal
-T6	SINTOMA 1104 1124	expansión del díploe
-T7	SINTOMA 1143 1158	nódulo parietal
-T8	SINTOMA 83 109	nódulos en región parietal
-T9	SINTOMA 2220 2254	tabla externa adelgazada y elevada
-T10	SINTOMA 2060 2135	tabla interna estaba adelgazada, con abalonamiento irregular y defecto óseo
-T11	SINTOMA 538 566	tumoración elástica indolora
-T12	ENFERMEDAD 2151 2159	hematoma
-T13	ENFERMEDAD 2375 2383	hematoma
-T14	ENFERMEDAD 224 244	hemofilia A moderada
-T15	ENFERMEDAD 989 1049	lesión osteolítica de márgenes escleróticos a nivel parietal
-T16	ENFERMEDAD 1477 1492	metástasis ósea
-T17	ENFERMEDAD 274 287	escafocefalia
-T18	ENFERMEDAD 375 423	hematoma intraparenquimatoso cerebral espontáneo
-T19	ENFERMEDAD 1961 1969	hematoma
-T20	ENFERMEDAD 1469 1474	tumor
-T21	ENFERMEDAD 497 508	traumatismo
-T22	PROCEDIMIENTO 1129 1132	RMN
-T23	PROCEDIMIENTO 1394 1424	TAC de tórax, abdomen y pelvis
-T24	PROCEDIMIENTO 1439 1455	gammagrafía ósea
-T25	PROCEDIMIENTO 1550 1557	cirugía
-T26	PROCEDIMIENTO 1656 1711	infusión intravenosa continua de 5U/kg/h de Factor VIII
-T27	PROCEDIMIENTO 1714 1737	Intervención quirúrgica
-T28	PROCEDIMIENTO 1743 1758	anestesia local
-T29	PROCEDIMIENTO 1770 1810	incisión del "scalp" sobre la tumoración
-T30	PROCEDIMIENTO 1822 1845	disección subperióstica
-T31	PROCEDIMIENTO 2137 2254	Se extirpó el hematoma, el tejido granular y cuerpo extraño (silicona) así como la tabla externa adelgazada y elevada
-T32	PROCEDIMIENTO 2313 2326	curetaje óseo
-T33	PROCEDIMIENTO 2331 2349	examen histológico
-T34	PROCEDIMIENTO 2425 2432	cirugía
-T35	PROCEDIMIENTO 247 270	intervención quirúrgica
-T36	PROCEDIMIENTO 2503 2534	se retiró el material de sutura
-T37	PROCEDIMIENTO 304 363	craniectomía+bandas de silicona+fijación ósea con hemoclips
-T38	PROCEDIMIENTO 513 526	examen físico
-T39	PROCEDIMIENTO 693 711	examen neurológico
-T40	PROCEDIMIENTO 940 974	radiografía simple y TAC de cráneo
+T1	ENFERMEDAD 2151 2159	hematoma
+T2	ENFERMEDAD 2375 2383	hematoma
+T3	ENFERMEDAD 224 244	hemofilia A moderada
+T4	ENFERMEDAD 989 1049	lesión osteolítica de márgenes escleróticos a nivel parietal
+T5	ENFERMEDAD 1477 1492	metástasis ósea
+T6	ENFERMEDAD 274 287	escafocefalia
+T7	ENFERMEDAD 375 423	hematoma intraparenquimatoso cerebral espontáneo
+T8	ENFERMEDAD 1961 1969	hematoma
+T9	ENFERMEDAD 1469 1474	tumor
+T10	ENFERMEDAD 497 508	traumatismo
+T11	PROCEDIMIENTO 513 526	examen físico
+T12	PROCEDIMIENTO 2331 2349	examen histológico
+T13	PROCEDIMIENTO 1394 1424	TAC de tórax, abdomen y pelvis
+T14	PROCEDIMIENTO 940 974	radiografía simple y TAC de cráneo
+T15	PROCEDIMIENTO 1743 1758	anestesia local
+T16	PROCEDIMIENTO 1439 1455	gammagrafía ósea
+T17	PROCEDIMIENTO 304 363	craniectomía+bandas de silicona+fijación ósea con hemoclips
+T18	PROCEDIMIENTO 2313 2326	curetaje óseo
+T19	PROCEDIMIENTO 693 711	examen neurológico
+T20	PROCEDIMIENTO 1129 1132	RMN
+T21	PROCEDIMIENTO 1656 1711	infusión intravenosa continua de 5U/kg/h de Factor VIII
+T22	PROCEDIMIENTO 1822 1845	disección subperióstica
+T23	PROCEDIMIENTO 1770 1810	incisión del "scalp" sobre la tumoración
+T24	PROCEDIMIENTO 2503 2534	se retiró el material de sutura
+T25	PROCEDIMIENTO 1714 1737	Intervención quirúrgica
+T26	PROCEDIMIENTO 247 270	intervención quirúrgica
+T27	PROCEDIMIENTO 2137 2254	Se extirpó el hematoma, el tejido granular y cuerpo extraño (silicona) así como la tabla externa adelgazada y elevada
+T28	PROCEDIMIENTO 1550 1557	cirugía
+T29	PROCEDIMIENTO 2425 2432	cirugía
+T30	SINTOMA 538 566	tumoración elástica indolora
+T31	SINTOMA 83 109	nódulos en región parietal
+T32	SINTOMA 1143 1158	nódulo parietal
+T33	SINTOMA 693 722	examen neurológico fue normal
+T34	SINTOMA 1064 1101	erosión de la tabla externa e interna
+T35	SINTOMA 1104 1124	expansión del díploe
+T36	SINTOMA 1857 1896	elevación y erosión de la tabla externa
+T37	SINTOMA 1898 1946	conteniendo el díploe tejido fibroso cigatricial
+T38	SINTOMA 2060 2135	tabla interna estaba adelgazada, con abalonamiento irregular y defecto óseo
+T39	SINTOMA 1800 1810	tumoración
+T40	SINTOMA 2220 2254	tabla externa adelgazada y elevada

@@ -1,13 +1,23 @@
-T1	SINTOMA 1110 1129	buen estado general
-T2	SINTOMA 811 861	deficiente visualización de cálices e infundíbulos
-T3	SINTOMA 417 447	dolor lumboabdominal izquierdo
-T4	SINTOMA 1198 1228	normal función renal bilateral
-T5	SINTOMA 772 798	retraso funcional de riñón
-T6	SINTOMA 895 908	uréter normal
-T7	ENFERMEDAD 18 52	Litiasis cálcica calicial de riñón
-T8	ENFERMEDAD 89 99	HTA severa
-T9	ENFERMEDAD 706 721	derrame pleural
-T10	ENFERMEDAD 450 468	shock hipovolémico
-T11	ENFERMEDAD 276 293	Moderada obesidad
-T12	ENFERMEDAD 657 677	hematoma subcapsular
-T13	ENFERMEDAD 1017 1025	hematoma
+T1	ENFERMEDAD 18 52	Litiasis cálcica calicial de riñón
+T2	ENFERMEDAD 89 99	HTA severa
+T3	ENFERMEDAD 706 721	derrame pleural
+T4	ENFERMEDAD 450 468	shock hipovolémico
+T5	ENFERMEDAD 276 293	Moderada obesidad
+T6	ENFERMEDAD 657 677	hematoma subcapsular
+T7	ENFERMEDAD 1017 1025	hematoma
+T8	PROCEDIMIENTO 738 741	UIV
+T9	PROCEDIMIENTO 491 546	Se transfundieron 4 unidades de concentrado de hematíes
+T10	PROCEDIMIENTO 303 308	Leoch
+T11	PROCEDIMIENTO 922 936	toracocentesis
+T12	PROCEDIMIENTO 388 412	Leoch de riñón izquierdo
+T13	PROCEDIMIENTO 1063 1073	lumbotomía
+T14	PROCEDIMIENTO 172 177	Leoch
+T15	PROCEDIMIENTO 623 626	TAC
+T16	PROCEDIMIENTO 1041 1048	drenaje
+T17	PROCEDIMIENTO 1135 1157	controles radiológicos
+T18	SINTOMA 772 798	retraso funcional de riñón
+T19	SINTOMA 417 447	dolor lumboabdominal izquierdo
+T20	SINTOMA 811 861	deficiente visualización de cálices e infundíbulos
+T21	SINTOMA 895 908	uréter normal
+T22	SINTOMA 1110 1129	buen estado general
+T23	SINTOMA 1198 1228	normal función renal bilateral

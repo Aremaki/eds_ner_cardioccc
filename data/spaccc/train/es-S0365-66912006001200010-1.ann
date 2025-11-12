@@ -1,14 +1,46 @@
-T1	SINTOMA 2057 2064	estable
-T2	SINTOMA 760 770	exoftalmos
-T3	SINTOMA 1435 1445	exoftalmos
-T4	SINTOMA 186 196	exoftalmos
-T5	SINTOMA 1793 1802	proptosis
-T6	SINTOMA 969 978	proptosis
-T7	SINTOMA 361 406	engrosamiento de los músculos rectos internos
-T8	SINTOMA 1033 1078	engrosamiento de los músculos rectos internos
-T9	SINTOMA 1113 1138	exposición corneal en ojo
-T10	SINTOMA 487 538	limitación de la motilidad superior y lateral en AO
-T11	SINTOMA 215 253	limitación de los movimientos oculares
-T12	SINTOMA 1091 1110	oftalmoplejía en AO
-T13	SINTOMA 454 482	retracción de ambos párpados
-T14	SINTOMA 1293 1319	severa crisis hipotiroidea
+T1	ENFERMEDAD 760 770	exoftalmos
+T2	ENFERMEDAD 969 978	proptosis
+T3	ENFERMEDAD 45 65	neoplasia de laringe
+T4	ENFERMEDAD 67 91	diabetes mellitus tipo 2
+T5	ENFERMEDAD 93 103	ex-fumador
+T6	ENFERMEDAD 106 116	ex-bebedor
+T7	ENFERMEDAD 135 155	crisis hipertiroidea
+T8	ENFERMEDAD 1091 1110	oftalmoplejía en AO
+T9	ENFERMEDAD 1113 1131	exposición corneal
+T10	ENFERMEDAD 186 196	exoftalmos
+T11	ENFERMEDAD 332 358	retinopatía diabética leve
+T12	ENFERMEDAD 1293 1319	severa crisis hipotiroidea
+T13	ENFERMEDAD 1435 1445	exoftalmos
+T14	ENFERMEDAD 1627 1635	glaucoma
+T15	ENFERMEDAD 1955 1979	neuropatía óptica severa
+T16	ENFERMEDAD 1998 2033	retinopatía diabética leve-moderada
+T17	ENFERMEDAD 1793 1802	proptosis
+T18	ENFERMEDAD 454 482	retracción de ambos párpados
+T19	PROCEDIMIENTO 1593 1635	enucleación del ojo izquierdo por glaucoma
+T20	PROCEDIMIENTO 822 867	inhibidores de la anhidrasa carbónica tópicos
+T21	PROCEDIMIENTO 1005 1008	TAC
+T22	PROCEDIMIENTO 898 920	radioterapia orbitaria
+T23	PROCEDIMIENTO 649 671	beta-bloqueante tópico
+T24	PROCEDIMIENTO 1171 1260	descompresión bilateral orbitaria con fractura de las paredes inferior, interna y externa
+T25	PROCEDIMIENTO 674 707	tratamiento corticoideo sistémico
+T26	PROCEDIMIENTO 315 327	fondo de ojo
+T27	PROCEDIMIENTO 413 426	TAC orbitario
+T28	PROCEDIMIENTO 1493 1520	lipectomía en ambas órbitas
+T29	PROCEDIMIENTO 1648 1692	tarsorrafia externa e interna en ojo derecho
+T30	PROCEDIMIENTO 1879 1891	tarsorrafias
+T31	PROCEDIMIENTO 1896 1913	exploración de OD
+T32	PROCEDIMIENTO 1714 1732	hormonas tiroideas
+T33	SINTOMA 454 482	retracción de ambos párpados
+T34	SINTOMA 487 538	limitación de la motilidad superior y lateral en AO
+T35	SINTOMA 1033 1078	engrosamiento de los músculos rectos internos
+T36	SINTOMA 215 253	limitación de los movimientos oculares
+T37	SINTOMA 361 406	engrosamiento de los músculos rectos internos
+T38	SINTOMA 2057 2064	estable
+T39	SINTOMA 186 196	exoftalmos
+T40	SINTOMA 760 770	exoftalmos
+T41	SINTOMA 969 978	proptosis
+T42	SINTOMA 1435 1445	exoftalmos
+T43	SINTOMA 1793 1802	proptosis
+T44	SINTOMA 1091 1110	oftalmoplejía en AO
+T45	SINTOMA 1113 1138	exposición corneal en ojo
+T46	SINTOMA 1293 1319	severa crisis hipotiroidea

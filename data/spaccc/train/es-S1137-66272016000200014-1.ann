@@ -1,48 +1,62 @@
-T1	SINTOMA 1987 2003	actitud de flexo
-T2	SINTOMA 2196 2212	actitud en flexo
-T3	SINTOMA 444 470	adducción de la extremidad
-T4	SINTOMA 424 441	cojera antiálgica
-T5	SINTOMA 830 868	discontinuidad del cartílago articular
-T6	SINTOMA 396 419	disfunción de la marcha
-T7	SINTOMA 3236 3287	dismetría por acortamiento de 1 cm de la extremidad
-T8	SINTOMA 644 749	hemograma, marcadores de fase aguda de inflamación y pruebas reumatológicas arrojaron resultados normales
-T9	SINTOMA 873 893	hipertrofia sinovial
-T10	SINTOMA 3444 3491	movilidad simétrica e indolora de ambas caderas
-T11	SINTOMA 1591 1646	movimiento de la cabeza femoral en bloque con la pelvis
-T12	SINTOMA 2375 2424	pérdida concéntrica del 50% del espacio articular
-T13	SINTOMA 3514 3559	recuperación incompleta del espacio articular
-T14	SINTOMA 1697 1714	rigidez articular
-T15	SINTOMA 1813 1830	rigidez articular
-T16	SINTOMA 3425 3442	Trendelenburg (-)
-T17	SINTOMA 51 59	coxalgia
-T18	SINTOMA 2536 2541	dolor
-T19	SINTOMA 1976 1981	dolor
-T20	SINTOMA 822 827	edema
-T21	SINTOMA 2318 2323	dolor
-T22	SINTOMA 2326 2332	cojera
-T23	SINTOMA 3411 3423	asintomático
-T24	SINTOMA 2232 2243	vida normal
-T25	SINTOMA 3398 3409	vida normal
-T26	PROCEDIMIENTO 1061 1072	artrografía
-T27	PROCEDIMIENTO 1202 1247	descarga de la extremidad con uso de bastones
-T28	PROCEDIMIENTO 1250 1271	rehabilitación física
-T29	PROCEDIMIENTO 1303 1376	infiltración de la cadera con ácido hialurónico bajo control radioscópico
-T30	PROCEDIMIENTO 1521 1543	movilización articular
-T31	PROCEDIMIENTO 1555 1572	anestesia general
-T32	PROCEDIMIENTO 1749 1775	tenotomías periarticulares
-T33	PROCEDIMIENTO 1893 1919	tracción de partes blandas
-T34	PROCEDIMIENTO 2045 2076	tracción por periodos nocturnos
-T35	PROCEDIMIENTO 2078 2106	marcha con bastones ingleses
-T36	PROCEDIMIENTO 2125 2150	tratamiento rehabilitador
-T37	PROCEDIMIENTO 2700 2703	RNM
-T38	PROCEDIMIENTO 285 328	válvula de derivación ventrículo-peritoneal
-T39	PROCEDIMIENTO 2961 2964	RNM
-T40	PROCEDIMIENTO 366 379	examen físico
-T41	PROCEDIMIENTO 644 653	hemograma
-T42	PROCEDIMIENTO 655 694	marcadores de fase aguda de inflamación
-T43	PROCEDIMIENTO 697 719	pruebas reumatológicas
-T44	PROCEDIMIENTO 754 772	radiografía simple
-T45	PROCEDIMIENTO 817 820	TAC
-T46	PROCEDIMIENTO 911 952	artrocentesis bajo control de radioscopia
-T47	PROCEDIMIENTO 957 974	anestesia general
-T48	PROCEDIMIENTO 984 1029	se obtuvo ninguna muestra de líquido sinovial
+T1	ENFERMEDAD 2462 2478	osteopenia local
+T2	ENFERMEDAD 189 218	malformación de Arnold-Chiari
+T3	ENFERMEDAD 1107 1125	condrolisis severa
+T4	ENFERMEDAD 220 232	hidrocefalia
+T5	ENFERMEDAD 244 272	malformación de Dandy Walker
+T6	ENFERMEDAD 1157 1179	condrolisis idiopática
+T7	ENFERMEDAD 331 361	epilepsia con crisis parciales
+T8	ENFERMEDAD 2725 2811	estrechamiento articular con lesiones subcondrales en la cabeza femoral y el acetábulo
+T9	ENFERMEDAD 1608 1683	cabeza femoral en bloque con la pelvis, valorándose como anquilosis fibrosa
+T10	ENFERMEDAD 473 493	hiperlordosis lumbar
+T11	ENFERMEDAD 2887 2930	proceso destructivo del cartílago articular
+T12	ENFERMEDAD 791 801	osteopenia
+T13	ENFERMEDAD 220 272	hidrocefalia asociada a malformación de Dandy Walker
+T14	PROCEDIMIENTO 911 952	artrocentesis bajo control de radioscopia
+T15	PROCEDIMIENTO 957 974	anestesia general
+T16	PROCEDIMIENTO 1061 1072	artrografía
+T17	PROCEDIMIENTO 1521 1543	movilización articular
+T18	PROCEDIMIENTO 1555 1572	anestesia general
+T19	PROCEDIMIENTO 285 328	válvula de derivación ventrículo-peritoneal
+T20	PROCEDIMIENTO 1202 1247	descarga de la extremidad con uso de bastones
+T21	PROCEDIMIENTO 1250 1271	rehabilitación física
+T22	PROCEDIMIENTO 2700 2703	RNM
+T23	PROCEDIMIENTO 1749 1775	tenotomías periarticulares
+T24	PROCEDIMIENTO 1893 1919	tracción de partes blandas
+T25	PROCEDIMIENTO 2961 2964	RNM
+T26	PROCEDIMIENTO 644 653	hemograma
+T27	PROCEDIMIENTO 655 694	marcadores de fase aguda de inflamación
+T28	PROCEDIMIENTO 697 719	pruebas reumatológicas
+T29	PROCEDIMIENTO 754 772	radiografía simple
+T30	PROCEDIMIENTO 817 820	TAC
+T31	PROCEDIMIENTO 2125 2150	tratamiento rehabilitador
+T32	PROCEDIMIENTO 1303 1376	infiltración de la cadera con ácido hialurónico bajo control radioscópico
+T33	PROCEDIMIENTO 366 379	examen físico
+T34	PROCEDIMIENTO 984 1029	se obtuvo ninguna muestra de líquido sinovial
+T35	PROCEDIMIENTO 2045 2076	tracción por periodos nocturnos
+T36	PROCEDIMIENTO 2078 2106	marcha con bastones ingleses
+T37	SINTOMA 2375 2424	pérdida concéntrica del 50% del espacio articular
+T38	SINTOMA 51 59	coxalgia
+T39	SINTOMA 3236 3287	dismetría por acortamiento de 1 cm de la extremidad
+T40	SINTOMA 3444 3491	movilidad simétrica e indolora de ambas caderas
+T41	SINTOMA 2536 2541	dolor
+T42	SINTOMA 3514 3559	recuperación incompleta del espacio articular
+T43	SINTOMA 1591 1646	movimiento de la cabeza femoral en bloque con la pelvis
+T44	SINTOMA 396 419	disfunción de la marcha
+T45	SINTOMA 1697 1714	rigidez articular
+T46	SINTOMA 444 470	adducción de la extremidad
+T47	SINTOMA 1813 1830	rigidez articular
+T48	SINTOMA 1976 1981	dolor
+T49	SINTOMA 822 827	edema
+T50	SINTOMA 830 868	discontinuidad del cartílago articular
+T51	SINTOMA 873 893	hipertrofia sinovial
+T52	SINTOMA 2196 2212	actitud en flexo
+T53	SINTOMA 2318 2323	dolor
+T54	SINTOMA 2326 2332	cojera
+T55	SINTOMA 424 441	cojera antiálgica
+T56	SINTOMA 3411 3423	asintomático
+T57	SINTOMA 3425 3442	Trendelenburg (-)
+T58	SINTOMA 644 749	hemograma, marcadores de fase aguda de inflamación y pruebas reumatológicas arrojaron resultados normales
+T59	SINTOMA 1987 2003	actitud de flexo
+T60	SINTOMA 2429 2459	borramiento de la línea medial
+T61	SINTOMA 2232 2243	vida normal
+T62	SINTOMA 3398 3409	vida normal

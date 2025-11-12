@@ -1,56 +1,71 @@
-T1	SINTOMA 3075 3160	actividad theta rítmica organizada en región anteromedial del lóbulo temporal derecho
-T2	SINTOMA 2325 2353	ardor epigástrico ascendente
-T3	SINTOMA 2877 2913	brotes prolongados de ondas rítmicas
-T4	SINTOMA 2405 2414	confusión
-T5	SINTOMA 890 913	convulsión generalizada
-T6	SINTOMA 3327 3378	dilatación del asta temporal del ventrículo lateral
-T7	SINTOMA 1017 1116	electroencefalograma (EEG) y una resonancia magnética (RM) cerebral, todo ello con resultado normal
-T8	SINTOMA 1621 1637	hiperventilación
-T9	SINTOMA 2372 2402	mordedura lateral de la lengua
-T10	SINTOMA 2636 2663	mordedura lateral de lengua
-T11	SINTOMA 2793 2805	ondas lentas
-T12	SINTOMA 1526 1558	ondas lentas temporales derechas
-T13	SINTOMA 686 708	pérdidas de conciencia
-T14	SINTOMA 1405 1433	sensación de desvanecimiento
-T15	SINTOMA 857 874	sonidos guturales
-T16	SINTOMA 1565 1590	única descarga punta onda
-T17	SINTOMA 618 625	vomitar
-T18	SINTOMA 2088 2109	pérdida de conciencia
-T19	SINTOMA 2209 2227	cortejo vegetativo
-T20	SINTOMA 2258 2280	incontinencia urinaria
-T21	SINTOMA 242 263	pérdida de conciencia
-T22	SINTOMA 2302 2309	astenia
-T23	SINTOMA 291 296	mareo
-T24	SINTOMA 298 308	sudoración
-T25	SINTOMA 311 319	acúfenos
-T26	SINTOMA 1765 1770	mareo
-T27	SINTOMA 1783 1796	palpitaciones
-T28	SINTOMA 3796 3809	irritabilidad
-T29	SINTOMA 553 571	cortejo vegetativo
-T30	SINTOMA 2611 2633	incontinencia urinaria
-T31	SINTOMA 583 590	vómitos
-T32	SINTOMA 1275 1296	pérdida de conciencia
-T33	SINTOMA 1356 1364	acúfenos
-T34	SINTOMA 1390 1403	palpitaciones
-T35	SINTOMA 1436 1445	debilidad
-T36	SINTOMA 2971 2976	mareo
-T37	SINTOMA 824 836	inconsciente
-T38	SINTOMA 2118 2124	estrés
-T39	SINTOMA 454 466	asintomática
-T40	ENFERMEDAD 638 655	crisis de migraña
-T41	ENFERMEDAD 3487 3528	crisis focales de origen temporal derecho
-T42	ENFERMEDAD 130 139	epilepsia
-T43	ENFERMEDAD 3552 3567	epilepsia focal
-T44	ENFERMEDAD 159 176	migraña menstrual
-T45	ENFERMEDAD 890 913	convulsión generalizada
-T46	ENFERMEDAD 1817 1842	bloqueo de rama izquierda
-T47	ENFERMEDAD 3785 3793	insomnio
-T48	ENFERMEDAD 1844 1847	BRI
-T49	ENFERMEDAD 1889 1932	trastorno de la conducción intraventricular
-T50	ENFERMEDAD 2486 2489	BRI
-T51	ENFERMEDAD 471 488	migraña menstrual
-T52	ENFERMEDAD 1148 1157	epilepsia
-T53	ENFERMEDAD 2808 2843	descargas epileptiformes temporales
-T54	ENFERMEDAD 3270 3285	bloqueo de rama
-T55	ENFERMEDAD 3616 3622	lesión
-T56	ENFERMEDAD 3327 3386	dilatación del asta temporal del ventrículo lateral derecho
+T1	ENFERMEDAD 638 655	crisis de migraña
+T2	ENFERMEDAD 3487 3528	crisis focales de origen temporal derecho
+T3	ENFERMEDAD 130 139	epilepsia
+T4	ENFERMEDAD 3552 3567	epilepsia focal
+T5	ENFERMEDAD 159 176	migraña menstrual
+T6	ENFERMEDAD 890 913	convulsión generalizada
+T7	ENFERMEDAD 1817 1842	bloqueo de rama izquierda
+T8	ENFERMEDAD 3785 3793	insomnio
+T9	ENFERMEDAD 1844 1847	BRI
+T10	ENFERMEDAD 1889 1932	trastorno de la conducción intraventricular
+T11	ENFERMEDAD 2486 2489	BRI
+T12	ENFERMEDAD 471 488	migraña menstrual
+T13	ENFERMEDAD 1148 1157	epilepsia
+T14	ENFERMEDAD 2808 2843	descargas epileptiformes temporales
+T15	ENFERMEDAD 3270 3285	bloqueo de rama
+T16	ENFERMEDAD 3616 3622	lesión
+T17	ENFERMEDAD 3327 3386	dilatación del asta temporal del ventrículo lateral derecho
+T18	PROCEDIMIENTO 1514 1517	EEG
+T19	PROCEDIMIENTO 3635 3646	RM cerebral
+T20	PROCEDIMIENTO 1694 1717	test de mesa basculante
+T21	PROCEDIMIENTO 2444 2454	Holter-ECG
+T22	PROCEDIMIENTO 1017 1037	electroencefalograma
+T23	PROCEDIMIENTO 1039 1042	EEG
+T24	PROCEDIMIENTO 1050 1084	resonancia magnética (RM) cerebral
+T25	PROCEDIMIENTO 1072 1074	RM
+T26	PROCEDIMIENTO 1953 1978	Holter-electrocardiograma
+T27	PROCEDIMIENTO 1980 1983	ECG
+T28	PROCEDIMIENTO 2681 2709	monitorización con vídeo-EEG
+T29	PROCEDIMIENTO 2735 2738	ECG
+T30	PROCEDIMIENTO 3051 3054	EEG
+T31	PROCEDIMIENTO 3292 3295	ECG
+T32	PROCEDIMIENTO 3301 3312	RM cerebral
+T33	SINTOMA 618 625	vomitar
+T34	SINTOMA 2088 2109	pérdida de conciencia
+T35	SINTOMA 686 708	pérdidas de conciencia
+T36	SINTOMA 1621 1637	hiperventilación
+T37	SINTOMA 2209 2227	cortejo vegetativo
+T38	SINTOMA 2258 2280	incontinencia urinaria
+T39	SINTOMA 242 263	pérdida de conciencia
+T40	SINTOMA 2302 2309	astenia
+T41	SINTOMA 291 296	mareo
+T42	SINTOMA 2325 2353	ardor epigástrico ascendente
+T43	SINTOMA 298 308	sudoración
+T44	SINTOMA 311 319	acúfenos
+T45	SINTOMA 1765 1770	mareo
+T46	SINTOMA 1783 1796	palpitaciones
+T47	SINTOMA 2372 2402	mordedura lateral de la lengua
+T48	SINTOMA 2405 2414	confusión
+T49	SINTOMA 3796 3809	irritabilidad
+T50	SINTOMA 553 571	cortejo vegetativo
+T51	SINTOMA 2611 2633	incontinencia urinaria
+T52	SINTOMA 583 590	vómitos
+T53	SINTOMA 2636 2663	mordedura lateral de lengua
+T54	SINTOMA 1275 1296	pérdida de conciencia
+T55	SINTOMA 1356 1364	acúfenos
+T56	SINTOMA 1390 1403	palpitaciones
+T57	SINTOMA 1405 1433	sensación de desvanecimiento
+T58	SINTOMA 1436 1445	debilidad
+T59	SINTOMA 2971 2976	mareo
+T60	SINTOMA 3327 3378	dilatación del asta temporal del ventrículo lateral
+T61	SINTOMA 824 836	inconsciente
+T62	SINTOMA 857 874	sonidos guturales
+T63	SINTOMA 1526 1558	ondas lentas temporales derechas
+T64	SINTOMA 2118 2124	estrés
+T65	SINTOMA 3075 3160	actividad theta rítmica organizada en región anteromedial del lóbulo temporal derecho
+T66	SINTOMA 454 466	asintomática
+T67	SINTOMA 1017 1116	electroencefalograma (EEG) y una resonancia magnética (RM) cerebral, todo ello con resultado normal
+T68	SINTOMA 1565 1590	única descarga punta onda
+T69	SINTOMA 2793 2805	ondas lentas
+T70	SINTOMA 2877 2913	brotes prolongados de ondas rítmicas
+T71	SINTOMA 890 913	convulsión generalizada

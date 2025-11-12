@@ -1,14 +1,55 @@
-T1	SINTOMA 791 837	alteración de la ecoestructura de forma difusa
-T2	SINTOMA 1526 1562	aumento difuso de la vascularización
-T3	SINTOMA 445 499	aumento difuso del tamaño y consistencia del testículo
-T4	SINTOMA 77 119	aumento progresivo de tamaño del testículo
-T5	SINTOMA 1033 1098	hemograma como la bioquímica básica fueron rigurosamente normales
-T6	SINTOMA 3380 3423	marcadores tumorales se mantienen negativos
-T7	SINTOMA 1136 1178	radiografía de tórax fue igualmente normal
-T8	SINTOMA 1416 1453	Testículo derecho aumentado de tamaño
-T9	SINTOMA 544 573	testículo izquierdo es normal
-T10	SINTOMA 512 539	transluminiscencia negativa
-T11	SINTOMA 167 172	dolor
-T12	SINTOMA 176 199	sintomatología urinaria
-T13	SINTOMA 687 708	irritación peritoneal
-T14	SINTOMA 668 683	visceromegalias
+T1	ENFERMEDAD 309 322	criptorquidia
+T2	ENFERMEDAD 326 335	hidrocele
+T3	ENFERMEDAD 363 404	consumo de alcohol, tabaco u otras drogas
+T4	ENFERMEDAD 588 610	adenopatías inguinales
+T5	ENFERMEDAD 654 666	ginecomastia
+T6	ENFERMEDAD 668 683	visceromegalias
+T7	ENFERMEDAD 855 862	quistes
+T8	ENFERMEDAD 866 881	calcificaciones
+T9	ENFERMEDAD 1593 1609	orquitis derecha
+T10	ENFERMEDAD 1667 1685	proceso neoplásico
+T11	ENFERMEDAD 1790 1806	Seminoma clásico
+T12	ENFERMEDAD 1851 1886	infiltración de la túnica albugínea
+T13	ENFERMEDAD 1933 1960	tumor germinal intratubular
+T14	ENFERMEDAD 2166 2213	adenopatías mediastínicas, hiliares ni axilares
+T15	ENFERMEDAD 2239 2262	Adenopatía paracardiaca
+T16	ENFERMEDAD 2323 2365	adenopatías retroperitoneales ni pelvianas
+T17	ENFERMEDAD 2427 2450	paniculitis mesentérica
+T18	ENFERMEDAD 2453 2487	adenopatías inguinales bilaterales
+T19	ENFERMEDAD 2614 2627	seminoma puro
+T20	ENFERMEDAD 213 221	alergias
+T21	PROCEDIMIENTO 411 429	exploración física
+T22	PROCEDIMIENTO 733 753	ecografía testicular
+T23	PROCEDIMIENTO 940 960	radiografía de tórax
+T24	PROCEDIMIENTO 1033 1042	hemograma
+T25	PROCEDIMIENTO 1721 1758	orquiectomía radical inguinal derecha
+T26	PROCEDIMIENTO 2080 2125	Tomografía Computerizada (TC) abdominopélvico
+T27	PROCEDIMIENTO 2961 2973	radioterapia
+T28	PROCEDIMIENTO 2976 2989	quimioterapia
+T29	PROCEDIMIENTO 3128 3130	TC
+T30	PROCEDIMIENTO 3354 3356	TC
+T31	PROCEDIMIENTO 3380 3400	marcadores tumorales
+T32	PROCEDIMIENTO 1760 1779	Anatomía patológica
+T33	PROCEDIMIENTO 1983 1992	resección
+T34	PROCEDIMIENTO 1051 1061	bioquímica
+T35	PROCEDIMIENTO 2800 2821	tratamiento adyuvante
+T36	PROCEDIMIENTO 1372 1392	ecografía testicular
+T37	PROCEDIMIENTO 1136 1156	radiografía de tórax
+T38	PROCEDIMIENTO 512 530	transluminiscencia
+T39	PROCEDIMIENTO 918 938	marcadores tumorales
+T40	PROCEDIMIENTO 895 904	analítica
+T41	PROCEDIMIENTO 2525 2532	cirugía
+T42	SINTOMA 77 119	aumento progresivo de tamaño del testículo
+T43	SINTOMA 167 172	dolor
+T44	SINTOMA 176 199	sintomatología urinaria
+T45	SINTOMA 445 499	aumento difuso del tamaño y consistencia del testículo
+T46	SINTOMA 687 708	irritación peritoneal
+T47	SINTOMA 1416 1453	Testículo derecho aumentado de tamaño
+T48	SINTOMA 1526 1562	aumento difuso de la vascularización
+T49	SINTOMA 512 539	transluminiscencia negativa
+T50	SINTOMA 544 573	testículo izquierdo es normal
+T51	SINTOMA 791 837	alteración de la ecoestructura de forma difusa
+T52	SINTOMA 1033 1098	hemograma como la bioquímica básica fueron rigurosamente normales
+T53	SINTOMA 1136 1178	radiografía de tórax fue igualmente normal
+T54	SINTOMA 3380 3423	marcadores tumorales se mantienen negativos
+T55	SINTOMA 668 683	visceromegalias

@@ -1,11 +1,20 @@
-T1	SINTOMA 425 430	dolor
-T2	SINTOMA 456 503	examen intrabucal no se observaron alteraciones
-T3	SINTOMA 1385 1420	paresia de los músculos peribucales
-T4	SINTOMA 129 176	tumoración circunscripta en la región parotídea
-T5	ENFERMEDAD 1158 1179	mioepitelioma benigno
-T6	ENFERMEDAD 688 750	tumor compromete el lóbulo superficial de la glándula parótida
-T7	ENFERMEDAD 871 907	tumor benigno de glándulas salivales
-T8	ENFERMEDAD 334 394	adenopatías palpables en las cadenas ganglionares del cuello
-T9	ENFERMEDAD 281 290	infección
-T10	ENFERMEDAD 446 451	tumor
-T11	ENFERMEDAD 1003 1008	tumor
+T1	ENFERMEDAD 1158 1179	mioepitelioma benigno
+T2	ENFERMEDAD 688 750	tumor compromete el lóbulo superficial de la glándula parótida
+T3	ENFERMEDAD 871 907	tumor benigno de glándulas salivales
+T4	ENFERMEDAD 334 394	adenopatías palpables en las cadenas ganglionares del cuello
+T5	ENFERMEDAD 281 290	infección
+T6	ENFERMEDAD 446 451	tumor
+T7	ENFERMEDAD 1003 1008	tumor
+T8	PROCEDIMIENTO 915 932	anestesia general
+T9	PROCEDIMIENTO 631 651	tomografía computada
+T10	PROCEDIMIENTO 950 1008	abordaje extraoral, se procedió a la extirpación del tumor
+T11	PROCEDIMIENTO 1185 1213	análisis inmunohistoquímicos
+T12	PROCEDIMIENTO 1024 1070	lobectomía superficial de la glándula parótida
+T13	PROCEDIMIENTO 456 473	examen intrabucal
+T14	PROCEDIMIENTO 1111 1130	anatomía patológica
+T15	PROCEDIMIENTO 1222 1279	marcadores típicos para las células mioepiteliales claras
+T16	PROCEDIMIENTO 193 202	palpación
+T17	SINTOMA 1385 1420	paresia de los músculos peribucales
+T18	SINTOMA 129 176	tumoración circunscripta en la región parotídea
+T19	SINTOMA 425 430	dolor
+T20	SINTOMA 456 503	examen intrabucal no se observaron alteraciones

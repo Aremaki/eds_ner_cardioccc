@@ -1,29 +1,29 @@
-T1	SINTOMA 1582 1600	consolidación ósea
-T2	SINTOMA 648 666	expansión cortical
-T3	SINTOMA 84 100	tumoración malar
-T4	SINTOMA 1999 2011	asintomático
-T5	SINTOMA 126 134	dolorosa
-T6	ENFERMEDAD 973 988	lesión vascular
-T7	ENFERMEDAD 1908 1937	malformación venosa intraósea
-T8	ENFERMEDAD 569 583	lesión medular
-T9	ENFERMEDAD 1724 1744	hemangioma intraóseo
-T10	ENFERMEDAD 203 214	traumatismo
-T11	ENFERMEDAD 254 260	lesión
-T12	ENFERMEDAD 428 483	lesión malar expansiva, polilobulada, con calcificación
-T13	ENFERMEDAD 751 775	lesión osteolítica malar
-T14	PROCEDIMIENTO 1069 1080	extirpación
-T15	PROCEDIMIENTO 1099 1116	anestesia general
-T16	PROCEDIMIENTO 1133 1222	abordaje subciliar izquierdo con ampliación en cola hacia el malar y disección por planos
-T17	PROCEDIMIENTO 1253 1271	osteotomía en caja
-T18	PROCEDIMIENTO 1338 1402	se reconstruyó con injerto de mentón y placa de titanio arqueada
-T19	PROCEDIMIENTO 1408 1489	gaps intercorticales se rellenaron de hueso esponjoso obtenido de la zona donante
-T20	PROCEDIMIENTO 1495 1517	controles radiológicos
-T21	PROCEDIMIENTO 1606 1631	estudio anatomopatológico
-T22	PROCEDIMIENTO 1763 1789	estudio inmunohistoquímico
+T1	ENFERMEDAD 973 988	lesión vascular
+T2	ENFERMEDAD 1908 1937	malformación venosa intraósea
+T3	ENFERMEDAD 569 583	lesión medular
+T4	ENFERMEDAD 1724 1744	hemangioma intraóseo
+T5	ENFERMEDAD 203 214	traumatismo
+T6	ENFERMEDAD 254 260	lesión
+T7	ENFERMEDAD 428 483	lesión malar expansiva, polilobulada, con calcificación
+T8	ENFERMEDAD 751 775	lesión osteolítica malar
+T9	PROCEDIMIENTO 399 416	ecografía Doppler
+T10	PROCEDIMIENTO 517 556	tomografía computarizada (TC) orbitaria
+T11	PROCEDIMIENTO 543 545	TC
+T12	PROCEDIMIENTO 1763 1789	estudio inmunohistoquímico
+T13	PROCEDIMIENTO 1099 1116	anestesia general
+T14	PROCEDIMIENTO 711 731	resonancia magnética
+T15	PROCEDIMIENTO 1253 1271	osteotomía en caja
+T16	PROCEDIMIENTO 733 735	RM
+T17	PROCEDIMIENTO 1338 1402	se reconstruyó con injerto de mentón y placa de titanio arqueada
+T18	PROCEDIMIENTO 1408 1489	gaps intercorticales se rellenaron de hueso esponjoso obtenido de la zona donante
+T19	PROCEDIMIENTO 1495 1517	controles radiológicos
+T20	PROCEDIMIENTO 1606 1631	estudio anatomopatológico
+T21	PROCEDIMIENTO 1069 1080	extirpación
+T22	PROCEDIMIENTO 1133 1222	abordaje subciliar izquierdo con ampliación en cola hacia el malar y disección por planos
 T23	PROCEDIMIENTO 1878 1901	inmunohistoquímicamente
 T24	PROCEDIMIENTO 227 238	exploración
-T25	PROCEDIMIENTO 399 416	ecografía Doppler
-T26	PROCEDIMIENTO 517 556	tomografía computarizada (TC) orbitaria
-T27	PROCEDIMIENTO 543 545	TC
-T28	PROCEDIMIENTO 711 731	resonancia magnética
-T29	PROCEDIMIENTO 733 735	RM
+T25	SINTOMA 84 100	tumoración malar
+T26	SINTOMA 1999 2011	asintomático
+T27	SINTOMA 126 134	dolorosa
+T28	SINTOMA 1582 1600	consolidación ósea
+T29	SINTOMA 648 666	expansión cortical

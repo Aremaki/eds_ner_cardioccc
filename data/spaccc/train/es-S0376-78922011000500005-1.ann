@@ -1,3 +1,39 @@
-T1	SINTOMA 1766 1773	exudado
-T2	SINTOMA 1798 1820	despegamiento muscular
-T3	SINTOMA 723 759	inestabilidad de la lesión vertebral
+T1	ENFERMEDAD 61 73	exalcohólico
+T2	ENFERMEDAD 75 84	exfumador
+T3	ENFERMEDAD 86 125	enfermedad pulmonar obstructiva crónica
+T4	ENFERMEDAD 127 131	EPOC
+T5	ENFERMEDAD 149 203	incapacidad respiratoria de tipo mixto moderado-severo
+T6	ENFERMEDAD 205 216	hepatopatía
+T7	ENFERMEDAD 218 230	poliartrosis
+T8	ENFERMEDAD 232 253	polimialgia reumática
+T9	ENFERMEDAD 256 273	esófago de Barret
+T10	ENFERMEDAD 343 380	aplastamiento osteoporótico vertebral
+T11	ENFERMEDAD 561 601	síndrome de lesión medular transversa D4
+T12	ENFERMEDAD 883 956	herida abierta, infectada y esfacelada en la región vertebral dorsal alta
+T13	ENFERMEDAD 1059 1073	lesión medular
+T14	ENFERMEDAD 1146 1152	herida
+T15	ENFERMEDAD 2102 2111	infección
+T16	ENFERMEDAD 1572 1617	iatrogénica una congestión venosa del colgajo
+T17	ENFERMEDAD 2014 2020	herida
+T18	ENFERMEDAD 743 759	lesión vertebral
+T19	PROCEDIMIENTO 2407 2432	cubrimos con autoinjertos
+T20	PROCEDIMIENTO 2490 2526	fijamos con un sistema VAC® portátil
+T21	PROCEDIMIENTO 2549 2552	VIA
+T22	PROCEDIMIENTO 446 468	fusión vertebral D2-D7
+T23	PROCEDIMIENTO 471 492	vertebroplastia D4-D5
+T24	PROCEDIMIENTO 627 652	tratamiento rehabilitador
+T25	PROCEDIMIENTO 791 804	curas locales
+T26	PROCEDIMIENTO 1008 1021	osteosíntesis
+T27	PROCEDIMIENTO 1199 1240	retirar todo el material de osteosíntesis
+T28	PROCEDIMIENTO 1282 1302	antisépticos locales
+T29	PROCEDIMIENTO 1374 1412	colgajo de trapecio con paleta cutánea
+T30	PROCEDIMIENTO 1657 1688	desbridar los tejidos afectados
+T31	PROCEDIMIENTO 1691 1727	colocamos 2 sistemas VAC® portátiles
+T32	PROCEDIMIENTO 2643 2657	Rehabilitación
+T33	PROCEDIMIENTO 284 307	tratamiento corticoideo
+T34	PROCEDIMIENTO 829 856	curas regladas en quirófano
+T35	PROCEDIMIENTO 407 430	intervención quirúrgica
+T36	PROCEDIMIENTO 1896 2029	apósito la modalidad de espuma negra (granufoam: poliuretano de 400-600 micrómetros de poro) porque se trataba de una herida residual
+T37	SINTOMA 723 759	inestabilidad de la lesión vertebral
+T38	SINTOMA 1798 1820	despegamiento muscular
+T39	SINTOMA 1766 1773	exudado

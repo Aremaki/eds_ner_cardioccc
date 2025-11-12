@@ -1,35 +1,35 @@
-T1	SINTOMA 362 380	cortejo vegetativo
-T2	SINTOMA 493 523	dolor en fosa ilíaca izquierda
-T3	SINTOMA 272 345	dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita
-T4	SINTOMA 613 765	estudio de coagulación, la bioquímica elemental de sangre, el sistemático de orina, el electrocardiograma y la radiografía simple de tórax eran normales
-T5	SINTOMA 832 840	hematoma
-T6	SINTOMA 2134 2142	hematoma
-T7	SINTOMA 904 933	líquido libre intraperitoneal
-T8	SINTOMA 2362 2366	masa
-T9	SINTOMA 1640 1685	metanefrinas plasmáticas, que fueron normales
-T10	ENFERMEDAD 2134 2142	hematoma
-T11	ENFERMEDAD 1567 1608	rotura no traumática de un feocromocitoma
-T12	ENFERMEDAD 38 76	hemorragia digestiva alta por aspirina
-T13	ENFERMEDAD 79 110	accidente isquémico transitorio
-T14	ENFERMEDAD 2201 2245	imagen pseudoquística en la zona suprarrenal
-T15	ENFERMEDAD 832 898	hematoma, de 12 cm de diámetro máximo, en la celda renal izquierda
-T16	ENFERMEDAD 1049 1052	HTA
-T17	ENFERMEDAD 1442 1461	crisis hipertensiva
-T18	ENFERMEDAD 904 933	líquido libre intraperitoneal
-T19	PROCEDIMIENTO 1119 1130	analgésicos
-T20	PROCEDIMIENTO 1136 1159	antagonistas del calcio
-T21	PROCEDIMIENTO 1166 1225	inhibidores de la enzima convertidora de la angiotensina II
-T22	PROCEDIMIENTO 1640 1664	metanefrinas plasmáticas
-T23	PROCEDIMIENTO 1689 1727	catecolaminas y metanefrinas urinarias
-T24	PROCEDIMIENTO 1735 1752	orina de 24 horas
-T25	PROCEDIMIENTO 2295 2324	suprarrenalectomía unilateral
-T26	PROCEDIMIENTO 2331 2350	estudio histológico
-T27	PROCEDIMIENTO 387 398	exploración
-T28	PROCEDIMIENTO 502 551	fosa ilíaca izquierda, acentuado con la palpación
-T29	PROCEDIMIENTO 556 565	hemograma
-T30	PROCEDIMIENTO 613 635	estudio de coagulación
-T31	PROCEDIMIENTO 640 670	bioquímica elemental de sangre
-T32	PROCEDIMIENTO 675 695	sistemático de orina
-T33	PROCEDIMIENTO 700 718	electrocardiograma
-T34	PROCEDIMIENTO 724 751	radiografía simple de tórax
-T35	PROCEDIMIENTO 773 808	tomografía computarizada de abdomen
+T1	ENFERMEDAD 2134 2142	hematoma
+T2	ENFERMEDAD 1567 1608	rotura no traumática de un feocromocitoma
+T3	ENFERMEDAD 38 76	hemorragia digestiva alta por aspirina
+T4	ENFERMEDAD 79 110	accidente isquémico transitorio
+T5	ENFERMEDAD 2201 2245	imagen pseudoquística en la zona suprarrenal
+T6	ENFERMEDAD 832 898	hematoma, de 12 cm de diámetro máximo, en la celda renal izquierda
+T7	ENFERMEDAD 1049 1052	HTA
+T8	ENFERMEDAD 1442 1461	crisis hipertensiva
+T9	ENFERMEDAD 904 933	líquido libre intraperitoneal
+T10	PROCEDIMIENTO 2295 2324	suprarrenalectomía unilateral
+T11	PROCEDIMIENTO 1735 1752	orina de 24 horas
+T12	PROCEDIMIENTO 2331 2350	estudio histológico
+T13	PROCEDIMIENTO 502 551	fosa ilíaca izquierda, acentuado con la palpación
+T14	PROCEDIMIENTO 556 565	hemograma
+T15	PROCEDIMIENTO 613 635	estudio de coagulación
+T16	PROCEDIMIENTO 640 670	bioquímica elemental de sangre
+T17	PROCEDIMIENTO 675 695	sistemático de orina
+T18	PROCEDIMIENTO 700 718	electrocardiograma
+T19	PROCEDIMIENTO 724 751	radiografía simple de tórax
+T20	PROCEDIMIENTO 773 808	tomografía computarizada de abdomen
+T21	PROCEDIMIENTO 1119 1130	analgésicos
+T22	PROCEDIMIENTO 387 398	exploración
+T23	PROCEDIMIENTO 1136 1159	antagonistas del calcio
+T24	PROCEDIMIENTO 1166 1225	inhibidores de la enzima convertidora de la angiotensina II
+T25	PROCEDIMIENTO 1689 1727	catecolaminas y metanefrinas urinarias
+T26	PROCEDIMIENTO 1640 1664	metanefrinas plasmáticas
+T27	SINTOMA 1640 1685	metanefrinas plasmáticas, que fueron normales
+T28	SINTOMA 272 345	dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita
+T29	SINTOMA 362 380	cortejo vegetativo
+T30	SINTOMA 493 523	dolor en fosa ilíaca izquierda
+T31	SINTOMA 613 765	estudio de coagulación, la bioquímica elemental de sangre, el sistemático de orina, el electrocardiograma y la radiografía simple de tórax eran normales
+T32	SINTOMA 904 933	líquido libre intraperitoneal
+T33	SINTOMA 832 840	hematoma
+T34	SINTOMA 2134 2142	hematoma
+T35	SINTOMA 2362 2366	masa

@@ -1,25 +1,25 @@
-T1	SINTOMA 253 286	área radiolúcida alrededor del 33
-T2	ENFERMEDAD 363 379	quiste folicular
-T3	ENFERMEDAD 1890 1939	tumor odontogénico adenomatoide de tipo folicular
-T4	ENFERMEDAD 1951 1988	retención de estructura dental canina
-T5	ENFERMEDAD 2586 2600	lesión tumoral
-T6	ENFERMEDAD 455 471	quiste folicular
-T7	ENFERMEDAD 156 174	inclusión dentaria
-T8	ENFERMEDAD 206 234	inclusión de canino inferior
-T9	ENFERMEDAD 521 536	canino incluido
-T10	PROCEDIMIENTO 1725 1728	PAS
-T11	PROCEDIMIENTO 1765 1775	Rojo Congo
-T12	PROCEDIMIENTO 179 198	estudio radiológico
-T13	PROCEDIMIENTO 2059 2085	estudio inmunohistoquímico
-T14	PROCEDIMIENTO 2495 2526	marcador de proliferación Ki-67
-T15	PROCEDIMIENTO 2691 2745	detección de los marcadores de diferenciación melánica
-T16	PROCEDIMIENTO 2798 2853	receptores hormonales de estrógenos (RE) y progesterona
-T17	PROCEDIMIENTO 304 325	corrección quirúrgica
-T18	PROCEDIMIENTO 384 406	tratamiento quirúrgico
-T19	PROCEDIMIENTO 438 472	extirpación del "quiste folicular"
-T20	PROCEDIMIENTO 477 503	legrado de la cavidad ósea
-T21	PROCEDIMIENTO 506 536	extracción del canino incluido
-T22	PROCEDIMIENTO 552 578	relleno con hueso "Bio-oss
-T23	PROCEDIMIENTO 673 680	legrado
-T24	PROCEDIMIENTO 843 852	exodoncia
-T25	PROCEDIMIENTO 857 876	estudio histológico
+T1	ENFERMEDAD 363 379	quiste folicular
+T2	ENFERMEDAD 1890 1939	tumor odontogénico adenomatoide de tipo folicular
+T3	ENFERMEDAD 1951 1988	retención de estructura dental canina
+T4	ENFERMEDAD 2586 2600	lesión tumoral
+T5	ENFERMEDAD 455 471	quiste folicular
+T6	ENFERMEDAD 156 174	inclusión dentaria
+T7	ENFERMEDAD 206 234	inclusión de canino inferior
+T8	ENFERMEDAD 521 536	canino incluido
+T9	PROCEDIMIENTO 2059 2085	estudio inmunohistoquímico
+T10	PROCEDIMIENTO 843 852	exodoncia
+T11	PROCEDIMIENTO 857 876	estudio histológico
+T12	PROCEDIMIENTO 477 503	legrado de la cavidad ósea
+T13	PROCEDIMIENTO 552 578	relleno con hueso "Bio-oss
+T14	PROCEDIMIENTO 179 198	estudio radiológico
+T15	PROCEDIMIENTO 304 325	corrección quirúrgica
+T16	PROCEDIMIENTO 384 406	tratamiento quirúrgico
+T17	PROCEDIMIENTO 438 472	extirpación del "quiste folicular"
+T18	PROCEDIMIENTO 506 536	extracción del canino incluido
+T19	PROCEDIMIENTO 673 680	legrado
+T20	PROCEDIMIENTO 1765 1775	Rojo Congo
+T21	PROCEDIMIENTO 1725 1728	PAS
+T22	PROCEDIMIENTO 2495 2526	marcador de proliferación Ki-67
+T23	PROCEDIMIENTO 2691 2745	detección de los marcadores de diferenciación melánica
+T24	PROCEDIMIENTO 2798 2853	receptores hormonales de estrógenos (RE) y progesterona
+T25	SINTOMA 253 286	área radiolúcida alrededor del 33

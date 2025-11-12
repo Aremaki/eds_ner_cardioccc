@@ -1,66 +1,67 @@
-T1	SINTOMA 1616 1624	anorexia
-T2	SINTOMA 2787 2799	asintomático
-T3	SINTOMA 399 454	citología de orina y sedimento: dentro de la normalidad
-T4	SINTOMA 1674 1694	distensión abdominal
-T5	SINTOMA 1942 1962	distensión abdominal
-T6	SINTOMA 1589 1604	dolor abdominal
-T7	SINTOMA 2806 2846	estudio de extensión libre de enfermedad
-T8	SINTOMA 1541 1552	fiebre alta
-T9	SINTOMA 737 783	'fuga de contraste' hacia la cavidad abdominal
-T10	SINTOMA 129 151	hematuria macroscópica
-T11	SINTOMA 1715 1736	irritación peritoneal
-T12	SINTOMA 1784 1796	leucocitosis
-T13	SINTOMA 2035 2051	líquido ascítico
-T14	SINTOMA 1413 1448	líquido libre en cavidad peritoneal
-T15	SINTOMA 800 804	masa
-T16	SINTOMA 2214 2245	masa a nivel de uraco y ombligo
-T17	SINTOMA 2653 2669	material mucoide
-T18	SINTOMA 2346 2401	material mucoide infiltrando toda la cavidad peritoneal
-T19	SINTOMA 1801 1812	neutrofilia
-T20	SINTOMA 213 244	próstata estaba bien delimitada
-T21	SINTOMA 1098 1149	radiografía de tórax (que es informada como normal)
-T22	SINTOMA 1567 1587	síntomas miccionales
-T23	SINTOMA 636 655	Uréteres permeables
-T24	SINTOMA 535 548	Vejiga normal
-T25	SINTOMA 657 670	Vejiga normal
-T26	SINTOMA 1606 1613	vómitos
-T27	ENFERMEDAD 496 533	quistes sinusales renales bilaterales
-T28	ENFERMEDAD 576 616	distorsión pielocalicial por los quistes
-T29	ENFERMEDAD 2112 2135	adenocarcinoma de uraco
-T30	ENFERMEDAD 989 1033	adenocarcinoma que infiltra la pared vesical
-T31	ENFERMEDAD 129 151	hematuria macroscópica
-T32	ENFERMEDAD 1316 1333	uraco persistente
-T33	ENFERMEDAD 2035 2051	líquido ascítico
-T34	ENFERMEDAD 2548 2624	adenocarcinoma mucinoso de uraco con extensión a vejiga urinaria y peritoneo
-T35	ENFERMEDAD 2685 2708	pseudomixoma peritoneal
-T36	ENFERMEDAD 945 951	lesión
-T37	ENFERMEDAD 1375 1380	tumor
-T38	PROCEDIMIENTO 1068 1088	estudio de extensión
-T39	PROCEDIMIENTO 1098 1118	radiografía de tórax
-T40	PROCEDIMIENTO 1152 1171	TAC abdominopélvico
-T41	PROCEDIMIENTO 1472 1494	tratamiento quirúrgico
-T42	PROCEDIMIENTO 1631 1649	exploración física
-T43	PROCEDIMIENTO 1744 1753	analítica
-T44	PROCEDIMIENTO 1829 1882	tratamiento antibiótico parenteral de amplio espectro
-T45	PROCEDIMIENTO 196 208	tacto rectal
-T46	PROCEDIMIENTO 1970 1989	ecografia abdominal
-T47	PROCEDIMIENTO 2151 2207	cistectomía parcial amplia que incluía la cúpula vesical
-T48	PROCEDIMIENTO 2261 2284	linfadenectomía pélvica
-T49	PROCEDIMIENTO 2297 2312	acto quirúrgico
-T50	PROCEDIMIENTO 2463 2482	estudio histológico
-T51	PROCEDIMIENTO 2488 2540	diagnóstico anatomopatológico de la pieza quirúrgica
-T52	PROCEDIMIENTO 2629 2648	informe histológico
-T53	PROCEDIMIENTO 2637 2669	histológico del material mucoide
-T54	PROCEDIMIENTO 2806 2826	estudio de extensión
-T55	PROCEDIMIENTO 364 373	Hemograma
-T56	PROCEDIMIENTO 375 385	bioquímica
-T57	PROCEDIMIENTO 387 397	urocultivo
-T58	PROCEDIMIENTO 399 417	citología de orina
-T59	PROCEDIMIENTO 412 429	orina y sedimento
-T60	PROCEDIMIENTO 475 494	Ecografía urológica
-T61	PROCEDIMIENTO 552 573	Urografía intravenosa
-T62	PROCEDIMIENTO 678 696	placa posmiccional
-T63	PROCEDIMIENTO 787 798	Cistoscopia
-T64	PROCEDIMIENTO 910 951	resección transuretral (RTU) de la lesión
-T65	PROCEDIMIENTO 934 937	RTU
-T66	PROCEDIMIENTO 970 985	histopatológico
+T1	ENFERMEDAD 496 533	quistes sinusales renales bilaterales
+T2	ENFERMEDAD 576 616	distorsión pielocalicial por los quistes
+T3	ENFERMEDAD 2112 2135	adenocarcinoma de uraco
+T4	ENFERMEDAD 989 1033	adenocarcinoma que infiltra la pared vesical
+T5	ENFERMEDAD 129 151	hematuria macroscópica
+T6	ENFERMEDAD 1316 1333	uraco persistente
+T7	ENFERMEDAD 2035 2051	líquido ascítico
+T8	ENFERMEDAD 2548 2624	adenocarcinoma mucinoso de uraco con extensión a vejiga urinaria y peritoneo
+T9	ENFERMEDAD 2685 2708	pseudomixoma peritoneal
+T10	ENFERMEDAD 945 951	lesión
+T11	ENFERMEDAD 1375 1380	tumor
+T12	PROCEDIMIENTO 364 373	Hemograma
+T13	PROCEDIMIENTO 787 798	Cistoscopia
+T14	PROCEDIMIENTO 475 494	Ecografía urológica
+T15	PROCEDIMIENTO 552 573	Urografía intravenosa
+T16	PROCEDIMIENTO 196 208	tacto rectal
+T17	PROCEDIMIENTO 1631 1649	exploración física
+T18	PROCEDIMIENTO 387 397	urocultivo
+T19	PROCEDIMIENTO 399 417	citología de orina
+T20	PROCEDIMIENTO 910 951	resección transuretral (RTU) de la lesión
+T21	PROCEDIMIENTO 1098 1118	radiografía de tórax
+T22	PROCEDIMIENTO 2151 2207	cistectomía parcial amplia que incluía la cúpula vesical
+T23	PROCEDIMIENTO 1152 1171	TAC abdominopélvico
+T24	PROCEDIMIENTO 2261 2284	linfadenectomía pélvica
+T25	PROCEDIMIENTO 1829 1882	tratamiento antibiótico parenteral de amplio espectro
+T26	PROCEDIMIENTO 1970 1989	ecografia abdominal
+T27	PROCEDIMIENTO 1068 1088	estudio de extensión
+T28	PROCEDIMIENTO 2806 2826	estudio de extensión
+T29	PROCEDIMIENTO 2463 2482	estudio histológico
+T30	PROCEDIMIENTO 375 385	bioquímica
+T31	PROCEDIMIENTO 2488 2540	diagnóstico anatomopatológico de la pieza quirúrgica
+T32	PROCEDIMIENTO 1472 1494	tratamiento quirúrgico
+T33	PROCEDIMIENTO 412 429	orina y sedimento
+T34	PROCEDIMIENTO 678 696	placa posmiccional
+T35	PROCEDIMIENTO 934 937	RTU
+T36	PROCEDIMIENTO 970 985	histopatológico
+T37	PROCEDIMIENTO 2637 2669	histológico del material mucoide
+T38	PROCEDIMIENTO 2297 2312	acto quirúrgico
+T39	PROCEDIMIENTO 1744 1753	analítica
+T40	PROCEDIMIENTO 2629 2648	informe histológico
+T41	SINTOMA 399 454	citología de orina y sedimento: dentro de la normalidad
+T42	SINTOMA 1674 1694	distensión abdominal
+T43	SINTOMA 1098 1149	radiografía de tórax (que es informada como normal)
+T44	SINTOMA 1715 1736	irritación peritoneal
+T45	SINTOMA 1567 1587	síntomas miccionales
+T46	SINTOMA 2214 2245	masa a nivel de uraco y ombligo
+T47	SINTOMA 1589 1604	dolor abdominal
+T48	SINTOMA 1606 1613	vómitos
+T49	SINTOMA 1616 1624	anorexia
+T50	SINTOMA 1942 1962	distensión abdominal
+T51	SINTOMA 1413 1448	líquido libre en cavidad peritoneal
+T52	SINTOMA 2787 2799	asintomático
+T53	SINTOMA 213 244	próstata estaba bien delimitada
+T54	SINTOMA 535 548	Vejiga normal
+T55	SINTOMA 636 655	Uréteres permeables
+T56	SINTOMA 657 670	Vejiga normal
+T57	SINTOMA 737 783	'fuga de contraste' hacia la cavidad abdominal
+T58	SINTOMA 2346 2401	material mucoide infiltrando toda la cavidad peritoneal
+T59	SINTOMA 2653 2669	material mucoide
+T60	SINTOMA 2806 2846	estudio de extensión libre de enfermedad
+T61	SINTOMA 129 151	hematuria macroscópica
+T62	SINTOMA 1784 1796	leucocitosis
+T63	SINTOMA 1801 1812	neutrofilia
+T64	SINTOMA 2035 2051	líquido ascítico
+T65	SINTOMA 2214 2245	masa a nivel de uraco y ombligo
+T66	SINTOMA 800 804	masa
+T67	SINTOMA 1541 1552	fiebre alta

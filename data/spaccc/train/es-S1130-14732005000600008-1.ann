@@ -1,17 +1,29 @@
-T1	SINTOMA 60 81	hemiparesia izquierda
-T2	SINTOMA 1461 1488	permeabilidad de la arteria
-T3	SINTOMA 449 468	signos de disección
-T4	SINTOMA 1560 1615	síntomas neurológicos en territorio carotídeo izquierdo
-T5	SINTOMA 502 525	suplencia contralateral
-T6	ENFERMEDAD 116 126	tabaquismo
-T7	ENFERMEDAD 128 149	hipertensión arterial
-T8	ENFERMEDAD 1108 1123	pseudoaneurisma
-T9	ENFERMEDAD 1514 1529	pseudoaneurisma
-T10	ENFERMEDAD 151 170	hipercolesterolemia
-T11	ENFERMEDAD 172 183	peritonitis
-T12	ENFERMEDAD 200 220	infarto de miocardio
-T13	ENFERMEDAD 324 443	arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda
-T14	ENFERMEDAD 732 819	zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
-T15	ENFERMEDAD 60 81	hemiparesia izquierda
-T16	ENFERMEDAD 689 819	estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
-T17	ENFERMEDAD 309 356	oclusión de la arteria carótida interna derecha
+T1	ENFERMEDAD 116 126	tabaquismo
+T2	ENFERMEDAD 128 149	hipertensión arterial
+T3	ENFERMEDAD 1108 1123	pseudoaneurisma
+T4	ENFERMEDAD 1514 1529	pseudoaneurisma
+T5	ENFERMEDAD 151 170	hipercolesterolemia
+T6	ENFERMEDAD 172 183	peritonitis
+T7	ENFERMEDAD 200 220	infarto de miocardio
+T8	ENFERMEDAD 324 443	arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda
+T9	ENFERMEDAD 732 819	zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T10	ENFERMEDAD 60 81	hemiparesia izquierda
+T11	ENFERMEDAD 689 819	estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T12	ENFERMEDAD 309 356	oclusión de la arteria carótida interna derecha
+T13	PROCEDIMIENTO 981 1001	control angiográfico
+T14	PROCEDIMIENTO 1411 1448	controles angiográficos y ecográficos
+T15	PROCEDIMIENTO 527 698	Mediante abordaje femoral común derecho se realizó un implante de una endoprótesis metálica monorraíl (Carotid wallstent, Boston Scientific Co.) en la zona de la estenosis
+T16	PROCEDIMIENTO 1205 1231	tratamiento anticoagulante
+T17	PROCEDIMIENTO 253 255	TC
+T18	PROCEDIMIENTO 258 260	RM
+T19	PROCEDIMIENTO 269 289	angiografía cerebral
+T20	PROCEDIMIENTO 1315 1328	dicumarinicos
+T21	PROCEDIMIENTO 1348 1375	antiagregantes plaquetarios
+T22	PROCEDIMIENTO 475 477	RM
+T23	PROCEDIMIENTO 1264 1301	heparina sódica en perfusión continua
+T24	PROCEDIMIENTO 822 928	A través de la malla de la endoprótesis se introdujo un microcatéter con el que se liberaron espirales GDC
+T25	SINTOMA 60 81	hemiparesia izquierda
+T26	SINTOMA 1560 1615	síntomas neurológicos en territorio carotídeo izquierdo
+T27	SINTOMA 449 468	signos de disección
+T28	SINTOMA 502 525	suplencia contralateral
+T29	SINTOMA 1461 1488	permeabilidad de la arteria

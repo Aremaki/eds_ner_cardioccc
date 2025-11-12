@@ -1,8 +1,29 @@
-T1	SINTOMA 1215 1220	dolor
-T2	SINTOMA 1223 1234	inflamación
-T3	ENFERMEDAD 147 184	pérdida del incisivo central superior
-T4	ENFERMEDAD 247 272	quiste radicular residual
-T5	ENFERMEDAD 1384 1400	quiste radicular
-T6	ENFERMEDAD 477 489	defecto óseo
-T7	ENFERMEDAD 1601 1613	defecto óseo
-T8	ENFERMEDAD 447 453	quiste
+T1	ENFERMEDAD 147 184	pérdida del incisivo central superior
+T2	ENFERMEDAD 247 272	quiste radicular residual
+T3	ENFERMEDAD 1384 1400	quiste radicular
+T4	ENFERMEDAD 477 489	defecto óseo
+T5	ENFERMEDAD 1601 1613	defecto óseo
+T6	ENFERMEDAD 447 453	quiste
+T7	PROCEDIMIENTO 1112 1142	régimen antibiótico preventivo
+T8	PROCEDIMIENTO 217 234	ortopantomografía
+T9	PROCEDIMIENTO 1368 1412	extirpación del quiste radicular con legrado
+T10	PROCEDIMIENTO 431 453	eliminación del quiste
+T11	PROCEDIMIENTO 455 489	regeneración ósea del defecto óseo
+T12	PROCEDIMIENTO 492 516	inserción de un implante
+T13	PROCEDIMIENTO 588 645	rehabilitación con una corona cementada implantosoportada
+T14	PROCEDIMIENTO 1852 1894	colocación de un tornillo de cicatrización
+T15	PROCEDIMIENTO 987 1013	tratamiento implantológico
+T16	PROCEDIMIENTO 197 215	examen radiológico
+T17	PROCEDIMIENTO 1415 1531	se realiza el lecho implantario, insertándose un implante de conexión externa universal con nanosuperficie Nanoblast
+T18	PROCEDIMIENTO 1582 1640	Se rellena todo el defecto óseo con betafosfato tricálcico
+T19	PROCEDIMIENTO 1677 1727	se cubre con una membrana de colágeno reabsorbible
+T20	PROCEDIMIENTO 1949 1991	se realizó la carga funcional del implante
+T21	PROCEDIMIENTO 2004 2143	colocación de la correspondiente prótesis implantosoportada, una corona de porcelana cementada sobre un pilar metálico hexagonal mecanizado
+T22	PROCEDIMIENTO 2221 2249	carga funcional del implante
+T23	PROCEDIMIENTO 1052 1059	Cirugía
+T24	PROCEDIMIENTO 1079 1086	cirugía
+T25	PROCEDIMIENTO 1840 1847	cirugía
+T26	PROCEDIMIENTO 1940 1947	cirugía
+T27	PROCEDIMIENTO 952 961	implantes
+T28	SINTOMA 1215 1220	dolor
+T29	SINTOMA 1223 1234	inflamación

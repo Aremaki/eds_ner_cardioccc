@@ -1,59 +1,59 @@
-T1	SINTOMA 134 158	vómitos en posos de café
-T2	SINTOMA 605 629	estabilidad hemodinámica
-T3	SINTOMA 52 74	dolor abdominal difuso
-T4	SINTOMA 76 85	hiporexia
-T5	SINTOMA 88 95	astenia
-T6	SINTOMA 684 695	peritonismo
-T7	SINTOMA 1090 1098	sangrado
-T8	SINTOMA 1782 1852	circulación colateral en los ligamentos gastrohepático y periesplénico
-T9	SINTOMA 631 668	Dolor difuso a la palpación abdominal
-T10	SINTOMA 1218 1267	erosiones con fibrina a nivel gástrico y duodenal
-T11	SINTOMA 3503 3705	fibrinógeno, antitrombina, proteína C, anticuerpos anticardiolipina, resistencia a la proteína C activada, factor V Leyden, factor II G 20210A y homocisteína) se encontraban en el rango de la normalidad
-T12	SINTOMA 2226 2244	flebografía normal
-T13	SINTOMA 161 176	heces melénicas
-T14	SINTOMA 1365 1392	hígado era de tamaño normal
-T15	ENFERMEDAD 161 176	heces melénicas
-T16	ENFERMEDAD 3416 3437	déficit de proteína S
-T17	ENFERMEDAD 297 307	dislipemia
-T18	ENFERMEDAD 1029 1047	varices esofágicas
-T19	ENFERMEDAD 347 355	fumadora
-T20	ENFERMEDAD 472 487	cancer gástrico
-T21	ENFERMEDAD 1185 1204	Hipertensión Portal
-T22	ENFERMEDAD 501 518	cirrosis hepática
-T23	ENFERMEDAD 1218 1267	erosiones con fibrina a nivel gástrico y duodenal
-T24	ENFERMEDAD 558 581	carcinoma hepatocelular
-T25	ENFERMEDAD 1525 1539	esplenomegalia
-T26	ENFERMEDAD 1541 1548	ascitis
-T27	ENFERMEDAD 1551 1566	derrame pleural
-T28	ENFERMEDAD 1623 1639	trombosis portal
-T29	ENFERMEDAD 1718 1764	trombo a nivel de la vena mesentérica superior
-T30	ENFERMEDAD 1782 1852	circulación colateral en los ligamentos gastrohepático y periesplénico
-T31	ENFERMEDAD 1782 1836	circulación colateral en los ligamentos gastrohepático
-T32	ENFERMEDAD 1904 1923	hepatopatía crónica
-T33	ENFERMEDAD 2316 2341	hiperplasia hepatocitaria
-T34	ENFERMEDAD 3026 3034	cirrosis
-T35	ENFERMEDAD 3061 3093	hipertensión portal no cirrótica
-T36	ENFERMEDAD 3175 3200	trombosis portal primaria
-T37	ENFERMEDAD 2979 2999	fibrosis perinodular
-T38	ENFERMEDAD 1473 1502	lesiones ocupantes de espacio
-T39	ENFERMEDAD 3226 3245	hipercoagulabilidad
-T40	ENFERMEDAD 235 247	hipertensión
-T41	ENFERMEDAD 145 158	posos de café
-T42	PROCEDIMIENTO 1282 1292	hemostasia
-T43	PROCEDIMIENTO 1309 1333	tomografía computerizada
-T44	PROCEDIMIENTO 1342 1361	ecografía abdominal
-T45	PROCEDIMIENTO 1970 1994	estudio de autoinmunidad
-T46	PROCEDIMIENTO 2114 2141	biopsia hepática percutánea
-T47	PROCEDIMIENTO 2146 2166	estudio hemodinámico
-T48	PROCEDIMIENTO 2226 2237	flebografía
-T49	PROCEDIMIENTO 2249 2256	biopsia
-T50	PROCEDIMIENTO 3215 3245	estudio de hipercoagulabilidad
-T51	PROCEDIMIENTO 3339 3353	anticoagulante
-T52	PROCEDIMIENTO 379 383	AINE
-T53	PROCEDIMIENTO 3791 3817	tratamiento anticoagulante
-T54	PROCEDIMIENTO 3837 3847	diuréticos
-T55	PROCEDIMIENTO 395 417	anticonceptivos orales
-T56	PROCEDIMIENTO 585 603	Exploración física
-T57	PROCEDIMIENTO 649 668	palpación abdominal
-T58	PROCEDIMIENTO 699 708	Analítica
-T59	PROCEDIMIENTO 982 994	gastroscopia
+T1	ENFERMEDAD 161 176	heces melénicas
+T2	ENFERMEDAD 3416 3437	déficit de proteína S
+T3	ENFERMEDAD 297 307	dislipemia
+T4	ENFERMEDAD 1029 1047	varices esofágicas
+T5	ENFERMEDAD 347 355	fumadora
+T6	ENFERMEDAD 472 487	cancer gástrico
+T7	ENFERMEDAD 1185 1204	Hipertensión Portal
+T8	ENFERMEDAD 501 518	cirrosis hepática
+T9	ENFERMEDAD 1218 1267	erosiones con fibrina a nivel gástrico y duodenal
+T10	ENFERMEDAD 558 581	carcinoma hepatocelular
+T11	ENFERMEDAD 1525 1539	esplenomegalia
+T12	ENFERMEDAD 1541 1548	ascitis
+T13	ENFERMEDAD 1551 1566	derrame pleural
+T14	ENFERMEDAD 1623 1639	trombosis portal
+T15	ENFERMEDAD 1718 1764	trombo a nivel de la vena mesentérica superior
+T16	ENFERMEDAD 1782 1852	circulación colateral en los ligamentos gastrohepático y periesplénico
+T17	ENFERMEDAD 1782 1836	circulación colateral en los ligamentos gastrohepático
+T18	ENFERMEDAD 1904 1923	hepatopatía crónica
+T19	ENFERMEDAD 2316 2341	hiperplasia hepatocitaria
+T20	ENFERMEDAD 3026 3034	cirrosis
+T21	ENFERMEDAD 3061 3093	hipertensión portal no cirrótica
+T22	ENFERMEDAD 3175 3200	trombosis portal primaria
+T23	ENFERMEDAD 2979 2999	fibrosis perinodular
+T24	ENFERMEDAD 1473 1502	lesiones ocupantes de espacio
+T25	ENFERMEDAD 3226 3245	hipercoagulabilidad
+T26	ENFERMEDAD 235 247	hipertensión
+T27	ENFERMEDAD 145 158	posos de café
+T28	PROCEDIMIENTO 585 603	Exploración física
+T29	PROCEDIMIENTO 3791 3817	tratamiento anticoagulante
+T30	PROCEDIMIENTO 3837 3847	diuréticos
+T31	PROCEDIMIENTO 3339 3353	anticoagulante
+T32	PROCEDIMIENTO 982 994	gastroscopia
+T33	PROCEDIMIENTO 1309 1333	tomografía computerizada
+T34	PROCEDIMIENTO 1342 1361	ecografía abdominal
+T35	PROCEDIMIENTO 1970 1994	estudio de autoinmunidad
+T36	PROCEDIMIENTO 2114 2141	biopsia hepática percutánea
+T37	PROCEDIMIENTO 2226 2237	flebografía
+T38	PROCEDIMIENTO 2249 2256	biopsia
+T39	PROCEDIMIENTO 3215 3245	estudio de hipercoagulabilidad
+T40	PROCEDIMIENTO 2146 2166	estudio hemodinámico
+T41	PROCEDIMIENTO 1282 1292	hemostasia
+T42	PROCEDIMIENTO 379 383	AINE
+T43	PROCEDIMIENTO 395 417	anticonceptivos orales
+T44	PROCEDIMIENTO 699 708	Analítica
+T45	PROCEDIMIENTO 649 668	palpación abdominal
+T46	SINTOMA 1218 1267	erosiones con fibrina a nivel gástrico y duodenal
+T47	SINTOMA 134 158	vómitos en posos de café
+T48	SINTOMA 605 629	estabilidad hemodinámica
+T49	SINTOMA 631 668	Dolor difuso a la palpación abdominal
+T50	SINTOMA 52 74	dolor abdominal difuso
+T51	SINTOMA 76 85	hiporexia
+T52	SINTOMA 88 95	astenia
+T53	SINTOMA 684 695	peritonismo
+T54	SINTOMA 1090 1098	sangrado
+T55	SINTOMA 161 176	heces melénicas
+T56	SINTOMA 1365 1392	hígado era de tamaño normal
+T57	SINTOMA 2226 2244	flebografía normal
+T58	SINTOMA 1782 1852	circulación colateral en los ligamentos gastrohepático y periesplénico
+T59	SINTOMA 3503 3705	fibrinógeno, antitrombina, proteína C, anticuerpos anticardiolipina, resistencia a la proteína C activada, factor V Leyden, factor II G 20210A y homocisteína) se encontraban en el rango de la normalidad

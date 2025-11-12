@@ -1,19 +1,20 @@
-T1	SINTOMA 1022 1046	contacto iridoendotelial
-T2	SINTOMA 592 639	fondo de ojo y la ecografía resultaron normales
-T3	SINTOMA 482 519	iridectomías se observaban permeables
-T4	ENFERMEDAD 43 47	GCCA
-T5	ENFERMEDAD 186 194	glaucoma
-T6	ENFERMEDAD 218 234	catarata nuclear
-T7	ENFERMEDAD 556 571	bloqueo pupilar
-T8	ENFERMEDAD 667 683	glaucoma maligno
-T9	PROCEDIMIENTO 1061 1068	cirugía
-T10	PROCEDIMIENTO 1072 1091	presión intraocular
-T11	PROCEDIMIENTO 1093 1096	PIO
-T12	PROCEDIMIENTO 115 131	trabeculectomías
-T13	PROCEDIMIENTO 285 323	facoemulsificación e implante valvular
-T14	PROCEDIMIENTO 346 353	cirugía
-T15	PROCEDIMIENTO 358 377	presión intraocular
-T16	PROCEDIMIENTO 482 494	iridectomías
-T17	PROCEDIMIENTO 576 619	exploración del fondo de ojo y la ecografía
-T18	PROCEDIMIENTO 700 770	capsulotomía e hialoidotomía con láser de Nd-YAG a través de la pupila
-T19	PROCEDIMIENTO 963 982	presión intraocular
+T1	ENFERMEDAD 43 47	GCCA
+T2	ENFERMEDAD 186 194	glaucoma
+T3	ENFERMEDAD 218 234	catarata nuclear
+T4	ENFERMEDAD 556 571	bloqueo pupilar
+T5	ENFERMEDAD 667 683	glaucoma maligno
+T6	PROCEDIMIENTO 115 131	trabeculectomías
+T7	PROCEDIMIENTO 285 323	facoemulsificación e implante valvular
+T8	PROCEDIMIENTO 482 494	iridectomías
+T9	PROCEDIMIENTO 576 619	exploración del fondo de ojo y la ecografía
+T10	PROCEDIMIENTO 700 770	capsulotomía e hialoidotomía con láser de Nd-YAG a través de la pupila
+T11	PROCEDIMIENTO 358 377	presión intraocular
+T12	PROCEDIMIENTO 963 982	presión intraocular
+T13	PROCEDIMIENTO 1072 1091	presión intraocular
+T14	PROCEDIMIENTO 1093 1096	PIO
+T15	PROCEDIMIENTO 346 353	cirugía
+T16	PROCEDIMIENTO 1061 1068	cirugía
+T17	SINTOMA 398 476	cámara anterior se encontraba aplanada con contacto iridoendotelial periférico
+T18	SINTOMA 482 519	iridectomías se observaban permeables
+T19	SINTOMA 1022 1046	contacto iridoendotelial
+T20	SINTOMA 592 639	fondo de ojo y la ecografía resultaron normales

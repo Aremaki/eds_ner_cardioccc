@@ -1,30 +1,58 @@
-T1	SINTOMA 1328 1423	autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos fueron normales
-T2	SINTOMA 1926 1957	captación meníngea generalizada
-T3	SINTOMA 2182 2225	captación periférica de contraste en anillo
-T4	SINTOMA 2228 2246	edema perilesional
-T5	SINTOMA 937 977	exploración general y neurológica normal
-T6	SINTOMA 452 472	focalidad infecciosa
-T7	SINTOMA 1733 1850	fondo de ojo, electrocardiograma, ecocardiografía y la TAC tóraco-abdominal con contraste también resultaron normales
-T8	SINTOMA 1467 1572	hemocultivos a través de catéter central, sangre periférica y urocultivos fueron reiteradamente negativos
-T9	SINTOMA 1449 1465	Mantoux negativa
-T10	SINTOMA 152 230	meningococo tipo B aislado en cultivos sanguíneos y de líquido cefalorraquídeo
-T11	SINTOMA 3121 3147	normalización de PCR y VSG
-T12	SINTOMA 747 753	fiebre
-T13	SINTOMA 3085 3091	fiebre
-T14	SINTOMA 396 402	fiebre
-T15	SINTOMA 2763 2776	cuadro febril
-T16	SINTOMA 699 723	estabilidad hemodinámica
-T17	SINTOMA 1656 1671	proteinorraquia
-T18	SINTOMA 726 745	buen estado general
-T19	ENFERMEDAD 2938 2966	foco infeccioso/inflamatorio
-T20	ENFERMEDAD 1970 1978	lesiones
-T21	ENFERMEDAD 128 170	sepsis y meningitis por meningococo tipo B
-T22	ENFERMEDAD 838 847	infección
-T23	ENFERMEDAD 3174 3193	abscesos cerebrales
-T24	ENFERMEDAD 362 368	sepsis
-T25	ENFERMEDAD 2292 2353	abscesos cerebrales múltiples secundarios a la meningococemia
-T26	ENFERMEDAD 2339 2353	meningococemia
-T27	ENFERMEDAD 2840 2859	lesiones cerebrales
-T28	ENFERMEDAD 1233 1248	hepatitis B y C
-T29	ENFERMEDAD 857 893	petequias en extremidades inferiores
-T30	ENFERMEDAD 2228 2246	edema perilesional
+T1	ENFERMEDAD 2938 2966	foco infeccioso/inflamatorio
+T2	ENFERMEDAD 1970 1978	lesiones
+T3	ENFERMEDAD 128 170	sepsis y meningitis por meningococo tipo B
+T4	ENFERMEDAD 838 847	infección
+T5	ENFERMEDAD 3174 3193	abscesos cerebrales
+T6	ENFERMEDAD 362 368	sepsis
+T7	ENFERMEDAD 2292 2353	abscesos cerebrales múltiples secundarios a la meningococemia
+T8	ENFERMEDAD 2339 2353	meningococemia
+T9	ENFERMEDAD 2840 2859	lesiones cerebrales
+T10	ENFERMEDAD 1233 1248	hepatitis B y C
+T11	ENFERMEDAD 857 893	petequias en extremidades inferiores
+T12	ENFERMEDAD 2228 2246	edema perilesional
+T13	PROCEDIMIENTO 982 991	hemograma
+T14	PROCEDIMIENTO 1868 1893	RMN craneal con contraste
+T15	PROCEDIMIENTO 996 1006	hemostasia
+T16	PROCEDIMIENTO 1011 1054	perfil renal, hepático, tiroideo y lipídico
+T17	PROCEDIMIENTO 785 824	acceso venoso central subclavio derecho
+T18	PROCEDIMIENTO 182 230	cultivos sanguíneos y de líquido cefalorraquídeo
+T19	PROCEDIMIENTO 1209 1313	serología a virus de la hepatitis B y C, VIH, VEB, CMV, VHS tipos 1 y 2, Coxiella burnetti y Rickettsias
+T20	PROCEDIMIENTO 240 262	soporte fluidoterápico
+T21	PROCEDIMIENTO 3208 3211	RMN
+T22	PROCEDIMIENTO 937 970	exploración general y neurológica
+T23	PROCEDIMIENTO 1328 1407	autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos
+T24	PROCEDIMIENTO 1449 1456	Mantoux
+T25	PROCEDIMIENTO 1467 1526	hemocultivos a través de catéter central, sangre periférica
+T26	PROCEDIMIENTO 541 551	urocultivo
+T27	PROCEDIMIENTO 1529 1540	urocultivos
+T28	PROCEDIMIENTO 553 573	radiografía de tórax
+T29	PROCEDIMIENTO 575 594	ecografía abdominal
+T30	PROCEDIMIENTO 597 610	TAC de cráneo
+T31	PROCEDIMIENTO 1733 1745	fondo de ojo
+T32	PROCEDIMIENTO 1747 1765	electrocardiograma
+T33	PROCEDIMIENTO 1767 1782	ecocardiografía
+T34	PROCEDIMIENTO 2658 2665	PET-TAC
+T35	PROCEDIMIENTO 1788 1822	TAC tóraco-abdominal con contraste
+T36	PROCEDIMIENTO 1688 1700	baciloscopia
+T37	PROCEDIMIENTO 518 539	hemocultivos seriados
+T38	PROCEDIMIENTO 1703 1710	cultivo
+T39	PROCEDIMIENTO 1376 1392	inmunoglobulinas
+T40	SINTOMA 1926 1957	captación meníngea generalizada
+T41	SINTOMA 747 753	fiebre
+T42	SINTOMA 3085 3091	fiebre
+T43	SINTOMA 396 402	fiebre
+T44	SINTOMA 2763 2776	cuadro febril
+T45	SINTOMA 699 723	estabilidad hemodinámica
+T46	SINTOMA 1656 1671	proteinorraquia
+T47	SINTOMA 452 472	focalidad infecciosa
+T48	SINTOMA 152 230	meningococo tipo B aislado en cultivos sanguíneos y de líquido cefalorraquídeo
+T49	SINTOMA 726 745	buen estado general
+T50	SINTOMA 1209 1326	serología a virus de la hepatitis B y C, VIH, VEB, CMV, VHS tipos 1 y 2, Coxiella burnetti y Rickettsias fue negativa
+T51	SINTOMA 1328 1423	autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos fueron normales
+T52	SINTOMA 1449 1465	Mantoux negativa
+T53	SINTOMA 1467 1572	hemocultivos a través de catéter central, sangre periférica y urocultivos fueron reiteradamente negativos
+T54	SINTOMA 1733 1850	fondo de ojo, electrocardiograma, ecocardiografía y la TAC tóraco-abdominal con contraste también resultaron normales
+T55	SINTOMA 937 977	exploración general y neurológica normal
+T56	SINTOMA 2182 2225	captación periférica de contraste en anillo
+T57	SINTOMA 2228 2246	edema perilesional
+T58	SINTOMA 3121 3147	normalización de PCR y VSG

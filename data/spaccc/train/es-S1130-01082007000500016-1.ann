@@ -1,21 +1,41 @@
-T1	SINTOMA 424 472	alteraciones recientes en el tránsito intestinal
-T2	SINTOMA 1669 1749	cultivo microbiológico y el estudio de parásitos en el aspirado fueron negativos
-T3	SINTOMA 488 520	deposiciones de aspecto melénico
-T4	SINTOMA 382 416	dolor sordo en hipocondrio derecho
-T5	SINTOMA 341 357	malestar general
-T6	SINTOMA 1529 1547	material purulento
-T7	SINTOMA 564 629	palpación abdominal discretamente dolorosa en hipocondrio derecho
-T8	SINTOMA 474 485	rectorragia
-T9	SINTOMA 359 379	sensación distérmica
-T10	SINTOMA 910 1066	serologías para virus hepatotropos, Brucella y Equinococcus, así como los hemocultivos seriados y la determinación de marcadores tumorales, fueron negativos
-T11	SINTOMA 1272 1413	tomografía computadorizada (TC) abdómino-pélvica con contraste se confirmó esta imagen, que presentaba zonas hipodensas con realce periférico
-T12	ENFERMEDAD 73 97	diabetes mellitus tipo 2
-T13	ENFERMEDAD 100 119	hipercolesterolemia
-T14	ENFERMEDAD 474 485	rectorragia
-T15	ENFERMEDAD 649 664	visceromegalias
-T16	ENFERMEDAD 1133 1178	lesión ocupante de espacio en lóbulo hepático
-T17	ENFERMEDAD 1457 1473	absceso hepático
-T18	ENFERMEDAD 2129 2176	lesión exofítica próxima a la válvula ileocecal
-T19	ENFERMEDAD 2260 2283	adenocarcinoma de ciego
-T20	ENFERMEDAD 2319 2343	diseminación metastásica
-T21	ENFERMEDAD 2353 2378	lesiones a nivel hepático
+T1	ENFERMEDAD 73 97	diabetes mellitus tipo 2
+T2	ENFERMEDAD 100 119	hipercolesterolemia
+T3	ENFERMEDAD 474 485	rectorragia
+T4	ENFERMEDAD 649 664	visceromegalias
+T5	ENFERMEDAD 1133 1178	lesión ocupante de espacio en lóbulo hepático
+T6	ENFERMEDAD 1457 1473	absceso hepático
+T7	ENFERMEDAD 2129 2176	lesión exofítica próxima a la válvula ileocecal
+T8	ENFERMEDAD 2260 2283	adenocarcinoma de ciego
+T9	ENFERMEDAD 2319 2343	diseminación metastásica
+T10	ENFERMEDAD 2353 2378	lesiones a nivel hepático
+T11	PROCEDIMIENTO 528 546	exploración física
+T12	PROCEDIMIENTO 984 1005	hemocultivos seriados
+T13	PROCEDIMIENTO 1095 1114	ecografía abdominal
+T14	PROCEDIMIENTO 1272 1334	tomografía computadorizada (TC) abdómino-pélvica con contraste
+T15	PROCEDIMIENTO 1478 1511	punción-aspiración con aguja fina
+T16	PROCEDIMIENTO 1554 1573	análisis citológico
+T17	PROCEDIMIENTO 1669 1691	cultivo microbiológico
+T18	PROCEDIMIENTO 1697 1732	estudio de parásitos en el aspirado
+T19	PROCEDIMIENTO 1777 1810	antibioterapia de amplio espectro
+T20	PROCEDIMIENTO 1858 1892	implantación de drenaje percutáneo
+T21	PROCEDIMIENTO 2096 2108	colonoscopia
+T22	PROCEDIMIENTO 2207 2232	estudio anatomopatológico
+T23	PROCEDIMIENTO 2414 2436	hemicolectomía derecha
+T24	PROCEDIMIENTO 2469 2492	quimioterapia adyuvante
+T25	PROCEDIMIENTO 1977 1996	control radiológico
+T26	PROCEDIMIENTO 2288 2308	estudio de extensión
+T27	PROCEDIMIENTO 910 969	serologías para virus hepatotropos, Brucella y Equinococcus
+T28	PROCEDIMIENTO 1028 1048	marcadores tumorales
+T29	PROCEDIMIENTO 192 218	intervenciones quirúrgicas
+T30	PROCEDIMIENTO 564 583	palpación abdominal
+T31	SINTOMA 341 357	malestar general
+T32	SINTOMA 359 379	sensación distérmica
+T33	SINTOMA 382 416	dolor sordo en hipocondrio derecho
+T34	SINTOMA 488 520	deposiciones de aspecto melénico
+T35	SINTOMA 564 629	palpación abdominal discretamente dolorosa en hipocondrio derecho
+T36	SINTOMA 1529 1547	material purulento
+T37	SINTOMA 424 472	alteraciones recientes en el tránsito intestinal
+T38	SINTOMA 474 485	rectorragia
+T39	SINTOMA 1669 1749	cultivo microbiológico y el estudio de parásitos en el aspirado fueron negativos
+T40	SINTOMA 910 1066	serologías para virus hepatotropos, Brucella y Equinococcus, así como los hemocultivos seriados y la determinación de marcadores tumorales, fueron negativos
+T41	SINTOMA 1272 1413	tomografía computadorizada (TC) abdómino-pélvica con contraste se confirmó esta imagen, que presentaba zonas hipodensas con realce periférico

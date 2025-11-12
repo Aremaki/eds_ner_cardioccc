@@ -1,9 +1,15 @@
-T1	SINTOMA 831 853	engrosamiento parietal
-T2	SINTOMA 709 774	estudio microbiológico demostró huevos de Schistosoma haematobium
-T3	SINTOMA 341 370	exploración física es anodina
-T4	SINTOMA 79 101	hematuria macroscópica
-T5	SINTOMA 141 148	disuria
-T6	SINTOMA 193 199	fiebre
-T7	ENFERMEDAD 400 413	bilharzhiasis
-T8	ENFERMEDAD 939 955	esquistosomiasis
-T9	ENFERMEDAD 79 101	hematuria macroscópica
+T1	ENFERMEDAD 400 413	bilharzhiasis
+T2	ENFERMEDAD 939 955	esquistosomiasis
+T3	ENFERMEDAD 79 101	hematuria macroscópica
+T4	PROCEDIMIENTO 780 797	ecografía vesical
+T5	PROCEDIMIENTO 502 545	recogida de orina de tres días consecutivos
+T6	PROCEDIMIENTO 216 225	anamnesis
+T7	PROCEDIMIENTO 683 704	ecografía renovesical
+T8	PROCEDIMIENTO 709 731	estudio microbiológico
+T9	PROCEDIMIENTO 341 359	exploración física
+T10	SINTOMA 79 101	hematuria macroscópica
+T11	SINTOMA 141 148	disuria
+T12	SINTOMA 193 199	fiebre
+T13	SINTOMA 831 853	engrosamiento parietal
+T14	SINTOMA 341 370	exploración física es anodina
+T15	SINTOMA 709 774	estudio microbiológico demostró huevos de Schistosoma haematobium

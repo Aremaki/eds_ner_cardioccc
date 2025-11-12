@@ -1,46 +1,67 @@
-T1	SINTOMA 2552 2593	asimetría a la altura del colículo facial
-T2	SINTOMA 999 1025	deformaba el IV ventrículo
-T3	SINTOMA 2997 3024	efecto de masa del hematoma
-T4	SINTOMA 4100 4143	funciones superiores cognitivas conservadas
-T5	SINTOMA 432 485	hemihipoestesia con parestesias de hemicuerpo derecho
-T6	SINTOMA 597 644	hemihipoestesia derecha con extinción sensitiva
-T7	SINTOMA 488 511	hemiparesia 4/5 derecha
-T8	SINTOMA 567 590	hemiparesia derecha 4/5
-T9	SINTOMA 915 940	hemosiderina perilesional
-T10	SINTOMA 3989 4014	inestabilidad a la marcha
-T11	SINTOMA 4066 4094	nivel de conciencia es bueno
-T12	SINTOMA 3863 3885	paresia facial nuclear
-T13	SINTOMA 3812 3848	paresia nuclear del VI par izquierdo
-T14	SINTOMA 3524 3554	paresia transitoria de X y XII
-T15	SINTOMA 339 351	asintomática
-T16	SINTOMA 402 409	cefalea
-T17	SINTOMA 412 419	vómitos
-T18	SINTOMA 3957 3970	déficit motor
-T19	SINTOMA 968 976	sangrado
-T20	PROCEDIMIENTO 1211 1222	radiológica
-T21	PROCEDIMIENTO 1282 1312	monitorización intraoperatoria
-T22	PROCEDIMIENTO 1330 1380	estimulación de la superficie de la fosa romboidea
-T23	PROCEDIMIENTO 1498 1536	potenciales auditivos intraoperatorios
-T24	PROCEDIMIENTO 1543 1672	estimular los núcleos localizados en la fosa romboidea hemos utilizado el sistema de monitorización nerviosa NIM-Response® System
-T25	PROCEDIMIENTO 166 189	evacuación del hematoma
-T26	PROCEDIMIENTO 1896 1921	lectura electromiográfica
-T27	PROCEDIMIENTO 192 223	resección de la lesión vascular
-T28	PROCEDIMIENTO 2057 2159	electrodos para monitorizar el nervio facial se colocaron en los músculos orbiculares de la boca y ojo
-T29	PROCEDIMIENTO 2161 2247	Para registrar el XII par craneal los electrodos se colocaron en el músculo geniogloso
-T30	PROCEDIMIENTO 2252 2317	registro del X par se realizó con sensores de las cuerdas vocales
-T31	PROCEDIMIENTO 2344 2353	anestesia
-T32	PROCEDIMIENTO 2371 2397	colocada en decúbito prono
-T33	PROCEDIMIENTO 2415 2440	craniectomía suboccipital
-T34	PROCEDIMIENTO 2443 2476	exéresis del arco posterior de C1
-T35	PROCEDIMIENTO 2483 2510	apertura dural y aracnoidea
-T36	PROCEDIMIENTO 2691 2751	estimulación intraoperatoria con respuesta electromiográfica
-T37	PROCEDIMIENTO 3073 3086	incisión pial
-T38	PROCEDIMIENTO 3103 3125	hematoma que se evacuó
-T39	PROCEDIMIENTO 3116 3148	se evacuó, así como el cavernoma
-T40	PROCEDIMIENTO 3185 3194	resección
-T41	PROCEDIMIENTO 3209 3238	monitorización de los núcleos
-T42	PROCEDIMIENTO 3274 3291	electromiográfica
-T43	PROCEDIMIENTO 3397 3418	potenciales auditivos
-T44	PROCEDIMIENTO 519 530	exploración
-T45	PROCEDIMIENTO 649 659	TC craneal
-T46	PROCEDIMIENTO 820 831	RM cerebral
+T1	ENFERMEDAD 43 53	cavernomas
+T2	ENFERMEDAD 862 894	angioma cavernoso protuberancial
+T3	ENFERMEDAD 693 734	hematoma protuberancial posterior derecho
+T4	ENFERMEDAD 105 160	hemorragia frontal de angioma cavernoso frontal derecho
+T5	ENFERMEDAD 805 814	cavernoma
+T6	ENFERMEDAD 181 189	hematoma
+T7	ENFERMEDAD 3702 3728	oftalmoplejía internuclear
+T8	ENFERMEDAD 262 294	angioma protuberancial izquierdo
+T9	ENFERMEDAD 3812 3838	paresia nuclear del VI par
+T10	ENFERMEDAD 3863 3885	paresia facial nuclear
+T11	ENFERMEDAD 544 561	nistagmo vertical
+T12	ENFERMEDAD 567 586	hemiparesia derecha
+T13	ENFERMEDAD 597 620	hemihipoestesia derecha
+T14	ENFERMEDAD 3016 3024	hematoma
+T15	ENFERMEDAD 3103 3111	hematoma
+T16	ENFERMEDAD 3139 3148	cavernoma
+T17	ENFERMEDAD 3733 3757	síndrome del uno y medio
+T18	ENFERMEDAD 983 989	lesión
+T19	ENFERMEDAD 1229 1235	lesión
+T20	ENFERMEDAD 208 223	lesión vascular
+T21	ENFERMEDAD 127 160	angioma cavernoso frontal derecho
+T22	PROCEDIMIENTO 649 659	TC craneal
+T23	PROCEDIMIENTO 820 831	RM cerebral
+T24	PROCEDIMIENTO 2415 2440	craniectomía suboccipital
+T25	PROCEDIMIENTO 2443 2476	exéresis del arco posterior de C1
+T26	PROCEDIMIENTO 2483 2510	apertura dural y aracnoidea
+T27	PROCEDIMIENTO 1330 1380	estimulación de la superficie de la fosa romboidea
+T28	PROCEDIMIENTO 166 189	evacuación del hematoma
+T29	PROCEDIMIENTO 192 223	resección de la lesión vascular
+T30	PROCEDIMIENTO 1498 1536	potenciales auditivos intraoperatorios
+T31	PROCEDIMIENTO 2691 2751	estimulación intraoperatoria con respuesta electromiográfica
+T32	PROCEDIMIENTO 1543 1672	estimular los núcleos localizados en la fosa romboidea hemos utilizado el sistema de monitorización nerviosa NIM-Response® System
+T33	PROCEDIMIENTO 3073 3086	incisión pial
+T34	PROCEDIMIENTO 1896 1921	lectura electromiográfica
+T35	PROCEDIMIENTO 3103 3125	hematoma que se evacuó
+T36	PROCEDIMIENTO 3209 3238	monitorización de los núcleos
+T37	PROCEDIMIENTO 2057 2159	electrodos para monitorizar el nervio facial se colocaron en los músculos orbiculares de la boca y ojo
+T38	PROCEDIMIENTO 3274 3291	electromiográfica
+T39	PROCEDIMIENTO 3397 3418	potenciales auditivos
+T40	PROCEDIMIENTO 2252 2317	registro del X par se realizó con sensores de las cuerdas vocales
+T41	PROCEDIMIENTO 2344 2353	anestesia
+T42	PROCEDIMIENTO 2371 2397	colocada en decúbito prono
+T43	PROCEDIMIENTO 3185 3194	resección
+T44	PROCEDIMIENTO 2161 2247	Para registrar el XII par craneal los electrodos se colocaron en el músculo geniogloso
+T45	PROCEDIMIENTO 519 530	exploración
+T46	PROCEDIMIENTO 1282 1312	monitorización intraoperatoria
+T47	PROCEDIMIENTO 3116 3148	se evacuó, así como el cavernoma
+T48	PROCEDIMIENTO 1211 1222	radiológica
+T49	SINTOMA 339 351	asintomática
+T50	SINTOMA 2552 2593	asimetría a la altura del colículo facial
+T51	SINTOMA 402 409	cefalea
+T52	SINTOMA 412 419	vómitos
+T53	SINTOMA 432 485	hemihipoestesia con parestesias de hemicuerpo derecho
+T54	SINTOMA 3957 3970	déficit motor
+T55	SINTOMA 3989 4014	inestabilidad a la marcha
+T56	SINTOMA 4066 4094	nivel de conciencia es bueno
+T57	SINTOMA 4100 4143	funciones superiores cognitivas conservadas
+T58	SINTOMA 968 976	sangrado
+T59	SINTOMA 488 511	hemiparesia 4/5 derecha
+T60	SINTOMA 2997 3024	efecto de masa del hematoma
+T61	SINTOMA 915 940	hemosiderina perilesional
+T62	SINTOMA 999 1025	deformaba el IV ventrículo
+T63	SINTOMA 3524 3554	paresia transitoria de X y XII
+T64	SINTOMA 597 644	hemihipoestesia derecha con extinción sensitiva
+T65	SINTOMA 3812 3848	paresia nuclear del VI par izquierdo
+T66	SINTOMA 3863 3885	paresia facial nuclear
+T67	SINTOMA 567 590	hemiparesia derecha 4/5

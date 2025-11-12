@@ -1,16 +1,24 @@
-T1	SINTOMA 1964 1976	asintomático
-T2	SINTOMA 348 369	irritación peritoneal
-T3	SINTOMA 198 216	sensación nauseosa
-T4	SINTOMA 225 231	vómito
-T5	SINTOMA 130 165	dolor abdominal difuso intermitente
-T6	SINTOMA 289 333	dolorimiento difuso a la palpación abdominal
-T7	SINTOMA 1335 1555	normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática
-T8	SINTOMA 794 884	vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior
-T9	SINTOMA 1665 1744	vena porta de calibre aumentado pero permeable con transformación cavernomatosa
-T10	ENFERMEDAD 81 90	trombosis
-T11	ENFERMEDAD 960 986	trombosis de la vena porta
-T12	ENFERMEDAD 960 1020	trombosis de la vena porta y de la vena mesentérica superior
-T13	ENFERMEDAD 1235 1246	trombofilia
-T14	ENFERMEDAD 1262 1326	heterocigosis para la mutación G20210A del gen de la protrombina
-T15	ENFERMEDAD 1635 1649	esplenomegalia
-T16	ENFERMEDAD 1759 1789	vasos colaterales periportales
+T1	ENFERMEDAD 81 90	trombosis
+T2	ENFERMEDAD 960 986	trombosis de la vena porta
+T3	ENFERMEDAD 960 1020	trombosis de la vena porta y de la vena mesentérica superior
+T4	ENFERMEDAD 1235 1246	trombofilia
+T5	ENFERMEDAD 1262 1326	heterocigosis para la mutación G20210A del gen de la protrombina
+T6	ENFERMEDAD 1635 1649	esplenomegalia
+T7	ENFERMEDAD 1759 1789	vasos colaterales periportales
+T8	PROCEDIMIENTO 259 277	exploración física
+T9	PROCEDIMIENTO 761 780	ecografía abdominal
+T10	PROCEDIMIENTO 891 906	estudio doppler
+T11	PROCEDIMIENTO 912 946	tomografía computerizada abdominal
+T12	PROCEDIMIENTO 1561 1577	angiorresonancia
+T13	PROCEDIMIENTO 1796 1821	endoscopia digestiva oral
+T14	PROCEDIMIENTO 1224 1246	estudio de trombofilia
+T15	PROCEDIMIENTO 314 333	palpación abdominal
+T16	SINTOMA 130 165	dolor abdominal difuso intermitente
+T17	SINTOMA 225 231	vómito
+T18	SINTOMA 289 333	dolorimiento difuso a la palpación abdominal
+T19	SINTOMA 348 369	irritación peritoneal
+T20	SINTOMA 794 884	vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior
+T21	SINTOMA 1964 1976	asintomático
+T22	SINTOMA 198 216	sensación nauseosa
+T23	SINTOMA 1665 1744	vena porta de calibre aumentado pero permeable con transformación cavernomatosa
+T24	SINTOMA 1335 1555	normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática

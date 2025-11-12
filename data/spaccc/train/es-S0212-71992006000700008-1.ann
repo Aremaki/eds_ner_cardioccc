@@ -1,25 +1,64 @@
-T1	SINTOMA 639 678	actividad irritativa temporal izquierda
-T2	SINTOMA 1119 1126	afebril
-T3	SINTOMA 1306 1323	ánimo inapropiado
-T4	SINTOMA 1725 1818	anticuerpos anti-Hu, antitiroides, serologías (lúes, VIH, virus neurotropos) fueron negativas
-T5	SINTOMA 475 518	atelectasia basal derecha en la Rx de tórax
-T6	SINTOMA 1913 1937	atelectasia/neumonía LDI
-T7	SINTOMA 196 219	comportamiento infantil
-T8	SINTOMA 1272 1282	consciente
-T9	SINTOMA 1093 1105	convulsiones
-T10	SINTOMA 1325 1344	déficit de atención
-T11	SINTOMA 1288 1304	disfasia nominal
-T12	SINTOMA 1991 2129	endoscopia digestiva alta y baja, tránsito intestinal, valoración urológica, gammografía ósea y biopsia de médula ósea. Dada la normalidad
-T13	SINTOMA 1374 1393	hemiparesia derecha
-T14	SINTOMA 892 902	hemorragia
-T15	SINTOMA 2257 2312	hipercaptación de fluoroglucosa a nivel faringolaríngeo
-T16	SINTOMA 584 604	hiperproteinorraquia
-T17	SINTOMA 180 189	irritable
-T18	SINTOMA 1957 1988	lavado broncoalveolar (negativa
-T19	SINTOMA 562 574	LCR acelular
-T20	SINTOMA 1686 1707	leve elevación de CEA
-T21	SINTOMA 1491 1496	moria
-T22	SINTOMA 1438 1445	paresia
-T23	SINTOMA 1585 1606	PCR negativa para VHS
-T24	SINTOMA 270 306	pesadez y adormecimiento en miembros
-T25	SINTOMA 1347 1366	tendencia a fabular
+T1	ENFERMEDAD 107 125	estatus convulsivo
+T2	ENFERMEDAD 717 769	lesión de hiperseñal sobre lóbulo temporal izquierdo
+T3	ENFERMEDAD 1033 1041	neumonía
+T4	ENFERMEDAD 1369 1385	leve hemiparesia
+T5	ENFERMEDAD 1499 1520	síndrome de Korsakoff
+T6	ENFERMEDAD 1913 1937	atelectasia/neumonía LDI
+T7	ENFERMEDAD 2174 2177	ELP
+T8	ENFERMEDAD 2289 2343	a nivel faringolaríngeo, así como pequeñas adenopatías
+T9	ENFERMEDAD 2473 2513	carcinoma epidermoide del seno piriforme
+T10	ENFERMEDAD 1844 1853	neoplasia
+T11	ENFERMEDAD 1772 1776	lúes
+T12	ENFERMEDAD 24 31	fumador
+T13	ENFERMEDAD 475 492	atelectasia basal
+T14	PROCEDIMIENTO 418 421	ECG
+T15	PROCEDIMIENTO 423 433	TC cerebra
+T16	PROCEDIMIENTO 507 518	Rx de tórax
+T17	PROCEDIMIENTO 536 550	punción lumbar
+T18	PROCEDIMIENTO 631 634	EEG
+T19	PROCEDIMIENTO 694 706	RNM cerebral
+T20	PROCEDIMIENTO 828 869	administración de contraste paramagnético
+T21	PROCEDIMIENTO 1222 1260	exploración física y en la neurológica
+T22	PROCEDIMIENTO 1610 1624	antibioterapia
+T23	PROCEDIMIENTO 1875 1894	TAC toracoabdominal
+T24	PROCEDIMIENTO 1940 1978	broncoscopio con lavado broncoalveolar
+T25	PROCEDIMIENTO 1991 2023	endoscopia digestiva alta y baja
+T26	PROCEDIMIENTO 2025 2044	tránsito intestinal
+T27	PROCEDIMIENTO 2046 2066	valoración urológica
+T28	PROCEDIMIENTO 2068 2084	gammografía ósea
+T29	PROCEDIMIENTO 2087 2109	biopsia de médula ósea
+T30	PROCEDIMIENTO 2190 2221	estudio de TEP de cuerpo entero
+T31	PROCEDIMIENTO 2382 2385	TEP
+T32	PROCEDIMIENTO 2393 2407	TAC del cuello
+T33	PROCEDIMIENTO 2410 2436	estudio anatomo-patológico
+T34	PROCEDIMIENTO 1760 1770	serologías
+T35	PROCEDIMIENTO 1017 1031	antibioterapia
+T36	PROCEDIMIENTO 771 798	secuencias FLAIR y difusión
+T37	PROCEDIMIENTO 987 1013	PCR frente a herpes simple
+T38	PROCEDIMIENTO 407 416	analítica
+T39	SINTOMA 180 189	irritable
+T40	SINTOMA 270 306	pesadez y adormecimiento en miembros
+T41	SINTOMA 562 574	LCR acelular
+T42	SINTOMA 639 678	actividad irritativa temporal izquierda
+T43	SINTOMA 1093 1105	convulsiones
+T44	SINTOMA 1288 1304	disfasia nominal
+T45	SINTOMA 1306 1323	ánimo inapropiado
+T46	SINTOMA 1325 1344	déficit de atención
+T47	SINTOMA 1347 1366	tendencia a fabular
+T48	SINTOMA 1491 1496	moria
+T49	SINTOMA 1686 1707	leve elevación de CEA
+T50	SINTOMA 2257 2312	hipercaptación de fluoroglucosa a nivel faringolaríngeo
+T51	SINTOMA 1119 1126	afebril
+T52	SINTOMA 1272 1282	consciente
+T53	SINTOMA 196 219	comportamiento infantil
+T54	SINTOMA 584 604	hiperproteinorraquia
+T55	SINTOMA 1585 1606	PCR negativa para VHS
+T56	SINTOMA 1438 1445	paresia
+T57	SINTOMA 892 902	hemorragia
+T58	SINTOMA 1725 1818	anticuerpos anti-Hu, antitiroides, serologías (lúes, VIH, virus neurotropos) fueron negativas
+T59	SINTOMA 1957 1988	lavado broncoalveolar (negativa
+T60	SINTOMA 369 434	hallazgos destacables en las pruebas (analítica, ECG, TC cerebral
+T61	SINTOMA 475 518	atelectasia basal derecha en la Rx de tórax
+T62	SINTOMA 1374 1393	hemiparesia derecha
+T63	SINTOMA 1913 1937	atelectasia/neumonía LDI
+T64	SINTOMA 1991 2129	endoscopia digestiva alta y baja, tránsito intestinal, valoración urológica, gammografía ósea y biopsia de médula ósea. Dada la normalidad

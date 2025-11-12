@@ -1,15 +1,32 @@
-T1	SINTOMA 1765 1778	fallecimiento
-T2	SINTOMA 1092 1118	hemorragia transoperatoria
-T3	SINTOMA 32 41	lumbalgia
-T4	SINTOMA 710 714	masa
-T5	SINTOMA 1389 1423	masa sólida con áreas hemorrágicas
-T6	SINTOMA 116 149	pérdida de treinta libras de peso
-T7	SINTOMA 1254 1264	tumoración
-T8	SINTOMA 309 396	tumoración dura en hipocondrio izquierdo que llegaba hasta el mesogastrio y fosa iliaca
-T9	ENFERMEDAD 599 609	metástasis
-T10	ENFERMEDAD 1428 1539	tumor infiltraba la cápsula y la grasa perirrenal de todo el polo superior del riñón izquierdo así como el bazo
-T11	ENFERMEDAD 242 266	hiperfunción suprarrenal
-T12	ENFERMEDAD 1599 1635	carcinoma de la glándula suprarrenal
-T13	ENFERMEDAD 1228 1248	adenopatías hiliares
-T14	ENFERMEDAD 910 933	infiltración del hígado
-T15	ENFERMEDAD 1158 1163	tumor
+T1	ENFERMEDAD 599 609	metástasis
+T2	ENFERMEDAD 1428 1539	tumor infiltraba la cápsula y la grasa perirrenal de todo el polo superior del riñón izquierdo así como el bazo
+T3	ENFERMEDAD 242 266	hiperfunción suprarrenal
+T4	ENFERMEDAD 1599 1635	carcinoma de la glándula suprarrenal
+T5	ENFERMEDAD 1228 1248	adenopatías hiliares
+T6	ENFERMEDAD 910 933	infiltración del hígado
+T7	ENFERMEDAD 1158 1163	tumor
+T8	PROCEDIMIENTO 561 581	radiografía de tórax
+T9	PROCEDIMIENTO 274 304	exploración abdominal se palpó
+T10	PROCEDIMIENTO 455 476	ultrasonido abdominal
+T11	PROCEDIMIENTO 478 498	radiografía de tórax
+T12	PROCEDIMIENTO 500 520	urograma descendente
+T13	PROCEDIMIENTO 523 553	tomografía axial computarizada
+T14	PROCEDIMIENTO 1002 1069	exéresis por vía toraco-abdominal con clampaje de la aorta torácica
+T15	PROCEDIMIENTO 1164 1185	nefrectomía izquierda
+T16	PROCEDIMIENTO 1188 1248	esplenectomía en bloque con paquetes de adenopatías hiliares
+T17	PROCEDIMIENTO 1144 1163	resección del tumor
+T18	PROCEDIMIENTO 1357 1377	estudio macroscópico
+T19	PROCEDIMIENTO 412 435	estudios imagenológicos
+T20	PROCEDIMIENTO 648 671	estudios imagenológicos
+T21	PROCEDIMIENTO 1254 1274	tumoración extirpada
+T22	PROCEDIMIENTO 1547 1565	esudio histológico
+T23	PROCEDIMIENTO 991 998	cirugía
+T24	PROCEDIMIENTO 1712 1724	intervención
+T25	SINTOMA 32 41	lumbalgia
+T26	SINTOMA 309 396	tumoración dura en hipocondrio izquierdo que llegaba hasta el mesogastrio y fosa iliaca
+T27	SINTOMA 116 149	pérdida de treinta libras de peso
+T28	SINTOMA 710 714	masa
+T29	SINTOMA 1254 1264	tumoración
+T30	SINTOMA 1765 1778	fallecimiento
+T31	SINTOMA 1092 1118	hemorragia transoperatoria
+T32	SINTOMA 1389 1423	masa sólida con áreas hemorrágicas

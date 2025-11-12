@@ -1,62 +1,62 @@
-T1	SINTOMA 3849 3861	asintomático
-T2	SINTOMA 692 715	dificultad respiratoria
-T3	SINTOMA 794 817	dolorosa a la palpación
-T4	SINTOMA 199 205	fiebre
-T5	SINTOMA 207 223	malestar general
-T6	SINTOMA 226 256	síntomas urinarios irritativos
-T7	SINTOMA 3112 3122	tumoración
-T8	SINTOMA 2191 2201	tumoración
-T9	SINTOMA 1069 1098	cambios inflamatorios locales
-T10	SINTOMA 1605 1622	creatinina normal
-T11	SINTOMA 1323 1350	dolor a la percusión lumbar
-T12	SINTOMA 114 164	dolor tipo urente en hipocondrio y región inguinal
-T13	SINTOMA 887 976	masa a nivel de flanco y fosa iliaca derechas que se continua a la región inguinoescrotal
-T14	SINTOMA 3632 3645	masa cervical
-T15	SINTOMA 1900 1919	masa en fosa iliaca
-T16	SINTOMA 3803 3823	masa inguinoescrotal
-T17	SINTOMA 1103 1149	masa tiene consistencia firme y dura, no móvil
-T18	SINTOMA 741 754	masa tiroidea
-T19	SINTOMA 1280 1300	tacto rectal anodino
-T20	SINTOMA 1185 1237	testículo derecho no fue palpable por efecto de masa
-T21	SINTOMA 1242 1275	testículo izquierdo está presente
-T22	SINTOMA 1155 1180	transiluminacion negativa
-T23	ENFERMEDAD 279 300	Hipertensión arterial
-T24	ENFERMEDAD 1578 1591	hiperglicemia
-T25	ENFERMEDAD 303 322	Diabetes Mellitus 2
-T26	ENFERMEDAD 1373 1402	infección del tracto urinario
-T27	ENFERMEDAD 2606 2659	neoplasia maligna de origen mesenquimal y sarcomatosa
-T28	ENFERMEDAD 357 371	cáncer de mama
-T29	ENFERMEDAD 382 402	enfermedad coronaria
-T30	ENFERMEDAD 419 433	tumor cerebral
-T31	ENFERMEDAD 1043 1065	adenopatías inguinales
-T32	ENFERMEDAD 1762 1794	respuesta inflamatoria sistémica
-T33	ENFERMEDAD 3678 3708	carcinoma papilar del tiroides
-T34	ENFERMEDAD 2821 2850	liposarcoma bien diferenciado
-T35	ENFERMEDAD 2137 2163	adenopatías locoregionales
-T36	ENFERMEDAD 3902 3918	recidiva tumoral
-T37	ENFERMEDAD 3079 3092	condrosarcoma
-T38	ENFERMEDAD 3140 3167	liposarcoma desdiferenciado
-T39	ENFERMEDAD 3215 3258	liposarcoma bien diferenciado (lipoma-like)
-T40	ENFERMEDAD 3299 3326	condrosarcoma de alto grado
-T41	ENFERMEDAD 3362 3411	liposarcoma desdiferenciado de cordón espermático
-T42	ENFERMEDAD 2573 2587	lesión tumoral
-T43	ENFERMEDAD 3215 3244	liposarcoma bien diferenciado
-T44	PROCEDIMIENTO 1155 1171	transiluminacion
-T45	PROCEDIMIENTO 1280 1292	tacto rectal
-T46	PROCEDIMIENTO 1334 1350	percusión lumbar
-T47	PROCEDIMIENTO 1407 1417	urocultivo
-T48	PROCEDIMIENTO 1429 1458	manejo antibiótico endovenoso
-T49	PROCEDIMIENTO 1716 1734	manejo antibiótico
-T50	PROCEDIMIENTO 1811 1848	tomografía abdominal (TC) contrastada
-T51	PROCEDIMIENTO 1833 1835	TC
-T52	PROCEDIMIENTO 2176 2201	exéresis de la tumoración
-T53	PROCEDIMIENTO 2210 2231	orquidectomía radical
-T54	PROCEDIMIENTO 2373 2383	extracción
-T55	PROCEDIMIENTO 2547 2556	patología
-T56	PROCEDIMIENTO 3426 3435	resección
-T57	PROCEDIMIENTO 3472 3490	radioterapia local
-T58	PROCEDIMIENTO 3608 3645	citología aspirativa de masa cervical
-T59	PROCEDIMIENTO 3659 3669	patológico
-T60	PROCEDIMIENTO 3788 3823	exéresis de la masa inguinoescrotal
-T61	PROCEDIMIENTO 808 817	palpación
-T62	PROCEDIMIENTO 851 869	exploración física
+T1	ENFERMEDAD 279 300	Hipertensión arterial
+T2	ENFERMEDAD 1578 1591	hiperglicemia
+T3	ENFERMEDAD 303 322	Diabetes Mellitus 2
+T4	ENFERMEDAD 1373 1402	infección del tracto urinario
+T5	ENFERMEDAD 2606 2659	neoplasia maligna de origen mesenquimal y sarcomatosa
+T6	ENFERMEDAD 357 371	cáncer de mama
+T7	ENFERMEDAD 382 402	enfermedad coronaria
+T8	ENFERMEDAD 419 433	tumor cerebral
+T9	ENFERMEDAD 1043 1065	adenopatías inguinales
+T10	ENFERMEDAD 1762 1794	respuesta inflamatoria sistémica
+T11	ENFERMEDAD 3678 3708	carcinoma papilar del tiroides
+T12	ENFERMEDAD 2821 2850	liposarcoma bien diferenciado
+T13	ENFERMEDAD 2137 2163	adenopatías locoregionales
+T14	ENFERMEDAD 3902 3918	recidiva tumoral
+T15	ENFERMEDAD 3079 3092	condrosarcoma
+T16	ENFERMEDAD 3140 3167	liposarcoma desdiferenciado
+T17	ENFERMEDAD 3215 3258	liposarcoma bien diferenciado (lipoma-like)
+T18	ENFERMEDAD 3299 3326	condrosarcoma de alto grado
+T19	ENFERMEDAD 3362 3411	liposarcoma desdiferenciado de cordón espermático
+T20	ENFERMEDAD 2573 2587	lesión tumoral
+T21	ENFERMEDAD 3215 3244	liposarcoma bien diferenciado
+T22	PROCEDIMIENTO 851 869	exploración física
+T23	PROCEDIMIENTO 1811 1848	tomografía abdominal (TC) contrastada
+T24	PROCEDIMIENTO 1833 1835	TC
+T25	PROCEDIMIENTO 2210 2231	orquidectomía radical
+T26	PROCEDIMIENTO 1407 1417	urocultivo
+T27	PROCEDIMIENTO 1429 1458	manejo antibiótico endovenoso
+T28	PROCEDIMIENTO 3608 3645	citología aspirativa de masa cervical
+T29	PROCEDIMIENTO 3788 3823	exéresis de la masa inguinoescrotal
+T30	PROCEDIMIENTO 1280 1292	tacto rectal
+T31	PROCEDIMIENTO 1155 1171	transiluminacion
+T32	PROCEDIMIENTO 1716 1734	manejo antibiótico
+T33	PROCEDIMIENTO 2176 2201	exéresis de la tumoración
+T34	PROCEDIMIENTO 3472 3490	radioterapia local
+T35	PROCEDIMIENTO 2373 2383	extracción
+T36	PROCEDIMIENTO 808 817	palpación
+T37	PROCEDIMIENTO 1334 1350	percusión lumbar
+T38	PROCEDIMIENTO 2547 2556	patología
+T39	PROCEDIMIENTO 3659 3669	patológico
+T40	PROCEDIMIENTO 3426 3435	resección
+T41	SINTOMA 887 976	masa a nivel de flanco y fosa iliaca derechas que se continua a la región inguinoescrotal
+T42	SINTOMA 1605 1622	creatinina normal
+T43	SINTOMA 1900 1919	masa en fosa iliaca
+T44	SINTOMA 114 164	dolor tipo urente en hipocondrio y región inguinal
+T45	SINTOMA 199 205	fiebre
+T46	SINTOMA 207 223	malestar general
+T47	SINTOMA 226 256	síntomas urinarios irritativos
+T48	SINTOMA 692 715	dificultad respiratoria
+T49	SINTOMA 741 754	masa tiroidea
+T50	SINTOMA 1155 1180	transiluminacion negativa
+T51	SINTOMA 3803 3823	masa inguinoescrotal
+T52	SINTOMA 1103 1149	masa tiene consistencia firme y dura, no móvil
+T53	SINTOMA 1280 1300	tacto rectal anodino
+T54	SINTOMA 1323 1350	dolor a la percusión lumbar
+T55	SINTOMA 3849 3861	asintomático
+T56	SINTOMA 3112 3122	tumoración
+T57	SINTOMA 1069 1098	cambios inflamatorios locales
+T58	SINTOMA 1185 1237	testículo derecho no fue palpable por efecto de masa
+T59	SINTOMA 1242 1275	testículo izquierdo está presente
+T60	SINTOMA 2191 2201	tumoración
+T61	SINTOMA 3632 3645	masa cervical
+T62	SINTOMA 794 817	dolorosa a la palpación

@@ -1,10 +1,13 @@
-T1	SINTOMA 802 827	adecuada comprensión oral
-T2	SINTOMA 67 87	alteración del habla
-T3	SINTOMA 841 871	exploración neurológica normal
-T4	SINTOMA 535 553	lenguaje coherente
-T5	SINTOMA 127 150	prolongación de sonidos
+T1	ENFERMEDAD 908 933	tartamudeo del desarrollo
+T2	ENFERMEDAD 226 245	traumatismo craneal
+T3	PROCEDIMIENTO 841 864	exploración neurológica
+T4	PROCEDIMIENTO 498 509	exploración
+T5	SINTOMA 535 553	lenguaje coherente
 T6	SINTOMA 558 614	repetición de fonemas en las frases y pausas prolongadas
-T7	SINTOMA 103 124	repetición de sílabas
-T8	SINTOMA 166 192	sintomatología neurológica
-T9	ENFERMEDAD 908 933	tartamudeo del desarrollo
-T10	ENFERMEDAD 226 245	traumatismo craneal
+T7	SINTOMA 67 87	alteración del habla
+T8	SINTOMA 103 124	repetición de sílabas
+T9	SINTOMA 127 150	prolongación de sonidos
+T10	SINTOMA 802 827	adecuada comprensión oral
+T11	SINTOMA 841 871	exploración neurológica normal
+T12	SINTOMA 166 192	sintomatología neurológica
+T13	SINTOMA 305 325	lenguaje era pausado

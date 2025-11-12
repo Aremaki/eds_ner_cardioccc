@@ -1,12 +1,20 @@
-T1	SINTOMA 327 356	deterioro de la función renal
-T2	SINTOMA 793 802	hematuria
-T3	SINTOMA 439 450	oligoanuria
-T4	SINTOMA 805 811	piuria
-T5	SINTOMA 717 737	anisopoiquilocitosis
-T6	SINTOMA 994 1043	anticuerpos irregulares de especificidad anti-Tja
-T7	SINTOMA 742 754	policromasia
-T8	ENFERMEDAD 55 73	anemia ferropénica
-T9	ENFERMEDAD 162 173	anemización
-T10	ENFERMEDAD 299 324	reacción postransfusional
-T11	ENFERMEDAD 1366 1372	anemia
-T12	ENFERMEDAD 834 917	anemia hemolítica intravascular de origen autoinmune por incompatibilidad sanguínea
+T1	ENFERMEDAD 55 73	anemia ferropénica
+T2	ENFERMEDAD 162 173	anemización
+T3	ENFERMEDAD 299 324	reacción postransfusional
+T4	ENFERMEDAD 1366 1372	anemia
+T5	ENFERMEDAD 834 917	anemia hemolítica intravascular de origen autoinmune por incompatibilidad sanguínea
+T6	PROCEDIMIENTO 246 284	transfusión de concentrado de hematíes
+T7	PROCEDIMIENTO 1264 1276	hemodiálisis
+T8	PROCEDIMIENTO 1305 1317	sueroterapia
+T9	PROCEDIMIENTO 1328 1342	alcalinización
+T10	PROCEDIMIENTO 1414 1460	transfusión de cuatro concentrados de hematíes
+T11	PROCEDIMIENTO 699 715	frotis sanguíneo
+T12	PROCEDIMIENTO 759 781	tira reactiva de orina
+T13	PROCEDIMIENTO 1278 1300	tratamiento de soporte
+T14	SINTOMA 327 356	deterioro de la función renal
+T15	SINTOMA 439 450	oligoanuria
+T16	SINTOMA 793 802	hematuria
+T17	SINTOMA 805 811	piuria
+T18	SINTOMA 717 737	anisopoiquilocitosis
+T19	SINTOMA 994 1043	anticuerpos irregulares de especificidad anti-Tja
+T20	SINTOMA 742 754	policromasia

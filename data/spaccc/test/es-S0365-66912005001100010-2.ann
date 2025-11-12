@@ -1,12 +1,12 @@
-T1	SINTOMA 296 316	signos inflamatorios
-T2	ENFERMEDAD 55 96	cataratas nucleares grado 3 en ambos ojos
-T3	ENFERMEDAD 127 142	pterigión nasal
-T4	ENFERMEDAD 521 544	cataratas en ambos ojos
-T5	ENFERMEDAD 581 590	pterigión
-T6	ENFERMEDAD 626 640	lesión corneal
-T7	ENFERMEDAD 162 170	lesiones
-T8	PROCEDIMIENTO 358 369	exploración
-T9	PROCEDIMIENTO 505 566	intervención de cataratas en ambos ojos mediante técnica MICS
-T10	PROCEDIMIENTO 568 608	exéresis del pterigión del ojo izquierdo
-T11	PROCEDIMIENTO 611 640	exéresis de la lesión corneal
-T12	PROCEDIMIENTO 657 682	estudio anatomopatológico
+T1	ENFERMEDAD 55 96	cataratas nucleares grado 3 en ambos ojos
+T2	ENFERMEDAD 127 142	pterigión nasal
+T3	ENFERMEDAD 521 544	cataratas en ambos ojos
+T4	ENFERMEDAD 581 590	pterigión
+T5	ENFERMEDAD 626 640	lesión corneal
+T6	ENFERMEDAD 162 170	lesiones
+T7	PROCEDIMIENTO 505 566	intervención de cataratas en ambos ojos mediante técnica MICS
+T8	PROCEDIMIENTO 568 608	exéresis del pterigión del ojo izquierdo
+T9	PROCEDIMIENTO 611 640	exéresis de la lesión corneal
+T10	PROCEDIMIENTO 657 682	estudio anatomopatológico
+T11	PROCEDIMIENTO 358 369	exploración
+T12	SINTOMA 296 316	signos inflamatorios

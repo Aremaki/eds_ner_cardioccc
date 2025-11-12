@@ -1,10 +1,18 @@
-T1	SINTOMA 1090 1122	acúmulo de líquido subrretiniano
-T2	SINTOMA 140 162	buen control tensional
-T3	SINTOMA 711 737	disminución de AV en su OD
-T4	SINTOMA 1548 1570	espesor macular normal
-T5	SINTOMA 992 1045	espesor retiniano de unos espacios de baja intensidad
-T6	ENFERMEDAD 34 69	glaucoma primario de ángulo abierto
-T7	ENFERMEDAD 212 221	cataratas
-T8	ENFERMEDAD 796 818	edema macular quístico
-T9	ENFERMEDAD 1614 1621	quistes
-T10	ENFERMEDAD 1065 1083	espacios quísticos
+T1	ENFERMEDAD 34 69	glaucoma primario de ángulo abierto
+T2	ENFERMEDAD 212 221	cataratas
+T3	ENFERMEDAD 796 818	edema macular quístico
+T4	ENFERMEDAD 1614 1621	quistes
+T5	ENFERMEDAD 1065 1083	espacios quísticos
+T6	PROCEDIMIENTO 87 116	trabeculectomía de ambos ojos
+T7	PROCEDIMIENTO 231 249	facoemulsificación
+T8	PROCEDIMIENTO 894 897	OCT
+T9	PROCEDIMIENTO 197 221	intervenido de cataratas
+T10	PROCEDIMIENTO 1532 1535	OCT
+T11	PROCEDIMIENTO 254 303	implante de lente intraocular de cámara posterior
+T12	PROCEDIMIENTO 462 479	cirugía filtrante
+T13	SINTOMA 711 737	disminución de AV en su OD
+T14	SINTOMA 1548 1570	espesor macular normal
+T15	SINTOMA 1090 1122	acúmulo de líquido subrretiniano
+T16	SINTOMA 140 162	buen control tensional
+T17	SINTOMA 992 1045	espesor retiniano de unos espacios de baja intensidad
+T18	SINTOMA 1643 1659	depresión foveal

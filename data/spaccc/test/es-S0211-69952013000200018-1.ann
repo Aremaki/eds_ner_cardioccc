@@ -1,52 +1,52 @@
-T1	SINTOMA 1431 1460	deterioro de la función renal
-T2	SINTOMA 1491 1511	síndrome confusional
-T3	SINTOMA 840 945	cultivo del exudado de las úlceras fue positivo para Pseudomona aeruginosa y Streptococcus beta no A no B
-T4	SINTOMA 1925 1983	descargas bilaterales de ondas lentas, agudas y trifásicas
-T5	SINTOMA 2594 2603	despierto
-T6	SINTOMA 1297 1323	deterioro de función renal
-T7	SINTOMA 1821 1867	electroencefalograma (EEG), que fue patológico
-T8	SINTOMA 1648 1661	excitabilidad
-T9	SINTOMA 1121 1153	función renal permanecía estable
-T10	SINTOMA 1514 1523	inquietud
-T11	SINTOMA 1664 1673	inquietud
-T12	SINTOMA 3147 3176	recuperación de función renal
-T13	SINTOMA 1772 1801	riñones disminuidos de tamaño
-T14	SINTOMA 2582 2591	tranquilo
-T15	ENFERMEDAD 48 79	alergia a sulfamidas y tiazidas
-T16	ENFERMEDAD 81 90	exfumador
-T17	ENFERMEDAD 93 102	exbebedor
-T18	ENFERMEDAD 104 122	bronquitis crónica
-T19	ENFERMEDAD 149 178	fibrilación auricular crónica
-T20	ENFERMEDAD 180 203	arteriopatía periférica
-T21	ENFERMEDAD 206 234	insuficiencia venosa crónica
-T22	ENFERMEDAD 411 425	úlceras mixtas
-T23	ENFERMEDAD 512 571	úlceras mixtas con exudado en ambas extremidades inferiores
-T24	ENFERMEDAD 2123 2158	neurotoxidad provocada por cefepime
-T25	ENFERMEDAD 2725 2760	neurotoxicidad vinculada a cefepime
-T26	ENFERMEDAD 1886 1912	status eléctrico bilateral
-T27	ENFERMEDAD 2074 2101	atrofia córtico-subcortical
-T28	PROCEDIMIENTO 1094 1117	tratamiento antibiótico
-T29	PROCEDIMIENTO 1257 1268	antibiótico
-T30	PROCEDIMIENTO 127 147	oxígeno domiciliario
-T31	PROCEDIMIENTO 1605 1614	anamnesis
-T32	PROCEDIMIENTO 1700 1712	sueroterapia
-T33	PROCEDIMIENTO 1744 1759	ecografía renal
-T34	PROCEDIMIENTO 1821 1841	electroencefalograma
-T35	PROCEDIMIENTO 1843 1846	EEG
-T36	PROCEDIMIENTO 2005 2044	tomografía axial computarizada cerebral
-T37	PROCEDIMIENTO 2276 2342	hemodiálisis urgente a través de catéter en vena femoral izquierda
-T38	PROCEDIMIENTO 2477 2488	antibiótico
-T39	PROCEDIMIENTO 2535 2553	sesión de diálisis
-T40	PROCEDIMIENTO 2645 2663	sesión de diálisis
-T41	PROCEDIMIENTO 2803 2815	hemodiálisis
-T42	PROCEDIMIENTO 2897 2900	EEG
-T43	PROCEDIMIENTO 2921 2929	diálisis
-T44	PROCEDIMIENTO 3011 3019	diálisis
-T45	PROCEDIMIENTO 376 399	tratamiento antibiótico
-T46	PROCEDIMIENTO 402 425	curas de úlceras mixtas
-T47	PROCEDIMIENTO 451 469	exploración física
-T48	PROCEDIMIENTO 58 68	sulfamidas
-T49	PROCEDIMIENTO 613 632	analítica en sangre
-T50	PROCEDIMIENTO 71 79	tiazidas
-T51	PROCEDIMIENTO 840 874	cultivo del exudado de las úlceras
-T52	PROCEDIMIENTO 979 1002	tratamiento antibiótico
+T1	ENFERMEDAD 48 79	alergia a sulfamidas y tiazidas
+T2	ENFERMEDAD 81 90	exfumador
+T3	ENFERMEDAD 93 102	exbebedor
+T4	ENFERMEDAD 104 122	bronquitis crónica
+T5	ENFERMEDAD 149 178	fibrilación auricular crónica
+T6	ENFERMEDAD 180 203	arteriopatía periférica
+T7	ENFERMEDAD 206 234	insuficiencia venosa crónica
+T8	ENFERMEDAD 411 425	úlceras mixtas
+T9	ENFERMEDAD 512 571	úlceras mixtas con exudado en ambas extremidades inferiores
+T10	ENFERMEDAD 2123 2158	neurotoxidad provocada por cefepime
+T11	ENFERMEDAD 2725 2760	neurotoxicidad vinculada a cefepime
+T12	ENFERMEDAD 1886 1912	status eléctrico bilateral
+T13	ENFERMEDAD 2074 2101	atrofia córtico-subcortical
+T14	PROCEDIMIENTO 127 147	oxígeno domiciliario
+T15	PROCEDIMIENTO 376 399	tratamiento antibiótico
+T16	PROCEDIMIENTO 402 425	curas de úlceras mixtas
+T17	PROCEDIMIENTO 451 469	exploración física
+T18	PROCEDIMIENTO 613 632	analítica en sangre
+T19	PROCEDIMIENTO 979 1002	tratamiento antibiótico
+T20	PROCEDIMIENTO 1094 1117	tratamiento antibiótico
+T21	PROCEDIMIENTO 1605 1614	anamnesis
+T22	PROCEDIMIENTO 1700 1712	sueroterapia
+T23	PROCEDIMIENTO 1744 1759	ecografía renal
+T24	PROCEDIMIENTO 1821 1841	electroencefalograma
+T25	PROCEDIMIENTO 1843 1846	EEG
+T26	PROCEDIMIENTO 2005 2044	tomografía axial computarizada cerebral
+T27	PROCEDIMIENTO 2276 2342	hemodiálisis urgente a través de catéter en vena femoral izquierda
+T28	PROCEDIMIENTO 2535 2553	sesión de diálisis
+T29	PROCEDIMIENTO 2645 2663	sesión de diálisis
+T30	PROCEDIMIENTO 2803 2815	hemodiálisis
+T31	PROCEDIMIENTO 2897 2900	EEG
+T32	PROCEDIMIENTO 2921 2929	diálisis
+T33	PROCEDIMIENTO 840 874	cultivo del exudado de las úlceras
+T34	PROCEDIMIENTO 2477 2488	antibiótico
+T35	PROCEDIMIENTO 71 79	tiazidas
+T36	PROCEDIMIENTO 58 68	sulfamidas
+T37	PROCEDIMIENTO 3011 3019	diálisis
+T38	PROCEDIMIENTO 1257 1268	antibiótico
+T39	SINTOMA 840 945	cultivo del exudado de las úlceras fue positivo para Pseudomona aeruginosa y Streptococcus beta no A no B
+T40	SINTOMA 1514 1523	inquietud
+T41	SINTOMA 1648 1661	excitabilidad
+T42	SINTOMA 1821 1867	electroencefalograma (EEG), que fue patológico
+T43	SINTOMA 1664 1673	inquietud
+T44	SINTOMA 1772 1801	riñones disminuidos de tamaño
+T45	SINTOMA 1431 1460	deterioro de la función renal
+T46	SINTOMA 1297 1323	deterioro de función renal
+T47	SINTOMA 1925 1983	descargas bilaterales de ondas lentas, agudas y trifásicas
+T48	SINTOMA 2582 2591	tranquilo
+T49	SINTOMA 2594 2603	despierto
+T50	SINTOMA 1491 1511	síndrome confusional
+T51	SINTOMA 1121 1153	función renal permanecía estable
+T52	SINTOMA 3147 3176	recuperación de función renal

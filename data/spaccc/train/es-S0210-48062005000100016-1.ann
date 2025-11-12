@@ -1,44 +1,86 @@
-T1	SINTOMA 3493 3537	aumento del tamaño de la glándula prostática
-T2	SINTOMA 2282 2300	clínica infecciosa
-T3	SINTOMA 3330 3345	clínica séptica
-T4	SINTOMA 3546 3601	colección líquida multitabicada, localizada caudalmente
-T5	SINTOMA 969 997	descenso del Índice de Quick
-T6	SINTOMA 3828 3860	desestructuración de la glándula
-T7	SINTOMA 319 326	disuria
-T8	SINTOMA 2881 2905	ecogenicidad heterogénea
-T9	SINTOMA 1197 1244	ecografía de abdomen que no evidenció patología
-T10	SINTOMA 1856 1891	elevación de la cifra de leucocitos
-T11	SINTOMA 3212 3267	exudado prostático y del pus fueron positivos a E. coli
-T12	SINTOMA 2632 2638	fiebre
-T13	SINTOMA 2019 2032	gran próstata
-T14	SINTOMA 4631 4658	incontinencia leve-moderada
-T15	SINTOMA 4534 4568	incontinencia urinaria de esfuerzo
-T16	SINTOMA 825 837	leucocitosis
-T17	SINTOMA 3899 3917	material purulento
-T18	SINTOMA 3148 3166	material purulento
-T19	SINTOMA 1052 1066	microhematuria
-T20	SINTOMA 3879 3896	multiloculaciones
-T21	SINTOMA 862 873	neutrofilia
-T22	SINTOMA 1822 1833	pico febril
-T23	SINTOMA 2391 2405	picos febriles
-T24	SINTOMA 1043 1049	piuria
-T25	SINTOMA 288 299	polaquiuria
-T26	SINTOMA 683 759	próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación
-T27	SINTOMA 1076 1149	radiografías simples de tórax y abdomen practicadas no apareció patología
-T28	SINTOMA 254 283	síndrome miccional irritativo
-T29	SINTOMA 301 316	tenesmo vesical
-T30	ENFERMEDAD 1265 1268	ITU
-T31	ENFERMEDAD 35 44	diabético
-T32	ENFERMEDAD 2120 2137	prostatitis aguda
-T33	ENFERMEDAD 4088 4114	adenocarcinoma microacinar
-T34	ENFERMEDAD 2160 2163	HBP
-T35	ENFERMEDAD 103 117	litiasis renal
-T36	ENFERMEDAD 120 152	cólicos nefríticos de repetición
-T37	ENFERMEDAD 4181 4222	prostatitis crónica y aguda abscesificada
-T38	ENFERMEDAD 160 187	neoplasia maligna de cuello
-T39	ENFERMEDAD 3330 3345	clínica séptica
-T40	ENFERMEDAD 431 434	ITU
-T41	ENFERMEDAD 3518 3563	glándula prostática con una colección líquida
-T42	ENFERMEDAD 3001 3019	absceso prostático
-T43	ENFERMEDAD 3463 3470	absceso
-T44	ENFERMEDAD 3113 3120	absceso
+T1	ENFERMEDAD 1265 1268	ITU
+T2	ENFERMEDAD 35 44	diabético
+T3	ENFERMEDAD 2120 2137	prostatitis aguda
+T4	ENFERMEDAD 4088 4114	adenocarcinoma microacinar
+T5	ENFERMEDAD 2160 2163	HBP
+T6	ENFERMEDAD 103 117	litiasis renal
+T7	ENFERMEDAD 120 152	cólicos nefríticos de repetición
+T8	ENFERMEDAD 4181 4222	prostatitis crónica y aguda abscesificada
+T9	ENFERMEDAD 160 187	neoplasia maligna de cuello
+T10	ENFERMEDAD 3330 3345	clínica séptica
+T11	ENFERMEDAD 431 434	ITU
+T12	ENFERMEDAD 3518 3563	glándula prostática con una colección líquida
+T13	ENFERMEDAD 3001 3019	absceso prostático
+T14	ENFERMEDAD 3463 3470	absceso
+T15	ENFERMEDAD 3113 3120	absceso
+T16	PROCEDIMIENTO 4039 4058	anatomía patológica
+T17	PROCEDIMIENTO 519 537	exploración física
+T18	PROCEDIMIENTO 3650 3652	TC
+T19	PROCEDIMIENTO 64 85	antidiabéticos orales
+T20	PROCEDIMIENTO 3678 3697	punción transrectal
+T21	PROCEDIMIENTO 3077 3120	punción transrectal ecodirigida del absceso
+T22	PROCEDIMIENTO 1318 1353	tratamiento antibiótico intravenoso
+T23	PROCEDIMIENTO 3723 3750	prostatectomía transvesical
+T24	PROCEDIMIENTO 2193 2219	antibioterapia intravenosa
+T25	PROCEDIMIENTO 1372 1384	urinocultivo
+T26	PROCEDIMIENTO 652 664	tacto rectal
+T27	PROCEDIMIENTO 2236 2261	Adenomectomía tipo Millin
+T28	PROCEDIMIENTO 3200 3230	cultivo del exudado prostático
+T29	PROCEDIMIENTO 205 207	RT
+T30	PROCEDIMIENTO 2316 2330	antibioterapia
+T31	PROCEDIMIENTO 1588 1614	antibioterapia intravenosa
+T32	PROCEDIMIENTO 3399 3401	TC
+T33	PROCEDIMIENTO 449 472	tratamiento antibiótico
+T34	PROCEDIMIENTO 2526 2554	cultivo fraccionado de orina
+T35	PROCEDIMIENTO 3478 3480	TC
+T36	PROCEDIMIENTO 1710 1722	hemocultivos
+T37	PROCEDIMIENTO 1725 1737	urinocultivo
+T38	PROCEDIMIENTO 1076 1115	radiografías simples de tórax y abdomen
+T39	PROCEDIMIENTO 2709 2730	ecografía transrectal
+T40	PROCEDIMIENTO 1918 1944	antibioterapia intravenosa
+T41	PROCEDIMIENTO 1197 1217	ecografía de abdomen
+T42	PROCEDIMIENTO 1960 1987	ecografía vésico-prostática
+T43	PROCEDIMIENTO 2973 2987	método doppler
+T44	PROCEDIMIENTO 4147 4156	resección
+T45	PROCEDIMIENTO 1011 1029	sedimento de orina
+T46	PROCEDIMIENTO 767 785	análisis de sangre
+T47	PROCEDIMIENTO 3041 3052	ecográficos
+T48	PROCEDIMIENTO 2575 2598	tratamiento antibiótico
+T49	PROCEDIMIENTO 1545 1554	analítica
+T50	PROCEDIMIENTO 4365 4374	analítica
+T51	PROCEDIMIENTO 3758 3770	intervención
+T52	PROCEDIMIENTO 4431 4443	intervención
+T53	PROCEDIMIENTO 4592 4604	intervención
+T54	PROCEDIMIENTO 3182 3195	microbiología
+T55	SINTOMA 3212 3267	exudado prostático y del pus fueron positivos a E. coli
+T56	SINTOMA 4534 4568	incontinencia urinaria de esfuerzo
+T57	SINTOMA 254 283	síndrome miccional irritativo
+T58	SINTOMA 288 299	polaquiuria
+T59	SINTOMA 301 316	tenesmo vesical
+T60	SINTOMA 825 837	leucocitosis
+T61	SINTOMA 319 326	disuria
+T62	SINTOMA 862 873	neutrofilia
+T63	SINTOMA 1043 1049	piuria
+T64	SINTOMA 1052 1066	microhematuria
+T65	SINTOMA 2632 2638	fiebre
+T66	SINTOMA 1856 1891	elevación de la cifra de leucocitos
+T67	SINTOMA 2019 2032	gran próstata
+T68	SINTOMA 1822 1833	pico febril
+T69	SINTOMA 2391 2405	picos febriles
+T70	SINTOMA 1076 1149	radiografías simples de tórax y abdomen practicadas no apareció patología
+T71	SINTOMA 1197 1244	ecografía de abdomen que no evidenció patología
+T72	SINTOMA 3148 3166	material purulento
+T73	SINTOMA 4631 4658	incontinencia leve-moderada
+T74	SINTOMA 2282 2300	clínica infecciosa
+T75	SINTOMA 683 759	próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación
+T76	SINTOMA 3493 3537	aumento del tamaño de la glándula prostática
+T77	SINTOMA 969 997	descenso del Índice de Quick
+T78	SINTOMA 2805 2857	área mal delimitada en la periferia medial y craneal
+T79	SINTOMA 2881 2905	ecogenicidad heterogénea
+T80	SINTOMA 2917 2941	predominio hipoecogénico
+T81	SINTOMA 2961 2987	flujo en el método doppler
+T82	SINTOMA 3330 3345	clínica séptica
+T83	SINTOMA 3546 3601	colección líquida multitabicada, localizada caudalmente
+T84	SINTOMA 3899 3917	material purulento
+T85	SINTOMA 3879 3896	multiloculaciones
+T86	SINTOMA 3828 3860	desestructuración de la glándula

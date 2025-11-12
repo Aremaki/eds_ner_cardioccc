@@ -1,32 +1,32 @@
-T1	SINTOMA 1532 1544	defecto óseo
-T2	SINTOMA 616 732	hemograma, frotis hematológico, marcadores tumorales, proteinograma y TAC cervico-toraco-abdominal) fueron negativos
-T3	SINTOMA 299 335	masa dura, indolora y no movilizable
-T4	SINTOMA 346 368	piel de aspecto normal
-T5	SINTOMA 1249 1336	tumoración dependiente del hueso, con múltiples canales vasculares dilatados en su seno
-T6	SINTOMA 171 216	tumoración en la porción derecha de la frente
-T7	SINTOMA 897 907	tumoración
-T8	ENFERMEDAD 425 489	lesión intraósea frontal derecha de características osteolíticas
-T9	ENFERMEDAD 538 548	metástasis
-T10	ENFERMEDAD 550 557	mieloma
-T11	ENFERMEDAD 560 570	hemangioma
-T12	ENFERMEDAD 1789 1819	hemangioma cavernoso intraóseo
-T13	ENFERMEDAD 1532 1544	defecto óseo
-T14	ENFERMEDAD 835 841	lesión
-T15	ENFERMEDAD 1101 1107	lesión
-T16	ENFERMEDAD 1403 1409	lesión
-T17	PROCEDIMIENTO 1167 1190	diagnóstico histológico
-T18	PROCEDIMIENTO 1214 1229	acto quirúrgico
+T1	ENFERMEDAD 425 489	lesión intraósea frontal derecha de características osteolíticas
+T2	ENFERMEDAD 538 548	metástasis
+T3	ENFERMEDAD 550 557	mieloma
+T4	ENFERMEDAD 560 570	hemangioma
+T5	ENFERMEDAD 1789 1819	hemangioma cavernoso intraóseo
+T6	ENFERMEDAD 1532 1544	defecto óseo
+T7	ENFERMEDAD 835 841	lesión
+T8	ENFERMEDAD 1101 1107	lesión
+T9	ENFERMEDAD 1403 1409	lesión
+T10	PROCEDIMIENTO 373 391	radiografía simple
+T11	PROCEDIMIENTO 397 410	TAC de cráneo
+T12	PROCEDIMIENTO 576 614	estudios sistémicos de rastreo tumoral
+T13	PROCEDIMIENTO 616 625	hemograma
+T14	PROCEDIMIENTO 627 646	frotis hematológico
+T15	PROCEDIMIENTO 648 668	marcadores tumorales
+T16	PROCEDIMIENTO 670 683	proteinograma
+T17	PROCEDIMIENTO 686 714	TAC cervico-toraco-abdominal
+T18	PROCEDIMIENTO 749 779	gammagrafía ósea con HDP-Tc99M
 T19	PROCEDIMIENTO 1448 1460	craniectomía
-T20	PROCEDIMIENTO 1586 1681	plastia craneal de metilmetacrilato, que se fijó al hueso circundante con miniplacas de Titanio
-T21	PROCEDIMIENTO 1741 1770	diagnóstico anatomopatológico
-T22	PROCEDIMIENTO 272 283	exploración
-T23	PROCEDIMIENTO 373 391	radiografía simple
-T24	PROCEDIMIENTO 397 410	TAC de cráneo
-T25	PROCEDIMIENTO 576 614	estudios sistémicos de rastreo tumoral
-T26	PROCEDIMIENTO 616 625	hemograma
-T27	PROCEDIMIENTO 627 646	frotis hematológico
-T28	PROCEDIMIENTO 648 668	marcadores tumorales
-T29	PROCEDIMIENTO 670 683	proteinograma
-T30	PROCEDIMIENTO 686 714	TAC cervico-toraco-abdominal
-T31	PROCEDIMIENTO 749 779	gammagrafía ósea con HDP-Tc99M
-T32	PROCEDIMIENTO 846 907	punción-aspiración percutánea con aguja fina de la tumoración
+T20	PROCEDIMIENTO 846 907	punción-aspiración percutánea con aguja fina de la tumoración
+T21	PROCEDIMIENTO 1586 1681	plastia craneal de metilmetacrilato, que se fijó al hueso circundante con miniplacas de Titanio
+T22	PROCEDIMIENTO 1741 1770	diagnóstico anatomopatológico
+T23	PROCEDIMIENTO 272 283	exploración
+T24	PROCEDIMIENTO 1167 1190	diagnóstico histológico
+T25	PROCEDIMIENTO 1214 1229	acto quirúrgico
+T26	SINTOMA 171 216	tumoración en la porción derecha de la frente
+T27	SINTOMA 1249 1336	tumoración dependiente del hueso, con múltiples canales vasculares dilatados en su seno
+T28	SINTOMA 299 335	masa dura, indolora y no movilizable
+T29	SINTOMA 1532 1544	defecto óseo
+T30	SINTOMA 897 907	tumoración
+T31	SINTOMA 616 732	hemograma, frotis hematológico, marcadores tumorales, proteinograma y TAC cervico-toraco-abdominal) fueron negativos
+T32	SINTOMA 346 368	piel de aspecto normal

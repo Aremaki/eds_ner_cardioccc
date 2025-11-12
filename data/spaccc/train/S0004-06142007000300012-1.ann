@@ -1,14 +1,40 @@
-T1	SINTOMA 2121 2143	adecuada función renal
-T2	SINTOMA 799 874	nódulo sólido de 1,5 cm vascularizado en el polo inferior del injerto renal
-T3	SINTOMA 1678 1690	pT1a, Nx, Mx
-T4	SINTOMA 1107 1127	tumoración exofítica
-T5	SINTOMA 656 668	asintomático
-T6	SINTOMA 703 724	función renal estable
-T7	SINTOMA 2226 2237	proteinuria
-T8	ENFERMEDAD 51 79	insuficiencia renal terminal
-T9	ENFERMEDAD 934 937	CCR
-T10	ENFERMEDAD 1604 1627	carcinoma papilar renal
-T11	ENFERMEDAD 2072 2088	recidiva tumoral
-T12	ENFERMEDAD 1688 1690	Mx
-T13	ENFERMEDAD 1371 1389	afectación tumoral
-T14	ENFERMEDAD 1742 1760	afectación tumoral
+T1	ENFERMEDAD 51 79	insuficiencia renal terminal
+T2	ENFERMEDAD 934 937	CCR
+T3	ENFERMEDAD 1604 1627	carcinoma papilar renal
+T4	ENFERMEDAD 2072 2088	recidiva tumoral
+T5	ENFERMEDAD 1688 1690	Mx
+T6	ENFERMEDAD 1371 1389	afectación tumoral
+T7	ENFERMEDAD 1742 1760	afectación tumoral
+T8	PROCEDIMIENTO 889 905	PAAF ecodirigida
+T9	PROCEDIMIENTO 2049 2051	RM
+T10	PROCEDIMIENTO 1558 1585	diagnóstico histopatológico
+T11	PROCEDIMIENTO 260 279	diálisis peritoneal
+T12	PROCEDIMIENTO 763 772	ecografía
+T13	PROCEDIMIENTO 2037 2046	ecografía
+T14	PROCEDIMIENTO 543 556	función renal
+T15	PROCEDIMIENTO 703 716	función renal
+T16	PROCEDIMIENTO 2007 2034	estudio de la función renal
+T17	PROCEDIMIENTO 2130 2143	función renal
+T18	PROCEDIMIENTO 226 238	hemodiálisis
+T19	PROCEDIMIENTO 1401 1413	hemostáticos
+T20	PROCEDIMIENTO 861 874	injerto renal
+T21	PROCEDIMIENTO 1027 1087	liberación del injerto renal de las adherencias circundantes
+T22	PROCEDIMIENTO 1708 1717	resección
+T23	PROCEDIMIENTO 119 179	trasplante heterotópico en FID procedente de donante cadáver
+T24	PROCEDIMIENTO 316 332	trasplante renal
+T25	PROCEDIMIENTO 407 437	triple terapia inmunosupresora
+T26	PROCEDIMIENTO 1428 1479	puntos intraparenquimatosos de los vasos sangrantes
+T27	PROCEDIMIENTO 1483 1552	puntos de aproximación de 'colchonero' apoyados en Goretex y Surgicel
+T28	PROCEDIMIENTO 966 1015	reapertura de la incisión de Gibson previa en FID
+T29	PROCEDIMIENTO 1203 1215	tumorectomía
+T30	PROCEDIMIENTO 1282 1322	enviándose intraoperatoriamente muestras
+T31	PROCEDIMIENTO 1824 1836	tumorectomía
+T32	PROCEDIMIENTO 1858 1881	terapia inmunosupresora
+T33	PROCEDIMIENTO 2179 2205	aclaramiento de creatinina
+T34	SINTOMA 2121 2143	adecuada función renal
+T35	SINTOMA 656 668	asintomático
+T36	SINTOMA 703 724	función renal estable
+T37	SINTOMA 799 874	nódulo sólido de 1,5 cm vascularizado en el polo inferior del injerto renal
+T38	SINTOMA 2226 2237	proteinuria
+T39	SINTOMA 1107 1127	tumoración exofítica
+T40	SINTOMA 1678 1690	pT1a, Nx, Mx

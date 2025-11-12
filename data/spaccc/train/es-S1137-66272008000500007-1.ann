@@ -1,7 +1,40 @@
-T1	SINTOMA 2118 2159	anticuerpos con especificidad anti-HPA-1a
-T2	SINTOMA 2034 2091	fenotipo HPA-1a negativo materno y positivo en el neonato
-T3	SINTOMA 743 771	fontanela anterior a tensión
-T4	SINTOMA 685 713	hematomas en hombro y glúteo
-T5	SINTOMA 774 808	prominencia de las venas cefálicas
-T6	SINTOMA 468 515	serología positiva (IgM) para el Parvovirus B19
-T7	SINTOMA 579 598	buen estado general
+T1	ENFERMEDAD 1397 1415	hidrocefalia grave
+T2	ENFERMEDAD 325 353	hidrocefalia fetal bilateral
+T3	ENFERMEDAD 1429 1456	hemorragia intraventricular
+T4	ENFERMEDAD 84 94	meningitis
+T5	ENFERMEDAD 356 367	oligoamnios
+T6	ENFERMEDAD 121 135	embarazo molar
+T7	ENFERMEDAD 179 187	fumadora
+T8	ENFERMEDAD 1553 1588	líquido cefalorraquídeo hemorrágico
+T9	ENFERMEDAD 1646 1659	ventriculitis
+T10	ENFERMEDAD 1662 1680	crisis convulsivas
+T11	ENFERMEDAD 726 771	macrocefalia con fontanela anterior a tensión
+T12	ENFERMEDAD 842 862	tombocitopenia grave
+T13	ENFERMEDAD 904 908	TFNA
+T14	ENFERMEDAD 685 713	hematomas en hombro y glúteo
+T15	ENFERMEDAD 1397 1456	hidrocefalia grave secundaria a hemorragia intraventricular
+T16	PROCEDIMIENTO 1936 1962	estudio inmunohematológico
+T17	PROCEDIMIENTO 261 270	ecografía
+T18	PROCEDIMIENTO 1363 1381	ecografía cerebral
+T19	PROCEDIMIENTO 109 116	legrado
+T20	PROCEDIMIENTO 1493 1522	catéter de derivación externo
+T21	PROCEDIMIENTO 396 403	cesárea
+T22	PROCEDIMIENTO 520 551	exploración de la recién nacida
+T23	PROCEDIMIENTO 560 567	cesárea
+T24	PROCEDIMIENTO 607 620	test de Apgar
+T25	PROCEDIMIENTO 1713 1727	antibioterapia
+T26	PROCEDIMIENTO 1763 1825	implantación de una válvula de derivación ventrículoperitoneal
+T27	PROCEDIMIENTO 909 1018	se transfundió una alícuota de concentrado de plaquetas de aféresis irradiado, de fenotipo HPA-1a desconocido
+T28	PROCEDIMIENTO 1224 1250	estudio inmunohematológico
+T29	PROCEDIMIENTO 816 825	hemograma
+T30	PROCEDIMIENTO 1264 1285	Transfusión Sanguínea
+T31	PROCEDIMIENTO 1846 1931	se transfundió una alícuota de concentrado de hematíes leucodepleccionado e irradiado
+T32	PROCEDIMIENTO 429 446	estudio analítico
+T33	PROCEDIMIENTO 468 515	serología positiva (IgM) para el Parvovirus B19
+T34	SINTOMA 685 713	hematomas en hombro y glúteo
+T35	SINTOMA 774 808	prominencia de las venas cefálicas
+T36	SINTOMA 468 515	serología positiva (IgM) para el Parvovirus B19
+T37	SINTOMA 2034 2091	fenotipo HPA-1a negativo materno y positivo en el neonato
+T38	SINTOMA 2118 2159	anticuerpos con especificidad anti-HPA-1a
+T39	SINTOMA 579 598	buen estado general
+T40	SINTOMA 743 771	fontanela anterior a tensión

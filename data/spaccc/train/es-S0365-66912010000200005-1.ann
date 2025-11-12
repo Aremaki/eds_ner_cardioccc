@@ -1,8 +1,22 @@
-T1	SINTOMA 163 198	nódulo indurado en párpado superior
-T2	SINTOMA 350 366	nódulo palpebral
-T3	ENFERMEDAD 102 121	blefaritis anterior
-T4	ENFERMEDAD 221 230	chalazion
-T5	ENFERMEDAD 285 308	adenopatía preauricular
-T6	ENFERMEDAD 822 889	adenopatías de aspecto necrótico en diversos territorios linfáticos
-T7	ENFERMEDAD 420 437	carcinoma sebáceo
-T8	ENFERMEDAD 1071 1111	cambios tumorales en el párpado inferior
+T1	ENFERMEDAD 102 121	blefaritis anterior
+T2	ENFERMEDAD 221 230	chalazion
+T3	ENFERMEDAD 285 308	adenopatía preauricular
+T4	ENFERMEDAD 822 889	adenopatías de aspecto necrótico en diversos territorios linfáticos
+T5	ENFERMEDAD 420 437	carcinoma sebáceo
+T6	ENFERMEDAD 1071 1111	cambios tumorales en el párpado inferior
+T7	PROCEDIMIENTO 466 532	exéresis completa del párpado superior derecho incluyendo el tarso
+T8	PROCEDIMIENTO 541 595	reconstrucción con un injerto libre de mucosa palatina
+T9	PROCEDIMIENTO 598 669	recubrimiento del mismo mediante un colgajo frontal glabelar pediculado
+T10	PROCEDIMIENTO 773 801	vaciamiento cervical radical
+T11	PROCEDIMIENTO 338 366	biopsia del nódulo palpebral
+T12	PROCEDIMIENTO 390 414	análisis histopatológico
+T13	PROCEDIMIENTO 922 996	biopsió la conjuntiva en los cuatro cuadrantes además del párpado inferior
+T14	PROCEDIMIENTO 1001 1026	estudio anatomopatológico
+T15	PROCEDIMIENTO 1142 1209	braquiterapia con un total de 94 sesiones con el isótopo iridio 192
+T16	PROCEDIMIENTO 1291 1336	radioterapia externa sobre la región cervical
+T17	PROCEDIMIENTO 1037 1061	infiltración conjuntival
+T18	PROCEDIMIENTO 1359 1381	tratamiento quirúrgico
+T19	PROCEDIMIENTO 903 943	acto quirúrgico se biopsió la conjuntiva
+T20	PROCEDIMIENTO 245 271	inyección de triamcinolona
+T21	SINTOMA 350 366	nódulo palpebral
+T22	SINTOMA 163 198	nódulo indurado en párpado superior

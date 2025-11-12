@@ -1,18 +1,32 @@
-T1	SINTOMA 595 651	citología urinaria selectiva del uréter derecho negativa
-T2	SINTOMA 85 104	dolor en fosa renal
-T3	SINTOMA 266 302	puñopercusión renal derecha positiva
-T4	SINTOMA 348 395	renal derecha con adelgazamiento del parénquima
-T5	SINTOMA 416 454	anulación funcional de la unidad renal
-T6	SINTOMA 1456 1473	clínica urológica
-T7	SINTOMA 54 67	estreñimiento
-T8	SINTOMA 185 194	hematuria
-T9	ENFERMEDAD 37 51	ulcus duodenal
-T10	ENFERMEDAD 54 67	estreñimiento
-T11	ENFERMEDAD 128 147	crisis renoureteral
-T12	ENFERMEDAD 168 181	nefrolitiasis
-T13	ENFERMEDAD 185 194	hematuria
-T14	ENFERMEDAD 198 229	infecciones del tracto urinario
-T15	ENFERMEDAD 326 353	ectasia pielocalicial renal
-T16	ENFERMEDAD 540 575	estenosis en la unión pieloureteral
-T17	ENFERMEDAD 955 983	estenosis de la vía urinaria
-T18	ENFERMEDAD 971 1016	vía urinaria descubre un hemangioma cavernoso
+T1	ENFERMEDAD 37 51	ulcus duodenal
+T2	ENFERMEDAD 54 67	estreñimiento
+T3	ENFERMEDAD 128 147	crisis renoureteral
+T4	ENFERMEDAD 168 181	nefrolitiasis
+T5	ENFERMEDAD 185 194	hematuria
+T6	ENFERMEDAD 198 229	infecciones del tracto urinario
+T7	ENFERMEDAD 326 353	ectasia pielocalicial renal
+T8	ENFERMEDAD 540 575	estenosis en la unión pieloureteral
+T9	ENFERMEDAD 955 983	estenosis de la vía urinaria
+T10	ENFERMEDAD 971 1016	vía urinaria descubre un hemangioma cavernoso
+T11	PROCEDIMIENTO 400 403	UIV
+T12	PROCEDIMIENTO 689 727	cirugía reconstructiva o una exerética
+T13	PROCEDIMIENTO 595 642	citología urinaria selectiva del uréter derecho
+T14	PROCEDIMIENTO 307 316	ecografía
+T15	PROCEDIMIENTO 924 948	examen anatomopatológico
+T16	PROCEDIMIENTO 739 756	gammagrafía renal
+T17	PROCEDIMIENTO 237 248	exploración
+T18	PROCEDIMIENTO 492 503	exploración
+T19	PROCEDIMIENTO 266 293	puñopercusión renal derecha
+T20	PROCEDIMIENTO 509 531	pielografía retrograda
+T21	PROCEDIMIENTO 861 919	pieloplastia renal derecha según técnica de Anderson-Hynes
+T22	PROCEDIMIENTO 1095 1128	control postoperatorio urográfico
+T23	PROCEDIMIENTO 1370 1391	controles urográficos
+T24	PROCEDIMIENTO 1414 1426	pieloplastia
+T25	SINTOMA 416 454	anulación funcional de la unidad renal
+T26	SINTOMA 1456 1473	clínica urológica
+T27	SINTOMA 85 104	dolor en fosa renal
+T28	SINTOMA 54 67	estreñimiento
+T29	SINTOMA 185 194	hematuria
+T30	SINTOMA 266 302	puñopercusión renal derecha positiva
+T31	SINTOMA 595 651	citología urinaria selectiva del uréter derecho negativa
+T32	SINTOMA 348 395	renal derecha con adelgazamiento del parénquima

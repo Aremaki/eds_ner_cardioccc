@@ -1,4 +1,26 @@
-T1	SINTOMA 1390 1457	cultivo, en el que aparece crecimiento de flora colonizante uretral
-T2	SINTOMA 1346 1356	supuración
-T3	SINTOMA 916 991	tiempo parcial de tromboplastina activada (TTPA) persistentemente alargados
-T4	SINTOMA 1329 1336	prurito
+T1	ENFERMEDAD 209 228	enfermedad de Crohn
+T2	ENFERMEDAD 301 320	enfermedad de Crohn
+T3	ENFERMEDAD 749 778	rectitis granulomatosa severa
+T4	ENFERMEDAD 1243 1262	pioderma gangrenoso
+T5	ENFERMEDAD 1615 1640	granuloma no caseificante
+T6	ENFERMEDAD 1646 1656	ulceración
+T7	ENFERMEDAD 1672 1703	enfermedad de Crohn metastásica
+T8	ENFERMEDAD 109 170	lesiones que han aparecido recientemente en la piel prepucial
+T9	ENFERMEDAD 1064 1091	lesión en la piel prepucial
+T10	ENFERMEDAD 1732 1738	lesión
+T11	ENFERMEDAD 1136 1164	placa eritematosa y ulcerada
+T12	PROCEDIMIENTO 1537 1586	piel prepucial al servicio de anatomía patológica
+T13	PROCEDIMIENTO 1511 1523	circuncisión
+T14	PROCEDIMIENTO 577 593	colectomía total
+T15	PROCEDIMIENTO 1189 1208	corticoides tópicos
+T16	PROCEDIMIENTO 1346 1397	supuración, por lo que se toma muestra para cultivo
+T17	PROCEDIMIENTO 806 835	enemas rectales de mesalazina
+T18	PROCEDIMIENTO 1714 1725	extirpación
+T19	PROCEDIMIENTO 468 484	inmunosupresores
+T20	PROCEDIMIENTO 527 550	intervención quirúrgica
+T21	PROCEDIMIENTO 454 465	corticoides
+T22	PROCEDIMIENTO 596 630	ileostomía según técnica de Brooke
+T23	SINTOMA 1329 1336	prurito
+T24	SINTOMA 1346 1356	supuración
+T25	SINTOMA 916 991	tiempo parcial de tromboplastina activada (TTPA) persistentemente alargados
+T26	SINTOMA 1390 1457	cultivo, en el que aparece crecimiento de flora colonizante uretral

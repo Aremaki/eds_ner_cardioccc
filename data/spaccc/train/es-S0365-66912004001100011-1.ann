@@ -1,38 +1,38 @@
-T1	SINTOMA 2235 2264	aumento leve de LDH en sangre
-T2	SINTOMA 1638 1695	cultivo (aerobio y anaerobio) fue negativo para bacterias
-T3	SINTOMA 1050 1096	cultivo mostró crecimiento de Candida albicans
-T4	SINTOMA 1274 1279	dolor
-T5	SINTOMA 187 204	dolor ocular leve
-T6	SINTOMA 503 561	fondo de ojo sin alteraciones significativas en ambos ojos
-T7	SINTOMA 1281 1296	hiperemia grave
-T8	SINTOMA 1403 1422	hipertensión ocular
-T9	SINTOMA 1392 1400	hipopion
-T10	SINTOMA 240 258	inflamación ocular
-T11	SINTOMA 699 739	reacción inflamatoria en cámara anterior
-T12	SINTOMA 2112 2132	signos inflamatorios
-T13	SINTOMA 483 500	tonometría normal
-T14	SINTOMA 2189 2203	visión borrosa
-T15	ENFERMEDAD 38 62	diabetes mellitus tipo 2
-T16	ENFERMEDAD 77 95	ulceración corneal
-T17	ENFERMEDAD 305 318	herpes zoster
-T18	ENFERMEDAD 458 481	catarata leve bilateral
-T19	ENFERMEDAD 1403 1422	hipertensión ocular
-T20	ENFERMEDAD 2487 2504	leucoma adherente
-T21	ENFERMEDAD 1191 1210	perforación corneal
-T22	ENFERMEDAD 1027 1045	queratitis fúngica
-T23	ENFERMEDAD 1151 1161	queratitis
-T24	ENFERMEDAD 1392 1400	hipopion
-T25	ENFERMEDAD 598 616	ulceración corneal
-T26	ENFERMEDAD 2455 2476	cicatrización corneal
-T27	ENFERMEDAD 240 288	inflamación ocular asociada a dermatitis frontal
-T28	ENFERMEDAD 2189 2203	visión borrosa
-T29	PROCEDIMIENTO 1050 1057	cultivo
-T30	PROCEDIMIENTO 1450 1496	trasplante de membrana amniótica (triple capa)
-T31	PROCEDIMIENTO 1543 1615	toma de muestras mediante raspado corneal para su cultivo microbiológico
-T32	PROCEDIMIENTO 1638 1667	cultivo (aerobio y anaerobio)
-T33	PROCEDIMIENTO 1824 1845	lágrimas artificiales
-T34	PROCEDIMIENTO 2334 2363	injerto de membrana amniótica
-T35	PROCEDIMIENTO 2417 2442	queratoplastia penetrante
-T36	PROCEDIMIENTO 483 493	tonometría
-T37	PROCEDIMIENTO 503 515	fondo de ojo
-T38	PROCEDIMIENTO 799 846	cultivo microbiológico mediante raspado corneal
+T1	ENFERMEDAD 38 62	diabetes mellitus tipo 2
+T2	ENFERMEDAD 77 95	ulceración corneal
+T3	ENFERMEDAD 305 318	herpes zoster
+T4	ENFERMEDAD 458 481	catarata leve bilateral
+T5	ENFERMEDAD 1403 1422	hipertensión ocular
+T6	ENFERMEDAD 2487 2504	leucoma adherente
+T7	ENFERMEDAD 1191 1210	perforación corneal
+T8	ENFERMEDAD 1027 1045	queratitis fúngica
+T9	ENFERMEDAD 1151 1161	queratitis
+T10	ENFERMEDAD 1392 1400	hipopion
+T11	ENFERMEDAD 598 616	ulceración corneal
+T12	ENFERMEDAD 2455 2476	cicatrización corneal
+T13	ENFERMEDAD 240 288	inflamación ocular asociada a dermatitis frontal
+T14	ENFERMEDAD 2189 2203	visión borrosa
+T15	PROCEDIMIENTO 483 493	tonometría
+T16	PROCEDIMIENTO 503 515	fondo de ojo
+T17	PROCEDIMIENTO 1050 1057	cultivo
+T18	PROCEDIMIENTO 1638 1667	cultivo (aerobio y anaerobio)
+T19	PROCEDIMIENTO 799 846	cultivo microbiológico mediante raspado corneal
+T20	PROCEDIMIENTO 2334 2363	injerto de membrana amniótica
+T21	PROCEDIMIENTO 2417 2442	queratoplastia penetrante
+T22	PROCEDIMIENTO 1450 1496	trasplante de membrana amniótica (triple capa)
+T23	PROCEDIMIENTO 1543 1615	toma de muestras mediante raspado corneal para su cultivo microbiológico
+T24	PROCEDIMIENTO 1824 1845	lágrimas artificiales
+T25	SINTOMA 187 204	dolor ocular leve
+T26	SINTOMA 240 258	inflamación ocular
+T27	SINTOMA 1281 1296	hiperemia grave
+T28	SINTOMA 699 739	reacción inflamatoria en cámara anterior
+T29	SINTOMA 2112 2132	signos inflamatorios
+T30	SINTOMA 2189 2203	visión borrosa
+T31	SINTOMA 1274 1279	dolor
+T32	SINTOMA 483 500	tonometría normal
+T33	SINTOMA 503 561	fondo de ojo sin alteraciones significativas en ambos ojos
+T34	SINTOMA 1050 1096	cultivo mostró crecimiento de Candida albicans
+T35	SINTOMA 1638 1695	cultivo (aerobio y anaerobio) fue negativo para bacterias
+T36	SINTOMA 2235 2264	aumento leve de LDH en sangre
+T37	SINTOMA 1392 1400	hipopion
+T38	SINTOMA 1403 1422	hipertensión ocular

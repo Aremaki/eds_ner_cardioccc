@@ -1,27 +1,27 @@
-T1	SINTOMA 670 681	AFP: normal
-T2	SINTOMA 735 746	LDH: normal
-T3	SINTOMA 159 163	Masa
-T4	SINTOMA 220 259	Teste derecho aumentado de consistencia
-T5	SINTOMA 83 109	tumoración en ambos testes
-T6	SINTOMA 342 392	Tumoración sólida de 37x21 mm, hipoecoica en teste
-T7	ENFERMEDAD 903 981	seminoma con elevado índice mitótico e invasión vascular (pT2) en ambos testes
-T8	ENFERMEDAD 1056 1105	crecimientos adenopáticos a nivel retroperitoneal
-T9	ENFERMEDAD 406 431	lesiones sólidas en teste
-T10	ENFERMEDAD 1357 1386	adenopatías retroperitoneales
-T11	ENFERMEDAD 1113 1144	lesiones metastásicas hepáticas
-T12	ENFERMEDAD 1389 1409	metástasis hepáticas
-T13	ENFERMEDAD 623 633	Varicocele
-T14	ENFERMEDAD 577 621	neoplasia testicular bilateral multicéntrica
-T15	ENFERMEDAD 1146 1148	M1
-T16	ENFERMEDAD 983 1002	seminoma anaplásico
-T17	PROCEDIMIENTO 1006 1026	Estudio de extensión
-T18	PROCEDIMIENTO 1028 1053	TAC toracoabdominopélvico
-T19	PROCEDIMIENTO 1179 1240	quimioterapia sistémica con el esquema etopósido y cisplatino
-T20	PROCEDIMIENTO 1320 1340	marcadores tumorales
-T21	PROCEDIMIENTO 139 157	Exploración física
-T22	PROCEDIMIENTO 1469 1514	congelar el semen previo a la cirugía radical
-T23	PROCEDIMIENTO 327 339	Eco escrotal
-T24	PROCEDIMIENTO 648 668	Marcadores tumorales
-T25	PROCEDIMIENTO 748 770	Tratamiento quirúrgico
-T26	PROCEDIMIENTO 772 819	Orquiectomía radical bilateral por vía inguinal
-T27	PROCEDIMIENTO 877 900	Diagnóstico histológico
+T1	ENFERMEDAD 903 981	seminoma con elevado índice mitótico e invasión vascular (pT2) en ambos testes
+T2	ENFERMEDAD 1056 1105	crecimientos adenopáticos a nivel retroperitoneal
+T3	ENFERMEDAD 406 431	lesiones sólidas en teste
+T4	ENFERMEDAD 1357 1386	adenopatías retroperitoneales
+T5	ENFERMEDAD 1113 1144	lesiones metastásicas hepáticas
+T6	ENFERMEDAD 1389 1409	metástasis hepáticas
+T7	ENFERMEDAD 623 633	Varicocele
+T8	ENFERMEDAD 577 621	neoplasia testicular bilateral multicéntrica
+T9	ENFERMEDAD 1146 1148	M1
+T10	ENFERMEDAD 983 1002	seminoma anaplásico
+T11	PROCEDIMIENTO 139 157	Exploración física
+T12	PROCEDIMIENTO 327 339	Eco escrotal
+T13	PROCEDIMIENTO 1028 1053	TAC toracoabdominopélvico
+T14	PROCEDIMIENTO 772 819	Orquiectomía radical bilateral por vía inguinal
+T15	PROCEDIMIENTO 1179 1240	quimioterapia sistémica con el esquema etopósido y cisplatino
+T16	PROCEDIMIENTO 1006 1026	Estudio de extensión
+T17	PROCEDIMIENTO 648 668	Marcadores tumorales
+T18	PROCEDIMIENTO 1320 1340	marcadores tumorales
+T19	PROCEDIMIENTO 748 770	Tratamiento quirúrgico
+T20	PROCEDIMIENTO 877 900	Diagnóstico histológico
+T21	PROCEDIMIENTO 1469 1514	congelar el semen previo a la cirugía radical
+T22	SINTOMA 83 109	tumoración en ambos testes
+T23	SINTOMA 735 746	LDH: normal
+T24	SINTOMA 670 681	AFP: normal
+T25	SINTOMA 220 259	Teste derecho aumentado de consistencia
+T26	SINTOMA 159 163	Masa
+T27	SINTOMA 342 392	Tumoración sólida de 37x21 mm, hipoecoica en teste

@@ -1,5 +1,24 @@
-T1	SINTOMA 805 831	alteraciones hemodinámicas
-T2	SINTOMA 759 774	Descenso de Hto
-T3	SINTOMA 602 607	dolor
-T4	SINTOMA 935 942	dolores
-T5	SINTOMA 1003 1027	estabilidad hemodinámica
+T1	ENFERMEDAD 55 82	litiasis y tamaño: calicial
+T2	ENFERMEDAD 181 184	HTA
+T3	ENFERMEDAD 197 252	Piohidronefrosis derecha secundaria a litiasis ureteral
+T4	ENFERMEDAD 18 34	Litiasis cálcica
+T5	ENFERMEDAD 659 679	hematoma subcapsular
+T6	ENFERMEDAD 187 195	leve IRC
+T7	ENFERMEDAD 439 474	riñón izquierdo, aunque el hematoma
+T8	ENFERMEDAD 1112 1120	hematoma
+T9	ENFERMEDAD 1218 1226	hematoma
+T10	ENFERMEDAD 913 921	hematoma
+T11	PROCEDIMIENTO 655 658	TAC
+T12	PROCEDIMIENTO 595 600	Leoch
+T13	PROCEDIMIENTO 847 860	transfusiones
+T14	PROCEDIMIENTO 275 297	nefrostomía percutánea
+T15	PROCEDIMIENTO 358 425	litotricias, cinco del lado derecho (dos ureterales y tres renales)
+T16	PROCEDIMIENTO 1156 1165	ecografía
+T17	PROCEDIMIENTO 1168 1171	TAC
+T18	PROCEDIMIENTO 725 734	analgesia
+T19	PROCEDIMIENTO 737 757	controles analíticos
+T20	SINTOMA 759 774	Descenso de Hto
+T21	SINTOMA 805 831	alteraciones hemodinámicas
+T22	SINTOMA 602 607	dolor
+T23	SINTOMA 1003 1027	estabilidad hemodinámica
+T24	SINTOMA 935 942	dolores

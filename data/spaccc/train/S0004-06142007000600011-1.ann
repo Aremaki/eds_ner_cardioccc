@@ -1,5 +1,13 @@
-T1	SINTOMA 154 198	imagen neoformativa en el área retrotrigonal
-T2	SINTOMA 227 244	síntoma urológico
-T3	SINTOMA 481 504	alteración de la mucosa
-T4	ENFERMEDAD 32 40	alergias
-T5	ENFERMEDAD 581 598	leiomioma vesical
+T1	ENFERMEDAD 32 40	alergias
+T2	ENFERMEDAD 581 598	leiomioma vesical
+T3	PROCEDIMIENTO 408 413	T.A.C
+T4	PROCEDIMIENTO 422 433	cistoscopia
+T5	PROCEDIMIENTO 318 328	ecográfico
+T6	PROCEDIMIENTO 131 149	estudio ecográfico
+T7	PROCEDIMIENTO 530 552	resección transuretral
+T8	PROCEDIMIENTO 261 282	urografía intravenosa
+T9	PROCEDIMIENTO 702 723	estudios endoscópicos
+T10	SINTOMA 154 198	imagen neoformativa en el área retrotrigonal
+T11	SINTOMA 227 244	síntoma urológico
+T12	SINTOMA 481 504	alteración de la mucosa
+T13	SINTOMA 332 377	defecto de replección en área lateral derecha

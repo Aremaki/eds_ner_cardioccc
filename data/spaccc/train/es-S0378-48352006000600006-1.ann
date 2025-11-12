@@ -1,53 +1,79 @@
-T1	SINTOMA 4553 4565	asintomático
-T2	SINTOMA 4884 4896	asintomático
-T3	SINTOMA 3145 3164	buen estado general
-T4	SINTOMA 2321 2334	masa pulmonar
-T5	SINTOMA 1686 1696	masa renal
-T6	SINTOMA 3469 3513	evidencia depósitos patológicos del trazador
-T7	SINTOMA 3942 3974	imágenes nodulares en fosa renal
-T8	SINTOMA 3777 3865	imágenes nodulares en língula y lóbulo inferior derecho adyacente a la columna vertebral
-T9	SINTOMA 3613 3641	masa en mediastino posterior
-T10	SINTOMA 1103 1150	masa sólida mediastínica de 3 cm, paraesofágica
-T11	SINTOMA 1302 1319	masa sólida renal
-T12	SINTOMA 227 245	molestias rectales
-T13	SINTOMA 3322 3329	sofocos
-T14	SINTOMA 456 463	T1cNxMx
-T15	SINTOMA 2161 2168	T3aNxM1
-T16	PROCEDIMIENTO 1062 1064	TC
-T17	PROCEDIMIENTO 1556 1558	TC
-T18	PROCEDIMIENTO 1583 1612	irradiación sobre la próstata
-T19	PROCEDIMIENTO 1809 1846	mediastinoscopia con toma de biopsias
-T20	PROCEDIMIENTO 1862 1873	histológico
-T21	PROCEDIMIENTO 2022 2033	Nefrectomía
-T22	PROCEDIMIENTO 2035 2037	NF
-T23	PROCEDIMIENTO 2054 2065	histológico
-T24	PROCEDIMIENTO 2206 2246	cirugía sobre la metástasis mediastínica
-T25	PROCEDIMIENTO 2265 2267	TC
-T26	PROCEDIMIENTO 2598 2608	NF derecha
-T27	PROCEDIMIENTO 262 271	analítica
+T1	ENFERMEDAD 2223 2246	metástasis mediastínica
+T2	ENFERMEDAD 4302 4326	tromboembolismo pulmonar
+T3	ENFERMEDAD 3032 3051	lesión mediastínica
+T4	ENFERMEDAD 2718 2810	tumor mediastínico de 5 cm que invade parénquima pulmonar y cara superior del cayado aórtico
+T5	ENFERMEDAD 78 95	diabetes mellitus
+T6	ENFERMEDAD 97 118	cardiopatía isquémica
+T7	ENFERMEDAD 1877 1904	carcinoma de células claras
+T8	ENFERMEDAD 120 136	hábito tabáquico
+T9	ENFERMEDAD 2080 2108	carcinoma de células renales
+T10	ENFERMEDAD 4901 4917	tumor prostático
+T11	ENFERMEDAD 1921 1950	metástasis de Carcinoma Renal
+T12	ENFERMEDAD 4214 4224	metástasis
+T13	ENFERMEDAD 4644 4664	adenopatías axilares
+T14	ENFERMEDAD 1760 1775	lesión torácica
+T15	ENFERMEDAD 1257 1276	neoplasia primitiva
+T16	ENFERMEDAD 1401 1413	hipernefroma
+T17	ENFERMEDAD 397 423	Adenocarcinoma de Próstata
+T18	ENFERMEDAD 1456 1485	adenopatías retroperitoneales
+T19	ENFERMEDAD 3881 3902	metástasis pulmonares
+T20	ENFERMEDAD 4020 4050	infiltración del músculo psoas
+T21	ENFERMEDAD 2826 2852	placa de arterioesclerosis
+T22	ENFERMEDAD 153 186	alergias conocidas a medicamentos
+T23	ENFERMEDAD 4721 4729	lesiones
+T24	ENFERMEDAD 1234 1250	masa adenopática
+T25	ENFERMEDAD 2127 2159	invade tejido adiposo perirrenal
+T26	ENFERMEDAD 2381 2409	infiltra región mediastínica
+T27	PROCEDIMIENTO 495 523	bloqueo androgénico completo
 T28	PROCEDIMIENTO 2674 2697	toracotomía exploradora
-T29	PROCEDIMIENTO 2867 2883	clampaje lateral
-T30	PROCEDIMIENTO 2930 2937	biopsia
-T31	PROCEDIMIENTO 2997 3022	tratamiento radioterápico
-T32	PROCEDIMIENTO 3069 3082	inmunoterapia
-T33	PROCEDIMIENTO 3225 3228	BAC
-T34	PROCEDIMIENTO 3346 3349	BAC
-T35	PROCEDIMIENTO 3402 3405	BAC
-T36	PROCEDIMIENTO 3444 3460	gammagrafía ósea
-T37	PROCEDIMIENTO 3575 3577	TC
-T38	PROCEDIMIENTO 3588 3590	TC
-T39	PROCEDIMIENTO 386 441	biopsia de Adenocarcinoma de Próstata en lóbulo derecho
-T40	PROCEDIMIENTO 4112 4114	TC
-T41	PROCEDIMIENTO 4138 4140	NF
-T42	PROCEDIMIENTO 4332 4357	confirmación gammagráfica
-T43	PROCEDIMIENTO 4522 4524	NF
-T44	PROCEDIMIENTO 4578 4601	TC torácica y abdominal
-T45	PROCEDIMIENTO 4686 4688	NF
-T46	PROCEDIMIENTO 4741 4752	radiológica
-T47	PROCEDIMIENTO 4797 4799	NF
-T48	PROCEDIMIENTO 4805 4807	TC
-T49	PROCEDIMIENTO 495 523	bloqueo androgénico completo
-T50	PROCEDIMIENTO 5006 5022	gammagrafía ósea
-T51	PROCEDIMIENTO 525 528	BAC
-T52	PROCEDIMIENTO 612 631	TC tóraco-abdominal
-T53	PROCEDIMIENTO 832 903	RT. Se programa una dosis de 70 Gy sobre próstata y vesículas seminales
+T29	PROCEDIMIENTO 1556 1558	TC
+T30	PROCEDIMIENTO 2997 3022	tratamiento radioterápico
+T31	PROCEDIMIENTO 1809 1846	mediastinoscopia con toma de biopsias
+T32	PROCEDIMIENTO 4112 4114	TC
+T33	PROCEDIMIENTO 525 528	BAC
+T34	PROCEDIMIENTO 1583 1612	irradiación sobre la próstata
+T35	PROCEDIMIENTO 1062 1064	TC
+T36	PROCEDIMIENTO 2022 2033	Nefrectomía
+T37	PROCEDIMIENTO 2265 2267	TC
+T38	PROCEDIMIENTO 2035 2037	NF
+T39	PROCEDIMIENTO 4578 4601	TC torácica y abdominal
+T40	PROCEDIMIENTO 3069 3082	inmunoterapia
+T41	PROCEDIMIENTO 612 631	TC tóraco-abdominal
+T42	PROCEDIMIENTO 5006 5022	gammagrafía ósea
+T43	PROCEDIMIENTO 3444 3460	gammagrafía ósea
+T44	PROCEDIMIENTO 2930 2937	biopsia
+T45	PROCEDIMIENTO 832 903	RT. Se programa una dosis de 70 Gy sobre próstata y vesículas seminales
+T46	PROCEDIMIENTO 3575 3577	TC
+T47	PROCEDIMIENTO 386 441	biopsia de Adenocarcinoma de Próstata en lóbulo derecho
+T48	PROCEDIMIENTO 3588 3590	TC
+T49	PROCEDIMIENTO 4522 4524	NF
+T50	PROCEDIMIENTO 4797 4799	NF
+T51	PROCEDIMIENTO 4805 4807	TC
+T52	PROCEDIMIENTO 4686 4688	NF
+T53	PROCEDIMIENTO 3225 3228	BAC
+T54	PROCEDIMIENTO 3346 3349	BAC
+T55	PROCEDIMIENTO 3402 3405	BAC
+T56	PROCEDIMIENTO 4138 4140	NF
+T57	PROCEDIMIENTO 2598 2608	NF derecha
+T58	PROCEDIMIENTO 2867 2883	clampaje lateral
+T59	PROCEDIMIENTO 2206 2246	cirugía sobre la metástasis mediastínica
+T60	PROCEDIMIENTO 4332 4357	confirmación gammagráfica
+T61	PROCEDIMIENTO 262 271	analítica
+T62	PROCEDIMIENTO 1862 1873	histológico
+T63	PROCEDIMIENTO 2054 2065	histológico
+T64	PROCEDIMIENTO 4741 4752	radiológica
+T65	SINTOMA 1103 1150	masa sólida mediastínica de 3 cm, paraesofágica
+T66	SINTOMA 3322 3329	sofocos
+T67	SINTOMA 2321 2334	masa pulmonar
+T68	SINTOMA 1686 1696	masa renal
+T69	SINTOMA 3145 3164	buen estado general
+T70	SINTOMA 227 245	molestias rectales
+T71	SINTOMA 1302 1319	masa sólida renal
+T72	SINTOMA 3613 3641	masa en mediastino posterior
+T73	SINTOMA 3942 3974	imágenes nodulares en fosa renal
+T74	SINTOMA 456 463	T1cNxMx
+T75	SINTOMA 2161 2168	T3aNxM1
+T76	SINTOMA 4553 4565	asintomático
+T77	SINTOMA 4884 4896	asintomático
+T78	SINTOMA 3777 3865	imágenes nodulares en língula y lóbulo inferior derecho adyacente a la columna vertebral
+T79	SINTOMA 3469 3513	evidencia depósitos patológicos del trazador

@@ -1,13 +1,23 @@
-T1	SINTOMA 1666 1717	adelgazamiento corneal sobre la zona de perforación
-T2	SINTOMA 1738 1774	buena profundidad de cámara anterior
-T3	SINTOMA 1838 1858	cierre corneal total
-T4	SINTOMA 1002 1017	defecto corneal
-T5	SINTOMA 177 189	dolor ocular
-T6	ENFERMEDAD 572 613	perforación corneal no traumática estéril
-T7	ENFERMEDAD 55 84	diabético insulinodependiente
-T8	ENFERMEDAD 333 358	lesión ulcerativa corneal
-T9	ENFERMEDAD 387 421	poro endotelial perforante central
-T10	ENFERMEDAD 828 838	ulceración
-T11	ENFERMEDAD 1374 1400	poro endotelial perforante
-T12	ENFERMEDAD 450 483	proceso infeccioso o inflamatorio
-T13	ENFERMEDAD 21 44	enfermedad de Alzheimer
+T1	ENFERMEDAD 572 613	perforación corneal no traumática estéril
+T2	ENFERMEDAD 55 84	diabético insulinodependiente
+T3	ENFERMEDAD 333 358	lesión ulcerativa corneal
+T4	ENFERMEDAD 387 421	poro endotelial perforante central
+T5	ENFERMEDAD 828 838	ulceración
+T6	ENFERMEDAD 1374 1400	poro endotelial perforante
+T7	ENFERMEDAD 450 483	proceso infeccioso o inflamatorio
+T8	ENFERMEDAD 21 44	enfermedad de Alzheimer
+T9	PROCEDIMIENTO 673 689	anestesia tópica
+T10	PROCEDIMIENTO 286 318	evaluación del segmento anterior
+T11	PROCEDIMIENTO 751 769	parche de Tachosil
+T12	PROCEDIMIENTO 877 910	hidratación con suero fisiológico
+T13	PROCEDIMIENTO 1518 1535	lente terapeútica
+T14	PROCEDIMIENTO 1553 1583	tratamiento tópico antibiótico
+T15	PROCEDIMIENTO 1585 1596	ciclopéjico
+T16	PROCEDIMIENTO 1868 1896	retirar la lente terapéutica
+T17	PROCEDIMIENTO 639 653	cierre urgente
+T18	PROCEDIMIENTO 1196 1212	se ocluyo el ojo
+T19	SINTOMA 177 189	dolor ocular
+T20	SINTOMA 1002 1017	defecto corneal
+T21	SINTOMA 1666 1717	adelgazamiento corneal sobre la zona de perforación
+T22	SINTOMA 1738 1774	buena profundidad de cámara anterior
+T23	SINTOMA 1838 1858	cierre corneal total

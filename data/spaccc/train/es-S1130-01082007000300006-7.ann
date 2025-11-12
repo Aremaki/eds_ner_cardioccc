@@ -1,11 +1,14 @@
-T1	SINTOMA 199 211	Asintomático
-T2	SINTOMA 213 237	Hábito intestinal normal
-T3	SINTOMA 76 81	sanos
-T4	SINTOMA 332 339	DQ2 (-)
-T5	SINTOMA 342 349	DQ8 (+)
-T6	SINTOMA 267 309	elevación persistente de las transaminasas
-T7	SINTOMA 311 323	TTG positiva
-T8	ENFERMEDAD 107 114	bebedor
-T9	ENFERMEDAD 119 126	fumador
-T10	ENFERMEDAD 128 152	Amigdalitis de repetició
-T11	ENFERMEDAD 362 427	duodenal mostró atrofia moderada de las vellosidades intestinales
+T1	ENFERMEDAD 107 114	bebedor
+T2	ENFERMEDAD 119 126	fumador
+T3	ENFERMEDAD 128 152	Amigdalitis de repetició
+T4	ENFERMEDAD 362 427	duodenal mostró atrofia moderada de las vellosidades intestinales
+T5	PROCEDIMIENTO 354 370	biopsia duodenal
+T6	PROCEDIMIENTO 239 248	Analítica
+T7	PROCEDIMIENTO 592 601	analítica
+T8	SINTOMA 199 211	Asintomático
+T9	SINTOMA 267 309	elevación persistente de las transaminasas
+T10	SINTOMA 213 237	Hábito intestinal normal
+T11	SINTOMA 311 323	TTG positiva
+T12	SINTOMA 332 339	DQ2 (-)
+T13	SINTOMA 342 349	DQ8 (+)
+T14	SINTOMA 76 81	sanos

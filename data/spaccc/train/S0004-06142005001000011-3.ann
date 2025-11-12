@@ -1,38 +1,38 @@
-T1	SINTOMA 1149 1192	afectación de cordón medular desde C2 a D10
-T2	SINTOMA 888 926	afectación de la sensibilidad profunda
-T3	SINTOMA 1528 1592	anticuerpos (ELISA) y de existencia del virus (HTLV-I), positiva
-T4	SINTOMA 1828 1867	aumento de los valores de transaminasas
-T5	SINTOMA 835 869	hipoestesia subjetiva mayor en EID
-T6	SINTOMA 1435 1485	LCR: determinación sexológica para HTLV-I positiva
-T7	SINTOMA 597 642	miembros inferiores y pérdida de sensibilidad
-T8	SINTOMA 787 798	paraparesia
-T9	SINTOMA 1385 1434	PEES: patológicos a nivel de tibiales posteriores
-T10	SINTOMA 1040 1062	RCP extensor bilateral
-T11	SINTOMA 976 1038	ROT presentes, vivos los rotulianos e hipoactivos los aquíleos
-T12	SINTOMA 584 616	debilidad de miembros inferiores
-T13	SINTOMA 317 324	ascitis
-T14	ENFERMEDAD 163 180	cirrosis hepática
-T15	ENFERMEDAD 234 269	HDA secundaria a varices esofágicas
-T16	ENFERMEDAD 295 314	hipertensión portal
-T17	ENFERMEDAD 317 324	ascitis
-T18	ENFERMEDAD 366 381	hepatocarcinoma
-T19	ENFERMEDAD 700 710	paraplejia
-T20	ENFERMEDAD 1214 1262	lesiones hiperintensa lagunares supratentoriales
-T21	ENFERMEDAD 1627 1657	paraparesia espástica tropical
-T22	ENFERMEDAD 787 798	paraparesia
-T23	ENFERMEDAD 803 833	amioatrofia por desuso de EEII
-T24	ENFERMEDAD 835 886	hipoestesia subjetiva mayor en EID con nivel D8-D10
-T25	PROCEDIMIENTO 112 122	trasplante
-T26	PROCEDIMIENTO 1135 1147	RMN cerebral
-T27	PROCEDIMIENTO 132 146	apendicectomía
-T28	PROCEDIMIENTO 1385 1389	PEES
-T29	PROCEDIMIENTO 1435 1476	LCR: determinación sexológica para HTLV-I
-T30	PROCEDIMIENTO 1501 1582	Determinación sanguínea de anticuerpos (ELISA) y de existencia del virus (HTLV-I)
-T31	PROCEDIMIENTO 2018 2042	sonda vesical permanente
-T32	PROCEDIMIENTO 2079 2128	reeducación vesical mediante sondaje intermitente
-T33	PROCEDIMIENTO 2133 2152	trasplante hepático
-T34	PROCEDIMIENTO 2225 2241	trasplantectomía
-T35	PROCEDIMIENTO 403 422	trasplante hepático
-T36	PROCEDIMIENTO 46 65	trasplante hepático
-T37	PROCEDIMIENTO 537 547	trasplante
-T38	PROCEDIMIENTO 755 773	exploración física
+T1	ENFERMEDAD 163 180	cirrosis hepática
+T2	ENFERMEDAD 234 269	HDA secundaria a varices esofágicas
+T3	ENFERMEDAD 295 314	hipertensión portal
+T4	ENFERMEDAD 317 324	ascitis
+T5	ENFERMEDAD 366 381	hepatocarcinoma
+T6	ENFERMEDAD 700 710	paraplejia
+T7	ENFERMEDAD 1214 1262	lesiones hiperintensa lagunares supratentoriales
+T8	ENFERMEDAD 1627 1657	paraparesia espástica tropical
+T9	ENFERMEDAD 787 798	paraparesia
+T10	ENFERMEDAD 803 833	amioatrofia por desuso de EEII
+T11	ENFERMEDAD 835 886	hipoestesia subjetiva mayor en EID con nivel D8-D10
+T12	PROCEDIMIENTO 1135 1147	RMN cerebral
+T13	PROCEDIMIENTO 1501 1582	Determinación sanguínea de anticuerpos (ELISA) y de existencia del virus (HTLV-I)
+T14	PROCEDIMIENTO 132 146	apendicectomía
+T15	PROCEDIMIENTO 755 773	exploración física
+T16	PROCEDIMIENTO 2018 2042	sonda vesical permanente
+T17	PROCEDIMIENTO 2079 2128	reeducación vesical mediante sondaje intermitente
+T18	PROCEDIMIENTO 46 65	trasplante hepático
+T19	PROCEDIMIENTO 112 122	trasplante
+T20	PROCEDIMIENTO 403 422	trasplante hepático
+T21	PROCEDIMIENTO 537 547	trasplante
+T22	PROCEDIMIENTO 2133 2152	trasplante hepático
+T23	PROCEDIMIENTO 1385 1389	PEES
+T24	PROCEDIMIENTO 1435 1476	LCR: determinación sexológica para HTLV-I
+T25	PROCEDIMIENTO 2225 2241	trasplantectomía
+T26	SINTOMA 1828 1867	aumento de los valores de transaminasas
+T27	SINTOMA 888 926	afectación de la sensibilidad profunda
+T28	SINTOMA 584 616	debilidad de miembros inferiores
+T29	SINTOMA 597 642	miembros inferiores y pérdida de sensibilidad
+T30	SINTOMA 976 1038	ROT presentes, vivos los rotulianos e hipoactivos los aquíleos
+T31	SINTOMA 1040 1062	RCP extensor bilateral
+T32	SINTOMA 1149 1192	afectación de cordón medular desde C2 a D10
+T33	SINTOMA 1385 1434	PEES: patológicos a nivel de tibiales posteriores
+T34	SINTOMA 1435 1485	LCR: determinación sexológica para HTLV-I positiva
+T35	SINTOMA 1528 1592	anticuerpos (ELISA) y de existencia del virus (HTLV-I), positiva
+T36	SINTOMA 317 324	ascitis
+T37	SINTOMA 787 798	paraparesia
+T38	SINTOMA 835 869	hipoestesia subjetiva mayor en EID

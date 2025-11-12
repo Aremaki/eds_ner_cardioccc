@@ -1,18 +1,19 @@
-T1	SINTOMA 405 425	incompetencia labial
-T2	SINTOMA 88 103	succión digital
-T3	SINTOMA 1051 1067	tonicidad labial
-T4	ENFERMEDAD 145 169	mordida abierta anterior
-T5	ENFERMEDAD 227 262	mordida cruzada bilateral posterior
-T6	ENFERMEDAD 771 806	extrusión de los molares inferiores
-T7	ENFERMEDAD 980 995	mordida abierta
-T8	ENFERMEDAD 171 204	protrusión dentoalveolar superior
-T9	ENFERMEDAD 264 282	compresión maxilar
-T10	ENFERMEDAD 285 311	rotación del plano oclusal
-T11	PROCEDIMIENTO 1008 1067	ejercicios de mioterapia, para aumentar la tonicidad labial
+T1	ENFERMEDAD 145 169	mordida abierta anterior
+T2	ENFERMEDAD 227 262	mordida cruzada bilateral posterior
+T3	ENFERMEDAD 771 806	extrusión de los molares inferiores
+T4	ENFERMEDAD 980 995	mordida abierta
+T5	ENFERMEDAD 171 204	protrusión dentoalveolar superior
+T6	ENFERMEDAD 264 282	compresión maxilar
+T7	ENFERMEDAD 285 311	rotación del plano oclusal
+T8	PROCEDIMIENTO 517 542	dispositivos ortodóncicos
+T9	PROCEDIMIENTO 544 616	quad-helix con reja lingual cementado en los primeros molares superiores
+T10	PROCEDIMIENTO 635 665	expansión del maxilar superior
+T11	PROCEDIMIENTO 667 712	arco lingual cementado en el maxilar inferior
 T12	PROCEDIMIENTO 370 393	valoración miofuncional
-T13	PROCEDIMIENTO 517 542	dispositivos ortodóncicos
-T14	PROCEDIMIENTO 544 616	quad-helix con reja lingual cementado en los primeros molares superiores
-T15	PROCEDIMIENTO 635 665	expansión del maxilar superior
-T16	PROCEDIMIENTO 667 712	arco lingual cementado en el maxilar inferior
-T17	PROCEDIMIENTO 809 850	aparatología extraoral (AEO) de tiro alto
-T18	PROCEDIMIENTO 833 836	AEO
+T13	PROCEDIMIENTO 1008 1067	ejercicios de mioterapia, para aumentar la tonicidad labial
+T14	PROCEDIMIENTO 809 850	aparatología extraoral (AEO) de tiro alto
+T15	PROCEDIMIENTO 833 836	AEO
+T16	SINTOMA 88 103	succión digital
+T17	SINTOMA 405 425	incompetencia labial
+T18	SINTOMA 1051 1067	tonicidad labial
+T19	SINTOMA 316 362	patrón de crecimiento tenía tendencia vertical

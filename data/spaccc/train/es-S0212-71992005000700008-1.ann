@@ -1,44 +1,62 @@
-T1	SINTOMA 966 1022	abdomen es blando y depresible, doloroso de forma difusa
-T2	SINTOMA 830 837	afebril
-T3	SINTOMA 2711 2804	anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta fue positiva
-T4	SINTOMA 157 164	astenia
-T5	SINTOMA 903 935	auscultación cardíaca es rítmica
-T6	SINTOMA 1694 1722	Coagulación sin alteraciones
-T7	SINTOMA 1793 1810	configuración RSR
-T8	SINTOMA 839 849	consciente
-T9	SINTOMA 1028 1050	defensa a la palpación
-T10	SINTOMA 669 690	deposiciones líquidas
-T11	SINTOMA 250 269	disminución de peso
-T12	SINTOMA 326 341	dolor abdominal
-T13	SINTOMA 632 654	dolor abdominal difuso
-T14	SINTOMA 890 898	eupneico
-T15	SINTOMA 180 186	fatiga
-T16	SINTOMA 867 888	focalidad neurológica
-T17	SINTOMA 3221 3266	función renal e iones dentro de la normalidad
-T18	SINTOMA 3021 3070	glándulas suprarrenales morfológicamente normales
-T19	SINTOMA 1095 1169	hiperpigmentación cutánea generalizada, acentuada en pezones, área genital
-T20	SINTOMA 1955 1969	hiperpotasemia
-T21	SINTOMA 2045 2054	hipotenso
-T22	SINTOMA 1176 1224	manchas melánicas en paladar y bordes gingivales
-T23	SINTOMA 1065 1070	masas
-T24	SINTOMA 1074 1082	megalias
-T25	SINTOMA 852 861	orientado
-T26	SINTOMA 1814 1832	prolongación de QT
+T1	ENFERMEDAD 1955 1969	hiperpotasemia
+T2	ENFERMEDAD 2102 2119	crisis adisoniana
+T3	ENFERMEDAD 484 499	hernia de hiato
+T4	ENFERMEDAD 504 514	esofagitis
+T5	ENFERMEDAD 525 556	reflujo biliar duodeno-gástrico
+T6	ENFERMEDAD 57 65	alergias
+T7	ENFERMEDAD 1095 1133	hiperpigmentación cutánea generalizada
+T8	ENFERMEDAD 2045 2054	hipotenso
+T9	PROCEDIMIENTO 2993 3006	TAC abdominal
+T10	PROCEDIMIENTO 1727 1745	electrocardiograma
+T11	PROCEDIMIENTO 2694 2791	determinación de anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta
+T12	PROCEDIMIENTO 734 752	exploración física
+T13	PROCEDIMIENTO 2552 2575	tratamiento corticoideo
+T14	PROCEDIMIENTO 1846 1866	radiografía de tórax
+T15	PROCEDIMIENTO 903 924	auscultación cardíaca
+T16	PROCEDIMIENTO 1527 1536	hemograma
+T17	PROCEDIMIENTO 446 458	gastroscopia
+T18	PROCEDIMIENTO 1694 1705	Coagulación
+T19	PROCEDIMIENTO 1370 1389	gasometría arterial
+T20	PROCEDIMIENTO 2166 2204	reposición de volumen con suero salino
+T21	PROCEDIMIENTO 2262 2347	actocortina (100 mg i.v. en bolo seguidos de 400 mg en perfusión intravenosa continua
+T22	PROCEDIMIENTO 2401 2433	perfusión de aminas vasopresoras
+T23	PROCEDIMIENTO 1938 1969	corrección de la hiperpotasemia
+T24	PROCEDIMIENTO 2581 2620	determinación de la función suprarrenal
+T25	PROCEDIMIENTO 1229 1238	analítica
+T26	PROCEDIMIENTO 1041 1050	palpación
 T27	SINTOMA 1846 1876	radiografía de tórax es normal
-T28	SINTOMA 525 556	reflujo biliar duodeno-gástrico
-T29	SINTOMA 229 245	síndrome general
-T30	SINTOMA 955 961	soplos
-T31	SINTOMA 2020 2028	sudoroso
-T32	SINTOMA 1759 1778	taquicardia sinusal
-T33	SINTOMA 937 949	taquicárdica
-T34	SINTOMA 2030 2042	taquicárdico
-T35	SINTOMA 2848 2991	tirotropina, tiroxina libre, FSH y LH, asi como anticuerpos antitiroglobulina y antiperoxidasa microsomial resultaron dentro de rangos normales
-T36	SINTOMA 623 630	vómitos
-T37	ENFERMEDAD 1955 1969	hiperpotasemia
-T38	ENFERMEDAD 2102 2119	crisis adisoniana
-T39	ENFERMEDAD 484 499	hernia de hiato
-T40	ENFERMEDAD 504 514	esofagitis
-T41	ENFERMEDAD 525 556	reflujo biliar duodeno-gástrico
-T42	ENFERMEDAD 57 65	alergias
-T43	ENFERMEDAD 1095 1133	hiperpigmentación cutánea generalizada
-T44	ENFERMEDAD 2045 2054	hipotenso
+T28	SINTOMA 2020 2028	sudoroso
+T29	SINTOMA 2030 2042	taquicárdico
+T30	SINTOMA 157 164	astenia
+T31	SINTOMA 890 898	eupneico
+T32	SINTOMA 903 935	auscultación cardíaca es rítmica
+T33	SINTOMA 180 186	fatiga
+T34	SINTOMA 937 949	taquicárdica
+T35	SINTOMA 966 1022	abdomen es blando y depresible, doloroso de forma difusa
+T36	SINTOMA 250 269	disminución de peso
+T37	SINTOMA 1028 1050	defensa a la palpación
+T38	SINTOMA 326 341	dolor abdominal
+T39	SINTOMA 1095 1169	hiperpigmentación cutánea generalizada, acentuada en pezones, área genital
+T40	SINTOMA 1176 1224	manchas melánicas en paladar y bordes gingivales
+T41	SINTOMA 623 630	vómitos
+T42	SINTOMA 632 654	dolor abdominal difuso
+T43	SINTOMA 669 690	deposiciones líquidas
+T44	SINTOMA 830 837	afebril
+T45	SINTOMA 839 849	consciente
+T46	SINTOMA 867 888	focalidad neurológica
+T47	SINTOMA 852 861	orientado
+T48	SINTOMA 955 961	soplos
+T49	SINTOMA 229 245	síndrome general
+T50	SINTOMA 1065 1070	masas
+T51	SINTOMA 1793 1810	configuración RSR
+T52	SINTOMA 3021 3070	glándulas suprarrenales morfológicamente normales
+T53	SINTOMA 1814 1832	prolongación de QT
+T54	SINTOMA 1759 1778	taquicardia sinusal
+T55	SINTOMA 1694 1722	Coagulación sin alteraciones
+T56	SINTOMA 2711 2804	anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta fue positiva
+T57	SINTOMA 3221 3266	función renal e iones dentro de la normalidad
+T58	SINTOMA 2045 2054	hipotenso
+T59	SINTOMA 525 556	reflujo biliar duodeno-gástrico
+T60	SINTOMA 1955 1969	hiperpotasemia
+T61	SINTOMA 2848 2991	tirotropina, tiroxina libre, FSH y LH, asi como anticuerpos antitiroglobulina y antiperoxidasa microsomial resultaron dentro de rangos normales
+T62	SINTOMA 1074 1082	megalias

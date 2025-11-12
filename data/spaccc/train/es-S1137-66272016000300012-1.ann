@@ -1,19 +1,56 @@
-T1	SINTOMA 1460 1521	alteración difusa de la ecogenicidad en relación a esteatosis
-T2	SINTOMA 3218 3228	bajo gasto
-T3	SINTOMA 1008 1050	cifras de bilirrubina ligeramente elevadas
-T4	SINTOMA 149 201	disnea progresiva hasta hacerse de mínimos esfuerzos
-T5	SINTOMA 1345 1399	electrocardiograma no mostraba alteraciones de interés
-T6	SINTOMA 2484 2530	estudio microbiológico y la citología normales
-T7	SINTOMA 1533 1565	estudio vascular hepático normal
-T8	SINTOMA 757 779	regular estado general
-T9	SINTOMA 1192 1272	serologías para VHA, VHB, VHC, VIH, VEB, CMV y la autoinmunidad fueron negativas
-T10	SINTOMA 1857 1961	ventrículo derecho así como la porción inicial de la arteria pulmonar aparecían completamente colapsados
-T11	SINTOMA 921 947	elevación de transaminasas
-T12	SINTOMA 217 223	edemas
-T13	SINTOMA 225 230	mareo
-T14	SINTOMA 1105 1134	deterioro de la función renal
-T15	SINTOMA 246 260	dolor torácico
-T16	SINTOMA 264 272	ortopnea
-T17	SINTOMA 781 801	hipotensión arterial
-T18	SINTOMA 817 838	ingurgitación yugular
-T19	SINTOMA 3051 3074	compromiso hemodinámico
+T1	ENFERMEDAD 18 25	fumador
+T2	ENFERMEDAD 53 63	ex-bebedor
+T3	ENFERMEDAD 1691 1717	derrame pericárdico masivo
+T4	ENFERMEDAD 1511 1521	esteatosis
+T5	ENFERMEDAD 1082 1088	anemia
+T6	ENFERMEDAD 233 240	síncope
+T7	ENFERMEDAD 2283 2330	derrame localizado a nivel apical (encapsulado)
+T8	ENFERMEDAD 337 393	endocarditis infecciosa sobre una válvula mitral mixoide
+T9	ENFERMEDAD 2414 2430	derrame hemático
+T10	ENFERMEDAD 1972 2007	taponamiento ecocardiográfico grave
+T11	ENFERMEDAD 410 430	perforación valvular
+T12	ENFERMEDAD 433 460	insuficiencia mitral severa
+T13	ENFERMEDAD 2877 2901	derrame pericárdico leve
+T14	ENFERMEDAD 3181 3200	hepatitis isquémica
+T15	ENFERMEDAD 3243 3264	taponamiento cardiaco
+T16	ENFERMEDAD 3278 3337	síndrome postpericardiotomía con transformación hemorrágica
+T17	ENFERMEDAD 841 854	hepatomegalia
+T18	ENFERMEDAD 1434 1447	hepatomegalia
+T19	ENFERMEDAD 781 801	hipotensión arterial
+T20	PROCEDIMIENTO 1345 1363	electrocardiograma
+T21	PROCEDIMIENTO 1408 1417	ecografía
+T22	PROCEDIMIENTO 1647 1661	ecocardiograma
+T23	PROCEDIMIENTO 2097 2140	pericardiocentesis diagnóstica y evacuadora
+T24	PROCEDIMIENTO 1533 1558	estudio vascular hepático
+T25	PROCEDIMIENTO 2222 2265	extracción de 600 cc de líquido hemorrágico
+T26	PROCEDIMIENTO 1192 1236	serologías para VHA, VHB, VHC, VIH, VEB, CMV
+T27	PROCEDIMIENTO 2344 2395	muestras para bioquímica, microbiología y citología
+T28	PROCEDIMIENTO 2484 2506	estudio microbiológico
+T29	PROCEDIMIENTO 487 499	antibióticos
+T30	PROCEDIMIENTO 2512 2521	citología
+T31	PROCEDIMIENTO 524 604	sustitución de la válvula mitral por una prótesis mecánica mediante esternotomía
+T32	PROCEDIMIENTO 2574 2585	corticoides
+T33	PROCEDIMIENTO 2840 2854	ecocardiograma
+T34	PROCEDIMIENTO 3124 3140	biopsia hepática
+T35	PROCEDIMIENTO 884 893	analítica
+T36	PROCEDIMIENTO 3110 3119	analítica
+T37	PROCEDIMIENTO 732 743	exploración
+T38	SINTOMA 921 947	elevación de transaminasas
+T39	SINTOMA 149 201	disnea progresiva hasta hacerse de mínimos esfuerzos
+T40	SINTOMA 217 223	edemas
+T41	SINTOMA 225 230	mareo
+T42	SINTOMA 1105 1134	deterioro de la función renal
+T43	SINTOMA 246 260	dolor torácico
+T44	SINTOMA 264 272	ortopnea
+T45	SINTOMA 1857 1961	ventrículo derecho así como la porción inicial de la arteria pulmonar aparecían completamente colapsados
+T46	SINTOMA 781 801	hipotensión arterial
+T47	SINTOMA 817 838	ingurgitación yugular
+T48	SINTOMA 3218 3228	bajo gasto
+T49	SINTOMA 757 779	regular estado general
+T50	SINTOMA 1192 1272	serologías para VHA, VHB, VHC, VIH, VEB, CMV y la autoinmunidad fueron negativas
+T51	SINTOMA 1533 1565	estudio vascular hepático normal
+T52	SINTOMA 3051 3074	compromiso hemodinámico
+T53	SINTOMA 1008 1050	cifras de bilirrubina ligeramente elevadas
+T54	SINTOMA 1345 1399	electrocardiograma no mostraba alteraciones de interés
+T55	SINTOMA 2484 2530	estudio microbiológico y la citología normales
+T56	SINTOMA 1460 1521	alteración difusa de la ecogenicidad en relación a esteatosis

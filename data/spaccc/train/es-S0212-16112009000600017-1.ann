@@ -1,14 +1,30 @@
-T1	SINTOMA 3075 3081	edemas
-T2	SINTOMA 1901 1936	edemas con fóvea hasta las rodillas
-T3	SINTOMA 2279 2290	Proteinuria
-T4	SINTOMA 3333 3344	Proteinuria
-T5	SINTOMA 2306 2345	Colesterol total: 180 (valores normales
-T6	SINTOMA 2414 2445	HDL: 44 mg/dL (valores normales
-T7	SINTOMA 2362 2398	Triglicéridos: 110 (valores normales
-T8	ENFERMEDAD 63 84	cardiopatía isquémica
-T9	ENFERMEDAD 96 122	infarto agudo de miocardio
-T10	ENFERMEDAD 263 283	amiloidosis primaria
-T11	ENFERMEDAD 286 304	síndrome nefrótico
-T12	ENFERMEDAD 1436 1454	síndrome nefrótico
-T13	ENFERMEDAD 137 147	ex-fumador
-T14	ENFERMEDAD 175 223	alergias conocidas a medicamentos ni a alimentos
+T1	ENFERMEDAD 63 84	cardiopatía isquémica
+T2	ENFERMEDAD 96 122	infarto agudo de miocardio
+T3	ENFERMEDAD 263 283	amiloidosis primaria
+T4	ENFERMEDAD 286 304	síndrome nefrótico
+T5	ENFERMEDAD 1436 1454	síndrome nefrótico
+T6	ENFERMEDAD 137 147	ex-fumador
+T7	ENFERMEDAD 175 223	alergias conocidas a medicamentos ni a alimentos
+T8	PROCEDIMIENTO 949 961	dietoterapia
+T9	PROCEDIMIENTO 415 442	dieta baja en sodio y grasa
+T10	PROCEDIMIENTO 1701 1766	composición corporal se midió a través de impedancia bioeléctrica
+T11	PROCEDIMIENTO 1137 1147	bioquímica
+T12	PROCEDIMIENTO 1456 1491	dieta restrictiva en proteínas, sal
+T13	PROCEDIMIENTO 741 766	tratamiento farmacológico
+T14	PROCEDIMIENTO 461 493	exclusión de alimentos proteicos
+T15	PROCEDIMIENTO 1064 1084	historia nutricional
+T16	PROCEDIMIENTO 1101 1135	valoración antropométrica completa
+T17	PROCEDIMIENTO 1150 1172	análisis de la ingesta
+T18	PROCEDIMIENTO 1189 1217	encuesta dietética de 3 días
+T19	PROCEDIMIENTO 2898 2918	composición corporal
+T20	PROCEDIMIENTO 3496 3555	ingesta dietética se recogió en un recordatorio de 24 horas
+T21	PROCEDIMIENTO 3756 3768	dietoterapia
+T22	PROCEDIMIENTO 1940 1949	Analítica
+T23	PROCEDIMIENTO 1574 1585	exploración
+T24	SINTOMA 3075 3081	edemas
+T25	SINTOMA 1901 1936	edemas con fóvea hasta las rodillas
+T26	SINTOMA 2279 2290	Proteinuria
+T27	SINTOMA 3333 3344	Proteinuria
+T28	SINTOMA 2306 2345	Colesterol total: 180 (valores normales
+T29	SINTOMA 2362 2398	Triglicéridos: 110 (valores normales
+T30	SINTOMA 2414 2445	HDL: 44 mg/dL (valores normales

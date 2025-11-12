@@ -1,20 +1,33 @@
-T1	SINTOMA 1491 1567	asimetría en la morfología de las respuestas a la estimulación de ambos ojos
-T2	SINTOMA 916 964	aumento de líquido perineural en la vaina del NO
-T3	SINTOMA 1580 1631	ausencia de conducción del estímulo visual en el NO
-T4	SINTOMA 828 856	cortes orbitarios fue normal
-T5	SINTOMA 718 779	normalidad, así como la presión intraocular y el fondo de ojo
-T6	SINTOMA 576 593	percepción de luz
-T7	SINTOMA 79 100	pérdida de conciencia
-T8	SINTOMA 170 210	pérdida de visión por el ojo derecho (OD
-T9	SINTOMA 684 728	polo anterior estaba dentro de la normalidad
-T10	PROCEDIMIENTO 1031 1088	reconstrucción sagital del canal óptico del TC helicoidal
-T11	PROCEDIMIENTO 1323 1382	potenciales visuales evocados utilizando estímulo monocular
-T12	PROCEDIMIENTO 1968 1979	corticoides
-T13	PROCEDIMIENTO 327 348	antidiabéticos orales
-T14	PROCEDIMIENTO 434 445	exploración
-T15	PROCEDIMIENTO 742 761	presión intraocular
-T16	PROCEDIMIENTO 767 779	fondo de ojo
-T17	PROCEDIMIENTO 784 845	tomografía computarizada (TC) de cráneo con cortes orbitarios
-T18	PROCEDIMIENTO 810 812	TC
-T19	PROCEDIMIENTO 865 893	resonancia magnética nuclear
-T20	PROCEDIMIENTO 895 898	RMN
+T1	ENFERMEDAD 55 100	TCE frontal derecho con pérdida de conciencia
+T2	ENFERMEDAD 283 307	diabetes mellitus tipo 2
+T3	ENFERMEDAD 351 359	artrosis
+T4	ENFERMEDAD 461 494	herida inciso-contusa infraciliar
+T5	ENFERMEDAD 1103 1141	fractura lineal del techo de la órbita
+T6	ENFERMEDAD 1674 1702	neuropatía óptica traumática
+T7	ENFERMEDAD 1704 1707	NOT
+T8	ENFERMEDAD 1760 1787	traumatismo frontal cerrado
+T9	ENFERMEDAD 1839 1860	lesión directa del NO
+T10	ENFERMEDAD 500 532	hematoma difuso fronto-orbitario
+T11	ENFERMEDAD 170 187	pérdida de visión
+T12	ENFERMEDAD 601 634	defecto pupilar aferente relativo
+T13	ENFERMEDAD 636 640	DPAR
+T14	PROCEDIMIENTO 327 348	antidiabéticos orales
+T15	PROCEDIMIENTO 784 845	tomografía computarizada (TC) de cráneo con cortes orbitarios
+T16	PROCEDIMIENTO 865 893	resonancia magnética nuclear
+T17	PROCEDIMIENTO 895 898	RMN
+T18	PROCEDIMIENTO 1031 1088	reconstrucción sagital del canal óptico del TC helicoidal
+T19	PROCEDIMIENTO 1323 1382	potenciales visuales evocados utilizando estímulo monocular
+T20	PROCEDIMIENTO 1968 1979	corticoides
+T21	PROCEDIMIENTO 767 779	fondo de ojo
+T22	PROCEDIMIENTO 742 761	presión intraocular
+T23	PROCEDIMIENTO 810 812	TC
+T24	PROCEDIMIENTO 434 445	exploración
+T25	SINTOMA 576 593	percepción de luz
+T26	SINTOMA 684 728	polo anterior estaba dentro de la normalidad
+T27	SINTOMA 79 100	pérdida de conciencia
+T28	SINTOMA 1491 1567	asimetría en la morfología de las respuestas a la estimulación de ambos ojos
+T29	SINTOMA 828 856	cortes orbitarios fue normal
+T30	SINTOMA 916 964	aumento de líquido perineural en la vaina del NO
+T31	SINTOMA 1580 1631	ausencia de conducción del estímulo visual en el NO
+T32	SINTOMA 170 210	pérdida de visión por el ojo derecho (OD
+T33	SINTOMA 718 779	normalidad, así como la presión intraocular y el fondo de ojo

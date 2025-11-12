@@ -1,17 +1,17 @@
-T1	SINTOMA 275 323	atalamia con contacto iridoendotelial periférico
-T2	SINTOMA 394 417	atalamia con hipertonía
-T3	ENFERMEDAD 21 25	GCCA
-T4	ENFERMEDAD 419 443	desprendimiento coroideo
-T5	ENFERMEDAD 445 481	desprendimiento ciliocoroideo anular
-T6	ENFERMEDAD 484 499	bloqueo pupilar
-T7	ENFERMEDAD 520 536	glaucoma maligno
-T8	ENFERMEDAD 275 323	atalamia con contacto iridoendotelial periférico
-T9	ENFERMEDAD 394 417	atalamia con hipertonía
-T10	PROCEDIMIENTO 148 213	procedimiento combinado de implante valvular y facoemulsificación
-T11	PROCEDIMIENTO 242 249	cirugía
+T1	ENFERMEDAD 21 25	GCCA
+T2	ENFERMEDAD 419 443	desprendimiento coroideo
+T3	ENFERMEDAD 445 481	desprendimiento ciliocoroideo anular
+T4	ENFERMEDAD 484 499	bloqueo pupilar
+T5	ENFERMEDAD 520 536	glaucoma maligno
+T6	ENFERMEDAD 275 323	atalamia con contacto iridoendotelial periférico
+T7	ENFERMEDAD 394 417	atalamia con hipertonía
+T8	PROCEDIMIENTO 87 102	trabeculectomía
+T9	PROCEDIMIENTO 148 213	procedimiento combinado de implante valvular y facoemulsificación
+T10	PROCEDIMIENTO 596 646	capsulotomía e hialoidotomía a través de la pupila
+T11	PROCEDIMIENTO 48 70	tratamiento quirúrgico
 T12	PROCEDIMIENTO 332 335	PIO
-T13	PROCEDIMIENTO 48 70	tratamiento quirúrgico
-T14	PROCEDIMIENTO 596 646	capsulotomía e hialoidotomía a través de la pupila
+T13	PROCEDIMIENTO 674 677	PIO
+T14	PROCEDIMIENTO 242 249	cirugía
 T15	PROCEDIMIENTO 662 669	cirugía
-T16	PROCEDIMIENTO 674 677	PIO
-T17	PROCEDIMIENTO 87 102	trabeculectomía
+T16	SINTOMA 394 417	atalamia con hipertonía
+T17	SINTOMA 275 323	atalamia con contacto iridoendotelial periférico

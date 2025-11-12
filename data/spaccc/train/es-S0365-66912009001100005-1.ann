@@ -1,15 +1,26 @@
-T1	SINTOMA 331 339	amblíope
-T2	SINTOMA 132 161	descenso de la agudeza visual
-T3	SINTOMA 551 572	edema de papila en OD
-T4	SINTOMA 829 868	engrosamiento de las vainas de ambos NO
-T5	SINTOMA 622 708	estudio campimétrico el OI era normal pero en el OD presentaba un defecto inferonasal,
-T6	SINTOMA 884 904	exoftalmos bilateral
-T7	SINTOMA 455 507	exploración biomicroscópica y tonométrica fue normal
-T8	SINTOMA 75 121	proptosis de un año de evolución en ambos ojos
-T9	SINTOMA 577 614	test de colores Farnsworth era normal
-T10	ENFERMEDAD 75 121	proptosis de un año de evolución en ambos ojos
-T11	ENFERMEDAD 331 339	amblíope
-T12	ENFERMEDAD 551 566	edema de papila
-T13	ENFERMEDAD 724 739	cuadrantanopsia
-T14	ENFERMEDAD 884 904	exoftalmos bilateral
-T15	ENFERMEDAD 954 975	meningocele bilateral
+T1	ENFERMEDAD 75 121	proptosis de un año de evolución en ambos ojos
+T2	ENFERMEDAD 331 339	amblíope
+T3	ENFERMEDAD 551 566	edema de papila
+T4	ENFERMEDAD 724 739	cuadrantanopsia
+T5	ENFERMEDAD 884 904	exoftalmos bilateral
+T6	ENFERMEDAD 954 975	meningocele bilateral
+T7	PROCEDIMIENTO 392 414	exoftalmometría Hertel
+T8	PROCEDIMIENTO 455 482	exploración biomicroscópica
+T9	PROCEDIMIENTO 455 496	exploración biomicroscópica y tonométrica
+T10	PROCEDIMIENTO 527 539	fondo de ojo
+T11	PROCEDIMIENTO 577 603	test de colores Farnsworth
+T12	PROCEDIMIENTO 622 648	estudio campimétrico el OI
+T13	PROCEDIMIENTO 771 795	tomografía computerizada
+T14	PROCEDIMIENTO 797 799	TC
+T15	PROCEDIMIENTO 1181 1196	exoftalmometría
+T16	PROCEDIMIENTO 1199 1210	campimetría
+T17	PROCEDIMIENTO 1243 1255	fondo de ojo
+T18	SINTOMA 132 161	descenso de la agudeza visual
+T19	SINTOMA 455 507	exploración biomicroscópica y tonométrica fue normal
+T20	SINTOMA 551 572	edema de papila en OD
+T21	SINTOMA 577 614	test de colores Farnsworth era normal
+T22	SINTOMA 829 868	engrosamiento de las vainas de ambos NO
+T23	SINTOMA 884 904	exoftalmos bilateral
+T24	SINTOMA 75 121	proptosis de un año de evolución en ambos ojos
+T25	SINTOMA 331 339	amblíope
+T26	SINTOMA 622 708	estudio campimétrico el OI era normal pero en el OD presentaba un defecto inferonasal,

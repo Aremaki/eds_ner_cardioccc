@@ -1,33 +1,42 @@
-T1	SINTOMA 591 628	afecta estructuras óseas o musculares
-T2	SINTOMA 164 209	masa mal delimitada de 2 cm en área parotídea
-T3	SINTOMA 53 118	tumoración palpable, dolorosa a la presión en región preauricular
-T4	SINTOMA 518 528	tumoración
-T5	SINTOMA 352 358	nódulo
-T6	PROCEDIMIENTO 1021 1045	examen de los extendidos
-T7	PROCEDIMIENTO 133 151	exploración física
-T8	PROCEDIMIENTO 1707 1724	imagen citológica
-T9	PROCEDIMIENTO 1866 1941	cuantificación de ADN por citometría de imagen sobre extendidos citológicos
-T10	PROCEDIMIENTO 1956 1962	frotis
-T11	PROCEDIMIENTO 1987 1994	punción
-T12	PROCEDIMIENTO 2056 2060	PAAF
-T13	PROCEDIMIENTO 2110 2135	determinación citométrica
-T14	PROCEDIMIENTO 2150 2182	fijan en alcohol metílico de 99º
-T15	PROCEDIMIENTO 2212 2254	tinción de Hematoxilina progresiva de Gill
+T1	ENFERMEDAD 2843 2872	carcinoma de células acinares
+T2	ENFERMEDAD 4288 4331	Carcinoma de Células Acinares de bajo grado
+T3	ENFERMEDAD 3551 3577	neoformación microquística
+T4	ENFERMEDAD 643 662	tumor de bajo grado
+T5	ENFERMEDAD 4211 4244	infiltración vascular ni nerviosa
+T6	ENFERMEDAD 1824 1833	carcinoma
+T7	ENFERMEDAD 3246 3260	lesión nodular
+T8	ENFERMEDAD 4149 4158	neoplasia
+T9	PROCEDIMIENTO 677 710	punción aspiración con aguja fina
+T10	PROCEDIMIENTO 133 151	exploración física
+T11	PROCEDIMIENTO 2976 3008	exéresis de la glándula parótida
+T12	PROCEDIMIENTO 3013 3033	vaciamiento cervical
+T13	PROCEDIMIENTO 3513 3536	estudio histopatológico
+T14	PROCEDIMIENTO 461 491	tomografía axial computerizada
+T15	PROCEDIMIENTO 494 503	ecografía
 T16	PROCEDIMIENTO 2789 2808	citometría estática
-T17	PROCEDIMIENTO 2817 2839	diagnóstico citológico
-T18	PROCEDIMIENTO 2934 2957	intervención quirúrgica
-T19	PROCEDIMIENTO 2976 3008	exéresis de la glándula parótida
-T20	PROCEDIMIENTO 3013 3033	vaciamiento cervical
-T21	PROCEDIMIENTO 3303 3312	resección
-T22	PROCEDIMIENTO 3357 3441	Se realizan múltiples secciones paralelas de la muestra, que se incluyen en parafina
-T23	PROCEDIMIENTO 3455 3495	teñir los cortes con hematoxilina-eosina
-T24	PROCEDIMIENTO 3513 3536	estudio histopatológico
-T25	PROCEDIMIENTO 3994 4008	tinción de PAS
+T17	PROCEDIMIENTO 3994 4008	tinción de PAS
+T18	PROCEDIMIENTO 1866 1941	cuantificación de ADN por citometría de imagen sobre extendidos citológicos
+T19	PROCEDIMIENTO 1956 1962	frotis
+T20	PROCEDIMIENTO 1987 1994	punción
+T21	PROCEDIMIENTO 2056 2060	PAAF
+T22	PROCEDIMIENTO 2150 2182	fijan en alcohol metílico de 99º
+T23	PROCEDIMIENTO 2212 2254	tinción de Hematoxilina progresiva de Gill
+T24	PROCEDIMIENTO 2934 2957	intervención quirúrgica
+T25	PROCEDIMIENTO 3303 3312	resección
 T26	PROCEDIMIENTO 4183 4192	resección
-T27	PROCEDIMIENTO 431 448	pruebas de imagen
-T28	PROCEDIMIENTO 461 491	tomografía axial computerizada
-T29	PROCEDIMIENTO 494 503	ecografía
-T30	PROCEDIMIENTO 677 710	punción aspiración con aguja fina
-T31	PROCEDIMIENTO 738 838	método rutinario de 3 pases con aguja de 23G, y ayuda del Cameco® (dispositivo de aspiración manual)
-T32	PROCEDIMIENTO 852 939	se fijan en alcohol 2 portaobjetos para ser teñidos mediante la técnica de Papanicolaou
-T33	PROCEDIMIENTO 945 1016	resto (6 portas) se secan al aire para emplear la tinción de Diff-Quick
+T27	PROCEDIMIENTO 738 838	método rutinario de 3 pases con aguja de 23G, y ayuda del Cameco® (dispositivo de aspiración manual)
+T28	PROCEDIMIENTO 852 939	se fijan en alcohol 2 portaobjetos para ser teñidos mediante la técnica de Papanicolaou
+T29	PROCEDIMIENTO 945 1016	resto (6 portas) se secan al aire para emplear la tinción de Diff-Quick
+T30	PROCEDIMIENTO 1021 1045	examen de los extendidos
+T31	PROCEDIMIENTO 1707 1724	imagen citológica
+T32	PROCEDIMIENTO 2110 2135	determinación citométrica
+T33	PROCEDIMIENTO 2257 2434	Por medio del software TEXCAN® y a través de una cámara de vídeo integrada en el microscopio, que capta escalas de grises, se determinan los parámetros biológicos más relevantes
+T34	PROCEDIMIENTO 2817 2839	diagnóstico citológico
+T35	PROCEDIMIENTO 3357 3441	Se realizan múltiples secciones paralelas de la muestra, que se incluyen en parafina
+T36	PROCEDIMIENTO 3455 3495	teñir los cortes con hematoxilina-eosina
+T37	PROCEDIMIENTO 431 448	pruebas de imagen
+T38	SINTOMA 53 118	tumoración palpable, dolorosa a la presión en región preauricular
+T39	SINTOMA 164 209	masa mal delimitada de 2 cm en área parotídea
+T40	SINTOMA 518 528	tumoración
+T41	SINTOMA 591 628	afecta estructuras óseas o musculares
+T42	SINTOMA 352 358	nódulo

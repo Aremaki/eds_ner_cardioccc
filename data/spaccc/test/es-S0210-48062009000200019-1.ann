@@ -1,53 +1,54 @@
-T1	SINTOMA 69 87	dolor hipogástrico
-T2	SINTOMA 89 95	fiebre
-T3	SINTOMA 98 105	disuria
-T4	SINTOMA 579 593	microhematuria
-T5	SINTOMA 2575 2587	asintomático
-T6	SINTOMA 2640 2647	fallece
-T7	SINTOMA 2652 2665	muerte súbita
-T8	SINTOMA 1621 1648	alteración a nivel colónico
-T9	SINTOMA 1224 1404	cultivos seriados se aislan Leuconostoc spp, Streptococcus intermedius, Clostridium perfringens, Escherichia Coli, Bacteroides ovatus, Corynebacterium spp. y Pseudomonas aeruginosa
-T10	SINTOMA 1524 1562	enema opaco, que no aporta información
-T11	SINTOMA 2061 2129	estudio anátomo-patológico intraoperatorio, descartándose malignidad
-T12	SINTOMA 809 865	imagen con nivel líquido de 15 x 9 x 8 cm en hipogastrio
-T13	SINTOMA 476 519	leucocitos con marcada desviación izquierda
-T14	SINTOMA 2157 2270	linfadenectomía ilio-ceco-apendicular (con diagnóstico intraoperatorio por congelación de ausencia de malignidad)
-T15	SINTOMA 1840 1919	masa independiente de vejiga, intensamente adherida a asas intestinales y ciego
-T16	SINTOMA 352 436	masa palpable, dolorosa, de gran tamaño, que ocupa hipogastrio y ambas fosas ilíacas
-T17	SINTOMA 1688 1710	mucosa vesical intacta
-T18	SINTOMA 598 636	nitritos positivos en la tira reactiva
-T19	SINTOMA 977 997	proceso neoformativo
-T20	ENFERMEDAD 1059 1084	quiste de uraco infectado
-T21	ENFERMEDAD 2448 2481	infección de la herida quirúrgica
-T22	ENFERMEDAD 170 191	hipertensión arterial
-T23	ENFERMEDAD 221 233	hiperlipemia
-T24	ENFERMEDAD 268 281	hiperuricemia
-T25	ENFERMEDAD 2349 2393	cistoadenoma mucinoso (mucocele) apendicular
-T26	ENFERMEDAD 697 719	absceso en hipogastrio
-T27	ENFERMEDAD 2652 2684	muerte súbita de origen cardíaco
-T28	ENFERMEDAD 977 997	proceso neoformativo
-T29	ENFERMEDAD 954 961	absceso
-T30	ENFERMEDAD 1783 1789	lesión
-T31	PROCEDIMIENTO 1059 1115	quiste de uraco infectado, se realiza drenaje percutáneo
-T32	PROCEDIMIENTO 1120 1155	toma de muestras para microbiología
-T33	PROCEDIMIENTO 1170 1215	antibioterapia intravenosa de amplio espectro
-T34	PROCEDIMIENTO 1224 1241	cultivos seriados
-T35	PROCEDIMIENTO 1462 1464	TC
-T36	PROCEDIMIENTO 1524 1535	enema opaco
-T37	PROCEDIMIENTO 1591 1603	colonoscopia
-T38	PROCEDIMIENTO 1651 1662	cistoscopia
-T39	PROCEDIMIENTO 1753 1776	laparotomía exploradora
-T40	PROCEDIMIENTO 1805 1822	laparotomía media
-T41	PROCEDIMIENTO 1938 1946	exéresis
-T42	PROCEDIMIENTO 2061 2103	estudio anátomo-patológico intraoperatorio
-T43	PROCEDIMIENTO 2157 2194	linfadenectomía ilio-ceco-apendicular
-T44	PROCEDIMIENTO 2200 2243	diagnóstico intraoperatorio por congelación
-T45	PROCEDIMIENTO 2273 2309	resección segmentaria apéndico-cecal
-T46	PROCEDIMIENTO 2314 2336	diagnóstico patológico
-T47	PROCEDIMIENTO 2516 2528	intervención
-T48	PROCEDIMIENTO 2615 2622	cirugía
-T49	PROCEDIMIENTO 318 336	exploración física
-T50	PROCEDIMIENTO 441 460	analítica de sangre
-T51	PROCEDIMIENTO 525 556	análisis del sedimento urinario
-T52	PROCEDIMIENTO 654 673	ecografía abdominal
-T53	PROCEDIMIENTO 773 792	TC abdómino-pélvica
+T1	ENFERMEDAD 1059 1084	quiste de uraco infectado
+T2	ENFERMEDAD 2448 2481	infección de la herida quirúrgica
+T3	ENFERMEDAD 170 191	hipertensión arterial
+T4	ENFERMEDAD 221 233	hiperlipemia
+T5	ENFERMEDAD 268 281	hiperuricemia
+T6	ENFERMEDAD 2349 2393	cistoadenoma mucinoso (mucocele) apendicular
+T7	ENFERMEDAD 697 719	absceso en hipogastrio
+T8	ENFERMEDAD 2652 2684	muerte súbita de origen cardíaco
+T9	ENFERMEDAD 977 997	proceso neoformativo
+T10	ENFERMEDAD 954 961	absceso
+T11	ENFERMEDAD 1783 1789	lesión
+T12	PROCEDIMIENTO 1059 1115	quiste de uraco infectado, se realiza drenaje percutáneo
+T13	PROCEDIMIENTO 1753 1776	laparotomía exploradora
+T14	PROCEDIMIENTO 1462 1464	TC
+T15	PROCEDIMIENTO 1524 1535	enema opaco
+T16	PROCEDIMIENTO 1170 1215	antibioterapia intravenosa de amplio espectro
+T17	PROCEDIMIENTO 1591 1603	colonoscopia
+T18	PROCEDIMIENTO 2157 2194	linfadenectomía ilio-ceco-apendicular
+T19	PROCEDIMIENTO 1651 1662	cistoscopia
+T20	PROCEDIMIENTO 318 336	exploración física
+T21	PROCEDIMIENTO 2273 2309	resección segmentaria apéndico-cecal
+T22	PROCEDIMIENTO 441 460	analítica de sangre
+T23	PROCEDIMIENTO 525 556	análisis del sedimento urinario
+T24	PROCEDIMIENTO 654 673	ecografía abdominal
+T25	PROCEDIMIENTO 773 792	TC abdómino-pélvica
+T26	PROCEDIMIENTO 2061 2103	estudio anátomo-patológico intraoperatorio
+T27	PROCEDIMIENTO 1938 1946	exéresis
+T28	PROCEDIMIENTO 1120 1155	toma de muestras para microbiología
+T29	PROCEDIMIENTO 1805 1822	laparotomía media
+T30	PROCEDIMIENTO 2157 2194	linfadenectomía ilio-ceco-apendicular
+T31	PROCEDIMIENTO 2314 2336	diagnóstico patológico
+T32	PROCEDIMIENTO 1224 1241	cultivos seriados
+T33	PROCEDIMIENTO 2200 2243	diagnóstico intraoperatorio por congelación
+T34	PROCEDIMIENTO 2615 2622	cirugía
+T35	PROCEDIMIENTO 2516 2528	intervención
+T36	SINTOMA 69 87	dolor hipogástrico
+T37	SINTOMA 89 95	fiebre
+T38	SINTOMA 98 105	disuria
+T39	SINTOMA 1840 1919	masa independiente de vejiga, intensamente adherida a asas intestinales y ciego
+T40	SINTOMA 1621 1648	alteración a nivel colónico
+T41	SINTOMA 352 436	masa palpable, dolorosa, de gran tamaño, que ocupa hipogastrio y ambas fosas ilíacas
+T42	SINTOMA 476 519	leucocitos con marcada desviación izquierda
+T43	SINTOMA 579 593	microhematuria
+T44	SINTOMA 598 636	nitritos positivos en la tira reactiva
+T45	SINTOMA 2575 2587	asintomático
+T46	SINTOMA 1688 1710	mucosa vesical intacta
+T47	SINTOMA 2061 2129	estudio anátomo-patológico intraoperatorio, descartándose malignidad
+T48	SINTOMA 809 865	imagen con nivel líquido de 15 x 9 x 8 cm en hipogastrio
+T49	SINTOMA 1224 1404	cultivos seriados se aislan Leuconostoc spp, Streptococcus intermedius, Clostridium perfringens, Escherichia Coli, Bacteroides ovatus, Corynebacterium spp. y Pseudomonas aeruginosa
+T50	SINTOMA 1524 1562	enema opaco, que no aporta información
+T51	SINTOMA 2640 2647	fallece
+T52	SINTOMA 977 997	proceso neoformativo
+T53	SINTOMA 2157 2270	linfadenectomía ilio-ceco-apendicular (con diagnóstico intraoperatorio por congelación de ausencia de malignidad)
+T54	SINTOMA 2652 2665	muerte súbita

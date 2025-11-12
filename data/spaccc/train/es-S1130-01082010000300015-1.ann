@@ -1,20 +1,32 @@
-T1	SINTOMA 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación
-T2	SINTOMA 299 306	afebril
-T3	SINTOMA 776 835	desplazamiento de los vasos renales y sistema pielocalicial
-T4	SINTOMA 183 198	dolor abdominal
-T5	SINTOMA 1013 1021	falleció
-T6	SINTOMA 626 649	función hepática normal
-T7	SINTOMA 309 334	hemodinámicamente estable
-T8	SINTOMA 995 999	masa
-T9	SINTOMA 704 708	masa
-T10	SINTOMA 212 235	síndrome constitucional
-T11	SINTOMA 1117 1127	tumoración
-T12	SINTOMA 414 444	tumoración en flanco izquierdo
-T13	ENFERMEDAD 45 85	diabetes mellitus no insulinodependiente
-T14	ENFERMEDAD 87 108	hipertensión arterial
-T15	ENFERMEDAD 110 120	dislipemia
-T16	ENFERMEDAD 123 152	fibrilación auricular crónica
-T17	ENFERMEDAD 865 885	uropatía obstructiva
-T18	ENFERMEDAD 1060 1081	edema agudo de pulmón
-T19	ENFERMEDAD 1314 1331	liposarcoma mixto
-T20	ENFERMEDAD 889 911	afectación metastásica
+T1	ENFERMEDAD 45 85	diabetes mellitus no insulinodependiente
+T2	ENFERMEDAD 87 108	hipertensión arterial
+T3	ENFERMEDAD 110 120	dislipemia
+T4	ENFERMEDAD 123 152	fibrilación auricular crónica
+T5	ENFERMEDAD 865 885	uropatía obstructiva
+T6	ENFERMEDAD 1060 1081	edema agudo de pulmón
+T7	ENFERMEDAD 1314 1331	liposarcoma mixto
+T8	ENFERMEDAD 889 911	afectación metastásica
+T9	PROCEDIMIENTO 266 284	exploración física
+T10	PROCEDIMIENTO 626 642	función hepática
+T11	PROCEDIMIENTO 654 693	tomografía computerizada (TC) abdominal
+T12	PROCEDIMIENTO 680 682	TC
+T13	PROCEDIMIENTO 937 966	nefrectomía radical izquierda
+T14	PROCEDIMIENTO 1236 1247	nefrectomía
+T15	PROCEDIMIENTO 1086 1105	anatomía patológica
+T16	PROCEDIMIENTO 971 979	exéresis
+T17	PROCEDIMIENTO 449 458	analítica
+T18	PROCEDIMIENTO 916 923	cirugía
+T19	PROCEDIMIENTO 1035 1042	cirugía
+T20	PROCEDIMIENTO 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación
+T21	SINTOMA 183 198	dolor abdominal
+T22	SINTOMA 212 235	síndrome constitucional
+T23	SINTOMA 299 306	afebril
+T24	SINTOMA 309 334	hemodinámicamente estable
+T25	SINTOMA 414 444	tumoración en flanco izquierdo
+T26	SINTOMA 704 708	masa
+T27	SINTOMA 995 999	masa
+T28	SINTOMA 626 649	función hepática normal
+T29	SINTOMA 776 835	desplazamiento de los vasos renales y sistema pielocalicial
+T30	SINTOMA 1117 1127	tumoración
+T31	SINTOMA 1013 1021	falleció
+T32	SINTOMA 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación

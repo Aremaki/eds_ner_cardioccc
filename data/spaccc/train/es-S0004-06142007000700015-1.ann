@@ -1,19 +1,25 @@
-T1	SINTOMA 307 333	cistografía que fué normal
-T2	SINTOMA 149 165	escapes urinario
-T3	SINTOMA 382 413	imágenes quísticas parapiélicas
-T4	SINTOMA 1081 1110	leve síntomatologia miccional
-T5	SINTOMA 652 678	masa hipodensa suprarrenal
-T6	SINTOMA 721 758	normalidad de la glándula suprarrenal
-T7	SINTOMA 85 96	polaquiuria
-T8	SINTOMA 62 80	síndrome miccional
-T9	SINTOMA 136 144	urgencia
-T10	SINTOMA 170 197	urocultivo resultó negativo
-T11	SINTOMA 456 475	vejiga sin lesiones
-T12	ENFERMEDAD 391 413	quísticas parapiélicas
-T13	ENFERMEDAD 524 531	quistes
-T14	ENFERMEDAD 581 616	quiste parapiélico en riñón derecho
-T15	ENFERMEDAD 765 780	lesión quística
-T16	ENFERMEDAD 997 1024	linfangioma renal bilateral
-T17	ENFERMEDAD 1174 1186	lesión renal
-T18	ENFERMEDAD 467 475	lesiones
-T19	ENFERMEDAD 870 910	celda renal izquierda existía una lesión
+T1	ENFERMEDAD 391 413	quísticas parapiélicas
+T2	ENFERMEDAD 524 531	quistes
+T3	ENFERMEDAD 581 616	quiste parapiélico en riñón derecho
+T4	ENFERMEDAD 765 780	lesión quística
+T5	ENFERMEDAD 997 1024	linfangioma renal bilateral
+T6	ENFERMEDAD 1174 1186	lesión renal
+T7	ENFERMEDAD 467 475	lesiones
+T8	ENFERMEDAD 870 910	celda renal izquierda existía una lesión
+T9	PROCEDIMIENTO 170 180	urocultivo
+T10	PROCEDIMIENTO 219 251	tratamiento con anticolinérgicos
+T11	PROCEDIMIENTO 307 318	cistografía
+T12	PROCEDIMIENTO 336 357	ecografía renovesical
+T13	PROCEDIMIENTO 544 557	TAC-abdominal
+T14	PROCEDIMIENTO 691 711	resonancia magnética
+T15	SINTOMA 85 96	polaquiuria
+T16	SINTOMA 170 197	urocultivo resultó negativo
+T17	SINTOMA 307 333	cistografía que fué normal
+T18	SINTOMA 652 678	masa hipodensa suprarrenal
+T19	SINTOMA 721 758	normalidad de la glándula suprarrenal
+T20	SINTOMA 1081 1110	leve síntomatologia miccional
+T21	SINTOMA 62 80	síndrome miccional
+T22	SINTOMA 456 475	vejiga sin lesiones
+T23	SINTOMA 382 413	imágenes quísticas parapiélicas
+T24	SINTOMA 136 144	urgencia
+T25	SINTOMA 149 165	escapes urinario

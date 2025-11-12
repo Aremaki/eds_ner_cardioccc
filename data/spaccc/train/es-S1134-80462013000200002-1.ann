@@ -1,18 +1,60 @@
-T1	SINTOMA 1998 2014	clínica dolorosa
-T2	SINTOMA 1473 1496	cortejo neurovegetativo
-T3	SINTOMA 100 158	dolor intenso refractario, secundario a espasmos vesicales
-T4	SINTOMA 310 327	dolor suprapúbico
-T5	SINTOMA 1419 1448	dolor suprapúbico tipo cólico
-T6	SINTOMA 1143 1180	engrosamiento parietal difuso vesical
-T7	SINTOMA 2517 2532	espasmo vesical
-T8	SINTOMA 1740 1758	espasmos vesicales
-T9	SINTOMA 3248 3276	espasmos vesicales dolorosos
-T10	SINTOMA 59 86	hiperactividad del detrusor
-T11	SINTOMA 461 475	lumbociatalgia
-T12	SINTOMA 329 354	portador de sonda uretral
-T13	SINTOMA 1499 1536	reflujo de líquido vesical hematúrico
-T14	SINTOMA 987 1014	signos de "vejiga de lucha"
-T15	SINTOMA 2467 2475	dolorosa
-T16	SINTOMA 3675 3680	dolor
-T17	SINTOMA 3580 3589	hematuria
-T18	SINTOMA 272 294	hematuria macroscópica
+T1	ENFERMEDAD 31 57	disfunción vesical crónica
+T2	ENFERMEDAD 272 294	hematuria macroscópica
+T3	ENFERMEDAD 388 412	retención aguda de orina
+T4	ENFERMEDAD 488 518	protusiones discales lumbares,
+T5	ENFERMEDAD 519 530	urolitiasis
+T6	ENFERMEDAD 580 606	síndrome miccional crónico
+T7	ENFERMEDAD 649 680	hipertrofia benigna de próstata
+T8	ENFERMEDAD 998 1013	vejiga de lucha
+T9	ENFERMEDAD 1029 1049	uropatía obstructiva
+T10	ENFERMEDAD 1118 1140	hipertrofia prostática
+T11	ENFERMEDAD 1197 1221	hipertrofia del detrusor
+T12	ENFERMEDAD 1329 1352	coágulos intravesicales
+T13	ENFERMEDAD 1740 1790	espasmos vesicales por hiperactividad del detrusor
+T14	PROCEDIMIENTO 341 354	sonda uretral
+T15	PROCEDIMIENTO 189 212	lavado continuo vesical
+T16	PROCEDIMIENTO 550 574	litotricia extracorpórea
+T17	PROCEDIMIENTO 687 705	biopsia prostática
+T18	PROCEDIMIENTO 773 811	resecciones transuretrales prostáticas
+T19	PROCEDIMIENTO 946 971	ecografía abdominopélvica
+T20	PROCEDIMIENTO 1056 1110	tomografía computarizada abdominopélvica con contraste
+T21	PROCEDIMIENTO 1236 1308	cambio de sonda uretral por una sonda adaptada a lavado vesical continuo
+T22	PROCEDIMIENTO 1268 1352	sonda adaptada a lavado vesical continuo, para disolución de coágulos intravesicales
+T23	PROCEDIMIENTO 1382 1396	lavado vesical
+T24	PROCEDIMIENTO 1568 1582	lavado vesical
+T25	PROCEDIMIENTO 2049 2063	lavado vesical
+T26	PROCEDIMIENTO 2078 2153	colocación de un catéter epidural lumbar en el espacio intervertebral L3-L4
+T27	PROCEDIMIENTO 2399 2415	bloqueo epidural
+T28	PROCEDIMIENTO 2550 2593	bloqueo sensitivo a nivel del dermatoma T12
+T29	PROCEDIMIENTO 2603 2616	bloqueo motor
+T30	PROCEDIMIENTO 2902 2922	anestesia intradural
+T31	PROCEDIMIENTO 2929 2965	adenomectomía prostática retropúbica
+T32	PROCEDIMIENTO 3011 3035	analgesia postoperatoria
+T33	PROCEDIMIENTO 3191 3218	lavados continuos vesicales
+T34	PROCEDIMIENTO 3439 3455	catéter epidural
+T35	PROCEDIMIENTO 3461 3503	heparinización profiláctica postoperatoria
+T36	PROCEDIMIENTO 3688 3704	bloqueo epidural
+T37	PROCEDIMIENTO 3747 3761	espasmolíticos
+T38	PROCEDIMIENTO 3526 3564	lavado vesical continuo postoperatorio
+T39	PROCEDIMIENTO 2270 2322	perfusión de levobupivacaína al 0,125% con fentanilo
+T40	PROCEDIMIENTO 2789 2798	analgesia
+T41	PROCEDIMIENTO 908 938	estudio con técnicas de imagen
+T42	PROCEDIMIENTO 2726 2742	catéter epidural
+T43	SINTOMA 59 86	hiperactividad del detrusor
+T44	SINTOMA 310 327	dolor suprapúbico
+T45	SINTOMA 100 158	dolor intenso refractario, secundario a espasmos vesicales
+T46	SINTOMA 329 354	portador de sonda uretral
+T47	SINTOMA 461 475	lumbociatalgia
+T48	SINTOMA 1143 1180	engrosamiento parietal difuso vesical
+T49	SINTOMA 1419 1448	dolor suprapúbico tipo cólico
+T50	SINTOMA 1473 1496	cortejo neurovegetativo
+T51	SINTOMA 1499 1536	reflujo de líquido vesical hematúrico
+T52	SINTOMA 1998 2014	clínica dolorosa
+T53	SINTOMA 2467 2475	dolorosa
+T54	SINTOMA 2517 2532	espasmo vesical
+T55	SINTOMA 3248 3276	espasmos vesicales dolorosos
+T56	SINTOMA 3675 3680	dolor
+T57	SINTOMA 1740 1758	espasmos vesicales
+T58	SINTOMA 3580 3589	hematuria
+T59	SINTOMA 272 294	hematuria macroscópica
+T60	SINTOMA 987 1014	signos de "vejiga de lucha"

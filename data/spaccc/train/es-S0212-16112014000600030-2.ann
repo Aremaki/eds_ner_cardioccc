@@ -1,15 +1,25 @@
-T1	SINTOMA 1569 1587	déficit vitamínico
-T2	SINTOMA 426 446	hipertrigliceridemia
-T3	SINTOMA 1322 1335	menos apetito
-T4	SINTOMA 646 659	mucho apetito
-T5	SINTOMA 731 742	perder peso
-T6	SINTOMA 1290 1297	vómitos
-T7	ENFERMEDAD 106 114	obesidad
-T8	ENFERMEDAD 169 183	lesión medular
-T9	ENFERMEDAD 227 283	fractura vertebral y paraplejia incompleta a nivel de L1
-T10	ENFERMEDAD 334 355	hipertensión arterial
-T11	ENFERMEDAD 1569 1587	déficit vitamínico
-T12	ENFERMEDAD 426 446	hipertrigliceridemia
-T13	ENFERMEDAD 189 206	accidente laboral
-T14	ENFERMEDAD 285 292	Fumador
-T15	ENFERMEDAD 1235 1270	complicaciones en el postoperatorio
+T1	ENFERMEDAD 106 114	obesidad
+T2	ENFERMEDAD 169 183	lesión medular
+T3	ENFERMEDAD 227 283	fractura vertebral y paraplejia incompleta a nivel de L1
+T4	ENFERMEDAD 334 355	hipertensión arterial
+T5	ENFERMEDAD 1569 1587	déficit vitamínico
+T6	ENFERMEDAD 426 446	hipertrigliceridemia
+T7	ENFERMEDAD 189 206	accidente laboral
+T8	ENFERMEDAD 285 292	Fumador
+T9	ENFERMEDAD 1235 1270	complicaciones en el postoperatorio
+T10	PROCEDIMIENTO 1097 1147	Bypass gástrico en Y de Roux por vía laparoscópica
+T11	PROCEDIMIENTO 52 66	Rehabilitación
+T12	PROCEDIMIENTO 470 488	anamnesis dirigida
+T13	PROCEDIMIENTO 1343 1368	dieta líquida fraccionada
+T14	PROCEDIMIENTO 1459 1481	tratamiento hipotensor
+T15	PROCEDIMIENTO 1593 1633	suplementación de un complejo vitamínico
+T16	PROCEDIMIENTO 847 856	analítica
+T17	PROCEDIMIENTO 1049 1056	cirugía
+T18	PROCEDIMIENTO 1184 1191	cirugía
+T19	PROCEDIMIENTO 760 771	exploración
+T20	SINTOMA 646 659	mucho apetito
+T21	SINTOMA 731 742	perder peso
+T22	SINTOMA 1290 1297	vómitos
+T23	SINTOMA 426 446	hipertrigliceridemia
+T24	SINTOMA 1322 1335	menos apetito
+T25	SINTOMA 1569 1587	déficit vitamínico

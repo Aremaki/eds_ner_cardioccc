@@ -1,21 +1,22 @@
-T1	SINTOMA 705 715	exoftalmos
-T2	SINTOMA 486 546	Exploración biomicroscópica del segmento anterior era normal
-T3	SINTOMA 1033 1047	leve proptosis
-T4	SINTOMA 631 687	Movimientos oculares externos, sin hallazgos patológicos
-T5	SINTOMA 587 629	Presión intraocular normal en los dos ojos
-T6	SINTOMA 692 701	proptosis
-T7	SINTOMA 717 753	Pupilas isocóricas y normorreactivas
-T8	SINTOMA 1053 1104	visión de la paciente ha disminuido a 0,9 en el ojo
-T9	ENFERMEDAD 55 79	neurofibromatosis tipo 1
-T10	ENFERMEDAD 823 847	glioma del nervio óptico
-T11	ENFERMEDAD 1033 1047	leve proptosis
-T12	ENFERMEDAD 705 715	exoftalmos
-T13	ENFERMEDAD 692 701	proptosis
-T14	PROCEDIMIENTO 122 150	oftalmología para valoración
-T15	PROCEDIMIENTO 171 198	cribado de otras patologías
-T16	PROCEDIMIENTO 273 315	resonancia magnética nuclear (RMN) craneal
-T17	PROCEDIMIENTO 303 306	RMN
-T18	PROCEDIMIENTO 383 394	exploración
-T19	PROCEDIMIENTO 498 535	biomicroscópica del segmento anterior
-T20	PROCEDIMIENTO 560 585	funduscopia en ambos ojos
-T21	PROCEDIMIENTO 761 792	estudio con neuroimagen con RMN
+T1	ENFERMEDAD 55 79	neurofibromatosis tipo 1
+T2	ENFERMEDAD 823 847	glioma del nervio óptico
+T3	ENFERMEDAD 1033 1047	leve proptosis
+T4	ENFERMEDAD 705 715	exoftalmos
+T5	ENFERMEDAD 692 701	proptosis
+T6	PROCEDIMIENTO 273 315	resonancia magnética nuclear (RMN) craneal
+T7	PROCEDIMIENTO 498 535	biomicroscópica del segmento anterior
+T8	PROCEDIMIENTO 560 585	funduscopia en ambos ojos
+T9	PROCEDIMIENTO 761 792	estudio con neuroimagen con RMN
+T10	PROCEDIMIENTO 303 306	RMN
+T11	PROCEDIMIENTO 122 150	oftalmología para valoración
+T12	PROCEDIMIENTO 171 198	cribado de otras patologías
+T13	PROCEDIMIENTO 383 394	exploración
+T14	SINTOMA 717 753	Pupilas isocóricas y normorreactivas
+T15	SINTOMA 587 629	Presión intraocular normal en los dos ojos
+T16	SINTOMA 486 546	Exploración biomicroscópica del segmento anterior era normal
+T17	SINTOMA 631 687	Movimientos oculares externos, sin hallazgos patológicos
+T18	SINTOMA 692 701	proptosis
+T19	SINTOMA 705 715	exoftalmos
+T20	SINTOMA 1033 1047	leve proptosis
+T21	SINTOMA 413 452	agudeza visual sin corrección en el ojo
+T22	SINTOMA 1053 1104	visión de la paciente ha disminuido a 0,9 en el ojo

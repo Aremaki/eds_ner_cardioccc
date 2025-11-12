@@ -1,13 +1,47 @@
-T1	SINTOMA 1861 1932	administración de gadolinio se observó una discreta captación del mismo
-T2	SINTOMA 1176 1191	contenido graso
-T3	SINTOMA 1211 1255	discreta captación heterogénea del contraste
-T4	SINTOMA 2868 2894	hematopoyesis extramedular
-T5	SINTOMA 924 928	masa
-T6	SINTOMA 2133 2239	masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
-T7	SINTOMA 2058 2081	masas retroperitoneales
-T8	SINTOMA 141 147	pT1 G3
-T9	SINTOMA 1460 1524	técnica de supresión grasa demostró una discreta hiperintensidad
-T10	SINTOMA 2433 2443	tumoración
-T11	SINTOMA 2570 2588	tumoración adiposa
-T12	SINTOMA 1968 1984	tumoración grasa
-T13	SINTOMA 1674 1851	zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia T1 y de mayor intensidad en la supresión grasa
+T1	ENFERMEDAD 340 357	neoplasia vesical
+T2	ENFERMEDAD 70 139	neoplasia vesical de células transicionales superficial de alto grado
+T3	ENFERMEDAD 490 536	lesión nodular heterogénea con contenido graso
+T4	ENFERMEDAD 1077 1104	liposarcoma retroperitoneal
+T5	ENFERMEDAD 274 277	HTA
+T6	ENFERMEDAD 279 290	EPOC severo
+T7	ENFERMEDAD 293 316	miocardiopatía dilatada
+T8	ENFERMEDAD 2736 2767	mielolipoma prevertebral lumbar
+T9	ENFERMEDAD 725 758	lesión hiperecoica retroperitonal
+T10	ENFERMEDAD 2916 2959	síndrome mielodisplásico-mieloproliferativo
+T11	ENFERMEDAD 3069 3109	mielolipoma extraadrenal retroperitoneal
+T12	ENFERMEDAD 241 248	fumador
+T13	ENFERMEDAD 1176 1204	contenido graso de la lesión
+T14	ENFERMEDAD 1635 1641	lesión
+T15	ENFERMEDAD 1999 2010	liposarcoma
+T16	ENFERMEDAD 2298 2304	lesión
+T17	PROCEDIMIENTO 37 87	resección transuretral (RTU) por neoplasia vesical
+T18	PROCEDIMIENTO 873 875	TC
+T19	PROCEDIMIENTO 372 437	tomografía computarizada (TC) abdominal sin contraste intravenoso
+T20	PROCEDIMIENTO 1861 1888	administración de gadolinio
+T21	PROCEDIMIENTO 1116 1158	resonancia magnética (RM) con gadolinio IV
+T22	PROCEDIMIENTO 686 705	ecografía abdominal
+T23	PROCEDIMIENTO 2403 2428	estudio anatomopatológico
+T24	PROCEDIMIENTO 2789 2811	estudio de médula ósea
+T25	PROCEDIMIENTO 2540 2550	histología
+T26	PROCEDIMIENTO 2102 2147	Se extirpa quirúrgicamente una masa reniforme
+T27	PROCEDIMIENTO 1261 1274	secuencias T1
+T28	PROCEDIMIENTO 1460 1486	técnica de supresión grasa
+T29	PROCEDIMIENTO 1795 1807	secuencia T1
+T30	PROCEDIMIENTO 1836 1851	supresión grasa
+T31	PROCEDIMIENTO 3010 3036	análisis de la médula ósea
+T32	PROCEDIMIENTO 2093 2100	cirugía
+T33	PROCEDIMIENTO 1941 1964	diagnóstico radiológico
+T34	SINTOMA 924 928	masa
+T35	SINTOMA 141 147	pT1 G3
+T36	SINTOMA 2868 2894	hematopoyesis extramedular
+T37	SINTOMA 1968 1984	tumoración grasa
+T38	SINTOMA 2433 2443	tumoración
+T39	SINTOMA 2570 2588	tumoración adiposa
+T40	SINTOMA 2058 2081	masas retroperitoneales
+T41	SINTOMA 1176 1191	contenido graso
+T42	SINTOMA 1211 1255	discreta captación heterogénea del contraste
+T43	SINTOMA 1406 1442	menor intensidad en el polo superior
+T44	SINTOMA 1460 1524	técnica de supresión grasa demostró una discreta hiperintensidad
+T45	SINTOMA 1674 1851	zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia T1 y de mayor intensidad en la supresión grasa
+T46	SINTOMA 1861 1932	administración de gadolinio se observó una discreta captación del mismo
+T47	SINTOMA 2133 2239	masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior

@@ -1,32 +1,33 @@
-T1	SINTOMA 876 899	apertura bucal limitada
-T2	SINTOMA 306 361	aumento del volumen en la región submandibular dolorosa
-T3	SINTOMA 779 863	aumento del volumen severo con predominio de la región submentoniana y submandibular
-T4	SINTOMA 1128 1205	aumento del volumen severo del piso de la boca y espacio sublingual bilateral
-T5	SINTOMA 1616 1678	disminución de la luz de las vías aéreas de la región cervical
-T6	SINTOMA 756 774	escleras ictéricas
-T7	SINTOMA 1117 1126	halitosis
-T8	SINTOMA 364 381	hipertermia local
-T9	SINTOMA 1520 1562	imagen isodensa en el espacio parafaríngeo
-T10	SINTOMA 248 282	odontalgia de incisivos inferiores
-T11	SINTOMA 284 292	disfagia
-T12	SINTOMA 294 304	odinofagia
-T13	SINTOMA 620 632	leucocitosis
-T14	SINTOMA 654 665	neutrofilia
-T15	ENFERMEDAD 79 100	hipertensión arterial
-T16	ENFERMEDAD 114 138	enfermedad renal crónica
-T17	ENFERMEDAD 962 998	edentulismo parcial maxilomandibular
-T18	ENFERMEDAD 1712 1728	angina de Ludwig
-T19	ENFERMEDAD 1000 1043	enfermedad periodontal crónica generalizada
-T20	ENFERMEDAD 1210 1221	glosoptosis
-T21	ENFERMEDAD 284 292	disfagia
-T22	PROCEDIMIENTO 1468 1492	tomografía computarizada
-T23	PROCEDIMIENTO 178 190	hemodiálisis
-T24	PROCEDIMIENTO 1996 2005	exodoncia
-T25	PROCEDIMIENTO 2024 2104	drenaje quirúrgico de los espacios sublinguales, submandibulares y submentoniano
-T26	PROCEDIMIENTO 2134 2211	incisión submentoniana y submandibular bilateral inferior al basal mandibular
-T27	PROCEDIMIENTO 2277 2312	drenajes pasivos con sonda Nellaton
-T28	PROCEDIMIENTO 2329 2363	lavados diarios de solución salina
-T29	PROCEDIMIENTO 2429 2447	drenaje quirúrgico
-T30	PROCEDIMIENTO 2468 2487	terapia antibiótica
-T31	PROCEDIMIENTO 730 743	examen físico
-T32	PROCEDIMIENTO 931 948	examen intrabucal
+T1	ENFERMEDAD 79 100	hipertensión arterial
+T2	ENFERMEDAD 114 138	enfermedad renal crónica
+T3	ENFERMEDAD 962 998	edentulismo parcial maxilomandibular
+T4	ENFERMEDAD 1712 1728	angina de Ludwig
+T5	ENFERMEDAD 1000 1043	enfermedad periodontal crónica generalizada
+T6	ENFERMEDAD 1210 1221	glosoptosis
+T7	ENFERMEDAD 284 292	disfagia
+T8	PROCEDIMIENTO 730 743	examen físico
+T9	PROCEDIMIENTO 1468 1492	tomografía computarizada
+T10	PROCEDIMIENTO 2429 2447	drenaje quirúrgico
+T11	PROCEDIMIENTO 2468 2487	terapia antibiótica
+T12	PROCEDIMIENTO 178 190	hemodiálisis
+T13	PROCEDIMIENTO 931 948	examen intrabucal
+T14	PROCEDIMIENTO 1996 2005	exodoncia
+T15	PROCEDIMIENTO 2024 2104	drenaje quirúrgico de los espacios sublinguales, submandibulares y submentoniano
+T16	PROCEDIMIENTO 2134 2211	incisión submentoniana y submandibular bilateral inferior al basal mandibular
+T17	PROCEDIMIENTO 2329 2363	lavados diarios de solución salina
+T18	PROCEDIMIENTO 2277 2312	drenajes pasivos con sonda Nellaton
+T19	SINTOMA 756 774	escleras ictéricas
+T20	SINTOMA 779 863	aumento del volumen severo con predominio de la región submentoniana y submandibular
+T21	SINTOMA 876 899	apertura bucal limitada
+T22	SINTOMA 248 282	odontalgia de incisivos inferiores
+T23	SINTOMA 284 292	disfagia
+T24	SINTOMA 294 304	odinofagia
+T25	SINTOMA 306 361	aumento del volumen en la región submandibular dolorosa
+T26	SINTOMA 1097 1115	irritantes locales
+T27	SINTOMA 1117 1126	halitosis
+T28	SINTOMA 1128 1205	aumento del volumen severo del piso de la boca y espacio sublingual bilateral
+T29	SINTOMA 620 632	leucocitosis
+T30	SINTOMA 654 665	neutrofilia
+T31	SINTOMA 1520 1562	imagen isodensa en el espacio parafaríngeo
+T32	SINTOMA 1616 1678	disminución de la luz de las vías aéreas de la región cervical
+T33	SINTOMA 364 381	hipertermia local

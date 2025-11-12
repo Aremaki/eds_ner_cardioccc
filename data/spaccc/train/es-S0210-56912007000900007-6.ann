@@ -1,21 +1,24 @@
-T1	SINTOMA 396 417	abdomen estaba blando
-T2	SINTOMA 351 363	bradipsiquia
-T3	SINTOMA 114 129	diarrea intensa
-T4	SINTOMA 423 431	doloroso
-T5	SINTOMA 1105 1145	infiltración de la grasa peripancreática
-T6	SINTOMA 1150 1173	líquido libre abdominal
-T7	SINTOMA 999 1050	normalidad del calcio iónico y de los triglicéridos
-T8	SINTOMA 372 391	respondía a órdenes
-T9	SINTOMA 339 348	taquipnea
-T10	SINTOMA 132 139	vómitos
-T11	ENFERMEDAD 59 76	fallo renal agudo
-T12	ENFERMEDAD 190 211	hipertensión arterial
-T13	ENFERMEDAD 214 216	DM
-T14	ENFERMEDAD 1189 1207	pancreatitis aguda
-T15	ENFERMEDAD 1247 1259	pancreatitis
-T16	ENFERMEDAD 1272 1292	hipertrigliceridemia
-T17	ENFERMEDAD 1294 1307	hipercalcemia
-T18	ENFERMEDAD 1309 1320	alcoholismo
-T19	ENFERMEDAD 1322 1337	litiasis biliar
-T20	ENFERMEDAD 1150 1173	líquido libre abdominal
-T21	ENFERMEDAD 323 337	deshidratación
+T1	ENFERMEDAD 59 76	fallo renal agudo
+T2	ENFERMEDAD 190 211	hipertensión arterial
+T3	ENFERMEDAD 214 216	DM
+T4	ENFERMEDAD 1189 1207	pancreatitis aguda
+T5	ENFERMEDAD 1247 1259	pancreatitis
+T6	ENFERMEDAD 1272 1292	hipertrigliceridemia
+T7	ENFERMEDAD 1294 1307	hipercalcemia
+T8	ENFERMEDAD 1309 1320	alcoholismo
+T9	ENFERMEDAD 1322 1337	litiasis biliar
+T10	ENFERMEDAD 1150 1173	líquido libre abdominal
+T11	ENFERMEDAD 323 337	deshidratación
+T12	PROCEDIMIENTO 816 828	hemodiálisis
+T13	PROCEDIMIENTO 1056 1090	tomografía computarizada abdominal
+T14	PROCEDIMIENTO 284 295	exploración
+T15	SINTOMA 114 129	diarrea intensa
+T16	SINTOMA 132 139	vómitos
+T17	SINTOMA 339 348	taquipnea
+T18	SINTOMA 351 363	bradipsiquia
+T19	SINTOMA 423 431	doloroso
+T20	SINTOMA 372 391	respondía a órdenes
+T21	SINTOMA 396 417	abdomen estaba blando
+T22	SINTOMA 1105 1145	infiltración de la grasa peripancreática
+T23	SINTOMA 1150 1173	líquido libre abdominal
+T24	SINTOMA 999 1050	normalidad del calcio iónico y de los triglicéridos

@@ -1,10 +1,44 @@
-T1	SINTOMA 1995 2003	acidosis
-T2	SINTOMA 1850 1875	anastomosis un buen pulso
-T3	SINTOMA 1775 1781	anuria
-T4	SINTOMA 1125 1131	anuria
-T5	SINTOMA 1042 1083	arteriografia renal de control fue normal
-T6	SINTOMA 1880 1899	diuresis espontánea
-T7	SINTOMA 1978 1992	hiperpotasemia
-T8	SINTOMA 748 823	permeabilidad de eje celíaco, arteria renal izquierda, mesentérica superior
-T9	SINTOMA 2058 2090	permeabilidad de la endoprótesis
-T10	SINTOMA 2205 2231	tensiones bien controladas
+T1	ENFERMEDAD 202 230	carcinoma de células renales
+T2	ENFERMEDAD 232 235	HTA
+T3	ENFERMEDAD 264 289	IAM inferolateral antiguo
+T4	ENFERMEDAD 294 313	cardiopatía silente
+T5	ENFERMEDAD 336 358	ectasia aórtica difusa
+T6	ENFERMEDAD 580 647	dilatación aneurismática afecta a ambas arterias ilíacas primitivas
+T7	ENFERMEDAD 674 734	aneurisma fusiforme de 13 mm en arteria hipogástrica derecha
+T8	ENFERMEDAD 57 131	aneurisma de aorta abdominal infrarrenal y de arteria hipogástrica derecha
+T9	ENFERMEDAD 365 389	dilatación aneurismática
+T10	ENFERMEDAD 435 476	arteria renal izquierda, con trombo mural
+T11	ENFERMEDAD 1995 2003	acidosis
+T12	ENFERMEDAD 1978 1992	hiperpotasemia
+T13	ENFERMEDAD 2124 2165	estenosis en la anastomosis esplenorrenal
+T14	ENFERMEDAD 826 866	oclusión de arteria mesentérica inferior
+T15	ENFERMEDAD 1252 1348	oclusión total del óstium de la arteria renal izquierda por migración craneal de la endoprótesis
+T16	PROCEDIMIENTO 895 990	colocándose endoprótesis aórtica (Quantum Cordis®) 36-12 con extensión a ambas arterias ilíacas
+T17	PROCEDIMIENTO 1961 1973	hemodiálisis
+T18	PROCEDIMIENTO 1172 1195	perfusión de diuréticos
+T19	PROCEDIMIENTO 1200 1213	arteriografía
+T20	PROCEDIMIENTO 993 1037	embolización de arteria hipogástrica derecha
+T21	PROCEDIMIENTO 2011 2020	Angio RMN
+T22	PROCEDIMIENTO 170 189	nefrectomía derecha
+T23	PROCEDIMIENTO 1042 1061	arteriografia renal
+T24	PROCEDIMIENTO 2140 2165	anastomosis esplenorrenal
+T25	PROCEDIMIENTO 1360 1425	cirugía de revascularización urgente mediante shunt esplenorrenal
+T26	PROCEDIMIENTO 318 323	DIVAS
+T27	PROCEDIMIENTO 1502 1539	disección de pedículo renal izquierdo
+T28	PROCEDIMIENTO 1560 1601	reperfusión renal mediante ringer lactato
+T29	PROCEDIMIENTO 1610 1663	anastomosis término-terminal con la arteria esplénica
+T30	PROCEDIMIENTO 1706 1727	reperfusión del riñón
+T31	PROCEDIMIENTO 826 866	oclusión de arteria mesentérica inferior
+T32	PROCEDIMIENTO 1430 1487	lumbotomia posterolateral izquierda a nivel XIIª costilla
+T33	PROCEDIMIENTO 37 44	cirugía
+T34	PROCEDIMIENTO 1101 1113	intervención
+T35	SINTOMA 1880 1899	diuresis espontánea
+T36	SINTOMA 1125 1131	anuria
+T37	SINTOMA 1978 1992	hiperpotasemia
+T38	SINTOMA 1995 2003	acidosis
+T39	SINTOMA 1042 1083	arteriografia renal de control fue normal
+T40	SINTOMA 1775 1781	anuria
+T41	SINTOMA 748 823	permeabilidad de eje celíaco, arteria renal izquierda, mesentérica superior
+T42	SINTOMA 2058 2090	permeabilidad de la endoprótesis
+T43	SINTOMA 1850 1875	anastomosis un buen pulso
+T44	SINTOMA 2205 2231	tensiones bien controladas

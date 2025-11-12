@@ -1,12 +1,19 @@
-T1	SINTOMA 1224 1272	pruebas cutáneas realizadas resultaron negativas
-T2	SINTOMA 2533 2548	prurito cutáneo
-T3	SINTOMA 478 498	sensación distérmica
-T4	SINTOMA 500 506	fiebre
-T5	SINTOMA 544 551	prurito
-T6	ENFERMEDAD 42 45	LLC
-T7	ENFERMEDAD 1009 1043	reacción cutánea a la bendamustina
-T8	ENFERMEDAD 1048 1060	toxicodermia
-T9	ENFERMEDAD 1377 1389	toxicodermia
-T10	ENFERMEDAD 517 539	reacción urticariforme
-T11	ENFERMEDAD 554 578	eritrodermia descamativa
-T12	ENFERMEDAD 751 788	reacción alérgica a dicho citostático
+T1	ENFERMEDAD 42 45	LLC
+T2	ENFERMEDAD 1009 1043	reacción cutánea a la bendamustina
+T3	ENFERMEDAD 1048 1060	toxicodermia
+T4	ENFERMEDAD 1377 1389	toxicodermia
+T5	ENFERMEDAD 517 539	reacción urticariforme
+T6	ENFERMEDAD 554 578	eritrodermia descamativa
+T7	ENFERMEDAD 751 788	reacción alérgica a dicho citostático
+T8	PROCEDIMIENTO 58 90	tratamiento inmunoquimioterápico
+T9	PROCEDIMIENTO 2465 2501	inmunoquimioterapia con bendamustina
+T10	PROCEDIMIENTO 1224 1240	pruebas cutáneas
+T11	PROCEDIMIENTO 407 433	ciclo inmunoquimioterápico
+T12	PROCEDIMIENTO 672 688	pruebas cutáneas
+T13	PROCEDIMIENTO 2283 2300	desensibilización
+T14	PROCEDIMIENTO 904 931	administración intradérmica
+T15	SINTOMA 2533 2548	prurito cutáneo
+T16	SINTOMA 478 498	sensación distérmica
+T17	SINTOMA 500 506	fiebre
+T18	SINTOMA 544 551	prurito
+T19	SINTOMA 1224 1272	pruebas cutáneas realizadas resultaron negativas

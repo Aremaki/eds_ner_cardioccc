@@ -1,23 +1,63 @@
-T1	SINTOMA 3046 3099	análisis microbiológico confirmó positividad para HVS
-T2	SINTOMA 1257 1275	ángulo era abierto
-T3	SINTOMA 1425 1438	baja estatura
-T4	SINTOMA 885 940	córnea deslustrada de predominio central con leve edema
-T5	SINTOMA 1460 1472	cuello corto
-T6	SINTOMA 1382 1405	dificultad respiratoria
-T7	SINTOMA 39 85	disminución de la agudeza visual (AV) indolora
-T8	SINTOMA 1133 1146	edema corneal
-T9	SINTOMA 2526 2535	hiperemia
-T10	SINTOMA 1836 1857	hiperemia conjuntival
-T11	SINTOMA 853 874	inyección conjuntival
-T12	SINTOMA 1294 1302	neovasos
-T13	SINTOMA 167 175	ojo rojo
-T14	SINTOMA 1156 1188	papila y la mácula eran normales
-T15	SINTOMA 1002 1025	precipitados queráticos
-T16	SINTOMA 1194 1209	retina aplicada
-T17	SINTOMA 1029 1038	secreción
-T18	SINTOMA 991 1000	sinequias
-T19	SINTOMA 1281 1290	sinequias
-T20	SINTOMA 1348 1359	somnolencia
-T21	SINTOMA 943 976	tinción negativa con fluoresceína
-T22	SINTOMA 2793 2825	tinción positiva de fluoresceína
-T23	SINTOMA 982 989	Tyndall
+T1	ENFERMEDAD 1501 1520	hipertensión ocular
+T2	ENFERMEDAD 1859 1877	edema corneal leve
+T3	ENFERMEDAD 1879 1898	queratitis punctata
+T4	ENFERMEDAD 2681 2713	enfermedad orbitaria y/o craneal
+T5	ENFERMEDAD 194 207	conjuntivitis
+T6	ENFERMEDAD 2744 2761	úlcera periférica
+T7	ENFERMEDAD 2012 2025	edema corneal
+T8	ENFERMEDAD 1750 1782	síndrome de apnea-hipopnea grave
+T9	ENFERMEDAD 2074 2100	fístula carótido-cavernosa
+T10	ENFERMEDAD 2106 2133	síndrome del ápex orbitario
+T11	ENFERMEDAD 360 377	diabetes mellitus
+T12	ENFERMEDAD 379 400	hipertensión arterial
+T13	ENFERMEDAD 1133 1146	edema corneal
+T14	ENFERMEDAD 402 410	obesidad
+T15	ENFERMEDAD 412 431	esteatosis hepática
+T16	ENFERMEDAD 433 448	hipertiroidismo
+T17	ENFERMEDAD 450 471	cardiopatía isquémica
+T18	ENFERMEDAD 495 522	insuficiencia renal crónica
+T19	ENFERMEDAD 536 557	pielonefritis crónica
+T20	ENFERMEDAD 3126 3150	lesión corneal cicatrizó
+T21	ENFERMEDAD 3170 3177	leucoma
+T22	ENFERMEDAD 1680 1688	glaucoma
+T23	ENFERMEDAD 495 557	insuficiencia renal crónica secundaria a pielonefritis crónica
+T24	ENFERMEDAD 1440 1457	obesidad moderada
+T25	ENFERMEDAD 1214 1222	lesiones
+T26	PROCEDIMIENTO 2569 2580	corticoides
+T27	PROCEDIMIENTO 810 824	biomicroscopia
+T28	PROCEDIMIENTO 1939 1950	paquimetría
+T29	PROCEDIMIENTO 964 976	fluoresceína
+T30	PROCEDIMIENTO 2793 2825	tinción positiva de fluoresceína
+T31	PROCEDIMIENTO 2863 2942	raspado corneal para cultivo y detección de proteína C reactiva de virus herpes
+T32	PROCEDIMIENTO 1083 1095	fondo de ojo
+T33	PROCEDIMIENTO 2158 2188	tomografía axial computarizada
+T34	PROCEDIMIENTO 2190 2193	TAC
+T35	PROCEDIMIENTO 474 490	trasplante renal
+T36	PROCEDIMIENTO 1242 1253	gonioscopia
+T37	PROCEDIMIENTO 3046 3069	análisis microbiológico
+T38	PROCEDIMIENTO 2658 2661	TAC
+T39	PROCEDIMIENTO 745 756	exploración
+T40	PROCEDIMIENTO 1315 1326	exploración
+T41	SINTOMA 2526 2535	hiperemia
+T42	SINTOMA 39 85	disminución de la agudeza visual (AV) indolora
+T43	SINTOMA 1836 1857	hiperemia conjuntival
+T44	SINTOMA 853 874	inyección conjuntival
+T45	SINTOMA 885 940	córnea deslustrada de predominio central con leve edema
+T46	SINTOMA 167 175	ojo rojo
+T47	SINTOMA 991 1000	sinequias
+T48	SINTOMA 1002 1025	precipitados queráticos
+T49	SINTOMA 1257 1275	ángulo era abierto
+T50	SINTOMA 3046 3099	análisis microbiológico confirmó positividad para HVS
+T51	SINTOMA 1281 1290	sinequias
+T52	SINTOMA 1294 1302	neovasos
+T53	SINTOMA 1348 1359	somnolencia
+T54	SINTOMA 1382 1405	dificultad respiratoria
+T55	SINTOMA 1425 1438	baja estatura
+T56	SINTOMA 1460 1472	cuello corto
+T57	SINTOMA 1194 1209	retina aplicada
+T58	SINTOMA 1029 1038	secreción
+T59	SINTOMA 982 989	Tyndall
+T60	SINTOMA 943 976	tinción negativa con fluoresceína
+T61	SINTOMA 1156 1188	papila y la mácula eran normales
+T62	SINTOMA 2793 2825	tinción positiva de fluoresceína
+T63	SINTOMA 1133 1146	edema corneal

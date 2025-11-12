@@ -1,58 +1,86 @@
-T1	SINTOMA 4485 4497	defecto óseo
-T2	SINTOMA 924 936	defecto óseo
-T3	SINTOMA 4468 4480	defecto óseo
-T4	SINTOMA 43 58	dolor de cabeza
-T5	SINTOMA 1952 1962	hemoptisis
-T6	SINTOMA 991 995	masa
-T7	SINTOMA 4826 4844	nódulos pulmonares
-T8	SINTOMA 2033 2054	engrosamiento pleural
-T9	SINTOMA 418 546	estudio de extensión ósea de cuerpo completo y tomografía computarizada (TC) de tórax, abdomen y pelvis que resultaron negativos
-T10	SINTOMA 1997 2023	fibrobroncoscopia negativa
-T11	PROCEDIMIENTO 1108 1133	estudio anatomopatológico
-T12	PROCEDIMIENTO 1621 1652	haber extirpado cuero cabelludo
-T13	PROCEDIMIENTO 1691 1779	ampliar la cirugía y practicar revisión del lecho y resección de isla de cuero cabelludo
-T14	PROCEDIMIENTO 1997 2014	fibrobroncoscopia
-T15	PROCEDIMIENTO 2026 2028	TC
-T16	PROCEDIMIENTO 2148 2158	TC craneal
-T17	PROCEDIMIENTO 2397 2432	resección amplia de cuero cabelludo
-T18	PROCEDIMIENTO 2609 2621	craniectomía
-T19	PROCEDIMIENTO 263 301	termocoagulación de una lesión cutánea
-T20	PROCEDIMIENTO 2751 2780	Retiramos la plastia acrílica
-T21	PROCEDIMIENTO 2782 2807	ampliamos la craniectomía
-T22	PROCEDIMIENTO 2825 2856	resección dural circunferencial
-T23	PROCEDIMIENTO 2872 2922	reparación de la meninge con plastia de Neuropatch
-T24	PROCEDIMIENTO 3029 3069	colgajo libre de músculo recto abdominal
-T25	PROCEDIMIENTO 3121 3175	injerto libre cutáneo de piel parcial sobre el músculo
-T26	PROCEDIMIENTO 3331 3338	colgajo
-T27	PROCEDIMIENTO 3355 3428	anastomosis se hicieron término-terminales a la arteria tiroidea superior
-T28	PROCEDIMIENTO 3403 3520	arteria tiroidea superior, que se rotó posteriormente para llegar al pedículo del colgajo y a la vena yugular externa
+T1	ENFERMEDAD 4565 4633	díploe como dura estaban infiltradas por el carcinoma tricofolicular
+T2	ENFERMEDAD 1145 1154	neoplasia
+T3	ENFERMEDAD 5754 5768	tumor primario
+T4	ENFERMEDAD 1573 1578	tumor
+T5	ENFERMEDAD 1598 1612	lesión cutánea
+T6	ENFERMEDAD 110 179	lesión lítica de 38 x 21 mm que interesa la calota temporal izquierda
+T7	ENFERMEDAD 5853 5869	recidiva tumoral
+T8	ENFERMEDAD 5853 5879	recidiva tumoral, pulmonar
+T9	ENFERMEDAD 3667 3728	carcinoma tricofolicular en tabla interna, díploe y duramadre
+T10	ENFERMEDAD 4940 4961	metástasis pulmonares
+T11	ENFERMEDAD 1437 1482	tumor maligno originado en el folículo piloso
+T12	ENFERMEDAD 1500 1524	carcinoma tricofolicular
+T13	ENFERMEDAD 5073 5140	mestástasis de carcinoma tricofolicular primario de cuero cabelludo
+T14	ENFERMEDAD 2731 2749	infiltración dural
+T15	ENFERMEDAD 3197 3265	tumor en la unión del tercio medio y posterior de la base del cráneo
+T16	ENFERMEDAD 287 301	lesión cutánea
+T17	ENFERMEDAD 3769 3836	infiltraba cuero cabelludo, ni tejido epidural, ni ganglios locales
+T18	ENFERMEDAD 3600 3605	tumor
+T19	ENFERMEDAD 5887 5922	diseminación hacia abdomen o pelvis
+T20	ENFERMEDAD 924 936	defecto óseo
+T21	ENFERMEDAD 2928 2950	defecto óseo y cutáneo
+T22	ENFERMEDAD 4468 4480	defecto óseo
+T23	ENFERMEDAD 4485 4497	defecto óseo
+T24	ENFERMEDAD 3916 3931	lesión parietal
+T25	ENFERMEDAD 2033 2054	engrosamiento pleural
+T26	ENFERMEDAD 2271 2294	diseminación ganglionar
+T27	ENFERMEDAD 2533 2539	lesión
+T28	PROCEDIMIENTO 1108 1133	estudio anatomopatológico
 T29	PROCEDIMIENTO 3525 3572	estudio anatomopatológico de la pieza extirpada
-T30	PROCEDIMIENTO 3864 3887	intervención quirúrgica
-T31	PROCEDIMIENTO 3971 3983	craniectomía
-T32	PROCEDIMIENTO 3997 4004	escáner
-T33	PROCEDIMIENTO 4088 4100	craniectomía
-T34	PROCEDIMIENTO 4123 4167	incisión del borde superior del colgajo TRAM
-T35	PROCEDIMIENTO 418 462	estudio de extensión ósea de cuerpo completo
-T36	PROCEDIMIENTO 4242 4267	Ampliamos la craniectomía
-T37	PROCEDIMIENTO 4376 4450	cierre se realizó con otra plastia de Neuropatch® y craneoplastia acrílica
-T38	PROCEDIMIENTO 465 521	tomografía computarizada (TC) de tórax, abdomen y pelvis
-T39	PROCEDIMIENTO 4675 4701	escáner de control craneal
-T40	PROCEDIMIENTO 4675 4712	escáner de control craneal y torácico
-T41	PROCEDIMIENTO 4826 4902	nódulos pulmonares apicales que fueron extirpados mediante videotoracoscopia
-T42	PROCEDIMIENTO 491 493	TC
-T43	PROCEDIMIENTO 4915 4932	anatomopatológico
-T44	PROCEDIMIENTO 4966 4984	imagen histológica
-T45	PROCEDIMIENTO 5005 5013	biopsias
-T46	PROCEDIMIENTO 5147 5207	tratamiento adyuvante la paciente recibió radioterapia local
-T47	PROCEDIMIENTO 5304 5353	radioterapia externa con modulación de intensidad
-T48	PROCEDIMIENTO 5355 5359	IMRT
-T49	PROCEDIMIENTO 5541 5586	se le administró adyuvancia con quimioterapia
-T50	PROCEDIMIENTO 5601 5648	esquema CDDP-5FU (cisplatino con fluorouracilo)
-T51	PROCEDIMIENTO 564 599	extirpación quirúrgica de la lesión
-T52	PROCEDIMIENTO 5812 5825	quimioterapia
-T53	PROCEDIMIENTO 5833 5835	TC
-T54	PROCEDIMIENTO 652 752	lesión se extirpó con craniectomía circunferencial en bloque incluyendo músculo temporal y su fascia
-T55	PROCEDIMIENTO 877 936	Se moldeó una plastia acrílica de 5 cm para el defecto óseo
-T56	PROCEDIMIENTO 90 97	escáner
-T57	PROCEDIMIENTO 939 985	se practicó cierre directo del cuero cabelludo
-T58	PROCEDIMIENTO 991 1005	masa extirpada
+T30	PROCEDIMIENTO 4675 4701	escáner de control craneal
+T31	PROCEDIMIENTO 4675 4712	escáner de control craneal y torácico
+T32	PROCEDIMIENTO 5541 5586	se le administró adyuvancia con quimioterapia
+T33	PROCEDIMIENTO 5147 5207	tratamiento adyuvante la paciente recibió radioterapia local
+T34	PROCEDIMIENTO 1621 1652	haber extirpado cuero cabelludo
+T35	PROCEDIMIENTO 2397 2432	resección amplia de cuero cabelludo
+T36	PROCEDIMIENTO 5812 5825	quimioterapia
+T37	PROCEDIMIENTO 5833 5835	TC
+T38	PROCEDIMIENTO 3971 3983	craniectomía
+T39	PROCEDIMIENTO 4826 4902	nódulos pulmonares apicales que fueron extirpados mediante videotoracoscopia
+T40	PROCEDIMIENTO 3997 4004	escáner
+T41	PROCEDIMIENTO 5304 5353	radioterapia externa con modulación de intensidad
+T42	PROCEDIMIENTO 4088 4100	craniectomía
+T43	PROCEDIMIENTO 263 301	termocoagulación de una lesión cutánea
+T44	PROCEDIMIENTO 4123 4167	incisión del borde superior del colgajo TRAM
+T45	PROCEDIMIENTO 4242 4267	Ampliamos la craniectomía
+T46	PROCEDIMIENTO 418 462	estudio de extensión ósea de cuerpo completo
+T47	PROCEDIMIENTO 2751 2780	Retiramos la plastia acrílica
+T48	PROCEDIMIENTO 491 493	TC
+T49	PROCEDIMIENTO 465 521	tomografía computarizada (TC) de tórax, abdomen y pelvis
+T50	PROCEDIMIENTO 1997 2014	fibrobroncoscopia
+T51	PROCEDIMIENTO 2782 2807	ampliamos la craniectomía
+T52	PROCEDIMIENTO 2825 2856	resección dural circunferencial
+T53	PROCEDIMIENTO 564 599	extirpación quirúrgica de la lesión
+T54	PROCEDIMIENTO 4376 4450	cierre se realizó con otra plastia de Neuropatch® y craneoplastia acrílica
+T55	PROCEDIMIENTO 2872 2922	reparación de la meninge con plastia de Neuropatch
+T56	PROCEDIMIENTO 2148 2158	TC craneal
+T57	PROCEDIMIENTO 652 752	lesión se extirpó con craniectomía circunferencial en bloque incluyendo músculo temporal y su fascia
+T58	PROCEDIMIENTO 3029 3069	colgajo libre de músculo recto abdominal
+T59	PROCEDIMIENTO 3121 3175	injerto libre cutáneo de piel parcial sobre el músculo
+T60	PROCEDIMIENTO 939 985	se practicó cierre directo del cuero cabelludo
+T61	PROCEDIMIENTO 3331 3338	colgajo
+T62	PROCEDIMIENTO 3355 3428	anastomosis se hicieron término-terminales a la arteria tiroidea superior
+T63	PROCEDIMIENTO 2026 2028	TC
+T64	PROCEDIMIENTO 5005 5013	biopsias
+T65	PROCEDIMIENTO 5355 5359	IMRT
+T66	PROCEDIMIENTO 5601 5648	esquema CDDP-5FU (cisplatino con fluorouracilo)
+T67	PROCEDIMIENTO 877 936	Se moldeó una plastia acrílica de 5 cm para el defecto óseo
+T68	PROCEDIMIENTO 3864 3887	intervención quirúrgica
+T69	PROCEDIMIENTO 90 97	escáner
+T70	PROCEDIMIENTO 991 1005	masa extirpada
+T71	PROCEDIMIENTO 1691 1779	ampliar la cirugía y practicar revisión del lecho y resección de isla de cuero cabelludo
+T72	PROCEDIMIENTO 2609 2621	craniectomía
+T73	PROCEDIMIENTO 3403 3520	arteria tiroidea superior, que se rotó posteriormente para llegar al pedículo del colgajo y a la vena yugular externa
+T74	PROCEDIMIENTO 4915 4932	anatomopatológico
+T75	PROCEDIMIENTO 4966 4984	imagen histológica
+T76	SINTOMA 43 58	dolor de cabeza
+T77	SINTOMA 4826 4844	nódulos pulmonares
+T78	SINTOMA 4468 4480	defecto óseo
+T79	SINTOMA 4485 4497	defecto óseo
+T80	SINTOMA 924 936	defecto óseo
+T81	SINTOMA 1952 1962	hemoptisis
+T82	SINTOMA 991 995	masa
+T83	SINTOMA 418 546	estudio de extensión ósea de cuerpo completo y tomografía computarizada (TC) de tórax, abdomen y pelvis que resultaron negativos
+T84	SINTOMA 1997 2023	fibrobroncoscopia negativa
+T85	SINTOMA 2201 2224	cambios postquirúrgicos
+T86	SINTOMA 2033 2054	engrosamiento pleural

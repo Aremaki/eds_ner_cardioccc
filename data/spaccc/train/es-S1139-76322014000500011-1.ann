@@ -1,40 +1,59 @@
-T1	SINTOMA 1714 1731	anti-DNA negativo
-T2	SINTOMA 1636 1676	anticuerpos antinucleares (ANA) positivo
-T3	SINTOMA 1176 1280	aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor
-T4	SINTOMA 520 536	clínica urinaria
-T5	SINTOMA 1300 1311	crepitación
-T6	SINTOMA 790 822	desarrollo psicomotor era normal
-T7	SINTOMA 228 279	dolor e inflamación del quinto metatarsiano del pie
-T8	SINTOMA 370 412	dolor e inflamación en el dorso de la mano
-T9	SINTOMA 2720 2740	ecografía fue normal
-T10	SINTOMA 1345 1380	exploración por aparatos fue normal
-T11	SINTOMA 1686 1712	factor reumatoide negativo
-T12	SINTOMA 81 89	gonalgia
-T13	SINTOMA 653 704	impotencia funcional para mantener la bipedestación
-T14	SINTOMA 2583 2630	inflamación y el dolor en la rodilla y el tarso
-T15	SINTOMA 2219 2322	negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C
-T16	SINTOMA 2354 2420	normales en las pruebas tiroideas, el uroanálisis y la coagulación
-T17	SINTOMA 1061 1078	peloteo rotuliano
-T18	SINTOMA 1443 1487	radiografías en todo momento fueron normales
-T19	SINTOMA 971 1043	rodilla derecha con dolor, inflamación y movilidad limitada a la flexión
-T20	SINTOMA 102 122	signos inflamatorios
-T21	SINTOMA 1048 1053	dolor
-T22	SINTOMA 567 574	afebril
-T23	SINTOMA 1396 1405	exantemas
-T24	SINTOMA 916 940	aceptable estado general
-T25	SINTOMA 1873 1889	cultivo negativo
-T26	SINTOMA 1537 1549	leucocitosis
-T27	SINTOMA 1553 1564	neutrofilia
-T28	SINTOMA 1505 1518	trombocitosis
-T29	SINTOMA 1422 1437	visceromegalias
-T30	ENFERMEDAD 2499 2533	artritis de rodilla derecha ANA(+)
-T31	ENFERMEDAD 2545 2548	AIJ
-T32	ENFERMEDAD 463 480	procesos gripales
-T33	ENFERMEDAD 490 516	infección gastrointestinal
-T34	ENFERMEDAD 1407 1418	adenopatías
-T35	ENFERMEDAD 1422 1437	visceromegalias
-T36	ENFERMEDAD 1286 1296	deformidad
-T37	ENFERMEDAD 2307 2322	hepatitis B y C
-T38	ENFERMEDAD 142 154	traumatismos
-T39	ENFERMEDAD 1317 1340	déficit vasculonervioso
-T40	ENFERMEDAD 1396 1405	exantemas
+T1	ENFERMEDAD 2499 2533	artritis de rodilla derecha ANA(+)
+T2	ENFERMEDAD 2545 2548	AIJ
+T3	ENFERMEDAD 463 480	procesos gripales
+T4	ENFERMEDAD 490 516	infección gastrointestinal
+T5	ENFERMEDAD 1407 1418	adenopatías
+T6	ENFERMEDAD 1422 1437	visceromegalias
+T7	ENFERMEDAD 1286 1296	deformidad
+T8	ENFERMEDAD 2307 2322	hepatitis B y C
+T9	ENFERMEDAD 142 154	traumatismos
+T10	ENFERMEDAD 1317 1340	déficit vasculonervioso
+T11	ENFERMEDAD 1396 1405	exantemas
+T12	PROCEDIMIENTO 1744 1780	artrocentesis (bioquímica y cultivo)
+T13	PROCEDIMIENTO 2118 2139	estudio oftalmológico
+T14	PROCEDIMIENTO 2668 2684	ecografía de pie
+T15	PROCEDIMIENTO 2687 2715	infiltración con corticoides
+T16	PROCEDIMIENTO 2720 2729	ecografía
+T17	PROCEDIMIENTO 2297 2322	serología hepatitis B y C
+T18	PROCEDIMIENTO 2370 2387	pruebas tiroideas
+T19	PROCEDIMIENTO 2392 2403	uroanálisis
+T20	PROCEDIMIENTO 1443 1455	radiografías
+T21	PROCEDIMIENTO 2409 2420	coagulación
+T22	PROCEDIMIENTO 1873 1880	cultivo
+T23	PROCEDIMIENTO 1489 1498	Analítica
+T24	PROCEDIMIENTO 2099 2108	analítica
+T25	PROCEDIMIENTO 2181 2190	analítica
+T26	PROCEDIMIENTO 948 959	exploración
+T27	PROCEDIMIENTO 1345 1369	exploración por aparatos
+T28	PROCEDIMIENTO 2776 2788	infiltración
+T29	SINTOMA 81 89	gonalgia
+T30	SINTOMA 102 122	signos inflamatorios
+T31	SINTOMA 2583 2630	inflamación y el dolor en la rodilla y el tarso
+T32	SINTOMA 228 279	dolor e inflamación del quinto metatarsiano del pie
+T33	SINTOMA 971 1043	rodilla derecha con dolor, inflamación y movilidad limitada a la flexión
+T34	SINTOMA 1048 1053	dolor
+T35	SINTOMA 1061 1078	peloteo rotuliano
+T36	SINTOMA 370 412	dolor e inflamación en el dorso de la mano
+T37	SINTOMA 1081 1163	inflamación leve con dolor del quinto metacarpofalángico de la mano derecha, y pie
+T38	SINTOMA 1176 1280	aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor
+T39	SINTOMA 520 536	clínica urinaria
+T40	SINTOMA 567 574	afebril
+T41	SINTOMA 653 704	impotencia funcional para mantener la bipedestación
+T42	SINTOMA 1396 1405	exantemas
+T43	SINTOMA 916 940	aceptable estado general
+T44	SINTOMA 1873 1889	cultivo negativo
+T45	SINTOMA 1686 1712	factor reumatoide negativo
+T46	SINTOMA 1537 1549	leucocitosis
+T47	SINTOMA 1553 1564	neutrofilia
+T48	SINTOMA 1505 1518	trombocitosis
+T49	SINTOMA 1300 1311	crepitación
+T50	SINTOMA 1345 1380	exploración por aparatos fue normal
+T51	SINTOMA 1443 1487	radiografías en todo momento fueron normales
+T52	SINTOMA 1636 1676	anticuerpos antinucleares (ANA) positivo
+T53	SINTOMA 1714 1731	anti-DNA negativo
+T54	SINTOMA 1792 1812	líquido inflamatorio
+T55	SINTOMA 2219 2322	negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C
+T56	SINTOMA 2354 2420	normales en las pruebas tiroideas, el uroanálisis y la coagulación
+T57	SINTOMA 2720 2740	ecografía fue normal
+T58	SINTOMA 790 822	desarrollo psicomotor era normal
+T59	SINTOMA 1422 1437	visceromegalias

@@ -1,45 +1,45 @@
-T1	SINTOMA 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
-T2	SINTOMA 1123 1169	engrosamiento de la pared intestinal en yeyuno
-T3	SINTOMA 286 297	escalofríos
-T4	SINTOMA 278 284	fiebre
-T5	SINTOMA 481 506	hemorragia digestiva baja
-T6	SINTOMA 300 307	melenas
-T7	SINTOMA 332 343	neutropenia
-T8	SINTOMA 367 380	plaquetopenia
-T9	SINTOMA 1485 1514	plastrón localizado en yeyuno
-T10	SINTOMA 2076 2140	positivas con las técnicas de PAS y plata metanamina para hongos
-T11	SINTOMA 714 729	sangrado activo
-T12	SINTOMA 2244 2248	vivo
-T13	ENFERMEDAD 44 157	linfoma de Hodgkin clásico, variedad celularidad mixta, estadio IV-B con afectación medular, hepática y esplénica
-T14	ENFERMEDAD 1485 1553	plastrón localizado en yeyuno con afectación de mesocolon transverso
-T15	ENFERMEDAD 1565 1595	perforación cubierta de yeyuno
-T16	ENFERMEDAD 300 307	melenas
-T17	ENFERMEDAD 1654 1823	yeyuno e íleon mostró ulceración e intensa inflamación aguda y crónica con doble perforación y adherencia de asas, secundarias a infección por Zigomicetos del tipo mucor
-T18	ENFERMEDAD 417 449	insuficiencia respiratoria aguda
-T19	ENFERMEDAD 1783 1823	infección por Zigomicetos del tipo mucor
-T20	ENFERMEDAD 481 506	hemorragia digestiva baja
-T21	ENFERMEDAD 511 529	shock hipovolémico
-T22	ENFERMEDAD 624 660	yeyuno proximal, una gran ulceración
-T23	ENFERMEDAD 2254 2261	linfoma
-T24	ENFERMEDAD 1085 1097	mucormicosis
-T25	ENFERMEDAD 1206 1252	lesiones hipodensas en ambos lóbulos hepáticos
-T26	ENFERMEDAD 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
-T27	ENFERMEDAD 801 807	úlcera
-T28	ENFERMEDAD 822 882	fragmentos de mucosa de intestino delgado, algunos ulcerados
-T29	PROCEDIMIENTO 1103 1105	TC
-T30	PROCEDIMIENTO 1367 1389	control de la glucemia
+T1	ENFERMEDAD 44 157	linfoma de Hodgkin clásico, variedad celularidad mixta, estadio IV-B con afectación medular, hepática y esplénica
+T2	ENFERMEDAD 1485 1553	plastrón localizado en yeyuno con afectación de mesocolon transverso
+T3	ENFERMEDAD 1565 1595	perforación cubierta de yeyuno
+T4	ENFERMEDAD 300 307	melenas
+T5	ENFERMEDAD 1654 1823	yeyuno e íleon mostró ulceración e intensa inflamación aguda y crónica con doble perforación y adherencia de asas, secundarias a infección por Zigomicetos del tipo mucor
+T6	ENFERMEDAD 417 449	insuficiencia respiratoria aguda
+T7	ENFERMEDAD 1783 1823	infección por Zigomicetos del tipo mucor
+T8	ENFERMEDAD 481 506	hemorragia digestiva baja
+T9	ENFERMEDAD 511 529	shock hipovolémico
+T10	ENFERMEDAD 624 660	yeyuno proximal, una gran ulceración
+T11	ENFERMEDAD 2254 2261	linfoma
+T12	ENFERMEDAD 1085 1097	mucormicosis
+T13	ENFERMEDAD 1206 1252	lesiones hipodensas en ambos lóbulos hepáticos
+T14	ENFERMEDAD 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
+T15	ENFERMEDAD 801 807	úlcera
+T16	ENFERMEDAD 822 882	fragmentos de mucosa de intestino delgado, algunos ulcerados
+T17	PROCEDIMIENTO 1367 1389	control de la glucemia
+T18	PROCEDIMIENTO 178 210	quimioterapia (BEACOPP escalado)
+T19	PROCEDIMIENTO 242 255	quimioterapia
+T20	PROCEDIMIENTO 1600 1625	estudio anatomopatológico
+T21	PROCEDIMIENTO 1641 1668	resección de yeyuno e íleon
+T22	PROCEDIMIENTO 543 553	intubación
+T23	PROCEDIMIENTO 556 584	transfusión de hemoderivados
+T24	PROCEDIMIENTO 590 605	endoscopia alta
+T25	PROCEDIMIENTO 734 773	estudio anatomopatológico de la biopsia
+T26	PROCEDIMIENTO 1103 1105	TC
+T27	PROCEDIMIENTO 2106 2109	PAS
+T28	PROCEDIMIENTO 2112 2128	plata metanamina
+T29	PROCEDIMIENTO 315 324	analítica
+T30	PROCEDIMIENTO 193 200	BEACOPP
 T31	PROCEDIMIENTO 1403 1410	cirugía
-T32	PROCEDIMIENTO 1440 1467	intervenido quirúrgicamente
-T33	PROCEDIMIENTO 1600 1625	estudio anatomopatológico
-T34	PROCEDIMIENTO 1641 1668	resección de yeyuno e íleon
-T35	PROCEDIMIENTO 178 210	quimioterapia (BEACOPP escalado)
-T36	PROCEDIMIENTO 193 200	BEACOPP
-T37	PROCEDIMIENTO 2106 2109	PAS
-T38	PROCEDIMIENTO 2112 2128	plata metanamina
-T39	PROCEDIMIENTO 2195 2202	cirugía
-T40	PROCEDIMIENTO 242 255	quimioterapia
-T41	PROCEDIMIENTO 315 324	analítica
-T42	PROCEDIMIENTO 543 553	intubación
-T43	PROCEDIMIENTO 556 584	transfusión de hemoderivados
-T44	PROCEDIMIENTO 590 605	endoscopia alta
-T45	PROCEDIMIENTO 734 773	estudio anatomopatológico de la biopsia
+T32	PROCEDIMIENTO 2195 2202	cirugía
+T33	PROCEDIMIENTO 1440 1467	intervenido quirúrgicamente
+T34	SINTOMA 278 284	fiebre
+T35	SINTOMA 286 297	escalofríos
+T36	SINTOMA 332 343	neutropenia
+T37	SINTOMA 367 380	plaquetopenia
+T38	SINTOMA 2076 2140	positivas con las técnicas de PAS y plata metanamina para hongos
+T39	SINTOMA 300 307	melenas
+T40	SINTOMA 714 729	sangrado activo
+T41	SINTOMA 481 506	hemorragia digestiva baja
+T42	SINTOMA 1123 1169	engrosamiento de la pared intestinal en yeyuno
+T43	SINTOMA 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
+T44	SINTOMA 1485 1514	plastrón localizado en yeyuno
+T45	SINTOMA 2244 2248	vivo

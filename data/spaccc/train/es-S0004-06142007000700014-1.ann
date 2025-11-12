@@ -1,13 +1,23 @@
-T1	SINTOMA 1209 1217	falleció
-T2	SINTOMA 931 940	sangrante
-T3	SINTOMA 223 266	formación excrecente y abigarrada en glande
-T4	SINTOMA 122 134	masa peneana
-T5	SINTOMA 331 397	Se palpaban adenopatías fijas y duras en ambas regiones inguinales
-T6	ENFERMEDAD 21 42	alérgico a penicilina
-T7	ENFERMEDAD 79 91	endocarditis
-T8	ENFERMEDAD 260 308	glande, que deformaba meato, con áreas ulceradas
-T9	ENFERMEDAD 343 397	adenopatías fijas y duras en ambas regiones inguinales
-T10	ENFERMEDAD 477 512	adenopatías pulmonares e inguinales
-T11	ENFERMEDAD 551 568	neoplasia de pene
-T12	ENFERMEDAD 679 742	sarcoma pleomórfico de pene con diferenciación osteosarcomatosa
-T13	ENFERMEDAD 1016 1041	insuficiencia renal aguda
+T1	ENFERMEDAD 21 42	alérgico a penicilina
+T2	ENFERMEDAD 79 91	endocarditis
+T3	ENFERMEDAD 260 308	glande, que deformaba meato, con áreas ulceradas
+T4	ENFERMEDAD 343 397	adenopatías fijas y duras en ambas regiones inguinales
+T5	ENFERMEDAD 477 512	adenopatías pulmonares e inguinales
+T6	ENFERMEDAD 551 568	neoplasia de pene
+T7	ENFERMEDAD 679 742	sarcoma pleomórfico de pene con diferenciación osteosarcomatosa
+T8	ENFERMEDAD 1016 1041	insuficiencia renal aguda
+T9	PROCEDIMIENTO 49 74	recambio valvular aórtico
+T10	PROCEDIMIENTO 190 208	exploración física
+T11	PROCEDIMIENTO 331 397	Se palpaban adenopatías fijas y duras en ambas regiones inguinales
+T12	PROCEDIMIENTO 402 422	radiografía de tórax
+T13	PROCEDIMIENTO 428 448	TAC abdomino-pélvico
+T14	PROCEDIMIENTO 582 624	penectomía parcial con margen de seguridad
+T15	PROCEDIMIENTO 629 648	anatomía patológica
+T16	PROCEDIMIENTO 817 830	quimioterapia
+T17	PROCEDIMIENTO 1046 1073	colocó sonda de cistostomía
+T18	PROCEDIMIENTO 1104 1116	sueroterapia
+T19	SINTOMA 122 134	masa peneana
+T20	SINTOMA 931 940	sangrante
+T21	SINTOMA 223 266	formación excrecente y abigarrada en glande
+T22	SINTOMA 1209 1217	falleció
+T23	SINTOMA 331 397	Se palpaban adenopatías fijas y duras en ambas regiones inguinales

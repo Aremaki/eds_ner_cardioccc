@@ -1,6 +1,43 @@
-T1	SINTOMA 1469 1499	deterioro de su estado general
-T2	SINTOMA 1430 1453	dificultad respiratoria
-T3	SINTOMA 1551 1578	ensanchamiento mediastínico
-T4	SINTOMA 1256 1267	fiebre alta
-T5	SINTOMA 1300 1319	diarrea persistente
-T6	SINTOMA 50 94	disminución bilateral y progresiva de visión
+T1	ENFERMEDAD 187 218	hepatopatía crónica por virus C
+T2	ENFERMEDAD 224 252	síndrome autoinmune de Evans
+T3	ENFERMEDAD 254 300	púrpura trombocitopénica autoinmune con anemia
+T4	ENFERMEDAD 583 613	catarata subcapsular posterior
+T5	ENFERMEDAD 1269 1297	adenopatías laterocervicales
+T6	ENFERMEDAD 693 803	desprendimiento neurosensorial y de epitelio pigmentario de la retina (EPR) en el polo posterior de ambos ojos
+T7	ENFERMEDAD 1600 1622	adenopatías cervicales
+T8	ENFERMEDAD 1636 1689	linfoma B difuso de célula grande con marcador CD20 +
+T9	ENFERMEDAD 1713 1757	linfoma no Hodgkin B difuso de célula grande
+T10	ENFERMEDAD 1066 1122	desprendimientos que afectaban a la mácula de ambos ojos
+T11	ENFERMEDAD 2036 2070	desprendimiento sensorial y de EPR
+T12	ENFERMEDAD 2081 2107	cicatrices retinocoroideas
+T13	ENFERMEDAD 2227 2234	linfoma
+T14	ENFERMEDAD 2518 2526	catarata
+T15	ENFERMEDAD 2414 2430	desprendimientos
+T16	ENFERMEDAD 1300 1319	diarrea persistente
+T17	ENFERMEDAD 828 836	lesiones
+T18	ENFERMEDAD 949 983	lesiones periféricas cicatriciales
+T19	ENFERMEDAD 2305 2313	lesiones
+T20	PROCEDIMIENTO 459 484	exploración oftalmológica
+T21	PROCEDIMIENTO 1142 1164	angiofluoresceingrafia
+T22	PROCEDIMIENTO 547 567	Biomicroscópicamente
+T23	PROCEDIMIENTO 648 659	funduscopia
+T24	PROCEDIMIENTO 342 355	esplenectomía
+T25	PROCEDIMIENTO 1368 1382	corticoterapia
+T26	PROCEDIMIENTO 1510 1513	TAC
+T27	PROCEDIMIENTO 1585 1622	biopsia de las adenopatías cervicales
+T28	PROCEDIMIENTO 1005 1036	tomografía óptica de coherencia
+T29	PROCEDIMIENTO 1038 1041	OCT
+T30	PROCEDIMIENTO 1797 1820	ciclos de quimioterapia
+T31	PROCEDIMIENTO 1821 1825	CHOP
+T32	PROCEDIMIENTO 1854 1880	tratamiento quimioterápico
+T33	PROCEDIMIENTO 2175 2188	quimioterapia
+T34	PROCEDIMIENTO 2239 2242	TAC
+T35	PROCEDIMIENTO 2245 2256	gammagrafía
+T36	PROCEDIMIENTO 2376 2379	OCT
+T37	PROCEDIMIENTO 2502 2526	intervención de catarata
+T38	SINTOMA 50 94	disminución bilateral y progresiva de visión
+T39	SINTOMA 1430 1453	dificultad respiratoria
+T40	SINTOMA 1469 1499	deterioro de su estado general
+T41	SINTOMA 1551 1578	ensanchamiento mediastínico
+T42	SINTOMA 1300 1319	diarrea persistente
+T43	SINTOMA 1256 1267	fiebre alta

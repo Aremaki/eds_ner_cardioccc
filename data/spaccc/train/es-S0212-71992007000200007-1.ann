@@ -1,23 +1,44 @@
-T1	SINTOMA 64 71	cefalea
-T2	SINTOMA 1352 1359	cefalea
-T3	SINTOMA 2274 2281	fallece
-T4	SINTOMA 73 79	fiebre
-T5	SINTOMA 647 653	fiebre
-T6	SINTOMA 1321 1327	fiebre
-T7	SINTOMA 938 949	neutropenia
-T8	SINTOMA 1387 1403	signos meníngeos
-T9	SINTOMA 975 1007	exámenes virológicos (negativos)
-T10	SINTOMA 1478 1531	LCR muestra un incremento del número total de células
-T11	SINTOMA 664 685	palidez cutaneomucosa
-T12	SINTOMA 2065 2119	positivo el hemocultivo a Sterotrophomonas maltophilia
-T13	ENFERMEDAD 91 103	pancitopenia
-T14	ENFERMEDAD 139 152	LNH di tipo B
-T15	ENFERMEDAD 447 469	enfermedad linfomatosa
-T16	ENFERMEDAD 517 531	mielodisplasia
-T17	ENFERMEDAD 921 933	pancitopenia
-T18	ENFERMEDAD 1100 1120	ipertensión cerebral
-T19	ENFERMEDAD 1762 1781	metaplasia mieloide
-T20	ENFERMEDAD 2258 2271	coma cerebral
-T21	ENFERMEDAD 558 581	infiltración neoplásica
-T22	ENFERMEDAD 688 702	esplenomegalia
-T23	ENFERMEDAD 1063 1071	lesiones
+T1	ENFERMEDAD 91 103	pancitopenia
+T2	ENFERMEDAD 139 152	LNH di tipo B
+T3	ENFERMEDAD 447 469	enfermedad linfomatosa
+T4	ENFERMEDAD 517 531	mielodisplasia
+T5	ENFERMEDAD 921 933	pancitopenia
+T6	ENFERMEDAD 1100 1120	ipertensión cerebral
+T7	ENFERMEDAD 1762 1781	metaplasia mieloide
+T8	ENFERMEDAD 2258 2271	coma cerebral
+T9	ENFERMEDAD 558 581	infiltración neoplásica
+T10	ENFERMEDAD 688 702	esplenomegalia
+T11	ENFERMEDAD 1063 1071	lesiones
+T12	PROCEDIMIENTO 184 221	quemioterapia según el esquema CHOP-R
+T13	PROCEDIMIENTO 341 355	autotrasplante
+T14	PROCEDIMIENTO 403 417	TAC total body
+T15	PROCEDIMIENTO 482 502	biopsia osteomedular
+T16	PROCEDIMIENTO 617 634	exploración físic
+T17	PROCEDIMIENTO 779 797	exploración física
+T18	PROCEDIMIENTO 1010 1031	hemocultivos seriados
+T19	PROCEDIMIENTO 1037 1050	TAC de cráneo
+T20	PROCEDIMIENTO 1421 1435	punción lumbar
+T21	PROCEDIMIENTO 1452 1481	análisis microscópico del LCR
+T22	PROCEDIMIENTO 1694 1732	análisis citológico inmunohistoquímico
+T23	PROCEDIMIENTO 1873 1898	análisis repetido del LCR
+T24	PROCEDIMIENTO 1962 1975	raquicéntesis
+T25	PROCEDIMIENTO 2132 2155	tratamiento antibiótico
+T26	PROCEDIMIENTO 1166 1204	factores de crecimiento granulocitario
+T27	PROCEDIMIENTO 1222 1253	antibióticos de amplio espectro
+T28	PROCEDIMIENTO 2077 2088	hemocultivo
+T29	PROCEDIMIENTO 207 221	esquema CHOP-R
+T30	PROCEDIMIENTO 975 995	exámenes virológicos
+T31	PROCEDIMIENTO 1206 1219	antimicóticos
+T32	SINTOMA 64 71	cefalea
+T33	SINTOMA 73 79	fiebre
+T34	SINTOMA 647 653	fiebre
+T35	SINTOMA 664 685	palidez cutaneomucosa
+T36	SINTOMA 1321 1327	fiebre
+T37	SINTOMA 1352 1359	cefalea
+T38	SINTOMA 1387 1403	signos meníngeos
+T39	SINTOMA 938 949	neutropenia
+T40	SINTOMA 975 1007	exámenes virológicos (negativos)
+T41	SINTOMA 1478 1531	LCR muestra un incremento del número total de células
+T42	SINTOMA 1783 1822	factor VIII y mieloperoxidasa positivos
+T43	SINTOMA 2065 2119	positivo el hemocultivo a Sterotrophomonas maltophilia
+T44	SINTOMA 2274 2281	fallece

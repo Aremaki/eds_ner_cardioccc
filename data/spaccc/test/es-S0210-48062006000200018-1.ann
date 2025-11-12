@@ -1,26 +1,26 @@
-T1	SINTOMA 277 297	síntomas miccionales
-T2	SINTOMA 301 307	fiebre
-T3	SINTOMA 441 493	análisis generales de sangre y orina fueron normales
-T4	SINTOMA 119 155	aumento moderado de volumen escrotal
-T5	SINTOMA 261 272	dolor agudo
-T6	SINTOMA 540 570	imagen nodular intratesticular
-T7	SINTOMA 676 719	Marcadores tumorales (AFP y ß-HCG) normales
-T8	SINTOMA 239 248	molestias
-T9	SINTOMA 866 894	TAC abdominal que fue normal
-T10	ENFERMEDAD 40 54	ulcus gástrico
-T11	ENFERMEDAD 357 366	hidrocele
-T12	ENFERMEDAD 620 640	neoplasia testicular
-T13	ENFERMEDAD 643 652	hidrocele
-T14	ENFERMEDAD 947 974	zona de testículo infartada
-T15	ENFERMEDAD 1045 1063	infarto testicular
-T16	ENFERMEDAD 1107 1112	tumor
-T17	ENFERMEDAD 56 63	fumador
-T18	PROCEDIMIENTO 1070 1090	estudio microscópico
-T19	PROCEDIMIENTO 314 332	exploración física
-T20	PROCEDIMIENTO 399 435	exploración de testículo y epidídimo
-T21	PROCEDIMIENTO 441 477	análisis generales de sangre y orina
-T22	PROCEDIMIENTO 506 524	ecografía escrotal
-T23	PROCEDIMIENTO 676 696	Marcadores tumorales
-T24	PROCEDIMIENTO 733 813	orquiectomía inguinal izquierda con colocación de prótesis testicular siliconada
-T25	PROCEDIMIENTO 866 879	TAC abdominal
-T26	PROCEDIMIENTO 87 100	vasectomizado
+T1	ENFERMEDAD 40 54	ulcus gástrico
+T2	ENFERMEDAD 357 366	hidrocele
+T3	ENFERMEDAD 620 640	neoplasia testicular
+T4	ENFERMEDAD 643 652	hidrocele
+T5	ENFERMEDAD 947 974	zona de testículo infartada
+T6	ENFERMEDAD 1045 1063	infarto testicular
+T7	ENFERMEDAD 1107 1112	tumor
+T8	ENFERMEDAD 56 63	fumador
+T9	PROCEDIMIENTO 87 100	vasectomizado
+T10	PROCEDIMIENTO 314 332	exploración física
+T11	PROCEDIMIENTO 399 435	exploración de testículo y epidídimo
+T12	PROCEDIMIENTO 506 524	ecografía escrotal
+T13	PROCEDIMIENTO 733 813	orquiectomía inguinal izquierda con colocación de prótesis testicular siliconada
+T14	PROCEDIMIENTO 866 879	TAC abdominal
+T15	PROCEDIMIENTO 1070 1090	estudio microscópico
+T16	PROCEDIMIENTO 676 696	Marcadores tumorales
+T17	PROCEDIMIENTO 441 477	análisis generales de sangre y orina
+T18	SINTOMA 119 155	aumento moderado de volumen escrotal
+T19	SINTOMA 277 297	síntomas miccionales
+T20	SINTOMA 301 307	fiebre
+T21	SINTOMA 441 493	análisis generales de sangre y orina fueron normales
+T22	SINTOMA 866 894	TAC abdominal que fue normal
+T23	SINTOMA 540 570	imagen nodular intratesticular
+T24	SINTOMA 676 719	Marcadores tumorales (AFP y ß-HCG) normales
+T25	SINTOMA 239 248	molestias
+T26	SINTOMA 261 272	dolor agudo

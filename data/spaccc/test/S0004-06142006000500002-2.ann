@@ -1,33 +1,33 @@
-T1	SINTOMA 1701 1713	asintomático
-T2	SINTOMA 89 100	hemospermia
-T3	SINTOMA 1314 1331	formación nodular
-T4	SINTOMA 371 390	buen estado general
-T5	SINTOMA 819 851	a nivel hepático varias imágenes
-T6	SINTOMA 37 65	dolor a nivel de hipogastrio
-T7	SINTOMA 67 87	eyaculación dolorosa
-T8	SINTOMA 654 688	imagen nodular hipoecoica en teste
-T9	SINTOMA 1753 1799	marcadores tumorales han permanecido negativos
-T10	SINTOMA 1028 1106	marcadores tumorales y el PSA presentaban unos valores dentro de la normalidad
-T11	SINTOMA 428 461	masas a nivel de ambos testículos
-T12	SINTOMA 492 579	próstata irregular, ligeramente aumentada de tamaño con zonas induradas y algo dolorosa
-T13	SINTOMA 984 1022	Rx de tórax no presentaba alteraciones
-T14	SINTOMA 103 139	sensación de peso a nivel testicular
-T15	ENFERMEDAD 167 177	varicocele
-T16	ENFERMEDAD 277 294	prostatitis aguda
-T17	ENFERMEDAD 392 402	varicocele
-T18	ENFERMEDAD 739 765	quiste simple en testículo
-T19	ENFERMEDAD 880 890	metástasis
-T20	ENFERMEDAD 893 904	hemangiomas
-T21	ENFERMEDAD 968 979	hemangiomas
-T22	ENFERMEDAD 1474 1507	tumor de células de Leydig difuso
-T23	ENFERMEDAD 1736 1746	metástasis
-T24	PROCEDIMIENTO 1028 1048	marcadores tumorales
-T25	PROCEDIMIENTO 1231 1268	orquiectomía radical inguinal derecha
-T26	PROCEDIMIENTO 1451 1466	histopatológico
-T27	PROCEDIMIENTO 1753 1773	marcadores tumorales
-T28	PROCEDIMIENTO 329 347	exploración física
-T29	PROCEDIMIENTO 466 478	tacto rectal
-T30	PROCEDIMIENTO 610 638	ecografía urológica integral
-T31	PROCEDIMIENTO 783 803	TAC abdómino-pélvica
-T32	PROCEDIMIENTO 909 912	RMN
-T33	PROCEDIMIENTO 984 995	Rx de tórax
+T1	ENFERMEDAD 167 177	varicocele
+T2	ENFERMEDAD 277 294	prostatitis aguda
+T3	ENFERMEDAD 392 402	varicocele
+T4	ENFERMEDAD 739 765	quiste simple en testículo
+T5	ENFERMEDAD 880 890	metástasis
+T6	ENFERMEDAD 893 904	hemangiomas
+T7	ENFERMEDAD 968 979	hemangiomas
+T8	ENFERMEDAD 1474 1507	tumor de células de Leydig difuso
+T9	ENFERMEDAD 1736 1746	metástasis
+T10	PROCEDIMIENTO 909 912	RMN
+T11	PROCEDIMIENTO 984 995	Rx de tórax
+T12	PROCEDIMIENTO 783 803	TAC abdómino-pélvica
+T13	PROCEDIMIENTO 610 638	ecografía urológica integral
+T14	PROCEDIMIENTO 329 347	exploración física
+T15	PROCEDIMIENTO 1451 1466	histopatológico
+T16	PROCEDIMIENTO 1028 1048	marcadores tumorales
+T17	PROCEDIMIENTO 1753 1773	marcadores tumorales
+T18	PROCEDIMIENTO 1231 1268	orquiectomía radical inguinal derecha
+T19	PROCEDIMIENTO 466 478	tacto rectal
+T20	SINTOMA 1701 1713	asintomático
+T21	SINTOMA 37 65	dolor a nivel de hipogastrio
+T22	SINTOMA 67 87	eyaculación dolorosa
+T23	SINTOMA 89 100	hemospermia
+T24	SINTOMA 428 461	masas a nivel de ambos testículos
+T25	SINTOMA 1314 1331	formación nodular
+T26	SINTOMA 103 139	sensación de peso a nivel testicular
+T27	SINTOMA 371 390	buen estado general
+T28	SINTOMA 984 1022	Rx de tórax no presentaba alteraciones
+T29	SINTOMA 1028 1106	marcadores tumorales y el PSA presentaban unos valores dentro de la normalidad
+T30	SINTOMA 1753 1799	marcadores tumorales han permanecido negativos
+T31	SINTOMA 492 579	próstata irregular, ligeramente aumentada de tamaño con zonas induradas y algo dolorosa
+T32	SINTOMA 654 688	imagen nodular hipoecoica en teste
+T33	SINTOMA 819 851	a nivel hepático varias imágenes

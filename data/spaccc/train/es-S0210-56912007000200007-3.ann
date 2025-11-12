@@ -1,27 +1,38 @@
-T1	SINTOMA 947 966	acidosis metabólica
-T2	SINTOMA 568 574	anuria
-T3	SINTOMA 68 78	artralgias
-T4	SINTOMA 365 377	desaturación
-T5	SINTOMA 1646 1652	éxitus
-T6	SINTOMA 51 65	fiebre elevada
-T7	SINTOMA 305 316	hipotensión
-T8	SINTOMA 438 448	leucopenia
-T9	SINTOMA 380 391	oligoanuria
-T10	SINTOMA 462 475	plaquetopenia
-T11	SINTOMA 318 329	taquicardia
-T12	SINTOMA 1055 1096	afectación alveolo-intersticial bilateral
-T13	SINTOMA 331 363	aumento del trabajo respiratorio
-T14	SINTOMA 278 303	mala perfusión periférica
-T15	SINTOMA 201 211	obnubilado
-T16	SINTOMA 217 276	rash petequial puntiforme de predominio en raíz de miembros
-T17	SINTOMA 1690 1751	S. pyogenes serotipo M1T1 en hemocultivo y aspirado bronquial
-T18	ENFERMEDAD 19 29	faringitis
-T19	ENFERMEDAD 1599 1608	asistolia
-T20	ENFERMEDAD 1611 1637	parada cardiorrespiratoria
-T21	ENFERMEDAD 793 812	disfunción hepática
-T22	ENFERMEDAD 576 588	coagulopatía
-T23	ENFERMEDAD 1544 1565	fracaso multiorgánico
-T24	ENFERMEDAD 1464 1483	insuficiencia renal
-T25	ENFERMEDAD 1567 1570	FMO
-T26	ENFERMEDAD 947 966	acidosis metabólica
-T27	ENFERMEDAD 305 316	hipotensión
+T1	ENFERMEDAD 19 29	faringitis
+T2	ENFERMEDAD 1599 1608	asistolia
+T3	ENFERMEDAD 1611 1637	parada cardiorrespiratoria
+T4	ENFERMEDAD 793 812	disfunción hepática
+T5	ENFERMEDAD 576 588	coagulopatía
+T6	ENFERMEDAD 1544 1565	fracaso multiorgánico
+T7	ENFERMEDAD 1464 1483	insuficiencia renal
+T8	ENFERMEDAD 1567 1570	FMO
+T9	ENFERMEDAD 947 966	acidosis metabólica
+T10	ENFERMEDAD 305 316	hipotensión
+T11	PROCEDIMIENTO 1157 1169	antibióticos
+T12	PROCEDIMIENTO 1293 1303	intubación
+T13	PROCEDIMIENTO 1424 1459	hemofiltración veno-venosa continua
+T14	PROCEDIMIENTO 1486 1507	sobrecarga de volemia
+T15	PROCEDIMIENTO 1030 1050	radiografía de tórax
+T16	PROCEDIMIENTO 1719 1730	hemocultivo
+T17	PROCEDIMIENTO 1200 1226	perfusión de catecolaminas
+T18	PROCEDIMIENTO 1733 1751	aspirado bronquial
+T19	PROCEDIMIENTO 1108 1117	expansión
+T20	PROCEDIMIENTO 1306 1337	conexión a ventilación mecánica
+T21	PROCEDIMIENTO 1389 1412	asistencia respiratoria
+T22	SINTOMA 68 78	artralgias
+T23	SINTOMA 201 211	obnubilado
+T24	SINTOMA 217 276	rash petequial puntiforme de predominio en raíz de miembros
+T25	SINTOMA 278 303	mala perfusión periférica
+T26	SINTOMA 318 329	taquicardia
+T27	SINTOMA 331 363	aumento del trabajo respiratorio
+T28	SINTOMA 365 377	desaturación
+T29	SINTOMA 380 391	oligoanuria
+T30	SINTOMA 438 448	leucopenia
+T31	SINTOMA 462 475	plaquetopenia
+T32	SINTOMA 568 574	anuria
+T33	SINTOMA 1055 1096	afectación alveolo-intersticial bilateral
+T34	SINTOMA 1690 1751	S. pyogenes serotipo M1T1 en hemocultivo y aspirado bronquial
+T35	SINTOMA 947 966	acidosis metabólica
+T36	SINTOMA 1646 1652	éxitus
+T37	SINTOMA 305 316	hipotensión
+T38	SINTOMA 51 65	fiebre elevada

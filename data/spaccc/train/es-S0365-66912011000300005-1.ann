@@ -1,4 +1,33 @@
-T1	SINTOMA 1659 1708	despegamiento de la hialoides posterior en mácula
-T2	SINTOMA 988 1017	hialoides posterior despegada
-T3	SINTOMA 470 488	masa prerretiniana
-T4	SINTOMA 1332 1355	pérdida aguda de visión
+T1	ENFERMEDAD 1196 1219	trombosis del aneurisma
+T2	ENFERMEDAD 32 64	pérdida brusca de agudeza visual
+T3	ENFERMEDAD 857 899	macroaneurisma en arcada temporal superior
+T4	ENFERMEDAD 1752 1761	aneurisma
+T5	ENFERMEDAD 1843 1869	cataratas corticonucleares
+T6	ENFERMEDAD 1979 1982	HTA
+T7	ENFERMEDAD 1985 2006	fibrilación auricular
+T8	ENFERMEDAD 675 693	fibrina premacular
+T9	ENFERMEDAD 1575 1629	macroaneurisma arterial en arcada temporal inferior OD
+T10	ENFERMEDAD 341 365	macroaneurisma retiniano
+T11	ENFERMEDAD 1421 1445	hemorragia prerretiniana
+T12	ENFERMEDAD 1039 1048	aneurisma
+T13	ENFERMEDAD 278 284	lesión
+T14	ENFERMEDAD 988 1017	hialoides posterior despegada
+T15	ENFERMEDAD 1659 1708	despegamiento de la hialoides posterior en mácula
+T16	PROCEDIMIENTO 1171 1186	fotocoagulación
+T17	PROCEDIMIENTO 1722 1737	fotocoagulación
+T18	PROCEDIMIENTO 1767 1776	trombosis
+T19	PROCEDIMIENTO 647 658	vitrectomía
+T20	PROCEDIMIENTO 245 257	fondo de ojo
+T21	PROCEDIMIENTO 915 918	AGF
+T22	PROCEDIMIENTO 1554 1557	AGF
+T23	PROCEDIMIENTO 930 933	OCT
+T24	PROCEDIMIENTO 1408 1410	FO
+T25	PROCEDIMIENTO 1644 1647	OCT
+T26	PROCEDIMIENTO 416 447	tomografía de coherencia óptica
+T27	PROCEDIMIENTO 1084 1099	fotocoagulación
+T28	PROCEDIMIENTO 449 452	OCT
+T29	PROCEDIMIENTO 1124 1142	exploración del OD
+T30	SINTOMA 1332 1355	pérdida aguda de visión
+T31	SINTOMA 1659 1708	despegamiento de la hialoides posterior en mácula
+T32	SINTOMA 470 488	masa prerretiniana
+T33	SINTOMA 988 1017	hialoides posterior despegada

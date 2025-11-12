@@ -1,21 +1,31 @@
-T1	SINTOMA 584 658	analítica de sangre, bioquímica y radiografía de tórax resultaron normales
-T2	SINTOMA 205 237	cefalea de predominio vespertino
-T3	SINTOMA 408 432	conectada ambientalmente
-T4	SINTOMA 866 884	edema perilesional
-T5	SINTOMA 696 807	masa bien delimitada localizada en el interior del ventrículo lateral derecho a nivel del atrio y asta temporal
-T6	SINTOMA 493 520	motilidad ocular conservada
-T7	SINTOMA 382 391	despierta
-T8	SINTOMA 393 405	colaboradora
-T9	SINTOMA 313 321	diplopia
-T10	SINTOMA 1123 1133	tumoración
-T11	SINTOMA 1972 1984	asintomática
-T12	SINTOMA 523 542	nistagmo horizontal
-T13	ENFERMEDAD 1824 1846	estrabismo convergente
-T14	ENFERMEDAD 1314 1332	meningioma atípico
-T15	ENFERMEDAD 270 292	estrabismo convergente
-T16	ENFERMEDAD 449 471	estrabismo convergente
-T17	ENFERMEDAD 523 542	nistagmo horizontal
-T18	ENFERMEDAD 1303 1308	tumor
-T19	ENFERMEDAD 1647 1652	tumor
-T20	ENFERMEDAD 313 321	diplopia
-T21	ENFERMEDAD 1176 1214	proliferación neoplásica meningotelial
+T1	ENFERMEDAD 1824 1846	estrabismo convergente
+T2	ENFERMEDAD 1314 1332	meningioma atípico
+T3	ENFERMEDAD 270 292	estrabismo convergente
+T4	ENFERMEDAD 449 471	estrabismo convergente
+T5	ENFERMEDAD 523 542	nistagmo horizontal
+T6	ENFERMEDAD 1303 1308	tumor
+T7	ENFERMEDAD 1647 1652	tumor
+T8	ENFERMEDAD 313 321	diplopia
+T9	ENFERMEDAD 1176 1214	proliferación neoplásica meningotelial
+T10	PROCEDIMIENTO 1138 1161	estudio histopatológico
+T11	PROCEDIMIENTO 584 603	analítica de sangre
+T12	PROCEDIMIENTO 618 638	radiografía de tórax
+T13	PROCEDIMIENTO 663 681	TAC y RM de cráneo
+T14	PROCEDIMIENTO 329 352	exploración neurológica
+T15	PROCEDIMIENTO 605 615	bioquímica
+T16	PROCEDIMIENTO 926 965	administración de contraste intravenoso
+T17	PROCEDIMIENTO 1005 1133	abordaje trans-temporal a través de la circunvolución temporal media con extirpación macroscópicamente completa de la tumoración
+T18	PROCEDIMIENTO 1786 1809	intervención quirúrgica
+T19	PROCEDIMIENTO 2035 2053	estudios de imagen
+T20	SINTOMA 696 807	masa bien delimitada localizada en el interior del ventrículo lateral derecho a nivel del atrio y asta temporal
+T21	SINTOMA 205 237	cefalea de predominio vespertino
+T22	SINTOMA 382 391	despierta
+T23	SINTOMA 393 405	colaboradora
+T24	SINTOMA 408 432	conectada ambientalmente
+T25	SINTOMA 493 520	motilidad ocular conservada
+T26	SINTOMA 313 321	diplopia
+T27	SINTOMA 866 884	edema perilesional
+T28	SINTOMA 1123 1133	tumoración
+T29	SINTOMA 1972 1984	asintomática
+T30	SINTOMA 523 542	nistagmo horizontal
+T31	SINTOMA 584 658	analítica de sangre, bioquímica y radiografía de tórax resultaron normales

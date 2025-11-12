@@ -1,46 +1,46 @@
-T1	SINTOMA 983 1013	limitación de la apertura oral
-T2	ENFERMEDAD 792 858	sufrimiento y pérdida del colgajo cutáneo de avance cérvico-facial
-T3	ENFERMEDAD 59 128	herida por arma de fuego (escopeta de caza) tras intento de autolisis
-T4	ENFERMEDAD 2964 2989	fístula salival parotídea
-T5	ENFERMEDAD 108 128	intento de autolisis
-T6	ENFERMEDAD 3018 3076	pérdida del injero dermoepidermico sobre región maseterina
-T7	ENFERMEDAD 1241 1261	luxación recidivante
-T8	ENFERMEDAD 920 965	retracción cicatricial del tejido mucoso oral
-T9	ENFERMEDAD 188 194	herida
-T10	ENFERMEDAD 3308 3335	parálisis del nervio radial
-T11	ENFERMEDAD 1039 1065	comunicaciones orofaciales
-T12	ENFERMEDAD 1068 1086	fístulas salivales
-T13	ENFERMEDAD 335 403	Pérdida cutáneo-mucosa importate de región yugal izquierda y mejilla
-T14	ENFERMEDAD 3110 3150	desinserción del brazo largo del tríceps
-T15	ENFERMEDAD 3153 3174	dehiscencia de herida
-T16	ENFERMEDAD 245 323	pérdida ósea de región desde primer premolar izquierdo hasta ángulo mandibular
-T17	ENFERMEDAD 983 1013	limitación de la apertura oral
-T18	PROCEDIMIENTO 1098 1201	intervención secundaria mediante un colgajo osteomiocutáneo escapular-paraescapular del brazo izquierdo
-T19	PROCEDIMIENTO 1301 1313	traqueotomía
-T20	PROCEDIMIENTO 1319 1412	preparación de los vasos receptores: arteria facial y rama del tronco venoso tirolinguofacial
-T21	PROCEDIMIENTO 1427 1481	extirpar una gran cantidad de tejido célulo-ganglionar
-T22	PROCEDIMIENTO 1561 1620	disección del colgajo osteocutáneo escapular- paraescapular
-T23	PROCEDIMIENTO 1627 1652	cierre de la zona donante
-T24	PROCEDIMIENTO 1662 1680	drenaje aspirativo
-T25	PROCEDIMIENTO 1684 1746	inmovilizando el miembro superior izquierdo con un cabestrillo
-T26	PROCEDIMIENTO 1762 1870	se adapta la parte ósea del colgajo al defecto mandibular con ostosíntesis usando la placa de reconstrucción
-T27	PROCEDIMIENTO 2106 2133	se sutura al labio inferior
-T28	PROCEDIMIENTO 2260 2324	reconstruye la zona cutánea mandibular y submandibular izquierda
-T29	PROCEDIMIENTO 2383 2406	injerto dermoepidérmico
-T30	PROCEDIMIENTO 2408 2447	Se retira el bloqueo y la férula dental
-T31	PROCEDIMIENTO 2450 2475	se deja la boca "abierta"
-T32	PROCEDIMIENTO 2496 2503	colgajo
-T33	PROCEDIMIENTO 2513 2528	submaxilectomía
-T34	PROCEDIMIENTO 2531 2573	extirpación de parte del tejido subcutáneo
-T35	PROCEDIMIENTO 2605 2777	anastómosis se hizo término-terminal de la arteria circunfleja escapular a la arteria facial; y de la mayor de las venas circunflejas escapulares al tronco tirolinguofacial
-T36	PROCEDIMIENTO 2921 2938	colgajo escapular
-T37	PROCEDIMIENTO 3202 3283	dehiscencia se intervino el enfermo realizándose un cogajo local de transposición
-T38	PROCEDIMIENTO 3391 3416	tratamiento rehabilitador
-T39	PROCEDIMIENTO 459 471	traqueotomía
-T40	PROCEDIMIENTO 473 513	desbridamiento de tejidos desvitalizados
-T41	PROCEDIMIENTO 515 536	ferulización dentaria
-T42	PROCEDIMIENTO 538 558	bloqueo intermaxilar
-T43	PROCEDIMIENTO 561 609	colocación de placa de reconstrucción mandibular
-T44	PROCEDIMIENTO 665 689	cierre directo intraoral
-T45	PROCEDIMIENTO 695 745	cierre cutáneo con colgajo de avance cervicofacial
-T46	PROCEDIMIENTO 818 858	colgajo cutáneo de avance cérvico-facial
+T1	ENFERMEDAD 792 858	sufrimiento y pérdida del colgajo cutáneo de avance cérvico-facial
+T2	ENFERMEDAD 59 128	herida por arma de fuego (escopeta de caza) tras intento de autolisis
+T3	ENFERMEDAD 2964 2989	fístula salival parotídea
+T4	ENFERMEDAD 108 128	intento de autolisis
+T5	ENFERMEDAD 3018 3076	pérdida del injero dermoepidermico sobre región maseterina
+T6	ENFERMEDAD 1241 1261	luxación recidivante
+T7	ENFERMEDAD 920 965	retracción cicatricial del tejido mucoso oral
+T8	ENFERMEDAD 188 194	herida
+T9	ENFERMEDAD 3308 3335	parálisis del nervio radial
+T10	ENFERMEDAD 1039 1065	comunicaciones orofaciales
+T11	ENFERMEDAD 1068 1086	fístulas salivales
+T12	ENFERMEDAD 335 403	Pérdida cutáneo-mucosa importate de región yugal izquierda y mejilla
+T13	ENFERMEDAD 3110 3150	desinserción del brazo largo del tríceps
+T14	ENFERMEDAD 3153 3174	dehiscencia de herida
+T15	ENFERMEDAD 245 323	pérdida ósea de región desde primer premolar izquierdo hasta ángulo mandibular
+T16	ENFERMEDAD 983 1013	limitación de la apertura oral
+T17	PROCEDIMIENTO 2605 2777	anastómosis se hizo término-terminal de la arteria circunfleja escapular a la arteria facial; y de la mayor de las venas circunflejas escapulares al tronco tirolinguofacial
+T18	PROCEDIMIENTO 2496 2503	colgajo
+T19	PROCEDIMIENTO 1561 1620	disección del colgajo osteocutáneo escapular- paraescapular
+T20	PROCEDIMIENTO 1762 1870	se adapta la parte ósea del colgajo al defecto mandibular con ostosíntesis usando la placa de reconstrucción
+T21	PROCEDIMIENTO 2513 2528	submaxilectomía
+T22	PROCEDIMIENTO 1301 1313	traqueotomía
+T23	PROCEDIMIENTO 1098 1201	intervención secundaria mediante un colgajo osteomiocutáneo escapular-paraescapular del brazo izquierdo
+T24	PROCEDIMIENTO 2921 2938	colgajo escapular
+T25	PROCEDIMIENTO 2531 2573	extirpación de parte del tejido subcutáneo
+T26	PROCEDIMIENTO 665 689	cierre directo intraoral
+T27	PROCEDIMIENTO 818 858	colgajo cutáneo de avance cérvico-facial
+T28	PROCEDIMIENTO 695 745	cierre cutáneo con colgajo de avance cervicofacial
+T29	PROCEDIMIENTO 1662 1680	drenaje aspirativo
+T30	PROCEDIMIENTO 1684 1746	inmovilizando el miembro superior izquierdo con un cabestrillo
+T31	PROCEDIMIENTO 1427 1481	extirpar una gran cantidad de tejido célulo-ganglionar
+T32	PROCEDIMIENTO 2106 2133	se sutura al labio inferior
+T33	PROCEDIMIENTO 459 471	traqueotomía
+T34	PROCEDIMIENTO 473 513	desbridamiento de tejidos desvitalizados
+T35	PROCEDIMIENTO 2260 2324	reconstruye la zona cutánea mandibular y submandibular izquierda
+T36	PROCEDIMIENTO 515 536	ferulización dentaria
+T37	PROCEDIMIENTO 538 558	bloqueo intermaxilar
+T38	PROCEDIMIENTO 561 609	colocación de placa de reconstrucción mandibular
+T39	PROCEDIMIENTO 2383 2406	injerto dermoepidérmico
+T40	PROCEDIMIENTO 2408 2447	Se retira el bloqueo y la férula dental
+T41	PROCEDIMIENTO 3391 3416	tratamiento rehabilitador
+T42	PROCEDIMIENTO 1627 1652	cierre de la zona donante
+T43	PROCEDIMIENTO 1319 1412	preparación de los vasos receptores: arteria facial y rama del tronco venoso tirolinguofacial
+T44	PROCEDIMIENTO 3202 3283	dehiscencia se intervino el enfermo realizándose un cogajo local de transposición
+T45	PROCEDIMIENTO 2450 2475	se deja la boca "abierta"
+T46	SINTOMA 983 1013	limitación de la apertura oral

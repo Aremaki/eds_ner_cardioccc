@@ -1,46 +1,46 @@
-T1	SINTOMA 1919 1938	masa paratesticular
-T2	SINTOMA 187 202	masa testicular
-T3	SINTOMA 803 818	masa testicular
-T4	SINTOMA 79 91	asintomático
-T5	SINTOMA 1686 1694	dolorosa
-T6	SINTOMA 1100 1105	masas
-T7	SINTOMA 1420 1425	masas
-T8	SINTOMA 1257 1285	buenas condiciones generales
-T9	SINTOMA 1358 1390	adecuado desarrollo pondoestural
-T10	SINTOMA 971 1033	estructuras bien definidas de aspecto ovalado en saco escrotal
-T11	SINTOMA 1775 1792	inflamación local
-T12	SINTOMA 1584 1665	masa esférica adenomatosa, localizada en área superior (proximal) del hemiescroto
-T13	SINTOMA 255 280	masa testicular, indolora
-T14	SINTOMA 1749 1761	nodulaciones
-T15	SINTOMA 1525 1536	pene normal
-T16	SINTOMA 525 573	saco escrotal izquierdo dos imágenes redondeadas
-T17	SINTOMA 1291 1339	signos vitales dentro de los parámetros normales
-T18	SINTOMA 3578 3594	testículo normal
-T19	SINTOMA 1554 1570	testículos sanos
-T20	ENFERMEDAD 739 763	lesiones en el epidídimo
-T21	ENFERMEDAD 821 845	testículo supernumerario
-T22	ENFERMEDAD 1464 1486	adenopatías inguinales
-T23	ENFERMEDAD 3600 3630	neoplasia intratubular seminal
-T24	ENFERMEDAD 1109 1120	adenopatías
-T25	ENFERMEDAD 2062 2068	lesión
-T26	ENFERMEDAD 1055 1081	testículos y uno adicional
-T27	PROCEDIMIENTO 1216 1229	examen físico
-T28	PROCEDIMIENTO 1540 1570	se palpan dos testículos sanos
-T29	PROCEDIMIENTO 1868 1881	examen físico
-T30	PROCEDIMIENTO 2016 2052	cirugía para exploración y resección
-T31	PROCEDIMIENTO 2043 2052	resección
-T32	PROCEDIMIENTO 2134 2151	anestesia general
-T33	PROCEDIMIENTO 2167 2195	incisión escrotal transversa
-T34	PROCEDIMIENTO 2211 2250	disección por planos hasta la albugínea
-T35	PROCEDIMIENTO 2843 2877	ligadura con hemostasia exhaustiva
-T36	PROCEDIMIENTO 3050 3075	estudio anatomopatológico
-T37	PROCEDIMIENTO 3083 3156	se realiza bolsillo en espacio subdartos donde se aloja el testículo sano
-T38	PROCEDIMIENTO 3106 3226	espacio subdartos donde se aloja el testículo sano y es fijado con material de sutura orgánico absorbible (poliglactina)
-T39	PROCEDIMIENTO 3269 3300	Se realiza un cierre por planos
-T40	PROCEDIMIENTO 3319 3369	bloqueo del nervio ilioinguinal del lado izquierdo
-T41	PROCEDIMIENTO 3498 3507	patología
-T42	PROCEDIMIENTO 3544 3563	cortes histológicos
-T43	PROCEDIMIENTO 483 501	estudio ecográfico
-T44	PROCEDIMIENTO 699 706	doppler
-T45	PROCEDIMIENTO 901 929	resonancia nuclear magnética
-T46	PROCEDIMIENTO 931 934	RNM
+T1	ENFERMEDAD 739 763	lesiones en el epidídimo
+T2	ENFERMEDAD 821 845	testículo supernumerario
+T3	ENFERMEDAD 1464 1486	adenopatías inguinales
+T4	ENFERMEDAD 3600 3630	neoplasia intratubular seminal
+T5	ENFERMEDAD 1109 1120	adenopatías
+T6	ENFERMEDAD 2062 2068	lesión
+T7	ENFERMEDAD 1055 1081	testículos y uno adicional
+T8	PROCEDIMIENTO 1868 1881	examen físico
+T9	PROCEDIMIENTO 2134 2151	anestesia general
+T10	PROCEDIMIENTO 2167 2195	incisión escrotal transversa
+T11	PROCEDIMIENTO 901 929	resonancia nuclear magnética
+T12	PROCEDIMIENTO 931 934	RNM
+T13	PROCEDIMIENTO 1216 1229	examen físico
+T14	PROCEDIMIENTO 3319 3369	bloqueo del nervio ilioinguinal del lado izquierdo
+T15	PROCEDIMIENTO 3050 3075	estudio anatomopatológico
+T16	PROCEDIMIENTO 483 501	estudio ecográfico
+T17	PROCEDIMIENTO 2843 2877	ligadura con hemostasia exhaustiva
+T18	PROCEDIMIENTO 2043 2052	resección
+T19	PROCEDIMIENTO 699 706	doppler
+T20	PROCEDIMIENTO 1540 1570	se palpan dos testículos sanos
+T21	PROCEDIMIENTO 3083 3156	se realiza bolsillo en espacio subdartos donde se aloja el testículo sano
+T22	PROCEDIMIENTO 3106 3226	espacio subdartos donde se aloja el testículo sano y es fijado con material de sutura orgánico absorbible (poliglactina)
+T23	PROCEDIMIENTO 3269 3300	Se realiza un cierre por planos
+T24	PROCEDIMIENTO 3544 3563	cortes histológicos
+T25	PROCEDIMIENTO 2016 2052	cirugía para exploración y resección
+T26	PROCEDIMIENTO 2211 2250	disección por planos hasta la albugínea
+T27	PROCEDIMIENTO 3498 3507	patología
+T28	SINTOMA 1919 1938	masa paratesticular
+T29	SINTOMA 187 202	masa testicular
+T30	SINTOMA 255 280	masa testicular, indolora
+T31	SINTOMA 803 818	masa testicular
+T32	SINTOMA 1584 1665	masa esférica adenomatosa, localizada en área superior (proximal) del hemiescroto
+T33	SINTOMA 79 91	asintomático
+T34	SINTOMA 1686 1694	dolorosa
+T35	SINTOMA 1775 1792	inflamación local
+T36	SINTOMA 1100 1105	masas
+T37	SINTOMA 1420 1425	masas
+T38	SINTOMA 1257 1285	buenas condiciones generales
+T39	SINTOMA 525 573	saco escrotal izquierdo dos imágenes redondeadas
+T40	SINTOMA 971 1033	estructuras bien definidas de aspecto ovalado en saco escrotal
+T41	SINTOMA 1358 1390	adecuado desarrollo pondoestural
+T42	SINTOMA 1291 1339	signos vitales dentro de los parámetros normales
+T43	SINTOMA 1525 1536	pene normal
+T44	SINTOMA 1554 1570	testículos sanos
+T45	SINTOMA 3578 3594	testículo normal
+T46	SINTOMA 1749 1761	nodulaciones

@@ -1,28 +1,28 @@
-T1	SINTOMA 283 301	cortejo vegetativo
-T2	SINTOMA 440 459	taquicardia sinusal
-T3	SINTOMA 1105 1124	taquicardia sinusal
-T4	SINTOMA 619 638	taquicardia sinusal
-T5	SINTOMA 1999 2026	acortándose el intervalo QT
-T6	SINTOMA 1226 1262	alteraciones de marcadores cardíacos
-T7	SINTOMA 483 516	alteraciones en la repolarización
-T8	SINTOMA 655 700	alteraciones muy difusas en la repolarización
-T9	SINTOMA 1301 1345	alteraciones regionales en la contractilidad
-T10	SINTOMA 239 262	dolor torácico opresivo
-T11	SINTOMA 1559 1582	estenosis angiográficas
-T12	SINTOMA 267 276	irradiado
-T13	SINTOMA 711 748	ondas T negativas en la cara anterior
-T14	SINTOMA 755 782	prolongación del espacio QT
-T15	SINTOMA 1409 1436	ventrículo izquierdo normal
-T16	ENFERMEDAD 67 85	síndrome depresivo
-T17	ENFERMEDAD 619 650	taquicardia sinusal persistente
-T18	ENFERMEDAD 826 850	Síndrome Coronario Agudo
-T19	ENFERMEDAD 1628 1648	enfermedad coronaria
-T20	PROCEDIMIENTO 1166 1181	betabloqueantes
-T21	PROCEDIMIENTO 1286 1289	ECG
-T22	PROCEDIMIENTO 1368 1398	estudio angiográfico coronario
-T23	PROCEDIMIENTO 2110 2113	ECG
-T24	PROCEDIMIENTO 394 412	electrocardiograma
-T25	PROCEDIMIENTO 414 417	ECG
-T26	PROCEDIMIENTO 606 609	ECG
-T27	PROCEDIMIENTO 898 912	antiagregación
-T28	PROCEDIMIENTO 987 1002	anticoagulación
+T1	ENFERMEDAD 67 85	síndrome depresivo
+T2	ENFERMEDAD 619 650	taquicardia sinusal persistente
+T3	ENFERMEDAD 826 850	Síndrome Coronario Agudo
+T4	ENFERMEDAD 1628 1648	enfermedad coronaria
+T5	PROCEDIMIENTO 1286 1289	ECG
+T6	PROCEDIMIENTO 606 609	ECG
+T7	PROCEDIMIENTO 1368 1398	estudio angiográfico coronario
+T8	PROCEDIMIENTO 898 912	antiagregación
+T9	PROCEDIMIENTO 394 412	electrocardiograma
+T10	PROCEDIMIENTO 414 417	ECG
+T11	PROCEDIMIENTO 2110 2113	ECG
+T12	PROCEDIMIENTO 987 1002	anticoagulación
+T13	PROCEDIMIENTO 1166 1181	betabloqueantes
+T14	SINTOMA 1226 1262	alteraciones de marcadores cardíacos
+T15	SINTOMA 1301 1345	alteraciones regionales en la contractilidad
+T16	SINTOMA 655 700	alteraciones muy difusas en la repolarización
+T17	SINTOMA 239 262	dolor torácico opresivo
+T18	SINTOMA 1999 2026	acortándose el intervalo QT
+T19	SINTOMA 1559 1582	estenosis angiográficas
+T20	SINTOMA 283 301	cortejo vegetativo
+T21	SINTOMA 440 459	taquicardia sinusal
+T22	SINTOMA 1105 1124	taquicardia sinusal
+T23	SINTOMA 711 748	ondas T negativas en la cara anterior
+T24	SINTOMA 755 782	prolongación del espacio QT
+T25	SINTOMA 1409 1436	ventrículo izquierdo normal
+T26	SINTOMA 483 516	alteraciones en la repolarización
+T27	SINTOMA 267 276	irradiado
+T28	SINTOMA 619 638	taquicardia sinusal

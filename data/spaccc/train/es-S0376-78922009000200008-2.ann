@@ -1,4 +1,13 @@
-T1	SINTOMA 265 292	déficit de tejido abdominal
-T2	ENFERMEDAD 62 80	extrofia de cloaca
-T3	ENFERMEDAD 206 249	fístulas y cicatrices en la pared abdominal
-T4	ENFERMEDAD 1095 1112	defecto abdominal
+T1	ENFERMEDAD 62 80	extrofia de cloaca
+T2	ENFERMEDAD 206 249	fístulas y cicatrices en la pared abdominal
+T3	ENFERMEDAD 1095 1112	defecto abdominal
+T4	PROCEDIMIENTO 503 723	colocación de 2 expansores rectangulares de 1000cc. y 15,2cm. de largo x 7, 3cm de ancho con válvula remota (Silimed®) por debajo del tejido célulo-graso abdominal y por encima de la aponeurosis del músculo oblicuo mayor
+T5	PROCEDIMIENTO 980 1008	extracción de los expansores
+T6	PROCEDIMIENTO 1014 1062	reconstrucción del reservorio urinario ileocecal
+T7	PROCEDIMIENTO 1077 1169	se reconstruyó el defecto abdominal levantando y entrecruzando dos colgajos de oblicuo mayor
+T8	PROCEDIMIENTO 1194 1267	costales inferiores que fueron cubiertos con los tejidos fascio- cutáneos
+T9	PROCEDIMIENTO 757 824	Se infiltraron entre 50 a 100cc de suero fisiológico con intervalos
+T10	PROCEDIMIENTO 357 375	reservorio vesical
+T11	PROCEDIMIENTO 956 965	expansión
+T12	PROCEDIMIENTO 62 108	extrofia de cloaca intervenida quirúrgicamente
+T13	SINTOMA 265 292	déficit de tejido abdominal

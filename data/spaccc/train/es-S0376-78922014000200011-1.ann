@@ -1,41 +1,41 @@
-T1	SINTOMA 2691 2714	alteración en la marcha
-T2	SINTOMA 2645 2657	asintomática
-T3	SINTOMA 418 466	aumento de tamaño en la cara posterior del muslo
-T4	SINTOMA 266 293	dificultades para la marcha
-T5	SINTOMA 2473 2478	dolor
-T6	SINTOMA 2680 2685	dolor
-T7	SINTOMA 157 189	dolor y parestesias en la pierna
-T8	SINTOMA 552 560	dolorosa
-T9	SINTOMA 2141 2153	hemorrágicas
-T10	SINTOMA 1244 1290	masa desplaza posteriormente el nervio ciático
-T11	SINTOMA 914 949	muslo derecho se visualiza una masa
-T12	SINTOMA 2663 2674	parestesias
-T13	SINTOMA 2488 2499	parestesias
-T14	SINTOMA 254 263	pie caído
-T15	SINTOMA 1596 1606	tumoración
-T16	SINTOMA 1666 1676	tumoración
-T17	SINTOMA 1991 2001	tumoración
-T18	SINTOMA 1770 1780	tumoración
-T19	SINTOMA 713 723	tumoración
-T20	SINTOMA 1831 1841	tumoración
-T21	SINTOMA 490 509	tumoración profunda
-T22	ENFERMEDAD 1470 1534	compresión del nervio ciático a nivel de tercio distal del muslo
-T23	ENFERMEDAD 634 663	neuropatía del nervio ciático
-T24	ENFERMEDAD 338 375	neuropatía del nervio ciático derecho
-T25	ENFERMEDAD 1347 1353	lipoma
-T26	ENFERMEDAD 1401 1426	liposarcoma de bajo grado
-T27	PROCEDIMIENTO 1431 1447	Electromiografía
-T28	PROCEDIMIENTO 1449 1452	EMG
-T29	PROCEDIMIENTO 1613 1616	RNM
-T30	PROCEDIMIENTO 1637 1676	tratamiento quirúrgico de la tumoración
-T31	PROCEDIMIENTO 1694 1717	intervención quirúrgica
-T32	PROCEDIMIENTO 1723 1741	anestesia raquídea
-T33	PROCEDIMIENTO 1754 1780	resección de la tumoración
-T34	PROCEDIMIENTO 1783 1812	liberación del nervio ciático
-T35	PROCEDIMIENTO 1908 1933	estudio anatomopatológico
-T36	PROCEDIMIENTO 2170 2187	Microscópicamente
-T37	PROCEDIMIENTO 383 401	exploración física
-T38	PROCEDIMIENTO 564 569	tacto
-T39	PROCEDIMIENTO 587 605	exploración física
-T40	PROCEDIMIENTO 809 837	Resonancia nuclear magnética
-T41	PROCEDIMIENTO 839 842	RNM
+T1	ENFERMEDAD 1470 1534	compresión del nervio ciático a nivel de tercio distal del muslo
+T2	ENFERMEDAD 634 663	neuropatía del nervio ciático
+T3	ENFERMEDAD 338 375	neuropatía del nervio ciático derecho
+T4	ENFERMEDAD 1347 1353	lipoma
+T5	ENFERMEDAD 1401 1426	liposarcoma de bajo grado
+T6	PROCEDIMIENTO 1431 1447	Electromiografía
+T7	PROCEDIMIENTO 809 837	Resonancia nuclear magnética
+T8	PROCEDIMIENTO 1908 1933	estudio anatomopatológico
+T9	PROCEDIMIENTO 383 401	exploración física
+T10	PROCEDIMIENTO 587 605	exploración física
+T11	PROCEDIMIENTO 1449 1452	EMG
+T12	PROCEDIMIENTO 839 842	RNM
+T13	PROCEDIMIENTO 1723 1741	anestesia raquídea
+T14	PROCEDIMIENTO 1613 1616	RNM
+T15	PROCEDIMIENTO 1754 1780	resección de la tumoración
+T16	PROCEDIMIENTO 1637 1676	tratamiento quirúrgico de la tumoración
+T17	PROCEDIMIENTO 1783 1812	liberación del nervio ciático
+T18	PROCEDIMIENTO 2170 2187	Microscópicamente
+T19	PROCEDIMIENTO 1694 1717	intervención quirúrgica
+T20	PROCEDIMIENTO 564 569	tacto
+T21	SINTOMA 418 466	aumento de tamaño en la cara posterior del muslo
+T22	SINTOMA 2488 2499	parestesias
+T23	SINTOMA 490 509	tumoración profunda
+T24	SINTOMA 157 189	dolor y parestesias en la pierna
+T25	SINTOMA 254 263	pie caído
+T26	SINTOMA 266 293	dificultades para la marcha
+T27	SINTOMA 2663 2674	parestesias
+T28	SINTOMA 2691 2714	alteración en la marcha
+T29	SINTOMA 1244 1290	masa desplaza posteriormente el nervio ciático
+T30	SINTOMA 2645 2657	asintomática
+T31	SINTOMA 2141 2153	hemorrágicas
+T32	SINTOMA 2473 2478	dolor
+T33	SINTOMA 2680 2685	dolor
+T34	SINTOMA 552 560	dolorosa
+T35	SINTOMA 914 949	muslo derecho se visualiza una masa
+T36	SINTOMA 1596 1606	tumoración
+T37	SINTOMA 1666 1676	tumoración
+T38	SINTOMA 1831 1841	tumoración
+T39	SINTOMA 1991 2001	tumoración
+T40	SINTOMA 1770 1780	tumoración
+T41	SINTOMA 713 723	tumoración

@@ -1,46 +1,46 @@
-T1	SINTOMA 2138 2159	alteraciones visuales
-T2	SINTOMA 226 247	alteraciones visuales
-T3	SINTOMA 810 847	anomalías vasculares en la conjuntiva
-T4	SINTOMA 545 582	disminución de la reactividad pupilar
-T5	SINTOMA 658 706	edema palpebral superior doloroso a la palpación
-T6	SINTOMA 1096 1170	hemograma, bioquímica y coagulación de rutina no mostró ninguna alteración
-T7	SINTOMA 584 641	limitación de la supraducción y supraversión con diplopia
-T8	SINTOMA 1824 1841	puntos sangrantes
-T9	SINTOMA 1699 1772	salida a presión de coágulos y sangre procedentes del hematoma extraconal
-T10	SINTOMA 168 194	tumefacción supraorbitaria
-T11	SINTOMA 2122 2131	midriasis
-T12	SINTOMA 515 524	midriasis
-T13	SINTOMA 123 130	vómitos
-T14	SINTOMA 801 806	edema
-T15	SINTOMA 2303 2315	asintomática
-T16	SINTOMA 727 750	fondo de ojo fue normal
-T17	SINTOMA 471 481	exoftalmos
-T18	SINTOMA 643 655	miodesopsias
-T19	ENFERMEDAD 471 481	exoftalmos
-T20	ENFERMEDAD 486 497	hipoftalmos
-T21	ENFERMEDAD 97 118	hiperémesis gravídica
-T22	ENFERMEDAD 1020 1054	hematoma intraorbitario extraconal
-T23	ENFERMEDAD 207 223	proptosis ocular
-T24	ENFERMEDAD 810 847	anomalías vasculares en la conjuntiva
-T25	ENFERMEDAD 1753 1772	hematoma extraconal
-T26	ENFERMEDAD 1944 1965	hiperémesis gravídica
-T27	ENFERMEDAD 633 641	diplopia
-T28	ENFERMEDAD 1383 1391	hematoma
-T29	ENFERMEDAD 1797 1805	hematoma
-T30	ENFERMEDAD 389 400	traumatismo
-T31	ENFERMEDAD 643 655	miodesopsias
-T32	PROCEDIMIENTO 1067 1131	análisis sanguíneo basado en hemograma, bioquímica y coagulación
-T33	PROCEDIMIENTO 1372 1416	evacuar el hematoma y descomprimir la órbita
-T34	PROCEDIMIENTO 1422 1439	anestesia general
-T35	PROCEDIMIENTO 1468 1499	blefaroplastia superior derecho
-T36	PROCEDIMIENTO 1501 1554	disecando el músculo orbicular del ojo y el periostio
-T37	PROCEDIMIENTO 1782 1805	evacuación del hematoma
-T38	PROCEDIMIENTO 1884 1909	drenaje fino tipo Penrose
-T39	PROCEDIMIENTO 2095 2102	cirugía
-T40	PROCEDIMIENTO 2199 2221	retirándose el drenaje
-T41	PROCEDIMIENTO 2269 2276	cirugía
-T42	PROCEDIMIENTO 419 444	exploración oftalmológica
-T43	PROCEDIMIENTO 697 706	palpación
-T44	PROCEDIMIENTO 711 739	exploración del fondo de ojo
-T45	PROCEDIMIENTO 910 954	resonancia magnética nuclear (RMN) orbitaria
-T46	PROCEDIMIENTO 940 943	RMN
+T1	ENFERMEDAD 471 481	exoftalmos
+T2	ENFERMEDAD 486 497	hipoftalmos
+T3	ENFERMEDAD 97 118	hiperémesis gravídica
+T4	ENFERMEDAD 1020 1054	hematoma intraorbitario extraconal
+T5	ENFERMEDAD 207 223	proptosis ocular
+T6	ENFERMEDAD 810 847	anomalías vasculares en la conjuntiva
+T7	ENFERMEDAD 1753 1772	hematoma extraconal
+T8	ENFERMEDAD 1944 1965	hiperémesis gravídica
+T9	ENFERMEDAD 633 641	diplopia
+T10	ENFERMEDAD 1383 1391	hematoma
+T11	ENFERMEDAD 1797 1805	hematoma
+T12	ENFERMEDAD 389 400	traumatismo
+T13	ENFERMEDAD 643 655	miodesopsias
+T14	PROCEDIMIENTO 419 444	exploración oftalmológica
+T15	PROCEDIMIENTO 910 954	resonancia magnética nuclear (RMN) orbitaria
+T16	PROCEDIMIENTO 940 943	RMN
+T17	PROCEDIMIENTO 1372 1416	evacuar el hematoma y descomprimir la órbita
+T18	PROCEDIMIENTO 2199 2221	retirándose el drenaje
+T19	PROCEDIMIENTO 1422 1439	anestesia general
+T20	PROCEDIMIENTO 1067 1131	análisis sanguíneo basado en hemograma, bioquímica y coagulación
+T21	PROCEDIMIENTO 697 706	palpación
+T22	PROCEDIMIENTO 1468 1499	blefaroplastia superior derecho
+T23	PROCEDIMIENTO 1501 1554	disecando el músculo orbicular del ojo y el periostio
+T24	PROCEDIMIENTO 711 739	exploración del fondo de ojo
+T25	PROCEDIMIENTO 1782 1805	evacuación del hematoma
+T26	PROCEDIMIENTO 1884 1909	drenaje fino tipo Penrose
+T27	PROCEDIMIENTO 2095 2102	cirugía
+T28	PROCEDIMIENTO 2269 2276	cirugía
+T29	SINTOMA 2122 2131	midriasis
+T30	SINTOMA 2138 2159	alteraciones visuales
+T31	SINTOMA 515 524	midriasis
+T32	SINTOMA 123 130	vómitos
+T33	SINTOMA 545 582	disminución de la reactividad pupilar
+T34	SINTOMA 168 194	tumefacción supraorbitaria
+T35	SINTOMA 584 641	limitación de la supraducción y supraversión con diplopia
+T36	SINTOMA 226 247	alteraciones visuales
+T37	SINTOMA 658 706	edema palpebral superior doloroso a la palpación
+T38	SINTOMA 801 806	edema
+T39	SINTOMA 1699 1772	salida a presión de coágulos y sangre procedentes del hematoma extraconal
+T40	SINTOMA 1824 1841	puntos sangrantes
+T41	SINTOMA 2303 2315	asintomática
+T42	SINTOMA 727 750	fondo de ojo fue normal
+T43	SINTOMA 471 481	exoftalmos
+T44	SINTOMA 810 847	anomalías vasculares en la conjuntiva
+T45	SINTOMA 643 655	miodesopsias
+T46	SINTOMA 1096 1170	hemograma, bioquímica y coagulación de rutina no mostró ninguna alteración

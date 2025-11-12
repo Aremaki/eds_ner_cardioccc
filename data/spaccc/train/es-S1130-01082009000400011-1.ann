@@ -1,17 +1,25 @@
-T1	SINTOMA 203 220	clínica miccional
-T2	SINTOMA 921 932	efecto masa
-T3	SINTOMA 578 619	elevación de los reactantes de fase aguda
-T4	SINTOMA 149 158	hiporexia
-T5	SINTOMA 505 526	irritación peritoneal
-T6	SINTOMA 431 490	abdomen distendido, doloroso a nivel de fosa ilíaca derecha
-T7	SINTOMA 165 201	alteraciones del tránsito intestinal
-T8	SINTOMA 87 136	dolor progresivo de inicio en fosa iliaca derecha
-T9	SINTOMA 952 979	líquido libre sanguinolento
-T10	SINTOMA 704 747	masa de 4 x 3 x 5 cm adyacente a polo cecal
-T11	ENFERMEDAD 286 307	hipertensión arterial
-T12	ENFERMEDAD 310 350	diabetes mellitus no insulinodependiente
-T13	ENFERMEDAD 787 804	apendicitis aguda
-T14	ENFERMEDAD 817 837	proceso neoformativo
-T15	ENFERMEDAD 908 916	hematoma
-T16	ENFERMEDAD 1155 1245	extravasación hemática a nivel de tejidos subserosos de ciego con focos de abscesificación
-T17	ENFERMEDAD 224 236	traumatismos
+T1	ENFERMEDAD 286 307	hipertensión arterial
+T2	ENFERMEDAD 310 350	diabetes mellitus no insulinodependiente
+T3	ENFERMEDAD 787 804	apendicitis aguda
+T4	ENFERMEDAD 817 837	proceso neoformativo
+T5	ENFERMEDAD 908 916	hematoma
+T6	ENFERMEDAD 1155 1245	extravasación hemática a nivel de tejidos subserosos de ciego con focos de abscesificación
+T7	ENFERMEDAD 224 236	traumatismos
+T8	PROCEDIMIENTO 663 687	tomografía computerizada
+T9	PROCEDIMIENTO 689 691	TC
+T10	PROCEDIMIENTO 873 895	abordaje laparoscópico
+T11	PROCEDIMIENTO 1039 1061	hemicolectomía derecha
+T12	PROCEDIMIENTO 1104 1123	anatomía patológica
+T13	PROCEDIMIENTO 531 540	analítica
+T14	PROCEDIMIENTO 406 417	exploración
+T15	PROCEDIMIENTO 1250 1269	signos histológicos
+T16	SINTOMA 87 136	dolor progresivo de inicio en fosa iliaca derecha
+T17	SINTOMA 149 158	hiporexia
+T18	SINTOMA 165 201	alteraciones del tránsito intestinal
+T19	SINTOMA 203 220	clínica miccional
+T20	SINTOMA 431 490	abdomen distendido, doloroso a nivel de fosa ilíaca derecha
+T21	SINTOMA 505 526	irritación peritoneal
+T22	SINTOMA 578 619	elevación de los reactantes de fase aguda
+T23	SINTOMA 704 747	masa de 4 x 3 x 5 cm adyacente a polo cecal
+T24	SINTOMA 952 979	líquido libre sanguinolento
+T25	SINTOMA 921 932	efecto masa

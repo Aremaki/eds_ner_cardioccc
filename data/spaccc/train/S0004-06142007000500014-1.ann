@@ -1,13 +1,18 @@
-T1	SINTOMA 205 243	aumento testicular con zonas nodulares
-T2	SINTOMA 710 742	estudio de extensión es negativo
-T3	SINTOMA 611 663	nódulos presentaban un aumento de la vascularización
-T4	SINTOMA 248 291	testículo izquierdo no muestra alteraciones
-T5	SINTOMA 75 122	tumoración ligeramente dolorosa en el testículo
-T6	SINTOMA 925 930	masas
-T7	SINTOMA 537 543	nódulo
-T8	SINTOMA 803 810	nódulos
-T9	ENFERMEDAD 845 860	teratoma maduro
-T10	ENFERMEDAD 863 884	carcinoma embrionario
-T11	ENFERMEDAD 1069 1085	seminoma clásico
-T12	ENFERMEDAD 371 388	nódulos tumorales
-T13	ENFERMEDAD 827 843	teratocarcinomas
+T1	ENFERMEDAD 845 860	teratoma maduro
+T2	ENFERMEDAD 863 884	carcinoma embrionario
+T3	ENFERMEDAD 1069 1085	seminoma clásico
+T4	ENFERMEDAD 371 388	nódulos tumorales
+T5	ENFERMEDAD 827 843	teratocarcinomas
+T6	PROCEDIMIENTO 338 353	Ecográficamente
+T7	PROCEDIMIENTO 710 730	estudio de extensión
+T8	PROCEDIMIENTO 182 201	exploración clínica
+T9	PROCEDIMIENTO 755 767	orquiectomía
+T10	PROCEDIMIENTO 769 785	Histológicamente
+T11	SINTOMA 925 930	masas
+T12	SINTOMA 537 543	nódulo
+T13	SINTOMA 611 663	nódulos presentaban un aumento de la vascularización
+T14	SINTOMA 803 810	nódulos
+T15	SINTOMA 75 122	tumoración ligeramente dolorosa en el testículo
+T16	SINTOMA 710 742	estudio de extensión es negativo
+T17	SINTOMA 205 243	aumento testicular con zonas nodulares
+T18	SINTOMA 248 291	testículo izquierdo no muestra alteraciones

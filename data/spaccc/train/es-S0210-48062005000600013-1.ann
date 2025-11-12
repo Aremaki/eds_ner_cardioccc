@@ -1,20 +1,29 @@
-T1	SINTOMA 782 789	coagulo
-T2	SINTOMA 696 703	coágulo
-T3	SINTOMA 503 518	coágulo vesical
-T4	SINTOMA 250 273	compromiso hemodinámico
-T5	SINTOMA 594 624	desestabilización hemodinámica
-T6	SINTOMA 289 329	deterioro importante de la función renal
-T7	SINTOMA 385 429	ecografía urológica los riñones son normales
-T8	SINTOMA 1126 1135	hematuria
-T9	SINTOMA 222 248	hematuria total anemizante
-T10	SINTOMA 1138 1165	mejoría de la función renal
-T11	SINTOMA 804 829	mucosa vesical delustrada
-T12	SINTOMA 834 852	sangrado en sábana
-T13	ENFERMEDAD 48 75	insuficiencia renal crónica
-T14	ENFERMEDAD 77 80	IRC
-T15	ENFERMEDAD 94 113	artritis reumatoide
-T16	ENFERMEDAD 115 117	AR
-T17	ENFERMEDAD 222 248	hematuria total anemizante
-T18	ENFERMEDAD 869 901	lesiones vesicales macroscópicas
-T19	ENFERMEDAD 972 991	Amiloidosis vesical
-T20	ENFERMEDAD 503 518	coágulo vesical
+T1	ENFERMEDAD 48 75	insuficiencia renal crónica
+T2	ENFERMEDAD 77 80	IRC
+T3	ENFERMEDAD 94 113	artritis reumatoide
+T4	ENFERMEDAD 115 117	AR
+T5	ENFERMEDAD 222 248	hematuria total anemizante
+T6	ENFERMEDAD 869 901	lesiones vesicales macroscópicas
+T7	ENFERMEDAD 972 991	Amiloidosis vesical
+T8	ENFERMEDAD 503 518	coágulo vesical
+T9	PROCEDIMIENTO 170 181	corticoides
+T10	PROCEDIMIENTO 733 789	cirugía abierta, apertura vesical, extracción de coagulo
+T11	PROCEDIMIENTO 353 380	cirugía ortésica de rodilla
+T12	PROCEDIMIENTO 385 416	ecografía urológica los riñones
+T13	PROCEDIMIENTO 911 948	biopsias aleatorias de mucosa vesical
+T14	PROCEDIMIENTO 1055 1079	corticoides en perfusión
+T15	PROCEDIMIENTO 638 661	exploración endoscópica
+T16	PROCEDIMIENTO 536 572	manejo conservador con suero lavador
+T17	PROCEDIMIENTO 682 703	extracción de coágulo
+T18	SINTOMA 594 624	desestabilización hemodinámica
+T19	SINTOMA 289 329	deterioro importante de la función renal
+T20	SINTOMA 385 429	ecografía urológica los riñones son normales
+T21	SINTOMA 1126 1135	hematuria
+T22	SINTOMA 250 273	compromiso hemodinámico
+T23	SINTOMA 804 829	mucosa vesical delustrada
+T24	SINTOMA 834 852	sangrado en sábana
+T25	SINTOMA 222 248	hematuria total anemizante
+T26	SINTOMA 503 518	coágulo vesical
+T27	SINTOMA 696 703	coágulo
+T28	SINTOMA 782 789	coagulo
+T29	SINTOMA 1138 1165	mejoría de la función renal

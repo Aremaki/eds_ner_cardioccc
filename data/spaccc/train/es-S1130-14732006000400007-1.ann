@@ -1,63 +1,64 @@
-T1	SINTOMA 1961 1995	áreas de secuestro a nivel frontal
-T2	SINTOMA 1649 1704	cultivo y antibiograma (no se aislaron microorganismos)
-T3	SINTOMA 833 923	depósito patológico del trazador en seno maxilar, huesos propios nasales y senos frontales
-T4	SINTOMA 1829 1860	engrosamiento del hueso frontal
-T5	SINTOMA 3836 3871	relleno total de la cavidad sinusal
-T6	SINTOMA 2275 2322	seno frontal que había perdido la tabla externa
-T7	SINTOMA 3324 3398	tejido inflamatorio de tipo mixto con afectación de hueso y partes blandas
-T8	SINTOMA 3936 3976	tumefacción o supuración a nivel frontal
-T9	SINTOMA 1467 1541	tumoración blanda a nivel frontal que drenaba abundante material purulento
-T10	SINTOMA 1347 1375	tumoración en región frontal
-T11	SINTOMA 1742 1784	zona radiolúcida a nivel del hueso frontal
-T12	SINTOMA 3978 3986	cefaleas
-T13	SINTOMA 3989 3995	fiebre
-T14	SINTOMA 1391 1408	inflamación local
-T15	SINTOMA 1593 1600	cefalea
-T16	SINTOMA 1603 1609	fiebre
-T17	SINTOMA 3729 3738	molestias
-T18	ENFERMEDAD 27 34	fumador
-T19	ENFERMEDAD 37 53	bebedor moderado
-T20	ENFERMEDAD 55 77	alérgico a penicilinas
-T21	ENFERMEDAD 112 129	sinusitis maxilar
-T22	ENFERMEDAD 132 144	pansinusitis
-T23	ENFERMEDAD 170 209	plasmocitoma del seno frontal izquierdo
-T24	ENFERMEDAD 2184 2232	región glabelar incluyendo el trayecto fistuloso
-T25	ENFERMEDAD 3426 3438	plasmocitoma
-T26	ENFERMEDAD 953 960	mieloma
-T27	ENFERMEDAD 3465 3503	osteomielitis crónica del seno frontal
-T28	ENFERMEDAD 526 538	plasmocitoma
-T29	ENFERMEDAD 649 671	mucocele abscesificado
-T30	ENFERMEDAD 673 684	mucopiocele
-T31	ENFERMEDAD 3180 3188	cicatriz
-T32	ENFERMEDAD 1943 1956	osteomielitis
-T33	ENFERMEDAD 3101 3118	herida quirúrgica
-T34	ENFERMEDAD 4023 4040	herida quirúrgica
-T35	PROCEDIMIENTO 1294 1320	tratamiento quimioterápico
-T36	PROCEDIMIENTO 1440 1451	exploración
-T37	PROCEDIMIENTO 1619 1656	Se tomaron unas muestras para cultivo
-T38	PROCEDIMIENTO 1659 1671	antibiograma
-T39	PROCEDIMIENTO 1712 1724	Rx de cráneo
-T40	PROCEDIMIENTO 1790 1792	TC
-T41	PROCEDIMIENTO 1795 1797	RM
-T42	PROCEDIMIENTO 2110 2132	tratamiento quirúrgico
-T43	PROCEDIMIENTO 2149 2199	incisión en alas de mariposa en la región glabelar
-T44	PROCEDIMIENTO 219 246	biopsia por punción sinusal
-T45	PROCEDIMIENTO 2239 2258	despegar el colgajo
-T46	PROCEDIMIENTO 2341 2414	limpieza y legrado y a fresar las paredes del seno con material rotatorio
-T47	PROCEDIMIENTO 2416 2518	Se tomó un injerto de 50 cc. de hueso corticoesponjoso de la tibia proximal derecha mediante un trócar
-T48	PROCEDIMIENTO 2643 2677	extrajeron 250 cc de sangre venosa
-T49	PROCEDIMIENTO 2664 2758	sangre venosa para preparar el PRP, que fueron centrifugados mediante una técnica de dos fases
-T50	PROCEDIMIENTO 297 374	exéresis quirúrgica del mismo mediante una incisión a nivel de ceja izquierda
-T51	PROCEDIMIENTO 3031 3070	se rellenaron ambas cavidades sinusales
-T52	PROCEDIMIENTO 3088 3118	Se suturó la herida quirúrgica
-T53	PROCEDIMIENTO 3119 3188	colocándose plasma pobre en factores de crecimiento sobre la cicatriz
-T54	PROCEDIMIENTO 3214 3282	legrado de ambas cavidades sinusales para análisis anatomopatológico
-T55	PROCEDIMIENTO 3765 3767	TC
-T56	PROCEDIMIENTO 3798 3810	intervención
-T57	PROCEDIMIENTO 381 418	osteotomía de pared anterior del seno
-T58	PROCEDIMIENTO 3836 3871	relleno total de la cavidad sinusal
-T59	PROCEDIMIENTO 470 496	análisis anatomopatológico
-T60	PROCEDIMIENTO 561 616	análisis histopatológico de la mucosa sinusal extirpada
-T61	PROCEDIMIENTO 66 77	penicilinas
-T62	PROCEDIMIENTO 804 820	gammagrafía ósea
-T63	PROCEDIMIENTO 994 1007	quimioterapia
+T1	ENFERMEDAD 27 34	fumador
+T2	ENFERMEDAD 37 53	bebedor moderado
+T3	ENFERMEDAD 55 77	alérgico a penicilinas
+T4	ENFERMEDAD 112 129	sinusitis maxilar
+T5	ENFERMEDAD 132 144	pansinusitis
+T6	ENFERMEDAD 170 209	plasmocitoma del seno frontal izquierdo
+T7	ENFERMEDAD 2184 2232	región glabelar incluyendo el trayecto fistuloso
+T8	ENFERMEDAD 3426 3438	plasmocitoma
+T9	ENFERMEDAD 953 960	mieloma
+T10	ENFERMEDAD 3465 3503	osteomielitis crónica del seno frontal
+T11	ENFERMEDAD 526 538	plasmocitoma
+T12	ENFERMEDAD 649 671	mucocele abscesificado
+T13	ENFERMEDAD 673 684	mucopiocele
+T14	ENFERMEDAD 3180 3188	cicatriz
+T15	ENFERMEDAD 1943 1956	osteomielitis
+T16	ENFERMEDAD 3101 3118	herida quirúrgica
+T17	ENFERMEDAD 4023 4040	herida quirúrgica
+T18	PROCEDIMIENTO 3214 3282	legrado de ambas cavidades sinusales para análisis anatomopatológico
+T19	PROCEDIMIENTO 804 820	gammagrafía ósea
+T20	PROCEDIMIENTO 2149 2199	incisión en alas de mariposa en la región glabelar
+T21	PROCEDIMIENTO 219 246	biopsia por punción sinusal
+T22	PROCEDIMIENTO 2239 2258	despegar el colgajo
+T23	PROCEDIMIENTO 3765 3767	TC
+T24	PROCEDIMIENTO 994 1007	quimioterapia
+T25	PROCEDIMIENTO 3836 3871	relleno total de la cavidad sinusal
+T26	PROCEDIMIENTO 297 374	exéresis quirúrgica del mismo mediante una incisión a nivel de ceja izquierda
+T27	PROCEDIMIENTO 2341 2414	limpieza y legrado y a fresar las paredes del seno con material rotatorio
+T28	PROCEDIMIENTO 381 418	osteotomía de pared anterior del seno
+T29	PROCEDIMIENTO 2416 2518	Se tomó un injerto de 50 cc. de hueso corticoesponjoso de la tibia proximal derecha mediante un trócar
+T30	PROCEDIMIENTO 561 616	análisis histopatológico de la mucosa sinusal extirpada
+T31	PROCEDIMIENTO 1294 1320	tratamiento quimioterápico
+T32	PROCEDIMIENTO 2643 2677	extrajeron 250 cc de sangre venosa
+T33	PROCEDIMIENTO 1659 1671	antibiograma
+T34	PROCEDIMIENTO 1712 1724	Rx de cráneo
+T35	PROCEDIMIENTO 3031 3070	se rellenaron ambas cavidades sinusales
+T36	PROCEDIMIENTO 3088 3118	Se suturó la herida quirúrgica
+T37	PROCEDIMIENTO 1790 1792	TC
+T38	PROCEDIMIENTO 1795 1797	RM
+T39	PROCEDIMIENTO 1619 1656	Se tomaron unas muestras para cultivo
+T40	PROCEDIMIENTO 470 496	análisis anatomopatológico
+T41	PROCEDIMIENTO 2664 2758	sangre venosa para preparar el PRP, que fueron centrifugados mediante una técnica de dos fases
+T42	PROCEDIMIENTO 2914 2966	se activó el coágulo de PRP mediante cloruro cálcico
+T43	PROCEDIMIENTO 1440 1451	exploración
+T44	PROCEDIMIENTO 2110 2132	tratamiento quirúrgico
+T45	PROCEDIMIENTO 66 77	penicilinas
+T46	PROCEDIMIENTO 3119 3188	colocándose plasma pobre en factores de crecimiento sobre la cicatriz
+T47	PROCEDIMIENTO 3798 3810	intervención
+T48	SINTOMA 3324 3398	tejido inflamatorio de tipo mixto con afectación de hueso y partes blandas
+T49	SINTOMA 833 923	depósito patológico del trazador en seno maxilar, huesos propios nasales y senos frontales
+T50	SINTOMA 2275 2322	seno frontal que había perdido la tabla externa
+T51	SINTOMA 3936 3976	tumefacción o supuración a nivel frontal
+T52	SINTOMA 3978 3986	cefaleas
+T53	SINTOMA 3989 3995	fiebre
+T54	SINTOMA 1347 1375	tumoración en región frontal
+T55	SINTOMA 1391 1408	inflamación local
+T56	SINTOMA 1593 1600	cefalea
+T57	SINTOMA 1603 1609	fiebre
+T58	SINTOMA 1742 1784	zona radiolúcida a nivel del hueso frontal
+T59	SINTOMA 1829 1860	engrosamiento del hueso frontal
+T60	SINTOMA 1961 1995	áreas de secuestro a nivel frontal
+T61	SINTOMA 1467 1541	tumoración blanda a nivel frontal que drenaba abundante material purulento
+T62	SINTOMA 1649 1704	cultivo y antibiograma (no se aislaron microorganismos)
+T63	SINTOMA 3836 3871	relleno total de la cavidad sinusal
+T64	SINTOMA 3729 3738	molestias

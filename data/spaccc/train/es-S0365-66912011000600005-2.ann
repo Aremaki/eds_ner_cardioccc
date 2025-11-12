@@ -1,10 +1,13 @@
-T1	SINTOMA 333 361	«manchas» en el campo visual
-T2	SINTOMA 123 139	baja carga viral
-T3	SINTOMA 742 792	exudado algodonoso en reabsorción inferior a fóvea
-T4	SINTOMA 495 533	exudados algodonosos en polo posterior
-T5	SINTOMA 316 330	visión borrosa
-T6	ENFERMEDAD 17 54	ex-adicto a drogas por vía parenteral
-T7	ENFERMEDAD 74 114	hepatitis crónica por virus C genotipo 4
-T8	ENFERMEDAD 553 572	retinopatía por IFN
-T9	ENFERMEDAD 316 330	visión borrosa
-T10	ENFERMEDAD 333 361	«manchas» en el campo visual
+T1	ENFERMEDAD 17 54	ex-adicto a drogas por vía parenteral
+T2	ENFERMEDAD 74 114	hepatitis crónica por virus C genotipo 4
+T3	ENFERMEDAD 553 572	retinopatía por IFN
+T4	ENFERMEDAD 316 330	visión borrosa
+T5	ENFERMEDAD 333 361	«manchas» en el campo visual
+T6	PROCEDIMIENTO 405 430	exploración oftalmológica
+T7	PROCEDIMIENTO 714 716	FO
+T8	PROCEDIMIENTO 128 139	carga viral
+T9	SINTOMA 316 330	visión borrosa
+T10	SINTOMA 495 533	exudados algodonosos en polo posterior
+T11	SINTOMA 742 792	exudado algodonoso en reabsorción inferior a fóvea
+T12	SINTOMA 333 361	«manchas» en el campo visual
+T13	SINTOMA 123 139	baja carga viral

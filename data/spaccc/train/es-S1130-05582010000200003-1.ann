@@ -1,11 +1,37 @@
-T1	SINTOMA 1356 1441	bolsón vascular de 36 × 25 × 24 cm, situado por detrás de la rama vertical mandibular
-T2	SINTOMA 688 728	dolor y tumefacción a nivel preauricular
-T3	SINTOMA 1663 1707	drenaje venoso hacia la vena yugular externa
-T4	SINTOMA 2069 2122	flujo retrógrado de la arteria facial hacia el bolsón
-T5	SINTOMA 1577 1657	imagen de aferencia arterial proveniente de ramas de la arteria carótida externa
-T6	SINTOMA 2365 2414	relleno retrógrado tardío desde la arteria facial
-T7	SINTOMA 914 937	tumoración preauricular
-T8	SINTOMA 830 838	tinnitus
-T9	SINTOMA 877 907	limitación de la apertura oral
-T10	SINTOMA 289 299	hipotermia
-T11	SINTOMA 1053 1057	masa
+T1	ENFERMEDAD 1197 1233	fístula arteriovenosa intraparotídea
+T2	ENFERMEDAD 1805 1820	lesión vascular
+T3	ENFERMEDAD 2550 2588	oclusión de la arteria maxilar interna
+T4	ENFERMEDAD 756 806	cicatriz quirúrgica de una de las heridas faciales
+T5	ENFERMEDAD 139 206	heridas incisas en la cara, el cuello, el cuero cabelludo y la mano
+T6	ENFERMEDAD 321 346	acidosis metabólica grave
+T7	ENFERMEDAD 348 361	hipopotasemia
+T8	ENFERMEDAD 364 383	fracaso renal agudo
+T9	ENFERMEDAD 46 54	agresión
+T10	ENFERMEDAD 508 515	heridas
+T11	ENFERMEDAD 2602 2632	trombosis del bolsón fistuloso
+T12	PROCEDIMIENTO 1265 1319	tomografía computarizada (TC) cervicofacial y cervical
+T13	PROCEDIMIENTO 1133 1152	ecografía parotídea
+T14	PROCEDIMIENTO 1291 1293	TC
+T15	PROCEDIMIENTO 1769 1780	angiografía
+T16	PROCEDIMIENTO 2531 2539	angio-TC
+T17	PROCEDIMIENTO 846 864	exploración física
+T18	PROCEDIMIENTO 396 416	ventilación mecánica
+T19	PROCEDIMIENTO 2176 2188	embolización
+T20	PROCEDIMIENTO 485 515	sutura primaria de las heridas
+T21	PROCEDIMIENTO 2202 2248	microcateterismo de la arteria maxilar interna
+T22	PROCEDIMIENTO 2327 2347	control angiográfico
+T23	PROCEDIMIENTO 2365 2424	relleno retrógrado tardío desde la arteria facial izquierda
+T24	PROCEDIMIENTO 1034 1046	auscultación
+T25	PROCEDIMIENTO 2258 2294	oclusión mediante espiral de platino
+T26	PROCEDIMIENTO 1000 1009	palpación
+T27	SINTOMA 688 728	dolor y tumefacción a nivel preauricular
+T28	SINTOMA 1356 1441	bolsón vascular de 36 × 25 × 24 cm, situado por detrás de la rama vertical mandibular
+T29	SINTOMA 830 838	tinnitus
+T30	SINTOMA 877 907	limitación de la apertura oral
+T31	SINTOMA 289 299	hipotermia
+T32	SINTOMA 914 937	tumoración preauricular
+T33	SINTOMA 1663 1707	drenaje venoso hacia la vena yugular externa
+T34	SINTOMA 1053 1057	masa
+T35	SINTOMA 1577 1657	imagen de aferencia arterial proveniente de ramas de la arteria carótida externa
+T36	SINTOMA 2069 2122	flujo retrógrado de la arteria facial hacia el bolsón
+T37	SINTOMA 2365 2414	relleno retrógrado tardío desde la arteria facial

@@ -1,6 +1,8 @@
-T1	SINTOMA 45 86	mancha azulada en la región nasoorbitaria
-T2	SINTOMA 216 293	masa pedunculada de 4 cm, que interesaba el surco nasoorbitario y dorso nasal
-T3	ENFERMEDAD 363 373	estrabismo
-T4	ENFERMEDAD 548 568	hemangioma fibrosado
-T5	ENFERMEDAD 343 349	lesión
-T6	ENFERMEDAD 45 86	mancha azulada en la región nasoorbitaria
+T1	ENFERMEDAD 363 373	estrabismo
+T2	ENFERMEDAD 548 568	hemangioma fibrosado
+T3	ENFERMEDAD 343 349	lesión
+T4	ENFERMEDAD 45 86	mancha azulada en la región nasoorbitaria
+T5	PROCEDIMIENTO 535 558	exéresis del hemangioma
+T6	PROCEDIMIENTO 587 607	incisión supracilial
+T7	SINTOMA 45 86	mancha azulada en la región nasoorbitaria
+T8	SINTOMA 216 293	masa pedunculada de 4 cm, que interesaba el surco nasoorbitario y dorso nasal

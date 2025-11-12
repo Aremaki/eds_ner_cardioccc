@@ -1,9 +1,13 @@
-T1	SINTOMA 344 364	hemocultivo negativo
-T2	SINTOMA 685 728	positiva la serología a Bartonella henselae
-T3	SINTOMA 48 54	fiebre
-T4	SINTOMA 393 399	fiebre
-T5	SINTOMA 578 584	fiebre
-T6	ENFERMEDAD 93 110	adenopatía axilar
-T7	ENFERMEDAD 173 189	arañazos en mano
-T8	ENFERMEDAD 421 431	adenopatía
-T9	ENFERMEDAD 444 474	Enfermedad por Arañazo de Gato
+T1	ENFERMEDAD 93 110	adenopatía axilar
+T2	ENFERMEDAD 173 189	arañazos en mano
+T3	ENFERMEDAD 421 431	adenopatía
+T4	ENFERMEDAD 444 474	Enfermedad por Arañazo de Gato
+T5	PROCEDIMIENTO 344 355	hemocultivo
+T6	PROCEDIMIENTO 125 136	exploración
+T7	PROCEDIMIENTO 487 496	serología
+T8	PROCEDIMIENTO 697 706	serología
+T9	SINTOMA 48 54	fiebre
+T10	SINTOMA 393 399	fiebre
+T11	SINTOMA 578 584	fiebre
+T12	SINTOMA 344 364	hemocultivo negativo
+T13	SINTOMA 685 728	positiva la serología a Bartonella henselae

@@ -1,28 +1,39 @@
-T1	SINTOMA 654 691	escotoma periférico temporal superior
-T2	SINTOMA 811 895	estudio hematológico completo y las pruebas de coagulación sanguínea fueron normales
-T3	SINTOMA 1001 1023	hemorragias retinianas
-T4	SINTOMA 983 994	microhifema
-T5	SINTOMA 246 257	microhifema
-T6	SINTOMA 1377 1388	microhifema
-T7	SINTOMA 747 806	neovascularización retiniana en el cuadrante nasal inferior
-T8	SINTOMA 185 207	ojo derecho fue normal
-T9	SINTOMA 339 400	ojo izquierdo hemorragias retinianas redondeadas ecuatoriales
-T10	SINTOMA 1427 1437	resangrado
-T11	SINTOMA 924 978	test de enfermedad de células falciformes fue negativo
-T12	SINTOMA 406 452	valores de presión intraocular fueron normales
-T13	ENFERMEDAD 69 125	traumatismo ocular en su ojo izquierdo con un tirachinas
-T14	ENFERMEDAD 264 280	uveítis anterior
-T15	ENFERMEDAD 353 400	hemorragias retinianas redondeadas ecuatoriales
-T16	ENFERMEDAD 517 555	isquemia retiniana periférica inferior
-T17	ENFERMEDAD 654 691	escotoma periférico temporal superior
-T18	ENFERMEDAD 983 994	microhifema
-T19	ENFERMEDAD 1377 1388	microhifema
-T20	ENFERMEDAD 1601 1619	isquemia retiniana
-T21	ENFERMEDAD 1485 1513	trastornos de la coagulación
-T22	ENFERMEDAD 246 257	microhifema
-T23	ENFERMEDAD 747 775	neovascularización retiniana
-T24	ENFERMEDAD 1001 1023	hemorragias retinianas
-T25	ENFERMEDAD 1543 1572	déficit de factores VIII y XI
-T26	ENFERMEDAD 1575 1596	déficit de vitamina K
-T27	ENFERMEDAD 602 613	traumatismo
-T28	ENFERMEDAD 932 965	enfermedad de células falciformes
+T1	ENFERMEDAD 69 125	traumatismo ocular en su ojo izquierdo con un tirachinas
+T2	ENFERMEDAD 264 280	uveítis anterior
+T3	ENFERMEDAD 353 400	hemorragias retinianas redondeadas ecuatoriales
+T4	ENFERMEDAD 517 555	isquemia retiniana periférica inferior
+T5	ENFERMEDAD 654 691	escotoma periférico temporal superior
+T6	ENFERMEDAD 983 994	microhifema
+T7	ENFERMEDAD 1377 1388	microhifema
+T8	ENFERMEDAD 1601 1619	isquemia retiniana
+T9	ENFERMEDAD 1485 1513	trastornos de la coagulación
+T10	ENFERMEDAD 246 257	microhifema
+T11	ENFERMEDAD 747 775	neovascularización retiniana
+T12	ENFERMEDAD 1001 1023	hemorragias retinianas
+T13	ENFERMEDAD 1543 1572	déficit de factores VIII y XI
+T14	ENFERMEDAD 1575 1596	déficit de vitamina K
+T15	ENFERMEDAD 602 613	traumatismo
+T16	ENFERMEDAD 932 965	enfermedad de células falciformes
+T17	PROCEDIMIENTO 174 196	examen del ojo derecho
+T18	PROCEDIMIENTO 285 323	examen de fondo de ojo bajo dilatación
+T19	PROCEDIMIENTO 572 575	AFG
+T20	PROCEDIMIENTO 1088 1107	corticoides tópicos
+T21	PROCEDIMIENTO 1601 1670	isquemia retiniana fue tratada con fotocoagulación con láser de argón
+T22	PROCEDIMIENTO 1262 1294	antiinflamatorios no esteroideos
+T23	PROCEDIMIENTO 811 831	estudio hematológico
+T24	PROCEDIMIENTO 847 879	pruebas de coagulación sanguínea
+T25	PROCEDIMIENTO 1245 1256	salicilatos
+T26	PROCEDIMIENTO 924 965	test de enfermedad de células falciformes
+T27	PROCEDIMIENTO 1109 1126	protección ocular
+T28	SINTOMA 1427 1437	resangrado
+T29	SINTOMA 811 895	estudio hematológico completo y las pruebas de coagulación sanguínea fueron normales
+T30	SINTOMA 924 978	test de enfermedad de células falciformes fue negativo
+T31	SINTOMA 185 207	ojo derecho fue normal
+T32	SINTOMA 406 452	valores de presión intraocular fueron normales
+T33	SINTOMA 654 691	escotoma periférico temporal superior
+T34	SINTOMA 339 400	ojo izquierdo hemorragias retinianas redondeadas ecuatoriales
+T35	SINTOMA 747 806	neovascularización retiniana en el cuadrante nasal inferior
+T36	SINTOMA 1001 1023	hemorragias retinianas
+T37	SINTOMA 983 994	microhifema
+T38	SINTOMA 246 257	microhifema
+T39	SINTOMA 1377 1388	microhifema

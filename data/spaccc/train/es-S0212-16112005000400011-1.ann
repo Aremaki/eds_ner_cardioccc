@@ -1,16 +1,41 @@
-T1	SINTOMA 1922 1937	dolor abdominal
-T2	SINTOMA 1468 1483	dolor abdominal
-T3	SINTOMA 2269 2276	eritema
-T4	SINTOMA 2609 2615	exitus
-T5	SINTOMA 1913 1919	fiebre
-T6	SINTOMA 2299 2306	prurito
-T7	SINTOMA 1739 1778	erupción cutánea pruriginosa diseminada
-T8	SINTOMA 1176 1215	erupción cutánea pruriginosa diseminada
-T9	ENFERMEDAD 73 96	adenocarcinoma gástrico
-T10	ENFERMEDAD 1963 1973	colangitis
-T11	ENFERMEDAD 2560 2589	proceso neoformativo gástrico
-T12	ENFERMEDAD 1176 1215	erupción cutánea pruriginosa diseminada
-T13	ENFERMEDAD 1550 1578	absceso con colección biliar
-T14	ENFERMEDAD 1739 1778	erupción cutánea pruriginosa diseminada
-T15	ENFERMEDAD 2120 2137	hipersensibilidad
-T16	ENFERMEDAD 37 45	alergias
+T1	ENFERMEDAD 73 96	adenocarcinoma gástrico
+T2	ENFERMEDAD 1963 1973	colangitis
+T3	ENFERMEDAD 2560 2589	proceso neoformativo gástrico
+T4	ENFERMEDAD 1176 1215	erupción cutánea pruriginosa diseminada
+T5	ENFERMEDAD 1550 1578	absceso con colección biliar
+T6	ENFERMEDAD 1739 1778	erupción cutánea pruriginosa diseminada
+T7	ENFERMEDAD 2120 2137	hipersensibilidad
+T8	ENFERMEDAD 37 45	alergias
+T9	PROCEDIMIENTO 2030 2066	tratamiento antibiótico y analgésico
+T10	PROCEDIMIENTO 204 225	gastrectomía subtotal
+T11	PROCEDIMIENTO 230 297	reconstrucción del tránsito mediante gastroyeyunostomía Billroth II
+T12	PROCEDIMIENTO 2167 2170	NPT
+T13	PROCEDIMIENTO 2172 2225	administrándose una solución de aminoácidos y glucosa
+T14	PROCEDIMIENTO 447 484	administración de NPT por vía central
+T15	PROCEDIMIENTO 784 807	alimentación parenteral
+T16	PROCEDIMIENTO 1351 1369	retirada de la NPT
+T17	PROCEDIMIENTO 1509 1533	laparotomía exploratoria
+T18	PROCEDIMIENTO 1595 1598	NPT
+T19	PROCEDIMIENTO 1823 1826	NPT
+T20	PROCEDIMIENTO 2077 2091	dieta absoluta
+T21	PROCEDIMIENTO 410 430	nutrición artificial
+T22	PROCEDIMIENTO 2323 2394	se añade emulsión lipídica (Intralipid® 10%, tabla III) por vía central
+T23	PROCEDIMIENTO 643 668	preparado multivitamínico
+T24	PROCEDIMIENTO 670 673	PMV
+T25	PROCEDIMIENTO 689 703	oligoelementos
+T26	PROCEDIMIENTO 989 1037	suplementada con los mismos PMV y oligoelementos
+T27	PROCEDIMIENTO 1616 1654	dieta Kabiven® suplementada con el PMV
+T28	PROCEDIMIENTO 324 347	intervención quirúrgica
+T29	PROCEDIMIENTO 1424 1447	intervención quirúrgica
+T30	PROCEDIMIENTO 1116 1138	infusión de esta dieta
+T31	PROCEDIMIENTO 2477 2480	PMV
+T32	PROCEDIMIENTO 2488 2502	oligoelementos
+T33	PROCEDIMIENTO 1073 1082	vitaminas
+T34	SINTOMA 1922 1937	dolor abdominal
+T35	SINTOMA 2269 2276	eritema
+T36	SINTOMA 2299 2306	prurito
+T37	SINTOMA 1913 1919	fiebre
+T38	SINTOMA 2609 2615	exitus
+T39	SINTOMA 1468 1483	dolor abdominal
+T40	SINTOMA 1176 1215	erupción cutánea pruriginosa diseminada
+T41	SINTOMA 1739 1778	erupción cutánea pruriginosa diseminada

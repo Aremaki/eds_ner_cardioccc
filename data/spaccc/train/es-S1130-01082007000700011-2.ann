@@ -1,31 +1,54 @@
-T1	SINTOMA 1463 1505	A nivel analítico no presentaba alteración
-T2	SINTOMA 1235 1242	afebril
-T3	SINTOMA 1429 1461	alteraciones a nivel neurológico
-T4	SINTOMA 301 328	disfagia moderada a sólidos
-T5	SINTOMA 634 651	dolor epigástrico
-T6	SINTOMA 1208 1233	estado general conservado
-T7	SINTOMA 2175 2232	fibrobroncoscopia no se encontraron hallazgos patológicos
-T8	SINTOMA 2593 2622	masa extrínseca retrocardiaca
-T9	SINTOMA 2802 2852	TAC craneal no demostró ningún hallazgo patológico
-T10	SINTOMA 2394 2435	tumoración esofágica vegetante y ulcerada
-T11	PROCEDIMIENTO 1170 1181	exploración
-T12	PROCEDIMIENTO 128 154	intervenciones quirúrgicas
-T13	PROCEDIMIENTO 1300 1327	auscultación cardiopulmonar
-T14	PROCEDIMIENTO 1527 1565	estudio esofagogastroduodenal baritado
-T15	PROCEDIMIENTO 156 171	colecistectomía
-T16	PROCEDIMIENTO 173 187	amigdalectomía
-T17	PROCEDIMIENTO 1748 1768	TAC toraco-abdominal
-T18	PROCEDIMIENTO 190 211	anexectomía bilateral
-T19	PROCEDIMIENTO 2175 2192	fibrobroncoscopia
-T20	PROCEDIMIENTO 2248 2281	aspirado de punción transtorácica
-T21	PROCEDIMIENTO 2369 2382	ecoendoscopia
-T22	PROCEDIMIENTO 2541 2560	paso del endoscopio
-T23	PROCEDIMIENTO 2717 2724	biopsia
-T24	PROCEDIMIENTO 2802 2813	TAC craneal
-T25	PROCEDIMIENTO 2905 2912	cirugía
+T1	ENFERMEDAD 2878 2887	neoplasia
+T2	ENFERMEDAD 1784 1828	neoplasia a nivel del tercio medio esofágico
+T3	ENFERMEDAD 70 78	fumadora
+T4	ENFERMEDAD 1261 1272	adenopatías
+T5	ENFERMEDAD 1869 1919	adenopatías en el área subcarinal, supraclavicular
+T6	ENFERMEDAD 1357 1400	cicatriz subcostal derecha e infraumbilical
+T7	ENFERMEDAD 1951 2014	adenopatías en retroperitoneo, área retrocrural y cadena iliaca
+T8	ENFERMEDAD 217 239	polimiomatosis uterina
+T9	ENFERMEDAD 2648 2666	infiltraba esófago
+T10	ENFERMEDAD 2690 2710	adenopatías celiacas
+T11	ENFERMEDAD 2090 2106	quiste esplénico
+T12	ENFERMEDAD 2124 2167	lesión ocupante de espacio a nivel pulmonar
+T13	ENFERMEDAD 2754 2797	carcinoma de células pequeñas tipo oat-cell
+T14	ENFERMEDAD 424 439	hernia de hiato
+T15	ENFERMEDAD 2303 2326	carcinoma tipo oat-cell
+T16	ENFERMEDAD 2347 2363	invasión pleural
+T17	ENFERMEDAD 829 895	carcinoma de célula pequeña tipo “oat-cell” ulcerado e infiltrante
+T18	ENFERMEDAD 1047 1061	tumor primario
+T19	ENFERMEDAD 1128 1137	neoplasia
+T20	ENFERMEDAD 2047 2079	metástasis hepáticas bilobulares
+T21	ENFERMEDAD 301 318	disfagia moderada
+T22	ENFERMEDAD 759 800	lesión a nivel de tercio medio de esófago
+T23	PROCEDIMIENTO 2369 2382	ecoendoscopia
+T24	PROCEDIMIENTO 1748 1768	TAC toraco-abdominal
+T25	PROCEDIMIENTO 1527 1565	estudio esofagogastroduodenal baritado
 T26	PROCEDIMIENTO 2931 2944	quimioterapia
-T27	PROCEDIMIENTO 3090 3120	esquema con CDDP más etopósido
-T28	PROCEDIMIENTO 378 403	endoscopia digestiva alta
-T29	PROCEDIMIENTO 472 507	inhibidores de la bomba de protones
-T30	PROCEDIMIENTO 721 731	endoscopia
-T31	PROCEDIMIENTO 759 811	lesión a nivel de tercio medio de esófago, biopsiada
+T27	PROCEDIMIENTO 1300 1327	auscultación cardiopulmonar
+T28	PROCEDIMIENTO 156 171	colecistectomía
+T29	PROCEDIMIENTO 173 187	amigdalectomía
+T30	PROCEDIMIENTO 190 211	anexectomía bilateral
+T31	PROCEDIMIENTO 378 403	endoscopia digestiva alta
+T32	PROCEDIMIENTO 2175 2192	fibrobroncoscopia
+T33	PROCEDIMIENTO 2802 2813	TAC craneal
+T34	PROCEDIMIENTO 472 507	inhibidores de la bomba de protones
+T35	PROCEDIMIENTO 2248 2281	aspirado de punción transtorácica
+T36	PROCEDIMIENTO 721 731	endoscopia
+T37	PROCEDIMIENTO 2717 2724	biopsia
+T38	PROCEDIMIENTO 2541 2560	paso del endoscopio
+T39	PROCEDIMIENTO 3102 3106	CDDP
+T40	PROCEDIMIENTO 1170 1181	exploración
+T41	PROCEDIMIENTO 128 154	intervenciones quirúrgicas
+T42	PROCEDIMIENTO 759 811	lesión a nivel de tercio medio de esófago, biopsiada
+T43	PROCEDIMIENTO 2905 2912	cirugía
+T44	PROCEDIMIENTO 3090 3120	esquema con CDDP más etopósido
+T45	SINTOMA 1235 1242	afebril
+T46	SINTOMA 301 328	disfagia moderada a sólidos
+T47	SINTOMA 634 651	dolor epigástrico
+T48	SINTOMA 1208 1233	estado general conservado
+T49	SINTOMA 2593 2622	masa extrínseca retrocardiaca
+T50	SINTOMA 1429 1461	alteraciones a nivel neurológico
+T51	SINTOMA 2175 2232	fibrobroncoscopia no se encontraron hallazgos patológicos
+T52	SINTOMA 2394 2435	tumoración esofágica vegetante y ulcerada
+T53	SINTOMA 1463 1505	A nivel analítico no presentaba alteración
+T54	SINTOMA 2802 2852	TAC craneal no demostró ningún hallazgo patológico

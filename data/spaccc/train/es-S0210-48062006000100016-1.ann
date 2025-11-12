@@ -1,10 +1,15 @@
-T1	SINTOMA 280 296	aspecto quístico
-T2	SINTOMA 26 51	embarazo y parto normales
-T3	SINTOMA 747 757	tumoración
-T4	SINTOMA 94 139	tumoración de 1 cm de diámetro en el introito
-T5	ENFERMEDAD 363 374	Ureterocele
-T6	ENFERMEDAD 554 581	quiste parauretral de Skene
-T7	ENFERMEDAD 267 273	lesión
-T8	ENFERMEDAD 515 521	lesión
-T9	ENFERMEDAD 648 654	lesión
-T10	ENFERMEDAD 428 447	dilatación urinaria
+T1	ENFERMEDAD 363 374	Ureterocele
+T2	ENFERMEDAD 554 581	quiste parauretral de Skene
+T3	ENFERMEDAD 267 273	lesión
+T4	ENFERMEDAD 515 521	lesión
+T5	ENFERMEDAD 648 654	lesión
+T6	ENFERMEDAD 428 447	dilatación urinaria
+T7	PROCEDIMIENTO 388 397	ecografía
+T8	PROCEDIMIENTO 455 473	ecografía perineal
+T9	PROCEDIMIENTO 59 78	exploración clínica
+T10	PROCEDIMIENTO 151 160	palpación
+T11	PROCEDIMIENTO 37 42	parto
+T12	SINTOMA 94 139	tumoración de 1 cm de diámetro en el introito
+T13	SINTOMA 747 757	tumoración
+T14	SINTOMA 280 296	aspecto quístico
+T15	SINTOMA 26 51	embarazo y parto normales

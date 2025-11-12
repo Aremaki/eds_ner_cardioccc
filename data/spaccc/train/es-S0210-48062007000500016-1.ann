@@ -1,60 +1,76 @@
-T1	SINTOMA 829 884	abdomen globuloso, blando y depresible, no peritonítico
-T2	SINTOMA 3534 3577	área hiperecogénica en el lóbulo prostático
-T3	SINTOMA 2764 2775	colecciones
-T4	SINTOMA 2994 3005	colecciones
-T5	SINTOMA 771 778	confuso
-T6	SINTOMA 1170 1223	disminución de la fuerza en ambos miembros inferiores
-T7	SINTOMA 505 512	disuria
-T8	SINTOMA 515 569	dolor sacro que se irradia a ambos miembros inferiores
-T9	SINTOMA 886 934	Doloroso a la palpación en área lumbar bilateral
-T10	SINTOMA 1041 1070	exploración genital es normal
-T11	SINTOMA 697 703	fiebre
-T12	SINTOMA 1023 1036	globo vesical
-T13	SINTOMA 744 769	hemodinámicamente estable
-T14	SINTOMA 447 469	incontinencia urinaria
-T15	SINTOMA 2509 2551	líquido cefalorraquídeo turbio-amarillento
-T16	SINTOMA 3151 3208	muestras (punción prostática y lumbar) se aisló S. aureus
-T17	SINTOMA 1641 1659	nitritos negativos
-T18	SINTOMA 1609 1639	orina con leucocitos negativos
-T19	SINTOMA 2021 2049	Próstata aumentada de tamaño
-T20	SINTOMA 2982 2985	pus
-T21	SINTOMA 1285 1329	reflejos rotuliano y aquileo están presentes
-T22	SINTOMA 1662 1678	sedimento normal
-T23	SINTOMA 1251 1279	sensibilidad esta conservada
-T24	SINTOMA 375 390	síndrome febril
-T25	SINTOMA 276 295	síndrome prostático
-T26	SINTOMA 780 791	somnoliento
-T27	SINTOMA 794 802	sudoroso
-T28	SINTOMA 1077 1133	tacto rectal volumen I adenomatosa, ligeramente doloroso
-T29	SINTOMA 623 637	tenesmo rectal
-T30	PROCEDIMIENTO 1041 1060	exploración genital
-T31	PROCEDIMIENTO 1077 1089	tacto rectal
-T32	PROCEDIMIENTO 1138 1161	exploración neurológica
-T33	PROCEDIMIENTO 1355 1364	analítica
-T34	PROCEDIMIENTO 1377 1386	hemograma
-T35	PROCEDIMIENTO 1389 1399	bioquímica
+T1	ENFERMEDAD 2316 2334	absceso prostático
+T2	ENFERMEDAD 2704 2722	absceso prostático
+T3	ENFERMEDAD 60 76	etilismo crónico
+T4	ENFERMEDAD 1921 1958	riñones con múltiples quistes simples
+T5	ENFERMEDAD 79 95	hábito tabáquico
+T6	ENFERMEDAD 1961 1975	litiasis renal
+T7	ENFERMEDAD 1990 2019	dilatación de la vía urinaria
+T8	ENFERMEDAD 2021 2049	Próstata aumentada de tamaño
+T9	ENFERMEDAD 174 242	hemorragia digestiva alta secundaria a analgésicos antiinflamatorios
+T10	ENFERMEDAD 3366 3382	empiema subdural
+T11	ENFERMEDAD 3398 3415	espondilodiscitis
+T12	ENFERMEDAD 276 295	síndrome prostático
+T13	ENFERMEDAD 3757 3769	endocarditis
+T14	ENFERMEDAD 3914 3930	empiema subdural
+T15	ENFERMEDAD 2148 2166	absceso prostático
+T16	ENFERMEDAD 2068 2076	lesiones
+T17	PROCEDIMIENTO 809 827	exploración física
+T18	PROCEDIMIENTO 2316 2390	absceso prostático decidimos drenaje de la colección bajo control con ECTR
+T19	PROCEDIMIENTO 2439 2453	punción lumbar
+T20	PROCEDIMIENTO 1875 1895	TAC abdomino-pélvica
+T21	PROCEDIMIENTO 3456 3460	ECTR
+T22	PROCEDIMIENTO 1377 1386	hemograma
+T23	PROCEDIMIENTO 2466 2486	anestesia intradural
+T24	PROCEDIMIENTO 2393 2412	derivación urinaria
+T25	PROCEDIMIENTO 3560 3624	lóbulo prostático derecho, se evacuan 4 cc de material purulento
+T26	PROCEDIMIENTO 3327 3337	RMN lumbar
+T27	PROCEDIMIENTO 1077 1089	tacto rectal
+T28	PROCEDIMIENTO 2934 2962	punción-drenaje vía perineal
+T29	PROCEDIMIENTO 3718 3742	ecografía transesofágica
+T30	PROCEDIMIENTO 1138 1161	exploración neurológica
+T31	PROCEDIMIENTO 3793 3803	RMN lumbar
+T32	PROCEDIMIENTO 1711 1733	estudio de coagulación
+T33	PROCEDIMIENTO 3017 3076	dejando colocado una sonda de cistostomía a modo de drenaje
+T34	PROCEDIMIENTO 3078 3129	Derivamos la orina mediante cistostomía suprapúbica
+T35	PROCEDIMIENTO 3851 3874	tratamiento antibiótico
 T36	PROCEDIMIENTO 1597 1614	análisis de orina
-T37	PROCEDIMIENTO 1662 1671	sedimento
-T38	PROCEDIMIENTO 1711 1733	estudio de coagulación
-T39	PROCEDIMIENTO 1875 1895	TAC abdomino-pélvica
-T40	PROCEDIMIENTO 213 242	analgésicos antiinflamatorios
-T41	PROCEDIMIENTO 2190 2222	tratamiento antibiótico empírico
-T42	PROCEDIMIENTO 2316 2390	absceso prostático decidimos drenaje de la colección bajo control con ECTR
-T43	PROCEDIMIENTO 2393 2412	derivación urinaria
-T44	PROCEDIMIENTO 2439 2453	punción lumbar
-T45	PROCEDIMIENTO 2466 2486	anestesia intradural
-T46	PROCEDIMIENTO 2509 2603	líquido cefalorraquídeo turbio-amarillento y se envía una muestra a microbiología y bioquímica
-T47	PROCEDIMIENTO 2729 2733	ECTR
-T48	PROCEDIMIENTO 2934 2962	punción-drenaje vía perineal
-T49	PROCEDIMIENTO 3017 3076	dejando colocado una sonda de cistostomía a modo de drenaje
-T50	PROCEDIMIENTO 3078 3129	Derivamos la orina mediante cistostomía suprapúbica
-T51	PROCEDIMIENTO 3136 3143	cultivo
-T52	PROCEDIMIENTO 3327 3337	RMN lumbar
-T53	PROCEDIMIENTO 3456 3460	ECTR
-T54	PROCEDIMIENTO 3502 3585	es necesario drenar de nuevo un área hiperecogénica en el lóbulo prostático derecho
-T55	PROCEDIMIENTO 3560 3624	lóbulo prostático derecho, se evacuan 4 cc de material purulento
-T56	PROCEDIMIENTO 3718 3742	ecografía transesofágica
-T57	PROCEDIMIENTO 3793 3803	RMN lumbar
-T58	PROCEDIMIENTO 3851 3874	tratamiento antibiótico
-T59	PROCEDIMIENTO 809 827	exploración física
-T60	PROCEDIMIENTO 900 1004	palpación en área lumbar bilateral a la altura de L5-S1, así como en área hipogástrica y región perineal
+T37	PROCEDIMIENTO 1389 1399	bioquímica
+T38	PROCEDIMIENTO 2729 2733	ECTR
+T39	PROCEDIMIENTO 213 242	analgésicos antiinflamatorios
+T40	PROCEDIMIENTO 1662 1671	sedimento
+T41	PROCEDIMIENTO 3136 3143	cultivo
+T42	PROCEDIMIENTO 2190 2222	tratamiento antibiótico empírico
+T43	PROCEDIMIENTO 1041 1060	exploración genital
+T44	PROCEDIMIENTO 2509 2603	líquido cefalorraquídeo turbio-amarillento y se envía una muestra a microbiología y bioquímica
+T45	PROCEDIMIENTO 3502 3585	es necesario drenar de nuevo un área hiperecogénica en el lóbulo prostático derecho
+T46	PROCEDIMIENTO 1355 1364	analítica
+T47	PROCEDIMIENTO 900 1004	palpación en área lumbar bilateral a la altura de L5-S1, así como en área hipogástrica y región perineal
+T48	SINTOMA 375 390	síndrome febril
+T49	SINTOMA 829 884	abdomen globuloso, blando y depresible, no peritonítico
+T50	SINTOMA 886 934	Doloroso a la palpación en área lumbar bilateral
+T51	SINTOMA 447 469	incontinencia urinaria
+T52	SINTOMA 2509 2551	líquido cefalorraquídeo turbio-amarillento
+T53	SINTOMA 505 512	disuria
+T54	SINTOMA 515 569	dolor sacro que se irradia a ambos miembros inferiores
+T55	SINTOMA 1023 1036	globo vesical
+T56	SINTOMA 1041 1070	exploración genital es normal
+T57	SINTOMA 623 637	tenesmo rectal
+T58	SINTOMA 1170 1223	disminución de la fuerza en ambos miembros inferiores
+T59	SINTOMA 697 703	fiebre
+T60	SINTOMA 744 769	hemodinámicamente estable
+T61	SINTOMA 771 778	confuso
+T62	SINTOMA 780 791	somnoliento
+T63	SINTOMA 794 802	sudoroso
+T64	SINTOMA 1285 1329	reflejos rotuliano y aquileo están presentes
+T65	SINTOMA 2982 2985	pus
+T66	SINTOMA 1251 1279	sensibilidad esta conservada
+T67	SINTOMA 2994 3005	colecciones
+T68	SINTOMA 1662 1678	sedimento normal
+T69	SINTOMA 276 295	síndrome prostático
+T70	SINTOMA 1077 1133	tacto rectal volumen I adenomatosa, ligeramente doloroso
+T71	SINTOMA 1609 1639	orina con leucocitos negativos
+T72	SINTOMA 1641 1659	nitritos negativos
+T73	SINTOMA 2764 2775	colecciones
+T74	SINTOMA 2021 2049	Próstata aumentada de tamaño
+T75	SINTOMA 3534 3577	área hiperecogénica en el lóbulo prostático
+T76	SINTOMA 3151 3208	muestras (punción prostática y lumbar) se aisló S. aureus

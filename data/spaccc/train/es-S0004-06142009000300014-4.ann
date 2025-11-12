@@ -1,28 +1,28 @@
-T1	SINTOMA 252 297	adherida a peritoneo parietal y parietocólico
-T2	SINTOMA 508 547	deterioro progresivo del estado general
-T3	SINTOMA 157 161	masa
-T4	SINTOMA 1526 1545	masa paratesticular
-T5	SINTOMA 54 77	síndrome constitucional
-T6	SINTOMA 1165 1175	tumoración
-T7	SINTOMA 554 601	tumoración inguinoescrotal derecha muy dolorosa
-T8	SINTOMA 97 123	tumoración retroperitoneal
-T9	ENFERMEDAD 932 979	recidiva tumoral a nivel del cordón espermático
-T10	ENFERMEDAD 1632 1655	recidiva intraabdominal
-T11	ENFERMEDAD 1308 1343	fibrohistiocitoma pleomorfo maligno
-T12	ENFERMEDAD 340 402	sarcoma de alto grado tipo fibrohistiocitoma maligno pleomorfo
-T13	ENFERMEDAD 835 841	lesión
-T14	ENFERMEDAD 1041 1054	masa quística
-T15	PROCEDIMIENTO 1127 1146	estudio histológico
-T16	PROCEDIMIENTO 139 214	exéresis de dicha masa, de 16 x 13cm de diámetro, localizada a nivel de FID
-T17	PROCEDIMIENTO 1461 1488	radioterapia postoperatoria
-T18	PROCEDIMIENTO 1512 1545	cirugía de la masa paratesticular
-T19	PROCEDIMIENTO 1573 1598	tratamiento radioterápico
-T20	PROCEDIMIENTO 1695 1751	tratamiento quimioterápico con Epirrubicina + Ifosfamida
-T21	PROCEDIMIENTO 314 336	anatomopatológicamente
-T22	PROCEDIMIENTO 438 465	radioterapia complementaria
-T23	PROCEDIMIENTO 488 495	cirugía
-T24	PROCEDIMIENTO 618 638	ecografía testicular
-T25	PROCEDIMIENTO 795 805	sonografía
-T26	PROCEDIMIENTO 819 821	TC
-T27	PROCEDIMIENTO 894 909	ultrasonografía
-T28	PROCEDIMIENTO 992 1054	orquiectomía inguinal derecha con exéresis de la masa quística
+T1	ENFERMEDAD 932 979	recidiva tumoral a nivel del cordón espermático
+T2	ENFERMEDAD 1632 1655	recidiva intraabdominal
+T3	ENFERMEDAD 1308 1343	fibrohistiocitoma pleomorfo maligno
+T4	ENFERMEDAD 340 402	sarcoma de alto grado tipo fibrohistiocitoma maligno pleomorfo
+T5	ENFERMEDAD 835 841	lesión
+T6	ENFERMEDAD 1041 1054	masa quística
+T7	PROCEDIMIENTO 1127 1146	estudio histológico
+T8	PROCEDIMIENTO 992 1054	orquiectomía inguinal derecha con exéresis de la masa quística
+T9	PROCEDIMIENTO 1573 1598	tratamiento radioterápico
+T10	PROCEDIMIENTO 139 214	exéresis de dicha masa, de 16 x 13cm de diámetro, localizada a nivel de FID
+T11	PROCEDIMIENTO 618 638	ecografía testicular
+T12	PROCEDIMIENTO 1695 1751	tratamiento quimioterápico con Epirrubicina + Ifosfamida
+T13	PROCEDIMIENTO 819 821	TC
+T14	PROCEDIMIENTO 894 909	ultrasonografía
+T15	PROCEDIMIENTO 438 465	radioterapia complementaria
+T16	PROCEDIMIENTO 1461 1488	radioterapia postoperatoria
+T17	PROCEDIMIENTO 314 336	anatomopatológicamente
+T18	PROCEDIMIENTO 795 805	sonografía
+T19	PROCEDIMIENTO 488 495	cirugía
+T20	PROCEDIMIENTO 1512 1545	cirugía de la masa paratesticular
+T21	SINTOMA 554 601	tumoración inguinoescrotal derecha muy dolorosa
+T22	SINTOMA 97 123	tumoración retroperitoneal
+T23	SINTOMA 157 161	masa
+T24	SINTOMA 1526 1545	masa paratesticular
+T25	SINTOMA 54 77	síndrome constitucional
+T26	SINTOMA 252 297	adherida a peritoneo parietal y parietocólico
+T27	SINTOMA 1165 1175	tumoración
+T28	SINTOMA 508 547	deterioro progresivo del estado general

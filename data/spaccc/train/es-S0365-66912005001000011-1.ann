@@ -1,27 +1,34 @@
-T1	SINTOMA 1815 1827	asintomática
-T2	SINTOMA 1572 1584	asintomática
-T3	SINTOMA 325 330	edema
-T4	SINTOMA 772 792	signos inflamatorios
-T5	SINTOMA 1100 1120	signos inflamatorios
-T6	SINTOMA 1598 1627	bullas en el epitelio corneal
-T7	SINTOMA 1880 1903	córnea era transparente
-T8	SINTOMA 727 767	depósito de finas opacidades cristalinas
-T9	SINTOMA 295 307	edema macula
-T10	SINTOMA 1633 1641	hipopión
-T11	SINTOMA 693 701	hipopión
-T12	SINTOMA 827 868	lente de cámara anterior bien posicionada
-T13	SINTOMA 573 612	pérdida de agudeza visual (AV) indolora
-T14	SINTOMA 1131 1145	pseudohipopión
-T15	SINTOMA 615 651	sensación de cuerpo extraño en el OI
-T16	SINTOMA 906 921	turbidez vítrea
-T17	ENFERMEDAD 79 134	luxación de un cuadrante de cristalino a cavidad vítrea
-T18	ENFERMEDAD 139 152	edema macular
-T19	ENFERMEDAD 295 308	edema macular
-T20	ENFERMEDAD 693 701	hipopión
-T21	ENFERMEDAD 996 1028	endoftalmitis infecciosa, tóxica
-T22	ENFERMEDAD 1031 1050	pseudoendoftalmitis
-T23	ENFERMEDAD 1320 1339	pseudoendoftalmitis
-T24	ENFERMEDAD 1633 1641	hipopión
-T25	ENFERMEDAD 1598 1627	bullas en el epitelio corneal
-T26	ENFERMEDAD 1131 1145	pseudohipopión
-T27	ENFERMEDAD 573 598	pérdida de agudeza visual
+T1	ENFERMEDAD 79 134	luxación de un cuadrante de cristalino a cavidad vítrea
+T2	ENFERMEDAD 139 152	edema macular
+T3	ENFERMEDAD 295 308	edema macular
+T4	ENFERMEDAD 693 701	hipopión
+T5	ENFERMEDAD 996 1028	endoftalmitis infecciosa, tóxica
+T6	ENFERMEDAD 1031 1050	pseudoendoftalmitis
+T7	ENFERMEDAD 1320 1339	pseudoendoftalmitis
+T8	ENFERMEDAD 1633 1641	hipopión
+T9	ENFERMEDAD 1598 1627	bullas en el epitelio corneal
+T10	ENFERMEDAD 1131 1145	pseudohipopión
+T11	ENFERMEDAD 573 598	pérdida de agudeza visual
+T12	PROCEDIMIENTO 15 18	VPP
+T13	PROCEDIMIENTO 876 888	fondo de ojo
+T14	PROCEDIMIENTO 198 215	facofragmentación
+T15	PROCEDIMIENTO 232 271	pelado de la membrana limitante interna
+T16	PROCEDIMIENTO 1712 1763	limpieza quirúrgica de la cámara anterior con suero
+T17	PROCEDIMIENTO 794 813	presión intraocular
+T18	PROCEDIMIENTO 465 477	intervención
+T19	SINTOMA 906 921	turbidez vítrea
+T20	SINTOMA 772 792	signos inflamatorios
+T21	SINTOMA 1100 1120	signos inflamatorios
+T22	SINTOMA 325 330	edema
+T23	SINTOMA 1572 1584	asintomática
+T24	SINTOMA 1815 1827	asintomática
+T25	SINTOMA 827 868	lente de cámara anterior bien posicionada
+T26	SINTOMA 1880 1903	córnea era transparente
+T27	SINTOMA 573 612	pérdida de agudeza visual (AV) indolora
+T28	SINTOMA 615 651	sensación de cuerpo extraño en el OI
+T29	SINTOMA 295 307	edema macula
+T30	SINTOMA 693 701	hipopión
+T31	SINTOMA 727 767	depósito de finas opacidades cristalinas
+T32	SINTOMA 1131 1145	pseudohipopión
+T33	SINTOMA 1633 1641	hipopión
+T34	SINTOMA 1598 1627	bullas en el epitelio corneal

@@ -1,15 +1,27 @@
-T1	SINTOMA 920 1037	ATM izquierda llamaba la atención la morfología del cóndilo: bifidez anteroposterior y presencia de derrame articular
-T2	SINTOMA 1243 1264	cambios degenerativos
-T3	SINTOMA 476 492	chasquido de ATM
-T4	SINTOMA 270 287	chasquidos de ATM
-T5	SINTOMA 1185 1199	cóndilo bífido
-T6	SINTOMA 835 904	desplazamiento anterior del disco que se reducía a la apertura en ATM
-T7	SINTOMA 594 651	Dolor selectivo a la palpación de masétero y pterigoideos
-T8	SINTOMA 725 745	duplicación condilar
-T9	SINTOMA 161 213	molestias en la articulación témporomandibular (ATM)
-T10	SINTOMA 454 459	dolor
-T11	ENFERMEDAD 385 412	anomalías dentoesqueléticas
-T12	ENFERMEDAD 725 745	duplicación condilar
-T13	ENFERMEDAD 1185 1225	cóndilo bífido izquierdo anteroposterior
-T14	ENFERMEDAD 1020 1037	derrame articular
-T15	ENFERMEDAD 972 1004	cóndilo: bifidez anteroposterior
+T1	ENFERMEDAD 385 412	anomalías dentoesqueléticas
+T2	ENFERMEDAD 725 745	duplicación condilar
+T3	ENFERMEDAD 1185 1225	cóndilo bífido izquierdo anteroposterior
+T4	ENFERMEDAD 1020 1037	derrame articular
+T5	ENFERMEDAD 972 1004	cóndilo: bifidez anteroposterior
+T6	PROCEDIMIENTO 761 809	resonancia magnética nuclear (RMN ) de ambas ATM
+T7	PROCEDIMIENTO 351 369	exploración física
+T8	PROCEDIMIENTO 677 699	radiografía panorámica
+T9	PROCEDIMIENTO 791 794	RMN
+T10	PROCEDIMIENTO 1328 1346	férula de descarga
+T11	PROCEDIMIENTO 1348 1369	relajantes musculares
+T12	PROCEDIMIENTO 1371 1388	antiinflamatorios
+T13	PROCEDIMIENTO 1390 1401	calor local
+T14	PROCEDIMIENTO 1404 1416	dieta blanda
+T15	PROCEDIMIENTO 615 660	palpación de masétero y pterigoideos derechos
+T16	PROCEDIMIENTO 1100 1143	tomografía computerizada (TC) de ambas ATMs
+T17	PROCEDIMIENTO 1126 1128	TC
+T18	SINTOMA 270 287	chasquidos de ATM
+T19	SINTOMA 835 904	desplazamiento anterior del disco que se reducía a la apertura en ATM
+T20	SINTOMA 454 459	dolor
+T21	SINTOMA 476 492	chasquido de ATM
+T22	SINTOMA 161 213	molestias en la articulación témporomandibular (ATM)
+T23	SINTOMA 920 1037	ATM izquierda llamaba la atención la morfología del cóndilo: bifidez anteroposterior y presencia de derrame articular
+T24	SINTOMA 594 651	Dolor selectivo a la palpación de masétero y pterigoideos
+T25	SINTOMA 1243 1264	cambios degenerativos
+T26	SINTOMA 725 745	duplicación condilar
+T27	SINTOMA 1185 1199	cóndilo bífido

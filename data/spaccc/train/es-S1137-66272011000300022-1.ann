@@ -1,28 +1,41 @@
-T1	SINTOMA 400 439	cefalea intensa fronto-temporal derecha
-T2	SINTOMA 1481 1508	cultivos resultan negativos
-T3	SINTOMA 442 466	edema en párpado derecho
-T4	SINTOMA 1923 1943	hipertransaminasemia
-T5	SINTOMA 739 779	leve dificultad para la mirada conjugada
-T6	SINTOMA 601 627	leve tumefacción palpebral
-T7	SINTOMA 642 670	obstrucción de la fosa nasal
-T8	SINTOMA 133 140	cefalea
-T9	SINTOMA 143 152	proptosis
-T10	SINTOMA 191 197	fiebre
-T11	SINTOMA 199 206	vómitos
-T12	SINTOMA 208 215	cefalea
-T13	SINTOMA 218 234	congestión nasal
-T14	SINTOMA 846 865	clínica neurológica
-T15	SINTOMA 493 502	proptosis
-T16	SINTOMA 1910 1920	leucopenia
-T17	ENFERMEDAD 818 827	sinusitis
-T18	ENFERMEDAD 2152 2173	secuelas neurológicas
-T19	ENFERMEDAD 985 997	pansinusitis
-T20	ENFERMEDAD 1002 1059	flemón subperióstico en pared medial de la órbita derecha
-T21	ENFERMEDAD 1393 1405	pansinusitis
-T22	ENFERMEDAD 275 284	sinusitis
-T23	ENFERMEDAD 1065 1097	empiema subdural frontal derecho
-T24	ENFERMEDAD 143 152	proptosis
-T25	ENFERMEDAD 493 502	proptosis
-T26	ENFERMEDAD 570 579	proptosis
-T27	ENFERMEDAD 642 670	obstrucción de la fosa nasal
-T28	ENFERMEDAD 1910 1982	leucopenia e hipertransaminasemia secundarias al tratamiento antibiótico
+T1	ENFERMEDAD 818 827	sinusitis
+T2	ENFERMEDAD 2152 2173	secuelas neurológicas
+T3	ENFERMEDAD 985 997	pansinusitis
+T4	ENFERMEDAD 1002 1059	flemón subperióstico en pared medial de la órbita derecha
+T5	ENFERMEDAD 1393 1405	pansinusitis
+T6	ENFERMEDAD 275 284	sinusitis
+T7	ENFERMEDAD 1065 1097	empiema subdural frontal derecho
+T8	ENFERMEDAD 143 152	proptosis
+T9	ENFERMEDAD 493 502	proptosis
+T10	ENFERMEDAD 570 579	proptosis
+T11	ENFERMEDAD 642 670	obstrucción de la fosa nasal
+T12	ENFERMEDAD 1910 1982	leucopenia e hipertransaminasemia secundarias al tratamiento antibiótico
+T13	PROCEDIMIENTO 2001 2024	tratamiento antibiótico
+T14	PROCEDIMIENTO 878 889	TAC craneal
+T15	PROCEDIMIENTO 693 716	exploración neurológica
+T16	PROCEDIMIENTO 1686 1688	RM
+T17	PROCEDIMIENTO 967 970	TAC
+T18	PROCEDIMIENTO 1366 1391	drenaje del foco primario
+T19	PROCEDIMIENTO 1959 1982	tratamiento antibiótico
+T20	PROCEDIMIENTO 290 313	tratamiento antibiótico
+T21	PROCEDIMIENTO 1422 1469	evacuación de los senos mediante abordaje nasal
+T22	PROCEDIMIENTO 1481 1489	cultivos
+T23	PROCEDIMIENTO 1814 1833	analítica de sangre
+T24	PROCEDIMIENTO 530 548	exploración física
+T25	PROCEDIMIENTO 1665 1689	controles de imagen (RM)
+T26	SINTOMA 133 140	cefalea
+T27	SINTOMA 143 152	proptosis
+T28	SINTOMA 191 197	fiebre
+T29	SINTOMA 199 206	vómitos
+T30	SINTOMA 208 215	cefalea
+T31	SINTOMA 218 234	congestión nasal
+T32	SINTOMA 400 439	cefalea intensa fronto-temporal derecha
+T33	SINTOMA 846 865	clínica neurológica
+T34	SINTOMA 442 466	edema en párpado derecho
+T35	SINTOMA 601 627	leve tumefacción palpebral
+T36	SINTOMA 493 502	proptosis
+T37	SINTOMA 642 670	obstrucción de la fosa nasal
+T38	SINTOMA 1923 1943	hipertransaminasemia
+T39	SINTOMA 1910 1920	leucopenia
+T40	SINTOMA 1481 1508	cultivos resultan negativos
+T41	SINTOMA 739 779	leve dificultad para la mirada conjugada
