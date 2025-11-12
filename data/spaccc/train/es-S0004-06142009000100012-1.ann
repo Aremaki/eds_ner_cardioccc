@@ -1,36 +1,36 @@
-T1	PROCEDIMIENTO 1052 1078	estudio inmunohistoquímico
-T2	PROCEDIMIENTO 1153 1173	estudio de extensión
-T3	PROCEDIMIENTO 1197 1224	radioterapia complementaria
-T4	PROCEDIMIENTO 1327 1339	herniorrafia
-T5	PROCEDIMIENTO 1587 1593	T.A.C.
-T6	PROCEDIMIENTO 1689 1785	Se reseca la tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
-T7	PROCEDIMIENTO 1798 1808	patológico
-T8	PROCEDIMIENTO 1884 1941	terapia adyuvante con esquema de adriamicina e ifosfamida
-T9	PROCEDIMIENTO 2158 2186	resonancia nuclear magnética
-T10	PROCEDIMIENTO 2350 2363	quimioterapia
-T11	PROCEDIMIENTO 2577 2583	T.A.C.
-T12	PROCEDIMIENTO 2616 2637	tratamiento paliativo
-T13	PROCEDIMIENTO 2748 2757	ecografía
-T14	PROCEDIMIENTO 2876 2887	cistoscopia
-T15	PROCEDIMIENTO 2929 2935	R.T.U.
-T16	PROCEDIMIENTO 293 327	radioterapia con intención radical
-T17	PROCEDIMIENTO 2966 2997	administración de quimioterapia
-T18	PROCEDIMIENTO 57 72	RTU de próstata
-T19	PROCEDIMIENTO 611 632	herniorrafia inguinal
-T20	PROCEDIMIENTO 635 669	corrección de un hidrocele derecho
-T21	PROCEDIMIENTO 827 868	orquiectomía radical derecha vía inguinal
-T22	PROCEDIMIENTO 871 940	exéresis del cordón espermático por encima de anillo inguinal interno
-T23	PROCEDIMIENTO 974 999	estudio anatomopatológico
-T24	SINTOMA 3010 3038	deterioro del estado general
-T25	SINTOMA 406 428	dolor a nivel de ingle
-T26	SINTOMA 1153 1184	estudio de extensión fue normal
-T27	SINTOMA 2725 2734	hematuria
-T28	SINTOMA 2453 2482	intervalo libre de enfermedad
-T29	SINTOMA 362 391	intervalo libre de enfermedad
-T30	SINTOMA 2212 2237	masa adenopática inguinal
-T31	SINTOMA 2517 2540	masa en región inguinal
-T32	SINTOMA 1103 1147	negativo para Antígeno Prostático Específico
-T33	SINTOMA 1610 1687	nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas
-T34	SINTOMA 218 255	PSA dentro del rango de la normalidad
-T35	SINTOMA 709 778	tumoración carnosa mamelonada adherida al polo superior del testículo
-T36	SINTOMA 1702 1785	tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+T1	SINTOMA 3010 3038	deterioro del estado general
+T2	SINTOMA 406 428	dolor a nivel de ingle
+T3	SINTOMA 1153 1184	estudio de extensión fue normal
+T4	SINTOMA 2725 2734	hematuria
+T5	SINTOMA 2453 2482	intervalo libre de enfermedad
+T6	SINTOMA 362 391	intervalo libre de enfermedad
+T7	SINTOMA 2212 2237	masa adenopática inguinal
+T8	SINTOMA 2517 2540	masa en región inguinal
+T9	SINTOMA 1103 1147	negativo para Antígeno Prostático Específico
+T10	SINTOMA 1610 1687	nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas
+T11	SINTOMA 218 255	PSA dentro del rango de la normalidad
+T12	SINTOMA 709 778	tumoración carnosa mamelonada adherida al polo superior del testículo
+T13	SINTOMA 1702 1785	tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+T14	PROCEDIMIENTO 1052 1078	estudio inmunohistoquímico
+T15	PROCEDIMIENTO 1153 1173	estudio de extensión
+T16	PROCEDIMIENTO 1197 1224	radioterapia complementaria
+T17	PROCEDIMIENTO 1327 1339	herniorrafia
+T18	PROCEDIMIENTO 1587 1593	T.A.C.
+T19	PROCEDIMIENTO 1689 1785	Se reseca la tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+T20	PROCEDIMIENTO 1798 1808	patológico
+T21	PROCEDIMIENTO 1884 1941	terapia adyuvante con esquema de adriamicina e ifosfamida
+T22	PROCEDIMIENTO 2158 2186	resonancia nuclear magnética
+T23	PROCEDIMIENTO 2350 2363	quimioterapia
+T24	PROCEDIMIENTO 2577 2583	T.A.C.
+T25	PROCEDIMIENTO 2616 2637	tratamiento paliativo
+T26	PROCEDIMIENTO 2748 2757	ecografía
+T27	PROCEDIMIENTO 2876 2887	cistoscopia
+T28	PROCEDIMIENTO 2929 2935	R.T.U.
+T29	PROCEDIMIENTO 293 327	radioterapia con intención radical
+T30	PROCEDIMIENTO 2966 2997	administración de quimioterapia
+T31	PROCEDIMIENTO 57 72	RTU de próstata
+T32	PROCEDIMIENTO 611 632	herniorrafia inguinal
+T33	PROCEDIMIENTO 635 669	corrección de un hidrocele derecho
+T34	PROCEDIMIENTO 827 868	orquiectomía radical derecha vía inguinal
+T35	PROCEDIMIENTO 871 940	exéresis del cordón espermático por encima de anillo inguinal interno
+T36	PROCEDIMIENTO 974 999	estudio anatomopatológico

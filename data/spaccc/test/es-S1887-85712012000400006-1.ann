@@ -1,43 +1,43 @@
-T1	ENFERMEDAD 1643 1692	asa de intestino delgado estrangulada y necrosada
-T2	ENFERMEDAD 890 922	suboclusión de intestino delgado
-T3	ENFERMEDAD 926 938	colelitiasis
-T4	ENFERMEDAD 1442 1472	oclusión intestinal por bridas
-T5	ENFERMEDAD 1051 1069	torsión intestinal
-T6	ENFERMEDAD 459 503	cicatriz de laparotomía media infraumbilical
-T7	ENFERMEDAD 636 665	hernias inguinales o crurales
-T8	ENFERMEDAD 2796 2834	obstrucción y estrangulación del ileon
-T9	ENFERMEDAD 2843 2915	hernia interna a través de la hoja derecha del ligamento ancho del útero
-T10	ENFERMEDAD 2979 2994	ileon necrosado
-T11	ENFERMEDAD 2515 2526	perforación
-T12	ENFERMEDAD 2186 2196	herniación
-T13	PROCEDIMIENTO 1371 1395	laparoscópia exploradora
-T14	PROCEDIMIENTO 1543 1560	anestesia general
-T15	PROCEDIMIENTO 1572 1596	laparoscópia exploradora
-T16	PROCEDIMIENTO 2467 2479	laparoscópia
-T17	PROCEDIMIENTO 2655 2685	reconversión a cirugía abierta
-T18	PROCEDIMIENTO 268 276	cesáreas
-T19	PROCEDIMIENTO 2727 2763	laparotomía infraumbilical iterativa
-T20	PROCEDIMIENTO 2933 2955	reducción de la hernia
-T21	PROCEDIMIENTO 2957 2994	resección de 25 cm de ileon necrosado
-T22	PROCEDIMIENTO 2997 3051	reconstrucción con anastomosis termino-terminal manual
-T23	PROCEDIMIENTO 3062 3133	orificio herniario se realiza el cierre con sutura continua de seda 0/0
-T24	PROCEDIMIENTO 426 447	exploración abdominal
-T25	PROCEDIMIENTO 471 503	laparotomía media infraumbilical
-T26	PROCEDIMIENTO 554 563	palpación
-T27	PROCEDIMIENTO 673 691	análisis de sangre
-T28	PROCEDIMIENTO 842 871	radiografía simple de abdomen
-T29	PROCEDIMIENTO 943 946	TAC
-T30	SINTOMA 741 753	leucocitosis
-T31	SINTOMA 130 137	vómitos
-T32	SINTOMA 1234 1241	vómitos
-T33	SINTOMA 1247 1262	dolor abdominal
-T34	SINTOMA 602 623	irritación peritoneal
-T35	SINTOMA 983 1018	asas de intestino delgado dilatadas
-T36	SINTOMA 3213 3232	buen estado clínico
-T37	SINTOMA 2332 2371	dilatación de asas de intestino delgado
-T38	SINTOMA 543 580	dolor a la palpación de manera difusa
-T39	SINTOMA 85 118	dolor abdominal continuo y difuso
-T40	SINTOMA 1295 1340	irritación peritoneal en hemiabdomen inferior
-T41	SINTOMA 778 789	neutrofília
-T42	SINTOMA 521 539	ruidos disminuidos
-T43	SINTOMA 1981 2058	trompa de Falopio derecha la cual está adherida a la pared abdominal anterior
+T1	SINTOMA 741 753	leucocitosis
+T2	SINTOMA 130 137	vómitos
+T3	SINTOMA 1234 1241	vómitos
+T4	SINTOMA 1247 1262	dolor abdominal
+T5	SINTOMA 602 623	irritación peritoneal
+T6	SINTOMA 983 1018	asas de intestino delgado dilatadas
+T7	SINTOMA 3213 3232	buen estado clínico
+T8	SINTOMA 2332 2371	dilatación de asas de intestino delgado
+T9	SINTOMA 543 580	dolor a la palpación de manera difusa
+T10	SINTOMA 85 118	dolor abdominal continuo y difuso
+T11	SINTOMA 1295 1340	irritación peritoneal en hemiabdomen inferior
+T12	SINTOMA 778 789	neutrofília
+T13	SINTOMA 521 539	ruidos disminuidos
+T14	SINTOMA 1981 2058	trompa de Falopio derecha la cual está adherida a la pared abdominal anterior
+T15	ENFERMEDAD 1643 1692	asa de intestino delgado estrangulada y necrosada
+T16	ENFERMEDAD 890 922	suboclusión de intestino delgado
+T17	ENFERMEDAD 926 938	colelitiasis
+T18	ENFERMEDAD 1442 1472	oclusión intestinal por bridas
+T19	ENFERMEDAD 1051 1069	torsión intestinal
+T20	ENFERMEDAD 459 503	cicatriz de laparotomía media infraumbilical
+T21	ENFERMEDAD 636 665	hernias inguinales o crurales
+T22	ENFERMEDAD 2796 2834	obstrucción y estrangulación del ileon
+T23	ENFERMEDAD 2843 2915	hernia interna a través de la hoja derecha del ligamento ancho del útero
+T24	ENFERMEDAD 2979 2994	ileon necrosado
+T25	ENFERMEDAD 2515 2526	perforación
+T26	ENFERMEDAD 2186 2196	herniación
+T27	PROCEDIMIENTO 1371 1395	laparoscópia exploradora
+T28	PROCEDIMIENTO 1543 1560	anestesia general
+T29	PROCEDIMIENTO 1572 1596	laparoscópia exploradora
+T30	PROCEDIMIENTO 2467 2479	laparoscópia
+T31	PROCEDIMIENTO 2655 2685	reconversión a cirugía abierta
+T32	PROCEDIMIENTO 268 276	cesáreas
+T33	PROCEDIMIENTO 2727 2763	laparotomía infraumbilical iterativa
+T34	PROCEDIMIENTO 2933 2955	reducción de la hernia
+T35	PROCEDIMIENTO 2957 2994	resección de 25 cm de ileon necrosado
+T36	PROCEDIMIENTO 2997 3051	reconstrucción con anastomosis termino-terminal manual
+T37	PROCEDIMIENTO 3062 3133	orificio herniario se realiza el cierre con sutura continua de seda 0/0
+T38	PROCEDIMIENTO 426 447	exploración abdominal
+T39	PROCEDIMIENTO 471 503	laparotomía media infraumbilical
+T40	PROCEDIMIENTO 554 563	palpación
+T41	PROCEDIMIENTO 673 691	análisis de sangre
+T42	PROCEDIMIENTO 842 871	radiografía simple de abdomen
+T43	PROCEDIMIENTO 943 946	TAC

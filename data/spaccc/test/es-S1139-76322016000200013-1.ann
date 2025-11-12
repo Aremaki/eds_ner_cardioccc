@@ -1,25 +1,25 @@
-T1	ENFERMEDAD 968 993	déficit de miofosforilasa
-T2	ENFERMEDAD 1208 1229	enfermedad de McArdle
-T3	ENFERMEDAD 1340 1353	rabdomiólisis
-T4	ENFERMEDAD 623 645	hematuria macroscópica
-T5	PROCEDIMIENTO 1031 1048	estudio molecular
-T6	PROCEDIMIENTO 1527 1546	soporte nutricional
-T7	PROCEDIMIENTO 200 213	transaminasas
-T8	PROCEDIMIENTO 555 564	anamnesis
-T9	PROCEDIMIENTO 690 701	exploración
-T10	PROCEDIMIENTO 731 751	electroencefalograma
-T11	PROCEDIMIENTO 756 771	electromiograma
-T12	PROCEDIMIENTO 778 834	resonancia magnética muscular de extremidades inferiores
-T13	PROCEDIMIENTO 932 948	biopsia muscular
-T14	SINTOMA 406 413	astenia
-T15	SINTOMA 1464 1476	asintomático
-T16	SINTOMA 52 63	trombopenia
-T17	SINTOMA 369 381	asintomático
-T18	SINTOMA 119 290	aumento de CPK (hasta 1864 UI/L), lactatodeshidrogenasa (LDH) (hasta 421 UI/l) y transaminasas (aspartato transaminasa [AST] hasta 490 UI/l, alanina aminotransferasa [ALT]
-T19	SINTOMA 513 522	calambres
-T20	SINTOMA 731 860	electroencefalograma, un electromiograma y una resonancia magnética muscular de extremidades inferiores, sin mostrar alteraciones
-T21	SINTOMA 690 712	exploración era normal
-T22	SINTOMA 623 678	hematuria macroscópica tras la realización de ejercicio
-T23	SINTOMA 176 179	LDH
-T24	SINTOMA 525 533	mialgias
-T25	SINTOMA 1482 1505	valores de CPK normales
+T1	SINTOMA 406 413	astenia
+T2	SINTOMA 1464 1476	asintomático
+T3	SINTOMA 52 63	trombopenia
+T4	SINTOMA 369 381	asintomático
+T5	SINTOMA 119 290	aumento de CPK (hasta 1864 UI/L), lactatodeshidrogenasa (LDH) (hasta 421 UI/l) y transaminasas (aspartato transaminasa [AST] hasta 490 UI/l, alanina aminotransferasa [ALT]
+T6	SINTOMA 513 522	calambres
+T7	SINTOMA 731 860	electroencefalograma, un electromiograma y una resonancia magnética muscular de extremidades inferiores, sin mostrar alteraciones
+T8	SINTOMA 690 712	exploración era normal
+T9	SINTOMA 623 678	hematuria macroscópica tras la realización de ejercicio
+T10	SINTOMA 176 179	LDH
+T11	SINTOMA 525 533	mialgias
+T12	SINTOMA 1482 1505	valores de CPK normales
+T13	ENFERMEDAD 968 993	déficit de miofosforilasa
+T14	ENFERMEDAD 1208 1229	enfermedad de McArdle
+T15	ENFERMEDAD 1340 1353	rabdomiólisis
+T16	ENFERMEDAD 623 645	hematuria macroscópica
+T17	PROCEDIMIENTO 1031 1048	estudio molecular
+T18	PROCEDIMIENTO 1527 1546	soporte nutricional
+T19	PROCEDIMIENTO 200 213	transaminasas
+T20	PROCEDIMIENTO 555 564	anamnesis
+T21	PROCEDIMIENTO 690 701	exploración
+T22	PROCEDIMIENTO 731 751	electroencefalograma
+T23	PROCEDIMIENTO 756 771	electromiograma
+T24	PROCEDIMIENTO 778 834	resonancia magnética muscular de extremidades inferiores
+T25	PROCEDIMIENTO 932 948	biopsia muscular

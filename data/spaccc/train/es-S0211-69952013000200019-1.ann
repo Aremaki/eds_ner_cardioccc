@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 27 80	ERC estadio 4 secundaria a poliquistosis hepatorrenal
-T2	ENFERMEDAD 54 80	poliquistosis hepatorrenal
-T3	ENFERMEDAD 100 121	hipertensión arterial
-T4	ENFERMEDAD 142 166	diabetes mellitus tipo 2
-T5	ENFERMEDAD 168 181	hiperuricemia
-T6	ENFERMEDAD 183 193	dislipemia
-T7	ENFERMEDAD 196 235	enfermedad pulmonar obstructiva crónica
-T8	ENFERMEDAD 258 270	ERC avanzada
-T9	ENFERMEDAD 1392 1417	hernia inguinal indirecta
-T10	ENFERMEDAD 1581 1596	hernia inguinal
-T11	ENFERMEDAD 1284 1318	proceso peritoneovaginal permeable
-T12	ENFERMEDAD 844 857	edema genital
-T13	ENFERMEDAD 1610 1635	conducto peritoneovaginal
-T14	SINTOMA 902 945	ecografía testicular, se descarta patología
-T15	SINTOMA 978 982	fuga
-T16	SINTOMA 1771 1775	fuga
-T17	SINTOMA 1174 1263	paso de material de contraste peritoneal a través del cordón espermático hasta el escroto
+T1	SINTOMA 902 945	ecografía testicular, se descarta patología
+T2	SINTOMA 978 982	fuga
+T3	SINTOMA 1771 1775	fuga
+T4	SINTOMA 1174 1263	paso de material de contraste peritoneal a través del cordón espermático hasta el escroto
+T5	ENFERMEDAD 27 80	ERC estadio 4 secundaria a poliquistosis hepatorrenal
+T6	ENFERMEDAD 54 80	poliquistosis hepatorrenal
+T7	ENFERMEDAD 100 121	hipertensión arterial
+T8	ENFERMEDAD 142 166	diabetes mellitus tipo 2
+T9	ENFERMEDAD 168 181	hiperuricemia
+T10	ENFERMEDAD 183 193	dislipemia
+T11	ENFERMEDAD 196 235	enfermedad pulmonar obstructiva crónica
+T12	ENFERMEDAD 258 270	ERC avanzada
+T13	ENFERMEDAD 1392 1417	hernia inguinal indirecta
+T14	ENFERMEDAD 1581 1596	hernia inguinal
+T15	ENFERMEDAD 1284 1318	proceso peritoneovaginal permeable
+T16	ENFERMEDAD 844 857	edema genital
+T17	ENFERMEDAD 1610 1635	conducto peritoneovaginal

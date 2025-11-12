@@ -1,32 +1,32 @@
-T1	ENFERMEDAD 156 170	otitis externa
-T2	ENFERMEDAD 1187 1202	blefaroespasmos
-T3	ENFERMEDAD 1260 1287	parálisis facial periférica
-T4	ENFERMEDAD 1740 1773	vesículas en el pabellón auricula
-T5	ENFERMEDAD 1832 1855	Síndrome de Ramsay Hunt
-T6	ENFERMEDAD 695 714	nistagmo horizontal
-T7	ENFERMEDAD 1630 1639	nistagmus
-T8	PROCEDIMIENTO 1244 1255	exploración
-T9	PROCEDIMIENTO 1468 1500	valoración otorrinolaringológica
-T10	PROCEDIMIENTO 1505 1516	audiometría
-T11	PROCEDIMIENTO 1655 1664	otoscopia
-T12	PROCEDIMIENTO 293 323	terapia analgésica intravenosa
-T13	PROCEDIMIENTO 542 553	exploración
-T14	SINTOMA 1358 1415	abertura ocular derecha al indicarle que cerrara los ojos
-T15	SINTOMA 1119 1143	ageusia en la hemilengua
-T16	SINTOMA 663 683	alteración timpánica
-T17	SINTOMA 1297 1336	asimetría facial al sonreír y al soplar
-T18	SINTOMA 1187 1202	blefaroespasmos
-T19	SINTOMA 1533 1559	caída en agudos en el oído
-T20	SINTOMA 432 448	cefalea punzante
-T21	SINTOMA 881 892	dolor ótico
-T22	SINTOMA 1672 1712	hiperemia en la porción superior del CAE
-T23	SINTOMA 617 658	hiperemia selectiva de la cadena osicular
-T24	SINTOMA 566 609	inflamación en el conducto auditivo externo
-T25	SINTOMA 77 95	otalgia unilateral
-T26	SINTOMA 1060 1086	parestesias en la hemicara
-T27	SINTOMA 450 490	sensación opresiva a nivel periorbitario
-T28	SINTOMA 106 113	cefalea
-T29	SINTOMA 252 259	cefalea
-T30	SINTOMA 493 501	acúfenos
-T31	SINTOMA 695 714	nistagmo horizontal
-T32	SINTOMA 919 932	inestabilidad
+T1	SINTOMA 1358 1415	abertura ocular derecha al indicarle que cerrara los ojos
+T2	SINTOMA 1119 1143	ageusia en la hemilengua
+T3	SINTOMA 663 683	alteración timpánica
+T4	SINTOMA 1297 1336	asimetría facial al sonreír y al soplar
+T5	SINTOMA 1187 1202	blefaroespasmos
+T6	SINTOMA 1533 1559	caída en agudos en el oído
+T7	SINTOMA 432 448	cefalea punzante
+T8	SINTOMA 881 892	dolor ótico
+T9	SINTOMA 1672 1712	hiperemia en la porción superior del CAE
+T10	SINTOMA 617 658	hiperemia selectiva de la cadena osicular
+T11	SINTOMA 566 609	inflamación en el conducto auditivo externo
+T12	SINTOMA 77 95	otalgia unilateral
+T13	SINTOMA 1060 1086	parestesias en la hemicara
+T14	SINTOMA 450 490	sensación opresiva a nivel periorbitario
+T15	SINTOMA 106 113	cefalea
+T16	SINTOMA 252 259	cefalea
+T17	SINTOMA 493 501	acúfenos
+T18	SINTOMA 695 714	nistagmo horizontal
+T19	SINTOMA 919 932	inestabilidad
+T20	ENFERMEDAD 156 170	otitis externa
+T21	ENFERMEDAD 1187 1202	blefaroespasmos
+T22	ENFERMEDAD 1260 1287	parálisis facial periférica
+T23	ENFERMEDAD 1740 1773	vesículas en el pabellón auricula
+T24	ENFERMEDAD 1832 1855	Síndrome de Ramsay Hunt
+T25	ENFERMEDAD 695 714	nistagmo horizontal
+T26	ENFERMEDAD 1630 1639	nistagmus
+T27	PROCEDIMIENTO 1244 1255	exploración
+T28	PROCEDIMIENTO 1468 1500	valoración otorrinolaringológica
+T29	PROCEDIMIENTO 1505 1516	audiometría
+T30	PROCEDIMIENTO 1655 1664	otoscopia
+T31	PROCEDIMIENTO 293 323	terapia analgésica intravenosa
+T32	PROCEDIMIENTO 542 553	exploración

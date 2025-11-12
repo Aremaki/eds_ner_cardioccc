@@ -1,52 +1,52 @@
-T1	ENFERMEDAD 3674 3694	cistitis incrustante
-T2	ENFERMEDAD 94 119	espondilitis anquilosante
-T3	ENFERMEDAD 939 1008	recidiva tumoral papilar, de aspecto superficial, en el suelo vesical
-T4	ENFERMEDAD 2052 2095	pared vesical anterior, con abscesificación
-T5	ENFERMEDAD 3126 3147	neoplasia infiltrante
-T6	ENFERMEDAD 678 700	carcinoma transicional
-T7	ENFERMEDAD 1337 1359	carcinoma transicional
-T8	ENFERMEDAD 3572 3592	infiltración tumoral
-T9	ENFERMEDAD 3069 3075	lesión
-T10	ENFERMEDAD 2128 2136	cistitis
-T11	ENFERMEDAD 2291 2310	recurrencia tumoral
-T12	PROCEDIMIENTO 1013 1034	estudio preoperatorio
-T13	PROCEDIMIENTO 1084 1102	orina un sedimento
-T14	PROCEDIMIENTO 1180 1187	cultivo
-T15	PROCEDIMIENTO 1253 1289	resección endoscópica de la recidiva
-T16	PROCEDIMIENTO 1541 1581	instilación intravesical de Mitomicina C
-T17	PROCEDIMIENTO 1599 1610	instilación
-T18	PROCEDIMIENTO 1673 1684	instilación
-T19	PROCEDIMIENTO 1737 1744	cirugía
-T20	PROCEDIMIENTO 1766 1779	instilaciones
-T21	PROCEDIMIENTO 1928 1938	citologías
-T22	PROCEDIMIENTO 2001 2011	ecográfico
-T23	PROCEDIMIENTO 2170 2187	resección tumoral
-T24	PROCEDIMIENTO 2324 2340	cultivo de orina
-T25	PROCEDIMIENTO 2411 2420	sedimento
-T26	PROCEDIMIENTO 2502 2522	revisión endoscópica
-T27	PROCEDIMIENTO 2528 2545	anestesia general
-T28	PROCEDIMIENTO 2746 2755	ecografía
-T29	PROCEDIMIENTO 3035 3075	Se reseca en toda su extensión la lesión
-T30	PROCEDIMIENTO 3185 3196	endoscópico
-T31	PROCEDIMIENTO 3216 3241	estudio anatomopatológico
-T32	PROCEDIMIENTO 3747 3759	intervención
-T33	PROCEDIMIENTO 383 414	estudio urográfico y ecográfico
-T34	PROCEDIMIENTO 589 636	resección endoscópica de la citada neoformación
-T35	PROCEDIMIENTO 645 674	diagnóstico anatomopatológico
-T36	PROCEDIMIENTO 762 782	estudios ecográficos
-T37	PROCEDIMIENTO 785 805	citologías urinarias
-T38	PROCEDIMIENTO 853 864	cistoscopia
-T39	SINTOMA 903 915	asintomático
-T40	SINTOMA 1860 1872	asintomático
-T41	SINTOMA 1180 1196	cultivo negativo
-T42	SINTOMA 313 322	hematuria
-T43	SINTOMA 443 455	neoformación
-T44	SINTOMA 2206 2225	área hiperecogénica
-T45	SINTOMA 2324 2353	cultivo de orina fue negativo
-T46	SINTOMA 771 815	ecográficos y citologías urinarias negativas
-T47	SINTOMA 2018 2074	engrosamiento significativo de la pared vesical anterior
-T48	SINTOMA 135 198	merma de la movilidad de la columna sobre todo a nivel cervical
-T49	SINTOMA 2931 2951	mucosa muy engrosada
-T50	SINTOMA 2764 2830	suelo vesical-cara lateral izquierda se aprecia una pseudomembrana
-T51	SINTOMA 2644 2693	tejido de granulación en la cara anterior vesical
-T52	SINTOMA 2595 2621	Vejiga de capacidad normal
+T1	SINTOMA 903 915	asintomático
+T2	SINTOMA 1860 1872	asintomático
+T3	SINTOMA 1180 1196	cultivo negativo
+T4	SINTOMA 313 322	hematuria
+T5	SINTOMA 443 455	neoformación
+T6	SINTOMA 2206 2225	área hiperecogénica
+T7	SINTOMA 2324 2353	cultivo de orina fue negativo
+T8	SINTOMA 771 815	ecográficos y citologías urinarias negativas
+T9	SINTOMA 2018 2074	engrosamiento significativo de la pared vesical anterior
+T10	SINTOMA 135 198	merma de la movilidad de la columna sobre todo a nivel cervical
+T11	SINTOMA 2931 2951	mucosa muy engrosada
+T12	SINTOMA 2764 2830	suelo vesical-cara lateral izquierda se aprecia una pseudomembrana
+T13	SINTOMA 2644 2693	tejido de granulación en la cara anterior vesical
+T14	SINTOMA 2595 2621	Vejiga de capacidad normal
+T15	ENFERMEDAD 3674 3694	cistitis incrustante
+T16	ENFERMEDAD 94 119	espondilitis anquilosante
+T17	ENFERMEDAD 939 1008	recidiva tumoral papilar, de aspecto superficial, en el suelo vesical
+T18	ENFERMEDAD 2052 2095	pared vesical anterior, con abscesificación
+T19	ENFERMEDAD 3126 3147	neoplasia infiltrante
+T20	ENFERMEDAD 678 700	carcinoma transicional
+T21	ENFERMEDAD 1337 1359	carcinoma transicional
+T22	ENFERMEDAD 3572 3592	infiltración tumoral
+T23	ENFERMEDAD 3069 3075	lesión
+T24	ENFERMEDAD 2128 2136	cistitis
+T25	ENFERMEDAD 2291 2310	recurrencia tumoral
+T26	PROCEDIMIENTO 1013 1034	estudio preoperatorio
+T27	PROCEDIMIENTO 1084 1102	orina un sedimento
+T28	PROCEDIMIENTO 1180 1187	cultivo
+T29	PROCEDIMIENTO 1253 1289	resección endoscópica de la recidiva
+T30	PROCEDIMIENTO 1541 1581	instilación intravesical de Mitomicina C
+T31	PROCEDIMIENTO 1599 1610	instilación
+T32	PROCEDIMIENTO 1673 1684	instilación
+T33	PROCEDIMIENTO 1737 1744	cirugía
+T34	PROCEDIMIENTO 1766 1779	instilaciones
+T35	PROCEDIMIENTO 1928 1938	citologías
+T36	PROCEDIMIENTO 2001 2011	ecográfico
+T37	PROCEDIMIENTO 2170 2187	resección tumoral
+T38	PROCEDIMIENTO 2324 2340	cultivo de orina
+T39	PROCEDIMIENTO 2411 2420	sedimento
+T40	PROCEDIMIENTO 2502 2522	revisión endoscópica
+T41	PROCEDIMIENTO 2528 2545	anestesia general
+T42	PROCEDIMIENTO 2746 2755	ecografía
+T43	PROCEDIMIENTO 3035 3075	Se reseca en toda su extensión la lesión
+T44	PROCEDIMIENTO 3185 3196	endoscópico
+T45	PROCEDIMIENTO 3216 3241	estudio anatomopatológico
+T46	PROCEDIMIENTO 3747 3759	intervención
+T47	PROCEDIMIENTO 383 414	estudio urográfico y ecográfico
+T48	PROCEDIMIENTO 589 636	resección endoscópica de la citada neoformación
+T49	PROCEDIMIENTO 645 674	diagnóstico anatomopatológico
+T50	PROCEDIMIENTO 762 782	estudios ecográficos
+T51	PROCEDIMIENTO 785 805	citologías urinarias
+T52	PROCEDIMIENTO 853 864	cistoscopia

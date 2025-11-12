@@ -1,23 +1,23 @@
-T1	ENFERMEDAD 91 103	pancitopenia
-T2	ENFERMEDAD 139 152	LNH di tipo B
-T3	ENFERMEDAD 447 469	enfermedad linfomatosa
-T4	ENFERMEDAD 517 531	mielodisplasia
-T5	ENFERMEDAD 921 933	pancitopenia
-T6	ENFERMEDAD 1100 1120	ipertensión cerebral
-T7	ENFERMEDAD 1762 1781	metaplasia mieloide
-T8	ENFERMEDAD 2258 2271	coma cerebral
-T9	ENFERMEDAD 558 581	infiltración neoplásica
-T10	ENFERMEDAD 688 702	esplenomegalia
-T11	ENFERMEDAD 1063 1071	lesiones
-T12	SINTOMA 64 71	cefalea
-T13	SINTOMA 1352 1359	cefalea
-T14	SINTOMA 2274 2281	fallece
-T15	SINTOMA 73 79	fiebre
-T16	SINTOMA 647 653	fiebre
-T17	SINTOMA 1321 1327	fiebre
-T18	SINTOMA 938 949	neutropenia
-T19	SINTOMA 1387 1403	signos meníngeos
-T20	SINTOMA 975 1007	exámenes virológicos (negativos)
-T21	SINTOMA 1478 1531	LCR muestra un incremento del número total de células
-T22	SINTOMA 664 685	palidez cutaneomucosa
-T23	SINTOMA 2065 2119	positivo el hemocultivo a Sterotrophomonas maltophilia
+T1	SINTOMA 64 71	cefalea
+T2	SINTOMA 1352 1359	cefalea
+T3	SINTOMA 2274 2281	fallece
+T4	SINTOMA 73 79	fiebre
+T5	SINTOMA 647 653	fiebre
+T6	SINTOMA 1321 1327	fiebre
+T7	SINTOMA 938 949	neutropenia
+T8	SINTOMA 1387 1403	signos meníngeos
+T9	SINTOMA 975 1007	exámenes virológicos (negativos)
+T10	SINTOMA 1478 1531	LCR muestra un incremento del número total de células
+T11	SINTOMA 664 685	palidez cutaneomucosa
+T12	SINTOMA 2065 2119	positivo el hemocultivo a Sterotrophomonas maltophilia
+T13	ENFERMEDAD 91 103	pancitopenia
+T14	ENFERMEDAD 139 152	LNH di tipo B
+T15	ENFERMEDAD 447 469	enfermedad linfomatosa
+T16	ENFERMEDAD 517 531	mielodisplasia
+T17	ENFERMEDAD 921 933	pancitopenia
+T18	ENFERMEDAD 1100 1120	ipertensión cerebral
+T19	ENFERMEDAD 1762 1781	metaplasia mieloide
+T20	ENFERMEDAD 2258 2271	coma cerebral
+T21	ENFERMEDAD 558 581	infiltración neoplásica
+T22	ENFERMEDAD 688 702	esplenomegalia
+T23	ENFERMEDAD 1063 1071	lesiones

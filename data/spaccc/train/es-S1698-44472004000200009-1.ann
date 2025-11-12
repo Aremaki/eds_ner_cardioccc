@@ -1,8 +1,8 @@
-T1	ENFERMEDAD 63 70	fumador
-T2	ENFERMEDAD 395 416	bolsa periimplantaria
-T3	ENFERMEDAD 842 870	defecto óseo periimplantario
-T4	SINTOMA 593 642	área radiotransparente en el hueso marginal a 3.6
-T5	SINTOMA 395 473	bolsa periimplantaria de 6 mm de profundidad, con leve sangramiento al sondaje
-T6	SINTOMA 842 854	defecto óseo
-T7	SINTOMA 339 388	enrojecimiento de la mucosa adyacente al implante
-T8	SINTOMA 784 826	rodete de tejido blando de aspecto fibroso
+T1	SINTOMA 593 642	área radiotransparente en el hueso marginal a 3.6
+T2	SINTOMA 395 473	bolsa periimplantaria de 6 mm de profundidad, con leve sangramiento al sondaje
+T3	SINTOMA 842 854	defecto óseo
+T4	SINTOMA 339 388	enrojecimiento de la mucosa adyacente al implante
+T5	SINTOMA 784 826	rodete de tejido blando de aspecto fibroso
+T6	ENFERMEDAD 63 70	fumador
+T7	ENFERMEDAD 395 416	bolsa periimplantaria
+T8	ENFERMEDAD 842 870	defecto óseo periimplantario

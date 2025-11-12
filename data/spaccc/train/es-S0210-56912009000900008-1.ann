@@ -1,32 +1,32 @@
-T1	ENFERMEDAD 52 70	neoplasia pulmonar
-T2	ENFERMEDAD 218 237	metástasis cerebral
-T3	ENFERMEDAD 617 649	insuficiencia respiratoria grave
-T4	ENFERMEDAD 774 800	insuficiencia respiratoria
-T5	ENFERMEDAD 1092 1106	fallo cardíaco
-T6	ENFERMEDAD 1180 1210	hipertensión pulmonar moderada
-T7	ENFERMEDAD 1726 1758	insuficiencia respiratoria grave
-T8	ENFERMEDAD 1861 1896	afectación parenquimatosa bilateral
-T9	ENFERMEDAD 2196 2214	neumonías atípicas
-T10	ENFERMEDAD 52 99	neoplasia pulmonar (carcinoma no célula pequeña
-T11	ENFERMEDAD 1252 1288	coagulación intravascular diseminada
-T12	ENFERMEDAD 1402 1421	fracaso renal agudo
-T13	ENFERMEDAD 2901 2906	gripe
-T14	ENFERMEDAD 1993 2011	proceso infeccioso
-T15	ENFERMEDAD 2394 2403	infección
-T16	SINTOMA 361 367	disnea
-T17	SINTOMA 448 461	expectoración
-T18	SINTOMA 414 420	fiebre
-T19	SINTOMA 2656 2667	infiltrados
-T20	SINTOMA 1782 1804	infiltrados pulmonares
-T21	SINTOMA 969 1003	infiltrados pulmonares bilaterales
-T22	SINTOMA 166 185	libre de enfermedad
-T23	SINTOMA 442 445	tos
-T24	SINTOMA 1320 1335	trombocitopenia
-T25	SINTOMA 1861 1930	afectación parenquimatosa bilateral muy extensa en vidrio deslustrado
-T26	SINTOMA 1468 1506	elevación de la lactato deshidrogenasa
-T27	SINTOMA 911 941	infiltrado alveolar en la base
-T28	SINTOMA 2052 2109	lavado broncoalveolar con cultivo bacteriológico negativo
-T29	SINTOMA 2136 2167	Pneumocystis jirovecii negativo
-T30	SINTOMA 2459 2530	reacción en cadena de la polimerasa en tiempo real (RT-PCR) es positiva
-T31	SINTOMA 2182 2262	serologías de neumonías atípicas (Legionella, Chlamydia, etc.) que son negativas
-T32	SINTOMA 2111 2133	Ziehl-Nielsen negativo
+T1	SINTOMA 361 367	disnea
+T2	SINTOMA 448 461	expectoración
+T3	SINTOMA 414 420	fiebre
+T4	SINTOMA 2656 2667	infiltrados
+T5	SINTOMA 1782 1804	infiltrados pulmonares
+T6	SINTOMA 969 1003	infiltrados pulmonares bilaterales
+T7	SINTOMA 166 185	libre de enfermedad
+T8	SINTOMA 442 445	tos
+T9	SINTOMA 1320 1335	trombocitopenia
+T10	SINTOMA 1861 1930	afectación parenquimatosa bilateral muy extensa en vidrio deslustrado
+T11	SINTOMA 1468 1506	elevación de la lactato deshidrogenasa
+T12	SINTOMA 911 941	infiltrado alveolar en la base
+T13	SINTOMA 2052 2109	lavado broncoalveolar con cultivo bacteriológico negativo
+T14	SINTOMA 2136 2167	Pneumocystis jirovecii negativo
+T15	SINTOMA 2459 2530	reacción en cadena de la polimerasa en tiempo real (RT-PCR) es positiva
+T16	SINTOMA 2182 2262	serologías de neumonías atípicas (Legionella, Chlamydia, etc.) que son negativas
+T17	SINTOMA 2111 2133	Ziehl-Nielsen negativo
+T18	ENFERMEDAD 52 70	neoplasia pulmonar
+T19	ENFERMEDAD 218 237	metástasis cerebral
+T20	ENFERMEDAD 617 649	insuficiencia respiratoria grave
+T21	ENFERMEDAD 774 800	insuficiencia respiratoria
+T22	ENFERMEDAD 1092 1106	fallo cardíaco
+T23	ENFERMEDAD 1180 1210	hipertensión pulmonar moderada
+T24	ENFERMEDAD 1726 1758	insuficiencia respiratoria grave
+T25	ENFERMEDAD 1861 1896	afectación parenquimatosa bilateral
+T26	ENFERMEDAD 2196 2214	neumonías atípicas
+T27	ENFERMEDAD 52 99	neoplasia pulmonar (carcinoma no célula pequeña
+T28	ENFERMEDAD 1252 1288	coagulación intravascular diseminada
+T29	ENFERMEDAD 1402 1421	fracaso renal agudo
+T30	ENFERMEDAD 2901 2906	gripe
+T31	ENFERMEDAD 1993 2011	proceso infeccioso
+T32	ENFERMEDAD 2394 2403	infección

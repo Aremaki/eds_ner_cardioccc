@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 98 151	MM Ig G Kappa estadio III-A con infiltración hepática
-T2	ENFERMEDAD 1119 1176	infiltración siguió progresando por párpados y conjuntiva
-T3	ENFERMEDAD 1197 1225	glaucoma agudo postrabecular
-T4	ENFERMEDAD 778 792	lesiones óseas
-T5	ENFERMEDAD 668 681	oftalmoplejía
-T6	ENFERMEDAD 1693 1699	ptosis
-T7	ENFERMEDAD 594 600	lesión
-T8	ENFERMEDAD 811 817	lesión
-T9	PROCEDIMIENTO 1053 1060	biopsia
-T10	PROCEDIMIENTO 1071 1079	RT local
-T11	PROCEDIMIENTO 1108 1110	QT
-T12	PROCEDIMIENTO 1113 1115	RT
-T13	PROCEDIMIENTO 1230 1249	presión intraocular
-T14	PROCEDIMIENTO 1310 1347	inhibidores de la anhidrasa carbónica
-T15	PROCEDIMIENTO 1359 1375	beta bloqueantes
-T16	PROCEDIMIENTO 1378 1393	prostaglandinas
-T17	PROCEDIMIENTO 1412 1414	RT
-T18	PROCEDIMIENTO 1433 1435	QT
-T19	PROCEDIMIENTO 1575 1577	QT
-T20	PROCEDIMIENTO 422 442	lámpara de hendidura
-T21	PROCEDIMIENTO 543 554	exploración
-T22	PROCEDIMIENTO 566 578	fondo de ojo
-T23	PROCEDIMIENTO 705 729	tomografía computarizada
-T24	PROCEDIMIENTO 731 733	TC
-T25	PROCEDIMIENTO 797 804	biopsia
-T26	PROCEDIMIENTO 902 904	QT
-T27	SINTOMA 1802 1810	falleció
-T28	SINTOMA 566 589	fondo de ojo fue normal
-T29	SINTOMA 1693 1699	ptosis
-T30	SINTOMA 368 413	agudeza visual era de la unidad en ambos ojos
-T31	SINTOMA 748 773	aumento de partes blandas
-T32	SINTOMA 1656 1680	campos visuales normales
-T33	SINTOMA 460 526	masa indolora, vascularizada y subconjuntival nasal superior en OD
-T34	SINTOMA 668 688	oftalmoplejía del OD
-T35	SINTOMA 276 297	ojo derecho (OD) rojo
-T36	SINTOMA 1702 1736	restricción de la motilidad ocular
-T37	SINTOMA 339 363	síntoma visual ni ocular
+T1	SINTOMA 1802 1810	falleció
+T2	SINTOMA 566 589	fondo de ojo fue normal
+T3	SINTOMA 1693 1699	ptosis
+T4	SINTOMA 368 413	agudeza visual era de la unidad en ambos ojos
+T5	SINTOMA 748 773	aumento de partes blandas
+T6	SINTOMA 1656 1680	campos visuales normales
+T7	SINTOMA 460 526	masa indolora, vascularizada y subconjuntival nasal superior en OD
+T8	SINTOMA 668 688	oftalmoplejía del OD
+T9	SINTOMA 276 297	ojo derecho (OD) rojo
+T10	SINTOMA 1702 1736	restricción de la motilidad ocular
+T11	SINTOMA 339 363	síntoma visual ni ocular
+T12	ENFERMEDAD 98 151	MM Ig G Kappa estadio III-A con infiltración hepática
+T13	ENFERMEDAD 1119 1176	infiltración siguió progresando por párpados y conjuntiva
+T14	ENFERMEDAD 1197 1225	glaucoma agudo postrabecular
+T15	ENFERMEDAD 778 792	lesiones óseas
+T16	ENFERMEDAD 668 681	oftalmoplejía
+T17	ENFERMEDAD 1693 1699	ptosis
+T18	ENFERMEDAD 594 600	lesión
+T19	ENFERMEDAD 811 817	lesión
+T20	PROCEDIMIENTO 1053 1060	biopsia
+T21	PROCEDIMIENTO 1071 1079	RT local
+T22	PROCEDIMIENTO 1108 1110	QT
+T23	PROCEDIMIENTO 1113 1115	RT
+T24	PROCEDIMIENTO 1230 1249	presión intraocular
+T25	PROCEDIMIENTO 1310 1347	inhibidores de la anhidrasa carbónica
+T26	PROCEDIMIENTO 1359 1375	beta bloqueantes
+T27	PROCEDIMIENTO 1378 1393	prostaglandinas
+T28	PROCEDIMIENTO 1412 1414	RT
+T29	PROCEDIMIENTO 1433 1435	QT
+T30	PROCEDIMIENTO 1575 1577	QT
+T31	PROCEDIMIENTO 422 442	lámpara de hendidura
+T32	PROCEDIMIENTO 543 554	exploración
+T33	PROCEDIMIENTO 566 578	fondo de ojo
+T34	PROCEDIMIENTO 705 729	tomografía computarizada
+T35	PROCEDIMIENTO 731 733	TC
+T36	PROCEDIMIENTO 797 804	biopsia
+T37	PROCEDIMIENTO 902 904	QT

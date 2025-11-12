@@ -1,68 +1,68 @@
-T1	ENFERMEDAD 31 42	hepatitis B
-T2	ENFERMEDAD 1890 1912	fibroadenoma del uraco
-T3	ENFERMEDAD 2067 2097	tumor morfológicamente benigno
-T4	ENFERMEDAD 2628 2651	tumor epitelial maligno
-T5	ENFERMEDAD 3264 3269	tumor
-T6	ENFERMEDAD 3852 3875	tumor fibroso solitario
-T7	ENFERMEDAD 281 296	visceromegalias
-T8	ENFERMEDAD 2202 2207	tumor
-T9	PROCEDIMIENTO 1081 1098	cistouretrografía
-T10	PROCEDIMIENTO 1154 1165	cistoscopia
-T11	PROCEDIMIENTO 1227 1246	TAC abdóminopélvica
-T12	PROCEDIMIENTO 1520 1547	administración de contraste
-T13	PROCEDIMIENTO 1629 1632	RNM
-T14	PROCEDIMIENTO 1879 1882	RNM
-T15	PROCEDIMIENTO 2008 2033	inyección de contraste iv
-T16	PROCEDIMIENTO 2057 2061	PAAF
-T17	PROCEDIMIENTO 2186 2207	extirpación del tumor
-T18	PROCEDIMIENTO 2215 2229	tacto bimanual
-T19	PROCEDIMIENTO 223 241	exploración física
-T20	PROCEDIMIENTO 2258 2279	compresión prostática
-T21	PROCEDIMIENTO 2297 2326	incisión media infraumbilical
-T22	PROCEDIMIENTO 2329 2351	acceso extraperitoneal
-T23	PROCEDIMIENTO 2480 2514	apertura de la fascia endopelviana
-T24	PROCEDIMIENTO 2515 2554	se seccionó el fino pedículo prostático
-T25	PROCEDIMIENTO 2585 2608	biopsia intraoperatoria
-T26	PROCEDIMIENTO 2700 2714	prostatectomía
-T27	PROCEDIMIENTO 2805 2828	estudio histopatológico
-T28	PROCEDIMIENTO 3009 3026	Microscópicamente
-T29	PROCEDIMIENTO 323 335	tacto rectal
-T30	PROCEDIMIENTO 3528 3554	estudio inmunohistoquímico
-T31	PROCEDIMIENTO 3963 3966	RNM
-T32	PROCEDIMIENTO 433 451	Análisis de sangre
-T33	PROCEDIMIENTO 456 465	hemograma
-T34	PROCEDIMIENTO 467 477	bioquímica
-T35	PROCEDIMIENTO 479 490	coagulación
-T36	PROCEDIMIENTO 528 545	Análisis de orina
-T37	PROCEDIMIENTO 558 576	Sedimento urinario
-T38	PROCEDIMIENTO 622 632	Urocultivo
-T39	PROCEDIMIENTO 645 663	citología de orina
-T40	PROCEDIMIENTO 717 754	ecografía renal, vesical y prostática
-T41	PROCEDIMIENTO 865 888	urografías intravenosas
-T42	SINTOMA 245 276	abdomen era blando y depresible
-T43	SINTOMA 3974 3986	asintomático
-T44	SINTOMA 1154 1219	cistoscopia realizada no se observaban alteraciones endovesicales
-T45	SINTOMA 207 215	coágulos
-T46	SINTOMA 1031 1060	defectos de relleno vesicales
-T47	SINTOMA 717 785	ecografía renal, vesical y prostática no se encontraron alteraciones
-T48	SINTOMA 2664 2681	fibrosis reactiva
-T49	SINTOMA 413 431	Genitales normales
-T50	SINTOMA 184 193	hematuria
-T51	SINTOMA 456 526	hemograma, bioquímica, coagulación y PSA dentro de parámetros normales
-T52	SINTOMA 3636 3740	keratinas de amplio espectro, citoqueratina 7, EMA, actina, enolasa, S-100, cromogranina y p53 negativas
-T53	SINTOMA 2576 2580	masa
-T54	SINTOMA 1551 1555	masa
-T55	SINTOMA 1785 1789	masa
-T56	SINTOMA 2234 2238	masa
-T57	SINTOMA 1269 1302	masa pélvica anterior a la vejiga
-T58	SINTOMA 2370 2416	masa pélvica situada a la derecha de la vejiga
-T59	SINTOMA 1002 1025	masa pélvica subvesical
-T60	SINTOMA 115 126	polaquiuria
-T61	SINTOMA 3562 3601	positividad para CD34, D99 y vimentina,
-T62	SINTOMA 797 815	próstata homogénea
-T63	SINTOMA 904 931	riñones y uréteres normales
-T64	SINTOMA 558 620	Sedimento urinario con 15-20 leucocitos/campo y moco abundante
-T65	SINTOMA 129 144	tenesmo vesical
-T66	SINTOMA 2863 2881	tumoración nodular
-T67	SINTOMA 622 640	Urocultivo estéril
-T68	SINTOMA 1971 1986	zonas nodulares
+T1	SINTOMA 245 276	abdomen era blando y depresible
+T2	SINTOMA 3974 3986	asintomático
+T3	SINTOMA 1154 1219	cistoscopia realizada no se observaban alteraciones endovesicales
+T4	SINTOMA 207 215	coágulos
+T5	SINTOMA 1031 1060	defectos de relleno vesicales
+T6	SINTOMA 717 785	ecografía renal, vesical y prostática no se encontraron alteraciones
+T7	SINTOMA 2664 2681	fibrosis reactiva
+T8	SINTOMA 413 431	Genitales normales
+T9	SINTOMA 184 193	hematuria
+T10	SINTOMA 456 526	hemograma, bioquímica, coagulación y PSA dentro de parámetros normales
+T11	SINTOMA 3636 3740	keratinas de amplio espectro, citoqueratina 7, EMA, actina, enolasa, S-100, cromogranina y p53 negativas
+T12	SINTOMA 2576 2580	masa
+T13	SINTOMA 1551 1555	masa
+T14	SINTOMA 1785 1789	masa
+T15	SINTOMA 2234 2238	masa
+T16	SINTOMA 1269 1302	masa pélvica anterior a la vejiga
+T17	SINTOMA 2370 2416	masa pélvica situada a la derecha de la vejiga
+T18	SINTOMA 1002 1025	masa pélvica subvesical
+T19	SINTOMA 115 126	polaquiuria
+T20	SINTOMA 3562 3601	positividad para CD34, D99 y vimentina,
+T21	SINTOMA 797 815	próstata homogénea
+T22	SINTOMA 904 931	riñones y uréteres normales
+T23	SINTOMA 558 620	Sedimento urinario con 15-20 leucocitos/campo y moco abundante
+T24	SINTOMA 129 144	tenesmo vesical
+T25	SINTOMA 2863 2881	tumoración nodular
+T26	SINTOMA 622 640	Urocultivo estéril
+T27	SINTOMA 1971 1986	zonas nodulares
+T28	ENFERMEDAD 31 42	hepatitis B
+T29	ENFERMEDAD 1890 1912	fibroadenoma del uraco
+T30	ENFERMEDAD 2067 2097	tumor morfológicamente benigno
+T31	ENFERMEDAD 2628 2651	tumor epitelial maligno
+T32	ENFERMEDAD 3264 3269	tumor
+T33	ENFERMEDAD 3852 3875	tumor fibroso solitario
+T34	ENFERMEDAD 281 296	visceromegalias
+T35	ENFERMEDAD 2202 2207	tumor
+T36	PROCEDIMIENTO 1081 1098	cistouretrografía
+T37	PROCEDIMIENTO 1154 1165	cistoscopia
+T38	PROCEDIMIENTO 1227 1246	TAC abdóminopélvica
+T39	PROCEDIMIENTO 1520 1547	administración de contraste
+T40	PROCEDIMIENTO 1629 1632	RNM
+T41	PROCEDIMIENTO 1879 1882	RNM
+T42	PROCEDIMIENTO 2008 2033	inyección de contraste iv
+T43	PROCEDIMIENTO 2057 2061	PAAF
+T44	PROCEDIMIENTO 2186 2207	extirpación del tumor
+T45	PROCEDIMIENTO 2215 2229	tacto bimanual
+T46	PROCEDIMIENTO 223 241	exploración física
+T47	PROCEDIMIENTO 2258 2279	compresión prostática
+T48	PROCEDIMIENTO 2297 2326	incisión media infraumbilical
+T49	PROCEDIMIENTO 2329 2351	acceso extraperitoneal
+T50	PROCEDIMIENTO 2480 2514	apertura de la fascia endopelviana
+T51	PROCEDIMIENTO 2515 2554	se seccionó el fino pedículo prostático
+T52	PROCEDIMIENTO 2585 2608	biopsia intraoperatoria
+T53	PROCEDIMIENTO 2700 2714	prostatectomía
+T54	PROCEDIMIENTO 2805 2828	estudio histopatológico
+T55	PROCEDIMIENTO 3009 3026	Microscópicamente
+T56	PROCEDIMIENTO 323 335	tacto rectal
+T57	PROCEDIMIENTO 3528 3554	estudio inmunohistoquímico
+T58	PROCEDIMIENTO 3963 3966	RNM
+T59	PROCEDIMIENTO 433 451	Análisis de sangre
+T60	PROCEDIMIENTO 456 465	hemograma
+T61	PROCEDIMIENTO 467 477	bioquímica
+T62	PROCEDIMIENTO 479 490	coagulación
+T63	PROCEDIMIENTO 528 545	Análisis de orina
+T64	PROCEDIMIENTO 558 576	Sedimento urinario
+T65	PROCEDIMIENTO 622 632	Urocultivo
+T66	PROCEDIMIENTO 645 663	citología de orina
+T67	PROCEDIMIENTO 717 754	ecografía renal, vesical y prostática
+T68	PROCEDIMIENTO 865 888	urografías intravenosas

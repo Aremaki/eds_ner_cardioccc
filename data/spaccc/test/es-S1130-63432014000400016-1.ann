@@ -1,42 +1,42 @@
-T1	ENFERMEDAD 847 865	hipertransaminemia
-T2	ENFERMEDAD 2384 2401	lesiones cutáneas
-T3	ENFERMEDAD 980 997	lesiones cutáneas
-T4	ENFERMEDAD 239 327	exantema maculopapuloeritematoso, evanescente en tronco y parte proximal de extremidades
-T5	ENFERMEDAD 1472 1518	Síndromes Periódicos Asociados a la Criopirina
-T6	ENFERMEDAD 2566 2584	proceso infeccioso
-T7	ENFERMEDAD 329 427	linfadenopatías desde los 13 meses de edad, afectando a ganglios cervicales, axilares e inguinales
-T8	ENFERMEDAD 3068 3079	monocitosis
-T9	ENFERMEDAD 430 443	hepatomegalia
-T10	ENFERMEDAD 480 486	anemia
-T11	ENFERMEDAD 3227 3254	AlJs de curso poliarticular
-T12	ENFERMEDAD 1661 1664	AIJ
-T13	ENFERMEDAD 593 597	AlJs
-T14	ENFERMEDAD 3759 3776	lesiones cutáneas
-T15	ENFERMEDAD 1520 1524	CAPS
-T16	PROCEDIMIENTO 1050 1061	corticoides
-T17	PROCEDIMIENTO 2027 2036	biológico
-T18	PROCEDIMIENTO 2128 2138	corticoide
-T19	PROCEDIMIENTO 2255 2265	corticoide
-T20	PROCEDIMIENTO 2506 2517	corticoides
-T21	PROCEDIMIENTO 2659 2687	administración del biológico
-T22	PROCEDIMIENTO 3428 3437	biológico
-T23	PROCEDIMIENTO 3614 3645	artrocentesis en ambas rodillas
-T24	PROCEDIMIENTO 3816 3827	corticoides
-T25	PROCEDIMIENTO 721 762	antagonista de receptor de interleucina 1
-T26	SINTOMA 33 48	síndrome febril
-T27	SINTOMA 2339 2348	febrícula
-T28	SINTOMA 1012 1021	febrícula
-T29	SINTOMA 499 511	leucocitosis
-T30	SINTOMA 3521 3551	elevación de las transaminasas
-T31	SINTOMA 3780 3786	fiebre
-T32	SINTOMA 2544 2551	estable
-T33	SINTOMA 847 865	hipertransaminemia
-T34	SINTOMA 2959 2987	alteración de la coagulación
-T35	SINTOMA 999 1009	artralgias
-T36	SINTOMA 2861 2911	codos y carpos que aparecen dolorosos e inflamados
-T37	SINTOMA 2990 3007	hipertrasaminemia
-T38	SINTOMA 2360 2373	irritabilidad
-T39	SINTOMA 3362 3389	manifestaciones articulares
-T40	SINTOMA 2830 2857	manifestaciones articulares
-T41	SINTOMA 3068 3079	monocitosis
-T42	SINTOMA 527 540	VSG aumentada
+T1	SINTOMA 33 48	síndrome febril
+T2	SINTOMA 2339 2348	febrícula
+T3	SINTOMA 1012 1021	febrícula
+T4	SINTOMA 499 511	leucocitosis
+T5	SINTOMA 3521 3551	elevación de las transaminasas
+T6	SINTOMA 3780 3786	fiebre
+T7	SINTOMA 2544 2551	estable
+T8	SINTOMA 847 865	hipertransaminemia
+T9	SINTOMA 2959 2987	alteración de la coagulación
+T10	SINTOMA 999 1009	artralgias
+T11	SINTOMA 2861 2911	codos y carpos que aparecen dolorosos e inflamados
+T12	SINTOMA 2990 3007	hipertrasaminemia
+T13	SINTOMA 2360 2373	irritabilidad
+T14	SINTOMA 3362 3389	manifestaciones articulares
+T15	SINTOMA 2830 2857	manifestaciones articulares
+T16	SINTOMA 3068 3079	monocitosis
+T17	SINTOMA 527 540	VSG aumentada
+T18	ENFERMEDAD 847 865	hipertransaminemia
+T19	ENFERMEDAD 2384 2401	lesiones cutáneas
+T20	ENFERMEDAD 980 997	lesiones cutáneas
+T21	ENFERMEDAD 239 327	exantema maculopapuloeritematoso, evanescente en tronco y parte proximal de extremidades
+T22	ENFERMEDAD 1472 1518	Síndromes Periódicos Asociados a la Criopirina
+T23	ENFERMEDAD 2566 2584	proceso infeccioso
+T24	ENFERMEDAD 329 427	linfadenopatías desde los 13 meses de edad, afectando a ganglios cervicales, axilares e inguinales
+T25	ENFERMEDAD 3068 3079	monocitosis
+T26	ENFERMEDAD 430 443	hepatomegalia
+T27	ENFERMEDAD 480 486	anemia
+T28	ENFERMEDAD 3227 3254	AlJs de curso poliarticular
+T29	ENFERMEDAD 1661 1664	AIJ
+T30	ENFERMEDAD 593 597	AlJs
+T31	ENFERMEDAD 3759 3776	lesiones cutáneas
+T32	ENFERMEDAD 1520 1524	CAPS
+T33	PROCEDIMIENTO 1050 1061	corticoides
+T34	PROCEDIMIENTO 2027 2036	biológico
+T35	PROCEDIMIENTO 2128 2138	corticoide
+T36	PROCEDIMIENTO 2255 2265	corticoide
+T37	PROCEDIMIENTO 2506 2517	corticoides
+T38	PROCEDIMIENTO 2659 2687	administración del biológico
+T39	PROCEDIMIENTO 3428 3437	biológico
+T40	PROCEDIMIENTO 3614 3645	artrocentesis en ambas rodillas
+T41	PROCEDIMIENTO 3816 3827	corticoides
+T42	PROCEDIMIENTO 721 762	antagonista de receptor de interleucina 1

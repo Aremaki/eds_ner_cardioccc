@@ -1,14 +1,14 @@
-T1	ENFERMEDAD 554 623	hematoma perineal dependiente de porción proximal de cuerpo cavernoso
-T2	ENFERMEDAD 1033 1041	hematoma
-T3	PROCEDIMIENTO 338 349	exploración
-T4	PROCEDIMIENTO 492 519	ecografía de partes blandas
-T5	PROCEDIMIENTO 641 669	Resonancia Magnética Nuclear
-T6	PROCEDIMIENTO 72 82	vasectomía
-T7	PROCEDIMIENTO 910 929	punción con cultivo
-T8	PROCEDIMIENTO 952 986	tratamiento antiagregante vía oral
-T9	SINTOMA 440 448	dolorosa
-T10	SINTOMA 922 938	cultivo negativo
-T11	SINTOMA 683 781	área hipointensa de aproximadamente 8x2x0,8 cm. localizada en región posterior de cuerpo cavernoso
-T12	SINTOMA 796 843	integridad de túnica albugínea y fascia de Buck
-T13	SINTOMA 138 157	tumoración perineal
-T14	SINTOMA 361 410	tumoración perineal de localización paracavernosa
+T1	SINTOMA 440 448	dolorosa
+T2	SINTOMA 922 938	cultivo negativo
+T3	SINTOMA 683 781	área hipointensa de aproximadamente 8x2x0,8 cm. localizada en región posterior de cuerpo cavernoso
+T4	SINTOMA 796 843	integridad de túnica albugínea y fascia de Buck
+T5	SINTOMA 138 157	tumoración perineal
+T6	SINTOMA 361 410	tumoración perineal de localización paracavernosa
+T7	ENFERMEDAD 554 623	hematoma perineal dependiente de porción proximal de cuerpo cavernoso
+T8	ENFERMEDAD 1033 1041	hematoma
+T9	PROCEDIMIENTO 338 349	exploración
+T10	PROCEDIMIENTO 492 519	ecografía de partes blandas
+T11	PROCEDIMIENTO 641 669	Resonancia Magnética Nuclear
+T12	PROCEDIMIENTO 72 82	vasectomía
+T13	PROCEDIMIENTO 910 929	punción con cultivo
+T14	PROCEDIMIENTO 952 986	tratamiento antiagregante vía oral

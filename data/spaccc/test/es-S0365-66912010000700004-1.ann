@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 48 56	obesidad
-T2	ENFERMEDAD 58 79	hipertensión arterial
-T3	ENFERMEDAD 81 92	fallo renal
-T4	ENFERMEDAD 129 153	diabetes mellitus tipo 2
-T5	ENFERMEDAD 404 434	edema macular bilateral difuso
-T6	ENFERMEDAD 917 954	edema macular difuso severo bilateral
-T7	ENFERMEDAD 1052 1080	patología renal y/o cardíaca
-T8	ENFERMEDAD 1254 1267	edema macular
-T9	ENFERMEDAD 586 610	pérdida de visión severa
-T10	PROCEDIMIENTO 1017 1038	exploración sistémica
-T11	PROCEDIMIENTO 404 452	edema macular bilateral difuso tratado con láser
-T12	PROCEDIMIENTO 684 705	exploración sistémica
-T13	PROCEDIMIENTO 890 902	fondo de ojo
-T14	SINTOMA 717 732	aumento de peso
-T15	SINTOMA 404 427	edema macular bilateral
-T16	SINTOMA 917 954	edema macular difuso severo bilateral
-T17	SINTOMA 1208 1229	edemas de las piernas
-T18	SINTOMA 800 838	edemas periféricos en las extremidades
-T19	SINTOMA 586 610	pérdida de visión severa
-T20	SINTOMA 968 1001	retención generalizada de fluidos
+T1	SINTOMA 717 732	aumento de peso
+T2	SINTOMA 404 427	edema macular bilateral
+T3	SINTOMA 917 954	edema macular difuso severo bilateral
+T4	SINTOMA 1208 1229	edemas de las piernas
+T5	SINTOMA 800 838	edemas periféricos en las extremidades
+T6	SINTOMA 586 610	pérdida de visión severa
+T7	SINTOMA 968 1001	retención generalizada de fluidos
+T8	ENFERMEDAD 48 56	obesidad
+T9	ENFERMEDAD 58 79	hipertensión arterial
+T10	ENFERMEDAD 81 92	fallo renal
+T11	ENFERMEDAD 129 153	diabetes mellitus tipo 2
+T12	ENFERMEDAD 404 434	edema macular bilateral difuso
+T13	ENFERMEDAD 917 954	edema macular difuso severo bilateral
+T14	ENFERMEDAD 1052 1080	patología renal y/o cardíaca
+T15	ENFERMEDAD 1254 1267	edema macular
+T16	ENFERMEDAD 586 610	pérdida de visión severa
+T17	PROCEDIMIENTO 1017 1038	exploración sistémica
+T18	PROCEDIMIENTO 404 452	edema macular bilateral difuso tratado con láser
+T19	PROCEDIMIENTO 684 705	exploración sistémica
+T20	PROCEDIMIENTO 890 902	fondo de ojo

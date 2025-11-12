@@ -1,52 +1,52 @@
-T1	PROCEDIMIENTO 1470 1479	analítica
-T2	PROCEDIMIENTO 179 198	colectomía subtotal
-T3	PROCEDIMIENTO 201 243	ileostomía terminal en fosa iliaca derecha
-T4	PROCEDIMIENTO 2036 2046	ileostomía
-T5	PROCEDIMIENTO 2049 2070	tratamiento diurético
-T6	PROCEDIMIENTO 2092 2116	rehidratación parenteral
-T7	PROCEDIMIENTO 2159 2168	diurético
-T8	PROCEDIMIENTO 275 346	reconstrucción del tránsito intestinal con anastomosis término-terminal
-T9	PROCEDIMIENTO 2812 2822	TC craneal
-T10	PROCEDIMIENTO 2915 2918	TAC
-T11	PROCEDIMIENTO 2920 2923	ECG
-T12	PROCEDIMIENTO 2926 2934	Rx tórax
-T13	PROCEDIMIENTO 2974 2983	analítica
-T14	PROCEDIMIENTO 3133 3183	tratamiento IV con sueroterapia para rehidratación
-T15	PROCEDIMIENTO 349 369	cierre de ileostomía
-T16	PROCEDIMIENTO 3581 3599	exploración física
-T17	PROCEDIMIENTO 3816 3834	medidas dietéticas
-T18	PROCEDIMIENTO 3847 3899	dieta astringente, baja en grasas y azúcares simples
-T19	PROCEDIMIENTO 4263 4273	Ileostomía
-T20	PROCEDIMIENTO 466 510	resección de 1,5 metros de intestino delgado
-T21	PROCEDIMIENTO 519 587	ileostomía terminal definitiva con muñón rectal abandonado en pelvis
-T22	PROCEDIMIENTO 5218 5228	ileostomía
-T23	PROCEDIMIENTO 5327 5339	electrólitos
-T24	PROCEDIMIENTO 664 676	intervención
-T25	PROCEDIMIENTO 949 965	diurético de asa
-T26	SINTOMA 1940 1978	acidosis metabólica hiperlactacidémica
-T27	SINTOMA 1981 2008	alteraciones electrolíticas
-T28	SINTOMA 1195 1227	alteraciones hidroelectrolíticas
-T29	SINTOMA 766 798	alteraciones hidroelectrolíticas
-T30	SINTOMA 1391 1398	astenia
-T31	SINTOMA 5182 5201	buen estado general
-T32	SINTOMA 2680 2686	crisis
-T33	SINTOMA 3378 3384	crisis
-T34	SINTOMA 822 852	débito por ileostomía superior
-T35	SINTOMA 3295 3317	déficit electrolíticos
-T36	SINTOMA 1169 1183	deshidratación
-T37	SINTOMA 1423 1454	dificultad para la deambulación
-T38	SINTOMA 3704 3742	disminución de masa magra y masa grasa
-T39	SINTOMA 2920 2951	ECG y Rx tórax sin alteraciones
-T40	SINTOMA 999 1032	edemas en extremidades inferiores
-T41	SINTOMA 4533 4564	edemas maleolares y pretibiales
-T42	SINTOMA 1351 1385	empeoramiento de su estado general
-T43	SINTOMA 2565 2612	episodios convulsivos de crisis tónico-clónicas
-T44	SINTOMA 3388 3409	focalidad neurológica
-T45	SINTOMA 2835 2900	hemorragia subaracnoidea mínima en región suprasilviana izquierda
-T46	SINTOMA 4593 4623	Mg por debajo de la normalidad
-T47	SINTOMA 5255 5292	niveles de Mg dentro de la normalidad
-T48	SINTOMA 1457 1465	oliguria
-T49	SINTOMA 2023 2046	pérdidas por ileostomía
-T50	SINTOMA 1411 1421	postración
-T51	SINTOMA 2436 2443	síncope
-T52	SINTOMA 4703 4778	Sodio, Potasio, Calcio total, Calcio iónico y Cloro dentro de la normalidad
+T1	SINTOMA 1940 1978	acidosis metabólica hiperlactacidémica
+T2	SINTOMA 1981 2008	alteraciones electrolíticas
+T3	SINTOMA 1195 1227	alteraciones hidroelectrolíticas
+T4	SINTOMA 766 798	alteraciones hidroelectrolíticas
+T5	SINTOMA 1391 1398	astenia
+T6	SINTOMA 5182 5201	buen estado general
+T7	SINTOMA 2680 2686	crisis
+T8	SINTOMA 3378 3384	crisis
+T9	SINTOMA 822 852	débito por ileostomía superior
+T10	SINTOMA 3295 3317	déficit electrolíticos
+T11	SINTOMA 1169 1183	deshidratación
+T12	SINTOMA 1423 1454	dificultad para la deambulación
+T13	SINTOMA 3704 3742	disminución de masa magra y masa grasa
+T14	SINTOMA 2920 2951	ECG y Rx tórax sin alteraciones
+T15	SINTOMA 999 1032	edemas en extremidades inferiores
+T16	SINTOMA 4533 4564	edemas maleolares y pretibiales
+T17	SINTOMA 1351 1385	empeoramiento de su estado general
+T18	SINTOMA 2565 2612	episodios convulsivos de crisis tónico-clónicas
+T19	SINTOMA 3388 3409	focalidad neurológica
+T20	SINTOMA 2835 2900	hemorragia subaracnoidea mínima en región suprasilviana izquierda
+T21	SINTOMA 4593 4623	Mg por debajo de la normalidad
+T22	SINTOMA 5255 5292	niveles de Mg dentro de la normalidad
+T23	SINTOMA 1457 1465	oliguria
+T24	SINTOMA 2023 2046	pérdidas por ileostomía
+T25	SINTOMA 1411 1421	postración
+T26	SINTOMA 2436 2443	síncope
+T27	SINTOMA 4703 4778	Sodio, Potasio, Calcio total, Calcio iónico y Cloro dentro de la normalidad
+T28	PROCEDIMIENTO 1470 1479	analítica
+T29	PROCEDIMIENTO 179 198	colectomía subtotal
+T30	PROCEDIMIENTO 201 243	ileostomía terminal en fosa iliaca derecha
+T31	PROCEDIMIENTO 2036 2046	ileostomía
+T32	PROCEDIMIENTO 2049 2070	tratamiento diurético
+T33	PROCEDIMIENTO 2092 2116	rehidratación parenteral
+T34	PROCEDIMIENTO 2159 2168	diurético
+T35	PROCEDIMIENTO 275 346	reconstrucción del tránsito intestinal con anastomosis término-terminal
+T36	PROCEDIMIENTO 2812 2822	TC craneal
+T37	PROCEDIMIENTO 2915 2918	TAC
+T38	PROCEDIMIENTO 2920 2923	ECG
+T39	PROCEDIMIENTO 2926 2934	Rx tórax
+T40	PROCEDIMIENTO 2974 2983	analítica
+T41	PROCEDIMIENTO 3133 3183	tratamiento IV con sueroterapia para rehidratación
+T42	PROCEDIMIENTO 349 369	cierre de ileostomía
+T43	PROCEDIMIENTO 3581 3599	exploración física
+T44	PROCEDIMIENTO 3816 3834	medidas dietéticas
+T45	PROCEDIMIENTO 3847 3899	dieta astringente, baja en grasas y azúcares simples
+T46	PROCEDIMIENTO 4263 4273	Ileostomía
+T47	PROCEDIMIENTO 466 510	resección de 1,5 metros de intestino delgado
+T48	PROCEDIMIENTO 519 587	ileostomía terminal definitiva con muñón rectal abandonado en pelvis
+T49	PROCEDIMIENTO 5218 5228	ileostomía
+T50	PROCEDIMIENTO 5327 5339	electrólitos
+T51	PROCEDIMIENTO 664 676	intervención
+T52	PROCEDIMIENTO 949 965	diurético de asa

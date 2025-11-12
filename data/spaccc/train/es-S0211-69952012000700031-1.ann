@@ -1,16 +1,16 @@
-T1	ENFERMEDAD 86 120	enfermedad inflamatoria intestinal
-T2	ENFERMEDAD 249 276	sepsis de origen intestinal
-T3	ENFERMEDAD 281 302	fracaso multiorgánico
-T4	ENFERMEDAD 412 441	nefropatía tubulointersticial
-T5	ENFERMEDAD 483 618	lesiones cutáneas, eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
-T6	ENFERMEDAD 710 719	celulitis
-T7	ENFERMEDAD 841 854	criptococosis
-T8	ENFERMEDAD 1774 1786	ulceraciones
-T9	ENFERMEDAD 780 790	ulceración
-T10	ENFERMEDAD 1730 1738	lesiones
-T11	SINTOMA 920 940	abundantes levaduras
-T12	SINTOMA 1166 1199	afectación pulmonar y neurológica
-T13	SINTOMA 1354 1386	alteración de los test hepáticos
-T14	SINTOMA 1008 1055	cultivo da hongo levaduriforme, ureasa positivo
-T15	SINTOMA 756 767	descamación
-T16	SINTOMA 502 618	eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+T1	SINTOMA 920 940	abundantes levaduras
+T2	SINTOMA 1166 1199	afectación pulmonar y neurológica
+T3	SINTOMA 1354 1386	alteración de los test hepáticos
+T4	SINTOMA 1008 1055	cultivo da hongo levaduriforme, ureasa positivo
+T5	SINTOMA 756 767	descamación
+T6	SINTOMA 502 618	eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+T7	ENFERMEDAD 86 120	enfermedad inflamatoria intestinal
+T8	ENFERMEDAD 249 276	sepsis de origen intestinal
+T9	ENFERMEDAD 281 302	fracaso multiorgánico
+T10	ENFERMEDAD 412 441	nefropatía tubulointersticial
+T11	ENFERMEDAD 483 618	lesiones cutáneas, eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+T12	ENFERMEDAD 710 719	celulitis
+T13	ENFERMEDAD 841 854	criptococosis
+T14	ENFERMEDAD 1774 1786	ulceraciones
+T15	ENFERMEDAD 780 790	ulceración
+T16	ENFERMEDAD 1730 1738	lesiones

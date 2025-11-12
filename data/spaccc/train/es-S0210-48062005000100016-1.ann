@@ -1,44 +1,44 @@
-T1	ENFERMEDAD 1265 1268	ITU
-T2	ENFERMEDAD 35 44	diabético
-T3	ENFERMEDAD 2120 2137	prostatitis aguda
-T4	ENFERMEDAD 4088 4114	adenocarcinoma microacinar
-T5	ENFERMEDAD 2160 2163	HBP
-T6	ENFERMEDAD 103 117	litiasis renal
-T7	ENFERMEDAD 120 152	cólicos nefríticos de repetición
-T8	ENFERMEDAD 4181 4222	prostatitis crónica y aguda abscesificada
-T9	ENFERMEDAD 160 187	neoplasia maligna de cuello
-T10	ENFERMEDAD 3330 3345	clínica séptica
-T11	ENFERMEDAD 431 434	ITU
-T12	ENFERMEDAD 3518 3563	glándula prostática con una colección líquida
-T13	ENFERMEDAD 3001 3019	absceso prostático
-T14	ENFERMEDAD 3463 3470	absceso
-T15	ENFERMEDAD 3113 3120	absceso
-T16	SINTOMA 3493 3537	aumento del tamaño de la glándula prostática
-T17	SINTOMA 2282 2300	clínica infecciosa
-T18	SINTOMA 3330 3345	clínica séptica
-T19	SINTOMA 3546 3601	colección líquida multitabicada, localizada caudalmente
-T20	SINTOMA 969 997	descenso del Índice de Quick
-T21	SINTOMA 3828 3860	desestructuración de la glándula
-T22	SINTOMA 319 326	disuria
-T23	SINTOMA 2881 2905	ecogenicidad heterogénea
-T24	SINTOMA 1197 1244	ecografía de abdomen que no evidenció patología
-T25	SINTOMA 1856 1891	elevación de la cifra de leucocitos
-T26	SINTOMA 3212 3267	exudado prostático y del pus fueron positivos a E. coli
-T27	SINTOMA 2632 2638	fiebre
-T28	SINTOMA 2019 2032	gran próstata
-T29	SINTOMA 4631 4658	incontinencia leve-moderada
-T30	SINTOMA 4534 4568	incontinencia urinaria de esfuerzo
-T31	SINTOMA 825 837	leucocitosis
-T32	SINTOMA 3899 3917	material purulento
-T33	SINTOMA 3148 3166	material purulento
-T34	SINTOMA 1052 1066	microhematuria
-T35	SINTOMA 3879 3896	multiloculaciones
-T36	SINTOMA 862 873	neutrofilia
-T37	SINTOMA 1822 1833	pico febril
-T38	SINTOMA 2391 2405	picos febriles
-T39	SINTOMA 1043 1049	piuria
-T40	SINTOMA 288 299	polaquiuria
-T41	SINTOMA 683 759	próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación
-T42	SINTOMA 1076 1149	radiografías simples de tórax y abdomen practicadas no apareció patología
-T43	SINTOMA 254 283	síndrome miccional irritativo
-T44	SINTOMA 301 316	tenesmo vesical
+T1	SINTOMA 3493 3537	aumento del tamaño de la glándula prostática
+T2	SINTOMA 2282 2300	clínica infecciosa
+T3	SINTOMA 3330 3345	clínica séptica
+T4	SINTOMA 3546 3601	colección líquida multitabicada, localizada caudalmente
+T5	SINTOMA 969 997	descenso del Índice de Quick
+T6	SINTOMA 3828 3860	desestructuración de la glándula
+T7	SINTOMA 319 326	disuria
+T8	SINTOMA 2881 2905	ecogenicidad heterogénea
+T9	SINTOMA 1197 1244	ecografía de abdomen que no evidenció patología
+T10	SINTOMA 1856 1891	elevación de la cifra de leucocitos
+T11	SINTOMA 3212 3267	exudado prostático y del pus fueron positivos a E. coli
+T12	SINTOMA 2632 2638	fiebre
+T13	SINTOMA 2019 2032	gran próstata
+T14	SINTOMA 4631 4658	incontinencia leve-moderada
+T15	SINTOMA 4534 4568	incontinencia urinaria de esfuerzo
+T16	SINTOMA 825 837	leucocitosis
+T17	SINTOMA 3899 3917	material purulento
+T18	SINTOMA 3148 3166	material purulento
+T19	SINTOMA 1052 1066	microhematuria
+T20	SINTOMA 3879 3896	multiloculaciones
+T21	SINTOMA 862 873	neutrofilia
+T22	SINTOMA 1822 1833	pico febril
+T23	SINTOMA 2391 2405	picos febriles
+T24	SINTOMA 1043 1049	piuria
+T25	SINTOMA 288 299	polaquiuria
+T26	SINTOMA 683 759	próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación
+T27	SINTOMA 1076 1149	radiografías simples de tórax y abdomen practicadas no apareció patología
+T28	SINTOMA 254 283	síndrome miccional irritativo
+T29	SINTOMA 301 316	tenesmo vesical
+T30	ENFERMEDAD 1265 1268	ITU
+T31	ENFERMEDAD 35 44	diabético
+T32	ENFERMEDAD 2120 2137	prostatitis aguda
+T33	ENFERMEDAD 4088 4114	adenocarcinoma microacinar
+T34	ENFERMEDAD 2160 2163	HBP
+T35	ENFERMEDAD 103 117	litiasis renal
+T36	ENFERMEDAD 120 152	cólicos nefríticos de repetición
+T37	ENFERMEDAD 4181 4222	prostatitis crónica y aguda abscesificada
+T38	ENFERMEDAD 160 187	neoplasia maligna de cuello
+T39	ENFERMEDAD 3330 3345	clínica séptica
+T40	ENFERMEDAD 431 434	ITU
+T41	ENFERMEDAD 3518 3563	glándula prostática con una colección líquida
+T42	ENFERMEDAD 3001 3019	absceso prostático
+T43	ENFERMEDAD 3463 3470	absceso
+T44	ENFERMEDAD 3113 3120	absceso

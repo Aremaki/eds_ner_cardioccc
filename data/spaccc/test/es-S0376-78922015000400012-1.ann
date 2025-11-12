@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 475 516	fractura de la apófisis estiloides radial
-T2	ENFERMEDAD 522 550	fractura del hueso semilunar
-T3	ENFERMEDAD 557 610	luxación a través del trazo de fractura del semilunar
-T4	ENFERMEDAD 1098 1158	fractura del hueso semilunar era coronal-oblicuo y conminuto
-T5	ENFERMEDAD 818 871	fractura-luxación transestiloidesradial-transemilunar
-T6	ENFERMEDAD 326 336	deformidad
-T7	ENFERMEDAD 1003 1009	lesión
-T8	ENFERMEDAD 1180 1191	traumatismo
-T9	ENFERMEDAD 2021 2032	traumatismo
-T10	PROCEDIMIENTO 1031 1055	tomografía computarizada
-T11	PROCEDIMIENTO 1220 1243	bloqueo supraclavicular
-T12	PROCEDIMIENTO 1261 1288	intervenido quirúrgicamente
-T13	PROCEDIMIENTO 1323 1424	apertura del retináculo dorsal a nivel de la tercera corredera y capsulotomía según técnica de Berger
-T14	PROCEDIMIENTO 1455 1529	reducción de la fractura del semilunar estabilizándolo con un minitornillo
-T15	PROCEDIMIENTO 1558 1623	reparación del ligamento escafolunar con un arpón en el semilunar
-T16	PROCEDIMIENTO 1703 1726	inmovilización con yeso
-T17	PROCEDIMIENTO 1755 1769	rehabilitación
-T18	PROCEDIMIENTO 365 397	exploración neurovascular distal
-T19	PROCEDIMIENTO 410 461	radiografías anteroposterior y lateral de la muñeca
-T20	PROCEDIMIENTO 899 931	reducción cerrada de la luxación
-T21	PROCEDIMIENTO 899 966	reducción cerrada de la luxación mediante tracción e inmovilización
-T22	SINTOMA 319 324	dolor
-T23	SINTOMA 1813 1833	limitación funcional
-T24	SINTOMA 326 336	deformidad
-T25	SINTOMA 365 404	exploración neurovascular distal normal
-T26	SINTOMA 615 713	fragmento dorsal del semilunar se encuentra unido a los huesos del carpo y desplazados dorsalmente
-T27	SINTOMA 339 359	impotencia funcional
-T28	SINTOMA 983 1009	inestabilidad de la lesión
-T29	SINTOMA 1896 1923	inestabilidad radiocarpiana
-T30	SINTOMA 223 274	muñeca izquierda y produciéndose una hiperextensión
+T1	SINTOMA 319 324	dolor
+T2	SINTOMA 1813 1833	limitación funcional
+T3	SINTOMA 326 336	deformidad
+T4	SINTOMA 365 404	exploración neurovascular distal normal
+T5	SINTOMA 615 713	fragmento dorsal del semilunar se encuentra unido a los huesos del carpo y desplazados dorsalmente
+T6	SINTOMA 339 359	impotencia funcional
+T7	SINTOMA 983 1009	inestabilidad de la lesión
+T8	SINTOMA 1896 1923	inestabilidad radiocarpiana
+T9	SINTOMA 223 274	muñeca izquierda y produciéndose una hiperextensión
+T10	ENFERMEDAD 475 516	fractura de la apófisis estiloides radial
+T11	ENFERMEDAD 522 550	fractura del hueso semilunar
+T12	ENFERMEDAD 557 610	luxación a través del trazo de fractura del semilunar
+T13	ENFERMEDAD 1098 1158	fractura del hueso semilunar era coronal-oblicuo y conminuto
+T14	ENFERMEDAD 818 871	fractura-luxación transestiloidesradial-transemilunar
+T15	ENFERMEDAD 326 336	deformidad
+T16	ENFERMEDAD 1003 1009	lesión
+T17	ENFERMEDAD 1180 1191	traumatismo
+T18	ENFERMEDAD 2021 2032	traumatismo
+T19	PROCEDIMIENTO 1031 1055	tomografía computarizada
+T20	PROCEDIMIENTO 1220 1243	bloqueo supraclavicular
+T21	PROCEDIMIENTO 1261 1288	intervenido quirúrgicamente
+T22	PROCEDIMIENTO 1323 1424	apertura del retináculo dorsal a nivel de la tercera corredera y capsulotomía según técnica de Berger
+T23	PROCEDIMIENTO 1455 1529	reducción de la fractura del semilunar estabilizándolo con un minitornillo
+T24	PROCEDIMIENTO 1558 1623	reparación del ligamento escafolunar con un arpón en el semilunar
+T25	PROCEDIMIENTO 1703 1726	inmovilización con yeso
+T26	PROCEDIMIENTO 1755 1769	rehabilitación
+T27	PROCEDIMIENTO 365 397	exploración neurovascular distal
+T28	PROCEDIMIENTO 410 461	radiografías anteroposterior y lateral de la muñeca
+T29	PROCEDIMIENTO 899 931	reducción cerrada de la luxación
+T30	PROCEDIMIENTO 899 966	reducción cerrada de la luxación mediante tracción e inmovilización

@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 100 123	reflujo gastroesofágico
-T2	ENFERMEDAD 126 146	cardias incompetente
-T3	ENFERMEDAD 390 403	nefrolitiasis
-T4	ENFERMEDAD 556 568	cólico renal
-T5	ENFERMEDAD 882 895	hidronefrosis
-T6	ENFERMEDAD 1886 1899	hidronefrosis
-T7	ENFERMEDAD 1957 1968	adenopatías
-T8	ENFERMEDAD 2690 2726	tumor germinal tipo seminoma clásico
-T9	ENFERMEDAD 3023 3039	tumor testicular
-T10	ENFERMEDAD 255 262	fumador
-T11	ENFERMEDAD 282 291	exbebedor
-T12	ENFERMEDAD 1972 1980	lesiones
-T13	ENFERMEDAD 1912 1918	lesión
-T14	ENFERMEDAD 2792 2816	teste derecho una lesión
-T15	SINTOMA 458 525	dolor en flanco derecho con irradiación hacia testículo ipsilateral
-T16	SINTOMA 1021 1094	dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral
-T17	SINTOMA 708 714	fiebre
-T18	SINTOMA 1121 1127	fiebre
-T19	SINTOMA 914 937	masa en reteroperitoneo
-T20	SINTOMA 2111 2131	masa retroperitoneal
-T21	SINTOMA 1099 1106	náuseas
-T22	SINTOMA 2957 2975	nódulo hiperecoico
-T23	SINTOMA 762 777	pérdida apetito
-T24	SINTOMA 1247 1296	radiografía de tórax sin alteraciones patológicas
-T25	SINTOMA 1616 1696	retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa
-T26	SINTOMA 1220 1233	ritmo sinusal
-T27	SINTOMA 685 703	sensación nauseosa
-T28	SINTOMA 731 749	síndrome miccional
-T29	SINTOMA 1181 1212	sucusión renal derecha positiva
-T30	SINTOMA 1110 1117	vómitos
+T1	SINTOMA 458 525	dolor en flanco derecho con irradiación hacia testículo ipsilateral
+T2	SINTOMA 1021 1094	dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral
+T3	SINTOMA 708 714	fiebre
+T4	SINTOMA 1121 1127	fiebre
+T5	SINTOMA 914 937	masa en reteroperitoneo
+T6	SINTOMA 2111 2131	masa retroperitoneal
+T7	SINTOMA 1099 1106	náuseas
+T8	SINTOMA 2957 2975	nódulo hiperecoico
+T9	SINTOMA 762 777	pérdida apetito
+T10	SINTOMA 1247 1296	radiografía de tórax sin alteraciones patológicas
+T11	SINTOMA 1616 1696	retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa
+T12	SINTOMA 1220 1233	ritmo sinusal
+T13	SINTOMA 685 703	sensación nauseosa
+T14	SINTOMA 731 749	síndrome miccional
+T15	SINTOMA 1181 1212	sucusión renal derecha positiva
+T16	SINTOMA 1110 1117	vómitos
+T17	ENFERMEDAD 100 123	reflujo gastroesofágico
+T18	ENFERMEDAD 126 146	cardias incompetente
+T19	ENFERMEDAD 390 403	nefrolitiasis
+T20	ENFERMEDAD 556 568	cólico renal
+T21	ENFERMEDAD 882 895	hidronefrosis
+T22	ENFERMEDAD 1886 1899	hidronefrosis
+T23	ENFERMEDAD 1957 1968	adenopatías
+T24	ENFERMEDAD 2690 2726	tumor germinal tipo seminoma clásico
+T25	ENFERMEDAD 3023 3039	tumor testicular
+T26	ENFERMEDAD 255 262	fumador
+T27	ENFERMEDAD 282 291	exbebedor
+T28	ENFERMEDAD 1972 1980	lesiones
+T29	ENFERMEDAD 1912 1918	lesión
+T30	ENFERMEDAD 2792 2816	teste derecho una lesión

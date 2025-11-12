@@ -1,64 +1,64 @@
-T1	ENFERMEDAD 48 74	adenocarcinoma de próstata
-T2	ENFERMEDAD 329 346	neoplasia de mama
-T3	ENFERMEDAD 361 380	neoplasia de pulmón
-T4	ENFERMEDAD 2296 2307	anemización
-T5	ENFERMEDAD 2528 2543	derrame pleural
-T6	ENFERMEDAD 2616 2625	neoplasia
-T7	ENFERMEDAD 2746 2784	complicación vascular a nivel torácico
-T8	ENFERMEDAD 2927 2959	hematoma en mediastino posterior
-T9	ENFERMEDAD 3015 3066	dilatación pseudoaneurismática de arteria bronquial
-T10	ENFERMEDAD 1372 1397	derrame pleural bilateral
-T11	ENFERMEDAD 97 99	M0
-T12	ENFERMEDAD 1588 1594	lesión
-T13	PROCEDIMIENTO 1035 1060	radiografía (RX) de tórax
-T14	PROCEDIMIENTO 1130 1132	TC
-T15	PROCEDIMIENTO 114 133	bloqueo androgénico
-T16	PROCEDIMIENTO 135 147	radioterapia
-T17	PROCEDIMIENTO 1465 1481	prueba de imagen
-T18	PROCEDIMIENTO 150 163	braquiterapia
-T19	PROCEDIMIENTO 1561 1574	ecoendoscopia
-T20	PROCEDIMIENTO 165 192	Intervenido quirúrgicamente
-T21	PROCEDIMIENTO 1655 1662	biopsia
-T22	PROCEDIMIENTO 1715 1724	citología
-T23	PROCEDIMIENTO 1774 1786	broncoscopia
-T24	PROCEDIMIENTO 1872 1926	tráquea y bronquios principales realizando 3 punciones
-T25	PROCEDIMIENTO 196 210	apendicectomía
-T26	PROCEDIMIENTO 1977 1986	citología
-T27	PROCEDIMIENTO 2044 2082	toracotomía para obtención de muestras
-T28	PROCEDIMIENTO 213 227	amigdalectomía
-T29	PROCEDIMIENTO 2167 2174	cirugía
-T30	PROCEDIMIENTO 2433 2444	RX de tórax
-T31	PROCEDIMIENTO 2561 2587	toracocentesis diagnóstica
-T32	PROCEDIMIENTO 2630 2639	citología
-T33	PROCEDIMIENTO 2697 2706	citología
-T34	PROCEDIMIENTO 2803 2805	TC
-T35	PROCEDIMIENTO 2986 2997	angiografía
-T36	PROCEDIMIENTO 3100 3124	embolización terapéutica
-T37	PROCEDIMIENTO 672 683	exploración
-T38	PROCEDIMIENTO 716 737	auscultación cardiaca
-T39	PROCEDIMIENTO 826 835	analítica
-T40	PROCEDIMIENTO 853 862	hemograma
-T41	PROCEDIMIENTO 874 884	bioquímica
-T42	PROCEDIMIENTO 887 912	parámetros de coagulación
-T43	SINTOMA 483 501	cortejo vegetativo
-T44	SINTOMA 1080 1107	ensanchamiento mediastínico
-T45	SINTOMA 2473 2500	ensanchamiento mediastínico
-T46	SINTOMA 599 611	asintomático
-T47	SINTOMA 614 639	hemodinámicamente estable
-T48	SINTOMA 770 776	soplos
-T49	SINTOMA 2415 2422	estable
-T50	SINTOMA 2528 2543	derrame pleural
-T51	SINTOMA 874 921	bioquímica y parámetros de coagulación anodinos
-T52	SINTOMA 2003 2022	células neoplásicas
-T53	SINTOMA 2630 2651	citología hemorrágica
-T54	SINTOMA 2697 2718	citología hemorrágica
-T55	SINTOMA 1977 1998	citología hemorrágica
-T56	SINTOMA 1715 1736	citología hemorrágica
-T57	SINTOMA 1372 1397	derrame pleural bilateral
-T58	SINTOMA 428 471	dolor torácico transfixivo de inicio súbito
-T59	SINTOMA 853 869	hemograma normal
-T60	SINTOMA 1160 1177	masa prevertebral
-T61	SINTOMA 1951 1971	material hemorrágico
-T62	SINTOMA 695 714	palidez mucocutánea
-T63	SINTOMA 1667 1710	resultado negativo para células neoplásicas
-T64	SINTOMA 742 765	tonos apagados rítmicos
+T1	SINTOMA 483 501	cortejo vegetativo
+T2	SINTOMA 1080 1107	ensanchamiento mediastínico
+T3	SINTOMA 2473 2500	ensanchamiento mediastínico
+T4	SINTOMA 599 611	asintomático
+T5	SINTOMA 614 639	hemodinámicamente estable
+T6	SINTOMA 770 776	soplos
+T7	SINTOMA 2415 2422	estable
+T8	SINTOMA 2528 2543	derrame pleural
+T9	SINTOMA 874 921	bioquímica y parámetros de coagulación anodinos
+T10	SINTOMA 2003 2022	células neoplásicas
+T11	SINTOMA 2630 2651	citología hemorrágica
+T12	SINTOMA 2697 2718	citología hemorrágica
+T13	SINTOMA 1977 1998	citología hemorrágica
+T14	SINTOMA 1715 1736	citología hemorrágica
+T15	SINTOMA 1372 1397	derrame pleural bilateral
+T16	SINTOMA 428 471	dolor torácico transfixivo de inicio súbito
+T17	SINTOMA 853 869	hemograma normal
+T18	SINTOMA 1160 1177	masa prevertebral
+T19	SINTOMA 1951 1971	material hemorrágico
+T20	SINTOMA 695 714	palidez mucocutánea
+T21	SINTOMA 1667 1710	resultado negativo para células neoplásicas
+T22	SINTOMA 742 765	tonos apagados rítmicos
+T23	ENFERMEDAD 48 74	adenocarcinoma de próstata
+T24	ENFERMEDAD 329 346	neoplasia de mama
+T25	ENFERMEDAD 361 380	neoplasia de pulmón
+T26	ENFERMEDAD 2296 2307	anemización
+T27	ENFERMEDAD 2528 2543	derrame pleural
+T28	ENFERMEDAD 2616 2625	neoplasia
+T29	ENFERMEDAD 2746 2784	complicación vascular a nivel torácico
+T30	ENFERMEDAD 2927 2959	hematoma en mediastino posterior
+T31	ENFERMEDAD 3015 3066	dilatación pseudoaneurismática de arteria bronquial
+T32	ENFERMEDAD 1372 1397	derrame pleural bilateral
+T33	ENFERMEDAD 97 99	M0
+T34	ENFERMEDAD 1588 1594	lesión
+T35	PROCEDIMIENTO 1035 1060	radiografía (RX) de tórax
+T36	PROCEDIMIENTO 1130 1132	TC
+T37	PROCEDIMIENTO 114 133	bloqueo androgénico
+T38	PROCEDIMIENTO 135 147	radioterapia
+T39	PROCEDIMIENTO 1465 1481	prueba de imagen
+T40	PROCEDIMIENTO 150 163	braquiterapia
+T41	PROCEDIMIENTO 1561 1574	ecoendoscopia
+T42	PROCEDIMIENTO 165 192	Intervenido quirúrgicamente
+T43	PROCEDIMIENTO 1655 1662	biopsia
+T44	PROCEDIMIENTO 1715 1724	citología
+T45	PROCEDIMIENTO 1774 1786	broncoscopia
+T46	PROCEDIMIENTO 1872 1926	tráquea y bronquios principales realizando 3 punciones
+T47	PROCEDIMIENTO 196 210	apendicectomía
+T48	PROCEDIMIENTO 1977 1986	citología
+T49	PROCEDIMIENTO 2044 2082	toracotomía para obtención de muestras
+T50	PROCEDIMIENTO 213 227	amigdalectomía
+T51	PROCEDIMIENTO 2167 2174	cirugía
+T52	PROCEDIMIENTO 2433 2444	RX de tórax
+T53	PROCEDIMIENTO 2561 2587	toracocentesis diagnóstica
+T54	PROCEDIMIENTO 2630 2639	citología
+T55	PROCEDIMIENTO 2697 2706	citología
+T56	PROCEDIMIENTO 2803 2805	TC
+T57	PROCEDIMIENTO 2986 2997	angiografía
+T58	PROCEDIMIENTO 3100 3124	embolización terapéutica
+T59	PROCEDIMIENTO 672 683	exploración
+T60	PROCEDIMIENTO 716 737	auscultación cardiaca
+T61	PROCEDIMIENTO 826 835	analítica
+T62	PROCEDIMIENTO 853 862	hemograma
+T63	PROCEDIMIENTO 874 884	bioquímica
+T64	PROCEDIMIENTO 887 912	parámetros de coagulación

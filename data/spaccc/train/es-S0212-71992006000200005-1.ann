@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 1305 1334	lesiones quísticas pulmonares
-T2	ENFERMEDAD 1481 1525	lesión lítica a nivel del cuarto arco costal
-T3	ENFERMEDAD 2323 2327	HPCL
-T4	ENFERMEDAD 2754 2765	lesión ósea
-T5	ENFERMEDAD 346 353	fumador
-T6	ENFERMEDAD 2366 2382	hábito tabáquico
-T7	ENFERMEDAD 2512 2530	lesiones quísticas
-T8	SINTOMA 2635 2647	asintomático
-T9	SINTOMA 135 141	fiebre
-T10	SINTOMA 1221 1250	patrón intersticial bilateral
-T11	SINTOMA 995 1013	patrón restrictivo
-T12	SINTOMA 234 237	tos
-T13	SINTOMA 1082 1101	difusión disminuida
-T14	SINTOMA 507 548	disminución global del murmullo vesicular
-T15	SINTOMA 161 221	dolor intenso de características pleuríticas en el hemitórax
-T16	SINTOMA 242 283	expectoración abundante de color negruzco
-T17	SINTOMA 2547 2567	imagen lítica costal
-T18	SINTOMA 2683 2716	leve dolor costal en el hemitórax
-T19	SINTOMA 1128 1169	reducción de la superficie de intercambio
-T20	SINTOMA 553 579	zonas aisladas de egofonía
+T1	SINTOMA 2635 2647	asintomático
+T2	SINTOMA 135 141	fiebre
+T3	SINTOMA 1221 1250	patrón intersticial bilateral
+T4	SINTOMA 995 1013	patrón restrictivo
+T5	SINTOMA 234 237	tos
+T6	SINTOMA 1082 1101	difusión disminuida
+T7	SINTOMA 507 548	disminución global del murmullo vesicular
+T8	SINTOMA 161 221	dolor intenso de características pleuríticas en el hemitórax
+T9	SINTOMA 242 283	expectoración abundante de color negruzco
+T10	SINTOMA 2547 2567	imagen lítica costal
+T11	SINTOMA 2683 2716	leve dolor costal en el hemitórax
+T12	SINTOMA 1128 1169	reducción de la superficie de intercambio
+T13	SINTOMA 553 579	zonas aisladas de egofonía
+T14	ENFERMEDAD 1305 1334	lesiones quísticas pulmonares
+T15	ENFERMEDAD 1481 1525	lesión lítica a nivel del cuarto arco costal
+T16	ENFERMEDAD 2323 2327	HPCL
+T17	ENFERMEDAD 2754 2765	lesión ósea
+T18	ENFERMEDAD 346 353	fumador
+T19	ENFERMEDAD 2366 2382	hábito tabáquico
+T20	ENFERMEDAD 2512 2530	lesiones quísticas

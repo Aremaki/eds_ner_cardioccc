@@ -1,18 +1,18 @@
-T1	ENFERMEDAD 813 822	epilepsia
-T2	ENFERMEDAD 839 858	retraso mental leve
-T3	ENFERMEDAD 860 874	hipotiroidismo
-T4	ENFERMEDAD 876 901	resistencia a la insulina
-T5	ENFERMEDAD 904 919	alergia al yodo
-T6	ENFERMEDAD 558 578	QG asociada a un SMR
-T7	ENFERMEDAD 1266 1281	lengua fisurada
-T8	ENFERMEDAD 1304 1315	macroglosia
-T9	ENFERMEDAD 241 244	SMR
-T10	ENFERMEDAD 1180 1197	lengua depapilada
-T11	SINTOMA 1104 1141	aumento de volumen del labio inferior
-T12	SINTOMA 259 296	aumento de volumen del labio inferior
-T13	SINTOMA 413 452	aumento de volumen en el labio inferior
-T14	SINTOMA 1522 1545	dolor post infiltración
-T15	SINTOMA 1180 1197	lengua depapilada
-T16	SINTOMA 1653 1692	reducción del tamaño del labio inferior
-T17	SINTOMA 1213 1250	surcos transversales en dorso lingual
-T18	SINTOMA 1266 1281	lengua fisurada
+T1	SINTOMA 1104 1141	aumento de volumen del labio inferior
+T2	SINTOMA 259 296	aumento de volumen del labio inferior
+T3	SINTOMA 413 452	aumento de volumen en el labio inferior
+T4	SINTOMA 1522 1545	dolor post infiltración
+T5	SINTOMA 1180 1197	lengua depapilada
+T6	SINTOMA 1653 1692	reducción del tamaño del labio inferior
+T7	SINTOMA 1213 1250	surcos transversales en dorso lingual
+T8	SINTOMA 1266 1281	lengua fisurada
+T9	ENFERMEDAD 813 822	epilepsia
+T10	ENFERMEDAD 839 858	retraso mental leve
+T11	ENFERMEDAD 860 874	hipotiroidismo
+T12	ENFERMEDAD 876 901	resistencia a la insulina
+T13	ENFERMEDAD 904 919	alergia al yodo
+T14	ENFERMEDAD 558 578	QG asociada a un SMR
+T15	ENFERMEDAD 1266 1281	lengua fisurada
+T16	ENFERMEDAD 1304 1315	macroglosia
+T17	ENFERMEDAD 241 244	SMR
+T18	ENFERMEDAD 1180 1197	lengua depapilada

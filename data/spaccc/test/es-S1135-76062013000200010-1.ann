@@ -1,48 +1,48 @@
-T1	ENFERMEDAD 1853 1866	Hemoperitoneo
-T2	ENFERMEDAD 2102 2212	hematoma subcapsular extendido a casi la totalidad de la cara superior y posterior del lóbulo derecho hepático
-T3	ENFERMEDAD 2777 2794	shock hemorrágico
-T4	ENFERMEDAD 72 92	diabetes gestacional
-T5	ENFERMEDAD 1969 2002	desgarro de la cápsula de Glisson
-T6	ENFERMEDAD 2812 2838	rotura espontánea hepática
-T7	ENFERMEDAD 2857 2877	hematoma subcapsular
-T8	ENFERMEDAD 146 167	hipertensión arterial
-T9	ENFERMEDAD 2899 2913	síndrome HELLP
-T10	ENFERMEDAD 2651 2679	rotura espontánea del hígado
-T11	ENFERMEDAD 2708 2722	síndrome HELLP
-T12	ENFERMEDAD 335 404	cesárea, durante la cual se produjo una hemorragia intensa por atonía
-T13	ENFERMEDAD 533 545	coagulopatía
-T14	ENFERMEDAD 675 704	hematoma subcapsular hepático
-T15	ENFERMEDAD 977 1006	hematoma subcapsular hepático
-T16	ENFERMEDAD 2777 2838	shock hemorrágico secundario a una rotura espontánea hepática
-T17	PROCEDIMIENTO 1025 1027	TC
-T18	PROCEDIMIENTO 1232 1256	transfusión de plaquetas
-T19	PROCEDIMIENTO 1296 1306	ecográfica
-T20	PROCEDIMIENTO 1414 1419	parto
-T21	PROCEDIMIENTO 1577 1603	reanimación cardiopulmonar
-T22	PROCEDIMIENTO 1722 1730	autopsia
-T23	PROCEDIMIENTO 1737 1751	examen externo
-T24	PROCEDIMIENTO 1816 1830	examen interno
-T25	PROCEDIMIENTO 2406 2429	estudio histopatológico
-T26	PROCEDIMIENTO 280 299	inducción del parto
-T27	PROCEDIMIENTO 304 319	prostaglandinas
-T28	PROCEDIMIENTO 335 342	cesárea
-T29	PROCEDIMIENTO 442 464	histerectomía subtotal
-T30	PROCEDIMIENTO 613 659	tomografía computarizada (TC) abdomino-pélvico
-T31	PROCEDIMIENTO 639 641	TC
-T32	PROCEDIMIENTO 827 834	cirugía
-T33	SINTOMA 1493 1511	sensación disneica
-T34	SINTOMA 482 508	inestabilidad hemodinámica
-T35	SINTOMA 1617 1624	fallece
-T36	SINTOMA 1668 1681	muerte súbita
-T37	SINTOMA 398 404	atonía
-T38	SINTOMA 1765 1797	cadáver muy pálido con livideces
-T39	SINTOMA 2570 2605	depósito de fibrina intrasinusoidal
-T40	SINTOMA 1969 2002	desgarro de la cápsula de Glisson
-T41	SINTOMA 1076 1103	disminución del hematocrito
-T42	SINTOMA 909 929	hemodinámica estable
-T43	SINTOMA 1899 1932	Hígado aumentado de tamaño y peso
-T44	SINTOMA 2340 2369	Palidez visceral generalizada
-T45	SINTOMA 2449 2523	parénquima hepático muy alterado con destrucción de la arquitectura normal
-T46	SINTOMA 1514 1539	pérdida de la consciencia
-T47	SINTOMA 749 799	sangrado reciente, que comprime el lóbulo hepático
-T48	SINTOMA 1156 1171	trombocitopenia
+T1	SINTOMA 1493 1511	sensación disneica
+T2	SINTOMA 482 508	inestabilidad hemodinámica
+T3	SINTOMA 1617 1624	fallece
+T4	SINTOMA 1668 1681	muerte súbita
+T5	SINTOMA 398 404	atonía
+T6	SINTOMA 1765 1797	cadáver muy pálido con livideces
+T7	SINTOMA 2570 2605	depósito de fibrina intrasinusoidal
+T8	SINTOMA 1969 2002	desgarro de la cápsula de Glisson
+T9	SINTOMA 1076 1103	disminución del hematocrito
+T10	SINTOMA 909 929	hemodinámica estable
+T11	SINTOMA 1899 1932	Hígado aumentado de tamaño y peso
+T12	SINTOMA 2340 2369	Palidez visceral generalizada
+T13	SINTOMA 2449 2523	parénquima hepático muy alterado con destrucción de la arquitectura normal
+T14	SINTOMA 1514 1539	pérdida de la consciencia
+T15	SINTOMA 749 799	sangrado reciente, que comprime el lóbulo hepático
+T16	SINTOMA 1156 1171	trombocitopenia
+T17	ENFERMEDAD 1853 1866	Hemoperitoneo
+T18	ENFERMEDAD 2102 2212	hematoma subcapsular extendido a casi la totalidad de la cara superior y posterior del lóbulo derecho hepático
+T19	ENFERMEDAD 2777 2794	shock hemorrágico
+T20	ENFERMEDAD 72 92	diabetes gestacional
+T21	ENFERMEDAD 1969 2002	desgarro de la cápsula de Glisson
+T22	ENFERMEDAD 2812 2838	rotura espontánea hepática
+T23	ENFERMEDAD 2857 2877	hematoma subcapsular
+T24	ENFERMEDAD 146 167	hipertensión arterial
+T25	ENFERMEDAD 2899 2913	síndrome HELLP
+T26	ENFERMEDAD 2651 2679	rotura espontánea del hígado
+T27	ENFERMEDAD 2708 2722	síndrome HELLP
+T28	ENFERMEDAD 335 404	cesárea, durante la cual se produjo una hemorragia intensa por atonía
+T29	ENFERMEDAD 533 545	coagulopatía
+T30	ENFERMEDAD 675 704	hematoma subcapsular hepático
+T31	ENFERMEDAD 977 1006	hematoma subcapsular hepático
+T32	ENFERMEDAD 2777 2838	shock hemorrágico secundario a una rotura espontánea hepática
+T33	PROCEDIMIENTO 1025 1027	TC
+T34	PROCEDIMIENTO 1232 1256	transfusión de plaquetas
+T35	PROCEDIMIENTO 1296 1306	ecográfica
+T36	PROCEDIMIENTO 1414 1419	parto
+T37	PROCEDIMIENTO 1577 1603	reanimación cardiopulmonar
+T38	PROCEDIMIENTO 1722 1730	autopsia
+T39	PROCEDIMIENTO 1737 1751	examen externo
+T40	PROCEDIMIENTO 1816 1830	examen interno
+T41	PROCEDIMIENTO 2406 2429	estudio histopatológico
+T42	PROCEDIMIENTO 280 299	inducción del parto
+T43	PROCEDIMIENTO 304 319	prostaglandinas
+T44	PROCEDIMIENTO 335 342	cesárea
+T45	PROCEDIMIENTO 442 464	histerectomía subtotal
+T46	PROCEDIMIENTO 613 659	tomografía computarizada (TC) abdomino-pélvico
+T47	PROCEDIMIENTO 639 641	TC
+T48	PROCEDIMIENTO 827 834	cirugía

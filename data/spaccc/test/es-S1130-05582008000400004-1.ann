@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 583 596	tumor maxilar
-T2	ENFERMEDAD 106 121	metástasis ósea
-T3	ENFERMEDAD 125 151	tumor primario desconocido
-T4	ENFERMEDAD 1082 1131	carcinoma infiltrante de la paratiroides inferior
-T5	ENFERMEDAD 1134 1173	hiperplasia de la paratiroides superior
-T6	ENFERMEDAD 420 448	osteoartropatía hipertrófica
-T7	ENFERMEDAD 461 483	enfermedad metastásica
-T8	ENFERMEDAD 682 687	tumor
-T9	PROCEDIMIENTO 1049 1072	estudio histopatológico
-T10	PROCEDIMIENTO 1316 1328	intervención
-T11	PROCEDIMIENTO 1342 1359	hemitiroidectomía
-T12	PROCEDIMIENTO 1361 1388	paratiroidectomía izquierda
-T13	PROCEDIMIENTO 1391 1401	timectomía
-T14	PROCEDIMIENTO 357 373	gammagrafía ósea
-T15	PROCEDIMIENTO 650 673	diagnóstico histológico
-T16	PROCEDIMIENTO 792 810	ecografía cervical
-T17	PROCEDIMIENTO 910 935	hemitiroidectomía derecha
-T18	PROCEDIMIENTO 940 967	excisión de la paratiroides
-T19	SINTOMA 1229 1242	estreñimiento
-T20	SINTOMA 209 222	estreñimiento
-T21	SINTOMA 1445 1450	murió
-T22	SINTOMA 199 207	anorexia
-T23	SINTOMA 820 875	aumento del tamaño de la glándula paratiroidea inferior
-T24	SINTOMA 224 239	dolor del muslo
-T25	SINTOMA 1216 1226	dolor óseo
-T26	SINTOMA 252 352	elevación de las concentraciones sanguíneas de calcio, bilirrubina y las fosfatasas ácida y alcalina
-T27	SINTOMA 1247 1301	niveles elevados de calcio y de parathormona en sangre
-T28	SINTOMA 724 787	niveles elevados de parathormona urinaria y de calcio sanguíneo
+T1	SINTOMA 1229 1242	estreñimiento
+T2	SINTOMA 209 222	estreñimiento
+T3	SINTOMA 1445 1450	murió
+T4	SINTOMA 199 207	anorexia
+T5	SINTOMA 820 875	aumento del tamaño de la glándula paratiroidea inferior
+T6	SINTOMA 224 239	dolor del muslo
+T7	SINTOMA 1216 1226	dolor óseo
+T8	SINTOMA 252 352	elevación de las concentraciones sanguíneas de calcio, bilirrubina y las fosfatasas ácida y alcalina
+T9	SINTOMA 1247 1301	niveles elevados de calcio y de parathormona en sangre
+T10	SINTOMA 724 787	niveles elevados de parathormona urinaria y de calcio sanguíneo
+T11	ENFERMEDAD 583 596	tumor maxilar
+T12	ENFERMEDAD 106 121	metástasis ósea
+T13	ENFERMEDAD 125 151	tumor primario desconocido
+T14	ENFERMEDAD 1082 1131	carcinoma infiltrante de la paratiroides inferior
+T15	ENFERMEDAD 1134 1173	hiperplasia de la paratiroides superior
+T16	ENFERMEDAD 420 448	osteoartropatía hipertrófica
+T17	ENFERMEDAD 461 483	enfermedad metastásica
+T18	ENFERMEDAD 682 687	tumor
+T19	PROCEDIMIENTO 1049 1072	estudio histopatológico
+T20	PROCEDIMIENTO 1316 1328	intervención
+T21	PROCEDIMIENTO 1342 1359	hemitiroidectomía
+T22	PROCEDIMIENTO 1361 1388	paratiroidectomía izquierda
+T23	PROCEDIMIENTO 1391 1401	timectomía
+T24	PROCEDIMIENTO 357 373	gammagrafía ósea
+T25	PROCEDIMIENTO 650 673	diagnóstico histológico
+T26	PROCEDIMIENTO 792 810	ecografía cervical
+T27	PROCEDIMIENTO 910 935	hemitiroidectomía derecha
+T28	PROCEDIMIENTO 940 967	excisión de la paratiroides

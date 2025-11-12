@@ -1,49 +1,49 @@
-T1	ENFERMEDAD 1763 1782	abuso de sustancias
-T2	ENFERMEDAD 1796 1804	ansiedad
-T3	ENFERMEDAD 1995 2003	ansiedad
-T4	ENFERMEDAD 2740 2748	ansiedad
-T5	ENFERMEDAD 2042 2051	depresión
-T6	ENFERMEDAD 2072 2091	abuso de inhalantes
-T7	ENFERMEDAD 4156 4172	atrofia cerebral
-T8	ENFERMEDAD 2131 2166	abstinencia de sustancias volátiles
-T9	ENFERMEDAD 2192 2211	trastornos mentales
-T10	ENFERMEDAD 2342 2352	agorafobia
-T11	ENFERMEDAD 3554 3562	ansiedad
-T12	ENFERMEDAD 769 788	conductas adictivas
-T13	ENFERMEDAD 3887 3900	daño cerebral
-T14	ENFERMEDAD 950 958	ansiedad
-T15	ENFERMEDAD 1064 1082	ataque tipo pánico
-T16	ENFERMEDAD 1085 1095	panic-like
-T17	ENFERMEDAD 1166 1194	episodios agudos de ansiedad
-T18	ENFERMEDAD 1409 1418	deprimida
-T19	ENFERMEDAD 1524 1542	trastorno afectivo
-T20	ENFERMEDAD 1571 1579	ansiedad
-T21	ENFERMEDAD 1599 1609	agorafobia
-T22	ENFERMEDAD 1642 1657	úlcera duodenal
-T23	SINTOMA 4581 4600	alteración cerebral
-T24	SINTOMA 4456 4505	alteraciones de la intensidad intraparenquimatosa
-T25	SINTOMA 4509 4543	áreas intracraneales de hiperseñal
-T26	SINTOMA 4236 4288	aumento de la intensidad en la señal periventricular
-T27	SINTOMA 1126 1146	debilidad de piernas
-T28	SINTOMA 2308 2332	debilidad en las piernas
-T29	SINTOMA 3613 3628	dolor emocional
-T30	SINTOMA 4291 4351	hipointensidad moderada del tálamo y de los ganglios basales
-T31	SINTOMA 3658 3673	humor depresivo
-T32	SINTOMA 3644 3655	inseguridad
-T33	SINTOMA 2909 2929	molestias pectorales
-T34	SINTOMA 3856 3868	neuroticismo
-T35	SINTOMA 637 685	niveles elevados de los metabolitos del estireno
-T36	SINTOMA 3494 3534	pérdida de la capacidad de concentración
-T37	SINTOMA 4174 4234	pobre diferenciación entre sustancia gris y sustancia blanca
-T38	SINTOMA 3750 3766	signos orgánicos
-T39	SINTOMA 3630 3642	somatización
-T40	SINTOMA 1115 1124	temblores
-T41	SINTOMA 2266 2293	tensión psíquica y somática
-T42	SINTOMA 2791 2804	palpitaciones
-T43	SINTOMA 2807 2814	temblor
-T44	SINTOMA 2257 2264	vértigo
-T45	SINTOMA 2295 2306	parestesias
-T46	SINTOMA 1106 1113	vértigo
-T47	SINTOMA 1344 1359	dolor de cabeza
-T48	SINTOMA 1365 1372	vértigo
-T49	SINTOMA 1149 1160	parestesias
+T1	SINTOMA 4581 4600	alteración cerebral
+T2	SINTOMA 4456 4505	alteraciones de la intensidad intraparenquimatosa
+T3	SINTOMA 4509 4543	áreas intracraneales de hiperseñal
+T4	SINTOMA 4236 4288	aumento de la intensidad en la señal periventricular
+T5	SINTOMA 1126 1146	debilidad de piernas
+T6	SINTOMA 2308 2332	debilidad en las piernas
+T7	SINTOMA 3613 3628	dolor emocional
+T8	SINTOMA 4291 4351	hipointensidad moderada del tálamo y de los ganglios basales
+T9	SINTOMA 3658 3673	humor depresivo
+T10	SINTOMA 3644 3655	inseguridad
+T11	SINTOMA 2909 2929	molestias pectorales
+T12	SINTOMA 3856 3868	neuroticismo
+T13	SINTOMA 637 685	niveles elevados de los metabolitos del estireno
+T14	SINTOMA 3494 3534	pérdida de la capacidad de concentración
+T15	SINTOMA 4174 4234	pobre diferenciación entre sustancia gris y sustancia blanca
+T16	SINTOMA 3750 3766	signos orgánicos
+T17	SINTOMA 3630 3642	somatización
+T18	SINTOMA 1115 1124	temblores
+T19	SINTOMA 2266 2293	tensión psíquica y somática
+T20	SINTOMA 2791 2804	palpitaciones
+T21	SINTOMA 2807 2814	temblor
+T22	SINTOMA 2257 2264	vértigo
+T23	SINTOMA 2295 2306	parestesias
+T24	SINTOMA 1106 1113	vértigo
+T25	SINTOMA 1344 1359	dolor de cabeza
+T26	SINTOMA 1365 1372	vértigo
+T27	SINTOMA 1149 1160	parestesias
+T28	ENFERMEDAD 1763 1782	abuso de sustancias
+T29	ENFERMEDAD 1796 1804	ansiedad
+T30	ENFERMEDAD 1995 2003	ansiedad
+T31	ENFERMEDAD 2740 2748	ansiedad
+T32	ENFERMEDAD 2042 2051	depresión
+T33	ENFERMEDAD 2072 2091	abuso de inhalantes
+T34	ENFERMEDAD 4156 4172	atrofia cerebral
+T35	ENFERMEDAD 2131 2166	abstinencia de sustancias volátiles
+T36	ENFERMEDAD 2192 2211	trastornos mentales
+T37	ENFERMEDAD 2342 2352	agorafobia
+T38	ENFERMEDAD 3554 3562	ansiedad
+T39	ENFERMEDAD 769 788	conductas adictivas
+T40	ENFERMEDAD 3887 3900	daño cerebral
+T41	ENFERMEDAD 950 958	ansiedad
+T42	ENFERMEDAD 1064 1082	ataque tipo pánico
+T43	ENFERMEDAD 1085 1095	panic-like
+T44	ENFERMEDAD 1166 1194	episodios agudos de ansiedad
+T45	ENFERMEDAD 1409 1418	deprimida
+T46	ENFERMEDAD 1524 1542	trastorno afectivo
+T47	ENFERMEDAD 1571 1579	ansiedad
+T48	ENFERMEDAD 1599 1609	agorafobia
+T49	ENFERMEDAD 1642 1657	úlcera duodenal

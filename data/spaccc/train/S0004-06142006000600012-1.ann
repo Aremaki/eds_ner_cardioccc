@@ -1,26 +1,26 @@
-T1	ENFERMEDAD 137 147	varicocele
-T2	ENFERMEDAD 573 604	adenomegalias retroperitoneales
-T3	ENFERMEDAD 977 1005	Tumor maligno indiferenciado
-T4	ENFERMEDAD 1103 1108	tumor
-T5	ENFERMEDAD 1162 1207	infiltración focal de la grasa perisuprarenal
-T6	ENFERMEDAD 1337 1358	pielonefritis crónica
-T7	ENFERMEDAD 1397 1416	quiste de retención
-T8	ENFERMEDAD 1536 1549	Nefroblastoma
-T9	ENFERMEDAD 1551 1565	Tumor de Wilms
-T10	ENFERMEDAD 1649 1665	recidiva tumoral
-T11	ENFERMEDAD 1841 1849	neumonía
-T12	ENFERMEDAD 1884 1890	sepsis
-T13	ENFERMEDAD 1230 1236	lesión
-T14	ENFERMEDAD 1475 1481	lesión
-T15	ENFERMEDAD 1300 1314	lesión tumoral
-T16	ENFERMEDAD 1238 1257	Embolias vasculares
-T17	ENFERMEDAD 1360 1394	Arterio y arteriolonefroesclerosis
-T18	SINTOMA 51 71	dolor en hemiescroto
-T19	SINTOMA 703 755	formación heterogénea renal derecha en polo superior
-T20	SINTOMA 493 516	formación renal derecha
-T21	SINTOMA 1445 1481	Glándula suprarrenal libre de lesión
-T22	SINTOMA 1209 1236	Hilio renal libre de lesión
-T23	SINTOMA 195 222	masa a nivel del área renal
-T24	SINTOMA 275 326	masa heterogénea de 10 cm. aproximadamente en riñón
-T25	SINTOMA 336 377	riñón izquierdo sin hallazgos patológicos
-T26	SINTOMA 1854 1882	deterioro del estado general
+T1	SINTOMA 51 71	dolor en hemiescroto
+T2	SINTOMA 703 755	formación heterogénea renal derecha en polo superior
+T3	SINTOMA 493 516	formación renal derecha
+T4	SINTOMA 1445 1481	Glándula suprarrenal libre de lesión
+T5	SINTOMA 1209 1236	Hilio renal libre de lesión
+T6	SINTOMA 195 222	masa a nivel del área renal
+T7	SINTOMA 275 326	masa heterogénea de 10 cm. aproximadamente en riñón
+T8	SINTOMA 336 377	riñón izquierdo sin hallazgos patológicos
+T9	SINTOMA 1854 1882	deterioro del estado general
+T10	ENFERMEDAD 137 147	varicocele
+T11	ENFERMEDAD 573 604	adenomegalias retroperitoneales
+T12	ENFERMEDAD 977 1005	Tumor maligno indiferenciado
+T13	ENFERMEDAD 1103 1108	tumor
+T14	ENFERMEDAD 1162 1207	infiltración focal de la grasa perisuprarenal
+T15	ENFERMEDAD 1337 1358	pielonefritis crónica
+T16	ENFERMEDAD 1397 1416	quiste de retención
+T17	ENFERMEDAD 1536 1549	Nefroblastoma
+T18	ENFERMEDAD 1551 1565	Tumor de Wilms
+T19	ENFERMEDAD 1649 1665	recidiva tumoral
+T20	ENFERMEDAD 1841 1849	neumonía
+T21	ENFERMEDAD 1884 1890	sepsis
+T22	ENFERMEDAD 1230 1236	lesión
+T23	ENFERMEDAD 1475 1481	lesión
+T24	ENFERMEDAD 1300 1314	lesión tumoral
+T25	ENFERMEDAD 1238 1257	Embolias vasculares
+T26	ENFERMEDAD 1360 1394	Arterio y arteriolonefroesclerosis

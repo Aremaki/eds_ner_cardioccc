@@ -1,22 +1,22 @@
-T1	ENFERMEDAD 590 628	pólipos milimétricos en ampolla rectal
-T2	ENFERMEDAD 630 650	hemorroides internas
-T3	ENFERMEDAD 630 676	hemorroides internas (una de ellas prolapsada)
-T4	ENFERMEDAD 945 979	enfermedad inflamatoria intestinal
-T5	ENFERMEDAD 981 997	colitis ulcerosa
-T6	ENFERMEDAD 1000 1019	úlcera estercorárea
-T7	ENFERMEDAD 1022 1060	síndrome de la úlcera rectal solitaria
-T8	ENFERMEDAD 1289 1327	síndrome de la úlcera rectal solitaria
-T9	ENFERMEDAD 95 106	rectorragia
-T10	PROCEDIMIENTO 1065 1084	anatomía patológica
-T11	PROCEDIMIENTO 1344 1365	manometría anorrectal
-T12	PROCEDIMIENTO 330 348	exploración física
-T13	PROCEDIMIENTO 376 388	tacto rectal
-T14	PROCEDIMIENTO 463 472	analítica
-T15	PROCEDIMIENTO 559 571	colonoscopia
-T16	PROCEDIMIENTO 878 886	biopsias
-T17	SINTOMA 95 106	rectorragia
-T18	SINTOMA 685 748	cara lateral izquierda de la ampolla rectal un área eritematosa
-T19	SINTOMA 160 170	dolor anal
-T20	SINTOMA 150 157	tenesmo
-T21	SINTOMA 1383 1437	volumen rectal máximo tolerable discretamente reducido
-T22	SINTOMA 393 446	zona indurada en la pared lateral izquierda del recto
+T1	SINTOMA 95 106	rectorragia
+T2	SINTOMA 685 748	cara lateral izquierda de la ampolla rectal un área eritematosa
+T3	SINTOMA 160 170	dolor anal
+T4	SINTOMA 150 157	tenesmo
+T5	SINTOMA 1383 1437	volumen rectal máximo tolerable discretamente reducido
+T6	SINTOMA 393 446	zona indurada en la pared lateral izquierda del recto
+T7	ENFERMEDAD 590 628	pólipos milimétricos en ampolla rectal
+T8	ENFERMEDAD 630 650	hemorroides internas
+T9	ENFERMEDAD 630 676	hemorroides internas (una de ellas prolapsada)
+T10	ENFERMEDAD 945 979	enfermedad inflamatoria intestinal
+T11	ENFERMEDAD 981 997	colitis ulcerosa
+T12	ENFERMEDAD 1000 1019	úlcera estercorárea
+T13	ENFERMEDAD 1022 1060	síndrome de la úlcera rectal solitaria
+T14	ENFERMEDAD 1289 1327	síndrome de la úlcera rectal solitaria
+T15	ENFERMEDAD 95 106	rectorragia
+T16	PROCEDIMIENTO 1065 1084	anatomía patológica
+T17	PROCEDIMIENTO 1344 1365	manometría anorrectal
+T18	PROCEDIMIENTO 330 348	exploración física
+T19	PROCEDIMIENTO 376 388	tacto rectal
+T20	PROCEDIMIENTO 463 472	analítica
+T21	PROCEDIMIENTO 559 571	colonoscopia
+T22	PROCEDIMIENTO 878 886	biopsias

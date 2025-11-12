@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 72 96	hernia discal y de hiato
-T2	ENFERMEDAD 98 124	fractura de tibia y peroné
-T3	ENFERMEDAD 135 151	cólico nefrítico
-T4	ENFERMEDAD 930 939	quísticas
-T5	ENFERMEDAD 493 504	adenopatías
-T6	ENFERMEDAD 575 587	hipernefroma
-T7	ENFERMEDAD 509 542	dilatación de vía renal excretora
-T8	PROCEDIMIENTO 1190 1216	estudio inmunohistoquímico
-T9	PROCEDIMIENTO 1533 1545	intervención
-T10	PROCEDIMIENTO 1622 1634	intervención
-T11	PROCEDIMIENTO 214 232	estudio ecográfico
-T12	PROCEDIMIENTO 307 310	TAC
-T13	PROCEDIMIENTO 56 70	apendicectomía
-T14	PROCEDIMIENTO 599 648	nefrectomía radical derecha mediante laparoscopia
-T15	PROCEDIMIENTO 658 677	studio macroscópico
-T16	PROCEDIMIENTO 947 967	estudio microscópico
-T17	SINTOMA 1588 1600	asintomática
-T18	SINTOMA 337 367	masa a nivel cortical de riñón
-T19	SINTOMA 694 715	neoformación cortical
-T20	SINTOMA 249 277	neoformación sólida en riñón
+T1	SINTOMA 1588 1600	asintomática
+T2	SINTOMA 337 367	masa a nivel cortical de riñón
+T3	SINTOMA 694 715	neoformación cortical
+T4	SINTOMA 249 277	neoformación sólida en riñón
+T5	ENFERMEDAD 72 96	hernia discal y de hiato
+T6	ENFERMEDAD 98 124	fractura de tibia y peroné
+T7	ENFERMEDAD 135 151	cólico nefrítico
+T8	ENFERMEDAD 930 939	quísticas
+T9	ENFERMEDAD 493 504	adenopatías
+T10	ENFERMEDAD 575 587	hipernefroma
+T11	ENFERMEDAD 509 542	dilatación de vía renal excretora
+T12	PROCEDIMIENTO 1190 1216	estudio inmunohistoquímico
+T13	PROCEDIMIENTO 1533 1545	intervención
+T14	PROCEDIMIENTO 1622 1634	intervención
+T15	PROCEDIMIENTO 214 232	estudio ecográfico
+T16	PROCEDIMIENTO 307 310	TAC
+T17	PROCEDIMIENTO 56 70	apendicectomía
+T18	PROCEDIMIENTO 599 648	nefrectomía radical derecha mediante laparoscopia
+T19	PROCEDIMIENTO 658 677	studio macroscópico
+T20	PROCEDIMIENTO 947 967	estudio microscópico

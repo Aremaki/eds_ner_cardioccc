@@ -1,47 +1,47 @@
-T1	ENFERMEDAD 1509 1529	perforación duodenal
-T2	ENFERMEDAD 756 771	íleo paralítico
-T3	ENFERMEDAD 1231 1298	colección líquida con abundante gas de localización retroperitoneal
-T4	ENFERMEDAD 259 285	adenocarcinoma de próstata
-T5	ENFERMEDAD 1378 1392	neumoperitoneo
-T6	ENFERMEDAD 1403 1417	diverticulosis
-T7	ENFERMEDAD 1559 1576	cuadro infeccioso
-T8	PROCEDIMIENTO 1202 1216	TAC de abdomen
-T9	PROCEDIMIENTO 1615 1667	Se coloca drenaje en la colección mediante ecografía
-T10	PROCEDIMIENTO 1658 1667	ecografía
-T11	PROCEDIMIENTO 1680 1700	cultivos del líquido
-T12	PROCEDIMIENTO 1822 1845	tratamiento antibiótico
-T13	PROCEDIMIENTO 1871 1879	cultivos
-T14	PROCEDIMIENTO 1895 1913	sonda nasogástrica
-T15	PROCEDIMIENTO 1916 1964	se sustituyó la alimentación oral por parenteral
-T16	PROCEDIMIENTO 201 219	biopsia prostática
-T17	PROCEDIMIENTO 2014 2023	ecografía
-T18	PROCEDIMIENTO 2068 2114	uso de contraste en un tránsito gastroduodenal
-T19	PROCEDIMIENTO 2150 2157	drenaje
-T20	PROCEDIMIENTO 224 251	resultado anatomopatológico
-T21	PROCEDIMIENTO 2256 2281	se retiró tubo de drenaje
-T22	PROCEDIMIENTO 2328 2340	intervención
-T23	PROCEDIMIENTO 2386 2402	PSA indetectable
-T24	PROCEDIMIENTO 344 372	resonancia magnética nuclear
-T25	PROCEDIMIENTO 433 447	apendicectomía
-T26	PROCEDIMIENTO 453 474	herniorrafia inguinal
-T27	PROCEDIMIENTO 487 509	tratamiento quirúrgico
-T28	PROCEDIMIENTO 519 626	prostatectomía radical, siendo el acceso por vía retropúbica y extraperitoneal mediante la técnica de Walsh
-T29	PROCEDIMIENTO 640 652	intervención
-T30	PROCEDIMIENTO 906 928	radiografía de abdomen
-T31	PROCEDIMIENTO 95 118	tratamiento antibiótico
-T32	SINTOMA 1987 1996	colección
-T33	SINTOMA 1231 1298	colección líquida con abundante gas de localización retroperitoneal
-T34	SINTOMA 1680 1765	cultivos del líquido, con crecimiento de Staphyloccus haemolyticus y Candida albicans
-T35	SINTOMA 1116 1139	dolor en flanco derecho
-T36	SINTOMA 49 80	elevación de las cifras del PSA
-T37	SINTOMA 314 335	enfermedad localizada
-T38	SINTOMA 2040 2063	estanqueidad intestinal
-T39	SINTOMA 946 965	gas en marco cólico
-T40	SINTOMA 968 1004	niveles hidroaéreos en colon derecho
-T41	SINTOMA 2386 2402	PSA indetectable
-T42	SINTOMA 714 720	fiebre
-T43	SINTOMA 1142 1156	enrojecimiento
-T44	SINTOMA 1172 1178	fiebre
-T45	SINTOMA 794 800	vómito
-T46	SINTOMA 2245 2254	apirético
-T47	SINTOMA 2367 2379	asintomático
+T1	SINTOMA 1987 1996	colección
+T2	SINTOMA 1231 1298	colección líquida con abundante gas de localización retroperitoneal
+T3	SINTOMA 1680 1765	cultivos del líquido, con crecimiento de Staphyloccus haemolyticus y Candida albicans
+T4	SINTOMA 1116 1139	dolor en flanco derecho
+T5	SINTOMA 49 80	elevación de las cifras del PSA
+T6	SINTOMA 314 335	enfermedad localizada
+T7	SINTOMA 2040 2063	estanqueidad intestinal
+T8	SINTOMA 946 965	gas en marco cólico
+T9	SINTOMA 968 1004	niveles hidroaéreos en colon derecho
+T10	SINTOMA 2386 2402	PSA indetectable
+T11	SINTOMA 714 720	fiebre
+T12	SINTOMA 1142 1156	enrojecimiento
+T13	SINTOMA 1172 1178	fiebre
+T14	SINTOMA 794 800	vómito
+T15	SINTOMA 2245 2254	apirético
+T16	SINTOMA 2367 2379	asintomático
+T17	ENFERMEDAD 1509 1529	perforación duodenal
+T18	ENFERMEDAD 756 771	íleo paralítico
+T19	ENFERMEDAD 1231 1298	colección líquida con abundante gas de localización retroperitoneal
+T20	ENFERMEDAD 259 285	adenocarcinoma de próstata
+T21	ENFERMEDAD 1378 1392	neumoperitoneo
+T22	ENFERMEDAD 1403 1417	diverticulosis
+T23	ENFERMEDAD 1559 1576	cuadro infeccioso
+T24	PROCEDIMIENTO 1202 1216	TAC de abdomen
+T25	PROCEDIMIENTO 1615 1667	Se coloca drenaje en la colección mediante ecografía
+T26	PROCEDIMIENTO 1658 1667	ecografía
+T27	PROCEDIMIENTO 1680 1700	cultivos del líquido
+T28	PROCEDIMIENTO 1822 1845	tratamiento antibiótico
+T29	PROCEDIMIENTO 1871 1879	cultivos
+T30	PROCEDIMIENTO 1895 1913	sonda nasogástrica
+T31	PROCEDIMIENTO 1916 1964	se sustituyó la alimentación oral por parenteral
+T32	PROCEDIMIENTO 201 219	biopsia prostática
+T33	PROCEDIMIENTO 2014 2023	ecografía
+T34	PROCEDIMIENTO 2068 2114	uso de contraste en un tránsito gastroduodenal
+T35	PROCEDIMIENTO 2150 2157	drenaje
+T36	PROCEDIMIENTO 224 251	resultado anatomopatológico
+T37	PROCEDIMIENTO 2256 2281	se retiró tubo de drenaje
+T38	PROCEDIMIENTO 2328 2340	intervención
+T39	PROCEDIMIENTO 2386 2402	PSA indetectable
+T40	PROCEDIMIENTO 344 372	resonancia magnética nuclear
+T41	PROCEDIMIENTO 433 447	apendicectomía
+T42	PROCEDIMIENTO 453 474	herniorrafia inguinal
+T43	PROCEDIMIENTO 487 509	tratamiento quirúrgico
+T44	PROCEDIMIENTO 519 626	prostatectomía radical, siendo el acceso por vía retropúbica y extraperitoneal mediante la técnica de Walsh
+T45	PROCEDIMIENTO 640 652	intervención
+T46	PROCEDIMIENTO 906 928	radiografía de abdomen
+T47	PROCEDIMIENTO 95 118	tratamiento antibiótico

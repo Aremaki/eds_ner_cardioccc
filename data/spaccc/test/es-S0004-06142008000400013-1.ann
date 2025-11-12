@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 30 51	hipertensión arterial
-T2	ENFERMEDAD 1078 1104	carcinoma ovárico primario
-T3	ENFERMEDAD 1107 1123	metástasis renal
-T4	ENFERMEDAD 1339 1391	metástasis de carcinoma de células renales en ovario
-T5	ENFERMEDAD 1444 1472	carcinoma de células renales
-T6	ENFERMEDAD 414 440	carcinoma ovárico primario
-T7	ENFERMEDAD 861 914	anejo izquierdo presentaba una lesión sólido-quística
-T8	ENFERMEDAD 983 1005	adenopatías regionales
-T9	ENFERMEDAD 1009 1044	implantes metastásicos peritoneales
-T10	ENFERMEDAD 837 845	lesiones
-T11	ENFERMEDAD 127 139	metrorragias
-T12	PROCEDIMIENTO 1148 1167	histerectomía total
-T13	PROCEDIMIENTO 1148 1187	histerectomía total y doble anexectomía
-T14	PROCEDIMIENTO 1170 1187	doble anexectomía
-T15	PROCEDIMIENTO 1214 1229	acto quirúrgico
-T16	PROCEDIMIENTO 1230 1257	nefrectomía radical derecha
-T17	PROCEDIMIENTO 1262 1322	estudio histológico intraoperatorio de la estructura ovárica
-T18	PROCEDIMIENTO 1396 1425	diagnóstico histológico renal
-T19	PROCEDIMIENTO 231 248	ecografía vaginal
-T20	PROCEDIMIENTO 456 481	estudio de estadificación
-T21	PROCEDIMIENTO 504 523	TC abdómino-pélvico
-T22	SINTOMA 155 170	dolor abdominal
-T23	SINTOMA 183 192	hematuria
-T24	SINTOMA 196 218	dolor en fosas renales
-T25	SINTOMA 262 274	masa anexial
-T26	SINTOMA 545 584	masa compleja en polo inferior de riñón
-T27	SINTOMA 127 139	metrorragias
-T28	SINTOMA 731 799	nódulos de 17 y 10 mm dependientes del polo superior del mismo riñón
-T29	SINTOMA 351 393	ovario derecho de características normales
-T30	SINTOMA 336 348	útero grande
+T1	SINTOMA 155 170	dolor abdominal
+T2	SINTOMA 183 192	hematuria
+T3	SINTOMA 196 218	dolor en fosas renales
+T4	SINTOMA 262 274	masa anexial
+T5	SINTOMA 545 584	masa compleja en polo inferior de riñón
+T6	SINTOMA 127 139	metrorragias
+T7	SINTOMA 731 799	nódulos de 17 y 10 mm dependientes del polo superior del mismo riñón
+T8	SINTOMA 351 393	ovario derecho de características normales
+T9	SINTOMA 336 348	útero grande
+T10	ENFERMEDAD 30 51	hipertensión arterial
+T11	ENFERMEDAD 1078 1104	carcinoma ovárico primario
+T12	ENFERMEDAD 1107 1123	metástasis renal
+T13	ENFERMEDAD 1339 1391	metástasis de carcinoma de células renales en ovario
+T14	ENFERMEDAD 1444 1472	carcinoma de células renales
+T15	ENFERMEDAD 414 440	carcinoma ovárico primario
+T16	ENFERMEDAD 861 914	anejo izquierdo presentaba una lesión sólido-quística
+T17	ENFERMEDAD 983 1005	adenopatías regionales
+T18	ENFERMEDAD 1009 1044	implantes metastásicos peritoneales
+T19	ENFERMEDAD 837 845	lesiones
+T20	ENFERMEDAD 127 139	metrorragias
+T21	PROCEDIMIENTO 1148 1167	histerectomía total
+T22	PROCEDIMIENTO 1148 1187	histerectomía total y doble anexectomía
+T23	PROCEDIMIENTO 1170 1187	doble anexectomía
+T24	PROCEDIMIENTO 1214 1229	acto quirúrgico
+T25	PROCEDIMIENTO 1230 1257	nefrectomía radical derecha
+T26	PROCEDIMIENTO 1262 1322	estudio histológico intraoperatorio de la estructura ovárica
+T27	PROCEDIMIENTO 1396 1425	diagnóstico histológico renal
+T28	PROCEDIMIENTO 231 248	ecografía vaginal
+T29	PROCEDIMIENTO 456 481	estudio de estadificación
+T30	PROCEDIMIENTO 504 523	TC abdómino-pélvico

@@ -1,38 +1,38 @@
-T1	ENFERMEDAD 68 86	cólicos nefríticos
-T2	ENFERMEDAD 338 346	hematoma
-T3	ENFERMEDAD 99 112	úlcus péptico
-T4	ENFERMEDAD 117 129	hipertensión
-T5	ENFERMEDAD 138 166	Betatalasemia heterocigótica
-T6	ENFERMEDAD 168 190	Litiasis úrica piélica
-T7	ENFERMEDAD 988 1008	hematoma subcapsular
-T8	ENFERMEDAD 673 681	hematoma
-T9	ENFERMEDAD 924 932	hematoma
-T10	PROCEDIMIENTO 1080 1093	función renal
-T11	PROCEDIMIENTO 1162 1173	lumbotomías
-T12	PROCEDIMIENTO 1203 1215	intervención
-T13	PROCEDIMIENTO 1234 1249	ecografía renal
-T14	PROCEDIMIENTO 1251 1254	UIV
-T15	PROCEDIMIENTO 1257 1270	función renal
-T16	PROCEDIMIENTO 259 264	LEOCH
-T17	PROCEDIMIENTO 266 271	Leoch
-T18	PROCEDIMIENTO 42 66	Adenomectomia prostática
-T19	PROCEDIMIENTO 446 472	analgesia IV suplementaria
-T20	PROCEDIMIENTO 530 535	Leoch
-T21	PROCEDIMIENTO 660 663	eco
-T22	PROCEDIMIENTO 666 669	Tac
-T23	PROCEDIMIENTO 743 748	Leoch
-T24	PROCEDIMIENTO 785 829	administración de 3 concentrados de hematíes
-T25	PROCEDIMIENTO 912 957	drenaje del hematoma mediante incisión lumbar
-T26	SINTOMA 580 598	mal estado general
-T27	SINTOMA 600 607	astenia
-T28	SINTOMA 609 621	dolor lumbar
-T29	SINTOMA 857 869	dolor lumbar
-T30	SINTOMA 880 886	fiebre
-T31	SINTOMA 1111 1117	fiebre
-T32	SINTOMA 1028 1043	sangrado activo
-T33	SINTOMA 398 403	dolor
-T34	SINTOMA 485 508	alteración hemodinámica
-T35	SINTOMA 1133 1147	dolor moderado
-T36	SINTOMA 1234 1284	ecografía renal, UIV y función renal eran normales
-T37	SINTOMA 683 706	Elevación de creatinina
-T38	SINTOMA 211 238	Portador de catéter doble J
+T1	SINTOMA 580 598	mal estado general
+T2	SINTOMA 600 607	astenia
+T3	SINTOMA 609 621	dolor lumbar
+T4	SINTOMA 857 869	dolor lumbar
+T5	SINTOMA 880 886	fiebre
+T6	SINTOMA 1111 1117	fiebre
+T7	SINTOMA 1028 1043	sangrado activo
+T8	SINTOMA 398 403	dolor
+T9	SINTOMA 485 508	alteración hemodinámica
+T10	SINTOMA 1133 1147	dolor moderado
+T11	SINTOMA 1234 1284	ecografía renal, UIV y función renal eran normales
+T12	SINTOMA 683 706	Elevación de creatinina
+T13	SINTOMA 211 238	Portador de catéter doble J
+T14	ENFERMEDAD 68 86	cólicos nefríticos
+T15	ENFERMEDAD 338 346	hematoma
+T16	ENFERMEDAD 99 112	úlcus péptico
+T17	ENFERMEDAD 117 129	hipertensión
+T18	ENFERMEDAD 138 166	Betatalasemia heterocigótica
+T19	ENFERMEDAD 168 190	Litiasis úrica piélica
+T20	ENFERMEDAD 988 1008	hematoma subcapsular
+T21	ENFERMEDAD 673 681	hematoma
+T22	ENFERMEDAD 924 932	hematoma
+T23	PROCEDIMIENTO 1080 1093	función renal
+T24	PROCEDIMIENTO 1162 1173	lumbotomías
+T25	PROCEDIMIENTO 1203 1215	intervención
+T26	PROCEDIMIENTO 1234 1249	ecografía renal
+T27	PROCEDIMIENTO 1251 1254	UIV
+T28	PROCEDIMIENTO 1257 1270	función renal
+T29	PROCEDIMIENTO 259 264	LEOCH
+T30	PROCEDIMIENTO 266 271	Leoch
+T31	PROCEDIMIENTO 42 66	Adenomectomia prostática
+T32	PROCEDIMIENTO 446 472	analgesia IV suplementaria
+T33	PROCEDIMIENTO 530 535	Leoch
+T34	PROCEDIMIENTO 660 663	eco
+T35	PROCEDIMIENTO 666 669	Tac
+T36	PROCEDIMIENTO 743 748	Leoch
+T37	PROCEDIMIENTO 785 829	administración de 3 concentrados de hematíes
+T38	PROCEDIMIENTO 912 957	drenaje del hematoma mediante incisión lumbar

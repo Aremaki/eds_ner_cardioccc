@@ -1,14 +1,14 @@
-T1	ENFERMEDAD 51 61	pretérmino
-T2	ENFERMEDAD 869 896	necrosis grasa licuefactiva
-T3	ENFERMEDAD 114 131	asfixia periparto
-T4	ENFERMEDAD 136 173	encefalopatía neonatal moderada-grave
-T5	ENFERMEDAD 187 204	asfixia periparto
-T6	ENFERMEDAD 1384 1390	herida
-T7	ENFERMEDAD 1787 1793	herida
-T8	ENFERMEDAD 554 575	lesión cutánea dorsal
-T9	ENFERMEDAD 712 718	escara
-T10	SINTOMA 1807 1812	dolor
-T11	SINTOMA 1466 1473	exudado
-T12	SINTOMA 270 290	hipotermia sistémica
-T13	SINTOMA 629 650	tumoración en espalda
-T14	SINTOMA 1840 1851	vida normal
+T1	SINTOMA 1807 1812	dolor
+T2	SINTOMA 1466 1473	exudado
+T3	SINTOMA 270 290	hipotermia sistémica
+T4	SINTOMA 629 650	tumoración en espalda
+T5	SINTOMA 1840 1851	vida normal
+T6	ENFERMEDAD 51 61	pretérmino
+T7	ENFERMEDAD 869 896	necrosis grasa licuefactiva
+T8	ENFERMEDAD 114 131	asfixia periparto
+T9	ENFERMEDAD 136 173	encefalopatía neonatal moderada-grave
+T10	ENFERMEDAD 187 204	asfixia periparto
+T11	ENFERMEDAD 1384 1390	herida
+T12	ENFERMEDAD 1787 1793	herida
+T13	ENFERMEDAD 554 575	lesión cutánea dorsal
+T14	ENFERMEDAD 712 718	escara

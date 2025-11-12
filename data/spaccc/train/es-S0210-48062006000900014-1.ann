@@ -1,60 +1,60 @@
-T1	PROCEDIMIENTO 1208 1227	TC abdómino-pélvico
-T2	PROCEDIMIENTO 1230 1331	TC-cistografía (mediante replección vesical por gravedad con 300 cc de material de contraste diluido)
-T3	PROCEDIMIENTO 1335 1354	TC abdómino-pélvico
-T4	PROCEDIMIENTO 1357 1371	TC-cistografía
-T5	PROCEDIMIENTO 1751 1774	laparotomía exploradora
-T6	PROCEDIMIENTO 1795 1822	posición de decúbito supino
-T7	PROCEDIMIENTO 1834 1872	laparotomía media supra-infraumbilical
-T8	PROCEDIMIENTO 1903 1953	reparación de una pequeña perforación en mesosigma
-T9	PROCEDIMIENTO 1994 2068	reparación de una mínima lesión a nivel de vena iliaca primitiva izquierda
-T10	PROCEDIMIENTO 2181 2219	cistotomía media longitudinal anterior
-T11	PROCEDIMIENTO 2409 2483	explorar la indemnidad del uréter distal izquierdo con catéter ureteral 5F
-T12	PROCEDIMIENTO 2667 2719	sutura en dos planos de la doble perforación vesical
-T13	PROCEDIMIENTO 2728 2771	desbridamiento de los bordes desvitalizados
-T14	PROCEDIMIENTO 2783 2845	reimplante ureteral con técnica transvesical y catéter doble J
-T15	PROCEDIMIENTO 2885 2911	liberación ureteral distal
-T16	PROCEDIMIENTO 2896 2942	ureteral distal y sección de su extremo dañado
-T17	PROCEDIMIENTO 2958 3028	cierre, también en doble plano, de la cistotomía longitudinal anterior
-T18	PROCEDIMIENTO 3030 3058	se deja sonda uretro-vesical
-T19	PROCEDIMIENTO 3061 3156	doble drenaje cerrado de tipo aspirativo: uno a nivel intraperitoneal y el otro extraperitoneal
-T20	PROCEDIMIENTO 3182 3196	sutura vesical
-T21	PROCEDIMIENTO 3207 3252	antibioterapia intravenosa de amplio espectro
-T22	PROCEDIMIENTO 322 340	exploración física
-T23	PROCEDIMIENTO 3551 3565	antibioterapia
-T24	PROCEDIMIENTO 3617 3629	hemocultivos
-T25	PROCEDIMIENTO 3771 3783	hemocultivos
-T26	PROCEDIMIENTO 3891 3910	TC abdómino-pélvico
-T27	PROCEDIMIENTO 4116 4194	retirándose inicialmente ambos drenajes y, al 10º día, la sonda uretro-vesical
-T28	PROCEDIMIENTO 4264 4290	antibioterapia intravenosa
-T29	PROCEDIMIENTO 4369 4381	antibiograma
-T30	PROCEDIMIENTO 4399 4422	retirada del catéter JJ
-T31	PROCEDIMIENTO 4437 4449	intervención
-T32	PROCEDIMIENTO 4510 4528	uretro-cistoscopia
-T33	PROCEDIMIENTO 4531 4553	retirada de catéter JJ
-T34	PROCEDIMIENTO 4691 4768	catéter JJ que tutorizaba la ureteroneocistostomía se retira endoscópicamente
-T35	PROCEDIMIENTO 4823 4835	intervención
-T36	PROCEDIMIENTO 636 662	cateterismo uretro-vesical
-T37	PROCEDIMIENTO 713 722	analítica
-T38	PROCEDIMIENTO 838 847	hemograma
-T39	PROCEDIMIENTO 850 861	coagulación
-T40	PROCEDIMIENTO 959 976	pruebas de imagen
-T41	PROCEDIMIENTO 987 994	cirugía
-T42	SINTOMA 570 602	afectación de genitales externos
-T43	SINTOMA 4854 4866	asintomático
-T44	SINTOMA 3936 3960	cambios post-quirúrgicos
-T45	SINTOMA 3993 4013	colecciones líquidas
-T46	SINTOMA 3422 3450	deterioro del estado general
-T47	SINTOMA 299 314	dolor abdominal
-T48	SINTOMA 451 466	dolor abdominal
-T49	SINTOMA 880 904	estabilidad hemodinámica
-T50	SINTOMA 232 257	estable hemodinámicamente
-T51	SINTOMA 3465 3471	fiebre
-T52	SINTOMA 675 697	hematuria macroscópica
-T53	SINTOMA 3771 3800	hemocultivos crece un E. coli
-T54	SINTOMA 838 870	hemograma y coagulación normales
-T55	SINTOMA 3452 3463	hipotensión
-T56	SINTOMA 2421 2449	indemnidad del uréter distal
-T57	SINTOMA 479 554	irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
-T58	SINTOMA 3474 3519	leucocitosis con marcada desviación izquierda
-T59	SINTOMA 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
-T60	SINTOMA 606 618	uretrorragia
+T1	SINTOMA 570 602	afectación de genitales externos
+T2	SINTOMA 4854 4866	asintomático
+T3	SINTOMA 3936 3960	cambios post-quirúrgicos
+T4	SINTOMA 3993 4013	colecciones líquidas
+T5	SINTOMA 3422 3450	deterioro del estado general
+T6	SINTOMA 299 314	dolor abdominal
+T7	SINTOMA 451 466	dolor abdominal
+T8	SINTOMA 880 904	estabilidad hemodinámica
+T9	SINTOMA 232 257	estable hemodinámicamente
+T10	SINTOMA 3465 3471	fiebre
+T11	SINTOMA 675 697	hematuria macroscópica
+T12	SINTOMA 3771 3800	hemocultivos crece un E. coli
+T13	SINTOMA 838 870	hemograma y coagulación normales
+T14	SINTOMA 3452 3463	hipotensión
+T15	SINTOMA 2421 2449	indemnidad del uréter distal
+T16	SINTOMA 479 554	irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+T17	SINTOMA 3474 3519	leucocitosis con marcada desviación izquierda
+T18	SINTOMA 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
+T19	SINTOMA 606 618	uretrorragia
+T20	PROCEDIMIENTO 1208 1227	TC abdómino-pélvico
+T21	PROCEDIMIENTO 1230 1331	TC-cistografía (mediante replección vesical por gravedad con 300 cc de material de contraste diluido)
+T22	PROCEDIMIENTO 1335 1354	TC abdómino-pélvico
+T23	PROCEDIMIENTO 1357 1371	TC-cistografía
+T24	PROCEDIMIENTO 1751 1774	laparotomía exploradora
+T25	PROCEDIMIENTO 1795 1822	posición de decúbito supino
+T26	PROCEDIMIENTO 1834 1872	laparotomía media supra-infraumbilical
+T27	PROCEDIMIENTO 1903 1953	reparación de una pequeña perforación en mesosigma
+T28	PROCEDIMIENTO 1994 2068	reparación de una mínima lesión a nivel de vena iliaca primitiva izquierda
+T29	PROCEDIMIENTO 2181 2219	cistotomía media longitudinal anterior
+T30	PROCEDIMIENTO 2409 2483	explorar la indemnidad del uréter distal izquierdo con catéter ureteral 5F
+T31	PROCEDIMIENTO 2667 2719	sutura en dos planos de la doble perforación vesical
+T32	PROCEDIMIENTO 2728 2771	desbridamiento de los bordes desvitalizados
+T33	PROCEDIMIENTO 2783 2845	reimplante ureteral con técnica transvesical y catéter doble J
+T34	PROCEDIMIENTO 2885 2911	liberación ureteral distal
+T35	PROCEDIMIENTO 2896 2942	ureteral distal y sección de su extremo dañado
+T36	PROCEDIMIENTO 2958 3028	cierre, también en doble plano, de la cistotomía longitudinal anterior
+T37	PROCEDIMIENTO 3030 3058	se deja sonda uretro-vesical
+T38	PROCEDIMIENTO 3061 3156	doble drenaje cerrado de tipo aspirativo: uno a nivel intraperitoneal y el otro extraperitoneal
+T39	PROCEDIMIENTO 3182 3196	sutura vesical
+T40	PROCEDIMIENTO 3207 3252	antibioterapia intravenosa de amplio espectro
+T41	PROCEDIMIENTO 322 340	exploración física
+T42	PROCEDIMIENTO 3551 3565	antibioterapia
+T43	PROCEDIMIENTO 3617 3629	hemocultivos
+T44	PROCEDIMIENTO 3771 3783	hemocultivos
+T45	PROCEDIMIENTO 3891 3910	TC abdómino-pélvico
+T46	PROCEDIMIENTO 4116 4194	retirándose inicialmente ambos drenajes y, al 10º día, la sonda uretro-vesical
+T47	PROCEDIMIENTO 4264 4290	antibioterapia intravenosa
+T48	PROCEDIMIENTO 4369 4381	antibiograma
+T49	PROCEDIMIENTO 4399 4422	retirada del catéter JJ
+T50	PROCEDIMIENTO 4437 4449	intervención
+T51	PROCEDIMIENTO 4510 4528	uretro-cistoscopia
+T52	PROCEDIMIENTO 4531 4553	retirada de catéter JJ
+T53	PROCEDIMIENTO 4691 4768	catéter JJ que tutorizaba la ureteroneocistostomía se retira endoscópicamente
+T54	PROCEDIMIENTO 4823 4835	intervención
+T55	PROCEDIMIENTO 636 662	cateterismo uretro-vesical
+T56	PROCEDIMIENTO 713 722	analítica
+T57	PROCEDIMIENTO 838 847	hemograma
+T58	PROCEDIMIENTO 850 861	coagulación
+T59	PROCEDIMIENTO 959 976	pruebas de imagen
+T60	PROCEDIMIENTO 987 994	cirugía

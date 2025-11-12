@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 2315 2335	enfermedad de Wilson
-T2	ENFERMEDAD 2112 2132	enfermedad de Wilson
-T3	ENFERMEDAD 478 513	infección por Micoplasma pneumoniae
-T4	ENFERMEDAD 81 101	exantema pruriginoso
-T5	ENFERMEDAD 1180 1203	síndrome mononucleósico
-T6	ENFERMEDAD 515 530	exantema vírico
-T7	ENFERMEDAD 541 565	mononucleosis infecciosa
-T8	ENFERMEDAD 568 603	alergia medicamentosa a amoxicilina
-T9	ENFERMEDAD 606 618	toxicodermia
-T10	ENFERMEDAD 2279 2294	leve esteatosis
-T11	ENFERMEDAD 360 375	neumonía en LII
-T12	ENFERMEDAD 1412 1430	hepatitis A, B y C
-T13	ENFERMEDAD 107 135	lesiones pápulo-eritematosas
-T14	ENFERMEDAD 237 245	enantema
-T15	PROCEDIMIENTO 1006 1024	RAST a amoxicilina
-T16	PROCEDIMIENTO 1035 1078	serología a Micoplasma pneumoniae IgG e IgM
-T17	PROCEDIMIENTO 1107 1116	analítica
-T18	PROCEDIMIENTO 1238 1247	analítica
-T19	PROCEDIMIENTO 1379 1391	Paul Bunnell
-T20	PROCEDIMIENTO 1402 1430	serología hepatitis A, B y C
-T21	PROCEDIMIENTO 1442 1472	serología toxoplasma IgG e IgM
-T22	PROCEDIMIENTO 1483 1515	serología CMV IgG positiva e IgM
-T23	PROCEDIMIENTO 1526 1558	serología VEB IgG positiva e IgM
-T24	PROCEDIMIENTO 1612 1621	analítica
-T25	PROCEDIMIENTO 2001 2018	serología brucela
-T26	PROCEDIMIENTO 2029 2053	serología parvovirus B19
-T27	PROCEDIMIENTO 2074 2083	analítica
-T28	PROCEDIMIENTO 2172 2186	cobre en orina
-T29	PROCEDIMIENTO 2241 2259	ecografía hepática
-T30	PROCEDIMIENTO 681 704	tratamiento antibiótico
-T31	PROCEDIMIENTO 721 736	antihistamínico
-T32	PROCEDIMIENTO 781 800	analítica de sangre
-T33	PROCEDIMIENTO 831 840	analítica
-T34	SINTOMA 198 224	afectando palmas y plantas
-T35	SINTOMA 1973 1999	alfa-fetoproteína negativa
-T36	SINTOMA 1880 1935	anticuerpos antinucleares, anti-DNA, anti-LKM negativos
-T37	SINTOMA 237 245	enantema
-T38	SINTOMA 1937 1971	IgA antitransglutaminasa negativos
-T39	SINTOMA 1379 1400	Paul Bunnell negativo
-T40	SINTOMA 1006 1033	RAST a amoxicilina negativo
-T41	SINTOMA 1035 1087	serología a Micoplasma pneumoniae IgG e IgM negativa
-T42	SINTOMA 2001 2027	serología brucela negativa
-T43	SINTOMA 1483 1524	serología CMV IgG positiva e IgM negativa
-T44	SINTOMA 1402 1440	serología hepatitis A, B y C negativas
-T45	SINTOMA 2029 2062	serología parvovirus B19 negativa
-T46	SINTOMA 1442 1481	serología toxoplasma IgG e IgM negativa
-T47	SINTOMA 1526 1567	serología VEB IgG positiva e IgM negativa
-T48	SINTOMA 1693 1706	transaminitis
-T49	SINTOMA 752 759	prurito
-T50	SINTOMA 274 281	afebril
+T1	SINTOMA 198 224	afectando palmas y plantas
+T2	SINTOMA 1973 1999	alfa-fetoproteína negativa
+T3	SINTOMA 1880 1935	anticuerpos antinucleares, anti-DNA, anti-LKM negativos
+T4	SINTOMA 237 245	enantema
+T5	SINTOMA 1937 1971	IgA antitransglutaminasa negativos
+T6	SINTOMA 1379 1400	Paul Bunnell negativo
+T7	SINTOMA 1006 1033	RAST a amoxicilina negativo
+T8	SINTOMA 1035 1087	serología a Micoplasma pneumoniae IgG e IgM negativa
+T9	SINTOMA 2001 2027	serología brucela negativa
+T10	SINTOMA 1483 1524	serología CMV IgG positiva e IgM negativa
+T11	SINTOMA 1402 1440	serología hepatitis A, B y C negativas
+T12	SINTOMA 2029 2062	serología parvovirus B19 negativa
+T13	SINTOMA 1442 1481	serología toxoplasma IgG e IgM negativa
+T14	SINTOMA 1526 1567	serología VEB IgG positiva e IgM negativa
+T15	SINTOMA 1693 1706	transaminitis
+T16	SINTOMA 752 759	prurito
+T17	SINTOMA 274 281	afebril
+T18	ENFERMEDAD 2315 2335	enfermedad de Wilson
+T19	ENFERMEDAD 2112 2132	enfermedad de Wilson
+T20	ENFERMEDAD 478 513	infección por Micoplasma pneumoniae
+T21	ENFERMEDAD 81 101	exantema pruriginoso
+T22	ENFERMEDAD 1180 1203	síndrome mononucleósico
+T23	ENFERMEDAD 515 530	exantema vírico
+T24	ENFERMEDAD 541 565	mononucleosis infecciosa
+T25	ENFERMEDAD 568 603	alergia medicamentosa a amoxicilina
+T26	ENFERMEDAD 606 618	toxicodermia
+T27	ENFERMEDAD 2279 2294	leve esteatosis
+T28	ENFERMEDAD 360 375	neumonía en LII
+T29	ENFERMEDAD 1412 1430	hepatitis A, B y C
+T30	ENFERMEDAD 107 135	lesiones pápulo-eritematosas
+T31	ENFERMEDAD 237 245	enantema
+T32	PROCEDIMIENTO 1006 1024	RAST a amoxicilina
+T33	PROCEDIMIENTO 1035 1078	serología a Micoplasma pneumoniae IgG e IgM
+T34	PROCEDIMIENTO 1107 1116	analítica
+T35	PROCEDIMIENTO 1238 1247	analítica
+T36	PROCEDIMIENTO 1379 1391	Paul Bunnell
+T37	PROCEDIMIENTO 1402 1430	serología hepatitis A, B y C
+T38	PROCEDIMIENTO 1442 1472	serología toxoplasma IgG e IgM
+T39	PROCEDIMIENTO 1483 1515	serología CMV IgG positiva e IgM
+T40	PROCEDIMIENTO 1526 1558	serología VEB IgG positiva e IgM
+T41	PROCEDIMIENTO 1612 1621	analítica
+T42	PROCEDIMIENTO 2001 2018	serología brucela
+T43	PROCEDIMIENTO 2029 2053	serología parvovirus B19
+T44	PROCEDIMIENTO 2074 2083	analítica
+T45	PROCEDIMIENTO 2172 2186	cobre en orina
+T46	PROCEDIMIENTO 2241 2259	ecografía hepática
+T47	PROCEDIMIENTO 681 704	tratamiento antibiótico
+T48	PROCEDIMIENTO 721 736	antihistamínico
+T49	PROCEDIMIENTO 781 800	analítica de sangre
+T50	PROCEDIMIENTO 831 840	analítica

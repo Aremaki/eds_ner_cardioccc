@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 29 37	fumadora
-T2	ENFERMEDAD 695 744	molar asociado con la lesión por decúbito lingual
-T3	ENFERMEDAD 89 103	Cáncer de mama
-T4	ENFERMEDAD 111 113	M0
-T5	ENFERMEDAD 193 237	progresión metastásica del carcinoma de mama
-T6	ENFERMEDAD 576 645	lesión ulcerosa de 5 mm de diámetro en el borde lateral de hemilengua
-T7	ENFERMEDAD 1387 1401	lesión lingual
-T8	PROCEDIMIENTO 1234 1244	ostectomía
-T9	PROCEDIMIENTO 132 139	cirugía
-T10	PROCEDIMIENTO 151 164	quimioterapia
-T11	PROCEDIMIENTO 167 179	radioterapia
-T12	PROCEDIMIENTO 267 280	bisfosfonatos
-T13	PROCEDIMIENTO 681 770	exodoncia del molar asociado con la lesión por decúbito lingual y de otros cuatro dientes
-T14	PROCEDIMIENTO 832 841	exodoncia
-T15	PROCEDIMIENTO 920 967	desbridamientos limitados de las necrosis óseas
-T16	PROCEDIMIENTO 987 1001	antibioterapia
-T17	SINTOMA 533 547	gingivorragias
-T18	SINTOMA 496 521	quemazón y dolor gingival
-T19	SINTOMA 105 113	T2 N0 M0
-T20	SINTOMA 1348 1353	dolor
-T21	SINTOMA 658 666	dolorosa
+T1	SINTOMA 533 547	gingivorragias
+T2	SINTOMA 496 521	quemazón y dolor gingival
+T3	SINTOMA 105 113	T2 N0 M0
+T4	SINTOMA 1348 1353	dolor
+T5	SINTOMA 658 666	dolorosa
+T6	ENFERMEDAD 29 37	fumadora
+T7	ENFERMEDAD 695 744	molar asociado con la lesión por decúbito lingual
+T8	ENFERMEDAD 89 103	Cáncer de mama
+T9	ENFERMEDAD 111 113	M0
+T10	ENFERMEDAD 193 237	progresión metastásica del carcinoma de mama
+T11	ENFERMEDAD 576 645	lesión ulcerosa de 5 mm de diámetro en el borde lateral de hemilengua
+T12	ENFERMEDAD 1387 1401	lesión lingual
+T13	PROCEDIMIENTO 1234 1244	ostectomía
+T14	PROCEDIMIENTO 132 139	cirugía
+T15	PROCEDIMIENTO 151 164	quimioterapia
+T16	PROCEDIMIENTO 167 179	radioterapia
+T17	PROCEDIMIENTO 267 280	bisfosfonatos
+T18	PROCEDIMIENTO 681 770	exodoncia del molar asociado con la lesión por decúbito lingual y de otros cuatro dientes
+T19	PROCEDIMIENTO 832 841	exodoncia
+T20	PROCEDIMIENTO 920 967	desbridamientos limitados de las necrosis óseas
+T21	PROCEDIMIENTO 987 1001	antibioterapia

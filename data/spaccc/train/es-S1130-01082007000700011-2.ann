@@ -1,31 +1,31 @@
-T1	PROCEDIMIENTO 1170 1181	exploración
-T2	PROCEDIMIENTO 128 154	intervenciones quirúrgicas
-T3	PROCEDIMIENTO 1300 1327	auscultación cardiopulmonar
-T4	PROCEDIMIENTO 1527 1565	estudio esofagogastroduodenal baritado
-T5	PROCEDIMIENTO 156 171	colecistectomía
-T6	PROCEDIMIENTO 173 187	amigdalectomía
-T7	PROCEDIMIENTO 1748 1768	TAC toraco-abdominal
-T8	PROCEDIMIENTO 190 211	anexectomía bilateral
-T9	PROCEDIMIENTO 2175 2192	fibrobroncoscopia
-T10	PROCEDIMIENTO 2248 2281	aspirado de punción transtorácica
-T11	PROCEDIMIENTO 2369 2382	ecoendoscopia
-T12	PROCEDIMIENTO 2541 2560	paso del endoscopio
-T13	PROCEDIMIENTO 2717 2724	biopsia
-T14	PROCEDIMIENTO 2802 2813	TAC craneal
-T15	PROCEDIMIENTO 2905 2912	cirugía
-T16	PROCEDIMIENTO 2931 2944	quimioterapia
-T17	PROCEDIMIENTO 3090 3120	esquema con CDDP más etopósido
-T18	PROCEDIMIENTO 378 403	endoscopia digestiva alta
-T19	PROCEDIMIENTO 472 507	inhibidores de la bomba de protones
-T20	PROCEDIMIENTO 721 731	endoscopia
-T21	PROCEDIMIENTO 759 811	lesión a nivel de tercio medio de esófago, biopsiada
-T22	SINTOMA 1463 1505	A nivel analítico no presentaba alteración
-T23	SINTOMA 1235 1242	afebril
-T24	SINTOMA 1429 1461	alteraciones a nivel neurológico
-T25	SINTOMA 301 328	disfagia moderada a sólidos
-T26	SINTOMA 634 651	dolor epigástrico
-T27	SINTOMA 1208 1233	estado general conservado
-T28	SINTOMA 2175 2232	fibrobroncoscopia no se encontraron hallazgos patológicos
-T29	SINTOMA 2593 2622	masa extrínseca retrocardiaca
-T30	SINTOMA 2802 2852	TAC craneal no demostró ningún hallazgo patológico
-T31	SINTOMA 2394 2435	tumoración esofágica vegetante y ulcerada
+T1	SINTOMA 1463 1505	A nivel analítico no presentaba alteración
+T2	SINTOMA 1235 1242	afebril
+T3	SINTOMA 1429 1461	alteraciones a nivel neurológico
+T4	SINTOMA 301 328	disfagia moderada a sólidos
+T5	SINTOMA 634 651	dolor epigástrico
+T6	SINTOMA 1208 1233	estado general conservado
+T7	SINTOMA 2175 2232	fibrobroncoscopia no se encontraron hallazgos patológicos
+T8	SINTOMA 2593 2622	masa extrínseca retrocardiaca
+T9	SINTOMA 2802 2852	TAC craneal no demostró ningún hallazgo patológico
+T10	SINTOMA 2394 2435	tumoración esofágica vegetante y ulcerada
+T11	PROCEDIMIENTO 1170 1181	exploración
+T12	PROCEDIMIENTO 128 154	intervenciones quirúrgicas
+T13	PROCEDIMIENTO 1300 1327	auscultación cardiopulmonar
+T14	PROCEDIMIENTO 1527 1565	estudio esofagogastroduodenal baritado
+T15	PROCEDIMIENTO 156 171	colecistectomía
+T16	PROCEDIMIENTO 173 187	amigdalectomía
+T17	PROCEDIMIENTO 1748 1768	TAC toraco-abdominal
+T18	PROCEDIMIENTO 190 211	anexectomía bilateral
+T19	PROCEDIMIENTO 2175 2192	fibrobroncoscopia
+T20	PROCEDIMIENTO 2248 2281	aspirado de punción transtorácica
+T21	PROCEDIMIENTO 2369 2382	ecoendoscopia
+T22	PROCEDIMIENTO 2541 2560	paso del endoscopio
+T23	PROCEDIMIENTO 2717 2724	biopsia
+T24	PROCEDIMIENTO 2802 2813	TAC craneal
+T25	PROCEDIMIENTO 2905 2912	cirugía
+T26	PROCEDIMIENTO 2931 2944	quimioterapia
+T27	PROCEDIMIENTO 3090 3120	esquema con CDDP más etopósido
+T28	PROCEDIMIENTO 378 403	endoscopia digestiva alta
+T29	PROCEDIMIENTO 472 507	inhibidores de la bomba de protones
+T30	PROCEDIMIENTO 721 731	endoscopia
+T31	PROCEDIMIENTO 759 811	lesión a nivel de tercio medio de esófago, biopsiada

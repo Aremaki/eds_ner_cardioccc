@@ -1,29 +1,29 @@
-T1	PROCEDIMIENTO 123 151	tratamiento antiinflamatorio
-T2	PROCEDIMIENTO 1287 1326	tratamiento adyuvante con quimioterapia
-T3	PROCEDIMIENTO 1501 1519	técnicas de imagen
-T4	PROCEDIMIENTO 1585 1609	estudio ultrasonográfico
-T5	PROCEDIMIENTO 1768 1781	flujo Doppler
-T6	PROCEDIMIENTO 1868 1886	exploración física
-T7	PROCEDIMIENTO 1910 1930	marcadores tumorales
-T8	PROCEDIMIENTO 1967 1998	orquiectomía inguinal izquierda
-T9	PROCEDIMIENTO 2003 2022	Anatomía Patológica
-T10	PROCEDIMIENTO 2211 2240	tratamiento con quimioterapia
-T11	PROCEDIMIENTO 2243 2275	tratamiento hormonal sustitutivo
-T12	PROCEDIMIENTO 374 384	Sulfamidas
-T13	PROCEDIMIENTO 430 448	exploración física
-T14	PROCEDIMIENTO 576 604	analítica completa sanguínea
-T15	PROCEDIMIENTO 609 629	marcadores tumorales
-T16	PROCEDIMIENTO 636 656	ecografía testicular
-T17	PROCEDIMIENTO 731 740	ecografía
-T18	PROCEDIMIENTO 913 950	orquiectomía radical inguinal derecha
-T19	PROCEDIMIENTO 956 975	Anatomía Patológica
-T20	SINTOMA 2302 2321	libre de enfermedad
-T21	SINTOMA 1635 1668	microcalcificaciones en testículo
-T22	SINTOMA 1757 1781	aumento de flujo Doppler
-T23	SINTOMA 70 84	dolor en teste
-T24	SINTOMA 192 210	dolor en testículo
-T25	SINTOMA 1868 1902	exploración física resulta anodina
-T26	SINTOMA 1910 1960	marcadores tumorales están dentro de la normalidad
-T27	SINTOMA 1689 1706	nódulo hipoecoico
-T28	SINTOMA 756 801	tumoración de 23 mm en polo inferior de teste
-T29	SINTOMA 458 518	tumoración en polo posteroinferior de teste derecho indolora
+T1	SINTOMA 2302 2321	libre de enfermedad
+T2	SINTOMA 1635 1668	microcalcificaciones en testículo
+T3	SINTOMA 1757 1781	aumento de flujo Doppler
+T4	SINTOMA 70 84	dolor en teste
+T5	SINTOMA 192 210	dolor en testículo
+T6	SINTOMA 1868 1902	exploración física resulta anodina
+T7	SINTOMA 1910 1960	marcadores tumorales están dentro de la normalidad
+T8	SINTOMA 1689 1706	nódulo hipoecoico
+T9	SINTOMA 756 801	tumoración de 23 mm en polo inferior de teste
+T10	SINTOMA 458 518	tumoración en polo posteroinferior de teste derecho indolora
+T11	PROCEDIMIENTO 123 151	tratamiento antiinflamatorio
+T12	PROCEDIMIENTO 1287 1326	tratamiento adyuvante con quimioterapia
+T13	PROCEDIMIENTO 1501 1519	técnicas de imagen
+T14	PROCEDIMIENTO 1585 1609	estudio ultrasonográfico
+T15	PROCEDIMIENTO 1768 1781	flujo Doppler
+T16	PROCEDIMIENTO 1868 1886	exploración física
+T17	PROCEDIMIENTO 1910 1930	marcadores tumorales
+T18	PROCEDIMIENTO 1967 1998	orquiectomía inguinal izquierda
+T19	PROCEDIMIENTO 2003 2022	Anatomía Patológica
+T20	PROCEDIMIENTO 2211 2240	tratamiento con quimioterapia
+T21	PROCEDIMIENTO 2243 2275	tratamiento hormonal sustitutivo
+T22	PROCEDIMIENTO 374 384	Sulfamidas
+T23	PROCEDIMIENTO 430 448	exploración física
+T24	PROCEDIMIENTO 576 604	analítica completa sanguínea
+T25	PROCEDIMIENTO 609 629	marcadores tumorales
+T26	PROCEDIMIENTO 636 656	ecografía testicular
+T27	PROCEDIMIENTO 731 740	ecografía
+T28	PROCEDIMIENTO 913 950	orquiectomía radical inguinal derecha
+T29	PROCEDIMIENTO 956 975	Anatomía Patológica

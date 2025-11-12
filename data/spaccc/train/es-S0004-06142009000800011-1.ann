@@ -1,23 +1,23 @@
-T1	ENFERMEDAD 600 656	tumor mesenquimático benigno o de bajo potencial maligno
-T2	ENFERMEDAD 1945 1991	leiomiosarcoma de muy bajo grado de malignidad
-T3	PROCEDIMIENTO 1186 1211	abrir la fascia de Gerota
-T4	PROCEDIMIENTO 1385 1460	área de 2cm firmemente adherida a la cápsula renal requiriendo de resección
-T5	PROCEDIMIENTO 1485 1533	fulguración del lecho cruento con láser de argón
-T6	PROCEDIMIENTO 149 168	ecografía abdominal
-T7	PROCEDIMIENTO 1538 1589	pieza quirúrgica fue extraída en una bolsa plástica
-T8	PROCEDIMIENTO 1674 1730	drenaje tipo Blake fue dejado por el orificio del trocar
-T9	PROCEDIMIENTO 1906 1925	análisis patológico
-T10	PROCEDIMIENTO 278 298	tomografía computada
-T11	PROCEDIMIENTO 388 427	administración del contraste endovenoso
-T12	PROCEDIMIENTO 513 559	punción con aguja fina para obtener histología
-T13	PROCEDIMIENTO 572 589	anatomopatológico
-T14	PROCEDIMIENTO 672 705	exploración por vía laparoscópica
-T15	PROCEDIMIENTO 733 750	anestesia general
-T16	PROCEDIMIENTO 79 92	examen físico
-T17	PROCEDIMIENTO 819 860	colocación de sonda orogastrica y vesical
-T18	PROCEDIMIENTO 933 990	pneumoperitoneo se realizo con aguja de Veress a 1 2 mmHg
-T19	SINTOMA 51 74	desordenes intestinales
-T20	SINTOMA 312 356	masa bien circunscripta por detrás del riñón
-T21	SINTOMA 1215 1279	masa fue claramente visualizada sobre el borde externo del riñón
-T22	SINTOMA 183 224	masa sólida de 12 cm por detrás del riñón
-T23	SINTOMA 1787 1795	sangrado
+T1	SINTOMA 51 74	desordenes intestinales
+T2	SINTOMA 312 356	masa bien circunscripta por detrás del riñón
+T3	SINTOMA 1215 1279	masa fue claramente visualizada sobre el borde externo del riñón
+T4	SINTOMA 183 224	masa sólida de 12 cm por detrás del riñón
+T5	SINTOMA 1787 1795	sangrado
+T6	ENFERMEDAD 600 656	tumor mesenquimático benigno o de bajo potencial maligno
+T7	ENFERMEDAD 1945 1991	leiomiosarcoma de muy bajo grado de malignidad
+T8	PROCEDIMIENTO 1186 1211	abrir la fascia de Gerota
+T9	PROCEDIMIENTO 1385 1460	área de 2cm firmemente adherida a la cápsula renal requiriendo de resección
+T10	PROCEDIMIENTO 1485 1533	fulguración del lecho cruento con láser de argón
+T11	PROCEDIMIENTO 149 168	ecografía abdominal
+T12	PROCEDIMIENTO 1538 1589	pieza quirúrgica fue extraída en una bolsa plástica
+T13	PROCEDIMIENTO 1674 1730	drenaje tipo Blake fue dejado por el orificio del trocar
+T14	PROCEDIMIENTO 1906 1925	análisis patológico
+T15	PROCEDIMIENTO 278 298	tomografía computada
+T16	PROCEDIMIENTO 388 427	administración del contraste endovenoso
+T17	PROCEDIMIENTO 513 559	punción con aguja fina para obtener histología
+T18	PROCEDIMIENTO 572 589	anatomopatológico
+T19	PROCEDIMIENTO 672 705	exploración por vía laparoscópica
+T20	PROCEDIMIENTO 733 750	anestesia general
+T21	PROCEDIMIENTO 79 92	examen físico
+T22	PROCEDIMIENTO 819 860	colocación de sonda orogastrica y vesical
+T23	PROCEDIMIENTO 933 990	pneumoperitoneo se realizo con aguja de Veress a 1 2 mmHg

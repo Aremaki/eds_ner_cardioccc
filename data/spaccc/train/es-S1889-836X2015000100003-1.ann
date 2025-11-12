@@ -1,27 +1,27 @@
-T1	ENFERMEDAD 134 189	enfermedad ósea de Paget monostótica en radio izquierdo
-T2	ENFERMEDAD 334 346	osteoporosis
-T3	ENFERMEDAD 1423 1431	fractura
-T4	ENFERMEDAD 1559 1568	contusión
-T5	ENFERMEDAD 1588 1596	fractura
-T6	ENFERMEDAD 1628 1648	lesión hiperostótica
-T7	ENFERMEDAD 1792 1800	fractura
-T8	ENFERMEDAD 1979 1999	lesión hiperostótica
-T9	ENFERMEDAD 2027 2067	fractura en el hueso ganchoso y trapecio
-T10	ENFERMEDAD 2338 2352	melorreostosis
-T11	ENFERMEDAD 2523 2547	enfermedad ósea de Paget
-T12	ENFERMEDAD 2648 2662	melorreostosis
-T13	ENFERMEDAD 3029 3049	se fracturó el radio
-T14	ENFERMEDAD 3203 3215	hiperostosis
-T15	ENFERMEDAD 3278 3363	hiperostosis en el interior de la extremidad distal del radio y en el tercio proximal
-T16	ENFERMEDAD 1200 1258	hematoma en dorso de la mano y tercio distal del antebrazo
-T17	ENFERMEDAD 2940 2950	deformidad
-T18	ENFERMEDAD 3112 3122	deformidad
-T19	ENFERMEDAD 2208 2236	lesión radiológica del radio
-T20	ENFERMEDAD 3088 3096	fractura
-T21	SINTOMA 2813 2830	dolor en el radio
-T22	SINTOMA 1115 1149	dolor intenso en la zona del carpo
-T23	SINTOMA 1260 1324	edema, borramiento de los surcos tendinosos del dorso de la mano
-T24	SINTOMA 1326 1393	impotencia funcional de la muñeca y aumento local de la temperatura
-T25	SINTOMA 2267 2303	signo de “cera fundida deslizándose"
-T26	SINTOMA 949 954	dolor
-T27	SINTOMA 2955 2960	dolor
+T1	SINTOMA 2813 2830	dolor en el radio
+T2	SINTOMA 1115 1149	dolor intenso en la zona del carpo
+T3	SINTOMA 1260 1324	edema, borramiento de los surcos tendinosos del dorso de la mano
+T4	SINTOMA 1326 1393	impotencia funcional de la muñeca y aumento local de la temperatura
+T5	SINTOMA 2267 2303	signo de “cera fundida deslizándose"
+T6	SINTOMA 949 954	dolor
+T7	SINTOMA 2955 2960	dolor
+T8	ENFERMEDAD 134 189	enfermedad ósea de Paget monostótica en radio izquierdo
+T9	ENFERMEDAD 334 346	osteoporosis
+T10	ENFERMEDAD 1423 1431	fractura
+T11	ENFERMEDAD 1559 1568	contusión
+T12	ENFERMEDAD 1588 1596	fractura
+T13	ENFERMEDAD 1628 1648	lesión hiperostótica
+T14	ENFERMEDAD 1792 1800	fractura
+T15	ENFERMEDAD 1979 1999	lesión hiperostótica
+T16	ENFERMEDAD 2027 2067	fractura en el hueso ganchoso y trapecio
+T17	ENFERMEDAD 2338 2352	melorreostosis
+T18	ENFERMEDAD 2523 2547	enfermedad ósea de Paget
+T19	ENFERMEDAD 2648 2662	melorreostosis
+T20	ENFERMEDAD 3029 3049	se fracturó el radio
+T21	ENFERMEDAD 3203 3215	hiperostosis
+T22	ENFERMEDAD 3278 3363	hiperostosis en el interior de la extremidad distal del radio y en el tercio proximal
+T23	ENFERMEDAD 1200 1258	hematoma en dorso de la mano y tercio distal del antebrazo
+T24	ENFERMEDAD 2940 2950	deformidad
+T25	ENFERMEDAD 3112 3122	deformidad
+T26	ENFERMEDAD 2208 2236	lesión radiológica del radio
+T27	ENFERMEDAD 3088 3096	fractura

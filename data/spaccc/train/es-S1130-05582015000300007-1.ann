@@ -1,32 +1,32 @@
-T1	ENFERMEDAD 2278 2325	neoplasia benigna de origen mesenquimal tipo FN
-T2	ENFERMEDAD 1063 1137	lesión firmemente adherida a la fascia del músculo frontal y al pericráneo
-T3	ENFERMEDAD 900 945	región costal derecha fue informada de lipoma
-T4	ENFERMEDAD 145 156	traumatismo
-T5	ENFERMEDAD 1632 1646	lesión nodular
-T6	PROCEDIMIENTO 1010 1025	anestesia local
-T7	PROCEDIMIENTO 1154 1217	disección subperióstica incluyendo músculo frontal y pericráneo
-T8	PROCEDIMIENTO 1274 1303	cierre del defecto quirúrgico
-T9	PROCEDIMIENTO 1446 1471	estudio anotomopatológico
-T10	PROCEDIMIENTO 1944 1967	Inmunohistoquímicamente
-T11	PROCEDIMIENTO 297 315	exploración física
-T12	PROCEDIMIENTO 400 409	palpación
-T13	PROCEDIMIENTO 605 607	TC
-T14	PROCEDIMIENTO 614 668	punción-aspiración con aguja fina guiada por ecografía
-T15	PROCEDIMIENTO 670 678	ECO-PAAF
-T16	PROCEDIMIENTO 711 713	TC
-T17	PROCEDIMIENTO 885 921	ECO-PAAF de la región costal derecha
-T18	PROCEDIMIENTO 971 1004	biopsia-exéresis de la tumoración
-T19	SINTOMA 472 516	alteración de rama frontal del nervio facial
-T20	SINTOMA 1233 1258	erosión del hueso frontal
-T21	SINTOMA 730 789	masa de aproximadamente 0,7 cm a nivel de la región frontal
-T22	SINTOMA 1515 1522	nodular
-T23	SINTOMA 548 579	nódulo similar en región costal
-T24	SINTOMA 233 290	sensación de pesadez y cefalea fronto-occipital izquierda
-T25	SINTOMA 686 703	tumoración costal
-T26	SINTOMA 88 106	tumoración frontal
-T27	SINTOMA 200 205	dolor
-T28	SINTOMA 373 380	eritema
-T29	SINTOMA 212 222	tumoración
-T30	SINTOMA 331 341	tumoración
-T31	SINTOMA 431 435	masa
-T32	SINTOMA 994 1004	tumoración
+T1	SINTOMA 472 516	alteración de rama frontal del nervio facial
+T2	SINTOMA 1233 1258	erosión del hueso frontal
+T3	SINTOMA 730 789	masa de aproximadamente 0,7 cm a nivel de la región frontal
+T4	SINTOMA 1515 1522	nodular
+T5	SINTOMA 548 579	nódulo similar en región costal
+T6	SINTOMA 233 290	sensación de pesadez y cefalea fronto-occipital izquierda
+T7	SINTOMA 686 703	tumoración costal
+T8	SINTOMA 88 106	tumoración frontal
+T9	SINTOMA 200 205	dolor
+T10	SINTOMA 373 380	eritema
+T11	SINTOMA 212 222	tumoración
+T12	SINTOMA 331 341	tumoración
+T13	SINTOMA 431 435	masa
+T14	SINTOMA 994 1004	tumoración
+T15	ENFERMEDAD 2278 2325	neoplasia benigna de origen mesenquimal tipo FN
+T16	ENFERMEDAD 1063 1137	lesión firmemente adherida a la fascia del músculo frontal y al pericráneo
+T17	ENFERMEDAD 900 945	región costal derecha fue informada de lipoma
+T18	ENFERMEDAD 145 156	traumatismo
+T19	ENFERMEDAD 1632 1646	lesión nodular
+T20	PROCEDIMIENTO 1010 1025	anestesia local
+T21	PROCEDIMIENTO 1154 1217	disección subperióstica incluyendo músculo frontal y pericráneo
+T22	PROCEDIMIENTO 1274 1303	cierre del defecto quirúrgico
+T23	PROCEDIMIENTO 1446 1471	estudio anotomopatológico
+T24	PROCEDIMIENTO 1944 1967	Inmunohistoquímicamente
+T25	PROCEDIMIENTO 297 315	exploración física
+T26	PROCEDIMIENTO 400 409	palpación
+T27	PROCEDIMIENTO 605 607	TC
+T28	PROCEDIMIENTO 614 668	punción-aspiración con aguja fina guiada por ecografía
+T29	PROCEDIMIENTO 670 678	ECO-PAAF
+T30	PROCEDIMIENTO 711 713	TC
+T31	PROCEDIMIENTO 885 921	ECO-PAAF de la región costal derecha
+T32	PROCEDIMIENTO 971 1004	biopsia-exéresis de la tumoración

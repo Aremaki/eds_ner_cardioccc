@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 18 25	bebedor
-T2	ENFERMEDAD 28 42	fumador severo
-T3	ENFERMEDAD 66 104	carcinoma epidermoide de suelo de boca
-T4	ENFERMEDAD 66 113	carcinoma epidermoide de suelo de boca y lengua
-T5	ENFERMEDAD 364 437	carcinoma epidermoide de laringe con metástasis supraclavicular izquierda
-T6	ENFERMEDAD 401 437	metástasis supraclavicular izquierda
-T7	ENFERMEDAD 731 756	carcinoma de cavidad oral
-T8	ENFERMEDAD 933 941	disfagia
-T9	ENFERMEDAD 1041 1060	desnutrición severa
-T10	ENFERMEDAD 1194 1220	estenosis faringoesofágica
-T11	ENFERMEDAD 1313 1376	zona estenótica de aspecto fibroso en la unión faringoesofágica
-T12	ENFERMEDAD 1403 1435	crecimiento piloso en la faringe
-T13	ENFERMEDAD 1501 1517	recidiva tumoral
-T14	ENFERMEDAD 1528 1547	estenosis esofágica
-T15	ENFERMEDAD 1772 1788	recidiva tumoral
-T16	PROCEDIMIENTO 1091 1124	colocación una sonda nasogástrica
-T17	PROCEDIMIENTO 1152 1167	nasofibroscopia
-T18	PROCEDIMIENTO 1280 1295	endoscopia oral
-T19	PROCEDIMIENTO 131 150	hemimandibulectomía
-T20	PROCEDIMIENTO 1467 1474	cirugía
-T21	PROCEDIMIENTO 155 193	disección radical del cuello izquierdo
-T22	PROCEDIMIENTO 1573 1583	endoscopio
-T23	PROCEDIMIENTO 1613 1678	colocación de una gastrostomía quirúrgica según técnica de Witzel
-T24	PROCEDIMIENTO 220 288	reconstrucción con injerto libre de cresta iliaca y barra de titanio
-T25	PROCEDIMIENTO 317 350	laringuectomía total suprahioidea
-T26	PROCEDIMIENTO 451 538	cierre del faringostoma se realizó usando un colgajo dermo-platismo-fascial de Herrmann
-T27	PROCEDIMIENTO 563 684	tratamiento radioterápico con cobalto-60 sobre el lecho quirúrgico y las cadenas cervicales supraclaviculares bilaterales
-T28	PROCEDIMIENTO 786 823	resección del muñón de base de lengua
-T29	PROCEDIMIENTO 826 882	reconstrucción con colgajo miocutáneo pectoral izquierdo
-T30	SINTOMA 1716 1743	adecuado estado nutricional
-T31	SINTOMA 1041 1053	desnutrición
-T32	SINTOMA 967 1010	incapacidad total para la alimentación oral
-T33	SINTOMA 439 445	T4N1M0
+T1	SINTOMA 1716 1743	adecuado estado nutricional
+T2	SINTOMA 1041 1053	desnutrición
+T3	SINTOMA 967 1010	incapacidad total para la alimentación oral
+T4	SINTOMA 439 445	T4N1M0
+T5	ENFERMEDAD 18 25	bebedor
+T6	ENFERMEDAD 28 42	fumador severo
+T7	ENFERMEDAD 66 104	carcinoma epidermoide de suelo de boca
+T8	ENFERMEDAD 66 113	carcinoma epidermoide de suelo de boca y lengua
+T9	ENFERMEDAD 364 437	carcinoma epidermoide de laringe con metástasis supraclavicular izquierda
+T10	ENFERMEDAD 401 437	metástasis supraclavicular izquierda
+T11	ENFERMEDAD 731 756	carcinoma de cavidad oral
+T12	ENFERMEDAD 933 941	disfagia
+T13	ENFERMEDAD 1041 1060	desnutrición severa
+T14	ENFERMEDAD 1194 1220	estenosis faringoesofágica
+T15	ENFERMEDAD 1313 1376	zona estenótica de aspecto fibroso en la unión faringoesofágica
+T16	ENFERMEDAD 1403 1435	crecimiento piloso en la faringe
+T17	ENFERMEDAD 1501 1517	recidiva tumoral
+T18	ENFERMEDAD 1528 1547	estenosis esofágica
+T19	ENFERMEDAD 1772 1788	recidiva tumoral
+T20	PROCEDIMIENTO 1091 1124	colocación una sonda nasogástrica
+T21	PROCEDIMIENTO 1152 1167	nasofibroscopia
+T22	PROCEDIMIENTO 1280 1295	endoscopia oral
+T23	PROCEDIMIENTO 131 150	hemimandibulectomía
+T24	PROCEDIMIENTO 1467 1474	cirugía
+T25	PROCEDIMIENTO 155 193	disección radical del cuello izquierdo
+T26	PROCEDIMIENTO 1573 1583	endoscopio
+T27	PROCEDIMIENTO 1613 1678	colocación de una gastrostomía quirúrgica según técnica de Witzel
+T28	PROCEDIMIENTO 220 288	reconstrucción con injerto libre de cresta iliaca y barra de titanio
+T29	PROCEDIMIENTO 317 350	laringuectomía total suprahioidea
+T30	PROCEDIMIENTO 451 538	cierre del faringostoma se realizó usando un colgajo dermo-platismo-fascial de Herrmann
+T31	PROCEDIMIENTO 563 684	tratamiento radioterápico con cobalto-60 sobre el lecho quirúrgico y las cadenas cervicales supraclaviculares bilaterales
+T32	PROCEDIMIENTO 786 823	resección del muñón de base de lengua
+T33	PROCEDIMIENTO 826 882	reconstrucción con colgajo miocutáneo pectoral izquierdo

@@ -1,27 +1,27 @@
-T1	ENFERMEDAD 38 117	SDRC de extremidad inferior derecha secundario también a un esguince de tobillo
-T2	ENFERMEDAD 98 117	esguince de tobillo
-T3	PROCEDIMIENTO 1061 1159	conexión, en quirófano y bajo anestesia general, a un generador de impulsos eléctricos programable
-T4	PROCEDIMIENTO 1091 1108	anestesia general
-T5	PROCEDIMIENTO 1218 1244	implantación del generador
-T6	PROCEDIMIENTO 1626 1640	rehabilitación
-T7	PROCEDIMIENTO 195 331	colocación en quirófano, baja anestesia general, de un electrodo octopolar (Octrode) en cordones medulares posteriores a nivel de T9-T12
-T8	PROCEDIMIENTO 1973 1987	rehabilitación
-T9	PROCEDIMIENTO 2118 2172	explantar tanto el generador como el eléctrodo medular
-T10	PROCEDIMIENTO 2220 2237	anestesia general
-T11	PROCEDIMIENTO 225 242	anestesia general
-T12	PROCEDIMIENTO 334 388	conexión a un generador de impulsos eléctricos externo
-T13	PROCEDIMIENTO 415 424	anestesia
-T14	PROCEDIMIENTO 862 890	ejercicios de rehabilitación
-T15	SINTOMA 1294 1299	dolor
-T16	SINTOMA 1428 1433	dolor
-T17	SINTOMA 1523 1528	edema
-T18	SINTOMA 503 514	parestesias
-T19	SINTOMA 1772 1777	dolor
-T20	SINTOMA 649 654	edema
-T21	SINTOMA 786 791	dolor
-T22	SINTOMA 630 635	dolor
-T23	SINTOMA 2278 2290	asintomática
-T24	SINTOMA 2307 2318	vida normal
-T25	SINTOMA 800 808	alodinia
-T26	SINTOMA 1497 1505	alodinia
-T27	SINTOMA 929 941	dolor severo
+T1	SINTOMA 1294 1299	dolor
+T2	SINTOMA 1428 1433	dolor
+T3	SINTOMA 1523 1528	edema
+T4	SINTOMA 503 514	parestesias
+T5	SINTOMA 1772 1777	dolor
+T6	SINTOMA 649 654	edema
+T7	SINTOMA 786 791	dolor
+T8	SINTOMA 630 635	dolor
+T9	SINTOMA 2278 2290	asintomática
+T10	SINTOMA 2307 2318	vida normal
+T11	SINTOMA 800 808	alodinia
+T12	SINTOMA 1497 1505	alodinia
+T13	SINTOMA 929 941	dolor severo
+T14	ENFERMEDAD 38 117	SDRC de extremidad inferior derecha secundario también a un esguince de tobillo
+T15	ENFERMEDAD 98 117	esguince de tobillo
+T16	PROCEDIMIENTO 1061 1159	conexión, en quirófano y bajo anestesia general, a un generador de impulsos eléctricos programable
+T17	PROCEDIMIENTO 1091 1108	anestesia general
+T18	PROCEDIMIENTO 1218 1244	implantación del generador
+T19	PROCEDIMIENTO 1626 1640	rehabilitación
+T20	PROCEDIMIENTO 195 331	colocación en quirófano, baja anestesia general, de un electrodo octopolar (Octrode) en cordones medulares posteriores a nivel de T9-T12
+T21	PROCEDIMIENTO 1973 1987	rehabilitación
+T22	PROCEDIMIENTO 2118 2172	explantar tanto el generador como el eléctrodo medular
+T23	PROCEDIMIENTO 2220 2237	anestesia general
+T24	PROCEDIMIENTO 225 242	anestesia general
+T25	PROCEDIMIENTO 334 388	conexión a un generador de impulsos eléctricos externo
+T26	PROCEDIMIENTO 415 424	anestesia
+T27	PROCEDIMIENTO 862 890	ejercicios de rehabilitación

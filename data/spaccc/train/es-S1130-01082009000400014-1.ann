@@ -1,11 +1,11 @@
-T1	ENFERMEDAD 57 80	adenocarcinoma gástrico
-T2	ENFERMEDAD 258 294	alergia a la vitamina B (Neuromade®)
-T3	ENFERMEDAD 330 369	fístula de la anastomosis gastroyeyunal
-T4	ENFERMEDAD 610 630	nistagmus horizontal
-T5	ENFERMEDAD 633 647	oftalmoparesia
-T6	SINTOMA 576 588	bradipsiquia
-T7	SINTOMA 560 574	desorientación
-T8	SINTOMA 523 544	deterioro neurológico
-T9	SINTOMA 633 647	oftalmoparesia
-T10	SINTOMA 590 608	tendencia al sueño
-T11	SINTOMA 728 779	test intradérmico de tiamina. Este resultó negativo
+T1	SINTOMA 576 588	bradipsiquia
+T2	SINTOMA 560 574	desorientación
+T3	SINTOMA 523 544	deterioro neurológico
+T4	SINTOMA 633 647	oftalmoparesia
+T5	SINTOMA 590 608	tendencia al sueño
+T6	SINTOMA 728 779	test intradérmico de tiamina. Este resultó negativo
+T7	ENFERMEDAD 57 80	adenocarcinoma gástrico
+T8	ENFERMEDAD 258 294	alergia a la vitamina B (Neuromade®)
+T9	ENFERMEDAD 330 369	fístula de la anastomosis gastroyeyunal
+T10	ENFERMEDAD 610 630	nistagmus horizontal
+T11	ENFERMEDAD 633 647	oftalmoparesia

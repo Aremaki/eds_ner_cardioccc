@@ -1,35 +1,35 @@
-T1	ENFERMEDAD 44 66	enfermedad periodontal
-T2	ENFERMEDAD 1216 1270	diapneusia antiestética en la comisura labial inferior
-T3	ENFERMEDAD 3027 3033	herida
-T4	PROCEDIMIENTO 1100 1136	prótesis removible y que extraeremos
-T5	PROCEDIMIENTO 1216 1331	diapneusia antiestética en la comisura labial inferior que extirparemos posteriormente mediante excisión quirúrgica
-T6	PROCEDIMIENTO 125 137	intervención
-T7	PROCEDIMIENTO 1369 1476	lecho de la preparación del implante distal derecho se encuentra en la vertical de la salida del mentoniano
-T8	PROCEDIMIENTO 1480 1501	Realizamos el fresado
-T9	PROCEDIMIENTO 1520 1556	insertamos el implante distal derech
-T10	PROCEDIMIENTO 171 192	Incisión supracrestal
-T11	PROCEDIMIENTO 197 259	descargas posteriores y medial para evitar tensión del colgajo
-T12	PROCEDIMIENTO 2054 2081	colocado el primer implante
-T13	PROCEDIMIENTO 2073 2152	implante distal, insertamos su correspondiente pilar multi-unit angulado de 30º
-T14	PROCEDIMIENTO 2184 2239	inclinación de 30º del implante, corregida con un pilar
-T15	PROCEDIMIENTO 2388 2419	implante/pilar distal izquierdo
-T16	PROCEDIMIENTO 2439 2488	preparamos los lechos para los implantes mesiales
-T17	PROCEDIMIENTO 2572 2655	Colocamos en los implantes mesiales ya insertados, sendos pilares multi-unit rectos
-T18	PROCEDIMIENTO 2673 2763	aplicamos el torque adecuado (15 N cm en los implantes posteriores y 35 en los anteriores)
-T19	PROCEDIMIENTO 3014 3076	suturamos la herida alrededor de ellos con sutura reabsorbible
-T20	PROCEDIMIENTO 305 347	Legrado intenso de alvéolos postextracción
-T21	PROCEDIMIENTO 3088 3113	suturada toda la incisión
-T22	PROCEDIMIENTO 3147 3213	utilizamos un bisturí circular alrededor de los pilares multi-unit
-T23	PROCEDIMIENTO 3348 3390	asiento pasivo de la prótesis, rebajándola
-T24	PROCEDIMIENTO 399 426	Regularización de la cresta
-T25	PROCEDIMIENTO 454 503	implantes queden a la misma altura oclusogingival
-T26	PROCEDIMIENTO 4955 4973	ajustamos oclusión
-T27	PROCEDIMIENTO 5023 5042	retiramos la sutura
-T28	PROCEDIMIENTO 507 535	Osteotomía central con fresa
-T29	PROCEDIMIENTO 5273 5282	implantes
-T30	PROCEDIMIENTO 5429 5454	desatornillar la prótesis
-T31	PROCEDIMIENTO 618 666	osteotomía es perpendicular a la línea bipupilar
-T32	PROCEDIMIENTO 671 706	Posicionamiento de «guía all-on- 4»
-T33	PROCEDIMIENTO 798 851	inserción de los implantes con la angulación adecuada
-T34	PROCEDIMIENTO 929 1003	Preparación de los lechos de los implantes distales con inclinación de 30º
-T35	SINTOMA 1216 1270	diapneusia antiestética en la comisura labial inferior
+T1	SINTOMA 1216 1270	diapneusia antiestética en la comisura labial inferior
+T2	ENFERMEDAD 44 66	enfermedad periodontal
+T3	ENFERMEDAD 1216 1270	diapneusia antiestética en la comisura labial inferior
+T4	ENFERMEDAD 3027 3033	herida
+T5	PROCEDIMIENTO 1100 1136	prótesis removible y que extraeremos
+T6	PROCEDIMIENTO 1216 1331	diapneusia antiestética en la comisura labial inferior que extirparemos posteriormente mediante excisión quirúrgica
+T7	PROCEDIMIENTO 125 137	intervención
+T8	PROCEDIMIENTO 1369 1476	lecho de la preparación del implante distal derecho se encuentra en la vertical de la salida del mentoniano
+T9	PROCEDIMIENTO 1480 1501	Realizamos el fresado
+T10	PROCEDIMIENTO 1520 1556	insertamos el implante distal derech
+T11	PROCEDIMIENTO 171 192	Incisión supracrestal
+T12	PROCEDIMIENTO 197 259	descargas posteriores y medial para evitar tensión del colgajo
+T13	PROCEDIMIENTO 2054 2081	colocado el primer implante
+T14	PROCEDIMIENTO 2073 2152	implante distal, insertamos su correspondiente pilar multi-unit angulado de 30º
+T15	PROCEDIMIENTO 2184 2239	inclinación de 30º del implante, corregida con un pilar
+T16	PROCEDIMIENTO 2388 2419	implante/pilar distal izquierdo
+T17	PROCEDIMIENTO 2439 2488	preparamos los lechos para los implantes mesiales
+T18	PROCEDIMIENTO 2572 2655	Colocamos en los implantes mesiales ya insertados, sendos pilares multi-unit rectos
+T19	PROCEDIMIENTO 2673 2763	aplicamos el torque adecuado (15 N cm en los implantes posteriores y 35 en los anteriores)
+T20	PROCEDIMIENTO 3014 3076	suturamos la herida alrededor de ellos con sutura reabsorbible
+T21	PROCEDIMIENTO 305 347	Legrado intenso de alvéolos postextracción
+T22	PROCEDIMIENTO 3088 3113	suturada toda la incisión
+T23	PROCEDIMIENTO 3147 3213	utilizamos un bisturí circular alrededor de los pilares multi-unit
+T24	PROCEDIMIENTO 3348 3390	asiento pasivo de la prótesis, rebajándola
+T25	PROCEDIMIENTO 399 426	Regularización de la cresta
+T26	PROCEDIMIENTO 454 503	implantes queden a la misma altura oclusogingival
+T27	PROCEDIMIENTO 4955 4973	ajustamos oclusión
+T28	PROCEDIMIENTO 5023 5042	retiramos la sutura
+T29	PROCEDIMIENTO 507 535	Osteotomía central con fresa
+T30	PROCEDIMIENTO 5273 5282	implantes
+T31	PROCEDIMIENTO 5429 5454	desatornillar la prótesis
+T32	PROCEDIMIENTO 618 666	osteotomía es perpendicular a la línea bipupilar
+T33	PROCEDIMIENTO 671 706	Posicionamiento de «guía all-on- 4»
+T34	PROCEDIMIENTO 798 851	inserción de los implantes con la angulación adecuada
+T35	PROCEDIMIENTO 929 1003	Preparación de los lechos de los implantes distales con inclinación de 30º

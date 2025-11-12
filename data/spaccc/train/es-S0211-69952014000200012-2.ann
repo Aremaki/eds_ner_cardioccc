@@ -1,24 +1,24 @@
-T1	ENFERMEDAD 45 81	IRC secundaria a poliquistosis renal
-T2	ENFERMEDAD 62 81	poliquistosis renal
-T3	ENFERMEDAD 183 238	complicaciones del trasplante presentó un rechazo agudo
-T4	ENFERMEDAD 394 442	pérdida del injerto renal por nefropatía crónica
-T5	ENFERMEDAD 424 442	nefropatía crónica
-T6	ENFERMEDAD 463 485	hepatitis «no-A, no-B»
-T7	ENFERMEDAD 1173 1201	eritema exudativo multiforme
-T8	ENFERMEDAD 1005 1030	rechazo agudo del injerto
-T9	PROCEDIMIENTO 1218 1241	tratamiento corticoideo
-T10	PROCEDIMIENTO 133 168	trasplante renal de donante cadáver
-T11	PROCEDIMIENTO 1403 1438	trasplante renal de donante cadáver
-T12	PROCEDIMIENTO 262 272	esteroides
-T13	PROCEDIMIENTO 359 371	hemodiálisis
-T14	PROCEDIMIENTO 510 542	politransfusión de hemoderivados
-T15	PROCEDIMIENTO 661 669	diálisis
-T16	PROCEDIMIENTO 90 102	hemodiálisis
-T17	PROCEDIMIENTO 919 940	tratamiento antiviral
-T18	PROCEDIMIENTO 954 984	embolización del injerto renal
-T19	SINTOMA 862 868	fiebre
-T20	SINTOMA 1461 1481	función renal normal
-T21	SINTOMA 871 880	hematuria
-T22	SINTOMA 1484 1504	carga viral negativa
-T23	SINTOMA 1268 1313	respuesta viral rápida con carga indetectable
-T24	SINTOMA 573 589	RNA-VHC positivo
+T1	SINTOMA 862 868	fiebre
+T2	SINTOMA 1461 1481	función renal normal
+T3	SINTOMA 871 880	hematuria
+T4	SINTOMA 1484 1504	carga viral negativa
+T5	SINTOMA 1268 1313	respuesta viral rápida con carga indetectable
+T6	SINTOMA 573 589	RNA-VHC positivo
+T7	ENFERMEDAD 45 81	IRC secundaria a poliquistosis renal
+T8	ENFERMEDAD 62 81	poliquistosis renal
+T9	ENFERMEDAD 183 238	complicaciones del trasplante presentó un rechazo agudo
+T10	ENFERMEDAD 394 442	pérdida del injerto renal por nefropatía crónica
+T11	ENFERMEDAD 424 442	nefropatía crónica
+T12	ENFERMEDAD 463 485	hepatitis «no-A, no-B»
+T13	ENFERMEDAD 1173 1201	eritema exudativo multiforme
+T14	ENFERMEDAD 1005 1030	rechazo agudo del injerto
+T15	PROCEDIMIENTO 1218 1241	tratamiento corticoideo
+T16	PROCEDIMIENTO 133 168	trasplante renal de donante cadáver
+T17	PROCEDIMIENTO 1403 1438	trasplante renal de donante cadáver
+T18	PROCEDIMIENTO 262 272	esteroides
+T19	PROCEDIMIENTO 359 371	hemodiálisis
+T20	PROCEDIMIENTO 510 542	politransfusión de hemoderivados
+T21	PROCEDIMIENTO 661 669	diálisis
+T22	PROCEDIMIENTO 90 102	hemodiálisis
+T23	PROCEDIMIENTO 919 940	tratamiento antiviral
+T24	PROCEDIMIENTO 954 984	embolización del injerto renal

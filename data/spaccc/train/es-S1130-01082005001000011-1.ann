@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 65 82	carcinoma de mama
-T2	ENFERMEDAD 167 197	masa multiquística pancreática
-T3	ENFERMEDAD 492 550	formaciones quísticas a nivel de toda la celda pancreática
-T4	ENFERMEDAD 723 747	cistoadenoma pancreático
-T5	ENFERMEDAD 1077 1109	cistoadenoma gigante de páncreas
-T6	ENFERMEDAD 884 891	quistes
-T7	SINTOMA 262 274	Asintomática
-T8	SINTOMA 312 327	dolor abdominal
-T9	SINTOMA 338 393	exploración física y analítica fue rigurosamente normal
-T10	SINTOMA 30 48	malestar abdominal
-T11	SINTOMA 395 459	Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos
-T12	SINTOMA 230 260	negativa para células malignas
+T1	SINTOMA 262 274	Asintomática
+T2	SINTOMA 312 327	dolor abdominal
+T3	SINTOMA 338 393	exploración física y analítica fue rigurosamente normal
+T4	SINTOMA 30 48	malestar abdominal
+T5	SINTOMA 395 459	Marcadores tumorales en sangre (CEA, Ca 125 y Ca 19.9) negativos
+T6	SINTOMA 230 260	negativa para células malignas
+T7	ENFERMEDAD 65 82	carcinoma de mama
+T8	ENFERMEDAD 167 197	masa multiquística pancreática
+T9	ENFERMEDAD 492 550	formaciones quísticas a nivel de toda la celda pancreática
+T10	ENFERMEDAD 723 747	cistoadenoma pancreático
+T11	ENFERMEDAD 1077 1109	cistoadenoma gigante de páncreas
+T12	ENFERMEDAD 884 891	quistes

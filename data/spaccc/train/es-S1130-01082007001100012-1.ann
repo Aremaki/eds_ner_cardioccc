@@ -1,15 +1,15 @@
-T1	ENFERMEDAD 21 24	HTA
-T2	ENFERMEDAD 26 29	IRC
-T3	ENFERMEDAD 32 46	hipotiroidismo
-T4	ENFERMEDAD 110 123	abdomen agudo
-T5	ENFERMEDAD 128 141	shock séptico
-T6	ENFERMEDAD 302 319	colitis isquémica
-T7	ENFERMEDAD 429 434	shock
-T8	ENFERMEDAD 600 629	hematoma del lecho quirúrgico
-T9	SINTOMA 75 94	deterioro cognitivo
-T10	SINTOMA 170 183	líquido libre
-T11	SINTOMA 862 893	cultivo bacteriológico negativo
-T12	SINTOMA 546 572	drenaje hemático abdominal
-T13	SINTOMA 649 677	drenaje tuvo aspecto lechoso
-T14	SINTOMA 186 217	engrosamiento de pared colónica
-T15	SINTOMA 340 364	sangrado intraoperatorio
+T1	SINTOMA 75 94	deterioro cognitivo
+T2	SINTOMA 170 183	líquido libre
+T3	SINTOMA 862 893	cultivo bacteriológico negativo
+T4	SINTOMA 546 572	drenaje hemático abdominal
+T5	SINTOMA 649 677	drenaje tuvo aspecto lechoso
+T6	SINTOMA 186 217	engrosamiento de pared colónica
+T7	SINTOMA 340 364	sangrado intraoperatorio
+T8	ENFERMEDAD 21 24	HTA
+T9	ENFERMEDAD 26 29	IRC
+T10	ENFERMEDAD 32 46	hipotiroidismo
+T11	ENFERMEDAD 110 123	abdomen agudo
+T12	ENFERMEDAD 128 141	shock séptico
+T13	ENFERMEDAD 302 319	colitis isquémica
+T14	ENFERMEDAD 429 434	shock
+T15	ENFERMEDAD 600 629	hematoma del lecho quirúrgico

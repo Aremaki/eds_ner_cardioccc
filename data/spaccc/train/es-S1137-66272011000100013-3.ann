@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 75 84	silicosis
-T2	ENFERMEDAD 104 113	Exfumador
-T3	ENFERMEDAD 155 176	Tuberculosis pulmonar
-T4	ENFERMEDAD 611 657	coágulo en bronquio de lóbulo superior derecho
-T5	ENFERMEDAD 99 102	FMP
-T6	ENFERMEDAD 915 953	engrosamiento pleural nodular y difuso
-T7	SINTOMA 675 730	afectación intersticial micronodular bilateral y difusa
-T8	SINTOMA 1098 1129	antígeno galactomanano negativo
-T9	SINTOMA 364 406	constantes vitales dentro de la normalidad
-T10	SINTOMA 915 953	engrosamiento pleural nodular y difuso
-T11	SINTOMA 278 302	expectoración marronácea
-T12	SINTOMA 740 797	nódulos calcificados, de predominio en lóbulos superiores
-T13	SINTOMA 409 427	roncus bilaterales
-T14	SINTOMA 272 275	tos
-T15	SINTOMA 489 501	leucocitosis
-T16	SINTOMA 1205 1215	hemoptisis
-T17	SINTOMA 236 246	hemoptisis
+T1	SINTOMA 675 730	afectación intersticial micronodular bilateral y difusa
+T2	SINTOMA 1098 1129	antígeno galactomanano negativo
+T3	SINTOMA 364 406	constantes vitales dentro de la normalidad
+T4	SINTOMA 915 953	engrosamiento pleural nodular y difuso
+T5	SINTOMA 278 302	expectoración marronácea
+T6	SINTOMA 740 797	nódulos calcificados, de predominio en lóbulos superiores
+T7	SINTOMA 409 427	roncus bilaterales
+T8	SINTOMA 272 275	tos
+T9	SINTOMA 489 501	leucocitosis
+T10	SINTOMA 1205 1215	hemoptisis
+T11	SINTOMA 236 246	hemoptisis
+T12	ENFERMEDAD 75 84	silicosis
+T13	ENFERMEDAD 104 113	Exfumador
+T14	ENFERMEDAD 155 176	Tuberculosis pulmonar
+T15	ENFERMEDAD 611 657	coágulo en bronquio de lóbulo superior derecho
+T16	ENFERMEDAD 99 102	FMP
+T17	ENFERMEDAD 915 953	engrosamiento pleural nodular y difuso

@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 1431 1439	seminoma
-T2	ENFERMEDAD 34 36	SK
-T3	ENFERMEDAD 1110 1175	seminoma clásico de 2.5 cms de diámetro que afecta a la albugínea
-T4	ENFERMEDAD 506 536	tumor testicular tipo seminoma
-T5	ENFERMEDAD 59 78	sinusitis bilateral
-T6	ENFERMEDAD 80 95	bronquiectasias
-T7	ENFERMEDAD 98 120	desprendimiento retina
-T8	ENFERMEDAD 596 610	situs inversus
-T9	ENFERMEDAD 1318 1349	Neoplasia germinal intratubular
-T10	ENFERMEDAD 1351 1396	Fibrosis e hialinización tubular de testículo
-T11	ENFERMEDAD 741 775	bronquiectasias en lóbulo inferior
-T12	ENFERMEDAD 1812 1824	azooospermia
-T13	ENFERMEDAD 417 426	neoplasia
-T14	ENFERMEDAD 441 452	adenopatías
-T15	ENFERMEDAD 1299 1316	invasión vascular
-T16	PROCEDIMIENTO 1041 1070	se coloca prótesis testicular
-T17	PROCEDIMIENTO 1085 1102	anatomopatológico
-T18	PROCEDIMIENTO 1616 1626	bioquímica
-T19	PROCEDIMIENTO 1667 1685	exploración física
-T20	PROCEDIMIENTO 1699 1719	pruebas por imágenes
-T21	PROCEDIMIENTO 1739 1751	orquiectomía
-T22	PROCEDIMIENTO 1768 1782	espermiogramas
-T23	PROCEDIMIENTO 310 321	exploración
-T24	PROCEDIMIENTO 461 470	ecografía
-T25	PROCEDIMIENTO 573 584	Rx de tórax
-T26	PROCEDIMIENTO 794 803	analítica
-T27	PROCEDIMIENTO 869 889	Marcadores tumorales
-T28	PROCEDIMIENTO 955 976	orquiectomía inguinal
-T29	PROCEDIMIENTO 982 1038	raquianestesia a nivel L3-L4 con bupivacaína hiperbárica
-T30	SINTOMA 631 698	apex de la silueta cardiaca y la cámara de gases gástrica a la dcha
-T31	SINTOMA 153 195	aumento del tamaño testicular e induración
-T32	SINTOMA 338 368	aumento del volumen testicular
-T33	SINTOMA 251 293	dolor lumbar que se le irradia a testículo
-T34	SINTOMA 1667 1729	exploración física así como las pruebas por imágenes negativas
-T35	SINTOMA 708 726	imagen cicatricial
-T36	SINTOMA 1605 1654	normalidad bioquímica de los parámetros tumorales
-T37	SINTOMA 358 403	testicular, indoloro y de consistencia pétrea
+T1	SINTOMA 631 698	apex de la silueta cardiaca y la cámara de gases gástrica a la dcha
+T2	SINTOMA 153 195	aumento del tamaño testicular e induración
+T3	SINTOMA 338 368	aumento del volumen testicular
+T4	SINTOMA 251 293	dolor lumbar que se le irradia a testículo
+T5	SINTOMA 1667 1729	exploración física así como las pruebas por imágenes negativas
+T6	SINTOMA 708 726	imagen cicatricial
+T7	SINTOMA 1605 1654	normalidad bioquímica de los parámetros tumorales
+T8	SINTOMA 358 403	testicular, indoloro y de consistencia pétrea
+T9	ENFERMEDAD 1431 1439	seminoma
+T10	ENFERMEDAD 34 36	SK
+T11	ENFERMEDAD 1110 1175	seminoma clásico de 2.5 cms de diámetro que afecta a la albugínea
+T12	ENFERMEDAD 506 536	tumor testicular tipo seminoma
+T13	ENFERMEDAD 59 78	sinusitis bilateral
+T14	ENFERMEDAD 80 95	bronquiectasias
+T15	ENFERMEDAD 98 120	desprendimiento retina
+T16	ENFERMEDAD 596 610	situs inversus
+T17	ENFERMEDAD 1318 1349	Neoplasia germinal intratubular
+T18	ENFERMEDAD 1351 1396	Fibrosis e hialinización tubular de testículo
+T19	ENFERMEDAD 741 775	bronquiectasias en lóbulo inferior
+T20	ENFERMEDAD 1812 1824	azooospermia
+T21	ENFERMEDAD 417 426	neoplasia
+T22	ENFERMEDAD 441 452	adenopatías
+T23	ENFERMEDAD 1299 1316	invasión vascular
+T24	PROCEDIMIENTO 1041 1070	se coloca prótesis testicular
+T25	PROCEDIMIENTO 1085 1102	anatomopatológico
+T26	PROCEDIMIENTO 1616 1626	bioquímica
+T27	PROCEDIMIENTO 1667 1685	exploración física
+T28	PROCEDIMIENTO 1699 1719	pruebas por imágenes
+T29	PROCEDIMIENTO 1739 1751	orquiectomía
+T30	PROCEDIMIENTO 1768 1782	espermiogramas
+T31	PROCEDIMIENTO 310 321	exploración
+T32	PROCEDIMIENTO 461 470	ecografía
+T33	PROCEDIMIENTO 573 584	Rx de tórax
+T34	PROCEDIMIENTO 794 803	analítica
+T35	PROCEDIMIENTO 869 889	Marcadores tumorales
+T36	PROCEDIMIENTO 955 976	orquiectomía inguinal
+T37	PROCEDIMIENTO 982 1038	raquianestesia a nivel L3-L4 con bupivacaína hiperbárica

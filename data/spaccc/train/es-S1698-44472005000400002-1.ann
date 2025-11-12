@@ -1,33 +1,33 @@
-T1	PROCEDIMIENTO 1021 1045	examen de los extendidos
-T2	PROCEDIMIENTO 133 151	exploración física
-T3	PROCEDIMIENTO 1707 1724	imagen citológica
-T4	PROCEDIMIENTO 1866 1941	cuantificación de ADN por citometría de imagen sobre extendidos citológicos
-T5	PROCEDIMIENTO 1956 1962	frotis
-T6	PROCEDIMIENTO 1987 1994	punción
-T7	PROCEDIMIENTO 2056 2060	PAAF
-T8	PROCEDIMIENTO 2110 2135	determinación citométrica
-T9	PROCEDIMIENTO 2150 2182	fijan en alcohol metílico de 99º
-T10	PROCEDIMIENTO 2212 2254	tinción de Hematoxilina progresiva de Gill
-T11	PROCEDIMIENTO 2789 2808	citometría estática
-T12	PROCEDIMIENTO 2817 2839	diagnóstico citológico
-T13	PROCEDIMIENTO 2934 2957	intervención quirúrgica
-T14	PROCEDIMIENTO 2976 3008	exéresis de la glándula parótida
-T15	PROCEDIMIENTO 3013 3033	vaciamiento cervical
-T16	PROCEDIMIENTO 3303 3312	resección
-T17	PROCEDIMIENTO 3357 3441	Se realizan múltiples secciones paralelas de la muestra, que se incluyen en parafina
-T18	PROCEDIMIENTO 3455 3495	teñir los cortes con hematoxilina-eosina
-T19	PROCEDIMIENTO 3513 3536	estudio histopatológico
-T20	PROCEDIMIENTO 3994 4008	tinción de PAS
-T21	PROCEDIMIENTO 4183 4192	resección
-T22	PROCEDIMIENTO 431 448	pruebas de imagen
-T23	PROCEDIMIENTO 461 491	tomografía axial computerizada
-T24	PROCEDIMIENTO 494 503	ecografía
-T25	PROCEDIMIENTO 677 710	punción aspiración con aguja fina
-T26	PROCEDIMIENTO 738 838	método rutinario de 3 pases con aguja de 23G, y ayuda del Cameco® (dispositivo de aspiración manual)
-T27	PROCEDIMIENTO 852 939	se fijan en alcohol 2 portaobjetos para ser teñidos mediante la técnica de Papanicolaou
-T28	PROCEDIMIENTO 945 1016	resto (6 portas) se secan al aire para emplear la tinción de Diff-Quick
-T29	SINTOMA 591 628	afecta estructuras óseas o musculares
-T30	SINTOMA 164 209	masa mal delimitada de 2 cm en área parotídea
-T31	SINTOMA 53 118	tumoración palpable, dolorosa a la presión en región preauricular
-T32	SINTOMA 518 528	tumoración
-T33	SINTOMA 352 358	nódulo
+T1	SINTOMA 591 628	afecta estructuras óseas o musculares
+T2	SINTOMA 164 209	masa mal delimitada de 2 cm en área parotídea
+T3	SINTOMA 53 118	tumoración palpable, dolorosa a la presión en región preauricular
+T4	SINTOMA 518 528	tumoración
+T5	SINTOMA 352 358	nódulo
+T6	PROCEDIMIENTO 1021 1045	examen de los extendidos
+T7	PROCEDIMIENTO 133 151	exploración física
+T8	PROCEDIMIENTO 1707 1724	imagen citológica
+T9	PROCEDIMIENTO 1866 1941	cuantificación de ADN por citometría de imagen sobre extendidos citológicos
+T10	PROCEDIMIENTO 1956 1962	frotis
+T11	PROCEDIMIENTO 1987 1994	punción
+T12	PROCEDIMIENTO 2056 2060	PAAF
+T13	PROCEDIMIENTO 2110 2135	determinación citométrica
+T14	PROCEDIMIENTO 2150 2182	fijan en alcohol metílico de 99º
+T15	PROCEDIMIENTO 2212 2254	tinción de Hematoxilina progresiva de Gill
+T16	PROCEDIMIENTO 2789 2808	citometría estática
+T17	PROCEDIMIENTO 2817 2839	diagnóstico citológico
+T18	PROCEDIMIENTO 2934 2957	intervención quirúrgica
+T19	PROCEDIMIENTO 2976 3008	exéresis de la glándula parótida
+T20	PROCEDIMIENTO 3013 3033	vaciamiento cervical
+T21	PROCEDIMIENTO 3303 3312	resección
+T22	PROCEDIMIENTO 3357 3441	Se realizan múltiples secciones paralelas de la muestra, que se incluyen en parafina
+T23	PROCEDIMIENTO 3455 3495	teñir los cortes con hematoxilina-eosina
+T24	PROCEDIMIENTO 3513 3536	estudio histopatológico
+T25	PROCEDIMIENTO 3994 4008	tinción de PAS
+T26	PROCEDIMIENTO 4183 4192	resección
+T27	PROCEDIMIENTO 431 448	pruebas de imagen
+T28	PROCEDIMIENTO 461 491	tomografía axial computerizada
+T29	PROCEDIMIENTO 494 503	ecografía
+T30	PROCEDIMIENTO 677 710	punción aspiración con aguja fina
+T31	PROCEDIMIENTO 738 838	método rutinario de 3 pases con aguja de 23G, y ayuda del Cameco® (dispositivo de aspiración manual)
+T32	PROCEDIMIENTO 852 939	se fijan en alcohol 2 portaobjetos para ser teñidos mediante la técnica de Papanicolaou
+T33	PROCEDIMIENTO 945 1016	resto (6 portas) se secan al aire para emplear la tinción de Diff-Quick

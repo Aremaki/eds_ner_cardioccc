@@ -1,67 +1,67 @@
-T1	ENFERMEDAD 2281 2320	condrosarcoma grado I bien diferenciado
-T2	ENFERMEDAD 57 78	hipertensión arterial
-T3	ENFERMEDAD 3632 3657	adenopatía laterocervical
-T4	ENFERMEDAD 704 719	neuralgia de C2
-T5	ENFERMEDAD 3700 3716	recidiva tumoral
-T6	ENFERMEDAD 128 145	sinusitis maxilar
-T7	ENFERMEDAD 1139 1218	lesión ocupante de espacio, que ocupa el foramen de conjunción derecho de C2-C3
-T8	ENFERMEDAD 1864 1892	oclusión del flujo vertebral
-T9	ENFERMEDAD 437 449	otitis aguda
-T10	ENFERMEDAD 2762 2802	invasión del hemicuerpo derecho del axis
-T11	ENFERMEDAD 2807 2848	arteria vertebral se encuentra trombosada
-T12	ENFERMEDAD 225 233	alergias
-T13	ENFERMEDAD 3745 3755	adenopatía
-T14	ENFERMEDAD 3893 3908	aumento tumoral
-T15	ENFERMEDAD 4275 4294	crecimiento tumoral
-T16	ENFERMEDAD 2114 2126	masa tumoral
-T17	PROCEDIMIENTO 1027 1045	analítica completa
-T18	PROCEDIMIENTO 1109 1121	RMN cervical
-T19	PROCEDIMIENTO 1719 1722	TAC
-T20	PROCEDIMIENTO 1815 1850	angiografía de troncos supraórticos
-T21	PROCEDIMIENTO 1990 2053	resección subtotal de dicha tumoración por vía cervical lateral
-T22	PROCEDIMIENTO 2077 2100	diagnóstico histológico
-T23	PROCEDIMIENTO 2395 2404	resección
-T24	PROCEDIMIENTO 2498 2538	fijación instrumentada occipito-cervical
-T25	PROCEDIMIENTO 250 276	intervenciones quirúrgicas
-T26	PROCEDIMIENTO 2965 3007	atornillado transpedicular de C2 izquierdo
-T27	PROCEDIMIENTO 3072 3133	anclando tres tornillos en la escama occipital bilateralmente
-T28	PROCEDIMIENTO 3162 3234	atornillado en masa lateral de C3 izquierda y masa lateral derecha de C4
-T29	PROCEDIMIENTO 3252 3269	exéresis subtotal
-T30	PROCEDIMIENTO 3337 3348	radiografía
-T31	PROCEDIMIENTO 3490 3502	radioterapia
-T32	PROCEDIMIENTO 3684 3687	RMN
-T33	PROCEDIMIENTO 3730 3755	exéresis de la adenopatía
-T34	PROCEDIMIENTO 3763 3783	análisis histológico
-T35	PROCEDIMIENTO 3835 3848	braquiterapia
-T36	PROCEDIMIENTO 3926 3949	intervención quirúrgica
-T37	PROCEDIMIENTO 4044 4110	abordaje transcervical lateral suprahioideo con resección subtotal
-T38	PROCEDIMIENTO 4132 4145	traqueostomía
-T39	PROCEDIMIENTO 4536 4552	radiológicamente
-T40	PROCEDIMIENTO 4615 4638	intervención quirúrgica
-T41	PROCEDIMIENTO 4672 4734	quimioterapia siguiendo un esquema de adriamicina + ifosfamida
-T42	PROCEDIMIENTO 733 744	Exploración
-T43	PROCEDIMIENTO 903 912	palpación
-T44	SINTOMA 2232 2244	asintomática
-T45	SINTOMA 2018 2028	tumoración
-T46	SINTOMA 889 912	dolorosa a la palpación
-T47	SINTOMA 924 949	alteración de vías largas
-T48	SINTOMA 1027 1075	analítica completa no revela ninguna anormalidad
-T49	SINTOMA 499 506	bultoma
-T50	SINTOMA 1489 1517	colapsa la arteria vertebral
-T51	SINTOMA 4473 4523	dificultad motora en ambas extremidades superiores
-T52	SINTOMA 615 658	disestesias en hombro y extremidad superior
-T53	SINTOMA 1420 1449	distorsión del cordón medular
-T54	SINTOMA 1616 1657	distorsiona la musculatura laterocervical
-T55	SINTOMA 679 693	dolor cervical
-T56	SINTOMA 516 539	dolor cervical moderado
-T57	SINTOMA 4312 4373	dolor en hemifacies izquierda irradiado a extremidad superior
-T58	SINTOMA 1765 1797	erosión de la masa lateral de C2
-T59	SINTOMA 1246 1336	erosión de la masa lateral del axis, así como de la articulación interapofisaria posterior
-T60	SINTOMA 1864 1892	oclusión del flujo vertebral
-T61	SINTOMA 1357 1410	ocupación del receso anterolateral del canal raquídeo
-T62	SINTOMA 956 1004	pares craneales están conservados bilateralmente
-T63	SINTOMA 2854 2896	raíces de C2 y C3 derechas quedan indemnes
-T64	SINTOMA 2902 2918	saco dural libre
-T65	SINTOMA 761 836	tumoración de características gomosas bien definida en el ángulo mandibular
-T66	SINTOMA 2615 2691	tumoración que erosiona, insufla e invade los macizos articulares de C2 y C3
-T67	SINTOMA 309 388	tumoración subcutánea laterocervical derecha a nivel del ángulo de la mandíbula
+T1	SINTOMA 2232 2244	asintomática
+T2	SINTOMA 2018 2028	tumoración
+T3	SINTOMA 889 912	dolorosa a la palpación
+T4	SINTOMA 924 949	alteración de vías largas
+T5	SINTOMA 1027 1075	analítica completa no revela ninguna anormalidad
+T6	SINTOMA 499 506	bultoma
+T7	SINTOMA 1489 1517	colapsa la arteria vertebral
+T8	SINTOMA 4473 4523	dificultad motora en ambas extremidades superiores
+T9	SINTOMA 615 658	disestesias en hombro y extremidad superior
+T10	SINTOMA 1420 1449	distorsión del cordón medular
+T11	SINTOMA 1616 1657	distorsiona la musculatura laterocervical
+T12	SINTOMA 679 693	dolor cervical
+T13	SINTOMA 516 539	dolor cervical moderado
+T14	SINTOMA 4312 4373	dolor en hemifacies izquierda irradiado a extremidad superior
+T15	SINTOMA 1765 1797	erosión de la masa lateral de C2
+T16	SINTOMA 1246 1336	erosión de la masa lateral del axis, así como de la articulación interapofisaria posterior
+T17	SINTOMA 1864 1892	oclusión del flujo vertebral
+T18	SINTOMA 1357 1410	ocupación del receso anterolateral del canal raquídeo
+T19	SINTOMA 956 1004	pares craneales están conservados bilateralmente
+T20	SINTOMA 2854 2896	raíces de C2 y C3 derechas quedan indemnes
+T21	SINTOMA 2902 2918	saco dural libre
+T22	SINTOMA 761 836	tumoración de características gomosas bien definida en el ángulo mandibular
+T23	SINTOMA 2615 2691	tumoración que erosiona, insufla e invade los macizos articulares de C2 y C3
+T24	SINTOMA 309 388	tumoración subcutánea laterocervical derecha a nivel del ángulo de la mandíbula
+T25	ENFERMEDAD 2281 2320	condrosarcoma grado I bien diferenciado
+T26	ENFERMEDAD 57 78	hipertensión arterial
+T27	ENFERMEDAD 3632 3657	adenopatía laterocervical
+T28	ENFERMEDAD 704 719	neuralgia de C2
+T29	ENFERMEDAD 3700 3716	recidiva tumoral
+T30	ENFERMEDAD 128 145	sinusitis maxilar
+T31	ENFERMEDAD 1139 1218	lesión ocupante de espacio, que ocupa el foramen de conjunción derecho de C2-C3
+T32	ENFERMEDAD 1864 1892	oclusión del flujo vertebral
+T33	ENFERMEDAD 437 449	otitis aguda
+T34	ENFERMEDAD 2762 2802	invasión del hemicuerpo derecho del axis
+T35	ENFERMEDAD 2807 2848	arteria vertebral se encuentra trombosada
+T36	ENFERMEDAD 225 233	alergias
+T37	ENFERMEDAD 3745 3755	adenopatía
+T38	ENFERMEDAD 3893 3908	aumento tumoral
+T39	ENFERMEDAD 4275 4294	crecimiento tumoral
+T40	ENFERMEDAD 2114 2126	masa tumoral
+T41	PROCEDIMIENTO 1027 1045	analítica completa
+T42	PROCEDIMIENTO 1109 1121	RMN cervical
+T43	PROCEDIMIENTO 1719 1722	TAC
+T44	PROCEDIMIENTO 1815 1850	angiografía de troncos supraórticos
+T45	PROCEDIMIENTO 1990 2053	resección subtotal de dicha tumoración por vía cervical lateral
+T46	PROCEDIMIENTO 2077 2100	diagnóstico histológico
+T47	PROCEDIMIENTO 2395 2404	resección
+T48	PROCEDIMIENTO 2498 2538	fijación instrumentada occipito-cervical
+T49	PROCEDIMIENTO 250 276	intervenciones quirúrgicas
+T50	PROCEDIMIENTO 2965 3007	atornillado transpedicular de C2 izquierdo
+T51	PROCEDIMIENTO 3072 3133	anclando tres tornillos en la escama occipital bilateralmente
+T52	PROCEDIMIENTO 3162 3234	atornillado en masa lateral de C3 izquierda y masa lateral derecha de C4
+T53	PROCEDIMIENTO 3252 3269	exéresis subtotal
+T54	PROCEDIMIENTO 3337 3348	radiografía
+T55	PROCEDIMIENTO 3490 3502	radioterapia
+T56	PROCEDIMIENTO 3684 3687	RMN
+T57	PROCEDIMIENTO 3730 3755	exéresis de la adenopatía
+T58	PROCEDIMIENTO 3763 3783	análisis histológico
+T59	PROCEDIMIENTO 3835 3848	braquiterapia
+T60	PROCEDIMIENTO 3926 3949	intervención quirúrgica
+T61	PROCEDIMIENTO 4044 4110	abordaje transcervical lateral suprahioideo con resección subtotal
+T62	PROCEDIMIENTO 4132 4145	traqueostomía
+T63	PROCEDIMIENTO 4536 4552	radiológicamente
+T64	PROCEDIMIENTO 4615 4638	intervención quirúrgica
+T65	PROCEDIMIENTO 4672 4734	quimioterapia siguiendo un esquema de adriamicina + ifosfamida
+T66	PROCEDIMIENTO 733 744	Exploración
+T67	PROCEDIMIENTO 903 912	palpación

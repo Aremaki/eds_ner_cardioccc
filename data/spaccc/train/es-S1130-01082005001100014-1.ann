@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 29 39	hipertensa
-T2	ENFERMEDAD 60 80	ulcus gastroduodenal
-T3	ENFERMEDAD 454 489	lesión submucosa en fundus gástrico
-T4	ENFERMEDAD 1563 1582	schwannoma gástrico
-T5	ENFERMEDAD 158 165	melenas
-T6	ENFERMEDAD 634 668	lesión submucosa gástrica ulcerada
-T7	ENFERMEDAD 1019 1077	gástrica presentaba una excavación secundaria a una úlcera
-T8	ENFERMEDAD 717 735	sangrado digestivo
-T9	ENFERMEDAD 1119 1166	adenopatías perilesionales ni en tronco celiaco
-T10	ENFERMEDAD 1209 1255	tumor gástrico submucoso estromal (tumor GIST)
-T11	ENFERMEDAD 1244 1254	tumor GIST
-T12	ENFERMEDAD 1377 1401	complicación hemorrágica
-T13	ENFERMEDAD 535 545	ulceración
-T14	SINTOMA 341 365	aceptable estado general
-T15	SINTOMA 168 177	cansancio
-T16	SINTOMA 158 165	melenas
-T17	SINTOMA 328 338	normotensa
-T18	SINTOMA 295 302	palidez
-T19	SINTOMA 579 594	sangrado activo
-T20	SINTOMA 370 391	tacto rectal negativo
+T1	SINTOMA 341 365	aceptable estado general
+T2	SINTOMA 168 177	cansancio
+T3	SINTOMA 158 165	melenas
+T4	SINTOMA 328 338	normotensa
+T5	SINTOMA 295 302	palidez
+T6	SINTOMA 579 594	sangrado activo
+T7	SINTOMA 370 391	tacto rectal negativo
+T8	ENFERMEDAD 29 39	hipertensa
+T9	ENFERMEDAD 60 80	ulcus gastroduodenal
+T10	ENFERMEDAD 454 489	lesión submucosa en fundus gástrico
+T11	ENFERMEDAD 1563 1582	schwannoma gástrico
+T12	ENFERMEDAD 158 165	melenas
+T13	ENFERMEDAD 634 668	lesión submucosa gástrica ulcerada
+T14	ENFERMEDAD 1019 1077	gástrica presentaba una excavación secundaria a una úlcera
+T15	ENFERMEDAD 717 735	sangrado digestivo
+T16	ENFERMEDAD 1119 1166	adenopatías perilesionales ni en tronco celiaco
+T17	ENFERMEDAD 1209 1255	tumor gástrico submucoso estromal (tumor GIST)
+T18	ENFERMEDAD 1244 1254	tumor GIST
+T19	ENFERMEDAD 1377 1401	complicación hemorrágica
+T20	ENFERMEDAD 535 545	ulceración

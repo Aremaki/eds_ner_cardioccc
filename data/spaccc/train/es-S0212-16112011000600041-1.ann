@@ -1,10 +1,10 @@
-T1	ENFERMEDAD 18 26	fumadora
-T2	ENFERMEDAD 264 311	íleon terminal, se visualizan tres ulceraciones
-T3	ENFERMEDAD 407 426	enfermedad de Crohn
-T4	ENFERMEDAD 620 632	malnutrición
-T5	ENFERMEDAD 817 820	PLE
-T6	SINTOMA 556 576	catabolismo proteico
-T7	SINTOMA 116 175	deposiciones diarreicas, en ocasiones acompañadas de sangre
-T8	SINTOMA 237 259	mucosa colónica normal
-T9	SINTOMA 178 193	pérdida de peso
-T10	SINTOMA 578 601	reducción en la ingesta
+T1	SINTOMA 556 576	catabolismo proteico
+T2	SINTOMA 116 175	deposiciones diarreicas, en ocasiones acompañadas de sangre
+T3	SINTOMA 237 259	mucosa colónica normal
+T4	SINTOMA 178 193	pérdida de peso
+T5	SINTOMA 578 601	reducción en la ingesta
+T6	ENFERMEDAD 18 26	fumadora
+T7	ENFERMEDAD 264 311	íleon terminal, se visualizan tres ulceraciones
+T8	ENFERMEDAD 407 426	enfermedad de Crohn
+T9	ENFERMEDAD 620 632	malnutrición
+T10	ENFERMEDAD 817 820	PLE

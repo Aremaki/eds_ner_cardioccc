@@ -1,32 +1,32 @@
-T1	ENFERMEDAD 776 801	síndrome de Miller Fisher
-T2	ENFERMEDAD 323 328	gripe
-T3	ENFERMEDAD 1526 1542	desmielinización
-T4	ENFERMEDAD 1497 1523	lesión ocupante de espacio
-T5	ENFERMEDAD 229 237	diplopía
-T6	ENFERMEDAD 1908 1916	diplopía
-T7	ENFERMEDAD 1310 1318	disfagia
-T8	ENFERMEDAD 1299 1307	disfonía
-T9	ENFERMEDAD 1281 1297	parálisis facial
-T10	ENFERMEDAD 74 86	visión doble
-T11	ENFERMEDAD 666 685	diplopia horizontal
-T12	SINTOMA 1001 1103	análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales
-T13	SINTOMA 897 918	debilidad de miembros
-T14	SINTOMA 601 653	dificultad para el resto de los movimientos oculares
-T15	SINTOMA 1145 1168	dificultad respiratoria
-T16	SINTOMA 229 237	diplopía
-T17	SINTOMA 1908 1916	diplopía
-T18	SINTOMA 666 685	diplopia horizontal
-T19	SINTOMA 1310 1318	disfagia
-T20	SINTOMA 1299 1307	disfonía
-T21	SINTOMA 1394 1425	disociación albúmino-citológica
-T22	SINTOMA 1609 1672	estudio inmunológico fue positivo para el anticuerpo anti GQ-1b
-T23	SINTOMA 871 884	hiporreflexia
-T24	SINTOMA 170 200	inestabilidad en bipedestación
-T25	SINTOMA 1921 1957	limitación de la abducción bilateral
-T26	SINTOMA 510 542	limitación en la abducción de AO
-T27	SINTOMA 855 869	marcha atáxica
-T28	SINTOMA 89 95	mareos
-T29	SINTOMA 1281 1297	parálisis facial
-T30	SINTOMA 412 444	pupilas dilatadas y arrefléxicas
-T31	SINTOMA 1258 1279	síntomas neurológicos
-T32	SINTOMA 74 86	visión doble
+T1	SINTOMA 1001 1103	análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales
+T2	SINTOMA 897 918	debilidad de miembros
+T3	SINTOMA 601 653	dificultad para el resto de los movimientos oculares
+T4	SINTOMA 1145 1168	dificultad respiratoria
+T5	SINTOMA 229 237	diplopía
+T6	SINTOMA 1908 1916	diplopía
+T7	SINTOMA 666 685	diplopia horizontal
+T8	SINTOMA 1310 1318	disfagia
+T9	SINTOMA 1299 1307	disfonía
+T10	SINTOMA 1394 1425	disociación albúmino-citológica
+T11	SINTOMA 1609 1672	estudio inmunológico fue positivo para el anticuerpo anti GQ-1b
+T12	SINTOMA 871 884	hiporreflexia
+T13	SINTOMA 170 200	inestabilidad en bipedestación
+T14	SINTOMA 1921 1957	limitación de la abducción bilateral
+T15	SINTOMA 510 542	limitación en la abducción de AO
+T16	SINTOMA 855 869	marcha atáxica
+T17	SINTOMA 89 95	mareos
+T18	SINTOMA 1281 1297	parálisis facial
+T19	SINTOMA 412 444	pupilas dilatadas y arrefléxicas
+T20	SINTOMA 1258 1279	síntomas neurológicos
+T21	SINTOMA 74 86	visión doble
+T22	ENFERMEDAD 776 801	síndrome de Miller Fisher
+T23	ENFERMEDAD 323 328	gripe
+T24	ENFERMEDAD 1526 1542	desmielinización
+T25	ENFERMEDAD 1497 1523	lesión ocupante de espacio
+T26	ENFERMEDAD 229 237	diplopía
+T27	ENFERMEDAD 1908 1916	diplopía
+T28	ENFERMEDAD 1310 1318	disfagia
+T29	ENFERMEDAD 1299 1307	disfonía
+T30	ENFERMEDAD 1281 1297	parálisis facial
+T31	ENFERMEDAD 74 86	visión doble
+T32	ENFERMEDAD 666 685	diplopia horizontal

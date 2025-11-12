@@ -1,53 +1,53 @@
-T1	ENFERMEDAD 746 752	anemia
-T2	ENFERMEDAD 1470 1496	microangiopatía trombótica
-T3	ENFERMEDAD 1499 1517	crisis convulsivas
-T4	ENFERMEDAD 1024 1027	PTT
-T5	ENFERMEDAD 105 136	lupus cutáneo con eritema malar
-T6	ENFERMEDAD 1047 1050	LES
-T7	ENFERMEDAD 206 229	Tiroiditis de Hashimoto
-T8	ENFERMEDAD 247 257	Exfumadora
-T9	ENFERMEDAD 280 288	bebedora
-T10	ENFERMEDAD 374 380	anemia
-T11	ENFERMEDAD 293 308	hábitos tóxicos
-T12	ENFERMEDAD 82 90	alergias
-T13	ENFERMEDAD 655 670	heces melénicas
-T14	ENFERMEDAD 2922 2933	hipotensión
-T15	ENFERMEDAD 490 501	presíncopes
-T16	PROCEDIMIENTO 1068 1125	transfunde un concentrado de hematíes y otro de plaquetas
-T17	PROCEDIMIENTO 1570 1583	plasmaféresis
-T18	PROCEDIMIENTO 1669 1682	plasmaféresis
-T19	PROCEDIMIENTO 1991 2004	plasma fresco
-T20	PROCEDIMIENTO 2080 2099	diálisis peritoneal
-T21	PROCEDIMIENTO 2158 2171	plasmaféresis
-T22	PROCEDIMIENTO 2203 2229	catéter en yugular derecha
-T23	PROCEDIMIENTO 2294 2332	catéter doble luz en femoral izquierda
-T24	PROCEDIMIENTO 231 245	Apendicectomía
-T25	PROCEDIMIENTO 2760 2766	sedada
-T26	PROCEDIMIENTO 392 398	partos
-T27	PROCEDIMIENTO 400 407	Cesárea
-T28	PROCEDIMIENTO 410 429	ligadura de trompas
-T29	PROCEDIMIENTO 728 737	analítica
-T30	PROCEDIMIENTO 841 857	Frotis sanguíneo
-T31	SINTOMA 2922 2933	hipotensión
-T32	SINTOMA 480 487	astenia
-T33	SINTOMA 2740 2758	mal estado general
-T34	SINTOMA 2936 2948	convulsiones
-T35	SINTOMA 57 64	astenia
-T36	SINTOMA 785 796	trombopenia
-T37	SINTOMA 587 602	pérdida de peso
-T38	SINTOMA 1278 1299	focalidad neurológica
-T39	SINTOMA 2271 2279	sangrado
-T40	SINTOMA 1206 1219	afasia global
-T41	SINTOMA 2893 2900	agitada
-T42	SINTOMA 574 582	anorexia
-T43	SINTOMA 1222 1253	desviación de la comisura bucal
-T44	SINTOMA 536 562	dificultan la deambulación
-T45	SINTOMA 698 707	Epistaxis
-T46	SINTOMA 123 136	eritema malar
-T47	SINTOMA 875 888	esquistocitos
-T48	SINTOMA 710 723	gingivorragia
-T49	SINTOMA 1316 1341	habla con lenguaje normal
-T50	SINTOMA 655 670	heces melénicas
-T51	SINTOMA 672 696	palidez cutánea y mucosa
-T52	SINTOMA 490 501	presíncopes
-T53	SINTOMA 2760 2766	sedada
+T1	SINTOMA 2922 2933	hipotensión
+T2	SINTOMA 480 487	astenia
+T3	SINTOMA 2740 2758	mal estado general
+T4	SINTOMA 2936 2948	convulsiones
+T5	SINTOMA 57 64	astenia
+T6	SINTOMA 785 796	trombopenia
+T7	SINTOMA 587 602	pérdida de peso
+T8	SINTOMA 1278 1299	focalidad neurológica
+T9	SINTOMA 2271 2279	sangrado
+T10	SINTOMA 1206 1219	afasia global
+T11	SINTOMA 2893 2900	agitada
+T12	SINTOMA 574 582	anorexia
+T13	SINTOMA 1222 1253	desviación de la comisura bucal
+T14	SINTOMA 536 562	dificultan la deambulación
+T15	SINTOMA 698 707	Epistaxis
+T16	SINTOMA 123 136	eritema malar
+T17	SINTOMA 875 888	esquistocitos
+T18	SINTOMA 710 723	gingivorragia
+T19	SINTOMA 1316 1341	habla con lenguaje normal
+T20	SINTOMA 655 670	heces melénicas
+T21	SINTOMA 672 696	palidez cutánea y mucosa
+T22	SINTOMA 490 501	presíncopes
+T23	SINTOMA 2760 2766	sedada
+T24	ENFERMEDAD 746 752	anemia
+T25	ENFERMEDAD 1470 1496	microangiopatía trombótica
+T26	ENFERMEDAD 1499 1517	crisis convulsivas
+T27	ENFERMEDAD 1024 1027	PTT
+T28	ENFERMEDAD 105 136	lupus cutáneo con eritema malar
+T29	ENFERMEDAD 1047 1050	LES
+T30	ENFERMEDAD 206 229	Tiroiditis de Hashimoto
+T31	ENFERMEDAD 247 257	Exfumadora
+T32	ENFERMEDAD 280 288	bebedora
+T33	ENFERMEDAD 374 380	anemia
+T34	ENFERMEDAD 293 308	hábitos tóxicos
+T35	ENFERMEDAD 82 90	alergias
+T36	ENFERMEDAD 655 670	heces melénicas
+T37	ENFERMEDAD 2922 2933	hipotensión
+T38	ENFERMEDAD 490 501	presíncopes
+T39	PROCEDIMIENTO 1068 1125	transfunde un concentrado de hematíes y otro de plaquetas
+T40	PROCEDIMIENTO 1570 1583	plasmaféresis
+T41	PROCEDIMIENTO 1669 1682	plasmaféresis
+T42	PROCEDIMIENTO 1991 2004	plasma fresco
+T43	PROCEDIMIENTO 2080 2099	diálisis peritoneal
+T44	PROCEDIMIENTO 2158 2171	plasmaféresis
+T45	PROCEDIMIENTO 2203 2229	catéter en yugular derecha
+T46	PROCEDIMIENTO 2294 2332	catéter doble luz en femoral izquierda
+T47	PROCEDIMIENTO 231 245	Apendicectomía
+T48	PROCEDIMIENTO 2760 2766	sedada
+T49	PROCEDIMIENTO 392 398	partos
+T50	PROCEDIMIENTO 400 407	Cesárea
+T51	PROCEDIMIENTO 410 429	ligadura de trompas
+T52	PROCEDIMIENTO 728 737	analítica
+T53	PROCEDIMIENTO 841 857	Frotis sanguíneo

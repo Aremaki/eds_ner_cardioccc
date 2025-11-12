@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 707 770	glándula parótida derecha se identifican dos lesiones nodulares
-T2	ENFERMEDAD 1470 1531	lesiones nodulares heterogéneas, en ambas glándulas parótidas
-T3	ENFERMEDAD 1370 1386	tumor de Warthin
-T4	ENFERMEDAD 1261 1277	tumor de Warthin
-T5	ENFERMEDAD 1869 1908	tumor de Warthin multifocal y bilateral
-T6	ENFERMEDAD 136 146	hipertenso
-T7	ENFERMEDAD 151 160	diabético
-T8	ENFERMEDAD 171 181	dislipemia
-T9	ENFERMEDAD 198 207	cataratas
-T10	ENFERMEDAD 938 989	parótida izquierda se identifica una lesión nodular
-T11	ENFERMEDAD 1723 1765	tumor de Warthin multicéntrico y bilateral
-T12	ENFERMEDAD 95 118	alergias medicamentosas
-T13	ENFERMEDAD 33 40	fumador
-T14	PROCEDIMIENTO 1161 1166	PAAFs
-T15	PROCEDIMIENTO 1170 1202	PAAF de área parotídea izquierda
-T16	PROCEDIMIENTO 1204 1213	citología
-T17	PROCEDIMIENTO 1281 1311	PAAF de área parotídea derecha
-T18	PROCEDIMIENTO 1313 1322	citología
-T19	PROCEDIMIENTO 1417 1445	Resonancia Magnética Nuclear
-T20	PROCEDIMIENTO 183 207	Intervenido de cataratas
-T21	PROCEDIMIENTO 360 379	exploración clínica
-T22	PROCEDIMIENTO 443 528	parótidas, motivo por el que se solicita una ecografía de dichas glándulas y una PAAF
-T23	PROCEDIMIENTO 628 637	ecografía
-T24	PROCEDIMIENTO 640 644	PAAF
-T25	PROCEDIMIENTO 657 667	ecográfico
-T26	SINTOMA 288 297	ciatalgia
-T27	SINTOMA 975 1040	lesión nodular hipoecogénica y heterogénea (sólida/microquística)
-T28	SINTOMA 1470 1501	lesiones nodulares heterogéneas
-T29	SINTOMA 752 785	lesiones nodulares hipoecogénicas
-T30	SINTOMA 410 452	masas duras e indoloras en ambas parótidas
-T31	SINTOMA 1204 1244	citología negativa para células malignas
-T32	SINTOMA 1313 1353	citología negativa para células malignas
-T33	SINTOMA 300 329	edemas en miembros inferiores
+T1	SINTOMA 288 297	ciatalgia
+T2	SINTOMA 975 1040	lesión nodular hipoecogénica y heterogénea (sólida/microquística)
+T3	SINTOMA 1470 1501	lesiones nodulares heterogéneas
+T4	SINTOMA 752 785	lesiones nodulares hipoecogénicas
+T5	SINTOMA 410 452	masas duras e indoloras en ambas parótidas
+T6	SINTOMA 1204 1244	citología negativa para células malignas
+T7	SINTOMA 1313 1353	citología negativa para células malignas
+T8	SINTOMA 300 329	edemas en miembros inferiores
+T9	ENFERMEDAD 707 770	glándula parótida derecha se identifican dos lesiones nodulares
+T10	ENFERMEDAD 1470 1531	lesiones nodulares heterogéneas, en ambas glándulas parótidas
+T11	ENFERMEDAD 1370 1386	tumor de Warthin
+T12	ENFERMEDAD 1261 1277	tumor de Warthin
+T13	ENFERMEDAD 1869 1908	tumor de Warthin multifocal y bilateral
+T14	ENFERMEDAD 136 146	hipertenso
+T15	ENFERMEDAD 151 160	diabético
+T16	ENFERMEDAD 171 181	dislipemia
+T17	ENFERMEDAD 198 207	cataratas
+T18	ENFERMEDAD 938 989	parótida izquierda se identifica una lesión nodular
+T19	ENFERMEDAD 1723 1765	tumor de Warthin multicéntrico y bilateral
+T20	ENFERMEDAD 95 118	alergias medicamentosas
+T21	ENFERMEDAD 33 40	fumador
+T22	PROCEDIMIENTO 1161 1166	PAAFs
+T23	PROCEDIMIENTO 1170 1202	PAAF de área parotídea izquierda
+T24	PROCEDIMIENTO 1204 1213	citología
+T25	PROCEDIMIENTO 1281 1311	PAAF de área parotídea derecha
+T26	PROCEDIMIENTO 1313 1322	citología
+T27	PROCEDIMIENTO 1417 1445	Resonancia Magnética Nuclear
+T28	PROCEDIMIENTO 183 207	Intervenido de cataratas
+T29	PROCEDIMIENTO 360 379	exploración clínica
+T30	PROCEDIMIENTO 443 528	parótidas, motivo por el que se solicita una ecografía de dichas glándulas y una PAAF
+T31	PROCEDIMIENTO 628 637	ecografía
+T32	PROCEDIMIENTO 640 644	PAAF
+T33	PROCEDIMIENTO 657 667	ecográfico

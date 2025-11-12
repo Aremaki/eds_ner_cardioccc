@@ -1,65 +1,65 @@
-T1	PROCEDIMIENTO 1515 1542	reposición con líquidos i.v
-T2	PROCEDIMIENTO 1573 1582	analítica
-T3	PROCEDIMIENTO 1694 1737	transfusión de dos concentrados de hematíes
-T4	PROCEDIMIENTO 183 241	diverticulitis perforada, tratada con técnica de Hart-mann
-T5	PROCEDIMIENTO 1906 1926	nutrición parenteral
-T6	PROCEDIMIENTO 2177 2180	NPT
-T7	PROCEDIMIENTO 2862 2865	NTP
-T8	PROCEDIMIENTO 2882 2894	sueroterapia
-T9	PROCEDIMIENTO 2897 2926	aporte empírico con vitaminas
-T10	PROCEDIMIENTO 2931 2942	TAC craneal
-T11	PROCEDIMIENTO 3040 3043	EEG
-T12	PROCEDIMIENTO 315 345	nutrición enteral por vía oral
-T13	PROCEDIMIENTO 3332 3335	ECG
-T14	PROCEDIMIENTO 3377 3396	gasometría arterial
-T15	PROCEDIMIENTO 3722 3742	nutrición parenteral
-T16	PROCEDIMIENTO 4008 4023	catéter central
-T17	PROCEDIMIENTO 4091 4121	nutrición enteral por vía oral
-T18	PROCEDIMIENTO 4124 4145	dieta oral modificada
-T19	PROCEDIMIENTO 4164 4167	NPT
-T20	PROCEDIMIENTO 4174 4186	fluidos i.v.
-T21	PROCEDIMIENTO 4402 4413	corticoides
-T22	PROCEDIMIENTO 4505 4536	cortisol tras estímulo con ACTH
-T23	PROCEDIMIENTO 4649 4698	cirugía de reconstrucción del tránsito intestinal
-T24	PROCEDIMIENTO 4835 4844	analítica
-T25	PROCEDIMIENTO 710 720	colostomía
-T26	PROCEDIMIENTO 871 890	palpación abdominal
-T27	PROCEDIMIENTO 989 1028	administración de líquidos intravenosos
-T28	SINTOMA 1345 1364	acidosis metabólica
-T29	SINTOMA 2733 2739	afasia
-T30	SINTOMA 810 817	afebril
-T31	SINTOMA 2799 2806	afebril
-T32	SINTOMA 629 637	anorexia
-T33	SINTOMA 620 627	astenia
-T34	SINTOMA 723 766	aumento importante del débito de la fístula
-T35	SINTOMA 2546 2558	bradipsiquia
-T36	SINTOMA 4809 4844	buena situación clínica y analítica
-T37	SINTOMA 1958 1968	consciente
-T38	SINTOMA 2564 2608	conservación de la motilidad en extremidades
-T39	SINTOMA 746 801	débito de la fístula, en ocasiones con aspecto hemático
-T40	SINTOMA 1625 1668	descenso de la concentración de hemoglobina
-T41	SINTOMA 4297 4311	deshidratación
-T42	SINTOMA 1302 1316	deshidratación
-T43	SINTOMA 2675 2727	deterioro del nivel de conciencia de tipo fluctuante
-T44	SINTOMA 934 969	disminución del nivel de conciencia
-T45	SINTOMA 2508 2543	disminución del nivel de conciencia
-T46	SINTOMA 655 670	dolor abdominal
-T47	SINTOMA 853 890	dolor difuso a la palpación abdominal
-T48	SINTOMA 2001 2007	edemas
-T49	SINTOMA 1970 1995	estable hemodinámicamente
-T50	SINTOMA 2780 2790	estuporosa
-T51	SINTOMA 2049 2063	hiperpotasemia
-T52	SINTOMA 1387 1401	hiperpotasemia
-T53	SINTOMA 3443 3463	hipofosfatemia grave
-T54	SINTOMA 3468 3482	hipomagnesemia
-T55	SINTOMA 2031 2043	hiponatremia
-T56	SINTOMA 1366 1384	hiponatremia grave
-T57	SINTOMA 3485 3498	hipopotasemia
-T58	SINTOMA 648 653	mareo
-T59	SINTOMA 639 646	náuseas
-T60	SINTOMA 2742 2760	paraparesia en MSI
-T61	SINTOMA 2373 2406	parestesias en manos y periorales
-T62	SINTOMA 4602 4624	reserva adrenal normal
-T63	SINTOMA 687 720	salida de heces por la colostomía
-T64	SINTOMA 3936 3957	síntomas neurológicos
-T65	SINTOMA 2931 2953	TAC craneal fue normal
+T1	SINTOMA 1345 1364	acidosis metabólica
+T2	SINTOMA 2733 2739	afasia
+T3	SINTOMA 810 817	afebril
+T4	SINTOMA 2799 2806	afebril
+T5	SINTOMA 629 637	anorexia
+T6	SINTOMA 620 627	astenia
+T7	SINTOMA 723 766	aumento importante del débito de la fístula
+T8	SINTOMA 2546 2558	bradipsiquia
+T9	SINTOMA 4809 4844	buena situación clínica y analítica
+T10	SINTOMA 1958 1968	consciente
+T11	SINTOMA 2564 2608	conservación de la motilidad en extremidades
+T12	SINTOMA 746 801	débito de la fístula, en ocasiones con aspecto hemático
+T13	SINTOMA 1625 1668	descenso de la concentración de hemoglobina
+T14	SINTOMA 4297 4311	deshidratación
+T15	SINTOMA 1302 1316	deshidratación
+T16	SINTOMA 2675 2727	deterioro del nivel de conciencia de tipo fluctuante
+T17	SINTOMA 934 969	disminución del nivel de conciencia
+T18	SINTOMA 2508 2543	disminución del nivel de conciencia
+T19	SINTOMA 655 670	dolor abdominal
+T20	SINTOMA 853 890	dolor difuso a la palpación abdominal
+T21	SINTOMA 2001 2007	edemas
+T22	SINTOMA 1970 1995	estable hemodinámicamente
+T23	SINTOMA 2780 2790	estuporosa
+T24	SINTOMA 2049 2063	hiperpotasemia
+T25	SINTOMA 1387 1401	hiperpotasemia
+T26	SINTOMA 3443 3463	hipofosfatemia grave
+T27	SINTOMA 3468 3482	hipomagnesemia
+T28	SINTOMA 2031 2043	hiponatremia
+T29	SINTOMA 1366 1384	hiponatremia grave
+T30	SINTOMA 3485 3498	hipopotasemia
+T31	SINTOMA 648 653	mareo
+T32	SINTOMA 639 646	náuseas
+T33	SINTOMA 2742 2760	paraparesia en MSI
+T34	SINTOMA 2373 2406	parestesias en manos y periorales
+T35	SINTOMA 4602 4624	reserva adrenal normal
+T36	SINTOMA 687 720	salida de heces por la colostomía
+T37	SINTOMA 3936 3957	síntomas neurológicos
+T38	SINTOMA 2931 2953	TAC craneal fue normal
+T39	PROCEDIMIENTO 1515 1542	reposición con líquidos i.v
+T40	PROCEDIMIENTO 1573 1582	analítica
+T41	PROCEDIMIENTO 1694 1737	transfusión de dos concentrados de hematíes
+T42	PROCEDIMIENTO 183 241	diverticulitis perforada, tratada con técnica de Hart-mann
+T43	PROCEDIMIENTO 1906 1926	nutrición parenteral
+T44	PROCEDIMIENTO 2177 2180	NPT
+T45	PROCEDIMIENTO 2862 2865	NTP
+T46	PROCEDIMIENTO 2882 2894	sueroterapia
+T47	PROCEDIMIENTO 2897 2926	aporte empírico con vitaminas
+T48	PROCEDIMIENTO 2931 2942	TAC craneal
+T49	PROCEDIMIENTO 3040 3043	EEG
+T50	PROCEDIMIENTO 315 345	nutrición enteral por vía oral
+T51	PROCEDIMIENTO 3332 3335	ECG
+T52	PROCEDIMIENTO 3377 3396	gasometría arterial
+T53	PROCEDIMIENTO 3722 3742	nutrición parenteral
+T54	PROCEDIMIENTO 4008 4023	catéter central
+T55	PROCEDIMIENTO 4091 4121	nutrición enteral por vía oral
+T56	PROCEDIMIENTO 4124 4145	dieta oral modificada
+T57	PROCEDIMIENTO 4164 4167	NPT
+T58	PROCEDIMIENTO 4174 4186	fluidos i.v.
+T59	PROCEDIMIENTO 4402 4413	corticoides
+T60	PROCEDIMIENTO 4505 4536	cortisol tras estímulo con ACTH
+T61	PROCEDIMIENTO 4649 4698	cirugía de reconstrucción del tránsito intestinal
+T62	PROCEDIMIENTO 4835 4844	analítica
+T63	PROCEDIMIENTO 710 720	colostomía
+T64	PROCEDIMIENTO 871 890	palpación abdominal
+T65	PROCEDIMIENTO 989 1028	administración de líquidos intravenosos

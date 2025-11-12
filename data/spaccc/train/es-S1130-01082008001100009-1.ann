@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 406 421	hepatocarcinoma
-T2	ENFERMEDAD 730 763	hepatocarcinoma bien diferenciado
-T3	ENFERMEDAD 836 853	invasión vascular
-T4	ENFERMEDAD 667 673	lesión
-T5	SINTOMA 1001 1013	asintomática
-T6	SINTOMA 62 69	diarrea
-T7	SINTOMA 72 88	síndrome general
-T8	SINTOMA 327 392	masa hepática con crecimiento exofítico hacia fosa iliaca derecha
-T9	SINTOMA 152 188	masa palpable en fosa iliaca derecha
-T10	SINTOMA 542 616	niveles séricos de alfafetoproteína se encontraban dentro de la normalidad
-T11	SINTOMA 426 480	páncreas, bazo, riñones, útero y ovarios eran normales
-T12	SINTOMA 486 535	serologías de virus hepatotropos fueron negativas
+T1	SINTOMA 1001 1013	asintomática
+T2	SINTOMA 62 69	diarrea
+T3	SINTOMA 72 88	síndrome general
+T4	SINTOMA 327 392	masa hepática con crecimiento exofítico hacia fosa iliaca derecha
+T5	SINTOMA 152 188	masa palpable en fosa iliaca derecha
+T6	SINTOMA 542 616	niveles séricos de alfafetoproteína se encontraban dentro de la normalidad
+T7	SINTOMA 426 480	páncreas, bazo, riñones, útero y ovarios eran normales
+T8	SINTOMA 486 535	serologías de virus hepatotropos fueron negativas
+T9	ENFERMEDAD 406 421	hepatocarcinoma
+T10	ENFERMEDAD 730 763	hepatocarcinoma bien diferenciado
+T11	ENFERMEDAD 836 853	invasión vascular
+T12	ENFERMEDAD 667 673	lesión

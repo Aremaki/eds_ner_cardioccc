@@ -1,10 +1,10 @@
-T1	ENFERMEDAD 85 139	litiasis renal izquierda, pielocalicial inferior úrica
-T2	ENFERMEDAD 184 197	hidronefrosis
-T3	ENFERMEDAD 249 252	HTA
-T4	ENFERMEDAD 287 295	hematoma
-T5	ENFERMEDAD 543 551	hematoma
-T6	ENFERMEDAD 636 644	hematoma
-T7	ENFERMEDAD 448 468	hematoma subcapsular
-T8	SINTOMA 600 605	dolor
-T9	SINTOMA 381 393	dolor lumbar
-T10	SINTOMA 888 906	eco y UIV normales
+T1	SINTOMA 600 605	dolor
+T2	SINTOMA 381 393	dolor lumbar
+T3	SINTOMA 888 906	eco y UIV normales
+T4	ENFERMEDAD 85 139	litiasis renal izquierda, pielocalicial inferior úrica
+T5	ENFERMEDAD 184 197	hidronefrosis
+T6	ENFERMEDAD 249 252	HTA
+T7	ENFERMEDAD 287 295	hematoma
+T8	ENFERMEDAD 543 551	hematoma
+T9	ENFERMEDAD 636 644	hematoma
+T10	ENFERMEDAD 448 468	hematoma subcapsular

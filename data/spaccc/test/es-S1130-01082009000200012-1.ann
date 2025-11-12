@@ -1,19 +1,19 @@
-T1	ENFERMEDAD 52 70	Alzheimer moderado
-T2	ENFERMEDAD 294 308	neumoperitoneo
-T3	ENFERMEDAD 387 405	heces calcificadas
-T4	ENFERMEDAD 549 571	peritonitis fecaloidea
-T5	ENFERMEDAD 593 602	fecalomas
-T6	ENFERMEDAD 615 643	perforación a nivel de sigma
-T7	ENFERMEDAD 740 790	perforación a nivel del ángulo esplénico del colon
-T8	PROCEDIMIENTO 146 157	exploración
-T9	PROCEDIMIENTO 221 245	tomografía computerizada
-T10	PROCEDIMIENTO 247 249	CT
-T11	PROCEDIMIENTO 660 684	intervención de Hartmann
-T12	PROCEDIMIENTO 694 718	hemicolectomía izquierda
-T13	SINTOMA 86 101	dolor abdominal
-T14	SINTOMA 192 203	peritonismo
-T15	SINTOMA 167 189	dolor abdominal difuso
-T16	SINTOMA 133 139	fiebre
-T17	SINTOMA 314 369	infiltración y engrosamiento de toda la pared del colon
-T18	SINTOMA 279 292	líquido libre
-T19	SINTOMA 460 471	perforación
+T1	SINTOMA 86 101	dolor abdominal
+T2	SINTOMA 192 203	peritonismo
+T3	SINTOMA 167 189	dolor abdominal difuso
+T4	SINTOMA 133 139	fiebre
+T5	SINTOMA 314 369	infiltración y engrosamiento de toda la pared del colon
+T6	SINTOMA 279 292	líquido libre
+T7	SINTOMA 460 471	perforación
+T8	ENFERMEDAD 52 70	Alzheimer moderado
+T9	ENFERMEDAD 294 308	neumoperitoneo
+T10	ENFERMEDAD 387 405	heces calcificadas
+T11	ENFERMEDAD 549 571	peritonitis fecaloidea
+T12	ENFERMEDAD 593 602	fecalomas
+T13	ENFERMEDAD 615 643	perforación a nivel de sigma
+T14	ENFERMEDAD 740 790	perforación a nivel del ángulo esplénico del colon
+T15	PROCEDIMIENTO 146 157	exploración
+T16	PROCEDIMIENTO 221 245	tomografía computerizada
+T17	PROCEDIMIENTO 247 249	CT
+T18	PROCEDIMIENTO 660 684	intervención de Hartmann
+T19	PROCEDIMIENTO 694 718	hemicolectomía izquierda

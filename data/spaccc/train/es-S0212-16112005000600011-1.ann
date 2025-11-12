@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 52 71	alcoholismo crónico
-T2	ENFERMEDAD 91 111	pancreatitis crónica
-T3	ENFERMEDAD 2872 2882	diabéticos
-T4	ENFERMEDAD 114 152	diabetes mellitus insulino dependiente
-T5	ENFERMEDAD 3243 3249	anemia
-T6	ENFERMEDAD 3330 3347	ulceras cornéales
-T7	ENFERMEDAD 262 282	pancreatitis crónica
-T8	ENFERMEDAD 1238 1270	queratitis ulcerativa periférica
-T9	ENFERMEDAD 334 358	pseudoquiste pancreático
-T10	ENFERMEDAD 1341 1363	úlcera córneal central
-T11	ENFERMEDAD 486 537	colecistitis enfisematosa con absceso perivesicular
-T12	ENFERMEDAD 1769 1813	malnutrición calórica severa y proteica leve
-T13	ENFERMEDAD 2069 2084	hipoproteinemia
-T14	ENFERMEDAD 2196 2236	déficit severo de vitaminas liposolubles
-T15	ENFERMEDAD 2563 2580	malabsorción leve
-T16	ENFERMEDAD 1389 1396	hiphema
-T17	SINTOMA 1483 1518	cultivos cornéales fueron negativos
-T18	SINTOMA 2196 2236	déficit severo de vitaminas liposolubles
-T19	SINTOMA 1112 1144	disminución de la agudeza visual
-T20	SINTOMA 1051 1073	dolor ocular bilateral
-T21	SINTOMA 1075 1089	enrojecimiento
-T22	SINTOMA 1091 1098	escozor
-T23	SINTOMA 1524 1630	exploraciones por especialistas de otorrinolaringología, digestivo y reumatología fueron no significativas
-T24	SINTOMA 1100 1109	fotofobia
-T25	SINTOMA 839 936	heces que resulta con aumento de grasas y restos alimenticios, olor fétido y consistencia pastosa
-T26	SINTOMA 1389 1396	hiphema
-T27	SINTOMA 2069 2084	hipoproteinemia
-T28	SINTOMA 2563 2580	malabsorción leve
-T29	SINTOMA 1416 1433	percepción de luz
-T30	SINTOMA 1684 1699	pérdida de peso
-T31	SINTOMA 1850 1885	pérdida del 23% de su peso habitual
-T32	SINTOMA 1439 1477	pruebas de imagen resultaron negativas
-T33	SINTOMA 2413 2484	vita-minas del complejo B y vitamina C como el zinc resultaron normales
+T1	SINTOMA 1483 1518	cultivos cornéales fueron negativos
+T2	SINTOMA 2196 2236	déficit severo de vitaminas liposolubles
+T3	SINTOMA 1112 1144	disminución de la agudeza visual
+T4	SINTOMA 1051 1073	dolor ocular bilateral
+T5	SINTOMA 1075 1089	enrojecimiento
+T6	SINTOMA 1091 1098	escozor
+T7	SINTOMA 1524 1630	exploraciones por especialistas de otorrinolaringología, digestivo y reumatología fueron no significativas
+T8	SINTOMA 1100 1109	fotofobia
+T9	SINTOMA 839 936	heces que resulta con aumento de grasas y restos alimenticios, olor fétido y consistencia pastosa
+T10	SINTOMA 1389 1396	hiphema
+T11	SINTOMA 2069 2084	hipoproteinemia
+T12	SINTOMA 2563 2580	malabsorción leve
+T13	SINTOMA 1416 1433	percepción de luz
+T14	SINTOMA 1684 1699	pérdida de peso
+T15	SINTOMA 1850 1885	pérdida del 23% de su peso habitual
+T16	SINTOMA 1439 1477	pruebas de imagen resultaron negativas
+T17	SINTOMA 2413 2484	vita-minas del complejo B y vitamina C como el zinc resultaron normales
+T18	ENFERMEDAD 52 71	alcoholismo crónico
+T19	ENFERMEDAD 91 111	pancreatitis crónica
+T20	ENFERMEDAD 2872 2882	diabéticos
+T21	ENFERMEDAD 114 152	diabetes mellitus insulino dependiente
+T22	ENFERMEDAD 3243 3249	anemia
+T23	ENFERMEDAD 3330 3347	ulceras cornéales
+T24	ENFERMEDAD 262 282	pancreatitis crónica
+T25	ENFERMEDAD 1238 1270	queratitis ulcerativa periférica
+T26	ENFERMEDAD 334 358	pseudoquiste pancreático
+T27	ENFERMEDAD 1341 1363	úlcera córneal central
+T28	ENFERMEDAD 486 537	colecistitis enfisematosa con absceso perivesicular
+T29	ENFERMEDAD 1769 1813	malnutrición calórica severa y proteica leve
+T30	ENFERMEDAD 2069 2084	hipoproteinemia
+T31	ENFERMEDAD 2196 2236	déficit severo de vitaminas liposolubles
+T32	ENFERMEDAD 2563 2580	malabsorción leve
+T33	ENFERMEDAD 1389 1396	hiphema

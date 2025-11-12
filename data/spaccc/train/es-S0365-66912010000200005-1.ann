@@ -1,8 +1,8 @@
-T1	ENFERMEDAD 102 121	blefaritis anterior
-T2	ENFERMEDAD 221 230	chalazion
-T3	ENFERMEDAD 285 308	adenopatía preauricular
-T4	ENFERMEDAD 822 889	adenopatías de aspecto necrótico en diversos territorios linfáticos
-T5	ENFERMEDAD 420 437	carcinoma sebáceo
-T6	ENFERMEDAD 1071 1111	cambios tumorales en el párpado inferior
-T7	SINTOMA 163 198	nódulo indurado en párpado superior
-T8	SINTOMA 350 366	nódulo palpebral
+T1	SINTOMA 163 198	nódulo indurado en párpado superior
+T2	SINTOMA 350 366	nódulo palpebral
+T3	ENFERMEDAD 102 121	blefaritis anterior
+T4	ENFERMEDAD 221 230	chalazion
+T5	ENFERMEDAD 285 308	adenopatía preauricular
+T6	ENFERMEDAD 822 889	adenopatías de aspecto necrótico en diversos territorios linfáticos
+T7	ENFERMEDAD 420 437	carcinoma sebáceo
+T8	ENFERMEDAD 1071 1111	cambios tumorales en el párpado inferior

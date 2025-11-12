@@ -1,10 +1,10 @@
-T1	ENFERMEDAD 989 1006	leiomioma vesical
-T2	ENFERMEDAD 1157 1175	adenoma prostático
-T3	ENFERMEDAD 1728 1750	cistopatía incrustante
-T4	SINTOMA 432 472	alteración del aparato urinario superior
-T5	SINTOMA 626 693	analíticas de sangre y orina estaban dentro de los límites normales
-T6	SINTOMA 169 228	tumoración de 20 mm en la cara lateral derecha de la vejiga
-T7	SINTOMA 1188 1196	sangrado
-T8	SINTOMA 286 310	sintomatología miccional
-T9	SINTOMA 778 788	tumoración
-T10	SINTOMA 1048 1058	tumoración
+T1	SINTOMA 432 472	alteración del aparato urinario superior
+T2	SINTOMA 626 693	analíticas de sangre y orina estaban dentro de los límites normales
+T3	SINTOMA 169 228	tumoración de 20 mm en la cara lateral derecha de la vejiga
+T4	SINTOMA 1188 1196	sangrado
+T5	SINTOMA 286 310	sintomatología miccional
+T6	SINTOMA 778 788	tumoración
+T7	SINTOMA 1048 1058	tumoración
+T8	ENFERMEDAD 989 1006	leiomioma vesical
+T9	ENFERMEDAD 1157 1175	adenoma prostático
+T10	ENFERMEDAD 1728 1750	cistopatía incrustante

@@ -1,56 +1,56 @@
-T1	ENFERMEDAD 183 194	rectorragia
-T2	ENFERMEDAD 353 358	RS3PE
-T3	ENFERMEDAD 1816 1895	vejiga urinaria con engrosamiento del suelo vesical, con múltiples divertículos
-T4	ENFERMEDAD 1897 1919	hipertrofia prostática
-T5	ENFERMEDAD 2031 2090	divertículos y placas antracosis en todo el árbol bronquial
-T6	ENFERMEDAD 1711 1759	bronquiectasias cilíndricas de pared fina en LII
-T7	ENFERMEDAD 2888 2908	enfermedad de Poncet
-T8	ENFERMEDAD 1365 1382	lesiones erosivas
-T9	PROCEDIMIENTO 1053 1069	Serología de VIH
-T10	PROCEDIMIENTO 1294 1306	colonoscopia
-T11	PROCEDIMIENTO 1323 1351	radiografías de manos y pies
-T12	PROCEDIMIENTO 1390 1435	TAC torácica en el segmento posterior del LSD
-T13	PROCEDIMIENTO 1802 1815	TAC abdominal
-T14	PROCEDIMIENTO 1924 1936	broncoscopia
-T15	PROCEDIMIENTO 199 217	exploración física
-T16	PROCEDIMIENTO 2347 2364	biopsia bronquial
-T17	PROCEDIMIENTO 2382 2408	estudio citológico del BAS
-T18	PROCEDIMIENTO 2419 2425	frotis
-T19	PROCEDIMIENTO 2449 2477	cultivo de Löwestein del BAS
-T20	PROCEDIMIENTO 2474 2477	BAS
-T21	PROCEDIMIENTO 2595 2618	tratamiento corticoideo
-T22	PROCEDIMIENTO 2845 2868	tratamiento corticoideo
-T23	PROCEDIMIENTO 2939 2956	tuberculostáticos
-T24	PROCEDIMIENTO 2962 2985	retirar los corticoides
-T25	PROCEDIMIENTO 3055 3078	tratamiento corticoideo
-T26	PROCEDIMIENTO 674 684	bioquímica
-T27	PROCEDIMIENTO 918 931	proteinograma
-T28	SINTOMA 83 91	anorexia
-T29	SINTOMA 426 431	edema
-T30	SINTOMA 183 194	rectorragia
-T31	SINTOMA 2369 2377	sangrado
-T32	SINTOMA 945 974	banda monoclonal a IgA lambda
-T33	SINTOMA 882 910	Beta-2-microglobulina normal
-T34	SINTOMA 1711 1759	bronquiectasias cilíndricas de pared fina en LII
-T35	SINTOMA 850 880	Cobalaminas y folatos normales
-T36	SINTOMA 1294 1317	colonoscopia fue normal
-T37	SINTOMA 2449 2522	cultivo de Löwestein del BAS fue positivo para Mycobacterium tuberculosis
-T38	SINTOMA 233 317	edema con fóvea limitado a articulaciones metacarpofalángicas y metatarso falángicas
-T39	SINTOMA 2634 2655	edema de manos y pies
-T40	SINTOMA 3003 3024	edema en manos y pies
-T41	SINTOMA 134 155	edema en manos y pies
-T42	SINTOMA 1766 1800	engrosamiento de língula, y pleura
-T43	SINTOMA 2233 2282	entrada de LM había una masa de aspecto necrótico
-T44	SINTOMA 2184 2225	entrada LM se observa infiltración mucosa
-T45	SINTOMA 1083 1192	factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrófilo fueron negativos
-T46	SINTOMA 1225 1245	HLA-B27 fue positivo
-T47	SINTOMA 1026 1051	interleucina 6 fue normal
-T48	SINTOMA 1541 1668	LM también se observaba un infiltrado de morfología ramificada, nodular y una condensación subsegmentaria con broncograma aéreo
-T49	SINTOMA 979 1021	proteína C reactiva y la VSG eran normales
-T50	SINTOMA 1250 1289	proteinuria de Bence-Jones fue negativa
-T51	SINTOMA 1197 1211	PSA fue normal
-T52	SINTOMA 1409 1533	segmento posterior del LSD se apreciaba un infiltrado pulmonar que adoptaba una morfología ramificada (tree inbud) y nodular
-T53	SINTOMA 1053 1078	Serología de VIH negativa
-T54	SINTOMA 1670 1710	tractos pleuroparenquimatosos biapicales
-T55	SINTOMA 1950 2020	tráquea, y árbol bronquial izquierdo con signos inflamatorios crónicos
-T56	SINTOMA 1816 1867	vejiga urinaria con engrosamiento del suelo vesical
+T1	SINTOMA 83 91	anorexia
+T2	SINTOMA 426 431	edema
+T3	SINTOMA 183 194	rectorragia
+T4	SINTOMA 2369 2377	sangrado
+T5	SINTOMA 945 974	banda monoclonal a IgA lambda
+T6	SINTOMA 882 910	Beta-2-microglobulina normal
+T7	SINTOMA 1711 1759	bronquiectasias cilíndricas de pared fina en LII
+T8	SINTOMA 850 880	Cobalaminas y folatos normales
+T9	SINTOMA 1294 1317	colonoscopia fue normal
+T10	SINTOMA 2449 2522	cultivo de Löwestein del BAS fue positivo para Mycobacterium tuberculosis
+T11	SINTOMA 233 317	edema con fóvea limitado a articulaciones metacarpofalángicas y metatarso falángicas
+T12	SINTOMA 2634 2655	edema de manos y pies
+T13	SINTOMA 3003 3024	edema en manos y pies
+T14	SINTOMA 134 155	edema en manos y pies
+T15	SINTOMA 1766 1800	engrosamiento de língula, y pleura
+T16	SINTOMA 2233 2282	entrada de LM había una masa de aspecto necrótico
+T17	SINTOMA 2184 2225	entrada LM se observa infiltración mucosa
+T18	SINTOMA 1083 1192	factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrófilo fueron negativos
+T19	SINTOMA 1225 1245	HLA-B27 fue positivo
+T20	SINTOMA 1026 1051	interleucina 6 fue normal
+T21	SINTOMA 1541 1668	LM también se observaba un infiltrado de morfología ramificada, nodular y una condensación subsegmentaria con broncograma aéreo
+T22	SINTOMA 979 1021	proteína C reactiva y la VSG eran normales
+T23	SINTOMA 1250 1289	proteinuria de Bence-Jones fue negativa
+T24	SINTOMA 1197 1211	PSA fue normal
+T25	SINTOMA 1409 1533	segmento posterior del LSD se apreciaba un infiltrado pulmonar que adoptaba una morfología ramificada (tree inbud) y nodular
+T26	SINTOMA 1053 1078	Serología de VIH negativa
+T27	SINTOMA 1670 1710	tractos pleuroparenquimatosos biapicales
+T28	SINTOMA 1950 2020	tráquea, y árbol bronquial izquierdo con signos inflamatorios crónicos
+T29	SINTOMA 1816 1867	vejiga urinaria con engrosamiento del suelo vesical
+T30	ENFERMEDAD 183 194	rectorragia
+T31	ENFERMEDAD 353 358	RS3PE
+T32	ENFERMEDAD 1816 1895	vejiga urinaria con engrosamiento del suelo vesical, con múltiples divertículos
+T33	ENFERMEDAD 1897 1919	hipertrofia prostática
+T34	ENFERMEDAD 2031 2090	divertículos y placas antracosis en todo el árbol bronquial
+T35	ENFERMEDAD 1711 1759	bronquiectasias cilíndricas de pared fina en LII
+T36	ENFERMEDAD 2888 2908	enfermedad de Poncet
+T37	ENFERMEDAD 1365 1382	lesiones erosivas
+T38	PROCEDIMIENTO 1053 1069	Serología de VIH
+T39	PROCEDIMIENTO 1294 1306	colonoscopia
+T40	PROCEDIMIENTO 1323 1351	radiografías de manos y pies
+T41	PROCEDIMIENTO 1390 1435	TAC torácica en el segmento posterior del LSD
+T42	PROCEDIMIENTO 1802 1815	TAC abdominal
+T43	PROCEDIMIENTO 1924 1936	broncoscopia
+T44	PROCEDIMIENTO 199 217	exploración física
+T45	PROCEDIMIENTO 2347 2364	biopsia bronquial
+T46	PROCEDIMIENTO 2382 2408	estudio citológico del BAS
+T47	PROCEDIMIENTO 2419 2425	frotis
+T48	PROCEDIMIENTO 2449 2477	cultivo de Löwestein del BAS
+T49	PROCEDIMIENTO 2474 2477	BAS
+T50	PROCEDIMIENTO 2595 2618	tratamiento corticoideo
+T51	PROCEDIMIENTO 2845 2868	tratamiento corticoideo
+T52	PROCEDIMIENTO 2939 2956	tuberculostáticos
+T53	PROCEDIMIENTO 2962 2985	retirar los corticoides
+T54	PROCEDIMIENTO 3055 3078	tratamiento corticoideo
+T55	PROCEDIMIENTO 674 684	bioquímica
+T56	PROCEDIMIENTO 918 931	proteinograma

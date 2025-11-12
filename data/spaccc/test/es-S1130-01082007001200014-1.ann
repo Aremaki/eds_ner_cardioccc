@@ -1,31 +1,31 @@
-T1	ENFERMEDAD 921 1043	arterias de pequeño calibre, arteriolas y capilares alveolares de los pulmones se identificaron numerosos émbolos biliares
-T2	ENFERMEDAD 321 329	obesidad
-T3	ENFERMEDAD 63 72	depresión
-T4	ENFERMEDAD 1832 1848	embolismo biliar
-T5	ENFERMEDAD 75 96	hipertensión arterial
-T6	ENFERMEDAD 1867 1903	coagulación intravascular diseminada
-T7	ENFERMEDAD 1915 1921	sepsis
-T8	ENFERMEDAD 481 548	cálculo biliar (4,5 x 2,5 cm) impactado en el cuello de la vesícula
-T9	ENFERMEDAD 1103 1211	émbolos biliares en el hígado (sinusoides y venas portales), en la mucosa de la vesícula biliar y en el bazo
-T10	ENFERMEDAD 669 680	perforación
-T11	ENFERMEDAD 682 690	abscesos
-T12	ENFERMEDAD 1287 1416	trombos de fibrina en las arteriolas y capilares alveolares de los pulmones y en ramas de la vena porta y en sinusoides hepáticos
-T13	ENFERMEDAD 692 700	fístulas
-T14	ENFERMEDAD 703 714	peritonitis
-T15	ENFERMEDAD 1435 1464	necrosis focal de hepatocitos
-T16	ENFERMEDAD 1466 1506	leucocitosis en los sinusoides hepáticos
-T17	ENFERMEDAD 1466 1552	leucocitosis en los sinusoides hepáticos y en los pequeños vasos sanguíneos del pulmón
-T18	ENFERMEDAD 1589 1626	émbolos de colesterol en los pulmones
-T19	ENFERMEDAD 1656 1679	colecistitis gangrenosa
-T20	PROCEDIMIENTO 260 286	fármacos antiinflamatorios
-T21	PROCEDIMIENTO 301 309	autopsia
-T22	PROCEDIMIENTO 772 793	análisis toxicológico
-T23	PROCEDIMIENTO 802 817	benzodiazepinas
-T24	SINTOMA 176 191	dolor abdominal
-T25	SINTOMA 1822 1828	muerte
-T26	SINTOMA 802 887	benzodiazepinas, mianserina, ibuprofeno y ketoprofeno en concentraciones terapéuticas
-T27	SINTOMA 720 767	conductos cístico y colédoco estaban permeables
-T28	SINTOMA 650 667	exudado purulento
-T29	SINTOMA 113 119	muerta
-T30	SINTOMA 391 459	vesícula biliar estaba marcadamente distendida y aumentada de tamaño
-T31	SINTOMA 565 613	vesícula estaba engrosada y la mucosa hiperémica
+T1	SINTOMA 176 191	dolor abdominal
+T2	SINTOMA 1822 1828	muerte
+T3	SINTOMA 802 887	benzodiazepinas, mianserina, ibuprofeno y ketoprofeno en concentraciones terapéuticas
+T4	SINTOMA 720 767	conductos cístico y colédoco estaban permeables
+T5	SINTOMA 650 667	exudado purulento
+T6	SINTOMA 113 119	muerta
+T7	SINTOMA 391 459	vesícula biliar estaba marcadamente distendida y aumentada de tamaño
+T8	SINTOMA 565 613	vesícula estaba engrosada y la mucosa hiperémica
+T9	ENFERMEDAD 921 1043	arterias de pequeño calibre, arteriolas y capilares alveolares de los pulmones se identificaron numerosos émbolos biliares
+T10	ENFERMEDAD 321 329	obesidad
+T11	ENFERMEDAD 63 72	depresión
+T12	ENFERMEDAD 1832 1848	embolismo biliar
+T13	ENFERMEDAD 75 96	hipertensión arterial
+T14	ENFERMEDAD 1867 1903	coagulación intravascular diseminada
+T15	ENFERMEDAD 1915 1921	sepsis
+T16	ENFERMEDAD 481 548	cálculo biliar (4,5 x 2,5 cm) impactado en el cuello de la vesícula
+T17	ENFERMEDAD 1103 1211	émbolos biliares en el hígado (sinusoides y venas portales), en la mucosa de la vesícula biliar y en el bazo
+T18	ENFERMEDAD 669 680	perforación
+T19	ENFERMEDAD 682 690	abscesos
+T20	ENFERMEDAD 1287 1416	trombos de fibrina en las arteriolas y capilares alveolares de los pulmones y en ramas de la vena porta y en sinusoides hepáticos
+T21	ENFERMEDAD 692 700	fístulas
+T22	ENFERMEDAD 703 714	peritonitis
+T23	ENFERMEDAD 1435 1464	necrosis focal de hepatocitos
+T24	ENFERMEDAD 1466 1506	leucocitosis en los sinusoides hepáticos
+T25	ENFERMEDAD 1466 1552	leucocitosis en los sinusoides hepáticos y en los pequeños vasos sanguíneos del pulmón
+T26	ENFERMEDAD 1589 1626	émbolos de colesterol en los pulmones
+T27	ENFERMEDAD 1656 1679	colecistitis gangrenosa
+T28	PROCEDIMIENTO 260 286	fármacos antiinflamatorios
+T29	PROCEDIMIENTO 301 309	autopsia
+T30	PROCEDIMIENTO 772 793	análisis toxicológico
+T31	PROCEDIMIENTO 802 817	benzodiazepinas

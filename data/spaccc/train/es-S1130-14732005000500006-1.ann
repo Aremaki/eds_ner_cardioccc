@@ -1,52 +1,52 @@
-T1	ENFERMEDAD 75 109	leucemia linfoblástica aguda pre-B
-T2	ENFERMEDAD 1871 1918	hematoma ventral intradural extraparenquimatoso
-T3	ENFERMEDAD 2322 2353	coágulo sanguíneo subaracnoideo
-T4	ENFERMEDAD 2464 2472	hematoma
-T5	ENFERMEDAD 3493 3514	fracaso multiorgánico
-T6	ENFERMEDAD 2882 2890	hematoma
-T7	ENFERMEDAD 2828 2836	lesiones
-T8	ENFERMEDAD 2074 2080	lesión
-T9	ENFERMEDAD 1613 1634	paraparesia bilateral
-T10	PROCEDIMIENTO 1046 1048	PL
-T11	PROCEDIMIENTO 1103 1160	trans-fundir previamente varios concentrados de plaquetas
-T12	PROCEDIMIENTO 1274 1287	transfusiones
-T13	PROCEDIMIENTO 132 183	tratamiento quimioterápico intravenoso de inducción
-T14	PROCEDIMIENTO 1427 1429	PL
-T15	PROCEDIMIENTO 1821 1835	RM dorsolumbar
-T16	PROCEDIMIENTO 186 235	quimioterapia profiláctica intratecal mediante PL
-T17	PROCEDIMIENTO 1989 2022	administrar gadolinio intravenoso
-T18	PROCEDIMIENTO 2123 2163	laminectomía descompresiva desde L1 a L4
-T19	PROCEDIMIENTO 2170 2192	durotomía longitudinal
-T20	PROCEDIMIENTO 233 235	PL
-T21	PROCEDIMIENTO 2396 2407	exploración
-T22	PROCEDIMIENTO 2557 2595	incisión longitudinal de la aracnoides
-T23	PROCEDIMIENTO 2598 2674	tras separar las raíces dorsales de la cola de caballo se accedió al coágulo
-T24	PROCEDIMIENTO 2667 2726	coágulo. Sólo fue posible conseguir una extracción subtotal
-T25	PROCEDIMIENTO 2907 2922	acto quirúrgico
-T26	PROCEDIMIENTO 2930 2986	cierre del plano dural empleando una plastia liofilizada
-T27	PROCEDIMIENTO 3338 3360	tratamiento oncológico
-T28	PROCEDIMIENTO 3366 3392	transplante de médula ósea
-T29	PROCEDIMIENTO 3561 3584	intervención quirúrgica
-T30	PROCEDIMIENTO 3610 3619	RM lumbar
-T31	PROCEDIMIENTO 397 415	punciones lumbares
-T32	PROCEDIMIENTO 433 460	quimioprofilaxis intratecal
-T33	PROCEDIMIENTO 486 531	análisis repetidos de líquido cefalorraquídeo
-T34	PROCEDIMIENTO 828 851	transfusión plaquetaria
-T35	PROCEDIMIENTO 864 866	PL
-T36	PROCEDIMIENTO 944 966	ciclo de quimioterapia
-T37	PROCEDIMIENTO 997 1023	transplante de médula ósea
-T38	SINTOMA 1739 1791	alteraciones de la sensibilidad ni de los esfínteres
-T39	SINTOMA 3171 3197	alteraciones esfinterianas
-T40	SINTOMA 486 553	análisis repetidos de líquido cefalorraquídeo (LCR) fueron normales
-T41	SINTOMA 1465 1474	ciatalgia
-T42	SINTOMA 2220 2250	cola de caballo a gran tensión
-T43	SINTOMA 3201 3216	dolor radicular
-T44	SINTOMA 1521 1578	dolor radicular se asoció pérdida de fuerza en ambos MMII
-T45	SINTOMA 1659 1720	fuerza motora parcial (3/5) en la flexo-extensión de los pies
-T46	SINTOMA 3243 3293	leve acorchamiento residual en miembros inferiores
-T47	SINTOMA 1613 1634	paraparesia bilateral
-T48	SINTOMA 708 795	tiempos de protrombina (TP) y de tromboplastina parcial activada (TTPA) fueron normales
-T49	SINTOMA 1369 1392	TP y TTPA eran normales
-T50	SINTOMA 1186 1201	trombocitopenia
-T51	SINTOMA 1321 1336	trombocitopenia
-T52	SINTOMA 3520 3533	fallecimiento
+T1	SINTOMA 1739 1791	alteraciones de la sensibilidad ni de los esfínteres
+T2	SINTOMA 3171 3197	alteraciones esfinterianas
+T3	SINTOMA 486 553	análisis repetidos de líquido cefalorraquídeo (LCR) fueron normales
+T4	SINTOMA 1465 1474	ciatalgia
+T5	SINTOMA 2220 2250	cola de caballo a gran tensión
+T6	SINTOMA 3201 3216	dolor radicular
+T7	SINTOMA 1521 1578	dolor radicular se asoció pérdida de fuerza en ambos MMII
+T8	SINTOMA 1659 1720	fuerza motora parcial (3/5) en la flexo-extensión de los pies
+T9	SINTOMA 3243 3293	leve acorchamiento residual en miembros inferiores
+T10	SINTOMA 1613 1634	paraparesia bilateral
+T11	SINTOMA 708 795	tiempos de protrombina (TP) y de tromboplastina parcial activada (TTPA) fueron normales
+T12	SINTOMA 1369 1392	TP y TTPA eran normales
+T13	SINTOMA 1186 1201	trombocitopenia
+T14	SINTOMA 1321 1336	trombocitopenia
+T15	SINTOMA 3520 3533	fallecimiento
+T16	ENFERMEDAD 75 109	leucemia linfoblástica aguda pre-B
+T17	ENFERMEDAD 1871 1918	hematoma ventral intradural extraparenquimatoso
+T18	ENFERMEDAD 2322 2353	coágulo sanguíneo subaracnoideo
+T19	ENFERMEDAD 2464 2472	hematoma
+T20	ENFERMEDAD 3493 3514	fracaso multiorgánico
+T21	ENFERMEDAD 2882 2890	hematoma
+T22	ENFERMEDAD 2828 2836	lesiones
+T23	ENFERMEDAD 2074 2080	lesión
+T24	ENFERMEDAD 1613 1634	paraparesia bilateral
+T25	PROCEDIMIENTO 1046 1048	PL
+T26	PROCEDIMIENTO 1103 1160	trans-fundir previamente varios concentrados de plaquetas
+T27	PROCEDIMIENTO 1274 1287	transfusiones
+T28	PROCEDIMIENTO 132 183	tratamiento quimioterápico intravenoso de inducción
+T29	PROCEDIMIENTO 1427 1429	PL
+T30	PROCEDIMIENTO 1821 1835	RM dorsolumbar
+T31	PROCEDIMIENTO 186 235	quimioterapia profiláctica intratecal mediante PL
+T32	PROCEDIMIENTO 1989 2022	administrar gadolinio intravenoso
+T33	PROCEDIMIENTO 2123 2163	laminectomía descompresiva desde L1 a L4
+T34	PROCEDIMIENTO 2170 2192	durotomía longitudinal
+T35	PROCEDIMIENTO 233 235	PL
+T36	PROCEDIMIENTO 2396 2407	exploración
+T37	PROCEDIMIENTO 2557 2595	incisión longitudinal de la aracnoides
+T38	PROCEDIMIENTO 2598 2674	tras separar las raíces dorsales de la cola de caballo se accedió al coágulo
+T39	PROCEDIMIENTO 2667 2726	coágulo. Sólo fue posible conseguir una extracción subtotal
+T40	PROCEDIMIENTO 2907 2922	acto quirúrgico
+T41	PROCEDIMIENTO 2930 2986	cierre del plano dural empleando una plastia liofilizada
+T42	PROCEDIMIENTO 3338 3360	tratamiento oncológico
+T43	PROCEDIMIENTO 3366 3392	transplante de médula ósea
+T44	PROCEDIMIENTO 3561 3584	intervención quirúrgica
+T45	PROCEDIMIENTO 3610 3619	RM lumbar
+T46	PROCEDIMIENTO 397 415	punciones lumbares
+T47	PROCEDIMIENTO 433 460	quimioprofilaxis intratecal
+T48	PROCEDIMIENTO 486 531	análisis repetidos de líquido cefalorraquídeo
+T49	PROCEDIMIENTO 828 851	transfusión plaquetaria
+T50	PROCEDIMIENTO 864 866	PL
+T51	PROCEDIMIENTO 944 966	ciclo de quimioterapia
+T52	PROCEDIMIENTO 997 1023	transplante de médula ósea

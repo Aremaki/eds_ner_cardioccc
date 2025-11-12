@@ -1,27 +1,27 @@
-T1	ENFERMEDAD 1447 1480	hipertrofia maseterina unilateral
-T2	ENFERMEDAD 419 427	alergias
-T3	ENFERMEDAD 160 176	asimetría facial
-T4	ENFERMEDAD 1379 1399	hiperplasia condilar
-T5	PROCEDIMIENTO 1016 1038	radiografía panorámica
-T6	PROCEDIMIENTO 1107 1136	radiografía lateral de cráneo
-T7	PROCEDIMIENTO 1182 1205	teleradiografía frontal
-T8	PROCEDIMIENTO 1341 1359	escintigrafía ósea
-T9	PROCEDIMIENTO 1406 1422	electromiografía
-T10	PROCEDIMIENTO 1513 1570	resección del ángulo mandibular derecho por vía extraoral
-T11	PROCEDIMIENTO 1577 1594	anestesia general
-T12	PROCEDIMIENTO 1610 1681	acceso subángulo-mandibular derecho hasta exponer el ángulo ipsilateral
-T13	PROCEDIMIENTO 1697 1760	resección de dicho ángulo y de una porción del músculo masetero
-T14	PROCEDIMIENTO 1777 1796	biopsia del músculo
-T15	PROCEDIMIENTO 1928 1940	intervención
-T16	PROCEDIMIENTO 474 490	examen extraoral
-T17	PROCEDIMIENTO 599 608	palpación
-T18	PROCEDIMIENTO 736 749	examen de ATM
-T19	PROCEDIMIENTO 801 817	examen intraoral
-T20	SINTOMA 615 633	consistencia firme
-T21	SINTOMA 658 678	signos inflamatorios
-T22	SINTOMA 1056 1099	ángulo mandibular derecho mucho más marcado
-T23	SINTOMA 160 194	asimetría facial derecha, indolora
-T24	SINTOMA 505 558	aumento de volumen en la región del ángulo mandibular
-T25	SINTOMA 1148 1173	doble contorno mandibular
-T26	SINTOMA 635 643	indoloro
-T27	SINTOMA 907 945	secreción salival se presentaba normal
+T1	SINTOMA 615 633	consistencia firme
+T2	SINTOMA 658 678	signos inflamatorios
+T3	SINTOMA 1056 1099	ángulo mandibular derecho mucho más marcado
+T4	SINTOMA 160 194	asimetría facial derecha, indolora
+T5	SINTOMA 505 558	aumento de volumen en la región del ángulo mandibular
+T6	SINTOMA 1148 1173	doble contorno mandibular
+T7	SINTOMA 635 643	indoloro
+T8	SINTOMA 907 945	secreción salival se presentaba normal
+T9	ENFERMEDAD 1447 1480	hipertrofia maseterina unilateral
+T10	ENFERMEDAD 419 427	alergias
+T11	ENFERMEDAD 160 176	asimetría facial
+T12	ENFERMEDAD 1379 1399	hiperplasia condilar
+T13	PROCEDIMIENTO 1016 1038	radiografía panorámica
+T14	PROCEDIMIENTO 1107 1136	radiografía lateral de cráneo
+T15	PROCEDIMIENTO 1182 1205	teleradiografía frontal
+T16	PROCEDIMIENTO 1341 1359	escintigrafía ósea
+T17	PROCEDIMIENTO 1406 1422	electromiografía
+T18	PROCEDIMIENTO 1513 1570	resección del ángulo mandibular derecho por vía extraoral
+T19	PROCEDIMIENTO 1577 1594	anestesia general
+T20	PROCEDIMIENTO 1610 1681	acceso subángulo-mandibular derecho hasta exponer el ángulo ipsilateral
+T21	PROCEDIMIENTO 1697 1760	resección de dicho ángulo y de una porción del músculo masetero
+T22	PROCEDIMIENTO 1777 1796	biopsia del músculo
+T23	PROCEDIMIENTO 1928 1940	intervención
+T24	PROCEDIMIENTO 474 490	examen extraoral
+T25	PROCEDIMIENTO 599 608	palpación
+T26	PROCEDIMIENTO 736 749	examen de ATM
+T27	PROCEDIMIENTO 801 817	examen intraoral

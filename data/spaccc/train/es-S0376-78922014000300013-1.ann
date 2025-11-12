@@ -1,56 +1,56 @@
-T1	ENFERMEDAD 5036 5058	insuficiencia arterial
-T2	ENFERMEDAD 2100 2123	síndrome compartimental
-T3	ENFERMEDAD 1073 1121	herida lineal sobre superficie anterior de brazo
-T4	ENFERMEDAD 117 143	traumatismo sobre el brazo
-T5	ENFERMEDAD 1124 1159	sección completa de bíceps braquial
-T6	ENFERMEDAD 2629 2637	fractura
-T7	ENFERMEDAD 5108 5124	fractura humeral
-T8	ENFERMEDAD 201 255	fractura abierta transversal de tercio medio de húmero
-T9	ENFERMEDAD 1278 1332	fractura expuesta de tercio medio de húmero desplazada
-T10	ENFERMEDAD 342 380	lesión vascular de la arteria braquial
-T11	ENFERMEDAD 2388 2406	fractura de húmero
-T12	PROCEDIMIENTO 1396 1441	Mantuvimos la extremidad en isquemia caliente
-T13	PROCEDIMIENTO 1471 1526	reconstrucción secuencial de la extremidad en 2 tiempos
-T14	PROCEDIMIENTO 1561 1580	reparación vascular
-T15	PROCEDIMIENTO 1664 1725	injerto de vena safena mayor de extremidad inferior izquierda
-T16	PROCEDIMIENTO 1769 1840	arcada vasobraquial 10 cm. de injerto, con anastomosis término-terminal
-T17	PROCEDIMIENTO 1967 2001	revascularización de la extremidad
-T18	PROCEDIMIENTO 2051 2084	fasciotomía anterior de antebrazo
-T19	PROCEDIMIENTO 2183 2199	fijación interna
-T20	PROCEDIMIENTO 2333 2352	reparación vascular
-T21	PROCEDIMIENTO 2365 2428	fijación interna de la fractura de húmero con clavo endomedular
-T22	PROCEDIMIENTO 2546 2613	reconstrucción para la cobertura de las estructuras neurovasculares
-T23	PROCEDIMIENTO 2658 2714	transposición de colgajo músculo-cutáneo de dorsal ancho
-T24	PROCEDIMIENTO 2818 2825	colgajo
-T25	PROCEDIMIENTO 3184 3191	colgajo
-T26	PROCEDIMIENTO 3205 3296	disección cefálicamente sobre la superficie anterior del músculo hasta la zona subescapular
-T27	PROCEDIMIENTO 324 339	fijador externo
-T28	PROCEDIMIENTO 3309 3378	disección submuscular en el plano areolar próximo a la pared torácica
-T29	PROCEDIMIENTO 3396 3565	rama descendente de la arteria tóracodorsal, identificando primero las ramas que van hacia el músculo serrato, y la arteria escapular circunfleja, que se ligan y dividen
-T30	PROCEDIMIENTO 3681 3688	colgajo
-T31	PROCEDIMIENTO 4052 4068	injertos safenos
-T32	PROCEDIMIENTO 4072 4091	reparación vascular
-T33	PROCEDIMIENTO 4175 4201	sistema de drenaje cerrado
-T34	PROCEDIMIENTO 4226 4284	colgajo realizamos fijación proximal al proceso coracoides
-T35	PROCEDIMIENTO 4355 4394	fijamos al tendón bicipital con suturas
-T36	PROCEDIMIENTO 4449 4465	colgajo muscular
-T37	PROCEDIMIENTO 4474 4485	fasciotomia
-T38	PROCEDIMIENTO 4501 4588	injertos de espesor parcial a los 7 días de la trasposición del colgajo de dorsal ancho
-T39	PROCEDIMIENTO 478 496	exploración física
-T40	PROCEDIMIENTO 4871 4973	auscultación con doppler manual de 8 MhZ la vascularización del arco palmar superficial y del profundo
-T41	PROCEDIMIENTO 4978 5001	colgajo de dorsal ancho
-T42	PROCEDIMIENTO 5137 5179	injertos de vena safena a vasos braquiales
-T43	PROCEDIMIENTO 5235 5274	retirada del sistema de drenaje cerrado
-T44	PROCEDIMIENTO 5372 5386	terapia física
-T45	PROCEDIMIENTO 5653 5667	terapia física
-T46	PROCEDIMIENTO 681 819	doppler en tiempo real con sonda lineal de alta frecuencia en modo B que muestra flujo con ondas atenuadas en la arteria braquial proximal
-T47	PROCEDIMIENTO 893 906	doppler color
-T48	PROCEDIMIENTO 908 1003	doppler potencia y espectral, sin presencia de flujo en las arteria distales (radial y cubital)
-T49	SINTOMA 544 600	ausencia de pulsos periféricos distales radial y cubital
-T50	SINTOMA 5016 5033	congestión venosa
-T51	SINTOMA 1358 1384	disminución de temperatura
-T52	SINTOMA 629 655	disminución de temperatura
-T53	SINTOMA 4605 4634	edema distal de la extremidad
-T54	SINTOMA 5586 5620	limitación a la función de flexión
-T55	SINTOMA 602 626	prueba de Allen negativa
-T56	SINTOMA 1387 1394	rigidez
+T1	SINTOMA 544 600	ausencia de pulsos periféricos distales radial y cubital
+T2	SINTOMA 5016 5033	congestión venosa
+T3	SINTOMA 1358 1384	disminución de temperatura
+T4	SINTOMA 629 655	disminución de temperatura
+T5	SINTOMA 4605 4634	edema distal de la extremidad
+T6	SINTOMA 5586 5620	limitación a la función de flexión
+T7	SINTOMA 602 626	prueba de Allen negativa
+T8	SINTOMA 1387 1394	rigidez
+T9	ENFERMEDAD 5036 5058	insuficiencia arterial
+T10	ENFERMEDAD 2100 2123	síndrome compartimental
+T11	ENFERMEDAD 1073 1121	herida lineal sobre superficie anterior de brazo
+T12	ENFERMEDAD 117 143	traumatismo sobre el brazo
+T13	ENFERMEDAD 1124 1159	sección completa de bíceps braquial
+T14	ENFERMEDAD 2629 2637	fractura
+T15	ENFERMEDAD 5108 5124	fractura humeral
+T16	ENFERMEDAD 201 255	fractura abierta transversal de tercio medio de húmero
+T17	ENFERMEDAD 1278 1332	fractura expuesta de tercio medio de húmero desplazada
+T18	ENFERMEDAD 342 380	lesión vascular de la arteria braquial
+T19	ENFERMEDAD 2388 2406	fractura de húmero
+T20	PROCEDIMIENTO 1396 1441	Mantuvimos la extremidad en isquemia caliente
+T21	PROCEDIMIENTO 1471 1526	reconstrucción secuencial de la extremidad en 2 tiempos
+T22	PROCEDIMIENTO 1561 1580	reparación vascular
+T23	PROCEDIMIENTO 1664 1725	injerto de vena safena mayor de extremidad inferior izquierda
+T24	PROCEDIMIENTO 1769 1840	arcada vasobraquial 10 cm. de injerto, con anastomosis término-terminal
+T25	PROCEDIMIENTO 1967 2001	revascularización de la extremidad
+T26	PROCEDIMIENTO 2051 2084	fasciotomía anterior de antebrazo
+T27	PROCEDIMIENTO 2183 2199	fijación interna
+T28	PROCEDIMIENTO 2333 2352	reparación vascular
+T29	PROCEDIMIENTO 2365 2428	fijación interna de la fractura de húmero con clavo endomedular
+T30	PROCEDIMIENTO 2546 2613	reconstrucción para la cobertura de las estructuras neurovasculares
+T31	PROCEDIMIENTO 2658 2714	transposición de colgajo músculo-cutáneo de dorsal ancho
+T32	PROCEDIMIENTO 2818 2825	colgajo
+T33	PROCEDIMIENTO 3184 3191	colgajo
+T34	PROCEDIMIENTO 3205 3296	disección cefálicamente sobre la superficie anterior del músculo hasta la zona subescapular
+T35	PROCEDIMIENTO 324 339	fijador externo
+T36	PROCEDIMIENTO 3309 3378	disección submuscular en el plano areolar próximo a la pared torácica
+T37	PROCEDIMIENTO 3396 3565	rama descendente de la arteria tóracodorsal, identificando primero las ramas que van hacia el músculo serrato, y la arteria escapular circunfleja, que se ligan y dividen
+T38	PROCEDIMIENTO 3681 3688	colgajo
+T39	PROCEDIMIENTO 4052 4068	injertos safenos
+T40	PROCEDIMIENTO 4072 4091	reparación vascular
+T41	PROCEDIMIENTO 4175 4201	sistema de drenaje cerrado
+T42	PROCEDIMIENTO 4226 4284	colgajo realizamos fijación proximal al proceso coracoides
+T43	PROCEDIMIENTO 4355 4394	fijamos al tendón bicipital con suturas
+T44	PROCEDIMIENTO 4449 4465	colgajo muscular
+T45	PROCEDIMIENTO 4474 4485	fasciotomia
+T46	PROCEDIMIENTO 4501 4588	injertos de espesor parcial a los 7 días de la trasposición del colgajo de dorsal ancho
+T47	PROCEDIMIENTO 478 496	exploración física
+T48	PROCEDIMIENTO 4871 4973	auscultación con doppler manual de 8 MhZ la vascularización del arco palmar superficial y del profundo
+T49	PROCEDIMIENTO 4978 5001	colgajo de dorsal ancho
+T50	PROCEDIMIENTO 5137 5179	injertos de vena safena a vasos braquiales
+T51	PROCEDIMIENTO 5235 5274	retirada del sistema de drenaje cerrado
+T52	PROCEDIMIENTO 5372 5386	terapia física
+T53	PROCEDIMIENTO 5653 5667	terapia física
+T54	PROCEDIMIENTO 681 819	doppler en tiempo real con sonda lineal de alta frecuencia en modo B que muestra flujo con ondas atenuadas en la arteria braquial proximal
+T55	PROCEDIMIENTO 893 906	doppler color
+T56	PROCEDIMIENTO 908 1003	doppler potencia y espectral, sin presencia de flujo en las arteria distales (radial y cubital)

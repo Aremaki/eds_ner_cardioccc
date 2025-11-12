@@ -1,43 +1,43 @@
-T1	ENFERMEDAD 909 921	infertilidad
-T2	ENFERMEDAD 1923 1968	Testículo izquierdo de 4,68 cc con varicocele
-T3	ENFERMEDAD 1876 1899	teratozoospermia severa
-T4	ENFERMEDAD 304 338	enfermedades de transmisión sexual
-T5	ENFERMEDAD 788 798	varicocele
-T6	ENFERMEDAD 876 886	varicocele
-T7	ENFERMEDAD 528 557	alteraciones cardiopulmonares
-T8	ENFERMEDAD 1839 1854	Oligozoospermia
-T9	ENFERMEDAD 1856 1872	astenozoospermia
-T10	PROCEDIMIENTO 1051 1069	Biometría hemática
-T11	PROCEDIMIENTO 114 126	circuncidado
-T12	PROCEDIMIENTO 1155 1172	Química sanguínea
-T13	PROCEDIMIENTO 1341 1349	Hormonas
-T14	PROCEDIMIENTO 1467 1492	Cultivos de orina y semen
-T15	PROCEDIMIENTO 1504 1571	Búsqueda de Chlamydia, Micoplasma y Ureaplasma en secreción uretral
-T16	PROCEDIMIENTO 1583 1600	Análisis de semen
-T17	PROCEDIMIENTO 1901 1921	Ultrasonido escrotal
-T18	PROCEDIMIENTO 2080 2149	técnica de reacción en cadena polimerasa múltiplex de STS cromosoma Y
-T19	PROCEDIMIENTO 2151 2162	Múltiplex A
-T20	PROCEDIMIENTO 2234 2245	Múltiplex B
-T21	PROCEDIMIENTO 457 475	Exploración física
-T22	PROCEDIMIENTO 998 1019	estudio de fertilidad
-T23	SINTOMA 141 181	caracteres sexuales secundarios normales
-T24	SINTOMA 2025 2041	Cariotipo: 46,XY
-T25	SINTOMA 1516 1581	Chlamydia, Micoplasma y Ureaplasma en secreción uretral negativos
-T26	SINTOMA 1467 1502	Cultivos de orina y semen negativos
-T27	SINTOMA 76 109	Descenso testicular al nacimiento
-T28	SINTOMA 598 628	Distribución de vello androide
-T29	SINTOMA 2004 2023	epidídimos normales
-T30	SINTOMA 340 360	Erecciones matutinas
-T31	SINTOMA 998 1036	estudio de fertilidad sin alteraciones
-T32	SINTOMA 500 522	fascies característica
-T33	SINTOMA 477 495	Fenotipo masculino
-T34	SINTOMA 409 426	libido conservada
-T35	SINTOMA 559 573	mamas normales
-T36	SINTOMA 659 672	meato central
-T37	SINTOMA 2043 2070	Microdeleciones cromosoma Y
-T38	SINTOMA 639 657	prepucio retráctil
-T39	SINTOMA 432 455	problemas eyaculatorios
-T40	SINTOMA 370 407	problemas para la erección voluntaria
-T41	SINTOMA 1595 1656	semen: Aspecto normal, licuefacción normal, viscosidad normal
-T42	SINTOMA 810 850	testículo derecho de consistencia normal
-T43	SINTOMA 674 716	testículo izquierdo con volumen disminuido
+T1	SINTOMA 141 181	caracteres sexuales secundarios normales
+T2	SINTOMA 2025 2041	Cariotipo: 46,XY
+T3	SINTOMA 1516 1581	Chlamydia, Micoplasma y Ureaplasma en secreción uretral negativos
+T4	SINTOMA 1467 1502	Cultivos de orina y semen negativos
+T5	SINTOMA 76 109	Descenso testicular al nacimiento
+T6	SINTOMA 598 628	Distribución de vello androide
+T7	SINTOMA 2004 2023	epidídimos normales
+T8	SINTOMA 340 360	Erecciones matutinas
+T9	SINTOMA 998 1036	estudio de fertilidad sin alteraciones
+T10	SINTOMA 500 522	fascies característica
+T11	SINTOMA 477 495	Fenotipo masculino
+T12	SINTOMA 409 426	libido conservada
+T13	SINTOMA 559 573	mamas normales
+T14	SINTOMA 659 672	meato central
+T15	SINTOMA 2043 2070	Microdeleciones cromosoma Y
+T16	SINTOMA 639 657	prepucio retráctil
+T17	SINTOMA 432 455	problemas eyaculatorios
+T18	SINTOMA 370 407	problemas para la erección voluntaria
+T19	SINTOMA 1595 1656	semen: Aspecto normal, licuefacción normal, viscosidad normal
+T20	SINTOMA 810 850	testículo derecho de consistencia normal
+T21	SINTOMA 674 716	testículo izquierdo con volumen disminuido
+T22	ENFERMEDAD 909 921	infertilidad
+T23	ENFERMEDAD 1923 1968	Testículo izquierdo de 4,68 cc con varicocele
+T24	ENFERMEDAD 1876 1899	teratozoospermia severa
+T25	ENFERMEDAD 304 338	enfermedades de transmisión sexual
+T26	ENFERMEDAD 788 798	varicocele
+T27	ENFERMEDAD 876 886	varicocele
+T28	ENFERMEDAD 528 557	alteraciones cardiopulmonares
+T29	ENFERMEDAD 1839 1854	Oligozoospermia
+T30	ENFERMEDAD 1856 1872	astenozoospermia
+T31	PROCEDIMIENTO 1051 1069	Biometría hemática
+T32	PROCEDIMIENTO 114 126	circuncidado
+T33	PROCEDIMIENTO 1155 1172	Química sanguínea
+T34	PROCEDIMIENTO 1341 1349	Hormonas
+T35	PROCEDIMIENTO 1467 1492	Cultivos de orina y semen
+T36	PROCEDIMIENTO 1504 1571	Búsqueda de Chlamydia, Micoplasma y Ureaplasma en secreción uretral
+T37	PROCEDIMIENTO 1583 1600	Análisis de semen
+T38	PROCEDIMIENTO 1901 1921	Ultrasonido escrotal
+T39	PROCEDIMIENTO 2080 2149	técnica de reacción en cadena polimerasa múltiplex de STS cromosoma Y
+T40	PROCEDIMIENTO 2151 2162	Múltiplex A
+T41	PROCEDIMIENTO 2234 2245	Múltiplex B
+T42	PROCEDIMIENTO 457 475	Exploración física
+T43	PROCEDIMIENTO 998 1019	estudio de fertilidad

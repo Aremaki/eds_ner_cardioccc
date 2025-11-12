@@ -1,63 +1,63 @@
-T1	ENFERMEDAD 1490 1527	desnutrición energético-proteica leve
-T2	ENFERMEDAD 70 94	quilotórax posquirúrgico
-T3	ENFERMEDAD 1675 1687	desnutrición
-T4	ENFERMEDAD 112 127	cáncer de sigma
-T5	ENFERMEDAD 444 459	derrame pleural
-T6	ENFERMEDAD 2372 2396	derrame pleural loculado
-T7	ENFERMEDAD 268 278	quilotórax
-T8	ENFERMEDAD 4550 4585	déficit de ácidos grasos esenciales
-T9	ENFERMEDAD 658 668	quilotórax
-T10	ENFERMEDAD 2860 2873	hiperglucemia
-T11	ENFERMEDAD 2895 2924	reacción adversa a octreótido
-T12	ENFERMEDAD 2985 2991	anemia
-T13	ENFERMEDAD 1372 1392	déficits vitamínicos
-T14	PROCEDIMIENTO 1404 1422	Historia dietética
-T15	PROCEDIMIENTO 1612 1645	reposo el tracto gastrointestinal
-T16	PROCEDIMIENTO 164 188	metastasectomía hepática
-T17	PROCEDIMIENTO 1746 1761	drenaje pleural
-T18	PROCEDIMIENTO 1794 1865	necesidades calóricas estimadas mediante la ecuación de Harris-Benedict
-T19	PROCEDIMIENTO 2043 2063	nutrición parenteral
-T20	PROCEDIMIENTO 2065 2067	NP
-T21	PROCEDIMIENTO 2097 2108	aminoácidos
-T22	PROCEDIMIENTO 2136 2153	lípidos (MCT/LCT)
-T23	PROCEDIMIENTO 2174 2183	vitaminas
-T24	PROCEDIMIENTO 2186 2200	oligoelementos
-T25	PROCEDIMIENTO 2262 2277	drenaje pleural
-T26	PROCEDIMIENTO 2355 2364	ecografía
-T27	PROCEDIMIENTO 238 264	toracocentesis evacuadoras
-T28	PROCEDIMIENTO 2444 2513	urokinasa durante dos días consecutivos por el tubo de toracocentesis
-T29	PROCEDIMIENTO 2967 2977	bioquímica
-T30	PROCEDIMIENTO 3309 3324	drenaje pleural
-T31	PROCEDIMIENTO 3439 3457	alimentación mixta
-T32	PROCEDIMIENTO 3468 3532	nutrición enteral (NE) por vía oral con fórmula exenta de grasas
-T33	PROCEDIMIENTO 3487 3489	NE
-T34	PROCEDIMIENTO 3534 3549	Clinutren Fruit
-T35	PROCEDIMIENTO 3769 3771	NE
-T36	PROCEDIMIENTO 4015 4025	aceite MCT
-T37	PROCEDIMIENTO 4124 4126	NP
-T38	PROCEDIMIENTO 4171 4186	drenaje pleural
-T39	PROCEDIMIENTO 4187 4230	se retiró el tubo de toracocentesis y la NP
-T40	PROCEDIMIENTO 427 443	radiológicamente
-T41	PROCEDIMIENTO 529 544	drenaje pleural
-T42	PROCEDIMIENTO 850 864	dieta absoluta
-T43	PROCEDIMIENTO 867 883	drenaje torácico
-T44	PROCEDIMIENTO 937 967	soporte nutricional parenteral
-T45	SINTOMA 339 346	astenia
-T46	SINTOMA 1013 1028	pérdida de peso
-T47	SINTOMA 4280 4297	ganancia ponderal
-T48	SINTOMA 390 413	dificultad respiratoria
-T49	SINTOMA 2827 2847	distensión abdominal
-T50	SINTOMA 2849 2857	oliguria
-T51	SINTOMA 2776 2808	empeoramiento del estado general
-T52	SINTOMA 3035 3045	leucopenia
-T53	SINTOMA 2335 2350	aspecto quiloso
-T54	SINTOMA 2732 2746	aspecto seroso
-T55	SINTOMA 3392 3406	aspecto seroso
-T56	SINTOMA 1253 1281	capacidad funcional reducida
-T57	SINTOMA 2539 2554	drenaje quiloso
-T58	SINTOMA 1331 1348	edemas maleolares
-T59	SINTOMA 572 598	líquido de aspecto lechoso
-T60	SINTOMA 348 370	molestias en hemitórax
-T61	SINTOMA 4391 4403	PCR elevadas
-T62	SINTOMA 1194 1237	pérdida de grasa subcutánea y masa muscular
-T63	SINTOMA 3078 3093	trombocitopenia
+T1	SINTOMA 339 346	astenia
+T2	SINTOMA 1013 1028	pérdida de peso
+T3	SINTOMA 4280 4297	ganancia ponderal
+T4	SINTOMA 390 413	dificultad respiratoria
+T5	SINTOMA 2827 2847	distensión abdominal
+T6	SINTOMA 2849 2857	oliguria
+T7	SINTOMA 2776 2808	empeoramiento del estado general
+T8	SINTOMA 3035 3045	leucopenia
+T9	SINTOMA 2335 2350	aspecto quiloso
+T10	SINTOMA 2732 2746	aspecto seroso
+T11	SINTOMA 3392 3406	aspecto seroso
+T12	SINTOMA 1253 1281	capacidad funcional reducida
+T13	SINTOMA 2539 2554	drenaje quiloso
+T14	SINTOMA 1331 1348	edemas maleolares
+T15	SINTOMA 572 598	líquido de aspecto lechoso
+T16	SINTOMA 348 370	molestias en hemitórax
+T17	SINTOMA 4391 4403	PCR elevadas
+T18	SINTOMA 1194 1237	pérdida de grasa subcutánea y masa muscular
+T19	SINTOMA 3078 3093	trombocitopenia
+T20	ENFERMEDAD 1490 1527	desnutrición energético-proteica leve
+T21	ENFERMEDAD 70 94	quilotórax posquirúrgico
+T22	ENFERMEDAD 1675 1687	desnutrición
+T23	ENFERMEDAD 112 127	cáncer de sigma
+T24	ENFERMEDAD 444 459	derrame pleural
+T25	ENFERMEDAD 2372 2396	derrame pleural loculado
+T26	ENFERMEDAD 268 278	quilotórax
+T27	ENFERMEDAD 4550 4585	déficit de ácidos grasos esenciales
+T28	ENFERMEDAD 658 668	quilotórax
+T29	ENFERMEDAD 2860 2873	hiperglucemia
+T30	ENFERMEDAD 2895 2924	reacción adversa a octreótido
+T31	ENFERMEDAD 2985 2991	anemia
+T32	ENFERMEDAD 1372 1392	déficits vitamínicos
+T33	PROCEDIMIENTO 1404 1422	Historia dietética
+T34	PROCEDIMIENTO 1612 1645	reposo el tracto gastrointestinal
+T35	PROCEDIMIENTO 164 188	metastasectomía hepática
+T36	PROCEDIMIENTO 1746 1761	drenaje pleural
+T37	PROCEDIMIENTO 1794 1865	necesidades calóricas estimadas mediante la ecuación de Harris-Benedict
+T38	PROCEDIMIENTO 2043 2063	nutrición parenteral
+T39	PROCEDIMIENTO 2065 2067	NP
+T40	PROCEDIMIENTO 2097 2108	aminoácidos
+T41	PROCEDIMIENTO 2136 2153	lípidos (MCT/LCT)
+T42	PROCEDIMIENTO 2174 2183	vitaminas
+T43	PROCEDIMIENTO 2186 2200	oligoelementos
+T44	PROCEDIMIENTO 2262 2277	drenaje pleural
+T45	PROCEDIMIENTO 2355 2364	ecografía
+T46	PROCEDIMIENTO 238 264	toracocentesis evacuadoras
+T47	PROCEDIMIENTO 2444 2513	urokinasa durante dos días consecutivos por el tubo de toracocentesis
+T48	PROCEDIMIENTO 2967 2977	bioquímica
+T49	PROCEDIMIENTO 3309 3324	drenaje pleural
+T50	PROCEDIMIENTO 3439 3457	alimentación mixta
+T51	PROCEDIMIENTO 3468 3532	nutrición enteral (NE) por vía oral con fórmula exenta de grasas
+T52	PROCEDIMIENTO 3487 3489	NE
+T53	PROCEDIMIENTO 3534 3549	Clinutren Fruit
+T54	PROCEDIMIENTO 3769 3771	NE
+T55	PROCEDIMIENTO 4015 4025	aceite MCT
+T56	PROCEDIMIENTO 4124 4126	NP
+T57	PROCEDIMIENTO 4171 4186	drenaje pleural
+T58	PROCEDIMIENTO 4187 4230	se retiró el tubo de toracocentesis y la NP
+T59	PROCEDIMIENTO 427 443	radiológicamente
+T60	PROCEDIMIENTO 529 544	drenaje pleural
+T61	PROCEDIMIENTO 850 864	dieta absoluta
+T62	PROCEDIMIENTO 867 883	drenaje torácico
+T63	PROCEDIMIENTO 937 967	soporte nutricional parenteral

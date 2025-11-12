@@ -1,16 +1,16 @@
-T1	ENFERMEDAD 239 295	OI se apreciaba un abceso marginal, epiteliopatía difusa
-T2	ENFERMEDAD 132 138	anemia
-T3	ENFERMEDAD 140 174	varices en extremidades inferiores
-T4	ENFERMEDAD 176 188	hipocalcemia
-T5	ENFERMEDAD 191 215	gonartritis seronegativa
-T6	ENFERMEDAD 848 875	queratinización conjuntival
-T7	ENFERMEDAD 881 901	epiteliopatía difusa
-T8	ENFERMEDAD 1029 1061	hiperqueratinización conjuntival
-T9	ENFERMEDAD 298 325	queratinización conjuntival
-T10	ENFERMEDAD 538 551	epiteliopatía
-T11	SINTOMA 21 32	dolor en OI
-T12	SINTOMA 35 44	fotofobia
-T13	SINTOMA 1029 1061	hiperqueratinización conjuntival
-T14	SINTOMA 176 188	hipocalcemia
-T15	SINTOMA 848 875	queratinización conjuntival
-T16	SINTOMA 298 326	queratinización conjuntival.
+T1	SINTOMA 21 32	dolor en OI
+T2	SINTOMA 35 44	fotofobia
+T3	SINTOMA 1029 1061	hiperqueratinización conjuntival
+T4	SINTOMA 176 188	hipocalcemia
+T5	SINTOMA 848 875	queratinización conjuntival
+T6	SINTOMA 298 326	queratinización conjuntival.
+T7	ENFERMEDAD 239 295	OI se apreciaba un abceso marginal, epiteliopatía difusa
+T8	ENFERMEDAD 132 138	anemia
+T9	ENFERMEDAD 140 174	varices en extremidades inferiores
+T10	ENFERMEDAD 176 188	hipocalcemia
+T11	ENFERMEDAD 191 215	gonartritis seronegativa
+T12	ENFERMEDAD 848 875	queratinización conjuntival
+T13	ENFERMEDAD 881 901	epiteliopatía difusa
+T14	ENFERMEDAD 1029 1061	hiperqueratinización conjuntival
+T15	ENFERMEDAD 298 325	queratinización conjuntival
+T16	ENFERMEDAD 538 551	epiteliopatía

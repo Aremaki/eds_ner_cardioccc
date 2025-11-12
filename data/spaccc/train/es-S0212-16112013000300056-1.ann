@@ -1,46 +1,46 @@
-T1	ENFERMEDAD 21 51	enfermedad de Crohn ileocólica
-T2	ENFERMEDAD 1612 1636	disfunción multiorgánica
-T3	ENFERMEDAD 1653 1667	cuadro séptico
-T4	ENFERMEDAD 2572 2640	neumonía asociada a ventilación mecánica por Acinetobacter baumannii
-T5	ENFERMEDAD 983 996	shock séptico
-T6	ENFERMEDAD 2643 2678	polineuropatía del paciente crítico
-T7	ENFERMEDAD 1816 1840	hemorragia subaracnoidea
-T8	ENFERMEDAD 1343 1369	endocarditis sobre catéter
-T9	ENFERMEDAD 1895 1914	infartos esplénicos
-T10	ENFERMEDAD 1936 1962	émbolos sépticos múltiples
-T11	ENFERMEDAD 2452 2466	cuadro séptico
-T12	ENFERMEDAD 1776 1785	infección
-T13	ENFERMEDAD 1241 1270	vegetaciones sobre el catéter
-T14	ENFERMEDAD 2101 2126	catéter con la vegetación
-T15	PROCEDIMIENTO 1040 1060	radiografía de tórax
-T16	PROCEDIMIENTO 1215 1229	ecocardiograma
-T17	PROCEDIMIENTO 137 157	resección intestinal
-T18	PROCEDIMIENTO 1380 1403	tratamiento antibiótico
-T19	PROCEDIMIENTO 1524 1569	cirugía cardiaca para extraer ambos catéteres
-T20	PROCEDIMIENTO 1680 1703	tratamiento antibiótico
-T21	PROCEDIMIENTO 1719 1748	TC craneal y toraco-abdominal
-T22	PROCEDIMIENTO 175 194	ileostomía terminal
-T23	PROCEDIMIENTO 2141 2152	se aislaron
-T24	PROCEDIMIENTO 223 286	NPD mediante un dispositivo intravascular totalmente implantado
-T25	PROCEDIMIENTO 2352 2375	tratamiento antibiótico
-T26	PROCEDIMIENTO 2523 2543	ventilación mecánica
-T27	PROCEDIMIENTO 2557 2570	traqueostomía
-T28	PROCEDIMIENTO 2592 2612	ventilación mecánica
-T29	PROCEDIMIENTO 334 345	corticoides
-T30	PROCEDIMIENTO 583 595	hemocultivos
-T31	PROCEDIMIENTO 605 628	se sustituyó el catéter
-T32	PROCEDIMIENTO 641 710	retirándose solamente el reservorio y la porción proximal del catéter
-T33	SINTOMA 1457 1507	aislamientos previos de Staphylococcus epidermidis
-T34	SINTOMA 1999 2065	aislamientos: Staphylococcus epidermidis en el catéter funcionante
-T35	SINTOMA 1105 1183	catéter estaba situado desde la vena cava superior hasta el ventrículo derecho
-T36	SINTOMA 1842 1877	condensaciones parcheadas en pulmón
-T37	SINTOMA 2068 2126	crecimiento polimicrobiano en el catéter con la vegetación
-T38	SINTOMA 423 438	dolor abdominal
-T39	SINTOMA 946 961	dolor abdominal
-T40	SINTOMA 913 919	fiebre
-T41	SINTOMA 1080 1112	fragmento abandonado del catéter
-T42	SINTOMA 1816 1840	hemorragia subaracnoidea
-T43	SINTOMA 2141 2213	se aislaron Staphylococcus epidermidis, Ochrobactrum anthropi y un hongo
-T44	SINTOMA 396 411	síndrome febril
-T45	SINTOMA 546 595	Staphylococcus epidermidis en varios hemocultivos
-T46	SINTOMA 1241 1270	vegetaciones sobre el catéter
+T1	SINTOMA 1457 1507	aislamientos previos de Staphylococcus epidermidis
+T2	SINTOMA 1999 2065	aislamientos: Staphylococcus epidermidis en el catéter funcionante
+T3	SINTOMA 1105 1183	catéter estaba situado desde la vena cava superior hasta el ventrículo derecho
+T4	SINTOMA 1842 1877	condensaciones parcheadas en pulmón
+T5	SINTOMA 2068 2126	crecimiento polimicrobiano en el catéter con la vegetación
+T6	SINTOMA 423 438	dolor abdominal
+T7	SINTOMA 946 961	dolor abdominal
+T8	SINTOMA 913 919	fiebre
+T9	SINTOMA 1080 1112	fragmento abandonado del catéter
+T10	SINTOMA 1816 1840	hemorragia subaracnoidea
+T11	SINTOMA 2141 2213	se aislaron Staphylococcus epidermidis, Ochrobactrum anthropi y un hongo
+T12	SINTOMA 396 411	síndrome febril
+T13	SINTOMA 546 595	Staphylococcus epidermidis en varios hemocultivos
+T14	SINTOMA 1241 1270	vegetaciones sobre el catéter
+T15	ENFERMEDAD 21 51	enfermedad de Crohn ileocólica
+T16	ENFERMEDAD 1612 1636	disfunción multiorgánica
+T17	ENFERMEDAD 1653 1667	cuadro séptico
+T18	ENFERMEDAD 2572 2640	neumonía asociada a ventilación mecánica por Acinetobacter baumannii
+T19	ENFERMEDAD 983 996	shock séptico
+T20	ENFERMEDAD 2643 2678	polineuropatía del paciente crítico
+T21	ENFERMEDAD 1816 1840	hemorragia subaracnoidea
+T22	ENFERMEDAD 1343 1369	endocarditis sobre catéter
+T23	ENFERMEDAD 1895 1914	infartos esplénicos
+T24	ENFERMEDAD 1936 1962	émbolos sépticos múltiples
+T25	ENFERMEDAD 2452 2466	cuadro séptico
+T26	ENFERMEDAD 1776 1785	infección
+T27	ENFERMEDAD 1241 1270	vegetaciones sobre el catéter
+T28	ENFERMEDAD 2101 2126	catéter con la vegetación
+T29	PROCEDIMIENTO 1040 1060	radiografía de tórax
+T30	PROCEDIMIENTO 1215 1229	ecocardiograma
+T31	PROCEDIMIENTO 137 157	resección intestinal
+T32	PROCEDIMIENTO 1380 1403	tratamiento antibiótico
+T33	PROCEDIMIENTO 1524 1569	cirugía cardiaca para extraer ambos catéteres
+T34	PROCEDIMIENTO 1680 1703	tratamiento antibiótico
+T35	PROCEDIMIENTO 1719 1748	TC craneal y toraco-abdominal
+T36	PROCEDIMIENTO 175 194	ileostomía terminal
+T37	PROCEDIMIENTO 2141 2152	se aislaron
+T38	PROCEDIMIENTO 223 286	NPD mediante un dispositivo intravascular totalmente implantado
+T39	PROCEDIMIENTO 2352 2375	tratamiento antibiótico
+T40	PROCEDIMIENTO 2523 2543	ventilación mecánica
+T41	PROCEDIMIENTO 2557 2570	traqueostomía
+T42	PROCEDIMIENTO 2592 2612	ventilación mecánica
+T43	PROCEDIMIENTO 334 345	corticoides
+T44	PROCEDIMIENTO 583 595	hemocultivos
+T45	PROCEDIMIENTO 605 628	se sustituyó el catéter
+T46	PROCEDIMIENTO 641 710	retirándose solamente el reservorio y la porción proximal del catéter

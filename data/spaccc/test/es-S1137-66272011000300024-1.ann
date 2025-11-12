@@ -1,64 +1,64 @@
-T1	ENFERMEDAD 2453 2487	panadizo creció Klebsiella oxytoca
-T2	ENFERMEDAD 2178 2222	riñón izquierdo múltiples quistes corticales
-T3	ENFERMEDAD 2569 2587	diabetes tipo MODY
-T4	ENFERMEDAD 2030 2043	útero bicorne
-T5	ENFERMEDAD 2130 2158	agenesia dorsal del páncreas
-T6	ENFERMEDAD 541 563	mal control metabólico
-T7	ENFERMEDAD 2501 2548	vulvovaginal fue positivo para Candida albicans
-T8	ENFERMEDAD 74 82	diabetes
-T9	ENFERMEDAD 96 116	agenesia pancreática
-T10	ENFERMEDAD 968 986	Mandíbula en farol
-T11	ENFERMEDAD 2674 2751	delección en heterozigosis de, al menos, los exones del 1 al 8 del gen HNF1 β
-T12	ENFERMEDAD 640 661	infecciones urinarias
-T13	ENFERMEDAD 691 715	candidiasis vulvovaginal
-T14	ENFERMEDAD 3201 3221	dermopatía diabética
-T15	ENFERMEDAD 2981 2999	lesiones micóticas
-T16	ENFERMEDAD 211 263	descompensación hiperglucémica cetósica no acidótica
-T17	ENFERMEDAD 718 728	paroniquia
-T18	ENFERMEDAD 2391 2428	Ausencia de cuerpo y cola pancreática
-T19	ENFERMEDAD 1220 1284	Lesiones eritematosas y pruriginosas en región vulvar y perianal
-T20	ENFERMEDAD 1299 1310	candidiasis
-T21	ENFERMEDAD 1312 1342	Paroniquia en cuarto dedo mano
-T22	ENFERMEDAD 1352 1400	Dermopatía diabética extensa en piernas y brazos
-T23	ENFERMEDAD 456 465	diabético
-T24	ENFERMEDAD 2312 2348	dilatación del sistema pielocalicial
-T25	PROCEDIMIENTO 1006 1008	AC
-T26	PROCEDIMIENTO 1011 1013	AP
-T27	PROCEDIMIENTO 1427 1436	Hemograma
-T28	PROCEDIMIENTO 1551 1566	Perfil hepático
-T29	PROCEDIMIENTO 2004 2028	Exploración ginecológica
-T30	PROCEDIMIENTO 2045 2073	Exploración del fondo de ojo
-T31	PROCEDIMIENTO 2076 2088	retinografía
-T32	PROCEDIMIENTO 2097 2128	TC abdominopélvico con contaste
-T33	PROCEDIMIENTO 2160 2173	ECO abdominal
-T34	PROCEDIMIENTO 2430 2461	Cultivo de exudado del panadizo
-T35	PROCEDIMIENTO 2493 2513	cultivo vulvovaginal
-T36	PROCEDIMIENTO 2600 2659	estudio genético mediante PCR semicuantitativa fluorescente
-T37	PROCEDIMIENTO 2910 2923	óvulo vaginal
-T38	PROCEDIMIENTO 368 389	tratamiento dietético
-T39	PROCEDIMIENTO 499 508	anamnesis
-T40	PROCEDIMIENTO 852 870	exploración física
-T41	SINTOMA 1427 1443	Hemograma normal
-T42	SINTOMA 1022 1085	Abdomen blando y depresible, no doloroso, sin masas ni megalias
-T43	SINTOMA 1006 1020	AC y AP normal
-T44	SINTOMA 3472 3496	aumento de transaminasas
-T45	SINTOMA 2391 2428	Ausencia de cuerpo y cola pancreática
-T46	SINTOMA 311 329	control metabólico
-T47	SINTOMA 2493 2548	cultivo vulvovaginal fue positivo para Candida albicans
-T48	SINTOMA 2441 2487	exudado del panadizo creció Klebsiella oxytoca
-T49	SINTOMA 2061 2095	fondo de ojo y retinografía normal
-T50	SINTOMA 3356 3412	función renal se ha mantenido dentro de límites normales
-T51	SINTOMA 1220 1284	Lesiones eritematosas y pruriginosas en región vulvar y perianal
-T52	SINTOMA 3415 3440	microalbuminuria negativa
-T53	SINTOMA 1087 1102	MMII sin edemas
-T54	SINTOMA 1312 1342	Paroniquia en cuarto dedo mano
-T55	SINTOMA 798 823	pérdida de 6,4 kg de peso
-T56	SINTOMA 1551 1573	Perfil hepático normal
-T57	SINTOMA 767 777	polidipsia
-T58	SINTOMA 779 787	poliuria
-T59	SINTOMA 1105 1135	pulsos periféricos conservados
-T60	SINTOMA 1182 1218	reflejos osteotendinosos conservados
-T61	SINTOMA 2369 2389	Riñón derecho normal
-T62	SINTOMA 486 491	sanos
-T63	SINTOMA 1137 1160	Sensibilidad vibratoria
-T64	SINTOMA 2030 2043	útero bicorne
+T1	SINTOMA 1427 1443	Hemograma normal
+T2	SINTOMA 1022 1085	Abdomen blando y depresible, no doloroso, sin masas ni megalias
+T3	SINTOMA 1006 1020	AC y AP normal
+T4	SINTOMA 3472 3496	aumento de transaminasas
+T5	SINTOMA 2391 2428	Ausencia de cuerpo y cola pancreática
+T6	SINTOMA 311 329	control metabólico
+T7	SINTOMA 2493 2548	cultivo vulvovaginal fue positivo para Candida albicans
+T8	SINTOMA 2441 2487	exudado del panadizo creció Klebsiella oxytoca
+T9	SINTOMA 2061 2095	fondo de ojo y retinografía normal
+T10	SINTOMA 3356 3412	función renal se ha mantenido dentro de límites normales
+T11	SINTOMA 1220 1284	Lesiones eritematosas y pruriginosas en región vulvar y perianal
+T12	SINTOMA 3415 3440	microalbuminuria negativa
+T13	SINTOMA 1087 1102	MMII sin edemas
+T14	SINTOMA 1312 1342	Paroniquia en cuarto dedo mano
+T15	SINTOMA 798 823	pérdida de 6,4 kg de peso
+T16	SINTOMA 1551 1573	Perfil hepático normal
+T17	SINTOMA 767 777	polidipsia
+T18	SINTOMA 779 787	poliuria
+T19	SINTOMA 1105 1135	pulsos periféricos conservados
+T20	SINTOMA 1182 1218	reflejos osteotendinosos conservados
+T21	SINTOMA 2369 2389	Riñón derecho normal
+T22	SINTOMA 486 491	sanos
+T23	SINTOMA 1137 1160	Sensibilidad vibratoria
+T24	SINTOMA 2030 2043	útero bicorne
+T25	ENFERMEDAD 2453 2487	panadizo creció Klebsiella oxytoca
+T26	ENFERMEDAD 2178 2222	riñón izquierdo múltiples quistes corticales
+T27	ENFERMEDAD 2569 2587	diabetes tipo MODY
+T28	ENFERMEDAD 2030 2043	útero bicorne
+T29	ENFERMEDAD 2130 2158	agenesia dorsal del páncreas
+T30	ENFERMEDAD 541 563	mal control metabólico
+T31	ENFERMEDAD 2501 2548	vulvovaginal fue positivo para Candida albicans
+T32	ENFERMEDAD 74 82	diabetes
+T33	ENFERMEDAD 96 116	agenesia pancreática
+T34	ENFERMEDAD 968 986	Mandíbula en farol
+T35	ENFERMEDAD 2674 2751	delección en heterozigosis de, al menos, los exones del 1 al 8 del gen HNF1 β
+T36	ENFERMEDAD 640 661	infecciones urinarias
+T37	ENFERMEDAD 691 715	candidiasis vulvovaginal
+T38	ENFERMEDAD 3201 3221	dermopatía diabética
+T39	ENFERMEDAD 2981 2999	lesiones micóticas
+T40	ENFERMEDAD 211 263	descompensación hiperglucémica cetósica no acidótica
+T41	ENFERMEDAD 718 728	paroniquia
+T42	ENFERMEDAD 2391 2428	Ausencia de cuerpo y cola pancreática
+T43	ENFERMEDAD 1220 1284	Lesiones eritematosas y pruriginosas en región vulvar y perianal
+T44	ENFERMEDAD 1299 1310	candidiasis
+T45	ENFERMEDAD 1312 1342	Paroniquia en cuarto dedo mano
+T46	ENFERMEDAD 1352 1400	Dermopatía diabética extensa en piernas y brazos
+T47	ENFERMEDAD 456 465	diabético
+T48	ENFERMEDAD 2312 2348	dilatación del sistema pielocalicial
+T49	PROCEDIMIENTO 1006 1008	AC
+T50	PROCEDIMIENTO 1011 1013	AP
+T51	PROCEDIMIENTO 1427 1436	Hemograma
+T52	PROCEDIMIENTO 1551 1566	Perfil hepático
+T53	PROCEDIMIENTO 2004 2028	Exploración ginecológica
+T54	PROCEDIMIENTO 2045 2073	Exploración del fondo de ojo
+T55	PROCEDIMIENTO 2076 2088	retinografía
+T56	PROCEDIMIENTO 2097 2128	TC abdominopélvico con contaste
+T57	PROCEDIMIENTO 2160 2173	ECO abdominal
+T58	PROCEDIMIENTO 2430 2461	Cultivo de exudado del panadizo
+T59	PROCEDIMIENTO 2493 2513	cultivo vulvovaginal
+T60	PROCEDIMIENTO 2600 2659	estudio genético mediante PCR semicuantitativa fluorescente
+T61	PROCEDIMIENTO 2910 2923	óvulo vaginal
+T62	PROCEDIMIENTO 368 389	tratamiento dietético
+T63	PROCEDIMIENTO 499 508	anamnesis
+T64	PROCEDIMIENTO 852 870	exploración física

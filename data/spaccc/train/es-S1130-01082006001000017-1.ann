@@ -1,9 +1,9 @@
-T1	ENFERMEDAD 56 72	hernia umbilical
-T2	ENFERMEDAD 86 89	HTA
-T3	ENFERMEDAD 597 619	endometriosis de colon
-T4	ENFERMEDAD 587 593	lesión
-T5	SINTOMA 207 250	dolor difuso a la palpación profunda en FII
-T6	SINTOMA 102 114	dolor en FII
-T7	SINTOMA 156 171	heces acintadas
-T8	SINTOMA 376 411	imagen estenosante a nivel de sigma
-T9	SINTOMA 139 153	tenesmo rectal
+T1	SINTOMA 207 250	dolor difuso a la palpación profunda en FII
+T2	SINTOMA 102 114	dolor en FII
+T3	SINTOMA 156 171	heces acintadas
+T4	SINTOMA 376 411	imagen estenosante a nivel de sigma
+T5	SINTOMA 139 153	tenesmo rectal
+T6	ENFERMEDAD 56 72	hernia umbilical
+T7	ENFERMEDAD 86 89	HTA
+T8	ENFERMEDAD 597 619	endometriosis de colon
+T9	ENFERMEDAD 587 593	lesión

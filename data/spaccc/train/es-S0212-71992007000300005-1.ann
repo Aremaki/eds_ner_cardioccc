@@ -1,78 +1,78 @@
-T1	ENFERMEDAD 71 80	exfumador
-T2	ENFERMEDAD 133 158	válvula aórtica bicúspide
-T3	ENFERMEDAD 269 280	peritonitis
-T4	ENFERMEDAD 329 376	trombosis venosa profunda (TVP) fémoro-poplítea
-T5	ENFERMEDAD 508 539	síndrome de hipercoagulabilidad
-T6	ENFERMEDAD 2091 2116	válvula aórtica bicúspide
-T7	ENFERMEDAD 2434 2458	tromboembolismo pulmonar
-T8	ENFERMEDAD 3679 3712	síndrome antifosfolípido primario
-T9	ENFERMEDAD 3715 3734	hemorragia pulmonar
-T10	ENFERMEDAD 221 266	diverticulitis de sigma aguda con perforación
-T11	ENFERMEDAD 356 359	TVP
-T12	PROCEDIMIENTO 1177 1195	exploración física
-T13	PROCEDIMIENTO 1323 1333	colostomía
-T14	PROCEDIMIENTO 1338 1347	analítica
-T15	PROCEDIMIENTO 1615 1625	bioquímica
-T16	PROCEDIMIENTO 1631 1636	iones
-T17	PROCEDIMIENTO 1639 1652	transaminasas
-T18	PROCEDIMIENTO 1671 1689	sedimento urinario
-T19	PROCEDIMIENTO 1950 1969	Gasometría arterial
-T20	PROCEDIMIENTO 2020 2038	electrocardiograma
-T21	PROCEDIMIENTO 2058 2072	ecocardiograma
-T22	PROCEDIMIENTO 206 280	intervenido de diverticulitis de sigma aguda con perforación y peritonitis
-T23	PROCEDIMIENTO 2144 2164	radiografía de tórax
-T24	PROCEDIMIENTO 2244 2256	hemocultivos
-T25	PROCEDIMIENTO 2262 2310	cultivo de esputo para bacterias y mycobacterias
-T26	PROCEDIMIENTO 2332 2368	gammagrafía de ventilación/perfusión
-T27	PROCEDIMIENTO 2386 2411	angiotomografia computada
-T28	PROCEDIMIENTO 2486 2512	tratamiento anticoagulante
-T29	PROCEDIMIENTO 2686 2706	radiografía de tórax
-T30	PROCEDIMIENTO 2723 2735	broncoscopia
-T31	PROCEDIMIENTO 2791 2817	cultivo del broncoaspirado
-T32	PROCEDIMIENTO 2888 2897	citología
-T33	PROCEDIMIENTO 2936 2948	espirometría
-T34	PROCEDIMIENTO 2950 2970	volúmenes pulmonares
-T35	PROCEDIMIENTO 2973 2981	difusión
-T36	PROCEDIMIENTO 303 315	intervención
-T37	PROCEDIMIENTO 3090 3146	tomografía axial computada con cortes de alta resolución
-T38	PROCEDIMIENTO 3148 3153	TACAR
-T39	PROCEDIMIENTO 3246 3258	broncoscopia
-T40	PROCEDIMIENTO 3304 3325	lavado broncoalveolar
-T41	PROCEDIMIENTO 3327 3330	LBA
-T42	PROCEDIMIENTO 3446 3472	tinción con azul de Prusia
-T43	PROCEDIMIENTO 3901 3921	radiografía de tórax
-T44	PROCEDIMIENTO 3927 3943	función pulmonar
-T45	PROCEDIMIENTO 3945 3957	espirometría
-T46	PROCEDIMIENTO 3959 3967	difusión
-T47	PROCEDIMIENTO 3970 3986	gases arteriales
-T48	PROCEDIMIENTO 4025 4029	TACA
-T49	SINTOMA 4051 4078	áreas de vidrio deslustrado
-T50	SINTOMA 960 967	astenia
-T51	SINTOMA 1615 1666	bioquímica, los iones y transaminasas eran normales
-T52	SINTOMA 2723 2773	broncoscopia en la que no se encontraron anomalías
-T53	SINTOMA 1210 1229	buen estado general
-T54	SINTOMA 2888 2931	citología no se observaron células malignas
-T55	SINTOMA 2791 2879	cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
-T56	SINTOMA 1102 1131	disnea de moderados esfuerzos
-T57	SINTOMA 2020 2049	electrocardiograma fue normal
-T58	SINTOMA 3540 3616	elevados los niveles de anticuerpos anticardiolipina y anticoagulante lúpico
-T59	SINTOMA 2936 2997	espirometría, volúmenes pulmonares y difusión fueron normales
-T60	SINTOMA 3059 3077	esputos hemoptoico
-T61	SINTOMA 2642 2661	esputos hemoptoicos
-T62	SINTOMA 3860 3879	esputos hemoptoicos
-T63	SINTOMA 1076 1100	expectoración hemoptoica
-T64	SINTOMA 1716 1948	Factor reumatoide, crioglobulinas, anticuerpos antinucleares (ANA), anticuerpos anticitoplasma del neutrófilo (ANCA), antimembrana basal glomerular, antiperoxidasa, antihistona, anti-Ro, anti-SSA y antiSM fueron normales o negativos
-T65	SINTOMA 1137 1143	fiebre
-T66	SINTOMA 2612 2618	fiebre
-T67	SINTOMA 970 989	fiebre intermitente
-T68	SINTOMA 163 187	función sistólica normal
-T69	SINTOMA 2244 2327	hemocultivos y el cultivo de esputo para bacterias y mycobacterias fueron negativos
-T70	SINTOMA 2176 2210	infiltrados alveolares bilaterales
-T71	SINTOMA 2668 2706	infiltrados en la radiografía de tórax
-T72	SINTOMA 3179 3234	infiltrados pulmonares bilaterales y vidrio deslustrado
-T73	SINTOMA 893 932	proteína S y proteína C fueron normales
-T74	SINTOMA 3901 4005	radiografía de tórax y la función pulmonar (espirometría, difusión y gases arteriales) se mantuvo normal
-T75	SINTOMA 1485 1518	recuento de leucocitos era normal
-T76	SINTOMA 1671 1714	sedimento urinario no mostraba alteraciones
-T77	SINTOMA 2215 2238	silueta cardiaca normal
-T78	SINTOMA 2091 2116	válvula aórtica bicúspide
+T1	SINTOMA 4051 4078	áreas de vidrio deslustrado
+T2	SINTOMA 960 967	astenia
+T3	SINTOMA 1615 1666	bioquímica, los iones y transaminasas eran normales
+T4	SINTOMA 2723 2773	broncoscopia en la que no se encontraron anomalías
+T5	SINTOMA 1210 1229	buen estado general
+T6	SINTOMA 2888 2931	citología no se observaron células malignas
+T7	SINTOMA 2791 2879	cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+T8	SINTOMA 1102 1131	disnea de moderados esfuerzos
+T9	SINTOMA 2020 2049	electrocardiograma fue normal
+T10	SINTOMA 3540 3616	elevados los niveles de anticuerpos anticardiolipina y anticoagulante lúpico
+T11	SINTOMA 2936 2997	espirometría, volúmenes pulmonares y difusión fueron normales
+T12	SINTOMA 3059 3077	esputos hemoptoico
+T13	SINTOMA 2642 2661	esputos hemoptoicos
+T14	SINTOMA 3860 3879	esputos hemoptoicos
+T15	SINTOMA 1076 1100	expectoración hemoptoica
+T16	SINTOMA 1716 1948	Factor reumatoide, crioglobulinas, anticuerpos antinucleares (ANA), anticuerpos anticitoplasma del neutrófilo (ANCA), antimembrana basal glomerular, antiperoxidasa, antihistona, anti-Ro, anti-SSA y antiSM fueron normales o negativos
+T17	SINTOMA 1137 1143	fiebre
+T18	SINTOMA 2612 2618	fiebre
+T19	SINTOMA 970 989	fiebre intermitente
+T20	SINTOMA 163 187	función sistólica normal
+T21	SINTOMA 2244 2327	hemocultivos y el cultivo de esputo para bacterias y mycobacterias fueron negativos
+T22	SINTOMA 2176 2210	infiltrados alveolares bilaterales
+T23	SINTOMA 2668 2706	infiltrados en la radiografía de tórax
+T24	SINTOMA 3179 3234	infiltrados pulmonares bilaterales y vidrio deslustrado
+T25	SINTOMA 893 932	proteína S y proteína C fueron normales
+T26	SINTOMA 3901 4005	radiografía de tórax y la función pulmonar (espirometría, difusión y gases arteriales) se mantuvo normal
+T27	SINTOMA 1485 1518	recuento de leucocitos era normal
+T28	SINTOMA 1671 1714	sedimento urinario no mostraba alteraciones
+T29	SINTOMA 2215 2238	silueta cardiaca normal
+T30	SINTOMA 2091 2116	válvula aórtica bicúspide
+T31	ENFERMEDAD 71 80	exfumador
+T32	ENFERMEDAD 133 158	válvula aórtica bicúspide
+T33	ENFERMEDAD 269 280	peritonitis
+T34	ENFERMEDAD 329 376	trombosis venosa profunda (TVP) fémoro-poplítea
+T35	ENFERMEDAD 508 539	síndrome de hipercoagulabilidad
+T36	ENFERMEDAD 2091 2116	válvula aórtica bicúspide
+T37	ENFERMEDAD 2434 2458	tromboembolismo pulmonar
+T38	ENFERMEDAD 3679 3712	síndrome antifosfolípido primario
+T39	ENFERMEDAD 3715 3734	hemorragia pulmonar
+T40	ENFERMEDAD 221 266	diverticulitis de sigma aguda con perforación
+T41	ENFERMEDAD 356 359	TVP
+T42	PROCEDIMIENTO 1177 1195	exploración física
+T43	PROCEDIMIENTO 1323 1333	colostomía
+T44	PROCEDIMIENTO 1338 1347	analítica
+T45	PROCEDIMIENTO 1615 1625	bioquímica
+T46	PROCEDIMIENTO 1631 1636	iones
+T47	PROCEDIMIENTO 1639 1652	transaminasas
+T48	PROCEDIMIENTO 1671 1689	sedimento urinario
+T49	PROCEDIMIENTO 1950 1969	Gasometría arterial
+T50	PROCEDIMIENTO 2020 2038	electrocardiograma
+T51	PROCEDIMIENTO 2058 2072	ecocardiograma
+T52	PROCEDIMIENTO 206 280	intervenido de diverticulitis de sigma aguda con perforación y peritonitis
+T53	PROCEDIMIENTO 2144 2164	radiografía de tórax
+T54	PROCEDIMIENTO 2244 2256	hemocultivos
+T55	PROCEDIMIENTO 2262 2310	cultivo de esputo para bacterias y mycobacterias
+T56	PROCEDIMIENTO 2332 2368	gammagrafía de ventilación/perfusión
+T57	PROCEDIMIENTO 2386 2411	angiotomografia computada
+T58	PROCEDIMIENTO 2486 2512	tratamiento anticoagulante
+T59	PROCEDIMIENTO 2686 2706	radiografía de tórax
+T60	PROCEDIMIENTO 2723 2735	broncoscopia
+T61	PROCEDIMIENTO 2791 2817	cultivo del broncoaspirado
+T62	PROCEDIMIENTO 2888 2897	citología
+T63	PROCEDIMIENTO 2936 2948	espirometría
+T64	PROCEDIMIENTO 2950 2970	volúmenes pulmonares
+T65	PROCEDIMIENTO 2973 2981	difusión
+T66	PROCEDIMIENTO 303 315	intervención
+T67	PROCEDIMIENTO 3090 3146	tomografía axial computada con cortes de alta resolución
+T68	PROCEDIMIENTO 3148 3153	TACAR
+T69	PROCEDIMIENTO 3246 3258	broncoscopia
+T70	PROCEDIMIENTO 3304 3325	lavado broncoalveolar
+T71	PROCEDIMIENTO 3327 3330	LBA
+T72	PROCEDIMIENTO 3446 3472	tinción con azul de Prusia
+T73	PROCEDIMIENTO 3901 3921	radiografía de tórax
+T74	PROCEDIMIENTO 3927 3943	función pulmonar
+T75	PROCEDIMIENTO 3945 3957	espirometría
+T76	PROCEDIMIENTO 3959 3967	difusión
+T77	PROCEDIMIENTO 3970 3986	gases arteriales
+T78	PROCEDIMIENTO 4025 4029	TACA

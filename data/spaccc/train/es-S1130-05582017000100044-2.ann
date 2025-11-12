@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 49 73	paragangliomas múltiples
-T2	ENFERMEDAD 102 123	paraganglioma yugular
-T3	ENFERMEDAD 246 265	paraganglioma vagal
-T4	ENFERMEDAD 409 425	parálisis facial
-T5	ENFERMEDAD 476 483	cofosis
-T6	ENFERMEDAD 486 534	parálisis de los pares craneales IX, X, XI y XII
-T7	ENFERMEDAD 605 613	disfagia
-T8	ENFERMEDAD 615 623	disfonía
-T9	ENFERMEDAD 954 957	SPM
-T10	ENFERMEDAD 1151 1159	disfonía
-T11	ENFERMEDAD 283 301	progresión tumoral
-T12	ENFERMEDAD 329 342	paraganglioma
-T13	SINTOMA 1188 1203	cuadro doloroso
-T14	SINTOMA 645 696	dolor muy intenso en la región infra y preauricular
-T15	SINTOMA 605 613	disfagia
-T16	SINTOMA 1151 1159	disfonía
-T17	SINTOMA 615 623	disfonía
+T1	SINTOMA 1188 1203	cuadro doloroso
+T2	SINTOMA 645 696	dolor muy intenso en la región infra y preauricular
+T3	SINTOMA 605 613	disfagia
+T4	SINTOMA 1151 1159	disfonía
+T5	SINTOMA 615 623	disfonía
+T6	ENFERMEDAD 49 73	paragangliomas múltiples
+T7	ENFERMEDAD 102 123	paraganglioma yugular
+T8	ENFERMEDAD 246 265	paraganglioma vagal
+T9	ENFERMEDAD 409 425	parálisis facial
+T10	ENFERMEDAD 476 483	cofosis
+T11	ENFERMEDAD 486 534	parálisis de los pares craneales IX, X, XI y XII
+T12	ENFERMEDAD 605 613	disfagia
+T13	ENFERMEDAD 615 623	disfonía
+T14	ENFERMEDAD 954 957	SPM
+T15	ENFERMEDAD 1151 1159	disfonía
+T16	ENFERMEDAD 283 301	progresión tumoral
+T17	ENFERMEDAD 329 342	paraganglioma

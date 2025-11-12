@@ -1,47 +1,47 @@
-T1	ENFERMEDAD 46 65	artritis reumatoide
-T2	ENFERMEDAD 134 151	diarreico crónico
-T3	ENFERMEDAD 309 354	perforación iatrogénica del colon descendente
-T4	ENFERMEDAD 2659 2672	tumor vesical
-T5	ENFERMEDAD 443 465	perforación intestinal
-T6	ENFERMEDAD 1120 1131	anemización
-T7	ENFERMEDAD 3425 3455	amiloidosis vesical secundaria
-T8	ENFERMEDAD 2247 2285	patología del tracto urinario superior
-T9	ENFERMEDAD 2475 2481	lesión
-T10	ENFERMEDAD 2726 2732	lesión
-T11	PROCEDIMIENTO 104 109	AINES
-T12	PROCEDIMIENTO 1158 1213	transfusión de seis unidades de concentrado de hematíes
-T13	PROCEDIMIENTO 1336 1348	intervención
-T14	PROCEDIMIENTO 1470 1482	intervención
-T15	PROCEDIMIENTO 1494 1503	ecografía
-T16	PROCEDIMIENTO 1570 1581	cistoscopia
-T17	PROCEDIMIENTO 1884 1901	pruebas de imagen
-T18	PROCEDIMIENTO 1903 1924	urografía intravenosa
-T19	PROCEDIMIENTO 2151 2154	TAC
-T20	PROCEDIMIENTO 2376 2410	exploración bajo anestesia general
-T21	PROCEDIMIENTO 2436 2453	lavado con Ellick
-T22	PROCEDIMIENTO 261 285	colonoscopia diagnóstica
-T23	PROCEDIMIENTO 2659 2706	tumor vesical se realizó resección transuretral
-T24	PROCEDIMIENTO 2745 2771	estudio anatomo-patológico
-T25	PROCEDIMIENTO 2919 2950	tinción con hematoxilina-eosina
-T26	PROCEDIMIENTO 3034 3056	tinción con rojo congo
-T27	PROCEDIMIENTO 3077 3103	estudio inmunohistoquímico
-T28	PROCEDIMIENTO 3122 3207	anticuerpos monoclonales (clone mcl) específicos frente a la proteína AA del amiloide
-T29	PROCEDIMIENTO 3555 3567	intervención
-T30	PROCEDIMIENTO 3694 3706	cistoscopias
-T31	PROCEDIMIENTO 3887 3910	controles cistoscópicos
-T32	PROCEDIMIENTO 564 623	laparotomía media con sutura primaria del colon descendente
-T33	PROCEDIMIENTO 633 640	sondaje
-T34	PROCEDIMIENTO 924 936	intervención
-T35	PROCEDIMIENTO 996 1019	lavado vesical continuo
-T36	SINTOMA 1806 1857	coágulo filiforme que asomaba por el meato ureteral
-T37	SINTOMA 1740 1745	dolor
-T38	SINTOMA 2344 2363	emisión de coágulos
-T39	SINTOMA 970 979	hematuria
-T40	SINTOMA 2329 2338	hematuria
-T41	SINTOMA 1274 1283	hematuria
-T42	SINTOMA 710 726	hematuria franca
-T43	SINTOMA 2053 2099	múltiples defectos de repleción intravesicales
-T44	SINTOMA 1613 1658	ocupación intraluminal por un gran un coágulo
-T45	SINTOMA 1515 1567	ocupación vesical por una imagen que sugería coágulo
-T46	SINTOMA 2807 2837	presencia de material amiloide
-T47	SINTOMA 1962 2032	sistemas ureteropielocaliciales, que aparecían discretamente ectásicos
+T1	SINTOMA 1806 1857	coágulo filiforme que asomaba por el meato ureteral
+T2	SINTOMA 1740 1745	dolor
+T3	SINTOMA 2344 2363	emisión de coágulos
+T4	SINTOMA 970 979	hematuria
+T5	SINTOMA 2329 2338	hematuria
+T6	SINTOMA 1274 1283	hematuria
+T7	SINTOMA 710 726	hematuria franca
+T8	SINTOMA 2053 2099	múltiples defectos de repleción intravesicales
+T9	SINTOMA 1613 1658	ocupación intraluminal por un gran un coágulo
+T10	SINTOMA 1515 1567	ocupación vesical por una imagen que sugería coágulo
+T11	SINTOMA 2807 2837	presencia de material amiloide
+T12	SINTOMA 1962 2032	sistemas ureteropielocaliciales, que aparecían discretamente ectásicos
+T13	ENFERMEDAD 46 65	artritis reumatoide
+T14	ENFERMEDAD 134 151	diarreico crónico
+T15	ENFERMEDAD 309 354	perforación iatrogénica del colon descendente
+T16	ENFERMEDAD 2659 2672	tumor vesical
+T17	ENFERMEDAD 443 465	perforación intestinal
+T18	ENFERMEDAD 1120 1131	anemización
+T19	ENFERMEDAD 3425 3455	amiloidosis vesical secundaria
+T20	ENFERMEDAD 2247 2285	patología del tracto urinario superior
+T21	ENFERMEDAD 2475 2481	lesión
+T22	ENFERMEDAD 2726 2732	lesión
+T23	PROCEDIMIENTO 104 109	AINES
+T24	PROCEDIMIENTO 1158 1213	transfusión de seis unidades de concentrado de hematíes
+T25	PROCEDIMIENTO 1336 1348	intervención
+T26	PROCEDIMIENTO 1470 1482	intervención
+T27	PROCEDIMIENTO 1494 1503	ecografía
+T28	PROCEDIMIENTO 1570 1581	cistoscopia
+T29	PROCEDIMIENTO 1884 1901	pruebas de imagen
+T30	PROCEDIMIENTO 1903 1924	urografía intravenosa
+T31	PROCEDIMIENTO 2151 2154	TAC
+T32	PROCEDIMIENTO 2376 2410	exploración bajo anestesia general
+T33	PROCEDIMIENTO 2436 2453	lavado con Ellick
+T34	PROCEDIMIENTO 261 285	colonoscopia diagnóstica
+T35	PROCEDIMIENTO 2659 2706	tumor vesical se realizó resección transuretral
+T36	PROCEDIMIENTO 2745 2771	estudio anatomo-patológico
+T37	PROCEDIMIENTO 2919 2950	tinción con hematoxilina-eosina
+T38	PROCEDIMIENTO 3034 3056	tinción con rojo congo
+T39	PROCEDIMIENTO 3077 3103	estudio inmunohistoquímico
+T40	PROCEDIMIENTO 3122 3207	anticuerpos monoclonales (clone mcl) específicos frente a la proteína AA del amiloide
+T41	PROCEDIMIENTO 3555 3567	intervención
+T42	PROCEDIMIENTO 3694 3706	cistoscopias
+T43	PROCEDIMIENTO 3887 3910	controles cistoscópicos
+T44	PROCEDIMIENTO 564 623	laparotomía media con sutura primaria del colon descendente
+T45	PROCEDIMIENTO 633 640	sondaje
+T46	PROCEDIMIENTO 924 936	intervención
+T47	PROCEDIMIENTO 996 1019	lavado vesical continuo

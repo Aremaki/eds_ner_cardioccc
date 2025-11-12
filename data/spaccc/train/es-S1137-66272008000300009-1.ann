@@ -1,32 +1,32 @@
-T1	ENFERMEDAD 36 65	bocio difuso normofuncionante
-T2	ENFERMEDAD 67 92	mioma uterino calcificado
-T3	ENFERMEDAD 2231 2255	adenopatías mesentéricas
-T4	ENFERMEDAD 2291 2306	útero miomatoso
-T5	ENFERMEDAD 1199 1243	calcificaciones uterinas sugestivas de mioma
-T6	ENFERMEDAD 2949 2972	endometriosis ileocecal
-T7	ENFERMEDAD 1673 1708	útero miomatoso con calcificaciones
-T8	ENFERMEDAD 755 770	visceromegalias
-T9	ENFERMEDAD 567 577	cicatrices
-T10	ENFERMEDAD 2898 2904	lesión
-T11	SINTOMA 555 603	abdomen sin cicatrices, distendido y timpanizado
-T12	SINTOMA 1156 1197	ausencia de gas en colon y ampolla rectal
-T13	SINTOMA 1556 1613	colon no dilatado con opacificación con el contraste oral
-T14	SINTOMA 2063 2087	dilatación de asas de ID
-T15	SINTOMA 1432 1456	dilatación de asas de ID
-T16	SINTOMA 1083 1153	dilatación de asas del intestino delgado (ID), con niveles hidroaéreos
-T17	SINTOMA 208 230	dolor abdominal cólico
-T18	SINTOMA 2090 2134	engrosamiento estenosante en ileon terminal,
-T19	SINTOMA 1292 1322	gas e hiperperistaltismo en ID
-T20	SINTOMA 937 1027	glucosa, iones, función renal, enzimas hepáticos, amilasa, sistemático de orina...) normal
-T21	SINTOMA 845 886	leucocitosis con predominio granulocítico
-T22	SINTOMA 1630 1671	líquido libre a nivel del saco de Douglas
-T23	SINTOMA 1344 1385	líquido libre entre las asas intestinales
-T24	SINTOMA 2041 2061	líquido libre seroso
-T25	SINTOMA 737 770	palparse masas ni visceromegalias
-T26	SINTOMA 772 796	peristaltismo disminuido
-T27	SINTOMA 241 261	distensión abdominal
-T28	SINTOMA 271 292	deposiciones líquidas
-T29	SINTOMA 504 523	buen estado general
-T30	SINTOMA 529 553	estabilidad hemodinámica
-T31	SINTOMA 709 730	irritación peritoneal
-T32	SINTOMA 605 651	doloroso a la palpación en hemiabdomen derecho
+T1	SINTOMA 555 603	abdomen sin cicatrices, distendido y timpanizado
+T2	SINTOMA 1156 1197	ausencia de gas en colon y ampolla rectal
+T3	SINTOMA 1556 1613	colon no dilatado con opacificación con el contraste oral
+T4	SINTOMA 2063 2087	dilatación de asas de ID
+T5	SINTOMA 1432 1456	dilatación de asas de ID
+T6	SINTOMA 1083 1153	dilatación de asas del intestino delgado (ID), con niveles hidroaéreos
+T7	SINTOMA 208 230	dolor abdominal cólico
+T8	SINTOMA 2090 2134	engrosamiento estenosante en ileon terminal,
+T9	SINTOMA 1292 1322	gas e hiperperistaltismo en ID
+T10	SINTOMA 937 1027	glucosa, iones, función renal, enzimas hepáticos, amilasa, sistemático de orina...) normal
+T11	SINTOMA 845 886	leucocitosis con predominio granulocítico
+T12	SINTOMA 1630 1671	líquido libre a nivel del saco de Douglas
+T13	SINTOMA 1344 1385	líquido libre entre las asas intestinales
+T14	SINTOMA 2041 2061	líquido libre seroso
+T15	SINTOMA 737 770	palparse masas ni visceromegalias
+T16	SINTOMA 772 796	peristaltismo disminuido
+T17	SINTOMA 241 261	distensión abdominal
+T18	SINTOMA 271 292	deposiciones líquidas
+T19	SINTOMA 504 523	buen estado general
+T20	SINTOMA 529 553	estabilidad hemodinámica
+T21	SINTOMA 709 730	irritación peritoneal
+T22	SINTOMA 605 651	doloroso a la palpación en hemiabdomen derecho
+T23	ENFERMEDAD 36 65	bocio difuso normofuncionante
+T24	ENFERMEDAD 67 92	mioma uterino calcificado
+T25	ENFERMEDAD 2231 2255	adenopatías mesentéricas
+T26	ENFERMEDAD 2291 2306	útero miomatoso
+T27	ENFERMEDAD 1199 1243	calcificaciones uterinas sugestivas de mioma
+T28	ENFERMEDAD 2949 2972	endometriosis ileocecal
+T29	ENFERMEDAD 1673 1708	útero miomatoso con calcificaciones
+T30	ENFERMEDAD 755 770	visceromegalias
+T31	ENFERMEDAD 567 577	cicatrices
+T32	ENFERMEDAD 2898 2904	lesión

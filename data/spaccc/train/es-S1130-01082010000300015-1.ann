@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 45 85	diabetes mellitus no insulinodependiente
-T2	ENFERMEDAD 87 108	hipertensión arterial
-T3	ENFERMEDAD 110 120	dislipemia
-T4	ENFERMEDAD 123 152	fibrilación auricular crónica
-T5	ENFERMEDAD 865 885	uropatía obstructiva
-T6	ENFERMEDAD 1060 1081	edema agudo de pulmón
-T7	ENFERMEDAD 1314 1331	liposarcoma mixto
-T8	ENFERMEDAD 889 911	afectación metastásica
-T9	SINTOMA 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación
-T10	SINTOMA 299 306	afebril
-T11	SINTOMA 776 835	desplazamiento de los vasos renales y sistema pielocalicial
-T12	SINTOMA 183 198	dolor abdominal
-T13	SINTOMA 1013 1021	falleció
-T14	SINTOMA 626 649	función hepática normal
-T15	SINTOMA 309 334	hemodinámicamente estable
-T16	SINTOMA 995 999	masa
-T17	SINTOMA 704 708	masa
-T18	SINTOMA 212 235	síndrome constitucional
-T19	SINTOMA 1117 1127	tumoración
-T20	SINTOMA 414 444	tumoración en flanco izquierdo
+T1	SINTOMA 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación
+T2	SINTOMA 299 306	afebril
+T3	SINTOMA 776 835	desplazamiento de los vasos renales y sistema pielocalicial
+T4	SINTOMA 183 198	dolor abdominal
+T5	SINTOMA 1013 1021	falleció
+T6	SINTOMA 626 649	función hepática normal
+T7	SINTOMA 309 334	hemodinámicamente estable
+T8	SINTOMA 995 999	masa
+T9	SINTOMA 704 708	masa
+T10	SINTOMA 212 235	síndrome constitucional
+T11	SINTOMA 1117 1127	tumoración
+T12	SINTOMA 414 444	tumoración en flanco izquierdo
+T13	ENFERMEDAD 45 85	diabetes mellitus no insulinodependiente
+T14	ENFERMEDAD 87 108	hipertensión arterial
+T15	ENFERMEDAD 110 120	dislipemia
+T16	ENFERMEDAD 123 152	fibrilación auricular crónica
+T17	ENFERMEDAD 865 885	uropatía obstructiva
+T18	ENFERMEDAD 1060 1081	edema agudo de pulmón
+T19	ENFERMEDAD 1314 1331	liposarcoma mixto
+T20	ENFERMEDAD 889 911	afectación metastásica

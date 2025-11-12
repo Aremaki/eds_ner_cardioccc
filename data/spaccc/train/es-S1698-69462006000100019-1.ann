@@ -1,31 +1,31 @@
-T1	ENFERMEDAD 108 143	tumor estenosante de colon sigmoide
-T2	ENFERMEDAD 148 190	metástasis en ganglios regionales e hígado
-T3	ENFERMEDAD 244 253	neoplasia
-T4	ENFERMEDAD 276 301	adenocarcinoma intestinal
-T5	ENFERMEDAD 902 932	lesión sólida en hemimandíbula
-T6	ENFERMEDAD 1000 1018	neoplasia de encía
-T7	ENFERMEDAD 1024 1038	linfadenopatía
-T8	ENFERMEDAD 1468 1494	adenocarcinoma metastásico
-T9	ENFERMEDAD 1793 1812	metástasis gingival
-T10	ENFERMEDAD 614 688	progresión tumoral con metástasis ganglionares a distancia y suprarrenales
-T11	ENFERMEDAD 108 190	tumor estenosante de colon sigmoide con metástasis en ganglios regionales e hígado
-T12	PROCEDIMIENTO 1051 1058	biopsia
-T13	PROCEDIMIENTO 1286 1316	técnicas de inmunohistoquímica
-T14	PROCEDIMIENTO 1553 1607	quimioterapia de segunda línea según protocolo FOLFORI
-T15	PROCEDIMIENTO 1600 1642	FOLFORI (CPT11-5 fluorouracilo-leucovorin)
-T16	PROCEDIMIENTO 1646 1678	radioterapia antiálgica en encía
-T17	PROCEDIMIENTO 1829 1838	necropsia
-T18	PROCEDIMIENTO 216 237	biopsias endoscópicas
-T19	PROCEDIMIENTO 353 414	colostomía paliativa en cañón de escopeta en colon transverso
-T20	PROCEDIMIENTO 417 468	quimioterapia de primera línea con protocolo FOLFOX
-T21	PROCEDIMIENTO 462 510	FOLFOX (oxaliplatino-5 fluorouracilo-leucovorin)
-T22	PROCEDIMIENTO 878 890	TAC cervical
-T23	PROCEDIMIENTO 98 143	TAC de un tumor estenosante de colon sigmoide
-T24	SINTOMA 740 768	dolor e hinchazón mandibular
-T25	SINTOMA 945 961	erosionaba hueso
-T26	SINTOMA 316 327	irresecable
-T27	SINTOMA 1087 1099	neoformación
-T28	SINTOMA 813 865	tumoración vegetante en la encía mandibular anterior
-T29	SINTOMA 1321 1331	tumoración
-T30	SINTOMA 1752 1758	éxitus
-T31	SINTOMA 1723 1743	deterioro progresivo
+T1	SINTOMA 740 768	dolor e hinchazón mandibular
+T2	SINTOMA 945 961	erosionaba hueso
+T3	SINTOMA 316 327	irresecable
+T4	SINTOMA 1087 1099	neoformación
+T5	SINTOMA 813 865	tumoración vegetante en la encía mandibular anterior
+T6	SINTOMA 1321 1331	tumoración
+T7	SINTOMA 1752 1758	éxitus
+T8	SINTOMA 1723 1743	deterioro progresivo
+T9	ENFERMEDAD 108 143	tumor estenosante de colon sigmoide
+T10	ENFERMEDAD 148 190	metástasis en ganglios regionales e hígado
+T11	ENFERMEDAD 244 253	neoplasia
+T12	ENFERMEDAD 276 301	adenocarcinoma intestinal
+T13	ENFERMEDAD 902 932	lesión sólida en hemimandíbula
+T14	ENFERMEDAD 1000 1018	neoplasia de encía
+T15	ENFERMEDAD 1024 1038	linfadenopatía
+T16	ENFERMEDAD 1468 1494	adenocarcinoma metastásico
+T17	ENFERMEDAD 1793 1812	metástasis gingival
+T18	ENFERMEDAD 614 688	progresión tumoral con metástasis ganglionares a distancia y suprarrenales
+T19	ENFERMEDAD 108 190	tumor estenosante de colon sigmoide con metástasis en ganglios regionales e hígado
+T20	PROCEDIMIENTO 1051 1058	biopsia
+T21	PROCEDIMIENTO 1286 1316	técnicas de inmunohistoquímica
+T22	PROCEDIMIENTO 1553 1607	quimioterapia de segunda línea según protocolo FOLFORI
+T23	PROCEDIMIENTO 1600 1642	FOLFORI (CPT11-5 fluorouracilo-leucovorin)
+T24	PROCEDIMIENTO 1646 1678	radioterapia antiálgica en encía
+T25	PROCEDIMIENTO 1829 1838	necropsia
+T26	PROCEDIMIENTO 216 237	biopsias endoscópicas
+T27	PROCEDIMIENTO 353 414	colostomía paliativa en cañón de escopeta en colon transverso
+T28	PROCEDIMIENTO 417 468	quimioterapia de primera línea con protocolo FOLFOX
+T29	PROCEDIMIENTO 462 510	FOLFOX (oxaliplatino-5 fluorouracilo-leucovorin)
+T30	PROCEDIMIENTO 878 890	TAC cervical
+T31	PROCEDIMIENTO 98 143	TAC de un tumor estenosante de colon sigmoide

@@ -1,44 +1,44 @@
-T1	ENFERMEDAD 29 50	hipertensión arterial
-T2	ENFERMEDAD 52 77	artrosis de ambas caderas
-T3	ENFERMEDAD 79 104	leucemia linfoide crónica
-T4	ENFERMEDAD 106 143	meningioma del ángulo pontocerebeloso
-T5	ENFERMEDAD 188 221	colon sigmoide por diverticulitis
-T6	ENFERMEDAD 224 235	peritonitis
-T7	ENFERMEDAD 237 270	fibrilación auricular paroxística
-T8	ENFERMEDAD 272 289	estenosis aórtica
-T9	ENFERMEDAD 292 316	cardiopatía hipertensiva
-T10	ENFERMEDAD 429 484	hemorragia digestiva en forma de melenas y rectorragias
-T11	ENFERMEDAD 952 980	pólipo gástrico hiperplásico
-T12	ENFERMEDAD 1010 1045	angiodisplasias en colon ascendente
-T13	ENFERMEDAD 1257 1275	trombosis vascular
-T14	ENFERMEDAD 1284 1313	enfermedad linfoproliferativa
-T15	ENFERMEDAD 1381 1403	hemorragias digestivas
-T16	ENFERMEDAD 1901 1913	rectorragias
-T17	ENFERMEDAD 2107 2125	sangrado digestivo
-T18	ENFERMEDAD 2246 2255	cataratas
-T19	ENFERMEDAD 2307 2318	cardiopatía
-T20	ENFERMEDAD 462 469	melenas
-T21	ENFERMEDAD 472 484	rectorragias
-T22	ENFERMEDAD 878 931	xantomas y puntos rojos petequiales de yeyuno e íleon
-T23	ENFERMEDAD 2222 2236	visión borrosa
-T24	PROCEDIMIENTO 1010 1072	angiodisplasias en colon ascendente también tratadas con argón
-T25	PROCEDIMIENTO 106 161	meningioma del ángulo pontocerebeloso izquierdo operado
-T26	PROCEDIMIENTO 1205 1225	tratamiento hormonal
-T27	PROCEDIMIENTO 1341 1366	tratamientos endoscópicos
-T28	PROCEDIMIENTO 1460 1484	concentrados de hematíes
-T29	PROCEDIMIENTO 163 202	resección segmentaria de colon sigmoide
-T30	PROCEDIMIENTO 1643 1658	electromiograma
-T31	PROCEDIMIENTO 1945 1992	transfusión de otros 3 concentrados de hematíes
-T32	PROCEDIMIENTO 2051 2064	transfusiones
-T33	PROCEDIMIENTO 679 692	colonoscopias
-T34	PROCEDIMIENTO 696 709	gastroscopias
-T35	PROCEDIMIENTO 713 750	exploraciones con cápsula endoscópica
-T36	PROCEDIMIENTO 757 808	enteroscopia con doble globo con acceso oral y anal
-T37	PROCEDIMIENTO 820 846	exploraciones endoscópicas
-T38	PROCEDIMIENTO 952 998	pólipo gástrico hiperplásico pequeño extirpado
-T39	SINTOMA 627 638	hemorragias
-T40	SINTOMA 2222 2236	visión borrosa
-T41	SINTOMA 2258 2287	edemas en miembros inferiores
-T42	SINTOMA 462 469	melenas
-T43	SINTOMA 1901 1913	rectorragias
-T44	SINTOMA 472 484	rectorragias
+T1	SINTOMA 627 638	hemorragias
+T2	SINTOMA 2222 2236	visión borrosa
+T3	SINTOMA 2258 2287	edemas en miembros inferiores
+T4	SINTOMA 462 469	melenas
+T5	SINTOMA 1901 1913	rectorragias
+T6	SINTOMA 472 484	rectorragias
+T7	ENFERMEDAD 29 50	hipertensión arterial
+T8	ENFERMEDAD 52 77	artrosis de ambas caderas
+T9	ENFERMEDAD 79 104	leucemia linfoide crónica
+T10	ENFERMEDAD 106 143	meningioma del ángulo pontocerebeloso
+T11	ENFERMEDAD 188 221	colon sigmoide por diverticulitis
+T12	ENFERMEDAD 224 235	peritonitis
+T13	ENFERMEDAD 237 270	fibrilación auricular paroxística
+T14	ENFERMEDAD 272 289	estenosis aórtica
+T15	ENFERMEDAD 292 316	cardiopatía hipertensiva
+T16	ENFERMEDAD 429 484	hemorragia digestiva en forma de melenas y rectorragias
+T17	ENFERMEDAD 952 980	pólipo gástrico hiperplásico
+T18	ENFERMEDAD 1010 1045	angiodisplasias en colon ascendente
+T19	ENFERMEDAD 1257 1275	trombosis vascular
+T20	ENFERMEDAD 1284 1313	enfermedad linfoproliferativa
+T21	ENFERMEDAD 1381 1403	hemorragias digestivas
+T22	ENFERMEDAD 1901 1913	rectorragias
+T23	ENFERMEDAD 2107 2125	sangrado digestivo
+T24	ENFERMEDAD 2246 2255	cataratas
+T25	ENFERMEDAD 2307 2318	cardiopatía
+T26	ENFERMEDAD 462 469	melenas
+T27	ENFERMEDAD 472 484	rectorragias
+T28	ENFERMEDAD 878 931	xantomas y puntos rojos petequiales de yeyuno e íleon
+T29	ENFERMEDAD 2222 2236	visión borrosa
+T30	PROCEDIMIENTO 1010 1072	angiodisplasias en colon ascendente también tratadas con argón
+T31	PROCEDIMIENTO 106 161	meningioma del ángulo pontocerebeloso izquierdo operado
+T32	PROCEDIMIENTO 1205 1225	tratamiento hormonal
+T33	PROCEDIMIENTO 1341 1366	tratamientos endoscópicos
+T34	PROCEDIMIENTO 1460 1484	concentrados de hematíes
+T35	PROCEDIMIENTO 163 202	resección segmentaria de colon sigmoide
+T36	PROCEDIMIENTO 1643 1658	electromiograma
+T37	PROCEDIMIENTO 1945 1992	transfusión de otros 3 concentrados de hematíes
+T38	PROCEDIMIENTO 2051 2064	transfusiones
+T39	PROCEDIMIENTO 679 692	colonoscopias
+T40	PROCEDIMIENTO 696 709	gastroscopias
+T41	PROCEDIMIENTO 713 750	exploraciones con cápsula endoscópica
+T42	PROCEDIMIENTO 757 808	enteroscopia con doble globo con acceso oral y anal
+T43	PROCEDIMIENTO 820 846	exploraciones endoscópicas
+T44	PROCEDIMIENTO 952 998	pólipo gástrico hiperplásico pequeño extirpado

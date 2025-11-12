@@ -14,11 +14,11 @@ source "/export/home/cse200093/Adam/eds_ner_cardioccc/.venv/bin/activate"
 conda deactivate
 
 CONFIGS=(
-    "configs/config_bert_es.yml"
-    "configs/config_bsc_ehr.yml"
-    "configs/config_camembertav2.yml"
-    "configs/config_cardioberta.yml"
-    "configs/config_xlm_roberta.yml"
+    "configs/spaccc/config_bert_es.yml"
+    "configs/spaccc/config_bsc_ehr.yml"
+    "configs/spaccc/config_camembertav2.yml"
+    "configs/spaccc/config_cardioberta.yml"
+    "configs/spaccc/config_xlm_roberta.yml"
 )
 
 echo -----------------

@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 774 790	colitis ulcerosa
-T2	ENFERMEDAD 75 96	dermatitis seborreica
-T3	ENFERMEDAD 417 442	recto se observan úlceras
-T4	ENFERMEDAD 1413 1441	gastroenteritis eosinofílica
-T5	ENFERMEDAD 1570 1574	asma
-T6	ENFERMEDAD 1608 1634	síndrome hipereosinofílico
-T7	ENFERMEDAD 1802 1822	colitis eosinofílica
-T8	ENFERMEDAD 1576 1584	alergias
-T9	ENFERMEDAD 1586 1605	patología endocrina
-T10	PROCEDIMIENTO 1001 1012	endoscópico
-T11	PROCEDIMIENTO 1025 1037	colonoscopia
-T12	PROCEDIMIENTO 1106 1162	biopsias de colon derecho, transverso, izquierdo y sigma
-T13	PROCEDIMIENTO 1169 1194	estudio anatomopatológico
-T14	PROCEDIMIENTO 1387 1395	biopsias
-T15	PROCEDIMIENTO 1666 1699	gastroscopia con toma de biopsias
-T16	PROCEDIMIENTO 272 281	analítica
-T17	PROCEDIMIENTO 343 356	coprocultivos
-T18	PROCEDIMIENTO 369 387	parásitos en heces
-T19	PROCEDIMIENTO 400 412	colonoscopia
-T20	PROCEDIMIENTO 417 471	recto se observan úlceras serpiginosas que se biopsian
-T21	PROCEDIMIENTO 506 531	Estudio anatomopatológico
-T22	PROCEDIMIENTO 747 769	hallazgos endoscópicos
-T23	PROCEDIMIENTO 952 965	coprocultivos
-T24	PROCEDIMIENTO 968 986	parásitos en heces
-T25	SINTOMA 938 949	eosinofilia
-T26	SINTOMA 301 312	eosinofilia
-T27	SINTOMA 1557 1568	eosinofilia
-T28	SINTOMA 1305 1327	eosinofilia periférica
-T29	SINTOMA 1208 1247	aumento de eosinófilos en lámina propia
-T30	SINTOMA 952 998	coprocultivos y parásitos en heces (negativos)
-T31	SINTOMA 343 367	coprocultivos: negativos
-T32	SINTOMA 184 234	diarrea, en ocasiones acompañadas de moco y sangre
-T33	SINTOMA 574 590	microhemorragias
-T34	SINTOMA 1050 1074	mucosa de aspecto normal
-T35	SINTOMA 533 572	mucosa de intestino grueso, con erosión
-T36	SINTOMA 1348 1395	número aumentado de eosinófilos en las biopsias
-T37	SINTOMA 369 398	parásitos en heces: negativos
+T1	SINTOMA 938 949	eosinofilia
+T2	SINTOMA 301 312	eosinofilia
+T3	SINTOMA 1557 1568	eosinofilia
+T4	SINTOMA 1305 1327	eosinofilia periférica
+T5	SINTOMA 1208 1247	aumento de eosinófilos en lámina propia
+T6	SINTOMA 952 998	coprocultivos y parásitos en heces (negativos)
+T7	SINTOMA 343 367	coprocultivos: negativos
+T8	SINTOMA 184 234	diarrea, en ocasiones acompañadas de moco y sangre
+T9	SINTOMA 574 590	microhemorragias
+T10	SINTOMA 1050 1074	mucosa de aspecto normal
+T11	SINTOMA 533 572	mucosa de intestino grueso, con erosión
+T12	SINTOMA 1348 1395	número aumentado de eosinófilos en las biopsias
+T13	SINTOMA 369 398	parásitos en heces: negativos
+T14	ENFERMEDAD 774 790	colitis ulcerosa
+T15	ENFERMEDAD 75 96	dermatitis seborreica
+T16	ENFERMEDAD 417 442	recto se observan úlceras
+T17	ENFERMEDAD 1413 1441	gastroenteritis eosinofílica
+T18	ENFERMEDAD 1570 1574	asma
+T19	ENFERMEDAD 1608 1634	síndrome hipereosinofílico
+T20	ENFERMEDAD 1802 1822	colitis eosinofílica
+T21	ENFERMEDAD 1576 1584	alergias
+T22	ENFERMEDAD 1586 1605	patología endocrina
+T23	PROCEDIMIENTO 1001 1012	endoscópico
+T24	PROCEDIMIENTO 1025 1037	colonoscopia
+T25	PROCEDIMIENTO 1106 1162	biopsias de colon derecho, transverso, izquierdo y sigma
+T26	PROCEDIMIENTO 1169 1194	estudio anatomopatológico
+T27	PROCEDIMIENTO 1387 1395	biopsias
+T28	PROCEDIMIENTO 1666 1699	gastroscopia con toma de biopsias
+T29	PROCEDIMIENTO 272 281	analítica
+T30	PROCEDIMIENTO 343 356	coprocultivos
+T31	PROCEDIMIENTO 369 387	parásitos en heces
+T32	PROCEDIMIENTO 400 412	colonoscopia
+T33	PROCEDIMIENTO 417 471	recto se observan úlceras serpiginosas que se biopsian
+T34	PROCEDIMIENTO 506 531	Estudio anatomopatológico
+T35	PROCEDIMIENTO 747 769	hallazgos endoscópicos
+T36	PROCEDIMIENTO 952 965	coprocultivos
+T37	PROCEDIMIENTO 968 986	parásitos en heces

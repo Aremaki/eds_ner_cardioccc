@@ -1,42 +1,42 @@
-T1	PROCEDIMIENTO 1063 1081	hemo y urocultivos
-T2	PROCEDIMIENTO 1083 1122	punción y cultivos de líquido articular
-T3	PROCEDIMIENTO 1124 1161	TAC de columna abdominal y lumbosacra
-T4	PROCEDIMIENTO 1163 1201	resonancia magnética de columna lumbar
-T5	PROCEDIMIENTO 1204 1235	gammagrafia con Ga-67/MDP-Tc-99
-T6	PROCEDIMIENTO 1243 1280	TAC de columna abdominal y lumbosacra
-T7	PROCEDIMIENTO 1480 1521	resonancia magnética de la columna lumbar
-T8	PROCEDIMIENTO 1762 1789	administración de gadolinio
-T9	PROCEDIMIENTO 1879 1926	barrido corporal combinado con Ga-67/MDP-Tc-99M
-T10	PROCEDIMIENTO 221 242	irradiación a rodilla
-T11	PROCEDIMIENTO 2239 2271	tratamiento antibiótico empírico
-T12	PROCEDIMIENTO 2337 2382	cultivos de sangre, orina y liquido articular
-T13	PROCEDIMIENTO 2430 2442	antibiograma
-T14	PROCEDIMIENTO 2578 2589	antibiótico
-T15	PROCEDIMIENTO 2592 2604	antitérmicos
-T16	PROCEDIMIENTO 2844 2869	maniobras de resucitación
-T17	PROCEDIMIENTO 572 590	exploración física
-T18	PROCEDIMIENTO 674 698	puño percusión bilateral
-T19	PROCEDIMIENTO 748 757	analítica
-T20	PROCEDIMIENTO 965 974	analítica
-T21	SINTOMA 1716 1756	alteración de la señal del cuerpo de D12
-T22	SINTOMA 2053 2130	captación de galio muy aumentada en L4-L5 y en partes blandas paravertebrales
-T23	SINTOMA 1621 1632	colecciones
-T24	SINTOMA 1293 1386	densidades aéreas en músculos lumbar y psoas derechos y en localización intraespinal y dorsal
-T25	SINTOMA 500 525	descompensación glucémica
-T26	SINTOMA 650 669	dolor en área sacra
-T27	SINTOMA 189 208	dolor en fosa renal
-T28	SINTOMA 1803 1813	edema óseo
-T29	SINTOMA 1409 1426	gas en canal óseo
-T30	SINTOMA 1934 2000	hiperfijación patológica de ambos trazadores en rodillas y hombros
-T31	SINTOMA 674 707	puño percusión bilateral negativa
-T32	SINTOMA 710 740	rodillas con signos flogóticos
-T33	SINTOMA 2349 2416	sangre, orina y liquido articular) la presencia de Escherichia coli
-T34	SINTOMA 769 786	leve leucocitosis
-T35	SINTOMA 642 648	fiebre
-T36	SINTOMA 840 859	hiperbilirrubinemia
-T37	SINTOMA 2641 2647	fiebre
-T38	SINTOMA 387 407	sensación distérmica
-T39	SINTOMA 454 472	mal estado general
-T40	SINTOMA 474 497	sintomatología urinaria
-T41	SINTOMA 611 640	afectación del estado general
-T42	SINTOMA 2661 2693	empeoramiento del estado general
+T1	SINTOMA 1716 1756	alteración de la señal del cuerpo de D12
+T2	SINTOMA 2053 2130	captación de galio muy aumentada en L4-L5 y en partes blandas paravertebrales
+T3	SINTOMA 1621 1632	colecciones
+T4	SINTOMA 1293 1386	densidades aéreas en músculos lumbar y psoas derechos y en localización intraespinal y dorsal
+T5	SINTOMA 500 525	descompensación glucémica
+T6	SINTOMA 650 669	dolor en área sacra
+T7	SINTOMA 189 208	dolor en fosa renal
+T8	SINTOMA 1803 1813	edema óseo
+T9	SINTOMA 1409 1426	gas en canal óseo
+T10	SINTOMA 1934 2000	hiperfijación patológica de ambos trazadores en rodillas y hombros
+T11	SINTOMA 674 707	puño percusión bilateral negativa
+T12	SINTOMA 710 740	rodillas con signos flogóticos
+T13	SINTOMA 2349 2416	sangre, orina y liquido articular) la presencia de Escherichia coli
+T14	SINTOMA 769 786	leve leucocitosis
+T15	SINTOMA 642 648	fiebre
+T16	SINTOMA 840 859	hiperbilirrubinemia
+T17	SINTOMA 2641 2647	fiebre
+T18	SINTOMA 387 407	sensación distérmica
+T19	SINTOMA 454 472	mal estado general
+T20	SINTOMA 474 497	sintomatología urinaria
+T21	SINTOMA 611 640	afectación del estado general
+T22	SINTOMA 2661 2693	empeoramiento del estado general
+T23	PROCEDIMIENTO 1063 1081	hemo y urocultivos
+T24	PROCEDIMIENTO 1083 1122	punción y cultivos de líquido articular
+T25	PROCEDIMIENTO 1124 1161	TAC de columna abdominal y lumbosacra
+T26	PROCEDIMIENTO 1163 1201	resonancia magnética de columna lumbar
+T27	PROCEDIMIENTO 1204 1235	gammagrafia con Ga-67/MDP-Tc-99
+T28	PROCEDIMIENTO 1243 1280	TAC de columna abdominal y lumbosacra
+T29	PROCEDIMIENTO 1480 1521	resonancia magnética de la columna lumbar
+T30	PROCEDIMIENTO 1762 1789	administración de gadolinio
+T31	PROCEDIMIENTO 1879 1926	barrido corporal combinado con Ga-67/MDP-Tc-99M
+T32	PROCEDIMIENTO 221 242	irradiación a rodilla
+T33	PROCEDIMIENTO 2239 2271	tratamiento antibiótico empírico
+T34	PROCEDIMIENTO 2337 2382	cultivos de sangre, orina y liquido articular
+T35	PROCEDIMIENTO 2430 2442	antibiograma
+T36	PROCEDIMIENTO 2578 2589	antibiótico
+T37	PROCEDIMIENTO 2592 2604	antitérmicos
+T38	PROCEDIMIENTO 2844 2869	maniobras de resucitación
+T39	PROCEDIMIENTO 572 590	exploración física
+T40	PROCEDIMIENTO 674 698	puño percusión bilateral
+T41	PROCEDIMIENTO 748 757	analítica
+T42	PROCEDIMIENTO 965 974	analítica

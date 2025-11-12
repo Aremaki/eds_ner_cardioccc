@@ -1,13 +1,13 @@
-T1	ENFERMEDAD 42 62	conjuntivitis vírica
-T2	ENFERMEDAD 219 237	condilomas en pene
-T3	ENFERMEDAD 242 251	uretritis
-T4	ENFERMEDAD 1031 1056	fibrosis corneal superior
-T5	ENFERMEDAD 526 544	perforación ocular
-T6	PROCEDIMIENTO 324 349	exploración oftalmológica
-T7	PROCEDIMIENTO 421 458	biomicroscopía de polo anterior de OD
-T8	PROCEDIMIENTO 583 637	recubrimiento corneal con membrana amniótica multicapa
-T9	PROCEDIMIENTO 668 698	cultivo de exudado conjuntival
-T10	PROCEDIMIENTO 762 773	antibiótico
-T11	PROCEDIMIENTO 988 1019	biomicroscopía de polo anterior
-T12	SINTOMA 470 501	adelgazamiento corneal superior
-T13	SINTOMA 668 739	cultivo de exudado conjuntival son positivos para Neisseria Gonorrhoeae
+T1	SINTOMA 470 501	adelgazamiento corneal superior
+T2	SINTOMA 668 739	cultivo de exudado conjuntival son positivos para Neisseria Gonorrhoeae
+T3	ENFERMEDAD 42 62	conjuntivitis vírica
+T4	ENFERMEDAD 219 237	condilomas en pene
+T5	ENFERMEDAD 242 251	uretritis
+T6	ENFERMEDAD 1031 1056	fibrosis corneal superior
+T7	ENFERMEDAD 526 544	perforación ocular
+T8	PROCEDIMIENTO 324 349	exploración oftalmológica
+T9	PROCEDIMIENTO 421 458	biomicroscopía de polo anterior de OD
+T10	PROCEDIMIENTO 583 637	recubrimiento corneal con membrana amniótica multicapa
+T11	PROCEDIMIENTO 668 698	cultivo de exudado conjuntival
+T12	PROCEDIMIENTO 762 773	antibiótico
+T13	PROCEDIMIENTO 988 1019	biomicroscopía de polo anterior

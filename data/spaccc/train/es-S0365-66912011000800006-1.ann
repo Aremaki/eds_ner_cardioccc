@@ -1,13 +1,13 @@
-T1	ENFERMEDAD 572 613	perforación corneal no traumática estéril
-T2	ENFERMEDAD 55 84	diabético insulinodependiente
-T3	ENFERMEDAD 333 358	lesión ulcerativa corneal
-T4	ENFERMEDAD 387 421	poro endotelial perforante central
-T5	ENFERMEDAD 828 838	ulceración
-T6	ENFERMEDAD 1374 1400	poro endotelial perforante
-T7	ENFERMEDAD 450 483	proceso infeccioso o inflamatorio
-T8	ENFERMEDAD 21 44	enfermedad de Alzheimer
-T9	SINTOMA 1666 1717	adelgazamiento corneal sobre la zona de perforación
-T10	SINTOMA 1738 1774	buena profundidad de cámara anterior
-T11	SINTOMA 1838 1858	cierre corneal total
-T12	SINTOMA 1002 1017	defecto corneal
-T13	SINTOMA 177 189	dolor ocular
+T1	SINTOMA 1666 1717	adelgazamiento corneal sobre la zona de perforación
+T2	SINTOMA 1738 1774	buena profundidad de cámara anterior
+T3	SINTOMA 1838 1858	cierre corneal total
+T4	SINTOMA 1002 1017	defecto corneal
+T5	SINTOMA 177 189	dolor ocular
+T6	ENFERMEDAD 572 613	perforación corneal no traumática estéril
+T7	ENFERMEDAD 55 84	diabético insulinodependiente
+T8	ENFERMEDAD 333 358	lesión ulcerativa corneal
+T9	ENFERMEDAD 387 421	poro endotelial perforante central
+T10	ENFERMEDAD 828 838	ulceración
+T11	ENFERMEDAD 1374 1400	poro endotelial perforante
+T12	ENFERMEDAD 450 483	proceso infeccioso o inflamatorio
+T13	ENFERMEDAD 21 44	enfermedad de Alzheimer

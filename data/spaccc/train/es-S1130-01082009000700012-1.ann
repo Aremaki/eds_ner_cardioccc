@@ -1,15 +1,15 @@
-T1	ENFERMEDAD 1143 1154	apendagitis
-T2	ENFERMEDAD 1159 1180	apendagitis epiploica
-T3	ENFERMEDAD 630 650	diverticulitis aguda
-T4	ENFERMEDAD 821 845	diverticulosis sigmoidea
-T5	ENFERMEDAD 860 874	diverticulitis
-T6	ENFERMEDAD 1058 1096	apendagitis aguda secundaria a torsión
-T7	SINTOMA 1006 1024	apéndice epiploico
-T8	SINTOMA 387 404	defensa abdominal
-T9	SINTOMA 693 698	dolor
-T10	SINTOMA 66 96	dolor en fosa iliaca izquierda
-T11	SINTOMA 149 155	fiebre
-T12	SINTOMA 924 978	inflamación de la grasa adyacente al colon descendente
-T13	SINTOMA 321 375	palpación dolorosa a nivel de la fosa iliaca izquierda
-T14	SINTOMA 410 469	ruidos intestinales y resto de la exploración eran normales
-T15	SINTOMA 305 314	sobrepeso
+T1	SINTOMA 1006 1024	apéndice epiploico
+T2	SINTOMA 387 404	defensa abdominal
+T3	SINTOMA 693 698	dolor
+T4	SINTOMA 66 96	dolor en fosa iliaca izquierda
+T5	SINTOMA 149 155	fiebre
+T6	SINTOMA 924 978	inflamación de la grasa adyacente al colon descendente
+T7	SINTOMA 321 375	palpación dolorosa a nivel de la fosa iliaca izquierda
+T8	SINTOMA 410 469	ruidos intestinales y resto de la exploración eran normales
+T9	SINTOMA 305 314	sobrepeso
+T10	ENFERMEDAD 1143 1154	apendagitis
+T11	ENFERMEDAD 1159 1180	apendagitis epiploica
+T12	ENFERMEDAD 630 650	diverticulitis aguda
+T13	ENFERMEDAD 821 845	diverticulosis sigmoidea
+T14	ENFERMEDAD 860 874	diverticulitis
+T15	ENFERMEDAD 1058 1096	apendagitis aguda secundaria a torsión

@@ -1,29 +1,29 @@
-T1	ENFERMEDAD 395 407	IAM inferior
-T2	ENFERMEDAD 732 734	SB
-T3	ENFERMEDAD 1278 1301	arritmias ventriculares
-T4	ENFERMEDAD 1712 1714	SB
-T5	ENFERMEDAD 1440 1496	estenosis (95%) proximal de la arteria coronaria derecha
-T6	SINTOMA 507 523	dolor precordial
-T7	SINTOMA 70 84	dolor torácico
-T8	SINTOMA 1135 1147	E-ST cóncava
-T9	SINTOMA 277 283	onda J
-T10	SINTOMA 532 557	ausencia de E-ST inferior
-T11	SINTOMA 307 333	D-ST convexa y descendente
-T12	SINTOMA 174 209	D-ST en derivaciones I, aVL y V4-V5
-T13	SINTOMA 930 934	E-ST
-T14	SINTOMA 798 831	E-ST convexa y en silla de montar
-T15	SINTOMA 627 643	E-ST descendente
-T16	SINTOMA 592 613	elevación del punto J
-T17	SINTOMA 891 912	elevación del punto J
-T18	SINTOMA 1103 1129	onda J manifiesta en V1-V2
-T19	SINTOMA 776 793	onda J prominente
-T20	SINTOMA 1205 1242	onda S en las derivaciones izquierdas
-T21	SINTOMA 356 371	onda T negativa
-T22	SINTOMA 563 585	onda T negativa en aVL
-T23	SINTOMA 1056 1097	onda T negativa en derivaciones III y aVF
-T24	SINTOMA 646 683	onda T negativa en derivaciones V1-V2
-T25	SINTOMA 1152 1189	onda T positiva en derivaciones V2-V3
-T26	SINTOMA 937 974	onda T positiva en derivaciones V3-V4
-T27	SINTOMA 124 171	ondas Q junto a E-ST en derivaciones inferiores
-T28	SINTOMA 701 734	patrón electrocardiográfico de SB
-T29	SINTOMA 1023 1041	patrón qR inferior
+T1	SINTOMA 507 523	dolor precordial
+T2	SINTOMA 70 84	dolor torácico
+T3	SINTOMA 1135 1147	E-ST cóncava
+T4	SINTOMA 277 283	onda J
+T5	SINTOMA 532 557	ausencia de E-ST inferior
+T6	SINTOMA 307 333	D-ST convexa y descendente
+T7	SINTOMA 174 209	D-ST en derivaciones I, aVL y V4-V5
+T8	SINTOMA 930 934	E-ST
+T9	SINTOMA 798 831	E-ST convexa y en silla de montar
+T10	SINTOMA 627 643	E-ST descendente
+T11	SINTOMA 592 613	elevación del punto J
+T12	SINTOMA 891 912	elevación del punto J
+T13	SINTOMA 1103 1129	onda J manifiesta en V1-V2
+T14	SINTOMA 776 793	onda J prominente
+T15	SINTOMA 1205 1242	onda S en las derivaciones izquierdas
+T16	SINTOMA 356 371	onda T negativa
+T17	SINTOMA 563 585	onda T negativa en aVL
+T18	SINTOMA 1056 1097	onda T negativa en derivaciones III y aVF
+T19	SINTOMA 646 683	onda T negativa en derivaciones V1-V2
+T20	SINTOMA 1152 1189	onda T positiva en derivaciones V2-V3
+T21	SINTOMA 937 974	onda T positiva en derivaciones V3-V4
+T22	SINTOMA 124 171	ondas Q junto a E-ST en derivaciones inferiores
+T23	SINTOMA 701 734	patrón electrocardiográfico de SB
+T24	SINTOMA 1023 1041	patrón qR inferior
+T25	ENFERMEDAD 395 407	IAM inferior
+T26	ENFERMEDAD 732 734	SB
+T27	ENFERMEDAD 1278 1301	arritmias ventriculares
+T28	ENFERMEDAD 1712 1714	SB
+T29	ENFERMEDAD 1440 1496	estenosis (95%) proximal de la arteria coronaria derecha

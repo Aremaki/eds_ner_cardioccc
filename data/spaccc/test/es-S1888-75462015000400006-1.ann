@@ -1,59 +1,59 @@
-T1	ENFERMEDAD 2434 2484	síndrome de pinzamiento femoroacetabular tipo LEVA
-T2	ENFERMEDAD 2277 2295	necrosis avascular
-T3	ENFERMEDAD 2347 2409	lesión quística yuxtaarticular en relación con trocánter mayor
-T4	ENFERMEDAD 1785 1844	cadera derecha, con irregularidad cortical y leve sinovitis
-T5	ENFERMEDAD 1455 1519	deformidad en forma de joroba en región cérvico-cefálica femoral
-T6	ENFERMEDAD 1744 1791	alteración subcondral, con edema óseo en cadera
-T7	ENFERMEDAD 1874 1907	distensión de la bursa ilio-psoas
-T8	ENFERMEDAD 2299 2320	lesiones en el labrum
-T9	ENFERMEDAD 2019 2057	pinzamiento de la interlinea articular
-T10	ENFERMEDAD 2226 2259	edema en acetábulo anterosuperior
-T11	ENFERMEDAD 2148 2205	lesiones subcondrales antero-superiores de cabeza femoral
-T12	ENFERMEDAD 2107 2134	collar osteofitario femoral
-T13	PROCEDIMIENTO 1015 1062	maniobras de Valleix, Fabere, Lasegue y Bragard
-T14	PROCEDIMIENTO 1106 1141	palpación en la cintilla iliotibial
-T15	PROCEDIMIENTO 1147 1159	test de Ober
-T16	PROCEDIMIENTO 1179 1203	exploración de la marcha
-T17	PROCEDIMIENTO 1401 1434	radiología simple anteroposterior
-T18	PROCEDIMIENTO 1532 1541	analítica
-T19	PROCEDIMIENTO 1557 1566	hemograma
-T20	PROCEDIMIENTO 1568 1578	bioquímica
-T21	PROCEDIMIENTO 1580 1598	hormonas tiroideas
-T22	PROCEDIMIENTO 1600 1611	anticuerpos
-T23	PROCEDIMIENTO 1614 1638	reactantes de fase aguda
-T24	PROCEDIMIENTO 1685 1715	resonancia magnética de cadera
-T25	PROCEDIMIENTO 1996 2007	artrografía
-T26	PROCEDIMIENTO 2556 2570	magnetoterapia
-T27	PROCEDIMIENTO 2779 2811	antiinflamatorios no esteroideos
-T28	PROCEDIMIENTO 3123 3143	cirugía artroscópica
-T29	PROCEDIMIENTO 533 551	exploración física
-T30	PROCEDIMIENTO 574 629	palpación en tercio medio de la región inguinal derecha
-T31	PROCEDIMIENTO 696 714	maniobra de choque
-T32	PROCEDIMIENTO 729 757	balance articular de caderas
-T33	PROCEDIMIENTO 888 928	balance muscular en la escala de Daniels
-T34	PROCEDIMIENTO 980 1008	palpación de puntos ciáticos
-T35	SINTOMA 2614 2619	dolor
-T36	SINTOMA 2834 2839	dolor
-T37	SINTOMA 433 438	dolor
-T38	SINTOMA 1245 1297	apoyo monopodal alterno derecho-izquierdo es estable
-T39	SINTOMA 1912 1958	cabeza femoral presenta un pequeño islote óseo
-T40	SINTOMA 1227 1239	claudicación
-T41	SINTOMA 2107 2134	collar osteofitario femoral
-T42	SINTOMA 52 60	coxalgia
-T43	SINTOMA 1455 1519	deformidad en forma de joroba en región cérvico-cefálica femoral
-T44	SINTOMA 1874 1907	distensión de la bursa ilio-psoas
-T45	SINTOMA 634 675	dolor a la flexión, aducción y rotaciones
-T46	SINTOMA 969 1008	dolor a la palpación de puntos ciáticos
-T47	SINTOMA 1095 1141	dolor a la palpación en la cintilla iliotibial
-T48	SINTOMA 563 621	dolor a la palpación en tercio medio de la región inguinal
-T49	SINTOMA 136 174	dolor con práctica de ejercicio físico
-T50	SINTOMA 1336 1356	dolor para la marcha
-T51	SINTOMA 2226 2259	edema en acetábulo anterosuperior
-T52	SINTOMA 1771 1791	edema óseo en cadera
-T53	SINTOMA 1557 1649	hemograma, bioquímica, hormonas tiroideas, anticuerpos y reactantes de fase aguda era normal
-T54	SINTOMA 1739 1765	leve alteración subcondral
-T55	SINTOMA 177 208	leve limitación de la movilidad
-T56	SINTOMA 696 723	maniobra de choque positiva
-T57	SINTOMA 1015 1076	maniobras de Valleix, Fabere, Lasegue y Bragard son negativas
-T58	SINTOMA 1147 1171	test de Ober es negativo
-T59	SINTOMA 1303 1325	Trendelenburg negativo
+T1	SINTOMA 2614 2619	dolor
+T2	SINTOMA 2834 2839	dolor
+T3	SINTOMA 433 438	dolor
+T4	SINTOMA 1245 1297	apoyo monopodal alterno derecho-izquierdo es estable
+T5	SINTOMA 1912 1958	cabeza femoral presenta un pequeño islote óseo
+T6	SINTOMA 1227 1239	claudicación
+T7	SINTOMA 2107 2134	collar osteofitario femoral
+T8	SINTOMA 52 60	coxalgia
+T9	SINTOMA 1455 1519	deformidad en forma de joroba en región cérvico-cefálica femoral
+T10	SINTOMA 1874 1907	distensión de la bursa ilio-psoas
+T11	SINTOMA 634 675	dolor a la flexión, aducción y rotaciones
+T12	SINTOMA 969 1008	dolor a la palpación de puntos ciáticos
+T13	SINTOMA 1095 1141	dolor a la palpación en la cintilla iliotibial
+T14	SINTOMA 563 621	dolor a la palpación en tercio medio de la región inguinal
+T15	SINTOMA 136 174	dolor con práctica de ejercicio físico
+T16	SINTOMA 1336 1356	dolor para la marcha
+T17	SINTOMA 2226 2259	edema en acetábulo anterosuperior
+T18	SINTOMA 1771 1791	edema óseo en cadera
+T19	SINTOMA 1557 1649	hemograma, bioquímica, hormonas tiroideas, anticuerpos y reactantes de fase aguda era normal
+T20	SINTOMA 1739 1765	leve alteración subcondral
+T21	SINTOMA 177 208	leve limitación de la movilidad
+T22	SINTOMA 696 723	maniobra de choque positiva
+T23	SINTOMA 1015 1076	maniobras de Valleix, Fabere, Lasegue y Bragard son negativas
+T24	SINTOMA 1147 1171	test de Ober es negativo
+T25	SINTOMA 1303 1325	Trendelenburg negativo
+T26	ENFERMEDAD 2434 2484	síndrome de pinzamiento femoroacetabular tipo LEVA
+T27	ENFERMEDAD 2277 2295	necrosis avascular
+T28	ENFERMEDAD 2347 2409	lesión quística yuxtaarticular en relación con trocánter mayor
+T29	ENFERMEDAD 1785 1844	cadera derecha, con irregularidad cortical y leve sinovitis
+T30	ENFERMEDAD 1455 1519	deformidad en forma de joroba en región cérvico-cefálica femoral
+T31	ENFERMEDAD 1744 1791	alteración subcondral, con edema óseo en cadera
+T32	ENFERMEDAD 1874 1907	distensión de la bursa ilio-psoas
+T33	ENFERMEDAD 2299 2320	lesiones en el labrum
+T34	ENFERMEDAD 2019 2057	pinzamiento de la interlinea articular
+T35	ENFERMEDAD 2226 2259	edema en acetábulo anterosuperior
+T36	ENFERMEDAD 2148 2205	lesiones subcondrales antero-superiores de cabeza femoral
+T37	ENFERMEDAD 2107 2134	collar osteofitario femoral
+T38	PROCEDIMIENTO 1015 1062	maniobras de Valleix, Fabere, Lasegue y Bragard
+T39	PROCEDIMIENTO 1106 1141	palpación en la cintilla iliotibial
+T40	PROCEDIMIENTO 1147 1159	test de Ober
+T41	PROCEDIMIENTO 1179 1203	exploración de la marcha
+T42	PROCEDIMIENTO 1401 1434	radiología simple anteroposterior
+T43	PROCEDIMIENTO 1532 1541	analítica
+T44	PROCEDIMIENTO 1557 1566	hemograma
+T45	PROCEDIMIENTO 1568 1578	bioquímica
+T46	PROCEDIMIENTO 1580 1598	hormonas tiroideas
+T47	PROCEDIMIENTO 1600 1611	anticuerpos
+T48	PROCEDIMIENTO 1614 1638	reactantes de fase aguda
+T49	PROCEDIMIENTO 1685 1715	resonancia magnética de cadera
+T50	PROCEDIMIENTO 1996 2007	artrografía
+T51	PROCEDIMIENTO 2556 2570	magnetoterapia
+T52	PROCEDIMIENTO 2779 2811	antiinflamatorios no esteroideos
+T53	PROCEDIMIENTO 3123 3143	cirugía artroscópica
+T54	PROCEDIMIENTO 533 551	exploración física
+T55	PROCEDIMIENTO 574 629	palpación en tercio medio de la región inguinal derecha
+T56	PROCEDIMIENTO 696 714	maniobra de choque
+T57	PROCEDIMIENTO 729 757	balance articular de caderas
+T58	PROCEDIMIENTO 888 928	balance muscular en la escala de Daniels
+T59	PROCEDIMIENTO 980 1008	palpación de puntos ciáticos

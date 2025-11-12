@@ -1,29 +1,29 @@
-T1	ENFERMEDAD 47 76	traumatismo contuso en su ojo
-T2	ENFERMEDAD 983 1010	desgarro de la raíz de iris
-T3	ENFERMEDAD 214 220	hifema
-T4	ENFERMEDAD 1032 1061	desprendimiento ciliocoroideo
-T5	ENFERMEDAD 1844 1859	edema de papila
-T6	ENFERMEDAD 1861 1886	pliegues coriorretinianos
-T7	ENFERMEDAD 277 292	edema de Berlin
-T8	ENFERMEDAD 1949 1962	ciclodiálisis
-T9	ENFERMEDAD 1976 1993	sinequia anterior
-T10	ENFERMEDAD 409 415	hifema
-T11	ENFERMEDAD 2027 2051	desprendimiento coroideo
-T12	ENFERMEDAD 1576 1589	ciclodiálisis
-T13	ENFERMEDAD 684 708	pliegues retinocoroideos
-T14	ENFERMEDAD 711 726	edema de papila
-T15	ENFERMEDAD 592 608	hipotonía ocular
-T16	ENFERMEDAD 904 915	traumatismo
-T17	SINTOMA 837 851	ángulo abierto
-T18	SINTOMA 1725 1750	ascenso gradual de la PIO
-T19	SINTOMA 983 1010	desgarro de la raíz de iris
-T20	SINTOMA 277 292	edema de Berlin
-T21	SINTOMA 711 726	edema de papila
-T22	SINTOMA 1844 1859	edema de papila
-T23	SINTOMA 1123 1143	engrosamiento foveal
-T24	SINTOMA 214 220	hifema
-T25	SINTOMA 409 415	hifema
-T26	SINTOMA 592 608	hipotonía ocular
-T27	SINTOMA 2071 2094	normalización de la PIO
-T28	SINTOMA 684 708	pliegues retinocoroideos
-T29	SINTOMA 186 201	reducción de AV
+T1	SINTOMA 837 851	ángulo abierto
+T2	SINTOMA 1725 1750	ascenso gradual de la PIO
+T3	SINTOMA 983 1010	desgarro de la raíz de iris
+T4	SINTOMA 277 292	edema de Berlin
+T5	SINTOMA 711 726	edema de papila
+T6	SINTOMA 1844 1859	edema de papila
+T7	SINTOMA 1123 1143	engrosamiento foveal
+T8	SINTOMA 214 220	hifema
+T9	SINTOMA 409 415	hifema
+T10	SINTOMA 592 608	hipotonía ocular
+T11	SINTOMA 2071 2094	normalización de la PIO
+T12	SINTOMA 684 708	pliegues retinocoroideos
+T13	SINTOMA 186 201	reducción de AV
+T14	ENFERMEDAD 47 76	traumatismo contuso en su ojo
+T15	ENFERMEDAD 983 1010	desgarro de la raíz de iris
+T16	ENFERMEDAD 214 220	hifema
+T17	ENFERMEDAD 1032 1061	desprendimiento ciliocoroideo
+T18	ENFERMEDAD 1844 1859	edema de papila
+T19	ENFERMEDAD 1861 1886	pliegues coriorretinianos
+T20	ENFERMEDAD 277 292	edema de Berlin
+T21	ENFERMEDAD 1949 1962	ciclodiálisis
+T22	ENFERMEDAD 1976 1993	sinequia anterior
+T23	ENFERMEDAD 409 415	hifema
+T24	ENFERMEDAD 2027 2051	desprendimiento coroideo
+T25	ENFERMEDAD 1576 1589	ciclodiálisis
+T26	ENFERMEDAD 684 708	pliegues retinocoroideos
+T27	ENFERMEDAD 711 726	edema de papila
+T28	ENFERMEDAD 592 608	hipotonía ocular
+T29	ENFERMEDAD 904 915	traumatismo

@@ -1,13 +1,13 @@
-T1	ENFERMEDAD 18 52	Litiasis cálcica calicial de riñón
-T2	ENFERMEDAD 89 99	HTA severa
-T3	ENFERMEDAD 706 721	derrame pleural
-T4	ENFERMEDAD 450 468	shock hipovolémico
-T5	ENFERMEDAD 276 293	Moderada obesidad
-T6	ENFERMEDAD 657 677	hematoma subcapsular
-T7	ENFERMEDAD 1017 1025	hematoma
-T8	SINTOMA 1110 1129	buen estado general
-T9	SINTOMA 811 861	deficiente visualización de cálices e infundíbulos
-T10	SINTOMA 417 447	dolor lumboabdominal izquierdo
-T11	SINTOMA 1198 1228	normal función renal bilateral
-T12	SINTOMA 772 798	retraso funcional de riñón
-T13	SINTOMA 895 908	uréter normal
+T1	SINTOMA 1110 1129	buen estado general
+T2	SINTOMA 811 861	deficiente visualización de cálices e infundíbulos
+T3	SINTOMA 417 447	dolor lumboabdominal izquierdo
+T4	SINTOMA 1198 1228	normal función renal bilateral
+T5	SINTOMA 772 798	retraso funcional de riñón
+T6	SINTOMA 895 908	uréter normal
+T7	ENFERMEDAD 18 52	Litiasis cálcica calicial de riñón
+T8	ENFERMEDAD 89 99	HTA severa
+T9	ENFERMEDAD 706 721	derrame pleural
+T10	ENFERMEDAD 450 468	shock hipovolémico
+T11	ENFERMEDAD 276 293	Moderada obesidad
+T12	ENFERMEDAD 657 677	hematoma subcapsular
+T13	ENFERMEDAD 1017 1025	hematoma

@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 1392 1398	lesión
-T2	PROCEDIMIENTO 1106 1126	estudio macroscópico
-T3	PROCEDIMIENTO 1354 1374	estudio microscópico
-T4	PROCEDIMIENTO 1690 1716	estudio inmunohistoquímico
-T5	PROCEDIMIENTO 212 223	exploración
-T6	PROCEDIMIENTO 273 282	palpación
-T7	PROCEDIMIENTO 342 362	marcadores tumorales
-T8	PROCEDIMIENTO 365 373	hormonas
-T9	PROCEDIMIENTO 438 447	ecografía
-T10	PROCEDIMIENTO 641 644	RNM
-T11	PROCEDIMIENTO 885 954	tumoración paratesticular derecha se procede a su exéresis quirúrgica
-T12	PROCEDIMIENTO 935 1004	exéresis quirúrgica, separándose la tumoración del conducto deferente
-T13	SINTOMA 1069 1081	asintomático
-T14	SINTOMA 238 244	nódulo
-T15	SINTOMA 668 725	cordón espermático derecho una imagen de señal baja en T2
-T16	SINTOMA 259 282	doloroso a la palpación
-T17	SINTOMA 342 411	marcadores tumorales y hormonas se encuentran dentro de la normalidad
-T18	SINTOMA 110 127	nódulo testicular
-T19	SINTOMA 971 1004	tumoración del conducto deferente
-T20	SINTOMA 885 910	tumoración paratesticular
+T1	SINTOMA 1069 1081	asintomático
+T2	SINTOMA 238 244	nódulo
+T3	SINTOMA 668 725	cordón espermático derecho una imagen de señal baja en T2
+T4	SINTOMA 259 282	doloroso a la palpación
+T5	SINTOMA 342 411	marcadores tumorales y hormonas se encuentran dentro de la normalidad
+T6	SINTOMA 110 127	nódulo testicular
+T7	SINTOMA 971 1004	tumoración del conducto deferente
+T8	SINTOMA 885 910	tumoración paratesticular
+T9	ENFERMEDAD 1392 1398	lesión
+T10	PROCEDIMIENTO 1106 1126	estudio macroscópico
+T11	PROCEDIMIENTO 1354 1374	estudio microscópico
+T12	PROCEDIMIENTO 1690 1716	estudio inmunohistoquímico
+T13	PROCEDIMIENTO 212 223	exploración
+T14	PROCEDIMIENTO 273 282	palpación
+T15	PROCEDIMIENTO 342 362	marcadores tumorales
+T16	PROCEDIMIENTO 365 373	hormonas
+T17	PROCEDIMIENTO 438 447	ecografía
+T18	PROCEDIMIENTO 641 644	RNM
+T19	PROCEDIMIENTO 885 954	tumoración paratesticular derecha se procede a su exéresis quirúrgica
+T20	PROCEDIMIENTO 935 1004	exéresis quirúrgica, separándose la tumoración del conducto deferente

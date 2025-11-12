@@ -1,36 +1,36 @@
-T1	ENFERMEDAD 45 66	endometriosis ovárica
-T2	ENFERMEDAD 142 155	endometriosis
-T3	ENFERMEDAD 1026 1067	urinoma por ligadura o sección del uréter
-T4	ENFERMEDAD 408 421	ectasia renal
-T5	ENFERMEDAD 605 630	patología retroperitoneal
-T6	ENFERMEDAD 1157 1164	urinoma
-T7	PROCEDIMIENTO 1038 1075	ligadura o sección del uréter derecho
-T8	PROCEDIMIENTO 1083 1104	estudio preoperatorio
-T9	PROCEDIMIENTO 1129 1141	ureterolisis
-T10	PROCEDIMIENTO 1144 1164	exéresis del urinoma
-T11	PROCEDIMIENTO 1170 1209	anastomosis termino-terminal del uréter
-T12	PROCEDIMIENTO 1276 1321	Se deja catéter doble J tutorizando el uréter
-T13	PROCEDIMIENTO 1349 1356	cirugía
-T14	PROCEDIMIENTO 1472 1484	intervención
-T15	PROCEDIMIENTO 1554 1557	UIV
-T16	PROCEDIMIENTO 332 349	antiinflamatorios
-T17	PROCEDIMIENTO 375 394	ecografía abdominal
-T18	PROCEDIMIENTO 428 439	exploración
-T19	PROCEDIMIENTO 482 523	palpación profunda de fosa lumbar derecha
-T20	PROCEDIMIENTO 544 590	percusión y palpación de fosa lumbar izquierda
-T21	PROCEDIMIENTO 643 664	urografía intravenosa
-T22	PROCEDIMIENTO 666 669	UIV
-T23	PROCEDIMIENTO 673 697	Tomografía computerizada
-T24	PROCEDIMIENTO 699 702	TAC
-T25	PROCEDIMIENTO 861 864	TAC
-T26	PROCEDIMIENTO 92 137	histerectomía abdominal con doble anexectomía
-T27	SINTOMA 1497 1516	buena función renal
-T28	SINTOMA 813 845	borramiento de la línea de psoas
-T29	SINTOMA 267 306	dolor continuo en región iliaca y sacra
-T30	SINTOMA 461 515	dolor y defensa a la palpación profunda de fosa lumbar
-T31	SINTOMA 526 580	dolorimiento a la percusión y palpación de fosa lumbar
-T32	SINTOMA 929 955	extravasación de contraste
-T33	SINTOMA 877 913	imagen lobulada de contenido líquido
-T34	SINTOMA 1521 1557	normalidad de la vía urinaria en UIV
-T35	SINTOMA 730 755	riñón derecho funcionante
-T36	SINTOMA 968 1002	uréter incluido en dicha formación
+T1	SINTOMA 1497 1516	buena función renal
+T2	SINTOMA 813 845	borramiento de la línea de psoas
+T3	SINTOMA 267 306	dolor continuo en región iliaca y sacra
+T4	SINTOMA 461 515	dolor y defensa a la palpación profunda de fosa lumbar
+T5	SINTOMA 526 580	dolorimiento a la percusión y palpación de fosa lumbar
+T6	SINTOMA 929 955	extravasación de contraste
+T7	SINTOMA 877 913	imagen lobulada de contenido líquido
+T8	SINTOMA 1521 1557	normalidad de la vía urinaria en UIV
+T9	SINTOMA 730 755	riñón derecho funcionante
+T10	SINTOMA 968 1002	uréter incluido en dicha formación
+T11	ENFERMEDAD 45 66	endometriosis ovárica
+T12	ENFERMEDAD 142 155	endometriosis
+T13	ENFERMEDAD 1026 1067	urinoma por ligadura o sección del uréter
+T14	ENFERMEDAD 408 421	ectasia renal
+T15	ENFERMEDAD 605 630	patología retroperitoneal
+T16	ENFERMEDAD 1157 1164	urinoma
+T17	PROCEDIMIENTO 1038 1075	ligadura o sección del uréter derecho
+T18	PROCEDIMIENTO 1083 1104	estudio preoperatorio
+T19	PROCEDIMIENTO 1129 1141	ureterolisis
+T20	PROCEDIMIENTO 1144 1164	exéresis del urinoma
+T21	PROCEDIMIENTO 1170 1209	anastomosis termino-terminal del uréter
+T22	PROCEDIMIENTO 1276 1321	Se deja catéter doble J tutorizando el uréter
+T23	PROCEDIMIENTO 1349 1356	cirugía
+T24	PROCEDIMIENTO 1472 1484	intervención
+T25	PROCEDIMIENTO 1554 1557	UIV
+T26	PROCEDIMIENTO 332 349	antiinflamatorios
+T27	PROCEDIMIENTO 375 394	ecografía abdominal
+T28	PROCEDIMIENTO 428 439	exploración
+T29	PROCEDIMIENTO 482 523	palpación profunda de fosa lumbar derecha
+T30	PROCEDIMIENTO 544 590	percusión y palpación de fosa lumbar izquierda
+T31	PROCEDIMIENTO 643 664	urografía intravenosa
+T32	PROCEDIMIENTO 666 669	UIV
+T33	PROCEDIMIENTO 673 697	Tomografía computerizada
+T34	PROCEDIMIENTO 699 702	TAC
+T35	PROCEDIMIENTO 861 864	TAC
+T36	PROCEDIMIENTO 92 137	histerectomía abdominal con doble anexectomía

@@ -1,13 +1,13 @@
-T1	PROCEDIMIENTO 1161 1172	exploración
-T2	PROCEDIMIENTO 1645 1670	radiografía de la rodilla
-T3	PROCEDIMIENTO 1880 1912	extracción de la bursa rotuliana
-T4	PROCEDIMIENTO 1948 1955	escopia
-T5	PROCEDIMIENTO 302 320	exploración física
-T6	PROCEDIMIENTO 360 411	región subpatelar derecha, con dolor a la palpación
-T7	PROCEDIMIENTO 486 514	movilización activa y pasiva
-T8	PROCEDIMIENTO 749 760	radiografía
-T9	SINTOMA 551 556	dolor
-T10	SINTOMA 1689 1731	cuerpo extraño metálico en bursa rotuliana
-T11	SINTOMA 146 189	dolor en la región subpatelar de la rodilla
-T12	SINTOMA 360 411	región subpatelar derecha, con dolor a la palpación
-T13	SINTOMA 585 604	síntoma acompañante
+T1	SINTOMA 551 556	dolor
+T2	SINTOMA 1689 1731	cuerpo extraño metálico en bursa rotuliana
+T3	SINTOMA 146 189	dolor en la región subpatelar de la rodilla
+T4	SINTOMA 360 411	región subpatelar derecha, con dolor a la palpación
+T5	SINTOMA 585 604	síntoma acompañante
+T6	PROCEDIMIENTO 1161 1172	exploración
+T7	PROCEDIMIENTO 1645 1670	radiografía de la rodilla
+T8	PROCEDIMIENTO 1880 1912	extracción de la bursa rotuliana
+T9	PROCEDIMIENTO 1948 1955	escopia
+T10	PROCEDIMIENTO 302 320	exploración física
+T11	PROCEDIMIENTO 360 411	región subpatelar derecha, con dolor a la palpación
+T12	PROCEDIMIENTO 486 514	movilización activa y pasiva
+T13	PROCEDIMIENTO 749 760	radiografía

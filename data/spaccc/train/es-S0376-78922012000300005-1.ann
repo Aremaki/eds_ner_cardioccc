@@ -1,43 +1,43 @@
-T1	ENFERMEDAD 56 79	deformidades congénitas
-T2	ENFERMEDAD 160 184	hipoplasia del antebrazo
-T3	ENFERMEDAD 197 249	ausencia de rayos digitales tercero, cuarto y quinto
-T4	ENFERMEDAD 492 550	hipoplasia cubital y radial a expensas de su tercio distal
-T5	ENFERMEDAD 556 579	sinostosis radiohumeral
-T6	ENFERMEDAD 581 635	ausencia de los huesos del carpo de aparición temprana
-T7	ENFERMEDAD 1056 1110	fallo en la formación longitudinal de miembro superior
-T8	ENFERMEDAD 252 281	desviación cubital de la mano
-T9	ENFERMEDAD 4261 4274	cicatrización
-T10	ENFERMEDAD 3635 3641	lesión
-T11	ENFERMEDAD 1154 1196	moderado acortamiento longitudinal humeral
-T12	ENFERMEDAD 638 681	ausencia del tercero, cuarto y quinto rayos
-T13	PROCEDIMIENTO 1218 1333	elongación ósea de los huesos del antebrazo por medio de la colocación de un distractor tipo transfixión, uniplanar
-T14	PROCEDIMIENTO 130 148	exploración física
-T15	PROCEDIMIENTO 1504 1531	distracción de ambos huesos
-T16	PROCEDIMIENTO 1584 1712	se colocaron dos clavos paralelos en situación proximal y dos en posición distal al sitio elegido en la diáfisis de ambos huesos
-T17	PROCEDIMIENTO 1730 1740	osteotomía
-T18	PROCEDIMIENTO 1859 1889	osteotomia circular incompleta
-T19	PROCEDIMIENTO 2052 2084	iniciamos la fase de distracción
-T20	PROCEDIMIENTO 2379 2390	distracción
-T21	PROCEDIMIENTO 2391 2418	observamos radiológicamente
-T22	PROCEDIMIENTO 2533 2555	detener la distracción
-T23	PROCEDIMIENTO 2704 2725	retirar el distractor
-T24	PROCEDIMIENTO 2733 2802	efectuar la centralización de la mano sobre la epífisis radial distal
-T25	PROCEDIMIENTO 2862 2895	resección diafisiaria en el radio
-T26	PROCEDIMIENTO 2906 2953	fijación ósea se realizó con clavos de Kischner
-T27	PROCEDIMIENTO 2989 3012	osteotomía en el cúbito
-T28	PROCEDIMIENTO 3383 3432	colocamos el distractor en la diáfisis del húmero
-T29	PROCEDIMIENTO 3670 3695	corticotomía semicircular
-T30	PROCEDIMIENTO 3899 3911	corticotomía
-T31	PROCEDIMIENTO 3934 3968	iniciamos el proceso de elongación
-T32	PROCEDIMIENTO 4238 4248	radiología
-T33	PROCEDIMIENTO 4394 4413	distracción humeral
-T34	PROCEDIMIENTO 4435 4455	retirar el distracto
-T35	PROCEDIMIENTO 4471 4490	artrodesis del codo
-T36	PROCEDIMIENTO 460 476	Radiológicamente
-T37	SINTOMA 2423 2459	adecuada formación ósea longitudinal
-T38	SINTOMA 3281 3310	alteración de la sensibilidad
-T39	SINTOMA 357 377	buena fuerza prensil
-T40	SINTOMA 252 281	desviación cubital de la mano
-T41	SINTOMA 3170 3195	edema discreto de la mano
-T42	SINTOMA 299 350	movilidad de los dedos pulgar e índice era adecuada
-T43	SINTOMA 382 414	sensibilidad se consideró normal
+T1	SINTOMA 2423 2459	adecuada formación ósea longitudinal
+T2	SINTOMA 3281 3310	alteración de la sensibilidad
+T3	SINTOMA 357 377	buena fuerza prensil
+T4	SINTOMA 252 281	desviación cubital de la mano
+T5	SINTOMA 3170 3195	edema discreto de la mano
+T6	SINTOMA 299 350	movilidad de los dedos pulgar e índice era adecuada
+T7	SINTOMA 382 414	sensibilidad se consideró normal
+T8	ENFERMEDAD 56 79	deformidades congénitas
+T9	ENFERMEDAD 160 184	hipoplasia del antebrazo
+T10	ENFERMEDAD 197 249	ausencia de rayos digitales tercero, cuarto y quinto
+T11	ENFERMEDAD 492 550	hipoplasia cubital y radial a expensas de su tercio distal
+T12	ENFERMEDAD 556 579	sinostosis radiohumeral
+T13	ENFERMEDAD 581 635	ausencia de los huesos del carpo de aparición temprana
+T14	ENFERMEDAD 1056 1110	fallo en la formación longitudinal de miembro superior
+T15	ENFERMEDAD 252 281	desviación cubital de la mano
+T16	ENFERMEDAD 4261 4274	cicatrización
+T17	ENFERMEDAD 3635 3641	lesión
+T18	ENFERMEDAD 1154 1196	moderado acortamiento longitudinal humeral
+T19	ENFERMEDAD 638 681	ausencia del tercero, cuarto y quinto rayos
+T20	PROCEDIMIENTO 1218 1333	elongación ósea de los huesos del antebrazo por medio de la colocación de un distractor tipo transfixión, uniplanar
+T21	PROCEDIMIENTO 130 148	exploración física
+T22	PROCEDIMIENTO 1504 1531	distracción de ambos huesos
+T23	PROCEDIMIENTO 1584 1712	se colocaron dos clavos paralelos en situación proximal y dos en posición distal al sitio elegido en la diáfisis de ambos huesos
+T24	PROCEDIMIENTO 1730 1740	osteotomía
+T25	PROCEDIMIENTO 1859 1889	osteotomia circular incompleta
+T26	PROCEDIMIENTO 2052 2084	iniciamos la fase de distracción
+T27	PROCEDIMIENTO 2379 2390	distracción
+T28	PROCEDIMIENTO 2391 2418	observamos radiológicamente
+T29	PROCEDIMIENTO 2533 2555	detener la distracción
+T30	PROCEDIMIENTO 2704 2725	retirar el distractor
+T31	PROCEDIMIENTO 2733 2802	efectuar la centralización de la mano sobre la epífisis radial distal
+T32	PROCEDIMIENTO 2862 2895	resección diafisiaria en el radio
+T33	PROCEDIMIENTO 2906 2953	fijación ósea se realizó con clavos de Kischner
+T34	PROCEDIMIENTO 2989 3012	osteotomía en el cúbito
+T35	PROCEDIMIENTO 3383 3432	colocamos el distractor en la diáfisis del húmero
+T36	PROCEDIMIENTO 3670 3695	corticotomía semicircular
+T37	PROCEDIMIENTO 3899 3911	corticotomía
+T38	PROCEDIMIENTO 3934 3968	iniciamos el proceso de elongación
+T39	PROCEDIMIENTO 4238 4248	radiología
+T40	PROCEDIMIENTO 4394 4413	distracción humeral
+T41	PROCEDIMIENTO 4435 4455	retirar el distracto
+T42	PROCEDIMIENTO 4471 4490	artrodesis del codo
+T43	PROCEDIMIENTO 460 476	Radiológicamente

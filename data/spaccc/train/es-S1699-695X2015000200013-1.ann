@@ -1,18 +1,18 @@
-T1	ENFERMEDAD 1208 1221	morfea lineal
-T2	ENFERMEDAD 48 68	síndrome de Asperger
-T3	ENFERMEDAD 70 119	trastorno de déficit de atención e hiperactividad
-T4	ENFERMEDAD 122 136	hipotiroidismo
-T5	ENFERMEDAD 260 289	lesión en el miembro inferior
-T6	ENFERMEDAD 1191 1197	morfea
-T7	ENFERMEDAD 718 735	lesiones cutáneas
-T8	ENFERMEDAD 1241 1261	afectación articular
-T9	ENFERMEDAD 1265 1275	deformidad
-T10	ENFERMEDAD 1505 1513	lesiones
-T11	SINTOMA 1241 1261	afectación articular
-T12	SINTOMA 963 1038	ANA, anti-Sm, anti-RNP, anti-SSA, anti-SSB, anti-Jo1 y anti-Scl70 negativos
-T13	SINTOMA 1097 1134	análisis de orina no mostró anomalías
-T14	SINTOMA 528 688	placa, indurada a la palpación, con un área discrómica central y un halo violáceo, de distribución lineal en el tercio medio-distal en la zona externa del muslo
-T15	SINTOMA 1043 1091	serología para Borrelia burgdorferi fue negativa
-T16	SINTOMA 399 404	dolor
-T17	SINTOMA 407 414	prurito
-T18	SINTOMA 350 362	asintomática
+T1	SINTOMA 1241 1261	afectación articular
+T2	SINTOMA 963 1038	ANA, anti-Sm, anti-RNP, anti-SSA, anti-SSB, anti-Jo1 y anti-Scl70 negativos
+T3	SINTOMA 1097 1134	análisis de orina no mostró anomalías
+T4	SINTOMA 528 688	placa, indurada a la palpación, con un área discrómica central y un halo violáceo, de distribución lineal en el tercio medio-distal en la zona externa del muslo
+T5	SINTOMA 1043 1091	serología para Borrelia burgdorferi fue negativa
+T6	SINTOMA 399 404	dolor
+T7	SINTOMA 407 414	prurito
+T8	SINTOMA 350 362	asintomática
+T9	ENFERMEDAD 1208 1221	morfea lineal
+T10	ENFERMEDAD 48 68	síndrome de Asperger
+T11	ENFERMEDAD 70 119	trastorno de déficit de atención e hiperactividad
+T12	ENFERMEDAD 122 136	hipotiroidismo
+T13	ENFERMEDAD 260 289	lesión en el miembro inferior
+T14	ENFERMEDAD 1191 1197	morfea
+T15	ENFERMEDAD 718 735	lesiones cutáneas
+T16	ENFERMEDAD 1241 1261	afectación articular
+T17	ENFERMEDAD 1265 1275	deformidad
+T18	ENFERMEDAD 1505 1513	lesiones

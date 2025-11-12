@@ -1,60 +1,60 @@
-T1	ENFERMEDAD 3213 3233	contractura capsular
-T2	ENFERMEDAD 57 71	cáncer mamario
-T3	ENFERMEDAD 118 138	fibroadenoma en mama
-T4	ENFERMEDAD 3116 3133	ruptura protésica
-T5	ENFERMEDAD 3153 3173	contractura capsular
-T6	ENFERMEDAD 310 316	cáncer
-T7	ENFERMEDAD 891 927	dehiscencia de herida en ambas mamas
-T8	ENFERMEDAD 1097 1104	heridas
-T9	ENFERMEDAD 1539 1546	heridas
-T10	PROCEDIMIENTO 105 146	resección de fibroadenoma en mama derecha
-T11	PROCEDIMIENTO 1180 1191	mastectomía
-T12	PROCEDIMIENTO 1242 1251	implantes
-T13	PROCEDIMIENTO 1285 1313	mamario tras la intervención
-T14	PROCEDIMIENTO 1398 1422	antibiótico por via oral
-T15	PROCEDIMIENTO 1457 1474	lavado quirúrgico
-T16	PROCEDIMIENTO 1477 1502	retirada de los implantes
-T17	PROCEDIMIENTO 1507 1579	regularización del borde de las heridas, sutura y colocación de drenajes
-T18	PROCEDIMIENTO 1654 1768	se colocaron expansores mamarios redondos, texturizados, de 300 cc, con válvula integradas, en plano retromuscular
-T19	PROCEDIMIENTO 1854 1896	sustitución de los expansores por prótesis
-T20	PROCEDIMIENTO 2069 2095	retirada de los expansores
-T21	PROCEDIMIENTO 2103 2211	colocación de implantes de gel de silicona de 295 cc, redondos y texturizados, mediante abordaje periareolar
-T22	PROCEDIMIENTO 2250 2293	liberación de los polos mamarios inferiores
-T23	PROCEDIMIENTO 2295 2343	disminución del tamaño del complejo pezón-areola
-T24	PROCEDIMIENTO 233 265	mastectomía subcutánea bilateral
-T25	PROCEDIMIENTO 2346 2375	capsulotomía radial bilateral
-T26	PROCEDIMIENTO 2426 2437	antibiótico
-T27	PROCEDIMIENTO 2440 2455	antinflamatorio
-T28	PROCEDIMIENTO 2470 2477	cirugía
-T29	PROCEDIMIENTO 2489 2502	masaje manual
-T30	PROCEDIMIENTO 2505 2531	aplicación de ultrasonidos
-T31	PROCEDIMIENTO 2591 2603	Endermología
-T32	PROCEDIMIENTO 2916 2943	colocación de los implantes
-T33	PROCEDIMIENTO 3068 3080	ultrasonidos
-T34	PROCEDIMIENTO 3285 3307	tratamiento quirúrgico
-T35	PROCEDIMIENTO 3393 3415	tratamiento quirúrgico
-T36	PROCEDIMIENTO 3448 3469	retirar los implantes
-T37	PROCEDIMIENTO 3483 3535	reconstrucción mamaria con TRAM pediculado bilateral
-T38	PROCEDIMIENTO 3559 3586	tratamiento microquirúrgico
-T39	PROCEDIMIENTO 3728 3742	reconstrucción
-T40	PROCEDIMIENTO 3808 3880	malla de Marlex® para cubrir el defecto de la pared anterior del abdomen
-T41	PROCEDIMIENTO 3889 3928	levantados los dos colgajos pediculados
-T42	PROCEDIMIENTO 4002 4016	reconstrucción
-T43	PROCEDIMIENTO 4039 4050	mastectomía
-T44	PROCEDIMIENTO 449 458	ecografía
-T45	PROCEDIMIENTO 461 471	mamografía
-T46	PROCEDIMIENTO 492 524	estudios genéticos de BRCA 1 ó 2
-T47	PROCEDIMIENTO 546 574	extirpación del fibroadenoma
-T48	PROCEDIMIENTO 590 622	mastectomía subcutánea bilateral
-T49	PROCEDIMIENTO 724 790	intervención se le colocaron implantes mamarios de solución salina
-T50	PROCEDIMIENTO 854 880	se le retiraron los puntos
-T51	PROCEDIMIENTO 952 971	cierres secundarios
-T52	SINTOMA 3243 3248	dolor
-T53	SINTOMA 1006 1013	eritema
-T54	SINTOMA 1015 1055	aumento de la temperatura en ambas mamas
-T55	SINTOMA 2003 2032	dolor punzante en ambas mamas
-T56	SINTOMA 2652 2678	dolor punzante persistente
-T57	SINTOMA 2788 2811	intolerancia intestinal
-T58	SINTOMA 3026 3047	mamas estaban blandas
-T59	SINTOMA 2975 2994	molestias dolorosas
-T60	SINTOMA 1058 1104	salida de material blanquecino por las heridas
+T1	SINTOMA 3243 3248	dolor
+T2	SINTOMA 1006 1013	eritema
+T3	SINTOMA 1015 1055	aumento de la temperatura en ambas mamas
+T4	SINTOMA 2003 2032	dolor punzante en ambas mamas
+T5	SINTOMA 2652 2678	dolor punzante persistente
+T6	SINTOMA 2788 2811	intolerancia intestinal
+T7	SINTOMA 3026 3047	mamas estaban blandas
+T8	SINTOMA 2975 2994	molestias dolorosas
+T9	SINTOMA 1058 1104	salida de material blanquecino por las heridas
+T10	ENFERMEDAD 3213 3233	contractura capsular
+T11	ENFERMEDAD 57 71	cáncer mamario
+T12	ENFERMEDAD 118 138	fibroadenoma en mama
+T13	ENFERMEDAD 3116 3133	ruptura protésica
+T14	ENFERMEDAD 3153 3173	contractura capsular
+T15	ENFERMEDAD 310 316	cáncer
+T16	ENFERMEDAD 891 927	dehiscencia de herida en ambas mamas
+T17	ENFERMEDAD 1097 1104	heridas
+T18	ENFERMEDAD 1539 1546	heridas
+T19	PROCEDIMIENTO 105 146	resección de fibroadenoma en mama derecha
+T20	PROCEDIMIENTO 1180 1191	mastectomía
+T21	PROCEDIMIENTO 1242 1251	implantes
+T22	PROCEDIMIENTO 1285 1313	mamario tras la intervención
+T23	PROCEDIMIENTO 1398 1422	antibiótico por via oral
+T24	PROCEDIMIENTO 1457 1474	lavado quirúrgico
+T25	PROCEDIMIENTO 1477 1502	retirada de los implantes
+T26	PROCEDIMIENTO 1507 1579	regularización del borde de las heridas, sutura y colocación de drenajes
+T27	PROCEDIMIENTO 1654 1768	se colocaron expansores mamarios redondos, texturizados, de 300 cc, con válvula integradas, en plano retromuscular
+T28	PROCEDIMIENTO 1854 1896	sustitución de los expansores por prótesis
+T29	PROCEDIMIENTO 2069 2095	retirada de los expansores
+T30	PROCEDIMIENTO 2103 2211	colocación de implantes de gel de silicona de 295 cc, redondos y texturizados, mediante abordaje periareolar
+T31	PROCEDIMIENTO 2250 2293	liberación de los polos mamarios inferiores
+T32	PROCEDIMIENTO 2295 2343	disminución del tamaño del complejo pezón-areola
+T33	PROCEDIMIENTO 233 265	mastectomía subcutánea bilateral
+T34	PROCEDIMIENTO 2346 2375	capsulotomía radial bilateral
+T35	PROCEDIMIENTO 2426 2437	antibiótico
+T36	PROCEDIMIENTO 2440 2455	antinflamatorio
+T37	PROCEDIMIENTO 2470 2477	cirugía
+T38	PROCEDIMIENTO 2489 2502	masaje manual
+T39	PROCEDIMIENTO 2505 2531	aplicación de ultrasonidos
+T40	PROCEDIMIENTO 2591 2603	Endermología
+T41	PROCEDIMIENTO 2916 2943	colocación de los implantes
+T42	PROCEDIMIENTO 3068 3080	ultrasonidos
+T43	PROCEDIMIENTO 3285 3307	tratamiento quirúrgico
+T44	PROCEDIMIENTO 3393 3415	tratamiento quirúrgico
+T45	PROCEDIMIENTO 3448 3469	retirar los implantes
+T46	PROCEDIMIENTO 3483 3535	reconstrucción mamaria con TRAM pediculado bilateral
+T47	PROCEDIMIENTO 3559 3586	tratamiento microquirúrgico
+T48	PROCEDIMIENTO 3728 3742	reconstrucción
+T49	PROCEDIMIENTO 3808 3880	malla de Marlex® para cubrir el defecto de la pared anterior del abdomen
+T50	PROCEDIMIENTO 3889 3928	levantados los dos colgajos pediculados
+T51	PROCEDIMIENTO 4002 4016	reconstrucción
+T52	PROCEDIMIENTO 4039 4050	mastectomía
+T53	PROCEDIMIENTO 449 458	ecografía
+T54	PROCEDIMIENTO 461 471	mamografía
+T55	PROCEDIMIENTO 492 524	estudios genéticos de BRCA 1 ó 2
+T56	PROCEDIMIENTO 546 574	extirpación del fibroadenoma
+T57	PROCEDIMIENTO 590 622	mastectomía subcutánea bilateral
+T58	PROCEDIMIENTO 724 790	intervención se le colocaron implantes mamarios de solución salina
+T59	PROCEDIMIENTO 854 880	se le retiraron los puntos
+T60	PROCEDIMIENTO 952 971	cierres secundarios

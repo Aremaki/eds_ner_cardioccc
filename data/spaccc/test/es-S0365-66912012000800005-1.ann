@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 35 58	síndrome de Klinefelter
-T2	ENFERMEDAD 665 699	foseta congénita del nervio óptico
-T3	ENFERMEDAD 738 757	atrofia peripapilar
-T4	ENFERMEDAD 772 802	desprendimiento seroso macular
-T5	ENFERMEDAD 1160 1190	desprendimiento seroso macular
-T6	ENFERMEDAD 1322 1333	maculopatía
-T7	ENFERMEDAD 1558 1596	desprendimiento neurosensorial macular
-T8	ENFERMEDAD 1641 1699	agujero macular lamelar en las capas externas de la retina
-T9	ENFERMEDAD 1477 1522	separación de las capas internas de la retina
-T10	ENFERMEDAD 86 111	pérdida de agudeza visual
-T11	PROCEDIMIENTO 1195 1220	campimetría computarizada
-T12	PROCEDIMIENTO 1222 1235	Humphrey 24-2
-T13	PROCEDIMIENTO 1362 1388	angiografía fluoresceínica
-T14	PROCEDIMIENTO 1445 1464	OCT sobre la mácula
-T15	PROCEDIMIENTO 319 338	presión intraocular
-T16	PROCEDIMIENTO 465 484	examen fundoscópico
-T17	PROCEDIMIENTO 807 858	estudio de la capa de fibras nerviosas de la retina
-T18	PROCEDIMIENTO 868 899	tomografía de coherencia óptica
-T19	PROCEDIMIENTO 901 904	OCT
-T20	SINTOMA 978 1006	adelgazamiento en ambos ojos
-T21	SINTOMA 497 550	aumento marcado de la excavación papilar en ambos ojo
-T22	SINTOMA 1249 1284	defecto arciforme superior en el OD
-T23	SINTOMA 1290 1314	defecto central en el OI
-T24	SINTOMA 1402 1440	hipofluorescencia inicial de la foseta
-T25	SINTOMA 608 642	OI se apreciaba una depresión oval
-T26	SINTOMA 86 119	pérdida de agudeza visual del ojo
-T27	SINTOMA 222 260	polo anterior no mostraba alteraciones
-T28	SINTOMA 1477 1552	separación de las capas internas de la retina en comunicación con la foseta
+T1	SINTOMA 978 1006	adelgazamiento en ambos ojos
+T2	SINTOMA 497 550	aumento marcado de la excavación papilar en ambos ojo
+T3	SINTOMA 1249 1284	defecto arciforme superior en el OD
+T4	SINTOMA 1290 1314	defecto central en el OI
+T5	SINTOMA 1402 1440	hipofluorescencia inicial de la foseta
+T6	SINTOMA 608 642	OI se apreciaba una depresión oval
+T7	SINTOMA 86 119	pérdida de agudeza visual del ojo
+T8	SINTOMA 222 260	polo anterior no mostraba alteraciones
+T9	SINTOMA 1477 1552	separación de las capas internas de la retina en comunicación con la foseta
+T10	ENFERMEDAD 35 58	síndrome de Klinefelter
+T11	ENFERMEDAD 665 699	foseta congénita del nervio óptico
+T12	ENFERMEDAD 738 757	atrofia peripapilar
+T13	ENFERMEDAD 772 802	desprendimiento seroso macular
+T14	ENFERMEDAD 1160 1190	desprendimiento seroso macular
+T15	ENFERMEDAD 1322 1333	maculopatía
+T16	ENFERMEDAD 1558 1596	desprendimiento neurosensorial macular
+T17	ENFERMEDAD 1641 1699	agujero macular lamelar en las capas externas de la retina
+T18	ENFERMEDAD 1477 1522	separación de las capas internas de la retina
+T19	ENFERMEDAD 86 111	pérdida de agudeza visual
+T20	PROCEDIMIENTO 1195 1220	campimetría computarizada
+T21	PROCEDIMIENTO 1222 1235	Humphrey 24-2
+T22	PROCEDIMIENTO 1362 1388	angiografía fluoresceínica
+T23	PROCEDIMIENTO 1445 1464	OCT sobre la mácula
+T24	PROCEDIMIENTO 319 338	presión intraocular
+T25	PROCEDIMIENTO 465 484	examen fundoscópico
+T26	PROCEDIMIENTO 807 858	estudio de la capa de fibras nerviosas de la retina
+T27	PROCEDIMIENTO 868 899	tomografía de coherencia óptica
+T28	PROCEDIMIENTO 901 904	OCT

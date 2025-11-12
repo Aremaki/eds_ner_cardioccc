@@ -1,31 +1,31 @@
-T1	ENFERMEDAD 90 119	tumor renal del polo inferior
-T2	ENFERMEDAD 894 924	ascitis de distribución difusa
-T3	ENFERMEDAD 170 223	adherencias peritumorales paraaórticas y al mesocolon
-T4	ENFERMEDAD 943 958	ascitis quilosa
-T5	ENFERMEDAD 1088 1109	hipo-proteinemia leve
-T6	ENFERMEDAD 467 500	carcinoma renal de células claras
-T7	PROCEDIMIENTO 1000 1020	fórmula leucocitaria
-T8	PROCEDIMIENTO 1237 1274	paracentesis diagnóstica o evacuadora
-T9	PROCEDIMIENTO 1280 1307	dieta baja en sal y lípidos
-T10	PROCEDIMIENTO 1309 1333	suplementos de proteinas
-T11	PROCEDIMIENTO 142 154	intervención
-T12	PROCEDIMIENTO 1493 1513	ecografía de abdomen
-T13	PROCEDIMIENTO 1595 1614	ecografía abdominal
-T14	PROCEDIMIENTO 214 287	mesocolon, donde se ligaron o coagularon algunos vasos linfáticos gruesos
-T15	PROCEDIMIENTO 301 330	disección cuidadosa del hilio
-T16	PROCEDIMIENTO 333 358	se clipó el uréter distal
-T17	PROCEDIMIENTO 40 83	nefrectomía radical laparoscópica izquierda
-T18	PROCEDIMIENTO 431 457	estudio anátomo-patológico
-T19	PROCEDIMIENTO 862 880	estudios de imagen
-T20	SINTOMA 943 958	ascitis quilosa
-T21	SINTOMA 833 839	disnea
-T22	SINTOMA 402 410	sangrado
-T23	SINTOMA 894 924	ascitis de distribución difusa
-T24	SINTOMA 788 819	aumento del perimetro abdominal
-T25	SINTOMA 651 677	descenso de la hemoglobina
-T26	SINTOMA 842 852	disconfort
-T27	SINTOMA 1595 1624	ecografía abdominal es normal
-T28	SINTOMA 1000 1052	fórmula leucocitaria y recuento de linfocitos normal
-T29	SINTOMA 1054 1085	función renal y hepática normal
-T30	SINTOMA 1088 1109	hipo-proteinemia leve
-T31	SINTOMA 587 594	pT2 pN0
+T1	SINTOMA 943 958	ascitis quilosa
+T2	SINTOMA 833 839	disnea
+T3	SINTOMA 402 410	sangrado
+T4	SINTOMA 894 924	ascitis de distribución difusa
+T5	SINTOMA 788 819	aumento del perimetro abdominal
+T6	SINTOMA 651 677	descenso de la hemoglobina
+T7	SINTOMA 842 852	disconfort
+T8	SINTOMA 1595 1624	ecografía abdominal es normal
+T9	SINTOMA 1000 1052	fórmula leucocitaria y recuento de linfocitos normal
+T10	SINTOMA 1054 1085	función renal y hepática normal
+T11	SINTOMA 1088 1109	hipo-proteinemia leve
+T12	SINTOMA 587 594	pT2 pN0
+T13	ENFERMEDAD 90 119	tumor renal del polo inferior
+T14	ENFERMEDAD 894 924	ascitis de distribución difusa
+T15	ENFERMEDAD 170 223	adherencias peritumorales paraaórticas y al mesocolon
+T16	ENFERMEDAD 943 958	ascitis quilosa
+T17	ENFERMEDAD 1088 1109	hipo-proteinemia leve
+T18	ENFERMEDAD 467 500	carcinoma renal de células claras
+T19	PROCEDIMIENTO 1000 1020	fórmula leucocitaria
+T20	PROCEDIMIENTO 1237 1274	paracentesis diagnóstica o evacuadora
+T21	PROCEDIMIENTO 1280 1307	dieta baja en sal y lípidos
+T22	PROCEDIMIENTO 1309 1333	suplementos de proteinas
+T23	PROCEDIMIENTO 142 154	intervención
+T24	PROCEDIMIENTO 1493 1513	ecografía de abdomen
+T25	PROCEDIMIENTO 1595 1614	ecografía abdominal
+T26	PROCEDIMIENTO 214 287	mesocolon, donde se ligaron o coagularon algunos vasos linfáticos gruesos
+T27	PROCEDIMIENTO 301 330	disección cuidadosa del hilio
+T28	PROCEDIMIENTO 333 358	se clipó el uréter distal
+T29	PROCEDIMIENTO 40 83	nefrectomía radical laparoscópica izquierda
+T30	PROCEDIMIENTO 431 457	estudio anátomo-patológico
+T31	PROCEDIMIENTO 862 880	estudios de imagen

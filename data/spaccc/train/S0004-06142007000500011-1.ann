@@ -1,35 +1,35 @@
-T1	ENFERMEDAD 1122 1135	Neuroblastoma
-T2	ENFERMEDAD 1867 1882	miofibromatosis
-T3	ENFERMEDAD 616 648	calcificaciones en la tumoración
-T4	PROCEDIMIENTO 1063 1085	tratamiento quirúrgico
-T5	PROCEDIMIENTO 1144 1179	reposición hemática por transfusión
-T6	PROCEDIMIENTO 1187 1202	acto operatorio
-T7	PROCEDIMIENTO 1222 1322	tumoraciones en el meso del colon transverso, la mayor de 7cm, las que fueron resecadas y extirpadas
-T8	PROCEDIMIENTO 1346 1365	examen macroscópico
-T9	PROCEDIMIENTO 1566 1586	estudio microscópico
-T10	PROCEDIMIENTO 1832 1859	diagnóstico histopatológico
-T11	PROCEDIMIENTO 219 232	examen físico
-T12	PROCEDIMIENTO 260 270	palpándose
-T13	PROCEDIMIENTO 530 541	Rx de tórax
-T14	PROCEDIMIENTO 565 576	Survey óseo
-T15	PROCEDIMIENTO 584 604	Rx de abdomen simple
-T16	PROCEDIMIENTO 656 659	UIV
-T17	PROCEDIMIENTO 869 878	ecografía
-T18	SINTOMA 101 129	aumento de volumen abdominal
-T19	SINTOMA 694 727	buena eliminación renal bilateral
-T20	SINTOMA 1538 1561	calcificaciones focales
-T21	SINTOMA 198 214	falta de apetito
-T22	SINTOMA 277 316	flanco abdominal derecho una tumoración
-T23	SINTOMA 894 953	masa sólida, ecogénica, situada en flanco abdominal derecho
-T24	SINTOMA 237 258	mucosas están pálidas
-T25	SINTOMA 664 692	riñones son de tamaño normal
-T26	SINTOMA 530 551	Rx de tórax es normal
-T27	SINTOMA 1603 1624	tumoración intestinal
-T28	SINTOMA 1222 1266	tumoraciones en el meso del colon transverso
-T29	SINTOMA 180 195	pérdida de peso
-T30	SINTOMA 850 860	tumoración
-T31	SINTOMA 1406 1418	tumoraciones
-T32	SINTOMA 616 631	calcificaciones
-T33	SINTOMA 349 367	consistencia firme
-T34	SINTOMA 1488 1506	consistencia firme
-T35	SINTOMA 373 381	dolorosa
+T1	SINTOMA 101 129	aumento de volumen abdominal
+T2	SINTOMA 694 727	buena eliminación renal bilateral
+T3	SINTOMA 1538 1561	calcificaciones focales
+T4	SINTOMA 198 214	falta de apetito
+T5	SINTOMA 277 316	flanco abdominal derecho una tumoración
+T6	SINTOMA 894 953	masa sólida, ecogénica, situada en flanco abdominal derecho
+T7	SINTOMA 237 258	mucosas están pálidas
+T8	SINTOMA 664 692	riñones son de tamaño normal
+T9	SINTOMA 530 551	Rx de tórax es normal
+T10	SINTOMA 1603 1624	tumoración intestinal
+T11	SINTOMA 1222 1266	tumoraciones en el meso del colon transverso
+T12	SINTOMA 180 195	pérdida de peso
+T13	SINTOMA 850 860	tumoración
+T14	SINTOMA 1406 1418	tumoraciones
+T15	SINTOMA 616 631	calcificaciones
+T16	SINTOMA 349 367	consistencia firme
+T17	SINTOMA 1488 1506	consistencia firme
+T18	SINTOMA 373 381	dolorosa
+T19	ENFERMEDAD 1122 1135	Neuroblastoma
+T20	ENFERMEDAD 1867 1882	miofibromatosis
+T21	ENFERMEDAD 616 648	calcificaciones en la tumoración
+T22	PROCEDIMIENTO 1063 1085	tratamiento quirúrgico
+T23	PROCEDIMIENTO 1144 1179	reposición hemática por transfusión
+T24	PROCEDIMIENTO 1187 1202	acto operatorio
+T25	PROCEDIMIENTO 1222 1322	tumoraciones en el meso del colon transverso, la mayor de 7cm, las que fueron resecadas y extirpadas
+T26	PROCEDIMIENTO 1346 1365	examen macroscópico
+T27	PROCEDIMIENTO 1566 1586	estudio microscópico
+T28	PROCEDIMIENTO 1832 1859	diagnóstico histopatológico
+T29	PROCEDIMIENTO 219 232	examen físico
+T30	PROCEDIMIENTO 260 270	palpándose
+T31	PROCEDIMIENTO 530 541	Rx de tórax
+T32	PROCEDIMIENTO 565 576	Survey óseo
+T33	PROCEDIMIENTO 584 604	Rx de abdomen simple
+T34	PROCEDIMIENTO 656 659	UIV
+T35	PROCEDIMIENTO 869 878	ecografía

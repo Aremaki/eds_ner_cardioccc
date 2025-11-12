@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 144 177	punción con una espina de pescado
-T2	PROCEDIMIENTO 184 195	exploración
-T3	PROCEDIMIENTO 305 366	palpación sobre el trayecto tendinoso flexor del segundo dedo
-T4	PROCEDIMIENTO 382 407	extensión pasiva del dedo
-T5	PROCEDIMIENTO 409 424	Ecográficamente
-T6	PROCEDIMIENTO 553 575	exploración quirúrgica
-T7	PROCEDIMIENTO 576 720	se evacuó una pequeña cantidad de pus dentro de la vaina sinovial mediante un drenaje con apertura de las poleas A1 y A5 y sistema de irrigación
-T8	PROCEDIMIENTO 654 696	drenaje con apertura de las poleas A1 y A5
-T9	PROCEDIMIENTO 699 720	sistema de irrigación
-T10	SINTOMA 261 292	actitud en semiflexión del dedo
-T11	SINTOMA 439 501	área hipoecogénica alrededor del tendón flexor del dedo índice
-T12	SINTOMA 294 366	dolor a la palpación sobre el trayecto tendinoso flexor del segundo dedo
-T13	SINTOMA 369 407	dolor con la extensión pasiva del dedo
-T14	SINTOMA 77 114	dolor y tumefacción en el dedo índice
-T15	SINTOMA 239 258	hinchazón simétrica
-T16	SINTOMA 516 545	hipervascularización sinovial
-T17	SINTOMA 610 641	pus dentro de la vaina sinovial
+T1	SINTOMA 261 292	actitud en semiflexión del dedo
+T2	SINTOMA 439 501	área hipoecogénica alrededor del tendón flexor del dedo índice
+T3	SINTOMA 294 366	dolor a la palpación sobre el trayecto tendinoso flexor del segundo dedo
+T4	SINTOMA 369 407	dolor con la extensión pasiva del dedo
+T5	SINTOMA 77 114	dolor y tumefacción en el dedo índice
+T6	SINTOMA 239 258	hinchazón simétrica
+T7	SINTOMA 516 545	hipervascularización sinovial
+T8	SINTOMA 610 641	pus dentro de la vaina sinovial
+T9	ENFERMEDAD 144 177	punción con una espina de pescado
+T10	PROCEDIMIENTO 184 195	exploración
+T11	PROCEDIMIENTO 305 366	palpación sobre el trayecto tendinoso flexor del segundo dedo
+T12	PROCEDIMIENTO 382 407	extensión pasiva del dedo
+T13	PROCEDIMIENTO 409 424	Ecográficamente
+T14	PROCEDIMIENTO 553 575	exploración quirúrgica
+T15	PROCEDIMIENTO 576 720	se evacuó una pequeña cantidad de pus dentro de la vaina sinovial mediante un drenaje con apertura de las poleas A1 y A5 y sistema de irrigación
+T16	PROCEDIMIENTO 654 696	drenaje con apertura de las poleas A1 y A5
+T17	PROCEDIMIENTO 699 720	sistema de irrigación

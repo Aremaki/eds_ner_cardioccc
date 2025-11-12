@@ -1,35 +1,35 @@
-T1	ENFERMEDAD 260 262	DM
-T2	ENFERMEDAD 267 270	HTA
-T3	ENFERMEDAD 346 350	ITUs
-T4	ENFERMEDAD 1772 1789	quíste hidatídico
-T5	ENFERMEDAD 1138 1174	múltiples quistes en riñón izquierdo
-T6	ENFERMEDAD 1267 1294	enfermedad hidatídica renal
-T7	ENFERMEDAD 295 305	Ex fumador
-T8	ENFERMEDAD 275 283	alergias
-T9	ENFERMEDAD 836 844	lesiones
-T10	ENFERMEDAD 1212 1230	lesiones quísticas
-T11	SINTOMA 976 1003	analítica de orina negativa
-T12	SINTOMA 2067 2079	asintomático
-T13	SINTOMA 943 960	Bioquímica normal
-T14	SINTOMA 516 532	chorro aceptable
-T15	SINTOMA 494 511	clínica miccional
-T16	SINTOMA 334 341	cólicos
-T17	SINTOMA 534 541	disuria
-T18	SINTOMA 151 158	disuria
-T19	SINTOMA 93 105	dolor lumbar
-T20	SINTOMA 464 476	dolor lumbar
-T21	SINTOMA 930 941	Eosinofilia
-T22	SINTOMA 399 418	febrícula ocasional
-T23	SINTOMA 82 88	fiebre
-T24	SINTOMA 563 568	goteo
-T25	SINTOMA 320 329	hematuria
-T26	SINTOMA 899 915	Hemograma normal
-T27	SINTOMA 748 772	masa en flanco izquierdo
-T28	SINTOMA 1050 1074	masa en flanco izquierdo
-T29	SINTOMA 117 134	pesadez en flanco
-T30	SINTOMA 432 459	pesadez en flanco izquierdo
-T31	SINTOMA 655 685	sensación de vacuidad completa
-T32	SINTOMA 1309 1368	serología de Anticuerpos Echinococcus/Hemag que es POSITIVO
-T33	SINTOMA 420 430	sudoración
-T34	SINTOMA 69 79	sudoración
-T35	SINTOMA 573 581	urgencia
+T1	SINTOMA 976 1003	analítica de orina negativa
+T2	SINTOMA 2067 2079	asintomático
+T3	SINTOMA 943 960	Bioquímica normal
+T4	SINTOMA 516 532	chorro aceptable
+T5	SINTOMA 494 511	clínica miccional
+T6	SINTOMA 334 341	cólicos
+T7	SINTOMA 534 541	disuria
+T8	SINTOMA 151 158	disuria
+T9	SINTOMA 93 105	dolor lumbar
+T10	SINTOMA 464 476	dolor lumbar
+T11	SINTOMA 930 941	Eosinofilia
+T12	SINTOMA 399 418	febrícula ocasional
+T13	SINTOMA 82 88	fiebre
+T14	SINTOMA 563 568	goteo
+T15	SINTOMA 320 329	hematuria
+T16	SINTOMA 899 915	Hemograma normal
+T17	SINTOMA 748 772	masa en flanco izquierdo
+T18	SINTOMA 1050 1074	masa en flanco izquierdo
+T19	SINTOMA 117 134	pesadez en flanco
+T20	SINTOMA 432 459	pesadez en flanco izquierdo
+T21	SINTOMA 655 685	sensación de vacuidad completa
+T22	SINTOMA 1309 1368	serología de Anticuerpos Echinococcus/Hemag que es POSITIVO
+T23	SINTOMA 420 430	sudoración
+T24	SINTOMA 69 79	sudoración
+T25	SINTOMA 573 581	urgencia
+T26	ENFERMEDAD 260 262	DM
+T27	ENFERMEDAD 267 270	HTA
+T28	ENFERMEDAD 346 350	ITUs
+T29	ENFERMEDAD 1772 1789	quíste hidatídico
+T30	ENFERMEDAD 1138 1174	múltiples quistes en riñón izquierdo
+T31	ENFERMEDAD 1267 1294	enfermedad hidatídica renal
+T32	ENFERMEDAD 295 305	Ex fumador
+T33	ENFERMEDAD 275 283	alergias
+T34	ENFERMEDAD 836 844	lesiones
+T35	ENFERMEDAD 1212 1230	lesiones quísticas

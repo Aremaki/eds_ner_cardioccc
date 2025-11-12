@@ -1,34 +1,34 @@
-T1	ENFERMEDAD 1228 1244	cavidad quística
-T2	ENFERMEDAD 272 287	diabetes tipo 2
-T3	ENFERMEDAD 3454 3462	neumonía
-T4	ENFERMEDAD 3334 3344	metástasis
-T5	ENFERMEDAD 368 378	tabaquismo
-T6	ENFERMEDAD 3358 3375	tumores primarios
-T7	ENFERMEDAD 618 634	linfoadenopatías
-T8	ENFERMEDAD 1462 1496	tumor odontogénico queratoquístico
-T9	ENFERMEDAD 2756 2780	proliferación neoplásica
-T10	ENFERMEDAD 3108 3175	carcinoma de células escamosas intraóseo moderadamente diferenciado
-T11	ENFERMEDAD 257 269	hipertensión
-T12	ENFERMEDAD 2339 2351	defecto óseo
-T13	ENFERMEDAD 381 399	consumo de alcohol
-T14	ENFERMEDAD 574 580	lesión
-T15	ENFERMEDAD 810 816	lesión
-T16	ENFERMEDAD 1167 1173	lesión
-T17	ENFERMEDAD 1450 1456	lesión
-T18	ENFERMEDAD 1953 1959	lesión
-T19	ENFERMEDAD 2244 2250	lesión
-T20	ENFERMEDAD 2020 2077	destrucción de tablas óseas tanto vestibular como lingual
-T21	ENFERMEDAD 1044 1071	perforación de tablas óseas
-T22	ENFERMEDAD 2795 2841	patrón infiltrativo hacia el tejido conjuntivo
-T23	SINTOMA 1013 1071	abombamiento, adelgazamiento y perforación de tablas óseas
-T24	SINTOMA 113 203	aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular
-T25	SINTOMA 442 491	aumento de volumen en la zona anterior mandibular
-T26	SINTOMA 666 688	compromiso neurológico
-T27	SINTOMA 2020 2047	destrucción de tablas óseas
-T28	SINTOMA 810 850	lesión hipodensa de aspecto multilocular
-T29	SINTOMA 544 612	piel y mucosa que recubría la lesión era de características normales
-T30	SINTOMA 495 513	consistencia firme
-T31	SINTOMA 1642 1662	impotencia funcional
-T32	SINTOMA 516 539	doloroso a la palpación
-T33	SINTOMA 1634 1639	dolor
-T34	SINTOMA 3431 3442	falleciendo
+T1	SINTOMA 1013 1071	abombamiento, adelgazamiento y perforación de tablas óseas
+T2	SINTOMA 113 203	aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular
+T3	SINTOMA 442 491	aumento de volumen en la zona anterior mandibular
+T4	SINTOMA 666 688	compromiso neurológico
+T5	SINTOMA 2020 2047	destrucción de tablas óseas
+T6	SINTOMA 810 850	lesión hipodensa de aspecto multilocular
+T7	SINTOMA 544 612	piel y mucosa que recubría la lesión era de características normales
+T8	SINTOMA 495 513	consistencia firme
+T9	SINTOMA 1642 1662	impotencia funcional
+T10	SINTOMA 516 539	doloroso a la palpación
+T11	SINTOMA 1634 1639	dolor
+T12	SINTOMA 3431 3442	falleciendo
+T13	ENFERMEDAD 1228 1244	cavidad quística
+T14	ENFERMEDAD 272 287	diabetes tipo 2
+T15	ENFERMEDAD 3454 3462	neumonía
+T16	ENFERMEDAD 3334 3344	metástasis
+T17	ENFERMEDAD 368 378	tabaquismo
+T18	ENFERMEDAD 3358 3375	tumores primarios
+T19	ENFERMEDAD 618 634	linfoadenopatías
+T20	ENFERMEDAD 1462 1496	tumor odontogénico queratoquístico
+T21	ENFERMEDAD 2756 2780	proliferación neoplásica
+T22	ENFERMEDAD 3108 3175	carcinoma de células escamosas intraóseo moderadamente diferenciado
+T23	ENFERMEDAD 257 269	hipertensión
+T24	ENFERMEDAD 2339 2351	defecto óseo
+T25	ENFERMEDAD 381 399	consumo de alcohol
+T26	ENFERMEDAD 574 580	lesión
+T27	ENFERMEDAD 810 816	lesión
+T28	ENFERMEDAD 1167 1173	lesión
+T29	ENFERMEDAD 1450 1456	lesión
+T30	ENFERMEDAD 1953 1959	lesión
+T31	ENFERMEDAD 2244 2250	lesión
+T32	ENFERMEDAD 2020 2077	destrucción de tablas óseas tanto vestibular como lingual
+T33	ENFERMEDAD 1044 1071	perforación de tablas óseas
+T34	ENFERMEDAD 2795 2841	patrón infiltrativo hacia el tejido conjuntivo

@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 1493 1539	proceso neoplásico en el lóbulo medio pulmonar
-T2	ENFERMEDAD 152 285	carcinoma de células escamosas que afectaba al borde lingual, la pared lateral orofaríngea, el área amigdalar y el hemipaladar blando
-T3	ENFERMEDAD 326 430	adenopatías metastásicas en los ejes vasculares y en las regiones submaxilares de ambos lados del cuello
-T4	ENFERMEDAD 1910 1945	desgarros en la pared de la tráquea
-T5	ENFERMEDAD 491 496	tumor
-T6	SINTOMA 1670 1708	hilo de sutura en la luz de la tráquea
-T7	SINTOMA 2090 2113	hilo de sutura traqueal
-T8	SINTOMA 1473 1539	masa compatible con proceso neoplásico en el lóbulo medio pulmonar
-T9	SINTOMA 1986 2038	masa pulmonar resultó ser de naturaleza inflamatoria
-T10	SINTOMA 2185 2212	sensación de cuerpo extraño
-T11	SINTOMA 2236 2239	tos
-T12	SINTOMA 2243 2249	disnea
+T1	SINTOMA 1670 1708	hilo de sutura en la luz de la tráquea
+T2	SINTOMA 2090 2113	hilo de sutura traqueal
+T3	SINTOMA 1473 1539	masa compatible con proceso neoplásico en el lóbulo medio pulmonar
+T4	SINTOMA 1986 2038	masa pulmonar resultó ser de naturaleza inflamatoria
+T5	SINTOMA 2185 2212	sensación de cuerpo extraño
+T6	SINTOMA 2236 2239	tos
+T7	SINTOMA 2243 2249	disnea
+T8	ENFERMEDAD 1493 1539	proceso neoplásico en el lóbulo medio pulmonar
+T9	ENFERMEDAD 152 285	carcinoma de células escamosas que afectaba al borde lingual, la pared lateral orofaríngea, el área amigdalar y el hemipaladar blando
+T10	ENFERMEDAD 326 430	adenopatías metastásicas en los ejes vasculares y en las regiones submaxilares de ambos lados del cuello
+T11	ENFERMEDAD 1910 1945	desgarros en la pared de la tráquea
+T12	ENFERMEDAD 491 496	tumor

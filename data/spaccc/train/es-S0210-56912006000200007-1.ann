@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 40 49	depresión
-T2	ENFERMEDAD 52 63	alcoholismo
-T3	ENFERMEDAD 125 158	ingerido arsénico voluntariamente
-T4	ENFERMEDAD 389 414	acidosis metabólica aguda
-T5	ENFERMEDAD 540 553	hipopotasemia
-T6	ENFERMEDAD 2019 2045	taquicardias ventriculares
-T7	ENFERMEDAD 2181 2198	fallo renal agudo
-T8	ENFERMEDAD 3339 3415	neumonía por Staphylococcus aureus, Klebsiella oxytoca y Serratia marcescens
-T9	ENFERMEDAD 3514 3535	necrosis renal masiva
-T10	ENFERMEDAD 3537 3571	necrosis centrolobulillar hepática
-T11	ENFERMEDAD 3605 3631	infarto agudo de miocardio
-T12	ENFERMEDAD 3633 3652	trombosis coronaria
-T13	ENFERMEDAD 3673 3684	miocarditis
-T14	ENFERMEDAD 3299 3325	hipotensión arterial grave
-T15	ENFERMEDAD 2089 2092	TDP
-T16	SINTOMA 187 194	agitado
-T17	SINTOMA 1869 1935	depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6
-T18	SINTOMA 906 950	deterioro progresivo del nivel de conciencia
-T19	SINTOMA 219 233	diarrea acuosa
-T20	SINTOMA 3281 3287	fiebre
-T21	SINTOMA 540 553	hipopotasemia
-T22	SINTOMA 3001 3021	intervalo QTc normal
-T23	SINTOMA 1826 1850	intervalo QTc prolongado
-T24	SINTOMA 1118 1124	miosis
-T25	SINTOMA 3429 3434	murió
-T26	SINTOMA 200 207	náuseas
-T27	SINTOMA 1717 1775	radiografía de tórax estuvo dentro de los límites normales
-T28	SINTOMA 1791 1804	ritmo sinusal
-T29	SINTOMA 604 623	taquicardia sinusal
-T30	SINTOMA 209 216	vómitos
+T1	SINTOMA 187 194	agitado
+T2	SINTOMA 1869 1935	depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6
+T3	SINTOMA 906 950	deterioro progresivo del nivel de conciencia
+T4	SINTOMA 219 233	diarrea acuosa
+T5	SINTOMA 3281 3287	fiebre
+T6	SINTOMA 540 553	hipopotasemia
+T7	SINTOMA 3001 3021	intervalo QTc normal
+T8	SINTOMA 1826 1850	intervalo QTc prolongado
+T9	SINTOMA 1118 1124	miosis
+T10	SINTOMA 3429 3434	murió
+T11	SINTOMA 200 207	náuseas
+T12	SINTOMA 1717 1775	radiografía de tórax estuvo dentro de los límites normales
+T13	SINTOMA 1791 1804	ritmo sinusal
+T14	SINTOMA 604 623	taquicardia sinusal
+T15	SINTOMA 209 216	vómitos
+T16	ENFERMEDAD 40 49	depresión
+T17	ENFERMEDAD 52 63	alcoholismo
+T18	ENFERMEDAD 125 158	ingerido arsénico voluntariamente
+T19	ENFERMEDAD 389 414	acidosis metabólica aguda
+T20	ENFERMEDAD 540 553	hipopotasemia
+T21	ENFERMEDAD 2019 2045	taquicardias ventriculares
+T22	ENFERMEDAD 2181 2198	fallo renal agudo
+T23	ENFERMEDAD 3339 3415	neumonía por Staphylococcus aureus, Klebsiella oxytoca y Serratia marcescens
+T24	ENFERMEDAD 3514 3535	necrosis renal masiva
+T25	ENFERMEDAD 3537 3571	necrosis centrolobulillar hepática
+T26	ENFERMEDAD 3605 3631	infarto agudo de miocardio
+T27	ENFERMEDAD 3633 3652	trombosis coronaria
+T28	ENFERMEDAD 3673 3684	miocarditis
+T29	ENFERMEDAD 3299 3325	hipotensión arterial grave
+T30	ENFERMEDAD 2089 2092	TDP

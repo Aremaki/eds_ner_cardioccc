@@ -1,16 +1,16 @@
-T1	ENFERMEDAD 35 38	LES
-T2	ENFERMEDAD 41 65	síndrome antifosfolípido
-T3	ENFERMEDAD 442 453	adenopatías
-T4	ENFERMEDAD 961 964	LES
-T5	ENFERMEDAD 416 436	hepatoesplenomegalia
-T6	ENFERMEDAD 657 677	hepatoesplenomegalia
-T7	ENFERMEDAD 682 690	lesiones
-T8	SINTOMA 1673 1680	afebril
-T9	SINTOMA 562 620	Eco-Dopler y radiografía de tórax, dentro de la normalidad
-T10	SINTOMA 262 268	fiebre
-T11	SINTOMA 1230 1236	fiebre
-T12	SINTOMA 511 560	hemocultivos, urinocultivo, mantoux son negativos
-T13	SINTOMA 1510 1545	hemoparásitos del género Leishmania
-T14	SINTOMA 1159 1170	neutropenia
-T15	SINTOMA 918 937	serologías normales
-T16	SINTOMA 622 649	TAC toraco-abdominal normal
+T1	SINTOMA 1673 1680	afebril
+T2	SINTOMA 562 620	Eco-Dopler y radiografía de tórax, dentro de la normalidad
+T3	SINTOMA 262 268	fiebre
+T4	SINTOMA 1230 1236	fiebre
+T5	SINTOMA 511 560	hemocultivos, urinocultivo, mantoux son negativos
+T6	SINTOMA 1510 1545	hemoparásitos del género Leishmania
+T7	SINTOMA 1159 1170	neutropenia
+T8	SINTOMA 918 937	serologías normales
+T9	SINTOMA 622 649	TAC toraco-abdominal normal
+T10	ENFERMEDAD 35 38	LES
+T11	ENFERMEDAD 41 65	síndrome antifosfolípido
+T12	ENFERMEDAD 442 453	adenopatías
+T13	ENFERMEDAD 961 964	LES
+T14	ENFERMEDAD 416 436	hepatoesplenomegalia
+T15	ENFERMEDAD 657 677	hepatoesplenomegalia
+T16	ENFERMEDAD 682 690	lesiones

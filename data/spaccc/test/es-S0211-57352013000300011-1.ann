@@ -1,66 +1,66 @@
-T1	ENFERMEDAD 1466 1490	Hemorragia Subaracnoidea
-T2	ENFERMEDAD 2142 2145	HSA
-T3	ENFERMEDAD 29 77	Delirio de Capgras tras Hemorragia Subaracnoidea
-T4	ENFERMEDAD 1492 1495	HSA
-T5	ENFERMEDAD 3698 3744	delirios, de influencia corporal, de telepatía
-T6	ENFERMEDAD 53 77	Hemorragia Subaracnoidea
-T7	ENFERMEDAD 79 82	HSA
-T8	ENFERMEDAD 3759 3787	fenómeno alucinatorio simple
-T9	ENFERMEDAD 3009 3023	hipotiroidismo
-T10	ENFERMEDAD 3026 3032	DM-NID
-T11	ENFERMEDAD 3053 3062	Potomanía
-T12	ENFERMEDAD 3065 3130	enuresis secundarias a episodios de diabetes insípida nefrogénica
-T13	ENFERMEDAD 3101 3130	diabetes insípida nefrogénica
-T14	ENFERMEDAD 2357 2366	potomanía
-T15	ENFERMEDAD 2368 2431	descompensación psicótica con ideación delirante tipo paranoide
-T16	ENFERMEDAD 2433 2459	alucinaciones cenestésicas
-T17	ENFERMEDAD 1765 1769	coma
-T18	ENFERMEDAD 455 493	brote psicótico con ideación paranoide
-T19	ENFERMEDAD 2528 2536	insomnio
-T20	ENFERMEDAD 3620 3646	consumo abusivo de alcohol
-T21	ENFERMEDAD 558 589	episodios maniacos y depresivos
-T22	ENFERMEDAD 2598 2639	nefropatía secundaria a diabetes insípida
-T23	ENFERMEDAD 2689 2774	Trastorno Esquizoafectivo mixto, con síntomas psicóticos congruentes y no congruentes
-T24	ENFERMEDAD 4276 4279	HSA
-T25	ENFERMEDAD 2778 2794	Abuso de alcohol
-T26	ENFERMEDAD 4499 4523	Sintomatología psicótica
-T27	ENFERMEDAD 1078 1104	consumo abusivo de alcohol
-T28	ENFERMEDAD 1167 1237	Trastorno Bipolar con síntomas psicóticos congruentes y no congruentes
-T29	ENFERMEDAD 1256 1272	Abuso de alcohol
-T30	ENFERMEDAD 801 819	episodio depresivo
-T31	ENFERMEDAD 1983 1985	DC
-T32	ENFERMEDAD 3747 3749	DC
-T33	ENFERMEDAD 4039 4041	DC
-T34	ENFERMEDAD 1634 1661	hematoma parietal izquierdo
-T35	PROCEDIMIENTO 1033 1054	tratamiento con Litio
-T36	PROCEDIMIENTO 1501 1504	TAC
-T37	PROCEDIMIENTO 2872 2886	rehabilitación
-T38	PROCEDIMIENTO 3169 3179	tiacídicos
-T39	PROCEDIMIENTO 3186 3214	exploración neuropsicológica
-T40	PROCEDIMIENTO 3650 3676	Evaluación psicopatológica
-T41	PROCEDIMIENTO 4397 4416	Complejo Vitamina B
-T42	SINTOMA 851 864	fallecimiento
-T43	SINTOMA 686 697	vida normal
-T44	SINTOMA 3551 3569	afectación frontal
-T45	SINTOMA 1672 1746	afectación grave del nivel de conciencia, sensibilidad, motricidad y habla
-T46	SINTOMA 1512 1577	afectación izquierda temporoparietal que se rodea de amplio edema
-T47	SINTOMA 2461 2479	aislamiento social
-T48	SINTOMA 2433 2459	alucinaciones cenestésicas
-T49	SINTOMA 2509 2526	ánimo hipertímico
-T50	SINTOMA 3492 3535	conductas verbales socialmente inapropiadas
-T51	SINTOMA 2205 2246	descompensación de síntomas psiquiátricos
-T52	SINTOMA 2547 2560	desinhibición
-T53	SINTOMA 3235 3316	deterioro cognitivo tanto en memoria operativa como en velocidad de procesamiento
-T54	SINTOMA 1579 1619	efecto masa sobre el sistema ventricular
-T55	SINTOMA 265 277	extrovertida
-T56	SINTOMA 2969 2991	hipotonía generalizada
-T57	SINTOMA 290 303	independiente
-T58	SINTOMA 4544 4559	insight parcial
-T59	SINTOMA 2528 2536	insomnio
-T60	SINTOMA 305 331	Intelectualmente brillante
-T61	SINTOMA 2935 2964	limitación funcional moderada
-T62	SINTOMA 2482 2507	pensamiento desorganizado
-T63	SINTOMA 2726 2774	síntomas psicóticos congruentes y no congruentes
-T64	SINTOMA 1189 1238	síntomas psicóticos congruentes y no congruentes,
-T65	SINTOMA 4499 4532	Sintomatología psicótica positiva
-T66	SINTOMA 279 287	sociable
+T1	SINTOMA 851 864	fallecimiento
+T2	SINTOMA 686 697	vida normal
+T3	SINTOMA 3551 3569	afectación frontal
+T4	SINTOMA 1672 1746	afectación grave del nivel de conciencia, sensibilidad, motricidad y habla
+T5	SINTOMA 1512 1577	afectación izquierda temporoparietal que se rodea de amplio edema
+T6	SINTOMA 2461 2479	aislamiento social
+T7	SINTOMA 2433 2459	alucinaciones cenestésicas
+T8	SINTOMA 2509 2526	ánimo hipertímico
+T9	SINTOMA 3492 3535	conductas verbales socialmente inapropiadas
+T10	SINTOMA 2205 2246	descompensación de síntomas psiquiátricos
+T11	SINTOMA 2547 2560	desinhibición
+T12	SINTOMA 3235 3316	deterioro cognitivo tanto en memoria operativa como en velocidad de procesamiento
+T13	SINTOMA 1579 1619	efecto masa sobre el sistema ventricular
+T14	SINTOMA 265 277	extrovertida
+T15	SINTOMA 2969 2991	hipotonía generalizada
+T16	SINTOMA 290 303	independiente
+T17	SINTOMA 4544 4559	insight parcial
+T18	SINTOMA 2528 2536	insomnio
+T19	SINTOMA 305 331	Intelectualmente brillante
+T20	SINTOMA 2935 2964	limitación funcional moderada
+T21	SINTOMA 2482 2507	pensamiento desorganizado
+T22	SINTOMA 2726 2774	síntomas psicóticos congruentes y no congruentes
+T23	SINTOMA 1189 1238	síntomas psicóticos congruentes y no congruentes,
+T24	SINTOMA 4499 4532	Sintomatología psicótica positiva
+T25	SINTOMA 279 287	sociable
+T26	ENFERMEDAD 1466 1490	Hemorragia Subaracnoidea
+T27	ENFERMEDAD 2142 2145	HSA
+T28	ENFERMEDAD 29 77	Delirio de Capgras tras Hemorragia Subaracnoidea
+T29	ENFERMEDAD 1492 1495	HSA
+T30	ENFERMEDAD 3698 3744	delirios, de influencia corporal, de telepatía
+T31	ENFERMEDAD 53 77	Hemorragia Subaracnoidea
+T32	ENFERMEDAD 79 82	HSA
+T33	ENFERMEDAD 3759 3787	fenómeno alucinatorio simple
+T34	ENFERMEDAD 3009 3023	hipotiroidismo
+T35	ENFERMEDAD 3026 3032	DM-NID
+T36	ENFERMEDAD 3053 3062	Potomanía
+T37	ENFERMEDAD 3065 3130	enuresis secundarias a episodios de diabetes insípida nefrogénica
+T38	ENFERMEDAD 3101 3130	diabetes insípida nefrogénica
+T39	ENFERMEDAD 2357 2366	potomanía
+T40	ENFERMEDAD 2368 2431	descompensación psicótica con ideación delirante tipo paranoide
+T41	ENFERMEDAD 2433 2459	alucinaciones cenestésicas
+T42	ENFERMEDAD 1765 1769	coma
+T43	ENFERMEDAD 455 493	brote psicótico con ideación paranoide
+T44	ENFERMEDAD 2528 2536	insomnio
+T45	ENFERMEDAD 3620 3646	consumo abusivo de alcohol
+T46	ENFERMEDAD 558 589	episodios maniacos y depresivos
+T47	ENFERMEDAD 2598 2639	nefropatía secundaria a diabetes insípida
+T48	ENFERMEDAD 2689 2774	Trastorno Esquizoafectivo mixto, con síntomas psicóticos congruentes y no congruentes
+T49	ENFERMEDAD 4276 4279	HSA
+T50	ENFERMEDAD 2778 2794	Abuso de alcohol
+T51	ENFERMEDAD 4499 4523	Sintomatología psicótica
+T52	ENFERMEDAD 1078 1104	consumo abusivo de alcohol
+T53	ENFERMEDAD 1167 1237	Trastorno Bipolar con síntomas psicóticos congruentes y no congruentes
+T54	ENFERMEDAD 1256 1272	Abuso de alcohol
+T55	ENFERMEDAD 801 819	episodio depresivo
+T56	ENFERMEDAD 1983 1985	DC
+T57	ENFERMEDAD 3747 3749	DC
+T58	ENFERMEDAD 4039 4041	DC
+T59	ENFERMEDAD 1634 1661	hematoma parietal izquierdo
+T60	PROCEDIMIENTO 1033 1054	tratamiento con Litio
+T61	PROCEDIMIENTO 1501 1504	TAC
+T62	PROCEDIMIENTO 2872 2886	rehabilitación
+T63	PROCEDIMIENTO 3169 3179	tiacídicos
+T64	PROCEDIMIENTO 3186 3214	exploración neuropsicológica
+T65	PROCEDIMIENTO 3650 3676	Evaluación psicopatológica
+T66	PROCEDIMIENTO 4397 4416	Complejo Vitamina B

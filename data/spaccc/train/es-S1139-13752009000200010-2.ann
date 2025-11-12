@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 37 56	pancolitis ulcerosa
-T2	ENFERMEDAD 73 91	corticodependiente
-T3	ENFERMEDAD 158 192	sobreinfección por citomegalovirus
-T4	ENFERMEDAD 1058 1093	catéter central por infección MARSA
-T5	ENFERMEDAD 275 298	diarrea con sangre roja
-T6	ENFERMEDAD 341 367	anemia ferropénica crónica
-T7	ENFERMEDAD 433 452	pancolitis ulcerosa
-T8	SINTOMA 275 293	diarrea con sangre
-T9	SINTOMA 678 711	empeoramiento clínico y analítico
-T10	SINTOMA 611 632	deposiciones líquidas
-T11	SINTOMA 642 657	dolor abdominal
-T12	SINTOMA 660 666	fiebre
+T1	SINTOMA 275 293	diarrea con sangre
+T2	SINTOMA 678 711	empeoramiento clínico y analítico
+T3	SINTOMA 611 632	deposiciones líquidas
+T4	SINTOMA 642 657	dolor abdominal
+T5	SINTOMA 660 666	fiebre
+T6	ENFERMEDAD 37 56	pancolitis ulcerosa
+T7	ENFERMEDAD 73 91	corticodependiente
+T8	ENFERMEDAD 158 192	sobreinfección por citomegalovirus
+T9	ENFERMEDAD 1058 1093	catéter central por infección MARSA
+T10	ENFERMEDAD 275 298	diarrea con sangre roja
+T11	ENFERMEDAD 341 367	anemia ferropénica crónica
+T12	ENFERMEDAD 433 452	pancolitis ulcerosa

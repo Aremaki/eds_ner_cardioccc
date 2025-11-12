@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 1094 1106	hiponatremia
-T2	ENFERMEDAD 37 54	neoplasia de mama
-T3	ENFERMEDAD 579 597	síndrome depresivo
-T4	ENFERMEDAD 108 135	miocardiopatía hipertensiva
-T5	ENFERMEDAD 1190 1195	SIADH
-T6	ENFERMEDAD 154 173	hipercolesterolemia
-T7	ENFERMEDAD 176 205	hiponatremia crónica moderada
-T8	ENFERMEDAD 1360 1372	hiponatremia
-T9	ENFERMEDAD 806 818	hiponatremia
-T10	ENFERMEDAD 1005 1074	síndrome confusional secundario a infección urinaria y/o hiponatremia
-T11	ENFERMEDAD 1039 1057	infección urinaria
-T12	ENFERMEDAD 1062 1074	hiponatremia
-T13	PROCEDIMIENTO 1150 1159	analítica
-T14	PROCEDIMIENTO 1212 1230	hormonas tiroideas
-T15	PROCEDIMIENTO 1475 1494	restricción hídrica
-T16	PROCEDIMIENTO 1501 1514	fluidoterapia
-T17	PROCEDIMIENTO 1723 1742	restricción hídrica
-T18	PROCEDIMIENTO 2310 2329	dieta baja en sodio
-T19	PROCEDIMIENTO 37 74	neoplasia de mama tratada con cirugía
-T20	PROCEDIMIENTO 37 93	neoplasia de mama tratada con cirugía y terapia hormonal
-T21	PROCEDIMIENTO 870 889	restricción hídrica
-T22	SINTOMA 680 687	náuseas
-T23	SINTOMA 689 696	vómitos
-T24	SINTOMA 806 818	hiponatremia
-T25	SINTOMA 1094 1106	hiponatremia
-T26	SINTOMA 1360 1372	hiponatremia
-T27	SINTOMA 139 152	ritmo sinusal
-T28	SINTOMA 747 778	alteraciones del comportamiento
+T1	SINTOMA 680 687	náuseas
+T2	SINTOMA 689 696	vómitos
+T3	SINTOMA 806 818	hiponatremia
+T4	SINTOMA 1094 1106	hiponatremia
+T5	SINTOMA 1360 1372	hiponatremia
+T6	SINTOMA 139 152	ritmo sinusal
+T7	SINTOMA 747 778	alteraciones del comportamiento
+T8	ENFERMEDAD 1094 1106	hiponatremia
+T9	ENFERMEDAD 37 54	neoplasia de mama
+T10	ENFERMEDAD 579 597	síndrome depresivo
+T11	ENFERMEDAD 108 135	miocardiopatía hipertensiva
+T12	ENFERMEDAD 1190 1195	SIADH
+T13	ENFERMEDAD 154 173	hipercolesterolemia
+T14	ENFERMEDAD 176 205	hiponatremia crónica moderada
+T15	ENFERMEDAD 1360 1372	hiponatremia
+T16	ENFERMEDAD 806 818	hiponatremia
+T17	ENFERMEDAD 1005 1074	síndrome confusional secundario a infección urinaria y/o hiponatremia
+T18	ENFERMEDAD 1039 1057	infección urinaria
+T19	ENFERMEDAD 1062 1074	hiponatremia
+T20	PROCEDIMIENTO 1150 1159	analítica
+T21	PROCEDIMIENTO 1212 1230	hormonas tiroideas
+T22	PROCEDIMIENTO 1475 1494	restricción hídrica
+T23	PROCEDIMIENTO 1501 1514	fluidoterapia
+T24	PROCEDIMIENTO 1723 1742	restricción hídrica
+T25	PROCEDIMIENTO 2310 2329	dieta baja en sodio
+T26	PROCEDIMIENTO 37 74	neoplasia de mama tratada con cirugía
+T27	PROCEDIMIENTO 37 93	neoplasia de mama tratada con cirugía y terapia hormonal
+T28	PROCEDIMIENTO 870 889	restricción hídrica

@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 1497 1511	Fenilcetonuria
-T2	ENFERMEDAD 98 122	Enfermedades Metabólicas
-T3	ENFERMEDAD 175 196	enfermedad metabólica
-T4	ENFERMEDAD 1678 1681	PKU
-T5	ENFERMEDAD 256 268	microcefalia
-T6	ENFERMEDAD 271 292	retraso mental severo
-T7	ENFERMEDAD 1158 1161	PKU
-T8	ENFERMEDAD 346 367	malformación cardiaca
-T9	ENFERMEDAD 1220 1264	trastornos en el metabolismo de las pterinas
-T10	ENFERMEDAD 2609 2612	PKU
-T11	ENFERMEDAD 725 753	retraso mental leve-moderado
-T12	SINTOMA 1321 1405	cambios mutacionales en el gen PAH: c.165delT (p.Phe55fs) / c.q62G > A (p.Val388Met)
-T13	SINTOMA 369 377	falleció
-T14	SINTOMA 1149 1176	fenotipo PKU suave-moderado
-T15	SINTOMA 416 430	hablaba normal
-T16	SINTOMA 1237 1289	metabolismo de las pterinas, cuyo estudio fue normal
-T17	SINTOMA 256 268	microcefalia
-T18	SINTOMA 887 917	niveles de Phe fueron normales
-T19	SINTOMA 1437 1472	portadores de la mutación p.Phe55fs
-T20	SINTOMA 725 753	retraso mental leve-moderado
-T21	SINTOMA 271 292	retraso mental severo
+T1	SINTOMA 1321 1405	cambios mutacionales en el gen PAH: c.165delT (p.Phe55fs) / c.q62G > A (p.Val388Met)
+T2	SINTOMA 369 377	falleció
+T3	SINTOMA 1149 1176	fenotipo PKU suave-moderado
+T4	SINTOMA 416 430	hablaba normal
+T5	SINTOMA 1237 1289	metabolismo de las pterinas, cuyo estudio fue normal
+T6	SINTOMA 256 268	microcefalia
+T7	SINTOMA 887 917	niveles de Phe fueron normales
+T8	SINTOMA 1437 1472	portadores de la mutación p.Phe55fs
+T9	SINTOMA 725 753	retraso mental leve-moderado
+T10	SINTOMA 271 292	retraso mental severo
+T11	ENFERMEDAD 1497 1511	Fenilcetonuria
+T12	ENFERMEDAD 98 122	Enfermedades Metabólicas
+T13	ENFERMEDAD 175 196	enfermedad metabólica
+T14	ENFERMEDAD 1678 1681	PKU
+T15	ENFERMEDAD 256 268	microcefalia
+T16	ENFERMEDAD 271 292	retraso mental severo
+T17	ENFERMEDAD 1158 1161	PKU
+T18	ENFERMEDAD 346 367	malformación cardiaca
+T19	ENFERMEDAD 1220 1264	trastornos en el metabolismo de las pterinas
+T20	ENFERMEDAD 2609 2612	PKU
+T21	ENFERMEDAD 725 753	retraso mental leve-moderado

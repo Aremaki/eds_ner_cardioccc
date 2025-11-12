@@ -1,36 +1,36 @@
-T1	ENFERMEDAD 1762 1801	melanoma mucoso epitelioide infiltrante
-T2	ENFERMEDAD 1815 1831	melanoma in situ
-T3	ENFERMEDAD 769 795	hemorragia intraoperatoria
-T4	ENFERMEDAD 1874 1919	Ganglio cervical con infiltración de melanoma
-T5	ENFERMEDAD 289 305	melanoma nodular
-T6	ENFERMEDAD 365 370	tumor
-T7	ENFERMEDAD 469 495	adenomegalias en el cuello
-T8	ENFERMEDAD 1620 1669	parálisis del nervio motor ocular común izquierdo
-T9	ENFERMEDAD 1524 1530	herida
-T10	ENFERMEDAD 94 111	obstrucción nasal
-T11	ENFERMEDAD 1257 1302	tumor que se originaba en el cornete inferior
-T12	PROCEDIMIENTO 1024 1044	rinotomía horizontal
-T13	PROCEDIMIENTO 1049 1071	sección de la columela
-T14	PROCEDIMIENTO 1074 1109	sección vertical del labio superior
-T15	PROCEDIMIENTO 1111 1152	Se resecó el tabique óseo y cartilaginoso
-T16	PROCEDIMIENTO 1219 1312	resección en bloque del septum con el tumor que se originaba en el cornete inferior izquierdo
-T17	PROCEDIMIENTO 1328 1337	resección
-T18	PROCEDIMIENTO 1500 1530	Se suturó por planos la herida
-T19	PROCEDIMIENTO 1539 1591	taponamiento con "pack" de gasa del lecho quirúrgico
-T20	PROCEDIMIENTO 1712 1731	Anatomía Patológica
-T21	PROCEDIMIENTO 1833 1853	Resección incompleta
-T22	PROCEDIMIENTO 1932 1978	radioterapia con reconstrucción tridimensional
-T23	PROCEDIMIENTO 2005 2018	quimioterapia
-T24	PROCEDIMIENTO 235 253	biopsia quirúrgica
-T25	PROCEDIMIENTO 314 344	tomografía axial computarizada
-T26	PROCEDIMIENTO 346 349	TAC
-T27	PROCEDIMIENTO 457 495	se palpaban adenomegalias en el cuello
-T28	PROCEDIMIENTO 570 573	TAC
-T29	PROCEDIMIENTO 675 687	cervicotomía
-T30	PROCEDIMIENTO 693 726	ligar la arteria carótida externa
-T31	PROCEDIMIENTO 808 910	biopsia por congelación intraoperatoria de un ganglio hallado aisladamente en la bifurcación carotídea
-T32	PROCEDIMIENTO 937 954	ligadura arterial
-T33	SINTOMA 94 111	obstrucción nasal
-T34	SINTOMA 260 264	masa
-T35	SINTOMA 124 133	epistaxis
-T36	SINTOMA 157 189	tumoración azulada en fosa nasal
+T1	SINTOMA 94 111	obstrucción nasal
+T2	SINTOMA 260 264	masa
+T3	SINTOMA 124 133	epistaxis
+T4	SINTOMA 157 189	tumoración azulada en fosa nasal
+T5	ENFERMEDAD 1762 1801	melanoma mucoso epitelioide infiltrante
+T6	ENFERMEDAD 1815 1831	melanoma in situ
+T7	ENFERMEDAD 769 795	hemorragia intraoperatoria
+T8	ENFERMEDAD 1874 1919	Ganglio cervical con infiltración de melanoma
+T9	ENFERMEDAD 289 305	melanoma nodular
+T10	ENFERMEDAD 365 370	tumor
+T11	ENFERMEDAD 469 495	adenomegalias en el cuello
+T12	ENFERMEDAD 1620 1669	parálisis del nervio motor ocular común izquierdo
+T13	ENFERMEDAD 1524 1530	herida
+T14	ENFERMEDAD 94 111	obstrucción nasal
+T15	ENFERMEDAD 1257 1302	tumor que se originaba en el cornete inferior
+T16	PROCEDIMIENTO 1024 1044	rinotomía horizontal
+T17	PROCEDIMIENTO 1049 1071	sección de la columela
+T18	PROCEDIMIENTO 1074 1109	sección vertical del labio superior
+T19	PROCEDIMIENTO 1111 1152	Se resecó el tabique óseo y cartilaginoso
+T20	PROCEDIMIENTO 1219 1312	resección en bloque del septum con el tumor que se originaba en el cornete inferior izquierdo
+T21	PROCEDIMIENTO 1328 1337	resección
+T22	PROCEDIMIENTO 1500 1530	Se suturó por planos la herida
+T23	PROCEDIMIENTO 1539 1591	taponamiento con "pack" de gasa del lecho quirúrgico
+T24	PROCEDIMIENTO 1712 1731	Anatomía Patológica
+T25	PROCEDIMIENTO 1833 1853	Resección incompleta
+T26	PROCEDIMIENTO 1932 1978	radioterapia con reconstrucción tridimensional
+T27	PROCEDIMIENTO 2005 2018	quimioterapia
+T28	PROCEDIMIENTO 235 253	biopsia quirúrgica
+T29	PROCEDIMIENTO 314 344	tomografía axial computarizada
+T30	PROCEDIMIENTO 346 349	TAC
+T31	PROCEDIMIENTO 457 495	se palpaban adenomegalias en el cuello
+T32	PROCEDIMIENTO 570 573	TAC
+T33	PROCEDIMIENTO 675 687	cervicotomía
+T34	PROCEDIMIENTO 693 726	ligar la arteria carótida externa
+T35	PROCEDIMIENTO 808 910	biopsia por congelación intraoperatoria de un ganglio hallado aisladamente en la bifurcación carotídea
+T36	PROCEDIMIENTO 937 954	ligadura arterial

@@ -1,23 +1,23 @@
-T1	ENFERMEDAD 70 143	meningioma transicional (grado I de la OMS) parasagital frontal izquierdo
-T2	ENFERMEDAD 1096 1130	crisis tónico-clónica generalizada
-T3	ENFERMEDAD 1829 1845	empiema subdural
-T4	ENFERMEDAD 189 222	infección de la herida quirúrgica
-T5	ENFERMEDAD 1909 1948	colección subdural de aspecto purulento
-T6	ENFERMEDAD 1388 1397	infección
-T7	ENFERMEDAD 1508 1526	colección subdural
-T8	ENFERMEDAD 2789 2860	recidiva de empiema subdural postquirúrgico por Propionibacterium acnés
-T9	ENFERMEDAD 699 727	colección purulenta epidural
-T10	ENFERMEDAD 1347 1364	herida quirúrgica
-T11	ENFERMEDAD 2132 2141	infección
-T12	SINTOMA 1675 1710	aire en el interior de la colección
-T13	SINTOMA 699 727	colección purulenta epidural
-T14	SINTOMA 2246 2296	crecimiento de Proprionibacterium acnes (P. acnes)
-T15	SINTOMA 861 898	cultivos bacterianos fueron negativos
-T16	SINTOMA 384 414	exploración neurológica normal
-T17	SINTOMA 1145 1154	febrícula
-T18	SINTOMA 1272 1279	afebril
-T19	SINTOMA 1320 1341	focalidad neurológica
-T20	SINTOMA 331 337	fiebre
-T21	SINTOMA 342 366	estado general era bueno
-T22	SINTOMA 1244 1263	buen estado general
-T23	SINTOMA 283 301	material purulento
+T1	SINTOMA 1675 1710	aire en el interior de la colección
+T2	SINTOMA 699 727	colección purulenta epidural
+T3	SINTOMA 2246 2296	crecimiento de Proprionibacterium acnes (P. acnes)
+T4	SINTOMA 861 898	cultivos bacterianos fueron negativos
+T5	SINTOMA 384 414	exploración neurológica normal
+T6	SINTOMA 1145 1154	febrícula
+T7	SINTOMA 1272 1279	afebril
+T8	SINTOMA 1320 1341	focalidad neurológica
+T9	SINTOMA 331 337	fiebre
+T10	SINTOMA 342 366	estado general era bueno
+T11	SINTOMA 1244 1263	buen estado general
+T12	SINTOMA 283 301	material purulento
+T13	ENFERMEDAD 70 143	meningioma transicional (grado I de la OMS) parasagital frontal izquierdo
+T14	ENFERMEDAD 1096 1130	crisis tónico-clónica generalizada
+T15	ENFERMEDAD 1829 1845	empiema subdural
+T16	ENFERMEDAD 189 222	infección de la herida quirúrgica
+T17	ENFERMEDAD 1909 1948	colección subdural de aspecto purulento
+T18	ENFERMEDAD 1388 1397	infección
+T19	ENFERMEDAD 1508 1526	colección subdural
+T20	ENFERMEDAD 2789 2860	recidiva de empiema subdural postquirúrgico por Propionibacterium acnés
+T21	ENFERMEDAD 699 727	colección purulenta epidural
+T22	ENFERMEDAD 1347 1364	herida quirúrgica
+T23	ENFERMEDAD 2132 2141	infección

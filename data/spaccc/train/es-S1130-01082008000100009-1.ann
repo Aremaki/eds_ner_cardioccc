@@ -1,16 +1,16 @@
-T1	ENFERMEDAD 533 546	daño hepático
-T2	ENFERMEDAD 60 81	enfermedad de Hodgkin
-T3	ENFERMEDAD 569 619	lesiones focales en el tercio inferior del esófago
-T4	ENFERMEDAD 170 190	hemorragia digestiva
-T5	ENFERMEDAD 192 199	melenas
-T6	ENFERMEDAD 768 787	infección herpética
-T7	ENFERMEDAD 414 442	insuficiencia hepática aguda
-T8	ENFERMEDAD 458 471	encefalopatía
-T9	ENFERMEDAD 474 501	hemorragia digestiva masiva
-T10	ENFERMEDAD 676 682	lesión
-T11	SINTOMA 277 327	alteración en las pruebas de coagulación sanguínea
-T12	SINTOMA 229 259	elevación de las transaminasas
-T13	SINTOMA 370 378	falleció
-T14	SINTOMA 170 190	hemorragia digestiva
-T15	SINTOMA 474 501	hemorragia digestiva masiva
-T16	SINTOMA 192 199	melenas
+T1	SINTOMA 277 327	alteración en las pruebas de coagulación sanguínea
+T2	SINTOMA 229 259	elevación de las transaminasas
+T3	SINTOMA 370 378	falleció
+T4	SINTOMA 170 190	hemorragia digestiva
+T5	SINTOMA 474 501	hemorragia digestiva masiva
+T6	SINTOMA 192 199	melenas
+T7	ENFERMEDAD 533 546	daño hepático
+T8	ENFERMEDAD 60 81	enfermedad de Hodgkin
+T9	ENFERMEDAD 569 619	lesiones focales en el tercio inferior del esófago
+T10	ENFERMEDAD 170 190	hemorragia digestiva
+T11	ENFERMEDAD 192 199	melenas
+T12	ENFERMEDAD 768 787	infección herpética
+T13	ENFERMEDAD 414 442	insuficiencia hepática aguda
+T14	ENFERMEDAD 458 471	encefalopatía
+T15	ENFERMEDAD 474 501	hemorragia digestiva masiva
+T16	ENFERMEDAD 676 682	lesión

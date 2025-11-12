@@ -1,34 +1,34 @@
-T1	ENFERMEDAD 31 53	hematuria macroscópica
-T2	ENFERMEDAD 694 714	ureterohidronefrosis
-T3	ENFERMEDAD 187 219	ureterohidronefrosis en el riñón
-T4	ENFERMEDAD 1644 1663	diarrea persistente
-T5	ENFERMEDAD 274 313	tumor vesical infiltrante de alto grado
-T6	ENFERMEDAD 1620 1642	trastornos metabólicos
-T7	PROCEDIMIENTO 1035 1058	laparotomía exploradora
-T8	PROCEDIMIENTO 1079 1096	disección pélvica
-T9	PROCEDIMIENTO 1133 1183	Construimos una neovejiga ileal con 45 cm de íleon
-T10	PROCEDIMIENTO 1365 1372	cirugía
-T11	PROCEDIMIENTO 1526 1533	cirugía
-T12	PROCEDIMIENTO 1697 1745	autocateterismos por alto residuo post-miccional
-T13	PROCEDIMIENTO 1760 1806	asa de Bricker se liberó de la pared abdominal
-T14	PROCEDIMIENTO 1809 1867	tras acortarlo se anastomosó a la chimenea de la neovejiga
-T15	PROCEDIMIENTO 1886 1905	reimplante ureteral
-T16	PROCEDIMIENTO 1910 1933	sonda vesical se retiró
-T17	PROCEDIMIENTO 2056 2077	derivación ortotópica
-T18	PROCEDIMIENTO 246 257	RTU-biopsia
-T19	PROCEDIMIENTO 318 338	estudio de extensión
-T20	PROCEDIMIENTO 417 458	cistoprostatectomía radical laparoscópica
-T21	PROCEDIMIENTO 463 495	derivación urinaria tipo Bricker
-T22	PROCEDIMIENTO 672 679	cirugía
-T23	PROCEDIMIENTO 87 96	ecografía
-T24	SINTOMA 1233 1241	sangrado
-T25	SINTOMA 31 53	hematuria macroscópica
-T26	SINTOMA 1644 1651	diarrea
-T27	SINTOMA 1969 1980	continencia
-T28	SINTOMA 1379 1389	continente
-T29	SINTOMA 318 355	estudio de extensión resultó negativo
-T30	SINTOMA 1666 1679	incontinencia
-T31	SINTOMA 118 169	masa de 5 cm en cara lateral izquierda de la vejiga
-T32	SINTOMA 1118 1131	muñón uretral
-T33	SINTOMA 511 521	pT2b No Mo
-T34	SINTOMA 1723 1745	residuo post-miccional
+T1	SINTOMA 1233 1241	sangrado
+T2	SINTOMA 31 53	hematuria macroscópica
+T3	SINTOMA 1644 1651	diarrea
+T4	SINTOMA 1969 1980	continencia
+T5	SINTOMA 1379 1389	continente
+T6	SINTOMA 318 355	estudio de extensión resultó negativo
+T7	SINTOMA 1666 1679	incontinencia
+T8	SINTOMA 118 169	masa de 5 cm en cara lateral izquierda de la vejiga
+T9	SINTOMA 1118 1131	muñón uretral
+T10	SINTOMA 511 521	pT2b No Mo
+T11	SINTOMA 1723 1745	residuo post-miccional
+T12	ENFERMEDAD 31 53	hematuria macroscópica
+T13	ENFERMEDAD 694 714	ureterohidronefrosis
+T14	ENFERMEDAD 187 219	ureterohidronefrosis en el riñón
+T15	ENFERMEDAD 1644 1663	diarrea persistente
+T16	ENFERMEDAD 274 313	tumor vesical infiltrante de alto grado
+T17	ENFERMEDAD 1620 1642	trastornos metabólicos
+T18	PROCEDIMIENTO 1035 1058	laparotomía exploradora
+T19	PROCEDIMIENTO 1079 1096	disección pélvica
+T20	PROCEDIMIENTO 1133 1183	Construimos una neovejiga ileal con 45 cm de íleon
+T21	PROCEDIMIENTO 1365 1372	cirugía
+T22	PROCEDIMIENTO 1526 1533	cirugía
+T23	PROCEDIMIENTO 1697 1745	autocateterismos por alto residuo post-miccional
+T24	PROCEDIMIENTO 1760 1806	asa de Bricker se liberó de la pared abdominal
+T25	PROCEDIMIENTO 1809 1867	tras acortarlo se anastomosó a la chimenea de la neovejiga
+T26	PROCEDIMIENTO 1886 1905	reimplante ureteral
+T27	PROCEDIMIENTO 1910 1933	sonda vesical se retiró
+T28	PROCEDIMIENTO 2056 2077	derivación ortotópica
+T29	PROCEDIMIENTO 246 257	RTU-biopsia
+T30	PROCEDIMIENTO 318 338	estudio de extensión
+T31	PROCEDIMIENTO 417 458	cistoprostatectomía radical laparoscópica
+T32	PROCEDIMIENTO 463 495	derivación urinaria tipo Bricker
+T33	PROCEDIMIENTO 672 679	cirugía
+T34	PROCEDIMIENTO 87 96	ecografía

@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 1076 1102	fibroma cemento-osificante
-T2	ENFERMEDAD 398 414	hábito tabáquico
-T3	ENFERMEDAD 419 437	consumo de alcohol
-T4	ENFERMEDAD 234 260	deformidad estética facial
-T5	ENFERMEDAD 158 164	lesión
-T6	ENFERMEDAD 478 494	asimetría facial
-T7	PROCEDIMIENTO 1120 1147	intervenida quirúrgicamente
-T8	PROCEDIMIENTO 1153 1170	anestesia general
-T9	PROCEDIMIENTO 1184 1212	extirpación de la tumoración
-T10	PROCEDIMIENTO 1214 1236	legrado del lecho óseo
-T11	PROCEDIMIENTO 1239 1292	avulsión de 35, 36, 38 y restos radiculares maxilares
-T12	PROCEDIMIENTO 1431 1443	radiológicos
-T13	PROCEDIMIENTO 336 371	histerectomía más doble anisectomía
-T14	PROCEDIMIENTO 445 463	exploración física
-T15	PROCEDIMIENTO 502 518	examen intraoral
-T16	PROCEDIMIENTO 879 899	exploración cervical
-T17	PROCEDIMIENTO 917 935	examen radiológico
-T18	PROCEDIMIENTO 940 957	ortopantomografía
-T19	SINTOMA 169 181	asintomática
-T20	SINTOMA 1380 1392	asintomática
-T21	SINTOMA 1202 1212	tumoración
-T22	SINTOMA 478 494	asimetría facial
-T23	SINTOMA 234 293	deformidad estética facial e interfiriéndole la masticación
-T24	SINTOMA 981 1004	desplazamiento dentario
-T25	SINTOMA 879 912	exploración cervical era negativa
-T26	SINTOMA 841 859	restos radiculares
-T27	SINTOMA 1011 1029	restos radiculares
-T28	SINTOMA 1264 1292	restos radiculares maxilares
-T29	SINTOMA 114 129	tumoración oral
-T30	SINTOMA 536 587	tumoración pediculada en cresta gingival mandibular
+T1	SINTOMA 169 181	asintomática
+T2	SINTOMA 1380 1392	asintomática
+T3	SINTOMA 1202 1212	tumoración
+T4	SINTOMA 478 494	asimetría facial
+T5	SINTOMA 234 293	deformidad estética facial e interfiriéndole la masticación
+T6	SINTOMA 981 1004	desplazamiento dentario
+T7	SINTOMA 879 912	exploración cervical era negativa
+T8	SINTOMA 841 859	restos radiculares
+T9	SINTOMA 1011 1029	restos radiculares
+T10	SINTOMA 1264 1292	restos radiculares maxilares
+T11	SINTOMA 114 129	tumoración oral
+T12	SINTOMA 536 587	tumoración pediculada en cresta gingival mandibular
+T13	ENFERMEDAD 1076 1102	fibroma cemento-osificante
+T14	ENFERMEDAD 398 414	hábito tabáquico
+T15	ENFERMEDAD 419 437	consumo de alcohol
+T16	ENFERMEDAD 234 260	deformidad estética facial
+T17	ENFERMEDAD 158 164	lesión
+T18	ENFERMEDAD 478 494	asimetría facial
+T19	PROCEDIMIENTO 1120 1147	intervenida quirúrgicamente
+T20	PROCEDIMIENTO 1153 1170	anestesia general
+T21	PROCEDIMIENTO 1184 1212	extirpación de la tumoración
+T22	PROCEDIMIENTO 1214 1236	legrado del lecho óseo
+T23	PROCEDIMIENTO 1239 1292	avulsión de 35, 36, 38 y restos radiculares maxilares
+T24	PROCEDIMIENTO 1431 1443	radiológicos
+T25	PROCEDIMIENTO 336 371	histerectomía más doble anisectomía
+T26	PROCEDIMIENTO 445 463	exploración física
+T27	PROCEDIMIENTO 502 518	examen intraoral
+T28	PROCEDIMIENTO 879 899	exploración cervical
+T29	PROCEDIMIENTO 917 935	examen radiológico
+T30	PROCEDIMIENTO 940 957	ortopantomografía

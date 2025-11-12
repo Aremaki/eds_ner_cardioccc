@@ -1,30 +1,30 @@
-T1	ENFERMEDAD 189 221	lesión nodular gingival superior
-T2	ENFERMEDAD 733 754	condrosarcoma maxilar
-T3	ENFERMEDAD 2080 2093	condrosarcoma
-T4	ENFERMEDAD 977 982	tumor
-T5	ENFERMEDAD 1011 1016	tumor
-T6	ENFERMEDAD 1775 1780	tumor
-T7	ENFERMEDAD 2197 2202	tumor
-T8	PROCEDIMIENTO 1110 1113	TAC
-T9	PROCEDIMIENTO 1206 1232	tratamiento quimioterápico
-T10	PROCEDIMIENTO 1644 1667	intervención quirúrgica
-T11	PROCEDIMIENTO 1685 1698	traqueostomía
-T12	PROCEDIMIENTO 1711 1742	maxilectomía bilateral subtotal
-T13	PROCEDIMIENTO 1711 1759	maxilectomía bilateral subtotal con palatectomía
-T14	PROCEDIMIENTO 1954 2051	estudio histopatológico realizado con microfotografía de luz y con tinción de hematoxilina/eosina
-T15	PROCEDIMIENTO 1992 2014	microfotografía de luz
-T16	PROCEDIMIENTO 2021 2051	tinción de hematoxilina/eosina
-T17	PROCEDIMIENTO 2243 2267	procedimiento quirúrgico
-T18	PROCEDIMIENTO 2284 2383	reconstrucción maxilar parcial y de forma temporal con miniplacas de titanio y prótesis aloplástica
-T19	PROCEDIMIENTO 2428 2443	cirugía radical
-T20	PROCEDIMIENTO 2621 2624	TAC
-T21	PROCEDIMIENTO 390 414	tomografía computarizada
-T22	PROCEDIMIENTO 416 418	TC
-T23	PROCEDIMIENTO 596 639	resección marginal de la tumoración maxilar
-T24	PROCEDIMIENTO 596 667	resección marginal de la tumoración maxilar mediante abordaje sublabial
-T25	PROCEDIMIENTO 673 721	informó histopatológico de la pieza de resección
-T26	PROCEDIMIENTO 712 721	resección
-T27	PROCEDIMIENTO 864 886	radioterapia adyuvante
-T28	SINTOMA 2466 2485	buen estado general
-T29	SINTOMA 1116 1179	ocupa toda la maxila derecha y parcialmente la maxila izquierda
-T30	SINTOMA 435 506	tumoración maxilar derecha con infiltración hacia antro y cavidad nasal
+T1	SINTOMA 2466 2485	buen estado general
+T2	SINTOMA 1116 1179	ocupa toda la maxila derecha y parcialmente la maxila izquierda
+T3	SINTOMA 435 506	tumoración maxilar derecha con infiltración hacia antro y cavidad nasal
+T4	ENFERMEDAD 189 221	lesión nodular gingival superior
+T5	ENFERMEDAD 733 754	condrosarcoma maxilar
+T6	ENFERMEDAD 2080 2093	condrosarcoma
+T7	ENFERMEDAD 977 982	tumor
+T8	ENFERMEDAD 1011 1016	tumor
+T9	ENFERMEDAD 1775 1780	tumor
+T10	ENFERMEDAD 2197 2202	tumor
+T11	PROCEDIMIENTO 1110 1113	TAC
+T12	PROCEDIMIENTO 1206 1232	tratamiento quimioterápico
+T13	PROCEDIMIENTO 1644 1667	intervención quirúrgica
+T14	PROCEDIMIENTO 1685 1698	traqueostomía
+T15	PROCEDIMIENTO 1711 1742	maxilectomía bilateral subtotal
+T16	PROCEDIMIENTO 1711 1759	maxilectomía bilateral subtotal con palatectomía
+T17	PROCEDIMIENTO 1954 2051	estudio histopatológico realizado con microfotografía de luz y con tinción de hematoxilina/eosina
+T18	PROCEDIMIENTO 1992 2014	microfotografía de luz
+T19	PROCEDIMIENTO 2021 2051	tinción de hematoxilina/eosina
+T20	PROCEDIMIENTO 2243 2267	procedimiento quirúrgico
+T21	PROCEDIMIENTO 2284 2383	reconstrucción maxilar parcial y de forma temporal con miniplacas de titanio y prótesis aloplástica
+T22	PROCEDIMIENTO 2428 2443	cirugía radical
+T23	PROCEDIMIENTO 2621 2624	TAC
+T24	PROCEDIMIENTO 390 414	tomografía computarizada
+T25	PROCEDIMIENTO 416 418	TC
+T26	PROCEDIMIENTO 596 639	resección marginal de la tumoración maxilar
+T27	PROCEDIMIENTO 596 667	resección marginal de la tumoración maxilar mediante abordaje sublabial
+T28	PROCEDIMIENTO 673 721	informó histopatológico de la pieza de resección
+T29	PROCEDIMIENTO 712 721	resección
+T30	PROCEDIMIENTO 864 886	radioterapia adyuvante

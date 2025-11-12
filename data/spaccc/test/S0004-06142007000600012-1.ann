@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 404 426	Adenopatías inguinales
-T2	ENFERMEDAD 676 687	lesión ósea
-T3	ENFERMEDAD 773 813	Necrosis aséptica de la cabeza del fémur
-T4	ENFERMEDAD 818 839	hipertrofia del psoas
-T5	ENFERMEDAD 1169 1179	varicocele
-T6	ENFERMEDAD 1182 1191	hidrocele
-T7	ENFERMEDAD 1303 1330	linfedema de pene y escroto
-T8	ENFERMEDAD 1378 1433	Linfedema primario inflamatorio local de pene y escroto
-T9	ENFERMEDAD 1436 1475	Necosis aséptica de la cabeza del fémur
-T10	ENFERMEDAD 247 264	impotencia sexual
-T11	ENFERMEDAD 350 382	Edema marcado del pene y escroto
-T12	PROCEDIMIENTO 1016 1047	Fasciotomía de la raíz del pene
-T13	PROCEDIMIENTO 1629 1644	linfangiectomía
-T14	PROCEDIMIENTO 285 298	examen físico
-T15	PROCEDIMIENTO 518 527	Hemograma
-T16	PROCEDIMIENTO 555 564	Serología
-T17	PROCEDIMIENTO 579 596	Prueba de Mantoux
-T18	PROCEDIMIENTO 607 639	Proteinas totales y fraccionadas
-T19	PROCEDIMIENTO 650 662	RX de cadera
-T20	PROCEDIMIENTO 689 702	U/S abdominal
-T21	PROCEDIMIENTO 737 771	TAC simple de hipogastrio y pelvis
-T22	PROCEDIMIENTO 910 945	Exploración retroperitoneal derecha
-T23	PROCEDIMIENTO 948 984	Adenectomía de ilíaca derecha y cava
-T24	PROCEDIMIENTO 987 1013	Linfangioplastia con aguja
-T25	SINTOMA 167 219	aumento progresivo de los órganos genitales externos
-T26	SINTOMA 430 439	dolorosas
-T27	SINTOMA 1118 1150	edema de los miembros inferiores
-T28	SINTOMA 350 402	Edema marcado del pene y escroto con eritema y dolor
-T29	SINTOMA 518 553	Hemograma completo: Cifras normales
-T30	SINTOMA 247 264	impotencia sexual
-T31	SINTOMA 589 606	Mantoux: Negativa
-T32	SINTOMA 607 649	Proteinas totales y fraccionadas: Normales
-T33	SINTOMA 704 727	Psoas derecho engrosado
-T34	SINTOMA 1105 1113	quiluria
-T35	SINTOMA 650 687	RX de cadera: Ausencia de lesión ósea
-T36	SINTOMA 555 577	Serología: No reactiva
-T37	SINTOMA 221 244	trasudación de la linfa
+T1	SINTOMA 167 219	aumento progresivo de los órganos genitales externos
+T2	SINTOMA 430 439	dolorosas
+T3	SINTOMA 1118 1150	edema de los miembros inferiores
+T4	SINTOMA 350 402	Edema marcado del pene y escroto con eritema y dolor
+T5	SINTOMA 518 553	Hemograma completo: Cifras normales
+T6	SINTOMA 247 264	impotencia sexual
+T7	SINTOMA 589 606	Mantoux: Negativa
+T8	SINTOMA 607 649	Proteinas totales y fraccionadas: Normales
+T9	SINTOMA 704 727	Psoas derecho engrosado
+T10	SINTOMA 1105 1113	quiluria
+T11	SINTOMA 650 687	RX de cadera: Ausencia de lesión ósea
+T12	SINTOMA 555 577	Serología: No reactiva
+T13	SINTOMA 221 244	trasudación de la linfa
+T14	ENFERMEDAD 404 426	Adenopatías inguinales
+T15	ENFERMEDAD 676 687	lesión ósea
+T16	ENFERMEDAD 773 813	Necrosis aséptica de la cabeza del fémur
+T17	ENFERMEDAD 818 839	hipertrofia del psoas
+T18	ENFERMEDAD 1169 1179	varicocele
+T19	ENFERMEDAD 1182 1191	hidrocele
+T20	ENFERMEDAD 1303 1330	linfedema de pene y escroto
+T21	ENFERMEDAD 1378 1433	Linfedema primario inflamatorio local de pene y escroto
+T22	ENFERMEDAD 1436 1475	Necosis aséptica de la cabeza del fémur
+T23	ENFERMEDAD 247 264	impotencia sexual
+T24	ENFERMEDAD 350 382	Edema marcado del pene y escroto
+T25	PROCEDIMIENTO 1016 1047	Fasciotomía de la raíz del pene
+T26	PROCEDIMIENTO 1629 1644	linfangiectomía
+T27	PROCEDIMIENTO 285 298	examen físico
+T28	PROCEDIMIENTO 518 527	Hemograma
+T29	PROCEDIMIENTO 555 564	Serología
+T30	PROCEDIMIENTO 579 596	Prueba de Mantoux
+T31	PROCEDIMIENTO 607 639	Proteinas totales y fraccionadas
+T32	PROCEDIMIENTO 650 662	RX de cadera
+T33	PROCEDIMIENTO 689 702	U/S abdominal
+T34	PROCEDIMIENTO 737 771	TAC simple de hipogastrio y pelvis
+T35	PROCEDIMIENTO 910 945	Exploración retroperitoneal derecha
+T36	PROCEDIMIENTO 948 984	Adenectomía de ilíaca derecha y cava
+T37	PROCEDIMIENTO 987 1013	Linfangioplastia con aguja

@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 1004 1022	Obesidad troncular
-T2	ENFERMEDAD 1886 1894	litiasis
-T3	ENFERMEDAD 2024 2071	pancreatitis aguda secundaria a litiasis biliar
-T4	ENFERMEDAD 1845 1871	vía biliar poco distendida
-T5	PROCEDIMIENTO 1081 1114	palpación en epigastrio y flancos
-T6	PROCEDIMIENTO 1170 1191	Puño percusión lumbar
-T7	PROCEDIMIENTO 1203 1235	Auscultación cardiorrespiratoria
-T8	PROCEDIMIENTO 1484 1503	analítica sanguínea
-T9	PROCEDIMIENTO 1506 1525	ecografía abdominal
-T10	PROCEDIMIENTO 1824 1843	Ecografía abdominal
-T11	PROCEDIMIENTO 2280 2295	colecistectomía
-T12	PROCEDIMIENTO 899 917	Exploración física
-T13	SINTOMA 389 404	dolor abdominal
-T14	SINTOMA 928 947	buen estado general
-T15	SINTOMA 72 87	dolor abdominal
-T16	SINTOMA 90 97	vómitos
-T17	SINTOMA 495 502	vómitos
-T18	SINTOMA 1129 1146	masas abdominales
-T19	SINTOMA 725 740	dolor abdominal
-T20	SINTOMA 2360 2375	dolor abdominal
-T21	SINTOMA 871 886	dolor abdominal
-T22	SINTOMA 919 926	afebril
-T23	SINTOMA 1024 1051	Abdomen blando y depresible
-T24	SINTOMA 507 540	alteración del ritmo deposicional
-T25	SINTOMA 1203 1242	Auscultación cardiorrespiratoria normal
-T26	SINTOMA 986 1002	buena coloración
-T27	SINTOMA 949 984	buena hidratación de piel y mucosas
-T28	SINTOMA 1053 1114	Dolor abdominal difuso a la palpación en epigastrio y flancos
-T29	SINTOMA 1257 1275	Neurológico normal
-T30	SINTOMA 1244 1255	ORL: normal
-T31	SINTOMA 1148 1168	Peristaltismo normal
-T32	SINTOMA 1170 1201	Puño percusión lumbar: negativa
-T33	SINTOMA 1845 1871	vía biliar poco distendida
+T1	SINTOMA 389 404	dolor abdominal
+T2	SINTOMA 928 947	buen estado general
+T3	SINTOMA 72 87	dolor abdominal
+T4	SINTOMA 90 97	vómitos
+T5	SINTOMA 495 502	vómitos
+T6	SINTOMA 1129 1146	masas abdominales
+T7	SINTOMA 725 740	dolor abdominal
+T8	SINTOMA 2360 2375	dolor abdominal
+T9	SINTOMA 871 886	dolor abdominal
+T10	SINTOMA 919 926	afebril
+T11	SINTOMA 1024 1051	Abdomen blando y depresible
+T12	SINTOMA 507 540	alteración del ritmo deposicional
+T13	SINTOMA 1203 1242	Auscultación cardiorrespiratoria normal
+T14	SINTOMA 986 1002	buena coloración
+T15	SINTOMA 949 984	buena hidratación de piel y mucosas
+T16	SINTOMA 1053 1114	Dolor abdominal difuso a la palpación en epigastrio y flancos
+T17	SINTOMA 1257 1275	Neurológico normal
+T18	SINTOMA 1244 1255	ORL: normal
+T19	SINTOMA 1148 1168	Peristaltismo normal
+T20	SINTOMA 1170 1201	Puño percusión lumbar: negativa
+T21	SINTOMA 1845 1871	vía biliar poco distendida
+T22	ENFERMEDAD 1004 1022	Obesidad troncular
+T23	ENFERMEDAD 1886 1894	litiasis
+T24	ENFERMEDAD 2024 2071	pancreatitis aguda secundaria a litiasis biliar
+T25	ENFERMEDAD 1845 1871	vía biliar poco distendida
+T26	PROCEDIMIENTO 1081 1114	palpación en epigastrio y flancos
+T27	PROCEDIMIENTO 1170 1191	Puño percusión lumbar
+T28	PROCEDIMIENTO 1203 1235	Auscultación cardiorrespiratoria
+T29	PROCEDIMIENTO 1484 1503	analítica sanguínea
+T30	PROCEDIMIENTO 1506 1525	ecografía abdominal
+T31	PROCEDIMIENTO 1824 1843	Ecografía abdominal
+T32	PROCEDIMIENTO 2280 2295	colecistectomía
+T33	PROCEDIMIENTO 899 917	Exploración física

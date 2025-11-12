@@ -1,40 +1,40 @@
-T1	ENFERMEDAD 37 78	carcinoma papilar urotelial de alto grado
-T2	ENFERMEDAD 1505 1552	poliartritis secundaria a instilaciones con BCG
-T3	ENFERMEDAD 666 679	conjuntivitis
-T4	ENFERMEDAD 740 745	aftas
-T5	ENFERMEDAD 755 783	lesiones orales ni genitales
-T6	ENFERMEDAD 1047 1056	hepatitis
-T7	PROCEDIMIENTO 1013 1030	enzimas hepáticas
-T8	PROCEDIMIENTO 1032 1041	Serología
-T9	PROCEDIMIENTO 1114 1126	hemocultivos
-T10	PROCEDIMIENTO 1128 1139	urocultivos
-T11	PROCEDIMIENTO 1142 1154	coprocultivo
-T12	PROCEDIMIENTO 115 126	RTU vesical
-T13	PROCEDIMIENTO 1166 1200	Cultivo de bacilo de Koch en orina
-T14	PROCEDIMIENTO 1205 1223	tinción de Kinyoun
-T15	PROCEDIMIENTO 1284 1316	artrocentesis de tobillo derecho
-T16	PROCEDIMIENTO 1363 1370	Cultivo
-T17	PROCEDIMIENTO 1445 1458	artrocentesis
-T18	PROCEDIMIENTO 151 154	RTU
-T19	PROCEDIMIENTO 1549 1552	BCG
-T20	PROCEDIMIENTO 1595 1606	corticoides
-T21	PROCEDIMIENTO 1663 1672	analítica
-T22	PROCEDIMIENTO 189 191	AP
-T23	PROCEDIMIENTO 270 290	instilaciones de BCG
-T24	PROCEDIMIENTO 860 869	analítica
-T25	SINTOMA 740 745	aftas
-T26	SINTOMA 999 1030	alteración de enzimas hepáticas
-T27	SINTOMA 1821 1833	asintomático
-T28	SINTOMA 427 434	astenia
-T29	SINTOMA 361 382	cuadro constitucional
-T30	SINTOMA 1166 1232	Cultivo de bacilo de Koch en orina con tinción de Kinyoun negativa
-T31	SINTOMA 1363 1392	Cultivo y cristales negativos
-T32	SINTOMA 386 414	deterioro del estado general
-T33	SINTOMA 486 620	dolores articulares de inicio en pie derecho, con afectación posterior de pie izquierdo, tobillos, muñecas, manos y dedos de las manos
-T34	SINTOMA 692 735	enrojecimiento ocular y secreción purulenta
-T35	SINTOMA 436 442	fiebre
-T36	SINTOMA 1114 1164	hemocultivos, urocultivos y coprocultivo negativos
-T37	SINTOMA 1234 1256	HLA B27 y FR negativos
-T38	SINTOMA 899 911	leucocitosis
-T39	SINTOMA 1032 1102	Serología para hepatitis negativas, así como para Yersinia y Chlamydia
-T40	SINTOMA 1301 1361	tobillo derecho con líquido de características inflamatorias
+T1	SINTOMA 740 745	aftas
+T2	SINTOMA 999 1030	alteración de enzimas hepáticas
+T3	SINTOMA 1821 1833	asintomático
+T4	SINTOMA 427 434	astenia
+T5	SINTOMA 361 382	cuadro constitucional
+T6	SINTOMA 1166 1232	Cultivo de bacilo de Koch en orina con tinción de Kinyoun negativa
+T7	SINTOMA 1363 1392	Cultivo y cristales negativos
+T8	SINTOMA 386 414	deterioro del estado general
+T9	SINTOMA 486 620	dolores articulares de inicio en pie derecho, con afectación posterior de pie izquierdo, tobillos, muñecas, manos y dedos de las manos
+T10	SINTOMA 692 735	enrojecimiento ocular y secreción purulenta
+T11	SINTOMA 436 442	fiebre
+T12	SINTOMA 1114 1164	hemocultivos, urocultivos y coprocultivo negativos
+T13	SINTOMA 1234 1256	HLA B27 y FR negativos
+T14	SINTOMA 899 911	leucocitosis
+T15	SINTOMA 1032 1102	Serología para hepatitis negativas, así como para Yersinia y Chlamydia
+T16	SINTOMA 1301 1361	tobillo derecho con líquido de características inflamatorias
+T17	ENFERMEDAD 37 78	carcinoma papilar urotelial de alto grado
+T18	ENFERMEDAD 1505 1552	poliartritis secundaria a instilaciones con BCG
+T19	ENFERMEDAD 666 679	conjuntivitis
+T20	ENFERMEDAD 740 745	aftas
+T21	ENFERMEDAD 755 783	lesiones orales ni genitales
+T22	ENFERMEDAD 1047 1056	hepatitis
+T23	PROCEDIMIENTO 1013 1030	enzimas hepáticas
+T24	PROCEDIMIENTO 1032 1041	Serología
+T25	PROCEDIMIENTO 1114 1126	hemocultivos
+T26	PROCEDIMIENTO 1128 1139	urocultivos
+T27	PROCEDIMIENTO 1142 1154	coprocultivo
+T28	PROCEDIMIENTO 115 126	RTU vesical
+T29	PROCEDIMIENTO 1166 1200	Cultivo de bacilo de Koch en orina
+T30	PROCEDIMIENTO 1205 1223	tinción de Kinyoun
+T31	PROCEDIMIENTO 1284 1316	artrocentesis de tobillo derecho
+T32	PROCEDIMIENTO 1363 1370	Cultivo
+T33	PROCEDIMIENTO 1445 1458	artrocentesis
+T34	PROCEDIMIENTO 151 154	RTU
+T35	PROCEDIMIENTO 1549 1552	BCG
+T36	PROCEDIMIENTO 1595 1606	corticoides
+T37	PROCEDIMIENTO 1663 1672	analítica
+T38	PROCEDIMIENTO 189 191	AP
+T39	PROCEDIMIENTO 270 290	instilaciones de BCG
+T40	PROCEDIMIENTO 860 869	analítica

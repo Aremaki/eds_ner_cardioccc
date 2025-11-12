@@ -1,18 +1,18 @@
-T1	ENFERMEDAD 1210 1213	ERA
-T2	ENFERMEDAD 205 220	episodio gripal
-T3	ENFERMEDAD 576 619	lesiones en área macular y foveolar central
-T4	ENFERMEDAD 677 683	gripal
-T5	PROCEDIMIENTO 1301 1322	tratamiento con AINEs
-T6	PROCEDIMIENTO 253 278	exploración oftalmológica
-T7	PROCEDIMIENTO 440 452	fondo de ojo
-T8	PROCEDIMIENTO 457 486	exploración del ojo izquierdo
-T9	PROCEDIMIENTO 544 556	fondo de ojo
-T10	PROCEDIMIENTO 743 748	AINEs
-T11	PROCEDIMIENTO 799 802	AGF
-T12	PROCEDIMIENTO 808 811	EOG
-T13	PROCEDIMIENTO 817 820	EOG
-T14	PROCEDIMIENTO 929 932	AGF
-T15	SINTOMA 929 1091	AGF en el ojo derecho fue compatible con la normalidad, pero en el ojo izquierdo se observaron unas áreas hiperfluorescentes con un punto hipofluorescente central
-T16	SINTOMA 306 452	agudeza visual de unidad en su ojo derecho, siendo los datos de la exploración del mismo compatibles con la normalidad, incluyendo el fondo de ojo
-T17	SINTOMA 72 134	disminución de visión en su ojo izquierdo, de aparición brusca
-T18	SINTOMA 817 924	EOG mostró una ligera alteración en el ojo izquierdo, siendo compatible con la normalidad en el ojo derecho
+T1	SINTOMA 929 1091	AGF en el ojo derecho fue compatible con la normalidad, pero en el ojo izquierdo se observaron unas áreas hiperfluorescentes con un punto hipofluorescente central
+T2	SINTOMA 306 452	agudeza visual de unidad en su ojo derecho, siendo los datos de la exploración del mismo compatibles con la normalidad, incluyendo el fondo de ojo
+T3	SINTOMA 72 134	disminución de visión en su ojo izquierdo, de aparición brusca
+T4	SINTOMA 817 924	EOG mostró una ligera alteración en el ojo izquierdo, siendo compatible con la normalidad en el ojo derecho
+T5	ENFERMEDAD 1210 1213	ERA
+T6	ENFERMEDAD 205 220	episodio gripal
+T7	ENFERMEDAD 576 619	lesiones en área macular y foveolar central
+T8	ENFERMEDAD 677 683	gripal
+T9	PROCEDIMIENTO 1301 1322	tratamiento con AINEs
+T10	PROCEDIMIENTO 253 278	exploración oftalmológica
+T11	PROCEDIMIENTO 440 452	fondo de ojo
+T12	PROCEDIMIENTO 457 486	exploración del ojo izquierdo
+T13	PROCEDIMIENTO 544 556	fondo de ojo
+T14	PROCEDIMIENTO 743 748	AINEs
+T15	PROCEDIMIENTO 799 802	AGF
+T16	PROCEDIMIENTO 808 811	EOG
+T17	PROCEDIMIENTO 817 820	EOG
+T18	PROCEDIMIENTO 929 932	AGF

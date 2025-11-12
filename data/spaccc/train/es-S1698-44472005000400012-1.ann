@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 1198 1202	PLGA
-T2	ENFERMEDAD 1208 1280	invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha
-T3	ENFERMEDAD 537 573	lesión a nivel de fosa nasal derecha
-T4	ENFERMEDAD 594 596	Mx
-T5	ENFERMEDAD 188 192	PLGA
-T6	ENFERMEDAD 1314 1338	adenopatías metastásicas
-T7	ENFERMEDAD 1594 1610	restos tumorales
-T8	ENFERMEDAD 236 268	adenopatía a nivel submandibular
-T9	ENFERMEDAD 688 692	PLGA
-T10	ENFERMEDAD 862 867	tumor
-T11	ENFERMEDAD 639 663	adenopatía submandibular
-T12	ENFERMEDAD 372 427	patología no catalogada en la región de cabeza y cuello
-T13	PROCEDIMIENTO 1023 1040	resección tumoral
-T14	PROCEDIMIENTO 1046 1108	reposición ósea del maxilar mediante miniplacas preconformadas
-T15	PROCEDIMIENTO 1151 1170	anatomía patológica
-T16	PROCEDIMIENTO 1288 1299	vaciamiento
-T17	PROCEDIMIENTO 137 144	biopsia
-T18	PROCEDIMIENTO 1459 1519	radioterapia coadyuvante en la región pterigomaxilar derecha
-T19	PROCEDIMIENTO 150 165	anestesia local
-T20	PROCEDIMIENTO 1529 1568	controles de imagen mediante resonancia
-T21	PROCEDIMIENTO 1621 1686	ampliación de márgenes quirúrgicos a nivel pterigomaxilar derecho
-T22	PROCEDIMIENTO 1689 1753	reconstrucción del defecto mediante bola adiposa bucal de Bichat
-T23	PROCEDIMIENTO 200 220	exploración cervical
-T24	PROCEDIMIENTO 336 348	radioterapia
-T25	PROCEDIMIENTO 432 449	ortopantomografía
-T26	PROCEDIMIENTO 478 516	tomografia computerizada cervicofacial
-T27	PROCEDIMIENTO 614 663	punción citológica de la adenopatía submandibular
-T28	PROCEDIMIENTO 697 699	RM
-T29	PROCEDIMIENTO 811 834	intervención quirúrgica
-T30	PROCEDIMIENTO 840 857	anestesia general
-T31	PROCEDIMIENTO 894 919	maxilotomía tipo Lefort I
-T32	PROCEDIMIENTO 943 1002	vaciamiento cervical ganglionar suprahomohioideo unilateral
-T33	SINTOMA 712 798	lesión bien delimitada a nivel de fosa nasal con extensión hacia la región pterigoidea
-T34	SINTOMA 432 460	ortopantomografía era normal
-T35	SINTOMA 589 596	T4N2CMx
-T36	SINTOMA 61 111	tumefacción en la región posterior del hemipaladar
-T37	SINTOMA 1819 1838	libre de enfermedad
+T1	SINTOMA 712 798	lesión bien delimitada a nivel de fosa nasal con extensión hacia la región pterigoidea
+T2	SINTOMA 432 460	ortopantomografía era normal
+T3	SINTOMA 589 596	T4N2CMx
+T4	SINTOMA 61 111	tumefacción en la región posterior del hemipaladar
+T5	SINTOMA 1819 1838	libre de enfermedad
+T6	ENFERMEDAD 1198 1202	PLGA
+T7	ENFERMEDAD 1208 1280	invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha
+T8	ENFERMEDAD 537 573	lesión a nivel de fosa nasal derecha
+T9	ENFERMEDAD 594 596	Mx
+T10	ENFERMEDAD 188 192	PLGA
+T11	ENFERMEDAD 1314 1338	adenopatías metastásicas
+T12	ENFERMEDAD 1594 1610	restos tumorales
+T13	ENFERMEDAD 236 268	adenopatía a nivel submandibular
+T14	ENFERMEDAD 688 692	PLGA
+T15	ENFERMEDAD 862 867	tumor
+T16	ENFERMEDAD 639 663	adenopatía submandibular
+T17	ENFERMEDAD 372 427	patología no catalogada en la región de cabeza y cuello
+T18	PROCEDIMIENTO 1023 1040	resección tumoral
+T19	PROCEDIMIENTO 1046 1108	reposición ósea del maxilar mediante miniplacas preconformadas
+T20	PROCEDIMIENTO 1151 1170	anatomía patológica
+T21	PROCEDIMIENTO 1288 1299	vaciamiento
+T22	PROCEDIMIENTO 137 144	biopsia
+T23	PROCEDIMIENTO 1459 1519	radioterapia coadyuvante en la región pterigomaxilar derecha
+T24	PROCEDIMIENTO 150 165	anestesia local
+T25	PROCEDIMIENTO 1529 1568	controles de imagen mediante resonancia
+T26	PROCEDIMIENTO 1621 1686	ampliación de márgenes quirúrgicos a nivel pterigomaxilar derecho
+T27	PROCEDIMIENTO 1689 1753	reconstrucción del defecto mediante bola adiposa bucal de Bichat
+T28	PROCEDIMIENTO 200 220	exploración cervical
+T29	PROCEDIMIENTO 336 348	radioterapia
+T30	PROCEDIMIENTO 432 449	ortopantomografía
+T31	PROCEDIMIENTO 478 516	tomografia computerizada cervicofacial
+T32	PROCEDIMIENTO 614 663	punción citológica de la adenopatía submandibular
+T33	PROCEDIMIENTO 697 699	RM
+T34	PROCEDIMIENTO 811 834	intervención quirúrgica
+T35	PROCEDIMIENTO 840 857	anestesia general
+T36	PROCEDIMIENTO 894 919	maxilotomía tipo Lefort I
+T37	PROCEDIMIENTO 943 1002	vaciamiento cervical ganglionar suprahomohioideo unilateral

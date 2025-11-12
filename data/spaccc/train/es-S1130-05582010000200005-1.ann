@@ -1,53 +1,53 @@
-T1	ENFERMEDAD 744 769	lesión tumoral mandibular
-T2	ENFERMEDAD 1058 1072	lesión mixoide
-T3	ENFERMEDAD 1310 1340	mixoma odontogénico mandibular
-T4	ENFERMEDAD 2320 2350	mixoma odontogénico mandibular
-T5	ENFERMEDAD 1433 1439	lesión
-T6	PROCEDIMIENTO 1017 1024	biopsia
-T7	PROCEDIMIENTO 1225 1243	inmunohistoquímica
-T8	PROCEDIMIENTO 1348 1365	anestesia general
-T9	PROCEDIMIENTO 1368 1391	intubación nasotraqueal
-T10	PROCEDIMIENTO 1404 1499	extirpación quirúrgica de la lesión con márgenes, mediante abordaje combinado intra y extraoral
-T11	PROCEDIMIENTO 1515 1546	hemimandibulectomía segmentaria
-T12	PROCEDIMIENTO 1742 1817	reconstrucción primaria mediante injerto libre microvascularizado de peroné
-T13	PROCEDIMIENTO 1865 1895	colgajo fue preformado in situ
-T14	PROCEDIMIENTO 2046 2104	osteotomía del hueso peroneal y su fijación con miniplacas
-T15	PROCEDIMIENTO 2117 2264	anastomosis vascular entre las arterias peronea y facial derechas, y entre las venas concomitante peronea y tronco venoso tirolinguofacial derechos
-T16	PROCEDIMIENTO 2269 2288	estudio histológico
-T17	PROCEDIMIENTO 2457 2469	intervención
-T18	PROCEDIMIENTO 252 270	exodoncia de molar
-T19	PROCEDIMIENTO 2612 2711	distracción osteogénica vertical del peroné mediante colocación de un distractor alveolar intraoral
-T20	PROCEDIMIENTO 2717 2742	colocación del distractor
-T21	PROCEDIMIENTO 2759 2776	anestesia general
-T22	PROCEDIMIENTO 2781 2798	injerto de peroné
-T23	PROCEDIMIENTO 2825 2862	incisión en la mucosa oral vestibular
-T24	PROCEDIMIENTO 2904 2927	disección subperióstica
-T25	PROCEDIMIENTO 3066 3188	distractor alveolar intraoral (MODUS ARS 1.5; Medartis®, Basel, Suiza) se colocó sobre la superficie vestibular del peroné
-T26	PROCEDIMIENTO 3220 3231	osteotomías
-T27	PROCEDIMIENTO 3237 3339	osteotomías se realizaron sobre la cara vestibular del peroné, mediante el uso de una sierra oscilante
-T28	PROCEDIMIENTO 3345 3372	irrigación con suero salino
-T29	PROCEDIMIENTO 3467 3559	Se fijó el distractor alveolar mediante tornillos, a ambos lados de la osteotomía horizontal
-T30	PROCEDIMIENTO 3538 3548	osteotomía
-T31	PROCEDIMIENTO 358 376	exploración física
-T32	PROCEDIMIENTO 382 399	ortopantomografía
-T33	PROCEDIMIENTO 3883 3893	hemostasia
-T34	PROCEDIMIENTO 3910 3957	Se procedió al cierre de la incisión vestibular
-T35	PROCEDIMIENTO 4232 4251	ortopantomográficos
-T36	PROCEDIMIENTO 4300 4338	distracción vertical del hueso peroneo
-T37	PROCEDIMIENTO 4479 4496	injerto de peroné
-T38	PROCEDIMIENTO 4764 4781	ortopantomografía
-T39	PROCEDIMIENTO 4908 4920	intervención
-T40	PROCEDIMIENTO 4939 4999	retirada del distractor mediante el mismo abordaje intraoral
-T41	PROCEDIMIENTO 5096 5108	intervención
-T42	PROCEDIMIENTO 5109 5156	se colocaron tres implantes roscados de titanio
-T43	PROCEDIMIENTO 5330 5354	rehabilitación protésica
-T44	PROCEDIMIENTO 5369 5395	prótesis implantosoportada
-T45	PROCEDIMIENTO 690 726	tomografía computarizada (TC) facial
-T46	PROCEDIMIENTO 716 718	TC
-T47	SINTOMA 476 512	afectación de ambas corticales óseas
-T48	SINTOMA 617 659	afectación del músculo pterigoideo interno
-T49	SINTOMA 4650 4663	consolidación
-T50	SINTOMA 2487 2581	discrepancia de altura entre el peroné y el reborde alveolar de la hemimandíbula contralateral
-T51	SINTOMA 417 448	tumoración dependiente de hueso
-T52	SINTOMA 89 114	tumoración hemimandibular
-T53	SINTOMA 323 328	dolor
+T1	SINTOMA 476 512	afectación de ambas corticales óseas
+T2	SINTOMA 617 659	afectación del músculo pterigoideo interno
+T3	SINTOMA 4650 4663	consolidación
+T4	SINTOMA 2487 2581	discrepancia de altura entre el peroné y el reborde alveolar de la hemimandíbula contralateral
+T5	SINTOMA 417 448	tumoración dependiente de hueso
+T6	SINTOMA 89 114	tumoración hemimandibular
+T7	SINTOMA 323 328	dolor
+T8	ENFERMEDAD 744 769	lesión tumoral mandibular
+T9	ENFERMEDAD 1058 1072	lesión mixoide
+T10	ENFERMEDAD 1310 1340	mixoma odontogénico mandibular
+T11	ENFERMEDAD 2320 2350	mixoma odontogénico mandibular
+T12	ENFERMEDAD 1433 1439	lesión
+T13	PROCEDIMIENTO 1017 1024	biopsia
+T14	PROCEDIMIENTO 1225 1243	inmunohistoquímica
+T15	PROCEDIMIENTO 1348 1365	anestesia general
+T16	PROCEDIMIENTO 1368 1391	intubación nasotraqueal
+T17	PROCEDIMIENTO 1404 1499	extirpación quirúrgica de la lesión con márgenes, mediante abordaje combinado intra y extraoral
+T18	PROCEDIMIENTO 1515 1546	hemimandibulectomía segmentaria
+T19	PROCEDIMIENTO 1742 1817	reconstrucción primaria mediante injerto libre microvascularizado de peroné
+T20	PROCEDIMIENTO 1865 1895	colgajo fue preformado in situ
+T21	PROCEDIMIENTO 2046 2104	osteotomía del hueso peroneal y su fijación con miniplacas
+T22	PROCEDIMIENTO 2117 2264	anastomosis vascular entre las arterias peronea y facial derechas, y entre las venas concomitante peronea y tronco venoso tirolinguofacial derechos
+T23	PROCEDIMIENTO 2269 2288	estudio histológico
+T24	PROCEDIMIENTO 2457 2469	intervención
+T25	PROCEDIMIENTO 252 270	exodoncia de molar
+T26	PROCEDIMIENTO 2612 2711	distracción osteogénica vertical del peroné mediante colocación de un distractor alveolar intraoral
+T27	PROCEDIMIENTO 2717 2742	colocación del distractor
+T28	PROCEDIMIENTO 2759 2776	anestesia general
+T29	PROCEDIMIENTO 2781 2798	injerto de peroné
+T30	PROCEDIMIENTO 2825 2862	incisión en la mucosa oral vestibular
+T31	PROCEDIMIENTO 2904 2927	disección subperióstica
+T32	PROCEDIMIENTO 3066 3188	distractor alveolar intraoral (MODUS ARS 1.5; Medartis®, Basel, Suiza) se colocó sobre la superficie vestibular del peroné
+T33	PROCEDIMIENTO 3220 3231	osteotomías
+T34	PROCEDIMIENTO 3237 3339	osteotomías se realizaron sobre la cara vestibular del peroné, mediante el uso de una sierra oscilante
+T35	PROCEDIMIENTO 3345 3372	irrigación con suero salino
+T36	PROCEDIMIENTO 3467 3559	Se fijó el distractor alveolar mediante tornillos, a ambos lados de la osteotomía horizontal
+T37	PROCEDIMIENTO 3538 3548	osteotomía
+T38	PROCEDIMIENTO 358 376	exploración física
+T39	PROCEDIMIENTO 382 399	ortopantomografía
+T40	PROCEDIMIENTO 3883 3893	hemostasia
+T41	PROCEDIMIENTO 3910 3957	Se procedió al cierre de la incisión vestibular
+T42	PROCEDIMIENTO 4232 4251	ortopantomográficos
+T43	PROCEDIMIENTO 4300 4338	distracción vertical del hueso peroneo
+T44	PROCEDIMIENTO 4479 4496	injerto de peroné
+T45	PROCEDIMIENTO 4764 4781	ortopantomografía
+T46	PROCEDIMIENTO 4908 4920	intervención
+T47	PROCEDIMIENTO 4939 4999	retirada del distractor mediante el mismo abordaje intraoral
+T48	PROCEDIMIENTO 5096 5108	intervención
+T49	PROCEDIMIENTO 5109 5156	se colocaron tres implantes roscados de titanio
+T50	PROCEDIMIENTO 5330 5354	rehabilitación protésica
+T51	PROCEDIMIENTO 5369 5395	prótesis implantosoportada
+T52	PROCEDIMIENTO 690 726	tomografía computarizada (TC) facial
+T53	PROCEDIMIENTO 716 718	TC

@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 3405 3441	ureterohidronefrosis moderada-severa
-T2	ENFERMEDAD 2107 2128	metástasis en columna
-T3	ENFERMEDAD 3530 3544	lesión tumoral
-T4	ENFERMEDAD 2199 2241	metástasis a nivel de D3, D8, D9, D10 y L1
-T5	ENFERMEDAD 3564 3591	atrofia funcional del riñón
-T6	ENFERMEDAD 2818 2836	lesión metastásica
-T7	ENFERMEDAD 365 385	ureterohidronefrosis
-T8	ENFERMEDAD 2415 2429	lesiones óseas
-T9	ENFERMEDAD 2977 3044	lesiones metástasicas originarias del tumor urotelial plasmocitoide
-T10	ENFERMEDAD 3824 3867	IAM inferoposterior y de ventrículo derecho
-T11	ENFERMEDAD 507 517	metástasis
-T12	ENFERMEDAD 650 683	carcinoma plasmocitoide de vejiga
-T13	ENFERMEDAD 1707 1797	carcinoma de urotelio poco diferenciado, de alto grado, variante de células plasmocitoides
-T14	ENFERMEDAD 80 102	hematuria macroscópica
-T15	ENFERMEDAD 2852 2881	tumor urotelial plasmocitoide
-T16	PROCEDIMIENTO 1484 1525	estudio inmunohistoquímico citoplasmático
-T17	PROCEDIMIENTO 1880 1916	tratamiento quimioterápico adyuvante
-T18	PROCEDIMIENTO 2010 2021	exploración
-T19	PROCEDIMIENTO 2152 2165	RM de columna
-T20	PROCEDIMIENTO 2254 2270	gammagrafía ósea
-T21	PROCEDIMIENTO 2273 2280	PET-TAC
-T22	PROCEDIMIENTO 2450 2460	biopsiaron
-T23	PROCEDIMIENTO 2536 2543	PET-TAC
-T24	PROCEDIMIENTO 259 277	estudio ecográfico
-T25	PROCEDIMIENTO 2765 2797	punción con aguja fina vertebral
-T26	PROCEDIMIENTO 2901 2929	biopsia de ganglios mamarios
-T27	PROCEDIMIENTO 3090 3116	tratamiento quimioterápico
-T28	PROCEDIMIENTO 3236 3262	tratamiento quimioterápico
-T29	PROCEDIMIENTO 3280 3283	TAC
-T30	PROCEDIMIENTO 3373 3376	TAC
-T31	PROCEDIMIENTO 3695 3791	nefrostomía percutánea derecha con colocación de un catéter ureteral doble J por vía anterógrada
-T32	PROCEDIMIENTO 3885 3897	angioplastia
-T33	PROCEDIMIENTO 398 418	estudio de extensión
-T34	PROCEDIMIENTO 428 448	TAC toraco-abdominal
-T35	PROCEDIMIENTO 451 467	gammagrafía ósea
-T36	PROCEDIMIENTO 546 557	ecográficos
-T37	PROCEDIMIENTO 587 630	tratamiento quirúrgico mediante RTU vesical
-T38	PROCEDIMIENTO 804 832	cisto-prostatectomía radical
-T39	PROCEDIMIENTO 837 853	derivación ileal
-T40	PROCEDIMIENTO 921 938	anatomopatológico
-T41	SINTOMA 80 102	hematuria macroscópica
-T42	SINTOMA 198 209	polaquiuria
-T43	SINTOMA 212 219	disuria
-T44	SINTOMA 2055 2067	asintomático
-T45	SINTOMA 3965 3973	falleció
-T46	SINTOMA 3610 3645	aumento de la creatinina plasmática
-T47	SINTOMA 2571 2743	captación ósea patológica, pero sí ganglionar múltiple en región axilar izquierda, perivascular mediastínica, subcarinal y mamaria interna, así como a nivel retroperitoneal
-T48	SINTOMA 306 339	engrosamiento de la pared vesical
-T49	SINTOMA 3464 3478	imagen nodular
-T50	SINTOMA 2536 2597	PET-TAC no objetivándose signos de captación ósea patológica,
+T1	SINTOMA 80 102	hematuria macroscópica
+T2	SINTOMA 198 209	polaquiuria
+T3	SINTOMA 212 219	disuria
+T4	SINTOMA 2055 2067	asintomático
+T5	SINTOMA 3965 3973	falleció
+T6	SINTOMA 3610 3645	aumento de la creatinina plasmática
+T7	SINTOMA 2571 2743	captación ósea patológica, pero sí ganglionar múltiple en región axilar izquierda, perivascular mediastínica, subcarinal y mamaria interna, así como a nivel retroperitoneal
+T8	SINTOMA 306 339	engrosamiento de la pared vesical
+T9	SINTOMA 3464 3478	imagen nodular
+T10	SINTOMA 2536 2597	PET-TAC no objetivándose signos de captación ósea patológica,
+T11	ENFERMEDAD 3405 3441	ureterohidronefrosis moderada-severa
+T12	ENFERMEDAD 2107 2128	metástasis en columna
+T13	ENFERMEDAD 3530 3544	lesión tumoral
+T14	ENFERMEDAD 2199 2241	metástasis a nivel de D3, D8, D9, D10 y L1
+T15	ENFERMEDAD 3564 3591	atrofia funcional del riñón
+T16	ENFERMEDAD 2818 2836	lesión metastásica
+T17	ENFERMEDAD 365 385	ureterohidronefrosis
+T18	ENFERMEDAD 2415 2429	lesiones óseas
+T19	ENFERMEDAD 2977 3044	lesiones metástasicas originarias del tumor urotelial plasmocitoide
+T20	ENFERMEDAD 3824 3867	IAM inferoposterior y de ventrículo derecho
+T21	ENFERMEDAD 507 517	metástasis
+T22	ENFERMEDAD 650 683	carcinoma plasmocitoide de vejiga
+T23	ENFERMEDAD 1707 1797	carcinoma de urotelio poco diferenciado, de alto grado, variante de células plasmocitoides
+T24	ENFERMEDAD 80 102	hematuria macroscópica
+T25	ENFERMEDAD 2852 2881	tumor urotelial plasmocitoide
+T26	PROCEDIMIENTO 1484 1525	estudio inmunohistoquímico citoplasmático
+T27	PROCEDIMIENTO 1880 1916	tratamiento quimioterápico adyuvante
+T28	PROCEDIMIENTO 2010 2021	exploración
+T29	PROCEDIMIENTO 2152 2165	RM de columna
+T30	PROCEDIMIENTO 2254 2270	gammagrafía ósea
+T31	PROCEDIMIENTO 2273 2280	PET-TAC
+T32	PROCEDIMIENTO 2450 2460	biopsiaron
+T33	PROCEDIMIENTO 2536 2543	PET-TAC
+T34	PROCEDIMIENTO 259 277	estudio ecográfico
+T35	PROCEDIMIENTO 2765 2797	punción con aguja fina vertebral
+T36	PROCEDIMIENTO 2901 2929	biopsia de ganglios mamarios
+T37	PROCEDIMIENTO 3090 3116	tratamiento quimioterápico
+T38	PROCEDIMIENTO 3236 3262	tratamiento quimioterápico
+T39	PROCEDIMIENTO 3280 3283	TAC
+T40	PROCEDIMIENTO 3373 3376	TAC
+T41	PROCEDIMIENTO 3695 3791	nefrostomía percutánea derecha con colocación de un catéter ureteral doble J por vía anterógrada
+T42	PROCEDIMIENTO 3885 3897	angioplastia
+T43	PROCEDIMIENTO 398 418	estudio de extensión
+T44	PROCEDIMIENTO 428 448	TAC toraco-abdominal
+T45	PROCEDIMIENTO 451 467	gammagrafía ósea
+T46	PROCEDIMIENTO 546 557	ecográficos
+T47	PROCEDIMIENTO 587 630	tratamiento quirúrgico mediante RTU vesical
+T48	PROCEDIMIENTO 804 832	cisto-prostatectomía radical
+T49	PROCEDIMIENTO 837 853	derivación ileal
+T50	PROCEDIMIENTO 921 938	anatomopatológico

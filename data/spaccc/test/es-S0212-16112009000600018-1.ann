@@ -1,55 +1,55 @@
-T1	ENFERMEDAD 64 79	ascitis quilosa
-T2	ENFERMEDAD 142 160	cólicos nefríticos
-T3	ENFERMEDAD 240 303	seminoma testicular izquierdo con adenopatías retroperitoneales
-T4	ENFERMEDAD 274 303	adenopatías retroperitoneales
-T5	ENFERMEDAD 1067 1074	ascitis
-T6	ENFERMEDAD 1125 1132	ascitis
-T7	ENFERMEDAD 1572 1583	adenopatías
-T8	ENFERMEDAD 2174 2189	derrame pleural
-T9	ENFERMEDAD 3353 3387	malnutrición proteicocalórica leve
-T10	ENFERMEDAD 3406 3466	ascitis quilosa secundaria a linfadenectomía retroperitoneal
-T11	ENFERMEDAD 839 874	complicaciones en el postoperatorio
-T12	ENFERMEDAD 739 750	adenopatías
-T13	ENFERMEDAD 129 139	tabaquismo
-T14	ENFERMEDAD 1369 1385	líquido ascítico
-T15	ENFERMEDAD 1273 1302	líquido libre intra-abdominal
-T16	ENFERMEDAD 626 642	masa adenopática
-T17	PROCEDIMIENTO 1082 1102	ecografía de abdomen
-T18	PROCEDIMIENTO 1140 1174	tomografía computarizada abdominal
-T19	PROCEDIMIENTO 1216 1247	linfadenectomía retroperitoneal
-T20	PROCEDIMIENTO 1315 1338	paracentesis evacuadora
-T21	PROCEDIMIENTO 1343 1385	extracción de 8.000 cc de líquido ascítico
-T22	PROCEDIMIENTO 1572 1593	adenopatías resecadas
-T23	PROCEDIMIENTO 1639 1659	marcadores tumorales
-T24	PROCEDIMIENTO 1706 1730	paracentesis evacuadoras
-T25	PROCEDIMIENTO 1917 1935	exploración física
-T26	PROCEDIMIENTO 2120 2146	ascultación cardiopulmonar
-T27	PROCEDIMIENTO 2192 2213	exploración abdominal
-T28	PROCEDIMIENTO 2254 2263	analítica
-T29	PROCEDIMIENTO 2398 2413	perfil hepático
-T30	PROCEDIMIENTO 3435 3466	linfadenectomía retroperitoneal
-T31	PROCEDIMIENTO 3478 3536	dieta hiperproteica con restricción de grasa y fraccionada
-T32	PROCEDIMIENTO 358 388	orquiectomía radical izquierda
-T33	PROCEDIMIENTO 3627 3651	complejo multivitamínico
-T34	PROCEDIMIENTO 3679 3719	suplemento específico enriquecido en MCT
-T35	PROCEDIMIENTO 3865 3888	paracentesis evacuadora
-T36	PROCEDIMIENTO 429 442	quimioterapia
-T37	PROCEDIMIENTO 450 551	protocolo BEP (3 ciclos de Bleomicina-Cisplatino-Etopósido y un cuarto ciclo de Cisplatino-Etopósido)
-T38	PROCEDIMIENTO 561 574	quimioterapia
-T39	PROCEDIMIENTO 771 802	linfadenectomía retroperitoneal
-T40	PROCEDIMIENTO 810 822	intervención
-T41	PROCEDIMIENTO 918 925	cirugía
-T42	PROCEDIMIENTO 975 993	exploración física
-T43	SINTOMA 939 967	dolor y distensión abdominal
-T44	SINTOMA 1847 1863	astenia moderada
-T45	SINTOMA 626 630	masa
-T46	SINTOMA 1004 1038	abdomen distendido, duro, doloroso
-T47	SINTOMA 2120 2153	ascultación cardiopulmonar normal
-T48	SINTOMA 1189 1247	cambios postquirúrgicos de linfadenectomía retroperitoneal
-T49	SINTOMA 2192 2238	exploración abdominal sin hallazgos relevantes
-T50	SINTOMA 1369 1404	líquido ascítico de aspecto lechoso
-T51	SINTOMA 1273 1302	líquido libre intra-abdominal
-T52	SINTOMA 1639 1688	marcadores tumorales (AFP y HCG) fueron negativos
-T53	SINTOMA 2360 2396	Na, K, Cl, Calcio y fósforo normales
-T54	SINTOMA 2398 2420	perfil hepático normal
-T55	SINTOMA 1868 1909	sensación de plenitud postpandrial precoz
+T1	SINTOMA 939 967	dolor y distensión abdominal
+T2	SINTOMA 1847 1863	astenia moderada
+T3	SINTOMA 626 630	masa
+T4	SINTOMA 1004 1038	abdomen distendido, duro, doloroso
+T5	SINTOMA 2120 2153	ascultación cardiopulmonar normal
+T6	SINTOMA 1189 1247	cambios postquirúrgicos de linfadenectomía retroperitoneal
+T7	SINTOMA 2192 2238	exploración abdominal sin hallazgos relevantes
+T8	SINTOMA 1369 1404	líquido ascítico de aspecto lechoso
+T9	SINTOMA 1273 1302	líquido libre intra-abdominal
+T10	SINTOMA 1639 1688	marcadores tumorales (AFP y HCG) fueron negativos
+T11	SINTOMA 2360 2396	Na, K, Cl, Calcio y fósforo normales
+T12	SINTOMA 2398 2420	perfil hepático normal
+T13	SINTOMA 1868 1909	sensación de plenitud postpandrial precoz
+T14	ENFERMEDAD 64 79	ascitis quilosa
+T15	ENFERMEDAD 142 160	cólicos nefríticos
+T16	ENFERMEDAD 240 303	seminoma testicular izquierdo con adenopatías retroperitoneales
+T17	ENFERMEDAD 274 303	adenopatías retroperitoneales
+T18	ENFERMEDAD 1067 1074	ascitis
+T19	ENFERMEDAD 1125 1132	ascitis
+T20	ENFERMEDAD 1572 1583	adenopatías
+T21	ENFERMEDAD 2174 2189	derrame pleural
+T22	ENFERMEDAD 3353 3387	malnutrición proteicocalórica leve
+T23	ENFERMEDAD 3406 3466	ascitis quilosa secundaria a linfadenectomía retroperitoneal
+T24	ENFERMEDAD 839 874	complicaciones en el postoperatorio
+T25	ENFERMEDAD 739 750	adenopatías
+T26	ENFERMEDAD 129 139	tabaquismo
+T27	ENFERMEDAD 1369 1385	líquido ascítico
+T28	ENFERMEDAD 1273 1302	líquido libre intra-abdominal
+T29	ENFERMEDAD 626 642	masa adenopática
+T30	PROCEDIMIENTO 1082 1102	ecografía de abdomen
+T31	PROCEDIMIENTO 1140 1174	tomografía computarizada abdominal
+T32	PROCEDIMIENTO 1216 1247	linfadenectomía retroperitoneal
+T33	PROCEDIMIENTO 1315 1338	paracentesis evacuadora
+T34	PROCEDIMIENTO 1343 1385	extracción de 8.000 cc de líquido ascítico
+T35	PROCEDIMIENTO 1572 1593	adenopatías resecadas
+T36	PROCEDIMIENTO 1639 1659	marcadores tumorales
+T37	PROCEDIMIENTO 1706 1730	paracentesis evacuadoras
+T38	PROCEDIMIENTO 1917 1935	exploración física
+T39	PROCEDIMIENTO 2120 2146	ascultación cardiopulmonar
+T40	PROCEDIMIENTO 2192 2213	exploración abdominal
+T41	PROCEDIMIENTO 2254 2263	analítica
+T42	PROCEDIMIENTO 2398 2413	perfil hepático
+T43	PROCEDIMIENTO 3435 3466	linfadenectomía retroperitoneal
+T44	PROCEDIMIENTO 3478 3536	dieta hiperproteica con restricción de grasa y fraccionada
+T45	PROCEDIMIENTO 358 388	orquiectomía radical izquierda
+T46	PROCEDIMIENTO 3627 3651	complejo multivitamínico
+T47	PROCEDIMIENTO 3679 3719	suplemento específico enriquecido en MCT
+T48	PROCEDIMIENTO 3865 3888	paracentesis evacuadora
+T49	PROCEDIMIENTO 429 442	quimioterapia
+T50	PROCEDIMIENTO 450 551	protocolo BEP (3 ciclos de Bleomicina-Cisplatino-Etopósido y un cuarto ciclo de Cisplatino-Etopósido)
+T51	PROCEDIMIENTO 561 574	quimioterapia
+T52	PROCEDIMIENTO 771 802	linfadenectomía retroperitoneal
+T53	PROCEDIMIENTO 810 822	intervención
+T54	PROCEDIMIENTO 918 925	cirugía
+T55	PROCEDIMIENTO 975 993	exploración física

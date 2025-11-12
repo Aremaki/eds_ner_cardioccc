@@ -1,46 +1,46 @@
-T1	ENFERMEDAD 2571 2583	osteoporosis
-T2	ENFERMEDAD 106 139	metrorragias secundarias a miomas
-T3	ENFERMEDAD 195 229	osteoporosis densitométrica lumbar
-T4	ENFERMEDAD 418 426	fractura
-T5	ENFERMEDAD 3126 3145	fracturas de estrés
-T6	ENFERMEDAD 915 967	fractura de estrés en el 2o MTT con callo perióstico
-T7	ENFERMEDAD 1524 1551	osteoporosis a nivel lumbar
-T8	ENFERMEDAD 1881 1939	callo de fractura antiguo en 2o MTT por fractura de estrés
-T9	ENFERMEDAD 2107 2141	tenosinovitis del tibial posterior
-T10	ENFERMEDAD 2441 2450	fracturas
-T11	ENFERMEDAD 357 372	hábitos tóxicos
-T12	ENFERMEDAD 2637 2642	obesa
-T13	ENFERMEDAD 2664 2676	traumatismos
-T14	ENFERMEDAD 2035 2103	edema de 1er y 3er MTT, de huesos cuneiforme, escafoides y astrágalo
-T15	PROCEDIMIENTO 1007 1024	estudio analítico
-T16	PROCEDIMIENTO 1179 1192	función renal
-T17	PROCEDIMIENTO 1273 1298	suplementos de vitamina D
-T18	PROCEDIMIENTO 1393 1401	descarga
-T19	PROCEDIMIENTO 1420 1425	AINEs
-T20	PROCEDIMIENTO 1428 1442	magnetoterapia
-T21	PROCEDIMIENTO 1613 1618	SERMS
-T22	PROCEDIMIENTO 1867 1869	Rx
-T23	PROCEDIMIENTO 1980 2000	RMN de pie izquierdo
-T24	PROCEDIMIENTO 2165 2183	densitometría ósea
-T25	PROCEDIMIENTO 2471 2485	rehabilitación
-T26	PROCEDIMIENTO 2488 2496	descarga
-T27	PROCEDIMIENTO 319 344	suplementos de vitamina D
-T28	PROCEDIMIENTO 623 628	AINEs
-T29	PROCEDIMIENTO 636 647	exploración
-T30	PROCEDIMIENTO 74 87	histerectomía
-T31	PROCEDIMIENTO 812 822	Rx de pies
-T32	PROCEDIMIENTO 878 898	RMN de pie izquierdo
-T33	SINTOMA 2743 2748	dolor
-T34	SINTOMA 1739 1744	dolor
-T35	SINTOMA 519 530	inflamación
-T36	SINTOMA 754 789	alteraciones de la estática de pies
-T37	SINTOMA 690 725	dolor a la movilización del antepié
-T38	SINTOMA 462 486	dolor mecánico en el pie
-T39	SINTOMA 2035 2103	edema de 1er y 3er MTT, de huesos cuneiforme, escafoides y astrágalo
-T40	SINTOMA 970 994	edema de tejidos blandos
-T41	SINTOMA 1179 1239	función renal, y el calcio sérico y urinario fueron normales
-T42	SINTOMA 433 447	IMC era normal
-T43	SINTOMA 1036 1077	incremento de niveles de PTH y vitamina D
-T44	SINTOMA 812 860	Rx de pies que no mostraba hallazgos patológicos
-T45	SINTOMA 1798 1813	síntomas en pie
-T46	SINTOMA 3060 3078	sobrecarga del pie
+T1	SINTOMA 2743 2748	dolor
+T2	SINTOMA 1739 1744	dolor
+T3	SINTOMA 519 530	inflamación
+T4	SINTOMA 754 789	alteraciones de la estática de pies
+T5	SINTOMA 690 725	dolor a la movilización del antepié
+T6	SINTOMA 462 486	dolor mecánico en el pie
+T7	SINTOMA 2035 2103	edema de 1er y 3er MTT, de huesos cuneiforme, escafoides y astrágalo
+T8	SINTOMA 970 994	edema de tejidos blandos
+T9	SINTOMA 1179 1239	función renal, y el calcio sérico y urinario fueron normales
+T10	SINTOMA 433 447	IMC era normal
+T11	SINTOMA 1036 1077	incremento de niveles de PTH y vitamina D
+T12	SINTOMA 812 860	Rx de pies que no mostraba hallazgos patológicos
+T13	SINTOMA 1798 1813	síntomas en pie
+T14	SINTOMA 3060 3078	sobrecarga del pie
+T15	ENFERMEDAD 2571 2583	osteoporosis
+T16	ENFERMEDAD 106 139	metrorragias secundarias a miomas
+T17	ENFERMEDAD 195 229	osteoporosis densitométrica lumbar
+T18	ENFERMEDAD 418 426	fractura
+T19	ENFERMEDAD 3126 3145	fracturas de estrés
+T20	ENFERMEDAD 915 967	fractura de estrés en el 2o MTT con callo perióstico
+T21	ENFERMEDAD 1524 1551	osteoporosis a nivel lumbar
+T22	ENFERMEDAD 1881 1939	callo de fractura antiguo en 2o MTT por fractura de estrés
+T23	ENFERMEDAD 2107 2141	tenosinovitis del tibial posterior
+T24	ENFERMEDAD 2441 2450	fracturas
+T25	ENFERMEDAD 357 372	hábitos tóxicos
+T26	ENFERMEDAD 2637 2642	obesa
+T27	ENFERMEDAD 2664 2676	traumatismos
+T28	ENFERMEDAD 2035 2103	edema de 1er y 3er MTT, de huesos cuneiforme, escafoides y astrágalo
+T29	PROCEDIMIENTO 1007 1024	estudio analítico
+T30	PROCEDIMIENTO 1179 1192	función renal
+T31	PROCEDIMIENTO 1273 1298	suplementos de vitamina D
+T32	PROCEDIMIENTO 1393 1401	descarga
+T33	PROCEDIMIENTO 1420 1425	AINEs
+T34	PROCEDIMIENTO 1428 1442	magnetoterapia
+T35	PROCEDIMIENTO 1613 1618	SERMS
+T36	PROCEDIMIENTO 1867 1869	Rx
+T37	PROCEDIMIENTO 1980 2000	RMN de pie izquierdo
+T38	PROCEDIMIENTO 2165 2183	densitometría ósea
+T39	PROCEDIMIENTO 2471 2485	rehabilitación
+T40	PROCEDIMIENTO 2488 2496	descarga
+T41	PROCEDIMIENTO 319 344	suplementos de vitamina D
+T42	PROCEDIMIENTO 623 628	AINEs
+T43	PROCEDIMIENTO 636 647	exploración
+T44	PROCEDIMIENTO 74 87	histerectomía
+T45	PROCEDIMIENTO 812 822	Rx de pies
+T46	PROCEDIMIENTO 878 898	RMN de pie izquierdo

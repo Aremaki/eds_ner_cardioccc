@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 56 73	diabetes mellitus
-T2	ENFERMEDAD 75 96	hipertensión arterial
-T3	ENFERMEDAD 243 265	incontinencia urinaria
-T4	ENFERMEDAD 381 410	hidrocefalia tetraventricular
-T5	ENFERMEDAD 432 435	HCA
-T6	ENFERMEDAD 928 952	hipotensión intracraneal
-T7	ENFERMEDAD 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
-T8	ENFERMEDAD 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
-T9	ENFERMEDAD 99 120	fibrilación auricular
-T10	SINTOMA 281 315	afectación de funciones superiores
-T11	SINTOMA 975 1007	deterioró el nivel de conciencia
-T12	SINTOMA 318 337	labilidad emocional
-T13	SINTOMA 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
-T14	SINTOMA 1035 1043	síntomas
-T15	SINTOMA 206 240	imposibilidad para la deambulación
-T16	SINTOMA 843 851	cefaleas
-T17	SINTOMA 853 860	náuseas
-T18	SINTOMA 862 869	vómitos
-T19	SINTOMA 872 882	sudoración
-T20	SINTOMA 1303 1322	buen estado clínico
-T21	SINTOMA 243 265	incontinencia urinaria
+T1	SINTOMA 281 315	afectación de funciones superiores
+T2	SINTOMA 975 1007	deterioró el nivel de conciencia
+T3	SINTOMA 318 337	labilidad emocional
+T4	SINTOMA 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
+T5	SINTOMA 1035 1043	síntomas
+T6	SINTOMA 206 240	imposibilidad para la deambulación
+T7	SINTOMA 843 851	cefaleas
+T8	SINTOMA 853 860	náuseas
+T9	SINTOMA 862 869	vómitos
+T10	SINTOMA 872 882	sudoración
+T11	SINTOMA 1303 1322	buen estado clínico
+T12	SINTOMA 243 265	incontinencia urinaria
+T13	ENFERMEDAD 56 73	diabetes mellitus
+T14	ENFERMEDAD 75 96	hipertensión arterial
+T15	ENFERMEDAD 243 265	incontinencia urinaria
+T16	ENFERMEDAD 381 410	hidrocefalia tetraventricular
+T17	ENFERMEDAD 432 435	HCA
+T18	ENFERMEDAD 928 952	hipotensión intracraneal
+T19	ENFERMEDAD 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
+T20	ENFERMEDAD 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
+T21	ENFERMEDAD 99 120	fibrilación auricular

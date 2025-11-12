@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 139 219	úlcera de aspecto necrótico de 4-5 cm de diámetro en pilar amigdalino y amígdala
-T2	ENFERMEDAD 1109 1120	hematemesis
-T3	ENFERMEDAD 263 284	carcinoma epidermoide
-T4	ENFERMEDAD 310 394	adenopatías laterocervicales ipsilaterales tanto submaxilares como yugulodigástricas
-T5	ENFERMEDAD 1388 1409	carcinoma epidermoide
-T6	ENFERMEDAD 1425 1459	metástasis de carcinoma de laringe
-T7	ENFERMEDAD 1938 1962	diseminación metastásica
-T8	ENFERMEDAD 500 555	carcinoma epidermoide localmente avanzado de orofaringe
-T9	ENFERMEDAD 564 566	M0
-T10	PROCEDIMIENTO 104 122	exploración física
-T11	PROCEDIMIENTO 1199 1211	gastroscopia
-T12	PROCEDIMIENTO 1373 1380	biopsia
-T13	PROCEDIMIENTO 1510 1523	transfusiones
-T14	PROCEDIMIENTO 1630 1703	tratamiento radioterápico de carácter paliativo con intención hemostática
-T15	PROCEDIMIENTO 234 244	se biopsió
-T16	PROCEDIMIENTO 292 295	TAC
-T17	PROCEDIMIENTO 399 418	analítica sanguínea
-T18	PROCEDIMIENTO 602 622	quimiorradioterápico
-T19	PROCEDIMIENTO 652 681	radioterapia hiperfraccionada
-T20	PROCEDIMIENTO 890 908	exploración física
-T21	PROCEDIMIENTO 917 920	TAC
-T22	SINTOMA 83 96	sangrado oral
-T23	SINTOMA 1583 1609	sangrado se mantuvo activo
-T24	SINTOMA 557 566	T3-N2b-M0
-T25	SINTOMA 1225 1265	tumoración ulcerada en el esófago distal
-T26	SINTOMA 70 80	odinofagia
-T27	SINTOMA 1057 1064	astenia
-T28	SINTOMA 1066 1079	inestabilidad
-T29	SINTOMA 1082 1097	dolor abdominal
-T30	SINTOMA 974 986	asintomático
-T31	SINTOMA 1877 1889	asintomático
-T32	SINTOMA 1829 1837	sangrado
-T33	SINTOMA 1925 1933	falleció
+T1	SINTOMA 83 96	sangrado oral
+T2	SINTOMA 1583 1609	sangrado se mantuvo activo
+T3	SINTOMA 557 566	T3-N2b-M0
+T4	SINTOMA 1225 1265	tumoración ulcerada en el esófago distal
+T5	SINTOMA 70 80	odinofagia
+T6	SINTOMA 1057 1064	astenia
+T7	SINTOMA 1066 1079	inestabilidad
+T8	SINTOMA 1082 1097	dolor abdominal
+T9	SINTOMA 974 986	asintomático
+T10	SINTOMA 1877 1889	asintomático
+T11	SINTOMA 1829 1837	sangrado
+T12	SINTOMA 1925 1933	falleció
+T13	ENFERMEDAD 139 219	úlcera de aspecto necrótico de 4-5 cm de diámetro en pilar amigdalino y amígdala
+T14	ENFERMEDAD 1109 1120	hematemesis
+T15	ENFERMEDAD 263 284	carcinoma epidermoide
+T16	ENFERMEDAD 310 394	adenopatías laterocervicales ipsilaterales tanto submaxilares como yugulodigástricas
+T17	ENFERMEDAD 1388 1409	carcinoma epidermoide
+T18	ENFERMEDAD 1425 1459	metástasis de carcinoma de laringe
+T19	ENFERMEDAD 1938 1962	diseminación metastásica
+T20	ENFERMEDAD 500 555	carcinoma epidermoide localmente avanzado de orofaringe
+T21	ENFERMEDAD 564 566	M0
+T22	PROCEDIMIENTO 104 122	exploración física
+T23	PROCEDIMIENTO 1199 1211	gastroscopia
+T24	PROCEDIMIENTO 1373 1380	biopsia
+T25	PROCEDIMIENTO 1510 1523	transfusiones
+T26	PROCEDIMIENTO 1630 1703	tratamiento radioterápico de carácter paliativo con intención hemostática
+T27	PROCEDIMIENTO 234 244	se biopsió
+T28	PROCEDIMIENTO 292 295	TAC
+T29	PROCEDIMIENTO 399 418	analítica sanguínea
+T30	PROCEDIMIENTO 602 622	quimiorradioterápico
+T31	PROCEDIMIENTO 652 681	radioterapia hiperfraccionada
+T32	PROCEDIMIENTO 890 908	exploración física
+T33	PROCEDIMIENTO 917 920	TAC

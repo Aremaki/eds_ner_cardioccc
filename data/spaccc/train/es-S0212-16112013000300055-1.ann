@@ -1,41 +1,41 @@
-T1	ENFERMEDAD 1963 2000	desnutrición calórico-proteica severa
-T2	ENFERMEDAD 51 75	diabetes mellitus tipo 2
-T3	ENFERMEDAD 1093 1115	hipoalbuminemia severa
-T4	ENFERMEDAD 127 177	trombofilia por mutación del gen de la protrombina
-T5	ENFERMEDAD 1183 1185	CU
-T6	ENFERMEDAD 179 200	obesidad supermórbida
-T7	ENFERMEDAD 1871 1877	anemia
-T8	ENFERMEDAD 1243 1269	intolerancias alimentarias
-T9	ENFERMEDAD 244 260	Colitis Ulcerosa
-T10	ENFERMEDAD 262 264	CU
-T11	ENFERMEDAD 358 366	diabetes
-T12	ENFERMEDAD 1381 1389	Diabetes
-T13	ENFERMEDAD 754 756	CU
-T14	ENFERMEDAD 933 954	desnutrición proteica
-T15	ENFERMEDAD 983 1004	gastroenteritis aguda
-T16	ENFERMEDAD 103 125	mal control metabólico
-T17	ENFERMEDAD 1882 1892	ferropenia
-T18	PROCEDIMIENTO 1291 1316	tratamiento antidiabético
-T19	PROCEDIMIENTO 1396 1414	exploración física
-T20	PROCEDIMIENTO 1693 1702	analítica
-T21	PROCEDIMIENTO 2012 2063	tratamiento con dieta hipercalórica e hiperproteica
-T22	PROCEDIMIENTO 2086 2112	módulos proteicos en polvo
-T23	PROCEDIMIENTO 2358 2395	analítica de parámetros nutricionales
-T24	PROCEDIMIENTO 2400 2418	densitometría ósea
-T25	PROCEDIMIENTO 489 510	ácidos grasos omega 3
-T26	PROCEDIMIENTO 610 628	cirugía bariátrica
-T27	PROCEDIMIENTO 653 695	derivación bilio-pancreática laparoscópica
-T28	PROCEDIMIENTO 700 715	colecistectomía
-T29	SINTOMA 1416 1440	aceptable estado general
-T30	SINTOMA 2328 2347	buen estado general
-T31	SINTOMA 2289 2295	edemas
-T32	SINTOMA 2255 2262	estable
-T33	SINTOMA 1882 1892	ferropenia
-T34	SINTOMA 1445 1464	palidez mucocutánea
-T35	SINTOMA 1563 1572	sobrepeso
-T36	SINTOMA 1233 1240	vómitos
-T37	SINTOMA 2400 2458	densitometría ósea realizada durante su ingreso fue normal
-T38	SINTOMA 1199 1223	deposiciones semiblandas
-T39	SINTOMA 883 919	edematización de miembros inferiores
-T40	SINTOMA 1626 1685	Extremidades inferiores con edemas con fóvea hasta rodillas
-T41	SINTOMA 1093 1115	hipoalbuminemia severa
+T1	SINTOMA 1416 1440	aceptable estado general
+T2	SINTOMA 2328 2347	buen estado general
+T3	SINTOMA 2289 2295	edemas
+T4	SINTOMA 2255 2262	estable
+T5	SINTOMA 1882 1892	ferropenia
+T6	SINTOMA 1445 1464	palidez mucocutánea
+T7	SINTOMA 1563 1572	sobrepeso
+T8	SINTOMA 1233 1240	vómitos
+T9	SINTOMA 2400 2458	densitometría ósea realizada durante su ingreso fue normal
+T10	SINTOMA 1199 1223	deposiciones semiblandas
+T11	SINTOMA 883 919	edematización de miembros inferiores
+T12	SINTOMA 1626 1685	Extremidades inferiores con edemas con fóvea hasta rodillas
+T13	SINTOMA 1093 1115	hipoalbuminemia severa
+T14	ENFERMEDAD 1963 2000	desnutrición calórico-proteica severa
+T15	ENFERMEDAD 51 75	diabetes mellitus tipo 2
+T16	ENFERMEDAD 1093 1115	hipoalbuminemia severa
+T17	ENFERMEDAD 127 177	trombofilia por mutación del gen de la protrombina
+T18	ENFERMEDAD 1183 1185	CU
+T19	ENFERMEDAD 179 200	obesidad supermórbida
+T20	ENFERMEDAD 1871 1877	anemia
+T21	ENFERMEDAD 1243 1269	intolerancias alimentarias
+T22	ENFERMEDAD 244 260	Colitis Ulcerosa
+T23	ENFERMEDAD 262 264	CU
+T24	ENFERMEDAD 358 366	diabetes
+T25	ENFERMEDAD 1381 1389	Diabetes
+T26	ENFERMEDAD 754 756	CU
+T27	ENFERMEDAD 933 954	desnutrición proteica
+T28	ENFERMEDAD 983 1004	gastroenteritis aguda
+T29	ENFERMEDAD 103 125	mal control metabólico
+T30	ENFERMEDAD 1882 1892	ferropenia
+T31	PROCEDIMIENTO 1291 1316	tratamiento antidiabético
+T32	PROCEDIMIENTO 1396 1414	exploración física
+T33	PROCEDIMIENTO 1693 1702	analítica
+T34	PROCEDIMIENTO 2012 2063	tratamiento con dieta hipercalórica e hiperproteica
+T35	PROCEDIMIENTO 2086 2112	módulos proteicos en polvo
+T36	PROCEDIMIENTO 2358 2395	analítica de parámetros nutricionales
+T37	PROCEDIMIENTO 2400 2418	densitometría ósea
+T38	PROCEDIMIENTO 489 510	ácidos grasos omega 3
+T39	PROCEDIMIENTO 610 628	cirugía bariátrica
+T40	PROCEDIMIENTO 653 695	derivación bilio-pancreática laparoscópica
+T41	PROCEDIMIENTO 700 715	colecistectomía

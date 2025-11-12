@@ -1,42 +1,42 @@
-T1	PROCEDIMIENTO 1042 1060	medidas de soporte
-T2	PROCEDIMIENTO 1063 1077	antibioterapia
-T3	PROCEDIMIENTO 1128 1160	ecografia reno-pélvica- escrotal
-T4	PROCEDIMIENTO 1404 1414	urocultura
-T5	PROCEDIMIENTO 1440 1475	cistouretrografía miccional seriada
-T6	PROCEDIMIENTO 1650 1684	radiologías óseas de cuerpo entero
-T7	PROCEDIMIENTO 1757 1807	fulguración de las válvulas de la uretra posterior
-T8	PROCEDIMIENTO 1810 1840	orquidectomía inguinal derecha
-T9	PROCEDIMIENTO 1987 1997	urocultura
-T10	PROCEDIMIENTO 203 235	Gestación correctamente vigilada
-T11	PROCEDIMIENTO 2145 2156	uroculturas
-T12	PROCEDIMIENTO 2209 2223	antibioterapia
-T13	PROCEDIMIENTO 2244 2266	profilaxia antibiótica
-T14	PROCEDIMIENTO 2353 2373	urografía endovenosa
-T15	PROCEDIMIENTO 2376 2404	cintilograma renal con MAG-3
-T16	PROCEDIMIENTO 256 270	Parto eutócico
-T17	PROCEDIMIENTO 2662 2682	prueba de furosemida
-T18	PROCEDIMIENTO 2934 2954	sedimentos urinarios
-T19	PROCEDIMIENTO 789 798	palpación
-T20	PROCEDIMIENTO 814 821	vacunas
-T21	SINTOMA 1697 1715	alteraciones óseas
-T22	SINTOMA 1720 1744	alteraciones vertebrales
-T23	SINTOMA 2499 2523	capacidad vesical normal
-T24	SINTOMA 2009 2026	correcta diuresis
-T25	SINTOMA 2603 2642	función renal bilateral está conservada
-T26	SINTOMA 2326 2340	orina aséptica
-T27	SINTOMA 523 537	rubéola inmune
-T28	SINTOMA 2934 2971	sedimentos urinarios sin alteraciones
-T29	SINTOMA 497 520	Toxoplasmosis no inmune
-T30	SINTOMA 1235 1255	tumefacción escrotal
-T31	SINTOMA 730 757	tumefacción escrotal sólida
-T32	SINTOMA 1404 1423	urocultura negativa
-T33	SINTOMA 1987 2006	urocultura negativa
-T34	SINTOMA 2145 2192	uroculturas positivas para flora polimicrobiana
-T35	SINTOMA 2530 2559	vaciado completo de la vejiga
-T36	SINTOMA 468 495	VDRL, AntHBs, VIH negativos
-T37	SINTOMA 1206 1233	vejiga de paredes espesadas
-T38	SINTOMA 1527 1545	vejiga trabeculada
-T39	SINTOMA 1965 1985	función renal normal
-T40	SINTOMA 2895 2915	función renal normal
-T41	SINTOMA 775 798	dolorosa a la palpación
-T42	SINTOMA 102 107	sanos
+T1	SINTOMA 1697 1715	alteraciones óseas
+T2	SINTOMA 1720 1744	alteraciones vertebrales
+T3	SINTOMA 2499 2523	capacidad vesical normal
+T4	SINTOMA 2009 2026	correcta diuresis
+T5	SINTOMA 2603 2642	función renal bilateral está conservada
+T6	SINTOMA 2326 2340	orina aséptica
+T7	SINTOMA 523 537	rubéola inmune
+T8	SINTOMA 2934 2971	sedimentos urinarios sin alteraciones
+T9	SINTOMA 497 520	Toxoplasmosis no inmune
+T10	SINTOMA 1235 1255	tumefacción escrotal
+T11	SINTOMA 730 757	tumefacción escrotal sólida
+T12	SINTOMA 1404 1423	urocultura negativa
+T13	SINTOMA 1987 2006	urocultura negativa
+T14	SINTOMA 2145 2192	uroculturas positivas para flora polimicrobiana
+T15	SINTOMA 2530 2559	vaciado completo de la vejiga
+T16	SINTOMA 468 495	VDRL, AntHBs, VIH negativos
+T17	SINTOMA 1206 1233	vejiga de paredes espesadas
+T18	SINTOMA 1527 1545	vejiga trabeculada
+T19	SINTOMA 1965 1985	función renal normal
+T20	SINTOMA 2895 2915	función renal normal
+T21	SINTOMA 775 798	dolorosa a la palpación
+T22	SINTOMA 102 107	sanos
+T23	PROCEDIMIENTO 1042 1060	medidas de soporte
+T24	PROCEDIMIENTO 1063 1077	antibioterapia
+T25	PROCEDIMIENTO 1128 1160	ecografia reno-pélvica- escrotal
+T26	PROCEDIMIENTO 1404 1414	urocultura
+T27	PROCEDIMIENTO 1440 1475	cistouretrografía miccional seriada
+T28	PROCEDIMIENTO 1650 1684	radiologías óseas de cuerpo entero
+T29	PROCEDIMIENTO 1757 1807	fulguración de las válvulas de la uretra posterior
+T30	PROCEDIMIENTO 1810 1840	orquidectomía inguinal derecha
+T31	PROCEDIMIENTO 1987 1997	urocultura
+T32	PROCEDIMIENTO 203 235	Gestación correctamente vigilada
+T33	PROCEDIMIENTO 2145 2156	uroculturas
+T34	PROCEDIMIENTO 2209 2223	antibioterapia
+T35	PROCEDIMIENTO 2244 2266	profilaxia antibiótica
+T36	PROCEDIMIENTO 2353 2373	urografía endovenosa
+T37	PROCEDIMIENTO 2376 2404	cintilograma renal con MAG-3
+T38	PROCEDIMIENTO 256 270	Parto eutócico
+T39	PROCEDIMIENTO 2662 2682	prueba de furosemida
+T40	PROCEDIMIENTO 2934 2954	sedimentos urinarios
+T41	PROCEDIMIENTO 789 798	palpación
+T42	PROCEDIMIENTO 814 821	vacunas

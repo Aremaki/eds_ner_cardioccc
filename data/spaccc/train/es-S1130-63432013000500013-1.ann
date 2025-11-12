@@ -1,14 +1,14 @@
-T1	ENFERMEDAD 17 49	infectado por el VHC genotipo 1a
-T2	ENFERMEDAD 107 124	fibrosis hepática
-T3	ENFERMEDAD 135 143	cirrosis
-T4	ENFERMEDAD 375 378	HCC
-T5	ENFERMEDAD 448 451	HCC
-T6	ENFERMEDAD 996 999	HCC
-T7	ENFERMEDAD 17 95	infectado por el VHC genotipo 1a y por el virus de la inmunodeficiencia humana
-T8	SINTOMA 646 755	alanina-aminotransferasa (ALT) y aspartato-aminotransferasa (AST) presentaron valores dentro de la normalidad
-T9	SINTOMA 1913 1931	CVVHC indetectable
-T10	SINTOMA 934 956	CVVIH fue indetectable
-T11	SINTOMA 794 860	gamma-glutamiltranspeptidasa (GGT) se encontró ligeramente elevada
-T12	SINTOMA 573 624	valores de hemoglobina (Hb) dentro de la normalidad
-T13	SINTOMA 520 531	neutropenia
-T14	SINTOMA 475 490	trombocitopenia
+T1	SINTOMA 646 755	alanina-aminotransferasa (ALT) y aspartato-aminotransferasa (AST) presentaron valores dentro de la normalidad
+T2	SINTOMA 1913 1931	CVVHC indetectable
+T3	SINTOMA 934 956	CVVIH fue indetectable
+T4	SINTOMA 794 860	gamma-glutamiltranspeptidasa (GGT) se encontró ligeramente elevada
+T5	SINTOMA 573 624	valores de hemoglobina (Hb) dentro de la normalidad
+T6	SINTOMA 520 531	neutropenia
+T7	SINTOMA 475 490	trombocitopenia
+T8	ENFERMEDAD 17 49	infectado por el VHC genotipo 1a
+T9	ENFERMEDAD 107 124	fibrosis hepática
+T10	ENFERMEDAD 135 143	cirrosis
+T11	ENFERMEDAD 375 378	HCC
+T12	ENFERMEDAD 448 451	HCC
+T13	ENFERMEDAD 996 999	HCC
+T14	ENFERMEDAD 17 95	infectado por el VHC genotipo 1a y por el virus de la inmunodeficiencia humana

@@ -1,40 +1,40 @@
-T1	ENFERMEDAD 2225 2234	linfocele
-T2	ENFERMEDAD 67 88	hipertensión arterial
-T3	ENFERMEDAD 91 110	hipercolesterolemia
-T4	ENFERMEDAD 1996 2005	linfocele
-T5	ENFERMEDAD 122 158	insuficiencia renal crónica terminal
-T6	ENFERMEDAD 672 689	diabetes mellitus
-T7	ENFERMEDAD 188 206	anemia nefrogénica
-T8	ENFERMEDAD 731 764	toxicidad por anticalcineurínicos
-T9	ENFERMEDAD 1880 1889	linfocele
-T10	ENFERMEDAD 263 293	hiperparatiroidismo secundario
-T11	ENFERMEDAD 1964 1973	infección
-T12	ENFERMEDAD 1410 1432	colección peri-injerto
-T13	PROCEDIMIENTO 1387 1390	ECO
-T14	PROCEDIMIENTO 1463 1466	TAC
-T15	PROCEDIMIENTO 1637 1655	punción percutánea
-T16	PROCEDIMIENTO 1658 1705	colocación de pig-tail para drenar la colección
-T17	PROCEDIMIENTO 1756 1775	análisis bioquímico
-T18	PROCEDIMIENTO 1901 1923	tratamiento quirúrgico
-T19	PROCEDIMIENTO 1975 2048	marsupialización del linfocele a cavidad peritoneal por vía laparoscópica
-T20	PROCEDIMIENTO 2165 2168	TAC
-T21	PROCEDIMIENTO 219 260	factores estimulantes de la eritropoyesis
-T22	PROCEDIMIENTO 406 419	función renal
-T23	PROCEDIMIENTO 429 441	hemodiálisis
-T24	PROCEDIMIENTO 489 505	trasplante renal
-T25	PROCEDIMIENTO 534 592	trasplante renal de donante cadáver en fosa ilíaca derecha
-T26	PROCEDIMIENTO 745 764	anticalcineurínicos
-T27	PROCEDIMIENTO 801 808	injerto
-T28	PROCEDIMIENTO 873 885	intervención
-T29	PROCEDIMIENTO 966 1046	triple terapia inmunosupresora con prednisona, tacrolimus y micofenolato mofetil
-T30	SINTOMA 2145 2157	asintomática
-T31	SINTOMA 1299 1318	buen estado general
-T32	SINTOMA 1410 1432	colección peri-injerto
-T33	SINTOMA 1571 1602	compresión de los vasos ilíacos
-T34	SINTOMA 1605 1631	deplazamiento de la vejiga
-T35	SINTOMA 1154 1183	deterioro de la función renal
-T36	SINTOMA 1189 1215	disminución de la diuresis
-T37	SINTOMA 1118 1143	edema en miembro inferior
-T38	SINTOMA 1218 1271	elevación de la concentración de creatinina en plasma
-T39	SINTOMA 1340 1346	fiebre
-T40	SINTOMA 2122 2142	función renal normal
+T1	SINTOMA 2145 2157	asintomática
+T2	SINTOMA 1299 1318	buen estado general
+T3	SINTOMA 1410 1432	colección peri-injerto
+T4	SINTOMA 1571 1602	compresión de los vasos ilíacos
+T5	SINTOMA 1605 1631	deplazamiento de la vejiga
+T6	SINTOMA 1154 1183	deterioro de la función renal
+T7	SINTOMA 1189 1215	disminución de la diuresis
+T8	SINTOMA 1118 1143	edema en miembro inferior
+T9	SINTOMA 1218 1271	elevación de la concentración de creatinina en plasma
+T10	SINTOMA 1340 1346	fiebre
+T11	SINTOMA 2122 2142	función renal normal
+T12	ENFERMEDAD 2225 2234	linfocele
+T13	ENFERMEDAD 67 88	hipertensión arterial
+T14	ENFERMEDAD 91 110	hipercolesterolemia
+T15	ENFERMEDAD 1996 2005	linfocele
+T16	ENFERMEDAD 122 158	insuficiencia renal crónica terminal
+T17	ENFERMEDAD 672 689	diabetes mellitus
+T18	ENFERMEDAD 188 206	anemia nefrogénica
+T19	ENFERMEDAD 731 764	toxicidad por anticalcineurínicos
+T20	ENFERMEDAD 1880 1889	linfocele
+T21	ENFERMEDAD 263 293	hiperparatiroidismo secundario
+T22	ENFERMEDAD 1964 1973	infección
+T23	ENFERMEDAD 1410 1432	colección peri-injerto
+T24	PROCEDIMIENTO 1387 1390	ECO
+T25	PROCEDIMIENTO 1463 1466	TAC
+T26	PROCEDIMIENTO 1637 1655	punción percutánea
+T27	PROCEDIMIENTO 1658 1705	colocación de pig-tail para drenar la colección
+T28	PROCEDIMIENTO 1756 1775	análisis bioquímico
+T29	PROCEDIMIENTO 1901 1923	tratamiento quirúrgico
+T30	PROCEDIMIENTO 1975 2048	marsupialización del linfocele a cavidad peritoneal por vía laparoscópica
+T31	PROCEDIMIENTO 2165 2168	TAC
+T32	PROCEDIMIENTO 219 260	factores estimulantes de la eritropoyesis
+T33	PROCEDIMIENTO 406 419	función renal
+T34	PROCEDIMIENTO 429 441	hemodiálisis
+T35	PROCEDIMIENTO 489 505	trasplante renal
+T36	PROCEDIMIENTO 534 592	trasplante renal de donante cadáver en fosa ilíaca derecha
+T37	PROCEDIMIENTO 745 764	anticalcineurínicos
+T38	PROCEDIMIENTO 801 808	injerto
+T39	PROCEDIMIENTO 873 885	intervención
+T40	PROCEDIMIENTO 966 1046	triple terapia inmunosupresora con prednisona, tacrolimus y micofenolato mofetil

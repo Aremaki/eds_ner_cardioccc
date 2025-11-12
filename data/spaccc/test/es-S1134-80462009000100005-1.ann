@@ -1,8 +1,8 @@
-T1	ENFERMEDAD 61 99	arteriopatía por enfermedad de Buerger
-T2	ENFERMEDAD 803 819	patología álgica
-T3	PROCEDIMIENTO 25 56	amputación de antepié izquierdo
-T4	SINTOMA 450 455	dolor
-T5	SINTOMA 507 514	náuseas
-T6	SINTOMA 591 605	dolor gástrico
-T7	SINTOMA 114 134	dolores en la pierna
-T8	SINTOMA 517 527	gastralgia
+T1	SINTOMA 450 455	dolor
+T2	SINTOMA 507 514	náuseas
+T3	SINTOMA 591 605	dolor gástrico
+T4	SINTOMA 114 134	dolores en la pierna
+T5	SINTOMA 517 527	gastralgia
+T6	ENFERMEDAD 61 99	arteriopatía por enfermedad de Buerger
+T7	ENFERMEDAD 803 819	patología álgica
+T8	PROCEDIMIENTO 25 56	amputación de antepié izquierdo

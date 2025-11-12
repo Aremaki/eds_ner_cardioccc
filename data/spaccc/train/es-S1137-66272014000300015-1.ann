@@ -1,18 +1,18 @@
-T1	ENFERMEDAD 1170 1185	leve hemorragia
-T2	ENFERMEDAD 794 822	carcinoma ductal infiltrante
-T3	ENFERMEDAD 64 74	exfumadora
-T4	ENFERMEDAD 230 250	adenopatías axilares
-T5	ENFERMEDAD 1378 1395	linforrea quilosa
-T6	ENFERMEDAD 333 401	carcinoma ductal infiltrante de mama izquierda con afectación axilar
-T7	ENFERMEDAD 1089 1128	metástasis en 1/ 19 ganglios linfáticos
-T8	ENFERMEDAD 140 154	Cáncer de Mama
-T9	SINTOMA 1009 1027	Andrógeno negativo
-T10	SINTOMA 1029 1042	BCL2 positivo
-T11	SINTOMA 1304 1363	débito de 400 ml por el drenaje axilar, con aspecto lechoso
-T12	SINTOMA 969 982	EGFR negativo
-T13	SINTOMA 846 863	Her2-neu negativo
-T14	SINTOMA 1170 1214	leve hemorragia exteriorizada por el drenaje
-T15	SINTOMA 162 214	nódulo de 3,5 cm en cuadrante infero-interno de mama
-T16	SINTOMA 2033 2045	asintomática
-T17	SINTOMA 1412 1427	líquido quiloso
-T18	SINTOMA 2048 2067	libre de enfermedad
+T1	SINTOMA 1009 1027	Andrógeno negativo
+T2	SINTOMA 1029 1042	BCL2 positivo
+T3	SINTOMA 1304 1363	débito de 400 ml por el drenaje axilar, con aspecto lechoso
+T4	SINTOMA 969 982	EGFR negativo
+T5	SINTOMA 846 863	Her2-neu negativo
+T6	SINTOMA 1170 1214	leve hemorragia exteriorizada por el drenaje
+T7	SINTOMA 162 214	nódulo de 3,5 cm en cuadrante infero-interno de mama
+T8	SINTOMA 2033 2045	asintomática
+T9	SINTOMA 1412 1427	líquido quiloso
+T10	SINTOMA 2048 2067	libre de enfermedad
+T11	ENFERMEDAD 1170 1185	leve hemorragia
+T12	ENFERMEDAD 794 822	carcinoma ductal infiltrante
+T13	ENFERMEDAD 64 74	exfumadora
+T14	ENFERMEDAD 230 250	adenopatías axilares
+T15	ENFERMEDAD 1378 1395	linforrea quilosa
+T16	ENFERMEDAD 333 401	carcinoma ductal infiltrante de mama izquierda con afectación axilar
+T17	ENFERMEDAD 1089 1128	metástasis en 1/ 19 ganglios linfáticos
+T18	ENFERMEDAD 140 154	Cáncer de Mama

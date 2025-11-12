@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 49 53	EPOC
-T2	ENFERMEDAD 55 62	fumador
-T3	ENFERMEDAD 1561 1586	infiltración mediastínica
-T4	ENFERMEDAD 1042 1054	plasmocitoma
-T5	ENFERMEDAD 479 504	infiltración mediastínica
-T6	ENFERMEDAD 84 100	bebedor moderado
-T7	ENFERMEDAD 1140 1154	tumor esternal
-T8	ENFERMEDAD 1540 1545	tumor
-T9	PROCEDIMIENTO 1059 1075	gammagrafia ósea
-T10	PROCEDIMIENTO 1202 1224	biopsia de médula ósea
-T11	PROCEDIMIENTO 1268 1287	estudio de la orina
-T12	PROCEDIMIENTO 1356 1406	extirpación amplia en bloque del manubrio esternal
-T13	PROCEDIMIENTO 1409 1523	resección parcial de ambas clavículas, de las dos primeras costillas y del cuerpo del esternón, incluyendo la piel
-T14	PROCEDIMIENTO 1588 1651	Cobertura del defecto resultante con una malla de polipropileno
-T15	PROCEDIMIENTO 1654 1696	sutura de los pectorales en la línea media
-T16	PROCEDIMIENTO 1885 1938	descripción anátomo-patológica de la pieza operatoria
-T17	PROCEDIMIENTO 2049 2067	inmunohistoquímica
-T18	PROCEDIMIENTO 2256 2268	radioterapia
-T19	PROCEDIMIENTO 2409 2421	tomográficos
-T20	PROCEDIMIENTO 270 364	radiografía simple y la TAC con contraste endovenoso y reconstrucción tridimensional del tórax
-T21	PROCEDIMIENTO 555 572	analítica general
-T22	PROCEDIMIENTO 627 698	estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina)
-T23	PROCEDIMIENTO 722 726	PAAF
-T24	PROCEDIMIENTO 733 751	biopsia quirúrgica
-T25	PROCEDIMIENTO 769 778	citología
-T26	PROCEDIMIENTO 811 822	histológico
-T27	PROCEDIMIENTO 828 857	pruebas de Inmunohistoquímica
-T28	SINTOMA 627 705	estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina) normal
-T29	SINTOMA 1096 1197	incremento de la captación en la región del tumor esternal y ambas articulaciones esternoclaviculares
-T30	SINTOMA 421 463	manubrio esternal con destrucción cortical
-T31	SINTOMA 1319 1343	proteínas de Bence-Jones
-T32	SINTOMA 381 438	tumoración de 5-6 cm. de diámetro en el manubrio esternal
-T33	SINTOMA 123 165	tumoración de rápido crecimiento, indolora
+T1	SINTOMA 627 705	estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina) normal
+T2	SINTOMA 1096 1197	incremento de la captación en la región del tumor esternal y ambas articulaciones esternoclaviculares
+T3	SINTOMA 421 463	manubrio esternal con destrucción cortical
+T4	SINTOMA 1319 1343	proteínas de Bence-Jones
+T5	SINTOMA 381 438	tumoración de 5-6 cm. de diámetro en el manubrio esternal
+T6	SINTOMA 123 165	tumoración de rápido crecimiento, indolora
+T7	ENFERMEDAD 49 53	EPOC
+T8	ENFERMEDAD 55 62	fumador
+T9	ENFERMEDAD 1561 1586	infiltración mediastínica
+T10	ENFERMEDAD 1042 1054	plasmocitoma
+T11	ENFERMEDAD 479 504	infiltración mediastínica
+T12	ENFERMEDAD 84 100	bebedor moderado
+T13	ENFERMEDAD 1140 1154	tumor esternal
+T14	ENFERMEDAD 1540 1545	tumor
+T15	PROCEDIMIENTO 1059 1075	gammagrafia ósea
+T16	PROCEDIMIENTO 1202 1224	biopsia de médula ósea
+T17	PROCEDIMIENTO 1268 1287	estudio de la orina
+T18	PROCEDIMIENTO 1356 1406	extirpación amplia en bloque del manubrio esternal
+T19	PROCEDIMIENTO 1409 1523	resección parcial de ambas clavículas, de las dos primeras costillas y del cuerpo del esternón, incluyendo la piel
+T20	PROCEDIMIENTO 1588 1651	Cobertura del defecto resultante con una malla de polipropileno
+T21	PROCEDIMIENTO 1654 1696	sutura de los pectorales en la línea media
+T22	PROCEDIMIENTO 1885 1938	descripción anátomo-patológica de la pieza operatoria
+T23	PROCEDIMIENTO 2049 2067	inmunohistoquímica
+T24	PROCEDIMIENTO 2256 2268	radioterapia
+T25	PROCEDIMIENTO 2409 2421	tomográficos
+T26	PROCEDIMIENTO 270 364	radiografía simple y la TAC con contraste endovenoso y reconstrucción tridimensional del tórax
+T27	PROCEDIMIENTO 555 572	analítica general
+T28	PROCEDIMIENTO 627 698	estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina)
+T29	PROCEDIMIENTO 722 726	PAAF
+T30	PROCEDIMIENTO 733 751	biopsia quirúrgica
+T31	PROCEDIMIENTO 769 778	citología
+T32	PROCEDIMIENTO 811 822	histológico
+T33	PROCEDIMIENTO 828 857	pruebas de Inmunohistoquímica

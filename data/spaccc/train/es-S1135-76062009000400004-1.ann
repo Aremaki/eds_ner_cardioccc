@@ -1,49 +1,49 @@
-T1	ENFERMEDAD 54 62	migrañas
-T2	ENFERMEDAD 2262 2316	no veía absolutamente nada por ninguno de los dos ojos
-T3	ENFERMEDAD 75 108	ciática refractaria a tratamiento
-T4	ENFERMEDAD 2949 2959	migrañosos
-T5	ENFERMEDAD 111 130	hernia discal L5-S1
-T6	ENFERMEDAD 3342 3357	discromatopsias
-T7	PROCEDIMIENTO 1371 1436	ojos se protegieron con lubricante y sendas almohadillas oculares
-T8	PROCEDIMIENTO 164 185	estudio preoperatorio
-T9	PROCEDIMIENTO 1796 1876	microcirugía convencional con incisión de dos traveses de dedo en la línea media
-T10	PROCEDIMIENTO 1878 1919	sección de aponeurosis común sacro-lumbar
-T11	PROCEDIMIENTO 1921 1960	retracción de musculatura paravertebral
-T12	PROCEDIMIENTO 1962 1973	flavectomía
-T13	PROCEDIMIENTO 1975 2032	disección de la raíz y escisión de hernia discal extraída
-T14	PROCEDIMIENTO 2070 2090	se administró sangre
-T15	PROCEDIMIENTO 2127 2158	agua oxigenada como hemostático
-T16	PROCEDIMIENTO 222 244	microdiscectomía L5-S1
-T17	PROCEDIMIENTO 2226 2235	anestesia
-T18	PROCEDIMIENTO 2478 2489	TC cerebral
-T19	PROCEDIMIENTO 2693 2704	RNM craneal
-T20	PROCEDIMIENTO 2821 2830	angio-RNM
-T21	PROCEDIMIENTO 3039 3054	vasodilatadores
-T22	PROCEDIMIENTO 3203 3215	intervención
-T23	PROCEDIMIENTO 329 338	Anestesia
-T24	PROCEDIMIENTO 3390 3393	RNM
-T25	PROCEDIMIENTO 3472 3475	RNM
-T26	PROCEDIMIENTO 355 372	anestesia general
-T27	PROCEDIMIENTO 378 400	intubación orotraqueal
-T28	PROCEDIMIENTO 405 443	inducción se realizó mediante Propofol
-T29	PROCEDIMIENTO 448 457	analgesia
-T30	PROCEDIMIENTO 477 514	agonista de los receptores m opioides
-T31	PROCEDIMIENTO 533 543	analgésica
-T32	PROCEDIMIENTO 572 582	relajación
-T33	PROCEDIMIENTO 617 641	bloqueador neuromuscular
-T34	PROCEDIMIENTO 706 724	anestésico volátil
-T35	PROCEDIMIENTO 737 749	intervención
-T36	PROCEDIMIENTO 787 815	Analgésico de acción central
-T37	PROCEDIMIENTO 817 888	agonista puro no selectivo de los receptores opioides, µ, delta y kappa
-T38	PROCEDIMIENTO 947 956	anestesia
-T39	SINTOMA 2821 2841	angio-RNM fue normal
-T40	SINTOMA 2599 2613	burbuja de gas
-T41	SINTOMA 2528 2583	imagen en circulación coroidea intraventricular derecha
-T42	SINTOMA 3438 3458	imágenes occipitales
-T43	SINTOMA 2720 2816	incremento difuso de la señal en secuencias T2 en áreas posteriores de ambos lóbulos occipitales
-T44	SINTOMA 3262 3312	percibía halos cromáticos alrededor de las figuras
-T45	SINTOMA 2037 2064	pérdida hemática fue mínima
-T46	SINTOMA 1650 1695	pulso pedio y tibial posterior en ambos lados
-T47	SINTOMA 3070 3129	refirió percibir formas cromáticas indistinguibles y tenues
-T48	SINTOMA 2414 2464	reflejo fotomotor y consensual estaban conservados
-T49	SINTOMA 2384 2409	tensión ocular fue normal
+T1	SINTOMA 2821 2841	angio-RNM fue normal
+T2	SINTOMA 2599 2613	burbuja de gas
+T3	SINTOMA 2528 2583	imagen en circulación coroidea intraventricular derecha
+T4	SINTOMA 3438 3458	imágenes occipitales
+T5	SINTOMA 2720 2816	incremento difuso de la señal en secuencias T2 en áreas posteriores de ambos lóbulos occipitales
+T6	SINTOMA 3262 3312	percibía halos cromáticos alrededor de las figuras
+T7	SINTOMA 2037 2064	pérdida hemática fue mínima
+T8	SINTOMA 1650 1695	pulso pedio y tibial posterior en ambos lados
+T9	SINTOMA 3070 3129	refirió percibir formas cromáticas indistinguibles y tenues
+T10	SINTOMA 2414 2464	reflejo fotomotor y consensual estaban conservados
+T11	SINTOMA 2384 2409	tensión ocular fue normal
+T12	ENFERMEDAD 54 62	migrañas
+T13	ENFERMEDAD 2262 2316	no veía absolutamente nada por ninguno de los dos ojos
+T14	ENFERMEDAD 75 108	ciática refractaria a tratamiento
+T15	ENFERMEDAD 2949 2959	migrañosos
+T16	ENFERMEDAD 111 130	hernia discal L5-S1
+T17	ENFERMEDAD 3342 3357	discromatopsias
+T18	PROCEDIMIENTO 1371 1436	ojos se protegieron con lubricante y sendas almohadillas oculares
+T19	PROCEDIMIENTO 164 185	estudio preoperatorio
+T20	PROCEDIMIENTO 1796 1876	microcirugía convencional con incisión de dos traveses de dedo en la línea media
+T21	PROCEDIMIENTO 1878 1919	sección de aponeurosis común sacro-lumbar
+T22	PROCEDIMIENTO 1921 1960	retracción de musculatura paravertebral
+T23	PROCEDIMIENTO 1962 1973	flavectomía
+T24	PROCEDIMIENTO 1975 2032	disección de la raíz y escisión de hernia discal extraída
+T25	PROCEDIMIENTO 2070 2090	se administró sangre
+T26	PROCEDIMIENTO 2127 2158	agua oxigenada como hemostático
+T27	PROCEDIMIENTO 222 244	microdiscectomía L5-S1
+T28	PROCEDIMIENTO 2226 2235	anestesia
+T29	PROCEDIMIENTO 2478 2489	TC cerebral
+T30	PROCEDIMIENTO 2693 2704	RNM craneal
+T31	PROCEDIMIENTO 2821 2830	angio-RNM
+T32	PROCEDIMIENTO 3039 3054	vasodilatadores
+T33	PROCEDIMIENTO 3203 3215	intervención
+T34	PROCEDIMIENTO 329 338	Anestesia
+T35	PROCEDIMIENTO 3390 3393	RNM
+T36	PROCEDIMIENTO 3472 3475	RNM
+T37	PROCEDIMIENTO 355 372	anestesia general
+T38	PROCEDIMIENTO 378 400	intubación orotraqueal
+T39	PROCEDIMIENTO 405 443	inducción se realizó mediante Propofol
+T40	PROCEDIMIENTO 448 457	analgesia
+T41	PROCEDIMIENTO 477 514	agonista de los receptores m opioides
+T42	PROCEDIMIENTO 533 543	analgésica
+T43	PROCEDIMIENTO 572 582	relajación
+T44	PROCEDIMIENTO 617 641	bloqueador neuromuscular
+T45	PROCEDIMIENTO 706 724	anestésico volátil
+T46	PROCEDIMIENTO 737 749	intervención
+T47	PROCEDIMIENTO 787 815	Analgésico de acción central
+T48	PROCEDIMIENTO 817 888	agonista puro no selectivo de los receptores opioides, µ, delta y kappa
+T49	PROCEDIMIENTO 947 956	anestesia

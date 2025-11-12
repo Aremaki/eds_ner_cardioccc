@@ -1,47 +1,47 @@
-T1	ENFERMEDAD 44 69	herpes recurrente en boca
-T2	ENFERMEDAD 975 990	neumomediastino
-T3	ENFERMEDAD 1046 1076	inmunosupresión asociada a VIH
-T4	ENFERMEDAD 1079 1110	neumonía por P. jirovecii (PJP)
-T5	ENFERMEDAD 245 279	recurrencia de la lesión herpética
-T6	ENFERMEDAD 2328 2347	hemorragia alveolar
-T7	ENFERMEDAD 2399 2416	infección por CMV
-T8	ENFERMEDAD 1555 1571	estado de choque
-T9	ENFERMEDAD 1804 1830	neumonía intrahospitalaria
-T10	ENFERMEDAD 294 302	disfagia
-T11	PROCEDIMIENTO 1115 1142	análisis para VIH por ELISA
-T12	PROCEDIMIENTO 1173 1185	Western Blot
-T13	PROCEDIMIENTO 1201 1240	broncoscopia con biopsia transbronquial
-T14	PROCEDIMIENTO 1243 1264	lavado broncoalveolar
-T15	PROCEDIMIENTO 1266 1269	LBA
-T16	PROCEDIMIENTO 1275 1298	estudio histopatológico
-T17	PROCEDIMIENTO 1584 1613	ventilación mecánica invasiva
-T18	PROCEDIMIENTO 1632 1655	exámenes de laboratorio
-T19	PROCEDIMIENTO 1988 1995	extubar
-T20	PROCEDIMIENTO 2136 2165	ventilación mecánica invasiva
-T21	PROCEDIMIENTO 2171 2197	Swan-Ganz se mide una POAP
-T22	PROCEDIMIENTO 2212 2232	radiografía de tórax
-T23	PROCEDIMIENTO 2273 2276	LBA
-T24	PROCEDIMIENTO 2273 2302	LBA cuyo estudio de patología
-T25	PROCEDIMIENTO 2379 2385	rt-PCR
-T26	PROCEDIMIENTO 2541 2570	ventilación mecánica invasiva
-T27	PROCEDIMIENTO 2702 2713	carga viral
-T28	PROCEDIMIENTO 320 333	examen físico
-T29	PROCEDIMIENTO 383 404	exploración del tórax
-T30	PROCEDIMIENTO 537 556	gasometría arterial
-T31	PROCEDIMIENTO 747 770	exámenes de laboratorio
-T32	PROCEDIMIENTO 894 905	Rx de tórax
-T33	SINTOMA 111 119	tos seca
-T34	SINTOMA 133 139	disnea
-T35	SINTOMA 197 203	fiebre
-T36	SINTOMA 217 232	pérdida de peso
-T37	SINTOMA 294 302	disfagia
-T38	SINTOMA 305 315	odinofagia
-T39	SINTOMA 792 802	linfopenia
-T40	SINTOMA 1464 1486	deterioro respiratorio
-T41	SINTOMA 410 444	disminución del ruido respiratorio
-T42	SINTOMA 171 195	dolor torácico bilateral
-T43	SINTOMA 447 463	estertores finos
-T44	SINTOMA 2029 2039	hemoptisis
-T45	SINTOMA 917 972	opacidades bilaterales en parche con vidrio deslustrado
-T46	SINTOMA 345 378	placas blanquecinas en orofaringe
-T47	SINTOMA 1129 1155	VIH por ELISA fue POSITIVO
+T1	SINTOMA 111 119	tos seca
+T2	SINTOMA 133 139	disnea
+T3	SINTOMA 197 203	fiebre
+T4	SINTOMA 217 232	pérdida de peso
+T5	SINTOMA 294 302	disfagia
+T6	SINTOMA 305 315	odinofagia
+T7	SINTOMA 792 802	linfopenia
+T8	SINTOMA 1464 1486	deterioro respiratorio
+T9	SINTOMA 410 444	disminución del ruido respiratorio
+T10	SINTOMA 171 195	dolor torácico bilateral
+T11	SINTOMA 447 463	estertores finos
+T12	SINTOMA 2029 2039	hemoptisis
+T13	SINTOMA 917 972	opacidades bilaterales en parche con vidrio deslustrado
+T14	SINTOMA 345 378	placas blanquecinas en orofaringe
+T15	SINTOMA 1129 1155	VIH por ELISA fue POSITIVO
+T16	ENFERMEDAD 44 69	herpes recurrente en boca
+T17	ENFERMEDAD 975 990	neumomediastino
+T18	ENFERMEDAD 1046 1076	inmunosupresión asociada a VIH
+T19	ENFERMEDAD 1079 1110	neumonía por P. jirovecii (PJP)
+T20	ENFERMEDAD 245 279	recurrencia de la lesión herpética
+T21	ENFERMEDAD 2328 2347	hemorragia alveolar
+T22	ENFERMEDAD 2399 2416	infección por CMV
+T23	ENFERMEDAD 1555 1571	estado de choque
+T24	ENFERMEDAD 1804 1830	neumonía intrahospitalaria
+T25	ENFERMEDAD 294 302	disfagia
+T26	PROCEDIMIENTO 1115 1142	análisis para VIH por ELISA
+T27	PROCEDIMIENTO 1173 1185	Western Blot
+T28	PROCEDIMIENTO 1201 1240	broncoscopia con biopsia transbronquial
+T29	PROCEDIMIENTO 1243 1264	lavado broncoalveolar
+T30	PROCEDIMIENTO 1266 1269	LBA
+T31	PROCEDIMIENTO 1275 1298	estudio histopatológico
+T32	PROCEDIMIENTO 1584 1613	ventilación mecánica invasiva
+T33	PROCEDIMIENTO 1632 1655	exámenes de laboratorio
+T34	PROCEDIMIENTO 1988 1995	extubar
+T35	PROCEDIMIENTO 2136 2165	ventilación mecánica invasiva
+T36	PROCEDIMIENTO 2171 2197	Swan-Ganz se mide una POAP
+T37	PROCEDIMIENTO 2212 2232	radiografía de tórax
+T38	PROCEDIMIENTO 2273 2276	LBA
+T39	PROCEDIMIENTO 2273 2302	LBA cuyo estudio de patología
+T40	PROCEDIMIENTO 2379 2385	rt-PCR
+T41	PROCEDIMIENTO 2541 2570	ventilación mecánica invasiva
+T42	PROCEDIMIENTO 2702 2713	carga viral
+T43	PROCEDIMIENTO 320 333	examen físico
+T44	PROCEDIMIENTO 383 404	exploración del tórax
+T45	PROCEDIMIENTO 537 556	gasometría arterial
+T46	PROCEDIMIENTO 747 770	exámenes de laboratorio
+T47	PROCEDIMIENTO 894 905	Rx de tórax

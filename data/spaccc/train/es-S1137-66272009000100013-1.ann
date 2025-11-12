@@ -1,45 +1,45 @@
-T1	ENFERMEDAD 39 48	exfumador
-T2	ENFERMEDAD 1404 1428	vasculopatía del injerto
-T3	ENFERMEDAD 81 122	miocardiopatía dilatada de origen enólico
-T4	ENFERMEDAD 391 411	bloqueo bifascicular
-T5	ENFERMEDAD 416 439	bloqueo de rama derecha
-T6	ENFERMEDAD 442 471	hemibloqueo de rama izquierda
-T7	ENFERMEDAD 545 575	ateromatosis a nivel de cayado
-T8	ENFERMEDAD 692 709	enfisema pulmonar
-T9	ENFERMEDAD 2485 2504	isquemia miocárdica
-T10	ENFERMEDAD 1324 1343	isquemia miocárdica
-T11	ENFERMEDAD 29 37	alérgico
-T12	ENFERMEDAD 356 388	dilatación de aurícula izquierda
-T13	PROCEDIMIENTO 1125 1145	corazón trasplantado
-T14	PROCEDIMIENTO 1214 1254	ecocardiografía de estrés con dobutamina
-T15	PROCEDIMIENTO 1270 1301	test de provocación de isquemia
-T16	PROCEDIMIENTO 1421 1428	injerto
-T17	PROCEDIMIENTO 1444 1473	coronariografía mediante TCDF
-T18	PROCEDIMIENTO 1564 1606	Se administraron 70 ml de contraste yodado
-T19	PROCEDIMIENTO 159 189	trasplante cardíaco ortotópico
-T20	PROCEDIMIENTO 1709 1720	exploración
-T21	PROCEDIMIENTO 1848 1859	exploración
-T22	PROCEDIMIENTO 2133 2176	función ventricular izquierda mediante TCDF
-T23	PROCEDIMIENTO 2232 2247	ecocardiografía
-T24	PROCEDIMIENTO 2441 2466	ecocardiografía de estrés
-T25	PROCEDIMIENTO 2510 2551	coronariografía no invasiva mediante TCDF
-T26	PROCEDIMIENTO 2632 2647	coronariografía
-T27	PROCEDIMIENTO 268 286	electrocardiograma
-T28	PROCEDIMIENTO 479 499	radiografía de tórax
-T29	PROCEDIMIENTO 514 543	suturas de esternotomía media
-T30	PROCEDIMIENTO 771 809	estudio ecocardiográfico transtorácico
-T31	SINTOMA 2388 2427	anomalías de la contractilidad regional
-T32	SINTOMA 1812 1817	apnea
-T33	SINTOMA 1960 2005	arteria coronaria derecha era de calibre fino
-T34	SINTOMA 2559 2599	arterias coronarias epicárdicas normales
-T35	SINTOMA 1897 1925	arterias coronarias normales
-T36	SINTOMA 1214 1265	ecocardiografía de estrés con dobutamina fue normal
-T37	SINTOMA 2441 2479	ecocardiografía de estrés fue negativa
-T38	SINTOMA 1175 1209	elevación de la presión de llenado
-T39	SINTOMA 2252 2302	función cardiaca se encontraba en límites normales
-T40	SINTOMA 830 918	función sistólica global y regional del corazón transplantado se encontraban conservadas
-T41	SINTOMA 714 742	prominencia hiliar bilateral
-T42	SINTOMA 578 627	silueta cardiovascular dentro de límites normales
-T43	SINTOMA 1270 1318	test de provocación de isquemia resultó negativo
-T44	SINTOMA 645 679	tórax discretamente hiperinsuflado
-T45	SINTOMA 294 314	ritmo sinusal normal
+T1	SINTOMA 2388 2427	anomalías de la contractilidad regional
+T2	SINTOMA 1812 1817	apnea
+T3	SINTOMA 1960 2005	arteria coronaria derecha era de calibre fino
+T4	SINTOMA 2559 2599	arterias coronarias epicárdicas normales
+T5	SINTOMA 1897 1925	arterias coronarias normales
+T6	SINTOMA 1214 1265	ecocardiografía de estrés con dobutamina fue normal
+T7	SINTOMA 2441 2479	ecocardiografía de estrés fue negativa
+T8	SINTOMA 1175 1209	elevación de la presión de llenado
+T9	SINTOMA 2252 2302	función cardiaca se encontraba en límites normales
+T10	SINTOMA 830 918	función sistólica global y regional del corazón transplantado se encontraban conservadas
+T11	SINTOMA 714 742	prominencia hiliar bilateral
+T12	SINTOMA 578 627	silueta cardiovascular dentro de límites normales
+T13	SINTOMA 1270 1318	test de provocación de isquemia resultó negativo
+T14	SINTOMA 645 679	tórax discretamente hiperinsuflado
+T15	SINTOMA 294 314	ritmo sinusal normal
+T16	ENFERMEDAD 39 48	exfumador
+T17	ENFERMEDAD 1404 1428	vasculopatía del injerto
+T18	ENFERMEDAD 81 122	miocardiopatía dilatada de origen enólico
+T19	ENFERMEDAD 391 411	bloqueo bifascicular
+T20	ENFERMEDAD 416 439	bloqueo de rama derecha
+T21	ENFERMEDAD 442 471	hemibloqueo de rama izquierda
+T22	ENFERMEDAD 545 575	ateromatosis a nivel de cayado
+T23	ENFERMEDAD 692 709	enfisema pulmonar
+T24	ENFERMEDAD 2485 2504	isquemia miocárdica
+T25	ENFERMEDAD 1324 1343	isquemia miocárdica
+T26	ENFERMEDAD 29 37	alérgico
+T27	ENFERMEDAD 356 388	dilatación de aurícula izquierda
+T28	PROCEDIMIENTO 1125 1145	corazón trasplantado
+T29	PROCEDIMIENTO 1214 1254	ecocardiografía de estrés con dobutamina
+T30	PROCEDIMIENTO 1270 1301	test de provocación de isquemia
+T31	PROCEDIMIENTO 1421 1428	injerto
+T32	PROCEDIMIENTO 1444 1473	coronariografía mediante TCDF
+T33	PROCEDIMIENTO 1564 1606	Se administraron 70 ml de contraste yodado
+T34	PROCEDIMIENTO 159 189	trasplante cardíaco ortotópico
+T35	PROCEDIMIENTO 1709 1720	exploración
+T36	PROCEDIMIENTO 1848 1859	exploración
+T37	PROCEDIMIENTO 2133 2176	función ventricular izquierda mediante TCDF
+T38	PROCEDIMIENTO 2232 2247	ecocardiografía
+T39	PROCEDIMIENTO 2441 2466	ecocardiografía de estrés
+T40	PROCEDIMIENTO 2510 2551	coronariografía no invasiva mediante TCDF
+T41	PROCEDIMIENTO 2632 2647	coronariografía
+T42	PROCEDIMIENTO 268 286	electrocardiograma
+T43	PROCEDIMIENTO 479 499	radiografía de tórax
+T44	PROCEDIMIENTO 514 543	suturas de esternotomía media
+T45	PROCEDIMIENTO 771 809	estudio ecocardiográfico transtorácico

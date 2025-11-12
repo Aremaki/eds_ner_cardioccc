@@ -1,39 +1,39 @@
-T1	ENFERMEDAD 728 799	lesión nodular de carácter sólido de 3,5 cm en el segmento 8 del hígado
-T2	ENFERMEDAD 56 80	tumor de ciego perforado
-T3	ENFERMEDAD 56 111	tumor de ciego perforado que obstruía el íleon terminal
-T4	ENFERMEDAD 162 183	cardiopatía isquémica
-T5	ENFERMEDAD 191 194	IAM
-T6	ENFERMEDAD 935 949	tumor primario
-T7	ENFERMEDAD 1485 1503	lesión metastásica
-T8	ENFERMEDAD 428 447	metástasis hepática
-T9	ENFERMEDAD 538 560	absceso intraabdominal
-T10	ENFERMEDAD 598 612	adenocarcinoma
-T11	ENFERMEDAD 657 677	infiltración tumoral
-T12	ENFERMEDAD 2221 2235	lesión tumoral
-T13	ENFERMEDAD 1000 1019	metástasis hepática
-T14	ENFERMEDAD 1605 1611	lesión
-T15	ENFERMEDAD 1891 1897	lesión
-T16	ENFERMEDAD 1956 1962	lesión
-T17	PROCEDIMIENTO 1100 1117	anestesia general
-T18	PROCEDIMIENTO 1340 1365	ultrasonido laparoscópico
-T19	PROCEDIMIENTO 1432 1457	ecografía intraoperatoria
-T20	PROCEDIMIENTO 1510 1544	control ecográfico y laparoscópico
-T21	PROCEDIMIENTO 1562 1627	inserción del electrodo en el centro de la lesión y a la ablación
-T22	PROCEDIMIENTO 1754 1798	ablación correcta del trayecto intrahepático
-T23	PROCEDIMIENTO 1870 1878	ablación
-T24	PROCEDIMIENTO 1931 1939	ablación
-T25	PROCEDIMIENTO 200 221	bypass aortocoronario
-T26	PROCEDIMIENTO 2086 2088	RF
-T27	PROCEDIMIENTO 2107 2120	TC helicoidal
-T28	PROCEDIMIENTO 275 297	hemicolectomía derecha
-T29	PROCEDIMIENTO 300 327	resección de 15 cm de íleon
-T30	PROCEDIMIENTO 332 395	reconstrucción del tránsito mediante una anastomosis ileocólica
-T31	PROCEDIMIENTO 508 560	intervención a los 4 días por absceso intraabdominal
-T32	PROCEDIMIENTO 565 590	estudio anatomopatológico
-T33	PROCEDIMIENTO 694 697	TAC
-T34	PROCEDIMIENTO 815 843	QM postoperatoria con FOLFOX
-T35	PROCEDIMIENTO 837 843	FOLFOX
-T36	PROCEDIMIENTO 918 940	intervención del tumor
-T37	PROCEDIMIENTO 974 1019	RF por laparoscopia de la metástasis hepática
-T38	SINTOMA 2138 2180	lesión hipodensa con ausencia de captación
-T39	SINTOMA 679 685	T4N0M1
+T1	SINTOMA 2138 2180	lesión hipodensa con ausencia de captación
+T2	SINTOMA 679 685	T4N0M1
+T3	ENFERMEDAD 728 799	lesión nodular de carácter sólido de 3,5 cm en el segmento 8 del hígado
+T4	ENFERMEDAD 56 80	tumor de ciego perforado
+T5	ENFERMEDAD 56 111	tumor de ciego perforado que obstruía el íleon terminal
+T6	ENFERMEDAD 162 183	cardiopatía isquémica
+T7	ENFERMEDAD 191 194	IAM
+T8	ENFERMEDAD 935 949	tumor primario
+T9	ENFERMEDAD 1485 1503	lesión metastásica
+T10	ENFERMEDAD 428 447	metástasis hepática
+T11	ENFERMEDAD 538 560	absceso intraabdominal
+T12	ENFERMEDAD 598 612	adenocarcinoma
+T13	ENFERMEDAD 657 677	infiltración tumoral
+T14	ENFERMEDAD 2221 2235	lesión tumoral
+T15	ENFERMEDAD 1000 1019	metástasis hepática
+T16	ENFERMEDAD 1605 1611	lesión
+T17	ENFERMEDAD 1891 1897	lesión
+T18	ENFERMEDAD 1956 1962	lesión
+T19	PROCEDIMIENTO 1100 1117	anestesia general
+T20	PROCEDIMIENTO 1340 1365	ultrasonido laparoscópico
+T21	PROCEDIMIENTO 1432 1457	ecografía intraoperatoria
+T22	PROCEDIMIENTO 1510 1544	control ecográfico y laparoscópico
+T23	PROCEDIMIENTO 1562 1627	inserción del electrodo en el centro de la lesión y a la ablación
+T24	PROCEDIMIENTO 1754 1798	ablación correcta del trayecto intrahepático
+T25	PROCEDIMIENTO 1870 1878	ablación
+T26	PROCEDIMIENTO 1931 1939	ablación
+T27	PROCEDIMIENTO 200 221	bypass aortocoronario
+T28	PROCEDIMIENTO 2086 2088	RF
+T29	PROCEDIMIENTO 2107 2120	TC helicoidal
+T30	PROCEDIMIENTO 275 297	hemicolectomía derecha
+T31	PROCEDIMIENTO 300 327	resección de 15 cm de íleon
+T32	PROCEDIMIENTO 332 395	reconstrucción del tránsito mediante una anastomosis ileocólica
+T33	PROCEDIMIENTO 508 560	intervención a los 4 días por absceso intraabdominal
+T34	PROCEDIMIENTO 565 590	estudio anatomopatológico
+T35	PROCEDIMIENTO 694 697	TAC
+T36	PROCEDIMIENTO 815 843	QM postoperatoria con FOLFOX
+T37	PROCEDIMIENTO 837 843	FOLFOX
+T38	PROCEDIMIENTO 918 940	intervención del tumor
+T39	PROCEDIMIENTO 974 1019	RF por laparoscopia de la metástasis hepática

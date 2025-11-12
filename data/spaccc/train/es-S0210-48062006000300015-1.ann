@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 70 86	hernias discales
-T2	ENFERMEDAD 101 137	litiasis coraliforme en pelvis renal
-T3	ENFERMEDAD 1093 1127	estenosis ureteral lumbar e ilíaca
-T4	ENFERMEDAD 2131 2149	estenosis ureteral
-T5	ENFERMEDAD 1417 1435	estenosis ureteral
-T6	ENFERMEDAD 173 197	dilatación pielocalicial
-T7	SINTOMA 569 607	anulación funcional de la unidad renal
-T8	SINTOMA 1037 1052	anulación renal
-T9	SINTOMA 2352 2364	asintomático
-T10	SINTOMA 770 806	escasa captación isotópica del riñón
-T11	SINTOMA 2087 2117	escasa funcionalidad del riñón
-T12	SINTOMA 200 235	retraso de la eliminación en la UIV
+T1	SINTOMA 569 607	anulación funcional de la unidad renal
+T2	SINTOMA 1037 1052	anulación renal
+T3	SINTOMA 2352 2364	asintomático
+T4	SINTOMA 770 806	escasa captación isotópica del riñón
+T5	SINTOMA 2087 2117	escasa funcionalidad del riñón
+T6	SINTOMA 200 235	retraso de la eliminación en la UIV
+T7	ENFERMEDAD 70 86	hernias discales
+T8	ENFERMEDAD 101 137	litiasis coraliforme en pelvis renal
+T9	ENFERMEDAD 1093 1127	estenosis ureteral lumbar e ilíaca
+T10	ENFERMEDAD 2131 2149	estenosis ureteral
+T11	ENFERMEDAD 1417 1435	estenosis ureteral
+T12	ENFERMEDAD 173 197	dilatación pielocalicial

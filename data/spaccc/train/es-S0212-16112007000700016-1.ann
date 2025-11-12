@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 102 216	desgarro de hilio esplénico, mesenterio de la raíz del yeyuno y arteria mesentérica superior (AMS) por traumatismo
-T2	PROCEDIMIENTO 1167 1187	Nutrición Parenteral
-T3	PROCEDIMIENTO 1192 1195	NPT
-T4	PROCEDIMIENTO 1308 1317	vitaminas
-T5	PROCEDIMIENTO 1319 1326	Addamel
-T6	PROCEDIMIENTO 1362 1376	oligoelementos
-T7	PROCEDIMIENTO 1378 1386	Cernevit
-T8	PROCEDIMIENTO 1393 1415	Nutrición Enteral oral
-T9	PROCEDIMIENTO 1480 1508	Elemental 0,28 Extra Líquido
-T10	PROCEDIMIENTO 1546 1562	Hidratación oral
-T11	PROCEDIMIENTO 1610 1627	limonada alcalina
-T12	PROCEDIMIENTO 1822 1864	dieta con Hidratos de Carbono (HC) simples
-T13	PROCEDIMIENTO 1968 1987	alimentos proteicos
-T14	PROCEDIMIENTO 229 278	resección de colon derecho, íleon y 2/3 de yeyuno
-T15	PROCEDIMIENTO 2506 2526	enzimas pancreáticas
-T16	PROCEDIMIENTO 2829 2853	anastomosis yeyunocólica
-T17	PROCEDIMIENTO 283 295	yeyunostomía
-T18	PROCEDIMIENTO 298 311	esplenectomía
-T19	PROCEDIMIENTO 3034 3047	fluidoterapia
-T20	PROCEDIMIENTO 3140 3161	trasplante intestinal
-T21	PROCEDIMIENTO 3231 3248	nutrición enteral
-T22	PROCEDIMIENTO 3282 3292	trasplante
-T23	PROCEDIMIENTO 3337 3350	fluidoterapia
-T24	PROCEDIMIENTO 349 352	NPT
-T25	PROCEDIMIENTO 3605 3618	fluidoterapia
-T26	PROCEDIMIENTO 364 390	tolerancia oral progresiva
-T27	PROCEDIMIENTO 3937 3965	Elemental 0,28 Extra Líquido
-T28	PROCEDIMIENTO 3998 4010	Kreón 10.000
-T29	PROCEDIMIENTO 4059 4067	Supradyn
-T30	PROCEDIMIENTO 438 469	limonada alcalina (fórmula OMS)
-T31	PROCEDIMIENTO 4440 4452	intervención
-T32	PROCEDIMIENTO 508 549	tomas orales de fórmula enteral elemental
-T33	PROCEDIMIENTO 714 771	se anastomosan los 12 cm de yeyuno con el colon izquierdo
-T34	PROCEDIMIENTO 786 801	colecistectomía
-T35	SINTOMA 3300 3323	buen estado nutricional
-T36	SINTOMA 990 997	diarrea
-T37	SINTOMA 2585 2605	distensión abdominal
-T38	SINTOMA 2799 2808	aerocolia
-T39	SINTOMA 4187 4232	depleción de la vitaminas D, B12 y ac. Fólico
-T40	SINTOMA 2906 2950	deposiciones de consistencia líquido-pastosa
-T41	SINTOMA 3403 3453	deposiciones de consistencia pastosa o conformadas
-T42	SINTOMA 825 845	diarreas coleréticas
-T43	SINTOMA 3363 3371	diuresis
-T44	SINTOMA 3104 3112	diuresis
-T45	SINTOMA 940 970	diuresis superior al litro/día
-T46	SINTOMA 2866 2889	estabilidad nutricional
-T47	SINTOMA 908 934	estado nutricional estable
-T48	SINTOMA 4496 4559	estado nutricional estable y progresivo dentro de la normalidad
-T49	SINTOMA 1708 1740	fácil digestibilidad y absorción
-T50	SINTOMA 3533 3544	hipolipemia
+T1	SINTOMA 3300 3323	buen estado nutricional
+T2	SINTOMA 990 997	diarrea
+T3	SINTOMA 2585 2605	distensión abdominal
+T4	SINTOMA 2799 2808	aerocolia
+T5	SINTOMA 4187 4232	depleción de la vitaminas D, B12 y ac. Fólico
+T6	SINTOMA 2906 2950	deposiciones de consistencia líquido-pastosa
+T7	SINTOMA 3403 3453	deposiciones de consistencia pastosa o conformadas
+T8	SINTOMA 825 845	diarreas coleréticas
+T9	SINTOMA 3363 3371	diuresis
+T10	SINTOMA 3104 3112	diuresis
+T11	SINTOMA 940 970	diuresis superior al litro/día
+T12	SINTOMA 2866 2889	estabilidad nutricional
+T13	SINTOMA 908 934	estado nutricional estable
+T14	SINTOMA 4496 4559	estado nutricional estable y progresivo dentro de la normalidad
+T15	SINTOMA 1708 1740	fácil digestibilidad y absorción
+T16	SINTOMA 3533 3544	hipolipemia
+T17	ENFERMEDAD 102 216	desgarro de hilio esplénico, mesenterio de la raíz del yeyuno y arteria mesentérica superior (AMS) por traumatismo
+T18	PROCEDIMIENTO 1167 1187	Nutrición Parenteral
+T19	PROCEDIMIENTO 1192 1195	NPT
+T20	PROCEDIMIENTO 1308 1317	vitaminas
+T21	PROCEDIMIENTO 1319 1326	Addamel
+T22	PROCEDIMIENTO 1362 1376	oligoelementos
+T23	PROCEDIMIENTO 1378 1386	Cernevit
+T24	PROCEDIMIENTO 1393 1415	Nutrición Enteral oral
+T25	PROCEDIMIENTO 1480 1508	Elemental 0,28 Extra Líquido
+T26	PROCEDIMIENTO 1546 1562	Hidratación oral
+T27	PROCEDIMIENTO 1610 1627	limonada alcalina
+T28	PROCEDIMIENTO 1822 1864	dieta con Hidratos de Carbono (HC) simples
+T29	PROCEDIMIENTO 1968 1987	alimentos proteicos
+T30	PROCEDIMIENTO 229 278	resección de colon derecho, íleon y 2/3 de yeyuno
+T31	PROCEDIMIENTO 2506 2526	enzimas pancreáticas
+T32	PROCEDIMIENTO 2829 2853	anastomosis yeyunocólica
+T33	PROCEDIMIENTO 283 295	yeyunostomía
+T34	PROCEDIMIENTO 298 311	esplenectomía
+T35	PROCEDIMIENTO 3034 3047	fluidoterapia
+T36	PROCEDIMIENTO 3140 3161	trasplante intestinal
+T37	PROCEDIMIENTO 3231 3248	nutrición enteral
+T38	PROCEDIMIENTO 3282 3292	trasplante
+T39	PROCEDIMIENTO 3337 3350	fluidoterapia
+T40	PROCEDIMIENTO 349 352	NPT
+T41	PROCEDIMIENTO 3605 3618	fluidoterapia
+T42	PROCEDIMIENTO 364 390	tolerancia oral progresiva
+T43	PROCEDIMIENTO 3937 3965	Elemental 0,28 Extra Líquido
+T44	PROCEDIMIENTO 3998 4010	Kreón 10.000
+T45	PROCEDIMIENTO 4059 4067	Supradyn
+T46	PROCEDIMIENTO 438 469	limonada alcalina (fórmula OMS)
+T47	PROCEDIMIENTO 4440 4452	intervención
+T48	PROCEDIMIENTO 508 549	tomas orales de fórmula enteral elemental
+T49	PROCEDIMIENTO 714 771	se anastomosan los 12 cm de yeyuno con el colon izquierdo
+T50	PROCEDIMIENTO 786 801	colecistectomía

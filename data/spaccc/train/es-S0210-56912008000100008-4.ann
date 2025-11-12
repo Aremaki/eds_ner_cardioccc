@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 218 237	IAM inferoposterior
-T2	ENFERMEDAD 335 349	BRD incompleto
-T3	ENFERMEDAD 590 603	IAM posterior
-T4	ENFERMEDAD 918 921	SRP
-T5	ENFERMEDAD 1107 1237	estenosis del 90% en el tercio medio de la arteria coronaria derecha, y de un 60% en la porción proximal de la arteria circunfleja
-T6	SINTOMA 1025 1054	acinesia inferobasal y apical
-T7	SINTOMA 1331 1343	asintomático
-T8	SINTOMA 163 199	D-ST marcada en derivaciones V1 a V5
-T9	SINTOMA 414 442	desviaciones del segmento ST
-T10	SINTOMA 48 64	dolor precordial
-T11	SINTOMA 856 868	E-ST cóncava
-T12	SINTOMA 750 806	E-ST cóncava con onda T positiva en derivaciones V1 a V4
-T13	SINTOMA 119 132	E-ST inferior
-T14	SINTOMA 674 722	inversión de la onda T en derivaciones III y aVF
-T15	SINTOMA 844 850	onda J
-T16	SINTOMA 355 399	onda J (R') manifiesta en derivaciones V1-V2
-T17	SINTOMA 728 743	onda J en V1-V2
-T18	SINTOMA 134 160	onda J prominente en V1-V2
-T19	SINTOMA 875 901	onda T positiva de V2 a V5
-T20	SINTOMA 457 514	ondas R altas afectando la parte inicial del complejo QRS
-T21	SINTOMA 517 557	ondas T acuminadas en derivaciones V2-V3
+T1	SINTOMA 1025 1054	acinesia inferobasal y apical
+T2	SINTOMA 1331 1343	asintomático
+T3	SINTOMA 163 199	D-ST marcada en derivaciones V1 a V5
+T4	SINTOMA 414 442	desviaciones del segmento ST
+T5	SINTOMA 48 64	dolor precordial
+T6	SINTOMA 856 868	E-ST cóncava
+T7	SINTOMA 750 806	E-ST cóncava con onda T positiva en derivaciones V1 a V4
+T8	SINTOMA 119 132	E-ST inferior
+T9	SINTOMA 674 722	inversión de la onda T en derivaciones III y aVF
+T10	SINTOMA 844 850	onda J
+T11	SINTOMA 355 399	onda J (R') manifiesta en derivaciones V1-V2
+T12	SINTOMA 728 743	onda J en V1-V2
+T13	SINTOMA 134 160	onda J prominente en V1-V2
+T14	SINTOMA 875 901	onda T positiva de V2 a V5
+T15	SINTOMA 457 514	ondas R altas afectando la parte inicial del complejo QRS
+T16	SINTOMA 517 557	ondas T acuminadas en derivaciones V2-V3
+T17	ENFERMEDAD 218 237	IAM inferoposterior
+T18	ENFERMEDAD 335 349	BRD incompleto
+T19	ENFERMEDAD 590 603	IAM posterior
+T20	ENFERMEDAD 918 921	SRP
+T21	ENFERMEDAD 1107 1237	estenosis del 90% en el tercio medio de la arteria coronaria derecha, y de un 60% en la porción proximal de la arteria circunfleja

@@ -1,7 +1,7 @@
-T1	ENFERMEDAD 258 284	focos cariosos intraorales
-T2	ENFERMEDAD 963 966	HPC
-T3	SINTOMA 200 227	dificultad para alimentarse
-T4	SINTOMA 1372 1403	disminución de la abertura oral
-T5	SINTOMA 63 93	limitación de la abertura oral
-T6	SINTOMA 364 386	reducida abertura oral
-T7	SINTOMA 172 184	asintomático
+T1	SINTOMA 200 227	dificultad para alimentarse
+T2	SINTOMA 1372 1403	disminución de la abertura oral
+T3	SINTOMA 63 93	limitación de la abertura oral
+T4	SINTOMA 364 386	reducida abertura oral
+T5	SINTOMA 172 184	asintomático
+T6	ENFERMEDAD 258 284	focos cariosos intraorales
+T7	ENFERMEDAD 963 966	HPC

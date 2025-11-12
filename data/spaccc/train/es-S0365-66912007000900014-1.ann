@@ -1,24 +1,24 @@
-T1	ENFERMEDAD 2144 2191	infección reciente por el virus varicela zoster
-T2	ENFERMEDAD 51 59	varicela
-T3	ENFERMEDAD 635 643	vitritis
-T4	ENFERMEDAD 1334 1343	retinitis
-T5	ENFERMEDAD 662 671	retinitis
-T6	ENFERMEDAD 2001 2041	cicatrización de las lesiones retinianas
-T7	ENFERMEDAD 871 945	retinitis necrotizante en el área temporal asociado a vasculitis retiniana
-T8	ENFERMEDAD 1479 1487	vitritis
-T9	ENFERMEDAD 925 945	vasculitis retiniana
-T10	ENFERMEDAD 1515 1524	retinitis
-T11	ENFERMEDAD 1225 1243	necrosis retiniana
-T12	SINTOMA 1870 1886	afectación renal
-T13	SINTOMA 1947 1959	asintomático
-T14	SINTOMA 143 172	disminución de agudeza visual
-T15	SINTOMA 2065 2108	actividad inflamatoria ocular en ambos ojos
-T16	SINTOMA 1969 1999	agudeza visual de unidad en OI
-T17	SINTOMA 467 498	cornea tinción con fluoresceína
-T18	SINTOMA 764 819	disminución del tyndall celular (3+) en cámara anterior
-T19	SINTOMA 630 643	leve vitritis
-T20	SINTOMA 507 519	normal el OD
-T21	SINTOMA 379 400	OI un tyndall celular
-T22	SINTOMA 408 442	precipitados queráticos inferiores
-T23	SINTOMA 2170 2215	virus varicela zoster mediante seroconversión
-T24	SINTOMA 1479 1487	vitritis
+T1	SINTOMA 1870 1886	afectación renal
+T2	SINTOMA 1947 1959	asintomático
+T3	SINTOMA 143 172	disminución de agudeza visual
+T4	SINTOMA 2065 2108	actividad inflamatoria ocular en ambos ojos
+T5	SINTOMA 1969 1999	agudeza visual de unidad en OI
+T6	SINTOMA 467 498	cornea tinción con fluoresceína
+T7	SINTOMA 764 819	disminución del tyndall celular (3+) en cámara anterior
+T8	SINTOMA 630 643	leve vitritis
+T9	SINTOMA 507 519	normal el OD
+T10	SINTOMA 379 400	OI un tyndall celular
+T11	SINTOMA 408 442	precipitados queráticos inferiores
+T12	SINTOMA 2170 2215	virus varicela zoster mediante seroconversión
+T13	SINTOMA 1479 1487	vitritis
+T14	ENFERMEDAD 2144 2191	infección reciente por el virus varicela zoster
+T15	ENFERMEDAD 51 59	varicela
+T16	ENFERMEDAD 635 643	vitritis
+T17	ENFERMEDAD 1334 1343	retinitis
+T18	ENFERMEDAD 662 671	retinitis
+T19	ENFERMEDAD 2001 2041	cicatrización de las lesiones retinianas
+T20	ENFERMEDAD 871 945	retinitis necrotizante en el área temporal asociado a vasculitis retiniana
+T21	ENFERMEDAD 1479 1487	vitritis
+T22	ENFERMEDAD 925 945	vasculitis retiniana
+T23	ENFERMEDAD 1515 1524	retinitis
+T24	ENFERMEDAD 1225 1243	necrosis retiniana

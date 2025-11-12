@@ -1,44 +1,44 @@
-T1	ENFERMEDAD 221 224	DMD
-T2	ENFERMEDAD 2716 2738	bloqueo motor completo
-T3	ENFERMEDAD 820 849	transtorno restrictivo severo
-T4	ENFERMEDAD 127 145	"flexo" de rodilla
-T5	PROCEDIMIENTO 1062 1082	inducción anestésica
-T6	PROCEDIMIENTO 1099 1133	canalización de una vía periférica
-T7	PROCEDIMIENTO 1208 1231	intubación endotraqueal
-T8	PROCEDIMIENTO 1208 1309	intubación endotraqueal se realizó con un tubo flexometálico de calibre 6.5 Fr. con neumotaponamiento
-T9	PROCEDIMIENTO 1292 1309	neumotaponamiento
-T10	PROCEDIMIENTO 1315 1336	bloqueo neuromuscular
-T11	PROCEDIMIENTO 1369 1393	mantenimiento anestésico
-T12	PROCEDIMIENTO 1567 1602	ventilado mecánicamente con O2-aire
-T13	PROCEDIMIENTO 1650 1698	colocarle en decúbito prono para ser intervenido
-T14	PROCEDIMIENTO 1715 1773	anestesia epidural a nivel de L4-L5 con una aguja de Tuohy
-T15	PROCEDIMIENTO 1809 1865	se colocó un catéter (20G) para analgesia postquirúrgica
-T16	PROCEDIMIENTO 1914 1929	vasoconstrictor
-T17	PROCEDIMIENTO 1983 1995	intervención
-T18	PROCEDIMIENTO 2047 2055	extubado
-T19	PROCEDIMIENTO 2071 2078	cirugía
-T20	PROCEDIMIENTO 2137 2167	bloqueo muscular con mivacurio
-T21	PROCEDIMIENTO 2169 2202	monitorizada con neuroestimulador
-T22	PROCEDIMIENTO 2241 2271	reversión del bloqueo muscular
-T23	PROCEDIMIENTO 2399 2408	analgesia
-T24	PROCEDIMIENTO 2491 2531	fentanilo por el catéter epidural lumbar
-T25	PROCEDIMIENTO 255 271	estudio genético
-T26	PROCEDIMIENTO 2550 2559	analgesia
-T27	PROCEDIMIENTO 2649 2656	cirugía
-T28	PROCEDIMIENTO 2848 2864	anestésico local
-T29	PROCEDIMIENTO 2866 2868	AL
-T30	PROCEDIMIENTO 2927 2945	analgesia epidural
-T31	PROCEDIMIENTO 2997 2999	AL
-T32	PROCEDIMIENTO 3004 3030	catéter epidural se retiró
-T33	PROCEDIMIENTO 511 520	hemograma
-T34	PROCEDIMIENTO 526 537	coagulación
-T35	PROCEDIMIENTO 584 604	radiografía de tórax
-T36	PROCEDIMIENTO 679 709	estudio funcional respiratorio
-T37	PROCEDIMIENTO 77 107	tenotomía de rodilla bilateral
-T38	PROCEDIMIENTO 857 875	electrocardiograma
-T39	PROCEDIMIENTO 877 880	ECG
-T40	SINTOMA 396 422	elevación de transaminasas
-T41	SINTOMA 963 996	alteraciones en la repolarización
-T42	SINTOMA 617 657	aumento de trama broncovascular en bases
-T43	SINTOMA 511 576	hemograma y la coagulación se encontraban dentro de la normalidad
-T44	SINTOMA 896 957	ondas Q profundas en las derivaciones precordiales izquierdas
+T1	SINTOMA 396 422	elevación de transaminasas
+T2	SINTOMA 963 996	alteraciones en la repolarización
+T3	SINTOMA 617 657	aumento de trama broncovascular en bases
+T4	SINTOMA 511 576	hemograma y la coagulación se encontraban dentro de la normalidad
+T5	SINTOMA 896 957	ondas Q profundas en las derivaciones precordiales izquierdas
+T6	ENFERMEDAD 221 224	DMD
+T7	ENFERMEDAD 2716 2738	bloqueo motor completo
+T8	ENFERMEDAD 820 849	transtorno restrictivo severo
+T9	ENFERMEDAD 127 145	"flexo" de rodilla
+T10	PROCEDIMIENTO 1062 1082	inducción anestésica
+T11	PROCEDIMIENTO 1099 1133	canalización de una vía periférica
+T12	PROCEDIMIENTO 1208 1231	intubación endotraqueal
+T13	PROCEDIMIENTO 1208 1309	intubación endotraqueal se realizó con un tubo flexometálico de calibre 6.5 Fr. con neumotaponamiento
+T14	PROCEDIMIENTO 1292 1309	neumotaponamiento
+T15	PROCEDIMIENTO 1315 1336	bloqueo neuromuscular
+T16	PROCEDIMIENTO 1369 1393	mantenimiento anestésico
+T17	PROCEDIMIENTO 1567 1602	ventilado mecánicamente con O2-aire
+T18	PROCEDIMIENTO 1650 1698	colocarle en decúbito prono para ser intervenido
+T19	PROCEDIMIENTO 1715 1773	anestesia epidural a nivel de L4-L5 con una aguja de Tuohy
+T20	PROCEDIMIENTO 1809 1865	se colocó un catéter (20G) para analgesia postquirúrgica
+T21	PROCEDIMIENTO 1914 1929	vasoconstrictor
+T22	PROCEDIMIENTO 1983 1995	intervención
+T23	PROCEDIMIENTO 2047 2055	extubado
+T24	PROCEDIMIENTO 2071 2078	cirugía
+T25	PROCEDIMIENTO 2137 2167	bloqueo muscular con mivacurio
+T26	PROCEDIMIENTO 2169 2202	monitorizada con neuroestimulador
+T27	PROCEDIMIENTO 2241 2271	reversión del bloqueo muscular
+T28	PROCEDIMIENTO 2399 2408	analgesia
+T29	PROCEDIMIENTO 2491 2531	fentanilo por el catéter epidural lumbar
+T30	PROCEDIMIENTO 255 271	estudio genético
+T31	PROCEDIMIENTO 2550 2559	analgesia
+T32	PROCEDIMIENTO 2649 2656	cirugía
+T33	PROCEDIMIENTO 2848 2864	anestésico local
+T34	PROCEDIMIENTO 2866 2868	AL
+T35	PROCEDIMIENTO 2927 2945	analgesia epidural
+T36	PROCEDIMIENTO 2997 2999	AL
+T37	PROCEDIMIENTO 3004 3030	catéter epidural se retiró
+T38	PROCEDIMIENTO 511 520	hemograma
+T39	PROCEDIMIENTO 526 537	coagulación
+T40	PROCEDIMIENTO 584 604	radiografía de tórax
+T41	PROCEDIMIENTO 679 709	estudio funcional respiratorio
+T42	PROCEDIMIENTO 77 107	tenotomía de rodilla bilateral
+T43	PROCEDIMIENTO 857 875	electrocardiograma
+T44	PROCEDIMIENTO 877 880	ECG

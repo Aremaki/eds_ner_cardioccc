@@ -1,61 +1,61 @@
-T1	ENFERMEDAD 3692 3746	nervio sural izquierdo, que mostró degeneración axonal
-T2	ENFERMEDAD 3801 3823	infarto por vasculitis
-T3	ENFERMEDAD 742 759	lesiones cutáneas
-T4	ENFERMEDAD 763 774	adenopatías
-T5	ENFERMEDAD 1643 1658	hepatitis B y C
-T6	ENFERMEDAD 1608 1612	lúes
-T7	PROCEDIMIENTO 1098 1107	hemograma
-T8	PROCEDIMIENTO 1109 1147	bioquímica elemental de sangre y orina
-T9	PROCEDIMIENTO 1149 1183	estudio de liquido cefalorraquídeo
-T10	PROCEDIMIENTO 1191 1213	estudio de coagulación
-T11	PROCEDIMIENTO 1338 1351	proteinograma
-T12	PROCEDIMIENTO 1353 1369	inmunoglobulinas
-T13	PROCEDIMIENTO 1371 1405	fracciones C3 y C4 del complemento
-T14	PROCEDIMIENTO 1596 1605	serología
-T15	PROCEDIMIENTO 1660 1667	Mantoux
-T16	PROCEDIMIENTO 1669 1687	electrocardiograma
-T17	PROCEDIMIENTO 1689 1692	ECG
-T18	PROCEDIMIENTO 1695 1715	radiografía de tórax
-T19	PROCEDIMIENTO 1717 1773	resonancia magnetica (RM) cerebral, torácica y abdominal
-T20	PROCEDIMIENTO 1739 1741	RM
-T21	PROCEDIMIENTO 1893 1919	estudios neurofisiológicos
-T22	PROCEDIMIENTO 2226 2263	electromiograma (EMG) del ACP derecho
-T23	PROCEDIMIENTO 2243 2246	EMG
-T24	PROCEDIMIENTO 3218 3221	EMG
-T25	PROCEDIMIENTO 3680 3714	biopsia del nervio sural izquierdo
-T26	PROCEDIMIENTO 4283 4307	estudio neurofisiológico
-T27	PROCEDIMIENTO 4485 4488	EMG
-T28	SINTOMA 3234 3363	actividad espontánea en forma de fibrilaciones y ondas positivas, abundantes en el ACP derecho y escasas en TA y pedio izquierdos
-T29	SINTOMA 825 850	alteraciones neurológicas
-T30	SINTOMA 3039 3094	amplitud de los PMs del mediano derecho estaba reducida
-T31	SINTOMA 2024 2064	ausencia de potencial motor (PM) del CPE
-T32	SINTOMA 2789 2897	ausencia de respuestas sensitivas en los nervios surales y en el mediano derecho al estímular en tercer dedo
-T33	SINTOMA 3524 3612	bloqueos proximales de la conducción motora en el mediano izquierdo y en ambos cubitales
-T34	SINTOMA 2576 2628	cambios en la conducción sensitiva de varios nervios
-T35	SINTOMA 126 163	debilidad para el movimiento de pinza
-T36	SINTOMA 4180 4213	déficit sensitivomotor en la mano
-T37	SINTOMA 2900 2972	disminución de la amplitud de los obtenidos desde primer y segundo dedos
-T38	SINTOMA 4117 4158	fuerza proximal en la extremidad superior
-T39	SINTOMA 593 686	hipoestesia táctil y dolorosa en primer y segundo dedos de la mano derecha y en dorso del pie
-T40	SINTOMA 4499 4558	moderada actividad espontánea en ACP derecho y TA izquierdo
-T41	SINTOMA 371 378	paresia
-T42	SINTOMA 867 921	paresia grado 3 MRC de deltoides y de tríceps braquial
-T43	SINTOMA 4224 4261	paresia marcada en territorio del CPE
-T44	SINTOMA 193 285	paresia para la dorsiflexión del pie izquierdo y parestesias dolorosas en el dorso del mismo
-T45	SINTOMA 3935 3956	parestesias dolorosas
-T46	SINTOMA 934 1002	parestesias en cara externa del brazo izquierdo y ambas pantorrillas
-T47	SINTOMA 51 88	parestesias en dedo pulgar de la mano
-T48	SINTOMA 2276 2308	patrón de máximo esfuerzo simple
-T49	SINTOMA 4564 4617	patrones de máximo esfuerzo marcadamente deficitarios
-T50	SINTOMA 2321 2384	potenciales de unidad motora (PUMs) de características normales
-T51	SINTOMA 4620 4710	PUMs con signos de reinervación activa, irregulares (polifásicos y politurns) e inestables
-T52	SINTOMA 4398 4469	reaparición del potencial sensitivo de baja amplitud en el nervio sural
-T53	SINTOMA 2081 2170	reducción de la amplitud del PM del mediano derecho con estímulos en muñeca, codo y axila
-T54	SINTOMA 2697 2787	reducción de la amplitud del potencial sensitivo del nervio peroneal superficial izquierdo
-T55	SINTOMA 3397 3504	reflejo H y las ondas F de cubitales, tibiales posteriores, mediano izquierdo y CPE derecho fueron normales
-T56	SINTOMA 3004 3034	se obtuvo PM del CPE izquierdo
-T57	SINTOMA 2419 2499	tibial anterior (TA) izquierdo no se registro actividad espontánea ni voluntaria
-T58	SINTOMA 3907 3925	debilidad muscular
-T59	SINTOMA 4069 4111	parestesias en las extremidades inferiores
-T60	SINTOMA 734 740	fiebre
-T61	SINTOMA 710 729	buen estado general
+T1	SINTOMA 3234 3363	actividad espontánea en forma de fibrilaciones y ondas positivas, abundantes en el ACP derecho y escasas en TA y pedio izquierdos
+T2	SINTOMA 825 850	alteraciones neurológicas
+T3	SINTOMA 3039 3094	amplitud de los PMs del mediano derecho estaba reducida
+T4	SINTOMA 2024 2064	ausencia de potencial motor (PM) del CPE
+T5	SINTOMA 2789 2897	ausencia de respuestas sensitivas en los nervios surales y en el mediano derecho al estímular en tercer dedo
+T6	SINTOMA 3524 3612	bloqueos proximales de la conducción motora en el mediano izquierdo y en ambos cubitales
+T7	SINTOMA 2576 2628	cambios en la conducción sensitiva de varios nervios
+T8	SINTOMA 126 163	debilidad para el movimiento de pinza
+T9	SINTOMA 4180 4213	déficit sensitivomotor en la mano
+T10	SINTOMA 2900 2972	disminución de la amplitud de los obtenidos desde primer y segundo dedos
+T11	SINTOMA 4117 4158	fuerza proximal en la extremidad superior
+T12	SINTOMA 593 686	hipoestesia táctil y dolorosa en primer y segundo dedos de la mano derecha y en dorso del pie
+T13	SINTOMA 4499 4558	moderada actividad espontánea en ACP derecho y TA izquierdo
+T14	SINTOMA 371 378	paresia
+T15	SINTOMA 867 921	paresia grado 3 MRC de deltoides y de tríceps braquial
+T16	SINTOMA 4224 4261	paresia marcada en territorio del CPE
+T17	SINTOMA 193 285	paresia para la dorsiflexión del pie izquierdo y parestesias dolorosas en el dorso del mismo
+T18	SINTOMA 3935 3956	parestesias dolorosas
+T19	SINTOMA 934 1002	parestesias en cara externa del brazo izquierdo y ambas pantorrillas
+T20	SINTOMA 51 88	parestesias en dedo pulgar de la mano
+T21	SINTOMA 2276 2308	patrón de máximo esfuerzo simple
+T22	SINTOMA 4564 4617	patrones de máximo esfuerzo marcadamente deficitarios
+T23	SINTOMA 2321 2384	potenciales de unidad motora (PUMs) de características normales
+T24	SINTOMA 4620 4710	PUMs con signos de reinervación activa, irregulares (polifásicos y politurns) e inestables
+T25	SINTOMA 4398 4469	reaparición del potencial sensitivo de baja amplitud en el nervio sural
+T26	SINTOMA 2081 2170	reducción de la amplitud del PM del mediano derecho con estímulos en muñeca, codo y axila
+T27	SINTOMA 2697 2787	reducción de la amplitud del potencial sensitivo del nervio peroneal superficial izquierdo
+T28	SINTOMA 3397 3504	reflejo H y las ondas F de cubitales, tibiales posteriores, mediano izquierdo y CPE derecho fueron normales
+T29	SINTOMA 3004 3034	se obtuvo PM del CPE izquierdo
+T30	SINTOMA 2419 2499	tibial anterior (TA) izquierdo no se registro actividad espontánea ni voluntaria
+T31	SINTOMA 3907 3925	debilidad muscular
+T32	SINTOMA 4069 4111	parestesias en las extremidades inferiores
+T33	SINTOMA 734 740	fiebre
+T34	SINTOMA 710 729	buen estado general
+T35	ENFERMEDAD 3692 3746	nervio sural izquierdo, que mostró degeneración axonal
+T36	ENFERMEDAD 3801 3823	infarto por vasculitis
+T37	ENFERMEDAD 742 759	lesiones cutáneas
+T38	ENFERMEDAD 763 774	adenopatías
+T39	ENFERMEDAD 1643 1658	hepatitis B y C
+T40	ENFERMEDAD 1608 1612	lúes
+T41	PROCEDIMIENTO 1098 1107	hemograma
+T42	PROCEDIMIENTO 1109 1147	bioquímica elemental de sangre y orina
+T43	PROCEDIMIENTO 1149 1183	estudio de liquido cefalorraquídeo
+T44	PROCEDIMIENTO 1191 1213	estudio de coagulación
+T45	PROCEDIMIENTO 1338 1351	proteinograma
+T46	PROCEDIMIENTO 1353 1369	inmunoglobulinas
+T47	PROCEDIMIENTO 1371 1405	fracciones C3 y C4 del complemento
+T48	PROCEDIMIENTO 1596 1605	serología
+T49	PROCEDIMIENTO 1660 1667	Mantoux
+T50	PROCEDIMIENTO 1669 1687	electrocardiograma
+T51	PROCEDIMIENTO 1689 1692	ECG
+T52	PROCEDIMIENTO 1695 1715	radiografía de tórax
+T53	PROCEDIMIENTO 1717 1773	resonancia magnetica (RM) cerebral, torácica y abdominal
+T54	PROCEDIMIENTO 1739 1741	RM
+T55	PROCEDIMIENTO 1893 1919	estudios neurofisiológicos
+T56	PROCEDIMIENTO 2226 2263	electromiograma (EMG) del ACP derecho
+T57	PROCEDIMIENTO 2243 2246	EMG
+T58	PROCEDIMIENTO 3218 3221	EMG
+T59	PROCEDIMIENTO 3680 3714	biopsia del nervio sural izquierdo
+T60	PROCEDIMIENTO 4283 4307	estudio neurofisiológico
+T61	PROCEDIMIENTO 4485 4488	EMG

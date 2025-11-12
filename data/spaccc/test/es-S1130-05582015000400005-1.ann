@@ -1,46 +1,46 @@
-T1	ENFERMEDAD 1290 1314	sangrado transoperatorio
-T2	ENFERMEDAD 783 794	macroglosia
-T3	ENFERMEDAD 3099 3128	pérdida sensitiva o gustativa
-T4	ENFERMEDAD 1439 1474	hipertrofía de los cornetes nasales
-T5	ENFERMEDAD 199 217	hipoplasia maxilar
-T6	ENFERMEDAD 219 241	apiñamientos dentarios
-T7	ENFERMEDAD 301 313	úvula bífida
-T8	ENFERMEDAD 320 331	macroglosia
-T9	ENFERMEDAD 581 610	síndrome de Beckwith-Wiedmann
-T10	ENFERMEDAD 2164 2204	lesiones en las ramas del nervio lingual
-T11	ENFERMEDAD 2299 2315	hematoma lingual
-T12	ENFERMEDAD 2321 2344	sangrado postoperatorio
-T13	ENFERMEDAD 2714 2765	complicación de naturaleza hemorrágica o infecciosa
-T14	ENFERMEDAD 275 299	mordida abierta anterior
-T15	ENFERMEDAD 444 473	defecto en la pared abdominal
-T16	ENFERMEDAD 690 722	problemas de deglución, fonación
-T17	ENFERMEDAD 725 751	dificultades respiratorias
-T18	PROCEDIMIENTO 1034 1089	resección del segmento central y del ápice de la lengua
-T19	PROCEDIMIENTO 1368 1385	anestesia general
-T20	PROCEDIMIENTO 1390 1412	intubación orotraqueal
-T21	PROCEDIMIENTO 1490 1521	pasaje de la sonda nasotraqueal
-T22	PROCEDIMIENTO 1523 1678	Para la realización de las incisiones, fueron establecidos puntos de reparo con hilo de algodón 2.0 en las extremidades laterales y anteriores de la lengua
-T23	PROCEDIMIENTO 1699 1774	pinza de aprehensión de tejido del tipo Allis para auxiliar en la disección
-T24	PROCEDIMIENTO 1827 1874	demarcación de la incisión con azul de metileno
-T25	PROCEDIMIENTO 1881 1915	infiltraciones de anestésico local
-T26	PROCEDIMIENTO 1960 2039	remoción del segmento demarcado se ejecutó con un disector quirúrgico eléctrico
-T27	PROCEDIMIENTO 2209 2230	segmento fue removido
-T28	PROCEDIMIENTO 2248 2258	hemostasia
-T29	PROCEDIMIENTO 2358 2377	control de sangrado
-T30	PROCEDIMIENTO 2383 2433	segmentos fueron aproximados con hilo reabsorbible
-T31	PROCEDIMIENTO 2823 2850	tratamiento fonoaudiológico
-T32	PROCEDIMIENTO 3161 3201	tratamiento fonoaudilógico y ortodóncico
-T33	PROCEDIMIENTO 3234 3313	procedimiento quirúrgico para la corrección de la discrepancia maxilomandibular
-T34	PROCEDIMIENTO 371 380	anamnesis
-T35	PROCEDIMIENTO 644 670	tratamiento ortoquirúrgico
-T36	PROCEDIMIENTO 841 888	procedimiento quirúrgico de glosectomía parcial
-T37	PROCEDIMIENTO 919 938	cirugía ortognática
-T38	PROCEDIMIENTO 98 111	examen físico
-T39	SINTOMA 444 473	defecto en la pared abdominal
-T40	SINTOMA 63 85	dificultad de fonación
-T41	SINTOMA 725 751	dificultades respiratorias
-T42	SINTOMA 2994 3042	disminución considerable del tamaño de la lengua
-T43	SINTOMA 151 167	elevada estatura
-T44	SINTOMA 275 299	mordida abierta anterior
-T45	SINTOMA 690 722	problemas de deglución, fonación
-T46	SINTOMA 1207 1242	problemas relacionados con el habla
+T1	SINTOMA 444 473	defecto en la pared abdominal
+T2	SINTOMA 63 85	dificultad de fonación
+T3	SINTOMA 725 751	dificultades respiratorias
+T4	SINTOMA 2994 3042	disminución considerable del tamaño de la lengua
+T5	SINTOMA 151 167	elevada estatura
+T6	SINTOMA 275 299	mordida abierta anterior
+T7	SINTOMA 690 722	problemas de deglución, fonación
+T8	SINTOMA 1207 1242	problemas relacionados con el habla
+T9	ENFERMEDAD 1290 1314	sangrado transoperatorio
+T10	ENFERMEDAD 783 794	macroglosia
+T11	ENFERMEDAD 3099 3128	pérdida sensitiva o gustativa
+T12	ENFERMEDAD 1439 1474	hipertrofía de los cornetes nasales
+T13	ENFERMEDAD 199 217	hipoplasia maxilar
+T14	ENFERMEDAD 219 241	apiñamientos dentarios
+T15	ENFERMEDAD 301 313	úvula bífida
+T16	ENFERMEDAD 320 331	macroglosia
+T17	ENFERMEDAD 581 610	síndrome de Beckwith-Wiedmann
+T18	ENFERMEDAD 2164 2204	lesiones en las ramas del nervio lingual
+T19	ENFERMEDAD 2299 2315	hematoma lingual
+T20	ENFERMEDAD 2321 2344	sangrado postoperatorio
+T21	ENFERMEDAD 2714 2765	complicación de naturaleza hemorrágica o infecciosa
+T22	ENFERMEDAD 275 299	mordida abierta anterior
+T23	ENFERMEDAD 444 473	defecto en la pared abdominal
+T24	ENFERMEDAD 690 722	problemas de deglución, fonación
+T25	ENFERMEDAD 725 751	dificultades respiratorias
+T26	PROCEDIMIENTO 1034 1089	resección del segmento central y del ápice de la lengua
+T27	PROCEDIMIENTO 1368 1385	anestesia general
+T28	PROCEDIMIENTO 1390 1412	intubación orotraqueal
+T29	PROCEDIMIENTO 1490 1521	pasaje de la sonda nasotraqueal
+T30	PROCEDIMIENTO 1523 1678	Para la realización de las incisiones, fueron establecidos puntos de reparo con hilo de algodón 2.0 en las extremidades laterales y anteriores de la lengua
+T31	PROCEDIMIENTO 1699 1774	pinza de aprehensión de tejido del tipo Allis para auxiliar en la disección
+T32	PROCEDIMIENTO 1827 1874	demarcación de la incisión con azul de metileno
+T33	PROCEDIMIENTO 1881 1915	infiltraciones de anestésico local
+T34	PROCEDIMIENTO 1960 2039	remoción del segmento demarcado se ejecutó con un disector quirúrgico eléctrico
+T35	PROCEDIMIENTO 2209 2230	segmento fue removido
+T36	PROCEDIMIENTO 2248 2258	hemostasia
+T37	PROCEDIMIENTO 2358 2377	control de sangrado
+T38	PROCEDIMIENTO 2383 2433	segmentos fueron aproximados con hilo reabsorbible
+T39	PROCEDIMIENTO 2823 2850	tratamiento fonoaudiológico
+T40	PROCEDIMIENTO 3161 3201	tratamiento fonoaudilógico y ortodóncico
+T41	PROCEDIMIENTO 3234 3313	procedimiento quirúrgico para la corrección de la discrepancia maxilomandibular
+T42	PROCEDIMIENTO 371 380	anamnesis
+T43	PROCEDIMIENTO 644 670	tratamiento ortoquirúrgico
+T44	PROCEDIMIENTO 841 888	procedimiento quirúrgico de glosectomía parcial
+T45	PROCEDIMIENTO 919 938	cirugía ortognática
+T46	PROCEDIMIENTO 98 111	examen físico

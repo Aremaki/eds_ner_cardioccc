@@ -1,27 +1,27 @@
-T1	ENFERMEDAD 135 141	anemia
-T2	ENFERMEDAD 1959 1963	GIST
-T3	ENFERMEDAD 1987 2014	insuficiencia renal crónica
-T4	ENFERMEDAD 2028 2042	amiloidosis AA
-T5	ENFERMEDAD 277 295	neoplasia gástrica
-T6	ENFERMEDAD 298 316	gastropatía antral
-T7	ENFERMEDAD 446 450	GIST
-T8	ENFERMEDAD 1078 1089	amiloidosis
-T9	ENFERMEDAD 1724 1743	GIST de alto riesgo
-T10	ENFERMEDAD 525 549	depósitos de amiloide AA
-T11	ENFERMEDAD 1170 1188	síndrome nefrótico
-T12	ENFERMEDAD 1215 1235	amiloidosis cardíaca
-T13	ENFERMEDAD 1987 2042	insuficiencia renal crónica secundaria a amiloidosis AA
-T14	ENFERMEDAD 390 414	proliferación neoplásica
-T15	ENFERMEDAD 593 598	tumor
-T16	ENFERMEDAD 1618 1673	afectación del estómago y el ángulo esplénico del colon
-T17	ENFERMEDAD 1483 1495	masa tumoral
-T18	SINTOMA 124 132	anorexia
-T19	SINTOMA 115 122	astenia
-T20	SINTOMA 688 695	diarrea
-T21	SINTOMA 1194 1201	diarrea
-T22	SINTOMA 1483 1495	masa tumoral
-T23	SINTOMA 933 944	Proteinuria
-T24	SINTOMA 184 241	cambios inflamatorios inespecíficos de la mucosa colónica
-T25	SINTOMA 652 685	edemas en los miembros inferiores
-T26	SINTOMA 1002 1029	mala situación del paciente
-T27	SINTOMA 89 113	pérdida de 17 kg de peso
+T1	SINTOMA 124 132	anorexia
+T2	SINTOMA 115 122	astenia
+T3	SINTOMA 688 695	diarrea
+T4	SINTOMA 1194 1201	diarrea
+T5	SINTOMA 1483 1495	masa tumoral
+T6	SINTOMA 933 944	Proteinuria
+T7	SINTOMA 184 241	cambios inflamatorios inespecíficos de la mucosa colónica
+T8	SINTOMA 652 685	edemas en los miembros inferiores
+T9	SINTOMA 1002 1029	mala situación del paciente
+T10	SINTOMA 89 113	pérdida de 17 kg de peso
+T11	ENFERMEDAD 135 141	anemia
+T12	ENFERMEDAD 1959 1963	GIST
+T13	ENFERMEDAD 1987 2014	insuficiencia renal crónica
+T14	ENFERMEDAD 2028 2042	amiloidosis AA
+T15	ENFERMEDAD 277 295	neoplasia gástrica
+T16	ENFERMEDAD 298 316	gastropatía antral
+T17	ENFERMEDAD 446 450	GIST
+T18	ENFERMEDAD 1078 1089	amiloidosis
+T19	ENFERMEDAD 1724 1743	GIST de alto riesgo
+T20	ENFERMEDAD 525 549	depósitos de amiloide AA
+T21	ENFERMEDAD 1170 1188	síndrome nefrótico
+T22	ENFERMEDAD 1215 1235	amiloidosis cardíaca
+T23	ENFERMEDAD 1987 2042	insuficiencia renal crónica secundaria a amiloidosis AA
+T24	ENFERMEDAD 390 414	proliferación neoplásica
+T25	ENFERMEDAD 593 598	tumor
+T26	ENFERMEDAD 1618 1673	afectación del estómago y el ángulo esplénico del colon
+T27	ENFERMEDAD 1483 1495	masa tumoral

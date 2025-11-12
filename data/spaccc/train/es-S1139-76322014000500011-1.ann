@@ -1,40 +1,40 @@
-T1	ENFERMEDAD 2499 2533	artritis de rodilla derecha ANA(+)
-T2	ENFERMEDAD 2545 2548	AIJ
-T3	ENFERMEDAD 463 480	procesos gripales
-T4	ENFERMEDAD 490 516	infección gastrointestinal
-T5	ENFERMEDAD 1407 1418	adenopatías
-T6	ENFERMEDAD 1422 1437	visceromegalias
-T7	ENFERMEDAD 1286 1296	deformidad
-T8	ENFERMEDAD 2307 2322	hepatitis B y C
-T9	ENFERMEDAD 142 154	traumatismos
-T10	ENFERMEDAD 1317 1340	déficit vasculonervioso
-T11	ENFERMEDAD 1396 1405	exantemas
-T12	SINTOMA 1714 1731	anti-DNA negativo
-T13	SINTOMA 1636 1676	anticuerpos antinucleares (ANA) positivo
-T14	SINTOMA 1176 1280	aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor
-T15	SINTOMA 520 536	clínica urinaria
-T16	SINTOMA 1300 1311	crepitación
-T17	SINTOMA 790 822	desarrollo psicomotor era normal
-T18	SINTOMA 228 279	dolor e inflamación del quinto metatarsiano del pie
-T19	SINTOMA 370 412	dolor e inflamación en el dorso de la mano
-T20	SINTOMA 2720 2740	ecografía fue normal
-T21	SINTOMA 1345 1380	exploración por aparatos fue normal
-T22	SINTOMA 1686 1712	factor reumatoide negativo
-T23	SINTOMA 81 89	gonalgia
-T24	SINTOMA 653 704	impotencia funcional para mantener la bipedestación
-T25	SINTOMA 2583 2630	inflamación y el dolor en la rodilla y el tarso
-T26	SINTOMA 2219 2322	negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C
-T27	SINTOMA 2354 2420	normales en las pruebas tiroideas, el uroanálisis y la coagulación
-T28	SINTOMA 1061 1078	peloteo rotuliano
-T29	SINTOMA 1443 1487	radiografías en todo momento fueron normales
-T30	SINTOMA 971 1043	rodilla derecha con dolor, inflamación y movilidad limitada a la flexión
-T31	SINTOMA 102 122	signos inflamatorios
-T32	SINTOMA 1048 1053	dolor
-T33	SINTOMA 567 574	afebril
-T34	SINTOMA 1396 1405	exantemas
-T35	SINTOMA 916 940	aceptable estado general
-T36	SINTOMA 1873 1889	cultivo negativo
-T37	SINTOMA 1537 1549	leucocitosis
-T38	SINTOMA 1553 1564	neutrofilia
-T39	SINTOMA 1505 1518	trombocitosis
-T40	SINTOMA 1422 1437	visceromegalias
+T1	SINTOMA 1714 1731	anti-DNA negativo
+T2	SINTOMA 1636 1676	anticuerpos antinucleares (ANA) positivo
+T3	SINTOMA 1176 1280	aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor
+T4	SINTOMA 520 536	clínica urinaria
+T5	SINTOMA 1300 1311	crepitación
+T6	SINTOMA 790 822	desarrollo psicomotor era normal
+T7	SINTOMA 228 279	dolor e inflamación del quinto metatarsiano del pie
+T8	SINTOMA 370 412	dolor e inflamación en el dorso de la mano
+T9	SINTOMA 2720 2740	ecografía fue normal
+T10	SINTOMA 1345 1380	exploración por aparatos fue normal
+T11	SINTOMA 1686 1712	factor reumatoide negativo
+T12	SINTOMA 81 89	gonalgia
+T13	SINTOMA 653 704	impotencia funcional para mantener la bipedestación
+T14	SINTOMA 2583 2630	inflamación y el dolor en la rodilla y el tarso
+T15	SINTOMA 2219 2322	negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C
+T16	SINTOMA 2354 2420	normales en las pruebas tiroideas, el uroanálisis y la coagulación
+T17	SINTOMA 1061 1078	peloteo rotuliano
+T18	SINTOMA 1443 1487	radiografías en todo momento fueron normales
+T19	SINTOMA 971 1043	rodilla derecha con dolor, inflamación y movilidad limitada a la flexión
+T20	SINTOMA 102 122	signos inflamatorios
+T21	SINTOMA 1048 1053	dolor
+T22	SINTOMA 567 574	afebril
+T23	SINTOMA 1396 1405	exantemas
+T24	SINTOMA 916 940	aceptable estado general
+T25	SINTOMA 1873 1889	cultivo negativo
+T26	SINTOMA 1537 1549	leucocitosis
+T27	SINTOMA 1553 1564	neutrofilia
+T28	SINTOMA 1505 1518	trombocitosis
+T29	SINTOMA 1422 1437	visceromegalias
+T30	ENFERMEDAD 2499 2533	artritis de rodilla derecha ANA(+)
+T31	ENFERMEDAD 2545 2548	AIJ
+T32	ENFERMEDAD 463 480	procesos gripales
+T33	ENFERMEDAD 490 516	infección gastrointestinal
+T34	ENFERMEDAD 1407 1418	adenopatías
+T35	ENFERMEDAD 1422 1437	visceromegalias
+T36	ENFERMEDAD 1286 1296	deformidad
+T37	ENFERMEDAD 2307 2322	hepatitis B y C
+T38	ENFERMEDAD 142 154	traumatismos
+T39	ENFERMEDAD 1317 1340	déficit vasculonervioso
+T40	ENFERMEDAD 1396 1405	exantemas

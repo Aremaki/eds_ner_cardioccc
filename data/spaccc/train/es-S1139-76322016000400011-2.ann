@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 476 491	neumomediastino
-T2	ENFERMEDAD 494 557	enfisema subcutáneo en el cuello y la región superior del tórax
-T3	ENFERMEDAD 200 214	deshidratación
-T4	SINTOMA 346 367	crepitación en cuello
-T5	SINTOMA 220 242	dolor difuso abdominal
-T6	SINTOMA 162 184	regular estado general
-T7	SINTOMA 87 94	vómitos
-T8	SINTOMA 106 121	dolor abdominal
-T9	SINTOMA 200 214	deshidratación
-T10	SINTOMA 320 327	vómitos
-T11	SINTOMA 329 343	dolor torácico
-T12	SINTOMA 623 630	vómitos
+T1	SINTOMA 346 367	crepitación en cuello
+T2	SINTOMA 220 242	dolor difuso abdominal
+T3	SINTOMA 162 184	regular estado general
+T4	SINTOMA 87 94	vómitos
+T5	SINTOMA 106 121	dolor abdominal
+T6	SINTOMA 200 214	deshidratación
+T7	SINTOMA 320 327	vómitos
+T8	SINTOMA 329 343	dolor torácico
+T9	SINTOMA 623 630	vómitos
+T10	ENFERMEDAD 476 491	neumomediastino
+T11	ENFERMEDAD 494 557	enfisema subcutáneo en el cuello y la región superior del tórax
+T12	ENFERMEDAD 200 214	deshidratación

@@ -1,29 +1,29 @@
-T1	ENFERMEDAD 2138 2152	malformaciones
-T2	ENFERMEDAD 46 135	artritis juvenil de 12 años de evolución que afecta a rodillas, tobillo derecho y 1ª MTCF
-T3	ENFERMEDAD 688 704	artritis juvenil
-T4	ENFERMEDAD 1747 1755	artritis
-T5	ENFERMEDAD 706 725	artritis reumatoide
-T6	ENFERMEDAD 1761 1767	anemia
-T7	ENFERMEDAD 728 756	espondilitis anquilopoyética
-T8	ENFERMEDAD 2110 2116	anemia
-T9	ENFERMEDAD 1295 1329	brote oligoarticular incapacitante
-T10	PROCEDIMIENTO 1006 1011	AINES
-T11	PROCEDIMIENTO 1015 1026	corticoides
-T12	PROCEDIMIENTO 1662 1667	parto
-T13	PROCEDIMIENTO 1859 1864	parto
-T14	PROCEDIMIENTO 1954 1974	lactancia artificial
-T15	PROCEDIMIENTO 2066 2075	analítica
-T16	PROCEDIMIENTO 306 317	corticoides
-T17	PROCEDIMIENTO 439 450	corticoides
-T18	PROCEDIMIENTO 475 533	infiltraciones en ambas rodillas y tobillo con corticoides
-T19	PROCEDIMIENTO 536 590	sinoviortesis isotópica de ambas rodillas con Ytrio 90
-T20	SINTOMA 980 992	asintomática
-T21	SINTOMA 2047 2059	asintomática
-T22	SINTOMA 229 263	afectación axial ni extraarticular
-T23	SINTOMA 2066 2082	analítica normal
-T24	SINTOMA 187 201	ANAS negativos
-T25	SINTOMA 1295 1330	brote oligoarticular incapacitante,
-T26	SINTOMA 2087 2106	datos inflamatorios
-T27	SINTOMA 1770 1817	elevación mantenida de reactantes de fase aguda
-T28	SINTOMA 204 215	FR negativo
-T29	SINTOMA 168 185	HLA B-27 positivo
+T1	SINTOMA 980 992	asintomática
+T2	SINTOMA 2047 2059	asintomática
+T3	SINTOMA 229 263	afectación axial ni extraarticular
+T4	SINTOMA 2066 2082	analítica normal
+T5	SINTOMA 187 201	ANAS negativos
+T6	SINTOMA 1295 1330	brote oligoarticular incapacitante,
+T7	SINTOMA 2087 2106	datos inflamatorios
+T8	SINTOMA 1770 1817	elevación mantenida de reactantes de fase aguda
+T9	SINTOMA 204 215	FR negativo
+T10	SINTOMA 168 185	HLA B-27 positivo
+T11	ENFERMEDAD 2138 2152	malformaciones
+T12	ENFERMEDAD 46 135	artritis juvenil de 12 años de evolución que afecta a rodillas, tobillo derecho y 1ª MTCF
+T13	ENFERMEDAD 688 704	artritis juvenil
+T14	ENFERMEDAD 1747 1755	artritis
+T15	ENFERMEDAD 706 725	artritis reumatoide
+T16	ENFERMEDAD 1761 1767	anemia
+T17	ENFERMEDAD 728 756	espondilitis anquilopoyética
+T18	ENFERMEDAD 2110 2116	anemia
+T19	ENFERMEDAD 1295 1329	brote oligoarticular incapacitante
+T20	PROCEDIMIENTO 1006 1011	AINES
+T21	PROCEDIMIENTO 1015 1026	corticoides
+T22	PROCEDIMIENTO 1662 1667	parto
+T23	PROCEDIMIENTO 1859 1864	parto
+T24	PROCEDIMIENTO 1954 1974	lactancia artificial
+T25	PROCEDIMIENTO 2066 2075	analítica
+T26	PROCEDIMIENTO 306 317	corticoides
+T27	PROCEDIMIENTO 439 450	corticoides
+T28	PROCEDIMIENTO 475 533	infiltraciones en ambas rodillas y tobillo con corticoides
+T29	PROCEDIMIENTO 536 590	sinoviortesis isotópica de ambas rodillas con Ytrio 90

@@ -1,10 +1,10 @@
-T1	ENFERMEDAD 46 70	síndrome coronario agudo
-T2	ENFERMEDAD 888 897	asistolia
-T3	ENFERMEDAD 652 669	muerte encefálica
-T4	ENFERMEDAD 771 780	asistolia
-T5	ENFERMEDAD 248 262	edema cerebral
-T6	ENFERMEDAD 498 515	muerte encefálica
-T7	ENFERMEDAD 1143 1159	broncoaspiración
-T8	SINTOMA 201 211	hipotermia
-T9	SINTOMA 968 974	muerte
-T10	SINTOMA 156 178	respiración espontánea
+T1	SINTOMA 201 211	hipotermia
+T2	SINTOMA 968 974	muerte
+T3	SINTOMA 156 178	respiración espontánea
+T4	ENFERMEDAD 46 70	síndrome coronario agudo
+T5	ENFERMEDAD 888 897	asistolia
+T6	ENFERMEDAD 652 669	muerte encefálica
+T7	ENFERMEDAD 771 780	asistolia
+T8	ENFERMEDAD 248 262	edema cerebral
+T9	ENFERMEDAD 498 515	muerte encefálica
+T10	ENFERMEDAD 1143 1159	broncoaspiración

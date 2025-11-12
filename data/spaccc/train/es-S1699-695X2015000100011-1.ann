@@ -1,67 +1,67 @@
-T1	PROCEDIMIENTO 1311 1320	hemograma
-T2	PROCEDIMIENTO 1322 1333	coagulación
-T3	PROCEDIMIENTO 1335 1386	pruebas de función hepática, renal, tiroidea, orina
-T4	PROCEDIMIENTO 1419 1438	tomografía cerebral
-T5	PROCEDIMIENTO 1460 1476	tóxicos en orina
-T6	PROCEDIMIENTO 1498 1512	punción lumbar
-T7	PROCEDIMIENTO 1514 1516	PL
-T8	PROCEDIMIENTO 2011 2110	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr
-T9	PROCEDIMIENTO 2260 2262	PL
-T10	PROCEDIMIENTO 2304 2389	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia
-T11	PROCEDIMIENTO 2412 2446	resonancia magnética (RM) cerebral
-T12	PROCEDIMIENTO 2434 2436	RM
-T13	PROCEDIMIENTO 2475 2488	antidepresivo
-T14	PROCEDIMIENTO 2540 2560	electroencefalograma
-T15	PROCEDIMIENTO 2562 2565	EEG
-T16	PROCEDIMIENTO 2987 3016	ecocardiografía transtorácica
-T17	PROCEDIMIENTO 3055 3066	corticoides
-T18	PROCEDIMIENTO 3186 3194	sedación
-T19	PROCEDIMIENTO 3197 3220	intubación endotraqueal
-T20	PROCEDIMIENTO 3360 3439	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias
-T21	PROCEDIMIENTO 3489 3497	sedación
-T22	PROCEDIMIENTO 3609 3619	extubación
-T23	PROCEDIMIENTO 3624 3627	EEG
-T24	PROCEDIMIENTO 3745 3767	ecografía ginecológica
-T25	PROCEDIMIENTO 3877 3896	ecografía abdominal
-T26	PROCEDIMIENTO 4054 4109	PL buscando la presencia de anticuerpos paraneoplásicos
-T27	SINTOMA 103 119	abuso de tóxicos
-T28	SINTOMA 660 695	alteración de los ritmos biológicos
-T29	SINTOMA 3846 3912	ceruloplasmina, cobre sérico y ecografía abdominal fueron normales
-T30	SINTOMA 2193 2200	confusa
-T31	SINTOMA 342 352	desanimada
-T32	SINTOMA 1178 1209	desorientación espacio-temporal
-T33	SINTOMA 2973 2982	distonías
-T34	SINTOMA 2987 3027	ecocardiografía transtorácica fue normal
-T35	SINTOMA 192 222	falta de conexión con el medio
-T36	SINTOMA 596 616	hablar incoherencias
-T37	SINTOMA 1311 1454	hemograma, coagulación, pruebas de función hepática, renal, tiroidea, orina, ácido fólico y vitamina B12) y tomografía cerebral fueron normales
-T38	SINTOMA 4314 4349	ideas delirantes autorreferenciales
-T39	SINTOMA 569 583	mirada perdida
-T40	SINTOMA 3563 3588	movimientos bucolinguales
-T41	SINTOMA 2945 2970	movimientos involuntarios
-T42	SINTOMA 2681 2688	mutista
-T43	SINTOMA 3778 3816	ovario ligeramente aumentado de tamaño
-T44	SINTOMA 3360 3448	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias normales
-T45	SINTOMA 354 371	poco comunicativa
-T46	SINTOMA 3950 3958	reactiva
-T47	SINTOMA 2412 2457	resonancia magnética (RM) cerebral fue normal
-T48	SINTOMA 3499 3528	respondía a órdenes sencillas
-T49	SINTOMA 2645 2672	respondía a órdenes simples
-T50	SINTOMA 2227 2244	risas inmotivadas
-T51	SINTOMA 2011 2127	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr fueron negativas
-T52	SINTOMA 2304 2406	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia fueron negativos
-T53	SINTOMA 2213 2224	soliloquios
-T54	SINTOMA 1460 1493	tóxicos en orina fueron negativos
-T55	SINTOMA 3239 3311	uroporfirinas, las coproporfirinas y el zinc estaban en límites normales
-T56	SINTOMA 3541 3560	mioclonías faciales
-T57	SINTOMA 1846 1853	apática
-T58	SINTOMA 149 173	alteraciones de conducta
-T59	SINTOMA 175 189	desorientación
-T60	SINTOMA 2690 2700	estuporosa
-T61	SINTOMA 2790 2799	agitación
-T62	SINTOMA 4290 4311	agitación psicomotriz
-T63	SINTOMA 942 963	agitación psicomotriz
-T64	SINTOMA 966 980	desorientación
-T65	SINTOMA 1215 1224	agitación
-T66	SINTOMA 3937 3947	consciente
-T67	SINTOMA 1272 1293	focalidad neurológica
+T1	SINTOMA 103 119	abuso de tóxicos
+T2	SINTOMA 660 695	alteración de los ritmos biológicos
+T3	SINTOMA 3846 3912	ceruloplasmina, cobre sérico y ecografía abdominal fueron normales
+T4	SINTOMA 2193 2200	confusa
+T5	SINTOMA 342 352	desanimada
+T6	SINTOMA 1178 1209	desorientación espacio-temporal
+T7	SINTOMA 2973 2982	distonías
+T8	SINTOMA 2987 3027	ecocardiografía transtorácica fue normal
+T9	SINTOMA 192 222	falta de conexión con el medio
+T10	SINTOMA 596 616	hablar incoherencias
+T11	SINTOMA 1311 1454	hemograma, coagulación, pruebas de función hepática, renal, tiroidea, orina, ácido fólico y vitamina B12) y tomografía cerebral fueron normales
+T12	SINTOMA 4314 4349	ideas delirantes autorreferenciales
+T13	SINTOMA 569 583	mirada perdida
+T14	SINTOMA 3563 3588	movimientos bucolinguales
+T15	SINTOMA 2945 2970	movimientos involuntarios
+T16	SINTOMA 2681 2688	mutista
+T17	SINTOMA 3778 3816	ovario ligeramente aumentado de tamaño
+T18	SINTOMA 3360 3448	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias normales
+T19	SINTOMA 354 371	poco comunicativa
+T20	SINTOMA 3950 3958	reactiva
+T21	SINTOMA 2412 2457	resonancia magnética (RM) cerebral fue normal
+T22	SINTOMA 3499 3528	respondía a órdenes sencillas
+T23	SINTOMA 2645 2672	respondía a órdenes simples
+T24	SINTOMA 2227 2244	risas inmotivadas
+T25	SINTOMA 2011 2127	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr fueron negativas
+T26	SINTOMA 2304 2406	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia fueron negativos
+T27	SINTOMA 2213 2224	soliloquios
+T28	SINTOMA 1460 1493	tóxicos en orina fueron negativos
+T29	SINTOMA 3239 3311	uroporfirinas, las coproporfirinas y el zinc estaban en límites normales
+T30	SINTOMA 3541 3560	mioclonías faciales
+T31	SINTOMA 1846 1853	apática
+T32	SINTOMA 149 173	alteraciones de conducta
+T33	SINTOMA 175 189	desorientación
+T34	SINTOMA 2690 2700	estuporosa
+T35	SINTOMA 2790 2799	agitación
+T36	SINTOMA 4290 4311	agitación psicomotriz
+T37	SINTOMA 942 963	agitación psicomotriz
+T38	SINTOMA 966 980	desorientación
+T39	SINTOMA 1215 1224	agitación
+T40	SINTOMA 3937 3947	consciente
+T41	SINTOMA 1272 1293	focalidad neurológica
+T42	PROCEDIMIENTO 1311 1320	hemograma
+T43	PROCEDIMIENTO 1322 1333	coagulación
+T44	PROCEDIMIENTO 1335 1386	pruebas de función hepática, renal, tiroidea, orina
+T45	PROCEDIMIENTO 1419 1438	tomografía cerebral
+T46	PROCEDIMIENTO 1460 1476	tóxicos en orina
+T47	PROCEDIMIENTO 1498 1512	punción lumbar
+T48	PROCEDIMIENTO 1514 1516	PL
+T49	PROCEDIMIENTO 2011 2110	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr
+T50	PROCEDIMIENTO 2260 2262	PL
+T51	PROCEDIMIENTO 2304 2389	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia
+T52	PROCEDIMIENTO 2412 2446	resonancia magnética (RM) cerebral
+T53	PROCEDIMIENTO 2434 2436	RM
+T54	PROCEDIMIENTO 2475 2488	antidepresivo
+T55	PROCEDIMIENTO 2540 2560	electroencefalograma
+T56	PROCEDIMIENTO 2562 2565	EEG
+T57	PROCEDIMIENTO 2987 3016	ecocardiografía transtorácica
+T58	PROCEDIMIENTO 3055 3066	corticoides
+T59	PROCEDIMIENTO 3186 3194	sedación
+T60	PROCEDIMIENTO 3197 3220	intubación endotraqueal
+T61	PROCEDIMIENTO 3360 3439	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias
+T62	PROCEDIMIENTO 3489 3497	sedación
+T63	PROCEDIMIENTO 3609 3619	extubación
+T64	PROCEDIMIENTO 3624 3627	EEG
+T65	PROCEDIMIENTO 3745 3767	ecografía ginecológica
+T66	PROCEDIMIENTO 3877 3896	ecografía abdominal
+T67	PROCEDIMIENTO 4054 4109	PL buscando la presencia de anticuerpos paraneoplásicos

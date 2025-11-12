@@ -1,59 +1,59 @@
-T1	PROCEDIMIENTO 1162 1169	tyndall
-T2	PROCEDIMIENTO 1212 1231	presión intraocular
-T3	PROCEDIMIENTO 1233 1236	PIO
-T4	PROCEDIMIENTO 1251 1263	fondo de ojo
-T5	PROCEDIMIENTO 1265 1267	FO
-T6	PROCEDIMIENTO 1550 1553	PIO
-T7	PROCEDIMIENTO 1567 1569	FO
-T8	PROCEDIMIENTO 1823 1831	colirios
-T9	PROCEDIMIENTO 2099 2107	colirios
-T10	PROCEDIMIENTO 2295 2313	cultivos corneales
-T11	PROCEDIMIENTO 2382 2438	excisión conjuntival superior OD diagnóstico-terapéutica
-T12	PROCEDIMIENTO 2529 2547	inmunohistoquímica
-T13	PROCEDIMIENTO 253 261	colirios
-T14	PROCEDIMIENTO 2628 2649	exploración sistémica
-T15	PROCEDIMIENTO 2704 2713	serología
-T16	PROCEDIMIENTO 2744 2781	marcadores de enfermedades reumáticas
-T17	PROCEDIMIENTO 2890 2899	analítica
-T18	PROCEDIMIENTO 3049 3073	estudios de malabsorción
-T19	PROCEDIMIENTO 3323 3340	radiografía tórax
-T20	PROCEDIMIENTO 3345 3408	tomografía axial computerizada (TAC) craneal y tóraco-abdominal
-T21	PROCEDIMIENTO 3377 3380	TAC
-T22	PROCEDIMIENTO 3432 3445	TAC orbitario
-T23	PROCEDIMIENTO 3510 3543	exploración otorrinolaringológica
-T24	PROCEDIMIENTO 3555 3571	ecografía ocular
-T25	PROCEDIMIENTO 3723 3832	tratamiento con dieta hiperproteica e hipercalórica sin azúcar, enzimas pancreáticas y vitaminas por vía oral
-T26	PROCEDIMIENTO 663 704	colecistostomía con derivación percutánea
-T27	PROCEDIMIENTO 782 812	excisión de pterigión en el OD
-T28	PROCEDIMIENTO 824 835	betaterapia
-T29	PROCEDIMIENTO 854 894	injerto lamelar esclerocorneal posterior
-T30	SINTOMA 2571 2580	acantosis
-T31	SINTOMA 459 466	astenia
-T32	SINTOMA 468 476	caquexia
-T33	SINTOMA 2295 2365	cultivos corneales negativos para bacterias, hongos, virus y parásitos
-T34	SINTOMA 101 133	disminución de la agudeza visual
-T35	SINTOMA 3112 3153	disminución de las vitaminas liposolubles
-T36	SINTOMA 57 79	dolor ocular bilateral
-T37	SINTOMA 1082 1111	edema epitelial microquístico
-T38	SINTOMA 3009 3043	elevación de las enzimas hepáticas
-T39	SINTOMA 3460 3497	engrosamiento mucoso del seno maxilar
-T40	SINTOMA 402 416	enrojecimiento
-T41	SINTOMA 381 388	escozor
-T42	SINTOMA 3510 3550	exploración otorrinolaringológica normal
-T43	SINTOMA 1251 1281	fondo de ojo (FO) no relevante
-T44	SINTOMA 390 399	fotofobia
-T45	SINTOMA 81 98	fotofobia intensa
-T46	SINTOMA 2027 2033	hifema
-T47	SINTOMA 1463 1510	hifema que ocupa la mitad de la cámara anterior
-T48	SINTOMA 2993 3006	hiperglucemia
-T49	SINTOMA 2059 2073	hipopión en OI
-T50	SINTOMA 1302 1378	inyección muy severa de la vascularización conjuntival, ciliar y epiescleral
-T51	SINTOMA 1062 1080	inyección vascular
-T52	SINTOMA 479 516	pérdida de 16 kilogramos (kg) de peso
-T53	SINTOMA 2816 2882	proteína C reactiva y velocidad de sedimentación globular elevadas
-T54	SINTOMA 1587 1631	sensibilidad corneal es normal en ambos ojos
-T55	SINTOMA 1188 1206	sinequia posterior
-T56	SINTOMA 1518 1539	sinequias posteriores
-T57	SINTOMA 4029 4050	sinequias posteriores
-T58	SINTOMA 3345 3424	tomografía axial computerizada (TAC) craneal y tóraco-abdominal fueron normales
-T59	SINTOMA 1162 1181	tyndall de 4 cruces
+T1	SINTOMA 2571 2580	acantosis
+T2	SINTOMA 459 466	astenia
+T3	SINTOMA 468 476	caquexia
+T4	SINTOMA 2295 2365	cultivos corneales negativos para bacterias, hongos, virus y parásitos
+T5	SINTOMA 101 133	disminución de la agudeza visual
+T6	SINTOMA 3112 3153	disminución de las vitaminas liposolubles
+T7	SINTOMA 57 79	dolor ocular bilateral
+T8	SINTOMA 1082 1111	edema epitelial microquístico
+T9	SINTOMA 3009 3043	elevación de las enzimas hepáticas
+T10	SINTOMA 3460 3497	engrosamiento mucoso del seno maxilar
+T11	SINTOMA 402 416	enrojecimiento
+T12	SINTOMA 381 388	escozor
+T13	SINTOMA 3510 3550	exploración otorrinolaringológica normal
+T14	SINTOMA 1251 1281	fondo de ojo (FO) no relevante
+T15	SINTOMA 390 399	fotofobia
+T16	SINTOMA 81 98	fotofobia intensa
+T17	SINTOMA 2027 2033	hifema
+T18	SINTOMA 1463 1510	hifema que ocupa la mitad de la cámara anterior
+T19	SINTOMA 2993 3006	hiperglucemia
+T20	SINTOMA 2059 2073	hipopión en OI
+T21	SINTOMA 1302 1378	inyección muy severa de la vascularización conjuntival, ciliar y epiescleral
+T22	SINTOMA 1062 1080	inyección vascular
+T23	SINTOMA 479 516	pérdida de 16 kilogramos (kg) de peso
+T24	SINTOMA 2816 2882	proteína C reactiva y velocidad de sedimentación globular elevadas
+T25	SINTOMA 1587 1631	sensibilidad corneal es normal en ambos ojos
+T26	SINTOMA 1188 1206	sinequia posterior
+T27	SINTOMA 1518 1539	sinequias posteriores
+T28	SINTOMA 4029 4050	sinequias posteriores
+T29	SINTOMA 3345 3424	tomografía axial computerizada (TAC) craneal y tóraco-abdominal fueron normales
+T30	SINTOMA 1162 1181	tyndall de 4 cruces
+T31	PROCEDIMIENTO 1162 1169	tyndall
+T32	PROCEDIMIENTO 1212 1231	presión intraocular
+T33	PROCEDIMIENTO 1233 1236	PIO
+T34	PROCEDIMIENTO 1251 1263	fondo de ojo
+T35	PROCEDIMIENTO 1265 1267	FO
+T36	PROCEDIMIENTO 1550 1553	PIO
+T37	PROCEDIMIENTO 1567 1569	FO
+T38	PROCEDIMIENTO 1823 1831	colirios
+T39	PROCEDIMIENTO 2099 2107	colirios
+T40	PROCEDIMIENTO 2295 2313	cultivos corneales
+T41	PROCEDIMIENTO 2382 2438	excisión conjuntival superior OD diagnóstico-terapéutica
+T42	PROCEDIMIENTO 2529 2547	inmunohistoquímica
+T43	PROCEDIMIENTO 253 261	colirios
+T44	PROCEDIMIENTO 2628 2649	exploración sistémica
+T45	PROCEDIMIENTO 2704 2713	serología
+T46	PROCEDIMIENTO 2744 2781	marcadores de enfermedades reumáticas
+T47	PROCEDIMIENTO 2890 2899	analítica
+T48	PROCEDIMIENTO 3049 3073	estudios de malabsorción
+T49	PROCEDIMIENTO 3323 3340	radiografía tórax
+T50	PROCEDIMIENTO 3345 3408	tomografía axial computerizada (TAC) craneal y tóraco-abdominal
+T51	PROCEDIMIENTO 3377 3380	TAC
+T52	PROCEDIMIENTO 3432 3445	TAC orbitario
+T53	PROCEDIMIENTO 3510 3543	exploración otorrinolaringológica
+T54	PROCEDIMIENTO 3555 3571	ecografía ocular
+T55	PROCEDIMIENTO 3723 3832	tratamiento con dieta hiperproteica e hipercalórica sin azúcar, enzimas pancreáticas y vitaminas por vía oral
+T56	PROCEDIMIENTO 663 704	colecistostomía con derivación percutánea
+T57	PROCEDIMIENTO 782 812	excisión de pterigión en el OD
+T58	PROCEDIMIENTO 824 835	betaterapia
+T59	PROCEDIMIENTO 854 894	injerto lamelar esclerocorneal posterior

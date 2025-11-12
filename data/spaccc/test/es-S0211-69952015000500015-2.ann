@@ -1,25 +1,25 @@
-T1	ENFERMEDAD 18 22	ERCA
-T2	ENFERMEDAD 100 162	trasplante renal inmediatamente fallido por trombosis arterial
-T3	ENFERMEDAD 144 162	trombosis arterial
-T4	ENFERMEDAD 48 58	hipertenso
-T5	ENFERMEDAD 767 795	infección clásica por el VHC
-T6	PROCEDIMIENTO 100 116	trasplante renal
-T7	PROCEDIMIENTO 1036 1072	RNA por ultracentrifugación en suero
-T8	PROCEDIMIENTO 1078 1123	anticuerpo anti-VHC core de alta sensibilidad
-T9	PROCEDIMIENTO 227 264	transfusión de 2 unidades de hematíes
-T10	PROCEDIMIENTO 458 494	RNA en suero por ultracentrifugación
-T11	PROCEDIMIENTO 497 542	anticuerpo anti-VHC core de alta sensibilidad
-T12	PROCEDIMIENTO 556 565	Ecografía
-T13	PROCEDIMIENTO 568 577	FibroScan
-T14	PROCEDIMIENTO 64 76	hemodiálisis
-T15	PROCEDIMIENTO 649 652	PCR
-T16	PROCEDIMIENTO 655 670	serología viral
-T17	PROCEDIMIENTO 812 828	trasplante renal
-T18	PROCEDIMIENTO 922 933	corticoides
-T19	PROCEDIMIENTO 953 963	trasplante
-T20	PROCEDIMIENTO 968 987	carga viral en CMSP
-T21	SINTOMA 266 301	Aumento esporádico de transaminasas
-T22	SINTOMA 968 1009	carga viral en CMSP se halla indetectable
-T23	SINTOMA 556 587	Ecografía y FibroScan® normales
-T24	SINTOMA 458 553	RNA en suero por ultracentrifugación y anticuerpo anti-VHC core de alta sensibilidad, negativos
-T25	SINTOMA 411 421	VHC oculto
+T1	SINTOMA 266 301	Aumento esporádico de transaminasas
+T2	SINTOMA 968 1009	carga viral en CMSP se halla indetectable
+T3	SINTOMA 556 587	Ecografía y FibroScan® normales
+T4	SINTOMA 458 553	RNA en suero por ultracentrifugación y anticuerpo anti-VHC core de alta sensibilidad, negativos
+T5	SINTOMA 411 421	VHC oculto
+T6	ENFERMEDAD 18 22	ERCA
+T7	ENFERMEDAD 100 162	trasplante renal inmediatamente fallido por trombosis arterial
+T8	ENFERMEDAD 144 162	trombosis arterial
+T9	ENFERMEDAD 48 58	hipertenso
+T10	ENFERMEDAD 767 795	infección clásica por el VHC
+T11	PROCEDIMIENTO 100 116	trasplante renal
+T12	PROCEDIMIENTO 1036 1072	RNA por ultracentrifugación en suero
+T13	PROCEDIMIENTO 1078 1123	anticuerpo anti-VHC core de alta sensibilidad
+T14	PROCEDIMIENTO 227 264	transfusión de 2 unidades de hematíes
+T15	PROCEDIMIENTO 458 494	RNA en suero por ultracentrifugación
+T16	PROCEDIMIENTO 497 542	anticuerpo anti-VHC core de alta sensibilidad
+T17	PROCEDIMIENTO 556 565	Ecografía
+T18	PROCEDIMIENTO 568 577	FibroScan
+T19	PROCEDIMIENTO 64 76	hemodiálisis
+T20	PROCEDIMIENTO 649 652	PCR
+T21	PROCEDIMIENTO 655 670	serología viral
+T22	PROCEDIMIENTO 812 828	trasplante renal
+T23	PROCEDIMIENTO 922 933	corticoides
+T24	PROCEDIMIENTO 953 963	trasplante
+T25	PROCEDIMIENTO 968 987	carga viral en CMSP

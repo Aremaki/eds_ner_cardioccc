@@ -1,39 +1,39 @@
-T1	ENFERMEDAD 84 100	diabetes tipo II
-T2	ENFERMEDAD 661 681	hemianopsia homónima
-T3	ENFERMEDAD 1194 1253	reacción alérgica al contraste con manifestaciones cutáneas
-T4	ENFERMEDAD 1767 1812	nervios ópticos con el mismo grado de atrofia
-T5	ENFERMEDAD 1458 1471	subependimoma
-T6	ENFERMEDAD 711 750	lesión ocupante de espacio intracraneal
-T7	ENFERMEDAD 1506 1607	subependimoma de asta temporal de ventrículo lateral izquierdo con afectación de vía retroquiasmática
-T8	ENFERMEDAD 831 912	calcificación de 2 cm de diámetro en relación con amígdala y cabeza del hipocampo
-T9	ENFERMEDAD 1610 1643	atrofia óptica en banda izquierda
-T10	ENFERMEDAD 393 435	nervio óptico derecho con atrofia en banda
-T11	ENFERMEDAD 520 541	retinopatía diabética
-T12	ENFERMEDAD 968 1042	lesión heterogénea en la cabeza del hipocampo izquierdo, con calcificación
-T13	ENFERMEDAD 1399 1405	lesión
-T14	ENFERMEDAD 1715 1735	hemianopsia homónima
-T15	PROCEDIMIENTO 1080 1095	test de colores
-T16	PROCEDIMIENTO 1114 1136	arteriografía cerebral
-T17	PROCEDIMIENTO 1139 1167	mapeo vascular prequirúrgico
-T18	PROCEDIMIENTO 1289 1305	antihistamínicos
-T19	PROCEDIMIENTO 131 149	exploración física
-T20	PROCEDIMIENTO 1345 1356	craneotomía
-T21	PROCEDIMIENTO 1374 1383	resección
-T22	PROCEDIMIENTO 1410 1435	estudio anatomopatológico
-T23	PROCEDIMIENTO 1658 1683	exploración oftalmológica
-T24	PROCEDIMIENTO 1750 1761	campimetría
-T25	PROCEDIMIENTO 257 276	presión intraocular
-T26	PROCEDIMIENTO 359 382	oftalmoscopia indirecta
-T27	PROCEDIMIENTO 558 570	campo visual
-T28	PROCEDIMIENTO 572 580	Humphrey
-T29	PROCEDIMIENTO 600 608	Humphrey
-T30	PROCEDIMIENTO 767 805	Tomografía computerizada (TC) cerebral
-T31	PROCEDIMIENTO 793 795	TC
-T32	PROCEDIMIENTO 927 956	resonancia magnética cerebral
-T33	SINTOMA 18 30	asintomático
-T34	SINTOMA 207 251	polo anterior estaba dentro de la normalidad
-T35	SINTOMA 661 689	hemianopsia homónima derecha
-T36	SINTOMA 1715 1761	hemianopsia homónima derecha en la campimetría
-T37	SINTOMA 310 354	motilidad intrínseca y extrínseca fue normal
-T38	SINTOMA 454 499	papila izquierda que se describió como pálida
-T39	SINTOMA 1080 1106	test de colores fue normal
+T1	SINTOMA 18 30	asintomático
+T2	SINTOMA 207 251	polo anterior estaba dentro de la normalidad
+T3	SINTOMA 661 689	hemianopsia homónima derecha
+T4	SINTOMA 1715 1761	hemianopsia homónima derecha en la campimetría
+T5	SINTOMA 310 354	motilidad intrínseca y extrínseca fue normal
+T6	SINTOMA 454 499	papila izquierda que se describió como pálida
+T7	SINTOMA 1080 1106	test de colores fue normal
+T8	ENFERMEDAD 84 100	diabetes tipo II
+T9	ENFERMEDAD 661 681	hemianopsia homónima
+T10	ENFERMEDAD 1194 1253	reacción alérgica al contraste con manifestaciones cutáneas
+T11	ENFERMEDAD 1767 1812	nervios ópticos con el mismo grado de atrofia
+T12	ENFERMEDAD 1458 1471	subependimoma
+T13	ENFERMEDAD 711 750	lesión ocupante de espacio intracraneal
+T14	ENFERMEDAD 1506 1607	subependimoma de asta temporal de ventrículo lateral izquierdo con afectación de vía retroquiasmática
+T15	ENFERMEDAD 831 912	calcificación de 2 cm de diámetro en relación con amígdala y cabeza del hipocampo
+T16	ENFERMEDAD 1610 1643	atrofia óptica en banda izquierda
+T17	ENFERMEDAD 393 435	nervio óptico derecho con atrofia en banda
+T18	ENFERMEDAD 520 541	retinopatía diabética
+T19	ENFERMEDAD 968 1042	lesión heterogénea en la cabeza del hipocampo izquierdo, con calcificación
+T20	ENFERMEDAD 1399 1405	lesión
+T21	ENFERMEDAD 1715 1735	hemianopsia homónima
+T22	PROCEDIMIENTO 1080 1095	test de colores
+T23	PROCEDIMIENTO 1114 1136	arteriografía cerebral
+T24	PROCEDIMIENTO 1139 1167	mapeo vascular prequirúrgico
+T25	PROCEDIMIENTO 1289 1305	antihistamínicos
+T26	PROCEDIMIENTO 131 149	exploración física
+T27	PROCEDIMIENTO 1345 1356	craneotomía
+T28	PROCEDIMIENTO 1374 1383	resección
+T29	PROCEDIMIENTO 1410 1435	estudio anatomopatológico
+T30	PROCEDIMIENTO 1658 1683	exploración oftalmológica
+T31	PROCEDIMIENTO 1750 1761	campimetría
+T32	PROCEDIMIENTO 257 276	presión intraocular
+T33	PROCEDIMIENTO 359 382	oftalmoscopia indirecta
+T34	PROCEDIMIENTO 558 570	campo visual
+T35	PROCEDIMIENTO 572 580	Humphrey
+T36	PROCEDIMIENTO 600 608	Humphrey
+T37	PROCEDIMIENTO 767 805	Tomografía computerizada (TC) cerebral
+T38	PROCEDIMIENTO 793 795	TC
+T39	PROCEDIMIENTO 927 956	resonancia magnética cerebral

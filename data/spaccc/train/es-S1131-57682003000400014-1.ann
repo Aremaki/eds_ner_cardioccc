@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 212 228	faringitis aguda
-T2	ENFERMEDAD 483 547	lesión que presentaba en el borde lateral izquierdo de la lengua
-T3	ENFERMEDAD 583 696	lesión ulcerada, de coloración blanquecina, de aproximadamente 1 cm de diámetro, en el borde lateral de la lengua
-T4	ENFERMEDAD 743 754	adenopatías
-T5	ENFERMEDAD 826 838	afta lingual
-T6	ENFERMEDAD 1259 1280	carcinoma epidermoide
-T7	ENFERMEDAD 1686 1725	carcinoma epidermoide bien diferenciado
-T8	ENFERMEDAD 1111 1128	cuadro infeccioso
-T9	ENFERMEDAD 765 793	lesiones a nivel orofaríngeo
-T10	PROCEDIMIENTO 1189 1196	biopsia
-T11	PROCEDIMIENTO 1217 1240	biopsia intraoperatoria
-T12	PROCEDIMIENTO 1320 1344	descripción microscópica
-T13	PROCEDIMIENTO 1447 1456	resección
-T14	PROCEDIMIENTO 1775 1795	resección quirúrgica
-T15	PROCEDIMIENTO 1827 1869	biopsia de fragmento fibroadiposo cervical
-T16	PROCEDIMIENTO 1986 2009	intervención quirúrgica
-T17	PROCEDIMIENTO 2031 2061	disección funcional del cuello
-T18	PROCEDIMIENTO 2068 2115	hemiglosectomía izquierda mediante láser de CO2
-T19	PROCEDIMIENTO 555 566	exploración
-T20	SINTOMA 1886 1953	ganglios linfáticos, siendo los 25 negativos para células tumorales
-T21	SINTOMA 1485 1497	neoformación
-T22	SINTOMA 1361 1373	neoformación
-T23	SINTOMA 169 179	odinofagia
-T24	SINTOMA 182 188	fiebre
-T25	SINTOMA 409 415	fiebre
-T26	SINTOMA 447 457	odinofagia
-T27	SINTOMA 2163 2175	asintomática
-T28	SINTOMA 941 950	molestias
+T1	SINTOMA 1886 1953	ganglios linfáticos, siendo los 25 negativos para células tumorales
+T2	SINTOMA 1485 1497	neoformación
+T3	SINTOMA 1361 1373	neoformación
+T4	SINTOMA 169 179	odinofagia
+T5	SINTOMA 182 188	fiebre
+T6	SINTOMA 409 415	fiebre
+T7	SINTOMA 447 457	odinofagia
+T8	SINTOMA 2163 2175	asintomática
+T9	SINTOMA 941 950	molestias
+T10	ENFERMEDAD 212 228	faringitis aguda
+T11	ENFERMEDAD 483 547	lesión que presentaba en el borde lateral izquierdo de la lengua
+T12	ENFERMEDAD 583 696	lesión ulcerada, de coloración blanquecina, de aproximadamente 1 cm de diámetro, en el borde lateral de la lengua
+T13	ENFERMEDAD 743 754	adenopatías
+T14	ENFERMEDAD 826 838	afta lingual
+T15	ENFERMEDAD 1259 1280	carcinoma epidermoide
+T16	ENFERMEDAD 1686 1725	carcinoma epidermoide bien diferenciado
+T17	ENFERMEDAD 1111 1128	cuadro infeccioso
+T18	ENFERMEDAD 765 793	lesiones a nivel orofaríngeo
+T19	PROCEDIMIENTO 1189 1196	biopsia
+T20	PROCEDIMIENTO 1217 1240	biopsia intraoperatoria
+T21	PROCEDIMIENTO 1320 1344	descripción microscópica
+T22	PROCEDIMIENTO 1447 1456	resección
+T23	PROCEDIMIENTO 1775 1795	resección quirúrgica
+T24	PROCEDIMIENTO 1827 1869	biopsia de fragmento fibroadiposo cervical
+T25	PROCEDIMIENTO 1986 2009	intervención quirúrgica
+T26	PROCEDIMIENTO 2031 2061	disección funcional del cuello
+T27	PROCEDIMIENTO 2068 2115	hemiglosectomía izquierda mediante láser de CO2
+T28	PROCEDIMIENTO 555 566	exploración

@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 66 91	lesión en cuero cabelludo
-T2	ENFERMEDAD 1342 1347	bocio
-T3	ENFERMEDAD 218 292	lesión papulosa eritemato-violácea dura de 6 mm en región parietooccipital
-T4	ENFERMEDAD 1424 1435	adenopatías
-T5	ENFERMEDAD 1739 1757	bocio multinodular
-T6	ENFERMEDAD 3322 3332	metástasis
-T7	ENFERMEDAD 700 728	tumoración situada en dermis
-T8	ENFERMEDAD 2020 2035	tumor folicular
-T9	ENFERMEDAD 2167 2184	carcinoma papilar
-T10	ENFERMEDAD 2241 2338	carcinoma mixto papilar y folicular bien diferenciado (90%) y sólido con un 10% poco diferenciado
-T11	ENFERMEDAD 1146 1175	metástasis de cáncer tiroideo
-T12	ENFERMEDAD 2495 2500	tumor
-T13	ENFERMEDAD 2726 2731	tumor
-T14	PROCEDIMIENTO 1208 1217	anamnesis
-T15	PROCEDIMIENTO 1309 1327	exploración física
-T16	PROCEDIMIENTO 1709 1727	ecografía tiroidea
-T17	PROCEDIMIENTO 1992 1996	PAAF
-T18	PROCEDIMIENTO 2062 2095	tiroidectomía más linfadenectomía
-T19	PROCEDIMIENTO 2126 2149	biopsia intraoperatoria
-T20	PROCEDIMIENTO 2189 2223	análisis AP de la pieza quirúrgica
-T21	PROCEDIMIENTO 2642 2675	vaciado del compartimento central
-T22	PROCEDIMIENTO 2748 2768	estudio de extensión
-T23	PROCEDIMIENTO 2779 2804	tratamiento con radioyodo
-T24	PROCEDIMIENTO 2814 2854	estudio metabólico con 8,26 mCi de 18FDG
-T25	PROCEDIMIENTO 2856 2877	RM cerebral y pélvica
-T26	PROCEDIMIENTO 2880 2896	gammagrafía ósea
-T27	PROCEDIMIENTO 2935 2947	intervención
-T28	PROCEDIMIENTO 299 356	lesión se le extirpó mediante rebanado y nitrato de plata
-T29	PROCEDIMIENTO 3124 3137	RCT post-I131
-T30	PROCEDIMIENTO 3164 3177	tiroidectomía
-T31	PROCEDIMIENTO 3347 3369	ablación con radioyodo
-T32	PROCEDIMIENTO 3575 3597	ablación con radioyodo
-T33	PROCEDIMIENTO 3821 3863	cuantificación de TG estimulada tras TSHrh
-T34	PROCEDIMIENTO 3876 3879	RCT
-T35	PROCEDIMIENTO 416 441	estudio anatomopatológico
-T36	PROCEDIMIENTO 443 445	AP
-T37	PROCEDIMIENTO 540 600	se le extirpó mediante exéresis elíptica y bisturí eléctrico
-T38	PROCEDIMIENTO 605 616	análisis AP
-T39	PROCEDIMIENTO 949 974	examen inmunohistoquímico
-T40	SINTOMA 1244 1256	asintomática
-T41	SINTOMA 3238 3306	afectación difusa de carácter miliar en ambos parénquimas pulmonares
-T42	SINTOMA 1587 1631	anticuerpos anti-TPO y anti-TG indetectables
-T43	SINTOMA 2814 2913	estudio metabólico con 8,26 mCi de 18FDG, RM cerebral y pélvica y gammagrafía ósea que fue negativo
-T44	SINTOMA 2525 2548	extensión extratiroidea
-T45	SINTOMA 1778 1791	LTD un nódulo
-T46	SINTOMA 2555 2590	márgenes quirúrgicos estaban libres
-T47	SINTOMA 1361 1384	nódulo de 2-3 cm en LTD
-T48	SINTOMA 3152 3216	restos post-tiroidectomía de localización en la cámara posterior
-T49	SINTOMA 1634 1647	TSI negativos
-T50	SINTOMA 1931 1965	zonas mal definidas hipoecogénicas
+T1	SINTOMA 1244 1256	asintomática
+T2	SINTOMA 3238 3306	afectación difusa de carácter miliar en ambos parénquimas pulmonares
+T3	SINTOMA 1587 1631	anticuerpos anti-TPO y anti-TG indetectables
+T4	SINTOMA 2814 2913	estudio metabólico con 8,26 mCi de 18FDG, RM cerebral y pélvica y gammagrafía ósea que fue negativo
+T5	SINTOMA 2525 2548	extensión extratiroidea
+T6	SINTOMA 1778 1791	LTD un nódulo
+T7	SINTOMA 2555 2590	márgenes quirúrgicos estaban libres
+T8	SINTOMA 1361 1384	nódulo de 2-3 cm en LTD
+T9	SINTOMA 3152 3216	restos post-tiroidectomía de localización en la cámara posterior
+T10	SINTOMA 1634 1647	TSI negativos
+T11	SINTOMA 1931 1965	zonas mal definidas hipoecogénicas
+T12	ENFERMEDAD 66 91	lesión en cuero cabelludo
+T13	ENFERMEDAD 1342 1347	bocio
+T14	ENFERMEDAD 218 292	lesión papulosa eritemato-violácea dura de 6 mm en región parietooccipital
+T15	ENFERMEDAD 1424 1435	adenopatías
+T16	ENFERMEDAD 1739 1757	bocio multinodular
+T17	ENFERMEDAD 3322 3332	metástasis
+T18	ENFERMEDAD 700 728	tumoración situada en dermis
+T19	ENFERMEDAD 2020 2035	tumor folicular
+T20	ENFERMEDAD 2167 2184	carcinoma papilar
+T21	ENFERMEDAD 2241 2338	carcinoma mixto papilar y folicular bien diferenciado (90%) y sólido con un 10% poco diferenciado
+T22	ENFERMEDAD 1146 1175	metástasis de cáncer tiroideo
+T23	ENFERMEDAD 2495 2500	tumor
+T24	ENFERMEDAD 2726 2731	tumor
+T25	PROCEDIMIENTO 1208 1217	anamnesis
+T26	PROCEDIMIENTO 1309 1327	exploración física
+T27	PROCEDIMIENTO 1709 1727	ecografía tiroidea
+T28	PROCEDIMIENTO 1992 1996	PAAF
+T29	PROCEDIMIENTO 2062 2095	tiroidectomía más linfadenectomía
+T30	PROCEDIMIENTO 2126 2149	biopsia intraoperatoria
+T31	PROCEDIMIENTO 2189 2223	análisis AP de la pieza quirúrgica
+T32	PROCEDIMIENTO 2642 2675	vaciado del compartimento central
+T33	PROCEDIMIENTO 2748 2768	estudio de extensión
+T34	PROCEDIMIENTO 2779 2804	tratamiento con radioyodo
+T35	PROCEDIMIENTO 2814 2854	estudio metabólico con 8,26 mCi de 18FDG
+T36	PROCEDIMIENTO 2856 2877	RM cerebral y pélvica
+T37	PROCEDIMIENTO 2880 2896	gammagrafía ósea
+T38	PROCEDIMIENTO 2935 2947	intervención
+T39	PROCEDIMIENTO 299 356	lesión se le extirpó mediante rebanado y nitrato de plata
+T40	PROCEDIMIENTO 3124 3137	RCT post-I131
+T41	PROCEDIMIENTO 3164 3177	tiroidectomía
+T42	PROCEDIMIENTO 3347 3369	ablación con radioyodo
+T43	PROCEDIMIENTO 3575 3597	ablación con radioyodo
+T44	PROCEDIMIENTO 3821 3863	cuantificación de TG estimulada tras TSHrh
+T45	PROCEDIMIENTO 3876 3879	RCT
+T46	PROCEDIMIENTO 416 441	estudio anatomopatológico
+T47	PROCEDIMIENTO 443 445	AP
+T48	PROCEDIMIENTO 540 600	se le extirpó mediante exéresis elíptica y bisturí eléctrico
+T49	PROCEDIMIENTO 605 616	análisis AP
+T50	PROCEDIMIENTO 949 974	examen inmunohistoquímico

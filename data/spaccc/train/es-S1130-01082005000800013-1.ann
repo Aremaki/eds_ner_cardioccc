@@ -1,6 +1,6 @@
-T1	ENFERMEDAD 322 346	lesión quística hepática
-T2	ENFERMEDAD 648 723	lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático
-T3	ENFERMEDAD 1031 1054	quiste hepático ciliado
-T4	SINTOMA 94 146	dolor abdominal de predominio en hipocondrio derecho
-T5	SINTOMA 157 256	exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
-T6	SINTOMA 224 256	perfil hepático, fueron normales
+T1	SINTOMA 94 146	dolor abdominal de predominio en hipocondrio derecho
+T2	SINTOMA 157 256	exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+T3	SINTOMA 224 256	perfil hepático, fueron normales
+T4	ENFERMEDAD 322 346	lesión quística hepática
+T5	ENFERMEDAD 648 723	lesión quística de unos 10 centímetros de diámetro, sobre el hilio hepático
+T6	ENFERMEDAD 1031 1054	quiste hepático ciliado

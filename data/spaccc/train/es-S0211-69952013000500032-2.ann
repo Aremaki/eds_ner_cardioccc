@@ -1,22 +1,22 @@
-T1	ENFERMEDAD 50 53	HTA
-T2	ENFERMEDAD 55 64	DM tipo 2
-T3	ENFERMEDAD 66 82	obesidad mórbida
-T4	ENFERMEDAD 464 485	depleción hidrosalina
-T5	ENFERMEDAD 954 1001	IRA prerrenal secundaria a depleción de volumen
-T6	ENFERMEDAD 981 1001	depleción de volumen
-T7	ENFERMEDAD 1003 1015	hiponatremia
-T8	ENFERMEDAD 1018 1031	hipopotasemia
-T9	ENFERMEDAD 1201 1227	insuficiencia respiratoria
-T10	ENFERMEDAD 1230 1279	shock séptico secundario a infección respiratoria
-T11	ENFERMEDAD 1257 1279	infección respiratoria
-T12	ENFERMEDAD 38 48	exfumadora
-T13	ENFERMEDAD 382 399	episodio sincopal
-T14	SINTOMA 981 1001	depleción de volumen
-T15	SINTOMA 382 399	episodio sincopal
-T16	SINTOMA 1337 1343	exitus
-T17	SINTOMA 1003 1015	hiponatremia
-T18	SINTOMA 1018 1031	hipopotasemia
-T19	SINTOMA 434 452	mal estado general
-T20	SINTOMA 1108 1135	mejoría de la función renal
-T21	SINTOMA 454 485	signos de depleción hidrosalina
-T22	SINTOMA 330 351	vómitos pospandriales
+T1	SINTOMA 981 1001	depleción de volumen
+T2	SINTOMA 382 399	episodio sincopal
+T3	SINTOMA 1337 1343	exitus
+T4	SINTOMA 1003 1015	hiponatremia
+T5	SINTOMA 1018 1031	hipopotasemia
+T6	SINTOMA 434 452	mal estado general
+T7	SINTOMA 1108 1135	mejoría de la función renal
+T8	SINTOMA 454 485	signos de depleción hidrosalina
+T9	SINTOMA 330 351	vómitos pospandriales
+T10	ENFERMEDAD 50 53	HTA
+T11	ENFERMEDAD 55 64	DM tipo 2
+T12	ENFERMEDAD 66 82	obesidad mórbida
+T13	ENFERMEDAD 464 485	depleción hidrosalina
+T14	ENFERMEDAD 954 1001	IRA prerrenal secundaria a depleción de volumen
+T15	ENFERMEDAD 981 1001	depleción de volumen
+T16	ENFERMEDAD 1003 1015	hiponatremia
+T17	ENFERMEDAD 1018 1031	hipopotasemia
+T18	ENFERMEDAD 1201 1227	insuficiencia respiratoria
+T19	ENFERMEDAD 1230 1279	shock séptico secundario a infección respiratoria
+T20	ENFERMEDAD 1257 1279	infección respiratoria
+T21	ENFERMEDAD 38 48	exfumadora
+T22	ENFERMEDAD 382 399	episodio sincopal

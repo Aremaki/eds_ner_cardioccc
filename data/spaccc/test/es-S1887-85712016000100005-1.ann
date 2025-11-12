@@ -1,43 +1,43 @@
-T1	ENFERMEDAD 87 108	hipertensión arterial
-T2	ENFERMEDAD 112 130	carcinoma de recto
-T3	ENFERMEDAD 512 519	SCASEST
-T4	ENFERMEDAD 1687 1729	síndrome compartimental agudo en antebrazo
-T5	ENFERMEDAD 334 355	artrosis generalizada
-T6	ENFERMEDAD 2428 2486	lesiones vasculares con signos de sangrado activo arterial
-T7	ENFERMEDAD 906 994	hematoma en cara volar de antebrazo derecho en relación a zona de punción de cateterismo
-T8	ENFERMEDAD 2182 2190	hematoma
-T9	ENFERMEDAD 1387 1414	parálisis total del miembro
-T10	ENFERMEDAD 2538 2544	herida
-T11	PROCEDIMIENTO 1101 1112	exploración
-T12	PROCEDIMIENTO 1513 1617	medición de la presión intracompartimental con "Intra-Compartmental pressure monitor system" de Stryker®
-T13	PROCEDIMIENTO 157 169	radioterapia
-T14	PROCEDIMIENTO 171 178	cirugía
-T15	PROCEDIMIENTO 1751 1773	tratamiento quirúrgico
-T16	PROCEDIMIENTO 1786 1810	procedimiento quirúrgico
-T17	PROCEDIMIENTO 181 194	quimioterapia
-T18	PROCEDIMIENTO 1827 1844	anestesia general
-T19	PROCEDIMIENTO 1886 1905	mascarilla laríngea
-T20	PROCEDIMIENTO 1907 1929	Profilaxis antibiótica
-T21	PROCEDIMIENTO 1997 2057	incisión cutánea sobre línea media de cara volar de antebraz
-T22	PROCEDIMIENTO 2207 2305	sección longitudinal de la fascia antebraquial exponiendo la musculatura epitroclear del antebrazo
-T23	PROCEDIMIENTO 2329 2409	descompresión del nervio mediano mediante sección del ligamento anular del carpo
-T24	PROCEDIMIENTO 2528 2594	cubrir la herida con compresas estériles impregnadas en Nitrofural
-T25	PROCEDIMIENTO 2612 2705	cierre de circunstancias mediante malla con elásticos vasculares (vessel loops) de contención
-T26	PROCEDIMIENTO 2709 2730	vendaje no compresivo
-T27	PROCEDIMIENTO 271 291	analgésicos opioides
-T28	PROCEDIMIENTO 2778 2789	fasciotomía
-T29	PROCEDIMIENTO 649 744	Intervención Coronaria Percutánea primaria por vía radial derecha, con colocación de dos stents
-T30	PROCEDIMIENTO 983 994	cateterismo
-T31	SINTOMA 3081 3086	dolor
-T32	SINTOMA 1375 1414	Anestesia y parálisis total del miembro
-T33	SINTOMA 3174 3208	buen estado vasculonervioso distal
-T34	SINTOMA 828 857	condiciones generales estable
-T35	SINTOMA 1309 1338	Disminución de la temperatura
-T36	SINTOMA 3142 3160	dolor en antebrazo
-T37	SINTOMA 466 486	dolor torácico agudo
-T38	SINTOMA 885 994	dolor y formación de hematoma en cara volar de antebrazo derecho en relación a zona de punción de cateterismo
-T39	SINTOMA 1142 1192	Dolor, exacerbado con la extensión pasiva de dedos
-T40	SINTOMA 1255 1305	Imposibilidad para detectar pulso radial o cubital
-T41	SINTOMA 3021 3052	movilidad y sensibilidad distal
-T42	SINTOMA 1244 1251	Palidez
-T43	SINTOMA 2462 2486	sangrado activo arterial
+T1	SINTOMA 3081 3086	dolor
+T2	SINTOMA 1375 1414	Anestesia y parálisis total del miembro
+T3	SINTOMA 3174 3208	buen estado vasculonervioso distal
+T4	SINTOMA 828 857	condiciones generales estable
+T5	SINTOMA 1309 1338	Disminución de la temperatura
+T6	SINTOMA 3142 3160	dolor en antebrazo
+T7	SINTOMA 466 486	dolor torácico agudo
+T8	SINTOMA 885 994	dolor y formación de hematoma en cara volar de antebrazo derecho en relación a zona de punción de cateterismo
+T9	SINTOMA 1142 1192	Dolor, exacerbado con la extensión pasiva de dedos
+T10	SINTOMA 1255 1305	Imposibilidad para detectar pulso radial o cubital
+T11	SINTOMA 3021 3052	movilidad y sensibilidad distal
+T12	SINTOMA 1244 1251	Palidez
+T13	SINTOMA 2462 2486	sangrado activo arterial
+T14	ENFERMEDAD 87 108	hipertensión arterial
+T15	ENFERMEDAD 112 130	carcinoma de recto
+T16	ENFERMEDAD 512 519	SCASEST
+T17	ENFERMEDAD 1687 1729	síndrome compartimental agudo en antebrazo
+T18	ENFERMEDAD 334 355	artrosis generalizada
+T19	ENFERMEDAD 2428 2486	lesiones vasculares con signos de sangrado activo arterial
+T20	ENFERMEDAD 906 994	hematoma en cara volar de antebrazo derecho en relación a zona de punción de cateterismo
+T21	ENFERMEDAD 2182 2190	hematoma
+T22	ENFERMEDAD 1387 1414	parálisis total del miembro
+T23	ENFERMEDAD 2538 2544	herida
+T24	PROCEDIMIENTO 1101 1112	exploración
+T25	PROCEDIMIENTO 1513 1617	medición de la presión intracompartimental con "Intra-Compartmental pressure monitor system" de Stryker®
+T26	PROCEDIMIENTO 157 169	radioterapia
+T27	PROCEDIMIENTO 171 178	cirugía
+T28	PROCEDIMIENTO 1751 1773	tratamiento quirúrgico
+T29	PROCEDIMIENTO 1786 1810	procedimiento quirúrgico
+T30	PROCEDIMIENTO 181 194	quimioterapia
+T31	PROCEDIMIENTO 1827 1844	anestesia general
+T32	PROCEDIMIENTO 1886 1905	mascarilla laríngea
+T33	PROCEDIMIENTO 1907 1929	Profilaxis antibiótica
+T34	PROCEDIMIENTO 1997 2057	incisión cutánea sobre línea media de cara volar de antebraz
+T35	PROCEDIMIENTO 2207 2305	sección longitudinal de la fascia antebraquial exponiendo la musculatura epitroclear del antebrazo
+T36	PROCEDIMIENTO 2329 2409	descompresión del nervio mediano mediante sección del ligamento anular del carpo
+T37	PROCEDIMIENTO 2528 2594	cubrir la herida con compresas estériles impregnadas en Nitrofural
+T38	PROCEDIMIENTO 2612 2705	cierre de circunstancias mediante malla con elásticos vasculares (vessel loops) de contención
+T39	PROCEDIMIENTO 2709 2730	vendaje no compresivo
+T40	PROCEDIMIENTO 271 291	analgésicos opioides
+T41	PROCEDIMIENTO 2778 2789	fasciotomía
+T42	PROCEDIMIENTO 649 744	Intervención Coronaria Percutánea primaria por vía radial derecha, con colocación de dos stents
+T43	PROCEDIMIENTO 983 994	cateterismo

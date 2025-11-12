@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 817 858	tumor odontogénico epitelial calcificante
-T2	ENFERMEDAD 250 286	exadicto a drogas por vía parenteral
-T3	ENFERMEDAD 1148 1202	tumor odontogénico epitelial calcificante de mandíbula
-T4	ENFERMEDAD 1373 1383	metástasis
-T5	ENFERMEDAD 1484 1491	heridas
-T6	ENFERMEDAD 569 646	lesión mixta con calcificaciones en su interior que afectaba la hemimandíbula
-T7	ENFERMEDAD 683 728	lesión mixta expansiva en cuerpo de mandíbula
-T8	ENFERMEDAD 1209 1246	infiltraba partes blandas periósticas
-T9	PROCEDIMIENTO 1297 1348	biopsia intraoperatoria de ganglio de cadena facial
-T10	PROCEDIMIENTO 339 355	antiretrovirales
-T11	PROCEDIMIENTO 362 373	exploración
-T12	PROCEDIMIENTO 538 555	ortopantomografía
-T13	PROCEDIMIENTO 663 665	TC
-T14	PROCEDIMIENTO 786 793	biopsia
-T15	PROCEDIMIENTO 891 964	hemimandibulectomía derecha con reconstrucción microquirúrgica con peroné
-T16	PROCEDIMIENTO 970 989	anatomía patológica
-T17	SINTOMA 1001 1005	masa
-T18	SINTOMA 391 412	tumoración mandibular
-T19	SINTOMA 159 180	tumoración mandibular
-T20	SINTOMA 292 304	VHC positivo
-T21	SINTOMA 307 319	VIH positivo
+T1	SINTOMA 1001 1005	masa
+T2	SINTOMA 391 412	tumoración mandibular
+T3	SINTOMA 159 180	tumoración mandibular
+T4	SINTOMA 292 304	VHC positivo
+T5	SINTOMA 307 319	VIH positivo
+T6	ENFERMEDAD 817 858	tumor odontogénico epitelial calcificante
+T7	ENFERMEDAD 250 286	exadicto a drogas por vía parenteral
+T8	ENFERMEDAD 1148 1202	tumor odontogénico epitelial calcificante de mandíbula
+T9	ENFERMEDAD 1373 1383	metástasis
+T10	ENFERMEDAD 1484 1491	heridas
+T11	ENFERMEDAD 569 646	lesión mixta con calcificaciones en su interior que afectaba la hemimandíbula
+T12	ENFERMEDAD 683 728	lesión mixta expansiva en cuerpo de mandíbula
+T13	ENFERMEDAD 1209 1246	infiltraba partes blandas periósticas
+T14	PROCEDIMIENTO 1297 1348	biopsia intraoperatoria de ganglio de cadena facial
+T15	PROCEDIMIENTO 339 355	antiretrovirales
+T16	PROCEDIMIENTO 362 373	exploración
+T17	PROCEDIMIENTO 538 555	ortopantomografía
+T18	PROCEDIMIENTO 663 665	TC
+T19	PROCEDIMIENTO 786 793	biopsia
+T20	PROCEDIMIENTO 891 964	hemimandibulectomía derecha con reconstrucción microquirúrgica con peroné
+T21	PROCEDIMIENTO 970 989	anatomía patológica

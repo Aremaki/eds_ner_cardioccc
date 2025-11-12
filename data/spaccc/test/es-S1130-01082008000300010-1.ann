@@ -1,67 +1,67 @@
-T1	ENFERMEDAD 21 36	hábitos tóxicos
-T2	ENFERMEDAD 331 366	catarro de vías respiratorias altas
-T3	ENFERMEDAD 58 83	intolerancia a la lactosa
-T4	ENFERMEDAD 1712 1753	insuficiencia ventilatoria no obstructiva
-T5	ENFERMEDAD 110 172	enfermedad de Crohn con patrón inflamatorio y afectación ileal
-T6	ENFERMEDAD 482 496	neumonía basal
-T7	ENFERMEDAD 219 226	uveítis
-T8	ENFERMEDAD 2888 2937	neumonía organizada con bronquiolitis obliterante
-T9	ENFERMEDAD 2912 2937	bronquiolitis obliterante
-T10	ENFERMEDAD 2224 2232	lesiones
-T11	ENFERMEDAD 2806 2814	lesiones
-T12	PROCEDIMIENTO 1049 1059	Bioquímica
-T13	PROCEDIMIENTO 1091 1102	Coagulación
-T14	PROCEDIMIENTO 1127 1176	Hemocultivos negativos para anaerobios y aerobios
-T15	PROCEDIMIENTO 1178 1187	Serología
-T16	PROCEDIMIENTO 1203 1226	Bacteriología de esputo
-T17	PROCEDIMIENTO 1237 1260	Ag bacterianos en orina
-T18	PROCEDIMIENTO 1302 1313	Rx de tórax
-T19	PROCEDIMIENTO 1401 1423	controles radiológicos
-T20	PROCEDIMIENTO 1620 1632	Espirometría
-T21	PROCEDIMIENTO 1757 1769	TAC torácico
-T22	PROCEDIMIENTO 2124 2169	fibrobroncoscopia con lavado bronquioalveolar
-T23	PROCEDIMIENTO 2146 2169	lavado bronquioalveolar
-T24	PROCEDIMIENTO 2171 2174	BAL
-T25	PROCEDIMIENTO 2178 2200	biopsia transbronquial
-T26	PROCEDIMIENTO 2202 2205	BTB
-T27	PROCEDIMIENTO 2276 2296	Microbiología de BAL
-T28	PROCEDIMIENTO 2329 2350	cultivo de Legionella
-T29	PROCEDIMIENTO 2352 2356	Gram
-T30	PROCEDIMIENTO 2358 2362	BAAR
-T31	PROCEDIMIENTO 2365 2371	hongos
-T32	PROCEDIMIENTO 2382 2385	BAL
-T33	PROCEDIMIENTO 2523 2545	Biopsia transbronquial
-T34	PROCEDIMIENTO 2710 2713	PAS
-T35	PROCEDIMIENTO 3134 3156	controles radiológicos
-T36	PROCEDIMIENTO 530 542	antibióticos
-T37	PROCEDIMIENTO 545 556	mucolíticos
-T38	PROCEDIMIENTO 752 770	exploración física
-T39	PROCEDIMIENTO 816 837	auscultación pulmonar
-T40	SINTOMA 3011 3017	fiebre
-T41	SINTOMA 435 441	fiebre
-T42	SINTOMA 601 607	disnea
-T43	SINTOMA 634 641	astenia
-T44	SINTOMA 3115 3127	asintomático
-T45	SINTOMA 402 405	tos
-T46	SINTOMA 1237 1298	Ag bacterianos en orina: negativo para neumococo y legionella
-T47	SINTOMA 2251 2274	alteración de la mucosa
-T48	SINTOMA 1203 1235	Bacteriología de esputo negativa
-T49	SINTOMA 1091 1110	Coagulación: normal
-T50	SINTOMA 1540 1571	condensación en lóbulo superior
-T51	SINTOMA 1836 1849	consolidación
-T52	SINTOMA 1910 1964	consolidación en resolución parcial en lóbulo inferior
-T53	SINTOMA 1771 1826	consolidación parenquimatosa extensa en lóbulo superior
-T54	SINTOMA 3134 3169	controles radiológicos son normales
-T55	SINTOMA 838 857	crepitantes en base
-T56	SINTOMA 2329 2380	cultivo de Legionella, Gram, BAAR y hongos negativo
-T57	SINTOMA 407 432	expectoración blanquecina
-T58	SINTOMA 609 632	expectoración purulenta
-T59	SINTOMA 2298 2324	flora normal de vías altas
-T60	SINTOMA 1127 1176	Hemocultivos negativos para anaerobios y aerobios
-T61	SINTOMA 1987 2006	infiltrado alveolar
-T62	SINTOMA 1326 1348	infiltrados alveolares
-T63	SINTOMA 1597 1616	infiltrados basales
-T64	SINTOMA 2224 2246	lesiones endoluminales
-T65	SINTOMA 779 794	palidez de piel
-T66	SINTOMA 1866 1900	pérdida de volumen en lóbulo medio
-T67	SINTOMA 1178 1201	Serología VIH: negativa
+T1	SINTOMA 3011 3017	fiebre
+T2	SINTOMA 435 441	fiebre
+T3	SINTOMA 601 607	disnea
+T4	SINTOMA 634 641	astenia
+T5	SINTOMA 3115 3127	asintomático
+T6	SINTOMA 402 405	tos
+T7	SINTOMA 1237 1298	Ag bacterianos en orina: negativo para neumococo y legionella
+T8	SINTOMA 2251 2274	alteración de la mucosa
+T9	SINTOMA 1203 1235	Bacteriología de esputo negativa
+T10	SINTOMA 1091 1110	Coagulación: normal
+T11	SINTOMA 1540 1571	condensación en lóbulo superior
+T12	SINTOMA 1836 1849	consolidación
+T13	SINTOMA 1910 1964	consolidación en resolución parcial en lóbulo inferior
+T14	SINTOMA 1771 1826	consolidación parenquimatosa extensa en lóbulo superior
+T15	SINTOMA 3134 3169	controles radiológicos son normales
+T16	SINTOMA 838 857	crepitantes en base
+T17	SINTOMA 2329 2380	cultivo de Legionella, Gram, BAAR y hongos negativo
+T18	SINTOMA 407 432	expectoración blanquecina
+T19	SINTOMA 609 632	expectoración purulenta
+T20	SINTOMA 2298 2324	flora normal de vías altas
+T21	SINTOMA 1127 1176	Hemocultivos negativos para anaerobios y aerobios
+T22	SINTOMA 1987 2006	infiltrado alveolar
+T23	SINTOMA 1326 1348	infiltrados alveolares
+T24	SINTOMA 1597 1616	infiltrados basales
+T25	SINTOMA 2224 2246	lesiones endoluminales
+T26	SINTOMA 779 794	palidez de piel
+T27	SINTOMA 1866 1900	pérdida de volumen en lóbulo medio
+T28	SINTOMA 1178 1201	Serología VIH: negativa
+T29	ENFERMEDAD 21 36	hábitos tóxicos
+T30	ENFERMEDAD 331 366	catarro de vías respiratorias altas
+T31	ENFERMEDAD 58 83	intolerancia a la lactosa
+T32	ENFERMEDAD 1712 1753	insuficiencia ventilatoria no obstructiva
+T33	ENFERMEDAD 110 172	enfermedad de Crohn con patrón inflamatorio y afectación ileal
+T34	ENFERMEDAD 482 496	neumonía basal
+T35	ENFERMEDAD 219 226	uveítis
+T36	ENFERMEDAD 2888 2937	neumonía organizada con bronquiolitis obliterante
+T37	ENFERMEDAD 2912 2937	bronquiolitis obliterante
+T38	ENFERMEDAD 2224 2232	lesiones
+T39	ENFERMEDAD 2806 2814	lesiones
+T40	PROCEDIMIENTO 1049 1059	Bioquímica
+T41	PROCEDIMIENTO 1091 1102	Coagulación
+T42	PROCEDIMIENTO 1127 1176	Hemocultivos negativos para anaerobios y aerobios
+T43	PROCEDIMIENTO 1178 1187	Serología
+T44	PROCEDIMIENTO 1203 1226	Bacteriología de esputo
+T45	PROCEDIMIENTO 1237 1260	Ag bacterianos en orina
+T46	PROCEDIMIENTO 1302 1313	Rx de tórax
+T47	PROCEDIMIENTO 1401 1423	controles radiológicos
+T48	PROCEDIMIENTO 1620 1632	Espirometría
+T49	PROCEDIMIENTO 1757 1769	TAC torácico
+T50	PROCEDIMIENTO 2124 2169	fibrobroncoscopia con lavado bronquioalveolar
+T51	PROCEDIMIENTO 2146 2169	lavado bronquioalveolar
+T52	PROCEDIMIENTO 2171 2174	BAL
+T53	PROCEDIMIENTO 2178 2200	biopsia transbronquial
+T54	PROCEDIMIENTO 2202 2205	BTB
+T55	PROCEDIMIENTO 2276 2296	Microbiología de BAL
+T56	PROCEDIMIENTO 2329 2350	cultivo de Legionella
+T57	PROCEDIMIENTO 2352 2356	Gram
+T58	PROCEDIMIENTO 2358 2362	BAAR
+T59	PROCEDIMIENTO 2365 2371	hongos
+T60	PROCEDIMIENTO 2382 2385	BAL
+T61	PROCEDIMIENTO 2523 2545	Biopsia transbronquial
+T62	PROCEDIMIENTO 2710 2713	PAS
+T63	PROCEDIMIENTO 3134 3156	controles radiológicos
+T64	PROCEDIMIENTO 530 542	antibióticos
+T65	PROCEDIMIENTO 545 556	mucolíticos
+T66	PROCEDIMIENTO 752 770	exploración física
+T67	PROCEDIMIENTO 816 837	auscultación pulmonar

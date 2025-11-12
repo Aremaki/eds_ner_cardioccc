@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 66 81	asma extrínseca
-T2	ENFERMEDAD 810 839	malformación de Chiari tipo I
-T3	ENFERMEDAD 1383 1403	síndrome de Chiari I
-T4	ENFERMEDAD 211 235	punción dural accidental
-T5	PROCEDIMIENTO 1025 1049	parche hemático epidural
-T6	PROCEDIMIENTO 1097 1105	epidural
-T7	PROCEDIMIENTO 1150 1161	analgésicos
-T8	PROCEDIMIENTO 1298 1300	RM
-T9	PROCEDIMIENTO 137 151	parto eutócico
-T10	PROCEDIMIENTO 247 281	realización de la técnica epidural
-T11	PROCEDIMIENTO 403 409	reposo
-T12	PROCEDIMIENTO 526 537	analgésicos
-T13	PROCEDIMIENTO 708 729	maniobras de Valsalva
-T14	PROCEDIMIENTO 752 786	resonancia magnética (RM) cerebral
-T15	PROCEDIMIENTO 774 776	RM
-T16	PROCEDIMIENTO 98 116	analgesia epidural
-T17	PROCEDIMIENTO 995 1004	anestesia
-T18	SINTOMA 1511 1516	dolor
-T19	SINTOMA 1618 1621	tos
-T20	SINTOMA 1167 1172	dolor
-T21	SINTOMA 560 565	dolor
-T22	SINTOMA 731 738	Afebril
-T23	SINTOMA 284 301	cefalea occipital
-T24	SINTOMA 841 913	desplazamiento caudal de las amígdalas cerebelosas por el orificio magno
-T25	SINTOMA 482 497	dolor occipital
-T26	SINTOMA 655 670	dolor occipital
-T27	SINTOMA 917 953	engrosamiento difuso de las meninges
-T28	SINTOMA 1450 1472	engrosamiento meníngeo
+T1	SINTOMA 1511 1516	dolor
+T2	SINTOMA 1618 1621	tos
+T3	SINTOMA 1167 1172	dolor
+T4	SINTOMA 560 565	dolor
+T5	SINTOMA 731 738	Afebril
+T6	SINTOMA 284 301	cefalea occipital
+T7	SINTOMA 841 913	desplazamiento caudal de las amígdalas cerebelosas por el orificio magno
+T8	SINTOMA 482 497	dolor occipital
+T9	SINTOMA 655 670	dolor occipital
+T10	SINTOMA 917 953	engrosamiento difuso de las meninges
+T11	SINTOMA 1450 1472	engrosamiento meníngeo
+T12	ENFERMEDAD 66 81	asma extrínseca
+T13	ENFERMEDAD 810 839	malformación de Chiari tipo I
+T14	ENFERMEDAD 1383 1403	síndrome de Chiari I
+T15	ENFERMEDAD 211 235	punción dural accidental
+T16	PROCEDIMIENTO 1025 1049	parche hemático epidural
+T17	PROCEDIMIENTO 1097 1105	epidural
+T18	PROCEDIMIENTO 1150 1161	analgésicos
+T19	PROCEDIMIENTO 1298 1300	RM
+T20	PROCEDIMIENTO 137 151	parto eutócico
+T21	PROCEDIMIENTO 247 281	realización de la técnica epidural
+T22	PROCEDIMIENTO 403 409	reposo
+T23	PROCEDIMIENTO 526 537	analgésicos
+T24	PROCEDIMIENTO 708 729	maniobras de Valsalva
+T25	PROCEDIMIENTO 752 786	resonancia magnética (RM) cerebral
+T26	PROCEDIMIENTO 774 776	RM
+T27	PROCEDIMIENTO 98 116	analgesia epidural
+T28	PROCEDIMIENTO 995 1004	anestesia

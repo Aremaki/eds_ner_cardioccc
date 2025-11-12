@@ -1,79 +1,79 @@
-T1	ENFERMEDAD 753 756	HTA
-T2	ENFERMEDAD 4212 4304	hiponatremia grave hipotónica sintomática secundaria a tratamiento tiazídico asociado a ISRS
-T3	ENFERMEDAD 773 794	Cardiopatía isquémica
-T4	ENFERMEDAD 1273 1285	hiponatremia
-T5	ENFERMEDAD 796 799	IAM
-T6	ENFERMEDAD 810 833	Arteriopatía periférica
-T7	ENFERMEDAD 3094 3102	ansiedad
-T8	ENFERMEDAD 871 882	Prostatismo
-T9	ENFERMEDAD 908 922	Hipotiroidismo
-T10	ENFERMEDAD 4674 4690	cuadro depresivo
-T11	ENFERMEDAD 951 988	Síndrome depresivo de larga evolución
-T12	ENFERMEDAD 1558 1582	sintomatología depresiva
-T13	ENFERMEDAD 2487 2511	sintomatología depresiva
-T14	ENFERMEDAD 3962 3974	hiponatremia
-T15	ENFERMEDAD 2725 2750	atrofia cortical moderada
-T16	ENFERMEDAD 1979 1991	Hiponatremia
-T17	ENFERMEDAD 2932 2978	Hiponatremia por SIADH secundario a citalopram
-T18	ENFERMEDAD 2677 2706	lesiones ocupantes de espacio
-T19	ENFERMEDAD 2753 2798	lesiones de sustancia blanca supratentoriales
-T20	ENFERMEDAD 4715 4723	ansiedad
-T21	ENFERMEDAD 4735 4757	temores hipocondríacos
-T22	PROCEDIMIENTO 1028 1043	benzodiacepinas
-T23	PROCEDIMIENTO 1061 1075	antidepresivos
-T24	PROCEDIMIENTO 1737 1756	restricción hídrica
-T25	PROCEDIMIENTO 2010 2020	diuréticos
-T26	PROCEDIMIENTO 2301 2326	tratamiento con diurético
-T27	PROCEDIMIENTO 2388 2412	medicación antidepresiva
-T28	PROCEDIMIENTO 2593 2604	TAC craneal
-T29	PROCEDIMIENTO 2710 2720	RM craneal
-T30	PROCEDIMIENTO 2811 2830	restricción hídrica
-T31	PROCEDIMIENTO 3171 3196	tratamiento antidepresivo
-T32	PROCEDIMIENTO 3568 3587	estímulos dolorosos
-T33	PROCEDIMIENTO 3789 3807	exploración física
-T34	PROCEDIMIENTO 4096 4116	Radiografía de tórax
-T35	PROCEDIMIENTO 4119 4122	ECG
-T36	PROCEDIMIENTO 4267 4288	tratamiento tiazídico
-T37	PROCEDIMIENTO 4300 4304	ISRS
-T38	PROCEDIMIENTO 4356 4375	restricción hídrica
-T39	PROCEDIMIENTO 4609 4648	tratamiento farmacológico antidepresivo
-T40	PROCEDIMIENTO 4798 4823	tratamiento antidepresivo
-T41	PROCEDIMIENTO 5240 5268	tratamiento antihipertensivo
-T42	PROCEDIMIENTO 5313 5334	diuréticos tiazídicos
-T43	PROCEDIMIENTO 908 949	Hipotiroidismo en tratamiento sustitutivo
-T44	SINTOMA 2196 2203	náuseas
-T45	SINTOMA 2207 2214	vómitos
-T46	SINTOMA 3304 3317	bradipsíquico
-T47	SINTOMA 3908 3919	somnolencia
-T48	SINTOMA 1438 1460	incontinencia urinaria
-T49	SINTOMA 1702 1723	agitaciones nocturnas
-T50	SINTOMA 3082 3092	ánimo bajo
-T51	SINTOMA 1656 1669	ánimo decaído
-T52	SINTOMA 3094 3102	ansiedad
-T53	SINTOMA 4715 4723	ansiedad
-T54	SINTOMA 3105 3111	apatía
-T55	SINTOMA 2725 2750	atrofia cortical moderada
-T56	SINTOMA 3989 4023	aumento de la osmolaridad urinaria
-T57	SINTOMA 183 204	desconexión del medio
-T58	SINTOMA 1462 1504	desorientación parcial en tiempo y espacio
-T59	SINTOMA 1326 1345	deterioro funcional
-T60	SINTOMA 4040 4080	disminución de la osmolaridad plasmática
-T61	SINTOMA 3733 3749	focalidad motora
-T62	SINTOMA 3324 3346	inhibición psicomotriz
-T63	SINTOMA 3495 3514	intensa somnolencia
-T64	SINTOMA 3631 3651	lenguaje incoherente
-T65	SINTOMA 3875 3890	lentitud motora
-T66	SINTOMA 2630 2673	lesiones hemorrágicas intra ni extraaxiales
-T67	SINTOMA 2677 2706	lesiones ocupantes de espacio
-T68	SINTOMA 4428 4473	normalización de niveles plasmáticos de sodio
-T69	SINTOMA 3752 3784	orientado en tiempo y en espacio
-T70	SINTOMA 887 906	PSA elevado-estable
-T71	SINTOMA 4096 4148	Radiografía de tórax y ECG, sin hallazgos relevantes
-T72	SINTOMA 3557 3587	responde a estímulos dolorosos
-T73	SINTOMA 2244 2274	sensación de debilidad en MMII
-T74	SINTOMA 2220 2241	sensación de malestar
-T75	SINTOMA 2136 2174	sensación de mareo con giro de objetos
-T76	SINTOMA 1671 1700	sensación de muerte inminente
-T77	SINTOMA 1558 1582	sintomatología depresiva
-T78	SINTOMA 2487 2511	sintomatología depresiva
-T79	SINTOMA 3281 3302	torpeza a nivel motor
+T1	SINTOMA 2196 2203	náuseas
+T2	SINTOMA 2207 2214	vómitos
+T3	SINTOMA 3304 3317	bradipsíquico
+T4	SINTOMA 3908 3919	somnolencia
+T5	SINTOMA 1438 1460	incontinencia urinaria
+T6	SINTOMA 1702 1723	agitaciones nocturnas
+T7	SINTOMA 3082 3092	ánimo bajo
+T8	SINTOMA 1656 1669	ánimo decaído
+T9	SINTOMA 3094 3102	ansiedad
+T10	SINTOMA 4715 4723	ansiedad
+T11	SINTOMA 3105 3111	apatía
+T12	SINTOMA 2725 2750	atrofia cortical moderada
+T13	SINTOMA 3989 4023	aumento de la osmolaridad urinaria
+T14	SINTOMA 183 204	desconexión del medio
+T15	SINTOMA 1462 1504	desorientación parcial en tiempo y espacio
+T16	SINTOMA 1326 1345	deterioro funcional
+T17	SINTOMA 4040 4080	disminución de la osmolaridad plasmática
+T18	SINTOMA 3733 3749	focalidad motora
+T19	SINTOMA 3324 3346	inhibición psicomotriz
+T20	SINTOMA 3495 3514	intensa somnolencia
+T21	SINTOMA 3631 3651	lenguaje incoherente
+T22	SINTOMA 3875 3890	lentitud motora
+T23	SINTOMA 2630 2673	lesiones hemorrágicas intra ni extraaxiales
+T24	SINTOMA 2677 2706	lesiones ocupantes de espacio
+T25	SINTOMA 4428 4473	normalización de niveles plasmáticos de sodio
+T26	SINTOMA 3752 3784	orientado en tiempo y en espacio
+T27	SINTOMA 887 906	PSA elevado-estable
+T28	SINTOMA 4096 4148	Radiografía de tórax y ECG, sin hallazgos relevantes
+T29	SINTOMA 3557 3587	responde a estímulos dolorosos
+T30	SINTOMA 2244 2274	sensación de debilidad en MMII
+T31	SINTOMA 2220 2241	sensación de malestar
+T32	SINTOMA 2136 2174	sensación de mareo con giro de objetos
+T33	SINTOMA 1671 1700	sensación de muerte inminente
+T34	SINTOMA 1558 1582	sintomatología depresiva
+T35	SINTOMA 2487 2511	sintomatología depresiva
+T36	SINTOMA 3281 3302	torpeza a nivel motor
+T37	ENFERMEDAD 753 756	HTA
+T38	ENFERMEDAD 4212 4304	hiponatremia grave hipotónica sintomática secundaria a tratamiento tiazídico asociado a ISRS
+T39	ENFERMEDAD 773 794	Cardiopatía isquémica
+T40	ENFERMEDAD 1273 1285	hiponatremia
+T41	ENFERMEDAD 796 799	IAM
+T42	ENFERMEDAD 810 833	Arteriopatía periférica
+T43	ENFERMEDAD 3094 3102	ansiedad
+T44	ENFERMEDAD 871 882	Prostatismo
+T45	ENFERMEDAD 908 922	Hipotiroidismo
+T46	ENFERMEDAD 4674 4690	cuadro depresivo
+T47	ENFERMEDAD 951 988	Síndrome depresivo de larga evolución
+T48	ENFERMEDAD 1558 1582	sintomatología depresiva
+T49	ENFERMEDAD 2487 2511	sintomatología depresiva
+T50	ENFERMEDAD 3962 3974	hiponatremia
+T51	ENFERMEDAD 2725 2750	atrofia cortical moderada
+T52	ENFERMEDAD 1979 1991	Hiponatremia
+T53	ENFERMEDAD 2932 2978	Hiponatremia por SIADH secundario a citalopram
+T54	ENFERMEDAD 2677 2706	lesiones ocupantes de espacio
+T55	ENFERMEDAD 2753 2798	lesiones de sustancia blanca supratentoriales
+T56	ENFERMEDAD 4715 4723	ansiedad
+T57	ENFERMEDAD 4735 4757	temores hipocondríacos
+T58	PROCEDIMIENTO 1028 1043	benzodiacepinas
+T59	PROCEDIMIENTO 1061 1075	antidepresivos
+T60	PROCEDIMIENTO 1737 1756	restricción hídrica
+T61	PROCEDIMIENTO 2010 2020	diuréticos
+T62	PROCEDIMIENTO 2301 2326	tratamiento con diurético
+T63	PROCEDIMIENTO 2388 2412	medicación antidepresiva
+T64	PROCEDIMIENTO 2593 2604	TAC craneal
+T65	PROCEDIMIENTO 2710 2720	RM craneal
+T66	PROCEDIMIENTO 2811 2830	restricción hídrica
+T67	PROCEDIMIENTO 3171 3196	tratamiento antidepresivo
+T68	PROCEDIMIENTO 3568 3587	estímulos dolorosos
+T69	PROCEDIMIENTO 3789 3807	exploración física
+T70	PROCEDIMIENTO 4096 4116	Radiografía de tórax
+T71	PROCEDIMIENTO 4119 4122	ECG
+T72	PROCEDIMIENTO 4267 4288	tratamiento tiazídico
+T73	PROCEDIMIENTO 4300 4304	ISRS
+T74	PROCEDIMIENTO 4356 4375	restricción hídrica
+T75	PROCEDIMIENTO 4609 4648	tratamiento farmacológico antidepresivo
+T76	PROCEDIMIENTO 4798 4823	tratamiento antidepresivo
+T77	PROCEDIMIENTO 5240 5268	tratamiento antihipertensivo
+T78	PROCEDIMIENTO 5313 5334	diuréticos tiazídicos
+T79	PROCEDIMIENTO 908 949	Hipotiroidismo en tratamiento sustitutivo

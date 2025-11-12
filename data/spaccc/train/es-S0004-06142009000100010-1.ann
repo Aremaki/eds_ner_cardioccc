@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 680 702	hematuria macroscópica
-T2	ENFERMEDAD 1303 1317	tumor de Wilms
-T3	ENFERMEDAD 1459 1489	nefroma meso-blástico quístico
-T4	ENFERMEDAD 1320 1335	adeno-carcinoma
-T5	ENFERMEDAD 1491 1516	quiste renal multilocular
-T6	ENFERMEDAD 217 264	hemihipertrofia facial por tortícolis congénito
-T7	ENFERMEDAD 266 274	varicela
-T8	ENFERMEDAD 276 300	mononucleosis infecciosa
-T9	ENFERMEDAD 338 346	neumonía
-T10	ENFERMEDAD 363 384	traumatismo en cóccix
-T11	ENFERMEDAD 1227 1275	adenomegalias inter-cavoaórticas ni periaórticas
-T12	ENFERMEDAD 107 129	hematuria macroscópica
-T13	SINTOMA 302 319	enúresis nocturna
-T14	SINTOMA 680 689	hematuria
-T15	SINTOMA 107 129	hematuria macroscópica
-T16	SINTOMA 531 658	hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales
-T17	SINTOMA 1280 1284	masa
-T18	SINTOMA 1388 1392	masa
-T19	SINTOMA 725 767	masa de 5cm de diámetro en riñón izquierdo
-T20	SINTOMA 972 1049	masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico
-T21	SINTOMA 413 428	palidez cutánea
+T1	SINTOMA 302 319	enúresis nocturna
+T2	SINTOMA 680 689	hematuria
+T3	SINTOMA 107 129	hematuria macroscópica
+T4	SINTOMA 531 658	hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales
+T5	SINTOMA 1280 1284	masa
+T6	SINTOMA 1388 1392	masa
+T7	SINTOMA 725 767	masa de 5cm de diámetro en riñón izquierdo
+T8	SINTOMA 972 1049	masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico
+T9	SINTOMA 413 428	palidez cutánea
+T10	ENFERMEDAD 680 702	hematuria macroscópica
+T11	ENFERMEDAD 1303 1317	tumor de Wilms
+T12	ENFERMEDAD 1459 1489	nefroma meso-blástico quístico
+T13	ENFERMEDAD 1320 1335	adeno-carcinoma
+T14	ENFERMEDAD 1491 1516	quiste renal multilocular
+T15	ENFERMEDAD 217 264	hemihipertrofia facial por tortícolis congénito
+T16	ENFERMEDAD 266 274	varicela
+T17	ENFERMEDAD 276 300	mononucleosis infecciosa
+T18	ENFERMEDAD 338 346	neumonía
+T19	ENFERMEDAD 363 384	traumatismo en cóccix
+T20	ENFERMEDAD 1227 1275	adenomegalias inter-cavoaórticas ni periaórticas
+T21	ENFERMEDAD 107 129	hematuria macroscópica

@@ -1,57 +1,57 @@
-T1	ENFERMEDAD 2256 2299	síndrome postlaminectomía cervical y lumbar
-T2	ENFERMEDAD 1978 2002	fracturó ambos calcáneos
-T3	ENFERMEDAD 173 188	hernia de hiato
-T4	ENFERMEDAD 3681 3687	caries
-T5	ENFERMEDAD 2120 2129	depresión
-T6	ENFERMEDAD 2134 2155	fractura de calcáneos
-T7	ENFERMEDAD 3720 3764	pérdida de un total de diez piezas dentarias
-T8	ENFERMEDAD 4130 4150	trastornos dentarios
-T9	ENFERMEDAD 2177 2221	distrofia simpático-refleja de ambas piernas
-T10	ENFERMEDAD 1838 1853	úlcera duodenal
-T11	ENFERMEDAD 457 483	hernia discal lumbar L4-L5
-T12	ENFERMEDAD 1868 1883	hernia de hiato
-T13	ENFERMEDAD 4419 4425	caries
-T14	ENFERMEDAD 1912 1920	ansiedad
-T15	ENFERMEDAD 1923 1932	depresión
-T16	ENFERMEDAD 655 675	inestabilidad lumbar
-T17	ENFERMEDAD 1008 1040	fibrosis epidural postquirúrgica
-T18	ENFERMEDAD 1043 1068	síndrome postlaminectomía
-T19	PROCEDIMIENTO 1146 1184	retirada del material de osteosíntesis
-T20	PROCEDIMIENTO 1220 1274	discectomía cervical con laminectomía a nivel de C3-C4
-T21	PROCEDIMIENTO 1245 1274	laminectomía a nivel de C3-C4
-T22	PROCEDIMIENTO 1576 1600	neuroestimulador medular
-T23	PROCEDIMIENTO 1726 1737	analgésicos
-T24	PROCEDIMIENTO 1740 1757	antiinflamatorios
-T25	PROCEDIMIENTO 2511 2525	uso de muletas
-T26	PROCEDIMIENTO 2652 2663	exploración
-T27	PROCEDIMIENTO 3033 3064	antinflamatorios no esteroideos
-T28	PROCEDIMIENTO 3071 3079	mórficos
-T29	PROCEDIMIENTO 3093 3107	anticomiciales
-T30	PROCEDIMIENTO 3109 3121	ansiolíticos
-T31	PROCEDIMIENTO 3124 3138	antidepresivos
-T32	PROCEDIMIENTO 503 521	discectomía lumbar
-T33	PROCEDIMIENTO 524 536	laminectomía
-T34	PROCEDIMIENTO 701 724	intervención quirúrgica
-T35	PROCEDIMIENTO 733 767	fijación de las vértebras lumbares
-T36	SINTOMA 2981 2986	dolor
-T37	SINTOMA 2038 2043	dolor
-T38	SINTOMA 1313 1318	dolor
-T39	SINTOMA 3315 3320	dolor
-T40	SINTOMA 1804 1809	dolor
-T41	SINTOMA 2793 2798	dolor
-T42	SINTOMA 849 860	parestesias
-T43	SINTOMA 867 884	dolor neuropático
-T44	SINTOMA 928 941	estreñimiento
-T45	SINTOMA 393 401	dolorosa
-T46	SINTOMA 2741 2776	afectación grave de la sensibilidad
-T47	SINTOMA 2882 2918	dificultades motoras y esfinterianas
-T48	SINTOMA 944 973	dificultades para la erección
-T49	SINTOMA 340 373	dolor a hombros, brazos y piernas
-T50	SINTOMA 2315 2360	dolor continuo, de intensidad moderada-severa
-T51	SINTOMA 3480 3504	exacerbaciones dolorosas
-T52	SINTOMA 655 675	inestabilidad lumbar
-T53	SINTOMA 2570 2645	limitación de la movilidad, especialmente en las regiones cervical y lumbar
-T54	SINTOMA 272 322	molestias tanto en la columna cervical como lumbar
-T55	SINTOMA 2692 2727	signo de Lasegue positivo bilateral
-T56	SINTOMA 904 926	trastornos miccionales
-T57	SINTOMA 2808 2869	zonas hipoestésicas y espásticas en ambos miembros inferiores
+T1	SINTOMA 2981 2986	dolor
+T2	SINTOMA 2038 2043	dolor
+T3	SINTOMA 1313 1318	dolor
+T4	SINTOMA 3315 3320	dolor
+T5	SINTOMA 1804 1809	dolor
+T6	SINTOMA 2793 2798	dolor
+T7	SINTOMA 849 860	parestesias
+T8	SINTOMA 867 884	dolor neuropático
+T9	SINTOMA 928 941	estreñimiento
+T10	SINTOMA 393 401	dolorosa
+T11	SINTOMA 2741 2776	afectación grave de la sensibilidad
+T12	SINTOMA 2882 2918	dificultades motoras y esfinterianas
+T13	SINTOMA 944 973	dificultades para la erección
+T14	SINTOMA 340 373	dolor a hombros, brazos y piernas
+T15	SINTOMA 2315 2360	dolor continuo, de intensidad moderada-severa
+T16	SINTOMA 3480 3504	exacerbaciones dolorosas
+T17	SINTOMA 655 675	inestabilidad lumbar
+T18	SINTOMA 2570 2645	limitación de la movilidad, especialmente en las regiones cervical y lumbar
+T19	SINTOMA 272 322	molestias tanto en la columna cervical como lumbar
+T20	SINTOMA 2692 2727	signo de Lasegue positivo bilateral
+T21	SINTOMA 904 926	trastornos miccionales
+T22	SINTOMA 2808 2869	zonas hipoestésicas y espásticas en ambos miembros inferiores
+T23	ENFERMEDAD 2256 2299	síndrome postlaminectomía cervical y lumbar
+T24	ENFERMEDAD 1978 2002	fracturó ambos calcáneos
+T25	ENFERMEDAD 173 188	hernia de hiato
+T26	ENFERMEDAD 3681 3687	caries
+T27	ENFERMEDAD 2120 2129	depresión
+T28	ENFERMEDAD 2134 2155	fractura de calcáneos
+T29	ENFERMEDAD 3720 3764	pérdida de un total de diez piezas dentarias
+T30	ENFERMEDAD 4130 4150	trastornos dentarios
+T31	ENFERMEDAD 2177 2221	distrofia simpático-refleja de ambas piernas
+T32	ENFERMEDAD 1838 1853	úlcera duodenal
+T33	ENFERMEDAD 457 483	hernia discal lumbar L4-L5
+T34	ENFERMEDAD 1868 1883	hernia de hiato
+T35	ENFERMEDAD 4419 4425	caries
+T36	ENFERMEDAD 1912 1920	ansiedad
+T37	ENFERMEDAD 1923 1932	depresión
+T38	ENFERMEDAD 655 675	inestabilidad lumbar
+T39	ENFERMEDAD 1008 1040	fibrosis epidural postquirúrgica
+T40	ENFERMEDAD 1043 1068	síndrome postlaminectomía
+T41	PROCEDIMIENTO 1146 1184	retirada del material de osteosíntesis
+T42	PROCEDIMIENTO 1220 1274	discectomía cervical con laminectomía a nivel de C3-C4
+T43	PROCEDIMIENTO 1245 1274	laminectomía a nivel de C3-C4
+T44	PROCEDIMIENTO 1576 1600	neuroestimulador medular
+T45	PROCEDIMIENTO 1726 1737	analgésicos
+T46	PROCEDIMIENTO 1740 1757	antiinflamatorios
+T47	PROCEDIMIENTO 2511 2525	uso de muletas
+T48	PROCEDIMIENTO 2652 2663	exploración
+T49	PROCEDIMIENTO 3033 3064	antinflamatorios no esteroideos
+T50	PROCEDIMIENTO 3071 3079	mórficos
+T51	PROCEDIMIENTO 3093 3107	anticomiciales
+T52	PROCEDIMIENTO 3109 3121	ansiolíticos
+T53	PROCEDIMIENTO 3124 3138	antidepresivos
+T54	PROCEDIMIENTO 503 521	discectomía lumbar
+T55	PROCEDIMIENTO 524 536	laminectomía
+T56	PROCEDIMIENTO 701 724	intervención quirúrgica
+T57	PROCEDIMIENTO 733 767	fijación de las vértebras lumbares

@@ -1,29 +1,29 @@
-T1	ENFERMEDAD 74 90	Carcinoma pulmón
-T2	ENFERMEDAD 1170 1190	estesioneuroblastoma
-T3	ENFERMEDAD 92 101	Sinusitis
-T4	ENFERMEDAD 1774 1826	toxicidad máxima cutánea G1, mucosa G2 y orofaríngea
-T5	ENFERMEDAD 523 543	estesioneuroblastoma
-T6	ENFERMEDAD 729 755	lesión ocupante de espacio
-T7	ENFERMEDAD 600 615	masa polipoidea
-T8	ENFERMEDAD 1237 1298	seno maxilar derecho un engrosamiento polipoideo de la mucosa
-T9	PROCEDIMIENTO 1012 1028	gammagrafía ósea
-T10	PROCEDIMIENTO 1107 1136	cirugía funcional endoscópica
-T11	PROCEDIMIENTO 1147 1166	Anatomía Patológica
-T12	PROCEDIMIENTO 1198 1201	TAC
-T13	PROCEDIMIENTO 1397 1471	tratamiento adyuvante con Radioterapia externa, mediante Acelerador Lineal
-T14	PROCEDIMIENTO 1502 1610	cuñas de compensación tisular tras simulación virtual y planificación 3D sobre TC helicoidal individualizado
-T15	PROCEDIMIENTO 1879 1890	irradiación
-T16	PROCEDIMIENTO 248 258	rinoscopia
-T17	PROCEDIMIENTO 497 504	biopsia
-T18	PROCEDIMIENTO 556 578	TAC de cabeza y cuello
-T19	PROCEDIMIENTO 693 715	RNM de cabeza y cuello
-T20	PROCEDIMIENTO 969 989	estudio de extensión
-T21	PROCEDIMIENTO 993 1005	TAC de tórax
-T22	SINTOMA 61 70	fallecido
-T23	SINTOMA 194 202	rinorrea
-T24	SINTOMA 1317 1379	características de malignidad, a nivel de seno frontal derecho
-T25	SINTOMA 1261 1298	engrosamiento polipoideo de la mucosa
-T26	SINTOMA 205 214	epístaxis
-T27	SINTOMA 969 1042	estudio de extensión un TAC de tórax y una gammagrafía ósea sin patología
-T28	SINTOMA 275 337	masa en fosa nasal derecha de aspecto polipoideo muy sangrante
-T29	SINTOMA 600 615	masa polipoidea
+T1	SINTOMA 61 70	fallecido
+T2	SINTOMA 194 202	rinorrea
+T3	SINTOMA 1317 1379	características de malignidad, a nivel de seno frontal derecho
+T4	SINTOMA 1261 1298	engrosamiento polipoideo de la mucosa
+T5	SINTOMA 205 214	epístaxis
+T6	SINTOMA 969 1042	estudio de extensión un TAC de tórax y una gammagrafía ósea sin patología
+T7	SINTOMA 275 337	masa en fosa nasal derecha de aspecto polipoideo muy sangrante
+T8	SINTOMA 600 615	masa polipoidea
+T9	ENFERMEDAD 74 90	Carcinoma pulmón
+T10	ENFERMEDAD 1170 1190	estesioneuroblastoma
+T11	ENFERMEDAD 92 101	Sinusitis
+T12	ENFERMEDAD 1774 1826	toxicidad máxima cutánea G1, mucosa G2 y orofaríngea
+T13	ENFERMEDAD 523 543	estesioneuroblastoma
+T14	ENFERMEDAD 729 755	lesión ocupante de espacio
+T15	ENFERMEDAD 600 615	masa polipoidea
+T16	ENFERMEDAD 1237 1298	seno maxilar derecho un engrosamiento polipoideo de la mucosa
+T17	PROCEDIMIENTO 1012 1028	gammagrafía ósea
+T18	PROCEDIMIENTO 1107 1136	cirugía funcional endoscópica
+T19	PROCEDIMIENTO 1147 1166	Anatomía Patológica
+T20	PROCEDIMIENTO 1198 1201	TAC
+T21	PROCEDIMIENTO 1397 1471	tratamiento adyuvante con Radioterapia externa, mediante Acelerador Lineal
+T22	PROCEDIMIENTO 1502 1610	cuñas de compensación tisular tras simulación virtual y planificación 3D sobre TC helicoidal individualizado
+T23	PROCEDIMIENTO 1879 1890	irradiación
+T24	PROCEDIMIENTO 248 258	rinoscopia
+T25	PROCEDIMIENTO 497 504	biopsia
+T26	PROCEDIMIENTO 556 578	TAC de cabeza y cuello
+T27	PROCEDIMIENTO 693 715	RNM de cabeza y cuello
+T28	PROCEDIMIENTO 969 989	estudio de extensión
+T29	PROCEDIMIENTO 993 1005	TAC de tórax

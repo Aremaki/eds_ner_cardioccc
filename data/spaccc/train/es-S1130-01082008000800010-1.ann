@@ -1,25 +1,25 @@
-T1	ENFERMEDAD 44 59	diarrea crónica
-T2	ENFERMEDAD 1294 1330	carcinoma de células renales papilar
-T3	ENFERMEDAD 680 686	lesión
-T4	ENFERMEDAD 1090 1096	lesión
-T5	PROCEDIMIENTO 129 147	bioquímica general
-T6	PROCEDIMIENTO 1428 1440	intervención
-T7	PROCEDIMIENTO 149 158	hemograma
-T8	PROCEDIMIENTO 165 185	estudio inmunológico
-T9	PROCEDIMIENTO 187 201	perfil celiaco
-T10	PROCEDIMIENTO 204 222	parásitos de heces
-T11	PROCEDIMIENTO 292 316	colonoscopia hasta ciego
-T12	PROCEDIMIENTO 340 368	tránsito intestinal baritado
-T13	PROCEDIMIENTO 412 431	ecografía abdominal
-T14	PROCEDIMIENTO 646 649	TAC
-T15	PROCEDIMIENTO 852 887	nefrectomía laparoscópica izquierda
-T16	PROCEDIMIENTO 93 110	estudio analítico
-T17	SINTOMA 1395 1407	asintomático
-T18	SINTOMA 1446 1462	cuadro diarreico
-T19	SINTOMA 62 77	pérdida de peso
-T20	SINTOMA 129 237	bioquímica general, hemograma, TSH, estudio inmunológico, perfil celiaco y parásitos de heces que fue normal
-T21	SINTOMA 292 331	colonoscopia hasta ciego que fue normal
-T22	SINTOMA 44 59	diarrea crónica
-T23	SINTOMA 449 486	masa renal izquierda en polo superior
-T24	SINTOMA 242 276	proteína C reactiva estaba elevada
-T25	SINTOMA 340 404	tránsito intestinal baritado no se identificó ninguna alteración
+T1	SINTOMA 1395 1407	asintomático
+T2	SINTOMA 1446 1462	cuadro diarreico
+T3	SINTOMA 62 77	pérdida de peso
+T4	SINTOMA 129 237	bioquímica general, hemograma, TSH, estudio inmunológico, perfil celiaco y parásitos de heces que fue normal
+T5	SINTOMA 292 331	colonoscopia hasta ciego que fue normal
+T6	SINTOMA 44 59	diarrea crónica
+T7	SINTOMA 449 486	masa renal izquierda en polo superior
+T8	SINTOMA 242 276	proteína C reactiva estaba elevada
+T9	SINTOMA 340 404	tránsito intestinal baritado no se identificó ninguna alteración
+T10	ENFERMEDAD 44 59	diarrea crónica
+T11	ENFERMEDAD 1294 1330	carcinoma de células renales papilar
+T12	ENFERMEDAD 680 686	lesión
+T13	ENFERMEDAD 1090 1096	lesión
+T14	PROCEDIMIENTO 129 147	bioquímica general
+T15	PROCEDIMIENTO 1428 1440	intervención
+T16	PROCEDIMIENTO 149 158	hemograma
+T17	PROCEDIMIENTO 165 185	estudio inmunológico
+T18	PROCEDIMIENTO 187 201	perfil celiaco
+T19	PROCEDIMIENTO 204 222	parásitos de heces
+T20	PROCEDIMIENTO 292 316	colonoscopia hasta ciego
+T21	PROCEDIMIENTO 340 368	tránsito intestinal baritado
+T22	PROCEDIMIENTO 412 431	ecografía abdominal
+T23	PROCEDIMIENTO 646 649	TAC
+T24	PROCEDIMIENTO 852 887	nefrectomía laparoscópica izquierda
+T25	PROCEDIMIENTO 93 110	estudio analítico

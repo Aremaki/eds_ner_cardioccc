@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 75 95	silicosis complicada
-T2	ENFERMEDAD 103 112	Exfumador
-T3	ENFERMEDAD 154 175	tuberculosis pulmonar
-T4	ENFERMEDAD 713 739	insuficiencia respiratoria
-T5	ENFERMEDAD 1074 1083	silicosis
-T6	ENFERMEDAD 97 100	FMP
-T7	ENFERMEDAD 1157 1160	FMP
-T8	ENFERMEDAD 1592 1607	lesión cavitada
-T9	SINTOMA 1024 1057	afectación intersticial bilateral
-T10	SINTOMA 1179 1189	cavitación
-T11	SINTOMA 1404 1455	citología del broncoaspirado no demostró malignidad
-T12	SINTOMA 926 967	conglomerados en ambos lóbulos superiores
-T13	SINTOMA 1474 1507	cultivo de lowestein fue negativo
-T14	SINTOMA 1342 1398	fibrobroncoscopia que no mostró hallazgos significativos
-T15	SINTOMA 1246 1311	formaciones mamelonadas en su interior a nivel de lóbulo superior
-T16	SINTOMA 1120 1160	masas de fibrosis masiva progresiva (FMP
-T17	SINTOMA 892 921	patrón micronodular bilateral
-T18	SINTOMA 497 528	roncus y sibilantes bilaterales
-T19	SINTOMA 348 354	disnea
-T20	SINTOMA 357 381	expectoración hemoptoica
-T21	SINTOMA 443 452	febrícula
+T1	SINTOMA 1024 1057	afectación intersticial bilateral
+T2	SINTOMA 1179 1189	cavitación
+T3	SINTOMA 1404 1455	citología del broncoaspirado no demostró malignidad
+T4	SINTOMA 926 967	conglomerados en ambos lóbulos superiores
+T5	SINTOMA 1474 1507	cultivo de lowestein fue negativo
+T6	SINTOMA 1342 1398	fibrobroncoscopia que no mostró hallazgos significativos
+T7	SINTOMA 1246 1311	formaciones mamelonadas en su interior a nivel de lóbulo superior
+T8	SINTOMA 1120 1160	masas de fibrosis masiva progresiva (FMP
+T9	SINTOMA 892 921	patrón micronodular bilateral
+T10	SINTOMA 497 528	roncus y sibilantes bilaterales
+T11	SINTOMA 348 354	disnea
+T12	SINTOMA 357 381	expectoración hemoptoica
+T13	SINTOMA 443 452	febrícula
+T14	ENFERMEDAD 75 95	silicosis complicada
+T15	ENFERMEDAD 103 112	Exfumador
+T16	ENFERMEDAD 154 175	tuberculosis pulmonar
+T17	ENFERMEDAD 713 739	insuficiencia respiratoria
+T18	ENFERMEDAD 1074 1083	silicosis
+T19	ENFERMEDAD 97 100	FMP
+T20	ENFERMEDAD 1157 1160	FMP
+T21	ENFERMEDAD 1592 1607	lesión cavitada

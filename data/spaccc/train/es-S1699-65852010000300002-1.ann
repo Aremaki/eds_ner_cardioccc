@@ -1,8 +1,8 @@
-T1	ENFERMEDAD 147 184	pérdida del incisivo central superior
-T2	ENFERMEDAD 247 272	quiste radicular residual
-T3	ENFERMEDAD 1384 1400	quiste radicular
-T4	ENFERMEDAD 477 489	defecto óseo
-T5	ENFERMEDAD 1601 1613	defecto óseo
-T6	ENFERMEDAD 447 453	quiste
-T7	SINTOMA 1215 1220	dolor
-T8	SINTOMA 1223 1234	inflamación
+T1	SINTOMA 1215 1220	dolor
+T2	SINTOMA 1223 1234	inflamación
+T3	ENFERMEDAD 147 184	pérdida del incisivo central superior
+T4	ENFERMEDAD 247 272	quiste radicular residual
+T5	ENFERMEDAD 1384 1400	quiste radicular
+T6	ENFERMEDAD 477 489	defecto óseo
+T7	ENFERMEDAD 1601 1613	defecto óseo
+T8	ENFERMEDAD 447 453	quiste

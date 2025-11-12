@@ -1,34 +1,34 @@
-T1	ENFERMEDAD 82 114	lesión pigmentada en iris de ojo
-T2	ENFERMEDAD 193 219	miopía media en ambos ojos
-T3	ENFERMEDAD 1138 1167	melanocitoma de cuerpo ciliar
-T4	ENFERMEDAD 1370 1415	erosión corneal por uso de lentes de contacto
-T5	ENFERMEDAD 1620 1647	glaucoma melanocitomalítico
-T6	ENFERMEDAD 655 663	lesiones
-T7	ENFERMEDAD 1441 1458	inflamación en CA
-T8	ENFERMEDAD 1745 1757	masa tumoral
-T9	ENFERMEDAD 2082 2094	melanocitoma
-T10	PROCEDIMIENTO 1397 1415	lentes de contacto
-T11	PROCEDIMIENTO 1544 1547	PIO
-T12	PROCEDIMIENTO 1661 1683	tratamiento quirúrgico
-T13	PROCEDIMIENTO 1696 1757	iridociclectomía «ab externo» con escisión de la masa tumoral
-T14	PROCEDIMIENTO 1852 1875	estudio histopatológico
-T15	PROCEDIMIENTO 573 576	PIO
-T16	PROCEDIMIENTO 594 605	gonioscopia
-T17	PROCEDIMIENTO 681 707	exploración bajo midriasis
-T18	PROCEDIMIENTO 812 824	fondo de ojo
-T19	PROCEDIMIENTO 853 883	Tomografia Axial Computarizada
-T20	PROCEDIMIENTO 885 888	TAC
-T21	SINTOMA 1198 1210	asintomática
-T22	SINTOMA 783 806	cristalino transparente
-T23	SINTOMA 1303 1310	estable
-T24	SINTOMA 646 650	masa
-T25	SINTOMA 497 501	masa
-T26	SINTOMA 1533 1547	aumento de PIO
-T27	SINTOMA 1221 1241	buena función visual
-T28	SINTOMA 312 361	en OD se observaba una masa pigmentada redondeada
-T29	SINTOMA 1077 1098	extensión extraocular
-T30	SINTOMA 812 848	fondo de ojo sin patología valorable
-T31	SINTOMA 1891 1906	masa pigmentada
-T32	SINTOMA 918 986	masa redondeada localizada entre la raíz del iris y el cuerpo ciliar
-T33	SINTOMA 250 297	ojo izquierdo no mostraba hallazgos patológicos
-T34	SINTOMA 573 587	PIO era normal
+T1	SINTOMA 1198 1210	asintomática
+T2	SINTOMA 783 806	cristalino transparente
+T3	SINTOMA 1303 1310	estable
+T4	SINTOMA 646 650	masa
+T5	SINTOMA 497 501	masa
+T6	SINTOMA 1533 1547	aumento de PIO
+T7	SINTOMA 1221 1241	buena función visual
+T8	SINTOMA 312 361	en OD se observaba una masa pigmentada redondeada
+T9	SINTOMA 1077 1098	extensión extraocular
+T10	SINTOMA 812 848	fondo de ojo sin patología valorable
+T11	SINTOMA 1891 1906	masa pigmentada
+T12	SINTOMA 918 986	masa redondeada localizada entre la raíz del iris y el cuerpo ciliar
+T13	SINTOMA 250 297	ojo izquierdo no mostraba hallazgos patológicos
+T14	SINTOMA 573 587	PIO era normal
+T15	ENFERMEDAD 82 114	lesión pigmentada en iris de ojo
+T16	ENFERMEDAD 193 219	miopía media en ambos ojos
+T17	ENFERMEDAD 1138 1167	melanocitoma de cuerpo ciliar
+T18	ENFERMEDAD 1370 1415	erosión corneal por uso de lentes de contacto
+T19	ENFERMEDAD 1620 1647	glaucoma melanocitomalítico
+T20	ENFERMEDAD 655 663	lesiones
+T21	ENFERMEDAD 1441 1458	inflamación en CA
+T22	ENFERMEDAD 1745 1757	masa tumoral
+T23	ENFERMEDAD 2082 2094	melanocitoma
+T24	PROCEDIMIENTO 1397 1415	lentes de contacto
+T25	PROCEDIMIENTO 1544 1547	PIO
+T26	PROCEDIMIENTO 1661 1683	tratamiento quirúrgico
+T27	PROCEDIMIENTO 1696 1757	iridociclectomía «ab externo» con escisión de la masa tumoral
+T28	PROCEDIMIENTO 1852 1875	estudio histopatológico
+T29	PROCEDIMIENTO 573 576	PIO
+T30	PROCEDIMIENTO 594 605	gonioscopia
+T31	PROCEDIMIENTO 681 707	exploración bajo midriasis
+T32	PROCEDIMIENTO 812 824	fondo de ojo
+T33	PROCEDIMIENTO 853 883	Tomografia Axial Computarizada
+T34	PROCEDIMIENTO 885 888	TAC

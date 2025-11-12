@@ -1,9 +1,9 @@
-T1	ENFERMEDAD 0 55	Lesión radiolúcida en rama y parte de cuerpo mandibular
-T2	ENFERMEDAD 172 196	ameloblastoma mandibular
-T3	ENFERMEDAD 222 228	lesión
-T4	PROCEDIMIENTO 163 170	biopsia
-T5	PROCEDIMIENTO 249 276	hemimandibulectomía derecha
-T6	PROCEDIMIENTO 282 342	colocación de prótesis de reconstrucción que incluye cóndilo
-T7	PROCEDIMIENTO 344 355	Radiografía
-T8	PROCEDIMIENTO 390 414	procedimiento quirúrgico
-T9	SINTOMA 433 476	regeneración ósea espontánea hemimandibular
+T1	SINTOMA 433 476	regeneración ósea espontánea hemimandibular
+T2	ENFERMEDAD 0 55	Lesión radiolúcida en rama y parte de cuerpo mandibular
+T3	ENFERMEDAD 172 196	ameloblastoma mandibular
+T4	ENFERMEDAD 222 228	lesión
+T5	PROCEDIMIENTO 163 170	biopsia
+T6	PROCEDIMIENTO 249 276	hemimandibulectomía derecha
+T7	PROCEDIMIENTO 282 342	colocación de prótesis de reconstrucción que incluye cóndilo
+T8	PROCEDIMIENTO 344 355	Radiografía
+T9	PROCEDIMIENTO 390 414	procedimiento quirúrgico

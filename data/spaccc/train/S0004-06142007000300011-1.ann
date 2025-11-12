@@ -1,49 +1,49 @@
-T1	ENFERMEDAD 511 554	arritmia completa por fibrilación auricular
-T2	ENFERMEDAD 533 554	fibrilación auricular
-T3	ENFERMEDAD 776 802	masa quística multilocular
-T4	ENFERMEDAD 887 898	tumor renal
-T5	ENFERMEDAD 2469 2474	tumor
-T6	ENFERMEDAD 3553 3558	tumor
-T7	ENFERMEDAD 3662 3675	tumor adiposo
-T8	ENFERMEDAD 3839 3908	mixoliposarcoma perirenal con indiferenciación hacia mixofibrosarcoma
-T9	ENFERMEDAD 3475 3517	fibrohistiocitoma maligno variante mixoide
-T10	ENFERMEDAD 3913 3955	fibrohistiocitoma maligno variante mixoide
-T11	ENFERMEDAD 1139 1151	masa tumoral
-T12	ENFERMEDAD 3454 3470	mixofibrosarcoma
-T13	ENFERMEDAD 3892 3908	mixofibrosarcoma
-T14	ENFERMEDAD 3110 3134	proliferación neoplásica
-T15	ENFERMEDAD 2693 2698	tumor
-T16	ENFERMEDAD 3637 3652	mixoliposarcoma
-T17	PROCEDIMIENTO 1060 1107	nefrectomía radical laparoscópica mano asistida
-T18	PROCEDIMIENTO 1172 1228	procedimiento quirúrgico con la colocación de 4 trócares
-T19	PROCEDIMIENTO 1361 1443	Se instalan además 2 trócares de 5 mm. en el epigastrio para separación del hígado
-T20	PROCEDIMIENTO 1448 1554	introducción de la mano del cirujano se realiza a través de una incisión oblicua en la fosa ilíaca derecha
-T21	PROCEDIMIENTO 1570 1589	nefrectomía radical
-T22	PROCEDIMIENTO 164 177	examen físico
-T23	PROCEDIMIENTO 1648 1747	riñón es colocado en una bolsa de polietileno y se extrae a través de la incisión de la fosa ilíaca
-T24	PROCEDIMIENTO 1976 1987	analgésicos
-T25	PROCEDIMIENTO 2082 2089	cirugía
-T26	PROCEDIMIENTO 2136 2143	cirugía
-T27	PROCEDIMIENTO 2301 2308	biopsia
-T28	PROCEDIMIENTO 2993 3011	examen histológico
-T29	PROCEDIMIENTO 3788 3805	anatomopatológico
-T30	PROCEDIMIENTO 4018 4031	función renal
-T31	PROCEDIMIENTO 4063 4070	cirugía
-T32	PROCEDIMIENTO 448 472	evaluación preoperatoria
-T33	PROCEDIMIENTO 484 502	electrocardiograma
-T34	PROCEDIMIENTO 556 565	hemograma
-T35	PROCEDIMIENTO 688 704	función hepática
-T36	PROCEDIMIENTO 728 759	tomografía computada de abdomen
-T37	PROCEDIMIENTO 965 972	cirugía
-T38	SINTOMA 647 684	albúmina y proteínas totales normales
-T39	SINTOMA 360 392	masa en flanco derecho, indolora
-T40	SINTOMA 1840 1866	alteraciones hemodinámicas
-T41	SINTOMA 2170 2182	asintomático
-T42	SINTOMA 3995 4007	asintomático
-T43	SINTOMA 2032 2037	dolor
-T44	SINTOMA 4018 4039	función renal estable
-T45	SINTOMA 556 572	hemograma normal
-T46	SINTOMA 154 159	mareo
-T47	SINTOMA 1795 1803	sangrado
-T48	SINTOMA 2816 2826	tumoración
-T49	SINTOMA 688 711	función hepática normal
+T1	SINTOMA 647 684	albúmina y proteínas totales normales
+T2	SINTOMA 360 392	masa en flanco derecho, indolora
+T3	SINTOMA 1840 1866	alteraciones hemodinámicas
+T4	SINTOMA 2170 2182	asintomático
+T5	SINTOMA 3995 4007	asintomático
+T6	SINTOMA 2032 2037	dolor
+T7	SINTOMA 4018 4039	función renal estable
+T8	SINTOMA 556 572	hemograma normal
+T9	SINTOMA 154 159	mareo
+T10	SINTOMA 1795 1803	sangrado
+T11	SINTOMA 2816 2826	tumoración
+T12	SINTOMA 688 711	función hepática normal
+T13	ENFERMEDAD 511 554	arritmia completa por fibrilación auricular
+T14	ENFERMEDAD 533 554	fibrilación auricular
+T15	ENFERMEDAD 776 802	masa quística multilocular
+T16	ENFERMEDAD 887 898	tumor renal
+T17	ENFERMEDAD 2469 2474	tumor
+T18	ENFERMEDAD 3553 3558	tumor
+T19	ENFERMEDAD 3662 3675	tumor adiposo
+T20	ENFERMEDAD 3839 3908	mixoliposarcoma perirenal con indiferenciación hacia mixofibrosarcoma
+T21	ENFERMEDAD 3475 3517	fibrohistiocitoma maligno variante mixoide
+T22	ENFERMEDAD 3913 3955	fibrohistiocitoma maligno variante mixoide
+T23	ENFERMEDAD 1139 1151	masa tumoral
+T24	ENFERMEDAD 3454 3470	mixofibrosarcoma
+T25	ENFERMEDAD 3892 3908	mixofibrosarcoma
+T26	ENFERMEDAD 3110 3134	proliferación neoplásica
+T27	ENFERMEDAD 2693 2698	tumor
+T28	ENFERMEDAD 3637 3652	mixoliposarcoma
+T29	PROCEDIMIENTO 1060 1107	nefrectomía radical laparoscópica mano asistida
+T30	PROCEDIMIENTO 1172 1228	procedimiento quirúrgico con la colocación de 4 trócares
+T31	PROCEDIMIENTO 1361 1443	Se instalan además 2 trócares de 5 mm. en el epigastrio para separación del hígado
+T32	PROCEDIMIENTO 1448 1554	introducción de la mano del cirujano se realiza a través de una incisión oblicua en la fosa ilíaca derecha
+T33	PROCEDIMIENTO 1570 1589	nefrectomía radical
+T34	PROCEDIMIENTO 164 177	examen físico
+T35	PROCEDIMIENTO 1648 1747	riñón es colocado en una bolsa de polietileno y se extrae a través de la incisión de la fosa ilíaca
+T36	PROCEDIMIENTO 1976 1987	analgésicos
+T37	PROCEDIMIENTO 2082 2089	cirugía
+T38	PROCEDIMIENTO 2136 2143	cirugía
+T39	PROCEDIMIENTO 2301 2308	biopsia
+T40	PROCEDIMIENTO 2993 3011	examen histológico
+T41	PROCEDIMIENTO 3788 3805	anatomopatológico
+T42	PROCEDIMIENTO 4018 4031	función renal
+T43	PROCEDIMIENTO 4063 4070	cirugía
+T44	PROCEDIMIENTO 448 472	evaluación preoperatoria
+T45	PROCEDIMIENTO 484 502	electrocardiograma
+T46	PROCEDIMIENTO 556 565	hemograma
+T47	PROCEDIMIENTO 688 704	función hepática
+T48	PROCEDIMIENTO 728 759	tomografía computada de abdomen
+T49	PROCEDIMIENTO 965 972	cirugía

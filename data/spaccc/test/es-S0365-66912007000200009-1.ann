@@ -1,23 +1,23 @@
-T1	ENFERMEDAD 1279 1327	lesión que afectara la vía visual prequiasmática
-T2	ENFERMEDAD 1413 1543	lesiones desmielinizantes múltiples de la sustancia blanca subcortical y periventricular con afectación de la unión calloso-septal
-T3	ENFERMEDAD 229 248	artritis reumatoide
-T4	ENFERMEDAD 695 734	cataratas córtico-nucleares bilaterales
-T5	ENFERMEDAD 1696 1715	esclerosis múltiple
-T6	ENFERMEDAD 1883 1939	neuritis óptica retrobulbar de etiología desmielinizante
-T7	ENFERMEDAD 594 627	defecto pupilar aferente relativo
-T8	PROCEDIMIENTO 1110 1122	campo visual
-T9	PROCEDIMIENTO 1142 1177	test de colores, Farnsworth-Munsell
-T10	PROCEDIMIENTO 1355 1400	resonancia nuclear magnética cráneo-orbitaria
-T11	PROCEDIMIENTO 467 492	exploración oftalmológica
-T12	PROCEDIMIENTO 649 685	biomicroscopía del segmento anterior
-T13	PROCEDIMIENTO 744 756	fondo de ojo
-T14	PROCEDIMIENTO 892 901	analítica
-T15	PROCEDIMIENTO 998 1018	campimetría Humphrey
-T16	SINTOMA 892 979	analítica y velocidad de sedimentación globular (VSG) de urgencias, que fueron normales
-T17	SINTOMA 998 1137	campimetría Humphrey 30-2 que mostró una depresión generalizada de la sensibilidad en ojo izquierdo, estando el campo visual derecho normal
-T18	SINTOMA 594 634	defecto pupilar aferente relativo en ojo
-T19	SINTOMA 80 129	disminución brusca de la agudeza visual de su ojo
-T20	SINTOMA 771 807	drusas duras sobre arcadas vasulares
-T21	SINTOMA 2209 2230	escotoma campimétrico
-T22	SINTOMA 821 861	mácula y nervio óptico de aspecto normal
-T23	SINTOMA 1183 1252	ojo izquierdo presentaba una alteración a nivel del eje azul amarillo
+T1	SINTOMA 892 979	analítica y velocidad de sedimentación globular (VSG) de urgencias, que fueron normales
+T2	SINTOMA 998 1137	campimetría Humphrey 30-2 que mostró una depresión generalizada de la sensibilidad en ojo izquierdo, estando el campo visual derecho normal
+T3	SINTOMA 594 634	defecto pupilar aferente relativo en ojo
+T4	SINTOMA 80 129	disminución brusca de la agudeza visual de su ojo
+T5	SINTOMA 771 807	drusas duras sobre arcadas vasulares
+T6	SINTOMA 2209 2230	escotoma campimétrico
+T7	SINTOMA 821 861	mácula y nervio óptico de aspecto normal
+T8	SINTOMA 1183 1252	ojo izquierdo presentaba una alteración a nivel del eje azul amarillo
+T9	ENFERMEDAD 1279 1327	lesión que afectara la vía visual prequiasmática
+T10	ENFERMEDAD 1413 1543	lesiones desmielinizantes múltiples de la sustancia blanca subcortical y periventricular con afectación de la unión calloso-septal
+T11	ENFERMEDAD 229 248	artritis reumatoide
+T12	ENFERMEDAD 695 734	cataratas córtico-nucleares bilaterales
+T13	ENFERMEDAD 1696 1715	esclerosis múltiple
+T14	ENFERMEDAD 1883 1939	neuritis óptica retrobulbar de etiología desmielinizante
+T15	ENFERMEDAD 594 627	defecto pupilar aferente relativo
+T16	PROCEDIMIENTO 1110 1122	campo visual
+T17	PROCEDIMIENTO 1142 1177	test de colores, Farnsworth-Munsell
+T18	PROCEDIMIENTO 1355 1400	resonancia nuclear magnética cráneo-orbitaria
+T19	PROCEDIMIENTO 467 492	exploración oftalmológica
+T20	PROCEDIMIENTO 649 685	biomicroscopía del segmento anterior
+T21	PROCEDIMIENTO 744 756	fondo de ojo
+T22	PROCEDIMIENTO 892 901	analítica
+T23	PROCEDIMIENTO 998 1018	campimetría Humphrey

@@ -1,44 +1,44 @@
-T1	ENFERMEDAD 3938 3962	psicopatología psicótica
-T2	ENFERMEDAD 339 356	enfermedad mental
-T3	ENFERMEDAD 4033 4081	cuadro amnésico secundario al cuadro confusional
-T4	ENFERMEDAD 2122 2188	meses posteriores al parto inició un trastorno del estado de ánimo
-T5	ENFERMEDAD 479 512	infección de la herida quirúrgica
-T6	ENFERMEDAD 516 552	quemaduras de segundo y tercer grado
-T7	ENFERMEDAD 2420 2437	clínica psicótica
-T8	ENFERMEDAD 1353 1369	parto complicado
-T9	ENFERMEDAD 2846 2875	cuadro alucinatorio-delirante
-T10	ENFERMEDAD 372 390	consumo de tóxicos
-T11	ENFERMEDAD 181 191	quemaduras
-T12	ENFERMEDAD 1859 1876	distimia de miedo
-T13	ENFERMEDAD 144 160	cuadro psicótico
-T14	ENFERMEDAD 1848 1857	hipotimia
-T15	SINTOMA 3364 3377	alucinaciones
-T16	SINTOMA 1593 1603	consciente
-T17	SINTOMA 3125 3135	consciente
-T18	SINTOMA 4063 4081	cuadro confusional
-T19	SINTOMA 3908 3916	eutímica
-T20	SINTOMA 2219 2225	llanto
-T21	SINTOMA 3138 3147	orientada
-T22	SINTOMA 1887 1931	alucinaciones auditivas en forma de "ruidos"
-T23	SINTOMA 2323 2398	alucinaciones auditivas en forma de voces que la criticaban y daban órdenes
-T24	SINTOMA 2460 2468	angustia
-T25	SINTOMA 2228 2241	ánimo elevado
-T26	SINTOMA 3406 3424	contenido delirant
-T27	SINTOMA 2271 2312	delirio de perjuicio hacia ella y su hijo
-T28	SINTOMA 1759 1791	delirio de perjuicio y paranoide
-T29	SINTOMA 1827 1838	desconfiada
-T30	SINTOMA 1606 1640	desorientada témporo-espacialmente
-T31	SINTOMA 1688 1746	discurso era parco, en voz baja y con tono de voz monótono
-T32	SINTOMA 1859 1876	distimia de miedo
-T33	SINTOMA 2701 2736	fluctuación del nivel de conciencia
-T34	SINTOMA 1848 1857	hipotimia
-T35	SINTOMA 2471 2515	miedo intenso a sufrir daño (ella o su hijo)
-T36	SINTOMA 2739 2757	pérdida de memoria
-T37	SINTOMA 1674 1683	psicótico
-T38	SINTOMA 3304 3323	síntomas psicóticos
-T39	SINTOMA 3205 3213	suspicaz
-T40	SINTOMA 3194 3202	temerosa
-T41	SINTOMA 3918 3927	tranquila
-T42	SINTOMA 2208 2216	tristeza
-T43	SINTOMA 3118 3123	vigil
-T44	SINTOMA 1586 1591	vigil
+T1	SINTOMA 3364 3377	alucinaciones
+T2	SINTOMA 1593 1603	consciente
+T3	SINTOMA 3125 3135	consciente
+T4	SINTOMA 4063 4081	cuadro confusional
+T5	SINTOMA 3908 3916	eutímica
+T6	SINTOMA 2219 2225	llanto
+T7	SINTOMA 3138 3147	orientada
+T8	SINTOMA 1887 1931	alucinaciones auditivas en forma de "ruidos"
+T9	SINTOMA 2323 2398	alucinaciones auditivas en forma de voces que la criticaban y daban órdenes
+T10	SINTOMA 2460 2468	angustia
+T11	SINTOMA 2228 2241	ánimo elevado
+T12	SINTOMA 3406 3424	contenido delirant
+T13	SINTOMA 2271 2312	delirio de perjuicio hacia ella y su hijo
+T14	SINTOMA 1759 1791	delirio de perjuicio y paranoide
+T15	SINTOMA 1827 1838	desconfiada
+T16	SINTOMA 1606 1640	desorientada témporo-espacialmente
+T17	SINTOMA 1688 1746	discurso era parco, en voz baja y con tono de voz monótono
+T18	SINTOMA 1859 1876	distimia de miedo
+T19	SINTOMA 2701 2736	fluctuación del nivel de conciencia
+T20	SINTOMA 1848 1857	hipotimia
+T21	SINTOMA 2471 2515	miedo intenso a sufrir daño (ella o su hijo)
+T22	SINTOMA 2739 2757	pérdida de memoria
+T23	SINTOMA 1674 1683	psicótico
+T24	SINTOMA 3304 3323	síntomas psicóticos
+T25	SINTOMA 3205 3213	suspicaz
+T26	SINTOMA 3194 3202	temerosa
+T27	SINTOMA 3918 3927	tranquila
+T28	SINTOMA 2208 2216	tristeza
+T29	SINTOMA 3118 3123	vigil
+T30	SINTOMA 1586 1591	vigil
+T31	ENFERMEDAD 3938 3962	psicopatología psicótica
+T32	ENFERMEDAD 339 356	enfermedad mental
+T33	ENFERMEDAD 4033 4081	cuadro amnésico secundario al cuadro confusional
+T34	ENFERMEDAD 2122 2188	meses posteriores al parto inició un trastorno del estado de ánimo
+T35	ENFERMEDAD 479 512	infección de la herida quirúrgica
+T36	ENFERMEDAD 516 552	quemaduras de segundo y tercer grado
+T37	ENFERMEDAD 2420 2437	clínica psicótica
+T38	ENFERMEDAD 1353 1369	parto complicado
+T39	ENFERMEDAD 2846 2875	cuadro alucinatorio-delirante
+T40	ENFERMEDAD 372 390	consumo de tóxicos
+T41	ENFERMEDAD 181 191	quemaduras
+T42	ENFERMEDAD 1859 1876	distimia de miedo
+T43	ENFERMEDAD 144 160	cuadro psicótico
+T44	ENFERMEDAD 1848 1857	hipotimia

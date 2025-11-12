@@ -1,27 +1,27 @@
-T1	ENFERMEDAD 48 100	melanoma cutáneo maligno nodular en hombro izquierdo
-T2	ENFERMEDAD 1739 1776	lesiones más en la unión yeyuno-ileal
-T3	ENFERMEDAD 1558 1609	metástasis en intestino delgado de melanoma cutáneo
-T4	ENFERMEDAD 1593 1609	melanoma cutáneo
-T5	ENFERMEDAD 312 331	oclusión intestinal
-T6	ENFERMEDAD 348 381	invaginación de intestino delgado
-T7	ENFERMEDAD 454 487	íleon por tumoración intraluminal
-T8	ENFERMEDAD 2083 2090	tumores
-T9	ENFERMEDAD 528 552	tumoraciones polipoideas
-T10	PROCEDIMIENTO 1466 1484	imagen histológica
-T11	PROCEDIMIENTO 1506 1524	immunohistoquímica
-T12	PROCEDIMIENTO 1681 1710	tránsito de intestino delgado
-T13	PROCEDIMIENTO 1783 1786	PET
-T14	PROCEDIMIENTO 1921 1976	resección intestinal de dos segmentos de yeyuno y íleon
-T15	PROCEDIMIENTO 2053 2063	patológico
-T16	PROCEDIMIENTO 333 346	TAC abdominal
-T17	PROCEDIMIENTO 36 100	exéresis de melanoma cutáneo maligno nodular en hombro izquierdo
-T18	PROCEDIMIENTO 396 419	intervención quirúrgica
-T19	PROCEDIMIENTO 429 459	resección segmentaria de íleon
-T20	PROCEDIMIENTO 593 649	diagnóstico peroperatorio durante la cirugía de urgencia
-T21	PROCEDIMIENTO 704 724	Estudio macroscópico
-T22	PROCEDIMIENTO 974 991	Microscópicamente
-T23	SINTOMA 1804 1841	captación en la línea media abdominal
-T24	SINTOMA 2021 2040	libre de enfermedad
-T25	SINTOMA 138 146	pT3bN0M0
-T26	SINTOMA 464 487	tumoración intraluminal
-T27	SINTOMA 789 801	tumoraciones
+T1	SINTOMA 1804 1841	captación en la línea media abdominal
+T2	SINTOMA 2021 2040	libre de enfermedad
+T3	SINTOMA 138 146	pT3bN0M0
+T4	SINTOMA 464 487	tumoración intraluminal
+T5	SINTOMA 789 801	tumoraciones
+T6	ENFERMEDAD 48 100	melanoma cutáneo maligno nodular en hombro izquierdo
+T7	ENFERMEDAD 1739 1776	lesiones más en la unión yeyuno-ileal
+T8	ENFERMEDAD 1558 1609	metástasis en intestino delgado de melanoma cutáneo
+T9	ENFERMEDAD 1593 1609	melanoma cutáneo
+T10	ENFERMEDAD 312 331	oclusión intestinal
+T11	ENFERMEDAD 348 381	invaginación de intestino delgado
+T12	ENFERMEDAD 454 487	íleon por tumoración intraluminal
+T13	ENFERMEDAD 2083 2090	tumores
+T14	ENFERMEDAD 528 552	tumoraciones polipoideas
+T15	PROCEDIMIENTO 1466 1484	imagen histológica
+T16	PROCEDIMIENTO 1506 1524	immunohistoquímica
+T17	PROCEDIMIENTO 1681 1710	tránsito de intestino delgado
+T18	PROCEDIMIENTO 1783 1786	PET
+T19	PROCEDIMIENTO 1921 1976	resección intestinal de dos segmentos de yeyuno y íleon
+T20	PROCEDIMIENTO 2053 2063	patológico
+T21	PROCEDIMIENTO 333 346	TAC abdominal
+T22	PROCEDIMIENTO 36 100	exéresis de melanoma cutáneo maligno nodular en hombro izquierdo
+T23	PROCEDIMIENTO 396 419	intervención quirúrgica
+T24	PROCEDIMIENTO 429 459	resección segmentaria de íleon
+T25	PROCEDIMIENTO 593 649	diagnóstico peroperatorio durante la cirugía de urgencia
+T26	PROCEDIMIENTO 704 724	Estudio macroscópico
+T27	PROCEDIMIENTO 974 991	Microscópicamente

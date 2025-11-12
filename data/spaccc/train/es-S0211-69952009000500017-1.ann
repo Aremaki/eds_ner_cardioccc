@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 31 49	síndrome de Alport
-T2	ENFERMEDAD 131 162	pérdida moderada de la audición
-T3	ENFERMEDAD 164 185	hipertensión arterial
-T4	ENFERMEDAD 215 223	obesidad
-T5	ENFERMEDAD 336 348	dislipidemia
-T6	ENFERMEDAD 351 364	hiperuricemia
-T7	ENFERMEDAD 381 391	Ex-fumador
-T8	ENFERMEDAD 540 567	glomerulopatía esclerosante
-T9	ENFERMEDAD 955 975	enfermedad de Alport
-T10	ENFERMEDAD 1007 1043	glomerulonefritis esclerosante focal
-T11	SINTOMA 51 65	microhematuria
-T12	SINTOMA 1304 1315	proteinuria
-T13	SINTOMA 1495 1506	proteinuria
-T14	SINTOMA 68 79	proteinuria
-T15	SINTOMA 1098 1128	Doppler renal sin alteraciones
-T16	SINTOMA 313 334	Hb glucosilada normal
-T17	SINTOMA 1630 1644	normoglucemias
-T18	SINTOMA 1534 1546	normotensión
-T19	SINTOMA 414 427	Normotiroideo
-T20	SINTOMA 1614 1627	normouricemia
+T1	SINTOMA 51 65	microhematuria
+T2	SINTOMA 1304 1315	proteinuria
+T3	SINTOMA 1495 1506	proteinuria
+T4	SINTOMA 68 79	proteinuria
+T5	SINTOMA 1098 1128	Doppler renal sin alteraciones
+T6	SINTOMA 313 334	Hb glucosilada normal
+T7	SINTOMA 1630 1644	normoglucemias
+T8	SINTOMA 1534 1546	normotensión
+T9	SINTOMA 414 427	Normotiroideo
+T10	SINTOMA 1614 1627	normouricemia
+T11	ENFERMEDAD 31 49	síndrome de Alport
+T12	ENFERMEDAD 131 162	pérdida moderada de la audición
+T13	ENFERMEDAD 164 185	hipertensión arterial
+T14	ENFERMEDAD 215 223	obesidad
+T15	ENFERMEDAD 336 348	dislipidemia
+T16	ENFERMEDAD 351 364	hiperuricemia
+T17	ENFERMEDAD 381 391	Ex-fumador
+T18	ENFERMEDAD 540 567	glomerulopatía esclerosante
+T19	ENFERMEDAD 955 975	enfermedad de Alport
+T20	ENFERMEDAD 1007 1043	glomerulonefritis esclerosante focal

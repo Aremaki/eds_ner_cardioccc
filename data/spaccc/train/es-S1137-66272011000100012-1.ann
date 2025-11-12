@@ -1,29 +1,29 @@
-T1	ENFERMEDAD 55 94	infecciones respiratorias de repetición
-T2	ENFERMEDAD 151 161	hipertensa
-T3	ENFERMEDAD 202 216	hipotiroidismo
-T4	ENFERMEDAD 353 378	infecciones respiratorias
-T5	ENFERMEDAD 1015 1029	cifoescoliosis
-T6	ENFERMEDAD 1106 1147	enfisema y bronquiectasias en ambas bases
-T7	ENFERMEDAD 1117 1147	bronquiectasias en ambas bases
-T8	ENFERMEDAD 1238 1252	déficit de AAT
-T9	ENFERMEDAD 1419 1423	asma
-T10	ENFERMEDAD 1426 1431	D-AAT
-T11	ENFERMEDAD 1465 1469	asma
-T12	ENFERMEDAD 1549 1554	D-AAT
-T13	ENFERMEDAD 131 146	hábitos tóxicos
-T14	ENFERMEDAD 119 127	alergias
-T15	SINTOMA 583 612	auscultación cardíaca rítmica
-T16	SINTOMA 879 933	difusión pulmonar de gases está discretamente reducida
-T17	SINTOMA 725 746	edemas perimaleolares
-T18	SINTOMA 1359 1400	fenotipo de AAT, que demuestra el tipo ZZ
-T19	SINTOMA 1276 1322	fibrobroncoscopia sin hallazgos significativos
-T20	SINTOMA 1573 1599	función pulmonar aceptable
-T21	SINTOMA 842 874	prueba broncodilatadora positiva
-T22	SINTOMA 479 490	sibilancias
-T23	SINTOMA 466 469	tos
-T24	SINTOMA 471 477	disnea
-T25	SINTOMA 493 516	expectoración purulenta
-T26	SINTOMA 535 543	ortopnea
-T27	SINTOMA 677 683	roncus
-T28	SINTOMA 618 624	soplos
-T29	SINTOMA 628 638	extratonos
+T1	SINTOMA 583 612	auscultación cardíaca rítmica
+T2	SINTOMA 879 933	difusión pulmonar de gases está discretamente reducida
+T3	SINTOMA 725 746	edemas perimaleolares
+T4	SINTOMA 1359 1400	fenotipo de AAT, que demuestra el tipo ZZ
+T5	SINTOMA 1276 1322	fibrobroncoscopia sin hallazgos significativos
+T6	SINTOMA 1573 1599	función pulmonar aceptable
+T7	SINTOMA 842 874	prueba broncodilatadora positiva
+T8	SINTOMA 479 490	sibilancias
+T9	SINTOMA 466 469	tos
+T10	SINTOMA 471 477	disnea
+T11	SINTOMA 493 516	expectoración purulenta
+T12	SINTOMA 535 543	ortopnea
+T13	SINTOMA 677 683	roncus
+T14	SINTOMA 618 624	soplos
+T15	SINTOMA 628 638	extratonos
+T16	ENFERMEDAD 55 94	infecciones respiratorias de repetición
+T17	ENFERMEDAD 151 161	hipertensa
+T18	ENFERMEDAD 202 216	hipotiroidismo
+T19	ENFERMEDAD 353 378	infecciones respiratorias
+T20	ENFERMEDAD 1015 1029	cifoescoliosis
+T21	ENFERMEDAD 1106 1147	enfisema y bronquiectasias en ambas bases
+T22	ENFERMEDAD 1117 1147	bronquiectasias en ambas bases
+T23	ENFERMEDAD 1238 1252	déficit de AAT
+T24	ENFERMEDAD 1419 1423	asma
+T25	ENFERMEDAD 1426 1431	D-AAT
+T26	ENFERMEDAD 1465 1469	asma
+T27	ENFERMEDAD 1549 1554	D-AAT
+T28	ENFERMEDAD 131 146	hábitos tóxicos
+T29	ENFERMEDAD 119 127	alergias

@@ -1,16 +1,16 @@
-T1	ENFERMEDAD 21 71	hemorragia macular secundaria a traumatismo ocular
-T2	ENFERMEDAD 735 753	hemorragia macular
-T3	ENFERMEDAD 846 875	rotura coroidea yuxtafoveolar
-T4	PROCEDIMIENTO 219 246	corticoides tópicos, orales
-T5	PROCEDIMIENTO 249 261	ciclopléjico
-T6	PROCEDIMIENTO 367 388	vitrectomía posterior
-T7	PROCEDIMIENTO 390 445	se intenta desplazar la hemorragia con perfluoropropano
-T8	PROCEDIMIENTO 561 600	se rellena el globo ocular con gas (SF6
-T9	PROCEDIMIENTO 620 653	posicionamiento en decúbito prono
-T10	PROCEDIMIENTO 701 713	intervención
-T11	SINTOMA 294 311	disminución de AV
-T12	SINTOMA 155 165	hemorragia
-T13	SINTOMA 334 344	hemorragia
-T14	SINTOMA 414 424	hemorragia
-T15	SINTOMA 21 39	hemorragia macular
-T16	SINTOMA 735 753	hemorragia macular
+T1	SINTOMA 294 311	disminución de AV
+T2	SINTOMA 155 165	hemorragia
+T3	SINTOMA 334 344	hemorragia
+T4	SINTOMA 414 424	hemorragia
+T5	SINTOMA 21 39	hemorragia macular
+T6	SINTOMA 735 753	hemorragia macular
+T7	ENFERMEDAD 21 71	hemorragia macular secundaria a traumatismo ocular
+T8	ENFERMEDAD 735 753	hemorragia macular
+T9	ENFERMEDAD 846 875	rotura coroidea yuxtafoveolar
+T10	PROCEDIMIENTO 219 246	corticoides tópicos, orales
+T11	PROCEDIMIENTO 249 261	ciclopléjico
+T12	PROCEDIMIENTO 367 388	vitrectomía posterior
+T13	PROCEDIMIENTO 390 445	se intenta desplazar la hemorragia con perfluoropropano
+T14	PROCEDIMIENTO 561 600	se rellena el globo ocular con gas (SF6
+T15	PROCEDIMIENTO 620 653	posicionamiento en decúbito prono
+T16	PROCEDIMIENTO 701 713	intervención

@@ -1,23 +1,23 @@
-T1	PROCEDIMIENTO 1021 1101	angiografía cerebral de los territorios de la arteria carótida interna y externa
-T2	PROCEDIMIENTO 1482 1494	embolización
-T3	PROCEDIMIENTO 1664 1719	resección de la MAV mediante la intervención quirúrgica
-T4	PROCEDIMIENTO 1736 1886	Se realizó un incisión bicoronal, por detrás del nido, accediendo bilateralmente a las ramas nutricias de la MAV, para primero ligarlas y seccionarlas
-T5	PROCEDIMIENTO 1928 1963	lesión y hacer posible la resección
-T6	PROCEDIMIENTO 2184 2195	angiografía
-T7	PROCEDIMIENTO 2215 2271	coagulación por radiofrecuencia, tanto mono como bipolar
-T8	PROCEDIMIENTO 2274 2316	cera de hueso para controlar la hemorragia
-T9	PROCEDIMIENTO 2318 2383	Se realizó la resección de todos los vasos sanguíneos subcutáneos
-T10	PROCEDIMIENTO 2484 2491	cirugía
-T11	PROCEDIMIENTO 2504 2548	transfundir con dos concentrados de hematíes
-T12	PROCEDIMIENTO 2575 2596	recuperador sanguíneo
-T13	PROCEDIMIENTO 2670 2749	cuero cabelludo se suturó a la manera habitual por planos y la piel con agrafes
-T14	PROCEDIMIENTO 511 520	anamnesis
-T15	PROCEDIMIENTO 814 846	exploración física y neurológica
-T16	PROCEDIMIENTO 929 946	pruebas de imagen
-T17	PROCEDIMIENTO 954 965	RM cerebral
-T18	SINTOMA 814 856	exploración física y neurológica es normal
-T19	SINTOMA 258 280	masa irregular frontal
-T20	SINTOMA 1117 1159	nido vascular epicraneal frontal izquierdo
-T21	SINTOMA 954 1012	RM cerebral no se evidenciaron alteraciones significativas
-T22	SINTOMA 2306 2316	hemorragia
-T23	SINTOMA 1983 1991	sangrado
+T1	SINTOMA 814 856	exploración física y neurológica es normal
+T2	SINTOMA 258 280	masa irregular frontal
+T3	SINTOMA 1117 1159	nido vascular epicraneal frontal izquierdo
+T4	SINTOMA 954 1012	RM cerebral no se evidenciaron alteraciones significativas
+T5	SINTOMA 2306 2316	hemorragia
+T6	SINTOMA 1983 1991	sangrado
+T7	PROCEDIMIENTO 1021 1101	angiografía cerebral de los territorios de la arteria carótida interna y externa
+T8	PROCEDIMIENTO 1482 1494	embolización
+T9	PROCEDIMIENTO 1664 1719	resección de la MAV mediante la intervención quirúrgica
+T10	PROCEDIMIENTO 1736 1886	Se realizó un incisión bicoronal, por detrás del nido, accediendo bilateralmente a las ramas nutricias de la MAV, para primero ligarlas y seccionarlas
+T11	PROCEDIMIENTO 1928 1963	lesión y hacer posible la resección
+T12	PROCEDIMIENTO 2184 2195	angiografía
+T13	PROCEDIMIENTO 2215 2271	coagulación por radiofrecuencia, tanto mono como bipolar
+T14	PROCEDIMIENTO 2274 2316	cera de hueso para controlar la hemorragia
+T15	PROCEDIMIENTO 2318 2383	Se realizó la resección de todos los vasos sanguíneos subcutáneos
+T16	PROCEDIMIENTO 2484 2491	cirugía
+T17	PROCEDIMIENTO 2504 2548	transfundir con dos concentrados de hematíes
+T18	PROCEDIMIENTO 2575 2596	recuperador sanguíneo
+T19	PROCEDIMIENTO 2670 2749	cuero cabelludo se suturó a la manera habitual por planos y la piel con agrafes
+T20	PROCEDIMIENTO 511 520	anamnesis
+T21	PROCEDIMIENTO 814 846	exploración física y neurológica
+T22	PROCEDIMIENTO 929 946	pruebas de imagen
+T23	PROCEDIMIENTO 954 965	RM cerebral

@@ -1,11 +1,11 @@
-T1	ENFERMEDAD 286 302	hipoplasia malar
-T2	ENFERMEDAD 1880 1941	seudoaneurisma y su dependencia de la arteria maxilar interna
-T3	ENFERMEDAD 522 540	hipoplasia maxilar
-T4	ENFERMEDAD 132 153	labio-paladar hendido
-T5	ENFERMEDAD 355 385	dismorfia de la pirámide nasal
-T6	ENFERMEDAD 1279 1335	macizo facial, en la cual se evidenció un seudoaneurisma
-T7	SINTOMA 355 385	dismorfia de la pirámide nasal
-T8	SINTOMA 1592 1613	sangrado oral y nasal
-T9	SINTOMA 1096 1105	epistaxis
-T10	SINTOMA 2186 2194	sangrado
-T11	SINTOMA 2197 2223	alteraciones hemodinámicas
+T1	SINTOMA 355 385	dismorfia de la pirámide nasal
+T2	SINTOMA 1592 1613	sangrado oral y nasal
+T3	SINTOMA 1096 1105	epistaxis
+T4	SINTOMA 2186 2194	sangrado
+T5	SINTOMA 2197 2223	alteraciones hemodinámicas
+T6	ENFERMEDAD 286 302	hipoplasia malar
+T7	ENFERMEDAD 1880 1941	seudoaneurisma y su dependencia de la arteria maxilar interna
+T8	ENFERMEDAD 522 540	hipoplasia maxilar
+T9	ENFERMEDAD 132 153	labio-paladar hendido
+T10	ENFERMEDAD 355 385	dismorfia de la pirámide nasal
+T11	ENFERMEDAD 1279 1335	macizo facial, en la cual se evidenció un seudoaneurisma

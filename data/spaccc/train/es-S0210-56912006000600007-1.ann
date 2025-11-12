@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 27 34	fumador
-T2	ENFERMEDAD 159 183	síndrome coronario agudo
-T3	ENFERMEDAD 255 273	angina postinfarto
-T4	ENFERMEDAD 215 222	SCACEST
-T5	ENFERMEDAD 2918 2943	vasoplejía postoperatoria
-T6	ENFERMEDAD 77 100	alergias medicamentosas
-T7	ENFERMEDAD 4043 4057	fallo hepático
-T8	ENFERMEDAD 3857 3870	fracaso renal
-T9	ENFERMEDAD 1918 1929	hipotensión
-T10	ENFERMEDAD 328 379	obstrucción del 90% de la arteria coronaria derecha
-T11	SINTOMA 2092 2099	afebril
-T12	SINTOMA 1890 1912	deterioro hemodinámico
-T13	SINTOMA 3924 3943	diuresis conservada
-T14	SINTOMA 1918 1929	hipotensión
-T15	SINTOMA 4009 4039	alteraciones en la coagulación
-T16	SINTOMA 2243 2270	condensación parenquimatosa
-T17	SINTOMA 188 213	elevación del segmento ST
-T18	SINTOMA 3036 3073	hemocultivos que resultaron negativos
-T19	SINTOMA 584 635	presión telediastólica ventricular izquierda normal
-T20	SINTOMA 3828 3847	tinción de la orina
-T21	SINTOMA 3884 3921	valores normales de urea y creatinina
+T1	SINTOMA 2092 2099	afebril
+T2	SINTOMA 1890 1912	deterioro hemodinámico
+T3	SINTOMA 3924 3943	diuresis conservada
+T4	SINTOMA 1918 1929	hipotensión
+T5	SINTOMA 4009 4039	alteraciones en la coagulación
+T6	SINTOMA 2243 2270	condensación parenquimatosa
+T7	SINTOMA 188 213	elevación del segmento ST
+T8	SINTOMA 3036 3073	hemocultivos que resultaron negativos
+T9	SINTOMA 584 635	presión telediastólica ventricular izquierda normal
+T10	SINTOMA 3828 3847	tinción de la orina
+T11	SINTOMA 3884 3921	valores normales de urea y creatinina
+T12	ENFERMEDAD 27 34	fumador
+T13	ENFERMEDAD 159 183	síndrome coronario agudo
+T14	ENFERMEDAD 255 273	angina postinfarto
+T15	ENFERMEDAD 215 222	SCACEST
+T16	ENFERMEDAD 2918 2943	vasoplejía postoperatoria
+T17	ENFERMEDAD 77 100	alergias medicamentosas
+T18	ENFERMEDAD 4043 4057	fallo hepático
+T19	ENFERMEDAD 3857 3870	fracaso renal
+T20	ENFERMEDAD 1918 1929	hipotensión
+T21	ENFERMEDAD 328 379	obstrucción del 90% de la arteria coronaria derecha

@@ -1,12 +1,12 @@
-T1	ENFERMEDAD 1100 1131	retinotoxicidad por vigabatrina
-T2	ENFERMEDAD 164 187	epilepsia postraumática
-T3	ENFERMEDAD 558 594	membrana epirretiniana macular en OD
-T4	ENFERMEDAD 886 915	neuropatía óptica hereditaria
-T5	ENFERMEDAD 215 236	hipertensión arterial
-T6	ENFERMEDAD 239 264	diabetes mellitus tipo II
-T7	ENFERMEDAD 364 375	traumatismo
-T8	SINTOMA 442 492	biomicroscopía anterior y tonometría eran normales
-T9	SINTOMA 32 57	déficit de agudeza visual
-T10	SINTOMA 527 551	palidez de ambas papilas
-T11	SINTOMA 1207 1235	pérdida campimétrica y de AV
-T12	SINTOMA 698 758	reducciones campimétricas concéntricas severas en ambos ojos
+T1	SINTOMA 442 492	biomicroscopía anterior y tonometría eran normales
+T2	SINTOMA 32 57	déficit de agudeza visual
+T3	SINTOMA 527 551	palidez de ambas papilas
+T4	SINTOMA 1207 1235	pérdida campimétrica y de AV
+T5	SINTOMA 698 758	reducciones campimétricas concéntricas severas en ambos ojos
+T6	ENFERMEDAD 1100 1131	retinotoxicidad por vigabatrina
+T7	ENFERMEDAD 164 187	epilepsia postraumática
+T8	ENFERMEDAD 558 594	membrana epirretiniana macular en OD
+T9	ENFERMEDAD 886 915	neuropatía óptica hereditaria
+T10	ENFERMEDAD 215 236	hipertensión arterial
+T11	ENFERMEDAD 239 264	diabetes mellitus tipo II
+T12	ENFERMEDAD 364 375	traumatismo

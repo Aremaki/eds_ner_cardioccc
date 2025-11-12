@@ -1,14 +1,14 @@
-T1	ENFERMEDAD 30 53	alergias medicamentosas
-T2	ENFERMEDAD 537 552	hernia de hiato
-T3	ENFERMEDAD 558 601	tercio distal esofágico una úlcera profunda
-T4	ENFERMEDAD 96 117	hipertensión arterial
-T5	ENFERMEDAD 119 143	diabetes mellitus tipo 2
-T6	ENFERMEDAD 145 174	fibrilación auricular crónica
-T7	ENFERMEDAD 177 200	enfermedad de Alzheimer
-T8	ENFERMEDAD 862 875	actinomicosis
-T9	ENFERMEDAD 727 733	lesión
-T10	ENFERMEDAD 225 238	posos de café
-T11	SINTOMA 240 253	epigastralgia
-T12	SINTOMA 652 671	exudado blanquecino
-T13	SINTOMA 256 274	pérdida de de peso
-T14	SINTOMA 214 238	vómitos en posos de café
+T1	SINTOMA 240 253	epigastralgia
+T2	SINTOMA 652 671	exudado blanquecino
+T3	SINTOMA 256 274	pérdida de de peso
+T4	SINTOMA 214 238	vómitos en posos de café
+T5	ENFERMEDAD 30 53	alergias medicamentosas
+T6	ENFERMEDAD 537 552	hernia de hiato
+T7	ENFERMEDAD 558 601	tercio distal esofágico una úlcera profunda
+T8	ENFERMEDAD 96 117	hipertensión arterial
+T9	ENFERMEDAD 119 143	diabetes mellitus tipo 2
+T10	ENFERMEDAD 145 174	fibrilación auricular crónica
+T11	ENFERMEDAD 177 200	enfermedad de Alzheimer
+T12	ENFERMEDAD 862 875	actinomicosis
+T13	ENFERMEDAD 727 733	lesión
+T14	ENFERMEDAD 225 238	posos de café

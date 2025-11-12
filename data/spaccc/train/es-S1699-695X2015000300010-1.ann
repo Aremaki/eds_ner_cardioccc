@@ -1,58 +1,58 @@
-T1	PROCEDIMIENTO 1409 1428	Exploración general
-T2	PROCEDIMIENTO 1449 1469	índice tobillo-brazo
-T3	PROCEDIMIENTO 1471 1474	ITB
-T4	PROCEDIMIENTO 1519 1528	analítica
-T5	PROCEDIMIENTO 1555 1575	estudio inmunológico
-T6	PROCEDIMIENTO 1578 1587	serología
-T7	PROCEDIMIENTO 1596 1629	Radiografía de tórax y lumbosacra
-T8	PROCEDIMIENTO 1744 1759	electromiograma
-T9	PROCEDIMIENTO 1761 1764	EMG
-T10	PROCEDIMIENTO 1768 1786	electroneurografía
-T11	PROCEDIMIENTO 1788 1791	ENG
-T12	PROCEDIMIENTO 2172 2208	resonancia magnética craneal-medular
-T13	PROCEDIMIENTO 2217 2243	estudio neurolofisiológico
-T14	PROCEDIMIENTO 2537 2561	estudio neurofisiológico
-T15	PROCEDIMIENTO 2629 2632	EMG
-T16	PROCEDIMIENTO 2753 2769	biopsia muscular
-T17	PROCEDIMIENTO 319 337	anamnesis dirigida
-T18	PROCEDIMIENTO 3390 3399	logopedia
-T19	PROCEDIMIENTO 3402 3451	rehabilitación domiciliaria física y respiratoria
-T20	PROCEDIMIENTO 3590 3619	ventilación mecánica invasiva
-T21	PROCEDIMIENTO 3621 3633	traqueotomía
-T22	PROCEDIMIENTO 3636 3676	alimentación por gastrostomía percutánea
-T23	PROCEDIMIENTO 3678 3681	PEG
-T24	PROCEDIMIENTO 825 848	exploración neurológica
-T25	SINTOMA 2468 2501	afectación en miembros superiores
-T26	SINTOMA 614 646	calambres ocasionales en gemelos
-T27	SINTOMA 237 254	cambios en la voz
-T28	SINTOMA 966 984	debilidad cervical
-T29	SINTOMA 3035 3083	debilidad en la flexión dorsal del pie izquierdo
-T30	SINTOMA 349 397	debilidad en las manos o extremidades superiores
-T31	SINTOMA 1108 1140	debilidad en miembros superiores
-T32	SINTOMA 100 144	debilidad y dolor en los miembros inferiores
-T33	SINTOMA 1145 1162	déficit sensitivo
-T34	SINTOMA 2943 2954	denervación
-T35	SINTOMA 1827 1885	denervación activa en ambos MMII, miembro superior derecho
-T36	SINTOMA 2441 2462	disfagia para sólidos
-T37	SINTOMA 1555 1594	estudio inmunológico y serología normal
-T38	SINTOMA 876 891	facial centrado
-T39	SINTOMA 3169 3228	Fasciculaciones difusas por diferentes segmentos corporales
-T40	SINTOMA 1303 1369	Fasciculaciones en deltoides, pectorales y de forma difusa en MMII
-T41	SINTOMA 936 961	Fasciculaciones linguales
-T42	SINTOMA 1887 1900	fibrilaciones
-T43	SINTOMA 858 874	habla hipofónica
-T44	SINTOMA 1206 1233	Hoffmann positivo bilateral
-T45	SINTOMA 500 519	labilidad emocional
-T46	SINTOMA 3239 3250	leve afonía
-T47	SINTOMA 893 934	Motilidad ocular interna y externa normal
-T48	SINTOMA 1903 1918	ondas positivas
-T49	SINTOMA 1021 1055	paraparesia de predominio proximal
-T50	SINTOMA 1806 1822	patrón neurógeno
-T51	SINTOMA 1596 1636	Radiografía de tórax y lumbosacra normal
-T52	SINTOMA 1236 1301	reflejo cutáneo-plantar derecho indiferente, izquierdo conservado
-T53	SINTOMA 411 484	trastorno ocular, ni de control de esfínteres y tampoco a nivel sensitivo
-T54	SINTOMA 32 55	dificultad para caminar
-T55	SINTOMA 203 212	lumbalgia
-T56	SINTOMA 3773 3779	exitus
-T57	SINTOMA 749 758	fallecido
-T58	SINTOMA 586 592	muerte
+T1	SINTOMA 2468 2501	afectación en miembros superiores
+T2	SINTOMA 614 646	calambres ocasionales en gemelos
+T3	SINTOMA 237 254	cambios en la voz
+T4	SINTOMA 966 984	debilidad cervical
+T5	SINTOMA 3035 3083	debilidad en la flexión dorsal del pie izquierdo
+T6	SINTOMA 349 397	debilidad en las manos o extremidades superiores
+T7	SINTOMA 1108 1140	debilidad en miembros superiores
+T8	SINTOMA 100 144	debilidad y dolor en los miembros inferiores
+T9	SINTOMA 1145 1162	déficit sensitivo
+T10	SINTOMA 2943 2954	denervación
+T11	SINTOMA 1827 1885	denervación activa en ambos MMII, miembro superior derecho
+T12	SINTOMA 2441 2462	disfagia para sólidos
+T13	SINTOMA 1555 1594	estudio inmunológico y serología normal
+T14	SINTOMA 876 891	facial centrado
+T15	SINTOMA 3169 3228	Fasciculaciones difusas por diferentes segmentos corporales
+T16	SINTOMA 1303 1369	Fasciculaciones en deltoides, pectorales y de forma difusa en MMII
+T17	SINTOMA 936 961	Fasciculaciones linguales
+T18	SINTOMA 1887 1900	fibrilaciones
+T19	SINTOMA 858 874	habla hipofónica
+T20	SINTOMA 1206 1233	Hoffmann positivo bilateral
+T21	SINTOMA 500 519	labilidad emocional
+T22	SINTOMA 3239 3250	leve afonía
+T23	SINTOMA 893 934	Motilidad ocular interna y externa normal
+T24	SINTOMA 1903 1918	ondas positivas
+T25	SINTOMA 1021 1055	paraparesia de predominio proximal
+T26	SINTOMA 1806 1822	patrón neurógeno
+T27	SINTOMA 1596 1636	Radiografía de tórax y lumbosacra normal
+T28	SINTOMA 1236 1301	reflejo cutáneo-plantar derecho indiferente, izquierdo conservado
+T29	SINTOMA 411 484	trastorno ocular, ni de control de esfínteres y tampoco a nivel sensitivo
+T30	SINTOMA 32 55	dificultad para caminar
+T31	SINTOMA 203 212	lumbalgia
+T32	SINTOMA 3773 3779	exitus
+T33	SINTOMA 749 758	fallecido
+T34	SINTOMA 586 592	muerte
+T35	PROCEDIMIENTO 1409 1428	Exploración general
+T36	PROCEDIMIENTO 1449 1469	índice tobillo-brazo
+T37	PROCEDIMIENTO 1471 1474	ITB
+T38	PROCEDIMIENTO 1519 1528	analítica
+T39	PROCEDIMIENTO 1555 1575	estudio inmunológico
+T40	PROCEDIMIENTO 1578 1587	serología
+T41	PROCEDIMIENTO 1596 1629	Radiografía de tórax y lumbosacra
+T42	PROCEDIMIENTO 1744 1759	electromiograma
+T43	PROCEDIMIENTO 1761 1764	EMG
+T44	PROCEDIMIENTO 1768 1786	electroneurografía
+T45	PROCEDIMIENTO 1788 1791	ENG
+T46	PROCEDIMIENTO 2172 2208	resonancia magnética craneal-medular
+T47	PROCEDIMIENTO 2217 2243	estudio neurolofisiológico
+T48	PROCEDIMIENTO 2537 2561	estudio neurofisiológico
+T49	PROCEDIMIENTO 2629 2632	EMG
+T50	PROCEDIMIENTO 2753 2769	biopsia muscular
+T51	PROCEDIMIENTO 319 337	anamnesis dirigida
+T52	PROCEDIMIENTO 3390 3399	logopedia
+T53	PROCEDIMIENTO 3402 3451	rehabilitación domiciliaria física y respiratoria
+T54	PROCEDIMIENTO 3590 3619	ventilación mecánica invasiva
+T55	PROCEDIMIENTO 3621 3633	traqueotomía
+T56	PROCEDIMIENTO 3636 3676	alimentación por gastrostomía percutánea
+T57	PROCEDIMIENTO 3678 3681	PEG
+T58	PROCEDIMIENTO 825 848	exploración neurológica

@@ -1,49 +1,49 @@
-T1	ENFERMEDAD 1903 1922	síndrome miofascial
-T2	ENFERMEDAD 1575 1631	polidiscopatía con cambios degenerativos en L4-L5, L5-S1
-T3	ENFERMEDAD 1925 1952	polidiscopatía degenerativa
-T4	ENFERMEDAD 1694 1750	improntas discales significativas sobre el canal medular
-T5	ENFERMEDAD 1763 1799	artrosis interapofisaria dorsolumbar
-T6	ENFERMEDAD 2709 2731	dilatación ventricular
-T7	ENFERMEDAD 2738 2761	estenosis mitral severa
-T8	ENFERMEDAD 2766 2783	fuga perivalvular
-T9	ENFERMEDAD 2902 2934	válvula protésica malfuncionante
-T10	ENFERMEDAD 220 293	prótesis de válvula mitral y desde entonces presentaba fuga periprotésica
-T11	PROCEDIMIENTO 1030 1041	exploración
-T12	PROCEDIMIENTO 1175 1222	palpación no dolorosa de las apófisis espinosas
-T13	PROCEDIMIENTO 1368 1439	pruebas para afectación del psoas y la articulación sacroilíaca derecha
-T14	PROCEDIMIENTO 1506 1565	resonancia magnética (RM) de la columna músculo dorsolumbar
-T15	PROCEDIMIENTO 1528 1530	RM
-T16	PROCEDIMIENTO 200 246	implantación de una prótesis de válvula mitral
-T17	PROCEDIMIENTO 2034 2061	electroterapia transcutánea
-T18	PROCEDIMIENTO 2079 2235	infiltración con corticoides y anestésico local en los puntos gatillo correspondientes al músculo cuadrado lumbar derecho y las facetas lumbares bilaterales
-T19	PROCEDIMIENTO 2435 2444	analítica
-T20	PROCEDIMIENTO 2673 2688	ecocardiografía
-T21	PROCEDIMIENTO 2889 2919	remplazar la válvula protésica
-T22	PROCEDIMIENTO 2950 2962	intervención
-T23	PROCEDIMIENTO 357 390	anticoagulado con anticumarínicos
-T24	SINTOMA 1876 1885	lumbalgia
-T25	SINTOMA 3010 3022	dolor lumbar
-T26	SINTOMA 985 996	parestesias
-T27	SINTOMA 2548 2562	hemoglobinuria
-T28	SINTOMA 2283 2292	lumbalgia
-T29	SINTOMA 1472 1501	afectación de la sensibilidad
-T30	SINTOMA 900 908	agujetas
-T31	SINTOMA 1000 1022	alteraciones del sueño
-T32	SINTOMA 1127 1145	dolor a la flexión
-T33	SINTOMA 410 448	dolor basal continuo en la zona lumbar
-T34	SINTOMA 410 468	dolor basal continuo en la zona lumbar, de intensidad leve
-T35	SINTOMA 84 111	dolor crónico por lumbalgia
-T36	SINTOMA 623 710	dolor se localizaba en la zona dorsolumbar con irradiación hacia el área inguinogenital
-T37	SINTOMA 1864 1873	dorsalgia
-T38	SINTOMA 2586 2618	elevación de lactodeshidrogenasa
-T39	SINTOMA 2786 2816	elevado gradiente de presiones
-T40	SINTOMA 275 293	fuga periprotésica
-T41	SINTOMA 2766 2783	fuga perivalvular
-T42	SINTOMA 2501 2510	hemólisis
-T43	SINTOMA 299 313	hemólisis leve
-T44	SINTOMA 1057 1107	limitación de la movilidad de la columna vertebral
-T45	SINTOMA 1175 1222	palpación no dolorosa de las apófisis espinosas
-T46	SINTOMA 1368 1456	pruebas para afectación del psoas y la articulación sacroilíaca derecha fueron positivas
-T47	SINTOMA 1241 1280	puntos gatillo en la zona paravertebral
-T48	SINTOMA 889 897	quemazón
-T49	SINTOMA 1148 1171	signo del arco negativo
+T1	SINTOMA 1876 1885	lumbalgia
+T2	SINTOMA 3010 3022	dolor lumbar
+T3	SINTOMA 985 996	parestesias
+T4	SINTOMA 2548 2562	hemoglobinuria
+T5	SINTOMA 2283 2292	lumbalgia
+T6	SINTOMA 1472 1501	afectación de la sensibilidad
+T7	SINTOMA 900 908	agujetas
+T8	SINTOMA 1000 1022	alteraciones del sueño
+T9	SINTOMA 1127 1145	dolor a la flexión
+T10	SINTOMA 410 448	dolor basal continuo en la zona lumbar
+T11	SINTOMA 410 468	dolor basal continuo en la zona lumbar, de intensidad leve
+T12	SINTOMA 84 111	dolor crónico por lumbalgia
+T13	SINTOMA 623 710	dolor se localizaba en la zona dorsolumbar con irradiación hacia el área inguinogenital
+T14	SINTOMA 1864 1873	dorsalgia
+T15	SINTOMA 2586 2618	elevación de lactodeshidrogenasa
+T16	SINTOMA 2786 2816	elevado gradiente de presiones
+T17	SINTOMA 275 293	fuga periprotésica
+T18	SINTOMA 2766 2783	fuga perivalvular
+T19	SINTOMA 2501 2510	hemólisis
+T20	SINTOMA 299 313	hemólisis leve
+T21	SINTOMA 1057 1107	limitación de la movilidad de la columna vertebral
+T22	SINTOMA 1175 1222	palpación no dolorosa de las apófisis espinosas
+T23	SINTOMA 1368 1456	pruebas para afectación del psoas y la articulación sacroilíaca derecha fueron positivas
+T24	SINTOMA 1241 1280	puntos gatillo en la zona paravertebral
+T25	SINTOMA 889 897	quemazón
+T26	SINTOMA 1148 1171	signo del arco negativo
+T27	ENFERMEDAD 1903 1922	síndrome miofascial
+T28	ENFERMEDAD 1575 1631	polidiscopatía con cambios degenerativos en L4-L5, L5-S1
+T29	ENFERMEDAD 1925 1952	polidiscopatía degenerativa
+T30	ENFERMEDAD 1694 1750	improntas discales significativas sobre el canal medular
+T31	ENFERMEDAD 1763 1799	artrosis interapofisaria dorsolumbar
+T32	ENFERMEDAD 2709 2731	dilatación ventricular
+T33	ENFERMEDAD 2738 2761	estenosis mitral severa
+T34	ENFERMEDAD 2766 2783	fuga perivalvular
+T35	ENFERMEDAD 2902 2934	válvula protésica malfuncionante
+T36	ENFERMEDAD 220 293	prótesis de válvula mitral y desde entonces presentaba fuga periprotésica
+T37	PROCEDIMIENTO 1030 1041	exploración
+T38	PROCEDIMIENTO 1175 1222	palpación no dolorosa de las apófisis espinosas
+T39	PROCEDIMIENTO 1368 1439	pruebas para afectación del psoas y la articulación sacroilíaca derecha
+T40	PROCEDIMIENTO 1506 1565	resonancia magnética (RM) de la columna músculo dorsolumbar
+T41	PROCEDIMIENTO 1528 1530	RM
+T42	PROCEDIMIENTO 200 246	implantación de una prótesis de válvula mitral
+T43	PROCEDIMIENTO 2034 2061	electroterapia transcutánea
+T44	PROCEDIMIENTO 2079 2235	infiltración con corticoides y anestésico local en los puntos gatillo correspondientes al músculo cuadrado lumbar derecho y las facetas lumbares bilaterales
+T45	PROCEDIMIENTO 2435 2444	analítica
+T46	PROCEDIMIENTO 2673 2688	ecocardiografía
+T47	PROCEDIMIENTO 2889 2919	remplazar la válvula protésica
+T48	PROCEDIMIENTO 2950 2962	intervención
+T49	PROCEDIMIENTO 357 390	anticoagulado con anticumarínicos

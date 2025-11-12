@@ -1,76 +1,76 @@
-T1	ENFERMEDAD 1328 1342	esplenomegalia
-T2	ENFERMEDAD 2395 2422	síndrome de hiperesplenismo
-T3	ENFERMEDAD 1345 1357	pancitopenia
-T4	ENFERMEDAD 47 71	Alérgica a la penicilina
-T5	ENFERMEDAD 2743 2761	peliosis esplénica
-T6	ENFERMEDAD 1467 1508	hematomas intraparenquimatosos esplénicos
-T7	ENFERMEDAD 3038 3057	recidivas hepáticas
-T8	ENFERMEDAD 174 189	hábitos tóxicos
-T9	ENFERMEDAD 746 760	esplenomegalia
-T10	ENFERMEDAD 806 829	adenopatías periféricas
-T11	ENFERMEDAD 2076 2083	tumores
-T12	ENFERMEDAD 2752 2791	esplénica sin hiperplasia del endotelio
-T13	PROCEDIMIENTO 1025 1035	bioquímica
-T14	PROCEDIMIENTO 1085 1098	función renal
-T15	PROCEDIMIENTO 1101 1110	ionograma
-T16	PROCEDIMIENTO 1113 1129	Radiológicamente
-T17	PROCEDIMIENTO 133 138	parto
-T18	PROCEDIMIENTO 1401 1420	ecografía abdominal
-T19	PROCEDIMIENTO 1513 1532	TAC toracoabdominal
-T20	PROCEDIMIENTO 1575 1597	estudios citogenéticos
-T21	PROCEDIMIENTO 1609 1634	serología hepática vírica
-T22	PROCEDIMIENTO 1645 1652	mantoux
-T23	PROCEDIMIENTO 1663 1679	estudio hormonal
-T24	PROCEDIMIENTO 1688 1716	metabolitos del ácido fólico
-T25	PROCEDIMIENTO 1727 1749	estudio de coagulación
-T26	PROCEDIMIENTO 1820 1863	coombs directo eritrocitario poliespecífico
-T27	PROCEDIMIENTO 1874 1887	proteinograma
-T28	PROCEDIMIENTO 2011 2031	marcadores tumorales
-T29	PROCEDIMIENTO 2093 2103	mamografía
-T30	PROCEDIMIENTO 2105 2117	colonoscopia
-T31	PROCEDIMIENTO 2119 2136	citología genital
-T32	PROCEDIMIENTO 2138 2160	biopsia de médula ósea
-T33	PROCEDIMIENTO 2195 2259	transfusión de 450 cc de concentrado de hematíes desleucotizados
-T34	PROCEDIMIENTO 2342 2353	analgésicos
-T35	PROCEDIMIENTO 2449 2508	esplenectomía, que se realizó reglada por vía laparoscópica
-T36	PROCEDIMIENTO 2670 2690	retirada del drenaje
-T37	PROCEDIMIENTO 2703 2720	anatomopatológico
-T38	PROCEDIMIENTO 484 495	exploración
-T39	PROCEDIMIENTO 640 672	Auscultación cardiaca y pulmonar
-T40	PROCEDIMIENTO 73 90	amigdalectomizada
-T41	PROCEDIMIENTO 93 110	adenoidectomizada
-T42	SINTOMA 686 715	abdomen es blando, depresible
-T43	SINTOMA 2607 2614	afebril
-T44	SINTOMA 2557 2564	afebril
-T45	SINTOMA 1182 1217	alteración de los hilios pulmonares
-T46	SINTOMA 445 477	alteración del hábito intestinal
-T47	SINTOMA 322 353	aumento del perímetro abdominal
-T48	SINTOMA 640 681	Auscultación cardiaca y pulmonar normales
-T49	SINTOMA 1025 1073	bioquímica con parámetros estrictamente normales
-T50	SINTOMA 510 520	consciente
-T51	SINTOMA 1820 1872	coombs directo eritrocitario poliespecífico negativo
-T52	SINTOMA 1221 1260	desplazamiento de las asas intestinales
-T53	SINTOMA 2629 2634	dolor
-T54	SINTOMA 30 45	dolor abdominal
-T55	SINTOMA 2311 2326	dolor abdominal
-T56	SINTOMA 236 266	dolor en hipocondrio izquierdo
-T57	SINTOMA 1268 1304	efecto masa en hipocondrio izquierdo
-T58	SINTOMA 1142 1177	elevación de los dos hemidiafragmas
-T59	SINTOMA 2275 2300	estable hemodinámicamente
-T60	SINTOMA 1663 1686	estudio hormonal normal
-T61	SINTOMA 1575 1607	estudios citogenéticos negativos
-T62	SINTOMA 365 371	fiebre
-T63	SINTOMA 1799 1818	haptoglobina normal
-T64	SINTOMA 1955 1979	leve descenso del hierro
-T65	SINTOMA 1892 1928	leve incremento de la gammaglobulina
-T66	SINTOMA 1645 1661	mantoux negativo
-T67	SINTOMA 2011 2048	marcadores tumorales fueron negativos
-T68	SINTOMA 1688 1725	metabolitos del ácido fólico normales
-T69	SINTOMA 355 362	náuseas
-T70	SINTOMA 533 547	normohidratada
-T71	SINTOMA 522 531	orientada
-T72	SINTOMA 560 585	palidez de piel y mucosas
-T73	SINTOMA 2926 2978	parámetros normales de las tres series hematológicas
-T74	SINTOMA 1609 1643	serología hepática vírica negativa
-T75	SINTOMA 426 441	síndrome tóxico
-T76	SINTOMA 1786 1797	trombopenia
+T1	SINTOMA 686 715	abdomen es blando, depresible
+T2	SINTOMA 2607 2614	afebril
+T3	SINTOMA 2557 2564	afebril
+T4	SINTOMA 1182 1217	alteración de los hilios pulmonares
+T5	SINTOMA 445 477	alteración del hábito intestinal
+T6	SINTOMA 322 353	aumento del perímetro abdominal
+T7	SINTOMA 640 681	Auscultación cardiaca y pulmonar normales
+T8	SINTOMA 1025 1073	bioquímica con parámetros estrictamente normales
+T9	SINTOMA 510 520	consciente
+T10	SINTOMA 1820 1872	coombs directo eritrocitario poliespecífico negativo
+T11	SINTOMA 1221 1260	desplazamiento de las asas intestinales
+T12	SINTOMA 2629 2634	dolor
+T13	SINTOMA 30 45	dolor abdominal
+T14	SINTOMA 2311 2326	dolor abdominal
+T15	SINTOMA 236 266	dolor en hipocondrio izquierdo
+T16	SINTOMA 1268 1304	efecto masa en hipocondrio izquierdo
+T17	SINTOMA 1142 1177	elevación de los dos hemidiafragmas
+T18	SINTOMA 2275 2300	estable hemodinámicamente
+T19	SINTOMA 1663 1686	estudio hormonal normal
+T20	SINTOMA 1575 1607	estudios citogenéticos negativos
+T21	SINTOMA 365 371	fiebre
+T22	SINTOMA 1799 1818	haptoglobina normal
+T23	SINTOMA 1955 1979	leve descenso del hierro
+T24	SINTOMA 1892 1928	leve incremento de la gammaglobulina
+T25	SINTOMA 1645 1661	mantoux negativo
+T26	SINTOMA 2011 2048	marcadores tumorales fueron negativos
+T27	SINTOMA 1688 1725	metabolitos del ácido fólico normales
+T28	SINTOMA 355 362	náuseas
+T29	SINTOMA 533 547	normohidratada
+T30	SINTOMA 522 531	orientada
+T31	SINTOMA 560 585	palidez de piel y mucosas
+T32	SINTOMA 2926 2978	parámetros normales de las tres series hematológicas
+T33	SINTOMA 1609 1643	serología hepática vírica negativa
+T34	SINTOMA 426 441	síndrome tóxico
+T35	SINTOMA 1786 1797	trombopenia
+T36	ENFERMEDAD 1328 1342	esplenomegalia
+T37	ENFERMEDAD 2395 2422	síndrome de hiperesplenismo
+T38	ENFERMEDAD 1345 1357	pancitopenia
+T39	ENFERMEDAD 47 71	Alérgica a la penicilina
+T40	ENFERMEDAD 2743 2761	peliosis esplénica
+T41	ENFERMEDAD 1467 1508	hematomas intraparenquimatosos esplénicos
+T42	ENFERMEDAD 3038 3057	recidivas hepáticas
+T43	ENFERMEDAD 174 189	hábitos tóxicos
+T44	ENFERMEDAD 746 760	esplenomegalia
+T45	ENFERMEDAD 806 829	adenopatías periféricas
+T46	ENFERMEDAD 2076 2083	tumores
+T47	ENFERMEDAD 2752 2791	esplénica sin hiperplasia del endotelio
+T48	PROCEDIMIENTO 1025 1035	bioquímica
+T49	PROCEDIMIENTO 1085 1098	función renal
+T50	PROCEDIMIENTO 1101 1110	ionograma
+T51	PROCEDIMIENTO 1113 1129	Radiológicamente
+T52	PROCEDIMIENTO 133 138	parto
+T53	PROCEDIMIENTO 1401 1420	ecografía abdominal
+T54	PROCEDIMIENTO 1513 1532	TAC toracoabdominal
+T55	PROCEDIMIENTO 1575 1597	estudios citogenéticos
+T56	PROCEDIMIENTO 1609 1634	serología hepática vírica
+T57	PROCEDIMIENTO 1645 1652	mantoux
+T58	PROCEDIMIENTO 1663 1679	estudio hormonal
+T59	PROCEDIMIENTO 1688 1716	metabolitos del ácido fólico
+T60	PROCEDIMIENTO 1727 1749	estudio de coagulación
+T61	PROCEDIMIENTO 1820 1863	coombs directo eritrocitario poliespecífico
+T62	PROCEDIMIENTO 1874 1887	proteinograma
+T63	PROCEDIMIENTO 2011 2031	marcadores tumorales
+T64	PROCEDIMIENTO 2093 2103	mamografía
+T65	PROCEDIMIENTO 2105 2117	colonoscopia
+T66	PROCEDIMIENTO 2119 2136	citología genital
+T67	PROCEDIMIENTO 2138 2160	biopsia de médula ósea
+T68	PROCEDIMIENTO 2195 2259	transfusión de 450 cc de concentrado de hematíes desleucotizados
+T69	PROCEDIMIENTO 2342 2353	analgésicos
+T70	PROCEDIMIENTO 2449 2508	esplenectomía, que se realizó reglada por vía laparoscópica
+T71	PROCEDIMIENTO 2670 2690	retirada del drenaje
+T72	PROCEDIMIENTO 2703 2720	anatomopatológico
+T73	PROCEDIMIENTO 484 495	exploración
+T74	PROCEDIMIENTO 640 672	Auscultación cardiaca y pulmonar
+T75	PROCEDIMIENTO 73 90	amigdalectomizada
+T76	PROCEDIMIENTO 93 110	adenoidectomizada

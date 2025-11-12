@@ -1,19 +1,19 @@
-T1	ENFERMEDAD 37 58	hipertensión arterial
-T2	ENFERMEDAD 1410 1436	leucemia linfática crónica
-T3	ENFERMEDAD 60 89	valvulopatía aórtica y mitral
-T4	ENFERMEDAD 194 220	Leucemia Linfática Crónica
-T5	ENFERMEDAD 374 452	adenopatías a nivel cervical, axilar, mediastínico, retroperitoneal e inguinal
-T6	ENFERMEDAD 628 648	neoplasia prostática
-T7	ENFERMEDAD 91 118	hematoma parietal izquierdo
-T8	PROCEDIMIENTO 1198 1241	Se toman biopsias prostáticas por sextantes
-T9	PROCEDIMIENTO 120 163	herniorrafia inguinal izquierda y umbilical
-T10	PROCEDIMIENTO 1254 1271	anatomopatológico
-T11	PROCEDIMIENTO 325 350	TAC toracoabdominopélvico
-T12	PROCEDIMIENTO 661 677	analítica de PSA
-T13	PROCEDIMIENTO 742 763	ecografía transrectal
-T14	PROCEDIMIENTO 766 786	biopsias prostáticas
-T15	PROCEDIMIENTO 837 849	tacto rectal
-T16	PROCEDIMIENTO 994 1015	ecografía transrectal
-T17	SINTOMA 812 829	clínica urológica
-T18	SINTOMA 467 512	imagen hipodensa de 3 cm el lóbulo prostático
-T19	SINTOMA 865 932	próstata mal delimitada en ambas bases, con aumento de consistencia
+T1	SINTOMA 812 829	clínica urológica
+T2	SINTOMA 467 512	imagen hipodensa de 3 cm el lóbulo prostático
+T3	SINTOMA 865 932	próstata mal delimitada en ambas bases, con aumento de consistencia
+T4	ENFERMEDAD 37 58	hipertensión arterial
+T5	ENFERMEDAD 1410 1436	leucemia linfática crónica
+T6	ENFERMEDAD 60 89	valvulopatía aórtica y mitral
+T7	ENFERMEDAD 194 220	Leucemia Linfática Crónica
+T8	ENFERMEDAD 374 452	adenopatías a nivel cervical, axilar, mediastínico, retroperitoneal e inguinal
+T9	ENFERMEDAD 628 648	neoplasia prostática
+T10	ENFERMEDAD 91 118	hematoma parietal izquierdo
+T11	PROCEDIMIENTO 1198 1241	Se toman biopsias prostáticas por sextantes
+T12	PROCEDIMIENTO 120 163	herniorrafia inguinal izquierda y umbilical
+T13	PROCEDIMIENTO 1254 1271	anatomopatológico
+T14	PROCEDIMIENTO 325 350	TAC toracoabdominopélvico
+T15	PROCEDIMIENTO 661 677	analítica de PSA
+T16	PROCEDIMIENTO 742 763	ecografía transrectal
+T17	PROCEDIMIENTO 766 786	biopsias prostáticas
+T18	PROCEDIMIENTO 837 849	tacto rectal
+T19	PROCEDIMIENTO 994 1015	ecografía transrectal

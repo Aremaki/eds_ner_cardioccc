@@ -1,54 +1,54 @@
-T1	ENFERMEDAD 97 120	adenocarcinoma gástrico
-T2	ENFERMEDAD 140 161	hipertensión arterial
-T3	ENFERMEDAD 377 395	anemia hipocrómica
-T4	ENFERMEDAD 398 411	estreñimiento
-T5	ENFERMEDAD 587 610	adenocarcinoma gástrico
-T6	ENFERMEDAD 655 668	estreñimiento
-T7	ENFERMEDAD 674 680	anemia
-T8	ENFERMEDAD 724 750	ascitis por carcinomatosis
-T9	ENFERMEDAD 752 782	obstrucción intestinal tumoral
-T10	ENFERMEDAD 1091 1128	pólipo inflamatorio en muñón gástrico
-T11	ENFERMEDAD 1147 1163	recidiva tumoral
-T12	ENFERMEDAD 1336 1355	tumoración quística
-T13	ENFERMEDAD 1592 1633	lesión quística voluminosa intraabdominal
-T14	ENFERMEDAD 1946 1959	masa quística
-T15	ENFERMEDAD 2271 2336	hidronefrosis gigante secundaria a uropatía obstructiva litiásica
-T16	ENFERMEDAD 2591 2602	adenopatías
-T17	ENFERMEDAD 2864 2900	dilatación del sistema pielocalicial
-T18	ENFERMEDAD 2903 2932	atrofia parenquimatosa severa
-T19	ENFERMEDAD 3247 3320	infiltración ganglionar de carcinoma de células renales tipo célula clara
-T20	ENFERMEDAD 3381 3401	metástasis hepáticas
-T21	ENFERMEDAD 3071 3104	infiltración del parénquima renal
-T22	PROCEDIMIENTO 1067 1079	gastroscopia
-T23	PROCEDIMIENTO 1205 1217	colonoscopia
-T24	PROCEDIMIENTO 1283 1308	ecografía abdominopélvica
-T25	PROCEDIMIENTO 1680 1701	urografía intravenosa
-T26	PROCEDIMIENTO 1909 1919	cistograma
-T27	PROCEDIMIENTO 1924 1927	TAC
-T28	PROCEDIMIENTO 2366 2384	drenaje percutáneo
-T29	PROCEDIMIENTO 2397 2408	nefrectomía
-T30	PROCEDIMIENTO 2421 2472	nefrectomía simple derecha por lumbotomía subcostal
-T31	PROCEDIMIENTO 2473 2525	evacuando 7.800 mililitros de contenido serohemático
-T32	PROCEDIMIENTO 2539 2570	linfadenectomía hiliar ampliada
-T33	PROCEDIMIENTO 2621 2639	cultivo del fluido
-T34	PROCEDIMIENTO 2674 2683	citología
-T35	PROCEDIMIENTO 2719 2730	radiológica
-T36	PROCEDIMIENTO 2773 2791	examen histológico
-T37	PROCEDIMIENTO 419 437	exploración física
-T38	PROCEDIMIENTO 71 92	gastrectomía subtotal
-T39	PROCEDIMIENTO 999 1042	marcadores tumorales hepáticos y digestivos
-T40	SINTOMA 398 411	estreñimiento
-T41	SINTOMA 655 668	estreñimiento
-T42	SINTOMA 459 469	tumoración
-T43	SINTOMA 3416 3429	fallecimiento
-T44	SINTOMA 312 320	anorexia
-T45	SINTOMA 1719 1746	anulación funcional derecha
-T46	SINTOMA 2621 2656	cultivo del fluido resulto negativo
-T47	SINTOMA 1782 1862	efecto masa que desplaza el luminograma digestivo hacia el hipocondrio izquierdo
-T48	SINTOMA 2097 2143	imagen cálcica en teórica zona de pelvis renal
-T49	SINTOMA 999 1062	marcadores tumorales hepáticos y digestivos resultaron anodinos
-T50	SINTOMA 1748 1774	normofunción contralateral
-T51	SINTOMA 1477 1520	riñón izquierdo de características normales
-T52	SINTOMA 615 650	severo deterioro del estado general
-T53	SINTOMA 785 805	tumoración abdominal
-T54	SINTOMA 2734 2754	tumoración urotelial
+T1	SINTOMA 398 411	estreñimiento
+T2	SINTOMA 655 668	estreñimiento
+T3	SINTOMA 459 469	tumoración
+T4	SINTOMA 3416 3429	fallecimiento
+T5	SINTOMA 312 320	anorexia
+T6	SINTOMA 1719 1746	anulación funcional derecha
+T7	SINTOMA 2621 2656	cultivo del fluido resulto negativo
+T8	SINTOMA 1782 1862	efecto masa que desplaza el luminograma digestivo hacia el hipocondrio izquierdo
+T9	SINTOMA 2097 2143	imagen cálcica en teórica zona de pelvis renal
+T10	SINTOMA 999 1062	marcadores tumorales hepáticos y digestivos resultaron anodinos
+T11	SINTOMA 1748 1774	normofunción contralateral
+T12	SINTOMA 1477 1520	riñón izquierdo de características normales
+T13	SINTOMA 615 650	severo deterioro del estado general
+T14	SINTOMA 785 805	tumoración abdominal
+T15	SINTOMA 2734 2754	tumoración urotelial
+T16	ENFERMEDAD 97 120	adenocarcinoma gástrico
+T17	ENFERMEDAD 140 161	hipertensión arterial
+T18	ENFERMEDAD 377 395	anemia hipocrómica
+T19	ENFERMEDAD 398 411	estreñimiento
+T20	ENFERMEDAD 587 610	adenocarcinoma gástrico
+T21	ENFERMEDAD 655 668	estreñimiento
+T22	ENFERMEDAD 674 680	anemia
+T23	ENFERMEDAD 724 750	ascitis por carcinomatosis
+T24	ENFERMEDAD 752 782	obstrucción intestinal tumoral
+T25	ENFERMEDAD 1091 1128	pólipo inflamatorio en muñón gástrico
+T26	ENFERMEDAD 1147 1163	recidiva tumoral
+T27	ENFERMEDAD 1336 1355	tumoración quística
+T28	ENFERMEDAD 1592 1633	lesión quística voluminosa intraabdominal
+T29	ENFERMEDAD 1946 1959	masa quística
+T30	ENFERMEDAD 2271 2336	hidronefrosis gigante secundaria a uropatía obstructiva litiásica
+T31	ENFERMEDAD 2591 2602	adenopatías
+T32	ENFERMEDAD 2864 2900	dilatación del sistema pielocalicial
+T33	ENFERMEDAD 2903 2932	atrofia parenquimatosa severa
+T34	ENFERMEDAD 3247 3320	infiltración ganglionar de carcinoma de células renales tipo célula clara
+T35	ENFERMEDAD 3381 3401	metástasis hepáticas
+T36	ENFERMEDAD 3071 3104	infiltración del parénquima renal
+T37	PROCEDIMIENTO 1067 1079	gastroscopia
+T38	PROCEDIMIENTO 1205 1217	colonoscopia
+T39	PROCEDIMIENTO 1283 1308	ecografía abdominopélvica
+T40	PROCEDIMIENTO 1680 1701	urografía intravenosa
+T41	PROCEDIMIENTO 1909 1919	cistograma
+T42	PROCEDIMIENTO 1924 1927	TAC
+T43	PROCEDIMIENTO 2366 2384	drenaje percutáneo
+T44	PROCEDIMIENTO 2397 2408	nefrectomía
+T45	PROCEDIMIENTO 2421 2472	nefrectomía simple derecha por lumbotomía subcostal
+T46	PROCEDIMIENTO 2473 2525	evacuando 7.800 mililitros de contenido serohemático
+T47	PROCEDIMIENTO 2539 2570	linfadenectomía hiliar ampliada
+T48	PROCEDIMIENTO 2621 2639	cultivo del fluido
+T49	PROCEDIMIENTO 2674 2683	citología
+T50	PROCEDIMIENTO 2719 2730	radiológica
+T51	PROCEDIMIENTO 2773 2791	examen histológico
+T52	PROCEDIMIENTO 419 437	exploración física
+T53	PROCEDIMIENTO 71 92	gastrectomía subtotal
+T54	PROCEDIMIENTO 999 1042	marcadores tumorales hepáticos y digestivos

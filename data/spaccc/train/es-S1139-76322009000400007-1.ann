@@ -1,14 +1,14 @@
-T1	ENFERMEDAD 399 439	infección leve de vías aéreas superiores
-T2	ENFERMEDAD 1872 1910	eritema nodoso de etiología idiopática
-T3	ENFERMEDAD 169 234	lesiones eritematosas en la superficie pretibial de ambas piernas
-T4	ENFERMEDAD 675 683	lesiones
-T5	ENFERMEDAD 855 863	lesiones
-T6	ENFERMEDAD 1687 1695	lesiones
-T7	SINTOMA 1548 1569	ASLO que fue negativo
-T8	SINTOMA 630 669	auscultación cardiorrespiratoria normal
-T9	SINTOMA 1530 1546	Mantoux negativo
-T10	SINTOMA 705 785	nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación
-T11	SINTOMA 1481 1528	radiografía de tórax, sin hallazgos patológicos
-T12	SINTOMA 1572 1627	serología virus de Epstein Barr (VEB), con IgG positiva
-T13	SINTOMA 1643 1665	test embarazo negativo
-T14	SINTOMA 543 549	fiebre
+T1	SINTOMA 1548 1569	ASLO que fue negativo
+T2	SINTOMA 630 669	auscultación cardiorrespiratoria normal
+T3	SINTOMA 1530 1546	Mantoux negativo
+T4	SINTOMA 705 785	nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación
+T5	SINTOMA 1481 1528	radiografía de tórax, sin hallazgos patológicos
+T6	SINTOMA 1572 1627	serología virus de Epstein Barr (VEB), con IgG positiva
+T7	SINTOMA 1643 1665	test embarazo negativo
+T8	SINTOMA 543 549	fiebre
+T9	ENFERMEDAD 399 439	infección leve de vías aéreas superiores
+T10	ENFERMEDAD 1872 1910	eritema nodoso de etiología idiopática
+T11	ENFERMEDAD 169 234	lesiones eritematosas en la superficie pretibial de ambas piernas
+T12	ENFERMEDAD 675 683	lesiones
+T13	ENFERMEDAD 855 863	lesiones
+T14	ENFERMEDAD 1687 1695	lesiones

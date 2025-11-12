@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 2485 2505	sinusitis esfenoidal
-T2	ENFERMEDAD 191 222	infecciones respiratorias altas
-T3	ENFERMEDAD 1934 1943	sinusitis
-T4	ENFERMEDAD 310 334	mononucleosis infecciosa
-T5	ENFERMEDAD 1946 1956	meningitis
-T6	ENFERMEDAD 344 359	cuadro catarral
-T7	ENFERMEDAD 1123 1162	adenopatías látero-cervicales, axilares
-T8	ENFERMEDAD 2186 2195	sinusitis
-T9	ENFERMEDAD 2264 2291	trombosis de seno cavernoso
-T10	ENFERMEDAD 2294 2305	encefalitis
-T11	ENFERMEDAD 2428 2445	sinusopatía aguda
-T12	ENFERMEDAD 1052 1108	rash maculoso y eritematoso que afecta a tronco y cuello
-T13	ENFERMEDAD 555 572	obstrucción nasal
-T14	SINTOMA 1363 1392	abdomen es blando, depresible
-T15	SINTOMA 1754 1786	analítica de orina no patológica
-T16	SINTOMA 2843 2855	asintomático
-T17	SINTOMA 1181 1213	auscultación cardíaca es rítmica
-T18	SINTOMA 852 872	Buen aspecto general
-T19	SINTOMA 2780 2787	cefalea
-T20	SINTOMA 456 499	cefalea global, más intensa a nivel frontal
-T21	SINTOMA 65 80	cefalea intensa
-T22	SINTOMA 727 739	convulsiones
-T23	SINTOMA 877 922	correcta hidratación y perfusión muco-cutánea
-T24	SINTOMA 1333 1344	crepitantes
-T25	SINTOMA 753 764	escalofríos
-T26	SINTOMA 1534 1581	exploración neurológica es rigurosamente normal
-T27	SINTOMA 951 964	Facies febril
-T28	SINTOMA 2793 2802	febrícula
-T29	SINTOMA 421 427	fiebre
-T30	SINTOMA 1817 1870	leucocitosis con presencia de formas jóvenes (cayados
-T31	SINTOMA 392 408	malestar general
-T32	SINTOMA 1408 1413	masas
-T33	SINTOMA 1417 1425	megalias
-T34	SINTOMA 1612 1622	meningismo
-T35	SINTOMA 1277 1306	murmullo vesicular conservado
-T36	SINTOMA 555 572	obstrucción nasal
-T37	SINTOMA 2367 2396	ocupación del seno esfenoidal
-T38	SINTOMA 704 725	pérdida de conciencia
-T39	SINTOMA 1504 1529	pulsos distales presentes
-T40	SINTOMA 969 1022	puntos dolorosos en la percusión de senos paranasales
-T41	SINTOMA 83 98	quebrantamiento
-T42	SINTOMA 1711 1752	radiografía de tórax rigurosamente normal
-T43	SINTOMA 1052 1108	rash maculoso y eritematoso que afecta a tronco y cuello
-T44	SINTOMA 543 551	rinorrea
-T45	SINTOMA 1325 1331	roncus
-T46	SINTOMA 603 665	secreción nasal purulenta que alguna vez ha sido sanguinolenta
-T47	SINTOMA 1348 1358	sibilantes
-T48	SINTOMA 1232 1238	soplos
-T49	SINTOMA 741 749	tiritona
-T50	SINTOMA 410 418	tos seca
+T1	SINTOMA 1363 1392	abdomen es blando, depresible
+T2	SINTOMA 1754 1786	analítica de orina no patológica
+T3	SINTOMA 2843 2855	asintomático
+T4	SINTOMA 1181 1213	auscultación cardíaca es rítmica
+T5	SINTOMA 852 872	Buen aspecto general
+T6	SINTOMA 2780 2787	cefalea
+T7	SINTOMA 456 499	cefalea global, más intensa a nivel frontal
+T8	SINTOMA 65 80	cefalea intensa
+T9	SINTOMA 727 739	convulsiones
+T10	SINTOMA 877 922	correcta hidratación y perfusión muco-cutánea
+T11	SINTOMA 1333 1344	crepitantes
+T12	SINTOMA 753 764	escalofríos
+T13	SINTOMA 1534 1581	exploración neurológica es rigurosamente normal
+T14	SINTOMA 951 964	Facies febril
+T15	SINTOMA 2793 2802	febrícula
+T16	SINTOMA 421 427	fiebre
+T17	SINTOMA 1817 1870	leucocitosis con presencia de formas jóvenes (cayados
+T18	SINTOMA 392 408	malestar general
+T19	SINTOMA 1408 1413	masas
+T20	SINTOMA 1417 1425	megalias
+T21	SINTOMA 1612 1622	meningismo
+T22	SINTOMA 1277 1306	murmullo vesicular conservado
+T23	SINTOMA 555 572	obstrucción nasal
+T24	SINTOMA 2367 2396	ocupación del seno esfenoidal
+T25	SINTOMA 704 725	pérdida de conciencia
+T26	SINTOMA 1504 1529	pulsos distales presentes
+T27	SINTOMA 969 1022	puntos dolorosos en la percusión de senos paranasales
+T28	SINTOMA 83 98	quebrantamiento
+T29	SINTOMA 1711 1752	radiografía de tórax rigurosamente normal
+T30	SINTOMA 1052 1108	rash maculoso y eritematoso que afecta a tronco y cuello
+T31	SINTOMA 543 551	rinorrea
+T32	SINTOMA 1325 1331	roncus
+T33	SINTOMA 603 665	secreción nasal purulenta que alguna vez ha sido sanguinolenta
+T34	SINTOMA 1348 1358	sibilantes
+T35	SINTOMA 1232 1238	soplos
+T36	SINTOMA 741 749	tiritona
+T37	SINTOMA 410 418	tos seca
+T38	ENFERMEDAD 2485 2505	sinusitis esfenoidal
+T39	ENFERMEDAD 191 222	infecciones respiratorias altas
+T40	ENFERMEDAD 1934 1943	sinusitis
+T41	ENFERMEDAD 310 334	mononucleosis infecciosa
+T42	ENFERMEDAD 1946 1956	meningitis
+T43	ENFERMEDAD 344 359	cuadro catarral
+T44	ENFERMEDAD 1123 1162	adenopatías látero-cervicales, axilares
+T45	ENFERMEDAD 2186 2195	sinusitis
+T46	ENFERMEDAD 2264 2291	trombosis de seno cavernoso
+T47	ENFERMEDAD 2294 2305	encefalitis
+T48	ENFERMEDAD 2428 2445	sinusopatía aguda
+T49	ENFERMEDAD 1052 1108	rash maculoso y eritematoso que afecta a tronco y cuello
+T50	ENFERMEDAD 555 572	obstrucción nasal

@@ -1,34 +1,34 @@
-T1	ENFERMEDAD 45 84	enfermedad pulmonar obstructiva crónica
-T2	ENFERMEDAD 135 166	carcinoma epidermoide de pulmón
-T3	ENFERMEDAD 256 264	alergias
-T4	ENFERMEDAD 345 357	cólico renal
-T5	ENFERMEDAD 826 832	anemia
-T6	ENFERMEDAD 915 937	hematuria microscópica
-T7	ENFERMEDAD 969 1014	quiste cortical en el polo superior del riñón
-T8	ENFERMEDAD 1050 1076	tumoración sólido-quística
-T9	ENFERMEDAD 1241 1262	quiste renal complejo
-T10	ENFERMEDAD 1389 1407	enfisema bilateral
-T11	ENFERMEDAD 1409 1466	Adenopatías retroperitoneales en el territorio aorto-cava
-T12	ENFERMEDAD 1592 1607	carcinoma renal
-T13	ENFERMEDAD 1612 1622	metástasis
-T14	ENFERMEDAD 1757 1773	metástasis renal
-T15	ENFERMEDAD 1787 1817	carcinoma epidermoide pulmonar
-T16	ENFERMEDAD 2561 2573	lesión renal
-T17	ENFERMEDAD 2685 2715	neoplasia pulmonar metastásica
-T18	ENFERMEDAD 172 174	M0
-T19	ENFERMEDAD 1757 1817	metástasis renal izquierdo de carcinoma epidermoide pulmonar
-T20	SINTOMA 1338 1374	cambios postquirúrgicos en el pulmón
-T21	SINTOMA 2186 2214	crecimiento de la masa renal
-T22	SINTOMA 456 500	hematuria con emisión de coágulos filiformes
-T23	SINTOMA 915 937	hematuria microscópica
-T24	SINTOMA 649 691	puñopercusión izquierda levemente positiva
-T25	SINTOMA 1150 1201	riñón derecho, la vejiga y la próstata son normales
-T26	SINTOMA 693 720	Abdomen blando y depresible
-T27	SINTOMA 168 174	T2N0M0
-T28	SINTOMA 844 877	bioquímica y coagulación normales
-T29	SINTOMA 1223 1233	masa renal
-T30	SINTOMA 1498 1508	masa renal
-T31	SINTOMA 725 730	masas
-T32	SINTOMA 734 742	megalias
-T33	SINTOMA 628 647	palidez mucocutánea
-T34	SINTOMA 421 439	síndrome miccional
+T1	SINTOMA 1338 1374	cambios postquirúrgicos en el pulmón
+T2	SINTOMA 2186 2214	crecimiento de la masa renal
+T3	SINTOMA 456 500	hematuria con emisión de coágulos filiformes
+T4	SINTOMA 915 937	hematuria microscópica
+T5	SINTOMA 649 691	puñopercusión izquierda levemente positiva
+T6	SINTOMA 1150 1201	riñón derecho, la vejiga y la próstata son normales
+T7	SINTOMA 693 720	Abdomen blando y depresible
+T8	SINTOMA 168 174	T2N0M0
+T9	SINTOMA 844 877	bioquímica y coagulación normales
+T10	SINTOMA 1223 1233	masa renal
+T11	SINTOMA 1498 1508	masa renal
+T12	SINTOMA 725 730	masas
+T13	SINTOMA 734 742	megalias
+T14	SINTOMA 628 647	palidez mucocutánea
+T15	SINTOMA 421 439	síndrome miccional
+T16	ENFERMEDAD 45 84	enfermedad pulmonar obstructiva crónica
+T17	ENFERMEDAD 135 166	carcinoma epidermoide de pulmón
+T18	ENFERMEDAD 256 264	alergias
+T19	ENFERMEDAD 345 357	cólico renal
+T20	ENFERMEDAD 826 832	anemia
+T21	ENFERMEDAD 915 937	hematuria microscópica
+T22	ENFERMEDAD 969 1014	quiste cortical en el polo superior del riñón
+T23	ENFERMEDAD 1050 1076	tumoración sólido-quística
+T24	ENFERMEDAD 1241 1262	quiste renal complejo
+T25	ENFERMEDAD 1389 1407	enfisema bilateral
+T26	ENFERMEDAD 1409 1466	Adenopatías retroperitoneales en el territorio aorto-cava
+T27	ENFERMEDAD 1592 1607	carcinoma renal
+T28	ENFERMEDAD 1612 1622	metástasis
+T29	ENFERMEDAD 1757 1773	metástasis renal
+T30	ENFERMEDAD 1787 1817	carcinoma epidermoide pulmonar
+T31	ENFERMEDAD 2561 2573	lesión renal
+T32	ENFERMEDAD 2685 2715	neoplasia pulmonar metastásica
+T33	ENFERMEDAD 172 174	M0
+T34	ENFERMEDAD 1757 1817	metástasis renal izquierdo de carcinoma epidermoide pulmonar

@@ -1,44 +1,44 @@
-T1	ENFERMEDAD 37 58	cardiopatía isquémica
-T2	ENFERMEDAD 77 109	artritis reumatoide seronegativa
-T3	ENFERMEDAD 126 167	poliartritis crónica, simétrica y erosiva
-T4	ENFERMEDAD 446 464	anemia normocítica
-T5	ENFERMEDAD 485 522	neuropatía periférica sensitivomotora
-T6	ENFERMEDAD 671 703	macroglobulinemia de Waldenström
-T7	ENFERMEDAD 1392 1423	derrame a tensión en la rodilla
-T8	ENFERMEDAD 2858 2877	esteatosis hepática
-T9	ENFERMEDAD 525 539	esplenomegalia
-T10	ENFERMEDAD 2889 2903	esplenomegalia
-T11	PROCEDIMIENTO 1321 1332	exploración
-T12	PROCEDIMIENTO 1527 1540	artrocentesis
-T13	PROCEDIMIENTO 1646 1661	tinción de Gram
-T14	PROCEDIMIENTO 1714 1732	cultivos aeróbicos
-T15	PROCEDIMIENTO 1890 1899	hemograma
-T16	PROCEDIMIENTO 2039 2069	Dosificación de inmuglobulinas
-T17	PROCEDIMIENTO 2267 2277	bioquímica
-T18	PROCEDIMIENTO 2497 2514	análisis de orina
-T19	PROCEDIMIENTO 2516 2562	serología para Salmonella, Shigella y Yersinia
-T20	PROCEDIMIENTO 2564 2602	dosificación del complemento (C3 y C4)
-T21	PROCEDIMIENTO 2605 2630	anticuerpos antinucleares
-T22	PROCEDIMIENTO 2682 2702	radiografía de tórax
-T23	PROCEDIMIENTO 2730 2763	radiografía de la rodilla derecha
-T24	PROCEDIMIENTO 2819 2838	ecografía abdominal
-T25	PROCEDIMIENTO 2915 2972	drenaje y lavado de la articulación con suero fisiológico
-T26	PROCEDIMIENTO 356 393	artroplastia total de rodilla derecha
-T27	PROCEDIMIENTO 544 564	estudio hematológico
-T28	PROCEDIMIENTO 627 649	biopsia de médula ósea
-T29	PROCEDIMIENTO 929 960	terapia con agentes alquilantes
-T30	PROCEDIMIENTO 963 986	análogos de nucleósidos
-T31	SINTOMA 1488 1522	abolición de los reflejos aquíleos
-T32	SINTOMA 1527 1573	artrocentesis dio salida a un fluido purulento
-T33	SINTOMA 575 603	componente monoclonal de IgM
-T34	SINTOMA 1714 1761	cultivos aeróbicos se recuperó L. monocytogenes
-T35	SINTOMA 1050 1064	diarrea febril
-T36	SINTOMA 1134 1206	dolor, tumefacción y progresiva limitación de la movilidad en la rodilla
-T37	SINTOMA 740 747	estable
-T38	SINTOMA 466 479	fatigabilidad
-T39	SINTOMA 1123 1132	febrícula
-T40	SINTOMA 1433 1485	hipoestesia parcheada en las extremidades inferiores
-T41	SINTOMA 750 766	oligosintomática
-T42	SINTOMA 2682 2725	radiografía de tórax no mostró alteraciones
-T43	SINTOMA 2782 2811	radiolucencias periprotésicas
-T44	SINTOMA 1378 1423	tumefacción y derrame a tensión en la rodilla
+T1	SINTOMA 1488 1522	abolición de los reflejos aquíleos
+T2	SINTOMA 1527 1573	artrocentesis dio salida a un fluido purulento
+T3	SINTOMA 575 603	componente monoclonal de IgM
+T4	SINTOMA 1714 1761	cultivos aeróbicos se recuperó L. monocytogenes
+T5	SINTOMA 1050 1064	diarrea febril
+T6	SINTOMA 1134 1206	dolor, tumefacción y progresiva limitación de la movilidad en la rodilla
+T7	SINTOMA 740 747	estable
+T8	SINTOMA 466 479	fatigabilidad
+T9	SINTOMA 1123 1132	febrícula
+T10	SINTOMA 1433 1485	hipoestesia parcheada en las extremidades inferiores
+T11	SINTOMA 750 766	oligosintomática
+T12	SINTOMA 2682 2725	radiografía de tórax no mostró alteraciones
+T13	SINTOMA 2782 2811	radiolucencias periprotésicas
+T14	SINTOMA 1378 1423	tumefacción y derrame a tensión en la rodilla
+T15	ENFERMEDAD 37 58	cardiopatía isquémica
+T16	ENFERMEDAD 77 109	artritis reumatoide seronegativa
+T17	ENFERMEDAD 126 167	poliartritis crónica, simétrica y erosiva
+T18	ENFERMEDAD 446 464	anemia normocítica
+T19	ENFERMEDAD 485 522	neuropatía periférica sensitivomotora
+T20	ENFERMEDAD 671 703	macroglobulinemia de Waldenström
+T21	ENFERMEDAD 1392 1423	derrame a tensión en la rodilla
+T22	ENFERMEDAD 2858 2877	esteatosis hepática
+T23	ENFERMEDAD 525 539	esplenomegalia
+T24	ENFERMEDAD 2889 2903	esplenomegalia
+T25	PROCEDIMIENTO 1321 1332	exploración
+T26	PROCEDIMIENTO 1527 1540	artrocentesis
+T27	PROCEDIMIENTO 1646 1661	tinción de Gram
+T28	PROCEDIMIENTO 1714 1732	cultivos aeróbicos
+T29	PROCEDIMIENTO 1890 1899	hemograma
+T30	PROCEDIMIENTO 2039 2069	Dosificación de inmuglobulinas
+T31	PROCEDIMIENTO 2267 2277	bioquímica
+T32	PROCEDIMIENTO 2497 2514	análisis de orina
+T33	PROCEDIMIENTO 2516 2562	serología para Salmonella, Shigella y Yersinia
+T34	PROCEDIMIENTO 2564 2602	dosificación del complemento (C3 y C4)
+T35	PROCEDIMIENTO 2605 2630	anticuerpos antinucleares
+T36	PROCEDIMIENTO 2682 2702	radiografía de tórax
+T37	PROCEDIMIENTO 2730 2763	radiografía de la rodilla derecha
+T38	PROCEDIMIENTO 2819 2838	ecografía abdominal
+T39	PROCEDIMIENTO 2915 2972	drenaje y lavado de la articulación con suero fisiológico
+T40	PROCEDIMIENTO 356 393	artroplastia total de rodilla derecha
+T41	PROCEDIMIENTO 544 564	estudio hematológico
+T42	PROCEDIMIENTO 627 649	biopsia de médula ósea
+T43	PROCEDIMIENTO 929 960	terapia con agentes alquilantes
+T44	PROCEDIMIENTO 963 986	análogos de nucleósidos

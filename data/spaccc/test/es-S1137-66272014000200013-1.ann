@@ -1,50 +1,50 @@
-T1	ENFERMEDAD 179 200	carcinoma de próstata
-T2	ENFERMEDAD 2415 2434	progresión hepática
-T3	ENFERMEDAD 2121 2152	progresión radiológica hepática
-T4	ENFERMEDAD 452 468	catarata nuclear
-T5	ENFERMEDAD 575 585	hemovítreo
-T6	ENFERMEDAD 613 661	lesión lobulada que ocupaba 4/5 de cámara vítrea
-T7	ENFERMEDAD 690 692	MC
-T8	ENFERMEDAD 695 713	lesión metastática
-T9	ENFERMEDAD 853 867	lesión maligna
-T10	ENFERMEDAD 1051 1069	lesiones hepáticas
-T11	ENFERMEDAD 1643 1645	MC
-T12	ENFERMEDAD 753 768	lesión primaria
-T13	ENFERMEDAD 59 93	pérdida de visión de ojo izquierdo
-T14	PROCEDIMIENTO 1001 1007	PET/TC
-T15	PROCEDIMIENTO 1021 1033	TC abdominal
-T16	PROCEDIMIENTO 1209 1240	biopsia mediante ecografía o TC
-T17	PROCEDIMIENTO 1266 1309	resonancia nuclear magnética (RNM) hepática
-T18	PROCEDIMIENTO 1296 1299	RNM
-T19	PROCEDIMIENTO 1376 1387	enucleación
-T20	PROCEDIMIENTO 1412 1431	anatomía patológica
-T21	PROCEDIMIENTO 1474 1487	quimioterapia
-T22	PROCEDIMIENTO 1540 1547	cirugía
-T23	PROCEDIMIENTO 1611 1630	anatomía patológica
-T24	PROCEDIMIENTO 1702 1728	estudio inmunohistoquímico
-T25	PROCEDIMIENTO 1967 1988	tratamiento paliativo
-T26	PROCEDIMIENTO 2170 2172	TC
-T27	PROCEDIMIENTO 2188 2194	PET/TC
-T28	PROCEDIMIENTO 219 231	radioterapia
-T29	PROCEDIMIENTO 2548 2550	TC
-T30	PROCEDIMIENTO 2553 2559	PET/TC
-T31	PROCEDIMIENTO 274 288	agudeza visual
-T32	PROCEDIMIENTO 2749 2771	evaluación radiológica
-T33	PROCEDIMIENTO 360 379	presión intraocular
-T34	PROCEDIMIENTO 418 438	lámpara de hendidura
-T35	PROCEDIMIENTO 493 505	fondo de ojo
-T36	PROCEDIMIENTO 590 599	ecografía
-T37	PROCEDIMIENTO 773 792	TC tóraco-abdominal
-T38	PROCEDIMIENTO 795 815	analíticas hepáticas
-T39	PROCEDIMIENTO 883 889	PET/TC
-T40	SINTOMA 1941 1958	pérdida de visión
-T41	SINTOMA 2808 2815	Fallece
-T42	SINTOMA 575 585	hemovítreo
-T43	SINTOMA 1093 1111	alteración nodular
-T44	SINTOMA 2669 2700	conservación del estado general
-T45	SINTOMA 2789 2806	deterioro general
-T46	SINTOMA 493 539	fondo de ojo del OD no presentaba alteraciones
-T47	SINTOMA 329 355	OI de no percepción de luz
-T48	SINTOMA 59 98	pérdida de visión de ojo izquierdo (OI)
-T49	SINTOMA 883 977	PET/TC, positiva a nivel ocular (SUVmáx: 7,2), hepático (SUVmáx: 5,7) e hilio pulmonar derecho
-T50	SINTOMA 773 831	TC tóraco-abdominal y analíticas hepáticas fueron normales
+T1	SINTOMA 1941 1958	pérdida de visión
+T2	SINTOMA 2808 2815	Fallece
+T3	SINTOMA 575 585	hemovítreo
+T4	SINTOMA 1093 1111	alteración nodular
+T5	SINTOMA 2669 2700	conservación del estado general
+T6	SINTOMA 2789 2806	deterioro general
+T7	SINTOMA 493 539	fondo de ojo del OD no presentaba alteraciones
+T8	SINTOMA 329 355	OI de no percepción de luz
+T9	SINTOMA 59 98	pérdida de visión de ojo izquierdo (OI)
+T10	SINTOMA 883 977	PET/TC, positiva a nivel ocular (SUVmáx: 7,2), hepático (SUVmáx: 5,7) e hilio pulmonar derecho
+T11	SINTOMA 773 831	TC tóraco-abdominal y analíticas hepáticas fueron normales
+T12	ENFERMEDAD 179 200	carcinoma de próstata
+T13	ENFERMEDAD 2415 2434	progresión hepática
+T14	ENFERMEDAD 2121 2152	progresión radiológica hepática
+T15	ENFERMEDAD 452 468	catarata nuclear
+T16	ENFERMEDAD 575 585	hemovítreo
+T17	ENFERMEDAD 613 661	lesión lobulada que ocupaba 4/5 de cámara vítrea
+T18	ENFERMEDAD 690 692	MC
+T19	ENFERMEDAD 695 713	lesión metastática
+T20	ENFERMEDAD 853 867	lesión maligna
+T21	ENFERMEDAD 1051 1069	lesiones hepáticas
+T22	ENFERMEDAD 1643 1645	MC
+T23	ENFERMEDAD 753 768	lesión primaria
+T24	ENFERMEDAD 59 93	pérdida de visión de ojo izquierdo
+T25	PROCEDIMIENTO 1001 1007	PET/TC
+T26	PROCEDIMIENTO 1021 1033	TC abdominal
+T27	PROCEDIMIENTO 1209 1240	biopsia mediante ecografía o TC
+T28	PROCEDIMIENTO 1266 1309	resonancia nuclear magnética (RNM) hepática
+T29	PROCEDIMIENTO 1296 1299	RNM
+T30	PROCEDIMIENTO 1376 1387	enucleación
+T31	PROCEDIMIENTO 1412 1431	anatomía patológica
+T32	PROCEDIMIENTO 1474 1487	quimioterapia
+T33	PROCEDIMIENTO 1540 1547	cirugía
+T34	PROCEDIMIENTO 1611 1630	anatomía patológica
+T35	PROCEDIMIENTO 1702 1728	estudio inmunohistoquímico
+T36	PROCEDIMIENTO 1967 1988	tratamiento paliativo
+T37	PROCEDIMIENTO 2170 2172	TC
+T38	PROCEDIMIENTO 2188 2194	PET/TC
+T39	PROCEDIMIENTO 219 231	radioterapia
+T40	PROCEDIMIENTO 2548 2550	TC
+T41	PROCEDIMIENTO 2553 2559	PET/TC
+T42	PROCEDIMIENTO 274 288	agudeza visual
+T43	PROCEDIMIENTO 2749 2771	evaluación radiológica
+T44	PROCEDIMIENTO 360 379	presión intraocular
+T45	PROCEDIMIENTO 418 438	lámpara de hendidura
+T46	PROCEDIMIENTO 493 505	fondo de ojo
+T47	PROCEDIMIENTO 590 599	ecografía
+T48	PROCEDIMIENTO 773 792	TC tóraco-abdominal
+T49	PROCEDIMIENTO 795 815	analíticas hepáticas
+T50	PROCEDIMIENTO 883 889	PET/TC

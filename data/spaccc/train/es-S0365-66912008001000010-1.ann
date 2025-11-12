@@ -1,41 +1,41 @@
-T1	ENFERMEDAD 718 738	papiledema bilateral
-T2	ENFERMEDAD 276 279	HII
-T3	ENFERMEDAD 1621 1649	trombosis de senos craneales
-T4	ENFERMEDAD 367 377	papiledema
-T5	ENFERMEDAD 1669 1715	estenosis segmentaria del seno lateral derecho
-T6	ENFERMEDAD 1882 1925	estenosis larga del seno transverso derecho
-T7	PROCEDIMIENTO 1127 1146	ecografía orbitaria
-T8	PROCEDIMIENTO 1151 1181	tomografía axial computerizada
-T9	PROCEDIMIENTO 1187 1208	perimetría automática
-T10	PROCEDIMIENTO 1237 1251	punción lumbar
-T11	PROCEDIMIENTO 1318 1349	composición y serología del LCR
-T12	PROCEDIMIENTO 1363 1396	estudio analítico, de coagulación
-T13	PROCEDIMIENTO 1447 1465	hormonas tiroideas
-T14	PROCEDIMIENTO 1468 1493	anticuerpos antitiroideos
-T15	PROCEDIMIENTO 1539 1567	resonancia magnética nuclear
-T16	PROCEDIMIENTO 1569 1572	RMN
-T17	PROCEDIMIENTO 1576 1592	fleborresonancia
-T18	PROCEDIMIENTO 1824 1866	venografía y manometría de senos craneales
-T19	PROCEDIMIENTO 2070 2097	dilatación por angioplastia
-T20	PROCEDIMIENTO 2100 2119	colocación de stent
-T21	PROCEDIMIENTO 214 225	analgésicos
-T22	PROCEDIMIENTO 382 415	exploración general y neurológica
-T23	PROCEDIMIENTO 483 508	exploración oftalmológica
-T24	PROCEDIMIENTO 574 601	motilidad ocular intrínseca
-T25	PROCEDIMIENTO 603 636	exploración del segmento anterior
-T26	PROCEDIMIENTO 686 705	examen funduscópico
-T27	PROCEDIMIENTO 746 772	angiografía fluoresceínica
-T28	PROCEDIMIENTO 838 953	estudio de la capa de fibras nerviosas (estrategia fast RNFL) mediante tomografía de coherencia óptica (Stratus OCT
-T29	PROCEDIMIENTO 909 940	tomografía de coherencia óptica
-T30	PROCEDIMIENTO 942 953	Stratus OCT
-T31	SINTOMA 62 86	cefalea bifrontoparietal
-T32	SINTOMA 1318 1358	composición y serología del LCR normales
-T33	SINTOMA 1402 1510	determinación de ANCAs, ANAs, PCR, FR, ASLO, hormonas tiroideas y anticuerpos antitiroideos fueron negativos
-T34	SINTOMA 1127 1224	ecografía orbitaria, la tomografía axial computerizada y la perimetría automática fueron normales
-T35	SINTOMA 997 1041	engrosamiento de la capa de fibras en el ojo
-T36	SINTOMA 382 426	exploración general y neurológica fue normal
-T37	SINTOMA 784 833	fuga peripapilar bilateral desde tiempos precoces
-T38	SINTOMA 574 681	motilidad ocular intrínseca, exploración del segmento anterior y la presión intraocular (PIO) eran normales
-T39	SINTOMA 367 377	papiledema
-T40	SINTOMA 718 738	papiledema bilateral
-T41	SINTOMA 642 681	presión intraocular (PIO) eran normales
+T1	SINTOMA 62 86	cefalea bifrontoparietal
+T2	SINTOMA 1318 1358	composición y serología del LCR normales
+T3	SINTOMA 1402 1510	determinación de ANCAs, ANAs, PCR, FR, ASLO, hormonas tiroideas y anticuerpos antitiroideos fueron negativos
+T4	SINTOMA 1127 1224	ecografía orbitaria, la tomografía axial computerizada y la perimetría automática fueron normales
+T5	SINTOMA 997 1041	engrosamiento de la capa de fibras en el ojo
+T6	SINTOMA 382 426	exploración general y neurológica fue normal
+T7	SINTOMA 784 833	fuga peripapilar bilateral desde tiempos precoces
+T8	SINTOMA 574 681	motilidad ocular intrínseca, exploración del segmento anterior y la presión intraocular (PIO) eran normales
+T9	SINTOMA 367 377	papiledema
+T10	SINTOMA 718 738	papiledema bilateral
+T11	SINTOMA 642 681	presión intraocular (PIO) eran normales
+T12	ENFERMEDAD 718 738	papiledema bilateral
+T13	ENFERMEDAD 276 279	HII
+T14	ENFERMEDAD 1621 1649	trombosis de senos craneales
+T15	ENFERMEDAD 367 377	papiledema
+T16	ENFERMEDAD 1669 1715	estenosis segmentaria del seno lateral derecho
+T17	ENFERMEDAD 1882 1925	estenosis larga del seno transverso derecho
+T18	PROCEDIMIENTO 1127 1146	ecografía orbitaria
+T19	PROCEDIMIENTO 1151 1181	tomografía axial computerizada
+T20	PROCEDIMIENTO 1187 1208	perimetría automática
+T21	PROCEDIMIENTO 1237 1251	punción lumbar
+T22	PROCEDIMIENTO 1318 1349	composición y serología del LCR
+T23	PROCEDIMIENTO 1363 1396	estudio analítico, de coagulación
+T24	PROCEDIMIENTO 1447 1465	hormonas tiroideas
+T25	PROCEDIMIENTO 1468 1493	anticuerpos antitiroideos
+T26	PROCEDIMIENTO 1539 1567	resonancia magnética nuclear
+T27	PROCEDIMIENTO 1569 1572	RMN
+T28	PROCEDIMIENTO 1576 1592	fleborresonancia
+T29	PROCEDIMIENTO 1824 1866	venografía y manometría de senos craneales
+T30	PROCEDIMIENTO 2070 2097	dilatación por angioplastia
+T31	PROCEDIMIENTO 2100 2119	colocación de stent
+T32	PROCEDIMIENTO 214 225	analgésicos
+T33	PROCEDIMIENTO 382 415	exploración general y neurológica
+T34	PROCEDIMIENTO 483 508	exploración oftalmológica
+T35	PROCEDIMIENTO 574 601	motilidad ocular intrínseca
+T36	PROCEDIMIENTO 603 636	exploración del segmento anterior
+T37	PROCEDIMIENTO 686 705	examen funduscópico
+T38	PROCEDIMIENTO 746 772	angiografía fluoresceínica
+T39	PROCEDIMIENTO 838 953	estudio de la capa de fibras nerviosas (estrategia fast RNFL) mediante tomografía de coherencia óptica (Stratus OCT
+T40	PROCEDIMIENTO 909 940	tomografía de coherencia óptica
+T41	PROCEDIMIENTO 942 953	Stratus OCT

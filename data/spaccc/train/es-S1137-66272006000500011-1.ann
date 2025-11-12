@@ -1,21 +1,21 @@
-T1	ENFERMEDAD 26 33	fumador
-T2	ENFERMEDAD 40 59	alcoholismo crónico
-T3	ENFERMEDAD 1922 1942	infiltración tumoral
-T4	ENFERMEDAD 2244 2261	hábito alcohólico
-T5	ENFERMEDAD 121 141	hepatitis alcohólica
-T6	ENFERMEDAD 465 473	disfagia
-T7	SINTOMA 848 941	auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales
-T8	SINTOMA 424 432	bultomas
-T9	SINTOMA 671 709	bultomas en región posterior de cuello
-T10	SINTOMA 1338 1403	ecografía tiroidea con el resultado de lóbulos tiroideos normales
-T11	SINTOMA 1141 1186	hormonas tiroideas y el cortisol son normales
-T12	SINTOMA 1415 1451	masa subcutánea lipomatosa bilateral
-T13	SINTOMA 273 382	masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax
-T14	SINTOMA 1498 1580	tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital
-T15	SINTOMA 503 542	tumefacción en región cervical anterior
-T16	SINTOMA 591 651	tumoraciones en zonas retroauriculares y en región deltoidea
-T17	SINTOMA 445 450	dolor
-T18	SINTOMA 455 461	disnea
-T19	SINTOMA 465 473	disfagia
-T20	SINTOMA 791 815	dolorosas a la palpación
-T21	SINTOMA 1242 1291	radiografía de tórax sin alteraciones patológicas
+T1	SINTOMA 848 941	auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales
+T2	SINTOMA 424 432	bultomas
+T3	SINTOMA 671 709	bultomas en región posterior de cuello
+T4	SINTOMA 1338 1403	ecografía tiroidea con el resultado de lóbulos tiroideos normales
+T5	SINTOMA 1141 1186	hormonas tiroideas y el cortisol son normales
+T6	SINTOMA 1415 1451	masa subcutánea lipomatosa bilateral
+T7	SINTOMA 273 382	masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax
+T8	SINTOMA 1498 1580	tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital
+T9	SINTOMA 503 542	tumefacción en región cervical anterior
+T10	SINTOMA 591 651	tumoraciones en zonas retroauriculares y en región deltoidea
+T11	SINTOMA 445 450	dolor
+T12	SINTOMA 455 461	disnea
+T13	SINTOMA 465 473	disfagia
+T14	SINTOMA 791 815	dolorosas a la palpación
+T15	SINTOMA 1242 1291	radiografía de tórax sin alteraciones patológicas
+T16	ENFERMEDAD 26 33	fumador
+T17	ENFERMEDAD 40 59	alcoholismo crónico
+T18	ENFERMEDAD 1922 1942	infiltración tumoral
+T19	ENFERMEDAD 2244 2261	hábito alcohólico
+T20	ENFERMEDAD 121 141	hepatitis alcohólica
+T21	ENFERMEDAD 465 473	disfagia

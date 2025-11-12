@@ -1,46 +1,46 @@
-T1	ENFERMEDAD 905 929	lesiones endobronquiales
-T2	ENFERMEDAD 38 67	fibrilación auricular crónica
-T3	ENFERMEDAD 1076 1121	múltiples masas adenopáticas en el mediastino
-T4	ENFERMEDAD 1124 1149	derrame pleural bilateral
-T5	ENFERMEDAD 269 284	derrame pleural
-T6	ENFERMEDAD 330 345	derrame pleural
-T7	ENFERMEDAD 1452 1544	lesiones granulomatosas crónicas compatibles con tuberculosis tanto en pleura como en pulmón
-T8	ENFERMEDAD 1823 1849	insuficiencia respiratoria
-T9	ENFERMEDAD 1905 1925	quilotórax bilateral
-T10	ENFERMEDAD 1927 1974	linfadenitis crónica granulomatosa caseificante
-T11	ENFERMEDAD 2042 2127	diseminación miliar pleuropulmonar bilateral, hepática, suprarrenal izquierda y renal
-T12	ENFERMEDAD 1990 2039	tuberculosis de ganglios linfáticos mediastínicos
-T13	PROCEDIMIENTO 1006 1027	lavado broncoalveolar
-T14	PROCEDIMIENTO 1050 1068	TC toracoabdominal
-T15	PROCEDIMIENTO 1188 1259	punción-aspiración con aguja fina guiada por TC de la masa mediastínica
-T16	PROCEDIMIENTO 1333 1345	toracoscopia
-T17	PROCEDIMIENTO 1350 1376	biopsia pleural y pulmonar
-T18	PROCEDIMIENTO 1380 1420	colocación de un tubo de drenaje pleural
-T19	PROCEDIMIENTO 1425 1444	anatomia patológica
-T20	PROCEDIMIENTO 1549 1584	PCR para Mycobacterium tuberculosis
-T21	PROCEDIMIENTO 1604 1641	biopsia pulmonar y negativa en pleura
-T22	PROCEDIMIENTO 1880 1889	necropsia
-T23	PROCEDIMIENTO 297 317	radiografía de tórax
-T24	PROCEDIMIENTO 421 439	análisis de sangre
-T25	PROCEDIMIENTO 455 469	toracocentesis
-T26	PROCEDIMIENTO 773 782	citología
-T27	PROCEDIMIENTO 788 795	cultivo
-T28	PROCEDIMIENTO 830 859	intradermoreacción de Mantoux
-T29	PROCEDIMIENTO 877 894	fibrobroncoscopia
-T30	PROCEDIMIENTO 934 1027	tinción de Ziehl-Neelsen y el cultivo en medio de Löwenstein-Jensen del lavado broncoalveolar
-T31	PROCEDIMIENTO 934 958	tinción de Ziehl-Neelsen
-T32	PROCEDIMIENTO 964 1001	cultivo en medio de Löwenstein-Jensen
-T33	SINTOMA 170 177	astenia
-T34	SINTOMA 180 195	pérdida de peso
-T35	SINTOMA 232 239	afebril
-T36	SINTOMA 1242 1259	masa mediastínica
-T37	SINTOMA 351 378	ensanchamiento mediastínico
-T38	SINTOMA 1858 1864	exitus
-T39	SINTOMA 383 416	afectación de parénquima pulmonar
-T40	SINTOMA 421 450	análisis de sangre fue normal
-T41	SINTOMA 773 825	citología y el cultivo convencional fueron negativos
-T42	SINTOMA 113 130	dísnea progresiva
-T43	SINTOMA 830 872	intradermoreacción de Mantoux fue negativa
-T44	SINTOMA 1006 1044	lavado broncoalveolar fueron negativos
-T45	SINTOMA 1549 1597	PCR para Mycobacterium tuberculosis fue positiva
-T46	SINTOMA 455 513	toracocentesis mostró un líquido espeso de aspecto lechoso
+T1	SINTOMA 170 177	astenia
+T2	SINTOMA 180 195	pérdida de peso
+T3	SINTOMA 232 239	afebril
+T4	SINTOMA 1242 1259	masa mediastínica
+T5	SINTOMA 351 378	ensanchamiento mediastínico
+T6	SINTOMA 1858 1864	exitus
+T7	SINTOMA 383 416	afectación de parénquima pulmonar
+T8	SINTOMA 421 450	análisis de sangre fue normal
+T9	SINTOMA 773 825	citología y el cultivo convencional fueron negativos
+T10	SINTOMA 113 130	dísnea progresiva
+T11	SINTOMA 830 872	intradermoreacción de Mantoux fue negativa
+T12	SINTOMA 1006 1044	lavado broncoalveolar fueron negativos
+T13	SINTOMA 1549 1597	PCR para Mycobacterium tuberculosis fue positiva
+T14	SINTOMA 455 513	toracocentesis mostró un líquido espeso de aspecto lechoso
+T15	ENFERMEDAD 905 929	lesiones endobronquiales
+T16	ENFERMEDAD 38 67	fibrilación auricular crónica
+T17	ENFERMEDAD 1076 1121	múltiples masas adenopáticas en el mediastino
+T18	ENFERMEDAD 1124 1149	derrame pleural bilateral
+T19	ENFERMEDAD 269 284	derrame pleural
+T20	ENFERMEDAD 330 345	derrame pleural
+T21	ENFERMEDAD 1452 1544	lesiones granulomatosas crónicas compatibles con tuberculosis tanto en pleura como en pulmón
+T22	ENFERMEDAD 1823 1849	insuficiencia respiratoria
+T23	ENFERMEDAD 1905 1925	quilotórax bilateral
+T24	ENFERMEDAD 1927 1974	linfadenitis crónica granulomatosa caseificante
+T25	ENFERMEDAD 2042 2127	diseminación miliar pleuropulmonar bilateral, hepática, suprarrenal izquierda y renal
+T26	ENFERMEDAD 1990 2039	tuberculosis de ganglios linfáticos mediastínicos
+T27	PROCEDIMIENTO 1006 1027	lavado broncoalveolar
+T28	PROCEDIMIENTO 1050 1068	TC toracoabdominal
+T29	PROCEDIMIENTO 1188 1259	punción-aspiración con aguja fina guiada por TC de la masa mediastínica
+T30	PROCEDIMIENTO 1333 1345	toracoscopia
+T31	PROCEDIMIENTO 1350 1376	biopsia pleural y pulmonar
+T32	PROCEDIMIENTO 1380 1420	colocación de un tubo de drenaje pleural
+T33	PROCEDIMIENTO 1425 1444	anatomia patológica
+T34	PROCEDIMIENTO 1549 1584	PCR para Mycobacterium tuberculosis
+T35	PROCEDIMIENTO 1604 1641	biopsia pulmonar y negativa en pleura
+T36	PROCEDIMIENTO 1880 1889	necropsia
+T37	PROCEDIMIENTO 297 317	radiografía de tórax
+T38	PROCEDIMIENTO 421 439	análisis de sangre
+T39	PROCEDIMIENTO 455 469	toracocentesis
+T40	PROCEDIMIENTO 773 782	citología
+T41	PROCEDIMIENTO 788 795	cultivo
+T42	PROCEDIMIENTO 830 859	intradermoreacción de Mantoux
+T43	PROCEDIMIENTO 877 894	fibrobroncoscopia
+T44	PROCEDIMIENTO 934 1027	tinción de Ziehl-Neelsen y el cultivo en medio de Löwenstein-Jensen del lavado broncoalveolar
+T45	PROCEDIMIENTO 934 958	tinción de Ziehl-Neelsen
+T46	PROCEDIMIENTO 964 1001	cultivo en medio de Löwenstein-Jensen

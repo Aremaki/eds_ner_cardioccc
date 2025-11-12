@@ -1,65 +1,65 @@
-T1	PROCEDIMIENTO 1210 1259	dedos de mano izquierda, dolorosas a la palpación
-T2	PROCEDIMIENTO 1873 1888	Examen de orina
-T3	PROCEDIMIENTO 2084 2118	serología para hepatitis B, C, VIH
-T4	PROCEDIMIENTO 2243 2275	curva de tolerancia a la glucosa
-T5	PROCEDIMIENTO 2286 2313	pruebas de función hepática
-T6	PROCEDIMIENTO 2324 2335	Hemocultivo
-T7	PROCEDIMIENTO 2337 2349	coprocultivo
-T8	PROCEDIMIENTO 2352 2362	urocultivo
-T9	PROCEDIMIENTO 2374 2402	Proteinuria en orina de 24 h
-T10	PROCEDIMIENTO 2562 2603	perfil de antigenos extraíbles del núcleo
-T11	PROCEDIMIENTO 2605 2608	ENA
-T12	PROCEDIMIENTO 2670 2700	Anticuerpos antifosfolipídicos
-T13	PROCEDIMIENTO 2765 2780	Serología viral
-T14	PROCEDIMIENTO 2801 2806	ELISA
-T15	PROCEDIMIENTO 2849 2854	ELISA
-T16	PROCEDIMIENTO 2882 2887	ELISA
-T17	PROCEDIMIENTO 2980 3043	extremidad inferior izquierda verificada por Eco Doppler venoso
-T18	PROCEDIMIENTO 3087 3098	Rx de tórax
-T19	PROCEDIMIENTO 3100 3118	electrocardiograma
-T20	PROCEDIMIENTO 3120 3143	ecocardiografía Doppler
-T21	PROCEDIMIENTO 3219 3247	pulsos con metilprednisolona
-T22	PROCEDIMIENTO 3369 3384	anticoagulación
-T23	PROCEDIMIENTO 3606 3620	TAC de cerebro
-T24	PROCEDIMIENTO 3623 3643	electroencefalograma
-T25	PROCEDIMIENTO 3675 3688	plasmaferesis
-T26	PROCEDIMIENTO 3720 3752	pulsos con 1 g de ciclofosfamida
-T27	PROCEDIMIENTO 3891 3902	antivirales
-T28	PROCEDIMIENTO 3905 3927	antihipertensivos IECA
-T29	PROCEDIMIENTO 454 467	examen físico
-T30	SINTOMA 633 641	alopecia
-T31	SINTOMA 402 423	deposiciones líquidas
-T32	SINTOMA 1235 1259	dolorosas a la palpación
-T33	SINTOMA 1409 1418	orientada
-T34	SINTOMA 2374 2385	Proteinuria
-T35	SINTOMA 426 449	sintomatología urinaria
-T36	SINTOMA 301 315	tos productiva
-T37	SINTOMA 797 854	Abdomen blando, doloroso en hipocondrio y flanco derechos
-T38	SINTOMA 3146 3203	acrocianosis en falanges distales de dedos de ambas manos
-T39	SINTOMA 2479 2509	ANA patrón difuso y periférico
-T40	SINTOMA 166 202	artralgias en articulaciones mayores
-T41	SINTOMA 856 873	Blumberg positivo
-T42	SINTOMA 999 1038	cianosis distal en dedos de ambas manos
-T43	SINTOMA 2829 2896	citomegalovirus IgG ELISA positiva 4,4 (> 1,1) e IgM ELISA positiva
-T44	SINTOMA 1398 1407	Conciente
-T45	SINTOMA 2243 2284	curva de tolerancia a la glucosa alterada
-T46	SINTOMA 350 400	disnea progresiva de medianos a pequeños esfuerzos
-T47	SINTOMA 1308 1349	Edema esbozado en extremidades inferiores
-T48	SINTOMA 654 707	eritema centro-facial de mayor intensidad en mejillas
-T49	SINTOMA 320 348	expectoración muco-purulenta
-T50	SINTOMA 889 921	flujo genital blanco-amarillento
-T51	SINTOMA 1459 1483	focalización neurológica
-T52	SINTOMA 2324 2372	Hemocultivo, coprocultivo y urocultivo negativos
-T53	SINTOMA 1270 1306	hemorragias sub-ungueales en astilla
-T54	SINTOMA 1433 1452	irritación meníngea
-T55	SINTOMA 961 997	livedo reticularis en dorso de manos
-T56	SINTOMA 469 496	malas condiciones generales
-T57	SINTOMA 1033 1079	manos, con disminución de la temperatura local
-T58	SINTOMA 1351 1383	petequias en dorso de ambos pies
-T59	SINTOMA 562 591	piel y mucosas secas, pálidas
-T60	SINTOMA 1933 1941	piocitos
-T61	SINTOMA 2286 2322	pruebas de función hepática normales
-T62	SINTOMA 709 758	pulmones con condensación incompleta subescapular
-T63	SINTOMA 2084 2128	serología para hepatitis B, C, VIH negativas
-T64	SINTOMA 2640 2655	Sm/RNP positivo
-T65	SINTOMA 2786 2815	toxoplasma IgG ELISA positiva
+T1	SINTOMA 633 641	alopecia
+T2	SINTOMA 402 423	deposiciones líquidas
+T3	SINTOMA 1235 1259	dolorosas a la palpación
+T4	SINTOMA 1409 1418	orientada
+T5	SINTOMA 2374 2385	Proteinuria
+T6	SINTOMA 426 449	sintomatología urinaria
+T7	SINTOMA 301 315	tos productiva
+T8	SINTOMA 797 854	Abdomen blando, doloroso en hipocondrio y flanco derechos
+T9	SINTOMA 3146 3203	acrocianosis en falanges distales de dedos de ambas manos
+T10	SINTOMA 2479 2509	ANA patrón difuso y periférico
+T11	SINTOMA 166 202	artralgias en articulaciones mayores
+T12	SINTOMA 856 873	Blumberg positivo
+T13	SINTOMA 999 1038	cianosis distal en dedos de ambas manos
+T14	SINTOMA 2829 2896	citomegalovirus IgG ELISA positiva 4,4 (> 1,1) e IgM ELISA positiva
+T15	SINTOMA 1398 1407	Conciente
+T16	SINTOMA 2243 2284	curva de tolerancia a la glucosa alterada
+T17	SINTOMA 350 400	disnea progresiva de medianos a pequeños esfuerzos
+T18	SINTOMA 1308 1349	Edema esbozado en extremidades inferiores
+T19	SINTOMA 654 707	eritema centro-facial de mayor intensidad en mejillas
+T20	SINTOMA 320 348	expectoración muco-purulenta
+T21	SINTOMA 889 921	flujo genital blanco-amarillento
+T22	SINTOMA 1459 1483	focalización neurológica
+T23	SINTOMA 2324 2372	Hemocultivo, coprocultivo y urocultivo negativos
+T24	SINTOMA 1270 1306	hemorragias sub-ungueales en astilla
+T25	SINTOMA 1433 1452	irritación meníngea
+T26	SINTOMA 961 997	livedo reticularis en dorso de manos
+T27	SINTOMA 469 496	malas condiciones generales
+T28	SINTOMA 1033 1079	manos, con disminución de la temperatura local
+T29	SINTOMA 1351 1383	petequias en dorso de ambos pies
+T30	SINTOMA 562 591	piel y mucosas secas, pálidas
+T31	SINTOMA 1933 1941	piocitos
+T32	SINTOMA 2286 2322	pruebas de función hepática normales
+T33	SINTOMA 709 758	pulmones con condensación incompleta subescapular
+T34	SINTOMA 2084 2128	serología para hepatitis B, C, VIH negativas
+T35	SINTOMA 2640 2655	Sm/RNP positivo
+T36	SINTOMA 2786 2815	toxoplasma IgG ELISA positiva
+T37	PROCEDIMIENTO 1210 1259	dedos de mano izquierda, dolorosas a la palpación
+T38	PROCEDIMIENTO 1873 1888	Examen de orina
+T39	PROCEDIMIENTO 2084 2118	serología para hepatitis B, C, VIH
+T40	PROCEDIMIENTO 2243 2275	curva de tolerancia a la glucosa
+T41	PROCEDIMIENTO 2286 2313	pruebas de función hepática
+T42	PROCEDIMIENTO 2324 2335	Hemocultivo
+T43	PROCEDIMIENTO 2337 2349	coprocultivo
+T44	PROCEDIMIENTO 2352 2362	urocultivo
+T45	PROCEDIMIENTO 2374 2402	Proteinuria en orina de 24 h
+T46	PROCEDIMIENTO 2562 2603	perfil de antigenos extraíbles del núcleo
+T47	PROCEDIMIENTO 2605 2608	ENA
+T48	PROCEDIMIENTO 2670 2700	Anticuerpos antifosfolipídicos
+T49	PROCEDIMIENTO 2765 2780	Serología viral
+T50	PROCEDIMIENTO 2801 2806	ELISA
+T51	PROCEDIMIENTO 2849 2854	ELISA
+T52	PROCEDIMIENTO 2882 2887	ELISA
+T53	PROCEDIMIENTO 2980 3043	extremidad inferior izquierda verificada por Eco Doppler venoso
+T54	PROCEDIMIENTO 3087 3098	Rx de tórax
+T55	PROCEDIMIENTO 3100 3118	electrocardiograma
+T56	PROCEDIMIENTO 3120 3143	ecocardiografía Doppler
+T57	PROCEDIMIENTO 3219 3247	pulsos con metilprednisolona
+T58	PROCEDIMIENTO 3369 3384	anticoagulación
+T59	PROCEDIMIENTO 3606 3620	TAC de cerebro
+T60	PROCEDIMIENTO 3623 3643	electroencefalograma
+T61	PROCEDIMIENTO 3675 3688	plasmaferesis
+T62	PROCEDIMIENTO 3720 3752	pulsos con 1 g de ciclofosfamida
+T63	PROCEDIMIENTO 3891 3902	antivirales
+T64	PROCEDIMIENTO 3905 3927	antihipertensivos IECA
+T65	PROCEDIMIENTO 454 467	examen físico

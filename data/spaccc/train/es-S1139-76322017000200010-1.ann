@@ -1,23 +1,23 @@
-T1	PROCEDIMIENTO 1142 1162	palpación de la piel
-T2	PROCEDIMIENTO 1164 1173	Hemograma
-T3	PROCEDIMIENTO 1388 1411	antibiótico intravenoso
-T4	PROCEDIMIENTO 1444 1552	Sobre las lesiones palpebrales y periorales se aplican fomentos con borato sódico al 2% y pomada antibiótica
-T5	PROCEDIMIENTO 1534 1552	pomada antibiótica
-T6	PROCEDIMIENTO 1668 1679	hemocultivo
-T7	PROCEDIMIENTO 212 230	exploración física
-T8	PROCEDIMIENTO 382 420	test rápido de estreptococo en faringe
-T9	SINTOMA 1117 1128	decaimiento
-T10	SINTOMA 1131 1162	dolor a la palpación de la piel
-T11	SINTOMA 360 377	exudado amigdalar
-T12	SINTOMA 839 855	exudado faríngeo
-T13	SINTOMA 1668 1695	hemocultivo resulta estéril
-T14	SINTOMA 95 122	lesiones cutáneas en tronco
-T15	SINTOMA 1554 1663	Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea
-T16	SINTOMA 382 432	test rápido de estreptococo en faringe es negativo
-T17	SINTOMA 1106 1115	febrícula
-T18	SINTOMA 172 179	Afebril
-T19	SINTOMA 867 874	afebril
-T20	SINTOMA 886 891	dolor
-T21	SINTOMA 125 145	prurito generalizado
-T22	SINTOMA 1178 1190	leucocitosis
-T23	SINTOMA 1208 1219	neutrofilia
+T1	SINTOMA 1117 1128	decaimiento
+T2	SINTOMA 1131 1162	dolor a la palpación de la piel
+T3	SINTOMA 360 377	exudado amigdalar
+T4	SINTOMA 839 855	exudado faríngeo
+T5	SINTOMA 1668 1695	hemocultivo resulta estéril
+T6	SINTOMA 95 122	lesiones cutáneas en tronco
+T7	SINTOMA 1554 1663	Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea
+T8	SINTOMA 382 432	test rápido de estreptococo en faringe es negativo
+T9	SINTOMA 1106 1115	febrícula
+T10	SINTOMA 172 179	Afebril
+T11	SINTOMA 867 874	afebril
+T12	SINTOMA 886 891	dolor
+T13	SINTOMA 125 145	prurito generalizado
+T14	SINTOMA 1178 1190	leucocitosis
+T15	SINTOMA 1208 1219	neutrofilia
+T16	PROCEDIMIENTO 1142 1162	palpación de la piel
+T17	PROCEDIMIENTO 1164 1173	Hemograma
+T18	PROCEDIMIENTO 1388 1411	antibiótico intravenoso
+T19	PROCEDIMIENTO 1444 1552	Sobre las lesiones palpebrales y periorales se aplican fomentos con borato sódico al 2% y pomada antibiótica
+T20	PROCEDIMIENTO 1534 1552	pomada antibiótica
+T21	PROCEDIMIENTO 1668 1679	hemocultivo
+T22	PROCEDIMIENTO 212 230	exploración física
+T23	PROCEDIMIENTO 382 420	test rápido de estreptococo en faringe

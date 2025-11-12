@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 1112 1140	alergia a contrastes yodados
-T2	ENFERMEDAD 161 179	adenoma prostático
-T3	ENFERMEDAD 1817 1829	coledococele
-T4	PROCEDIMIENTO 1033 1079	colangiopancreatografía retrógrada endoscópica
-T5	PROCEDIMIENTO 1081 1085	CPRE
-T6	PROCEDIMIENTO 1168 1199	profilaxis con glucocorticoides
-T7	PROCEDIMIENTO 1207 1225	imagen endoscópica
-T8	PROCEDIMIENTO 1268 1305	Se canuló profundamente la vía biliar
-T9	PROCEDIMIENTO 1295 1383	vía biliar y se introdujo una guía de 0.025 pulgadas para asegurar el acceso al colédoco
-T10	PROCEDIMIENTO 1388 1446	introducción del contraste para la colangiopancreatografía
-T11	PROCEDIMIENTO 1502 1511	inyección
-T12	PROCEDIMIENTO 1560 1578	imagen endoscópica
-T13	PROCEDIMIENTO 1629 1643	colangiografía
-T14	PROCEDIMIENTO 1685 1707	inyección de contraste
-T15	PROCEDIMIENTO 1774 1786	radiografías
-T16	PROCEDIMIENTO 1817 1891	coledococele y se procedió a seccionarlo mediante una esfinerotomía biliar
-T17	PROCEDIMIENTO 1938 1962	intervención endoscópica
-T18	PROCEDIMIENTO 477 508	ecografía abdominal trancutánea
-T19	PROCEDIMIENTO 510 522	gastroscopia
-T20	PROCEDIMIENTO 524 536	colonoscopia
-T21	PROCEDIMIENTO 539 551	TC abdominal
-T22	PROCEDIMIENTO 614 662	colangiopancreatografía por resonancia magnética
-T23	PROCEDIMIENTO 664 668	CPRM
-T24	SINTOMA 209 229	distensión abdominal
-T25	SINTOMA 1968 1973	dolor
-T26	SINTOMA 189 206	dolor epigástrico
-T27	SINTOMA 963 976	epigastralgia
-T28	SINTOMA 61 74	epigastralgia
-T29	SINTOMA 702 767	colédoco y el Wirsung desembocaban separados en la pared duodenal
-T30	SINTOMA 477 586	ecografía abdominal trancutánea, gastroscopia, colonoscopia y TC abdominal. Todas las pruebas fueron normales
-T31	SINTOMA 90 123	elevaciones mínimas de la amilasa
-T32	SINTOMA 368 396	leve elevación de la amilasa
-T33	SINTOMA 1229 1266	papila presentaba un aspecto fláccido
+T1	SINTOMA 209 229	distensión abdominal
+T2	SINTOMA 1968 1973	dolor
+T3	SINTOMA 189 206	dolor epigástrico
+T4	SINTOMA 963 976	epigastralgia
+T5	SINTOMA 61 74	epigastralgia
+T6	SINTOMA 702 767	colédoco y el Wirsung desembocaban separados en la pared duodenal
+T7	SINTOMA 477 586	ecografía abdominal trancutánea, gastroscopia, colonoscopia y TC abdominal. Todas las pruebas fueron normales
+T8	SINTOMA 90 123	elevaciones mínimas de la amilasa
+T9	SINTOMA 368 396	leve elevación de la amilasa
+T10	SINTOMA 1229 1266	papila presentaba un aspecto fláccido
+T11	ENFERMEDAD 1112 1140	alergia a contrastes yodados
+T12	ENFERMEDAD 161 179	adenoma prostático
+T13	ENFERMEDAD 1817 1829	coledococele
+T14	PROCEDIMIENTO 1033 1079	colangiopancreatografía retrógrada endoscópica
+T15	PROCEDIMIENTO 1081 1085	CPRE
+T16	PROCEDIMIENTO 1168 1199	profilaxis con glucocorticoides
+T17	PROCEDIMIENTO 1207 1225	imagen endoscópica
+T18	PROCEDIMIENTO 1268 1305	Se canuló profundamente la vía biliar
+T19	PROCEDIMIENTO 1295 1383	vía biliar y se introdujo una guía de 0.025 pulgadas para asegurar el acceso al colédoco
+T20	PROCEDIMIENTO 1388 1446	introducción del contraste para la colangiopancreatografía
+T21	PROCEDIMIENTO 1502 1511	inyección
+T22	PROCEDIMIENTO 1560 1578	imagen endoscópica
+T23	PROCEDIMIENTO 1629 1643	colangiografía
+T24	PROCEDIMIENTO 1685 1707	inyección de contraste
+T25	PROCEDIMIENTO 1774 1786	radiografías
+T26	PROCEDIMIENTO 1817 1891	coledococele y se procedió a seccionarlo mediante una esfinerotomía biliar
+T27	PROCEDIMIENTO 1938 1962	intervención endoscópica
+T28	PROCEDIMIENTO 477 508	ecografía abdominal trancutánea
+T29	PROCEDIMIENTO 510 522	gastroscopia
+T30	PROCEDIMIENTO 524 536	colonoscopia
+T31	PROCEDIMIENTO 539 551	TC abdominal
+T32	PROCEDIMIENTO 614 662	colangiopancreatografía por resonancia magnética
+T33	PROCEDIMIENTO 664 668	CPRM

@@ -1,33 +1,33 @@
-T1	ENFERMEDAD 2008 2047	apéndice cecal con signos inflamatorios
-T2	ENFERMEDAD 1259 1277	cuadro obstructivo
-T3	ENFERMEDAD 574 587	abdomen agudo
-T4	ENFERMEDAD 753 770	apendicitis aguda
-T5	PROCEDIMIENTO 1163 1182	ecografía abdominal
-T6	PROCEDIMIENTO 1293 1302	analítica
-T7	PROCEDIMIENTO 1557 1569	coprocultivo
-T8	PROCEDIMIENTO 1582 1605	antibioterapia empírica
-T9	PROCEDIMIENTO 1638 1650	coprocultivo
-T10	PROCEDIMIENTO 1728 1751	tratamiento antibiótico
-T11	PROCEDIMIENTO 1916 1939	intervención quirúrgica
-T12	PROCEDIMIENTO 1944 1988	estudio anatomopatológico del apéndice cecal
-T13	PROCEDIMIENTO 261 282	exploración abdominal
-T14	PROCEDIMIENTO 630 649	ecografía abdominal
-T15	PROCEDIMIENTO 795 818	intervención quirúrgica
-T16	PROCEDIMIENTO 908 922	apendicectomía
-T17	SINTOMA 953 998	apéndice cecal con leves signos inflamatorios
-T18	SINTOMA 2008 2047	apéndice cecal con signos inflamatorios
-T19	SINTOMA 1638 1691	coprocultivo, el cual informa de Campylobacter jejuni
-T20	SINTOMA 230 256	diarrea con restos de moco
-T21	SINTOMA 1198 1238	dilatación de asas del intestino delgado
-T22	SINTOMA 290 340	dolor abdominal difuso, algo más en la fosa ilíaca
-T23	SINTOMA 1363 1398	elevación de la proteína C reactiva
-T24	SINTOMA 1323 1360	leucocitosis con desviación izquierda
-T25	SINTOMA 449 489	leve elevación de la proteína C reactiva
-T26	SINTOMA 1083 1111	dolor abdominal generalizado
-T27	SINTOMA 1116 1127	peritonismo
-T28	SINTOMA 1129 1136	vómitos
-T29	SINTOMA 1139 1146	diarrea
-T30	SINTOMA 144 159	dolor abdominal
-T31	SINTOMA 190 196	fiebre
-T32	SINTOMA 207 227	vómitos alimenticios
-T33	SINTOMA 364 385	irritación peritoneal
+T1	SINTOMA 953 998	apéndice cecal con leves signos inflamatorios
+T2	SINTOMA 2008 2047	apéndice cecal con signos inflamatorios
+T3	SINTOMA 1638 1691	coprocultivo, el cual informa de Campylobacter jejuni
+T4	SINTOMA 230 256	diarrea con restos de moco
+T5	SINTOMA 1198 1238	dilatación de asas del intestino delgado
+T6	SINTOMA 290 340	dolor abdominal difuso, algo más en la fosa ilíaca
+T7	SINTOMA 1363 1398	elevación de la proteína C reactiva
+T8	SINTOMA 1323 1360	leucocitosis con desviación izquierda
+T9	SINTOMA 449 489	leve elevación de la proteína C reactiva
+T10	SINTOMA 1083 1111	dolor abdominal generalizado
+T11	SINTOMA 1116 1127	peritonismo
+T12	SINTOMA 1129 1136	vómitos
+T13	SINTOMA 1139 1146	diarrea
+T14	SINTOMA 144 159	dolor abdominal
+T15	SINTOMA 190 196	fiebre
+T16	SINTOMA 207 227	vómitos alimenticios
+T17	SINTOMA 364 385	irritación peritoneal
+T18	ENFERMEDAD 2008 2047	apéndice cecal con signos inflamatorios
+T19	ENFERMEDAD 1259 1277	cuadro obstructivo
+T20	ENFERMEDAD 574 587	abdomen agudo
+T21	ENFERMEDAD 753 770	apendicitis aguda
+T22	PROCEDIMIENTO 1163 1182	ecografía abdominal
+T23	PROCEDIMIENTO 1293 1302	analítica
+T24	PROCEDIMIENTO 1557 1569	coprocultivo
+T25	PROCEDIMIENTO 1582 1605	antibioterapia empírica
+T26	PROCEDIMIENTO 1638 1650	coprocultivo
+T27	PROCEDIMIENTO 1728 1751	tratamiento antibiótico
+T28	PROCEDIMIENTO 1916 1939	intervención quirúrgica
+T29	PROCEDIMIENTO 1944 1988	estudio anatomopatológico del apéndice cecal
+T30	PROCEDIMIENTO 261 282	exploración abdominal
+T31	PROCEDIMIENTO 630 649	ecografía abdominal
+T32	PROCEDIMIENTO 795 818	intervención quirúrgica
+T33	PROCEDIMIENTO 908 922	apendicectomía

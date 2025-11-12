@@ -1,52 +1,52 @@
-T1	ENFERMEDAD 1499 1540	destrucción del tabique intersinuso-nasal
-T2	ENFERMEDAD 505 523	caries en pieza 23
-T3	ENFERMEDAD 571 594	ausencia de la pieza 25
-T4	ENFERMEDAD 526 568	obturaciones en piezas 21, 22, 24, 26 y 27
-T5	ENFERMEDAD 1757 1760	LCG
-T6	ENFERMEDAD 2813 2816	LCG
-T7	ENFERMEDAD 740 746	lesión
-T8	ENFERMEDAD 2460 2466	lesión
-T9	ENFERMEDAD 2637 2643	lesión
-T10	ENFERMEDAD 2663 2669	lesión
-T11	ENFERMEDAD 2880 2886	lesión
-T12	ENFERMEDAD 3161 3167	lesión
-T13	ENFERMEDAD 3268 3274	lesión
-T14	ENFERMEDAD 77 101	asimetría y dolor facial
-T15	ENFERMEDAD 349 380	desviación de la pirámide nasal
-T16	ENFERMEDAD 390 424	obstrucción subjetiva de la narina
-T17	PROCEDIMIENTO 1023 1044	radiografía de Waters
-T18	PROCEDIMIENTO 1280 1310	tomografía axial computerizada
-T19	PROCEDIMIENTO 1765 1783	anestesia regional
-T20	PROCEDIMIENTO 1807 1919	bloqueo del nervio maxilar superior izquierdo a través del agujero palatino posterior según la técnica de Carrea
-T21	PROCEDIMIENTO 1951 1978	corticoides intralesionales
-T22	PROCEDIMIENTO 208 221	examen facial
-T23	PROCEDIMIENTO 2340 2354	infiltraciones
-T24	PROCEDIMIENTO 2521 2614	enucleación bajo anestesia general mediante un abordaje bucal a través del vestíbulo superior
-T25	PROCEDIMIENTO 2538 2555	anestesia general
-T26	PROCEDIMIENTO 2736 2764	enucleada de la cavidad ósea
-T27	PROCEDIMIENTO 2770 2793	diagnóstico histológico
-T28	PROCEDIMIENTO 2842 2861	anatomía patológica
-T29	PROCEDIMIENTO 3076 3105	infiltraciones de corticoides
-T30	PROCEDIMIENTO 3143 3154	enucleación
-T31	PROCEDIMIENTO 3203 3215	radiográfico
-T32	PROCEDIMIENTO 3343 3370	tratamiento con corticoides
-T33	PROCEDIMIENTO 439 452	examen ocular
-T34	PROCEDIMIENTO 480 492	examen bucal
-T35	PROCEDIMIENTO 726 735	palpación
-T36	PROCEDIMIENTO 940 959	rinoscopia anterior
-T37	SINTOMA 118 169	tumoración de crecimiento progresivo de hemimaxilar
-T38	SINTOMA 797 809	asintomática
-T39	SINTOMA 2707 2716	sangrante
-T40	SINTOMA 605 609	masa
-T41	SINTOMA 77 101	asimetría y dolor facial
-T42	SINTOMA 237 280	aumento de volumen en región infraorbitaria
-T43	SINTOMA 1543 1574	compromiso del cornete inferior
-T44	SINTOMA 1499 1540	destrucción del tabique intersinuso-nasal
-T45	SINTOMA 349 380	desviación de la pirámide nasal
-T46	SINTOMA 439 475	examen ocular no mostró alteraciones
-T47	SINTOMA 1328 1421	masa esférica, que se extendía desde el pilar canino o anterior hasta la apófisis pterigoides
-T48	SINTOMA 1056 1148	masa radiolúcida homogénea unilocular de 5 cm de diámetro mayor, que ocupaba todo el maxilar
-T49	SINTOMA 841 873	masa, se extendía hacia palatino
-T50	SINTOMA 643 669	mucosa sana, y eritematosa
-T51	SINTOMA 390 424	obstrucción subjetiva de la narina
-T52	SINTOMA 940 1017	rinoscopia anterior no mostró alteraciones del suelo o de las paredes nasales
+T1	SINTOMA 118 169	tumoración de crecimiento progresivo de hemimaxilar
+T2	SINTOMA 797 809	asintomática
+T3	SINTOMA 2707 2716	sangrante
+T4	SINTOMA 605 609	masa
+T5	SINTOMA 77 101	asimetría y dolor facial
+T6	SINTOMA 237 280	aumento de volumen en región infraorbitaria
+T7	SINTOMA 1543 1574	compromiso del cornete inferior
+T8	SINTOMA 1499 1540	destrucción del tabique intersinuso-nasal
+T9	SINTOMA 349 380	desviación de la pirámide nasal
+T10	SINTOMA 439 475	examen ocular no mostró alteraciones
+T11	SINTOMA 1328 1421	masa esférica, que se extendía desde el pilar canino o anterior hasta la apófisis pterigoides
+T12	SINTOMA 1056 1148	masa radiolúcida homogénea unilocular de 5 cm de diámetro mayor, que ocupaba todo el maxilar
+T13	SINTOMA 841 873	masa, se extendía hacia palatino
+T14	SINTOMA 643 669	mucosa sana, y eritematosa
+T15	SINTOMA 390 424	obstrucción subjetiva de la narina
+T16	SINTOMA 940 1017	rinoscopia anterior no mostró alteraciones del suelo o de las paredes nasales
+T17	ENFERMEDAD 1499 1540	destrucción del tabique intersinuso-nasal
+T18	ENFERMEDAD 505 523	caries en pieza 23
+T19	ENFERMEDAD 571 594	ausencia de la pieza 25
+T20	ENFERMEDAD 526 568	obturaciones en piezas 21, 22, 24, 26 y 27
+T21	ENFERMEDAD 1757 1760	LCG
+T22	ENFERMEDAD 2813 2816	LCG
+T23	ENFERMEDAD 740 746	lesión
+T24	ENFERMEDAD 2460 2466	lesión
+T25	ENFERMEDAD 2637 2643	lesión
+T26	ENFERMEDAD 2663 2669	lesión
+T27	ENFERMEDAD 2880 2886	lesión
+T28	ENFERMEDAD 3161 3167	lesión
+T29	ENFERMEDAD 3268 3274	lesión
+T30	ENFERMEDAD 77 101	asimetría y dolor facial
+T31	ENFERMEDAD 349 380	desviación de la pirámide nasal
+T32	ENFERMEDAD 390 424	obstrucción subjetiva de la narina
+T33	PROCEDIMIENTO 1023 1044	radiografía de Waters
+T34	PROCEDIMIENTO 1280 1310	tomografía axial computerizada
+T35	PROCEDIMIENTO 1765 1783	anestesia regional
+T36	PROCEDIMIENTO 1807 1919	bloqueo del nervio maxilar superior izquierdo a través del agujero palatino posterior según la técnica de Carrea
+T37	PROCEDIMIENTO 1951 1978	corticoides intralesionales
+T38	PROCEDIMIENTO 208 221	examen facial
+T39	PROCEDIMIENTO 2340 2354	infiltraciones
+T40	PROCEDIMIENTO 2521 2614	enucleación bajo anestesia general mediante un abordaje bucal a través del vestíbulo superior
+T41	PROCEDIMIENTO 2538 2555	anestesia general
+T42	PROCEDIMIENTO 2736 2764	enucleada de la cavidad ósea
+T43	PROCEDIMIENTO 2770 2793	diagnóstico histológico
+T44	PROCEDIMIENTO 2842 2861	anatomía patológica
+T45	PROCEDIMIENTO 3076 3105	infiltraciones de corticoides
+T46	PROCEDIMIENTO 3143 3154	enucleación
+T47	PROCEDIMIENTO 3203 3215	radiográfico
+T48	PROCEDIMIENTO 3343 3370	tratamiento con corticoides
+T49	PROCEDIMIENTO 439 452	examen ocular
+T50	PROCEDIMIENTO 480 492	examen bucal
+T51	PROCEDIMIENTO 726 735	palpación
+T52	PROCEDIMIENTO 940 959	rinoscopia anterior

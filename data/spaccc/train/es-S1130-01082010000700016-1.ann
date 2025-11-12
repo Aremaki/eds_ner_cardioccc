@@ -1,36 +1,36 @@
-T1	ENFERMEDAD 184 235	ictericia obstructiva secundaria a coledocolitiasis
-T2	ENFERMEDAD 37 58	hipertensión arterial
-T3	ENFERMEDAD 1347 1360	shock séptico
-T4	ENFERMEDAD 219 235	coledocolitiasis
-T5	ENFERMEDAD 1365 1383	peritonitis biliar
-T6	ENFERMEDAD 60 81	fibrilación auricular
-T7	ENFERMEDAD 113 130	diabetes mellitus
-T8	ENFERMEDAD 133 160	insuficiencia renal crónica
-T9	ENFERMEDAD 1477 1519	fístula biliar por salida del tubo de Kher
-T10	ENFERMEDAD 719 738	contusión esplénica
-T11	ENFERMEDAD 1040 1105	hemoperitoneo de 2000 ml por desgarro en borde anterior esplénico
-T12	ENFERMEDAD 1069 1105	desgarro en borde anterior esplénico
-T13	ENFERMEDAD 1284 1304	perforación duodenal
-T14	PROCEDIMIENTO 1007 1026	laparotomía urgente
-T15	PROCEDIMIENTO 1028 1053	evacuándose hemoperitoneo
-T16	PROCEDIMIENTO 1133 1136	TAC
-T17	PROCEDIMIENTO 1150 1163	esplenectomía
-T18	PROCEDIMIENTO 1165 1180	colecistectomía
-T19	PROCEDIMIENTO 1182 1195	duodenostomía
-T20	PROCEDIMIENTO 1198 1225	extracción del molde biliar
-T21	PROCEDIMIENTO 1240 1266	colocación de tubo de Kher
-T22	PROCEDIMIENTO 1451 1464	relaparotomía
-T23	PROCEDIMIENTO 1607 1626	anatomía patológica
-T24	PROCEDIMIENTO 1642 1655	esplenectomía
-T25	PROCEDIMIENTO 248 264	CPRE terapéutica
-T26	PROCEDIMIENTO 269 289	sedacción consciente
-T27	PROCEDIMIENTO 417 429	intervención
-T28	PROCEDIMIENTO 535 615	tomografía axial computerizada (TAC) abdominal con contraste intravenoso directo
-T29	PROCEDIMIENTO 567 570	TAC
-T30	PROCEDIMIENTO 85 111	tratamiento anticoagulante
-T31	SINTOMA 966 994	deterioro del estado general
-T32	SINTOMA 1040 1053	hemoperitoneo
-T33	SINTOMA 642 691	imagen hipervascular en el polo anterior del bazo
-T34	SINTOMA 452 493	inestabilidad hemodinámica y respiratoria
-T35	SINTOMA 744 878	líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
-T36	SINTOMA 918 924	sangre
+T1	SINTOMA 966 994	deterioro del estado general
+T2	SINTOMA 1040 1053	hemoperitoneo
+T3	SINTOMA 642 691	imagen hipervascular en el polo anterior del bazo
+T4	SINTOMA 452 493	inestabilidad hemodinámica y respiratoria
+T5	SINTOMA 744 878	líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+T6	SINTOMA 918 924	sangre
+T7	ENFERMEDAD 184 235	ictericia obstructiva secundaria a coledocolitiasis
+T8	ENFERMEDAD 37 58	hipertensión arterial
+T9	ENFERMEDAD 1347 1360	shock séptico
+T10	ENFERMEDAD 219 235	coledocolitiasis
+T11	ENFERMEDAD 1365 1383	peritonitis biliar
+T12	ENFERMEDAD 60 81	fibrilación auricular
+T13	ENFERMEDAD 113 130	diabetes mellitus
+T14	ENFERMEDAD 133 160	insuficiencia renal crónica
+T15	ENFERMEDAD 1477 1519	fístula biliar por salida del tubo de Kher
+T16	ENFERMEDAD 719 738	contusión esplénica
+T17	ENFERMEDAD 1040 1105	hemoperitoneo de 2000 ml por desgarro en borde anterior esplénico
+T18	ENFERMEDAD 1069 1105	desgarro en borde anterior esplénico
+T19	ENFERMEDAD 1284 1304	perforación duodenal
+T20	PROCEDIMIENTO 1007 1026	laparotomía urgente
+T21	PROCEDIMIENTO 1028 1053	evacuándose hemoperitoneo
+T22	PROCEDIMIENTO 1133 1136	TAC
+T23	PROCEDIMIENTO 1150 1163	esplenectomía
+T24	PROCEDIMIENTO 1165 1180	colecistectomía
+T25	PROCEDIMIENTO 1182 1195	duodenostomía
+T26	PROCEDIMIENTO 1198 1225	extracción del molde biliar
+T27	PROCEDIMIENTO 1240 1266	colocación de tubo de Kher
+T28	PROCEDIMIENTO 1451 1464	relaparotomía
+T29	PROCEDIMIENTO 1607 1626	anatomía patológica
+T30	PROCEDIMIENTO 1642 1655	esplenectomía
+T31	PROCEDIMIENTO 248 264	CPRE terapéutica
+T32	PROCEDIMIENTO 269 289	sedacción consciente
+T33	PROCEDIMIENTO 417 429	intervención
+T34	PROCEDIMIENTO 535 615	tomografía axial computerizada (TAC) abdominal con contraste intravenoso directo
+T35	PROCEDIMIENTO 567 570	TAC
+T36	PROCEDIMIENTO 85 111	tratamiento anticoagulante

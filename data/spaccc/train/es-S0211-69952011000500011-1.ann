@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 625 629	coma
-T2	ENFERMEDAD 51 75	diabetes mellitus tipo 2
-T3	ENFERMEDAD 77 98	artrosis generalizada
-T4	ENFERMEDAD 100 133	insuficiencia cardíaca congestiva
-T5	ENFERMEDAD 161 190	fibrilación auricular crónica
-T6	ENFERMEDAD 1186 1208	meningitis neumocócica
-T7	ENFERMEDAD 1421 1425	coma
-T8	ENFERMEDAD 37 49	hipertensión
-T9	ENFERMEDAD 595 604	hipotensa
-T10	SINTOMA 509 526	deterioro general
-T11	SINTOMA 538 573	disminución del nivel de conciencia
-T12	SINTOMA 429 442	dolores óseos
-T13	SINTOMA 1462 1473	falleciendo
-T14	SINTOMA 528 535	vómitos
-T15	SINTOMA 1431 1460	EEG con ondas de bajo voltaje
-T16	SINTOMA 915 936	infiltrado en la base
-T17	SINTOMA 607 621	mal prefundida
+T1	SINTOMA 509 526	deterioro general
+T2	SINTOMA 538 573	disminución del nivel de conciencia
+T3	SINTOMA 429 442	dolores óseos
+T4	SINTOMA 1462 1473	falleciendo
+T5	SINTOMA 528 535	vómitos
+T6	SINTOMA 1431 1460	EEG con ondas de bajo voltaje
+T7	SINTOMA 915 936	infiltrado en la base
+T8	SINTOMA 607 621	mal prefundida
+T9	ENFERMEDAD 625 629	coma
+T10	ENFERMEDAD 51 75	diabetes mellitus tipo 2
+T11	ENFERMEDAD 77 98	artrosis generalizada
+T12	ENFERMEDAD 100 133	insuficiencia cardíaca congestiva
+T13	ENFERMEDAD 161 190	fibrilación auricular crónica
+T14	ENFERMEDAD 1186 1208	meningitis neumocócica
+T15	ENFERMEDAD 1421 1425	coma
+T16	ENFERMEDAD 37 49	hipertensión
+T17	ENFERMEDAD 595 604	hipotensa

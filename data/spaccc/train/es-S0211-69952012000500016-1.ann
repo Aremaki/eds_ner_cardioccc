@@ -1,55 +1,55 @@
-T1	PROCEDIMIENTO 1088 1093	iones
-T2	PROCEDIMIENTO 1095 1112	enzimas hepáticas
-T3	PROCEDIMIENTO 1115 1122	lípidos
-T4	PROCEDIMIENTO 1134 1151	Proteínas totales
-T5	PROCEDIMIENTO 1153 1166	proteinograma
-T6	PROCEDIMIENTO 1168 1184	inmunoglobulinas
-T7	PROCEDIMIENTO 1187 1198	complemento
-T8	PROCEDIMIENTO 1671 1688	Análisis de orina
-T9	PROCEDIMIENTO 1782 1800	Sedimento de orina
-T10	PROCEDIMIENTO 1809 1850	Radiografías de tórax y columna vertebral
-T11	PROCEDIMIENTO 1884 1930	Ecografía abdominal, renal y de vías urinarias
-T12	PROCEDIMIENTO 2027 2036	analítica
-T13	PROCEDIMIENTO 2278 2366	hierro y vitaminas B12 y ácido fólico se corrigieron parcialmente con suplementos orales
-T14	PROCEDIMIENTO 2540 2599	estudio endoscópico del tubo digestivo con toma de biopsias
-T15	PROCEDIMIENTO 3049 3059	rojo congo
-T16	PROCEDIMIENTO 3062 3080	inmunohistoquímica
-T17	PROCEDIMIENTO 3158 3182	biopsia renal percutánea
-T18	PROCEDIMIENTO 3617 3627	rojo congo
-T19	PROCEDIMIENTO 3688 3706	inmunohistoquímica
-T20	PROCEDIMIENTO 4196 4250	bloqueante del sistema renina-angiotensina-aldosterona
-T21	PROCEDIMIENTO 4299 4323	marcadores inflamatorios
-T22	PROCEDIMIENTO 833 844	analgésicos
-T23	PROCEDIMIENTO 846 864	Exploración física
-T24	PROCEDIMIENTO 969 987	Análisis de sangre
-T25	SINTOMA 2135 2146	albuminuria
-T26	SINTOMA 1716 1727	albuminuria
-T27	SINTOMA 1308 1457	anticuerpos antinucleares, anticuerpos anti-DNA, anticuerpos anticitoplásmicos de neutrófilos y antígenos de histocompatibilidad-B27 fueron negativos
-T28	SINTOMA 294 315	deficiencia de hierro
-T29	SINTOMA 2485 2519	deficiencias de hierro y vitaminas
-T30	SINTOMA 2262 2315	deficiencias de hierro y vitaminas B12 y ácido fólico
-T31	SINTOMA 2425 2433	disfagia
-T32	SINTOMA 373 381	disfagia
-T33	SINTOMA 2435 2444	dispepsia
-T34	SINTOMA 459 500	dolor lumbar de características mecánicas
-T35	SINTOMA 1884 1938	Ecografía abdominal, renal y de vías urinarias: normal
-T36	SINTOMA 66 99	elevación de la creatinina sérica
-T37	SINTOMA 514 532	episodios febriles
-T38	SINTOMA 846 871	Exploración física normal
-T39	SINTOMA 1210 1236	Factor reumatoide negativo
-T40	SINTOMA 3923 3929	fiebre
-T41	SINTOMA 534 555	inflamación articular
-T42	SINTOMA 1088 1132	iones, enzimas hepáticas y lípidos: normales
-T43	SINTOMA 4179 4189	leucopenia
-T44	SINTOMA 415 449	manifestaciones gastrointestinales
-T45	SINTOMA 384 403	pesadez posprandial
-T46	SINTOMA 1134 1208	Proteínas totales, proteinograma, inmunoglobulinas y complemento: normales
-T47	SINTOMA 1690 1701	proteinuria
-T48	SINTOMA 3258 3269	proteinuria
-T49	SINTOMA 2109 2120	proteinuria
-T50	SINTOMA 2232 2243	proteinuria
-T51	SINTOMA 1809 1882	Radiografías de tórax y columna vertebral sin alteraciones significativas
-T52	SINTOMA 318 341	reflujo gastroesofágico
-T53	SINTOMA 1782 1807	Sedimento de orina normal
-T54	SINTOMA 3113 3133	signos inflamatorios
-T55	SINTOMA 2396 2423	síntomas gastrointestinales
+T1	SINTOMA 2135 2146	albuminuria
+T2	SINTOMA 1716 1727	albuminuria
+T3	SINTOMA 1308 1457	anticuerpos antinucleares, anticuerpos anti-DNA, anticuerpos anticitoplásmicos de neutrófilos y antígenos de histocompatibilidad-B27 fueron negativos
+T4	SINTOMA 294 315	deficiencia de hierro
+T5	SINTOMA 2485 2519	deficiencias de hierro y vitaminas
+T6	SINTOMA 2262 2315	deficiencias de hierro y vitaminas B12 y ácido fólico
+T7	SINTOMA 2425 2433	disfagia
+T8	SINTOMA 373 381	disfagia
+T9	SINTOMA 2435 2444	dispepsia
+T10	SINTOMA 459 500	dolor lumbar de características mecánicas
+T11	SINTOMA 1884 1938	Ecografía abdominal, renal y de vías urinarias: normal
+T12	SINTOMA 66 99	elevación de la creatinina sérica
+T13	SINTOMA 514 532	episodios febriles
+T14	SINTOMA 846 871	Exploración física normal
+T15	SINTOMA 1210 1236	Factor reumatoide negativo
+T16	SINTOMA 3923 3929	fiebre
+T17	SINTOMA 534 555	inflamación articular
+T18	SINTOMA 1088 1132	iones, enzimas hepáticas y lípidos: normales
+T19	SINTOMA 4179 4189	leucopenia
+T20	SINTOMA 415 449	manifestaciones gastrointestinales
+T21	SINTOMA 384 403	pesadez posprandial
+T22	SINTOMA 1134 1208	Proteínas totales, proteinograma, inmunoglobulinas y complemento: normales
+T23	SINTOMA 1690 1701	proteinuria
+T24	SINTOMA 3258 3269	proteinuria
+T25	SINTOMA 2109 2120	proteinuria
+T26	SINTOMA 2232 2243	proteinuria
+T27	SINTOMA 1809 1882	Radiografías de tórax y columna vertebral sin alteraciones significativas
+T28	SINTOMA 318 341	reflujo gastroesofágico
+T29	SINTOMA 1782 1807	Sedimento de orina normal
+T30	SINTOMA 3113 3133	signos inflamatorios
+T31	SINTOMA 2396 2423	síntomas gastrointestinales
+T32	PROCEDIMIENTO 1088 1093	iones
+T33	PROCEDIMIENTO 1095 1112	enzimas hepáticas
+T34	PROCEDIMIENTO 1115 1122	lípidos
+T35	PROCEDIMIENTO 1134 1151	Proteínas totales
+T36	PROCEDIMIENTO 1153 1166	proteinograma
+T37	PROCEDIMIENTO 1168 1184	inmunoglobulinas
+T38	PROCEDIMIENTO 1187 1198	complemento
+T39	PROCEDIMIENTO 1671 1688	Análisis de orina
+T40	PROCEDIMIENTO 1782 1800	Sedimento de orina
+T41	PROCEDIMIENTO 1809 1850	Radiografías de tórax y columna vertebral
+T42	PROCEDIMIENTO 1884 1930	Ecografía abdominal, renal y de vías urinarias
+T43	PROCEDIMIENTO 2027 2036	analítica
+T44	PROCEDIMIENTO 2278 2366	hierro y vitaminas B12 y ácido fólico se corrigieron parcialmente con suplementos orales
+T45	PROCEDIMIENTO 2540 2599	estudio endoscópico del tubo digestivo con toma de biopsias
+T46	PROCEDIMIENTO 3049 3059	rojo congo
+T47	PROCEDIMIENTO 3062 3080	inmunohistoquímica
+T48	PROCEDIMIENTO 3158 3182	biopsia renal percutánea
+T49	PROCEDIMIENTO 3617 3627	rojo congo
+T50	PROCEDIMIENTO 3688 3706	inmunohistoquímica
+T51	PROCEDIMIENTO 4196 4250	bloqueante del sistema renina-angiotensina-aldosterona
+T52	PROCEDIMIENTO 4299 4323	marcadores inflamatorios
+T53	PROCEDIMIENTO 833 844	analgésicos
+T54	PROCEDIMIENTO 846 864	Exploración física
+T55	PROCEDIMIENTO 969 987	Análisis de sangre

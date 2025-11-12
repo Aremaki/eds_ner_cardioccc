@@ -1,37 +1,37 @@
-T1	ENFERMEDAD 843 877	escotoma periférico inferior en OD
-T2	ENFERMEDAD 48 68	MNO primario del ojo
-T3	ENFERMEDAD 112 121	proptosis
-T4	ENFERMEDAD 1385 1394	proptosis
-T5	ENFERMEDAD 1439 1457	diplopía binocular
-T6	ENFERMEDAD 625 639	MNO intraconal
-T7	ENFERMEDAD 278 296	diplopía binocular
-T8	ENFERMEDAD 603 609	lesión
-T9	PROCEDIMIENTO 1062 1064	CV
-T10	PROCEDIMIENTO 1157 1160	RFE
-T11	PROCEDIMIENTO 1249 1251	CV
-T12	PROCEDIMIENTO 1256 1258	FO
-T13	PROCEDIMIENTO 481 492	funduscopía
-T14	PROCEDIMIENTO 567 584	pruebas de imagen
-T15	PROCEDIMIENTO 668 675	biopsia
-T16	PROCEDIMIENTO 743 763	resonancia magnética
-T17	PROCEDIMIENTO 765 767	RM
-T18	PROCEDIMIENTO 771 783	campo visual
-T19	PROCEDIMIENTO 785 787	CV
-T20	PROCEDIMIENTO 89 100	exploración
-T21	PROCEDIMIENTO 951 965	betabloqueante
-T22	SINTOMA 1365 1380	edema palpebral
-T23	SINTOMA 429 473	agudeza visual (AV) inicial era de la unidad
-T24	SINTOMA 199 238	compromiso del drenaje venoso orbitario
-T25	SINTOMA 879 894	deterioro de AV
-T26	SINTOMA 1439 1457	diplopía binocular
-T27	SINTOMA 278 333	diplopía binocular en elevación, levo y dextroversiones
-T28	SINTOMA 137 159	edema blando palpebral
-T29	SINTOMA 897 913	elevación de PIO
-T30	SINTOMA 843 871	escotoma periférico inferior
-T31	SINTOMA 1400 1413	ingurgitación
-T32	SINTOMA 161 194	ingurgitación conjuntivo-escleral
-T33	SINTOMA 501 561	papila del OD aparecía hiperémica y ligeramente sobreelevada
-T34	SINTOMA 1385 1394	proptosis
-T35	SINTOMA 112 132	proptosis unilateral
-T36	SINTOMA 335 371	pupilas isocóricas y normorreactivas
-T37	SINTOMA 240 275	restricción en las ducciones del OD
+T1	SINTOMA 1365 1380	edema palpebral
+T2	SINTOMA 429 473	agudeza visual (AV) inicial era de la unidad
+T3	SINTOMA 199 238	compromiso del drenaje venoso orbitario
+T4	SINTOMA 879 894	deterioro de AV
+T5	SINTOMA 1439 1457	diplopía binocular
+T6	SINTOMA 278 333	diplopía binocular en elevación, levo y dextroversiones
+T7	SINTOMA 137 159	edema blando palpebral
+T8	SINTOMA 897 913	elevación de PIO
+T9	SINTOMA 843 871	escotoma periférico inferior
+T10	SINTOMA 1400 1413	ingurgitación
+T11	SINTOMA 161 194	ingurgitación conjuntivo-escleral
+T12	SINTOMA 501 561	papila del OD aparecía hiperémica y ligeramente sobreelevada
+T13	SINTOMA 1385 1394	proptosis
+T14	SINTOMA 112 132	proptosis unilateral
+T15	SINTOMA 335 371	pupilas isocóricas y normorreactivas
+T16	SINTOMA 240 275	restricción en las ducciones del OD
+T17	ENFERMEDAD 843 877	escotoma periférico inferior en OD
+T18	ENFERMEDAD 48 68	MNO primario del ojo
+T19	ENFERMEDAD 112 121	proptosis
+T20	ENFERMEDAD 1385 1394	proptosis
+T21	ENFERMEDAD 1439 1457	diplopía binocular
+T22	ENFERMEDAD 625 639	MNO intraconal
+T23	ENFERMEDAD 278 296	diplopía binocular
+T24	ENFERMEDAD 603 609	lesión
+T25	PROCEDIMIENTO 1062 1064	CV
+T26	PROCEDIMIENTO 1157 1160	RFE
+T27	PROCEDIMIENTO 1249 1251	CV
+T28	PROCEDIMIENTO 1256 1258	FO
+T29	PROCEDIMIENTO 481 492	funduscopía
+T30	PROCEDIMIENTO 567 584	pruebas de imagen
+T31	PROCEDIMIENTO 668 675	biopsia
+T32	PROCEDIMIENTO 743 763	resonancia magnética
+T33	PROCEDIMIENTO 765 767	RM
+T34	PROCEDIMIENTO 771 783	campo visual
+T35	PROCEDIMIENTO 785 787	CV
+T36	PROCEDIMIENTO 89 100	exploración
+T37	PROCEDIMIENTO 951 965	betabloqueante

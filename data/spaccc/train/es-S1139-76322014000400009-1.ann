@@ -1,47 +1,47 @@
-T1	ENFERMEDAD 907 931	taquicardia de QRS ancho
-T2	ENFERMEDAD 1565 1624	taquicardia supraventricular (TSV) conducida con aberrancia
-T3	ENFERMEDAD 1595 1598	TSV
-T4	ENFERMEDAD 2220 2260	TSV paroxística con conducción aberrante
-T5	ENFERMEDAD 293 304	cardiopatía
-T6	ENFERMEDAD 336 358	enfermedades cardiacas
-T7	PROCEDIMIENTO 1241 1259	exploración física
-T8	PROCEDIMIENTO 1411 1432	Auscultación cardiaca
-T9	PROCEDIMIENTO 1525 1528	ECG
-T10	PROCEDIMIENTO 1656 1701	revertir la taquicardia con maniobras vagales
-T11	PROCEDIMIENTO 1703 1720	reflejo de náusea
-T12	PROCEDIMIENTO 1722 1737	frío en la cara
-T13	PROCEDIMIENTO 1779 1796	bolo de adenosina
-T14	PROCEDIMIENTO 1852 1855	ECG
-T15	PROCEDIMIENTO 1895 1914	analítica sanguínea
-T16	PROCEDIMIENTO 1922 1927	iones
-T17	PROCEDIMIENTO 1930 1949	enzimas miocárdicas
-T18	PROCEDIMIENTO 2093 2107	ecocardiograma
-T19	PROCEDIMIENTO 500 521	auscultación cardiaca
-T20	PROCEDIMIENTO 768 786	electrocardiograma
-T21	PROCEDIMIENTO 788 791	ECG
-T22	PROCEDIMIENTO 882 903	electrocardiográficos
-T23	SINTOMA 643 663	Buen relleno capilar
-T24	SINTOMA 1394 1409	Buena perfusión
-T25	SINTOMA 513 544	cardiaca muestra tonos rítmicos
-T26	SINTOMA 1852 1890	ECG basal, que no muestra alteraciones
-T27	SINTOMA 2093 2126	ecocardiograma que resultó normal
-T28	SINTOMA 1922 1983	iones y enzimas miocárdicas dentro del rango de la normalidad
-T29	SINTOMA 1714 1720	náusea
-T30	SINTOMA 1461 1488	Pulsos periféricos normales
-T31	SINTOMA 597 641	pulsos periféricos son rítmicos y simétricos
-T32	SINTOMA 1210 1236	sensación de palpitaciones
-T33	SINTOMA 472 495	dificultad respiratoria
-T34	SINTOMA 147 160	palpitaciones
-T35	SINTOMA 183 197	dolor torácico
-T36	SINTOMA 200 206	disnea
-T37	SINTOMA 585 591	soplos
-T38	SINTOMA 1370 1380	Consciente
-T39	SINTOMA 1383 1392	orientado
-T40	SINTOMA 1453 1459	soplos
-T41	SINTOMA 1184 1196	asintomático
-T42	SINTOMA 434 444	consciente
-T43	SINTOMA 447 456	orientado
-T44	SINTOMA 1823 1836	ritmo sinusal
-T45	SINTOMA 1437 1448	taquicardia
-T46	SINTOMA 1668 1679	taquicardia
-T47	SINTOMA 361 374	muerte súbita
+T1	SINTOMA 643 663	Buen relleno capilar
+T2	SINTOMA 1394 1409	Buena perfusión
+T3	SINTOMA 513 544	cardiaca muestra tonos rítmicos
+T4	SINTOMA 1852 1890	ECG basal, que no muestra alteraciones
+T5	SINTOMA 2093 2126	ecocardiograma que resultó normal
+T6	SINTOMA 1922 1983	iones y enzimas miocárdicas dentro del rango de la normalidad
+T7	SINTOMA 1714 1720	náusea
+T8	SINTOMA 1461 1488	Pulsos periféricos normales
+T9	SINTOMA 597 641	pulsos periféricos son rítmicos y simétricos
+T10	SINTOMA 1210 1236	sensación de palpitaciones
+T11	SINTOMA 472 495	dificultad respiratoria
+T12	SINTOMA 147 160	palpitaciones
+T13	SINTOMA 183 197	dolor torácico
+T14	SINTOMA 200 206	disnea
+T15	SINTOMA 585 591	soplos
+T16	SINTOMA 1370 1380	Consciente
+T17	SINTOMA 1383 1392	orientado
+T18	SINTOMA 1453 1459	soplos
+T19	SINTOMA 1184 1196	asintomático
+T20	SINTOMA 434 444	consciente
+T21	SINTOMA 447 456	orientado
+T22	SINTOMA 1823 1836	ritmo sinusal
+T23	SINTOMA 1437 1448	taquicardia
+T24	SINTOMA 1668 1679	taquicardia
+T25	SINTOMA 361 374	muerte súbita
+T26	ENFERMEDAD 907 931	taquicardia de QRS ancho
+T27	ENFERMEDAD 1565 1624	taquicardia supraventricular (TSV) conducida con aberrancia
+T28	ENFERMEDAD 1595 1598	TSV
+T29	ENFERMEDAD 2220 2260	TSV paroxística con conducción aberrante
+T30	ENFERMEDAD 293 304	cardiopatía
+T31	ENFERMEDAD 336 358	enfermedades cardiacas
+T32	PROCEDIMIENTO 1241 1259	exploración física
+T33	PROCEDIMIENTO 1411 1432	Auscultación cardiaca
+T34	PROCEDIMIENTO 1525 1528	ECG
+T35	PROCEDIMIENTO 1656 1701	revertir la taquicardia con maniobras vagales
+T36	PROCEDIMIENTO 1703 1720	reflejo de náusea
+T37	PROCEDIMIENTO 1722 1737	frío en la cara
+T38	PROCEDIMIENTO 1779 1796	bolo de adenosina
+T39	PROCEDIMIENTO 1852 1855	ECG
+T40	PROCEDIMIENTO 1895 1914	analítica sanguínea
+T41	PROCEDIMIENTO 1922 1927	iones
+T42	PROCEDIMIENTO 1930 1949	enzimas miocárdicas
+T43	PROCEDIMIENTO 2093 2107	ecocardiograma
+T44	PROCEDIMIENTO 500 521	auscultación cardiaca
+T45	PROCEDIMIENTO 768 786	electrocardiograma
+T46	PROCEDIMIENTO 788 791	ECG
+T47	PROCEDIMIENTO 882 903	electrocardiográficos

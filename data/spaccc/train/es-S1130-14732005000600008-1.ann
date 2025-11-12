@@ -1,17 +1,17 @@
-T1	ENFERMEDAD 116 126	tabaquismo
-T2	ENFERMEDAD 128 149	hipertensión arterial
-T3	ENFERMEDAD 1108 1123	pseudoaneurisma
-T4	ENFERMEDAD 1514 1529	pseudoaneurisma
-T5	ENFERMEDAD 151 170	hipercolesterolemia
-T6	ENFERMEDAD 172 183	peritonitis
-T7	ENFERMEDAD 200 220	infarto de miocardio
-T8	ENFERMEDAD 324 443	arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda
-T9	ENFERMEDAD 732 819	zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
-T10	ENFERMEDAD 60 81	hemiparesia izquierda
-T11	ENFERMEDAD 689 819	estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
-T12	ENFERMEDAD 309 356	oclusión de la arteria carótida interna derecha
-T13	SINTOMA 60 81	hemiparesia izquierda
-T14	SINTOMA 1461 1488	permeabilidad de la arteria
-T15	SINTOMA 449 468	signos de disección
-T16	SINTOMA 1560 1615	síntomas neurológicos en territorio carotídeo izquierdo
-T17	SINTOMA 502 525	suplencia contralateral
+T1	SINTOMA 60 81	hemiparesia izquierda
+T2	SINTOMA 1461 1488	permeabilidad de la arteria
+T3	SINTOMA 449 468	signos de disección
+T4	SINTOMA 1560 1615	síntomas neurológicos en territorio carotídeo izquierdo
+T5	SINTOMA 502 525	suplencia contralateral
+T6	ENFERMEDAD 116 126	tabaquismo
+T7	ENFERMEDAD 128 149	hipertensión arterial
+T8	ENFERMEDAD 1108 1123	pseudoaneurisma
+T9	ENFERMEDAD 1514 1529	pseudoaneurisma
+T10	ENFERMEDAD 151 170	hipercolesterolemia
+T11	ENFERMEDAD 172 183	peritonitis
+T12	ENFERMEDAD 200 220	infarto de miocardio
+T13	ENFERMEDAD 324 443	arteria carótida interna derecha y estenosis del 60% asociada a pseudoaneurisma en el trayecto cervical de la izquierda
+T14	ENFERMEDAD 732 819	zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T15	ENFERMEDAD 60 81	hemiparesia izquierda
+T16	ENFERMEDAD 689 819	estenosis que se extendía también sobre la zona pseudoaneurismática del trayecto cervical de la arteria carótida interna izquierda
+T17	ENFERMEDAD 309 356	oclusión de la arteria carótida interna derecha

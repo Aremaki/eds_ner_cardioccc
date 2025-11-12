@@ -1,42 +1,42 @@
-T1	PROCEDIMIENTO 117 136	ecografía abdominal
-T2	PROCEDIMIENTO 1229 1292	TAC abdomino-pélvico realizado con contraste oral e intravenoso
-T3	PROCEDIMIENTO 1931 1934	TAC
-T4	PROCEDIMIENTO 2090 2111	estudios radiológicos
-T5	PROCEDIMIENTO 2148 2174	punción-biopsia percutánea
-T6	PROCEDIMIENTO 2227 2245	citología de orina
-T7	PROCEDIMIENTO 2312 2373	intervención quirúrgica mediante abordaje pararrectal derecho
-T8	PROCEDIMIENTO 2654 2714	resección cuidadosa de la masa quística y del apéndice cecal
-T9	PROCEDIMIENTO 2792 2817	estudio anatomopatológico
-T10	PROCEDIMIENTO 299 316	inspección física
-T11	PROCEDIMIENTO 3095 3098	UIV
-T12	PROCEDIMIENTO 3132 3155	intervención quirúrgica
-T13	PROCEDIMIENTO 3179 3202	función renal bilateral
-T14	PROCEDIMIENTO 3432 3435	TAC
-T15	PROCEDIMIENTO 447 456	palpación
-T16	PROCEDIMIENTO 575 587	tacto rectal
-T17	PROCEDIMIENTO 668 687	analítica sanguínea
-T18	PROCEDIMIENTO 692 723	sedimento y el cultivo de orina
-T19	PROCEDIMIENTO 707 723	cultivo de orina
-T20	PROCEDIMIENTO 775 794	ecografía abdominal
-T21	PROCEDIMIENTO 949 963	urografía i.v.
-T22	PROCEDIMIENTO 965 968	UIV
-T23	SINTOMA 3376 3388	asintomático
-T24	SINTOMA 3173 3202	buena función renal bilateral
-T25	SINTOMA 1611 1659	calcificaciones puntiformes en la pared quística
-T26	SINTOMA 2227 2282	citología de orina, que no evidenciaba células malignas
-T27	SINTOMA 1056 1107	desplazamiento del segmento lumbo-ilíaco del uréter
-T28	SINTOMA 163 172	dispepsia
-T29	SINTOMA 983 1027	distorsión de la silueta y la pelvis renales
-T30	SINTOMA 3283 3299	distorsión renal
-T31	SINTOMA 1175 1211	ectasia del tracto urinario superior
-T32	SINTOMA 520 541	irritación peritoneal
-T33	SINTOMA 2390 2394	masa
-T34	SINTOMA 2680 2684	masa
-T35	SINTOMA 464 481	masa era indolora
-T36	SINTOMA 339 386	masa que deformaba hemiabdomen anterior derecho
-T37	SINTOMA 1318 1368	masa quística polilobulada retroperitoneal derecha
-T38	SINTOMA 83 103	masa retroperitoneal
-T39	SINTOMA 548 570	matidez a la percusión
-T40	SINTOMA 603 639	próstata de tamaño II/V, adenomatosa
-T41	SINTOMA 1864 1911	riñón derecho se mostraba funcionalmente normal
-T42	SINTOMA 692 738	sedimento y el cultivo de orina, eran normales
+T1	SINTOMA 3376 3388	asintomático
+T2	SINTOMA 3173 3202	buena función renal bilateral
+T3	SINTOMA 1611 1659	calcificaciones puntiformes en la pared quística
+T4	SINTOMA 2227 2282	citología de orina, que no evidenciaba células malignas
+T5	SINTOMA 1056 1107	desplazamiento del segmento lumbo-ilíaco del uréter
+T6	SINTOMA 163 172	dispepsia
+T7	SINTOMA 983 1027	distorsión de la silueta y la pelvis renales
+T8	SINTOMA 3283 3299	distorsión renal
+T9	SINTOMA 1175 1211	ectasia del tracto urinario superior
+T10	SINTOMA 520 541	irritación peritoneal
+T11	SINTOMA 2390 2394	masa
+T12	SINTOMA 2680 2684	masa
+T13	SINTOMA 464 481	masa era indolora
+T14	SINTOMA 339 386	masa que deformaba hemiabdomen anterior derecho
+T15	SINTOMA 1318 1368	masa quística polilobulada retroperitoneal derecha
+T16	SINTOMA 83 103	masa retroperitoneal
+T17	SINTOMA 548 570	matidez a la percusión
+T18	SINTOMA 603 639	próstata de tamaño II/V, adenomatosa
+T19	SINTOMA 1864 1911	riñón derecho se mostraba funcionalmente normal
+T20	SINTOMA 692 738	sedimento y el cultivo de orina, eran normales
+T21	PROCEDIMIENTO 117 136	ecografía abdominal
+T22	PROCEDIMIENTO 1229 1292	TAC abdomino-pélvico realizado con contraste oral e intravenoso
+T23	PROCEDIMIENTO 1931 1934	TAC
+T24	PROCEDIMIENTO 2090 2111	estudios radiológicos
+T25	PROCEDIMIENTO 2148 2174	punción-biopsia percutánea
+T26	PROCEDIMIENTO 2227 2245	citología de orina
+T27	PROCEDIMIENTO 2312 2373	intervención quirúrgica mediante abordaje pararrectal derecho
+T28	PROCEDIMIENTO 2654 2714	resección cuidadosa de la masa quística y del apéndice cecal
+T29	PROCEDIMIENTO 2792 2817	estudio anatomopatológico
+T30	PROCEDIMIENTO 299 316	inspección física
+T31	PROCEDIMIENTO 3095 3098	UIV
+T32	PROCEDIMIENTO 3132 3155	intervención quirúrgica
+T33	PROCEDIMIENTO 3179 3202	función renal bilateral
+T34	PROCEDIMIENTO 3432 3435	TAC
+T35	PROCEDIMIENTO 447 456	palpación
+T36	PROCEDIMIENTO 575 587	tacto rectal
+T37	PROCEDIMIENTO 668 687	analítica sanguínea
+T38	PROCEDIMIENTO 692 723	sedimento y el cultivo de orina
+T39	PROCEDIMIENTO 707 723	cultivo de orina
+T40	PROCEDIMIENTO 775 794	ecografía abdominal
+T41	PROCEDIMIENTO 949 963	urografía i.v.
+T42	PROCEDIMIENTO 965 968	UIV

@@ -1,20 +1,20 @@
-T1	ENFERMEDAD 27 80	ERC estadio 5 secundaria a poliquistosis hepatorrenal
-T2	ENFERMEDAD 54 80	poliquistosis hepatorrenal
-T3	ENFERMEDAD 100 121	hipertensión arterial
-T4	ENFERMEDAD 124 137	hiperuricemia
-T5	ENFERMEDAD 583 600	orquiepididimitis
-T6	ENFERMEDAD 721 746	proceso vaginal permeable
-T7	ENFERMEDAD 516 545	edematización inguinoescrotal
-T8	ENFERMEDAD 859 884	conducto peritoneovaginal
-T9	PROCEDIMIENTO 202 231	tratamiento renal sustitutivo
-T10	PROCEDIMIENTO 283 338	se inserta catéter peritoneal recto no autoposicionante
-T11	PROCEDIMIENTO 380 384	DPCA
-T12	PROCEDIMIENTO 484 503	Diálisis Peritoneal
-T13	PROCEDIMIENTO 613 632	TAC-peritoneografía
-T14	PROCEDIMIENTO 758 775	reposo peritoneal
-T15	PROCEDIMIENTO 794 806	hemodiálisis
-T16	PROCEDIMIENTO 837 884	cierre quirúrgico del conducto peritoneovaginal
-T17	PROCEDIMIENTO 898 902	DPCA
-T18	SINTOMA 147 184	deterioro progresivo de función renal
-T19	SINTOMA 516 545	edematización inguinoescrotal
-T20	SINTOMA 675 705	paso de contraste a testículos
+T1	SINTOMA 147 184	deterioro progresivo de función renal
+T2	SINTOMA 516 545	edematización inguinoescrotal
+T3	SINTOMA 675 705	paso de contraste a testículos
+T4	ENFERMEDAD 27 80	ERC estadio 5 secundaria a poliquistosis hepatorrenal
+T5	ENFERMEDAD 54 80	poliquistosis hepatorrenal
+T6	ENFERMEDAD 100 121	hipertensión arterial
+T7	ENFERMEDAD 124 137	hiperuricemia
+T8	ENFERMEDAD 583 600	orquiepididimitis
+T9	ENFERMEDAD 721 746	proceso vaginal permeable
+T10	ENFERMEDAD 516 545	edematización inguinoescrotal
+T11	ENFERMEDAD 859 884	conducto peritoneovaginal
+T12	PROCEDIMIENTO 202 231	tratamiento renal sustitutivo
+T13	PROCEDIMIENTO 283 338	se inserta catéter peritoneal recto no autoposicionante
+T14	PROCEDIMIENTO 380 384	DPCA
+T15	PROCEDIMIENTO 484 503	Diálisis Peritoneal
+T16	PROCEDIMIENTO 613 632	TAC-peritoneografía
+T17	PROCEDIMIENTO 758 775	reposo peritoneal
+T18	PROCEDIMIENTO 794 806	hemodiálisis
+T19	PROCEDIMIENTO 837 884	cierre quirúrgico del conducto peritoneovaginal
+T20	PROCEDIMIENTO 898 902	DPCA

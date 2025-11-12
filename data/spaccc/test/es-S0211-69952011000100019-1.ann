@@ -1,35 +1,35 @@
-T1	ENFERMEDAD 644 659	derrame pleural
-T2	ENFERMEDAD 45 64	glucogenosis tipo V
-T3	ENFERMEDAD 66 87	enfermedad de McArdle
-T4	ENFERMEDAD 90 112	malformación de Chiari
-T5	ENFERMEDAD 114 141	insuficiencia renal crónica
-T6	ENFERMEDAD 1079 1107	comunicación pleuroperitonal
-T7	ENFERMEDAD 1474 1483	trombosis
-T8	ENFERMEDAD 154 171	atrofia retiniana
-T9	ENFERMEDAD 174 195	hipertensión arterial
-T10	ENFERMEDAD 805 820	derrame pleural
-T11	ENFERMEDAD 879 900	fístula arteriovenosa
-T12	ENFERMEDAD 902 905	FAV
-T13	ENFERMEDAD 518 528	hidrotórax
-T14	ENFERMEDAD 1294 1309	derrame pleural
-T15	ENFERMEDAD 955 963	miositis
-T16	PROCEDIMIENTO 1130 1160	diálisis peritoneal automática
-T17	PROCEDIMIENTO 1162 1165	DPA
-T18	PROCEDIMIENTO 1363 1366	DPA
-T19	PROCEDIMIENTO 1424 1440	trasplante renal
-T20	PROCEDIMIENTO 1453 1469	trasplantectomía
-T21	PROCEDIMIENTO 1542 1544	DP
-T22	PROCEDIMIENTO 208 242	implantación de catéter peritoneal
-T23	PROCEDIMIENTO 287 295	diálisis
-T24	PROCEDIMIENTO 475 494	radiografía detórax
-T25	PROCEDIMIENTO 564 566	DP
-T26	PROCEDIMIENTO 632 659	drenaje del derrame pleural
-T27	PROCEDIMIENTO 696 716	radiografía de tórax
-T28	PROCEDIMIENTO 756 758	DP
-T29	PROCEDIMIENTO 868 900	punción de fístula arteriovenosa
-T30	PROCEDIMIENTO 996 1008	hemodiálisis
-T31	SINTOMA 1576 1584	falleció
-T32	SINTOMA 456 462	disnea
-T33	SINTOMA 413 445	dolor pleurítico en el hemitórax
-T34	SINTOMA 390 411	incomodidad abdominal
-T35	SINTOMA 676 716	normalización de la radiografía de tórax
+T1	SINTOMA 1576 1584	falleció
+T2	SINTOMA 456 462	disnea
+T3	SINTOMA 413 445	dolor pleurítico en el hemitórax
+T4	SINTOMA 390 411	incomodidad abdominal
+T5	SINTOMA 676 716	normalización de la radiografía de tórax
+T6	ENFERMEDAD 644 659	derrame pleural
+T7	ENFERMEDAD 45 64	glucogenosis tipo V
+T8	ENFERMEDAD 66 87	enfermedad de McArdle
+T9	ENFERMEDAD 90 112	malformación de Chiari
+T10	ENFERMEDAD 114 141	insuficiencia renal crónica
+T11	ENFERMEDAD 1079 1107	comunicación pleuroperitonal
+T12	ENFERMEDAD 1474 1483	trombosis
+T13	ENFERMEDAD 154 171	atrofia retiniana
+T14	ENFERMEDAD 174 195	hipertensión arterial
+T15	ENFERMEDAD 805 820	derrame pleural
+T16	ENFERMEDAD 879 900	fístula arteriovenosa
+T17	ENFERMEDAD 902 905	FAV
+T18	ENFERMEDAD 518 528	hidrotórax
+T19	ENFERMEDAD 1294 1309	derrame pleural
+T20	ENFERMEDAD 955 963	miositis
+T21	PROCEDIMIENTO 1130 1160	diálisis peritoneal automática
+T22	PROCEDIMIENTO 1162 1165	DPA
+T23	PROCEDIMIENTO 1363 1366	DPA
+T24	PROCEDIMIENTO 1424 1440	trasplante renal
+T25	PROCEDIMIENTO 1453 1469	trasplantectomía
+T26	PROCEDIMIENTO 1542 1544	DP
+T27	PROCEDIMIENTO 208 242	implantación de catéter peritoneal
+T28	PROCEDIMIENTO 287 295	diálisis
+T29	PROCEDIMIENTO 475 494	radiografía detórax
+T30	PROCEDIMIENTO 564 566	DP
+T31	PROCEDIMIENTO 632 659	drenaje del derrame pleural
+T32	PROCEDIMIENTO 696 716	radiografía de tórax
+T33	PROCEDIMIENTO 756 758	DP
+T34	PROCEDIMIENTO 868 900	punción de fístula arteriovenosa
+T35	PROCEDIMIENTO 996 1008	hemodiálisis

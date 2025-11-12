@@ -1,35 +1,35 @@
-T1	ENFERMEDAD 984 1002	retención de orina
-T2	ENFERMEDAD 125 148	infección urinaria baja
-T3	ENFERMEDAD 151 167	cólico nefrítico
-T4	ENFERMEDAD 2362 2376	adenocarcinoma
-T5	ENFERMEDAD 26 33	fumador
-T6	ENFERMEDAD 492 506	adenocarcinoma
-T7	ENFERMEDAD 585 599	patología ósea
-T8	ENFERMEDAD 1496 1570	uretra peneana repleta de formaciones mamelonadas de 0,5-1 cm, polipoideas
-T9	PROCEDIMIENTO 1019 1034	sondaje vesical
-T10	PROCEDIMIENTO 1171 1191	estudio flujométrico
-T11	PROCEDIMIENTO 1349 1386	resección transuretral de la próstata
-T12	PROCEDIMIENTO 1413 1479	se introduce el resector para efectuar la resección de la próstata
-T13	PROCEDIMIENTO 1769 1774	R.T.U
-T14	PROCEDIMIENTO 182 194	tacto rectal
-T15	PROCEDIMIENTO 1871 1885	antiandrógenos
-T16	PROCEDIMIENTO 2037 2090	resección de los mamelones uretrales y de la próstata
-T17	PROCEDIMIENTO 2150 2169	anatomía patológica
-T18	PROCEDIMIENTO 2186 2207	filiación histológica
-T19	PROCEDIMIENTO 2231 2254	mantuvo sondaje vesical
-T20	PROCEDIMIENTO 2277 2319	diagnóstico histológico del tejido uretral
-T21	PROCEDIMIENTO 265 274	ecografía
-T22	PROCEDIMIENTO 420 439	biopsia de próstata
-T23	PROCEDIMIENTO 531 560	gammagrafía ósea de estadiaje
-T24	PROCEDIMIENTO 613 641	bloqueo androgénico completo
-T25	PROCEDIMIENTO 646 660	antiandrógenos
-T26	PROCEDIMIENTO 663 677	análogos LH-RH
-T27	SINTOMA 870 904	empeoramiento de su estado general
-T28	SINTOMA 2530 2554	excelente estado general
-T29	SINTOMA 972 981	hematuria
-T30	SINTOMA 2325 2330	masas
-T31	SINTOMA 322 344	crecimiento prostático
-T32	SINTOMA 1128 1149	orinar casi por goteo
-T33	SINTOMA 208 260	próstata fija, pétrea, e irregular, en ambos lóbulos
-T34	SINTOMA 984 1002	retención de orina
-T35	SINTOMA 1683 1719	uretra bulbar y prostática es normal
+T1	SINTOMA 870 904	empeoramiento de su estado general
+T2	SINTOMA 2530 2554	excelente estado general
+T3	SINTOMA 972 981	hematuria
+T4	SINTOMA 2325 2330	masas
+T5	SINTOMA 322 344	crecimiento prostático
+T6	SINTOMA 1128 1149	orinar casi por goteo
+T7	SINTOMA 208 260	próstata fija, pétrea, e irregular, en ambos lóbulos
+T8	SINTOMA 984 1002	retención de orina
+T9	SINTOMA 1683 1719	uretra bulbar y prostática es normal
+T10	ENFERMEDAD 984 1002	retención de orina
+T11	ENFERMEDAD 125 148	infección urinaria baja
+T12	ENFERMEDAD 151 167	cólico nefrítico
+T13	ENFERMEDAD 2362 2376	adenocarcinoma
+T14	ENFERMEDAD 26 33	fumador
+T15	ENFERMEDAD 492 506	adenocarcinoma
+T16	ENFERMEDAD 585 599	patología ósea
+T17	ENFERMEDAD 1496 1570	uretra peneana repleta de formaciones mamelonadas de 0,5-1 cm, polipoideas
+T18	PROCEDIMIENTO 1019 1034	sondaje vesical
+T19	PROCEDIMIENTO 1171 1191	estudio flujométrico
+T20	PROCEDIMIENTO 1349 1386	resección transuretral de la próstata
+T21	PROCEDIMIENTO 1413 1479	se introduce el resector para efectuar la resección de la próstata
+T22	PROCEDIMIENTO 1769 1774	R.T.U
+T23	PROCEDIMIENTO 182 194	tacto rectal
+T24	PROCEDIMIENTO 1871 1885	antiandrógenos
+T25	PROCEDIMIENTO 2037 2090	resección de los mamelones uretrales y de la próstata
+T26	PROCEDIMIENTO 2150 2169	anatomía patológica
+T27	PROCEDIMIENTO 2186 2207	filiación histológica
+T28	PROCEDIMIENTO 2231 2254	mantuvo sondaje vesical
+T29	PROCEDIMIENTO 2277 2319	diagnóstico histológico del tejido uretral
+T30	PROCEDIMIENTO 265 274	ecografía
+T31	PROCEDIMIENTO 420 439	biopsia de próstata
+T32	PROCEDIMIENTO 531 560	gammagrafía ósea de estadiaje
+T33	PROCEDIMIENTO 613 641	bloqueo androgénico completo
+T34	PROCEDIMIENTO 646 660	antiandrógenos
+T35	PROCEDIMIENTO 663 677	análogos LH-RH

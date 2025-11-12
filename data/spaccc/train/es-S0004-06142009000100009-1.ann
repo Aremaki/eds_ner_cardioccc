@@ -1,28 +1,28 @@
-T1	ENFERMEDAD 1275 1292	hidrocele derecho
-T2	ENFERMEDAD 71 93	traumatismo testicular
-T3	ENFERMEDAD 1496 1505	hidrocele
-T4	ENFERMEDAD 920 937	hidrocele derecho
-T5	ENFERMEDAD 976 990	poliorquidismo
-T6	ENFERMEDAD 995 1004	hidrocele
-T7	PROCEDIMIENTO 1038 1041	TAC
-T8	PROCEDIMIENTO 1228 1253	escrototomía exploratoria
-T9	PROCEDIMIENTO 124 131	cirugía
-T10	PROCEDIMIENTO 1401 1408	biopsia
-T11	PROCEDIMIENTO 1455 1505	eversión de la vaginal para solución del hidrocele
-T12	PROCEDIMIENTO 1510 1529	anatomía patológica
-T13	PROCEDIMIENTO 250 263	autopalpación
-T14	PROCEDIMIENTO 305 323	exploración física
-T15	PROCEDIMIENTO 677 708	marcadores tumorales germinales
-T16	PROCEDIMIENTO 738 758	ecografía testicular
-T17	PROCEDIMIENTO 875 890	ecográficamente
-T18	SINTOMA 143 177	aumento del tamaño del hemiescroto
-T19	SINTOMA 595 612	dolorosa al tacto
-T20	SINTOMA 1061 1118	dos estructuras en hemiescroto derecho de similar aspecto
-T21	SINTOMA 776 832	estructura adyacente a teste derecho en su polo superior
-T22	SINTOMA 437 476	hemiescroto derecho aumentado de tamaño
-T23	SINTOMA 197 225	leves molestias testiculares
-T24	SINTOMA 677 730	marcadores tumorales germinales, con resultado normal
-T25	SINTOMA 271 290	masa paratesticular
-T26	SINTOMA 338 367	pene sin hallazgos de interés
-T27	SINTOMA 372 430	teste izquierdo de tamaño, movilidad y consistencia normal
-T28	SINTOMA 484 496	teste normal
+T1	SINTOMA 143 177	aumento del tamaño del hemiescroto
+T2	SINTOMA 595 612	dolorosa al tacto
+T3	SINTOMA 1061 1118	dos estructuras en hemiescroto derecho de similar aspecto
+T4	SINTOMA 776 832	estructura adyacente a teste derecho en su polo superior
+T5	SINTOMA 437 476	hemiescroto derecho aumentado de tamaño
+T6	SINTOMA 197 225	leves molestias testiculares
+T7	SINTOMA 677 730	marcadores tumorales germinales, con resultado normal
+T8	SINTOMA 271 290	masa paratesticular
+T9	SINTOMA 338 367	pene sin hallazgos de interés
+T10	SINTOMA 372 430	teste izquierdo de tamaño, movilidad y consistencia normal
+T11	SINTOMA 484 496	teste normal
+T12	ENFERMEDAD 1275 1292	hidrocele derecho
+T13	ENFERMEDAD 71 93	traumatismo testicular
+T14	ENFERMEDAD 1496 1505	hidrocele
+T15	ENFERMEDAD 920 937	hidrocele derecho
+T16	ENFERMEDAD 976 990	poliorquidismo
+T17	ENFERMEDAD 995 1004	hidrocele
+T18	PROCEDIMIENTO 1038 1041	TAC
+T19	PROCEDIMIENTO 1228 1253	escrototomía exploratoria
+T20	PROCEDIMIENTO 124 131	cirugía
+T21	PROCEDIMIENTO 1401 1408	biopsia
+T22	PROCEDIMIENTO 1455 1505	eversión de la vaginal para solución del hidrocele
+T23	PROCEDIMIENTO 1510 1529	anatomía patológica
+T24	PROCEDIMIENTO 250 263	autopalpación
+T25	PROCEDIMIENTO 305 323	exploración física
+T26	PROCEDIMIENTO 677 708	marcadores tumorales germinales
+T27	PROCEDIMIENTO 738 758	ecografía testicular
+T28	PROCEDIMIENTO 875 890	ecográficamente

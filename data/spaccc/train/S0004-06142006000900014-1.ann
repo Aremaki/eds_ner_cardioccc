@@ -1,32 +1,32 @@
-T1	PROCEDIMIENTO 1238 1259	nefrostomía pecutánea
-T2	PROCEDIMIENTO 1339 1350	nefrostomía
-T3	PROCEDIMIENTO 1412 1456	antibioterapia endovenosa de amplio espectro
-T4	PROCEDIMIENTO 1555 1594	nefrectomía derecha mediante lombotomía
-T5	PROCEDIMIENTO 2212 2230	examen histológico
-T6	PROCEDIMIENTO 2926 2949	intervención quirúrgica
-T7	PROCEDIMIENTO 358 371	examen físico
-T8	PROCEDIMIENTO 392 410	palpación profunda
-T9	PROCEDIMIENTO 520 532	Murphy renal
-T10	PROCEDIMIENTO 666 679	función renal
-T11	PROCEDIMIENTO 767 791	radiografía reno-vesical
-T12	PROCEDIMIENTO 868 953	tomografía axial computerizada abdomino-pélvica con inyección de contraste endovenoso
-T13	SINTOMA 1860 1902	arbol piélico presenta contenido purulento
-T14	SINTOMA 381 447	dolor a la palpación profunda localizado en el hemiabdomen derecho
-T15	SINTOMA 666 713	función renal dentro de los parámetros normales
-T16	SINTOMA 728 750	hematuria microscópica
-T17	SINTOMA 159 184	Hemodinamicamente estable
-T18	SINTOMA 578 627	leucitosis (22.390 con desviación a la izquierda)
-T19	SINTOMA 715 725	leucituria
-T20	SINTOMA 1314 1350	líquido purulento por la nefrostomía
-T21	SINTOMA 1314 1403	líquido purulento por la nefrostomía que la cultura del mismo revela flora polimicrobiana
-T22	SINTOMA 520 541	Murphy renal positivo
-T23	SINTOMA 967 1037	riñón derecho aumentado de tamaño, con desorganización córtico medular
-T24	SINTOMA 1974 2024	supuración con abcedificación del parénquima renal
-T25	SINTOMA 100 108	anorexia
-T26	SINTOMA 91 98	astenia
-T27	SINTOMA 1201 1218	deterioro general
-T28	SINTOMA 111 123	dolor lumbar
-T29	SINTOMA 192 198	fiebre
-T30	SINTOMA 464 485	irritación peritoneal
-T31	SINTOMA 504 508	masa
-T32	SINTOMA 2962 2969	fallece
+T1	SINTOMA 1860 1902	arbol piélico presenta contenido purulento
+T2	SINTOMA 381 447	dolor a la palpación profunda localizado en el hemiabdomen derecho
+T3	SINTOMA 666 713	función renal dentro de los parámetros normales
+T4	SINTOMA 728 750	hematuria microscópica
+T5	SINTOMA 159 184	Hemodinamicamente estable
+T6	SINTOMA 578 627	leucitosis (22.390 con desviación a la izquierda)
+T7	SINTOMA 715 725	leucituria
+T8	SINTOMA 1314 1350	líquido purulento por la nefrostomía
+T9	SINTOMA 1314 1403	líquido purulento por la nefrostomía que la cultura del mismo revela flora polimicrobiana
+T10	SINTOMA 520 541	Murphy renal positivo
+T11	SINTOMA 967 1037	riñón derecho aumentado de tamaño, con desorganización córtico medular
+T12	SINTOMA 1974 2024	supuración con abcedificación del parénquima renal
+T13	SINTOMA 100 108	anorexia
+T14	SINTOMA 91 98	astenia
+T15	SINTOMA 1201 1218	deterioro general
+T16	SINTOMA 111 123	dolor lumbar
+T17	SINTOMA 192 198	fiebre
+T18	SINTOMA 464 485	irritación peritoneal
+T19	SINTOMA 504 508	masa
+T20	SINTOMA 2962 2969	fallece
+T21	PROCEDIMIENTO 1238 1259	nefrostomía pecutánea
+T22	PROCEDIMIENTO 1339 1350	nefrostomía
+T23	PROCEDIMIENTO 1412 1456	antibioterapia endovenosa de amplio espectro
+T24	PROCEDIMIENTO 1555 1594	nefrectomía derecha mediante lombotomía
+T25	PROCEDIMIENTO 2212 2230	examen histológico
+T26	PROCEDIMIENTO 2926 2949	intervención quirúrgica
+T27	PROCEDIMIENTO 358 371	examen físico
+T28	PROCEDIMIENTO 392 410	palpación profunda
+T29	PROCEDIMIENTO 520 532	Murphy renal
+T30	PROCEDIMIENTO 666 679	función renal
+T31	PROCEDIMIENTO 767 791	radiografía reno-vesical
+T32	PROCEDIMIENTO 868 953	tomografía axial computerizada abdomino-pélvica con inyección de contraste endovenoso

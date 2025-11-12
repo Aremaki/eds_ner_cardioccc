@@ -1,22 +1,22 @@
-T1	ENFERMEDAD 38 73	infecciones urinarias de repetición
-T2	ENFERMEDAD 2440 2465	sepsis de origen urinario
-T3	ENFERMEDAD 299 339	placa de extrofia vesical en hipogastrio
-T4	ENFERMEDAD 2013 2032	adenopatía inguinal
-T5	ENFERMEDAD 1147 1169	adenocarcinoma vesical
-T6	ENFERMEDAD 1245 1255	metástasis
-T7	ENFERMEDAD 345 369	pene epispádico completo
-T8	ENFERMEDAD 894 951	dilatación grado III/IV de ambos sistemas pielocaliciales
-T9	ENFERMEDAD 990 1019	anulación funcional del riñón
-T10	ENFERMEDAD 600 622	adenopatías inguinales
-T11	ENFERMEDAD 1734 1778	adenopatías ilíacas infiltradas por el tumor
-T12	ENFERMEDAD 2166 2190	recidiva local del tumor
-T13	ENFERMEDAD 2123 2140	herida quirúrgica
-T14	SINTOMA 246 251	dolor
-T15	SINTOMA 2407 2415	falleció
-T16	SINTOMA 1088 1092	masa
-T17	SINTOMA 990 1019	anulación funcional del riñón
-T18	SINTOMA 2092 2140	induración de los bordes de la herida quirúrgica
-T19	SINTOMA 116 152	masa en la zona inferior del abdomen
-T20	SINTOMA 2330 2393	masa heterogénea de bordes mal definidos en el lecho quirúrgico
-T21	SINTOMA 2250 2303	rastreo óseo en este momento continuó siendo negativo
-T22	SINTOMA 1817 1824	T4bN2M0
+T1	SINTOMA 246 251	dolor
+T2	SINTOMA 2407 2415	falleció
+T3	SINTOMA 1088 1092	masa
+T4	SINTOMA 990 1019	anulación funcional del riñón
+T5	SINTOMA 2092 2140	induración de los bordes de la herida quirúrgica
+T6	SINTOMA 116 152	masa en la zona inferior del abdomen
+T7	SINTOMA 2330 2393	masa heterogénea de bordes mal definidos en el lecho quirúrgico
+T8	SINTOMA 2250 2303	rastreo óseo en este momento continuó siendo negativo
+T9	SINTOMA 1817 1824	T4bN2M0
+T10	ENFERMEDAD 38 73	infecciones urinarias de repetición
+T11	ENFERMEDAD 2440 2465	sepsis de origen urinario
+T12	ENFERMEDAD 299 339	placa de extrofia vesical en hipogastrio
+T13	ENFERMEDAD 2013 2032	adenopatía inguinal
+T14	ENFERMEDAD 1147 1169	adenocarcinoma vesical
+T15	ENFERMEDAD 1245 1255	metástasis
+T16	ENFERMEDAD 345 369	pene epispádico completo
+T17	ENFERMEDAD 894 951	dilatación grado III/IV de ambos sistemas pielocaliciales
+T18	ENFERMEDAD 990 1019	anulación funcional del riñón
+T19	ENFERMEDAD 600 622	adenopatías inguinales
+T20	ENFERMEDAD 1734 1778	adenopatías ilíacas infiltradas por el tumor
+T21	ENFERMEDAD 2166 2190	recidiva local del tumor
+T22	ENFERMEDAD 2123 2140	herida quirúrgica

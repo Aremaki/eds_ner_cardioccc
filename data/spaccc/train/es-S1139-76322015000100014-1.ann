@@ -1,45 +1,45 @@
-T1	ENFERMEDAD 1253 1271	convulsión afebril
-T2	ENFERMEDAD 80 108	crisis compleja generalizada
-T3	ENFERMEDAD 2702 2737	episodios convulsivos generalizados
-T4	ENFERMEDAD 1469 1488	parada respiratoria
-T5	ENFERMEDAD 683 700	trastorno bipolar
-T6	ENFERMEDAD 3004 3024	lesiones de sangrado
-T7	ENFERMEDAD 2200 2218	meningoencefalitis
-T8	ENFERMEDAD 2414 2418	lúes
-T9	ENFERMEDAD 2488 2499	parotiditis
-T10	ENFERMEDAD 2405 2412	rubeola
-T11	ENFERMEDAD 2513 2522	sarampión
-T12	ENFERMEDAD 2447 2455	varicela
-T13	SINTOMA 3722 3863	anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos
-T14	SINTOMA 1253 1271	convulsión afebril
-T15	SINTOMA 113 134	desconexión del medio
-T16	SINTOMA 4300 4310	EEG normal
-T17	SINTOMA 776 793	estado poscrítico
-T18	SINTOMA 1671 1688	estado poscrítico
-T19	SINTOMA 1846 1882	hiperreflexia de miembros inferiores
-T20	SINTOMA 181 191	hipertonía
-T21	SINTOMA 3189 3241	influenza A en el exudado nasal, resultando positivo
-T22	SINTOMA 3640 3687	LCR bandas oligoclonales que resultan negativas
-T23	SINTOMA 2140 2173	lentificación global la actividad
-T24	SINTOMA 205 238	movimientos de la comisura labial
-T25	SINTOMA 2923 2986	resonancia magnética (RM) cerebral urgente con resultado normal
-T26	SINTOMA 3591 3622	RM cerebral que persiste normal
-T27	SINTOMA 3483 3577	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos
-T28	SINTOMA 2230 2332	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas
-T29	SINTOMA 1888 1914	signos meníngeos negativos
-T30	SINTOMA 3065 3073	mialgias
-T31	SINTOMA 3076 3082	fiebre
-T32	SINTOMA 2652 2661	agitación
-T33	SINTOMA 2666 2677	somnolencia
-T34	SINTOMA 193 202	sialorrea
-T35	SINTOMA 357 365	mialgias
-T36	SINTOMA 367 374	cefalea
-T37	SINTOMA 377 383	fiebre
-T38	SINTOMA 416 423	afebril
-T39	SINTOMA 3134 3153	clínica neurológica
-T40	SINTOMA 4282 4294	asintomática
-T41	SINTOMA 3016 3024	sangrado
-T42	SINTOMA 3936 3948	convulsiones
-T43	SINTOMA 1373 1383	convulsión
-T44	SINTOMA 3443 3462	episodio convulsivo
-T45	SINTOMA 3986 4007	episodios convulsivos
+T1	SINTOMA 3722 3863	anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos
+T2	SINTOMA 1253 1271	convulsión afebril
+T3	SINTOMA 113 134	desconexión del medio
+T4	SINTOMA 4300 4310	EEG normal
+T5	SINTOMA 776 793	estado poscrítico
+T6	SINTOMA 1671 1688	estado poscrítico
+T7	SINTOMA 1846 1882	hiperreflexia de miembros inferiores
+T8	SINTOMA 181 191	hipertonía
+T9	SINTOMA 3189 3241	influenza A en el exudado nasal, resultando positivo
+T10	SINTOMA 3640 3687	LCR bandas oligoclonales que resultan negativas
+T11	SINTOMA 2140 2173	lentificación global la actividad
+T12	SINTOMA 205 238	movimientos de la comisura labial
+T13	SINTOMA 2923 2986	resonancia magnética (RM) cerebral urgente con resultado normal
+T14	SINTOMA 3591 3622	RM cerebral que persiste normal
+T15	SINTOMA 3483 3577	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos
+T16	SINTOMA 2230 2332	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas
+T17	SINTOMA 1888 1914	signos meníngeos negativos
+T18	SINTOMA 3065 3073	mialgias
+T19	SINTOMA 3076 3082	fiebre
+T20	SINTOMA 2652 2661	agitación
+T21	SINTOMA 2666 2677	somnolencia
+T22	SINTOMA 193 202	sialorrea
+T23	SINTOMA 357 365	mialgias
+T24	SINTOMA 367 374	cefalea
+T25	SINTOMA 377 383	fiebre
+T26	SINTOMA 416 423	afebril
+T27	SINTOMA 3134 3153	clínica neurológica
+T28	SINTOMA 4282 4294	asintomática
+T29	SINTOMA 3016 3024	sangrado
+T30	SINTOMA 3936 3948	convulsiones
+T31	SINTOMA 1373 1383	convulsión
+T32	SINTOMA 3443 3462	episodio convulsivo
+T33	SINTOMA 3986 4007	episodios convulsivos
+T34	ENFERMEDAD 1253 1271	convulsión afebril
+T35	ENFERMEDAD 80 108	crisis compleja generalizada
+T36	ENFERMEDAD 2702 2737	episodios convulsivos generalizados
+T37	ENFERMEDAD 1469 1488	parada respiratoria
+T38	ENFERMEDAD 683 700	trastorno bipolar
+T39	ENFERMEDAD 3004 3024	lesiones de sangrado
+T40	ENFERMEDAD 2200 2218	meningoencefalitis
+T41	ENFERMEDAD 2414 2418	lúes
+T42	ENFERMEDAD 2488 2499	parotiditis
+T43	ENFERMEDAD 2405 2412	rubeola
+T44	ENFERMEDAD 2513 2522	sarampión
+T45	ENFERMEDAD 2447 2455	varicela
