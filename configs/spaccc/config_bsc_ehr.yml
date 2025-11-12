@@ -126,8 +126,8 @@ train:
   output_dir: './models/ner_spaccc_bsc_ehr'
   train_data: ${ train_data }
   val_data: ${ val_data }
-  max_steps: 10000
-  validation_interval: ${ train.max_steps//100 }
+  max_steps: 2000
+  validation_interval: ${ train.max_steps//10 }
   grad_max_norm: 1.0
   scorer: ${ scorer }
   optimizer: ${ optimizer }
