@@ -65,6 +65,7 @@ def infer(
 
     # Collect and convert after processing
     rows_by_label = defaultdict(list)
+    rows_overall = []
 
     for doc in docs:  # iterate over processed docs
         for label in [
@@ -86,12 +87,22 @@ def infer(
                     "end_span": ent.end_char,
                     "text": ent.text,
                 })
+                rows_overall.append({
+                    "filename": doc._.note_id,
+                    "label": label,
+                    "start_span": ent.start_char,
+                    "end_span": ent.end_char,
+                    "text": ent.text,
+                })
+
+    out_dir = Path(output_path) / "results_tsv"
+    out_dir.mkdir(parents=True, exist_ok=True)  # <-- ensure folder exists
 
     # Write one CSV per label
     for label, rows in rows_by_label.items():
-        out_dir = Path(output_path) / "results_tsv"
-        out_dir.mkdir(parents=True, exist_ok=True)  # <-- ensure folder exists
         pd.DataFrame(rows).to_csv(out_dir / f"{label}.tsv", sep="\t", index=False)
+    # Write overall CSV
+    pd.DataFrame(rows_overall).to_csv(out_dir / "all_labels.tsv", sep="\t", index=False)
 
     edsnlp.data.write_standoff(  # type: ignore
         docs,
