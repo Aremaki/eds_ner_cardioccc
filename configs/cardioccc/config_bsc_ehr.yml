@@ -1,9 +1,9 @@
 # Some variables are grouped here for conviency but we could also
 # put their values directly in the config in place of their reference
 vars:
-  train: './data/spaccc/train'
-  dev: './data/spaccc/test'
-  test: './data/spaccc/test_pred'
+  train: './data/cardioccc/train'
+  dev: './data/cardioccc/test'
+  test: './data/cardioccc/test_pred'
   base_model: '/data/scratch/cse200093/word-embedding/bsc-bio-ehr-es'
 
 # 🤖 PIPELINE DEFINITION
@@ -123,11 +123,11 @@ loggers:
 train:
   nlp: ${ nlp }
   seed: 42
-  output_dir: './models/ner_spaccc_bsc_ehr'
+  output_dir: './models/ner_cardioccc_bsc_ehr'
   train_data: ${ train_data }
   val_data: ${ val_data }
-  max_steps: 10000
-  validation_interval: ${ train.max_steps//100 }
+  max_steps: 3000
+  validation_interval: ${ train.max_steps//10 }
   grad_max_norm: 1.0
   scorer: ${ scorer }
   optimizer: ${ optimizer }
@@ -141,7 +141,7 @@ train:
 # -> python -m edsnlp.infer --config configs/config.yml
 infer:
   input_path: ${ vars.test }
-  output_path: './data/results/ner_spaccc_bsc_ehr'
+  output_path: './data/results/ner_cardioccc_bsc_ehr'
   model_path: ${ train.output_dir }
   batch_size: "32 docs"
   show_progress: false

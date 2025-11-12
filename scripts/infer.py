@@ -67,7 +67,15 @@ def infer(
     rows_by_label = defaultdict(list)
 
     for doc in docs:  # iterate over processed docs
-        for label in ["DISEASE", "MEDICATION", "PROCEDURE", "SYMPTOM"]:
+        for label in [
+            "DISEASE",
+            "MEDICATION",
+            "PROCEDURE",
+            "SYMPTOM",
+            "ENFERMEDAD",
+            "PROCEDIMIENTO",
+            "SINTOMA",
+        ]:
             if label not in doc.spans:
                 continue
             for ent in doc.spans[label]:
